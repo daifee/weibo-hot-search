@@ -2,6 +2,8 @@
 name: 抓取数据
 
 on:
+  push:
+    - 'main'
   # 每5分钟执行1次
   schedule:
     - cron: '*/5 * * * *'
