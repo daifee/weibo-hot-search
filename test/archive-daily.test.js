@@ -1,9 +1,12 @@
 const archiveDaily = require('../scripts/archive-daily');
+const spider = require('../scripts/spider');
 
 describe('test/archive-daily.test.js', () => {
   test.only('getDailySourceFilePaths(timestamp)', async () => {
-    const files = archiveDaily.getDailySourceFilePaths(1657965739042);
+    const runTime = Date.now();
+    await spider.run();
+    const files = archiveDaily.getDailySourceFilePaths(runTime);
 
-    expect(files.length >= 2).toBe(true);
+    expect(files.length >= 1).toBe(true);
   });
 });
