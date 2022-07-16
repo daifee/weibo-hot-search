@@ -73,22 +73,22 @@ function getDailyDir(timestamp) {
   ].join('/');
 
   const dir = path.resolve(SOURCE_PATH, datePath);
+  fs.mkdirSync(dir, { recursive: true });
   return dir;
 }
 
 function getDataFilePath(runTime) {
   const dir = getDailyDir(runTime);
-  fs.mkdirSync(dir, { recursive: true });
 
   return `${dir}/${runTime}.json`;
 }
 
-function saveSourceData(runTime, data) {
+function saveSourceData(timestamp, data) {
   const json = JSON.stringify({
-    runTime: (new Date(runTime)).toString(),
+    runTime: (new Date(timestamp)).toString(),
     source: data,
   }, '', 2);
-  const filePath = getDataFilePath(runTime);
+  const filePath = getDataFilePath(timestamp);
   fs.writeFileSync(filePath, json, 'utf-8');
 
   return filePath;
@@ -117,13 +117,13 @@ function trimData(data) {
 }
 
 // 工作
-async function run() {
-  const runTime = Date.now();
+async function run(timestamp) {
+  const runTime = timestamp || Date.now();
 
   // 请求数据
   let data = await fetchHotSearchList();
 
-  // 修剪数据（不然太大）
+  // 修剪数据，过滤非热搜（不然太大）
   data = trimData(data);
 
   // 记录数据
