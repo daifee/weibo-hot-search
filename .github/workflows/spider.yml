@@ -5,6 +5,8 @@ on:
   # 每5分钟执行1次
   schedule:
     - cron: '*/5 * * * *'
+env: 
+  TZ: Asia/Shanghai
 
 jobs:
   spider:
