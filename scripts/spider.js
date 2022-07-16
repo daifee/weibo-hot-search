@@ -88,6 +88,8 @@ function saveSourceData(runTime, data) {
   }, '', 2);
   const filePath = getDataFilePath(runTime);
   fs.writeFileSync(filePath, json, 'utf-8');
+
+  return filePath;
 }
 
 // 工作
@@ -98,7 +100,7 @@ async function run() {
   const data = await fetchHotSearchList();
 
   // 记录数据
-  saveSourceData(runTime, data);
+  return saveSourceData(runTime, data);
 }
 
 module.exports = {
