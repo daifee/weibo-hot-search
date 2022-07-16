@@ -5,6 +5,7 @@ const axios = require('axios');
 const path = require('path');
 const fs = require('fs');
 const { SOURCE_PATH } = require('./config');
+const utils = require('./utils');
 
 function createAgent() {
   const headers = {
@@ -93,12 +94,37 @@ function saveSourceData(runTime, data) {
   return filePath;
 }
 
+// 修剪数据
+function trimData(data) {
+  const result = {
+    band_list: [],
+    hotgov: null,
+  };
+
+  if (data?.band_list) {
+    result.band_list = data.band_list.filter((item) => {
+      return utils.isHotSearch(item);
+    }).map((item) => {
+      return utils.trimHotSearchItem(item);
+    });
+  }
+
+  if (data?.hotgov) {
+    result.hotgov = utils.trimHotSearchItem(data.hotgov);
+  }
+
+  return result;
+}
+
 // 工作
 async function run() {
   const runTime = Date.now();
 
   // 请求数据
-  const data = await fetchHotSearchList();
+  let data = await fetchHotSearchList();
+
+  // 修剪数据（不然太大）
+  data = trimData(data);
 
   // 记录数据
   return saveSourceData(runTime, data);

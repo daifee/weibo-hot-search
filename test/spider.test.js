@@ -1,7 +1,7 @@
 const fs = require('fs');
 const spider = require('../scripts/spider');
 
-describe('scripts/spider.js', () => {
+describe('test/spider.test.js', () => {
   test('run()', async () => {
     const filePath = await spider.run();
 
