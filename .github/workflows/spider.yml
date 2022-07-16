@@ -1,0 +1,25 @@
+
+name: 抓取数据
+
+on:
+  # 每5分钟执行1次
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  spider:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install
+      - run: node ./cli/spider.js
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add --all
+          git commit -m "spider"
+          git push
+
