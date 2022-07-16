@@ -83,7 +83,7 @@ function getDataFilePath(runTime) {
 
 function saveSourceData(runTime, data) {
   const json = JSON.stringify({
-    runTime: (new Date(runTime)).toLocaleString(),
+    runTime: (new Date(runTime)).toString(),
     source: data,
   }, '', 2);
   const filePath = getDataFilePath(runTime);
@@ -101,7 +101,6 @@ async function run() {
   saveSourceData(runTime, data);
 }
 
-run();
 module.exports = {
   run,
 };
