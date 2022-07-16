@@ -6,7 +6,7 @@ on:
     - 'main'
   # 每5分钟执行1次
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
 env: 
   TZ: Asia/Shanghai
 
