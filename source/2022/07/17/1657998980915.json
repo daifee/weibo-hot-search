@@ -1,0 +1,360 @@
+{
+  "runTime": "Sun Jul 17 2022 03:16:20 GMT+0800 (China Standard Time)",
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 427433,
+        "num": 427433,
+        "word": "上海此次KTV疫情在沪密接2.3万人",
+        "onboard_time": 1657985969,
+        "rank": 0
+      },
+      {
+        "raw_hot": 324805,
+        "num": 324805,
+        "word": "工人收工路上因热射病去世",
+        "onboard_time": 1657979368,
+        "rank": 1
+      },
+      {
+        "raw_hot": 48245,
+        "num": 234659,
+        "word": "烈日下的劳动者辛苦了",
+        "onboard_time": 1657983093,
+        "rank": 2
+      },
+      {
+        "raw_hot": 508746,
+        "num": 233512,
+        "word": "王澄澄",
+        "onboard_time": 1657980212,
+        "rank": 3
+      },
+      {
+        "raw_hot": 204679,
+        "num": 204679,
+        "word": "luca",
+        "onboard_time": 1657995675,
+        "rank": 4
+      },
+      {
+        "raw_hot": 203473,
+        "num": 203473,
+        "word": "为了钱可以放弃底线吗",
+        "onboard_time": 1657990102,
+        "rank": 5
+      },
+      {
+        "raw_hot": 170518,
+        "num": 170518,
+        "word": "黄老师",
+        "onboard_time": 1657977928,
+        "rank": 6
+      },
+      {
+        "raw_hot": 115108,
+        "num": 115108,
+        "word": "用高德打车遇车祸身亡女生哥哥发声",
+        "onboard_time": 1657967425,
+        "rank": 7
+      },
+      {
+        "raw_hot": 67057,
+        "num": 67057,
+        "word": "有象约车回应女生身亡",
+        "onboard_time": 1657974508,
+        "rank": 8
+      },
+      {
+        "raw_hot": 60613,
+        "num": 60613,
+        "word": "RNG成员悼念黄菁",
+        "onboard_time": 1657980331,
+        "rank": 9
+      },
+      {
+        "raw_hot": 170753,
+        "num": 59945,
+        "word": "王俊凯不得不C",
+        "onboard_time": 1657987412,
+        "rank": 10
+      },
+      {
+        "raw_hot": 101715,
+        "num": 59064,
+        "word": "央行原行长谈楼市困境",
+        "onboard_time": 1657985131,
+        "rank": 11
+      },
+      {
+        "raw_hot": 78574,
+        "num": 58686,
+        "word": "星汉灿烂豆瓣开分7.4分",
+        "onboard_time": 1657983873,
+        "rank": 12
+      },
+      {
+        "raw_hot": 73240,
+        "num": 57247,
+        "word": "蔡徐坤717演唱会一周年",
+        "onboard_time": 1657992138,
+        "rank": 13
+      },
+      {
+        "raw_hot": 69210,
+        "num": 56721,
+        "word": "不配吃饭",
+        "onboard_time": 1657982192,
+        "rank": 14
+      },
+      {
+        "raw_hot": 60996,
+        "num": 55308,
+        "word": "黄山警民救助一只黄山短尾幼猴",
+        "onboard_time": 1657991360,
+        "rank": 15
+      },
+      {
+        "raw_hot": 55178,
+        "num": 55178,
+        "word": "狼队 小胖",
+        "onboard_time": 1657977389,
+        "rank": 16
+      },
+      {
+        "raw_hot": 45755,
+        "num": 45755,
+        "word": "妈妈险被撞小女孩喊话车主下来道歉",
+        "onboard_time": 1657970185,
+        "rank": 17
+      },
+      {
+        "raw_hot": 43578,
+        "num": 43578,
+        "word": "中国队6人全满分获国际奥数冠军",
+        "onboard_time": 1657974265,
+        "rank": 18
+      },
+      {
+        "raw_hot": 40924,
+        "num": 40924,
+        "word": "莱万即将加盟巴萨",
+        "onboard_time": 1657991780,
+        "rank": 19
+      },
+      {
+        "raw_hot": 67527,
+        "num": 40523,
+        "word": "许嵩 你好星期六",
+        "onboard_time": 1657983693,
+        "rank": 20
+      },
+      {
+        "raw_hot": 57780,
+        "num": 40294,
+        "word": "傅菁音乐会票价",
+        "onboard_time": 1657969586,
+        "rank": 21
+      },
+      {
+        "raw_hot": 47664,
+        "num": 40239,
+        "word": "谭维维微博自动回复",
+        "onboard_time": 1657979491,
+        "rank": 22
+      },
+      {
+        "raw_hot": 39927,
+        "num": 39927,
+        "word": "电力工人在79米高空吃西瓜降暑",
+        "onboard_time": 1657970608,
+        "rank": 23
+      },
+      {
+        "raw_hot": 36779,
+        "num": 36779,
+        "word": "街道办回应洒水车雨天公园里转圈洒水",
+        "onboard_time": 1657978590,
+        "rank": 24
+      },
+      {
+        "raw_hot": 35109,
+        "num": 35109,
+        "word": "WTT球星挑战赛布达佩斯站",
+        "onboard_time": 1657987168,
+        "rank": 25
+      },
+      {
+        "raw_hot": 35078,
+        "num": 35078,
+        "word": "什么时候才能不为友谊emo",
+        "onboard_time": 1657978887,
+        "rank": 26
+      },
+      {
+        "raw_hot": 33740,
+        "num": 33740,
+        "word": "哪些行为可能导致脊柱侧弯",
+        "onboard_time": 1657978949,
+        "rank": 27
+      },
+      {
+        "raw_hot": 31118,
+        "num": 31118,
+        "word": "马龙王楚钦无缘男双决赛",
+        "onboard_time": 1657996333,
+        "rank": 28
+      },
+      {
+        "raw_hot": 30346,
+        "num": 30346,
+        "word": "高德打车回应",
+        "onboard_time": 1657985850,
+        "rank": 29
+      },
+      {
+        "raw_hot": 41443,
+        "num": 30335,
+        "word": "阚清子檀健次宋代婚礼造型",
+        "onboard_time": 1657978647,
+        "rank": 30
+      },
+      {
+        "raw_hot": 41295,
+        "num": 30235,
+        "word": "Angelababy郭芙蓉造型",
+        "onboard_time": 1657976667,
+        "rank": 31
+      },
+      {
+        "raw_hot": 40647,
+        "num": 30189,
+        "word": "梦华录",
+        "onboard_time": 1657988786,
+        "rank": 32
+      },
+      {
+        "raw_hot": 33080,
+        "num": 30126,
+        "word": "北电2022级表演专业本科新生名单",
+        "onboard_time": 1657978050,
+        "rank": 33
+      },
+      {
+        "raw_hot": 30076,
+        "num": 30076,
+        "word": "中国男篮淘汰赛对阵印度尼西亚",
+        "onboard_time": 1657985432,
+        "rank": 34
+      },
+      {
+        "raw_hot": 23149,
+        "num": 23149,
+        "word": "原来真的会有人笑着走出理发店",
+        "onboard_time": 1657969228,
+        "rank": 35
+      },
+      {
+        "raw_hot": 22248,
+        "num": 22248,
+        "word": "微店崩了",
+        "onboard_time": 1657979130,
+        "rank": 36
+      },
+      {
+        "raw_hot": 21094,
+        "num": 21094,
+        "word": "陕西甘泉夜空出现彩云追月",
+        "onboard_time": 1657987947,
+        "rank": 37
+      },
+      {
+        "raw_hot": 21050,
+        "num": 21050,
+        "word": "斗鱼",
+        "onboard_time": 1657984232,
+        "rank": 38
+      },
+      {
+        "raw_hot": 19428,
+        "num": 19428,
+        "word": "学车前后的肤色变化",
+        "onboard_time": 1657984833,
+        "rank": 39
+      },
+      {
+        "raw_hot": 26451,
+        "num": 19388,
+        "word": "外太空的莫扎特票房破5000万",
+        "onboard_time": 1657994595,
+        "rank": 40
+      },
+      {
+        "raw_hot": 23255,
+        "num": 18759,
+        "word": "张嘉倪cos佟掌柜",
+        "onboard_time": 1657986088,
+        "rank": 41
+      },
+      {
+        "raw_hot": 18055,
+        "num": 18055,
+        "word": "樊振东",
+        "onboard_time": 1657976548,
+        "rank": 42
+      },
+      {
+        "raw_hot": 17095,
+        "num": 17095,
+        "word": "混双 逆转",
+        "onboard_time": 1657985372,
+        "rank": 43
+      },
+      {
+        "raw_hot": 17036,
+        "num": 17036,
+        "word": "中国男篮战胜中国台北男篮",
+        "onboard_time": 1657983394,
+        "rank": 44
+      },
+      {
+        "raw_hot": 16581,
+        "num": 16581,
+        "word": "周琦大帽",
+        "onboard_time": 1657982974,
+        "rank": 45
+      },
+      {
+        "raw_hot": 14229,
+        "num": 14229,
+        "word": "王楚钦王曼昱混双夺冠",
+        "onboard_time": 1657983753,
+        "rank": 46
+      },
+      {
+        "raw_hot": 14112,
+        "num": 14112,
+        "word": "TES战胜EDG",
+        "onboard_time": 1657984590,
+        "rank": 47
+      },
+      {
+        "raw_hot": 13516,
+        "num": 13516,
+        "word": "周琦状态",
+        "onboard_time": 1657982431,
+        "rank": 48
+      },
+      {
+        "raw_hot": 9648,
+        "num": 9648,
+        "word": "王楚钦王曼昱vs张本智和早田希娜",
+        "onboard_time": 1657982553,
+        "rank": 49
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的新疆富民兴疆#"
+    }
+  }
+}
