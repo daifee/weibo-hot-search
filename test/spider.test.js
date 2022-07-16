@@ -2,7 +2,7 @@ const fs = require('fs');
 const spider = require('../scripts/spider');
 
 describe('scripts/spider.js', () => {
-  test('run', async () => {
+  test('run()', async () => {
     const filePath = await spider.run();
 
     expect(filePath).not.toBe(undefined);
@@ -10,5 +10,10 @@ describe('scripts/spider.js', () => {
     const data = JSON.parse(json);
     expect(data.source).not.toBe(undefined);
     expect(data.runTime).not.toBe(undefined);
+  });
+
+  test('getDailyDir(timestamp)', () => {
+    const result = spider.getDailyDir(1657965739042);
+    expect(result).toEqual(expect.stringContaining('source/2022/07/16'));
   });
 });

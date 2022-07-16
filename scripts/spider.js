@@ -51,9 +51,6 @@ function createAgent() {
     }
 
     return res.data.data;
-  }, (error) => {
-    console.error(error);
-    return Promise.reject(error);
   });
 
   return agent;
@@ -66,8 +63,8 @@ function fetchHotSearchList() {
   return agent.get(url);
 }
 
-function getDataFilePath(runTime) {
-  const date = new Date(runTime);
+function getDailyDir(timestamp) {
+  const date = new Date(timestamp);
   const datePath = [
     `${date.getFullYear()}`,
     `${date.getMonth() + 1}`.padStart(2, '0'),
@@ -75,7 +72,11 @@ function getDataFilePath(runTime) {
   ].join('/');
 
   const dir = path.resolve(SOURCE_PATH, datePath);
+  return dir;
+}
 
+function getDataFilePath(runTime) {
+  const dir = getDailyDir(runTime);
   fs.mkdirSync(dir, { recursive: true });
 
   return `${dir}/${runTime}.json`;
@@ -105,4 +106,5 @@ async function run() {
 
 module.exports = {
   run,
+  getDailyDir,
 };
