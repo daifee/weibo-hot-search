@@ -1,0 +1,410 @@
+{
+  "runTime": 1658060201142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762078,
+        "num": 1762078,
+        "word": "医院回应护士抢救病人时看手机",
+        "onboard_time": 1658052511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078718,
+        "num": 1078718,
+        "word": "没见过179和169的人",
+        "onboard_time": 1658052214,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 117658,
+        "num": 841143,
+        "word": "两个动作增强身体柔韧性",
+        "onboard_time": 1658040627,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713480,
+        "num": 713480,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1658059053,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643335,
+        "num": 643335,
+        "word": "神经性皮炎或因焦虑所致",
+        "onboard_time": 1658057970,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597986,
+        "num": 597986,
+        "word": "小米被意大利罚款约2176万元",
+        "onboard_time": 1658052811,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 560918,
+        "num": 560918,
+        "word": "金像奖",
+        "onboard_time": 1658053529,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 549312,
+        "num": 549312,
+        "word": "邓家佳太高产了",
+        "onboard_time": 1658052270,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532942,
+        "num": 532942,
+        "word": "成都新增",
+        "onboard_time": 1658058151,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499499,
+        "num": 499499,
+        "word": "粤核酸",
+        "onboard_time": 1658054312,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 2683998,
+        "num": 454937,
+        "word": "发布国话三试必须线下面试博主道歉",
+        "onboard_time": 1658055452,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596953,
+        "num": 435862,
+        "word": "炫富网红晒与警察父亲合照引争议",
+        "onboard_time": 1658052214,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400466,
+        "num": 400466,
+        "word": "脆皮炸鸡螺蛳粉",
+        "onboard_time": 1658052030,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 639227,
+        "num": 398861,
+        "word": "乌啦啦的小秘密",
+        "onboard_time": 1658050231,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393238,
+        "num": 393238,
+        "word": "25岁男子长相成熟常被误认为42岁",
+        "onboard_time": 1658045127,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336609,
+        "num": 336609,
+        "word": "有被公主裙奶奶的心态治愈到",
+        "onboard_time": 1658059354,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 334379,
+        "num": 334379,
+        "word": "赵露思说追剧装备已ready",
+        "onboard_time": 1658054550,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306905,
+        "num": 306905,
+        "word": "沈阳警方通报网红用警用直升机拍视频",
+        "onboard_time": 1658047830,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122409,
+        "num": 306396,
+        "word": "易烊千玺发声",
+        "onboard_time": 1658024438,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275627,
+        "num": 275627,
+        "word": "杭州开展人工增雨",
+        "onboard_time": 1658053410,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319284,
+        "num": 271638,
+        "word": "庭外太敢拍了",
+        "onboard_time": 1658058452,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1871915,
+        "num": 256260,
+        "word": "韦正发声",
+        "onboard_time": 1658045249,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239703,
+        "num": 239703,
+        "word": "孙颖莎加油",
+        "onboard_time": 1658058812,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205226,
+        "num": 205226,
+        "word": "WTT",
+        "onboard_time": 1658060011,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511878,
+        "num": 205148,
+        "word": "胡先煦发声",
+        "onboard_time": 1658028940,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201565,
+        "num": 201565,
+        "word": "德国缺油推出以油换酒",
+        "onboard_time": 1658058151,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183990,
+        "num": 183990,
+        "word": "苏炳添透露未进决赛原因",
+        "onboard_time": 1658058751,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161789,
+        "num": 161789,
+        "word": "星云奖小说小蘑菇即将漫画化",
+        "onboard_time": 1658056412,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155092,
+        "num": 155092,
+        "word": "小米回应在意大利遭罚款",
+        "onboard_time": 1658056892,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154220,
+        "num": 154220,
+        "word": "深圳核酸",
+        "onboard_time": 1658051131,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279222,
+        "num": 153455,
+        "word": "赵丽颖幸福到万家新华社直播截图",
+        "onboard_time": 1658054973,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271983,
+        "num": 152934,
+        "word": "金像奖红毯",
+        "onboard_time": 1658055933,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269597,
+        "num": 151930,
+        "word": "吴磊靠喝水补充一半碳水",
+        "onboard_time": 1658049872,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241241,
+        "num": 150999,
+        "word": "破事精英",
+        "onboard_time": 1658058871,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150471,
+        "num": 150471,
+        "word": "蓝基因崩了",
+        "onboard_time": 1658059532,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129256,
+        "num": 129256,
+        "word": "真的建议更新表情包了",
+        "onboard_time": 1658042129,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121034,
+        "num": 121034,
+        "word": "饿了么免单",
+        "onboard_time": 1658028761,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 88840,
+        "num": 88840,
+        "word": "上海暴雨",
+        "onboard_time": 1658047710,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79191,
+        "num": 79191,
+        "word": "宁波1艘休闲渔船发生侧翻",
+        "onboard_time": 1658052691,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 70566,
+        "num": 70566,
+        "word": "推凳子给奶奶坐的小奶狗",
+        "onboard_time": 1658039309,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191817,
+        "num": 68287,
+        "word": "TF家族夏日运动会声明",
+        "onboard_time": 1658047049,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186442,
+        "num": 66502,
+        "word": "易烊千玺决定放弃⼊职国话",
+        "onboard_time": 1658025580,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63507,
+        "num": 63507,
+        "word": "四川乐山一餐厅发现恐龙足迹化石",
+        "onboard_time": 1658034818,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62464,
+        "num": 62464,
+        "word": "粉色才是电竞人标配",
+        "onboard_time": 1658046630,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59045,
+        "num": 59045,
+        "word": "XYG对战WE",
+        "onboard_time": 1658055512,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53590,
+        "num": 53590,
+        "word": "500台",
+        "onboard_time": 1658051311,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 51906,
+        "num": 51906,
+        "word": "王嘉男的最后一跳8米36绝杀",
+        "onboard_time": 1658036315,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43501,
+        "num": 43501,
+        "word": "饿了么黑钻免单时间",
+        "onboard_time": 1658042006,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 39499,
+        "num": 39499,
+        "word": "四川北川洪灾致6人死亡12人失联",
+        "onboard_time": 1658034639,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 37705,
+        "num": 37705,
+        "word": "嚣张预售",
+        "onboard_time": 1658037750,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
