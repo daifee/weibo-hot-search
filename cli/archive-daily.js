@@ -1,6 +1,6 @@
 const archiveDaily = require('../scripts/archive-daily');
 
-const date = Date.now();
+const date = new Date();
 
 /**
  * 两次执行归档
