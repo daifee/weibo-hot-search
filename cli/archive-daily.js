@@ -12,8 +12,9 @@ if (hours === 8) {
   // 昨天
   date.setDate(date.getDate() - 1);
   archiveDaily.run(date.getTime());
-}
-
-if (hours === 22) {
+} else if (hours === 22) {
   archiveDaily.run(date.getTime());
+} else {
+  // eslint-disable-next-line no-console
+  console.log('不执行归档任务');
 }
