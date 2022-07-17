@@ -1,0 +1,410 @@
+{
+  "runTime": 1658062862531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1970972,
+        "num": 1970972,
+        "word": "医院回应护士抢救病人时看手机",
+        "onboard_time": 1658052511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277773,
+        "num": 1277773,
+        "word": "没见过179和169的人",
+        "onboard_time": 1658052214,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 100204,
+        "num": 1045421,
+        "word": "两个动作增强身体柔韧性",
+        "onboard_time": 1658040627,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920853,
+        "num": 920853,
+        "word": "神经性皮炎或因焦虑所致",
+        "onboard_time": 1658057970,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789807,
+        "num": 789807,
+        "word": "有被公主裙奶奶的心态治愈到",
+        "onboard_time": 1658059354,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 719959,
+        "num": 719959,
+        "word": "王楚钦vs莫雷高德",
+        "onboard_time": 1658061570,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597296,
+        "num": 597296,
+        "word": "邓家佳太高产了",
+        "onboard_time": 1658052270,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594683,
+        "num": 594683,
+        "word": "梅艳芳",
+        "onboard_time": 1658062050,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592027,
+        "num": 592027,
+        "word": "成都新增",
+        "onboard_time": 1658058151,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574855,
+        "num": 574855,
+        "word": "金像奖",
+        "onboard_time": 1658053529,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1953804,
+        "num": 567699,
+        "word": "发布国话三试必须线下面试博主道歉",
+        "onboard_time": 1658055452,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558114,
+        "num": 558114,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1658059053,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466034,
+        "num": 466034,
+        "word": "苏炳添透露未进决赛原因",
+        "onboard_time": 1658058751,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548701,
+        "num": 465866,
+        "word": "乌啦啦的小秘密",
+        "onboard_time": 1658050231,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462754,
+        "num": 462754,
+        "word": "炫富网红晒与警察父亲合照引争议",
+        "onboard_time": 1658052214,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380431,
+        "num": 380431,
+        "word": "小米被意大利罚款约2176万元",
+        "onboard_time": 1658052811,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 356154,
+        "num": 356154,
+        "word": "25岁男子长相成熟常被误认为42岁",
+        "onboard_time": 1658045127,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355539,
+        "num": 355539,
+        "word": "WTT",
+        "onboard_time": 1658060011,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340718,
+        "num": 340718,
+        "word": "患上抑郁症的鹦鹉",
+        "onboard_time": 1658060551,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 322603,
+        "num": 322603,
+        "word": "王艺迪夺冠",
+        "onboard_time": 1658061093,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 860032,
+        "num": 322536,
+        "word": "易烊千玺发声",
+        "onboard_time": 1658024438,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317911,
+        "num": 317911,
+        "word": "沈阳警方通报网红用警用直升机拍视频",
+        "onboard_time": 1658047830,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307588,
+        "num": 307588,
+        "word": "时代少年团夏令营花絮2",
+        "onboard_time": 1658062351,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750750,
+        "num": 305510,
+        "word": "韦正发声",
+        "onboard_time": 1658045249,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298202,
+        "num": 298202,
+        "word": "蓝基因崩了",
+        "onboard_time": 1658059532,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247349,
+        "num": 247349,
+        "word": "王楚钦加油",
+        "onboard_time": 1658062471,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368935,
+        "num": 241614,
+        "word": "胡先煦发声",
+        "onboard_time": 1658028940,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233894,
+        "num": 233894,
+        "word": "德国缺油推出以油换酒",
+        "onboard_time": 1658058151,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209116,
+        "num": 209116,
+        "word": "雪糕吃太多太快或引发神经性头痛",
+        "onboard_time": 1658062649,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208630,
+        "num": 208630,
+        "word": "杨福家院士逝世",
+        "onboard_time": 1658062171,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270062,
+        "num": 208333,
+        "word": "运动系男生的魅力",
+        "onboard_time": 1658061751,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252928,
+        "num": 207397,
+        "word": "赵露思说追剧装备已ready",
+        "onboard_time": 1658054550,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208806,
+        "num": 206867,
+        "word": "金像奖红毯",
+        "onboard_time": 1658055933,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206247,
+        "num": 206247,
+        "word": "庭外太敢拍了",
+        "onboard_time": 1658058452,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201672,
+        "num": 201672,
+        "word": "脆皮炸鸡螺蛳粉",
+        "onboard_time": 1658052030,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190510,
+        "num": 190510,
+        "word": "粤核酸",
+        "onboard_time": 1658054312,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 168810,
+        "num": 168810,
+        "word": "杭州开展人工增雨",
+        "onboard_time": 1658053410,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127656,
+        "num": 127656,
+        "word": "深圳核酸",
+        "onboard_time": 1658051131,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116840,
+        "num": 116840,
+        "word": "小米回应在意大利遭罚款",
+        "onboard_time": 1658056892,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112885,
+        "num": 112885,
+        "word": "XYG对战WE",
+        "onboard_time": 1658055512,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194421,
+        "num": 111774,
+        "word": "吴磊靠喝水补充一半碳水",
+        "onboard_time": 1658049872,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188657,
+        "num": 111548,
+        "word": "赵丽颖幸福到万家新华社直播截图",
+        "onboard_time": 1658054973,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168781,
+        "num": 109581,
+        "word": "TF家族夏日运动会声明",
+        "onboard_time": 1658047049,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105060,
+        "num": 105060,
+        "word": "星云奖小说小蘑菇即将漫画化",
+        "onboard_time": 1658056412,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90401,
+        "num": 90401,
+        "word": "真的建议更新表情包了",
+        "onboard_time": 1658042129,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84504,
+        "num": 84504,
+        "word": "孙颖莎加油",
+        "onboard_time": 1658058812,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79096,
+        "num": 79096,
+        "word": "WE上演戏剧性翻中翻",
+        "onboard_time": 1658061152,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184351,
+        "num": 76946,
+        "word": "陈梦备战WTT冠军赛",
+        "onboard_time": 1658062831,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73783,
+        "num": 73783,
+        "word": "上海暴雨",
+        "onboard_time": 1658047710,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61879,
+        "num": 61879,
+        "word": "饿了么免单",
+        "onboard_time": 1658028761,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
