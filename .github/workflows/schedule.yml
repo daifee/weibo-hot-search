@@ -1,5 +1,5 @@
 
-name: 搬砖工人
+name: schedule
 
 on:
   push:
@@ -31,6 +31,7 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@github.com"
           git add --all
-          git commit -m "spider"
+          git commit -m "github action schedule update"
+          git pull --rebase
           git push
 
