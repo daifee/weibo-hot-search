@@ -141,9 +141,10 @@ function getFilePath(runTime, ext) {
 
 function archiveJSON(runTime, data) {
   const file = getFilePath(runTime, 'json');
-  fs.writeFileSync(file, JSON.stringify(data, '', 2), 'utf-8');
+  const content = JSON.stringify(data, '', 2);
+  fs.writeFileSync(file, content, 'utf-8');
 
-  return file;
+  return content;
 }
 
 function renderMD(data) {
@@ -175,10 +176,21 @@ async function archiveMD(runTime, data) {
 
   fs.writeFileSync(file, content, 'utf-8');
 
-  return file;
+  return content;
 }
 
-function run(timestamp) {
+function copyToREADME(content) {
+  const readmeFile = path.resolve('./', 'README.md');
+
+  if (process.env.NODE_ENV === 'test') {
+    // eslint-disable-next-line no-param-reassign
+    content = fs.readFileSync(readmeFile, 'utf-8');
+  }
+
+  fs.writeFileSync(readmeFile, content, 'utf-8');
+}
+
+async function run(timestamp) {
   const runTime = timestamp || Date.now();
   // 获取当前所有数据文件
   const sourceFiles = getSourceFiles(runTime);
@@ -190,7 +202,10 @@ function run(timestamp) {
   archiveJSON(runTime, data);
 
   // 归档 md
-  archiveMD(runTime, data);
+  const mdContent = await archiveMD(runTime, data);
+
+  // 同步到README.md
+  copyToREADME(mdContent);
 
   // TODO: 发布微博
 }
