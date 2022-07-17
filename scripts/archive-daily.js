@@ -206,8 +206,6 @@ async function run(timestamp) {
 
   // 同步到README.md
   copyToREADME(mdContent);
-
-  // TODO: 发布微博
 }
 
 module.exports = {
