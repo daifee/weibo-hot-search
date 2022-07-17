@@ -1,18 +1,19 @@
 
-name: 抓取数据
+name: 搬砖工人
 
 on:
   push:
     branches:
       - 'main'
-  # 每5分钟执行1次
+  # 每30分钟执行1次
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
+    - cron: '30 * * * *'
 env: 
   TZ: Asia/Shanghai
 
 jobs:
-  spider:
+  move-bricks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -20,8 +21,13 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      - run: node ./cli/spider.js
-      - run: |
+      - name: 抓取数据
+        run: node ./cli/spider.js
+      - name: 归档日榜
+        if: github.event.schedule == '0 * * * *'
+        run: node ./cli/archive-daily.js
+      - name: 存储
+        run: |
           git config user.name "bot"
           git config user.email "bot@github.com"
           git add --all

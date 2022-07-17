@@ -7,13 +7,8 @@ const spider = require('./spider');
 const { ARCHIVE_PATH } = require('./config');
 
 // 获取当天所有数据文件
-function getSourceFiles(timestamp) {
-  if (!timestamp) {
-    // eslint-disable-next-line no-param-reassign
-    timestamp = Date.now();
-  }
-
-  const dir = spider.getDailyDir(timestamp);
+function getSourceFiles(runTime) {
+  const dir = spider.getDailyDir(runTime);
   const files = fs.readdirSync(dir, 'utf-8');
 
   const regFile = /[0-9]+\.json/;
@@ -32,6 +27,8 @@ function getSourceData(filePath) {
 // 聚合数据
 function aggregate(sourceFiles) {
   const result = {
+    startTime: Number.MAX_SAFE_INTEGER,
+    endTime: 0,
     band_list: [],
     hotgov_list: [],
   };
@@ -90,6 +87,16 @@ function aggregate(sourceFiles) {
     });
 
     appendHotgov(hotgov);
+
+    // 时间
+    const { runTime } = data;
+    if (result.startTime > runTime) {
+      result.startTime = runTime;
+    }
+
+    if (result.endTime < runTime) {
+      result.endTime = runTime;
+    }
   }
 
   // 排序
@@ -110,8 +117,8 @@ function aggregate(sourceFiles) {
 }
 
 // 创建归档目录
-function getArchiveDir(timestamp) {
-  const date = new Date(timestamp);
+function getArchiveDir(runTime) {
+  const date = new Date(runTime);
 
   const dir = path.resolve(ARCHIVE_PATH, `${date.getFullYear()}`);
   fs.mkdirSync(dir, { recursive: true });
@@ -119,7 +126,7 @@ function getArchiveDir(timestamp) {
   return dir;
 }
 
-function archive(dir, runTime, data) {
+function archiveJSON(dir, runTime, data) {
   const date = new Date(runTime);
   const temp = [
     `${date.getMonth() + 1}`.padStart(2, '0'),
@@ -143,7 +150,7 @@ function run(timestamp) {
   const dir = getArchiveDir(runTime);
 
   // 归档 json
-  return archive(dir, runTime, data);
+  return archiveJSON(dir, runTime, data);
 }
 
 module.exports = {

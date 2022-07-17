@@ -1,3 +1,4 @@
 const spider = require('../scripts/spider');
 
-spider.run();
+const runTime = Date.now();
+spider.run(runTime);

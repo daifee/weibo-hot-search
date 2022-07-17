@@ -64,8 +64,8 @@ function fetchHotSearchList() {
   return agent.get(url);
 }
 
-function getDailyDir(timestamp) {
-  const date = new Date(timestamp);
+function getDailyDir(runTime) {
+  const date = new Date(runTime);
   const datePath = [
     `${date.getFullYear()}`,
     `${date.getMonth() + 1}`.padStart(2, '0'),
@@ -83,12 +83,12 @@ function getDataFilePath(runTime) {
   return `${dir}/${runTime}.json`;
 }
 
-function saveSourceData(timestamp, data) {
+function saveSourceData(runTime, data) {
   const json = JSON.stringify({
-    runTime: (new Date(timestamp)).toString(),
+    runTime,
     source: data,
   }, '', 2);
-  const filePath = getDataFilePath(timestamp);
+  const filePath = getDataFilePath(runTime);
   fs.writeFileSync(filePath, json, 'utf-8');
 
   return filePath;

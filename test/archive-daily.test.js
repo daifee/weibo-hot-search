@@ -12,7 +12,7 @@ function getSourceFilePaths() {
 }
 
 describe('test/archive-daily.test.js', () => {
-  test('getSourceFiles(timestamp)', async () => {
+  test('getSourceFiles(runTime)', async () => {
     const runTime = Date.now();
     await spider.run();
     const files = archiveDaily.getSourceFiles(runTime);
@@ -26,10 +26,19 @@ describe('test/archive-daily.test.js', () => {
 
     expect(data.hotgov_list.length).toBe(1);
     expect(data.band_list.length).toBe(50);
+    // console.log(data);
+    expect(data.startTime < Number.MAX_SAFE_INTEGER).toBe(true);
+    expect(data.endTime > 0).toBe(true);
     const first = data.band_list[0];
     const second = data.band_list[1];
 
     expect(first.raw_hot >= second.raw_hot).toBe(true);
+  });
+
+  test('aggregate([])', () => {
+    const data = archiveDaily.aggregate([]);
+    expect(data.hotgov_list.length).toBe(0);
+    expect(data.band_list.length).toBe(0);
   });
 
   test('run(timestamp)', () => {
