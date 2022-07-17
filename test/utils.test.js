@@ -34,4 +34,29 @@ describe('test/utils.test.js', () => {
       age: 999,
     })).toEqual(expected);
   });
+
+  describe('formatDate(timestamp)', () => {
+    test('1', () => {
+      const timestamp = 1658030509598;
+      const received = utils.formatDate(timestamp, 1);
+      expect(received).toBe('2022/07/17');
+    });
+
+    test('2', () => {
+      const timestamp = 1658030509598;
+      const received = utils.formatDate(timestamp, 2);
+      expect(received).toBe('2022/07/17 12:01:49');
+    });
+
+    test('-1', () => {
+      const timestamp = 1658030509598;
+      const received = utils.formatDate(timestamp, -1);
+      expect(received).toBe('');
+    });
+
+    test('-1', () => {
+      const received = utils.formatDate('0', 1);
+      expect(received).toBe('');
+    });
+  });
 });

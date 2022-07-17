@@ -1,0 +1,32 @@
+<h1>
+  微博热搜日榜 <%= date %>
+</h1>
+
+<blockquote>
+  <p>
+    本榜单时间：<%= startTime %> ~ <%= endTime %>
+  </p>
+</blockquote>
+
+<p>每小时抓取一次数据，按天<a href="../">归档</a>。</p>
+
+<h2>
+  置顶（GOV）
+</h2>
+
+<ol>
+  <% hotgov_list.forEach(function(item){ %>
+    <%- include('gov-item', {item: item}); %>
+  <% }); %>
+</ol>
+
+
+<h2>
+  热榜
+</h2>
+
+<ol>
+  <% band_list.forEach(function(item){ %>
+    <%- include('hot-search-item', {item: item}); %>
+  <% }); %>
+</ol>

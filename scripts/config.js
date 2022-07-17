@@ -7,12 +7,31 @@ const path = require('path');
 const basePath = process.env.NODE_ENV === 'test' ? './temp' : './';
 
 const ARCHIVE_PATH = path.resolve(basePath, 'archives');
-fs.mkdirSync(ARCHIVE_PATH, { recursive: true });
 
+// 日榜归档目录
+const ARCHIVE_DAILY_PATH = path.resolve(ARCHIVE_PATH, 'daily');
+fs.mkdirSync(ARCHIVE_DAILY_PATH, { recursive: true });
+
+// 周榜归档目录
+const ARCHIVE_WEEKLY_PATH = path.resolve(ARCHIVE_PATH, 'weekly');
+fs.mkdirSync(ARCHIVE_WEEKLY_PATH, { recursive: true });
+
+// 月榜归档目录
+const ARCHIVE_MONTHLY_PATH = path.resolve(ARCHIVE_PATH, 'monthly');
+fs.mkdirSync(ARCHIVE_MONTHLY_PATH, { recursive: true });
+
+// 年榜归档目录
+const ARCHIVE_YEARLY_PATH = path.resolve(ARCHIVE_PATH, 'yearly');
+fs.mkdirSync(ARCHIVE_YEARLY_PATH, { recursive: true });
+
+// 源数据目录
 const SOURCE_PATH = path.resolve(basePath, 'source');
 fs.mkdirSync(SOURCE_PATH, { recursive: true });
 
+const TEMPLATES_PATH = path.resolve('./', 'scripts/templates');
+
 module.exports = {
-  ARCHIVE_PATH,
+  ARCHIVE_DAILY_PATH,
   SOURCE_PATH,
+  TEMPLATES_PATH,
 };
