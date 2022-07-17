@@ -1,0 +1,360 @@
+{
+  "runTime": 1658056067827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4311027,
+        "num": 4311027,
+        "word": "韦正发声",
+        "onboard_time": 1658045249,
+        "rank": 0
+      },
+      {
+        "raw_hot": 1869962,
+        "num": 1869962,
+        "word": "易烊千玺发声",
+        "onboard_time": 1658024438,
+        "rank": 1
+      },
+      {
+        "raw_hot": 159166,
+        "num": 1502234,
+        "word": "两个动作增强身体柔韧性",
+        "onboard_time": 1658040627,
+        "rank": 2
+      },
+      {
+        "raw_hot": 1417010,
+        "num": 1417010,
+        "word": "没见过179和169的人",
+        "onboard_time": 1658052214,
+        "rank": 3
+      },
+      {
+        "raw_hot": 1042538,
+        "num": 1042538,
+        "word": "炫富网红晒与警察父亲合照引争议",
+        "onboard_time": 1658052214,
+        "rank": 4
+      },
+      {
+        "raw_hot": 989849,
+        "num": 989849,
+        "word": "医院回应护士抢救病人时看手机",
+        "onboard_time": 1658052511,
+        "rank": 5
+      },
+      {
+        "raw_hot": 860506,
+        "num": 860506,
+        "word": "胡先煦发声",
+        "onboard_time": 1658028940,
+        "rank": 6
+      },
+      {
+        "raw_hot": 691359,
+        "num": 691359,
+        "word": "脆皮炸鸡螺蛳粉",
+        "onboard_time": 1658052030,
+        "rank": 7
+      },
+      {
+        "raw_hot": 675525,
+        "num": 675525,
+        "word": "沈阳警方通报网红用警用直升机拍视频",
+        "onboard_time": 1658047830,
+        "rank": 8
+      },
+      {
+        "raw_hot": 611058,
+        "num": 611058,
+        "word": "25岁男子长相成熟常被误认为42岁",
+        "onboard_time": 1658045127,
+        "rank": 9
+      },
+      {
+        "raw_hot": 1421551,
+        "num": 609586,
+        "word": "发布国话三试必须线下面试博主道歉",
+        "onboard_time": 1658055452,
+        "rank": 10
+      },
+      {
+        "raw_hot": 598144,
+        "num": 598144,
+        "word": "邓家佳太高产了",
+        "onboard_time": 1658052270,
+        "rank": 11
+      },
+      {
+        "raw_hot": 574395,
+        "num": 574395,
+        "word": "小米被意大利罚款约2176万元",
+        "onboard_time": 1658052811,
+        "rank": 12
+      },
+      {
+        "raw_hot": 677644,
+        "num": 526496,
+        "word": "乌啦啦的小秘密",
+        "onboard_time": 1658050231,
+        "rank": 13
+      },
+      {
+        "raw_hot": 451373,
+        "num": 451373,
+        "word": "深圳核酸",
+        "onboard_time": 1658051131,
+        "rank": 14
+      },
+      {
+        "raw_hot": 426680,
+        "num": 426680,
+        "word": "杭州开展人工增雨",
+        "onboard_time": 1658053410,
+        "rank": 15
+      },
+      {
+        "raw_hot": 291884,
+        "num": 291884,
+        "word": "粤核酸",
+        "onboard_time": 1658054312,
+        "rank": 16
+      },
+      {
+        "raw_hot": 226439,
+        "num": 226439,
+        "word": "真的建议更新表情包了",
+        "onboard_time": 1658042129,
+        "rank": 17
+      },
+      {
+        "raw_hot": 214051,
+        "num": 214051,
+        "word": "XYG对战WE",
+        "onboard_time": 1658055512,
+        "rank": 18
+      },
+      {
+        "raw_hot": 191794,
+        "num": 191794,
+        "word": "500台",
+        "onboard_time": 1658051311,
+        "rank": 19
+      },
+      {
+        "raw_hot": 531322,
+        "num": 168061,
+        "word": "赵露思说追剧装备已ready",
+        "onboard_time": 1658054550,
+        "rank": 20
+      },
+      {
+        "raw_hot": 440541,
+        "num": 156065,
+        "word": "金像奖",
+        "onboard_time": 1658053529,
+        "rank": 21
+      },
+      {
+        "raw_hot": 371605,
+        "num": 151598,
+        "word": "吴磊靠喝水补充一半碳水",
+        "onboard_time": 1658049872,
+        "rank": 22
+      },
+      {
+        "raw_hot": 143382,
+        "num": 143382,
+        "word": "宁波1艘休闲渔船发生侧翻",
+        "onboard_time": 1658052691,
+        "rank": 23
+      },
+      {
+        "raw_hot": 140715,
+        "num": 140715,
+        "word": "四川乐山一餐厅发现恐龙足迹化石",
+        "onboard_time": 1658034818,
+        "rank": 24
+      },
+      {
+        "raw_hot": 138320,
+        "num": 138320,
+        "word": "上海暴雨",
+        "onboard_time": 1658047710,
+        "rank": 25
+      },
+      {
+        "raw_hot": 113785,
+        "num": 113785,
+        "word": "推凳子给奶奶坐的小奶狗",
+        "onboard_time": 1658039309,
+        "rank": 26
+      },
+      {
+        "raw_hot": 107756,
+        "num": 107756,
+        "word": "王嘉男的最后一跳8米36绝杀",
+        "onboard_time": 1658036315,
+        "rank": 27
+      },
+      {
+        "raw_hot": 100782,
+        "num": 100782,
+        "word": "粉色才是电竞人标配",
+        "onboard_time": 1658046630,
+        "rank": 28
+      },
+      {
+        "raw_hot": 87669,
+        "num": 87669,
+        "word": "饿了么免单",
+        "onboard_time": 1658028761,
+        "rank": 29
+      },
+      {
+        "raw_hot": 343181,
+        "num": 87524,
+        "word": "易烊千玺决定放弃⼊职国话",
+        "onboard_time": 1658025580,
+        "rank": 30
+      },
+      {
+        "raw_hot": 339407,
+        "num": 86750,
+        "word": "赵丽颖幸福到万家新华社直播截图",
+        "onboard_time": 1658054973,
+        "rank": 31
+      },
+      {
+        "raw_hot": 286997,
+        "num": 86001,
+        "word": "金像奖红毯",
+        "onboard_time": 1658055933,
+        "rank": 32
+      },
+      {
+        "raw_hot": 266920,
+        "num": 84661,
+        "word": "原来刘亦菲身后躺着的是孟佳",
+        "onboard_time": 1658037451,
+        "rank": 33
+      },
+      {
+        "raw_hot": 84461,
+        "num": 84461,
+        "word": "饿了么黑钻免单时间",
+        "onboard_time": 1658042006,
+        "rank": 34
+      },
+      {
+        "raw_hot": 256014,
+        "num": 83443,
+        "word": "ive 一位",
+        "onboard_time": 1658047710,
+        "rank": 35
+      },
+      {
+        "raw_hot": 79116,
+        "num": 79116,
+        "word": "成都疫情防控",
+        "onboard_time": 1658026662,
+        "rank": 36
+      },
+      {
+        "raw_hot": 74408,
+        "num": 74408,
+        "word": "四川北川洪灾致6人死亡12人失联",
+        "onboard_time": 1658034639,
+        "rank": 37
+      },
+      {
+        "raw_hot": 65476,
+        "num": 65476,
+        "word": "嚣张预售",
+        "onboard_time": 1658037750,
+        "rank": 38
+      },
+      {
+        "raw_hot": 54780,
+        "num": 54780,
+        "word": "王麻子直播间拍蒜",
+        "onboard_time": 1658032005,
+        "rank": 39
+      },
+      {
+        "raw_hot": 257289,
+        "num": 54396,
+        "word": "王一博无感717舞台一周年",
+        "onboard_time": 1658055692,
+        "rank": 40
+      },
+      {
+        "raw_hot": 50520,
+        "num": 50520,
+        "word": "苏炳添说做多少准备有多少收获",
+        "onboard_time": 1658042429,
+        "rank": 41
+      },
+      {
+        "raw_hot": 46480,
+        "num": 46480,
+        "word": "离开表情包好像不会说话了",
+        "onboard_time": 1658033983,
+        "rank": 42
+      },
+      {
+        "raw_hot": 39199,
+        "num": 39199,
+        "word": "河北特岗",
+        "onboard_time": 1658033743,
+        "rank": 43
+      },
+      {
+        "raw_hot": 35900,
+        "num": 35900,
+        "word": "一梦江湖",
+        "onboard_time": 1658036431,
+        "rank": 44
+      },
+      {
+        "raw_hot": 32689,
+        "num": 32689,
+        "word": "学个车咋晒这么黑",
+        "onboard_time": 1658024253,
+        "rank": 45
+      },
+      {
+        "raw_hot": 32457,
+        "num": 32457,
+        "word": "巩立姣8战世锦赛7枚奖牌",
+        "onboard_time": 1658035413,
+        "rank": 46
+      },
+      {
+        "raw_hot": 28681,
+        "num": 28681,
+        "word": "北川洪灾累计转移安置群众1323人",
+        "onboard_time": 1658048610,
+        "rank": 47
+      },
+      {
+        "raw_hot": 25587,
+        "num": 25587,
+        "word": "热射病",
+        "onboard_time": 1658013737,
+        "rank": 48
+      },
+      {
+        "raw_hot": 25259,
+        "num": 25259,
+        "word": "天舟三号撤离空间站",
+        "onboard_time": 1658033023,
+        "rank": 49
+      }
+    ],
+    "hotgov": {
+      "word": "#像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
