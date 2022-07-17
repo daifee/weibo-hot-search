@@ -10,6 +10,7 @@ function trimHotSearchItem(item = {}) {
     word: item.word,
     onboard_time: item.onboard_time,
     rank: item.rank,
+    category: item.category,
   };
 }
 
