@@ -191,6 +191,8 @@ function run(timestamp) {
 
   // 归档 md
   archiveMD(runTime, data);
+
+  // TODO: 发布微博
 }
 
 module.exports = {
