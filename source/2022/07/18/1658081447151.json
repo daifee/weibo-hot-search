@@ -1,0 +1,410 @@
+{
+  "runTime": 1658081447151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1061424,
+        "num": 1061424,
+        "word": "新疆被全国游客挤爆了",
+        "onboard_time": 1658073807,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 544982,
+        "num": 544982,
+        "word": "2000多名游客滞留北海",
+        "onboard_time": 1658073331,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52829,
+        "num": 402103,
+        "word": "王曼昱孙颖莎夺女双冠军",
+        "onboard_time": 1658070335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326707,
+        "num": 326707,
+        "word": "黄景瑜一屁股坐断三轮车后轮",
+        "onboard_time": 1658078119,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203971,
+        "num": 203971,
+        "word": "没见过179和169的人",
+        "onboard_time": 1658052214,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168390,
+        "num": 168390,
+        "word": "医院回应护士抢救病人时看手机",
+        "onboard_time": 1658052511,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150156,
+        "num": 150156,
+        "word": "张大大从战至巅峰消失了",
+        "onboard_time": 1658074229,
+        "rank": 6,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 139708,
+        "word": "吴镇宇 陪跑",
+        "onboard_time": 1658071294,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128466,
+        "num": 128466,
+        "word": "养猫家庭不可言喻的痛",
+        "onboard_time": 1658071893,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 108166,
+        "num": 108166,
+        "word": "北京国安俱乐部售卖飞盘",
+        "onboard_time": 1658072551,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254722,
+        "num": 103908,
+        "word": "考编公示后放弃有什么影响",
+        "onboard_time": 1658066614,
+        "rank": 10,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 135679,
+        "num": 102144,
+        "word": "人生大事周末票房又逆跌了",
+        "onboard_time": 1658077281,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123375,
+        "num": 100291,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1658063611,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98270,
+        "num": 98270,
+        "word": "小米被意大利罚款约2176万元",
+        "onboard_time": 1658052811,
+        "rank": 13,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 74230,
+        "num": 74230,
+        "word": "被郑州这国风女孩飒到了",
+        "onboard_time": 1658071591,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73142,
+        "num": 73142,
+        "word": "商品房预售制会取消吗",
+        "onboard_time": 1658070695,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 71050,
+        "num": 71050,
+        "word": "神经性皮炎或因焦虑所致",
+        "onboard_time": 1658057970,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70760,
+        "num": 70760,
+        "word": "一干坏事就笑眯眯的小狗",
+        "onboard_time": 1658067754,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 64628,
+        "num": 64628,
+        "word": "苏炳添透露未进决赛原因",
+        "onboard_time": 1658058751,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63835,
+        "num": 63835,
+        "word": "沈阳警方通报网红用警用直升机拍视频",
+        "onboard_time": 1658047830,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111490,
+        "num": 63112,
+        "word": "心疼龚俊的鞋",
+        "onboard_time": 1658072851,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99750,
+        "num": 62397,
+        "word": "智齿",
+        "onboard_time": 1658069433,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85101,
+        "num": 61699,
+        "word": "谢贤金像奖最佳男主角",
+        "onboard_time": 1658069496,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54963,
+        "num": 54963,
+        "word": "有被公主裙奶奶的心态治愈到",
+        "onboard_time": 1658059354,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 53944,
+        "num": 53944,
+        "word": "蓝基因崩了",
+        "onboard_time": 1658059532,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52290,
+        "num": 52290,
+        "word": "银保监会再谈5家村镇银行事件",
+        "onboard_time": 1658072493,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 51694,
+        "num": 51694,
+        "word": "成都新增",
+        "onboard_time": 1658058151,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50826,
+        "num": 50826,
+        "word": "是时候拒绝当雪糕冤种了",
+        "onboard_time": 1658071656,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48948,
+        "num": 48948,
+        "word": "女双",
+        "onboard_time": 1658068471,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40236,
+        "num": 40236,
+        "word": "患上抑郁症的鹦鹉",
+        "onboard_time": 1658060551,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 80780,
+        "num": 39978,
+        "word": "刘雅瑟 小北",
+        "onboard_time": 1658071415,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77590,
+        "num": 39804,
+        "word": "庆来害羞",
+        "onboard_time": 1658076860,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71754,
+        "num": 39217,
+        "word": "易烊千玺决定放弃⼊职国话",
+        "onboard_time": 1658025580,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71454,
+        "num": 38640,
+        "word": "嫋嫋病娇小白花",
+        "onboard_time": 1658067034,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38630,
+        "num": 38630,
+        "word": "将陆续启动5万元以上客户垫付工作",
+        "onboard_time": 1658069855,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 37245,
+        "num": 37245,
+        "word": "25岁男子长相成熟常被误认为42岁",
+        "onboard_time": 1658045127,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33868,
+        "num": 33868,
+        "word": "TheShy 贾克斯",
+        "onboard_time": 1658067934,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33417,
+        "num": 33417,
+        "word": "AG对战eStar",
+        "onboard_time": 1658067991,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31769,
+        "num": 31769,
+        "word": "WBG终结V5九连胜",
+        "onboard_time": 1658071355,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29866,
+        "num": 29866,
+        "word": "WBG战胜V5",
+        "onboard_time": 1658070934,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59649,
+        "num": 29428,
+        "word": "韦正发声",
+        "onboard_time": 1658045249,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25722,
+        "num": 25722,
+        "word": "王楚钦男单冠军",
+        "onboard_time": 1658072253,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24949,
+        "num": 24949,
+        "word": "千方百计推动保交楼",
+        "onboard_time": 1658071714,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 43268,
+        "num": 23924,
+        "word": "破事精英",
+        "onboard_time": 1658058871,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20595,
+        "num": 20595,
+        "word": "王曼昱双冠",
+        "onboard_time": 1658070397,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15872,
+        "num": 15872,
+        "word": "雪糕吃太多太快或引发神经性头痛",
+        "onboard_time": 1658062649,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15434,
+        "num": 15434,
+        "word": "王楚钦双冠",
+        "onboard_time": 1658067094,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14161,
+        "num": 14161,
+        "word": "王楚钦领奖太淡定了",
+        "onboard_time": 1658068594,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13517,
+        "num": 13517,
+        "word": "恭喜王楚钦",
+        "onboard_time": 1658063253,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11843,
+        "num": 11843,
+        "word": "孙颖莎 解说",
+        "onboard_time": 1658069613,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟三号将择机再入大气层#"
+    }
+  }
+}
