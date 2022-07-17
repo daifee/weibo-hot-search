@@ -1,0 +1,410 @@
+{
+  "runTime": 1658066911354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1806862,
+        "num": 1806862,
+        "word": "医院回应护士抢救病人时看手机",
+        "onboard_time": 1658052511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1226271,
+        "num": 1226271,
+        "word": "没见过179和169的人",
+        "onboard_time": 1658052214,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 335568,
+        "num": 1191533,
+        "word": "雪糕吃太多太快或引发神经性头痛",
+        "onboard_time": 1658062649,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184251,
+        "num": 1184251,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1658063611,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881424,
+        "num": 881424,
+        "word": "孙颖莎 心态",
+        "onboard_time": 1658063132,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 845486,
+        "num": 845486,
+        "word": "梅艳芳",
+        "onboard_time": 1658062050,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645986,
+        "num": 645986,
+        "word": "比万传家还可恨的人找到了",
+        "onboard_time": 1658064752,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644693,
+        "num": 644693,
+        "word": "恭喜王楚钦",
+        "onboard_time": 1658063253,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600569,
+        "num": 600569,
+        "word": "副冠军",
+        "onboard_time": 1658064151,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477475,
+        "num": 516859,
+        "word": "神经性皮炎或因焦虑所致",
+        "onboard_time": 1658057970,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494459,
+        "num": 494459,
+        "word": "辣目洋子这是cos了个蚌精吗",
+        "onboard_time": 1658064393,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490168,
+        "num": 490168,
+        "word": "炫富网红晒与警察父亲合照引争议",
+        "onboard_time": 1658052214,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438975,
+        "num": 438975,
+        "word": "邓家佳太高产了",
+        "onboard_time": 1658052270,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393673,
+        "num": 393673,
+        "word": "有被公主裙奶奶的心态治愈到",
+        "onboard_time": 1658059354,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 357587,
+        "num": 357587,
+        "word": "金像奖",
+        "onboard_time": 1658053529,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333067,
+        "num": 333067,
+        "word": "手机出现划痕该保修吗",
+        "onboard_time": 1658064631,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 326714,
+        "num": 326714,
+        "word": "苏炳添透露未进决赛原因",
+        "onboard_time": 1658058751,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300498,
+        "num": 300498,
+        "word": "25岁男子长相成熟常被误认为42岁",
+        "onboard_time": 1658045127,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265361,
+        "num": 265361,
+        "word": "成都新增",
+        "onboard_time": 1658058151,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263003,
+        "num": 263003,
+        "word": "小米被意大利罚款约2176万元",
+        "onboard_time": 1658052811,
+        "rank": 19,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 795878,
+        "num": 262335,
+        "word": "易烊千玺发声",
+        "onboard_time": 1658024438,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261394,
+        "num": 261394,
+        "word": "蓝基因崩了",
+        "onboard_time": 1658059532,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251750,
+        "num": 251750,
+        "word": "沈阳警方通报网红用警用直升机拍视频",
+        "onboard_time": 1658047830,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522957,
+        "num": 249178,
+        "word": "韦正发声",
+        "onboard_time": 1658045249,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238634,
+        "num": 238634,
+        "word": "王艺迪夺冠",
+        "onboard_time": 1658061093,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209437,
+        "num": 209437,
+        "word": "患上抑郁症的鹦鹉",
+        "onboard_time": 1658060551,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 276421,
+        "num": 208527,
+        "word": "破事精英",
+        "onboard_time": 1658058871,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207251,
+        "num": 207251,
+        "word": "杨福家院士逝世",
+        "onboard_time": 1658062171,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203615,
+        "num": 203615,
+        "word": "WTT",
+        "onboard_time": 1658060011,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193316,
+        "num": 193316,
+        "word": "王嘉男摘金",
+        "onboard_time": 1658066252,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252521,
+        "num": 191148,
+        "word": "胡先煦发声",
+        "onboard_time": 1658028940,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187784,
+        "num": 187784,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1658059053,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185651,
+        "num": 185651,
+        "word": "运动系男生的魅力",
+        "onboard_time": 1658061751,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252048,
+        "num": 185574,
+        "word": "易烊千玺决定放弃⼊职国话",
+        "onboard_time": 1658025580,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184068,
+        "num": 184068,
+        "word": "赵露思说追剧装备已ready",
+        "onboard_time": 1658054550,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161543,
+        "num": 161543,
+        "word": "王楚钦vs莫雷高德",
+        "onboard_time": 1658061570,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146255,
+        "num": 146255,
+        "word": "脆皮炸鸡螺蛳粉",
+        "onboard_time": 1658052030,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110298,
+        "num": 110298,
+        "word": "杭州开展人工增雨",
+        "onboard_time": 1658053410,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108980,
+        "num": 108980,
+        "word": "V5对战WBG",
+        "onboard_time": 1658064512,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105462,
+        "num": 105462,
+        "word": "陈梦备战WTT冠军赛",
+        "onboard_time": 1658062831,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164605,
+        "num": 104322,
+        "word": "考编公示后放弃有什么影响",
+        "onboard_time": 1658066614,
+        "rank": 40,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 157107,
+        "num": 103723,
+        "word": "吴磊靠喝水补充一半碳水",
+        "onboard_time": 1658049872,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102661,
+        "num": 102661,
+        "word": "深圳核酸",
+        "onboard_time": 1658051131,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96070,
+        "num": 96070,
+        "word": "德国缺油推出以油换酒",
+        "onboard_time": 1658058151,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91228,
+        "num": 91228,
+        "word": "XYG对战WE",
+        "onboard_time": 1658055512,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82321,
+        "num": 82321,
+        "word": "王楚钦男单夺冠",
+        "onboard_time": 1658063793,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65725,
+        "num": 65725,
+        "word": "WE上演戏剧性翻中翻",
+        "onboard_time": 1658061152,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63665,
+        "num": 63665,
+        "word": "孙颖莎加油",
+        "onboard_time": 1658058812,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63350,
+        "num": 63350,
+        "word": "小米回应在意大利遭罚款",
+        "onboard_time": 1658056892,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55417,
+        "num": 55417,
+        "word": "王楚钦加油",
+        "onboard_time": 1658062471,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#制造业的核心就是创新#"
+    }
+  }
+}
