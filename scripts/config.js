@@ -24,7 +24,6 @@ const ARCHIVE_YEARLY_PATH = path.resolve(ARCHIVE_PATH, 'yearly');
 // 模板目录
 const TEMPLATES_PATH = path.resolve('./', 'scripts/templates');
 
-
 // 创建目录
 [
   SOURCE_PATH,
@@ -33,11 +32,10 @@ const TEMPLATES_PATH = path.resolve('./', 'scripts/templates');
   ARCHIVE_WEEKLY_PATH,
   ARCHIVE_MONTHLY_PATH,
   ARCHIVE_YEARLY_PATH,
-  TEMPLATES_PATH
+  TEMPLATES_PATH,
 ].forEach((dir) => {
-  fs.mkdirSync(dir, { recursive: true });  
+  fs.mkdirSync(dir, { recursive: true });
 });
-
 
 module.exports = {
   ARCHIVE_DAILY_PATH,
