@@ -1,7 +1,15 @@
 {
   "startTime": 1658074311206,
-  "endTime": 1658142528538,
+  "endTime": 1658153849662,
   "band_list": [
+    {
+      "raw_hot": 14602138,
+      "num": 14602138,
+      "word": "撤档",
+      "onboard_time": 1658151152,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 4735043,
       "num": 4735043,
@@ -43,8 +51,24 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 2924687,
-      "num": 2924687,
+      "raw_hot": 3183704,
+      "num": 1180652,
+      "word": "4S店销售与14岁少女事件警方已立案",
+      "onboard_time": 1658142988,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3148575,
+      "num": 3148575,
+      "word": "湖南卫视 山海情",
+      "onboard_time": 1658150072,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3107727,
+      "num": 3107727,
       "word": "沉香如屑今晚空降",
       "onboard_time": 1658141066,
       "rank": 47,
@@ -59,12 +83,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2735899,
+      "num": 2735899,
+      "word": "高考生查分第2天脑出血进ICU",
+      "onboard_time": 1658151574,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2718387,
+      "num": 1043935,
+      "word": "茅子俊 周子舒",
+      "onboard_time": 1658144365,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2638722,
       "num": 2638722,
       "word": "王一博方否认出演狐妖王权篇",
       "onboard_time": 1658131647,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2551425,
+      "num": 2551425,
+      "word": "心疼李现",
+      "onboard_time": 1658152057,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 2235491,
@@ -91,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2085700,
+      "num": 1210990,
+      "word": "优酷 沉香如屑",
+      "onboard_time": 1658142028,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1928145,
+      "num": 549557,
+      "word": "小伙健身房洗澡时被女子看光",
+      "onboard_time": 1658149772,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1898425,
       "num": 1898425,
       "word": "2000多名游客滞留北海",
       "onboard_time": 1658073331,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1754962,
+      "num": 1634363,
+      "word": "周杰伦直播",
+      "onboard_time": 1658142326,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1685258,
@@ -163,12 +235,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1483747,
-      "num": 1126499,
-      "word": "优酷 沉香如屑",
-      "onboard_time": 1658142028,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 1481798,
+      "num": 1481798,
+      "word": "小男孩发现天文馆错误百出气到暴走",
+      "onboard_time": 1658144007,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1438487,
+      "num": 1438487,
+      "word": "邵阳学院砸1800万引进23名菲律宾博士",
+      "onboard_time": 1658150850,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1395324,
+      "num": 1395324,
+      "word": "男朋友承包了我一年的包",
+      "onboard_time": 1658139867,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 1340209,
@@ -185,6 +273,14 @@
       "onboard_time": 1658123729,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1324624,
+      "num": 542722,
+      "word": "人生若如初见没播",
+      "onboard_time": 1658150850,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1320257,
@@ -219,6 +315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1206907,
+      "num": 454736,
+      "word": "刘畊宏给周杰伦刷奶茶礼物",
+      "onboard_time": 1658151935,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1193501,
       "num": 1193501,
       "word": "严肃查处利用网红儿童牟利",
@@ -233,6 +337,14 @@
       "onboard_time": 1658120489,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156686,
+      "num": 422378,
+      "word": "中餐厅敬告网友",
+      "onboard_time": 1658146888,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1156404,
@@ -299,6 +411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 990465,
+      "num": 540036,
+      "word": "周游记2有张艺兴",
+      "onboard_time": 1658150670,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 979934,
       "num": 979934,
       "word": "安徽事业单位",
@@ -331,14 +451,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 901470,
-      "num": 901470,
-      "word": "男朋友承包了我一年的包",
-      "onboard_time": 1658139867,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 895604,
       "num": 895604,
       "word": "没见过179和169的人",
@@ -353,6 +465,14 @@
       "onboard_time": 1658128285,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 882025,
+      "num": 882025,
+      "word": "王麻子 拍了一天的蒜",
+      "onboard_time": 1658142205,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872576,
@@ -393,6 +513,14 @@
       "onboard_time": 1658092092,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 812152,
+      "num": 812152,
+      "word": "中国军工回应男孩发现天文馆错误",
+      "onboard_time": 1658152057,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802002,
@@ -459,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 714018,
+      "num": 714018,
+      "word": "想看杨紫",
+      "onboard_time": 1658145326,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 704112,
       "num": 704112,
       "word": "羽生结弦将于19日召开发布会",
@@ -499,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647125,
+      "num": 647125,
+      "word": "奶茶锦衣卫便宜又好喝",
+      "onboard_time": 1658145326,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 637949,
       "num": 637949,
       "word": "医院回应护士抢救病人时看手机",
@@ -521,6 +665,14 @@
       "onboard_time": 1658127686,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609972,
+      "num": 609972,
+      "word": "主任会扔下楼的病历",
+      "onboard_time": 1658147306,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 588162,
@@ -547,11 +699,27 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 580007,
+      "num": 391963,
+      "word": "李秀满为BoA出道20周年制作Better",
+      "onboard_time": 1658146707,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 579785,
       "num": 579785,
       "word": "官方回应护士抢救病人看手机",
       "onboard_time": 1658117189,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577304,
+      "num": 577304,
+      "word": "张小泉称正在拟官方声明",
+      "onboard_time": 1658139748,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -571,6 +739,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550432,
+      "num": 550432,
+      "word": "海贼王将进入最终章",
+      "onboard_time": 1658148390,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 531983,
+      "num": 531983,
+      "word": "北京新增两感染者为夫妻",
+      "onboard_time": 1658142028,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514258,
       "num": 514258,
       "word": "北京顺义出现1管10混1初筛阳性",
@@ -579,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506512,
-      "num": 506512,
-      "word": "张小泉称正在拟官方声明",
-      "onboard_time": 1658139748,
+      "raw_hot": 507347,
+      "num": 263771,
+      "word": "水尾村孩子群体性血铅中毒",
+      "onboard_time": 1658147128,
       "rank": 21,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 506075,
@@ -595,12 +779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495981,
-      "num": 305691,
-      "word": "周杰伦直播",
-      "onboard_time": 1658142326,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 505347,
+      "num": 505347,
+      "word": "男篮 裁判",
+      "onboard_time": 1658144186,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 491810,
+      "num": 258048,
+      "word": "人生若如初见",
+      "onboard_time": 1658149410,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 481660,
@@ -699,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 418513,
+      "num": 418513,
+      "word": "年轻男女疑乱扔垃圾后殴打环卫工",
+      "onboard_time": 1658142805,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418424,
       "num": 418424,
       "word": "没见过这么逼真的口罩",
@@ -779,12 +979,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 396912,
+      "num": 396912,
+      "word": "不会用电脑的18岁少年高考632分",
+      "onboard_time": 1658151453,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 392051,
       "num": 392051,
       "word": "一干坏事就笑眯眯的小狗",
       "onboard_time": 1658067754,
       "rank": 13,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 389997,
+      "num": 389997,
+      "word": "中国男篮三分球",
+      "onboard_time": 1658143347,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 388026,
@@ -827,12 +1043,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383665,
+      "num": 363641,
+      "word": "晚学",
+      "onboard_time": 1658144487,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 382414,
+      "num": 382414,
+      "word": "中国男篮大胜印尼男篮",
+      "onboard_time": 1658147009,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380743,
       "num": 338501,
       "word": "seventeen回归",
       "onboard_time": 1658136567,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379207,
+      "num": 304551,
+      "word": "金智媛孙锡久嘉人大片",
+      "onboard_time": 1658139507,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 377715,
@@ -867,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369644,
+      "num": 369644,
+      "word": "张小泉竞争对手直播菜刀拍蒜",
+      "onboard_time": 1658151032,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369453,
       "num": 369453,
       "word": "患癌男孩右腿截肢后又遇双肺感染",
@@ -881,14 +1129,6 @@
       "onboard_time": 1658110465,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365736,
-      "num": 276997,
-      "word": "金智媛孙锡久嘉人大片",
-      "onboard_time": 1658139507,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 365194,
@@ -907,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360735,
+      "num": 360735,
+      "word": "中国男篮半场领先38分",
+      "onboard_time": 1658145024,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357778,
       "num": 357778,
       "word": "陈梦 不容易",
@@ -923,12 +1171,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353117,
+      "num": 353117,
+      "word": "奥比岛 装修",
+      "onboard_time": 1658143766,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 346687,
+      "num": 346687,
+      "word": "小奶狗的颜值能有多高",
+      "onboard_time": 1658144546,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 345721,
+      "num": 345721,
+      "word": "阴阳怪气还得看驾校教练",
+      "onboard_time": 1658153318,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345240,
       "num": 345240,
       "word": "上海新增3例本土确诊14例本土无症状",
       "onboard_time": 1658104711,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344451,
+      "num": 219181,
+      "word": "刘宇宁直播",
+      "onboard_time": 1658150974,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 341210,
@@ -985,6 +1265,14 @@
       "onboard_time": 1658122830,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332112,
+      "num": 332112,
+      "word": "每一步都忍不住洗手",
+      "onboard_time": 1658153138,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 331647,
@@ -1051,6 +1339,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321976,
+      "num": 218233,
+      "word": "我们为什么需要何幸福",
+      "onboard_time": 1658146168,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314661,
+      "num": 314661,
+      "word": "男篮亚洲杯",
+      "onboard_time": 1658140108,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314206,
+      "num": 314206,
+      "word": "胡明轩14分",
+      "onboard_time": 1658151092,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307339,
       "num": 307339,
       "word": "当代年轻人的朋友圈文案",
@@ -1065,14 +1377,6 @@
       "onboard_time": 1658077281,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301906,
-      "num": 301906,
-      "word": "男篮亚洲杯",
-      "onboard_time": 1658140108,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 297600,
@@ -1107,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295455,
+      "num": 295455,
+      "word": "孙铭徽压哨三分",
+      "onboard_time": 1658146168,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292209,
       "num": 160905,
       "word": "刘雨昕BoA云合体科技感MV",
@@ -1121,6 +1433,14 @@
       "onboard_time": 1658104650,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290648,
+      "num": 208739,
+      "word": "金珉奎新歌MV镜头",
+      "onboard_time": 1658143708,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 288969,
@@ -1203,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270598,
+      "num": 131200,
+      "word": "想看春夏",
+      "onboard_time": 1658153796,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267622,
       "num": 197621,
       "word": "星汉灿烂同名主题曲MV",
@@ -1227,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250346,
+      "num": 250346,
+      "word": "张小泉为什么不能拍蒜",
+      "onboard_time": 1658149711,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250120,
       "num": 250120,
       "word": "宁波一休闲渔船侧翻已致6死",
@@ -1241,6 +1577,14 @@
       "onboard_time": 1658129848,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248350,
+      "num": 248350,
+      "word": "成都本土疫情病例活动轨迹风险点位一览",
+      "onboard_time": 1658145567,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246106,
@@ -1283,12 +1627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236968,
-      "num": 236968,
-      "word": "北京新增两感染者为夫妻",
-      "onboard_time": 1658142028,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 242736,
+      "num": 242736,
+      "word": "古代就有站岗小狗",
+      "onboard_time": 1658144487,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 234410,
@@ -1443,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202661,
+      "num": 202661,
+      "word": "庭外盲区大结局",
+      "onboard_time": 1658143046,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202660,
       "num": 202660,
       "word": "同学接力抱罕见病男孩上学",
@@ -1457,14 +1809,6 @@
       "onboard_time": 1658115028,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199595,
-      "num": 199595,
-      "word": "王麻子 拍了一天的蒜",
-      "onboard_time": 1658142205,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197156,
@@ -1497,6 +1841,14 @@
       "onboard_time": 1658139748,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193231,
+      "num": 131258,
+      "word": "我的夏日ootd",
+      "onboard_time": 1658143408,
+      "rank": 40,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 190507,
@@ -1603,6 +1955,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 166886,
+      "num": 166886,
+      "word": "北京新增境外输入感染者为飞行员",
+      "onboard_time": 1658145628,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163112,
       "num": 163112,
       "word": "拉丁舞看来是真的很难",
@@ -1684,7 +2044,7 @@
     },
     {
       "raw_hot": 152193,
-      "num": 2063135,
+      "num": 2592156,
       "word": "掌声送给为梦想全力奔跑的人",
       "onboard_time": 1658130866,
       "rank": 2,
@@ -1697,6 +2057,14 @@
       "onboard_time": 1658126966,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151391,
+      "num": 151391,
+      "word": "人类幼崽请你逛超市是什么体验",
+      "onboard_time": 1658153079,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150757,
@@ -1713,6 +2081,14 @@
       "onboard_time": 1658072493,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 149839,
+      "num": 149839,
+      "word": "赵睿三分",
+      "onboard_time": 1658151694,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 147452,
@@ -1747,12 +2123,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 137681,
+      "num": 137681,
+      "word": "才知道快速冰镇饮料的方法",
+      "onboard_time": 1658153381,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137622,
       "num": 137622,
       "word": "7月17日新增393例本土无症状",
       "onboard_time": 1658107826,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131708,
+      "num": 131708,
+      "word": "翟晓川拿来吧你",
+      "onboard_time": 1658151875,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130919,
@@ -1784,6 +2176,14 @@
       "word": "北海增59例本土确诊51例无症状",
       "onboard_time": 1658109867,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128892,
+      "num": 417506,
+      "word": "北大校友为讨汤老人儿子募捐",
+      "onboard_time": 1658152895,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1835,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112259,
+      "num": 112259,
+      "word": "iG对战JDG",
+      "onboard_time": 1658151814,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110543,
       "num": 110543,
       "word": "王楚钦领奖太淡定了",
@@ -1856,6 +2264,22 @@
       "word": "陈梦马龙双双晋级",
       "onboard_time": 1658142389,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106734,
+      "num": 183057,
+      "word": "长大后我和初中班主任成了同桌",
+      "onboard_time": 1658153678,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103621,
+      "num": 103621,
+      "word": "中国男篮vs印尼男篮裁判",
+      "onboard_time": 1658150670,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1897,6 +2321,14 @@
       "onboard_time": 1658074588,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82318,
+      "num": 82318,
+      "word": "周琦助攻",
+      "onboard_time": 1658149772,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 79891,
