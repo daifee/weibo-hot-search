@@ -1,0 +1,410 @@
+{
+  "runTime": 1658132025466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2751764,
+        "num": 2751764,
+        "word": "张小泉总经理称中国人切菜方法不对",
+        "onboard_time": 1658120908,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 2638722,
+        "num": 2638722,
+        "word": "王一博方否认出演狐妖王权篇",
+        "onboard_time": 1658131647,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88735,
+        "num": 2063135,
+        "word": "掌声送给为梦想全力奔跑的人",
+        "onboard_time": 1658130866,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1630468,
+        "num": 1630468,
+        "word": "羽生结弦 新闻发布会",
+        "onboard_time": 1658128047,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1232219,
+        "num": 1232219,
+        "word": "小伙抗癌17年保研成功",
+        "onboard_time": 1658129667,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1013378,
+        "num": 1013378,
+        "word": "男子犯酒瘾连喝48瓶藿香正气水",
+        "onboard_time": 1658122108,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977540,
+        "num": 977540,
+        "word": "沉香如屑",
+        "onboard_time": 1658124986,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 882961,
+        "num": 882961,
+        "word": "黄磊刘奕君新剧离谱又搞笑",
+        "onboard_time": 1658128285,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 797652,
+        "num": 797652,
+        "word": "你的电子产品是视力刺客吗",
+        "onboard_time": 1658130266,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 553611,
+        "num": 553611,
+        "word": "吉林一中学按中考分数排队办入学",
+        "onboard_time": 1658122407,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1359163,
+        "num": 516377,
+        "word": "卡琳娜",
+        "onboard_time": 1658128285,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 560551,
+        "num": 515976,
+        "word": "网红王澄澄前编导发声",
+        "onboard_time": 1658123729,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 479058,
+        "num": 479058,
+        "word": "张小泉负责人称或会研发拍蒜专用刀",
+        "onboard_time": 1658127686,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460921,
+        "num": 460921,
+        "word": "成都本轮疫情毒株在国内无同源序列",
+        "onboard_time": 1658120489,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427087,
+        "num": 427087,
+        "word": "张子枫新剧演雷佳音女儿",
+        "onboard_time": 1658128166,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369453,
+        "num": 369453,
+        "word": "患癌男孩右腿截肢后又遇双肺感染",
+        "onboard_time": 1658129788,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348126,
+        "num": 348126,
+        "word": "女生被骗3万后不服气又被骗5万",
+        "onboard_time": 1658106150,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341117,
+        "num": 341117,
+        "word": "topik",
+        "onboard_time": 1658127387,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301199,
+        "num": 301199,
+        "word": "B站将展示账号IP属地",
+        "onboard_time": 1658118872,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 281739,
+        "num": 281739,
+        "word": "LPL夏季赛周最佳阵容",
+        "onboard_time": 1658131348,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380201,
+        "num": 279535,
+        "word": "星汉灿烂",
+        "onboard_time": 1658124326,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274700,
+        "num": 274700,
+        "word": "辽宁专升本",
+        "onboard_time": 1658131529,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376465,
+        "num": 273454,
+        "word": "失星疯",
+        "onboard_time": 1658114964,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270756,
+        "num": 270756,
+        "word": "新疆被全国游客挤爆了",
+        "onboard_time": 1658073807,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 265862,
+        "num": 265862,
+        "word": "4S店回应凯迪拉克销售被打",
+        "onboard_time": 1658131706,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251760,
+        "num": 251760,
+        "word": "董璇 好的时候朋友亲戚可多了",
+        "onboard_time": 1658125229,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242149,
+        "num": 242149,
+        "word": "阴阳师",
+        "onboard_time": 1658129848,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237174,
+        "num": 237174,
+        "word": "父母希望我成为的样子 我现在",
+        "onboard_time": 1658131588,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201575,
+        "num": 201575,
+        "word": "鞠一躬佛祖原谅你",
+        "onboard_time": 1658130928,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178938,
+        "num": 178938,
+        "word": "南方暴雨要来了",
+        "onboard_time": 1658107768,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249447,
+        "num": 178665,
+        "word": "关晓彤萌探2女团风造型",
+        "onboard_time": 1658126605,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231766,
+        "num": 172307,
+        "word": "Angelababy时尚芭莎七夕封面",
+        "onboard_time": 1658131529,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223849,
+        "num": 171421,
+        "word": "赵露思说程少商渴望爱又不相信爱",
+        "onboard_time": 1658130027,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216176,
+        "num": 167516,
+        "word": "玉骨遥",
+        "onboard_time": 1658129547,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164368,
+        "num": 164368,
+        "word": "北京顺义发现2人单采核酸阳性",
+        "onboard_time": 1658122588,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161578,
+        "num": 161578,
+        "word": "盛夏雨后秦岭的云海有多绝",
+        "onboard_time": 1658130206,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 146308,
+        "num": 146308,
+        "word": "羽生结弦将于19日召开发布会",
+        "onboard_time": 1658131287,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142279,
+        "num": 142279,
+        "word": "四川新增本土确诊9例",
+        "onboard_time": 1658113285,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135518,
+        "num": 135518,
+        "word": "在学校家长送饭很丢人吗",
+        "onboard_time": 1658104050,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "河南省考",
+        "onboard_time": 1658120009,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207821,
+        "num": 129025,
+        "word": "为什么年轻人越来越关注现实题材剧",
+        "onboard_time": 1658120369,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189999,
+        "num": 128390,
+        "word": "吴镇宇工作室回应陪跑",
+        "onboard_time": 1658127444,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126293,
+        "num": 126293,
+        "word": "大富翁4上线Steam",
+        "onboard_time": 1658112445,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125279,
+        "num": 125279,
+        "word": "官方回应护士抢救病人看手机",
+        "onboard_time": 1658117189,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113698,
+        "num": 113698,
+        "word": "超实用拍照构图技巧",
+        "onboard_time": 1658105370,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102875,
+        "num": 102875,
+        "word": "原来双人小提琴还能这样拉",
+        "onboard_time": 1658128285,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 90246,
+        "num": 90246,
+        "word": "中国队包揽国际物理奥赛世界前五",
+        "onboard_time": 1658122108,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86036,
+        "num": 86036,
+        "word": "陕师大2022毛笔手写录取通知书开笔",
+        "onboard_time": 1658117851,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 85596,
+        "num": 85596,
+        "word": "重庆南岸报告1例本土无症状",
+        "onboard_time": 1658117851,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70212,
+        "num": 70212,
+        "word": "中超顶级球星出售广州1.5亿豪宅",
+        "onboard_time": 1658110465,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
