@@ -1,0 +1,410 @@
+{
+  "runTime": 1658122733128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2591557,
+        "num": 2591557,
+        "word": "B站将展示账号IP属地",
+        "onboard_time": 1658118872,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2179166,
+        "num": 2179166,
+        "word": "张小泉总经理称中国人切菜方法不对",
+        "onboard_time": 1658120908,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 358772,
+        "num": 1538891,
+        "word": "超实用拍照构图技巧",
+        "onboard_time": 1658105370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251157,
+        "num": 1251157,
+        "word": "为什么年轻人越来越关注现实题材剧",
+        "onboard_time": 1658120369,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1160996,
+        "num": 1160996,
+        "word": "成都本轮疫情毒株在国内无同源序列",
+        "onboard_time": 1658120489,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969202,
+        "num": 969202,
+        "word": "女生被骗3万后不服气又被骗5万",
+        "onboard_time": 1658106150,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698938,
+        "num": 698938,
+        "word": "在学校家长送饭很丢人吗",
+        "onboard_time": 1658104050,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 681258,
+        "num": 681258,
+        "word": "人生若如初见今日开播",
+        "onboard_time": 1658113946,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1545802,
+        "num": 660992,
+        "word": "钻粉",
+        "onboard_time": 1658118691,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 633957,
+        "num": 633957,
+        "word": "蔡徐坤 哈密哈密",
+        "onboard_time": 1658117911,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1344614,
+        "num": 612007,
+        "word": "失星疯",
+        "onboard_time": 1658114964,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 735472,
+        "num": 603290,
+        "word": "北京市政协原副主席于鲁明被双开",
+        "onboard_time": 1658117069,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 670853,
+        "num": 600422,
+        "word": "新疆被全国游客挤爆了",
+        "onboard_time": 1658073807,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 545533,
+        "num": 545533,
+        "word": "凯迪拉克",
+        "onboard_time": 1658118331,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9643,
+        "num": 522801,
+        "word": "夏日运动必须带啥",
+        "onboard_time": 1658121092,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512854,
+        "num": 512854,
+        "word": "官方回应护士抢救病人看手机",
+        "onboard_time": 1658117189,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472332,
+        "num": 472332,
+        "word": "吴费曼恭喜吴镇宇金像奖颗粒无收",
+        "onboard_time": 1658107167,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450633,
+        "num": 450633,
+        "word": "少年派2",
+        "onboard_time": 1658119410,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440518,
+        "num": 440518,
+        "word": "南方暴雨要来了",
+        "onboard_time": 1658107768,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365194,
+        "num": 365194,
+        "word": "河南省考",
+        "onboard_time": 1658120009,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361795,
+        "num": 361795,
+        "word": "人生大事父慈子孝名场面",
+        "onboard_time": 1658121568,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327148,
+        "num": 327148,
+        "word": "星汉灿烂OST",
+        "onboard_time": 1658115266,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321777,
+        "num": 321777,
+        "word": "男子犯酒瘾连喝48瓶藿香正气水",
+        "onboard_time": 1658122108,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321010,
+        "num": 321010,
+        "word": "幸福被婆婆误会",
+        "onboard_time": 1658120908,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309597,
+        "num": 309597,
+        "word": "大富翁4上线Steam",
+        "onboard_time": 1658112445,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295153,
+        "num": 295153,
+        "word": "重庆南岸报告1例本土无症状",
+        "onboard_time": 1658117851,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262139,
+        "num": 262139,
+        "word": "中国队包揽国际物理奥赛世界前五",
+        "onboard_time": 1658122108,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257752,
+        "num": 257752,
+        "word": "四川新增本土确诊9例",
+        "onboard_time": 1658113285,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254202,
+        "num": 254202,
+        "word": "北京顺义出现1管10混1初筛阳性",
+        "onboard_time": 1658108488,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235876,
+        "num": 235876,
+        "word": "北京顺义发现2人单采核酸阳性",
+        "onboard_time": 1658122588,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238454,
+        "num": 235869,
+        "word": "刘恋教薛凯琪跳佳人",
+        "onboard_time": 1658118989,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214270,
+        "num": 214270,
+        "word": "马龙陈梦今天出战单打",
+        "onboard_time": 1658117730,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207930,
+        "num": 207930,
+        "word": "派克特回应淘汰",
+        "onboard_time": 1658121689,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189868,
+        "num": 189868,
+        "word": "广州荔湾海龙街道道歉",
+        "onboard_time": 1658103326,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189202,
+        "num": 189202,
+        "word": "外国人听周杰伦的歌词有多崩溃",
+        "onboard_time": 1658114310,
+        "rank": 34,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 182320,
+        "num": 182320,
+        "word": "陕师大2022毛笔手写录取通知书开笔",
+        "onboard_time": 1658117851,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 179885,
+        "num": 179885,
+        "word": "京都动画纵火案三周年",
+        "onboard_time": 1658116411,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176520,
+        "num": 176520,
+        "word": "吉林一中学按中考分数排队办入学",
+        "onboard_time": 1658122407,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 157415,
+        "num": 157415,
+        "word": "刘雨昕BoA新歌Better",
+        "onboard_time": 1658116769,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153443,
+        "num": 153443,
+        "word": "中超顶级球星出售广州1.5亿豪宅",
+        "onboard_time": 1658110465,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155641,
+        "num": 145970,
+        "word": "朱一龙人生大事扇子舞直拍",
+        "onboard_time": 1658114188,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 143492,
+        "word": "董璇谈被骂经历",
+        "onboard_time": 1658115689,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136404,
+        "num": 136404,
+        "word": "苦劝无果民警现场写代码揭诈骗",
+        "onboard_time": 1658112385,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125727,
+        "num": 125727,
+        "word": "重庆暴雨",
+        "onboard_time": 1658105126,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119819,
+        "num": 119819,
+        "word": "原来不是每个人都能玩水上漂",
+        "onboard_time": 1658115028,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117048,
+        "num": 117048,
+        "word": "男童被卡车底20多人抬车救人",
+        "onboard_time": 1658111903,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109698,
+        "num": 109698,
+        "word": "海龙街道负责人向住户逐一道歉",
+        "onboard_time": 1658114964,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109434,
+        "num": 109434,
+        "word": "理想试驾车急刹空气悬架断裂",
+        "onboard_time": 1658107107,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98586,
+        "num": 98586,
+        "word": "南非发生中国公民遭绑架后罹难案件",
+        "onboard_time": 1658104469,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92696,
+        "num": 92696,
+        "word": "北海卫健委主任因防疫不力被免职",
+        "onboard_time": 1658109446,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
