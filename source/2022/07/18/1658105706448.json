@@ -1,0 +1,410 @@
+{
+  "runTime": 1658105706448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1898425,
+        "num": 1898425,
+        "word": "2000多名游客滞留北海",
+        "onboard_time": 1658073331,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1509488,
+        "num": 1509488,
+        "word": "广州荔湾海龙街道道歉",
+        "onboard_time": 1658103326,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294371,
+        "num": 1273671,
+        "word": "王曼昱孙颖莎夺女双冠军",
+        "onboard_time": 1658070335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202426,
+        "num": 1202426,
+        "word": "在学校家长送饭很丢人吗",
+        "onboard_time": 1658104050,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 966453,
+        "num": 966453,
+        "word": "南非发生中国公民遭绑架后罹难案件",
+        "onboard_time": 1658104469,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872576,
+        "num": 872576,
+        "word": "怒火重案",
+        "onboard_time": 1658100982,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 813748,
+        "num": 813748,
+        "word": "刘浩存方辟谣参与录制中餐厅6",
+        "onboard_time": 1658092092,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662067,
+        "num": 662067,
+        "word": "天津全市范围开展核酸检测",
+        "onboard_time": 1658103688,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3686550,
+        "num": 643713,
+        "word": "新疆被全国游客挤爆了",
+        "onboard_time": 1658073807,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 606105,
+        "num": 606105,
+        "word": "没见过179和169的人",
+        "onboard_time": 1658052214,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 483274,
+        "num": 483274,
+        "word": "谢贤金像奖最佳男主角",
+        "onboard_time": 1658069496,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464841,
+        "num": 464841,
+        "word": "医院回应护士抢救病人时看手机",
+        "onboard_time": 1658052511,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438062,
+        "num": 438062,
+        "word": "张大大从战至巅峰消失了",
+        "onboard_time": 1658074229,
+        "rank": 12,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 371898,
+        "num": 371898,
+        "word": "重庆暴雨",
+        "onboard_time": 1658105126,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364968,
+        "num": 364968,
+        "word": "吴镇宇 陪跑",
+        "onboard_time": 1658071294,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361342,
+        "num": 361342,
+        "word": "养猫家庭不可言喻的痛",
+        "onboard_time": 1658071893,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 355044,
+        "num": 355044,
+        "word": "被郑州这国风女孩飒到了",
+        "onboard_time": 1658071591,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346844,
+        "num": 346844,
+        "word": "智齿",
+        "onboard_time": 1658069433,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345240,
+        "num": 345240,
+        "word": "上海新增3例本土确诊14例本土无症状",
+        "onboard_time": 1658104711,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326411,
+        "num": 326411,
+        "word": "宁波一渔船侧翻16人落水",
+        "onboard_time": 1658100321,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 313769,
+        "num": 313769,
+        "word": "一干坏事就笑眯眯的小狗",
+        "onboard_time": 1658067754,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 291557,
+        "num": 291557,
+        "word": "安徽增本土确诊3例",
+        "onboard_time": 1658104650,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285342,
+        "num": 285342,
+        "word": "人生大事周末票房又逆跌了",
+        "onboard_time": 1658077281,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265240,
+        "num": 265240,
+        "word": "小米被意大利罚款约2176万元",
+        "onboard_time": 1658052811,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 256165,
+        "num": 256165,
+        "word": "商品房预售制会取消吗",
+        "onboard_time": 1658070695,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 250120,
+        "num": 250120,
+        "word": "宁波一休闲渔船侧翻已致6死",
+        "onboard_time": 1658101043,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 245349,
+        "num": 245349,
+        "word": "超实用拍照构图技巧",
+        "onboard_time": 1658105370,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231365,
+        "num": 231365,
+        "word": "黄景瑜一屁股坐断三轮车后轮",
+        "onboard_time": 1658078119,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219602,
+        "num": 219602,
+        "word": "陈康",
+        "onboard_time": 1658102605,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217011,
+        "num": 217011,
+        "word": "权志龙最新翻唱",
+        "onboard_time": 1658100440,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214056,
+        "num": 214056,
+        "word": "苏炳添透露未进决赛原因",
+        "onboard_time": 1658058751,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212401,
+        "num": 212401,
+        "word": "官方通报业主隔离家中门锁被拆",
+        "onboard_time": 1658105010,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202388,
+        "num": 202388,
+        "word": "刘雅瑟 小北",
+        "onboard_time": 1658071415,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196207,
+        "num": 196207,
+        "word": "成都新增",
+        "onboard_time": 1658058151,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175054,
+        "num": 175054,
+        "word": "CSGO",
+        "onboard_time": 1658104530,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166400,
+        "num": 166400,
+        "word": "神经性皮炎或因焦虑所致",
+        "onboard_time": 1658057970,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160741,
+        "num": 160741,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1658063611,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160093,
+        "num": 160093,
+        "word": "有被公主裙奶奶的心态治愈到",
+        "onboard_time": 1658059354,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 156030,
+        "num": 156030,
+        "word": "FAZE夺冠",
+        "onboard_time": 1658103510,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152495,
+        "num": 152495,
+        "word": "是时候拒绝当雪糕冤种了",
+        "onboard_time": 1658071656,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 146560,
+        "word": "关涛是幸福最强辅助",
+        "onboard_time": 1658086091,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142423,
+        "num": 142423,
+        "word": "将陆续启动5万元以上客户垫付工作",
+        "onboard_time": 1658069855,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 139937,
+        "num": 139937,
+        "word": "王庆来对何幸福说我爱你",
+        "onboard_time": 1658105250,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135264,
+        "num": 135264,
+        "word": "北京国安俱乐部售卖飞盘",
+        "onboard_time": 1658072551,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133148,
+        "num": 133148,
+        "word": "心疼龚俊的鞋",
+        "onboard_time": 1658072851,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96449,
+        "num": 96449,
+        "word": "银保监会再谈5家村镇银行事件",
+        "onboard_time": 1658072493,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 93877,
+        "num": 93877,
+        "word": "雪糕吃太多太快或引发神经性头痛",
+        "onboard_time": 1658062649,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79891,
+        "num": 79891,
+        "word": "陈木胜金像奖最佳导演",
+        "onboard_time": 1658102426,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75092,
+        "num": 75092,
+        "word": "患上抑郁症的鹦鹉",
+        "onboard_time": 1658060551,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 73374,
+        "num": 73374,
+        "word": "千方百计推动保交楼",
+        "onboard_time": 1658071714,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
