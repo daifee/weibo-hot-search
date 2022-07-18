@@ -1,0 +1,410 @@
+{
+  "runTime": 1658187574170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697742,
+        "num": 1697742,
+        "word": "阴阳怪气还得看驾校教练",
+        "onboard_time": 1658153318,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1459864,
+        "num": 1459864,
+        "word": "中航集团道歉",
+        "onboard_time": 1658179870,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201786,
+        "num": 1023941,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011603,
+        "num": 1011603,
+        "word": "高考生查分第2天脑出血进ICU",
+        "onboard_time": 1658151574,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 763436,
+        "num": 763436,
+        "word": "女子留宿多名网恋男友家实施盗窃",
+        "onboard_time": 1658171112,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679244,
+        "num": 679244,
+        "word": "张小泉总经理道歉",
+        "onboard_time": 1658156249,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657614,
+        "num": 657614,
+        "word": "警方通报4S店内销售人员被打",
+        "onboard_time": 1658185880,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566003,
+        "num": 566003,
+        "word": "女子给儿子熬中药炼出一炉仙丹",
+        "onboard_time": 1658154038,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494546,
+        "num": 494546,
+        "word": "刘畊宏给周杰伦刷奶茶礼物",
+        "onboard_time": 1658151935,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445823,
+        "num": 445823,
+        "word": "长大后我和初中班主任成了同桌",
+        "onboard_time": 1658153678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723908,
+        "num": 443999,
+        "word": "芒果台",
+        "onboard_time": 1658160205,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431726,
+        "num": 431726,
+        "word": "男孩打螺丝时收到复旦通知书",
+        "onboard_time": 1658182091,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 694517,
+        "num": 428490,
+        "word": "撤档",
+        "onboard_time": 1658151152,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419780,
+        "num": 419780,
+        "word": "邵阳学院砸1800万引进23名菲律宾博士",
+        "onboard_time": 1658150850,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 382118,
+        "num": 382118,
+        "word": "大山的女儿豆瓣开分9.1",
+        "onboard_time": 1658167454,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296966,
+        "num": 296966,
+        "word": "优酷 沉香如屑",
+        "onboard_time": 1658142028,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282392,
+        "num": 282392,
+        "word": "女子违停后被交警老公贴罚单",
+        "onboard_time": 1658176091,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259213,
+        "num": 259213,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254600,
+        "num": 254600,
+        "word": "王麻子 拍了一天的蒜",
+        "onboard_time": 1658142205,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250621,
+        "num": 250621,
+        "word": "教育局回应学校按分数排队办入学",
+        "onboard_time": 1658174170,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 279225,
+        "num": 240093,
+        "word": "心疼李现",
+        "onboard_time": 1658152057,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228490,
+        "num": 228490,
+        "word": "羽生结弦 退役",
+        "onboard_time": 1658187384,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220833,
+        "num": 220833,
+        "word": "周游记2有张艺兴",
+        "onboard_time": 1658150670,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205847,
+        "num": 205847,
+        "word": "湖南卫视 山海情",
+        "onboard_time": 1658150072,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205077,
+        "num": 205077,
+        "word": "优化全国年节和法定节假日时间分布格局",
+        "onboard_time": 1658180471,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179615,
+        "num": 179615,
+        "word": "原神 散兵",
+        "onboard_time": 1658156311,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179566,
+        "num": 179566,
+        "word": "不会用电脑的18岁少年高考632分",
+        "onboard_time": 1658151453,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 167452,
+        "num": 167452,
+        "word": "山西警方通报6人夜市互殴",
+        "onboard_time": 1658157990,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158926,
+        "num": 158926,
+        "word": "新欢可以代替旧爱吗",
+        "onboard_time": 1658177350,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158386,
+        "num": 158386,
+        "word": "英国首相坐战斗机自拍",
+        "onboard_time": 1658159069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200654,
+        "num": 158279,
+        "word": "人生若如初见爱奇艺播出",
+        "onboard_time": 1658154936,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138769,
+        "num": 138769,
+        "word": "男子被蚊子叮咬患脓毒症进ICU",
+        "onboard_time": 1658174470,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "每一步都忍不住洗手",
+        "onboard_time": 1658153138,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133622,
+        "num": 133622,
+        "word": "张小泉竞争对手直播菜刀拍蒜",
+        "onboard_time": 1658151032,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130913,
+        "num": 130913,
+        "word": "北京将研究限制国三汽油车进五环",
+        "onboard_time": 1658187442,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123742,
+        "num": 123742,
+        "word": "水尾村孩子群体性血铅中毒",
+        "onboard_time": 1658147128,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118205,
+        "num": 118205,
+        "word": "主任会扔下楼的病历",
+        "onboard_time": 1658147306,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117055,
+        "num": 117055,
+        "word": "海贼王将进入最终章",
+        "onboard_time": 1658148390,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105087,
+        "num": 105087,
+        "word": "张小泉为什么不能拍蒜",
+        "onboard_time": 1658149711,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102528,
+        "num": 102528,
+        "word": "对台军售休想撼动中国统一大势",
+        "onboard_time": 1658160685,
+        "rank": 39,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 92324,
+        "num": 92324,
+        "word": "当代年轻人的朋友圈文案",
+        "onboard_time": 1658138968,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 87093,
+        "num": 87093,
+        "word": "北大校友为讨汤老人儿子募捐",
+        "onboard_time": 1658152895,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84012,
+        "num": 84012,
+        "word": "人类移民为什么最先拿火星练手",
+        "onboard_time": 1658166137,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83216,
+        "num": 83216,
+        "word": "晚晚 象组",
+        "onboard_time": 1658138366,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 83195,
+        "num": 83195,
+        "word": "才知道快速冰镇饮料的方法",
+        "onboard_time": 1658153381,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83031,
+        "num": 83031,
+        "word": "你想倾诉的时候妈妈都在",
+        "onboard_time": 1658185638,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77950,
+        "num": 77950,
+        "word": "成都本土疫情病例活动轨迹风险点位一览",
+        "onboard_time": 1658145567,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118483,
+        "num": 72895,
+        "word": "沉香如屑今晚空降",
+        "onboard_time": 1658141066,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67474,
+        "num": 67474,
+        "word": "男朋友典当行改名被遗忘的时光",
+        "onboard_time": 1658168293,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65899,
+        "num": 65899,
+        "word": "女子违停被交警老公贴罚单",
+        "onboard_time": 1658178071,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
