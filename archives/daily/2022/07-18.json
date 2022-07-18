@@ -1,7 +1,15 @@
 {
   "startTime": 1658074311206,
-  "endTime": 1658105706448,
+  "endTime": 1658119200905,
   "band_list": [
+    {
+      "raw_hot": 3770918,
+      "num": 3770918,
+      "word": "失星疯",
+      "onboard_time": 1658114964,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 3686550,
       "num": 3404918,
@@ -11,12 +19,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2156157,
+      "num": 2156157,
+      "word": "女生被骗3万后不服气又被骗5万",
+      "onboard_time": 1658106150,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1898425,
       "num": 1898425,
       "word": "2000多名游客滞留北海",
       "onboard_time": 1658073331,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1653383,
+      "num": 1168284,
+      "word": "吴费曼恭喜吴镇宇金像奖颗粒无收",
+      "onboard_time": 1658107167,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1518241,
@@ -35,12 +59,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1202426,
-      "num": 1202426,
+      "raw_hot": 1270150,
+      "num": 1270150,
       "word": "在学校家长送饭很丢人吗",
       "onboard_time": 1658104050,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1131869,
+      "num": 1131869,
+      "word": "蔡徐坤 哈密哈密",
+      "onboard_time": 1658117911,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1107565,
+      "num": 1107565,
+      "word": "南方暴雨要来了",
+      "onboard_time": 1658107768,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1088296,
@@ -59,12 +99,36 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 1039864,
+      "num": 684727,
+      "word": "北京市政协原副主席于鲁明被双开",
+      "onboard_time": 1658117069,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1018859,
+      "num": 1018859,
+      "word": "华为将发布HarmonyOS3",
+      "onboard_time": 1658110465,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 966453,
       "num": 966453,
       "word": "南非发生中国公民遭绑架后罹难案件",
       "onboard_time": 1658104469,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929856,
+      "num": 929856,
+      "word": "铁粉等级",
+      "onboard_time": 1658117069,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 895604,
@@ -83,6 +147,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834859,
+      "num": 834859,
+      "word": "四川新增本土确诊9例",
+      "onboard_time": 1658113285,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824423,
+      "num": 824423,
+      "word": "蔡徐坤新歌暗号",
+      "onboard_time": 1658112385,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 813748,
       "num": 813748,
       "word": "刘浩存方辟谣参与录制中餐厅6",
@@ -96,6 +176,38 @@
       "word": "刘雅瑟 小北",
       "onboard_time": 1658071415,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 761368,
+      "num": 761368,
+      "word": "北京顺义两地出现混检初筛阳性",
+      "onboard_time": 1658108488,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757698,
+      "num": 683386,
+      "word": "人生若如初见今日开播",
+      "onboard_time": 1658113946,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 739758,
+      "num": 739758,
+      "word": "大富翁4上线Steam",
+      "onboard_time": 1658112445,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 714034,
+      "num": 714034,
+      "word": "谢贤谢霆锋金像奖父子影帝",
+      "onboard_time": 1658106868,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -139,12 +251,60 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580751,
+      "num": 580751,
+      "word": "外国人听周杰伦的歌词有多崩溃",
+      "onboard_time": 1658114310,
+      "rank": 13,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 562776,
+      "num": 562776,
+      "word": "星汉灿烂OST",
+      "onboard_time": 1658115266,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 514258,
+      "num": 514258,
+      "word": "北京顺义出现1管10混1初筛阳性",
+      "onboard_time": 1658108488,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506075,
+      "num": 1279714,
+      "word": "超实用拍照构图技巧",
+      "onboard_time": 1658105370,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481660,
       "num": 376042,
       "word": "心疼龚俊的鞋",
       "onboard_time": 1658072851,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 481480,
+      "num": 481480,
+      "word": "官方回应护士抢救病人看手机",
+      "onboard_time": 1658117189,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477978,
+      "num": 477978,
+      "word": "钻粉",
+      "onboard_time": 1658118691,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 476380,
@@ -155,6 +315,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466797,
+      "num": 466797,
+      "word": "IVE将8月回归",
+      "onboard_time": 1658113467,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 453024,
+      "num": 453024,
+      "word": "理想试驾车急刹空气悬架断裂",
+      "onboard_time": 1658107107,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451476,
+      "num": 451476,
+      "word": "北海卫健委主任因防疫不力被免职",
+      "onboard_time": 1658109446,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439552,
+      "num": 439552,
+      "word": "北京连续7天无本土新增",
+      "onboard_time": 1658107646,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438062,
       "num": 438062,
       "word": "张大大从战至巅峰消失了",
@@ -163,12 +355,36 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 436729,
+      "num": 436729,
+      "word": "重庆南岸报告1例本土无症状",
+      "onboard_time": 1658117851,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415724,
+      "num": 415724,
+      "word": "刘雅瑟 刘欣",
+      "onboard_time": 1658108127,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404182,
       "num": 404182,
       "word": "养猫家庭不可言喻的痛",
       "onboard_time": 1658071893,
       "rank": 8,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 401370,
+      "num": 401370,
+      "word": "马斯克曾称火星还缺人",
+      "onboard_time": 1658110526,
+      "rank": 16,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 399422,
@@ -187,12 +403,52 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 387833,
+      "num": 387833,
+      "word": "男童被卡车底20多人抬车救人",
+      "onboard_time": 1658111903,
+      "rank": 27,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 385536,
+      "num": 385536,
+      "word": "京都动画纵火案三周年",
+      "onboard_time": 1658116411,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 384925,
+      "num": 384925,
+      "word": "马龙陈梦今天出战单打",
+      "onboard_time": 1658117730,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 377715,
+      "num": 357791,
+      "word": "闪耀吧体育生定档0723",
+      "onboard_time": 1658118030,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371898,
       "num": 371898,
       "word": "重庆暴雨",
       "onboard_time": 1658105126,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367089,
+      "num": 367089,
+      "word": "中超顶级球星出售广州1.5亿豪宅",
+      "onboard_time": 1658110465,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 357690,
@@ -203,12 +459,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351400,
+      "num": 351400,
+      "word": "B站将展示账号IP属地",
+      "onboard_time": 1658118872,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 345240,
       "num": 345240,
       "word": "上海新增3例本土确诊14例本土无症状",
       "onboard_time": 1658104711,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341210,
+      "num": 270929,
+      "word": "董璇谈被骂经历",
+      "onboard_time": 1658115689,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339608,
+      "num": 339608,
+      "word": "王庆来对何幸福说我爱你",
+      "onboard_time": 1658105250,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338274,
+      "num": 329188,
+      "word": "刘雨昕BoA新歌Better",
+      "onboard_time": 1658116769,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 335061,
@@ -219,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334214,
+      "num": 334214,
+      "word": "谭维维演我嗑cp",
+      "onboard_time": 1658107167,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332629,
       "num": 332629,
       "word": "小米被意大利罚款约2176万元",
@@ -227,12 +523,36 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 330379,
+      "num": 328650,
+      "word": "朱一龙人生大事扇子舞直拍",
+      "onboard_time": 1658114188,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326411,
       "num": 326411,
       "word": "宁波一渔船侧翻16人落水",
       "onboard_time": 1658100321,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 303805,
+      "num": 303805,
+      "word": "人生大事周末票房又逆跌了",
+      "onboard_time": 1658077281,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297665,
+      "num": 297665,
+      "word": "刘恋教薛凯琪跳佳人",
+      "onboard_time": 1658118989,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291557,
@@ -251,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285342,
-      "num": 285342,
-      "word": "人生大事周末票房又逆跌了",
-      "onboard_time": 1658077281,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 287954,
+      "num": 269949,
+      "word": "邓紫棋新专连续剧元宇宙预告",
+      "onboard_time": 1658115326,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 284597,
@@ -265,6 +585,22 @@
       "onboard_time": 1658058751,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284333,
+      "num": 284333,
+      "word": "陕师大2022毛笔手写录取通知书开笔",
+      "onboard_time": 1658117851,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 278313,
+      "num": 278313,
+      "word": "苦劝无果民警现场写代码揭诈骗",
+      "onboard_time": 1658112385,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272395,
@@ -283,20 +619,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 271579,
+      "num": 271579,
+      "word": "凯迪拉克",
+      "onboard_time": 1658118331,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271201,
+      "num": 271201,
+      "word": "河南新增3例确诊39例本土无症状",
+      "onboard_time": 1658108426,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264076,
+      "num": 264076,
+      "word": "藏在诗歌里的爱意有多浪漫",
+      "onboard_time": 1658112987,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250120,
       "num": 250120,
       "word": "宁波一休闲渔船侧翻已致6死",
       "onboard_time": 1658101043,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 245349,
-      "num": 245349,
-      "word": "超实用拍照构图技巧",
-      "onboard_time": 1658105370,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244530,
@@ -323,12 +675,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233672,
+      "num": 233672,
+      "word": "海龙街道负责人向住户逐一道歉",
+      "onboard_time": 1658114964,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231183,
       "num": 231183,
       "word": "TheShy 贾克斯",
       "onboard_time": 1658067934,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230974,
+      "num": 230974,
+      "word": "深圳新增1例确诊8例无症状",
+      "onboard_time": 1658107826,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227786,
@@ -379,6 +747,46 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206212,
+      "num": 206212,
+      "word": "甘肃增本土无症状183例",
+      "onboard_time": 1658107768,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204540,
+      "num": 204540,
+      "word": "浙江交警协管员执勤晒出渐变色",
+      "onboard_time": 1658109566,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202660,
+      "num": 202660,
+      "word": "同学接力抱罕见病男孩上学",
+      "onboard_time": 1658111903,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200351,
+      "num": 200351,
+      "word": "原来不是每个人都能玩水上漂",
+      "onboard_time": 1658115028,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197156,
+      "num": 197156,
+      "word": "运9大象漫步霸气场面",
+      "onboard_time": 1658113047,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 196207,
       "num": 196207,
       "word": "成都新增",
@@ -395,12 +803,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 190507,
+      "num": 190507,
+      "word": "如何看待在你低谷期消失的朋友",
+      "onboard_time": 1658108068,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187272,
       "num": 157167,
       "word": "破事精英",
       "onboard_time": 1658058871,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183869,
+      "num": 183869,
+      "word": "北京消费券",
+      "onboard_time": 1658111367,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179282,
@@ -417,6 +841,14 @@
       "onboard_time": 1658059354,
       "rank": 28,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 176189,
+      "num": 156915,
+      "word": "汪苏泷新专辑联名",
+      "onboard_time": 1658115829,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 175923,
@@ -443,12 +875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166990,
+      "num": 166990,
+      "word": "陕师大第16年手写录取通知书",
+      "onboard_time": 1658118929,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 160342,
       "num": 116374,
       "word": "冯皓扬金像奖最佳男配角",
       "onboard_time": 1658073751,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156792,
+      "num": 156792,
+      "word": "隆里电丝",
+      "onboard_time": 1658110465,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156030,
@@ -507,12 +955,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139937,
-      "num": 139937,
-      "word": "王庆来对何幸福说我爱你",
-      "onboard_time": 1658105250,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 137622,
+      "num": 137622,
+      "word": "7月17日新增393例本土无症状",
+      "onboard_time": 1658107826,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130755,
@@ -528,6 +976,22 @@
       "word": "25岁男子长相成熟常被误认为42岁",
       "onboard_time": 1658045127,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129101,
+      "num": 129101,
+      "word": "北海增59例本土确诊51例无症状",
+      "onboard_time": 1658109867,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123806,
+      "num": 123806,
+      "word": "天津新增2例阳性",
+      "onboard_time": 1658108606,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -595,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94011,
+      "num": 94011,
+      "word": "问天实验舱将择机发射",
+      "onboard_time": 1658114188,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 92716,
       "num": 73516,
       "word": "郑兆强 智齿",
@@ -652,6 +1124,9 @@
     },
     {
       "word": "#制造业的核心就是创新#"
+    },
+    {
+      "word": "#潮涌京津冀逐梦新征程#"
     }
   ]
 }
