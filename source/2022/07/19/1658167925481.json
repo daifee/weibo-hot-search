@@ -1,0 +1,410 @@
+{
+  "runTime": 1658167925481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657670,
+        "num": 657670,
+        "word": "阴阳怪气还得看驾校教练",
+        "onboard_time": 1658153318,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343271,
+        "num": 343271,
+        "word": "高考生查分第2天脑出血进ICU",
+        "onboard_time": 1658151574,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 98041,
+        "num": 198532,
+        "word": "长大后我和初中班主任成了同桌",
+        "onboard_time": 1658153678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180591,
+        "num": 180591,
+        "word": "张小泉总经理道歉",
+        "onboard_time": 1658156249,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177817,
+        "num": 177817,
+        "word": "刘畊宏给周杰伦刷奶茶礼物",
+        "onboard_time": 1658151935,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172422,
+        "num": 172422,
+        "word": "邵阳学院砸1800万引进23名菲律宾博士",
+        "onboard_time": 1658150850,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163332,
+        "num": 163332,
+        "word": "大山的女儿豆瓣开分9.1",
+        "onboard_time": 1658167454,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160376,
+        "num": 160376,
+        "word": "女子给儿子熬中药炼出一炉仙丹",
+        "onboard_time": 1658154038,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151880,
+        "num": 151880,
+        "word": "原神 散兵",
+        "onboard_time": 1658156311,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113253,
+        "num": 113253,
+        "word": "沉香如屑今晚空降",
+        "onboard_time": 1658141066,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441599,
+        "num": 111817,
+        "word": "芒果台",
+        "onboard_time": 1658160205,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109340,
+        "num": 109340,
+        "word": "每一步都忍不住洗手",
+        "onboard_time": 1658153138,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307911,
+        "num": 108793,
+        "word": "撤档",
+        "onboard_time": 1658151152,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106467,
+        "num": 106467,
+        "word": "山西警方通报6人夜市互殴",
+        "onboard_time": 1658157990,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105029,
+        "num": 105029,
+        "word": "对台军售休想撼动中国统一大势",
+        "onboard_time": 1658160685,
+        "rank": 14,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 96167,
+        "num": 96167,
+        "word": "周游记2有张艺兴",
+        "onboard_time": 1658150670,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93611,
+        "num": 93611,
+        "word": "英国首相坐战斗机自拍",
+        "onboard_time": 1658159069,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87379,
+        "num": 87379,
+        "word": "奥比岛 疲劳值",
+        "onboard_time": 1658154996,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85735,
+        "num": 85735,
+        "word": "不会用电脑的18岁少年高考632分",
+        "onboard_time": 1658151453,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 76013,
+        "num": 76013,
+        "word": "王麻子 拍了一天的蒜",
+        "onboard_time": 1658142205,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128686,
+        "num": 75192,
+        "word": "心疼李现",
+        "onboard_time": 1658152057,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94285,
+        "num": 75088,
+        "word": "人类移民为什么最先拿火星练手",
+        "onboard_time": 1658166137,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93379,
+        "num": 74963,
+        "word": "优酷 沉香如屑",
+        "onboard_time": 1658142028,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74070,
+        "num": 74070,
+        "word": "美羊羊气泡被玩坏了",
+        "onboard_time": 1658157269,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69669,
+        "num": 69669,
+        "word": "海贼王将进入最终章",
+        "onboard_time": 1658148390,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 68189,
+        "num": 68189,
+        "word": "理发前后变化能有多大",
+        "onboard_time": 1658159909,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54034,
+        "num": 54034,
+        "word": "当代年轻人的朋友圈文案",
+        "onboard_time": 1658138968,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 49861,
+        "num": 49861,
+        "word": "主任会扔下楼的病历",
+        "onboard_time": 1658147306,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46431,
+        "num": 46431,
+        "word": "张小泉竞争对手直播菜刀拍蒜",
+        "onboard_time": 1658151032,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46279,
+        "num": 46279,
+        "word": "男朋友承包了我一年的包",
+        "onboard_time": 1658139867,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77016,
+        "num": 45550,
+        "word": "王庆来霸气为幸福讨公道",
+        "onboard_time": 1658163977,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73302,
+        "num": 44999,
+        "word": "晚晚 象组",
+        "onboard_time": 1658138366,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68240,
+        "num": 44615,
+        "word": "湖南卫视 山海情",
+        "onboard_time": 1658150072,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65221,
+        "num": 43490,
+        "word": "人生若如初见爱奇艺播出",
+        "onboard_time": 1658154936,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43244,
+        "num": 43244,
+        "word": "才知道快速冰镇饮料的方法",
+        "onboard_time": 1658153381,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43149,
+        "num": 43149,
+        "word": "小奶狗的颜值能有多高",
+        "onboard_time": 1658144546,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 35273,
+        "num": 35273,
+        "word": "奶茶锦衣卫便宜又好喝",
+        "onboard_time": 1658145326,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30046,
+        "num": 30046,
+        "word": "张小泉为什么不能拍蒜",
+        "onboard_time": 1658149711,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28304,
+        "num": 28304,
+        "word": "古代就有站岗小狗",
+        "onboard_time": 1658144487,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28029,
+        "num": 28029,
+        "word": "国防部回应美对台军售",
+        "onboard_time": 1658158949,
+        "rank": 39,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 62628,
+        "num": 28016,
+        "word": "人生若如初见更新6集",
+        "onboard_time": 1658155119,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56094,
+        "num": 28004,
+        "word": "蔡徐坤官宣新歌722上线",
+        "onboard_time": 1658162721,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27893,
+        "num": 27893,
+        "word": "奥比岛 装修",
+        "onboard_time": 1658143766,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27343,
+        "num": 27343,
+        "word": "成都本土疫情病例活动轨迹风险点位一览",
+        "onboard_time": 1658145567,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27332,
+        "num": 27332,
+        "word": "北大校友为讨汤老人儿子募捐",
+        "onboard_time": 1658152895,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25637,
+        "num": 25637,
+        "word": "张小泉总经理称中国人切菜方法不对",
+        "onboard_time": 1658120908,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 21294,
+        "num": 21294,
+        "word": "人类幼崽请你逛超市是什么体验",
+        "onboard_time": 1658153079,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 20729,
+        "num": 20729,
+        "word": "中国男篮大胜印尼男篮",
+        "onboard_time": 1658147009,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19253,
+        "num": 19253,
+        "word": "胡明轩14分",
+        "onboard_time": 1658151092,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19070,
+        "num": 19226,
+        "word": "国台办敦促美方放弃打台湾牌图谋",
+        "onboard_time": 1658155477,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌京津冀逐梦新征程#"
+    }
+  }
+}
