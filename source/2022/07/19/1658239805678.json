@@ -1,0 +1,410 @@
+{
+  "runTime": 1658239805678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3137667,
+        "num": 3137667,
+        "word": "深圳南山",
+        "onboard_time": 1658233650,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1811010,
+        "num": 1811010,
+        "word": "朱一龙工作室被列为经营异常",
+        "onboard_time": 1658225672,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 170118,
+        "num": 1717335,
+        "word": "集中查处散布虚假信息等问题",
+        "onboard_time": 1658237792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1639977,
+        "num": 1639977,
+        "word": "女子网购酒和头孢两骑手相遇报警",
+        "onboard_time": 1658235449,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362068,
+        "num": 1362068,
+        "word": "刘畊宏vivi牵手录制中餐厅",
+        "onboard_time": 1658235391,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1272030,
+        "num": 1272030,
+        "word": "程少商被退婚",
+        "onboard_time": 1658232635,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1269875,
+        "num": 1269875,
+        "word": "长沙一公司面试题问如厕习惯吃饭时长",
+        "onboard_time": 1658235992,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035117,
+        "num": 1035117,
+        "word": "日本6比0中国香港",
+        "onboard_time": 1658238274,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010238,
+        "num": 1010238,
+        "word": "羽生结弦转为职业花滑选手",
+        "onboard_time": 1658218654,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665104,
+        "num": 895401,
+        "word": "B站夏日祭",
+        "onboard_time": 1658230769,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1801234,
+        "num": 893706,
+        "word": "九尾 发色",
+        "onboard_time": 1658235151,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 782576,
+        "num": 782576,
+        "word": "星汉灿烂预告",
+        "onboard_time": 1658235571,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 691306,
+        "num": 691306,
+        "word": "警方回应一外卖骑手遭汽车多次撞击",
+        "onboard_time": 1658233351,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661129,
+        "num": 661129,
+        "word": "我和刘奕君下半年的计划是一样的",
+        "onboard_time": 1658239110,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654662,
+        "num": 654662,
+        "word": "幸福到万家大结局三观正",
+        "onboard_time": 1658228013,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643456,
+        "num": 643456,
+        "word": "北京全市酒店不承办婚宴",
+        "onboard_time": 1658231130,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610009,
+        "num": 610009,
+        "word": "男子健身时心脏骤停重摔倒地",
+        "onboard_time": 1658234726,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548167,
+        "num": 548167,
+        "word": "羽生结弦与中国式浪漫",
+        "onboard_time": 1658234909,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 446411,
+        "num": 446411,
+        "word": "女子等电梯时遭人恶意撞击险致盲",
+        "onboard_time": 1658222136,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 399902,
+        "num": 399902,
+        "word": "狗狗认出做绝育医生后焦躁大叫",
+        "onboard_time": 1658224592,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522912,
+        "num": 398422,
+        "word": "姜广涛商业版图",
+        "onboard_time": 1658233889,
+        "rank": 20,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 490173,
+        "num": 395613,
+        "word": "吴磊说凌不疑做事只跟自己交代",
+        "onboard_time": 1658236949,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474560,
+        "num": 395428,
+        "word": "周杰伦给钱锟新歌打call",
+        "onboard_time": 1658237493,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390258,
+        "num": 390258,
+        "word": "曹德旺称趁早卖房才明智",
+        "onboard_time": 1658223692,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 350659,
+        "num": 350659,
+        "word": "广外",
+        "onboard_time": 1658226037,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 340895,
+        "num": 340895,
+        "word": "老人房子蟑螂成灾邻居离家租房",
+        "onboard_time": 1658222916,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339342,
+        "num": 339342,
+        "word": "白石洲疫情防控",
+        "onboard_time": 1658236653,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337983,
+        "num": 337983,
+        "word": "河北专接本",
+        "onboard_time": 1658238754,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302145,
+        "num": 302145,
+        "word": "6岁男孩游泳时手被吸入排水口",
+        "onboard_time": 1658228852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295927,
+        "num": 295927,
+        "word": "外卖员被轿车撞倒后遭二次碾压",
+        "onboard_time": 1658229271,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473772,
+        "num": 294747,
+        "word": "郑晓龙说曾想过拍甄嬛传续集",
+        "onboard_time": 1658238934,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432930,
+        "num": 281812,
+        "word": "韩国买入星汉灿烂播出版权",
+        "onboard_time": 1658238694,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349896,
+        "num": 276091,
+        "word": "金钟仁获青龙电视剧大赏艺能新人奖",
+        "onboard_time": 1658237251,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429210,
+        "num": 268303,
+        "word": "何昭君手刃灭门仇人",
+        "onboard_time": 1658238934,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266633,
+        "num": 266633,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265569,
+        "num": 265569,
+        "word": "罗敏称被东方甄选董宇辉拉黑",
+        "onboard_time": 1658225854,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 246978,
+        "num": 246978,
+        "word": "204家国家一级博物馆名单",
+        "onboard_time": 1658234610,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 228568,
+        "num": 228568,
+        "word": "饿了么",
+        "onboard_time": 1658235391,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221741,
+        "num": 221741,
+        "word": "你的手机充电有多快",
+        "onboard_time": 1658227591,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207088,
+        "num": 207088,
+        "word": "中方要求美国不得安排佩洛西访台",
+        "onboard_time": 1658220218,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 226799,
+        "num": 205328,
+        "word": "快乐再出发",
+        "onboard_time": 1658235571,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219392,
+        "num": 198931,
+        "word": "毕业后第一选择是工作还是考研",
+        "onboard_time": 1658239051,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192013,
+        "num": 192013,
+        "word": "海南50名公考考生拟被取消成绩",
+        "onboard_time": 1658221296,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 179788,
+        "num": 179788,
+        "word": "小狗也没想到要吃素菜减肥",
+        "onboard_time": 1658231008,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "天津社会面新增6例本土感染者",
+        "onboard_time": 1658232330,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158738,
+        "num": 158738,
+        "word": "一张图概括什么是电竞10分美人",
+        "onboard_time": 1658230833,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156710,
+        "num": 156710,
+        "word": "羽生结弦正式宣布退役",
+        "onboard_time": 1658218592,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153331,
+        "num": 153331,
+        "word": "成都天空",
+        "onboard_time": 1658239655,
+        "rank": 47,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 150056,
+        "num": 150056,
+        "word": "游戏主播雇8人殴打自己被拘10日",
+        "onboard_time": 1658225194,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146638,
+        "num": 146638,
+        "word": "iQOO发布会",
+        "onboard_time": 1658236949,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
