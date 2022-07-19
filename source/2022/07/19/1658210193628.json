@@ -1,0 +1,410 @@
+{
+  "runTime": 1658210193628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2221091,
+        "num": 2221091,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286324,
+        "num": 1286324,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267733,
+        "num": 1279043,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3722611,
+        "num": 1278269,
+        "word": "姜广涛",
+        "onboard_time": 1658207077,
+        "rank": 3,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 1632828,
+        "num": 1277957,
+        "word": "光合积木",
+        "onboard_time": 1658208514,
+        "rank": 4,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 1277278,
+        "num": 1277278,
+        "word": "韩民众因炸鸡太贵在网上发起抵制",
+        "onboard_time": 1658202812,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094637,
+        "num": 1094637,
+        "word": "马斯克称已将大脑上传到云端",
+        "onboard_time": 1658206475,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 985506,
+        "num": 985506,
+        "word": "开空调为什么要开窗通风",
+        "onboard_time": 1658203712,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762861,
+        "num": 762861,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645527,
+        "num": 645527,
+        "word": "成都招聘需求全国第一",
+        "onboard_time": 1658208095,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744246,
+        "num": 637818,
+        "word": "奔跑吧急救医生官宣",
+        "onboard_time": 1658204374,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654774,
+        "num": 632378,
+        "word": "Angelababy赖冠霖盛夏热恋芭莎大片",
+        "onboard_time": 1658209594,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 623838,
+        "num": 623838,
+        "word": "河北4少年同骑1电瓶车被撞身亡",
+        "onboard_time": 1658201431,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 603326,
+        "num": 603326,
+        "word": "鹿晗申请对侵权公司限制消费",
+        "onboard_time": 1658209473,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7282,
+        "num": 583982,
+        "word": "网友齐帮韩乔生找IQ",
+        "onboard_time": 1658207439,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580350,
+        "num": 580350,
+        "word": "杨幂密逃新剧照",
+        "onboard_time": 1658208994,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571096,
+        "num": 571096,
+        "word": "羽生结弦 不退役",
+        "onboard_time": 1658199689,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 486051,
+        "num": 486051,
+        "word": "严打涉未成年人网络淫秽色情",
+        "onboard_time": 1658207856,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403792,
+        "num": 403792,
+        "word": "验瓜师3秒挑一个西瓜月入3万",
+        "onboard_time": 1658204072,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368217,
+        "num": 368217,
+        "word": "研究揭示睡眠时大脑如何处理声音",
+        "onboard_time": 1658206416,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 542627,
+        "num": 364159,
+        "word": "保剑锋给吴磊的应援好有排面",
+        "onboard_time": 1658208213,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519532,
+        "num": 363561,
+        "word": "白鹿新剧演姜雪宁",
+        "onboard_time": 1658205576,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357979,
+        "num": 357979,
+        "word": "女生找工作不接受单休遭HR羞辱",
+        "onboard_time": 1658195847,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354632,
+        "num": 354632,
+        "word": "小天才平板涉黄暴被约谈",
+        "onboard_time": 1658199928,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339349,
+        "num": 339349,
+        "word": "浙江高考",
+        "onboard_time": 1658198006,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 322874,
+        "num": 322874,
+        "word": "怀远县连续7天喷3小时过氧乙酸",
+        "onboard_time": 1658202033,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302174,
+        "num": 302174,
+        "word": "日媒称羽生将转战职业花滑领域",
+        "onboard_time": 1658205159,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 271663,
+        "num": 271663,
+        "word": "中国人不仅给自己买房还给儿孙买房",
+        "onboard_time": 1658200110,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252564,
+        "num": 252564,
+        "word": "南京夏日祭",
+        "onboard_time": 1658193330,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248981,
+        "num": 248981,
+        "word": "大连老虎滩极地馆北极熊被曝变色",
+        "onboard_time": 1658208274,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1637537,
+        "num": 238292,
+        "word": "李子柒",
+        "onboard_time": 1658203292,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400820,
+        "num": 227507,
+        "word": "你好星期六全员招聘",
+        "onboard_time": 1658206778,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386772,
+        "num": 215944,
+        "word": "周杰伦回应新专辑仅6首新歌",
+        "onboard_time": 1658196987,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272491,
+        "num": 206946,
+        "word": "海清老师我永远的快乐源泉",
+        "onboard_time": 1658200348,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195406,
+        "num": 195406,
+        "word": "飞天小女警重启",
+        "onboard_time": 1658195906,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194695,
+        "num": 194695,
+        "word": "村民徒手挖水道唤醒白海豚求生欲",
+        "onboard_time": 1658204917,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185395,
+        "num": 185395,
+        "word": "男子把病房当家霸占3年被拘",
+        "onboard_time": 1658199446,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184124,
+        "num": 184124,
+        "word": "爱奇艺和抖音集团达成合作",
+        "onboard_time": 1658196626,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172135,
+        "num": 172135,
+        "word": "狗妈妈被投喂后带一家人来蹭饭",
+        "onboard_time": 1658203292,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167296,
+        "num": 167296,
+        "word": "2022河南高招多所名校断档",
+        "onboard_time": 1658207077,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 247227,
+        "num": 166869,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235459,
+        "num": 165764,
+        "word": "姜磊说杨紫曾不顾劝阻帮助老奶奶",
+        "onboard_time": 1658191110,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199731,
+        "num": 163331,
+        "word": "宁安如梦主演官宣",
+        "onboard_time": 1658201909,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158006,
+        "num": 158006,
+        "word": "校方回应花1800万引进23名菲律宾博士",
+        "onboard_time": 1658193268,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151403,
+        "num": 151403,
+        "word": "6位医生坚持做按压救回心梗男子",
+        "onboard_time": 1658209836,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149739,
+        "num": 149739,
+        "word": "中国持仓美债12年来首次跌破万亿",
+        "onboard_time": 1658203895,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 149484,
+        "num": 149484,
+        "word": "西班牙高温热浪已致510人死亡",
+        "onboard_time": 1658194225,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 137853,
+        "num": 137853,
+        "word": "天津北辰区发生爆炸事故",
+        "onboard_time": 1658191172,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 137269,
+        "num": 137269,
+        "word": "人工智能能为养老带来什么",
+        "onboard_time": 1658210013,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "夏天的浙江也太好吃了吧",
+        "onboard_time": 1658205758,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
