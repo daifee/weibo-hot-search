@@ -1,0 +1,410 @@
+{
+  "runTime": 1658220370789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14340066,
+        "num": 14340066,
+        "word": "羽生结弦正式宣布退役",
+        "onboard_time": 1658218592,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4515876,
+        "num": 4515876,
+        "word": "羽生结弦转为职业花滑选手",
+        "onboard_time": 1658218654,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66206,
+        "num": 2930048,
+        "word": "延时摄影看问天实验舱转运过程",
+        "onboard_time": 1658214692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1926493,
+        "num": 1926493,
+        "word": "女子科目三考试把安全员开吐了",
+        "onboard_time": 1658215471,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490101,
+        "num": 1490101,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480465,
+        "num": 1480465,
+        "word": "李秀满陪刘雨昕线上录音八小时",
+        "onboard_time": 1658217390,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1413286,
+        "num": 1413286,
+        "word": "光合积木回应姜广涛被抓",
+        "onboard_time": 1658218534,
+        "rank": 6,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 1307353,
+        "num": 1307353,
+        "word": "女子中暑喝藿香正气水症状反加重",
+        "onboard_time": 1658216490,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161677,
+        "num": 1161677,
+        "word": "下午4点更易发生脑溢血",
+        "onboard_time": 1658217509,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115739,
+        "num": 1115739,
+        "word": "清华大学发现罕见双星系统",
+        "onboard_time": 1658218052,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 894269,
+        "num": 894269,
+        "word": "羽生结弦新闻发布会",
+        "onboard_time": 1658216849,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 852819,
+        "num": 852819,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609857,
+        "num": 609857,
+        "word": "感谢现役",
+        "onboard_time": 1658218234,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558605,
+        "num": 558605,
+        "word": "tangoz宇宙",
+        "onboard_time": 1658217149,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 526226,
+        "num": 526226,
+        "word": "富士康招3747名应届大学生",
+        "onboard_time": 1658212711,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479734,
+        "num": 479734,
+        "word": "七月份新疆水果摊是这样的",
+        "onboard_time": 1658211991,
+        "rank": 15,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 466813,
+        "num": 466813,
+        "word": "二次元没惹任何人",
+        "onboard_time": 1658216730,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418114,
+        "num": 418114,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352860,
+        "num": 352860,
+        "word": "哪些职业永远不会被AI取代",
+        "onboard_time": 1658217330,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 348255,
+        "num": 348255,
+        "word": "郑州房管局回应",
+        "onboard_time": 1658217690,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339162,
+        "num": 339162,
+        "word": "韩民众因炸鸡太贵在网上发起抵制",
+        "onboard_time": 1658202812,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336034,
+        "num": 336034,
+        "word": "开空调为什么要开窗通风",
+        "onboard_time": 1658203712,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305961,
+        "num": 305961,
+        "word": "老太请外甥女养老被转走近百万积蓄",
+        "onboard_time": 1658216130,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305885,
+        "num": 305885,
+        "word": "光合积木",
+        "onboard_time": 1658208514,
+        "rank": 23,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 297239,
+        "num": 297239,
+        "word": "河北4少年同骑1电瓶车被撞身亡",
+        "onboard_time": 1658201431,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 283598,
+        "num": 283598,
+        "word": "祝福羽生结弦",
+        "onboard_time": 1658219135,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260236,
+        "num": 260236,
+        "word": "人民网评电影雪山飞狐",
+        "onboard_time": 1658218534,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251516,
+        "num": 251516,
+        "word": "成都招聘需求全国第一",
+        "onboard_time": 1658208095,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246793,
+        "num": 246793,
+        "word": "中国内地高校14个学科位列世界第一",
+        "onboard_time": 1658217330,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237074,
+        "num": 237074,
+        "word": "中方要求美国不得安排佩洛西访台",
+        "onboard_time": 1658220218,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223732,
+        "num": 223732,
+        "word": "周峻纬宁安如梦战损造型",
+        "onboard_time": 1658220099,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223696,
+        "num": 223696,
+        "word": "奔跑吧急救医生官宣",
+        "onboard_time": 1658204374,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215521,
+        "num": 215521,
+        "word": "白鹿新剧演姜雪宁",
+        "onboard_time": 1658205576,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214336,
+        "num": 214336,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204419,
+        "num": 204419,
+        "word": "谢谢羽生结弦",
+        "onboard_time": 1658220158,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203696,
+        "num": 203696,
+        "word": "选专业不能只看名",
+        "onboard_time": 1658218895,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 197475,
+        "num": 197475,
+        "word": "严打涉未成年人网络淫秽色情",
+        "onboard_time": 1658207856,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192538,
+        "num": 192538,
+        "word": "羽生结弦 一个时代的落幕",
+        "onboard_time": 1658220278,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188336,
+        "num": 188336,
+        "word": "Angelababy赖冠霖盛夏热恋芭莎大片",
+        "onboard_time": 1658209594,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175645,
+        "num": 175645,
+        "word": "杨幂密逃新剧照",
+        "onboard_time": 1658208994,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174689,
+        "num": 174689,
+        "word": "肖允儿吃面太费香菜",
+        "onboard_time": 1658219375,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174409,
+        "num": 174409,
+        "word": "保剑锋给吴磊的应援好有排面",
+        "onboard_time": 1658208213,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172753,
+        "num": 172753,
+        "word": "马斯克称已将大脑上传到云端",
+        "onboard_time": 1658206475,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 172152,
+        "num": 172152,
+        "word": "北京发布2022年各项社保缴费工资基数上下限",
+        "onboard_time": 1658214752,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167538,
+        "num": 167538,
+        "word": "8岁肿瘤患儿忍剧痛抗病5年",
+        "onboard_time": 1658213251,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163583,
+        "num": 163583,
+        "word": "中通客车",
+        "onboard_time": 1658211395,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163575,
+        "num": 163575,
+        "word": "含羽生结弦照片报纸被炒至超原价70倍",
+        "onboard_time": 1658213129,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246368,
+        "num": 163336,
+        "word": "舍不得羽生结弦",
+        "onboard_time": 1658220338,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152583,
+        "num": 162597,
+        "word": "魏晨看爸爸当家像在看恋综",
+        "onboard_time": 1658217633,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162535,
+        "num": 162535,
+        "word": "天津燃气爆燃事故已致11人受伤",
+        "onboard_time": 1658213372,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化产业高质量发展#"
+    }
+  }
+}
