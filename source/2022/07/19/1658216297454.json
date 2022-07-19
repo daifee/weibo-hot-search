@@ -1,0 +1,410 @@
+{
+  "runTime": 1658216297454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3322219,
+        "num": 3322219,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2436736,
+        "num": 2436736,
+        "word": "姜广涛因商业经济纠纷配合调查",
+        "onboard_time": 1658215832,
+        "rank": 1,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 48010,
+        "num": 1838495,
+        "word": "延时摄影看问天实验舱转运过程",
+        "onboard_time": 1658214692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275233,
+        "num": 1275233,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829506,
+        "num": 829506,
+        "word": "光合积木",
+        "onboard_time": 1658208514,
+        "rank": 4,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 777891,
+        "num": 777891,
+        "word": "富士康招3747名应届大学生",
+        "onboard_time": 1658212711,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701084,
+        "num": 701084,
+        "word": "韩民众因炸鸡太贵在网上发起抵制",
+        "onboard_time": 1658202812,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681020,
+        "num": 681020,
+        "word": "Angelababy赖冠霖盛夏热恋芭莎大片",
+        "onboard_time": 1658209594,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 595961,
+        "num": 595961,
+        "word": "开空调为什么要开窗通风",
+        "onboard_time": 1658203712,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584466,
+        "num": 584466,
+        "word": "北京酒店不得拒绝健康码异常人员入住",
+        "onboard_time": 1658211573,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826378,
+        "num": 580372,
+        "word": "女子科目三考试把安全员开吐了",
+        "onboard_time": 1658215471,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674976,
+        "num": 575151,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567258,
+        "num": 567258,
+        "word": "七月份新疆水果摊是这样的",
+        "onboard_time": 1658211991,
+        "rank": 12,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 443007,
+        "num": 443007,
+        "word": "羽生结弦 不退役",
+        "onboard_time": 1658199689,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 428059,
+        "num": 428059,
+        "word": "河北4少年同骑1电瓶车被撞身亡",
+        "onboard_time": 1658201431,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 397158,
+        "num": 397158,
+        "word": "成都招聘需求全国第一",
+        "onboard_time": 1658208095,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371251,
+        "num": 371251,
+        "word": "马斯克称已将大脑上传到云端",
+        "onboard_time": 1658206475,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 362001,
+        "num": 362001,
+        "word": "保剑锋给吴磊的应援好有排面",
+        "onboard_time": 1658208213,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326501,
+        "num": 326501,
+        "word": "奔跑吧急救医生官宣",
+        "onboard_time": 1658204374,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319465,
+        "num": 319465,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318347,
+        "num": 318347,
+        "word": "中通客车",
+        "onboard_time": 1658211395,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294558,
+        "num": 294558,
+        "word": "白鹿新剧演姜雪宁",
+        "onboard_time": 1658205576,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290974,
+        "num": 290974,
+        "word": "普京称俄罗斯发展不会倒退几十年",
+        "onboard_time": 1658210614,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 279784,
+        "num": 279784,
+        "word": "导师的论文批注可以有多损",
+        "onboard_time": 1658211395,
+        "rank": 23,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 277359,
+        "num": 277359,
+        "word": "安徽专升本",
+        "onboard_time": 1658214633,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274699,
+        "num": 274699,
+        "word": "王源解析面对生死的浪漫主义色彩",
+        "onboard_time": 1658216070,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264125,
+        "num": 264125,
+        "word": "杨幂密逃新剧照",
+        "onboard_time": 1658208994,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258272,
+        "num": 258272,
+        "word": "含羽生结弦照片报纸被炒至超原价70倍",
+        "onboard_time": 1658213129,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241615,
+        "num": 241615,
+        "word": "北京发布2022年各项社保缴费工资基数上下限",
+        "onboard_time": 1658214752,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233276,
+        "num": 233276,
+        "word": "验瓜师3秒挑一个西瓜月入3万",
+        "onboard_time": 1658204072,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261435,
+        "num": 232623,
+        "word": "张卫国的夏天",
+        "onboard_time": 1658215171,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230661,
+        "num": 230661,
+        "word": "严打涉未成年人网络淫秽色情",
+        "onboard_time": 1658207856,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223468,
+        "num": 223468,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1658211690,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213131,
+        "num": 213131,
+        "word": "浙江高考",
+        "onboard_time": 1658198006,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 208285,
+        "num": 208285,
+        "word": "天津燃气爆燃事故已致11人受伤",
+        "onboard_time": 1658213372,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 198818,
+        "num": 198818,
+        "word": "8岁肿瘤患儿忍剧痛抗病5年",
+        "onboard_time": 1658213251,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195403,
+        "num": 195403,
+        "word": "周杰伦回应新专辑仅6首新歌",
+        "onboard_time": 1658196987,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189089,
+        "num": 189089,
+        "word": "腾讯视频否认与快手合作",
+        "onboard_time": 1658210314,
+        "rank": 37,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 180801,
+        "num": 180801,
+        "word": "3个动作甩掉小肚腩",
+        "onboard_time": 1658215531,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179808,
+        "num": 179808,
+        "word": "你好星期六全员招聘",
+        "onboard_time": 1658206778,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177979,
+        "num": 177979,
+        "word": "世纪佳缘大股东复星主动报案",
+        "onboard_time": 1658215591,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176940,
+        "num": 176940,
+        "word": "天津燃气爆燃事故仍有3人失联",
+        "onboard_time": 1658210792,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166686,
+        "num": 166686,
+        "word": "小天才平板涉黄暴被约谈",
+        "onboard_time": 1658199928,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160928,
+        "num": 160928,
+        "word": "老太请外甥女养老被转走近百万积蓄",
+        "onboard_time": 1658216130,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158588,
+        "num": 158588,
+        "word": "大连老虎滩极地馆北极熊被曝变色",
+        "onboard_time": 1658208274,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156862,
+        "num": 156862,
+        "word": "3个动作铲平小肚腩",
+        "onboard_time": 1658216130,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 156641,
+        "num": 156641,
+        "word": "6位医生坚持做按压救回心梗男子",
+        "onboard_time": 1658209836,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 155397,
+        "num": 155397,
+        "word": "鹿晗申请对侵权公司限制消费",
+        "onboard_time": 1658209473,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "刘奕君海清新剧演夫妻",
+        "onboard_time": 1658214991,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142355,
+        "num": 142355,
+        "word": "成都常住人口增量位列全国第二",
+        "onboard_time": 1658211034,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化产业高质量发展#"
+    }
+  }
+}
