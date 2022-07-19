@@ -1,0 +1,410 @@
+{
+  "runTime": 1658272201398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717157,
+        "num": 717157,
+        "word": "骗子在群里被十几个警察包围",
+        "onboard_time": 1658263750,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645169,
+        "num": 645169,
+        "word": "玉骨遥",
+        "onboard_time": 1658250558,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49366,
+        "num": 577512,
+        "word": "集中查处散布虚假信息等问题",
+        "onboard_time": 1658237792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563693,
+        "num": 563693,
+        "word": "婴儿被扔垃圾桶啼哭不止",
+        "onboard_time": 1658262251,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485059,
+        "num": 485059,
+        "word": "国家植物园巨魔芋开花了",
+        "onboard_time": 1658251157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400276,
+        "num": 400276,
+        "word": "大热天戴帽子的都是时髦精",
+        "onboard_time": 1658245592,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374670,
+        "num": 374670,
+        "word": "女子网购酒和头孢两骑手相遇报警",
+        "onboard_time": 1658235449,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363294,
+        "num": 363294,
+        "word": "宁夏确诊一例腺鼠疫病例",
+        "onboard_time": 1658242895,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290005,
+        "num": 290005,
+        "word": "令人心动的offer4建筑师季招募启动",
+        "onboard_time": 1658246429,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245752,
+        "num": 245752,
+        "word": "离职时老板给我11万",
+        "onboard_time": 1658244212,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361225,
+        "num": 235904,
+        "word": "程少商让袁慎娶何昭君",
+        "onboard_time": 1658270055,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223657,
+        "num": 223657,
+        "word": "你会不会因为鱼刺而不吃鱼",
+        "onboard_time": 1658251818,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219946,
+        "num": 219946,
+        "word": "太快确定关系的感情不长久吗",
+        "onboard_time": 1658247149,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201508,
+        "num": 201508,
+        "word": "张大大说内娱不能没有舞台",
+        "onboard_time": 1658250740,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193853,
+        "num": 193853,
+        "word": "女子掀火锅叫嚣让你从汉中消失",
+        "onboard_time": 1658240791,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "郭涛两部剧老婆梅婷曾黎是同学",
+        "onboard_time": 1658247447,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148917,
+        "num": 148917,
+        "word": "曹德旺称趁早卖房才明智",
+        "onboard_time": 1658223692,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 144633,
+        "num": 144633,
+        "word": "女子等电梯时遭人恶意撞击险致盲",
+        "onboard_time": 1658222136,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 127154,
+        "num": 127154,
+        "word": "马布里深情感谢中国防疫人员",
+        "onboard_time": 1658265431,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119477,
+        "num": 119477,
+        "word": "男子健身时心脏骤停重摔倒地",
+        "onboard_time": 1658234726,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 118930,
+        "word": "沉香如屑",
+        "onboard_time": 1658243134,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144334,
+        "num": 118796,
+        "word": "B站夏日祭",
+        "onboard_time": 1658230769,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141557,
+        "num": 118759,
+        "word": "警方回应一外卖骑手遭汽车多次撞击",
+        "onboard_time": 1658233351,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118285,
+        "num": 118285,
+        "word": "马天宇壁咚Angelababy",
+        "onboard_time": 1658242174,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115583,
+        "num": 115583,
+        "word": "羽生结弦转为职业花滑选手",
+        "onboard_time": 1658218654,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111972,
+        "num": 111972,
+        "word": "长沙一公司面试题问如厕习惯吃饭时长",
+        "onboard_time": 1658235992,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107000,
+        "num": 107000,
+        "word": "苏醒 好笑",
+        "onboard_time": 1658244575,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105543,
+        "num": 105543,
+        "word": "6岁男孩游泳时手被吸入排水口",
+        "onboard_time": 1658228852,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103251,
+        "num": 103251,
+        "word": "国台办回应佩洛西将窜访台湾",
+        "onboard_time": 1658260871,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 94214,
+        "num": 94214,
+        "word": "深圳南山",
+        "onboard_time": 1658233650,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 106107,
+        "num": 94189,
+        "word": "梦华录",
+        "onboard_time": 1658268013,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94549,
+        "num": 94177,
+        "word": "王不染",
+        "onboard_time": 1658244932,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93943,
+        "num": 93943,
+        "word": "大山的女儿口碑为何持续攀升",
+        "onboard_time": 1658267772,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93424,
+        "num": 93424,
+        "word": "丁程鑫的腹肌线条",
+        "onboard_time": 1658241154,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92264,
+        "num": 92264,
+        "word": "日本6比0中国香港",
+        "onboard_time": 1658238274,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89851,
+        "num": 89851,
+        "word": "千金称羽生结弦是传奇",
+        "onboard_time": 1658247745,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88947,
+        "num": 88947,
+        "word": "中方要求美国不得安排佩洛西访台",
+        "onboard_time": 1658220218,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88914,
+        "num": 88914,
+        "word": "被高情商小孩给整不会了",
+        "onboard_time": 1658246250,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88734,
+        "num": 88734,
+        "word": "电锯人",
+        "onboard_time": 1658244815,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85614,
+        "num": 85614,
+        "word": "真的建议九尾出发色推荐教程",
+        "onboard_time": 1658243197,
+        "rank": 39,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 83590,
+        "num": 83590,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79535,
+        "num": 79535,
+        "word": "泡泡玛特股价创历史新低",
+        "onboard_time": 1658243612,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75380,
+        "num": 75380,
+        "word": "晋江崩了",
+        "onboard_time": 1658245292,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 73492,
+        "num": 73492,
+        "word": "狗狗认出做绝育医生后焦躁大叫",
+        "onboard_time": 1658224592,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72880,
+        "num": 72880,
+        "word": "运气不好程少商",
+        "onboard_time": 1658263450,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72456,
+        "num": 72456,
+        "word": "普京抵达伊朗",
+        "onboard_time": 1658240194,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 59443,
+        "num": 59443,
+        "word": "快乐再出发这期金主是谢兴阳",
+        "onboard_time": 1658271978,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46509,
+        "num": 46509,
+        "word": "白石洲疫情防控",
+        "onboard_time": 1658236653,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37782,
+        "num": 37782,
+        "word": "永远能被人类幼崽逗笑",
+        "onboard_time": 1658243795,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36372,
+        "num": 36372,
+        "word": "周鸿祎称脑机接口得用人脑安全卫士查杀",
+        "onboard_time": 1658241211,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化产业高质量发展#"
+    }
+  }
+}
