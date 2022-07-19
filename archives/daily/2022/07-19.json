@@ -1,6 +1,6 @@
 {
   "startTime": 1658161172236,
-  "endTime": 1658239805678,
+  "endTime": 1658245557322,
   "band_list": [
     {
       "raw_hot": 14340066,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3229674,
+      "num": 3137667,
+      "word": "深圳南山",
+      "onboard_time": 1658233650,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 3200772,
+      "num": 3200772,
+      "word": "宁夏确诊一例腺鼠疫病例",
+      "onboard_time": 1658242895,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3195690,
       "num": 3195690,
       "word": "朱一龙工作室被列为经营异常",
@@ -73,14 +89,6 @@
       "onboard_time": 1658201669,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3137667,
-      "num": 3137667,
-      "word": "深圳南山",
-      "onboard_time": 1658233650,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 3059587,
@@ -129,6 +137,14 @@
       "onboard_time": 1658215832,
       "rank": 1,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 2418317,
+      "num": 2418317,
+      "word": "目击者回应女子被男子拖进厕所",
+      "onboard_time": 1658242535,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2291556,
@@ -187,8 +203,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1639977,
-      "num": 1639977,
+      "raw_hot": 1689233,
+      "num": 1689233,
       "word": "女子网购酒和头孢两骑手相遇报警",
       "onboard_time": 1658235449,
       "rank": 18,
@@ -257,6 +273,14 @@
       "onboard_time": 1658179870,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1516062,
+      "num": 1516062,
+      "word": "王不染",
+      "onboard_time": 1658244932,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1480465,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1311719,
+      "num": 1311719,
+      "word": "马天宇壁咚Angelababy",
+      "onboard_time": 1658242174,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1307353,
       "num": 1307353,
       "word": "女子中暑喝藿香正气水症状反加重",
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130570,
+      "num": 1130570,
+      "word": "日本6比0中国香港",
+      "onboard_time": 1658238274,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1115739,
       "num": 1115739,
       "word": "清华大学发现罕见双星系统",
@@ -441,14 +481,6 @@
       "onboard_time": 1658201431,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1035117,
-      "num": 1035117,
-      "word": "日本6比0中国香港",
-      "onboard_time": 1658238274,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 1017800,
@@ -505,6 +537,22 @@
       "onboard_time": 1658204556,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927587,
+      "num": 927587,
+      "word": "女子掀火锅叫嚣让你从汉中消失",
+      "onboard_time": 1658240791,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924742,
+      "num": 924742,
+      "word": "我和刘奕君下半年的计划是一样的",
+      "onboard_time": 1658239110,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 904456,
@@ -579,12 +627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 788348,
+      "num": 788348,
+      "word": "真的建议九尾出发色推荐教程",
+      "onboard_time": 1658243197,
+      "rank": 36,
+      "category": "游戏,美妆"
+    },
+    {
       "raw_hot": 777891,
       "num": 777891,
       "word": "富士康招3747名应届大学生",
       "onboard_time": 1658212711,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776547,
+      "num": 776547,
+      "word": "成都天空",
+      "onboard_time": 1658239655,
+      "rank": 47,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 763436,
@@ -609,6 +673,22 @@
       "onboard_time": 1658228191,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 751281,
+      "num": 685449,
+      "word": "韩国买入星汉灿烂播出版权",
+      "onboard_time": 1658238694,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 750995,
+      "num": 566273,
+      "word": "丁程鑫的腹肌线条",
+      "onboard_time": 1658241154,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 714252,
@@ -675,14 +755,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 661129,
-      "num": 661129,
-      "word": "我和刘奕君下半年的计划是一样的",
-      "onboard_time": 1658239110,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 654497,
       "num": 654497,
       "word": "甘肃新增199例本土无症状",
@@ -705,6 +777,14 @@
       "onboard_time": 1658186960,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637010,
+      "num": 624536,
+      "word": "凌不疑登门道歉",
+      "onboard_time": 1658240014,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 634880,
@@ -801,6 +881,14 @@
       "onboard_time": 1658195906,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 582239,
+      "num": 582239,
+      "word": "离职时老板给我11万",
+      "onboard_time": 1658244212,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 581942,
@@ -915,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 536210,
+      "num": 340029,
+      "word": "沉香如屑",
+      "onboard_time": 1658243134,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533702,
       "num": 533702,
       "word": "严打涉未成年人网络淫秽色情",
@@ -955,6 +1051,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 499295,
+      "num": 366786,
+      "word": "时代少年团童年小游戏",
+      "onboard_time": 1658241038,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483163,
       "num": 483163,
       "word": "人生若如初见更新6集",
@@ -979,8 +1083,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476088,
+      "num": 351168,
+      "word": "宝木",
+      "onboard_time": 1658243853,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 476048,
+      "num": 262635,
+      "word": "朴炯植台上颁奖任时完台下拍照",
+      "onboard_time": 1658242294,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473772,
-      "num": 294747,
+      "num": 301932,
       "word": "郑晓龙说曾想过拍甄嬛传续集",
       "onboard_time": 1658238934,
       "rank": 31,
@@ -1027,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450376,
+      "num": 450376,
+      "word": "普京抵达伊朗",
+      "onboard_time": 1658240194,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 445823,
       "num": 1232693,
       "word": "长大后我和初中班主任成了同桌",
@@ -1051,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432930,
-      "num": 281812,
-      "word": "韩国买入星汉灿烂播出版权",
-      "onboard_time": 1658238694,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 431726,
       "num": 431726,
       "word": "男孩打螺丝时收到复旦通知书",
@@ -1075,11 +1195,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429822,
+      "num": 429822,
+      "word": "狗狗睡觉把腿压麻给铲屎官看",
+      "onboard_time": 1658241335,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429210,
       "num": 293951,
       "word": "何昭君手刃灭门仇人",
       "onboard_time": 1658238934,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 420555,
+      "num": 300684,
+      "word": "吴磊面部肌肉控制力",
+      "onboard_time": 1658240313,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1163,6 +1299,30 @@
       "category": "科技"
     },
     {
+      "raw_hot": 400051,
+      "num": 266773,
+      "word": "苏醒 好笑",
+      "onboard_time": 1658244575,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 396666,
+      "num": 263508,
+      "word": "我有一个朋友",
+      "onboard_time": 1658244034,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 390014,
+      "num": 390014,
+      "word": "泡泡玛特股价创历史新低",
+      "onboard_time": 1658243612,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 388970,
       "num": 388970,
       "word": "普京称俄罗斯发展不会倒退几十年",
@@ -1235,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352939,
+      "num": 212074,
+      "word": "幸福到万家 闷葫芦",
+      "onboard_time": 1658240791,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352860,
       "num": 352860,
       "word": "哪些职业永远不会被AI取代",
@@ -1265,6 +1433,14 @@
       "onboard_time": 1658191232,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345110,
+      "num": 345110,
+      "word": "电锯人",
+      "onboard_time": 1658244815,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 344619,
@@ -1336,6 +1512,14 @@
       "word": "黄明昊小鸡恰恰舞",
       "onboard_time": 1658221177,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313447,
+      "num": 226322,
+      "word": "苏醒龙虾精",
+      "onboard_time": 1658243313,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1459,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288906,
+      "num": 288906,
+      "word": "成都限定版鸳鸯锅天空",
+      "onboard_time": 1658240615,
+      "rank": 33,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 288028,
       "num": 288028,
       "word": "南大已发出550余封录取通知书",
@@ -1537,6 +1729,14 @@
       "onboard_time": 1658214633,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 276948,
+      "num": 276948,
+      "word": "晋江崩了",
+      "onboard_time": 1658245292,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 276066,
@@ -1657,6 +1857,14 @@
       "onboard_time": 1658221357,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259449,
+      "num": 259449,
+      "word": "周鸿祎称脑机接口得用人脑安全卫士查杀",
+      "onboard_time": 1658241211,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 256087,
@@ -2067,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189984,
+      "num": 189984,
+      "word": "永远能被人类幼崽逗笑",
+      "onboard_time": 1658243795,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189036,
       "num": 189036,
       "word": "两男子景区悬崖边脚踢巨石",
@@ -2347,14 +2563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153331,
-      "num": 153331,
-      "word": "成都天空",
-      "onboard_time": 1658239655,
-      "rank": 47,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 153254,
       "num": 153254,
       "word": "人身安全保护令司法解释8月起施行",
@@ -2609,6 +2817,14 @@
       "onboard_time": 1658214692,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51333,
+      "num": 686301,
+      "word": "iQOO10价格",
+      "onboard_time": 1658242837,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 39673,
