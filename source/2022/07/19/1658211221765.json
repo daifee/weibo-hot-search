@@ -1,0 +1,410 @@
+{
+  "runTime": 1658211221765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110978,
+        "num": 2110978,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276191,
+        "num": 1276191,
+        "word": "Angelababy赖冠霖盛夏热恋芭莎大片",
+        "onboard_time": 1658209594,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237834,
+        "num": 1170871,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3226585,
+        "num": 1138918,
+        "word": "姜广涛",
+        "onboard_time": 1658207077,
+        "rank": 3,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 1436628,
+        "num": 1127714,
+        "word": "光合积木",
+        "onboard_time": 1658208514,
+        "rank": 4,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 1093736,
+        "num": 1093736,
+        "word": "韩民众因炸鸡太贵在网上发起抵制",
+        "onboard_time": 1658202812,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057227,
+        "num": 1057227,
+        "word": "马斯克称已将大脑上传到云端",
+        "onboard_time": 1658206475,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 878153,
+        "num": 878153,
+        "word": "开空调为什么要开窗通风",
+        "onboard_time": 1658203712,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690759,
+        "num": 690759,
+        "word": "成都招聘需求全国第一",
+        "onboard_time": 1658208095,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671960,
+        "num": 671960,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187395,
+        "num": 663084,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650238,
+        "num": 650238,
+        "word": "鹿晗申请对侵权公司限制消费",
+        "onboard_time": 1658209473,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613556,
+        "num": 613556,
+        "word": "奔跑吧急救医生官宣",
+        "onboard_time": 1658204374,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593982,
+        "num": 593982,
+        "word": "河北4少年同骑1电瓶车被撞身亡",
+        "onboard_time": 1658201431,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 533702,
+        "num": 533702,
+        "word": "严打涉未成年人网络淫秽色情",
+        "onboard_time": 1658207856,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548854,
+        "num": 532534,
+        "word": "保剑锋给吴磊的应援好有排面",
+        "onboard_time": 1658208213,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522612,
+        "num": 522612,
+        "word": "羽生结弦 不退役",
+        "onboard_time": 1658199689,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 388084,
+        "num": 388084,
+        "word": "验瓜师3秒挑一个西瓜月入3万",
+        "onboard_time": 1658204072,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346111,
+        "num": 346111,
+        "word": "研究揭示睡眠时大脑如何处理声音",
+        "onboard_time": 1658206416,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 345513,
+        "num": 345513,
+        "word": "小天才平板涉黄暴被约谈",
+        "onboard_time": 1658199928,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510823,
+        "num": 332372,
+        "word": "杨幂密逃新剧照",
+        "onboard_time": 1658208994,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439801,
+        "num": 329420,
+        "word": "白鹿新剧演姜雪宁",
+        "onboard_time": 1658205576,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313141,
+        "num": 313141,
+        "word": "日媒称羽生将转战职业花滑领域",
+        "onboard_time": 1658205159,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 312613,
+        "num": 312613,
+        "word": "女生找工作不接受单休遭HR羞辱",
+        "onboard_time": 1658195847,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295814,
+        "num": 295814,
+        "word": "浙江高考",
+        "onboard_time": 1658198006,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 280399,
+        "num": 280399,
+        "word": "怀远县连续7天喷3小时过氧乙酸",
+        "onboard_time": 1658202033,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254931,
+        "num": 254931,
+        "word": "普京称俄罗斯发展不会倒退几十年",
+        "onboard_time": 1658210614,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 253138,
+        "num": 253138,
+        "word": "大连老虎滩极地馆北极熊被曝变色",
+        "onboard_time": 1658208274,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247951,
+        "num": 247951,
+        "word": "6位医生坚持做按压救回心梗男子",
+        "onboard_time": 1658209836,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 244116,
+        "num": 244116,
+        "word": "中国人不仅给自己买房还给儿孙买房",
+        "onboard_time": 1658200110,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348623,
+        "num": 242476,
+        "word": "你好星期六全员招聘",
+        "onboard_time": 1658206778,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336197,
+        "num": 242077,
+        "word": "周杰伦回应新专辑仅6首新歌",
+        "onboard_time": 1658196987,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240835,
+        "num": 240835,
+        "word": "腾讯视频否认与快手合作",
+        "onboard_time": 1658210314,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 227841,
+        "num": 227841,
+        "word": "南京夏日祭",
+        "onboard_time": 1658193330,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226335,
+        "num": 226335,
+        "word": "天津燃气爆燃事故仍有3人失联",
+        "onboard_time": 1658210792,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101788,
+        "num": 224264,
+        "word": "李子柒",
+        "onboard_time": 1658203292,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213535,
+        "num": 213535,
+        "word": "海清老师我永远的快乐源泉",
+        "onboard_time": 1658200348,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211171,
+        "num": 211171,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180291,
+        "num": 180291,
+        "word": "男子把病房当家霸占3年被拘",
+        "onboard_time": 1658199446,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177549,
+        "num": 177549,
+        "word": "飞天小女警重启",
+        "onboard_time": 1658195906,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179145,
+        "num": 176754,
+        "word": "姜磊说杨紫曾不顾劝阻帮助老奶奶",
+        "onboard_time": 1658191110,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177606,
+        "num": 176280,
+        "word": "刘德华演唱会重映官宣",
+        "onboard_time": 1658210196,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174695,
+        "num": 174695,
+        "word": "2022河南高招多所名校断档",
+        "onboard_time": 1658207077,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152332,
+        "num": 152332,
+        "word": "狗妈妈被投喂后带一家人来蹭饭",
+        "onboard_time": 1658203292,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152127,
+        "num": 152127,
+        "word": "夏天的浙江也太好吃了吧",
+        "onboard_time": 1658205758,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148418,
+        "num": 148418,
+        "word": "村民徒手挖水道唤醒白海豚求生欲",
+        "onboard_time": 1658204917,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148231,
+        "num": 148231,
+        "word": "成都常住人口增量位列全国第二",
+        "onboard_time": 1658211034,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147213,
+        "num": 147213,
+        "word": "爱奇艺和抖音集团达成合作",
+        "onboard_time": 1658196626,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137789,
+        "num": 137789,
+        "word": "中国持仓美债12年来首次跌破万亿",
+        "onboard_time": 1658203895,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122740,
+        "num": 135692,
+        "word": "人工智能能为养老带来什么",
+        "onboard_time": 1658210013,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#东城有约非凡十年#"
+    }
+  }
+}
