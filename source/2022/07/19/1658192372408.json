@@ -1,0 +1,410 @@
+{
+  "runTime": 1658192372408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5058834,
+        "num": 5058834,
+        "word": "羽生结弦 退役",
+        "onboard_time": 1658187384,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2509253,
+        "num": 2509253,
+        "word": "下架",
+        "onboard_time": 1658188948,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647026,
+        "num": 2460403,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2441793,
+        "num": 2441793,
+        "word": "天津北辰区发生爆炸事故",
+        "onboard_time": 1658191172,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1606555,
+        "num": 1606555,
+        "word": "阴阳怪气还得看驾校教练",
+        "onboard_time": 1658153318,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1298492,
+        "num": 1298492,
+        "word": "高考生查分第2天脑出血进ICU",
+        "onboard_time": 1658151574,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1292039,
+        "num": 1292039,
+        "word": "姜磊说杨紫曾不顾劝阻帮助老奶奶",
+        "onboard_time": 1658191110,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985310,
+        "num": 985310,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 982897,
+        "num": 982897,
+        "word": "警方通报4S店内销售人员被打",
+        "onboard_time": 1658185880,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896068,
+        "num": 896068,
+        "word": "中航集团道歉",
+        "onboard_time": 1658179870,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761217,
+        "num": 761217,
+        "word": "北京将研究限制国三汽油车进五环",
+        "onboard_time": 1658187442,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719990,
+        "num": 719990,
+        "word": "张小泉总经理道歉",
+        "onboard_time": 1658156249,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710332,
+        "num": 710332,
+        "word": "张小泉将发布断刀召集令",
+        "onboard_time": 1658190089,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696574,
+        "num": 696574,
+        "word": "刘畊宏给周杰伦刷奶茶礼物",
+        "onboard_time": 1658151935,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596728,
+        "num": 596728,
+        "word": "女子给儿子熬中药炼出一炉仙丹",
+        "onboard_time": 1658154038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560517,
+        "num": 560517,
+        "word": "大山的女儿豆瓣开分9.1",
+        "onboard_time": 1658167454,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542973,
+        "num": 542973,
+        "word": "女子留宿多名网恋男友家实施盗窃",
+        "onboard_time": 1658171112,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452839,
+        "num": 452839,
+        "word": "撤档",
+        "onboard_time": 1658151152,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449682,
+        "num": 449682,
+        "word": "邵阳学院砸1800万引进23名菲律宾博士",
+        "onboard_time": 1658150850,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376583,
+        "num": 376583,
+        "word": "约旦男篮绝杀中国台北男篮",
+        "onboard_time": 1658188165,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431759,
+        "num": 374797,
+        "word": "芒果台",
+        "onboard_time": 1658160205,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370244,
+        "num": 370244,
+        "word": "欢颜里",
+        "onboard_time": 1658191172,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353827,
+        "num": 353827,
+        "word": "优酷 沉香如屑",
+        "onboard_time": 1658142028,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345469,
+        "num": 345469,
+        "word": "上海新增4例本土确诊19例本土无症状",
+        "onboard_time": 1658191232,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327955,
+        "num": 327955,
+        "word": "男孩打螺丝时收到复旦通知书",
+        "onboard_time": 1658182091,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 310552,
+        "num": 310552,
+        "word": "女子违停后被交警老公贴罚单",
+        "onboard_time": 1658176091,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307756,
+        "num": 307756,
+        "word": "国际化学奥林匹克中国队全取金牌",
+        "onboard_time": 1658191352,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 302558,
+        "num": 302558,
+        "word": "河南新增本土无症状45例",
+        "onboard_time": 1658192011,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280502,
+        "num": 280502,
+        "word": "心疼李现",
+        "onboard_time": 1658152057,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271678,
+        "num": 271678,
+        "word": "长大后我和初中班主任成了同桌",
+        "onboard_time": 1658153678,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275399,
+        "num": 270327,
+        "word": "周游记2有张艺兴",
+        "onboard_time": 1658150670,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267382,
+        "num": 267382,
+        "word": "每一步都忍不住洗手",
+        "onboard_time": 1658153138,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266032,
+        "num": 266032,
+        "word": "北京7月18日新增1例本土无症状",
+        "onboard_time": 1658189730,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262711,
+        "num": 262711,
+        "word": "水尾村孩子群体性血铅中毒",
+        "onboard_time": 1658147128,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249347,
+        "num": 249347,
+        "word": "安徽增本土确诊6例",
+        "onboard_time": 1658191110,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243877,
+        "num": 243877,
+        "word": "王麻子 拍了一天的蒜",
+        "onboard_time": 1658142205,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237883,
+        "num": 237883,
+        "word": "不会用电脑的18岁少年高考632分",
+        "onboard_time": 1658151453,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226360,
+        "num": 226360,
+        "word": "原神 散兵",
+        "onboard_time": 1658156311,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217969,
+        "num": 217969,
+        "word": "新欢可以代替旧爱吗",
+        "onboard_time": 1658177350,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199375,
+        "num": 199375,
+        "word": "教育局回应学校按分数排队办入学",
+        "onboard_time": 1658174170,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196324,
+        "num": 196324,
+        "word": "男子被蚊子叮咬患脓毒症进ICU",
+        "onboard_time": 1658174470,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187978,
+        "num": 187978,
+        "word": "湖南卫视 山海情",
+        "onboard_time": 1658150072,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159098,
+        "num": 159098,
+        "word": "海贼王将进入最终章",
+        "onboard_time": 1658148390,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154490,
+        "num": 154490,
+        "word": "男朋友典当行改名被遗忘的时光",
+        "onboard_time": 1658168293,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153254,
+        "num": 153254,
+        "word": "人身安全保护令司法解释8月起施行",
+        "onboard_time": 1658191950,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151954,
+        "num": 151954,
+        "word": "英国首相坐战斗机自拍",
+        "onboard_time": 1658159069,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148714,
+        "num": 148714,
+        "word": "才知道快速冰镇饮料的方法",
+        "onboard_time": 1658153381,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142286,
+        "num": 142286,
+        "word": "张小泉竞争对手直播菜刀拍蒜",
+        "onboard_time": 1658151032,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141104,
+        "num": 141104,
+        "word": "张小泉为什么不能拍蒜",
+        "onboard_time": 1658149711,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136510,
+        "num": 136510,
+        "word": "苹果放缓部分招聘",
+        "onboard_time": 1658192369,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
