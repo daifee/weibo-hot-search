@@ -1,0 +1,410 @@
+{
+  "runTime": 1658223683530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9151446,
+        "num": 9151446,
+        "word": "羽生结弦正式宣布退役",
+        "onboard_time": 1658218592,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2558508,
+        "num": 2558508,
+        "word": "羽生结弦转为职业花滑选手",
+        "onboard_time": 1658218654,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60559,
+        "num": 1378900,
+        "word": "延时摄影看问天实验舱转运过程",
+        "onboard_time": 1658214692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259315,
+        "num": 1259315,
+        "word": "女子科目三考试把安全员开吐了",
+        "onboard_time": 1658215471,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994750,
+        "num": 994750,
+        "word": "光合积木回应姜广涛被警察带走",
+        "onboard_time": 1658218534,
+        "rank": 4,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 878773,
+        "num": 878773,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877973,
+        "num": 877973,
+        "word": "李秀满陪刘雨昕线上录音八小时",
+        "onboard_time": 1658217390,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 746115,
+        "num": 746115,
+        "word": "女子中暑喝藿香正气水症状反加重",
+        "onboard_time": 1658216490,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745648,
+        "num": 745648,
+        "word": "清华大学发现罕见双星系统",
+        "onboard_time": 1658218052,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 653617,
+        "num": 653617,
+        "word": "中方要求美国不得安排佩洛西访台",
+        "onboard_time": 1658220218,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1025189,
+        "num": 653300,
+        "word": "字节跳动确认自研芯片",
+        "onboard_time": 1658222315,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 871861,
+        "num": 652763,
+        "word": "海南50名公考考生拟被取消成绩",
+        "onboard_time": 1658221296,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 650643,
+        "num": 650643,
+        "word": "下午4点更易发生脑溢血",
+        "onboard_time": 1658217509,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586332,
+        "num": 586332,
+        "word": "isu",
+        "onboard_time": 1658221221,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39673,
+        "num": 571096,
+        "word": "小伙来丹阳配眼镜意外救起落水者",
+        "onboard_time": 1658223040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569615,
+        "num": 569615,
+        "word": "羽生结弦奥运冰上最后一吻",
+        "onboard_time": 1658220938,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527111,
+        "num": 527111,
+        "word": "女子等电梯时遭人恶意撞击险致盲",
+        "onboard_time": 1658222136,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 473730,
+        "num": 473730,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423393,
+        "num": 423393,
+        "word": "王楚钦2比3卡尔森",
+        "onboard_time": 1658223392,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394508,
+        "num": 394508,
+        "word": "白鹿新剧八抬大轿路透",
+        "onboard_time": 1658220575,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386567,
+        "num": 386567,
+        "word": "老人房子蟑螂成灾邻居离家租房",
+        "onboard_time": 1658222916,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370816,
+        "num": 370816,
+        "word": "幸得识卿桃花面 从此阡陌多暖春",
+        "onboard_time": 1658222555,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353920,
+        "num": 353920,
+        "word": "tangoz宇宙",
+        "onboard_time": 1658217149,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 341794,
+        "num": 341794,
+        "word": "二次元没惹任何人",
+        "onboard_time": 1658216730,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339252,
+        "num": 339252,
+        "word": "成都女子坚持48年只做手工漆器",
+        "onboard_time": 1658221897,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323564,
+        "num": 323564,
+        "word": "七月份新疆水果摊是这样的",
+        "onboard_time": 1658211991,
+        "rank": 25,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 308938,
+        "num": 308938,
+        "word": "姜广涛因商业经济纠纷配合调查",
+        "onboard_time": 1658215832,
+        "rank": 26,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 301895,
+        "num": 301895,
+        "word": "羽生结弦 一个时代的落幕",
+        "onboard_time": 1658220278,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268039,
+        "num": 268039,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266884,
+        "num": 266884,
+        "word": "羽生结弦将继续挑战4A",
+        "onboard_time": 1658222074,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254296,
+        "num": 254296,
+        "word": "富士康招3747名应届大学生",
+        "onboard_time": 1658212711,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241806,
+        "num": 241806,
+        "word": "期待未来的羽生结弦",
+        "onboard_time": 1658223096,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230087,
+        "num": 230087,
+        "word": "感谢现役",
+        "onboard_time": 1658218234,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228037,
+        "num": 228037,
+        "word": "哪些职业永远不会被AI取代",
+        "onboard_time": 1658217330,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 224729,
+        "num": 224729,
+        "word": "黄明昊小鸡恰恰舞",
+        "onboard_time": 1658221177,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217213,
+        "num": 217213,
+        "word": "开空调为什么要开窗通风",
+        "onboard_time": 1658203712,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202015,
+        "num": 202015,
+        "word": "一生应援羽生结弦",
+        "onboard_time": 1658222677,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201997,
+        "num": 201997,
+        "word": "被贵州1米3乡村少年球技震惊",
+        "onboard_time": 1658222498,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 197165,
+        "num": 197165,
+        "word": "陕西14所高校144个学科上榜世界一流学科",
+        "onboard_time": 1658220518,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 197072,
+        "num": 197072,
+        "word": "羽生结弦的经典造型",
+        "onboard_time": 1658223452,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194844,
+        "num": 194844,
+        "word": "羽生结弦 帅",
+        "onboard_time": 1658223452,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191108,
+        "num": 191108,
+        "word": "期待职业羽生结弦",
+        "onboard_time": 1658223452,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190125,
+        "num": 190125,
+        "word": "郑州房管局回应",
+        "onboard_time": 1658217690,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189390,
+        "num": 189390,
+        "word": "光合积木",
+        "onboard_time": 1658208514,
+        "rank": 43,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 187402,
+        "num": 187402,
+        "word": "老太请外甥女养老被转走近百万积蓄",
+        "onboard_time": 1658216130,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182095,
+        "num": 182095,
+        "word": "羽生座长",
+        "onboard_time": 1658223514,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176900,
+        "num": 176900,
+        "word": "魏晨看爸爸当家像在看恋综",
+        "onboard_time": 1658217633,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175118,
+        "num": 175118,
+        "word": "韩国自研五代机完成首飞",
+        "onboard_time": 1658223155,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 161567,
+        "num": 161567,
+        "word": "成都招聘需求全国第一",
+        "onboard_time": 1658208095,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160113,
+        "num": 160113,
+        "word": "中国内地高校14个学科位列世界第一",
+        "onboard_time": 1658217330,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
