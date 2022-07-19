@@ -1,0 +1,410 @@
+{
+  "runTime": 1658263292637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 148112,
+        "num": 148112,
+        "word": "玉骨遥",
+        "onboard_time": 1658250558,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79754,
+        "num": 79754,
+        "word": "电锯人",
+        "onboard_time": 1658244815,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11151,
+        "num": 75715,
+        "word": "集中查处散布虚假信息等问题",
+        "onboard_time": 1658237792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74181,
+        "num": 74181,
+        "word": "太快确定关系的感情不长久吗",
+        "onboard_time": 1658247149,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64345,
+        "num": 64345,
+        "word": "女子网购酒和头孢两骑手相遇报警",
+        "onboard_time": 1658235449,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54895,
+        "num": 54895,
+        "word": "你会不会因为鱼刺而不吃鱼",
+        "onboard_time": 1658251818,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51237,
+        "num": 51237,
+        "word": "晋江崩了",
+        "onboard_time": 1658245292,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 50062,
+        "num": 50062,
+        "word": "张大大说内娱不能没有舞台",
+        "onboard_time": 1658250740,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47659,
+        "num": 47659,
+        "word": "宁夏确诊一例腺鼠疫病例",
+        "onboard_time": 1658242895,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46884,
+        "num": 46884,
+        "word": "离职时老板给我11万",
+        "onboard_time": 1658244212,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48786,
+        "num": 45782,
+        "word": "国家植物园巨魔芋开花了",
+        "onboard_time": 1658251157,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41561,
+        "num": 41561,
+        "word": "刘德华彭于晏祝贺刘雅瑟夺金像影后",
+        "onboard_time": 1658255293,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39753,
+        "num": 39753,
+        "word": "大热天戴帽子的都是时髦精",
+        "onboard_time": 1658245592,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39502,
+        "num": 39502,
+        "word": "令人心动的offer4建筑师季招募启动",
+        "onboard_time": 1658246429,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37477,
+        "num": 37477,
+        "word": "女子掀火锅叫嚣让你从汉中消失",
+        "onboard_time": 1658240791,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34927,
+        "num": 34927,
+        "word": "国台办回应佩洛西将窜访台湾",
+        "onboard_time": 1658260871,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 31896,
+        "num": 31896,
+        "word": "沉香如屑",
+        "onboard_time": 1658243134,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28008,
+        "num": 28008,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27702,
+        "num": 27702,
+        "word": "女子等电梯时遭人恶意撞击险致盲",
+        "onboard_time": 1658222136,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 26214,
+        "num": 26214,
+        "word": "狗狗认出做绝育医生后焦躁大叫",
+        "onboard_time": 1658224592,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40854,
+        "num": 26123,
+        "word": "婴儿被扔垃圾桶啼哭不止",
+        "onboard_time": 1658262251,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38377,
+        "num": 25792,
+        "word": "B站夏日祭",
+        "onboard_time": 1658230769,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 31420,
+        "num": 25139,
+        "word": "警方回应一外卖骑手遭汽车多次撞击",
+        "onboard_time": 1658233351,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28641,
+        "num": 25039,
+        "word": "深圳南山",
+        "onboard_time": 1658233650,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 24704,
+        "num": 24704,
+        "word": "泡泡玛特股价创历史新低",
+        "onboard_time": 1658243612,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25157,
+        "num": 24372,
+        "word": "tangoz模仿权志龙捂嘴笑",
+        "onboard_time": 1658245772,
+        "rank": 25,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 23645,
+        "num": 23645,
+        "word": "郭涛两部剧老婆梅婷曾黎是同学",
+        "onboard_time": 1658247447,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23013,
+        "num": 23013,
+        "word": "羽生结弦转为职业花滑选手",
+        "onboard_time": 1658218654,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21611,
+        "num": 21611,
+        "word": "男子健身时心脏骤停重摔倒地",
+        "onboard_time": 1658234726,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21044,
+        "num": 21044,
+        "word": "苏醒 好笑",
+        "onboard_time": 1658244575,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20525,
+        "num": 20525,
+        "word": "真的建议九尾出发色推荐教程",
+        "onboard_time": 1658243197,
+        "rank": 30,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 20346,
+        "num": 20346,
+        "word": "中方要求美国不得安排佩洛西访台",
+        "onboard_time": 1658220218,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20273,
+        "num": 20273,
+        "word": "姜虎东获青龙电视剧大赏男综艺人奖",
+        "onboard_time": 1658250558,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19853,
+        "num": 19853,
+        "word": "日本6比0中国香港",
+        "onboard_time": 1658238274,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19724,
+        "num": 19724,
+        "word": "普京抵达伊朗",
+        "onboard_time": 1658240194,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 18751,
+        "num": 18751,
+        "word": "白石洲疫情防控",
+        "onboard_time": 1658236653,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18665,
+        "num": 18665,
+        "word": "凌不疑登门道歉",
+        "onboard_time": 1658240014,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18250,
+        "num": 18250,
+        "word": "马天宇壁咚Angelababy",
+        "onboard_time": 1658242174,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18150,
+        "num": 18150,
+        "word": "被高情商小孩给整不会了",
+        "onboard_time": 1658246250,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16169,
+        "num": 16169,
+        "word": "长沙一公司面试题问如厕习惯吃饭时长",
+        "onboard_time": 1658235992,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15468,
+        "num": 15468,
+        "word": "那传美要出事咋办",
+        "onboard_time": 1658251937,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15419,
+        "num": 15419,
+        "word": "王不染",
+        "onboard_time": 1658244932,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15364,
+        "num": 15364,
+        "word": "成都天空",
+        "onboard_time": 1658239655,
+        "rank": 42,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 15340,
+        "num": 15340,
+        "word": "丁程鑫的腹肌线条",
+        "onboard_time": 1658241154,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15314,
+        "num": 15314,
+        "word": "永远能被人类幼崽逗笑",
+        "onboard_time": 1658243795,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15172,
+        "num": 15172,
+        "word": "曹德旺称趁早卖房才明智",
+        "onboard_time": 1658223692,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 14657,
+        "num": 14657,
+        "word": "6岁男孩游泳时手被吸入排水口",
+        "onboard_time": 1658228852,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14399,
+        "num": 14399,
+        "word": "周鸿祎称脑机接口得用人脑安全卫士查杀",
+        "onboard_time": 1658241211,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 13123,
+        "num": 13123,
+        "word": "羽生结弦与中国式浪漫",
+        "onboard_time": 1658234909,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 11615,
+        "num": 11615,
+        "word": "广外",
+        "onboard_time": 1658226037,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
