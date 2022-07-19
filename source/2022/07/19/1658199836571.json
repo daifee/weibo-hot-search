@@ -1,0 +1,410 @@
+{
+  "runTime": 1658199836571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3336230,
+        "num": 3336230,
+        "word": "羽生结弦 退役",
+        "onboard_time": 1658187384,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1599949,
+        "num": 1599949,
+        "word": "校方回应花1800万引进23名菲律宾博士",
+        "onboard_time": 1658193268,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 566269,
+        "num": 1481869,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3059587,
+        "num": 1471709,
+        "word": "女生找工作不接受单休遭HR羞辱",
+        "onboard_time": 1658195847,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456391,
+        "num": 1456391,
+        "word": "周杰伦回应新专辑仅6首新歌",
+        "onboard_time": 1658196987,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1156572,
+        "num": 1156572,
+        "word": "姜磊说杨紫曾不顾劝阻帮助老奶奶",
+        "onboard_time": 1658191110,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099801,
+        "num": 1099801,
+        "word": "西安九价",
+        "onboard_time": 1658197108,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861044,
+        "num": 861044,
+        "word": "天津北辰区发生爆炸事故",
+        "onboard_time": 1658191172,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 752061,
+        "num": 752061,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726376,
+        "num": 726376,
+        "word": "阴阳怪气还得看驾校教练",
+        "onboard_time": 1658153318,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1927275,
+        "num": 724550,
+        "word": "爱奇艺和抖音集团达成合作",
+        "onboard_time": 1658196626,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 721305,
+        "num": 721305,
+        "word": "俩黑客出狱后5天非法获利200万",
+        "onboard_time": 1658196447,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654497,
+        "num": 654497,
+        "word": "甘肃新增199例本土无症状",
+        "onboard_time": 1658195187,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583531,
+        "num": 583531,
+        "word": "飞天小女警重启",
+        "onboard_time": 1658195906,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 580537,
+        "num": 580537,
+        "word": "2028奥运会开闭幕日期公布",
+        "onboard_time": 1658198789,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575915,
+        "num": 575915,
+        "word": "西班牙高温热浪已致510人死亡",
+        "onboard_time": 1658194225,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 562775,
+        "num": 562775,
+        "word": "彩虹糖",
+        "onboard_time": 1658195007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558224,
+        "num": 558224,
+        "word": "浙江高考",
+        "onboard_time": 1658198006,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 512785,
+        "num": 512785,
+        "word": "玛氏彩虹糖被指控可致DNA改变",
+        "onboard_time": 1658193090,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501557,
+        "num": 501557,
+        "word": "四川新增本土确诊12例",
+        "onboard_time": 1658197529,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488062,
+        "num": 488062,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477373,
+        "num": 477373,
+        "word": "独行月球官宣定档729",
+        "onboard_time": 1658197165,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426841,
+        "num": 426841,
+        "word": "下架",
+        "onboard_time": 1658188948,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418256,
+        "num": 418256,
+        "word": "大山的女儿豆瓣开分9.1",
+        "onboard_time": 1658167454,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344619,
+        "num": 344619,
+        "word": "四川一餐馆2楼起火10多人跳窗逃生",
+        "onboard_time": 1658196143,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340423,
+        "num": 340423,
+        "word": "张小泉将发布断刀召集令",
+        "onboard_time": 1658190089,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325009,
+        "num": 325009,
+        "word": "南京夏日祭",
+        "onboard_time": 1658193330,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298433,
+        "num": 298433,
+        "word": "高考生查分第2天脑出血进ICU",
+        "onboard_time": 1658151574,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 296806,
+        "num": 296806,
+        "word": "芒果台",
+        "onboard_time": 1658160205,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271712,
+        "num": 271712,
+        "word": "天津一居民家燃气爆燃楼体受损",
+        "onboard_time": 1658194587,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 270618,
+        "num": 270618,
+        "word": "章公祖师肉身坐佛像追索案二审判令返还",
+        "onboard_time": 1658197828,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243188,
+        "num": 243188,
+        "word": "南大已发出550余封录取通知书",
+        "onboard_time": 1658197468,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 240741,
+        "num": 240741,
+        "word": "沉香如屑快点播吧",
+        "onboard_time": 1658195307,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235352,
+        "num": 235352,
+        "word": "少年派2",
+        "onboard_time": 1658198607,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213288,
+        "num": 213288,
+        "word": "女子给儿子熬中药炼出一炉仙丹",
+        "onboard_time": 1658154038,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 197742,
+        "word": "张小泉销售费用是研发投入5倍",
+        "onboard_time": 1658193928,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179176,
+        "num": 179176,
+        "word": "女子留宿多名网恋男友家实施盗窃",
+        "onboard_time": 1658171112,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176320,
+        "num": 176320,
+        "word": "中航集团道歉",
+        "onboard_time": 1658179870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175635,
+        "num": 175635,
+        "word": "男子把病房当家霸占3年被拘",
+        "onboard_time": 1658199446,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173807,
+        "num": 173807,
+        "word": "天津小区爆炸事故致8人受伤",
+        "onboard_time": 1658194828,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173145,
+        "num": 173145,
+        "word": "夏天一定要记得开窗透气",
+        "onboard_time": 1658192672,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164611,
+        "num": 164611,
+        "word": "羽生结弦 不退役",
+        "onboard_time": 1658199689,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 161420,
+        "num": 161420,
+        "word": "大山的女儿 值得",
+        "onboard_time": 1658196447,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149557,
+        "num": 149557,
+        "word": "7月18日新增本土无症状500例",
+        "onboard_time": 1658197289,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147357,
+        "num": 147357,
+        "word": "张小泉总经理道歉",
+        "onboard_time": 1658156249,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129306,
+        "num": 129306,
+        "word": "警方通报4S店内销售人员被打",
+        "onboard_time": 1658185880,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129255,
+        "num": 129255,
+        "word": "广西增本土确诊134例",
+        "onboard_time": 1658192728,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123574,
+        "num": 123574,
+        "word": "心疼李现",
+        "onboard_time": 1658152057,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122850,
+        "num": 122850,
+        "word": "谢震业世锦赛进半决赛",
+        "onboard_time": 1658192847,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118841,
+        "num": 118841,
+        "word": "河南新增本土无症状45例",
+        "onboard_time": 1658192011,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
