@@ -1,0 +1,410 @@
+{
+  "runTime": 1658225451396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7719012,
+        "num": 7719012,
+        "word": "羽生结弦正式宣布退役",
+        "onboard_time": 1658218592,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1981844,
+        "num": 1981844,
+        "word": "羽生结弦转为职业花滑选手",
+        "onboard_time": 1658218654,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53998,
+        "num": 1410492,
+        "word": "延时摄影看问天实验舱转运过程",
+        "onboard_time": 1658214692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326434,
+        "num": 1326434,
+        "word": "嫋嫋有点礼貌但不多",
+        "onboard_time": 1658223875,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1207862,
+        "num": 1207862,
+        "word": "曹德旺称趁早卖房才明智",
+        "onboard_time": 1658223692,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1026828,
+        "num": 1026828,
+        "word": "女子科目三考试把安全员开吐了",
+        "onboard_time": 1658215471,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901445,
+        "num": 901445,
+        "word": "海南50名公考考生拟被取消成绩",
+        "onboard_time": 1658221296,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 721494,
+        "num": 721494,
+        "word": "光合积木回应姜广涛被警察带走",
+        "onboard_time": 1658218534,
+        "rank": 7,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 677001,
+        "num": 677001,
+        "word": "王楚钦2比3卡尔森",
+        "onboard_time": 1658223392,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656340,
+        "num": 656340,
+        "word": "李秀满陪刘雨昕线上录音八小时",
+        "onboard_time": 1658217390,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1580421,
+        "num": 655101,
+        "word": "字节跳动确认自研芯片",
+        "onboard_time": 1658222315,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 904456,
+        "num": 645273,
+        "word": "老人房子蟑螂成灾邻居离家租房",
+        "onboard_time": 1658222916,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616584,
+        "num": 616584,
+        "word": "26岁女子长期熬夜导致脑出血",
+        "onboard_time": 1658212173,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578594,
+        "num": 578594,
+        "word": "女子等电梯时遭人恶意撞击险致盲",
+        "onboard_time": 1658222136,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 543827,
+        "num": 543827,
+        "word": "狗狗认出做绝育医生后焦躁大叫",
+        "onboard_time": 1658224592,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496680,
+        "num": 496680,
+        "word": "中方要求美国不得安排佩洛西访台",
+        "onboard_time": 1658220218,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 438726,
+        "num": 438726,
+        "word": "羽生座长",
+        "onboard_time": 1658223514,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422130,
+        "num": 422130,
+        "word": "羽生结弦奥运冰上最后一吻",
+        "onboard_time": 1658220938,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416307,
+        "num": 416307,
+        "word": "下午4点更易发生脑溢血",
+        "onboard_time": 1658217509,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400985,
+        "num": 400985,
+        "word": "清华大学发现罕见双星系统",
+        "onboard_time": 1658218052,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 394370,
+        "num": 394370,
+        "word": "女子中暑喝藿香正气水症状反加重",
+        "onboard_time": 1658216490,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389100,
+        "num": 389100,
+        "word": "isu",
+        "onboard_time": 1658221221,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378252,
+        "num": 378252,
+        "word": "买猫爬架记得看尺寸",
+        "onboard_time": 1658224053,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333064,
+        "num": 333064,
+        "word": "幸得识卿桃花面 从此阡陌多暖春",
+        "onboard_time": 1658222555,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306883,
+        "num": 306883,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286892,
+        "num": 286892,
+        "word": "stayc回归",
+        "onboard_time": 1658225012,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269237,
+        "num": 269237,
+        "word": "白鹿新剧八抬大轿路透",
+        "onboard_time": 1658220575,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264215,
+        "num": 264215,
+        "word": "ZICO新歌",
+        "onboard_time": 1658223692,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258583,
+        "num": 258583,
+        "word": "二次元没惹任何人",
+        "onboard_time": 1658216730,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256074,
+        "num": 256074,
+        "word": "七月份新疆水果摊是这样的",
+        "onboard_time": 1658211991,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 249844,
+        "num": 249844,
+        "word": "tangoz宇宙",
+        "onboard_time": 1658217149,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 227203,
+        "num": 227203,
+        "word": "姜广涛因商业经济纠纷配合调查",
+        "onboard_time": 1658215832,
+        "rank": 31,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 220089,
+        "num": 220089,
+        "word": "檀健次谈勇气对职业生涯的意义",
+        "onboard_time": 1658224473,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218360,
+        "num": 218360,
+        "word": "成都女子坚持48年只做手工漆器",
+        "onboard_time": 1658221897,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204320,
+        "num": 204320,
+        "word": "2022LPL",
+        "onboard_time": 1658224713,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200486,
+        "num": 200486,
+        "word": "羽生结弦时代",
+        "onboard_time": 1658224412,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197588,
+        "num": 197588,
+        "word": "韩国自研五代机完成首飞",
+        "onboard_time": 1658223155,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 192696,
+        "num": 192696,
+        "word": "羽生结弦的经典造型",
+        "onboard_time": 1658223452,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191419,
+        "num": 191419,
+        "word": "王楚钦无缘男单16强",
+        "onboard_time": 1658224894,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181988,
+        "num": 181988,
+        "word": "黄明昊小鸡恰恰舞",
+        "onboard_time": 1658221177,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180958,
+        "num": 180958,
+        "word": "光合积木",
+        "onboard_time": 1658208514,
+        "rank": 40,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 178417,
+        "num": 178417,
+        "word": "富士康招3747名应届大学生",
+        "onboard_time": 1658212711,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168878,
+        "num": 168878,
+        "word": "羽生的最后一场竞技赛留在了北京",
+        "onboard_time": 1658224950,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 167763,
+        "num": 167763,
+        "word": "哪些职业永远不会被AI取代",
+        "onboard_time": 1658217330,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167167,
+        "num": 167167,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160808,
+        "num": 160808,
+        "word": "彩虹连起了两朵云",
+        "onboard_time": 1658224236,
+        "rank": 45,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 158622,
+        "num": 158622,
+        "word": "游戏主播雇8人殴打自己被拘10日",
+        "onboard_time": 1658225194,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150037,
+        "num": 150037,
+        "word": "羽生结弦 一个时代的落幕",
+        "onboard_time": 1658220278,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142689,
+        "num": 142689,
+        "word": "老太请外甥女养老被转走近百万积蓄",
+        "onboard_time": 1658216130,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140510,
+        "num": 140510,
+        "word": "夏天室内运动应不应该开空调",
+        "onboard_time": 1658225311,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化产业高质量发展#"
+    }
+  }
+}
