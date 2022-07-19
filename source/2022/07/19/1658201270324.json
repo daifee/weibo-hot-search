@@ -1,0 +1,410 @@
+{
+  "runTime": 1658201270324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3457733,
+        "num": 3457733,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2298187,
+        "num": 2298187,
+        "word": "羽生结弦 退役",
+        "onboard_time": 1658187384,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566521,
+        "num": 2292791,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2291556,
+        "num": 2291556,
+        "word": "羽生结弦 不退役",
+        "onboard_time": 1658199689,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1875429,
+        "num": 1875429,
+        "word": "女生找工作不接受单休遭HR羞辱",
+        "onboard_time": 1658195847,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375717,
+        "num": 1375717,
+        "word": "周杰伦回应新专辑仅6首新歌",
+        "onboard_time": 1658196987,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1358498,
+        "num": 1358498,
+        "word": "小天才平板涉黄暴被约谈",
+        "onboard_time": 1658199928,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064651,
+        "num": 1064651,
+        "word": "校方回应花1800万引进23名菲律宾博士",
+        "onboard_time": 1658193268,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1017800,
+        "num": 1017800,
+        "word": "2028奥运会开闭幕日期公布",
+        "onboard_time": 1658198789,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 952524,
+        "num": 952524,
+        "word": "姜磊说杨紫曾不顾劝阻帮助老奶奶",
+        "onboard_time": 1658191110,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1629625,
+        "num": 952524,
+        "word": "爱奇艺和抖音集团达成合作",
+        "onboard_time": 1658196626,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 952459,
+        "num": 952459,
+        "word": "西安九价",
+        "onboard_time": 1658197108,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828449,
+        "num": 828449,
+        "word": "俩黑客出狱后5天非法获利200万",
+        "onboard_time": 1658196447,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630686,
+        "num": 630686,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544395,
+        "num": 544395,
+        "word": "浙江高考",
+        "onboard_time": 1658198006,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 528174,
+        "num": 528174,
+        "word": "飞天小女警重启",
+        "onboard_time": 1658195906,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 523606,
+        "num": 523606,
+        "word": "四川新增本土确诊12例",
+        "onboard_time": 1658197529,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449313,
+        "num": 449313,
+        "word": "西班牙高温热浪已致510人死亡",
+        "onboard_time": 1658194225,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 445331,
+        "num": 445331,
+        "word": "天津北辰区发生爆炸事故",
+        "onboard_time": 1658191172,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 431444,
+        "num": 431444,
+        "word": "男子把病房当家霸占3年被拘",
+        "onboard_time": 1658199446,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416776,
+        "num": 416776,
+        "word": "独行月球官宣定档729",
+        "onboard_time": 1658197165,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414015,
+        "num": 414015,
+        "word": "甘肃新增199例本土无症状",
+        "onboard_time": 1658195187,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399751,
+        "num": 399751,
+        "word": "中国人不仅给自己买房还给儿孙买房",
+        "onboard_time": 1658200110,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393727,
+        "num": 393727,
+        "word": "彩虹糖",
+        "onboard_time": 1658195007,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389668,
+        "num": 389668,
+        "word": "阴阳怪气还得看驾校教练",
+        "onboard_time": 1658153318,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358066,
+        "num": 358066,
+        "word": "玛氏彩虹糖被指控可致DNA改变",
+        "onboard_time": 1658193090,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347494,
+        "num": 347494,
+        "word": "大山的女儿豆瓣开分9.1",
+        "onboard_time": 1658167454,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346220,
+        "num": 346220,
+        "word": "南京夏日祭",
+        "onboard_time": 1658193330,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331136,
+        "num": 331136,
+        "word": "芒果台",
+        "onboard_time": 1658160205,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311377,
+        "num": 311377,
+        "word": "少年派2",
+        "onboard_time": 1658198607,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297753,
+        "num": 297753,
+        "word": "下架",
+        "onboard_time": 1658188948,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294846,
+        "num": 294846,
+        "word": "了不起的夜晚入股不亏",
+        "onboard_time": 1658200469,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289934,
+        "num": 289934,
+        "word": "海清老师我永远的快乐源泉",
+        "onboard_time": 1658200348,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288028,
+        "num": 288028,
+        "word": "南大已发出550余封录取通知书",
+        "onboard_time": 1658197468,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 282406,
+        "num": 282406,
+        "word": "张小泉将发布断刀召集令",
+        "onboard_time": 1658190089,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282389,
+        "num": 282389,
+        "word": "四川一餐馆2楼起火10多人跳窗逃生",
+        "onboard_time": 1658196143,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212461,
+        "num": 212461,
+        "word": "沉香如屑快点播吧",
+        "onboard_time": 1658195307,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199642,
+        "num": 199642,
+        "word": "章公祖师肉身坐佛像追索案二审判令返还",
+        "onboard_time": 1658197828,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183248,
+        "num": 183248,
+        "word": "高考生查分第2天脑出血进ICU",
+        "onboard_time": 1658151574,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180111,
+        "num": 180111,
+        "word": "世界第四个货运机场为什么选在湖北鄂州",
+        "onboard_time": 1658200768,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "诛仙动画全员集结",
+        "onboard_time": 1658201129,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164500,
+        "num": 164500,
+        "word": "天津一居民家燃气爆燃楼体受损",
+        "onboard_time": 1658194587,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156446,
+        "num": 156446,
+        "word": "女子给儿子熬中药炼出一炉仙丹",
+        "onboard_time": 1658154038,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150365,
+        "num": 150365,
+        "word": "夏天一定要记得开窗透气",
+        "onboard_time": 1658192672,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148214,
+        "num": 148214,
+        "word": "大山的女儿 值得",
+        "onboard_time": 1658196447,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146479,
+        "num": 146479,
+        "word": "天津小区爆炸事故致8人受伤",
+        "onboard_time": 1658194828,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142668,
+        "num": 142668,
+        "word": "张小泉销售费用是研发投入5倍",
+        "onboard_time": 1658193928,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135499,
+        "num": 135499,
+        "word": "张小泉总经理道歉",
+        "onboard_time": 1658156249,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133882,
+        "num": 133882,
+        "word": "女子留宿多名网恋男友家实施盗窃",
+        "onboard_time": 1658171112,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113356,
+        "num": 113356,
+        "word": "中航集团道歉",
+        "onboard_time": 1658179870,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
