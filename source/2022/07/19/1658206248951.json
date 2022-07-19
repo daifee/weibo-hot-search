@@ -1,0 +1,410 @@
+{
+  "runTime": 1658206248951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3180763,
+        "num": 3180763,
+        "word": "爷爷微信打字要钱孙子果断报警",
+        "onboard_time": 1658201669,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4953019,
+        "num": 2821778,
+        "word": "李子柒",
+        "onboard_time": 1658203292,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 342581,
+        "num": 2490622,
+        "word": "2022第200天",
+        "onboard_time": 1658186960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2274420,
+        "num": 2274420,
+        "word": "妻子以丧偶式婚姻为由提离婚",
+        "onboard_time": 1658203834,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2091784,
+        "num": 2091784,
+        "word": "韩民众因炸鸡太贵在网上发起抵制",
+        "onboard_time": 1658202812,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412755,
+        "num": 1412755,
+        "word": "奔跑吧急救医生官宣",
+        "onboard_time": 1658204374,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1370434,
+        "num": 1370434,
+        "word": "95后女生因催婚焦虑过度碱中毒",
+        "onboard_time": 1658199265,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153440,
+        "num": 1153440,
+        "word": "羽生结弦 不退役",
+        "onboard_time": 1658199689,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1020492,
+        "num": 1020492,
+        "word": "河北4少年同骑1电瓶车被撞身亡",
+        "onboard_time": 1658201431,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 929212,
+        "num": 929212,
+        "word": "北大的公交站太好笑了",
+        "onboard_time": 1658204556,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936050,
+        "num": 916140,
+        "word": "周杰伦回应新专辑仅6首新歌",
+        "onboard_time": 1658196987,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 893854,
+        "num": 893854,
+        "word": "白鹿新剧演姜雪宁",
+        "onboard_time": 1658205576,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 880372,
+        "num": 880372,
+        "word": "小天才平板涉黄暴被约谈",
+        "onboard_time": 1658199928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861149,
+        "num": 861149,
+        "word": "开空调为什么要开窗通风",
+        "onboard_time": 1658203712,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792057,
+        "num": 792057,
+        "word": "女生找工作不接受单休遭HR羞辱",
+        "onboard_time": 1658195847,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608763,
+        "num": 608763,
+        "word": "中国人不仅给自己买房还给儿孙买房",
+        "onboard_time": 1658200110,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581942,
+        "num": 581942,
+        "word": "验瓜师3秒挑一个西瓜月入3万",
+        "onboard_time": 1658204072,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560598,
+        "num": 560598,
+        "word": "宁安如梦主演官宣",
+        "onboard_time": 1658201909,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471912,
+        "num": 471912,
+        "word": "浙江高考",
+        "onboard_time": 1658198006,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 429470,
+        "num": 429470,
+        "word": "爱奇艺和抖音集团达成合作",
+        "onboard_time": 1658196626,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 558346,
+        "num": 428071,
+        "word": "海清老师我永远的快乐源泉",
+        "onboard_time": 1658200348,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514007,
+        "num": 424198,
+        "word": "姜磊说杨紫曾不顾劝阻帮助老奶奶",
+        "onboard_time": 1658191110,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417294,
+        "num": 417294,
+        "word": "范丞丞被吓到尖叫",
+        "onboard_time": 1658204017,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400001,
+        "num": 400001,
+        "word": "校方回应花1800万引进23名菲律宾博士",
+        "onboard_time": 1658193268,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 393755,
+        "num": 393755,
+        "word": "怀远县连续7天喷3小时过氧乙酸",
+        "onboard_time": 1658202033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364332,
+        "num": 364332,
+        "word": "村民徒手挖水道唤醒白海豚求生欲",
+        "onboard_time": 1658204917,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346162,
+        "num": 346162,
+        "word": "男子把病房当家霸占3年被拘",
+        "onboard_time": 1658199446,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327359,
+        "num": 327359,
+        "word": "南京夏日祭",
+        "onboard_time": 1658193330,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309388,
+        "num": 309388,
+        "word": "中国持仓美债12年来首次跌破万亿",
+        "onboard_time": 1658203895,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 283178,
+        "num": 283178,
+        "word": "日媒称羽生将转战职业花滑领域",
+        "onboard_time": 1658205159,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 404406,
+        "num": 282375,
+        "word": "赵小棠版国风舞囍",
+        "onboard_time": 1658204138,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392095,
+        "num": 282283,
+        "word": "人生若如初见爱奇艺下线",
+        "onboard_time": 1658187442,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338984,
+        "num": 281347,
+        "word": "星汉灿烂",
+        "onboard_time": 1658205461,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310325,
+        "num": 280143,
+        "word": "一口气炫完6集盲区",
+        "onboard_time": 1658203349,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279858,
+        "num": 279858,
+        "word": "天津北辰区发生爆炸事故",
+        "onboard_time": 1658191172,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 277170,
+        "num": 277170,
+        "word": "2028奥运会开闭幕日期公布",
+        "onboard_time": 1658198789,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269628,
+        "num": 269628,
+        "word": "飞天小女警重启",
+        "onboard_time": 1658195906,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 262210,
+        "num": 262210,
+        "word": "西班牙高温热浪已致510人死亡",
+        "onboard_time": 1658194225,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256087,
+        "num": 256087,
+        "word": "狗妈妈被投喂后带一家人来蹭饭",
+        "onboard_time": 1658203292,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227574,
+        "num": 227574,
+        "word": "玛氏彩虹糖被指控可致DNA改变",
+        "onboard_time": 1658193090,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280494,
+        "num": 223950,
+        "word": "独行月球官宣定档729",
+        "onboard_time": 1658197165,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257546,
+        "num": 221731,
+        "word": "少年派2",
+        "onboard_time": 1658198607,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217645,
+        "num": 217645,
+        "word": "西安九价",
+        "onboard_time": 1658197108,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195709,
+        "num": 195709,
+        "word": "夏天的浙江也太好吃了吧",
+        "onboard_time": 1658205758,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189036,
+        "num": 189036,
+        "word": "两男子景区悬崖边脚踢巨石",
+        "onboard_time": 1658202452,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188461,
+        "num": 188461,
+        "word": "张小泉将发布断刀召集令",
+        "onboard_time": 1658190089,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183257,
+        "num": 183257,
+        "word": "彩虹糖",
+        "onboard_time": 1658195007,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 183010,
+        "word": "尊重羽生结弦意愿",
+        "onboard_time": 1658201370,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181110,
+        "num": 181110,
+        "word": "四川新增本土确诊12例",
+        "onboard_time": 1658197529,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174591,
+        "num": 174591,
+        "word": "合川桃片总厂破产清算",
+        "onboard_time": 1658206239,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#做创新发展的探索者组织者引领者#"
+    }
+  }
+}
