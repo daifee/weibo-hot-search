@@ -1,0 +1,410 @@
+{
+  "runTime": 1658319509487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3947824,
+        "num": 3947824,
+        "word": "易烊千玺同时提名百花奖男主男配",
+        "onboard_time": 1658303612,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1899354,
+        "num": 1899354,
+        "word": "沉香如屑开播",
+        "onboard_time": 1658312372,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217273,
+        "num": 1680058,
+        "word": "查处利用网红儿童牟利行为",
+        "onboard_time": 1658309614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2533139,
+        "num": 1664921,
+        "word": "王冰冰 徐嘉余",
+        "onboard_time": 1658302408,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1531977,
+        "num": 1531977,
+        "word": "国足0比3韩国",
+        "onboard_time": 1658318132,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1196395,
+        "num": 1196395,
+        "word": "女儿的复旦录取通知是妈妈送来的",
+        "onboard_time": 1658315491,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 750133,
+        "num": 750133,
+        "word": "朋友圈不要再晒5种照片了",
+        "onboard_time": 1658292514,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549878,
+        "num": 549878,
+        "word": "路人徒手接住6楼坠落孩子",
+        "onboard_time": 1658311237,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529490,
+        "num": 529490,
+        "word": "成都疫情防控",
+        "onboard_time": 1658312675,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479379,
+        "num": 479379,
+        "word": "男生被清华录取拿着通知书跑进派出所",
+        "onboard_time": 1658295748,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1624361,
+        "num": 476541,
+        "word": "幸福生二胎了",
+        "onboard_time": 1658318731,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1400748,
+        "num": 470583,
+        "word": "宋茜",
+        "onboard_time": 1658317352,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1216911,
+        "num": 467797,
+        "word": "徐嘉余家人回应",
+        "onboard_time": 1658312075,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1068786,
+        "num": 463942,
+        "word": "毒贩下药迷晕多名男性朋友实施猥亵",
+        "onboard_time": 1658311295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52106,
+        "num": 459839,
+        "word": "鸿星尔克全网送小鸿帽",
+        "onboard_time": 1658318433,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197816,
+        "num": 454780,
+        "word": "王冰冰朋友圈",
+        "onboard_time": 1658308956,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 451051,
+        "num": 451051,
+        "word": "iPhone14ProMax镜头激凸严重",
+        "onboard_time": 1658298510,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 431868,
+        "num": 431868,
+        "word": "青岛彩虹",
+        "onboard_time": 1658318433,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430711,
+        "num": 430711,
+        "word": "安徽铜陵发生交通事故致2死5伤",
+        "onboard_time": 1658318252,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351974,
+        "num": 351974,
+        "word": "我可以做你通讯录里的尸体吗",
+        "onboard_time": 1658312792,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 740228,
+        "num": 339251,
+        "word": "沉香如屑 特效",
+        "onboard_time": 1658318012,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658936,
+        "num": 330930,
+        "word": "邓家佳百花奖最佳女主角提名",
+        "onboard_time": 1658315434,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 757217,
+        "num": 325799,
+        "word": "王冰冰徐嘉余情侣头像",
+        "onboard_time": 1658309917,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 320517,
+        "num": 320517,
+        "word": "虽然我的钱不是大风刮来的",
+        "onboard_time": 1658314415,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316689,
+        "num": 316689,
+        "word": "钱钱钱钱钱发夹",
+        "onboard_time": 1658311955,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290833,
+        "num": 290833,
+        "word": "原来疫情已经这么久了",
+        "onboard_time": 1658311893,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289856,
+        "num": 289856,
+        "word": "JackeyLove 德莱文",
+        "onboard_time": 1658313755,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278022,
+        "num": 278022,
+        "word": "男子卫生间强拽女子被采取刑事强制措施",
+        "onboard_time": 1658308118,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267118,
+        "num": 267118,
+        "word": "女生的直球发言好厉害",
+        "onboard_time": 1658309674,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261600,
+        "num": 261600,
+        "word": "微信打开时支持消息通知横幅",
+        "onboard_time": 1658318851,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 556625,
+        "num": 255289,
+        "word": "浪姐女星因履历造假被港交所谴责",
+        "onboard_time": 1658303012,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498592,
+        "num": 249036,
+        "word": "沉香如屑全员晒多重身份",
+        "onboard_time": 1658315311,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412332,
+        "num": 248351,
+        "word": "徐嘉余的朋友圈",
+        "onboard_time": 1658306681,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 393318,
+        "num": 238406,
+        "word": "凌不疑悬空抱程少商",
+        "onboard_time": 1658317651,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236211,
+        "num": 236211,
+        "word": "上海常态化核酸检测免费至8月31日",
+        "onboard_time": 1658310876,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205202,
+        "num": 205202,
+        "word": "王者西游记唐三藏皮肤",
+        "onboard_time": 1658314173,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202852,
+        "num": 202852,
+        "word": "研究发现黑熊血清可防肌肉萎缩",
+        "onboard_time": 1658307758,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182053,
+        "num": 182053,
+        "word": "清理河道意外发现1.2米野生娃娃鱼",
+        "onboard_time": 1658306137,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178803,
+        "num": 178803,
+        "word": "国足vs韩国",
+        "onboard_time": 1658310577,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174343,
+        "num": 174343,
+        "word": "TikTok平均使用时长首超YouTube",
+        "onboard_time": 1658309198,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 381826,
+        "num": 172304,
+        "word": "沉香如屑",
+        "onboard_time": 1658312557,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369424,
+        "num": 168823,
+        "word": "浪花一朵朵",
+        "onboard_time": 1658303733,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 156662,
+        "num": 156662,
+        "word": "天津燃气爆燃事故致4死13伤",
+        "onboard_time": 1658312557,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156588,
+        "num": 156588,
+        "word": "闲鱼崩了",
+        "onboard_time": 1658313214,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 559700,
+        "num": 156333,
+        "word": "国足0比2落后韩国",
+        "onboard_time": 1658316632,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154493,
+        "num": 154493,
+        "word": "如何告诉猫咪我分手了",
+        "onboard_time": 1658315669,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 145614,
+        "word": "油锅起火阿姨用嘴吹不灭竟浇水",
+        "onboard_time": 1658305778,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144648,
+        "num": 144648,
+        "word": "母亲遇车祸9岁儿子CPR抢救",
+        "onboard_time": 1658298272,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140425,
+        "num": 140425,
+        "word": "官方回应禁止电诈人员子女上公立小学",
+        "onboard_time": 1658306018,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122358,
+        "num": 122358,
+        "word": "朱辰杰乌龙",
+        "onboard_time": 1658314355,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
