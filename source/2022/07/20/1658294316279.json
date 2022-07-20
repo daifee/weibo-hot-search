@@ -1,0 +1,410 @@
+{
+  "runTime": 1658294316279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4216849,
+        "num": 4216849,
+        "word": "朋友圈不要再晒5种照片了",
+        "onboard_time": 1658292514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2688452,
+        "num": 2688452,
+        "word": "警方回应女子被男子拖进厕所隔间",
+        "onboard_time": 1658287407,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297476,
+        "num": 2613340,
+        "word": "浙江罕见三雌莲绽放",
+        "onboard_time": 1658290170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2603197,
+        "num": 2603197,
+        "word": "何蓝逗 女二",
+        "onboard_time": 1658292155,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1589630,
+        "num": 1589630,
+        "word": "12岁哥哥带妹妹偷开父母车狂飙100公里",
+        "onboard_time": 1658288070,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522038,
+        "num": 1522038,
+        "word": "玲娜贝儿换夏装",
+        "onboard_time": 1658290234,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1276967,
+        "num": 1276967,
+        "word": "蒋依依 一念关山",
+        "onboard_time": 1658288070,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1032000,
+        "num": 1032000,
+        "word": "dior",
+        "onboard_time": 1658289991,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931178,
+        "num": 931178,
+        "word": "雷军回应被武大校长夸最帅",
+        "onboard_time": 1658290170,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771648,
+        "num": 771648,
+        "word": "网恋对象竟然是同事",
+        "onboard_time": 1658283990,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 890853,
+        "num": 763705,
+        "word": "刘诗诗再演古装剧",
+        "onboard_time": 1658284767,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 866083,
+        "num": 757284,
+        "word": "tangoz真的去参加向前冲了",
+        "onboard_time": 1658291196,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814748,
+        "num": 749284,
+        "word": "女子在酒吧厕所被男子强行拖进隔间",
+        "onboard_time": 1658274566,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813933,
+        "num": 734721,
+        "word": "玲娜贝儿ELLE大片",
+        "onboard_time": 1658288248,
+        "rank": 13,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 729553,
+        "num": 729553,
+        "word": "订婚宴照被谣传为会所技师女子回应",
+        "onboard_time": 1658280748,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586761,
+        "num": 586761,
+        "word": "男子拖拽女生事发酒吧已停业",
+        "onboard_time": 1658288188,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572525,
+        "num": 572525,
+        "word": "恒驰总裁称恒驰大卖成定局",
+        "onboard_time": 1658290533,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 513559,
+        "num": 513559,
+        "word": "年轻人为何不愿做普通劳动者",
+        "onboard_time": 1658291615,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419901,
+        "num": 419901,
+        "word": "目击者回应女子被拖进厕所隔间",
+        "onboard_time": 1658290711,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411305,
+        "num": 411305,
+        "word": "必胜客被处罚后仍不整改",
+        "onboard_time": 1658282069,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 691348,
+        "num": 405675,
+        "word": "一念关山官博好惨",
+        "onboard_time": 1658288851,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446061,
+        "num": 403109,
+        "word": "王心凌说热度没有改变她",
+        "onboard_time": 1658285309,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397146,
+        "num": 397146,
+        "word": "月亮为地球抵御了很多小天体撞击",
+        "onboard_time": 1658290769,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395918,
+        "num": 395918,
+        "word": "天津燃气爆燃事故已致1人死亡",
+        "onboard_time": 1658292035,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395052,
+        "num": 395052,
+        "word": "一念关山全阵容官宣",
+        "onboard_time": 1658289870,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363748,
+        "num": 363748,
+        "word": "为什么总感觉自己被平均",
+        "onboard_time": 1658288492,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292876,
+        "num": 292876,
+        "word": "电竞经理",
+        "onboard_time": 1658285969,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282372,
+        "num": 282372,
+        "word": "礼炮部队有副血染的手套",
+        "onboard_time": 1658285429,
+        "rank": 27,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 277817,
+        "num": 277817,
+        "word": "猫之城",
+        "onboard_time": 1658287710,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256603,
+        "num": 256603,
+        "word": "28省份2021年平均工资出炉",
+        "onboard_time": 1658282188,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 353173,
+        "num": 252383,
+        "word": "HYBE终止与金佳蓝合约",
+        "onboard_time": 1658281406,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350830,
+        "num": 247581,
+        "word": "刘宇宁一念关山官宣",
+        "onboard_time": 1658292873,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324196,
+        "num": 236711,
+        "word": "入职后的我们",
+        "onboard_time": 1658289749,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291640,
+        "num": 227804,
+        "word": "TF家族夏季运动会",
+        "onboard_time": 1658286750,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223682,
+        "num": 223682,
+        "word": "姚明12岁女儿身高",
+        "onboard_time": 1658293652,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211500,
+        "num": 211500,
+        "word": "河南省考",
+        "onboard_time": 1658287710,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196975,
+        "num": 196975,
+        "word": "东部战区回应本福德号过航台湾海峡",
+        "onboard_time": 1658284586,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 196064,
+        "num": 196064,
+        "word": "烘焙连锁克莉丝汀疑似经营异常",
+        "onboard_time": 1658293237,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186081,
+        "num": 186081,
+        "word": "第五人格",
+        "onboard_time": 1658293594,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182824,
+        "num": 182824,
+        "word": "四川新增本土确诊7例无症状7例",
+        "onboard_time": 1658286570,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228986,
+        "num": 180632,
+        "word": "陈粒巡演",
+        "onboard_time": 1658287468,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186663,
+        "num": 180515,
+        "word": "庞博 色弱",
+        "onboard_time": 1658284893,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177440,
+        "num": 177440,
+        "word": "记者卧底必胜客后厨",
+        "onboard_time": 1658276488,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174372,
+        "num": 174372,
+        "word": "我拍了拍月亮",
+        "onboard_time": 1658288550,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164818,
+        "num": 164818,
+        "word": "9岁脑瘫男孩手术前叮嘱妈妈生二胎",
+        "onboard_time": 1658293955,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152719,
+        "num": 152719,
+        "word": "骗子在群里被十几个警察包围",
+        "onboard_time": 1658263750,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148311,
+        "num": 148311,
+        "word": "河北省考",
+        "onboard_time": 1658286932,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144125,
+        "num": 144125,
+        "word": "婴儿被扔垃圾桶啼哭不止",
+        "onboard_time": 1658262251,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131943,
+        "num": 131943,
+        "word": "猫之城7月20日全平台公测",
+        "onboard_time": 1658292454,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121233,
+        "num": 121233,
+        "word": "离职时老板给我11万",
+        "onboard_time": 1658244212,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动文化产业高质量发展#"
+    }
+  }
+}
