@@ -1,0 +1,410 @@
+{
+  "runTime": 1658285455991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4564042,
+        "num": 4564042,
+        "word": "女子在酒吧厕所被男子强行拖进隔间",
+        "onboard_time": 1658274566,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3103025,
+        "num": 3103025,
+        "word": "订婚宴照被谣传为会所技师女子回应",
+        "onboard_time": 1658280748,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159682,
+        "num": 2205217,
+        "word": "今天人类月球日",
+        "onboard_time": 1658278768,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333360,
+        "num": 1333360,
+        "word": "HYBE终止与金佳蓝合约",
+        "onboard_time": 1658281406,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142459,
+        "num": 1142459,
+        "word": "必胜客被处罚后仍不整改",
+        "onboard_time": 1658282069,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1075660,
+        "num": 1075660,
+        "word": "刘诗诗再演古装剧",
+        "onboard_time": 1658284767,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 960737,
+        "num": 960737,
+        "word": "记者卧底必胜客后厨",
+        "onboard_time": 1658276488,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775082,
+        "num": 775082,
+        "word": "庞博 色弱",
+        "onboard_time": 1658284893,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 742811,
+        "num": 742811,
+        "word": "新疆昌吉4.8级地震",
+        "onboard_time": 1658285249,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728161,
+        "num": 728161,
+        "word": "汉中警方通报女子掀翻火锅叫嚣",
+        "onboard_time": 1658281888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635728,
+        "num": 635728,
+        "word": "网恋对象竟然是同事",
+        "onboard_time": 1658283990,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592573,
+        "num": 592573,
+        "word": "俄伊签署400亿美元油气田开发合作协议",
+        "onboard_time": 1658280329,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 531059,
+        "num": 531059,
+        "word": "骗子在群里被十几个警察包围",
+        "onboard_time": 1658263750,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509998,
+        "num": 509998,
+        "word": "张大大说内娱不能没有舞台",
+        "onboard_time": 1658250740,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497526,
+        "num": 497526,
+        "word": "婴儿被扔垃圾桶啼哭不止",
+        "onboard_time": 1658262251,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458807,
+        "num": 458807,
+        "word": "甘肃新增本土无症状306例",
+        "onboard_time": 1658281467,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420341,
+        "num": 420341,
+        "word": "太快确定关系的感情不长久吗",
+        "onboard_time": 1658247149,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402308,
+        "num": 402308,
+        "word": "28省份2021年平均工资出炉",
+        "onboard_time": 1658282188,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 372493,
+        "num": 372493,
+        "word": "东部战区回应本福德号过航台湾海峡",
+        "onboard_time": 1658284586,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 352985,
+        "num": 352985,
+        "word": "河南增本土无症状127例",
+        "onboard_time": 1658278950,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352759,
+        "num": 352759,
+        "word": "如何评价华为笔记本首次应用声纹识别技术",
+        "onboard_time": 1658284405,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306311,
+        "num": 306311,
+        "word": "老剧真的好敢拍",
+        "onboard_time": 1658275227,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301124,
+        "num": 301124,
+        "word": "离职时老板给我11万",
+        "onboard_time": 1658244212,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297291,
+        "num": 297291,
+        "word": "必胜客回应后厨问题",
+        "onboard_time": 1658284348,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 295026,
+        "num": 295026,
+        "word": "海南省考",
+        "onboard_time": 1658281527,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 294938,
+        "num": 294938,
+        "word": "LESSERAFIM将五人组活动",
+        "onboard_time": 1658282669,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273019,
+        "num": 273019,
+        "word": "深圳疫情防控",
+        "onboard_time": 1658279907,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269534,
+        "num": 269534,
+        "word": "国家植物园巨魔芋开花了",
+        "onboard_time": 1658251157,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263751,
+        "num": 263751,
+        "word": "女子网购酒和头孢两骑手相遇报警",
+        "onboard_time": 1658235449,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255987,
+        "num": 255987,
+        "word": "星汉灿烂",
+        "onboard_time": 1658276009,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255561,
+        "num": 255561,
+        "word": "北京一小区楼下开医院殡仪车出入惹民怨",
+        "onboard_time": 1658272701,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237349,
+        "num": 237349,
+        "word": "程少商让袁慎娶何昭君",
+        "onboard_time": 1658270055,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223367,
+        "num": 223367,
+        "word": "元宇宙虚拟地产是智商税吗",
+        "onboard_time": 1658284710,
+        "rank": 32,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 218079,
+        "num": 218079,
+        "word": "北京7月19日新增1例本土确诊",
+        "onboard_time": 1658278110,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214312,
+        "num": 214312,
+        "word": "沉香如屑",
+        "onboard_time": 1658243134,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214055,
+        "num": 214055,
+        "word": "马天宇壁咚Angelababy",
+        "onboard_time": 1658242174,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200267,
+        "num": 200267,
+        "word": "3岁女童头被卡消防员边扇风边救援",
+        "onboard_time": 1658278110,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198564,
+        "num": 198564,
+        "word": "令人心动的offer4建筑师季招募启动",
+        "onboard_time": 1658246429,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197683,
+        "num": 197683,
+        "word": "7月19日新增本土无症状827例",
+        "onboard_time": 1658281108,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193958,
+        "num": 193958,
+        "word": "B站夏日祭",
+        "onboard_time": 1658230769,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187977,
+        "num": 187977,
+        "word": "江西专升本",
+        "onboard_time": 1658284348,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180402,
+        "num": 180402,
+        "word": "王心凌说热度没有改变她",
+        "onboard_time": 1658285309,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177021,
+        "num": 177021,
+        "word": "大热天戴帽子的都是时髦精",
+        "onboard_time": 1658245592,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175395,
+        "num": 175395,
+        "word": "石宇奇将解禁参加世锦赛",
+        "onboard_time": 1658282247,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 171591,
+        "num": 171591,
+        "word": "河南疫情防控",
+        "onboard_time": 1658280089,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166994,
+        "num": 166994,
+        "word": "王不染",
+        "onboard_time": 1658244932,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165893,
+        "num": 165893,
+        "word": "你会不会因为鱼刺而不吃鱼",
+        "onboard_time": 1658251818,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163201,
+        "num": 163201,
+        "word": "千与千寻上映21年",
+        "onboard_time": 1658283091,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157778,
+        "num": 157778,
+        "word": "苏醒 好笑",
+        "onboard_time": 1658244575,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149899,
+        "num": 149899,
+        "word": "礼炮部队有副血染的手套",
+        "onboard_time": 1658285429,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
