@@ -1,0 +1,410 @@
+{
+  "runTime": 1658351311897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 247120,
+        "num": 247120,
+        "word": "拖拽女子男子在隔间内当女子面小便",
+        "onboard_time": 1658334567,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88708,
+        "num": 88708,
+        "word": "嫋嫋小书包",
+        "onboard_time": 1658340554,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9756,
+        "num": 73447,
+        "word": "查处利用网红儿童牟利行为",
+        "onboard_time": 1658309614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67248,
+        "num": 67248,
+        "word": "刘恋带北大毕业证去浪姐没人看",
+        "onboard_time": 1658334326,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66814,
+        "num": 66814,
+        "word": "上海近30年老牌蛋糕房大门紧闭",
+        "onboard_time": 1658343972,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63936,
+        "num": 63936,
+        "word": "易烊千玺同时提名百花奖男主男配",
+        "onboard_time": 1658303612,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61056,
+        "num": 61056,
+        "word": "花季少女全身90%烧伤容貌尽毁",
+        "onboard_time": 1658342292,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58501,
+        "num": 58501,
+        "word": "小肚子不扁下去都难了",
+        "onboard_time": 1658319991,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53269,
+        "num": 53269,
+        "word": "男篮亚洲杯中国队无缘四强",
+        "onboard_time": 1658335462,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48496,
+        "num": 48496,
+        "word": "男子离异后拒绝让9岁儿子上学",
+        "onboard_time": 1658349971,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130573,
+        "num": 47640,
+        "word": "丹东一医院数月未发工资",
+        "onboard_time": 1658347031,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72529,
+        "num": 47016,
+        "word": "希林娜依高 抄袭",
+        "onboard_time": 1658328757,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46002,
+        "num": 46002,
+        "word": "杜锋道歉",
+        "onboard_time": 1658332109,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45771,
+        "num": 45771,
+        "word": "难看",
+        "onboard_time": 1658320836,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45077,
+        "num": 45077,
+        "word": "凌不疑叫程少商弱弱",
+        "onboard_time": 1658338337,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44455,
+        "num": 44455,
+        "word": "沉香如屑",
+        "onboard_time": 1658312557,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37397,
+        "num": 37397,
+        "word": "微信支持全屏输入",
+        "onboard_time": 1658321674,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36977,
+        "num": 36977,
+        "word": "毒贩下药迷晕多名男性朋友实施猥亵",
+        "onboard_time": 1658311295,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34402,
+        "num": 34402,
+        "word": "有点眼红现在小孩的玩具",
+        "onboard_time": 1658345652,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33234,
+        "num": 33234,
+        "word": "乌克兰核电站遭无人机袭击",
+        "onboard_time": 1658325035,
+        "rank": 19,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 38073,
+        "num": 33190,
+        "word": "幸福生二胎了",
+        "onboard_time": 1658318731,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33133,
+        "num": 33133,
+        "word": "成毅演技",
+        "onboard_time": 1658338517,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32753,
+        "num": 32753,
+        "word": "植物人丈夫被妻子唤醒说谢谢",
+        "onboard_time": 1658322995,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30612,
+        "num": 30612,
+        "word": "微信打开时支持消息通知横幅",
+        "onboard_time": 1658318851,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29239,
+        "num": 29239,
+        "word": "男子卫生间强拽女子被采取刑事强制措施",
+        "onboard_time": 1658308118,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29215,
+        "num": 29215,
+        "word": "接坠楼幼童男子说救人出于父亲本能",
+        "onboard_time": 1658324133,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28359,
+        "num": 28359,
+        "word": "国足0比3韩国",
+        "onboard_time": 1658318132,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27431,
+        "num": 27431,
+        "word": "男子果断扔手机张开双臂接坠楼幼童",
+        "onboard_time": 1658320472,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 26942,
+        "num": 26942,
+        "word": "女儿的复旦录取通知是妈妈送来的",
+        "onboard_time": 1658315491,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24793,
+        "num": 24793,
+        "word": "BLG对战RNG",
+        "onboard_time": 1658350210,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47620,
+        "num": 24735,
+        "word": "河南36岁女子升级当奶奶",
+        "onboard_time": 1658327197,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32179,
+        "num": 24588,
+        "word": "王冰冰朋友圈",
+        "onboard_time": 1658308956,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 24054,
+        "word": "兰州本轮疫情感染者已超1000例",
+        "onboard_time": 1658324854,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23859,
+        "num": 23859,
+        "word": "阿尔卑斯山最大冰川或30年内消失",
+        "onboard_time": 1658342292,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27229,
+        "num": 23033,
+        "word": "王冰冰 徐嘉余",
+        "onboard_time": 1658302408,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 22117,
+        "num": 22117,
+        "word": "拉宏桑 山城小栗旬",
+        "onboard_time": 1658320893,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19997,
+        "num": 19997,
+        "word": "2022年成都住房公积金缴存基数调整",
+        "onboard_time": 1658331153,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 19439,
+        "num": 19439,
+        "word": "杭州一废弃厂房发生火灾",
+        "onboard_time": 1658333666,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 18590,
+        "num": 18590,
+        "word": "杜锋",
+        "onboard_time": 1658329955,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18074,
+        "num": 18074,
+        "word": "伊甸园",
+        "onboard_time": 1658346551,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17365,
+        "num": 17365,
+        "word": "蒙犽秒杀皮肤",
+        "onboard_time": 1658324734,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17169,
+        "num": 17169,
+        "word": "沉香如屑预告vs沉香如屑正片",
+        "onboard_time": 1658330791,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16622,
+        "num": 16622,
+        "word": "鲁豫脱口秀再现真的吗我不信",
+        "onboard_time": 1658350870,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16280,
+        "num": 16280,
+        "word": "成都疫情防控",
+        "onboard_time": 1658312675,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15425,
+        "num": 15425,
+        "word": "徐嘉余家人回应",
+        "onboard_time": 1658312075,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14825,
+        "num": 14825,
+        "word": "中国男篮无缘四强",
+        "onboard_time": 1658329179,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14408,
+        "num": 14408,
+        "word": "不会点文言文都不敢评论了",
+        "onboard_time": 1658331689,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12694,
+        "num": 12694,
+        "word": "中国男篮不敌黎巴嫩男篮",
+        "onboard_time": 1658329477,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11638,
+        "num": 11638,
+        "word": "中国男篮vs黎巴嫩男篮 裁判",
+        "onboard_time": 1658325393,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10819,
+        "num": 10819,
+        "word": "LCK",
+        "onboard_time": 1658349490,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
