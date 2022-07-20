@@ -1,0 +1,410 @@
+{
+  "runTime": 1658300946493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2753504,
+        "num": 2753504,
+        "word": "朋友圈不要再晒5种照片了",
+        "onboard_time": 1658292514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2404996,
+        "num": 2404996,
+        "word": "男生被清华录取拿着通知书跑进派出所",
+        "onboard_time": 1658295748,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 384048,
+        "num": 2253472,
+        "word": "月亮为地球抵御了很多小天体撞击",
+        "onboard_time": 1658290769,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2174859,
+        "num": 2174859,
+        "word": "iPhone14ProMax镜头激凸严重",
+        "onboard_time": 1658298510,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1318955,
+        "num": 1318955,
+        "word": "警方通报男子奶茶店猥亵女童",
+        "onboard_time": 1658295449,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161763,
+        "num": 1161763,
+        "word": "杨紫古早网名叫梵高的向日葵",
+        "onboard_time": 1658298272,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1107021,
+        "num": 1107021,
+        "word": "叙利亚宣布与乌克兰断交",
+        "onboard_time": 1658299231,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1105736,
+        "num": 1105736,
+        "word": "警方回应女子被男子拖进厕所隔间",
+        "onboard_time": 1658287407,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5199871,
+        "num": 1102047,
+        "word": "dior",
+        "onboard_time": 1658289991,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056632,
+        "num": 1056632,
+        "word": "何蓝逗 女二",
+        "onboard_time": 1658292155,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 955170,
+        "num": 955170,
+        "word": "姚明12岁女儿身高",
+        "onboard_time": 1658293652,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 864102,
+        "num": 864102,
+        "word": "赵露思你还有多少我不知道的",
+        "onboard_time": 1658296953,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 805938,
+        "num": 805938,
+        "word": "玲娜贝儿换夏装",
+        "onboard_time": 1658290234,
+        "rank": 12,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 784607,
+        "num": 784607,
+        "word": "母亲遇车祸9岁儿子CPR抢救",
+        "onboard_time": 1658298272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755992,
+        "num": 755992,
+        "word": "重庆万州烤鱼学院回应",
+        "onboard_time": 1658297792,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549785,
+        "num": 549785,
+        "word": "英雄联盟新游来了",
+        "onboard_time": 1658298931,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501034,
+        "num": 501034,
+        "word": "曺柔理确诊新冠",
+        "onboard_time": 1658298093,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481185,
+        "num": 481185,
+        "word": "多部门介入女子被人拖进厕所",
+        "onboard_time": 1658296711,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469088,
+        "num": 469088,
+        "word": "数人打砸烧烤店放话不打折就砸",
+        "onboard_time": 1658297311,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409480,
+        "num": 409480,
+        "word": "12岁哥哥带妹妹偷开父母车狂飙100公里",
+        "onboard_time": 1658288070,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469134,
+        "num": 405842,
+        "word": "刘诗诗叶青合作梦回步步惊心",
+        "onboard_time": 1658298510,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400628,
+        "num": 400628,
+        "word": "蒋依依 一念关山",
+        "onboard_time": 1658288070,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376203,
+        "num": 376203,
+        "word": "老太养生足浴店消费295万致没钱看病",
+        "onboard_time": 1658297491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343499,
+        "num": 343499,
+        "word": "9岁脑瘫男孩手术前叮嘱妈妈生二胎",
+        "onboard_time": 1658293955,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334158,
+        "num": 334158,
+        "word": "tangoz真的去参加向前冲了",
+        "onboard_time": 1658291196,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298766,
+        "num": 298766,
+        "word": "中国女足vs中国台北女足",
+        "onboard_time": 1658300548,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298051,
+        "num": 298051,
+        "word": "狗狗睡醒后的发型能多离谱",
+        "onboard_time": 1658295449,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297060,
+        "num": 297060,
+        "word": "二手市场泡泡玛特从万元跌至千元",
+        "onboard_time": 1658294672,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261897,
+        "num": 261897,
+        "word": "中国女足vs中国台北女足首发",
+        "onboard_time": 1658300850,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259111,
+        "num": 259111,
+        "word": "网友预测城市免单广州稳了",
+        "onboard_time": 1658298093,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252965,
+        "num": 252965,
+        "word": "年轻人为何不愿做普通劳动者",
+        "onboard_time": 1658291615,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245984,
+        "num": 245984,
+        "word": "一念关山官博好惨",
+        "onboard_time": 1658288851,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228003,
+        "num": 228003,
+        "word": "苹果蝴蝶键盘诉讼5000万美元和解",
+        "onboard_time": 1658300070,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219264,
+        "num": 219264,
+        "word": "金佳蓝退出lesserafim",
+        "onboard_time": 1658297191,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213402,
+        "num": 213402,
+        "word": "订婚宴照被谣传为会所技师女子回应",
+        "onboard_time": 1658280748,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210033,
+        "num": 210033,
+        "word": "玲娜贝儿ELLE大片",
+        "onboard_time": 1658288248,
+        "rank": 35,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 200915,
+        "num": 200915,
+        "word": "天津燃气爆燃事故已致1人死亡",
+        "onboard_time": 1658292035,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199016,
+        "num": 199016,
+        "word": "恒驰总裁称恒驰大卖成定局",
+        "onboard_time": 1658290533,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 196046,
+        "num": 196046,
+        "word": "那些父母不看好的装修现在怎么样了",
+        "onboard_time": 1658300369,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 194047,
+        "num": 194047,
+        "word": "网恋对象竟然是同事",
+        "onboard_time": 1658283990,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182872,
+        "num": 182872,
+        "word": "狗狗比我更会过日子",
+        "onboard_time": 1658300070,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172227,
+        "num": 172227,
+        "word": "你好星期六好六街全员吃瓜",
+        "onboard_time": 1658300670,
+        "rank": 41,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 172012,
+        "num": 172012,
+        "word": "这猫可真没白养",
+        "onboard_time": 1658294493,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161964,
+        "num": 161964,
+        "word": "TF家族夏季运动会",
+        "onboard_time": 1658286750,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 160798,
+        "word": "女子在酒吧厕所被男子强行拖进隔间",
+        "onboard_time": 1658274566,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160248,
+        "num": 160248,
+        "word": "中国女足加油",
+        "onboard_time": 1658299829,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153182,
+        "num": 153182,
+        "word": "这就是东方美人吧",
+        "onboard_time": 1658298029,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132077,
+        "num": 132077,
+        "word": "男子拖拽女生事发酒吧已停业",
+        "onboard_time": 1658288188,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122619,
+        "num": 122619,
+        "word": "必胜客被处罚后仍不整改",
+        "onboard_time": 1658282069,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122044,
+        "num": 122044,
+        "word": "为什么总感觉自己被平均",
+        "onboard_time": 1658288492,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
