@@ -1,0 +1,410 @@
+{
+  "runTime": 1658315293767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7966690,
+        "num": 7966690,
+        "word": "易烊千玺同时提名百花奖男主男配",
+        "onboard_time": 1658303612,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2524985,
+        "num": 2524985,
+        "word": "沉香如屑开播",
+        "onboard_time": 1658312372,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221884,
+        "num": 1294039,
+        "word": "查处利用网红儿童牟利行为",
+        "onboard_time": 1658309614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4486524,
+        "num": 1136274,
+        "word": "王冰冰 徐嘉余",
+        "onboard_time": 1658302408,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 955109,
+        "num": 955109,
+        "word": "朋友圈不要再晒5种照片了",
+        "onboard_time": 1658292514,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640477,
+        "num": 640477,
+        "word": "路人徒手接住6楼坠落孩子",
+        "onboard_time": 1658311237,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640329,
+        "num": 640329,
+        "word": "iPhone14ProMax镜头激凸严重",
+        "onboard_time": 1658298510,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 617862,
+        "num": 617862,
+        "word": "女生的直球发言好厉害",
+        "onboard_time": 1658309674,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617065,
+        "num": 617065,
+        "word": "成都疫情防控",
+        "onboard_time": 1658312675,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600547,
+        "num": 600547,
+        "word": "男生被清华录取拿着通知书跑进派出所",
+        "onboard_time": 1658295748,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2282469,
+        "num": 592368,
+        "word": "王冰冰朋友圈",
+        "onboard_time": 1658308956,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1796886,
+        "num": 574782,
+        "word": "毒贩下药迷晕多名男性朋友实施猥亵",
+        "onboard_time": 1658311295,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553645,
+        "num": 553645,
+        "word": "原来疫情已经这么久了",
+        "onboard_time": 1658311893,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2111627,
+        "num": 548185,
+        "word": "徐嘉余家人回应",
+        "onboard_time": 1658312075,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529646,
+        "num": 529646,
+        "word": "钱钱钱钱钱发夹",
+        "onboard_time": 1658311955,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 481562,
+        "num": 481562,
+        "word": "男子卫生间强拽女子被采取刑事强制措施",
+        "onboard_time": 1658308118,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039092,
+        "num": 446329,
+        "word": "徐嘉余的朋友圈",
+        "onboard_time": 1658306681,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 396239,
+        "num": 396239,
+        "word": "JackeyLove 德莱文",
+        "onboard_time": 1658313755,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378147,
+        "num": 378147,
+        "word": "国足0比1落后韩国",
+        "onboard_time": 1658314772,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890617,
+        "num": 377093,
+        "word": "王冰冰徐嘉余情侣头像",
+        "onboard_time": 1658309917,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 845527,
+        "num": 376512,
+        "word": "浪姐女星因履历造假被港交所谴责",
+        "onboard_time": 1658303012,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554078,
+        "num": 374723,
+        "word": "杨紫成毅新剧沉香如屑好看吗",
+        "onboard_time": 1658314595,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 616443,
+        "num": 373695,
+        "word": "浪花一朵朵",
+        "onboard_time": 1658303733,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 372453,
+        "num": 372453,
+        "word": "朱辰杰乌龙",
+        "onboard_time": 1658314355,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359607,
+        "num": 359607,
+        "word": "上海常态化核酸检测免费至8月31日",
+        "onboard_time": 1658310876,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551566,
+        "num": 352433,
+        "word": "沉香如屑",
+        "onboard_time": 1658312557,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542846,
+        "num": 348039,
+        "word": "我可以做你通讯录里的尸体吗",
+        "onboard_time": 1658312792,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341192,
+        "num": 341192,
+        "word": "研究发现黑熊血清可防肌肉萎缩",
+        "onboard_time": 1658307758,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340556,
+        "num": 340556,
+        "word": "官方回应禁止电诈人员子女上公立小学",
+        "onboard_time": 1658306018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304869,
+        "num": 304869,
+        "word": "虽然我的钱不是大风刮来的",
+        "onboard_time": 1658314415,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365352,
+        "num": 304257,
+        "word": "张子枫时隔十年再次提名百花奖",
+        "onboard_time": 1658305535,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361597,
+        "num": 302988,
+        "word": "姚明12岁女儿身高",
+        "onboard_time": 1658293652,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 338566,
+        "num": 302452,
+        "word": "姜丹尼尔发文道歉",
+        "onboard_time": 1658303492,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301053,
+        "num": 301053,
+        "word": "TikTok平均使用时长首超YouTube",
+        "onboard_time": 1658309198,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300309,
+        "num": 300309,
+        "word": "国足vs韩国",
+        "onboard_time": 1658310577,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296041,
+        "num": 296041,
+        "word": "王者西游记唐三藏皮肤",
+        "onboard_time": 1658314173,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275637,
+        "num": 275637,
+        "word": "母亲遇车祸9岁儿子CPR抢救",
+        "onboard_time": 1658298272,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269089,
+        "num": 269089,
+        "word": "闲鱼崩了",
+        "onboard_time": 1658313214,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 255988,
+        "num": 255988,
+        "word": "清理河道意外发现1.2米野生娃娃鱼",
+        "onboard_time": 1658306137,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227594,
+        "num": 227594,
+        "word": "油锅起火阿姨用嘴吹不灭竟浇水",
+        "onboard_time": 1658305778,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323471,
+        "num": 227489,
+        "word": "幸福到万家大结局",
+        "onboard_time": 1658312494,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305501,
+        "num": 227463,
+        "word": "捡手机文学",
+        "onboard_time": 1658310636,
+        "rank": 41,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 227292,
+        "num": 227292,
+        "word": "一线城市开始流行美黑",
+        "onboard_time": 1658302953,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 208880,
+        "num": 208880,
+        "word": "dior",
+        "onboard_time": 1658289991,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207932,
+        "num": 207932,
+        "word": "水蒸蛋有多难做",
+        "onboard_time": 1658304157,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206083,
+        "num": 206083,
+        "word": "天津燃气爆燃事故致4死13伤",
+        "onboard_time": 1658312557,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197980,
+        "num": 197980,
+        "word": "5人聚餐吃野蘑菇中毒3人进ICU",
+        "onboard_time": 1658307879,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170458,
+        "num": 170458,
+        "word": "叙利亚宣布与乌克兰断交",
+        "onboard_time": 1658299231,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 164925,
+        "word": "男子一晚抓千只金蝉收入近千元",
+        "onboard_time": 1658302470,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145451,
+        "num": 145451,
+        "word": "英雄联盟新游来了",
+        "onboard_time": 1658298931,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
