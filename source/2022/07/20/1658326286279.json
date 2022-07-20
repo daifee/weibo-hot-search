@@ -1,0 +1,410 @@
+{
+  "runTime": 1658326286279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2203273,
+        "num": 2203273,
+        "word": "微信打开时支持消息通知横幅",
+        "onboard_time": 1658318851,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2128041,
+        "num": 2128041,
+        "word": "小肚子不扁下去都难了",
+        "onboard_time": 1658319991,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92955,
+        "num": 1843819,
+        "word": "查处利用网红儿童牟利行为",
+        "onboard_time": 1658309614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2984769,
+        "num": 1841640,
+        "word": "难看",
+        "onboard_time": 1658320836,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1822373,
+        "num": 1822373,
+        "word": "王冰冰 徐嘉余",
+        "onboard_time": 1658302408,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1807226,
+        "num": 1807226,
+        "word": "易烊千玺同时提名百花奖男主男配",
+        "onboard_time": 1658303612,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1524091,
+        "num": 1524091,
+        "word": "胡明轩",
+        "onboard_time": 1658324374,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1004408,
+        "num": 1004408,
+        "word": "男子果断扔手机张开双臂接坠楼幼童",
+        "onboard_time": 1658320472,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 890079,
+        "num": 890079,
+        "word": "植物人丈夫被妻子唤醒说谢谢",
+        "onboard_time": 1658322995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756256,
+        "num": 756256,
+        "word": "国足0比3韩国",
+        "onboard_time": 1658318132,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1587580,
+        "num": 756041,
+        "word": "拉宏桑 山城小栗旬",
+        "onboard_time": 1658320893,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1079609,
+        "num": 756008,
+        "word": "星汉灿烂预告27",
+        "onboard_time": 1658322213,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 964306,
+        "num": 755856,
+        "word": "幸福生二胎了",
+        "onboard_time": 1658318731,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755676,
+        "num": 755676,
+        "word": "微信支持全屏输入",
+        "onboard_time": 1658321674,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 715498,
+        "num": 715498,
+        "word": "毒贩下药迷晕多名男性朋友实施猥亵",
+        "onboard_time": 1658311295,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669883,
+        "num": 669883,
+        "word": "乌克兰核电站遭无人机袭击",
+        "onboard_time": 1658325035,
+        "rank": 15,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 589735,
+        "num": 589735,
+        "word": "还得是周琦",
+        "onboard_time": 1658324072,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531902,
+        "num": 531902,
+        "word": "徐嘉余家人回应",
+        "onboard_time": 1658312075,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450317,
+        "num": 450317,
+        "word": "朋友圈不要再晒5种照片了",
+        "onboard_time": 1658292514,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434640,
+        "num": 434640,
+        "word": "中国男篮vs黎巴嫩男篮 裁判",
+        "onboard_time": 1658325393,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628956,
+        "num": 434292,
+        "word": "王冰冰朋友圈",
+        "onboard_time": 1658308956,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 578650,
+        "num": 434225,
+        "word": "杨紫颜淡三大美德",
+        "onboard_time": 1658325393,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536017,
+        "num": 434106,
+        "word": "毛俊杰商业版图",
+        "onboard_time": 1658320712,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433827,
+        "num": 433827,
+        "word": "男子卫生间强拽女子被采取刑事强制措施",
+        "onboard_time": 1658308118,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429907,
+        "num": 429907,
+        "word": "蒙犽秒杀皮肤",
+        "onboard_time": 1658324734,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527977,
+        "num": 425751,
+        "word": "沉香如屑 特效",
+        "onboard_time": 1658318012,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420464,
+        "num": 420464,
+        "word": "中国男篮失误",
+        "onboard_time": 1658325035,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413770,
+        "num": 413770,
+        "word": "接坠楼幼童男子说救人出于父亲本能",
+        "onboard_time": 1658324133,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370051,
+        "num": 370051,
+        "word": "女儿的复旦录取通知是妈妈送来的",
+        "onboard_time": 1658315491,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348740,
+        "num": 348740,
+        "word": "兰州本轮疫情感染者已超1000例",
+        "onboard_time": 1658324854,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486340,
+        "num": 345220,
+        "word": "沉香如屑 不够看",
+        "onboard_time": 1658323713,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481156,
+        "num": 343622,
+        "word": "王冰冰徐嘉余情侣头像",
+        "onboard_time": 1658309917,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 398778,
+        "num": 343107,
+        "word": "月升沧海",
+        "onboard_time": 1658326112,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326129,
+        "num": 326129,
+        "word": "国足全场仅一次射门",
+        "onboard_time": 1658321014,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291444,
+        "num": 291444,
+        "word": "我可以做你通讯录里的尸体吗",
+        "onboard_time": 1658312792,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382724,
+        "num": 273428,
+        "word": "沉香如屑",
+        "onboard_time": 1658312557,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254738,
+        "num": 254738,
+        "word": "中国男篮vs黎巴嫩男篮",
+        "onboard_time": 1658322455,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244559,
+        "num": 244559,
+        "word": "成都疫情防控",
+        "onboard_time": 1658312675,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222776,
+        "num": 222776,
+        "word": "王者西游记唐三藏皮肤",
+        "onboard_time": 1658314173,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220368,
+        "num": 220368,
+        "word": "安徽铜陵发生交通事故致2死5伤",
+        "onboard_time": 1658318252,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358246,
+        "num": 218404,
+        "word": "刘恋参加怎么办脱口秀好可爱",
+        "onboard_time": 1658325633,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212974,
+        "num": 212974,
+        "word": "原来疫情已经这么久了",
+        "onboard_time": 1658311893,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202807,
+        "num": 202807,
+        "word": "中国男篮半场落后9分",
+        "onboard_time": 1658326056,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200503,
+        "num": 200503,
+        "word": "男篮亚洲杯",
+        "onboard_time": 1658319629,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186712,
+        "num": 186712,
+        "word": "又惨又好笑的社死瞬间",
+        "onboard_time": 1658325695,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177848,
+        "num": 177848,
+        "word": "上海常态化核酸检测免费至8月31日",
+        "onboard_time": 1658310876,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175847,
+        "num": 175847,
+        "word": "iPhone14ProMax镜头激凸严重",
+        "onboard_time": 1658298510,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169079,
+        "num": 169079,
+        "word": "青岛彩虹",
+        "onboard_time": 1658318433,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164150,
+        "num": 164150,
+        "word": "周琦进攻犯规",
+        "onboard_time": 1658325333,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146317,
+        "num": 146317,
+        "word": "虽然我的钱不是大风刮来的",
+        "onboard_time": 1658314415,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
