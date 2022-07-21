@@ -1,0 +1,410 @@
+{
+  "runTime": 1658414356292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4194038,
+        "num": 4194038,
+        "word": "长江白鲟被正式宣布灭绝",
+        "onboard_time": 1658408258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3273507,
+        "num": 3273507,
+        "word": "钱三一怎么了",
+        "onboard_time": 1658407476,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67829,
+        "num": 1927691,
+        "word": "祝融号在火星过冬至",
+        "onboard_time": 1658392658,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1838432,
+        "num": 1838432,
+        "word": "程少商母亲当众羞辱程少商",
+        "onboard_time": 1658410059,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1760889,
+        "num": 1760889,
+        "word": "少年派2压抑",
+        "onboard_time": 1658412399,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1655697,
+        "num": 1655697,
+        "word": "拜登新冠检测阳性",
+        "onboard_time": 1658414022,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1348232,
+        "num": 1348232,
+        "word": "上海核酸阳性记录查不到了",
+        "onboard_time": 1658408799,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263907,
+        "num": 1263907,
+        "word": "优酷投屏收费",
+        "onboard_time": 1658405858,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 852806,
+        "num": 852806,
+        "word": "广东一妈妈连生5个高颜值萌娃",
+        "onboard_time": 1658404778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691747,
+        "num": 691747,
+        "word": "乘客拉肚子逼网约车司机违规掉头",
+        "onboard_time": 1658406820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1882540,
+        "num": 691129,
+        "word": "小敏来了",
+        "onboard_time": 1658411442,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951293,
+        "num": 690126,
+        "word": "少年派2 台词",
+        "onboard_time": 1658408380,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 687329,
+        "num": 687329,
+        "word": "吴磊赵露思新剧拦腰抱",
+        "onboard_time": 1658413960,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 720190,
+        "num": 676194,
+        "word": "赵今麦郭俊辰吻戏",
+        "onboard_time": 1658401479,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638216,
+        "num": 638216,
+        "word": "男子发热久不愈竟因脚趾缝藏蜱虫",
+        "onboard_time": 1658407596,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594778,
+        "num": 594778,
+        "word": "羽生结弦申请退出日本国家队",
+        "onboard_time": 1658403040,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569395,
+        "num": 569395,
+        "word": "林高远vs宇田幸矢",
+        "onboard_time": 1658413600,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562114,
+        "num": 562114,
+        "word": "王曼昱3比0伊藤美诚",
+        "onboard_time": 1658412701,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449777,
+        "num": 449777,
+        "word": "主人吃螺蛳粉金毛捂鼻嫌弃",
+        "onboard_time": 1658405138,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424618,
+        "num": 424618,
+        "word": "新冠病毒变异长期存在",
+        "onboard_time": 1658403219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659801,
+        "num": 423457,
+        "word": "星汉灿烂",
+        "onboard_time": 1658411559,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611106,
+        "num": 420747,
+        "word": "林妙妙江天昊过夜被妈妈抓",
+        "onboard_time": 1658412339,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438473,
+        "num": 417361,
+        "word": "颜淡 可爱",
+        "onboard_time": 1658407777,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413574,
+        "num": 413574,
+        "word": "只有我能骂自己",
+        "onboard_time": 1658411141,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410239,
+        "num": 410239,
+        "word": "该不该主动提出给老人拍遗照",
+        "onboard_time": 1658411024,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 412980,
+        "num": 407429,
+        "word": "刘畊宏直播",
+        "onboard_time": 1658410541,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404562,
+        "num": 404562,
+        "word": "布洛芬不接急单",
+        "onboard_time": 1658398302,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349613,
+        "num": 349613,
+        "word": "男子醉酒躺河里睡觉被当成浮尸",
+        "onboard_time": 1658408617,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339379,
+        "num": 339379,
+        "word": "莫尔穆成印度第二位女总统",
+        "onboard_time": 1658408737,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 322092,
+        "num": 322092,
+        "word": "陌生男子经过一脚将孩子踢下泳池",
+        "onboard_time": 1658404179,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337316,
+        "num": 320127,
+        "word": "姚译添吐槽录奔跑吧管不住嘉宾太累了",
+        "onboard_time": 1658409644,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318105,
+        "num": 318105,
+        "word": "邓紫棋孙晨竣第一次约会",
+        "onboard_time": 1658403937,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309589,
+        "num": 309589,
+        "word": "河南55亿支持七所高校创建双一流",
+        "onboard_time": 1658403337,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 303829,
+        "num": 303829,
+        "word": "福建专升本",
+        "onboard_time": 1658411920,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288230,
+        "num": 288230,
+        "word": "四川汶川发生3.3级地震",
+        "onboard_time": 1658413781,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281335,
+        "num": 281335,
+        "word": "警方辟谣女子在万达广场被掐死",
+        "onboard_time": 1658402978,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279347,
+        "num": 279347,
+        "word": "难怪总感觉自己素质低了点",
+        "onboard_time": 1658403102,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274593,
+        "num": 274593,
+        "word": "成毅应渊战损美学",
+        "onboard_time": 1658414080,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257468,
+        "num": 257468,
+        "word": "四川大剧院",
+        "onboard_time": 1658407174,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252013,
+        "num": 252013,
+        "word": "鹏鹏空降超话",
+        "onboard_time": 1658412941,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265286,
+        "num": 252007,
+        "word": "韩孝周新冠确诊",
+        "onboard_time": 1658400040,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251997,
+        "num": 251997,
+        "word": "男孩捅蜂窝被蛰半边脸肿成球",
+        "onboard_time": 1658408559,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237865,
+        "num": 237865,
+        "word": "这辈子没和父母见过一面",
+        "onboard_time": 1658413842,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234878,
+        "num": 234878,
+        "word": "林妙妙钱三一再现碰头杀",
+        "onboard_time": 1658404959,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223074,
+        "num": 223074,
+        "word": "成都警方通报男子小区内跳楼身亡",
+        "onboard_time": 1658395185,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208390,
+        "num": 208390,
+        "word": "小女孩生病没让座被大爷骂没教养",
+        "onboard_time": 1658398122,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190182,
+        "num": 190182,
+        "word": "村镇篮球赛观众整齐酷似NBA",
+        "onboard_time": 1658409400,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 174891,
+        "num": 174891,
+        "word": "梁靖崑2比3庄智渊",
+        "onboard_time": 1658410480,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172875,
+        "num": 172875,
+        "word": "上海LadyM门店被外卖小哥挤爆",
+        "onboard_time": 1658397882,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140634,
+        "num": 140634,
+        "word": "KPL最出圈的选手一诺",
+        "onboard_time": 1658407536,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
