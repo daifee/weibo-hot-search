@@ -1,0 +1,410 @@
+{
+  "runTime": 1658446871981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1984869,
+        "num": 1984869,
+        "word": "长江白鲟被正式宣布灭绝",
+        "onboard_time": 1658408258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099611,
+        "num": 1099611,
+        "word": "女子指尖扎入针头17年在手背发现",
+        "onboard_time": 1658430493,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15175,
+        "num": 987180,
+        "word": "祝融号在火星过冬至",
+        "onboard_time": 1658392658,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 877201,
+        "num": 877201,
+        "word": "女子连生5子又怀第六胎",
+        "onboard_time": 1658415460,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794034,
+        "num": 794034,
+        "word": "福建浙江或现破极值极端高温",
+        "onboard_time": 1658442314,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738811,
+        "num": 738811,
+        "word": "拜登新冠检测阳性",
+        "onboard_time": 1658414022,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 599262,
+        "num": 599262,
+        "word": "网约车撞货车5根钢筋插入乘客身体",
+        "onboard_time": 1658419175,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578470,
+        "num": 578470,
+        "word": "成毅杨紫浴桶吻",
+        "onboard_time": 1658418576,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521200,
+        "num": 521200,
+        "word": "邓小琪换人了",
+        "onboard_time": 1658423960,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423371,
+        "num": 423371,
+        "word": "银保监会回应是否该取消预售",
+        "onboard_time": 1658440873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022393,
+        "num": 422675,
+        "word": "抖音账号显示所属MCN机构",
+        "onboard_time": 1658445083,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 805363,
+        "num": 422471,
+        "word": "王玉雯",
+        "onboard_time": 1658445745,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449637,
+        "num": 421893,
+        "word": "小敏来了",
+        "onboard_time": 1658411442,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420679,
+        "num": 420679,
+        "word": "赵今麦一下炫了209个字",
+        "onboard_time": 1658444240,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373440,
+        "num": 373440,
+        "word": "优酷投屏收费",
+        "onboard_time": 1658405858,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369841,
+        "num": 369841,
+        "word": "2022全球总决赛时间公布",
+        "onboard_time": 1658419293,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330220,
+        "num": 330220,
+        "word": "男子发热久不愈竟因脚趾缝藏蜱虫",
+        "onboard_time": 1658407596,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317472,
+        "num": 317472,
+        "word": "成都目前所有病例均属同一传播链",
+        "onboard_time": 1658433551,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312570,
+        "num": 312570,
+        "word": "上海核酸阳性记录查不到了",
+        "onboard_time": 1658408799,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295341,
+        "num": 295341,
+        "word": "钱三一怎么了",
+        "onboard_time": 1658407476,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293891,
+        "num": 293891,
+        "word": "羽生结弦申请退出日本国家队",
+        "onboard_time": 1658403040,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288175,
+        "num": 288175,
+        "word": "沉香如屑短评",
+        "onboard_time": 1658443877,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285329,
+        "num": 285329,
+        "word": "南京玄奘寺",
+        "onboard_time": 1658446527,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275255,
+        "num": 275255,
+        "word": "赵本山徒弟律师声明",
+        "onboard_time": 1658420550,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272942,
+        "num": 272942,
+        "word": "星汉灿烂",
+        "onboard_time": 1658411559,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266443,
+        "num": 266443,
+        "word": "河北省考",
+        "onboard_time": 1658445324,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237414,
+        "num": 237414,
+        "word": "林妙妙父母离婚了",
+        "onboard_time": 1658414745,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222547,
+        "num": 222547,
+        "word": "80岁奶奶用杆秤给猫咪称体重",
+        "onboard_time": 1658437871,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201099,
+        "num": 201099,
+        "word": "拜登将继续履行总统职责",
+        "onboard_time": 1658445745,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188209,
+        "num": 188209,
+        "word": "主人吃螺蛳粉金毛捂鼻嫌弃",
+        "onboard_time": 1658405138,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221146,
+        "num": 186346,
+        "word": "刘宇宁身上还能塞多少东西",
+        "onboard_time": 1658433191,
+        "rank": 30,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 206525,
+        "num": 184883,
+        "word": "凌不疑此生非程少商不娶",
+        "onboard_time": 1658445022,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183162,
+        "num": 183162,
+        "word": "乘客拉肚子逼网约车司机违规掉头",
+        "onboard_time": 1658406820,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182892,
+        "num": 182892,
+        "word": "程少商母亲当众羞辱程少商",
+        "onboard_time": 1658410059,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167867,
+        "num": 167867,
+        "word": "老年旅行团列车上用音箱放歌嗨舞",
+        "onboard_time": 1658442916,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 166786,
+        "word": "陌生男子经过一脚将孩子踢下泳池",
+        "onboard_time": 1658404179,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164279,
+        "num": 164279,
+        "word": "辽宁营口一门市发生爆炸",
+        "onboard_time": 1658418274,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150294,
+        "num": 150294,
+        "word": "广东一妈妈连生5个高颜值萌娃",
+        "onboard_time": 1658404778,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146670,
+        "num": 146670,
+        "word": "周深我晕了我装的",
+        "onboard_time": 1658441895,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139225,
+        "num": 139225,
+        "word": "当搞笑女成为主持人是什么体验",
+        "onboard_time": 1658414381,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220301,
+        "num": 136471,
+        "word": "少年派2",
+        "onboard_time": 1658446164,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144120,
+        "num": 133375,
+        "word": "吴磊赵露思新剧拦腰抱",
+        "onboard_time": 1658413960,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129533,
+        "num": 129533,
+        "word": "新冠病毒变异长期存在",
+        "onboard_time": 1658403219,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129105,
+        "num": 129105,
+        "word": "西双版纳震感",
+        "onboard_time": 1658426176,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125225,
+        "num": 125225,
+        "word": "莫尔穆成印度第二位女总统",
+        "onboard_time": 1658408737,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124566,
+        "num": 124566,
+        "word": "营口",
+        "onboard_time": 1658417196,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113294,
+        "num": 113294,
+        "word": "难怪总感觉自己素质低了点",
+        "onboard_time": 1658403102,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109285,
+        "num": 109285,
+        "word": "河南55亿支持七所高校创建双一流",
+        "onboard_time": 1658403337,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 96282,
+        "num": 96282,
+        "word": "90后徒手接6楼坠落女童获表彰",
+        "onboard_time": 1658446347,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93454,
+        "num": 93454,
+        "word": "布洛芬不接急单",
+        "onboard_time": 1658398302,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我家乡的文物古迹#"
+    }
+  }
+}
