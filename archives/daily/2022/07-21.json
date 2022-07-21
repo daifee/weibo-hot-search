@@ -1,6 +1,6 @@
 {
   "startTime": 1658333582707,
-  "endTime": 1658401700620,
+  "endTime": 1658412590635,
   "band_list": [
     {
       "raw_hot": 14914747,
@@ -9,6 +9,14 @@
       "onboard_time": 1658380655,
       "rank": 1,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 3801425,
+      "num": 3801425,
+      "word": "钱三一怎么了",
+      "onboard_time": 1658407476,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 3760743,
@@ -35,11 +43,27 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3046609,
+      "num": 3046609,
+      "word": "长江白鲟被正式宣布灭绝",
+      "onboard_time": 1658408258,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2837212,
       "num": 2837212,
       "word": "iPhone15全系叹号屏",
       "onboard_time": 1658370629,
       "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2628550,
+      "num": 2628550,
+      "word": "优酷投屏收费",
+      "onboard_time": 1658405858,
+      "rank": 44,
       "category": "科技"
     },
     {
@@ -67,6 +91,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2314330,
+      "num": 2314330,
+      "word": "赵今麦郭俊辰吻戏",
+      "onboard_time": 1658401479,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2175091,
       "num": 2175091,
       "word": "民政局回应河南女子36岁当奶奶",
@@ -89,6 +121,14 @@
       "onboard_time": 1658381076,
       "rank": 1,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1913650,
+      "num": 1913650,
+      "word": "程少商母亲当众羞辱程少商",
+      "onboard_time": 1658410059,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1866945,
@@ -187,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1488951,
+      "num": 1363193,
+      "word": "少年派2 台词",
+      "onboard_time": 1658408380,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1460915,
+      "num": 1460915,
+      "word": "羽生结弦申请退出日本国家队",
+      "onboard_time": 1658403040,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1359085,
       "num": 1359085,
       "word": "被弃垃圾桶婴儿父母已找到",
@@ -233,6 +289,14 @@
       "onboard_time": 1658379160,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1294931,
+      "num": 1294931,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1658410719,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1290686,
@@ -307,6 +371,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1174228,
+      "num": 724495,
+      "word": "上海核酸阳性记录查不到了",
+      "onboard_time": 1658408799,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1161745,
       "num": 810590,
       "word": "男子偷800多件女装打扮充气娃娃",
@@ -339,6 +411,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1098028,
+      "num": 259635,
+      "word": "阿里罚款",
+      "onboard_time": 1658402499,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1088772,
+      "num": 1088772,
+      "word": "小女孩生病没让座被大爷骂没教养",
+      "onboard_time": 1658398122,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088271,
+      "num": 1088271,
+      "word": "新冠病毒变异长期存在",
+      "onboard_time": 1658403219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051929,
       "num": 1051929,
       "word": "救人男子女儿与坠楼女童同名",
@@ -355,11 +451,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1027469,
-      "num": 1027469,
-      "word": "小女孩生病没让座被大爷骂没教养",
-      "onboard_time": 1658398122,
-      "rank": 8,
+      "raw_hot": 1001814,
+      "num": 1001814,
+      "word": "乘客拉肚子逼网约车司机违规掉头",
+      "onboard_time": 1658406820,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -411,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 935074,
+      "num": 935074,
+      "word": "星汉灿烂",
+      "onboard_time": 1658329955,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 932613,
       "num": 932613,
       "word": "成都女孩中了999只小龙虾",
@@ -425,6 +529,14 @@
       "onboard_time": 1658392059,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899959,
+      "num": 899959,
+      "word": "邓紫棋孙晨竣第一次约会",
+      "onboard_time": 1658403937,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 882284,
@@ -449,6 +561,14 @@
       "onboard_time": 1658340554,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 862510,
+      "num": 862510,
+      "word": "主人吃螺蛳粉金毛捂鼻嫌弃",
+      "onboard_time": 1658405138,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859282,
@@ -491,6 +611,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 816447,
+      "num": 706867,
+      "word": "小敏来了",
+      "onboard_time": 1658411442,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810191,
+      "num": 810191,
+      "word": "广东一妈妈连生5个高颜值萌娃",
+      "onboard_time": 1658404778,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809983,
       "num": 471376,
       "word": "月升沧海",
@@ -531,14 +667,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 721080,
-      "num": 721080,
-      "word": "赵今麦郭俊辰吻戏",
-      "onboard_time": 1658401479,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 717794,
       "num": 633828,
       "word": "31至35岁成矿泉水核心消费人群",
@@ -547,12 +675,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 716585,
+      "num": 650800,
+      "word": "赵露思 可爱",
+      "onboard_time": 1658410176,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 710342,
       "num": 465024,
       "word": "王冰冰 徐嘉余",
       "onboard_time": 1658302408,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 698576,
+      "num": 698576,
+      "word": "男子发热久不愈竟因脚趾缝藏蜱虫",
+      "onboard_time": 1658407596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695316,
+      "num": 695316,
+      "word": "林妙妙钱三一再现碰头杀",
+      "onboard_time": 1658404959,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 693951,
@@ -569,6 +721,14 @@
       "onboard_time": 1658380416,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 679829,
+      "num": 659523,
+      "word": "少年派2压抑",
+      "onboard_time": 1658412399,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 666438,
@@ -627,12 +787,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 624316,
+      "num": 624316,
+      "word": "颜淡 可爱",
+      "onboard_time": 1658407777,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602051,
       "num": 602051,
       "word": "大张伟说挡着点杨幂",
       "onboard_time": 1658383717,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 599359,
+      "num": 599359,
+      "word": "河南55亿支持七所高校创建双一流",
+      "onboard_time": 1658403337,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 591244,
@@ -699,6 +875,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 557291,
+      "num": 557291,
+      "word": "醒狮",
+      "onboard_time": 1658396686,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550879,
       "num": 550879,
       "word": "teams",
@@ -737,6 +921,14 @@
       "onboard_time": 1658320893,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535842,
+      "num": 535842,
+      "word": "难怪总感觉自己素质低了点",
+      "onboard_time": 1658403102,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 534954,
@@ -787,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506444,
+      "num": 506444,
+      "word": "员工辟谣男子商场内掐死女友",
+      "onboard_time": 1658398660,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503104,
       "num": 431199,
       "word": "星汉灿烂为何上头",
@@ -811,12 +1011,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 493948,
-      "num": 493948,
-      "word": "醒狮",
-      "onboard_time": 1658396686,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 488924,
+      "num": 434005,
+      "word": "刘畊宏直播",
+      "onboard_time": 1658410541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 486562,
+      "num": 486562,
+      "word": "微信上线打车功能",
+      "onboard_time": 1658401118,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 484961,
@@ -843,14 +1051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 481516,
-      "num": 481516,
-      "word": "员工辟谣男子商场内掐死女友",
-      "onboard_time": 1658398660,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480817,
       "num": 480817,
       "word": "河南村镇银行将开始第二批垫付",
@@ -865,6 +1065,14 @@
       "onboard_time": 1658375015,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 468434,
+      "num": 468434,
+      "word": "警方辟谣女子在万达广场被掐死",
+      "onboard_time": 1658402978,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466887,
@@ -923,12 +1131,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438381,
+      "num": 438381,
+      "word": "该不该主动提出给老人拍遗照",
+      "onboard_time": 1658411024,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 437248,
+      "num": 437248,
+      "word": "为什么越来越爱买国货",
+      "onboard_time": 1658403040,
+      "rank": 34,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 436503,
+      "num": 436503,
+      "word": "陌生男子经过一脚将孩子踢下泳池",
+      "onboard_time": 1658404179,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436057,
+      "num": 419414,
+      "word": "少年派",
+      "onboard_time": 1658389477,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430598,
       "num": 430598,
       "word": "特斯拉发布2022年第二季度财报",
       "onboard_time": 1658360907,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427241,
+      "num": 427241,
+      "word": "只有我能骂自己",
+      "onboard_time": 1658411141,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 423507,
@@ -1019,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395674,
+      "num": 395674,
+      "word": "陈梦vs早田希娜",
+      "onboard_time": 1658405197,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395263,
       "num": 395263,
       "word": "贵州老字号羊肉粉有多绝",
@@ -1075,14 +1331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 387034,
-      "num": 387034,
-      "word": "少年派",
-      "onboard_time": 1658389477,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 386841,
       "num": 386841,
       "word": "马龙惜败于弗朗西斯卡",
@@ -1105,6 +1353,14 @@
       "onboard_time": 1658376516,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378225,
+      "num": 378225,
+      "word": "四川大剧院",
+      "onboard_time": 1658407174,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378003,
@@ -1179,11 +1435,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364087,
+      "num": 302445,
+      "word": "姚译添吐槽录奔跑吧管不住嘉宾太累了",
+      "onboard_time": 1658409644,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362870,
       "num": 362870,
       "word": "美军方对佩洛西访台表示担忧",
       "onboard_time": 1658368348,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361305,
+      "num": 361305,
+      "word": "男子醉酒躺河里睡觉被当成浮尸",
+      "onboard_time": 1658408617,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1219,6 +1491,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 355153,
+      "num": 355153,
+      "word": "梁靖崑vs庄智渊",
+      "onboard_time": 1658408980,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 353023,
+      "num": 353023,
+      "word": "苏东坡写出了遗憾的最高境界",
+      "onboard_time": 1658397941,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345258,
       "num": 229990,
       "word": "杨紫颜淡三大美德",
@@ -1241,6 +1529,14 @@
       "onboard_time": 1658328942,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342899,
+      "num": 301611,
+      "word": "林妙妙江天昊过夜被妈妈抓",
+      "onboard_time": 1658412339,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 342779,
@@ -1307,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334179,
+      "num": 343950,
+      "word": "莫尔穆成印度第二位女总统",
+      "onboard_time": 1658408737,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 333804,
       "num": 333804,
       "word": "万菱汇",
@@ -1323,6 +1627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 330918,
+      "num": 330918,
+      "word": "KPL最出圈的选手一诺",
+      "onboard_time": 1658407536,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330828,
       "num": 330828,
       "word": "大妈买菜时偷走摊主整筐硬币",
@@ -1331,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330454,
+      "num": 297125,
+      "word": "凌不疑府邸像军营",
+      "onboard_time": 1658407357,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329473,
       "num": 329473,
       "word": "可折叠的iPhone要等到2025年",
       "onboard_time": 1658388273,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 326044,
-      "num": 326044,
-      "word": "苏东坡写出了遗憾的最高境界",
-      "onboard_time": 1658397941,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 324579,
@@ -1377,14 +1689,6 @@
       "onboard_time": 1658366789,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 313447,
-      "num": 223315,
-      "word": "星汉灿烂",
-      "onboard_time": 1658329955,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 311716,
@@ -1443,6 +1747,14 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 300263,
+      "num": 300263,
+      "word": "梁靖崑2比3庄智渊",
+      "onboard_time": 1658410480,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298158,
       "num": 298158,
       "word": "徐嘉余家人回应",
@@ -1473,6 +1785,14 @@
       "onboard_time": 1658394580,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294047,
+      "num": 294047,
+      "word": "店主庆祝孩子考上重点挂打折横幅",
+      "onboard_time": 1658401541,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293106,
@@ -1539,12 +1859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277297,
-      "num": 277297,
-      "word": "微信上线打车功能",
-      "onboard_time": 1658401118,
-      "rank": 32,
-      "category": "科技"
+      "raw_hot": 277224,
+      "num": 277224,
+      "word": "福建专升本",
+      "onboard_time": 1658411920,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 276583,
@@ -1611,12 +1931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261733,
+      "num": 261733,
+      "word": "男孩捅蜂窝被蛰半边脸肿成球",
+      "onboard_time": 1658408559,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261302,
       "num": 233413,
       "word": "成毅演技",
       "onboard_time": 1658338517,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260484,
+      "num": 260484,
+      "word": "支教11年老师离开孩子哭成泪人",
+      "onboard_time": 1658404241,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258959,
@@ -1667,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250732,
+      "num": 250732,
+      "word": "广西省考",
+      "onboard_time": 1658405378,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 250085,
       "num": 250085,
       "word": "老家的什么在保佑离家的你",
@@ -1681,6 +2025,22 @@
       "onboard_time": 1658374112,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249111,
+      "num": 249111,
+      "word": "6楼坠落被徒手接住女童表示感谢",
+      "onboard_time": 1658400102,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248272,
+      "num": 248272,
+      "word": "少年派2连更4天",
+      "onboard_time": 1658406996,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 247525,
@@ -1723,12 +2083,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240877,
+      "num": 240877,
+      "word": "荣耀平板8价格",
+      "onboard_time": 1658408380,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 240201,
       "num": 240201,
       "word": "男子卫生间强拽女子被采取刑事强制措施",
       "onboard_time": 1658308118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239411,
+      "num": 239411,
+      "word": "村镇篮球赛观众整齐酷似NBA",
+      "onboard_time": 1658409400,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 239270,
@@ -1793,14 +2169,6 @@
       "onboard_time": 1658370689,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223272,
-      "num": 223272,
-      "word": "6楼坠落被徒手接住女童表示感谢",
-      "onboard_time": 1658400102,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216959,
@@ -1987,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169135,
-      "num": 169135,
-      "word": "店主庆祝孩子考上重点挂打折横幅",
-      "onboard_time": 1658401541,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167424,
       "num": 167424,
       "word": "KPL",
@@ -2011,6 +2371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159856,
+      "num": 159856,
+      "word": "乐爱豆",
+      "onboard_time": 1658410363,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154217,
       "num": 154217,
       "word": "中国男篮 可惜",
@@ -2020,7 +2388,7 @@
     },
     {
       "raw_hot": 153147,
-      "num": 2010830,
+      "num": 2278673,
       "word": "祝融号在火星过冬至",
       "onboard_time": 1658392658,
       "rank": 2,
@@ -2057,6 +2425,14 @@
       "onboard_time": 1658332766,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139017,
+      "num": 139017,
+      "word": "4AM吃鸡",
+      "onboard_time": 1658412221,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 137782,
