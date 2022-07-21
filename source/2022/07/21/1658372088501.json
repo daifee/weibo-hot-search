@@ -1,0 +1,410 @@
+{
+  "runTime": 1658372088501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2449400,
+        "num": 2449400,
+        "word": "iPhone15全系叹号屏",
+        "onboard_time": 1658370629,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2175091,
+        "num": 2175091,
+        "word": "民政局回应河南女子36岁当奶奶",
+        "onboard_time": 1658367868,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331564,
+        "num": 1895243,
+        "word": "巨魔芋一生只开三四次花",
+        "onboard_time": 1658355434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1668686,
+        "num": 1668686,
+        "word": "歌手李健人民日报撰文",
+        "onboard_time": 1658370329,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1502785,
+        "num": 1502785,
+        "word": "女子发烧裹被捂汗患热射病送ICU",
+        "onboard_time": 1658368649,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359085,
+        "num": 1359085,
+        "word": "被弃垃圾桶婴儿父母已找到",
+        "onboard_time": 1658364509,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213628,
+        "num": 1213628,
+        "word": "卫生间拖拽涉事双方非男女朋友",
+        "onboard_time": 1658369551,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158321,
+        "num": 1158321,
+        "word": "北电2018级表演系本科班毕业照",
+        "onboard_time": 1658367987,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741458,
+        "num": 741458,
+        "word": "孤寡老人购600多个快递不拆堆满家",
+        "onboard_time": 1658365891,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726747,
+        "num": 726747,
+        "word": "谷爱凌与库里汤普森同框",
+        "onboard_time": 1658365469,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1283118,
+        "num": 701161,
+        "word": "北大调查陈春花学历事件",
+        "onboard_time": 1658369248,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187034,
+        "num": 682142,
+        "word": "金智秀2022世首美",
+        "onboard_time": 1658367449,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657052,
+        "num": 657052,
+        "word": "原来取名还能带字母",
+        "onboard_time": 1658360907,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 641953,
+        "num": 641953,
+        "word": "男子偷前同事手机进工作群骂领导",
+        "onboard_time": 1658367569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554449,
+        "num": 554449,
+        "word": "希林娜依高 抄袭",
+        "onboard_time": 1658328757,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522119,
+        "num": 522119,
+        "word": "刘恋说北大没有校训",
+        "onboard_time": 1658365591,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521722,
+        "num": 521722,
+        "word": "嫋嫋小书包",
+        "onboard_time": 1658340554,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483294,
+        "num": 483294,
+        "word": "谷爱凌中文致谢",
+        "onboard_time": 1658368829,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466053,
+        "num": 466053,
+        "word": "河南村镇银行将开始第二批垫付",
+        "onboard_time": 1658369849,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439258,
+        "num": 439258,
+        "word": "teams",
+        "onboard_time": 1658371229,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 560345,
+        "num": 436276,
+        "word": "拖拽女子男子在隔间内当女子面小便",
+        "onboard_time": 1658334567,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426236,
+        "num": 426236,
+        "word": "王冰冰徐嘉余闪闪发光的少年",
+        "onboard_time": 1658370930,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400483,
+        "num": 400483,
+        "word": "小肚子不扁下去都难了",
+        "onboard_time": 1658319991,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369767,
+        "num": 369767,
+        "word": "张艺兴大航海2线上演唱会官宣",
+        "onboard_time": 1658371769,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366730,
+        "num": 366730,
+        "word": "马龙惜败于弗朗西斯卡",
+        "onboard_time": 1658369489,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362870,
+        "num": 362870,
+        "word": "美军方对佩洛西访台表示担忧",
+        "onboard_time": 1658368348,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332865,
+        "num": 332865,
+        "word": "iOS15.6修复显示储存空间已满问题",
+        "onboard_time": 1658365770,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330828,
+        "num": 330828,
+        "word": "大妈买菜时偷走摊主整筐硬币",
+        "onboard_time": 1658364031,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315221,
+        "num": 315221,
+        "word": "石家庄市直",
+        "onboard_time": 1658366789,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 289103,
+        "num": 289103,
+        "word": "男子偷800多件女装打扮充气娃娃",
+        "onboard_time": 1658356756,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270359,
+        "num": 270359,
+        "word": "黄桃罐头会保佑每一个东北孩子",
+        "onboard_time": 1658359762,
+        "rank": 30,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 267852,
+        "num": 267852,
+        "word": "小区池塘发现2亿年前远古生物",
+        "onboard_time": 1658360366,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265297,
+        "num": 265297,
+        "word": "河南新增76例本土无症状",
+        "onboard_time": 1658365232,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254732,
+        "num": 254732,
+        "word": "男子被蜘蛛咬后手臂肿得发亮进ICU",
+        "onboard_time": 1658352011,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251692,
+        "num": 251692,
+        "word": "甘肃增本土无症状314例",
+        "onboard_time": 1658367208,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241045,
+        "num": 241045,
+        "word": "沉香如屑追剧tips",
+        "onboard_time": 1658369008,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225308,
+        "num": 225308,
+        "word": "黑龙江省考",
+        "onboard_time": 1658371468,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224428,
+        "num": 224428,
+        "word": "一刻也不想离开奶奶的猫咪",
+        "onboard_time": 1658370689,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223480,
+        "num": 223480,
+        "word": "温州人的房间都一个样",
+        "onboard_time": 1658362829,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 220294,
+        "num": 220294,
+        "word": "南方不少地区体感或超60度",
+        "onboard_time": 1658372006,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215833,
+        "num": 215833,
+        "word": "男子离异后拒绝让9岁儿子上学",
+        "onboard_time": 1658349971,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207545,
+        "num": 207545,
+        "word": "郑州房价跌回5年前",
+        "onboard_time": 1658351771,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 207319,
+        "num": 207319,
+        "word": "凌不疑叫程少商弱弱",
+        "onboard_time": 1658338337,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196774,
+        "num": 196774,
+        "word": "女医学博士地铁救人后悄然离开",
+        "onboard_time": 1658369008,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 189680,
+        "num": 189680,
+        "word": "北海新增本土无症状131例",
+        "onboard_time": 1658366908,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175985,
+        "num": 175985,
+        "word": "难看",
+        "onboard_time": 1658320836,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175537,
+        "num": 175537,
+        "word": "花季少女全身90%烧伤容貌尽毁",
+        "onboard_time": 1658342292,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156526,
+        "num": 156526,
+        "word": "马龙2比3弗朗西斯卡",
+        "onboard_time": 1658362412,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153994,
+        "num": 153994,
+        "word": "沉香如屑预告vs沉香如屑正片",
+        "onboard_time": 1658330791,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143179,
+        "num": 143179,
+        "word": "普京称西方的地位是靠抢劫得来的",
+        "onboard_time": 1658371890,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
