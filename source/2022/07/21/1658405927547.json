@@ -1,0 +1,410 @@
+{
+  "runTime": 1658405927547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2314330,
+        "num": 2314330,
+        "word": "赵今麦郭俊辰吻戏",
+        "onboard_time": 1658401479,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1460915,
+        "num": 1460915,
+        "word": "羽生结弦申请退出日本国家队",
+        "onboard_time": 1658403040,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83875,
+        "num": 1369243,
+        "word": "祝融号在火星过冬至",
+        "onboard_time": 1658392658,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1302849,
+        "num": 1302849,
+        "word": "布洛芬不接急单",
+        "onboard_time": 1658398302,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1088271,
+        "num": 1088271,
+        "word": "新冠病毒变异长期存在",
+        "onboard_time": 1658403219,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031116,
+        "num": 1031116,
+        "word": "少年派2",
+        "onboard_time": 1658385278,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899959,
+        "num": 899959,
+        "word": "邓紫棋孙晨竣第一次约会",
+        "onboard_time": 1658403937,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 777273,
+        "num": 777273,
+        "word": "小女孩生病没让座被大爷骂没教养",
+        "onboard_time": 1658398122,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626214,
+        "num": 626214,
+        "word": "拜登自称患癌症",
+        "onboard_time": 1658383538,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 596880,
+        "num": 596880,
+        "word": "滴滴被处80.26亿元罚款",
+        "onboard_time": 1658380655,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 661042,
+        "num": 595913,
+        "word": "林妙妙钱三一再现碰头杀",
+        "onboard_time": 1658404959,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582514,
+        "num": 582514,
+        "word": "上海LadyM门店被外卖小哥挤爆",
+        "onboard_time": 1658397882,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541844,
+        "num": 541844,
+        "word": "河南55亿支持七所高校创建双一流",
+        "onboard_time": 1658403337,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 535842,
+        "num": 535842,
+        "word": "难怪总感觉自己素质低了点",
+        "onboard_time": 1658403102,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 500098,
+        "num": 500098,
+        "word": "韩孝周新冠确诊",
+        "onboard_time": 1658400040,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468434,
+        "num": 468434,
+        "word": "警方辟谣女子在万达广场被掐死",
+        "onboard_time": 1658402978,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447193,
+        "num": 447193,
+        "word": "汪苏泷发长文",
+        "onboard_time": 1658389956,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 438181,
+        "num": 438181,
+        "word": "广州一穿浴袍女子站高楼窗外",
+        "onboard_time": 1658390377,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437248,
+        "num": 437248,
+        "word": "为什么越来越爱买国货",
+        "onboard_time": 1658403040,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 430194,
+        "num": 430194,
+        "word": "成都警方通报男子小区内跳楼身亡",
+        "onboard_time": 1658395185,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427107,
+        "num": 427107,
+        "word": "微信上线打车功能",
+        "onboard_time": 1658401118,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 436057,
+        "num": 419414,
+        "word": "少年派",
+        "onboard_time": 1658389477,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410647,
+        "num": 410647,
+        "word": "吾悦华府",
+        "onboard_time": 1658392117,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395674,
+        "num": 395674,
+        "word": "陈梦vs早田希娜",
+        "onboard_time": 1658405197,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372035,
+        "num": 372035,
+        "word": "陌生男子经过一脚将孩子踢下泳池",
+        "onboard_time": 1658404179,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345870,
+        "num": 345870,
+        "word": "醒狮",
+        "onboard_time": 1658396686,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301429,
+        "num": 301429,
+        "word": "苏东坡写出了遗憾的最高境界",
+        "onboard_time": 1658397941,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297011,
+        "num": 297011,
+        "word": "员工辟谣男子商场内掐死女友",
+        "onboard_time": 1658398660,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267718,
+        "num": 267718,
+        "word": "董宇辉回应东方甄选拉黑罗敏",
+        "onboard_time": 1658391819,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260484,
+        "num": 260484,
+        "word": "支教11年老师离开孩子哭成泪人",
+        "onboard_time": 1658404241,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1098028,
+        "num": 259635,
+        "word": "阿里罚款",
+        "onboard_time": 1658402499,
+        "rank": 30,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 250732,
+        "num": 250732,
+        "word": "广西省考",
+        "onboard_time": 1658405378,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 249111,
+        "num": 249111,
+        "word": "6楼坠落被徒手接住女童表示感谢",
+        "onboard_time": 1658400102,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247129,
+        "num": 247129,
+        "word": "店主庆祝孩子考上重点挂打折横幅",
+        "onboard_time": 1658401541,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245422,
+        "num": 245422,
+        "word": "温州直接改名叫烫州吧",
+        "onboard_time": 1658396922,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227787,
+        "num": 227787,
+        "word": "南审",
+        "onboard_time": 1658386414,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225459,
+        "num": 225459,
+        "word": "救人男子女儿与坠楼女童同名",
+        "onboard_time": 1658389775,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221599,
+        "num": 221599,
+        "word": "主人吃螺蛳粉金毛捂鼻嫌弃",
+        "onboard_time": 1658405138,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218744,
+        "num": 218744,
+        "word": "外交部回应所谓中国试图让美国衰落",
+        "onboard_time": 1658399319,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 216025,
+        "num": 216025,
+        "word": "时代少年团乌托邦少年系列专辑",
+        "onboard_time": 1658400999,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196040,
+        "num": 196040,
+        "word": "男子把全部遗产留给女友父母闹上法庭",
+        "onboard_time": 1658381076,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193022,
+        "num": 193022,
+        "word": "广东一妈妈连生5个高颜值萌娃",
+        "onboard_time": 1658404778,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185743,
+        "num": 185743,
+        "word": "少年派2今日开播",
+        "onboard_time": 1658400821,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181715,
+        "num": 181715,
+        "word": "张九南暂停演出",
+        "onboard_time": 1658385693,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164299,
+        "num": 164299,
+        "word": "优酷投屏收费",
+        "onboard_time": 1658405858,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157777,
+        "num": 157777,
+        "word": "德云社",
+        "onboard_time": 1658398902,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156789,
+        "num": 156789,
+        "word": "赵露思早期跳舞视频",
+        "onboard_time": 1658397882,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153328,
+        "num": 153328,
+        "word": "比亚迪宣布进入日本乘用车市场",
+        "onboard_time": 1658392059,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147941,
+        "num": 147941,
+        "word": "程序员5年陪盲友跑3000公里",
+        "onboard_time": 1658392958,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "为免门票爸爸边上厕所边背滕王阁序",
+        "onboard_time": 1658391037,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
