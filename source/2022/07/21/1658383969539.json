@@ -1,0 +1,410 @@
+{
+  "runTime": 1658383969539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13719820,
+        "num": 14553838,
+        "word": "滴滴被处80.26亿元罚款",
+        "onboard_time": 1658380655,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 2084424,
+        "num": 2084424,
+        "word": "滴滴存在16项违法事实",
+        "onboard_time": 1658381076,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 591244,
+        "num": 1886076,
+        "word": "南方不少地区体感或超60度",
+        "onboard_time": 1658372006,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1794064,
+        "num": 1794064,
+        "word": "滴滴过度收集1.07亿条乘客人脸识别信息",
+        "onboard_time": 1658381905,
+        "rank": 3,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1335714,
+        "num": 1335714,
+        "word": "滴滴回应被行政处罚",
+        "onboard_time": 1658381979,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1316270,
+        "num": 1316270,
+        "word": "外卖员因电梯误时殴打同乘业主",
+        "onboard_time": 1658379160,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1227290,
+        "num": 1227290,
+        "word": "智性恋",
+        "onboard_time": 1658378018,
+        "rank": 6,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 1068429,
+        "num": 1068429,
+        "word": "男子把全部遗产留给女友父母闹上法庭",
+        "onboard_time": 1658381076,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872291,
+        "num": 872291,
+        "word": "LADYM退出中国内地",
+        "onboard_time": 1658378140,
+        "rank": 8,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 788574,
+        "num": 788574,
+        "word": "网信办对滴滴作出行政处罚",
+        "onboard_time": 1658380537,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 994772,
+        "num": 779470,
+        "word": "iPhone15全系叹号屏",
+        "onboard_time": 1658370629,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 739067,
+        "num": 739067,
+        "word": "撒贝宁央视主持现场睡着了",
+        "onboard_time": 1658377300,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698324,
+        "num": 698324,
+        "word": "江苏一公司下班检查手机使用时长",
+        "onboard_time": 1658381376,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670773,
+        "num": 670773,
+        "word": "张歆艺瘦身全靠卷",
+        "onboard_time": 1658380416,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16451,
+        "num": 645575,
+        "word": "为了实现梦想能有多拼",
+        "onboard_time": 1658383237,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630337,
+        "num": 630337,
+        "word": "滴滴程维柳青各被罚100万",
+        "onboard_time": 1658381315,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 562849,
+        "num": 562849,
+        "word": "网易云音乐与YG达成战略合作",
+        "onboard_time": 1658379340,
+        "rank": 16,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 446379,
+        "num": 446379,
+        "word": "魏家凉皮回应200米配送费7.5元",
+        "onboard_time": 1658382279,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 437291,
+        "num": 437291,
+        "word": "律师帮被性骚扰女孩索要7位数赔偿",
+        "onboard_time": 1658380895,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436418,
+        "num": 436418,
+        "word": "金智秀2022世首美",
+        "onboard_time": 1658367449,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429681,
+        "num": 429681,
+        "word": "民政局回应河南女子36岁当奶奶",
+        "onboard_time": 1658367868,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422119,
+        "num": 422119,
+        "word": "星汉灿烂为何上头",
+        "onboard_time": 1658379279,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399146,
+        "num": 399146,
+        "word": "AirPodsPro2或不支持老iPhone",
+        "onboard_time": 1658375976,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 366519,
+        "num": 366519,
+        "word": "LPL选手版赢回来",
+        "onboard_time": 1658383059,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366012,
+        "num": 366012,
+        "word": "东北人凉席购买量反超南方",
+        "onboard_time": 1658378318,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 355825,
+        "num": 355825,
+        "word": "拜登自称患癌症",
+        "onboard_time": 1658383538,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 354386,
+        "num": 354386,
+        "word": "被弃垃圾桶婴儿父母已找到",
+        "onboard_time": 1658364509,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349922,
+        "num": 349922,
+        "word": "杨紫成毅演的是喜剧吧",
+        "onboard_time": 1658383418,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349205,
+        "num": 349205,
+        "word": "印度海军航母发生火灾",
+        "onboard_time": 1658379819,
+        "rank": 28,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 339381,
+        "num": 339381,
+        "word": "众星给张艺兴线上演唱会打call",
+        "onboard_time": 1658378920,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317442,
+        "num": 317442,
+        "word": "密室大逃脱",
+        "onboard_time": 1658377179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302853,
+        "num": 302853,
+        "word": "北大调查陈春花学历事件",
+        "onboard_time": 1658369248,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286997,
+        "num": 286997,
+        "word": "北京9月开学16区全部开展教师轮岗",
+        "onboard_time": 1658376937,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281831,
+        "num": 281831,
+        "word": "张一山对徐冬冬说好久不见嫂子",
+        "onboard_time": 1658382398,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278828,
+        "num": 278828,
+        "word": "上海不得以曾患传染病为由拒录员工",
+        "onboard_time": 1658382818,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261642,
+        "num": 261642,
+        "word": "小伙熬夜打游戏太激动险丧命",
+        "onboard_time": 1658382757,
+        "rank": 35,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 255183,
+        "num": 255183,
+        "word": "大张伟说挡着点杨幂",
+        "onboard_time": 1658383717,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254815,
+        "num": 254815,
+        "word": "万菱汇",
+        "onboard_time": 1658382876,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254724,
+        "num": 254724,
+        "word": "中国游戏市场上半年收入1477亿元",
+        "onboard_time": 1658379579,
+        "rank": 38,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 252021,
+        "num": 252021,
+        "word": "女子发烧裹被捂汗患热射病送ICU",
+        "onboard_time": 1658368649,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226076,
+        "num": 226076,
+        "word": "你会住在这样的地下室吗",
+        "onboard_time": 1658377599,
+        "rank": 40,
+        "category": "时尚,情感"
+      },
+      {
+        "raw_hot": 207732,
+        "num": 207732,
+        "word": "瞄准你的未来开播",
+        "onboard_time": 1658382040,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204325,
+        "num": 204325,
+        "word": "重庆江津报告3例新冠肺炎确诊病例",
+        "onboard_time": 1658380838,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195381,
+        "num": 195381,
+        "word": "如何查询手机号是否被别人冒用注册",
+        "onboard_time": 1658378979,
+        "rank": 43,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 193141,
+        "num": 193141,
+        "word": "歌手李健人民日报撰文",
+        "onboard_time": 1658370329,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188744,
+        "num": 188744,
+        "word": "原来取名还能带字母",
+        "onboard_time": 1658360907,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180191,
+        "num": 180191,
+        "word": "AI数字人能通过图灵测试吗",
+        "onboard_time": 1658382398,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164699,
+        "num": 164699,
+        "word": "四川人有多爱吃面",
+        "onboard_time": 1658376999,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161558,
+        "num": 161558,
+        "word": "马龙惜败于弗朗西斯卡",
+        "onboard_time": 1658369489,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157145,
+        "num": 157145,
+        "word": "沈腾马丽我的互联网嘴替",
+        "onboard_time": 1658372972,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
