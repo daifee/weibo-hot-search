@@ -1,0 +1,410 @@
+{
+  "runTime": 1658365017704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2550730,
+        "num": 2550730,
+        "word": "小区池塘发现2亿年前远古生物",
+        "onboard_time": 1658360366,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430046,
+        "num": 1430046,
+        "word": "小肚子不扁下去都难了",
+        "onboard_time": 1658319991,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534954,
+        "num": 1307086,
+        "word": "巨魔芋一生只开三四次花",
+        "onboard_time": 1658355434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201175,
+        "num": 1201175,
+        "word": "希林娜依高 抄袭",
+        "onboard_time": 1658328757,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995996,
+        "num": 995996,
+        "word": "郑州房价跌回5年前",
+        "onboard_time": 1658351771,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 875151,
+        "num": 875151,
+        "word": "原来取名还能带字母",
+        "onboard_time": 1658360907,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 869459,
+        "num": 869459,
+        "word": "嫋嫋小书包",
+        "onboard_time": 1658340554,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 830104,
+        "num": 830104,
+        "word": "男子离异后拒绝让9岁儿子上学",
+        "onboard_time": 1658349971,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724368,
+        "num": 724368,
+        "word": "女医学博士生地铁救醒昏迷男子",
+        "onboard_time": 1658358142,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 709585,
+        "num": 709585,
+        "word": "刘恋带北大毕业证去浪姐没人看",
+        "onboard_time": 1658334326,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659560,
+        "num": 659560,
+        "word": "黄桃罐头会保佑每一个东北孩子",
+        "onboard_time": 1658359762,
+        "rank": 10,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 588991,
+        "num": 588991,
+        "word": "王冰冰朋友圈",
+        "onboard_time": 1658308956,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 574451,
+        "num": 574451,
+        "word": "男子被蜘蛛咬后手臂肿得发亮进ICU",
+        "onboard_time": 1658352011,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540190,
+        "num": 540190,
+        "word": "马龙2比3弗朗西斯卡",
+        "onboard_time": 1658362412,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508433,
+        "num": 508433,
+        "word": "上海近30年老牌蛋糕房大门紧闭",
+        "onboard_time": 1658343972,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484961,
+        "num": 484961,
+        "word": "凌不疑叫程少商弱弱",
+        "onboard_time": 1658338337,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441545,
+        "num": 441545,
+        "word": "沉香如屑预告vs沉香如屑正片",
+        "onboard_time": 1658330791,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430598,
+        "num": 430598,
+        "word": "特斯拉发布2022年第二季度财报",
+        "onboard_time": 1658360907,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409179,
+        "num": 409179,
+        "word": "温州人的房间都一个样",
+        "onboard_time": 1658362829,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399422,
+        "num": 399422,
+        "word": "山东青州海选李清照遭质疑",
+        "onboard_time": 1658360486,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665883,
+        "num": 397945,
+        "word": "男子偷800多件女装打扮充气娃娃",
+        "onboard_time": 1658356756,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587359,
+        "num": 397745,
+        "word": "拖拽女子男子在隔间内当女子面小便",
+        "onboard_time": 1658334567,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391768,
+        "num": 391768,
+        "word": "丹东一医院数月未发工资",
+        "onboard_time": 1658347031,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378003,
+        "num": 378003,
+        "word": "何幸福让万传家把刑期当学期",
+        "onboard_time": 1658326413,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375230,
+        "num": 375230,
+        "word": "花季少女全身90%烧伤容貌尽毁",
+        "onboard_time": 1658342292,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369683,
+        "num": 369683,
+        "word": "杨紫原声台词功底",
+        "onboard_time": 1658361389,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342195,
+        "num": 342195,
+        "word": "微信支持全屏输入",
+        "onboard_time": 1658321674,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 334363,
+        "num": 334363,
+        "word": "龙卷风",
+        "onboard_time": 1658360302,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324078,
+        "num": 324078,
+        "word": "安徽增本土确诊7例",
+        "onboard_time": 1658363913,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306797,
+        "num": 306797,
+        "word": "幸福生二胎了",
+        "onboard_time": 1658318731,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426820,
+        "num": 306703,
+        "word": "河南36岁女子升级当奶奶",
+        "onboard_time": 1658327197,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303537,
+        "num": 303537,
+        "word": "大妈买菜时偷走摊主整筐硬币",
+        "onboard_time": 1658364031,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287487,
+        "num": 287487,
+        "word": "被弃垃圾桶婴儿父母已找到",
+        "onboard_time": 1658364509,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276583,
+        "num": 276583,
+        "word": "连云港龙卷风已致26人受伤",
+        "onboard_time": 1658361749,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275682,
+        "num": 275682,
+        "word": "毛俊杰商业版图",
+        "onboard_time": 1658320712,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266249,
+        "num": 266249,
+        "word": "拉宏桑 山城小栗旬",
+        "onboard_time": 1658320893,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262105,
+        "num": 262105,
+        "word": "杜锋道歉",
+        "onboard_time": 1658332109,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250609,
+        "num": 250609,
+        "word": "易烊千玺同时提名百花奖男主男配",
+        "onboard_time": 1658303612,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246819,
+        "num": 246819,
+        "word": "难看",
+        "onboard_time": 1658320836,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242467,
+        "num": 242467,
+        "word": "男篮亚洲杯中国队无缘四强",
+        "onboard_time": 1658335462,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237571,
+        "num": 237571,
+        "word": "乌克兰核电站遭无人机袭击",
+        "onboard_time": 1658325035,
+        "rank": 40,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 233413,
+        "num": 233413,
+        "word": "成毅演技",
+        "onboard_time": 1658338517,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229863,
+        "num": 229863,
+        "word": "植物人丈夫被妻子唤醒说谢谢",
+        "onboard_time": 1658322995,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203734,
+        "num": 203734,
+        "word": "接坠楼幼童男子说救人出于父亲本能",
+        "onboard_time": 1658324133,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188382,
+        "num": 188382,
+        "word": "蒙犽秒杀皮肤",
+        "onboard_time": 1658324734,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188140,
+        "num": 188140,
+        "word": "兰州本轮疫情感染者已超1000例",
+        "onboard_time": 1658324854,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178012,
+        "num": 178012,
+        "word": "这冰棍冒汽儿",
+        "onboard_time": 1658364269,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176358,
+        "num": 176358,
+        "word": "张小斐百花奖最佳女主角提名",
+        "onboard_time": 1658308297,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175408,
+        "num": 175408,
+        "word": "女儿的复旦录取通知是妈妈送来的",
+        "onboard_time": 1658315491,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169559,
+        "num": 169559,
+        "word": "重庆新增本土无症状感染者2例",
+        "onboard_time": 1658364990,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
