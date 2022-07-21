@@ -1,0 +1,410 @@
+{
+  "runTime": 1658401700620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2610136,
+        "num": 2610136,
+        "word": "布洛芬不接急单",
+        "onboard_time": 1658398302,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1210629,
+        "num": 1210629,
+        "word": "滴滴被处80.26亿元罚款",
+        "onboard_time": 1658380655,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 103537,
+        "num": 1038672,
+        "word": "祝融号在火星过冬至",
+        "onboard_time": 1658392658,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1035293,
+        "num": 1035293,
+        "word": "温州直接改名叫烫州吧",
+        "onboard_time": 1658396922,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1027469,
+        "num": 1027469,
+        "word": "小女孩生病没让座被大爷骂没教养",
+        "onboard_time": 1658398122,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006709,
+        "num": 1006709,
+        "word": "少年派2",
+        "onboard_time": 1658385278,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 977392,
+        "num": 977392,
+        "word": "成都警方通报男子小区内跳楼身亡",
+        "onboard_time": 1658395185,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974953,
+        "num": 974953,
+        "word": "上海LadyM门店被外卖小哥挤爆",
+        "onboard_time": 1658397882,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823312,
+        "num": 823312,
+        "word": "拜登自称患癌症",
+        "onboard_time": 1658383538,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 721080,
+        "num": 721080,
+        "word": "赵今麦郭俊辰吻戏",
+        "onboard_time": 1658401479,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 806189,
+        "num": 712159,
+        "word": "汪苏泷发长文",
+        "onboard_time": 1658389956,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 771997,
+        "num": 710575,
+        "word": "韩孝周新冠确诊",
+        "onboard_time": 1658400040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695290,
+        "num": 695290,
+        "word": "广州一穿浴袍女子站高楼窗外",
+        "onboard_time": 1658390377,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633455,
+        "num": 633455,
+        "word": "董宇辉回应东方甄选拉黑罗敏",
+        "onboard_time": 1658391819,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 528158,
+        "num": 528158,
+        "word": "吾悦华府",
+        "onboard_time": 1658392117,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520307,
+        "num": 520307,
+        "word": "救人男子女儿与坠楼女童同名",
+        "onboard_time": 1658389775,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481516,
+        "num": 481516,
+        "word": "员工辟谣男子商场内掐死女友",
+        "onboard_time": 1658398660,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422362,
+        "num": 422362,
+        "word": "金莎新冠治愈后首次公开亮相",
+        "onboard_time": 1658394642,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 419925,
+        "num": 419925,
+        "word": "时代少年团乌托邦少年系列专辑",
+        "onboard_time": 1658400999,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361079,
+        "num": 361079,
+        "word": "外交部回应所谓中国试图让美国衰落",
+        "onboard_time": 1658399319,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 417093,
+        "num": 351095,
+        "word": "醒狮",
+        "onboard_time": 1658396686,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414556,
+        "num": 349253,
+        "word": "少年派2今日开播",
+        "onboard_time": 1658400821,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398167,
+        "num": 347450,
+        "word": "赵露思早期跳舞视频",
+        "onboard_time": 1658397882,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336409,
+        "num": 336409,
+        "word": "南审",
+        "onboard_time": 1658386414,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 326044,
+        "num": 326044,
+        "word": "苏东坡写出了遗憾的最高境界",
+        "onboard_time": 1658397941,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324125,
+        "num": 324125,
+        "word": "为免门票爸爸边上厕所边背滕王阁序",
+        "onboard_time": 1658391037,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323464,
+        "num": 323464,
+        "word": "比亚迪宣布进入日本乘用车市场",
+        "onboard_time": 1658392059,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316170,
+        "num": 316170,
+        "word": "研究发现基因突变可预测",
+        "onboard_time": 1658396027,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308820,
+        "num": 308820,
+        "word": "贵州老字号羊肉粉有多绝",
+        "onboard_time": 1658397103,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288871,
+        "num": 288871,
+        "word": "男子把全部遗产留给女友父母闹上法庭",
+        "onboard_time": 1658381076,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315285,
+        "num": 284868,
+        "word": "少年派",
+        "onboard_time": 1658389477,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306807,
+        "num": 282706,
+        "word": "张九南暂停演出",
+        "onboard_time": 1658385693,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277297,
+        "num": 277297,
+        "word": "微信上线打车功能",
+        "onboard_time": 1658401118,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 250085,
+        "num": 250085,
+        "word": "老家的什么在保佑离家的你",
+        "onboard_time": 1658398902,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238442,
+        "num": 238442,
+        "word": "程序员5年陪盲友跑3000公里",
+        "onboard_time": 1658392958,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 224259,
+        "num": 224259,
+        "word": "德云社",
+        "onboard_time": 1658398902,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223272,
+        "num": 223272,
+        "word": "6楼坠落被徒手接住女童表示感谢",
+        "onboard_time": 1658400102,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221882,
+        "num": 221882,
+        "word": "智性恋",
+        "onboard_time": 1658378018,
+        "rank": 37,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 215910,
+        "num": 215910,
+        "word": "我国海关截获国内从未见分布蟑螂",
+        "onboard_time": 1658388814,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211728,
+        "num": 211728,
+        "word": "一时间不知先顾哪个",
+        "onboard_time": 1658399799,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205285,
+        "num": 205285,
+        "word": "特朗普出席前妻伊万娜葬礼",
+        "onboard_time": 1658388036,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194810,
+        "num": 194810,
+        "word": "大张伟说挡着点杨幂",
+        "onboard_time": 1658383717,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 169343,
+        "word": "河南省考笔试最低合格分数线为40分",
+        "onboard_time": 1658393857,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "店主庆祝孩子考上重点挂打折横幅",
+        "onboard_time": 1658401541,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168193,
+        "num": 168193,
+        "word": "居民非必要不离龙泉驿区",
+        "onboard_time": 1658388096,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166909,
+        "num": 166909,
+        "word": "少年派2今晚八点播出",
+        "onboard_time": 1658391396,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161511,
+        "num": 161511,
+        "word": "可折叠的iPhone要等到2025年",
+        "onboard_time": 1658388273,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155673,
+        "num": 155673,
+        "word": "三元里",
+        "onboard_time": 1658395969,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155228,
+        "num": 155228,
+        "word": "魏家凉皮回应200米配送费7.5元",
+        "onboard_time": 1658382279,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 148253,
+        "num": 148253,
+        "word": "银保监会回应五家村镇银行事件",
+        "onboard_time": 1658395368,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
