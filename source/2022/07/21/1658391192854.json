@@ -1,0 +1,410 @@
+{
+  "runTime": 1658391192854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7296731,
+        "num": 7296731,
+        "word": "滴滴被处80.26亿元罚款",
+        "onboard_time": 1658380655,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 2003398,
+        "num": 2003398,
+        "word": "拜登自称患癌症",
+        "onboard_time": 1658383538,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 382255,
+        "num": 2002737,
+        "word": "南方不少地区体感或超60度",
+        "onboard_time": 1658372006,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2002724,
+        "num": 2002724,
+        "word": "汪苏泷发长文",
+        "onboard_time": 1658389956,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1536554,
+        "num": 1536554,
+        "word": "少年派2",
+        "onboard_time": 1658385278,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1249946,
+        "num": 1249946,
+        "word": "张九南暂停演出",
+        "onboard_time": 1658385693,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851923,
+        "num": 851923,
+        "word": "男子把全部遗产留给女友父母闹上法庭",
+        "onboard_time": 1658381076,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794793,
+        "num": 794793,
+        "word": "滴滴回应被行政处罚",
+        "onboard_time": 1658381979,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 595841,
+        "num": 595841,
+        "word": "河南省考",
+        "onboard_time": 1658387194,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 586297,
+        "num": 586297,
+        "word": "南审",
+        "onboard_time": 1658386414,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 916988,
+        "num": 585356,
+        "word": "叶青 沉香如屑",
+        "onboard_time": 1658386534,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 697518,
+        "num": 584646,
+        "word": "特朗普出席前妻伊万娜葬礼",
+        "onboard_time": 1658388036,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 574352,
+        "num": 574352,
+        "word": "iPhone15全系叹号屏",
+        "onboard_time": 1658370629,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 540081,
+        "num": 540081,
+        "word": "江苏一公司下班检查手机使用时长",
+        "onboard_time": 1658381376,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533031,
+        "num": 533031,
+        "word": "我国海关截获国内从未见分布蟑螂",
+        "onboard_time": 1658388814,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525280,
+        "num": 525280,
+        "word": "趵突泉里的鱼能有多胖",
+        "onboard_time": 1658385817,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466887,
+        "num": 466887,
+        "word": "那英摸金晨的腹肌",
+        "onboard_time": 1658388874,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446628,
+        "num": 446628,
+        "word": "居民非必要不离龙泉驿区",
+        "onboard_time": 1658388096,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439712,
+        "num": 439712,
+        "word": "智性恋",
+        "onboard_time": 1658378018,
+        "rank": 18,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 416270,
+        "num": 416270,
+        "word": "广州一穿浴袍女子站高楼窗外",
+        "onboard_time": 1658390377,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912092,
+        "num": 414938,
+        "word": "龙泉",
+        "onboard_time": 1658387435,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423509,
+        "num": 414458,
+        "word": "大张伟说挡着点杨幂",
+        "onboard_time": 1658383717,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413017,
+        "num": 413017,
+        "word": "蔡徐坤hugme海报520当天已剧透",
+        "onboard_time": 1658390556,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387034,
+        "num": 387034,
+        "word": "少年派",
+        "onboard_time": 1658389477,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383366,
+        "num": 383366,
+        "word": "魏家凉皮回应200米配送费7.5元",
+        "onboard_time": 1658382279,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 380440,
+        "num": 380440,
+        "word": "救人男子女儿与坠楼女童同名",
+        "onboard_time": 1658389775,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341425,
+        "num": 341425,
+        "word": "熬夜后身体会发生哪些变化",
+        "onboard_time": 1658387311,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319391,
+        "num": 319391,
+        "word": "可折叠的iPhone要等到2025年",
+        "onboard_time": 1658388273,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297245,
+        "num": 297245,
+        "word": "成都新增本土确诊13例",
+        "onboard_time": 1658387854,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256618,
+        "num": 256618,
+        "word": "外卖员因电梯误时殴打同乘业主",
+        "onboard_time": 1658379160,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 382778,
+        "num": 254534,
+        "word": "律师中年失业欠债百万",
+        "onboard_time": 1658389355,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339111,
+        "num": 253716,
+        "word": "贸易公司侵权肖战被判赔",
+        "onboard_time": 1658389596,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 328786,
+        "num": 253399,
+        "word": "彭昱畅打NPC",
+        "onboard_time": 1658384437,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252066,
+        "num": 252066,
+        "word": "小伙熬夜打游戏太激动险丧命",
+        "onboard_time": 1658382757,
+        "rank": 33,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 242979,
+        "num": 242979,
+        "word": "张歆艺瘦身全靠卷",
+        "onboard_time": 1658380416,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219444,
+        "num": 219444,
+        "word": "滴滴过度收集1.07亿条乘客人脸识别信息",
+        "onboard_time": 1658381905,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 217376,
+        "num": 217376,
+        "word": "上海不得以曾患传染病为由拒录员工",
+        "onboard_time": 1658382818,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213348,
+        "num": 213348,
+        "word": "AirPodsPro2或不支持老iPhone",
+        "onboard_time": 1658375976,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201366,
+        "num": 201366,
+        "word": "万菱汇",
+        "onboard_time": 1658382876,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190307,
+        "num": 190307,
+        "word": "冰棍雪糕冰淇淋究竟有啥区别",
+        "onboard_time": 1658385993,
+        "rank": 39,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 224239,
+        "num": 189329,
+        "word": "网易云音乐与YG达成战略合作",
+        "onboard_time": 1658379340,
+        "rank": 40,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 191099,
+        "num": 188451,
+        "word": "杨紫成毅演的是喜剧吧",
+        "onboard_time": 1658383418,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187164,
+        "num": 187164,
+        "word": "LADYM退出中国内地",
+        "onboard_time": 1658378140,
+        "rank": 42,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 158442,
+        "num": 158442,
+        "word": "小仓鼠钻进厕纸芯",
+        "onboard_time": 1658385096,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153327,
+        "num": 153327,
+        "word": "研究发现澳洲土语更适合AI",
+        "onboard_time": 1658387494,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150813,
+        "num": 150813,
+        "word": "北京9月开学16区全部开展教师轮岗",
+        "onboard_time": 1658376937,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139987,
+        "num": 139987,
+        "word": "印度海军航母发生火灾",
+        "onboard_time": 1658379819,
+        "rank": 46,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 137132,
+        "num": 137132,
+        "word": "湖北省考",
+        "onboard_time": 1658389956,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132941,
+        "num": 132941,
+        "word": "滴滴程维柳青各被罚100万",
+        "onboard_time": 1658381315,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 128719,
+        "num": 128719,
+        "word": "为免门票爸爸边上厕所边背滕王阁序",
+        "onboard_time": 1658391037,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
