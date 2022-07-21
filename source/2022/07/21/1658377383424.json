@@ -1,0 +1,410 @@
+{
+  "runTime": 1658377383424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2258832,
+        "num": 2258832,
+        "word": "iPhone15全系叹号屏",
+        "onboard_time": 1658370629,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1283665,
+        "num": 1283665,
+        "word": "民政局回应河南女子36岁当奶奶",
+        "onboard_time": 1658367868,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488558,
+        "num": 1103719,
+        "word": "南方不少地区体感或超60度",
+        "onboard_time": 1658372006,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2390646,
+        "num": 1075170,
+        "word": "吴磊方回应延毕",
+        "onboard_time": 1658376639,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022791,
+        "num": 1022791,
+        "word": "北大调查陈春花学历事件",
+        "onboard_time": 1658369248,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783657,
+        "num": 783657,
+        "word": "女子发烧裹被捂汗患热射病送ICU",
+        "onboard_time": 1658368649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774355,
+        "num": 774355,
+        "word": "被弃垃圾桶婴儿父母已找到",
+        "onboard_time": 1658364509,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733648,
+        "num": 733648,
+        "word": "原来取名还能带字母",
+        "onboard_time": 1658360907,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 673894,
+        "num": 673894,
+        "word": "歌手李健人民日报撰文",
+        "onboard_time": 1658370329,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636799,
+        "num": 636799,
+        "word": "沈腾马丽我的互联网嘴替",
+        "onboard_time": 1658372972,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788742,
+        "num": 635945,
+        "word": "金智秀2022世首美",
+        "onboard_time": 1658367449,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766029,
+        "num": 635945,
+        "word": "AirPodsPro2或不支持老iPhone",
+        "onboard_time": 1658375976,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 633828,
+        "num": 633828,
+        "word": "31至35岁成矿泉水核心消费人群",
+        "onboard_time": 1658373692,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 583070,
+        "num": 583070,
+        "word": "男子偷前同事手机进工作群骂领导",
+        "onboard_time": 1658367569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558245,
+        "num": 558245,
+        "word": "普京称西方的地位是靠抢劫得来的",
+        "onboard_time": 1658371890,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 502357,
+        "num": 502357,
+        "word": "未定事件簿",
+        "onboard_time": 1658372972,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 482288,
+        "num": 482288,
+        "word": "北电2018级表演系本科班毕业照",
+        "onboard_time": 1658367987,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433038,
+        "num": 433038,
+        "word": "中科院报告称硬科技离不开游戏技术",
+        "onboard_time": 1658375015,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 426822,
+        "num": 426822,
+        "word": "无锡一路灯塔倾倒致安装工人坠亡",
+        "onboard_time": 1658374594,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 415594,
+        "num": 415594,
+        "word": "teams",
+        "onboard_time": 1658371229,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 398202,
+        "num": 398202,
+        "word": "小伙溺水沉底瞬间冲上来6个好汉",
+        "onboard_time": 1658373630,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 388717,
+        "num": 388717,
+        "word": "国产首部山海经动画电影定档",
+        "onboard_time": 1658375196,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382173,
+        "num": 382173,
+        "word": "小马宝莉全新大电影定档",
+        "onboard_time": 1658376516,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379708,
+        "num": 379708,
+        "word": "希林娜依高 抄袭",
+        "onboard_time": 1658328757,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379698,
+        "num": 379698,
+        "word": "虞书欣配音独角兽小艺",
+        "onboard_time": 1658377059,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434361,
+        "num": 379585,
+        "word": "拖拽女子男子在隔间内当女子面小便",
+        "onboard_time": 1658334567,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377518,
+        "num": 377518,
+        "word": "马龙惜败于弗朗西斯卡",
+        "onboard_time": 1658369489,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355227,
+        "num": 355227,
+        "word": "工信部推出互联网账号一键查询",
+        "onboard_time": 1658372729,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 353003,
+        "num": 353003,
+        "word": "孤寡老人购600多个快递不拆堆满家",
+        "onboard_time": 1658365891,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338781,
+        "num": 338781,
+        "word": "微软",
+        "onboard_time": 1658373391,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 359753,
+        "num": 333134,
+        "word": "天才基本法明天见",
+        "onboard_time": 1658376455,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357034,
+        "num": 330824,
+        "word": "温州人的房间都一个样",
+        "onboard_time": 1658362829,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 342094,
+        "num": 328826,
+        "word": "嫋嫋小书包",
+        "onboard_time": 1658340554,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321663,
+        "num": 321663,
+        "word": "今年折叠屏市场将迎来爆发",
+        "onboard_time": 1658376156,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 316446,
+        "num": 316446,
+        "word": "武汉夜市推出浅尝套餐",
+        "onboard_time": 1658375674,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 304287,
+        "num": 304287,
+        "word": "杨紫你好星期六唱栓Q之歌",
+        "onboard_time": 1658373510,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292595,
+        "num": 292595,
+        "word": "北京9月开学16区全部开展教师轮岗",
+        "onboard_time": 1658376937,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285374,
+        "num": 285374,
+        "word": "大妈买菜时偷走摊主整筐硬币",
+        "onboard_time": 1658364031,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284384,
+        "num": 284384,
+        "word": "四川人有多爱吃面",
+        "onboard_time": 1658376999,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 269772,
+        "num": 269772,
+        "word": "恭喜中国田径队",
+        "onboard_time": 1658375735,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301041,
+        "num": 269473,
+        "word": "撒贝宁央视主持现场睡着了",
+        "onboard_time": 1658377300,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291701,
+        "num": 269174,
+        "word": "密室大逃脱",
+        "onboard_time": 1658377179,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268766,
+        "num": 268766,
+        "word": "谷爱凌与库里汤普森同框",
+        "onboard_time": 1658365469,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257717,
+        "num": 257717,
+        "word": "神墓动画",
+        "onboard_time": 1658376758,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 256227,
+        "num": 256227,
+        "word": "谷爱凌中文致谢",
+        "onboard_time": 1658368829,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248099,
+        "num": 248099,
+        "word": "河南村镇银行将开始第二批垫付",
+        "onboard_time": 1658369849,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245865,
+        "num": 245865,
+        "word": "黄桃罐头会保佑每一个东北孩子",
+        "onboard_time": 1658359762,
+        "rank": 46,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 240397,
+        "num": 240397,
+        "word": "陈春花博士院校系私人公司",
+        "onboard_time": 1658374112,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220156,
+        "num": 220156,
+        "word": "微软Teams全球范围宕机",
+        "onboard_time": 1658377360,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214388,
+        "num": 214388,
+        "word": "我的世界禁止NFT和区块链",
+        "onboard_time": 1658375377,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
