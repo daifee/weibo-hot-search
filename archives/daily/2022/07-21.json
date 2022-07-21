@@ -1,6 +1,6 @@
 {
   "startTime": 1658333582707,
-  "endTime": 1658412590635,
+  "endTime": 1658416269954,
   "band_list": [
     {
       "raw_hot": 14914747,
@@ -9,6 +9,22 @@
       "onboard_time": 1658380655,
       "rank": 1,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 4233503,
+      "num": 4233503,
+      "word": "拜登新冠检测阳性",
+      "onboard_time": 1658414022,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 4194038,
+      "num": 4194038,
+      "word": "长江白鲟被正式宣布灭绝",
+      "onboard_time": 1658408258,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3801425,
@@ -41,14 +57,6 @@
       "onboard_time": 1658383538,
       "rank": 25,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 3046609,
-      "num": 3046609,
-      "word": "长江白鲟被正式宣布灭绝",
-      "onboard_time": 1658408258,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2837212,
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1882540,
+      "num": 706867,
+      "word": "小敏来了",
+      "onboard_time": 1658411442,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1866945,
       "num": 1866945,
       "word": "董宇辉回应东方甄选拉黑罗敏",
@@ -153,6 +169,14 @@
       "onboard_time": 1658378018,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1760889,
+      "num": 1760889,
+      "word": "少年派2压抑",
+      "onboard_time": 1658412399,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1727025,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1348232,
+      "num": 1348232,
+      "word": "上海核酸阳性记录查不到了",
+      "onboard_time": 1658408799,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1344938,
       "num": 1344938,
       "word": "成都警方通报男子小区内跳楼身亡",
@@ -371,14 +403,6 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 1174228,
-      "num": 724495,
-      "word": "上海核酸阳性记录查不到了",
-      "onboard_time": 1658408799,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1161745,
       "num": 810590,
       "word": "男子偷800多件女装打扮充气娃娃",
@@ -393,6 +417,14 @@
       "onboard_time": 1658367987,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1148489,
+      "num": 687329,
+      "word": "吴磊赵露思新剧拦腰抱",
+      "onboard_time": 1658413960,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1125354,
@@ -467,6 +499,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 981020,
+      "num": 562990,
+      "word": "林妙妙父母离婚了",
+      "onboard_time": 1658414745,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 978729,
       "num": 978729,
       "word": "龙泉",
@@ -504,6 +544,14 @@
       "word": "叶青 沉香如屑",
       "onboard_time": 1658386534,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 945415,
+      "num": 555137,
+      "word": "沉香如屑真香",
+      "onboard_time": 1658414624,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -579,6 +627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 852806,
+      "num": 852806,
+      "word": "广东一妈妈连生5个高颜值萌娃",
+      "onboard_time": 1658404778,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831811,
       "num": 831811,
       "word": "河南省考",
@@ -609,22 +665,6 @@
       "onboard_time": 1658330791,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 816447,
-      "num": 706867,
-      "word": "小敏来了",
-      "onboard_time": 1658411442,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810191,
-      "num": 810191,
-      "word": "广东一妈妈连生5个高颜值萌娃",
-      "onboard_time": 1658404778,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 809983,
@@ -723,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 679829,
-      "num": 659523,
-      "word": "少年派2压抑",
-      "onboard_time": 1658412399,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 666438,
       "num": 666438,
       "word": "魏家凉皮回应200米配送费7.5元",
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 611106,
+      "num": 420747,
+      "word": "林妙妙江天昊过夜被妈妈抓",
+      "onboard_time": 1658412339,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602051,
       "num": 602051,
       "word": "大张伟说挡着点杨幂",
@@ -843,12 +883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569395,
+      "num": 569395,
+      "word": "林高远vs宇田幸矢",
+      "onboard_time": 1658413600,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562157,
       "num": 562157,
       "word": "律师帮被性骚扰女孩索要7位数赔偿",
       "onboard_time": 1658380895,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562114,
+      "num": 562114,
+      "word": "王曼昱3比0伊藤美诚",
+      "onboard_time": 1658412701,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 561709,
@@ -889,6 +945,14 @@
       "onboard_time": 1658371229,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 544969,
+      "num": 358057,
+      "word": "女子连生5子又怀第六胎",
+      "onboard_time": 1658415460,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543310,
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448337,
+      "num": 280721,
+      "word": "凌不疑程少商定亲",
+      "onboard_time": 1658414624,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446628,
       "num": 446628,
       "word": "居民非必要不离龙泉驿区",
@@ -1176,6 +1248,14 @@
       "word": "只有我能骂自己",
       "onboard_time": 1658411141,
       "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 426332,
+      "num": 426332,
+      "word": "当搞笑女成为主持人是什么体验",
+      "onboard_time": 1658414381,
+      "rank": 17,
       "category": "幽默"
     },
     {
@@ -1436,7 +1516,7 @@
     },
     {
       "raw_hot": 364087,
-      "num": 302445,
+      "num": 320127,
       "word": "姚译添吐槽录奔跑吧管不住嘉宾太累了",
       "onboard_time": 1658409644,
       "rank": 44,
@@ -1531,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342899,
-      "num": 301611,
-      "word": "林妙妙江天昊过夜被妈妈抓",
-      "onboard_time": 1658412339,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 342779,
       "num": 342779,
       "word": "今年折叠屏市场将迎来爆发",
@@ -1571,6 +1643,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 339379,
+      "num": 343950,
+      "word": "莫尔穆成印度第二位女总统",
+      "onboard_time": 1658408737,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 339111,
       "num": 253716,
       "word": "贸易公司侵权肖战被判赔",
@@ -1601,14 +1681,6 @@
       "onboard_time": 1658360302,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334179,
-      "num": 343950,
-      "word": "莫尔穆成印度第二位女总统",
-      "onboard_time": 1658408737,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 333804,
@@ -1675,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322648,
+      "num": 232885,
+      "word": "夏娃",
+      "onboard_time": 1658415824,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316446,
       "num": 316446,
       "word": "武汉夜市推出浅尝套餐",
@@ -1689,6 +1769,14 @@
       "onboard_time": 1658366789,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 314310,
+      "num": 314310,
+      "word": "这辈子没和父母见过一面",
+      "onboard_time": 1658413842,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 311716,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1658373510,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303829,
+      "num": 303829,
+      "word": "福建专升本",
+      "onboard_time": 1658411920,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 301971,
@@ -1811,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288230,
+      "num": 288230,
+      "word": "四川汶川发生3.3级地震",
+      "onboard_time": 1658413781,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286229,
       "num": 286229,
       "word": "Rookie拯救修音师",
@@ -1859,14 +1963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277224,
-      "num": 277224,
-      "word": "福建专升本",
-      "onboard_time": 1658411920,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 276583,
       "num": 276583,
       "word": "连云港龙卷风已致26人受伤",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1658320712,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274593,
+      "num": 274593,
+      "word": "成毅应渊战损美学",
+      "onboard_time": 1658414080,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 273664,
@@ -1947,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260932,
+      "num": 260932,
+      "word": "四川理县发生3.3级地震",
+      "onboard_time": 1658413781,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260484,
       "num": 260484,
       "word": "支教11年老师离开孩子哭成泪人",
@@ -1985,6 +2097,14 @@
       "onboard_time": 1658378979,
       "rank": 38,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 252013,
+      "num": 252013,
+      "word": "鹏鹏空降超话",
+      "onboard_time": 1658412941,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 251692,
@@ -2171,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219012,
+      "num": 219012,
+      "word": "王曼昱5天内双杀伊藤美诚",
+      "onboard_time": 1658416058,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216959,
       "num": 216959,
       "word": "中国男篮 三后卫",
@@ -2217,6 +2345,14 @@
       "onboard_time": 1658394281,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 209417,
+      "num": 209417,
+      "word": "林高远3比0宇田幸矢",
+      "onboard_time": 1658414624,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 207922,
@@ -2388,7 +2524,7 @@
     },
     {
       "raw_hot": 153147,
-      "num": 2278673,
+      "num": 2601231,
       "word": "祝融号在火星过冬至",
       "onboard_time": 1658392658,
       "rank": 2,
@@ -2401,6 +2537,14 @@
       "onboard_time": 1658312557,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148802,
+      "num": 148802,
+      "word": "陈梦王曼昱会师女单半决赛",
+      "onboard_time": 1658415941,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 146164,
