@@ -1,0 +1,410 @@
+{
+  "runTime": 1658480982510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5009268,
+        "num": 5009268,
+        "word": "林志颖颜面骨折",
+        "onboard_time": 1658476121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3888002,
+        "num": 3888002,
+        "word": "金靖否认脾气差打骂助理",
+        "onboard_time": 1658478518,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120100,
+        "num": 1888940,
+        "word": "25个暑期博物馆精品特展",
+        "onboard_time": 1658477199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1621904,
+        "num": 1621904,
+        "word": "南京玄奘寺法师称寺庙已关闭",
+        "onboard_time": 1658471981,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1610593,
+        "num": 1610593,
+        "word": "吴啊萍",
+        "onboard_time": 1658458773,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338536,
+        "num": 1338536,
+        "word": "玄奘寺事件举报人称不怕被报复",
+        "onboard_time": 1658478998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322923,
+        "num": 1322923,
+        "word": "南京玄奘寺事件处理情况公布",
+        "onboard_time": 1658478399,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153827,
+        "num": 1153827,
+        "word": "Angelababy说一起来听蔡徐坤新歌",
+        "onboard_time": 1658480443,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1000068,
+        "num": 1000068,
+        "word": "印度官员喝下圣河水后剧烈腹痛",
+        "onboard_time": 1658474438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798781,
+        "num": 798781,
+        "word": "这届年轻人为何偏爱丑东西",
+        "onboard_time": 1658471380,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1851132,
+        "num": 791419,
+        "word": "kimi",
+        "onboard_time": 1658470542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772640,
+        "num": 772640,
+        "word": "南京玄奘寺主要负责人被撤换",
+        "onboard_time": 1658478639,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767980,
+        "num": 767980,
+        "word": "日本正式批准核污水排海计划",
+        "onboard_time": 1658459731,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 4640269,
+        "num": 754442,
+        "word": "林志颖父子车祸",
+        "onboard_time": 1658463942,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726961,
+        "num": 726961,
+        "word": "男子喜欢躺水里睡觉被当浮尸",
+        "onboard_time": 1658474859,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663599,
+        "num": 663599,
+        "word": "国产可乐有多惨",
+        "onboard_time": 1658479541,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1485703,
+        "num": 591505,
+        "word": "特斯拉客服回应林志颖父子车祸",
+        "onboard_time": 1658476057,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453624,
+        "num": 453624,
+        "word": "今天星期五",
+        "onboard_time": 1658474438,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426785,
+        "num": 426785,
+        "word": "谭谈交通出镜市民起诉成都电视台",
+        "onboard_time": 1658470181,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403943,
+        "num": 403943,
+        "word": "男婴出生一个月历经3次手术顽强求生",
+        "onboard_time": 1658474256,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033179,
+        "num": 400779,
+        "word": "林志颖父子车祸瞬间画面曝光",
+        "onboard_time": 1658476841,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711572,
+        "num": 393345,
+        "word": "张铁林",
+        "onboard_time": 1658476959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687234,
+        "num": 389172,
+        "word": "白鹿说Hugme真的很好听",
+        "onboard_time": 1658474681,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 618657,
+        "num": 382405,
+        "word": "周密周芯竹终于官宣了",
+        "onboard_time": 1658463155,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380211,
+        "num": 380211,
+        "word": "侵华日军南京大屠杀影像",
+        "onboard_time": 1658457451,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 351620,
+        "num": 351620,
+        "word": "警方称小敏来了事件系网友误解",
+        "onboard_time": 1658471561,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315359,
+        "num": 315359,
+        "word": "公司给员工更衣室安9个摄像头",
+        "onboard_time": 1658472278,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287757,
+        "num": 287757,
+        "word": "吹空调可能致哪些身体不适",
+        "onboard_time": 1658478876,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286050,
+        "num": 286050,
+        "word": "孩子被爸爸监督跑步一年后憨憨变帅哥",
+        "onboard_time": 1658471561,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251848,
+        "num": 251848,
+        "word": "优酷回应投屏收费",
+        "onboard_time": 1658454570,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 368700,
+        "num": 247255,
+        "word": "90婚介所",
+        "onboard_time": 1658478818,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292214,
+        "num": 246214,
+        "word": "吴磊抱赵露思姿势好眼熟",
+        "onboard_time": 1658469641,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285566,
+        "num": 245380,
+        "word": "如何评价沉香如屑杨紫演技",
+        "onboard_time": 1658480742,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241489,
+        "num": 241489,
+        "word": "被录取通知书狠狠惊艳到了",
+        "onboard_time": 1658470542,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226220,
+        "num": 226220,
+        "word": "把童年播到了自己的婚礼上",
+        "onboard_time": 1658476057,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 216183,
+        "num": 216183,
+        "word": "泰国推出无臭榴莲",
+        "onboard_time": 1658469281,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 206961,
+        "num": 206961,
+        "word": "六盘水妇联正核实小敏事件",
+        "onboard_time": 1658477980,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202920,
+        "num": 202920,
+        "word": "原来壁画上的是真的",
+        "onboard_time": 1658479660,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200558,
+        "num": 200558,
+        "word": "10个年轻人有7个花钱先看性价比",
+        "onboard_time": 1658465092,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199721,
+        "num": 199721,
+        "word": "原来狗狗也会感到尴尬",
+        "onboard_time": 1658471259,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222340,
+        "num": 199634,
+        "word": "于文文 郑秀妍懂我就像我懂她",
+        "onboard_time": 1658475098,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204076,
+        "num": 199631,
+        "word": "薛凯琪妆哭花了",
+        "onboard_time": 1658473539,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199387,
+        "num": 199387,
+        "word": "郑州暴雨",
+        "onboard_time": 1658458773,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186465,
+        "num": 186465,
+        "word": "华为回应招聘大量天才少年",
+        "onboard_time": 1658464551,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155984,
+        "num": 155984,
+        "word": "马蜂窝能有多夸张",
+        "onboard_time": 1658474681,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 152939,
+        "num": 152939,
+        "word": "夏日祭",
+        "onboard_time": 1658451511,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148430,
+        "num": 148430,
+        "word": "这就是云南独有的浪漫",
+        "onboard_time": 1658477919,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 129793,
+        "num": 129793,
+        "word": "坠楼女童说叔叔像妈妈那样抱住我",
+        "onboard_time": 1658460212,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119557,
+        "num": 119557,
+        "word": "年轻人为什么都去露营了",
+        "onboard_time": 1658480323,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 115040,
+        "num": 115040,
+        "word": "侵华日军战犯牌位是怎么摆进寺庙的",
+        "onboard_time": 1658480981,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设成果展#"
+    }
+  }
+}
