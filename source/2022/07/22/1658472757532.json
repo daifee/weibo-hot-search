@@ -1,0 +1,410 @@
+{
+  "runTime": 1658472757532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11537092,
+        "num": 11537092,
+        "word": "林志颖父子车祸",
+        "onboard_time": 1658463942,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3514148,
+        "num": 3514148,
+        "word": "吴啊萍",
+        "onboard_time": 1658458773,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524132,
+        "num": 2482294,
+        "word": "路边的幼鸟其实并不需要你救助",
+        "onboard_time": 1658455830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2032025,
+        "num": 2032025,
+        "word": "日本正式批准核污水排海计划",
+        "onboard_time": 1658459731,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1581163,
+        "num": 1581163,
+        "word": "侵华日军南京大屠杀影像",
+        "onboard_time": 1658457451,
+        "rank": 4,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1554186,
+        "num": 1554186,
+        "word": "周密周芯竹终于官宣了",
+        "onboard_time": 1658463155,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1427338,
+        "num": 1427338,
+        "word": "孩子一定要趁早生吗",
+        "onboard_time": 1658466822,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1166231,
+        "num": 1166231,
+        "word": "谭谈交通出镜市民起诉成都电视台",
+        "onboard_time": 1658470181,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901270,
+        "num": 901270,
+        "word": "南京玄奘寺",
+        "onboard_time": 1658446527,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729651,
+        "num": 729651,
+        "word": "夏日祭",
+        "onboard_time": 1658451511,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2004384,
+        "num": 665805,
+        "word": "经纪人否认伤者照片是林志颖",
+        "onboard_time": 1658466231,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595338,
+        "num": 595338,
+        "word": "郑州暴雨",
+        "onboard_time": 1658458773,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587868,
+        "num": 587868,
+        "word": "优酷回应投屏收费",
+        "onboard_time": 1658454570,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1496230,
+        "num": 580074,
+        "word": "特斯拉",
+        "onboard_time": 1658465393,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 569333,
+        "num": 569333,
+        "word": "警方称小敏来了事件系网友误解",
+        "onboard_time": 1658471561,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535142,
+        "num": 535142,
+        "word": "被录取通知书狠狠惊艳到了",
+        "onboard_time": 1658470542,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1211226,
+        "num": 532884,
+        "word": "kimi",
+        "onboard_time": 1658470542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525393,
+        "num": 525393,
+        "word": "南京玄奘寺事件必须查清严惩",
+        "onboard_time": 1658463517,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513942,
+        "num": 513942,
+        "word": "这届年轻人为何偏爱丑东西",
+        "onboard_time": 1658471380,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1159191,
+        "num": 512877,
+        "word": "林志颖车祸伤情",
+        "onboard_time": 1658471739,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644029,
+        "num": 512481,
+        "word": "郑秀妍眼神",
+        "onboard_time": 1658469704,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498566,
+        "num": 498566,
+        "word": "泰国推出无臭榴莲",
+        "onboard_time": 1658469281,
+        "rank": 21,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1076069,
+        "num": 498157,
+        "word": "警方称林志颖没有酒驾",
+        "onboard_time": 1658468861,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492749,
+        "num": 492749,
+        "word": "华为回应招聘大量天才少年",
+        "onboard_time": 1658464551,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 447719,
+        "num": 447719,
+        "word": "坠楼女童说叔叔像妈妈那样抱住我",
+        "onboard_time": 1658460212,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832282,
+        "num": 434122,
+        "word": "林志颖父子均无生命危险",
+        "onboard_time": 1658469704,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629300,
+        "num": 432293,
+        "word": "吴磊抱赵露思姿势好眼熟",
+        "onboard_time": 1658469641,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415142,
+        "num": 415142,
+        "word": "机建燃油费比机票贵是种什么体验",
+        "onboard_time": 1658465631,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388532,
+        "num": 388532,
+        "word": "10个年轻人有7个花钱先看性价比",
+        "onboard_time": 1658465092,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348804,
+        "num": 348804,
+        "word": "官方通报六盘水女子患癌事件",
+        "onboard_time": 1658456850,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589047,
+        "num": 345108,
+        "word": "蔡徐坤新歌vlog",
+        "onboard_time": 1658471499,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419639,
+        "num": 342712,
+        "word": "雷佳音张子枫父女同款马尾",
+        "onboard_time": 1658468683,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339286,
+        "num": 339286,
+        "word": "难听",
+        "onboard_time": 1658463334,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323642,
+        "num": 323642,
+        "word": "孩子被爸爸监督跑步一年后憨憨变帅哥",
+        "onboard_time": 1658471561,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308462,
+        "num": 308462,
+        "word": "南京玄奘寺法师称寺庙已关闭",
+        "onboard_time": 1658471981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299058,
+        "num": 299058,
+        "word": "长江白鲟留下的最后活体影像",
+        "onboard_time": 1658461476,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290959,
+        "num": 290959,
+        "word": "原来狗狗也会感到尴尬",
+        "onboard_time": 1658471259,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289092,
+        "num": 289092,
+        "word": "郑州升级暴雨橙色预警",
+        "onboard_time": 1658469401,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263843,
+        "num": 263843,
+        "word": "黄河边两嗓子救下一人命",
+        "onboard_time": 1658469101,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 254060,
+        "num": 254060,
+        "word": "9名A级通缉电诈头目骨干已到案",
+        "onboard_time": 1658470421,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332572,
+        "num": 242814,
+        "word": "乘风破浪五公分组海报",
+        "onboard_time": 1658471199,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280676,
+        "num": 234747,
+        "word": "毛戈平再现太平公主上官婉儿",
+        "onboard_time": 1658459793,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208515,
+        "num": 208515,
+        "word": "一男子故意杀人后引爆液化气罐",
+        "onboard_time": 1658457451,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205191,
+        "num": 205191,
+        "word": "奥尼尔回应库里",
+        "onboard_time": 1658466231,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198274,
+        "num": 198274,
+        "word": "公司给员工更衣室安9个摄像头",
+        "onboard_time": 1658472278,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197376,
+        "num": 197376,
+        "word": "广东报告4例流感死亡病例",
+        "onboard_time": 1658453672,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180291,
+        "num": 180291,
+        "word": "千年古村有一腿",
+        "onboard_time": 1658467421,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178036,
+        "num": 178036,
+        "word": "每天吃瓜子可以预防老年痴呆",
+        "onboard_time": 1658462373,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144636,
+        "num": 144636,
+        "word": "新款MacBookAir被曝掉漆",
+        "onboard_time": 1658463396,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143456,
+        "num": 143456,
+        "word": "省内高校在川一本调档线出炉",
+        "onboard_time": 1658472639,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年代表希望青年创造明天#"
+    }
+  }
+}
