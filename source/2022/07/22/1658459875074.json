@@ -1,0 +1,410 @@
+{
+  "runTime": 1658459875074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4920227,
+        "num": 4920227,
+        "word": "南京玄奘寺",
+        "onboard_time": 1658446527,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3343363,
+        "num": 3343363,
+        "word": "夏日祭",
+        "onboard_time": 1658451511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376132,
+        "num": 1967169,
+        "word": "安徽一家四兄弟同上军校",
+        "onboard_time": 1658448691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1637880,
+        "num": 1637880,
+        "word": "侵华日军南京大屠杀影像",
+        "onboard_time": 1658457451,
+        "rank": 3,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1606454,
+        "num": 1606454,
+        "word": "优酷回应投屏收费",
+        "onboard_time": 1658454570,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1469481,
+        "num": 1469481,
+        "word": "官方通报六盘水女子患癌事件",
+        "onboard_time": 1658456850,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213421,
+        "num": 1213421,
+        "word": "南京玄武区民族宗教事务局回应",
+        "onboard_time": 1658448334,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126780,
+        "num": 1126780,
+        "word": "吴啊萍",
+        "onboard_time": 1658458773,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072440,
+        "num": 1072440,
+        "word": "好听",
+        "onboard_time": 1658459252,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1015390,
+        "num": 1015390,
+        "word": "周密新歌叫周周别把我嗑死",
+        "onboard_time": 1658457091,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 947358,
+        "num": 947358,
+        "word": "一男子故意杀人后引爆液化气罐",
+        "onboard_time": 1658457451,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922250,
+        "num": 922250,
+        "word": "蔡徐坤新歌Hugme",
+        "onboard_time": 1658455887,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 797344,
+        "num": 797344,
+        "word": "路边的幼鸟其实并不需要你救助",
+        "onboard_time": 1658455830,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693616,
+        "num": 693616,
+        "word": "郑州暴雨",
+        "onboard_time": 1658458773,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668154,
+        "num": 668154,
+        "word": "苹果最轻薄笔记本有望回归",
+        "onboard_time": 1658455530,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 544997,
+        "num": 544997,
+        "word": "当地妇联已对小敏采取帮扶措施",
+        "onboard_time": 1658458112,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540027,
+        "num": 540027,
+        "word": "小学生上网课两月近视猛涨200度",
+        "onboard_time": 1658455830,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 530003,
+        "num": 530003,
+        "word": "黄子韬出演独行月球",
+        "onboard_time": 1658458711,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526776,
+        "num": 526776,
+        "word": "沉香如屑 上头",
+        "onboard_time": 1658453130,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481170,
+        "num": 481170,
+        "word": "褪黑素不能随便吃",
+        "onboard_time": 1658454929,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461606,
+        "num": 461606,
+        "word": "女子指尖扎入针头17年在手背发现",
+        "onboard_time": 1658430493,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430151,
+        "num": 430151,
+        "word": "广东报告4例流感死亡病例",
+        "onboard_time": 1658453672,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428781,
+        "num": 428781,
+        "word": "赵今麦一下炫了209个字",
+        "onboard_time": 1658444240,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387184,
+        "num": 387184,
+        "word": "两骑手遇啤酒头孢订单报警获表彰",
+        "onboard_time": 1658454689,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 380156,
+        "num": 380156,
+        "word": "沈腾新片和袋鼠对打输麻了",
+        "onboard_time": 1658458650,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365328,
+        "num": 365328,
+        "word": "星汉灿烂",
+        "onboard_time": 1658411559,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353922,
+        "num": 353922,
+        "word": "京沪上半年人均可支配收入超3.8万元",
+        "onboard_time": 1658458290,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 341173,
+        "num": 341173,
+        "word": "王玉雯",
+        "onboard_time": 1658445745,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339395,
+        "num": 339395,
+        "word": "抖音账号显示所属MCN机构",
+        "onboard_time": 1658445083,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 331184,
+        "num": 331184,
+        "word": "国家烈士遗骸搜寻队成立",
+        "onboard_time": 1658457031,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323338,
+        "num": 323338,
+        "word": "80后小伙自学编程为母亲开发认路程序",
+        "onboard_time": 1658457031,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311042,
+        "num": 311042,
+        "word": "长江白鲟被正式宣布灭绝",
+        "onboard_time": 1658408258,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310352,
+        "num": 310352,
+        "word": "小敏来了",
+        "onboard_time": 1658411442,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301066,
+        "num": 301066,
+        "word": "邓小琪换人了",
+        "onboard_time": 1658423960,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283027,
+        "num": 283027,
+        "word": "毛戈平再现太平公主上官婉儿",
+        "onboard_time": 1658459793,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266557,
+        "num": 266557,
+        "word": "中国队包揽WTT冠军赛女单四强",
+        "onboard_time": 1658457451,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250773,
+        "num": 250773,
+        "word": "女司机多看一眼帮后车避免一场事故",
+        "onboard_time": 1658458471,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238937,
+        "num": 238937,
+        "word": "日本正式批准核污水排海计划",
+        "onboard_time": 1658459731,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 224248,
+        "num": 224248,
+        "word": "HYBE新女团NewJeans",
+        "onboard_time": 1658449053,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212803,
+        "num": 212803,
+        "word": "宜宾一殴打小区保安业主被刑拘",
+        "onboard_time": 1658453909,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208906,
+        "num": 208906,
+        "word": "拜登新冠检测阳性后发视频",
+        "onboard_time": 1658449894,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207702,
+        "num": 207702,
+        "word": "天才基本法终极预告",
+        "onboard_time": 1658457932,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196455,
+        "num": 196455,
+        "word": "林妙妙父母离婚了",
+        "onboard_time": 1658414745,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188650,
+        "num": 188650,
+        "word": "警方通报小区业主反复殴打保安",
+        "onboard_time": 1658457091,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176597,
+        "num": 176597,
+        "word": "90后徒手接6楼坠落女童获表彰",
+        "onboard_time": 1658446347,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173344,
+        "num": 173344,
+        "word": "五菱营销高管加入小米汽车",
+        "onboard_time": 1658459669,
+        "rank": 45,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 161400,
+        "num": 161400,
+        "word": "四川新增本土无症状13例",
+        "onboard_time": 1658452830,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509860,
+        "num": 155590,
+        "word": "奔跑吧今晚全员为兄弟穿越沙漠",
+        "onboard_time": 1658459854,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146392,
+        "num": 146392,
+        "word": "重庆新增本土确诊5例",
+        "onboard_time": 1658452111,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143244,
+        "num": 143244,
+        "word": "华为新员工座谈纪要",
+        "onboard_time": 1658452532,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
