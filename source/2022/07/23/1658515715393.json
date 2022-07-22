@@ -1,0 +1,410 @@
+{
+  "runTime": 1658515715393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 550580,
+        "num": 550580,
+        "word": "金靖道歉",
+        "onboard_time": 1658500482,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469408,
+        "num": 469408,
+        "word": "微信崩了",
+        "onboard_time": 1658498919,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 34592,
+        "num": 325884,
+        "word": "来自中国空间站的第一封回信",
+        "onboard_time": 1658497840,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 257903,
+        "num": 257903,
+        "word": "男子消费42元结账时付0.01元",
+        "onboard_time": 1658496157,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237326,
+        "num": 237326,
+        "word": "麻辣烫爆火韩国",
+        "onboard_time": 1658501384,
+        "rank": 4,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 310656,
+        "num": 215595,
+        "word": "林志颖方发声明",
+        "onboard_time": 1658485478,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163362,
+        "num": 163362,
+        "word": "运动后三四天身体仍疼痛要注意",
+        "onboard_time": 1658503959,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 147599,
+        "word": "李晨 位置",
+        "onboard_time": 1658500422,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125540,
+        "num": 125540,
+        "word": "我是来做核酸的",
+        "onboard_time": 1658506053,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120224,
+        "num": 120224,
+        "word": "日本祸水外流必将自吞苦水",
+        "onboard_time": 1658502703,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334233,
+        "num": 119817,
+        "word": "吴啊萍供奉牌位5个日本人1个美国人",
+        "onboard_time": 1658497000,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139214,
+        "num": 119120,
+        "word": "拜鬼的鬼得一捉到底",
+        "onboard_time": 1658501083,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117818,
+        "num": 117818,
+        "word": "解放军报评玄奘寺事件",
+        "onboard_time": 1658499882,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113027,
+        "num": 113027,
+        "word": "王祖蓝去蘑菇屋带的靠枕有2米",
+        "onboard_time": 1658508625,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104890,
+        "num": 104890,
+        "word": "当地派出所正在核实吴啊萍身份",
+        "onboard_time": 1658489915,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99914,
+        "num": 99914,
+        "word": "钱三一吃醋",
+        "onboard_time": 1658507071,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94670,
+        "num": 94670,
+        "word": "以为等不到兄弟团的蔡徐坤好失落",
+        "onboard_time": 1658514914,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87743,
+        "num": 87743,
+        "word": "警方通报网传男子商场内掐死女友",
+        "onboard_time": 1658497661,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84674,
+        "num": 84674,
+        "word": "官方回应长沙岳麓山被游客踩矮",
+        "onboard_time": 1658499582,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 81831,
+        "num": 81831,
+        "word": "zzr 帅",
+        "onboard_time": 1658495256,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170651,
+        "num": 81081,
+        "word": "林志颖颜面骨折",
+        "onboard_time": 1658476121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75873,
+        "num": 75873,
+        "word": "张艺兴嘴里享受心里想瘦",
+        "onboard_time": 1658509283,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68979,
+        "num": 68979,
+        "word": "有一种丑是累出来的",
+        "onboard_time": 1658496037,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144472,
+        "num": 68956,
+        "word": "林志颖发生车祸时救护车正好经过",
+        "onboard_time": 1658490937,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68724,
+        "num": 68724,
+        "word": "青山刚昌已经画了柯南最终回的草稿",
+        "onboard_time": 1658498142,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67705,
+        "num": 67705,
+        "word": "妈妈把猪圈改成泳池给孩子消暑",
+        "onboard_time": 1658497661,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67244,
+        "num": 67244,
+        "word": "德克士用免费券10分钟遭4种对待",
+        "onboard_time": 1658496579,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62606,
+        "num": 62606,
+        "word": "王者荣耀 姜子牙",
+        "onboard_time": 1658492076,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61716,
+        "num": 61716,
+        "word": "微信回应故障",
+        "onboard_time": 1658505097,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 58576,
+        "num": 58576,
+        "word": "我也不太了解她",
+        "onboard_time": 1658496759,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74532,
+        "num": 58186,
+        "word": "沉香如屑节奏好快",
+        "onboard_time": 1658501744,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67658,
+        "num": 57066,
+        "word": "hugme首舞台",
+        "onboard_time": 1658511081,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65955,
+        "num": 55929,
+        "word": "林志颖头部受伤一度无法说话",
+        "onboard_time": 1658496216,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53696,
+        "num": 53696,
+        "word": "龚俊和李荣浩浅聊一下音乐",
+        "onboard_time": 1658506471,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47747,
+        "num": 47747,
+        "word": "自律是治愈一切迷茫的良药",
+        "onboard_time": 1658503182,
+        "rank": 34,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 44282,
+        "num": 44282,
+        "word": "我去驾校只办三件事",
+        "onboard_time": 1658499582,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43924,
+        "num": 43924,
+        "word": "狗的洁癖突然被治好了",
+        "onboard_time": 1658498501,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 43758,
+        "num": 43758,
+        "word": "玄奘寺事件举报人称不怕被报复",
+        "onboard_time": 1658478998,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40183,
+        "num": 40183,
+        "word": "南京回应玄奘寺供奉牌位有关情况",
+        "onboard_time": 1658498382,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39938,
+        "num": 39938,
+        "word": "减一斤脂肪需要多少运动量",
+        "onboard_time": 1658488898,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 51872,
+        "num": 39935,
+        "word": "天才基本法 改编",
+        "onboard_time": 1658502522,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47462,
+        "num": 39927,
+        "word": "杨幂钻赵今麦被窝",
+        "onboard_time": 1658498742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187276,
+        "num": 39909,
+        "word": "玄奘寺住持曾参加美容店开业",
+        "onboard_time": 1658506292,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39891,
+        "num": 39891,
+        "word": "王者荣耀",
+        "onboard_time": 1658495016,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38089,
+        "num": 38089,
+        "word": "北京朝阳区发现1例初筛阳性人员",
+        "onboard_time": 1658491656,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35787,
+        "num": 35787,
+        "word": "今天星期五",
+        "onboard_time": 1658474438,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82469,
+        "num": 35113,
+        "word": "玄奘寺爱国主义教育基地牌匾被摘下",
+        "onboard_time": 1658501925,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32385,
+        "num": 32385,
+        "word": "wtt支线赛布达佩斯站",
+        "onboard_time": 1658511919,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28475,
+        "num": 28475,
+        "word": "环球时报评南京玄奘寺事件",
+        "onboard_time": 1658502522,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27167,
+        "num": 27167,
+        "word": "中国天眼已发现660余颗新脉冲星",
+        "onboard_time": 1658499341,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
