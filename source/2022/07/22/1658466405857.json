@@ -1,0 +1,410 @@
+{
+  "runTime": 1658466405857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20336359,
+        "num": 20336359,
+        "word": "林志颖父子车祸",
+        "onboard_time": 1658463942,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4307179,
+        "num": 4307179,
+        "word": "南京玄奘寺",
+        "onboard_time": 1658446527,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835576,
+        "num": 3996885,
+        "word": "路边的幼鸟其实并不需要你救助",
+        "onboard_time": 1658455830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3853389,
+        "num": 3853389,
+        "word": "周密周芯竹终于官宣了",
+        "onboard_time": 1658463155,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3181911,
+        "num": 3181911,
+        "word": "侵华日军南京大屠杀影像",
+        "onboard_time": 1658457451,
+        "rank": 4,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 3055902,
+        "num": 3055902,
+        "word": "特斯拉",
+        "onboard_time": 1658465393,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2276911,
+        "num": 2276911,
+        "word": "夏日祭",
+        "onboard_time": 1658451511,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2096267,
+        "num": 2096267,
+        "word": "日本正式批准核污水排海计划",
+        "onboard_time": 1658459731,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1687172,
+        "num": 1687172,
+        "word": "吴啊萍",
+        "onboard_time": 1658458773,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270400,
+        "num": 1270400,
+        "word": "优酷回应投屏收费",
+        "onboard_time": 1658454570,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2067223,
+        "num": 1234121,
+        "word": "经纪人否认伤者照片是林志颖",
+        "onboard_time": 1658466231,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1468536,
+        "num": 1182478,
+        "word": "赵露思说前期有多甜后期就有多虐",
+        "onboard_time": 1658461173,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1121497,
+        "num": 1121497,
+        "word": "官方通报六盘水女子患癌事件",
+        "onboard_time": 1658456850,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429312,
+        "num": 1056726,
+        "word": "警方证实车祸伤者是林志颖",
+        "onboard_time": 1658466288,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944058,
+        "num": 944058,
+        "word": "须严查南京寺庙供奉日本战犯一事",
+        "onboard_time": 1658462015,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273879,
+        "num": 914347,
+        "word": "难听",
+        "onboard_time": 1658463334,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 815724,
+        "num": 815724,
+        "word": "坠楼女童说叔叔像妈妈那样抱住我",
+        "onboard_time": 1658460212,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753174,
+        "num": 753174,
+        "word": "郑州暴雨",
+        "onboard_time": 1658458773,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741166,
+        "num": 741166,
+        "word": "华为回应招聘大量天才少年",
+        "onboard_time": 1658464551,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 642126,
+        "num": 642126,
+        "word": "南京玄奘寺事件必须查清严惩",
+        "onboard_time": 1658463517,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738815,
+        "num": 630410,
+        "word": "奔跑吧今晚全员为兄弟穿越沙漠",
+        "onboard_time": 1658459854,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724808,
+        "num": 626719,
+        "word": "毛戈平再现太平公主上官婉儿",
+        "onboard_time": 1658459793,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608733,
+        "num": 608733,
+        "word": "每天吃瓜子可以预防老年痴呆",
+        "onboard_time": 1658462373,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564995,
+        "num": 564995,
+        "word": "10个年轻人有7个花钱先看性价比",
+        "onboard_time": 1658465092,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467874,
+        "num": 467874,
+        "word": "一男子故意杀人后引爆液化气罐",
+        "onboard_time": 1658457451,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513414,
+        "num": 457062,
+        "word": "薛之谦演唱会同步官宣三站",
+        "onboard_time": 1658462314,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495796,
+        "num": 445099,
+        "word": "好听",
+        "onboard_time": 1658459252,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432989,
+        "num": 432989,
+        "word": "王曼昱淘汰伊藤美诚",
+        "onboard_time": 1658461295,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389278,
+        "num": 389278,
+        "word": "路由器应该安在家里什么位置",
+        "onboard_time": 1658459914,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 386042,
+        "num": 386042,
+        "word": "广东报告4例流感死亡病例",
+        "onboard_time": 1658453672,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468974,
+        "num": 383660,
+        "word": "沉香如屑 上头",
+        "onboard_time": 1658453130,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371138,
+        "num": 371138,
+        "word": "00后的45度人生",
+        "onboard_time": 1658464431,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357477,
+        "num": 357477,
+        "word": "女司机多看一眼帮后车避免一场事故",
+        "onboard_time": 1658458471,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342659,
+        "num": 342659,
+        "word": "长江白鲟留下的最后活体影像",
+        "onboard_time": 1658461476,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338547,
+        "num": 338547,
+        "word": "新款MacBookAir被曝掉漆",
+        "onboard_time": 1658463396,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332281,
+        "num": 332281,
+        "word": "当地妇联已对小敏采取帮扶措施",
+        "onboard_time": 1658458112,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321225,
+        "num": 321225,
+        "word": "机建燃油费比机票贵是种什么体验",
+        "onboard_time": 1658465631,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317966,
+        "num": 317966,
+        "word": "蔡徐坤新歌Hugme",
+        "onboard_time": 1658455887,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314920,
+        "num": 314920,
+        "word": "郑州公办普通高中录取分数线",
+        "onboard_time": 1658461896,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 289617,
+        "num": 289617,
+        "word": "褪黑素不能随便吃",
+        "onboard_time": 1658454929,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294854,
+        "num": 287058,
+        "word": "黄子韬出演独行月球",
+        "onboard_time": 1658458711,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266611,
+        "num": 266611,
+        "word": "乘风破浪",
+        "onboard_time": 1658463879,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248085,
+        "num": 248085,
+        "word": "小敏来了",
+        "onboard_time": 1658411442,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232013,
+        "num": 232013,
+        "word": "拜登新冠检测阳性后发视频",
+        "onboard_time": 1658449894,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 225017,
+        "num": 225017,
+        "word": "抖音账号显示所属MCN机构",
+        "onboard_time": 1658445083,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220491,
+        "num": 220491,
+        "word": "小学生上网课两月近视猛涨200度",
+        "onboard_time": 1658455830,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 214380,
+        "num": 214380,
+        "word": "京沪上半年人均可支配收入超3.8万元",
+        "onboard_time": 1658458290,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 211935,
+        "num": 211935,
+        "word": "南京玄武区民族宗教事务局回应",
+        "onboard_time": 1658448334,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205317,
+        "num": 205317,
+        "word": "HYBE新女团NewJeans",
+        "onboard_time": 1658449053,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 194590,
+        "word": "奥尼尔回应库里",
+        "onboard_time": 1658466231,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
