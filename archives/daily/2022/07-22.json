@@ -1,7 +1,15 @@
 {
   "startTime": 1658419973971,
-  "endTime": 1658451478409,
+  "endTime": 1658464627421,
   "band_list": [
+    {
+      "raw_hot": 19613922,
+      "num": 19613922,
+      "word": "林志颖父子车祸",
+      "onboard_time": 1658463942,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5769984,
       "num": 5769984,
@@ -11,11 +19,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3627399,
-      "num": 3627399,
+      "raw_hot": 5193008,
+      "num": 5193008,
       "word": "南京玄奘寺",
       "onboard_time": 1658446527,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4002825,
+      "num": 4002825,
+      "word": "周密周芯竹终于官宣了",
+      "onboard_time": 1658463155,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3343363,
+      "num": 3343363,
+      "word": "夏日祭",
+      "onboard_time": 1658451511,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -27,12 +51,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2671140,
+      "num": 2671140,
+      "word": "日本正式批准核污水排海计划",
+      "onboard_time": 1658459731,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2006961,
+      "num": 2006961,
+      "word": "侵华日军南京大屠杀影像",
+      "onboard_time": 1658457451,
+      "rank": 11,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1853070,
+      "num": 1853070,
+      "word": "优酷回应投屏收费",
+      "onboard_time": 1658454570,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1842399,
       "num": 1842399,
       "word": "拜登新冠检测阳性",
       "onboard_time": 1658414022,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1823367,
+      "num": 1823367,
+      "word": "吴啊萍",
+      "onboard_time": 1658458773,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1581522,
@@ -43,6 +99,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469481,
+      "num": 1469481,
+      "word": "官方通报六盘水女子患癌事件",
+      "onboard_time": 1658456850,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1463604,
+      "num": 1463604,
+      "word": "南京玄武区民族宗教事务局回应",
+      "onboard_time": 1658448334,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1434319,
+      "num": 1434319,
+      "word": "赵露思说前期有多甜后期就有多虐",
+      "onboard_time": 1658461173,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1386126,
       "num": 655086,
       "word": "抖音账号显示所属MCN机构",
@@ -51,12 +131,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1276456,
-      "num": 1276456,
-      "word": "南京玄武区民族宗教事务局回应",
-      "onboard_time": 1658448334,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1200370,
+      "num": 1200370,
+      "word": "蔡徐坤新歌Hugme",
+      "onboard_time": 1658455887,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1170532,
@@ -67,12 +147,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154620,
+      "num": 1154620,
+      "word": "周密新歌叫周周别把我嗑死",
+      "onboard_time": 1658457091,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1116625,
+      "num": 1116625,
+      "word": "奔跑吧今晚全员为兄弟穿越沙漠",
+      "onboard_time": 1658459854,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1089092,
       "num": 1089092,
       "word": "成毅杨紫浴桶吻",
       "onboard_time": 1658418576,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1072440,
+      "num": 1072440,
+      "word": "好听",
+      "onboard_time": 1658459252,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1041450,
+      "num": 1041450,
+      "word": "难听",
+      "onboard_time": 1658463334,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 1027063,
@@ -83,12 +195,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1021604,
+      "num": 1021604,
+      "word": "毛戈平再现太平公主上官婉儿",
+      "onboard_time": 1658459793,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1019794,
       "num": 1019794,
       "word": "2022全球总决赛时间公布",
       "onboard_time": 1658419293,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 973821,
+      "num": 973821,
+      "word": "郑州暴雨",
+      "onboard_time": 1658458773,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954468,
+      "num": 4111528,
+      "word": "路边的幼鸟其实并不需要你救助",
+      "onboard_time": 1658455830,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 951439,
@@ -99,12 +235,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 947358,
+      "num": 947358,
+      "word": "一男子故意杀人后引爆液化气罐",
+      "onboard_time": 1658457451,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933016,
+      "num": 933016,
+      "word": "须严查南京寺庙供奉日本战犯一事",
+      "onboard_time": 1658462015,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916467,
       "num": 636675,
       "word": "王玉雯",
       "onboard_time": 1658445745,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 807371,
+      "num": 807371,
+      "word": "坠楼女童说叔叔像妈妈那样抱住我",
+      "onboard_time": 1658460212,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805481,
+      "num": 805481,
+      "word": "苹果最轻薄笔记本有望回归",
+      "onboard_time": 1658455530,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 794034,
@@ -148,7 +316,7 @@
     },
     {
       "raw_hot": 696876,
-      "num": 696876,
+      "num": 2150695,
       "word": "安徽一家四兄弟同上军校",
       "onboard_time": 1658448691,
       "rank": 8,
@@ -161,6 +329,14 @@
       "onboard_time": 1658444240,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635095,
+      "num": 635095,
+      "word": "每天吃瓜子可以预防老年痴呆",
+      "onboard_time": 1658462373,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624809,
@@ -179,6 +355,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614234,
+      "num": 473561,
+      "word": "薛之谦演唱会同步官宣三站",
+      "onboard_time": 1658462314,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 590120,
+      "num": 590120,
+      "word": "沉香如屑 上头",
+      "onboard_time": 1658453130,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 580249,
+      "num": 580249,
+      "word": "小学生上网课两月近视猛涨200度",
+      "onboard_time": 1658455830,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 570831,
+      "num": 570831,
+      "word": "褪黑素不能随便吃",
+      "onboard_time": 1658454929,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565600,
       "num": 565600,
       "word": "星汉灿烂",
@@ -195,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544997,
+      "num": 544997,
+      "word": "当地妇联已对小敏采取帮扶措施",
+      "onboard_time": 1658458112,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544176,
       "num": 352188,
       "word": "沉香如屑真香",
       "onboard_time": 1658414624,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 530003,
+      "num": 530003,
+      "word": "黄子韬出演独行月球",
+      "onboard_time": 1658458711,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 525315,
+      "num": 525315,
+      "word": "广东报告4例流感死亡病例",
+      "onboard_time": 1658453672,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521200,
@@ -227,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482827,
+      "num": 482827,
+      "word": "路由器应该安在家里什么位置",
+      "onboard_time": 1658459914,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 482365,
       "num": 482365,
       "word": "男子发热久不愈竟因脚趾缝藏蜱虫",
@@ -243,11 +483,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450600,
+      "num": 450600,
+      "word": "两骑手遇啤酒头孢订单报警获表彰",
+      "onboard_time": 1658454689,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 445267,
       "num": 445267,
       "word": "羽生结弦申请退出日本国家队",
       "onboard_time": 1658403040,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 437122,
+      "num": 437122,
+      "word": "京沪上半年人均可支配收入超3.8万元",
+      "onboard_time": 1658458290,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 423432,
+      "num": 423432,
+      "word": "王曼昱淘汰伊藤美诚",
+      "onboard_time": 1658461295,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -267,12 +531,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413737,
+      "num": 413737,
+      "word": "80后小伙自学编程为母亲开发认路程序",
+      "onboard_time": 1658457031,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393489,
       "num": 393489,
       "word": "当搞笑女成为主持人是什么体验",
       "onboard_time": 1658414381,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 392472,
+      "num": 392472,
+      "word": "女司机多看一眼帮后车避免一场事故",
+      "onboard_time": 1658458471,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380156,
+      "num": 380156,
+      "word": "沈腾新片和袋鼠对打输麻了",
+      "onboard_time": 1658458650,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 356439,
@@ -297,6 +585,30 @@
       "onboard_time": 1658406820,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349707,
+      "num": 323040,
+      "word": "乘风破浪",
+      "onboard_time": 1658463879,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349613,
+      "num": 349613,
+      "word": "国家烈士遗骸搜寻队成立",
+      "onboard_time": 1658457031,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342875,
+      "num": 342875,
+      "word": "郑州公办普通高中录取分数线",
+      "onboard_time": 1658461896,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 340230,
@@ -328,6 +640,14 @@
       "word": "成都目前所有病例均属同一传播链",
       "onboard_time": 1658433551,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305740,
+      "num": 305740,
+      "word": "宜宾一殴打小区保安业主被刑拘",
+      "onboard_time": 1658453909,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -379,6 +699,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275053,
+      "num": 275053,
+      "word": "新款MacBookAir被曝掉漆",
+      "onboard_time": 1658463396,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 273890,
+      "num": 273890,
+      "word": "南京玄奘寺事件必须查清严惩",
+      "onboard_time": 1658463517,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270124,
       "num": 270124,
       "word": "80岁奶奶用杆秤给猫咪称体重",
@@ -392,6 +728,14 @@
       "word": "WTT冠军赛布达佩斯站",
       "onboard_time": 1658419533,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266557,
+      "num": 266557,
+      "word": "中国队包揽WTT冠军赛女单四强",
+      "onboard_time": 1658457451,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -419,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256765,
+      "num": 256765,
+      "word": "警方通报小区业主反复殴打保安",
+      "onboard_time": 1658457091,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254163,
       "num": 254163,
       "word": "北平无战事出品人李力去世",
@@ -443,6 +795,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 251132,
+      "num": 251132,
+      "word": "拜登新冠检测阳性后发视频",
+      "onboard_time": 1658449894,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 248912,
+      "num": 248912,
+      "word": "五菱营销高管加入小米汽车",
+      "onboard_time": 1658459669,
+      "rank": 45,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 242284,
       "num": 242284,
       "word": "新冠病毒变异长期存在",
@@ -457,6 +825,22 @@
       "onboard_time": 1658426176,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229322,
+      "num": 229322,
+      "word": "华为新员工座谈纪要",
+      "onboard_time": 1658452532,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 225875,
+      "num": 225875,
+      "word": "谢娜说王心凌80岁还在跳",
+      "onboard_time": 1658426716,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 222871,
@@ -499,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216268,
+      "num": 216268,
+      "word": "长江白鲟留下的最后活体影像",
+      "onboard_time": 1658461476,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214332,
       "num": 214332,
       "word": "福建专升本",
@@ -507,12 +899,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209469,
-      "num": 209469,
-      "word": "拜登新冠检测阳性后发视频",
-      "onboard_time": 1658449894,
-      "rank": 37,
-      "category": "国外要闻"
+      "raw_hot": 210013,
+      "num": 210013,
+      "word": "四川新增本土无症状13例",
+      "onboard_time": 1658452830,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208088,
@@ -523,12 +915,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207702,
+      "num": 207702,
+      "word": "天才基本法终极预告",
+      "onboard_time": 1658457932,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206390,
+      "num": 206390,
+      "word": "甘肃特岗",
+      "onboard_time": 1658456491,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206367,
       "num": 206367,
       "word": "五公主上线添堵了",
       "onboard_time": 1658436912,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203275,
+      "num": 203275,
+      "word": "重庆新增本土确诊5例",
+      "onboard_time": 1658452111,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203143,
@@ -571,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184056,
+      "num": 184056,
+      "word": "00后的45度人生",
+      "onboard_time": 1658464431,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183634,
       "num": 183634,
       "word": "刘畊宏直播",
@@ -595,6 +1019,22 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 170089,
+      "num": 170089,
+      "word": "朱志鑫跳copycat",
+      "onboard_time": 1658456251,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169476,
+      "num": 169476,
+      "word": "华为回应招聘大量天才少年",
+      "onboard_time": 1658464551,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167867,
       "num": 167867,
       "word": "老年旅行团列车上用音箱放歌嗨舞",
@@ -616,6 +1056,30 @@
       "word": "男子醉酒躺河里睡觉被当成浮尸",
       "onboard_time": 1658408617,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152535,
+      "num": 152535,
+      "word": "北海新增本土无症状124例",
+      "onboard_time": 1658453491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151313,
+      "num": 151313,
+      "word": "7月21日增本土无症状774例",
+      "onboard_time": 1658453909,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150863,
+      "num": 150863,
+      "word": "7月21日增本土确诊106例",
+      "onboard_time": 1658457329,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -649,14 +1113,6 @@
       "onboard_time": 1658411141,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141891,
-      "num": 106074,
-      "word": "谢娜说王心凌80岁还在跳",
-      "onboard_time": 1658426716,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 123282,
