@@ -1,0 +1,410 @@
+{
+  "runTime": 1658477689375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7877101,
+        "num": 7877101,
+        "word": "林志颖父子车祸",
+        "onboard_time": 1658463942,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2642683,
+        "num": 2642683,
+        "word": "吴啊萍",
+        "onboard_time": 1658458773,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36932,
+        "num": 2006693,
+        "word": "25个暑期博物馆精品特展",
+        "onboard_time": 1658477199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430071,
+        "num": 1430071,
+        "word": "日本正式批准核污水排海计划",
+        "onboard_time": 1658459731,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1128521,
+        "num": 1128521,
+        "word": "白鹿说Hugme真的很好听",
+        "onboard_time": 1658474681,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1094292,
+        "num": 1094292,
+        "word": "南京玄奘寺法师称寺庙已关闭",
+        "onboard_time": 1658471981,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068220,
+        "num": 1068220,
+        "word": "这届年轻人为何偏爱丑东西",
+        "onboard_time": 1658471380,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1042327,
+        "num": 1042327,
+        "word": "印度官员喝下圣河水后剧烈腹痛",
+        "onboard_time": 1658474438,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006349,
+        "num": 1006349,
+        "word": "侵华日军南京大屠杀影像",
+        "onboard_time": 1658457451,
+        "rank": 8,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 889529,
+        "num": 889529,
+        "word": "周密周芯竹终于官宣了",
+        "onboard_time": 1658463155,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2384319,
+        "num": 881418,
+        "word": "林志颖颜面骨折",
+        "onboard_time": 1658476121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789140,
+        "num": 789140,
+        "word": "谭谈交通出镜市民起诉成都电视台",
+        "onboard_time": 1658470181,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692471,
+        "num": 692471,
+        "word": "男子喜欢躺水里睡觉被当浮尸",
+        "onboard_time": 1658474859,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2329904,
+        "num": 648160,
+        "word": "kimi",
+        "onboard_time": 1658470542,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596669,
+        "num": 596669,
+        "word": "今天星期五",
+        "onboard_time": 1658474438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594613,
+        "num": 594613,
+        "word": "警方称小敏来了事件系网友误解",
+        "onboard_time": 1658471561,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448786,
+        "num": 563088,
+        "word": "特斯拉客服回应林志颖父子车祸",
+        "onboard_time": 1658476057,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524995,
+        "num": 524995,
+        "word": "公司给员工更衣室安9个摄像头",
+        "onboard_time": 1658472278,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518305,
+        "num": 518305,
+        "word": "男婴出生一个月历经3次手术顽强求生",
+        "onboard_time": 1658474256,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473956,
+        "num": 473956,
+        "word": "被录取通知书狠狠惊艳到了",
+        "onboard_time": 1658470542,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1353189,
+        "num": 446698,
+        "word": "林志颖父子车祸瞬间画面曝光",
+        "onboard_time": 1658476841,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 945983,
+        "num": 414965,
+        "word": "蔡徐坤新歌榜排名超过周杰伦",
+        "onboard_time": 1658474496,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369123,
+        "num": 369123,
+        "word": "优酷回应投屏收费",
+        "onboard_time": 1658454570,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 871119,
+        "num": 364610,
+        "word": "特斯拉",
+        "onboard_time": 1658465393,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 345280,
+        "num": 345280,
+        "word": "孩子被爸爸监督跑步一年后憨憨变帅哥",
+        "onboard_time": 1658471561,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318842,
+        "num": 318842,
+        "word": "路边的幼鸟其实并不需要你救助",
+        "onboard_time": 1658455830,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301171,
+        "num": 301171,
+        "word": "泰国推出无臭榴莲",
+        "onboard_time": 1658469281,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 266890,
+        "num": 266890,
+        "word": "10个年轻人有7个花钱先看性价比",
+        "onboard_time": 1658465092,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249691,
+        "num": 249691,
+        "word": "郑州暴雨",
+        "onboard_time": 1658458773,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248152,
+        "num": 248152,
+        "word": "华为回应招聘大量天才少年",
+        "onboard_time": 1658464551,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 367571,
+        "num": 247418,
+        "word": "吴磊抱赵露思姿势好眼熟",
+        "onboard_time": 1658469641,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294562,
+        "num": 247119,
+        "word": "薛凯琪妆哭花了",
+        "onboard_time": 1658473539,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275695,
+        "num": 246947,
+        "word": "于文文 郑秀妍懂我就像我懂她",
+        "onboard_time": 1658475098,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246643,
+        "num": 246643,
+        "word": "张天爱以为要乖才不会被讨厌",
+        "onboard_time": 1658473837,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228751,
+        "num": 228751,
+        "word": "原来狗狗也会感到尴尬",
+        "onboard_time": 1658471259,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219092,
+        "num": 219092,
+        "word": "坠楼女童说叔叔像妈妈那样抱住我",
+        "onboard_time": 1658460212,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217959,
+        "num": 217959,
+        "word": "孩子一定要趁早生吗",
+        "onboard_time": 1658466822,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 216099,
+        "num": 216099,
+        "word": "把童年播到了自己的婚礼上",
+        "onboard_time": 1658476057,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207124,
+        "num": 207124,
+        "word": "马蜂窝能有多夸张",
+        "onboard_time": 1658474681,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 34379,
+        "num": 201026,
+        "word": "为何国货更懂年轻人",
+        "onboard_time": 1658476841,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212704,
+        "num": 200964,
+        "word": "张铁林",
+        "onboard_time": 1658476959,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200864,
+        "num": 200864,
+        "word": "夏日祭",
+        "onboard_time": 1658451511,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200747,
+        "num": 200747,
+        "word": "乘风破浪五公分组海报",
+        "onboard_time": 1658471199,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194422,
+        "num": 194422,
+        "word": "杭州消费券",
+        "onboard_time": 1658477199,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188542,
+        "num": 188542,
+        "word": "南京玄奘寺",
+        "onboard_time": 1658446527,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187048,
+        "num": 187048,
+        "word": "省内高校在川一本调档线出炉",
+        "onboard_time": 1658472639,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162251,
+        "num": 162251,
+        "word": "机建燃油费比机票贵是种什么体验",
+        "onboard_time": 1658465631,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162234,
+        "num": 162234,
+        "word": "9名A级通缉电诈头目骨干已到案",
+        "onboard_time": 1658470421,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155901,
+        "num": 155901,
+        "word": "长江白鲟留下的最后活体影像",
+        "onboard_time": 1658461476,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149062,
+        "num": 149062,
+        "word": "饿了么免单",
+        "onboard_time": 1658474557,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设成果展#"
+    }
+  }
+}
