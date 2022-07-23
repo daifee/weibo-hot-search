@@ -1,0 +1,410 @@
+{
+  "runTime": 1658595289708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2192572,
+        "num": 2192572,
+        "word": "孩子发烧取化验单护士低头玩手机",
+        "onboard_time": 1658589873,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160682,
+        "num": 1160682,
+        "word": "胃就是这样被弄坏的",
+        "onboard_time": 1658578590,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250217,
+        "num": 1148023,
+        "word": "长期超量进食易患老年痴呆",
+        "onboard_time": 1658581770,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136457,
+        "num": 1136457,
+        "word": "制作人说刘诗诗是天选淮竹不会变",
+        "onboard_time": 1658592928,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979108,
+        "num": 979108,
+        "word": "全球猴痘病例已超过1.4万例",
+        "onboard_time": 1658589512,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844400,
+        "num": 844400,
+        "word": "倪妮演了张子枫的妈",
+        "onboard_time": 1658582732,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759520,
+        "num": 759520,
+        "word": "坚决禁止针对新冠阳性康复者的就业歧视",
+        "onboard_time": 1658589213,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556540,
+        "num": 556540,
+        "word": "孙怡张晚意我知道我爱你过审",
+        "onboard_time": 1658590713,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522242,
+        "num": 522242,
+        "word": "大腿根想不瘦都难了",
+        "onboard_time": 1658587533,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466140,
+        "num": 466140,
+        "word": "小狗也有自己的电风扇",
+        "onboard_time": 1658591968,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 816898,
+        "num": 451394,
+        "word": "林志颖昏迷",
+        "onboard_time": 1658572351,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551301,
+        "num": 443963,
+        "word": "许嵩综艺感",
+        "onboard_time": 1658593946,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435863,
+        "num": 435863,
+        "word": "唐山互殴案最后一名违法嫌疑人到案",
+        "onboard_time": 1658583935,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539667,
+        "num": 433561,
+        "word": "檀健次给杨紫备注历史老师",
+        "onboard_time": 1658592087,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365810,
+        "num": 365810,
+        "word": "驴友在新疆天堂湖留遍地垃圾",
+        "onboard_time": 1658585015,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313970,
+        "num": 313970,
+        "word": "管泽元",
+        "onboard_time": 1658589452,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297730,
+        "num": 297730,
+        "word": "世卫针对猴痘发布最高级别警报",
+        "onboard_time": 1658588313,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279548,
+        "num": 279548,
+        "word": "千万别尝试奶茶新品",
+        "onboard_time": 1658588134,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248953,
+        "num": 248953,
+        "word": "RNG翻盘",
+        "onboard_time": 1658588854,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230112,
+        "num": 230112,
+        "word": "最后一条白鲟从我的手中放走",
+        "onboard_time": 1658583213,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362608,
+        "num": 230001,
+        "word": "沉香如屑 棺配",
+        "onboard_time": 1658583696,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317234,
+        "num": 229982,
+        "word": "张艺兴晒照感谢大家",
+        "onboard_time": 1658590891,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315797,
+        "num": 229871,
+        "word": "王子文吴永恩一唱一和好有爱",
+        "onboard_time": 1658594127,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228063,
+        "num": 228063,
+        "word": "张本智和 吵",
+        "onboard_time": 1658582913,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222860,
+        "num": 222860,
+        "word": "你们见过汗血宝马游泳吗",
+        "onboard_time": 1658590172,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215787,
+        "num": 215787,
+        "word": "中国台北女足攻破日本球门",
+        "onboard_time": 1658593706,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213265,
+        "num": 213265,
+        "word": "天津蓟州文旅局通报景区游客坠亡",
+        "onboard_time": 1658583275,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188886,
+        "num": 188886,
+        "word": "和相亲过最真诚的男生在一起了",
+        "onboard_time": 1658572832,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175032,
+        "num": 175032,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163927,
+        "num": 163927,
+        "word": "RNG战胜EDG",
+        "onboard_time": 1658588552,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309113,
+        "num": 163094,
+        "word": "网传张开泰出演偷偷藏不住桑延",
+        "onboard_time": 1658590533,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305376,
+        "num": 161290,
+        "word": "林妙妙分手了",
+        "onboard_time": 1658582012,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265319,
+        "num": 159289,
+        "word": "有一种紫叫中国紫",
+        "onboard_time": 1658586154,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232571,
+        "num": 158301,
+        "word": "好久没听到魏晨唱歌了",
+        "onboard_time": 1658593886,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156591,
+        "num": 156591,
+        "word": "玉龙雪山到热带雨林实现火车直达",
+        "onboard_time": 1658592805,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 139402,
+        "num": 139402,
+        "word": "男子悲伤过度无法开车交警帮代驾",
+        "onboard_time": 1658573132,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136715,
+        "num": 136715,
+        "word": "猴痘为国际关注的突发公共卫生事件",
+        "onboard_time": 1658590290,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131100,
+        "num": 131100,
+        "word": "北京朝阳划定高风险区",
+        "onboard_time": 1658579850,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130715,
+        "num": 130715,
+        "word": "武汉东西湖区公务员购房可补贴15万",
+        "onboard_time": 1658576727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126148,
+        "num": 126148,
+        "word": "京藏高速一路怒男子被拘",
+        "onboard_time": 1658586573,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213840,
+        "num": 123809,
+        "word": "梦不落雨林",
+        "onboard_time": 1658586933,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210921,
+        "num": 121735,
+        "word": "GAI再次四句封神",
+        "onboard_time": 1658578652,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119398,
+        "num": 119398,
+        "word": "看把老外震惊的",
+        "onboard_time": 1658587832,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115634,
+        "num": 115634,
+        "word": "日本单日新增确诊破20万",
+        "onboard_time": 1658572534,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113975,
+        "num": 113975,
+        "word": "Breathe船长抢龙",
+        "onboard_time": 1658591551,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105534,
+        "num": 105534,
+        "word": "郭昊文与杜兰特一起打球",
+        "onboard_time": 1658594723,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102415,
+        "num": 102415,
+        "word": "走近科学有多离谱",
+        "onboard_time": 1658585133,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102206,
+        "num": 102206,
+        "word": "丈夫打赏主播10万妻子起诉返还被驳回",
+        "onboard_time": 1658567373,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97188,
+        "num": 97188,
+        "word": "林高远心态",
+        "onboard_time": 1658585792,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68611,
+        "num": 68611,
+        "word": "张本智和WTT冠军赛男单夺冠",
+        "onboard_time": 1658584295,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#数说10年文物工作新进展#"
+    }
+  }
+}
