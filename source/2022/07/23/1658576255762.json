@@ -1,0 +1,410 @@
+{
+  "runTime": 1658576255762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2454562,
+        "num": 2454562,
+        "word": "唐山打架事件8名违法嫌疑人已到案",
+        "onboard_time": 1658563293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1707663,
+        "num": 1707663,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41866,
+        "num": 1275075,
+        "word": "天问一号传回土豆状卫星照片",
+        "onboard_time": 1658538152,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1248331,
+        "num": 1248331,
+        "word": "男子悲伤过度无法开车交警帮代驾",
+        "onboard_time": 1658573132,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884665,
+        "num": 884665,
+        "word": "蔡徐坤新歌封面设计公司道歉",
+        "onboard_time": 1658572111,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2171919,
+        "num": 816384,
+        "word": "林志颖昏迷",
+        "onboard_time": 1658572351,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723230,
+        "num": 723230,
+        "word": "中国人显年轻的原因找到了",
+        "onboard_time": 1658569053,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564039,
+        "num": 564039,
+        "word": "和相亲过最真诚的男生在一起了",
+        "onboard_time": 1658572832,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558522,
+        "num": 558522,
+        "word": "丈夫打赏主播10万妻子起诉返还被驳回",
+        "onboard_time": 1658567373,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521942,
+        "num": 521942,
+        "word": "GAI小卡卖了七千",
+        "onboard_time": 1658563170,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 978853,
+        "num": 521829,
+        "word": "天津一景区游客玩步步惊心坠亡",
+        "onboard_time": 1658574809,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511188,
+        "num": 511188,
+        "word": "日本单日新增确诊破20万",
+        "onboard_time": 1658572534,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454642,
+        "num": 454642,
+        "word": "新冠疫苗不会引发白血病糖尿病",
+        "onboard_time": 1658562630,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446628,
+        "num": 446628,
+        "word": "毒贩在拖鞋底藏毒跨省快递转运",
+        "onboard_time": 1658574211,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441152,
+        "num": 441152,
+        "word": "韩国女足飞踹犯规",
+        "onboard_time": 1658572891,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383377,
+        "num": 383377,
+        "word": "上海高考",
+        "onboard_time": 1658566231,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 358891,
+        "num": 358891,
+        "word": "北京房山提醒近期买过这些食品立即报备",
+        "onboard_time": 1658569594,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346028,
+        "num": 346028,
+        "word": "李静说沈腾和马丽在一块是乘法",
+        "onboard_time": 1658573492,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344713,
+        "num": 344713,
+        "word": "小花卷 可爱",
+        "onboard_time": 1658573014,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341728,
+        "num": 341728,
+        "word": "沉香如屑太甜了",
+        "onboard_time": 1658576010,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738295,
+        "num": 341667,
+        "word": "林志颖没系安全带",
+        "onboard_time": 1658572413,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625330,
+        "num": 341243,
+        "word": "张艺兴紫发海报",
+        "onboard_time": 1658570193,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333612,
+        "num": 333612,
+        "word": "中国女足0比1落后韩国女足",
+        "onboard_time": 1658573851,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688157,
+        "num": 332792,
+        "word": "林志颖已接受手术",
+        "onboard_time": 1658572473,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331880,
+        "num": 331880,
+        "word": "龚俊做豆瓣鱼听取哇声一片",
+        "onboard_time": 1658574150,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316187,
+        "num": 316187,
+        "word": "甘肃一煤矿发生山体坍塌事故",
+        "onboard_time": 1658574211,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287915,
+        "num": 287915,
+        "word": "中国女足vs韩国女足",
+        "onboard_time": 1658563952,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286038,
+        "num": 286038,
+        "word": "郑州疫情通报",
+        "onboard_time": 1658572048,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279655,
+        "num": 279655,
+        "word": "XYG状态",
+        "onboard_time": 1658573251,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244444,
+        "num": 244444,
+        "word": "大暑福建人吃荔枝广东人吃凉粉",
+        "onboard_time": 1658568694,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 265805,
+        "num": 243166,
+        "word": "梦华录",
+        "onboard_time": 1658574931,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252416,
+        "num": 242411,
+        "word": "许嵩李雪琴情头",
+        "onboard_time": 1658558852,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240850,
+        "num": 240850,
+        "word": "Hero上演鬼马迷踪",
+        "onboard_time": 1658574510,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237004,
+        "num": 237004,
+        "word": "广东人喝汤犹如呼吸般平常",
+        "onboard_time": 1658575531,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229263,
+        "num": 229263,
+        "word": "唐山遵化打人事件起因",
+        "onboard_time": 1658566714,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228608,
+        "num": 228608,
+        "word": "玲娜贝儿没惹你们任何人",
+        "onboard_time": 1658564912,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228425,
+        "num": 228425,
+        "word": "爸爸教娃走失自救转眼派上用场",
+        "onboard_time": 1658574391,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219507,
+        "num": 219507,
+        "word": "梦泪模仿葛大爷",
+        "onboard_time": 1658576072,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215955,
+        "num": 215955,
+        "word": "无畏加油",
+        "onboard_time": 1658575049,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214944,
+        "num": 214944,
+        "word": "民警驱车2000公里帮女生寻根上户口",
+        "onboard_time": 1658570853,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224540,
+        "num": 212149,
+        "word": "颜淡手心表白应渊",
+        "onboard_time": 1658572651,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208914,
+        "num": 208914,
+        "word": "钱三一跟林妙妙说别上车",
+        "onboard_time": 1658569294,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208690,
+        "num": 208690,
+        "word": "重庆新增3例本土确诊",
+        "onboard_time": 1658573373,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198265,
+        "num": 198265,
+        "word": "修路工人被邀进屋纳凉纷纷脱掉鞋子",
+        "onboard_time": 1658570315,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197325,
+        "num": 197325,
+        "word": "高温天气下四大禁忌",
+        "onboard_time": 1658574751,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163436,
+        "num": 163436,
+        "word": "把大狗当成窝的小狗",
+        "onboard_time": 1658566656,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137835,
+        "num": 137835,
+        "word": "JDG对战BLG",
+        "onboard_time": 1658575409,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134593,
+        "num": 134593,
+        "word": "如何礼貌回怼相亲对象",
+        "onboard_time": 1658571391,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125033,
+        "num": 125033,
+        "word": "多地机务穿大白工作中暑送进ICU",
+        "onboard_time": 1658567797,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112945,
+        "num": 112945,
+        "word": "缉毒警告诉孩子相遇时不要相认",
+        "onboard_time": 1658564371,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
