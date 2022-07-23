@@ -1,0 +1,410 @@
+{
+  "runTime": 1658583910332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3291227,
+        "num": 3291227,
+        "word": "林高远vs张本智和",
+        "onboard_time": 1658580153,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2178874,
+        "num": 2178874,
+        "word": "倪妮演了张子枫的妈",
+        "onboard_time": 1658582732,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454620,
+        "num": 1945956,
+        "word": "高温天气下四大禁忌",
+        "onboard_time": 1658574751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1778914,
+        "num": 1778914,
+        "word": "胃就是这样被弄坏的",
+        "onboard_time": 1658578590,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1487709,
+        "num": 1487709,
+        "word": "张本智和 吵",
+        "onboard_time": 1658582913,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1175616,
+        "num": 1175616,
+        "word": "林妙妙分手了",
+        "onboard_time": 1658582012,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1060631,
+        "num": 1060631,
+        "word": "张艺兴线上演唱会",
+        "onboard_time": 1658582131,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 880142,
+        "num": 880142,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484988,
+        "num": 484988,
+        "word": "和相亲过最真诚的男生在一起了",
+        "onboard_time": 1658572832,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470049,
+        "num": 470049,
+        "word": "男子悲伤过度无法开车交警帮代驾",
+        "onboard_time": 1658573132,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1699098,
+        "num": 469454,
+        "word": "林志颖昏迷",
+        "onboard_time": 1658572351,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1210573,
+        "num": 468621,
+        "word": "唐山打架事件8名违法嫌疑人已到案",
+        "onboard_time": 1658563293,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839437,
+        "num": 467502,
+        "word": "林高远获WTT冠军赛男单亚军",
+        "onboard_time": 1658583696,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 819756,
+        "num": 466175,
+        "word": "刘敏涛女儿追星演我",
+        "onboard_time": 1658578890,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677880,
+        "num": 465460,
+        "word": "小花盆",
+        "onboard_time": 1658583334,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 464575,
+        "num": 464575,
+        "word": "长期超量进食易患老年痴呆",
+        "onboard_time": 1658581770,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413951,
+        "num": 413951,
+        "word": "北京朝阳划定高风险区",
+        "onboard_time": 1658579850,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402195,
+        "num": 402195,
+        "word": "林高远首局11比3张本智和",
+        "onboard_time": 1658581892,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373511,
+        "num": 373511,
+        "word": "RNG对战EDG",
+        "onboard_time": 1658580930,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372653,
+        "num": 372653,
+        "word": "中国女足1比1扳平韩国女足",
+        "onboard_time": 1658576670,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553068,
+        "num": 361892,
+        "word": "GAI再次四句封神",
+        "onboard_time": 1658578652,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526582,
+        "num": 358019,
+        "word": "丁真小王子与玫瑰花大片",
+        "onboard_time": 1658581353,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 511231,
+        "num": 355422,
+        "word": "染色体新人实力",
+        "onboard_time": 1658583334,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343446,
+        "num": 343446,
+        "word": "天津蓟州文旅局通报景区游客坠亡",
+        "onboard_time": 1658583275,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338824,
+        "num": 338824,
+        "word": "王曼昱WTT冠军赛女单夺冠",
+        "onboard_time": 1658578770,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314601,
+        "num": 314601,
+        "word": "武汉东西湖区公务员购房可补贴15万",
+        "onboard_time": 1658576727,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282763,
+        "num": 282763,
+        "word": "微博将显示MCN机构名称",
+        "onboard_time": 1658578350,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 281536,
+        "num": 281536,
+        "word": "专家称年轻人国货热情超越上一代",
+        "onboard_time": 1658578231,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278554,
+        "num": 278554,
+        "word": "中国人显年轻的原因找到了",
+        "onboard_time": 1658569053,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274571,
+        "num": 274571,
+        "word": "新冠疫苗不会引发白血病糖尿病",
+        "onboard_time": 1658562630,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474970,
+        "num": 272342,
+        "word": "你好星期六",
+        "onboard_time": 1658582973,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508688,
+        "num": 270339,
+        "word": "沉香如屑 棺配",
+        "onboard_time": 1658583696,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416973,
+        "num": 268362,
+        "word": "羊有四十七只",
+        "onboard_time": 1658579192,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 471862,
+        "num": 266428,
+        "word": "沉香如屑太甜了",
+        "onboard_time": 1658576010,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387633,
+        "num": 263311,
+        "word": "许嵩 你好星期六",
+        "onboard_time": 1658581950,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262040,
+        "num": 262040,
+        "word": "日本单日新增确诊破20万",
+        "onboard_time": 1658572534,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243889,
+        "num": 243889,
+        "word": "刺猬偷瓜被放生次日带同伙来作案",
+        "onboard_time": 1658577932,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230160,
+        "num": 230160,
+        "word": "王曼昱 布达佩斯是我的福地",
+        "onboard_time": 1658582491,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218528,
+        "num": 218528,
+        "word": "丈夫打赏主播10万妻子起诉返还被驳回",
+        "onboard_time": 1658567373,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194424,
+        "num": 194424,
+        "word": "男童悬挂楼顶幸被邻居发现救回",
+        "onboard_time": 1658579911,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371441,
+        "num": 192115,
+        "word": "网传狐妖竹业篇女主宋轶",
+        "onboard_time": 1658577508,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205457,
+        "num": 190515,
+        "word": "王曼昱反手",
+        "onboard_time": 1658578471,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188219,
+        "num": 188219,
+        "word": "当代师徒关系现状",
+        "onboard_time": 1658580810,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180595,
+        "num": 180595,
+        "word": "狗子的心情变化有多明显",
+        "onboard_time": 1658580030,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175311,
+        "num": 175311,
+        "word": "爸爸教娃走失自救转眼派上用场",
+        "onboard_time": 1658574391,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169019,
+        "num": 169019,
+        "word": "上海高考",
+        "onboard_time": 1658566231,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168288,
+        "num": 168288,
+        "word": "毒贩在拖鞋底藏毒跨省快递转运",
+        "onboard_time": 1658574211,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162796,
+        "num": 162796,
+        "word": "AG对战狼队",
+        "onboard_time": 1658580810,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154844,
+        "num": 154844,
+        "word": "北京房山提醒近期买过这些食品立即报备",
+        "onboard_time": 1658569594,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154293,
+        "num": 154293,
+        "word": "中国女足00后连场进球",
+        "onboard_time": 1658581413,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
