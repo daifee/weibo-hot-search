@@ -1,6 +1,6 @@
 {
   "startTime": 1658506512892,
-  "endTime": 1658585309072,
+  "endTime": 1658590945413,
   "band_list": [
     {
       "raw_hot": 12502893,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1466477,
+      "num": 1466477,
+      "word": "长期超量进食易患老年痴呆",
+      "onboard_time": 1658581770,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1465856,
       "num": 1465856,
       "word": "警方回应网传唐山再现打人事件",
@@ -283,11 +291,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1389892,
+      "num": 1389892,
+      "word": "RNG战胜EDG",
+      "onboard_time": 1658588552,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1352158,
+      "num": 1352158,
+      "word": "驴友在新疆天堂湖留遍地垃圾",
+      "onboard_time": 1658585015,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351628,
       "num": 483084,
       "word": "玄奘家族后人发声",
       "onboard_time": 1658552852,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1348657,
+      "num": 852534,
+      "word": "唐山互殴案最后一名违法嫌疑人到案",
+      "onboard_time": 1658583935,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1081422,
+      "num": 1081422,
+      "word": "RNG对战EDG",
+      "onboard_time": 1658580930,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1077285,
       "num": 1077285,
       "word": "丈夫打赏主播10万妻子起诉返还被驳回",
@@ -395,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029604,
+      "num": 1029604,
+      "word": "檀健次给杨紫贴公主切刘海",
+      "onboard_time": 1658585554,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013509,
       "num": 1013509,
       "word": "中国女足1比1扳平韩国女足",
       "onboard_time": 1658576670,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 962618,
+      "num": 962618,
+      "word": "世卫针对猴痘发布最高级别警报",
+      "onboard_time": 1658588313,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 954602,
@@ -419,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935638,
+      "num": 935638,
+      "word": "天津蓟州文旅局通报景区游客坠亡",
+      "onboard_time": 1658583275,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922746,
       "num": 922746,
       "word": "中国人显年轻的原因找到了",
       "onboard_time": 1658569053,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 887111,
-      "num": 887111,
-      "word": "长期超量进食易患老年痴呆",
-      "onboard_time": 1658581770,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 884665,
@@ -443,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 882004,
+      "num": 882004,
+      "word": "许嵩爷青回五连唱",
+      "onboard_time": 1658586812,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 873792,
       "num": 399260,
       "word": "林志颖颜面骨折",
       "onboard_time": 1658476121,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 838835,
-      "num": 838835,
-      "word": "天津蓟州文旅局通报景区游客坠亡",
-      "onboard_time": 1658583275,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 831941,
@@ -523,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 737789,
+      "num": 737789,
+      "word": "RNG翻盘",
+      "onboard_time": 1658588854,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 736417,
       "num": 736417,
       "word": "狐妖小红娘",
@@ -579,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716130,
+      "num": 716130,
+      "word": "全球猴痘病例已超过1.4万例",
+      "onboard_time": 1658589512,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712677,
       "num": 712677,
       "word": "龚俊被小H小O撒狗粮",
       "onboard_time": 1658540496,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709475,
+      "num": 709475,
+      "word": "大腿根想不瘦都难了",
+      "onboard_time": 1658587533,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 705709,
@@ -651,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682265,
+      "num": 682265,
+      "word": "张本智和WTT冠军赛男单夺冠",
+      "onboard_time": 1658584295,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 677880,
       "num": 671301,
       "word": "小花盆",
@@ -680,6 +768,14 @@
       "word": "女子超市买菜自带小刀剥菜",
       "onboard_time": 1658541750,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658014,
+      "num": 442278,
+      "word": "有一种紫叫中国紫",
+      "onboard_time": 1658586154,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -715,11 +811,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 640760,
+      "num": 640760,
+      "word": "孩子发烧取化验单护士低头玩手机",
+      "onboard_time": 1658589873,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629306,
-      "num": 355422,
+      "num": 584768,
       "word": "染色体新人实力",
       "onboard_time": 1658583334,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 628309,
+      "num": 624602,
+      "word": "梦不落雨林",
+      "onboard_time": 1658586933,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -763,6 +875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 586592,
+      "num": 586592,
+      "word": "最后一条白鲟从我的手中放走",
+      "onboard_time": 1658583213,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585506,
       "num": 585506,
       "word": "大妈推车缓行100米致机动车道堵死",
@@ -803,12 +923,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 548016,
-      "num": 548016,
-      "word": "RNG对战EDG",
-      "onboard_time": 1658580930,
-      "rank": 9,
-      "category": "游戏"
+      "raw_hot": 549986,
+      "num": 141978,
+      "word": "张艺兴晒照感谢大家",
+      "onboard_time": 1658590891,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 544461,
@@ -835,11 +955,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 529475,
-      "num": 529475,
-      "word": "张本智和WTT冠军赛男单夺冠",
-      "onboard_time": 1658584295,
-      "rank": 14,
+      "raw_hot": 530991,
+      "num": 530991,
+      "word": "林高远心态",
+      "onboard_time": 1658585792,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -849,6 +969,14 @@
       "onboard_time": 1658564912,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 520433,
+      "num": 520433,
+      "word": "坚决禁止针对新冠阳性康复者的就业歧视",
+      "onboard_time": 1658589213,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511188,
@@ -864,14 +992,6 @@
       "word": "毒贩在拖鞋底藏毒跨省快递转运",
       "onboard_time": 1658574211,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509793,
-      "num": 509793,
-      "word": "唐山互殴案最后一名违法嫌疑人到案",
-      "onboard_time": 1658583935,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -939,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480558,
+      "num": 437463,
+      "word": "孙怡张晚意我知道我爱你过审",
+      "onboard_time": 1658590713,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479235,
       "num": 479235,
       "word": "广东事业单位",
@@ -952,6 +1080,14 @@
       "word": "北京朝阳划定高风险区",
       "onboard_time": 1658579850,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475794,
+      "num": 1945956,
+      "word": "高温天气下四大禁忌",
+      "onboard_time": 1658574751,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -979,12 +1115,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 467427,
-      "num": 1945956,
-      "word": "高温天气下四大禁忌",
-      "onboard_time": 1658574751,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 469459,
+      "num": 288659,
+      "word": "王鹤棣沈月合唱私奔到月球",
+      "onboard_time": 1658587413,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 466808,
@@ -1041,6 +1177,14 @@
       "onboard_time": 1658567074,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423332,
+      "num": 423332,
+      "word": "千万别尝试奶茶新品",
+      "onboard_time": 1658588134,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 421967,
@@ -1139,6 +1283,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 392561,
+      "num": 272204,
+      "word": "芷昔假冒颜淡",
+      "onboard_time": 1658586873,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388957,
       "num": 388957,
       "word": "起底南京玄奘寺供奉的日本战犯",
@@ -1211,6 +1363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374923,
+      "num": 271229,
+      "word": "苏醒张远舞台梦回07",
+      "onboard_time": 1658585133,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 371740,
+      "num": 371740,
+      "word": "管泽元",
+      "onboard_time": 1658589452,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369737,
       "num": 369737,
       "word": "成毅沉香如屑应渊拍照pose",
@@ -1225,6 +1393,14 @@
       "onboard_time": 1658549010,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368382,
+      "num": 368382,
+      "word": "京藏高速一路怒男子被拘",
+      "onboard_time": 1658586573,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367992,
@@ -1256,6 +1432,14 @@
       "word": "警方通报网传男子商场内掐死女友",
       "onboard_time": 1658497661,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355423,
+      "num": 355423,
+      "word": "猴痘为国际关注的突发公共卫生事件",
+      "onboard_time": 1658590290,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1323,6 +1507,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339641,
+      "num": 339641,
+      "word": "走近科学有多离谱",
+      "onboard_time": 1658585133,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 337741,
+      "num": 337741,
+      "word": "一看就是有仪式感的员工",
+      "onboard_time": 1658585911,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337736,
       "num": 337736,
       "word": "沈腾的无实人表演",
@@ -1361,14 +1561,6 @@
       "onboard_time": 1658544332,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 332176,
-      "num": 189090,
-      "word": "苏醒张远舞台梦回07",
-      "onboard_time": 1658585133,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 331880,
@@ -1425,14 +1617,6 @@
       "onboard_time": 1658541330,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 320991,
-      "num": 320991,
-      "word": "最后一条白鲟从我的手中放走",
-      "onboard_time": 1658583213,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319595,
@@ -1627,12 +1811,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283452,
-      "num": 283452,
-      "word": "走近科学有多离谱",
-      "onboard_time": 1658585133,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 284028,
+      "num": 284028,
+      "word": "网传张开泰出演偷偷藏不住桑延",
+      "onboard_time": 1658590533,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 280556,
@@ -2067,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208578,
+      "num": 208578,
+      "word": "看把老外震惊的",
+      "onboard_time": 1658587832,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208194,
       "num": 208194,
       "word": "你从哪首歌爱上蔡徐坤",
@@ -2081,6 +2273,14 @@
       "onboard_time": 1658576487,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 202789,
+      "num": 202789,
+      "word": "出门遛恐龙了",
+      "onboard_time": 1658585251,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 202769,
@@ -2227,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171430,
+      "num": 171430,
+      "word": "你们见过汗血宝马游泳吗",
+      "onboard_time": 1658590172,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171259,
       "num": 171259,
       "word": "重庆一村庄河水冒泡能点燃",
@@ -2307,20 +2515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158171,
+      "num": 158171,
+      "word": "林高远被逆转",
+      "onboard_time": 1658586391,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157310,
       "num": 157310,
       "word": "王者荣耀",
       "onboard_time": 1658495016,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156914,
-      "num": 156914,
-      "word": "驴友在新疆天堂湖留遍地垃圾",
-      "onboard_time": 1658585015,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154785,
@@ -2419,14 +2627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130081,
-      "num": 130081,
-      "word": "出门遛恐龙了",
-      "onboard_time": 1658585251,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127596,
       "num": 1927976,
       "word": "天问一号传回土豆状卫星照片",
@@ -2441,6 +2641,14 @@
       "onboard_time": 1658568514,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 126794,
+      "num": 142373,
+      "word": "Meiko的瑟提",
+      "onboard_time": 1658587775,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 112695,
