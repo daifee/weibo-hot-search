@@ -1,0 +1,410 @@
+{
+  "runTime": 1658550227601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753668,
+        "num": 1753668,
+        "word": "他23年卧底上百次曾身中13刀",
+        "onboard_time": 1658546850,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1560576,
+        "num": 1560576,
+        "word": "蔡徐坤工作室回应新歌封面海报",
+        "onboard_time": 1658542113,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 957546,
+        "num": 1193745,
+        "word": "全国十大焖蒸城市",
+        "onboard_time": 1658544031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153845,
+        "num": 1153845,
+        "word": "下一期奔跑吧有赵露思",
+        "onboard_time": 1658544690,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1111523,
+        "num": 1111523,
+        "word": "拉姆案罪犯唐路被执行死刑",
+        "onboard_time": 1658542048,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026437,
+        "num": 1026437,
+        "word": "王一博街舞5宣传片",
+        "onboard_time": 1658547270,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024336,
+        "num": 1024336,
+        "word": "男子157万买到凶宅耽误终身大事",
+        "onboard_time": 1658532805,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906972,
+        "num": 906972,
+        "word": "人们为什么不愿换手机了",
+        "onboard_time": 1658538031,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 779828,
+        "num": 779828,
+        "word": "1岁宝宝打翻泡面全身大面积烫伤",
+        "onboard_time": 1658538871,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530083,
+        "num": 530083,
+        "word": "恒大行政总裁辞职",
+        "onboard_time": 1658543250,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1016293,
+        "num": 526271,
+        "word": "吴啊萍供奉牌位5个日本人1个美国人",
+        "onboard_time": 1658497000,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942036,
+        "num": 517460,
+        "word": "医生称不告知癌症患者病情会更糟",
+        "onboard_time": 1658549070,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692364,
+        "num": 509277,
+        "word": "把怀孕的消息告诉领导后",
+        "onboard_time": 1658539533,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 593136,
+        "num": 503087,
+        "word": "KTV提供有偿陪侍色情表演143人被抓",
+        "onboard_time": 1658536589,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590569,
+        "num": 492700,
+        "word": "宇智波佐助",
+        "onboard_time": 1658542170,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 577851,
+        "num": 479674,
+        "word": "南京发布深夜发文",
+        "onboard_time": 1658536110,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479235,
+        "num": 479235,
+        "word": "广东事业单位",
+        "onboard_time": 1658548229,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 475189,
+        "num": 475189,
+        "word": "游客高空坠落景区关停",
+        "onboard_time": 1658548170,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430595,
+        "num": 430595,
+        "word": "女子超市买菜自带小刀剥菜",
+        "onboard_time": 1658541750,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417252,
+        "num": 417252,
+        "word": "许超医生",
+        "onboard_time": 1658539950,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393438,
+        "num": 393438,
+        "word": "麻辣烫爆火韩国",
+        "onboard_time": 1658501384,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 368418,
+        "num": 368418,
+        "word": "你好星期六全员晒青春疼痛文学",
+        "onboard_time": 1658549010,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348834,
+        "num": 348834,
+        "word": "男孩景区内玩娱乐项目时坠桥",
+        "onboard_time": 1658542408,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322647,
+        "num": 322647,
+        "word": "龚俊被小H小O撒狗粮",
+        "onboard_time": 1658540496,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322314,
+        "num": 322314,
+        "word": "四川什邡通报多名儿童检出腺病毒阳性",
+        "onboard_time": 1658549070,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322130,
+        "num": 322130,
+        "word": "成毅沉香如屑应渊拍照pose",
+        "onboard_time": 1658547510,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292900,
+        "num": 292900,
+        "word": "张一山徐冬冬余罪六年后变化",
+        "onboard_time": 1658542531,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300050,
+        "num": 292510,
+        "word": "沉香如屑诀别花絮是喜剧",
+        "onboard_time": 1658547930,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291708,
+        "num": 291708,
+        "word": "爷爷给孙女手工改造童话游泳池",
+        "onboard_time": 1658547090,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279062,
+        "num": 279062,
+        "word": "BLACKPINK线上演唱会",
+        "onboard_time": 1658536230,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269838,
+        "num": 269838,
+        "word": "伊犁的天",
+        "onboard_time": 1658546670,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 267083,
+        "num": 267083,
+        "word": "斗罗大陆",
+        "onboard_time": 1658545832,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 254909,
+        "num": 254909,
+        "word": "金靖道歉",
+        "onboard_time": 1658500482,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246246,
+        "num": 246246,
+        "word": "被栏杆卡住的社死小狗",
+        "onboard_time": 1658549010,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238000,
+        "num": 238000,
+        "word": "饿了么",
+        "onboard_time": 1658549850,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 236992,
+        "num": 236992,
+        "word": "林志颖发生车祸时救护车正好经过",
+        "onboard_time": 1658490937,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234363,
+        "num": 234363,
+        "word": "这样洗澡一定很快乐吧",
+        "onboard_time": 1658549490,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231563,
+        "num": 231563,
+        "word": "网传他从火光中走来男主黄景瑜",
+        "onboard_time": 1658550090,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230443,
+        "num": 230443,
+        "word": "马程",
+        "onboard_time": 1658544332,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210585,
+        "num": 210585,
+        "word": "甘肃增42例确诊329例无症状",
+        "onboard_time": 1658540009,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221604,
+        "num": 207896,
+        "word": "狐妖小红娘",
+        "onboard_time": 1658536651,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202086,
+        "num": 202086,
+        "word": "歼35",
+        "onboard_time": 1658532263,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 192689,
+        "num": 192689,
+        "word": "起底南京玄奘寺及传真法师",
+        "onboard_time": 1658533587,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179499,
+        "num": 179499,
+        "word": "护考",
+        "onboard_time": 1658543733,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177894,
+        "num": 177894,
+        "word": "沉香如屑",
+        "onboard_time": 1658534608,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175384,
+        "num": 175384,
+        "word": "这大概是跑步给人带来的变化",
+        "onboard_time": 1658541989,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175283,
+        "num": 175283,
+        "word": "吃饭过快增加患糖尿病风险",
+        "onboard_time": 1658535268,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165793,
+        "num": 165793,
+        "word": "四川新增本土确诊11例",
+        "onboard_time": 1658540252,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155959,
+        "num": 155959,
+        "word": "星汉灿烂",
+        "onboard_time": 1658548590,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150824,
+        "num": 150824,
+        "word": "刘诗颖获女子标枪第四",
+        "onboard_time": 1658545534,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}

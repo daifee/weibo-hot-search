@@ -1,6 +1,6 @@
 {
   "startTime": 1658506512892,
-  "endTime": 1658537706716,
+  "endTime": 1658550227601,
   "band_list": [
     {
       "raw_hot": 3751488,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2813214,
+      "num": 2813214,
+      "word": "蔡徐坤工作室回应新歌封面海报",
+      "onboard_time": 1658542113,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2681563,
       "num": 2681563,
       "word": "微信崩了",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2309137,
-      "num": 634364,
+      "num": 668471,
       "word": "南京发布深夜发文",
       "onboard_time": 1658536110,
       "rank": 10,
@@ -59,11 +67,83 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1882094,
+      "num": 672367,
+      "word": "把怀孕的消息告诉领导后",
+      "onboard_time": 1658539533,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1753668,
+      "num": 1753668,
+      "word": "他23年卧底上百次曾身中13刀",
+      "onboard_time": 1658546850,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1728887,
-      "num": 631056,
+      "num": 670720,
       "word": "吴啊萍供奉牌位5个日本人1个美国人",
       "onboard_time": 1658497000,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1547053,
+      "num": 1547053,
+      "word": "下一期奔跑吧有赵露思",
+      "onboard_time": 1658544690,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1522815,
+      "num": 1522815,
+      "word": "1岁宝宝打翻泡面全身大面积烫伤",
+      "onboard_time": 1658538871,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1463705,
+      "num": 1463705,
+      "word": "人们为什么不愿换手机了",
+      "onboard_time": 1658538031,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1233398,
+      "num": 1233398,
+      "word": "王一博街舞5宣传片",
+      "onboard_time": 1658547270,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1231904,
+      "num": 1231904,
+      "word": "宇智波佐助",
+      "onboard_time": 1658542170,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 1201777,
+      "num": 1201777,
+      "word": "拉姆案罪犯唐路被执行死刑",
+      "onboard_time": 1658542048,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1141563,
+      "num": 669953,
+      "word": "KTV提供有偿陪侍色情表演143人被抓",
+      "onboard_time": 1658536589,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957546,
+      "num": 1276092,
+      "word": "全国十大焖蒸城市",
+      "onboard_time": 1658544031,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 954602,
       "num": 954602,
       "word": "歼35",
       "onboard_time": 1658532263,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 942036,
+      "num": 517460,
+      "word": "医生称不告知癌症患者病情会更糟",
+      "onboard_time": 1658549070,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 873792,
@@ -91,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761511,
+      "num": 761511,
+      "word": "恒大行政总裁辞职",
+      "onboard_time": 1658543250,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 751207,
       "num": 583654,
       "word": "拜鬼的鬼得一捉到底",
       "onboard_time": 1658501083,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736417,
+      "num": 736417,
+      "word": "狐妖小红娘",
+      "onboard_time": 1658536651,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 733626,
@@ -131,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719803,
-      "num": 624558,
-      "word": "KTV提供有偿陪侍色情表演143人被抓",
-      "onboard_time": 1658536589,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 717694,
       "num": 717694,
       "word": "运动后三四天身体仍疼痛要注意",
@@ -147,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716445,
-      "num": 716445,
-      "word": "狐妖小红娘",
-      "onboard_time": 1658536651,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 712677,
+      "num": 712677,
+      "word": "龚俊被小H小O撒狗粮",
+      "onboard_time": 1658540496,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 705709,
@@ -203,6 +307,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 672738,
+      "num": 672738,
+      "word": "张一山徐冬冬余罪六年后变化",
+      "onboard_time": 1658542531,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 668745,
+      "num": 668745,
+      "word": "女子超市买菜自带小刀剥菜",
+      "onboard_time": 1658541750,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617287,
       "num": 617287,
       "word": "成都疫情防控",
@@ -235,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567346,
+      "num": 567346,
+      "word": "男孩景区内玩娱乐项目时坠桥",
+      "onboard_time": 1658542408,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544363,
       "num": 544363,
       "word": "长沙将取消首套房面积限制性要求",
@@ -259,6 +387,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479235,
+      "num": 479235,
+      "word": "广东事业单位",
+      "onboard_time": 1658548229,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 475189,
+      "num": 475189,
+      "word": "游客高空坠落景区关停",
+      "onboard_time": 1658548170,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463978,
+      "num": 463978,
+      "word": "许超医生",
+      "onboard_time": 1658539950,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454417,
       "num": 454417,
       "word": "日本祸水外流必将自吞苦水",
@@ -275,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421967,
+      "num": 421967,
+      "word": "这就是街舞5宣传片",
+      "onboard_time": 1658544870,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420305,
       "num": 332355,
       "word": "钱三一吃醋",
@@ -288,6 +448,14 @@
       "word": "妈妈把猪圈改成泳池给孩子消暑",
       "onboard_time": 1658497661,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413551,
+      "num": 413551,
+      "word": "甘肃增42例确诊329例无症状",
+      "onboard_time": 1658540009,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -307,12 +475,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387833,
+      "num": 387833,
+      "word": "张子枫新剧开播就相亲",
+      "onboard_time": 1658536952,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387313,
+      "num": 387313,
+      "word": "应渊帝君白发",
+      "onboard_time": 1658542772,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369737,
+      "num": 369737,
+      "word": "成毅沉香如屑应渊拍照pose",
+      "onboard_time": 1658547510,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368418,
+      "num": 368418,
+      "word": "你好星期六全员晒青春疼痛文学",
+      "onboard_time": 1658549010,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361964,
       "num": 280099,
       "word": "天才基本法 改编",
       "onboard_time": 1658502522,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356761,
+      "num": 356761,
+      "word": "四川新增本土确诊11例",
+      "onboard_time": 1658540252,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355890,
@@ -345,6 +553,62 @@
       "onboard_time": 1658496759,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336618,
+      "num": 1610476,
+      "word": "吃饭过快增加患糖尿病风险",
+      "onboard_time": 1658535268,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336089,
+      "num": 336089,
+      "word": "沉香如屑诀别花絮是喜剧",
+      "onboard_time": 1658547930,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333094,
+      "num": 333094,
+      "word": "马程",
+      "onboard_time": 1658544332,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 326095,
+      "num": 326095,
+      "word": "易小雅 造型",
+      "onboard_time": 1658541512,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 322314,
+      "num": 322314,
+      "word": "四川什邡通报多名儿童检出腺病毒阳性",
+      "onboard_time": 1658549070,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321585,
+      "num": 321585,
+      "word": "大众CEO将于8月底离职",
+      "onboard_time": 1658541330,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 319595,
+      "num": 319595,
+      "word": "这大概是跑步给人带来的变化",
+      "onboard_time": 1658541989,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309046,
@@ -387,6 +651,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291708,
+      "num": 291708,
+      "word": "爷爷给孙女手工改造童话游泳池",
+      "onboard_time": 1658547090,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290169,
+      "num": 290169,
+      "word": "地心谷",
+      "onboard_time": 1658543612,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289014,
       "num": 289014,
       "word": "德克士用免费券10分钟遭4种对待",
@@ -395,12 +675,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288478,
-      "num": 1161870,
-      "word": "吃饭过快增加患糖尿病风险",
-      "onboard_time": 1658535268,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 287289,
+      "num": 287289,
+      "word": "断桥杀青照",
+      "onboard_time": 1658541089,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279767,
+      "num": 279767,
+      "word": "斗罗大陆",
+      "onboard_time": 1658545832,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 274797,
+      "num": 274797,
+      "word": "这就是街舞",
+      "onboard_time": 1658548229,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269838,
+      "num": 269838,
+      "word": "伊犁的天",
+      "onboard_time": 1658546670,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 269122,
@@ -409,6 +713,14 @@
       "onboard_time": 1658508625,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268363,
+      "num": 268363,
+      "word": "星汉灿烂",
+      "onboard_time": 1658548590,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 265749,
@@ -435,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254630,
+      "num": 254630,
+      "word": "中国男子接力队无缘晋级",
+      "onboard_time": 1658543250,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248405,
       "num": 248405,
       "word": "大暑",
@@ -451,12 +771,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246246,
+      "num": 246246,
+      "word": "被栏杆卡住的社死小狗",
+      "onboard_time": 1658549010,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 238128,
+      "num": 238128,
+      "word": "我国舰载无人直升机成功试飞",
+      "onboard_time": 1658538692,
+      "rank": 36,
+      "category": "军事,科技"
+    },
+    {
+      "raw_hot": 238000,
+      "num": 238000,
+      "word": "饿了么",
+      "onboard_time": 1658549850,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 237642,
+      "num": 237642,
+      "word": "立志将互联网所有驾校笑话一网打尽",
+      "onboard_time": 1658540371,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236182,
       "num": 236182,
       "word": "狗的洁癖突然被治好了",
       "onboard_time": 1658498501,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 234697,
+      "num": 234697,
+      "word": "护考",
+      "onboard_time": 1658543733,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 234363,
+      "num": 234363,
+      "word": "这样洗澡一定很快乐吧",
+      "onboard_time": 1658549490,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 234119,
@@ -473,6 +841,14 @@
       "onboard_time": 1658533587,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231563,
+      "num": 231563,
+      "word": "网传他从火光中走来男主黄景瑜",
+      "onboard_time": 1658550090,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 229106,
@@ -531,20 +907,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202769,
+      "num": 202769,
+      "word": "7月22日北京新增1名本土确诊",
+      "onboard_time": 1658538391,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201280,
       "num": 201280,
       "word": "hugme首舞台",
       "onboard_time": 1658511081,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200768,
-      "num": 200768,
-      "word": "张子枫新剧开播就相亲",
-      "onboard_time": 1658536952,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 199598,
@@ -603,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182517,
+      "num": 182517,
+      "word": "热化了用古诗词怎么说",
+      "onboard_time": 1658540733,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176955,
       "num": 176955,
       "word": "白鹿周深清唱卡点爱你",
@@ -648,6 +1032,14 @@
       "word": "王曼昱vs王艺迪",
       "onboard_time": 1658537432,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165205,
+      "num": 165205,
+      "word": "刘诗颖获女子标枪第四",
+      "onboard_time": 1658545534,
+      "rank": 48,
       "category": "体育"
     },
     {
