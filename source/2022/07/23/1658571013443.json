@@ -1,0 +1,410 @@
+{
+  "runTime": 1658571013443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8090542,
+        "num": 8090542,
+        "word": "唐山打架事件8名违法嫌疑人已到案",
+        "onboard_time": 1658563293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2654084,
+        "num": 2654084,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66042,
+        "num": 1576150,
+        "word": "天问一号传回土豆状卫星照片",
+        "onboard_time": 1658538152,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1068046,
+        "num": 1068046,
+        "word": "丈夫打赏主播10万妻子起诉返还被驳回",
+        "onboard_time": 1658567373,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868872,
+        "num": 868872,
+        "word": "GAI小卡卖了七千",
+        "onboard_time": 1658563170,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867242,
+        "num": 867242,
+        "word": "中国人显年轻的原因找到了",
+        "onboard_time": 1658569053,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 823396,
+        "num": 823396,
+        "word": "新冠疫苗不会引发白血病糖尿病",
+        "onboard_time": 1658562630,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817500,
+        "num": 817500,
+        "word": "上海高考",
+        "onboard_time": 1658566231,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 626541,
+        "num": 626541,
+        "word": "唐山遵化打人事件起因",
+        "onboard_time": 1658566714,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618264,
+        "num": 618264,
+        "word": "张艺兴紫发海报",
+        "onboard_time": 1658570193,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 577206,
+        "num": 577206,
+        "word": "许嵩李雪琴情头",
+        "onboard_time": 1658558852,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496077,
+        "num": 496077,
+        "word": "玲娜贝儿没惹你们任何人",
+        "onboard_time": 1658564912,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417578,
+        "num": 417578,
+        "word": "警方回应网传唐山再现打人事件",
+        "onboard_time": 1658563111,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403191,
+        "num": 403191,
+        "word": "吴彤把刘耀文生日设置成萌探密室密码",
+        "onboard_time": 1658567074,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382903,
+        "num": 382903,
+        "word": "林妙妙手撕吕佳维",
+        "onboard_time": 1658564556,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364993,
+        "num": 364993,
+        "word": "王一博三次街舞出场对比",
+        "onboard_time": 1658563472,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361120,
+        "num": 361120,
+        "word": "北京房山提醒近期买过这些食品立即报备",
+        "onboard_time": 1658569594,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330889,
+        "num": 330889,
+        "word": "中国女足vs韩国女足",
+        "onboard_time": 1658563952,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320393,
+        "num": 320393,
+        "word": "6楼坠楼女孩欣欣出院了",
+        "onboard_time": 1658563053,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310536,
+        "num": 310536,
+        "word": "把大狗当成窝的小狗",
+        "onboard_time": 1658566656,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323811,
+        "num": 306869,
+        "word": "幸福到万家为何出圈",
+        "onboard_time": 1658568755,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289212,
+        "num": 289212,
+        "word": "缉毒警告诉孩子相遇时不要相认",
+        "onboard_time": 1658564371,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271385,
+        "num": 271385,
+        "word": "Hero对战XYG",
+        "onboard_time": 1658569891,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269398,
+        "num": 269398,
+        "word": "大暑福建人吃荔枝广东人吃凉粉",
+        "onboard_time": 1658568694,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 269254,
+        "num": 269254,
+        "word": "贵州老字号豆花面有多绝",
+        "onboard_time": 1658568634,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256750,
+        "num": 256750,
+        "word": "姜云升回应演出票价问题",
+        "onboard_time": 1658565513,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252256,
+        "num": 252256,
+        "word": "甘望星不能忍受肚子上有一点肉",
+        "onboard_time": 1658566956,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236993,
+        "num": 236993,
+        "word": "王霜替补",
+        "onboard_time": 1658569294,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233621,
+        "num": 233621,
+        "word": "多地机务穿大白工作中暑送进ICU",
+        "onboard_time": 1658567797,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231125,
+        "num": 231125,
+        "word": "美国一男子同时感染新冠猴痘",
+        "onboard_time": 1658560111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249254,
+        "num": 230578,
+        "word": "钱三一跟林妙妙说别上车",
+        "onboard_time": 1658569294,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248344,
+        "num": 228398,
+        "word": "林妙妙的男朋友竟然有老婆",
+        "onboard_time": 1658551351,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215655,
+        "num": 215655,
+        "word": "50万网友跟洛阳博物馆学化妆",
+        "onboard_time": 1658569053,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208693,
+        "num": 208693,
+        "word": "曹德旺称不要认为穿袈裟就是和尚",
+        "onboard_time": 1658558192,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 201267,
+        "num": 201267,
+        "word": "Angelababy 观察力",
+        "onboard_time": 1658567195,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199299,
+        "num": 199299,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1658567135,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194233,
+        "num": 194233,
+        "word": "招商银行app崩了",
+        "onboard_time": 1658568215,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184211,
+        "num": 184211,
+        "word": "宽米粉什么时候才能走花路",
+        "onboard_time": 1658568993,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182745,
+        "num": 182745,
+        "word": "ICE退赛",
+        "onboard_time": 1658561551,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 145905,
+        "word": "全国十大焖蒸城市",
+        "onboard_time": 1658544031,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175199,
+        "num": 144397,
+        "word": "杨幂说阿娇阿Sa是时代的传说",
+        "onboard_time": 1658555913,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165967,
+        "num": 143521,
+        "word": "林妙妙演我上班",
+        "onboard_time": 1658570374,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142353,
+        "num": 142353,
+        "word": "修路工人被邀进屋纳凉纷纷脱掉鞋子",
+        "onboard_time": 1658570315,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141298,
+        "num": 141298,
+        "word": "圆明园撞色睡莲",
+        "onboard_time": 1658554716,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136413,
+        "num": 136413,
+        "word": "7岁女儿怕爸爸工作累心疼哭了",
+        "onboard_time": 1658562630,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134294,
+        "num": 134294,
+        "word": "3分钟手臂燃脂操",
+        "onboard_time": 1658570315,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129761,
+        "num": 129761,
+        "word": "22岁女生出生第2天被抛弃",
+        "onboard_time": 1658570853,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123271,
+        "num": 123271,
+        "word": "英国小哥摊煎饼包粽子获百万粉丝",
+        "onboard_time": 1658561073,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115419,
+        "num": 115419,
+        "word": "人们为什么不愿换手机了",
+        "onboard_time": 1658538031,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113146,
+        "num": 113146,
+        "word": "恩施地心谷通报上海游客坠落事件",
+        "onboard_time": 1658563592,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
