@@ -1,0 +1,410 @@
+{
+  "runTime": 1658567353197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11961522,
+        "num": 12751427,
+        "word": "唐山打架事件8名违法嫌疑人已到案",
+        "onboard_time": 1658563293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1639853,
+        "num": 1639853,
+        "word": "新冠疫苗不会引发白血病糖尿病",
+        "onboard_time": 1658562630,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105455,
+        "num": 1603224,
+        "word": "天问一号传回土豆状卫星照片",
+        "onboard_time": 1658538152,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1587405,
+        "num": 1587405,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1393755,
+        "num": 1393755,
+        "word": "GAI小卡卖了七千",
+        "onboard_time": 1658563170,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1141047,
+        "num": 1141047,
+        "word": "警方回应网传唐山再现打人事件",
+        "onboard_time": 1658563111,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776234,
+        "num": 776234,
+        "word": "许嵩李雪琴情头",
+        "onboard_time": 1658558852,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705365,
+        "num": 705365,
+        "word": "6楼坠楼女孩欣欣出院了",
+        "onboard_time": 1658563053,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609124,
+        "num": 609124,
+        "word": "王一博三次街舞出场对比",
+        "onboard_time": 1658563472,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484954,
+        "num": 484954,
+        "word": "美国一男子同时感染新冠猴痘",
+        "onboard_time": 1658560111,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549236,
+        "num": 455773,
+        "word": "林妙妙手撕吕佳维",
+        "onboard_time": 1658564556,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415205,
+        "num": 415205,
+        "word": "曹德旺称不要认为穿袈裟就是和尚",
+        "onboard_time": 1658558192,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 392948,
+        "num": 392948,
+        "word": "林妙妙的男朋友竟然有老婆",
+        "onboard_time": 1658551351,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379587,
+        "num": 379587,
+        "word": "上海高考",
+        "onboard_time": 1658566231,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 359019,
+        "num": 359019,
+        "word": "缉毒警告诉孩子相遇时不要相认",
+        "onboard_time": 1658564371,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334702,
+        "num": 334702,
+        "word": "全国十大焖蒸城市",
+        "onboard_time": 1658544031,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321610,
+        "num": 321610,
+        "word": "姜云升回应演出票价问题",
+        "onboard_time": 1658565513,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309271,
+        "num": 309271,
+        "word": "英国小哥摊煎饼包粽子获百万粉丝",
+        "onboard_time": 1658561073,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291318,
+        "num": 291318,
+        "word": "玲娜贝儿没惹你们任何人",
+        "onboard_time": 1658564912,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276701,
+        "num": 276701,
+        "word": "7岁女儿怕爸爸工作累心疼哭了",
+        "onboard_time": 1658562630,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318673,
+        "num": 274781,
+        "word": "ICE退赛",
+        "onboard_time": 1658561551,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305381,
+        "num": 273901,
+        "word": "吴彤把刘耀文生日设置成萌探密室密码",
+        "onboard_time": 1658567074,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288019,
+        "num": 273189,
+        "word": "杨幂说阿娇阿Sa是时代的传说",
+        "onboard_time": 1658555913,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271960,
+        "num": 271960,
+        "word": "圆明园撞色睡莲",
+        "onboard_time": 1658554716,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267567,
+        "num": 267567,
+        "word": "游客高空坠落景区关停",
+        "onboard_time": 1658548170,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260090,
+        "num": 260090,
+        "word": "当职业选手遇上本命英雄",
+        "onboard_time": 1658565636,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258624,
+        "num": 258624,
+        "word": "唐山遵化打人事件起因",
+        "onboard_time": 1658566714,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224697,
+        "num": 224697,
+        "word": "瘦死文学",
+        "onboard_time": 1658550812,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212411,
+        "num": 212411,
+        "word": "人们为什么不愿换手机了",
+        "onboard_time": 1658538031,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197242,
+        "num": 197242,
+        "word": "把大狗当成窝的小狗",
+        "onboard_time": 1658566656,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248882,
+        "num": 195366,
+        "word": "万妮达 可爱",
+        "onboard_time": 1658561190,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215608,
+        "num": 195099,
+        "word": "周柯宇哭着感谢Gemini",
+        "onboard_time": 1658555318,
+        "rank": 31,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 192833,
+        "num": 192833,
+        "word": "甘望星不能忍受肚子上有一点肉",
+        "onboard_time": 1658566956,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183747,
+        "num": 183747,
+        "word": "中国女足vs韩国女足",
+        "onboard_time": 1658563952,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178021,
+        "num": 178021,
+        "word": "医生称不告知癌症患者病情会更糟",
+        "onboard_time": 1658549070,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176885,
+        "num": 176885,
+        "word": "荣耀为何撤出印度市场",
+        "onboard_time": 1658563232,
+        "rank": 35,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 176647,
+        "num": 176647,
+        "word": "沉香如屑的服化道",
+        "onboard_time": 1658552490,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173469,
+        "num": 173469,
+        "word": "地心谷景区步步惊心项目已关停",
+        "onboard_time": 1658565218,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155816,
+        "num": 155816,
+        "word": "恩施地心谷通报上海游客坠落事件",
+        "onboard_time": 1658563592,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151894,
+        "num": 151894,
+        "word": "浙江学考",
+        "onboard_time": 1658560292,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173669,
+        "num": 151526,
+        "word": "梦幻的天青色源于宋徽宗一个梦",
+        "onboard_time": 1658567015,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171824,
+        "num": 146266,
+        "word": "Angelababy 观察力",
+        "onboard_time": 1658567195,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170889,
+        "num": 143985,
+        "word": "敖子逸玩椅子摔倒",
+        "onboard_time": 1658562933,
+        "rank": 42,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 139880,
+        "num": 139880,
+        "word": "把怀孕的消息告诉领导后",
+        "onboard_time": 1658539533,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112738,
+        "num": 112738,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1658567135,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110952,
+        "num": 110952,
+        "word": "他23年卧底上百次曾身中13刀",
+        "onboard_time": 1658546850,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108109,
+        "num": 108109,
+        "word": "这样洗澡一定很快乐吧",
+        "onboard_time": 1658549490,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104929,
+        "num": 104929,
+        "word": "国家医保局回应将部分药品调出目录",
+        "onboard_time": 1658554954,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101282,
+        "num": 101282,
+        "word": "重庆一公司火灾致4死",
+        "onboard_time": 1658551834,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 99048,
+        "num": 99048,
+        "word": "夏天的最后一个节气",
+        "onboard_time": 1658564855,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
