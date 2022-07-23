@@ -1,0 +1,774 @@
+{
+  "startTime": 1658506512892,
+  "endTime": 1658537706716,
+  "band_list": [
+    {
+      "raw_hot": 3751488,
+      "num": 3751488,
+      "word": "金靖道歉",
+      "onboard_time": 1658500482,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3002827,
+      "num": 3002827,
+      "word": "男子157万买到凶宅耽误终身大事",
+      "onboard_time": 1658532805,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2851558,
+      "num": 1575431,
+      "word": "林志颖方发声明",
+      "onboard_time": 1658485478,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2681563,
+      "num": 2681563,
+      "word": "微信崩了",
+      "onboard_time": 1658498919,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2309137,
+      "num": 634364,
+      "word": "南京发布深夜发文",
+      "onboard_time": 1658536110,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2010448,
+      "num": 2010448,
+      "word": "麻辣烫爆火韩国",
+      "onboard_time": 1658501384,
+      "rank": 3,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1944669,
+      "num": 1944669,
+      "word": "李晨 位置",
+      "onboard_time": 1658500422,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1728887,
+      "num": 631056,
+      "word": "吴啊萍供奉牌位5个日本人1个美国人",
+      "onboard_time": 1658497000,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033498,
+      "num": 1033498,
+      "word": "男子消费42元结账时付0.01元",
+      "onboard_time": 1658496157,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954602,
+      "num": 954602,
+      "word": "歼35",
+      "onboard_time": 1658532263,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 873792,
+      "num": 399260,
+      "word": "林志颖颜面骨折",
+      "onboard_time": 1658476121,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 751207,
+      "num": 583654,
+      "word": "拜鬼的鬼得一捉到底",
+      "onboard_time": 1658501083,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733626,
+      "num": 494111,
+      "word": "玄奘寺爱国主义教育基地牌匾被摘下",
+      "onboard_time": 1658501925,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731554,
+      "num": 703432,
+      "word": "南京回应玄奘寺供奉牌位有关情况",
+      "onboard_time": 1658498382,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723267,
+      "num": 483362,
+      "word": "解放军报评玄奘寺事件",
+      "onboard_time": 1658499882,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720499,
+      "num": 392295,
+      "word": "林志颖发生车祸时救护车正好经过",
+      "onboard_time": 1658490937,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 719803,
+      "num": 624558,
+      "word": "KTV提供有偿陪侍色情表演143人被抓",
+      "onboard_time": 1658536589,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717694,
+      "num": 717694,
+      "word": "运动后三四天身体仍疼痛要注意",
+      "onboard_time": 1658503959,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716445,
+      "num": 716445,
+      "word": "狐妖小红娘",
+      "onboard_time": 1658536651,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 705709,
+      "num": 308106,
+      "word": "林志颖头部受伤一度无法说话",
+      "onboard_time": 1658496216,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 701328,
+      "num": 482929,
+      "word": "蔡徐坤说希望你们喜欢Hugme首舞台",
+      "onboard_time": 1658503542,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 699171,
+      "num": 699171,
+      "word": "官方回应长沙岳麓山被游客踩矮",
+      "onboard_time": 1658499582,
+      "rank": 7,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 697544,
+      "num": 475967,
+      "word": "沉香如屑节奏好快",
+      "onboard_time": 1658501744,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 691362,
+      "num": 467610,
+      "word": "向往的生活",
+      "onboard_time": 1658501744,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 685232,
+      "num": 621546,
+      "word": "BLACKPINK线上演唱会",
+      "onboard_time": 1658536230,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 617287,
+      "num": 617287,
+      "word": "成都疫情防控",
+      "onboard_time": 1658534660,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605365,
+      "num": 460668,
+      "word": "当地派出所正在核实吴啊萍身份",
+      "onboard_time": 1658489915,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585506,
+      "num": 585506,
+      "word": "大妈推车缓行100米致机动车道堵死",
+      "onboard_time": 1658524271,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579388,
+      "num": 336962,
+      "word": "玄奘寺住持曾参加美容店开业",
+      "onboard_time": 1658506292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544363,
+      "num": 544363,
+      "word": "长沙将取消首套房面积限制性要求",
+      "onboard_time": 1658519832,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 509759,
+      "num": 283772,
+      "word": "杨幂钻赵今麦被窝",
+      "onboard_time": 1658498742,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 505753,
+      "num": 505753,
+      "word": "有一种丑是累出来的",
+      "onboard_time": 1658496037,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 454417,
+      "num": 454417,
+      "word": "日本祸水外流必将自吞苦水",
+      "onboard_time": 1658502703,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441701,
+      "num": 441701,
+      "word": "全年最热的时候来了",
+      "onboard_time": 1658532443,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420305,
+      "num": 332355,
+      "word": "钱三一吃醋",
+      "onboard_time": 1658507071,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 419565,
+      "num": 419565,
+      "word": "妈妈把猪圈改成泳池给孩子消暑",
+      "onboard_time": 1658497661,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398848,
+      "num": 398848,
+      "word": "江西女职工生育可享188天产假",
+      "onboard_time": 1658520552,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388957,
+      "num": 388957,
+      "word": "起底南京玄奘寺供奉的日本战犯",
+      "onboard_time": 1658528894,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361964,
+      "num": 280099,
+      "word": "天才基本法 改编",
+      "onboard_time": 1658502522,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355890,
+      "num": 355890,
+      "word": "警方通报网传男子商场内掐死女友",
+      "onboard_time": 1658497661,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352203,
+      "num": 352203,
+      "word": "杨幂李斯丹妮教科书式吵架",
+      "onboard_time": 1658531722,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 346528,
+      "num": 346528,
+      "word": "zzr 帅",
+      "onboard_time": 1658495256,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 341334,
+      "num": 341334,
+      "word": "我也不太了解她",
+      "onboard_time": 1658496759,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309046,
+      "num": 309046,
+      "word": "自律是治愈一切迷茫的良药",
+      "onboard_time": 1658503182,
+      "rank": 25,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 306477,
+      "num": 306477,
+      "word": "我去驾校只办三件事",
+      "onboard_time": 1658499582,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300312,
+      "num": 267169,
+      "word": "龚俊和李荣浩浅聊一下音乐",
+      "onboard_time": 1658506471,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297462,
+      "num": 297462,
+      "word": "玄奘寺事件举报人称不怕被报复",
+      "onboard_time": 1658478998,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296871,
+      "num": 296871,
+      "word": "沉香如屑",
+      "onboard_time": 1658534608,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289014,
+      "num": 289014,
+      "word": "德克士用免费券10分钟遭4种对待",
+      "onboard_time": 1658496579,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288478,
+      "num": 1161870,
+      "word": "吃饭过快增加患糖尿病风险",
+      "onboard_time": 1658535268,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269122,
+      "num": 226269,
+      "word": "王祖蓝去蘑菇屋带的靠枕有2米",
+      "onboard_time": 1658508625,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265749,
+      "num": 265749,
+      "word": "江西女职工生育奖励产假增至90天",
+      "onboard_time": 1658533945,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261389,
+      "num": 261389,
+      "word": "王艺迪4比3孙颖莎",
+      "onboard_time": 1658534489,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260816,
+      "num": 260816,
+      "word": "我是来做核酸的",
+      "onboard_time": 1658506053,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248405,
+      "num": 248405,
+      "word": "大暑",
+      "onboard_time": 1658531179,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248358,
+      "num": 248358,
+      "word": "陈卓璇高音",
+      "onboard_time": 1658503901,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236182,
+      "num": 236182,
+      "word": "狗的洁癖突然被治好了",
+      "onboard_time": 1658498501,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 234119,
+      "num": 234119,
+      "word": "微信回应故障",
+      "onboard_time": 1658505097,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 232769,
+      "num": 232769,
+      "word": "起底南京玄奘寺及传真法师",
+      "onboard_time": 1658533587,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229106,
+      "num": 229106,
+      "word": "湖南省考成绩",
+      "onboard_time": 1658532685,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 228012,
+      "num": 228012,
+      "word": "环球时报评南京玄奘寺事件",
+      "onboard_time": 1658502522,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225761,
+      "num": 182428,
+      "word": "张艺兴嘴里享受心里想瘦",
+      "onboard_time": 1658509283,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222203,
+      "num": 222203,
+      "word": "王者荣耀 姜子牙",
+      "onboard_time": 1658492076,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214821,
+      "num": 214821,
+      "word": "安崎陆柯燃再跳YesOK",
+      "onboard_time": 1658503302,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209397,
+      "num": 209397,
+      "word": "适当提高低年资医生薪酬水平",
+      "onboard_time": 1658524512,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208194,
+      "num": 208194,
+      "word": "你从哪首歌爱上蔡徐坤",
+      "onboard_time": 1658536832,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 201280,
+      "num": 201280,
+      "word": "hugme首舞台",
+      "onboard_time": 1658511081,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200768,
+      "num": 200768,
+      "word": "张子枫新剧开播就相亲",
+      "onboard_time": 1658536952,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199598,
+      "num": 199598,
+      "word": "WTT",
+      "onboard_time": 1658533228,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197670,
+      "num": 197670,
+      "word": "减一斤脂肪需要多少运动量",
+      "onboard_time": 1658488898,
+      "rank": 38,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 191479,
+      "num": 191479,
+      "word": "青山刚昌已经画了柯南最终回的草稿",
+      "onboard_time": 1658498142,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 190622,
+      "num": 190622,
+      "word": "大暑养生法则",
+      "onboard_time": 1658536292,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188369,
+      "num": 174550,
+      "word": "应渊诀别颜淡",
+      "onboard_time": 1658530217,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184910,
+      "num": 184910,
+      "word": "北京朝阳区发现1例初筛阳性人员",
+      "onboard_time": 1658491656,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183930,
+      "num": 183930,
+      "word": "wtt支线赛布达佩斯站",
+      "onboard_time": 1658511919,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176955,
+      "num": 176955,
+      "word": "白鹿周深清唱卡点爱你",
+      "onboard_time": 1658500544,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173666,
+      "num": 148948,
+      "word": "奔跑吧这期是蔡徐坤策划",
+      "onboard_time": 1658512696,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171259,
+      "num": 171259,
+      "word": "重庆一村庄河水冒泡能点燃",
+      "onboard_time": 1658515993,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168378,
+      "num": 168378,
+      "word": "林高远4比0庄智渊",
+      "onboard_time": 1658531300,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167397,
+      "num": 167397,
+      "word": "南京玄奘寺住持",
+      "onboard_time": 1658481642,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165580,
+      "num": 165580,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1658537432,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162908,
+      "num": 162908,
+      "word": "中国天眼已发现660余颗新脉冲星",
+      "onboard_time": 1658499341,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 158972,
+      "num": 158972,
+      "word": "河南驾驶证线下业务全部暂停",
+      "onboard_time": 1658517912,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157310,
+      "num": 157310,
+      "word": "王者荣耀",
+      "onboard_time": 1658495016,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 153935,
+      "num": 153935,
+      "word": "装睡的人类幼崽有多可爱",
+      "onboard_time": 1658522830,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 153917,
+      "num": 153917,
+      "word": "王曼昱4比3陈梦",
+      "onboard_time": 1658533165,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149238,
+      "num": 2043076,
+      "word": "来自中国空间站的第一封回信",
+      "onboard_time": 1658497840,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 134890,
+      "num": 134890,
+      "word": "今天星期五",
+      "onboard_time": 1658474438,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112695,
+      "num": 88944,
+      "word": "杨幂怎么也飞不出花花的世界",
+      "onboard_time": 1658512757,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103493,
+      "num": 103493,
+      "word": "林高远晋级男单决赛",
+      "onboard_time": 1658532022,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97592,
+      "num": 97592,
+      "word": "成毅沉香如屑受伤三连",
+      "onboard_time": 1658516234,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 94670,
+      "num": 94670,
+      "word": "以为等不到兄弟团的蔡徐坤好失落",
+      "onboard_time": 1658514914,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14980,
+      "num": 14980,
+      "word": "实地评测网红小亚马逊",
+      "onboard_time": 1658521932,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 11999,
+      "num": 17670,
+      "word": "缔约英雄",
+      "onboard_time": 1658515814,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 11370,
+      "num": 11370,
+      "word": "有什么医美值得做",
+      "onboard_time": 1658523431,
+      "rank": 48,
+      "category": "情感"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#文明之美看东方#"
+    },
+    {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  ]
+}
