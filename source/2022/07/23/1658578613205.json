@@ -1,0 +1,410 @@
+{
+  "runTime": 1658578613205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2612553,
+        "num": 2612553,
+        "word": "天津一景区游客玩步步惊心坠亡",
+        "onboard_time": 1658574809,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1434599,
+        "num": 1434599,
+        "word": "男子悲伤过度无法开车交警帮代驾",
+        "onboard_time": 1658573132,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38832,
+        "num": 1434443,
+        "word": "天问一号传回土豆状卫星照片",
+        "onboard_time": 1658538152,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1434333,
+        "num": 1434333,
+        "word": "张艺兴线上演唱会歌单",
+        "onboard_time": 1658577871,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1108219,
+        "num": 1108219,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013509,
+        "num": 1013509,
+        "word": "中国女足1比1扳平韩国女足",
+        "onboard_time": 1658576670,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735397,
+        "num": 735397,
+        "word": "蔡徐坤新歌封面设计公司道歉",
+        "onboard_time": 1658572111,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648407,
+        "num": 648407,
+        "word": "沉香如屑太甜了",
+        "onboard_time": 1658576010,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646144,
+        "num": 646144,
+        "word": "和相亲过最真诚的男生在一起了",
+        "onboard_time": 1658572832,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2194441,
+        "num": 646092,
+        "word": "唐山打架事件8名违法嫌疑人已到案",
+        "onboard_time": 1658563293,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1872619,
+        "num": 645959,
+        "word": "林志颖昏迷",
+        "onboard_time": 1658572351,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645720,
+        "num": 645720,
+        "word": "网传狐妖竹业篇女主宋轶",
+        "onboard_time": 1658577508,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510611,
+        "num": 510611,
+        "word": "毒贩在拖鞋底藏毒跨省快递转运",
+        "onboard_time": 1658574211,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505375,
+        "num": 505375,
+        "word": "中国人显年轻的原因找到了",
+        "onboard_time": 1658569053,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 454937,
+        "num": 454937,
+        "word": "日本单日新增确诊破20万",
+        "onboard_time": 1658572534,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420773,
+        "num": 420773,
+        "word": "武汉东西湖区公务员购房可补贴15万",
+        "onboard_time": 1658576727,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375869,
+        "num": 375869,
+        "word": "广东人喝汤犹如呼吸般平常",
+        "onboard_time": 1658575531,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373116,
+        "num": 373116,
+        "word": "新冠疫苗不会引发白血病糖尿病",
+        "onboard_time": 1658562630,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345380,
+        "num": 345380,
+        "word": "丈夫打赏主播10万妻子起诉返还被驳回",
+        "onboard_time": 1658567373,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329238,
+        "num": 329238,
+        "word": "爸爸教娃走失自救转眼派上用场",
+        "onboard_time": 1658574391,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328431,
+        "num": 328431,
+        "word": "梦泪模仿葛大爷",
+        "onboard_time": 1658576072,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316677,
+        "num": 316677,
+        "word": "Hero战胜XYG",
+        "onboard_time": 1658577753,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308526,
+        "num": 308526,
+        "word": "上海高考",
+        "onboard_time": 1658566231,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 304246,
+        "num": 304246,
+        "word": "韩国女足飞踹犯规",
+        "onboard_time": 1658572891,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288070,
+        "num": 288070,
+        "word": "龚俊做豆瓣鱼听取哇声一片",
+        "onboard_time": 1658574150,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286364,
+        "num": 286364,
+        "word": "XYG状态",
+        "onboard_time": 1658573251,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280042,
+        "num": 280042,
+        "word": "梦华录",
+        "onboard_time": 1658574931,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257255,
+        "num": 257255,
+        "word": "甘肃一煤矿发生山体坍塌事故",
+        "onboard_time": 1658574211,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254773,
+        "num": 254773,
+        "word": "李静说沈腾和马丽在一块是乘法",
+        "onboard_time": 1658573492,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245497,
+        "num": 245497,
+        "word": "汪琳琳破门",
+        "onboard_time": 1658577571,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244437,
+        "num": 244437,
+        "word": "钱三一跟林妙妙说别上车",
+        "onboard_time": 1658569294,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240795,
+        "num": 240795,
+        "word": "北京房山提醒近期买过这些食品立即报备",
+        "onboard_time": 1658569594,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216887,
+        "num": 216887,
+        "word": "小花卷 可爱",
+        "onboard_time": 1658573014,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206267,
+        "num": 206267,
+        "word": "中国女足vs韩国女足",
+        "onboard_time": 1658563952,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205852,
+        "num": 205852,
+        "word": "易趣网将停运关闭",
+        "onboard_time": 1658576487,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187664,
+        "num": 187664,
+        "word": "刺猬偷瓜被放生次日带同伙来作案",
+        "onboard_time": 1658577932,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184615,
+        "num": 184615,
+        "word": "玲娜贝儿没惹你们任何人",
+        "onboard_time": 1658564912,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171298,
+        "num": 171298,
+        "word": "大暑福建人吃荔枝广东人吃凉粉",
+        "onboard_time": 1658568694,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 168817,
+        "num": 168817,
+        "word": "重庆新增3例本土确诊",
+        "onboard_time": 1658573373,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168524,
+        "num": 168524,
+        "word": "郑州疫情通报",
+        "onboard_time": 1658572048,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165438,
+        "num": 165438,
+        "word": "天才基本法",
+        "onboard_time": 1658572534,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165030,
+        "num": 165030,
+        "word": "王曼昱反手",
+        "onboard_time": 1658578471,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161717,
+        "num": 161717,
+        "word": "高温天气下四大禁忌",
+        "onboard_time": 1658574751,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160951,
+        "num": 160951,
+        "word": "Hero上演鬼马迷踪",
+        "onboard_time": 1658574510,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154883,
+        "num": 154883,
+        "word": "许嵩李雪琴情头",
+        "onboard_time": 1658558852,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148647,
+        "num": 148647,
+        "word": "专家称年轻人国货热情超越上一代",
+        "onboard_time": 1658578231,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "把大狗当成窝的小狗",
+        "onboard_time": 1658566656,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139078,
+        "num": 139078,
+        "word": "微博将显示MCN机构名称",
+        "onboard_time": 1658578350,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 122293,
+        "num": 122293,
+        "word": "无畏加油",
+        "onboard_time": 1658575049,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121408,
+        "num": 121408,
+        "word": "胃就是这样被弄坏的",
+        "onboard_time": 1658578590,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
