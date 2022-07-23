@@ -1,0 +1,410 @@
+{
+  "runTime": 1658582506477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2212803,
+        "num": 2212803,
+        "word": "林高远vs张本智和",
+        "onboard_time": 1658580153,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1712403,
+        "num": 1712403,
+        "word": "胃就是这样被弄坏的",
+        "onboard_time": 1658578590,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467427,
+        "num": 1577806,
+        "word": "高温天气下四大禁忌",
+        "onboard_time": 1658574751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558520,
+        "num": 1558520,
+        "word": "张艺兴线上演唱会",
+        "onboard_time": 1658582131,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 965249,
+        "num": 965249,
+        "word": "男子一口闷冰镇红茶后狂吐1000ml血",
+        "onboard_time": 1658565575,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719771,
+        "num": 719771,
+        "word": "GAI再次四句封神",
+        "onboard_time": 1658578652,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675193,
+        "num": 675193,
+        "word": "沉香如屑太甜了",
+        "onboard_time": 1658576010,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640722,
+        "num": 640722,
+        "word": "男子悲伤过度无法开车交警帮代驾",
+        "onboard_time": 1658573132,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559764,
+        "num": 559764,
+        "word": "中国女足1比1扳平韩国女足",
+        "onboard_time": 1658576670,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548016,
+        "num": 548016,
+        "word": "RNG对战EDG",
+        "onboard_time": 1658580930,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1897280,
+        "num": 536923,
+        "word": "林志颖昏迷",
+        "onboard_time": 1658572351,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1712422,
+        "num": 525285,
+        "word": "唐山打架事件8名违法嫌疑人已到案",
+        "onboard_time": 1658563293,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046723,
+        "num": 509448,
+        "word": "刘敏涛女儿追星演我",
+        "onboard_time": 1658578890,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605215,
+        "num": 495594,
+        "word": "林妙妙分手了",
+        "onboard_time": 1658582012,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484595,
+        "num": 484595,
+        "word": "和相亲过最真诚的男生在一起了",
+        "onboard_time": 1658572832,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 592365,
+        "num": 483016,
+        "word": "羊有四十七只",
+        "onboard_time": 1658579192,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477058,
+        "num": 477058,
+        "word": "北京朝阳划定高风险区",
+        "onboard_time": 1658579850,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392819,
+        "num": 392819,
+        "word": "王曼昱WTT冠军赛女单夺冠",
+        "onboard_time": 1658578770,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384201,
+        "num": 384201,
+        "word": "武汉东西湖区公务员购房可补贴15万",
+        "onboard_time": 1658576727,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367992,
+        "num": 367992,
+        "word": "专家称年轻人国货热情超越上一代",
+        "onboard_time": 1658578231,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567264,
+        "num": 363984,
+        "word": "丁真小王子与玫瑰花大片",
+        "onboard_time": 1658581353,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 490078,
+        "num": 361985,
+        "word": "网传狐妖竹业篇女主宋轶",
+        "onboard_time": 1658577508,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350869,
+        "num": 350869,
+        "word": "微博将显示MCN机构名称",
+        "onboard_time": 1658578350,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 347528,
+        "num": 347528,
+        "word": "王曼昱反手",
+        "onboard_time": 1658578471,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316480,
+        "num": 316480,
+        "word": "中国人显年轻的原因找到了",
+        "onboard_time": 1658569053,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301234,
+        "num": 301234,
+        "word": "新冠疫苗不会引发白血病糖尿病",
+        "onboard_time": 1658562630,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295698,
+        "num": 295698,
+        "word": "日本单日新增确诊破20万",
+        "onboard_time": 1658572534,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294702,
+        "num": 294702,
+        "word": "刺猬偷瓜被放生次日带同伙来作案",
+        "onboard_time": 1658577932,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285801,
+        "num": 285801,
+        "word": "男童悬挂楼顶幸被邻居发现救回",
+        "onboard_time": 1658579911,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271288,
+        "num": 271288,
+        "word": "丈夫打赏主播10万妻子起诉返还被驳回",
+        "onboard_time": 1658567373,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425444,
+        "num": 271281,
+        "word": "蔡徐坤新歌封面设计公司道歉",
+        "onboard_time": 1658572111,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333277,
+        "num": 267768,
+        "word": "许嵩 你好星期六",
+        "onboard_time": 1658581950,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285240,
+        "num": 264070,
+        "word": "颜淡问应渊你是不是喜欢我",
+        "onboard_time": 1658578652,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271399,
+        "num": 260687,
+        "word": "广东人喝汤犹如呼吸般平常",
+        "onboard_time": 1658575531,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259530,
+        "num": 259530,
+        "word": "当代师徒关系现状",
+        "onboard_time": 1658580810,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234085,
+        "num": 234085,
+        "word": "爸爸教娃走失自救转眼派上用场",
+        "onboard_time": 1658574391,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218998,
+        "num": 218998,
+        "word": "毒贩在拖鞋底藏毒跨省快递转运",
+        "onboard_time": 1658574211,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212960,
+        "num": 212960,
+        "word": "AG对战狼队",
+        "onboard_time": 1658580810,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192082,
+        "num": 192082,
+        "word": "上海高考",
+        "onboard_time": 1658566231,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184653,
+        "num": 184653,
+        "word": "长期超量进食易患老年痴呆",
+        "onboard_time": 1658581770,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259921,
+        "num": 184624,
+        "word": "伯远冒险计划舞台",
+        "onboard_time": 1658582071,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184405,
+        "num": 184405,
+        "word": "狗子的心情变化有多明显",
+        "onboard_time": 1658580030,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178094,
+        "num": 178094,
+        "word": "北京房山提醒近期买过这些食品立即报备",
+        "onboard_time": 1658569594,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176470,
+        "num": 176470,
+        "word": "林高远首局11比3张本智和",
+        "onboard_time": 1658581892,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131724,
+        "num": 131724,
+        "word": "Hero战胜XYG",
+        "onboard_time": 1658577753,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124259,
+        "num": 124259,
+        "word": "甘肃一煤矿发生山体坍塌事故",
+        "onboard_time": 1658574211,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 120845,
+        "word": "中国女足00后连场进球",
+        "onboard_time": 1658581413,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262029,
+        "num": 119824,
+        "word": "钱三一江天昊备胎团建",
+        "onboard_time": 1658582491,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118308,
+        "num": 118308,
+        "word": "王曼昱 布达佩斯是我的福地",
+        "onboard_time": 1658582491,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118208,
+        "num": 118208,
+        "word": "易趣网将停运关闭",
+        "onboard_time": 1658576487,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
