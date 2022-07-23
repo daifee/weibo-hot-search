@@ -1,0 +1,410 @@
+{
+  "runTime": 1658552220250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2769183,
+        "num": 2769183,
+        "word": "医生称不告知癌症患者病情会更糟",
+        "onboard_time": 1658549070,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1732591,
+        "num": 1732591,
+        "word": "他23年卧底上百次曾身中13刀",
+        "onboard_time": 1658546850,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053218,
+        "num": 1303308,
+        "word": "全国十大焖蒸城市",
+        "onboard_time": 1658544031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131805,
+        "num": 1131805,
+        "word": "王一博街舞5宣传片",
+        "onboard_time": 1658547270,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1014997,
+        "num": 1014997,
+        "word": "拉姆案罪犯唐路被执行死刑",
+        "onboard_time": 1658542048,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911563,
+        "num": 911563,
+        "word": "游客高空坠落景区关停",
+        "onboard_time": 1658548170,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882091,
+        "num": 882091,
+        "word": "人们为什么不愿换手机了",
+        "onboard_time": 1658538031,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 876474,
+        "num": 876474,
+        "word": "男子157万买到凶宅耽误终身大事",
+        "onboard_time": 1658532805,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815693,
+        "num": 815693,
+        "word": "蔡徐坤工作室回应新歌封面海报",
+        "onboard_time": 1658542113,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691639,
+        "num": 691639,
+        "word": "林妙妙的男朋友竟然有老婆",
+        "onboard_time": 1658551351,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 980462,
+        "num": 686384,
+        "word": "吴啊萍供奉牌位5个日本人1个美国人",
+        "onboard_time": 1658497000,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624541,
+        "num": 624541,
+        "word": "下一期奔跑吧有赵露思",
+        "onboard_time": 1658544690,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588710,
+        "num": 588710,
+        "word": "瘦死文学",
+        "onboard_time": 1658550812,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 584306,
+        "num": 584306,
+        "word": "1岁宝宝打翻泡面全身大面积烫伤",
+        "onboard_time": 1658538871,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542131,
+        "num": 542131,
+        "word": "把怀孕的消息告诉领导后",
+        "onboard_time": 1658539533,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 532007,
+        "num": 532007,
+        "word": "南京发布深夜发文",
+        "onboard_time": 1658536110,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517754,
+        "num": 517754,
+        "word": "宇智波佐助",
+        "onboard_time": 1658542170,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 516579,
+        "num": 516579,
+        "word": "KTV提供有偿陪侍色情表演143人被抓",
+        "onboard_time": 1658536589,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505246,
+        "num": 505246,
+        "word": "四川什邡通报多名儿童检出腺病毒阳性",
+        "onboard_time": 1658549070,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493280,
+        "num": 493280,
+        "word": "许超医生",
+        "onboard_time": 1658539950,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470412,
+        "num": 470412,
+        "word": "网传他从火光中走来男主黄景瑜",
+        "onboard_time": 1658550090,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426846,
+        "num": 426846,
+        "word": "广东事业单位",
+        "onboard_time": 1658548229,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 424535,
+        "num": 424535,
+        "word": "这样洗澡一定很快乐吧",
+        "onboard_time": 1658549490,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379932,
+        "num": 379932,
+        "word": "战至巅峰半决赛高燃又泪目",
+        "onboard_time": 1658551591,
+        "rank": 23,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 367680,
+        "num": 367680,
+        "word": "你好星期六全员晒青春疼痛文学",
+        "onboard_time": 1658549010,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361262,
+        "num": 361262,
+        "word": "恒大行政总裁辞职",
+        "onboard_time": 1658543250,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 337736,
+        "num": 337736,
+        "word": "沈腾的无实人表演",
+        "onboard_time": 1658551289,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328436,
+        "num": 328436,
+        "word": "女子超市买菜自带小刀剥菜",
+        "onboard_time": 1658541750,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315995,
+        "num": 315995,
+        "word": "爷爷给孙女手工改造童话游泳池",
+        "onboard_time": 1658547090,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294571,
+        "num": 294571,
+        "word": "龚俊被小H小O撒狗粮",
+        "onboard_time": 1658540496,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280556,
+        "num": 280556,
+        "word": "星之守护者霞洛",
+        "onboard_time": 1658551469,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278510,
+        "num": 278510,
+        "word": "林志颖发生车祸时救护车正好经过",
+        "onboard_time": 1658490937,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259139,
+        "num": 259139,
+        "word": "麻辣烫爆火韩国",
+        "onboard_time": 1658501384,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 254405,
+        "num": 254405,
+        "word": "成毅沉香如屑应渊拍照pose",
+        "onboard_time": 1658547510,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236208,
+        "num": 236208,
+        "word": "BLACKPINK线上演唱会",
+        "onboard_time": 1658536230,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215314,
+        "num": 215314,
+        "word": "被栏杆卡住的社死小狗",
+        "onboard_time": 1658549010,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206772,
+        "num": 206772,
+        "word": "重庆一公司火灾致4死",
+        "onboard_time": 1658551834,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 197167,
+        "num": 197167,
+        "word": "星汉灿烂",
+        "onboard_time": 1658548590,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196707,
+        "num": 196707,
+        "word": "甘肃增42例确诊329例无症状",
+        "onboard_time": 1658540009,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195958,
+        "num": 195958,
+        "word": "男孩景区内玩娱乐项目时坠桥",
+        "onboard_time": 1658542408,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195365,
+        "num": 195365,
+        "word": "沉香如屑",
+        "onboard_time": 1658534608,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194121,
+        "num": 194121,
+        "word": "斗罗大陆",
+        "onboard_time": 1658545832,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 192398,
+        "word": "护考",
+        "onboard_time": 1658543733,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191899,
+        "num": 191899,
+        "word": "沉香如屑诀别花絮是喜剧",
+        "onboard_time": 1658547930,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189769,
+        "num": 189769,
+        "word": "伊犁的天",
+        "onboard_time": 1658546670,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 179057,
+        "num": 179057,
+        "word": "歼35",
+        "onboard_time": 1658532263,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 169467,
+        "num": 169467,
+        "word": "起底南京玄奘寺及传真法师",
+        "onboard_time": 1658533587,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158170,
+        "num": 158170,
+        "word": "饿了么",
+        "onboard_time": 1658549850,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147209,
+        "num": 147209,
+        "word": "这大概是跑步给人带来的变化",
+        "onboard_time": 1658541989,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133306,
+        "num": 133306,
+        "word": "四川新增本土确诊11例",
+        "onboard_time": 1658540252,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
