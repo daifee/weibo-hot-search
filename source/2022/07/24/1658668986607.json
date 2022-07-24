@@ -1,0 +1,410 @@
+{
+  "runTime": 1658668986607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2043336,
+        "num": 2043336,
+        "word": "国足0比0日本",
+        "onboard_time": 1658665232,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1615898,
+        "num": 1615898,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89135,
+        "num": 1546880,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533344,
+        "num": 1533344,
+        "word": "不要在烧烤摊附近遛狗",
+        "onboard_time": 1658666013,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1253327,
+        "num": 1253327,
+        "word": "以为沉香如屑刚开播就大结局了",
+        "onboard_time": 1658665171,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1167656,
+        "num": 1167656,
+        "word": "郭俊辰 帅",
+        "onboard_time": 1658666909,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804070,
+        "num": 804070,
+        "word": "法老 无名之辈",
+        "onboard_time": 1658666671,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 772874,
+        "num": 772874,
+        "word": "20岁女孩被父母说有病患中度抑郁",
+        "onboard_time": 1658662171,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760405,
+        "num": 760405,
+        "word": "家里去世的狗狗也有微信",
+        "onboard_time": 1658664510,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351066,
+        "num": 601305,
+        "word": "中国航天员首次在太空看发射",
+        "onboard_time": 1658664569,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 597493,
+        "num": 597493,
+        "word": "芷昔告发颜淡",
+        "onboard_time": 1658667031,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569076,
+        "num": 569076,
+        "word": "吴磊女装只有零次和无数次",
+        "onboard_time": 1658668109,
+        "rank": 11,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 487401,
+        "num": 487401,
+        "word": "江西通报一地将承办日本夏日祭活动",
+        "onboard_time": 1658653589,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439453,
+        "num": 439453,
+        "word": "硬糖少女告别演唱会",
+        "onboard_time": 1658668591,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398786,
+        "num": 398786,
+        "word": "TheShy伤害",
+        "onboard_time": 1658666790,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383428,
+        "num": 383428,
+        "word": "九尾的干将莫邪",
+        "onboard_time": 1658668234,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329852,
+        "num": 329852,
+        "word": "日本九州鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1658668109,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803259,
+        "num": 327380,
+        "word": "嚣张",
+        "onboard_time": 1658663550,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 312535,
+        "num": 312535,
+        "word": "彩虹",
+        "onboard_time": 1658664451,
+        "rank": 18,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 310334,
+        "num": 310334,
+        "word": "乘高铁G9532次到长沙南人员请立即报备",
+        "onboard_time": 1658642552,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047950,
+        "num": 310023,
+        "word": "重庆一母女从30层顶楼坠亡",
+        "onboard_time": 1658656771,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 412059,
+        "num": 304973,
+        "word": "赵今麦 可爱",
+        "onboard_time": 1658665834,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378820,
+        "num": 302589,
+        "word": "杨幂淘汰",
+        "onboard_time": 1658641410,
+        "rank": 22,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 374217,
+        "num": 301110,
+        "word": "沉香如屑 气死",
+        "onboard_time": 1658668291,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299429,
+        "num": 299429,
+        "word": "国足防守真拼",
+        "onboard_time": 1658666852,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355395,
+        "num": 297712,
+        "word": "林妙妙被吕佳维未婚妻算计",
+        "onboard_time": 1658661931,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289160,
+        "num": 289160,
+        "word": "TheShy格温",
+        "onboard_time": 1658664330,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268590,
+        "num": 268590,
+        "word": "还没换牙的小狗吃西瓜",
+        "onboard_time": 1658660252,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268257,
+        "num": 268257,
+        "word": "国足终结对日本四连败",
+        "onboard_time": 1658668411,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235679,
+        "num": 267351,
+        "word": "美军开35辆油罐车在叙利亚偷石油",
+        "onboard_time": 1658651790,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 325380,
+        "num": 264079,
+        "word": "心疼颜淡",
+        "onboard_time": 1658668353,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314955,
+        "num": 259925,
+        "word": "黄子韬演的黄子韬",
+        "onboard_time": 1658660011,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298661,
+        "num": 254403,
+        "word": "邓紫棋孙晨竣秋千约会",
+        "onboard_time": 1658666013,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253700,
+        "num": 253700,
+        "word": "男子没给大爷水瓶被其子打入医院",
+        "onboard_time": 1658656171,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 238994,
+        "num": 238994,
+        "word": "国足守门员",
+        "onboard_time": 1658666729,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232054,
+        "num": 232054,
+        "word": "贵州省考",
+        "onboard_time": 1658663850,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230458,
+        "num": 230458,
+        "word": "成毅说睫毛许愿很灵",
+        "onboard_time": 1658666909,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220768,
+        "num": 220768,
+        "word": "清清的猪八戒",
+        "onboard_time": 1658667511,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217264,
+        "num": 217264,
+        "word": "请不要让独库公路变成垃圾场",
+        "onboard_time": 1658665290,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211627,
+        "num": 211627,
+        "word": "卖小猪气球的老爷爷",
+        "onboard_time": 1658654728,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207796,
+        "num": 207796,
+        "word": "现场中国球迷高喊韩佳奇",
+        "onboard_time": 1658667571,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204049,
+        "num": 204049,
+        "word": "极限挑战",
+        "onboard_time": 1658666129,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202460,
+        "num": 202460,
+        "word": "宁波彩虹",
+        "onboard_time": 1658666372,
+        "rank": 42,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 177345,
+        "num": 177345,
+        "word": "河南女子谎称外卖吃出铁丝索赔177次",
+        "onboard_time": 1658646032,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170947,
+        "num": 170947,
+        "word": "F1",
+        "onboard_time": 1658668591,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167952,
+        "num": 167952,
+        "word": "小伙两次冲入火场救出被困女童",
+        "onboard_time": 1658662890,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 158248,
+        "num": 158248,
+        "word": "县城的房子卖给了谁",
+        "onboard_time": 1658649030,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 154761,
+        "num": 154761,
+        "word": "东航集团董事长退职",
+        "onboard_time": 1658652152,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146832,
+        "num": 146832,
+        "word": "96岁老教授中英深情推介古地理学",
+        "onboard_time": 1658661691,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121737,
+        "num": 121737,
+        "word": "今天看问天",
+        "onboard_time": 1658668953,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  }
+}
