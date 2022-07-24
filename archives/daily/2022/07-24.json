@@ -1,7 +1,23 @@
 {
   "startTime": 1658592752382,
-  "endTime": 1658671710372,
+  "endTime": 1658677375887,
   "band_list": [
+    {
+      "raw_hot": 16714183,
+      "num": 17964183,
+      "word": "南京玄奘寺供奉牌位事件调查结果",
+      "onboard_time": 1658673394,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16372548,
+      "num": 17622548,
+      "word": "吴啊萍身份官方调查公布",
+      "onboard_time": 1658673518,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3978958,
       "num": 3978958,
@@ -11,12 +27,20 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 3310959,
-      "num": 563231,
+      "raw_hot": 3697795,
+      "num": 1010893,
       "word": "网传李沁试金鹰女神礼服",
       "onboard_time": 1658670812,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3169468,
+      "num": 3169468,
+      "word": "吴啊萍已被公安机关刑事拘留",
+      "onboard_time": 1658674792,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3011523,
@@ -25,6 +49,14 @@
       "onboard_time": 1658642070,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2969647,
+      "num": 2969647,
+      "word": "李雪琴曾为24岁爱的人疯狂减肥",
+      "onboard_time": 1658672311,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2891247,
@@ -139,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1815238,
+      "num": 1815238,
+      "word": "日本九州鹿儿岛县樱岛火山喷发",
+      "onboard_time": 1658668109,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1743600,
       "num": 1715338,
       "word": "中国留学生在法抗议迪奥文化挪用",
@@ -161,6 +201,14 @@
       "onboard_time": 1658639670,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1639179,
+      "num": 1639179,
+      "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+      "onboard_time": 1658675502,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1626202,
@@ -275,6 +323,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1323102,
+      "num": 1323102,
+      "word": "法拉利",
+      "onboard_time": 1658671774,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1307038,
       "num": 687007,
       "word": "林志颖昏迷",
@@ -331,6 +387,30 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 1160025,
+      "num": 1160025,
+      "word": "吴啊萍供奉战犯动机",
+      "onboard_time": 1658674792,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1155955,
+      "num": 1155955,
+      "word": "国航机长辞职被索赔1066万",
+      "onboard_time": 1658674117,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1149161,
+      "num": 1149161,
+      "word": "拍吻戏都这么意外了吗",
+      "onboard_time": 1658672432,
+      "rank": 8,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 1147337,
       "num": 1147337,
       "word": "江西通报一地将承办日本夏日祭活动",
@@ -347,11 +427,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1120131,
-      "num": 1120131,
-      "word": "日本九州鹿儿岛县樱岛火山喷发",
-      "onboard_time": 1658668109,
-      "rank": 16,
+      "raw_hot": 1127383,
+      "num": 1127383,
+      "word": "广州时尚天河出现活体动物娃娃机",
+      "onboard_time": 1658670995,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -369,6 +449,14 @@
       "onboard_time": 1658645490,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1099457,
+      "num": 1099457,
+      "word": "孟子义原来我也可以被那么多人喜欢",
+      "onboard_time": 1658672196,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1071769,
@@ -404,7 +492,7 @@
     },
     {
       "raw_hot": 1027755,
-      "num": 613478,
+      "num": 796611,
       "word": "吴磊女装只有零次和无数次",
       "onboard_time": 1658668109,
       "rank": 11,
@@ -492,7 +580,7 @@
     },
     {
       "raw_hot": 807354,
-      "num": 611403,
+      "num": 698567,
       "word": "沉香如屑 气死",
       "onboard_time": 1658668291,
       "rank": 23,
@@ -513,6 +601,14 @@
       "onboard_time": 1658666671,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 791277,
+      "num": 791277,
+      "word": "儿童抑郁后症状或表现为躯体症状",
+      "onboard_time": 1658670212,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780131,
@@ -579,6 +675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730338,
+      "num": 730338,
+      "word": "饭堂",
+      "onboard_time": 1658670633,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 718631,
+      "num": 718631,
+      "word": "Ning 饭堂",
+      "onboard_time": 1658672616,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 716691,
       "num": 716691,
       "word": "大腿根想不瘦都难了",
@@ -641,6 +753,14 @@
       "onboard_time": 1658646929,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639694,
+      "num": 639694,
+      "word": "谭松韵与任嘉伦立牌同框",
+      "onboard_time": 1658675443,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 630768,
@@ -763,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579377,
+      "num": 517765,
+      "word": "张艺凡11舞台",
+      "onboard_time": 1658673873,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 551301,
       "num": 540206,
       "word": "许嵩综艺感",
@@ -785,6 +913,22 @@
       "onboard_time": 1658650709,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 536008,
+      "num": 536008,
+      "word": "极限挑战没有黄景瑜",
+      "onboard_time": 1658675204,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 534726,
+      "num": 296238,
+      "word": "白敬亭极限挑战",
+      "onboard_time": 1658672074,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 530911,
@@ -843,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501074,
+      "num": 468849,
+      "word": "张子枫说女孩子努力的意义",
+      "onboard_time": 1658672555,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 499366,
       "num": 405708,
       "word": "潘玮柏瘦了好多",
@@ -875,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 487051,
-      "num": 487051,
-      "word": "饭堂",
-      "onboard_time": 1658670633,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 485301,
       "num": 485301,
       "word": "RNG翻盘",
@@ -905,6 +1049,14 @@
       "onboard_time": 1658644951,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 477366,
+      "num": 293323,
+      "word": "天天向上全员出摊长沙夜市",
+      "onboard_time": 1658671353,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 476935,
@@ -936,6 +1088,14 @@
       "word": "张艺兴晒照感谢大家",
       "onboard_time": 1658590891,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 462835,
+      "num": 408997,
+      "word": "ive新专辑预告",
+      "onboard_time": 1658675565,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -985,14 +1145,6 @@
       "onboard_time": 1658597356,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 441715,
-      "num": 441715,
-      "word": "儿童抑郁后症状或表现为躯体症状",
-      "onboard_time": 1658670212,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440226,
@@ -1107,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405497,
+      "num": 291367,
+      "word": "钱三一给林妙妙撒娇",
+      "onboard_time": 1658674356,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401657,
       "num": 401657,
       "word": "时代少年团时代夏令营未播花絮03",
@@ -1153,6 +1313,14 @@
       "onboard_time": 1658590533,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394800,
+      "num": 394800,
+      "word": "张凯",
+      "onboard_time": 1658673578,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 392811,
@@ -1251,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358190,
+      "num": 244005,
+      "word": "李易峰年少有你唱出少年心事",
+      "onboard_time": 1658675862,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356041,
       "num": 223469,
       "word": "陈伟霆听到容祖儿养猪大笑",
@@ -1267,12 +1443,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 354852,
-      "num": 354852,
-      "word": "广州时尚天河出现活体动物娃娃机",
-      "onboard_time": 1658670995,
-      "rank": 25,
+      "raw_hot": 355285,
+      "num": 355285,
+      "word": "夏季小心低钾血症",
+      "onboard_time": 1658671353,
+      "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351206,
+      "num": 273070,
+      "word": "成毅哭戏镜头感",
+      "onboard_time": 1658673218,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 351066,
@@ -1507,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304533,
+      "num": 304533,
+      "word": "TTG战胜eStar",
+      "onboard_time": 1658671594,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304203,
       "num": 304203,
       "word": "睡觉吧唧嘴的小狗",
@@ -1585,14 +1777,6 @@
       "onboard_time": 1658583334,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 282125,
-      "num": 260984,
-      "word": "天天向上全员出摊长沙夜市",
-      "onboard_time": 1658671353,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 277651,
@@ -1827,6 +2011,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 242274,
+      "num": 242274,
+      "word": "记仇小狗为报复铲屎官尿一拖鞋",
+      "onboard_time": 1658670513,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239440,
       "num": 206170,
       "word": "武汉草莓音乐节",
@@ -1843,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238360,
-      "num": 238360,
-      "word": "记仇小狗为报复铲屎官尿一拖鞋",
-      "onboard_time": 1658670513,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237134,
       "num": 237134,
       "word": "朝阳新增病例病毒序列属奥密克戎BA.2变异株",
@@ -1865,6 +2049,14 @@
       "onboard_time": 1658650171,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 236033,
+      "num": 236033,
+      "word": "TT周冠军",
+      "onboard_time": 1658673697,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 235304,
@@ -1913,14 +2105,6 @@
       "onboard_time": 1658638290,
       "rank": 34,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 225049,
-      "num": 225049,
-      "word": "TTG战胜eStar",
-      "onboard_time": 1658671594,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 224956,
@@ -2155,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174519,
-      "num": 174519,
-      "word": "夏季小心低钾血症",
-      "onboard_time": 1658671353,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171573,
       "num": 171573,
       "word": "张本智和WTT冠军赛男单夺冠",
@@ -2273,6 +2449,14 @@
       "onboard_time": 1658582973,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144137,
+      "num": 4982994,
+      "word": "问天实验舱长啥样",
+      "onboard_time": 1658672132,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 138852,
@@ -2395,6 +2579,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 121311,
+      "num": 121311,
+      "word": "TTG终结对eStar八连败",
+      "onboard_time": 1658674240,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121191,
       "num": 121191,
       "word": "升户型的航天员开心成表情包",
@@ -2433,6 +2625,14 @@
       "onboard_time": 1658594723,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104588,
+      "num": 104588,
+      "word": "饭堂嘉宾锐评选手评分",
+      "onboard_time": 1658676340,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 102653,
