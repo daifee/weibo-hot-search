@@ -1,0 +1,410 @@
+{
+  "runTime": 1658638707201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719245,
+        "num": 1719245,
+        "word": "复仇者联盟5和6官宣",
+        "onboard_time": 1658629168,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1382322,
+        "num": 1382322,
+        "word": "我国不再新建500米以上高楼",
+        "onboard_time": 1658628148,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118875,
+        "num": 1308522,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2687387,
+        "num": 1280947,
+        "word": "杨紫头像",
+        "onboard_time": 1658636310,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1245162,
+        "num": 1245162,
+        "word": "近视眼手术其实无法治愈近视",
+        "onboard_time": 1658632172,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1528107,
+        "num": 1236545,
+        "word": "中国留学生在法抗议迪奥文化挪用",
+        "onboard_time": 1658632770,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211830,
+        "num": 1211830,
+        "word": "新疆独库公路变垃圾公路",
+        "onboard_time": 1658635288,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055328,
+        "num": 1055328,
+        "word": "宝宝银镯变色被送医意外发现汞中毒",
+        "onboard_time": 1658631270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947546,
+        "num": 947546,
+        "word": "九寨沟游客因拍照站位发生肢体冲突",
+        "onboard_time": 1658631151,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 895434,
+        "num": 895434,
+        "word": "THE9演唱会",
+        "onboard_time": 1658635711,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 832044,
+        "num": 832044,
+        "word": "安徽出生人口4年下降47.6%",
+        "onboard_time": 1658636851,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769422,
+        "num": 769422,
+        "word": "天才基本法 原著",
+        "onboard_time": 1658634631,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 719813,
+        "num": 719813,
+        "word": "王子文吴永恩冷战",
+        "onboard_time": 1658621002,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692251,
+        "num": 692251,
+        "word": "经纪公司回应金泫雅晕倒",
+        "onboard_time": 1658633428,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621796,
+        "num": 621796,
+        "word": "李焕亭被查",
+        "onboard_time": 1658634569,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569288,
+        "num": 569288,
+        "word": "女售货员16个月偷走老板538万",
+        "onboard_time": 1658625929,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461906,
+        "num": 461906,
+        "word": "男子每晚熬夜到3点查出胃癌",
+        "onboard_time": 1658620463,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429124,
+        "num": 429124,
+        "word": "29省份公布2021年出生人口",
+        "onboard_time": 1658634991,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422422,
+        "num": 422422,
+        "word": "年轻人该不该早衰焦虑",
+        "onboard_time": 1658637571,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368954,
+        "num": 368954,
+        "word": "孩子发烧取化验单护士低头玩手机",
+        "onboard_time": 1658589873,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586953,
+        "num": 367220,
+        "word": "周深照片被核酸亭作为张嘴示范",
+        "onboard_time": 1658617879,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 483327,
+        "num": 365880,
+        "word": "新一任黑豹登场",
+        "onboard_time": 1658632350,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361139,
+        "num": 361139,
+        "word": "拜登很可能感染的是奥密克戎BA.5",
+        "onboard_time": 1658625268,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 347743,
+        "num": 347743,
+        "word": "年轻人的副业焦虑从哪来",
+        "onboard_time": 1658636010,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 286538,
+        "num": 286538,
+        "word": "国家德比",
+        "onboard_time": 1658634030,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283578,
+        "num": 283578,
+        "word": "泫雅nabillera音中舞台",
+        "onboard_time": 1658637091,
+        "rank": 25,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 276573,
+        "num": 276573,
+        "word": "不要用芦荟胶治疗烫伤",
+        "onboard_time": 1658630248,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260312,
+        "num": 260312,
+        "word": "探店网红回应消费710元逃单",
+        "onboard_time": 1658623407,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253069,
+        "num": 253069,
+        "word": "睡觉吧唧嘴的小狗",
+        "onboard_time": 1658632350,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237028,
+        "num": 252054,
+        "word": "科学家发现迄今最佳半导体材料",
+        "onboard_time": 1658637270,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 272509,
+        "num": 251701,
+        "word": "TFBOYS青春修炼手册发行八周年",
+        "onboard_time": 1658627067,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251259,
+        "num": 251259,
+        "word": "战至巅峰",
+        "onboard_time": 1658636549,
+        "rank": 31,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 241681,
+        "num": 241681,
+        "word": "郭俊辰哭戏",
+        "onboard_time": 1658638112,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235646,
+        "num": 235646,
+        "word": "实验发现新冠病毒或从鼻腔入大脑",
+        "onboard_time": 1658627189,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227458,
+        "num": 227458,
+        "word": "问天舱今天14时许发射",
+        "onboard_time": 1658638290,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 224914,
+        "num": 224914,
+        "word": "2岁娃被泡面烫伤家人乱抹酱油和牙膏",
+        "onboard_time": 1658617578,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219365,
+        "num": 219365,
+        "word": "光与夜之恋",
+        "onboard_time": 1658632532,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206850,
+        "num": 206850,
+        "word": "夏天的命是外卖给的",
+        "onboard_time": 1658633790,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200466,
+        "num": 200466,
+        "word": "CBA 恶鼠",
+        "onboard_time": 1658636791,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191075,
+        "num": 191075,
+        "word": "为什么喝粥不养胃",
+        "onboard_time": 1658626828,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180397,
+        "num": 180397,
+        "word": "新疆新增本土无症状感染者3例",
+        "onboard_time": 1658630968,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170964,
+        "num": 170964,
+        "word": "漫威",
+        "onboard_time": 1658629887,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157815,
+        "num": 157815,
+        "word": "张艺兴让出C位给染色体练习生",
+        "onboard_time": 1658618118,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150198,
+        "num": 150198,
+        "word": "孩子突发疾病家长冲进消防站求助",
+        "onboard_time": 1658637811,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142960,
+        "num": 142960,
+        "word": "山东破获特大毒品案",
+        "onboard_time": 1658619922,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141072,
+        "num": 141072,
+        "word": "王岚嵚当选CBA状元",
+        "onboard_time": 1658632651,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134508,
+        "num": 134508,
+        "word": "潘玮柏瘦了好多",
+        "onboard_time": 1658621905,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134375,
+        "num": 134375,
+        "word": "找猫的正确办法",
+        "onboard_time": 1658631390,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132949,
+        "num": 132949,
+        "word": "泰山之巅惊现佛光奇观",
+        "onboard_time": 1658638531,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 118265,
+        "num": 118265,
+        "word": "苏轼人生路线三维动画",
+        "onboard_time": 1658635530,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
