@@ -1,0 +1,410 @@
+{
+  "runTime": 1658660884495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1518411,
+        "num": 1518411,
+        "word": "食客点五分熟牛排看到血丝索赔2万",
+        "onboard_time": 1658655269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036186,
+        "num": 1036186,
+        "word": "男子多次带女友吃海鲜只付塑料袋钱",
+        "onboard_time": 1658648850,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165539,
+        "num": 829626,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2302755,
+        "num": 823086,
+        "word": "重庆一母女从30层顶楼坠亡",
+        "onboard_time": 1658656771,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 816533,
+        "num": 816533,
+        "word": "江西通报一地将承办日本夏日祭活动",
+        "onboard_time": 1658653589,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787451,
+        "num": 787451,
+        "word": "杨幂淘汰",
+        "onboard_time": 1658641410,
+        "rank": 5,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 775615,
+        "num": 775615,
+        "word": "乘高铁G9532次到长沙南人员请立即报备",
+        "onboard_time": 1658642552,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742418,
+        "num": 742418,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584820,
+        "num": 584820,
+        "word": "江宏杰称福原爱带走孩子失联",
+        "onboard_time": 1658642070,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 562802,
+        "num": 562802,
+        "word": "卖小猪气球的老爷爷",
+        "onboard_time": 1658654728,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545989,
+        "num": 545989,
+        "word": "钱三一追妻",
+        "onboard_time": 1658657790,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530911,
+        "num": 530911,
+        "word": "沉香如屑一梦一生",
+        "onboard_time": 1658656650,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513929,
+        "num": 513929,
+        "word": "男子没给大爷水瓶被其子打入医院",
+        "onboard_time": 1658656171,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 495836,
+        "num": 495836,
+        "word": "黄子韬演的黄子韬",
+        "onboard_time": 1658660011,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471682,
+        "num": 471682,
+        "word": "卷着吃的山东烧烤有多绝",
+        "onboard_time": 1658657309,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 430412,
+        "num": 430412,
+        "word": "美军开35辆油罐车在叙利亚偷石油",
+        "onboard_time": 1658651790,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 416041,
+        "num": 416041,
+        "word": "东航集团董事长退职",
+        "onboard_time": 1658652152,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 410671,
+        "num": 410671,
+        "word": "谁是你心中的甜妹天花板",
+        "onboard_time": 1658655269,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359484,
+        "num": 359484,
+        "word": "县城的房子卖给了谁",
+        "onboard_time": 1658649030,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 325853,
+        "num": 325853,
+        "word": "梓墨 夏洛特",
+        "onboard_time": 1658659651,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347502,
+        "num": 325668,
+        "word": "颜淡为应渊剜心又受雷刑",
+        "onboard_time": 1658656411,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308863,
+        "num": 308863,
+        "word": "河南女子谎称外卖吃出铁丝索赔177次",
+        "onboard_time": 1658646032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293438,
+        "num": 293438,
+        "word": "1元雪糕总利润超过高价雪糕",
+        "onboard_time": 1658639912,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 282004,
+        "num": 282004,
+        "word": "柳岩建议情侣不要太着急见家长",
+        "onboard_time": 1658645672,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277651,
+        "num": 277651,
+        "word": "少年派2直播团建",
+        "onboard_time": 1658659952,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249641,
+        "num": 249641,
+        "word": "朝阳22日新增病例基因测序结果公布",
+        "onboard_time": 1658655209,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236511,
+        "num": 236511,
+        "word": "新疆小牛误食游客丢下的垃圾",
+        "onboard_time": 1658646929,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219690,
+        "num": 219690,
+        "word": "国足vs日本",
+        "onboard_time": 1658656830,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211372,
+        "num": 211372,
+        "word": "27岁小伙长娃娃脸找工作成难题",
+        "onboard_time": 1658638893,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207814,
+        "num": 207814,
+        "word": "韩媒说中国女足是无法跨越的长城",
+        "onboard_time": 1658647890,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256660,
+        "num": 205345,
+        "word": "沈腾副业是红娘吧",
+        "onboard_time": 1658660612,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239440,
+        "num": 204081,
+        "word": "武汉草莓音乐节",
+        "onboard_time": 1658659712,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227401,
+        "num": 203658,
+        "word": "那可是许嵩啊",
+        "onboard_time": 1658644170,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202702,
+        "num": 202702,
+        "word": "华为201万年薪天才少年现身",
+        "onboard_time": 1658639670,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193349,
+        "num": 193349,
+        "word": "还没换牙的小狗吃西瓜",
+        "onboard_time": 1658660252,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188922,
+        "num": 188922,
+        "word": "独行月球首映",
+        "onboard_time": 1658650709,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186061,
+        "num": 186061,
+        "word": "丁程鑫模仿奥特曼表情包",
+        "onboard_time": 1658659049,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182086,
+        "num": 182086,
+        "word": "中国空间站要从三居室变六居室",
+        "onboard_time": 1658659471,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 174480,
+        "num": 174480,
+        "word": "货车超重司机卸十几箱瓜送防疫人员",
+        "onboard_time": 1658655091,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 158920,
+        "num": 158920,
+        "word": "唐山学院称不存在招生困难情况",
+        "onboard_time": 1658645490,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175656,
+        "num": 158819,
+        "word": "时代少年团时代夏令营未播花絮03",
+        "onboard_time": 1658656171,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158334,
+        "num": 158334,
+        "word": "天津省考",
+        "onboard_time": 1658654969,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137951,
+        "num": 137951,
+        "word": "小伙网恋女主播刷掉姐姐230万",
+        "onboard_time": 1658639132,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135580,
+        "num": 135580,
+        "word": "2022LPL",
+        "onboard_time": 1658660193,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127779,
+        "num": 127779,
+        "word": "广东炙烤模式将持续7天",
+        "onboard_time": 1658653889,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125106,
+        "num": 125106,
+        "word": "近视眼手术其实无法治愈近视",
+        "onboard_time": 1658632172,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122496,
+        "num": 122496,
+        "word": "这不是科幻这是中国航天",
+        "onboard_time": 1658660612,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 112197,
+        "num": 112197,
+        "word": "就是很想欺负奶牛猫啊",
+        "onboard_time": 1658649992,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111812,
+        "num": 111812,
+        "word": "研究揭示最古老黑洞诞生之谜",
+        "onboard_time": 1658658271,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104566,
+        "num": 104566,
+        "word": "当一群狗狗第一次学游泳时",
+        "onboard_time": 1658649870,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
