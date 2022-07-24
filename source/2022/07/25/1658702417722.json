@@ -1,0 +1,410 @@
+{
+  "runTime": 1658702417722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1477352,
+        "num": 1477352,
+        "word": "吴啊萍身份官方调查公布",
+        "onboard_time": 1658673518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588406,
+        "num": 588406,
+        "word": "吴啊萍已被公安机关刑事拘留",
+        "onboard_time": 1658674792,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21313,
+        "num": 408055,
+        "word": "问天实验舱长啥样",
+        "onboard_time": 1658672132,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 364702,
+        "num": 364702,
+        "word": "外卖小哥举报后厨脏乱饭店被立案",
+        "onboard_time": 1658696290,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344429,
+        "num": 344429,
+        "word": "李雪琴曾为24岁爱的人疯狂减肥",
+        "onboard_time": 1658672311,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281775,
+        "num": 281775,
+        "word": "四川双胞胎分别被清华北大录取",
+        "onboard_time": 1658679152,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265386,
+        "num": 265386,
+        "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+        "onboard_time": 1658675502,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 246844,
+        "num": 246844,
+        "word": "国航机长辞职被索赔1066万",
+        "onboard_time": 1658674117,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213416,
+        "num": 213416,
+        "word": "龚俊承认自己有唱歌天赋",
+        "onboard_time": 1658694490,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211654,
+        "num": 211654,
+        "word": "男子救跳河女友后生死未卜",
+        "onboard_time": 1658697131,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194312,
+        "num": 194312,
+        "word": "网传李沁试金鹰女神礼服",
+        "onboard_time": 1658670812,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175554,
+        "num": 175554,
+        "word": "多地佛协通知对供奉牌位进行自查",
+        "onboard_time": 1658679452,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169868,
+        "num": 169868,
+        "word": "你安全吗",
+        "onboard_time": 1658681006,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167179,
+        "num": 167179,
+        "word": "女生家庭聚餐被一群小朋友催婚",
+        "onboard_time": 1658692992,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153511,
+        "num": 153511,
+        "word": "吴啊萍供奉战犯动机",
+        "onboard_time": 1658674792,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139695,
+        "num": 139695,
+        "word": "成都一女子斑马线上被轿车撞飞",
+        "onboard_time": 1658684117,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 113609,
+        "num": 113609,
+        "word": "四人故意购买过期食品敲诈商家获刑",
+        "onboard_time": 1658701454,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358626,
+        "num": 109195,
+        "word": "林志颖已清醒",
+        "onboard_time": 1658691431,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104087,
+        "num": 104087,
+        "word": "儿童抑郁后症状或表现为躯体症状",
+        "onboard_time": 1658670212,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98876,
+        "num": 98876,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99034,
+        "num": 98587,
+        "word": "重庆一母女从30层顶楼坠亡",
+        "onboard_time": 1658656771,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 92732,
+        "num": 92732,
+        "word": "二手名表价格持续跳水",
+        "onboard_time": 1658678553,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 92663,
+        "num": 92663,
+        "word": "南京玄奘寺供奉牌位事件调查结果",
+        "onboard_time": 1658673394,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81141,
+        "num": 81141,
+        "word": "沉香如屑 气死",
+        "onboard_time": 1658668291,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79093,
+        "num": 79093,
+        "word": "日本九州鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1658668109,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78137,
+        "num": 78137,
+        "word": "广州时尚天河出现活体动物娃娃机",
+        "onboard_time": 1658670995,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78021,
+        "num": 78021,
+        "word": "夏季小心低钾血症",
+        "onboard_time": 1658671353,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76608,
+        "num": 76608,
+        "word": "极限挑战没有黄景瑜",
+        "onboard_time": 1658675204,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73218,
+        "num": 73218,
+        "word": "九尾的干将莫邪",
+        "onboard_time": 1658668234,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65273,
+        "num": 65273,
+        "word": "钱三一接林妙妙下班",
+        "onboard_time": 1658689452,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65182,
+        "num": 65182,
+        "word": "江西通报一地将承办日本夏日祭活动",
+        "onboard_time": 1658653589,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63044,
+        "num": 63044,
+        "word": "拍吻戏都这么意外了吗",
+        "onboard_time": 1658672432,
+        "rank": 31,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 61845,
+        "num": 61845,
+        "word": "国足0比0日本",
+        "onboard_time": 1658665232,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58258,
+        "num": 58258,
+        "word": "查酒驾闯卡女子非公安家属",
+        "onboard_time": 1658699652,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56582,
+        "num": 56582,
+        "word": "20岁女孩被父母说有病患中度抑郁",
+        "onboard_time": 1658662171,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55902,
+        "num": 55902,
+        "word": "林妙妙被前男友骚扰",
+        "onboard_time": 1658691911,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55579,
+        "num": 55579,
+        "word": "不要在烧烤摊附近遛狗",
+        "onboard_time": 1658666013,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52488,
+        "num": 52488,
+        "word": "人生大事连续两周周末票房逆跌",
+        "onboard_time": 1658695692,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49095,
+        "num": 49095,
+        "word": "Ning 饭堂",
+        "onboard_time": 1658672616,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48269,
+        "num": 48269,
+        "word": "九尾 裁判",
+        "onboard_time": 1658684417,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45326,
+        "num": 45326,
+        "word": "赵露思古筝弹星汉灿烂",
+        "onboard_time": 1658669672,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44563,
+        "num": 44563,
+        "word": "天才基本法 剧情",
+        "onboard_time": 1658678492,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44127,
+        "num": 44127,
+        "word": "LGD DOTA2",
+        "onboard_time": 1658686155,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41003,
+        "num": 41003,
+        "word": "杜富国康复出院",
+        "onboard_time": 1658669251,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37661,
+        "num": 37661,
+        "word": "家里去世的狗狗也有微信",
+        "onboard_time": 1658664510,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32779,
+        "num": 32779,
+        "word": "朱一龙一番电影总票房破20亿",
+        "onboard_time": 1658694910,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29196,
+        "num": 29196,
+        "word": "被评论区的抬杠整笑了",
+        "onboard_time": 1658669732,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25687,
+        "num": 25687,
+        "word": "十年前的许嵩vs十年后的许嵩",
+        "onboard_time": 1658702296,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24229,
+        "num": 24229,
+        "word": "饭堂",
+        "onboard_time": 1658670633,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23655,
+        "num": 23655,
+        "word": "国足终结对日本四连败",
+        "onboard_time": 1658668411,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  }
+}
