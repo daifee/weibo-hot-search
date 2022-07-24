@@ -1,6 +1,7 @@
 /**
  * 归档（周榜）
  */
+const dailyArchive = require('./archive-daily');
 
 // 通过本周每天对应的时间对象
 function getWeeklyDates(runTime) {
@@ -16,6 +17,11 @@ function getWeeklyDates(runTime) {
   return result;
 }
 
+function getDailyArchiveFilePath(runTime) {
+  return dailyArchive.getFilePath(runTime, 'json');
+}
+
 module.exports = {
   getWeeklyDates,
+  getDailyArchiveFilePath,
 };

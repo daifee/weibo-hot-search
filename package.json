@@ -4,7 +4,8 @@
   "scripts": {
     "lint": "eslint --ext .js scripts/",
     "test": "jest ./test/**.test.js",
-    "test:watch": "jest --watch ./test/**.test.js"
+    "test:watch": "jest --watch ./test/**.test.js",
+    "test:only": "jest ./test/archive-weekly.test.js --coverage=false"
   },
   "dependencies": {
     "axios": "^0.27.2",

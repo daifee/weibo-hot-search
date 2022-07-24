@@ -42,7 +42,7 @@ describe('test/archive-weekly.test.js', () => {
     });
 
     test('周日', () => {
-      // 2022/7/1 16:09:29 周五（上海时区）
+      // 2022/7/3 16:09:29 周五（上海时区）
       const timestamp = 1656835769000;
       const dates = archiveWeekly.getWeeklyDates(timestamp);
       expect(dates.length).toBe(7);
@@ -54,6 +54,16 @@ describe('test/archive-weekly.test.js', () => {
       expectDate(dates[2], 5, 29, 3);
       expectDate(dates[1], 5, 28, 2);
       expectDate(dates[0], 5, 27, 1);
+    });
+  });
+
+  describe.only('getDailyArchiveFilePath(runTime)', () => {
+    test('should ', () => {
+      // temp/archives/daily/2022/07-03.json
+      const timestamp = 1656835769000;
+      const received = archiveWeekly.getDailyArchiveFilePath(timestamp);
+
+      console.log(received);
     });
   });
 });
