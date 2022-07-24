@@ -1,3 +1,5 @@
+require('./bootstrap');
+
 const utils = require('../scripts/utils');
 
 describe('test/utils.test.js', () => {

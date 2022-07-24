@@ -2,14 +2,13 @@ const { execSync } = require('child_process');
 
 function run(commands = []) {
   commands.forEach((command) => {
-    const output = execSync(command);
-
-    // eslint-disable-next-line no-console
-    console.log(output);
+    execSync(command);
   });
 }
 
-run([
-  'cp -R ./source ./temp',
-  'cp -R ./archives ./temp',
-]);
+beforeAll(() => {
+  run([
+    'cp -R ./source ./temp',
+    'cp -R ./archives ./temp',
+  ]);
+});

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "lint": "eslint --ext .js scripts/",
-    "test": "jest ./test/**.test.js --setupFilesAfterEnv ./test/bootstrap.js",
-    "test:watch": "jest --watch ./test/**.test.js --setupFilesAfterEnv ./test/bootstrap.js",
-    "test:only": "jest ./test/archive-daily.test.js --coverage=false --setupFilesAfterEnv ./test/bootstrap.js"
+    "test": "jest ./test/**.test.js",
+    "test:watch": "jest --watch ./test/**.test.js",
+    "test:only": "jest ./test/archive-daily.test.js --coverage=false"
   },
   "dependencies": {
     "axios": "^0.27.2",

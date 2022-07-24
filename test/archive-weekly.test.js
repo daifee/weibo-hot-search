@@ -1,3 +1,5 @@
+require('./bootstrap');
+
 const archiveWeekly = require('../scripts/archive-weekly');
 
 function expectDate(receivedDateObj, expectedMonth, expectedDate, expectedDay) {

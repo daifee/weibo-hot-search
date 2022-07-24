@@ -1,3 +1,5 @@
+require('./bootstrap');
+
 const fs = require('fs');
 
 const archiveDaily = require('../scripts/archive-daily');

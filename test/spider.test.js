@@ -1,3 +1,5 @@
+require('./bootstrap');
+
 const fs = require('fs');
 const spider = require('../scripts/spider');
 
