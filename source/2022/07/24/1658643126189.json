@@ -1,0 +1,410 @@
+{
+  "runTime": 1658643126189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3978958,
+        "num": 3978958,
+        "word": "杨幂淘汰",
+        "onboard_time": 1658641410,
+        "rank": 0,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 2615929,
+        "num": 2615929,
+        "word": "江宏杰称福原爱带走孩子失联",
+        "onboard_time": 1658642070,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 210407,
+        "num": 1850919,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1557256,
+        "num": 1557256,
+        "word": "华为201万年薪天才少年现身",
+        "onboard_time": 1658639670,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1518974,
+        "num": 1518974,
+        "word": "新疆独库公路变垃圾公路",
+        "onboard_time": 1658635288,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1626695,
+        "num": 1506932,
+        "word": "中国留学生在法抗议迪奥文化挪用",
+        "onboard_time": 1658632770,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318366,
+        "num": 1318366,
+        "word": "杨紫头像",
+        "onboard_time": 1658636310,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1137705,
+        "num": 1137705,
+        "word": "1元雪糕总利润超过高价雪糕",
+        "onboard_time": 1658639912,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1115267,
+        "num": 1115267,
+        "word": "27岁小伙长娃娃脸找工作成难题",
+        "onboard_time": 1658638893,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758805,
+        "num": 758805,
+        "word": "安徽出生人口4年下降47.6%",
+        "onboard_time": 1658636851,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665907,
+        "num": 665907,
+        "word": "THE9解散演唱会哈尔滨站",
+        "onboard_time": 1658639251,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 665556,
+        "num": 665556,
+        "word": "林妙妙背后抱钱三一",
+        "onboard_time": 1658639610,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635435,
+        "num": 635435,
+        "word": "宝宝银镯变色被送医意外发现汞中毒",
+        "onboard_time": 1658631270,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593542,
+        "num": 593542,
+        "word": "复仇者联盟5和6官宣",
+        "onboard_time": 1658629168,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562695,
+        "num": 562695,
+        "word": "警方回应北京四环上出现奔马",
+        "onboard_time": 1658641410,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531402,
+        "num": 531402,
+        "word": "小伙网恋女主播刷掉姐姐230万",
+        "onboard_time": 1658639132,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476053,
+        "num": 476053,
+        "word": "近视眼手术其实无法治愈近视",
+        "onboard_time": 1658632172,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399332,
+        "num": 399332,
+        "word": "我国不再新建500米以上高楼",
+        "onboard_time": 1658628148,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390322,
+        "num": 390322,
+        "word": "九寨沟游客因拍照站位发生肢体冲突",
+        "onboard_time": 1658631151,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 320252,
+        "num": 320252,
+        "word": "绘旅人",
+        "onboard_time": 1658641050,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 581054,
+        "num": 317812,
+        "word": "许凯进密逃前后对比",
+        "onboard_time": 1658641469,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541438,
+        "num": 314170,
+        "word": "蔡徐坤雷坤 手势舞",
+        "onboard_time": 1658640629,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390233,
+        "num": 309933,
+        "word": "天才基本法 原著",
+        "onboard_time": 1658634631,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377344,
+        "num": 306367,
+        "word": "应渊没有认错人",
+        "onboard_time": 1658639492,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325251,
+        "num": 302559,
+        "word": "乘高铁G9532次到长沙南人员请立即报备",
+        "onboard_time": 1658642552,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301525,
+        "num": 301525,
+        "word": "年轻人该不该早衰焦虑",
+        "onboard_time": 1658637571,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296282,
+        "num": 296282,
+        "word": "问天出征",
+        "onboard_time": 1658641410,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276876,
+        "num": 276876,
+        "word": "泰山之巅惊现佛光奇观",
+        "onboard_time": 1658638531,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 275857,
+        "num": 275857,
+        "word": "吃醋的小猫有多可爱",
+        "onboard_time": 1658639610,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 265257,
+        "num": 265257,
+        "word": "女售货员16个月偷走老板538万",
+        "onboard_time": 1658625929,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287386,
+        "num": 264023,
+        "word": "王子文吴永恩冷战",
+        "onboard_time": 1658621002,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285499,
+        "num": 263478,
+        "word": "檀健次改古早网名MrTan",
+        "onboard_time": 1658641892,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283047,
+        "num": 263105,
+        "word": "新一任黑豹登场",
+        "onboard_time": 1658632350,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261983,
+        "num": 261983,
+        "word": "男子每晚熬夜到3点查出胃癌",
+        "onboard_time": 1658620463,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256045,
+        "num": 256045,
+        "word": "孩子突发疾病家长冲进消防站求助",
+        "onboard_time": 1658637811,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200893,
+        "num": 200893,
+        "word": "年轻人的副业焦虑从哪来",
+        "onboard_time": 1658636010,
+        "rank": 35,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 192754,
+        "num": 192754,
+        "word": "拜登很可能感染的是奥密克戎BA.5",
+        "onboard_time": 1658625268,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190638,
+        "num": 190638,
+        "word": "29省份公布2021年出生人口",
+        "onboard_time": 1658634991,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185044,
+        "num": 185044,
+        "word": "科学家发现迄今最佳半导体材料",
+        "onboard_time": 1658637270,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162428,
+        "num": 162428,
+        "word": "李焕亭被查",
+        "onboard_time": 1658634569,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265756,
+        "num": 159083,
+        "word": "沉香如屑",
+        "onboard_time": 1658641110,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246654,
+        "num": 156924,
+        "word": "王俊凯芭莎八月刊封面",
+        "onboard_time": 1658641351,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153249,
+        "num": 153249,
+        "word": "孩子发烧取化验单护士低头玩手机",
+        "onboard_time": 1658589873,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150435,
+        "num": 150435,
+        "word": "实验发现新冠病毒或从鼻腔入大脑",
+        "onboard_time": 1658627189,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "皇马0比1巴萨",
+        "onboard_time": 1658641771,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148733,
+        "num": 148733,
+        "word": "不要用芦荟胶治疗烫伤",
+        "onboard_time": 1658630248,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125029,
+        "num": 125029,
+        "word": "睡觉吧唧嘴的小狗",
+        "onboard_time": 1658632350,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 292916,
+        "num": 123665,
+        "word": "周深斗破苍穹主题曲重生",
+        "onboard_time": 1658643093,
+        "rank": 47,
+        "category": "动漫,音乐"
+      },
+      {
+        "raw_hot": 121896,
+        "num": 121896,
+        "word": "探店网红回应消费710元逃单",
+        "onboard_time": 1658623407,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119305,
+        "num": 119305,
+        "word": "新疆新增本土无症状感染者3例",
+        "onboard_time": 1658630968,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
