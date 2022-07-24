@@ -71,7 +71,62 @@ describe('test/archive-weekly.test.js', () => {
     });
   });
 
-  // describe('getSourceFiles', () => {
+  describe('getSourceFiles', () => {
+    test('runTime = 1658382269954', () => {
+      const timestamp = 1658382269954;
+      const received = archiveWeekly.getSourceFiles(timestamp);
+      expect(received.length === 4).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-18\.json$/).test(received[0]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-19\.json$/).test(received[1]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-20\.json$/).test(received[2]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-21\.json$/).test(received[3]),
+      ).toBe(true);
+    });
 
+    test('runTime = 1658630710372', () => {
+      const timestamp = 1658630710372;
+      const received = archiveWeekly.getSourceFiles(timestamp);
+      expect(received.length === 7).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-18\.json$/).test(received[0]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-19\.json$/).test(received[1]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-20\.json$/).test(received[2]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-21\.json$/).test(received[3]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-22\.json$/).test(received[4]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-23\.json$/).test(received[5]),
+      ).toBe(true);
+      expect(
+        (/archives\/daily\/2022\/07-24\.json$/).test(received[6]),
+      ).toBe(true);
+    });
+
+    test('runTime = 1258630710372', () => {
+      const timestamp = 1258630710372;
+      const received = archiveWeekly.getSourceFiles(timestamp);
+      expect(received.length).toEqual(0);
+    });
+  });
+
+  // describe('aggregate(sourceFiles)', () => {
+  //   test('runTime = 1258630710372', () => {
+
+  //   });
   // });
 });

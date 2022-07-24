@@ -1,6 +1,7 @@
 /**
  * 归档（周榜）
  */
+const fs = require('fs');
 const dailyArchive = require('./archive-daily');
 
 // 通过本周每天对应的时间对象
@@ -25,6 +26,8 @@ function getSourceFiles(runTime) {
   const dates = getWeeklyDates(runTime);
   return dates.map((date) => {
     return getDailyArchiveFilePath(date.getTime());
+  }).filter((filePath) => {
+    return fs.existsSync(filePath);
   });
 }
 
