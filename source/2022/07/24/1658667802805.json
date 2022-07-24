@@ -1,0 +1,410 @@
+{
+  "runTime": 1658667802805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2308316,
+        "num": 2308316,
+        "word": "国足0比0日本",
+        "onboard_time": 1658665232,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1832035,
+        "num": 1832035,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109749,
+        "num": 1521390,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378927,
+        "num": 1378927,
+        "word": "郭俊辰 帅",
+        "onboard_time": 1658666909,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1052721,
+        "num": 1052721,
+        "word": "以为沉香如屑刚开播就大结局了",
+        "onboard_time": 1658665171,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092712,
+        "num": 1045937,
+        "word": "嚣张",
+        "onboard_time": 1658663550,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1037441,
+        "num": 1037441,
+        "word": "20岁女孩被父母说有病患中度抑郁",
+        "onboard_time": 1658662171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761964,
+        "num": 761964,
+        "word": "家里去世的狗狗也有微信",
+        "onboard_time": 1658664510,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630971,
+        "num": 630971,
+        "word": "法老 无名之辈",
+        "onboard_time": 1658666671,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391862,
+        "num": 533935,
+        "word": "乘高铁G9532次到长沙南人员请立即报备",
+        "onboard_time": 1658642552,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033467,
+        "num": 527845,
+        "word": "不要在烧烤摊附近遛狗",
+        "onboard_time": 1658666013,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 506382,
+        "num": 506382,
+        "word": "赵今麦 可爱",
+        "onboard_time": 1658665834,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437495,
+        "num": 437495,
+        "word": "江西通报一地将承办日本夏日祭活动",
+        "onboard_time": 1658653589,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411151,
+        "num": 411151,
+        "word": "芷昔告发颜淡",
+        "onboard_time": 1658667031,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392493,
+        "num": 392493,
+        "word": "林妙妙被吕佳维未婚妻算计",
+        "onboard_time": 1658661931,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380375,
+        "num": 380375,
+        "word": "TheShy格温",
+        "onboard_time": 1658664330,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307742,
+        "num": 307742,
+        "word": "还没换牙的小狗吃西瓜",
+        "onboard_time": 1658660252,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303851,
+        "num": 303851,
+        "word": "中国航天员首次在太空看发射",
+        "onboard_time": 1658664569,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 297656,
+        "num": 297656,
+        "word": "国足防守真拼",
+        "onboard_time": 1658666852,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296313,
+        "num": 296313,
+        "word": "男子没给大爷水瓶被其子打入医院",
+        "onboard_time": 1658656171,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 988782,
+        "num": 295320,
+        "word": "重庆一母女从30层顶楼坠亡",
+        "onboard_time": 1658656771,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 460604,
+        "num": 277974,
+        "word": "黄子韬演的黄子韬",
+        "onboard_time": 1658660011,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384541,
+        "num": 270066,
+        "word": "成毅说睫毛许愿很灵",
+        "onboard_time": 1658666909,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380375,
+        "num": 261475,
+        "word": "杨幂淘汰",
+        "onboard_time": 1658641410,
+        "rank": 23,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 254638,
+        "num": 254638,
+        "word": "贵州省考",
+        "onboard_time": 1658663850,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342355,
+        "num": 252731,
+        "word": "极限挑战",
+        "onboard_time": 1658666129,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250350,
+        "num": 250350,
+        "word": "TheShy伤害",
+        "onboard_time": 1658666790,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240277,
+        "num": 240277,
+        "word": "卖小猪气球的老爷爷",
+        "onboard_time": 1658654728,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233825,
+        "num": 233825,
+        "word": "彩虹",
+        "onboard_time": 1658664451,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 225528,
+        "num": 225528,
+        "word": "美军开35辆油罐车在叙利亚偷石油",
+        "onboard_time": 1658651790,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 307328,
+        "num": 224584,
+        "word": "邓紫棋孙晨竣秋千约会",
+        "onboard_time": 1658666013,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226134,
+        "num": 224212,
+        "word": "沉香如屑一梦一生",
+        "onboard_time": 1658656650,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223621,
+        "num": 223621,
+        "word": "宋亚轩水上做地板动作",
+        "onboard_time": 1658661989,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212499,
+        "num": 212499,
+        "word": "县城的房子卖给了谁",
+        "onboard_time": 1658649030,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 207735,
+        "num": 207735,
+        "word": "国足守门员",
+        "onboard_time": 1658666729,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205436,
+        "num": 205436,
+        "word": "96岁老教授中英深情推介古地理学",
+        "onboard_time": 1658661691,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200058,
+        "num": 200058,
+        "word": "河南女子谎称外卖吃出铁丝索赔177次",
+        "onboard_time": 1658646032,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194423,
+        "num": 194423,
+        "word": "请不要让独库公路变成垃圾场",
+        "onboard_time": 1658665290,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191074,
+        "num": 191074,
+        "word": "宁波彩虹",
+        "onboard_time": 1658666372,
+        "rank": 38,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 183066,
+        "num": 183066,
+        "word": "东航集团董事长退职",
+        "onboard_time": 1658652152,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210348,
+        "num": 182815,
+        "word": "谁是你心中的甜妹天花板",
+        "onboard_time": 1658655269,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178597,
+        "num": 178597,
+        "word": "小伙两次冲入火场救出被困女童",
+        "onboard_time": 1658662890,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 176231,
+        "num": 176231,
+        "word": "江宏杰称福原爱带走孩子失联",
+        "onboard_time": 1658642070,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 148486,
+        "num": 148486,
+        "word": "朝阳新增病例病毒序列属奥密克戎BA.2变异株",
+        "onboard_time": 1658661329,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145786,
+        "num": 145786,
+        "word": "新疆小牛误食游客丢下的垃圾",
+        "onboard_time": 1658646929,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142250,
+        "num": 142250,
+        "word": "现场中国球迷高喊韩佳奇",
+        "onboard_time": 1658667571,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139853,
+        "num": 139853,
+        "word": "内蒙古省考",
+        "onboard_time": 1658662890,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134556,
+        "num": 134556,
+        "word": "1元雪糕总利润超过高价雪糕",
+        "onboard_time": 1658639912,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 125305,
+        "num": 125305,
+        "word": "卷着吃的山东烧烤有多绝",
+        "onboard_time": 1658657309,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124685,
+        "num": 124685,
+        "word": "清清的猪八戒",
+        "onboard_time": 1658667511,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
