@@ -21,7 +21,37 @@ function getDailyArchiveFilePath(runTime) {
   return dailyArchive.getFilePath(runTime, 'json');
 }
 
+function getSourceFiles(runTime) {
+  const dates = getWeeklyDates(runTime);
+  return dates.map((date) => {
+    return getDailyArchiveFilePath(date.getTime());
+  });
+}
+
+function aggregate() {
+
+}
+
+function run(timestamp) {
+  const runTime = timestamp || Date.now();
+
+  // 获取本周7天数据文件
+  const sourceFiles = getSourceFiles(runTime);
+
+  // 聚合数据
+  const data = aggregate(sourceFiles);
+
+  console.log(data);
+
+  // 归档 JSON
+
+  // 归档 MD
+}
+
 module.exports = {
   getWeeklyDates,
   getDailyArchiveFilePath,
+  getSourceFiles,
+  aggregate,
+  run,
 };

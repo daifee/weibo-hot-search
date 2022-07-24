@@ -1,15 +1,7 @@
 const fs = require('fs');
-const path = require('path');
+
 const archiveDaily = require('../scripts/archive-daily');
 const spider = require('../scripts/spider');
-
-function getSourceFilePaths() {
-  const dir = './test/data/source/2022/07/16/';
-  const files = fs.readdirSync(dir, 'utf-8');
-  return files.map((file) => {
-    return path.resolve(dir, file);
-  });
-}
 
 describe('test/archive-daily.test.js', () => {
   test('getSourceFiles(runTime)', async () => {
@@ -21,11 +13,11 @@ describe('test/archive-daily.test.js', () => {
   });
 
   test('aggregate(sourceFilePaths)', () => {
-    const sourceFilePaths = getSourceFilePaths();
+    const sourceFilePaths = archiveDaily.getSourceFiles(1658074311206);
     const data = archiveDaily.aggregate(sourceFilePaths);
 
-    expect(data.hotgov_list.length).toBe(1);
-    expect(data.band_list.length).toBe(50);
+    expect(data.hotgov_list.length).toBe(5);
+    expect(data.band_list.length).toBe(310);
     // console.log(data);
     expect(data.startTime < Number.MAX_SAFE_INTEGER).toBe(true);
     expect(data.endTime > 0).toBe(true);

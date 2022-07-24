@@ -57,13 +57,19 @@ describe('test/archive-weekly.test.js', () => {
     });
   });
 
-  describe.only('getDailyArchiveFilePath(runTime)', () => {
-    test('should ', () => {
+  describe('getDailyArchiveFilePath(runTime)', () => {
+    test('true ', () => {
       // temp/archives/daily/2022/07-03.json
       const timestamp = 1656835769000;
       const received = archiveWeekly.getDailyArchiveFilePath(timestamp);
 
-      console.log(received);
+      const expected = /archives\/daily\/2022\/07-03\.json$/;
+
+      expect(expected.test(received)).toBe(true);
     });
   });
+
+  // describe('getSourceFiles', () => {
+
+  // });
 });
