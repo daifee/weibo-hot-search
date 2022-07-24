@@ -1,0 +1,410 @@
+{
+  "runTime": 1658635780848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1955105,
+        "num": 1955105,
+        "word": "我国不再新建500米以上高楼",
+        "onboard_time": 1658628148,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1864533,
+        "num": 1864533,
+        "word": "复仇者联盟5和6官宣",
+        "onboard_time": 1658629168,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219328,
+        "num": 1744238,
+        "word": "直播看问天",
+        "onboard_time": 1658622686,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1626202,
+        "num": 1626202,
+        "word": "宝宝银镯变色被送医意外发现汞中毒",
+        "onboard_time": 1658631270,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556704,
+        "num": 1556704,
+        "word": "中国留学生在法抗议迪奥文化挪用",
+        "onboard_time": 1658632770,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535916,
+        "num": 1535916,
+        "word": "九寨沟游客因拍照站位发生肢体冲突",
+        "onboard_time": 1658631151,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1179076,
+        "num": 1179076,
+        "word": "近视眼手术其实无法治愈近视",
+        "onboard_time": 1658632172,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051078,
+        "num": 1051078,
+        "word": "王子文吴永恩冷战",
+        "onboard_time": 1658621002,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 880461,
+        "num": 880461,
+        "word": "周深照片被核酸亭作为张嘴示范",
+        "onboard_time": 1658617879,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 782573,
+        "num": 782573,
+        "word": "女售货员16个月偷走老板538万",
+        "onboard_time": 1658625929,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282776,
+        "num": 782478,
+        "word": "夏日祭",
+        "onboard_time": 1658627067,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958190,
+        "num": 782310,
+        "word": "经纪公司回应金泫雅晕倒",
+        "onboard_time": 1658633428,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780131,
+        "num": 780131,
+        "word": "新一任黑豹登场",
+        "onboard_time": 1658632350,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 709844,
+        "num": 709844,
+        "word": "马面裙法国游行",
+        "onboard_time": 1658634691,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581042,
+        "num": 581042,
+        "word": "男子每晚熬夜到3点查出胃癌",
+        "onboard_time": 1658620463,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544561,
+        "num": 544561,
+        "word": "不要用芦荟胶治疗烫伤",
+        "onboard_time": 1658630248,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520116,
+        "num": 520116,
+        "word": "杨紫说火锅凌晨吃不长胖",
+        "onboard_time": 1658600895,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501933,
+        "num": 501933,
+        "word": "李焕亭被查",
+        "onboard_time": 1658634569,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475134,
+        "num": 475134,
+        "word": "拜登很可能感染的是奥密克戎BA.5",
+        "onboard_time": 1658625268,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 370750,
+        "num": 370750,
+        "word": "国家德比",
+        "onboard_time": 1658634030,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490032,
+        "num": 367860,
+        "word": "天才基本法 原著",
+        "onboard_time": 1658634631,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417247,
+        "num": 365495,
+        "word": "TFBOYS青春修炼手册发行八周年",
+        "onboard_time": 1658627067,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399275,
+        "num": 364654,
+        "word": "THE9演唱会",
+        "onboard_time": 1658635711,
+        "rank": 22,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 362003,
+        "num": 362003,
+        "word": "孩子发烧取化验单护士低头玩手机",
+        "onboard_time": 1658589873,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315760,
+        "num": 315760,
+        "word": "实验发现新冠病毒或从鼻腔入大脑",
+        "onboard_time": 1658627189,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373547,
+        "num": 315112,
+        "word": "潘玮柏瘦了好多",
+        "onboard_time": 1658621905,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305003,
+        "num": 305003,
+        "word": "夏天的命是外卖给的",
+        "onboard_time": 1658633790,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 298803,
+        "num": 298803,
+        "word": "探店网红回应消费710元逃单",
+        "onboard_time": 1658623407,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290481,
+        "num": 290481,
+        "word": "睡觉吧唧嘴的小狗",
+        "onboard_time": 1658632350,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 279165,
+        "num": 279165,
+        "word": "2岁娃被泡面烫伤家人乱抹酱油和牙膏",
+        "onboard_time": 1658617578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314547,
+        "num": 276544,
+        "word": "漫威",
+        "onboard_time": 1658629887,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266858,
+        "num": 266858,
+        "word": "光与夜之恋",
+        "onboard_time": 1658632532,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247366,
+        "num": 247366,
+        "word": "新疆新增本土无症状感染者3例",
+        "onboard_time": 1658630968,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234781,
+        "num": 234781,
+        "word": "张艺兴让出C位给染色体练习生",
+        "onboard_time": 1658618118,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227222,
+        "num": 227222,
+        "word": "新疆独库公路变垃圾公路",
+        "onboard_time": 1658635288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211658,
+        "num": 211658,
+        "word": "为什么喝粥不养胃",
+        "onboard_time": 1658626828,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201816,
+        "num": 201816,
+        "word": "2022年CBA选秀大会",
+        "onboard_time": 1658629527,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200098,
+        "num": 200098,
+        "word": "黑豹2首支预告",
+        "onboard_time": 1658628870,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191789,
+        "num": 191789,
+        "word": "29省份公布2021年出生人口",
+        "onboard_time": 1658634991,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182136,
+        "num": 182136,
+        "word": "找猫的正确办法",
+        "onboard_time": 1658631390,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177128,
+        "num": 177128,
+        "word": "山东破获特大毒品案",
+        "onboard_time": 1658619922,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173342,
+        "num": 173342,
+        "word": "王岚嵚当选CBA状元",
+        "onboard_time": 1658632651,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170869,
+        "num": 170869,
+        "word": "周密周芯竹 甜",
+        "onboard_time": 1658621002,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153019,
+        "num": 153019,
+        "word": "音乐节为什么越来越贵",
+        "onboard_time": 1658597356,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145761,
+        "num": 145761,
+        "word": "四川新增本土无症状33例",
+        "onboard_time": 1658628028,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143085,
+        "num": 143085,
+        "word": "成都天空出现丁达尔现象",
+        "onboard_time": 1658619141,
+        "rank": 45,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 141954,
+        "num": 141954,
+        "word": "苏轼人生路线三维动画",
+        "onboard_time": 1658635530,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 133335,
+        "num": 133335,
+        "word": "北大师生为黄河岸边村民拍照",
+        "onboard_time": 1658627908,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130198,
+        "num": 130198,
+        "word": "近视眼手术做完能一劳永逸吗",
+        "onboard_time": 1658605813,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127056,
+        "num": 127056,
+        "word": "问天实验舱",
+        "onboard_time": 1658633072,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明之美看东方#"
+    }
+  }
+}
