@@ -1,0 +1,410 @@
+{
+  "runTime": 1658671710372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972493,
+        "num": 1972493,
+        "word": "不要在烧烤摊附近遛狗",
+        "onboard_time": 1658666013,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1351421,
+        "num": 1351421,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67361,
+        "num": 1257664,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217074,
+        "num": 1217074,
+        "word": "国足0比0日本",
+        "onboard_time": 1658665232,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1120131,
+        "num": 1120131,
+        "word": "日本九州鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1658668109,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062442,
+        "num": 1062442,
+        "word": "赵露思古筝弹星汉灿烂",
+        "onboard_time": 1658669672,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 890806,
+        "num": 890806,
+        "word": "郭俊辰 帅",
+        "onboard_time": 1658666909,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840934,
+        "num": 840934,
+        "word": "以为沉香如屑刚开播就大结局了",
+        "onboard_time": 1658665171,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731844,
+        "num": 731844,
+        "word": "九尾的干将莫邪",
+        "onboard_time": 1658668234,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 601741,
+        "num": 601741,
+        "word": "20岁女孩被父母说有病患中度抑郁",
+        "onboard_time": 1658662171,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3310959,
+        "num": 563231,
+        "word": "网传李沁试金鹰女神礼服",
+        "onboard_time": 1658670812,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1027755,
+        "num": 540313,
+        "word": "吴磊女装只有零次和无数次",
+        "onboard_time": 1658668109,
+        "rank": 11,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 807354,
+        "num": 529891,
+        "word": "沉香如屑 气死",
+        "onboard_time": 1658668291,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507396,
+        "num": 507396,
+        "word": "家里去世的狗狗也有微信",
+        "onboard_time": 1658664510,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 487051,
+        "num": 487051,
+        "word": "饭堂",
+        "onboard_time": 1658670633,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456460,
+        "num": 456460,
+        "word": "江西通报一地将承办日本夏日祭活动",
+        "onboard_time": 1658653589,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452662,
+        "num": 452662,
+        "word": "杜富国康复出院",
+        "onboard_time": 1658669251,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441715,
+        "num": 441715,
+        "word": "儿童抑郁后症状或表现为躯体症状",
+        "onboard_time": 1658670212,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440226,
+        "num": 440226,
+        "word": "被评论区的抬杠整笑了",
+        "onboard_time": 1658669732,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380190,
+        "num": 380190,
+        "word": "国足终结对日本四连败",
+        "onboard_time": 1658668411,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977881,
+        "num": 377022,
+        "word": "重庆一母女从30层顶楼坠亡",
+        "onboard_time": 1658656771,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 498692,
+        "num": 372232,
+        "word": "法老 无名之辈",
+        "onboard_time": 1658666671,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443677,
+        "num": 366211,
+        "word": "陈瑜抱李雪琴",
+        "onboard_time": 1658670571,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495811,
+        "num": 363303,
+        "word": "沈腾和马丽在一起太好笑了",
+        "onboard_time": 1658670093,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433956,
+        "num": 355751,
+        "word": "芷昔告发颜淡",
+        "onboard_time": 1658667031,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354852,
+        "num": 354852,
+        "word": "广州时尚天河出现活体动物娃娃机",
+        "onboard_time": 1658670995,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346945,
+        "num": 346945,
+        "word": "F1",
+        "onboard_time": 1658668591,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307098,
+        "num": 307098,
+        "word": "TheShy伤害",
+        "onboard_time": 1658666790,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305214,
+        "num": 305214,
+        "word": "Tian说希望继续赢下去",
+        "onboard_time": 1658669073,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269791,
+        "num": 269791,
+        "word": "清清的猪八戒",
+        "onboard_time": 1658667511,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361803,
+        "num": 267856,
+        "word": "赵今麦 可爱",
+        "onboard_time": 1658665834,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353956,
+        "num": 266410,
+        "word": "硬糖少女告别演唱会",
+        "onboard_time": 1658668591,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287391,
+        "num": 263203,
+        "word": "香港金曲颁奖典礼",
+        "onboard_time": 1658671055,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282125,
+        "num": 260984,
+        "word": "天天向上全员出摊长沙夜市",
+        "onboard_time": 1658671353,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260580,
+        "num": 260580,
+        "word": "彩虹",
+        "onboard_time": 1658664451,
+        "rank": 34,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 246146,
+        "num": 246146,
+        "word": "现场中国球迷高喊韩佳奇",
+        "onboard_time": 1658667571,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238360,
+        "num": 238360,
+        "word": "记仇小狗为报复铲屎官尿一拖鞋",
+        "onboard_time": 1658670513,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228979,
+        "num": 228979,
+        "word": "请不要让独库公路变成垃圾场",
+        "onboard_time": 1658665290,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225049,
+        "num": 225049,
+        "word": "TTG战胜eStar",
+        "onboard_time": 1658671594,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217514,
+        "num": 217514,
+        "word": "中国航天员首次在太空看发射",
+        "onboard_time": 1658664569,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 262366,
+        "num": 215938,
+        "word": "林妙妙被吕佳维未婚妻算计",
+        "onboard_time": 1658661931,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204620,
+        "num": 204620,
+        "word": "邓紫棋孙晨竣秋千约会",
+        "onboard_time": 1658666013,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188018,
+        "num": 188018,
+        "word": "还没换牙的小狗吃西瓜",
+        "onboard_time": 1658660252,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174519,
+        "num": 174519,
+        "word": "夏季小心低钾血症",
+        "onboard_time": 1658671353,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164369,
+        "num": 164369,
+        "word": "男子没给大爷水瓶被其子打入医院",
+        "onboard_time": 1658656171,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156788,
+        "num": 156788,
+        "word": "国足守门员",
+        "onboard_time": 1658666729,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149202,
+        "num": 149202,
+        "word": "贵州省考",
+        "onboard_time": 1658663850,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136782,
+        "num": 136782,
+        "word": "河南女子谎称外卖吃出铁丝索赔177次",
+        "onboard_time": 1658646032,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132384,
+        "num": 132384,
+        "word": "美军开35辆油罐车在叙利亚偷石油",
+        "onboard_time": 1658651790,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124459,
+        "num": 124459,
+        "word": "乘高铁G9532次到长沙南人员请立即报备",
+        "onboard_time": 1658642552,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  }
+}
