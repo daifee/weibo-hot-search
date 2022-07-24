@@ -57,11 +57,21 @@ function createAgent() {
   return agent;
 }
 
+// 重试次数，事不过三
+let attempts = 2;
 function fetchHotSearchList() {
   const url = 'https://weibo.com/ajax/statuses/hot_band';
   const agent = createAgent();
 
-  return agent.get(url);
+  return agent.get(url)
+    .catch((error) => {
+      if (attempts > 0) {
+        attempts -= 1;
+        return fetchHotSearchList();
+      }
+
+      return Promise.reject(error);
+    });
 }
 
 function getDailyDir(runTime) {
