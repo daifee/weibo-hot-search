@@ -1,0 +1,410 @@
+{
+  "runTime": 1658670383311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2021984,
+        "num": 2021984,
+        "word": "不要在烧烤摊附近遛狗",
+        "onboard_time": 1658666013,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1630055,
+        "num": 1630055,
+        "word": "国足0比0日本",
+        "onboard_time": 1658665232,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73429,
+        "num": 1249821,
+        "word": "问天探苍穹",
+        "onboard_time": 1658637631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164346,
+        "num": 1164346,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1056832,
+        "num": 1056832,
+        "word": "以为沉香如屑刚开播就大结局了",
+        "onboard_time": 1658665171,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 927016,
+        "num": 927016,
+        "word": "郭俊辰 帅",
+        "onboard_time": 1658666909,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821576,
+        "num": 821576,
+        "word": "日本九州鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1658668109,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796097,
+        "num": 796097,
+        "word": "赵露思古筝弹星汉灿烂",
+        "onboard_time": 1658669672,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627279,
+        "num": 627279,
+        "word": "20岁女孩被父母说有病患中度抑郁",
+        "onboard_time": 1658662171,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619221,
+        "num": 619221,
+        "word": "家里去世的狗狗也有微信",
+        "onboard_time": 1658664510,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 965377,
+        "num": 613478,
+        "word": "吴磊女装只有零次和无数次",
+        "onboard_time": 1658668109,
+        "rank": 10,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 748490,
+        "num": 611403,
+        "word": "沉香如屑 气死",
+        "onboard_time": 1658668291,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600387,
+        "num": 600387,
+        "word": "法老 无名之辈",
+        "onboard_time": 1658666671,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 525415,
+        "num": 525415,
+        "word": "江西通报一地将承办日本夏日祭活动",
+        "onboard_time": 1658653589,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502112,
+        "num": 502112,
+        "word": "九尾的干将莫邪",
+        "onboard_time": 1658668234,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 496232,
+        "num": 496232,
+        "word": "芷昔告发颜淡",
+        "onboard_time": 1658667031,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405519,
+        "num": 405519,
+        "word": "F1",
+        "onboard_time": 1658668591,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380450,
+        "num": 380450,
+        "word": "彩虹",
+        "onboard_time": 1658664451,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 373114,
+        "num": 373114,
+        "word": "TheShy伤害",
+        "onboard_time": 1658666790,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326277,
+        "num": 371891,
+        "word": "杜富国康复出院",
+        "onboard_time": 1658669251,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068005,
+        "num": 370269,
+        "word": "重庆一母女从30层顶楼坠亡",
+        "onboard_time": 1658656771,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 505326,
+        "num": 366472,
+        "word": "嚣张",
+        "onboard_time": 1658663550,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 436364,
+        "num": 365006,
+        "word": "硬糖少女告别演唱会",
+        "onboard_time": 1658668591,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364088,
+        "num": 364088,
+        "word": "赵今麦 可爱",
+        "onboard_time": 1658665834,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352988,
+        "num": 352988,
+        "word": "国足终结对日本四连败",
+        "onboard_time": 1658668411,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295075,
+        "num": 295075,
+        "word": "被评论区的抬杠整笑了",
+        "onboard_time": 1658669732,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293813,
+        "num": 293813,
+        "word": "中国航天员首次在太空看发射",
+        "onboard_time": 1658664569,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 288099,
+        "num": 288099,
+        "word": "Tian说希望继续赢下去",
+        "onboard_time": 1658669073,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251210,
+        "num": 251210,
+        "word": "请不要让独库公路变成垃圾场",
+        "onboard_time": 1658665290,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237611,
+        "num": 237611,
+        "word": "清清的猪八戒",
+        "onboard_time": 1658667511,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309931,
+        "num": 237594,
+        "word": "林妙妙被吕佳维未婚妻算计",
+        "onboard_time": 1658661931,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281788,
+        "num": 237417,
+        "word": "杨幂淘汰",
+        "onboard_time": 1658641410,
+        "rank": 31,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 272015,
+        "num": 237134,
+        "word": "心疼颜淡",
+        "onboard_time": 1658668353,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263202,
+        "num": 237024,
+        "word": "邓紫棋孙晨竣秋千约会",
+        "onboard_time": 1658666013,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236923,
+        "num": 236923,
+        "word": "现场中国球迷高喊韩佳奇",
+        "onboard_time": 1658667571,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226664,
+        "num": 226664,
+        "word": "乘高铁G9532次到长沙南人员请立即报备",
+        "onboard_time": 1658642552,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211901,
+        "num": 211901,
+        "word": "国足守门员",
+        "onboard_time": 1658666729,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208208,
+        "num": 208208,
+        "word": "还没换牙的小狗吃西瓜",
+        "onboard_time": 1658660252,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200420,
+        "num": 200420,
+        "word": "问天如何追上天和",
+        "onboard_time": 1658670034,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 193368,
+        "num": 193368,
+        "word": "男子没给大爷水瓶被其子打入医院",
+        "onboard_time": 1658656171,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247627,
+        "num": 191935,
+        "word": "黄子韬演的黄子韬",
+        "onboard_time": 1658660011,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179602,
+        "num": 179602,
+        "word": "美军开35辆油罐车在叙利亚偷石油",
+        "onboard_time": 1658651790,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234593,
+        "num": 179480,
+        "word": "沈腾和马丽在一起太好笑了",
+        "onboard_time": 1658670093,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170466,
+        "num": 170466,
+        "word": "贵州省考",
+        "onboard_time": 1658663850,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161115,
+        "num": 161115,
+        "word": "TheShy格温",
+        "onboard_time": 1658664330,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158536,
+        "num": 158536,
+        "word": "河南女子谎称外卖吃出铁丝索赔177次",
+        "onboard_time": 1658646032,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157103,
+        "num": 157103,
+        "word": "成毅说睫毛许愿很灵",
+        "onboard_time": 1658666909,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153590,
+        "num": 153590,
+        "word": "卖小猪气球的老爷爷",
+        "onboard_time": 1658654728,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142546,
+        "num": 142546,
+        "word": "儿童抑郁后症状或表现为躯体症状",
+        "onboard_time": 1658670212,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136920,
+        "num": 136920,
+        "word": "宁波彩虹",
+        "onboard_time": 1658666372,
+        "rank": 49,
+        "category": "自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#第五届数字中国建设峰会#"
+    }
+  }
+}
