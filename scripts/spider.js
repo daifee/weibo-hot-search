@@ -3,9 +3,29 @@
  */
 const axios = require('axios');
 const path = require('path');
-const fs = require('fs');
 const { SOURCE_PATH } = require('./config');
 const utils = require('./utils');
+
+// 鉴别真正热搜（原列表会掺杂广告）
+function isHotSearchItem(item) {
+  if (!item) {
+    return false;
+  }
+  return !!(item.raw_hot && item.onboard_time && item.word);
+}
+
+function trimHotSearchItem(item = {}) {
+  const keys = ['raw_hot', 'num', 'word', 'onboard_time', 'rank', 'category'];
+  const result = {};
+
+  keys.forEach((key) => {
+    if (item[key] !== undefined) {
+      result[key] = item[key];
+    }
+  });
+
+  return result;
+}
 
 function createAgent() {
   const headers = {
@@ -83,28 +103,25 @@ function getDailyDir(runTime) {
   ].join('/');
 
   const dir = path.resolve(SOURCE_PATH, datePath);
-  fs.mkdirSync(dir, { recursive: true });
   return dir;
 }
 
-function getDataFilePath(runTime) {
+// 定义文件路径：$root/source/2022/07/18/1658074311206.json
+function getFilePath(runTime) {
   const dir = getDailyDir(runTime);
-
   return `${dir}/${runTime}.json`;
 }
 
 function saveSourceData(runTime, data) {
-  const json = JSON.stringify({
+  const filePath = getFilePath(runTime);
+
+  utils.archiveJSON(filePath, {
     runTime,
     source: data,
-  }, '', 2);
-  const filePath = getDataFilePath(runTime);
-  fs.writeFileSync(filePath, json, 'utf-8');
-
-  return filePath;
+  });
 }
 
-// 修剪数据
+// 修剪源数据
 function trimData(data) {
   const result = {
     band_list: [],
@@ -113,14 +130,14 @@ function trimData(data) {
 
   if (data?.band_list) {
     result.band_list = data.band_list.filter((item) => {
-      return utils.isHotSearch(item);
+      return isHotSearchItem(item);
     }).map((item) => {
-      return utils.trimHotSearchItem(item);
+      return trimHotSearchItem(item);
     });
   }
 
   if (data?.hotgov) {
-    result.hotgov = utils.trimHotSearchItem(data.hotgov);
+    result.hotgov = trimHotSearchItem(data.hotgov);
   }
 
   return result;
@@ -141,6 +158,13 @@ async function run(timestamp) {
 }
 
 module.exports = {
+  isHotSearchItem,
+  trimHotSearchItem,
+  trimData,
+  getFilePath,
+
+  saveSourceData,
+
   run,
   getDailyDir,
 };

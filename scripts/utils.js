@@ -1,21 +1,6 @@
 const fs = require('fs');
 
-// 鉴别真正热搜（原列表会掺杂广告）
-function isHotSearch(item) {
-  return !!(item.raw_hot && item.onboard_time);
-}
-
-function trimHotSearchItem(item = {}) {
-  return {
-    raw_hot: item.raw_hot,
-    num: item.num,
-    word: item.word,
-    onboard_time: item.onboard_time,
-    rank: item.rank,
-    category: item.category,
-  };
-}
-
+// 2022/07/17
 function formatDateOne(timestamp) {
   const d = new Date(timestamp);
 
@@ -26,6 +11,7 @@ function formatDateOne(timestamp) {
   ].join('/');
 }
 
+// 2022/07/17 12:01:49
 function formatDateTow(timestamp) {
   const d = new Date(timestamp);
   const ymd = [
@@ -155,22 +141,46 @@ function aggregate(sourceFiles) {
   return result;
 }
 
+function extractDir(filePath) {
+  const fragments = filePath.split('/');
+  fragments.pop();
+
+  return fragments.join('/');
+}
+
+function createFileIfNotExist(filePath) {
+  if (fs.existsSync(filePath)) {
+    return true;
+  }
+
+  const dir = extractDir(filePath);
+  fs.mkdirSync(dir, { recursive: true });
+
+  fs.writeFileSync(filePath, '', 'utf-8');
+  return true;
+}
+
 function archiveJSON(filePath, data = {}) {
+  createFileIfNotExist(filePath);
+
   const content = JSON.stringify(data, '', 2);
-  fs.writeFileSync(filePath, content, 'utf-8');
+  fs.writeFileSync(filePath, content, { encoding: 'utf-8' });
 }
 
 function archiveMD(filePath, content = '') {
-  fs.writeFileSync(filePath, content, 'utf-8');
+  createFileIfNotExist(filePath);
+
+  fs.writeFileSync(filePath, content, { encoding: 'utf-8' });
 }
 
 module.exports = {
-  isHotSearch,
-  trimHotSearchItem,
   formatDate,
 
   readJSON,
   aggregate,
   archiveJSON,
   archiveMD,
+
+  extractDir,
+  createFileIfNotExist,
 };

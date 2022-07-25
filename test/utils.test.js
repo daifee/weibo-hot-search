@@ -4,46 +4,6 @@ const { execSync } = require('child_process');
 const utils = require('../scripts/utils');
 const tool = require('./tool');
 
-describe('isHotSearch(item)', () => {
-  test('正确用法', () => {
-    expect(utils.isHotSearch({})).toBe(false);
-    expect(utils.isHotSearch({
-      raw_hot: 2478668,
-      num: 2478668,
-      word: '用高德打车遇车祸身亡女生哥哥发声',
-      onboard_time: 1657967425,
-      rank: 0,
-    })).toBe(true);
-  });
-});
-
-describe('trimHotSearchItem(item)', () => {
-  test('正确用法', () => {
-    const expected = {
-      raw_hot: 2478668,
-      num: 2478668,
-      word: '用高德打车遇车祸身亡女生哥哥发声',
-      onboard_time: 1657967425,
-      rank: 0,
-    };
-    expect(utils.trimHotSearchItem({
-      ...expected,
-      name: 'daifee',
-      age: 999,
-    })).toEqual(expected);
-  });
-
-  test('缺少参数 ', () => {
-    expect(utils.trimHotSearchItem()).toEqual({
-      raw_hot: undefined,
-      num: undefined,
-      word: undefined,
-      onboard_time: undefined,
-      rank: undefined,
-    });
-  });
-});
-
 describe('formatDate(timestamp)', () => {
   test('1', () => {
     const timestamp = 1658030509598;
@@ -124,8 +84,17 @@ describe('aggregate(sourceFiles)', () => {
   });
 });
 
+describe('extractDir(filePath)', () => {
+  test('正确用法', () => {
+    const dir = path.resolve(`./temp/${Date.now()}`);
+    const filePath = path.resolve(dir, `${Date.now()}.json`);
+    const received = utils.extractDir(filePath);
+    expect(received).toEqual(dir);
+  });
+});
+
 describe('archiveJSON(filePath, data)', () => {
-  const filePath = path.resolve(`./temp/${Date.now()}.json`);
+  const filePath = path.resolve(`./temp/${Date.now()}/${Date.now()}.json`);
 
   afterEach(() => {
     execSync(`rm ${filePath}`);
