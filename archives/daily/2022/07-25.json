@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658758261010,
+  "endTime": 1658763896764,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3972535,
+      "num": 1373098,
+      "word": "丈夫出轨14年赠情人379万",
+      "onboard_time": 1658759554,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3781467,
       "num": 3781467,
       "word": "郑州暴雨",
@@ -57,6 +65,14 @@
       "onboard_time": 1658748635,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3188067,
+      "num": 3188067,
+      "word": "江宏杰已联系上福原爱",
+      "onboard_time": 1658758053,
+      "rank": 25,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2931724,
@@ -83,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2725040,
-      "num": 2725040,
+      "raw_hot": 2794637,
+      "num": 2794637,
       "word": "星汉灿烂 月升沧海",
       "onboard_time": 1658754518,
       "rank": 16,
@@ -121,6 +137,14 @@
       "onboard_time": 1658717250,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2281408,
+      "num": 746665,
+      "word": "谈恋爱 降智",
+      "onboard_time": 1658756854,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2261802,
@@ -177,14 +201,6 @@
       "onboard_time": 1658732195,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1902074,
-      "num": 746665,
-      "word": "谈恋爱 降智",
-      "onboard_time": 1658756854,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1840104,
@@ -579,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 789379,
+      "num": 789379,
+      "word": "蚊子包是免疫系统战斗过的痕迹",
+      "onboard_time": 1658759857,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784451,
       "num": 784451,
       "word": "薛之谦演唱会",
@@ -593,6 +617,14 @@
       "onboard_time": 1658717971,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761626,
+      "num": 761626,
+      "word": "711门店不明码标价获利超4千",
+      "onboard_time": 1658756792,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 746767,
@@ -632,6 +664,14 @@
       "word": "肖战三部微光荣耀入围作品",
       "onboard_time": 1658727753,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 661934,
+      "num": 661934,
+      "word": "沈腾胖也不是瘦也不是",
+      "onboard_time": 1658755355,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -707,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 598186,
-      "num": 598186,
-      "word": "沈腾胖也不是瘦也不是",
-      "onboard_time": 1658755355,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 592657,
+      "num": 592657,
+      "word": "象棋机器人抓住并折断7岁男孩手指",
+      "onboard_time": 1658759315,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584380,
@@ -755,12 +795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564644,
+      "num": 564644,
+      "word": "重庆大风",
+      "onboard_time": 1658758772,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564491,
       "num": 564491,
       "word": "女大学生称兼职送外卖遭顾客刁难",
       "onboard_time": 1658752053,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561551,
+      "num": 561551,
+      "word": "CBA公司因侵权向B站索赔4亿",
+      "onboard_time": 1658760756,
+      "rank": 18,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 550373,
@@ -801,6 +857,14 @@
       "onboard_time": 1658684117,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 528436,
+      "num": 528436,
+      "word": "全国连续5年多未发生暴恐案",
+      "onboard_time": 1658751633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526609,
@@ -851,20 +915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 511422,
-      "num": 511422,
-      "word": "全国连续5年多未发生暴恐案",
-      "onboard_time": 1658751633,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509763,
       "num": 509763,
       "word": "为什么休息比上班还累",
       "onboard_time": 1658731354,
       "rank": 39,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 505106,
+      "num": 505106,
+      "word": "少年派2好甜啊",
+      "onboard_time": 1658759315,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 502630,
@@ -923,20 +987,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 474530,
-      "num": 474530,
-      "word": "711门店不明码标价获利超4千",
-      "onboard_time": 1658756792,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 467275,
       "num": 467275,
       "word": "婴儿车滑向台阶男子一把拉住",
       "onboard_time": 1658717432,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 466047,
+      "num": 466047,
+      "word": "丁真直播",
+      "onboard_time": 1658755411,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 465802,
@@ -985,6 +1049,14 @@
       "onboard_time": 1658744679,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451052,
+      "num": 451052,
+      "word": "原来当老师也要与时俱进",
+      "onboard_time": 1658756074,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 438514,
@@ -1043,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424550,
+      "num": 424550,
+      "word": "8旬婆婆等1小时专程还10元",
+      "onboard_time": 1658761656,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424233,
       "num": 424233,
       "word": "星汉灿烂",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1658668109,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416465,
+      "num": 416465,
+      "word": "这肌肉小腿真能瘦",
+      "onboard_time": 1658757273,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 415998,
@@ -1137,14 +1225,6 @@
       "onboard_time": 1658733931,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 406471,
-      "num": 406471,
-      "word": "丁真直播",
-      "onboard_time": 1658755411,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 405919,
@@ -1387,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341478,
+      "num": 341478,
+      "word": "买车到底要不要看技术",
+      "onboard_time": 1658760756,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 338733,
       "num": 338733,
       "word": "男子救跳河女友后生死未卜",
@@ -1451,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331076,
+      "num": 331076,
+      "word": "成毅替应渊着急",
+      "onboard_time": 1658757571,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330375,
       "num": 330375,
       "word": "陪妈妈做保洁的他被北大录取",
@@ -1459,20 +1555,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 330304,
-      "num": 330304,
-      "word": "江宏杰已联系上福原爱",
-      "onboard_time": 1658758053,
-      "rank": 25,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 328899,
       "num": 328899,
       "word": "人和人的精力差别有多大",
       "onboard_time": 1658753853,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 328017,
+      "num": 279145,
+      "word": "天才基本法小演员",
+      "onboard_time": 1658758533,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 327116,
@@ -1505,6 +1601,14 @@
       "onboard_time": 1658704041,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322759,
+      "num": 322759,
+      "word": "周深给歌迷唱深深谢谢你",
+      "onboard_time": 1658762613,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 315846,
@@ -1611,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297611,
+      "num": 297611,
+      "word": "重庆冰雹",
+      "onboard_time": 1658760156,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292983,
       "num": 292983,
       "word": "女生暑假规划",
@@ -1680,14 +1792,6 @@
       "word": "天才基本法 剧情",
       "onboard_time": 1658678492,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 286273,
-      "num": 245601,
-      "word": "成毅替应渊着急",
-      "onboard_time": 1658757571,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1787,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270889,
+      "num": 270889,
+      "word": "周深出道八周年live盘点",
+      "onboard_time": 1658759373,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270486,
       "num": 270486,
       "word": "裴之 苏",
@@ -1819,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266364,
+      "num": 266364,
+      "word": "南方的蚊子也太毒了吧",
+      "onboard_time": 1658761656,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266156,
       "num": 266156,
       "word": "郑州下雨服务信息汇总",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1658747496,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 264434,
+      "num": 264434,
+      "word": "重庆部分地区现闪电大风",
+      "onboard_time": 1658763570,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264167,
@@ -1971,12 +2099,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233595,
+      "num": 226732,
+      "word": "肖战方否认玉骨遥定档0811",
+      "onboard_time": 1658751934,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233590,
       "num": 233590,
       "word": "两萌娃夜市捡瓶子攒钱买玩具",
       "onboard_time": 1658721691,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233459,
+      "num": 233459,
+      "word": "不同小狗遇到小偷的反应",
+      "onboard_time": 1658760936,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 232089,
@@ -2001,6 +2145,14 @@
       "onboard_time": 1658717129,
       "rank": 34,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 229784,
+      "num": 229784,
+      "word": "这就是留学的意义吧",
+      "onboard_time": 1658756673,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 229710,
@@ -2123,12 +2275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213062,
-      "num": 213062,
-      "word": "这就是留学的意义吧",
-      "onboard_time": 1658756673,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 213048,
+      "num": 213048,
+      "word": "1个穴位缓解失眠多梦",
+      "onboard_time": 1658763151,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210810,
@@ -2235,14 +2387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190688,
-      "num": 190688,
-      "word": "原来当老师也要与时俱进",
-      "onboard_time": 1658756074,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 186147,
       "num": 186147,
       "word": "赵睿高诗岩等5名球员回国",
@@ -2323,6 +2467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 162555,
+      "num": 162555,
+      "word": "高温地区连成一大片了",
+      "onboard_time": 1658758594,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159367,
       "num": 159367,
       "word": "LGD复仇雪碧",
@@ -2401,14 +2553,6 @@
       "onboard_time": 1658712990,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145391,
-      "num": 145391,
-      "word": "这肌肉小腿真能瘦",
-      "onboard_time": 1658757273,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 131301,
