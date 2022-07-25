@@ -39,6 +39,9 @@ const TEMPLATES_PATH = path.resolve('./', 'scripts/templates');
 
 module.exports = {
   ARCHIVE_DAILY_PATH,
+  ARCHIVE_WEEKLY_PATH,
+  ARCHIVE_MONTHLY_PATH,
+  ARCHIVE_YEARLY_PATH,
   SOURCE_PATH,
   TEMPLATES_PATH,
 };

@@ -1,8 +1,20 @@
 /**
  * 归档（周榜）
  */
+const path = require('path');
 const fs = require('fs');
 const dailyArchive = require('./archive-daily');
+const utils = require('./utils');
+const { ARCHIVE_WEEKLY_PATH } = require('./config');
+
+function setMonday(date) {
+  while (date.getDay() !== 1) {
+    const d = date.getDate();
+    date.setDate(d - 1);
+  }
+
+  return date;
+}
 
 // 通过本周每天对应的时间对象
 function getWeeklyDates(runTime) {
@@ -18,21 +30,37 @@ function getWeeklyDates(runTime) {
   return result;
 }
 
-function getDailyArchiveFilePath(runTime) {
-  return dailyArchive.getFilePath(runTime, 'json');
-}
-
 function getSourceFiles(runTime) {
   const dates = getWeeklyDates(runTime);
   return dates.map((date) => {
-    return getDailyArchiveFilePath(date.getTime());
+    return dailyArchive.getFilePath(date.getTime(), 'json');
   }).filter((filePath) => {
     return fs.existsSync(filePath);
   });
 }
 
-function aggregate(sourceFiles) {
-  // todo
+function getArchiveDir(runTime) {
+  const date = new Date(runTime);
+  const dir = path.resolve(ARCHIVE_WEEKLY_PATH, `${date.getFullYear()}`);
+  return dir;
+}
+
+// 每周周一
+function getFilePath(runTime, ext) {
+  const dir = getArchiveDir(runTime);
+  const date = new Date(runTime);
+  setMonday(date);
+  const temp = [
+    `${date.getMonth() + 1}`.padStart(2, '0'),
+    `${date.getDate()}`.padStart(2, '0'),
+  ].join('-');
+  const filePath = path.resolve(dir, `${temp}.${ext}`);
+  return filePath;
+}
+
+function archiveJSON(runTime, data = {}) {
+  const filePath = getFilePath(runTime, 'json');
+  utils.archiveJSON(filePath, data);
 }
 
 function run(timestamp) {
@@ -42,19 +70,22 @@ function run(timestamp) {
   const sourceFiles = getSourceFiles(runTime);
 
   // 聚合数据
-  const data = aggregate(sourceFiles);
+  const data = utils.aggregate(sourceFiles);
 
   console.log(data);
 
   // 归档 JSON
 
+  // 渲染 MD
   // 归档 MD
 }
 
 module.exports = {
   getWeeklyDates,
-  getDailyArchiveFilePath,
   getSourceFiles,
-  aggregate,
+  setMonday,
+  getArchiveDir,
+  getFilePath,
+  archiveJSON,
   run,
 };
