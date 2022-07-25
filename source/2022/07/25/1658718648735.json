@@ -1,0 +1,410 @@
+{
+  "runTime": 1658718648735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3344599,
+        "num": 3344599,
+        "word": "吴啊萍受审画面公布",
+        "onboard_time": 1658705784,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281039,
+        "num": 1281039,
+        "word": "BLACKPINK新曲ReadyForLove海报",
+        "onboard_time": 1658716229,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388510,
+        "num": 1193528,
+        "word": "航天员的快递放门口了",
+        "onboard_time": 1658710772,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2261802,
+        "num": 1192449,
+        "word": "玄奘寺涉事住持受访时哽咽",
+        "onboard_time": 1658713886,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189784,
+        "num": 1189784,
+        "word": "网约车开空调是一种义务吗",
+        "onboard_time": 1658715569,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788795,
+        "num": 788795,
+        "word": "原定在枣庄举办的夏日祭取消",
+        "onboard_time": 1658710293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268415,
+        "num": 787942,
+        "word": "吴啊萍身份官方调查公布",
+        "onboard_time": 1658673518,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781862,
+        "num": 781862,
+        "word": "男子10年相亲100次",
+        "onboard_time": 1658711792,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702852,
+        "num": 702852,
+        "word": "李雪琴曾为24岁爱的人疯狂减肥",
+        "onboard_time": 1658672311,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603133,
+        "num": 603133,
+        "word": "许凯录完密逃被团队接走",
+        "onboard_time": 1658703801,
+        "rank": 9,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 2327249,
+        "num": 601634,
+        "word": "难听",
+        "onboard_time": 1658717250,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1502862,
+        "num": 580856,
+        "word": "接待吴啊萍的僧人曾因交通肇事获刑",
+        "onboard_time": 1658717370,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436236,
+        "num": 568166,
+        "word": "林志颖寻救命恩人每人赠100万",
+        "onboard_time": 1658688432,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 613547,
+        "num": 562978,
+        "word": "南京女大学生遇害案主犯提出无罪上诉",
+        "onboard_time": 1658717791,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556261,
+        "num": 556261,
+        "word": "张大仙退役",
+        "onboard_time": 1658705003,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 491616,
+        "num": 491616,
+        "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+        "onboard_time": 1658675502,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 473643,
+        "num": 473643,
+        "word": "时代少年团绝配音源上线",
+        "onboard_time": 1658715510,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435421,
+        "num": 435421,
+        "word": "福州厦门将实现一小时生活圈",
+        "onboard_time": 1658715026,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429204,
+        "num": 429204,
+        "word": "退伍兵为救邻居被歹徒狂砍数刀",
+        "onboard_time": 1658714010,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382719,
+        "num": 382719,
+        "word": "石缝中长出野生西瓜意外香甜",
+        "onboard_time": 1658714727,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447286,
+        "num": 379591,
+        "word": "嗨放派录取通知书式官宣",
+        "onboard_time": 1658716290,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401675,
+        "num": 378829,
+        "word": "迷航昆仑墟定档0727",
+        "onboard_time": 1658717730,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365420,
+        "num": 365420,
+        "word": "四川新增34例本土确诊",
+        "onboard_time": 1658712750,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359705,
+        "num": 359705,
+        "word": "四人故意购买过期食品敲诈商家获刑",
+        "onboard_time": 1658701454,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351983,
+        "num": 351983,
+        "word": "女生跳高7年获60余奖项考进清华",
+        "onboard_time": 1658713469,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 336755,
+        "num": 336755,
+        "word": "小马宝莉虞书欣哇哦特辑",
+        "onboard_time": 1658718453,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318404,
+        "num": 318404,
+        "word": "婴儿车滑向台阶男子一把拉住",
+        "onboard_time": 1658717432,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 317368,
+        "num": 317368,
+        "word": "初级会计准考证",
+        "onboard_time": 1658716049,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313059,
+        "num": 313059,
+        "word": "高温天开新能源车是什么体验",
+        "onboard_time": 1658717971,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306385,
+        "num": 306385,
+        "word": "吴啊萍供奉战犯动机",
+        "onboard_time": 1658674792,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325196,
+        "num": 305481,
+        "word": "新裤子 音乐节",
+        "onboard_time": 1658710472,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322766,
+        "num": 299779,
+        "word": "大靖思维",
+        "onboard_time": 1658714010,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271924,
+        "num": 271924,
+        "word": "女生家庭聚餐被一群小朋友催婚",
+        "onboard_time": 1658692992,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257766,
+        "num": 257766,
+        "word": "谢震业官宣即将大婚",
+        "onboard_time": 1658717250,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249613,
+        "num": 249613,
+        "word": "phoning",
+        "onboard_time": 1658715688,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230957,
+        "num": 230957,
+        "word": "外卖小哥举报后厨脏乱饭店被立案",
+        "onboard_time": 1658696290,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225167,
+        "num": 225167,
+        "word": "湖南通报1800万引进23名菲律宾博士",
+        "onboard_time": 1658705543,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 224315,
+        "num": 224315,
+        "word": "哈维要求巴萨免签梅西",
+        "onboard_time": 1658715026,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223058,
+        "num": 223058,
+        "word": "四川双胞胎分别被清华北大录取",
+        "onboard_time": 1658679152,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219776,
+        "num": 219776,
+        "word": "郑乃馨毕业感言",
+        "onboard_time": 1658716169,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215412,
+        "num": 215412,
+        "word": "大爷将电动车和跑步机完美组合",
+        "onboard_time": 1658716348,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214316,
+        "num": 214316,
+        "word": "陈卓璇的毕业感言",
+        "onboard_time": 1658712031,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189172,
+        "num": 189172,
+        "word": "消防员救了一位超硬核坠井大娘",
+        "onboard_time": 1658718095,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186942,
+        "num": 186942,
+        "word": "钱三一接林妙妙下班",
+        "onboard_time": 1658689452,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177904,
+        "num": 177904,
+        "word": "中国航天员首次在轨进入科学实验舱",
+        "onboard_time": 1658717129,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 177864,
+        "num": 177864,
+        "word": "中国田径队世锦赛2金1银3铜收官",
+        "onboard_time": 1658718572,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175841,
+        "num": 175841,
+        "word": "男子救跳河女友后生死未卜",
+        "onboard_time": 1658697131,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165599,
+        "num": 165599,
+        "word": "福建省考",
+        "onboard_time": 1658712750,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165176,
+        "num": 165176,
+        "word": "北京7月24日新增1例本土确诊",
+        "onboard_time": 1658711551,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133783,
+        "num": 133783,
+        "word": "中国空间站升级为六居室",
+        "onboard_time": 1658705965,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
