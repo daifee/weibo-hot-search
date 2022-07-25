@@ -1,0 +1,811 @@
+{
+  "startTime": 1658679188483,
+  "endTime": 1658710438904,
+  "band_list": [
+    {
+      "raw_hot": 11363968,
+      "num": 11363968,
+      "word": "吴啊萍身份官方调查公布",
+      "onboard_time": 1658673518,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10856111,
+      "num": 11731030,
+      "word": "吴啊萍受审画面公布",
+      "onboard_time": 1658705784,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2912553,
+      "num": 649788,
+      "word": "林志颖太太陈若仪报平安",
+      "onboard_time": 1658708431,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2161038,
+      "num": 2046609,
+      "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+      "onboard_time": 1658675502,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 2091241,
+      "num": 2091241,
+      "word": "南京玄奘寺供奉牌位事件调查结果",
+      "onboard_time": 1658673394,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2044460,
+      "num": 2044460,
+      "word": "吴啊萍已被公安机关刑事拘留",
+      "onboard_time": 1658674792,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1775839,
+      "num": 460646,
+      "word": "林志颖或进行脸部3D重建",
+      "onboard_time": 1658679687,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1696579,
+      "num": 1304626,
+      "word": "四人故意购买过期食品敲诈商家获刑",
+      "onboard_time": 1658701454,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1635023,
+      "num": 1635023,
+      "word": "李雪琴曾为24岁爱的人疯狂减肥",
+      "onboard_time": 1658672311,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1541850,
+      "num": 1541850,
+      "word": "张大仙退役",
+      "onboard_time": 1658705003,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1485384,
+      "num": 1485384,
+      "word": "许凯录完密逃被团队接走",
+      "onboard_time": 1658703801,
+      "rank": 9,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 1359828,
+      "num": 1359828,
+      "word": "湖南通报1800万引进23名菲律宾博士",
+      "onboard_time": 1658705543,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1303217,
+      "num": 745506,
+      "word": "网传李沁试金鹰女神礼服",
+      "onboard_time": 1658670812,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1261989,
+      "num": 1261989,
+      "word": "国航机长辞职被索赔1066万",
+      "onboard_time": 1658674117,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873224,
+      "num": 873224,
+      "word": "吴啊萍供奉战犯动机",
+      "onboard_time": 1658674792,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835023,
+      "num": 835023,
+      "word": "拍吻戏都这么意外了吗",
+      "onboard_time": 1658672432,
+      "rank": 8,
+      "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 799940,
+      "num": 799940,
+      "word": "谭松韵与任嘉伦立牌同框",
+      "onboard_time": 1658675443,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 649130,
+      "num": 649130,
+      "word": "女生家庭聚餐被一群小朋友催婚",
+      "onboard_time": 1658692992,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643235,
+      "num": 643235,
+      "word": "今年的蚊子好像少了",
+      "onboard_time": 1658658990,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 627534,
+      "num": 627534,
+      "word": "广州时尚天河出现活体动物娃娃机",
+      "onboard_time": 1658670995,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601898,
+      "num": 601898,
+      "word": "你安全吗",
+      "onboard_time": 1658681006,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 568259,
+      "num": 568259,
+      "word": "四川双胞胎分别被清华北大录取",
+      "onboard_time": 1658679152,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528689,
+      "num": 528689,
+      "word": "成都一女子斑马线上被轿车撞飞",
+      "onboard_time": 1658684117,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 526609,
+      "num": 344755,
+      "word": "重庆一母女从30层顶楼坠亡",
+      "onboard_time": 1658656771,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 512097,
+      "num": 512097,
+      "word": "极限挑战没有黄景瑜",
+      "onboard_time": 1658675204,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 437089,
+      "num": 437089,
+      "word": "孟子义原来我也可以被那么多人喜欢",
+      "onboard_time": 1658672196,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423121,
+      "num": 423121,
+      "word": "日本九州鹿儿岛县樱岛火山喷发",
+      "onboard_time": 1658668109,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414480,
+      "num": 414480,
+      "word": "外卖小哥举报后厨脏乱饭店被立案",
+      "onboard_time": 1658696290,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409926,
+      "num": 409926,
+      "word": "多地佛协通知对供奉牌位进行自查",
+      "onboard_time": 1658679452,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405114,
+      "num": 341852,
+      "word": "张子枫说女孩子努力的意义",
+      "onboard_time": 1658672555,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 389051,
+      "num": 337717,
+      "word": "沉香如屑 气死",
+      "onboard_time": 1658668291,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 381058,
+      "num": 381058,
+      "word": "九尾的干将莫邪",
+      "onboard_time": 1658668234,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 380807,
+      "num": 333280,
+      "word": "吴磊女装只有零次和无数次",
+      "onboard_time": 1658668109,
+      "rank": 23,
+      "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 368099,
+      "num": 368099,
+      "word": "Ning 饭堂",
+      "onboard_time": 1658672616,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 360239,
+      "num": 360239,
+      "word": "邵阳学院校党委书记被免",
+      "onboard_time": 1658705364,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358626,
+      "num": 113938,
+      "word": "林志颖已清醒",
+      "onboard_time": 1658691431,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 352989,
+      "num": 352989,
+      "word": "不要在烧烤摊附近遛狗",
+      "onboard_time": 1658666013,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 348355,
+      "num": 348355,
+      "word": "国足0比0日本",
+      "onboard_time": 1658665232,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 347159,
+      "num": 205402,
+      "word": "张艺凡11舞台",
+      "onboard_time": 1658673873,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 338733,
+      "num": 338733,
+      "word": "男子救跳河女友后生死未卜",
+      "onboard_time": 1658697131,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335566,
+      "num": 111575,
+      "word": "林志颖寻救命恩人每人赠100万",
+      "onboard_time": 1658688432,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 335027,
+      "num": 335027,
+      "word": "菏泽新增2例确诊11例无症状",
+      "onboard_time": 1658708371,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332629,
+      "num": 332629,
+      "word": "赞多是我看硬糖少女告别典礼的哭替吧",
+      "onboard_time": 1658703920,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 331172,
+      "num": 331172,
+      "word": "法拉利",
+      "onboard_time": 1658671774,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 325242,
+      "num": 325242,
+      "word": "张凯",
+      "onboard_time": 1658673578,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 325144,
+      "num": 325144,
+      "word": "任嘉伦方辟谣出演长陵男主",
+      "onboard_time": 1658704041,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315244,
+      "num": 315244,
+      "word": "中国空间站升级为六居室",
+      "onboard_time": 1658705965,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 307115,
+      "num": 307115,
+      "word": "江西通报一地将承办日本夏日祭活动",
+      "onboard_time": 1658653589,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302874,
+      "num": 302874,
+      "word": "没想到辣目洋子的心是个小区",
+      "onboard_time": 1658702538,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301860,
+      "num": 301860,
+      "word": "儿童抑郁后症状或表现为躯体症状",
+      "onboard_time": 1658670212,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289916,
+      "num": 289916,
+      "word": "马斯克被爆插足谷歌创始人妻子",
+      "onboard_time": 1658710172,
+      "rank": 25,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 289840,
+      "num": 189400,
+      "word": "赵露思古筝弹星汉灿烂",
+      "onboard_time": 1658669672,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289126,
+      "num": 176616,
+      "word": "钱三一给林妙妙撒娇",
+      "onboard_time": 1658674356,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287443,
+      "num": 287443,
+      "word": "天才基本法 剧情",
+      "onboard_time": 1658678492,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282019,
+      "num": 282019,
+      "word": "深圳地铁",
+      "onboard_time": 1658709812,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270486,
+      "num": 270486,
+      "word": "裴之 苏",
+      "onboard_time": 1658686693,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265411,
+      "num": 265411,
+      "word": "周琦入选男篮亚洲杯最佳阵容",
+      "onboard_time": 1658706449,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265220,
+      "num": 265220,
+      "word": "香港国语配音演员冯雪锐去世",
+      "onboard_time": 1658709333,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264167,
+      "num": 264167,
+      "word": "问天与天和在轨完成交会对接",
+      "onboard_time": 1658704221,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 261604,
+      "num": 261604,
+      "word": "钱三一接林妙妙下班",
+      "onboard_time": 1658689452,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258476,
+      "num": 162524,
+      "word": "白敬亭极限挑战",
+      "onboard_time": 1658672074,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 253478,
+      "num": 253478,
+      "word": "少女时代8月8日正式回归",
+      "onboard_time": 1658709692,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 251468,
+      "num": 251468,
+      "word": "TTG对战eStar",
+      "onboard_time": 1658681123,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 237506,
+      "num": 237506,
+      "word": "省考申论分低什么体验",
+      "onboard_time": 1658708734,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 232089,
+      "num": 232089,
+      "word": "龚俊承认自己有唱歌天赋",
+      "onboard_time": 1658694490,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231176,
+      "num": 231176,
+      "word": "颜淡应渊婚后生活好甜",
+      "onboard_time": 1658702777,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229710,
+      "num": 229710,
+      "word": "二手名表价格持续跳水",
+      "onboard_time": 1658678553,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 225002,
+      "num": 113506,
+      "word": "ive新专辑预告",
+      "onboard_time": 1658675565,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 222917,
+      "num": 222917,
+      "word": "20岁女孩被父母说有病患中度抑郁",
+      "onboard_time": 1658662171,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222528,
+      "num": 199293,
+      "word": "刘宇像我这样的人舞台感染力",
+      "onboard_time": 1658682080,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222124,
+      "num": 222124,
+      "word": "广西小伙檀健次为家乡加油",
+      "onboard_time": 1658703499,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214965,
+      "num": 214965,
+      "word": "九尾 裁判",
+      "onboard_time": 1658684417,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205789,
+      "num": 205789,
+      "word": "夏季小心低钾血症",
+      "onboard_time": 1658671353,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195878,
+      "num": 195878,
+      "word": "不同年龄海姆立克急救法做法不同",
+      "onboard_time": 1658704883,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194313,
+      "num": 213163,
+      "word": "澳大利亚男篮亚洲杯冠军",
+      "onboard_time": 1658707292,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176424,
+      "num": 176424,
+      "word": "原定在枣庄举办的夏日祭取消",
+      "onboard_time": 1658710293,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172049,
+      "num": 172049,
+      "word": "轮椅女孩考上北大",
+      "onboard_time": 1658709514,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 164409,
+      "num": 2048243,
+      "word": "问天实验舱长啥样",
+      "onboard_time": 1658672132,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 159367,
+      "num": 159367,
+      "word": "LGD复仇雪碧",
+      "onboard_time": 1658706266,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 157196,
+      "num": 157196,
+      "word": "饭堂",
+      "onboard_time": 1658670633,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152834,
+      "num": 152834,
+      "word": "杜富国康复出院",
+      "onboard_time": 1658669251,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151422,
+      "num": 151422,
+      "word": "国足终结对日本四连败",
+      "onboard_time": 1658668411,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150188,
+      "num": 119542,
+      "word": "摄像小哥回应拥抱许嵩",
+      "onboard_time": 1658682022,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131301,
+      "num": 131301,
+      "word": "家里去世的狗狗也有微信",
+      "onboard_time": 1658664510,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130308,
+      "num": 130308,
+      "word": "查酒驾闯卡女子非公安家属",
+      "onboard_time": 1658699652,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113945,
+      "num": 113945,
+      "word": "还没换牙的小狗吃西瓜",
+      "onboard_time": 1658660252,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112047,
+      "num": 112047,
+      "word": "被评论区的抬杠整笑了",
+      "onboard_time": 1658669732,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111837,
+      "num": 111837,
+      "word": "贵州省考",
+      "onboard_time": 1658663850,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 106246,
+      "num": 106246,
+      "word": "记仇小狗为报复铲屎官尿一拖鞋",
+      "onboard_time": 1658670513,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 104184,
+      "num": 104184,
+      "word": "TTG终结对eStar八连败",
+      "onboard_time": 1658674240,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 98926,
+      "num": 98926,
+      "word": "TheShy伤害",
+      "onboard_time": 1658666790,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92928,
+      "num": 92928,
+      "word": "LGD DOTA2",
+      "onboard_time": 1658686155,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 78628,
+      "num": 78628,
+      "word": "TT周冠军",
+      "onboard_time": 1658673697,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 55902,
+      "num": 55902,
+      "word": "林妙妙被前男友骚扰",
+      "onboard_time": 1658691911,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 52488,
+      "num": 52488,
+      "word": "人生大事连续两周周末票房逆跌",
+      "onboard_time": 1658695692,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 48913,
+      "num": 48913,
+      "word": "Tian说希望继续赢下去",
+      "onboard_time": 1658669073,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 48847,
+      "num": 48847,
+      "word": "还魂",
+      "onboard_time": 1658688313,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 32779,
+      "num": 32779,
+      "word": "朱一龙一番电影总票房破20亿",
+      "onboard_time": 1658694910,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 25687,
+      "num": 25687,
+      "word": "十年前的许嵩vs十年后的许嵩",
+      "onboard_time": 1658702296,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17334,
+      "num": 17334,
+      "word": "贾玲说沈马组合yyds",
+      "onboard_time": 1658691251,
+      "rank": 46,
+      "category": "影视"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  ]
+}

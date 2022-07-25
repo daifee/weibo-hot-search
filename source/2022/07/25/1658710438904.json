@@ -1,0 +1,410 @@
+{
+  "runTime": 1658710438904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10856111,
+        "num": 11731030,
+        "word": "吴啊萍受审画面公布",
+        "onboard_time": 1658705784,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2732116,
+        "num": 2732116,
+        "word": "吴啊萍身份官方调查公布",
+        "onboard_time": 1658673518,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164409,
+        "num": 2040518,
+        "word": "问天实验舱长啥样",
+        "onboard_time": 1658672132,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1541850,
+        "num": 1541850,
+        "word": "张大仙退役",
+        "onboard_time": 1658705003,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1485384,
+        "num": 1485384,
+        "word": "许凯录完密逃被团队接走",
+        "onboard_time": 1658703801,
+        "rank": 4,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1359828,
+        "num": 1359828,
+        "word": "湖南通报1800万引进23名菲律宾博士",
+        "onboard_time": 1658705543,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1142730,
+        "num": 1142730,
+        "word": "李雪琴曾为24岁爱的人疯狂减肥",
+        "onboard_time": 1658672311,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1018243,
+        "num": 1018243,
+        "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+        "onboard_time": 1658675502,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 806349,
+        "num": 806349,
+        "word": "四人故意购买过期食品敲诈商家获刑",
+        "onboard_time": 1658701454,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649806,
+        "num": 649806,
+        "word": "吴啊萍供奉战犯动机",
+        "onboard_time": 1658674792,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2912553,
+        "num": 649788,
+        "word": "林志颖太太陈若仪报平安",
+        "onboard_time": 1658708431,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 702875,
+        "num": 649753,
+        "word": "网传李沁试金鹰女神礼服",
+        "onboard_time": 1658670812,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649130,
+        "num": 649130,
+        "word": "女生家庭聚餐被一群小朋友催婚",
+        "onboard_time": 1658692992,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528689,
+        "num": 528689,
+        "word": "成都一女子斑马线上被轿车撞飞",
+        "onboard_time": 1658684117,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 462879,
+        "num": 462879,
+        "word": "国航机长辞职被索赔1066万",
+        "onboard_time": 1658674117,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420734,
+        "num": 420734,
+        "word": "四川双胞胎分别被清华北大录取",
+        "onboard_time": 1658679152,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414480,
+        "num": 414480,
+        "word": "外卖小哥举报后厨脏乱饭店被立案",
+        "onboard_time": 1658696290,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360239,
+        "num": 360239,
+        "word": "邵阳学院校党委书记被免",
+        "onboard_time": 1658705364,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338733,
+        "num": 338733,
+        "word": "男子救跳河女友后生死未卜",
+        "onboard_time": 1658697131,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335027,
+        "num": 335027,
+        "word": "菏泽新增2例确诊11例无症状",
+        "onboard_time": 1658708371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332629,
+        "num": 332629,
+        "word": "赞多是我看硬糖少女告别典礼的哭替吧",
+        "onboard_time": 1658703920,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325144,
+        "num": 325144,
+        "word": "任嘉伦方辟谣出演长陵男主",
+        "onboard_time": 1658704041,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315244,
+        "num": 315244,
+        "word": "中国空间站升级为六居室",
+        "onboard_time": 1658705965,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 311418,
+        "num": 311418,
+        "word": "今年的蚊子好像少了",
+        "onboard_time": 1658658990,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302874,
+        "num": 302874,
+        "word": "没想到辣目洋子的心是个小区",
+        "onboard_time": 1658702538,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289916,
+        "num": 289916,
+        "word": "马斯克被爆插足谷歌创始人妻子",
+        "onboard_time": 1658710172,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 282019,
+        "num": 282019,
+        "word": "深圳地铁",
+        "onboard_time": 1658709812,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270486,
+        "num": 270486,
+        "word": "裴之 苏",
+        "onboard_time": 1658686693,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269469,
+        "num": 269469,
+        "word": "多地佛协通知对供奉牌位进行自查",
+        "onboard_time": 1658679452,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265411,
+        "num": 265411,
+        "word": "周琦入选男篮亚洲杯最佳阵容",
+        "onboard_time": 1658706449,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265220,
+        "num": 265220,
+        "word": "香港国语配音演员冯雪锐去世",
+        "onboard_time": 1658709333,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261604,
+        "num": 261604,
+        "word": "钱三一接林妙妙下班",
+        "onboard_time": 1658689452,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257894,
+        "num": 257894,
+        "word": "吴啊萍已被公安机关刑事拘留",
+        "onboard_time": 1658674792,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253478,
+        "num": 253478,
+        "word": "少女时代8月8日正式回归",
+        "onboard_time": 1658709692,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250563,
+        "num": 250563,
+        "word": "九尾的干将莫邪",
+        "onboard_time": 1658668234,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237506,
+        "num": 237506,
+        "word": "省考申论分低什么体验",
+        "onboard_time": 1658708734,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225798,
+        "num": 225798,
+        "word": "颜淡应渊婚后生活好甜",
+        "onboard_time": 1658702777,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222275,
+        "num": 222275,
+        "word": "广州时尚天河出现活体动物娃娃机",
+        "onboard_time": 1658670995,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222124,
+        "num": 222124,
+        "word": "广西小伙檀健次为家乡加油",
+        "onboard_time": 1658703499,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194313,
+        "num": 213163,
+        "word": "澳大利亚男篮亚洲杯冠军",
+        "onboard_time": 1658707292,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211633,
+        "num": 211633,
+        "word": "拍吻戏都这么意外了吗",
+        "onboard_time": 1658672432,
+        "rank": 40,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 203638,
+        "num": 203638,
+        "word": "你安全吗",
+        "onboard_time": 1658681006,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190441,
+        "num": 190441,
+        "word": "夏季小心低钾血症",
+        "onboard_time": 1658671353,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184578,
+        "num": 184578,
+        "word": "日本九州鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1658668109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182528,
+        "num": 182528,
+        "word": "Ning 饭堂",
+        "onboard_time": 1658672616,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176424,
+        "num": 176424,
+        "word": "原定在枣庄举办的夏日祭取消",
+        "onboard_time": 1658710293,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172049,
+        "num": 172049,
+        "word": "轮椅女孩考上北大",
+        "onboard_time": 1658709514,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 168349,
+        "num": 168349,
+        "word": "不要在烧烤摊附近遛狗",
+        "onboard_time": 1658666013,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159367,
+        "num": 159367,
+        "word": "LGD复仇雪碧",
+        "onboard_time": 1658706266,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158655,
+        "num": 158655,
+        "word": "儿童抑郁后症状或表现为躯体症状",
+        "onboard_time": 1658670212,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  }
+}
