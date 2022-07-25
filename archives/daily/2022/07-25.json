@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658710438904,
+  "endTime": 1658724029786,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -27,6 +27,30 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2822907,
+      "num": 780632,
+      "word": "唐山烧烤店打人案侦办情况会公布",
+      "onboard_time": 1658719653,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2327249,
+      "num": 777628,
+      "word": "难听",
+      "onboard_time": 1658717250,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2261802,
+      "num": 2151948,
+      "word": "玄奘寺涉事住持受访时哽咽",
+      "onboard_time": 1658713886,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2161038,
       "num": 2046609,
       "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
@@ -51,12 +75,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1948873,
+      "num": 1948873,
+      "word": "南京女大学生遇害案主犯提出无罪上诉",
+      "onboard_time": 1658717791,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1830977,
+      "num": 1830977,
+      "word": "你是我的荣耀再赴心动",
+      "onboard_time": 1658720611,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1775839,
       "num": 460646,
       "word": "林志颖或进行脸部3D重建",
       "onboard_time": 1658679687,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1723528,
+      "num": 779746,
+      "word": "接待吴啊萍的僧人曾因交通肇事获刑",
+      "onboard_time": 1658717370,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1696579,
@@ -91,6 +139,30 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 1483202,
+      "num": 776679,
+      "word": "林志颖寻救命恩人每人赠100万",
+      "onboard_time": 1658688432,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1428239,
+      "num": 1428239,
+      "word": "公安部回应唐山烧烤店打人案",
+      "onboard_time": 1658718814,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1395559,
+      "num": 778809,
+      "word": "马丽老公说沈马组合好甜",
+      "onboard_time": 1658720733,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1359828,
       "num": 1359828,
       "word": "湖南通报1800万引进23名菲律宾博士",
@@ -107,12 +179,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1281039,
+      "num": 1281039,
+      "word": "BLACKPINK新曲ReadyForLove海报",
+      "onboard_time": 1658716229,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1261989,
       "num": 1261989,
       "word": "国航机长辞职被索赔1066万",
       "onboard_time": 1658674117,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1189784,
+      "num": 1189784,
+      "word": "网约车开空调是一种义务吗",
+      "onboard_time": 1658715569,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040349,
+      "num": 1040349,
+      "word": "男子10年相亲100次",
+      "onboard_time": 1658711792,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 940478,
+      "num": 940478,
+      "word": "原定在枣庄举办的夏日祭取消",
+      "onboard_time": 1658710293,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919116,
+      "num": 919116,
+      "word": "谷爱凌参加半马跑第2名",
+      "onboard_time": 1658719772,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 873224,
@@ -137,6 +249,14 @@
       "onboard_time": 1658675443,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 776559,
+      "num": 776559,
+      "word": "高温天开新能源车是什么体验",
+      "onboard_time": 1658717971,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649130,
@@ -171,12 +291,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570414,
+      "num": 570414,
+      "word": "时代少年团绝配音源上线",
+      "onboard_time": 1658715510,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 568259,
       "num": 568259,
       "word": "四川双胞胎分别被清华北大录取",
       "onboard_time": 1658679152,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565923,
+      "num": 565923,
+      "word": "马斯克否认插足谷歌创始人妻子",
+      "onboard_time": 1658719534,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550373,
+      "num": 550373,
+      "word": "甘望星徐紫茵再遇两个他开机",
+      "onboard_time": 1658722775,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542566,
+      "num": 542566,
+      "word": "中式轻食比沙拉更受欢迎",
+      "onboard_time": 1658720974,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 536063,
+      "num": 524895,
+      "word": "任嘉伦官宣加盟嗨放派",
+      "onboard_time": 1658719653,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 528689,
@@ -195,12 +355,52 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 523258,
+      "num": 523258,
+      "word": "退伍兵为救邻居被歹徒狂砍数刀",
+      "onboard_time": 1658714010,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518536,
+      "num": 518536,
+      "word": "按揉1个穴位预防脱发",
+      "onboard_time": 1658722173,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 512097,
       "num": 512097,
       "word": "极限挑战没有黄景瑜",
       "onboard_time": 1658675204,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491908,
+      "num": 379591,
+      "word": "嗨放派录取通知书式官宣",
+      "onboard_time": 1658716290,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 467275,
+      "num": 467275,
+      "word": "婴儿车滑向台阶男子一把拉住",
+      "onboard_time": 1658717432,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 438268,
+      "num": 438268,
+      "word": "福州厦门将实现一小时生活圈",
+      "onboard_time": 1658715026,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437089,
@@ -219,11 +419,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415998,
+      "num": 415998,
+      "word": "沉香如屑大婚花絮",
+      "onboard_time": 1658718932,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414480,
       "num": 414480,
       "word": "外卖小哥举报后厨脏乱饭店被立案",
       "onboard_time": 1658696290,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414120,
+      "num": 1834957,
+      "word": "航天员的快递放门口了",
+      "onboard_time": 1658710772,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -243,12 +459,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401675,
+      "num": 378829,
+      "word": "迷航昆仑墟定档0727",
+      "onboard_time": 1658717730,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399661,
+      "num": 374650,
+      "word": "大靖思维",
+      "onboard_time": 1658714010,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389051,
       "num": 337717,
       "word": "沉香如屑 气死",
       "onboard_time": 1658668291,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382903,
+      "num": 382903,
+      "word": "四川新增34例本土确诊",
+      "onboard_time": 1658712750,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382719,
+      "num": 382719,
+      "word": "石缝中长出野生西瓜意外香甜",
+      "onboard_time": 1658714727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381058,
@@ -275,12 +523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 361699,
+      "num": 361699,
+      "word": "初级会计准考证",
+      "onboard_time": 1658716049,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 360239,
       "num": 360239,
       "word": "邵阳学院校党委书记被免",
       "onboard_time": 1658705364,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358675,
+      "num": 358675,
+      "word": "女生跳高7年获60余奖项考进清华",
+      "onboard_time": 1658713469,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 358626,
@@ -297,6 +561,14 @@
       "onboard_time": 1658666013,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 352774,
+      "num": 352774,
+      "word": "新裤子 音乐节",
+      "onboard_time": 1658710472,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 348355,
@@ -323,12 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335566,
-      "num": 111575,
-      "word": "林志颖寻救命恩人每人赠100万",
-      "onboard_time": 1658688432,
-      "rank": 10,
-      "category": "艺人,社会新闻"
+      "raw_hot": 336755,
+      "num": 336755,
+      "word": "小马宝莉虞书欣哇哦特辑",
+      "onboard_time": 1658718453,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335410,
+      "num": 335410,
+      "word": "微博视界大会",
+      "onboard_time": 1658723797,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 335027,
@@ -379,6 +659,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 314214,
+      "num": 314214,
+      "word": "谢震业官宣即将大婚",
+      "onboard_time": 1658717250,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310504,
+      "num": 303037,
+      "word": "陈楚生一首写给我们的歌",
+      "onboard_time": 1658722173,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307115,
       "num": 307115,
       "word": "江西通报一地将承办日本夏日祭活动",
@@ -400,6 +696,22 @@
       "word": "儿童抑郁后症状或表现为躯体症状",
       "onboard_time": 1658670212,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298594,
+      "num": 274001,
+      "word": "郑乃馨毕业感言",
+      "onboard_time": 1658716169,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 292675,
+      "num": 292675,
+      "word": "女子挤痘痘脸部感染手术缝6针",
+      "onboard_time": 1658723554,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -483,12 +795,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259276,
+      "num": 259276,
+      "word": "陈卓璇的毕业感言",
+      "onboard_time": 1658712031,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 258476,
       "num": 162524,
       "word": "白敬亭极限挑战",
       "onboard_time": 1658672074,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257537,
+      "num": 257537,
+      "word": "消防员救了一位超硬核坠井大娘",
+      "onboard_time": 1658718095,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253478,
@@ -507,12 +835,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249613,
+      "num": 249613,
+      "word": "phoning",
+      "onboard_time": 1658715688,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246035,
+      "num": 246035,
+      "word": "宋亚轩绝配音色",
+      "onboard_time": 1658719233,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237506,
       "num": 237506,
       "word": "省考申论分低什么体验",
       "onboard_time": 1658708734,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 233590,
+      "num": 233590,
+      "word": "两萌娃夜市捡瓶子攒钱买玩具",
+      "onboard_time": 1658721691,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232089,
@@ -531,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230734,
+      "num": 230734,
+      "word": "中国航天员首次在轨进入科学实验舱",
+      "onboard_time": 1658717129,
+      "rank": 34,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 229710,
       "num": 229710,
       "word": "二手名表价格持续跳水",
@@ -545,6 +905,14 @@
       "onboard_time": 1658675565,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224315,
+      "num": 224315,
+      "word": "哈维要求巴萨免签梅西",
+      "onboard_time": 1658715026,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 222917,
@@ -571,6 +939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216403,
+      "num": 216403,
+      "word": "科学家观测到黑洞撕碎恒星过程",
+      "onboard_time": 1658721393,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 215412,
+      "num": 215412,
+      "word": "大爷将电动车和跑步机完美组合",
+      "onboard_time": 1658716348,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214965,
       "num": 214965,
       "word": "九尾 裁判",
@@ -579,12 +963,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210810,
+      "num": 210810,
+      "word": "王艺瑾喜欢你MV好甜",
+      "onboard_time": 1658720313,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205789,
       "num": 205789,
       "word": "夏季小心低钾血症",
       "onboard_time": 1658671353,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "这勺子也太好用了",
+      "onboard_time": 1658723375,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "严浩翔绝配rap",
+      "onboard_time": 1658718872,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 198713,
+      "num": 198713,
+      "word": "福建省考",
+      "onboard_time": 1658712750,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 195878,
@@ -603,12 +1019,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176424,
-      "num": 176424,
-      "word": "原定在枣庄举办的夏日祭取消",
-      "onboard_time": 1658710293,
-      "rank": 45,
+      "raw_hot": 183222,
+      "num": 183222,
+      "word": "北京7月24日新增1例本土确诊",
+      "onboard_time": 1658711551,
+      "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178016,
+      "num": 178016,
+      "word": "苹果官网产品打折",
+      "onboard_time": 1658723917,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 177864,
+      "num": 177864,
+      "word": "中国田径队世锦赛2金1银3铜收官",
+      "onboard_time": 1658718572,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 172049,
@@ -617,6 +1049,14 @@
       "onboard_time": 1658709514,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 168214,
+      "num": 168214,
+      "word": "伞给了老爷爷一个家",
+      "onboard_time": 1658715209,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 164409,
@@ -665,6 +1105,14 @@
       "onboard_time": 1658682022,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145533,
+      "num": 145533,
+      "word": "甘肃增本土无症状284例",
+      "onboard_time": 1658712990,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131301,
@@ -806,6 +1254,12 @@
   "hotgov_list": [
     {
       "word": "#问天实验舱踏上问天路#"
+    },
+    {
+      "word": "#打卡中国#"
+    },
+    {
+      "word": "#2022北京文化论坛#"
     }
   ]
 }
