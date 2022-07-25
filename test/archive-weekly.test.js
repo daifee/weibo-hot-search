@@ -124,9 +124,20 @@ describe('test/archive-weekly.test.js', () => {
     });
   });
 
-  // describe('aggregate(sourceFiles)', () => {
-  //   test('runTime = 1258630710372', () => {
+  describe.skip('aggregate(sourceFiles)', () => {
+    test('runTime = 1258630710372', () => {
+      const timestamp = 1658630710372;
+      const sourceFiles = archiveWeekly.getSourceFiles(timestamp);
 
-  //   });
-  // });
+      const data = archiveWeekly.aggregate(sourceFiles);
+
+      expect(data).toBeDefined();
+      expect(data.startTime > 0).toBe(true);
+      expect(data.endTime > 0).toBe(true);
+      expect(data.band_list).toBeDefined();
+      expect(data.band_list.length > 0).toBe(true);
+      expect(data.hotgov_list).toBeDefined();
+      expect(data.hotgov_list.length > 0).toBe(true);
+    });
+  });
 });

@@ -14,27 +14,6 @@ describe('test/archive-daily.test.js', () => {
     expect(files.length >= 1).toBe(true);
   });
 
-  test('aggregate(sourceFilePaths)', () => {
-    const sourceFilePaths = archiveDaily.getSourceFiles(1658074311206);
-    const data = archiveDaily.aggregate(sourceFilePaths);
-
-    expect(data.hotgov_list.length).toBe(5);
-    expect(data.band_list.length).toBe(310);
-    // console.log(data);
-    expect(data.startTime < Number.MAX_SAFE_INTEGER).toBe(true);
-    expect(data.endTime > 0).toBe(true);
-    const first = data.band_list[0];
-    const second = data.band_list[1];
-
-    expect(first.raw_hot >= second.raw_hot).toBe(true);
-  });
-
-  test('aggregate([])', () => {
-    const data = archiveDaily.aggregate([]);
-    expect(data.hotgov_list.length).toBe(0);
-    expect(data.band_list.length).toBe(0);
-  });
-
   test('run(timestamp)', () => {
     const runTime = 1658024204166;
     archiveDaily.run(runTime);
@@ -44,7 +23,7 @@ describe('test/archive-daily.test.js', () => {
     expect(fs.existsSync(archiveFile)).toBe(true);
   });
 
-  test('should ', async () => {
+  test('renderMD(data)', async () => {
     const string = await archiveDaily.renderMD({
       startTime: 1658024204166,
       endTime: 1658026718622,

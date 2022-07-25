@@ -1,0 +1,410 @@
+{
+  "runTime": 1658152839295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14095207,
+        "num": 14095207,
+        "word": "撤档",
+        "onboard_time": 1658151152,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2111520,
+        "num": 2111520,
+        "word": "湖南卫视 山海情",
+        "onboard_time": 1658150072,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54968,
+        "num": 1875914,
+        "word": "掌声送给为梦想全力奔跑的人",
+        "onboard_time": 1658130866,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1784099,
+        "num": 1784099,
+        "word": "沉香如屑今晚空降",
+        "onboard_time": 1658141066,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1227744,
+        "num": 1227744,
+        "word": "高考生查分第2天脑出血进ICU",
+        "onboard_time": 1658151574,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1094421,
+        "num": 1094421,
+        "word": "邵阳学院砸1800万引进23名菲律宾博士",
+        "onboard_time": 1658150850,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1053939,
+        "num": 1053939,
+        "word": "小男孩发现天文馆错误百出气到暴走",
+        "onboard_time": 1658144007,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694570,
+        "num": 694570,
+        "word": "王麻子 拍了一天的蒜",
+        "onboard_time": 1658142205,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565134,
+        "num": 565134,
+        "word": "奶茶锦衣卫便宜又好喝",
+        "onboard_time": 1658145326,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 543978,
+        "num": 543978,
+        "word": "张小泉总经理称中国人切菜方法不对",
+        "onboard_time": 1658120908,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 992645,
+        "num": 542722,
+        "word": "人生若如初见没播",
+        "onboard_time": 1658150850,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1753765,
+        "num": 541322,
+        "word": "小伙健身房洗澡时被女子看光",
+        "onboard_time": 1658149772,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990465,
+        "num": 540036,
+        "word": "周游记2有张艺兴",
+        "onboard_time": 1658150670,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 984097,
+        "num": 539455,
+        "word": "优酷 沉香如屑",
+        "onboard_time": 1658142028,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538447,
+        "num": 538447,
+        "word": "主任会扔下楼的病历",
+        "onboard_time": 1658147306,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428566,
+        "num": 428566,
+        "word": "海贼王将进入最终章",
+        "onboard_time": 1658148390,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 365894,
+        "num": 365894,
+        "word": "张小泉竞争对手直播菜刀拍蒜",
+        "onboard_time": 1658151032,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318210,
+        "num": 318210,
+        "word": "男朋友承包了我一年的包",
+        "onboard_time": 1658139867,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306175,
+        "num": 306175,
+        "word": "中国军工回应男孩发现天文馆错误",
+        "onboard_time": 1658152057,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303630,
+        "num": 303630,
+        "word": "奥比岛 装修",
+        "onboard_time": 1658143766,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 963401,
+        "num": 302560,
+        "word": "刘畊宏给周杰伦刷奶茶礼物",
+        "onboard_time": 1658151935,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881852,
+        "num": 302448,
+        "word": "心疼李现",
+        "onboard_time": 1658152057,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638430,
+        "num": 302021,
+        "word": "中餐厅敬告网友",
+        "onboard_time": 1658146888,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300365,
+        "num": 300365,
+        "word": "小奶狗的颜值能有多高",
+        "onboard_time": 1658144546,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 265371,
+        "num": 265371,
+        "word": "胡明轩14分",
+        "onboard_time": 1658151092,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251015,
+        "num": 251015,
+        "word": "当代年轻人的朋友圈文案",
+        "onboard_time": 1658138968,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 249287,
+        "num": 249287,
+        "word": "中国男篮大胜印尼男篮",
+        "onboard_time": 1658147009,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244511,
+        "num": 244511,
+        "word": "不会用电脑的18岁少年高考632分",
+        "onboard_time": 1658151453,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 231440,
+        "num": 231440,
+        "word": "不能拍蒜的菜刀等于放弃中餐市场",
+        "onboard_time": 1658137406,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70952,
+        "num": 229212,
+        "word": "不得为未满16周岁未成年人提供主播服务",
+        "onboard_time": 1658134830,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437835,
+        "num": 228278,
+        "word": "人生若如初见",
+        "onboard_time": 1658149410,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418367,
+        "num": 223784,
+        "word": "晚晚 象组",
+        "onboard_time": 1658138366,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 363108,
+        "num": 220349,
+        "word": "水尾村孩子群体性血铅中毒",
+        "onboard_time": 1658147128,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335038,
+        "num": 217682,
+        "word": "刘宇宁直播",
+        "onboard_time": 1658150974,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216080,
+        "num": 216080,
+        "word": "张小泉为什么不能拍蒜",
+        "onboard_time": 1658149711,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189121,
+        "num": 189121,
+        "word": "成都本土疫情病例活动轨迹风险点位一览",
+        "onboard_time": 1658145567,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176139,
+        "num": 176139,
+        "word": "张小泉称正在拟官方声明",
+        "onboard_time": 1658139748,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173198,
+        "num": 173198,
+        "word": "古代就有站岗小狗",
+        "onboard_time": 1658144487,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154332,
+        "num": 154332,
+        "word": "没见过这么逼真的口罩",
+        "onboard_time": 1658136506,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131949,
+        "num": 131949,
+        "word": "北京新增两感染者为夫妻",
+        "onboard_time": 1658142028,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324482,
+        "num": 131522,
+        "word": "李秀满为BoA出道20周年制作Better",
+        "onboard_time": 1658146707,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256966,
+        "num": 130548,
+        "word": "想看杨紫",
+        "onboard_time": 1658145326,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129002,
+        "num": 129002,
+        "word": "翟晓川拿来吧你",
+        "onboard_time": 1658151875,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126938,
+        "num": 126938,
+        "word": "年轻男女疑乱扔垃圾后殴打环卫工",
+        "onboard_time": 1658142805,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121460,
+        "num": 121460,
+        "word": "这么吃荔枝不会上火",
+        "onboard_time": 1658136567,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112259,
+        "num": 112259,
+        "word": "iG对战JDG",
+        "onboard_time": 1658151814,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106252,
+        "num": 106252,
+        "word": "赵睿三分",
+        "onboard_time": 1658151694,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103370,
+        "num": 103370,
+        "word": "羽生结弦将于19日召开发布会",
+        "onboard_time": 1658131287,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95591,
+        "num": 95591,
+        "word": "北京新增境外输入感染者为飞行员",
+        "onboard_time": 1658145628,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78788,
+        "num": 78788,
+        "word": "安徽事业单位",
+        "onboard_time": 1658134227,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌京津冀逐梦新征程#"
+    }
+  }
+}

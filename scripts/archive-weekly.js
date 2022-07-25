@@ -31,8 +31,8 @@ function getSourceFiles(runTime) {
   });
 }
 
-function aggregate() {
-
+function aggregate(sourceFiles) {
+  // todo
 }
 
 function run(timestamp) {
