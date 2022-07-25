@@ -1,0 +1,410 @@
+{
+  "runTime": 1658740205644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2596903,
+        "num": 2596903,
+        "word": "林志颖目前无法完整拼凑车祸经过",
+        "onboard_time": 1658733931,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1327511,
+        "num": 1327511,
+        "word": "7个月宝宝41斤胳膊把蚊子夹成肉泥",
+        "onboard_time": 1658732195,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65305,
+        "num": 1094174,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962179,
+        "num": 962179,
+        "word": "邢台学院聘13名韩国高校女博士",
+        "onboard_time": 1658734894,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 930201,
+        "num": 930201,
+        "word": "iPhone13全系列优惠600元",
+        "onboard_time": 1658735375,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 817240,
+        "num": 817240,
+        "word": "坠楼女童亲吻两位救命恩人",
+        "onboard_time": 1658733636,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751216,
+        "num": 751216,
+        "word": "B站全面展示账号IP属地",
+        "onboard_time": 1658737055,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 690107,
+        "num": 690107,
+        "word": "原来月球上真的有一座广寒宫",
+        "onboard_time": 1658736393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644592,
+        "num": 644592,
+        "word": "油价",
+        "onboard_time": 1658738434,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 531468,
+        "num": 531468,
+        "word": "爱豆有必要开麦跳舞吗",
+        "onboard_time": 1658732435,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540052,
+        "num": 506091,
+        "word": "李马克确诊新冠",
+        "onboard_time": 1658728052,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480665,
+        "num": 480665,
+        "word": "三只松鼠脱氧剂泄露致孕妇误食",
+        "onboard_time": 1658729555,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412972,
+        "num": 412972,
+        "word": "男子景区内偷走刚产下天鹅蛋",
+        "onboard_time": 1658737410,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402475,
+        "num": 402475,
+        "word": "军队文职",
+        "onboard_time": 1658732372,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1293512,
+        "num": 398614,
+        "word": "土土",
+        "onboard_time": 1658734535,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 391609,
+        "num": 391609,
+        "word": "野外工作失联浙大教师已找到",
+        "onboard_time": 1658737715,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376981,
+        "num": 376981,
+        "word": "星汉灿烂",
+        "onboard_time": 1658728652,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370576,
+        "num": 370576,
+        "word": "103岁奶奶去世捐献遗体",
+        "onboard_time": 1658734115,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354882,
+        "num": 354882,
+        "word": "为什么休息比上班还累",
+        "onboard_time": 1658731354,
+        "rank": 18,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 331937,
+        "num": 331937,
+        "word": "WE教练好帅",
+        "onboard_time": 1658737354,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1139068,
+        "num": 330592,
+        "word": "杭州灵隐寺召开僧众大会",
+        "onboard_time": 1658734411,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328883,
+        "num": 328883,
+        "word": "唐山烧烤店打人案侦办情况会公布",
+        "onboard_time": 1658719653,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308761,
+        "num": 308761,
+        "word": "头一次见澡堂式的婚礼",
+        "onboard_time": 1658739037,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506635,
+        "num": 303337,
+        "word": "吴啊萍何以无知堕落至此",
+        "onboard_time": 1658726131,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295768,
+        "num": 295768,
+        "word": "绿豆汤解暑但并非人人适宜",
+        "onboard_time": 1658729973,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289480,
+        "num": 289480,
+        "word": "肖战三部微光荣耀入围作品",
+        "onboard_time": 1658727753,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288593,
+        "num": 288593,
+        "word": "好的父母治愈一生",
+        "onboard_time": 1658738677,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280431,
+        "num": 280431,
+        "word": "苹果官网产品打折",
+        "onboard_time": 1658723917,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 269798,
+        "num": 269798,
+        "word": "爱发炎的扁桃体到底有啥用",
+        "onboard_time": 1658739153,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265837,
+        "num": 265837,
+        "word": "沉香如屑过山车式追剧",
+        "onboard_time": 1658736814,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260276,
+        "num": 260276,
+        "word": "爸爸离世七旬爷爷陪7岁孙子抗癌",
+        "onboard_time": 1658726852,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249753,
+        "num": 249753,
+        "word": "会用脚遮阳的狗狗",
+        "onboard_time": 1658738617,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245921,
+        "num": 245921,
+        "word": "是谁动了她的酱豆子",
+        "onboard_time": 1658733392,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245340,
+        "num": 245340,
+        "word": "凯尔特人加入杜兰特争夺战",
+        "onboard_time": 1658735854,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240517,
+        "num": 240517,
+        "word": "许超医生",
+        "onboard_time": 1658739933,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225956,
+        "num": 225956,
+        "word": "女子挤痘痘脸部感染手术缝6针",
+        "onboard_time": 1658723554,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224752,
+        "num": 224752,
+        "word": "Irene首个单独综艺",
+        "onboard_time": 1658732612,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310406,
+        "num": 223024,
+        "word": "蔡徐坤hugme大头贴照",
+        "onboard_time": 1658736634,
+        "rank": 37,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 217108,
+        "num": 217108,
+        "word": "戏剧演员40度高温中暑坚持表演",
+        "onboard_time": 1658738195,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215227,
+        "num": 215227,
+        "word": "在厨房装空调真的很有必要",
+        "onboard_time": 1658729375,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202020,
+        "num": 202020,
+        "word": "丢失的酱豆子被找到了",
+        "onboard_time": 1658737012,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195275,
+        "num": 195275,
+        "word": "安徽省考",
+        "onboard_time": 1658733931,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 180713,
+        "word": "宋妍霏你的口红在牙上",
+        "onboard_time": 1658736095,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170806,
+        "num": 170806,
+        "word": "辽宁大学",
+        "onboard_time": 1658739696,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170295,
+        "num": 170295,
+        "word": "你是我的荣耀再赴心动",
+        "onboard_time": 1658720611,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160535,
+        "num": 160535,
+        "word": "三只松鼠回应脱氧剂泄露",
+        "onboard_time": 1658737471,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143700,
+        "num": 143700,
+        "word": "警犬巡逻被围观超骄傲",
+        "onboard_time": 1658733514,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139948,
+        "num": 139948,
+        "word": "00后女孩神还原杨贵妃",
+        "onboard_time": 1658727212,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134475,
+        "num": 134475,
+        "word": "当我的朋友熬成了我的领导",
+        "onboard_time": 1658725713,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132302,
+        "num": 132302,
+        "word": "你被无糖碳酸饮料收割了吗",
+        "onboard_time": 1658729853,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022北京文化论坛#"
+    }
+  }
+}
