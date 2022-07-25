@@ -1,0 +1,410 @@
+{
+  "runTime": 1658726502970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2868031,
+        "num": 2868031,
+        "word": "苹果官网产品打折",
+        "onboard_time": 1658723917,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1659457,
+        "num": 1659457,
+        "word": "吴啊萍受审画面公布",
+        "onboard_time": 1658705784,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326146,
+        "num": 1434047,
+        "word": "航天员的快递放门口了",
+        "onboard_time": 1658710772,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1817752,
+        "num": 1403141,
+        "word": "女子挤痘痘脸部感染手术缝6针",
+        "onboard_time": 1658723554,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335114,
+        "num": 1335114,
+        "word": "你是我的荣耀再赴心动",
+        "onboard_time": 1658720611,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818081,
+        "num": 818081,
+        "word": "公安部回应唐山烧烤店打人案",
+        "onboard_time": 1658718814,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787843,
+        "num": 787843,
+        "word": "玄奘寺涉事住持受访时哽咽",
+        "onboard_time": 1658713886,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718704,
+        "num": 718704,
+        "word": "谷爱凌参加半马跑第2名",
+        "onboard_time": 1658719772,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635686,
+        "num": 635686,
+        "word": "南京女大学生遇害案主犯提出无罪上诉",
+        "onboard_time": 1658717791,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614273,
+        "num": 614273,
+        "word": "网约车开空调是一种义务吗",
+        "onboard_time": 1658715569,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1815787,
+        "num": 611908,
+        "word": "唐山烧烤店打人案侦办情况会公布",
+        "onboard_time": 1658719653,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070862,
+        "num": 608857,
+        "word": "接待吴啊萍的僧人曾因交通肇事获刑",
+        "onboard_time": 1658717370,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936075,
+        "num": 606610,
+        "word": "马丽老公说沈马组合好甜",
+        "onboard_time": 1658720733,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874604,
+        "num": 604954,
+        "word": "林志颖寻救命恩人每人赠100万",
+        "onboard_time": 1658688432,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 712144,
+        "num": 603074,
+        "word": "难听",
+        "onboard_time": 1658717250,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600455,
+        "num": 600455,
+        "word": "按揉1个穴位预防脱发",
+        "onboard_time": 1658722173,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518905,
+        "num": 518905,
+        "word": "沉香如屑费神仙",
+        "onboard_time": 1658725172,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511672,
+        "num": 511672,
+        "word": "BLACKPINK新曲ReadyForLove海报",
+        "onboard_time": 1658716229,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501186,
+        "num": 501186,
+        "word": "嘉兴坠楼女孩和家人当面致谢",
+        "onboard_time": 1658725293,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488045,
+        "num": 488045,
+        "word": "吴啊萍身份官方调查公布",
+        "onboard_time": 1658673518,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435823,
+        "num": 435823,
+        "word": "高温天开新能源车是什么体验",
+        "onboard_time": 1658717971,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367402,
+        "num": 367402,
+        "word": "中式轻食比沙拉更受欢迎",
+        "onboard_time": 1658720974,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342913,
+        "num": 342913,
+        "word": "微光荣耀入围作品",
+        "onboard_time": 1658725772,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339827,
+        "num": 339827,
+        "word": "婴儿车滑向台阶男子一把拉住",
+        "onboard_time": 1658717432,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 311865,
+        "num": 311865,
+        "word": "新裤子演唱会",
+        "onboard_time": 1658726313,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308480,
+        "num": 308480,
+        "word": "男子10年相亲100次",
+        "onboard_time": 1658711792,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308190,
+        "num": 308190,
+        "word": "马斯克否认插足谷歌创始人妻子",
+        "onboard_time": 1658719534,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307311,
+        "num": 307311,
+        "word": "当我的朋友熬成了我的领导",
+        "onboard_time": 1658725713,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277649,
+        "num": 277649,
+        "word": "别拦着我要去云南",
+        "onboard_time": 1658724754,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 277136,
+        "num": 277136,
+        "word": "原定在枣庄举办的夏日祭取消",
+        "onboard_time": 1658710293,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273950,
+        "num": 273950,
+        "word": "吴啊萍何以无知堕落至此",
+        "onboard_time": 1658726131,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273376,
+        "num": 273376,
+        "word": "甘望星徐紫茵再遇两个他开机",
+        "onboard_time": 1658722775,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257882,
+        "num": 257882,
+        "word": "公安部重点打击村霸沙霸矿霸",
+        "onboard_time": 1658725236,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247351,
+        "num": 247351,
+        "word": "福州厦门将实现一小时生活圈",
+        "onboard_time": 1658715026,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245503,
+        "num": 245503,
+        "word": "任嘉伦官宣加盟嗨放派",
+        "onboard_time": 1658719653,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244715,
+        "num": 244715,
+        "word": "沉香如屑大婚花絮",
+        "onboard_time": 1658718932,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239907,
+        "num": 239907,
+        "word": "张大仙退役",
+        "onboard_time": 1658705003,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239571,
+        "num": 239571,
+        "word": "科学家观测到黑洞撕碎恒星过程",
+        "onboard_time": 1658721393,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 224955,
+        "num": 224955,
+        "word": "张卫国的夏天少年派2梦幻联动",
+        "onboard_time": 1658726074,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208696,
+        "num": 208696,
+        "word": "陈楚生一首写给我们的歌",
+        "onboard_time": 1658722173,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204541,
+        "num": 204541,
+        "word": "初级会计准考证",
+        "onboard_time": 1658716049,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189398,
+        "num": 189398,
+        "word": "这勺子也太好用了",
+        "onboard_time": 1658723375,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180315,
+        "num": 180315,
+        "word": "许凯录完密逃被团队接走",
+        "onboard_time": 1658703801,
+        "rank": 42,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 180295,
+        "num": 180295,
+        "word": "凡人修仙传开播两周年",
+        "onboard_time": 1658724633,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176595,
+        "num": 176595,
+        "word": "石缝中长出野生西瓜意外香甜",
+        "onboard_time": 1658714727,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171190,
+        "num": 171190,
+        "word": "消防员救了一位超硬核坠井大娘",
+        "onboard_time": 1658718095,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164969,
+        "num": 164969,
+        "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+        "onboard_time": 1658675502,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157252,
+        "num": 157252,
+        "word": "两萌娃夜市捡瓶子攒钱买玩具",
+        "onboard_time": 1658721691,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153531,
+        "num": 153531,
+        "word": "四人故意购买过期食品敲诈商家获刑",
+        "onboard_time": 1658701454,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148848,
+        "num": 148848,
+        "word": "宋亚轩绝配音色",
+        "onboard_time": 1658719233,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  }
+}
