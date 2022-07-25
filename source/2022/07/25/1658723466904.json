@@ -1,0 +1,410 @@
+{
+  "runTime": 1658723466904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2331583,
+        "num": 2331583,
+        "word": "吴啊萍受审画面公布",
+        "onboard_time": 1658705784,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1948873,
+        "num": 1948873,
+        "word": "南京女大学生遇害案主犯提出无罪上诉",
+        "onboard_time": 1658717791,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409126,
+        "num": 1834957,
+        "word": "航天员的快递放门口了",
+        "onboard_time": 1658710772,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1753555,
+        "num": 1753555,
+        "word": "你是我的荣耀再赴心动",
+        "onboard_time": 1658720611,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1428239,
+        "num": 1428239,
+        "word": "公安部回应唐山烧烤店打人案",
+        "onboard_time": 1658718814,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983445,
+        "num": 983445,
+        "word": "玄奘寺涉事住持受访时哽咽",
+        "onboard_time": 1658713886,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927867,
+        "num": 927867,
+        "word": "网约车开空调是一种义务吗",
+        "onboard_time": 1658715569,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788187,
+        "num": 788187,
+        "word": "BLACKPINK新曲ReadyForLove海报",
+        "onboard_time": 1658716229,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 867598,
+        "num": 784630,
+        "word": "吴啊萍身份官方调查公布",
+        "onboard_time": 1658673518,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780675,
+        "num": 780675,
+        "word": "谷爱凌参加半马跑第2名",
+        "onboard_time": 1658719772,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2649964,
+        "num": 780632,
+        "word": "唐山烧烤店打人案侦办情况会公布",
+        "onboard_time": 1658719653,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723528,
+        "num": 779746,
+        "word": "接待吴啊萍的僧人曾因交通肇事获刑",
+        "onboard_time": 1658717370,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348498,
+        "num": 778809,
+        "word": "马丽老公说沈马组合好甜",
+        "onboard_time": 1658720733,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1255330,
+        "num": 777628,
+        "word": "难听",
+        "onboard_time": 1658717250,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1039575,
+        "num": 776679,
+        "word": "林志颖寻救命恩人每人赠100万",
+        "onboard_time": 1658688432,
+        "rank": 14,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 776559,
+        "num": 776559,
+        "word": "高温天开新能源车是什么体验",
+        "onboard_time": 1658717971,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550373,
+        "num": 550373,
+        "word": "甘望星徐紫茵再遇两个他开机",
+        "onboard_time": 1658722775,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542566,
+        "num": 542566,
+        "word": "中式轻食比沙拉更受欢迎",
+        "onboard_time": 1658720974,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 520926,
+        "num": 520926,
+        "word": "男子10年相亲100次",
+        "onboard_time": 1658711792,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467275,
+        "num": 467275,
+        "word": "婴儿车滑向台阶男子一把拉住",
+        "onboard_time": 1658717432,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 536063,
+        "num": 454477,
+        "word": "任嘉伦官宣加盟嗨放派",
+        "onboard_time": 1658719653,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533648,
+        "num": 454129,
+        "word": "马斯克否认插足谷歌创始人妻子",
+        "onboard_time": 1658719534,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438574,
+        "num": 438574,
+        "word": "按揉1个穴位预防脱发",
+        "onboard_time": 1658722173,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432504,
+        "num": 432504,
+        "word": "张大仙退役",
+        "onboard_time": 1658705003,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414369,
+        "num": 414369,
+        "word": "沉香如屑大婚花絮",
+        "onboard_time": 1658718932,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400260,
+        "num": 400260,
+        "word": "原定在枣庄举办的夏日祭取消",
+        "onboard_time": 1658710293,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352774,
+        "num": 352774,
+        "word": "新裤子 音乐节",
+        "onboard_time": 1658710472,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318850,
+        "num": 318850,
+        "word": "福州厦门将实现一小时生活圈",
+        "onboard_time": 1658715026,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314214,
+        "num": 314214,
+        "word": "谢震业官宣即将大婚",
+        "onboard_time": 1658717250,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310444,
+        "num": 310444,
+        "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
+        "onboard_time": 1658675502,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 303037,
+        "num": 303037,
+        "word": "陈楚生一首写给我们的歌",
+        "onboard_time": 1658722173,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279459,
+        "num": 279459,
+        "word": "小马宝莉虞书欣哇哦特辑",
+        "onboard_time": 1658718453,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270574,
+        "num": 270574,
+        "word": "初级会计准考证",
+        "onboard_time": 1658716049,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 269308,
+        "num": 269308,
+        "word": "许凯录完密逃被团队接走",
+        "onboard_time": 1658703801,
+        "rank": 33,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 254901,
+        "num": 254901,
+        "word": "消防员救了一位超硬核坠井大娘",
+        "onboard_time": 1658718095,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247601,
+        "num": 247601,
+        "word": "四人故意购买过期食品敲诈商家获刑",
+        "onboard_time": 1658701454,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246035,
+        "num": 246035,
+        "word": "宋亚轩绝配音色",
+        "onboard_time": 1658719233,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233590,
+        "num": 233590,
+        "word": "两萌娃夜市捡瓶子攒钱买玩具",
+        "onboard_time": 1658721691,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220738,
+        "num": 220738,
+        "word": "石缝中长出野生西瓜意外香甜",
+        "onboard_time": 1658714727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216272,
+        "num": 216272,
+        "word": "科学家观测到黑洞撕碎恒星过程",
+        "onboard_time": 1658721393,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 215877,
+        "num": 215877,
+        "word": "吴啊萍供奉战犯动机",
+        "onboard_time": 1658674792,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210668,
+        "num": 210668,
+        "word": "王艺瑾喜欢你MV好甜",
+        "onboard_time": 1658720313,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200071,
+        "num": 200071,
+        "word": "退伍兵为救邻居被歹徒狂砍数刀",
+        "onboard_time": 1658714010,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199446,
+        "num": 199446,
+        "word": "严浩翔绝配rap",
+        "onboard_time": 1658718872,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182296,
+        "num": 182296,
+        "word": "女生跳高7年获60余奖项考进清华",
+        "onboard_time": 1658713469,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180731,
+        "num": 180731,
+        "word": "女生家庭聚餐被一群小朋友催婚",
+        "onboard_time": 1658692992,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173036,
+        "num": 173036,
+        "word": "中国航天员首次在轨进入科学实验舱",
+        "onboard_time": 1658717129,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 154080,
+        "num": 154080,
+        "word": "湖南通报1800万引进23名菲律宾博士",
+        "onboard_time": 1658705543,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145782,
+        "num": 145782,
+        "word": "中国田径队世锦赛2金1银3铜收官",
+        "onboard_time": 1658718572,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144370,
+        "num": 144370,
+        "word": "这勺子也太好用了",
+        "onboard_time": 1658723375,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#问天实验舱踏上问天路#"
+    }
+  }
+}
