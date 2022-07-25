@@ -1,0 +1,410 @@
+{
+  "runTime": 1658742117478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2112319,
+        "num": 2112319,
+        "word": "林志颖目前无法完整拼凑车祸经过",
+        "onboard_time": 1658733931,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1218372,
+        "num": 1218372,
+        "word": "7个月宝宝41斤胳膊把蚊子夹成肉泥",
+        "onboard_time": 1658732195,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81556,
+        "num": 1078377,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071792,
+        "num": 1071792,
+        "word": "房东每度电按1元收费",
+        "onboard_time": 1658740594,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917752,
+        "num": 917752,
+        "word": "油价",
+        "onboard_time": 1658738434,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 833657,
+        "num": 833657,
+        "word": "B站全面展示账号IP属地",
+        "onboard_time": 1658737055,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 784451,
+        "num": 784451,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1658740656,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 758526,
+        "num": 758526,
+        "word": "iPhone13全系列优惠600元",
+        "onboard_time": 1658735375,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 710258,
+        "num": 710258,
+        "word": "邢台学院聘13名韩国高校女博士",
+        "onboard_time": 1658734894,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 590144,
+        "num": 590144,
+        "word": "原来月球上真的有一座广寒宫",
+        "onboard_time": 1658736393,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916811,
+        "num": 582360,
+        "word": "安倍夫人高速公路出车祸",
+        "onboard_time": 1658741617,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573846,
+        "num": 573846,
+        "word": "坠楼女童亲吻两位救命恩人",
+        "onboard_time": 1658733636,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570107,
+        "num": 570107,
+        "word": "李马克确诊新冠",
+        "onboard_time": 1658728052,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530774,
+        "num": 530774,
+        "word": "野外工作失联浙大教师已找到",
+        "onboard_time": 1658737715,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502630,
+        "num": 502630,
+        "word": "你好星期六官博置顶杨紫檀健次",
+        "onboard_time": 1658740531,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483845,
+        "num": 483845,
+        "word": "男子景区内偷走刚产下天鹅蛋",
+        "onboard_time": 1658737410,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447036,
+        "num": 447036,
+        "word": "许超医生",
+        "onboard_time": 1658739933,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435700,
+        "num": 435700,
+        "word": "三只松鼠脱氧剂泄露致孕妇误食",
+        "onboard_time": 1658729555,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418137,
+        "num": 418137,
+        "word": "辽宁大学",
+        "onboard_time": 1658739696,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428197,
+        "num": 417077,
+        "word": "爱豆有必要开麦跳舞吗",
+        "onboard_time": 1658732435,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771957,
+        "num": 415761,
+        "word": "杭州灵隐寺召开僧众大会",
+        "onboard_time": 1658734411,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413660,
+        "num": 413660,
+        "word": "头一次见澡堂式的婚礼",
+        "onboard_time": 1658739037,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384221,
+        "num": 384221,
+        "word": "星汉灿烂",
+        "onboard_time": 1658728652,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462762,
+        "num": 370826,
+        "word": "吴啊萍何以无知堕落至此",
+        "onboard_time": 1658726131,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355074,
+        "num": 355074,
+        "word": "ZICO确诊新冠",
+        "onboard_time": 1658740234,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348627,
+        "num": 348627,
+        "word": "loco华莎新歌",
+        "onboard_time": 1658741914,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326713,
+        "num": 326713,
+        "word": "爱发炎的扁桃体到底有啥用",
+        "onboard_time": 1658739153,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297306,
+        "num": 297306,
+        "word": "军队文职",
+        "onboard_time": 1658732372,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295093,
+        "num": 295093,
+        "word": "外交部严词回应佩洛西拟窜访台湾",
+        "onboard_time": 1658741253,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 940694,
+        "num": 294971,
+        "word": "土土",
+        "onboard_time": 1658734535,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 294464,
+        "num": 294464,
+        "word": "虽然很可怜但真的很好笑",
+        "onboard_time": 1658741253,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291887,
+        "num": 291887,
+        "word": "为什么休息比上班还累",
+        "onboard_time": 1658731354,
+        "rank": 31,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 278473,
+        "num": 278473,
+        "word": "WE教练好帅",
+        "onboard_time": 1658737354,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276901,
+        "num": 276901,
+        "word": "会用脚遮阳的狗狗",
+        "onboard_time": 1658738617,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238802,
+        "num": 238802,
+        "word": "爸爸离世七旬爷爷陪7岁孙子抗癌",
+        "onboard_time": 1658726852,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217409,
+        "num": 217409,
+        "word": "绿豆汤解暑但并非人人适宜",
+        "onboard_time": 1658729973,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214709,
+        "num": 214709,
+        "word": "唐山烧烤店打人案侦办情况会公布",
+        "onboard_time": 1658719653,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206613,
+        "num": 206613,
+        "word": "沉香如屑过山车式追剧",
+        "onboard_time": 1658736814,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205438,
+        "num": 205438,
+        "word": "戏剧演员40度高温中暑坚持表演",
+        "onboard_time": 1658738195,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204723,
+        "num": 204723,
+        "word": "103岁奶奶去世捐献遗体",
+        "onboard_time": 1658734115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195712,
+        "num": 195712,
+        "word": "凯尔特人加入杜兰特争夺战",
+        "onboard_time": 1658735854,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192355,
+        "num": 192355,
+        "word": "苹果官网产品打折",
+        "onboard_time": 1658723917,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192318,
+        "num": 192318,
+        "word": "Irene首个单独综艺",
+        "onboard_time": 1658732612,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188802,
+        "num": 188802,
+        "word": "云南楚雄一乐园取消夏日祭",
+        "onboard_time": 1658741674,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181822,
+        "num": 181822,
+        "word": "加50升油省13元",
+        "onboard_time": 1658741132,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169111,
+        "num": 169111,
+        "word": "女子挤痘痘脸部感染手术缝6针",
+        "onboard_time": 1658723554,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167311,
+        "num": 167311,
+        "word": "宋妍霏你的口红在牙上",
+        "onboard_time": 1658736095,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166669,
+        "num": 166669,
+        "word": "沈阳核酸检测不戴口罩男子被停职",
+        "onboard_time": 1658742097,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157084,
+        "num": 157084,
+        "word": "是谁动了她的酱豆子",
+        "onboard_time": 1658733392,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156772,
+        "num": 156772,
+        "word": "好的父母治愈一生",
+        "onboard_time": 1658738677,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}

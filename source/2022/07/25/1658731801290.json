@@ -1,0 +1,410 @@
+{
+  "runTime": 1658731801290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3207562,
+        "num": 3207562,
+        "word": "林志颖记者会直播",
+        "onboard_time": 1658730214,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1551471,
+        "num": 1551471,
+        "word": "苹果官网产品打折",
+        "onboard_time": 1658723917,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 1090461,
+        "word": "航天员的快递放门口了",
+        "onboard_time": 1658710772,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983857,
+        "num": 983857,
+        "word": "爸爸离世七旬爷爷陪7岁孙子抗癌",
+        "onboard_time": 1658726852,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833583,
+        "num": 833583,
+        "word": "女子挤痘痘脸部感染手术缝6针",
+        "onboard_time": 1658723554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776162,
+        "num": 776162,
+        "word": "三只松鼠脱氧剂泄露致孕妇误食",
+        "onboard_time": 1658729555,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632251,
+        "num": 632251,
+        "word": "吴啊萍受审画面公布",
+        "onboard_time": 1658705784,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629409,
+        "num": 629409,
+        "word": "嘉兴坠楼女孩和家人当面致谢",
+        "onboard_time": 1658725293,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564305,
+        "num": 564305,
+        "word": "当我的朋友熬成了我的领导",
+        "onboard_time": 1658725713,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509058,
+        "num": 509058,
+        "word": "你是我的荣耀再赴心动",
+        "onboard_time": 1658720611,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1269004,
+        "num": 503091,
+        "word": "李马克确诊新冠",
+        "onboard_time": 1658728052,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027899,
+        "num": 488613,
+        "word": "吴啊萍何以无知堕落至此",
+        "onboard_time": 1658726131,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729355,
+        "num": 482478,
+        "word": "唐山烧烤店打人案侦办情况会公布",
+        "onboard_time": 1658719653,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532993,
+        "num": 465009,
+        "word": "肖战三部微光荣耀入围作品",
+        "onboard_time": 1658727753,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456038,
+        "num": 456038,
+        "word": "00后女孩神还原杨贵妃",
+        "onboard_time": 1658727212,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446011,
+        "num": 446011,
+        "word": "优酷官宣成毅首席福利官",
+        "onboard_time": 1658727092,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417475,
+        "num": 417475,
+        "word": "你被无糖碳酸饮料收割了吗",
+        "onboard_time": 1658729853,
+        "rank": 16,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 354443,
+        "num": 354443,
+        "word": "按揉1个穴位预防脱发",
+        "onboard_time": 1658722173,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353550,
+        "num": 353550,
+        "word": "忠犬守在去世主人家门2年后离世",
+        "onboard_time": 1658726670,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336365,
+        "num": 336365,
+        "word": "接待吴啊萍的僧人曾因交通肇事获刑",
+        "onboard_time": 1658717370,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333923,
+        "num": 333923,
+        "word": "绿豆汤解暑但并非人人适宜",
+        "onboard_time": 1658729973,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330375,
+        "num": 330375,
+        "word": "陪妈妈做保洁的他被北大录取",
+        "onboard_time": 1658729074,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 313379,
+        "num": 313379,
+        "word": "公安部回应唐山烧烤店打人案",
+        "onboard_time": 1658718814,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302825,
+        "num": 302825,
+        "word": "时代少年团紫色系穿搭",
+        "onboard_time": 1658727450,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297300,
+        "num": 297300,
+        "word": "在厨房装空调真的很有必要",
+        "onboard_time": 1658729375,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280638,
+        "num": 280638,
+        "word": "加大对文娱领域高净值人群逃税惩处力度",
+        "onboard_time": 1658731473,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 278887,
+        "num": 278887,
+        "word": "蓬佩奥宣称要和佩洛西一同窜台",
+        "onboard_time": 1658727394,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 255170,
+        "num": 255170,
+        "word": "罗敏",
+        "onboard_time": 1658729314,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245865,
+        "num": 245865,
+        "word": "马丽老公说沈马组合好甜",
+        "onboard_time": 1658720733,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241396,
+        "num": 241396,
+        "word": "难听",
+        "onboard_time": 1658717250,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236009,
+        "num": 236009,
+        "word": "李雪琴被陈瑜的拥抱治愈了",
+        "onboard_time": 1658728171,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212993,
+        "num": 212993,
+        "word": "谷爱凌参加半马跑第2名",
+        "onboard_time": 1658719772,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 209764,
+        "word": "婴儿车滑向台阶男子一把拉住",
+        "onboard_time": 1658717432,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 203244,
+        "num": 203244,
+        "word": "BLACKPINK新曲ReadyForLove海报",
+        "onboard_time": 1658716229,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199317,
+        "num": 199317,
+        "word": "NewJeans新专辑配置",
+        "onboard_time": 1658729733,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182758,
+        "num": 182758,
+        "word": "玄奘寺涉事住持受访时哽咽",
+        "onboard_time": 1658713886,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180557,
+        "num": 180557,
+        "word": "高温天开新能源车是什么体验",
+        "onboard_time": 1658717971,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176570,
+        "num": 176570,
+        "word": "网约车开空调是一种义务吗",
+        "onboard_time": 1658715569,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173010,
+        "num": 173010,
+        "word": "公安部重点打击村霸沙霸矿霸",
+        "onboard_time": 1658725236,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161093,
+        "num": 161093,
+        "word": "为什么休息比上班还累",
+        "onboard_time": 1658731354,
+        "rank": 39,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 154796,
+        "num": 154796,
+        "word": "南京女大学生遇害案主犯提出无罪上诉",
+        "onboard_time": 1658717791,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154595,
+        "num": 154595,
+        "word": "INTO1新歌天上不会掉馅饼试听",
+        "onboard_time": 1658730454,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151889,
+        "num": 151889,
+        "word": "饿了么免单",
+        "onboard_time": 1658730336,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150497,
+        "num": 150497,
+        "word": "赵睿高诗岩等5名球员回国",
+        "onboard_time": 1658728955,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143117,
+        "num": 143117,
+        "word": "沉香如屑费神仙",
+        "onboard_time": 1658725172,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139840,
+        "num": 139840,
+        "word": "别拦着我要去云南",
+        "onboard_time": 1658724754,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126427,
+        "num": 126427,
+        "word": "福州厦门将实现一小时生活圈",
+        "onboard_time": 1658715026,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117445,
+        "num": 117445,
+        "word": "中式轻食比沙拉更受欢迎",
+        "onboard_time": 1658720974,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111296,
+        "num": 111296,
+        "word": "初级会计准考证",
+        "onboard_time": 1658716049,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99037,
+        "num": 99037,
+        "word": "吴啊萍身份官方调查公布",
+        "onboard_time": 1658673518,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
