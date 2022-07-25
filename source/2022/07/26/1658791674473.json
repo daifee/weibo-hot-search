@@ -1,0 +1,410 @@
+{
+  "runTime": 1658791674473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1106126,
+        "num": 1106126,
+        "word": "房地产专家称坚决不能取消预售制",
+        "onboard_time": 1658770456,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968952,
+        "num": 968952,
+        "word": "德国中产家庭排7小时队领救济粮",
+        "onboard_time": 1658778492,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262183,
+        "num": 686599,
+        "word": "蚊子包是免疫系统战斗过的痕迹",
+        "onboard_time": 1658759857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342337,
+        "num": 679825,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578018,
+        "num": 578018,
+        "word": "大连一大妈横躺地铁座位玩手机",
+        "onboard_time": 1658784551,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515775,
+        "num": 515775,
+        "word": "男子用刚买的橙汁帮货车灭火",
+        "onboard_time": 1658782931,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475331,
+        "num": 475331,
+        "word": "江宏杰已联系上福原爱",
+        "onboard_time": 1658758053,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 410574,
+        "num": 410574,
+        "word": "河南启动婚俗改革",
+        "onboard_time": 1658764948,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398540,
+        "num": 398540,
+        "word": "男子网购60瓶饮料9.9包邮",
+        "onboard_time": 1658753674,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369246,
+        "num": 369246,
+        "word": "185斤大叔暴瘦55斤后气质大变",
+        "onboard_time": 1658750851,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367410,
+        "num": 367410,
+        "word": "武汉大风",
+        "onboard_time": 1658790741,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353502,
+        "num": 353502,
+        "word": "象棋机器人抓住并折断7岁男孩手指",
+        "onboard_time": 1658759315,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338271,
+        "num": 338271,
+        "word": "日本猴痘疫情全球一级旅行警告",
+        "onboard_time": 1658750493,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333447,
+        "num": 333447,
+        "word": "幸福到万家收视率成绩",
+        "onboard_time": 1658787373,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326604,
+        "num": 326604,
+        "word": "北京一男子划皮划艇上班",
+        "onboard_time": 1658782089,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301283,
+        "num": 301283,
+        "word": "星汉灿烂 月升沧海",
+        "onboard_time": 1658754518,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300077,
+        "num": 300077,
+        "word": "张井上和吴啊萍为P图",
+        "onboard_time": 1658748152,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258492,
+        "num": 258492,
+        "word": "江西国资委回应国企员工炫耀一事",
+        "onboard_time": 1658751391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247295,
+        "num": 247295,
+        "word": "杨洋赵露思且试天下韩国网飞第4",
+        "onboard_time": 1658766445,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237604,
+        "num": 237604,
+        "word": "月升沧海还不定档吗",
+        "onboard_time": 1658765309,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290923,
+        "num": 232064,
+        "word": "安倍夫人高速公路出车祸",
+        "onboard_time": 1658741617,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224329,
+        "num": 224329,
+        "word": "谈恋爱 降智",
+        "onboard_time": 1658756854,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 222636,
+        "num": 222636,
+        "word": "CBA公司因侵权向B站索赔4亿",
+        "onboard_time": 1658760756,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 215434,
+        "num": 215434,
+        "word": "林志颖发声明不想浪费社会资源受过多关注",
+        "onboard_time": 1658743056,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208954,
+        "num": 208954,
+        "word": "蒋璐霞包贝尔合作新片",
+        "onboard_time": 1658787193,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194819,
+        "num": 194819,
+        "word": "95岁老教师希望来世继续教书育人",
+        "onboard_time": 1658778792,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 189001,
+        "num": 189001,
+        "word": "汗毛旺盛致蚊子无从下脚",
+        "onboard_time": 1658778191,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173536,
+        "num": 173536,
+        "word": "全国连续5年多未发生暴恐案",
+        "onboard_time": 1658751633,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171884,
+        "num": 171884,
+        "word": "钱三一盯妻狂魔",
+        "onboard_time": 1658771415,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159236,
+        "num": 159236,
+        "word": "官方调查国企员工炫耀家人有后台",
+        "onboard_time": 1658748572,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157547,
+        "num": 157547,
+        "word": "8旬婆婆等1小时专程还10元",
+        "onboard_time": 1658761656,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131337,
+        "num": 131337,
+        "word": "丁真直播",
+        "onboard_time": 1658755411,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131159,
+        "num": 131159,
+        "word": "这肌肉小腿真能瘦",
+        "onboard_time": 1658757273,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121813,
+        "num": 121813,
+        "word": "猴痘是否会传入中国并造成流行",
+        "onboard_time": 1658748454,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118391,
+        "num": 118391,
+        "word": "711门店不明码标价获利超4千",
+        "onboard_time": 1658756792,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 113496,
+        "num": 113496,
+        "word": "沉香如屑刀麻了",
+        "onboard_time": 1658752895,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109320,
+        "num": 109320,
+        "word": "河南的雨要下到8月了",
+        "onboard_time": 1658765786,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107496,
+        "num": 107496,
+        "word": "1个穴位缓解失眠多梦",
+        "onboard_time": 1658763151,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107108,
+        "num": 107108,
+        "word": "人和人的精力差别有多大",
+        "onboard_time": 1658753853,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 105944,
+        "num": 105944,
+        "word": "微博账号已显示所属MCN机构",
+        "onboard_time": 1658748635,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "应渊知道颜淡救了他",
+        "onboard_time": 1658750253,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103844,
+        "num": 103844,
+        "word": "黄磊走过最长的路是刘奕君的套路",
+        "onboard_time": 1658783831,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99252,
+        "num": 99252,
+        "word": "考12遍科一是种什么体验",
+        "onboard_time": 1658766744,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97484,
+        "num": 97484,
+        "word": "江西国控通报员工发布不当言论",
+        "onboard_time": 1658753313,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95465,
+        "num": 95465,
+        "word": "女大学生称兼职送外卖遭顾客刁难",
+        "onboard_time": 1658752053,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88084,
+        "num": 88084,
+        "word": "邓紫棋孙晨竣合照",
+        "onboard_time": 1658774832,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83177,
+        "num": 83177,
+        "word": "漫展",
+        "onboard_time": 1658746655,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 79332,
+        "num": 79332,
+        "word": "土土",
+        "onboard_time": 1658734535,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 66662,
+        "num": 66662,
+        "word": "郑州暴雨",
+        "onboard_time": 1658745336,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56636,
+        "num": 56636,
+        "word": "南方的蚊子也太毒了吧",
+        "onboard_time": 1658761656,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
