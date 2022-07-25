@@ -26,8 +26,6 @@ function getArchiveDir(runTime) {
   const date = new Date(runTime);
 
   const dir = path.resolve(ARCHIVE_DAILY_PATH, `${date.getFullYear()}`);
-  fs.mkdirSync(dir, { recursive: true });
-
   return dir;
 }
 
@@ -106,7 +104,10 @@ async function run(timestamp) {
 
 module.exports = {
   getSourceFiles,
-  renderMD,
+  getArchiveDir,
   getFilePath,
+  archiveJSON,
+  archiveMD,
+  renderMD,
   run,
 };

@@ -1,30 +1,99 @@
-require('./bootstrap');
-
+const { execSync } = require('child_process');
 const fs = require('fs');
 
 const archiveDaily = require('../scripts/archive-daily');
 const spider = require('../scripts/spider');
 
-describe('test/archive-daily.test.js', () => {
+describe('getSourceFiles(runTime)', () => {
+  const times = [
+    Date.now(),
+    Date.now() + 300, // 刚好跨一天，就报错。超低概率
+  ];
+
+  afterAll(() => {
+    const filePaths = archiveDaily.getSourceFiles(times[0]);
+    filePaths.forEach((filePath) => {
+      execSync(`rm ${filePath}`);
+    });
+  });
+
   test('getSourceFiles(runTime)', async () => {
-    const runTime = Date.now();
-    await spider.run();
-    const files = archiveDaily.getSourceFiles(runTime);
+    await spider.saveSourceData(times[0], {});
+    await spider.saveSourceData((times[1]), {});
+    const filePaths = archiveDaily.getSourceFiles(times[0]);
 
-    expect(files.length >= 1).toBe(true);
+    expect(filePaths.length).toEqual(2);
+  });
+});
+
+describe('getArchiveDir(runTime)', () => {
+  test('正确用法', () => {
+    // archives/daily/2022
+    const runTime = 1657945739042;
+    const received = archiveDaily.getArchiveDir(runTime);
+    expect(
+      (/archives\/daily\/2022$/).test(received),
+    ).toBe(true);
+  });
+});
+
+describe('getFilePath(runTime, ext)', () => {
+  test('json', () => {
+    // archives/daily/2022/07-16.json
+    const runTime = 1657945739042;
+    const received = archiveDaily.getFilePath(runTime, 'json');
+    expect(
+      (/archives\/daily\/2022\/07-16\.json$/).test(received),
+    ).toBe(true);
   });
 
-  test('run(timestamp)', () => {
-    const runTime = 1658024204166;
-    archiveDaily.run(runTime);
+  test('md', () => {
+    // archives/daily/2022/07-16.md
+    const runTime = 1657945739042;
+    const received = archiveDaily.getFilePath(runTime, 'md');
+    expect(
+      (/archives\/daily\/2022\/07-16\.md$/).test(received),
+    ).toBe(true);
+  });
+});
 
-    const archiveFile = archiveDaily.getFilePath(runTime, 'json');
-    expect(archiveFile).toBeDefined();
-    expect(fs.existsSync(archiveFile)).toBe(true);
+describe('archiveJSON', () => {
+  const runTime = Date.now();
+  const filePath = archiveDaily.getFilePath(runTime, 'json');
+
+  afterAll(() => {
+    execSync(`rm ${filePath}`);
   });
 
-  test('renderMD(data)', async () => {
-    const string = await archiveDaily.renderMD({
+  test('正确用法', () => {
+    archiveDaily.archiveJSON(runTime, {});
+
+    expect(
+      fs.existsSync(filePath),
+    ).toBe(true);
+  });
+});
+
+describe('archiveMD', () => {
+  const runTime = Date.now();
+  const filePath = archiveDaily.getFilePath(runTime, 'md');
+
+  afterAll(() => {
+    execSync(`rm ${filePath}`);
+  });
+
+  test('正确用法', () => {
+    archiveDaily.archiveMD(runTime, '{}');
+
+    expect(
+      fs.existsSync(filePath),
+    ).toBe(true);
+  });
+});
+
+describe('renderMD(data)', () => {
+  test('正确用法', async () => {
+    const content = await archiveDaily.renderMD({
       startTime: 1658024204166,
       endTime: 1658026718622,
       band_list: [
@@ -53,6 +122,30 @@ describe('test/archive-daily.test.js', () => {
       ],
     });
 
-    expect(string).toBeDefined();
+    expect(content).toBeDefined();
+  });
+});
+
+describe('run(timestamp)', () => {
+  beforeAll(() => {
+    execSync('cp -R ./test/data/19/source ./temp');
+  });
+
+  afterAll(() => {
+    // execSync('rm -R ./temp');
+  });
+
+  test('正确用法', async () => {
+    const runTime = 1657945739042;
+    await archiveDaily.run(runTime);
+
+    // /mnt/e/GitHub/weibo-hot-search/temp/archives/daily/2022/07-16.json
+    const jsonFile = archiveDaily.getFilePath(runTime, 'json');
+
+    // /mnt/e/GitHub/weibo-hot-search/temp/archives/daily/2022/07-16.md
+    const mdFile = archiveDaily.getFilePath(runTime, 'md');
+
+    expect(fs.existsSync(jsonFile)).toBe(true);
+    expect(fs.existsSync(mdFile)).toBe(true);
   });
 });

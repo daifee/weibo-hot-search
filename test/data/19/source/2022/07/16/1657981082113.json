@@ -1,0 +1,360 @@
+{
+  "runTime": "Sat Jul 16 2022 22:18:02 GMT+0800 (China Standard Time)",
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2958004,
+        "num": 2958004,
+        "word": "黄老师",
+        "onboard_time": 1657977928,
+        "rank": 0
+      },
+      {
+        "raw_hot": 2215456,
+        "num": 2215456,
+        "word": "樊振东",
+        "onboard_time": 1657976548,
+        "rank": 1
+      },
+      {
+        "raw_hot": 232133,
+        "num": 1392654,
+        "word": "孙颖莎王曼昱晋级女双决赛",
+        "onboard_time": 1657971746,
+        "rank": 2
+      },
+      {
+        "raw_hot": 1319595,
+        "num": 1319595,
+        "word": "用高德打车遇车祸身亡女生哥哥发声",
+        "onboard_time": 1657967425,
+        "rank": 3
+      },
+      {
+        "raw_hot": 1185508,
+        "num": 1185508,
+        "word": "中国队6人全满分获国际奥数冠军",
+        "onboard_time": 1657974265,
+        "rank": 4
+      },
+      {
+        "raw_hot": 1116967,
+        "num": 1116967,
+        "word": "微店崩了",
+        "onboard_time": 1657979130,
+        "rank": 5
+      },
+      {
+        "raw_hot": 1110007,
+        "num": 1110007,
+        "word": "工人收工路上因热射病去世",
+        "onboard_time": 1657979368,
+        "rank": 6
+      },
+      {
+        "raw_hot": 951689,
+        "num": 951689,
+        "word": "阚清子檀健次宋代婚礼造型",
+        "onboard_time": 1657978647,
+        "rank": 7
+      },
+      {
+        "raw_hot": 782057,
+        "num": 782057,
+        "word": "狼队 小胖",
+        "onboard_time": 1657977389,
+        "rank": 8
+      },
+      {
+        "raw_hot": 683718,
+        "num": 683718,
+        "word": "王澄澄",
+        "onboard_time": 1657980212,
+        "rank": 9
+      },
+      {
+        "raw_hot": 1392154,
+        "num": 683666,
+        "word": "Angelababy郭芙蓉造型",
+        "onboard_time": 1657976667,
+        "rank": 10
+      },
+      {
+        "raw_hot": 1168078,
+        "num": 683513,
+        "word": "王俊凯直播",
+        "onboard_time": 1657971266,
+        "rank": 11
+      },
+      {
+        "raw_hot": 1097140,
+        "num": 683359,
+        "word": "北电2022级表演专业本科新生名单",
+        "onboard_time": 1657978050,
+        "rank": 12
+      },
+      {
+        "raw_hot": 712386,
+        "num": 683227,
+        "word": "谭维维微博自动回复",
+        "onboard_time": 1657979491,
+        "rank": 13
+      },
+      {
+        "raw_hot": 683208,
+        "num": 683208,
+        "word": "傅菁音乐会票价",
+        "onboard_time": 1657969586,
+        "rank": 14
+      },
+      {
+        "raw_hot": 472176,
+        "num": 472176,
+        "word": "街道办回应洒水车雨天公园里转圈洒水",
+        "onboard_time": 1657978590,
+        "rank": 15
+      },
+      {
+        "raw_hot": 451288,
+        "num": 451288,
+        "word": "有象约车回应女生身亡",
+        "onboard_time": 1657974508,
+        "rank": 16
+      },
+      {
+        "raw_hot": 441378,
+        "num": 441378,
+        "word": "马龙王楚钦2比3赵大成李尚洙",
+        "onboard_time": 1657974449,
+        "rank": 17
+      },
+      {
+        "raw_hot": 433195,
+        "num": 433195,
+        "word": "我只喜欢你的人设",
+        "onboard_time": 1657968025,
+        "rank": 18
+      },
+      {
+        "raw_hot": 403186,
+        "num": 403186,
+        "word": "妈妈险被撞小女孩喊话车主下来道歉",
+        "onboard_time": 1657970185,
+        "rank": 19
+      },
+      {
+        "raw_hot": 539699,
+        "num": 402265,
+        "word": "亚妮妈妈",
+        "onboard_time": 1657976307,
+        "rank": 20
+      },
+      {
+        "raw_hot": 389415,
+        "num": 389415,
+        "word": "电力工人在79米高空吃西瓜降暑",
+        "onboard_time": 1657970608,
+        "rank": 21
+      },
+      {
+        "raw_hot": 379183,
+        "num": 379183,
+        "word": "苏炳添说对不起大家但会继续努力",
+        "onboard_time": 1657955724,
+        "rank": 22
+      },
+      {
+        "raw_hot": 353900,
+        "num": 353900,
+        "word": "什么时候才能不为友谊emo",
+        "onboard_time": 1657978887,
+        "rank": 23
+      },
+      {
+        "raw_hot": 340890,
+        "num": 340890,
+        "word": "陈哲远cos花无缺",
+        "onboard_time": 1657980032,
+        "rank": 24
+      },
+      {
+        "raw_hot": 291642,
+        "num": 291642,
+        "word": "中国男篮vs中国台北男篮",
+        "onboard_time": 1657971688,
+        "rank": 25
+      },
+      {
+        "raw_hot": 278392,
+        "num": 278392,
+        "word": "原来真的会有人笑着走出理发店",
+        "onboard_time": 1657969228,
+        "rank": 26
+      },
+      {
+        "raw_hot": 278360,
+        "num": 278360,
+        "word": "小布丁大布丁雪糕抽检不合格",
+        "onboard_time": 1657953267,
+        "rank": 27
+      },
+      {
+        "raw_hot": 269015,
+        "num": 269015,
+        "word": "RNG成员悼念黄菁",
+        "onboard_time": 1657980331,
+        "rank": 28
+      },
+      {
+        "raw_hot": 239143,
+        "num": 239143,
+        "word": "成都增加本土阳性病例5例",
+        "onboard_time": 1657961366,
+        "rank": 29
+      },
+      {
+        "raw_hot": 277594,
+        "num": 235434,
+        "word": "星汉灿烂袁慎楼垚直播",
+        "onboard_time": 1657976909,
+        "rank": 30
+      },
+      {
+        "raw_hot": 263138,
+        "num": 229379,
+        "word": "姚琛 后空翻跳水",
+        "onboard_time": 1657977870,
+        "rank": 31
+      },
+      {
+        "raw_hot": 256366,
+        "num": 225432,
+        "word": "我何幸福不好惹",
+        "onboard_time": 1657976848,
+        "rank": 32
+      },
+      {
+        "raw_hot": 220010,
+        "num": 220010,
+        "word": "锦瑟",
+        "onboard_time": 1657972885,
+        "rank": 33
+      },
+      {
+        "raw_hot": 217209,
+        "num": 217209,
+        "word": "哪些行为可能导致脊柱侧弯",
+        "onboard_time": 1657978949,
+        "rank": 34
+      },
+      {
+        "raw_hot": 207250,
+        "num": 207250,
+        "word": "中国女篮心理教练黄菁因病去世",
+        "onboard_time": 1657979612,
+        "rank": 35
+      },
+      {
+        "raw_hot": 205820,
+        "num": 205820,
+        "word": "萧敬腾带着雨来广州了",
+        "onboard_time": 1657967667,
+        "rank": 36
+      },
+      {
+        "raw_hot": 195698,
+        "num": 195698,
+        "word": "周琦复出",
+        "onboard_time": 1657979670,
+        "rank": 37
+      },
+      {
+        "raw_hot": 193983,
+        "num": 193983,
+        "word": "7岁男孩离世捐献器官救助5人",
+        "onboard_time": 1657977329,
+        "rank": 38
+      },
+      {
+        "raw_hot": 179428,
+        "num": 179428,
+        "word": "龙头",
+        "onboard_time": 1657974687,
+        "rank": 39
+      },
+      {
+        "raw_hot": 199804,
+        "num": 177152,
+        "word": "你好星期六全员办婚礼",
+        "onboard_time": 1657966165,
+        "rank": 40
+      },
+      {
+        "raw_hot": 195821,
+        "num": 175920,
+        "word": "网传中戏2022级表演系本科班名单",
+        "onboard_time": 1657962567,
+        "rank": 41
+      },
+      {
+        "raw_hot": 167991,
+        "num": 167991,
+        "word": "心疼王曼昱",
+        "onboard_time": 1657971626,
+        "rank": 42
+      },
+      {
+        "raw_hot": 165510,
+        "num": 165510,
+        "word": "巴西女排vs塞尔维亚女排",
+        "onboard_time": 1657980753,
+        "rank": 43
+      },
+      {
+        "raw_hot": 155890,
+        "num": 155890,
+        "word": "中国男篮半场领先11分",
+        "onboard_time": 1657980812,
+        "rank": 44
+      },
+      {
+        "raw_hot": 154539,
+        "num": 154539,
+        "word": "梁靖崑vs莫雷高德",
+        "onboard_time": 1657980513,
+        "rank": 45
+      },
+      {
+        "raw_hot": 149367,
+        "num": 149367,
+        "word": "EDG对战TES",
+        "onboard_time": 1657975827,
+        "rank": 46
+      },
+      {
+        "raw_hot": 142334,
+        "num": 142334,
+        "word": "竹荪采摘好解压",
+        "onboard_time": 1657968926,
+        "rank": 47
+      },
+      {
+        "raw_hot": 124149,
+        "num": 124149,
+        "word": "着迷",
+        "onboard_time": 1657971207,
+        "rank": 48
+      },
+      {
+        "raw_hot": 123553,
+        "num": 123553,
+        "word": "成都核酸检测点48小时内混检免费",
+        "onboard_time": 1657966827,
+        "rank": 49
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的新疆富民兴疆#"
+    }
+  }
+}
