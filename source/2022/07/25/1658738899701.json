@@ -1,0 +1,410 @@
+{
+  "runTime": 1658738899701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3049495,
+        "num": 3049495,
+        "word": "林志颖目前无法完整拼凑车祸经过",
+        "onboard_time": 1658733931,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1536389,
+        "num": 1536389,
+        "word": "7个月宝宝41斤胳膊把蚊子夹成肉泥",
+        "onboard_time": 1658732195,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73492,
+        "num": 1247671,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127283,
+        "num": 1127283,
+        "word": "坠楼女童亲吻两位救命恩人",
+        "onboard_time": 1658733636,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082521,
+        "num": 1082521,
+        "word": "iPhone13全系列优惠600元",
+        "onboard_time": 1658735375,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1070546,
+        "num": 1070546,
+        "word": "邢台学院聘13名韩国高校女博士",
+        "onboard_time": 1658734894,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 708685,
+        "num": 708685,
+        "word": "原来月球上真的有一座广寒宫",
+        "onboard_time": 1658736393,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595582,
+        "num": 595582,
+        "word": "B站全面展示账号IP属地",
+        "onboard_time": 1658737055,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 526368,
+        "num": 526368,
+        "word": "爱豆有必要开麦跳舞吗",
+        "onboard_time": 1658732435,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492523,
+        "num": 492523,
+        "word": "军队文职",
+        "onboard_time": 1658732372,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1485642,
+        "num": 491536,
+        "word": "土土",
+        "onboard_time": 1658734535,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 553525,
+        "num": 489879,
+        "word": "李马克确诊新冠",
+        "onboard_time": 1658728052,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482171,
+        "num": 482171,
+        "word": "三只松鼠脱氧剂泄露致孕妇误食",
+        "onboard_time": 1658729555,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465802,
+        "num": 465802,
+        "word": "103岁奶奶去世捐献遗体",
+        "onboard_time": 1658734115,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423654,
+        "num": 423654,
+        "word": "蔡徐坤hugme大头贴照",
+        "onboard_time": 1658736634,
+        "rank": 14,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 420826,
+        "num": 420826,
+        "word": "唐山烧烤店打人案侦办情况会公布",
+        "onboard_time": 1658719653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397651,
+        "num": 397651,
+        "word": "为什么休息比上班还累",
+        "onboard_time": 1658731354,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 372657,
+        "num": 372657,
+        "word": "绿豆汤解暑但并非人人适宜",
+        "onboard_time": 1658729973,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370589,
+        "num": 370589,
+        "word": "星汉灿烂",
+        "onboard_time": 1658728652,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357945,
+        "num": 357945,
+        "word": "苹果官网产品打折",
+        "onboard_time": 1658723917,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1492675,
+        "num": 353672,
+        "word": "杭州灵隐寺召开僧众大会",
+        "onboard_time": 1658734411,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348176,
+        "num": 348176,
+        "word": "是谁动了她的酱豆子",
+        "onboard_time": 1658733392,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340383,
+        "num": 340383,
+        "word": "爸爸离世七旬爷爷陪7岁孙子抗癌",
+        "onboard_time": 1658726852,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531501,
+        "num": 334459,
+        "word": "吴啊萍何以无知堕落至此",
+        "onboard_time": 1658726131,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315724,
+        "num": 315724,
+        "word": "WE教练好帅",
+        "onboard_time": 1658737354,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287674,
+        "num": 287674,
+        "word": "肖战三部微光荣耀入围作品",
+        "onboard_time": 1658727753,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282372,
+        "num": 282372,
+        "word": "女子挤痘痘脸部感染手术缝6针",
+        "onboard_time": 1658723554,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277012,
+        "num": 277012,
+        "word": "男子景区内偷走刚产下天鹅蛋",
+        "onboard_time": 1658737410,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271173,
+        "num": 271173,
+        "word": "沉香如屑过山车式追剧",
+        "onboard_time": 1658736814,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262565,
+        "num": 262565,
+        "word": "好的父母治愈一生",
+        "onboard_time": 1658738677,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257738,
+        "num": 257738,
+        "word": "丢失的酱豆子被找到了",
+        "onboard_time": 1658737012,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254402,
+        "num": 254402,
+        "word": "在厨房装空调真的很有必要",
+        "onboard_time": 1658729375,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246739,
+        "num": 246739,
+        "word": "野外工作失联浙大教师已找到",
+        "onboard_time": 1658737715,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244378,
+        "num": 244378,
+        "word": "凯尔特人加入杜兰特争夺战",
+        "onboard_time": 1658735854,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238394,
+        "num": 238394,
+        "word": "Irene首个单独综艺",
+        "onboard_time": 1658732612,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237656,
+        "num": 237656,
+        "word": "三只松鼠回应脱氧剂泄露",
+        "onboard_time": 1658737471,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234760,
+        "num": 234760,
+        "word": "宋妍霏你的口红在牙上",
+        "onboard_time": 1658736095,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212513,
+        "num": 212513,
+        "word": "安徽省考",
+        "onboard_time": 1658733931,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 206788,
+        "num": 206788,
+        "word": "油价",
+        "onboard_time": 1658738434,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188589,
+        "num": 188589,
+        "word": "警犬巡逻被围观超骄傲",
+        "onboard_time": 1658733514,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183657,
+        "num": 183657,
+        "word": "你被无糖碳酸饮料收割了吗",
+        "onboard_time": 1658729853,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 177872,
+        "num": 177872,
+        "word": "你是我的荣耀再赴心动",
+        "onboard_time": 1658720611,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172982,
+        "num": 172982,
+        "word": "当我的朋友熬成了我的领导",
+        "onboard_time": 1658725713,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168309,
+        "num": 168309,
+        "word": "会用脚遮阳的狗狗",
+        "onboard_time": 1658738617,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166861,
+        "num": 166861,
+        "word": "戏剧演员40度高温中暑坚持表演",
+        "onboard_time": 1658738195,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166733,
+        "num": 166733,
+        "word": "按揉1个穴位预防脱发",
+        "onboard_time": 1658722173,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164495,
+        "num": 164495,
+        "word": "00后女孩神还原杨贵妃",
+        "onboard_time": 1658727212,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148447,
+        "num": 148447,
+        "word": "什么是KPL教练",
+        "onboard_time": 1658734592,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147955,
+        "num": 147955,
+        "word": "天才基本法",
+        "onboard_time": 1658738316,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147401,
+        "num": 147401,
+        "word": "孙俪海边礁石大片",
+        "onboard_time": 1658732253,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天人又干成了一件大事#"
+    }
+  }
+}
