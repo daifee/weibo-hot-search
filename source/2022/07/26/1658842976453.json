@@ -1,0 +1,410 @@
+{
+  "runTime": 1658842976453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2440583,
+        "num": 2440583,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2226687,
+        "num": 2226687,
+        "word": "星汉灿烂连播了",
+        "onboard_time": 1658841756,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 1843909,
+        "word": "致敬炎炎夏日里的劳动者",
+        "onboard_time": 1658834316,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1808377,
+        "num": 1808377,
+        "word": "星汉灿烂28集预告",
+        "onboard_time": 1658839352,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1604577,
+        "num": 1604577,
+        "word": "官方通报两岁女童排除性侵可能",
+        "onboard_time": 1658841695,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1586396,
+        "num": 1586396,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202581,
+        "num": 1202581,
+        "word": "班主任回应学生暑假发自拍被处分",
+        "onboard_time": 1658835813,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1163470,
+        "num": 1163470,
+        "word": "中国佛教协会发出通知",
+        "onboard_time": 1658839655,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092212,
+        "num": 1092212,
+        "word": "武汉核酸",
+        "onboard_time": 1658833354,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968650,
+        "num": 968650,
+        "word": "南京Hero",
+        "onboard_time": 1658839954,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 911990,
+        "num": 911990,
+        "word": "二舅为什么突然火了",
+        "onboard_time": 1658838936,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 889124,
+        "num": 889124,
+        "word": "中国女足获得东亚杯亚军",
+        "onboard_time": 1658838276,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724943,
+        "num": 724943,
+        "word": "狐妖小红娘月红篇演员阵容名单",
+        "onboard_time": 1658834316,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652986,
+        "num": 652986,
+        "word": "密室大逃脱4古宅惊魂上",
+        "onboard_time": 1658837914,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651970,
+        "num": 651970,
+        "word": "凌不疑叫程少商我家新妇",
+        "onboard_time": 1658836774,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561233,
+        "num": 561233,
+        "word": "校园贷",
+        "onboard_time": 1658834912,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514610,
+        "num": 514610,
+        "word": "你吃过猪袜子米线吗",
+        "onboard_time": 1658838810,
+        "rank": 16,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 482861,
+        "num": 482861,
+        "word": "赵立坚说请注意你的措辞",
+        "onboard_time": 1658831015,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 409715,
+        "num": 409715,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376115,
+        "num": 376115,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 640955,
+        "num": 364167,
+        "word": "应渊发现颜淡焚烧真身",
+        "onboard_time": 1658842112,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562406,
+        "num": 349199,
+        "word": "刘畊宏直播",
+        "onboard_time": 1658838873,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504136,
+        "num": 342924,
+        "word": "林志颖第一阶段手术顺利",
+        "onboard_time": 1658833593,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329665,
+        "num": 329665,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280257,
+        "num": 280257,
+        "word": "央媒热评阿里双重主要上市",
+        "onboard_time": 1658834974,
+        "rank": 24,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 279512,
+        "num": 279512,
+        "word": "高福不再担任中国疾控中心主任",
+        "onboard_time": 1658836475,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261384,
+        "num": 261384,
+        "word": "说到做到的爱情真的好浪漫",
+        "onboard_time": 1658841993,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 261212,
+        "num": 261212,
+        "word": "九尾的不知火舞",
+        "onboard_time": 1658839534,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260063,
+        "num": 260063,
+        "word": "汇丰回应不续签30岁未育女员工传言",
+        "onboard_time": 1658834434,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 233611,
+        "num": 233611,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457202,
+        "num": 230259,
+        "word": "瑞达法考 时代少年团",
+        "onboard_time": 1658836591,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409333,
+        "num": 229418,
+        "word": "九岁男孩为长高炫牛奶到吐",
+        "onboard_time": 1658836475,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382629,
+        "num": 223805,
+        "word": "成毅应渊的四重疯把我逼疯了",
+        "onboard_time": 1658842174,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314065,
+        "num": 218832,
+        "word": "少年派2嗑麻了",
+        "onboard_time": 1658835273,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216935,
+        "num": 216935,
+        "word": "校园贷鼻祖下场直播带货",
+        "onboard_time": 1658830535,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190828,
+        "num": 190828,
+        "word": "二舅里值得回味的人生道理",
+        "onboard_time": 1658839472,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 189612,
+        "num": 189612,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172931,
+        "num": 172931,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168195,
+        "num": 168195,
+        "word": "为什么今年的夏天这么热",
+        "onboard_time": 1658834792,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158125,
+        "num": 158125,
+        "word": "43岁父亲和20岁儿子参加志愿转运",
+        "onboard_time": 1658840492,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306190,
+        "num": 157839,
+        "word": "杰威尔否认周杰伦团队违反防疫规定",
+        "onboard_time": 1658842895,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294348,
+        "num": 157363,
+        "word": "宁愿菡萏之花从未开过",
+        "onboard_time": 1658834670,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154346,
+        "num": 154346,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150212,
+        "num": 150212,
+        "word": "女足精神",
+        "onboard_time": 1658842833,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147065,
+        "num": 147065,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146546,
+        "num": 146546,
+        "word": "阴阳师",
+        "onboard_time": 1658836654,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128587,
+        "num": 128587,
+        "word": "消防员抬发病游客登顶泰山就医",
+        "onboard_time": 1658842291,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 126495,
+        "num": 126495,
+        "word": "中国女足拼劲",
+        "onboard_time": 1658842717,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126428,
+        "num": 126428,
+        "word": "二舅残疾证办下来了",
+        "onboard_time": 1658842956,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125949,
+        "num": 125949,
+        "word": "周劼称父亲并非副局长",
+        "onboard_time": 1658833354,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
