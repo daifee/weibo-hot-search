@@ -65,7 +65,7 @@ describe('aggregate(sourceFiles)', () => {
 
   test('日榜数据', () => {
     const sourceFilePaths = tool.getFilePathsFromDir('./test/data/18');
-    const data = utils.aggregate(sourceFilePaths);
+    const data = utils.aggregate(sourceFilePaths, utils.convertDataFromSpider);
 
     expect(data.hotgov_list.length).toBe(5);
     expect(data.band_list.length).toBe(310);
@@ -76,7 +76,7 @@ describe('aggregate(sourceFiles)', () => {
   test('排序', () => {
     const sourceFilePaths = tool.getFilePathsFromDir('./test/data/18');
 
-    const data = utils.aggregate(sourceFilePaths);
+    const data = utils.aggregate(sourceFilePaths, utils.convertDataFromSpider);
 
     for (let i = 1; i < data.band_list.length; i += 1) {
       const prev = data.band_list[(i - 1)];

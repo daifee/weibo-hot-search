@@ -49,8 +49,17 @@ function readJSON(filePath) {
   return JSON.parse(json);
 }
 
+function convertDataFromSpider(data) {
+  return {
+    startTime: data.runTime,
+    endTime: data.runTime,
+    band_list: data.source?.band_list || [],
+    hotgov_list: data.source?.hotgov ? [data.source?.hotgov] : [],
+  };
+}
+
 // 聚合数据
-function aggregate(sourceFiles) {
+function aggregate(sourceFiles, convertData) {
   const result = {
     startTime: Number.MAX_SAFE_INTEGER,
     endTime: 0,
@@ -105,22 +114,32 @@ function aggregate(sourceFiles) {
 
   // 聚合、去重
   for (let i = 0; i < sourceFiles.length; i += 1) {
-    const data = readJSON(sourceFiles[i]);
-    const { band_list: bandList, hotgov } = data.source;
+    let data = readJSON(sourceFiles[i]);
+    if (convertData) {
+      data = convertData(data);
+    }
+    const {
+      startTime,
+      endTime,
+      hotgov_list: hotgovList,
+      band_list: bandList,
+    } = data;
+
     bandList.forEach((item) => {
       appendBand(item);
     });
 
-    appendHotgov(hotgov);
+    hotgovList.forEach((item) => {
+      appendHotgov(item);
+    });
 
     // 时间
-    const { runTime } = data;
-    if (result.startTime > runTime) {
-      result.startTime = runTime;
+    if (result.startTime > startTime) {
+      result.startTime = startTime;
     }
 
-    if (result.endTime < runTime) {
-      result.endTime = runTime;
+    if (result.endTime < endTime) {
+      result.endTime = endTime;
     }
   }
 
@@ -183,4 +202,5 @@ module.exports = {
 
   extractDir,
   createFileIfNotExist,
+  convertDataFromSpider,
 };

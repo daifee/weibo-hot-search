@@ -188,7 +188,7 @@ describe('getArchiveDir(runTime, ext)', () => {
   });
 });
 
-describe('getFilePath(date)', () => {
+describe('getFilePath(timestamp)', () => {
   test('2022/7/18', () => {
     // 2022/7/18 16:20:39 周一（上海时区）
     const timestamp = 1658132439026;
@@ -247,6 +247,30 @@ describe('getFilePath(date)', () => {
   });
 });
 
-describe.skip('archiveJSON(runTime, data)', () => {
+describe('archiveJSON(runTime, data)', () => {
+  test('2022/7/18', () => {
+    // 2022/7/18 16:20:39 周一（上海时区）
+    const timestamp = 1658132439023;
+    const filePath = archiveWeekly.getFilePath(timestamp, 'json');
+    archiveWeekly.archiveJSON(timestamp, { runTime: timestamp });
 
+    const obj = utils.readJSON(filePath);
+    expect(obj).toBeDefined();
+    expect(obj.runTime).toEqual(timestamp);
+  });
+});
+
+describe('archiveJSON(runTime)', () => {
+  test('2022/7/18', async () => {
+    fs.cpSync('./test/data/20', './temp', { recursive: true });
+
+    // 2022/7/18 16:20:39 周一（上海时区）
+    const timestamp = 1658132439043;
+    await archiveWeekly.run(timestamp);
+
+    const jsonFilePath = archiveWeekly.getFilePath(timestamp, 'json');
+
+    const json = utils.readJSON(jsonFilePath);
+    expect(json).toBeDefined();
+  });
 });

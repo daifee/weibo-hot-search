@@ -88,7 +88,7 @@ async function run(timestamp) {
   const sourceFiles = getSourceFiles(runTime);
 
   // 聚合数据
-  const data = utils.aggregate(sourceFiles);
+  const data = utils.aggregate(sourceFiles, utils.convertDataFromSpider);
 
   // 归档 json
   archiveJSON(runTime, data);

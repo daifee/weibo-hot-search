@@ -73,9 +73,8 @@ function run(timestamp) {
   // 聚合数据
   const data = utils.aggregate(sourceFiles);
 
-  console.log(data);
-
   // 归档 JSON
+  archiveJSON(runTime, data);
 
   // 渲染 MD
   // 归档 MD
