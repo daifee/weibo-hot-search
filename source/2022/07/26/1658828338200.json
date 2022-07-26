@@ -1,0 +1,410 @@
+{
+  "runTime": 1658828338200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4306907,
+        "num": 4306907,
+        "word": "贾乃亮",
+        "onboard_time": 1658821954,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1198824,
+        "num": 1198824,
+        "word": "男子用嘴偷吸路边摩托车的汽油",
+        "onboard_time": 1658819612,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11787,
+        "num": 1131135,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473625,
+        "num": 1129986,
+        "word": "周劼",
+        "onboard_time": 1658825134,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105231,
+        "num": 1105231,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035702,
+        "num": 1035702,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936465,
+        "num": 936465,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 738480,
+        "num": 738480,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718408,
+        "num": 718408,
+        "word": "人民网评国企员工炫耀一事",
+        "onboard_time": 1658826816,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717194,
+        "num": 717194,
+        "word": "成都疫情防控",
+        "onboard_time": 1658825796,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676293,
+        "num": 676293,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614518,
+        "num": 614518,
+        "word": "笔试缺考者入围教师招聘面试",
+        "onboard_time": 1658818174,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 596457,
+        "num": 596457,
+        "word": "孙杨张豆豆牵手回老家",
+        "onboard_time": 1658811458,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 571738,
+        "num": 571738,
+        "word": "傅首尔致歉",
+        "onboard_time": 1658813255,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 7572,
+        "num": 555597,
+        "word": "陪中国女足战斗到最后",
+        "onboard_time": 1658826097,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541515,
+        "num": 541515,
+        "word": "罗敏",
+        "onboard_time": 1658824896,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520607,
+        "num": 520607,
+        "word": "男子将亡妻照片设成壁纸对手机发呆",
+        "onboard_time": 1658812356,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446403,
+        "num": 446403,
+        "word": "苏州将现12级以上雷暴大风",
+        "onboard_time": 1658820455,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431824,
+        "num": 431824,
+        "word": "Doggie 冰箱",
+        "onboard_time": 1658822555,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430836,
+        "num": 430836,
+        "word": "李亚男晒王祖蓝带娃视频",
+        "onboard_time": 1658822497,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533846,
+        "num": 426699,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400978,
+        "num": 400978,
+        "word": "杨洋迪丽热巴说好久不见",
+        "onboard_time": 1658808573,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381629,
+        "num": 381629,
+        "word": "上海冰雹",
+        "onboard_time": 1658825313,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374513,
+        "num": 374513,
+        "word": "杨紫颜淡哭戏泪珠好大颗",
+        "onboard_time": 1658826514,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347706,
+        "num": 347706,
+        "word": "Uzi明凯成为LPL公益爱心大使",
+        "onboard_time": 1658824175,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344780,
+        "num": 344780,
+        "word": "中餐厅6官宣定档",
+        "onboard_time": 1658819074,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312723,
+        "num": 312723,
+        "word": "老人拒买产品愿给小费遭导游辱骂",
+        "onboard_time": 1658821533,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298877,
+        "num": 298877,
+        "word": "tangoz 冰箱",
+        "onboard_time": 1658825193,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258641,
+        "num": 258641,
+        "word": "22岁女生节食减肥瘦出脂肪肝",
+        "onboard_time": 1658811758,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257956,
+        "num": 257956,
+        "word": "二舅活出了我们向往的饱满人生",
+        "onboard_time": 1658822133,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279485,
+        "num": 257550,
+        "word": "沉香如屑跳一赠一",
+        "onboard_time": 1658819974,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275035,
+        "num": 256457,
+        "word": "程少商尴尬而又不失礼貌的微笑",
+        "onboard_time": 1658827237,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249613,
+        "num": 249613,
+        "word": "台风",
+        "onboard_time": 1658821772,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248164,
+        "num": 248164,
+        "word": "二舅作者回应",
+        "onboard_time": 1658813494,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 247265,
+        "num": 247265,
+        "word": "苏州龙卷风",
+        "onboard_time": 1658826754,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247100,
+        "num": 247100,
+        "word": "少年派2妙宝男",
+        "onboard_time": 1658824054,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246658,
+        "num": 246658,
+        "word": "中日女足东亚杯争冠",
+        "onboard_time": 1658824054,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230803,
+        "num": 230803,
+        "word": "店主贴纸条称没奶粉可砸玻璃取",
+        "onboard_time": 1658823692,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228939,
+        "num": 228939,
+        "word": "青岛小猫坐拥几十斤专晒小鱼干",
+        "onboard_time": 1658815536,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211929,
+        "num": 211929,
+        "word": "世界上第一快乐的人",
+        "onboard_time": 1658821172,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210178,
+        "num": 210178,
+        "word": "00后女孩拍视频体验一百种人生",
+        "onboard_time": 1658822253,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 204088,
+        "word": "沙一汀 冰箱",
+        "onboard_time": 1658821056,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201667,
+        "num": 201667,
+        "word": "盘点傅首尔商业版图",
+        "onboard_time": 1658826997,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 201254,
+        "word": "第五人格",
+        "onboard_time": 1658825916,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198503,
+        "num": 198503,
+        "word": "新生报到要交爷爷奶奶疫苗接种证明",
+        "onboard_time": 1658817697,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197298,
+        "num": 197298,
+        "word": "失星疯",
+        "onboard_time": 1658817815,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192904,
+        "num": 192904,
+        "word": "让二舅和姥姥安静生活吧",
+        "onboard_time": 1658821835,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274903,
+        "num": 192753,
+        "word": "江西国控正在对周劼作进一步核查",
+        "onboard_time": 1658828317,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191948,
+        "num": 191948,
+        "word": "西安工大一学生毕业13年后被撤销毕业证",
+        "onboard_time": 1658813674,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 182772,
+        "num": 182772,
+        "word": "中国女足vs日本女足",
+        "onboard_time": 1658828317,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
