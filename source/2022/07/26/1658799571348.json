@@ -1,0 +1,410 @@
+{
+  "runTime": 1658799571348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3238378,
+        "num": 3238378,
+        "word": "福原爱发声明",
+        "onboard_time": 1658794589,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2057085,
+        "num": 2057085,
+        "word": "星汉灿烂排播",
+        "onboard_time": 1658793569,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416310,
+        "num": 1609446,
+        "word": "蚊子包是免疫系统战斗过的痕迹",
+        "onboard_time": 1658759857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1525662,
+        "num": 1525662,
+        "word": "乐山2名儿童检出腺病毒",
+        "onboard_time": 1658797170,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319326,
+        "num": 1319326,
+        "word": "男子误把祛黑头膏当面膜涂脸",
+        "onboard_time": 1658793688,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201116,
+        "num": 1201116,
+        "word": "何同学工作室回应",
+        "onboard_time": 1658793207,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1079282,
+        "num": 1079282,
+        "word": "辽大辅导员回应被指性骚扰学生",
+        "onboard_time": 1658794652,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 930443,
+        "num": 930443,
+        "word": "阿里申请香港纽约双重主要上市",
+        "onboard_time": 1658797232,
+        "rank": 7,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 823466,
+        "num": 823466,
+        "word": "女子穿高跟鞋踇外翻脚码飙升45",
+        "onboard_time": 1658793084,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813608,
+        "num": 813608,
+        "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+        "onboard_time": 1658796751,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717805,
+        "num": 717805,
+        "word": "140余名孩子上游泳课后高烧咳嗽",
+        "onboard_time": 1658792424,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 622455,
+        "num": 622455,
+        "word": "敞门开空调拟被罚超5000元",
+        "onboard_time": 1658796272,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558251,
+        "num": 558251,
+        "word": "星汉灿烂 月升沧海",
+        "onboard_time": 1658754518,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524911,
+        "num": 524911,
+        "word": "男子用刚买的橙汁帮货车灭火",
+        "onboard_time": 1658782931,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490560,
+        "num": 490560,
+        "word": "房地产专家称坚决不能取消预售制",
+        "onboard_time": 1658770456,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401196,
+        "num": 401196,
+        "word": "德国中产家庭排7小时队领救济粮",
+        "onboard_time": 1658778492,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377940,
+        "num": 377940,
+        "word": "樊振东被扣1400分被附0分",
+        "onboard_time": 1658799209,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376998,
+        "num": 376998,
+        "word": "杨洋赵露思且试天下韩国网飞第4",
+        "onboard_time": 1658766445,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373401,
+        "num": 373401,
+        "word": "油价迎三连跌",
+        "onboard_time": 1658798369,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 361851,
+        "num": 361851,
+        "word": "谈恋爱 降智",
+        "onboard_time": 1658756854,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1262093,
+        "num": 360797,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356362,
+        "num": 356362,
+        "word": "象棋机器人抓住并折断7岁男孩手指",
+        "onboard_time": 1658759315,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353386,
+        "num": 353386,
+        "word": "星汉灿烂",
+        "onboard_time": 1658798011,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346726,
+        "num": 346726,
+        "word": "消防员抓捕黄鼠狼被臭屁熏吐",
+        "onboard_time": 1658797770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329382,
+        "num": 329382,
+        "word": "iPhone14或全系6G内存",
+        "onboard_time": 1658799093,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 321266,
+        "num": 321266,
+        "word": "国际乒联第30周排名",
+        "onboard_time": 1658798550,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317850,
+        "num": 317850,
+        "word": "河南启动婚俗改革",
+        "onboard_time": 1658764948,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317428,
+        "num": 317428,
+        "word": "店长回应华莱士汉堡吃到生肉",
+        "onboard_time": 1658798550,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294532,
+        "num": 294532,
+        "word": "北京7月25日本土无新增",
+        "onboard_time": 1658799390,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283368,
+        "num": 283368,
+        "word": "男子网购60瓶饮料9.9包邮",
+        "onboard_time": 1658753674,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263313,
+        "num": 263313,
+        "word": "幸福到万家收视率成绩",
+        "onboard_time": 1658787373,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259995,
+        "num": 259995,
+        "word": "2024巴黎奥运会和残奥会口号",
+        "onboard_time": 1658792245,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244468,
+        "num": 244468,
+        "word": "日本猴痘疫情全球一级旅行警告",
+        "onboard_time": 1658750493,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238159,
+        "num": 238159,
+        "word": "周杰伦错过的烟火MV将于28日上线",
+        "onboard_time": 1658793268,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227537,
+        "num": 227537,
+        "word": "大连一大妈横躺地铁座位玩手机",
+        "onboard_time": 1658784551,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215531,
+        "num": 215531,
+        "word": "钱三一盯妻狂魔",
+        "onboard_time": 1658771415,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209706,
+        "num": 209706,
+        "word": "欧文希望留守篮网",
+        "onboard_time": 1658795971,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209701,
+        "num": 209701,
+        "word": "95岁老教师希望来世继续教书育人",
+        "onboard_time": 1658778792,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 201386,
+        "num": 201386,
+        "word": "北京一男子划皮划艇上班",
+        "onboard_time": 1658782089,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200058,
+        "num": 200058,
+        "word": "CBA公司因侵权向B站索赔4亿",
+        "onboard_time": 1658760756,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 193670,
+        "num": 193670,
+        "word": "185斤大叔暴瘦55斤后气质大变",
+        "onboard_time": 1658750851,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192110,
+        "num": 192110,
+        "word": "月升沧海还不定档吗",
+        "onboard_time": 1658765309,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179309,
+        "num": 179309,
+        "word": "外太空的莫扎特票房破2亿",
+        "onboard_time": 1658795190,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173370,
+        "num": 173370,
+        "word": "8旬婆婆等1小时专程还10元",
+        "onboard_time": 1658761656,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173265,
+        "num": 173265,
+        "word": "专家谈佩洛西拟窜访台湾",
+        "onboard_time": 1658794170,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 169431,
+        "num": 169431,
+        "word": "汗毛旺盛致蚊子无从下脚",
+        "onboard_time": 1658778191,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165543,
+        "num": 165543,
+        "word": "江西国资委回应国企员工炫耀一事",
+        "onboard_time": 1658751391,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164262,
+        "num": 164262,
+        "word": "在300米高空开车是什么感觉",
+        "onboard_time": 1658796870,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142193,
+        "num": 142193,
+        "word": "这肌肉小腿真能瘦",
+        "onboard_time": 1658757273,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130852,
+        "num": 130852,
+        "word": "江宏杰已联系上福原爱",
+        "onboard_time": 1658758053,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
