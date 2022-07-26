@@ -1,6 +1,6 @@
 const fs = require('fs');
 const archiveMonthly = require('../scripts/archive-monthly');
-const utils = require('../scripts/utils');
+// const utils = require('../scripts/utils');
 const tool = require('./tool');
 
 beforeEach(() => {
@@ -65,4 +65,32 @@ describe('getMonthlyDates(runTime)', () => {
     expect(dates[29].getDate()).toEqual(30);
     expect(dates[29].getMonth()).toEqual(5);
   });
+});
+
+describe('getSourceFiles(runTime)', () => {
+  test('正确用法', () => {
+    fs.cpSync('./test/data/20', './temp', { recursive: true });
+
+    // Thu Jul 21 2022 13:44:29 GMT+0800 (中国标准时间)
+    const timestamp = 1658382269954;
+    const received = archiveMonthly.getSourceFiles(timestamp);
+
+    expect(received.length).toEqual(6);
+  });
+});
+
+describe('archiveJSON(runTime, data)', () => {
+  test.todo('正确用法');
+});
+
+describe('renderMD(data)', () => {
+  test.todo('正确用法');
+});
+
+describe('archiveMD(runTime, content)', () => {
+  test.todo('正确用法');
+});
+
+describe('run(timestamp)', () => {
+  test.todo('正确用法');
 });
