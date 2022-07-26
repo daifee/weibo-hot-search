@@ -1,0 +1,410 @@
+{
+  "runTime": 1658821087841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2644239,
+        "num": 2644239,
+        "word": "傅首尔致歉",
+        "onboard_time": 1658813255,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1960264,
+        "num": 1960264,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11332,
+        "num": 1661688,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391104,
+        "num": 1391104,
+        "word": "笔试缺考者入围教师招聘面试",
+        "onboard_time": 1658818174,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1312188,
+        "num": 1312188,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272782,
+        "num": 1272782,
+        "word": "高中生暑假发自拍朋友圈被处分",
+        "onboard_time": 1658819193,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1074057,
+        "num": 1074057,
+        "word": "男子将亡妻照片设成壁纸对手机发呆",
+        "onboard_time": 1658812356,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789106,
+        "num": 789106,
+        "word": "中餐厅6官宣定档",
+        "onboard_time": 1658819074,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698059,
+        "num": 698059,
+        "word": "孩子考上清华家长请全小区吃大锅饭",
+        "onboard_time": 1658812834,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 641461,
+        "num": 641461,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823028,
+        "num": 638537,
+        "word": "孙杨张豆豆牵手回老家",
+        "onboard_time": 1658811458,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 601164,
+        "num": 601164,
+        "word": "杨洋迪丽热巴说好久不见",
+        "onboard_time": 1658808573,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547423,
+        "num": 547423,
+        "word": "新生报到要交爷爷奶奶疫苗接种证明",
+        "onboard_time": 1658817697,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 541962,
+        "num": 541962,
+        "word": "沉香如屑跳一赠一",
+        "onboard_time": 1658819974,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540374,
+        "num": 540374,
+        "word": "西安工大一学生毕业13年后被撤销毕业证",
+        "onboard_time": 1658813674,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 520965,
+        "num": 520965,
+        "word": "失星疯",
+        "onboard_time": 1658817815,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520213,
+        "num": 520213,
+        "word": "22岁女生节食减肥瘦出脂肪肝",
+        "onboard_time": 1658811758,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508908,
+        "num": 508908,
+        "word": "青岛小猫坐拥几十斤专晒小鱼干",
+        "onboard_time": 1658815536,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455731,
+        "num": 455731,
+        "word": "苹果应用商店被曝大量色情APP",
+        "onboard_time": 1658803950,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 449481,
+        "num": 449481,
+        "word": "男子用嘴偷吸路边摩托车的汽油",
+        "onboard_time": 1658819612,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690434,
+        "num": 447297,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459543,
+        "num": 443826,
+        "word": "二舅作者回应",
+        "onboard_time": 1658813494,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 453030,
+        "num": 443041,
+        "word": "AK 冰箱",
+        "onboard_time": 1658820276,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431058,
+        "num": 431058,
+        "word": "苏州将现12级以上雷暴大风",
+        "onboard_time": 1658820455,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382698,
+        "num": 382698,
+        "word": "苏州大风",
+        "onboard_time": 1658820395,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360714,
+        "num": 360714,
+        "word": "BLACKPINK开始新歌MV拍摄",
+        "onboard_time": 1658816855,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328499,
+        "num": 328499,
+        "word": "樊振东被扣1400分被附0分",
+        "onboard_time": 1658799209,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307455,
+        "num": 307455,
+        "word": "举报辽大老师性骚扰同学发声",
+        "onboard_time": 1658812776,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 299414,
+        "num": 299414,
+        "word": "二舅治愈了多少人",
+        "onboard_time": 1658820035,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261871,
+        "num": 261871,
+        "word": "原来小时候吃过这么多零食",
+        "onboard_time": 1658818955,
+        "rank": 29,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 316974,
+        "num": 258914,
+        "word": "与凤行定妆照",
+        "onboard_time": 1658810977,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295477,
+        "num": 257609,
+        "word": "爱豆全开麦高光舞台",
+        "onboard_time": 1658819793,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255842,
+        "num": 255842,
+        "word": "直播间使用音乐要付版权费",
+        "onboard_time": 1658816495,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 249745,
+        "num": 249745,
+        "word": "大熊猫在芬兰被迫思念故乡",
+        "onboard_time": 1658814095,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243832,
+        "num": 243832,
+        "word": "星汉灿烂",
+        "onboard_time": 1658798011,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240566,
+        "num": 240566,
+        "word": "樊振东5500分由三项冠军组成",
+        "onboard_time": 1658818532,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239027,
+        "num": 239027,
+        "word": "走出精神内耗的7条建议",
+        "onboard_time": 1658820692,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230124,
+        "num": 230124,
+        "word": "IU粉色挑染预告海报",
+        "onboard_time": 1658816555,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218541,
+        "num": 218541,
+        "word": "管泽元姿态中韩3C对决",
+        "onboard_time": 1658820994,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212193,
+        "num": 212193,
+        "word": "巴黎奥运首金将出自中国卫冕项目",
+        "onboard_time": 1658807130,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227357,
+        "num": 210617,
+        "word": "刘诗诗黑白氛围感大片",
+        "onboard_time": 1658819376,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225647,
+        "num": 209770,
+        "word": "乔晶晶发博一周年快乐",
+        "onboard_time": 1658811876,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206217,
+        "num": 206217,
+        "word": "900多岁古莲复活开花",
+        "onboard_time": 1658818414,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202747,
+        "num": 202747,
+        "word": "90后白领一到公司工作就偏头痛",
+        "onboard_time": 1658815715,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188183,
+        "num": 188183,
+        "word": "脸上黑头真的需要清洁吗",
+        "onboard_time": 1658813075,
+        "rank": 44,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 182614,
+        "num": 182614,
+        "word": "全重庆人都在拍这朵云",
+        "onboard_time": 1658810559,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175474,
+        "num": 175474,
+        "word": "二伏你最想吃啥面",
+        "onboard_time": 1658820213,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 290269,
+        "num": 174340,
+        "word": "沙一汀 冰箱",
+        "onboard_time": 1658821056,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 166621,
+        "word": "iPhone14或全系6G内存",
+        "onboard_time": 1658799093,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163938,
+        "num": 163938,
+        "word": "把HR整破防了",
+        "onboard_time": 1658814338,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
