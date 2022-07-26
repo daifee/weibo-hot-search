@@ -1,0 +1,410 @@
+{
+  "runTime": 1658797093176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3691637,
+        "num": 3691637,
+        "word": "福原爱发声明",
+        "onboard_time": 1658794589,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2147524,
+        "num": 2147524,
+        "word": "何同学工作室回应",
+        "onboard_time": 1658793207,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 561598,
+        "num": 1977648,
+        "word": "蚊子包是免疫系统战斗过的痕迹",
+        "onboard_time": 1658759857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1928108,
+        "num": 1928108,
+        "word": "星汉灿烂排播",
+        "onboard_time": 1658793569,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1797642,
+        "num": 1797642,
+        "word": "男子误把祛黑头膏当面膜涂脸",
+        "onboard_time": 1658793688,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340322,
+        "num": 1340322,
+        "word": "辽大辅导员回应被指性骚扰学生",
+        "onboard_time": 1658794652,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1195243,
+        "num": 1195243,
+        "word": "140余名孩子上游泳课后高烧咳嗽",
+        "onboard_time": 1658792424,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1045383,
+        "num": 1045383,
+        "word": "女子穿高跟鞋踇外翻脚码飙升45",
+        "onboard_time": 1658793084,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915415,
+        "num": 915415,
+        "word": "德国中产家庭排7小时队领救济粮",
+        "onboard_time": 1658778492,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770213,
+        "num": 770213,
+        "word": "男子用刚买的橙汁帮货车灭火",
+        "onboard_time": 1658782931,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778416,
+        "num": 746119,
+        "word": "房地产专家称坚决不能取消预售制",
+        "onboard_time": 1658770456,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721304,
+        "num": 721304,
+        "word": "星汉灿烂 月升沧海",
+        "onboard_time": 1658754518,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 715069,
+        "num": 715069,
+        "word": "2024巴黎奥运会和残奥会口号",
+        "onboard_time": 1658792245,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586735,
+        "num": 586735,
+        "word": "象棋机器人抓住并折断7岁男孩手指",
+        "onboard_time": 1658759315,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437063,
+        "num": 437063,
+        "word": "杨洋赵露思且试天下韩国网飞第4",
+        "onboard_time": 1658766445,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420834,
+        "num": 420834,
+        "word": "男子网购60瓶饮料9.9包邮",
+        "onboard_time": 1658753674,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389248,
+        "num": 389248,
+        "word": "周杰伦错过的烟火MV将于28日上线",
+        "onboard_time": 1658793268,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383177,
+        "num": 383177,
+        "word": "大连一大妈横躺地铁座位玩手机",
+        "onboard_time": 1658784551,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376103,
+        "num": 376103,
+        "word": "河南启动婚俗改革",
+        "onboard_time": 1658764948,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341635,
+        "num": 341635,
+        "word": "日本猴痘疫情全球一级旅行警告",
+        "onboard_time": 1658750493,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1747162,
+        "num": 337170,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386502,
+        "num": 336733,
+        "word": "谈恋爱 降智",
+        "onboard_time": 1658756854,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 328865,
+        "num": 328865,
+        "word": "江宏杰已联系上福原爱",
+        "onboard_time": 1658758053,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 315259,
+        "num": 315259,
+        "word": "185斤大叔暴瘦55斤后气质大变",
+        "onboard_time": 1658750851,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312973,
+        "num": 312973,
+        "word": "幸福到万家收视率成绩",
+        "onboard_time": 1658787373,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309570,
+        "num": 309570,
+        "word": "北京一男子划皮划艇上班",
+        "onboard_time": 1658782089,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285150,
+        "num": 285150,
+        "word": "欧文希望留守篮网",
+        "onboard_time": 1658795971,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259970,
+        "num": 259970,
+        "word": "张井上和吴啊萍为P图",
+        "onboard_time": 1658748152,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255126,
+        "num": 255126,
+        "word": "江西国资委回应国企员工炫耀一事",
+        "onboard_time": 1658751391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250524,
+        "num": 250524,
+        "word": "CBA公司因侵权向B站索赔4亿",
+        "onboard_time": 1658760756,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 274453,
+        "num": 250493,
+        "word": "月升沧海还不定档吗",
+        "onboard_time": 1658765309,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273912,
+        "num": 249334,
+        "word": "钱三一盯妻狂魔",
+        "onboard_time": 1658771415,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247734,
+        "num": 247734,
+        "word": "专家谈佩洛西拟窜访台湾",
+        "onboard_time": 1658794170,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 246661,
+        "num": 246661,
+        "word": "95岁老教师希望来世继续教书育人",
+        "onboard_time": 1658778792,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 245076,
+        "num": 245076,
+        "word": "汗毛旺盛致蚊子无从下脚",
+        "onboard_time": 1658778191,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244539,
+        "num": 244539,
+        "word": "敞门开空调拟被罚超5000元",
+        "onboard_time": 1658796272,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225508,
+        "num": 225508,
+        "word": "8旬婆婆等1小时专程还10元",
+        "onboard_time": 1658761656,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221131,
+        "num": 221131,
+        "word": "武汉大风",
+        "onboard_time": 1658790741,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211253,
+        "num": 211253,
+        "word": "外太空的莫扎特票房破2亿",
+        "onboard_time": 1658795190,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202281,
+        "num": 202281,
+        "word": "这肌肉小腿真能瘦",
+        "onboard_time": 1658757273,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191312,
+        "num": 191312,
+        "word": "今年中伏有20天",
+        "onboard_time": 1658793569,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184084,
+        "num": 184084,
+        "word": "人和人的精力差别有多大",
+        "onboard_time": 1658753853,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 183318,
+        "num": 183318,
+        "word": "全国连续5年多未发生暴恐案",
+        "onboard_time": 1658751633,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176973,
+        "num": 176973,
+        "word": "丁真直播",
+        "onboard_time": 1658755411,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164629,
+        "num": 164629,
+        "word": "711门店不明码标价获利超4千",
+        "onboard_time": 1658756792,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 163465,
+        "num": 163465,
+        "word": "安倍夫人高速公路出车祸",
+        "onboard_time": 1658741617,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159806,
+        "num": 159806,
+        "word": "林志颖发声明不想浪费社会资源受过多关注",
+        "onboard_time": 1658743056,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155220,
+        "num": 155220,
+        "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+        "onboard_time": 1658796751,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143041,
+        "num": 143041,
+        "word": "在300米高空开车是什么感觉",
+        "onboard_time": 1658796870,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142330,
+        "num": 142330,
+        "word": "应渊知道颜淡救了他",
+        "onboard_time": 1658750253,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022北京文化论坛#"
+    }
+  }
+}

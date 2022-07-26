@@ -1,0 +1,772 @@
+{
+  "startTime": 1658765596895,
+  "endTime": 1658797093176,
+  "band_list": [
+    {
+      "raw_hot": 3691637,
+      "num": 3691637,
+      "word": "福原爱发声明",
+      "onboard_time": 1658794589,
+      "rank": 0,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2413280,
+      "num": 847897,
+      "word": "丈夫出轨14年赠情人379万",
+      "onboard_time": 1658759554,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2147524,
+      "num": 2147524,
+      "word": "何同学工作室回应",
+      "onboard_time": 1658793207,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1928108,
+      "num": 1928108,
+      "word": "星汉灿烂排播",
+      "onboard_time": 1658793569,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1797642,
+      "num": 1797642,
+      "word": "男子误把祛黑头膏当面膜涂脸",
+      "onboard_time": 1658793688,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1542311,
+      "num": 1542311,
+      "word": "房地产专家称坚决不能取消预售制",
+      "onboard_time": 1658770456,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340322,
+      "num": 1340322,
+      "word": "辽大辅导员回应被指性骚扰学生",
+      "onboard_time": 1658794652,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1326076,
+      "num": 1326076,
+      "word": "江宏杰已联系上福原爱",
+      "onboard_time": 1658758053,
+      "rank": 0,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1195243,
+      "num": 1195243,
+      "word": "140余名孩子上游泳课后高烧咳嗽",
+      "onboard_time": 1658792424,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1045383,
+      "num": 1045383,
+      "word": "女子穿高跟鞋踇外翻脚码飙升45",
+      "onboard_time": 1658793084,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013499,
+      "num": 463491,
+      "word": "谈恋爱 降智",
+      "onboard_time": 1658756854,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 968952,
+      "num": 968952,
+      "word": "德国中产家庭排7小时队领救济粮",
+      "onboard_time": 1658778492,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930772,
+      "num": 930772,
+      "word": "星汉灿烂 月升沧海",
+      "onboard_time": 1658754518,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 831890,
+      "num": 831890,
+      "word": "男子网购60瓶饮料9.9包邮",
+      "onboard_time": 1658753674,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770213,
+      "num": 770213,
+      "word": "男子用刚买的橙汁帮货车灭火",
+      "onboard_time": 1658782931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765345,
+      "num": 765345,
+      "word": "月升沧海还不定档吗",
+      "onboard_time": 1658765309,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 715069,
+      "num": 715069,
+      "word": "2024巴黎奥运会和残奥会口号",
+      "onboard_time": 1658792245,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 709886,
+      "num": 455401,
+      "word": "林志颖目前无法完整拼凑车祸经过",
+      "onboard_time": 1658733931,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 693825,
+      "num": 693825,
+      "word": "185斤大叔暴瘦55斤后气质大变",
+      "onboard_time": 1658750851,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587876,
+      "num": 587876,
+      "word": "河南启动婚俗改革",
+      "onboard_time": 1658764948,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586735,
+      "num": 586735,
+      "word": "象棋机器人抓住并折断7岁男孩手指",
+      "onboard_time": 1658759315,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578018,
+      "num": 578018,
+      "word": "大连一大妈横躺地铁座位玩手机",
+      "onboard_time": 1658784551,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577052,
+      "num": 577052,
+      "word": "CBA公司因侵权向B站索赔4亿",
+      "onboard_time": 1658760756,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 561598,
+      "num": 1977648,
+      "word": "蚊子包是免疫系统战斗过的痕迹",
+      "onboard_time": 1658759857,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555026,
+      "num": 555026,
+      "word": "武汉大风",
+      "onboard_time": 1658790741,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553105,
+      "num": 307358,
+      "word": "安倍夫人高速公路出车祸",
+      "onboard_time": 1658741617,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511335,
+      "num": 511335,
+      "word": "日本猴痘疫情全球一级旅行警告",
+      "onboard_time": 1658750493,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510665,
+      "num": 510665,
+      "word": "杨洋赵露思且试天下韩国网飞第4",
+      "onboard_time": 1658766445,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 485425,
+      "num": 485425,
+      "word": "8旬婆婆等1小时专程还10元",
+      "onboard_time": 1658761656,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438785,
+      "num": 438785,
+      "word": "江西国资委回应国企员工炫耀一事",
+      "onboard_time": 1658751391,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411686,
+      "num": 411686,
+      "word": "丁真直播",
+      "onboard_time": 1658755411,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399999,
+      "num": 399999,
+      "word": "幸福到万家收视率成绩",
+      "onboard_time": 1658787373,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 389248,
+      "num": 389248,
+      "word": "周杰伦错过的烟火MV将于28日上线",
+      "onboard_time": 1658793268,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 374629,
+      "num": 374629,
+      "word": "全国连续5年多未发生暴恐案",
+      "onboard_time": 1658751633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369871,
+      "num": 369871,
+      "word": "少年派2好甜啊",
+      "onboard_time": 1658759315,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355766,
+      "num": 355766,
+      "word": "张井上和吴啊萍为P图",
+      "onboard_time": 1658748152,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345635,
+      "num": 345635,
+      "word": "北京一男子划皮划艇上班",
+      "onboard_time": 1658782089,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330711,
+      "num": 330711,
+      "word": "重庆部分地区现闪电大风",
+      "onboard_time": 1658763570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326832,
+      "num": 306348,
+      "word": "沉香如屑刀麻了",
+      "onboard_time": 1658752895,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 322001,
+      "num": 322001,
+      "word": "南方的蚊子也太毒了吧",
+      "onboard_time": 1658761656,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 312116,
+      "num": 312116,
+      "word": "1个穴位缓解失眠多梦",
+      "onboard_time": 1658763151,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306950,
+      "num": 306950,
+      "word": "河南的雨要下到8月了",
+      "onboard_time": 1658765786,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306023,
+      "num": 306023,
+      "word": "微博账号已显示所属MCN机构",
+      "onboard_time": 1658748635,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305705,
+      "num": 203325,
+      "word": "土土",
+      "onboard_time": 1658734535,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 300571,
+      "num": 300571,
+      "word": "这肌肉小腿真能瘦",
+      "onboard_time": 1658757273,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293911,
+      "num": 293911,
+      "word": "711门店不明码标价获利超4千",
+      "onboard_time": 1658756792,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 285150,
+      "num": 285150,
+      "word": "欧文希望留守篮网",
+      "onboard_time": 1658795971,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282083,
+      "num": 282083,
+      "word": "蒋璐霞包贝尔合作新片",
+      "onboard_time": 1658787193,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273912,
+      "num": 249334,
+      "word": "钱三一盯妻狂魔",
+      "onboard_time": 1658771415,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268798,
+      "num": 268798,
+      "word": "林志颖发声明不想浪费社会资源受过多关注",
+      "onboard_time": 1658743056,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247734,
+      "num": 247734,
+      "word": "专家谈佩洛西拟窜访台湾",
+      "onboard_time": 1658794170,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 246661,
+      "num": 246661,
+      "word": "95岁老教师希望来世继续教书育人",
+      "onboard_time": 1658778792,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 245076,
+      "num": 245076,
+      "word": "汗毛旺盛致蚊子无从下脚",
+      "onboard_time": 1658778191,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244539,
+      "num": 244539,
+      "word": "敞门开空调拟被罚超5000元",
+      "onboard_time": 1658796272,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238611,
+      "num": 238611,
+      "word": "难怪古代流放都去广东",
+      "onboard_time": 1658743956,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 232460,
+      "num": 232460,
+      "word": "大数据找对象靠谱吗",
+      "onboard_time": 1658766563,
+      "rank": 22,
+      "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 228733,
+      "num": 228733,
+      "word": "女大学生称兼职送外卖遭顾客刁难",
+      "onboard_time": 1658752053,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226885,
+      "num": 226885,
+      "word": "沈腾胖也不是瘦也不是",
+      "onboard_time": 1658755355,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211253,
+      "num": 211253,
+      "word": "外太空的莫扎特票房破2亿",
+      "onboard_time": 1658795190,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207942,
+      "num": 207942,
+      "word": "猴痘是否会传入中国并造成流行",
+      "onboard_time": 1658748454,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206274,
+      "num": 206274,
+      "word": "重庆冰雹",
+      "onboard_time": 1658760156,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195314,
+      "num": 195314,
+      "word": "漫展",
+      "onboard_time": 1658746655,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 192584,
+      "num": 192584,
+      "word": "郑州暴雨",
+      "onboard_time": 1658745336,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191312,
+      "num": 191312,
+      "word": "今年中伏有20天",
+      "onboard_time": 1658793569,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188869,
+      "num": 188869,
+      "word": "你好星期六",
+      "onboard_time": 1658750312,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188326,
+      "num": 188326,
+      "word": "周深给歌迷唱深深谢谢你",
+      "onboard_time": 1658762613,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185903,
+      "num": 185903,
+      "word": "原来当老师也要与时俱进",
+      "onboard_time": 1658756074,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 184084,
+      "num": 184084,
+      "word": "人和人的精力差别有多大",
+      "onboard_time": 1658753853,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 171998,
+      "num": 171998,
+      "word": "肖战方否认玉骨遥定档0811",
+      "onboard_time": 1658751934,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170837,
+      "num": 170837,
+      "word": "江西国控通报员工发布不当言论",
+      "onboard_time": 1658753313,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168649,
+      "num": 126030,
+      "word": "裸辞考研有多需要勇气",
+      "onboard_time": 1658768780,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168342,
+      "num": 168342,
+      "word": "官方调查国企员工炫耀家人有后台",
+      "onboard_time": 1658748572,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161475,
+      "num": 161475,
+      "word": "谢谢你暑假工",
+      "onboard_time": 1658751451,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155220,
+      "num": 155220,
+      "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+      "onboard_time": 1658796751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "雨后傍晚的老君山是仙境吧",
+      "onboard_time": 1658764169,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 150001,
+      "num": 104209,
+      "word": "林妙妙父母复婚了",
+      "onboard_time": 1658769499,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149788,
+      "num": 149788,
+      "word": "成毅替应渊着急",
+      "onboard_time": 1658757571,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143660,
+      "num": 143660,
+      "word": "不同小狗遇到小偷的反应",
+      "onboard_time": 1658760936,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143177,
+      "num": 143177,
+      "word": "杭州现巨型彩虹",
+      "onboard_time": 1658753011,
+      "rank": 45,
+      "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 143061,
+      "num": 143061,
+      "word": "天才基本法小演员",
+      "onboard_time": 1658758533,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143041,
+      "num": 143041,
+      "word": "在300米高空开车是什么感觉",
+      "onboard_time": 1658796870,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142330,
+      "num": 142330,
+      "word": "应渊知道颜淡救了他",
+      "onboard_time": 1658750253,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141749,
+      "num": 141749,
+      "word": "考12遍科一是种什么体验",
+      "onboard_time": 1658766744,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127115,
+      "num": 127115,
+      "word": "这就是留学的意义吧",
+      "onboard_time": 1658756673,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125650,
+      "num": 125650,
+      "word": "黄磊走过最长的路是刘奕君的套路",
+      "onboard_time": 1658783831,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123072,
+      "num": 123072,
+      "word": "买车到底要不要看技术",
+      "onboard_time": 1658760756,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 105688,
+      "num": 105688,
+      "word": "林志颖意识清楚",
+      "onboard_time": 1658773213,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100162,
+      "num": 100162,
+      "word": "邓紫棋孙晨竣合照",
+      "onboard_time": 1658774832,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 88831,
+      "num": 88831,
+      "word": "张碧晨微博直播",
+      "onboard_time": 1658767521,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35938,
+      "num": 35938,
+      "word": "男子用荷叶制作成天然花洒",
+      "onboard_time": 1658789959,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29076,
+      "num": 29076,
+      "word": "只属于两个人的求婚方式",
+      "onboard_time": 1658781192,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 11585,
+      "num": 11585,
+      "word": "巴黎vs大阪钢巴",
+      "onboard_time": 1658777472,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10560,
+      "num": 10560,
+      "word": "杜普兰蒂斯撑杆跳6米21夺金",
+      "onboard_time": 1658781071,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9622,
+      "num": 9622,
+      "word": "帅气又实用的保安系统",
+      "onboard_time": 1658779092,
+      "rank": 49,
+      "category": "幽默"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#2022北京文化论坛#"
+    },
+    {
+      "word": "#互联护苗#"
+    },
+    {
+      "word": "#打卡中国#"
+    },
+    {
+      "word": "#中国航天人又干成了一件大事#"
+    }
+  ]
+}
