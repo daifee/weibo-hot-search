@@ -1,0 +1,410 @@
+{
+  "runTime": 1658804960493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9911746,
+        "num": 9911746,
+        "word": "樊振东被扣1400分被附0分",
+        "onboard_time": 1658799209,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1980545,
+        "num": 1980545,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16260,
+        "num": 1299761,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221941,
+        "num": 1221941,
+        "word": "iPhone14或全系6G内存",
+        "onboard_time": 1658799093,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1184860,
+        "num": 1184860,
+        "word": "星汉灿烂排播",
+        "onboard_time": 1658793569,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 945902,
+        "num": 945902,
+        "word": "乐山2名儿童检出腺病毒",
+        "onboard_time": 1658797170,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785900,
+        "num": 785900,
+        "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+        "onboard_time": 1658796751,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653592,
+        "num": 653592,
+        "word": "男子误把祛黑头膏当面膜涂脸",
+        "onboard_time": 1658793688,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553212,
+        "num": 553212,
+        "word": "辽大辅导员回应被指性骚扰学生",
+        "onboard_time": 1658794652,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 485131,
+        "num": 485131,
+        "word": "苹果追加iPhone14零部件订单",
+        "onboard_time": 1658799868,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2053796,
+        "num": 480349,
+        "word": "肩膀内扣",
+        "onboard_time": 1658801971,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1152854,
+        "num": 470472,
+        "word": "福原爱发声明",
+        "onboard_time": 1658794589,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 857725,
+        "num": 462908,
+        "word": "苹果应用商店被曝大量色情APP",
+        "onboard_time": 1658803950,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 496023,
+        "num": 452503,
+        "word": "何同学工作室回应",
+        "onboard_time": 1658793207,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444599,
+        "num": 444599,
+        "word": "这才是真正的自然饮品吧",
+        "onboard_time": 1658802632,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 441800,
+        "num": 441800,
+        "word": "店长回应华莱士汉堡吃到生肉",
+        "onboard_time": 1658798550,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387287,
+        "num": 387287,
+        "word": "消防员抓捕黄鼠狼被臭屁熏吐",
+        "onboard_time": 1658797770,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386022,
+        "num": 386022,
+        "word": "女子穿高跟鞋踇外翻脚码飙升45",
+        "onboard_time": 1658793084,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353965,
+        "num": 353965,
+        "word": "油价迎三连跌",
+        "onboard_time": 1658798369,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 340769,
+        "num": 340769,
+        "word": "芝士世界 草莓世界",
+        "onboard_time": 1658801790,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 823854,
+        "num": 340617,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339347,
+        "num": 339347,
+        "word": "敞门开空调拟被罚超5000元",
+        "onboard_time": 1658796272,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337819,
+        "num": 337819,
+        "word": "中国天眼已进入成果爆发期",
+        "onboard_time": 1658800828,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330147,
+        "num": 330147,
+        "word": "星汉灿烂 月升沧海",
+        "onboard_time": 1658754518,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289363,
+        "num": 289363,
+        "word": "阿里张勇发布2022年致股东信",
+        "onboard_time": 1658802090,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 305435,
+        "num": 288598,
+        "word": "星汉灿烂",
+        "onboard_time": 1658798011,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281172,
+        "num": 281172,
+        "word": "王一博黄渤热烈对手戏",
+        "onboard_time": 1658804851,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269742,
+        "num": 269742,
+        "word": "阿里申请香港纽约双重主要上市",
+        "onboard_time": 1658797232,
+        "rank": 27,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 262654,
+        "num": 262654,
+        "word": "绿色的绿豆汤解暑效果更好",
+        "onboard_time": 1658802692,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261073,
+        "num": 261073,
+        "word": "山东新增本土确诊1例无症状27例",
+        "onboard_time": 1658800169,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248269,
+        "num": 248269,
+        "word": "男子用刚买的橙汁帮货车灭火",
+        "onboard_time": 1658782931,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233616,
+        "num": 233616,
+        "word": "王嘉男说见到刘翔就想掉眼泪",
+        "onboard_time": 1658803411,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220999,
+        "num": 220999,
+        "word": "140余名孩子上游泳课后高烧咳嗽",
+        "onboard_time": 1658792424,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219858,
+        "num": 219858,
+        "word": "法国酒水加块冰需单加14元",
+        "onboard_time": 1658801790,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 215394,
+        "num": 215394,
+        "word": "一生行善的老人最后捐出了自己",
+        "onboard_time": 1658803112,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210745,
+        "num": 210745,
+        "word": "吉克隽逸被综艺之神眷顾的瞬间",
+        "onboard_time": 1658803052,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209876,
+        "num": 209876,
+        "word": "甘肃增37例确诊306例无症状",
+        "onboard_time": 1658799749,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204659,
+        "num": 204659,
+        "word": "要从十几岁闹到一万岁",
+        "onboard_time": 1658803292,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204388,
+        "num": 204388,
+        "word": "谈恋爱 降智",
+        "onboard_time": 1658756854,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 198894,
+        "num": 198894,
+        "word": "C罗返回曼彻斯特",
+        "onboard_time": 1658800289,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198248,
+        "num": 198248,
+        "word": "林妙妙父母复婚了",
+        "onboard_time": 1658769499,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197779,
+        "num": 197779,
+        "word": "四川增16例本土确诊",
+        "onboard_time": 1658801009,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191453,
+        "num": 191453,
+        "word": "房地产专家称坚决不能取消预售制",
+        "onboard_time": 1658770456,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179787,
+        "num": 179787,
+        "word": "河南启动婚俗改革",
+        "onboard_time": 1658764948,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157134,
+        "num": 157134,
+        "word": "颜淡心痛烧毁沉香炉",
+        "onboard_time": 1658801731,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156441,
+        "num": 156441,
+        "word": "热烈Round1贴片预告",
+        "onboard_time": 1658802752,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148261,
+        "num": 148261,
+        "word": "杨洋于途一周年",
+        "onboard_time": 1658800412,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129705,
+        "num": 129705,
+        "word": "95岁老教师希望来世继续教书育人",
+        "onboard_time": 1658778792,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 123897,
+        "num": 123897,
+        "word": "象棋机器人抓住并折断7岁男孩手指",
+        "onboard_time": 1658759315,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118112,
+        "num": 118112,
+        "word": "广东增本土无症状17例",
+        "onboard_time": 1658799809,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
