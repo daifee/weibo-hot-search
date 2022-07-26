@@ -1,4 +1,4 @@
-const archiveDaily = require('../scripts/archive-daily');
+const archiveWeekly = require('../scripts/archive-weekly');
 
 const date = new Date();
 const hours = date.getHours();
@@ -8,4 +8,4 @@ if (hours === 0) {
   date.setMinutes(-30);
 }
 
-archiveDaily.run(date.getTime());
+archiveWeekly.run(date.getTime());

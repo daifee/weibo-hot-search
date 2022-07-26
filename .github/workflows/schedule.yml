@@ -20,10 +20,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - name: 调试信息
-        run: |
-          date
-          echo ${{ github.event.schedule }}
+      - name: 命中定时器计划
+        run: echo ${{ github.event.schedule }}
       - name: 安装依赖
         run: npm install
       - name: 抓取数据
@@ -31,6 +29,9 @@ jobs:
       - name: 归档日榜
         if: github.event.schedule == '0 * * * *'
         run: node ./cli/archive-daily.js
+      - name: 归档周榜
+        if: github.event.schedule == '0 * * * *'
+        run: node ./cli/archive-weekly.js
       - name: 存储
         run: |
           git config user.name "bot"
