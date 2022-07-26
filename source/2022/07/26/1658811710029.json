@@ -1,0 +1,410 @@
+{
+  "runTime": 1658811710029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3777738,
+        "num": 3777738,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2570199,
+        "num": 2570199,
+        "word": "樊振东被扣1400分被附0分",
+        "onboard_time": 1658799209,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11122,
+        "num": 2273862,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2237749,
+        "num": 2237749,
+        "word": "杨洋迪丽热巴说好久不见",
+        "onboard_time": 1658808573,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1478173,
+        "num": 1478173,
+        "word": "苹果应用商店被曝大量色情APP",
+        "onboard_time": 1658803950,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1337639,
+        "num": 1337639,
+        "word": "傅首尔",
+        "onboard_time": 1658807973,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975260,
+        "num": 975260,
+        "word": "与凤行定妆照",
+        "onboard_time": 1658810977,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 958110,
+        "num": 958110,
+        "word": "拍婚纱照吵架男子将女友丢服务区",
+        "onboard_time": 1658808154,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953083,
+        "num": 953083,
+        "word": "巴黎奥运首金出自中国卫冕项目",
+        "onboard_time": 1658807130,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797895,
+        "num": 797895,
+        "word": "被扣1400分是什么概念",
+        "onboard_time": 1658806949,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3866772,
+        "num": 768247,
+        "word": "孙杨张豆豆牵手回老家",
+        "onboard_time": 1658811458,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 868434,
+        "num": 686536,
+        "word": "星汉灿烂排播",
+        "onboard_time": 1658793569,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 830285,
+        "num": 668939,
+        "word": "福原爱发声明",
+        "onboard_time": 1658794589,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 578255,
+        "num": 578255,
+        "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+        "onboard_time": 1658796751,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569919,
+        "num": 569919,
+        "word": "光遇",
+        "onboard_time": 1658808455,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 552737,
+        "num": 552737,
+        "word": "晨起一杯水应该怎么喝",
+        "onboard_time": 1658807671,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509982,
+        "num": 509982,
+        "word": "iPhone14或全系6G内存",
+        "onboard_time": 1658799093,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 472956,
+        "num": 472956,
+        "word": "亚洲象为吃甘蔗逼停30辆卡车",
+        "onboard_time": 1658809056,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470089,
+        "num": 470089,
+        "word": "医院空车位不让停保安称留给领导",
+        "onboard_time": 1658808573,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464986,
+        "num": 464986,
+        "word": "七成网民认可电竞是体育运动",
+        "onboard_time": 1658809114,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 529486,
+        "num": 462624,
+        "word": "王子文说做过最疯狂的事是上恋综",
+        "onboard_time": 1658806232,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499869,
+        "num": 460880,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498419,
+        "num": 456895,
+        "word": "奔跑吧吐鲁番的葡萄熟了",
+        "onboard_time": 1658807072,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469818,
+        "num": 451219,
+        "word": "王一博热烈转头花絮",
+        "onboard_time": 1658810318,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449871,
+        "num": 449871,
+        "word": "没打疫苗租户开门权限被限",
+        "onboard_time": 1658809234,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440127,
+        "num": 440127,
+        "word": "全重庆人都在拍这朵云",
+        "onboard_time": 1658810559,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 386483,
+        "num": 386483,
+        "word": "原来油条还能这样吃",
+        "onboard_time": 1658811040,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 305902,
+        "num": 305902,
+        "word": "独居的安全感是衣架给的",
+        "onboard_time": 1658810920,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305015,
+        "num": 305015,
+        "word": "男子误把祛黑头膏当面膜涂脸",
+        "onboard_time": 1658793688,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296922,
+        "num": 296922,
+        "word": "辽大辅导员回应被指性骚扰学生",
+        "onboard_time": 1658794652,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 432394,
+        "num": 295077,
+        "word": "林妙妙钱三一从校服到婚纱",
+        "onboard_time": 1658809234,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422469,
+        "num": 292724,
+        "word": "星汉灿烂",
+        "onboard_time": 1658798011,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395975,
+        "num": 291059,
+        "word": "杨紫成毅教小演员演戏好温馨",
+        "onboard_time": 1658807853,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336732,
+        "num": 288624,
+        "word": "何同学工作室回应",
+        "onboard_time": 1658793207,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286558,
+        "num": 286558,
+        "word": "多国电竞选手喊话你好杭州",
+        "onboard_time": 1658808333,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279488,
+        "num": 279488,
+        "word": "今天是中伏第一天",
+        "onboard_time": 1658809716,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268226,
+        "num": 268226,
+        "word": "乐山2名儿童检出腺病毒",
+        "onboard_time": 1658797170,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250089,
+        "num": 250089,
+        "word": "苹果追加iPhone14零部件订单",
+        "onboard_time": 1658799868,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247906,
+        "num": 247906,
+        "word": "饿了么",
+        "onboard_time": 1658805093,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 237436,
+        "num": 237436,
+        "word": "医保跨省直接结算范围拓展",
+        "onboard_time": 1658805632,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284304,
+        "num": 237186,
+        "word": "沉香如屑",
+        "onboard_time": 1658811580,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249677,
+        "num": 234172,
+        "word": "谭维维 我在",
+        "onboard_time": 1658806649,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203651,
+        "num": 203651,
+        "word": "女子穿高跟鞋踇外翻脚码飙升45",
+        "onboard_time": 1658793084,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202856,
+        "num": 202856,
+        "word": "山东新增本土确诊1例无症状27例",
+        "onboard_time": 1658800169,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200362,
+        "num": 200362,
+        "word": "阿里张勇发布2022年致股东信",
+        "onboard_time": 1658802090,
+        "rank": 44,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 196936,
+        "num": 196936,
+        "word": "消防员抓捕黄鼠狼被臭屁熏吐",
+        "onboard_time": 1658797770,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188940,
+        "num": 188940,
+        "word": "绿色的绿豆汤解暑效果更好",
+        "onboard_time": 1658802692,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185977,
+        "num": 185977,
+        "word": "敞门开空调拟被罚超5000元",
+        "onboard_time": 1658796272,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158418,
+        "num": 158418,
+        "word": "这才是真正的自然饮品吧",
+        "onboard_time": 1658802632,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150099,
+        "num": 150099,
+        "word": "油价迎三连跌",
+        "onboard_time": 1658798369,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
