@@ -1,0 +1,410 @@
+{
+  "runTime": 1658816025758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3606889,
+        "num": 3606889,
+        "word": "傅首尔致歉",
+        "onboard_time": 1658813255,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2381329,
+        "num": 2381329,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11732,
+        "num": 1845178,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1807376,
+        "num": 1807376,
+        "word": "男子将亡妻照片设成壁纸对手机发呆",
+        "onboard_time": 1658812356,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159323,
+        "num": 1159323,
+        "word": "杨洋迪丽热巴说好久不见",
+        "onboard_time": 1658808573,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1135728,
+        "num": 1135728,
+        "word": "西安工大一学生毕业13年后被撤销毕业证",
+        "onboard_time": 1658813674,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 923225,
+        "num": 923225,
+        "word": "傅首尔",
+        "onboard_time": 1658807973,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922826,
+        "num": 922826,
+        "word": "22岁女生节食减肥瘦出脂肪肝",
+        "onboard_time": 1658811758,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917263,
+        "num": 917263,
+        "word": "苹果应用商店被曝大量色情APP",
+        "onboard_time": 1658803950,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 829079,
+        "num": 829079,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1595841,
+        "num": 822970,
+        "word": "孙杨张豆豆牵手回老家",
+        "onboard_time": 1658811458,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 801431,
+        "num": 801431,
+        "word": "樊振东被扣1400分被附0分",
+        "onboard_time": 1658799209,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718191,
+        "num": 718191,
+        "word": "孩子考上清华家长请全小区吃大锅饭",
+        "onboard_time": 1658812834,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 674576,
+        "num": 674576,
+        "word": "与凤行定妆照",
+        "onboard_time": 1658810977,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551729,
+        "num": 551729,
+        "word": "举报辽大老师性骚扰同学发声",
+        "onboard_time": 1658812776,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 502745,
+        "num": 502745,
+        "word": "乔晶晶发博一周年快乐",
+        "onboard_time": 1658811876,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443815,
+        "num": 443815,
+        "word": "全重庆人都在拍这朵云",
+        "onboard_time": 1658810559,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 404018,
+        "num": 404018,
+        "word": "拍婚纱照吵架男子将女友丢服务区",
+        "onboard_time": 1658808154,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370724,
+        "num": 370724,
+        "word": "原来油条还能这样吃",
+        "onboard_time": 1658811040,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333565,
+        "num": 333565,
+        "word": "没打疫苗租户开门权限被限",
+        "onboard_time": 1658809234,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447695,
+        "num": 319087,
+        "word": "二舅作者回应",
+        "onboard_time": 1658813494,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 363379,
+        "num": 314591,
+        "word": "星汉灿烂排播",
+        "onboard_time": 1658793569,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338297,
+        "num": 311962,
+        "word": "林妙妙钱三一从校服到婚纱",
+        "onboard_time": 1658809234,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303874,
+        "num": 303874,
+        "word": "脸上黑头真的需要清洁吗",
+        "onboard_time": 1658813075,
+        "rank": 23,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 301444,
+        "num": 301444,
+        "word": "邢台学院回应聘13名韩国高校女博士",
+        "onboard_time": 1658812237,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 320993,
+        "num": 293947,
+        "word": "星汉灿烂",
+        "onboard_time": 1658798011,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269878,
+        "num": 269878,
+        "word": "医院空车位不让停保安称留给领导",
+        "onboard_time": 1658808573,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266633,
+        "num": 266633,
+        "word": "大熊猫在芬兰被迫思念故乡",
+        "onboard_time": 1658814095,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262324,
+        "num": 262324,
+        "word": "七成网民认可电竞是体育运动",
+        "onboard_time": 1658809114,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260744,
+        "num": 260744,
+        "word": "巴黎奥运首金将出自中国卫冕项目",
+        "onboard_time": 1658807130,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277488,
+        "num": 258459,
+        "word": "王子文说做过最疯狂的事是上恋综",
+        "onboard_time": 1658806232,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247988,
+        "num": 247988,
+        "word": "被扣1400分是什么概念",
+        "onboard_time": 1658806949,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244666,
+        "num": 244666,
+        "word": "亚洲象为吃甘蔗逼停30辆卡车",
+        "onboard_time": 1658809056,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238541,
+        "num": 238541,
+        "word": "赵今麦那些回不去的年少时光开机",
+        "onboard_time": 1658814338,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236534,
+        "num": 236534,
+        "word": "把HR整破防了",
+        "onboard_time": 1658814338,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232840,
+        "num": 232840,
+        "word": "吴磊赵露思星汉灿烂侧颜剧照",
+        "onboard_time": 1658812536,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226368,
+        "num": 226368,
+        "word": "独居的安全感是衣架给的",
+        "onboard_time": 1658810920,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218874,
+        "num": 218874,
+        "word": "晨起一杯水应该怎么喝",
+        "onboard_time": 1658807671,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207221,
+        "num": 207221,
+        "word": "iPhone14或全系6G内存",
+        "onboard_time": 1658799093,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204635,
+        "num": 204635,
+        "word": "李军华任联合国副秘书长",
+        "onboard_time": 1658812117,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 229014,
+        "num": 197358,
+        "word": "福原爱发声明",
+        "onboard_time": 1658794589,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 222958,
+        "num": 194968,
+        "word": "颜淡芷昔彻底be",
+        "onboard_time": 1658813614,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188228,
+        "num": 188228,
+        "word": "青岛小猫坐拥几十斤专晒小鱼干",
+        "onboard_time": 1658815536,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186842,
+        "num": 186842,
+        "word": "光遇",
+        "onboard_time": 1658808455,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184811,
+        "num": 184811,
+        "word": "90后白领一到公司工作就偏头痛",
+        "onboard_time": 1658815715,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161375,
+        "num": 161375,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159415,
+        "num": 159415,
+        "word": "饿了么",
+        "onboard_time": 1658805093,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151562,
+        "num": 151562,
+        "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+        "onboard_time": 1658796751,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141458,
+        "num": 141458,
+        "word": "乐山2名儿童检出腺病毒",
+        "onboard_time": 1658797170,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117248,
+        "num": 117248,
+        "word": "苹果追加iPhone14零部件订单",
+        "onboard_time": 1658799868,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
