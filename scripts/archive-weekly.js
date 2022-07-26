@@ -32,6 +32,7 @@ function getWeeklyDates(runTime) {
 
 function getSourceFiles(runTime) {
   const dates = getWeeklyDates(runTime);
+
   return dates.map((date) => {
     return dailyArchive.getFilePath(date.getTime(), 'json');
   }).filter((filePath) => {

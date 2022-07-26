@@ -1,8 +1,11 @@
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 const utils = require('../scripts/utils');
 const tool = require('./tool');
+
+beforeEach(() => {
+  tool.cleanTempDir();
+});
 
 describe('formatDate(timestamp)', () => {
   test('1', () => {
@@ -96,10 +99,6 @@ describe('extractDir(filePath)', () => {
 describe('archiveJSON(filePath, data)', () => {
   const filePath = path.resolve(`./temp/${Date.now()}/${Date.now()}.json`);
 
-  afterEach(() => {
-    execSync(`rm ${filePath}`);
-  });
-
   test('正确用法', () => {
     utils.archiveJSON(filePath, { name: 'daifee' });
 
@@ -111,10 +110,6 @@ describe('archiveJSON(filePath, data)', () => {
 
 describe('archiveMD(filePath, content)', () => {
   const filePath = path.resolve(`./temp/${Date.now()}.md`);
-
-  afterEach(() => {
-    execSync(`rm ${filePath}`);
-  });
 
   test('正确用法', () => {
     utils.archiveJSON(filePath, '#daifee');

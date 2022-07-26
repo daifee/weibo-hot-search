@@ -1,7 +1,11 @@
 const fs = require('fs');
-const { execSync } = require('child_process');
 const spider = require('../scripts/spider');
 const utils = require('../scripts/utils');
+const tool = require('./tool');
+
+beforeEach(() => {
+  tool.cleanTempDir();
+});
 
 describe('isHotSearchItem(item)', () => {
   test('正确用法', () => {
@@ -147,10 +151,6 @@ describe('saveSourceData(runTime, data)', () => {
   const runTime = 1657945739031;
   const filePath = spider.getFilePath(runTime);
 
-  afterAll(() => {
-    execSync(`rm ${filePath}`);
-  });
-
   test('1657945739031', () => {
     spider.saveSourceData(runTime, {});
 
@@ -166,10 +166,6 @@ describe('saveSourceData(runTime, data)', () => {
 describe('run', () => {
   const runTime = 1657945739121;
   const filePath = spider.getFilePath(runTime);
-
-  afterAll(() => {
-    execSync(`rm ${filePath}`);
-  });
 
   test('1657945739121', async () => {
     await spider.run(runTime);

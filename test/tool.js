@@ -9,6 +9,21 @@ function getFilePathsFromDir(dir) {
   });
 }
 
+function cleanTempDir() {
+  fs.rmSync('./temp', {
+    recursive: true,
+    force: true,
+  });
+
+  fs.mkdirSync('./temp', { recursive: true });
+}
+
+// cleanTempDir();
+// cleanTempDir();
+// cleanTempDir();
+// cleanTempDir();
+
 module.exports = {
   getFilePathsFromDir,
+  cleanTempDir,
 };

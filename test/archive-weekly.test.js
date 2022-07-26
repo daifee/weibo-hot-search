@@ -1,11 +1,17 @@
+const fs = require('fs');
 const archiveWeekly = require('../scripts/archive-weekly');
 const utils = require('../scripts/utils');
+const tool = require('./tool');
 
 function expectDate(receivedDateObj, expectedMonth, expectedDate, expectedDay) {
   expect(receivedDateObj.getMonth()).toEqual(expectedMonth);
   expect(receivedDateObj.getDate()).toEqual(expectedDate);
   expect(receivedDateObj.getDay()).toEqual(expectedDay);
 }
+
+beforeEach(() => {
+  tool.cleanTempDir();
+});
 
 describe('getWeeklyDates(runTime)', () => {
   test('周一', () => {
@@ -59,9 +65,11 @@ describe('getWeeklyDates(runTime)', () => {
 
 describe('getSourceFiles', () => {
   test('runTime = 1658382269954', () => {
+    fs.cpSync('./test/data/20', './temp', { recursive: true });
+
     const timestamp = 1658382269954;
     const received = archiveWeekly.getSourceFiles(timestamp);
-    expect(received.length === 4).toBe(true);
+    expect(received.length).toEqual(4);
     expect(
       (/archives\/daily\/2022\/07-18\.json$/).test(received[0]),
     ).toBe(true);
@@ -77,9 +85,11 @@ describe('getSourceFiles', () => {
   });
 
   test('runTime = 1658630710372', () => {
+    fs.cpSync('./test/data/20', './temp', { recursive: true });
+
     const timestamp = 1658630710372;
     const received = archiveWeekly.getSourceFiles(timestamp);
-    expect(received.length === 7).toBe(true);
+    expect(received.length).toEqual(7);
     expect(
       (/archives\/daily\/2022\/07-18\.json$/).test(received[0]),
     ).toBe(true);

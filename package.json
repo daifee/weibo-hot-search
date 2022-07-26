@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "lint": "eslint --ext .js scripts/",
-    "test": "jest ./test/**.test.js",
+    "test": "jest ./test/**.test.js --runInBand",
     "test:watch": "jest --watch ./test/**.test.js",
     "test:only": "jest ./test/archive-weekly.test.js --coverage=false"
   },
