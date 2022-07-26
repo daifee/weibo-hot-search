@@ -1,0 +1,410 @@
+{
+  "runTime": 1658829383938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4815321,
+        "num": 4815321,
+        "word": "贾乃亮",
+        "onboard_time": 1658821954,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1996853,
+        "num": 1996853,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14012,
+        "num": 1588336,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373171,
+        "num": 1373171,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257932,
+        "num": 1257932,
+        "word": "人民网评国企员工炫耀一事",
+        "onboard_time": 1658826816,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018242,
+        "num": 1018242,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 724187,
+        "num": 724187,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706327,
+        "num": 706327,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662122,
+        "num": 662122,
+        "word": "罗敏",
+        "onboard_time": 1658824896,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620152,
+        "num": 620152,
+        "word": "成都疫情防控",
+        "onboard_time": 1658825796,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512300,
+        "num": 608142,
+        "word": "周劼",
+        "onboard_time": 1658825134,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934448,
+        "num": 607404,
+        "word": "男子用嘴偷吸路边摩托车的汽油",
+        "onboard_time": 1658819612,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626933,
+        "num": 604453,
+        "word": "笔试缺考者入围教师招聘面试",
+        "onboard_time": 1658818174,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 587723,
+        "num": 587723,
+        "word": "孙杨张豆豆牵手回老家",
+        "onboard_time": 1658811458,
+        "rank": 13,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 3166,
+        "num": 547810,
+        "word": "陪中国女足战斗到最后",
+        "onboard_time": 1658826097,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514995,
+        "num": 514995,
+        "word": "男子将亡妻照片设成壁纸对手机发呆",
+        "onboard_time": 1658812356,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496808,
+        "num": 496808,
+        "word": "傅首尔致歉",
+        "onboard_time": 1658813255,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 479707,
+        "num": 479707,
+        "word": "吴磊作星汉灿烂打油诗",
+        "onboard_time": 1658828556,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458738,
+        "num": 458738,
+        "word": "Doggie 冰箱",
+        "onboard_time": 1658822555,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415981,
+        "num": 415981,
+        "word": "杨洋迪丽热巴说好久不见",
+        "onboard_time": 1658808573,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519342,
+        "num": 409567,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400353,
+        "num": 400353,
+        "word": "杨紫颜淡哭戏泪珠好大颗",
+        "onboard_time": 1658826514,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369067,
+        "num": 369067,
+        "word": "王一博说黄渤发量不得转秃了",
+        "onboard_time": 1658828436,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364586,
+        "num": 364586,
+        "word": "上海冰雹",
+        "onboard_time": 1658825313,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358255,
+        "num": 358255,
+        "word": "Uzi明凯成为LPL公益爱心大使",
+        "onboard_time": 1658824175,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354951,
+        "num": 354951,
+        "word": "苏州将现12级以上雷暴大风",
+        "onboard_time": 1658820455,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349829,
+        "num": 349829,
+        "word": "中餐厅6官宣定档",
+        "onboard_time": 1658819074,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287885,
+        "num": 287885,
+        "word": "老人拒买产品愿给小费遭导游辱骂",
+        "onboard_time": 1658821533,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272337,
+        "num": 272337,
+        "word": "店主贴纸条称没奶粉可砸玻璃取",
+        "onboard_time": 1658823692,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251525,
+        "num": 271875,
+        "word": "二舅活出了我们向往的饱满人生",
+        "onboard_time": 1658822133,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318052,
+        "num": 271306,
+        "word": "程少商尴尬而又不失礼貌的微笑",
+        "onboard_time": 1658827237,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301917,
+        "num": 270496,
+        "word": "tangoz 冰箱",
+        "onboard_time": 1658825193,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280163,
+        "num": 269992,
+        "word": "二舅作者回应",
+        "onboard_time": 1658813494,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 269387,
+        "num": 269387,
+        "word": "沉香如屑跳一赠一",
+        "onboard_time": 1658819974,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265251,
+        "num": 265251,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 264411,
+        "num": 264411,
+        "word": "江西国控正在对周劼作进一步核查",
+        "onboard_time": 1658828317,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254771,
+        "num": 254771,
+        "word": "苏州龙卷风",
+        "onboard_time": 1658826754,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233998,
+        "num": 233998,
+        "word": "中日女足东亚杯争冠",
+        "onboard_time": 1658824054,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232679,
+        "num": 232679,
+        "word": "22岁女生节食减肥瘦出脂肪肝",
+        "onboard_time": 1658811758,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231762,
+        "num": 231762,
+        "word": "中国女足vs日本女足",
+        "onboard_time": 1658828317,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253809,
+        "num": 230938,
+        "word": "李亚男晒王祖蓝带娃视频",
+        "onboard_time": 1658822497,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245053,
+        "num": 230430,
+        "word": "少年派2妙宝男",
+        "onboard_time": 1658824054,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229260,
+        "num": 229260,
+        "word": "理想汽车回应试驾车事故",
+        "onboard_time": 1658828978,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 214594,
+        "num": 214594,
+        "word": "青岛小猫坐拥几十斤专晒小鱼干",
+        "onboard_time": 1658815536,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212773,
+        "num": 212773,
+        "word": "世界上第一快乐的人",
+        "onboard_time": 1658821172,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205123,
+        "num": 205123,
+        "word": "让二舅和姥姥安静生活吧",
+        "onboard_time": 1658821835,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192276,
+        "num": 192276,
+        "word": "台风",
+        "onboard_time": 1658821772,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185112,
+        "num": 185112,
+        "word": "新疆网红景点用直升机清运垃圾",
+        "onboard_time": 1658828735,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175875,
+        "num": 175875,
+        "word": "盘点傅首尔商业版图",
+        "onboard_time": 1658826997,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175507,
+        "num": 175507,
+        "word": "00后女孩拍视频体验一百种人生",
+        "onboard_time": 1658822253,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
