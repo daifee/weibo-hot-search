@@ -1,0 +1,410 @@
+{
+  "runTime": 1658835278495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3539698,
+        "num": 3539698,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1932710,
+        "num": 1932710,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45669,
+        "num": 1643178,
+        "word": "致敬炎炎夏日里的劳动者",
+        "onboard_time": 1658834316,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1633986,
+        "num": 1633986,
+        "word": "武汉核酸",
+        "onboard_time": 1658833354,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292863,
+        "num": 1292863,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1154206,
+        "num": 1154206,
+        "word": "赵立坚说请注意你的措辞",
+        "onboard_time": 1658831015,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1026916,
+        "num": 1026916,
+        "word": "狐妖小红娘月红篇演员阵容名单",
+        "onboard_time": 1658834316,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 944611,
+        "num": 944611,
+        "word": "凌不疑程少商微博换情头",
+        "onboard_time": 1658830954,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 927049,
+        "num": 927049,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705800,
+        "num": 705800,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2465871,
+        "num": 704428,
+        "word": "林志颖第一阶段手术顺利",
+        "onboard_time": 1658833593,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653868,
+        "num": 653868,
+        "word": "中国女足vs日本女足",
+        "onboard_time": 1658828317,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640507,
+        "num": 640507,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625918,
+        "num": 625918,
+        "word": "杨紫在线催颜淡跳了无桥",
+        "onboard_time": 1658834974,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583316,
+        "num": 583316,
+        "word": "校园贷鼻祖下场直播带货",
+        "onboard_time": 1658830535,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573193,
+        "num": 573193,
+        "word": "时代少年团绝配训练集练习室",
+        "onboard_time": 1658834912,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541826,
+        "num": 541826,
+        "word": "人民网评国企员工炫耀一事",
+        "onboard_time": 1658826816,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422668,
+        "num": 422668,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394112,
+        "num": 394112,
+        "word": "江西省考",
+        "onboard_time": 1658833713,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 369063,
+        "num": 369063,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423008,
+        "num": 367345,
+        "word": "石玺彤落水",
+        "onboard_time": 1658833713,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364540,
+        "num": 364540,
+        "word": "王一博说黄渤发量不得转秃了",
+        "onboard_time": 1658828436,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355908,
+        "num": 355908,
+        "word": "王者荣耀",
+        "onboard_time": 1658834134,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341792,
+        "num": 341792,
+        "word": "辽大骚扰学生辅导员被免职",
+        "onboard_time": 1658832573,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328342,
+        "num": 328342,
+        "word": "傅首尔致歉",
+        "onboard_time": 1658813255,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 322253,
+        "num": 322253,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321193,
+        "num": 321193,
+        "word": "深圳DYG",
+        "onboard_time": 1658833834,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320269,
+        "num": 320269,
+        "word": "周劼称父亲并非副局长",
+        "onboard_time": 1658833354,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314817,
+        "num": 314817,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313124,
+        "num": 313124,
+        "word": "国防部回应佩洛西计划访台",
+        "onboard_time": 1658831916,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 323515,
+        "num": 312770,
+        "word": "刘诗诗眼神梦回红衣龙葵",
+        "onboard_time": 1658831916,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 309307,
+        "num": 309307,
+        "word": "宁愿菡萏之花从未开过",
+        "onboard_time": 1658834670,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280313,
+        "num": 280313,
+        "word": "幸福到万家全端播放市占率断层第一",
+        "onboard_time": 1658832095,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274229,
+        "num": 274229,
+        "word": "周劼",
+        "onboard_time": 1658825134,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262364,
+        "num": 262364,
+        "word": "星汉灿烂打油诗大赛",
+        "onboard_time": 1658834792,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259210,
+        "num": 259210,
+        "word": "汇丰回应不续签30岁未育女员工传言",
+        "onboard_time": 1658834434,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 252626,
+        "num": 252626,
+        "word": "笔试缺考者入围教师招聘面试",
+        "onboard_time": 1658818174,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 250413,
+        "num": 250413,
+        "word": "男子将亡妻照片设成壁纸对手机发呆",
+        "onboard_time": 1658812356,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249705,
+        "num": 249705,
+        "word": "趣店能否凭预制菜东山再起",
+        "onboard_time": 1658833650,
+        "rank": 38,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 248061,
+        "num": 248061,
+        "word": "校园贷",
+        "onboard_time": 1658834912,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259131,
+        "num": 241369,
+        "word": "赵露思星汉灿烂打油诗",
+        "onboard_time": 1658832756,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229580,
+        "num": 229580,
+        "word": "Doggie 冰箱",
+        "onboard_time": 1658822555,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225799,
+        "num": 225799,
+        "word": "罗敏",
+        "onboard_time": 1658824896,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225335,
+        "num": 225335,
+        "word": "广西玉林一部门称优先招聘已购房毕业生",
+        "onboard_time": 1658830236,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214902,
+        "num": 214902,
+        "word": "这才是大多数人的生活吧",
+        "onboard_time": 1658829936,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203668,
+        "num": 203668,
+        "word": "为什么今年的夏天这么热",
+        "onboard_time": 1658834792,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195787,
+        "num": 195787,
+        "word": "央媒热评阿里双重主要上市",
+        "onboard_time": 1658834974,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 190724,
+        "word": "少年派2嗑麻了",
+        "onboard_time": 1658835273,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179197,
+        "num": 179197,
+        "word": "新疆网红景点用直升机清运垃圾",
+        "onboard_time": 1658828735,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169338,
+        "num": 169338,
+        "word": "世界上第一快乐的人",
+        "onboard_time": 1658821172,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#护苗2022#"
+    }
+  }
+}
