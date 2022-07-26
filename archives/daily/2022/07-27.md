@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/07/27 00:31:22 ~ 2022/07/27 04:22:28
+本榜单时间：2022/07/27 00:31:22 ~ 2022/07/27 05:18:30
 </p>
 </blockquote>
 <p>每小时抓取一次数据，按天<a href="https://github.com/daifee/weibo-hot-search/tree/main/archives/daily">归档</a>。</p>
@@ -416,7 +416,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E4%B8%80%E6%B1%80%E8%AF%B4%E6%BC%8F%E5%98%B4%E5%90%91%E5%89%8D%E5%86%B28%E6%9C%883%E6%97%A5%E6%92%AD%23" target="weibo">
-沙一汀说漏嘴向前冲8月3日播（热度：37429）
+沙一汀说漏嘴向前冲8月3日播（热度：51390）
 </a>
 </li>
 
@@ -427,8 +427,38 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7%E7%AC%AC%E4%B8%80%E9%9B%86%E9%A2%84%E5%91%8A%E5%90%A7%23" target="weibo">
+这是月升沧海第一集预告吧（热度：35188）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2382%E5%B2%81%E7%88%B7%E7%88%B7%E7%94%9F%E6%97%A5%E5%AD%99%E5%AD%90%E9%80%81%E4%B8%8A%E6%B8%85%E5%8D%8E%E9%80%9A%E7%9F%A5%E4%B9%A6%23" target="weibo">
+82岁爷爷生日孙子送上清华通知书（热度：23941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E6%95%99%E8%B7%B3%E5%BF%AB%E4%B9%90%E5%86%8D%E5%87%BA%E5%8F%91%E7%89%88%E7%88%B1%E4%BD%A0%23" target="weibo">
 张远教跳快乐再出发版爱你（热度：21766）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B7%E4%BA%BA%E6%98%AF%E6%9D%A5%E5%90%91%E5%89%8D%E5%86%B2%E8%BF%9B%E8%B4%A7%E7%9A%84%E5%90%97%23" target="weibo">
+贷人是来向前冲进货的吗（热度：16609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BB%9D%E9%85%8D%E7%9B%B4%E6%8B%8D%23" target="weibo">
+宋亚轩绝配直拍（热度：15607）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3%23" target="weibo">
+如何理解智者不入爱河（热度：11524）
 </a>
 </li>
 
