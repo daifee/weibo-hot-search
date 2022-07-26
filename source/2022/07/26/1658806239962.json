@@ -1,0 +1,410 @@
+{
+  "runTime": 1658806239962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8482251,
+        "num": 8482251,
+        "word": "樊振东被扣1400分被附0分",
+        "onboard_time": 1658799209,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2295377,
+        "num": 2295377,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15117,
+        "num": 2190299,
+        "word": "40秒沉浸式看问天出征",
+        "onboard_time": 1658735076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2095082,
+        "num": 2095082,
+        "word": "苹果应用商店被曝大量色情APP",
+        "onboard_time": 1658803950,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1110853,
+        "num": 1110853,
+        "word": "星汉灿烂排播",
+        "onboard_time": 1658793569,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 977905,
+        "num": 977905,
+        "word": "iPhone14或全系6G内存",
+        "onboard_time": 1658799093,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 749395,
+        "num": 749395,
+        "word": "王一博黄渤热烈对手戏",
+        "onboard_time": 1658804851,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739508,
+        "num": 739508,
+        "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
+        "onboard_time": 1658796751,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598100,
+        "num": 598100,
+        "word": "乐山2名儿童检出腺病毒",
+        "onboard_time": 1658797170,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559913,
+        "num": 559913,
+        "word": "男子误把祛黑头膏当面膜涂脸",
+        "onboard_time": 1658793688,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2219177,
+        "num": 541785,
+        "word": "肩膀内扣",
+        "onboard_time": 1658801971,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1037133,
+        "num": 516913,
+        "word": "福原爱发声明",
+        "onboard_time": 1658794589,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 473710,
+        "num": 473710,
+        "word": "辽大辅导员回应被指性骚扰学生",
+        "onboard_time": 1658794652,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 398604,
+        "num": 398604,
+        "word": "星汉灿烂",
+        "onboard_time": 1658798011,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395996,
+        "num": 395996,
+        "word": "何同学工作室回应",
+        "onboard_time": 1658793207,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387815,
+        "num": 387815,
+        "word": "苹果追加iPhone14零部件订单",
+        "onboard_time": 1658799868,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 367113,
+        "num": 367113,
+        "word": "这才是真正的自然饮品吧",
+        "onboard_time": 1658802632,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 366146,
+        "num": 366146,
+        "word": "店长回应华莱士汉堡吃到生肉",
+        "onboard_time": 1658798550,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359365,
+        "num": 359365,
+        "word": "女子穿高跟鞋踇外翻脚码飙升45",
+        "onboard_time": 1658793084,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351870,
+        "num": 351870,
+        "word": "油价迎三连跌",
+        "onboard_time": 1658798369,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 766347,
+        "num": 351410,
+        "word": "丈夫出轨14年赠情人379万",
+        "onboard_time": 1658759554,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353118,
+        "num": 349447,
+        "word": "芝士世界 草莓世界",
+        "onboard_time": 1658801790,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331837,
+        "num": 331837,
+        "word": "消防员抓捕黄鼠狼被臭屁熏吐",
+        "onboard_time": 1658797770,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318882,
+        "num": 318882,
+        "word": "要从十几岁闹到一万岁",
+        "onboard_time": 1658803292,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307974,
+        "num": 307974,
+        "word": "你是我的荣耀开播一周年",
+        "onboard_time": 1658805692,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303690,
+        "num": 303690,
+        "word": "敞门开空调拟被罚超5000元",
+        "onboard_time": 1658796272,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290641,
+        "num": 290641,
+        "word": "医保跨省直接结算范围拓展",
+        "onboard_time": 1658805632,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289074,
+        "num": 289074,
+        "word": "绿色的绿豆汤解暑效果更好",
+        "onboard_time": 1658802692,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288545,
+        "num": 288545,
+        "word": "中国基建又秀技",
+        "onboard_time": 1658805033,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 288189,
+        "num": 288189,
+        "word": "阿里张勇发布2022年致股东信",
+        "onboard_time": 1658802090,
+        "rank": 29,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 272936,
+        "num": 272936,
+        "word": "中国天眼已进入成果爆发期",
+        "onboard_time": 1658800828,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 272654,
+        "num": 272654,
+        "word": "星汉灿烂 月升沧海",
+        "onboard_time": 1658754518,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261502,
+        "num": 261502,
+        "word": "王嘉男说见到刘翔就想掉眼泪",
+        "onboard_time": 1658803411,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260821,
+        "num": 260821,
+        "word": "樊振东被扣1400分仍是世界第一",
+        "onboard_time": 1658805392,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 243387,
+        "num": 243387,
+        "word": "朴树难得契合的人",
+        "onboard_time": 1658805751,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235107,
+        "num": 235107,
+        "word": "山东新增本土确诊1例无症状27例",
+        "onboard_time": 1658800169,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216547,
+        "num": 216547,
+        "word": "男子用刚买的橙汁帮货车灭火",
+        "onboard_time": 1658782931,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214924,
+        "num": 214924,
+        "word": "法国酒水加块冰需单加14元",
+        "onboard_time": 1658801790,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 208762,
+        "num": 208762,
+        "word": "饿了么",
+        "onboard_time": 1658805093,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200491,
+        "num": 200491,
+        "word": "阿里申请香港纽约双重主要上市",
+        "onboard_time": 1658797232,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 198779,
+        "num": 198779,
+        "word": "140余名孩子上游泳课后高烧咳嗽",
+        "onboard_time": 1658792424,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197211,
+        "num": 197211,
+        "word": "四川增16例本土确诊",
+        "onboard_time": 1658801009,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184161,
+        "num": 184161,
+        "word": "河南启动婚俗改革",
+        "onboard_time": 1658764948,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180720,
+        "num": 180720,
+        "word": "谈恋爱 降智",
+        "onboard_time": 1658756854,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 173712,
+        "num": 173712,
+        "word": "一生行善的老人最后捐出了自己",
+        "onboard_time": 1658803112,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172902,
+        "num": 172902,
+        "word": "C罗返回曼彻斯特",
+        "onboard_time": 1658800289,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152882,
+        "num": 152882,
+        "word": "甘肃增37例确诊306例无症状",
+        "onboard_time": 1658799749,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221748,
+        "num": 152699,
+        "word": "王子文说做过最疯狂的事是上恋综",
+        "onboard_time": 1658806232,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152215,
+        "num": 152215,
+        "word": "房地产专家称坚决不能取消预售制",
+        "onboard_time": 1658770456,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144949,
+        "num": 144949,
+        "word": "吉克隽逸被综艺之神眷顾的瞬间",
+        "onboard_time": 1658803052,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
