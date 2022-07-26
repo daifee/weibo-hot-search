@@ -1,0 +1,410 @@
+{
+  "runTime": 1658841015428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2585080,
+        "num": 2585080,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1737966,
+        "num": 1737966,
+        "word": "武汉核酸",
+        "onboard_time": 1658833354,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90832,
+        "num": 1688736,
+        "word": "致敬炎炎夏日里的劳动者",
+        "onboard_time": 1658834316,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1681898,
+        "num": 1681898,
+        "word": "星汉灿烂28集预告",
+        "onboard_time": 1658839352,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1573815,
+        "num": 1573815,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160913,
+        "num": 1160913,
+        "word": "班主任回应学生暑假发自拍被处分",
+        "onboard_time": 1658835813,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1085899,
+        "num": 1085899,
+        "word": "中国女足获得东亚杯亚军",
+        "onboard_time": 1658838276,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930355,
+        "num": 930355,
+        "word": "狐妖小红娘月红篇演员阵容名单",
+        "onboard_time": 1658834316,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 838293,
+        "num": 838293,
+        "word": "校园贷",
+        "onboard_time": 1658834912,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761451,
+        "num": 761451,
+        "word": "南京Hero",
+        "onboard_time": 1658839954,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 886683,
+        "num": 753660,
+        "word": "凌不疑叫程少商我家新妇",
+        "onboard_time": 1658836774,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765188,
+        "num": 747614,
+        "word": "密室大逃脱4古宅惊魂上",
+        "onboard_time": 1658837914,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738347,
+        "num": 738347,
+        "word": "中国佛教协会发出通知",
+        "onboard_time": 1658839655,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632385,
+        "num": 632385,
+        "word": "林志颖第一阶段手术顺利",
+        "onboard_time": 1658833593,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630775,
+        "num": 630775,
+        "word": "赵立坚说请注意你的措辞",
+        "onboard_time": 1658831015,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 510415,
+        "num": 510415,
+        "word": "你吃过猪袜子米线吗",
+        "onboard_time": 1658838810,
+        "rank": 15,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 447909,
+        "num": 447909,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 430153,
+        "num": 430153,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404498,
+        "num": 404498,
+        "word": "央媒热评阿里双重主要上市",
+        "onboard_time": 1658834974,
+        "rank": 18,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 374817,
+        "num": 374817,
+        "word": "九尾的不知火舞",
+        "onboard_time": 1658839534,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 540050,
+        "num": 374538,
+        "word": "瑞达法考 时代少年团",
+        "onboard_time": 1658836591,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511906,
+        "num": 373540,
+        "word": "九岁男孩为长高炫牛奶到吐",
+        "onboard_time": 1658836475,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509290,
+        "num": 372629,
+        "word": "宁愿菡萏之花从未开过",
+        "onboard_time": 1658834670,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370962,
+        "num": 370962,
+        "word": "高福不再担任中国疾控中心主任",
+        "onboard_time": 1658836475,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348238,
+        "num": 348238,
+        "word": "二舅为什么突然火了",
+        "onboard_time": 1658838936,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 313620,
+        "num": 313620,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283290,
+        "num": 283290,
+        "word": "JDG对战V5",
+        "onboard_time": 1658839892,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274520,
+        "num": 274520,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262756,
+        "num": 262756,
+        "word": "汇丰回应不续签30岁未育女员工传言",
+        "onboard_time": 1658834434,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 225142,
+        "num": 225142,
+        "word": "校园贷鼻祖下场直播带货",
+        "onboard_time": 1658830535,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421216,
+        "num": 224327,
+        "word": "刘畊宏直播",
+        "onboard_time": 1658838873,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357537,
+        "num": 223069,
+        "word": "凌不疑程少商微博换情头",
+        "onboard_time": 1658830954,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357068,
+        "num": 220447,
+        "word": "杨紫颜淡往这跳",
+        "onboard_time": 1658837074,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341136,
+        "num": 219212,
+        "word": "少年派2嗑麻了",
+        "onboard_time": 1658835273,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218512,
+        "num": 218512,
+        "word": "为什么今年的夏天这么热",
+        "onboard_time": 1658834792,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222232,
+        "num": 217332,
+        "word": "二舅里值得回味的人生道理",
+        "onboard_time": 1658839472,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 208901,
+        "num": 208901,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199950,
+        "num": 199950,
+        "word": "43岁父亲和20岁儿子参加志愿转运",
+        "onboard_time": 1658840492,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199233,
+        "num": 199233,
+        "word": "阴阳师",
+        "onboard_time": 1658836654,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191254,
+        "num": 191254,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311377,
+        "num": 191202,
+        "word": "凌不疑带程少商参加楼垚婚宴",
+        "onboard_time": 1658836114,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245943,
+        "num": 191171,
+        "word": "颜淡应渊跳桥名场面终于来了",
+        "onboard_time": 1658838753,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191112,
+        "num": 191112,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187073,
+        "num": 187073,
+        "word": "周劼称父亲并非副局长",
+        "onboard_time": 1658833354,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185793,
+        "num": 185793,
+        "word": "王者荣耀",
+        "onboard_time": 1658834134,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176049,
+        "num": 176049,
+        "word": "中国女足vs日本女足",
+        "onboard_time": 1658828317,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168612,
+        "num": 168612,
+        "word": "江西省考",
+        "onboard_time": 1658833713,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161989,
+        "num": 161989,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161234,
+        "num": 161234,
+        "word": "不然澜五杀",
+        "onboard_time": 1658837797,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149156,
+        "num": 149156,
+        "word": "辽大骚扰学生辅导员被免职",
+        "onboard_time": 1658832573,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
