@@ -20,6 +20,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
+      - name: 环境参数
+      - run: |
+          date
+          echo ${{ github.event.schedule }}
       - run: npm install
       - name: 抓取数据
         run: node ./cli/spider.js
