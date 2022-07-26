@@ -1,0 +1,410 @@
+{
+  "runTime": 1658875147932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096761,
+        "num": 1096761,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932773,
+        "num": 932773,
+        "word": "李国庆曝董宇辉拉黑罗敏真正原因",
+        "onboard_time": 1658871852,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46679,
+        "num": 655281,
+        "word": "特警高燃夏训场面",
+        "onboard_time": 1658847574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525486,
+        "num": 525486,
+        "word": "女子穿马面裙进迪奥拍照被制止",
+        "onboard_time": 1658850334,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413832,
+        "num": 413832,
+        "word": "王力宏新冠确诊",
+        "onboard_time": 1658847574,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337713,
+        "num": 337713,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 293624,
+        "num": 293624,
+        "word": "应渊和沈眉庄的共同点",
+        "onboard_time": 1658860214,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 292120,
+        "num": 292120,
+        "word": "夫妻发现煤气泄露误操作被炸伤",
+        "onboard_time": 1658852308,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 273746,
+        "num": 273746,
+        "word": "为什么年轻人反感趣店模式",
+        "onboard_time": 1658844036,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 261477,
+        "num": 261477,
+        "word": "厦门一女子在花灯下跳芭蕾舞",
+        "onboard_time": 1658870412,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226315,
+        "num": 226315,
+        "word": "为趣店站过台的明星",
+        "onboard_time": 1658849257,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209121,
+        "num": 209121,
+        "word": "网友称在大连横山寺为关东军立牌位",
+        "onboard_time": 1658844755,
+        "rank": 11,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 172640,
+        "num": 172640,
+        "word": "俄罗斯将2024年退出国际空间站计划",
+        "onboard_time": 1658846917,
+        "rank": 12,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 170676,
+        "num": 170676,
+        "word": "武汉江夏区发现4例无症状",
+        "onboard_time": 1658848356,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164849,
+        "num": 164849,
+        "word": "微信安装包11年膨胀575倍",
+        "onboard_time": 1658846316,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 156371,
+        "word": "美宝莲将陆续关闭线下专柜",
+        "onboard_time": 1658848715,
+        "rank": 15,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 150399,
+        "num": 150399,
+        "word": "官方通报两岁女童排除性侵可能",
+        "onboard_time": 1658841695,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135695,
+        "num": 135695,
+        "word": "女子乘公交核酸过期拒下车",
+        "onboard_time": 1658859374,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127662,
+        "num": 127662,
+        "word": "班主任回应学生暑假发自拍被处分",
+        "onboard_time": 1658835813,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 123260,
+        "num": 123260,
+        "word": "星汉灿烂连播了",
+        "onboard_time": 1658841756,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111318,
+        "num": 111318,
+        "word": "中国佛教协会发出通知",
+        "onboard_time": 1658839655,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105590,
+        "num": 105590,
+        "word": "沉香如屑一集比一集虐",
+        "onboard_time": 1658859674,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104728,
+        "num": 104728,
+        "word": "30岁人大硕士为学医重新高考",
+        "onboard_time": 1658846857,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 104057,
+        "num": 104057,
+        "word": "二舅为什么突然火了",
+        "onboard_time": 1658838936,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 100730,
+        "num": 100730,
+        "word": "樊振东回应不参加WTT冠军赛",
+        "onboard_time": 1658854162,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95943,
+        "num": 95943,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 93041,
+        "num": 93041,
+        "word": "二舅残疾证办下来了",
+        "onboard_time": 1658842956,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86281,
+        "num": 86281,
+        "word": "如何理解智者不入爱河",
+        "onboard_time": 1658869569,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81315,
+        "num": 81315,
+        "word": "男子从桥上将10多辆共享单车扔进河中",
+        "onboard_time": 1658855780,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78118,
+        "num": 78118,
+        "word": "张艺兴影视综全面开花",
+        "onboard_time": 1658864232,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77327,
+        "num": 77327,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75977,
+        "num": 75977,
+        "word": "狐妖小红娘月红篇演员阵容名单",
+        "onboard_time": 1658834316,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75803,
+        "num": 75803,
+        "word": "校园贷",
+        "onboard_time": 1658834912,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72948,
+        "num": 72948,
+        "word": "你有精神内耗吗",
+        "onboard_time": 1658870891,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72462,
+        "num": 72462,
+        "word": "久哲 BP",
+        "onboard_time": 1658853565,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72002,
+        "num": 72002,
+        "word": "林志颖将进行颜面骨手术",
+        "onboard_time": 1658849677,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70615,
+        "num": 70615,
+        "word": "82岁爷爷生日孙子送上清华通知书",
+        "onboard_time": 1658867412,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 54529,
+        "num": 54529,
+        "word": "警方回应孝爱之家设战犯纪念馆",
+        "onboard_time": 1658849677,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53285,
+        "num": 53285,
+        "word": "猫猫可以治愈一切",
+        "onboard_time": 1658846196,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 50681,
+        "num": 50681,
+        "word": "央媒热评阿里双重主要上市",
+        "onboard_time": 1658834974,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 48490,
+        "num": 48490,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 46435,
+        "num": 46435,
+        "word": "应渊拒绝颜淡告白",
+        "onboard_time": 1658867112,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45623,
+        "num": 45623,
+        "word": "二舅作者回应是否将故事拍成电影",
+        "onboard_time": 1658847396,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44749,
+        "num": 44749,
+        "word": "这是月升沧海第一集预告吧",
+        "onboard_time": 1658867412,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43325,
+        "num": 43325,
+        "word": "南京Hero",
+        "onboard_time": 1658839954,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42475,
+        "num": 42475,
+        "word": "中国女足获得东亚杯亚军",
+        "onboard_time": 1658838276,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39494,
+        "num": 39494,
+        "word": "苏醒被陆虎安利哭了",
+        "onboard_time": 1658846076,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38415,
+        "num": 38415,
+        "word": "背书快的方法找到了",
+        "onboard_time": 1658846076,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33440,
+        "num": 33440,
+        "word": "林妙妙钱三一约会带娃",
+        "onboard_time": 1658859196,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31675,
+        "num": 31675,
+        "word": "蔡徐坤登顶微博综艺视频榜",
+        "onboard_time": 1658862912,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
