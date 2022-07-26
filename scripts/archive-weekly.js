@@ -3,9 +3,11 @@
  */
 const path = require('path');
 const fs = require('fs');
+const ejs = require('ejs');
 const dailyArchive = require('./archive-daily');
 const utils = require('./utils');
-const { ARCHIVE_WEEKLY_PATH } = require('./config');
+
+const { ARCHIVE_WEEKLY_PATH, TEMPLATES_PATH } = require('./config');
 
 function setMonday(date) {
   while (date.getDay() !== 1) {
@@ -64,7 +66,34 @@ function archiveJSON(runTime, data = {}) {
   utils.archiveJSON(filePath, data);
 }
 
-function run(timestamp) {
+function renderMD(data) {
+  return new Promise((resolve, reject) => {
+    const tplPath = path.resolve(TEMPLATES_PATH, 'archive-weekly.md.ejs');
+    ejs.renderFile(tplPath, {
+      ...data,
+      date: utils.formatDate(data.startTime, 1),
+      startTime: utils.formatDate(data.startTime, 2),
+      endTime: utils.formatDate(data.endTime, 2),
+    }, {
+      rmWhitespace: true,
+      root: TEMPLATES_PATH,
+    }, (error, string) => {
+      if (error) {
+        reject(error);
+      } else {
+        resolve(string);
+      }
+    });
+  });
+}
+
+function archiveMD(runTime, content) {
+  const filePath = getFilePath(runTime, 'md');
+
+  utils.archiveMD(filePath, content);
+}
+
+async function run(timestamp) {
   const runTime = timestamp || Date.now();
 
   // 获取本周7天数据文件
@@ -77,7 +106,10 @@ function run(timestamp) {
   archiveJSON(runTime, data);
 
   // 渲染 MD
+  const md = await renderMD(data);
+
   // 归档 MD
+  archiveMD(runTime, md);
 }
 
 module.exports = {
@@ -87,5 +119,8 @@ module.exports = {
   getArchiveDir,
   getFilePath,
   archiveJSON,
+
+  renderMD,
+  archiveMD,
   run,
 };

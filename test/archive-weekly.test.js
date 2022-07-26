@@ -260,7 +260,55 @@ describe('archiveJSON(runTime, data)', () => {
   });
 });
 
-describe('archiveJSON(runTime)', () => {
+describe('renderMD', () => {
+  test('正确用法', async () => {
+    const content = await archiveWeekly.renderMD({
+      startTime: 1658132439043,
+      endTime: 1658132439043,
+      band_list: [
+        {
+          raw_hot: 28626840,
+          num: 28626840,
+          word: '易烊千玺发声',
+          onboard_time: 1658024438,
+          rank: 0,
+        },
+        {
+          raw_hot: 11057332,
+          num: 1338378,
+          word: '易烊千玺决定放弃⼊职国话',
+          onboard_time: 1658025580,
+          rank: 3,
+        },
+      ],
+      hotgov_list: [
+        {
+          word: '#我国成功发射四维0304两颗卫星#',
+        },
+        {
+          word: '#制造业的核心就是创新#',
+        },
+      ],
+    });
+
+    expect(content).toBeDefined();
+    expect(typeof content).toEqual('string');
+  });
+});
+
+describe('archiveMD', () => {
+  test('正确用法', () => {
+    const timestamp = 1658132439043;
+    const content = 'daifee';
+    archiveWeekly.archiveMD(timestamp, content);
+
+    const filePath = archiveWeekly.getFilePath(timestamp, 'md');
+    const received = fs.readFileSync(filePath, 'utf-8');
+    expect(received).toEqual(content);
+  });
+});
+
+describe('run(runTime)', () => {
   test('2022/7/18', async () => {
     fs.cpSync('./test/data/20', './temp', { recursive: true });
 
@@ -269,8 +317,13 @@ describe('archiveJSON(runTime)', () => {
     await archiveWeekly.run(timestamp);
 
     const jsonFilePath = archiveWeekly.getFilePath(timestamp, 'json');
+    const mdFilePath = archiveWeekly.getFilePath(timestamp, 'md');
 
     const json = utils.readJSON(jsonFilePath);
     expect(json).toBeDefined();
+
+    expect(
+      fs.existsSync(mdFilePath),
+    ).toEqual(true);
   });
 });

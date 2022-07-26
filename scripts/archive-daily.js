@@ -47,7 +47,7 @@ function archiveJSON(runTime, data) {
 
 function renderMD(data) {
   return new Promise((resolve, reject) => {
-    const tplPath = path.resolve(__dirname, './templates/archive-daily.md.ejs');
+    const tplPath = path.resolve(TEMPLATES_PATH, 'archive-daily.md.ejs');
     ejs.renderFile(tplPath, {
       ...data,
       date: utils.formatDate(data.startTime, 1),
