@@ -1,0 +1,410 @@
+{
+  "runTime": 1658834306968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4125274,
+        "num": 4125274,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1967366,
+        "num": 1967366,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71167,
+        "num": 1585283,
+        "word": "2022中国有约",
+        "onboard_time": 1658830776,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1289053,
+        "num": 1289053,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1270564,
+        "num": 1270564,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079982,
+        "num": 1079982,
+        "word": "赵立坚说请注意你的措辞",
+        "onboard_time": 1658831015,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1066151,
+        "num": 1066151,
+        "word": "凌不疑程少商微博换情头",
+        "onboard_time": 1658830954,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1024624,
+        "num": 1024624,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 861471,
+        "num": 861471,
+        "word": "武汉核酸",
+        "onboard_time": 1658833354,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774261,
+        "num": 774261,
+        "word": "人民网评国企员工炫耀一事",
+        "onboard_time": 1658826816,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826004,
+        "num": 761765,
+        "word": "林志颖第一阶段手术顺利",
+        "onboard_time": 1658833593,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747578,
+        "num": 747578,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692693,
+        "num": 692693,
+        "word": "中国女足vs日本女足",
+        "onboard_time": 1658828317,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677088,
+        "num": 677088,
+        "word": "时代少年团花名被教育机构使用",
+        "onboard_time": 1658829637,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626093,
+        "num": 626093,
+        "word": "校园贷鼻祖下场直播带货",
+        "onboard_time": 1658830535,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605020,
+        "num": 605020,
+        "word": "杨紫新剧又来渡忘川了",
+        "onboard_time": 1658832034,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512831,
+        "num": 512831,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469433,
+        "num": 469433,
+        "word": "江西省考",
+        "onboard_time": 1658833713,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 456450,
+        "num": 456450,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429860,
+        "num": 429860,
+        "word": "傅首尔致歉",
+        "onboard_time": 1658813255,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 429580,
+        "num": 429580,
+        "word": "幸福到万家全端播放市占率断层第一",
+        "onboard_time": 1658832095,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414685,
+        "num": 414685,
+        "word": "王一博说黄渤发量不得转秃了",
+        "onboard_time": 1658828436,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375912,
+        "num": 375912,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371431,
+        "num": 371431,
+        "word": "周劼",
+        "onboard_time": 1658825134,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370735,
+        "num": 370735,
+        "word": "刘诗诗眼神梦回红衣龙葵",
+        "onboard_time": 1658831916,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355006,
+        "num": 355006,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352273,
+        "num": 352273,
+        "word": "国防部回应佩洛西计划访台",
+        "onboard_time": 1658831916,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 350789,
+        "num": 350789,
+        "word": "笔试缺考者入围教师招聘面试",
+        "onboard_time": 1658818174,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 349117,
+        "num": 349117,
+        "word": "罗敏",
+        "onboard_time": 1658824896,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314455,
+        "num": 314455,
+        "word": "辽大骚扰学生辅导员被免职",
+        "onboard_time": 1658832573,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 365676,
+        "num": 307193,
+        "word": "石玺彤落水",
+        "onboard_time": 1658833713,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361874,
+        "num": 302285,
+        "word": "赵露思星汉灿烂打油诗",
+        "onboard_time": 1658832756,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293800,
+        "num": 293800,
+        "word": "Doggie 冰箱",
+        "onboard_time": 1658822555,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292883,
+        "num": 292883,
+        "word": "深圳DYG",
+        "onboard_time": 1658833834,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291176,
+        "num": 291176,
+        "word": "趣店能否凭预制菜东山再起",
+        "onboard_time": 1658833650,
+        "rank": 34,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 288180,
+        "num": 288180,
+        "word": "男子将亡妻照片设成壁纸对手机发呆",
+        "onboard_time": 1658812356,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270864,
+        "num": 270864,
+        "word": "孙杨张豆豆牵手回老家",
+        "onboard_time": 1658811458,
+        "rank": 36,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 261192,
+        "num": 261192,
+        "word": "广西玉林一部门称优先招聘已购房毕业生",
+        "onboard_time": 1658830236,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244294,
+        "num": 244294,
+        "word": "新疆网红景点用直升机清运垃圾",
+        "onboard_time": 1658828735,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241905,
+        "num": 241905,
+        "word": "王者荣耀",
+        "onboard_time": 1658834134,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241180,
+        "num": 241180,
+        "word": "中餐厅6官宣定档",
+        "onboard_time": 1658819074,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239367,
+        "num": 239367,
+        "word": "这才是大多数人的生活吧",
+        "onboard_time": 1658829936,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230939,
+        "num": 230939,
+        "word": "吴磊作星汉灿烂打油诗",
+        "onboard_time": 1658828556,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228031,
+        "num": 228031,
+        "word": "周劼称父亲并非副局长",
+        "onboard_time": 1658833354,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214153,
+        "num": 214153,
+        "word": "江西国控正在对周劼作进一步核查",
+        "onboard_time": 1658828317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191747,
+        "num": 191747,
+        "word": "世界上第一快乐的人",
+        "onboard_time": 1658821172,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190766,
+        "num": 190766,
+        "word": "成都疫情防控",
+        "onboard_time": 1658825796,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185778,
+        "num": 185778,
+        "word": "老人拒买产品愿给小费遭导游辱骂",
+        "onboard_time": 1658821533,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173280,
+        "num": 173280,
+        "word": "LNG对战EDG",
+        "onboard_time": 1658829812,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166185,
+        "num": 166185,
+        "word": "Uzi明凯成为LPL公益爱心大使",
+        "onboard_time": 1658824175,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬炎炎夏日里的劳动者#"
+    }
+  }
+}
