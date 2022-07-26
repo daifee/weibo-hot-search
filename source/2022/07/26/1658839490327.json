@@ -1,0 +1,410 @@
+{
+  "runTime": 1658839490327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2751213,
+        "num": 2751213,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2273354,
+        "num": 2273354,
+        "word": "武汉核酸",
+        "onboard_time": 1658833354,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86196,
+        "num": 1801615,
+        "word": "致敬炎炎夏日里的劳动者",
+        "onboard_time": 1658834316,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1446504,
+        "num": 1446504,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231093,
+        "num": 1231093,
+        "word": "狐妖小红娘月红篇演员阵容名单",
+        "onboard_time": 1658834316,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935756,
+        "num": 935756,
+        "word": "校园贷",
+        "onboard_time": 1658834912,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881488,
+        "num": 881488,
+        "word": "凌不疑叫程少商我家新妇",
+        "onboard_time": 1658836774,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 859608,
+        "num": 859608,
+        "word": "班主任回应学生暑假发自拍被处分",
+        "onboard_time": 1658835813,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 815226,
+        "num": 815226,
+        "word": "中国女足获得东亚杯亚军",
+        "onboard_time": 1658838276,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699476,
+        "num": 699476,
+        "word": "赵立坚说请注意你的措辞",
+        "onboard_time": 1658831015,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973689,
+        "num": 688030,
+        "word": "林志颖第一阶段手术顺利",
+        "onboard_time": 1658833593,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660847,
+        "num": 660847,
+        "word": "宁愿菡萏之花从未开过",
+        "onboard_time": 1658834670,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622423,
+        "num": 622423,
+        "word": "中国女足vs日本女足",
+        "onboard_time": 1658828317,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578227,
+        "num": 578227,
+        "word": "密室大逃脱4古宅惊魂上",
+        "onboard_time": 1658837914,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550788,
+        "num": 550788,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 508289,
+        "num": 508289,
+        "word": "央媒热评阿里双重主要上市",
+        "onboard_time": 1658834974,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 492884,
+        "num": 492884,
+        "word": "猫主怕被挠给猫穿鞋致其四肢腐烂",
+        "onboard_time": 1658824834,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388116,
+        "num": 388116,
+        "word": "高福不再担任中国疾控中心主任",
+        "onboard_time": 1658836475,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375091,
+        "num": 375091,
+        "word": "趣店",
+        "onboard_time": 1658813195,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327041,
+        "num": 327041,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 714375,
+        "num": 327001,
+        "word": "星汉灿烂28集预告",
+        "onboard_time": 1658839352,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535794,
+        "num": 326601,
+        "word": "瑞达法考 时代少年团",
+        "onboard_time": 1658836591,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526797,
+        "num": 326541,
+        "word": "凌不疑程少商微博换情头",
+        "onboard_time": 1658830954,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325227,
+        "num": 325227,
+        "word": "汇丰回应不续签30岁未育女员工传言",
+        "onboard_time": 1658834434,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 317498,
+        "num": 317498,
+        "word": "不然澜五杀",
+        "onboard_time": 1658837797,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284151,
+        "num": 284151,
+        "word": "校园贷鼻祖下场直播带货",
+        "onboard_time": 1658830535,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277803,
+        "num": 277803,
+        "word": "王者荣耀",
+        "onboard_time": 1658834134,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276712,
+        "num": 276712,
+        "word": "你吃过猪袜子米线吗",
+        "onboard_time": 1658838810,
+        "rank": 27,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 273398,
+        "num": 273398,
+        "word": "男子当街拖拽女子塞进出租车",
+        "onboard_time": 1658817334,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250180,
+        "num": 250180,
+        "word": "周劼称父亲并非副局长",
+        "onboard_time": 1658833354,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498350,
+        "num": 250031,
+        "word": "九岁男孩为长高炫牛奶到吐",
+        "onboard_time": 1658836475,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420838,
+        "num": 249809,
+        "word": "凌不疑带程少商参加楼垚婚宴",
+        "onboard_time": 1658836114,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377887,
+        "num": 249665,
+        "word": "杨紫颜淡往这跳",
+        "onboard_time": 1658837074,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335906,
+        "num": 249503,
+        "word": "少年派2嗑麻了",
+        "onboard_time": 1658835273,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330696,
+        "num": 249319,
+        "word": "颜淡应渊跳桥名场面终于来了",
+        "onboard_time": 1658838753,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249170,
+        "num": 249170,
+        "word": "女足",
+        "onboard_time": 1658839233,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232951,
+        "num": 232951,
+        "word": "阴阳师",
+        "onboard_time": 1658836654,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226351,
+        "num": 226351,
+        "word": "江宏杰回应福原爱",
+        "onboard_time": 1658821474,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223295,
+        "num": 223295,
+        "word": "为什么今年的夏天这么热",
+        "onboard_time": 1658834792,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216103,
+        "num": 216103,
+        "word": "孝爱之家网回应为战犯设纪念堂",
+        "onboard_time": 1658837433,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266315,
+        "num": 214925,
+        "word": "刘畊宏直播",
+        "onboard_time": 1658838873,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210775,
+        "num": 210775,
+        "word": "二舅为什么突然火了",
+        "onboard_time": 1658838936,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 204647,
+        "num": 204647,
+        "word": "家属辟谣小伙喝奶茶卡喉身亡",
+        "onboard_time": 1658818353,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202003,
+        "num": 202003,
+        "word": "二舅治好了我的精神内耗",
+        "onboard_time": 1658801069,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195415,
+        "num": 195415,
+        "word": "辽大骚扰学生辅导员被免职",
+        "onboard_time": 1658832573,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 188023,
+        "num": 188023,
+        "word": "人民网评国企员工炫耀一事",
+        "onboard_time": 1658826816,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168311,
+        "num": 168311,
+        "word": "国防部回应佩洛西计划访台",
+        "onboard_time": 1658831916,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 222634,
+        "num": 167850,
+        "word": "二舅里值得回味的人生道理",
+        "onboard_time": 1658839472,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 164928,
+        "num": 164928,
+        "word": "江西省考",
+        "onboard_time": 1658833713,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153392,
+        "num": 153392,
+        "word": "女足 裁判",
+        "onboard_time": 1658839472,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进华龙一号#"
+    }
+  }
+}
