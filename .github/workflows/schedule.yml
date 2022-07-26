@@ -23,7 +23,6 @@ jobs:
       - name: 环境参数
        run: |
           date
-          echo ${{ github.event.schedule }}
       - run: npm install
       - name: 抓取数据
         run: node ./cli/spider.js
