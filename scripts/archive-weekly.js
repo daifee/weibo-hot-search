@@ -49,6 +49,7 @@ function getArchiveDir(runTime) {
 }
 
 // 每周周一
+// ARCHIVE_MONTHLY_PATH/2022/07-12.json
 function getFilePath(runTime, ext) {
   const dir = getArchiveDir(runTime);
   const date = new Date(runTime);
