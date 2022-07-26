@@ -1,0 +1,410 @@
+{
+  "runTime": 1658871354150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 331204,
+        "num": 331204,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140042,
+        "num": 140042,
+        "word": "王力宏新冠确诊",
+        "onboard_time": 1658847574,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14572,
+        "num": 125778,
+        "word": "特警高燃夏训场面",
+        "onboard_time": 1658847574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168392,
+        "num": 123303,
+        "word": "女子穿马面裙进迪奥拍照被制止",
+        "onboard_time": 1658850334,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117993,
+        "num": 117993,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 103901,
+        "num": 103901,
+        "word": "美宝莲将陆续关闭线下专柜",
+        "onboard_time": 1658848715,
+        "rank": 5,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 91944,
+        "num": 91944,
+        "word": "为什么年轻人反感趣店模式",
+        "onboard_time": 1658844036,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 84447,
+        "num": 84447,
+        "word": "夫妻发现煤气泄露误操作被炸伤",
+        "onboard_time": 1658852308,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 83674,
+        "num": 83674,
+        "word": "应渊和沈眉庄的共同点",
+        "onboard_time": 1658860214,
+        "rank": 8,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 79147,
+        "num": 79147,
+        "word": "官方通报两岁女童排除性侵可能",
+        "onboard_time": 1658841695,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60935,
+        "num": 60935,
+        "word": "班主任回应学生暑假发自拍被处分",
+        "onboard_time": 1658835813,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 56632,
+        "num": 56632,
+        "word": "网友称在大连横山寺为关东军立牌位",
+        "onboard_time": 1658844755,
+        "rank": 11,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 51468,
+        "num": 51468,
+        "word": "为趣店站过台的明星",
+        "onboard_time": 1658849257,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47362,
+        "num": 47362,
+        "word": "俄罗斯将2024年退出国际空间站计划",
+        "onboard_time": 1658846917,
+        "rank": 13,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 45071,
+        "num": 45071,
+        "word": "二舅残疾证办下来了",
+        "onboard_time": 1658842956,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44318,
+        "num": 44318,
+        "word": "中国佛教协会发出通知",
+        "onboard_time": 1658839655,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43168,
+        "num": 43168,
+        "word": "二舅为什么突然火了",
+        "onboard_time": 1658838936,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 42572,
+        "num": 42572,
+        "word": "星汉灿烂连播了",
+        "onboard_time": 1658841756,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42306,
+        "num": 42306,
+        "word": "女子乘公交核酸过期拒下车",
+        "onboard_time": 1658859374,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39998,
+        "num": 39998,
+        "word": "微信安装包11年膨胀575倍",
+        "onboard_time": 1658846316,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 39700,
+        "num": 39700,
+        "word": "周劼回应炫富",
+        "onboard_time": 1658832274,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37257,
+        "num": 37257,
+        "word": "河南女孩被北大录取本硕博连读",
+        "onboard_time": 1658831673,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 36470,
+        "num": 36470,
+        "word": "校园贷",
+        "onboard_time": 1658834912,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35966,
+        "num": 35966,
+        "word": "武汉江夏区发现4例无症状",
+        "onboard_time": 1658848356,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35635,
+        "num": 35635,
+        "word": "男子从桥上将10多辆共享单车扔进河中",
+        "onboard_time": 1658855780,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35622,
+        "num": 35622,
+        "word": "沉香如屑一集比一集虐",
+        "onboard_time": 1658859674,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34163,
+        "num": 34163,
+        "word": "沙一汀说漏嘴向前冲8月3日播",
+        "onboard_time": 1658865671,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32634,
+        "num": 32634,
+        "word": "樊振东回应不参加WTT冠军赛",
+        "onboard_time": 1658854162,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31801,
+        "num": 31801,
+        "word": "30岁人大硕士为学医重新高考",
+        "onboard_time": 1658846857,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 31413,
+        "num": 31413,
+        "word": "张艺兴影视综全面开花",
+        "onboard_time": 1658864232,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28990,
+        "num": 28990,
+        "word": "久哲 BP",
+        "onboard_time": 1658853565,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27433,
+        "num": 27433,
+        "word": "狐妖小红娘月红篇演员阵容名单",
+        "onboard_time": 1658834316,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27011,
+        "num": 27011,
+        "word": "猫猫可以治愈一切",
+        "onboard_time": 1658846196,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 25904,
+        "num": 25904,
+        "word": "82岁爷爷生日孙子送上清华通知书",
+        "onboard_time": 1658867412,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 22518,
+        "num": 22518,
+        "word": "特斯拉将配免费卡拉ok程序",
+        "onboard_time": 1658828256,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22319,
+        "num": 22319,
+        "word": "警方回应孝爱之家设战犯纪念馆",
+        "onboard_time": 1658849677,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21417,
+        "num": 21417,
+        "word": "二舅作者回应是否将故事拍成电影",
+        "onboard_time": 1658847396,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20482,
+        "num": 20482,
+        "word": "苏醒被陆虎安利哭了",
+        "onboard_time": 1658846076,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20387,
+        "num": 20387,
+        "word": "南京Hero",
+        "onboard_time": 1658839954,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19769,
+        "num": 19769,
+        "word": "林志颖将进行颜面骨手术",
+        "onboard_time": 1658849677,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19536,
+        "num": 19536,
+        "word": "中国女足获得东亚杯亚军",
+        "onboard_time": 1658838276,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19457,
+        "num": 19457,
+        "word": "说唱歌手kenrobb演出撒钱",
+        "onboard_time": 1658861113,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 17229,
+        "word": "背书快的方法找到了",
+        "onboard_time": 1658846076,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14875,
+        "num": 14875,
+        "word": "央媒热评阿里双重主要上市",
+        "onboard_time": 1658834974,
+        "rank": 43,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 14667,
+        "num": 14667,
+        "word": "宋亚轩绝配直拍",
+        "onboard_time": 1658868070,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14172,
+        "num": 14172,
+        "word": "厦门一女子在花灯下跳芭蕾舞",
+        "onboard_time": 1658870412,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13332,
+        "num": 13332,
+        "word": "贷人是来向前冲进货的吗",
+        "onboard_time": 1658868310,
+        "rank": 46,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 13095,
+        "num": 13095,
+        "word": "应渊拒绝颜淡告白",
+        "onboard_time": 1658867112,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11206,
+        "num": 11206,
+        "word": "你有精神内耗吗",
+        "onboard_time": 1658870891,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10965,
+        "num": 10965,
+        "word": "说到做到的爱情真的好浪漫",
+        "onboard_time": 1658841993,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
