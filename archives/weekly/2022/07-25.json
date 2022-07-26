@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658850239823,
+  "endTime": 1658856265934,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -169,6 +169,14 @@
       "onboard_time": 1658708431,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2873879,
+      "num": 2873879,
+      "word": "二舅",
+      "onboard_time": 1658848776,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2822907,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1594551,
+      "num": 1594551,
+      "word": "女子穿马面裙进迪奥拍照被制止",
+      "onboard_time": 1658850334,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1544016,
       "num": 613405,
       "word": "李马克确诊新冠",
@@ -505,14 +521,6 @@
       "onboard_time": 1658705003,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1541223,
-      "num": 1541223,
-      "word": "二舅",
-      "onboard_time": 1658848776,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1537992,
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 888543,
+      "num": 888543,
+      "word": "美宝莲将陆续关闭线下专柜",
+      "onboard_time": 1658848715,
+      "rank": 43,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 886683,
       "num": 881488,
       "word": "凌不疑叫程少商我家新妇",
@@ -1371,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 659163,
+      "num": 615743,
+      "word": "林志颖将进行颜面骨手术",
+      "onboard_time": 1658849677,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654684,
       "num": 654684,
       "word": "BLACKPINK开始新歌MV拍摄",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1658838873,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 561527,
-      "num": 561527,
-      "word": "美宝莲将陆续关闭线下专柜",
-      "onboard_time": 1658848715,
-      "rank": 43,
-      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 555026,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1658729853,
       "rank": 16,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 473704,
+      "num": 473704,
+      "word": "夫妻发现煤气泄露误操作被炸伤",
+      "onboard_time": 1658852308,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 470089,
@@ -2531,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387403,
+      "num": 387403,
+      "word": "为趣店站过台的明星",
+      "onboard_time": 1658849257,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382903,
       "num": 382903,
       "word": "四川新增34例本土确诊",
@@ -2625,14 +2657,6 @@
       "onboard_time": 1658672616,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 367964,
-      "num": 367964,
-      "word": "为趣店站过台的明星",
-      "onboard_time": 1658849257,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 361874,
@@ -3027,14 +3051,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 323690,
-      "num": 323690,
-      "word": "林志颖将进行颜面骨手术",
-      "onboard_time": 1658849677,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322759,
       "num": 322759,
       "word": "周深给歌迷唱深深谢谢你",
@@ -3097,6 +3113,14 @@
       "onboard_time": 1658803292,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 318822,
+      "num": 318822,
+      "word": "久哲 BP",
+      "onboard_time": 1658853565,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 318306,
@@ -3731,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265264,
+      "num": 265264,
+      "word": "2022KPL夏季赛",
+      "onboard_time": 1658852669,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265220,
       "num": 265220,
       "word": "香港国语配音演员冯雪锐去世",
@@ -4091,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231669,
+      "num": 231669,
+      "word": "凌不疑情话",
+      "onboard_time": 1658850933,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231176,
       "num": 231176,
       "word": "颜淡应渊婚后生活好甜",
@@ -4291,12 +4331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218391,
+      "num": 218391,
+      "word": "警方回应孝爱之家设战犯纪念馆",
+      "onboard_time": 1658849677,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217108,
       "num": 217108,
       "word": "戏剧演员40度高温中暑坚持表演",
       "onboard_time": 1658738195,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216559,
+      "num": 216559,
+      "word": "成毅说应渊真是疯了",
+      "onboard_time": 1658850813,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 216103,
@@ -4345,6 +4401,14 @@
       "onboard_time": 1658825015,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213215,
+      "num": 213215,
+      "word": "樊振东回应不参加WTT冠军赛",
+      "onboard_time": 1658854162,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 212830,
@@ -4675,6 +4739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165750,
+      "num": 165750,
+      "word": "颜淡走进夜忘川",
+      "onboard_time": 1658852251,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164409,
       "num": 2048243,
       "word": "问天实验舱长啥样",
@@ -4721,14 +4793,6 @@
       "onboard_time": 1658706266,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159230,
-      "num": 159230,
-      "word": "警方回应孝爱之家设战犯纪念馆",
-      "onboard_time": 1658849677,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157196,
@@ -4955,6 +5019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100761,
+      "num": 100761,
+      "word": "校园贷危害有多大",
+      "onboard_time": 1658853025,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 100162,
       "num": 100162,
       "word": "邓紫棋孙晨竣合照",
@@ -5011,12 +5083,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71396,
+      "num": 70565,
+      "word": "凌不疑评价袁慎小肚鸡肠",
+      "onboard_time": 1658856079,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71167,
       "num": 1955272,
       "word": "2022中国有约",
       "onboard_time": 1658830776,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 56282,
+      "num": 56282,
+      "word": "男子从桥上将10多辆共享单车扔进河中",
+      "onboard_time": 1658855780,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55902,
