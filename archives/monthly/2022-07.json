@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1658957758634,
+  "endTime": 1658961607054,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -7422,6 +7422,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641457,
+      "num": 641457,
+      "word": "四川枪击案搜捕民兵发声",
+      "onboard_time": 1658941283,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641357,
       "num": 641357,
       "word": "徐冬冬一句没提余罪句句都在余罪",
@@ -7467,14 +7475,6 @@
       "word": "绿豆汤解暑但并非人人适宜",
       "onboard_time": 1658729973,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 638120,
-      "num": 638120,
-      "word": "四川枪击案搜捕民兵发声",
-      "onboard_time": 1658941283,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -10324,6 +10324,14 @@
       "onboard_time": 1658930497,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469509,
+      "num": 256724,
+      "word": "迪丽热巴刘宇宁侧颜路透",
+      "onboard_time": 1658958312,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 469459,
@@ -18461,6 +18469,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248605,
+      "num": 150178,
+      "word": "部分iPhone14镜头出现问题",
+      "onboard_time": 1658957470,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 248405,
       "num": 248405,
       "word": "大暑",
@@ -24135,8 +24151,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 82614,
-      "num": 82614,
+      "raw_hot": 82706,
+      "num": 82706,
       "word": "美联储大概率加息75个基点",
       "onboard_time": 1658945535,
       "rank": 32,
@@ -24233,6 +24249,14 @@
       "word": "我真抢到了1分钱酸菜鱼",
       "onboard_time": 1658041229,
       "rank": 14
+    },
+    {
+      "raw_hot": 75838,
+      "num": 75838,
+      "word": "真的会担心0713的精神状态",
+      "onboard_time": 1658957351,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 75091,
@@ -24365,14 +24389,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57455,
-      "num": 48747,
-      "word": "真的会担心0713的精神状态",
-      "onboard_time": 1658957351,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55902,
       "num": 55902,
       "word": "林妙妙被前男友骚扰",
@@ -24451,6 +24467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48125,
+      "num": 48125,
+      "word": "957 WE",
+      "onboard_time": 1658955791,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46435,
       "num": 46435,
       "word": "应渊拒绝颜淡告白",
@@ -24474,8 +24498,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 42681,
-      "num": 42681,
+      "raw_hot": 43715,
+      "num": 43715,
       "word": "从事服务工作遇到过什么奇葩事",
       "onboard_time": 1658953092,
       "rank": 48,
@@ -24559,14 +24583,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28685,
-      "num": 28685,
-      "word": "957 WE",
-      "onboard_time": 1658955791,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 27514,
       "num": 21392,
       "word": "没有人能拒绝一个外星人朋友",
@@ -24630,8 +24646,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19121,
-      "num": 19121,
+      "raw_hot": 21241,
+      "num": 21241,
       "word": "如何评价HarmonyOS3",
       "onboard_time": 1658953691,
       "rank": 49,
@@ -24700,14 +24716,6 @@
       "onboard_time": 1658521932,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 14603,
-      "num": 14603,
-      "word": "部分iPhone14镜头出现问题",
-      "onboard_time": 1658957470,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 12863,

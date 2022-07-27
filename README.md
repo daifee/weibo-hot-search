@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/07/28 00:33:18 ~ 2022/07/28 05:35:58
+本榜单时间：2022/07/28 00:33:18 ~ 2022/07/28 06:40:07
 </p>
 </blockquote>
 <p>每小时抓取一次数据，按天<a href="https://github.com/daifee/weibo-hot-search/tree/main/archives/daily">归档</a>。</p>
@@ -62,7 +62,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9E%AA%E5%87%BB%E6%A1%88%E6%90%9C%E6%8D%95%E6%B0%91%E5%85%B5%E5%8F%91%E5%A3%B0%23" target="weibo">
-四川枪击案搜捕民兵发声（热度：638120）
+四川枪击案搜捕民兵发声（热度：641457）
 </a>
 </li>
 
@@ -87,6 +87,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B4%E6%80%A7%23" target="weibo">
 美国总统拜登新冠检测呈阴性（热度：476255）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%98%E5%AE%87%E5%AE%81%E4%BE%A7%E9%A2%9C%E8%B7%AF%E9%80%8F%23" target="weibo">
+迪丽热巴刘宇宁侧颜路透（热度：469509）
 </a>
 </li>
 
@@ -153,6 +159,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E8%88%85%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%23" target="weibo">
 二舅作者回应被指抄袭（热度：254955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86iPhone14%E9%95%9C%E5%A4%B4%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%23" target="weibo">
+部分iPhone14镜头出现问题（热度：248605）
 </a>
 </li>
 
@@ -314,7 +326,7 @@ TheShy未准时到达被处罚（热度：117157）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8A%A0%E6%81%AF75%E4%B8%AA%E5%9F%BA%E7%82%B9%23" target="weibo">
-美联储大概率加息75个基点（热度：82614）
+美联储大概率加息75个基点（热度：82706）
 </a>
 </li>
 
@@ -333,6 +345,12 @@ TheShy未准时到达被处罚（热度：117157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%A4%9A%E5%9C%B0%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E5%B8%B8%E6%80%81%E5%8C%96%E7%AD%9B%E6%9F%A5%23" target="weibo">
 河北多地以家庭为单位常态化筛查（热度：77806）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8B%85%E5%BF%830713%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
+真的会担心0713的精神状态（热度：75838）
 </a>
 </li>
 
@@ -367,20 +385,14 @@ TheShy未准时到达被处罚（热度：117157）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8B%85%E5%BF%830713%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
-真的会担心0713的精神状态（热度：57455）
+<a href="https://s.weibo.com/weibo?q=%23957%20WE%23" target="weibo">
+957 WE（热度：48125）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BA%8B%E6%9C%8D%E5%8A%A1%E5%B7%A5%E4%BD%9C%E9%81%87%E5%88%B0%E8%BF%87%E4%BB%80%E4%B9%88%E5%A5%87%E8%91%A9%E4%BA%8B%23" target="weibo">
-从事服务工作遇到过什么奇葩事（热度：42681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23957%20WE%23" target="weibo">
-957 WE（热度：28685）
+从事服务工作遇到过什么奇葩事（热度：43715）
 </a>
 </li>
 
@@ -392,13 +404,7 @@ TheShy未准时到达被处罚（热度：117157）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7HarmonyOS3%23" target="weibo">
-如何评价HarmonyOS3（热度：19121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86iPhone14%E9%95%9C%E5%A4%B4%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%23" target="weibo">
-部分iPhone14镜头出现问题（热度：14603）
+如何评价HarmonyOS3（热度：21241）
 </a>
 </li>
 
