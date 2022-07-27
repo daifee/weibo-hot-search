@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658920721223,
+  "endTime": 1658926141389,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2713928,
+      "num": 2713928,
+      "word": "奶奶病危请假被HR要求证明是亲奶",
+      "onboard_time": 1658917413,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2683354,
       "num": 2683354,
       "word": "杨洋迪丽热巴说好久不见",
@@ -265,14 +273,6 @@
       "onboard_time": 1658833593,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2458548,
-      "num": 2458548,
-      "word": "奶奶病危请假被HR要求证明是亲奶",
-      "onboard_time": 1658917413,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2397509,
@@ -313,6 +313,14 @@
       "onboard_time": 1658717250,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2285767,
+      "num": 2285767,
+      "word": "星汉灿烂全员升沧",
+      "onboard_time": 1658924973,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2281408,
@@ -553,6 +561,14 @@
       "onboard_time": 1658701454,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1691771,
+      "num": 1367963,
+      "word": "杨幂刘诗诗赵丽颖黑白御姐大片",
+      "onboard_time": 1658924250,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1685123,
@@ -835,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1310031,
+      "num": 603737,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1658925034,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1303217,
       "num": 745506,
       "word": "网传李沁试金鹰女神礼服",
@@ -872,6 +896,14 @@
       "word": "B站显示近期延期取消漫展超60个",
       "onboard_time": 1658908234,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1265996,
+      "num": 1265996,
+      "word": "上海一医院8000元招募疫苗接种志愿者",
+      "onboard_time": 1658917111,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -939,6 +971,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1216422,
+      "num": 1216422,
+      "word": "安乐传",
+      "onboard_time": 1658922752,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1202581,
       "num": 1202581,
       "word": "班主任回应学生暑假发自拍被处分",
@@ -987,11 +1027,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1142224,
-      "num": 1142224,
-      "word": "上海一医院8000元招募疫苗接种志愿者",
-      "onboard_time": 1658917111,
-      "rank": 22,
+      "raw_hot": 1153202,
+      "num": 1153202,
+      "word": "成都18岁女孩跳楼被气垫接住",
+      "onboard_time": 1658917953,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1067,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1111969,
+      "num": 1111969,
+      "word": "二舅作者回应被指抄袭",
+      "onboard_time": 1658920533,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104454,
       "num": 1104454,
       "word": "夏日祭在全国设置21场活动",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1658838276,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1083813,
-      "num": 1083813,
-      "word": "成都18岁女孩跳楼被气垫接住",
-      "onboard_time": 1658917953,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1082521,
@@ -1331,6 +1371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907740,
+      "num": 907740,
+      "word": "一诺状态",
+      "onboard_time": 1658920111,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 897827,
+      "num": 897827,
+      "word": "程少商把凌不疑当马骑",
+      "onboard_time": 1658921009,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 888543,
       "num": 888543,
       "word": "美宝莲将陆续关闭线下专柜",
@@ -1555,6 +1611,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 770318,
+      "num": 770318,
+      "word": "男子怒甩键盘将儿子砸成重伤获刑",
+      "onboard_time": 1658921612,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770213,
       "num": 770213,
       "word": "男子用刚买的橙汁帮货车灭火",
@@ -1627,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 743090,
+      "num": 594467,
+      "word": "黄仁俊感染新冠",
+      "onboard_time": 1658924431,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734595,
       "num": 734595,
       "word": "光遇",
@@ -1640,6 +1712,14 @@
       "word": "凌不疑有多想娶程少商",
       "onboard_time": 1658845595,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 721222,
+      "num": 587863,
+      "word": "程颂强吻万萋萋",
+      "onboard_time": 1658921432,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1891,6 +1971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 623670,
+      "num": 623670,
+      "word": "颜淡化妖成功渡川",
+      "onboard_time": 1658919571,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622455,
       "num": 622455,
       "word": "敞门开空调拟被罚超5000元",
@@ -1899,20 +1987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614381,
-      "num": 614381,
-      "word": "颜淡化妖成功渡川",
-      "onboard_time": 1658919571,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 612402,
       "num": 612402,
       "word": "当我的朋友熬成了我的领导",
       "onboard_time": 1658725713,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611355,
+      "num": 611355,
+      "word": "果农将葡萄喂猪被质疑浪费",
+      "onboard_time": 1658922992,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608877,
@@ -1937,6 +2025,14 @@
       "onboard_time": 1658832034,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604556,
+      "num": 604556,
+      "word": "大蒜生吃更能发挥杀菌抗癌作用",
+      "onboard_time": 1658918130,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602116,
@@ -2067,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577276,
+      "num": 577276,
+      "word": "华为鸿蒙发布会",
+      "onboard_time": 1658922511,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 577052,
       "num": 577052,
       "word": "CBA公司因侵权向B站索赔4亿",
@@ -2131,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565487,
+      "num": 565487,
+      "word": "华为鸿蒙设备数突破3亿",
+      "onboard_time": 1658923587,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 564644,
       "num": 564644,
       "word": "重庆大风",
@@ -2144,6 +2256,14 @@
       "word": "女大学生称兼职送外卖遭顾客刁难",
       "onboard_time": 1658752053,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563338,
+      "num": 563338,
+      "word": "麦当劳汉堡吃出尖锐塑料片",
+      "onboard_time": 1658919333,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2259,6 +2379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 536403,
+      "num": 536403,
+      "word": "周劼称没有经济行贿可以去查",
+      "onboard_time": 1658918310,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536063,
       "num": 524895,
       "word": "任嘉伦官宣加盟嗨放派",
@@ -2363,6 +2491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524647,
+      "num": 443966,
+      "word": "星汉灿烂预告",
+      "onboard_time": 1658925273,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523970,
       "num": 523970,
       "word": "湖北省考",
@@ -2417,14 +2553,6 @@
       "onboard_time": 1658838810,
       "rank": 27,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 514461,
-      "num": 514461,
-      "word": "周劼称没有经济行贿可以去查",
-      "onboard_time": 1658918310,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512097,
@@ -2513,6 +2641,14 @@
       "onboard_time": 1658809056,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500044,
+      "num": 500044,
+      "word": "哈啰经理划破70辆美团单车被拘",
+      "onboard_time": 1658920951,
+      "rank": 32,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 497898,
@@ -2665,14 +2801,6 @@
       "onboard_time": 1658729853,
       "rank": 16,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 478257,
-      "num": 478257,
-      "word": "大蒜生吃更能发挥杀菌抗癌作用",
-      "onboard_time": 1658918130,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475753,
@@ -2843,12 +2971,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 446131,
+      "num": 446131,
+      "word": "KSG战胜AG",
+      "onboard_time": 1658925273,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 445819,
       "num": 445819,
       "word": "抖音上线外放默认静音功能",
       "onboard_time": 1658900254,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 444483,
+      "num": 397939,
+      "word": "赵露思问这就是大难凌头各自飞吗",
+      "onboard_time": 1658923711,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 443917,
@@ -3017,6 +3161,14 @@
       "onboard_time": 1658833713,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420845,
+      "num": 367767,
+      "word": "怪不得顺德仙姬非要长意的鱼尾做裙子",
+      "onboard_time": 1658922093,
+      "rank": 30,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 420838,
@@ -3203,11 +3355,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401865,
+      "num": 401865,
+      "word": "AG状态",
+      "onboard_time": 1658924670,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401675,
       "num": 378829,
       "word": "迷航昆仑墟定档0727",
       "onboard_time": 1658717730,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400760,
+      "num": 280107,
+      "word": "凌不疑对程少商说放你自由",
+      "onboard_time": 1658925390,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -3283,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390466,
+      "num": 390466,
+      "word": "啊泽",
+      "onboard_time": 1658925629,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 390464,
       "num": 390464,
       "word": "林妙妙喊钱三一徒儿爷青回",
@@ -3296,6 +3472,14 @@
       "word": "消防员抓捕黄鼠狼被臭屁熏吐",
       "onboard_time": 1658797770,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389783,
+      "num": 389783,
+      "word": "杭州暴雨",
+      "onboard_time": 1658920649,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3451,22 +3635,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 372098,
-      "num": 372098,
-      "word": "一诺状态",
-      "onboard_time": 1658920111,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 372094,
-      "num": 372094,
-      "word": "麦当劳汉堡吃出尖锐塑料片",
-      "onboard_time": 1658919333,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371472,
       "num": 371472,
       "word": "2000名00后应届生入职京东",
@@ -3513,6 +3681,14 @@
       "onboard_time": 1658904268,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361895,
+      "num": 264526,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 361889,
@@ -3569,6 +3745,14 @@
       "onboard_time": 1658911236,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358845,
+      "num": 358845,
+      "word": "爱思的鬼谷子",
+      "onboard_time": 1658924371,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 358675,
@@ -3659,6 +3843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350208,
+      "num": 350208,
+      "word": "AG遗憾掉A",
+      "onboard_time": 1658925992,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350063,
       "num": 350063,
       "word": "久哲 BP",
@@ -3721,6 +3913,14 @@
       "onboard_time": 1658822253,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344381,
+      "num": 344381,
+      "word": "HarmonyOS",
+      "onboard_time": 1658924912,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 342913,
@@ -4323,12 +4523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302776,
+      "num": 302776,
+      "word": "古茗回应奶茶被曝喝出壁虎",
+      "onboard_time": 1658920471,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301860,
       "num": 301860,
       "word": "儿童抑郁后症状或表现为躯体症状",
       "onboard_time": 1658670212,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301364,
+      "num": 301364,
+      "word": "月升沧海",
+      "onboard_time": 1658921670,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 300863,
@@ -4451,6 +4667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293554,
+      "num": 263035,
+      "word": "沉香如屑 虐",
+      "onboard_time": 1658921009,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293488,
       "num": 293488,
       "word": "极目评男子一胎得女发文称晦气",
@@ -4465,6 +4689,14 @@
       "onboard_time": 1658750312,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292867,
+      "num": 292867,
+      "word": "华为发布首款鸿蒙彩色打印机",
+      "onboard_time": 1658925213,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 292673,
@@ -4915,6 +5147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265679,
+      "num": 265679,
+      "word": "第一次见脾气这么好的猫",
+      "onboard_time": 1658921670,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265411,
       "num": 265411,
       "word": "周琦入选男篮亚洲杯最佳阵容",
@@ -5155,14 +5395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 253181,
-      "num": 253181,
-      "word": "二舅作者回应被指抄袭",
-      "onboard_time": 1658920533,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252081,
       "num": 252081,
       "word": "电影请别相信她定档0909",
@@ -5211,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248802,
+      "num": 248802,
+      "word": "WE十一连败",
+      "onboard_time": 1658923470,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248738,
       "num": 248738,
       "word": "武汉多区开展核酸检测",
@@ -5257,6 +5497,14 @@
       "onboard_time": 1658719233,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245261,
+      "num": 245261,
+      "word": "WE 就在今天",
+      "onboard_time": 1658922689,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 245122,
@@ -5409,6 +5657,14 @@
       "onboard_time": 1658914412,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235509,
+      "num": 235509,
+      "word": "杭州核酸",
+      "onboard_time": 1658925511,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234916,
@@ -5755,14 +6011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216126,
-      "num": 216126,
-      "word": "古茗回应奶茶被曝喝出壁虎",
-      "onboard_time": 1658920471,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216103,
       "num": 216103,
       "word": "孝爱之家网回应为战犯设纪念堂",
@@ -5864,14 +6112,6 @@
       "word": "甘肃增37例确诊306例无症状",
       "onboard_time": 1658799749,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207860,
-      "num": 207860,
-      "word": "杭州暴雨",
-      "onboard_time": 1658920649,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -6881,6 +7121,14 @@
       "onboard_time": 1658826097,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27453,
+      "num": 291861,
+      "word": "阿里发布2022热土计划",
+      "onboard_time": 1658923231,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26248,
