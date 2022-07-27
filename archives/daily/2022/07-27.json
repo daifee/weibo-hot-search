@@ -1,6 +1,6 @@
 {
   "startTime": 1658853082262,
-  "endTime": 1658906478929,
+  "endTime": 1658910509755,
   "band_list": [
     {
       "raw_hot": 4338933,
@@ -107,7 +107,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1650430,
+      "raw_hot": 1665811,
       "num": 1650430,
       "word": "二胎妈妈睡2小时给孩子做早餐",
       "onboard_time": 1658903010,
@@ -129,6 +129,14 @@
       "onboard_time": 1658885972,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1610082,
+      "num": 1610082,
+      "word": "车主因眼睛小被自动驾驶误判",
+      "onboard_time": 1658903189,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1594551,
@@ -155,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130259,
+      "num": 1130259,
+      "word": "韩国给拜登起了个韩国名",
+      "onboard_time": 1658908532,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1125821,
+      "num": 1125821,
+      "word": "B站显示近期延期取消漫展超60个",
+      "onboard_time": 1658908234,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115944,
       "num": 1115944,
       "word": "周劼及父母名下共计住房6套",
@@ -171,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1049105,
-      "num": 1049105,
-      "word": "车主因眼睛小被自动驾驶误判",
-      "onboard_time": 1658903189,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 1034485,
+      "num": 1034485,
+      "word": "于文文 喜欢阿娇叫我鱼丸丸",
+      "onboard_time": 1658906309,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1030266,
@@ -307,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 719347,
+      "num": 719347,
+      "word": "终于等到张小斐的新电影了",
+      "onboard_time": 1658907152,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707654,
       "num": 707654,
       "word": "二舅为什么突然火了",
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608877,
+      "num": 529794,
+      "word": "林妙妙遭前男友报复",
+      "onboard_time": 1658903429,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 590613,
       "num": 590613,
       "word": "王栎鑫笑吐了",
@@ -443,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 542333,
+      "num": 448761,
+      "word": "杨紫沉香如屑迷路800年",
+      "onboard_time": 1658906069,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532871,
       "num": 532871,
       "word": "狗狗发现主人用监控找它时",
@@ -451,28 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 529794,
-      "num": 529794,
-      "word": "林妙妙遭前男友报复",
-      "onboard_time": 1658903429,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 527858,
       "num": 527858,
       "word": "周琦 快船",
       "onboard_time": 1658903371,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 524893,
-      "num": 524893,
-      "word": "于文文 喜欢阿娇叫我鱼丸丸",
-      "onboard_time": 1658906309,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 523970,
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482706,
+      "num": 482706,
+      "word": "腾讯称未来电竞人才缺口200万",
+      "onboard_time": 1658905350,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481584,
       "num": 481584,
       "word": "网友称在大连横山寺为关东军立牌位",
@@ -571,6 +611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 454326,
+      "num": 454326,
+      "word": "BLACKPINK新歌MV预告公开",
+      "onboard_time": 1658908590,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 449537,
       "num": 420925,
       "word": "子晟很好相处的",
@@ -595,6 +643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 443741,
+      "num": 443741,
+      "word": "金毛在后备箱中暑了",
+      "onboard_time": 1658903493,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443528,
       "num": 443528,
       "word": "视频平台频繁涨价合理吗",
@@ -617,14 +673,6 @@
       "onboard_time": 1658898515,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411180,
-      "num": 411180,
-      "word": "金毛在后备箱中暑了",
-      "onboard_time": 1658903493,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395931,
@@ -656,6 +704,22 @@
       "word": "二舅作者回应是否将故事拍成电影",
       "onboard_time": 1658847396,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391561,
+      "num": 391561,
+      "word": "吴磊背赵露思花絮视频",
+      "onboard_time": 1658909254,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 384858,
+      "num": 384858,
+      "word": "无锡回应村民未打疫苗被取消医疗福利",
+      "onboard_time": 1658908415,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -707,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360194,
-      "num": 223673,
-      "word": "杨紫沉香如屑迷路800年",
-      "onboard_time": 1658906069,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 360836,
+      "num": 360836,
+      "word": "洛阳暴雨",
+      "onboard_time": 1658909550,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355871,
@@ -721,6 +785,14 @@
       "onboard_time": 1658845595,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352388,
+      "num": 352388,
+      "word": "饿了么免单",
+      "onboard_time": 1658908651,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 350063,
@@ -744,6 +816,14 @@
       "word": "颜淡九百年还是没忘了应渊",
       "onboard_time": 1658898158,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333763,
+      "num": 199657,
+      "word": "刘浩存亮相青年电影手册盛典",
+      "onboard_time": 1658906248,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -843,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305223,
+      "num": 305223,
+      "word": "警方回应女子路边遭货车男殴打",
+      "onboard_time": 1658910211,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304216,
       "num": 221097,
       "word": "谭松韵为钟楚曦新剧宣传",
@@ -883,8 +971,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296008,
+      "num": 265360,
+      "word": "杨紫成毅沉香如屑跳了无桥花絮",
+      "onboard_time": 1658909730,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295173,
-      "num": 221491,
+      "num": 233294,
       "word": "贾乃亮姐姐回应与趣店合作",
       "onboard_time": 1658906132,
       "rank": 32,
@@ -897,6 +993,14 @@
       "onboard_time": 1658890408,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293488,
+      "num": 293488,
+      "word": "极目评男子一胎得女发文称晦气",
+      "onboard_time": 1658907333,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291118,
@@ -931,14 +1035,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 286265,
-      "num": 162471,
-      "word": "刘浩存亮相青年电影手册盛典",
-      "onboard_time": 1658906248,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283198,
       "num": 283198,
       "word": "张艺兴影视综全面开花",
@@ -969,6 +1065,14 @@
       "onboard_time": 1658900070,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273259,
+      "num": 273259,
+      "word": "两熊孩子深夜在加油站旁放火烧车",
+      "onboard_time": 1658907515,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270999,
@@ -1035,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258709,
+      "num": 258709,
+      "word": "魏大勋父子互绑式上节目",
+      "onboard_time": 1658909193,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258266,
       "num": 258266,
       "word": "张凯 BP",
@@ -1049,6 +1161,14 @@
       "onboard_time": 1658891672,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254280,
+      "num": 254280,
+      "word": "男孩住敬老院苦读10年考上医学院",
+      "onboard_time": 1658905889,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 254268,
@@ -1107,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244751,
+      "num": 244751,
+      "word": "周琦经纪人回应",
+      "onboard_time": 1658909011,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242427,
       "num": 242427,
       "word": "很流行很有趣的娱乐活动提不起兴趣",
@@ -1137,6 +1265,14 @@
       "onboard_time": 1658888907,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232539,
+      "num": 232539,
+      "word": "偷偷漫剧播放破亿",
+      "onboard_time": 1658906731,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 231669,
@@ -1171,14 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218886,
-      "num": 218886,
-      "word": "腾讯称未来电竞人才缺口200万",
-      "onboard_time": 1658905350,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218480,
       "num": 218480,
       "word": "穿马面裙进迪奥拍照女子回应",
@@ -1209,6 +1337,22 @@
       "onboard_time": 1658850813,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216431,
+      "num": 216431,
+      "word": "妇联回应男子一胎得女发文称晦气",
+      "onboard_time": 1658909193,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215627,
+      "num": 215627,
+      "word": "身边的二舅",
+      "onboard_time": 1658909730,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215202,
@@ -1339,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175571,
-      "num": 175571,
-      "word": "男孩住敬老院苦读10年考上医学院",
-      "onboard_time": 1658905889,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 174691,
       "num": 174691,
       "word": "全国多地取消夏日祭活动",
@@ -1387,6 +1523,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 150488,
+      "num": 150488,
+      "word": "国足半场0比0中国香港",
+      "onboard_time": 1658910152,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146586,
       "num": 146586,
       "word": "中国女足获得东亚杯亚军",
@@ -1403,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143069,
+      "num": 143069,
+      "word": "国足vs中国香港",
+      "onboard_time": 1658908651,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139642,
       "num": 139642,
       "word": "82岁爷爷生日孙子送上清华通知书",
@@ -1417,6 +1569,14 @@
       "onboard_time": 1658869569,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132702,
+      "num": 132702,
+      "word": "挠痒痒的人类幼崽有多可爱",
+      "onboard_time": 1658907032,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 129494,
