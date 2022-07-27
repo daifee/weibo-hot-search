@@ -1,6 +1,6 @@
 {
   "startTime": 1658853082262,
-  "endTime": 1658913640754,
+  "endTime": 1658917598978,
   "band_list": [
     {
       "raw_hot": 4338933,
@@ -59,6 +59,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2334377,
+      "num": 2334377,
+      "word": "古茗被曝喝出壁虎",
+      "onboard_time": 1658910511,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2191668,
       "num": 2191668,
       "word": "美国发现首例孕妇猴痘病例",
@@ -96,14 +104,6 @@
       "word": "95后女生因染粉红色头发被网暴",
       "onboard_time": 1658900611,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1767494,
-      "num": 1767494,
-      "word": "古茗被曝喝出壁虎",
-      "onboard_time": 1658910511,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1261610,
+      "num": 476484,
+      "word": "金泰梨二次感染新冠",
+      "onboard_time": 1658916149,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1131017,
       "num": 1131017,
       "word": "妈妈带500斤食物到上海看儿子",
@@ -251,8 +259,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 890910,
-      "num": 890910,
+      "raw_hot": 909306,
+      "num": 909306,
       "word": "全国8个县城房价破2万",
       "onboard_time": 1658910875,
       "rank": 42,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 810323,
+      "num": 810323,
+      "word": "中国男足1比0中国香港",
+      "onboard_time": 1658912974,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 790755,
       "num": 790755,
       "word": "夏日祭",
@@ -337,6 +353,14 @@
       "onboard_time": 1658833112,
       "rank": 13,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 746348,
+      "num": 746348,
+      "word": "李秀满盛赞刘雨昕",
+      "onboard_time": 1658913090,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 746239,
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607435,
+      "num": 473079,
+      "word": "日本多地政府收到威胁邮件",
+      "onboard_time": 1658915913,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 590613,
       "num": 590613,
       "word": "王栎鑫笑吐了",
@@ -459,12 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575622,
+      "num": 575622,
+      "word": "保剑锋好帅",
+      "onboard_time": 1658915732,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569856,
       "num": 569856,
       "word": "二舅残疾证办下来了",
       "onboard_time": 1658842956,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565854,
+      "num": 470864,
+      "word": "TheShy未准时到达被处罚",
+      "onboard_time": 1658916332,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 565524,
@@ -515,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 535907,
+      "num": 535907,
+      "word": "民国大侦探0810上线",
+      "onboard_time": 1658912732,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532871,
       "num": 532871,
       "word": "狗狗发现主人用监控找它时",
@@ -555,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 517059,
-      "num": 517059,
-      "word": "李秀满盛赞刘雨昕",
-      "onboard_time": 1658913090,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 502143,
       "num": 502143,
       "word": "成毅天刑台无实物表演",
@@ -571,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499846,
-      "num": 499846,
-      "word": "民国大侦探0810上线",
-      "onboard_time": 1658912732,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 501740,
+      "num": 501740,
+      "word": "男子整理爷爷遗物发现4颗手榴弹",
+      "onboard_time": 1658911290,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492667,
@@ -667,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473426,
-      "num": 473426,
-      "word": "男子整理爷爷遗物发现4颗手榴弹",
-      "onboard_time": 1658911290,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 470688,
+      "num": 470688,
+      "word": "TES止步夏季赛",
+      "onboard_time": 1658914711,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 459521,
@@ -731,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 423941,
+      "num": 423941,
+      "word": "成都警方通报成华区一女子坠楼",
+      "onboard_time": 1658916391,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 423929,
       "num": 423929,
       "word": "沐川公安发布悬赏通告",
@@ -739,12 +795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419480,
+      "num": 419480,
+      "word": "科学家发现月球真有广寒宫",
+      "onboard_time": 1658911711,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 411823,
       "num": 370559,
       "word": "做家务的男人4官宣海报",
       "onboard_time": 1658898515,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405471,
+      "num": 405471,
+      "word": "武汉人越来越淡定了",
+      "onboard_time": 1658912612,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397011,
@@ -795,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388452,
-      "num": 388452,
-      "word": "科学家发现月球真有广寒宫",
-      "onboard_time": 1658911711,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 384858,
       "num": 384858,
       "word": "无锡回应村民未打疫苗被取消医疗福利",
@@ -835,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374240,
+      "num": 374240,
+      "word": "上海一医院8000元招募疫苗接种志愿者",
+      "onboard_time": 1658917111,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371472,
       "num": 371472,
       "word": "2000名00后应届生入职京东",
@@ -859,16 +931,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360609,
-      "num": 360609,
-      "word": "中国男足1比0中国香港",
-      "onboard_time": 1658912974,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 361889,
+      "num": 361889,
+      "word": "外交部再次就佩洛西访台表态",
+      "onboard_time": 1658912913,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 359655,
+      "num": 359655,
+      "word": "韩承羽说成毅嘴巴闭不上",
+      "onboard_time": 1658917173,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 358858,
-      "num": 260732,
+      "num": 294692,
       "word": "张新成缩墙角哭着哭着笑了",
       "onboard_time": 1658911236,
       "rank": 32,
@@ -1115,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291957,
+      "num": 291957,
+      "word": "ZICO新歌Freak",
+      "onboard_time": 1658916812,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291118,
       "num": 291118,
       "word": "北京暴雨",
@@ -1147,14 +1235,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 288546,
-      "num": 288546,
-      "word": "外交部再次就佩洛西访台表态",
-      "onboard_time": 1658912913,
-      "rank": 28,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 283198,
       "num": 283198,
       "word": "张艺兴影视综全面开花",
@@ -1184,6 +1264,14 @@
       "word": "怦然心动20岁",
       "onboard_time": 1658900070,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272819,
+      "num": 272819,
+      "word": "苏醒快乐再出发BGM",
+      "onboard_time": 1658917233,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1267,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261323,
+      "num": 261323,
+      "word": "他们仨被柱子封印了",
+      "onboard_time": 1658914053,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258709,
       "num": 258709,
       "word": "魏大勋父子互绑式上节目",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1658847759,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258020,
+      "num": 258020,
+      "word": "富贵包自身难保了",
+      "onboard_time": 1658913450,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 257381,
@@ -1355,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247189,
+      "num": 247189,
+      "word": "梦华录",
+      "onboard_time": 1658913991,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244751,
       "num": 244751,
       "word": "周琦经纪人回应",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1658883395,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236087,
+      "num": 235584,
+      "word": "杨丞琳郑秀妍新节目间隙聊浪姐",
+      "onboard_time": 1658914412,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 234916,
@@ -1411,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230276,
-      "num": 230276,
-      "word": "武汉人越来越淡定了",
-      "onboard_time": 1658912612,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227446,
       "num": 227446,
       "word": "双胞胎姐妹收到通知书的反应",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1658839352,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219944,
+      "num": 219944,
+      "word": "奶奶病危请假被HR要求证明是亲奶",
+      "onboard_time": 1658917413,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218480,
@@ -1507,12 +1627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205970,
+      "num": 205970,
+      "word": "谭龙手指国旗庆祝进球",
+      "onboard_time": 1658916873,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204264,
       "num": 204264,
       "word": "人生大事票房破16亿",
       "onboard_time": 1658883873,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "河北特岗",
+      "onboard_time": 1658917292,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 202889,
@@ -1545,6 +1681,14 @@
       "onboard_time": 1658847574,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187828,
+      "num": 187828,
+      "word": "外交部回应所谓中国试图渗透美联储",
+      "onboard_time": 1658914172,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 186170,
@@ -1627,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173388,
+      "num": 173388,
+      "word": "吉林男子用鞭炮为留守老人通烟囱",
+      "onboard_time": 1658917474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170142,
       "num": 170142,
       "word": "大连横山寺未发现为关东军立牌位",
@@ -1635,20 +1787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166256,
+      "num": 166256,
+      "word": "AG对战KSG",
+      "onboard_time": 1658916933,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165750,
       "num": 165750,
       "word": "颜淡走进夜忘川",
       "onboard_time": 1658852251,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165346,
-      "num": 165346,
-      "word": "富贵包自身难保了",
-      "onboard_time": 1658913450,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 156404,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1658917598978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334377,
+        "num": 2334377,
+        "word": "古茗被曝喝出壁虎",
+        "onboard_time": 1658910511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197809,
+        "num": 1197809,
+        "word": "韩国给拜登起了个韩国名",
+        "onboard_time": 1658908532,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 65287,
+        "num": 837306,
+        "word": "消博会有多好逛",
+        "onboard_time": 1658898994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810323,
+        "num": 810323,
+        "word": "中国男足1比0中国香港",
+        "onboard_time": 1658912974,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700050,
+        "num": 700050,
+        "word": "二舅走红后全家哭了一场",
+        "onboard_time": 1658891250,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597568,
+        "num": 597568,
+        "word": "车主因眼睛小被自动驾驶误判",
+        "onboard_time": 1658903189,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594820,
+        "num": 594820,
+        "word": "全国8个县城房价破2万",
+        "onboard_time": 1658910875,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 575622,
+        "num": 575622,
+        "word": "保剑锋好帅",
+        "onboard_time": 1658915732,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545887,
+        "num": 545887,
+        "word": "李秀满盛赞刘雨昕",
+        "onboard_time": 1658913090,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477235,
+        "num": 477235,
+        "word": "男子整理爷爷遗物发现4颗手榴弹",
+        "onboard_time": 1658911290,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261610,
+        "num": 476484,
+        "word": "金泰梨二次感染新冠",
+        "onboard_time": 1658916149,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1023790,
+        "num": 474957,
+        "word": "重庆男子一胎得女发文称晦气",
+        "onboard_time": 1658899594,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753836,
+        "num": 474107,
+        "word": "二胎妈妈睡2小时给孩子做早餐",
+        "onboard_time": 1658903010,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607435,
+        "num": 473079,
+        "word": "日本多地政府收到威胁邮件",
+        "onboard_time": 1658915913,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 565854,
+        "num": 470864,
+        "word": "TheShy未准时到达被处罚",
+        "onboard_time": 1658916332,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 470688,
+        "num": 470688,
+        "word": "TES止步夏季赛",
+        "onboard_time": 1658914711,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442123,
+        "num": 442123,
+        "word": "民国大侦探0810上线",
+        "onboard_time": 1658912732,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432422,
+        "num": 432422,
+        "word": "妈妈带500斤食物到上海看儿子",
+        "onboard_time": 1658901391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423941,
+        "num": 423941,
+        "word": "成都警方通报成华区一女子坠楼",
+        "onboard_time": 1658916391,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 419480,
+        "num": 419480,
+        "word": "科学家发现月球真有广寒宫",
+        "onboard_time": 1658911711,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 691791,
+        "num": 415305,
+        "word": "土土",
+        "onboard_time": 1658893413,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 405471,
+        "num": 405471,
+        "word": "武汉人越来越淡定了",
+        "onboard_time": 1658912612,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374240,
+        "num": 374240,
+        "word": "上海一医院8000元招募疫苗接种志愿者",
+        "onboard_time": 1658917111,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359655,
+        "num": 359655,
+        "word": "韩承羽说成毅嘴巴闭不上",
+        "onboard_time": 1658917173,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358296,
+        "num": 358296,
+        "word": "B站显示近期延期取消漫展超60个",
+        "onboard_time": 1658908234,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346445,
+        "num": 346445,
+        "word": "妇联回应男子一胎得女发文称晦气",
+        "onboard_time": 1658909193,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339927,
+        "num": 339927,
+        "word": "许凯彭昱畅情头",
+        "onboard_time": 1658903189,
+        "rank": 26,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 314104,
+        "num": 314104,
+        "word": "中国空间站上为什么只写中文",
+        "onboard_time": 1658901152,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 291957,
+        "num": 291957,
+        "word": "ZICO新歌Freak",
+        "onboard_time": 1658916812,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287167,
+        "num": 287167,
+        "word": "外交部再次就佩洛西访台表态",
+        "onboard_time": 1658912913,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 272819,
+        "num": 272819,
+        "word": "苏醒快乐再出发BGM",
+        "onboard_time": 1658917233,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257163,
+        "num": 257163,
+        "word": "终于等到张小斐的新电影了",
+        "onboard_time": 1658907152,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248647,
+        "num": 248647,
+        "word": "芒果TV会员又涨价",
+        "onboard_time": 1658891493,
+        "rank": 32,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 248027,
+        "num": 248027,
+        "word": "BLACKPINK新歌MV预告公开",
+        "onboard_time": 1658908590,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241744,
+        "num": 241744,
+        "word": "于文文 喜欢阿娇叫我鱼丸丸",
+        "onboard_time": 1658906309,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235584,
+        "num": 235584,
+        "word": "杨丞琳郑秀妍新节目间隙聊浪姐",
+        "onboard_time": 1658914412,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219972,
+        "num": 219972,
+        "word": "洛阳暴雨",
+        "onboard_time": 1658909550,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219944,
+        "num": 219944,
+        "word": "奶奶病危请假被HR要求证明是亲奶",
+        "onboard_time": 1658917413,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216515,
+        "num": 216515,
+        "word": "双胞胎男婴晒太阳1个月肤色感人",
+        "onboard_time": 1658897856,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205970,
+        "num": 205970,
+        "word": "谭龙手指国旗庆祝进球",
+        "onboard_time": 1658916873,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532994,
+        "num": 204872,
+        "word": "95后女生因染粉红色头发被网暴",
+        "onboard_time": 1658900611,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233340,
+        "num": 204444,
+        "word": "张新成缩墙角哭着哭着笑了",
+        "onboard_time": 1658911236,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203645,
+        "num": 203645,
+        "word": "河北特岗",
+        "onboard_time": 1658917292,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 194183,
+        "num": 194183,
+        "word": "警方回应女子路边遭货车男殴打",
+        "onboard_time": 1658910211,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191651,
+        "num": 191651,
+        "word": "Doggo上调BLG一队",
+        "onboard_time": 1658911354,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187732,
+        "num": 187732,
+        "word": "富贵包自身难保了",
+        "onboard_time": 1658913450,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173388,
+        "num": 173388,
+        "word": "吉林男子用鞭炮为留守老人通烟囱",
+        "onboard_time": 1658917474,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171311,
+        "num": 171311,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168660,
+        "num": 168660,
+        "word": "外交部回应所谓中国试图渗透美联储",
+        "onboard_time": 1658914172,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 166256,
+        "word": "AG对战KSG",
+        "onboard_time": 1658916933,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#发现最美铁路#"
+    }
+  }
+}
