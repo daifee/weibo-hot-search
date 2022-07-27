@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658954216208,
+  "endTime": 1658957758634,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -7459,6 +7459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57455,
+      "num": 48747,
+      "word": "真的会担心0713的精神状态",
+      "onboard_time": 1658957351,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55902,
       "num": 55902,
       "word": "林妙妙被前男友骚扰",
@@ -7523,6 +7531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42681,
+      "num": 42681,
+      "word": "从事服务工作遇到过什么奇葩事",
+      "onboard_time": 1658953092,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35938,
       "num": 35938,
       "word": "男子用荷叶制作成天然花洒",
@@ -7553,6 +7569,14 @@
       "onboard_time": 1658826097,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28685,
+      "num": 28685,
+      "word": "957 WE",
+      "onboard_time": 1658955791,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 27453,
@@ -7595,6 +7619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19121,
+      "num": 19121,
+      "word": "如何评价HarmonyOS3",
+      "onboard_time": 1658953691,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 17334,
       "num": 17334,
       "word": "贾玲说沈马组合yyds",
@@ -7627,12 +7659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14279,
-      "num": 14279,
-      "word": "从事服务工作遇到过什么奇葩事",
-      "onboard_time": 1658953092,
+      "raw_hot": 14603,
+      "num": 14603,
+      "word": "部分iPhone14镜头出现问题",
+      "onboard_time": 1658957470,
       "rank": 48,
-      "category": "综艺"
+      "category": "科技"
     },
     {
       "raw_hot": 11585,
@@ -7643,12 +7675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11156,
-      "num": 11156,
-      "word": "如何评价HarmonyOS3",
-      "onboard_time": 1658953691,
+      "raw_hot": 10662,
+      "num": 10662,
+      "word": "8名学生冒暴雨抬车救人",
+      "onboard_time": 1658956511,
       "rank": 49,
-      "category": "科技"
+      "category": "社会正能量"
     },
     {
       "raw_hot": 10560,
