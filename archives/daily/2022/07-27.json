@@ -1,6 +1,6 @@
 {
   "startTime": 1658853082262,
-  "endTime": 1658903280054,
+  "endTime": 1658906478929,
   "band_list": [
     {
       "raw_hot": 4338933,
@@ -83,7 +83,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1846545,
+      "raw_hot": 1906281,
       "num": 566297,
       "word": "95后女生因染粉红色头发被网暴",
       "onboard_time": 1658900611,
@@ -104,6 +104,14 @@
       "word": "李国庆曝董宇辉拉黑罗敏真正原因",
       "onboard_time": 1658871852,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1650430,
+      "num": 1650430,
+      "word": "二胎妈妈睡2小时给孩子做早餐",
+      "onboard_time": 1658903010,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131017,
+      "num": 1131017,
+      "word": "妈妈带500斤食物到上海看儿子",
+      "onboard_time": 1658901391,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115944,
       "num": 1115944,
       "word": "周劼及父母名下共计住房6套",
@@ -155,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1049105,
+      "num": 1049105,
+      "word": "车主因眼睛小被自动驾驶误判",
+      "onboard_time": 1658903189,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030266,
       "num": 1030266,
       "word": "刘诗诗也跳刘畊宏",
       "onboard_time": 1658892512,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1025564,
+      "num": 529561,
+      "word": "许凯彭昱畅情头",
+      "onboard_time": 1658903189,
+      "rank": 15,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 965028,
@@ -275,20 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 730752,
-      "num": 730752,
-      "word": "妈妈带500斤食物到上海看儿子",
-      "onboard_time": 1658901391,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707654,
       "num": 707654,
       "word": "二舅为什么突然火了",
       "onboard_time": 1658838936,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 699360,
+      "num": 699360,
+      "word": "迪丽热巴长歌行杀青两周年",
+      "onboard_time": 1658905709,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 694733,
@@ -321,6 +353,14 @@
       "onboard_time": 1658849677,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643407,
+      "num": 643407,
+      "word": "中国空间站上为什么只写中文",
+      "onboard_time": 1658901152,
+      "rank": 16,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 639640,
@@ -409,6 +449,30 @@
       "onboard_time": 1658897378,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 529794,
+      "num": 529794,
+      "word": "林妙妙遭前男友报复",
+      "onboard_time": 1658903429,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 527858,
+      "num": 527858,
+      "word": "周琦 快船",
+      "onboard_time": 1658903371,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 524893,
+      "num": 524893,
+      "word": "于文文 喜欢阿娇叫我鱼丸丸",
+      "onboard_time": 1658906309,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 523970,
@@ -515,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448062,
+      "num": 448062,
+      "word": "邻居用被子接住4楼坠落孩子",
+      "onboard_time": 1658902352,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 445819,
       "num": 445819,
       "word": "抖音上线外放默认静音功能",
@@ -523,27 +595,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 444599,
-      "num": 444599,
-      "word": "许凯彭昱畅情头",
-      "onboard_time": 1658903189,
-      "rank": 15,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 443528,
       "num": 443528,
       "word": "视频平台频繁涨价合理吗",
       "onboard_time": 1658896055,
       "rank": 38,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 425742,
-      "num": 425742,
-      "word": "中国空间站上为什么只写中文",
-      "onboard_time": 1658901152,
-      "rank": 16,
       "category": "科技,社会新闻"
     },
     {
@@ -561,6 +617,14 @@
       "onboard_time": 1658898515,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411180,
+      "num": 411180,
+      "word": "金毛在后备箱中暑了",
+      "onboard_time": 1658903493,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395931,
@@ -595,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384384,
+      "num": 384384,
+      "word": "章若楠上中餐厅带了80个棒棒糖",
+      "onboard_time": 1658902352,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378735,
       "num": 378735,
       "word": "厦门一女子在花灯下跳芭蕾舞",
@@ -627,12 +699,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364485,
-      "num": 364485,
-      "word": "章若楠上中餐厅带了80个棒棒糖",
-      "onboard_time": 1658902352,
-      "rank": 21,
+      "raw_hot": 366542,
+      "num": 266525,
+      "word": "王紫璇的紫是紫色的紫",
+      "onboard_time": 1658904268,
+      "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360194,
+      "num": 223673,
+      "word": "杨紫沉香如屑迷路800年",
+      "onboard_time": 1658906069,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 355871,
@@ -683,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324120,
+      "num": 222301,
+      "word": "时代少年团运动风绝配双人舞",
+      "onboard_time": 1658904930,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323277,
       "num": 221711,
       "word": "陆虎哭得太好笑了",
@@ -721,6 +809,14 @@
       "onboard_time": 1658880453,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 312130,
+      "num": 312130,
+      "word": "成毅拍戏被血呛到",
+      "onboard_time": 1658903493,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 310092,
@@ -787,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295173,
+      "num": 221491,
+      "word": "贾乃亮姐姐回应与趣店合作",
+      "onboard_time": 1658906132,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294557,
       "num": 290731,
       "word": "复仇者联盟5导演",
@@ -825,6 +929,14 @@
       "onboard_time": 1658891493,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 286265,
+      "num": 162471,
+      "word": "刘浩存亮相青年电影手册盛典",
+      "onboard_time": 1658906248,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 283198,
@@ -867,12 +979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266771,
+      "num": 266771,
+      "word": "美国大基建怎样了",
+      "onboard_time": 1658904629,
+      "rank": 24,
+      "category": "其它"
+    },
+    {
       "raw_hot": 266282,
       "num": 266282,
       "word": "新疆现七彩祥云",
       "onboard_time": 1658900971,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265350,
+      "num": 244159,
+      "word": "殷桃带自制杏子果酱来中餐厅",
+      "onboard_time": 1658901571,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 265264,
@@ -889,14 +1017,6 @@
       "onboard_time": 1658888371,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 263496,
-      "num": 244159,
-      "word": "殷桃带自制杏子果酱来中餐厅",
-      "onboard_time": 1658901571,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 261940,
@@ -929,6 +1049,14 @@
       "onboard_time": 1658891672,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254268,
+      "num": 254268,
+      "word": "电锯人",
+      "onboard_time": 1658899714,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 253935,
@@ -977,14 +1105,6 @@
       "onboard_time": 1658854162,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246679,
-      "num": 246679,
-      "word": "电锯人",
-      "onboard_time": 1658899714,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 242427,
@@ -1051,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218886,
+      "num": 218886,
+      "word": "腾讯称未来电竞人才缺口200万",
+      "onboard_time": 1658905350,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218480,
       "num": 218480,
       "word": "穿马面裙进迪奥拍照女子回应",
@@ -1064,6 +1192,14 @@
       "word": "警方回应孝爱之家设战犯纪念馆",
       "onboard_time": 1658849677,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217771,
+      "num": 217771,
+      "word": "出版社回应幼儿读本写公交车吃人",
+      "onboard_time": 1658904090,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1115,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199430,
+      "num": 199430,
+      "word": "七夕谁的副驾还没个惊喜",
+      "onboard_time": 1658902830,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198362,
       "num": 198362,
       "word": "江西国控通报员工周劼言论核查情况",
@@ -1131,12 +1275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186468,
-      "num": 186468,
-      "word": "邻居用被子接住4楼坠落孩子",
-      "onboard_time": 1658902352,
-      "rank": 35,
-      "category": "社会正能量"
+      "raw_hot": 186170,
+      "num": 186170,
+      "word": "国足vs中国香港首发",
+      "onboard_time": 1658905108,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 185939,
@@ -1195,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175571,
+      "num": 175571,
+      "word": "男孩住敬老院苦读10年考上医学院",
+      "onboard_time": 1658905889,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174691,
       "num": 174691,
       "word": "全国多地取消夏日祭活动",
@@ -1217,14 +1369,6 @@
       "onboard_time": 1658852251,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158695,
-      "num": 158695,
-      "word": "七夕谁的副驾还没个惊喜",
-      "onboard_time": 1658902830,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 156404,
@@ -1259,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140172,
-      "num": 140172,
-      "word": "车主因眼睛小被自动驾驶误判",
-      "onboard_time": 1658903189,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139642,
       "num": 139642,
       "word": "82岁爷爷生日孙子送上清华通知书",
@@ -1281,14 +1417,6 @@
       "onboard_time": 1658869569,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138287,
-      "num": 138287,
-      "word": "二胎妈妈睡2小时给孩子做早餐",
-      "onboard_time": 1658903010,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129494,
@@ -1387,20 +1515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96579,
+      "num": 1748974,
+      "word": "消博会有多好逛",
+      "onboard_time": 1658898994,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96442,
       "num": 96442,
       "word": "黄磊一个人就是一个司机宇宙",
       "onboard_time": 1658856497,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 87605,
-      "num": 1748974,
-      "word": "消博会有多好逛",
-      "onboard_time": 1658898994,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82759,

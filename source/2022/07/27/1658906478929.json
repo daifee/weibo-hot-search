@@ -1,0 +1,410 @@
+{
+  "runTime": 1658906478929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695687,
+        "num": 1695687,
+        "word": "二舅走红后全家哭了一场",
+        "onboard_time": 1658891250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1650430,
+        "num": 1650430,
+        "word": "二胎妈妈睡2小时给孩子做早餐",
+        "onboard_time": 1658903010,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84600,
+        "num": 1179806,
+        "word": "消博会有多好逛",
+        "onboard_time": 1658898994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131017,
+        "num": 1131017,
+        "word": "妈妈带500斤食物到上海看儿子",
+        "onboard_time": 1658901391,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114925,
+        "num": 1114925,
+        "word": "二舅和姥姥已不在小山村",
+        "onboard_time": 1658893112,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049105,
+        "num": 1049105,
+        "word": "车主因眼睛小被自动驾驶误判",
+        "onboard_time": 1658903189,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732224,
+        "num": 732224,
+        "word": "芒果TV会员又涨价",
+        "onboard_time": 1658891493,
+        "rank": 6,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 699360,
+        "num": 699360,
+        "word": "迪丽热巴长歌行杀青两周年",
+        "onboard_time": 1658905709,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643407,
+        "num": 643407,
+        "word": "中国空间站上为什么只写中文",
+        "onboard_time": 1658901152,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 529794,
+        "num": 529794,
+        "word": "林妙妙遭前男友报复",
+        "onboard_time": 1658903429,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1737077,
+        "num": 529727,
+        "word": "重庆男子一胎得女发文称晦气",
+        "onboard_time": 1658899594,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879845,
+        "num": 529561,
+        "word": "许凯彭昱畅情头",
+        "onboard_time": 1658903189,
+        "rank": 11,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 527858,
+        "num": 527858,
+        "word": "周琦 快船",
+        "onboard_time": 1658903371,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524893,
+        "num": 524893,
+        "word": "于文文 喜欢阿娇叫我鱼丸丸",
+        "onboard_time": 1658906309,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500384,
+        "num": 500384,
+        "word": "双胞胎男婴晒太阳1个月肤色感人",
+        "onboard_time": 1658897856,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448062,
+        "num": 448062,
+        "word": "邻居用被子接住4楼坠落孩子",
+        "onboard_time": 1658902352,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 430999,
+        "num": 430999,
+        "word": "中餐厅6合伙人官宣",
+        "onboard_time": 1658892690,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427962,
+        "num": 427962,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411180,
+        "num": 411180,
+        "word": "金毛在后备箱中暑了",
+        "onboard_time": 1658903493,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322835,
+        "num": 399389,
+        "word": "女子在超市偷一盒榴莲躲厕所吃完",
+        "onboard_time": 1658890952,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379774,
+        "num": 398943,
+        "word": "土土",
+        "onboard_time": 1658893413,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 391281,
+        "num": 391281,
+        "word": "嫋嫋180秒极致可爱",
+        "onboard_time": 1658899173,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373253,
+        "num": 373253,
+        "word": "王栎鑫笑吐了",
+        "onboard_time": 1658901271,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301541,
+        "num": 301541,
+        "word": "5岁男童癌症复发引出17种并发症",
+        "onboard_time": 1658896958,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266771,
+        "num": 266771,
+        "word": "美国大基建怎样了",
+        "onboard_time": 1658904629,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 366542,
+        "num": 266525,
+        "word": "王紫璇的紫是紫色的紫",
+        "onboard_time": 1658904268,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253176,
+        "num": 253176,
+        "word": "抖音上线外放默认静音功能",
+        "onboard_time": 1658900254,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251167,
+        "num": 251167,
+        "word": "边牧踹我是叫我喝水",
+        "onboard_time": 1658892152,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229254,
+        "num": 229254,
+        "word": "新疆现七彩祥云",
+        "onboard_time": 1658900971,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224846,
+        "num": 224846,
+        "word": "狗狗发现主人用监控找它时",
+        "onboard_time": 1658897378,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360194,
+        "num": 223673,
+        "word": "杨紫沉香如屑迷路800年",
+        "onboard_time": 1658906069,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324120,
+        "num": 222301,
+        "word": "时代少年团运动风绝配双人舞",
+        "onboard_time": 1658904930,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295173,
+        "num": 221491,
+        "word": "贾乃亮姐姐回应与趣店合作",
+        "onboard_time": 1658906132,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218886,
+        "num": 218886,
+        "word": "腾讯称未来电竞人才缺口200万",
+        "onboard_time": 1658905350,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217771,
+        "num": 217771,
+        "word": "出版社回应幼儿读本写公交车吃人",
+        "onboard_time": 1658904090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190638,
+        "num": 190638,
+        "word": "2000名00后应届生入职京东",
+        "onboard_time": 1658899412,
+        "rank": 35,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 186170,
+        "num": 186170,
+        "word": "国足vs中国香港首发",
+        "onboard_time": 1658905108,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177403,
+        "num": 177403,
+        "word": "七夕谁的副驾还没个惊喜",
+        "onboard_time": 1658902830,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175571,
+        "num": 175571,
+        "word": "男孩住敬老院苦读10年考上医学院",
+        "onboard_time": 1658905889,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163276,
+        "num": 163276,
+        "word": "警方调查祭奠网站设日本战犯纪念堂",
+        "onboard_time": 1658897558,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286265,
+        "num": 162471,
+        "word": "刘浩存亮相青年电影手册盛典",
+        "onboard_time": 1658906248,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1157772,
+        "num": 160233,
+        "word": "95后女生因染粉红色头发被网暴",
+        "onboard_time": 1658900611,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269055,
+        "num": 158185,
+        "word": "刘诗诗也跳刘畊宏",
+        "onboard_time": 1658892512,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219774,
+        "num": 155976,
+        "word": "章若楠上中餐厅带了80个棒棒糖",
+        "onboard_time": 1658902352,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 155907,
+        "word": "夏日祭在全国设置21场活动",
+        "onboard_time": 1658888549,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152941,
+        "num": 152941,
+        "word": "电锯人",
+        "onboard_time": 1658899714,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148419,
+        "num": 148419,
+        "word": "iPhone14或支持万兆网",
+        "onboard_time": 1658894194,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147106,
+        "num": 147106,
+        "word": "周劼及父母名下共计住房6套",
+        "onboard_time": 1658882193,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 143759,
+        "num": 143759,
+        "word": "湖北省考",
+        "onboard_time": 1658889451,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118551,
+        "num": 118551,
+        "word": "考研期间被男朋友骂醒了",
+        "onboard_time": 1658882075,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会后中国接待的首位外国元首#"
+    }
+  }
+}
