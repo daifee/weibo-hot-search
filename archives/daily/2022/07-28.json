@@ -1,0 +1,422 @@
+{
+  "startTime": 1658939598085,
+  "endTime": 1658941142947,
+  "band_list": [
+    {
+      "raw_hot": 2502867,
+      "num": 867744,
+      "word": "22岁女孩连续熬夜加班猝死",
+      "onboard_time": 1658934216,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1854766,
+      "num": 475779,
+      "word": "男子工资5千养4个孩子压力大轻生",
+      "onboard_time": 1658933557,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1365860,
+      "num": 1365860,
+      "word": "日本山口市发生人猴大战",
+      "onboard_time": 1658929471,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110787,
+      "num": 1110787,
+      "word": "王姈妈妈",
+      "onboard_time": 1658935176,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 773036,
+      "num": 773036,
+      "word": "钱三一是不是疯了",
+      "onboard_time": 1658928815,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 751479,
+      "num": 229185,
+      "word": "江西省纪委介入调查周劼事件",
+      "onboard_time": 1658934274,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680840,
+      "num": 680840,
+      "word": "第13届金扫帚奖公布",
+      "onboard_time": 1658931696,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 664790,
+      "num": 664790,
+      "word": "目黑莲确诊新冠",
+      "onboard_time": 1658938288,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 590560,
+      "num": 590560,
+      "word": "奶奶病危请假被HR要求证明是亲奶",
+      "onboard_time": 1658917413,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571615,
+      "num": 571615,
+      "word": "南京玄奘寺事件令佛门蒙羞",
+      "onboard_time": 1658932898,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507469,
+      "num": 507469,
+      "word": "周劼如何入职江西国控",
+      "onboard_time": 1658932776,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476255,
+      "num": 476255,
+      "word": "美国总统拜登新冠检测呈阴性",
+      "onboard_time": 1658934216,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 453320,
+      "num": 453320,
+      "word": "凌不疑叫程少商嫋嫋",
+      "onboard_time": 1658930497,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 380576,
+      "num": 380576,
+      "word": "姐妹俩疑为分割父亲遗产挥锤砸门",
+      "onboard_time": 1658932234,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344347,
+      "num": 344347,
+      "word": "星汉灿烂全员升沧",
+      "onboard_time": 1658924973,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 323846,
+      "num": 323846,
+      "word": "男子怒甩键盘将儿子砸成重伤获刑",
+      "onboard_time": 1658921612,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312971,
+      "num": 229052,
+      "word": "颜淡失忆了",
+      "onboard_time": 1658930734,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312916,
+      "num": 228948,
+      "word": "肖战直播",
+      "onboard_time": 1658928992,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 290417,
+      "num": 290417,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270888,
+      "num": 270888,
+      "word": "古茗回应奶茶被曝喝出壁虎",
+      "onboard_time": 1658920471,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254955,
+      "num": 254955,
+      "word": "二舅作者回应被指抄袭",
+      "onboard_time": 1658920533,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231981,
+      "num": 231981,
+      "word": "HarmonyOS",
+      "onboard_time": 1658924912,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 229309,
+      "num": 229309,
+      "word": "重庆男子一胎得女发文称晦气",
+      "onboard_time": 1658899594,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228777,
+      "num": 228777,
+      "word": "哈啰经理划破70辆美团单车被拘",
+      "onboard_time": 1658920951,
+      "rank": 24,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 216990,
+      "num": 216990,
+      "word": "河南广电谢谢你治好我选择困难症",
+      "onboard_time": 1658930916,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210228,
+      "num": 210228,
+      "word": "成都18岁女孩跳楼被气垫接住",
+      "onboard_time": 1658917953,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203041,
+      "num": 174813,
+      "word": "安乐传",
+      "onboard_time": 1658922752,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202112,
+      "num": 202112,
+      "word": "啊泽",
+      "onboard_time": 1658925629,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190194,
+      "num": 174347,
+      "word": "吴磊赵露思月升沧海追剧日历",
+      "onboard_time": 1658926949,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185613,
+      "num": 173770,
+      "word": "电影无名已制作完成",
+      "onboard_time": 1658934995,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181155,
+      "num": 181155,
+      "word": "你能听出耳机音质好坏吗",
+      "onboard_time": 1658928572,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 176719,
+      "num": 176719,
+      "word": "周劼称没有经济行贿可以去查",
+      "onboard_time": 1658918310,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175635,
+      "num": 175635,
+      "word": "果农将葡萄喂猪被质疑浪费",
+      "onboard_time": 1658922992,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172763,
+      "num": 172763,
+      "word": "上海一医院8000元招募疫苗接种志愿者",
+      "onboard_time": 1658917111,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164167,
+      "num": 164167,
+      "word": "谁也管不住沈腾的嘴",
+      "onboard_time": 1658934697,
+      "rank": 34,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 148966,
+      "num": 105406,
+      "word": "月升沧海预告",
+      "onboard_time": 1658934036,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142433,
+      "num": 104585,
+      "word": "刘聪新歌",
+      "onboard_time": 1658930014,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 141826,
+      "num": 141826,
+      "word": "爱情真的逃不开新鲜感吗",
+      "onboard_time": 1658939665,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139134,
+      "num": 139134,
+      "word": "一诺状态",
+      "onboard_time": 1658920111,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "考生接到录取通知书要三核查",
+      "onboard_time": 1658932055,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 119924,
+      "num": 119924,
+      "word": "未央好可惜",
+      "onboard_time": 1658928572,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 117157,
+      "num": 117157,
+      "word": "TheShy未准时到达被处罚",
+      "onboard_time": 1658916332,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 93241,
+      "num": 93241,
+      "word": "二胎妈妈睡2小时给孩子做早餐",
+      "onboard_time": 1658903010,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89965,
+      "num": 89965,
+      "word": "鸿蒙平板可以远程操作电脑",
+      "onboard_time": 1658929833,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 87102,
+      "num": 87102,
+      "word": "啊泽又实现了一个目标",
+      "onboard_time": 1658938647,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 86771,
+      "num": 86771,
+      "word": "大蒜生吃更能发挥杀菌抗癌作用",
+      "onboard_time": 1658918130,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80609,
+      "num": 80609,
+      "word": "日本多地政府收到威胁邮件",
+      "onboard_time": 1658915913,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 77806,
+      "num": 77806,
+      "word": "河北多地以家庭为单位常态化筛查",
+      "onboard_time": 1658930497,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68786,
+      "num": 68786,
+      "word": "华为手表支持鸿蒙超级联动",
+      "onboard_time": 1658934816,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 58055,
+      "num": 58055,
+      "word": "古茗被曝喝出壁虎",
+      "onboard_time": 1658910511,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57816,
+      "num": 872075,
+      "word": "问天实验舱超高清发射纪实",
+      "onboard_time": 1658930434,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#发现最美铁路#"
+    },
+    {
+      "word": "#总书记的时代印记#"
+    }
+  ]
+}

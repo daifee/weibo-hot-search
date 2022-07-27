@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658935447088,
+  "endTime": 1658941142947,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -297,6 +297,14 @@
       "onboard_time": 1658908532,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2502867,
+      "num": 1605772,
+      "word": "22岁女孩连续熬夜加班猝死",
+      "onboard_time": 1658934216,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2465871,
@@ -665,14 +673,6 @@
       "onboard_time": 1658903189,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1605772,
-      "num": 1605772,
-      "word": "22岁女孩连续熬夜加班猝死",
-      "onboard_time": 1658934216,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1605253,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1658920533,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110787,
+      "num": 1110787,
+      "word": "王姈妈妈",
+      "onboard_time": 1658935176,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1104454,
@@ -1755,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751479,
+      "num": 398419,
+      "word": "江西省纪委介入调查周劼事件",
+      "onboard_time": 1658934274,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749395,
       "num": 749395,
       "word": "王一博黄渤热烈对手戏",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1658932776,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664790,
+      "num": 664790,
+      "word": "目黑莲确诊新冠",
+      "onboard_time": 1658938288,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 663298,
@@ -2843,14 +2867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 490842,
-      "num": 398419,
-      "word": "江西省纪委介入调查周劼事件",
-      "onboard_time": 1658934274,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489286,
       "num": 489286,
       "word": "林妙妙主动牵钱三一的手",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1658729853,
       "rank": 16,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 476255,
+      "num": 476255,
+      "word": "美国总统拜登新冠检测呈阴性",
+      "onboard_time": 1658934216,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 475753,
@@ -3916,7 +3940,7 @@
     },
     {
       "raw_hot": 361895,
-      "num": 264526,
+      "num": 290417,
       "word": "独行月球",
       "onboard_time": 1658921132,
       "rank": 30,
@@ -4073,14 +4097,6 @@
       "onboard_time": 1658733392,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 350413,
-      "num": 350413,
-      "word": "美国总统拜登新冠检测呈阴性",
-      "onboard_time": 1658934216,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 350208,
@@ -5305,14 +5321,6 @@
       "onboard_time": 1658921670,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274023,
-      "num": 218130,
-      "word": "王姈妈妈",
-      "onboard_time": 1658935176,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 273912,
@@ -7083,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141826,
+      "num": 141826,
+      "word": "爱情真的逃不开新鲜感吗",
+      "onboard_time": 1658939665,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141749,
       "num": 141749,
       "word": "考12遍科一是种什么体验",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1658767521,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87102,
+      "num": 87102,
+      "word": "啊泽又实现了一个目标",
+      "onboard_time": 1658938647,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 83577,
