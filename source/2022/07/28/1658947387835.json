@@ -1,0 +1,410 @@
+{
+  "runTime": 1658947387835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 490932,
+        "num": 490932,
+        "word": "四川枪击案搜捕民兵发声",
+        "onboard_time": 1658941283,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394067,
+        "num": 394067,
+        "word": "北京一拉布拉多犬超高被没收",
+        "onboard_time": 1658942958,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12934,
+        "num": 345918,
+        "word": "问天实验舱超高清发射纪实",
+        "onboard_time": 1658930434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345796,
+        "num": 345796,
+        "word": "22岁女孩连续熬夜加班猝死",
+        "onboard_time": 1658934216,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 309879,
+        "num": 309879,
+        "word": "房东私自将欠租租户物品扔掉",
+        "onboard_time": 1658942537,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174628,
+        "num": 174628,
+        "word": "日本山口市发生人猴大战",
+        "onboard_time": 1658929471,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167351,
+        "num": 167351,
+        "word": "王姈妈妈",
+        "onboard_time": 1658935176,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155780,
+        "num": 155780,
+        "word": "目黑莲确诊新冠",
+        "onboard_time": 1658938288,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118574,
+        "num": 118574,
+        "word": "奶奶病危请假被HR要求证明是亲奶",
+        "onboard_time": 1658917413,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111512,
+        "num": 111512,
+        "word": "古茗回应奶茶被曝喝出壁虎",
+        "onboard_time": 1658920471,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230561,
+        "num": 106548,
+        "word": "男子工资5千养4个孩子压力大轻生",
+        "onboard_time": 1658933557,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93049,
+        "num": 93049,
+        "word": "钱三一是不是疯了",
+        "onboard_time": 1658928815,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92321,
+        "num": 92321,
+        "word": "第13届金扫帚奖公布",
+        "onboard_time": 1658931696,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82712,
+        "num": 82712,
+        "word": "爱情真的逃不开新鲜感吗",
+        "onboard_time": 1658939665,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82614,
+        "num": 82614,
+        "word": "美联储大概率加息75个基点",
+        "onboard_time": 1658945535,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 81240,
+        "num": 81240,
+        "word": "凌不疑叫程少商嫋嫋",
+        "onboard_time": 1658930497,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77679,
+        "num": 77679,
+        "word": "男子怒甩键盘将儿子砸成重伤获刑",
+        "onboard_time": 1658921612,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77276,
+        "num": 77276,
+        "word": "周劼如何入职江西国控",
+        "onboard_time": 1658932776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69409,
+        "num": 69409,
+        "word": "重庆男子一胎得女发文称晦气",
+        "onboard_time": 1658899594,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69266,
+        "num": 69266,
+        "word": "成都18岁女孩跳楼被气垫接住",
+        "onboard_time": 1658917953,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60927,
+        "num": 60927,
+        "word": "哈啰经理划破70辆美团单车被拘",
+        "onboard_time": 1658920951,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 60505,
+        "num": 60505,
+        "word": "南京玄奘寺事件令佛门蒙羞",
+        "onboard_time": 1658932898,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59384,
+        "num": 59384,
+        "word": "美国总统拜登新冠检测呈阴性",
+        "onboard_time": 1658934216,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 58100,
+        "num": 58100,
+        "word": "江西省纪委介入调查周劼事件",
+        "onboard_time": 1658934274,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57970,
+        "num": 57970,
+        "word": "姐妹俩疑为分割父亲遗产挥锤砸门",
+        "onboard_time": 1658932234,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57578,
+        "num": 57578,
+        "word": "肖战直播",
+        "onboard_time": 1658928992,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56515,
+        "num": 56515,
+        "word": "星汉灿烂全员升沧",
+        "onboard_time": 1658924973,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51551,
+        "num": 51551,
+        "word": "上海一医院8000元招募疫苗接种志愿者",
+        "onboard_time": 1658917111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51519,
+        "num": 51519,
+        "word": "心疼颜淡",
+        "onboard_time": 1658945056,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50169,
+        "num": 50169,
+        "word": "二舅作者回应被指抄袭",
+        "onboard_time": 1658920533,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48934,
+        "num": 48934,
+        "word": "果农将葡萄喂猪被质疑浪费",
+        "onboard_time": 1658922992,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47275,
+        "num": 47275,
+        "word": "啊泽",
+        "onboard_time": 1658925629,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45981,
+        "num": 45981,
+        "word": "颜淡失忆了",
+        "onboard_time": 1658930734,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44770,
+        "num": 44770,
+        "word": "独行月球",
+        "onboard_time": 1658921132,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44468,
+        "num": 44468,
+        "word": "河南广电谢谢你治好我选择困难症",
+        "onboard_time": 1658930916,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42258,
+        "num": 42258,
+        "word": "周劼称没有经济行贿可以去查",
+        "onboard_time": 1658918310,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41121,
+        "num": 41121,
+        "word": "HarmonyOS",
+        "onboard_time": 1658924912,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 40532,
+        "num": 40532,
+        "word": "一诺状态",
+        "onboard_time": 1658920111,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40505,
+        "num": 40505,
+        "word": "刘聪新歌",
+        "onboard_time": 1658930014,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39805,
+        "num": 39805,
+        "word": "TheShy未准时到达被处罚",
+        "onboard_time": 1658916332,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39634,
+        "num": 39634,
+        "word": "日本多地政府收到威胁邮件",
+        "onboard_time": 1658915913,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 37755,
+        "num": 37755,
+        "word": "电影无名已制作完成",
+        "onboard_time": 1658934995,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37020,
+        "num": 37020,
+        "word": "安乐传",
+        "onboard_time": 1658922752,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34754,
+        "num": 34754,
+        "word": "吴磊赵露思月升沧海追剧日历",
+        "onboard_time": 1658926949,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32122,
+        "num": 32122,
+        "word": "你能听出耳机音质好坏吗",
+        "onboard_time": 1658928572,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29887,
+        "num": 29887,
+        "word": "未央好可惜",
+        "onboard_time": 1658928572,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25799,
+        "num": 25799,
+        "word": "二胎妈妈睡2小时给孩子做早餐",
+        "onboard_time": 1658903010,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24648,
+        "num": 24648,
+        "word": "大蒜生吃更能发挥杀菌抗癌作用",
+        "onboard_time": 1658918130,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18619,
+        "num": 18619,
+        "word": "啊泽又实现了一个目标",
+        "onboard_time": 1658938647,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18508,
+        "num": 18508,
+        "word": "河北多地以家庭为单位常态化筛查",
+        "onboard_time": 1658930497,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进全球治理提供东方智慧#"
+    }
+  }
+}
