@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658888061248,
+  "endTime": 1658895158701,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -65,6 +65,14 @@
       "onboard_time": 1658833112,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 4088777,
+      "num": 4088777,
+      "word": "二舅走红后全家哭了一场",
+      "onboard_time": 1658891250,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3972535,
@@ -163,12 +171,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 3135360,
+      "num": 3135360,
+      "word": "二舅和姥姥已不在小山村",
+      "onboard_time": 1658893112,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3087330,
       "num": 3087330,
       "word": "星汉灿烂连播了",
       "onboard_time": 1658841756,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2974351,
+      "num": 622331,
+      "word": "土土",
+      "onboard_time": 1658734535,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2931724,
@@ -467,6 +491,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1752230,
+      "num": 1752230,
+      "word": "中餐厅6合伙人官宣",
+      "onboard_time": 1658892690,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1723528,
       "num": 779746,
       "word": "接待吴啊萍的僧人曾因交通肇事获刑",
@@ -481,14 +513,6 @@
       "onboard_time": 1658701454,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1687623,
-      "num": 622331,
-      "word": "土土",
-      "onboard_time": 1658734535,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1685123,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1612049,
+      "num": 1612049,
+      "word": "央视曝光高端婚介骗局",
+      "onboard_time": 1658885972,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1605253,
       "num": 1605253,
       "word": "房东每度电按1元收费",
@@ -537,6 +569,14 @@
       "onboard_time": 1658850334,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1592196,
+      "num": 1592196,
+      "word": "芒果TV会员又涨价",
+      "onboard_time": 1658891493,
+      "rank": 6,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 1544016,
@@ -569,6 +609,14 @@
       "onboard_time": 1658846316,
       "rank": 5,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1537679,
+      "num": 1537679,
+      "word": "女子在超市偷一盒榴莲躲厕所吃完",
+      "onboard_time": 1658890952,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1525662,
@@ -851,14 +899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1158114,
-      "num": 1158114,
-      "word": "央视曝光高端婚介骗局",
-      "onboard_time": 1658885972,
-      "rank": 6,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1154366,
       "num": 603622,
       "word": "吴啊萍何以无知堕落至此",
@@ -897,6 +937,14 @@
       "onboard_time": 1658882193,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1104454,
+      "num": 1104454,
+      "word": "夏日祭在全国设置21场活动",
+      "onboard_time": 1658888549,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103991,
@@ -993,6 +1041,14 @@
       "onboard_time": 1658822497,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1010937,
+      "num": 1010937,
+      "word": "刘诗诗也跳刘畊宏",
+      "onboard_time": 1658892512,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 983857,
@@ -1179,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846510,
+      "num": 846510,
+      "word": "边牧踹我是叫我喝水",
+      "onboard_time": 1658892152,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 835023,
       "num": 835023,
       "word": "拍吻戏都这么意外了吗",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1658796751,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 812990,
+      "num": 812990,
+      "word": "你好星期六下期是兄弟姐妹局",
+      "onboard_time": 1658888371,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 812066,
@@ -1331,6 +1403,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 757234,
+      "num": 757234,
+      "word": "凌不疑用嫋嫋酒杯敬酒",
+      "onboard_time": 1658887950,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 749395,
       "num": 749395,
       "word": "王一博黄渤热烈对手戏",
@@ -1425,6 +1505,14 @@
       "onboard_time": 1658842112,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 676986,
+      "num": 676986,
+      "word": "大学生40度高温天沿街发汉堡",
+      "onboard_time": 1658889268,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672580,
@@ -1835,6 +1923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552736,
+      "num": 552736,
+      "word": "iPhone14或支持万兆网",
+      "onboard_time": 1658894194,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 550397,
+      "num": 550397,
+      "word": "wayward",
+      "onboard_time": 1658889633,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 550373,
       "num": 550373,
       "word": "甘望星徐紫茵再遇两个他开机",
@@ -1945,6 +2049,14 @@
       "onboard_time": 1658727092,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 523970,
+      "num": 523970,
+      "word": "湖北省考",
+      "onboard_time": 1658889451,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 523258,
@@ -2075,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 492667,
+      "num": 492667,
+      "word": "乘风破浪五公芭莎在路上视频",
+      "onboard_time": 1658890468,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491908,
       "num": 379591,
       "word": "嗨放派录取通知书式官宣",
@@ -2155,6 +2275,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 475753,
+      "num": 475753,
+      "word": "2岁男孩用头护住轮椅上的爸爸",
+      "onboard_time": 1658889451,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470089,
       "num": 470089,
       "word": "医院空车位不让停保安称留给领导",
@@ -2225,6 +2353,14 @@
       "onboard_time": 1658742637,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459521,
+      "num": 459521,
+      "word": "00后算是把录取通知书晒明白了",
+      "onboard_time": 1658890408,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 457406,
@@ -2619,6 +2755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 395931,
+      "num": 395931,
+      "word": "C罗与曼联谈崩了",
+      "onboard_time": 1658891731,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392570,
       "num": 392570,
       "word": "女子乘公交核酸过期拒下车",
@@ -2795,12 +2939,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 370557,
+      "num": 370557,
+      "word": "雷佳音张小斐新片官宣",
+      "onboard_time": 1658894734,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368099,
       "num": 368099,
       "word": "Ning 饭堂",
       "onboard_time": 1658672616,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 366690,
+      "num": 366690,
+      "word": "成毅沉香如屑人物曲忘川",
+      "onboard_time": 1658891310,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 361874,
@@ -3067,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333642,
+      "num": 333642,
+      "word": "高温天封闭的车内有多危险",
+      "onboard_time": 1658884833,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332629,
       "num": 332629,
       "word": "赞多是我看硬糖少女告别典礼的哭替吧",
@@ -3219,14 +3387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 321804,
-      "num": 321804,
-      "word": "高温天封闭的车内有多危险",
-      "onboard_time": 1658884833,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321266,
       "num": 321266,
       "word": "国际乒联第30周排名",
@@ -3273,6 +3433,14 @@
       "onboard_time": 1658803292,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 318349,
+      "num": 318349,
+      "word": "中华小子高清重制版",
+      "onboard_time": 1658893112,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 318306,
@@ -3563,6 +3731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294557,
+      "num": 290731,
+      "word": "复仇者联盟5导演",
+      "onboard_time": 1658890408,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294532,
       "num": 294532,
       "word": "北京7月25日本土无新增",
@@ -3675,6 +3851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 288968,
+      "num": 288968,
+      "word": "第一次见站得这么端正的小狗",
+      "onboard_time": 1658891493,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 288677,
       "num": 288677,
       "word": "赵今麦那些回不去的年少时光开机",
@@ -3712,6 +3896,14 @@
       "word": "天才基本法 剧情",
       "onboard_time": 1658678492,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286099,
+      "num": 286099,
+      "word": "子晟很好相处的",
+      "onboard_time": 1658890349,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -3819,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279343,
+      "num": 279343,
+      "word": "恋与制作人",
+      "onboard_time": 1658893413,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279210,
       "num": 279210,
       "word": "RA",
@@ -3904,6 +4104,14 @@
       "word": "沉香如屑过山车式追剧",
       "onboard_time": 1658736814,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270999,
+      "num": 264978,
+      "word": "独行月球该相见了",
+      "onboard_time": 1658890109,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4099,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257381,
+      "num": 219520,
+      "word": "岳云鹏演出租车司机了",
+      "onboard_time": 1658891672,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254771,
       "num": 254771,
       "word": "苏州龙卷风",
@@ -4121,6 +4337,14 @@
       "onboard_time": 1658709692,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252081,
+      "num": 252081,
+      "word": "电影请别相信她定档0909",
+      "onboard_time": 1658887531,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 251468,
@@ -4227,6 +4451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242427,
+      "num": 242427,
+      "word": "很流行很有趣的娱乐活动提不起兴趣",
+      "onboard_time": 1658893234,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241710,
       "num": 228046,
       "word": "Twins夏日晴空镜像大片",
@@ -4315,18 +4547,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235270,
-      "num": 235270,
-      "word": "电影请别相信她定档0909",
-      "onboard_time": 1658887531,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234916,
       "num": 234916,
       "word": "不希望二舅被打扰",
       "onboard_time": 1658887470,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233795,
+      "num": 233795,
+      "word": "运营人员回应男子把单车扔进河中",
+      "onboard_time": 1658888907,
       "rank": 36,
       "category": "社会新闻"
     },
@@ -4475,6 +4707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225288,
+      "num": 225288,
+      "word": "作者回应二舅爆火",
+      "onboard_time": 1658889689,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225002,
       "num": 113506,
       "word": "ive新专辑预告",
@@ -4587,6 +4827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218480,
+      "num": 218480,
+      "word": "穿马面裙进迪奥拍照女子回应",
+      "onboard_time": 1658893531,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218391,
       "num": 218391,
       "word": "警方回应孝爱之家设战犯纪念馆",
@@ -4643,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215202,
+      "num": 215202,
+      "word": "并蒂莲配锦鲤现身北京恭王府",
+      "onboard_time": 1658893050,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214965,
       "num": 214965,
       "word": "九尾 裁判",
@@ -4696,6 +4952,14 @@
       "word": "甘肃增37例确诊306例无症状",
       "onboard_time": 1658799749,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207935,
+      "num": 207935,
+      "word": "双胞胎姐妹收到通知书的反应",
+      "onboard_time": 1658893474,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -4915,6 +5179,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "太空快递小哥天舟三号辛苦啦",
+      "onboard_time": 1658894912,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 185627,
+      "num": 185627,
+      "word": "95后战士跳入河中2分钟救4人",
+      "onboard_time": 1658888188,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 185357,
       "num": 185357,
       "word": "沉香如屑一集比一集虐",
@@ -4987,20 +5267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176386,
-      "num": 176386,
-      "word": "凌不疑用嫋嫋酒杯敬酒",
-      "onboard_time": 1658887950,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175474,
       "num": 175474,
       "word": "二伏你最想吃啥面",
       "onboard_time": 1658820213,
       "rank": 46,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 174691,
+      "num": 174691,
+      "word": "全国多地取消夏日祭活动",
+      "onboard_time": 1658889869,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173280,
