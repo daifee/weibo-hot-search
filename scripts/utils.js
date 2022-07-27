@@ -50,9 +50,15 @@ function readJSON(filePath) {
 }
 
 function convertDataFromSpider(data) {
+  let { runTime } = data;
+  if (typeof runTime === 'string') {
+    const d = new Date(runTime);
+    runTime = d.getTime();
+  }
+
   return {
-    startTime: data.runTime,
-    endTime: data.runTime,
+    startTime: runTime,
+    endTime: runTime,
     band_list: data.source?.band_list || [],
     hotgov_list: data.source?.hotgov ? [data.source?.hotgov] : [],
   };

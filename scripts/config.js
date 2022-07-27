@@ -1,7 +1,6 @@
 /**
  * 配置
  */
-const fs = require('fs');
 const path = require('path');
 
 // 归档、数据源目录（避免git跟踪测试生成文件）
@@ -24,18 +23,10 @@ const ARCHIVE_YEARLY_PATH = path.resolve(ARCHIVE_PATH, 'yearly');
 // 模板目录
 const TEMPLATES_PATH = path.resolve('./', 'scripts/templates');
 
-// 创建目录
-[
-  SOURCE_PATH,
-  ARCHIVE_PATH,
-  ARCHIVE_DAILY_PATH,
-  ARCHIVE_WEEKLY_PATH,
-  ARCHIVE_MONTHLY_PATH,
-  ARCHIVE_YEARLY_PATH,
-  TEMPLATES_PATH,
-].forEach((dir) => {
-  fs.mkdirSync(dir, { recursive: true });
-});
+// 最新榜单
+const LATEST_DAILY = path.resolve(basePath, 'latest-daily.md');
+const LATEST_WEEKLY = path.resolve(basePath, 'latest-weekly.md');
+const LATEST_MONTHLY = path.resolve(basePath, 'latest-monthly.md');
 
 module.exports = {
   ARCHIVE_DAILY_PATH,
@@ -44,4 +35,8 @@ module.exports = {
   ARCHIVE_YEARLY_PATH,
   SOURCE_PATH,
   TEMPLATES_PATH,
+
+  LATEST_DAILY,
+  LATEST_WEEKLY,
+  LATEST_MONTHLY,
 };

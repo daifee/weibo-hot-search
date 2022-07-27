@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs');
 const archiveDaily = require('./archive-daily');
 const utils = require('./utils');
-const { ARCHIVE_MONTHLY_PATH, TEMPLATES_PATH } = require('./config');
+const { ARCHIVE_MONTHLY_PATH, TEMPLATES_PATH, LATEST_MONTHLY } = require('./config');
 
 function getMonthlyDates(runTime) {
   const result = [];
@@ -101,6 +101,8 @@ async function run(timestamp) {
 
   const md = await renderMD(data);
   archiveMD(runTime, md);
+
+  utils.archiveMD(LATEST_MONTHLY, md);
 }
 
 module.exports = {

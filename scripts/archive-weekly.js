@@ -7,7 +7,7 @@ const ejs = require('ejs');
 const dailyArchive = require('./archive-daily');
 const utils = require('./utils');
 
-const { ARCHIVE_WEEKLY_PATH, TEMPLATES_PATH } = require('./config');
+const { ARCHIVE_WEEKLY_PATH, TEMPLATES_PATH, LATEST_WEEKLY } = require('./config');
 
 function setMonday(date) {
   while (date.getDay() !== 1) {
@@ -111,6 +111,8 @@ async function run(timestamp) {
 
   // 归档 MD
   archiveMD(runTime, md);
+
+  utils.archiveMD(LATEST_WEEKLY, md);
 }
 
 module.exports = {

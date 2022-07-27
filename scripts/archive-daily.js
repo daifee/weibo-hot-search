@@ -6,7 +6,7 @@ const path = require('path');
 const ejs = require('ejs');
 const spider = require('./spider');
 const utils = require('./utils');
-const { ARCHIVE_DAILY_PATH, TEMPLATES_PATH } = require('./config');
+const { ARCHIVE_DAILY_PATH, TEMPLATES_PATH, LATEST_DAILY } = require('./config');
 
 // 获取当天所有数据文件
 function getSourceFiles(runTime) {
@@ -71,17 +71,6 @@ async function archiveMD(runTime, content) {
   utils.archiveMD(filePath, content);
 }
 
-function copyToREADME(content) {
-  const readmeFile = path.resolve('./', 'README.md');
-
-  if (process.env.NODE_ENV === 'test') {
-    // eslint-disable-next-line no-param-reassign
-    content = fs.readFileSync(readmeFile, 'utf-8');
-  }
-
-  fs.writeFileSync(readmeFile, content, 'utf-8');
-}
-
 async function run(timestamp) {
   const runTime = timestamp || Date.now();
   // 获取当前所有数据文件
@@ -98,8 +87,8 @@ async function run(timestamp) {
   // 归档 md
   archiveMD(runTime, md);
 
-  // 同步到README.md
-  copyToREADME(md);
+  // 最新榜
+  utils.archiveMD(LATEST_DAILY, md);
 }
 
 module.exports = {

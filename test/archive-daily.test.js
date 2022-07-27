@@ -116,7 +116,7 @@ describe('renderMD(data)', () => {
 });
 
 describe('run(timestamp)', () => {
-  test('正确用法', async () => {
+  test.only('正确用法', async () => {
     fs.cpSync('./test/data/19', './temp', { recursive: true });
 
     const runTime = 1657945739042;
