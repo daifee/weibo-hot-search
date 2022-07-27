@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658929720233,
+  "endTime": 1658931628988,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2790218,
+      "num": 2790218,
+      "word": "钱三一是不是疯了",
+      "onboard_time": 1658928815,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2713928,
       "num": 2713928,
       "word": "奶奶病危请假被HR要求证明是亲奶",
@@ -385,6 +393,14 @@
       "onboard_time": 1658793207,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2144652,
+      "num": 2144652,
+      "word": "日本山口市发生人猴大战",
+      "onboard_time": 1658929471,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2095082,
@@ -817,14 +833,6 @@
       "onboard_time": 1658748152,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1353124,
-      "num": 1353124,
-      "word": "钱三一是不是疯了",
-      "onboard_time": 1658928815,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1340322,
@@ -1515,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815420,
+      "num": 648911,
+      "word": "凌不疑叫程少商嫋嫋",
+      "onboard_time": 1658930497,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 813608,
       "num": 813608,
       "word": "爸爸帮妈妈洗睡衣气哭1岁萌娃",
@@ -1739,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 723740,
+      "num": 620776,
+      "word": "凌不疑程少商双向告白",
+      "onboard_time": 1658928454,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721572,
       "num": 721572,
       "word": "凌不疑有多想娶程少商",
@@ -1899,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 657497,
-      "num": 420121,
-      "word": "凌不疑程少商双向告白",
-      "onboard_time": 1658928454,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 654684,
       "num": 654684,
       "word": "BLACKPINK开始新歌MV拍摄",
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648576,
+      "num": 419730,
+      "word": "告五人",
+      "onboard_time": 1658927913,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643407,
       "num": 643407,
       "word": "中国空间站上为什么只写中文",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1658658990,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 641859,
+      "num": 402846,
+      "word": "颜淡失忆了",
+      "onboard_time": 1658930734,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 640212,
@@ -2041,14 +2073,6 @@
       "onboard_time": 1658725713,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 612131,
-      "num": 419730,
-      "word": "告五人",
-      "onboard_time": 1658927913,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 608877,
@@ -2395,6 +2419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 544071,
+      "num": 544071,
+      "word": "HarmonyOS",
+      "onboard_time": 1658924912,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 543780,
       "num": 543780,
       "word": "宣萱回应和古天乐是兄弟感情",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1658656771,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 525181,
+      "num": 525181,
+      "word": "未央好可惜",
+      "onboard_time": 1658928572,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 524955,
@@ -2907,14 +2947,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 467538,
-      "num": 467538,
-      "word": "未央好可惜",
-      "onboard_time": 1658928572,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 467275,
       "num": 467275,
       "word": "婴儿车滑向台阶男子一把拉住",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1658744679,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454105,
+      "num": 454105,
+      "word": "你能听出耳机音质好坏吗",
+      "onboard_time": 1658928572,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 453030,
@@ -3105,6 +3145,14 @@
       "onboard_time": 1658896055,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 443393,
+      "num": 277081,
+      "word": "刘聪新歌",
+      "onboard_time": 1658930014,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 441091,
@@ -3467,6 +3515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401218,
+      "num": 401218,
+      "word": "河北多地以家庭为单位常态化筛查",
+      "onboard_time": 1658930497,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400760,
       "num": 280107,
       "word": "凌不疑对程少商说放你自由",
@@ -3785,22 +3841,6 @@
       "onboard_time": 1658904268,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366394,
-      "num": 366394,
-      "word": "你能听出耳机音质好坏吗",
-      "onboard_time": 1658928572,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 365988,
-      "num": 365988,
-      "word": "HarmonyOS",
-      "onboard_time": 1658924912,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 361895,
@@ -4907,12 +4947,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 289208,
+      "num": 267697,
+      "word": "星野源新冠确诊",
+      "onboard_time": 1658930134,
+      "rank": 40,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 289126,
       "num": 176616,
       "word": "钱三一给林妙妙撒娇",
       "onboard_time": 1658674356,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289090,
+      "num": 289090,
+      "word": "鸿蒙平板可以远程操作电脑",
+      "onboard_time": 1658929833,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 289074,
@@ -5515,6 +5571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252686,
+      "num": 252686,
+      "word": "小兽",
+      "onboard_time": 1658928335,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252081,
       "num": 252081,
       "word": "电影请别相信她定档0909",
@@ -5617,14 +5681,6 @@
       "onboard_time": 1658778792,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 246572,
-      "num": 246572,
-      "word": "小兽",
-      "onboard_time": 1658928335,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 246035,
@@ -5971,6 +6027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225731,
+      "num": 225731,
+      "word": "河南广电谢谢你治好我选择困难症",
+      "onboard_time": 1658930916,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225288,
       "num": 225288,
       "word": "作者回应二舅爆火",
@@ -6139,6 +6203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216227,
+      "num": 216227,
+      "word": "华为MateBook",
+      "onboard_time": 1658929593,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 216103,
       "num": 216103,
       "word": "孝爱之家网回应为战犯设纪念堂",
@@ -6257,14 +6329,6 @@
       "onboard_time": 1658754573,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 206575,
-      "num": 206575,
-      "word": "华为MateBook",
-      "onboard_time": 1658929593,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 205970,
@@ -6491,14 +6555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190741,
-      "num": 190741,
-      "word": "日本山口市发生人猴大战",
-      "onboard_time": 1658929471,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187828,
       "num": 187828,
       "word": "外交部回应所谓中国试图渗透美联储",
@@ -6705,6 +6761,14 @@
       "onboard_time": 1658916933,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165776,
+      "num": 165776,
+      "word": "分享我相册中关于樊振东的第一张照片",
+      "onboard_time": 1658931514,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 165750,
@@ -7185,6 +7249,14 @@
       "onboard_time": 1658691911,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 53703,
+      "num": 2100352,
+      "word": "问天实验舱超高清发射纪实",
+      "onboard_time": 1658930434,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52488,
