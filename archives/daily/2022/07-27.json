@@ -1,6 +1,6 @@
 {
   "startTime": 1658853082262,
-  "endTime": 1658926141389,
+  "endTime": 1658929720233,
   "band_list": [
     {
       "raw_hot": 4338933,
@@ -49,6 +49,14 @@
       "onboard_time": 1658899594,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2842050,
+      "num": 2842050,
+      "word": "啊泽",
+      "onboard_time": 1658925629,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 2713928,
@@ -195,8 +203,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391066,
+      "num": 655582,
+      "word": "肖战直播",
+      "onboard_time": 1658928992,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1353124,
+      "num": 1353124,
+      "word": "钱三一是不是疯了",
+      "onboard_time": 1658928815,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1310031,
-      "num": 603737,
+      "num": 1297936,
       "word": "迪丽热巴直播",
       "onboard_time": 1658925034,
       "rank": 10,
@@ -307,6 +331,22 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 1012000,
+      "num": 805322,
+      "word": "吴磊赵露思月升沧海追剧日历",
+      "onboard_time": 1658926949,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 985505,
+      "num": 985505,
+      "word": "男子怒甩键盘将儿子砸成重伤获刑",
+      "onboard_time": 1658921612,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965028,
       "num": 965028,
       "word": "边牧踹我是叫我喝水",
@@ -411,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 804065,
+      "num": 804065,
+      "word": "果农将葡萄喂猪被质疑浪费",
+      "onboard_time": 1658922992,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790755,
       "num": 790755,
       "word": "夏日祭",
@@ -441,14 +489,6 @@
       "onboard_time": 1658852308,
       "rank": 38,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 770318,
-      "num": 770318,
-      "word": "男子怒甩键盘将儿子砸成重伤获刑",
-      "onboard_time": 1658921612,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 769017,
@@ -547,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686835,
+      "num": 686835,
+      "word": "华为鸿蒙设备数突破3亿",
+      "onboard_time": 1658923587,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 681266,
       "num": 681266,
       "word": "IU演唱会海报公开",
@@ -577,6 +625,14 @@
       "onboard_time": 1658849677,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657497,
+      "num": 420121,
+      "word": "凌不疑程少商双向告白",
+      "onboard_time": 1658928454,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 643407,
@@ -619,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 611355,
-      "num": 611355,
-      "word": "果农将葡萄喂猪被质疑浪费",
-      "onboard_time": 1658922992,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 612131,
+      "num": 419730,
+      "word": "告五人",
+      "onboard_time": 1658927913,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 608877,
@@ -632,6 +688,14 @@
       "word": "林妙妙遭前男友报复",
       "onboard_time": 1658903429,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 607447,
+      "num": 419724,
+      "word": "星汉灿烂 甜",
+      "onboard_time": 1658926833,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -659,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581460,
+      "num": 575209,
+      "word": "怪不得顺德仙姬非要长意的鱼尾做裙子",
+      "onboard_time": 1658922093,
+      "rank": 30,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 577276,
       "num": 577276,
       "word": "华为鸿蒙发布会",
@@ -681,14 +753,6 @@
       "onboard_time": 1658886033,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565487,
-      "num": 565487,
-      "word": "华为鸿蒙设备数突破3亿",
-      "onboard_time": 1658923587,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 563338,
@@ -721,6 +785,14 @@
       "onboard_time": 1658889633,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543780,
+      "num": 543780,
+      "word": "宣萱回应和古天乐是兄弟感情",
+      "onboard_time": 1658926173,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 542333,
@@ -835,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486988,
+      "num": 420064,
+      "word": "程少商告状",
+      "onboard_time": 1658926293,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485968,
       "num": 416208,
       "word": "安乐传预计今年底播出",
@@ -939,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 467538,
+      "num": 467538,
+      "word": "未央好可惜",
+      "onboard_time": 1658928572,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 459521,
       "num": 459521,
       "word": "00后算是把录取通知书晒明白了",
@@ -1011,12 +1099,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 430050,
+      "num": 274874,
+      "word": "NCTDREAM演唱会取消",
+      "onboard_time": 1658926411,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 429691,
       "num": 429691,
       "word": "浙江省考",
       "onboard_time": 1658919571,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 424726,
+      "num": 333143,
+      "word": "钱三一的解药是林妙妙",
+      "onboard_time": 1658927554,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 423929,
@@ -1027,12 +1131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420845,
-      "num": 367767,
-      "word": "怪不得顺德仙姬非要长意的鱼尾做裙子",
-      "onboard_time": 1658922093,
-      "rank": 30,
-      "category": "幽默,影视"
+      "raw_hot": 420251,
+      "num": 420251,
+      "word": "华为MatePad",
+      "onboard_time": 1658927073,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 419480,
@@ -1107,6 +1211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 394510,
+      "num": 394510,
+      "word": "华为发布首款鸿蒙彩色打印机",
+      "onboard_time": 1658925213,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 392570,
       "num": 392570,
       "word": "女子乘公交核酸过期拒下车",
@@ -1123,20 +1235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390466,
-      "num": 390466,
-      "word": "啊泽",
-      "onboard_time": 1658925629,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 389783,
       "num": 389783,
       "word": "杭州暴雨",
       "onboard_time": 1658920649,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386468,
+      "num": 386468,
+      "word": "华为发布典藏版笔记本",
+      "onboard_time": 1658927913,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 384858,
@@ -1201,6 +1313,22 @@
       "onboard_time": 1658904268,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366394,
+      "num": 366394,
+      "word": "你能听出耳机音质好坏吗",
+      "onboard_time": 1658928572,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 365988,
+      "num": 365988,
+      "word": "HarmonyOS",
+      "onboard_time": 1658924912,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 361895,
@@ -1281,14 +1409,6 @@
       "onboard_time": 1658912793,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 344381,
-      "num": 344381,
-      "word": "HarmonyOS",
-      "onboard_time": 1658924912,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 339030,
@@ -1500,7 +1620,7 @@
     },
     {
       "raw_hot": 293554,
-      "num": 263035,
+      "num": 271136,
       "word": "沉香如屑 虐",
       "onboard_time": 1658921009,
       "rank": 31,
@@ -1513,14 +1633,6 @@
       "onboard_time": 1658907333,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292867,
-      "num": 292867,
-      "word": "华为发布首款鸿蒙彩色打印机",
-      "onboard_time": 1658925213,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 292539,
@@ -1563,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289442,
+      "num": 289442,
+      "word": "国足获得东亚杯季军",
+      "onboard_time": 1658927733,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288968,
       "num": 288968,
       "word": "第一次见站得这么端正的小狗",
@@ -1595,12 +1715,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 277309,
+      "num": 277309,
+      "word": "杭州核酸系统",
+      "onboard_time": 1658925511,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275380,
       "num": 145492,
       "word": "怦然心动20岁",
       "onboard_time": 1658900070,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274100,
+      "num": 274100,
+      "word": "第一次见脾气这么好的猫",
+      "onboard_time": 1658921670,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 272819,
@@ -1641,14 +1777,6 @@
       "onboard_time": 1658900971,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265679,
-      "num": 265679,
-      "word": "第一次见脾气这么好的猫",
-      "onboard_time": 1658921670,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 265350,
@@ -1779,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251791,
+      "num": 251791,
+      "word": "杭州核酸",
+      "onboard_time": 1658925511,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251195,
       "num": 251195,
       "word": "应渊发现颜淡焚烧真身",
@@ -1817,6 +1953,14 @@
       "onboard_time": 1658913991,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246572,
+      "num": 246572,
+      "word": "小兽",
+      "onboard_time": 1658928335,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 245261,
@@ -1865,14 +2009,6 @@
       "onboard_time": 1658914412,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235509,
-      "num": 235509,
-      "word": "杭州核酸",
-      "onboard_time": 1658925511,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234916,
@@ -2011,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206575,
+      "num": 206575,
+      "word": "华为MateBook",
+      "onboard_time": 1658929593,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 205970,
       "num": 205970,
       "word": "谭龙手指国旗庆祝进球",
@@ -2065,6 +2209,14 @@
       "onboard_time": 1658847574,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190741,
+      "num": 190741,
+      "word": "日本山口市发生人猴大战",
+      "onboard_time": 1658929471,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187828,
@@ -2377,6 +2529,14 @@
       "onboard_time": 1658856497,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91690,
+      "num": 582720,
+      "word": "现在办公都这么硬核了吗",
+      "onboard_time": 1658926833,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82759,
