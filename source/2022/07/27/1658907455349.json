@@ -1,0 +1,410 @@
+{
+  "runTime": 1658907455349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1708112,
+        "num": 1708112,
+        "word": "二舅走红后全家哭了一场",
+        "onboard_time": 1658891250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433959,
+        "num": 1433959,
+        "word": "车主因眼睛小被自动驾驶误判",
+        "onboard_time": 1658903189,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76873,
+        "num": 1175634,
+        "word": "消博会有多好逛",
+        "onboard_time": 1658898994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034485,
+        "num": 1034485,
+        "word": "于文文 喜欢阿娇叫我鱼丸丸",
+        "onboard_time": 1658906309,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1010743,
+        "num": 1010743,
+        "word": "二舅和姥姥已不在小山村",
+        "onboard_time": 1658893112,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907432,
+        "num": 907432,
+        "word": "妈妈带500斤食物到上海看儿子",
+        "onboard_time": 1658901391,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663719,
+        "num": 663719,
+        "word": "迪丽热巴长歌行杀青两周年",
+        "onboard_time": 1658905709,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622429,
+        "num": 622429,
+        "word": "芒果TV会员又涨价",
+        "onboard_time": 1658891493,
+        "rank": 7,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 528805,
+        "num": 528805,
+        "word": "中国空间站上为什么只写中文",
+        "onboard_time": 1658901152,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 521821,
+        "num": 521821,
+        "word": "周琦 快船",
+        "onboard_time": 1658903371,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1665811,
+        "num": 509109,
+        "word": "二胎妈妈睡2小时给孩子做早餐",
+        "onboard_time": 1658903010,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1519593,
+        "num": 501119,
+        "word": "重庆男子一胎得女发文称晦气",
+        "onboard_time": 1658899594,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722458,
+        "num": 478166,
+        "word": "许凯彭昱畅情头",
+        "onboard_time": 1658903189,
+        "rank": 12,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 608877,
+        "num": 472865,
+        "word": "林妙妙遭前男友报复",
+        "onboard_time": 1658903429,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542333,
+        "num": 448761,
+        "word": "杨紫沉香如屑迷路800年",
+        "onboard_time": 1658906069,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443741,
+        "num": 443741,
+        "word": "金毛在后备箱中暑了",
+        "onboard_time": 1658903493,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438624,
+        "num": 438624,
+        "word": "腾讯称未来电竞人才缺口200万",
+        "onboard_time": 1658905350,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427562,
+        "num": 427562,
+        "word": "邻居用被子接住4楼坠落孩子",
+        "onboard_time": 1658902352,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 425674,
+        "num": 425674,
+        "word": "双胞胎男婴晒太阳1个月肤色感人",
+        "onboard_time": 1658897856,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367253,
+        "num": 367253,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207770,
+        "num": 358360,
+        "word": "土土",
+        "onboard_time": 1658893413,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 348660,
+        "num": 348660,
+        "word": "中餐厅6合伙人官宣",
+        "onboard_time": 1658892690,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348050,
+        "num": 348050,
+        "word": "嫋嫋180秒极致可爱",
+        "onboard_time": 1658899173,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303367,
+        "num": 303367,
+        "word": "女子在超市偷一盒榴莲躲厕所吃完",
+        "onboard_time": 1658890952,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283097,
+        "num": 283097,
+        "word": "5岁男童癌症复发引出17种并发症",
+        "onboard_time": 1658896958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254280,
+        "num": 254280,
+        "word": "男孩住敬老院苦读10年考上医学院",
+        "onboard_time": 1658905889,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 253360,
+        "num": 253360,
+        "word": "边牧踹我是叫我喝水",
+        "onboard_time": 1658892152,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234427,
+        "num": 234427,
+        "word": "美国大基建怎样了",
+        "onboard_time": 1658904629,
+        "rank": 27,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 206704,
+        "num": 206704,
+        "word": "极目评男子一胎得女发文称晦气",
+        "onboard_time": 1658907333,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199778,
+        "num": 199778,
+        "word": "出版社回应幼儿读本写公交车吃人",
+        "onboard_time": 1658904090,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333763,
+        "num": 199657,
+        "word": "刘浩存亮相青年电影手册盛典",
+        "onboard_time": 1658906248,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321737,
+        "num": 199405,
+        "word": "王紫璇的紫是紫色的紫",
+        "onboard_time": 1658904268,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314151,
+        "num": 198857,
+        "word": "王栎鑫笑吐了",
+        "onboard_time": 1658901271,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279283,
+        "num": 198799,
+        "word": "贾乃亮姐姐回应与趣店合作",
+        "onboard_time": 1658906132,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198479,
+        "num": 198479,
+        "word": "狗狗发现主人用监控找它时",
+        "onboard_time": 1658897378,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192478,
+        "num": 192478,
+        "word": "新疆现七彩祥云",
+        "onboard_time": 1658900971,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189015,
+        "num": 189015,
+        "word": "抖音上线外放默认静音功能",
+        "onboard_time": 1658900254,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173663,
+        "num": 173663,
+        "word": "七夕谁的副驾还没个惊喜",
+        "onboard_time": 1658902830,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162322,
+        "num": 162322,
+        "word": "偷偷漫剧播放破亿",
+        "onboard_time": 1658906731,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154786,
+        "num": 154786,
+        "word": "2000名00后应届生入职京东",
+        "onboard_time": 1658899412,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 774688,
+        "num": 154586,
+        "word": "95后女生因染粉红色头发被网暴",
+        "onboard_time": 1658900611,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241469,
+        "num": 154338,
+        "word": "时代少年团运动风绝配双人舞",
+        "onboard_time": 1658904930,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216977,
+        "num": 154060,
+        "word": "终于等到张小斐的新电影了",
+        "onboard_time": 1658907152,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153179,
+        "num": 153179,
+        "word": "国足vs中国香港首发",
+        "onboard_time": 1658905108,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145643,
+        "num": 145643,
+        "word": "湖北省考",
+        "onboard_time": 1658889451,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142247,
+        "num": 142247,
+        "word": "iPhone14或支持万兆网",
+        "onboard_time": 1658894194,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139821,
+        "num": 139821,
+        "word": "电锯人",
+        "onboard_time": 1658899714,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138382,
+        "num": 138382,
+        "word": "夏日祭在全国设置21场活动",
+        "onboard_time": 1658888549,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132702,
+        "num": 132702,
+        "word": "挠痒痒的人类幼崽有多可爱",
+        "onboard_time": 1658907032,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128142,
+        "num": 128142,
+        "word": "警方调查祭奠网站设日本战犯纪念堂",
+        "onboard_time": 1658897558,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会后中国接待的首位外国元首#"
+    }
+  }
+}
