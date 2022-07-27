@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658910509755,
+  "endTime": 1658913640754,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -249,6 +249,14 @@
       "onboard_time": 1658813195,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2566440,
+      "num": 2566440,
+      "word": "韩国给拜登起了个韩国名",
+      "onboard_time": 1658908532,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2465871,
@@ -505,6 +513,14 @@
       "onboard_time": 1658679687,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1767494,
+      "num": 1767494,
+      "word": "古茗被曝喝出壁虎",
+      "onboard_time": 1658910511,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1752230,
@@ -843,6 +859,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1272776,
+      "num": 1272776,
+      "word": "B站显示近期延期取消漫展超60个",
+      "onboard_time": 1658908234,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1261989,
       "num": 1261989,
       "word": "国航机长辞职被索赔1066万",
@@ -968,22 +992,6 @@
       "word": "妈妈带500斤食物到上海看儿子",
       "onboard_time": 1658901391,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1130259,
-      "num": 1130259,
-      "word": "韩国给拜登起了个韩国名",
-      "onboard_time": 1658908532,
-      "rank": 1,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1125821,
-      "num": 1125821,
-      "word": "B站显示近期延期取消漫展超60个",
-      "onboard_time": 1658908234,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1267,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890910,
+      "num": 890910,
+      "word": "全国8个县城房价破2万",
+      "onboard_time": 1658910875,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 888543,
       "num": 888543,
       "word": "美宝莲将陆续关闭线下专柜",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1658751391,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845326,
+      "num": 845326,
+      "word": "终于等到张小斐的新电影了",
+      "onboard_time": 1658907152,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 835023,
@@ -1528,14 +1552,6 @@
       "word": "凌不疑有多想娶程少商",
       "onboard_time": 1658845595,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 719347,
-      "num": 719347,
-      "word": "终于等到张小斐的新电影了",
-      "onboard_time": 1658907152,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -2131,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537855,
+      "num": 537855,
+      "word": "BLACKPINK新歌MV预告公开",
+      "onboard_time": 1658908590,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 536063,
       "num": 524895,
       "word": "任嘉伦官宣加盟嗨放派",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1658897378,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 530842,
+      "num": 530842,
+      "word": "洛阳暴雨",
+      "onboard_time": 1658909550,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530774,
@@ -2251,6 +2283,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 519365,
+      "num": 519365,
+      "word": "电影念念相忘撤档",
+      "onboard_time": 1658911053,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518905,
       "num": 518905,
       "word": "沉香如屑费神仙",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1658838810,
       "rank": 27,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 517059,
+      "num": 517059,
+      "word": "李秀满盛赞刘雨昕",
+      "onboard_time": 1658913090,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 512097,
@@ -2345,6 +2393,14 @@
       "onboard_time": 1658809056,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499846,
+      "num": 499846,
+      "word": "民国大侦探0810上线",
+      "onboard_time": 1658912732,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 497898,
@@ -2459,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 481571,
+      "num": 481571,
+      "word": "妇联回应男子一胎得女发文称晦气",
+      "onboard_time": 1658909193,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480011,
       "num": 480011,
       "word": "tangoz沙一汀落水版情头",
@@ -2480,6 +2544,14 @@
       "word": "2岁男孩用头护住轮椅上的爸爸",
       "onboard_time": 1658889451,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473426,
+      "num": 473426,
+      "word": "男子整理爷爷遗物发现4颗手榴弹",
+      "onboard_time": 1658911290,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2585,14 +2657,6 @@
       "onboard_time": 1658744679,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454326,
-      "num": 454326,
-      "word": "BLACKPINK新歌MV预告公开",
-      "onboard_time": 1658908590,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 453030,
@@ -2729,6 +2793,14 @@
       "onboard_time": 1658753313,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435280,
+      "num": 435280,
+      "word": "Doggo上调BLG一队",
+      "onboard_time": 1658911354,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 430404,
@@ -3003,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397011,
+      "num": 397011,
+      "word": "警方回应女子路边遭货车男殴打",
+      "onboard_time": 1658910211,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396896,
       "num": 396896,
       "word": "在厨房装空调真的很有必要",
@@ -3019,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395579,
+      "num": 391561,
+      "word": "吴磊背赵露思花絮视频",
+      "onboard_time": 1658909254,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392570,
       "num": 392570,
       "word": "女子乘公交核酸过期拒下车",
@@ -3033,14 +3121,6 @@
       "onboard_time": 1658823096,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391561,
-      "num": 391561,
-      "word": "吴磊背赵露思花絮视频",
-      "onboard_time": 1658909254,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 390464,
@@ -3081,6 +3161,14 @@
       "onboard_time": 1658749895,
       "rank": 21,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 388452,
+      "num": 388452,
+      "word": "科学家发现月球真有广寒宫",
+      "onboard_time": 1658911711,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 388116,
@@ -3275,12 +3363,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 360836,
-      "num": 360836,
-      "word": "洛阳暴雨",
-      "onboard_time": 1658909550,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 360609,
+      "num": 360609,
+      "word": "中国男足1比0中国香港",
+      "onboard_time": 1658912974,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 360239,
@@ -3297,6 +3385,14 @@
       "onboard_time": 1658726670,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358858,
+      "num": 260732,
+      "word": "张新成缩墙角哭着哭着笑了",
+      "onboard_time": 1658911236,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 358675,
@@ -3417,6 +3513,14 @@
       "onboard_time": 1658665232,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347250,
+      "num": 260189,
+      "word": "NCT127将发行正规四辑",
+      "onboard_time": 1658912793,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 347159,
@@ -3764,7 +3868,7 @@
     },
     {
       "raw_hot": 320101,
-      "num": 234013,
+      "num": 257334,
       "word": "快乐再出发",
       "onboard_time": 1658843195,
       "rank": 34,
@@ -4011,14 +4115,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 305223,
-      "num": 305223,
-      "word": "警方回应女子路边遭货车男殴打",
-      "onboard_time": 1658910211,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305043,
       "num": 305043,
       "word": "多国电竞选手喊话你好杭州",
@@ -4065,6 +4161,14 @@
       "onboard_time": 1658805093,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300609,
+      "num": 300609,
+      "word": "两熊孩子深夜在加油站旁放火烧车",
+      "onboard_time": 1658907515,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300470,
@@ -4307,6 +4411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288546,
+      "num": 288546,
+      "word": "外交部再次就佩洛西访台表态",
+      "onboard_time": 1658912913,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 288545,
       "num": 288545,
       "word": "中国基建又秀技",
@@ -4515,14 +4627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273259,
-      "num": 273259,
-      "word": "两熊孩子深夜在加油站旁放火烧车",
-      "onboard_time": 1658907515,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272337,
       "num": 272337,
       "word": "店主贴纸条称没奶粉可砸玻璃取",
@@ -4569,6 +4673,14 @@
       "onboard_time": 1658748572,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270334,
+      "num": 220858,
+      "word": "杨紫成毅浪漫氛围终结者",
+      "onboard_time": 1658912074,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 270066,
@@ -4665,6 +4777,14 @@
       "onboard_time": 1658845357,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263232,
+      "num": 263232,
+      "word": "国足半场0比0中国香港",
+      "onboard_time": 1658910152,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 262364,
@@ -5147,6 +5267,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 230276,
+      "num": 230276,
+      "word": "武汉人越来越淡定了",
+      "onboard_time": 1658912612,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229784,
       "num": 229784,
       "word": "这就是留学的意义吧",
@@ -5385,14 +5513,6 @@
       "onboard_time": 1658850813,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216431,
-      "num": 216431,
-      "word": "妇联回应男子一胎得女发文称晦气",
-      "onboard_time": 1658909193,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216103,
@@ -5763,6 +5883,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 183976,
+      "num": 183976,
+      "word": "国足2022东亚杯首球",
+      "onboard_time": 1658912253,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183222,
       "num": 183222,
       "word": "北京7月24日新增1例本土确诊",
@@ -5899,6 +6027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165346,
+      "num": 165346,
+      "word": "富贵包自身难保了",
+      "onboard_time": 1658913450,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164409,
       "num": 2048243,
       "word": "问天实验舱长啥样",
@@ -6011,10 +6147,10 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 150488,
-      "num": 150488,
-      "word": "国足半场0比0中国香港",
-      "onboard_time": 1658910152,
+      "raw_hot": 150239,
+      "num": 150239,
+      "word": "中国香港极限解围",
+      "onboard_time": 1658911053,
       "rank": 45,
       "category": "体育"
     },
