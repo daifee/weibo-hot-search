@@ -1,0 +1,410 @@
+{
+  "runTime": 1658904330352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2032996,
+        "num": 2032996,
+        "word": "二舅走红后全家哭了一场",
+        "onboard_time": 1658891250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439727,
+        "num": 1439727,
+        "word": "二舅和姥姥已不在小山村",
+        "onboard_time": 1658893112,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96579,
+        "num": 1127351,
+        "word": "消博会有多好逛",
+        "onboard_time": 1658898994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964282,
+        "num": 964282,
+        "word": "妈妈带500斤食物到上海看儿子",
+        "onboard_time": 1658901391,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858672,
+        "num": 858672,
+        "word": "芒果TV会员又涨价",
+        "onboard_time": 1658891493,
+        "rank": 4,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 729558,
+        "num": 729558,
+        "word": "双胞胎男婴晒太阳1个月肤色感人",
+        "onboard_time": 1658897856,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653150,
+        "num": 653150,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620404,
+        "num": 620404,
+        "word": "中餐厅6合伙人官宣",
+        "onboard_time": 1658892690,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533647,
+        "num": 533647,
+        "word": "嫋嫋180秒极致可爱",
+        "onboard_time": 1658899173,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512191,
+        "num": 512191,
+        "word": "二胎妈妈睡2小时给孩子做早餐",
+        "onboard_time": 1658903010,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2891107,
+        "num": 511596,
+        "word": "重庆男子一胎得女发文称晦气",
+        "onboard_time": 1658899594,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025564,
+        "num": 511177,
+        "word": "许凯彭昱畅情头",
+        "onboard_time": 1658903189,
+        "rank": 11,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 532386,
+        "num": 510961,
+        "word": "王栎鑫笑吐了",
+        "onboard_time": 1658901271,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510715,
+        "num": 510715,
+        "word": "中国空间站上为什么只写中文",
+        "onboard_time": 1658901152,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 488543,
+        "num": 488543,
+        "word": "女子在超市偷一盒榴莲躲厕所吃完",
+        "onboard_time": 1658890952,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443519,
+        "num": 443519,
+        "word": "车主因眼睛小被自动驾驶误判",
+        "onboard_time": 1658903189,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392268,
+        "num": 392268,
+        "word": "抖音上线外放默认静音功能",
+        "onboard_time": 1658900254,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 384384,
+        "num": 384384,
+        "word": "章若楠上中餐厅带了80个棒棒糖",
+        "onboard_time": 1658902352,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382724,
+        "num": 382724,
+        "word": "周琦 快船",
+        "onboard_time": 1658903371,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359788,
+        "num": 359788,
+        "word": "5岁男童癌症复发引出17种并发症",
+        "onboard_time": 1658896958,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1906281,
+        "num": 353110,
+        "word": "95后女生因染粉红色头发被网暴",
+        "onboard_time": 1658900611,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530424,
+        "num": 346687,
+        "word": "土土",
+        "onboard_time": 1658893413,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 373954,
+        "num": 343885,
+        "word": "刘诗诗也跳刘畊宏",
+        "onboard_time": 1658892512,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336516,
+        "num": 336516,
+        "word": "边牧踹我是叫我喝水",
+        "onboard_time": 1658892152,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317819,
+        "num": 317819,
+        "word": "2000名00后应届生入职京东",
+        "onboard_time": 1658899412,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 312130,
+        "num": 312130,
+        "word": "成毅拍戏被血呛到",
+        "onboard_time": 1658903493,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278776,
+        "num": 278776,
+        "word": "邻居用被子接住4楼坠落孩子",
+        "onboard_time": 1658902352,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 275491,
+        "num": 275491,
+        "word": "狗狗发现主人用监控找它时",
+        "onboard_time": 1658897378,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254268,
+        "num": 254268,
+        "word": "电锯人",
+        "onboard_time": 1658899714,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 252674,
+        "num": 252674,
+        "word": "警方调查祭奠网站设日本战犯纪念堂",
+        "onboard_time": 1658897558,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298141,
+        "num": 250732,
+        "word": "林妙妙遭前男友报复",
+        "onboard_time": 1658903429,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275853,
+        "num": 242435,
+        "word": "子晟很好相处的",
+        "onboard_time": 1658890349,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274926,
+        "num": 237543,
+        "word": "密室大逃脱",
+        "onboard_time": 1658897318,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265350,
+        "num": 231546,
+        "word": "殷桃带自制杏子果酱来中餐厅",
+        "onboard_time": 1658901571,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230388,
+        "num": 230388,
+        "word": "新疆现七彩祥云",
+        "onboard_time": 1658900971,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227213,
+        "num": 227213,
+        "word": "周劼及父母名下共计住房6套",
+        "onboard_time": 1658882193,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 208035,
+        "num": 208035,
+        "word": "金毛在后备箱中暑了",
+        "onboard_time": 1658903493,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207368,
+        "num": 207368,
+        "word": "夏日祭在全国设置21场活动",
+        "onboard_time": 1658888549,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199430,
+        "num": 199430,
+        "word": "七夕谁的副驾还没个惊喜",
+        "onboard_time": 1658902830,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197791,
+        "num": 197791,
+        "word": "考研期间被男朋友骂醒了",
+        "onboard_time": 1658882075,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223158,
+        "num": 194584,
+        "word": "做家务的男人4官宣海报",
+        "onboard_time": 1658898515,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187175,
+        "num": 187175,
+        "word": "iPhone14或支持万兆网",
+        "onboard_time": 1658894194,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152973,
+        "num": 152973,
+        "word": "湖北省考",
+        "onboard_time": 1658889451,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143037,
+        "num": 143037,
+        "word": "wayward",
+        "onboard_time": 1658889633,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121466,
+        "num": 121466,
+        "word": "出版社回应幼儿读本写公交车吃人",
+        "onboard_time": 1658904090,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 120571,
+        "word": "视频平台频繁涨价合理吗",
+        "onboard_time": 1658896055,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 117862,
+        "num": 117862,
+        "word": "00后算是把录取通知书晒明白了",
+        "onboard_time": 1658890408,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 221895,
+        "num": 116206,
+        "word": "王紫璇的紫是紫色的紫",
+        "onboard_time": 1658904268,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112191,
+        "num": 112191,
+        "word": "C罗与曼联谈崩了",
+        "onboard_time": 1658891731,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101766,
+        "num": 101766,
+        "word": "二舅治愈的是什么",
+        "onboard_time": 1658895514,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
