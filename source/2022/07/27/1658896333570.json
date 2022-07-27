@@ -1,0 +1,410 @@
+{
+  "runTime": 1658896333570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4338933,
+        "num": 4338933,
+        "word": "二舅走红后全家哭了一场",
+        "onboard_time": 1658891250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3733172,
+        "num": 3733172,
+        "word": "二舅和姥姥已不在小山村",
+        "onboard_time": 1658893112,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47067,
+        "num": 2730404,
+        "word": "特警高燃夏训场面",
+        "onboard_time": 1658847574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2102959,
+        "num": 2102959,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867831,
+        "num": 1867831,
+        "word": "周劼已被停职",
+        "onboard_time": 1658879432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1624590,
+        "num": 1624590,
+        "word": "芒果TV会员又涨价",
+        "onboard_time": 1658891493,
+        "rank": 5,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 1524053,
+        "num": 1524053,
+        "word": "女子在超市偷一盒榴莲躲厕所吃完",
+        "onboard_time": 1658890952,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392977,
+        "num": 1392977,
+        "word": "中餐厅6合伙人官宣",
+        "onboard_time": 1658892690,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1033553,
+        "num": 1033553,
+        "word": "考研期间被男朋友骂醒了",
+        "onboard_time": 1658882075,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1030266,
+        "num": 1030266,
+        "word": "刘诗诗也跳刘畊宏",
+        "onboard_time": 1658892512,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 965028,
+        "num": 965028,
+        "word": "边牧踹我是叫我喝水",
+        "onboard_time": 1658892152,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 828774,
+        "num": 828774,
+        "word": "iPhone14或支持万兆网",
+        "onboard_time": 1658894194,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 698888,
+        "num": 698888,
+        "word": "夏日祭在全国设置21场活动",
+        "onboard_time": 1658888549,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694733,
+        "num": 694733,
+        "word": "雷佳音张小斐新片官宣",
+        "onboard_time": 1658894734,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480011,
+        "num": 480011,
+        "word": "tangoz沙一汀落水版情头",
+        "onboard_time": 1658895696,
+        "rank": 14,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 442731,
+        "num": 442731,
+        "word": "2岁男孩用头护住轮椅上的爸爸",
+        "onboard_time": 1658889451,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436946,
+        "num": 436946,
+        "word": "网传历届金鹰女神将同台",
+        "onboard_time": 1658886691,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429132,
+        "num": 429132,
+        "word": "wayward",
+        "onboard_time": 1658889633,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 412457,
+        "num": 412457,
+        "word": "大学生40度高温天沿街发汉堡",
+        "onboard_time": 1658889268,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401394,
+        "num": 401394,
+        "word": "央视曝光高端婚介骗局",
+        "onboard_time": 1658885972,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 3500635,
+        "num": 399753,
+        "word": "土土",
+        "onboard_time": 1658893413,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 392775,
+        "num": 392775,
+        "word": "子晟很好相处的",
+        "onboard_time": 1658890349,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386219,
+        "num": 386219,
+        "word": "周劼及父母名下共计住房6套",
+        "onboard_time": 1658882193,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 385210,
+        "num": 385210,
+        "word": "C罗与曼联谈崩了",
+        "onboard_time": 1658891731,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383475,
+        "num": 383475,
+        "word": "00后算是把录取通知书晒明白了",
+        "onboard_time": 1658890408,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 349766,
+        "num": 349766,
+        "word": "登录圆鱼洲全员cos精灵",
+        "onboard_time": 1658895637,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319701,
+        "num": 319701,
+        "word": "恋与制作人",
+        "onboard_time": 1658893413,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314945,
+        "num": 314945,
+        "word": "夏日祭",
+        "onboard_time": 1658878647,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300470,
+        "num": 300470,
+        "word": "再见了天舟三号",
+        "onboard_time": 1658895936,
+        "rank": 28,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 297876,
+        "num": 297876,
+        "word": "中华小子高清重制版",
+        "onboard_time": 1658893112,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 344419,
+        "num": 297177,
+        "word": "凌不疑用嫋嫋酒杯敬酒",
+        "onboard_time": 1658887950,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342798,
+        "num": 294777,
+        "word": "王力宏新冠确诊",
+        "onboard_time": 1658847574,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339514,
+        "num": 294115,
+        "word": "成毅沉香如屑人物曲忘川",
+        "onboard_time": 1658891310,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312463,
+        "num": 291709,
+        "word": "刘宇芭莎男士金发大片",
+        "onboard_time": 1658895754,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 291460,
+        "num": 291460,
+        "word": "湖北省考",
+        "onboard_time": 1658889451,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287651,
+        "num": 287651,
+        "word": "第一次见站得这么端正的小狗",
+        "onboard_time": 1658891493,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 265543,
+        "num": 265543,
+        "word": "四川沐川通报持枪伤人案",
+        "onboard_time": 1658878091,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250044,
+        "num": 250044,
+        "word": "科学家揭示地球为何没火星化",
+        "onboard_time": 1658895574,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 249906,
+        "num": 249906,
+        "word": "视频平台频繁涨价合理吗",
+        "onboard_time": 1658896055,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 248857,
+        "num": 248857,
+        "word": "女子穿马面裙进迪奥拍照被制止",
+        "onboard_time": 1658850334,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295022,
+        "num": 248813,
+        "word": "成毅天刑台无实物表演",
+        "onboard_time": 1658896239,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274076,
+        "num": 244650,
+        "word": "乘风破浪五公芭莎在路上视频",
+        "onboard_time": 1658890468,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237424,
+        "num": 237424,
+        "word": "二舅治愈的是什么",
+        "onboard_time": 1658895514,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227446,
+        "num": 227446,
+        "word": "双胞胎姐妹收到通知书的反应",
+        "onboard_time": 1658893474,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216928,
+        "num": 216928,
+        "word": "穿马面裙进迪奥拍照女子回应",
+        "onboard_time": 1658893531,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216673,
+        "num": 216673,
+        "word": "你有精神内耗吗",
+        "onboard_time": 1658870891,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216035,
+        "num": 216035,
+        "word": "罗敏到底得罪了多少年轻人",
+        "onboard_time": 1658880090,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 214430,
+        "num": 214430,
+        "word": "男子夜晚言语骚扰女子被拒称可给钱",
+        "onboard_time": 1658884351,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211847,
+        "num": 211847,
+        "word": "美国发现首例孕妇猴痘病例",
+        "onboard_time": 1658882734,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "菲律宾发生7.0级地震",
+        "onboard_time": 1658886033,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
