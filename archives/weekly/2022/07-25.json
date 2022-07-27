@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658947387835,
+  "endTime": 1658950929202,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -7283,6 +7283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101060,
+      "num": 101060,
+      "word": "俞灏明姚政加盟快乐再出发",
+      "onboard_time": 1658948472,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100761,
       "num": 100761,
       "word": "校园贷危害有多大",
@@ -7411,6 +7419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77839,
+      "num": 77839,
+      "word": "好想好想谈一场老派的恋爱",
+      "onboard_time": 1658948052,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74003,
+      "num": 74003,
+      "word": "心疼颜淡",
+      "onboard_time": 1658945056,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71167,
       "num": 1955272,
       "word": "2022中国有约",
@@ -7425,6 +7449,14 @@
       "onboard_time": 1658861113,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 58228,
+      "num": 58228,
+      "word": "张子枫新剧跳女团舞",
+      "onboard_time": 1658948772,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 55902,
@@ -7449,14 +7481,6 @@
       "onboard_time": 1658860094,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51519,
-      "num": 51519,
-      "word": "心疼颜淡",
-      "onboard_time": 1658945056,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 51390,
