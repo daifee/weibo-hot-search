@@ -1,6 +1,6 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1658961607054,
+  "endTime": 1658965023947,
   "band_list": [
     {
       "raw_hot": 2502867,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1854766,
-      "num": 475779,
+      "num": 477044,
       "word": "男子工资5千养4个孩子压力大轻生",
       "onboard_time": 1658933557,
       "rank": 10,
@@ -27,11 +27,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1355398,
+      "num": 1355398,
+      "word": "四川枪击案搜捕民兵发声",
+      "onboard_time": 1658941283,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110787,
       "num": 1110787,
       "word": "王姈妈妈",
       "onboard_time": 1658935176,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1036530,
+      "num": 1036530,
+      "word": "北京一拉布拉多犬超高被没收",
+      "onboard_time": 1658942958,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787606,
+      "num": 787606,
+      "word": "迪丽热巴刘宇宁侧颜路透",
+      "onboard_time": 1658958312,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 751479,
-      "num": 229185,
+      "num": 239174,
       "word": "江西省纪委介入调查周劼事件",
       "onboard_time": 1658934274,
       "rank": 20,
@@ -67,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641457,
-      "num": 641457,
-      "word": "四川枪击案搜捕民兵发声",
-      "onboard_time": 1658941283,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 590560,
       "num": 590560,
       "word": "奶奶病危请假被HR要求证明是亲奶",
@@ -89,6 +105,14 @@
       "onboard_time": 1658932898,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509065,
+      "num": 509065,
+      "word": "部分iPhone14镜头出现问题",
+      "onboard_time": 1658957470,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 507469,
@@ -107,14 +131,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 469509,
-      "num": 256724,
-      "word": "迪丽热巴刘宇宁侧颜路透",
-      "onboard_time": 1658958312,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 453320,
       "num": 453320,
       "word": "凌不疑叫程少商嫋嫋",
@@ -123,11 +139,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 394067,
-      "num": 394067,
-      "word": "北京一拉布拉多犬超高被没收",
-      "onboard_time": 1658942958,
-      "rank": 25,
+      "raw_hot": 393846,
+      "num": 393846,
+      "word": "男子婚后14年发现俩孩子非亲生",
+      "onboard_time": 1658964201,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282848,
+      "num": 282848,
+      "word": "美联储大概率加息75个基点",
+      "onboard_time": 1658945535,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 270888,
       "num": 270888,
       "word": "古茗回应奶茶被曝喝出壁虎",
@@ -203,12 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248605,
-      "num": 150178,
-      "word": "部分iPhone14镜头出现问题",
-      "onboard_time": 1658957470,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 239196,
+      "num": 239196,
+      "word": "重庆男子一胎得女发文称晦气",
+      "onboard_time": 1658899594,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235147,
+      "num": 235147,
+      "word": "真的会担心0713的精神状态",
+      "onboard_time": 1658957351,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 231981,
@@ -217,14 +249,6 @@
       "onboard_time": 1658924912,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 229309,
-      "num": 229309,
-      "word": "重庆男子一胎得女发文称晦气",
-      "onboard_time": 1658899594,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228777,
@@ -291,6 +315,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 178531,
+      "num": 178531,
+      "word": "周杰伦预告错过的烟火MV",
+      "onboard_time": 1658964744,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 177109,
+      "num": 150041,
+      "word": "月升沧海",
+      "onboard_time": 1658921670,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176719,
       "num": 176719,
       "word": "周劼称没有经济行贿可以去查",
@@ -331,6 +371,22 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 158298,
+      "num": 158298,
+      "word": "好想好想谈一场老派的恋爱",
+      "onboard_time": 1658948052,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 155154,
+      "num": 155154,
+      "word": "广西一种植员被称为荔枝奶爸",
+      "onboard_time": 1658963601,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148966,
       "num": 105406,
       "word": "月升沧海预告",
@@ -363,12 +419,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 133919,
+      "num": 133919,
+      "word": "957 WE",
+      "onboard_time": 1658955791,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126105,
+      "num": 126105,
+      "word": "董宇辉劝年轻人不要沉醉于虚拟世界",
+      "onboard_time": 1658964621,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 119924,
       "num": 119924,
       "word": "未央好可惜",
       "onboard_time": 1658928572,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119681,
+      "num": 119681,
+      "word": "大蒜生吃更能发挥杀菌抗癌作用",
+      "onboard_time": 1658918130,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117157,
@@ -379,12 +459,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101060,
-      "num": 101060,
+      "raw_hot": 115574,
+      "num": 115574,
       "word": "俞灏明姚政加盟快乐再出发",
       "onboard_time": 1658948472,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112749,
+      "num": 112749,
+      "word": "你能接受生吃大蒜吗",
+      "onboard_time": 1658964321,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106617,
+      "num": 106617,
+      "word": "俄罗斯决定绕过5G直接开发6G网络",
+      "onboard_time": 1658964804,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 94216,
+      "num": 94216,
+      "word": "杜富国钱七虎聂海胜荣获八一勋章",
+      "onboard_time": 1658962156,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93241,
@@ -411,22 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86771,
-      "num": 86771,
-      "word": "大蒜生吃更能发挥杀菌抗癌作用",
-      "onboard_time": 1658918130,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82706,
-      "num": 82706,
-      "word": "美联储大概率加息75个基点",
-      "onboard_time": 1658945535,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 80609,
       "num": 80609,
       "word": "日本多地政府收到威胁邮件",
@@ -435,28 +523,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 77839,
-      "num": 77839,
-      "word": "好想好想谈一场老派的恋爱",
-      "onboard_time": 1658948052,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 77806,
       "num": 77806,
       "word": "河北多地以家庭为单位常态化筛查",
       "onboard_time": 1658930497,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75838,
-      "num": 75838,
-      "word": "真的会担心0713的精神状态",
-      "onboard_time": 1658957351,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 74003,
@@ -475,6 +547,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 66304,
+      "num": 872075,
+      "word": "问天实验舱超高清发射纪实",
+      "onboard_time": 1658930434,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58228,
       "num": 58228,
       "word": "张子枫新剧跳女团舞",
@@ -491,24 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57816,
-      "num": 872075,
-      "word": "问天实验舱超高清发射纪实",
-      "onboard_time": 1658930434,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48125,
-      "num": 48125,
-      "word": "957 WE",
-      "onboard_time": 1658955791,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 43715,
-      "num": 43715,
+      "raw_hot": 56292,
+      "num": 56292,
       "word": "从事服务工作遇到过什么奇葩事",
       "onboard_time": 1658953092,
       "rank": 48,
@@ -548,6 +612,9 @@
     },
     {
       "word": "#为推进全球治理提供东方智慧#"
+    },
+    {
+      "word": "#喜迎二十大网络名人龙江行#"
     }
   ]
 }
