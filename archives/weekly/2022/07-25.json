@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658941142947,
+  "endTime": 1658943864774,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -2913,6 +2913,14 @@
       "onboard_time": 1658849257,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484173,
+      "num": 484173,
+      "word": "四川枪击案搜捕民兵发声",
+      "onboard_time": 1658941283,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484031,
@@ -6907,6 +6915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164958,
+      "num": 164958,
+      "word": "爱情真的逃不开新鲜感吗",
+      "onboard_time": 1658939665,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164409,
       "num": 2048243,
       "word": "问天实验舱长啥样",
@@ -7091,14 +7107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141826,
-      "num": 141826,
-      "word": "爱情真的逃不开新鲜感吗",
-      "onboard_time": 1658939665,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141749,
       "num": 141749,
       "word": "考12遍科一是种什么体验",
@@ -7176,6 +7184,14 @@
       "word": "林妙妙钱三一约会带娃",
       "onboard_time": 1658859196,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122666,
+      "num": 101851,
+      "word": "房东私自将欠租租户物品扔掉",
+      "onboard_time": 1658942537,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -7273,6 +7289,14 @@
       "onboard_time": 1658774832,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99046,
+      "num": 99046,
+      "word": "北京一拉布拉多犬超高被没收",
+      "onboard_time": 1658942958,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99004,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/07/28 00:33:18 ~ 2022/07/28 00:59:02
+本榜单时间：2022/07/28 00:33:18 ~ 2022/07/28 01:44:24
 </p>
 </blockquote>
 <p>每小时抓取一次数据，按天<a href="https://github.com/daifee/weibo-hot-search/tree/main/archives/daily">归档</a>。</p>
@@ -75,6 +75,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%8A%BC%E5%A6%82%E4%BD%95%E5%85%A5%E8%81%8C%E6%B1%9F%E8%A5%BF%E5%9B%BD%E6%8E%A7%23" target="weibo">
 周劼如何入职江西国控（热度：507469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9E%AA%E5%87%BB%E6%A1%88%E6%90%9C%E6%8D%95%E6%B0%91%E5%85%B5%E5%8F%91%E5%A3%B0%23" target="weibo">
+四川枪击案搜捕民兵发声（热度：484173）
 </a>
 </li>
 
@@ -217,6 +223,12 @@ HarmonyOS（热度：231981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E7%9C%9F%E7%9A%84%E9%80%83%E4%B8%8D%E5%BC%80%E6%96%B0%E9%B2%9C%E6%84%9F%E5%90%97%23" target="weibo">
+爱情真的逃不开新鲜感吗（热度：164958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%B9%9F%E7%AE%A1%E4%B8%8D%E4%BD%8F%E6%B2%88%E8%85%BE%E7%9A%84%E5%98%B4%23" target="weibo">
 谁也管不住沈腾的嘴（热度：164167）
 </a>
@@ -235,12 +247,6 @@ HarmonyOS（热度：231981）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E7%9C%9F%E7%9A%84%E9%80%83%E4%B8%8D%E5%BC%80%E6%96%B0%E9%B2%9C%E6%84%9F%E5%90%97%23" target="weibo">
-爱情真的逃不开新鲜感吗（热度：141826）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E7%8A%B6%E6%80%81%23" target="weibo">
 一诺状态（热度：139134）
 </a>
@@ -253,6 +259,12 @@ HarmonyOS（热度：231981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%A7%81%E8%87%AA%E5%B0%86%E6%AC%A0%E7%A7%9F%E7%A7%9F%E6%88%B7%E7%89%A9%E5%93%81%E6%89%94%E6%8E%89%23" target="weibo">
+房东私自将欠租租户物品扔掉（热度：122666）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%A4%AE%E5%A5%BD%E5%8F%AF%E6%83%9C%23" target="weibo">
 未央好可惜（热度：119924）
 </a>
@@ -261,6 +273,12 @@ HarmonyOS（热度：231981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%E6%9C%AA%E5%87%86%E6%97%B6%E5%88%B0%E8%BE%BE%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
 TheShy未准时到达被处罚（热度：117157）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E7%8A%AC%E8%B6%85%E9%AB%98%E8%A2%AB%E6%B2%A1%E6%94%B6%23" target="weibo">
+北京一拉布拉多犬超高被没收（热度：99046）
 </a>
 </li>
 
