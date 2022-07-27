@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1658877635758,
+  "endTime": 1658888061248,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -115,11 +115,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3580743,
+      "num": 3580743,
+      "word": "二舅",
+      "onboard_time": 1658848776,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3539956,
       "num": 3539956,
       "word": "官方通报两岁女童排除性侵可能",
       "onboard_time": 1658841695,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3401330,
+      "num": 3401330,
+      "word": "周劼已被停职",
+      "onboard_time": 1658879432,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -169,14 +185,6 @@
       "onboard_time": 1658708431,
       "rank": 10,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 2873879,
-      "num": 2873879,
-      "word": "二舅",
-      "onboard_time": 1658848776,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2822907,
@@ -283,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2191668,
+      "num": 2191668,
+      "word": "美国发现首例孕妇猴痘病例",
+      "onboard_time": 1658882734,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2161038,
       "num": 2046609,
       "word": "16岁男生喝珍珠奶茶疑因呛到气管死亡",
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2027894,
+      "num": 2027894,
+      "word": "网传历届金鹰女神将同台",
+      "onboard_time": 1658886691,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1995251,
       "num": 1995251,
       "word": "男子用嘴偷吸路边摩托车的汽油",
@@ -369,6 +393,14 @@
       "onboard_time": 1658732195,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1913103,
+      "num": 1913103,
+      "word": "考研期间被男朋友骂醒了",
+      "onboard_time": 1658882075,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1858741,
@@ -459,8 +491,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1676384,
-      "num": 1676384,
+      "raw_hot": 1685123,
+      "num": 1685123,
       "word": "李国庆曝董宇辉拉黑罗敏真正原因",
       "onboard_time": 1658871852,
       "rank": 10,
@@ -819,6 +851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1158114,
+      "num": 1158114,
+      "word": "央视曝光高端婚介骗局",
+      "onboard_time": 1658885972,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1154366,
       "num": 603622,
       "word": "吴啊萍何以无知堕落至此",
@@ -849,6 +889,14 @@
       "onboard_time": 1658813674,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1115944,
+      "num": 1115944,
+      "word": "周劼及父母名下共计住房6套",
+      "onboard_time": 1658882193,
+      "rank": 7,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1103991,
@@ -1203,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790755,
+      "num": 790755,
+      "word": "夏日祭",
+      "onboard_time": 1658878647,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789379,
       "num": 1977648,
       "word": "蚊子包是免疫系统战斗过的痕迹",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1658717971,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771120,
+      "num": 771120,
+      "word": "夫妻发现煤气泄露误操作被炸伤",
+      "onboard_time": 1658852308,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 770213,
@@ -1451,6 +1515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631495,
+      "num": 631495,
+      "word": "罗敏到底得罪了多少年轻人",
+      "onboard_time": 1658880090,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 630217,
+      "num": 630217,
+      "word": "男子夜晚言语骚扰女子被拒称可给钱",
+      "onboard_time": 1658884351,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627534,
       "num": 627534,
       "word": "广州时尚天河出现活体动物娃娃机",
@@ -1505,14 +1585,6 @@
       "onboard_time": 1658742697,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606293,
-      "num": 606293,
-      "word": "夫妻发现煤气泄露误操作被炸伤",
-      "onboard_time": 1658852308,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 605020,
@@ -1611,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 582085,
+      "num": 582085,
+      "word": "凌不疑疯子",
+      "onboard_time": 1658876783,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580732,
       "num": 523933,
       "word": "时代少年团紫色系穿搭",
@@ -1688,6 +1768,14 @@
       "word": "马斯克否认插足谷歌创始人妻子",
       "onboard_time": 1658719534,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565524,
+      "num": 565524,
+      "word": "菲律宾发生7.0级地震",
+      "onboard_time": 1658886033,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2027,6 +2115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 484508,
+      "num": 484508,
+      "word": "为趣店站过台的明星",
+      "onboard_time": 1658849257,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484031,
       "num": 484031,
       "word": "Uzi明凯成为LPL公益爱心大使",
@@ -2040,6 +2136,14 @@
       "word": "男子景区内偷走刚产下天鹅蛋",
       "onboard_time": 1658737410,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482848,
+      "num": 482848,
+      "word": "四川沐川通报持枪伤人案",
+      "onboard_time": 1658878091,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2275,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423929,
+      "num": 423929,
+      "word": "沐川公安发布悬赏通告",
+      "onboard_time": 1658885431,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423654,
       "num": 423654,
       "word": "蔡徐坤hugme大头贴照",
@@ -2507,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392570,
+      "num": 392570,
+      "word": "女子乘公交核酸过期拒下车",
+      "onboard_time": 1658859374,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392145,
       "num": 322750,
       "word": "只有小精灵受伤的世界",
@@ -2571,14 +2691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387403,
-      "num": 387403,
-      "word": "为趣店站过台的明星",
-      "onboard_time": 1658849257,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382903,
       "num": 382903,
       "word": "四川新增34例本土确诊",
@@ -2641,6 +2753,14 @@
       "onboard_time": 1658837074,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374837,
+      "num": 374837,
+      "word": "广西增236例本土无症状",
+      "onboard_time": 1658884773,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374817,
@@ -2971,14 +3091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331910,
-      "num": 331910,
-      "word": "女子乘公交核酸过期拒下车",
-      "onboard_time": 1658859374,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331172,
       "num": 331172,
       "word": "法拉利",
@@ -3091,14 +3203,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 324225,
-      "num": 324225,
-      "word": "凌不疑疯子",
-      "onboard_time": 1658876783,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 322759,
       "num": 322759,
       "word": "周深给歌迷唱深深谢谢你",
@@ -3113,6 +3217,14 @@
       "onboard_time": 1658761656,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321804,
+      "num": 321804,
+      "word": "高温天封闭的车内有多危险",
+      "onboard_time": 1658884833,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321266,
@@ -3235,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312246,
+      "num": 312246,
+      "word": "比尔盖茨买地动机遭质疑",
+      "onboard_time": 1658880453,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 312116,
       "num": 312116,
       "word": "1个穴位缓解失眠多梦",
@@ -3281,6 +3401,14 @@
       "onboard_time": 1658731473,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 309278,
+      "num": 309278,
+      "word": "时代少年团隐藏才艺展示视频",
+      "onboard_time": 1658887232,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307974,
@@ -3419,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296073,
+      "num": 296073,
+      "word": "广东新增本土无症状4例",
+      "onboard_time": 1658886568,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295477,
       "num": 257609,
       "word": "爱豆全开麦高光舞台",
@@ -3467,6 +3603,14 @@
       "category": "社会议题,科技"
     },
     {
+      "raw_hot": 291118,
+      "num": 291118,
+      "word": "北京暴雨",
+      "onboard_time": 1658884533,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290641,
       "num": 290641,
       "word": "医保跨省直接结算范围拓展",
@@ -3497,6 +3641,14 @@
       "onboard_time": 1658669672,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289604,
+      "num": 289604,
+      "word": "成都暴雨",
+      "onboard_time": 1658886870,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289363,
@@ -3603,6 +3755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283198,
+      "num": 283198,
+      "word": "张艺兴影视综全面开花",
+      "onboard_time": 1658864232,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282127,
       "num": 282127,
       "word": "别拦着我要去云南",
@@ -3632,6 +3792,14 @@
       "word": "新疆网红景点用直升机清运垃圾",
       "onboard_time": 1658828735,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281493,
+      "num": 281493,
+      "word": "甘肃增219例本土无症状",
+      "onboard_time": 1658886271,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3875,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261356,
+      "num": 261356,
+      "word": "男子从桥上将10多辆共享单车扔进河中",
+      "onboard_time": 1658855780,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261073,
       "num": 261073,
       "word": "山东新增本土确诊1例无症状27例",
@@ -3928,6 +4104,14 @@
       "word": "苏州龙卷风",
       "onboard_time": 1658826754,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253935,
+      "num": 253935,
+      "word": "你有精神内耗吗",
+      "onboard_time": 1658870891,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3985,6 +4169,14 @@
       "onboard_time": 1658794170,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 247242,
+      "num": 247242,
+      "word": "樊振东回应不参加WTT冠军赛",
+      "onboard_time": 1658854162,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 246661,
@@ -4083,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238414,
+      "num": 238414,
+      "word": "上海新增2例本土确诊14例本土无症状",
+      "onboard_time": 1658883395,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238306,
       "num": 238306,
       "word": "管泽元姿态中韩3C对决",
@@ -4113,6 +4313,22 @@
       "onboard_time": 1658814338,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235270,
+      "num": 235270,
+      "word": "电影请别相信她定档0909",
+      "onboard_time": 1658887531,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234916,
+      "num": 234916,
+      "word": "不希望二舅被打扰",
+      "onboard_time": 1658887470,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233595,
@@ -4435,12 +4651,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214183,
-      "num": 214183,
-      "word": "樊振东回应不参加WTT冠军赛",
-      "onboard_time": 1658854162,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 214660,
+      "num": 214660,
+      "word": "山东增本土确诊1例无症状20例",
+      "onboard_time": 1658882554,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213617,
@@ -4457,14 +4673,6 @@
       "onboard_time": 1658803052,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212642,
-      "num": 212642,
-      "word": "男子从桥上将10多辆共享单车扔进河中",
-      "onboard_time": 1658855780,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211253,
@@ -4521,6 +4729,14 @@
       "onboard_time": 1658812117,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 204264,
+      "num": 204264,
+      "word": "人生大事票房破16亿",
+      "onboard_time": 1658883873,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 203989,
@@ -4619,6 +4835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198362,
+      "num": 198362,
+      "word": "江西国控通报员工周劼言论核查情况",
+      "onboard_time": 1658878528,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197779,
       "num": 197779,
       "word": "四川增16例本土确诊",
@@ -4691,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185357,
+      "num": 185357,
+      "word": "沉香如屑一集比一集虐",
+      "onboard_time": 1658859674,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184817,
       "num": 184817,
       "word": "只要心静哪都可以写作业",
@@ -4731,6 +4963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 179479,
+      "num": 179479,
+      "word": "巴萨vs尤文",
+      "onboard_time": 1658887590,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178964,
       "num": 178964,
       "word": "张艺兴大航海线上演唱会战报",
@@ -4745,6 +4985,14 @@
       "onboard_time": 1658718572,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176386,
+      "num": 176386,
+      "word": "凌不疑用嫋嫋酒杯敬酒",
+      "onboard_time": 1658887950,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 175474,
@@ -4777,6 +5025,14 @@
       "onboard_time": 1658744438,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "大连横山寺未发现为关东军立牌位",
+      "onboard_time": 1658879849,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168649,
@@ -4835,14 +5091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161189,
-      "num": 161189,
-      "word": "沉香如屑一集比一集虐",
-      "onboard_time": 1658859674,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160401,
       "num": 160401,
       "word": "颜淡心痛烧毁沉香炉",
@@ -4857,14 +5105,6 @@
       "onboard_time": 1658706266,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158571,
-      "num": 158571,
-      "word": "你有精神内耗吗",
-      "onboard_time": 1658870891,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157196,
@@ -4971,12 +5211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145161,
-      "num": 145161,
-      "word": "张艺兴影视综全面开花",
-      "onboard_time": 1658864232,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 143596,
+      "num": 139507,
+      "word": "如何看待迪奥疑似抄袭马面裙",
+      "onboard_time": 1658878465,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141749,
@@ -4985,6 +5225,22 @@
       "onboard_time": 1658766744,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139642,
+      "num": 139642,
+      "word": "82岁爷爷生日孙子送上清华通知书",
+      "onboard_time": 1658867412,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 139184,
+      "num": 139184,
+      "word": "如何理解智者不入爱河",
+      "onboard_time": 1658869569,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 131301,
@@ -5003,20 +5259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129494,
+      "num": 2737681,
+      "word": "特警高燃夏训场面",
+      "onboard_time": 1658847574,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126495,
       "num": 126495,
       "word": "中国女足拼劲",
       "onboard_time": 1658842717,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125685,
-      "num": 125685,
-      "word": "82岁爷爷生日孙子送上清华通知书",
-      "onboard_time": 1658867412,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125650,
@@ -5027,12 +5283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123712,
-      "num": 123712,
-      "word": "如何理解智者不入爱河",
-      "onboard_time": 1658869569,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 122985,
+      "num": 122985,
+      "word": "林妙妙钱三一约会带娃",
+      "onboard_time": 1658859196,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 121950,
@@ -5041,14 +5297,6 @@
       "onboard_time": 1658728411,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119494,
-      "num": 2104796,
-      "word": "特警高燃夏训场面",
-      "onboard_time": 1658847574,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118112,
@@ -5131,6 +5379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99004,
+      "num": 99004,
+      "word": "蔡徐坤登顶微博综艺视频榜",
+      "onboard_time": 1658862912,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98926,
       "num": 98926,
       "word": "TheShy伤害",
@@ -5171,14 +5427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91396,
-      "num": 91396,
-      "word": "林妙妙钱三一约会带娃",
-      "onboard_time": 1658859196,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88831,
       "num": 88831,
       "word": "张碧晨微博直播",
@@ -5201,14 +5449,6 @@
       "onboard_time": 1658673697,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72880,
-      "num": 72880,
-      "word": "蔡徐坤登顶微博综艺视频榜",
-      "onboard_time": 1658862912,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 71167,

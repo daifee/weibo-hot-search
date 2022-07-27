@@ -1,0 +1,410 @@
+{
+  "runTime": 1658888061248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3580743,
+        "num": 3580743,
+        "word": "二舅",
+        "onboard_time": 1658848776,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3401330,
+        "num": 3401330,
+        "word": "周劼已被停职",
+        "onboard_time": 1658879432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121521,
+        "num": 2737681,
+        "word": "特警高燃夏训场面",
+        "onboard_time": 1658847574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2191668,
+        "num": 2191668,
+        "word": "美国发现首例孕妇猴痘病例",
+        "onboard_time": 1658882734,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2027894,
+        "num": 2027894,
+        "word": "网传历届金鹰女神将同台",
+        "onboard_time": 1658886691,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1913103,
+        "num": 1913103,
+        "word": "考研期间被男朋友骂醒了",
+        "onboard_time": 1658882075,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1158114,
+        "num": 1158114,
+        "word": "央视曝光高端婚介骗局",
+        "onboard_time": 1658885972,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1115944,
+        "num": 1115944,
+        "word": "周劼及父母名下共计住房6套",
+        "onboard_time": 1658882193,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 911583,
+        "num": 911583,
+        "word": "女子穿马面裙进迪奥拍照被制止",
+        "onboard_time": 1658850334,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807038,
+        "num": 807038,
+        "word": "王力宏新冠确诊",
+        "onboard_time": 1658847574,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790755,
+        "num": 790755,
+        "word": "夏日祭",
+        "onboard_time": 1658878647,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631495,
+        "num": 631495,
+        "word": "罗敏到底得罪了多少年轻人",
+        "onboard_time": 1658880090,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 630217,
+        "num": 630217,
+        "word": "男子夜晚言语骚扰女子被拒称可给钱",
+        "onboard_time": 1658884351,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582085,
+        "num": 582085,
+        "word": "凌不疑疯子",
+        "onboard_time": 1658876783,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565524,
+        "num": 565524,
+        "word": "菲律宾发生7.0级地震",
+        "onboard_time": 1658886033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484508,
+        "num": 484508,
+        "word": "为趣店站过台的明星",
+        "onboard_time": 1658849257,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482848,
+        "num": 482848,
+        "word": "四川沐川通报持枪伤人案",
+        "onboard_time": 1658878091,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456077,
+        "num": 456077,
+        "word": "林志颖将进行颜面骨手术",
+        "onboard_time": 1658849677,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435930,
+        "num": 435930,
+        "word": "应渊和沈眉庄的共同点",
+        "onboard_time": 1658860214,
+        "rank": 18,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 423929,
+        "num": 423929,
+        "word": "沐川公安发布悬赏通告",
+        "onboard_time": 1658885431,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386698,
+        "num": 386698,
+        "word": "李国庆曝董宇辉拉黑罗敏真正原因",
+        "onboard_time": 1658871852,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374837,
+        "num": 374837,
+        "word": "广西增236例本土无症状",
+        "onboard_time": 1658884773,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348154,
+        "num": 348154,
+        "word": "星汉灿烂连播了",
+        "onboard_time": 1658841756,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341143,
+        "num": 341143,
+        "word": "微信安装包11年膨胀575倍",
+        "onboard_time": 1658846316,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 321804,
+        "num": 321804,
+        "word": "高温天封闭的车内有多危险",
+        "onboard_time": 1658884833,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312246,
+        "num": 312246,
+        "word": "比尔盖茨买地动机遭质疑",
+        "onboard_time": 1658880453,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 309278,
+        "num": 309278,
+        "word": "时代少年团隐藏才艺展示视频",
+        "onboard_time": 1658887232,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296073,
+        "num": 296073,
+        "word": "广东新增本土无症状4例",
+        "onboard_time": 1658886568,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291118,
+        "num": 291118,
+        "word": "北京暴雨",
+        "onboard_time": 1658884533,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289604,
+        "num": 289604,
+        "word": "成都暴雨",
+        "onboard_time": 1658886870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288600,
+        "num": 288600,
+        "word": "二舅残疾证办下来了",
+        "onboard_time": 1658842956,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283198,
+        "num": 283198,
+        "word": "张艺兴影视综全面开花",
+        "onboard_time": 1658864232,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281493,
+        "num": 281493,
+        "word": "甘肃增219例本土无症状",
+        "onboard_time": 1658886271,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253935,
+        "num": 253935,
+        "word": "你有精神内耗吗",
+        "onboard_time": 1658870891,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238414,
+        "num": 238414,
+        "word": "上海新增2例本土确诊14例本土无症状",
+        "onboard_time": 1658883395,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235270,
+        "num": 235270,
+        "word": "电影请别相信她定档0909",
+        "onboard_time": 1658887531,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234916,
+        "num": 234916,
+        "word": "不希望二舅被打扰",
+        "onboard_time": 1658887470,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232305,
+        "num": 232305,
+        "word": "夫妻发现煤气泄露误操作被炸伤",
+        "onboard_time": 1658852308,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 223571,
+        "num": 223571,
+        "word": "为什么年轻人反感趣店模式",
+        "onboard_time": 1658844036,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 221462,
+        "num": 221462,
+        "word": "男子从桥上将10多辆共享单车扔进河中",
+        "onboard_time": 1658855780,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220936,
+        "num": 220936,
+        "word": "30岁人大硕士为学医重新高考",
+        "onboard_time": 1658846857,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 214660,
+        "num": 214660,
+        "word": "山东增本土确诊1例无症状20例",
+        "onboard_time": 1658882554,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211794,
+        "num": 211794,
+        "word": "女子乘公交核酸过期拒下车",
+        "onboard_time": 1658859374,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204264,
+        "num": 204264,
+        "word": "人生大事票房破16亿",
+        "onboard_time": 1658883873,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203276,
+        "num": 203276,
+        "word": "俄罗斯将2024年退出国际空间站计划",
+        "onboard_time": 1658846917,
+        "rank": 44,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 190157,
+        "num": 190157,
+        "word": "官方通报两岁女童排除性侵可能",
+        "onboard_time": 1658841695,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179479,
+        "num": 179479,
+        "word": "巴萨vs尤文",
+        "onboard_time": 1658887590,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179037,
+        "num": 179037,
+        "word": "贾乃亮致歉",
+        "onboard_time": 1658833112,
+        "rank": 47,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 176386,
+        "num": 176386,
+        "word": "凌不疑用嫋嫋酒杯敬酒",
+        "onboard_time": 1658887950,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "大连横山寺未发现为关东军立牌位",
+        "onboard_time": 1658879849,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国有约#"
+    }
+  }
+}
