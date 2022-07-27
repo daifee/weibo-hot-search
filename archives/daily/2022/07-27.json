@@ -1,13 +1,21 @@
 {
   "startTime": 1658853082262,
-  "endTime": 1658895158701,
+  "endTime": 1658900102096,
   "band_list": [
     {
-      "raw_hot": 4088777,
-      "num": 4088777,
+      "raw_hot": 4338933,
+      "num": 4338933,
       "word": "二舅走红后全家哭了一场",
       "onboard_time": 1658891250,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3733172,
+      "num": 3733172,
+      "word": "二舅和姥姥已不在小山村",
+      "onboard_time": 1658893112,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -19,28 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3500635,
+      "num": 432059,
+      "word": "土土",
+      "onboard_time": 1658893413,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3401330,
       "num": 3401330,
       "word": "周劼已被停职",
       "onboard_time": 1658879432,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3135360,
-      "num": 3135360,
-      "word": "二舅和姥姥已不在小山村",
-      "onboard_time": 1658893112,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2974351,
-      "num": 405787,
-      "word": "土土",
-      "onboard_time": 1658893413,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 2191668,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1624590,
+      "num": 1624590,
+      "word": "芒果TV会员又涨价",
+      "onboard_time": 1658891493,
+      "rank": 6,
+      "category": "科技,影视"
+    },
+    {
       "raw_hot": 1612049,
       "num": 1612049,
       "word": "央视曝光高端婚介骗局",
@@ -105,14 +113,6 @@
       "onboard_time": 1658850334,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1592196,
-      "num": 1592196,
-      "word": "芒果TV会员又涨价",
-      "onboard_time": 1658891493,
-      "rank": 6,
-      "category": "科技,影视"
     },
     {
       "raw_hot": 1537679,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010937,
-      "num": 1010937,
+      "raw_hot": 1056897,
+      "num": 684359,
+      "word": "重庆男子一胎得女发文称晦气",
+      "onboard_time": 1658899594,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030266,
+      "num": 1030266,
       "word": "刘诗诗也跳刘畊宏",
       "onboard_time": 1658892512,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 965028,
+      "num": 965028,
+      "word": "边牧踹我是叫我喝水",
+      "onboard_time": 1658892152,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 915784,
@@ -163,19 +179,27 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 846510,
-      "num": 846510,
-      "word": "边牧踹我是叫我喝水",
-      "onboard_time": 1658892152,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 845279,
       "num": 845279,
       "word": "官方通报两岁女童排除性侵可能",
       "onboard_time": 1658841695,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828774,
+      "num": 828774,
+      "word": "iPhone14或支持万兆网",
+      "onboard_time": 1658894194,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 816183,
+      "num": 816183,
+      "word": "双胞胎男婴晒太阳1个月肤色感人",
+      "onboard_time": 1658897856,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -251,6 +275,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 694733,
+      "num": 694733,
+      "word": "雷佳音张小斐新片官宣",
+      "onboard_time": 1658894734,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 676986,
       "num": 676986,
       "word": "大学生40度高温天沿街发汉堡",
@@ -273,6 +305,14 @@
       "onboard_time": 1658849677,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 634079,
+      "num": 634079,
+      "word": "5岁男童癌症复发引出17种并发症",
+      "onboard_time": 1658896958,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631495,
@@ -323,14 +363,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 552736,
-      "num": 552736,
-      "word": "iPhone14或支持万兆网",
-      "onboard_time": 1658894194,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 550397,
       "num": 550397,
       "word": "wayward",
@@ -339,12 +371,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 532871,
+      "num": 532871,
+      "word": "狗狗发现主人用监控找它时",
+      "onboard_time": 1658897378,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 523970,
       "num": 523970,
       "word": "湖北省考",
       "onboard_time": 1658889451,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 502143,
+      "num": 502143,
+      "word": "成毅天刑台无实物表演",
+      "onboard_time": 1658896239,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 492667,
@@ -371,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483194,
+      "num": 483194,
+      "word": "密室大逃脱",
+      "onboard_time": 1658897318,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482848,
       "num": 482848,
       "word": "四川沐川通报持枪伤人案",
@@ -385,6 +441,14 @@
       "onboard_time": 1658844755,
       "rank": 17,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 480011,
+      "num": 480011,
+      "word": "tangoz沙一汀落水版情头",
+      "onboard_time": 1658895696,
+      "rank": 14,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 477937,
@@ -411,12 +475,44 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 449537,
+      "num": 420925,
+      "word": "子晟很好相处的",
+      "onboard_time": 1658890349,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443528,
+      "num": 443528,
+      "word": "视频平台频繁涨价合理吗",
+      "onboard_time": 1658896055,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 428904,
+      "num": 380647,
+      "word": "嫋嫋180秒极致可爱",
+      "onboard_time": 1658899173,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423929,
       "num": 423929,
       "word": "沐川公安发布悬赏通告",
       "onboard_time": 1658885431,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411823,
+      "num": 222896,
+      "word": "做家务的男人4官宣海报",
+      "onboard_time": 1658898515,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 395931,
@@ -467,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370557,
-      "num": 370557,
-      "word": "雷佳音张小斐新片官宣",
-      "onboard_time": 1658894734,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 366690,
       "num": 366690,
       "word": "成毅沉香如屑人物曲忘川",
@@ -499,6 +587,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349766,
+      "num": 349766,
+      "word": "登录圆鱼洲全员cos精灵",
+      "onboard_time": 1658895637,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339030,
+      "num": 222358,
+      "word": "颜淡九百年还是没忘了应渊",
+      "onboard_time": 1658898158,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333642,
       "num": 333642,
       "word": "高温天封闭的车内有多危险",
@@ -507,12 +611,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323277,
+      "num": 221711,
+      "word": "陆虎哭得太好笑了",
+      "onboard_time": 1658899833,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319701,
+      "num": 319701,
+      "word": "恋与制作人",
+      "onboard_time": 1658893413,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318349,
       "num": 318349,
       "word": "中华小子高清重制版",
       "onboard_time": 1658893112,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 312463,
+      "num": 291709,
+      "word": "刘宇芭莎男士金发大片",
+      "onboard_time": 1658895754,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 312246,
@@ -539,12 +667,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307551,
+      "num": 307551,
+      "word": "警方调查祭奠网站设日本战犯纪念堂",
+      "onboard_time": 1658897558,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305698,
       "num": 305698,
       "word": "狐妖小红娘月红篇演员阵容名单",
       "onboard_time": 1658834316,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304216,
+      "num": 221097,
+      "word": "谭松韵为钟楚曦新剧宣传",
+      "onboard_time": 1658897378,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300470,
+      "num": 300470,
+      "word": "再见了天舟三号",
+      "onboard_time": 1658895936,
+      "rank": 28,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 296200,
@@ -603,14 +755,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 286099,
-      "num": 286099,
-      "word": "子晟很好相处的",
-      "onboard_time": 1658890349,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283198,
       "num": 283198,
       "word": "张艺兴影视综全面开花",
@@ -627,20 +771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279343,
-      "num": 279343,
-      "word": "恋与制作人",
-      "onboard_time": 1658893413,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 279134,
       "num": 279134,
       "word": "河南女孩被北大录取本硕博连读",
       "onboard_time": 1658831673,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 275380,
+      "num": 145492,
+      "word": "怦然心动20岁",
+      "onboard_time": 1658900070,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 270999,
@@ -707,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253485,
+      "num": 253485,
+      "word": "二舅治愈的是什么",
+      "onboard_time": 1658895514,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252081,
       "num": 252081,
       "word": "电影请别相信她定档0909",
@@ -721,6 +873,14 @@
       "onboard_time": 1658842112,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250044,
+      "num": 250044,
+      "word": "科学家揭示地球为何没火星化",
+      "onboard_time": 1658895574,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 247242,
@@ -771,12 +931,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227446,
+      "num": 227446,
+      "word": "双胞胎姐妹收到通知书的反应",
+      "onboard_time": 1658893474,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225288,
       "num": 225288,
       "word": "作者回应二舅爆火",
       "onboard_time": 1658889689,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223173,
+      "num": 223173,
+      "word": "2000名00后应届生入职京东",
+      "onboard_time": 1658899412,
+      "rank": 29,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 222443,
@@ -832,14 +1008,6 @@
       "word": "山东增本土确诊1例无症状20例",
       "onboard_time": 1658882554,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207935,
-      "num": 207935,
-      "word": "双胞胎姐妹收到通知书的反应",
-      "onboard_time": 1658893474,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -963,6 +1131,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 147964,
+      "num": 147964,
+      "word": "电锯人",
+      "onboard_time": 1658899714,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146586,
       "num": 146586,
       "word": "中国女足获得东亚杯亚军",
@@ -1017,6 +1193,14 @@
       "onboard_time": 1658834974,
       "rank": 43,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 116824,
+      "num": 116824,
+      "word": "周鸿祎称人工智能的底线是人",
+      "onboard_time": 1658898755,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 116420,
@@ -1145,6 +1329,14 @@
       "onboard_time": 1658867412,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22907,
+      "num": 1748974,
+      "word": "消博会有多好逛",
+      "onboard_time": 1658898994,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21766,
