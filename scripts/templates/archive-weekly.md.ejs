@@ -8,16 +8,6 @@
   </p>
 </blockquote>
 
-<h2>
-  正能量
-</h2>
-
-<ol>
-  <% hotgov_list.forEach(function(item){ %>
-    <%- include('gov-item', {item: item}); %>
-  <% }); %>
-</ol>
-
 
 <h2>
   热榜
@@ -26,5 +16,16 @@
 <ol>
   <% band_list.forEach(function(item){ %>
     <%- include('hot-search-item', {item: item}); %>
+  <% }); %>
+</ol>
+
+
+<h2>
+  正能量
+</h2>
+
+<ol>
+  <% hotgov_list.forEach(function(item){ %>
+    <%- include('gov-item', {item: item}); %>
   <% }); %>
 </ol>

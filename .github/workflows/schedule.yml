@@ -27,11 +27,14 @@ jobs:
       - name: 抓取数据
         run: node ./cli/spider.js
       - name: 归档日榜
-        if: github.event.schedule == '0 * * * *'
+        if: github.event.schedule == '30 * * * *'
         run: node ./cli/archive-daily.js
       - name: 归档周榜
-        if: github.event.schedule == '0 * * * *'
+        if: github.event.schedule == '30 * * * *'
         run: node ./cli/archive-weekly.js
+      - name: 归档月榜
+        if: github.event.schedule == '30 * * * *'
+        run: node ./cli/archive-monthly.js
       - name: 存储
         run: |
           git config user.name "bot"
