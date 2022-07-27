@@ -1,0 +1,410 @@
+{
+  "runTime": 1658927577225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2593553,
+        "num": 2593553,
+        "word": "啊泽",
+        "onboard_time": 1658925629,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2200441,
+        "num": 2200441,
+        "word": "星汉灿烂全员升沧",
+        "onboard_time": 1658924973,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20631,
+        "num": 1671059,
+        "word": "消博会有多好逛",
+        "onboard_time": 1658898994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483664,
+        "num": 1483664,
+        "word": "奶奶病危请假被HR要求证明是亲奶",
+        "onboard_time": 1658917413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137003,
+        "num": 1137003,
+        "word": "安乐传",
+        "onboard_time": 1658922752,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 985505,
+        "num": 985505,
+        "word": "男子怒甩键盘将儿子砸成重伤获刑",
+        "onboard_time": 1658921612,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865149,
+        "num": 865149,
+        "word": "成都18岁女孩跳楼被气垫接住",
+        "onboard_time": 1658917953,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843294,
+        "num": 843294,
+        "word": "二舅作者回应被指抄袭",
+        "onboard_time": 1658920533,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805322,
+        "num": 805322,
+        "word": "吴磊赵露思月升沧海追剧日历",
+        "onboard_time": 1658926949,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804065,
+        "num": 804065,
+        "word": "果农将葡萄喂猪被质疑浪费",
+        "onboard_time": 1658922992,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244138,
+        "num": 751762,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1658925034,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686835,
+        "num": 686835,
+        "word": "华为鸿蒙设备数突破3亿",
+        "onboard_time": 1658923587,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 639945,
+        "num": 639945,
+        "word": "一诺状态",
+        "onboard_time": 1658920111,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 602927,
+        "num": 602927,
+        "word": "重庆男子一胎得女发文称晦气",
+        "onboard_time": 1658899594,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91690,
+        "num": 582720,
+        "word": "现在办公都这么硬核了吗",
+        "onboard_time": 1658926833,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575209,
+        "num": 575209,
+        "word": "怪不得顺德仙姬非要长意的鱼尾做裙子",
+        "onboard_time": 1658922093,
+        "rank": 15,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 543780,
+        "num": 543780,
+        "word": "宣萱回应和古天乐是兄弟感情",
+        "onboard_time": 1658926173,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478580,
+        "num": 478580,
+        "word": "华为鸿蒙发布会",
+        "onboard_time": 1658922511,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 476540,
+        "num": 476540,
+        "word": "上海一医院8000元招募疫苗接种志愿者",
+        "onboard_time": 1658917111,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429248,
+        "num": 429248,
+        "word": "大蒜生吃更能发挥杀菌抗癌作用",
+        "onboard_time": 1658918130,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509311,
+        "num": 424743,
+        "word": "程颂强吻万萋萋",
+        "onboard_time": 1658921432,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492054,
+        "num": 421531,
+        "word": "黄仁俊感染新冠",
+        "onboard_time": 1658924431,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486988,
+        "num": 420064,
+        "word": "程少商告状",
+        "onboard_time": 1658926293,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403904,
+        "num": 403904,
+        "word": "哈啰经理划破70辆美团单车被拘",
+        "onboard_time": 1658920951,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 394510,
+        "num": 394510,
+        "word": "华为发布首款鸿蒙彩色打印机",
+        "onboard_time": 1658925213,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 377235,
+        "num": 377235,
+        "word": "二胎妈妈睡2小时给孩子做早餐",
+        "onboard_time": 1658903010,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359628,
+        "num": 359628,
+        "word": "HarmonyOS",
+        "onboard_time": 1658924912,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 352638,
+        "num": 352638,
+        "word": "日本多地政府收到威胁邮件",
+        "onboard_time": 1658915913,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 352623,
+        "num": 352623,
+        "word": "古茗被曝喝出壁虎",
+        "onboard_time": 1658910511,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274874,
+        "num": 274874,
+        "word": "TheShy未准时到达被处罚",
+        "onboard_time": 1658916332,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 430050,
+        "num": 274874,
+        "word": "NCTDREAM演唱会取消",
+        "onboard_time": 1658926411,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 421413,
+        "num": 274638,
+        "word": "星汉灿烂预告",
+        "onboard_time": 1658925273,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351084,
+        "num": 274324,
+        "word": "颜淡化妖成功渡川",
+        "onboard_time": 1658919571,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306770,
+        "num": 274167,
+        "word": "凌不疑对程少商说放你自由",
+        "onboard_time": 1658925390,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274100,
+        "num": 274100,
+        "word": "第一次见脾气这么好的猫",
+        "onboard_time": 1658921670,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271136,
+        "num": 271136,
+        "word": "沉香如屑 虐",
+        "onboard_time": 1658921009,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265806,
+        "num": 265806,
+        "word": "麦当劳汉堡吃出尖锐塑料片",
+        "onboard_time": 1658919333,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261104,
+        "num": 261104,
+        "word": "华为MatePad",
+        "onboard_time": 1658927073,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253085,
+        "num": 253085,
+        "word": "AG遗憾掉A",
+        "onboard_time": 1658925992,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251791,
+        "num": 251791,
+        "word": "杭州核酸",
+        "onboard_time": 1658925511,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236272,
+        "num": 236272,
+        "word": "古茗回应奶茶被曝喝出壁虎",
+        "onboard_time": 1658920471,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220312,
+        "num": 220312,
+        "word": "KSG战胜AG",
+        "onboard_time": 1658925273,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212844,
+        "num": 212844,
+        "word": "杭州暴雨",
+        "onboard_time": 1658920649,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212069,
+        "num": 212069,
+        "word": "周劼称没有经济行贿可以去查",
+        "onboard_time": 1658918310,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179586,
+        "num": 179586,
+        "word": "WE十一连败",
+        "onboard_time": 1658923470,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175597,
+        "num": 175597,
+        "word": "爱思的鬼谷子",
+        "onboard_time": 1658924371,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171106,
+        "num": 171106,
+        "word": "AG状态",
+        "onboard_time": 1658924670,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195470,
+        "num": 170509,
+        "word": "钱三一的解药是林妙妙",
+        "onboard_time": 1658927554,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146732,
+        "num": 146732,
+        "word": "韩国给拜登起了个韩国名",
+        "onboard_time": 1658908532,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1547296,
+        "num": 146617,
+        "word": "杨幂刘诗诗赵丽颖黑白御姐大片",
+        "onboard_time": 1658924250,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会后中国接待的首位外国元首#"
+    }
+  }
+}
