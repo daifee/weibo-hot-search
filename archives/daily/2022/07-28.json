@@ -1,6 +1,6 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1658982175876,
+  "endTime": 1658984581563,
   "band_list": [
     {
       "raw_hot": 3564251,
@@ -20,10 +20,18 @@
     },
     {
       "raw_hot": 3055051,
-      "num": 908635,
+      "num": 936682,
       "word": "为躲捉奸男子藏6楼窗外坠亡",
       "onboard_time": 1658970450,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2949430,
+      "num": 2949430,
+      "word": "雪碧将放弃绿瓶",
+      "onboard_time": 1658982397,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2713542,
-      "num": 464666,
+      "num": 565024,
       "word": "土土",
       "onboard_time": 1658974290,
       "rank": 20,
@@ -81,6 +89,14 @@
       "onboard_time": 1658971291,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1456518,
+      "num": 1456518,
+      "word": "北京公积金缴存上限大幅上调",
+      "onboard_time": 1658982037,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1452441,
@@ -147,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1048869,
+      "num": 1048869,
+      "word": "TFBOYS待播作品",
+      "onboard_time": 1658979871,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1041731,
       "num": 899602,
       "word": "吴磊与小北的氛围感大片",
@@ -168,14 +192,6 @@
       "word": "三石弟弟真的顶着三石啊",
       "onboard_time": 1658978609,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 942682,
-      "num": 872373,
-      "word": "TFBOYS待播作品",
-      "onboard_time": 1658979871,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -216,6 +232,14 @@
       "word": "周劼如何入职江西国控",
       "onboard_time": 1658932776,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 796405,
+      "num": 796405,
+      "word": "让假期调休更得民心",
+      "onboard_time": 1658979751,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -267,12 +291,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 686327,
-      "num": 686327,
-      "word": "让假期调休更得民心",
-      "onboard_time": 1658979751,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 721728,
+      "num": 721728,
+      "word": "沉香如屑打开农产品销售新思路",
+      "onboard_time": 1658982755,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 709716,
+      "num": 564737,
+      "word": "许凯说我在害怕",
+      "onboard_time": 1658983416,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 698669,
+      "num": 698669,
+      "word": "突然想换手机壳了",
+      "onboard_time": 1658982037,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 680840,
@@ -387,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 481011,
+      "num": 481011,
+      "word": "国庆休7上7是一种什么体验",
+      "onboard_time": 1658984015,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 476255,
       "num": 476255,
       "word": "美国总统拜登新冠检测呈阴性",
@@ -475,8 +523,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405609,
-      "num": 405609,
+      "raw_hot": 413518,
+      "num": 413518,
+      "word": "有个很会怼人的妈妈是什么体验",
+      "onboard_time": 1658982334,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413453,
+      "num": 413453,
       "word": "人心理素质差的表现",
       "onboard_time": 1658979270,
       "rank": 28,
@@ -491,12 +547,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395712,
+      "num": 334302,
+      "word": "杨紫现场给大家表演一个爬墙",
+      "onboard_time": 1658982877,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380576,
       "num": 380576,
       "word": "姐妹俩疑为分割父亲遗产挥锤砸门",
       "onboard_time": 1658932234,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377001,
+      "num": 377001,
+      "word": "天津滨海新区有不明刺激气体传出",
+      "onboard_time": 1658983234,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369015,
+      "num": 369015,
+      "word": "C罗希望曼联放弃他的合同",
+      "onboard_time": 1658982156,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 364211,
@@ -537,6 +617,14 @@
       "onboard_time": 1658973869,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331099,
+      "num": 331099,
+      "word": "消防员路边抓了只爱撒娇的狐狸",
+      "onboard_time": 1658980531,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 329830,
@@ -595,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294360,
+      "num": 249934,
+      "word": "张子枫聊和雷佳音演父女",
+      "onboard_time": 1658984196,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290417,
       "num": 290417,
       "word": "独行月球",
@@ -643,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263467,
+      "num": 263467,
+      "word": "终于知道拍照应该看哪里了",
+      "onboard_time": 1658983717,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261075,
       "num": 261075,
       "word": "武汉通报新增2例无症状活动轨迹",
@@ -651,19 +755,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259512,
-      "num": 259512,
-      "word": "北京公积金缴存上限大幅上调",
-      "onboard_time": 1658982037,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 254955,
       "num": 254955,
       "word": "二舅作者回应被指抄袭",
       "onboard_time": 1658920533,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254542,
+      "num": 254542,
+      "word": "女孩加班猝死劳动监察介入调查",
+      "onboard_time": 1658984375,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -675,20 +779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244413,
-      "num": 244413,
-      "word": "消防员路边抓了只爱撒娇的狐狸",
-      "onboard_time": 1658980531,
-      "rank": 48,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 243631,
       "num": 243631,
       "word": "每日优鲜回应关闭30分钟极速达",
       "onboard_time": 1658977352,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 240441,
+      "num": 240441,
+      "word": "90后博士后称人类有可能穿越未来",
+      "onboard_time": 1658984255,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 239196,
@@ -737,14 +841,6 @@
       "onboard_time": 1658980773,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217117,
-      "num": 217117,
-      "word": "突然想换手机壳了",
-      "onboard_time": 1658982037,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 216990,
@@ -819,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195453,
+      "num": 195453,
+      "word": "第一次用这个视角看烟花",
+      "onboard_time": 1658982635,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 195244,
       "num": 195244,
       "word": "作者不想通过二舅升华苦难",
@@ -835,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190637,
-      "num": 190637,
-      "word": "C罗希望曼联放弃他的合同",
-      "onboard_time": 1658982156,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 190656,
+      "num": 190656,
+      "word": "见过性格最好的猫咪",
+      "onboard_time": 1658984554,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 190340,
@@ -1132,7 +1236,7 @@
     },
     {
       "raw_hot": 66304,
-      "num": 1873698,
+      "num": 2195308,
       "word": "问天实验舱超高清发射纪实",
       "onboard_time": 1658930434,
       "rank": 2,
