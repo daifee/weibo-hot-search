@@ -1,10 +1,42 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1658965023947,
+  "endTime": 1658975997933,
   "band_list": [
     {
-      "raw_hot": 2502867,
-      "num": 867744,
+      "raw_hot": 3055051,
+      "num": 718413,
+      "word": "为躲捉奸男子藏6楼窗外坠亡",
+      "onboard_time": 1658970450,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2889124,
+      "num": 2889124,
+      "word": "二舅",
+      "onboard_time": 1658967090,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2805481,
+      "num": 2805481,
+      "word": "中秋节国庆节放假通知",
+      "onboard_time": 1658969072,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2713542,
+      "num": 384059,
+      "word": "土土",
+      "onboard_time": 1658974290,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2662993,
+      "num": 1503194,
       "word": "22岁女孩连续熬夜加班猝死",
       "onboard_time": 1658934216,
       "rank": 3,
@@ -12,11 +44,35 @@
     },
     {
       "raw_hot": 1854766,
-      "num": 477044,
+      "num": 671835,
       "word": "男子工资5千养4个孩子压力大轻生",
       "onboard_time": 1658933557,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1497472,
+      "num": 1497472,
+      "word": "人民日报谈整治网络水军",
+      "onboard_time": 1658971291,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1452441,
+      "num": 1452441,
+      "word": "UP主称B站外国综艺将面临下架",
+      "onboard_time": 1658974169,
+      "rank": 4,
+      "category": "科技,综艺"
+    },
+    {
+      "raw_hot": 1366305,
+      "num": 1366305,
+      "word": "女生考入清华美院校长送化妆包",
+      "onboard_time": 1658974409,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1365860,
@@ -35,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164154,
+      "num": 1164154,
+      "word": "BLACKPINK公开新歌预告照",
+      "onboard_time": 1658970510,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1110787,
       "num": 1110787,
       "word": "王姈妈妈",
@@ -48,6 +112,38 @@
       "word": "北京一拉布拉多犬超高被没收",
       "onboard_time": 1658942958,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 850460,
+      "num": 850460,
+      "word": "俄罗斯决定绕过5G直接开发6G网络",
+      "onboard_time": 1658964804,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 837192,
+      "num": 565591,
+      "word": "fromis9将以8人活动",
+      "onboard_time": 1658973270,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 828680,
+      "num": 828680,
+      "word": "熬夜将影响身体的六大功能",
+      "onboard_time": 1658970931,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803100,
+      "num": 507469,
+      "word": "周劼如何入职江西国控",
+      "onboard_time": 1658932776,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -67,11 +163,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 759533,
+      "num": 759533,
+      "word": "广西一大白飞踹核酸检测男子",
+      "onboard_time": 1658969673,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751479,
       "num": 239174,
       "word": "江西省纪委介入调查周劼事件",
       "onboard_time": 1658934274,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734617,
+      "num": 696009,
+      "word": "张圭悧退队",
+      "onboard_time": 1658973869,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 730686,
+      "num": 730686,
+      "word": "苏菲卫生巾被曝有虫子尸体",
+      "onboard_time": 1658975129,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -107,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570312,
+      "num": 570312,
+      "word": "她为了一句约定等了丈夫76年",
+      "onboard_time": 1658969673,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541397,
+      "num": 541397,
+      "word": "年轻人发病率最高的肝病是脂肪肝",
+      "onboard_time": 1658966067,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509065,
       "num": 509065,
       "word": "部分iPhone14镜头出现问题",
@@ -115,12 +251,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 507469,
-      "num": 507469,
-      "word": "周劼如何入职江西国控",
-      "onboard_time": 1658932776,
-      "rank": 8,
+      "raw_hot": 508837,
+      "num": 508837,
+      "word": "前CBA记者公然侮辱中国男篮",
+      "onboard_time": 1658967632,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 491561,
+      "num": 491561,
+      "word": "男子婚后14年发现俩孩子非亲生",
+      "onboard_time": 1658964201,
+      "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489964,
+      "num": 489964,
+      "word": "董宇辉劝年轻人不要沉醉于虚拟世界",
+      "onboard_time": 1658964621,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 476255,
@@ -131,6 +283,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 456378,
+      "num": 456378,
+      "word": "街道被淹女子在细窄护栏稳走几十米",
+      "onboard_time": 1658968834,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453320,
       "num": 453320,
       "word": "凌不疑叫程少商嫋嫋",
@@ -139,12 +299,44 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393846,
-      "num": 393846,
-      "word": "男子婚后14年发现俩孩子非亲生",
-      "onboard_time": 1658964201,
-      "rank": 11,
+      "raw_hot": 434516,
+      "num": 434516,
+      "word": "Viper韩服第一",
+      "onboard_time": 1658969371,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 432016,
+      "num": 432016,
+      "word": "黄晓明说自己是中餐厅的大朋友",
+      "onboard_time": 1658968652,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423544,
+      "num": 423544,
+      "word": "河南新增本土确诊7例无症状5例",
+      "onboard_time": 1658972009,
+      "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423499,
+      "num": 423499,
+      "word": "汪海林说编剧行业已经成了马桶加工业",
+      "onboard_time": 1658975368,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419670,
+      "num": 419670,
+      "word": "程少商点燃了爱情的火苗",
+      "onboard_time": 1658969609,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 380576,
@@ -153,6 +345,14 @@
       "onboard_time": 1658932234,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356717,
+      "num": 356717,
+      "word": "周深承包了整部戏的电话配音",
+      "onboard_time": 1658965825,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 344347,
@@ -169,6 +369,22 @@
       "onboard_time": 1658942537,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342338,
+      "num": 342338,
+      "word": "被惩罚还不忘偷吃的小狗",
+      "onboard_time": 1658973869,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 329830,
+      "num": 329830,
+      "word": "猴痘已蔓延全球75个国家和地区",
+      "onboard_time": 1658968291,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323846,
@@ -195,6 +411,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310089,
+      "num": 310089,
+      "word": "甘肃新增本土无症状207例",
+      "onboard_time": 1658972610,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304360,
+      "num": 304360,
+      "word": "上海新增3例本土确诊11例本土无症状",
+      "onboard_time": 1658971651,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300264,
+      "num": 300264,
+      "word": "四川新增9例本土无症状",
+      "onboard_time": 1658971651,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290417,
       "num": 290417,
       "word": "独行月球",
@@ -219,11 +459,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264875,
+      "num": 264875,
+      "word": "和朱一龙相约第36届百花奖",
+      "onboard_time": 1658974827,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 261075,
+      "num": 261075,
+      "word": "武汉通报新增2例无症状活动轨迹",
+      "onboard_time": 1658974769,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254955,
       "num": 254955,
       "word": "二舅作者回应被指抄袭",
       "onboard_time": 1658920533,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247031,
+      "num": 247031,
+      "word": "吃完饭为什么不能立刻运动",
+      "onboard_time": 1658974290,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -251,6 +515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 229167,
+      "num": 229167,
+      "word": "军人和小学生互相用拼音传纸条",
+      "onboard_time": 1658973209,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228777,
       "num": 228777,
       "word": "哈啰经理划破70辆美团单车被拘",
@@ -265,6 +537,14 @@
       "onboard_time": 1658930916,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212306,
+      "num": 212306,
+      "word": "周杰伦鸭舌帽",
+      "onboard_time": 1658970991,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 210228,
@@ -291,6 +571,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198181,
+      "num": 198181,
+      "word": "苏州千年紫薇树",
+      "onboard_time": 1658975549,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195244,
+      "num": 195244,
+      "word": "作者不想通过二舅升华苦难",
+      "onboard_time": 1658965225,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190194,
       "num": 174347,
       "word": "吴磊赵露思月升沧海追剧日历",
@@ -305,6 +601,14 @@
       "onboard_time": 1658934995,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184694,
+      "num": 184694,
+      "word": "林允儿俞利孝渊预告照",
+      "onboard_time": 1658968048,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 181155,
@@ -339,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176491,
+      "num": 176491,
+      "word": "菏泽新增本土无症状49例",
+      "onboard_time": 1658971770,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175964,
+      "num": 175964,
+      "word": "查出脂肪肝怎么办",
+      "onboard_time": 1658970450,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175635,
       "num": 175635,
       "word": "果农将葡萄喂猪被质疑浪费",
@@ -353,6 +673,14 @@
       "onboard_time": 1658917111,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171931,
+      "num": 171931,
+      "word": "俞灏明姚政加盟快乐再出发",
+      "onboard_time": 1658948472,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 164958,
@@ -371,12 +699,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 158632,
+      "num": 158632,
+      "word": "河南四村镇银行答疑资金垫付常见问题",
+      "onboard_time": 1658975490,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158298,
       "num": 158298,
       "word": "好想好想谈一场老派的恋爱",
       "onboard_time": 1658948052,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156120,
+      "num": 156120,
+      "word": "7月27日新增确诊119例",
+      "onboard_time": 1658972430,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155154,
@@ -427,14 +771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126105,
-      "num": 126105,
-      "word": "董宇辉劝年轻人不要沉醉于虚拟世界",
-      "onboard_time": 1658964621,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 119924,
       "num": 119924,
       "word": "未央好可惜",
@@ -459,28 +795,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115574,
-      "num": 115574,
-      "word": "俞灏明姚政加盟快乐再出发",
-      "onboard_time": 1658948472,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112749,
       "num": 112749,
       "word": "你能接受生吃大蒜吗",
       "onboard_time": 1658964321,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106617,
-      "num": 106617,
-      "word": "俄罗斯决定绕过5G直接开发6G网络",
-      "onboard_time": 1658964804,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 94216,
@@ -548,7 +868,7 @@
     },
     {
       "raw_hot": 66304,
-      "num": 872075,
+      "num": 1504729,
       "word": "问天实验舱超高清发射纪实",
       "onboard_time": 1658930434,
       "rank": 2,
@@ -615,6 +935,9 @@
     },
     {
       "word": "#喜迎二十大网络名人龙江行#"
+    },
+    {
+      "word": "#这场讲话谋划复兴伟业擘画强国蓝图#"
     }
   ]
 }
