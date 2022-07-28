@@ -1,6 +1,6 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1658997815704,
+  "endTime": 1659001122052,
   "band_list": [
     {
       "raw_hot": 4950635,
@@ -75,11 +75,43 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2427180,
+      "num": 1828940,
+      "word": "赵英俊",
+      "onboard_time": 1658997088,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2126213,
+      "num": 2126213,
+      "word": "工信部部长肖亚庆被查",
+      "onboard_time": 1658998652,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1854766,
       "num": 671835,
       "word": "男子工资5千养4个孩子压力大轻生",
       "onboard_time": 1658933557,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1781691,
+      "num": 1781691,
+      "word": "女生因吃不到火锅和男友闹分手",
+      "onboard_time": 1658996431,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1677457,
+      "num": 1677457,
+      "word": "民警张吉星被查",
+      "onboard_time": 1658998052,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -129,6 +161,14 @@
       "onboard_time": 1658991090,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1399012,
+      "num": 650187,
+      "word": "林志颖顺利完成手部开刀",
+      "onboard_time": 1658998652,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1385150,
@@ -200,6 +240,14 @@
       "word": "范丞丞蓝盈莹新剧姐弟恋",
       "onboard_time": 1658989049,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1196339,
+      "num": 1196339,
+      "word": "范丞丞好会亲",
+      "onboard_time": 1659000393,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -275,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1021815,
-      "num": 657016,
-      "word": "赵英俊",
-      "onboard_time": 1658997088,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 999672,
       "num": 999672,
       "word": "许凯未婚亥猪",
@@ -297,6 +337,14 @@
       "onboard_time": 1658978609,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 948790,
+      "num": 948790,
+      "word": "官方回应22岁女孩加班猝死",
+      "onboard_time": 1658995411,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 934411,
@@ -331,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 904417,
-      "num": 904417,
-      "word": "女生因吃不到火锅和男友闹分手",
-      "onboard_time": 1658996431,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 850460,
       "num": 850460,
       "word": "俄罗斯决定绕过5G直接开发6G网络",
@@ -353,6 +393,14 @@
       "onboard_time": 1658973270,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 833320,
+      "num": 611583,
+      "word": "杨紫被喊话多吃莲子补心",
+      "onboard_time": 1658998173,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 828680,
@@ -451,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 713079,
+      "num": 497498,
+      "word": "吴磊赵露思一起看烟花视频",
+      "onboard_time": 1658999554,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 709716,
       "num": 564737,
       "word": "许凯说我在害怕",
@@ -483,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 675319,
+      "num": 392647,
+      "word": "网传鹿晗录制毛雪汪",
+      "onboard_time": 1658997690,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664790,
       "num": 664790,
       "word": "目黑莲确诊新冠",
       "onboard_time": 1658938288,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 662171,
-      "num": 662171,
-      "word": "官方回应22岁女孩加班猝死",
-      "onboard_time": 1658995411,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 639053,
@@ -587,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 569795,
-      "num": 384309,
-      "word": "网传鹿晗录制毛雪汪",
-      "onboard_time": 1658997690,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564251,
       "num": 408523,
       "word": "丁程鑫新电影剧照",
@@ -633,6 +681,14 @@
       "onboard_time": 1658978131,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525263,
+      "num": 525263,
+      "word": "房地产专家呼吁给年轻人降首付",
+      "onboard_time": 1658998835,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 509065,
@@ -675,6 +731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 475499,
+      "num": 340454,
+      "word": "胡歌县委大院杀青路透视频",
+      "onboard_time": 1658998412,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470278,
       "num": 470278,
       "word": "90后博士后称人类有可能穿越未来",
@@ -705,6 +769,14 @@
       "onboard_time": 1658993911,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 456902,
+      "num": 456902,
+      "word": "传恒大拟出售香港总部大楼",
+      "onboard_time": 1658999491,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 456378,
@@ -745,6 +817,14 @@
       "onboard_time": 1658979569,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427207,
+      "num": 427207,
+      "word": "西湖的划船师傅居然有编制",
+      "onboard_time": 1658996791,
+      "rank": 43,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 423544,
@@ -865,6 +945,14 @@
       "onboard_time": 1658980710,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363988,
+      "num": 290417,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 359683,
@@ -1051,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290417,
-      "num": 290417,
-      "word": "独行月球",
-      "onboard_time": 1658921132,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285115,
       "num": 285115,
       "word": "通过饮食缓解熬夜危害",
@@ -1099,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280298,
+      "num": 280298,
+      "word": "女孩加班猝死涉事公司成立仅1年",
+      "onboard_time": 1658997754,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277061,
       "num": 277061,
       "word": "饿了么",
       "onboard_time": 1658989049,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 276558,
-      "num": 276558,
-      "word": "西湖的划船师傅居然有编制",
-      "onboard_time": 1658996791,
-      "rank": 43,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 274877,
@@ -1241,6 +1321,14 @@
       "onboard_time": 1658924912,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229523,
+      "num": 229523,
+      "word": "杜富国负伤的雷场已长满庄稼",
+      "onboard_time": 1658997632,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229167,
@@ -1387,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194750,
+      "num": 194750,
+      "word": "沈阳小伙探店百家助数万人发展副业",
+      "onboard_time": 1658999792,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194380,
       "num": 194380,
       "word": "调休到底是怎么来的",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1658991930,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 181624,
+      "num": 181624,
+      "word": "当小朋友收到小狗作为礼物",
+      "onboard_time": 1659000571,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 181155,
@@ -1531,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167131,
-      "num": 167131,
-      "word": "女孩加班猝死涉事公司成立仅1年",
-      "onboard_time": 1658997754,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164958,
       "num": 164958,
       "word": "爱情真的逃不开新鲜感吗",
@@ -1587,14 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149745,
-      "num": 149745,
-      "word": "杜富国负伤的雷场已长满庄稼",
-      "onboard_time": 1658997632,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148966,
       "num": 105406,
       "word": "月升沧海预告",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1658920111,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137486,
+      "num": 137486,
+      "word": "陆军直升机有多酷",
+      "onboard_time": 1658998595,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 135843,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1658955791,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131855,
+      "num": 131855,
+      "word": "女子称DNA筛查低风险却生唐氏儿",
+      "onboard_time": 1659000930,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119924,
@@ -1684,7 +1788,7 @@
     },
     {
       "raw_hot": 94216,
-      "num": 1480468,
+      "num": 1848530,
       "word": "杜富国钱七虎聂海胜荣获八一勋章",
       "onboard_time": 1658962156,
       "rank": 40,
