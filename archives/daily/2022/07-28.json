@@ -1,6 +1,6 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1658986960532,
+  "endTime": 1658990750814,
   "band_list": [
     {
       "raw_hot": 3564251,
@@ -107,6 +107,14 @@
       "category": "科技,综艺"
     },
     {
+      "raw_hot": 1385150,
+      "num": 1385150,
+      "word": "周公子",
+      "onboard_time": 1658986530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1366305,
       "num": 1366305,
       "word": "女生考入清华美院校长送化妆包",
@@ -139,11 +147,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1298595,
+      "num": 1298595,
+      "word": "女孩加班猝死劳动监察介入调查",
+      "onboard_time": 1658984375,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1275435,
       "num": 1275435,
       "word": "王姈妈妈居然是马雅舒",
       "onboard_time": 1658977891,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1238327,
+      "num": 1238327,
+      "word": "范丞丞蓝盈莹新剧姐弟恋",
+      "onboard_time": 1658989049,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990384,
+      "num": 990384,
+      "word": "94年女生开货车拉砖一天搬8000块",
+      "onboard_time": 1658988030,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 982644,
       "num": 892807,
       "word": "三石弟弟真的顶着三石啊",
@@ -211,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 924411,
-      "num": 924411,
-      "word": "女孩加班猝死劳动监察介入调查",
-      "onboard_time": 1658984375,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 931580,
+      "num": 931580,
+      "word": "国庆休7上7是一种什么体验",
+      "onboard_time": 1658984015,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 918243,
@@ -275,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 787476,
+      "num": 761478,
+      "word": "Apo确诊新冠",
+      "onboard_time": 1658989950,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773036,
       "num": 773036,
       "word": "钱三一是不是疯了",
@@ -331,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 719633,
+      "num": 719633,
+      "word": "朝鲜已准备好应对与美国的军事冲突",
+      "onboard_time": 1658989409,
+      "rank": 42,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 709716,
       "num": 564737,
       "word": "许凯说我在害怕",
@@ -355,20 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 676078,
-      "num": 676078,
-      "word": "国庆休7上7是一种什么体验",
-      "onboard_time": 1658984015,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 664790,
       "num": 664790,
       "word": "目黑莲确诊新冠",
       "onboard_time": 1658938288,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639053,
+      "num": 639053,
+      "word": "独行月球票房破亿",
+      "onboard_time": 1658987491,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 638282,
@@ -385,6 +433,22 @@
       "onboard_time": 1658975368,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616731,
+      "num": 616731,
+      "word": "阿Sa平平无奇鼻艺人",
+      "onboard_time": 1658988390,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 600066,
+      "num": 600066,
+      "word": "30岁人大硕士回应为学医重新高考",
+      "onboard_time": 1658985753,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 590560,
@@ -440,6 +504,14 @@
       "word": "若佩洛西访台中国军队绝不会坐视不管",
       "onboard_time": 1658978131,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525678,
+      "num": 525678,
+      "word": "女子称网购退货被商家寄冥币",
+      "onboard_time": 1658988691,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -587,6 +659,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 404770,
+      "num": 404770,
+      "word": "民警遭嫌犯驾车冲撞因公殉职",
+      "onboard_time": 1658988089,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403796,
       "num": 286517,
       "word": "周杰伦背带裤",
@@ -619,19 +699,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379935,
+      "num": 379935,
+      "word": "狗子过上了你的理想生活",
+      "onboard_time": 1658986471,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 377001,
       "num": 377001,
       "word": "天津滨海新区有不明刺激气体传出",
       "onboard_time": 1658983234,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369521,
-      "num": 369521,
-      "word": "周公子",
-      "onboard_time": 1658986530,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -651,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358113,
+      "num": 358113,
+      "word": "天津回应出现刺激性气味",
+      "onboard_time": 1658985093,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357154,
       "num": 326784,
       "word": "杨超越再跳创造101主题曲",
@@ -665,14 +753,6 @@
       "onboard_time": 1658965825,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356428,
-      "num": 356428,
-      "word": "30岁人大硕士回应为学医重新高考",
-      "onboard_time": 1658985753,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 349182,
@@ -707,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 342221,
-      "num": 342221,
-      "word": "天津回应出现刺激性气味",
-      "onboard_time": 1658985093,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333425,
       "num": 324724,
       "word": "尔冬升眼中的丁程鑫",
@@ -745,6 +817,14 @@
       "onboard_time": 1658921612,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319244,
+      "num": 276499,
+      "word": "天才基本法好虐",
+      "onboard_time": 1658987432,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 312971,
@@ -827,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283633,
+      "num": 250481,
+      "word": "杨超越有点预言家身份在身上",
+      "onboard_time": 1658990610,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282848,
       "num": 282848,
       "word": "美联储大概率加息75个基点",
@@ -841,6 +929,14 @@
       "onboard_time": 1658980113,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277061,
+      "num": 277061,
+      "word": "饿了么",
+      "onboard_time": 1658989049,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 274877,
@@ -899,6 +995,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 241791,
+      "num": 241791,
+      "word": "读懂二舅就读懂了中国农民",
+      "onboard_time": 1658989289,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 239196,
       "num": 239196,
       "word": "重庆男子一胎得女发文称晦气",
@@ -955,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212463,
-      "num": 212463,
-      "word": "狗子过上了你的理想生活",
-      "onboard_time": 1658986471,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212306,
       "num": 212306,
       "word": "周杰伦鸭舌帽",
@@ -995,6 +1091,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 203957,
+      "num": 203957,
+      "word": "河南舞阳交通事故肇事者已被控制",
+      "onboard_time": 1658990128,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203041,
       "num": 174813,
       "word": "安乐传",
@@ -1025,6 +1129,14 @@
       "onboard_time": 1658975549,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196177,
+      "num": 196177,
+      "word": "她们从未忘记彼此",
+      "onboard_time": 1658987129,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 195453,
@@ -1211,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148233,
+      "num": 148233,
+      "word": "调休到底是怎么来的",
+      "onboard_time": 1658990369,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142433,
       "num": 104585,
       "word": "刘聪新歌",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1658920111,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135843,
+      "num": 135843,
+      "word": "网友眼中的鸿蒙3是啥样",
+      "onboard_time": 1658988870,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 135555,
