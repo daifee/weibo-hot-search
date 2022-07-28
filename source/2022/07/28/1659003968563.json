@@ -1,0 +1,410 @@
+{
+  "runTime": 1659003968563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2836997,
+        "num": 2836997,
+        "word": "王一博丁泽仁跳舞视频",
+        "onboard_time": 1659002495,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1535908,
+        "num": 1535908,
+        "word": "张杰谢娜与房产经纪名誉权纠纷案将开庭",
+        "onboard_time": 1658991029,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27366,
+        "num": 1467891,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1460340,
+        "num": 1460340,
+        "word": "范丞丞好会亲",
+        "onboard_time": 1659000393,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1004255,
+        "num": 1004255,
+        "word": "女生因吃不到火锅和男友闹分手",
+        "onboard_time": 1658996431,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856658,
+        "num": 856658,
+        "word": "河北保定一中学强制女生留超短发",
+        "onboard_time": 1659002371,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856435,
+        "num": 856435,
+        "word": "女子称DNA筛查低风险却生唐氏儿",
+        "onboard_time": 1659000930,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839011,
+        "num": 839011,
+        "word": "工信部部长肖亚庆被查",
+        "onboard_time": 1658998652,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624066,
+        "num": 624066,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622196,
+        "num": 622196,
+        "word": "官方回应22岁女孩加班猝死",
+        "onboard_time": 1658995411,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406499,
+        "num": 608951,
+        "word": "江苏一酒吧禁超130斤女生进",
+        "onboard_time": 1659002254,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303794,
+        "num": 585319,
+        "word": "赵英俊",
+        "onboard_time": 1658997088,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1024145,
+        "num": 553606,
+        "word": "林志颖顺利完成手部开刀",
+        "onboard_time": 1658998652,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815496,
+        "num": 512083,
+        "word": "程少商也太像懒羊羊了吧",
+        "onboard_time": 1658994510,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45200,
+        "num": 476087,
+        "word": "走进华龙一号",
+        "onboard_time": 1659002495,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464133,
+        "num": 464133,
+        "word": "房地产专家呼吁给年轻人降首付",
+        "onboard_time": 1658998835,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 426433,
+        "num": 426433,
+        "word": "成都疫情防控",
+        "onboard_time": 1659002733,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419459,
+        "num": 419459,
+        "word": "雪碧将放弃绿瓶",
+        "onboard_time": 1658982397,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384318,
+        "num": 384318,
+        "word": "摩尔庄园",
+        "onboard_time": 1658993132,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350312,
+        "num": 350312,
+        "word": "韩国人口建国以来首次负增长",
+        "onboard_time": 1659002914,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 509095,
+        "num": 349281,
+        "word": "吴磊赵露思一起看烟花视频",
+        "onboard_time": 1658999554,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445536,
+        "num": 346768,
+        "word": "独行月球",
+        "onboard_time": 1659000513,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427737,
+        "num": 346376,
+        "word": "杨紫被喊话多吃莲子补心",
+        "onboard_time": 1658998173,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343890,
+        "num": 343890,
+        "word": "男子节食1个月瘦10公斤得脂肪肝",
+        "onboard_time": 1658991572,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321401,
+        "num": 321401,
+        "word": "传恒大拟出售香港总部大楼",
+        "onboard_time": 1658999491,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303503,
+        "num": 303503,
+        "word": "河南漯河交通事故已致1死28伤",
+        "onboard_time": 1658984855,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 275224,
+        "num": 275224,
+        "word": "国防部说打台独不手软",
+        "onboard_time": 1659003095,
+        "rank": 26,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 262689,
+        "num": 262689,
+        "word": "西湖的划船师傅居然有编制",
+        "onboard_time": 1658996791,
+        "rank": 27,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 259148,
+        "num": 259148,
+        "word": "成都成华区核酸",
+        "onboard_time": 1659002972,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245903,
+        "num": 245903,
+        "word": "女孩加班猝死涉事公司成立仅1年",
+        "onboard_time": 1658997754,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382529,
+        "num": 245371,
+        "word": "苏醒肉三过嘴边而不入",
+        "onboard_time": 1659002914,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382207,
+        "num": 245207,
+        "word": "杨幂摸许凯脸",
+        "onboard_time": 1658994272,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325283,
+        "num": 245073,
+        "word": "时代少年团全员马术服造型",
+        "onboard_time": 1659001292,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 244108,
+        "num": 244108,
+        "word": "钟薛高申请注册钟薛低商标",
+        "onboard_time": 1658991090,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280223,
+        "num": 244093,
+        "word": "网传鹿晗录制毛雪汪",
+        "onboard_time": 1658997690,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234374,
+        "num": 234374,
+        "word": "四川退休人员基本养老金涨了",
+        "onboard_time": 1659001952,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232546,
+        "num": 232546,
+        "word": "周公子",
+        "onboard_time": 1658986530,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206656,
+        "num": 206656,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201659,
+        "num": 201659,
+        "word": "当小朋友收到小狗作为礼物",
+        "onboard_time": 1659000571,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195564,
+        "num": 195564,
+        "word": "这是一场蓄谋已久的求婚",
+        "onboard_time": 1658993911,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271652,
+        "num": 191670,
+        "word": "Angelababy直播",
+        "onboard_time": 1658995772,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259478,
+        "num": 191086,
+        "word": "沉香如屑能加更吗",
+        "onboard_time": 1659001712,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186278,
+        "num": 186278,
+        "word": "成都粉红猪猪气球大叔发声",
+        "onboard_time": 1659001292,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184260,
+        "num": 184260,
+        "word": "朝鲜已准备好应对与美国的军事冲突",
+        "onboard_time": 1658989409,
+        "rank": 43,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 155101,
+        "num": 155101,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135935,
+        "num": 135935,
+        "word": "94年女生开货车拉砖一天搬8000块",
+        "onboard_time": 1658988030,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131156,
+        "num": 131156,
+        "word": "男子被蜂蛰满脸肿胀似奔波儿灞",
+        "onboard_time": 1659003394,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 126814,
+        "word": "突然想换手机壳了",
+        "onboard_time": 1658982037,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120774,
+        "num": 120774,
+        "word": "护眼类纸屏是智商税吗",
+        "onboard_time": 1659003876,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 120578,
+        "num": 120578,
+        "word": "杜富国负伤的雷场已长满庄稼",
+        "onboard_time": 1658997632,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切成就都是党和人民一道奋斗出来的#"
+    }
+  }
+}
