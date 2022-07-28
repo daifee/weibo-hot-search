@@ -1,10 +1,18 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1659019183556,
+  "endTime": 1659022912581,
   "band_list": [
     {
+      "raw_hot": 9195708,
+      "num": 622067,
+      "word": "辣目洋子道歉",
+      "onboard_time": 1659021166,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5176436,
-      "num": 1712190,
+      "num": 3090979,
       "word": "两高中生奸杀教师案第三人将受审",
       "onboard_time": 1659010298,
       "rank": 1,
@@ -17,6 +25,14 @@
       "onboard_time": 1658991029,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3683428,
+      "num": 3683428,
+      "word": "台湾是中国的台湾",
+      "onboard_time": 1659017443,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3564251,
@@ -137,14 +153,6 @@
       "onboard_time": 1658933557,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1808090,
-      "num": 1808090,
-      "word": "台湾是中国的台湾",
-      "onboard_time": 1659017443,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1781691,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063459,
+      "num": 655584,
+      "word": "亲生父母6年卖4孩获利9.1万",
+      "onboard_time": 1659016780,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048869,
       "num": 1048869,
       "word": "TFBOYS待播作品",
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 977649,
+      "num": 977649,
+      "word": "成华区疫情防控",
+      "onboard_time": 1659021641,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948790,
       "num": 948790,
       "word": "官方回应22岁女孩加班猝死",
@@ -473,14 +497,6 @@
       "onboard_time": 1658995772,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 923182,
-      "num": 655584,
-      "word": "亲生父母6年卖4孩获利9.1万",
-      "onboard_time": 1659016780,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 918243,
@@ -585,6 +601,14 @@
       "onboard_time": 1658989950,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787347,
+      "num": 787347,
+      "word": "22岁加班猝死女孩父亲痛哭",
+      "onboard_time": 1659015882,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773036,
@@ -883,6 +907,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 546845,
+      "num": 546845,
+      "word": "程少商终于知道了被偏爱的滋味",
+      "onboard_time": 1659019484,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541397,
       "num": 541397,
       "word": "年轻人发病率最高的肝病是脂肪肝",
@@ -905,6 +937,14 @@
       "onboard_time": 1659006394,
       "rank": 26,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 535576,
+      "num": 535576,
+      "word": "在肯德基装睡的爸爸",
+      "onboard_time": 1659018461,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 533510,
@@ -1059,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 437804,
-      "num": 437804,
-      "word": "22岁加班猝死女孩父亲痛哭",
-      "onboard_time": 1659015882,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436786,
       "num": 436786,
       "word": "成都疫情防控",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1658979569,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427402,
+      "num": 427402,
+      "word": "台海巡队强行查扣大陆渔船",
+      "onboard_time": 1659021518,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 427207,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1658978489,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 401548,
+      "num": 328858,
+      "word": "孙亦航收到十八楼红绳的表情",
+      "onboard_time": 1659019365,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 395712,
@@ -1475,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310906,
-      "num": 310906,
-      "word": "在肯德基装睡的爸爸",
-      "onboard_time": 1659018461,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 310089,
       "num": 310089,
       "word": "甘肃新增本土无症状207例",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1659017862,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273792,
+      "num": 273792,
+      "word": "95后女生120米高空开塔吊",
+      "onboard_time": 1659020800,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270888,
@@ -2123,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185187,
+      "num": 185187,
+      "word": "今年第5号台风桑达",
+      "onboard_time": 1659020380,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184694,
       "num": 184694,
       "word": "林允儿俞利孝渊预告照",
@@ -2320,6 +2376,14 @@
       "word": "小老虎怼脸拍有多萌",
       "onboard_time": 1658996732,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153221,
+      "num": 153221,
+      "word": "奶奶对着新装可视门铃开心晒日常",
+      "onboard_time": 1659022361,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
