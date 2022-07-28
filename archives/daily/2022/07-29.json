@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659036812743,
+  "endTime": 1659040739450,
   "band_list": [
     {
       "raw_hot": 2946004,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127932,
+      "num": 127932,
+      "word": "称生女儿晦气男子致歉被指没诚意",
+      "onboard_time": 1659037753,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121461,
       "num": 121461,
       "word": "良心爷爷卖2元饮品可免费续杯",
@@ -427,6 +435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 51759,
+      "num": 45790,
+      "word": "游客违规自驾开车进西藏圣湖",
+      "onboard_time": 1659036492,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50021,
       "num": 50021,
       "word": "没想到还能把熊吓跑",
@@ -435,20 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22546,
-      "num": 22546,
+      "raw_hot": 30773,
+      "num": 30773,
+      "word": "国防部评北约战略文件",
+      "onboard_time": 1659039251,
+      "rank": 46,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 24634,
+      "num": 24634,
       "word": "谭维维住在星汉灿烂弹幕里了",
       "onboard_time": 1659036492,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 16876,
-      "num": 16876,
-      "word": "游客违规自驾开车进西藏圣湖",
-      "onboard_time": 1659036492,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13190,
@@ -457,6 +473,14 @@
       "onboard_time": 1658962156,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10754,
+      "num": 10754,
+      "word": "宋祖儿被怼到认错",
+      "onboard_time": 1659040631,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
