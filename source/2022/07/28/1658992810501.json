@@ -1,0 +1,410 @@
+{
+  "runTime": 1658992810501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4950635,
+        "num": 4950635,
+        "word": "张杰谢娜与房产经纪名誉权纠纷案将开庭",
+        "onboard_time": 1658991029,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2205509,
+        "num": 2205509,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5894,
+        "num": 1246585,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1139321,
+        "num": 1139321,
+        "word": "雪碧将放弃绿瓶",
+        "onboard_time": 1658982397,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135034,
+        "num": 1135034,
+        "word": "朝鲜已准备好应对与美国的军事冲突",
+        "onboard_time": 1658989409,
+        "rank": 4,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1087990,
+        "num": 1087990,
+        "word": "94年女生开货车拉砖一天搬8000块",
+        "onboard_time": 1658988030,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055694,
+        "num": 1055694,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999672,
+        "num": 999672,
+        "word": "许凯未婚亥猪",
+        "onboard_time": 1658991271,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 974389,
+        "num": 974389,
+        "word": "钟薛高申请注册钟薛低商标",
+        "onboard_time": 1658991090,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861895,
+        "num": 861895,
+        "word": "周公子",
+        "onboard_time": 1658986530,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999574,
+        "num": 853879,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838457,
+        "num": 838457,
+        "word": "范丞丞蓝盈莹新剧姐弟恋",
+        "onboard_time": 1658989049,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 693983,
+        "num": 693983,
+        "word": "女子称网购退货被商家寄冥币",
+        "onboard_time": 1658988691,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660345,
+        "num": 660345,
+        "word": "女孩加班猝死劳动监察介入调查",
+        "onboard_time": 1658984375,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591955,
+        "num": 591955,
+        "word": "Apo确诊新冠",
+        "onboard_time": 1658989950,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587857,
+        "num": 587857,
+        "word": "男子节食1个月瘦10公斤得脂肪肝",
+        "onboard_time": 1658991572,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577310,
+        "num": 577310,
+        "word": "独行月球票房破亿",
+        "onboard_time": 1658987491,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10658,
+        "num": 539785,
+        "word": "问天实验舱超高清发射纪实",
+        "onboard_time": 1658930434,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514978,
+        "num": 514978,
+        "word": "国庆休7上7是一种什么体验",
+        "onboard_time": 1658984015,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469923,
+        "num": 469923,
+        "word": "TFBOYS待播作品",
+        "onboard_time": 1658979871,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446005,
+        "num": 446005,
+        "word": "阿Sa平平无奇鼻艺人",
+        "onboard_time": 1658988390,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445187,
+        "num": 445187,
+        "word": "王姈妈妈居然是马雅舒",
+        "onboard_time": 1658977891,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400231,
+        "num": 400231,
+        "word": "90后相识7天领证3月后闪离",
+        "onboard_time": 1658979330,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 369724,
+        "num": 369724,
+        "word": "民警遭嫌犯驾车冲撞因公殉职",
+        "onboard_time": 1658988089,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360263,
+        "num": 360263,
+        "word": "狗子过上了你的理想生活",
+        "onboard_time": 1658986471,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353542,
+        "num": 353542,
+        "word": "彭昱畅是黄明昊的人形挂件",
+        "onboard_time": 1658985280,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329822,
+        "num": 329822,
+        "word": "苏菲回应卫生巾被指有虫子尸体",
+        "onboard_time": 1658990790,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324857,
+        "num": 324857,
+        "word": "突然想换手机壳了",
+        "onboard_time": 1658982037,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270923,
+        "num": 270923,
+        "word": "30岁人大硕士回应为学医重新高考",
+        "onboard_time": 1658985753,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 261473,
+        "num": 261473,
+        "word": "北京公积金缴存上限大幅上调",
+        "onboard_time": 1658982037,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 268631,
+        "num": 259222,
+        "word": "颜人中演唱会",
+        "onboard_time": 1658991813,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256316,
+        "num": 256316,
+        "word": "狗狗是婚礼的小花童",
+        "onboard_time": 1658991271,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 256298,
+        "num": 256298,
+        "word": "天才基本法好虐",
+        "onboard_time": 1658987432,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254748,
+        "num": 254748,
+        "word": "二舅",
+        "onboard_time": 1658967090,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253849,
+        "num": 253849,
+        "word": "杨幂不慌",
+        "onboard_time": 1658984855,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250698,
+        "num": 250698,
+        "word": "林妙妙钱三一给我亲上去",
+        "onboard_time": 1658986471,
+        "rank": 35,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 241923,
+        "num": 241923,
+        "word": "河南舞阳发生交通事故致多人受伤",
+        "onboard_time": 1658984855,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 230226,
+        "num": 230226,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1658978131,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215092,
+        "num": 215092,
+        "word": "让假期调休更得民心",
+        "onboard_time": 1658979751,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205232,
+        "num": 205232,
+        "word": "读懂二舅就读懂了中国农民",
+        "onboard_time": 1658989289,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 230924,
+        "num": 204254,
+        "word": "UP主称B站外国综艺将面临下架",
+        "onboard_time": 1658974169,
+        "rank": 40,
+        "category": "科技,综艺"
+      },
+      {
+        "raw_hot": 196162,
+        "num": 196162,
+        "word": "河南舞阳交通事故肇事者已被控制",
+        "onboard_time": 1658990128,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194171,
+        "num": 194171,
+        "word": "律师称女孩加班猝死应视为工亡",
+        "onboard_time": 1658992351,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191753,
+        "num": 191753,
+        "word": "调休到底是怎么来的",
+        "onboard_time": 1658990369,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172133,
+        "num": 172133,
+        "word": "天津回应出现刺激性气味",
+        "onboard_time": 1658985093,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171702,
+        "num": 171702,
+        "word": "没想到猫咪也会社恐",
+        "onboard_time": 1658991930,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 156018,
+        "num": 156018,
+        "word": "90后博士后称人类有可能穿越未来",
+        "onboard_time": 1658984255,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 212026,
+        "num": 153376,
+        "word": "陈慧娴签约英皇娱乐",
+        "onboard_time": 1658992773,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146908,
+        "num": 146908,
+        "word": "她们从未忘记彼此",
+        "onboard_time": 1658987129,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145438,
+        "num": 145438,
+        "word": "女生考入清华美院校长送化妆包",
+        "onboard_time": 1658974409,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切成就都是党和人民一道奋斗出来的#"
+    }
+  }
+}
