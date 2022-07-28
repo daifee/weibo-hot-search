@@ -1,6 +1,6 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1659004911880,
+  "endTime": 1659008115526,
   "band_list": [
     {
       "raw_hot": 4950635,
@@ -16,6 +16,14 @@
       "word": "苏菲卫生巾被曝有虫子尸体",
       "onboard_time": 1658975129,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3344388,
+      "num": 3344388,
+      "word": "民警带嫌疑人孕检偶遇孕妻",
+      "onboard_time": 1659005017,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1908376,
+      "num": 1100484,
+      "word": "男子为取悦女主播及还债杀子骗保",
+      "onboard_time": 1659005795,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1854766,
       "num": 671835,
       "word": "男子工资5千养4个孩子压力大轻生",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1518130,
-      "num": 608951,
+      "num": 852296,
       "word": "江苏一酒吧禁超130斤女生进",
       "onboard_time": 1659002254,
       "rank": 10,
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1200614,
+      "num": 1200614,
+      "word": "每日优鲜",
+      "onboard_time": 1659005254,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1164154,
       "num": 1164154,
       "word": "BLACKPINK公开新歌预告照",
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947653,
+      "num": 947653,
+      "word": "河北保定一中学强制女生留超短发",
+      "onboard_time": 1659002371,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 934411,
       "num": 934411,
       "word": "彭昱畅是黄明昊的人形挂件",
@@ -403,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 877375,
-      "num": 877375,
-      "word": "河北保定一中学强制女生留超短发",
-      "onboard_time": 1659002371,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 863253,
+      "num": 863253,
+      "word": "支付宝可一键取消自动扣款",
+      "onboard_time": 1659006032,
+      "rank": 13,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 850460,
@@ -603,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637723,
+      "num": 637723,
+      "word": "韩国人口建国以来首次负增长",
+      "onboard_time": 1659002914,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 625196,
       "num": 625196,
       "word": "河南漯河交通事故已致1死28伤",
@@ -649,14 +689,6 @@
       "onboard_time": 1658995108,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 586273,
-      "num": 586273,
-      "word": "韩国人口建国以来首次负增长",
-      "onboard_time": 1659002914,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 579886,
@@ -715,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539120,
+      "num": 539120,
+      "word": "每日优鲜回应公司解散",
+      "onboard_time": 1659006394,
+      "rank": 26,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 529805,
       "num": 529805,
       "word": "若佩洛西访台中国军队绝不会坐视不管",
       "onboard_time": 1658978131,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526802,
+      "num": 526802,
+      "word": "应渊承认爱颜淡",
+      "onboard_time": 1659006759,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 525263,
@@ -748,7 +796,7 @@
     },
     {
       "raw_hot": 498475,
-      "num": 375813,
+      "num": 477829,
       "word": "国防部说打台独不手软",
       "onboard_time": 1659003095,
       "rank": 26,
@@ -833,6 +881,14 @@
       "onboard_time": 1658968834,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455955,
+      "num": 363932,
+      "word": "SEVENTEEN新歌一位",
+      "onboard_time": 1659006937,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 453320,
@@ -921,6 +977,22 @@
       "onboard_time": 1659002914,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417129,
+      "num": 417129,
+      "word": "蜜雪冰城员工回应密封饮品有苍蝇",
+      "onboard_time": 1659005314,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414680,
+      "num": 350528,
+      "word": "县委大院今日杀青",
+      "onboard_time": 1659007177,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 413518,
@@ -1057,6 +1129,14 @@
       "onboard_time": 1658965825,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352844,
+      "num": 352844,
+      "word": "良心爷爷卖2元饮品可免费续杯",
+      "onboard_time": 1659006937,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 349182,
@@ -1203,12 +1283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296914,
+      "num": 296914,
+      "word": "布达拉宫广场上的水就没有干过",
+      "onboard_time": 1659006215,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 294360,
       "num": 249934,
       "word": "张子枫聊和雷佳音演父女",
       "onboard_time": 1658984196,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293977,
+      "num": 155501,
+      "word": "打水仗的摩托车",
+      "onboard_time": 1659008076,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 285115,
@@ -1315,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261091,
+      "num": 261091,
+      "word": "毒液的原型找到了",
+      "onboard_time": 1659007655,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261075,
       "num": 261075,
       "word": "武汉通报新增2例无症状活动轨迹",
@@ -1324,7 +1428,7 @@
     },
     {
       "raw_hot": 259478,
-      "num": 191086,
+      "num": 218522,
       "word": "沉香如屑能加更吗",
       "onboard_time": 1659001712,
       "rank": 41,
@@ -1355,6 +1459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254913,
+      "num": 254913,
+      "word": "江苏一地寻找躺平者干部",
+      "onboard_time": 1659004835,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248282,
+      "num": 243024,
+      "word": "颜淡终于下凡了",
+      "onboard_time": 1659007596,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247949,
+      "num": 247949,
+      "word": "维特尔宣布退役",
+      "onboard_time": 1659004533,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247031,
       "num": 247031,
       "word": "吃完饭为什么不能立刻运动",
@@ -1369,6 +1497,14 @@
       "onboard_time": 1658977352,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 242207,
+      "num": 242207,
+      "word": "六旬老太一天吃八顿只喊饿",
+      "onboard_time": 1659006334,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241791,
@@ -1411,14 +1547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232063,
-      "num": 232063,
-      "word": "维特尔宣布退役",
-      "onboard_time": 1659004533,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231981,
       "num": 231981,
       "word": "HarmonyOS",
@@ -1441,6 +1569,14 @@
       "onboard_time": 1658973209,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228904,
+      "num": 228904,
+      "word": "不聪明但是很可爱",
+      "onboard_time": 1659005677,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 228777,
@@ -1683,14 +1819,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 180383,
-      "num": 180383,
-      "word": "江苏一地寻找躺平者干部",
-      "onboard_time": 1659004835,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "周杰伦预告错过的烟火MV",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1658948052,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157519,
+      "num": 157519,
+      "word": "487道歉",
+      "onboard_time": 1659007959,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 156120,
