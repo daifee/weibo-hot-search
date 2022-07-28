@@ -1,0 +1,410 @@
+{
+  "runTime": 1658980959233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3564251,
+        "num": 3564251,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3243509,
+        "num": 3243509,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26449,
+        "num": 1873698,
+        "word": "问天实验舱超高清发射纪实",
+        "onboard_time": 1658930434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1805965,
+        "num": 1805965,
+        "word": "二舅",
+        "onboard_time": 1658967090,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701420,
+        "num": 1701420,
+        "word": "22岁女孩连续熬夜加班猝死",
+        "onboard_time": 1658934216,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1238332,
+        "num": 1238332,
+        "word": "王姈妈妈居然是马雅舒",
+        "onboard_time": 1658977891,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1220061,
+        "num": 1220061,
+        "word": "UP主称B站外国综艺将面临下架",
+        "onboard_time": 1658974169,
+        "rank": 6,
+        "category": "科技,综艺"
+      },
+      {
+        "raw_hot": 1120278,
+        "num": 1120278,
+        "word": "余生请多指教卫视收视最高峰值",
+        "onboard_time": 1658978670,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 968968,
+        "num": 968968,
+        "word": "90后相识7天领证3月后闪离",
+        "onboard_time": 1658979330,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 918243,
+        "num": 918243,
+        "word": "天津滨海新区空气",
+        "onboard_time": 1658979391,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1529231,
+        "num": 908635,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041731,
+        "num": 899602,
+        "word": "吴磊与小北的氛围感大片",
+        "onboard_time": 1658977593,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 982644,
+        "num": 892807,
+        "word": "三石弟弟真的顶着三石啊",
+        "onboard_time": 1658978609,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874089,
+        "num": 874089,
+        "word": "女生考入清华美院校长送化妆包",
+        "onboard_time": 1658974409,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 734591,
+        "num": 734591,
+        "word": "TFBOYS待播作品",
+        "onboard_time": 1658979871,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577068,
+        "num": 577068,
+        "word": "异地恋分手应该再见一面吗",
+        "onboard_time": 1658978910,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479250,
+        "num": 479250,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1658978131,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477417,
+        "num": 477417,
+        "word": "男子工资5千养4个孩子压力大轻生",
+        "onboard_time": 1658933557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453840,
+        "num": 453840,
+        "word": "00后货运男孩3年记账3500条",
+        "onboard_time": 1658977352,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 421398,
+        "num": 421398,
+        "word": "让假期调休更得民心",
+        "onboard_time": 1658979751,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2526880,
+        "num": 413432,
+        "word": "土土",
+        "onboard_time": 1658974290,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 623431,
+        "num": 409913,
+        "word": "汪海林说编剧行业已经成了马桶加工业",
+        "onboard_time": 1658975368,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564251,
+        "num": 408523,
+        "word": "丁程鑫新电影剧照",
+        "onboard_time": 1658979451,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399371,
+        "num": 399371,
+        "word": "中秋节国庆节放假通知",
+        "onboard_time": 1658969072,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398783,
+        "num": 398783,
+        "word": "商家上线榴莲险开不出四房退全款",
+        "onboard_time": 1658979569,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424537,
+        "num": 384797,
+        "word": "BLACKPINK公开新歌预告照",
+        "onboard_time": 1658970510,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363138,
+        "num": 363138,
+        "word": "熬夜将影响身体的六大功能",
+        "onboard_time": 1658970931,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336859,
+        "num": 336859,
+        "word": "她为了一句约定等了丈夫76年",
+        "onboard_time": 1658969673,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334417,
+        "num": 334417,
+        "word": "人心理素质差的表现",
+        "onboard_time": 1658979270,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 288168,
+        "num": 288168,
+        "word": "俄罗斯决定绕过5G直接开发6G网络",
+        "onboard_time": 1658964804,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 398855,
+        "num": 287463,
+        "word": "黄晓明说自己是中餐厅的大朋友",
+        "onboard_time": 1658968652,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367704,
+        "num": 286517,
+        "word": "周杰伦背带裤",
+        "onboard_time": 1658978489,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364211,
+        "num": 285933,
+        "word": "少女时代校服造型路透",
+        "onboard_time": 1658980710,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285115,
+        "num": 285115,
+        "word": "通过饮食缓解熬夜危害",
+        "onboard_time": 1658977109,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282300,
+        "num": 282300,
+        "word": "男子婚后14年发现俩孩子非亲生",
+        "onboard_time": 1658964201,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255923,
+        "num": 255923,
+        "word": "前CBA记者公然侮辱中国男篮",
+        "onboard_time": 1658967632,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255680,
+        "num": 255680,
+        "word": "广西一大白飞踹核酸检测男子",
+        "onboard_time": 1658969673,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243631,
+        "num": 243631,
+        "word": "每日优鲜回应关闭30分钟极速达",
+        "onboard_time": 1658977352,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 235270,
+        "num": 235270,
+        "word": "吃完饭为什么不能立刻运动",
+        "onboard_time": 1658974290,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221540,
+        "num": 221540,
+        "word": "星之守护者赛娜",
+        "onboard_time": 1658980773,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338281,
+        "num": 221464,
+        "word": "张圭悧退队",
+        "onboard_time": 1658973869,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282286,
+        "num": 221151,
+        "word": "向前冲真的定档8月3日",
+        "onboard_time": 1658980113,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217941,
+        "num": 217941,
+        "word": "被惩罚还不忘偷吃的小狗",
+        "onboard_time": 1658973869,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213261,
+        "num": 213261,
+        "word": "Viper韩服第一",
+        "onboard_time": 1658969371,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206228,
+        "num": 206228,
+        "word": "被人类幼崽的泪点笑到了",
+        "onboard_time": 1658980053,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 201920,
+        "num": 201920,
+        "word": "武汉通报新增2例无症状活动轨迹",
+        "onboard_time": 1658974769,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194804,
+        "num": 194804,
+        "word": "郑州新增1例无症状",
+        "onboard_time": 1658978308,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185407,
+        "num": 185407,
+        "word": "郭培的国产高定设计",
+        "onboard_time": 1658980292,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 180785,
+        "num": 180785,
+        "word": "消防员路边抓了只爱撒娇的狐狸",
+        "onboard_time": 1658980531,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 177471,
+        "num": 177471,
+        "word": "河南四村镇银行答疑资金垫付常见问题",
+        "onboard_time": 1658975490,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切成就都是党和人民一道奋斗出来的#"
+    }
+  }
+}
