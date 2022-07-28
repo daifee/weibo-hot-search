@@ -1,0 +1,410 @@
+{
+  "runTime": 1658993755952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4883060,
+        "num": 4883060,
+        "word": "张杰谢娜与房产经纪名誉权纠纷案将开庭",
+        "onboard_time": 1658991029,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1920836,
+        "num": 1920836,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24502,
+        "num": 1418699,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1407989,
+        "num": 1407989,
+        "word": "钟薛高申请注册钟薛低商标",
+        "onboard_time": 1658991090,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142172,
+        "num": 1142172,
+        "word": "男子节食1个月瘦10公斤得脂肪肝",
+        "onboard_time": 1658991572,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109038,
+        "num": 1109038,
+        "word": "朝鲜已准备好应对与美国的军事冲突",
+        "onboard_time": 1658989409,
+        "rank": 5,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1057094,
+        "num": 1057094,
+        "word": "雪碧将放弃绿瓶",
+        "onboard_time": 1658982397,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949646,
+        "num": 949646,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914740,
+        "num": 914740,
+        "word": "94年女生开货车拉砖一天搬8000块",
+        "onboard_time": 1658988030,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710843,
+        "num": 710843,
+        "word": "范丞丞蓝盈莹新剧姐弟恋",
+        "onboard_time": 1658989049,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 862917,
+        "num": 710566,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708481,
+        "num": 708481,
+        "word": "周公子",
+        "onboard_time": 1658986530,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637066,
+        "num": 637066,
+        "word": "女子称网购退货被商家寄冥币",
+        "onboard_time": 1658988691,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545569,
+        "num": 545569,
+        "word": "独行月球票房破亿",
+        "onboard_time": 1658987491,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535510,
+        "num": 535510,
+        "word": "Apo确诊新冠",
+        "onboard_time": 1658989950,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486537,
+        "num": 486537,
+        "word": "TFBOYS待播作品",
+        "onboard_time": 1658979871,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454804,
+        "num": 454804,
+        "word": "女孩加班猝死劳动监察介入调查",
+        "onboard_time": 1658984375,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436944,
+        "num": 436944,
+        "word": "王姈妈妈居然是马雅舒",
+        "onboard_time": 1658977891,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403049,
+        "num": 403049,
+        "word": "国庆休7上7是一种什么体验",
+        "onboard_time": 1658984015,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370156,
+        "num": 370156,
+        "word": "90后相识7天领证3月后闪离",
+        "onboard_time": 1658979330,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 398982,
+        "num": 370048,
+        "word": "阿Sa平平无奇鼻艺人",
+        "onboard_time": 1658988390,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369937,
+        "num": 369937,
+        "word": "民警遭嫌犯驾车冲撞因公殉职",
+        "onboard_time": 1658988089,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344094,
+        "num": 344094,
+        "word": "突然想换手机壳了",
+        "onboard_time": 1658982037,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318038,
+        "num": 318038,
+        "word": "律师称女孩加班猝死应视为工亡",
+        "onboard_time": 1658992351,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294170,
+        "num": 294170,
+        "word": "狗子过上了你的理想生活",
+        "onboard_time": 1658986471,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279361,
+        "num": 279361,
+        "word": "河南舞阳发生交通事故致多人受伤",
+        "onboard_time": 1658984855,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 275207,
+        "num": 275207,
+        "word": "天才基本法好虐",
+        "onboard_time": 1658987432,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246877,
+        "num": 246877,
+        "word": "没想到连朋友都开始催婚了",
+        "onboard_time": 1658993430,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239475,
+        "num": 239475,
+        "word": "林妙妙钱三一给我亲上去",
+        "onboard_time": 1658986471,
+        "rank": 28,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 234292,
+        "num": 234292,
+        "word": "狗狗是婚礼的小花童",
+        "onboard_time": 1658991271,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234366,
+        "num": 234292,
+        "word": "朱一龙说武汉有电影般梦幻的生活",
+        "onboard_time": 1658993069,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234282,
+        "num": 234282,
+        "word": "二舅",
+        "onboard_time": 1658967090,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228325,
+        "num": 228325,
+        "word": "北京公积金缴存上限大幅上调",
+        "onboard_time": 1658982037,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 222872,
+        "num": 222872,
+        "word": "河南舞阳交通事故肇事者已被控制",
+        "onboard_time": 1658990128,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222379,
+        "num": 222379,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1658978131,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218657,
+        "num": 218657,
+        "word": "30岁人大硕士回应为学医重新高考",
+        "onboard_time": 1658985753,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211210,
+        "num": 211210,
+        "word": "读懂二舅就读懂了中国农民",
+        "onboard_time": 1658989289,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206952,
+        "num": 206952,
+        "word": "摩尔庄园",
+        "onboard_time": 1658993132,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201936,
+        "num": 201936,
+        "word": "让假期调休更得民心",
+        "onboard_time": 1658979751,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199398,
+        "num": 199398,
+        "word": "苏菲回应卫生巾被指有虫子尸体",
+        "onboard_time": 1658990790,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194380,
+        "num": 194380,
+        "word": "调休到底是怎么来的",
+        "onboard_time": 1658990369,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188705,
+        "num": 188705,
+        "word": "UP主称B站外国综艺将面临下架",
+        "onboard_time": 1658974169,
+        "rank": 41,
+        "category": "科技,综艺"
+      },
+      {
+        "raw_hot": 184330,
+        "num": 184330,
+        "word": "没想到猫咪也会社恐",
+        "onboard_time": 1658991930,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "颜人中演唱会",
+        "onboard_time": 1658991813,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169338,
+        "num": 169338,
+        "word": "90后博士后称人类有可能穿越未来",
+        "onboard_time": 1658984255,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 159039,
+        "num": 159039,
+        "word": "陈慧娴签约英皇娱乐",
+        "onboard_time": 1658992773,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144924,
+        "num": 144924,
+        "word": "反诈民警上门宣传被当成骗子扣下",
+        "onboard_time": 1658993192,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142736,
+        "num": 142736,
+        "word": "天津回应出现刺激性气味",
+        "onboard_time": 1658985093,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134016,
+        "num": 134016,
+        "word": "沉香如屑对称美学",
+        "onboard_time": 1658991512,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132356,
+        "num": 132356,
+        "word": "杨超越有点预言家身份在身上",
+        "onboard_time": 1658990610,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京国际电影节#"
+    }
+  }
+}
