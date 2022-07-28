@@ -1,0 +1,410 @@
+{
+  "runTime": 1658973975449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2805481,
+        "num": 2805481,
+        "word": "中秋节国庆节放假通知",
+        "onboard_time": 1658969072,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1521365,
+        "num": 1521365,
+        "word": "二舅",
+        "onboard_time": 1658967090,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55838,
+        "num": 1504729,
+        "word": "问天实验舱超高清发射纪实",
+        "onboard_time": 1658930434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2662993,
+        "num": 1503194,
+        "word": "22岁女孩连续熬夜加班猝死",
+        "onboard_time": 1658934216,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1497472,
+        "num": 1497472,
+        "word": "人民日报谈整治网络水军",
+        "onboard_time": 1658971291,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164154,
+        "num": 1164154,
+        "word": "BLACKPINK公开新歌预告照",
+        "onboard_time": 1658970510,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 850460,
+        "num": 850460,
+        "word": "俄罗斯决定绕过5G直接开发6G网络",
+        "onboard_time": 1658964804,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 759533,
+        "num": 759533,
+        "word": "广西一大白飞踹核酸检测男子",
+        "onboard_time": 1658969673,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670430,
+        "num": 670430,
+        "word": "熬夜将影响身体的六大功能",
+        "onboard_time": 1658970931,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570312,
+        "num": 570312,
+        "word": "她为了一句约定等了丈夫76年",
+        "onboard_time": 1658969673,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3055051,
+        "num": 569040,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837192,
+        "num": 565591,
+        "word": "fromis9将以8人活动",
+        "onboard_time": 1658973270,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786305,
+        "num": 562956,
+        "word": "男子工资5千养4个孩子压力大轻生",
+        "onboard_time": 1658933557,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553805,
+        "num": 553805,
+        "word": "张圭悧退队",
+        "onboard_time": 1658973869,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541397,
+        "num": 541397,
+        "word": "年轻人发病率最高的肝病是脂肪肝",
+        "onboard_time": 1658966067,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508837,
+        "num": 508837,
+        "word": "前CBA记者公然侮辱中国男篮",
+        "onboard_time": 1658967632,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491561,
+        "num": 491561,
+        "word": "男子婚后14年发现俩孩子非亲生",
+        "onboard_time": 1658964201,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489964,
+        "num": 489964,
+        "word": "董宇辉劝年轻人不要沉醉于虚拟世界",
+        "onboard_time": 1658964621,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 456378,
+        "num": 456378,
+        "word": "街道被淹女子在细窄护栏稳走几十米",
+        "onboard_time": 1658968834,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434516,
+        "num": 434516,
+        "word": "Viper韩服第一",
+        "onboard_time": 1658969371,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423544,
+        "num": 423544,
+        "word": "河南新增本土确诊7例无症状5例",
+        "onboard_time": 1658972009,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419670,
+        "num": 419670,
+        "word": "程少商点燃了爱情的火苗",
+        "onboard_time": 1658969609,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356717,
+        "num": 356717,
+        "word": "周深承包了整部戏的电话配音",
+        "onboard_time": 1658965825,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360998,
+        "num": 350324,
+        "word": "王姈妈妈",
+        "onboard_time": 1658935176,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334092,
+        "num": 334092,
+        "word": "迪丽热巴刘宇宁侧颜路透",
+        "onboard_time": 1658958312,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329830,
+        "num": 329830,
+        "word": "猴痘已蔓延全球75个国家和地区",
+        "onboard_time": 1658968291,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316658,
+        "num": 316658,
+        "word": "黄晓明说自己是中餐厅的大朋友",
+        "onboard_time": 1658968652,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310089,
+        "num": 310089,
+        "word": "甘肃新增本土无症状207例",
+        "onboard_time": 1658972610,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304360,
+        "num": 304360,
+        "word": "上海新增3例本土确诊11例本土无症状",
+        "onboard_time": 1658971651,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300264,
+        "num": 300264,
+        "word": "四川新增9例本土无症状",
+        "onboard_time": 1658971651,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410334,
+        "num": 298824,
+        "word": "北京一拉布拉多犬超高被没收",
+        "onboard_time": 1658942958,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297123,
+        "num": 297123,
+        "word": "部分iPhone14镜头出现问题",
+        "onboard_time": 1658957470,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275215,
+        "num": 275215,
+        "word": "钱三一是不是疯了",
+        "onboard_time": 1658928815,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265355,
+        "num": 265355,
+        "word": "四川枪击案搜捕民兵发声",
+        "onboard_time": 1658941283,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238781,
+        "num": 238781,
+        "word": "房东私自将欠租租户物品扔掉",
+        "onboard_time": 1658942537,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231091,
+        "num": 231091,
+        "word": "凌不疑叫程少商嫋嫋",
+        "onboard_time": 1658930497,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 803100,
+        "num": 228813,
+        "word": "周劼如何入职江西国控",
+        "onboard_time": 1658932776,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212306,
+        "num": 212306,
+        "word": "周杰伦鸭舌帽",
+        "onboard_time": 1658970991,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211092,
+        "num": 211092,
+        "word": "姐妹俩疑为分割父亲遗产挥锤砸门",
+        "onboard_time": 1658932234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205300,
+        "num": 205300,
+        "word": "日本山口市发生人猴大战",
+        "onboard_time": 1658929471,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195244,
+        "num": 195244,
+        "word": "作者不想通过二舅升华苦难",
+        "onboard_time": 1658965225,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189243,
+        "num": 189243,
+        "word": "军人和小学生互相用拼音传纸条",
+        "onboard_time": 1658973209,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185750,
+        "num": 185750,
+        "word": "南京玄奘寺事件令佛门蒙羞",
+        "onboard_time": 1658932898,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184694,
+        "num": 184694,
+        "word": "林允儿俞利孝渊预告照",
+        "onboard_time": 1658968048,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176491,
+        "num": 176491,
+        "word": "菏泽新增本土无症状49例",
+        "onboard_time": 1658971770,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175964,
+        "num": 175964,
+        "word": "查出脂肪肝怎么办",
+        "onboard_time": 1658970450,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171931,
+        "num": 171931,
+        "word": "俞灏明姚政加盟快乐再出发",
+        "onboard_time": 1658948472,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166230,
+        "num": 166230,
+        "word": "第13届金扫帚奖公布",
+        "onboard_time": 1658931696,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158793,
+        "num": 158793,
+        "word": "被惩罚还不忘偷吃的小狗",
+        "onboard_time": 1658973869,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156120,
+        "num": 156120,
+        "word": "7月27日新增确诊119例",
+        "onboard_time": 1658972430,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这场讲话谋划复兴伟业擘画强国蓝图#"
+    }
+  }
+}
