@@ -1,0 +1,410 @@
+{
+  "runTime": 1658996929544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3300234,
+        "num": 3300234,
+        "word": "张杰谢娜与房产经纪名誉权纠纷案将开庭",
+        "onboard_time": 1658991029,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1524802,
+        "num": 1524802,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34441,
+        "num": 1480468,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1463393,
+        "num": 1463393,
+        "word": "程少商也太像懒羊羊了吧",
+        "onboard_time": 1658994510,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1360386,
+        "num": 1360386,
+        "word": "男子节食1个月瘦10公斤得脂肪肝",
+        "onboard_time": 1658991572,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143936,
+        "num": 1143936,
+        "word": "杨幂摸许凯脸",
+        "onboard_time": 1658994272,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1126713,
+        "num": 1126713,
+        "word": "钟薛高申请注册钟薛低商标",
+        "onboard_time": 1658991090,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816507,
+        "num": 816507,
+        "word": "雪碧将放弃绿瓶",
+        "onboard_time": 1658982397,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630485,
+        "num": 630485,
+        "word": "朝鲜已准备好应对与美国的军事冲突",
+        "onboard_time": 1658989409,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 626006,
+        "num": 626006,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924853,
+        "num": 621008,
+        "word": "Angelababy直播",
+        "onboard_time": 1658995772,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696126,
+        "num": 611915,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587149,
+        "num": 587149,
+        "word": "刘昊然客串县委大院",
+        "onboard_time": 1658995108,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563938,
+        "num": 563938,
+        "word": "律师称女孩加班猝死应视为工亡",
+        "onboard_time": 1658992351,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557201,
+        "num": 557201,
+        "word": "沉香如屑一吻断情",
+        "onboard_time": 1658994089,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544307,
+        "num": 544307,
+        "word": "河南漯河交通事故已致1死28伤",
+        "onboard_time": 1658984855,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 440563,
+        "num": 440563,
+        "word": "周公子",
+        "onboard_time": 1658986530,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434503,
+        "num": 434503,
+        "word": "94年女生开货车拉砖一天搬8000块",
+        "onboard_time": 1658988030,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422370,
+        "num": 422370,
+        "word": "这是一场蓄谋已久的求婚",
+        "onboard_time": 1658993911,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419246,
+        "num": 419246,
+        "word": "官方回应22岁女孩加班猝死",
+        "onboard_time": 1658995411,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426090,
+        "num": 416134,
+        "word": "范丞丞蓝盈莹新剧姐弟恋",
+        "onboard_time": 1658989049,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399885,
+        "num": 399885,
+        "word": "独行月球票房破亿",
+        "onboard_time": 1658987491,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373597,
+        "num": 373597,
+        "word": "没想到连朋友都开始催婚了",
+        "onboard_time": 1658993430,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347811,
+        "num": 347811,
+        "word": "TFBOYS待播作品",
+        "onboard_time": 1658979871,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326078,
+        "num": 326078,
+        "word": "90后相识7天领证3月后闪离",
+        "onboard_time": 1658979330,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 309607,
+        "num": 309607,
+        "word": "摩尔庄园",
+        "onboard_time": 1658993132,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308807,
+        "num": 308807,
+        "word": "女子称网购退货被商家寄冥币",
+        "onboard_time": 1658988691,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286050,
+        "num": 286050,
+        "word": "突然想换手机壳了",
+        "onboard_time": 1658982037,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281013,
+        "num": 281013,
+        "word": "反诈民警上门宣传被当成骗子扣下",
+        "onboard_time": 1658993192,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235184,
+        "num": 235184,
+        "word": "河南舞阳车祸肇事者已被控制",
+        "onboard_time": 1658990128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317962,
+        "num": 233455,
+        "word": "王姈妈妈居然是马雅舒",
+        "onboard_time": 1658977891,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271759,
+        "num": 233300,
+        "word": "Apo确诊新冠",
+        "onboard_time": 1658989950,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265202,
+        "num": 233209,
+        "word": "李晨沙溢还原闺蜜旅行照三连拍",
+        "onboard_time": 1658996189,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228274,
+        "num": 228274,
+        "word": "女生因吃不到火锅和男友闹分手",
+        "onboard_time": 1658996431,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220299,
+        "num": 220299,
+        "word": "国庆休7上7是一种什么体验",
+        "onboard_time": 1658984015,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210084,
+        "num": 210084,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1658978131,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209460,
+        "num": 209460,
+        "word": "天才基本法好虐",
+        "onboard_time": 1658987432,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194758,
+        "num": 194758,
+        "word": "北京公积金缴存上限大幅上调",
+        "onboard_time": 1658982037,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181001,
+        "num": 181001,
+        "word": "狗狗是婚礼的小花童",
+        "onboard_time": 1658991271,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 174500,
+        "num": 174500,
+        "word": "功夫熊猫的原型找到了",
+        "onboard_time": 1658993911,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170361,
+        "num": 170361,
+        "word": "让假期调休更得民心",
+        "onboard_time": 1658979751,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169905,
+        "num": 169905,
+        "word": "林妙妙钱三一给我亲上去",
+        "onboard_time": 1658986471,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 167060,
+        "num": 167060,
+        "word": "狗子过上了你的理想生活",
+        "onboard_time": 1658986471,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "西湖的划船师傅居然有编制",
+        "onboard_time": 1658996791,
+        "rank": 43,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 160065,
+        "num": 160065,
+        "word": "成都82岁老婆婆连续三年当防疫志愿者",
+        "onboard_time": 1658994931,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158739,
+        "num": 158739,
+        "word": "读懂二舅就读懂了中国农民",
+        "onboard_time": 1658989289,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 153597,
+        "num": 153597,
+        "word": "小老虎怼脸拍有多萌",
+        "onboard_time": 1658996732,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152913,
+        "num": 152913,
+        "word": "二舅",
+        "onboard_time": 1658967090,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152484,
+        "num": 152484,
+        "word": "阿Sa平平无奇鼻艺人",
+        "onboard_time": 1658988390,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143818,
+        "num": 143818,
+        "word": "民警遭嫌犯驾车冲撞因公殉职",
+        "onboard_time": 1658988089,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
