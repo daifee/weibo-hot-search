@@ -1,0 +1,410 @@
+{
+  "runTime": 1659000101361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2472407,
+        "num": 2472407,
+        "word": "张杰谢娜与房产经纪名誉权纠纷案将开庭",
+        "onboard_time": 1658991029,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2126213,
+        "num": 2126213,
+        "word": "工信部部长肖亚庆被查",
+        "onboard_time": 1658998652,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33098,
+        "num": 1848530,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2427180,
+        "num": 1828940,
+        "word": "赵英俊",
+        "onboard_time": 1658997088,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1781691,
+        "num": 1781691,
+        "word": "女生因吃不到火锅和男友闹分手",
+        "onboard_time": 1658996431,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677457,
+        "num": 1677457,
+        "word": "民警张吉星被查",
+        "onboard_time": 1658998052,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287720,
+        "num": 1287720,
+        "word": "程少商也太像懒羊羊了吧",
+        "onboard_time": 1658994510,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 942944,
+        "num": 942944,
+        "word": "官方回应22岁女孩加班猝死",
+        "onboard_time": 1658995411,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910030,
+        "num": 910030,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653586,
+        "num": 653586,
+        "word": "男子节食1个月瘦10公斤得脂肪肝",
+        "onboard_time": 1658991572,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205461,
+        "num": 650187,
+        "word": "林志颖顺利完成手部开刀",
+        "onboard_time": 1658998652,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833320,
+        "num": 611583,
+        "word": "杨紫被喊话多吃莲子补心",
+        "onboard_time": 1658998173,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700190,
+        "num": 603675,
+        "word": "杨幂摸许凯脸",
+        "onboard_time": 1658994272,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560484,
+        "num": 560484,
+        "word": "雪碧将放弃绿瓶",
+        "onboard_time": 1658982397,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548025,
+        "num": 548025,
+        "word": "钟薛高申请注册钟薛低商标",
+        "onboard_time": 1658991090,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513317,
+        "num": 513317,
+        "word": "河南漯河交通事故已致1死28伤",
+        "onboard_time": 1658984855,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 494976,
+        "num": 494976,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427207,
+        "num": 427207,
+        "word": "西湖的划船师傅居然有编制",
+        "onboard_time": 1658996791,
+        "rank": 17,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 344159,
+        "num": 344159,
+        "word": "周公子",
+        "onboard_time": 1658986530,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341650,
+        "num": 341650,
+        "word": "这是一场蓄谋已久的求婚",
+        "onboard_time": 1658993911,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 675319,
+        "num": 341153,
+        "word": "网传鹿晗录制毛雪汪",
+        "onboard_time": 1658997690,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478901,
+        "num": 341112,
+        "word": "Angelababy直播",
+        "onboard_time": 1658995772,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475499,
+        "num": 340454,
+        "word": "胡歌县委大院杀青路透视频",
+        "onboard_time": 1658998412,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338393,
+        "num": 338393,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335116,
+        "num": 335116,
+        "word": "朝鲜已准备好应对与美国的军事冲突",
+        "onboard_time": 1658989409,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 441425,
+        "num": 334065,
+        "word": "吴磊赵露思一起看烟花视频",
+        "onboard_time": 1658999554,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316651,
+        "num": 316651,
+        "word": "房地产专家呼吁给年轻人降首付",
+        "onboard_time": 1658998835,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 268727,
+        "num": 268727,
+        "word": "律师称女孩加班猝死应视为工亡",
+        "onboard_time": 1658992351,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265484,
+        "num": 265484,
+        "word": "女孩加班猝死涉事公司成立仅1年",
+        "onboard_time": 1658997754,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259676,
+        "num": 259676,
+        "word": "传恒大拟出售香港总部大楼",
+        "onboard_time": 1658999491,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 379391,
+        "num": 259579,
+        "word": "沉香如屑一吻断情",
+        "onboard_time": 1658994089,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290899,
+        "num": 257895,
+        "word": "独行月球票房破亿",
+        "onboard_time": 1658987491,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276183,
+        "num": 257576,
+        "word": "刘昊然客串县委大院",
+        "onboard_time": 1658995108,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256163,
+        "num": 256163,
+        "word": "成都82岁老婆婆连续三年当防疫志愿者",
+        "onboard_time": 1658994931,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245642,
+        "num": 245642,
+        "word": "94年女生开货车拉砖一天搬8000块",
+        "onboard_time": 1658988030,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229523,
+        "num": 229523,
+        "word": "杜富国负伤的雷场已长满庄稼",
+        "onboard_time": 1658997632,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226492,
+        "num": 226492,
+        "word": "突然想换手机壳了",
+        "onboard_time": 1658982037,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202347,
+        "num": 202347,
+        "word": "摩尔庄园",
+        "onboard_time": 1658993132,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197561,
+        "num": 197561,
+        "word": "女子称网购退货被商家寄冥币",
+        "onboard_time": 1658988691,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194591,
+        "num": 194591,
+        "word": "反诈民警上门宣传被当成骗子扣下",
+        "onboard_time": 1658993192,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233994,
+        "num": 189908,
+        "word": "范丞丞蓝盈莹新剧姐弟恋",
+        "onboard_time": 1658989049,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202029,
+        "num": 188004,
+        "word": "李晨沙溢还原闺蜜旅行照三连拍",
+        "onboard_time": 1658996189,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 181662,
+        "word": "没想到连朋友都开始催婚了",
+        "onboard_time": 1658993430,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169202,
+        "num": 169202,
+        "word": "国庆休7上7是一种什么体验",
+        "onboard_time": 1658984015,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160187,
+        "num": 160187,
+        "word": "功夫熊猫的原型找到了",
+        "onboard_time": 1658993911,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159807,
+        "num": 159807,
+        "word": "沈阳小伙探店百家助数万人发展副业",
+        "onboard_time": 1658999792,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148164,
+        "num": 148164,
+        "word": "90后相识7天领证3月后闪离",
+        "onboard_time": 1658979330,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137486,
+        "num": 137486,
+        "word": "陆军直升机有多酷",
+        "onboard_time": 1658998595,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137397,
+        "num": 137397,
+        "word": "北京公积金缴存上限大幅上调",
+        "onboard_time": 1658982037,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 133918,
+        "num": 133918,
+        "word": "河南舞阳车祸肇事者已被控制",
+        "onboard_time": 1658990128,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切成就都是党和人民一道奋斗出来的#"
+    }
+  }
+}
