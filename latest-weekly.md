@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/07/25 00:13:08 ~ 2022/07/29 02:46:25
+本榜单时间：2022/07/25 00:13:08 ~ 2022/07/29 03:33:32
 </p>
 </blockquote>
 <p>
@@ -7029,6 +7029,12 @@ INTO1新歌天上不会掉馅饼试听（热度：154595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%99%E8%83%8C%E6%99%AF%E5%A4%AA%E5%81%87%E4%BA%86%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%23" target="weibo">
+你这背景太假了小伙回应（热度：110652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E4%BB%87%E5%B0%8F%E7%8B%97%E4%B8%BA%E6%8A%A5%E5%A4%8D%E9%93%B2%E5%B1%8E%E5%AE%98%E5%B0%BF%E4%B8%80%E6%8B%96%E9%9E%8B%23" target="weibo">
 记仇小狗为报复铲屎官尿一拖鞋（热度：106246）
 </a>
@@ -7245,12 +7251,6 @@ Tian说希望继续赢下去（热度：48913）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%99%E8%83%8C%E6%99%AF%E5%A4%AA%E5%81%87%E4%BA%86%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%23" target="weibo">
-你这背景太假了小伙回应（热度：36641）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E8%8D%B7%E5%8F%B6%E5%88%B6%E4%BD%9C%E6%88%90%E5%A4%A9%E7%84%B6%E8%8A%B1%E6%B4%92%23" target="weibo">
 男子用荷叶制作成天然花洒（热度：35938）
 </a>
@@ -7305,6 +7305,12 @@ Tian说希望继续赢下去（热度：48913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%E4%BD%8F%E5%9C%A8%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E5%BC%B9%E5%B9%95%E9%87%8C%E4%BA%86%23" target="weibo">
+谭维维住在星汉灿烂弹幕里了（热度：22546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E6%95%99%E8%B7%B3%E5%BF%AB%E4%B9%90%E5%86%8D%E5%87%BA%E5%8F%91%E7%89%88%E7%88%B1%E4%BD%A0%23" target="weibo">
 张远教跳快乐再出发版爱你（热度：21766）
 </a>
@@ -7325,6 +7331,12 @@ Tian说希望继续赢下去（热度：48913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%BC%BA%20%E6%9C%AA%E6%9D%A5%E6%88%91%E6%9D%A5%23" target="weibo">
 中国要强 未来我来（热度：17320）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%BF%9D%E8%A7%84%E8%87%AA%E9%A9%BE%E5%BC%80%E8%BD%A6%E8%BF%9B%E8%A5%BF%E8%97%8F%E5%9C%A3%E6%B9%96%23" target="weibo">
+游客违规自驾开车进西藏圣湖（热度：16876）
 </a>
 </li>
 
