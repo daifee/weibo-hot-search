@@ -1,0 +1,410 @@
+{
+  "runTime": 1659044189829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 187144,
+        "num": 187144,
+        "word": "台湾是中国的台湾",
+        "onboard_time": 1659017443,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 212281,
+        "num": 147623,
+        "word": "两高中生奸杀教师案第三人将受审",
+        "onboard_time": 1659010298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1883,
+        "num": 112421,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103751,
+        "num": 103751,
+        "word": "称生女儿晦气男子致歉被指没诚意",
+        "onboard_time": 1659037753,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101396,
+        "num": 101396,
+        "word": "我爱你所以你不用是招娣",
+        "onboard_time": 1659025887,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69164,
+        "num": 69164,
+        "word": "男子为取悦女主播及还债杀子骗保",
+        "onboard_time": 1659005795,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 67531,
+        "num": 67531,
+        "word": "你这背景太假了小伙回应",
+        "onboard_time": 1659033374,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66797,
+        "num": 66797,
+        "word": "成华区疫情防控",
+        "onboard_time": 1659021641,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53320,
+        "num": 53320,
+        "word": "王一博丁泽仁跳舞视频",
+        "onboard_time": 1659002495,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51204,
+        "num": 51204,
+        "word": "487道歉",
+        "onboard_time": 1659007959,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205921,
+        "num": 50692,
+        "word": "辣目洋子道歉",
+        "onboard_time": 1659021166,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63974,
+        "num": 50583,
+        "word": "江苏一酒吧禁超130斤女生进",
+        "onboard_time": 1659002254,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53551,
+        "num": 50459,
+        "word": "国防部评北约战略文件",
+        "onboard_time": 1659039251,
+        "rank": 12,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 50158,
+        "num": 50158,
+        "word": "程少商终于知道了被偏爱的滋味",
+        "onboard_time": 1659019484,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46979,
+        "num": 46979,
+        "word": "游客违规自驾开车进西藏圣湖",
+        "onboard_time": 1659036492,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45597,
+        "num": 45597,
+        "word": "月升沧海",
+        "onboard_time": 1659014861,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45378,
+        "num": 45378,
+        "word": "台海巡队强行查扣大陆渔船",
+        "onboard_time": 1659021518,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 42235,
+        "num": 42235,
+        "word": "孕妇为什么一定要做唐筛",
+        "onboard_time": 1659010119,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40639,
+        "num": 40639,
+        "word": "35人因疫情在朋友家吃住4天3晚",
+        "onboard_time": 1659010658,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40369,
+        "num": 40369,
+        "word": "亲生父母6年卖4孩获利9.1万",
+        "onboard_time": 1659016780,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61657,
+        "num": 40093,
+        "word": "22岁加班猝死女孩父亲痛哭",
+        "onboard_time": 1659015882,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47670,
+        "num": 39358,
+        "word": "女子因升职压力大出现濒死感",
+        "onboard_time": 1659015163,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34608,
+        "num": 34608,
+        "word": "杭州热到逼近历史最高温",
+        "onboard_time": 1659025291,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33751,
+        "num": 33751,
+        "word": "越妃 互联网嘴替",
+        "onboard_time": 1659030018,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33613,
+        "num": 33613,
+        "word": "今年第5号台风桑达",
+        "onboard_time": 1659020380,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32014,
+        "num": 32014,
+        "word": "成都成华区核酸",
+        "onboard_time": 1659021764,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30366,
+        "num": 30366,
+        "word": "河北保定一中学强制女生留超短发",
+        "onboard_time": 1659002371,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30138,
+        "num": 30138,
+        "word": "女子怀孕5个月被公司要求主动离职",
+        "onboard_time": 1659008858,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24819,
+        "num": 24819,
+        "word": "民警带嫌疑人孕检偶遇孕妻",
+        "onboard_time": 1659005017,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24379,
+        "num": 24379,
+        "word": "上海多个小区禁止外卖快递送入",
+        "onboard_time": 1659010179,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29028,
+        "num": 23694,
+        "word": "每日优鲜回应公司解散",
+        "onboard_time": 1659006394,
+        "rank": 30,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 22808,
+        "num": 22808,
+        "word": "支付宝可一键取消自动扣款",
+        "onboard_time": 1659006032,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 22506,
+        "num": 22506,
+        "word": "后背真的很难再酸痛了",
+        "onboard_time": 1659024813,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22490,
+        "num": 22490,
+        "word": "良心爷爷卖2元饮品可免费续杯",
+        "onboard_time": 1659006937,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 22444,
+        "num": 22444,
+        "word": "美国GDP",
+        "onboard_time": 1659013901,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 22290,
+        "word": "每日优鲜",
+        "onboard_time": 1659005254,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20734,
+        "num": 20734,
+        "word": "孙亦航收到十八楼红绳的表情",
+        "onboard_time": 1659019365,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19091,
+        "num": 19091,
+        "word": "程少商落水",
+        "onboard_time": 1659024512,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18240,
+        "num": 18240,
+        "word": "范丞丞好会亲",
+        "onboard_time": 1659000393,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17238,
+        "num": 17238,
+        "word": "六旬老太一天吃八顿直喊饿",
+        "onboard_time": 1659006334,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16307,
+        "num": 16307,
+        "word": "宋祖儿被怼到认错",
+        "onboard_time": 1659040631,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15874,
+        "num": 15874,
+        "word": "天才基本法 剧情",
+        "onboard_time": 1659017203,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15567,
+        "num": 15567,
+        "word": "小猫咪干坏事有多明显",
+        "onboard_time": 1659013719,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15341,
+        "num": 15341,
+        "word": "夏天必须要干什么事",
+        "onboard_time": 1659043571,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15282,
+        "num": 15282,
+        "word": "独行月球",
+        "onboard_time": 1659000513,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13997,
+        "num": 13997,
+        "word": "月升沧海 剧情",
+        "onboard_time": 1659012398,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13159,
+        "num": 13159,
+        "word": "栓Q创始人参加相亲节目",
+        "onboard_time": 1659012520,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13177,
+        "num": 13158,
+        "word": "月升沧海越妃好能怼",
+        "onboard_time": 1659016780,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13094,
+        "num": 13094,
+        "word": "谭维维住在星汉灿烂弹幕里了",
+        "onboard_time": 1659036492,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12870,
+        "num": 12870,
+        "word": "JackeyLove说今年是很关键的一年",
+        "onboard_time": 1659025590,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切成就都是党和人民一道奋斗出来的#"
+    }
+  }
+}

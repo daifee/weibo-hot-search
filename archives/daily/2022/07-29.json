@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659040739450,
+  "endTime": 1659044189829,
   "band_list": [
     {
       "raw_hot": 2946004,
@@ -435,8 +435,16 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 53551,
+      "num": 50459,
+      "word": "国防部评北约战略文件",
+      "onboard_time": 1659039251,
+      "rank": 46,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 51759,
-      "num": 45790,
+      "num": 46979,
       "word": "游客违规自驾开车进西藏圣湖",
       "onboard_time": 1659036492,
       "rank": 48,
@@ -451,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 30773,
-      "num": 30773,
-      "word": "国防部评北约战略文件",
-      "onboard_time": 1659039251,
-      "rank": 46,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 24634,
       "num": 24634,
       "word": "谭维维住在星汉灿烂弹幕里了",
@@ -467,20 +467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 16307,
+      "num": 16307,
+      "word": "宋祖儿被怼到认错",
+      "onboard_time": 1659040631,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15341,
+      "num": 15341,
+      "word": "夏天必须要干什么事",
+      "onboard_time": 1659043571,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13190,
       "num": 1394875,
       "word": "杜富国钱七虎聂海胜荣获八一勋章",
       "onboard_time": 1658962156,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 10754,
-      "num": 10754,
-      "word": "宋祖儿被怼到认错",
-      "onboard_time": 1659040631,
-      "rank": 49,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
