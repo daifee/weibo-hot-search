@@ -1,0 +1,410 @@
+{
+  "runTime": 1658986960532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3260799,
+        "num": 3260799,
+        "word": "雪碧将放弃绿瓶",
+        "onboard_time": 1658982397,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2133771,
+        "num": 2133771,
+        "word": "苏菲卫生巾被曝有虫子尸体",
+        "onboard_time": 1658975129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9518,
+        "num": 2093344,
+        "word": "问天实验舱超高清发射纪实",
+        "onboard_time": 1658930434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2086001,
+        "num": 2086001,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1658976690,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364899,
+        "num": 1364899,
+        "word": "许凯在密逃把这辈子的歉都道完了",
+        "onboard_time": 1658985930,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216598,
+        "num": 1216598,
+        "word": "二舅",
+        "onboard_time": 1658967090,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066927,
+        "num": 1066927,
+        "word": "北京公积金缴存上限大幅上调",
+        "onboard_time": 1658982037,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 934411,
+        "num": 934411,
+        "word": "彭昱畅是黄明昊的人形挂件",
+        "onboard_time": 1658985280,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 924411,
+        "num": 924411,
+        "word": "女孩加班猝死劳动监察介入调查",
+        "onboard_time": 1658984375,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890393,
+        "num": 890393,
+        "word": "90后相识7天领证3月后闪离",
+        "onboard_time": 1658979330,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1160240,
+        "num": 853537,
+        "word": "为躲捉奸男子藏6楼窗外坠亡",
+        "onboard_time": 1658970450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753984,
+        "num": 753984,
+        "word": "杨幂不慌",
+        "onboard_time": 1658984855,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752202,
+        "num": 752202,
+        "word": "TFBOYS待播作品",
+        "onboard_time": 1658979871,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 747798,
+        "num": 747798,
+        "word": "王姈妈妈居然是马雅舒",
+        "onboard_time": 1658977891,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 676078,
+        "num": 676078,
+        "word": "国庆休7上7是一种什么体验",
+        "onboard_time": 1658984015,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653251,
+        "num": 653251,
+        "word": "突然想换手机壳了",
+        "onboard_time": 1658982037,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558144,
+        "num": 558144,
+        "word": "河南舞阳发生交通事故致多人受伤",
+        "onboard_time": 1658984855,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 550879,
+        "num": 550879,
+        "word": "22岁女孩连续熬夜加班猝死",
+        "onboard_time": 1658934216,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 545211,
+        "num": 545211,
+        "word": "三石弟弟真的顶着三石啊",
+        "onboard_time": 1658978609,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463182,
+        "num": 463182,
+        "word": "让假期调休更得民心",
+        "onboard_time": 1658979751,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518800,
+        "num": 463056,
+        "word": "UP主称B站外国综艺将面临下架",
+        "onboard_time": 1658974169,
+        "rank": 20,
+        "category": "科技,综艺"
+      },
+      {
+        "raw_hot": 437913,
+        "num": 437913,
+        "word": "90后博士后称人类有可能穿越未来",
+        "onboard_time": 1658984255,
+        "rank": 21,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 432881,
+        "num": 432881,
+        "word": "沉香如屑打开农产品销售新思路",
+        "onboard_time": 1658982755,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383355,
+        "num": 383355,
+        "word": "林妙妙钱三一给我亲上去",
+        "onboard_time": 1658986471,
+        "rank": 23,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 369521,
+        "num": 369521,
+        "word": "周公子",
+        "onboard_time": 1658986530,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368161,
+        "num": 368161,
+        "word": "女生考入清华美院校长送化妆包",
+        "onboard_time": 1658974409,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 356428,
+        "num": 356428,
+        "word": "30岁人大硕士回应为学医重新高考",
+        "onboard_time": 1658985753,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 344159,
+        "num": 344159,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1658978131,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342221,
+        "num": 342221,
+        "word": "天津回应出现刺激性气味",
+        "onboard_time": 1658985093,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327210,
+        "num": 327210,
+        "word": "异地恋分手应该再见一面吗",
+        "onboard_time": 1658978910,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357154,
+        "num": 326784,
+        "word": "杨超越再跳创造101主题曲",
+        "onboard_time": 1658984613,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349182,
+        "num": 326158,
+        "word": "密室大逃脱",
+        "onboard_time": 1658986052,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334237,
+        "num": 325743,
+        "word": "成毅说除了应渊最想演帝尊",
+        "onboard_time": 1658981255,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333425,
+        "num": 324724,
+        "word": "尔冬升眼中的丁程鑫",
+        "onboard_time": 1658986891,
+        "rank": 33,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 324453,
+        "num": 324453,
+        "word": "余生请多指教卫视收视最高峰值",
+        "onboard_time": 1658978670,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292512,
+        "num": 292512,
+        "word": "杨紫现场给大家表演一个爬墙",
+        "onboard_time": 1658982877,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277040,
+        "num": 277040,
+        "word": "天津滨海新区有不明刺激气体传出",
+        "onboard_time": 1658983234,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274818,
+        "num": 274818,
+        "word": "C罗希望曼联放弃他的合同",
+        "onboard_time": 1658982156,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274612,
+        "num": 274612,
+        "word": "终于知道拍照应该看哪里了",
+        "onboard_time": 1658983717,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1568477,
+        "num": 272330,
+        "word": "土土",
+        "onboard_time": 1658974290,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 269867,
+        "num": 269867,
+        "word": "人心理素质差的表现",
+        "onboard_time": 1658979270,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 249465,
+        "num": 249465,
+        "word": "见过性格最好的猫咪",
+        "onboard_time": 1658984554,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 231973,
+        "num": 231973,
+        "word": "天津滨海新区空气",
+        "onboard_time": 1658979391,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229652,
+        "num": 229652,
+        "word": "有个很会怼人的妈妈是什么体验",
+        "onboard_time": 1658982334,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26528,
+        "num": 222923,
+        "word": "苏菲公司多次因特种设备问题整改",
+        "onboard_time": 1658986770,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217757,
+        "num": 217757,
+        "word": "消防员路边抓了只爱撒娇的狐狸",
+        "onboard_time": 1658980531,
+        "rank": 45,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 212463,
+        "num": 212463,
+        "word": "狗子过上了你的理想生活",
+        "onboard_time": 1658986471,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199264,
+        "num": 199264,
+        "word": "男子工资5千养4个孩子压力大轻生",
+        "onboard_time": 1658933557,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192856,
+        "num": 192856,
+        "word": "北塘",
+        "onboard_time": 1658984613,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163652,
+        "num": 163652,
+        "word": "商家上线榴莲险开不出四房退全款",
+        "onboard_time": 1658979569,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切成就都是党和人民一道奋斗出来的#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1658939598085,
-  "endTime": 1658984581563,
+  "endTime": 1658986960532,
   "band_list": [
     {
       "raw_hot": 3564251,
@@ -8,6 +8,14 @@
       "word": "苏菲卫生巾被曝有虫子尸体",
       "onboard_time": 1658975129,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3295036,
+      "num": 3295036,
+      "word": "雪碧将放弃绿瓶",
+      "onboard_time": 1658982397,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "为躲捉奸男子藏6楼窗外坠亡",
       "onboard_time": 1658970450,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2949430,
-      "num": 2949430,
-      "word": "雪碧将放弃绿瓶",
-      "onboard_time": 1658982397,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1364899,
+      "num": 1364899,
+      "word": "许凯在密逃把这辈子的歉都道完了",
+      "onboard_time": 1658985930,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1355398,
       "num": 1355398,
       "word": "四川枪击案搜捕民兵发声",
@@ -195,6 +203,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 934411,
+      "num": 934411,
+      "word": "彭昱畅是黄明昊的人形挂件",
+      "onboard_time": 1658985280,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 924411,
+      "num": 924411,
+      "word": "女孩加班猝死劳动监察介入调查",
+      "onboard_time": 1658984375,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918243,
       "num": 918243,
       "word": "天津滨海新区空气",
@@ -259,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 771883,
+      "num": 753984,
+      "word": "杨幂不慌",
+      "onboard_time": 1658984855,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 759533,
       "num": 759533,
       "word": "广西一大白飞踹核酸检测男子",
@@ -307,8 +339,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 698669,
-      "num": 698669,
+      "raw_hot": 705221,
+      "num": 705221,
       "word": "突然想换手机壳了",
       "onboard_time": 1658982037,
       "rank": 42,
@@ -321,6 +353,14 @@
       "onboard_time": 1658931696,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 676078,
+      "num": 676078,
+      "word": "国庆休7上7是一种什么体验",
+      "onboard_time": 1658984015,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 664790,
@@ -379,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558144,
+      "num": 558144,
+      "word": "河南舞阳发生交通事故致多人受伤",
+      "onboard_time": 1658984855,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 541397,
       "num": 541397,
       "word": "年轻人发病率最高的肝病是脂肪肝",
@@ -427,20 +475,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 481011,
-      "num": 481011,
-      "word": "国庆休7上7是一种什么体验",
-      "onboard_time": 1658984015,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 476255,
       "num": 476255,
       "word": "美国总统拜登新冠检测呈阴性",
       "onboard_time": 1658934216,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 470278,
+      "num": 470278,
+      "word": "90后博士后称人类有可能穿越未来",
+      "onboard_time": 1658984255,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 465245,
@@ -555,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383355,
+      "num": 383355,
+      "word": "林妙妙钱三一给我亲上去",
+      "onboard_time": 1658986471,
+      "rank": 23,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 380576,
       "num": 380576,
       "word": "姐妹俩疑为分割父亲遗产挥锤砸门",
@@ -568,6 +624,14 @@
       "word": "天津滨海新区有不明刺激气体传出",
       "onboard_time": 1658983234,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369521,
+      "num": 369521,
+      "word": "周公子",
+      "onboard_time": 1658986530,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -587,12 +651,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357154,
+      "num": 326784,
+      "word": "杨超越再跳创造101主题曲",
+      "onboard_time": 1658984613,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356717,
       "num": 356717,
       "word": "周深承包了整部戏的电话配音",
       "onboard_time": 1658965825,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356428,
+      "num": 356428,
+      "word": "30岁人大硕士回应为学医重新高考",
+      "onboard_time": 1658985753,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 349182,
+      "num": 326158,
+      "word": "密室大逃脱",
+      "onboard_time": 1658986052,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 344347,
@@ -617,6 +705,22 @@
       "onboard_time": 1658973869,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342221,
+      "num": 342221,
+      "word": "天津回应出现刺激性气味",
+      "onboard_time": 1658985093,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333425,
+      "num": 324724,
+      "word": "尔冬升眼中的丁程鑫",
+      "onboard_time": 1658986891,
+      "rank": 33,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 331099,
@@ -683,6 +787,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299643,
+      "num": 299643,
+      "word": "终于知道拍照应该看哪里了",
+      "onboard_time": 1658983717,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 297505,
+      "num": 297505,
+      "word": "北塘",
+      "onboard_time": 1658984613,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294360,
       "num": 249934,
       "word": "张子枫聊和雷佳音演父女",
@@ -723,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274877,
+      "num": 274877,
+      "word": "见过性格最好的猫咪",
+      "onboard_time": 1658984554,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 270888,
       "num": 270888,
       "word": "古茗回应奶茶被曝喝出壁虎",
@@ -737,14 +865,6 @@
       "onboard_time": 1658974827,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263467,
-      "num": 263467,
-      "word": "终于知道拍照应该看哪里了",
-      "onboard_time": 1658983717,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 261075,
@@ -763,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254542,
-      "num": 254542,
-      "word": "女孩加班猝死劳动监察介入调查",
-      "onboard_time": 1658984375,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247031,
       "num": 247031,
       "word": "吃完饭为什么不能立刻运动",
@@ -785,14 +897,6 @@
       "onboard_time": 1658977352,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 240441,
-      "num": 240441,
-      "word": "90后博士后称人类有可能穿越未来",
-      "onboard_time": 1658984255,
-      "rank": 43,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 239196,
@@ -849,6 +953,14 @@
       "onboard_time": 1658930916,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212463,
+      "num": 212463,
+      "word": "狗子过上了你的理想生活",
+      "onboard_time": 1658986471,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 212306,
@@ -937,14 +1049,6 @@
       "onboard_time": 1658978308,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190656,
-      "num": 190656,
-      "word": "见过性格最好的猫咪",
-      "onboard_time": 1658984554,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 190340,
@@ -1265,6 +1369,14 @@
       "onboard_time": 1658953092,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26528,
+      "num": 222923,
+      "word": "苏菲公司多次因特种设备问题整改",
+      "onboard_time": 1658986770,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23884,
