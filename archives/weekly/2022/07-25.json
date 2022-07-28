@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659008115526,
+  "endTime": 1659013926091,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -41,6 +41,14 @@
       "onboard_time": 1658733931,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5176436,
+      "num": 1712190,
+      "word": "两高中生奸杀教师案第三人将受审",
+      "onboard_time": 1659010298,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4950635,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2388037,
+      "num": 1670877,
+      "word": "487道歉",
+      "onboard_time": 1659007959,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2381123,
       "num": 2381123,
       "word": "林志颖发声明不想浪费社会资源受过多关注",
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 1908376,
-      "num": 1100484,
+      "num": 1472438,
       "word": "男子为取悦女主播及还债杀子骗保",
       "onboard_time": 1659005795,
       "rank": 6,
@@ -929,6 +945,14 @@
       "onboard_time": 1658974169,
       "rank": 4,
       "category": "科技,综艺"
+    },
+    {
+      "raw_hot": 1450054,
+      "num": 1450054,
+      "word": "女子怀孕5个月被公司要求主动离职",
+      "onboard_time": 1659008858,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1439523,
@@ -2251,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 749071,
+      "num": 749071,
+      "word": "35人因疫情在朋友家吃住4天3晚",
+      "onboard_time": 1659010658,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746767,
       "num": 746767,
       "word": "Irene首个单独综艺",
@@ -2707,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618108,
+      "num": 618108,
+      "word": "上海多个小区禁止外卖快递送入",
+      "onboard_time": 1659010179,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616731,
       "num": 616731,
       "word": "阿Sa平平无奇鼻艺人",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1658926833,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 605071,
+      "num": 605071,
+      "word": "良心爷爷卖2元饮品可免费续杯",
+      "onboard_time": 1659006937,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 605020,
@@ -2867,12 +2915,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585100,
+      "num": 585100,
+      "word": "奶奶偷偷在我褪黑素瓶子里塞钱",
+      "onboard_time": 1659008253,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 584380,
       "num": 584380,
       "word": "时代少年团双人绝配手势舞",
       "onboard_time": 1658752235,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 583484,
+      "num": 583484,
+      "word": "栓Q创始人参加相亲节目",
+      "onboard_time": 1659012520,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582085,
@@ -3049,6 +3113,14 @@
       "onboard_time": 1658838873,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 562038,
+      "num": 562038,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 559988,
@@ -3899,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454649,
+      "num": 454649,
+      "word": "月升沧海 剧情",
+      "onboard_time": 1659012398,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454105,
       "num": 454105,
       "word": "你能听出耳机音质好坏吗",
@@ -3971,14 +4051,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 445536,
-      "num": 346768,
-      "word": "独行月球",
-      "onboard_time": 1658921132,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 444483,
       "num": 397939,
       "word": "赵露思问这就是大难凌头各自飞吗",
@@ -4025,6 +4097,14 @@
       "onboard_time": 1658930014,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 442551,
+      "num": 442551,
+      "word": "孕妇为什么一定要做唐筛",
+      "onboard_time": 1659010119,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441091,
@@ -4427,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407755,
+      "num": 407755,
+      "word": "颜淡终于下凡了",
+      "onboard_time": 1659007596,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407108,
       "num": 407108,
       "word": "安徽省考",
@@ -4683,6 +4771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386489,
+      "num": 386489,
+      "word": "二十不惑2",
+      "onboard_time": 1659013302,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386468,
       "num": 386468,
       "word": "华为发布典藏版笔记本",
@@ -4753,6 +4849,14 @@
       "onboard_time": 1658668109,
       "rank": 23,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 380361,
+      "num": 380361,
+      "word": "六旬老太一天吃八顿直喊饿",
+      "onboard_time": 1659006334,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379935,
@@ -5049,14 +5153,6 @@
       "onboard_time": 1658666013,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 352844,
-      "num": 352844,
-      "word": "良心爷爷卖2元饮品可免费续杯",
-      "onboard_time": 1659006937,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 352774,
@@ -5627,12 +5723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315510,
+      "num": 315510,
+      "word": "布达拉宫广场上的水就没有干过",
+      "onboard_time": 1659006215,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 315244,
       "num": 315244,
       "word": "中国空间站升级为六居室",
       "onboard_time": 1658705965,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 315097,
+      "num": 315097,
+      "word": "毒液的原型找到了",
+      "onboard_time": 1659007655,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 314553,
@@ -5947,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297594,
+      "num": 297594,
+      "word": "凌不疑给程少商当扶手",
+      "onboard_time": 1659009277,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297521,
       "num": 208533,
       "word": "IXFORM新EP预告",
@@ -5961,14 +6081,6 @@
       "onboard_time": 1658984613,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296914,
-      "num": 296914,
-      "word": "布达拉宫广场上的水就没有干过",
-      "onboard_time": 1659006215,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 296668,
@@ -6179,6 +6291,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 289166,
+      "num": 231985,
+      "word": "诺兰新片奥本海默首支预告",
+      "onboard_time": 1659013780,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289126,
       "num": 176616,
       "word": "钱三一给林妙妙撒娇",
@@ -6249,6 +6369,14 @@
       "onboard_time": 1658795971,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285128,
+      "num": 285128,
+      "word": "去有风的地方",
+      "onboard_time": 1659010541,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 285115,
@@ -6417,6 +6545,14 @@
       "onboard_time": 1658925511,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277255,
+      "num": 277255,
+      "word": "比脸还大的炸蛋有多好吃",
+      "onboard_time": 1659012940,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 277166,
@@ -6771,14 +6907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261091,
-      "num": 261091,
-      "word": "毒液的原型找到了",
-      "onboard_time": 1659007655,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261075,
       "num": 261075,
       "word": "武汉通报新增2例无症状活动轨迹",
@@ -7027,14 +7155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248282,
-      "num": 243024,
-      "word": "颜淡终于下凡了",
-      "onboard_time": 1659007596,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247949,
       "num": 247949,
       "word": "维特尔宣布退役",
@@ -7273,6 +7393,14 @@
       "onboard_time": 1658914412,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236071,
+      "num": 236071,
+      "word": "傅政华受贿徇私枉法案一审开庭",
+      "onboard_time": 1659012167,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235184,
@@ -7771,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214595,
+      "num": 153068,
+      "word": "美国GDP",
+      "onboard_time": 1659013901,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213617,
       "num": 177248,
       "word": "魏晨吸娃体质",
@@ -8057,6 +8193,14 @@
       "onboard_time": 1658801009,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196512,
+      "num": 196512,
+      "word": "Crisp500场",
+      "onboard_time": 1659012823,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 196316,
@@ -8387,6 +8531,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 175240,
+      "num": 175240,
+      "word": "电竞少年的反差萌",
+      "onboard_time": 1659012342,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174691,
       "num": 174691,
       "word": "全国多地取消夏日祭活动",
@@ -8563,14 +8715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157519,
-      "num": 157519,
-      "word": "487道歉",
-      "onboard_time": 1659007959,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 157196,
       "num": 157196,
       "word": "饭堂",
@@ -8633,6 +8777,14 @@
       "onboard_time": 1658839472,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153324,
+      "num": 153324,
+      "word": "小猫咪干坏事有多明显",
+      "onboard_time": 1659013719,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 152943,
@@ -8713,6 +8865,14 @@
       "onboard_time": 1658878465,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143352,
+      "num": 143352,
+      "word": "BLG对战FPX",
+      "onboard_time": 1659010363,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 143069,
