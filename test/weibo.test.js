@@ -1,7 +1,7 @@
 const { execSync } = require('child_process');
 const weibo = require('../scripts/weibo');
 
-describe.only('generateDailyContent(data)', () => {
+describe.skip('generateDailyContent(data)', () => {
   test('正确用法', () => {
     const data = {
       startTime: 1658247236896,
@@ -42,7 +42,7 @@ describe.only('generateDailyContent(data)', () => {
   });
 });
 
-describe('sendDaily(timestamp)', () => {
+describe.skip('sendDaily(timestamp)', () => {
   test('07/20 ', () => {
     // const timestamp = 1658247236896;
     // const content = weibo.gene;
