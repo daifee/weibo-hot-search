@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659016643261,
+  "endTime": 1659019183556,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -659,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1808090,
+      "num": 1808090,
+      "word": "台湾是中国的台湾",
+      "onboard_time": 1659017443,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1807376,
       "num": 1807376,
       "word": "男子将亡妻照片设成壁纸对手机发呆",
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 1450054,
-      "num": 1450054,
+      "num": 1503228,
       "word": "女子怀孕5个月被公司要求主动离职",
       "onboard_time": 1659008858,
       "rank": 6,
@@ -1531,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1047616,
+      "num": 1047616,
+      "word": "女子因升职压力大出现濒死感",
+      "onboard_time": 1659015163,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047355,
       "num": 1047355,
       "word": "苏州将现12级以上雷暴大风",
@@ -1643,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985870,
+      "num": 985870,
+      "word": "月升沧海 剧情",
+      "onboard_time": 1659012398,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 985505,
       "num": 985505,
       "word": "男子怒甩键盘将儿子砸成重伤获刑",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1658778492,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 967906,
-      "num": 967906,
-      "word": "月升沧海 剧情",
-      "onboard_time": 1659012398,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 965028,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1658995772,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 923182,
+      "num": 655584,
+      "word": "亲生父母6年卖4孩获利9.1万",
+      "onboard_time": 1659016780,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 922826,
@@ -2281,6 +2305,14 @@
       "onboard_time": 1658969673,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757649,
+      "num": 757649,
+      "word": "月升沧海越妃好能怼",
+      "onboard_time": 1659016780,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 757234,
@@ -2779,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 615651,
+      "num": 615651,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 612402,
       "num": 612402,
       "word": "当我的朋友熬成了我的领导",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1658759315,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591480,
-      "num": 591480,
-      "word": "独行月球",
-      "onboard_time": 1658921132,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 590613,
@@ -3107,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564780,
+      "num": 564780,
+      "word": "杨紫登顶微博综艺视频榜",
+      "onboard_time": 1659016179,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564644,
       "num": 564644,
       "word": "重庆大风",
@@ -3161,14 +3201,6 @@
       "onboard_time": 1658899173,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 559692,
-      "num": 559692,
-      "word": "女子因升职压力大出现濒死感",
-      "onboard_time": 1659015163,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558144,
@@ -4171,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437804,
+      "num": 437804,
+      "word": "22岁加班猝死女孩父亲痛哭",
+      "onboard_time": 1659015882,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437089,
       "num": 437089,
       "word": "孟子义原来我也可以被那么多人喜欢",
@@ -4283,6 +4323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424989,
+      "num": 424989,
+      "word": "六旬老太一天吃八顿直喊饿",
+      "onboard_time": 1659006334,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424726,
       "num": 333143,
       "word": "钱三一的解药是林妙妙",
@@ -4339,12 +4387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 421074,
-      "num": 421074,
-      "word": "六旬老太一天吃八顿直喊饿",
-      "onboard_time": 1659006334,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 422138,
+      "num": 422138,
+      "word": "月升沧海 甜",
+      "onboard_time": 1659016902,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 420838,
@@ -5571,6 +5619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327958,
+      "num": 287443,
+      "word": "天才基本法 剧情",
+      "onboard_time": 1658678492,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327116,
       "num": 327116,
       "word": "成毅演的应渊好隐忍",
@@ -5881,6 +5937,14 @@
       "onboard_time": 1658726313,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 310906,
+      "num": 310906,
+      "word": "在肯德基装睡的爸爸",
+      "onboard_time": 1659018461,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 310504,
@@ -6227,14 +6291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293450,
-      "num": 292004,
-      "word": "杨紫登顶微博综艺视频榜",
-      "onboard_time": 1659016179,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292983,
       "num": 292983,
       "word": "女生暑假规划",
@@ -6265,6 +6321,14 @@
       "onboard_time": 1658916812,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 291549,
+      "num": 291549,
+      "word": "11月起山东女职工增加60日产假",
+      "onboard_time": 1659015521,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291391,
@@ -6417,14 +6481,6 @@
       "onboard_time": 1658748213,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287443,
-      "num": 287443,
-      "word": "天才基本法 剧情",
-      "onboard_time": 1658678492,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 286910,
@@ -6691,6 +6747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274381,
+      "num": 274381,
+      "word": "星之守护者阿卡丽CG",
+      "onboard_time": 1659017862,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274166,
       "num": 274166,
       "word": "什么是KPL教练",
@@ -6803,6 +6867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 268918,
+      "num": 268918,
+      "word": "NV状态",
+      "onboard_time": 1659018942,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268631,
       "num": 259222,
       "word": "颜人中演唱会",
@@ -6841,6 +6913,14 @@
       "onboard_time": 1658900971,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266268,
+      "num": 266268,
+      "word": "RNG晋级季后赛",
+      "onboard_time": 1659016364,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 266156,
@@ -7283,14 +7363,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 246370,
-      "num": 246370,
-      "word": "11月起山东女职工增加60日产假",
-      "onboard_time": 1659015521,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246035,
       "num": 246035,
       "word": "宋亚轩绝配音色",
@@ -7353,14 +7425,6 @@
       "onboard_time": 1658805751,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 242610,
-      "num": 242610,
-      "word": "22岁加班猝死女孩父亲痛哭",
-      "onboard_time": 1659015882,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242427,
@@ -7432,6 +7496,14 @@
       "word": "走出精神内耗的7条建议",
       "onboard_time": 1658820692,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238891,
+      "num": 238891,
+      "word": "小学四兄弟6年后全部考上清华",
+      "onboard_time": 1659015941,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -7753,14 +7825,6 @@
       "onboard_time": 1658726074,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224663,
-      "num": 224663,
-      "word": "小学四兄弟6年后全部考上清华",
-      "onboard_time": 1659015941,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224315,
@@ -8259,14 +8323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198781,
-      "num": 198781,
-      "word": "RNG晋级季后赛",
-      "onboard_time": 1659016364,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198713,
       "num": 198713,
       "word": "福建省考",
@@ -8561,6 +8617,22 @@
       "onboard_time": 1658741132,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 181511,
+      "num": 181511,
+      "word": "这肯定是练过吧",
+      "onboard_time": 1659017564,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 181312,
+      "num": 181312,
+      "word": "伞兵三连暴走",
+      "onboard_time": 1659018882,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 181083,
