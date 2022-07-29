@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659113657451,
+  "endTime": 1659116453093,
   "band_list": [
     {
       "raw_hot": 1828446,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660758,
+      "num": 660758,
+      "word": "Angelababy白鹿赵露思素颜近照",
+      "onboard_time": 1659114920,
+      "rank": 4,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 638861,
       "num": 638861,
       "word": "清华大学vs重庆文理",
@@ -113,6 +121,14 @@
       "onboard_time": 1659093569,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 456550,
+      "num": 456550,
+      "word": "孟美岐舞台氛围感",
+      "onboard_time": 1659112407,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 434444,
@@ -163,12 +179,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 309746,
-      "num": 309746,
-      "word": "孟美岐舞台氛围感",
-      "onboard_time": 1659112407,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 308352,
+      "num": 308352,
+      "word": "吴冠希张常宁明日大婚",
+      "onboard_time": 1659112107,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 303635,
@@ -257,14 +273,6 @@
       "onboard_time": 1659106418,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215357,
-      "num": 215357,
-      "word": "吴冠希张常宁明日大婚",
-      "onboard_time": 1659112107,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 203412,
@@ -371,6 +379,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 138807,
+      "num": 133347,
+      "word": "香港演唱会事故初步调查原因",
+      "onboard_time": 1659082049,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135189,
       "num": 135189,
       "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
@@ -387,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130354,
-      "num": 116562,
-      "word": "香港演唱会事故初步调查原因",
-      "onboard_time": 1659082049,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129215,
       "num": 129215,
       "word": "手机上最没用的功能是什么",
@@ -403,20 +411,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126437,
+      "num": 126437,
+      "word": "被晒月薪超8万中金员工停职调查",
+      "onboard_time": 1659093150,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 123717,
       "num": 1412086,
       "word": "4分钟看解放军军服演变史",
       "onboard_time": 1659099332,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 115110,
-      "num": 115110,
-      "word": "被晒月薪超8万中金员工停职调查",
-      "onboard_time": 1659093150,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 63810,
@@ -438,6 +446,12 @@
   "hotgov_list": [
     {
       "word": "#中美双方元首通话#"
+    },
+    {
+      "word": "#第二届中国新电商大会#"
+    },
+    {
+      "word": "#广大党员干部要勇于担当敢为先锋#"
     }
   ]
 }
