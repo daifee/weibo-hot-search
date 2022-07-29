@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659071255205,
+  "endTime": 1659073475726,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -9,6 +9,14 @@
       "onboard_time": 1659065373,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3468818,
+      "num": 3468818,
+      "word": "调休",
+      "onboard_time": 1659067718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3080043,
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2529750,
+      "num": 2529750,
+      "word": "王心凌乘风破浪秒变演唱会",
+      "onboard_time": 1659071197,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2529077,
       "num": 2529077,
       "word": "台湾是中国的台湾",
       "onboard_time": 1659017443,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2190420,
-      "num": 2190420,
-      "word": "调休",
-      "onboard_time": 1659067718,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1800734,
@@ -83,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1577357,
+      "num": 1577357,
+      "word": "唐诗逸失误救场",
+      "onboard_time": 1659072213,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1458643,
       "num": 1458643,
       "word": "沉香如屑断更",
       "onboard_time": 1659064472,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1450134,
+      "num": 1450134,
+      "word": "消费者曝称乌江榨菜里吃出脚指甲",
+      "onboard_time": 1659067899,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1399008,
@@ -99,19 +123,19 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1372689,
-      "num": 1372689,
-      "word": "消费者曝称乌江榨菜里吃出脚指甲",
-      "onboard_time": 1659067899,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1361463,
       "num": 1361463,
       "word": "成华区疫情防控",
       "onboard_time": 1659021641,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237478,
+      "num": 1237478,
+      "word": "全国超1400万人承受60分钟以上极端通勤",
+      "onboard_time": 1659069697,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -121,6 +145,14 @@
       "onboard_time": 1659066877,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1173412,
+      "num": 1173412,
+      "word": "郑秀妍于文文senorita双人探戈",
+      "onboard_time": 1659071793,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1155700,
@@ -137,6 +169,14 @@
       "onboard_time": 1659060273,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1136034,
+      "num": 1136034,
+      "word": "迪奥抄袭马面裙",
+      "onboard_time": 1659072391,
+      "rank": 33,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1125162,
@@ -211,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 828446,
-      "num": 828446,
-      "word": "全国超1400万人承受60分钟以上极端通勤",
-      "onboard_time": 1659069697,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 825517,
+      "num": 825517,
+      "word": "MIRROR方道歉",
+      "onboard_time": 1659068558,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 816394,
@@ -227,20 +267,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 813139,
-      "num": 813139,
-      "word": "MIRROR方道歉",
-      "onboard_time": 1659068558,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 777068,
       "num": 777068,
       "word": "苹果CEO库克回应在中国打折",
       "onboard_time": 1659054271,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 737249,
+      "num": 737249,
+      "word": "年轻人为什么越来越不爱买大牌",
+      "onboard_time": 1659071374,
+      "rank": 24,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 731581,
@@ -299,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617165,
+      "num": 617165,
+      "word": "动物园回应老虎身形消瘦趴地吃草",
+      "onboard_time": 1659070056,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599835,
       "num": 448924,
       "word": "二舅确为河北某村村民",
@@ -313,6 +361,14 @@
       "onboard_time": 1659033374,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582653,
+      "num": 582653,
+      "word": "中华小子",
+      "onboard_time": 1659069754,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 557793,
@@ -371,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516106,
+      "num": 516106,
+      "word": "情侣分手男子当场甩出2年消费清单",
+      "onboard_time": 1659072512,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 502595,
       "num": 502595,
       "word": "中金",
@@ -403,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494239,
+      "num": 494239,
+      "word": "灵猫传 停服",
+      "onboard_time": 1659071616,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 489720,
       "num": 489720,
       "word": "中国好声音",
@@ -427,20 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473763,
-      "num": 221207,
-      "word": "王心凌乘风破浪秒变演唱会",
-      "onboard_time": 1659071197,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 459329,
       "num": 333247,
       "word": "少年出游记定档",
       "onboard_time": 1659065254,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457605,
+      "num": 457605,
+      "word": "6岁脑瘫女孩给母亲展示蹲马步",
+      "onboard_time": 1659069397,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450615,
+      "num": 450615,
+      "word": "王嘉尔新歌Cruel上线",
+      "onboard_time": 1659072751,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 447928,
@@ -451,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446125,
+      "num": 410752,
+      "word": "乘风破浪",
+      "onboard_time": 1659071793,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445145,
       "num": 445145,
       "word": "今天星期五",
@@ -459,11 +547,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 429134,
-      "num": 429134,
-      "word": "动物园回应老虎身形消瘦趴地吃草",
-      "onboard_time": 1659070056,
-      "rank": 26,
+      "raw_hot": 435554,
+      "num": 435554,
+      "word": "上海台风",
+      "onboard_time": 1659070776,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -587,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351855,
-      "num": 351855,
-      "word": "6岁脑瘫女孩给母亲展示蹲马步",
-      "onboard_time": 1659069397,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349427,
       "num": 349427,
       "word": "月升沧海 剧情",
@@ -603,12 +683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348332,
-      "num": 348332,
-      "word": "中华小子",
-      "onboard_time": 1659069754,
-      "rank": 32,
-      "category": "动漫"
+      "raw_hot": 347205,
+      "num": 347205,
+      "word": "百辆违停车车牌被掰弯折叠",
+      "onboard_time": 1659072092,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338118,
@@ -619,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337507,
+      "num": 337507,
+      "word": "杭州街头爱心冰柜引路人自发接力",
+      "onboard_time": 1659070955,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333560,
       "num": 333560,
       "word": "爷爷为高考后的孙女画人生规划图",
       "onboard_time": 1659055834,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 326587,
+      "num": 326587,
+      "word": "原神须弥",
+      "onboard_time": 1659071734,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 325002,
@@ -715,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279982,
-      "num": 279982,
-      "word": "上海台风",
-      "onboard_time": 1659070776,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278633,
       "num": 278633,
       "word": "官方回应哈啰员工破坏70辆美团单车",
@@ -779,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259142,
+      "num": 259142,
+      "word": "向往的生活蘑菇屋变照相馆",
+      "onboard_time": 1659072571,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254540,
       "num": 254540,
       "word": "LOL手游卡萨丁上线",
@@ -832,14 +928,6 @@
       "word": "甘肃增21例确诊112例无症状",
       "onboard_time": 1659059912,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229411,
-      "num": 229411,
-      "word": "杭州街头爱心冰柜引路人自发接力",
-      "onboard_time": 1659070955,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -921,6 +1009,14 @@
       "onboard_time": 1659060332,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206221,
+      "num": 206221,
+      "word": "月升沧海最疯的人是谁",
+      "onboard_time": 1659073231,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 199198,
@@ -1068,7 +1164,7 @@
     },
     {
       "raw_hot": 141042,
-      "num": 1853751,
+      "num": 2183672,
       "word": "从卫星视角看国家公园",
       "onboard_time": 1659066877,
       "rank": 2,
@@ -1194,6 +1290,9 @@
     },
     {
       "word": "#第二届中国新电商大会#"
+    },
+    {
+      "word": "#新时代成就巡礼#"
     }
   ]
 }
