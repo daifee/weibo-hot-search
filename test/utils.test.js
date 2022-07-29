@@ -22,7 +22,7 @@ describe('formatDate(timestamp)', () => {
 
   test('3', () => {
     const timestamp = 1658030509598;
-    const received = utils.formatDate(timestamp, 2);
+    const received = utils.formatDate(timestamp, 3);
     expect(received).toBe('12:01');
   });
 
