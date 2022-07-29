@@ -1,0 +1,410 @@
+{
+  "runTime": 1659093499874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2678904,
+        "num": 2678904,
+        "word": "纸嫁衣声明",
+        "onboard_time": 1659083969,
+        "rank": 0,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 2335316,
+        "num": 2335316,
+        "word": "密室大逃脱纸嫁衣",
+        "onboard_time": 1659088050,
+        "rank": 1,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 38743,
+        "num": 1976372,
+        "word": "从卫星视角看国家公园",
+        "onboard_time": 1659066877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1693182,
+        "num": 1693182,
+        "word": "云南女子13岁被拐为妻当事人发声",
+        "onboard_time": 1659090031,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232452,
+        "num": 1232452,
+        "word": "22岁加班猝死女孩医药费超40万",
+        "onboard_time": 1659087152,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950805,
+        "num": 950805,
+        "word": "里根号",
+        "onboard_time": 1659089913,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 935768,
+        "num": 935768,
+        "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+        "onboard_time": 1659086553,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913104,
+        "num": 913104,
+        "word": "密室大逃脱",
+        "onboard_time": 1659090751,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830333,
+        "num": 830333,
+        "word": "迪奥抄袭马面裙",
+        "onboard_time": 1659072391,
+        "rank": 8,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 813456,
+        "num": 813456,
+        "word": "JackeyLove金克丝五杀",
+        "onboard_time": 1659092130,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 955994,
+        "num": 808091,
+        "word": "金正恩向中国人民志愿军烈士致敬",
+        "onboard_time": 1659086014,
+        "rank": 10,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 796658,
+        "num": 796658,
+        "word": "宁波美籍男子故意杀人案二审开庭",
+        "onboard_time": 1659086617,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767985,
+        "num": 767985,
+        "word": "Mirror演唱会掉落巨屏重600公斤",
+        "onboard_time": 1659080788,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684178,
+        "num": 684178,
+        "word": "于文文钢琴着火",
+        "onboard_time": 1659083790,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642482,
+        "num": 642482,
+        "word": "独行月球",
+        "onboard_time": 1659081150,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611124,
+        "num": 611124,
+        "word": "手机上最没用的功能是什么",
+        "onboard_time": 1659089309,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 472262,
+        "num": 472262,
+        "word": "妇联调查女生超130斤禁入酒吧",
+        "onboard_time": 1659085651,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440858,
+        "num": 440858,
+        "word": "央行郑州支行金融稳定处处长赵德旺被查",
+        "onboard_time": 1659088834,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 374242,
+        "num": 374242,
+        "word": "中金回应90后交易员月入超8万",
+        "onboard_time": 1659078151,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 349058,
+        "num": 349058,
+        "word": "为什么好朋友关系会变淡",
+        "onboard_time": 1659092310,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613309,
+        "num": 331546,
+        "word": "香港演唱会事故初步调查原因",
+        "onboard_time": 1659082049,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497218,
+        "num": 317597,
+        "word": "时代少年团哭泣的游戏预告海报",
+        "onboard_time": 1659091889,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 461282,
+        "num": 316815,
+        "word": "孟美岐音乐会票价",
+        "onboard_time": 1659075871,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300100,
+        "num": 300100,
+        "word": "年轻人为什么越来越不爱买大牌",
+        "onboard_time": 1659071374,
+        "rank": 23,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 286907,
+        "num": 286907,
+        "word": "警方通报雷克萨斯车祸致1死2伤",
+        "onboard_time": 1659092848,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257287,
+        "num": 257287,
+        "word": "老虎到底是不是大号的猫",
+        "onboard_time": 1659090751,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255308,
+        "num": 255308,
+        "word": "RNG官宣Ana替补",
+        "onboard_time": 1659082650,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245892,
+        "num": 245892,
+        "word": "情侣分手男子当场甩出2年消费清单",
+        "onboard_time": 1659072512,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 231461,
+        "num": 231461,
+        "word": "每日优鲜徐正回应",
+        "onboard_time": 1659091949,
+        "rank": 28,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 231344,
+        "num": 231344,
+        "word": "小米汽车9月进入软模车下线阶段",
+        "onboard_time": 1659087752,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 424421,
+        "num": 230465,
+        "word": "第36届百花奖提名名单有哪些看点",
+        "onboard_time": 1659091949,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371686,
+        "num": 228433,
+        "word": "沉香如屑花式被催更",
+        "onboard_time": 1659090452,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340355,
+        "num": 227279,
+        "word": "郑秀妍含泪回头",
+        "onboard_time": 1659081093,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339093,
+        "num": 226648,
+        "word": "范丞丞新剧追剧日历",
+        "onboard_time": 1659093150,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225490,
+        "num": 225490,
+        "word": "成都锦江区疫情防控",
+        "onboard_time": 1659081750,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306099,
+        "num": 224439,
+        "word": "曾黎带糕点参加百花奖",
+        "onboard_time": 1659086673,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222379,
+        "num": 222379,
+        "word": "原卫生院院长回应二舅致残原因",
+        "onboard_time": 1659077250,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211817,
+        "num": 211817,
+        "word": "拍单人婚纱是什么体验",
+        "onboard_time": 1659087272,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196896,
+        "num": 196896,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659082230,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195218,
+        "num": 195218,
+        "word": "男童4楼坠落邻居一家用被子接住",
+        "onboard_time": 1659078271,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243825,
+        "num": 194489,
+        "word": "被遗忘的时光开播",
+        "onboard_time": 1659091412,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185403,
+        "num": 185403,
+        "word": "接天莲叶无穷碧原来长这样",
+        "onboard_time": 1659080729,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 179746,
+        "num": 179746,
+        "word": "西安交大男篮晋级全国四强",
+        "onboard_time": 1659089432,
+        "rank": 42,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 177084,
+        "num": 177084,
+        "word": "80强军号",
+        "onboard_time": 1659078930,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 174147,
+        "num": 174147,
+        "word": "成华区不要虚",
+        "onboard_time": 1659091168,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162628,
+        "num": 162628,
+        "word": "中华小子",
+        "onboard_time": 1659069754,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 160417,
+        "num": 160417,
+        "word": "被晒月薪超8万中金员工停职调查",
+        "onboard_time": 1659093150,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146005,
+        "num": 146005,
+        "word": "CUBA大学生篮球联赛",
+        "onboard_time": 1659088475,
+        "rank": 47,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 141706,
+        "num": 141706,
+        "word": "上海台风前现水晶天",
+        "onboard_time": 1659077730,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115815,
+        "num": 115815,
+        "word": "王铭晖被开除党籍和公职",
+        "onboard_time": 1659083130,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
