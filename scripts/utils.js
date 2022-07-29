@@ -29,6 +29,18 @@ function formatDateTow(timestamp) {
   return `${ymd} ${hms}`;
 }
 
+// 12:01
+function formatDateThree(timestamp) {
+  const d = new Date(timestamp);
+
+  const hms = [
+    `${d.getHours()}`.padStart(2, '0'),
+    `${d.getMinutes()}`.padStart(2, '0'),
+  ].join(':');
+
+  return hms;
+}
+
 function formatDate(timestamp, type) {
   if (typeof timestamp !== 'number') {
     return '';
@@ -39,6 +51,8 @@ function formatDate(timestamp, type) {
       return formatDateOne(timestamp);
     case 2:
       return formatDateTow(timestamp);
+    case 3:
+      return formatDateThree(timestamp);
     default:
       return '';
   }

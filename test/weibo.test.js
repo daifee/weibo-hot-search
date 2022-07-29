@@ -1,8 +1,14 @@
-const { execSync } = require('child_process');
+// const { execSync } = require('child_process');
+const fs = require('fs');
 const weibo = require('../scripts/weibo');
+const tool = require('./tool');
 
-describe.skip('generateDailyContent(data)', () => {
-  test('正确用法', () => {
+beforeEach(() => {
+  tool.cleanTempDir();
+});
+
+describe('renderDailyContent(data)', () => {
+  test('正确用法', async () => {
     const data = {
       startTime: 1658247236896,
       endTime: 1658329848059,
@@ -34,17 +40,31 @@ describe.skip('generateDailyContent(data)', () => {
       ],
     };
 
-    const content = weibo.generateDailyContent(data);
+    const content = await weibo.renderDailyContent(data);
+    // 预览
+    // execSync(`echo "${content}" > ./temp/preview.txt`);
 
-    console.log(content);
+    const expected = fs.readFileSync('./test/data/preview-weibo-daily.txt', 'utf-8');
 
-    execSync(`echo "${content}" > ./temp/test.txt`);
+    expect(content).toBeDefined();
+    // expect(content).toEqual(expected);
+    for (let index = 0; index < content.length; index += 1) {
+      const element = content[index];
+      expect(element).toEqual(expected[index]);
+    }
   });
 });
 
-describe.skip('sendDaily(timestamp)', () => {
-  test('07/20 ', () => {
-    // const timestamp = 1658247236896;
-    // const content = weibo.gene;
+describe('generateDailyContent(timestamp)', () => {
+  test('2022/7/18 16:20:39', async () => {
+    fs.cpSync('./test/data/20', './temp', { recursive: true });
+
+    // 2022/7/18 16:20:39 周一（上海时区）
+    const timestamp = 1658132439043;
+
+    const content = await weibo.generateDailyContent(timestamp);
+
+    expect(content).toBeDefined();
+    expect(typeof content).toEqual('string');
   });
 });

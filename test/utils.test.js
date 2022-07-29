@@ -20,6 +20,12 @@ describe('formatDate(timestamp)', () => {
     expect(received).toBe('2022/07/17 12:01:49');
   });
 
+  test('3', () => {
+    const timestamp = 1658030509598;
+    const received = utils.formatDate(timestamp, 2);
+    expect(received).toBe('12:01');
+  });
+
   test('-1', () => {
     const timestamp = 1658030509598;
     const received = utils.formatDate(timestamp, -1);
