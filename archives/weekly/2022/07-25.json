@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659120332214,
+  "endTime": 1659123208638,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -11905,6 +11905,14 @@
       "onboard_time": 1658868070,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15363,
+      "num": 15363,
+      "word": "六旬大叔高温下跪地施救溺水男孩",
+      "onboard_time": 1659122472,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 11585,
