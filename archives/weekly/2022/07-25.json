@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659102846535,
+  "endTime": 1659105337144,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -275,8 +275,16 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 3172910,
+      "num": 3172910,
+      "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+      "onboard_time": 1659096329,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 3139382,
-      "num": 1263290,
+      "num": 2289584,
       "word": "全球最大精子银行上调精子价格",
       "onboard_time": 1659098674,
       "rank": 44,
@@ -305,14 +313,6 @@
       "onboard_time": 1658970450,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3001266,
-      "num": 3001266,
-      "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
-      "onboard_time": 1659096329,
-      "rank": 4,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2976270,
@@ -561,6 +561,14 @@
       "onboard_time": 1659072512,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 2317609,
+      "num": 2317609,
+      "word": "清华大学vs重庆文理",
+      "onboard_time": 1659103053,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2285767,
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1610035,
+      "num": 1610035,
+      "word": "机票燃油附加费今年首次下调",
+      "onboard_time": 1659100953,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1605253,
       "num": 1605253,
       "word": "房东每度电按1元收费",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1658688432,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1463738,
+      "num": 1463738,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1463393,
@@ -1651,14 +1675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1180297,
-      "num": 1180297,
-      "word": "机票燃油附加费今年首次下调",
-      "onboard_time": 1659100953,
-      "rank": 6,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1173412,
       "num": 1173412,
       "word": "郑秀妍于文文senorita双人探戈",
@@ -1883,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072014,
+      "num": 1072014,
+      "word": "我的分享欲是怎么没的",
+      "onboard_time": 1659101070,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1071928,
       "num": 1071928,
       "word": "网友称在大连横山寺为关东军立牌位",
@@ -2043,20 +2067,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1005410,
+      "num": 1005410,
+      "word": "福建平潭局部海域实弹射击训练",
+      "onboard_time": 1659097588,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 999672,
       "num": 999672,
       "word": "许凯未婚亥猪",
       "onboard_time": 1658991271,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 990441,
-      "num": 990441,
-      "word": "福建平潭局部海域实弹射击训练",
-      "onboard_time": 1659097588,
-      "rank": 15,
-      "category": "军事"
     },
     {
       "raw_hot": 990009,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1659097889,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 952906,
+      "num": 952906,
+      "word": "白鹿 可爱",
+      "onboard_time": 1659102753,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 950805,
@@ -2539,14 +2571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 836212,
-      "num": 836212,
-      "word": "独行月球",
-      "onboard_time": 1658921132,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 835023,
       "num": 835023,
       "word": "拍吻戏都这么意外了吗",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1658740656,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 777670,
+      "num": 665958,
+      "word": "赵露思 奔跑吧",
+      "onboard_time": 1659104675,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 777068,
@@ -3065,6 +3097,22 @@
       "onboard_time": 1658736393,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706967,
+      "num": 706967,
+      "word": "蔡徐坤没睡醒被秒淘汰",
+      "onboard_time": 1659103175,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 706118,
+      "num": 650934,
+      "word": "周深被郭麒麟的微信铃声叫儿子",
+      "onboard_time": 1659103833,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 705221,
@@ -3361,6 +3409,14 @@
       "onboard_time": 1659002914,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 632824,
+      "num": 632824,
+      "word": "第一次结婚有点紧张",
+      "onboard_time": 1659104133,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 631653,
@@ -3771,6 +3827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 578981,
+      "num": 412194,
+      "word": "ESO新歌",
+      "onboard_time": 1659105035,
+      "rank": 20,
+      "category": "音乐,网红"
+    },
+    {
       "raw_hot": 578018,
       "num": 578018,
       "word": "大连一大妈横躺地铁座位玩手机",
@@ -4097,14 +4161,6 @@
       "onboard_time": 1659006394,
       "rank": 26,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 538977,
-      "num": 538977,
-      "word": "我的分享欲是怎么没的",
-      "onboard_time": 1659101070,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 537855,
@@ -4851,6 +4907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 468269,
+      "num": 411941,
+      "word": "李钟硕黑话律师",
+      "onboard_time": 1659104794,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467372,
       "num": 344686,
       "word": "沉香如屑花式被催更",
@@ -4963,12 +5027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458489,
+      "num": 458489,
+      "word": "桂林惊现红色精灵闪电",
+      "onboard_time": 1659101673,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457860,
       "num": 457860,
       "word": "这是一场蓄谋已久的求婚",
       "onboard_time": 1658993911,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457678,
+      "num": 457678,
+      "word": "网友质疑地铁站插画风格怪异",
+      "onboard_time": 1659103770,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457605,
@@ -5121,6 +5201,14 @@
       "onboard_time": 1659083130,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446694,
+      "num": 389271,
+      "word": "Mirror余下8场演唱会已全部取消",
+      "onboard_time": 1659103532,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 446131,
@@ -5465,6 +5553,14 @@
       "onboard_time": 1659016902,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421986,
+      "num": 324483,
+      "word": "好想去现场看王嘉尔",
+      "onboard_time": 1659103234,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 420838,
@@ -5819,14 +5915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 402263,
-      "num": 319302,
-      "word": "白鹿 可爱",
-      "onboard_time": 1659102753,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "宋亚轩怼脸好甜",
@@ -5987,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390770,
+      "num": 390770,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 390464,
       "num": 390464,
       "word": "林妙妙喊钱三一徒儿爷青回",
@@ -6001,14 +6097,6 @@
       "onboard_time": 1658797770,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390016,
-      "num": 390016,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 389783,
@@ -6073,6 +6161,14 @@
       "onboard_time": 1659090031,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388055,
+      "num": 312733,
+      "word": "向往的生活",
+      "onboard_time": 1659104794,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 387646,
@@ -6459,6 +6555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357074,
+      "num": 357074,
+      "word": "央行将发行24节气金银纪念币",
+      "onboard_time": 1659103952,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 356717,
       "num": 356717,
       "word": "周深承包了整部戏的电话配音",
@@ -6601,14 +6705,6 @@
       "onboard_time": 1658665232,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 347932,
-      "num": 347932,
-      "word": "桂林惊现红色精灵闪电",
-      "onboard_time": 1659101673,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347250,
@@ -6833,6 +6929,14 @@
       "onboard_time": 1658703920,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331992,
+      "num": 331992,
+      "word": "你见过KPL教练打比赛吗",
+      "onboard_time": 1659102393,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 331937,
@@ -7113,6 +7217,14 @@
       "onboard_time": 1658761656,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321460,
+      "num": 321460,
+      "word": "10岁男孩神还原敦煌飞天",
+      "onboard_time": 1659100413,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321266,
@@ -8139,6 +8251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281714,
+      "num": 281714,
+      "word": "久哲偷家",
+      "onboard_time": 1659104732,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281704,
       "num": 281704,
       "word": "新疆网红景点用直升机清运垃圾",
@@ -8523,6 +8643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264896,
+      "num": 264896,
+      "word": "杭州通报22岁女孩加班猝死核查情况",
+      "onboard_time": 1659104914,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264875,
       "num": 264875,
       "word": "和朱一龙相约第36届百花奖",
@@ -8856,14 +8984,6 @@
       "word": "杭州核酸",
       "onboard_time": 1658925511,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251666,
-      "num": 251666,
-      "word": "10岁男孩神还原敦煌飞天",
-      "onboard_time": 1659100413,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -9851,14 +9971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211275,
-      "num": 211275,
-      "word": "你见过KPL教练打比赛吗",
-      "onboard_time": 1659102393,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 211253,
       "num": 211253,
       "word": "外太空的莫扎特票房破2亿",
@@ -10067,6 +10179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201435,
+      "num": 2298178,
+      "word": "4分钟看解放军军服演变史",
+      "onboard_time": 1659099332,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 200711,
       "num": 200711,
       "word": "护眼类纸屏是智商税吗",
@@ -10185,6 +10305,14 @@
       "onboard_time": 1659012823,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196397,
+      "num": 196397,
+      "word": "CUBA全国总决赛的现场氛围太好了",
+      "onboard_time": 1659104853,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 196316,
@@ -10427,14 +10555,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 184051,
-      "num": 1447695,
-      "word": "4分钟看解放军军服演变史",
-      "onboard_time": 1659099332,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 183976,
       "num": 183976,
       "word": "国足2022东亚杯首球",
@@ -10497,6 +10617,14 @@
       "onboard_time": 1658724633,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 179698,
+      "num": 179698,
+      "word": "隔着屏幕已经开始生气了",
+      "onboard_time": 1659105333,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 179479,

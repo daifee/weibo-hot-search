@@ -1,0 +1,410 @@
+{
+  "runTime": 1659105337144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3023308,
+        "num": 3023308,
+        "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+        "onboard_time": 1659096329,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2317609,
+        "num": 2317609,
+        "word": "清华大学vs重庆文理",
+        "onboard_time": 1659103053,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184853,
+        "num": 2298178,
+        "word": "4分钟看解放军军服演变史",
+        "onboard_time": 1659099332,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2289584,
+        "num": 2289584,
+        "word": "全球最大精子银行上调精子价格",
+        "onboard_time": 1659098674,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1531561,
+        "num": 1531561,
+        "word": "机票燃油附加费今年首次下调",
+        "onboard_time": 1659100953,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1463738,
+        "num": 1463738,
+        "word": "独行月球",
+        "onboard_time": 1659081150,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1072014,
+        "num": 1072014,
+        "word": "我的分享欲是怎么没的",
+        "onboard_time": 1659101070,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 952906,
+        "num": 952906,
+        "word": "白鹿 可爱",
+        "onboard_time": 1659102753,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 835618,
+        "num": 835618,
+        "word": "福建平潭局部海域实弹射击训练",
+        "onboard_time": 1659097588,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 718895,
+        "num": 718895,
+        "word": "迪奥抄袭马面裙",
+        "onboard_time": 1659072391,
+        "rank": 9,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 899862,
+        "num": 687380,
+        "word": "杨紫乔欣有友情但不多",
+        "onboard_time": 1659098133,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 798992,
+        "num": 666941,
+        "word": "中金人均年薪115万",
+        "onboard_time": 1659093569,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 777670,
+        "num": 665958,
+        "word": "赵露思 奔跑吧",
+        "onboard_time": 1659104675,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632824,
+        "num": 632824,
+        "word": "第一次结婚有点紧张",
+        "onboard_time": 1659104133,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 706118,
+        "num": 599646,
+        "word": "周深被郭麒麟的微信铃声叫儿子",
+        "onboard_time": 1659103833,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549070,
+        "num": 549070,
+        "word": "同学录是全国统一的吗",
+        "onboard_time": 1659096630,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 543980,
+        "num": 543980,
+        "word": "里根号航母进南海想干啥",
+        "onboard_time": 1659095969,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 458489,
+        "num": 458489,
+        "word": "桂林惊现红色精灵闪电",
+        "onboard_time": 1659101673,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457678,
+        "num": 457678,
+        "word": "网友质疑地铁站插画风格怪异",
+        "onboard_time": 1659103770,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412990,
+        "num": 412990,
+        "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+        "onboard_time": 1659086553,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578981,
+        "num": 412194,
+        "word": "ESO新歌",
+        "onboard_time": 1659105035,
+        "rank": 20,
+        "category": "音乐,网红"
+      },
+      {
+        "raw_hot": 468269,
+        "num": 411941,
+        "word": "李钟硕黑话律师",
+        "onboard_time": 1659104794,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449816,
+        "num": 411723,
+        "word": "杨幂说李斯丹妮能嫁个好老公",
+        "onboard_time": 1659101552,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411248,
+        "num": 411248,
+        "word": "平潭",
+        "onboard_time": 1659094407,
+        "rank": 23,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 380937,
+        "num": 380937,
+        "word": "80强军号",
+        "onboard_time": 1659078930,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 358810,
+        "num": 358810,
+        "word": "若美方挑战中方底线必遭坚决反制",
+        "onboard_time": 1659096931,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 358224,
+        "num": 358224,
+        "word": "云南女子13岁被拐为妻当事人发声",
+        "onboard_time": 1659090031,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357074,
+        "num": 357074,
+        "word": "央行将发行24节气金银纪念币",
+        "onboard_time": 1659103952,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 321460,
+        "num": 321460,
+        "word": "10岁男孩神还原敦煌飞天",
+        "onboard_time": 1659100413,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314168,
+        "num": 314168,
+        "word": "22岁加班猝死女孩医药费超40万",
+        "onboard_time": 1659087152,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436687,
+        "num": 313825,
+        "word": "密室大逃脱纸嫁衣",
+        "onboard_time": 1659088050,
+        "rank": 30,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 395057,
+        "num": 313172,
+        "word": "Mirror余下8场演唱会已全部取消",
+        "onboard_time": 1659103532,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388055,
+        "num": 312733,
+        "word": "向往的生活",
+        "onboard_time": 1659104794,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352971,
+        "num": 312276,
+        "word": "许凯钟楚曦吵架一秒和好",
+        "onboard_time": 1659097889,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311931,
+        "num": 311931,
+        "word": "被晒月薪超8万中金员工停职调查",
+        "onboard_time": 1659093150,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 299973,
+        "num": 299973,
+        "word": "为什么好朋友关系会变淡",
+        "onboard_time": 1659092310,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281714,
+        "num": 281714,
+        "word": "久哲偷家",
+        "onboard_time": 1659104732,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280238,
+        "num": 280238,
+        "word": "里根号",
+        "onboard_time": 1659089913,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 275059,
+        "num": 275059,
+        "word": "这猫到底是怎么养的",
+        "onboard_time": 1659100772,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264896,
+        "num": 264896,
+        "word": "杭州通报22岁女孩加班猝死核查情况",
+        "onboard_time": 1659104914,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334903,
+        "num": 264495,
+        "word": "香港演唱会事故初步调查原因",
+        "onboard_time": 1659082049,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324005,
+        "num": 264485,
+        "word": "丁程鑫的懂事治愈了张凯丽",
+        "onboard_time": 1659102092,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262520,
+        "num": 262520,
+        "word": "进一步推动核酸检测结果全国互认",
+        "onboard_time": 1659100953,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238128,
+        "num": 238128,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659082230,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232872,
+        "num": 232872,
+        "word": "郭艾伦",
+        "onboard_time": 1659097110,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229577,
+        "num": 229577,
+        "word": "手机上最没用的功能是什么",
+        "onboard_time": 1659089309,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202897,
+        "num": 202897,
+        "word": "你见过KPL教练打比赛吗",
+        "onboard_time": 1659102393,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200320,
+        "num": 200320,
+        "word": "宁波美籍男子故意杀人案二审开庭",
+        "onboard_time": 1659086617,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196397,
+        "num": 196397,
+        "word": "CUBA全国总决赛的现场氛围太好了",
+        "onboard_time": 1659104853,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179698,
+        "num": 179698,
+        "word": "隔着屏幕已经开始生气了",
+        "onboard_time": 1659105333,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国新电商大会#"
+    }
+  }
+}
