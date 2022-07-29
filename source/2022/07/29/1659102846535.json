@@ -1,0 +1,410 @@
+{
+  "runTime": 1659102846535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3001266,
+        "num": 3001266,
+        "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+        "onboard_time": 1659096329,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1409875,
+        "num": 1409875,
+        "word": "杨紫乔欣有友情但不多",
+        "onboard_time": 1659098133,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184051,
+        "num": 1267660,
+        "word": "4分钟看解放军军服演变史",
+        "onboard_time": 1659099332,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3104979,
+        "num": 1263290,
+        "word": "全球最大精子银行上调精子价格",
+        "onboard_time": 1659098674,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1180297,
+        "num": 1180297,
+        "word": "机票燃油附加费今年首次下调",
+        "onboard_time": 1659100953,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 990441,
+        "num": 990441,
+        "word": "福建平潭局部海域实弹射击训练",
+        "onboard_time": 1659097588,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 910835,
+        "num": 910835,
+        "word": "迪奥抄袭马面裙",
+        "onboard_time": 1659072391,
+        "rank": 6,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 868729,
+        "num": 868729,
+        "word": "许凯钟楚曦吵架一秒和好",
+        "onboard_time": 1659097889,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 858270,
+        "num": 858270,
+        "word": "同学录是全国统一的吗",
+        "onboard_time": 1659096630,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 780237,
+        "num": 780237,
+        "word": "里根号航母进南海想干啥",
+        "onboard_time": 1659095969,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1245656,
+        "num": 776190,
+        "word": "中金人均年薪115万",
+        "onboard_time": 1659093569,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 771521,
+        "num": 771521,
+        "word": "独行月球",
+        "onboard_time": 1659081150,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588884,
+        "num": 588884,
+        "word": "赵今麦勇敢",
+        "onboard_time": 1659100953,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581486,
+        "num": 581486,
+        "word": "被晒月薪超8万中金员工停职调查",
+        "onboard_time": 1659093150,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 578265,
+        "num": 578265,
+        "word": "密室大逃脱纸嫁衣",
+        "onboard_time": 1659088050,
+        "rank": 14,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 538977,
+        "num": 538977,
+        "word": "我的分享欲是怎么没的",
+        "onboard_time": 1659101070,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483511,
+        "num": 483511,
+        "word": "若美方挑战中方底线必遭坚决反制",
+        "onboard_time": 1659096931,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 457007,
+        "num": 457007,
+        "word": "平潭",
+        "onboard_time": 1659094407,
+        "rank": 17,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 454685,
+        "num": 454685,
+        "word": "为什么好朋友关系会变淡",
+        "onboard_time": 1659092310,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432603,
+        "num": 432603,
+        "word": "郭艾伦",
+        "onboard_time": 1659097110,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489992,
+        "num": 432488,
+        "word": "杨幂说李斯丹妮能嫁个好老公",
+        "onboard_time": 1659101552,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439979,
+        "num": 432344,
+        "word": "周深穿拖鞋卡出花盆底",
+        "onboard_time": 1659102034,
+        "rank": 21,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 470746,
+        "num": 432313,
+        "word": "丁程鑫的懂事治愈了张凯丽",
+        "onboard_time": 1659102092,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431018,
+        "num": 431018,
+        "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+        "onboard_time": 1659086553,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413799,
+        "num": 413799,
+        "word": "云南女子13岁被拐为妻当事人发声",
+        "onboard_time": 1659090031,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390016,
+        "num": 390016,
+        "word": "80强军号",
+        "onboard_time": 1659078930,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 376028,
+        "num": 376028,
+        "word": "这猫到底是怎么养的",
+        "onboard_time": 1659100772,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347932,
+        "num": 347932,
+        "word": "桂林惊现红色精灵闪电",
+        "onboard_time": 1659101673,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333503,
+        "num": 333503,
+        "word": "进一步推动核酸检测结果全国互认",
+        "onboard_time": 1659100953,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332228,
+        "num": 332228,
+        "word": "22岁加班猝死女孩医药费超40万",
+        "onboard_time": 1659087152,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410364,
+        "num": 329787,
+        "word": "香港演唱会事故初步调查原因",
+        "onboard_time": 1659082049,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410217,
+        "num": 323614,
+        "word": "宋亚轩演微笑pasta何群",
+        "onboard_time": 1659097833,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402263,
+        "num": 319302,
+        "word": "白鹿 可爱",
+        "onboard_time": 1659102753,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388539,
+        "num": 316063,
+        "word": "Mirror演唱会掉落巨屏重600公斤",
+        "onboard_time": 1659080788,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314487,
+        "num": 314487,
+        "word": "手机上最没用的功能是什么",
+        "onboard_time": 1659089309,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330770,
+        "num": 313606,
+        "word": "密室大逃脱",
+        "onboard_time": 1659090751,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296483,
+        "num": 296483,
+        "word": "里根号",
+        "onboard_time": 1659089913,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 253508,
+        "num": 253508,
+        "word": "宁波美籍男子故意杀人案二审开庭",
+        "onboard_time": 1659086617,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251666,
+        "num": 251666,
+        "word": "10岁男孩神还原敦煌飞天",
+        "onboard_time": 1659100413,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239317,
+        "num": 239317,
+        "word": "金正恩向中国人民志愿军烈士致敬",
+        "onboard_time": 1659086014,
+        "rank": 39,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 328527,
+        "num": 237140,
+        "word": "马蓝星 带我回家",
+        "onboard_time": 1659101914,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211655,
+        "num": 211655,
+        "word": "雷克萨斯声明",
+        "onboard_time": 1659094949,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211275,
+        "num": 211275,
+        "word": "你见过KPL教练打比赛吗",
+        "onboard_time": 1659102393,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199410,
+        "num": 199410,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659082230,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190233,
+        "num": 190233,
+        "word": "JackeyLove金克丝五杀",
+        "onboard_time": 1659092130,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172897,
+        "num": 172897,
+        "word": "成都锦江区疫情防控",
+        "onboard_time": 1659081750,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171399,
+        "num": 171399,
+        "word": "饿了么免单",
+        "onboard_time": 1659099511,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167397,
+        "num": 167397,
+        "word": "4个动作5天腿变直",
+        "onboard_time": 1659094109,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159285,
+        "num": 159285,
+        "word": "妇联调查女生超130斤禁入酒吧",
+        "onboard_time": 1659085651,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126367,
+        "num": 126367,
+        "word": "不同渠道展示的核酸结果有同等效力",
+        "onboard_time": 1659102813,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方元首通话#"
+    }
+  }
+}
