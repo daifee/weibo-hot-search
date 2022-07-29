@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659084192026,
+  "endTime": 1659087540910,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -17,6 +17,14 @@
       "onboard_time": 1659067718,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3236006,
+      "num": 3236006,
+      "word": "纸嫁衣声明",
+      "onboard_time": 1659083969,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 3080043,
@@ -41,6 +49,14 @@
       "onboard_time": 1659010298,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2711713,
+      "num": 2711713,
+      "word": "香港演唱会事故初步调查原因",
+      "onboard_time": 1659082049,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2529750,
@@ -83,12 +99,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 2134300,
-      "num": 2134300,
-      "word": "香港演唱会事故初步调查原因",
-      "onboard_time": 1659082049,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 2053793,
+      "num": 404489,
+      "word": "妻子带娃拒切洋葱被丈夫持刀捅死",
+      "onboard_time": 1659084150,
+      "rank": 47,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1971523,
@@ -96,6 +112,14 @@
       "word": "苏醒说以后不会在节目里唱跳了",
       "onboard_time": 1659079889,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1855013,
+      "num": 1855013,
+      "word": "于文文钢琴着火",
+      "onboard_time": 1659083790,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -219,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1221610,
+      "num": 535366,
+      "word": "胡军",
+      "onboard_time": 1659086190,
+      "rank": 22,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 1183742,
       "num": 1183742,
       "word": "中金回应90后交易员月入超8万",
@@ -257,6 +289,14 @@
       "onboard_time": 1659061172,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1124012,
+      "num": 521412,
+      "word": "金正恩向中国人民志愿军烈士致敬",
+      "onboard_time": 1659086014,
+      "rank": 39,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1084527,
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 853089,
-      "num": 569169,
+      "num": 771653,
       "word": "RNG官宣Ana替补",
       "onboard_time": 1659082650,
       "rank": 16,
@@ -491,20 +531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600049,
+      "num": 410200,
+      "word": "独行月球",
+      "onboard_time": 1659000513,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 599835,
       "num": 448924,
       "word": "二舅确为河北某村村民",
       "onboard_time": 1659050664,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591276,
-      "num": 397339,
-      "word": "于文文钢琴着火",
-      "onboard_time": 1659083790,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 590688,
@@ -659,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 497722,
+      "num": 497722,
+      "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+      "onboard_time": 1659086553,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494239,
       "num": 494239,
       "word": "灵猫传 停服",
       "onboard_time": 1659071616,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 490198,
+      "num": 407889,
+      "word": "吴磊看原著理清表演思路",
+      "onboard_time": 1659085711,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 489720,
@@ -683,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485763,
+      "num": 359851,
+      "word": "幸福到万家优酷2022播得最好的电视剧",
+      "onboard_time": 1659085350,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484271,
       "num": 340907,
       "word": "范丞丞新剧在工地搬砖",
@@ -696,6 +760,14 @@
       "word": "百辆违停车车牌被掰弯折叠",
       "onboard_time": 1659072092,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463840,
+      "num": 463840,
+      "word": "交警回应雷克萨斯车祸事故",
+      "onboard_time": 1659082289,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -731,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451595,
+      "num": 272651,
+      "word": "BLACKPINK新歌好听吗",
+      "onboard_time": 1659083611,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 450615,
       "num": 450615,
       "word": "王嘉尔新歌Cruel上线",
@@ -747,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446773,
+      "num": 446773,
+      "word": "王铭晖被开除党籍和公职",
+      "onboard_time": 1659083130,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446125,
       "num": 410752,
       "word": "乘风破浪",
@@ -761,14 +849,6 @@
       "onboard_time": 1659069937,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 441748,
-      "num": 274004,
-      "word": "独行月球",
-      "onboard_time": 1659000513,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 435554,
@@ -816,6 +896,14 @@
       "word": "邓稼先两弹奖金各10元",
       "onboard_time": 1659051386,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414222,
+      "num": 414222,
+      "word": "妇联调查女生超130斤禁入酒吧",
+      "onboard_time": 1659085651,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -867,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403846,
+      "num": 245487,
+      "word": "奔跑吧",
+      "onboard_time": 1659085112,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403486,
       "num": 303800,
       "word": "女子因升职压力大出现濒死感",
@@ -881,6 +977,22 @@
       "onboard_time": 1659054033,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401885,
+      "num": 401885,
+      "word": "宁波美籍男子故意杀人案二审开庭",
+      "onboard_time": 1659086617,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396078,
+      "num": 189455,
+      "word": "曾黎带糕点参加百花奖",
+      "onboard_time": 1659086673,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 394746,
@@ -945,6 +1057,14 @@
       "onboard_time": 1659064592,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355911,
+      "num": 212235,
+      "word": "花少团来张家界只办三件事",
+      "onboard_time": 1659085889,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 353357,
@@ -1035,14 +1155,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 319962,
-      "num": 319962,
-      "word": "王铭晖被开除党籍和公职",
-      "onboard_time": 1659083130,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319095,
       "num": 319095,
       "word": "关系最好的同事离开有多emo",
@@ -1064,14 +1176,6 @@
       "word": "成都地铁",
       "onboard_time": 1659053310,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297804,
-      "num": 297804,
-      "word": "交警回应雷克萨斯车祸事故",
-      "onboard_time": 1659082289,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1339,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 248450,
+      "num": 157634,
+      "word": "银保监会开封监管分局局长夏军被查",
+      "onboard_time": 1659087515,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 247774,
       "num": 247774,
       "word": "优化节假日时间分布你有啥建议",
@@ -1273,14 +1385,6 @@
       "onboard_time": 1659067718,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 230355,
-      "num": 230355,
-      "word": "纸嫁衣声明",
-      "onboard_time": 1659083969,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 230172,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1659063752,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220653,
+      "num": 220653,
+      "word": "帮猫咪劝架的狗狗",
+      "onboard_time": 1659084691,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 218582,
@@ -1467,14 +1579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185695,
-      "num": 181308,
-      "word": "妻子带娃拒切洋葱被丈夫持刀捅死",
-      "onboard_time": 1659084150,
-      "rank": 47,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 178607,
       "num": 178607,
       "word": "孕妇为什么一定要做唐筛",
@@ -1507,6 +1611,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "22岁加班猝死女孩医药费超40万",
+      "onboard_time": 1659087152,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168224,
       "num": 168224,
       "word": "月升沧海 甜",
@@ -1537,6 +1649,14 @@
       "onboard_time": 1659020380,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158421,
+      "num": 158421,
+      "word": "拍单人婚纱是什么体验",
+      "onboard_time": 1659087272,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 152988,
