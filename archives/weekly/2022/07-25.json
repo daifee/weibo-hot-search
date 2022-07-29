@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659080134868,
+  "endTime": 1659084192026,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -579,6 +579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2134300,
+      "num": 2134300,
+      "word": "香港演唱会事故初步调查原因",
+      "onboard_time": 1659082049,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2126213,
       "num": 2126213,
       "word": "工信部部长肖亚庆被查",
@@ -641,6 +649,14 @@
       "onboard_time": 1658819612,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1971523,
+      "num": 1971523,
+      "word": "苏醒说以后不会在节目里唱跳了",
+      "onboard_time": 1659079889,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1967366,
@@ -1291,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1309981,
+      "num": 1309981,
+      "word": "郑秀妍含泪回头",
+      "onboard_time": 1659081093,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304863,
       "num": 1304863,
       "word": "年轻人为什么越来越不爱买大牌",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1658715569,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1183742,
+      "num": 1183742,
+      "word": "中金回应90后交易员月入超8万",
+      "onboard_time": 1659078151,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 1173412,
@@ -2115,6 +2147,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 911182,
+      "num": 911182,
+      "word": "男童4楼坠落邻居一家用被子接住",
+      "onboard_time": 1659078271,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 910905,
       "num": 910905,
       "word": "嘉兴坠楼女孩和家人当面致谢",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1659006032,
       "rank": 13,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 853089,
+      "num": 569169,
+      "word": "RNG官宣Ana替补",
+      "onboard_time": 1659082650,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 850460,
@@ -2529,14 +2577,6 @@
       "onboard_time": 1659054271,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 776683,
-      "num": 776683,
-      "word": "中金回应90后交易员月入超8万",
-      "onboard_time": 1659078151,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 776559,
@@ -2915,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673252,
+      "num": 564281,
+      "word": "Mirror演唱会掉落巨屏重600公斤",
+      "onboard_time": 1659080788,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672580,
       "num": 672580,
       "word": "爱豆有必要开麦跳舞吗",
@@ -3155,14 +3203,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 625027,
-      "num": 625027,
-      "word": "男童4楼坠落邻居一家用被子接住",
-      "onboard_time": 1659078271,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 623928,
       "num": 623928,
       "word": "举报辽大老师性骚扰同学发声",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1658725713,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612141,
+      "num": 403474,
+      "word": "锦觅忘川听到的虐恋故事是颜淡的",
+      "onboard_time": 1659082770,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 608877,
@@ -3355,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591276,
+      "num": 397339,
+      "word": "于文文钢琴着火",
+      "onboard_time": 1659083790,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590688,
       "num": 590688,
       "word": "雷克萨斯回应车祸后车门打不开",
@@ -3377,6 +3433,14 @@
       "onboard_time": 1658810318,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 589215,
+      "num": 589215,
+      "word": "游客蹦极遇停电被悬吊空中",
+      "onboard_time": 1659078569,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 587876,
@@ -3979,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524393,
+      "num": 396323,
+      "word": "沈腾 独行月球",
+      "onboard_time": 1659079709,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523970,
       "num": 523970,
       "word": "湖北省考",
@@ -4105,6 +4177,14 @@
       "onboard_time": 1658828556,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506711,
+      "num": 506711,
+      "word": "接天莲叶无穷碧原来长这样",
+      "onboard_time": 1659080729,
+      "rank": 18,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 505106,
@@ -4281,14 +4361,6 @@
       "onboard_time": 1659057032,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 487166,
-      "num": 232436,
-      "word": "苏醒说以后不会在节目里唱跳了",
-      "onboard_time": 1659079889,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 486988,
@@ -4555,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460571,
+      "num": 273225,
+      "word": "马丽 独行月球",
+      "onboard_time": 1659083490,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 459521,
       "num": 459521,
       "word": "00后算是把录取通知书晒明白了",
@@ -4648,6 +4728,14 @@
       "word": "AK 冰箱",
       "onboard_time": 1658820276,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 452541,
+      "num": 276774,
+      "word": "赵今麦郭俊辰双人采访好甜",
+      "onboard_time": 1659081211,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -4947,6 +5035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425488,
+      "num": 425488,
+      "word": "成都锦江区疫情防控",
+      "onboard_time": 1659081750,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424989,
       "num": 424989,
       "word": "六旬老太一天吃八顿直喊饿",
@@ -5121,14 +5217,6 @@
       "onboard_time": 1658718932,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 415644,
-      "num": 415644,
-      "word": "游客蹦极遇停电被悬吊空中",
-      "onboard_time": 1659078569,
-      "rank": 41,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 414680,
@@ -5769,6 +5857,14 @@
       "onboard_time": 1658798369,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 372527,
+      "num": 372527,
+      "word": "基金",
+      "onboard_time": 1659080132,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 371472,
@@ -6555,6 +6651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320834,
+      "num": 320834,
+      "word": "雷克萨斯车祸起火致1死2伤",
+      "onboard_time": 1659081869,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 320269,
       "num": 320269,
       "word": "周劼称父亲并非副局长",
@@ -6569,6 +6673,14 @@
       "onboard_time": 1658843195,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319962,
+      "num": 319962,
+      "word": "王铭晖被开除党籍和公职",
+      "onboard_time": 1659083130,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319728,
@@ -6705,14 +6817,6 @@
       "onboard_time": 1658717250,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314083,
-      "num": 231116,
-      "word": "沈腾 独行月球",
-      "onboard_time": 1659079709,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 313687,
@@ -7003,6 +7107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297804,
+      "num": 297804,
+      "word": "交警回应雷克萨斯车祸事故",
+      "onboard_time": 1659082289,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297611,
       "num": 297611,
       "word": "重庆冰雹",
@@ -7251,6 +7363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289537,
+      "num": 289537,
+      "word": "最高检对于鲁明决定逮捕",
+      "onboard_time": 1659083669,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289442,
       "num": 289442,
       "word": "国足获得东亚杯季军",
@@ -7265,6 +7385,14 @@
       "onboard_time": 1658802090,
       "rank": 24,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 289252,
+      "num": 289252,
+      "word": "全家人戴口罩迎接龙凤胎新成员",
+      "onboard_time": 1659080671,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289208,
@@ -7889,6 +8017,14 @@
       "onboard_time": 1658747496,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 264498,
+      "num": 264498,
+      "word": "杭州青年基本实现通勤自由",
+      "onboard_time": 1659080788,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264167,
@@ -8547,6 +8683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234882,
+      "num": 234882,
+      "word": "儿科医院设置学习困难科",
+      "onboard_time": 1659077850,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 234697,
       "num": 234697,
       "word": "你有职场社交焦虑吗",
@@ -8649,6 +8793,14 @@
       "onboard_time": 1658717129,
       "rank": 34,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 230355,
+      "num": 230355,
+      "word": "纸嫁衣声明",
+      "onboard_time": 1659083969,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 230172,
@@ -8769,14 +8921,6 @@
       "onboard_time": 1658931514,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 226967,
-      "num": 230381,
-      "word": "儿科医院设置学习困难科",
-      "onboard_time": 1659077850,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 226946,
@@ -9027,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216031,
+      "num": 216031,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 215951,
       "num": 215951,
       "word": "一生行善的老人最后捐出了自己",
@@ -9153,14 +9305,6 @@
       "onboard_time": 1658799749,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210690,
-      "num": 210690,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 207775,
@@ -9337,6 +9481,14 @@
       "onboard_time": 1659003876,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 200436,
+      "num": 200436,
+      "word": "武磊要回来了",
+      "onboard_time": 1659079413,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 199950,
@@ -9635,6 +9787,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 185695,
+      "num": 181308,
+      "word": "妻子带娃拒切洋葱被丈夫持刀捅死",
+      "onboard_time": 1659084150,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 185627,
       "num": 185627,
       "word": "95后战士跳入河中2分钟救4人",
@@ -9769,14 +9929,6 @@
       "onboard_time": 1658746358,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178870,
-      "num": 178870,
-      "word": "武磊要回来了",
-      "onboard_time": 1659079413,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 178531,
@@ -10193,14 +10345,6 @@
       "onboard_time": 1658908651,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141776,
-      "num": 141776,
-      "word": "基金",
-      "onboard_time": 1659080132,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 141749,
