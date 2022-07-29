@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659073475726,
+  "endTime": 1659077179744,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -59,6 +59,30 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2414853,
+      "num": 2414853,
+      "word": "孟美岐音乐会票价",
+      "onboard_time": 1659075871,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2318808,
+      "num": 1837808,
+      "word": "情侣分手男子当场甩出2年消费清单",
+      "onboard_time": 1659072512,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1832424,
+      "num": 1832424,
+      "word": "迪奥抄袭马面裙",
+      "onboard_time": 1659072391,
+      "rank": 33,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 1800734,
       "num": 1800734,
       "word": "MIRROR演唱会舞台事故",
@@ -73,6 +97,14 @@
       "onboard_time": 1659059312,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1771785,
+      "num": 1771785,
+      "word": "微信开放红包封面定制",
+      "onboard_time": 1659075213,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 1690467,
@@ -131,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1304863,
+      "num": 1304863,
+      "word": "年轻人为什么越来越不爱买大牌",
+      "onboard_time": 1659071374,
+      "rank": 24,
+      "category": "情感,时尚"
+    },
+    {
       "raw_hot": 1237478,
       "num": 1237478,
       "word": "全国超1400万人承受60分钟以上极端通勤",
@@ -169,14 +209,6 @@
       "onboard_time": 1659060273,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1136034,
-      "num": 1136034,
-      "word": "迪奥抄袭马面裙",
-      "onboard_time": 1659072391,
-      "rank": 33,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1125162,
@@ -243,6 +275,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 862645,
+      "num": 862645,
+      "word": "丁泽仁曾去这街4端盘子",
+      "onboard_time": 1659075388,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 841275,
       "num": 841275,
       "word": "员工因加班猝死公司有没有责任",
@@ -275,12 +315,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 737249,
-      "num": 737249,
-      "word": "年轻人为什么越来越不爱买大牌",
-      "onboard_time": 1659071374,
-      "rank": 24,
-      "category": "情感,时尚"
+      "raw_hot": 751917,
+      "num": 751917,
+      "word": "BLACKPINK 建模",
+      "onboard_time": 1659073771,
+      "rank": 10,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 731581,
@@ -315,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650144,
+      "num": 650144,
+      "word": "疑女子未管教孩子遭店主怒甩耳光",
+      "onboard_time": 1659074130,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647744,
       "num": 647744,
       "word": "天才基本法 魔改",
@@ -347,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615293,
+      "num": 459929,
+      "word": "senorita杀疯了",
+      "onboard_time": 1659074791,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599835,
       "num": 448924,
       "word": "二舅确为河北某村村民",
@@ -377,6 +433,14 @@
       "onboard_time": 1659037753,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549805,
+      "num": 462626,
+      "word": "月升沧海最疯的人是谁",
+      "onboard_time": 1659073231,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 549703,
@@ -425,14 +489,6 @@
       "onboard_time": 1659066996,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 516106,
-      "num": 516106,
-      "word": "情侣分手男子当场甩出2年消费清单",
-      "onboard_time": 1659072512,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 502595,
@@ -499,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476386,
+      "num": 476386,
+      "word": "百辆违停车车牌被掰弯折叠",
+      "onboard_time": 1659072092,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459329,
       "num": 333247,
       "word": "少年出游记定档",
@@ -547,12 +611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 441346,
+      "num": 441346,
+      "word": "雷克萨斯回应车祸后车门打不开",
+      "onboard_time": 1659075570,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435554,
       "num": 435554,
       "word": "上海台风",
       "onboard_time": 1659070776,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427544,
+      "num": 427544,
+      "word": "龙吟",
+      "onboard_time": 1659074850,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 417455,
@@ -571,11 +651,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409502,
+      "num": 407305,
+      "word": "向往的生活蘑菇屋变照相馆",
+      "onboard_time": 1659072571,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409021,
       "num": 356339,
       "word": "来福好室说唱店官宣黄子韬",
       "onboard_time": 1659071016,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 408625,
+      "num": 278927,
+      "word": "真的爱你",
+      "onboard_time": 1659074911,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -681,14 +777,6 @@
       "onboard_time": 1659012398,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 347205,
-      "num": 347205,
-      "word": "百辆违停车车牌被掰弯折叠",
-      "onboard_time": 1659072092,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338118,
@@ -851,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269245,
+      "num": 211980,
+      "word": "独行月球票房破2亿",
+      "onboard_time": 1659076290,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263615,
       "num": 263615,
       "word": "独行月球",
@@ -865,14 +961,6 @@
       "onboard_time": 1659067297,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259142,
-      "num": 259142,
-      "word": "向往的生活蘑菇屋变照相馆",
-      "onboard_time": 1659072571,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 254540,
@@ -905,6 +993,14 @@
       "onboard_time": 1659070537,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236540,
+      "num": 236540,
+      "word": "那些回乡的人现在生活怎么样",
+      "onboard_time": 1659076412,
+      "rank": 37,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 235223,
@@ -987,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211815,
+      "num": 211815,
+      "word": "椅子腿涂芥末放图钉狗子照啃不误",
+      "onboard_time": 1659073416,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211194,
       "num": 211194,
       "word": "为一句等我回来她等到95岁了",
@@ -1009,14 +1113,6 @@
       "onboard_time": 1659060332,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206221,
-      "num": 206221,
-      "word": "月升沧海最疯的人是谁",
-      "onboard_time": 1659073231,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 199198,
@@ -1171,6 +1267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135373,
+      "num": 135373,
+      "word": "连猫咪的生活都过得比我好",
+      "onboard_time": 1659077010,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130488,
+      "num": 130488,
+      "word": "一群陌生人不约而同的选择",
+      "onboard_time": 1659076890,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130146,
       "num": 130146,
       "word": "杨紫登顶微博综艺视频榜",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1659012520,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119637,
+      "num": 119637,
+      "word": "江西专升本",
+      "onboard_time": 1659073891,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 105366,

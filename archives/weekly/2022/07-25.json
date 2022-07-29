@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659073475726,
+  "endTime": 1659077179744,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2414853,
+      "num": 2414853,
+      "word": "孟美岐音乐会票价",
+      "onboard_time": 1659075871,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2397509,
       "num": 2397509,
       "word": "男子网购60瓶饮料9.9包邮",
@@ -489,6 +497,14 @@
       "onboard_time": 1658717250,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2318808,
+      "num": 1837808,
+      "word": "情侣分手男子当场甩出2年消费清单",
+      "onboard_time": 1659072512,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 2285767,
@@ -683,6 +699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1832424,
+      "num": 1832424,
+      "word": "迪奥抄袭马面裙",
+      "onboard_time": 1659072391,
+      "rank": 33,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 1830977,
       "num": 1830977,
       "word": "你是我的荣耀再赴心动",
@@ -753,6 +777,14 @@
       "onboard_time": 1659059312,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1771785,
+      "num": 1771785,
+      "word": "微信开放红包封面定制",
+      "onboard_time": 1659075213,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 1752230,
@@ -1259,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1304863,
+      "num": 1304863,
+      "word": "年轻人为什么越来越不爱买大牌",
+      "onboard_time": 1659071374,
+      "rank": 24,
+      "category": "情感,时尚"
+    },
+    {
       "raw_hot": 1303217,
       "num": 745506,
       "word": "网传李沁试金鹰女神礼服",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1658821474,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1136034,
-      "num": 1136034,
-      "word": "迪奥抄袭马面裙",
-      "onboard_time": 1659072391,
-      "rank": 33,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1135728,
@@ -2203,6 +2235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 862645,
+      "num": 862645,
+      "word": "丁泽仁曾去这街4端盘子",
+      "onboard_time": 1659075388,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 850460,
       "num": 850460,
       "word": "俄罗斯决定绕过5G直接开发6G网络",
@@ -2579,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751917,
+      "num": 751917,
+      "word": "BLACKPINK 建模",
+      "onboard_time": 1659073771,
+      "rank": 10,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 751479,
       "num": 398419,
       "word": "江西省纪委介入调查周劼事件",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1659013302,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 737249,
-      "num": 737249,
-      "word": "年轻人为什么越来越不爱买大牌",
-      "onboard_time": 1659071374,
-      "rank": 24,
-      "category": "情感,时尚"
     },
     {
       "raw_hot": 734617,
@@ -2923,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650144,
+      "num": 650144,
+      "word": "疑女子未管教孩子遭店主怒甩耳光",
+      "onboard_time": 1659074130,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649130,
       "num": 649130,
       "word": "女生家庭聚餐被一群小朋友催婚",
@@ -3121,6 +3169,14 @@
       "onboard_time": 1658921132,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 615293,
+      "num": 459929,
+      "word": "senorita杀疯了",
+      "onboard_time": 1659074791,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 612402,
@@ -3595,6 +3651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549805,
+      "num": 462626,
+      "word": "月升沧海最疯的人是谁",
+      "onboard_time": 1659073231,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547423,
       "num": 547423,
       "word": "新生报到要交爷爷奶奶疫苗接种证明",
@@ -3921,14 +3985,6 @@
       "onboard_time": 1658838810,
       "rank": 27,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 516106,
-      "num": 516106,
-      "word": "情侣分手男子当场甩出2年消费清单",
-      "onboard_time": 1659072512,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 512097,
@@ -4289,6 +4345,14 @@
       "onboard_time": 1658729853,
       "rank": 16,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 476386,
+      "num": 476386,
+      "word": "百辆违停车车牌被掰弯折叠",
+      "onboard_time": 1659072092,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476255,
@@ -4659,6 +4723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 441346,
+      "num": 441346,
+      "word": "雷克萨斯回应车祸后车门打不开",
+      "onboard_time": 1659075570,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441091,
       "num": 424233,
       "word": "星汉灿烂",
@@ -4785,6 +4857,14 @@
       "onboard_time": 1658979569,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427544,
+      "num": 427544,
+      "word": "龙吟",
+      "onboard_time": 1659074850,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 427207,
@@ -5075,6 +5155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 409502,
+      "num": 407305,
+      "word": "向往的生活蘑菇屋变照相馆",
+      "onboard_time": 1659072571,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409099,
       "num": 409099,
       "word": "乐山一民警持枪击伤两人后驾车逃匿",
@@ -5105,6 +5193,14 @@
       "onboard_time": 1658747975,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408625,
+      "num": 278927,
+      "word": "真的爱你",
+      "onboard_time": 1659074911,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 408041,
@@ -5913,14 +6009,6 @@
       "onboard_time": 1658912793,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 347205,
-      "num": 347205,
-      "word": "百辆违停车车牌被掰弯折叠",
-      "onboard_time": 1659072092,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347159,
@@ -7579,6 +7667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 269245,
+      "num": 211980,
+      "word": "独行月球票房破2亿",
+      "onboard_time": 1659076290,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268918,
       "num": 268918,
       "word": "NV状态",
@@ -7817,14 +7913,6 @@
       "onboard_time": 1658712031,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259142,
-      "num": 259142,
-      "word": "向往的生活蘑菇屋变照相馆",
-      "onboard_time": 1659072571,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 258709,
@@ -8281,6 +8369,14 @@
       "onboard_time": 1658918851,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236540,
+      "num": 236540,
+      "word": "那些回乡的人现在生活怎么样",
+      "onboard_time": 1659076412,
+      "rank": 37,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 236534,
@@ -8899,6 +8995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211815,
+      "num": 211815,
+      "word": "椅子腿涂芥末放图钉狗子照啃不误",
+      "onboard_time": 1659073416,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211253,
       "num": 211253,
       "word": "外太空的莫扎特票房破2亿",
@@ -8961,14 +9065,6 @@
       "onboard_time": 1658980053,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 206221,
-      "num": 206221,
-      "word": "月升沧海最疯的人是谁",
-      "onboard_time": 1659073231,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 206180,
@@ -10003,6 +10099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 135373,
+      "num": 135373,
+      "word": "连猫咪的生活都过得比我好",
+      "onboard_time": 1659077010,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 134016,
       "num": 134016,
       "word": "沉香如屑对称美学",
@@ -10033,6 +10137,14 @@
       "onboard_time": 1658664510,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130488,
+      "num": 130488,
+      "word": "一群陌生人不约而同的选择",
+      "onboard_time": 1659076890,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130308,
@@ -10089,6 +10201,14 @@
       "onboard_time": 1658728411,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119637,
+      "num": 119637,
+      "word": "江西专升本",
+      "onboard_time": 1659073891,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 118112,
