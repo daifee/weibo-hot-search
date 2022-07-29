@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659094483351,
+  "endTime": 1659100190280,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2881425,
+      "num": 2881425,
+      "word": "中金人均年薪115万",
+      "onboard_time": 1659093569,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2711713,
       "num": 2711713,
       "word": "香港演唱会事故初步调查原因",
       "onboard_time": 1659082049,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2556103,
+      "num": 726540,
+      "word": "全球最大精子银行上调精子价格",
+      "onboard_time": 1659098674,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2529750,
@@ -115,6 +131,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 2159778,
+      "num": 2159778,
+      "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+      "onboard_time": 1659096329,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2053793,
       "num": 404489,
       "word": "妻子带娃拒切洋葱被丈夫持刀捅死",
@@ -129,6 +153,14 @@
       "onboard_time": 1659079889,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1940181,
+      "num": 1940181,
+      "word": "被晒月薪超8万中金员工停职调查",
+      "onboard_time": 1659093150,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1855013,
@@ -339,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105025,
+      "num": 1105025,
+      "word": "里根号航母进南海想干啥",
+      "onboard_time": 1659095969,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1084527,
       "num": 1084527,
       "word": "22岁加班猝死女孩哥哥因车祸去世",
       "onboard_time": 1659057571,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066928,
+      "num": 1066928,
+      "word": "杨紫乔欣有友情但不多",
+      "onboard_time": 1659098133,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1057561,
@@ -371,12 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975519,
+      "num": 975519,
+      "word": "为什么好朋友关系会变淡",
+      "onboard_time": 1659092310,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 971654,
       "num": 971654,
       "word": "快乐再出发豆瓣9.5升至9.6",
       "onboard_time": 1659068356,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 954189,
+      "num": 954189,
+      "word": "许凯钟楚曦吵架一秒和好",
+      "onboard_time": 1659097889,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 950805,
@@ -483,6 +547,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 764600,
+      "num": 764600,
+      "word": "平潭",
+      "onboard_time": 1659094407,
+      "rank": 49,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 751917,
       "num": 751917,
       "word": "BLACKPINK 建模",
@@ -491,20 +563,20 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 748592,
+      "num": 748592,
+      "word": "福建平潭局部海域实弹射击训练",
+      "onboard_time": 1659097588,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 731581,
       "num": 731581,
       "word": "奔跑吧今晚是黄金争夺战",
       "onboard_time": 1659063930,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 728906,
-      "num": 728906,
-      "word": "为什么好朋友关系会变淡",
-      "onboard_time": 1659092310,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 688327,
@@ -523,8 +595,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 652382,
-      "num": 642482,
+      "raw_hot": 676359,
+      "num": 676359,
+      "word": "同学录是全国统一的吗",
+      "onboard_time": 1659096630,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 675441,
+      "num": 675441,
       "word": "独行月球",
       "onboard_time": 1659000513,
       "rank": 25,
@@ -595,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 630869,
-      "num": 630869,
-      "word": "中金人均年薪115万",
-      "onboard_time": 1659093569,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 627351,
       "num": 627351,
       "word": "我爱你所以你不用是招娣",
@@ -643,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597038,
+      "num": 418660,
+      "word": "马嘉祺演的乡村爱情故事赵四",
+      "onboard_time": 1659094829,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590688,
       "num": 590688,
       "word": "雷克萨斯回应车祸后车门打不开",
@@ -673,6 +753,14 @@
       "onboard_time": 1659069754,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 567872,
+      "num": 423310,
+      "word": "宋亚轩演微笑pasta何群",
+      "onboard_time": 1659097833,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 557793,
@@ -753,6 +841,14 @@
       "onboard_time": 1659066996,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521143,
+      "num": 521143,
+      "word": "郭艾伦",
+      "onboard_time": 1659097110,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 506711,
@@ -923,14 +1019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 450743,
-      "num": 450743,
-      "word": "被晒月薪超8万中金员工停职调查",
-      "onboard_time": 1659093150,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 450615,
       "num": 450615,
       "word": "王嘉尔新歌Cruel上线",
@@ -969,6 +1057,14 @@
       "onboard_time": 1659069937,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 441045,
+      "num": 441045,
+      "word": "若美方挑战中方底线必遭坚决反制",
+      "onboard_time": 1659096931,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 435554,
@@ -1084,7 +1180,7 @@
     },
     {
       "raw_hot": 403846,
-      "num": 245487,
+      "num": 313466,
       "word": "奔跑吧",
       "onboard_time": 1659085112,
       "rank": 32,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1659054450,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380945,
+      "num": 313658,
+      "word": "花儿与少年",
+      "onboard_time": 1659098310,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 372527,
@@ -1259,12 +1363,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 328614,
+      "num": 222690,
+      "word": "林朝夕被裴之送进警局",
+      "onboard_time": 1659096451,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 328053,
+      "num": 180928,
+      "word": "草莓芝士林朝夕见面",
+      "onboard_time": 1659098011,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326587,
       "num": 326587,
       "word": "原神须弥",
       "onboard_time": 1659071734,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325098,
+      "num": 325098,
+      "word": "警方通报雷克萨斯车祸致1死2伤",
+      "onboard_time": 1659092848,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325002,
@@ -1315,12 +1443,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314022,
+      "num": 314022,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 313687,
       "num": 313687,
       "word": "年轻人为何躲不过装修的坑",
       "onboard_time": 1659078090,
       "rank": 45,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 312733,
+      "num": 312733,
+      "word": "WBG对战LGD",
+      "onboard_time": 1659097952,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 311263,
+      "num": 311263,
+      "word": "雷克萨斯声明",
+      "onboard_time": 1659094949,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308146,
@@ -1331,12 +1483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304075,
+      "num": 261182,
+      "word": "少年派",
+      "onboard_time": 1659099392,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297041,
       "num": 297041,
       "word": "年轻人如何有效送礼",
       "onboard_time": 1659066151,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295972,
+      "num": 251928,
+      "word": "丁程鑫花儿与少年攀岩花絮图",
+      "onboard_time": 1659099031,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 295736,
@@ -1387,20 +1555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286907,
-      "num": 286907,
-      "word": "警方通报雷克萨斯车祸致1死2伤",
-      "onboard_time": 1659092848,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286551,
       "num": 286551,
       "word": "拍单人婚纱是什么体验",
       "onboard_time": 1659087272,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285477,
+      "num": 186291,
+      "word": "蔡徐坤hugme合唱挑战",
+      "onboard_time": 1659096209,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 283431,
@@ -1499,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253626,
+      "num": 1662794,
+      "word": "原来眼泪并不能排毒",
+      "onboard_time": 1659095909,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251360,
       "num": 251360,
       "word": "民警带嫌疑人孕检偶遇孕妻",
@@ -1539,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243273,
+      "num": 243273,
+      "word": "4个动作5天腿变直",
+      "onboard_time": 1659094109,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236717,
       "num": 236717,
       "word": "西安交大男篮晋级全国四强",
@@ -1577,6 +1761,14 @@
       "onboard_time": 1659067718,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232714,
+      "num": 232714,
+      "word": "饿了么免单",
+      "onboard_time": 1659099511,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 231461,
@@ -1641,14 +1833,6 @@
       "onboard_time": 1659084691,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219351,
-      "num": 219351,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 218582,
@@ -1787,14 +1971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188335,
-      "num": 188335,
-      "word": "4个动作5天腿变直",
-      "onboard_time": 1659094109,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178607,
       "num": 178607,
       "word": "孕妇为什么一定要做唐筛",
@@ -1891,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139952,
+      "num": 139952,
+      "word": "发现了生活中的可爱",
+      "onboard_time": 1659095068,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130488,
       "num": 130488,
       "word": "一群陌生人不约而同的选择",
@@ -1931,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120466,
-      "num": 120466,
-      "word": "平潭",
-      "onboard_time": 1659094407,
-      "rank": 49,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 119637,
       "num": 119637,
       "word": "江西专升本",
@@ -1977,6 +2153,14 @@
       "onboard_time": 1659027502,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 71912,
+      "num": 1447695,
+      "word": "4分钟看解放军军服演变史",
+      "onboard_time": 1659099332,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 50021,

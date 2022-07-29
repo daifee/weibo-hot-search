@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659094483351,
+  "endTime": 1659100190280,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -323,6 +323,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2881425,
+      "num": 2881425,
+      "word": "中金人均年薪115万",
+      "onboard_time": 1659093569,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2842050,
       "num": 2842050,
       "word": "啊泽",
@@ -433,6 +441,14 @@
       "onboard_time": 1658908532,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2556103,
+      "num": 726540,
+      "word": "全球最大精子银行上调精子价格",
+      "onboard_time": 1659098674,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2529750,
@@ -603,6 +619,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2159778,
+      "num": 2159778,
+      "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+      "onboard_time": 1659096329,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2147524,
       "num": 2147524,
       "word": "何同学工作室回应",
@@ -705,6 +729,14 @@
       "onboard_time": 1658717791,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1940181,
+      "num": 1940181,
+      "word": "被晒月薪超8万中金员工停职调查",
+      "onboard_time": 1659093150,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1938889,
@@ -1763,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1105025,
+      "num": 1105025,
+      "word": "里根号航母进南海想干啥",
+      "onboard_time": 1659095969,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1104454,
       "num": 1104454,
       "word": "夏日祭在全国设置21场活动",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1658844755,
       "rank": 38,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 1066928,
+      "num": 1066928,
+      "word": "杨紫乔欣有友情但不多",
+      "onboard_time": 1659098133,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1066151,
@@ -2051,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975519,
+      "num": 975519,
+      "word": "为什么好朋友关系会变淡",
+      "onboard_time": 1659092310,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 975260,
       "num": 975260,
       "word": "与凤行定妆照",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1658812834,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 954189,
+      "num": 954189,
+      "word": "许凯钟楚曦吵架一秒和好",
+      "onboard_time": 1659097889,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 950805,
@@ -2755,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 764600,
+      "num": 764600,
+      "word": "平潭",
+      "onboard_time": 1659094407,
+      "rank": 49,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 761626,
       "num": 761626,
       "word": "711门店不明码标价获利超4千",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1658804851,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 748592,
+      "num": 748592,
+      "word": "福建平潭局部海域实弹射击训练",
+      "onboard_time": 1659097588,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 746767,
@@ -2872,14 +2952,6 @@
       "word": "异地恋分手应该再见一面吗",
       "onboard_time": 1658978910,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 728906,
-      "num": 728906,
-      "word": "为什么好朋友关系会变淡",
-      "onboard_time": 1659092310,
-      "rank": 19,
       "category": "情感"
     },
     {
@@ -3067,6 +3139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676359,
+      "num": 676359,
+      "word": "同学录是全国统一的吗",
+      "onboard_time": 1659096630,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 675441,
+      "num": 675441,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675319,
       "num": 392647,
       "word": "网传鹿晗录制毛雪汪",
@@ -3129,14 +3217,6 @@
       "onboard_time": 1658816855,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 652382,
-      "num": 642482,
-      "word": "独行月球",
-      "onboard_time": 1658921132,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 651289,
@@ -3281,14 +3361,6 @@
       "onboard_time": 1658880090,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 630869,
-      "num": 630869,
-      "word": "中金人均年薪115万",
-      "onboard_time": 1659093569,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 630217,
@@ -3515,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597038,
+      "num": 418660,
+      "word": "马嘉祺演的乡村爱情故事赵四",
+      "onboard_time": 1659094829,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596331,
       "num": 596331,
       "word": "Doggie 冰箱",
@@ -3737,6 +3817,14 @@
       "onboard_time": 1658679152,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567872,
+      "num": 423310,
+      "word": "宋亚轩演微笑pasta何群",
+      "onboard_time": 1659097833,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 566506,
@@ -4201,6 +4289,14 @@
       "onboard_time": 1659066996,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521143,
+      "num": 521143,
+      "word": "郭艾伦",
+      "onboard_time": 1659097110,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 520965,
@@ -4923,14 +5019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 450743,
-      "num": 450743,
-      "word": "被晒月薪超8万中金员工停职调查",
-      "onboard_time": 1659093150,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 450615,
       "num": 450615,
       "word": "王嘉尔新歌Cruel上线",
@@ -5073,6 +5161,14 @@
       "onboard_time": 1658728652,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441045,
+      "num": 441045,
+      "word": "若美方挑战中方底线必遭坚决反制",
+      "onboard_time": 1659096931,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 438514,
@@ -5652,7 +5748,7 @@
     },
     {
       "raw_hot": 403846,
-      "num": 245487,
+      "num": 313466,
       "word": "奔跑吧",
       "onboard_time": 1659085112,
       "rank": 32,
@@ -6001,6 +6097,14 @@
       "onboard_time": 1658668234,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 380945,
+      "num": 313658,
+      "word": "花儿与少年",
+      "onboard_time": 1659098310,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 380807,
@@ -6747,12 +6851,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 328614,
+      "num": 222690,
+      "word": "林朝夕被裴之送进警局",
+      "onboard_time": 1659096451,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328184,
       "num": 328184,
       "word": "警方调查祭奠网站设日本战犯纪念堂",
       "onboard_time": 1658897558,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328053,
+      "num": 180928,
+      "word": "草莓芝士林朝夕见面",
+      "onboard_time": 1659098011,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 328017,
@@ -6841,6 +6961,14 @@
       "onboard_time": 1658704041,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325098,
+      "num": 325098,
+      "word": "警方通报雷克萨斯车祸致1死2伤",
+      "onboard_time": 1659092848,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324306,
@@ -7067,6 +7195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314022,
+      "num": 314022,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 313687,
       "num": 313687,
       "word": "年轻人为何躲不过装修的坑",
@@ -7081,6 +7217,14 @@
       "onboard_time": 1658821172,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312733,
+      "num": 312733,
+      "word": "WBG对战LGD",
+      "onboard_time": 1659097952,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 312463,
@@ -7121,6 +7265,14 @@
       "onboard_time": 1658726313,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311263,
+      "num": 311263,
+      "word": "雷克萨斯声明",
+      "onboard_time": 1659094949,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310504,
@@ -7263,6 +7415,14 @@
       "num": 221097,
       "word": "谭松韵为钟楚曦新剧宣传",
       "onboard_time": 1658897378,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304075,
+      "num": 261182,
+      "word": "少年派",
+      "onboard_time": 1659099392,
       "rank": 33,
       "category": "影视"
     },
@@ -7417,6 +7577,14 @@
       "onboard_time": 1658909730,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295972,
+      "num": 251928,
+      "word": "丁程鑫花儿与少年攀岩花絮图",
+      "onboard_time": 1659099031,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 295736,
@@ -7731,20 +7899,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286907,
-      "num": 286907,
-      "word": "警方通报雷克萨斯车祸致1死2伤",
-      "onboard_time": 1659092848,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286551,
       "num": 286551,
       "word": "拍单人婚纱是什么体验",
       "onboard_time": 1659087272,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285477,
+      "num": 186291,
+      "word": "蔡徐坤hugme合唱挑战",
+      "onboard_time": 1659096209,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 285150,
@@ -8547,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253626,
+      "num": 1662794,
+      "word": "原来眼泪并不能排毒",
+      "onboard_time": 1659095909,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253485,
       "num": 253485,
       "word": "二舅治愈的是什么",
@@ -8777,6 +8953,14 @@
       "onboard_time": 1658805751,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243273,
+      "num": 243273,
+      "word": "4个动作5天腿变直",
+      "onboard_time": 1659094109,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 242427,
@@ -9385,14 +9569,6 @@
       "onboard_time": 1659084691,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219351,
-      "num": 219351,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 219263,
@@ -10051,14 +10227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188335,
-      "num": 188335,
-      "word": "4个动作5天腿变直",
-      "onboard_time": 1659094109,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187828,
       "num": 187828,
       "word": "外交部回应所谓中国试图渗透美联储",
@@ -10675,6 +10843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139952,
+      "num": 139952,
+      "word": "发现了生活中的可爱",
+      "onboard_time": 1659095068,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139642,
       "num": 139642,
       "word": "82岁爷爷生日孙子送上清华通知书",
@@ -10801,14 +10977,6 @@
       "onboard_time": 1658728411,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120466,
-      "num": 120466,
-      "word": "平潭",
-      "onboard_time": 1659094407,
-      "rank": 49,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 119637,
@@ -11049,6 +11217,14 @@
       "onboard_time": 1658945056,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71912,
+      "num": 1447695,
+      "word": "4分钟看解放军军服演变史",
+      "onboard_time": 1659099332,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 71167,

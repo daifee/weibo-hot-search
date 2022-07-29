@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1659094483351,
+  "endTime": 1659100190280,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -941,6 +941,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2881425,
+      "num": 2881425,
+      "word": "中金人均年薪115万",
+      "onboard_time": 1659093569,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2862036,
       "num": 2862036,
       "word": "我国不再新建500米以上高楼",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1658908532,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2556103,
+      "num": 726540,
+      "word": "全球最大精子银行上调精子价格",
+      "onboard_time": 1659098674,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2550730,
@@ -1675,6 +1691,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2159778,
+      "num": 2159778,
+      "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+      "onboard_time": 1659096329,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2156157,
       "num": 2156157,
       "word": "女生被骗3万后不服气又被骗5万",
@@ -1893,6 +1917,14 @@
       "onboard_time": 1658717791,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1940181,
+      "num": 1940181,
+      "word": "被晒月薪超8万中金员工停职调查",
+      "onboard_time": 1659093150,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1938889,
@@ -4701,6 +4733,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1105025,
+      "num": 1105025,
+      "word": "里根号航母进南海想干啥",
+      "onboard_time": 1659095969,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1104454,
       "num": 1104454,
       "word": "夏日祭在全国设置21场活动",
@@ -4922,6 +4962,14 @@
       "onboard_time": 1658218534,
       "rank": 5,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 1066928,
+      "num": 1066928,
+      "word": "杨紫乔欣有友情但不多",
+      "onboard_time": 1659098133,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1066416,
@@ -5473,6 +5521,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 975519,
+      "num": 975519,
+      "word": "为什么好朋友关系会变淡",
+      "onboard_time": 1659092310,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 975260,
       "num": 975260,
       "word": "与凤行定妆照",
@@ -5615,6 +5671,14 @@
       "onboard_time": 1658455830,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954189,
+      "num": 954189,
+      "word": "许凯钟楚曦吵架一秒和好",
+      "onboard_time": 1659097889,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 952721,
@@ -7181,6 +7245,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 764600,
+      "num": 764600,
+      "word": "平潭",
+      "onboard_time": 1659094407,
+      "rank": 49,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 763436,
       "num": 763436,
       "word": "女子留宿多名网恋男友家实施盗窃",
@@ -7373,6 +7445,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 748592,
+      "num": 748592,
+      "word": "福建平潭局部海域实弹射击训练",
+      "onboard_time": 1659097588,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 746767,
       "num": 746767,
       "word": "Irene首个单独综艺",
@@ -7523,14 +7603,6 @@
       "onboard_time": 1658670633,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 728906,
-      "num": 728906,
-      "word": "为什么好朋友关系会变淡",
-      "onboard_time": 1659092310,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 728161,
@@ -8137,6 +8209,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676359,
+      "num": 676359,
+      "word": "同学录是全国统一的吗",
+      "onboard_time": 1659096630,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 676306,
       "num": 650079,
       "word": "人生若如初见更新6集",
@@ -8150,6 +8230,14 @@
       "word": "深圳核酸",
       "onboard_time": 1658051131,
       "rank": 6
+    },
+    {
+      "raw_hot": 675441,
+      "num": 675441,
+      "word": "独行月球",
+      "onboard_time": 1658921132,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 675319,
@@ -8365,14 +8453,6 @@
       "onboard_time": 1658195187,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652382,
-      "num": 642482,
-      "word": "独行月球",
-      "onboard_time": 1658921132,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 651963,
@@ -8715,14 +8795,6 @@
       "onboard_time": 1658880090,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 630869,
-      "num": 630869,
-      "word": "中金人均年薪115万",
-      "onboard_time": 1659093569,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 630768,
@@ -9277,6 +9349,14 @@
       "onboard_time": 1658639132,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597038,
+      "num": 418660,
+      "word": "马嘉祺演的乡村爱情故事赵四",
+      "onboard_time": 1659094829,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 596732,
@@ -9858,6 +9938,14 @@
       "onboard_time": 1658298510,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 567872,
+      "num": 423310,
+      "word": "宋亚轩演微笑pasta何群",
+      "onboard_time": 1659097833,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 567346,
@@ -10830,6 +10918,14 @@
       "onboard_time": 1658423960,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 521143,
+      "num": 521143,
+      "word": "郭艾伦",
+      "onboard_time": 1659097110,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 519770,
@@ -12433,14 +12529,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 450743,
-      "num": 450743,
-      "word": "被晒月薪超8万中金员工停职调查",
-      "onboard_time": 1659093150,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 450615,
       "num": 450615,
       "word": "王嘉尔新歌Cruel上线",
@@ -12708,6 +12796,14 @@
       "onboard_time": 1658294672,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 441045,
+      "num": 441045,
+      "word": "若美方挑战中方底线必遭坚决反制",
+      "onboard_time": 1659096931,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 441039,
@@ -14064,7 +14160,7 @@
     },
     {
       "raw_hot": 403846,
-      "num": 245487,
+      "num": 313466,
       "word": "奔跑吧",
       "onboard_time": 1658495495,
       "rank": 40,
@@ -14921,6 +15017,14 @@
       "onboard_time": 1658663850,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 380945,
+      "num": 313658,
+      "word": "花儿与少年",
+      "onboard_time": 1659098310,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 380743,
@@ -17009,6 +17113,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 328614,
+      "num": 222690,
+      "word": "林朝夕被裴之送进警局",
+      "onboard_time": 1659096451,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328431,
       "num": 328431,
       "word": "梦泪模仿葛大爷",
@@ -17039,6 +17151,14 @@
       "onboard_time": 1658897558,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328053,
+      "num": 180928,
+      "word": "草莓芝士林朝夕见面",
+      "onboard_time": 1659098011,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 328017,
@@ -17173,6 +17293,14 @@
       "onboard_time": 1658704041,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325098,
+      "num": 325098,
+      "word": "警方通报雷克萨斯车祸致1死2伤",
+      "onboard_time": 1659092848,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325086,
@@ -17662,6 +17790,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314022,
+      "num": 314022,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 313687,
       "num": 313687,
       "word": "年轻人为何躲不过装修的坑",
@@ -17717,6 +17853,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312733,
+      "num": 312733,
+      "word": "WBG对战LGD",
+      "onboard_time": 1659097952,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312463,
       "num": 291709,
       "word": "刘宇芭莎男士金发大片",
@@ -17763,6 +17907,14 @@
       "onboard_time": 1658377898,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311263,
+      "num": 311263,
+      "word": "雷克萨斯声明",
+      "onboard_time": 1659094949,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310924,
@@ -18473,6 +18625,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295972,
+      "num": 251928,
+      "word": "丁程鑫花儿与少年攀岩花絮图",
+      "onboard_time": 1659099031,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295903,
       "num": 275255,
       "word": "赵本山徒弟律师声明",
@@ -19101,14 +19261,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286907,
-      "num": 286907,
-      "word": "警方通报雷克萨斯车祸致1死2伤",
-      "onboard_time": 1659092848,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286892,
       "num": 286892,
       "word": "stayc回归",
@@ -19186,6 +19338,14 @@
       "onboard_time": 1658641892,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285477,
+      "num": 186291,
+      "word": "蔡徐坤hugme合唱挑战",
+      "onboard_time": 1659096209,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 285240,
@@ -20967,6 +21127,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253626,
+      "num": 1662794,
+      "word": "原来眼泪并不能排毒",
+      "onboard_time": 1659095909,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253485,
       "num": 253485,
       "word": "二舅治愈的是什么",
@@ -21626,6 +21794,14 @@
       "onboard_time": 1658805751,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243273,
+      "num": 243273,
+      "word": "4个动作5天腿变直",
+      "onboard_time": 1659094109,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 242741,
@@ -22976,14 +23152,6 @@
       "onboard_time": 1658239051,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219351,
-      "num": 219351,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 219263,
@@ -24724,14 +24892,6 @@
       "onboard_time": 1658530217,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188335,
-      "num": 188335,
-      "word": "4个动作5天腿变直",
-      "onboard_time": 1659094109,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 188290,
@@ -26691,6 +26851,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 139952,
+      "num": 139952,
+      "word": "发现了生活中的可爱",
+      "onboard_time": 1659095068,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139642,
       "num": 139642,
       "word": "82岁爷爷生日孙子送上清华通知书",
@@ -27216,14 +27384,6 @@
       "onboard_time": 1658652332,
       "rank": 42,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 120466,
-      "num": 120466,
-      "word": "平潭",
-      "onboard_time": 1659094407,
-      "rank": 49,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 120444,
@@ -27831,6 +27991,14 @@
       "onboard_time": 1658372432,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71912,
+      "num": 1447695,
+      "word": "4分钟看解放军军服演变史",
+      "onboard_time": 1659099332,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 71464,
