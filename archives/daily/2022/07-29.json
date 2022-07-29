@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659068915871,
+  "endTime": 1659071255205,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2946004,
-      "num": 488839,
+      "num": 517298,
       "word": "辣目洋子道歉",
       "onboard_time": 1659021166,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1659017443,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2190420,
+      "num": 2190420,
+      "word": "调休",
+      "onboard_time": 1659067718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1800734,
@@ -67,6 +75,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1674353,
+      "num": 1674353,
+      "word": "二舅镇上干部回应",
+      "onboard_time": 1659067358,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1458643,
       "num": 1458643,
       "word": "沉香如屑断更",
@@ -75,12 +91,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1399008,
+      "num": 1399008,
+      "word": "上海男生真的会让人放心爱",
+      "onboard_time": 1659066635,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1372689,
+      "num": 1372689,
+      "word": "消费者曝称乌江榨菜里吃出脚指甲",
+      "onboard_time": 1659067899,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1361463,
       "num": 1361463,
       "word": "成华区疫情防控",
       "onboard_time": 1659021641,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1227179,
+      "num": 1227179,
+      "word": "华晨宇包场支持独行月球",
+      "onboard_time": 1659066877,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1155700,
+      "num": 1155700,
+      "word": "BLACKPINK新歌MV",
+      "onboard_time": 1659069457,
+      "rank": 8,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 1149928,
@@ -107,28 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1072060,
-      "num": 1072060,
-      "word": "上海男生真的会让人放心爱",
-      "onboard_time": 1659066635,
-      "rank": 14,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1011748,
-      "num": 840417,
-      "word": "二舅镇上干部回应",
-      "onboard_time": 1659067358,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 978622,
       "num": 978622,
       "word": "李钟硕林允儿新剧今日开播",
       "onboard_time": 1659064953,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 971654,
+      "num": 971654,
+      "word": "快乐再出发豆瓣9.5升至9.6",
+      "onboard_time": 1659068356,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 933131,
@@ -163,6 +203,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 841275,
+      "num": 841275,
+      "word": "员工因加班猝死公司有没有责任",
+      "onboard_time": 1659067053,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828446,
+      "num": 828446,
+      "word": "全国超1400万人承受60分钟以上极端通勤",
+      "onboard_time": 1659069697,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816394,
       "num": 816394,
       "word": "台海巡队强行查扣大陆渔船",
@@ -171,20 +227,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 814506,
-      "num": 814506,
-      "word": "华晨宇包场支持独行月球",
-      "onboard_time": 1659066877,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 784621,
-      "num": 784621,
-      "word": "快乐再出发豆瓣9.5升至9.6",
-      "onboard_time": 1659068356,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 813139,
+      "num": 813139,
+      "word": "MIRROR方道歉",
+      "onboard_time": 1659068558,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 777068,
@@ -211,11 +259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 654667,
-      "num": 654667,
-      "word": "调休",
-      "onboard_time": 1659067718,
-      "rank": 14,
+      "raw_hot": 682679,
+      "num": 682679,
+      "word": "富士山",
+      "onboard_time": 1659066877,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -323,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502595,
+      "num": 502595,
+      "word": "中金",
+      "onboard_time": 1659054091,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500433,
       "num": 500433,
       "word": "钱三一不会有毕业典礼了",
@@ -371,20 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 483497,
-      "num": 483497,
-      "word": "中金",
-      "onboard_time": 1659054091,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482650,
-      "num": 482650,
-      "word": "员工因加班猝死公司有没有责任",
-      "onboard_time": 1659067053,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 473763,
+      "num": 221207,
+      "word": "王心凌乘风破浪秒变演唱会",
+      "onboard_time": 1659071197,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 459329,
@@ -403,19 +451,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433680,
-      "num": 334108,
-      "word": "MIRROR方道歉",
-      "onboard_time": 1659068558,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 445145,
+      "num": 445145,
+      "word": "今天星期五",
+      "onboard_time": 1659069937,
+      "rank": 24,
+      "category": "情感"
     },
     {
-      "raw_hot": 419675,
-      "num": 419675,
-      "word": "富士山",
-      "onboard_time": 1659066877,
-      "rank": 28,
+      "raw_hot": 429134,
+      "num": 429134,
+      "word": "动物园回应老虎身形消瘦趴地吃草",
+      "onboard_time": 1659070056,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -435,19 +483,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409021,
+      "num": 356339,
+      "word": "来福好室说唱店官宣黄子韬",
+      "onboard_time": 1659071016,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408041,
       "num": 408041,
       "word": "西安一公司为防泄密监控员工手机",
       "onboard_time": 1659059371,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406869,
-      "num": 406869,
-      "word": "消费者曝称乌江榨菜里吃出脚指甲",
-      "onboard_time": 1659067899,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -515,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360421,
+      "num": 360421,
+      "word": "奶奶对着摄像头和孙子分享日常",
+      "onboard_time": 1659064592,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353357,
       "num": 353357,
       "word": "在肯德基装睡的爸爸",
@@ -531,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351855,
+      "num": 351855,
+      "word": "6岁脑瘫女孩给母亲展示蹲马步",
+      "onboard_time": 1659069397,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349427,
       "num": 349427,
       "word": "月升沧海 剧情",
       "onboard_time": 1659012398,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348332,
+      "num": 348332,
+      "word": "中华小子",
+      "onboard_time": 1659069754,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 338118,
@@ -553,14 +625,6 @@
       "onboard_time": 1659055834,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 326212,
-      "num": 326212,
-      "word": "奶奶对着摄像头和孙子分享日常",
-      "onboard_time": 1659064592,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325002,
@@ -651,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279982,
+      "num": 279982,
+      "word": "上海台风",
+      "onboard_time": 1659070776,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278633,
       "num": 278633,
       "word": "官方回应哈啰员工破坏70辆美团单车",
@@ -699,6 +771,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262336,
+      "num": 262336,
+      "word": "成都新增本土确诊15例无症状27例",
+      "onboard_time": 1659067297,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254540,
+      "num": 254540,
+      "word": "LOL手游卡萨丁上线",
+      "onboard_time": 1659069037,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251360,
       "num": 251360,
       "word": "民警带嫌疑人孕检偶遇孕妻",
@@ -715,11 +803,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 236757,
-      "num": 236757,
-      "word": "成都新增本土确诊15例无症状27例",
-      "onboard_time": 1659067297,
-      "rank": 46,
+      "raw_hot": 247774,
+      "num": 247774,
+      "word": "优化节假日时间分布你有啥建议",
+      "onboard_time": 1659070537,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -744,6 +832,14 @@
       "word": "甘肃增21例确诊112例无症状",
       "onboard_time": 1659059912,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229411,
+      "num": 229411,
+      "word": "杭州街头爱心冰柜引路人自发接力",
+      "onboard_time": 1659070955,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -801,6 +897,14 @@
       "onboard_time": 1659019365,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211194,
+      "num": 211194,
+      "word": "为一句等我回来她等到95岁了",
+      "onboard_time": 1659068734,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208964,
@@ -891,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177699,
-      "num": 177699,
-      "word": "为一句等我回来她等到95岁了",
-      "onboard_time": 1659068734,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176233,
       "num": 176233,
       "word": "支付宝可一键取消自动扣款",
@@ -971,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141042,
+      "num": 1853751,
+      "word": "从卫星视角看国家公园",
+      "onboard_time": 1659066877,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130146,
       "num": 130146,
       "word": "杨紫登顶微博综艺视频榜",
@@ -1008,14 +1112,6 @@
       "word": "奶奶对着新装可视门铃开心晒日常",
       "onboard_time": 1659022361,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98131,
-      "num": 1489041,
-      "word": "从卫星视角看国家公园",
-      "onboard_time": 1659066877,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
