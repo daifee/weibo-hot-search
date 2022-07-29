@@ -1,0 +1,410 @@
+{
+  "runTime": 1659068915871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4702398,
+        "num": 4702398,
+        "word": "抖音崩了",
+        "onboard_time": 1659065373,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1458643,
+        "num": 1458643,
+        "word": "沉香如屑断更",
+        "onboard_time": 1659064472,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98131,
+        "num": 1408919,
+        "word": "从卫星视角看国家公园",
+        "onboard_time": 1659066877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1389526,
+        "num": 1389526,
+        "word": "女生每天跳操2小时致肌肉溶解",
+        "onboard_time": 1659056315,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138067,
+        "num": 1138067,
+        "word": "多地查处公务员省考违纪考生",
+        "onboard_time": 1659062551,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1125162,
+        "num": 1125162,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659068856,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072060,
+        "num": 1072060,
+        "word": "上海男生真的会让人放心爱",
+        "onboard_time": 1659066635,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 978248,
+        "num": 978248,
+        "word": "结婚16年3孩均非亲生男子发声",
+        "onboard_time": 1659059312,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932679,
+        "num": 932679,
+        "word": "MIRROR演唱会舞台事故",
+        "onboard_time": 1659050304,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 845304,
+        "num": 845304,
+        "word": "22岁加班猝死女孩哥哥因车祸去世",
+        "onboard_time": 1659057571,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011748,
+        "num": 840417,
+        "word": "二舅镇上干部回应",
+        "onboard_time": 1659067358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826663,
+        "num": 826663,
+        "word": "李钟硕林允儿新剧今日开播",
+        "onboard_time": 1659064953,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814506,
+        "num": 814506,
+        "word": "华晨宇包场支持独行月球",
+        "onboard_time": 1659066877,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 784621,
+        "num": 784621,
+        "word": "快乐再出发豆瓣9.5升至9.6",
+        "onboard_time": 1659068356,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654667,
+        "num": 654667,
+        "word": "调休",
+        "onboard_time": 1659067718,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623081,
+        "num": 623081,
+        "word": "奔跑吧今晚是黄金争夺战",
+        "onboard_time": 1659063930,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593511,
+        "num": 593511,
+        "word": "两高中生奸杀教师案第三人将受审",
+        "onboard_time": 1659010298,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583104,
+        "num": 583104,
+        "word": "佩洛西台湾行程为待定",
+        "onboard_time": 1659062013,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 498984,
+        "num": 498984,
+        "word": "努力让自己不淋雨的小狗",
+        "onboard_time": 1659064114,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483497,
+        "num": 483497,
+        "word": "中金",
+        "onboard_time": 1659054091,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713643,
+        "num": 483341,
+        "word": "辣目洋子道歉",
+        "onboard_time": 1659021166,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556304,
+        "num": 483292,
+        "word": "天才基本法 魔改",
+        "onboard_time": 1659059912,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523186,
+        "num": 483263,
+        "word": "孙亦航真的带黄锐来参加向前冲了",
+        "onboard_time": 1659066996,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482650,
+        "num": 482650,
+        "word": "员工因加班猝死公司有没有责任",
+        "onboard_time": 1659067053,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447928,
+        "num": 447928,
+        "word": "陈梦奥运夺金一周年",
+        "onboard_time": 1659067538,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419675,
+        "num": 419675,
+        "word": "富士山",
+        "onboard_time": 1659066877,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406869,
+        "num": 406869,
+        "word": "消费者曝称乌江榨菜里吃出脚指甲",
+        "onboard_time": 1659067899,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384902,
+        "num": 384902,
+        "word": "邓稼先消失28年妻子只知3个不能",
+        "onboard_time": 1659053310,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354238,
+        "num": 354238,
+        "word": "苹果CEO库克回应在中国打折",
+        "onboard_time": 1659054271,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 341978,
+        "num": 341978,
+        "word": "雷克萨斯LM严重车祸所有车门无法打开",
+        "onboard_time": 1659054033,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484271,
+        "num": 340907,
+        "word": "范丞丞新剧在工地搬砖",
+        "onboard_time": 1659067477,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433680,
+        "num": 334108,
+        "word": "MIRROR方道歉",
+        "onboard_time": 1659068558,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402860,
+        "num": 332642,
+        "word": "少年出游记定档",
+        "onboard_time": 1659065254,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399132,
+        "num": 326413,
+        "word": "花少4导演夸杨幂",
+        "onboard_time": 1659061771,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326212,
+        "num": 326212,
+        "word": "奶奶对着摄像头和孙子分享日常",
+        "onboard_time": 1659064592,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250659,
+        "num": 250659,
+        "word": "年轻人如何有效送礼",
+        "onboard_time": 1659066151,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249520,
+        "num": 249520,
+        "word": "90后券商交易员月入超8万",
+        "onboard_time": 1659058171,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 236757,
+        "num": 236757,
+        "word": "成都新增本土确诊15例无症状27例",
+        "onboard_time": 1659067297,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234697,
+        "num": 234697,
+        "word": "你有职场社交焦虑吗",
+        "onboard_time": 1659067718,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224352,
+        "num": 224352,
+        "word": "台湾是中国的台湾",
+        "onboard_time": 1659017443,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 282333,
+        "num": 223071,
+        "word": "梦华录",
+        "onboard_time": 1659059190,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275725,
+        "num": 220712,
+        "word": "音阙诗听",
+        "onboard_time": 1659062013,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218052,
+        "num": 218052,
+        "word": "官方回应哈啰员工破坏70辆美团单车",
+        "onboard_time": 1659061713,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 208922,
+        "num": 208922,
+        "word": "甘肃天水被霸凌女生父亲发声",
+        "onboard_time": 1659055294,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197664,
+        "num": 197664,
+        "word": "邓稼先两弹奖金各10元",
+        "onboard_time": 1659051386,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197282,
+        "num": 197282,
+        "word": "如何判断自己是否运动过量",
+        "onboard_time": 1659068618,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192728,
+        "num": 192728,
+        "word": "你这背景太假了小伙回应",
+        "onboard_time": 1659033374,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190544,
+        "num": 190544,
+        "word": "西安一公司为防泄密监控员工手机",
+        "onboard_time": 1659059371,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186336,
+        "num": 186336,
+        "word": "二舅确为河北某村村民",
+        "onboard_time": 1659050664,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "为一句等我回来她等到95岁了",
+        "onboard_time": 1659068734,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国新电商大会#"
+    }
+  }
+}
