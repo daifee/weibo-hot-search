@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659077179744,
+  "endTime": 1659080134868,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -59,12 +59,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2414853,
+      "raw_hot": 2483696,
       "num": 2414853,
       "word": "孟美岐音乐会票价",
       "onboard_time": 1659075871,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2401821,
+      "num": 2401821,
+      "word": "微信开放红包封面定制",
+      "onboard_time": 1659075213,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 2318808,
@@ -97,14 +105,6 @@
       "onboard_time": 1659059312,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1771785,
-      "num": 1771785,
-      "word": "微信开放红包封面定制",
-      "onboard_time": 1659075213,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 1690467,
@@ -171,6 +171,14 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 1288297,
+      "num": 1288297,
+      "word": "丁泽仁曾去这街4端盘子",
+      "onboard_time": 1659075388,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1237478,
       "num": 1237478,
       "word": "全国超1400万人承受60分钟以上极端通勤",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057561,
+      "num": 1057561,
+      "word": "原卫生院院长回应二舅致残原因",
+      "onboard_time": 1659077250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978622,
       "num": 978622,
       "word": "李钟硕林允儿新剧今日开播",
@@ -275,14 +291,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 862645,
-      "num": 862645,
-      "word": "丁泽仁曾去这街4端盘子",
-      "onboard_time": 1659075388,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 841275,
       "num": 841275,
       "word": "员工因加班猝死公司有没有责任",
@@ -313,6 +321,14 @@
       "onboard_time": 1659054271,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 776683,
+      "num": 776683,
+      "word": "中金回应90后交易员月入超8万",
+      "onboard_time": 1659078151,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 751917,
@@ -363,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649564,
+      "num": 649564,
+      "word": "白鹿周深撞衫同款狗头睡衣",
+      "onboard_time": 1659079231,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647744,
       "num": 647744,
       "word": "天才基本法 魔改",
       "onboard_time": 1659059912,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 643800,
+      "num": 643800,
+      "word": "senorita杀疯了",
+      "onboard_time": 1659074791,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 632848,
@@ -379,12 +411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 631653,
+      "num": 631653,
+      "word": "张歆艺五公淘汰",
+      "onboard_time": 1659077668,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627351,
       "num": 627351,
       "word": "我爱你所以你不用是招娣",
       "onboard_time": 1659025887,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 625027,
+      "num": 625027,
+      "word": "男童4楼坠落邻居一家用被子接住",
+      "onboard_time": 1659078271,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617165,
@@ -395,19 +443,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615293,
-      "num": 459929,
-      "word": "senorita杀疯了",
-      "onboard_time": 1659074791,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 599835,
       "num": 448924,
       "word": "二舅确为河北某村村民",
       "onboard_time": 1659050664,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590688,
+      "num": 590688,
+      "word": "雷克萨斯回应车祸后车门打不开",
+      "onboard_time": 1659075570,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -483,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527202,
+      "num": 433358,
+      "word": "蓝盈莹新剧用假发",
+      "onboard_time": 1659078511,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523186,
       "num": 483263,
       "word": "孙亦航真的带黄锐来参加向前冲了",
@@ -545,6 +601,14 @@
       "onboard_time": 1659057032,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487166,
+      "num": 232436,
+      "word": "苏醒说以后不会在节目里唱跳了",
+      "onboard_time": 1659079889,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 484271,
@@ -611,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 441346,
-      "num": 441346,
-      "word": "雷克萨斯回应车祸后车门打不开",
-      "onboard_time": 1659075570,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435554,
       "num": 435554,
       "word": "上海台风",
       "onboard_time": 1659070776,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428533,
+      "num": 428533,
+      "word": "月升沧海单日流量破3亿",
+      "onboard_time": 1659078271,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 427544,
@@ -635,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419768,
+      "num": 380630,
+      "word": "郑秀妍五公solo秀",
+      "onboard_time": 1659078569,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417455,
       "num": 417455,
       "word": "邓稼先两弹奖金各10元",
       "onboard_time": 1659051386,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415644,
+      "num": 415644,
+      "word": "游客蹦极遇停电被悬吊空中",
+      "onboard_time": 1659078569,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 409888,
@@ -747,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369473,
+      "num": 369473,
+      "word": "上海台风前现水晶天",
+      "onboard_time": 1659077730,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360421,
       "num": 360421,
       "word": "奶奶对着摄像头和孙子分享日常",
@@ -819,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322699,
+      "num": 243280,
+      "word": "独行月球票房破2亿",
+      "onboard_time": 1659076290,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322054,
       "num": 322054,
       "word": "奶奶偷偷在我褪黑素瓶子里塞钱",
@@ -835,6 +931,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314083,
+      "num": 231116,
+      "word": "沈腾 独行月球",
+      "onboard_time": 1659079709,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 313687,
+      "num": 313687,
+      "word": "年轻人为何躲不过装修的坑",
+      "onboard_time": 1659078090,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 308146,
       "num": 308146,
       "word": "成都地铁",
@@ -849,6 +961,14 @@
       "onboard_time": 1659066151,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295736,
+      "num": 229801,
+      "word": "今年夏天 我们回到从前",
+      "onboard_time": 1659077490,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 291639,
@@ -936,14 +1056,6 @@
       "word": "二十不惑2",
       "onboard_time": 1659013302,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 269245,
-      "num": 211980,
-      "word": "独行月球票房破2亿",
-      "onboard_time": 1659076290,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1035,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226967,
+      "num": 230381,
+      "word": "儿科医院设置学习困难科",
+      "onboard_time": 1659077850,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 225877,
       "num": 225877,
       "word": "叶诗文奥运夺冠十周年",
@@ -1083,8 +1203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211815,
-      "num": 211815,
+      "raw_hot": 212720,
+      "num": 212720,
       "word": "椅子腿涂芥末放图钉狗子照啃不误",
       "onboard_time": 1659073416,
       "rank": 41,
@@ -1097,6 +1217,14 @@
       "onboard_time": 1659068734,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210690,
+      "num": 210690,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 208964,
@@ -1113,6 +1241,14 @@
       "onboard_time": 1659060332,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207271,
+      "num": 207271,
+      "word": "连猫咪的生活都过得比我好",
+      "onboard_time": 1659077010,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 199198,
@@ -1177,6 +1313,14 @@
       "onboard_time": 1659060992,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178870,
+      "num": 178870,
+      "word": "武磊要回来了",
+      "onboard_time": 1659079413,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 178607,
@@ -1259,20 +1403,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141776,
+      "num": 141776,
+      "word": "基金",
+      "onboard_time": 1659080132,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141042,
       "num": 2183672,
       "word": "从卫星视角看国家公园",
       "onboard_time": 1659066877,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135373,
-      "num": 135373,
-      "word": "连猫咪的生活都过得比我好",
-      "onboard_time": 1659077010,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 130488,
