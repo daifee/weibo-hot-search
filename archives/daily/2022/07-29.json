@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659087540910,
+  "endTime": 1659091387119,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -11,20 +11,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3667496,
+      "num": 3667496,
+      "word": "纸嫁衣声明",
+      "onboard_time": 1659083969,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 3468818,
       "num": 3468818,
       "word": "调休",
       "onboard_time": 1659067718,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3236006,
-      "num": 3236006,
-      "word": "纸嫁衣声明",
-      "onboard_time": 1659083969,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 3080043,
@@ -91,12 +91,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2327288,
+      "num": 2327288,
+      "word": "密室大逃脱纸嫁衣",
+      "onboard_time": 1659088050,
+      "rank": 1,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 2318808,
       "num": 1837808,
       "word": "情侣分手男子当场甩出2年消费清单",
       "onboard_time": 1659072512,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 2192542,
+      "num": 535366,
+      "word": "胡军",
+      "onboard_time": 1659086190,
+      "rank": 22,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 2053793,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1708127,
+      "num": 668636,
+      "word": "金正恩向中国人民志愿军烈士致敬",
+      "onboard_time": 1659086014,
+      "rank": 39,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1690467,
       "num": 1690467,
       "word": "多地查处公务员省考违纪考生",
@@ -193,6 +217,14 @@
       "onboard_time": 1659066635,
       "rank": 14,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1368097,
+      "num": 1368097,
+      "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+      "onboard_time": 1659086553,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1361463,
@@ -243,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1221610,
-      "num": 535366,
-      "word": "胡军",
-      "onboard_time": 1659086190,
-      "rank": 22,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 1183742,
       "num": 1183742,
       "word": "中金回应90后交易员月入超8万",
@@ -291,12 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1124012,
-      "num": 521412,
-      "word": "金正恩向中国人民志愿军烈士致敬",
-      "onboard_time": 1659086014,
-      "rank": 39,
-      "category": "国外要闻,军事"
+      "raw_hot": 1113802,
+      "num": 1113802,
+      "word": "宁波美籍男子故意杀人案二审开庭",
+      "onboard_time": 1659086617,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1099038,
+      "num": 1099038,
+      "word": "22岁加班猝死女孩医药费超40万",
+      "onboard_time": 1659087152,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1084527,
@@ -411,6 +443,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 762536,
+      "num": 762536,
+      "word": "云南女子13岁被拐为妻当事人发声",
+      "onboard_time": 1659090031,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751917,
       "num": 751917,
       "word": "BLACKPINK 建模",
@@ -443,12 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673252,
-      "num": 564281,
+      "raw_hot": 677909,
+      "num": 649196,
       "word": "Mirror演唱会掉落巨屏重600公斤",
       "onboard_time": 1659080788,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669178,
+      "num": 669178,
+      "word": "里根号",
+      "onboard_time": 1659089913,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 652382,
+      "num": 613161,
+      "word": "独行月球",
+      "onboard_time": 1659000513,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 650201,
@@ -515,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 625165,
+      "num": 625165,
+      "word": "妇联调查女生超130斤禁入酒吧",
+      "onboard_time": 1659085651,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617165,
       "num": 617165,
       "word": "动物园回应老虎身形消瘦趴地吃草",
@@ -528,14 +592,6 @@
       "word": "锦觅忘川听到的虐恋故事是颜淡的",
       "onboard_time": 1659082770,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 600049,
-      "num": 410200,
-      "word": "独行月球",
-      "onboard_time": 1659000513,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -611,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540055,
+      "num": 347951,
+      "word": "密室大逃脱",
+      "onboard_time": 1659090751,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539483,
       "num": 487932,
       "word": "亲生父母6年卖4孩获利9.1万",
@@ -625,6 +689,14 @@
       "onboard_time": 1659002254,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538337,
+      "num": 538337,
+      "word": "手机上最没用的功能是什么",
+      "onboard_time": 1659089309,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 529362,
@@ -699,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 497722,
-      "num": 497722,
-      "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
-      "onboard_time": 1659086553,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494239,
       "num": 494239,
       "word": "灵猫传 停服",
@@ -755,12 +819,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481354,
+      "num": 481354,
+      "word": "央行郑州支行金融稳定处处长赵德旺被查",
+      "onboard_time": 1659088834,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 476386,
       "num": 476386,
       "word": "百辆违停车车牌被掰弯折叠",
       "onboard_time": 1659072092,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467372,
+      "num": 344686,
+      "word": "沉香如屑花式被催更",
+      "onboard_time": 1659090452,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 463840,
@@ -859,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429303,
+      "num": 272923,
+      "word": "aespa旷野画画大赛",
+      "onboard_time": 1659089732,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428533,
       "num": 428533,
       "word": "月升沧海单日流量破3亿",
@@ -896,14 +984,6 @@
       "word": "邓稼先两弹奖金各10元",
       "onboard_time": 1659051386,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414222,
-      "num": 414222,
-      "word": "妇联调查女生超130斤禁入酒吧",
-      "onboard_time": 1659085651,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -979,16 +1059,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401885,
-      "num": 401885,
-      "word": "宁波美籍男子故意杀人案二审开庭",
-      "onboard_time": 1659086617,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396078,
-      "num": 189455,
+      "num": 253090,
       "word": "曾黎带糕点参加百花奖",
       "onboard_time": 1659086673,
       "rank": 40,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1659057753,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 388072,
+      "num": 265055,
+      "word": "少年派2",
+      "onboard_time": 1659090031,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 386666,
@@ -1115,6 +1195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 329704,
+      "num": 329704,
+      "word": "小米汽车9月进入软模车下线阶段",
+      "onboard_time": 1659087752,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 326587,
       "num": 326587,
       "word": "原神须弥",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1659044292,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318304,
+      "num": 240371,
+      "word": "星汉灿烂",
+      "onboard_time": 1659089970,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 313687,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1659053310,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286551,
+      "num": 286551,
+      "word": "拍单人婚纱是什么体验",
+      "onboard_time": 1659087272,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 283431,
@@ -1340,7 +1444,7 @@
     },
     {
       "raw_hot": 248450,
-      "num": 157634,
+      "num": 200891,
       "word": "银保监会开封监管分局局长夏军被查",
       "onboard_time": 1659087515,
       "rank": 47,
@@ -1353,6 +1457,14 @@
       "onboard_time": 1659070537,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236717,
+      "num": 236717,
+      "word": "西安交大男篮晋级全国四强",
+      "onboard_time": 1659089432,
+      "rank": 35,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 236540,
@@ -1507,12 +1619,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 206898,
+      "num": 206898,
+      "word": "CUBA大学生篮球联赛",
+      "onboard_time": 1659088475,
+      "rank": 39,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 200436,
       "num": 200436,
       "word": "武磊要回来了",
       "onboard_time": 1659079413,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "老虎到底是不是大号的猫",
+      "onboard_time": 1659090751,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199198,
@@ -1611,14 +1739,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 169131,
-      "num": 169131,
-      "word": "22岁加班猝死女孩医药费超40万",
-      "onboard_time": 1659087152,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168224,
       "num": 168224,
       "word": "月升沧海 甜",
@@ -1651,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158421,
-      "num": 158421,
-      "word": "拍单人婚纱是什么体验",
-      "onboard_time": 1659087272,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152988,
       "num": 152988,
       "word": "杭州热到逼近历史最高温",
@@ -1673,6 +1785,14 @@
       "onboard_time": 1659013719,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141665,
+      "num": 141665,
+      "word": "成华区不要虚",
+      "onboard_time": 1659091168,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141042,
