@@ -1,7 +1,23 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659063556148,
+  "endTime": 1659073475726,
   "band_list": [
+    {
+      "raw_hot": 5262066,
+      "num": 5262066,
+      "word": "抖音崩了",
+      "onboard_time": 1659065373,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 3468818,
+      "num": 3468818,
+      "word": "调休",
+      "onboard_time": 1659067718,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3080043,
       "num": 3080043,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 2946004,
-      "num": 488839,
+      "num": 517298,
       "word": "辣目洋子道歉",
       "onboard_time": 1659021166,
       "rank": 10,
@@ -25,6 +41,14 @@
       "onboard_time": 1659010298,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2529750,
+      "num": 2529750,
+      "word": "王心凌乘风破浪秒变演唱会",
+      "onboard_time": 1659071197,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 2529077,
@@ -51,12 +75,92 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1690467,
+      "num": 1690467,
+      "word": "多地查处公务员省考违纪考生",
+      "onboard_time": 1659062551,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1674353,
+      "num": 1674353,
+      "word": "二舅镇上干部回应",
+      "onboard_time": 1659067358,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1577357,
+      "num": 1577357,
+      "word": "唐诗逸失误救场",
+      "onboard_time": 1659072213,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1458643,
+      "num": 1458643,
+      "word": "沉香如屑断更",
+      "onboard_time": 1659064472,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1450134,
+      "num": 1450134,
+      "word": "消费者曝称乌江榨菜里吃出脚指甲",
+      "onboard_time": 1659067899,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1399008,
+      "num": 1399008,
+      "word": "上海男生真的会让人放心爱",
+      "onboard_time": 1659066635,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1361463,
       "num": 1361463,
       "word": "成华区疫情防控",
       "onboard_time": 1659021641,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237478,
+      "num": 1237478,
+      "word": "全国超1400万人承受60分钟以上极端通勤",
+      "onboard_time": 1659069697,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1227179,
+      "num": 1227179,
+      "word": "华晨宇包场支持独行月球",
+      "onboard_time": 1659066877,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1173412,
+      "num": 1173412,
+      "word": "郑秀妍于文文senorita双人探戈",
+      "onboard_time": 1659071793,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1155700,
+      "num": 1155700,
+      "word": "BLACKPINK新歌MV",
+      "onboard_time": 1659069457,
+      "rank": 8,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 1149928,
@@ -67,6 +171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1136034,
+      "num": 1136034,
+      "word": "迪奥抄袭马面裙",
+      "onboard_time": 1659072391,
+      "rank": 33,
+      "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 1125162,
+      "num": 1125162,
+      "word": "若佩洛西访台中国军队绝不会坐视不管",
+      "onboard_time": 1659061172,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084527,
       "num": 1084527,
       "word": "22岁加班猝死女孩哥哥因车祸去世",
@@ -75,20 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978622,
+      "num": 978622,
+      "word": "李钟硕林允儿新剧今日开播",
+      "onboard_time": 1659064953,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 971654,
+      "num": 971654,
+      "word": "快乐再出发豆瓣9.5升至9.6",
+      "onboard_time": 1659068356,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 933131,
       "num": 933131,
       "word": "花少4导演夸杨幂",
       "onboard_time": 1659061771,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 913761,
-      "num": 913761,
-      "word": "若佩洛西访台中国军队绝不会坐视不管",
-      "onboard_time": 1659061172,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 901982,
@@ -107,6 +235,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 887611,
+      "num": 887611,
+      "word": "佩洛西台湾行程为待定",
+      "onboard_time": 1659062013,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 841275,
+      "num": 841275,
+      "word": "员工因加班猝死公司有没有责任",
+      "onboard_time": 1659067053,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825517,
+      "num": 825517,
+      "word": "MIRROR方道歉",
+      "onboard_time": 1659068558,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816394,
       "num": 816394,
       "word": "台海巡队强行查扣大陆渔船",
@@ -123,6 +275,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 737249,
+      "num": 737249,
+      "word": "年轻人为什么越来越不爱买大牌",
+      "onboard_time": 1659071374,
+      "rank": 24,
+      "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 731581,
+      "num": 731581,
+      "word": "奔跑吧今晚是黄金争夺战",
+      "onboard_time": 1659063930,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688327,
       "num": 309822,
       "word": "22岁加班猝死女孩父亲痛哭",
@@ -131,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 682571,
-      "num": 682571,
-      "word": "佩洛西台湾行程为待定",
-      "onboard_time": 1659062013,
-      "rank": 9,
-      "category": "国外要闻"
+      "raw_hot": 682679,
+      "num": 682679,
+      "word": "富士山",
+      "onboard_time": 1659066877,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650201,
@@ -171,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617165,
+      "num": 617165,
+      "word": "动物园回应老虎身形消瘦趴地吃草",
+      "onboard_time": 1659070056,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599835,
       "num": 448924,
       "word": "二舅确为河北某村村民",
@@ -179,20 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598969,
-      "num": 598969,
-      "word": "多地查处公务员省考违纪考生",
-      "onboard_time": 1659062551,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 586132,
       "num": 586132,
       "word": "你这背景太假了小伙回应",
       "onboard_time": 1659033374,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582653,
+      "num": 582653,
+      "word": "中华小子",
+      "onboard_time": 1659069754,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 557793,
@@ -243,6 +419,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523186,
+      "num": 483263,
+      "word": "孙亦航真的带黄锐来参加向前冲了",
+      "onboard_time": 1659066996,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 516106,
+      "num": 516106,
+      "word": "情侣分手男子当场甩出2年消费清单",
+      "onboard_time": 1659072512,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 502595,
+      "num": 502595,
+      "word": "中金",
+      "onboard_time": 1659054091,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500433,
       "num": 500433,
       "word": "钱三一不会有毕业典礼了",
@@ -251,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 498984,
+      "num": 498984,
+      "word": "努力让自己不淋雨的小狗",
+      "onboard_time": 1659064114,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 498610,
       "num": 498610,
       "word": "希林娜依高好声音青春导师",
       "onboard_time": 1659054332,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494239,
+      "num": 494239,
+      "word": "灵猫传 停服",
+      "onboard_time": 1659071616,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 489720,
@@ -275,6 +491,70 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484271,
+      "num": 340907,
+      "word": "范丞丞新剧在工地搬砖",
+      "onboard_time": 1659067477,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 459329,
+      "num": 333247,
+      "word": "少年出游记定档",
+      "onboard_time": 1659065254,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 457605,
+      "num": 457605,
+      "word": "6岁脑瘫女孩给母亲展示蹲马步",
+      "onboard_time": 1659069397,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450615,
+      "num": 450615,
+      "word": "王嘉尔新歌Cruel上线",
+      "onboard_time": 1659072751,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 447928,
+      "num": 447928,
+      "word": "陈梦奥运夺金一周年",
+      "onboard_time": 1659067538,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 446125,
+      "num": 410752,
+      "word": "乘风破浪",
+      "onboard_time": 1659071793,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 445145,
+      "num": 445145,
+      "word": "今天星期五",
+      "onboard_time": 1659069937,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 435554,
+      "num": 435554,
+      "word": "上海台风",
+      "onboard_time": 1659070776,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417455,
       "num": 417455,
       "word": "邓稼先两弹奖金各10元",
@@ -289,6 +569,14 @@
       "onboard_time": 1659062013,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 409021,
+      "num": 356339,
+      "word": "来福好室说唱店官宣黄子韬",
+      "onboard_time": 1659071016,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 408041,
@@ -312,6 +600,14 @@
       "word": "女子因升职压力大出现濒死感",
       "onboard_time": 1659015163,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401905,
+      "num": 401905,
+      "word": "雷克萨斯LM严重车祸所有车门无法打开",
+      "onboard_time": 1659054033,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -355,11 +651,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383593,
-      "num": 383593,
-      "word": "雷克萨斯LM严重车祸所有车门无法打开",
-      "onboard_time": 1659054033,
-      "rank": 24,
+      "raw_hot": 360421,
+      "num": 360421,
+      "word": "奶奶对着摄像头和孙子分享日常",
+      "onboard_time": 1659064592,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -387,11 +683,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347205,
+      "num": 347205,
+      "word": "百辆违停车车牌被掰弯折叠",
+      "onboard_time": 1659072092,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338118,
       "num": 338118,
       "word": "成都成华区核酸",
       "onboard_time": 1659021764,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337507,
+      "num": 337507,
+      "word": "杭州街头爱心冰柜引路人自发接力",
+      "onboard_time": 1659070955,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -401,6 +713,14 @@
       "onboard_time": 1659055834,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 326587,
+      "num": 326587,
+      "word": "原神须弥",
+      "onboard_time": 1659071734,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 325002,
@@ -435,12 +755,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301160,
-      "num": 301160,
-      "word": "中金",
-      "onboard_time": 1659054091,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 297041,
+      "num": 297041,
+      "word": "年轻人如何有效送礼",
+      "onboard_time": 1659066151,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 291639,
+      "num": 226063,
+      "word": "乘风破浪五公舞台造型海报",
+      "onboard_time": 1659064233,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 288482,
@@ -483,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278633,
+      "num": 278633,
+      "word": "官方回应哈啰员工破坏70辆美团单车",
+      "onboard_time": 1659061713,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 276848,
       "num": 276848,
       "word": "四川新增本土确诊16例无症状29例",
@@ -523,12 +859,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260965,
-      "num": 260965,
-      "word": "官方回应哈啰员工破坏70辆美团单车",
-      "onboard_time": 1659061713,
-      "rank": 29,
-      "category": "科技,社会新闻"
+      "raw_hot": 262336,
+      "num": 262336,
+      "word": "成都新增本土确诊15例无症状27例",
+      "onboard_time": 1659067297,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259142,
+      "num": 259142,
+      "word": "向往的生活蘑菇屋变照相馆",
+      "onboard_time": 1659072571,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 254540,
+      "num": 254540,
+      "word": "LOL手游卡萨丁上线",
+      "onboard_time": 1659069037,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 251360,
@@ -539,12 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248540,
-      "num": 248540,
+      "raw_hot": 249520,
+      "num": 249520,
       "word": "90后券商交易员月入超8万",
       "onboard_time": 1659058171,
       "rank": 35,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 247774,
+      "num": 247774,
+      "word": "优化节假日时间分布你有啥建议",
+      "onboard_time": 1659070537,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235223,
@@ -553,6 +913,14 @@
       "onboard_time": 1659062433,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234697,
+      "num": 234697,
+      "word": "你有职场社交焦虑吗",
+      "onboard_time": 1659067718,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 230172,
@@ -595,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221434,
+      "num": 221434,
+      "word": "闪耀暖暖",
+      "onboard_time": 1659063752,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218582,
       "num": 181430,
       "word": "每日优鲜",
@@ -609,6 +985,14 @@
       "onboard_time": 1659019365,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211194,
+      "num": 211194,
+      "word": "为一句等我回来她等到95岁了",
+      "onboard_time": 1659068734,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208964,
@@ -627,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206221,
+      "num": 206221,
+      "word": "月升沧海最疯的人是谁",
+      "onboard_time": 1659073231,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199198,
       "num": 199198,
       "word": "越妃 互联网嘴替",
@@ -641,6 +1033,14 @@
       "onboard_time": 1659006334,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197282,
+      "num": 197282,
+      "word": "如何判断自己是否运动过量",
+      "onboard_time": 1659068618,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 196731,
@@ -763,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141042,
+      "num": 2183672,
+      "word": "从卫星视角看国家公园",
+      "onboard_time": 1659066877,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130146,
       "num": 130146,
       "word": "杨紫登顶微博综艺视频榜",
@@ -879,6 +1287,12 @@
     },
     {
       "word": "#中美双方元首通话#"
+    },
+    {
+      "word": "#第二届中国新电商大会#"
+    },
+    {
+      "word": "#新时代成就巡礼#"
     }
   ]
 }
