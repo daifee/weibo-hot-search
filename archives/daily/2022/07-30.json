@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659123208638,
+  "endTime": 1659127158527,
   "band_list": [
     {
       "raw_hot": 1828446,
@@ -443,12 +443,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 15363,
-      "num": 15363,
+      "raw_hot": 43025,
+      "num": 43025,
       "word": "六旬大叔高温下跪地施救溺水男孩",
       "onboard_time": 1659122472,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 24347,
+      "num": 24347,
+      "word": "于文文永远都会在",
+      "onboard_time": 1659125052,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
