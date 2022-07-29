@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659091387119,
+  "endTime": 1659094483351,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -507,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2335316,
+      "num": 2335316,
+      "word": "密室大逃脱纸嫁衣",
+      "onboard_time": 1659088050,
+      "rank": 1,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 2334377,
       "num": 2334377,
       "word": "古茗被曝喝出壁虎",
       "onboard_time": 1658910511,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2327288,
-      "num": 2327288,
-      "word": "密室大逃脱纸嫁衣",
-      "onboard_time": 1659088050,
-      "rank": 1,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 2327249,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1767639,
+      "num": 1767639,
+      "word": "云南女子13岁被拐为妻当事人发声",
+      "onboard_time": 1659090031,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1752230,
       "num": 1752230,
       "word": "中餐厅6合伙人官宣",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 1708127,
-      "num": 668636,
+      "num": 808091,
       "word": "金正恩向中国人民志愿军烈士致敬",
       "onboard_time": 1659086014,
       "rank": 39,
@@ -1523,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1232452,
+      "num": 1232452,
+      "word": "22岁加班猝死女孩医药费超40万",
+      "onboard_time": 1659087152,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231093,
       "num": 1231093,
       "word": "狐妖小红娘月红篇演员阵容名单",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1658828256,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1099038,
-      "num": 1099038,
-      "word": "22岁加班猝死女孩医药费超40万",
-      "onboard_time": 1659087152,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1090748,
@@ -2011,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985321,
+      "num": 985321,
+      "word": "JackeyLove金克丝五杀",
+      "onboard_time": 1659092130,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 983857,
       "num": 983857,
       "word": "爸爸离世七旬爷爷陪7岁孙子抗癌",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1658812834,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 950805,
+      "num": 950805,
+      "word": "里根号",
+      "onboard_time": 1659089913,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 948790,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1658738434,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 913104,
+      "num": 913104,
+      "word": "密室大逃脱",
+      "onboard_time": 1658897318,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 911182,
@@ -2523,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 804302,
+      "num": 804302,
+      "word": "Mirror演唱会掉落巨屏重600公斤",
+      "onboard_time": 1659080788,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804065,
       "num": 804065,
       "word": "果农将葡萄喂猪被质疑浪费",
@@ -2715,14 +2755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 762536,
-      "num": 762536,
-      "word": "云南女子13岁被拐为妻当事人发声",
-      "onboard_time": 1659090031,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 761626,
       "num": 761626,
       "word": "711门店不明码标价获利超4千",
@@ -2840,6 +2872,14 @@
       "word": "异地恋分手应该再见一面吗",
       "onboard_time": 1658978910,
       "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 728906,
+      "num": 728906,
+      "word": "为什么好朋友关系会变淡",
+      "onboard_time": 1659092310,
+      "rank": 19,
       "category": "情感"
     },
     {
@@ -3011,14 +3051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 677909,
-      "num": 649196,
-      "word": "Mirror演唱会掉落巨屏重600公斤",
-      "onboard_time": 1659080788,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 677853,
       "num": 553646,
       "word": "颜淡失忆了",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1658732435,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669178,
-      "num": 669178,
-      "word": "里根号",
-      "onboard_time": 1659089913,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 664790,
@@ -3108,7 +3132,7 @@
     },
     {
       "raw_hot": 652382,
-      "num": 615651,
+      "num": 642482,
       "word": "独行月球",
       "onboard_time": 1658921132,
       "rank": 30,
@@ -3145,6 +3169,14 @@
       "onboard_time": 1658692992,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648948,
+      "num": 648948,
+      "word": "手机上最没用的功能是什么",
+      "onboard_time": 1659089309,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 648576,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1658880090,
       "rank": 11,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 630869,
+      "num": 630869,
+      "word": "中金人均年薪115万",
+      "onboard_time": 1659093569,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 630217,
@@ -3931,14 +3971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540055,
-      "num": 483194,
-      "word": "密室大逃脱",
-      "onboard_time": 1658897318,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 540050,
       "num": 374538,
       "word": "瑞达法考 时代少年团",
@@ -3961,14 +3993,6 @@
       "onboard_time": 1659006394,
       "rank": 26,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 538337,
-      "num": 538337,
-      "word": "手机上最没用的功能是什么",
-      "onboard_time": 1659089309,
-      "rank": 25,
-      "category": "科技"
     },
     {
       "raw_hot": 537855,
@@ -4385,6 +4409,14 @@
       "onboard_time": 1658743415,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497218,
+      "num": 401057,
+      "word": "时代少年团哭泣的游戏预告海报",
+      "onboard_time": 1659091889,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 494239,
@@ -4891,6 +4923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 450743,
+      "num": 450743,
+      "word": "被晒月薪超8万中金员工停职调查",
+      "onboard_time": 1659093150,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 450615,
       "num": 450615,
       "word": "王嘉尔新歌Cruel上线",
@@ -5216,6 +5256,14 @@
       "word": "钱三一的解药是林妙妙",
       "onboard_time": 1658927554,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 424421,
+      "num": 233806,
+      "word": "第36届百花奖提名名单有哪些看点",
+      "onboard_time": 1659091949,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -6475,6 +6523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339093,
+      "num": 231015,
+      "word": "范丞丞新剧追剧日历",
+      "onboard_time": 1659093150,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339030,
       "num": 222358,
       "word": "颜淡九百年还是没忘了应渊",
@@ -7675,6 +7731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286907,
+      "num": 286907,
+      "word": "警方通报雷克萨斯车祸致1死2伤",
+      "onboard_time": 1659092848,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286551,
       "num": 286551,
       "word": "拍单人婚纱是什么体验",
@@ -8403,6 +8467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257287,
+      "num": 257287,
+      "word": "老虎到底是不是大号的猫",
+      "onboard_time": 1659090751,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256778,
       "num": 256778,
       "word": "成都82岁老婆婆连续三年当防疫志愿者",
@@ -8681,6 +8753,14 @@
       "onboard_time": 1658733276,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243825,
+      "num": 194489,
+      "word": "被遗忘的时光开播",
+      "onboard_time": 1659091412,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 243631,
@@ -8985,6 +9065,14 @@
       "onboard_time": 1658850933,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231461,
+      "num": 231461,
+      "word": "每日优鲜徐正回应",
+      "onboard_time": 1659091949,
+      "rank": 28,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 231176,
@@ -9299,6 +9387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219351,
+      "num": 219351,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 219263,
       "num": 219263,
       "word": "让二舅和姥姥安静生活吧",
@@ -9377,14 +9473,6 @@
       "onboard_time": 1658837433,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216031,
-      "num": 216031,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 215951,
@@ -9739,14 +9827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199424,
-      "num": 199424,
-      "word": "老虎到底是不是大号的猫",
-      "onboard_time": 1659090751,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199317,
       "num": 199317,
       "word": "NewJeans新专辑配置",
@@ -9969,6 +10049,14 @@
       "onboard_time": 1658931936,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188335,
+      "num": 188335,
+      "word": "4个动作5天腿变直",
+      "onboard_time": 1659094109,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 187828,
@@ -10217,6 +10305,14 @@
       "onboard_time": 1658993911,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174147,
+      "num": 174147,
+      "word": "成华区不要虚",
+      "onboard_time": 1659091168,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173280,
@@ -10571,14 +10667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141665,
-      "num": 141665,
-      "word": "成华区不要虚",
-      "onboard_time": 1659091168,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141042,
       "num": 2183672,
       "word": "从卫星视角看国家公园",
@@ -10713,6 +10801,14 @@
       "onboard_time": 1658728411,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120466,
+      "num": 120466,
+      "word": "平潭",
+      "onboard_time": 1659094407,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 119637,
