@@ -1,0 +1,410 @@
+{
+  "runTime": 1659109455144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2525655,
+        "num": 2525655,
+        "word": "杭州通报22岁女孩加班猝死核查情况",
+        "onboard_time": 1659104914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2324683,
+        "num": 2324683,
+        "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+        "onboard_time": 1659096329,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 167718,
+        "num": 1711024,
+        "word": "4分钟看解放军军服演变史",
+        "onboard_time": 1659099332,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1701039,
+        "num": 1701039,
+        "word": "蔡徐坤朋友",
+        "onboard_time": 1659105395,
+        "rank": 3,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1406998,
+        "num": 1406998,
+        "word": "全球最大精子银行上调精子价格",
+        "onboard_time": 1659098674,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1134374,
+        "num": 1134374,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659109411,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020434,
+        "num": 1020434,
+        "word": "独行月球",
+        "onboard_time": 1659081150,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 989212,
+        "num": 989212,
+        "word": "清华大学vs重庆文理",
+        "onboard_time": 1659103053,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 965811,
+        "num": 965811,
+        "word": "我的分享欲是怎么没的",
+        "onboard_time": 1659101070,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 811562,
+        "num": 811562,
+        "word": "第一次结婚有点紧张",
+        "onboard_time": 1659104133,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 806998,
+        "num": 806998,
+        "word": "网友质疑地铁站插画风格怪异",
+        "onboard_time": 1659103770,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668544,
+        "num": 668544,
+        "word": "6岁男孩啃苹果把俩门牙镶上面",
+        "onboard_time": 1659107732,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657822,
+        "num": 657822,
+        "word": "奔跑吧全员不说再见",
+        "onboard_time": 1659108335,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646225,
+        "num": 646225,
+        "word": "雷克萨斯车祸救人司机发声",
+        "onboard_time": 1659107196,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615609,
+        "num": 615609,
+        "word": "中金人均年薪115万",
+        "onboard_time": 1659093569,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 606488,
+        "num": 606488,
+        "word": "隔着屏幕已经开始生气了",
+        "onboard_time": 1659105333,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 601385,
+        "num": 601385,
+        "word": "考研考公同时上岸选择哪个",
+        "onboard_time": 1659108513,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 525323,
+        "num": 525323,
+        "word": "福建平潭局部海域实弹射击训练",
+        "onboard_time": 1659097588,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 497871,
+        "num": 497871,
+        "word": "向往的生活",
+        "onboard_time": 1659104794,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444116,
+        "num": 444116,
+        "word": "机票燃油附加费今年首次下调",
+        "onboard_time": 1659100953,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 434850,
+        "num": 434850,
+        "word": "里根号航母进南海想干啥",
+        "onboard_time": 1659095969,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 425484,
+        "num": 425484,
+        "word": "时代少年团全员演技派",
+        "onboard_time": 1659107674,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423228,
+        "num": 423228,
+        "word": "周深被郭麒麟的微信铃声叫儿子",
+        "onboard_time": 1659103833,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398943,
+        "num": 398943,
+        "word": "李钟硕黑话律师",
+        "onboard_time": 1659104794,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381423,
+        "num": 381423,
+        "word": "ESO新歌",
+        "onboard_time": 1659105035,
+        "rank": 24,
+        "category": "音乐,网红"
+      },
+      {
+        "raw_hot": 343403,
+        "num": 343403,
+        "word": "央行将发行24节气金银纪念币",
+        "onboard_time": 1659103952,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 289345,
+        "num": 289345,
+        "word": "连小狗都不能拒绝小猫撒娇",
+        "onboard_time": 1659106418,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285677,
+        "num": 285677,
+        "word": "平潭",
+        "onboard_time": 1659094407,
+        "rank": 27,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 285210,
+        "num": 285210,
+        "word": "同学录是全国统一的吗",
+        "onboard_time": 1659096630,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282474,
+        "num": 282474,
+        "word": "清华大学男篮大胜重庆文理男篮",
+        "onboard_time": 1659106475,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369928,
+        "num": 281264,
+        "word": "杨紫乔欣有友情但不多",
+        "onboard_time": 1659098133,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463556,
+        "num": 277088,
+        "word": "80强军号",
+        "onboard_time": 1659078930,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 348167,
+        "num": 273752,
+        "word": "黄晓明金晨为蓝盈莹新剧应援",
+        "onboard_time": 1659106113,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335273,
+        "num": 268602,
+        "word": "少年派2豆瓣开分7.0",
+        "onboard_time": 1659105996,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321493,
+        "num": 266302,
+        "word": "久哲偷家",
+        "onboard_time": 1659104732,
+        "rank": 34,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 264236,
+        "num": 264236,
+        "word": "云南女子13岁被拐为妻当事人发声",
+        "onboard_time": 1659090031,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220357,
+        "num": 220357,
+        "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+        "onboard_time": 1659086553,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337258,
+        "num": 220233,
+        "word": "黄金猎人是郑恺",
+        "onboard_time": 1659106955,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 206921,
+        "word": "桂林惊现红色精灵闪电",
+        "onboard_time": 1659101673,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199061,
+        "num": 199061,
+        "word": "里根号",
+        "onboard_time": 1659089913,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 253067,
+        "num": 194869,
+        "word": "杨幂说李斯丹妮能嫁个好老公",
+        "onboard_time": 1659101552,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187383,
+        "num": 187383,
+        "word": "若美方挑战中方底线必遭坚决反制",
+        "onboard_time": 1659096931,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181690,
+        "num": 181690,
+        "word": "迪奥抄袭马面裙",
+        "onboard_time": 1659072391,
+        "rank": 42,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 179506,
+        "num": 179506,
+        "word": "为什么好朋友关系会变淡",
+        "onboard_time": 1659092310,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178233,
+        "num": 178233,
+        "word": "高志丹任国家体育总局局长",
+        "onboard_time": 1659105816,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 163699,
+        "word": "被晒月薪超8万中金员工停职调查",
+        "onboard_time": 1659093150,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147901,
+        "num": 147901,
+        "word": "这猫到底是怎么养的",
+        "onboard_time": 1659100772,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145648,
+        "num": 145648,
+        "word": "手机上最没用的功能是什么",
+        "onboard_time": 1659089309,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141531,
+        "num": 141531,
+        "word": "郭艾伦",
+        "onboard_time": 1659097110,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134384,
+        "num": 134384,
+        "word": "10岁男孩神还原敦煌飞天",
+        "onboard_time": 1659100413,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

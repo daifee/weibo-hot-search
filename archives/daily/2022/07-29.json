@@ -1,6 +1,6 @@
 {
   "startTime": 1659026103991,
-  "endTime": 1659105337144,
+  "endTime": 1659109455144,
   "band_list": [
     {
       "raw_hot": 5262066,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2581733,
+      "num": 2581733,
+      "word": "杭州通报22岁女孩加班猝死核查情况",
+      "onboard_time": 1659104914,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2529750,
       "num": 2529750,
       "word": "王心凌乘风破浪秒变演唱会",
@@ -153,6 +161,14 @@
       "onboard_time": 1659084150,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2030383,
+      "num": 2030383,
+      "word": "蔡徐坤朋友",
+      "onboard_time": 1659105395,
+      "rank": 3,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1971523,
@@ -387,8 +403,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1125162,
-      "num": 1125162,
+      "raw_hot": 1134374,
+      "num": 1134374,
       "word": "若佩洛西访台中国军队绝不会坐视不管",
       "onboard_time": 1659061172,
       "rank": 10,
@@ -411,20 +427,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1095540,
+      "num": 1095540,
+      "word": "我的分享欲是怎么没的",
+      "onboard_time": 1659101070,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1084527,
       "num": 1084527,
       "word": "22岁加班猝死女孩哥哥因车祸去世",
       "onboard_time": 1659057571,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1072014,
-      "num": 1072014,
-      "word": "我的分享欲是怎么没的",
-      "onboard_time": 1659101070,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1057561,
@@ -555,6 +571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 876266,
+      "num": 876266,
+      "word": "网友质疑地铁站插画风格怪异",
+      "onboard_time": 1659103770,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853089,
       "num": 771653,
       "word": "RNG官宣Ana替补",
@@ -585,6 +609,14 @@
       "onboard_time": 1659021518,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 811562,
+      "num": 811562,
+      "word": "第一次结婚有点紧张",
+      "onboard_time": 1659104133,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 804302,
@@ -667,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668544,
+      "num": 668544,
+      "word": "6岁男孩啃苹果把俩门牙镶上面",
+      "onboard_time": 1659107732,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657822,
+      "num": 657822,
+      "word": "奔跑吧全员不说再见",
+      "onboard_time": 1659108335,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651360,
       "num": 651360,
       "word": "赵今麦勇敢",
@@ -715,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646225,
+      "num": 646225,
+      "word": "雷克萨斯车祸救人司机发声",
+      "onboard_time": 1659107196,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643800,
       "num": 643800,
       "word": "senorita杀疯了",
@@ -729,14 +785,6 @@
       "onboard_time": 1659007959,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 632824,
-      "num": 632824,
-      "word": "第一次结婚有点紧张",
-      "onboard_time": 1659104133,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 631653,
@@ -777,6 +825,22 @@
       "onboard_time": 1659082770,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 606488,
+      "num": 606488,
+      "word": "隔着屏幕已经开始生气了",
+      "onboard_time": 1659105333,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 601385,
+      "num": 601385,
+      "word": "考研考公同时上岸选择哪个",
+      "onboard_time": 1659108513,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 599835,
@@ -828,7 +892,7 @@
     },
     {
       "raw_hot": 578981,
-      "num": 412194,
+      "num": 420982,
       "word": "ESO新歌",
       "onboard_time": 1659105035,
       "rank": 20,
@@ -865,6 +929,14 @@
       "onboard_time": 1659010658,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548211,
+      "num": 548211,
+      "word": "向往的生活",
+      "onboard_time": 1659104794,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 545070,
@@ -971,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498577,
+      "num": 498577,
+      "word": "黄晓明金晨为蓝盈莹新剧应援",
+      "onboard_time": 1659106113,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497218,
       "num": 401057,
       "word": "时代少年团哭泣的游戏预告海报",
@@ -1043,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482529,
+      "num": 429534,
+      "word": "时代少年团全员演技派",
+      "onboard_time": 1659107674,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481354,
       "num": 481354,
       "word": "央行郑州支行金融稳定处处长赵德旺被查",
@@ -1068,7 +1156,7 @@
     },
     {
       "raw_hot": 468269,
-      "num": 411941,
+      "num": 418728,
       "word": "李钟硕黑话律师",
       "onboard_time": 1659104794,
       "rank": 21,
@@ -1089,6 +1177,14 @@
       "onboard_time": 1659082289,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463556,
+      "num": 429841,
+      "word": "80强军号",
+      "onboard_time": 1659078930,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 460571,
@@ -1112,14 +1208,6 @@
       "word": "桂林惊现红色精灵闪电",
       "onboard_time": 1659101673,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457678,
-      "num": 457678,
-      "word": "网友质疑地铁站插画风格怪异",
-      "onboard_time": 1659103770,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1275,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413337,
+      "num": 318783,
+      "word": "黄金猎人是郑恺",
+      "onboard_time": 1659106955,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409888,
       "num": 381651,
       "word": "音阙诗听",
@@ -1297,6 +1393,14 @@
       "onboard_time": 1659071016,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408991,
+      "num": 315846,
+      "word": "少年派2豆瓣开分7.0",
+      "onboard_time": 1659105996,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 408625,
@@ -1363,12 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390770,
-      "num": 390770,
-      "word": "80强军号",
-      "onboard_time": 1659078930,
-      "rank": 49,
-      "category": "军事"
+      "raw_hot": 393991,
+      "num": 393991,
+      "word": "央行将发行24节气金银纪念币",
+      "onboard_time": 1659103952,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 389506,
@@ -1395,12 +1499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 388055,
-      "num": 312733,
-      "word": "向往的生活",
-      "onboard_time": 1659104794,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 386696,
+      "num": 281714,
+      "word": "久哲偷家",
+      "onboard_time": 1659104732,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 386666,
@@ -1459,12 +1563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357074,
-      "num": 357074,
-      "word": "央行将发行24节气金银纪念币",
-      "onboard_time": 1659103952,
-      "rank": 43,
-      "category": "财经,社会新闻"
+      "raw_hot": 360037,
+      "num": 360037,
+      "word": "连小狗都不能拒绝小猫撒娇",
+      "onboard_time": 1659106418,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 355911,
@@ -1675,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312107,
+      "num": 312107,
+      "word": "清华大学男篮大胜重庆文理男篮",
+      "onboard_time": 1659106475,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311263,
       "num": 311263,
       "word": "雷克萨斯声明",
@@ -1795,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281714,
-      "num": 281714,
-      "word": "久哲偷家",
-      "onboard_time": 1659104732,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 280279,
       "num": 280279,
       "word": "游客违规自驾开车进西藏圣湖",
@@ -1849,14 +1953,6 @@
       "onboard_time": 1659013302,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264896,
-      "num": 264896,
-      "word": "杭州通报22岁女孩加班猝死核查情况",
-      "onboard_time": 1659104914,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264498,
@@ -1929,6 +2025,14 @@
       "onboard_time": 1659070537,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245251,
+      "num": 245251,
+      "word": "高志丹任国家体育总局局长",
+      "onboard_time": 1659105816,
+      "rank": 40,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 243825,
@@ -2209,14 +2313,6 @@
       "onboard_time": 1659060992,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179698,
-      "num": 179698,
-      "word": "隔着屏幕已经开始生气了",
-      "onboard_time": 1659105333,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 178607,
