@@ -1,0 +1,410 @@
+{
+  "runTime": 1659077179744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2414853,
+        "num": 2414853,
+        "word": "孟美岐音乐会票价",
+        "onboard_time": 1659075871,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1771785,
+        "num": 1771785,
+        "word": "微信开放红包封面定制",
+        "onboard_time": 1659075213,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105495,
+        "num": 1751492,
+        "word": "从卫星视角看国家公园",
+        "onboard_time": 1659066877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2237487,
+        "num": 1751026,
+        "word": "情侣分手男子当场甩出2年消费清单",
+        "onboard_time": 1659072512,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1742339,
+        "num": 1742339,
+        "word": "调休",
+        "onboard_time": 1659067718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1690924,
+        "num": 1690924,
+        "word": "王心凌乘风破浪秒变演唱会",
+        "onboard_time": 1659071197,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1539337,
+        "num": 1539337,
+        "word": "迪奥抄袭马面裙",
+        "onboard_time": 1659072391,
+        "rank": 6,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 1298927,
+        "num": 1298927,
+        "word": "唐诗逸失误救场",
+        "onboard_time": 1659072213,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1212360,
+        "num": 1212360,
+        "word": "年轻人为什么越来越不爱买大牌",
+        "onboard_time": 1659071374,
+        "rank": 8,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 1181306,
+        "num": 1181306,
+        "word": "女生每天跳操2小时致肌肉溶解",
+        "onboard_time": 1659056315,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862645,
+        "num": 862645,
+        "word": "丁泽仁曾去这街4端盘子",
+        "onboard_time": 1659075388,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665267,
+        "num": 665267,
+        "word": "BLACKPINK 建模",
+        "onboard_time": 1659073771,
+        "rank": 11,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 650144,
+        "num": 650144,
+        "word": "疑女子未管教孩子遭店主怒甩耳光",
+        "onboard_time": 1659074130,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649398,
+        "num": 649398,
+        "word": "郑秀妍于文文senorita双人探戈",
+        "onboard_time": 1659071793,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619221,
+        "num": 619221,
+        "word": "全国超1400万人承受60分钟以上极端通勤",
+        "onboard_time": 1659069697,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527130,
+        "num": 527130,
+        "word": "二舅镇上干部回应",
+        "onboard_time": 1659067358,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509397,
+        "num": 509397,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659077130,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447273,
+        "num": 447273,
+        "word": "百辆违停车车牌被掰弯折叠",
+        "onboard_time": 1659072092,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441346,
+        "num": 441346,
+        "word": "雷克萨斯回应车祸后车门打不开",
+        "onboard_time": 1659075570,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414281,
+        "num": 414281,
+        "word": "动物园回应老虎身形消瘦趴地吃草",
+        "onboard_time": 1659070056,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615293,
+        "num": 413208,
+        "word": "senorita杀疯了",
+        "onboard_time": 1659074791,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536423,
+        "num": 411030,
+        "word": "月升沧海最疯的人是谁",
+        "onboard_time": 1659073231,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407305,
+        "num": 407305,
+        "word": "向往的生活蘑菇屋变照相馆",
+        "onboard_time": 1659072571,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393386,
+        "num": 393386,
+        "word": "中华小子",
+        "onboard_time": 1659069754,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 336352,
+        "num": 336352,
+        "word": "消费者曝称乌江榨菜里吃出脚指甲",
+        "onboard_time": 1659067899,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314312,
+        "num": 314312,
+        "word": "上海台风",
+        "onboard_time": 1659070776,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298579,
+        "num": 298579,
+        "word": "灵猫传 停服",
+        "onboard_time": 1659071616,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291680,
+        "num": 291680,
+        "word": "员工因加班猝死公司有没有责任",
+        "onboard_time": 1659067053,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285329,
+        "num": 285329,
+        "word": "中金",
+        "onboard_time": 1659054091,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285137,
+        "num": 285137,
+        "word": "上海男生真的会让人放心爱",
+        "onboard_time": 1659066635,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 358588,
+        "num": 284018,
+        "word": "沉香如屑断更",
+        "onboard_time": 1659064472,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351704,
+        "num": 279584,
+        "word": "龙吟",
+        "onboard_time": 1659074850,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338747,
+        "num": 277372,
+        "word": "MIRROR方道歉",
+        "onboard_time": 1659068558,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336317,
+        "num": 272557,
+        "word": "快乐再出发豆瓣9.5升至9.6",
+        "onboard_time": 1659068356,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270642,
+        "num": 270642,
+        "word": "抖音崩了",
+        "onboard_time": 1659065373,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262835,
+        "num": 262835,
+        "word": "结婚16年3孩均非亲生男子发声",
+        "onboard_time": 1659059312,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252195,
+        "num": 252195,
+        "word": "6岁脑瘫女孩给母亲展示蹲马步",
+        "onboard_time": 1659069397,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236540,
+        "num": 236540,
+        "word": "那些回乡的人现在生活怎么样",
+        "onboard_time": 1659076412,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 217885,
+        "num": 217885,
+        "word": "富士山",
+        "onboard_time": 1659066877,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216945,
+        "num": 216945,
+        "word": "22岁加班猝死女孩哥哥因车祸去世",
+        "onboard_time": 1659057571,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279796,
+        "num": 216269,
+        "word": "真的爱你",
+        "onboard_time": 1659074911,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269245,
+        "num": 211980,
+        "word": "独行月球票房破2亿",
+        "onboard_time": 1659076290,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207195,
+        "num": 207195,
+        "word": "椅子腿涂芥末放图钉狗子照啃不误",
+        "onboard_time": 1659073416,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176220,
+        "num": 176220,
+        "word": "多地查处公务员省考违纪考生",
+        "onboard_time": 1659062551,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 164470,
+        "num": 164470,
+        "word": "今天星期五",
+        "onboard_time": 1659069937,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154210,
+        "num": 154210,
+        "word": "杭州街头爱心冰柜引路人自发接力",
+        "onboard_time": 1659070955,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 151335,
+        "word": "邓稼先消失28年妻子只知3个不能",
+        "onboard_time": 1659053310,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147584,
+        "num": 147584,
+        "word": "佩洛西台湾行程为待定",
+        "onboard_time": 1659062013,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135373,
+        "num": 135373,
+        "word": "连猫咪的生活都过得比我好",
+        "onboard_time": 1659077010,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 130488,
+        "num": 130488,
+        "word": "一群陌生人不约而同的选择",
+        "onboard_time": 1659076890,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国新电商大会#"
+    }
+  }
+}
