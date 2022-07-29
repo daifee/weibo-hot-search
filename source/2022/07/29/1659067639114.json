@@ -1,0 +1,410 @@
+{
+  "runTime": 1659067639114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5262066,
+        "num": 5262066,
+        "word": "抖音崩了",
+        "onboard_time": 1659065373,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1690467,
+        "num": 1690467,
+        "word": "多地查处公务员省考违纪考生",
+        "onboard_time": 1659062551,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 49669,
+        "num": 1489041,
+        "word": "从卫星视角看国家公园",
+        "onboard_time": 1659066877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365708,
+        "num": 1365708,
+        "word": "女生每天跳操2小时致肌肉溶解",
+        "onboard_time": 1659056315,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1239707,
+        "num": 1239707,
+        "word": "沉香如屑断更",
+        "onboard_time": 1659064472,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1051386,
+        "num": 1051386,
+        "word": "结婚16年3孩均非亲生男子发声",
+        "onboard_time": 1659059312,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005988,
+        "num": 1005988,
+        "word": "MIRROR演唱会舞台事故",
+        "onboard_time": 1659050304,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 978622,
+        "num": 978622,
+        "word": "李钟硕林允儿新剧今日开播",
+        "onboard_time": 1659064953,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 888786,
+        "num": 888786,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659067599,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887611,
+        "num": 887611,
+        "word": "佩洛西台湾行程为待定",
+        "onboard_time": 1659062013,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 739936,
+        "num": 739936,
+        "word": "22岁加班猝死女孩哥哥因车祸去世",
+        "onboard_time": 1659057571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731581,
+        "num": 731581,
+        "word": "奔跑吧今晚是黄金争夺战",
+        "onboard_time": 1659063930,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726658,
+        "num": 726658,
+        "word": "两高中生奸杀教师案第三人将受审",
+        "onboard_time": 1659010298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600823,
+        "num": 600823,
+        "word": "天才基本法 魔改",
+        "onboard_time": 1659059912,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581980,
+        "num": 581980,
+        "word": "上海男生真的会让人放心爱",
+        "onboard_time": 1659066635,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 562023,
+        "num": 562023,
+        "word": "华晨宇包场支持独行月球",
+        "onboard_time": 1659066877,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491833,
+        "num": 491833,
+        "word": "努力让自己不淋雨的小狗",
+        "onboard_time": 1659064114,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474728,
+        "num": 474728,
+        "word": "中金",
+        "onboard_time": 1659054091,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401905,
+        "num": 401905,
+        "word": "雷克萨斯LM严重车祸所有车门无法打开",
+        "onboard_time": 1659054033,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334660,
+        "num": 334660,
+        "word": "苹果CEO库克回应在中国打折",
+        "onboard_time": 1659054271,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 745718,
+        "num": 334454,
+        "word": "辣目洋子道歉",
+        "onboard_time": 1659021166,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522666,
+        "num": 333798,
+        "word": "花少4导演夸杨幂",
+        "onboard_time": 1659061771,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459329,
+        "num": 333247,
+        "word": "少年出游记定档",
+        "onboard_time": 1659065254,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332587,
+        "num": 332587,
+        "word": "邓稼先消失28年妻子只知3个不能",
+        "onboard_time": 1659053310,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297041,
+        "num": 297041,
+        "word": "年轻人如何有效送礼",
+        "onboard_time": 1659066151,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433687,
+        "num": 289895,
+        "word": "孙亦航真的带黄锐来参加向前冲了",
+        "onboard_time": 1659066996,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278633,
+        "num": 278633,
+        "word": "官方回应哈啰员工破坏70辆美团单车",
+        "onboard_time": 1659061713,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 275669,
+        "num": 275669,
+        "word": "台湾是中国的台湾",
+        "onboard_time": 1659017443,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 263294,
+        "num": 263294,
+        "word": "富士山",
+        "onboard_time": 1659066877,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262306,
+        "num": 262306,
+        "word": "陈梦奥运夺金一周年",
+        "onboard_time": 1659067538,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353706,
+        "num": 260986,
+        "word": "王心凌官宣加盟听说很好吃",
+        "onboard_time": 1659060273,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328999,
+        "num": 259563,
+        "word": "范丞丞新剧在工地搬砖",
+        "onboard_time": 1659067477,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326616,
+        "num": 259324,
+        "word": "梦华录",
+        "onboard_time": 1659059190,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256568,
+        "num": 256568,
+        "word": "甘肃天水被霸凌女生父亲发声",
+        "onboard_time": 1659055294,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249095,
+        "num": 249095,
+        "word": "邓稼先两弹奖金各10元",
+        "onboard_time": 1659051386,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317497,
+        "num": 247600,
+        "word": "音阙诗听",
+        "onboard_time": 1659062013,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242949,
+        "num": 242949,
+        "word": "90后券商交易员月入超8万",
+        "onboard_time": 1659058171,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 234117,
+        "num": 234117,
+        "word": "二舅确为河北某村村民",
+        "onboard_time": 1659050664,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227085,
+        "num": 227085,
+        "word": "二舅镇上干部回应",
+        "onboard_time": 1659067358,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226677,
+        "num": 226677,
+        "word": "你这背景太假了小伙回应",
+        "onboard_time": 1659033374,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291639,
+        "num": 226063,
+        "word": "乘风破浪五公舞台造型海报",
+        "onboard_time": 1659064233,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224113,
+        "num": 224113,
+        "word": "奶奶对着摄像头和孙子分享日常",
+        "onboard_time": 1659064592,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222672,
+        "num": 222672,
+        "word": "西安一公司为防泄密监控员工手机",
+        "onboard_time": 1659059371,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221434,
+        "num": 221434,
+        "word": "闪耀暖暖",
+        "onboard_time": 1659063752,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209815,
+        "num": 209815,
+        "word": "员工因加班猝死公司有没有责任",
+        "onboard_time": 1659067053,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170979,
+        "num": 170979,
+        "word": "四川新增本土确诊16例无症状29例",
+        "onboard_time": 1659061051,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "成都新增本土确诊15例无症状27例",
+        "onboard_time": 1659067297,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153341,
+        "num": 153341,
+        "word": "追房子的郑州95后女孩",
+        "onboard_time": 1659057753,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "称生女儿晦气男子致歉被指没诚意",
+        "onboard_time": 1659037753,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147304,
+        "num": 147304,
+        "word": "深圳第二家AppleStore",
+        "onboard_time": 1659060092,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美双方元首通话#"
+    }
+  }
+}
