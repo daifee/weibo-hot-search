@@ -1,0 +1,410 @@
+{
+  "runTime": 1659083206082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971523,
+        "num": 1971523,
+        "word": "苏醒说以后不会在节目里唱跳了",
+        "onboard_time": 1659079889,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1553770,
+        "num": 1553770,
+        "word": "王心凌乘风破浪秒变演唱会",
+        "onboard_time": 1659071197,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92527,
+        "num": 1373677,
+        "word": "从卫星视角看国家公园",
+        "onboard_time": 1659066877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309981,
+        "num": 1309981,
+        "word": "郑秀妍含泪回头",
+        "onboard_time": 1659081093,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1183742,
+        "num": 1183742,
+        "word": "中金回应90后交易员月入超8万",
+        "onboard_time": 1659078151,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 964969,
+        "num": 964969,
+        "word": "迪奥抄袭马面裙",
+        "onboard_time": 1659072391,
+        "rank": 5,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 911182,
+        "num": 911182,
+        "word": "男童4楼坠落邻居一家用被子接住",
+        "onboard_time": 1659078271,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884297,
+        "num": 884297,
+        "word": "原卫生院院长回应二舅致残原因",
+        "onboard_time": 1659077250,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828848,
+        "num": 828848,
+        "word": "微信开放红包封面定制",
+        "onboard_time": 1659075213,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 731674,
+        "num": 731674,
+        "word": "情侣分手男子当场甩出2年消费清单",
+        "onboard_time": 1659072512,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1360188,
+        "num": 714892,
+        "word": "孟美岐音乐会票价",
+        "onboard_time": 1659075871,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1191659,
+        "num": 714538,
+        "word": "香港演唱会事故初步调查原因",
+        "onboard_time": 1659082049,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624223,
+        "num": 624223,
+        "word": "丁泽仁曾去这街4端盘子",
+        "onboard_time": 1659075388,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589215,
+        "num": 589215,
+        "word": "游客蹦极遇停电被悬吊空中",
+        "onboard_time": 1659078569,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 575108,
+        "num": 575108,
+        "word": "年轻人为什么越来越不爱买大牌",
+        "onboard_time": 1659071374,
+        "rank": 14,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 540482,
+        "num": 540482,
+        "word": "中华小子",
+        "onboard_time": 1659069754,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 535035,
+        "num": 535035,
+        "word": "RNG官宣Ana替补",
+        "onboard_time": 1659082650,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 498015,
+        "num": 498015,
+        "word": "女生每天跳操2小时致肌肉溶解",
+        "onboard_time": 1659056315,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433426,
+        "num": 433426,
+        "word": "接天莲叶无穷碧原来长这样",
+        "onboard_time": 1659080729,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 425206,
+        "num": 425206,
+        "word": "成都锦江区疫情防控",
+        "onboard_time": 1659081750,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572375,
+        "num": 418943,
+        "word": "Mirror演唱会掉落巨屏重600公斤",
+        "onboard_time": 1659080788,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537304,
+        "num": 399844,
+        "word": "白鹿周深撞衫同款狗头睡衣",
+        "onboard_time": 1659079231,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524393,
+        "num": 396323,
+        "word": "沈腾 独行月球",
+        "onboard_time": 1659079709,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372527,
+        "num": 372527,
+        "word": "基金",
+        "onboard_time": 1659080132,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366125,
+        "num": 366125,
+        "word": "疑女子未管教孩子遭店主怒甩耳光",
+        "onboard_time": 1659074130,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365472,
+        "num": 365472,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659082230,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359921,
+        "num": 359921,
+        "word": "雷克萨斯回应车祸后车门打不开",
+        "onboard_time": 1659075570,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322618,
+        "num": 322618,
+        "word": "上海台风前现水晶天",
+        "onboard_time": 1659077730,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289252,
+        "num": 289252,
+        "word": "全家人戴口罩迎接龙凤胎新成员",
+        "onboard_time": 1659080671,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279776,
+        "num": 279776,
+        "word": "年轻人为何躲不过装修的坑",
+        "onboard_time": 1659078090,
+        "rank": 29,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 457862,
+        "num": 279531,
+        "word": "锦觅忘川听到的虐恋故事是颜淡的",
+        "onboard_time": 1659082770,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452541,
+        "num": 276774,
+        "word": "赵今麦郭俊辰双人采访好甜",
+        "onboard_time": 1659081211,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441748,
+        "num": 274004,
+        "word": "独行月球",
+        "onboard_time": 1659081150,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423108,
+        "num": 272225,
+        "word": "唐诗逸失误救场",
+        "onboard_time": 1659072213,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270347,
+        "num": 270347,
+        "word": "雷克萨斯车祸起火致1死2伤",
+        "onboard_time": 1659081869,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 264498,
+        "num": 264498,
+        "word": "杭州青年基本实现通勤自由",
+        "onboard_time": 1659080788,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234882,
+        "num": 234882,
+        "word": "儿科医院设置学习困难科",
+        "onboard_time": 1659077850,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 228711,
+        "num": 228711,
+        "word": "灵猫传 停服",
+        "onboard_time": 1659071616,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216031,
+        "num": 216031,
+        "word": "80强军号",
+        "onboard_time": 1659078930,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 204104,
+        "num": 204104,
+        "word": "二舅镇上干部回应",
+        "onboard_time": 1659067358,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378196,
+        "num": 204018,
+        "word": "蓝盈莹新剧用假发",
+        "onboard_time": 1659078511,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372629,
+        "num": 203956,
+        "word": "BLACKPINK 建模",
+        "onboard_time": 1659073771,
+        "rank": 41,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 203707,
+        "num": 203707,
+        "word": "富士山",
+        "onboard_time": 1659066877,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200436,
+        "num": 200436,
+        "word": "武磊要回来了",
+        "onboard_time": 1659079413,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197987,
+        "num": 197987,
+        "word": "调休",
+        "onboard_time": 1659067718,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182136,
+        "num": 182136,
+        "word": "交警回应雷克萨斯车祸事故",
+        "onboard_time": 1659082289,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180918,
+        "num": 180918,
+        "word": "全国超1400万人承受60分钟以上极端通勤",
+        "onboard_time": 1659069697,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173341,
+        "num": 173341,
+        "word": "王铭晖被开除党籍和公职",
+        "onboard_time": 1659083130,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167770,
+        "num": 167770,
+        "word": "6岁脑瘫女孩给母亲展示蹲马步",
+        "onboard_time": 1659069397,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161570,
+        "num": 161570,
+        "word": "动物园回应老虎身形消瘦趴地吃草",
+        "onboard_time": 1659070056,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国新电商大会#"
+    }
+  }
+}
