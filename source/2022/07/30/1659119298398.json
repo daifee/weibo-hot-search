@@ -1,0 +1,410 @@
+{
+  "runTime": 1659119298398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 768501,
+        "num": 768501,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659119294,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371676,
+        "num": 371676,
+        "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
+        "onboard_time": 1659096329,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 38427,
+        "num": 351482,
+        "word": "4分钟看解放军军服演变史",
+        "onboard_time": 1659099332,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 349821,
+        "num": 349821,
+        "word": "全球最大精子银行上调精子价格",
+        "onboard_time": 1659098674,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 289796,
+        "num": 289796,
+        "word": "Angelababy白鹿赵露思素颜近照",
+        "onboard_time": 1659114920,
+        "rank": 4,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 221136,
+        "num": 221136,
+        "word": "孟美岐舞台氛围感",
+        "onboard_time": 1659112407,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203841,
+        "num": 203841,
+        "word": "清华大学vs重庆文理",
+        "onboard_time": 1659103053,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191920,
+        "num": 191920,
+        "word": "雷克萨斯车祸救人司机发声",
+        "onboard_time": 1659107196,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172706,
+        "num": 172706,
+        "word": "我的分享欲是怎么没的",
+        "onboard_time": 1659101070,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166494,
+        "num": 166494,
+        "word": "6岁男孩啃苹果把俩门牙镶上面",
+        "onboard_time": 1659107732,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149528,
+        "num": 149528,
+        "word": "里根号航母进南海想干啥",
+        "onboard_time": 1659095969,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "吴冠希张常宁明日大婚",
+        "onboard_time": 1659112107,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138632,
+        "num": 138632,
+        "word": "草莓裴之黑化",
+        "onboard_time": 1659111448,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131358,
+        "num": 131358,
+        "word": "江城 Gemini",
+        "onboard_time": 1659110969,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 129665,
+        "word": "隔着屏幕已经开始生气了",
+        "onboard_time": 1659105333,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124145,
+        "num": 124145,
+        "word": "中金人均年薪115万",
+        "onboard_time": 1659093569,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 118542,
+        "num": 118542,
+        "word": "福建平潭局部海域实弹射击训练",
+        "onboard_time": 1659097588,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117248,
+        "num": 117248,
+        "word": "杭州通报22岁女孩加班猝死核查情况",
+        "onboard_time": 1659104914,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102511,
+        "num": 102511,
+        "word": "被晒月薪超8万中金员工停职调查",
+        "onboard_time": 1659093150,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 101246,
+        "num": 101246,
+        "word": "独行月球",
+        "onboard_time": 1659081150,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93136,
+        "num": 93136,
+        "word": "向往的生活",
+        "onboard_time": 1659104794,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90171,
+        "num": 90171,
+        "word": "香港演唱会事故初步调查原因",
+        "onboard_time": 1659082049,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83737,
+        "num": 83737,
+        "word": "周深终于撕上名牌了",
+        "onboard_time": 1659111208,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83514,
+        "num": 83514,
+        "word": "机票燃油附加费今年首次下调",
+        "onboard_time": 1659100953,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 78424,
+        "num": 78424,
+        "word": "ESO新歌",
+        "onboard_time": 1659105035,
+        "rank": 24,
+        "category": "音乐,网红"
+      },
+      {
+        "raw_hot": 74927,
+        "num": 74927,
+        "word": "网友质疑地铁站插画风格怪异",
+        "onboard_time": 1659103770,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71001,
+        "num": 71001,
+        "word": "同学录是全国统一的吗",
+        "onboard_time": 1659096630,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70746,
+        "num": 70746,
+        "word": "里根号",
+        "onboard_time": 1659089913,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 68475,
+        "num": 68475,
+        "word": "隐秘的角落试玩上线Steam",
+        "onboard_time": 1659111688,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66501,
+        "num": 66501,
+        "word": "平潭",
+        "onboard_time": 1659094407,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 249065,
+        "num": 65249,
+        "word": "张译 百花奖",
+        "onboard_time": 1659109952,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71827,
+        "num": 65036,
+        "word": "80强军号",
+        "onboard_time": 1659078930,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 63471,
+        "num": 63471,
+        "word": "奔跑吧全员不说再见",
+        "onboard_time": 1659108335,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62118,
+        "num": 62118,
+        "word": "连小狗都不能拒绝小猫撒娇",
+        "onboard_time": 1659106418,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61802,
+        "num": 61802,
+        "word": "云南女子13岁被拐为妻当事人发声",
+        "onboard_time": 1659090031,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60045,
+        "num": 60045,
+        "word": "林妙妙钱三一摸头杀",
+        "onboard_time": 1659111268,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57099,
+        "num": 57099,
+        "word": "12岁女孩爱吃油炸长9厘米乳腺瘤",
+        "onboard_time": 1659086553,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56133,
+        "num": 56133,
+        "word": "若美方挑战中方底线必遭坚决反制",
+        "onboard_time": 1659096931,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55278,
+        "num": 55278,
+        "word": "手机上最没用的功能是什么",
+        "onboard_time": 1659089309,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 53006,
+        "num": 53006,
+        "word": "李钟硕黑话律师",
+        "onboard_time": 1659104794,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47972,
+        "num": 47972,
+        "word": "这猫到底是怎么养的",
+        "onboard_time": 1659100772,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47891,
+        "num": 47891,
+        "word": "桂林惊现红色精灵闪电",
+        "onboard_time": 1659101673,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47339,
+        "num": 47339,
+        "word": "为什么好朋友关系会变淡",
+        "onboard_time": 1659092310,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45810,
+        "num": 45810,
+        "word": "第一次结婚有点紧张",
+        "onboard_time": 1659104133,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44066,
+        "num": 44066,
+        "word": "杨紫乔欣有友情但不多",
+        "onboard_time": 1659098133,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38148,
+        "num": 38148,
+        "word": "林允儿黑话律师",
+        "onboard_time": 1659109589,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37449,
+        "num": 37449,
+        "word": "清华大学男篮大胜重庆文理男篮",
+        "onboard_time": 1659106475,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35287,
+        "num": 35287,
+        "word": "央行将发行24节气金银纪念币",
+        "onboard_time": 1659103952,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 25720,
+        "num": 25720,
+        "word": "郭艾伦",
+        "onboard_time": 1659097110,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21876,
+        "num": 21876,
+        "word": "高志丹任国家体育总局局长",
+        "onboard_time": 1659105816,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广大党员干部要勇于担当敢为先锋#"
+    }
+  }
+}
