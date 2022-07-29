@@ -1,0 +1,410 @@
+{
+  "runTime": 1659063556148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2476506,
+        "num": 2476506,
+        "word": "女生每天跳操2小时致肌肉溶解",
+        "onboard_time": 1659056315,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1639863,
+        "num": 1639863,
+        "word": "MIRROR演唱会舞台事故",
+        "onboard_time": 1659050304,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 15355,
+        "num": 1189861,
+        "word": "杜富国钱七虎聂海胜荣获八一勋章",
+        "onboard_time": 1658962156,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1772261,
+        "num": 1178511,
+        "word": "结婚16年3孩均非亲生男子发声",
+        "onboard_time": 1659059312,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060664,
+        "num": 1060664,
+        "word": "两高中生奸杀教师案第三人将受审",
+        "onboard_time": 1659010298,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987224,
+        "num": 987224,
+        "word": "22岁加班猝死女孩哥哥因车祸去世",
+        "onboard_time": 1659057571,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933131,
+        "num": 933131,
+        "word": "花少4导演夸杨幂",
+        "onboard_time": 1659061771,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 924304,
+        "num": 924304,
+        "word": "王心凌官宣加盟听说很好吃",
+        "onboard_time": 1659060273,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913761,
+        "num": 913761,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659063512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682571,
+        "num": 682571,
+        "word": "佩洛西台湾行程为待定",
+        "onboard_time": 1659062013,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 647744,
+        "num": 647744,
+        "word": "天才基本法 魔改",
+        "onboard_time": 1659059912,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 598969,
+        "num": 598969,
+        "word": "多地查处公务员省考违纪考生",
+        "onboard_time": 1659062551,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 563125,
+        "num": 563125,
+        "word": "台湾是中国的台湾",
+        "onboard_time": 1659017443,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 545070,
+        "num": 545070,
+        "word": "梦华录",
+        "onboard_time": 1659059190,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509220,
+        "num": 509220,
+        "word": "甘肃天水被霸凌女生父亲发声",
+        "onboard_time": 1659055294,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505936,
+        "num": 505936,
+        "word": "苹果CEO库克回应在中国打折",
+        "onboard_time": 1659054271,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 465347,
+        "num": 465347,
+        "word": "你这背景太假了小伙回应",
+        "onboard_time": 1659033374,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442772,
+        "num": 442772,
+        "word": "草莓裴之",
+        "onboard_time": 1659057032,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399584,
+        "num": 399584,
+        "word": "西安一公司为防泄密监控员工手机",
+        "onboard_time": 1659059371,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392305,
+        "num": 392305,
+        "word": "邓稼先消失28年妻子只知3个不能",
+        "onboard_time": 1659053310,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001876,
+        "num": 387682,
+        "word": "辣目洋子道歉",
+        "onboard_time": 1659021166,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409888,
+        "num": 381651,
+        "word": "音阙诗听",
+        "onboard_time": 1659062013,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369151,
+        "num": 369151,
+        "word": "希林娜依高好声音青春导师",
+        "onboard_time": 1659054332,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342852,
+        "num": 342852,
+        "word": "追房子的郑州95后女孩",
+        "onboard_time": 1659057753,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 311924,
+        "num": 311924,
+        "word": "雷克萨斯LM严重车祸所有车门无法打开",
+        "onboard_time": 1659054033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288177,
+        "num": 288177,
+        "word": "二舅确为河北某村村民",
+        "onboard_time": 1659050664,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282038,
+        "num": 282038,
+        "word": "邓稼先两弹奖金各10元",
+        "onboard_time": 1659051386,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276848,
+        "num": 276848,
+        "word": "四川新增本土确诊16例无症状29例",
+        "onboard_time": 1659061051,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274395,
+        "num": 274395,
+        "word": "深圳第二家AppleStore",
+        "onboard_time": 1659060092,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260965,
+        "num": 260965,
+        "word": "官方回应哈啰员工破坏70辆美团单车",
+        "onboard_time": 1659061713,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 365735,
+        "num": 260217,
+        "word": "钱三一不会有毕业典礼了",
+        "onboard_time": 1659054631,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263524,
+        "num": 260195,
+        "word": "月升沧海",
+        "onboard_time": 1659014861,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259228,
+        "num": 259228,
+        "word": "中金",
+        "onboard_time": 1659054091,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246077,
+        "num": 246077,
+        "word": "我爱你所以你不用是招娣",
+        "onboard_time": 1659025887,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243729,
+        "num": 243729,
+        "word": "90后券商交易员月入超8万",
+        "onboard_time": 1659058171,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235223,
+        "num": 235223,
+        "word": "Beyonce回归",
+        "onboard_time": 1659062433,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233740,
+        "num": 233740,
+        "word": "成都东站",
+        "onboard_time": 1659054450,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233124,
+        "num": 233124,
+        "word": "爷爷为高考后的孙女画人生规划图",
+        "onboard_time": 1659055834,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 230046,
+        "num": 230046,
+        "word": "奇怪的律师禹英雨吻戏",
+        "onboard_time": 1659053310,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228790,
+        "num": 228790,
+        "word": "95后古籍修复师花半个月补一条裂纹",
+        "onboard_time": 1659060693,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201670,
+        "num": 201670,
+        "word": "称生女儿晦气男子致歉被指没诚意",
+        "onboard_time": 1659037753,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188823,
+        "num": 188823,
+        "word": "越躺越睡不着怎么办",
+        "onboard_time": 1659057872,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187551,
+        "num": 187551,
+        "word": "成都地铁",
+        "onboard_time": 1659053310,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186174,
+        "num": 186174,
+        "word": "向前冲首批冲人来了",
+        "onboard_time": 1659060213,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168207,
+        "num": 168207,
+        "word": "李家超就香港演唱会事故发声",
+        "onboard_time": 1659055896,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155670,
+        "num": 155670,
+        "word": "小脑斧卖萌谁扛得住啊",
+        "onboard_time": 1659054574,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149510,
+        "num": 149510,
+        "word": "女子怀孕5个月被公司要求主动离职",
+        "onboard_time": 1659008858,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145866,
+        "num": 145866,
+        "word": "越妃 互联网嘴替",
+        "onboard_time": 1659030018,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137460,
+        "num": 137460,
+        "word": "甘肃增21例确诊112例无症状",
+        "onboard_time": 1659059912,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130464,
+        "num": 130464,
+        "word": "台风桑达生成",
+        "onboard_time": 1659056072,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
