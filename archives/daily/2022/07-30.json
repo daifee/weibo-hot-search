@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659149005433,
+  "endTime": 1659154547549,
   "band_list": [
     {
       "raw_hot": 2301820,
@@ -17,6 +17,14 @@
       "onboard_time": 1659144626,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2196237,
+      "num": 1020502,
+      "word": "刘雨昕手机壳是杨迪表情包",
+      "onboard_time": 1659149489,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2150865,
@@ -59,12 +67,36 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1690006,
+      "num": 1690006,
+      "word": "你好星期六全员晒第一部手机",
+      "onboard_time": 1659149068,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1607626,
       "num": 1607626,
       "word": "无驾照丈夫乱指挥致妻子被扣12分",
       "onboard_time": 1659141386,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1501303,
+      "num": 569634,
+      "word": "中金人均年薪98万已是降后水平",
+      "onboard_time": 1659148826,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1495494,
+      "num": 1495494,
+      "word": "12岁的王圣迪播了14部戏",
+      "onboard_time": 1659152008,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1174644,
@@ -123,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 995260,
-      "num": 995260,
+      "raw_hot": 1001334,
+      "num": 1001334,
       "word": "高度近视产生的眼底病变不可逆",
       "onboard_time": 1659146127,
       "rank": 36,
@@ -137,6 +169,22 @@
       "onboard_time": 1659105395,
       "rank": 24,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 899233,
+      "num": 899233,
+      "word": "女子晒农村自建房造价120万",
+      "onboard_time": 1659152668,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869506,
+      "num": 869506,
+      "word": "张常宁吴冠希今日大婚",
+      "onboard_time": 1659112107,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 850764,
@@ -251,6 +299,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 463799,
+      "num": 463799,
+      "word": "NBA调查哈登降薪续约",
+      "onboard_time": 1659148407,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460865,
       "num": 460865,
       "word": "外国网友呼吁AI的命也是命",
@@ -267,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448268,
+      "num": 448268,
+      "word": "战至巅峰总决赛",
+      "onboard_time": 1659153988,
+      "rank": 13,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 434444,
       "num": 434444,
       "word": "隔着屏幕已经开始生气了",
@@ -275,12 +339,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 414553,
-      "num": 414553,
+      "raw_hot": 428534,
+      "num": 428534,
       "word": "爸妈的基因都写在脸上了",
       "onboard_time": 1659147627,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 424372,
+      "num": 424372,
+      "word": "倒霉淡和大渊种",
+      "onboard_time": 1659152668,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 420336,
+      "num": 337542,
+      "word": "李易峰百花奖生图",
+      "onboard_time": 1659152485,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418108,
+      "num": 343246,
+      "word": "王心凌你们的信我都有看",
+      "onboard_time": 1659149188,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 407507,
@@ -289,6 +377,22 @@
       "onboard_time": 1659097588,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 403223,
+      "num": 195366,
+      "word": "林妙妙钱三一吵架了",
+      "onboard_time": 1659149428,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 393872,
+      "num": 339303,
+      "word": "阿里被美证监会列入预摘牌风险名单",
+      "onboard_time": 1659148166,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393364,
@@ -320,6 +424,22 @@
       "word": "山东新增本土确诊2例无症状56例",
       "onboard_time": 1659143427,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386008,
+      "num": 386008,
+      "word": "拉萨景区游客翻护栏抢门票",
+      "onboard_time": 1659149609,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375788,
+      "num": 375788,
+      "word": "熊孩子高空抛物被假扮伤者吓哭",
+      "onboard_time": 1659151706,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -371,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346229,
+      "num": 194414,
+      "word": "白日梦我杀青",
+      "onboard_time": 1659153924,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341932,
       "num": 341932,
       "word": "吴冠希张常宁明日大婚",
@@ -403,6 +531,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324769,
+      "num": 188478,
+      "word": "白日梦我",
+      "onboard_time": 1659152668,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 324745,
+      "num": 324745,
+      "word": "谁偷走了年轻人的雪糕自由",
+      "onboard_time": 1659153088,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 319805,
+      "num": 151960,
+      "word": "姜云升新歌",
+      "onboard_time": 1659152787,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 319023,
       "num": 215277,
       "word": "谭维维乘风破浪神级现场",
@@ -427,20 +579,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 301377,
-      "num": 301377,
-      "word": "张常宁吴冠希今日大婚",
-      "onboard_time": 1659112107,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 296401,
-      "num": 296401,
-      "word": "NBA调查哈登降薪续约",
-      "onboard_time": 1659148407,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 297569,
+      "num": 297569,
+      "word": "复旦教授这样看待工作效率低下",
+      "onboard_time": 1659150447,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 292186,
@@ -515,11 +659,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271170,
-      "num": 271170,
-      "word": "阿里被美证监会列入预摘牌风险名单",
-      "onboard_time": 1659148166,
-      "rank": 26,
+      "raw_hot": 270654,
+      "num": 270654,
+      "word": "四川增本土确诊10例无症状12例",
+      "onboard_time": 1659153625,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -577,6 +721,14 @@
       "onboard_time": 1659106475,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232690,
+      "num": 232690,
+      "word": "照顾瘫痪父亲女孩考上清华大学",
+      "onboard_time": 1659147567,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 232245,
@@ -643,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193750,
-      "num": 193750,
-      "word": "照顾瘫痪父亲女孩考上清华大学",
-      "onboard_time": 1659147567,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 193439,
       "num": 193439,
       "word": "林允儿黑话律师",
@@ -683,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177309,
+      "num": 177309,
+      "word": "感受到养猫的快乐了",
+      "onboard_time": 1659148707,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175253,
       "num": 175253,
       "word": "被晒月薪超8万中金员工停职调查",
@@ -707,14 +859,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 165902,
-      "num": 165902,
-      "word": "感受到养猫的快乐了",
-      "onboard_time": 1659148707,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165634,
       "num": 165634,
       "word": "马龙双满贯一周年",
@@ -729,6 +873,14 @@
       "onboard_time": 1659092310,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162654,
+      "num": 162654,
+      "word": "脑瘫女孩给妈妈的惊喜看哭网友",
+      "onboard_time": 1659151048,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161398,
@@ -753,14 +905,6 @@
       "onboard_time": 1659082049,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158614,
-      "num": 158614,
-      "word": "中金人均年薪98万已是降后水平",
-      "onboard_time": 1659148826,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157901,
@@ -811,6 +955,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 144321,
+      "num": 144321,
+      "word": "感觉眼睛又被欺骗了",
+      "onboard_time": 1659151346,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143364,
       "num": 143364,
       "word": "7月29日新增本土确诊49例",
@@ -849,6 +1001,14 @@
       "onboard_time": 1659089309,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "5城市试点特定养老储蓄",
+      "onboard_time": 1659151828,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123717,
