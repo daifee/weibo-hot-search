@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659170479848,
+  "endTime": 1659173788223,
   "band_list": [
     {
       "raw_hot": 5212131,
@@ -43,6 +43,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2273585,
+      "num": 2273585,
+      "word": "14岁男孩考上211和985",
+      "onboard_time": 1659169110,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2196237,
       "num": 1132962,
       "word": "刘雨昕手机壳是杨迪表情包",
@@ -81,6 +89,14 @@
       "onboard_time": 1659109952,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1802986,
+      "num": 1802986,
+      "word": "佩洛西若窜访成行大陆将对台采取断然措施",
+      "onboard_time": 1659167010,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1777134,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1506010,
+      "num": 521196,
+      "word": "婆媳因空调闹矛盾丈夫竟要赶走妻子",
+      "onboard_time": 1659170730,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1501303,
       "num": 643384,
       "word": "中金人均年薪98万已是降后水平",
@@ -155,12 +179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1386988,
-      "num": 1386988,
-      "word": "佩洛西若窜访成行大陆将对台采取断然措施",
-      "onboard_time": 1659167010,
-      "rank": 1,
-      "category": "国外要闻"
+      "raw_hot": 1398165,
+      "num": 1398165,
+      "word": "张小斐百花奖行走的冰沙",
+      "onboard_time": 1659169889,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1349761,
+      "num": 1349761,
+      "word": "BLACKPINK新歌 aespa",
+      "onboard_time": 1659172713,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 1308563,
@@ -179,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1213245,
+      "num": 528587,
+      "word": "邓家佳百花奖复古公主造型",
+      "onboard_time": 1659172351,
+      "rank": 23,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 1174644,
       "num": 1174644,
       "word": "原来tangoz是来向前冲送冰箱的",
       "onboard_time": 1659147267,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1170602,
-      "num": 1170602,
-      "word": "张小斐百花奖行走的冰沙",
-      "onboard_time": 1659169889,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1166545,
@@ -283,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939399,
+      "num": 939399,
+      "word": "独行月球",
+      "onboard_time": 1659081150,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 921101,
       "num": 253274,
       "word": "蔡徐坤朋友",
       "onboard_time": 1659105395,
       "rank": 24,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 913319,
+      "num": 913319,
+      "word": "师傅修好空调大妈不给钱说谢谢",
+      "onboard_time": 1659167608,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885557,
@@ -371,20 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 746628,
+      "num": 1410891,
+      "word": "跑步超1小时要喝电解质饮料",
+      "onboard_time": 1659170189,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 738533,
+      "num": 513588,
+      "word": "朱一龙 百花奖",
+      "onboard_time": 1659172403,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 715881,
       "num": 562027,
       "word": "龚俊战胜周柯宇",
       "onboard_time": 1659161966,
       "rank": 12,
       "category": "游戏,综艺"
-    },
-    {
-      "raw_hot": 714001,
-      "num": 714001,
-      "word": "14岁男孩考上211和985",
-      "onboard_time": 1659169110,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 663029,
@@ -467,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 608969,
-      "num": 608969,
-      "word": "独行月球",
-      "onboard_time": 1659081150,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 603210,
       "num": 343849,
       "word": "钟楚曦说第一次见到许凯闪瞎眼",
@@ -489,6 +537,14 @@
       "onboard_time": 1659148648,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 594164,
+      "num": 354294,
+      "word": "李易峰百花奖黑白大片",
+      "onboard_time": 1659171991,
+      "rank": 20,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 581682,
@@ -531,11 +587,11 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 527161,
-      "num": 527161,
-      "word": "师傅修好空调大妈不给钱说谢谢",
-      "onboard_time": 1659167608,
-      "rank": 16,
+      "raw_hot": 528955,
+      "num": 528955,
+      "word": "乐山公安通报持枪伤人案",
+      "onboard_time": 1659173312,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -545,6 +601,14 @@
       "onboard_time": 1659161728,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513256,
+      "num": 513256,
+      "word": "张常宁父母的礼物太好哭了",
+      "onboard_time": 1659171870,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 497578,
@@ -707,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411838,
+      "num": 249127,
+      "word": "ITZY新歌生唱练习室",
+      "onboard_time": 1659172229,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 407686,
       "num": 192481,
       "word": "龚俊貂蝉丝血极限反杀",
@@ -729,6 +801,14 @@
       "onboard_time": 1659149428,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403198,
+      "num": 403198,
+      "word": "再也不想在空调房里过夏天了",
+      "onboard_time": 1659170251,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 396872,
@@ -785,6 +865,14 @@
       "onboard_time": 1659157290,
       "rank": 30,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 392005,
+      "num": 392005,
+      "word": "宠物狗疑未拴绳被撞死主人哭晕",
+      "onboard_time": 1659168086,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391626,
@@ -851,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374840,
+      "num": 374840,
+      "word": "马斯克称应该放弃混动汽车",
+      "onboard_time": 1659171271,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 372657,
       "num": 150486,
       "word": "奔跑吧第十季颁奖大会",
       "onboard_time": 1659159269,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371600,
+      "num": 221259,
+      "word": "敖子逸夺冠激动滑跪",
+      "onboard_time": 1659170489,
+      "rank": 31,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 367778,
@@ -892,7 +996,7 @@
     },
     {
       "raw_hot": 359398,
-      "num": 1364352,
+      "num": 1528115,
       "word": "黄河在咆哮这句歌词有画面了",
       "onboard_time": 1659155607,
       "rank": 29,
@@ -904,14 +1008,6 @@
       "word": "福景001轮搜寻到落水人员遗体25具",
       "onboard_time": 1659136097,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354651,
-      "num": 354651,
-      "word": "宠物狗疑未拴绳被撞死主人哭晕",
-      "onboard_time": 1659168086,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -947,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347374,
+      "num": 347374,
+      "word": "一个人的嘴到底可以多硬",
+      "onboard_time": 1659172229,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346229,
       "num": 194414,
       "word": "白日梦我杀青",
@@ -960,6 +1064,14 @@
       "word": "龚俊单挑王",
       "onboard_time": 1659167908,
       "rank": 30,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 343295,
+      "num": 179950,
+      "word": "久哲升级六冠教练",
+      "onboard_time": 1659171209,
+      "rank": 33,
       "category": "综艺,游戏"
     },
     {
@@ -1139,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283198,
+      "num": 194763,
+      "word": "杨紫颜淡周末花絮照",
+      "onboard_time": 1659171568,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279787,
       "num": 279787,
       "word": "六旬大叔高温下跪地施救溺水男孩",
@@ -1216,6 +1336,14 @@
       "word": "上海增本土确诊1例无症状4例",
       "onboard_time": 1659142227,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267560,
+      "num": 267560,
+      "word": "7月29日新增确诊100例",
+      "onboard_time": 1659171513,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1403,12 +1531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190066,
-      "num": 190066,
-      "word": "再也不想在空调房里过夏天了",
-      "onboard_time": 1659170251,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 192048,
+      "num": 192048,
+      "word": "致敬人民子弟兵",
+      "onboard_time": 1659173434,
+      "rank": 34,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 186008,
@@ -1659,12 +1787,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 108214,
-      "num": 108214,
-      "word": "跑步超1小时要喝电解质饮料",
-      "onboard_time": 1659170189,
-      "rank": 48,
-      "category": "体育,社会新闻"
+      "raw_hot": 118503,
+      "num": 118503,
+      "word": "开封市新增1例无症状感染者",
+      "onboard_time": 1659172772,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101837,
