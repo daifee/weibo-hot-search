@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659190736921,
+  "endTime": 1659191698583,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1792919,
-      "num": 472130,
+      "num": 667163,
       "word": "海清0票",
       "onboard_time": 1659189280,
       "rank": 10,
@@ -200,6 +200,14 @@
       "word": "熬夜加班猝死女孩家属希望停止捐款",
       "onboard_time": 1659182312,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1717746,
+      "num": 1717746,
+      "word": "480斤小伙打利尿剂一周减120斤",
+      "onboard_time": 1659186574,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1659177929,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1686050,
-      "num": 1686050,
-      "word": "480斤小伙打利尿剂一周减120斤",
-      "onboard_time": 1659186574,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1627703,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1409549,
-      "num": 459773,
+      "num": 592391,
       "word": "刘烨 票",
       "onboard_time": 1659188559,
       "rank": 13,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977958,
+      "num": 666057,
+      "word": "唐九洲 帅",
+      "onboard_time": 1659189817,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 939399,
       "num": 939399,
       "word": "独行月球",
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 864631,
+      "num": 289564,
+      "word": "周深洪湖水浪打浪现场绝了",
+      "onboard_time": 1659190779,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 850764,
       "num": 850764,
       "word": "龚俊只是想睡觉没惹任何人",
@@ -593,14 +609,6 @@
       "onboard_time": 1659161548,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 847915,
-      "num": 300704,
-      "word": "唐九洲 帅",
-      "onboard_time": 1659189817,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 841668,
@@ -699,6 +707,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 706605,
+      "num": 706605,
+      "word": "宁波大学vs清华大学",
+      "onboard_time": 1659188676,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 701389,
       "num": 701389,
       "word": "男生2分钟收到家对面大学录取书",
@@ -737,6 +753,14 @@
       "onboard_time": 1659114920,
       "rank": 4,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 659311,
+      "num": 659311,
+      "word": "南昌48小时未做核酸将赋黄码",
+      "onboard_time": 1659187358,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652279,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604014,
+      "num": 207570,
+      "word": "贾玲 我终于可以拿着自己的奖杯去见你",
+      "onboard_time": 1659191438,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 603210,
       "num": 343849,
       "word": "钟楚曦说第一次见到许凯闪瞎眼",
@@ -849,14 +881,6 @@
       "onboard_time": 1659174931,
       "rank": 20,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 595412,
-      "num": 469580,
-      "word": "南昌48小时未做核酸将赋黄码",
-      "onboard_time": 1659187358,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 594164,
@@ -888,6 +912,14 @@
       "word": "百花奖",
       "onboard_time": 1659143906,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 572493,
+      "num": 163012,
+      "word": "莲花楼",
+      "onboard_time": 1659191257,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1027,14 +1059,6 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 478489,
-      "num": 478489,
-      "word": "宁波大学vs清华大学",
-      "onboard_time": 1659188676,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 474677,
       "num": 240408,
       "word": "沸腾校园",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1659185315,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467129,
+      "num": 467129,
+      "word": "班主任回应托班长索要升学宴红包",
+      "onboard_time": 1659188078,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 465381,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1659172229,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 410090,
-      "num": 410090,
-      "word": "班主任回应托班长索要升学宴红包",
-      "onboard_time": 1659188078,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 408189,
@@ -1739,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307642,
+      "num": 283249,
+      "word": "四川枪击案嫌犯与1伤者为情人关系",
+      "onboard_time": 1659190361,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304373,
       "num": 304373,
       "word": "官方通报班主任索要升学宴红包",
@@ -1803,6 +1835,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 289953,
+      "num": 289953,
+      "word": "16家平台处置56.3万违规直播间",
+      "onboard_time": 1659189760,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 286071,
       "num": 286071,
       "word": "周深终于撕上名牌了",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1659137480,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276213,
+      "num": 276213,
+      "word": "朋友中总有一个倒霉蛋",
+      "onboard_time": 1659188317,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 275056,
@@ -1953,14 +2001,6 @@
       "onboard_time": 1659169350,
       "rank": 27,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 254138,
-      "num": 254138,
-      "word": "朋友中总有一个倒霉蛋",
-      "onboard_time": 1659188317,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 253072,
@@ -2107,12 +2147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206075,
-      "num": 206075,
-      "word": "16家平台处置56.3万违规直播间",
-      "onboard_time": 1659189760,
-      "rank": 37,
-      "category": "社会新闻,科技"
+      "raw_hot": 207623,
+      "num": 207623,
+      "word": "LCK",
+      "onboard_time": 1659190899,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 203412,
@@ -2425,14 +2465,6 @@
       "onboard_time": 1659180212,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139425,
-      "num": 139425,
-      "word": "四川枪击案嫌犯与1伤者为情人关系",
-      "onboard_time": 1659190361,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132601,
