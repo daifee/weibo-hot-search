@@ -3,6 +3,8 @@
  */
 const axios = require('axios');
 const archiveDaily = require('./archive-daily');
+const archiveWeekly = require('./archive-weekly');
+const archiveMonthly = require('./archive-monthly');
 const utils = require('./utils');
 
 // 依赖环境变量
@@ -55,31 +57,43 @@ function send(content) {
   });
 }
 
-/**
- * 渲染日榜内容（限制5000个字符）
- * Text too long, please input text less than 5000 characters!
- * @param {object} data
- * @returns Promise<String>
- */
-async function renderDailyContent(data, type) {
-  const titleMap = {
-    today: '今天',
-    yesterday: '昨天',
-  };
-  const title = titleMap[type] || '';
-
-  const date = new Date(data.startTime);
+function renderList(data) {
   const bandList = data.band_list
     .slice(0, 100)
     .map((item, index) => {
       const rank = index + 1;
-      return `${rank}. #${item.word}# （热度：${item.raw_hot}）`;
+      return `${rank}. ${item.word} （热度：${item.raw_hot}）`;
     }).join('\n');
 
-  const content = `${title}微博热搜——哪条热搜有关注价值？
-数据时间段：${utils.formatDate(date.getTime(), 1)}（${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}）
+  return bandList;
+}
 
-${bandList}`;
+function renderDesc(data) {
+  if (utils.isDaily(data)) {
+    return `统计时间段：${utils.formatDate(data.startTime, 1)}（${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}）`;
+  }
+  return `统计时间段：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}`;
+}
+
+function renderTitle(prefix) {
+  const title = `${prefix || ''}微博热搜榜——你认为哪条关注价值最大？`;
+  return title;
+}
+
+async function renderContent(data, prefixTitle) {
+  const title = renderTitle(prefixTitle);
+  const desc = renderDesc(data);
+  const bandList = renderList(data);
+
+  const content = [
+    title,
+    '\n',
+    '\n',
+    desc,
+    '\n',
+    '\n',
+    bandList,
+  ].join('');
 
   return content;
 }
@@ -89,39 +103,59 @@ ${bandList}`;
  * @param {number} timestamp
  * @returns Promise<String>
  */
-function generateDailyContent(timestamp, type) {
+function generateDailyContent(timestamp, prefixTitle) {
   // 读取数据
   const filePath = archiveDaily.getFilePath(timestamp, 'json');
   const data = utils.readJSON(filePath);
 
   // 渲染内容
-  return renderDailyContent(data, type);
+  return renderContent(data, prefixTitle);
+}
+
+function generateWeeklyContent(timestamp, prefixTitle) {
+  const filePath = archiveWeekly.getFilePath(timestamp, 'json');
+  const data = utils.readJSON(filePath);
+  return renderContent(data, prefixTitle);
+}
+
+function generateMonthlyContent(timestamp, prefixTitle) {
+  const filePath = archiveMonthly.getFilePath(timestamp, 'json');
+  const data = utils.readJSON(filePath);
+  return renderContent(data, prefixTitle);
 }
 
 // 发微博
-async function sendDaily(timestamp, type) {
-  const content = await generateDailyContent(timestamp, type);
+async function sendDaily(timestamp, now) {
+  const prefixTitle = now ? '今天' : '昨天';
+
+  const content = await generateDailyContent(timestamp, prefixTitle);
   return send(content);
 }
 
-// 发微博（昨天）
-function sendYesterday() {
-  const date = new Date();
-  date.setDate(date.getDate() - 1);
+// 发微博（本周）
+async function sendWeekly(timestamp, now) {
+  const prefixTitle = now ? '本周' : '上周';
 
-  return sendDaily(date.getTime(), 'yesterday');
+  const content = await generateWeeklyContent(timestamp, prefixTitle);
+
+  return send(content);
 }
 
-// 发微博（今天）
-function sendToday() {
-  const date = new Date();
-
-  return sendDaily(date.getTime(), 'today');
+// 发微博（上月）
+async function sendMonthly(timestamp) {
+  const ss = ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'];
+  const date = new Date(timestamp);
+  const prefixTitle = ss[date.getMonth()];
+  const content = await generateMonthlyContent(timestamp, prefixTitle);
+  return send(content);
 }
 
 module.exports = {
-  renderDailyContent,
+  renderContent,
   generateDailyContent,
-  sendYesterday,
-  sendToday,
+  generateWeeklyContent,
+  generateMonthlyContent,
+  sendDaily,
+  sendWeekly,
+  sendMonthly,
 };

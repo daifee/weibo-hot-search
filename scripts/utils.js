@@ -78,6 +78,12 @@ function convertDataFromSpider(data) {
   };
 }
 
+function isDaily({ startTime, endTime }) {
+  const differ = endTime - startTime;
+  // 1000 * 60 * 60 * 24
+  return differ < (1000 * 60 * 60 * 24);
+}
+
 // 聚合数据
 function aggregate(sourceFiles, convertData) {
   const result = {
@@ -223,4 +229,6 @@ module.exports = {
   extractDir,
   createFileIfNotExist,
   convertDataFromSpider,
+
+  isDaily,
 };

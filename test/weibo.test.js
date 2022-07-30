@@ -1,4 +1,4 @@
-// const { execSync } = require('child_process');
+const { execSync } = require('child_process');
 const fs = require('fs');
 const weibo = require('../scripts/weibo');
 const tool = require('./tool');
@@ -38,9 +38,9 @@ beforeEach(() => {
   tool.cleanTempDir();
 });
 
-describe('renderDailyContent(data, "today")', () => {
-  test('正确用法', async () => {
-    const content = await weibo.renderDailyContent(data, 'today');
+describe('renderContent(data, "今天")', () => {
+  test('今天', async () => {
+    const content = await weibo.renderContent(data, '今天');
     // 预览
     // execSync(`echo "${content}" > ./temp/preview.txt`);
 
@@ -53,13 +53,11 @@ describe('renderDailyContent(data, "today")', () => {
       expect(element).toEqual(expected[index]);
     }
   });
-});
 
-describe('renderDailyContent(data, "yesterday")', () => {
-  test('正确用法', async () => {
-    const content = await weibo.renderDailyContent(data, 'yesterday');
+  test('昨天', async () => {
+    const content = await weibo.renderContent(data, '昨天');
     // 预览
-    // execSync(`echo "${content}" > ./temp/preview.txt`);
+    execSync(`echo "${content}" > ./temp/preview.txt`);
 
     const expected = fs.readFileSync('./test/data/preview-weibo-yesterday.txt', 'utf-8');
 

@@ -125,3 +125,23 @@ describe('archiveMD(filePath, content)', () => {
     ).toBe(true);
   });
 });
+
+describe('isDaily({startTime, endTime})', () => {
+  test('expected true', () => {
+    const received = utils.isDaily({
+      startTime: 1658161172236,
+      endTime: 1658245557322,
+    });
+
+    expect(received).toBe(true);
+  });
+
+  test('expected false', () => {
+    const received = utils.isDaily({
+      startTime: 1658026035465,
+      endTime: 1658245557322,
+    });
+
+    expect(received).toBe(false);
+  });
+});
