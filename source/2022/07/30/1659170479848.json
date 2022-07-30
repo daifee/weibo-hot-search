@@ -1,0 +1,410 @@
+{
+  "runTime": 1659170479848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580144,
+        "num": 1580144,
+        "word": "专家称未来买房跟买包一样容易",
+        "onboard_time": 1659155607,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386988,
+        "num": 1386988,
+        "word": "佩洛西若窜访成行大陆将对台采取断然措施",
+        "onboard_time": 1659167010,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 292094,
+        "num": 1233281,
+        "word": "黄河在咆哮这句歌词有画面了",
+        "onboard_time": 1659155607,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445213,
+        "num": 1229892,
+        "word": "网传刘诗诗进组狐妖月红篇客串",
+        "onboard_time": 1659166231,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1170602,
+        "num": 1170602,
+        "word": "张小斐百花奖行走的冰沙",
+        "onboard_time": 1659169889,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788621,
+        "num": 788621,
+        "word": "学生曝班主任托班长要升学宴红包",
+        "onboard_time": 1659163109,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 786336,
+        "num": 786336,
+        "word": "土耳其空乘餐中疑似吃出蛇头",
+        "onboard_time": 1659161668,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778167,
+        "num": 778167,
+        "word": "钱三一给孩子起名钱三妙",
+        "onboard_time": 1659167010,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714001,
+        "num": 714001,
+        "word": "14岁男孩考上211和985",
+        "onboard_time": 1659169110,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 621281,
+        "num": 621281,
+        "word": "外卖小哥靠订单留言救了外卖小哥",
+        "onboard_time": 1659158727,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2598256,
+        "num": 620101,
+        "word": "向往的生活节目组发声",
+        "onboard_time": 1659162808,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617363,
+        "num": 617363,
+        "word": "杨超越回应一个月不出门看小说",
+        "onboard_time": 1659168567,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608969,
+        "num": 608969,
+        "word": "独行月球",
+        "onboard_time": 1659169350,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604688,
+        "num": 604688,
+        "word": "周鸿祎称360是全球黑客最恨的公司",
+        "onboard_time": 1659165687,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 527161,
+        "num": 527161,
+        "word": "师傅修好空调大妈不给钱说谢谢",
+        "onboard_time": 1659167608,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433281,
+        "num": 433281,
+        "word": "1岁萌娃为磨牙把桌子啃烂",
+        "onboard_time": 1659161548,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394608,
+        "num": 394608,
+        "word": "耿爽说有关国家不要玩火自焚",
+        "onboard_time": 1659165569,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 354651,
+        "num": 354651,
+        "word": "宠物狗疑未拴绳被撞死主人哭晕",
+        "onboard_time": 1659168086,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352615,
+        "num": 352615,
+        "word": "世界最高伴娘团",
+        "onboard_time": 1659158130,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351597,
+        "num": 351597,
+        "word": "当狗狗得知自己的身价后",
+        "onboard_time": 1659164249,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473447,
+        "num": 326196,
+        "word": "黄明昊百花奖颁奖典礼唱rap",
+        "onboard_time": 1659168147,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388965,
+        "num": 303070,
+        "word": "IXFORM 门票",
+        "onboard_time": 1659166169,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364460,
+        "num": 300146,
+        "word": "张子枫梦回唐探思诺",
+        "onboard_time": 1659169705,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278736,
+        "num": 278736,
+        "word": "万吨大驱延安舰训练画面公开",
+        "onboard_time": 1659162808,
+        "rank": 23,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 277129,
+        "num": 277129,
+        "word": "这个撞脸我沉默了",
+        "onboard_time": 1659162388,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359674,
+        "num": 274728,
+        "word": "王一博 头转",
+        "onboard_time": 1659160587,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253072,
+        "num": 253072,
+        "word": "饿了么",
+        "onboard_time": 1659159688,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247174,
+        "num": 247174,
+        "word": "中金人均年薪98万已是降后水平",
+        "onboard_time": 1659148826,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230683,
+        "num": 230683,
+        "word": "检察官评聊城洋葱杀妻案",
+        "onboard_time": 1659164548,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212390,
+        "num": 212390,
+        "word": "成都两姐妹改造农村小院后走红",
+        "onboard_time": 1659162629,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317836,
+        "num": 212162,
+        "word": "scarry金色的雨",
+        "onboard_time": 1659170129,
+        "rank": 30,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 304344,
+        "num": 211992,
+        "word": "欧阳娜娜林间情绪大片",
+        "onboard_time": 1659170071,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272229,
+        "num": 211377,
+        "word": "杨迪这是可以告的程度了吧",
+        "onboard_time": 1659159868,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209879,
+        "num": 209879,
+        "word": "甘肃天水通报女生被霸凌",
+        "onboard_time": 1659160165,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199343,
+        "num": 199343,
+        "word": "女子晒农村自建房造价120万",
+        "onboard_time": 1659152668,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191068,
+        "num": 191068,
+        "word": "这就是中国军人的誓言",
+        "onboard_time": 1659163230,
+        "rank": 35,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 190066,
+        "num": 190066,
+        "word": "再也不想在空调房里过夏天了",
+        "onboard_time": 1659170251,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187481,
+        "num": 187481,
+        "word": "现在是买房好时机吗",
+        "onboard_time": 1659156147,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183797,
+        "num": 183797,
+        "word": "雨天狗狗被栓屋外神情哀怨",
+        "onboard_time": 1659166409,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156846,
+        "num": 156846,
+        "word": "第一视角军旅大片来了",
+        "onboard_time": 1659169290,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 260617,
+        "num": 155102,
+        "word": "龚俊单挑王",
+        "onboard_time": 1659167908,
+        "rank": 40,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 211089,
+        "num": 154940,
+        "word": "钱三一林妙妙吻戏花絮",
+        "onboard_time": 1659154708,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153060,
+        "num": 153060,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659151166,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137597,
+        "num": 137597,
+        "word": "广州天气",
+        "onboard_time": 1659161728,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128361,
+        "num": 128361,
+        "word": "轮胎过充爆炸瞬间2人被弹飞",
+        "onboard_time": 1659156087,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126509,
+        "num": 126509,
+        "word": "新疆生产建设兵团新增4例无症状",
+        "onboard_time": 1659161249,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122951,
+        "num": 122951,
+        "word": "熊孩子高空抛物被假扮伤者吓哭",
+        "onboard_time": 1659151706,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122248,
+        "num": 122248,
+        "word": "斗破苍穹",
+        "onboard_time": 1659160646,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108214,
+        "num": 108214,
+        "word": "跑步超1小时要喝电解质饮料",
+        "onboard_time": 1659170189,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 103513,
+        "num": 103513,
+        "word": "周鸿祎否认炮轰微软",
+        "onboard_time": 1659169350,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广大党员干部要勇于担当敢为先锋#"
+    }
+  }
+}

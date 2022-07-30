@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659166465720,
+  "endTime": 1659170479848,
   "band_list": [
     {
       "raw_hot": 5212131,
@@ -57,6 +57,14 @@
       "onboard_time": 1659136759,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2017022,
+      "num": 1229892,
+      "word": "网传刘诗诗进组狐妖月红篇客串",
+      "onboard_time": 1659166231,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1945757,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1386988,
+      "num": 1386988,
+      "word": "佩洛西若窜访成行大陆将对台采取断然措施",
+      "onboard_time": 1659167010,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1308563,
       "num": 1308563,
       "word": "杨超越可以一个月不出门看小说",
@@ -169,6 +185,14 @@
       "onboard_time": 1659147267,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1170602,
+      "num": 1170602,
+      "word": "张小斐百花奖行走的冰沙",
+      "onboard_time": 1659169889,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1166545,
@@ -323,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802037,
+      "num": 802037,
+      "word": "钱三一给孩子起名钱三妙",
+      "onboard_time": 1659167010,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 773452,
       "num": 773452,
       "word": "失去分享欲就是不爱了吗",
       "onboard_time": 1659143189,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 764900,
-      "num": 764900,
-      "word": "网传刘诗诗进组狐妖月红篇客串",
-      "onboard_time": 1659166231,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 748841,
@@ -353,6 +377,14 @@
       "onboard_time": 1659161966,
       "rank": 12,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 714001,
+      "num": 714001,
+      "word": "14岁男孩考上211和985",
+      "onboard_time": 1659169110,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 663029,
@@ -377,6 +409,14 @@
       "onboard_time": 1659158848,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651012,
+      "num": 651012,
+      "word": "周鸿祎称360是全球黑客最恨的公司",
+      "onboard_time": 1659165687,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 650655,
@@ -419,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 617363,
+      "num": 617363,
+      "word": "杨超越回应一个月不出门看小说",
+      "onboard_time": 1659168567,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 608969,
+      "num": 608969,
+      "word": "独行月球",
+      "onboard_time": 1659081150,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 603210,
       "num": 343849,
       "word": "钟楚曦说第一次见到许凯闪瞎眼",
@@ -459,6 +515,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 540850,
+      "num": 540850,
+      "word": "黄明昊百花奖颁奖典礼唱rap",
+      "onboard_time": 1659168147,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532410,
       "num": 280259,
       "word": "杨幂粉色格纹套装",
@@ -467,20 +531,20 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 527161,
+      "num": 527161,
+      "word": "师傅修好空调大妈不给钱说谢谢",
+      "onboard_time": 1659167608,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525634,
       "num": 525634,
       "word": "广州天气",
       "onboard_time": 1659161728,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522008,
-      "num": 522008,
-      "word": "独行月球",
-      "onboard_time": 1659081150,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 497578,
@@ -531,6 +595,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 460270,
+      "num": 460270,
+      "word": "耿爽说有关国家不要玩火自焚",
+      "onboard_time": 1659165569,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 456550,
       "num": 456550,
       "word": "孟美岐舞台氛围感",
@@ -545,6 +617,14 @@
       "onboard_time": 1659153988,
       "rank": 13,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 447105,
+      "num": 447105,
+      "word": "IXFORM 门票",
+      "onboard_time": 1659166169,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 446383,
@@ -659,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395653,
+      "num": 300492,
+      "word": "敖子逸战至巅峰总决赛FMVP",
+      "onboard_time": 1659168027,
+      "rank": 21,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 393872,
       "num": 339303,
       "word": "阿里被美证监会列入预摘牌风险名单",
@@ -697,6 +785,14 @@
       "onboard_time": 1659157290,
       "rank": 30,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 391626,
+      "num": 391626,
+      "word": "当狗狗得知自己的身价后",
+      "onboard_time": 1659164249,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 391520,
@@ -787,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364460,
+      "num": 300146,
+      "word": "张子枫梦回唐探思诺",
+      "onboard_time": 1659169705,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359398,
       "num": 1364352,
       "word": "黄河在咆哮这句歌词有画面了",
@@ -800,6 +904,14 @@
       "word": "福景001轮搜寻到落水人员遗体25具",
       "onboard_time": 1659136097,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354651,
+      "num": 354651,
+      "word": "宠物狗疑未拴绳被撞死主人哭晕",
+      "onboard_time": 1659168086,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -841,6 +953,14 @@
       "onboard_time": 1659153924,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343423,
+      "num": 233607,
+      "word": "龚俊单挑王",
+      "onboard_time": 1659167908,
+      "rank": 30,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 341932,
@@ -923,6 +1043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 319899,
+      "num": 233558,
+      "word": "檀健次玩水枪路透",
+      "onboard_time": 1659169110,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319805,
       "num": 151960,
       "word": "姜云升新歌",
@@ -947,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317836,
+      "num": 212162,
+      "word": "scarry金色的雨",
+      "onboard_time": 1659170129,
+      "rank": 30,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 308988,
       "num": 308988,
       "word": "胡锡进",
@@ -955,12 +1091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306146,
-      "num": 306146,
-      "word": "当狗狗得知自己的身价后",
-      "onboard_time": 1659164249,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 304344,
+      "num": 211992,
+      "word": "欧阳娜娜林间情绪大片",
+      "onboard_time": 1659170071,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 303635,
@@ -1009,14 +1145,6 @@
       "onboard_time": 1659122472,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 279475,
-      "num": 240625,
-      "word": "IXFORM 门票",
-      "onboard_time": 1659166169,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 278917,
@@ -1075,20 +1203,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271236,
+      "num": 155296,
+      "word": "这个夏天一起燃情沉香",
+      "onboard_time": 1659168930,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271198,
       "num": 271198,
       "word": "上海增本土确诊1例无症状4例",
       "onboard_time": 1659142227,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268405,
-      "num": 268405,
-      "word": "耿爽说有关国家不要玩火自焚",
-      "onboard_time": 1659165569,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 265543,
@@ -1107,12 +1235,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259602,
+      "num": 259602,
+      "word": "检察官评聊城洋葱杀妻案",
+      "onboard_time": 1659164548,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256114,
       "num": 256114,
       "word": "周鸿祎怼微软抄袭360",
       "onboard_time": 1659156026,
       "rank": 35,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 254359,
+      "num": 254359,
+      "word": "周鸿祎否认炮轰微软",
+      "onboard_time": 1659169350,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 253072,
+      "num": 253072,
+      "word": "饿了么",
+      "onboard_time": 1659159688,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 252090,
@@ -1161,14 +1313,6 @@
       "onboard_time": 1659106475,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235608,
-      "num": 235608,
-      "word": "周鸿祎称360是全球黑客最恨的公司",
-      "onboard_time": 1659165687,
-      "rank": 33,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 234133,
@@ -1259,11 +1403,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190066,
+      "num": 190066,
+      "word": "再也不想在空调房里过夏天了",
+      "onboard_time": 1659170251,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186008,
       "num": 186008,
       "word": "云南女子13岁被拐为妻当事人发声",
       "onboard_time": 1659090031,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183797,
+      "num": 183797,
+      "word": "雨天狗狗被栓屋外神情哀怨",
+      "onboard_time": 1659166409,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1291,14 +1451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177015,
-      "num": 177015,
-      "word": "检察官评聊城洋葱杀妻案",
-      "onboard_time": 1659164548,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175253,
       "num": 175253,
       "word": "被晒月薪超8万中金员工停职调查",
@@ -1313,14 +1465,6 @@
       "onboard_time": 1659107674,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174581,
-      "num": 174581,
-      "word": "饿了么",
-      "onboard_time": 1659159688,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 172455,
@@ -1385,6 +1529,14 @@
       "onboard_time": 1659105996,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156846,
+      "num": 156846,
+      "word": "第一视角军旅大片来了",
+      "onboard_time": 1659169290,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 152911,
@@ -1507,6 +1659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108214,
+      "num": 108214,
+      "word": "跑步超1小时要喝电解质饮料",
+      "onboard_time": 1659170189,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 101837,
       "num": 101837,
       "word": "反思过度加班不能总以生命为代价",
@@ -1521,14 +1681,6 @@
       "onboard_time": 1659131711,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92148,
-      "num": 92148,
-      "word": "雨天狗狗被栓屋外神情哀怨",
-      "onboard_time": 1659166409,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89392,
@@ -1575,6 +1727,9 @@
     },
     {
       "word": "#统帅深情励三军#"
+    },
+    {
+      "word": "#发现最美铁路#"
     }
   ]
 }
