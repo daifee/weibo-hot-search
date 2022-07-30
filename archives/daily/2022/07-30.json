@@ -1,7 +1,39 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659137900461,
+  "endTime": 1659149005433,
   "band_list": [
+    {
+      "raw_hot": 2301820,
+      "num": 697615,
+      "word": "外卖员 小狗",
+      "onboard_time": 1659145885,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2297046,
+      "num": 2297046,
+      "word": "特朗普抨击佩洛西可能访台",
+      "onboard_time": 1659144626,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2150865,
+      "num": 2150865,
+      "word": "蔡徐坤发博告别奔跑吧",
+      "onboard_time": 1659136759,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1945757,
+      "num": 1945757,
+      "word": "若佩洛西访台中国军队绝不会坐视不管",
+      "onboard_time": 1659112288,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1828446,
       "num": 1566143,
@@ -27,12 +59,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1602752,
-      "num": 1602752,
-      "word": "若佩洛西访台中国军队绝不会坐视不管",
-      "onboard_time": 1659112288,
-      "rank": 3,
+      "raw_hot": 1607626,
+      "num": 1607626,
+      "word": "无驾照丈夫乱指挥致妻子被扣12分",
+      "onboard_time": 1659141386,
+      "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174644,
+      "num": 1174644,
+      "word": "原来tangoz是来向前冲送冰箱的",
+      "onboard_time": 1659147267,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1140732,
@@ -41,6 +81,14 @@
       "onboard_time": 1659104914,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1130993,
+      "num": 1130993,
+      "word": "佩洛西拒透露是否访台湾",
+      "onboard_time": 1659147026,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1052210,
@@ -59,6 +107,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034324,
+      "num": 1034324,
+      "word": "吴京带儿子参加百花奖",
+      "onboard_time": 1659144747,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1004575,
+      "num": 1004575,
+      "word": "香港演唱会事故伤者已接受2次手术",
+      "onboard_time": 1659138321,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 995260,
+      "num": 995260,
+      "word": "高度近视产生的眼底病变不可逆",
+      "onboard_time": 1659146127,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921101,
       "num": 253274,
       "word": "蔡徐坤朋友",
@@ -67,11 +139,11 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 849610,
-      "num": 849610,
-      "word": "蔡徐坤发博告别奔跑吧",
-      "onboard_time": 1659136759,
-      "rank": 18,
+      "raw_hot": 850764,
+      "num": 850764,
+      "word": "龚俊只是想睡觉没惹任何人",
+      "onboard_time": 1659140665,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -81,6 +153,14 @@
       "onboard_time": 1659107196,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773452,
+      "num": 773452,
+      "word": "失去分享欲就是不爱了吗",
+      "onboard_time": 1659143189,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 660758,
@@ -115,6 +195,38 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 601160,
+      "num": 601160,
+      "word": "张杰发文纪念北斗星空十八周年",
+      "onboard_time": 1659148648,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 581682,
+      "num": 471409,
+      "word": "少女时代回归造型",
+      "onboard_time": 1659140364,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 576086,
+      "num": 471217,
+      "word": "百花奖",
+      "onboard_time": 1659143906,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 547256,
+      "num": 547256,
+      "word": "佩洛西访台企图仿佛大型拆台现场",
+      "onboard_time": 1659137842,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 522008,
       "num": 522008,
       "word": "独行月球",
@@ -131,6 +243,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 472636,
+      "num": 472636,
+      "word": "处理中美关系必须加强沟通避免误判",
+      "onboard_time": 1659142767,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 460865,
+      "num": 460865,
+      "word": "外国网友呼吁AI的命也是命",
+      "onboard_time": 1659144927,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 456550,
       "num": 456550,
       "word": "孟美岐舞台氛围感",
@@ -144,6 +272,14 @@
       "word": "隔着屏幕已经开始生气了",
       "onboard_time": 1659105333,
       "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 414553,
+      "num": 414553,
+      "word": "爸妈的基因都写在脸上了",
+      "onboard_time": 1659147627,
+      "rank": 16,
       "category": "幽默"
     },
     {
@@ -171,6 +307,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391520,
+      "num": 284423,
+      "word": "刘敏涛 大直男有几个懂女人的",
+      "onboard_time": 1659147627,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388076,
+      "num": 388076,
+      "word": "山东新增本土确诊2例无症状56例",
+      "onboard_time": 1659143427,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365047,
+      "num": 296518,
+      "word": "赵露思和正确答案擦肩而过",
+      "onboard_time": 1659141507,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356230,
       "num": 356230,
       "word": "福景001轮搜寻到落水人员遗体25具",
@@ -187,12 +347,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352206,
+      "num": 291101,
+      "word": "张杰说至少要唱到80岁",
+      "onboard_time": 1659146546,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349113,
+      "num": 215932,
+      "word": "谢谢向前冲",
+      "onboard_time": 1659148467,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347407,
       "num": 347407,
       "word": "向往的生活",
       "onboard_time": 1659104794,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341932,
+      "num": 341932,
+      "word": "吴冠希张常宁明日大婚",
+      "onboard_time": 1659112107,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 341683,
@@ -211,12 +395,28 @@
       "category": "军事"
     },
     {
-      "raw_hot": 308352,
-      "num": 308352,
-      "word": "吴冠希张常宁明日大婚",
-      "onboard_time": 1659112107,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 338515,
+      "num": 288816,
+      "word": "张艺兴彭昱畅跳伞前的极限拉扯",
+      "onboard_time": 1659138624,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319023,
+      "num": 215277,
+      "word": "谭维维乘风破浪神级现场",
+      "onboard_time": 1659146968,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308988,
+      "num": 308988,
+      "word": "胡锡进",
+      "onboard_time": 1659138142,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303635,
@@ -225,6 +425,22 @@
       "onboard_time": 1659078930,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 301377,
+      "num": 301377,
+      "word": "张常宁吴冠希今日大婚",
+      "onboard_time": 1659112107,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 296401,
+      "num": 296401,
+      "word": "NBA调查哈登降薪续约",
+      "onboard_time": 1659148407,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 292186,
@@ -241,6 +457,14 @@
       "onboard_time": 1659111208,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283816,
+      "num": 283816,
+      "word": "徐州暴雨",
+      "onboard_time": 1659142527,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279787,
@@ -264,6 +488,54 @@
       "word": "李钟硕黑话律师",
       "onboard_time": 1659104794,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276981,
+      "num": 249803,
+      "word": "百分百开麦",
+      "onboard_time": 1659137480,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 275056,
+      "num": 275056,
+      "word": "西班牙确认首例猴痘死亡病例",
+      "onboard_time": 1659143488,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271198,
+      "num": 271198,
+      "word": "上海增本土确诊1例无症状4例",
+      "onboard_time": 1659142227,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271170,
+      "num": 271170,
+      "word": "阿里被美证监会列入预摘牌风险名单",
+      "onboard_time": 1659148166,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265543,
+      "num": 245019,
+      "word": "吴宣仪南京签售会",
+      "onboard_time": 1659145586,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 252090,
+      "num": 214598,
+      "word": "断桥王俊凯骑摩托车花絮照",
+      "onboard_time": 1659147327,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -291,6 +563,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 239441,
+      "num": 239441,
+      "word": "白鹿给虞书欣打电话",
+      "onboard_time": 1659107436,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237396,
       "num": 237396,
       "word": "清华大学男篮大胜重庆文理男篮",
@@ -299,12 +579,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232245,
+      "num": 1869031,
+      "word": "中国人首次参加奥运90周年",
+      "onboard_time": 1659140064,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228933,
+      "num": 228933,
+      "word": "90后小伙带渐冻症妈妈自驾游",
+      "onboard_time": 1659147206,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228634,
       "num": 228634,
       "word": "连小狗都不能拒绝小猫撒娇",
       "onboard_time": 1659106418,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222014,
+      "num": 188966,
+      "word": "蓝盈莹范丞丞新剧恋爱约法三章",
+      "onboard_time": 1659148588,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221088,
+      "num": 221088,
+      "word": "河南新增本土确诊1例无症状21例",
+      "onboard_time": 1659144985,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220343,
+      "num": 220343,
+      "word": "台风",
+      "onboard_time": 1659137060,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203412,
@@ -321,6 +641,14 @@
       "onboard_time": 1659137000,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193750,
+      "num": 193750,
+      "word": "照顾瘫痪父亲女孩考上清华大学",
+      "onboard_time": 1659147567,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193439,
@@ -347,20 +675,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179289,
+      "num": 179289,
+      "word": "刚开始以为我也行",
+      "onboard_time": 1659148166,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175253,
       "num": 175253,
       "word": "被晒月薪超8万中金员工停职调查",
       "onboard_time": 1659093150,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 174746,
-      "num": 174746,
-      "word": "百分百开麦",
-      "onboard_time": 1659137480,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 174585,
@@ -379,12 +707,20 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 167523,
-      "num": 167523,
-      "word": "台风",
-      "onboard_time": 1659137060,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 165902,
+      "num": 165902,
+      "word": "感受到养猫的快乐了",
+      "onboard_time": 1659148707,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 165634,
+      "num": 165634,
+      "word": "马龙双满贯一周年",
+      "onboard_time": 1659148588,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 163694,
@@ -419,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158614,
+      "num": 158614,
+      "word": "中金人均年薪98万已是降后水平",
+      "onboard_time": 1659148826,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157901,
       "num": 148441,
       "word": "少年派2豆瓣开分7.0",
@@ -427,8 +771,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150535,
-      "num": 150535,
+      "raw_hot": 152911,
+      "num": 152911,
       "word": "樊振东与同龄运动员的对比",
       "onboard_time": 1659136097,
       "rank": 27,
@@ -467,6 +811,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 143364,
+      "num": 143364,
+      "word": "7月29日新增本土确诊49例",
+      "onboard_time": 1659144507,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141404,
+      "num": 141404,
+      "word": "北京健康宝能查外省市核酸结果了",
+      "onboard_time": 1659139704,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141248,
       "num": 141248,
       "word": "若美方挑战中方底线必遭坚决反制",
@@ -499,6 +859,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 119495,
+      "num": 119495,
+      "word": "钱塘江现十字交叉潮奇观",
+      "onboard_time": 1659140545,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101837,
       "num": 101837,
       "word": "反思过度加班不能总以生命为代价",
@@ -521,14 +889,6 @@
       "onboard_time": 1659130692,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 77477,
-      "num": 77477,
-      "word": "佩洛西访台企图仿佛大型拆台现场",
-      "onboard_time": 1659137842,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 63810,
@@ -564,6 +924,9 @@
     },
     {
       "word": "#广大党员干部要勇于担当敢为先锋#"
+    },
+    {
+      "word": "#统帅深情励三军#"
     }
   ]
 }
