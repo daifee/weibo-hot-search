@@ -1,7 +1,15 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659163367914,
+  "endTime": 1659166465720,
   "band_list": [
+    {
+      "raw_hot": 5212131,
+      "num": 656994,
+      "word": "向往的生活节目组发声",
+      "onboard_time": 1659162808,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4173877,
       "num": 4173877,
@@ -9,14 +17,6 @@
       "onboard_time": 1659155607,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3506990,
-      "num": 579533,
-      "word": "向往的生活节目组发声",
-      "onboard_time": 1659162808,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 2460638,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1715693,
+      "num": 1715693,
+      "word": "学生曝班主任托班长要升学宴红包",
+      "onboard_time": 1659163109,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1703090,
       "num": 1703090,
       "word": "MIRROR演唱会伤者或颈部以下永久瘫痪",
@@ -145,6 +153,14 @@
       "onboard_time": 1659154648,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224795,
+      "num": 1224795,
+      "word": "土耳其空乘餐中疑似吃出蛇头",
+      "onboard_time": 1659161668,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1174644,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849060,
+      "num": 849060,
+      "word": "1岁萌娃为磨牙把桌子啃烂",
+      "onboard_time": 1659161548,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841668,
       "num": 841668,
       "word": "现在是买房好时机吗",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 840687,
-      "num": 577810,
+      "num": 746092,
       "word": "王一博 头转",
       "onboard_time": 1659160587,
       "rank": 10,
@@ -305,6 +329,14 @@
       "onboard_time": 1659143189,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 764900,
+      "num": 764900,
+      "word": "网传刘诗诗进组狐妖月红篇客串",
+      "onboard_time": 1659166231,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 748841,
@@ -371,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 635193,
-      "num": 574569,
-      "word": "土耳其空乘餐中疑似吃出蛇头",
-      "onboard_time": 1659161668,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634643,
       "num": 634643,
       "word": "我的分享欲是怎么没的",
@@ -409,14 +433,6 @@
       "onboard_time": 1659148648,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592618,
-      "num": 592618,
-      "word": "1岁萌娃为磨牙把桌子啃烂",
-      "onboard_time": 1659161548,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 581682,
@@ -483,8 +499,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 476285,
-      "num": 278264,
+      "raw_hot": 488476,
+      "num": 488476,
       "word": "赖美云终于拿到西施了",
       "onboard_time": 1659162748,
       "rank": 22,
@@ -529,6 +545,14 @@
       "onboard_time": 1659153988,
       "rank": 13,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 446383,
+      "num": 446383,
+      "word": "万吨大驱延安舰训练画面公开",
+      "onboard_time": 1659162808,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 443149,
@@ -651,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392455,
+      "num": 102229,
+      "word": "威尔说来看GAI进步没有",
+      "onboard_time": 1659166409,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392380,
       "num": 392380,
       "word": "奔跑吧全员不说再见",
@@ -699,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387204,
+      "num": 387204,
+      "word": "成都两姐妹改造农村小院后走红",
+      "onboard_time": 1659162629,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386287,
       "num": 386287,
       "word": "四川增本土确诊10例无症状12例",
@@ -729,6 +769,14 @@
       "onboard_time": 1659157350,
       "rank": 32,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 367145,
+      "num": 325017,
+      "word": "艾热 说唱",
+      "onboard_time": 1659164727,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 365047,
@@ -851,6 +899,22 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 329406,
+      "num": 196216,
+      "word": "丁程鑫修好了拍立得",
+      "onboard_time": 1659163947,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327148,
+      "num": 327148,
+      "word": "这个撞脸我沉默了",
+      "onboard_time": 1659162388,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321029,
       "num": 321029,
       "word": "斗破苍穹",
@@ -875,12 +939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318257,
+      "num": 242036,
+      "word": "丁程鑫起名鬼才",
+      "onboard_time": 1659166351,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308988,
       "num": 308988,
       "word": "胡锡进",
       "onboard_time": 1659138142,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306146,
+      "num": 306146,
+      "word": "当狗狗得知自己的身价后",
+      "onboard_time": 1659164249,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 303635,
@@ -931,6 +1011,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 279475,
+      "num": 240625,
+      "word": "IXFORM 门票",
+      "onboard_time": 1659166169,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278917,
       "num": 278917,
       "word": "网友质疑地铁站插画风格怪异",
@@ -945,6 +1033,14 @@
       "onboard_time": 1659104794,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277606,
+      "num": 191673,
+      "word": "阿云嘎因跳爱你隔空向王心凌道歉",
+      "onboard_time": 1659165268,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276981,
@@ -963,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274252,
+      "num": 274252,
+      "word": "这就是中国军人的誓言",
+      "onboard_time": 1659163230,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 273986,
       "num": 273986,
       "word": "这届年轻人的快乐有多简单",
@@ -979,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268405,
+      "num": 268405,
+      "word": "耿爽说有关国家不要玩火自焚",
+      "onboard_time": 1659165569,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 265543,
       "num": 245019,
       "word": "吴宣仪南京签售会",
       "onboard_time": 1659145586,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262032,
+      "num": 132109,
+      "word": "周深百花奖演唱洪湖水浪打浪",
+      "onboard_time": 1659163889,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 256114,
@@ -1043,6 +1163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235608,
+      "num": 235608,
+      "word": "周鸿祎称360是全球黑客最恨的公司",
+      "onboard_time": 1659165687,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 234133,
+      "num": 215482,
+      "word": "吴谨言给姐姐们画队服",
+      "onboard_time": 1659165509,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232690,
       "num": 232690,
       "word": "照顾瘫痪父亲女孩考上清华大学",
@@ -1099,22 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216074,
-      "num": 216074,
-      "word": "成都两姐妹改造农村小院后走红",
-      "onboard_time": 1659162629,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204511,
-      "num": 204511,
-      "word": "万吨大驱延安舰训练画面公开",
-      "onboard_time": 1659162808,
-      "rank": 29,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 203412,
       "num": 203412,
       "word": "杨紫乔欣有友情但不多",
@@ -1137,14 +1257,6 @@
       "onboard_time": 1659109589,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190155,
-      "num": 190155,
-      "word": "这个撞脸我沉默了",
-      "onboard_time": 1659162388,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 186008,
@@ -1177,6 +1289,14 @@
       "onboard_time": 1659148707,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177015,
+      "num": 177015,
+      "word": "检察官评聊城洋葱杀妻案",
+      "onboard_time": 1659164548,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175253,
@@ -1355,14 +1475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132379,
-      "num": 132379,
-      "word": "学生曝班主任托班长要升学宴红包",
-      "onboard_time": 1659163109,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 129215,
       "num": 129215,
       "word": "手机上最没用的功能是什么",
@@ -1395,14 +1507,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 106198,
-      "num": 106198,
-      "word": "这就是中国军人的誓言",
-      "onboard_time": 1659163230,
-      "rank": 49,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 101837,
       "num": 101837,
       "word": "反思过度加班不能总以生命为代价",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1659131711,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92148,
+      "num": 92148,
+      "word": "雨天狗狗被栓屋外神情哀怨",
+      "onboard_time": 1659166409,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89392,

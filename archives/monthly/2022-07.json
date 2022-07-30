@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1659163367914,
+  "endTime": 1659166465720,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -205,6 +205,14 @@
       "onboard_time": 1659065373,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 5212131,
+      "num": 656994,
+      "word": "向往的生活节目组发声",
+      "onboard_time": 1659162808,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 5193008,
@@ -587,14 +595,6 @@
       "onboard_time": 1658383538,
       "rank": 25,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 3506990,
-      "num": 579533,
-      "word": "向往的生活节目组发声",
-      "onboard_time": 1659162808,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 3500635,
@@ -2444,6 +2444,14 @@
       "onboard_time": 1658717370,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1715693,
+      "num": 1715693,
+      "word": "学生曝班主任托班长要升学宴红包",
+      "onboard_time": 1659163109,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1711531,
@@ -4300,6 +4308,14 @@
       "onboard_time": 1659066877,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1224795,
+      "num": 1224795,
+      "word": "土耳其空乘餐中疑似吃出蛇头",
+      "onboard_time": 1659161668,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216906,
@@ -6836,6 +6852,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849060,
+      "num": 849060,
+      "word": "1岁萌娃为磨牙把桌子啃烂",
+      "onboard_time": 1659161548,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845326,
       "num": 845326,
       "word": "终于等到张小斐的新电影了",
@@ -6877,7 +6901,7 @@
     },
     {
       "raw_hot": 840687,
-      "num": 577810,
+      "num": 746092,
       "word": "王一博 头转",
       "onboard_time": 1659160587,
       "rank": 10,
@@ -7603,6 +7627,14 @@
       "onboard_time": 1658837914,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 764900,
+      "num": 764900,
+      "word": "网传刘诗诗进组狐妖月红篇客串",
+      "onboard_time": 1659166231,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 764600,
@@ -9174,14 +9206,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635193,
-      "num": 574569,
-      "word": "土耳其空乘餐中疑似吃出蛇头",
-      "onboard_time": 1659161668,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 635135,
       "num": 635135,
       "word": "孙铭徽 传球",
@@ -9876,14 +9900,6 @@
       "word": "象棋机器人抓住并折断7岁男孩手指",
       "onboard_time": 1658759315,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592618,
-      "num": 592618,
-      "word": "1岁萌娃为磨牙把桌子啃烂",
-      "onboard_time": 1659161548,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -12150,6 +12166,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488476,
+      "num": 488476,
+      "word": "赖美云终于拿到西施了",
+      "onboard_time": 1659162748,
+      "rank": 22,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 488315,
       "num": 488315,
       "word": "ITZY获音银一位",
@@ -12491,14 +12515,6 @@
       "onboard_time": 1659072092,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476285,
-      "num": 278264,
-      "word": "赖美云终于拿到西施了",
-      "onboard_time": 1659162748,
-      "rank": 22,
-      "category": "游戏,综艺"
     },
     {
       "raw_hot": 476255,
@@ -13278,6 +13294,14 @@
       "onboard_time": 1658388096,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446383,
+      "num": 446383,
+      "word": "万吨大驱延安舰训练画面公开",
+      "onboard_time": 1659162808,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 446131,
@@ -15382,6 +15406,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392455,
+      "num": 102229,
+      "word": "威尔说来看GAI进步没有",
+      "onboard_time": 1659166409,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392198,
       "num": 184869,
       "word": "龚俊战至巅峰最新剧照",
@@ -15620,6 +15652,14 @@
       "onboard_time": 1658542772,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387204,
+      "num": 387204,
+      "word": "成都两姐妹改造农村小院后走红",
+      "onboard_time": 1659162629,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387128,
@@ -16366,6 +16406,14 @@
       "onboard_time": 1659157350,
       "rank": 32,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 367145,
+      "num": 325017,
+      "word": "艾热 说唱",
+      "onboard_time": 1659164727,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 367089,
@@ -18065,6 +18113,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 329406,
+      "num": 196216,
+      "word": "丁程鑫修好了拍立得",
+      "onboard_time": 1659163947,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329238,
       "num": 329238,
       "word": "爸爸教娃走失自救转眼派上用场",
@@ -18174,6 +18230,14 @@
       "word": "粉色才是电竞人标配",
       "onboard_time": 1658046630,
       "rank": 15
+    },
+    {
+      "raw_hot": 327148,
+      "num": 327148,
+      "word": "这个撞脸我沉默了",
+      "onboard_time": 1659162388,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 327116,
@@ -18636,6 +18700,14 @@
       "onboard_time": 1658824054,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318257,
+      "num": 242036,
+      "word": "丁程鑫起名鬼才",
+      "onboard_time": 1659166351,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 318052,
@@ -19162,6 +19234,14 @@
       "onboard_time": 1658566956,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306146,
+      "num": 306146,
+      "word": "当狗狗得知自己的身价后",
+      "onboard_time": 1659164249,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 306069,
@@ -20729,6 +20809,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279475,
+      "num": 240625,
+      "word": "IXFORM 门票",
+      "onboard_time": 1659166169,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279210,
       "num": 279210,
       "word": "RA",
@@ -20807,6 +20895,14 @@
       "onboard_time": 1658659952,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277606,
+      "num": 191673,
+      "word": "阿云嘎因跳爱你隔空向王心凌道歉",
+      "onboard_time": 1659165268,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277359,
@@ -21046,6 +21142,14 @@
       "onboard_time": 1658565636,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274252,
+      "num": 274252,
+      "word": "这就是中国军人的誓言",
+      "onboard_time": 1659163230,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 274166,
@@ -21325,6 +21429,14 @@
       "onboard_time": 1658467488,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268405,
+      "num": 268405,
+      "word": "耿爽说有关国家不要玩火自焚",
+      "onboard_time": 1659165569,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 268250,
@@ -21682,6 +21794,14 @@
       "onboard_time": 1659067297,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262032,
+      "num": 132109,
+      "word": "周深百花奖演唱洪湖水浪打浪",
+      "onboard_time": 1659163889,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 262029,
@@ -23369,6 +23489,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235608,
+      "num": 235608,
+      "word": "周鸿祎称360是全球黑客最恨的公司",
+      "onboard_time": 1659165687,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 235355,
       "num": 235355,
       "word": "西双版纳震感",
@@ -23494,6 +23622,14 @@
       "onboard_time": 1658659471,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 234133,
+      "num": 215482,
+      "word": "吴谨言给姐姐们画队服",
+      "onboard_time": 1659165509,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 234119,
@@ -24481,14 +24617,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216074,
-      "num": 216074,
-      "word": "成都两姐妹改造农村小院后走红",
-      "onboard_time": 1659162629,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215955,
       "num": 215955,
       "word": "无畏加油",
@@ -25086,14 +25214,6 @@
       "onboard_time": 1658109566,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204511,
-      "num": 204511,
-      "word": "万吨大驱延安舰训练画面公开",
-      "onboard_time": 1659162808,
-      "rank": 29,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 204419,
@@ -26025,14 +26145,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190155,
-      "num": 190155,
-      "word": "这个撞脸我沉默了",
-      "onboard_time": 1659162388,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189984,
       "num": 189984,
       "word": "永远能被人类幼崽逗笑",
@@ -26610,6 +26722,14 @@
       "onboard_time": 1659148707,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177015,
+      "num": 177015,
+      "word": "检察官评聊城洋葱杀妻案",
+      "onboard_time": 1659164548,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176885,
@@ -28353,14 +28473,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132379,
-      "num": 132379,
-      "word": "学生曝班主任托班长要升学宴红包",
-      "onboard_time": 1659163109,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 132356,
       "num": 132356,
       "word": "问天实验舱今日发射",
@@ -28879,14 +28991,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106198,
-      "num": 106198,
-      "word": "这就是中国军人的誓言",
-      "onboard_time": 1659163230,
-      "rank": 49,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 106168,
       "num": 106168,
       "word": "王楚钦王曼昱混双夺冠",
@@ -29144,6 +29248,14 @@
       "onboard_time": 1659131711,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92148,
+      "num": 92148,
+      "word": "雨天狗狗被栓屋外神情哀怨",
+      "onboard_time": 1659166409,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92037,
