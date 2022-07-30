@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659219566114,
+  "endTime": 1659220586286,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326819,
+      "num": 150258,
+      "word": "朱媛媛 金杯银杯不如观众口碑",
+      "onboard_time": 1659215471,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301572,
       "num": 216562,
       "word": "Vox shoto",
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257971,
+      "num": 257971,
+      "word": "中方希望美方能听进去理性声音",
+      "onboard_time": 1659213731,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 254372,
       "num": 254372,
       "word": "南昌48小时未做核酸将赋黄码",
@@ -259,28 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221102,
-      "num": 117667,
-      "word": "朱媛媛 金杯银杯不如观众口碑",
-      "onboard_time": 1659215471,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215014,
       "num": 215014,
       "word": "清华大学CUBA总决赛对阵广东工大",
       "onboard_time": 1659193238,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212449,
-      "num": 212449,
-      "word": "中方希望美方能听进去理性声音",
-      "onboard_time": 1659213731,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 200666,
@@ -443,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97276,
+      "num": 74061,
+      "word": "凌不疑对程少商的称呼变化",
+      "onboard_time": 1659217992,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 96552,
+      "num": 96552,
+      "word": "最低票价仅1元的慢火车",
+      "onboard_time": 1659214631,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 95708,
       "num": 54799,
       "word": "百花奖最佳男主角票数",
@@ -491,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83717,
+      "num": 83717,
+      "word": "山东沿岸将出现台风风暴潮",
+      "onboard_time": 1659216971,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83590,
       "num": 83590,
       "word": "RNG战胜JDG",
@@ -499,28 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79699,
-      "num": 79699,
-      "word": "最低票价仅1元的慢火车",
-      "onboard_time": 1659214631,
+      "raw_hot": 68628,
+      "num": 68628,
+      "word": "张常宁吴冠希给父母敬茶",
+      "onboard_time": 1659211632,
       "rank": 48,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 65572,
-      "num": 65572,
-      "word": "山东沿岸将出现台风风暴潮",
-      "onboard_time": 1659216971,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65026,
-      "num": 65026,
-      "word": "凌不疑对程少商的称呼变化",
-      "onboard_time": 1659217992,
-      "rank": 22,
-      "category": "影视"
+      "category": "体育"
     },
     {
       "raw_hot": 59021,
@@ -531,16 +539,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58882,
-      "num": 58882,
-      "word": "张常宁吴冠希给父母敬茶",
-      "onboard_time": 1659211632,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40160,
-      "num": 29244,
+      "raw_hot": 53564,
+      "num": 50944,
       "word": "檀健次是杨紫的专用翻译",
       "onboard_time": 1659208932,
       "rank": 33,
@@ -553,6 +553,14 @@
       "onboard_time": 1659202039,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19737,
+      "num": 19737,
+      "word": "山东这些传世马面裙可太美了",
+      "onboard_time": 1659220456,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9200,
