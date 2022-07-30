@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659159462720,
+  "endTime": 1659163367914,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -209,6 +209,14 @@
       "onboard_time": 1658841695,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3506990,
+      "num": 579533,
+      "word": "向往的生活节目组发声",
+      "onboard_time": 1659162808,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 3500635,
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1627703,
+      "num": 1627703,
+      "word": "外卖小哥靠订单留言救了外卖小哥",
+      "onboard_time": 1659158727,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1624590,
       "num": 1624590,
       "word": "芒果TV会员又涨价",
@@ -1827,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1166545,
+      "num": 1166545,
+      "word": "世界最高伴娘团",
+      "onboard_time": 1659158130,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1164154,
       "num": 1164154,
       "word": "BLACKPINK公开新歌预告照",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1658732372,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1156300,
+      "num": 1156300,
+      "word": "阿Sa说我的阿娇长大了",
+      "onboard_time": 1659159149,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1155700,
@@ -2139,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1044651,
+      "num": 1044651,
+      "word": "杨迪这是可以告的程度了吧",
+      "onboard_time": 1659159868,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1041731,
       "num": 899602,
       "word": "吴磊与小北的氛围感大片",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1659144747,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1030472,
+      "num": 1030472,
+      "word": "甘肃天水通报女生被霸凌",
+      "onboard_time": 1659160165,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030266,
@@ -2779,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840687,
+      "num": 577810,
+      "word": "王一博 头转",
+      "onboard_time": 1659160587,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 837192,
       "num": 565591,
       "word": "fromis9将以8人活动",
@@ -3187,6 +3243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 748841,
+      "num": 503220,
+      "word": "百花奖闭幕式阵容",
+      "onboard_time": 1659161548,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 746767,
       "num": 746767,
       "word": "Irene首个单独综艺",
@@ -3307,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715881,
+      "num": 562027,
+      "word": "龚俊战胜周柯宇",
+      "onboard_time": 1659161966,
+      "rank": 12,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 715069,
       "num": 715069,
       "word": "2024巴黎奥运会和残奥会口号",
@@ -3352,14 +3424,6 @@
       "word": "周深被郭麒麟的微信铃声叫儿子",
       "onboard_time": 1659103833,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 706082,
-      "num": 456881,
-      "word": "阿Sa说我的阿娇长大了",
-      "onboard_time": 1659159149,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -3547,6 +3611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 652279,
+      "num": 391288,
+      "word": "女子餐厅连续踢打孩子并掐脖捂嘴",
+      "onboard_time": 1659158848,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651360,
       "num": 651360,
       "word": "赵今麦勇敢",
@@ -3697,6 +3769,14 @@
       "onboard_time": 1659002914,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 635193,
+      "num": 574569,
+      "word": "土耳其空乘餐中疑似吃出蛇头",
+      "onboard_time": 1659161668,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631653,
@@ -4000,6 +4080,14 @@
       "word": "象棋机器人抓住并折断7岁男孩手指",
       "onboard_time": 1658759315,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592618,
+      "num": 592618,
+      "word": "1岁萌娃为磨牙把桌子啃烂",
+      "onboard_time": 1659161548,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4651,6 +4739,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 525634,
+      "num": 525634,
+      "word": "广州天气",
+      "onboard_time": 1659161728,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525263,
       "num": 525263,
       "word": "房地产专家呼吁给年轻人降首付",
@@ -5203,6 +5299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476285,
+      "num": 278264,
+      "word": "赖美云终于拿到西施了",
+      "onboard_time": 1659162748,
+      "rank": 22,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 476255,
       "num": 476255,
       "word": "美国总统拜登新冠检测呈阴性",
@@ -5699,6 +5803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 443149,
+      "num": 288221,
+      "word": "刘聪盛宇VaVa万妮达舞台撒狗粮",
+      "onboard_time": 1659160228,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441091,
       "num": 424233,
       "word": "星汉灿烂",
@@ -5993,6 +6105,14 @@
       "onboard_time": 1659103234,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 421535,
+      "num": 286801,
+      "word": "钱三一也太会了",
+      "onboard_time": 1659161067,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 420838,
@@ -6659,14 +6779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 389180,
-      "num": 389180,
-      "word": "世界最高伴娘团",
-      "onboard_time": 1659158130,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 389051,
       "num": 337717,
       "word": "沉香如屑 气死",
@@ -7115,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359398,
+      "num": 1364352,
+      "word": "黄河在咆哮这句歌词有画面了",
+      "onboard_time": 1659155607,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358858,
       "num": 294692,
       "word": "张新成缩墙角哭着哭着笑了",
@@ -7443,20 +7563,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 341439,
-      "num": 341439,
-      "word": "外卖小哥靠订单留言救了外卖小哥",
-      "onboard_time": 1659158727,
-      "rank": 17,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 341136,
       "num": 249503,
       "word": "少年派2嗑麻了",
       "onboard_time": 1658835273,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341077,
+      "num": 341077,
+      "word": "新疆生产建设兵团新增4例无症状",
+      "onboard_time": 1659161249,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339093,
@@ -7537,6 +7657,14 @@
       "onboard_time": 1658723797,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335103,
+      "num": 173739,
+      "word": "黄明昊战至巅峰总决赛",
+      "onboard_time": 1659160465,
+      "rank": 40,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 335027,
@@ -7913,6 +8041,14 @@
       "onboard_time": 1658833834,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 321029,
+      "num": 321029,
+      "word": "斗破苍穹",
+      "onboard_time": 1659160646,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 320834,
@@ -8481,14 +8617,6 @@
       "onboard_time": 1658806649,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 296605,
-      "num": 1364352,
-      "word": "黄河在咆哮这句歌词有画面了",
-      "onboard_time": 1659155607,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296073,
@@ -10723,6 +10851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216074,
+      "num": 216074,
+      "word": "成都两姐妹改造农村小院后走红",
+      "onboard_time": 1659162629,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215951,
       "num": 215951,
       "word": "一生行善的老人最后捐出了自己",
@@ -10931,20 +11067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205209,
-      "num": 205209,
-      "word": "女子餐厅连续踢打孩子并掐脖捂嘴",
-      "onboard_time": 1659158848,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204635,
       "num": 204635,
       "word": "李军华任联合国副秘书长",
       "onboard_time": 1658812117,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 204511,
+      "num": 204511,
+      "word": "万吨大驱延安舰训练画面公开",
+      "onboard_time": 1659162808,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 204264,
@@ -11321,6 +11457,14 @@
       "onboard_time": 1658981615,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190155,
+      "num": 190155,
+      "word": "这个撞脸我沉默了",
+      "onboard_time": 1659162388,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 189870,
@@ -12107,6 +12251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132379,
+      "num": 132379,
+      "word": "学生曝班主任托班长要升学宴红包",
+      "onboard_time": 1659163109,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 131301,
       "num": 131301,
       "word": "家里去世的狗狗也有微信",
@@ -12265,6 +12417,14 @@
       "onboard_time": 1658670513,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106198,
+      "num": 106198,
+      "word": "这就是中国军人的誓言",
+      "onboard_time": 1659163230,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 106142,
