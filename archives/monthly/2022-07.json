@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1659188477276,
+  "endTime": 1659190736921,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -23,6 +23,14 @@
       "word": "胡先煦发声",
       "onboard_time": 1658028940,
       "rank": 3
+    },
+    {
+      "raw_hot": 18686188,
+      "num": 18686188,
+      "word": "沈腾0票",
+      "onboard_time": 1659189699,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 16714183,
@@ -2159,6 +2167,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1910528,
+      "num": 812746,
+      "word": "你好李焕英百花奖优秀影片",
+      "onboard_time": 1659188496,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1908376,
       "num": 1472438,
       "word": "男子为取悦女主播及还债杀子骗保",
@@ -2381,6 +2397,14 @@
       "onboard_time": 1658381905,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1792919,
+      "num": 472130,
+      "word": "海清0票",
+      "onboard_time": 1659189280,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1788893,
@@ -2620,6 +2644,14 @@
       "onboard_time": 1659177929,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1686050,
+      "num": 1686050,
+      "word": "480斤小伙打利尿剂一周减120斤",
+      "onboard_time": 1659186574,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1685258,
@@ -3534,6 +3566,14 @@
       "word": "奔跑吧急救医生官宣",
       "onboard_time": 1658204374,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1409549,
+      "num": 459773,
+      "word": "刘烨 票",
+      "onboard_time": 1659188559,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -4861,6 +4901,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1149771,
+      "num": 1149771,
+      "word": "猴痘",
+      "onboard_time": 1659185674,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149161,
       "num": 1149161,
       "word": "拍吻戏都这么意外了吗",
@@ -5002,14 +5050,6 @@
       "word": "广州时尚天河出现活体动物娃娃机",
       "onboard_time": 1658670995,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1126895,
-      "num": 1126895,
-      "word": "猴痘",
-      "onboard_time": 1659185674,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -5648,14 +5688,6 @@
       "onboard_time": 1659144747,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1032382,
-      "num": 1032382,
-      "word": "480斤小伙打利尿剂一周减120斤",
-      "onboard_time": 1659186574,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1030472,
@@ -7114,6 +7146,14 @@
       "onboard_time": 1659161548,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847915,
+      "num": 300704,
+      "word": "唐九洲 帅",
+      "onboard_time": 1659189817,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 845326,
@@ -8762,6 +8802,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690127,
+      "num": 217340,
+      "word": "成毅好帅",
+      "onboard_time": 1659188676,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690034,
       "num": 690034,
       "word": "程少商让袁慎娶何昭君",
@@ -10223,6 +10271,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595412,
+      "num": 469580,
+      "word": "南昌48小时未做核酸将赋黄码",
+      "onboard_time": 1659187358,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594227,
       "num": 594227,
       "word": "张凯 BP",
@@ -10890,6 +10946,14 @@
       "onboard_time": 1658886033,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565366,
+      "num": 167177,
+      "word": "贾玲获奖感言",
+      "onboard_time": 1659190480,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 565352,
@@ -12915,6 +12979,14 @@
       "onboard_time": 1658286750,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478489,
+      "num": 478489,
+      "word": "宁波大学vs清华大学",
+      "onboard_time": 1659188676,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 477373,
@@ -15230,6 +15302,14 @@
       "onboard_time": 1658138009,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410090,
+      "num": 410090,
+      "word": "班主任回应托班长索要升学宴红包",
+      "onboard_time": 1659188078,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 409926,
@@ -22476,6 +22556,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263727,
+      "num": 263727,
+      "word": "曼联0比1马竞",
+      "onboard_time": 1659190600,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263551,
       "num": 210916,
       "word": "张可盈说何幸运退退退",
@@ -23078,6 +23166,14 @@
       "onboard_time": 1658450553,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254138,
+      "num": 254138,
+      "word": "朋友中总有一个倒霉蛋",
+      "onboard_time": 1659188317,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 253935,
@@ -23796,6 +23892,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242783,
+      "num": 242783,
+      "word": "GEN战胜T1",
+      "onboard_time": 1659190480,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242741,
       "num": 2027009,
       "word": "直播看问天",
@@ -24199,6 +24303,14 @@
       "onboard_time": 1658814338,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236374,
+      "num": 1806650,
+      "word": "被祖国大好河山惊艳到了",
+      "onboard_time": 1659187480,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236098,
@@ -24723,14 +24835,6 @@
       "onboard_time": 1659005677,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 228827,
-      "num": 228827,
-      "word": "南昌48小时未做核酸将赋黄码",
-      "onboard_time": 1659187358,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228790,
@@ -25881,6 +25985,14 @@
       "onboard_time": 1658981311,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 206075,
+      "num": 206075,
+      "word": "16家平台处置56.3万违规直播间",
+      "onboard_time": 1659189760,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 205970,
@@ -28266,6 +28378,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 161453,
+      "num": 161453,
+      "word": "LPL",
+      "onboard_time": 1659190062,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161420,
       "num": 161420,
       "word": "大山的女儿 值得",
@@ -28957,14 +29077,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145377,
-      "num": 145377,
-      "word": "朋友中总有一个倒霉蛋",
-      "onboard_time": 1659188317,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144467,
       "num": 144467,
       "word": "TES战胜EDG",
@@ -29139,6 +29251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139425,
+      "num": 139425,
+      "word": "四川枪击案嫌犯与1伤者为情人关系",
+      "onboard_time": 1659190361,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139396,
       "num": 139396,
       "word": "没人能拒绝这么可爱的柯基",
@@ -29249,14 +29369,6 @@
       "onboard_time": 1658988870,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 134807,
-      "num": 134807,
-      "word": "班主任回应托班长索要升学宴红包",
-      "onboard_time": 1659188078,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 134479,
@@ -29952,14 +30064,6 @@
       "onboard_time": 1658648732,
       "rank": 49,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 101968,
-      "num": 1806650,
-      "word": "被祖国大好河山惊艳到了",
-      "onboard_time": 1659187480,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101837,
