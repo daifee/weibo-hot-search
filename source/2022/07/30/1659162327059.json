@@ -1,0 +1,410 @@
+{
+  "runTime": 1659162327059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2463636,
+        "num": 2463636,
+        "word": "专家称未来买房跟买包一样容易",
+        "onboard_time": 1659155607,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554964,
+        "num": 1554964,
+        "word": "外卖小哥靠订单留言救了外卖小哥",
+        "onboard_time": 1659158727,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 359398,
+        "num": 1259284,
+        "word": "黄河在咆哮这句歌词有画面了",
+        "onboard_time": 1659155607,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166545,
+        "num": 1166545,
+        "word": "世界最高伴娘团",
+        "onboard_time": 1659158130,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1156300,
+        "num": 1156300,
+        "word": "阿Sa说我的阿娇长大了",
+        "onboard_time": 1659159149,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044651,
+        "num": 1044651,
+        "word": "杨迪这是可以告的程度了吧",
+        "onboard_time": 1659159868,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 968927,
+        "num": 968927,
+        "word": "甘肃天水通报女生被霸凌",
+        "onboard_time": 1659160165,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914408,
+        "num": 914408,
+        "word": "杨超越可以一个月不出门看小说",
+        "onboard_time": 1659154648,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690870,
+        "num": 690870,
+        "word": "女子晒农村自建房造价120万",
+        "onboard_time": 1659152668,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563658,
+        "num": 563658,
+        "word": "现在是买房好时机吗",
+        "onboard_time": 1659156147,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840687,
+        "num": 561161,
+        "word": "王一博 头转",
+        "onboard_time": 1659160587,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 748841,
+        "num": 503220,
+        "word": "百花奖闭幕式阵容",
+        "onboard_time": 1659161548,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 715881,
+        "num": 482574,
+        "word": "龚俊战胜周柯宇",
+        "onboard_time": 1659161966,
+        "rank": 12,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 670813,
+        "num": 424017,
+        "word": "中金人均年薪98万已是降后水平",
+        "onboard_time": 1659148826,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610562,
+        "num": 391288,
+        "word": "女子餐厅连续踢打孩子并掐脖捂嘴",
+        "onboard_time": 1659158848,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362462,
+        "num": 362462,
+        "word": "若佩洛西访台中国军队绝不会坐视不管",
+        "onboard_time": 1659151166,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359936,
+        "num": 359936,
+        "word": "特朗普抨击佩洛西可能访台",
+        "onboard_time": 1659144626,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 323018,
+        "num": 323018,
+        "word": "轮胎过充爆炸瞬间2人被弹飞",
+        "onboard_time": 1659156087,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321029,
+        "num": 321029,
+        "word": "斗破苍穹",
+        "onboard_time": 1659160646,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 290602,
+        "num": 290602,
+        "word": "张常宁吴冠希今日大婚",
+        "onboard_time": 1659112107,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488179,
+        "num": 289482,
+        "word": "钱三一林妙妙吻戏花絮",
+        "onboard_time": 1659154708,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443149,
+        "num": 288221,
+        "word": "刘聪盛宇VaVa万妮达舞台撒狗粮",
+        "onboard_time": 1659160228,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421535,
+        "num": 286801,
+        "word": "钱三一也太会了",
+        "onboard_time": 1659161067,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268615,
+        "num": 268615,
+        "word": "1岁萌娃为磨牙把桌子啃烂",
+        "onboard_time": 1659161548,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256193,
+        "num": 256193,
+        "word": "熊孩子高空抛物被假扮伤者吓哭",
+        "onboard_time": 1659151706,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247496,
+        "num": 247496,
+        "word": "外卖员 小狗",
+        "onboard_time": 1659145885,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242780,
+        "num": 242780,
+        "word": "广州天气",
+        "onboard_time": 1659161728,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234046,
+        "num": 234046,
+        "word": "土耳其空乘餐中疑似吃出蛇头",
+        "onboard_time": 1659161668,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230493,
+        "num": 230493,
+        "word": "谁偷走了年轻人的雪糕自由",
+        "onboard_time": 1659153088,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223384,
+        "num": 223384,
+        "word": "佩洛西拒透露是否访台湾",
+        "onboard_time": 1659147026,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 392651,
+        "num": 221945,
+        "word": "BLACKPINK新歌个人照",
+        "onboard_time": 1659156087,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361081,
+        "num": 220974,
+        "word": "你好星期六全员晒第一部手机",
+        "onboard_time": 1659149068,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354111,
+        "num": 219123,
+        "word": "钟楚曦说第一次见到许凯闪瞎眼",
+        "onboard_time": 1659155187,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349762,
+        "num": 217999,
+        "word": "12岁的王圣迪播了14部戏",
+        "onboard_time": 1659152008,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217442,
+        "num": 217442,
+        "word": "爸妈的基因都写在脸上了",
+        "onboard_time": 1659147627,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217220,
+        "num": 217220,
+        "word": "新疆生产建设兵团新增4例无症状",
+        "onboard_time": 1659161249,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204561,
+        "num": 204561,
+        "word": "阿里被美证监会列入预摘牌风险名单",
+        "onboard_time": 1659148166,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 197530,
+        "word": "这届年轻人的快乐有多简单",
+        "onboard_time": 1659158668,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184816,
+        "num": 184816,
+        "word": "四川增本土确诊10例无症状12例",
+        "onboard_time": 1659153625,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "饿了么",
+        "onboard_time": 1659159688,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 335103,
+        "num": 173739,
+        "word": "黄明昊战至巅峰总决赛",
+        "onboard_time": 1659160465,
+        "rank": 40,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 312983,
+        "num": 173153,
+        "word": "月升沧海",
+        "onboard_time": 1659155308,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248953,
+        "num": 171893,
+        "word": "檀健次说谁和我撞了第一部手机",
+        "onboard_time": 1659158668,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169994,
+        "num": 169994,
+        "word": "高度近视产生的眼底病变不可逆",
+        "onboard_time": 1659146127,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145979,
+        "num": 145979,
+        "word": "周鸿祎怼微软抄袭360",
+        "onboard_time": 1659156026,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 122652,
+        "num": 122652,
+        "word": "NBA调查哈登降薪续约",
+        "onboard_time": 1659148407,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110616,
+        "num": 110616,
+        "word": "无驾照丈夫乱指挥致妻子被扣12分",
+        "onboard_time": 1659141386,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104504,
+        "num": 104504,
+        "word": "佩洛西访台企图仿佛大型拆台现场",
+        "onboard_time": 1659137842,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 100256,
+        "num": 100256,
+        "word": "失去分享欲就是不爱了吗",
+        "onboard_time": 1659143189,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96717,
+        "num": 96717,
+        "word": "照顾瘫痪父亲女孩考上清华大学",
+        "onboard_time": 1659147567,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#统帅深情励三军#"
+    }
+  }
+}
