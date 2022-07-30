@@ -77,7 +77,7 @@ async function renderDailyContent(data, type) {
     }).join('\n');
 
   const content = `${title}微博热搜——日榜（${utils.formatDate(date.getTime(), 1)}）
-榜单时间段：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}
+数据时间段：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}
 
 ${bandList}`;
 
