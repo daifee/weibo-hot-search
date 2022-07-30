@@ -1,0 +1,410 @@
+{
+  "runTime": 1659180904832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928840,
+        "num": 1928840,
+        "word": "乐山枪案嫌犯与女伤者关系密切",
+        "onboard_time": 1659175232,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372807,
+        "num": 1372807,
+        "word": "14岁男孩考上211和985",
+        "onboard_time": 1659169110,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 389156,
+        "num": 1196835,
+        "word": "跑步超1小时要喝电解质饮料",
+        "onboard_time": 1659170189,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1686747,
+        "num": 1177348,
+        "word": "秦霄贤因提名百花奖彻夜难眠",
+        "onboard_time": 1659177929,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1128267,
+        "num": 1128267,
+        "word": "宋亚轩脸上没有伤",
+        "onboard_time": 1659179371,
+        "rank": 4,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 867946,
+        "num": 867946,
+        "word": "四川持枪伤人案嫌犯尸体被发现",
+        "onboard_time": 1659173853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723920,
+        "num": 723920,
+        "word": "王一博今晚见",
+        "onboard_time": 1659178532,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576932,
+        "num": 576932,
+        "word": "佩洛西若窜访成行大陆将对台采取断然措施",
+        "onboard_time": 1659167010,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 519468,
+        "num": 519468,
+        "word": "Viper19杀",
+        "onboard_time": 1659179432,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 514762,
+        "num": 514762,
+        "word": "师傅修好空调大妈不给钱说谢谢",
+        "onboard_time": 1659167608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408064,
+        "num": 512023,
+        "word": "向往的生活节目组发文否认内涵观众",
+        "onboard_time": 1659175769,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871632,
+        "num": 492424,
+        "word": "婆媳因空调闹矛盾丈夫竟要赶走妻子",
+        "onboard_time": 1659170730,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097844,
+        "num": 487065,
+        "word": "向往的生活节目组发声",
+        "onboard_time": 1659162808,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702711,
+        "num": 479249,
+        "word": "邓家佳百花奖复古公主造型",
+        "onboard_time": 1659172351,
+        "rank": 13,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 468138,
+        "num": 468138,
+        "word": "9岁娃没写作业被爸爸骂背书包出走",
+        "onboard_time": 1659176911,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466949,
+        "num": 466949,
+        "word": "乐山公安通报持枪伤人案",
+        "onboard_time": 1659173312,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457713,
+        "num": 457713,
+        "word": "天津地铁",
+        "onboard_time": 1659178590,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366893,
+        "num": 366893,
+        "word": "男生2分钟收到家对面大学录取书",
+        "onboard_time": 1659179490,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 344466,
+        "num": 344466,
+        "word": "恋与制作人 天坛",
+        "onboard_time": 1659177751,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339875,
+        "num": 339875,
+        "word": "张常宁父母的礼物太好哭了",
+        "onboard_time": 1659171870,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608797,
+        "num": 335811,
+        "word": "网传与凤行女二是辣目洋子",
+        "onboard_time": 1659174393,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597273,
+        "num": 322284,
+        "word": "百花奖闭幕红毯",
+        "onboard_time": 1659174633,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562971,
+        "num": 322141,
+        "word": "独行月球",
+        "onboard_time": 1659169350,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303877,
+        "num": 303877,
+        "word": "武汉市江夏区关于延长临时性管控措施的通告",
+        "onboard_time": 1659178468,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292183,
+        "num": 292183,
+        "word": "LPL恢复无观众线下赛",
+        "onboard_time": 1659176133,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290571,
+        "num": 290571,
+        "word": "小霸王学习机无法更新变板砖",
+        "onboard_time": 1659179128,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 279335,
+        "num": 279335,
+        "word": "一个人的嘴到底可以多硬",
+        "onboard_time": 1659172229,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273570,
+        "num": 273570,
+        "word": "成都加油",
+        "onboard_time": 1659179970,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269349,
+        "num": 269349,
+        "word": "EDG晋级季后赛",
+        "onboard_time": 1659178829,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248132,
+        "num": 248132,
+        "word": "土耳其空乘餐中疑似吃出蛇头",
+        "onboard_time": 1659161668,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538535,
+        "num": 246683,
+        "word": "张小斐百花奖行走的冰沙",
+        "onboard_time": 1659169889,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521237,
+        "num": 241885,
+        "word": "张新成哭戏一边两滴泪",
+        "onboard_time": 1659177152,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474677,
+        "num": 240408,
+        "word": "沸腾校园",
+        "onboard_time": 1659180271,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454661,
+        "num": 235086,
+        "word": "时代少年全员战损妆",
+        "onboard_time": 1659179310,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233333,
+        "num": 233333,
+        "word": "宠物狗疑未拴绳被撞死主人哭晕",
+        "onboard_time": 1659168086,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221429,
+        "num": 221429,
+        "word": "再也不想在空调房里过夏天了",
+        "onboard_time": 1659170251,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210541,
+        "num": 210541,
+        "word": "福建厦门发现1例确诊",
+        "onboard_time": 1659180510,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192075,
+        "num": 192075,
+        "word": "周鸿祎称360是全球黑客最恨的公司",
+        "onboard_time": 1659165687,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 179778,
+        "num": 179778,
+        "word": "7月29日新增确诊100例",
+        "onboard_time": 1659171513,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178317,
+        "num": 178317,
+        "word": "学生曝班主任托班长要升学宴红包",
+        "onboard_time": 1659163109,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 438878,
+        "num": 176103,
+        "word": "百花奖提名",
+        "onboard_time": 1659176371,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419377,
+        "num": 176092,
+        "word": "邓紫棋说原来被抛弃是这种感觉",
+        "onboard_time": 1659178408,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173768,
+        "num": 173768,
+        "word": "外卖小哥靠订单留言救了外卖小哥",
+        "onboard_time": 1659158727,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 170731,
+        "num": 170731,
+        "word": "马斯克称应该放弃混动汽车",
+        "onboard_time": 1659171271,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161267,
+        "num": 161267,
+        "word": "小狗的移动城堡",
+        "onboard_time": 1659179729,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139547,
+        "num": 139547,
+        "word": "玄影裴擒虎四杀",
+        "onboard_time": 1659180212,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137264,
+        "num": 137264,
+        "word": "1岁萌娃为磨牙把桌子啃烂",
+        "onboard_time": 1659161548,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130590,
+        "num": 130590,
+        "word": "男子组团看电影错选成情侣厅",
+        "onboard_time": 1659176371,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127746,
+        "num": 127746,
+        "word": "CUBA半决赛",
+        "onboard_time": 1659179310,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121458,
+        "num": 121458,
+        "word": "耿爽说有关国家不要玩火自焚",
+        "onboard_time": 1659165569,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广大党员干部要勇于担当敢为先锋#"
+    }
+  }
+}

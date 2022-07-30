@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659177499174,
+  "endTime": 1659180904832,
   "band_list": [
     {
       "raw_hot": 5212131,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1928840,
+      "num": 1928840,
+      "word": "乐山枪案嫌犯与女伤者关系密切",
+      "onboard_time": 1659175232,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1828446,
       "num": 1566143,
       "word": "张译 百花奖",
@@ -137,6 +145,14 @@
       "onboard_time": 1659149068,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1686747,
+      "num": 1177348,
+      "word": "秦霄贤因提名百花奖彻夜难眠",
+      "onboard_time": 1659177929,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1627703,
@@ -193,6 +209,14 @@
       "onboard_time": 1659173853,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408064,
+      "num": 925131,
+      "word": "向往的生活节目组发文否认内涵观众",
+      "onboard_time": 1659175769,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1398165,
@@ -283,6 +307,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1128267,
+      "num": 1128267,
+      "word": "宋亚轩脸上没有伤",
+      "onboard_time": 1659179371,
+      "rank": 12,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 1052210,
       "num": 1052210,
       "word": "全球最大精子银行上调精子价格",
@@ -347,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 937544,
+      "num": 937544,
+      "word": "王一博今晚见",
+      "onboard_time": 1659178532,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 921101,
       "num": 253274,
       "word": "蔡徐坤朋友",
@@ -371,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 897802,
-      "num": 897802,
-      "word": "乐山枪案嫌犯与女伤者关系密切",
-      "onboard_time": 1659175232,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 885557,
       "num": 885557,
       "word": "赵今麦郭俊辰吻戏花絮",
@@ -393,14 +425,6 @@
       "onboard_time": 1659112107,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 855503,
-      "num": 587255,
-      "word": "向往的生活节目组发文否认内涵观众",
-      "onboard_time": 1659175769,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 850764,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564841,
+      "num": 292780,
+      "word": "张新成哭戏一边两滴泪",
+      "onboard_time": 1659177152,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547256,
       "num": 547256,
       "word": "佩洛西访台企图仿佛大型拆台现场",
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519468,
+      "num": 519468,
+      "word": "Viper19杀",
+      "onboard_time": 1659179432,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 497578,
       "num": 335180,
       "word": "月升沧海",
@@ -691,12 +731,12 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 481571,
-      "num": 292780,
-      "word": "张新成哭戏一边两滴泪",
-      "onboard_time": 1659177152,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 474677,
+      "num": 240408,
+      "word": "沸腾校园",
+      "onboard_time": 1659180271,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 472636,
@@ -705,6 +745,30 @@
       "onboard_time": 1659142767,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 469547,
+      "num": 223419,
+      "word": "邓紫棋说原来被抛弃是这种感觉",
+      "onboard_time": 1659178408,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 468138,
+      "num": 468138,
+      "word": "9岁娃没写作业被爸爸骂背书包出走",
+      "onboard_time": 1659176911,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465381,
+      "num": 235086,
+      "word": "时代少年全员战损妆",
+      "onboard_time": 1659179310,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 463799,
@@ -731,12 +795,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 457713,
+      "num": 457713,
+      "word": "天津地铁",
+      "onboard_time": 1659178590,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456550,
       "num": 456550,
       "word": "孟美岐舞台氛围感",
       "onboard_time": 1659112407,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 456309,
+      "num": 178878,
+      "word": "百花奖提名",
+      "onboard_time": 1659176371,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 448268,
@@ -857,6 +937,14 @@
       "onboard_time": 1659172229,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 408189,
+      "num": 408189,
+      "word": "恋与制作人 天坛",
+      "onboard_time": 1659177751,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 407686,
@@ -1019,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382524,
-      "num": 178878,
-      "word": "百花奖提名",
-      "onboard_time": 1659176371,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 374840,
       "num": 374840,
       "word": "马斯克称应该放弃混动汽车",
@@ -1067,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366893,
+      "num": 366893,
+      "word": "男生2分钟收到家对面大学录取书",
+      "onboard_time": 1659179490,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 365047,
       "num": 296518,
       "word": "赵露思和正确答案擦肩而过",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1659136097,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355489,
+      "num": 355489,
+      "word": "EDG晋级季后赛",
+      "onboard_time": 1659178829,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 353902,
@@ -1235,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325708,
+      "num": 325708,
+      "word": "武汉市江夏区关于延长临时性管控措施的通告",
+      "onboard_time": 1659178468,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321029,
       "num": 321029,
       "word": "斗破苍穹",
@@ -1331,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290571,
+      "num": 290571,
+      "word": "小霸王学习机无法更新变板砖",
+      "onboard_time": 1659179128,
+      "rank": 34,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 286071,
       "num": 286071,
       "word": "周深终于撕上名牌了",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1659158668,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273570,
+      "num": 273570,
+      "word": "成都加油",
+      "onboard_time": 1659179970,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271236,
@@ -1595,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210541,
+      "num": 210541,
+      "word": "福建厦门发现1例确诊",
+      "onboard_time": 1659180510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203412,
       "num": 203412,
       "word": "杨紫乔欣有友情但不多",
@@ -1747,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161267,
+      "num": 161267,
+      "word": "小狗的移动城堡",
+      "onboard_time": 1659179729,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159568,
       "num": 159568,
       "word": "里根号",
@@ -1867,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139547,
+      "num": 139547,
+      "word": "玄影裴擒虎四杀",
+      "onboard_time": 1659180212,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132601,
       "num": 132601,
       "word": "这猫到底是怎么养的",
@@ -1881,6 +2025,14 @@
       "onboard_time": 1659089309,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 127746,
+      "num": 127746,
+      "word": "CUBA半决赛",
+      "onboard_time": 1659179310,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123717,
@@ -1912,14 +2064,6 @@
       "word": "开封市新增1例无症状感染者",
       "onboard_time": 1659172772,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109663,
-      "num": 109663,
-      "word": "9岁娃没写作业被爸爸骂背书包出走",
-      "onboard_time": 1659176911,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
