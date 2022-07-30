@@ -1,9 +1,9 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659198518380,
+  "endTime": 1659199799220,
   "band_list": [
     {
-      "raw_hot": 3121846,
+      "raw_hot": 4591993,
       "num": 464006,
       "word": "13岁女孩遭69岁男子性侵怀孕",
       "onboard_time": 1659196887,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2792128,
+      "num": 2792128,
+      "word": "建议午睡不要超过半小时",
+      "onboard_time": 1659197069,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2224538,
       "num": 2224538,
       "word": "贾玲 我终于可以拿着自己的奖杯去见你",
       "onboard_time": 1659191438,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1415073,
-      "num": 1415073,
-      "word": "建议午睡不要超过半小时",
-      "onboard_time": 1659197069,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1338839,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506759,
+      "num": 506759,
+      "word": "为什么夏天容易睡不好",
+      "onboard_time": 1659198089,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493637,
       "num": 493637,
       "word": "佩洛西若窜访成行大陆将对台采取断然措施",
@@ -115,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422828,
+      "num": 234901,
+      "word": "看完独行月球第一反应是找歌单",
+      "onboard_time": 1659196951,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389641,
       "num": 236111,
       "word": "莲花楼",
       "onboard_time": 1659191257,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 381440,
-      "num": 234901,
-      "word": "看完独行月球第一反应是找歌单",
-      "onboard_time": 1659196951,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -163,8 +171,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306839,
+      "num": 306839,
+      "word": "医生是有点憋笑功夫在的",
+      "onboard_time": 1659197789,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301572,
-      "num": 175548,
+      "num": 216562,
       "word": "Vox shoto",
       "onboard_time": 1659196411,
       "rank": 30,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 223456,
-      "num": 113019,
+      "num": 138872,
       "word": "独行月球",
       "onboard_time": 1659169350,
       "rank": 40,
@@ -249,14 +265,6 @@
       "onboard_time": 1659182553,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190094,
-      "num": 190094,
-      "word": "为什么夏天容易睡不好",
-      "onboard_time": 1659198089,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185182,
@@ -307,12 +315,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 156919,
-      "num": 156919,
-      "word": "医生是有点憋笑功夫在的",
-      "onboard_time": 1659197789,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 152527,
+      "num": 102122,
+      "word": "法老龚琳娜新歌",
+      "onboard_time": 1659198986,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 147515,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#强军之道要在得人#"
+    },
+    {
+      "word": "#统帅深情励三军#"
     }
   ]
 }
