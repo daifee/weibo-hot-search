@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659205497733,
+  "endTime": 1659206500501,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -8379,6 +8379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346978,
+      "num": 346978,
+      "word": "9宫格和26键哪个更好用",
+      "onboard_time": 1659204019,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346229,
       "num": 194414,
       "word": "白日梦我杀青",
@@ -10251,14 +10259,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 279317,
-      "num": 279317,
-      "word": "9宫格和26键哪个更好用",
-      "onboard_time": 1659204019,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279210,
       "num": 279210,
       "word": "RA",
@@ -10641,6 +10641,14 @@
       "onboard_time": 1658901571,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265277,
+      "num": 265277,
+      "word": "范丞丞回应好会亲",
+      "onboard_time": 1659204555,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 265264,
@@ -11521,14 +11529,6 @@
       "onboard_time": 1658721691,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233499,
-      "num": 130026,
-      "word": "范丞丞回应好会亲",
-      "onboard_time": 1659204555,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 233459,
@@ -13699,6 +13699,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 115923,
+      "num": 65901,
+      "word": "只有吴磊受伤的世界达成了",
+      "onboard_time": 1659205334,
+      "rank": 33,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 113945,
       "num": 113945,
       "word": "还没换牙的小狗吃西瓜",
@@ -13889,14 +13897,6 @@
       "onboard_time": 1658926833,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91320,
-      "num": 52292,
-      "word": "只有吴磊受伤的世界达成了",
-      "onboard_time": 1659205334,
-      "rank": 33,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 89392,

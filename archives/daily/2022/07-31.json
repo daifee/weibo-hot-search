@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659205497733,
+  "endTime": 1659206500501,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346978,
+      "num": 346978,
+      "word": "9宫格和26键哪个更好用",
+      "onboard_time": 1659204019,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343014,
       "num": 228153,
       "word": "杨紫把瓜皮都吃了",
@@ -211,12 +219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279317,
-      "num": 279317,
-      "word": "9宫格和26键哪个更好用",
-      "onboard_time": 1659204019,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 265277,
+      "num": 265277,
+      "word": "范丞丞回应好会亲",
+      "onboard_time": 1659204555,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 254372,
@@ -233,14 +241,6 @@
       "onboard_time": 1659192640,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233499,
-      "num": 130026,
-      "word": "范丞丞回应好会亲",
-      "onboard_time": 1659204555,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 223456,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115923,
+      "num": 65901,
+      "word": "只有吴磊受伤的世界达成了",
+      "onboard_time": 1659205334,
+      "rank": 33,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 113656,
       "num": 113656,
       "word": "朋友中总有一个倒霉蛋",
@@ -433,14 +441,6 @@
       "onboard_time": 1659170730,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91320,
-      "num": 52292,
-      "word": "只有吴磊受伤的世界达成了",
-      "onboard_time": 1659205334,
-      "rank": 33,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 88680,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1659206500501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 619779,
+        "num": 619779,
+        "word": "建议午睡不要超过半小时",
+        "onboard_time": 1659197069,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346978,
+        "num": 346978,
+        "word": "9宫格和26键哪个更好用",
+        "onboard_time": 1659204019,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 292940,
+        "word": "被祖国大好河山惊艳到了",
+        "onboard_time": 1659187480,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265365,
+        "num": 265365,
+        "word": "为什么夏天容易睡不好",
+        "onboard_time": 1659198089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265277,
+        "num": 265277,
+        "word": "范丞丞回应好会亲",
+        "onboard_time": 1659204555,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545620,
+        "num": 231939,
+        "word": "沈腾0票",
+        "onboard_time": 1659189699,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191144,
+        "num": 191144,
+        "word": "官方回应建议对疫苗未全程接种者赋蓝码",
+        "onboard_time": 1659194496,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143730,
+        "num": 143730,
+        "word": "480斤小伙打利尿剂一周减120斤",
+        "onboard_time": 1659186574,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139456,
+        "num": 139456,
+        "word": "医生是有点憋笑功夫在的",
+        "onboard_time": 1659197789,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101006,
+        "num": 101006,
+        "word": "要是等我不上班了",
+        "onboard_time": 1659199826,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1363479,
+        "num": 100858,
+        "word": "13岁女孩遭69岁男子性侵怀孕",
+        "onboard_time": 1659196887,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 220219,
+        "num": 100488,
+        "word": "贾玲 我终于可以拿着自己的奖杯去见你",
+        "onboard_time": 1659191438,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156084,
+        "num": 100050,
+        "word": "向往的生活节目组发文否认内涵观众",
+        "onboard_time": 1659175769,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99517,
+        "num": 99517,
+        "word": "孟加拉白虎产4仔1只没墨了",
+        "onboard_time": 1659181530,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169056,
+        "num": 98296,
+        "word": "周也0票",
+        "onboard_time": 1659191857,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95324,
+        "num": 95324,
+        "word": "四川枪击案嫌犯与1伤者为情人关系",
+        "onboard_time": 1659190361,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95079,
+        "num": 95079,
+        "word": "佩洛西若窜访成行大陆将对台采取断然措施",
+        "onboard_time": 1659167010,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 91341,
+        "num": 91341,
+        "word": "游泳教练水中粗暴拖拽5岁孩子",
+        "onboard_time": 1659181107,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72154,
+        "num": 72154,
+        "word": "男子深夜擅入醉酒女子客房称关心探望",
+        "onboard_time": 1659181291,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68801,
+        "num": 68801,
+        "word": "男生2分钟收到家对面大学录取书",
+        "onboard_time": 1659179490,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 152399,
+        "num": 68550,
+        "word": "看完独行月球第一反应是找歌单",
+        "onboard_time": 1659196951,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137561,
+        "num": 67031,
+        "word": "武大靖说焦虑代表不够努力",
+        "onboard_time": 1659203537,
+        "rank": 21,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 115923,
+        "num": 65901,
+        "word": "只有吴磊受伤的世界达成了",
+        "onboard_time": 1659205334,
+        "rank": 22,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 64510,
+        "num": 64510,
+        "word": "张凯",
+        "onboard_time": 1659194736,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63556,
+        "num": 63556,
+        "word": "16家平台处置56.3万违规直播间",
+        "onboard_time": 1659189760,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 57827,
+        "num": 57827,
+        "word": "南昌48小时未做核酸将赋黄码",
+        "onboard_time": 1659187358,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57757,
+        "num": 57757,
+        "word": "嫁给爱情的样子真是漂亮极了",
+        "onboard_time": 1659194076,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57586,
+        "num": 57586,
+        "word": "哈利波特 抽奖",
+        "onboard_time": 1659192640,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56839,
+        "num": 56839,
+        "word": "14岁男孩考上211和985",
+        "onboard_time": 1659169110,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 47614,
+        "num": 47614,
+        "word": "婆媳矛盾真的无解吗",
+        "onboard_time": 1659183872,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103097,
+        "num": 47471,
+        "word": "杨洋恭喜Uzi结婚快乐",
+        "onboard_time": 1659196234,
+        "rank": 30,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 92275,
+        "num": 47291,
+        "word": "百花奖最佳男主角票数",
+        "onboard_time": 1659203417,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85403,
+        "num": 46775,
+        "word": "杨迪说刘雨昕是白学公主",
+        "onboard_time": 1659200184,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79282,
+        "num": 46446,
+        "word": "Vox shoto",
+        "onboard_time": 1659196411,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 46434,
+        "num": 46434,
+        "word": "惠若琪",
+        "onboard_time": 1659182553,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58444,
+        "num": 43346,
+        "word": "独行月球",
+        "onboard_time": 1659169350,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39231,
+        "num": 39231,
+        "word": "清华大学CUBA总决赛对阵广东工大",
+        "onboard_time": 1659193238,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38131,
+        "num": 38131,
+        "word": "班主任回应托班长索要升学宴红包",
+        "onboard_time": 1659188078,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 37535,
+        "num": 37535,
+        "word": "宁波大学vs清华大学",
+        "onboard_time": 1659188676,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37371,
+        "num": 37371,
+        "word": "天津新增本土阳性感染者5例",
+        "onboard_time": 1659184834,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53788,
+        "num": 37174,
+        "word": "袁泉 百花奖最佳女主角",
+        "onboard_time": 1659184714,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36152,
+        "num": 36152,
+        "word": "四川持枪伤人案嫌犯尸体被发现",
+        "onboard_time": 1659173853,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34005,
+        "num": 34005,
+        "word": "婆媳因空调闹矛盾丈夫竟要赶走妻子",
+        "onboard_time": 1659170730,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31070,
+        "num": 31070,
+        "word": "福建厦门发现1例确诊",
+        "onboard_time": 1659180510,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31017,
+        "num": 31017,
+        "word": "GEN战胜T1",
+        "onboard_time": 1659190480,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30469,
+        "num": 30469,
+        "word": "TTG对战eStar",
+        "onboard_time": 1659200064,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28883,
+        "num": 28883,
+        "word": "利物浦曼城红蓝大战",
+        "onboard_time": 1659202039,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26028,
+        "num": 26028,
+        "word": "朋友中总有一个倒霉蛋",
+        "onboard_time": 1659188317,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25544,
+        "num": 25544,
+        "word": "金属物理学家张兴钤院士逝世",
+        "onboard_time": 1659192879,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24448,
+        "num": 24448,
+        "word": "江西修水回应班主任要升学宴红包",
+        "onboard_time": 1659192816,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#统帅深情励三军#"
+    }
+  }
+}
