@@ -42,33 +42,44 @@ function send(content) {
       Referer: 'https://weibo.com/',
       'Referrer-Policy': 'strict-origin-when-cross-origin',
     },
+  }).then((res) => {
+    if (res?.data?.ok !== 1) {
+      const message = `${res.data?.message}(${res.data?.ok})`;
+      return Promise.reject(new Error(message));
+    }
+    return res;
+  }).catch((error) => {
+    // eslint-disable-next-line no-console
+    console.log('send error: ', error.message);
+    return Promise.reject(error);
   });
 }
 
 /**
- * 渲染日榜内容
+ * 渲染日榜内容（限制5000个字符）
+ * Text too long, please input text less than 5000 characters!
  * @param {object} data
  * @returns Promise<String>
  */
 async function renderDailyContent(data) {
   const date = new Date(data.startTime);
-  const bandList = data.band_list.map((item, index) => {
-    const rank = index + 1;
-    return `${rank}. #${item.word}# （热度：${item.raw_hot}）`;
-  }).join('\n');
+  const bandList = data.band_list
+    .slice(0, 100)
+    .map((item, index) => {
+      const rank = index + 1;
+      return `${rank}. #${item.word}# （热度：${item.raw_hot}）`;
+    }).join('\n');
 
-  const hotgovList = data.hotgov_list.map((item, index) => {
-    const rank = index + 1;
-    return `${rank}. ${item.word} `;
-  }).join('\n');
+  // 正能量列表
+  // const hotgovList = data.hotgov_list.map((item, index) => {
+  //   const rank = index + 1;
+  //   return `${rank}. ${item.word} `;
+  // }).join('\n');
 
   const content = `微博热搜——日榜（${utils.formatDate(date.getTime(), 1)}）
 更新时间：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}
-热搜列表：
-${bandList}
 
-正能量列表：
-${hotgovList}`;
+${bandList}`;
 
   return content;
 }
