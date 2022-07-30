@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659199799220,
+  "endTime": 1659201609045,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2792128,
-      "num": 2792128,
+      "raw_hot": 2796028,
+      "num": 2796028,
       "word": "建议午睡不要超过半小时",
       "onboard_time": 1659197069,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658722,
+      "num": 658722,
+      "word": "为什么夏天容易睡不好",
+      "onboard_time": 1659198089,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641926,
       "num": 641926,
       "word": "四川枪击案嫌犯与1伤者为情人关系",
@@ -92,18 +100,10 @@
     },
     {
       "raw_hot": 586275,
-      "num": 375385,
+      "num": 404493,
       "word": "官方回应建议对疫苗未全程接种者赋蓝码",
       "onboard_time": 1659194496,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506759,
-      "num": 506759,
-      "word": "为什么夏天容易睡不好",
-      "onboard_time": 1659198089,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -163,20 +163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341157,
+      "num": 341157,
+      "word": "医生是有点憋笑功夫在的",
+      "onboard_time": 1659197789,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329660,
       "num": 329660,
       "word": "宁波大学vs清华大学",
       "onboard_time": 1659188676,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306839,
-      "num": 306839,
-      "word": "医生是有点憋笑功夫在的",
-      "onboard_time": 1659197789,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 301572,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191448,
+      "num": 148791,
+      "word": "杨迪说刘雨昕是白学公主",
+      "onboard_time": 1659200184,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185182,
       "num": 185182,
       "word": "游泳教练水中粗暴拖拽5岁孩子",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147236,
+      "num": 147236,
+      "word": "要是等我不上班了",
+      "onboard_time": 1659199826,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 120596,
       "num": 120596,
       "word": "四川持枪伤人案嫌犯尸体被发现",
@@ -385,6 +401,14 @@
       "onboard_time": 1659170730,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88680,
+      "num": 88680,
+      "word": "TTG对战eStar",
+      "onboard_time": 1659200064,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 87545,
