@@ -3,6 +3,8 @@ const spider = require('../scripts/spider');
 const utils = require('../scripts/utils');
 const tool = require('./tool');
 
+jest.setTimeout(15000);
+
 beforeEach(() => {
   tool.cleanTempDir();
 });
