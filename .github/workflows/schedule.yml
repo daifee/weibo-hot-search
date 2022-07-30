@@ -21,8 +21,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - name: 命中定时器计划
-        run: echo ${{ github.event.schedule }}
       - name: 安装依赖
         run: npm install
       - name: 抓取数据

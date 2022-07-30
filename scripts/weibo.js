@@ -61,7 +61,13 @@ function send(content) {
  * @param {object} data
  * @returns Promise<String>
  */
-async function renderDailyContent(data) {
+async function renderDailyContent(data, type) {
+  const titleMap = {
+    today: '今天',
+    yesterday: '昨天',
+  };
+  const title = titleMap[type] || '';
+
   const date = new Date(data.startTime);
   const bandList = data.band_list
     .slice(0, 100)
@@ -70,14 +76,8 @@ async function renderDailyContent(data) {
       return `${rank}. #${item.word}# （热度：${item.raw_hot}）`;
     }).join('\n');
 
-  // 正能量列表
-  // const hotgovList = data.hotgov_list.map((item, index) => {
-  //   const rank = index + 1;
-  //   return `${rank}. ${item.word} `;
-  // }).join('\n');
-
-  const content = `微博热搜——日榜（${utils.formatDate(date.getTime(), 1)}）
-更新时间：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}
+  const content = `${title}微博热搜——日榜（${utils.formatDate(date.getTime(), 1)}）
+榜单时间段：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}
 
 ${bandList}`;
 
@@ -89,18 +89,18 @@ ${bandList}`;
  * @param {number} timestamp
  * @returns Promise<String>
  */
-function generateDailyContent(timestamp) {
+function generateDailyContent(timestamp, type) {
   // 读取数据
   const filePath = archiveDaily.getFilePath(timestamp, 'json');
   const data = utils.readJSON(filePath);
 
   // 渲染内容
-  return renderDailyContent(data);
+  return renderDailyContent(data, type);
 }
 
 // 发微博
-async function sendDaily(timestamp) {
-  const content = await generateDailyContent(timestamp);
+async function sendDaily(timestamp, type) {
+  const content = await generateDailyContent(timestamp, type);
   return send(content);
 }
 
@@ -109,14 +109,14 @@ function sendYesterday() {
   const date = new Date();
   date.setDate(date.getDate() - 1);
 
-  return sendDaily(date.getTime());
+  return sendDaily(date.getTime(), 'yesterday');
 }
 
 // 发微博（今天）
 function sendToday() {
   const date = new Date();
 
-  return sendDaily(date.getTime());
+  return sendDaily(date.getTime(), 'today');
 }
 
 module.exports = {

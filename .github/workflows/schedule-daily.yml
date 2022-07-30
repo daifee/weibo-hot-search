@@ -2,9 +2,6 @@
 name: 每日定时任务
 
 on:
-  push:
-    branches:
-      - 'main'
   # 每30分钟执行1次
   schedule:
     - cron: '8 * * * *'
