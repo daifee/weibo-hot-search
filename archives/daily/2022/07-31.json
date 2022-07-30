@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659223217281,
+  "endTime": 1659224165510,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 829377,
+      "num": 829377,
+      "word": "贾玲获奖张小斐哭了",
+      "onboard_time": 1659222438,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 777134,
       "num": 777134,
       "word": "袁泉 百花奖最佳女主角",
@@ -72,6 +80,14 @@
       "word": "向往的生活节目组发文否认内涵观众",
       "onboard_time": 1659175769,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 670899,
+      "num": 670899,
+      "word": "9宫格和26键哪个更好用",
+      "onboard_time": 1659204019,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608751,
-      "num": 608751,
-      "word": "9宫格和26键哪个更好用",
-      "onboard_time": 1659204019,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 620987,
+      "num": 290373,
+      "word": "成吉思汗陵回应妇女不许上祭坛",
+      "onboard_time": 1659222738,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586275,
@@ -115,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564102,
-      "num": 564102,
-      "word": "贾玲获奖张小斐哭了",
-      "onboard_time": 1659222438,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 522045,
+      "num": 522045,
+      "word": "中方希望美方能听进去理性声音",
+      "onboard_time": 1659213731,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 493637,
@@ -137,14 +153,6 @@
       "onboard_time": 1659185674,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446105,
-      "num": 446105,
-      "word": "中方希望美方能听进去理性声音",
-      "onboard_time": 1659213731,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 422828,
@@ -204,10 +212,18 @@
     },
     {
       "raw_hot": 326819,
-      "num": 248226,
+      "num": 281359,
       "word": "朱媛媛 金杯银杯不如观众口碑",
       "onboard_time": 1659215471,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309387,
+      "num": 284891,
+      "word": "凌不疑对程少商的称呼变化",
+      "onboard_time": 1659217992,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 288006,
-      "num": 93605,
+      "num": 125094,
       "word": "只有吴磊受伤的世界达成了",
       "onboard_time": 1659205334,
       "rank": 33,
@@ -251,12 +267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277160,
-      "num": 221161,
-      "word": "凌不疑对程少商的称呼变化",
-      "onboard_time": 1659217992,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 276559,
+      "num": 276559,
+      "word": "3岁娃喊头疼做CT前躺地自转20分钟",
+      "onboard_time": 1659223279,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265277,
@@ -265,6 +281,14 @@
       "onboard_time": 1659204555,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260856,
+      "num": 260856,
+      "word": "拜登新冠检测再次呈阳性",
+      "onboard_time": 1659223641,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 254372,
@@ -283,12 +307,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236163,
+      "num": 236163,
+      "word": "山东这些传世马面裙可太美了",
+      "onboard_time": 1659220456,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223456,
       "num": 138872,
       "word": "独行月球",
       "onboard_time": 1659169350,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217592,
+      "num": 217592,
+      "word": "7月最后1天",
+      "onboard_time": 1659223461,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 215014,
@@ -339,11 +379,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185182,
-      "num": 185182,
+      "raw_hot": 190374,
+      "num": 190374,
       "word": "游泳教练水中粗暴拖拽5岁孩子",
       "onboard_time": 1659181107,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189793,
+      "num": 189793,
+      "word": "智齿必须要拔吗",
+      "onboard_time": 1659222317,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -353,14 +401,6 @@
       "onboard_time": 1659169110,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 179778,
-      "num": 179778,
-      "word": "山东这些传世马面裙可太美了",
-      "onboard_time": 1659220456,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175949,
@@ -403,12 +443,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 160387,
-      "num": 129489,
-      "word": "成吉思汗陵回应妇女不许上祭坛",
-      "onboard_time": 1659222738,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 161877,
+      "num": 739372,
+      "word": "最低票价仅1元的慢火车",
+      "onboard_time": 1659214631,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 160234,
@@ -420,7 +460,7 @@
     },
     {
       "raw_hot": 153559,
-      "num": 102611,
+      "num": 127299,
       "word": "王心凌张栋梁隔空同框",
       "onboard_time": 1659210611,
       "rank": 12,
@@ -443,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136349,
+      "num": 136349,
+      "word": "天津新增本土阳性感染者5例",
+      "onboard_time": 1659184834,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126127,
+      "num": 124843,
+      "word": "檀健次是杨紫的专用翻译",
+      "onboard_time": 1659208932,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120596,
       "num": 120596,
       "word": "四川持枪伤人案嫌犯尸体被发现",
@@ -451,20 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118617,
-      "num": 118617,
-      "word": "天津新增本土阳性感染者5例",
-      "onboard_time": 1659184834,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115991,
-      "num": 115991,
-      "word": "最低票价仅1元的慢火车",
-      "onboard_time": 1659214631,
-      "rank": 48,
-      "category": "社会新闻,旅游"
+      "raw_hot": 116377,
+      "num": 91375,
+      "word": "袁一琦 全开麦",
+      "onboard_time": 1659223039,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 113656,
@@ -499,14 +547,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 97753,
-      "num": 97753,
-      "word": "檀健次是杨紫的专用翻译",
-      "onboard_time": 1659208932,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95708,
       "num": 54799,
       "word": "百花奖最佳男主角票数",
@@ -515,28 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94442,
-      "num": 70531,
-      "word": "袁一琦 全开麦",
-      "onboard_time": 1659223039,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 93387,
       "num": 93387,
       "word": "GEN战胜T1",
       "onboard_time": 1659190480,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91520,
-      "num": 91520,
-      "word": "智齿必须要拔吗",
-      "onboard_time": 1659222317,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91331,
@@ -577,6 +601,14 @@
       "onboard_time": 1659188197,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80371,
+      "num": 80371,
+      "word": "成都一初三学生被北大录取",
+      "onboard_time": 1659223941,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 59021,
