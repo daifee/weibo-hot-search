@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659191698583,
+  "endTime": 1659194463338,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -56,6 +56,14 @@
       "word": "沈腾 台词",
       "onboard_time": 1659181229,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2675465,
+      "num": 1035978,
+      "word": "贾玲 我终于可以拿着自己的奖杯去见你",
+      "onboard_time": 1659191438,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1910528,
-      "num": 812746,
+      "num": 825135,
       "word": "你好李焕英百花奖优秀影片",
       "onboard_time": 1659188496,
       "rank": 6,
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1484285,
+      "num": 630712,
+      "word": "周也0票",
+      "onboard_time": 1659191857,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1472815,
       "num": 1472815,
       "word": "四川持枪伤人案嫌犯尸体被发现",
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1217724,
+      "num": 1217724,
+      "word": "猴痘",
+      "onboard_time": 1659185674,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174644,
       "num": 1174644,
       "word": "原来tangoz是来向前冲送冰箱的",
@@ -393,14 +417,6 @@
       "onboard_time": 1659159149,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1149771,
-      "num": 1149771,
-      "word": "猴痘",
-      "onboard_time": 1659185674,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1140732,
@@ -627,6 +643,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 825844,
+      "num": 825844,
+      "word": "四川枪击案嫌犯与1伤者为情人关系",
+      "onboard_time": 1659190361,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824331,
+      "num": 824331,
+      "word": "宁波大学vs清华大学",
+      "onboard_time": 1659188676,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 805184,
       "num": 805184,
       "word": "雷克萨斯车祸救人司机发声",
@@ -707,14 +739,6 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 706605,
-      "num": 706605,
-      "word": "宁波大学vs清华大学",
-      "onboard_time": 1659188676,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 701389,
       "num": 701389,
       "word": "男生2分钟收到家对面大学录取书",
@@ -737,6 +761,14 @@
       "onboard_time": 1659184834,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669312,
+      "num": 269052,
+      "word": "杨紫把瓜皮都吃了",
+      "onboard_time": 1659192398,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 663029,
@@ -851,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 604014,
-      "num": 207570,
-      "word": "贾玲 我终于可以拿着自己的奖杯去见你",
-      "onboard_time": 1659191438,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 603210,
       "num": 343849,
       "word": "钟楚曦说第一次见到许凯闪瞎眼",
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 572493,
-      "num": 163012,
+      "num": 190439,
       "word": "莲花楼",
       "onboard_time": 1659191257,
       "rank": 41,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1659188197,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 504119,
+      "num": 194438,
+      "word": "不愧是韩红",
+      "onboard_time": 1659194137,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 497578,
@@ -1208,6 +1240,14 @@
       "word": "RNG对战JDG",
       "onboard_time": 1659182252,
       "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 434632,
+      "num": 434632,
+      "word": "哈利波特 抽奖",
+      "onboard_time": 1659192640,
+      "rank": 12,
       "category": "游戏"
     },
     {
@@ -1763,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307642,
-      "num": 283249,
-      "word": "四川枪击案嫌犯与1伤者为情人关系",
-      "onboard_time": 1659190361,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304373,
       "num": 304373,
       "word": "官方通报班主任索要升学宴红包",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1659171568,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281722,
+      "num": 281722,
+      "word": "清华大学CUBA总决赛对阵广东工大",
+      "onboard_time": 1659193238,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 279787,
@@ -1971,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263679,
+      "num": 1806650,
+      "word": "被祖国大好河山惊艳到了",
+      "onboard_time": 1659187480,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262032,
       "num": 132109,
       "word": "周深百花奖演唱洪湖水浪打浪",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1659106475,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236374,
-      "num": 1806650,
-      "word": "被祖国大好河山惊艳到了",
-      "onboard_time": 1659187480,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234133,
@@ -2171,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199279,
+      "num": 199279,
+      "word": "江西修水回应班主任要升学宴红包",
+      "onboard_time": 1659192816,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 193439,
       "num": 193439,
       "word": "林允儿黑话律师",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1659173434,
       "rank": 34,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 189072,
+      "num": 189072,
+      "word": "清融的弈星",
+      "onboard_time": 1659192640,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 186008,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1659096630,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181619,
+      "num": 181619,
+      "word": "金属物理学家张兴钤院士逝世",
+      "onboard_time": 1659192879,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179289,
@@ -2355,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158267,
+      "num": 158267,
+      "word": "嫁给爱情的样子真是漂亮极了",
+      "onboard_time": 1659194076,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157901,
       "num": 148441,
       "word": "少年派2豆瓣开分7.0",
@@ -2465,6 +2537,14 @@
       "onboard_time": 1659180212,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138462,
+      "num": 138462,
+      "word": "F1匈牙利大奖赛排位赛",
+      "onboard_time": 1659193774,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132601,
