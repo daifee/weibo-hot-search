@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659201609045,
+  "endTime": 1659202582973,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 422828,
-      "num": 234901,
+      "num": 318863,
       "word": "看完独行月球第一反应是找歌单",
       "onboard_time": 1659196951,
       "rank": 21,
@@ -323,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 160234,
+      "num": 160234,
+      "word": "要是等我不上班了",
+      "onboard_time": 1659199826,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152527,
       "num": 102122,
       "word": "法老龚琳娜新歌",
@@ -337,14 +345,6 @@
       "onboard_time": 1659187480,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147236,
-      "num": 147236,
-      "word": "要是等我不上班了",
-      "onboard_time": 1659199826,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 120596,
@@ -433,6 +433,14 @@
       "onboard_time": 1659188197,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59021,
+      "num": 43805,
+      "word": "容祖儿常石磊",
+      "onboard_time": 1659202578,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
