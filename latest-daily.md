@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/07/31 00:28:38 ~ 2022/07/31 03:16:41
+本榜单时间：2022/07/31 00:28:38 ~ 2022/07/31 03:33:23
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ RNG战胜JDG（热度：83590）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B9%E7%A5%96%E5%84%BF%E5%B8%B8%E7%9F%B3%E7%A3%8A%23" target="weibo">
 容祖儿常石磊（热度：59021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%98%AF%E6%9D%A8%E7%B4%AB%E7%9A%84%E4%B8%93%E7%94%A8%E7%BF%BB%E8%AF%91%23" target="weibo">
+檀健次是杨紫的专用翻译（热度：40160）
 </a>
 </li>
 
