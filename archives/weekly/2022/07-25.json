@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659182489600,
+  "endTime": 1659183863030,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -939,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1822423,
+      "num": 1822423,
+      "word": "沈腾 台词",
+      "onboard_time": 1659181229,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1817752,
       "num": 1403141,
       "word": "女子挤痘痘脸部感染手术缝6针",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1658892690,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1736259,
+      "num": 879737,
+      "word": "第36届百花奖获奖名单",
+      "onboard_time": 1659182612,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1723528,
@@ -1779,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1267055,
-      "num": 1267055,
-      "word": "沈腾 台词",
-      "onboard_time": 1659181229,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1265996,
       "num": 1265996,
       "word": "上海一医院8000元招募疫苗接种志愿者",
@@ -1912,6 +1920,14 @@
       "word": "安乐传",
       "onboard_time": 1658922752,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1216164,
+      "num": 531848,
+      "word": "李玟跑调",
+      "onboard_time": 1659183690,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -2281,6 +2297,14 @@
       "onboard_time": 1659015163,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1047438,
+      "num": 491309,
+      "word": "扬名立万",
+      "onboard_time": 1659181411,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1047355,
@@ -2681,6 +2705,14 @@
       "onboard_time": 1658995772,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 922920,
+      "num": 373375,
+      "word": "杨紫成毅连麦直播",
+      "onboard_time": 1659183330,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 922826,
@@ -3089,6 +3121,14 @@
       "onboard_time": 1658888371,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 812524,
+      "num": 812524,
+      "word": "孟加拉白虎产4仔1只没墨了",
+      "onboard_time": 1659181530,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 812066,
@@ -3539,6 +3579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 721198,
+      "num": 721198,
+      "word": "游泳教练水中粗暴拖拽5岁孩子",
+      "onboard_time": 1659181107,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719302,
       "num": 719302,
       "word": "二舅作者回应",
@@ -3635,6 +3683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696198,
+      "num": 696198,
+      "word": "男生2分钟收到家对面大学录取书",
+      "onboard_time": 1659179490,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 694733,
       "num": 694733,
       "word": "雷佳音张小斐新片官宣",
@@ -3729,14 +3785,6 @@
       "onboard_time": 1658732435,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669343,
-      "num": 408086,
-      "word": "扬名立万",
-      "onboard_time": 1659181411,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 664790,
@@ -3841,14 +3889,6 @@
       "onboard_time": 1659165687,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 650876,
-      "num": 650876,
-      "word": "男生2分钟收到家对面大学录取书",
-      "onboard_time": 1659179490,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 650655,
@@ -4104,6 +4144,14 @@
       "word": "敞门开空调拟被罚超5000元",
       "onboard_time": 1658796272,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617964,
+      "num": 475540,
+      "word": "熬夜加班猝死女孩家属希望停止捐款",
+      "onboard_time": 1659182312,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4707,6 +4755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552655,
+      "num": 552655,
+      "word": "天津地铁",
+      "onboard_time": 1659178590,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550397,
       "num": 550397,
       "word": "wayward",
@@ -5081,6 +5137,14 @@
       "onboard_time": 1659066996,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 522624,
+      "num": 221741,
+      "word": "侯勇百花奖最佳男配角",
+      "onboard_time": 1659182252,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 521143,
@@ -5867,14 +5931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457713,
-      "num": 457713,
-      "word": "天津地铁",
-      "onboard_time": 1659178590,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457605,
       "num": 457605,
       "word": "6岁脑瘫女孩给母亲展示蹲马步",
@@ -6097,6 +6153,14 @@
       "onboard_time": 1658900254,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 445572,
+      "num": 217582,
+      "word": "裴爸下跪求裴之离开",
+      "onboard_time": 1659182553,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 445145,
@@ -6787,14 +6851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 408756,
-      "num": 408756,
-      "word": "游泳教练水中粗暴拖拽5岁孩子",
-      "onboard_time": 1659181107,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408749,
       "num": 408749,
       "word": "日本发现首例猴痘病例",
@@ -6849,6 +6905,14 @@
       "onboard_time": 1658733931,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 406514,
+      "num": 406514,
+      "word": "RNG优势被翻盘",
+      "onboard_time": 1659182490,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 406438,
@@ -6913,14 +6977,6 @@
       "onboard_time": 1658978489,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 403757,
-      "num": 168460,
-      "word": "侯勇百花奖最佳男配角",
-      "onboard_time": 1659182252,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 403380,
@@ -7371,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383852,
+      "num": 383852,
+      "word": "惠若琪",
+      "onboard_time": 1659182553,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383355,
       "num": 383355,
       "word": "林妙妙钱三一给我亲上去",
@@ -7529,14 +7593,6 @@
       "onboard_time": 1659159269,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372574,
-      "num": 372574,
-      "word": "孟加拉白虎产4仔1只没墨了",
-      "onboard_time": 1659181530,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372527,
@@ -9395,6 +9451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290833,
+      "num": 290833,
+      "word": "男子深夜擅入醉酒女子客房称关心探望",
+      "onboard_time": 1659181291,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290641,
       "num": 290641,
       "word": "医保跨省直接结算范围拓展",
@@ -10579,14 +10643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250471,
-      "num": 250471,
-      "word": "熬夜加班猝死女孩家属希望停止捐款",
-      "onboard_time": 1659182312,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250077,
       "num": 250077,
       "word": "第五人格",
@@ -10697,14 +10753,6 @@
       "onboard_time": 1658778792,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 246151,
-      "num": 246151,
-      "word": "男子深夜擅入醉酒女子客房称关心探望",
-      "onboard_time": 1659181291,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246035,

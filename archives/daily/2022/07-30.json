@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659182489600,
+  "endTime": 1659183863030,
   "band_list": [
     {
       "raw_hot": 5212131,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1822423,
+      "num": 1822423,
+      "word": "沈腾 台词",
+      "onboard_time": 1659181229,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1802986,
       "num": 1802986,
       "word": "佩洛西若窜访成行大陆将对台采取断然措施",
@@ -121,6 +129,14 @@
       "onboard_time": 1659108513,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1736259,
+      "num": 879737,
+      "word": "第36届百花奖获奖名单",
+      "onboard_time": 1659182612,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1715693,
@@ -259,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1267055,
-      "num": 1267055,
-      "word": "沈腾 台词",
-      "onboard_time": 1659181229,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1224795,
       "num": 1224795,
       "word": "土耳其空乘餐中疑似吃出蛇头",
       "onboard_time": 1659161668,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1216164,
+      "num": 531848,
+      "word": "李玟跑调",
+      "onboard_time": 1659183690,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1174644,
@@ -329,6 +345,14 @@
       "onboard_time": 1659098674,
       "rank": 5,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1047438,
+      "num": 491309,
+      "word": "扬名立万",
+      "onboard_time": 1659181411,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1044988,
@@ -393,6 +417,14 @@
       "onboard_time": 1659178532,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922920,
+      "num": 373375,
+      "word": "杨紫成毅连麦直播",
+      "onboard_time": 1659183330,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 921101,
@@ -467,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 812524,
+      "num": 812524,
+      "word": "孟加拉白虎产4仔1只没墨了",
+      "onboard_time": 1659181530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805184,
       "num": 805184,
       "word": "雷克萨斯车祸救人司机发声",
@@ -515,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 721198,
+      "num": 721198,
+      "word": "游泳教练水中粗暴拖拽5岁孩子",
+      "onboard_time": 1659181107,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715881,
       "num": 562027,
       "word": "龚俊战胜周柯宇",
@@ -523,12 +571,12 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 669343,
-      "num": 408086,
-      "word": "扬名立万",
-      "onboard_time": 1659181411,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 696198,
+      "num": 696198,
+      "word": "男生2分钟收到家对面大学录取书",
+      "onboard_time": 1659179490,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 663029,
@@ -561,14 +609,6 @@
       "onboard_time": 1659165687,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 650876,
-      "num": 650876,
-      "word": "男生2分钟收到家对面大学录取书",
-      "onboard_time": 1659179490,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 650655,
@@ -617,6 +657,14 @@
       "onboard_time": 1659110969,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 617964,
+      "num": 475540,
+      "word": "熬夜加班猝死女孩家属希望停止捐款",
+      "onboard_time": 1659182312,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617363,
@@ -691,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 552655,
+      "num": 552655,
+      "word": "天津地铁",
+      "onboard_time": 1659178590,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547256,
       "num": 547256,
       "word": "佩洛西访台企图仿佛大型拆台现场",
@@ -729,6 +785,14 @@
       "onboard_time": 1659161728,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522624,
+      "num": 221741,
+      "word": "侯勇百花奖最佳男配角",
+      "onboard_time": 1659182252,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 513805,
@@ -835,14 +899,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 457713,
-      "num": 457713,
-      "word": "天津地铁",
-      "onboard_time": 1659178590,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456550,
       "num": 456550,
       "word": "孟美岐舞台氛围感",
@@ -881,6 +937,14 @@
       "onboard_time": 1659162808,
       "rank": 29,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 445572,
+      "num": 217582,
+      "word": "裴爸下跪求裴之离开",
+      "onboard_time": 1659182553,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 443149,
@@ -995,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 408756,
-      "num": 408756,
-      "word": "游泳教练水中粗暴拖拽5岁孩子",
-      "onboard_time": 1659181107,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408189,
       "num": 408189,
       "word": "恋与制作人 天坛",
@@ -1027,12 +1083,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 403757,
-      "num": 168460,
-      "word": "侯勇百花奖最佳男配角",
-      "onboard_time": 1659182252,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 406514,
+      "num": 406514,
+      "word": "RNG优势被翻盘",
+      "onboard_time": 1659182490,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 403223,
@@ -1179,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383852,
+      "num": 383852,
+      "word": "惠若琪",
+      "onboard_time": 1659182553,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374840,
       "num": 374840,
       "word": "马斯克称应该放弃混动汽车",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1659159269,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372574,
-      "num": 372574,
-      "word": "孟加拉白虎产4仔1只没墨了",
-      "onboard_time": 1659181530,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371600,
@@ -1507,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290833,
+      "num": 290833,
+      "word": "男子深夜擅入醉酒女子客房称关心探望",
+      "onboard_time": 1659181291,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290571,
       "num": 290571,
       "word": "小霸王学习机无法更新变板砖",
@@ -1675,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250471,
-      "num": 250471,
-      "word": "熬夜加班猝死女孩家属希望停止捐款",
-      "onboard_time": 1659182312,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247465,
       "num": 247465,
       "word": "ESO新歌",
@@ -1697,14 +1753,6 @@
       "onboard_time": 1659100953,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 246151,
-      "num": 246151,
-      "word": "男子深夜擅入醉酒女子客房称关心探望",
-      "onboard_time": 1659181291,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243527,
