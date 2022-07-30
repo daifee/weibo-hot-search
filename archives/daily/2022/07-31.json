@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659215882466,
+  "endTime": 1659216924351,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98538,
+      "num": 53218,
+      "word": "中方希望美方能听进去理性声音",
+      "onboard_time": 1659213731,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 95708,
       "num": 54799,
       "word": "百花奖最佳男主角票数",
@@ -483,14 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75503,
-      "num": 48154,
-      "word": "中方希望美方能听进去理性声音",
-      "onboard_time": 1659213731,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 59021,
       "num": 43805,
       "word": "容祖儿常石磊",
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33866,
+      "num": 33866,
+      "word": "张常宁吴冠希给父母敬茶",
+      "onboard_time": 1659211632,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30299,
       "num": 30299,
       "word": "利物浦曼城红蓝大战",
@@ -515,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24497,
+      "raw_hot": 29441,
       "num": 18289,
       "word": "朱媛媛 金杯银杯不如观众口碑",
       "onboard_time": 1659215471,
@@ -523,20 +531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16845,
-      "num": 16845,
-      "word": "张常宁吴冠希给父母敬茶",
-      "onboard_time": 1659211632,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 9797,
-      "num": 9797,
+      "raw_hot": 27702,
+      "num": 27286,
       "word": "最低票价仅1元的慢火车",
       "onboard_time": 1659214631,
       "rank": 48,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 9200,
+      "num": 9200,
+      "word": "今年八一陪你站岗",
+      "onboard_time": 1659216251,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8976,
