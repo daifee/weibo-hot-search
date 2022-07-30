@@ -1,1 +1,6 @@
-// TODO 发布微博
+/**
+ * 发布微博
+ */
+const weibo = require('../scripts/weibo');
+
+weibo.sendToday();

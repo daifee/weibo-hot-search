@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "ejs": "^3.1.8"
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "qs": "^6.11.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0 || ^8.2.0",

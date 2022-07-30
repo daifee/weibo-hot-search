@@ -1,19 +1,48 @@
 /**
  * 发微博
  */
+const axios = require('axios');
 const archiveDaily = require('./archive-daily');
 const utils = require('./utils');
 
-// agent 配置
-
-// user 配置
-
-// agent
+// 依赖环境变量
+const {
+  WEIBO_COOKIE,
+  WEIBO_XSRF_TOKEN,
+} = process.env;
 
 // 发微博
 function send(content) {
-  // TODO
-  console.log(content);
+  if (!WEIBO_COOKIE || !WEIBO_XSRF_TOKEN) {
+    return Promise.reject(new Error('缺少微博账户权限参数'));
+  }
+
+  // eslint-disable-next-line no-param-reassign
+  content = encodeURIComponent(content);
+
+  return axios({
+    url: 'https://weibo.com/ajax/statuses/update',
+    method: 'POST',
+    data: `content=${content}&pic_id=&visible=0&share_id=&media=%7B%7D&vote=%7B%7D&approval_state=0`,
+
+    headers: {
+      'x-xsrf-token': WEIBO_XSRF_TOKEN,
+      cookie: WEIBO_COOKIE,
+
+      // 浏览器
+      accept: 'application/json, text/plain, */*',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,ja;q=0.6,ko;q=0.5',
+      'content-type': 'application/x-www-form-urlencoded',
+      'sec-ch-ua': '".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'sec-fetch-dest': 'empty',
+      'sec-fetch-mode': 'cors',
+      'sec-fetch-site': 'same-origin',
+      Referer: 'https://weibo.com/',
+      'Referrer-Policy': 'strict-origin-when-cross-origin',
+    },
+  });
 }
 
 /**
@@ -61,7 +90,7 @@ function generateDailyContent(timestamp) {
 // 发微博
 async function sendDaily(timestamp) {
   const content = await generateDailyContent(timestamp);
-  send(content);
+  return send(content);
 }
 
 // 发微博（昨天）
@@ -69,14 +98,14 @@ function sendYesterday() {
   const date = new Date();
   date.setDate(date.getDate() - 1);
 
-  sendDaily(date.getTime());
+  return sendDaily(date.getTime());
 }
 
 // 发微博（今天）
 function sendToday() {
   const date = new Date();
 
-  sendDaily(date.getTime());
+  return sendDaily(date.getTime());
 }
 
 module.exports = {
