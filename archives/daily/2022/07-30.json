@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659194463338,
+  "endTime": 1659195506744,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -51,19 +51,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3048291,
+      "num": 1046937,
+      "word": "贾玲 我终于可以拿着自己的奖杯去见你",
+      "onboard_time": 1659191438,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2854297,
       "num": 2854297,
       "word": "沈腾 台词",
       "onboard_time": 1659181229,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2675465,
-      "num": 1035978,
-      "word": "贾玲 我终于可以拿着自己的奖杯去见你",
-      "onboard_time": 1659191438,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018163,
+      "num": 1018163,
+      "word": "四川枪击案嫌犯与1伤者为情人关系",
+      "onboard_time": 1659190361,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004575,
       "num": 1004575,
       "word": "香港演唱会事故伤者已接受2次手术",
@@ -641,14 +649,6 @@
       "onboard_time": 1659160587,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 825844,
-      "num": 825844,
-      "word": "四川枪击案嫌犯与1伤者为情人关系",
-      "onboard_time": 1659190361,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824331,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 572493,
-      "num": 190439,
+      "num": 254466,
       "word": "莲花楼",
       "onboard_time": 1659191257,
       "rank": 41,
@@ -1699,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337800,
+      "num": 142756,
+      "word": "李易峰帮谭卓扶话筒",
+      "onboard_time": 1659195215,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335421,
       "num": 335421,
       "word": "轮胎过充爆炸瞬间2人被弹飞",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1659178468,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323957,
+      "num": 323957,
+      "word": "张凯",
+      "onboard_time": 1659194736,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 322146,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1659138142,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308293,
+      "num": 308293,
+      "word": "清华大学CUBA总决赛对阵广东工大",
+      "onboard_time": 1659193238,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 304373,
@@ -1875,6 +1899,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 286138,
+      "num": 286138,
+      "word": "嫁给爱情的样子真是漂亮极了",
+      "onboard_time": 1659194076,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286071,
       "num": 286071,
       "word": "周深终于撕上名牌了",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1659171568,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281722,
-      "num": 281722,
-      "word": "清华大学CUBA总决赛对阵广东工大",
-      "onboard_time": 1659193238,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 279787,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1659163889,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261791,
+      "num": 261791,
+      "word": "官方回应建议对疫苗未全程接种者赋蓝码",
+      "onboard_time": 1659194496,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259602,
@@ -2243,6 +2275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187317,
+      "num": 187317,
+      "word": "金属物理学家张兴钤院士逝世",
+      "onboard_time": 1659192879,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186008,
       "num": 186008,
       "word": "云南女子13岁被拐为妻当事人发声",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1659096630,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181619,
-      "num": 181619,
-      "word": "金属物理学家张兴钤院士逝世",
-      "onboard_time": 1659192879,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179289,
@@ -2417,14 +2449,6 @@
       "onboard_time": 1659082049,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158267,
-      "num": 158267,
-      "word": "嫁给爱情的样子真是漂亮极了",
-      "onboard_time": 1659194076,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 157901,
