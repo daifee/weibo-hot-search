@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659220586286,
+  "endTime": 1659223217281,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -99,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608751,
+      "num": 608751,
+      "word": "9宫格和26键哪个更好用",
+      "onboard_time": 1659204019,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586275,
       "num": 404493,
       "word": "官方回应建议对疫苗未全程接种者赋蓝码",
       "onboard_time": 1659194496,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564102,
+      "num": 564102,
+      "word": "贾玲获奖张小斐哭了",
+      "onboard_time": 1659222438,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 493637,
@@ -121,6 +137,14 @@
       "onboard_time": 1659185674,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446105,
+      "num": 446105,
+      "word": "中方希望美方能听进去理性声音",
+      "onboard_time": 1659213731,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 422828,
@@ -155,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 346978,
-      "num": 346978,
-      "word": "9宫格和26键哪个更好用",
-      "onboard_time": 1659204019,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343014,
       "num": 228153,
       "word": "杨紫把瓜皮都吃了",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 326819,
-      "num": 150258,
+      "num": 248226,
       "word": "朱媛媛 金杯银杯不如观众口碑",
       "onboard_time": 1659215471,
       "rank": 32,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 288006,
-      "num": 75195,
+      "num": 93605,
       "word": "只有吴磊受伤的世界达成了",
       "onboard_time": 1659205334,
       "rank": 33,
@@ -235,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277160,
+      "num": 221161,
+      "word": "凌不疑对程少商的称呼变化",
+      "onboard_time": 1659217992,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265277,
       "num": 265277,
       "word": "范丞丞回应好会亲",
       "onboard_time": 1659204555,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257971,
-      "num": 257971,
-      "word": "中方希望美方能听进去理性声音",
-      "onboard_time": 1659213731,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 254372,
@@ -339,6 +355,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 179778,
+      "num": 179778,
+      "word": "山东这些传世马面裙可太美了",
+      "onboard_time": 1659220456,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175949,
       "num": 175949,
       "word": "金属物理学家张兴钤院士逝世",
@@ -363,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168161,
+      "num": 168161,
+      "word": "山东沿岸将出现台风风暴潮",
+      "onboard_time": 1659216971,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167568,
       "num": 167568,
       "word": "班主任回应托班长索要升学宴红包",
@@ -371,12 +403,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 160387,
+      "num": 129489,
+      "word": "成吉思汗陵回应妇女不许上祭坛",
+      "onboard_time": 1659222738,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160234,
       "num": 160234,
       "word": "要是等我不上班了",
       "onboard_time": 1659199826,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 153559,
+      "num": 102611,
+      "word": "王心凌张栋梁隔空同框",
+      "onboard_time": 1659210611,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 152527,
@@ -403,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118617,
+      "num": 118617,
+      "word": "天津新增本土阳性感染者5例",
+      "onboard_time": 1659184834,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115991,
+      "num": 115991,
+      "word": "最低票价仅1元的慢火车",
+      "onboard_time": 1659214631,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 113656,
       "num": 113656,
       "word": "朋友中总有一个倒霉蛋",
@@ -411,12 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111297,
-      "num": 111297,
-      "word": "天津新增本土阳性感染者5例",
-      "onboard_time": 1659184834,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 110270,
+      "num": 110270,
+      "word": "张常宁吴冠希给父母敬茶",
+      "onboard_time": 1659211632,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 110264,
@@ -435,28 +499,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 99533,
-      "num": 90843,
-      "word": "王心凌张栋梁隔空同框",
-      "onboard_time": 1659210611,
-      "rank": 12,
+      "raw_hot": 97753,
+      "num": 97753,
+      "word": "檀健次是杨紫的专用翻译",
+      "onboard_time": 1659208932,
+      "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97276,
-      "num": 74061,
-      "word": "凌不疑对程少商的称呼变化",
-      "onboard_time": 1659217992,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 96552,
-      "num": 96552,
-      "word": "最低票价仅1元的慢火车",
-      "onboard_time": 1659214631,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 95708,
@@ -467,12 +515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94442,
+      "num": 70531,
+      "word": "袁一琦 全开麦",
+      "onboard_time": 1659223039,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93387,
       "num": 93387,
       "word": "GEN战胜T1",
       "onboard_time": 1659190480,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91520,
+      "num": 91520,
+      "word": "智齿必须要拔吗",
+      "onboard_time": 1659222317,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91331,
@@ -507,28 +571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83717,
-      "num": 83717,
-      "word": "山东沿岸将出现台风风暴潮",
-      "onboard_time": 1659216971,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83590,
       "num": 83590,
       "word": "RNG战胜JDG",
       "onboard_time": 1659188197,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68628,
-      "num": 68628,
-      "word": "张常宁吴冠希给父母敬茶",
-      "onboard_time": 1659211632,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 59021,
@@ -539,28 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 53564,
-      "num": 50944,
-      "word": "檀健次是杨紫的专用翻译",
-      "onboard_time": 1659208932,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30299,
       "num": 30299,
       "word": "利物浦曼城红蓝大战",
       "onboard_time": 1659202039,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19737,
-      "num": 19737,
-      "word": "山东这些传世马面裙可太美了",
-      "onboard_time": 1659220456,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9200,
