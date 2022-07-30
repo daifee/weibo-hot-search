@@ -1,0 +1,39 @@
+
+name: 每日定时任务
+
+on:
+  push:
+    branches:
+      - 'main'
+  # 每30分钟执行1次
+  schedule:
+    - cron: '8 * * * *'
+    - cron: '18 * * * *'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 触发任务
+        type: string
+        default: "发布"  
+
+env: 
+  TZ: Asia/Shanghai
+
+jobs:
+  send_weibo:
+    name: 每日任务
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: 安装依赖
+        run: npm install
+      - name: 执行任务脚本
+        run: node ./cli/schedule-daily.js
+        env:
+          WEIBO_XSRF_TOKEN: ${{ secrets.WEIBO_XSRF_TOKEN }}
+          WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
+
+
