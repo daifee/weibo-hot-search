@@ -76,8 +76,8 @@ async function renderDailyContent(data, type) {
       return `${rank}. #${item.word}# （热度：${item.raw_hot}）`;
     }).join('\n');
 
-  const content = `${title}微博热搜——日榜（${utils.formatDate(date.getTime(), 1)}）
-数据时间段：${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}
+  const content = `${title}微博热搜——哪条热搜有关注价值？
+数据时间段：${utils.formatDate(date.getTime(), 1)}（${utils.formatDate(data.startTime, 3)} ~ ${utils.formatDate(data.endTime, 3)}）
 
 ${bandList}`;
 
