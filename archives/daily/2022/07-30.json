@@ -1,6 +1,6 @@
 {
   "startTime": 1659112346923,
-  "endTime": 1659180904832,
+  "endTime": 1659182489600,
   "band_list": [
     {
       "raw_hot": 5212131,
@@ -211,7 +211,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1408064,
+      "raw_hot": 1448782,
       "num": 925131,
       "word": "向往的生活节目组发文否认内涵观众",
       "onboard_time": 1659175769,
@@ -256,6 +256,14 @@
       "word": "网传与凤行女二是辣目洋子",
       "onboard_time": 1659174393,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1267055,
+      "num": 1267055,
+      "word": "沈腾 台词",
+      "onboard_time": 1659181229,
+      "rank": 0,
       "category": "影视"
     },
     {
@@ -515,6 +523,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 669343,
+      "num": 408086,
+      "word": "扬名立万",
+      "onboard_time": 1659181411,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 663029,
       "num": 641479,
       "word": "BLACKPINK新歌个人照",
@@ -545,6 +561,14 @@
       "onboard_time": 1659165687,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 650876,
+      "num": 650876,
+      "word": "男生2分钟收到家对面大学录取书",
+      "onboard_time": 1659179490,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 650655,
@@ -675,6 +699,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 542981,
+      "num": 542981,
+      "word": "Viper19杀",
+      "onboard_time": 1659179432,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 540850,
       "num": 540850,
       "word": "黄明昊百花奖颁奖典礼唱rap",
@@ -699,12 +731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519468,
-      "num": 519468,
-      "word": "Viper19杀",
-      "onboard_time": 1659179432,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 513805,
+      "num": 169315,
+      "word": "铮铮",
+      "onboard_time": 1659181351,
+      "rank": 40,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 513400,
+      "num": 457801,
+      "word": "福建厦门发现1例确诊",
+      "onboard_time": 1659180510,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497578,
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 456309,
-      "num": 178878,
+      "num": 195463,
       "word": "百花奖提名",
       "onboard_time": 1659176371,
       "rank": 40,
@@ -849,6 +889,22 @@
       "onboard_time": 1659160228,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435755,
+      "num": 435755,
+      "word": "成都加油",
+      "onboard_time": 1659179970,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434875,
+      "num": 434875,
+      "word": "RNG对战JDG",
+      "onboard_time": 1659182252,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 434444,
@@ -939,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 408756,
+      "num": 408756,
+      "word": "游泳教练水中粗暴拖拽5岁孩子",
+      "onboard_time": 1659181107,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408189,
       "num": 408189,
       "word": "恋与制作人 天坛",
@@ -961,6 +1025,14 @@
       "onboard_time": 1659097588,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 403757,
+      "num": 168460,
+      "word": "侯勇百花奖最佳男配角",
+      "onboard_time": 1659182252,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 403223,
@@ -1123,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372574,
+      "num": 372574,
+      "word": "孟加拉白虎产4仔1只没墨了",
+      "onboard_time": 1659181530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371600,
       "num": 221259,
       "word": "敖子逸夺冠激动滑跪",
@@ -1145,14 +1225,6 @@
       "onboard_time": 1659164727,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366893,
-      "num": 366893,
-      "word": "男生2分钟收到家对面大学录取书",
-      "onboard_time": 1659179490,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 365047,
@@ -1531,14 +1603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273570,
-      "num": 273570,
-      "word": "成都加油",
-      "onboard_time": 1659179970,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271236,
       "num": 155296,
       "word": "这个夏天一起燃情沉香",
@@ -1611,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250471,
+      "num": 250471,
+      "word": "熬夜加班猝死女孩家属希望停止捐款",
+      "onboard_time": 1659182312,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247465,
       "num": 247465,
       "word": "ESO新歌",
@@ -1625,6 +1697,14 @@
       "onboard_time": 1659100953,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 246151,
+      "num": 246151,
+      "word": "男子深夜擅入醉酒女子客房称关心探望",
+      "onboard_time": 1659181291,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243527,
@@ -1712,14 +1792,6 @@
       "word": "台风",
       "onboard_time": 1659137060,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210541,
-      "num": 210541,
-      "word": "福建厦门发现1例确诊",
-      "onboard_time": 1659180510,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1841,6 +1913,14 @@
       "onboard_time": 1659104732,
       "rank": 40,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 167958,
+      "num": 167958,
+      "word": "CUBA半决赛",
+      "onboard_time": 1659179310,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 165634,
@@ -2025,14 +2105,6 @@
       "onboard_time": 1659089309,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 127746,
-      "num": 127746,
-      "word": "CUBA半决赛",
-      "onboard_time": 1659179310,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 123717,

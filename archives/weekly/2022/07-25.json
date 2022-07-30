@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659180904832,
+  "endTime": 1659182489600,
   "band_list": [
     {
       "raw_hot": 11363968,
@@ -1435,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1448782,
+      "num": 925131,
+      "word": "向往的生活节目组发文否认内涵观众",
+      "onboard_time": 1659175769,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1439523,
       "num": 1337639,
       "word": "傅首尔",
@@ -1456,14 +1464,6 @@
       "word": "杨紫乔欣有友情但不多",
       "onboard_time": 1659098133,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1408064,
-      "num": 925131,
-      "word": "向往的生活节目组发文否认内涵观众",
-      "onboard_time": 1659175769,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1777,6 +1777,14 @@
       "onboard_time": 1658908234,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1267055,
+      "num": 1267055,
+      "word": "沈腾 台词",
+      "onboard_time": 1659181229,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1265996,
@@ -3723,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669343,
+      "num": 408086,
+      "word": "扬名立万",
+      "onboard_time": 1659181411,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 664790,
       "num": 664790,
       "word": "目黑莲确诊新冠",
@@ -3825,6 +3841,14 @@
       "onboard_time": 1659165687,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 650876,
+      "num": 650876,
+      "word": "男生2分钟收到家对面大学录取书",
+      "onboard_time": 1659179490,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 650655,
@@ -4763,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542981,
+      "num": 542981,
+      "word": "Viper19杀",
+      "onboard_time": 1659179432,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 542566,
       "num": 542566,
       "word": "中式轻食比沙拉更受欢迎",
@@ -5075,14 +5107,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 519468,
-      "num": 519468,
-      "word": "Viper19杀",
-      "onboard_time": 1659179432,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 519365,
       "num": 519365,
       "word": "电影念念相忘撤档",
@@ -5105,6 +5129,22 @@
       "onboard_time": 1658838810,
       "rank": 27,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 513805,
+      "num": 169315,
+      "word": "铮铮",
+      "onboard_time": 1659181351,
+      "rank": 40,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 513400,
+      "num": 457801,
+      "word": "福建厦门发现1例确诊",
+      "onboard_time": 1659180510,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512097,
@@ -5876,7 +5916,7 @@
     },
     {
       "raw_hot": 456309,
-      "num": 178878,
+      "num": 195463,
       "word": "百花奖提名",
       "onboard_time": 1659176371,
       "rank": 40,
@@ -6179,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435755,
+      "num": 435755,
+      "word": "成都加油",
+      "onboard_time": 1659179970,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435554,
       "num": 435554,
       "word": "上海台风",
@@ -6192,6 +6240,14 @@
       "word": "Doggo上调BLG一队",
       "onboard_time": 1658911354,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 434875,
+      "num": 434875,
+      "word": "RNG对战JDG",
+      "onboard_time": 1659182252,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -6731,6 +6787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 408756,
+      "num": 408756,
+      "word": "游泳教练水中粗暴拖拽5岁孩子",
+      "onboard_time": 1659181107,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408749,
       "num": 408749,
       "word": "日本发现首例猴痘病例",
@@ -6849,6 +6913,14 @@
       "onboard_time": 1658978489,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403757,
+      "num": 168460,
+      "word": "侯勇百花奖最佳男配角",
+      "onboard_time": 1659182252,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 403380,
@@ -7459,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372574,
+      "num": 372574,
+      "word": "孟加拉白虎产4仔1只没墨了",
+      "onboard_time": 1659181530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372527,
       "num": 372527,
       "word": "基金",
@@ -7537,14 +7617,6 @@
       "onboard_time": 1659164727,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366893,
-      "num": 366893,
-      "word": "男生2分钟收到家对面大学录取书",
-      "onboard_time": 1659179490,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 366690,
@@ -9923,14 +9995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273570,
-      "num": 273570,
-      "word": "成都加油",
-      "onboard_time": 1659179970,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272819,
       "num": 272819,
       "word": "苏醒快乐再出发BGM",
@@ -10515,6 +10579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250471,
+      "num": 250471,
+      "word": "熬夜加班猝死女孩家属希望停止捐款",
+      "onboard_time": 1659182312,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250077,
       "num": 250077,
       "word": "第五人格",
@@ -10625,6 +10697,14 @@
       "onboard_time": 1658778792,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 246151,
+      "num": 246151,
+      "word": "男子深夜擅入醉酒女子客房称关心探望",
+      "onboard_time": 1659181291,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246035,
@@ -11587,14 +11667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210541,
-      "num": 210541,
-      "word": "福建厦门发现1例确诊",
-      "onboard_time": 1659180510,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207775,
       "num": 207775,
       "word": "成都东站目前正常运行",
@@ -12451,6 +12523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167958,
+      "num": 167958,
+      "word": "CUBA半决赛",
+      "onboard_time": 1659179310,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166256,
       "num": 166256,
       "word": "AG对战KSG",
@@ -12945,14 +13025,6 @@
       "onboard_time": 1658847574,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127746,
-      "num": 127746,
-      "word": "CUBA半决赛",
-      "onboard_time": 1659179310,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 126495,
