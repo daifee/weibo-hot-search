@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659288012763,
+  "endTime": 1659288992391,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 439350,
-      "num": 284887,
+      "num": 286090,
       "word": "邓紫棋失恋emo了",
       "onboard_time": 1659267091,
       "rank": 25,
@@ -241,6 +241,14 @@
       "onboard_time": 1659284845,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254111,
+      "num": 254111,
+      "word": "七月再见",
+      "onboard_time": 1659288618,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 247099,
