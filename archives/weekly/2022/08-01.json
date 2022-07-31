@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659305987516,
+  "endTime": 1659307003897,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539725,
+      "num": 539725,
+      "word": "晚上睡不着可以白天补觉吗",
+      "onboard_time": 1659301271,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507601,
       "num": 479068,
       "word": "杨幂线上演唱会彩排照",
@@ -145,14 +153,6 @@
       "onboard_time": 1659276029,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 435907,
-      "num": 435907,
-      "word": "晚上睡不着可以白天补觉吗",
-      "onboard_time": 1659301271,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419344,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80699,
+      "num": 80699,
+      "word": "数学家丘成桐称很少教儿子数学",
+      "onboard_time": 1659305833,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "点赞强军",
@@ -475,8 +483,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 64778,
-      "num": 64778,
+      "raw_hot": 67545,
+      "num": 67545,
       "word": "解放军建军95周年",
       "onboard_time": 1659290115,
       "rank": 27,
@@ -507,20 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20627,
-      "num": 20627,
+      "raw_hot": 28848,
+      "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
       "onboard_time": 1659302111,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19535,
-      "num": 19535,
-      "word": "数学家丘成桐称很少教儿子数学",
-      "onboard_time": 1659305833,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
