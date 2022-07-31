@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659266285477,
+  "endTime": 1659267329586,
   "band_list": [
     {
       "raw_hot": 4870550,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1627452,
+      "num": 1627452,
+      "word": "第四例艾滋病治愈者或已出现",
+      "onboard_time": 1659265706,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1599399,
       "num": 1599399,
       "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
@@ -184,6 +192,14 @@
       "word": "解放军三大战区开展海上实弹演练",
       "onboard_time": 1659255148,
       "rank": 15,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1360603,
+      "num": 1360603,
+      "word": "美军里根号航母离开南海",
+      "onboard_time": 1659265409,
+      "rank": 20,
       "category": "军事,社会新闻"
     },
     {
@@ -235,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1179668,
+      "num": 1179668,
+      "word": "独行月球",
+      "onboard_time": 1659169350,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1170777,
       "num": 875905,
       "word": "Wendy生图好美",
@@ -275,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1101267,
-      "num": 1101267,
-      "word": "独行月球",
-      "onboard_time": 1659169350,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1098992,
       "num": 1098992,
       "word": "俄气已停止向欧洲6国供应天然气",
       "onboard_time": 1659255388,
       "rank": 25,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 1079972,
+      "num": 1079972,
+      "word": "吐鲁番一串葡萄有手臂那么长",
+      "onboard_time": 1659264449,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1045587,
@@ -313,14 +337,6 @@
       "onboard_time": 1659231569,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 904281,
-      "num": 904281,
-      "word": "吐鲁番一串葡萄有手臂那么长",
-      "onboard_time": 1659264449,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 891578,
@@ -483,14 +499,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 627888,
-      "num": 322925,
-      "word": "美军里根号航母离开南海",
-      "onboard_time": 1659265409,
-      "rank": 20,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 622933,
       "num": 622933,
       "word": "480斤小伙打利尿剂一周减120斤",
@@ -619,6 +627,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 525823,
+      "num": 525823,
+      "word": "华晨宇直播",
+      "onboard_time": 1659262650,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522797,
       "num": 522797,
       "word": "杭州地铁熊孩子不戴口罩舔玻璃",
@@ -657,6 +673,14 @@
       "onboard_time": 1659244590,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 506458,
+      "num": 506458,
+      "word": "裴珠泫live图",
+      "onboard_time": 1659266128,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 504836,
@@ -785,14 +809,6 @@
       "onboard_time": 1659196951,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 421393,
-      "num": 421393,
-      "word": "华晨宇直播",
-      "onboard_time": 1659262650,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 419348,
@@ -1075,20 +1091,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325737,
-      "num": 325737,
-      "word": "第四例艾滋病治愈者或已出现",
-      "onboard_time": 1659265706,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323979,
       "num": 323979,
       "word": "一句话证明你看过独行月球",
       "onboard_time": 1659241050,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322142,
+      "num": 322142,
+      "word": "AG对战XYG",
+      "onboard_time": 1659262650,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 312676,
@@ -1115,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306719,
+      "num": 306719,
+      "word": "秦霄贤问李雪琴你有爸爸吗",
+      "onboard_time": 1659264628,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303871,
       "num": 303871,
       "word": "哈利波特里最意难平的角色",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1659232530,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 301980,
+      "num": 301980,
+      "word": "OMG战胜V5",
+      "onboard_time": 1659266968,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 301572,
@@ -1152,6 +1184,22 @@
       "word": "林妙妙钱三一梦回少年派1",
       "onboard_time": 1659253707,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298083,
+      "num": 298083,
+      "word": "阿兹海默症学术造假事件",
+      "onboard_time": 1659266070,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297820,
+      "num": 297820,
+      "word": "天才基本法全员提问细思极恐",
+      "onboard_time": 1659266430,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1187,12 +1235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286050,
-      "num": 286050,
-      "word": "AG对战XYG",
-      "onboard_time": 1659262650,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 281078,
+      "num": 281078,
+      "word": "CUBA总决赛",
+      "onboard_time": 1659266128,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 278098,
@@ -1299,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258823,
+      "num": 258823,
+      "word": "记者暗访高价回收烟酒背后猫腻",
+      "onboard_time": 1659265947,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257370,
       "num": 257370,
       "word": "再也不怕衣柜乱了",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1659231091,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253089,
-      "num": 235067,
-      "word": "秦霄贤问李雪琴你有爸爸吗",
-      "onboard_time": 1659264628,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 252139,
@@ -1491,20 +1539,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 223291,
-      "num": 223291,
-      "word": "裴珠泫live图",
-      "onboard_time": 1659266128,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 221996,
       "num": 188084,
       "word": "你期待偷偷藏不住吗",
       "onboard_time": 1659259051,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220848,
+      "num": 220848,
+      "word": "邓紫棋失恋emo了",
+      "onboard_time": 1659267091,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 219526,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1659263489,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204424,
+      "num": 204424,
+      "word": "空军有足够能力捍卫国家主权和领土完整",
+      "onboard_time": 1659266249,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 203419,
@@ -1691,14 +1747,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 181059,
-      "num": 181059,
-      "word": "阿兹海默症学术造假事件",
-      "onboard_time": 1659266070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176008,
       "num": 176008,
       "word": "电视剧青云志播出六周年",
@@ -1747,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170651,
+      "num": 170651,
+      "word": "佩洛西8月1日到访新加坡",
+      "onboard_time": 1659267091,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 168785,
       "num": 168785,
       "word": "朱婷征战意大利",
@@ -1771,14 +1827,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 163694,
-      "num": 163694,
-      "word": "CUBA总决赛",
-      "onboard_time": 1659266128,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161200,
       "num": 161200,
       "word": "再累也要保持优雅",
@@ -1801,14 +1849,6 @@
       "onboard_time": 1659228208,
       "rank": 46,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 156841,
-      "num": 156841,
-      "word": "记者暗访高价回收烟酒背后猫腻",
-      "onboard_time": 1659265947,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154458,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1659187480,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139014,
-      "num": 139014,
-      "word": "空军有足够能力捍卫国家主权和领土完整",
-      "onboard_time": 1659266249,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 138677,

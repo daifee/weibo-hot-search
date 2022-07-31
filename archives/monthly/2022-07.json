@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1659266285477,
+  "endTime": 1659267329586,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -2965,6 +2965,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 1627452,
+      "num": 1627452,
+      "word": "第四例艾滋病治愈者或已出现",
+      "onboard_time": 1659265706,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1626202,
       "num": 1626202,
       "word": "宝宝银镯变色被送医意外发现汞中毒",
@@ -3958,6 +3966,14 @@
       "onboard_time": 1658826816,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1360603,
+      "num": 1360603,
+      "word": "美军里根号航母离开南海",
+      "onboard_time": 1659265409,
+      "rank": 20,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1360386,
@@ -5653,6 +5669,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1079972,
+      "num": 1079972,
+      "word": "吐鲁番一串葡萄有手臂那么长",
+      "onboard_time": 1659264449,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1079465,
       "num": 1079465,
       "word": "北京朝阳区发现1例初筛阳性人员",
@@ -7019,14 +7043,6 @@
       "word": "老人房子蟑螂成灾邻居离家租房",
       "onboard_time": 1658222916,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 904281,
-      "num": 904281,
-      "word": "吐鲁番一串葡萄有手臂那么长",
-      "onboard_time": 1659264449,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -10165,14 +10181,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 627888,
-      "num": 322925,
-      "word": "美军里根号航母离开南海",
-      "onboard_time": 1659265409,
-      "rank": 20,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 627351,
       "num": 627351,
       "word": "我爱你所以你不用是招娣",
@@ -12416,6 +12424,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 525823,
+      "num": 525823,
+      "word": "华晨宇直播",
+      "onboard_time": 1659262650,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525634,
       "num": 525634,
       "word": "广州天气",
@@ -12838,6 +12854,14 @@
       "onboard_time": 1658225854,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 506458,
+      "num": 506458,
+      "word": "裴珠泫live图",
+      "onboard_time": 1659266128,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 506444,
@@ -15583,14 +15607,6 @@
       "onboard_time": 1659161067,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 421393,
-      "num": 421393,
-      "word": "华晨宇直播",
-      "onboard_time": 1659262650,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 421072,
@@ -20063,14 +20079,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 325737,
-      "num": 325737,
-      "word": "第四例艾滋病治愈者或已出现",
-      "onboard_time": 1659265706,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325708,
       "num": 325708,
       "word": "武汉市江夏区关于延长临时性管控措施的通告",
@@ -20269,6 +20277,14 @@
       "onboard_time": 1659181291,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322142,
+      "num": 322142,
+      "word": "AG对战XYG",
+      "onboard_time": 1659262650,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 322001,
@@ -21060,6 +21076,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306719,
+      "num": 306719,
+      "word": "秦霄贤问李雪琴你有爸爸吗",
+      "onboard_time": 1659264628,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306685,
       "num": 297745,
       "word": "甘望星不能忍受肚子上有一点肉",
@@ -21314,6 +21338,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 301980,
+      "num": 301980,
+      "word": "OMG战胜V5",
+      "onboard_time": 1659266968,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301971,
       "num": 301971,
       "word": "银保监会回应五家村镇银行事件",
@@ -21482,11 +21514,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298083,
+      "num": 298083,
+      "word": "阿兹海默症学术造假事件",
+      "onboard_time": 1659266070,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297989,
       "num": 297989,
       "word": "嚣张预售",
       "onboard_time": 1658037750,
       "rank": 23
+    },
+    {
+      "raw_hot": 297820,
+      "num": 297820,
+      "word": "天才基本法全员提问细思极恐",
+      "onboard_time": 1659266430,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 297636,
@@ -22340,14 +22388,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286050,
-      "num": 286050,
-      "word": "AG对战XYG",
-      "onboard_time": 1659262650,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 286038,
       "num": 286038,
       "word": "郑州疫情通报",
@@ -22632,6 +22672,14 @@
       "onboard_time": 1658812536,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281078,
+      "num": 281078,
+      "word": "CUBA总决赛",
+      "onboard_time": 1659266128,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 281013,
@@ -24123,6 +24171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258823,
+      "num": 258823,
+      "word": "记者暗访高价回收烟酒背后猫腻",
+      "onboard_time": 1659265947,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258709,
       "num": 258709,
       "word": "魏大勋父子互绑式上节目",
@@ -24500,14 +24556,6 @@
       "onboard_time": 1658208274,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253089,
-      "num": 235067,
-      "word": "秦霄贤问李雪琴你有爸爸吗",
-      "onboard_time": 1659264628,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 252948,
@@ -26508,14 +26556,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223291,
-      "num": 223291,
-      "word": "裴珠泫live图",
-      "onboard_time": 1659266128,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 222872,
       "num": 222872,
       "word": "河南舞阳交通事故肇事者已被控制",
@@ -26664,6 +26704,14 @@
       "onboard_time": 1658499041,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220848,
+      "num": 220848,
+      "word": "邓紫棋失恋emo了",
+      "onboard_time": 1659267091,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 220653,
@@ -27550,6 +27598,14 @@
       "onboard_time": 1658109566,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204424,
+      "num": 204424,
+      "word": "空军有足够能力捍卫国家主权和领土完整",
+      "onboard_time": 1659266249,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 204419,
@@ -29036,14 +29092,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 181059,
-      "num": 181059,
-      "word": "阿兹海默症学术造假事件",
-      "onboard_time": 1659266070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180801,
       "num": 180801,
       "word": "3个动作甩掉小肚腩",
@@ -29504,6 +29552,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170651,
+      "num": 170651,
+      "word": "佩洛西8月1日到访新加坡",
+      "onboard_time": 1659267091,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 170298,
       "num": 170298,
       "word": "赵今麦吵架戏花絮",
@@ -29877,14 +29933,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163694,
-      "num": 163694,
-      "word": "CUBA总决赛",
-      "onboard_time": 1659266128,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163623,
       "num": 163623,
       "word": "热烈Round1贴片预告",
@@ -30222,14 +30270,6 @@
       "onboard_time": 1659169290,
       "rank": 45,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 156841,
-      "num": 156841,
-      "word": "记者暗访高价回收烟酒背后猫腻",
-      "onboard_time": 1659265947,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156792,
@@ -30945,14 +30985,6 @@
       "onboard_time": 1658412221,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139014,
-      "num": 139014,
-      "word": "空军有足够能力捍卫国家主权和领土完整",
-      "onboard_time": 1659266249,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 138852,

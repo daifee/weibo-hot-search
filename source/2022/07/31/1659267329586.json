@@ -1,0 +1,410 @@
+{
+  "runTime": 1659267329586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3693186,
+        "num": 3693186,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627452,
+        "num": 1627452,
+        "word": "第四例艾滋病治愈者或已出现",
+        "onboard_time": 1659265706,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48327,
+        "num": 1460045,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360603,
+        "num": 1360603,
+        "word": "美军里根号航母离开南海",
+        "onboard_time": 1659265409,
+        "rank": 3,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1179668,
+        "num": 1179668,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1155455,
+        "num": 1155455,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079972,
+        "num": 1079972,
+        "word": "吐鲁番一串葡萄有手臂那么长",
+        "onboard_time": 1659264449,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833613,
+        "num": 833613,
+        "word": "百花奖评委回应沈腾海清周也0票",
+        "onboard_time": 1659257249,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738864,
+        "num": 738864,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 697940,
+        "num": 697940,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 9,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 620743,
+        "num": 620743,
+        "word": "汪涵面试何炅",
+        "onboard_time": 1659249866,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558353,
+        "num": 558353,
+        "word": "V5状态",
+        "onboard_time": 1659263306,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 525823,
+        "num": 525823,
+        "word": "华晨宇直播",
+        "onboard_time": 1659262650,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507253,
+        "num": 507253,
+        "word": "乌江榨菜回应网传消费者吃出脚指甲",
+        "onboard_time": 1659262289,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506458,
+        "num": 506458,
+        "word": "裴珠泫live图",
+        "onboard_time": 1659266128,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436721,
+        "num": 436721,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 15,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 410623,
+        "num": 410623,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368575,
+        "num": 368575,
+        "word": "小女孩骑滑板1小时去乡下找奶奶",
+        "onboard_time": 1659258987,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361977,
+        "num": 361977,
+        "word": "成都老字号耙猪蹄有多绝",
+        "onboard_time": 1659263729,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 322142,
+        "num": 322142,
+        "word": "AG对战XYG",
+        "onboard_time": 1659262650,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346049,
+        "num": 322071,
+        "word": "为什么独生子女一定要结婚",
+        "onboard_time": 1659252268,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321654,
+        "num": 321654,
+        "word": "解放军三大战区开展海上实弹演练",
+        "onboard_time": 1659255148,
+        "rank": 21,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 306719,
+        "num": 306719,
+        "word": "秦霄贤问李雪琴你有爸爸吗",
+        "onboard_time": 1659264628,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301980,
+        "num": 301980,
+        "word": "OMG战胜V5",
+        "onboard_time": 1659266968,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298083,
+        "num": 298083,
+        "word": "阿兹海默症学术造假事件",
+        "onboard_time": 1659266070,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297820,
+        "num": 297820,
+        "word": "天才基本法全员提问细思极恐",
+        "onboard_time": 1659266430,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281078,
+        "num": 281078,
+        "word": "CUBA总决赛",
+        "onboard_time": 1659266128,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290123,
+        "num": 277444,
+        "word": "老林被绑架",
+        "onboard_time": 1659259230,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258823,
+        "num": 258823,
+        "word": "记者暗访高价回收烟酒背后猫腻",
+        "onboard_time": 1659265947,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258382,
+        "num": 258382,
+        "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+        "onboard_time": 1659245189,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 246942,
+        "num": 246942,
+        "word": "杭州地铁熊孩子不戴口罩舔玻璃",
+        "onboard_time": 1659256649,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246357,
+        "num": 246357,
+        "word": "陈哲远 偷偷藏不住",
+        "onboard_time": 1659249569,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246296,
+        "num": 246296,
+        "word": "Wendy生图好美",
+        "onboard_time": 1659244889,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239558,
+        "num": 239558,
+        "word": "宋亚轩认知中的动作戏",
+        "onboard_time": 1659262289,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220969,
+        "num": 220969,
+        "word": "哈利波特里最意难平的角色",
+        "onboard_time": 1659258627,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 220848,
+        "num": 220848,
+        "word": "邓紫棋失恋emo了",
+        "onboard_time": 1659267091,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213562,
+        "num": 213562,
+        "word": "想念我花过的不必要的钱",
+        "onboard_time": 1659261270,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209570,
+        "num": 209570,
+        "word": "橙子 老将不死",
+        "onboard_time": 1659266070,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204830,
+        "num": 204830,
+        "word": "裴之两次失去父亲",
+        "onboard_time": 1659265588,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204424,
+        "num": 204424,
+        "word": "空军有足够能力捍卫国家主权和领土完整",
+        "onboard_time": 1659266249,
+        "rank": 39,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 200886,
+        "num": 200886,
+        "word": "北京海淀1地升为高风险区",
+        "onboard_time": 1659261688,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191389,
+        "num": 191389,
+        "word": "狗狗吵架时发现自己被拍后",
+        "onboard_time": 1659254429,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185440,
+        "num": 185440,
+        "word": "王一博刘雨昕韩庚李承铉街舞5花絮",
+        "onboard_time": 1659258028,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170651,
+        "num": 170651,
+        "word": "佩洛西8月1日到访新加坡",
+        "onboard_time": 1659267091,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164988,
+        "num": 164988,
+        "word": "俄气已停止向欧洲6国供应天然气",
+        "onboard_time": 1659255388,
+        "rank": 44,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 154216,
+        "word": "橙子四杀",
+        "onboard_time": 1659263787,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148999,
+        "num": 148999,
+        "word": "北京海淀1人核酸结果阳性",
+        "onboard_time": 1659258391,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144431,
+        "num": 144431,
+        "word": "杨紫颜淡片场一秒落泪花絮",
+        "onboard_time": 1659255148,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138593,
+        "num": 138593,
+        "word": "54岁洗碗厂女工热射病死亡",
+        "onboard_time": 1659241230,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133915,
+        "num": 133915,
+        "word": "成都暴雨",
+        "onboard_time": 1659259409,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#画好新时代统战的最大同心圆#"
+    }
+  }
+}
