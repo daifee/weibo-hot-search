@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659267329586,
+  "endTime": 1659271104528,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -979,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2019705,
+      "num": 2019705,
+      "word": "第四例艾滋病治愈者或已出现",
+      "onboard_time": 1659265706,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2017022,
       "num": 1229892,
       "word": "网传刘诗诗进组狐妖月红篇客串",
@@ -1403,14 +1411,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 1627452,
-      "num": 1627452,
-      "word": "第四例艾滋病治愈者或已出现",
-      "onboard_time": 1659265706,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1624590,
       "num": 1624590,
       "word": "芒果TV会员又涨价",
@@ -1739,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1434922,
+      "num": 1434922,
+      "word": "佩洛西8月1日到访新加坡",
+      "onboard_time": 1659267091,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1428239,
       "num": 1428239,
       "word": "公安部回应唐山烧烤店打人案",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1658838936,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1326461,
+      "num": 1326461,
+      "word": "邓紫棋失恋emo了",
+      "onboard_time": 1659267091,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 1322869,
@@ -4171,6 +4187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710245,
+      "num": 710245,
+      "word": "王嘉尔泰国好声音舞台",
+      "onboard_time": 1659270870,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709716,
       "num": 564737,
       "word": "许凯说我在害怕",
@@ -4248,6 +4272,14 @@
       "word": "中国女足vs日本女足",
       "onboard_time": 1658828317,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 691950,
+      "num": 691950,
+      "word": "清华大学vs广东工大",
+      "onboard_time": 1659268889,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -5963,6 +5995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522159,
+      "num": 522159,
+      "word": "CUBA总决赛",
+      "onboard_time": 1659266128,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522045,
       "num": 522045,
       "word": "中方希望美方能听进去理性声音",
@@ -6091,6 +6131,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 509727,
+      "num": 509727,
+      "word": "裴珠泫live图",
+      "onboard_time": 1659266128,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 509194,
       "num": 509194,
       "word": "RNG战胜JDG",
@@ -6137,14 +6185,6 @@
       "onboard_time": 1659080729,
       "rank": 18,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 506458,
-      "num": 506458,
-      "word": "裴珠泫live图",
-      "onboard_time": 1659266128,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 505106,
@@ -6283,6 +6323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 495571,
+      "num": 495571,
+      "word": "周深邀请奔跑吧去他的家乡贵州",
+      "onboard_time": 1659267689,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494239,
       "num": 494239,
       "word": "灵猫传 停服",
@@ -6416,6 +6464,14 @@
       "word": "程少商告状",
       "onboard_time": 1658926293,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486846,
+      "num": 288198,
+      "word": "雷佳音哭着对张子枫说忙去吧",
+      "onboard_time": 1659269249,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -8323,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391740,
+      "num": 391740,
+      "word": "阿兹海默症学术造假事件",
+      "onboard_time": 1659266070,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391626,
       "num": 391626,
       "word": "当狗狗得知自己的身价后",
@@ -8481,6 +8545,14 @@
       "onboard_time": 1659258449,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386644,
+      "num": 286416,
+      "word": "郭俊辰一边读信一边哭",
+      "onboard_time": 1659268290,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 386468,
@@ -9683,6 +9755,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 328624,
+      "num": 328624,
+      "word": "男女捞地沟油路人质问反被怼",
+      "onboard_time": 1659269489,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328614,
       "num": 222690,
       "word": "林朝夕被裴之送进警局",
@@ -10571,14 +10651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298083,
-      "num": 298083,
-      "word": "阿兹海默症学术造假事件",
-      "onboard_time": 1659266070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297820,
       "num": 297820,
       "word": "天才基本法全员提问细思极恐",
@@ -10745,6 +10817,14 @@
       "onboard_time": 1658750312,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292950,
+      "num": 292950,
+      "word": "记者暗访高价回收烟酒背后猫腻",
+      "onboard_time": 1659265947,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292772,
@@ -11201,14 +11281,6 @@
       "onboard_time": 1658812536,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281078,
-      "num": 281078,
-      "word": "CUBA总决赛",
-      "onboard_time": 1659266128,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 281013,
@@ -11747,6 +11819,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "空军有足够能力捍卫国家主权和领土完整",
+      "onboard_time": 1659266249,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 263767,
       "num": 263767,
       "word": "天才基本法 奥数题",
@@ -11763,6 +11843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263703,
+      "num": 263703,
+      "word": "橙子 老将不死",
+      "onboard_time": 1659266070,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263679,
       "num": 1806650,
       "word": "被祖国大好河山惊艳到了",
@@ -11777,6 +11865,14 @@
       "onboard_time": 1658910152,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262918,
+      "num": 262918,
+      "word": "这5种明星食物有平价替代",
+      "onboard_time": 1659267927,
+      "rank": 27,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 262819,
@@ -11937,14 +12033,6 @@
       "onboard_time": 1659251549,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258823,
-      "num": 258823,
-      "word": "记者暗访高价回收烟酒背后猫腻",
-      "onboard_time": 1659265947,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258709,
@@ -12153,6 +12241,14 @@
       "onboard_time": 1658709692,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253155,
+      "num": 253155,
+      "word": "闪耀暖暖直播",
+      "onboard_time": 1659270028,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 252686,
@@ -13011,6 +13107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 226868,
+      "num": 226868,
+      "word": "林朝夕裴之回到草莓世界",
+      "onboard_time": 1659269908,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225877,
       "num": 225877,
       "word": "叶诗文奥运夺冠十周年",
@@ -13073,6 +13177,14 @@
       "onboard_time": 1658741674,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223542,
+      "num": 223542,
+      "word": "一诺",
+      "onboard_time": 1659270330,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 223396,
@@ -13195,14 +13307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220848,
-      "num": 220848,
-      "word": "邓紫棋失恋emo了",
-      "onboard_time": 1659267091,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 220653,
       "num": 220653,
       "word": "帮猫咪劝架的狗狗",
@@ -13299,6 +13403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216353,
+      "num": 216353,
+      "word": "XYG战胜AG",
+      "onboard_time": 1659268349,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216227,
       "num": 216227,
       "word": "华为MateBook",
@@ -13345,14 +13457,6 @@
       "onboard_time": 1658716348,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215283,
-      "num": 218206,
-      "word": "橙子 老将不死",
-      "onboard_time": 1659266070,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 215202,
@@ -13483,6 +13587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209504,
+      "num": 209504,
+      "word": "山西孟母文化园办电音节引争议",
+      "onboard_time": 1659270028,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207775,
       "num": 207775,
       "word": "成都东站目前正常运行",
@@ -13593,14 +13705,6 @@
       "onboard_time": 1658812117,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 204424,
-      "num": 204424,
-      "word": "空军有足够能力捍卫国家主权和领土完整",
-      "onboard_time": 1659266249,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 204264,
@@ -14459,14 +14563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170651,
-      "num": 170651,
-      "word": "佩洛西8月1日到访新加坡",
-      "onboard_time": 1659267091,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 170298,
       "num": 170298,
       "word": "赵今麦吵架戏花絮",
@@ -14737,6 +14833,14 @@
       "onboard_time": 1658919933,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154685,
+      "num": 154685,
+      "word": "马嘉祺拿捏赵四精髓",
+      "onboard_time": 1659267809,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 154595,
@@ -15121,6 +15225,14 @@
       "onboard_time": 1658847574,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128545,
+      "num": 128545,
+      "word": "WE对战LNG",
+      "onboard_time": 1659269006,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128177,

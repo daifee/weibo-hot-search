@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659267329586,
+  "endTime": 1659271104528,
   "band_list": [
     {
       "raw_hot": 4870550,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2019705,
+      "num": 2019705,
+      "word": "第四例艾滋病治愈者或已出现",
+      "onboard_time": 1659265706,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1946576,
       "num": 1946576,
       "word": "台湾媒体人质问佩洛西",
@@ -171,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1627452,
-      "num": 1627452,
-      "word": "第四例艾滋病治愈者或已出现",
-      "onboard_time": 1659265706,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1599399,
       "num": 1599399,
       "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
@@ -193,6 +193,14 @@
       "onboard_time": 1659255148,
       "rank": 15,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1434922,
+      "num": 1434922,
+      "word": "佩洛西8月1日到访新加坡",
+      "onboard_time": 1659267091,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1360603,
@@ -227,6 +235,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1326461,
+      "num": 1326461,
+      "word": "邓紫棋失恋emo了",
+      "onboard_time": 1659267091,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1222278,
       "num": 1222278,
       "word": "美空军宣布F35机队暂停飞行",
@@ -251,8 +267,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1179668,
-      "num": 1179668,
+      "raw_hot": 1182837,
+      "num": 1182837,
       "word": "独行月球",
       "onboard_time": 1659169350,
       "rank": 40,
@@ -417,6 +433,22 @@
       "onboard_time": 1659175769,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 710245,
+      "num": 710245,
+      "word": "王嘉尔泰国好声音舞台",
+      "onboard_time": 1659270870,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 691950,
+      "num": 691950,
+      "word": "清华大学vs广东工大",
+      "onboard_time": 1659268889,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 691234,
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522159,
+      "num": 522159,
+      "word": "CUBA总决赛",
+      "onboard_time": 1659266128,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522045,
       "num": 522045,
       "word": "中方希望美方能听进去理性声音",
@@ -675,8 +715,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 506458,
-      "num": 506458,
+      "raw_hot": 509727,
+      "num": 509727,
       "word": "裴珠泫live图",
       "onboard_time": 1659266128,
       "rank": 32,
@@ -697,6 +737,14 @@
       "onboard_time": 1659259589,
       "rank": 21,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 495571,
+      "num": 495571,
+      "word": "周深邀请奔跑吧去他的家乡贵州",
+      "onboard_time": 1659267689,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 493864,
@@ -721,6 +769,14 @@
       "onboard_time": 1659258987,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486846,
+      "num": 288198,
+      "word": "雷佳音哭着对张子枫说忙去吧",
+      "onboard_time": 1659269249,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 486219,
@@ -899,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391740,
+      "num": 391740,
+      "word": "阿兹海默症学术造假事件",
+      "onboard_time": 1659266070,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389641,
       "num": 236111,
       "word": "莲花楼",
@@ -913,6 +977,14 @@
       "onboard_time": 1659258449,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386644,
+      "num": 286416,
+      "word": "郭俊辰一边读信一边哭",
+      "onboard_time": 1659268290,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 384989,
@@ -1075,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328624,
+      "num": 328624,
+      "word": "男女捞地沟油路人质问反被怼",
+      "onboard_time": 1659269489,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326819,
       "num": 281359,
       "word": "朱媛媛 金杯银杯不如观众口碑",
@@ -1187,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298083,
-      "num": 298083,
-      "word": "阿兹海默症学术造假事件",
-      "onboard_time": 1659266070,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297820,
       "num": 297820,
       "word": "天才基本法全员提问细思极恐",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1659187660,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292950,
+      "num": 292950,
+      "word": "记者暗访高价回收烟酒背后猫腻",
+      "onboard_time": 1659265947,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288006,
@@ -1233,14 +1313,6 @@
       "onboard_time": 1659188676,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281078,
-      "num": 281078,
-      "word": "CUBA总决赛",
-      "onboard_time": 1659266128,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 278098,
@@ -1315,6 +1387,30 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "空军有足够能力捍卫国家主权和领土完整",
+      "onboard_time": 1659266249,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 263703,
+      "num": 263703,
+      "word": "橙子 老将不死",
+      "onboard_time": 1659266070,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 262918,
+      "num": 262918,
+      "word": "这5种明星食物有平价替代",
+      "onboard_time": 1659267927,
+      "rank": 27,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 262819,
       "num": 262819,
       "word": "想念我花过的不必要的钱",
@@ -1345,14 +1441,6 @@
       "onboard_time": 1659251549,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258823,
-      "num": 258823,
-      "word": "记者暗访高价回收烟酒背后猫腻",
-      "onboard_time": 1659265947,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257370,
@@ -1401,6 +1489,14 @@
       "onboard_time": 1659231091,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253155,
+      "num": 253155,
+      "word": "闪耀暖暖直播",
+      "onboard_time": 1659270028,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 252139,
@@ -1539,20 +1635,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 226868,
+      "num": 226868,
+      "word": "林朝夕裴之回到草莓世界",
+      "onboard_time": 1659269908,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223542,
+      "num": 223542,
+      "word": "一诺",
+      "onboard_time": 1659270330,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221996,
       "num": 188084,
       "word": "你期待偷偷藏不住吗",
       "onboard_time": 1659259051,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220848,
-      "num": 220848,
-      "word": "邓紫棋失恋emo了",
-      "onboard_time": 1659267091,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 219526,
@@ -1579,10 +1683,10 @@
       "category": "其它"
     },
     {
-      "raw_hot": 215283,
-      "num": 218206,
-      "word": "橙子 老将不死",
-      "onboard_time": 1659266070,
+      "raw_hot": 216353,
+      "num": 216353,
+      "word": "XYG战胜AG",
+      "onboard_time": 1659268349,
       "rank": 34,
       "category": "游戏"
     },
@@ -1619,6 +1723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209504,
+      "num": 209504,
+      "word": "山西孟母文化园办电音节引争议",
+      "onboard_time": 1659270028,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206949,
+      "num": 206949,
+      "word": "第五人格",
+      "onboard_time": 1659268647,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206033,
       "num": 206033,
       "word": "以前的手机有多酷炫",
@@ -1633,14 +1753,6 @@
       "onboard_time": 1659263489,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204424,
-      "num": 204424,
-      "word": "空军有足够能力捍卫国家主权和领土完整",
-      "onboard_time": 1659266249,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 203419,
@@ -1795,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170651,
-      "num": 170651,
-      "word": "佩洛西8月1日到访新加坡",
-      "onboard_time": 1659267091,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 168785,
       "num": 168785,
       "word": "朱婷征战意大利",
@@ -1849,6 +1953,14 @@
       "onboard_time": 1659228208,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 154685,
+      "num": 154685,
+      "word": "马嘉祺拿捏赵四精髓",
+      "onboard_time": 1659267809,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 154458,
@@ -1929,6 +2041,14 @@
       "onboard_time": 1659253228,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 128545,
+      "num": 128545,
+      "word": "WE对战LNG",
+      "onboard_time": 1659269006,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128177,
