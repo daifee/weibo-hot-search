@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659240615887,
+  "endTime": 1659242523509,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -91,12 +91,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1709593,
+      "num": 1709593,
+      "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+      "onboard_time": 1659239071,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1338839,
       "num": 429233,
       "word": "杨洋恭喜Uzi结婚快乐",
       "onboard_time": 1659196234,
       "rank": 11,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1305815,
+      "num": 1305815,
+      "word": "54岁洗碗厂女工热射病死亡",
+      "onboard_time": 1659241230,
+      "rank": 7,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1197140,
@@ -123,11 +139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1058666,
-      "num": 1058666,
-      "word": "11个月宝宝因好奇拔掉亲妈氧气管",
-      "onboard_time": 1659239071,
-      "rank": 15,
+      "raw_hot": 1045587,
+      "num": 1045587,
+      "word": "中国第一地下军团被复活",
+      "onboard_time": 1659238528,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -136,6 +152,14 @@
       "word": "张小斐贾玲 今晚换我为你鼓掌",
       "onboard_time": 1659231569,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 896056,
+      "num": 834967,
+      "word": "沈马",
+      "onboard_time": 1659240749,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -177,14 +201,6 @@
       "onboard_time": 1659194736,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 746294,
-      "num": 746294,
-      "word": "中国第一地下军团被复活",
-      "onboard_time": 1659238528,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736616,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578701,
+      "num": 578701,
+      "word": "利路修向前冲落水",
+      "onboard_time": 1659240090,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572225,
       "num": 572225,
       "word": "好喜欢刚子",
@@ -273,6 +297,14 @@
       "onboard_time": 1659233371,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557332,
+      "num": 557332,
+      "word": "运油20和歼16开展海上空中加油训练",
+      "onboard_time": 1659238768,
+      "rank": 23,
+      "category": "军事"
     },
     {
       "raw_hot": 540081,
@@ -307,20 +339,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 512918,
-      "num": 512918,
-      "word": "运油20和歼16开展海上空中加油训练",
-      "onboard_time": 1659238768,
-      "rank": 23,
-      "category": "军事"
-    },
-    {
       "raw_hot": 504836,
       "num": 504836,
       "word": "村民池塘边洗碗遇扬子鳄",
       "onboard_time": 1659232530,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504651,
+      "num": 504651,
+      "word": "偷偷藏不住",
+      "onboard_time": 1659242011,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 493864,
@@ -363,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439423,
+      "num": 439423,
+      "word": "午睡时间过长睡眠易陷入恶性循环",
+      "onboard_time": 1659237390,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422828,
       "num": 318863,
       "word": "看完独行月球第一反应是找歌单",
@@ -401,6 +441,14 @@
       "onboard_time": 1659226528,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 413225,
+      "num": 413225,
+      "word": "张嘉元穿西装登顶",
+      "onboard_time": 1659241289,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 392367,
@@ -449,14 +497,6 @@
       "onboard_time": 1659194076,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351438,
-      "num": 351438,
-      "word": "午睡时间过长睡眠易陷入恶性循环",
-      "onboard_time": 1659237390,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343014,
@@ -515,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323017,
-      "num": 323017,
-      "word": "利路修向前冲落水",
-      "onboard_time": 1659240090,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 323979,
+      "num": 323979,
+      "word": "一句话证明你看过独行月球",
+      "onboard_time": 1659241050,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 312676,
@@ -667,6 +707,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 244481,
+      "num": 244481,
+      "word": "东部战区海军实弹射击训练",
+      "onboard_time": 1659241951,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 238111,
       "num": 238111,
       "word": "甘肃新增本土无症状103例",
@@ -681,6 +729,14 @@
       "onboard_time": 1659192640,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236800,
+      "num": 236800,
+      "word": "专家回应未来买房跟买包一样容易",
+      "onboard_time": 1659241171,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 236163,
@@ -955,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138677,
+      "num": 138677,
+      "word": "DNA纳米机器人问世",
+      "onboard_time": 1659241710,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 136349,
       "num": 136349,
       "word": "天津新增本土阳性感染者5例",
@@ -1099,20 +1163,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40846,
+      "num": 1939671,
+      "word": "致敬人民子弟兵",
+      "onboard_time": 1659173434,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30299,
       "num": 30299,
       "word": "利物浦曼城红蓝大战",
       "onboard_time": 1659202039,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28962,
-      "num": 1939671,
-      "word": "致敬人民子弟兵",
-      "onboard_time": 1659173434,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9200,
@@ -1143,6 +1207,9 @@
     },
     {
       "word": "#北京申冬奥成功7周年#"
+    },
+    {
+      "word": "#第二届中国新电商大会#"
     }
   ]
 }
