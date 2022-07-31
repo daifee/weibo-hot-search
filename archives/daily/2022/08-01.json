@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659298915457,
+  "endTime": 1659299826509,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83141,
+      "num": 83141,
+      "word": "睡眠少了可能是你年纪大了",
+      "onboard_time": 1659298750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "点赞强军",
@@ -483,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12065,
-      "num": 12065,
-      "word": "睡眠少了可能是你年纪大了",
-      "onboard_time": 1659298750,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 14722,
+      "num": 14722,
+      "word": "人在40岁时睡得最少",
+      "onboard_time": 1659299531,
+      "rank": 45,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
