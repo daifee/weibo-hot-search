@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659260186408,
+  "endTime": 1659262964122,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -235,6 +235,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1167508,
+      "num": 1167508,
+      "word": "老林被绑架",
+      "onboard_time": 1659259230,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1158835,
+      "num": 1158835,
+      "word": "3孩均非亲生事件第三人发声",
+      "onboard_time": 1659257789,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105910,
       "num": 426179,
       "word": "周也0票",
@@ -283,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 933004,
+      "num": 661700,
+      "word": "阿姨1个月交往20多名男子让买水果",
+      "onboard_time": 1659262166,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883817,
       "num": 661469,
       "word": "结婚16年3孩均非亲生事件双方发声",
@@ -297,14 +321,6 @@
       "onboard_time": 1659222438,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 819659,
-      "num": 819659,
-      "word": "3孩均非亲生事件第三人发声",
-      "onboard_time": 1659257789,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784202,
@@ -363,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 733848,
-      "num": 733848,
-      "word": "老林被绑架",
-      "onboard_time": 1659259230,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 723364,
+      "num": 723364,
+      "word": "如果我没上过大学",
+      "onboard_time": 1659259949,
+      "rank": 47,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 675940,
@@ -385,6 +401,14 @@
       "onboard_time": 1659204019,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 667237,
+      "num": 667237,
+      "word": "独行月球",
+      "onboard_time": 1659169350,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 663398,
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614392,
+      "num": 614392,
+      "word": "宋亚轩认知中的动作戏",
+      "onboard_time": 1659262289,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605102,
       "num": 605102,
       "word": "胡军 代言",
@@ -481,14 +513,6 @@
       "onboard_time": 1659247529,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 591134,
-      "num": 591134,
-      "word": "独行月球",
-      "onboard_time": 1659169350,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 586275,
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414903,
+      "num": 414903,
+      "word": "小女孩骑滑板1小时去乡下找奶奶",
+      "onboard_time": 1659258987,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414098,
       "num": 414098,
       "word": "奔跑吧全员年度关键词",
@@ -849,6 +881,14 @@
       "onboard_time": 1659237390,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360162,
+      "num": 360162,
+      "word": "北京海淀1地升为高风险区",
+      "onboard_time": 1659261688,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357973,
@@ -1051,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289765,
+      "num": 289765,
+      "word": "饿了么",
+      "onboard_time": 1659262529,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 288006,
       "num": 125094,
       "word": "只有吴磊受伤的世界达成了",
@@ -1073,6 +1121,30 @@
       "onboard_time": 1659188676,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286050,
+      "num": 286050,
+      "word": "AG对战XYG",
+      "onboard_time": 1659262650,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 278098,
+      "num": 278098,
+      "word": "GW战队获胜",
+      "onboard_time": 1659262409,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277120,
+      "num": 169714,
+      "word": "GW对战ACT",
+      "onboard_time": 1659262949,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 276498,
@@ -1131,12 +1203,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 263344,
-      "num": 263344,
-      "word": "小女孩骑滑板1小时去乡下找奶奶",
-      "onboard_time": 1659258987,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 261816,
+      "num": 261816,
+      "word": "哈利波特里最意难平的角色",
+      "onboard_time": 1659258627,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 260527,
@@ -1211,12 +1283,44 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 251465,
+      "num": 251465,
+      "word": "想念我花过的不必要的钱",
+      "onboard_time": 1659261270,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249392,
+      "num": 249392,
+      "word": "乌江榨菜回应网传消费者吃出脚指甲",
+      "onboard_time": 1659262289,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246177,
       "num": 226765,
       "word": "张嘉益说林大为忍一忍四十集就过去了",
       "onboard_time": 1659258748,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246103,
+      "num": 246103,
+      "word": "无畏橘右京伪四杀",
+      "onboard_time": 1659260909,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 245686,
+      "num": 245686,
+      "word": "华晨宇直播",
+      "onboard_time": 1659262650,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 244038,
@@ -1259,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235063,
+      "num": 235063,
+      "word": "原来浪漫就在烟火气里",
+      "onboard_time": 1659262049,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233350,
       "num": 233350,
       "word": "路人撑巨伞守护坠楼老人",
@@ -1299,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228594,
-      "num": 228594,
-      "word": "哈利波特里最意难平的角色",
-      "onboard_time": 1659258627,
-      "rank": 38,
-      "category": "其它"
-    },
-    {
       "raw_hot": 227855,
       "num": 227855,
       "word": "猫咪眼巴巴盯鱼钓友被萌化果断送鱼",
@@ -1345,6 +1449,14 @@
       "onboard_time": 1659223461,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215108,
+      "num": 215108,
+      "word": "林妙妙钱三一摩天轮名场面",
+      "onboard_time": 1659260309,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 215014,
@@ -1401,6 +1513,14 @@
       "onboard_time": 1659203537,
       "rank": 13,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 192499,
+      "num": 192499,
+      "word": "货车司机服务区休息被保安要烟钱",
+      "onboard_time": 1659260430,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192481,
@@ -1513,6 +1633,14 @@
       "onboard_time": 1659183872,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170993,
+      "num": 170993,
+      "word": "檀健次吃西瓜炫到鼻子里",
+      "onboard_time": 1659255929,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 168785,
@@ -1665,14 +1793,6 @@
       "onboard_time": 1659208932,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123326,
-      "num": 123326,
-      "word": "如果我没上过大学",
-      "onboard_time": 1659259949,
-      "rank": 47,
-      "category": "社会议题,教育"
     },
     {
       "raw_hot": 120596,

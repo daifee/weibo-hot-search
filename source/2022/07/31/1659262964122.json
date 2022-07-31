@@ -1,0 +1,410 @@
+{
+  "runTime": 1659262964122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1942018,
+        "num": 1942018,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417162,
+        "num": 1417162,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 47558,
+        "num": 1277482,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167508,
+        "num": 1167508,
+        "word": "老林被绑架",
+        "onboard_time": 1659259230,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1158835,
+        "num": 1158835,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703471,
+        "num": 1098634,
+        "word": "百花奖评委回应沈腾海清周也0票",
+        "onboard_time": 1659257249,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1014281,
+        "num": 1014281,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 723364,
+        "num": 723364,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 7,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 722462,
+        "num": 722462,
+        "word": "解放军三大战区开展海上实弹演练",
+        "onboard_time": 1659255148,
+        "rank": 8,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 667237,
+        "num": 667237,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 933004,
+        "num": 661700,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650376,
+        "num": 650376,
+        "word": "北京海淀1人核酸结果阳性",
+        "onboard_time": 1659258391,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622240,
+        "num": 622240,
+        "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+        "onboard_time": 1659245189,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 614392,
+        "num": 614392,
+        "word": "宋亚轩认知中的动作戏",
+        "onboard_time": 1659262289,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426406,
+        "num": 426406,
+        "word": "俄气已停止向欧洲6国供应天然气",
+        "onboard_time": 1659255388,
+        "rank": 14,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 422138,
+        "num": 422138,
+        "word": "Wendy生图好美",
+        "onboard_time": 1659244889,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 416445,
+        "num": 416445,
+        "word": "杭州地铁熊孩子不戴口罩舔玻璃",
+        "onboard_time": 1659256649,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414903,
+        "num": 414903,
+        "word": "小女孩骑滑板1小时去乡下找奶奶",
+        "onboard_time": 1659258987,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405060,
+        "num": 405060,
+        "word": "王一博刘雨昕韩庚李承铉街舞5花絮",
+        "onboard_time": 1659258028,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360162,
+        "num": 360162,
+        "word": "北京海淀1地升为高风险区",
+        "onboard_time": 1659261688,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438618,
+        "num": 359842,
+        "word": "为什么独生子女一定要结婚",
+        "onboard_time": 1659252268,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357993,
+        "num": 357993,
+        "word": "汪涵面试何炅",
+        "onboard_time": 1659249866,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352042,
+        "num": 352042,
+        "word": "成都暴雨",
+        "onboard_time": 1659259409,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347655,
+        "num": 347655,
+        "word": "陈哲远 偷偷藏不住",
+        "onboard_time": 1659249569,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331234,
+        "num": 331234,
+        "word": "38岁女儿不工作不恋爱母亲愁哭",
+        "onboard_time": 1659235348,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289765,
+        "num": 289765,
+        "word": "饿了么",
+        "onboard_time": 1659262529,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286050,
+        "num": 286050,
+        "word": "AG对战XYG",
+        "onboard_time": 1659262650,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278098,
+        "num": 278098,
+        "word": "GW战队获胜",
+        "onboard_time": 1659262409,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273313,
+        "num": 273313,
+        "word": "狗狗吵架时发现自己被拍后",
+        "onboard_time": 1659254429,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261816,
+        "num": 261816,
+        "word": "哈利波特里最意难平的角色",
+        "onboard_time": 1659258627,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 251465,
+        "num": 251465,
+        "word": "想念我花过的不必要的钱",
+        "onboard_time": 1659261270,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249955,
+        "num": 249955,
+        "word": "蔡徐坤参加奔跑吧是为了锻炼身体",
+        "onboard_time": 1659256049,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249392,
+        "num": 249392,
+        "word": "乌江榨菜回应网传消费者吃出脚指甲",
+        "onboard_time": 1659262289,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246103,
+        "num": 246103,
+        "word": "无畏橘右京伪四杀",
+        "onboard_time": 1659260909,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245686,
+        "num": 245686,
+        "word": "华晨宇直播",
+        "onboard_time": 1659262650,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235063,
+        "num": 235063,
+        "word": "原来浪漫就在烟火气里",
+        "onboard_time": 1659262049,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226911,
+        "num": 226911,
+        "word": "54岁洗碗厂女工热射病死亡",
+        "onboard_time": 1659241230,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 224953,
+        "num": 224953,
+        "word": "BLACKPINK虚拟演出搭配图",
+        "onboard_time": 1659259589,
+        "rank": 37,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 224275,
+        "num": 224275,
+        "word": "杨紫颜淡片场一秒落泪花絮",
+        "onboard_time": 1659255148,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215108,
+        "num": 215108,
+        "word": "林妙妙钱三一摩天轮名场面",
+        "onboard_time": 1659260309,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209170,
+        "num": 209170,
+        "word": "空军多型战机绕飞祖国宝岛",
+        "onboard_time": 1659242728,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 192499,
+        "num": 192499,
+        "word": "货车司机服务区休息被保安要烟钱",
+        "onboard_time": 1659260430,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180350,
+        "num": 180350,
+        "word": "民警晨练时多看一眼救下一条命",
+        "onboard_time": 1659257128,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177740,
+        "num": 177740,
+        "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+        "onboard_time": 1659239071,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177327,
+        "num": 177327,
+        "word": "佩洛西行程声明未提及台湾",
+        "onboard_time": 1659246808,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173450,
+        "num": 173450,
+        "word": "中国女兵太飒了",
+        "onboard_time": 1659259290,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 170993,
+        "num": 170993,
+        "word": "檀健次吃西瓜炫到鼻子里",
+        "onboard_time": 1659255929,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277120,
+        "num": 169714,
+        "word": "GW对战ACT",
+        "onboard_time": 1659262949,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164309,
+        "num": 164309,
+        "word": "老人景区占座起冲突用婴儿车砸人",
+        "onboard_time": 1659256049,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 156499,
+        "word": "河北一驾校教练车只有骨架",
+        "onboard_time": 1659245791,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年八一陪你站岗#"
+    }
+  }
+}
