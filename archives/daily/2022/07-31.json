@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659244900448,
+  "endTime": 1659245799799,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -115,20 +115,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1349050,
+      "num": 1349050,
+      "word": "空军多型战机绕飞祖国宝岛",
+      "onboard_time": 1659242728,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1338839,
       "num": 429233,
       "word": "杨洋恭喜Uzi结婚快乐",
       "onboard_time": 1659196234,
       "rank": 11,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 1333146,
-      "num": 1333146,
-      "word": "空军多型战机绕飞祖国宝岛",
-      "onboard_time": 1659242728,
-      "rank": 24,
-      "category": "军事"
     },
     {
       "raw_hot": 1205272,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756392,
+      "num": 756392,
+      "word": "东部战区海军实弹射击训练",
+      "onboard_time": 1659241951,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 750934,
       "num": 750934,
       "word": "张凯",
@@ -227,12 +235,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 748059,
-      "num": 748059,
-      "word": "东部战区海军实弹射击训练",
-      "onboard_time": 1659241951,
-      "rank": 29,
-      "category": "军事"
+      "raw_hot": 739284,
+      "num": 739284,
+      "word": "Wendy生图好美",
+      "onboard_time": 1659244889,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 736616,
@@ -289,6 +297,14 @@
       "onboard_time": 1659222738,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605102,
+      "num": 605102,
+      "word": "胡军 代言",
+      "onboard_time": 1659244649,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 598319,
@@ -371,6 +387,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 519324,
+      "num": 519324,
+      "word": "因5元槟榔男子踢打店主致其鼻骨折",
+      "onboard_time": 1659243510,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 504836,
       "num": 504836,
       "word": "村民池塘边洗碗遇扬子鳄",
@@ -416,6 +440,14 @@
       "word": "心动的信号5录制路透",
       "onboard_time": 1659234871,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 444503,
+      "num": 391510,
+      "word": "卜凡说唱巅峰唱刘德华",
+      "onboard_time": 1659245067,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -475,20 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 407459,
-      "num": 407459,
+      "raw_hot": 407821,
+      "num": 407821,
       "word": "专家回应未来买房跟买包一样容易",
       "onboard_time": 1659241171,
       "rank": 36,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 407223,
-      "num": 407223,
-      "word": "因5元槟榔男子踢打店主致其鼻骨折",
-      "onboard_time": 1659243510,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 392367,
@@ -619,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320758,
+      "num": 320758,
+      "word": "第一次当妈没有经验的猫咪",
+      "onboard_time": 1659244590,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 312676,
       "num": 307755,
       "word": "天才基本法不完美主角",
@@ -675,14 +707,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 286786,
-      "num": 286786,
-      "word": "胡军 代言",
-      "onboard_time": 1659244649,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286769,
       "num": 172166,
       "word": "不愧是韩红",
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274655,
+      "num": 274655,
+      "word": "午饭后隔20分钟再睡",
+      "onboard_time": 1659243328,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267716,
       "num": 267716,
       "word": "河南增本土无症状33例",
@@ -721,14 +753,6 @@
       "onboard_time": 1659230790,
       "rank": 27,
       "category": "军事"
-    },
-    {
-      "raw_hot": 261879,
-      "num": 261879,
-      "word": "午饭后隔20分钟再睡",
-      "onboard_time": 1659243328,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259574,
@@ -779,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252822,
+      "num": 252822,
+      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+      "onboard_time": 1659245189,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 252139,
       "num": 252139,
       "word": "扎哈罗娃评佩洛西亚洲行",
@@ -787,12 +819,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 245655,
-      "num": 160618,
-      "word": "Wendy生图好美",
-      "onboard_time": 1659244889,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 244419,
+      "num": 244419,
+      "word": "吴永恩说王子文我有你就够了",
+      "onboard_time": 1659245731,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 238111,
@@ -963,20 +995,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183933,
+      "num": 183933,
+      "word": "4K视频看中国军人演训",
+      "onboard_time": 1659244170,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "14岁男孩考上211和985",
       "onboard_time": 1659169110,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180136,
-      "num": 180136,
-      "word": "第一次当妈没有经验的猫咪",
-      "onboard_time": 1659244590,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 176008,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1659188078,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 167195,
-      "num": 167195,
-      "word": "4K视频看中国军人演训",
-      "onboard_time": 1659244170,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 161200,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1659239489,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 128458,
+      "num": 128458,
+      "word": "河北一驾校教练车只有骨架",
+      "onboard_time": 1659245791,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126863,
