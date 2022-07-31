@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659278104809,
+  "endTime": 1659280878237,
   "band_list": [
     {
       "raw_hot": 4870550,
@@ -75,8 +75,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2754543,
-      "num": 2754543,
+      "raw_hot": 2920965,
+      "num": 2920965,
       "word": "网红男孩钟美美考上重点高中",
       "onboard_time": 1659276627,
       "rank": 11,
@@ -88,6 +88,14 @@
       "word": "男生带80斤女友健身变110斤美女",
       "onboard_time": 1659275731,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2730374,
+      "num": 2730374,
+      "word": "警方认定网红用濒危大白鲨做美食",
+      "onboard_time": 1659277833,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -185,6 +193,14 @@
       "onboard_time": 1659231871,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1945525,
+      "num": 1945525,
+      "word": "二舅",
+      "onboard_time": 1659277593,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1929841,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1112984,
+      "num": 1112984,
+      "word": "提子",
+      "onboard_time": 1659279214,
+      "rank": 7,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1105910,
       "num": 426179,
       "word": "周也0票",
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1061700,
+      "num": 747207,
+      "word": "杨幂线上演唱会彩排照",
+      "onboard_time": 1659278793,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1045587,
       "num": 1045587,
       "word": "中国第一地下军团被复活",
@@ -433,6 +465,14 @@
       "onboard_time": 1659276209,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 979149,
+      "num": 979149,
+      "word": "男子赶海忘关电锁涨潮后宝马被淹",
+      "onboard_time": 1659277291,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 942994,
@@ -475,12 +515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 840738,
+      "num": 744909,
+      "word": "古天乐回应宣萱李若彤落水先救谁",
+      "onboard_time": 1659279812,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 829377,
       "num": 829377,
       "word": "贾玲获奖张小斐哭了",
       "onboard_time": 1659222438,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 793627,
+      "num": 793627,
+      "word": "考驾照真的太难了",
+      "onboard_time": 1659276029,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 784202,
@@ -601,14 +657,6 @@
       "onboard_time": 1659256049,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 640742,
-      "num": 640742,
-      "word": "考驾照真的太难了",
-      "onboard_time": 1659276029,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 630838,
@@ -737,14 +785,6 @@
       "onboard_time": 1659233371,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 562574,
-      "num": 562574,
-      "word": "二舅",
-      "onboard_time": 1659277593,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557332,
@@ -907,12 +947,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488279,
+      "num": 488279,
+      "word": "郭艾伦 发点啥都会被过度分析和解读",
+      "onboard_time": 1659277951,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 486219,
       "num": 486219,
       "word": "狗狗吵架时发现自己被拍后",
       "onboard_time": 1659254429,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 484730,
+      "num": 308795,
+      "word": "曹双印家暴田总",
+      "onboard_time": 1659280531,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 479481,
+      "num": 479481,
+      "word": "男子穿短袖误困冰库机智报警自救",
+      "onboard_time": 1659278192,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477820,
@@ -937,6 +1001,14 @@
       "onboard_time": 1659246149,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470783,
+      "num": 293679,
+      "word": "宋亚轩睡衣穿反了",
+      "onboard_time": 1659280713,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 468814,
@@ -977,6 +1049,14 @@
       "onboard_time": 1659234871,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447191,
+      "num": 281067,
+      "word": "独行月球片尾11个字看破防了",
+      "onboard_time": 1659278973,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 444503,
@@ -1027,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422700,
+      "num": 206310,
+      "word": "IVE新专概念视频",
+      "onboard_time": 1659279335,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 419348,
       "num": 419348,
       "word": "郑秀妍五公solo舞台练习室版",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1659276627,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418769,
+      "num": 418769,
+      "word": "法拉利 战术",
+      "onboard_time": 1659278793,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 417145,
@@ -1139,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389281,
+      "num": 389281,
+      "word": "近日曾到北京南站这些点位人员立即报备",
+      "onboard_time": 1659277652,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386656,
       "num": 386656,
       "word": "期待下一季在奔跑吧听周深唱歌",
@@ -1153,6 +1257,14 @@
       "onboard_time": 1659268290,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386314,
+      "num": 386314,
+      "word": "研究发现长颈鹿脖子长真正原因",
+      "onboard_time": 1659276871,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384989,
@@ -1217,14 +1329,6 @@
       "onboard_time": 1659232709,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354676,
-      "num": 354676,
-      "word": "男子赶海忘关电锁涨潮后宝马被淹",
-      "onboard_time": 1659277291,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353683,
@@ -1345,6 +1449,14 @@
       "onboard_time": 1659247050,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 334488,
+      "num": 334488,
+      "word": "点赞强军",
+      "onboard_time": 1659279153,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 333994,
@@ -1585,14 +1697,6 @@
       "onboard_time": 1659205334,
       "rank": 33,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 286990,
-      "num": 286990,
-      "word": "警方认定网红用濒危大白鲨做美食",
-      "onboard_time": 1659277833,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286769,
@@ -1979,14 +2083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221365,
-      "num": 221365,
-      "word": "近日曾到北京南站这些点位人员立即报备",
-      "onboard_time": 1659277652,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219526,
       "num": 219526,
       "word": "斗破苍穹年番动画开播",
@@ -2040,14 +2136,6 @@
       "word": "智齿必须要拔吗",
       "onboard_time": 1659222317,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212659,
-      "num": 212659,
-      "word": "研究发现长颈鹿脖子长真正原因",
-      "onboard_time": 1659276871,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2211,14 +2299,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 182334,
-      "num": 182334,
-      "word": "郭艾伦 发点啥都会被过度分析和解读",
-      "onboard_time": 1659277951,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "14岁男孩考上211和985",
@@ -2305,6 +2385,14 @@
       "onboard_time": 1659216971,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167647,
+      "num": 167647,
+      "word": "暖阳的澜",
+      "onboard_time": 1659279754,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 167568,
@@ -2547,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90962,
+      "num": 90962,
+      "word": "花痴极限吃鸡",
+      "onboard_time": 1659278315,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88680,
       "num": 88680,
       "word": "TTG对战eStar",
@@ -2588,7 +2684,7 @@
     },
     {
       "raw_hot": 55634,
-      "num": 2199025,
+      "num": 2481766,
       "word": "致敬人民子弟兵",
       "onboard_time": 1659173434,
       "rank": 2,
