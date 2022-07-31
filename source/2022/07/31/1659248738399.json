@@ -1,0 +1,410 @@
+{
+  "runTime": 1659248738399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2371068,
+        "num": 2371068,
+        "word": "佩洛西行程声明未提及台湾",
+        "onboard_time": 1659246808,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1572220,
+        "num": 1572220,
+        "word": "建议午睡不要超过半小时",
+        "onboard_time": 1659197069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26464,
+        "num": 1403773,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312233,
+        "num": 1312233,
+        "word": "38岁女儿不工作不恋爱母亲愁哭",
+        "onboard_time": 1659235348,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174093,
+        "num": 1174093,
+        "word": "杨幂心疼丁程鑫过于懂事",
+        "onboard_time": 1659246210,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097000,
+        "num": 1097000,
+        "word": "空军多型战机绕飞祖国宝岛",
+        "onboard_time": 1659242728,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1074302,
+        "num": 1074302,
+        "word": "李玟回应百花奖唱歌跑调",
+        "onboard_time": 1659242792,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1066540,
+        "num": 1066540,
+        "word": "54岁洗碗厂女工热射病死亡",
+        "onboard_time": 1659241230,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1059856,
+        "num": 1059856,
+        "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+        "onboard_time": 1659245189,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 913842,
+        "num": 913842,
+        "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+        "onboard_time": 1659239071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170777,
+        "num": 875905,
+        "word": "Wendy生图好美",
+        "onboard_time": 1659244889,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 749548,
+        "num": 749548,
+        "word": "偷偷藏不住",
+        "onboard_time": 1659242011,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739035,
+        "num": 739035,
+        "word": "河北一驾校教练车只有骨架",
+        "onboard_time": 1659245791,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721582,
+        "num": 721582,
+        "word": "男子肺部洗出17升白色液体",
+        "onboard_time": 1659227609,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708594,
+        "num": 708594,
+        "word": "张子枫工作室道歉",
+        "onboard_time": 1659225144,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595257,
+        "num": 595257,
+        "word": "网传乘风破浪成团夜歌单",
+        "onboard_time": 1659247529,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517682,
+        "num": 517682,
+        "word": "第一次当妈没有经验的猫咪",
+        "onboard_time": 1659244590,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 472687,
+        "num": 472687,
+        "word": "广州疫情防控",
+        "onboard_time": 1659246149,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452224,
+        "num": 452224,
+        "word": "东部战区海军实弹射击训练",
+        "onboard_time": 1659241951,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 428516,
+        "num": 428516,
+        "word": "佩洛西发文4条没提台湾",
+        "onboard_time": 1659229769,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 484885,
+        "num": 417417,
+        "word": "胡军 代言",
+        "onboard_time": 1659244649,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477790,
+        "num": 410937,
+        "word": "沈马",
+        "onboard_time": 1659240749,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434986,
+        "num": 407660,
+        "word": "卜凡说唱巅峰唱刘德华",
+        "onboard_time": 1659245067,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402836,
+        "num": 402836,
+        "word": "因5元槟榔男子踢打店主致其鼻骨折",
+        "onboard_time": 1659243510,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 360964,
+        "num": 360964,
+        "word": "二舅币崩盘",
+        "onboard_time": 1659234810,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343668,
+        "num": 343668,
+        "word": "台湾媒体人质问佩洛西",
+        "onboard_time": 1659231871,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 309560,
+        "num": 309560,
+        "word": "1000多名飞行学员坐运20到大学报到",
+        "onboard_time": 1659247050,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 301881,
+        "num": 301881,
+        "word": "中国第一地下军团被复活",
+        "onboard_time": 1659238528,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281255,
+        "num": 281255,
+        "word": "疯狗扑咬幼童家养犬飞奔相护",
+        "onboard_time": 1659248069,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245453,
+        "num": 245453,
+        "word": "男子假冒扶贫办人员入室偷老人钱",
+        "onboard_time": 1659247350,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351118,
+        "num": 237691,
+        "word": "吴永恩说王子文我有你就够了",
+        "onboard_time": 1659245731,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323797,
+        "num": 236717,
+        "word": "Irene生图好美",
+        "onboard_time": 1659238111,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229304,
+        "num": 229304,
+        "word": "吴磊赵露思片场对戏",
+        "onboard_time": 1659247769,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228962,
+        "num": 228962,
+        "word": "宝岛在祖国怀中",
+        "onboard_time": 1659247949,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223272,
+        "num": 223272,
+        "word": "午饭后隔20分钟再睡",
+        "onboard_time": 1659243328,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216947,
+        "num": 216947,
+        "word": "运油20来了",
+        "onboard_time": 1659242910,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 203755,
+        "num": 203755,
+        "word": "运油20和歼16开展海上空中加油训练",
+        "onboard_time": 1659238768,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 203608,
+        "num": 203608,
+        "word": "专家回应未来买房跟买包一样容易",
+        "onboard_time": 1659241171,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 199868,
+        "num": 199868,
+        "word": "薅羊毛薅到了境外赌博平台上",
+        "onboard_time": 1659236791,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 191839,
+        "num": 191839,
+        "word": "午睡时间过长睡眠易陷入恶性循环",
+        "onboard_time": 1659237390,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183139,
+        "num": 183139,
+        "word": "好喜欢刚子",
+        "onboard_time": 1659229891,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182219,
+        "num": 182219,
+        "word": "3岁宝宝努力抱1岁妹妹上床",
+        "onboard_time": 1659230251,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176349,
+        "num": 176349,
+        "word": "利路修向前冲落水",
+        "onboard_time": 1659240090,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168785,
+        "num": 168785,
+        "word": "朱婷征战意大利",
+        "onboard_time": 1659246569,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162842,
+        "num": 162842,
+        "word": "恋与制作人",
+        "onboard_time": 1659242552,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144735,
+        "num": 144735,
+        "word": "结婚16年3孩均非亲生事件双方发声",
+        "onboard_time": 1659225866,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131701,
+        "num": 131701,
+        "word": "胡锡进发文被推特要求删除",
+        "onboard_time": 1659229891,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370351,
+        "num": 131470,
+        "word": "沈梦瑶完美犯罪直拍",
+        "onboard_time": 1659248726,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129734,
+        "num": 129734,
+        "word": "男子4x100米中国队39秒74夺冠",
+        "onboard_time": 1659233790,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93787,
+        "num": 93787,
+        "word": "成都一初三学生被北大录取",
+        "onboard_time": 1659223941,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年八一陪你站岗#"
+    }
+  }
+}

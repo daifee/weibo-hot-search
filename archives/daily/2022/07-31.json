@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659245799799,
+  "endTime": 1659248738399,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2371068,
+      "num": 2371068,
+      "word": "佩洛西行程声明未提及台湾",
+      "onboard_time": 1659246808,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2224538,
       "num": 2224538,
       "word": "贾玲 我终于可以拿着自己的奖杯去见你",
@@ -147,6 +155,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1174093,
+      "num": 1174093,
+      "word": "杨幂心疼丁程鑫过于懂事",
+      "onboard_time": 1659246210,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1170777,
+      "num": 875905,
+      "word": "Wendy生图好美",
+      "onboard_time": 1659244889,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1105910,
       "num": 426179,
       "word": "周也0票",
@@ -161,6 +185,14 @@
       "onboard_time": 1659229891,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059856,
+      "num": 1059856,
+      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+      "onboard_time": 1659245189,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1045587,
@@ -235,12 +267,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 739284,
-      "num": 739284,
-      "word": "Wendy生图好美",
-      "onboard_time": 1659244889,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 739035,
+      "num": 739035,
+      "word": "河北一驾校教练车只有骨架",
+      "onboard_time": 1659245791,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736616,
@@ -313,6 +345,14 @@
       "onboard_time": 1659230251,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595257,
+      "num": 595257,
+      "word": "网传乘风破浪成团夜歌单",
+      "onboard_time": 1659247529,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 586275,
@@ -395,6 +435,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 517682,
+      "num": 517682,
+      "word": "第一次当妈没有经验的猫咪",
+      "onboard_time": 1659244590,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 504836,
       "num": 504836,
       "word": "村民池塘边洗碗遇扬子鳄",
@@ -427,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472687,
+      "num": 472687,
+      "word": "广州疫情防控",
+      "onboard_time": 1659246149,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457504,
       "num": 457504,
       "word": "中国变热了吗",
@@ -444,7 +500,7 @@
     },
     {
       "raw_hot": 444503,
-      "num": 391510,
+      "num": 407660,
       "word": "卜凡说唱巅峰唱刘德华",
       "onboard_time": 1659245067,
       "rank": 21,
@@ -539,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 370351,
+      "num": 131470,
+      "word": "沈梦瑶完美犯罪直拍",
+      "onboard_time": 1659248726,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366796,
       "num": 366796,
       "word": "容祖儿小猪受伤自责落泪",
@@ -569,6 +633,14 @@
       "onboard_time": 1659194076,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351118,
+      "num": 244419,
+      "word": "吴永恩说王子文我有你就够了",
+      "onboard_time": 1659245731,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 343014,
@@ -643,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320758,
-      "num": 320758,
-      "word": "第一次当妈没有经验的猫咪",
-      "onboard_time": 1659244590,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 312676,
       "num": 307755,
       "word": "天才基本法不完美主角",
@@ -665,6 +729,14 @@
       "onboard_time": 1659204555,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309560,
+      "num": 309560,
+      "word": "1000多名飞行学员坐运20到大学报到",
+      "onboard_time": 1659247050,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309387,
@@ -721,6 +793,14 @@
       "onboard_time": 1659188676,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281255,
+      "num": 281255,
+      "word": "疯狗扑咬幼童家养犬飞奔相护",
+      "onboard_time": 1659248069,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276498,
@@ -803,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252822,
-      "num": 252822,
-      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
-      "onboard_time": 1659245189,
-      "rank": 32,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 252139,
       "num": 252139,
       "word": "扎哈罗娃评佩洛西亚洲行",
@@ -819,12 +891,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 244419,
-      "num": 244419,
-      "word": "吴永恩说王子文我有你就够了",
-      "onboard_time": 1659245731,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 245453,
+      "num": 245453,
+      "word": "男子假冒扶贫办人员入室偷老人钱",
+      "onboard_time": 1659247350,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238111,
@@ -865,6 +937,22 @@
       "onboard_time": 1659231569,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229304,
+      "num": 229304,
+      "word": "吴磊赵露思片场对戏",
+      "onboard_time": 1659247769,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228962,
+      "num": 228962,
+      "word": "宝岛在祖国怀中",
+      "onboard_time": 1659247949,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 227855,
@@ -1051,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168785,
+      "num": 168785,
+      "word": "朱婷征战意大利",
+      "onboard_time": 1659246569,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168161,
       "num": 168161,
       "word": "山东沿岸将出现台风风暴潮",
@@ -1145,14 +1241,6 @@
       "onboard_time": 1659239489,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 128458,
-      "num": 128458,
-      "word": "河北一驾校教练车只有骨架",
-      "onboard_time": 1659245791,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126863,

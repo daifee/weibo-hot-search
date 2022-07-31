@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659245799799,
+  "endTime": 1659248738399,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -689,6 +689,14 @@
       "onboard_time": 1658743056,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2371068,
+      "num": 2371068,
+      "word": "佩洛西行程声明未提及台湾",
+      "onboard_time": 1659246808,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2345931,
@@ -2211,12 +2219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1174093,
+      "num": 1174093,
+      "word": "杨幂心疼丁程鑫过于懂事",
+      "onboard_time": 1659246210,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1173412,
       "num": 1173412,
       "word": "郑秀妍于文文senorita双人探戈",
       "onboard_time": 1659071793,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1170777,
+      "num": 875905,
+      "word": "Wendy生图好美",
+      "onboard_time": 1659244889,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 1166545,
@@ -2513,6 +2537,14 @@
       "onboard_time": 1659016780,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059856,
+      "num": 1059856,
+      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+      "onboard_time": 1659245189,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1057561,
@@ -3883,12 +3915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 739284,
-      "num": 739284,
-      "word": "Wendy生图好美",
-      "onboard_time": 1659244889,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 739035,
+      "num": 739035,
+      "word": "河北一驾校教练车只有骨架",
+      "onboard_time": 1659245791,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738533,
@@ -4808,6 +4840,14 @@
       "word": "Doggie 冰箱",
       "onboard_time": 1658822555,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 595257,
+      "num": 595257,
+      "word": "网传乘风破浪成团夜歌单",
+      "onboard_time": 1659247529,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -5763,6 +5803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517682,
+      "num": 517682,
+      "word": "第一次当妈没有经验的猫咪",
+      "onboard_time": 1659244590,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 517347,
       "num": 517347,
       "word": "你吃过猪袜子米线吗",
@@ -6291,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472687,
+      "num": 472687,
+      "word": "广州疫情防控",
+      "onboard_time": 1659246149,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472636,
       "num": 472636,
       "word": "处理中美关系必须加强沟通避免误判",
@@ -6812,7 +6868,7 @@
     },
     {
       "raw_hot": 444503,
-      "num": 391510,
+      "num": 407660,
       "word": "卜凡说唱巅峰唱刘德华",
       "onboard_time": 1659245067,
       "rank": 21,
@@ -8363,6 +8419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 370351,
+      "num": 131470,
+      "word": "沈梦瑶完美犯罪直拍",
+      "onboard_time": 1659248726,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 369473,
       "num": 369473,
       "word": "上海台风前现水晶天",
@@ -8721,6 +8785,14 @@
       "onboard_time": 1659146546,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351118,
+      "num": 244419,
+      "word": "吴永恩说王子文我有你就够了",
+      "onboard_time": 1659245731,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 350771,
@@ -9491,14 +9563,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 320758,
-      "num": 320758,
-      "word": "第一次当妈没有经验的猫咪",
-      "onboard_time": 1659244590,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 320269,
       "num": 320269,
       "word": "周劼称父亲并非副局长",
@@ -9825,6 +9889,14 @@
       "onboard_time": 1658731473,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 309560,
+      "num": 309560,
+      "word": "1000多名飞行学员坐运20到大学报到",
+      "onboard_time": 1659247050,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309387,
@@ -10704,6 +10776,14 @@
       "word": "甘肃增219例本土无症状",
       "onboard_time": 1658886271,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281255,
+      "num": 281255,
+      "word": "疯狗扑咬幼童家养犬飞奔相护",
+      "onboard_time": 1659248069,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -11587,14 +11667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252822,
-      "num": 252822,
-      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
-      "onboard_time": 1659245189,
-      "rank": 32,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 252686,
       "num": 252686,
       "word": "小兽",
@@ -11763,6 +11835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 245453,
+      "num": 245453,
+      "word": "男子假冒扶贫办人员入室偷老人钱",
+      "onboard_time": 1659247350,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245261,
       "num": 245261,
       "word": "WE 就在今天",
@@ -11801,14 +11881,6 @@
       "onboard_time": 1658909011,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244419,
-      "num": 244419,
-      "word": "吴永恩说王子文我有你就够了",
-      "onboard_time": 1659245731,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 243839,
@@ -12267,6 +12339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229304,
+      "num": 229304,
+      "word": "吴磊赵露思片场对戏",
+      "onboard_time": 1659247769,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229260,
       "num": 229260,
       "word": "理想汽车回应试驾车事故",
@@ -12281,6 +12361,14 @@
       "onboard_time": 1658973209,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228962,
+      "num": 228962,
+      "word": "宝岛在祖国怀中",
+      "onboard_time": 1659247949,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 228949,
@@ -13755,6 +13843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168785,
+      "num": 168785,
+      "word": "朱婷征战意大利",
+      "onboard_time": 1659246569,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168649,
       "num": 126030,
       "word": "裸辞考研有多需要勇气",
@@ -14360,14 +14456,6 @@
       "word": "特警高燃夏训场面",
       "onboard_time": 1658847574,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128458,
-      "num": 128458,
-      "word": "河北一驾校教练车只有骨架",
-      "onboard_time": 1659245791,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
