@@ -1,0 +1,410 @@
+{
+  "runTime": 1659272377218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2510330,
+        "num": 2510330,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1805379,
+        "num": 1805379,
+        "word": "第四例艾滋病治愈者或已出现",
+        "onboard_time": 1659265706,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37677,
+        "num": 1552980,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419112,
+        "num": 1419112,
+        "word": "佩洛西8月1日到访新加坡",
+        "onboard_time": 1659267091,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1283771,
+        "num": 1283771,
+        "word": "邓紫棋失恋emo了",
+        "onboard_time": 1659267091,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1139345,
+        "num": 1139345,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1085301,
+        "num": 1085301,
+        "word": "王嘉尔泰国好声音舞台",
+        "onboard_time": 1659270870,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926455,
+        "num": 926455,
+        "word": "一诺",
+        "onboard_time": 1659270330,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 857820,
+        "num": 857820,
+        "word": "清华大学vs广东工大",
+        "onboard_time": 1659268889,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 821071,
+        "num": 821071,
+        "word": "美军里根号航母离开南海",
+        "onboard_time": 1659265409,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 789283,
+        "num": 789283,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615736,
+        "num": 615736,
+        "word": "吐鲁番一串葡萄有手臂那么长",
+        "onboard_time": 1659264449,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578331,
+        "num": 578331,
+        "word": "百花奖评委回应沈腾海清周也0票",
+        "onboard_time": 1659257249,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547046,
+        "num": 547046,
+        "word": "雷佳音哭着对张子枫说忙去吧",
+        "onboard_time": 1659269249,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450486,
+        "num": 450486,
+        "word": "男女捞地沟油路人质问反被怼",
+        "onboard_time": 1659269489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447514,
+        "num": 447514,
+        "word": "裴珠泫live图",
+        "onboard_time": 1659266128,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436788,
+        "num": 436788,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 16,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 372804,
+        "num": 372804,
+        "word": "CUBA总决赛",
+        "onboard_time": 1659266128,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335857,
+        "num": 335857,
+        "word": "阿兹海默症学术造假事件",
+        "onboard_time": 1659266070,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329586,
+        "num": 329586,
+        "word": "这5种明星食物有平价替代",
+        "onboard_time": 1659267927,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 418675,
+        "num": 322952,
+        "word": "周深邀请奔跑吧去他的家乡贵州",
+        "onboard_time": 1659267689,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307210,
+        "num": 307210,
+        "word": "郭俊辰一边读信一边哭",
+        "onboard_time": 1659268290,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305922,
+        "num": 305922,
+        "word": "王源分享做音乐",
+        "onboard_time": 1659271349,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285210,
+        "num": 285210,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 23,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 272898,
+        "num": 272898,
+        "word": "广工加油",
+        "onboard_time": 1659271707,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261520,
+        "num": 261520,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256720,
+        "num": 256720,
+        "word": "为什么独生子女一定要结婚",
+        "onboard_time": 1659252268,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239152,
+        "num": 239152,
+        "word": "记者暗访高价回收烟酒背后猫腻",
+        "onboard_time": 1659265947,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238012,
+        "num": 238012,
+        "word": "空军有足够能力捍卫国家主权和领土完整",
+        "onboard_time": 1659266249,
+        "rank": 28,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 214103,
+        "num": 237302,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301275,
+        "num": 237302,
+        "word": "华晨宇直播",
+        "onboard_time": 1659262650,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236784,
+        "num": 236784,
+        "word": "汪涵面试何炅",
+        "onboard_time": 1659249866,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219762,
+        "num": 219762,
+        "word": "范丞丞腿和腰各过各的",
+        "onboard_time": 1659271528,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213878,
+        "num": 213878,
+        "word": "AG最大问题",
+        "onboard_time": 1659271406,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203058,
+        "num": 203058,
+        "word": "橙子 老将不死",
+        "onboard_time": 1659266070,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199624,
+        "num": 199624,
+        "word": "小女孩骑滑板1小时去乡下找奶奶",
+        "onboard_time": 1659258987,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197314,
+        "num": 197314,
+        "word": "山西孟母文化园办电音节引争议",
+        "onboard_time": 1659270028,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191446,
+        "num": 191446,
+        "word": "解放军三大战区开展海上实弹演练",
+        "onboard_time": 1659255148,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 190165,
+        "num": 190165,
+        "word": "V5状态",
+        "onboard_time": 1659263306,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189186,
+        "num": 189186,
+        "word": "杭州地铁熊孩子不戴口罩舔玻璃",
+        "onboard_time": 1659256649,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186893,
+        "num": 186893,
+        "word": "林朝夕裴之回到草莓世界",
+        "onboard_time": 1659269908,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167576,
+        "num": 167576,
+        "word": "秦霄贤问李雪琴你有爸爸吗",
+        "onboard_time": 1659264628,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166183,
+        "num": 166183,
+        "word": "乌江榨菜回应网传消费者吃出脚指甲",
+        "onboard_time": 1659262289,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161495,
+        "num": 161495,
+        "word": "闪耀暖暖直播",
+        "onboard_time": 1659270028,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159151,
+        "num": 159151,
+        "word": "狗狗吵架时发现自己被拍后",
+        "onboard_time": 1659254429,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 159018,
+        "word": "陈国豪四犯",
+        "onboard_time": 1659272130,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158913,
+        "num": 158913,
+        "word": "哈利波特里最意难平的角色",
+        "onboard_time": 1659258627,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 323329,
+        "num": 153792,
+        "word": "令人心跳的舞台",
+        "onboard_time": 1659272369,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142809,
+        "num": 142809,
+        "word": "XYG战胜AG",
+        "onboard_time": 1659268349,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130965,
+        "num": 130965,
+        "word": "想念我花过的不必要的钱",
+        "onboard_time": 1659261270,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国新电商大会#"
+    }
+  }
+}

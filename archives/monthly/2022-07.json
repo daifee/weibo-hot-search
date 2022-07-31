@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1659271104528,
+  "endTime": 1659272377218,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -5653,6 +5653,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1085301,
+      "num": 1085301,
+      "word": "王嘉尔泰国好声音舞台",
+      "onboard_time": 1659270870,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1084527,
       "num": 1084527,
       "word": "22岁加班猝死女孩哥哥因车祸去世",
@@ -6864,6 +6872,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 926455,
+      "num": 926455,
+      "word": "一诺",
+      "onboard_time": 1659270330,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 924857,
       "num": 924857,
       "word": "双胞胎男婴晒太阳1个月肤色感人",
@@ -7435,6 +7451,14 @@
       "onboard_time": 1658388036,
       "rank": 21,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 857820,
+      "num": 857820,
+      "word": "清华大学vs广东工大",
+      "onboard_time": 1659268889,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 855395,
@@ -9027,14 +9051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710245,
-      "num": 710245,
-      "word": "王嘉尔泰国好声音舞台",
-      "onboard_time": 1659270870,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 709716,
       "num": 564737,
       "word": "许凯说我在害怕",
@@ -9208,14 +9224,6 @@
       "onboard_time": 1658302470,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 691950,
-      "num": 691950,
-      "word": "清华大学vs广东工大",
-      "onboard_time": 1659268889,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 691362,
@@ -11979,6 +11987,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 547046,
+      "num": 547046,
+      "word": "雷佳音哭着对张子枫说忙去吧",
+      "onboard_time": 1659269249,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 546845,
       "num": 546845,
       "word": "程少商终于知道了被偏爱的滋味",
@@ -13486,14 +13502,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 486846,
-      "num": 288198,
-      "word": "雷佳音哭着对张子枫说忙去吧",
-      "onboard_time": 1659269249,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 486562,
       "num": 486562,
       "word": "微信上线打车功能",
@@ -14583,6 +14591,14 @@
       "onboard_time": 1658454689,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 450486,
+      "num": 450486,
+      "word": "男女捞地沟油路人质问反被怼",
+      "onboard_time": 1659269489,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450376,
@@ -17327,7 +17343,7 @@
     },
     {
       "raw_hot": 386644,
-      "num": 286416,
+      "num": 307210,
       "word": "郭俊辰一边读信一边哭",
       "onboard_time": 1659268290,
       "rank": 22,
@@ -19945,6 +19961,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 329586,
+      "num": 329586,
+      "word": "这5种明星食物有平价替代",
+      "onboard_time": 1659267927,
+      "rank": 27,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 329473,
       "num": 329473,
       "word": "可折叠的iPhone要等到2025年",
@@ -19983,14 +20007,6 @@
       "onboard_time": 1658753853,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 328624,
-      "num": 328624,
-      "word": "男女捞地沟油路人质问反被怼",
-      "onboard_time": 1659269489,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328614,
@@ -20293,6 +20309,14 @@
       "onboard_time": 1658568755,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323329,
+      "num": 153792,
+      "word": "令人心跳的舞台",
+      "onboard_time": 1659272369,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 323277,
@@ -21193,6 +21217,14 @@
       "onboard_time": 1658216130,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305922,
+      "num": 305922,
+      "word": "王源分享做音乐",
+      "onboard_time": 1659271349,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 305902,
@@ -23272,6 +23304,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272898,
+      "num": 272898,
+      "word": "广工加油",
+      "onboard_time": 1659271707,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272819,
       "num": 272819,
       "word": "苏醒快乐再出发BGM",
@@ -23906,14 +23946,6 @@
       "onboard_time": 1658910152,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262918,
-      "num": 262918,
-      "word": "这5种明星食物有平价替代",
-      "onboard_time": 1659267927,
-      "rank": 27,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 262819,
@@ -26644,14 +26676,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223542,
-      "num": 223542,
-      "word": "一诺",
-      "onboard_time": 1659270330,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223396,
       "num": 223396,
       "word": "法国酒水加块冰需单加14元",
@@ -26840,6 +26864,14 @@
       "onboard_time": 1658472639,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 219762,
+      "num": 219762,
+      "word": "范丞丞腿和腰各过各的",
+      "onboard_time": 1659271528,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 219602,
@@ -27181,6 +27213,14 @@
       "word": "XYG对战WE",
       "onboard_time": 1658055512,
       "rank": 18
+    },
+    {
+      "raw_hot": 213878,
+      "num": 213878,
+      "word": "AG最大问题",
+      "onboard_time": 1659271406,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 213853,
@@ -30280,6 +30320,14 @@
       "onboard_time": 1658228434,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159018,
+      "num": 159018,
+      "word": "陈国豪四犯",
+      "onboard_time": 1659272130,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 158972,
