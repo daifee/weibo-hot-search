@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659303326925,
+  "endTime": 1659305987516,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -145,6 +145,14 @@
       "onboard_time": 1659276029,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 435907,
+      "num": 435907,
+      "word": "晚上睡不着可以白天补觉吗",
+      "onboard_time": 1659301271,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419344,
@@ -347,12 +355,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 190090,
-      "num": 190090,
-      "word": "晚上睡不着可以白天补觉吗",
-      "onboard_time": 1659301271,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 197609,
+      "num": 197609,
+      "word": "人在40岁时睡得最少",
+      "onboard_time": 1659299531,
+      "rank": 45,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 185464,
@@ -401,14 +409,6 @@
       "onboard_time": 1659277652,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156053,
-      "num": 60865,
-      "word": "人在40岁时睡得最少",
-      "onboard_time": 1659299531,
-      "rank": 45,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 148000,
@@ -507,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12281,
-      "num": 12281,
+      "raw_hot": 20627,
+      "num": 20627,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
       "onboard_time": 1659302111,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19535,
+      "num": 19535,
+      "word": "数学家丘成桐称很少教儿子数学",
+      "onboard_time": 1659305833,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

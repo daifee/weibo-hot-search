@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/01 05:35:26
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/01 06:19:47
 </p>
 </blockquote>
 <p>
@@ -119,6 +119,12 @@ NBA或因杜兰特停摆（热度：587336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E9%A9%BE%E7%85%A7%E7%9C%9F%E7%9A%84%E5%A4%AA%E9%9A%BE%E4%BA%86%23" target="weibo">
 考驾照真的太难了（热度：436000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%8F%AF%E4%BB%A5%E7%99%BD%E5%A4%A9%E8%A1%A5%E8%A7%89%E5%90%97%23" target="weibo">
+晚上睡不着可以白天补觉吗（热度：435907）
 </a>
 </li>
 
@@ -273,8 +279,8 @@ F1匈牙利大奖赛（热度：209161）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%8F%AF%E4%BB%A5%E7%99%BD%E5%A4%A9%E8%A1%A5%E8%A7%89%E5%90%97%23" target="weibo">
-晚上睡不着可以白天补觉吗（热度：190090）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A840%E5%B2%81%E6%97%B6%E7%9D%A1%E5%BE%97%E6%9C%80%E5%B0%91%23" target="weibo">
+人在40岁时睡得最少（热度：197609）
 </a>
 </li>
 
@@ -311,12 +317,6 @@ F1匈牙利大奖赛（热度：209161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%97%A5%E6%9B%BE%E5%88%B0%E5%8C%97%E4%BA%AC%E5%8D%97%E7%AB%99%E8%BF%99%E4%BA%9B%E7%82%B9%E4%BD%8D%E4%BA%BA%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E5%A4%87%23" target="weibo">
 近日曾到北京南站这些点位人员立即报备（热度：156053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A840%E5%B2%81%E6%97%B6%E7%9D%A1%E5%BE%97%E6%9C%80%E5%B0%91%23" target="weibo">
-人在40岁时睡得最少（热度：156053）
 </a>
 </li>
 
@@ -394,7 +394,13 @@ AG最大问题（热度：98719）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E6%96%B0%E5%89%A7%E6%9A%A7%E6%98%A7%E8%A1%A8%E7%99%BD%E8%8C%83%E4%B8%9E%E4%B8%9E%23" target="weibo">
-蓝盈莹新剧暧昧表白范丞丞（热度：12281）
+蓝盈莹新剧暧昧表白范丞丞（热度：20627）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%98%E6%88%90%E6%A1%90%E7%A7%B0%E5%BE%88%E5%B0%91%E6%95%99%E5%84%BF%E5%AD%90%E6%95%B0%E5%AD%A6%23" target="weibo">
+数学家丘成桐称很少教儿子数学（热度：19535）
 </a>
 </li>
 

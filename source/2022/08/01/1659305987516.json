@@ -1,0 +1,410 @@
+{
+  "runTime": 1659305987516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520237,
+        "num": 520237,
+        "word": "二舅",
+        "onboard_time": 1659277593,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435907,
+        "num": 435907,
+        "word": "晚上睡不着可以白天补觉吗",
+        "onboard_time": 1659301271,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14036,
+        "num": 333520,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303190,
+        "num": 303190,
+        "word": "警方认定网红用濒危大白鲨做美食",
+        "onboard_time": 1659277833,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241602,
+        "num": 241602,
+        "word": "网红男孩钟美美考上重点高中",
+        "onboard_time": 1659276627,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 203324,
+        "num": 203324,
+        "word": "男生带80斤女友健身变110斤美女",
+        "onboard_time": 1659275731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197609,
+        "num": 197609,
+        "word": "人在40岁时睡得最少",
+        "onboard_time": 1659299531,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 154813,
+        "num": 154813,
+        "word": "网传与凤行辣目洋子换成钟楚曦",
+        "onboard_time": 1659281311,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119239,
+        "num": 119239,
+        "word": "NBA或因杜兰特停摆",
+        "onboard_time": 1659283590,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111908,
+        "num": 111908,
+        "word": "上海相关区域开展3天2检全员核酸",
+        "onboard_time": 1659282809,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108658,
+        "num": 108658,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107884,
+        "num": 107884,
+        "word": "睡眠少了可能是你年纪大了",
+        "onboard_time": 1659298750,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101684,
+        "num": 101684,
+        "word": "张颖颖为家乡菏泽捐赠抗疫物资",
+        "onboard_time": 1659276990,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93515,
+        "num": 93515,
+        "word": "佩洛西8月1日到访新加坡",
+        "onboard_time": 1659267091,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 80908,
+        "num": 80908,
+        "word": "提子",
+        "onboard_time": 1659279214,
+        "rank": 14,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 78411,
+        "num": 78411,
+        "word": "一家三代四口人完成遗体捐献",
+        "onboard_time": 1659272728,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 77301,
+        "num": 77301,
+        "word": "20斤猫咪将幼猫夹腿下睡觉",
+        "onboard_time": 1659285384,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70510,
+        "num": 70510,
+        "word": "人民军队初心如炬征途如虹",
+        "onboard_time": 1659285623,
+        "rank": 17,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 69868,
+        "num": 69868,
+        "word": "美军里根号航母离开南海",
+        "onboard_time": 1659265409,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 69416,
+        "num": 69416,
+        "word": "考驾照真的太难了",
+        "onboard_time": 1659276029,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139539,
+        "num": 68456,
+        "word": "易烊千玺桃花坞VCR",
+        "onboard_time": 1659275910,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66139,
+        "num": 66139,
+        "word": "男子赶海忘关电锁涨潮后宝马被淹",
+        "onboard_time": 1659277291,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62160,
+        "num": 62160,
+        "word": "邓紫棋失恋emo了",
+        "onboard_time": 1659267091,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57665,
+        "num": 57665,
+        "word": "独行月球片尾11个字看破防了",
+        "onboard_time": 1659278973,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55357,
+        "num": 55357,
+        "word": "解放军建军95周年",
+        "onboard_time": 1659290115,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 53244,
+        "num": 53244,
+        "word": "00后女生扛刀面试成功",
+        "onboard_time": 1659284127,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52929,
+        "num": 52929,
+        "word": "徐志胜给李雪琴画腮红转了19圈",
+        "onboard_time": 1659282093,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49095,
+        "num": 49095,
+        "word": "全国一共有156173个王刚",
+        "onboard_time": 1659275130,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47411,
+        "num": 47411,
+        "word": "七月再见八月你好",
+        "onboard_time": 1659283350,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45656,
+        "num": 45656,
+        "word": "郭艾伦 发点啥都会被过度分析和解读",
+        "onboard_time": 1659277951,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46224,
+        "num": 45126,
+        "word": "古天乐回应宣萱李若彤落水先救谁",
+        "onboard_time": 1659279812,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44339,
+        "num": 44339,
+        "word": "八一建军节",
+        "onboard_time": 1659292812,
+        "rank": 31,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 43872,
+        "num": 43872,
+        "word": "男子穿短袖误困冰库机智报警自救",
+        "onboard_time": 1659278192,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42450,
+        "num": 42450,
+        "word": "吐鲁番一串葡萄有手臂那么长",
+        "onboard_time": 1659264449,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41204,
+        "num": 41204,
+        "word": "杨幂线上演唱会彩排照",
+        "onboard_time": 1659278793,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35941,
+        "num": 35941,
+        "word": "赵让回应内娱没有舞台",
+        "onboard_time": 1659281130,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34475,
+        "num": 34475,
+        "word": "雨嘉去世了",
+        "onboard_time": 1659282692,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34165,
+        "num": 34165,
+        "word": "第四例艾滋病治愈者或已出现",
+        "onboard_time": 1659265706,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29761,
+        "num": 29761,
+        "word": "一条plog告别七月",
+        "onboard_time": 1659291613,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27388,
+        "num": 27388,
+        "word": "谢谢你们守护安全感",
+        "onboard_time": 1659290954,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 27368,
+        "word": "月升沧海",
+        "onboard_time": 1659275851,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27055,
+        "num": 27055,
+        "word": "清华大学夺得CUBA总冠军",
+        "onboard_time": 1659274593,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25837,
+        "num": 25837,
+        "word": "点赞强军",
+        "onboard_time": 1659279153,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 25690,
+        "num": 25690,
+        "word": "闪耀暖暖三周年",
+        "onboard_time": 1659284788,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20627,
+        "num": 20627,
+        "word": "蓝盈莹新剧暧昧表白范丞丞",
+        "onboard_time": 1659302111,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20446,
+        "num": 20446,
+        "word": "墟空中的星芒",
+        "onboard_time": 1659284006,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19746,
+        "num": 19746,
+        "word": "F1匈牙利大奖赛",
+        "onboard_time": 1659284365,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 19535,
+        "word": "数学家丘成桐称很少教儿子数学",
+        "onboard_time": 1659305833,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18632,
+        "num": 18632,
+        "word": "法拉利 战术",
+        "onboard_time": 1659278793,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17805,
+        "num": 17805,
+        "word": "广东工业大学虽败犹荣",
+        "onboard_time": 1659275012,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年八一陪你站岗#"
+    }
+  }
+}
