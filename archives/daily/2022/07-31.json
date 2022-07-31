@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659239949469,
+  "endTime": 1659240615887,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058666,
+      "num": 1058666,
+      "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+      "onboard_time": 1659239071,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994003,
       "num": 994003,
       "word": "张小斐贾玲 今晚换我为你鼓掌",
@@ -169,6 +177,14 @@
       "onboard_time": 1659194736,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 746294,
+      "num": 746294,
+      "word": "中国第一地下军团被复活",
+      "onboard_time": 1659238528,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736616,
@@ -275,12 +291,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 528614,
-      "num": 528614,
-      "word": "中国第一地下军团被复活",
-      "onboard_time": 1659238528,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 529803,
+      "num": 529803,
+      "word": "薅羊毛薅到了境外赌博平台上",
+      "onboard_time": 1659236791,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 522045,
@@ -291,12 +307,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 509293,
-      "num": 509293,
-      "word": "薅羊毛薅到了境外赌博平台上",
-      "onboard_time": 1659236791,
-      "rank": 13,
-      "category": "社会新闻,财经"
+      "raw_hot": 512918,
+      "num": 512918,
+      "word": "运油20和歼16开展海上空中加油训练",
+      "onboard_time": 1659238768,
+      "rank": 23,
+      "category": "军事"
     },
     {
       "raw_hot": 504836,
@@ -328,14 +344,6 @@
       "word": "猴痘",
       "onboard_time": 1659185674,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467910,
-      "num": 467910,
-      "word": "11个月宝宝因好奇拔掉亲妈氧气管",
-      "onboard_time": 1659239071,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1659191257,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372196,
-      "num": 372196,
-      "word": "运油20和歼16开展海上空中加油训练",
-      "onboard_time": 1659238768,
-      "rank": 23,
-      "category": "军事"
     },
     {
       "raw_hot": 366796,
@@ -513,6 +513,14 @@
       "onboard_time": 1659215471,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323017,
+      "num": 323017,
+      "word": "利路修向前冲落水",
+      "onboard_time": 1659240090,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 312676,
@@ -699,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 227855,
+      "num": 227855,
+      "word": "猫咪眼巴巴盯鱼钓友被萌化果断送鱼",
+      "onboard_time": 1659238890,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226984,
       "num": 739372,
       "word": "最低票价仅1元的慢火车",
@@ -713,14 +729,6 @@
       "onboard_time": 1659169350,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222057,
-      "num": 222057,
-      "word": "猫咪眼巴巴盯鱼钓友被萌化果断送鱼",
-      "onboard_time": 1659238890,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219526,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 175945,
-      "num": 156180,
+      "num": 164014,
       "word": "8月新规",
       "onboard_time": 1659239910,
       "rank": 47,
@@ -1099,7 +1107,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18392,
+      "raw_hot": 28962,
       "num": 1939671,
       "word": "致敬人民子弟兵",
       "onboard_time": 1659173434,
