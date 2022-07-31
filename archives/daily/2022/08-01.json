@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659309687122,
+  "endTime": 1659310610149,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -9,6 +9,14 @@
       "onboard_time": 1659277593,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2178351,
+      "num": 2178351,
+      "word": "比尔拉塞尔离世",
+      "onboard_time": 1659309261,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1927725,
@@ -75,12 +83,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611841,
-      "num": 611841,
+      "raw_hot": 821106,
+      "num": 821106,
       "word": "睡眠少了可能是你年纪大了",
       "onboard_time": 1659298750,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625736,
+      "num": 625736,
+      "word": "八一天安门广场升旗仪式",
+      "onboard_time": 1659309081,
+      "rank": 18,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 587336,
@@ -88,14 +104,6 @@
       "word": "NBA或因杜兰特停摆",
       "onboard_time": 1659283590,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 581073,
-      "num": 581073,
-      "word": "比尔拉塞尔离世",
-      "onboard_time": 1659309261,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -112,6 +120,14 @@
       "word": "第四例艾滋病治愈者或已出现",
       "onboard_time": 1659265706,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528175,
+      "num": 528175,
+      "word": "90后双胞胎成立男生家政公司",
+      "onboard_time": 1659308419,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466969,
+      "num": 466969,
+      "word": "内蒙古一景区骆驼鼻子上插木棍",
+      "onboard_time": 1659307457,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463465,
       "num": 463465,
       "word": "赵让回应内娱没有舞台",
@@ -153,6 +177,14 @@
       "onboard_time": 1659279812,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 447991,
+      "num": 447991,
+      "word": "20斤猫咪将幼猫夹腿下睡觉",
+      "onboard_time": 1659285384,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439350,
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 419344,
-      "num": 268574,
+      "num": 346033,
       "word": "独行月球片尾11个字看破防了",
       "onboard_time": 1659278973,
       "rank": 30,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 408888,
-      "num": 276212,
+      "num": 302363,
       "word": "张颖颖为家乡菏泽捐赠抗疫物资",
       "onboard_time": 1659276990,
       "rank": 31,
@@ -203,28 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370031,
-      "num": 370031,
-      "word": "20斤猫咪将幼猫夹腿下睡觉",
-      "onboard_time": 1659285384,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359907,
       "num": 207410,
       "word": "徐志胜给李雪琴画腮红转了19圈",
       "onboard_time": 1659282093,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358058,
-      "num": 358058,
-      "word": "内蒙古一景区骆驼鼻子上插木棍",
-      "onboard_time": 1659307457,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337090,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327706,
+      "num": 327706,
+      "word": "数学家丘成桐称很少教儿子数学",
+      "onboard_time": 1659305833,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295522,
       "num": 295522,
       "word": "八一建军节",
@@ -257,14 +281,6 @@
       "onboard_time": 1659283290,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283099,
-      "num": 283099,
-      "word": "数学家丘成桐称很少教儿子数学",
-      "onboard_time": 1659305833,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282721,
@@ -291,12 +307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259444,
-      "num": 259444,
-      "word": "90后双胞胎成立男生家政公司",
-      "onboard_time": 1659308419,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 260158,
+      "num": 260158,
+      "word": "BLACKPINK回归预告",
+      "onboard_time": 1659309803,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 258413,
@@ -339,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233435,
-      "num": 233435,
-      "word": "八一天安门广场升旗仪式",
-      "onboard_time": 1659309081,
-      "rank": 18,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 232911,
       "num": 232911,
       "word": "佩洛西8月1日到访新加坡",
@@ -355,12 +363,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 226648,
+      "num": 226648,
+      "word": "为什么睡眠不足时胃口会变好",
+      "onboard_time": 1659310346,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225801,
       "num": 225801,
       "word": "闪耀暖暖三周年",
       "onboard_time": 1659284788,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215213,
+      "num": 215213,
+      "word": "独行月球票房破10亿",
+      "onboard_time": 1659309922,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "00后如何看待职场酒桌文化",
+      "onboard_time": 1659308780,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212282,
@@ -467,6 +499,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 132241,
+      "num": 110695,
+      "word": "恋爱中对方向你借钱该借吗",
+      "onboard_time": 1659310162,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126164,
       "num": 126164,
       "word": "如果我没上过大学",
@@ -475,12 +515,12 @@
       "category": "社会议题,教育"
     },
     {
-      "raw_hot": 120924,
-      "num": 120924,
-      "word": "00后如何看待职场酒桌文化",
-      "onboard_time": 1659308780,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 121757,
+      "num": 110105,
+      "word": "螺蛳粉臭豆腐肥肠锅能有多臭",
+      "onboard_time": 1659310405,
+      "rank": 41,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 113534,
@@ -523,12 +563,28 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 79183,
+      "num": 79183,
+      "word": "梅西生涯第41冠",
+      "onboard_time": 1659310464,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "点赞强军",
       "onboard_time": 1659279153,
       "rank": 48,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 57336,
+      "num": 1619934,
+      "word": "致敬人民子弟兵",
+      "onboard_time": 1659173434,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52417,
@@ -545,14 +601,6 @@
       "onboard_time": 1659290954,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 40940,
-      "num": 1524918,
-      "word": "致敬人民子弟兵",
-      "onboard_time": 1659173434,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28848,
