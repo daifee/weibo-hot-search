@@ -1,0 +1,410 @@
+{
+  "runTime": 1659260186408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2396138,
+        "num": 2396138,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407433,
+        "num": 1407433,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 46821,
+        "num": 1313277,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222278,
+        "num": 1222278,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 3,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1113675,
+        "num": 1113675,
+        "word": "解放军三大战区开展海上实弹演练",
+        "onboard_time": 1659255148,
+        "rank": 4,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 2608093,
+        "num": 1061360,
+        "word": "百花奖评委回应沈腾海清周也0票",
+        "onboard_time": 1659257249,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881910,
+        "num": 881910,
+        "word": "俄气已停止向欧洲6国供应天然气",
+        "onboard_time": 1659255388,
+        "rank": 6,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 838967,
+        "num": 838967,
+        "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+        "onboard_time": 1659245189,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 819659,
+        "num": 819659,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733848,
+        "num": 733848,
+        "word": "老林被绑架",
+        "onboard_time": 1659259230,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662077,
+        "num": 662077,
+        "word": "北京海淀1人核酸结果阳性",
+        "onboard_time": 1659258391,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617311,
+        "num": 617311,
+        "word": "汪涵面试何炅",
+        "onboard_time": 1659249866,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591134,
+        "num": 591134,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562196,
+        "num": 562196,
+        "word": "38岁女儿不工作不恋爱母亲愁哭",
+        "onboard_time": 1659235348,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549850,
+        "num": 549850,
+        "word": "王一博刘雨昕韩庚李承铉街舞5花絮",
+        "onboard_time": 1659258028,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540475,
+        "num": 540475,
+        "word": "蔡徐坤参加奔跑吧是为了锻炼身体",
+        "onboard_time": 1659256049,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515139,
+        "num": 515139,
+        "word": "杭州地铁熊孩子不戴口罩舔玻璃",
+        "onboard_time": 1659256649,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385884,
+        "num": 385884,
+        "word": "狗狗吵架时发现自己被拍后",
+        "onboard_time": 1659254429,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368172,
+        "num": 368172,
+        "word": "成都暴雨",
+        "onboard_time": 1659259409,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349131,
+        "num": 349131,
+        "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+        "onboard_time": 1659239071,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603907,
+        "num": 347643,
+        "word": "为什么独生子女一定要结婚",
+        "onboard_time": 1659252268,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504103,
+        "num": 339986,
+        "word": "BLACKPINK虚拟演出搭配图",
+        "onboard_time": 1659259589,
+        "rank": 21,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 482025,
+        "num": 329006,
+        "word": "Wendy生图好美",
+        "onboard_time": 1659244889,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443007,
+        "num": 328420,
+        "word": "陈哲远 偷偷藏不住",
+        "onboard_time": 1659249569,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321786,
+        "num": 321786,
+        "word": "54岁洗碗厂女工热射病死亡",
+        "onboard_time": 1659241230,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 285799,
+        "num": 285799,
+        "word": "空军多型战机绕飞祖国宝岛",
+        "onboard_time": 1659242728,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 276667,
+        "num": 276667,
+        "word": "建议午睡不要超过半小时",
+        "onboard_time": 1659197069,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267036,
+        "num": 267036,
+        "word": "老人景区占座起冲突用婴儿车砸人",
+        "onboard_time": 1659256049,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 263344,
+        "num": 263344,
+        "word": "小女孩骑滑板1小时去乡下找奶奶",
+        "onboard_time": 1659258987,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244876,
+        "num": 244876,
+        "word": "河北一驾校教练车只有骨架",
+        "onboard_time": 1659245791,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413521,
+        "num": 244724,
+        "word": "丁程鑫耍帅屡战屡败",
+        "onboard_time": 1659259949,
+        "rank": 30,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 340742,
+        "num": 238849,
+        "word": "杨紫颜淡片场一秒落泪花絮",
+        "onboard_time": 1659255148,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326334,
+        "num": 236238,
+        "word": "ITZY末放",
+        "onboard_time": 1659259647,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277011,
+        "num": 229534,
+        "word": "期待下一季在奔跑吧听周深唱歌",
+        "onboard_time": 1659258449,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228594,
+        "num": 228594,
+        "word": "哈利波特里最意难平的角色",
+        "onboard_time": 1659258627,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 246177,
+        "num": 226765,
+        "word": "张嘉益说林大为忍一忍四十集就过去了",
+        "onboard_time": 1659258748,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212423,
+        "num": 212423,
+        "word": "爱一个人的眼神真的藏不住",
+        "onboard_time": 1659251068,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199057,
+        "num": 199057,
+        "word": "闪耀暖暖 打电话",
+        "onboard_time": 1659254849,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192549,
+        "num": 192549,
+        "word": "民警晨练时多看一眼救下一条命",
+        "onboard_time": 1659257128,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137653,
+        "num": 188234,
+        "word": "这才叫真免单",
+        "onboard_time": 1659258028,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221996,
+        "num": 188084,
+        "word": "你期待偷偷藏不住吗",
+        "onboard_time": 1659259051,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187877,
+        "num": 187877,
+        "word": "中国女兵太飒了",
+        "onboard_time": 1659259290,
+        "rank": 41,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 182497,
+        "num": 182497,
+        "word": "广州疫情防控",
+        "onboard_time": 1659246149,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166101,
+        "num": 166101,
+        "word": "疯狗扑咬幼童家养犬飞奔相护",
+        "onboard_time": 1659248069,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158516,
+        "num": 158516,
+        "word": "佩洛西行程声明未提及台湾",
+        "onboard_time": 1659246808,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 131975,
+        "num": 131975,
+        "word": "第一次当妈没有经验的猫咪",
+        "onboard_time": 1659244590,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128805,
+        "num": 128805,
+        "word": "热射病为何致死率这么高",
+        "onboard_time": 1659258028,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123326,
+        "num": 123326,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 47,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 111603,
+        "num": 111603,
+        "word": "中国第一地下军团被复活",
+        "onboard_time": 1659238528,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104321,
+        "num": 104321,
+        "word": "长春警方通报网民冒充身份诽谤官员父子",
+        "onboard_time": 1659250828,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京申冬奥成功7周年#"
+    }
+  }
+}

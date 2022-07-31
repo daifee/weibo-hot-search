@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659259177100,
+  "endTime": 1659260186408,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -203,6 +203,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1222278,
+      "num": 1222278,
+      "word": "美空军宣布F35机队暂停飞行",
+      "onboard_time": 1659257967,
+      "rank": 10,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1205272,
       "num": 1205272,
       "word": "偷偷藏不住",
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 885549,
-      "num": 661298,
-      "word": "美空军宣布F35机队暂停飞行",
-      "onboard_time": 1659257967,
-      "rank": 10,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 883817,
       "num": 661469,
       "word": "结婚16年3孩均非亲生事件双方发声",
@@ -297,6 +297,14 @@
       "onboard_time": 1659222438,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 819659,
+      "num": 819659,
+      "word": "3孩均非亲生事件第三人发声",
+      "onboard_time": 1659257789,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784202,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 733848,
+      "num": 733848,
+      "word": "老林被绑架",
+      "onboard_time": 1659259230,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675940,
       "num": 675940,
       "word": "3岁娃喊头疼做CT前躺地自转20分钟",
@@ -377,6 +393,14 @@
       "onboard_time": 1659256049,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 662077,
+      "num": 662077,
+      "word": "北京海淀1人核酸结果阳性",
+      "onboard_time": 1659258391,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658722,
@@ -457,6 +481,14 @@
       "onboard_time": 1659247529,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591134,
+      "num": 591134,
+      "word": "独行月球",
+      "onboard_time": 1659169350,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 586275,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504103,
+      "num": 339986,
+      "word": "BLACKPINK虚拟演出搭配图",
+      "onboard_time": 1659259589,
+      "rank": 21,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 493864,
       "num": 493864,
       "word": "不要和小吃店的老板太熟",
@@ -600,14 +640,6 @@
       "word": "猴痘",
       "onboard_time": 1659185674,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477214,
-      "num": 477214,
-      "word": "3孩均非亲生事件第三人发声",
-      "onboard_time": 1659257789,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -659,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441818,
-      "num": 441818,
-      "word": "北京海淀1人核酸结果阳性",
-      "onboard_time": 1659258391,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439423,
       "num": 439423,
       "word": "午睡时间过长睡眠易陷入恶性循环",
@@ -713,6 +737,14 @@
       "onboard_time": 1659237687,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413521,
+      "num": 244724,
+      "word": "丁程鑫耍帅屡战屡败",
+      "onboard_time": 1659259949,
+      "rank": 30,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 413479,
@@ -800,6 +832,14 @@
       "word": "长春警方通报网民冒充身份诽谤官员父子",
       "onboard_time": 1659250828,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368172,
+      "num": 368172,
+      "word": "成都暴雨",
+      "onboard_time": 1659259409,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -929,6 +969,14 @@
       "onboard_time": 1659215471,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326334,
+      "num": 236238,
+      "word": "ITZY末放",
+      "onboard_time": 1659259647,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 323979,
@@ -1075,6 +1123,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 267036,
+      "num": 267036,
+      "word": "老人景区占座起冲突用婴儿车砸人",
+      "onboard_time": 1659256049,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 263344,
+      "num": 263344,
+      "word": "小女孩骑滑板1小时去乡下找奶奶",
+      "onboard_time": 1659258987,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260527,
       "num": 260527,
       "word": "男子假冒扶贫办人员入室偷老人钱",
@@ -1147,19 +1211,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 250224,
-      "num": 250224,
-      "word": "老人景区占座起冲突用婴儿车砸人",
-      "onboard_time": 1659256049,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 248090,
-      "num": 138872,
-      "word": "独行月球",
-      "onboard_time": 1659169350,
-      "rank": 40,
+      "raw_hot": 246177,
+      "num": 226765,
+      "word": "张嘉益说林大为忍一忍四十集就过去了",
+      "onboard_time": 1659258748,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1227,14 +1283,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 230869,
-      "num": 215107,
-      "word": "张嘉益说林大为忍一忍四十集就过去了",
-      "onboard_time": 1659258748,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230313,
       "num": 230313,
       "word": "把自己和鱼一起放生的小猫",
@@ -1251,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228594,
+      "num": 228594,
+      "word": "哈利波特里最意难平的角色",
+      "onboard_time": 1659258627,
+      "rank": 38,
+      "category": "其它"
+    },
+    {
       "raw_hot": 227855,
       "num": 227855,
       "word": "猫咪眼巴巴盯鱼钓友被萌化果断送鱼",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1659214631,
       "rank": 48,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 221996,
+      "num": 188084,
+      "word": "你期待偷偷藏不住吗",
+      "onboard_time": 1659259051,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 219526,
@@ -1371,12 +1435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188397,
-      "num": 153526,
-      "word": "你期待偷偷藏不住吗",
-      "onboard_time": 1659259051,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 187877,
+      "num": 187877,
+      "word": "中国女兵太飒了",
+      "onboard_time": 1659259290,
+      "rank": 41,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 186044,
@@ -1449,14 +1513,6 @@
       "onboard_time": 1659183872,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170472,
-      "num": 170472,
-      "word": "哈利波特里最意难平的角色",
-      "onboard_time": 1659258627,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 168785,
@@ -1555,12 +1611,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 137969,
-      "num": 137969,
-      "word": "小女孩骑滑板1小时去乡下找奶奶",
-      "onboard_time": 1659258987,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 137653,
+      "num": 188234,
+      "word": "这才叫真免单",
+      "onboard_time": 1659258028,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 136349,
@@ -1609,6 +1665,14 @@
       "onboard_time": 1659208932,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123326,
+      "num": 123326,
+      "word": "如果我没上过大学",
+      "onboard_time": 1659259949,
+      "rank": 47,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 120596,
@@ -1729,14 +1793,6 @@
       "onboard_time": 1659202578,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54480,
-      "num": 154584,
-      "word": "这才叫真免单",
-      "onboard_time": 1659258028,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 52753,

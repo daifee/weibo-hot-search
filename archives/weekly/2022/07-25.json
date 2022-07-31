@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659259177100,
+  "endTime": 1659260186408,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222278,
+      "num": 1222278,
+      "word": "美空军宣布F35机队暂停飞行",
+      "onboard_time": 1659257967,
+      "rank": 10,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1217724,
       "num": 1217724,
       "word": "猴痘",
@@ -3275,14 +3283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 885549,
-      "num": 661298,
-      "word": "美空军宣布F35机队暂停飞行",
-      "onboard_time": 1659257967,
-      "rank": 10,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 883817,
       "num": 661469,
       "word": "结婚16年3孩均非亲生事件双方发声",
@@ -3529,6 +3529,14 @@
       "onboard_time": 1659188676,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 819659,
+      "num": 819659,
+      "word": "3孩均非亲生事件第三人发声",
+      "onboard_time": 1659257789,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816394,
@@ -4019,6 +4027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 733848,
+      "num": 733848,
+      "word": "老林被绑架",
+      "onboard_time": 1659259230,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 731581,
       "num": 731581,
       "word": "奔跑吧今晚是黄金争夺战",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1659156087,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 662077,
+      "num": 662077,
+      "word": "北京海淀1人核酸结果阳性",
+      "onboard_time": 1659258391,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661934,
@@ -6059,6 +6083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 504103,
+      "num": 339986,
+      "word": "BLACKPINK虚拟演出搭配图",
+      "onboard_time": 1659259589,
+      "rank": 21,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 502630,
       "num": 502630,
       "word": "你好星期六官博置顶杨紫檀健次",
@@ -6425,14 +6457,6 @@
       "onboard_time": 1658729853,
       "rank": 16,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 477214,
-      "num": 477214,
-      "word": "3孩均非亲生事件第三人发声",
-      "onboard_time": 1659257789,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476386,
@@ -7083,14 +7107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441818,
-      "num": 441818,
-      "word": "北京海淀1人核酸结果阳性",
-      "onboard_time": 1659258391,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441091,
       "num": 424233,
       "word": "星汉灿烂",
@@ -7641,6 +7657,14 @@
       "onboard_time": 1658739037,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 413521,
+      "num": 244724,
+      "word": "丁程鑫耍帅屡战屡败",
+      "onboard_time": 1659259949,
+      "rank": 30,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 413518,
@@ -8643,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368172,
+      "num": 368172,
+      "word": "成都暴雨",
+      "onboard_time": 1658886870,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368099,
       "num": 368099,
       "word": "Ning 饭堂",
@@ -9625,6 +9657,14 @@
       "onboard_time": 1659071734,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326334,
+      "num": 236238,
+      "word": "ITZY末放",
+      "onboard_time": 1659259647,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 325708,
@@ -10683,14 +10723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289604,
-      "num": 289604,
-      "word": "成都暴雨",
-      "onboard_time": 1658886870,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289537,
       "num": 289537,
       "word": "最高检对于鲁明决定逮捕",
@@ -11419,6 +11451,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 267036,
+      "num": 267036,
+      "word": "老人景区占座起冲突用婴儿车砸人",
+      "onboard_time": 1659256049,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 266812,
       "num": 266812,
       "word": "百日行动抓获犯罪嫌疑人7.2万名",
@@ -11552,6 +11592,14 @@
       "word": "被祖国大好河山惊艳到了",
       "onboard_time": 1659187480,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263344,
+      "num": 263344,
+      "word": "小女孩骑滑板1小时去乡下找奶奶",
+      "onboard_time": 1659258987,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -11963,14 +12011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250224,
-      "num": 250224,
-      "word": "老人景区占座起冲突用婴儿车砸人",
-      "onboard_time": 1659256049,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 250077,
       "num": 250077,
       "word": "第五人格",
@@ -12081,6 +12121,14 @@
       "onboard_time": 1658778792,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 246177,
+      "num": 226765,
+      "word": "张嘉益说林大为忍一忍四十集就过去了",
+      "onboard_time": 1659258748,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 246035,
@@ -12571,14 +12619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230869,
-      "num": 215107,
-      "word": "张嘉益说林大为忍一忍四十集就过去了",
-      "onboard_time": 1659258748,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230734,
       "num": 230734,
       "word": "中国航天员首次在轨进入科学实验舱",
@@ -12681,6 +12721,14 @@
       "onboard_time": 1659060693,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228594,
+      "num": 228594,
+      "word": "哈利波特里最意难平的角色",
+      "onboard_time": 1659258627,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 228467,
@@ -12887,6 +12935,14 @@
       "num": 188966,
       "word": "蓝盈莹范丞丞新剧恋爱约法三章",
       "onboard_time": 1659148588,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221996,
+      "num": 188084,
+      "word": "你期待偷偷藏不住吗",
+      "onboard_time": 1659259051,
       "rank": 40,
       "category": "影视"
     },
@@ -13731,12 +13787,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188397,
-      "num": 153526,
-      "word": "你期待偷偷藏不住吗",
-      "onboard_time": 1659259051,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 187877,
+      "num": 187877,
+      "word": "中国女兵太飒了",
+      "onboard_time": 1659259290,
+      "rank": 41,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 187828,
@@ -14129,14 +14185,6 @@
       "onboard_time": 1658920411,
       "rank": 46,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 170472,
-      "num": 170472,
-      "word": "哈利波特里最意难平的角色",
-      "onboard_time": 1659258627,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 170298,
@@ -14699,12 +14747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137969,
-      "num": 137969,
-      "word": "小女孩骑滑板1小时去乡下找奶奶",
-      "onboard_time": 1659258987,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 137653,
+      "num": 188234,
+      "word": "这才叫真免单",
+      "onboard_time": 1659258028,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 137486,
@@ -14849,6 +14897,14 @@
       "onboard_time": 1659039251,
       "rank": 46,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 123326,
+      "num": 123326,
+      "word": "如果我没上过大学",
+      "onboard_time": 1659259949,
+      "rank": 47,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 123020,
@@ -15241,14 +15297,6 @@
       "onboard_time": 1658691911,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54480,
-      "num": 154584,
-      "word": "这才叫真免单",
-      "onboard_time": 1659258028,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 52488,
