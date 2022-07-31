@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659299826509,
+  "endTime": 1659302282153,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261321,
+      "num": 261321,
+      "word": "睡眠少了可能是你年纪大了",
+      "onboard_time": 1659298750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258413,
       "num": 109298,
       "word": "林妙妙被尾随",
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113381,
+      "num": 31016,
+      "word": "人在40岁时睡得最少",
+      "onboard_time": 1659299531,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 110537,
       "num": 110537,
       "word": "清华大学夺得CUBA总冠军",
@@ -443,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83141,
-      "num": 83141,
-      "word": "睡眠少了可能是你年纪大了",
-      "onboard_time": 1659298750,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "点赞强军",
@@ -465,6 +473,14 @@
       "onboard_time": 1659290115,
       "rank": 27,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 56399,
+      "num": 49489,
+      "word": "晚上睡不着可以白天补觉吗",
+      "onboard_time": 1659301271,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52417,
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14722,
-      "num": 14722,
-      "word": "人在40岁时睡得最少",
-      "onboard_time": 1659299531,
-      "rank": 45,
-      "category": "社会新闻,情感"
+      "raw_hot": 12281,
+      "num": 12281,
+      "word": "蓝盈莹新剧暧昧表白范丞丞",
+      "onboard_time": 1659302111,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
