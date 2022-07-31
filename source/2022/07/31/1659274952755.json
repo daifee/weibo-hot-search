@@ -1,0 +1,410 @@
+{
+  "runTime": 1659274952755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2471239,
+        "num": 2471239,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929841,
+        "num": 1929841,
+        "word": "一诺",
+        "onboard_time": 1659270330,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51778,
+        "num": 1702827,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1649858,
+        "num": 1649858,
+        "word": "清华大学vs广东工大",
+        "onboard_time": 1659268889,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1115331,
+        "num": 1115331,
+        "word": "第四例艾滋病治愈者或已出现",
+        "onboard_time": 1659265706,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034282,
+        "num": 1034282,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1027531,
+        "num": 1027531,
+        "word": "邓紫棋失恋emo了",
+        "onboard_time": 1659267091,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 939745,
+        "num": 939745,
+        "word": "佩洛西8月1日到访新加坡",
+        "onboard_time": 1659267091,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 878531,
+        "num": 878531,
+        "word": "王嘉尔泰国好声音舞台",
+        "onboard_time": 1659270870,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823942,
+        "num": 823942,
+        "word": "一家三代四口人完成遗体捐献",
+        "onboard_time": 1659272728,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 781016,
+        "num": 781016,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667827,
+        "num": 667827,
+        "word": "CUBA总决赛",
+        "onboard_time": 1659266128,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608121,
+        "num": 608121,
+        "word": "美军里根号航母离开南海",
+        "onboard_time": 1659265409,
+        "rank": 12,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 546579,
+        "num": 546579,
+        "word": "百花奖评委回应沈腾海清周也0票",
+        "onboard_time": 1659257249,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531873,
+        "num": 531873,
+        "word": "雷佳音哭着对张子枫说忙去吧",
+        "onboard_time": 1659269249,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494810,
+        "num": 494810,
+        "word": "时代少年团眼神破碎感",
+        "onboard_time": 1659272847,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477421,
+        "num": 477421,
+        "word": "吐鲁番一串葡萄有手臂那么长",
+        "onboard_time": 1659264449,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461617,
+        "num": 461617,
+        "word": "男女捞地沟油路人质问反被怼",
+        "onboard_time": 1659269489,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452002,
+        "num": 452002,
+        "word": "陈国豪四犯",
+        "onboard_time": 1659272130,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394016,
+        "num": 394016,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 19,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 433126,
+        "num": 378290,
+        "word": "EXO咆哮发行9周年",
+        "onboard_time": 1659273932,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349918,
+        "num": 349918,
+        "word": "裴珠泫live图",
+        "onboard_time": 1659266128,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339942,
+        "num": 339942,
+        "word": "汪苏泷眼泪落下之前首唱",
+        "onboard_time": 1659273932,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326256,
+        "num": 326256,
+        "word": "天津核酸",
+        "onboard_time": 1659273452,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303247,
+        "num": 303247,
+        "word": "广工加油",
+        "onboard_time": 1659271707,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302067,
+        "num": 302067,
+        "word": "清华大学夺得CUBA总冠军",
+        "onboard_time": 1659274593,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298662,
+        "num": 298662,
+        "word": "AG最大问题",
+        "onboard_time": 1659271406,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292432,
+        "num": 292432,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 27,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 291396,
+        "num": 291396,
+        "word": "这5种明星食物有平价替代",
+        "onboard_time": 1659267927,
+        "rank": 28,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 278029,
+        "num": 278029,
+        "word": "广东工大半场领先清华大学3分",
+        "onboard_time": 1659274530,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316901,
+        "num": 277918,
+        "word": "范丞丞腿和腰各过各的",
+        "onboard_time": 1659271528,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291833,
+        "num": 277885,
+        "word": "周深邀请奔跑吧去他的家乡贵州",
+        "onboard_time": 1659267689,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277657,
+        "num": 277657,
+        "word": "华晨宇直播",
+        "onboard_time": 1659262650,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244322,
+        "num": 244322,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 239787,
+        "num": 239787,
+        "word": "阿兹海默症学术造假事件",
+        "onboard_time": 1659266070,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237135,
+        "num": 237135,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236474,
+        "num": 236474,
+        "word": "全美累计猴痘确诊病例5189例",
+        "onboard_time": 1659272790,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219169,
+        "num": 219169,
+        "word": "尹浩宇在桃花坞办了音乐会",
+        "onboard_time": 1659272908,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202676,
+        "num": 202676,
+        "word": "小女孩骑滑板1小时去乡下找奶奶",
+        "onboard_time": 1659258987,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201230,
+        "num": 201230,
+        "word": "山西孟母文化园办电音节引争议",
+        "onboard_time": 1659270028,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215540,
+        "num": 200911,
+        "word": "郭俊辰一边读信一边哭",
+        "onboard_time": 1659268290,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197660,
+        "num": 197660,
+        "word": "为什么独生子女一定要结婚",
+        "onboard_time": 1659252268,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194628,
+        "num": 194628,
+        "word": "清华大学CUBA三连冠",
+        "onboard_time": 1659274832,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194358,
+        "num": 194358,
+        "word": "全网最会滑滑板的狗子",
+        "onboard_time": 1659273748,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187452,
+        "num": 187452,
+        "word": "哈利波特里最意难平的角色",
+        "onboard_time": 1659258627,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 176853,
+        "num": 176853,
+        "word": "极限挑战",
+        "onboard_time": 1659270086,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171637,
+        "num": 171637,
+        "word": "空军有足够能力捍卫国家主权和领土完整",
+        "onboard_time": 1659266249,
+        "rank": 46,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 165664,
+        "num": 165664,
+        "word": "狗狗吵架时发现自己被拍后",
+        "onboard_time": 1659254429,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162019,
+        "num": 162019,
+        "word": "V5状态",
+        "onboard_time": 1659263306,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161893,
+        "num": 161893,
+        "word": "杭州地铁熊孩子不戴口罩舔玻璃",
+        "onboard_time": 1659256649,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#画好新时代统战的最大同心圆#"
+    }
+  }
+}

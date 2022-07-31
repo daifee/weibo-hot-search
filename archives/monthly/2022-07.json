@@ -1,6 +1,6 @@
 {
   "startTime": 1658026035465,
-  "endTime": 1659274216959,
+  "endTime": 1659274952755,
   "band_list": [
     {
       "raw_hot": 27121387,
@@ -2263,6 +2263,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1929841,
+      "num": 1929841,
+      "word": "一诺",
+      "onboard_time": 1659270330,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1928840,
       "num": 1928840,
       "word": "乐山枪案嫌犯与女伤者关系密切",
@@ -2926,6 +2934,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1649858,
+      "num": 1649858,
+      "word": "清华大学vs广东工大",
+      "onboard_time": 1659268889,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1647116,
       "num": 675023,
       "word": "吾悦华府",
@@ -3101,14 +3117,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1588021,
-      "num": 1588021,
-      "word": "一诺",
-      "onboard_time": 1659270330,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1586890,
       "num": 1586890,
       "word": "孩子一定要趁早生吗",
@@ -3258,14 +3266,6 @@
       "onboard_time": 1658770456,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1542126,
-      "num": 1542126,
-      "word": "清华大学vs广东工大",
-      "onboard_time": 1659268889,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1541850,
@@ -7786,6 +7786,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 823942,
+      "num": 823942,
+      "word": "一家三代四口人完成遗体捐献",
+      "onboard_time": 1659272728,
+      "rank": 12,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 822369,
       "num": 822369,
       "word": "乌克兰核电站遭无人机袭击",
@@ -10542,14 +10550,6 @@
       "onboard_time": 1658218234,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 609533,
-      "num": 609533,
-      "word": "一家三代四口人完成遗体捐献",
-      "onboard_time": 1659272728,
-      "rank": 12,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 609129,
@@ -14569,6 +14569,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452002,
+      "num": 452002,
+      "word": "陈国豪四犯",
+      "onboard_time": 1659272130,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451595,
       "num": 272651,
       "word": "BLACKPINK新歌好听吗",
@@ -15217,6 +15225,14 @@
       "word": "谭维维微博自动回复",
       "onboard_time": 1657979491,
       "rank": 13
+    },
+    {
+      "raw_hot": 433126,
+      "num": 378290,
+      "word": "EXO咆哮发行9周年",
+      "onboard_time": 1659273932,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 432989,
@@ -18456,14 +18472,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357970,
-      "num": 313361,
-      "word": "EXO咆哮发行9周年",
-      "onboard_time": 1659273932,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 357778,
       "num": 357778,
       "word": "陈梦 不容易",
@@ -19337,6 +19345,14 @@
       "onboard_time": 1658646929,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339942,
+      "num": 339942,
+      "word": "汪苏泷眼泪落下之前首唱",
+      "onboard_time": 1659273932,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 339641,
@@ -20304,7 +20320,7 @@
     },
     {
       "raw_hot": 324250,
-      "num": 237117,
+      "num": 277918,
       "word": "范丞丞腿和腰各过各的",
       "onboard_time": 1659271528,
       "rank": 32,
@@ -21514,6 +21530,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 302067,
+      "num": 302067,
+      "word": "清华大学夺得CUBA总冠军",
+      "onboard_time": 1659274593,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301980,
       "num": 301980,
       "word": "OMG战胜V5",
@@ -22453,14 +22477,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 287783,
-      "num": 287783,
-      "word": "陈国豪四犯",
-      "onboard_time": 1659272130,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287757,
       "num": 287757,
       "word": "吹空调可能致哪些身体不适",
@@ -22538,14 +22554,6 @@
       "word": "斗破苍穹缘起开播",
       "onboard_time": 1658027376,
       "rank": 17
-    },
-    {
-      "raw_hot": 286631,
-      "num": 214075,
-      "word": "汪苏泷眼泪落下之前首唱",
-      "onboard_time": 1659273932,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 286551,
@@ -23031,6 +23039,14 @@
       "onboard_time": 1658376758,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 278029,
+      "num": 278029,
+      "word": "广东工大半场领先清华大学3分",
+      "onboard_time": 1659274530,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 277859,
@@ -25857,6 +25873,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236474,
+      "num": 236474,
+      "word": "全美累计猴痘确诊病例5189例",
+      "onboard_time": 1659272790,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236163,
       "num": 236163,
       "word": "山东这些传世马面裙可太美了",
@@ -27095,14 +27119,6 @@
       "onboard_time": 1658100440,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 216995,
-      "num": 216995,
-      "word": "全美累计猴痘确诊病例5189例",
-      "onboard_time": 1659272790,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216959,
@@ -28578,6 +28594,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194628,
+      "num": 194628,
+      "word": "清华大学CUBA三连冠",
+      "onboard_time": 1659274832,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194422,
       "num": 194422,
       "word": "杭州消费券",
@@ -28592,6 +28616,14 @@
       "onboard_time": 1658990369,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194358,
+      "num": 194358,
+      "word": "全网最会滑滑板的狗子",
+      "onboard_time": 1659273748,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 194341,
@@ -29482,14 +29514,6 @@
       "onboard_time": 1658115829,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176106,
-      "num": 176106,
-      "word": "全网最会滑滑板的狗子",
-      "onboard_time": 1659273748,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 176008,
