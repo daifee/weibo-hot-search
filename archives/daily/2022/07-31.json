@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659248738399,
+  "endTime": 1659249777816,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -123,12 +123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1599399,
+      "num": 1599399,
+      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
+      "onboard_time": 1659245189,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1349050,
       "num": 1349050,
       "word": "空军多型战机绕飞祖国宝岛",
       "onboard_time": 1659242728,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1338894,
+      "num": 1338894,
+      "word": "杨幂心疼丁程鑫过于懂事",
+      "onboard_time": 1659246210,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1338839,
@@ -155,14 +171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1174093,
-      "num": 1174093,
-      "word": "杨幂心疼丁程鑫过于懂事",
-      "onboard_time": 1659246210,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1170777,
       "num": 875905,
       "word": "Wendy生图好美",
@@ -185,14 +193,6 @@
       "onboard_time": 1659229891,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1059856,
-      "num": 1059856,
-      "word": "多个餐馆因卖凉拌黄瓜被罚款5千",
-      "onboard_time": 1659245189,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1045587,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462583,
+      "num": 462583,
+      "word": "疯狗扑咬幼童家养犬飞奔相护",
+      "onboard_time": 1659248069,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457504,
       "num": 457504,
       "word": "中国变热了吗",
@@ -513,6 +521,14 @@
       "onboard_time": 1659237390,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429331,
+      "num": 429331,
+      "word": "宝岛在祖国怀中",
+      "onboard_time": 1659247949,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 422828,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 370351,
-      "num": 131470,
+      "num": 270676,
       "word": "沈梦瑶完美犯罪直拍",
       "onboard_time": 1659248726,
       "rank": 47,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 351118,
-      "num": 244419,
+      "num": 269866,
       "word": "吴永恩说王子文我有你就够了",
       "onboard_time": 1659245731,
       "rank": 33,
@@ -715,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323668,
+      "num": 323668,
+      "word": "1000多名飞行学员坐运20到大学报到",
+      "onboard_time": 1659247050,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 312676,
       "num": 307755,
       "word": "天才基本法不完美主角",
@@ -729,14 +753,6 @@
       "onboard_time": 1659204555,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309560,
-      "num": 309560,
-      "word": "1000多名飞行学员坐运20到大学报到",
-      "onboard_time": 1659247050,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309387,
@@ -795,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281255,
-      "num": 281255,
-      "word": "疯狗扑咬幼童家养犬飞奔相护",
-      "onboard_time": 1659248069,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276498,
       "num": 276498,
       "word": "电影莫斯科行动开机",
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268199,
+      "num": 268199,
+      "word": "年轻人为什么更喜欢原创歌手",
+      "onboard_time": 1659249088,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267716,
       "num": 267716,
       "word": "河南增本土无症状33例",
@@ -833,6 +849,14 @@
       "onboard_time": 1659230790,
       "rank": 27,
       "category": "军事"
+    },
+    {
+      "raw_hot": 260527,
+      "num": 260527,
+      "word": "男子假冒扶贫办人员入室偷老人钱",
+      "onboard_time": 1659247350,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259574,
@@ -891,12 +915,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 245453,
-      "num": 245453,
-      "word": "男子假冒扶贫办人员入室偷老人钱",
-      "onboard_time": 1659247350,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 244038,
+      "num": 229304,
+      "word": "吴磊赵露思片场对戏",
+      "onboard_time": 1659247769,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 238111,
@@ -913,6 +937,14 @@
       "onboard_time": 1659192640,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236731,
+      "num": 161239,
+      "word": "陈哲远 偷偷藏不住",
+      "onboard_time": 1659249569,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 236163,
@@ -937,22 +969,6 @@
       "onboard_time": 1659231569,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 229304,
-      "num": 229304,
-      "word": "吴磊赵露思片场对戏",
-      "onboard_time": 1659247769,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228962,
-      "num": 228962,
-      "word": "宝岛在祖国怀中",
-      "onboard_time": 1659247949,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 227855,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1659189760,
       "rank": 43,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 106895,
+      "num": 106895,
+      "word": "什么是三揖三让礼",
+      "onboard_time": 1659249027,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104990,
