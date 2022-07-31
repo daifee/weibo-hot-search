@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659277134841,
+  "endTime": 1659278104809,
   "band_list": [
     {
       "raw_hot": 4870550,
@@ -59,12 +59,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3030994,
+      "num": 463616,
+      "word": "易烊千玺桃花坞VCR",
+      "onboard_time": 1659275910,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2968059,
       "num": 634455,
       "word": "沈腾0票",
       "onboard_time": 1659189699,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2754543,
+      "num": 2754543,
+      "word": "网红男孩钟美美考上重点高中",
+      "onboard_time": 1659276627,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2734545,
+      "num": 2734545,
+      "word": "男生带80斤女友健身变110斤美女",
+      "onboard_time": 1659275731,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2650200,
@@ -152,14 +176,6 @@
       "word": "第四例艾滋病治愈者或已出现",
       "onboard_time": 1659265706,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2010024,
-      "num": 2010024,
-      "word": "男生带80斤女友健身变110斤美女",
-      "onboard_time": 1659275731,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -273,6 +289,14 @@
       "onboard_time": 1659274593,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1224756,
+      "num": 1224756,
+      "word": "张颖颖为家乡菏泽捐赠抗疫物资",
+      "onboard_time": 1659276990,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1222278,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 982529,
-      "num": 772378,
+      "num": 797514,
       "word": "刘耀文胸肌",
       "onboard_time": 1659276209,
       "rank": 10,
@@ -443,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 829471,
-      "num": 772118,
-      "word": "网红男孩钟美美考上重点高中",
-      "onboard_time": 1659276627,
-      "rank": 11,
-      "category": "社会新闻,网红"
+      "raw_hot": 844453,
+      "num": 844453,
+      "word": "月升沧海",
+      "onboard_time": 1659275851,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 829377,
@@ -480,14 +504,6 @@
       "word": "袁泉 百花奖最佳女主角",
       "onboard_time": 1659184714,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 770334,
-      "num": 770334,
-      "word": "月升沧海",
-      "onboard_time": 1659275851,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640742,
+      "num": 640742,
+      "word": "考驾照真的太难了",
+      "onboard_time": 1659276029,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 630838,
       "num": 630838,
       "word": "陈哲远 偷偷藏不住",
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599953,
+      "num": 462565,
+      "word": "鞠婧祎小提琴拉撒野",
+      "onboard_time": 1659277232,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 598319,
       "num": 598319,
       "word": "3岁宝宝努力抱1岁妹妹上床",
@@ -705,6 +737,14 @@
       "onboard_time": 1659233371,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562574,
+      "num": 562574,
+      "word": "二舅",
+      "onboard_time": 1659277593,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557332,
@@ -771,6 +811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 520156,
+      "num": 520156,
+      "word": "全国一共有156173个王刚",
+      "onboard_time": 1659275130,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519401,
       "num": 519401,
       "word": "乌江榨菜回应网传消费者吃出脚指甲",
@@ -801,14 +849,6 @@
       "onboard_time": 1659266128,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 509059,
-      "num": 371722,
-      "word": "张颖颖为家乡菏泽捐赠抗疫物资",
-      "onboard_time": 1659276990,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 504836,
@@ -864,14 +904,6 @@
       "word": "小女孩骑滑板1小时去乡下找奶奶",
       "onboard_time": 1659258987,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491173,
-      "num": 491173,
-      "word": "全国一共有156173个王刚",
-      "onboard_time": 1659275130,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -969,6 +1001,14 @@
       "onboard_time": 1659273932,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 429694,
+      "num": 255481,
+      "word": "出差十五夜",
+      "onboard_time": 1659277713,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 429331,
@@ -1091,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390627,
-      "num": 390627,
-      "word": "考驾照真的太难了",
-      "onboard_time": 1659276029,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 389641,
       "num": 236111,
       "word": "莲花楼",
@@ -1163,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365160,
+      "num": 248336,
+      "word": "严浩翔恶意沼泽短片",
+      "onboard_time": 1659277894,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 360162,
       "num": 360162,
       "word": "北京海淀1地升为高风险区",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1659232709,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354676,
+      "num": 354676,
+      "word": "男子赶海忘关电锁涨潮后宝马被淹",
+      "onboard_time": 1659277291,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353683,
@@ -1209,6 +1257,14 @@
       "onboard_time": 1659275192,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 345598,
+      "num": 345598,
+      "word": "邹阳MVP",
+      "onboard_time": 1659276453,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 344147,
@@ -1249,6 +1305,14 @@
       "onboard_time": 1659273932,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339523,
+      "num": 239457,
+      "word": "人生大事7月票房冠军",
+      "onboard_time": 1659277355,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 338392,
@@ -1523,6 +1587,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 286990,
+      "num": 286990,
+      "word": "警方认定网红用濒危大白鲨做美食",
+      "onboard_time": 1659277833,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286769,
       "num": 172166,
       "word": "不愧是韩红",
@@ -1537,14 +1609,6 @@
       "onboard_time": 1659188676,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280191,
-      "num": 280191,
-      "word": "邹阳MVP",
-      "onboard_time": 1659276453,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 278098,
@@ -1713,6 +1777,14 @@
       "onboard_time": 1659239251,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255533,
+      "num": 255533,
+      "word": "这世界那么多你",
+      "onboard_time": 1659276453,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254372,
@@ -1907,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221365,
+      "num": 221365,
+      "word": "近日曾到北京南站这些点位人员立即报备",
+      "onboard_time": 1659277652,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219526,
       "num": 219526,
       "word": "斗破苍穹年番动画开播",
@@ -1963,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212659,
+      "num": 212659,
+      "word": "研究发现长颈鹿脖子长真正原因",
+      "onboard_time": 1659276871,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211648,
       "num": 211648,
       "word": "NPC也怕NPC",
@@ -2009,14 +2097,6 @@
       "onboard_time": 1659263489,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204633,
-      "num": 204633,
-      "word": "这世界那么多你",
-      "onboard_time": 1659276453,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203419,
@@ -2131,12 +2211,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 182334,
+      "num": 182334,
+      "word": "郭艾伦 发点啥都会被过度分析和解读",
+      "onboard_time": 1659277951,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "14岁男孩考上211和985",
       "onboard_time": 1659169110,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 177427,
+      "num": 177427,
+      "word": "CUBA总决赛 精彩",
+      "onboard_time": 1659277171,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 176853,
@@ -2312,14 +2408,6 @@
       "word": "天津新增本土阳性感染者5例",
       "onboard_time": 1659184834,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135496,
-      "num": 135496,
-      "word": "研究发现长颈鹿脖子长真正原因",
-      "onboard_time": 1659276871,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1659278104809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2754543,
+        "num": 2754543,
+        "word": "网红男孩钟美美考上重点高中",
+        "onboard_time": 1659276627,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2734545,
+        "num": 2734545,
+        "word": "男生带80斤女友健身变110斤美女",
+        "onboard_time": 1659275731,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41852,
+        "num": 1949665,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1609353,
+        "num": 1609353,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224756,
+        "num": 1224756,
+        "word": "张颖颖为家乡菏泽捐赠抗疫物资",
+        "onboard_time": 1659276990,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1128362,
+        "num": 1128362,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1059109,
+        "num": 1059109,
+        "word": "一家三代四口人完成遗体捐献",
+        "onboard_time": 1659272728,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1043352,
+        "num": 1043352,
+        "word": "清华大学夺得CUBA总冠军",
+        "onboard_time": 1659274593,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 928452,
+        "num": 928452,
+        "word": "一诺",
+        "onboard_time": 1659270330,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 884281,
+        "num": 884281,
+        "word": "广东工业大学虽败犹荣",
+        "onboard_time": 1659275012,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 844453,
+        "num": 844453,
+        "word": "月升沧海",
+        "onboard_time": 1659275851,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 797514,
+        "num": 797514,
+        "word": "刘耀文胸肌",
+        "onboard_time": 1659276209,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 715037,
+        "num": 715037,
+        "word": "邓紫棋失恋emo了",
+        "onboard_time": 1659267091,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 673549,
+        "num": 673549,
+        "word": "第四例艾滋病治愈者或已出现",
+        "onboard_time": 1659265706,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640742,
+        "num": 640742,
+        "word": "考驾照真的太难了",
+        "onboard_time": 1659276029,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564884,
+        "num": 564884,
+        "word": "佩洛西8月1日到访新加坡",
+        "onboard_time": 1659267091,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 562574,
+        "num": 562574,
+        "word": "二舅",
+        "onboard_time": 1659277593,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530221,
+        "num": 530221,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520156,
+        "num": 520156,
+        "word": "全国一共有156173个王刚",
+        "onboard_time": 1659275130,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463935,
+        "num": 463935,
+        "word": "美军里根号航母离开南海",
+        "onboard_time": 1659265409,
+        "rank": 19,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 3030994,
+        "num": 463616,
+        "word": "易烊千玺桃花坞VCR",
+        "onboard_time": 1659275910,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599953,
+        "num": 462565,
+        "word": "鞠婧祎小提琴拉撒野",
+        "onboard_time": 1659277232,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457927,
+        "num": 457927,
+        "word": "王嘉尔泰国好声音舞台",
+        "onboard_time": 1659270870,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381383,
+        "num": 381383,
+        "word": "吐鲁番一串葡萄有手臂那么长",
+        "onboard_time": 1659264449,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354676,
+        "num": 354676,
+        "word": "男子赶海忘关电锁涨潮后宝马被淹",
+        "onboard_time": 1659277291,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345598,
+        "num": 345598,
+        "word": "邹阳MVP",
+        "onboard_time": 1659276453,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305659,
+        "num": 305659,
+        "word": "男女捞地沟油路人质问反被怼",
+        "onboard_time": 1659269489,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286990,
+        "num": 286990,
+        "word": "警方认定网红用濒危大白鲨做美食",
+        "onboard_time": 1659277833,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277022,
+        "num": 277022,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 28,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 255533,
+        "num": 255533,
+        "word": "这世界那么多你",
+        "onboard_time": 1659276453,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429694,
+        "num": 255481,
+        "word": "出差十五夜",
+        "onboard_time": 1659277713,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365160,
+        "num": 248336,
+        "word": "严浩翔恶意沼泽短片",
+        "onboard_time": 1659277894,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349528,
+        "num": 241486,
+        "word": "时代少年团全员哭泣的游戏",
+        "onboard_time": 1659275370,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339523,
+        "num": 239457,
+        "word": "人生大事7月票房冠军",
+        "onboard_time": 1659277355,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235003,
+        "num": 235003,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 34,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 336564,
+        "num": 234708,
+        "word": "百花奖评委回应沈腾海清周也0票",
+        "onboard_time": 1659257249,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221365,
+        "num": 221365,
+        "word": "近日曾到北京南站这些点位人员立即报备",
+        "onboard_time": 1659277652,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212659,
+        "num": 212659,
+        "word": "研究发现长颈鹿脖子长真正原因",
+        "onboard_time": 1659276871,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210490,
+        "num": 210490,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 205740,
+        "num": 205740,
+        "word": "陈国豪四犯",
+        "onboard_time": 1659272130,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294494,
+        "num": 204779,
+        "word": "雷佳音哭着对张子枫说忙去吧",
+        "onboard_time": 1659269249,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198138,
+        "num": 198138,
+        "word": "全美累计猴痘确诊病例5189例",
+        "onboard_time": 1659272790,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197678,
+        "num": 197678,
+        "word": "AG最大问题",
+        "onboard_time": 1659271406,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191125,
+        "num": 191125,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186163,
+        "num": 186163,
+        "word": "王岚嵚 强",
+        "onboard_time": 1659276154,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182334,
+        "num": 182334,
+        "word": "郭艾伦 发点啥都会被过度分析和解读",
+        "onboard_time": 1659277951,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180389,
+        "num": 180389,
+        "word": "这5种明星食物有平价替代",
+        "onboard_time": 1659267927,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 177427,
+        "num": 177427,
+        "word": "CUBA总决赛 精彩",
+        "onboard_time": 1659277171,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175870,
+        "num": 175870,
+        "word": "NPC也怕NPC",
+        "onboard_time": 1659275310,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167098,
+        "num": 167098,
+        "word": "哈利波特里最意难平的角色",
+        "onboard_time": 1659258627,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年八一陪你站岗#"
+    }
+  }
+}
