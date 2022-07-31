@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659243323813,
+  "endTime": 1659244900448,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -595,6 +595,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2551524,
+      "num": 2551524,
+      "word": "54岁洗碗厂女工热射病死亡",
+      "onboard_time": 1659241230,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2529750,
       "num": 2529750,
       "word": "王心凌乘风破浪秒变演唱会",
@@ -745,14 +753,6 @@
       "onboard_time": 1659144626,
       "rank": 3,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2286781,
-      "num": 2286781,
-      "word": "54岁洗碗厂女工热射病死亡",
-      "onboard_time": 1659241230,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2285767,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1671099,
+      "num": 1671099,
+      "word": "李玟回应百花奖唱歌跑调",
+      "onboard_time": 1659242792,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1665811,
       "num": 1650430,
       "word": "二胎妈妈睡2小时给孩子做早餐",
@@ -1859,6 +1867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1333146,
+      "num": 1333146,
+      "word": "空军多型战机绕飞祖国宝岛",
+      "onboard_time": 1659242728,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1322869,
       "num": 1322869,
       "word": "南京Hero",
@@ -2128,6 +2144,14 @@
       "word": "安乐传",
       "onboard_time": 1658922752,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1205272,
+      "num": 1205272,
+      "word": "偷偷藏不住",
+      "onboard_time": 1659242011,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -2659,14 +2683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1018521,
-      "num": 1018521,
-      "word": "偷偷藏不住",
-      "onboard_time": 1659242011,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1018163,
       "num": 1018163,
       "word": "四川枪击案嫌犯与1伤者为情人关系",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1659138321,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1002310,
+      "num": 1002310,
+      "word": "沈马",
+      "onboard_time": 1659240749,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1001334,
@@ -2905,14 +2929,6 @@
       "onboard_time": 1658710293,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938165,
-      "num": 938165,
-      "word": "沈马",
-      "onboard_time": 1659240749,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 937544,
@@ -3811,20 +3827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 749197,
-      "num": 749197,
-      "word": "李玟回应百花奖唱歌跑调",
-      "onboard_time": 1659242792,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 748841,
       "num": 503220,
       "word": "百花奖闭幕式阵容",
       "onboard_time": 1659161548,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 748059,
+      "num": 748059,
+      "word": "东部战区海军实弹射击训练",
+      "onboard_time": 1659241951,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 746767,
@@ -5425,14 +5441,6 @@
       "onboard_time": 1658908590,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 536475,
-      "num": 536475,
-      "word": "东部战区海军实弹射击训练",
-      "onboard_time": 1659241951,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 536403,
@@ -7571,6 +7579,22 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 407459,
+      "num": 407459,
+      "word": "专家回应未来买房跟买包一样容易",
+      "onboard_time": 1659241171,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 407223,
+      "num": 407223,
+      "word": "因5元槟榔男子踢打店主致其鼻骨折",
+      "onboard_time": 1659243510,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 407108,
       "num": 407108,
       "word": "安徽省考",
@@ -8771,14 +8795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343701,
-      "num": 343701,
-      "word": "空军多型战机绕飞祖国宝岛",
-      "onboard_time": 1659242728,
-      "rank": 24,
-      "category": "军事"
-    },
-    {
       "raw_hot": 343537,
       "num": 343537,
       "word": "房东私自将欠租租户物品扔掉",
@@ -9065,6 +9081,14 @@
       "onboard_time": 1658703920,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 332534,
+      "num": 332534,
+      "word": "运油20来了",
+      "onboard_time": 1659242910,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 331992,
@@ -10467,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286786,
+      "num": 286786,
+      "word": "胡军 代言",
+      "onboard_time": 1659244649,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286551,
       "num": 286551,
       "word": "拍单人婚纱是什么体验",
@@ -10851,14 +10883,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 274383,
-      "num": 274383,
-      "word": "专家回应未来买房跟买包一样容易",
-      "onboard_time": 1659241171,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 274381,
       "num": 274381,
       "word": "星之守护者阿卡丽CG",
@@ -11217,6 +11241,14 @@
       "onboard_time": 1659163889,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261879,
+      "num": 261879,
+      "word": "午饭后隔20分钟再睡",
+      "onboard_time": 1659243328,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261871,
@@ -11675,14 +11707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247098,
-      "num": 247098,
-      "word": "运油20来了",
-      "onboard_time": 1659242910,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 247031,
       "num": 247031,
       "word": "吃完饭为什么不能立刻运动",
@@ -11704,6 +11728,14 @@
       "word": "宋亚轩绝配音色",
       "onboard_time": 1658719233,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 245655,
+      "num": 160618,
+      "word": "Wendy生图好美",
+      "onboard_time": 1659244889,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -13491,6 +13523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180136,
+      "num": 180136,
+      "word": "第一次当妈没有经验的猫咪",
+      "onboard_time": 1659244590,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 179479,
       "num": 179479,
       "word": "巴萨vs尤文",
@@ -13713,6 +13753,14 @@
       "onboard_time": 1659179310,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167195,
+      "num": 167195,
+      "word": "4K视频看中国军人演训",
+      "onboard_time": 1659244170,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 166256,
