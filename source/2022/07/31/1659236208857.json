@@ -1,0 +1,410 @@
+{
+  "runTime": 1659236208857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4104164,
+        "num": 4104164,
+        "word": "建议午睡不要超过半小时",
+        "onboard_time": 1659197069,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2271692,
+        "num": 2271692,
+        "word": "二舅币崩盘",
+        "onboard_time": 1659234810,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 470167,
+        "num": 2004480,
+        "word": "为什么夏天容易睡不好",
+        "onboard_time": 1659198089,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2274217,
+        "num": 1996801,
+        "word": "张子枫工作室道歉",
+        "onboard_time": 1659225144,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1856536,
+        "num": 1856536,
+        "word": "男子肺部洗出17升白色液体",
+        "onboard_time": 1659227609,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1604505,
+        "num": 1604505,
+        "word": "佩洛西发文4条没提台湾",
+        "onboard_time": 1659229769,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1577251,
+        "num": 1577251,
+        "word": "台湾媒体人质问佩洛西",
+        "onboard_time": 1659231871,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 900434,
+        "num": 900434,
+        "word": "张小斐贾玲 今晚换我为你鼓掌",
+        "onboard_time": 1659231569,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825907,
+        "num": 825907,
+        "word": "38岁女儿不工作不恋爱母亲愁哭",
+        "onboard_time": 1659235348,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780267,
+        "num": 780267,
+        "word": "男子4x100米中国队39秒74夺冠",
+        "onboard_time": 1659233790,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 753322,
+        "num": 753322,
+        "word": "胡锡进发文被推特要求删除",
+        "onboard_time": 1659229891,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661469,
+        "num": 661469,
+        "word": "结婚16年3孩均非亲生事件双方发声",
+        "onboard_time": 1659225866,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572225,
+        "num": 572225,
+        "word": "好喜欢刚子",
+        "onboard_time": 1659229891,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546613,
+        "num": 546613,
+        "word": "3岁娃喊头疼做CT前躺地自转20分钟",
+        "onboard_time": 1659223279,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545101,
+        "num": 545101,
+        "word": "3岁宝宝努力抱1岁妹妹上床",
+        "onboard_time": 1659230251,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530963,
+        "num": 530963,
+        "word": "成都一初三学生被北大录取",
+        "onboard_time": 1659223941,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 513686,
+        "num": 513686,
+        "word": "沈腾0票",
+        "onboard_time": 1659189699,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504836,
+        "num": 504836,
+        "word": "村民池塘边洗碗遇扬子鳄",
+        "onboard_time": 1659232530,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447368,
+        "num": 447368,
+        "word": "心动的信号5录制路透",
+        "onboard_time": 1659234871,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422914,
+        "num": 422914,
+        "word": "不要和小吃店的老板太熟",
+        "onboard_time": 1659227487,
+        "rank": 19,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 415242,
+        "num": 415242,
+        "word": "车主酒后坐副驾驶称车自动撞路灯",
+        "onboard_time": 1659233729,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367530,
+        "num": 367530,
+        "word": "中国变热了吗",
+        "onboard_time": 1659229351,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 353648,
+        "num": 353648,
+        "word": "河南工业大学1年97万续订知网",
+        "onboard_time": 1659226528,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 296665,
+        "num": 296665,
+        "word": "9宫格和26键哪个更好用",
+        "onboard_time": 1659204019,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280095,
+        "num": 280095,
+        "word": "天才基本法不完美主角",
+        "onboard_time": 1659236129,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267824,
+        "num": 267824,
+        "word": "拜登新冠检测再次呈阳性",
+        "onboard_time": 1659223641,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 258923,
+        "num": 258923,
+        "word": "刘雨昕 跳舞是不分男女的",
+        "onboard_time": 1659232709,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257621,
+        "num": 257621,
+        "word": "周密周芯竹 甜",
+        "onboard_time": 1659226648,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240448,
+        "num": 240448,
+        "word": "山东新增本土无症状53例",
+        "onboard_time": 1659231030,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213456,
+        "num": 213456,
+        "word": "面对极限这是中国军人的答案",
+        "onboard_time": 1659230790,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 249471,
+        "num": 213053,
+        "word": "林依轮看王心凌张含韵比心演我",
+        "onboard_time": 1659233371,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246518,
+        "num": 213019,
+        "word": "杨洋恭喜Uzi结婚快乐",
+        "onboard_time": 1659196234,
+        "rank": 31,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 241645,
+        "num": 213015,
+        "word": "范丞丞回应好会亲",
+        "onboard_time": 1659204555,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212515,
+        "num": 212515,
+        "word": "用孙子兵法打开大国重器",
+        "onboard_time": 1659234029,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 207704,
+        "num": 207704,
+        "word": "凌不疑对程少商的称呼变化",
+        "onboard_time": 1659217992,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206033,
+        "num": 206033,
+        "word": "以前的手机有多酷炫",
+        "onboard_time": 1659234748,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199276,
+        "num": 199276,
+        "word": "原来别人家的老师是这样教物理的",
+        "onboard_time": 1659231569,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177215,
+        "num": 177215,
+        "word": "上海新增3例本土确诊3例本土无症状",
+        "onboard_time": 1659231091,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174627,
+        "num": 174627,
+        "word": "智齿必须要拔吗",
+        "onboard_time": 1659222317,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167414,
+        "num": 167414,
+        "word": "扎哈罗娃评佩洛西亚洲行",
+        "onboard_time": 1659235829,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 184129,
+        "num": 166838,
+        "word": "周也0票",
+        "onboard_time": 1659191857,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165173,
+        "num": 165173,
+        "word": "路人撑巨伞守护坠楼老人",
+        "onboard_time": 1659229711,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162287,
+        "num": 162287,
+        "word": "新疆疫情防控动态",
+        "onboard_time": 1659232106,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160365,
+        "num": 160365,
+        "word": "甘肃新增本土无症状103例",
+        "onboard_time": 1659231630,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156526,
+        "num": 156526,
+        "word": "哈利波特42岁生日",
+        "onboard_time": 1659232530,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 146376,
+        "num": 146376,
+        "word": "朱媛媛 金杯银杯不如观众口碑",
+        "onboard_time": 1659215471,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143843,
+        "num": 143843,
+        "word": "TF少年进化论第六期",
+        "onboard_time": 1659225744,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138391,
+        "num": 138391,
+        "word": "官方回应建议对疫苗未全程接种者赋蓝码",
+        "onboard_time": 1659194496,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134351,
+        "num": 134351,
+        "word": "医生是有点憋笑功夫在的",
+        "onboard_time": 1659197789,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126863,
+        "num": 126863,
+        "word": "教练光脚跳栏近一人高度震撼全场",
+        "onboard_time": 1659234988,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京申冬奥成功7周年#"
+    }
+  }
+}

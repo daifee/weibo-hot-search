@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659234250658,
+  "endTime": 1659236208857,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -9,6 +9,14 @@
       "onboard_time": 1659196887,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 4104164,
+      "num": 4104164,
+      "word": "建议午睡不要超过半小时",
+      "onboard_time": 1659197069,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3313340,
@@ -25,14 +33,6 @@
       "onboard_time": 1659189699,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2796028,
-      "num": 2796028,
-      "word": "建议午睡不要超过半小时",
-      "onboard_time": 1659197069,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2650200,
@@ -57,6 +57,14 @@
       "onboard_time": 1659227609,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2271692,
+      "num": 2271692,
+      "word": "二舅币崩盘",
+      "onboard_time": 1659234810,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 2224538,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 883817,
-      "num": 586254,
+      "num": 661469,
       "word": "结婚16年3孩均非亲生事件双方发声",
       "onboard_time": 1659225866,
       "rank": 10,
@@ -121,6 +129,22 @@
       "onboard_time": 1659222438,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 825907,
+      "num": 825907,
+      "word": "38岁女儿不工作不恋爱母亲愁哭",
+      "onboard_time": 1659235348,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780267,
+      "num": 780267,
+      "word": "男子4x100米中国队39秒74夺冠",
+      "onboard_time": 1659233790,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 777134,
@@ -211,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572225,
+      "num": 572225,
+      "word": "好喜欢刚子",
+      "onboard_time": 1659229891,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571369,
       "num": 571369,
       "word": "林依轮看王心凌张含韵比心演我",
       "onboard_time": 1659233371,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 564498,
-      "num": 564498,
-      "word": "好喜欢刚子",
-      "onboard_time": 1659229891,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 532397,
@@ -241,6 +265,14 @@
       "onboard_time": 1659213731,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 504836,
+      "num": 504836,
+      "word": "村民池塘边洗碗遇扬子鳄",
+      "onboard_time": 1659232530,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493864,
@@ -275,12 +307,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 433250,
-      "num": 433250,
-      "word": "村民池塘边洗碗遇扬子鳄",
-      "onboard_time": 1659232530,
+      "raw_hot": 447368,
+      "num": 447368,
+      "word": "心动的信号5录制路透",
+      "onboard_time": 1659234871,
       "rank": 18,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 422828,
@@ -289,6 +321,14 @@
       "onboard_time": 1659196951,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415242,
+      "num": 415242,
+      "word": "车主酒后坐副驾驶称车自动撞路灯",
+      "onboard_time": 1659233729,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413479,
@@ -443,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274341,
-      "num": 274341,
-      "word": "男子4x100米中国队39秒74夺冠",
-      "onboard_time": 1659233790,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 280095,
+      "num": 280095,
+      "word": "天才基本法不完美主角",
+      "onboard_time": 1659236129,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 267173,
@@ -579,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206033,
+      "num": 206033,
+      "word": "以前的手机有多酷炫",
+      "onboard_time": 1659234748,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200666,
       "num": 200666,
       "word": "男生2分钟收到家对面大学录取书",
@@ -635,14 +683,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 181117,
-      "num": 181117,
-      "word": "车主酒后坐副驾驶称车自动撞路灯",
-      "onboard_time": 1659233729,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176008,
       "num": 176008,
       "word": "电视剧青云志播出六周年",
@@ -689,6 +729,14 @@
       "onboard_time": 1659188078,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 167414,
+      "num": 167414,
+      "word": "扎哈罗娃评佩洛西亚洲行",
+      "onboard_time": 1659235829,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 161200,
@@ -752,6 +800,14 @@
       "word": "天津新增本土阳性感染者5例",
       "onboard_time": 1659184834,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126863,
+      "num": 126863,
+      "word": "教练光脚跳栏近一人高度震撼全场",
+      "onboard_time": 1659234988,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -908,6 +964,9 @@
     },
     {
       "word": "#今年八一陪你站岗#"
+    },
+    {
+      "word": "#北京申冬奥成功7周年#"
     }
   ]
 }
