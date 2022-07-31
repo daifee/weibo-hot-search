@@ -1,6 +1,6 @@
 {
   "startTime": 1658679188483,
-  "endTime": 1659236208857,
+  "endTime": 1659239949469,
   "band_list": [
     {
       "raw_hot": 18686188,
@@ -272,6 +272,14 @@
       "word": "调休",
       "onboard_time": 1659067718,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3418726,
+      "num": 1870026,
+      "word": "38岁女儿不工作不恋爱母亲愁哭",
+      "onboard_time": 1659235348,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2600522,
+      "num": 2600522,
+      "word": "二舅币崩盘",
+      "onboard_time": 1659234810,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2581733,
       "num": 2581733,
       "word": "杭州通报22岁女孩加班猝死核查情况",
@@ -761,14 +777,6 @@
       "onboard_time": 1658833354,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2271692,
-      "num": 2271692,
-      "word": "二舅币崩盘",
-      "onboard_time": 1659234810,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 2261802,
@@ -2123,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1197140,
+      "num": 1197140,
+      "word": "Irene生图好美",
+      "onboard_time": 1659238111,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1195243,
       "num": 1195243,
       "word": "140余名孩子上游泳课后高烧咳嗽",
@@ -3344,14 +3360,6 @@
       "word": "武汉江夏区发现4例无症状",
       "onboard_time": 1658848356,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 825907,
-      "num": 825907,
-      "word": "38岁女儿不工作不恋爱母亲愁哭",
-      "onboard_time": 1659235348,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5315,6 +5323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540081,
+      "num": 540081,
+      "word": "北斗总师谈中国北斗到底强在哪",
+      "onboard_time": 1659238228,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 540050,
       "num": 374538,
       "word": "瑞达法考 时代少年团",
@@ -5441,6 +5457,14 @@
       "onboard_time": 1658684117,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 528614,
+      "num": 528614,
+      "word": "中国第一地下军团被复活",
+      "onboard_time": 1659238528,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528436,
@@ -5689,6 +5713,14 @@
       "onboard_time": 1658731354,
       "rank": 39,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 509293,
+      "num": 509293,
+      "word": "薅羊毛薅到了境外赌博平台上",
+      "onboard_time": 1659236791,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 509194,
@@ -6249,6 +6281,14 @@
       "onboard_time": 1659185315,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467910,
+      "num": 467910,
+      "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+      "onboard_time": 1659239071,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467372,
@@ -7147,6 +7187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 419348,
+      "num": 419348,
+      "word": "郑秀妍五公solo舞台练习室版",
+      "onboard_time": 1659238829,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418542,
       "num": 198303,
       "word": "桑延漫画形象",
@@ -7176,6 +7224,14 @@
       "word": "邓稼先两弹奖金各10元",
       "onboard_time": 1659051386,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417145,
+      "num": 417145,
+      "word": "车主酒后坐副驾驶称车自动撞路灯",
+      "onboard_time": 1659233729,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -7219,14 +7275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415242,
-      "num": 415242,
-      "word": "车主酒后坐副驾驶称车自动撞路灯",
-      "onboard_time": 1659233729,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414680,
       "num": 350528,
       "word": "县委大院今日杀青",
@@ -7249,6 +7297,14 @@
       "onboard_time": 1658710772,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414098,
+      "num": 414098,
+      "word": "奔跑吧全员年度关键词",
+      "onboard_time": 1659237687,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 413660,
@@ -7747,6 +7803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392367,
+      "num": 392367,
+      "word": "吴彤听说有人要给沈腾拍综艺的反应",
+      "onboard_time": 1659238528,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392198,
       "num": 184869,
       "word": "龚俊战至巅峰最新剧照",
@@ -8139,6 +8203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372196,
+      "num": 372196,
+      "word": "运油20和歼16开展海上空中加油训练",
+      "onboard_time": 1659238768,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 371600,
       "num": 221259,
       "word": "敖子逸夺冠激动滑跪",
@@ -8208,6 +8280,14 @@
       "word": "艾热 说唱",
       "onboard_time": 1659164727,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366796,
+      "num": 366796,
+      "word": "容祖儿小猪受伤自责落泪",
+      "onboard_time": 1659237390,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -8521,6 +8601,14 @@
       "onboard_time": 1659146546,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351438,
+      "num": 351438,
+      "word": "午睡时间过长睡眠易陷入恶性循环",
+      "onboard_time": 1659237390,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350771,
@@ -8985,6 +9073,14 @@
       "onboard_time": 1659015460,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330267,
+      "num": 330267,
+      "word": "李承铉录制心动的信号理智下线",
+      "onboard_time": 1659237511,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 329830,
@@ -9481,6 +9577,14 @@
       "onboard_time": 1659097952,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 312676,
+      "num": 307755,
+      "word": "天才基本法不完美主角",
+      "onboard_time": 1659236129,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 312463,
@@ -10515,14 +10619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280095,
-      "num": 280095,
-      "word": "天才基本法不完美主角",
-      "onboard_time": 1659236129,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279787,
       "num": 279787,
       "word": "六旬大叔高温下跪地施救溺水男孩",
@@ -10849,6 +10945,14 @@
       "onboard_time": 1658991813,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267716,
+      "num": 267716,
+      "word": "河南增本土无症状33例",
+      "onboard_time": 1659237687,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267173,
@@ -11187,6 +11291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257370,
+      "num": 257370,
+      "word": "再也不怕衣柜乱了",
+      "onboard_time": 1659237029,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257287,
       "num": 257287,
       "word": "老虎到底是不是大号的猫",
@@ -11225,6 +11337,14 @@
       "onboard_time": 1659231030,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255685,
+      "num": 255685,
+      "word": "范丞丞表情管理失控了",
+      "onboard_time": 1659239251,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 255412,
@@ -11329,6 +11449,14 @@
       "onboard_time": 1658928335,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252139,
+      "num": 252139,
+      "word": "扎哈罗娃评佩洛西亚洲行",
+      "onboard_time": 1659235829,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 252090,
@@ -12219,6 +12347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222057,
+      "num": 222057,
+      "word": "猫咪眼巴巴盯鱼钓友被萌化果断送鱼",
+      "onboard_time": 1659238890,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222014,
       "num": 188966,
       "word": "蓝盈莹范丞丞新剧恋爱约法三章",
@@ -12273,6 +12409,14 @@
       "onboard_time": 1659084691,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219526,
+      "num": 219526,
+      "word": "斗破苍穹年番动画开播",
+      "onboard_time": 1659237569,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 219263,
@@ -12996,7 +13140,7 @@
     },
     {
       "raw_hot": 192048,
-      "num": 192048,
+      "num": 1939671,
       "word": "致敬人民子弟兵",
       "onboard_time": 1659173434,
       "rank": 34,
@@ -13089,6 +13233,14 @@
       "onboard_time": 1658728955,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "TXT音乐节舞台",
+      "onboard_time": 1659237632,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 185725,
@@ -13339,6 +13491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175945,
+      "num": 156180,
+      "word": "8月新规",
+      "onboard_time": 1659239910,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175474,
       "num": 175474,
       "word": "二伏你最想吃啥面",
@@ -13457,14 +13617,6 @@
       "onboard_time": 1659179310,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167414,
-      "num": 167414,
-      "word": "扎哈罗娃评佩洛西亚洲行",
-      "onboard_time": 1659235829,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 166256,
@@ -13993,6 +14145,14 @@
       "onboard_time": 1658907032,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131330,
+      "num": 148524,
+      "word": "7月份中国制造业PMI为49%",
+      "onboard_time": 1659239489,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 131301,

@@ -1,6 +1,6 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659236208857,
+  "endTime": 1659239949469,
   "band_list": [
     {
       "raw_hot": 4591993,
@@ -16,6 +16,14 @@
       "word": "建议午睡不要超过半小时",
       "onboard_time": 1659197069,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3418726,
+      "num": 1870026,
+      "word": "38岁女儿不工作不恋爱母亲愁哭",
+      "onboard_time": 1659235348,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2600522,
+      "num": 2600522,
+      "word": "二舅币崩盘",
+      "onboard_time": 1659234810,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2581491,
       "num": 2428652,
       "word": "张子枫工作室道歉",
@@ -57,14 +73,6 @@
       "onboard_time": 1659227609,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2271692,
-      "num": 2271692,
-      "word": "二舅币崩盘",
-      "onboard_time": 1659234810,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 2224538,
@@ -89,6 +97,14 @@
       "onboard_time": 1659196234,
       "rank": 11,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1197140,
+      "num": 1197140,
+      "word": "Irene生图好美",
+      "onboard_time": 1659238111,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1105910,
@@ -129,14 +145,6 @@
       "onboard_time": 1659222438,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 825907,
-      "num": 825907,
-      "word": "38岁女儿不工作不恋爱母亲愁哭",
-      "onboard_time": 1659235348,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 780267,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540081,
+      "num": 540081,
+      "word": "北斗总师谈中国北斗到底强在哪",
+      "onboard_time": 1659238228,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 532397,
       "num": 532397,
       "word": "成都一初三学生被北大录取",
@@ -259,12 +275,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 528614,
+      "num": 528614,
+      "word": "中国第一地下军团被复活",
+      "onboard_time": 1659238528,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522045,
       "num": 522045,
       "word": "中方希望美方能听进去理性声音",
       "onboard_time": 1659213731,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 509293,
+      "num": 509293,
+      "word": "薅羊毛薅到了境外赌博平台上",
+      "onboard_time": 1659236791,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 504836,
@@ -299,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467910,
+      "num": 467910,
+      "word": "11个月宝宝因好奇拔掉亲妈氧气管",
+      "onboard_time": 1659239071,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457504,
       "num": 457504,
       "word": "中国变热了吗",
@@ -323,12 +363,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415242,
-      "num": 415242,
+      "raw_hot": 419348,
+      "num": 419348,
+      "word": "郑秀妍五公solo舞台练习室版",
+      "onboard_time": 1659238829,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417145,
+      "num": 417145,
       "word": "车主酒后坐副驾驶称车自动撞路灯",
       "onboard_time": 1659233729,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414098,
+      "num": 414098,
+      "word": "奔跑吧全员年度关键词",
+      "onboard_time": 1659237687,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 413479,
@@ -339,12 +395,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 392367,
+      "num": 392367,
+      "word": "吴彤听说有人要给沈腾拍综艺的反应",
+      "onboard_time": 1659238528,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389641,
       "num": 236111,
       "word": "莲花楼",
       "onboard_time": 1659191257,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372196,
+      "num": 372196,
+      "word": "运油20和歼16开展海上空中加油训练",
+      "onboard_time": 1659238768,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 366796,
+      "num": 366796,
+      "word": "容祖儿小猪受伤自责落泪",
+      "onboard_time": 1659237390,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 357973,
@@ -369,6 +449,14 @@
       "onboard_time": 1659194076,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351438,
+      "num": 351438,
+      "word": "午睡时间过长睡眠易陷入恶性循环",
+      "onboard_time": 1659237390,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343014,
@@ -403,6 +491,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 330267,
+      "num": 330267,
+      "word": "李承铉录制心动的信号理智下线",
+      "onboard_time": 1659237511,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329660,
       "num": 329660,
       "word": "宁波大学vs清华大学",
@@ -416,6 +512,14 @@
       "word": "朱媛媛 金杯银杯不如观众口碑",
       "onboard_time": 1659215471,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312676,
+      "num": 307755,
+      "word": "天才基本法不完美主角",
+      "onboard_time": 1659236129,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -483,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280095,
-      "num": 280095,
-      "word": "天才基本法不完美主角",
-      "onboard_time": 1659236129,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 267716,
+      "num": 267716,
+      "word": "河南增本土无症状33例",
+      "onboard_time": 1659237687,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267173,
@@ -507,12 +611,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 257370,
+      "num": 257370,
+      "word": "再也不怕衣柜乱了",
+      "onboard_time": 1659237029,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255691,
       "num": 255691,
       "word": "山东新增本土无症状53例",
       "onboard_time": 1659231030,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255685,
+      "num": 255685,
+      "word": "范丞丞表情管理失控了",
+      "onboard_time": 1659239251,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 254372,
@@ -529,6 +649,14 @@
       "onboard_time": 1659231091,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252139,
+      "num": 252139,
+      "word": "扎哈罗娃评佩洛西亚洲行",
+      "onboard_time": 1659235829,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 238111,
@@ -585,6 +713,22 @@
       "onboard_time": 1659169350,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222057,
+      "num": 222057,
+      "word": "猫咪眼巴巴盯鱼钓友被萌化果断送鱼",
+      "onboard_time": 1659238890,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219526,
+      "num": 219526,
+      "word": "斗破苍穹年番动画开播",
+      "onboard_time": 1659237569,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 217592,
@@ -675,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "TXT音乐节舞台",
+      "onboard_time": 1659237632,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "14岁男孩考上211和985",
@@ -696,6 +848,14 @@
       "word": "金属物理学家张兴钤院士逝世",
       "onboard_time": 1659192879,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175945,
+      "num": 156180,
+      "word": "8月新规",
+      "onboard_time": 1659239910,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -729,14 +889,6 @@
       "onboard_time": 1659188078,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 167414,
-      "num": 167414,
-      "word": "扎哈罗娃评佩洛西亚洲行",
-      "onboard_time": 1659235829,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 161200,
@@ -801,6 +953,14 @@
       "onboard_time": 1659184834,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131330,
+      "num": 148524,
+      "word": "7月份中国制造业PMI为49%",
+      "onboard_time": 1659239489,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 126863,
@@ -937,6 +1097,14 @@
       "onboard_time": 1659202039,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18392,
+      "num": 1939671,
+      "word": "致敬人民子弟兵",
+      "onboard_time": 1659173434,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9200,
