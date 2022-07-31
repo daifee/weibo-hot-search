@@ -1,0 +1,410 @@
+{
+  "runTime": 1659281936073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2994181,
+        "num": 2994181,
+        "word": "警方认定网红用濒危大白鲨做美食",
+        "onboard_time": 1659277833,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2382387,
+        "num": 2382387,
+        "word": "网红男孩钟美美考上重点高中",
+        "onboard_time": 1659276627,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 36578,
+        "num": 1833144,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1830088,
+        "num": 1830088,
+        "word": "二舅",
+        "onboard_time": 1659277593,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1762808,
+        "num": 1762808,
+        "word": "男生带80斤女友健身变110斤美女",
+        "onboard_time": 1659275731,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364942,
+        "num": 1364942,
+        "word": "提子",
+        "onboard_time": 1659279214,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1100054,
+        "num": 1100054,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008862,
+        "num": 1008862,
+        "word": "张颖颖为家乡菏泽捐赠抗疫物资",
+        "onboard_time": 1659276990,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 987606,
+        "num": 987606,
+        "word": "男子赶海忘关电锁涨潮后宝马被淹",
+        "onboard_time": 1659277291,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713654,
+        "num": 713654,
+        "word": "考驾照真的太难了",
+        "onboard_time": 1659276029,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 884012,
+        "num": 706463,
+        "word": "杨幂线上演唱会彩排照",
+        "onboard_time": 1659278793,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 784350,
+        "num": 703187,
+        "word": "古天乐回应宣萱李若彤落水先救谁",
+        "onboard_time": 1659279812,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 697259,
+        "num": 697259,
+        "word": "网传与凤行辣目洋子换成钟楚曦",
+        "onboard_time": 1659281311,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559521,
+        "num": 559521,
+        "word": "第四例艾滋病治愈者或已出现",
+        "onboard_time": 1659265706,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476536,
+        "num": 476536,
+        "word": "男子穿短袖误困冰库机智报警自救",
+        "onboard_time": 1659278192,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424732,
+        "num": 424732,
+        "word": "郭艾伦 发点啥都会被过度分析和解读",
+        "onboard_time": 1659277951,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418385,
+        "num": 418385,
+        "word": "一家三代四口人完成遗体捐献",
+        "onboard_time": 1659272728,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 409908,
+        "num": 409908,
+        "word": "研究发现长颈鹿脖子长真正原因",
+        "onboard_time": 1659276871,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394926,
+        "num": 394926,
+        "word": "广东工业大学虽败犹荣",
+        "onboard_time": 1659275012,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390032,
+        "num": 390032,
+        "word": "鸿星尔克再捐1个亿",
+        "onboard_time": 1659254069,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497572,
+        "num": 378963,
+        "word": "易烊千玺桃花坞VCR",
+        "onboard_time": 1659275910,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584937,
+        "num": 372172,
+        "word": "月升沧海",
+        "onboard_time": 1659275851,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561256,
+        "num": 369214,
+        "word": "赵让回应内娱没有舞台",
+        "onboard_time": 1659281130,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363505,
+        "num": 363505,
+        "word": "近日曾到北京南站这些点位人员立即报备",
+        "onboard_time": 1659277652,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324449,
+        "num": 324449,
+        "word": "美军里根号航母离开南海",
+        "onboard_time": 1659265409,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 561136,
+        "num": 324275,
+        "word": "邓紫棋失恋emo了",
+        "onboard_time": 1659267091,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312238,
+        "num": 312238,
+        "word": "佩洛西8月1日到访新加坡",
+        "onboard_time": 1659267091,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 300087,
+        "num": 300087,
+        "word": "法拉利 战术",
+        "onboard_time": 1659278793,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287512,
+        "num": 287512,
+        "word": "清华大学夺得CUBA总冠军",
+        "onboard_time": 1659274593,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274061,
+        "num": 274061,
+        "word": "全国一共有156173个王刚",
+        "onboard_time": 1659275130,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497976,
+        "num": 265284,
+        "word": "宋亚轩睡衣穿反了",
+        "onboard_time": 1659280713,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453724,
+        "num": 264892,
+        "word": "独行月球",
+        "onboard_time": 1659259170,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246870,
+        "num": 246870,
+        "word": "吐鲁番一串葡萄有手臂那么长",
+        "onboard_time": 1659264449,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443884,
+        "num": 241464,
+        "word": "独行月球片尾11个字看破防了",
+        "onboard_time": 1659278973,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221263,
+        "num": 221263,
+        "word": "这世界那么多你",
+        "onboard_time": 1659276453,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387556,
+        "num": 221093,
+        "word": "鞠婧祎小提琴拉撒野",
+        "onboard_time": 1659277232,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214697,
+        "num": 214697,
+        "word": "一诺",
+        "onboard_time": 1659270330,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174877,
+        "num": 174877,
+        "word": "男女捞地沟油路人质问反被怼",
+        "onboard_time": 1659269489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174329,
+        "num": 174329,
+        "word": "如果我没上过大学",
+        "onboard_time": 1659259949,
+        "rank": 38,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 159650,
+        "num": 159650,
+        "word": "点赞强军",
+        "onboard_time": 1659279153,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 367775,
+        "num": 156893,
+        "word": "曹双印家暴田总",
+        "onboard_time": 1659280531,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129255,
+        "num": 129255,
+        "word": "AG最大问题",
+        "onboard_time": 1659271406,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125991,
+        "num": 125991,
+        "word": "这5种明星食物有平价替代",
+        "onboard_time": 1659267927,
+        "rank": 42,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 120382,
+        "num": 120382,
+        "word": "邹阳MVP",
+        "onboard_time": 1659276453,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117949,
+        "num": 117949,
+        "word": "美空军宣布F35机队暂停飞行",
+        "onboard_time": 1659257967,
+        "rank": 44,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 116258,
+        "num": 116258,
+        "word": "暖阳的澜",
+        "onboard_time": 1659279754,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108547,
+        "num": 108547,
+        "word": "武大靖说会坚持到下一届冬奥会",
+        "onboard_time": 1659281730,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102757,
+        "num": 102757,
+        "word": "3孩均非亲生事件第三人发声",
+        "onboard_time": 1659257789,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97215,
+        "num": 97215,
+        "word": "佩洛西的公务飞机已经出发",
+        "onboard_time": 1659250529,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 93301,
+        "num": 93301,
+        "word": "这个世界不能没有傻狗",
+        "onboard_time": 1659281610,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国新电商大会#"
+    }
+  }
+}
