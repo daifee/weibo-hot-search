@@ -1,7 +1,15 @@
 {
   "startTime": 1659198518380,
-  "endTime": 1659263920556,
+  "endTime": 1659266285477,
   "band_list": [
+    {
+      "raw_hot": 4870550,
+      "num": 4870550,
+      "word": "阿姨1个月交往20多名男子让买水果",
+      "onboard_time": 1659262166,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4591993,
       "num": 464006,
@@ -9,14 +17,6 @@
       "onboard_time": 1659196887,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 4117224,
-      "num": 4117224,
-      "word": "阿姨1个月交往20多名男子让买水果",
-      "onboard_time": 1659262166,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4104164,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1101267,
+      "num": 1101267,
+      "word": "独行月球",
+      "onboard_time": 1659169350,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1098992,
       "num": 1098992,
       "word": "俄气已停止向欧洲6国供应天然气",
@@ -305,6 +313,14 @@
       "onboard_time": 1659231569,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 904281,
+      "num": 904281,
+      "word": "吐鲁番一串葡萄有手臂那么长",
+      "onboard_time": 1659264449,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891578,
@@ -387,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 725207,
-      "num": 725207,
-      "word": "独行月球",
-      "onboard_time": 1659169350,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 691234,
+      "num": 691234,
+      "word": "V5状态",
+      "onboard_time": 1659263306,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 675940,
@@ -465,6 +481,14 @@
       "onboard_time": 1659262529,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 627888,
+      "num": 322925,
+      "word": "美军里根号航母离开南海",
+      "onboard_time": 1659265409,
+      "rank": 20,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 622933,
@@ -763,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421393,
+      "num": 421393,
+      "word": "华晨宇直播",
+      "onboard_time": 1659262650,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419348,
       "num": 419348,
       "word": "郑秀妍五公solo舞台练习室版",
@@ -777,6 +809,14 @@
       "onboard_time": 1659233729,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415556,
+      "num": 415556,
+      "word": "成都老字号耙猪蹄有多绝",
+      "onboard_time": 1659263729,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 414098,
@@ -881,14 +921,6 @@
       "onboard_time": 1659250828,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368926,
-      "num": 368926,
-      "word": "V5状态",
-      "onboard_time": 1659263306,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 368172,
@@ -1043,20 +1075,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325737,
+      "num": 325737,
+      "word": "第四例艾滋病治愈者或已出现",
+      "onboard_time": 1659265706,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323979,
       "num": 323979,
       "word": "一句话证明你看过独行月球",
       "onboard_time": 1659241050,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320274,
-      "num": 320274,
-      "word": "华晨宇直播",
-      "onboard_time": 1659262650,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 312676,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1659262650,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280145,
-      "num": 280145,
-      "word": "成都老字号耙猪蹄有多绝",
-      "onboard_time": 1659263729,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 278098,
@@ -1283,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257168,
+      "num": 257168,
+      "word": "裴之两次失去父亲",
+      "onboard_time": 1659265588,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255691,
       "num": 255691,
       "word": "山东新增本土无症状53例",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1659231091,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253089,
+      "num": 235067,
+      "word": "秦霄贤问李雪琴你有爸爸吗",
+      "onboard_time": 1659264628,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 252139,
@@ -1395,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233252,
+      "num": 233252,
+      "word": "橙子四杀",
+      "onboard_time": 1659263787,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232097,
       "num": 232097,
       "word": "无畏的梦奇",
@@ -1443,6 +1491,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 223291,
+      "num": 223291,
+      "word": "裴珠泫live图",
+      "onboard_time": 1659266128,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221996,
       "num": 188084,
       "word": "你期待偷偷藏不住吗",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1659263067,
       "rank": 36,
       "category": "其它"
+    },
+    {
+      "raw_hot": 215283,
+      "num": 218206,
+      "word": "橙子 老将不死",
+      "onboard_time": 1659266070,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 215108,
@@ -1619,20 +1683,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 181838,
-      "num": 181838,
-      "word": "橙子四杀",
-      "onboard_time": 1659263787,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "14岁男孩考上211和985",
       "onboard_time": 1659169110,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 181059,
+      "num": 181059,
+      "word": "阿兹海默症学术造假事件",
+      "onboard_time": 1659266070,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176008,
@@ -1707,6 +1771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 163694,
+      "num": 163694,
+      "word": "CUBA总决赛",
+      "onboard_time": 1659266128,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161200,
       "num": 161200,
       "word": "再累也要保持优雅",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1659228208,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 156841,
+      "num": 156841,
+      "word": "记者暗访高价回收烟酒背后猫腻",
+      "onboard_time": 1659265947,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154458,
@@ -1769,6 +1849,14 @@
       "onboard_time": 1659187480,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139014,
+      "num": 139014,
+      "word": "空军有足够能力捍卫国家主权和领土完整",
+      "onboard_time": 1659266249,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 138677,
@@ -1955,7 +2043,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52753,
+      "raw_hot": 55634,
       "num": 2199025,
       "word": "致敬人民子弟兵",
       "onboard_time": 1659173434,
