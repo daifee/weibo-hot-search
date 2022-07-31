@@ -62,7 +62,10 @@ function renderList(data) {
     .slice(0, 100)
     .map((item, index) => {
       const rank = index + 1;
-      return `${rank}. ${item.word} （热度：${item.raw_hot}）`;
+
+      const flag = index === 0 ? '#' : '';
+
+      return `${rank}. ${flag}${item.word}${flag} （热度：${item.raw_hot}）`;
     }).join('\n');
 
   return bandList;
