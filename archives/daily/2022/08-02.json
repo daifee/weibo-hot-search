@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659386451587,
+  "endTime": 1659388746119,
   "band_list": [
     {
       "raw_hot": 9656338,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52776,
+      "num": 44970,
+      "word": "11岁男孩从早到晚帮爸爸看三个摊",
+      "onboard_time": 1659386651,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48235,
       "num": 48235,
       "word": "俩狗狗打闹时看到镜头马上表情管理",
@@ -467,20 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19815,
+      "num": 19815,
+      "word": "中国国家乒乓球队成都世乒赛团体赛赛服",
+      "onboard_time": 1659386350,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14439,
+      "num": 14439,
+      "word": "你为什么没放弃母乳喂养",
+      "onboard_time": 1659387851,
+      "rank": 46,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 10452,
       "num": 12727,
       "word": "安宥真李瑞预告照",
       "onboard_time": 1659378795,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 10444,
-      "num": 12628,
-      "word": "中国国家乒乓球队成都世乒赛团体赛赛服",
-      "onboard_time": 1659386350,
-      "rank": 47,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
