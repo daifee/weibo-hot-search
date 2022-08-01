@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659373116381,
+  "endTime": 1659374926648,
   "band_list": [
     {
       "raw_hot": 9656338,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1441243,
+      "num": 1441243,
+      "word": "三亚发现1名新冠肺炎确诊病例",
+      "onboard_time": 1659371014,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1426954,
       "num": 1426954,
       "word": "东部战区表示将埋葬一切来犯之敌",
@@ -67,14 +75,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 1297961,
-      "num": 1297961,
-      "word": "三亚发现1名新冠肺炎确诊病例",
-      "onboard_time": 1659371014,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 960991,
       "num": 960991,
       "word": "网红提子被举报吃娃娃鱼鸵鸟孔雀",
@@ -89,6 +89,14 @@
       "onboard_time": 1659361602,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912958,
+      "num": 912958,
+      "word": "男子丧偶后相亲遇38年前心仪女孩",
+      "onboard_time": 1659369940,
+      "rank": 18,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 831859,
@@ -121,14 +129,6 @@
       "onboard_time": 1659366106,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770240,
-      "num": 770240,
-      "word": "男子丧偶后相亲遇38年前心仪女孩",
-      "onboard_time": 1659369940,
-      "rank": 18,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 645883,
@@ -249,6 +249,14 @@
       "onboard_time": 1659346290,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 268071,
+      "num": 268071,
+      "word": "恋爱谈多了真会麻木吗",
+      "onboard_time": 1659372925,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 267515,
@@ -411,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68979,
-      "num": 68979,
-      "word": "恋爱谈多了真会麻木吗",
-      "onboard_time": 1659372925,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65259,
       "num": 68241,
       "word": "林妙妙钱三一隔空比心",
       "onboard_time": 1659365689,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 48235,
+      "num": 48235,
+      "word": "俩狗狗打闹时看到镜头马上表情管理",
+      "onboard_time": 1659373882,
+      "rank": 46,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
