@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659371610988,
+  "endTime": 1659373116381,
   "band_list": [
     {
       "raw_hot": 9656338,
@@ -67,6 +67,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 1297961,
+      "num": 1297961,
+      "word": "三亚发现1名新冠肺炎确诊病例",
+      "onboard_time": 1659371014,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960991,
       "num": 960991,
       "word": "网红提子被举报吃娃娃鱼鸵鸟孔雀",
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770240,
+      "num": 770240,
+      "word": "男子丧偶后相亲遇38年前心仪女孩",
+      "onboard_time": 1659369940,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 645883,
       "num": 645883,
       "word": "北极已经可以穿短袖了",
@@ -131,28 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634684,
-      "num": 634684,
-      "word": "三亚发现1名新冠肺炎确诊病例",
-      "onboard_time": 1659371014,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634683,
       "num": 634683,
       "word": "鹿哈参加相亲节目",
       "onboard_time": 1659352416,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 502198,
-      "num": 502198,
-      "word": "男子丧偶后相亲遇38年前心仪女孩",
-      "onboard_time": 1659369940,
-      "rank": 18,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 433988,
@@ -211,8 +211,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 311982,
-      "num": 311982,
+      "raw_hot": 315499,
+      "num": 315499,
       "word": "李显龙告诉佩洛西中美关系稳定很重要",
       "onboard_time": 1659358836,
       "rank": 27,
@@ -291,28 +291,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 168284,
-      "num": 168284,
-      "word": "情侣需要保持高频聊天节奏吗",
-      "onboard_time": 1659352112,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 165219,
-      "num": 165219,
+      "raw_hot": 196367,
+      "num": 196367,
       "word": "执法部门回应主播吃大白鲨暂未立案",
       "onboard_time": 1659369164,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160319,
-      "num": 160319,
+      "raw_hot": 180500,
+      "num": 180500,
       "word": "坐上鲲鹏去上学",
       "onboard_time": 1659370774,
       "rank": 38,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 168284,
+      "num": 168284,
+      "word": "情侣需要保持高频聊天节奏吗",
+      "onboard_time": 1659352112,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 158992,
@@ -401,11 +401,38 @@
       "onboard_time": 1659359256,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101002,
+      "num": 101002,
+      "word": "早见沙织确诊新冠",
+      "onboard_time": 1659372328,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68979,
+      "num": 68979,
+      "word": "恋爱谈多了真会麻木吗",
+      "onboard_time": 1659372925,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 65259,
+      "num": 68241,
+      "word": "林妙妙钱三一隔空比心",
+      "onboard_time": 1659365689,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
     {
       "word": "#两弹一星组歌江山民心#"
+    },
+    {
+      "word": "#强军征途#"
     }
   ]
 }
