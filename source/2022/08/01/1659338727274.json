@@ -1,0 +1,410 @@
+{
+  "runTime": 1659338727274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1757998,
+        "num": 1757998,
+        "word": "苹果或叫停iPhone14涨价计划",
+        "onboard_time": 1659335068,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 953111,
+        "num": 953111,
+        "word": "苹果怼安卓应用商店",
+        "onboard_time": 1659333030,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 142211,
+        "num": 917608,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1074700,
+        "num": 915785,
+        "word": "丁程鑫曾救过化妆师",
+        "onboard_time": 1659337886,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884016,
+        "num": 884016,
+        "word": "独行月球片尾11个字是沈腾写的",
+        "onboard_time": 1659336390,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 747435,
+        "num": 747435,
+        "word": "00后女生打耳洞致颅内感染",
+        "onboard_time": 1659329255,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730458,
+        "num": 730458,
+        "word": "我们的飞机再不用飞两遍了",
+        "onboard_time": 1659336328,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654028,
+        "num": 654028,
+        "word": "iPhone14或无mini版本",
+        "onboard_time": 1659331712,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 637595,
+        "num": 637595,
+        "word": "青岛被海浪卷走游客一人确定遇难",
+        "onboard_time": 1659336627,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602261,
+        "num": 602261,
+        "word": "网红吃大白鲨事件必须严查",
+        "onboard_time": 1659322468,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2099991,
+        "num": 591459,
+        "word": "金佳蓝遭校园暴力",
+        "onboard_time": 1659335368,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1624819,
+        "num": 584270,
+        "word": "周渝民夫妻遭诈骗775万",
+        "onboard_time": 1659327992,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085201,
+        "num": 562896,
+        "word": "于正新签的女演员",
+        "onboard_time": 1659338428,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1020587,
+        "num": 548641,
+        "word": "胡军代言翻车疑似涉及390亿元",
+        "onboard_time": 1659330274,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36872,
+        "num": 528803,
+        "word": "人民军队95载影像记忆",
+        "onboard_time": 1659337229,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527420,
+        "num": 527420,
+        "word": "黄鼠狼坐车上高速后慌了",
+        "onboard_time": 1659332850,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511222,
+        "num": 511222,
+        "word": "扬州大学",
+        "onboard_time": 1659332070,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508203,
+        "num": 508203,
+        "word": "女生美甲片底发绿发黑疑长霉斑",
+        "onboard_time": 1659328111,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490327,
+        "num": 490327,
+        "word": "打耳洞有哪些危害",
+        "onboard_time": 1659336449,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360330,
+        "num": 360330,
+        "word": "小朋友过家家用花草做38道菜盛宴",
+        "onboard_time": 1659332371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638466,
+        "num": 350863,
+        "word": "PSY演唱会工作人员坠亡",
+        "onboard_time": 1659325709,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548566,
+        "num": 347043,
+        "word": "沈梦瑶总选中报第一",
+        "onboard_time": 1659336987,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411647,
+        "num": 342003,
+        "word": "少年派2田甜被家暴",
+        "onboard_time": 1659335667,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332316,
+        "num": 332316,
+        "word": "野原广志终于把房贷还完了",
+        "onboard_time": 1659334709,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 326149,
+        "num": 326149,
+        "word": "厦门市新增本土确诊病例1例",
+        "onboard_time": 1659336449,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287193,
+        "num": 287193,
+        "word": "EDG新主场",
+        "onboard_time": 1659338309,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284496,
+        "num": 284496,
+        "word": "中国知网反垄断第一案撤诉",
+        "onboard_time": 1659338068,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276652,
+        "num": 276652,
+        "word": "网红烹食大白鲨来自福建沿海",
+        "onboard_time": 1659334111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275721,
+        "num": 275721,
+        "word": "孩子探窗摔落路中央后车封路救娃",
+        "onboard_time": 1659335368,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267851,
+        "num": 267851,
+        "word": "贩卖大白鲨相关人员被控制",
+        "onboard_time": 1659328111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371334,
+        "num": 267441,
+        "word": "张蔷收工吧",
+        "onboard_time": 1659336328,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353302,
+        "num": 264329,
+        "word": "张新成不认同搞笑女没有爱情",
+        "onboard_time": 1659334050,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347263,
+        "num": 261928,
+        "word": "孟子义素颜",
+        "onboard_time": 1659324749,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312521,
+        "num": 258784,
+        "word": "沉香如屑颜淡唐周八月行程图",
+        "onboard_time": 1659336749,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311127,
+        "num": 255212,
+        "word": "腾讯音乐由你榜冠军",
+        "onboard_time": 1659338428,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253954,
+        "num": 253954,
+        "word": "2026世界杯亚洲区将有8.5个名额",
+        "onboard_time": 1659331233,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249461,
+        "num": 249461,
+        "word": "青海一地发生溺水事件6人溺亡",
+        "onboard_time": 1659323488,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245447,
+        "num": 245447,
+        "word": "我讨厌做饭的原因",
+        "onboard_time": 1659323965,
+        "rank": 37,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 219409,
+        "num": 219409,
+        "word": "妈妈街头冒雨卖枸杞救肝硬化儿子",
+        "onboard_time": 1659331172,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217110,
+        "num": 217110,
+        "word": "双航母编队同框训练场景会越来越多",
+        "onboard_time": 1659332966,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 222362,
+        "num": 215614,
+        "word": "陈楚生第二次拥抱主题曲MV",
+        "onboard_time": 1659334111,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211199,
+        "num": 211199,
+        "word": "初级会计",
+        "onboard_time": 1659321026,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199393,
+        "num": 199393,
+        "word": "浪潮回应员工晕倒",
+        "onboard_time": 1659334948,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188739,
+        "num": 188739,
+        "word": "各地产假普遍延至158天以上",
+        "onboard_time": 1659337646,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163769,
+        "num": 163769,
+        "word": "研究证实智能手表有助减肥",
+        "onboard_time": 1659330572,
+        "rank": 44,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 157303,
+        "word": "涩谷报时的秋田犬好可爱",
+        "onboard_time": 1659336148,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139580,
+        "num": 139580,
+        "word": "男子走路看手机撞伤老人被判赔2万",
+        "onboard_time": 1659325889,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130902,
+        "num": 130902,
+        "word": "见证了一朵白云的诞生",
+        "onboard_time": 1659331172,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130510,
+        "num": 130510,
+        "word": "网红提子账号被封禁",
+        "onboard_time": 1659338666,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127971,
+        "num": 127971,
+        "word": "第一次见这么方正的牛",
+        "onboard_time": 1659328475,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#解放军建军95周年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659337088751,
+  "endTime": 1659338727274,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2099991,
+      "num": 591459,
+      "word": "金佳蓝遭校园暴力",
+      "onboard_time": 1659335368,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2074267,
       "num": 2074267,
       "word": "网红吃大白鲨事件必须严查",
@@ -64,14 +72,6 @@
       "word": "胡军代言翻车疑似涉及390亿元",
       "onboard_time": 1659330274,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1935099,
-      "num": 451677,
-      "word": "金佳蓝遭校园暴力",
-      "onboard_time": 1659335368,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -96,6 +96,14 @@
       "word": "iPhone14或无mini版本",
       "onboard_time": 1659331712,
       "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1757998,
+      "num": 1757998,
+      "word": "苹果或叫停iPhone14涨价计划",
+      "onboard_time": 1659335068,
+      "rank": 15,
       "category": "科技"
     },
     {
@@ -155,14 +163,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 1154410,
-      "num": 1154410,
-      "word": "苹果或叫停iPhone14涨价计划",
-      "onboard_time": 1659335068,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1134411,
       "num": 1134411,
       "word": "我讨厌做饭的原因",
@@ -185,6 +185,22 @@
       "onboard_time": 1659328111,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1085201,
+      "num": 562896,
+      "word": "于正新签的女演员",
+      "onboard_time": 1659338428,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1074700,
+      "num": 915785,
+      "word": "丁程鑫曾救过化妆师",
+      "onboard_time": 1659337886,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1012027,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884016,
+      "num": 884016,
+      "word": "独行月球片尾11个字是沈腾写的",
+      "onboard_time": 1659336390,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 878061,
       "num": 878061,
       "word": "阿姨1个月交往20多名男子让买水果",
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730458,
+      "num": 730458,
+      "word": "我们的飞机再不用飞两遍了",
+      "onboard_time": 1659336328,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727167,
       "num": 727167,
       "word": "初级会计",
@@ -345,6 +377,14 @@
       "onboard_time": 1659321926,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 637595,
+      "num": 637595,
+      "word": "青岛被海浪卷走游客一人确定遇难",
+      "onboard_time": 1659336627,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625736,
@@ -417,6 +457,14 @@
       "onboard_time": 1659325529,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548566,
+      "num": 347043,
+      "word": "沈梦瑶总选中报第一",
+      "onboard_time": 1659336987,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 537896,
@@ -497,6 +545,14 @@
       "onboard_time": 1659284127,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490327,
+      "num": 490327,
+      "word": "打耳洞有哪些危害",
+      "onboard_time": 1659336449,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487458,
@@ -619,6 +675,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 411647,
+      "num": 342003,
+      "word": "少年派2田甜被家暴",
+      "onboard_time": 1659335667,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411050,
       "num": 411050,
       "word": "八一那兔特别版",
@@ -707,20 +771,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 371334,
+      "num": 267441,
+      "word": "张蔷收工吧",
+      "onboard_time": 1659336328,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368857,
       "num": 368857,
       "word": "2岁萌娃将头发剪成火云邪神同款",
       "onboard_time": 1659324449,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368415,
-      "num": 357409,
-      "word": "独行月球片尾11个字是沈腾写的",
-      "onboard_time": 1659336390,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 367325,
@@ -755,27 +819,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339854,
-      "num": 265709,
-      "word": "沈梦瑶总选中报第一",
-      "onboard_time": 1659336987,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337090,
       "num": 219882,
       "word": "月升沧海",
       "onboard_time": 1659275851,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 334978,
-      "num": 265626,
-      "word": "少年派2田甜被家暴",
-      "onboard_time": 1659335667,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -811,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326149,
+      "num": 326149,
+      "word": "厦门市新增本土确诊病例1例",
+      "onboard_time": 1659336449,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320715,
       "num": 320715,
       "word": "BLACKPINK九月回归",
@@ -819,20 +875,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 318797,
-      "num": 265304,
-      "word": "张蔷收工吧",
-      "onboard_time": 1659336328,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 309730,
-      "num": 309730,
-      "word": "打耳洞有哪些危害",
-      "onboard_time": 1659336449,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 311127,
+      "num": 255212,
+      "word": "腾讯音乐由你榜冠军",
+      "onboard_time": 1659338428,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 309663,
@@ -891,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294434,
-      "num": 294434,
-      "word": "我们的飞机再不用飞两遍了",
-      "onboard_time": 1659336328,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293734,
       "num": 293734,
       "word": "如何评价比尔拉塞尔历史地位",
@@ -923,6 +963,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287193,
+      "num": 287193,
+      "word": "EDG新主场",
+      "onboard_time": 1659338309,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 284496,
+      "num": 284496,
+      "word": "中国知网反垄断第一案撤诉",
+      "onboard_time": 1659338068,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284058,
       "num": 284058,
       "word": "双航母编队同框训练场景会越来越多",
@@ -936,6 +992,14 @@
       "word": "研究发现长颈鹿脖子长真正原因",
       "onboard_time": 1659276871,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275721,
+      "num": 275721,
+      "word": "孩子探窗摔落路中央后车封路救娃",
+      "onboard_time": 1659335368,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1025,22 +1089,6 @@
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236246,
-      "num": 236246,
-      "word": "厦门市新增本土确诊病例1例",
-      "onboard_time": 1659336449,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235616,
-      "num": 235616,
-      "word": "孩子探窗摔落路中央后车封路救娃",
-      "onboard_time": 1659335368,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235058,
@@ -1219,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188739,
+      "num": 188739,
+      "word": "各地产假普遍延至158天以上",
+      "onboard_time": 1659337646,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185464,
       "num": 185464,
       "word": "法拉利 战术",
@@ -1233,14 +1289,6 @@
       "onboard_time": 1659284006,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182878,
-      "num": 182878,
-      "word": "青岛被海浪卷走游客一人确定遇难",
-      "onboard_time": 1659336627,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182533,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1659310162,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130510,
+      "num": 130510,
+      "word": "网红提子账号被封禁",
+      "onboard_time": 1659338666,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126164,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1659290954,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36872,
+      "num": 528803,
+      "word": "人民军队95载影像记忆",
+      "onboard_time": 1659337229,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28848,
