@@ -1,0 +1,410 @@
+{
+  "runTime": 1659323104860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2058579,
+        "num": 2058579,
+        "word": "比尔拉塞尔离世",
+        "onboard_time": 1659309261,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1181611,
+        "num": 1181611,
+        "word": "诈骗集团花2亿做广告骗取近5亿",
+        "onboard_time": 1659311004,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 54586,
+        "num": 999985,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1659173434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991973,
+        "num": 991973,
+        "word": "偶运会",
+        "onboard_time": 1659316588,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904015,
+        "num": 904015,
+        "word": "狗子陪主人排队做核酸抖成电动臀",
+        "onboard_time": 1659317188,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727167,
+        "num": 727167,
+        "word": "初级会计",
+        "onboard_time": 1659321026,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 701895,
+        "num": 701895,
+        "word": "警方认定网红用濒危大白鲨做美食",
+        "onboard_time": 1659277833,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658659,
+        "num": 658659,
+        "word": "男生带80斤女友健身变110斤美女",
+        "onboard_time": 1659275731,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654182,
+        "num": 654182,
+        "word": "NCT获得偶运会男子射箭金牌",
+        "onboard_time": 1659321926,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612934,
+        "num": 612934,
+        "word": "男子躺床玩手机砸眼致视网膜脱离",
+        "onboard_time": 1659313891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190421,
+        "num": 612892,
+        "word": "阿里回应被美列入预摘牌名单",
+        "onboard_time": 1659320786,
+        "rank": 10,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 914434,
+        "num": 612883,
+        "word": "王心凌乘风破浪成团应援口号",
+        "onboard_time": 1659322648,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613229,
+        "num": 612821,
+        "word": "小区居民堵门殡葬店大喊搬走",
+        "onboard_time": 1659320424,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612625,
+        "num": 612625,
+        "word": "网红男孩钟美美考上重点高中",
+        "onboard_time": 1659276627,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 592478,
+        "num": 592478,
+        "word": "为什么睡眠不足时胃口会变好",
+        "onboard_time": 1659310346,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568942,
+        "num": 568942,
+        "word": "提子",
+        "onboard_time": 1659279214,
+        "rank": 15,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 566185,
+        "num": 566185,
+        "word": "青岛2游客堤坝上被大浪卷入海中",
+        "onboard_time": 1659321985,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505714,
+        "num": 505714,
+        "word": "与异性室友应该如何相处",
+        "onboard_time": 1659322048,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475629,
+        "num": 475629,
+        "word": "女孩回爷爷家把暑假过成田园诗",
+        "onboard_time": 1659320187,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457929,
+        "num": 457929,
+        "word": "男子酒后强吻女子殴打多人",
+        "onboard_time": 1659322527,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454681,
+        "num": 454681,
+        "word": "独行月球票房破10亿",
+        "onboard_time": 1659309922,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442444,
+        "num": 442444,
+        "word": "科普博主称大白鲨无法人工养殖",
+        "onboard_time": 1659319405,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440272,
+        "num": 440272,
+        "word": "四川大学华西医院暂停门诊",
+        "onboard_time": 1659312689,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387464,
+        "num": 387464,
+        "word": "被鱼鳞潮惊艳到了",
+        "onboard_time": 1659318686,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370334,
+        "num": 370334,
+        "word": "杭州加大三孩家庭购房优惠",
+        "onboard_time": 1659317426,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 359771,
+        "num": 359771,
+        "word": "独行月球片尾11个字看破防了",
+        "onboard_time": 1659278973,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351229,
+        "num": 351229,
+        "word": "易烊千玺桃花坞VCR",
+        "onboard_time": 1659275910,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296916,
+        "num": 296916,
+        "word": "女子5次漏扫码获利200元被刑拘",
+        "onboard_time": 1659310885,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295416,
+        "num": 295416,
+        "word": "河南新增本土无症状43例",
+        "onboard_time": 1659318146,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286354,
+        "num": 286354,
+        "word": "考驾照真的太难了",
+        "onboard_time": 1659276029,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297005,
+        "num": 283812,
+        "word": "成毅唐周今晚见",
+        "onboard_time": 1659317188,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278720,
+        "num": 278720,
+        "word": "网红吃大白鲨事件必须严查",
+        "onboard_time": 1659322468,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253216,
+        "num": 253216,
+        "word": "国产大飞机C919完成取证试飞",
+        "onboard_time": 1659315267,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 246594,
+        "num": 246594,
+        "word": "BLACKPINK九月回归",
+        "onboard_time": 1659316046,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241421,
+        "num": 241421,
+        "word": "直男把送礼给整明白了",
+        "onboard_time": 1659318867,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240300,
+        "num": 240300,
+        "word": "网传与凤行辣目洋子换成钟楚曦",
+        "onboard_time": 1659281311,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224859,
+        "num": 224859,
+        "word": "提离职后能有多快乐",
+        "onboard_time": 1659322407,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224074,
+        "num": 224074,
+        "word": "螺蛳粉臭豆腐肥肠锅能有多臭",
+        "onboard_time": 1659310405,
+        "rank": 37,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 207540,
+        "num": 207540,
+        "word": "北京7月31日新增1例本土确诊",
+        "onboard_time": 1659316528,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205922,
+        "num": 205922,
+        "word": "阿姨1个月交往20多名男子让买水果",
+        "onboard_time": 1659262166,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200922,
+        "num": 200922,
+        "word": "月升沧海",
+        "onboard_time": 1659275851,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195135,
+        "num": 195135,
+        "word": "两萌娃暑假捡瓶子体验生活上瘾",
+        "onboard_time": 1659322286,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192922,
+        "num": 192922,
+        "word": "晚上睡不着可以白天补觉吗",
+        "onboard_time": 1659301271,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186320,
+        "num": 186320,
+        "word": "杨超越唱孤勇者",
+        "onboard_time": 1659318867,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176895,
+        "num": 176895,
+        "word": "八一建军节",
+        "onboard_time": 1659292812,
+        "rank": 44,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 176380,
+        "num": 176380,
+        "word": "20斤猫咪将幼猫夹腿下睡觉",
+        "onboard_time": 1659285384,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161582,
+        "num": 161582,
+        "word": "NBA或因杜兰特停摆",
+        "onboard_time": 1659283590,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160327,
+        "num": 160327,
+        "word": "男子穿短袖误困冰库机智报警自救",
+        "onboard_time": 1659278192,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156481,
+        "num": 156481,
+        "word": "90后双胞胎成立男生家政公司",
+        "onboard_time": 1659308419,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152695,
+        "num": 152695,
+        "word": "八月壁纸",
+        "onboard_time": 1659313227,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}
