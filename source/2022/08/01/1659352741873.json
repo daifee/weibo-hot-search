@@ -1,0 +1,410 @@
+{
+  "runTime": 1659352741873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12431210,
+        "num": 12431210,
+        "word": "周周在西非已失联",
+        "onboard_time": 1659349890,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2263466,
+        "num": 2263466,
+        "word": "中国人开始不爱吃辣了吗",
+        "onboard_time": 1659347490,
+        "rank": 1,
+        "category": "美食,社会议题"
+      },
+      {
+        "raw_hot": 81690,
+        "num": 2263393,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2263340,
+        "num": 2263340,
+        "word": "周周在西非",
+        "onboard_time": 1659346290,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2245826,
+        "num": 2245826,
+        "word": "若佩洛西敢去台湾那我们拭目以待",
+        "onboard_time": 1659349471,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1614030,
+        "num": 1614030,
+        "word": "暂定八月播出的影视剧",
+        "onboard_time": 1659349952,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742694,
+        "num": 742694,
+        "word": "扬州大学回应教师工作5年月薪370元",
+        "onboard_time": 1659345091,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 658064,
+        "num": 658064,
+        "word": "吃大白鲨网红或面临10年以上刑罚",
+        "onboard_time": 1659341307,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579246,
+        "num": 579246,
+        "word": "南非",
+        "onboard_time": 1659343470,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560843,
+        "num": 560843,
+        "word": "蹭网课女孩被浙大录取",
+        "onboard_time": 1659341910,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 906002,
+        "num": 541951,
+        "word": "台媒猜佩洛西最快明日访台",
+        "onboard_time": 1659340170,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 881132,
+        "num": 523575,
+        "word": "胡军工作室道歉",
+        "onboard_time": 1659345753,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820338,
+        "num": 496910,
+        "word": "attention",
+        "onboard_time": 1659350551,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 772292,
+        "num": 469182,
+        "word": "勇士队祝郑秀妍直挂云帆乘风破浪",
+        "onboard_time": 1659350430,
+        "rank": 13,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 29192,
+        "num": 437316,
+        "word": "共同致敬人民子弟兵",
+        "onboard_time": 1659351694,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433941,
+        "num": 433941,
+        "word": "卫健委报告称育龄妇女生育意愿走低",
+        "onboard_time": 1659349289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412212,
+        "num": 412212,
+        "word": "网红烹煮大白鲨是从京东购买",
+        "onboard_time": 1659351993,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392897,
+        "num": 392897,
+        "word": "意大利男子当街打死移民小贩",
+        "onboard_time": 1659349833,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359207,
+        "num": 359207,
+        "word": "外交部再强调佩洛西赴台严重后果",
+        "onboard_time": 1659342331,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357711,
+        "num": 357711,
+        "word": "河南男子违规办丧致疫情扩散",
+        "onboard_time": 1659343831,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701831,
+        "num": 355212,
+        "word": "田甜和家暴男离婚",
+        "onboard_time": 1659347672,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670573,
+        "num": 335021,
+        "word": "鹿哈参加相亲节目",
+        "onboard_time": 1659352416,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 628479,
+        "num": 330013,
+        "word": "独行月球50亿概率有多大",
+        "onboard_time": 1659352112,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587254,
+        "num": 315242,
+        "word": "新加坡总理会见佩洛西",
+        "onboard_time": 1659348810,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 311468,
+        "num": 311468,
+        "word": "苹果或叫停iPhone14涨价计划",
+        "onboard_time": 1659335068,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 309540,
+        "num": 309540,
+        "word": "在新疆没一个馕能留到隔天",
+        "onboard_time": 1659351212,
+        "rank": 25,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 304390,
+        "num": 304390,
+        "word": "官方通报青岛海域2男子被卷入海",
+        "onboard_time": 1659346950,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296260,
+        "num": 296260,
+        "word": "如何看待扬州大学教师薪资",
+        "onboard_time": 1659352535,
+        "rank": 27,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 295690,
+        "num": 295690,
+        "word": "自从外公知道我会P图后",
+        "onboard_time": 1659344432,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290676,
+        "num": 290676,
+        "word": "情侣需要保持高频聊天节奏吗",
+        "onboard_time": 1659352112,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551276,
+        "num": 288164,
+        "word": "于正新签的女演员",
+        "onboard_time": 1659338428,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541477,
+        "num": 286982,
+        "word": "吴磊赵露思版想见你",
+        "onboard_time": 1659346110,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491271,
+        "num": 282546,
+        "word": "丁程鑫曾救过化妆师",
+        "onboard_time": 1659337886,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398793,
+        "num": 279409,
+        "word": "金佳蓝遭校园暴力",
+        "onboard_time": 1659335368,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396975,
+        "num": 278145,
+        "word": "马丽说沈腾是亲人般的存在",
+        "onboard_time": 1659351396,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275796,
+        "num": 275796,
+        "word": "一次不要遛太多狗",
+        "onboard_time": 1659350069,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266870,
+        "num": 266870,
+        "word": "原来真的一眨眼就长大了",
+        "onboard_time": 1659348150,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257204,
+        "num": 257204,
+        "word": "青岛被卷入海中2游客暂未获救",
+        "onboard_time": 1659341430,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256697,
+        "num": 256697,
+        "word": "扬州大学",
+        "onboard_time": 1659332070,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248605,
+        "num": 248605,
+        "word": "民权县新增51例无症状感染者",
+        "onboard_time": 1659348511,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364263,
+        "num": 247049,
+        "word": "玉骨遥",
+        "onboard_time": 1659344491,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244782,
+        "num": 244782,
+        "word": "karsa",
+        "onboard_time": 1659340349,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244090,
+        "num": 244090,
+        "word": "1儿童落水亲属营救6人溺亡",
+        "onboard_time": 1659341070,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233451,
+        "num": 233451,
+        "word": "网红提子账号被封禁",
+        "onboard_time": 1659338666,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228843,
+        "num": 228843,
+        "word": "本次压实线不予处罚",
+        "onboard_time": 1659342453,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195968,
+        "num": 195968,
+        "word": "爆红的97年小伙首谈助农心路历程",
+        "onboard_time": 1659345633,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178702,
+        "num": 178702,
+        "word": "打耳洞有哪些危害",
+        "onboard_time": 1659336449,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166196,
+        "num": 166196,
+        "word": "手机自带的软件为何删不掉",
+        "onboard_time": 1659350909,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162126,
+        "num": 162126,
+        "word": "当军娃是种什么体验",
+        "onboard_time": 1659348032,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157174,
+        "num": 157174,
+        "word": "自助西瓜摊卖500多斤瓜钱一分不少",
+        "onboard_time": 1659340709,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}

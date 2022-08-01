@@ -1,7 +1,15 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659350614988,
+  "endTime": 1659352741873,
   "band_list": [
+    {
+      "raw_hot": 12431210,
+      "num": 12431210,
+      "word": "周周在西非已失联",
+      "onboard_time": 1659349890,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
     {
       "raw_hot": 7158216,
       "num": 6408345,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2803770,
-      "num": 1741925,
+      "num": 2263340,
       "word": "周周在西非",
       "onboard_time": 1659346290,
       "rank": 15,
@@ -65,6 +73,14 @@
       "onboard_time": 1659338428,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2245826,
+      "num": 2245826,
+      "word": "若佩洛西敢去台湾那我们拭目以待",
+      "onboard_time": 1659349471,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2243504,
@@ -163,19 +179,19 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1740782,
-      "num": 1740782,
-      "word": "周周在西非已失联",
-      "onboard_time": 1659349890,
-      "rank": 4,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1720260,
       "num": 1720260,
       "word": "电影沙海官宣",
       "onboard_time": 1659323306,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1614030,
+      "num": 1614030,
+      "word": "暂定八月播出的影视剧",
+      "onboard_time": 1659349952,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -241,14 +257,6 @@
       "onboard_time": 1659323248,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1288741,
-      "num": 566024,
-      "word": "暂定八月播出的影视剧",
-      "onboard_time": 1659349952,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1257826,
@@ -427,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 840226,
-      "num": 544640,
-      "word": "若佩洛西敢去台湾那我们拭目以待",
-      "onboard_time": 1659349471,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 821106,
       "num": 821106,
       "word": "睡眠少了可能是你年纪大了",
       "onboard_time": 1659298750,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820338,
+      "num": 496910,
+      "word": "attention",
+      "onboard_time": 1659350551,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 806800,
@@ -457,6 +465,14 @@
       "onboard_time": 1659312689,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772292,
+      "num": 469182,
+      "word": "勇士队祝郑秀妍直挂云帆乘风破浪",
+      "onboard_time": 1659350430,
+      "rank": 31,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 768506,
@@ -539,6 +555,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 670573,
+      "num": 335021,
+      "word": "鹿哈参加相亲节目",
+      "onboard_time": 1659352416,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 670504,
       "num": 670504,
       "word": "中国知网反垄断第一案撤诉",
@@ -584,6 +608,14 @@
       "word": "胡歌吴越张新成县委大院剧照",
       "onboard_time": 1659342091,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 628479,
+      "num": 330013,
+      "word": "独行月球50亿概率有多大",
+      "onboard_time": 1659352112,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -827,14 +859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 480529,
-      "num": 322015,
-      "word": "勇士队祝郑秀妍直挂云帆乘风破浪",
-      "onboard_time": 1659350430,
-      "rank": 31,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 479096,
       "num": 479096,
       "word": "人口负增长下少子老龄化将成为常态",
@@ -931,20 +955,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 433941,
+      "num": 433941,
+      "word": "卫健委报告称育龄妇女生育意愿走低",
+      "onboard_time": 1659349289,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433547,
       "num": 433547,
       "word": "各地产假普遍延至158天以上",
       "onboard_time": 1659337646,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429550,
-      "num": 248805,
-      "word": "attention",
-      "onboard_time": 1659350551,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 426609,
@@ -1019,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412212,
+      "num": 412212,
+      "word": "网红烹煮大白鲨是从京东购买",
+      "onboard_time": 1659351993,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412190,
       "num": 412190,
       "word": "本次压实线不予处罚",
@@ -1091,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394217,
-      "num": 394217,
-      "word": "卫健委报告称育龄妇女生育意愿走低",
-      "onboard_time": 1659349289,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 396975,
+      "num": 278145,
+      "word": "马丽说沈腾是亲人般的存在",
+      "onboard_time": 1659351396,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 393552,
@@ -1104,6 +1136,14 @@
       "word": "男子走路看手机撞伤老人被判赔2万",
       "onboard_time": 1659325889,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392897,
+      "num": 392897,
+      "word": "意大利男子当街打死移民小贩",
+      "onboard_time": 1659349833,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309540,
+      "num": 309540,
+      "word": "在新疆没一个馕能留到隔天",
+      "onboard_time": 1659351212,
+      "rank": 25,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 305318,
       "num": 305318,
       "word": "八一建军节",
@@ -1379,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296260,
+      "num": 296260,
+      "word": "如何看待扬州大学教师薪资",
+      "onboard_time": 1659352535,
+      "rank": 27,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 295861,
       "num": 295861,
       "word": "每日优鲜称未发资金断链公告",
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290676,
+      "num": 290676,
+      "word": "情侣需要保持高频聊天节奏吗",
+      "onboard_time": 1659352112,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290030,
       "num": 290030,
       "word": "网红烹食大白鲨来自福建沿海",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1659276871,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275796,
+      "num": 275796,
+      "word": "一次不要遛太多狗",
+      "onboard_time": 1659350069,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 275320,
@@ -1555,28 +1627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249879,
-      "num": 249879,
-      "word": "意大利男子当街打死移民小贩",
-      "onboard_time": 1659349833,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247099,
       "num": 247099,
       "word": "郭艾伦 发点啥都会被过度分析和解读",
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244925,
-      "num": 244925,
-      "word": "一次不要遛太多狗",
-      "onboard_time": 1659350069,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 243811,
@@ -1820,11 +1876,19 @@
     },
     {
       "raw_hot": 168962,
-      "num": 1867039,
+      "num": 2263393,
       "word": "不变的军人印记",
       "onboard_time": 1659325406,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 166196,
+      "num": 166196,
+      "word": "手机自带的软件为何删不掉",
+      "onboard_time": 1659350909,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 159942,
@@ -1983,6 +2047,14 @@
       "num": 528803,
       "word": "人民军队95载影像记忆",
       "onboard_time": 1659337229,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29192,
+      "num": 437316,
+      "word": "共同致敬人民子弟兵",
+      "onboard_time": 1659351694,
       "rank": 14,
       "category": "社会新闻"
     },
