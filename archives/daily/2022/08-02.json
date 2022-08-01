@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659379715332,
+  "endTime": 1659381414499,
   "band_list": [
     {
       "raw_hot": 9656338,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152864,
+      "num": 152864,
+      "word": "柯基满身是血用眼神求助路人送医",
+      "onboard_time": 1659377357,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148149,
       "num": 148149,
       "word": "扬州大学回应教师游学倒欠7万",
@@ -360,14 +368,6 @@
       "word": "胡锡进",
       "onboard_time": 1659360579,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146033,
-      "num": 146033,
-      "word": "柯基满身是血用眼神求助路人送医",
-      "onboard_time": 1659377357,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -443,20 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55282,
+      "num": 55282,
+      "word": "暑期视频创想季",
+      "onboard_time": 1659381191,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 54887,
+      "num": 54887,
+      "word": "胡军回应代言理财产品爆雷",
+      "onboard_time": 1659379273,
+      "rank": 43,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 48235,
       "num": 48235,
       "word": "俩狗狗打闹时看到镜头马上表情管理",
       "onboard_time": 1659373882,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31748,
-      "num": 31748,
-      "word": "胡军回应代言理财产品爆雷",
-      "onboard_time": 1659379273,
-      "rank": 43,
-      "category": "艺人,社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659379715332,
+  "endTime": 1659381414499,
   "band_list": [
     {
       "raw_hot": 15888865,
@@ -2531,19 +2531,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152864,
+      "num": 152864,
+      "word": "柯基满身是血用眼神求助路人送医",
+      "onboard_time": 1659377357,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148000,
       "num": 148000,
       "word": "吐鲁番一串葡萄有手臂那么长",
       "onboard_time": 1659264449,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146033,
-      "num": 146033,
-      "word": "柯基满身是血用眼神求助路人送医",
-      "onboard_time": 1659377357,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2683,6 +2683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55282,
+      "num": 55282,
+      "word": "暑期视频创想季",
+      "onboard_time": 1659381191,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 54887,
+      "num": 54887,
+      "word": "胡军回应代言理财产品爆雷",
+      "onboard_time": 1659379273,
+      "rank": 43,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 52417,
       "num": 40662,
       "word": "电影可以有多致郁",
@@ -2721,14 +2737,6 @@
       "onboard_time": 1659337229,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31748,
-      "num": 31748,
-      "word": "胡军回应代言理财产品爆雷",
-      "onboard_time": 1659379273,
-      "rank": 43,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 28848,
