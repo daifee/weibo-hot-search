@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659346783173,
+  "endTime": 1659349578122,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -41,6 +41,14 @@
       "onboard_time": 1659340170,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2803770,
+      "num": 1092203,
+      "word": "周周在西非",
+      "onboard_time": 1659346290,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 2280718,
@@ -96,6 +104,14 @@
       "word": "胡军代言翻车疑似涉及390亿元",
       "onboard_time": 1659330274,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2023072,
+      "num": 2023072,
+      "word": "胡军工作室道歉",
+      "onboard_time": 1659345753,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1659316588,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1528820,
+      "num": 1528820,
+      "word": "中国人开始不爱吃辣了吗",
+      "onboard_time": 1659347490,
+      "rank": 1,
+      "category": "美食,社会议题"
     },
     {
       "raw_hot": 1522167,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995215,
+      "num": 995215,
+      "word": "扬州大学回应教师工作5年月薪370元",
+      "onboard_time": 1659345091,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 969026,
       "num": 969026,
       "word": "苹果怼安卓应用商店",
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 810920,
-      "num": 810920,
-      "word": "胡军工作室道歉",
-      "onboard_time": 1659345753,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 806800,
       "num": 631721,
       "word": "扬州大学",
@@ -409,6 +433,14 @@
       "onboard_time": 1659312689,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768506,
+      "num": 768506,
+      "word": "hype boy",
+      "onboard_time": 1659348390,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 767133,
@@ -435,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 761959,
-      "num": 761959,
-      "word": "扬州大学回应教师工作5年月薪370元",
-      "onboard_time": 1659345091,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 741312,
       "num": 751876,
       "word": "青岛被海浪卷走游客一人确定遇难",
@@ -467,14 +491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 725539,
-      "num": 725539,
-      "word": "周周在西非",
-      "onboard_time": 1659346290,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 723805,
       "num": 723805,
       "word": "提离职后能有多快乐",
@@ -489,6 +505,14 @@
       "onboard_time": 1659338068,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658823,
+      "num": 658823,
+      "word": "吴磊赵露思版想见你",
+      "onboard_time": 1659346110,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 656381,
@@ -539,14 +563,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 619690,
-      "num": 559080,
-      "word": "吴磊赵露思版想见你",
-      "onboard_time": 1659346110,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 615025,
       "num": 615025,
       "word": "我型我秀团综常驻嘉宾阵容",
@@ -576,6 +592,14 @@
       "word": "独行月球票房破10亿",
       "onboard_time": 1659309922,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 594079,
+      "num": 423911,
+      "word": "田甜和家暴男离婚",
+      "onboard_time": 1659347672,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -883,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425011,
+      "num": 425011,
+      "word": "爆红的97年小伙首谈助农心路历程",
+      "onboard_time": 1659345633,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423334,
       "num": 312995,
       "word": "七夕最想约会女明星",
@@ -907,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421369,
+      "num": 421369,
+      "word": "新加坡总理会见佩洛西",
+      "onboard_time": 1659348810,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 419344,
       "num": 399248,
       "word": "独行月球片尾11个字看破防了",
@@ -921,6 +961,22 @@
       "onboard_time": 1659315267,
       "rank": 16,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 414547,
+      "num": 331843,
+      "word": "法国街头的沉香如屑",
+      "onboard_time": 1659349052,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412787,
+      "num": 329368,
+      "word": "NewJeans出道曲cookie",
+      "onboard_time": 1659349289,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 412190,
@@ -969,6 +1025,14 @@
       "onboard_time": 1659282809,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402748,
+      "num": 402748,
+      "word": "原来真的一眨眼就长大了",
+      "onboard_time": 1659348150,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 397956,
@@ -1027,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378953,
+      "num": 378953,
+      "word": "官方通报青岛海域2男子被卷入海",
+      "onboard_time": 1659346950,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378848,
       "num": 378848,
       "word": "野原广志终于把房贷还完了",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1659336328,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371176,
-      "num": 371176,
-      "word": "爆红的97年小伙首谈助农心路历程",
-      "onboard_time": 1659345633,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368857,
@@ -1171,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325510,
+      "num": 325510,
+      "word": "民权县新增51例无症状感染者",
+      "onboard_time": 1659348511,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320715,
       "num": 320715,
       "word": "BLACKPINK九月回归",
@@ -1249,6 +1321,14 @@
       "onboard_time": 1659318867,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295861,
+      "num": 295861,
+      "word": "每日优鲜称未发资金断链公告",
+      "onboard_time": 1659347789,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295078,
@@ -1347,6 +1427,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 270493,
+      "num": 270493,
+      "word": "若佩洛西敢去台湾那我们拭目以待",
+      "onboard_time": 1659349471,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 269368,
       "num": 269368,
       "word": "张蔷成团吧",
@@ -1443,6 +1531,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 234968,
+      "num": 234968,
+      "word": "颜淡靠嘴赢了选美大赛",
+      "onboard_time": 1659349471,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233869,
       "num": 233869,
       "word": "广东工业大学虽败犹荣",
@@ -1489,6 +1585,14 @@
       "onboard_time": 1659284788,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222104,
+      "num": 222104,
+      "word": "卫健委报告称育龄妇女生育意愿走低",
+      "onboard_time": 1659349289,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220485,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1659290954,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 137550,
+      "num": 582780,
+      "word": "当军娃是种什么体验",
+      "onboard_time": 1659348032,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132241,
