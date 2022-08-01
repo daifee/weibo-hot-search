@@ -1,0 +1,410 @@
+{
+  "runTime": 1659328561458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3319593,
+        "num": 3319593,
+        "word": "PSY演唱会工作人员坠亡",
+        "onboard_time": 1659325709,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2074267,
+        "num": 2074267,
+        "word": "网红吃大白鲨事件必须严查",
+        "onboard_time": 1659322468,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160905,
+        "num": 1867039,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1848223,
+        "num": 1848223,
+        "word": "孟子义素颜",
+        "onboard_time": 1659324749,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1720260,
+        "num": 1720260,
+        "word": "电影沙海官宣",
+        "onboard_time": 1659323306,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1290850,
+        "num": 1290850,
+        "word": "2大妈马路边睡觉遭转弯车辆碾压",
+        "onboard_time": 1659323248,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123847,
+        "num": 1123847,
+        "word": "蔚来或推出10万元以下汽车",
+        "onboard_time": 1659325709,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073359,
+        "num": 1073359,
+        "word": "我讨厌做饭的原因",
+        "onboard_time": 1659323965,
+        "rank": 7,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 965436,
+        "num": 965436,
+        "word": "青海一地发生溺水事件6人溺亡",
+        "onboard_time": 1659323488,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858700,
+        "num": 858700,
+        "word": "比尔拉塞尔离世",
+        "onboard_time": 1659309261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1642891,
+        "num": 812449,
+        "word": "周渝民夫妻遭诈骗775万",
+        "onboard_time": 1659327992,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764460,
+        "num": 764460,
+        "word": "青岛2游客堤坝上被大浪卷入海中",
+        "onboard_time": 1659321985,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723805,
+        "num": 723805,
+        "word": "提离职后能有多快乐",
+        "onboard_time": 1659322407,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 696940,
+        "num": 696940,
+        "word": "初级会计",
+        "onboard_time": 1659321026,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567320,
+        "num": 567320,
+        "word": "华语歌手Spotify听众人数排名",
+        "onboard_time": 1659325529,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2243504,
+        "num": 565895,
+        "word": "男子酒后强吻女子殴打多人",
+        "onboard_time": 1659322527,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539163,
+        "num": 539163,
+        "word": "王心凌乘风破浪成团应援口号",
+        "onboard_time": 1659322648,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496928,
+        "num": 496928,
+        "word": "诈骗集团花2亿做广告骗取近5亿",
+        "onboard_time": 1659311004,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 495295,
+        "num": 495295,
+        "word": "苹果应用商店增加广告位",
+        "onboard_time": 1659326850,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 489820,
+        "num": 489820,
+        "word": "小区居民堵门殡葬店大喊搬走",
+        "onboard_time": 1659320424,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525176,
+        "num": 488980,
+        "word": "冠军对冠军官宣阵容",
+        "onboard_time": 1659326909,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445055,
+        "num": 445055,
+        "word": "黄铉辰撒娇",
+        "onboard_time": 1659328415,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435952,
+        "num": 435952,
+        "word": "偶运会",
+        "onboard_time": 1659316588,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400731,
+        "num": 400731,
+        "word": "阿里回应被美列入预摘牌名单",
+        "onboard_time": 1659320786,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 367864,
+        "num": 367864,
+        "word": "男子走路看手机撞伤老人被判赔2万",
+        "onboard_time": 1659325889,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363727,
+        "num": 363727,
+        "word": "八一那兔特别版",
+        "onboard_time": 1659327030,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361222,
+        "num": 361222,
+        "word": "狗子陪主人排队做核酸抖成电动臀",
+        "onboard_time": 1659317188,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350675,
+        "num": 350675,
+        "word": "2岁萌娃将头发剪成火云邪神同款",
+        "onboard_time": 1659324449,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345793,
+        "num": 345793,
+        "word": "大猩猩帅气扔回游客掉落拖鞋",
+        "onboard_time": 1659323729,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 313294,
+        "num": 313294,
+        "word": "四川大学华西医院暂停门诊",
+        "onboard_time": 1659312689,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423334,
+        "num": 312995,
+        "word": "七夕最想约会女明星",
+        "onboard_time": 1659324389,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375462,
+        "num": 311720,
+        "word": "与异性室友应该如何相处",
+        "onboard_time": 1659322048,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352550,
+        "num": 311449,
+        "word": "提子",
+        "onboard_time": 1659279214,
+        "rank": 32,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 309663,
+        "num": 309663,
+        "word": "黄子韬演周一的我",
+        "onboard_time": 1659325231,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308690,
+        "num": 308690,
+        "word": "女孩回爷爷家把暑假过成田园诗",
+        "onboard_time": 1659320187,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270253,
+        "num": 270253,
+        "word": "女生美甲片底发绿发黑疑长霉斑",
+        "onboard_time": 1659328111,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269113,
+        "num": 269113,
+        "word": "被鱼鳞潮惊艳到了",
+        "onboard_time": 1659318686,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260258,
+        "num": 260258,
+        "word": "贩卖大白鲨相关人员被控制",
+        "onboard_time": 1659328111,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255665,
+        "num": 255665,
+        "word": "六万块积木神还原福建舰",
+        "onboard_time": 1659323669,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 210413,
+        "num": 210413,
+        "word": "科普博主称大白鲨无法人工养殖",
+        "onboard_time": 1659319405,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286065,
+        "num": 205241,
+        "word": "独行月球票房破10亿",
+        "onboard_time": 1659309922,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198124,
+        "num": 198124,
+        "word": "男生带80斤女友健身变110斤美女",
+        "onboard_time": 1659275731,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227304,
+        "num": 194883,
+        "word": "宇宙这么大 我们还会遇见",
+        "onboard_time": 1659326970,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187751,
+        "num": 187751,
+        "word": "警方认定网红用濒危大白鲨做美食",
+        "onboard_time": 1659277833,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186575,
+        "num": 186575,
+        "word": "直男把送礼给整明白了",
+        "onboard_time": 1659318867,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186270,
+        "num": 186270,
+        "word": "女子5次漏扫码获利200元被刑拘",
+        "onboard_time": 1659310885,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184371,
+        "num": 184371,
+        "word": "为什么睡眠不足时胃口会变好",
+        "onboard_time": 1659310346,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498436,
+        "num": 181039,
+        "word": "我型我秀团综常驻嘉宾阵容",
+        "onboard_time": 1659328534,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170652,
+        "num": 170652,
+        "word": "国产大飞机C919完成取证试飞",
+        "onboard_time": 1659315267,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 164869,
+        "num": 164869,
+        "word": "河南新增本土无症状43例",
+        "onboard_time": 1659318146,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#能战方能止战#"
+    }
+  }
+}
