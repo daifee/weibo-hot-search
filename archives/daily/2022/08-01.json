@@ -1,9 +1,9 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659329568736,
+  "endTime": 1659333303826,
   "band_list": [
     {
-      "raw_hot": 6408345,
+      "raw_hot": 7158216,
       "num": 6408345,
       "word": "周渝民夫妻遭诈骗775万",
       "onboard_time": 1659327992,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2141045,
+      "num": 1164114,
+      "word": "00后女生打耳洞致颅内感染",
+      "onboard_time": 1659329255,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2074267,
       "num": 2074267,
       "word": "网红吃大白鲨事件必须严查",
@@ -57,6 +65,14 @@
       "onboard_time": 1659277833,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1897027,
+      "num": 1124479,
+      "word": "胡军代言翻车疑似涉及390亿元",
+      "onboard_time": 1659330274,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1848223,
@@ -89,6 +105,14 @@
       "onboard_time": 1659316588,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1343391,
+      "num": 2043476,
+      "word": "iPhone14或无mini版本",
+      "onboard_time": 1659331712,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 1331963,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088282,
+      "num": 1088282,
+      "word": "女生美甲片底发绿发黑疑长霉斑",
+      "onboard_time": 1659328111,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012027,
       "num": 1012027,
       "word": "网传与凤行辣目洋子换成钟楚曦",
@@ -160,14 +192,6 @@
       "word": "青海一地发生溺水事件6人溺亡",
       "onboard_time": 1659323488,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 956553,
-      "num": 956553,
-      "word": "女生美甲片底发绿发黑疑长霉斑",
-      "onboard_time": 1659328111,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806800,
+      "num": 555313,
+      "word": "扬州大学",
+      "onboard_time": 1659332070,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797856,
       "num": 797856,
       "word": "四川大学华西医院暂停门诊",
@@ -265,6 +297,14 @@
       "onboard_time": 1659322407,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 656252,
+      "num": 656252,
+      "word": "贩卖大白鲨相关人员被控制",
+      "onboard_time": 1659328111,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654182,
@@ -427,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472911,
-      "num": 472911,
-      "word": "贩卖大白鲨相关人员被控制",
-      "onboard_time": 1659328111,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 468022,
+      "num": 468022,
+      "word": "2026世界杯亚洲区将有8.5个名额",
+      "onboard_time": 1659331233,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 466969,
@@ -449,6 +489,14 @@
       "onboard_time": 1659281130,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458895,
+      "num": 458895,
+      "word": "林妙妙钱三一开始甜了",
+      "onboard_time": 1659331531,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 456462,
@@ -619,6 +667,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 340553,
+      "num": 340553,
+      "word": "浪潮",
+      "onboard_time": 1659330457,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337090,
       "num": 219882,
       "word": "月升沧海",
@@ -643,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325344,
+      "num": 325344,
+      "word": "研究证实智能手表有助减肥",
+      "onboard_time": 1659330572,
+      "rank": 19,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 320715,
       "num": 320715,
       "word": "BLACKPINK九月回归",
@@ -665,6 +729,14 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 298110,
+      "num": 298110,
+      "word": "妈妈街头冒雨卖枸杞救肝硬化儿子",
+      "onboard_time": 1659331172,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297300,
@@ -704,14 +776,6 @@
       "word": "研究发现长颈鹿脖子长真正原因",
       "onboard_time": 1659276871,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277166,
-      "num": 277166,
-      "word": "00后女生打耳洞致颅内感染",
-      "onboard_time": 1659329255,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -785,6 +849,14 @@
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237106,
+      "num": 233989,
+      "word": "经纪人回应周渝民被诈骗",
+      "onboard_time": 1659332432,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 235058,
@@ -883,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204516,
+      "num": 204516,
+      "word": "见证了一朵白云的诞生",
+      "onboard_time": 1659331172,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204298,
       "num": 204298,
       "word": "你可以永远相信人民解放军",
@@ -905,6 +985,14 @@
       "onboard_time": 1659272728,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 198187,
+      "num": 198187,
+      "word": "小朋友过家家用花草做38道菜盛宴",
+      "onboard_time": 1659332371,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197609,
@@ -947,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183147,
+      "num": 183147,
+      "word": "苹果怼安卓应用商店",
+      "onboard_time": 1659333030,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 182533,
       "num": 182533,
       "word": "武大靖说会坚持到下一届冬奥会",
@@ -979,6 +1075,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 167900,
+      "num": 167900,
+      "word": "唐周也是翻龟君",
+      "onboard_time": 1659332909,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "全国一共有156173个王刚",
@@ -1003,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "双航母编队同框训练场景会越来越多",
+      "onboard_time": 1659332966,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 138627,
       "num": 138627,
       "word": "谢谢你们守护安全感",
@@ -1017,6 +1129,14 @@
       "onboard_time": 1659310162,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126862,
+      "num": 126862,
+      "word": "黄鼠狼坐车上高速后慌了",
+      "onboard_time": 1659332850,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126164,
