@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659345845581,
+  "endTime": 1659346783173,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -131,8 +131,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1751404,
-      "num": 1751404,
+      "raw_hot": 1754854,
+      "num": 1754854,
       "word": "蹭网课女孩被浙大录取",
       "onboard_time": 1659341910,
       "rank": 33,
@@ -211,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1195155,
-      "num": 1195155,
+      "raw_hot": 1257826,
+      "num": 1257826,
       "word": "吃大白鲨网红或面临10年以上刑罚",
       "onboard_time": 1659341307,
       "rank": 16,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074176,
+      "num": 1074176,
+      "word": "玉骨遥",
+      "onboard_time": 1659344491,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1061900,
       "num": 1061900,
       "word": "独行月球片尾11个字是沈腾写的",
@@ -313,14 +321,6 @@
       "onboard_time": 1659323488,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957537,
-      "num": 957537,
-      "word": "玉骨遥",
-      "onboard_time": 1659344491,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 954928,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810920,
+      "num": 810920,
+      "word": "胡军工作室道歉",
+      "onboard_time": 1659345753,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806800,
       "num": 631721,
       "word": "扬州大学",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761959,
+      "num": 761959,
+      "word": "扬州大学回应教师工作5年月薪370元",
+      "onboard_time": 1659345091,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 741312,
       "num": 751876,
       "word": "青岛被海浪卷走游客一人确定遇难",
@@ -449,6 +465,14 @@
       "onboard_time": 1659321026,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 725539,
+      "num": 725539,
+      "word": "周周在西非",
+      "onboard_time": 1659346290,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 723805,
@@ -515,6 +539,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 619690,
+      "num": 559080,
+      "word": "吴磊赵露思版想见你",
+      "onboard_time": 1659346110,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 615025,
       "num": 615025,
       "word": "我型我秀团综常驻嘉宾阵容",
@@ -561,6 +593,14 @@
       "onboard_time": 1659336987,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 584285,
+      "num": 584285,
+      "word": "自从外公知道我会P图后",
+      "onboard_time": 1659344432,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 579077,
@@ -633,14 +673,6 @@
       "onboard_time": 1659317426,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 525750,
-      "num": 525750,
-      "word": "自从外公知道我会P图后",
-      "onboard_time": 1659344432,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 525176,
@@ -1011,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369704,
-      "num": 369704,
-      "word": "扬州大学回应教师工作5年月薪370元",
-      "onboard_time": 1659345091,
-      "rank": 32,
-      "category": "社会新闻,教育"
+      "raw_hot": 371176,
+      "num": 371176,
+      "word": "爆红的97年小伙首谈助农心路历程",
+      "onboard_time": 1659345633,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368857,
@@ -1283,14 +1315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 274503,
-      "num": 274503,
-      "word": "胡军工作室道歉",
-      "onboard_time": 1659345753,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273926,
       "num": 273926,
       "word": "杨超越唱孤勇者",
@@ -1339,20 +1363,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260648,
-      "num": 260648,
-      "word": "爆红的97年小伙首谈助农心路历程",
-      "onboard_time": 1659345633,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260158,
       "num": 260158,
       "word": "BLACKPINK回归预告",
       "onboard_time": 1659309803,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259845,
+      "num": 256283,
+      "word": "朱一龙说只要在武汉就会去过早",
+      "onboard_time": 1659345450,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259554,
+      "num": 248837,
+      "word": "三里屯偶遇孙怡录制大使的厨房",
+      "onboard_time": 1659346171,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 258413,
@@ -1369,14 +1401,6 @@
       "onboard_time": 1659332432,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256283,
-      "num": 256283,
-      "word": "朱一龙说只要在武汉就会去过早",
-      "onboard_time": 1659345450,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 255665,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243811,
+      "num": 243811,
+      "word": "苹果推出闪送服务",
+      "onboard_time": 1659346290,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 235058,
@@ -1731,6 +1763,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 81266,
+      "num": 741530,
+      "word": "今年是杜富国从军第12年",
+      "onboard_time": 1659344432,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79183,
       "num": 79183,
       "word": "梅西生涯第41冠",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1659279153,
       "rank": 48,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 67858,
-      "num": 705557,
-      "word": "今年是杜富国从军第12年",
-      "onboard_time": 1659344432,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57336,
