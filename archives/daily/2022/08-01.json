@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659310610149,
+  "endTime": 1659320487777,
   "band_list": [
     {
       "raw_hot": 3405441,
@@ -27,12 +27,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1612766,
+      "num": 1612766,
+      "word": "男子躺床玩手机砸眼致视网膜脱离",
+      "onboard_time": 1659313891,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1570116,
+      "num": 1015132,
+      "word": "偶运会",
+      "onboard_time": 1659316588,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1331963,
       "num": 1331963,
       "word": "网红男孩钟美美考上重点高中",
       "onboard_time": 1659276627,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1313583,
+      "num": 1313583,
+      "word": "诈骗集团花2亿做广告骗取近5亿",
+      "onboard_time": 1659311004,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1012027,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 847790,
-      "num": 319750,
+      "num": 381207,
       "word": "易烊千玺桃花坞VCR",
       "onboard_time": 1659275910,
       "rank": 20,
@@ -91,12 +115,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797856,
+      "num": 797856,
+      "word": "四川大学华西医院暂停门诊",
+      "onboard_time": 1659312689,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762816,
+      "num": 762816,
+      "word": "为什么睡眠不足时胃口会变好",
+      "onboard_time": 1659310346,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745398,
+      "num": 745398,
+      "word": "狗子陪主人排队做核酸抖成电动臀",
+      "onboard_time": 1659317188,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625736,
       "num": 625736,
       "word": "八一天安门广场升旗仪式",
       "onboard_time": 1659309081,
       "rank": 18,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 597891,
+      "num": 597891,
+      "word": "独行月球票房破10亿",
+      "onboard_time": 1659309922,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 587336,
@@ -131,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527878,
+      "num": 527878,
+      "word": "杭州加大三孩家庭购房优惠",
+      "onboard_time": 1659317426,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 507601,
       "num": 479068,
       "word": "杨幂线上演唱会彩排照",
       "onboard_time": 1659278793,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 491279,
+      "num": 491279,
+      "word": "女子5次漏扫码获利200元被刑拘",
+      "onboard_time": 1659310885,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490719,
@@ -204,11 +276,19 @@
     },
     {
       "raw_hot": 419344,
-      "num": 346033,
+      "num": 399248,
       "word": "独行月球片尾11个字看破防了",
       "onboard_time": 1659278973,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416186,
+      "num": 416186,
+      "word": "国产大飞机C919完成取证试飞",
+      "onboard_time": 1659315267,
+      "rank": 16,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 408888,
@@ -227,12 +307,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397956,
+      "num": 397956,
+      "word": "北京7月31日新增1例本土确诊",
+      "onboard_time": 1659316528,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397235,
       "num": 397235,
       "word": "男子穿短袖误困冰库机智报警自救",
       "onboard_time": 1659278192,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382691,
+      "num": 382691,
+      "word": "河南新增本土无症状43例",
+      "onboard_time": 1659318146,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367325,
+      "num": 367325,
+      "word": "成毅唐周今晚见",
+      "onboard_time": 1659317188,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 359907,
@@ -243,8 +347,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359413,
+      "num": 359413,
+      "word": "科普博主称大白鲨无法人工养殖",
+      "onboard_time": 1659319405,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337090,
-      "num": 158861,
+      "num": 219882,
       "word": "月升沧海",
       "onboard_time": 1659275851,
       "rank": 40,
@@ -259,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332187,
+      "num": 332187,
+      "word": "被鱼鳞潮惊艳到了",
+      "onboard_time": 1659318686,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327706,
       "num": 327706,
       "word": "数学家丘成桐称很少教儿子数学",
@@ -267,12 +387,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295522,
-      "num": 295522,
+      "raw_hot": 320715,
+      "num": 320715,
+      "word": "BLACKPINK九月回归",
+      "onboard_time": 1659316046,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 305318,
+      "num": 305318,
       "word": "八一建军节",
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 297300,
+      "num": 297300,
+      "word": "直男把送礼给整明白了",
+      "onboard_time": 1659318867,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 295078,
+      "num": 295078,
+      "word": "7月31日新增确诊84例",
+      "onboard_time": 1659320067,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291566,
@@ -289,6 +433,14 @@
       "onboard_time": 1659276871,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273926,
+      "num": 273926,
+      "word": "杨超越唱孤勇者",
+      "onboard_time": 1659318867,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272513,
@@ -355,20 +507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233676,
+      "num": 233676,
+      "word": "螺蛳粉臭豆腐肥肠锅能有多臭",
+      "onboard_time": 1659310405,
+      "rank": 41,
+      "category": "综艺,美食"
+    },
+    {
       "raw_hot": 232911,
       "num": 232911,
       "word": "佩洛西8月1日到访新加坡",
       "onboard_time": 1659267091,
       "rank": 26,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 226648,
-      "num": 226648,
-      "word": "为什么睡眠不足时胃口会变好",
-      "onboard_time": 1659310346,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225801,
@@ -379,12 +531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215213,
-      "num": 215213,
-      "word": "独行月球票房破10亿",
-      "onboard_time": 1659309922,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 220485,
+      "num": 220485,
+      "word": "7月31日新增本土确诊33例",
+      "onboard_time": 1659317665,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215951,
+      "num": 215951,
+      "word": "甘肃增15例确诊66例无症状",
+      "onboard_time": 1659317665,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213998,
@@ -403,12 +563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209170,
+      "num": 209170,
+      "word": "八月壁纸",
+      "onboard_time": 1659313227,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209161,
       "num": 209161,
       "word": "F1匈牙利大奖赛",
       "onboard_time": 1659284365,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204298,
+      "num": 204298,
+      "word": "你可以永远相信人民解放军",
+      "onboard_time": 1659316827,
+      "rank": 42,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 202230,
@@ -435,6 +611,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 196740,
+      "num": 196740,
+      "word": "人民解放军生日快乐",
+      "onboard_time": 1659319644,
+      "rank": 43,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 190670,
+      "num": 190670,
+      "word": "女孩回爷爷家把暑假过成田园诗",
+      "onboard_time": 1659320187,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185464,
       "num": 185464,
       "word": "法拉利 战术",
@@ -457,6 +649,22 @@
       "onboard_time": 1659281730,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177177,
+      "num": 177177,
+      "word": "8月第一天",
+      "onboard_time": 1659319523,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174162,
+      "num": 174162,
+      "word": "小区居民堵门殡葬店大喊搬走",
+      "onboard_time": 1659320424,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170857,
@@ -513,14 +721,6 @@
       "onboard_time": 1659259949,
       "rank": 44,
       "category": "社会议题,教育"
-    },
-    {
-      "raw_hot": 121757,
-      "num": 110105,
-      "word": "螺蛳粉臭豆腐肥肠锅能有多臭",
-      "onboard_time": 1659310405,
-      "rank": 41,
-      "category": "综艺,美食"
     },
     {
       "raw_hot": 113534,
