@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659374926648,
+  "endTime": 1659375840476,
   "band_list": [
     {
       "raw_hot": 15888865,
@@ -1859,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305689,
+      "num": 305689,
+      "word": "恋爱谈多了真会麻木吗",
+      "onboard_time": 1659372925,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305318,
       "num": 305318,
       "word": "八一建军节",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1659343532,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268071,
-      "num": 268071,
-      "word": "恋爱谈多了真会麻木吗",
-      "onboard_time": 1659372925,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 267515,
