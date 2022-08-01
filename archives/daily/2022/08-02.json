@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659381414499,
+  "endTime": 1659382422344,
   "band_list": [
     {
       "raw_hot": 9656338,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67378,
+      "num": 67378,
+      "word": "胡军回应代言理财产品爆雷",
+      "onboard_time": 1659379273,
+      "rank": 43,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 65259,
       "num": 68241,
       "word": "林妙妙钱三一隔空比心",
@@ -449,14 +457,6 @@
       "onboard_time": 1659381191,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 54887,
-      "num": 54887,
-      "word": "胡军回应代言理财产品爆雷",
-      "onboard_time": 1659379273,
-      "rank": 43,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 48235,
