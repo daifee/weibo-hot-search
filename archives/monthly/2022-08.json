@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659336022769,
+  "endTime": 1659337088751,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -64,6 +64,14 @@
       "word": "胡军代言翻车疑似涉及390亿元",
       "onboard_time": 1659330274,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1935099,
+      "num": 451677,
+      "word": "金佳蓝遭校园暴力",
+      "onboard_time": 1659335368,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -147,6 +155,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 1154410,
+      "num": 1154410,
+      "word": "苹果或叫停iPhone14涨价计划",
+      "onboard_time": 1659335068,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1134411,
       "num": 1134411,
       "word": "我讨厌做饭的原因",
@@ -187,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 969556,
-      "num": 451677,
-      "word": "金佳蓝遭校园暴力",
-      "onboard_time": 1659335368,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 969026,
+      "num": 969026,
+      "word": "苹果怼安卓应用商店",
+      "onboard_time": 1659333030,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 965436,
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752754,
-      "num": 752754,
-      "word": "苹果怼安卓应用商店",
-      "onboard_time": 1659333030,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 727167,
       "num": 727167,
       "word": "初级会计",
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579077,
+      "num": 579077,
+      "word": "黄鼠狼坐车上高速后慌了",
+      "onboard_time": 1659332850,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577469,
       "num": 577469,
       "word": "晚上睡不着可以白天补觉吗",
@@ -457,14 +473,6 @@
       "onboard_time": 1659322048,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 499831,
-      "num": 435575,
-      "word": "苹果或叫停iPhone14涨价计划",
-      "onboard_time": 1659335068,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 492324,
@@ -579,12 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434224,
-      "num": 434224,
-      "word": "黄鼠狼坐车上高速后慌了",
-      "onboard_time": 1659332850,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 426609,
+      "num": 362189,
+      "word": "沉香如屑颜淡唐周八月行程图",
+      "onboard_time": 1659336749,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 423334,
@@ -616,6 +624,14 @@
       "word": "八一那兔特别版",
       "onboard_time": 1659327030,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411028,
+      "num": 411028,
+      "word": "小朋友过家家用花草做38道菜盛宴",
+      "onboard_time": 1659332371,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -683,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378848,
+      "num": 378848,
+      "word": "野原广志终于把房贷还完了",
+      "onboard_time": 1659334709,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 368857,
       "num": 368857,
       "word": "2岁萌娃将头发剪成火云邪神同款",
       "onboard_time": 1659324449,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368415,
+      "num": 357409,
+      "word": "独行月球片尾11个字是沈腾写的",
+      "onboard_time": 1659336390,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 367325,
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347785,
-      "num": 347785,
-      "word": "小朋友过家家用花草做38道菜盛宴",
-      "onboard_time": 1659332371,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345793,
       "num": 345793,
       "word": "大猩猩帅气扔回游客掉落拖鞋",
@@ -731,11 +755,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339854,
+      "num": 265709,
+      "word": "沈梦瑶总选中报第一",
+      "onboard_time": 1659336987,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337090,
       "num": 219882,
       "word": "月升沧海",
       "onboard_time": 1659275851,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334978,
+      "num": 265626,
+      "word": "少年派2田甜被家暴",
+      "onboard_time": 1659335667,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -779,12 +819,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 317340,
-      "num": 317340,
-      "word": "野原广志终于把房贷还完了",
-      "onboard_time": 1659334709,
-      "rank": 24,
-      "category": "动漫"
+      "raw_hot": 318797,
+      "num": 265304,
+      "word": "张蔷收工吧",
+      "onboard_time": 1659336328,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 309730,
+      "num": 309730,
+      "word": "打耳洞有哪些危害",
+      "onboard_time": 1659336449,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309663,
@@ -801,6 +849,14 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 303020,
+      "num": 264732,
+      "word": "县委大院杀青特辑",
+      "onboard_time": 1659336269,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 301544,
@@ -832,6 +888,14 @@
       "word": "7月31日新增确诊84例",
       "onboard_time": 1659320067,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294434,
+      "num": 294434,
+      "word": "我们的飞机再不用飞两遍了",
+      "onboard_time": 1659336328,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -963,12 +1027,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239838,
-      "num": 239838,
-      "word": "少年派2田甜被家暴",
-      "onboard_time": 1659335667,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 236246,
+      "num": 236246,
+      "word": "厦门市新增本土确诊病例1例",
+      "onboard_time": 1659336449,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235616,
+      "num": 235616,
+      "word": "孩子探窗摔落路中央后车封路救娃",
+      "onboard_time": 1659335368,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235058,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1659267091,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 228561,
+      "num": 228561,
+      "word": "涩谷报时的秋田犬好可爱",
+      "onboard_time": 1659336148,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227304,
@@ -1155,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182878,
+      "num": 182878,
+      "word": "青岛被海浪卷走游客一人确定遇难",
+      "onboard_time": 1659336627,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182533,
       "num": 182533,
       "word": "武大靖说会坚持到下一届冬奥会",
@@ -1200,14 +1288,6 @@
       "word": "近日曾到北京南站这些点位人员立即报备",
       "onboard_time": 1659277652,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151014,
-      "num": 151014,
-      "word": "孩子探窗摔落路中央后车封路救娃",
-      "onboard_time": 1659335368,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
