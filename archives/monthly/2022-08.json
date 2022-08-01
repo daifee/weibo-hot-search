@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659333834040,
+  "endTime": 1659336022769,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969556,
+      "num": 451677,
+      "word": "金佳蓝遭校园暴力",
+      "onboard_time": 1659335368,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 965436,
       "num": 965436,
       "word": "青海一地发生溺水事件6人溺亡",
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752754,
+      "num": 752754,
+      "word": "苹果怼安卓应用商店",
+      "onboard_time": 1659333030,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 727167,
       "num": 727167,
       "word": "初级会计",
@@ -297,6 +313,14 @@
       "onboard_time": 1659322407,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 656381,
+      "num": 656381,
+      "word": "张新成不认同搞笑女没有爱情",
+      "onboard_time": 1659334050,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 656252,
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499831,
+      "num": 435575,
+      "word": "苹果或叫停iPhone14涨价计划",
+      "onboard_time": 1659335068,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 492324,
       "num": 477766,
       "word": "杨紫你好星期六录制花絮2.0",
@@ -545,6 +577,14 @@
       "onboard_time": 1659276029,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 434224,
+      "num": 434224,
+      "word": "黄鼠狼坐车上高速后慌了",
+      "onboard_time": 1659332850,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423334,
@@ -667,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347785,
+      "num": 347785,
+      "word": "小朋友过家家用花草做38道菜盛宴",
+      "onboard_time": 1659332371,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345793,
       "num": 345793,
       "word": "大猩猩帅气扔回游客掉落拖鞋",
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332497,
+      "num": 332497,
+      "word": "浪潮回应员工晕倒",
+      "onboard_time": 1659334948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331289,
       "num": 331289,
       "word": "妈妈街头冒雨卖枸杞救肝硬化儿子",
@@ -723,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 317340,
+      "num": 317340,
+      "word": "野原广志终于把房贷还完了",
+      "onboard_time": 1659334709,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 309663,
       "num": 309663,
       "word": "黄子韬演周一的我",
@@ -737,6 +801,22 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 301544,
+      "num": 301544,
+      "word": "我型我秀团综录制",
+      "onboard_time": 1659335610,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298220,
+      "num": 279277,
+      "word": "陈楚生第二次拥抱主题曲MV",
+      "onboard_time": 1659334111,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 297300,
@@ -771,20 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290030,
+      "num": 290030,
+      "word": "网红烹食大白鲨来自福建沿海",
+      "onboard_time": 1659334111,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284058,
+      "num": 284058,
+      "word": "双航母编队同框训练场景会越来越多",
+      "onboard_time": 1659332966,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 282721,
       "num": 282721,
       "word": "研究发现长颈鹿脖子长真正原因",
       "onboard_time": 1659276871,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280200,
-      "num": 280200,
-      "word": "苹果怼安卓应用商店",
-      "onboard_time": 1659333030,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 275320,
@@ -843,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257706,
+      "num": 257706,
+      "word": "经纪人回应周渝民被诈骗",
+      "onboard_time": 1659332432,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255665,
       "num": 255665,
       "word": "六万块积木神还原福建舰",
@@ -867,20 +963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247065,
-      "num": 233989,
-      "word": "经纪人回应周渝民被诈骗",
-      "onboard_time": 1659332432,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 246386,
-      "num": 246386,
-      "word": "小朋友过家家用花草做38道菜盛宴",
-      "onboard_time": 1659332371,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 239838,
+      "num": 239838,
+      "word": "少年派2田甜被家暴",
+      "onboard_time": 1659335667,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 235058,
@@ -937,6 +1025,14 @@
       "onboard_time": 1659317665,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216313,
+      "num": 216313,
+      "word": "唐周也是翻龟君",
+      "onboard_time": 1659332909,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 215951,
@@ -1011,6 +1107,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 199540,
+      "num": 164020,
+      "word": "担心老林",
+      "onboard_time": 1659333990,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197609,
       "num": 197609,
       "word": "人在40岁时睡得最少",
@@ -1033,22 +1137,6 @@
       "onboard_time": 1659322286,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191747,
-      "num": 191747,
-      "word": "唐周也是翻龟君",
-      "onboard_time": 1659332909,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 186029,
-      "num": 186029,
-      "word": "双航母编队同框训练场景会越来越多",
-      "onboard_time": 1659332966,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 185464,
@@ -1099,14 +1187,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 168791,
-      "num": 168791,
-      "word": "黄鼠狼坐车上高速后慌了",
-      "onboard_time": 1659332850,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "全国一共有156173个王刚",
@@ -1120,6 +1200,14 @@
       "word": "近日曾到北京南站这些点位人员立即报备",
       "onboard_time": 1659277652,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151014,
+      "num": 151014,
+      "word": "孩子探窗摔落路中央后车封路救娃",
+      "onboard_time": 1659335368,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1153,6 +1241,14 @@
       "onboard_time": 1659259949,
       "rank": 44,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 116303,
+      "num": 468219,
+      "word": "一个词形容中国军人",
+      "onboard_time": 1659333628,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113534,
@@ -1241,14 +1337,6 @@
       "onboard_time": 1659302111,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23365,
-      "num": 468219,
-      "word": "一个词形容中国军人",
-      "onboard_time": 1659333628,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1266,6 +1354,9 @@
     },
     {
       "word": "#能战方能止战#"
+    },
+    {
+      "word": "#解放军建军95周年#"
     }
   ]
 }

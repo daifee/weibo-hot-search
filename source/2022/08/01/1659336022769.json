@@ -1,0 +1,410 @@
+{
+  "runTime": 1659336022769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972427,
+        "num": 1972427,
+        "word": "胡军代言翻车疑似涉及390亿元",
+        "onboard_time": 1659330274,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1464894,
+        "num": 1464894,
+        "word": "iPhone14或无mini版本",
+        "onboard_time": 1659331712,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147250,
+        "num": 1239590,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1064877,
+        "num": 1064877,
+        "word": "00后女生打耳洞致颅内感染",
+        "onboard_time": 1659329255,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752754,
+        "num": 752754,
+        "word": "苹果怼安卓应用商店",
+        "onboard_time": 1659333030,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 742143,
+        "num": 742143,
+        "word": "网红吃大白鲨事件必须严查",
+        "onboard_time": 1659322468,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701056,
+        "num": 701056,
+        "word": "女生美甲片底发绿发黑疑长霉斑",
+        "onboard_time": 1659328111,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656381,
+        "num": 656381,
+        "word": "张新成不认同搞笑女没有爱情",
+        "onboard_time": 1659334050,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474822,
+        "num": 474822,
+        "word": "2026世界杯亚洲区将有8.5个名额",
+        "onboard_time": 1659331233,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456832,
+        "num": 456832,
+        "word": "孟子义素颜",
+        "onboard_time": 1659324749,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2304985,
+        "num": 456553,
+        "word": "周渝民夫妻遭诈骗775万",
+        "onboard_time": 1659327992,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969556,
+        "num": 451677,
+        "word": "金佳蓝遭校园暴力",
+        "onboard_time": 1659335368,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801080,
+        "num": 448155,
+        "word": "PSY演唱会工作人员坠亡",
+        "onboard_time": 1659325709,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746990,
+        "num": 443310,
+        "word": "扬州大学",
+        "onboard_time": 1659332070,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116303,
+        "num": 440754,
+        "word": "一个词形容中国军人",
+        "onboard_time": 1659333628,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499831,
+        "num": 435575,
+        "word": "苹果或叫停iPhone14涨价计划",
+        "onboard_time": 1659335068,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 434224,
+        "num": 434224,
+        "word": "黄鼠狼坐车上高速后慌了",
+        "onboard_time": 1659332850,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410535,
+        "num": 410535,
+        "word": "贩卖大白鲨相关人员被控制",
+        "onboard_time": 1659328111,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398241,
+        "num": 398241,
+        "word": "我讨厌做饭的原因",
+        "onboard_time": 1659323965,
+        "rank": 18,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 347785,
+        "num": 347785,
+        "word": "小朋友过家家用花草做38道菜盛宴",
+        "onboard_time": 1659332371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412776,
+        "num": 347585,
+        "word": "林妙妙钱三一开始甜了",
+        "onboard_time": 1659331531,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345882,
+        "num": 345882,
+        "word": "电影沙海官宣",
+        "onboard_time": 1659323306,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332497,
+        "num": 332497,
+        "word": "浪潮回应员工晕倒",
+        "onboard_time": 1659334948,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321040,
+        "num": 321040,
+        "word": "妈妈街头冒雨卖枸杞救肝硬化儿子",
+        "onboard_time": 1659331172,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317340,
+        "num": 317340,
+        "word": "野原广志终于把房贷还完了",
+        "onboard_time": 1659334709,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 308534,
+        "num": 308534,
+        "word": "研究证实智能手表有助减肥",
+        "onboard_time": 1659330572,
+        "rank": 25,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 301544,
+        "num": 301544,
+        "word": "我型我秀团综录制",
+        "onboard_time": 1659335610,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290030,
+        "num": 290030,
+        "word": "网红烹食大白鲨来自福建沿海",
+        "onboard_time": 1659334111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284058,
+        "num": 284058,
+        "word": "双航母编队同框训练场景会越来越多",
+        "onboard_time": 1659332966,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 279371,
+        "num": 279371,
+        "word": "小区居民堵门殡葬店大喊搬走",
+        "onboard_time": 1659320424,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298220,
+        "num": 279277,
+        "word": "陈楚生第二次拥抱主题曲MV",
+        "onboard_time": 1659334111,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278701,
+        "num": 278701,
+        "word": "初级会计",
+        "onboard_time": 1659321026,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267620,
+        "num": 267620,
+        "word": "浪潮",
+        "onboard_time": 1659330457,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260283,
+        "num": 260283,
+        "word": "青海一地发生溺水事件6人溺亡",
+        "onboard_time": 1659323488,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257706,
+        "num": 257706,
+        "word": "经纪人回应周渝民被诈骗",
+        "onboard_time": 1659332432,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239838,
+        "num": 239838,
+        "word": "少年派2田甜被家暴",
+        "onboard_time": 1659335667,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222267,
+        "num": 222267,
+        "word": "第一次见这么方正的牛",
+        "onboard_time": 1659328475,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216313,
+        "num": 216313,
+        "word": "唐周也是翻龟君",
+        "onboard_time": 1659332909,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168704,
+        "num": 168704,
+        "word": "八一那兔特别版",
+        "onboard_time": 1659327030,
+        "rank": 38,
+        "category": "军事,动漫"
+      },
+      {
+        "raw_hot": 164821,
+        "num": 164821,
+        "word": "男子走路看手机撞伤老人被判赔2万",
+        "onboard_time": 1659325889,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199540,
+        "num": 164020,
+        "word": "担心老林",
+        "onboard_time": 1659333990,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198893,
+        "num": 161258,
+        "word": "华语歌手Spotify听众人数排名",
+        "onboard_time": 1659325529,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158413,
+        "num": 158413,
+        "word": "见证了一朵白云的诞生",
+        "onboard_time": 1659331172,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158302,
+        "num": 158302,
+        "word": "2岁萌娃将头发剪成火云邪神同款",
+        "onboard_time": 1659324449,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152946,
+        "num": 152946,
+        "word": "被鱼鳞潮惊艳到了",
+        "onboard_time": 1659318686,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151014,
+        "num": 151014,
+        "word": "孩子探窗摔落路中央后车封路救娃",
+        "onboard_time": 1659335368,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140978,
+        "num": 140978,
+        "word": "提离职后能有多快乐",
+        "onboard_time": 1659322407,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140253,
+        "num": 140253,
+        "word": "大猩猩帅气扔回游客掉落拖鞋",
+        "onboard_time": 1659323729,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 131594,
+        "num": 131594,
+        "word": "比尔拉塞尔离世",
+        "onboard_time": 1659309261,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113365,
+        "num": 113365,
+        "word": "女孩回爷爷家把暑假过成田园诗",
+        "onboard_time": 1659320187,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解放军建军95周年#"
+    }
+  }
+}
