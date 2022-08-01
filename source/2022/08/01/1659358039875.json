@@ -1,0 +1,410 @@
+{
+  "runTime": 1659358039875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11193162,
+        "num": 11193162,
+        "word": "周周在西非已失联",
+        "onboard_time": 1659349890,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 3727612,
+        "num": 3727612,
+        "word": "若佩洛西敢去台湾那我们拭目以待",
+        "onboard_time": 1659349471,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 52705,
+        "num": 3088035,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2910410,
+        "num": 2910410,
+        "word": "鹿哈参加相亲节目",
+        "onboard_time": 1659352416,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2839391,
+        "num": 2839391,
+        "word": "东部战区",
+        "onboard_time": 1659353437,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2399681,
+        "num": 2399681,
+        "word": "美媒称佩洛西将窜访台湾",
+        "onboard_time": 1659356597,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2336027,
+        "num": 2336027,
+        "word": "东部战区表示将埋葬一切来犯之敌",
+        "onboard_time": 1659355594,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1887967,
+        "num": 1887967,
+        "word": "周周在西非",
+        "onboard_time": 1659346290,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1471239,
+        "num": 1471239,
+        "word": "时刻准备战斗",
+        "onboard_time": 1659353134,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 908855,
+        "num": 908855,
+        "word": "南海部分海域军事训练禁止驶入",
+        "onboard_time": 1659356674,
+        "rank": 9,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 978580,
+        "num": 905814,
+        "word": "台媒猜佩洛西最快明日访台",
+        "onboard_time": 1659340170,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 834976,
+        "num": 834976,
+        "word": "仙剑奇侠传六本周开机",
+        "onboard_time": 1659353372,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 817111,
+        "num": 817111,
+        "word": "独行月球50亿概率有多大",
+        "onboard_time": 1659352112,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815507,
+        "num": 815507,
+        "word": "中国人开始不爱吃辣了吗",
+        "onboard_time": 1659347490,
+        "rank": 13,
+        "category": "美食,社会议题"
+      },
+      {
+        "raw_hot": 55312,
+        "num": 788854,
+        "word": "军歌嘹亮致敬英雄",
+        "onboard_time": 1659355237,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776502,
+        "num": 776502,
+        "word": "媳妇生孩子丈夫送不锈钢牌匾庆祝",
+        "onboard_time": 1659354335,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633440,
+        "num": 633440,
+        "word": "暂定八月播出的影视剧",
+        "onboard_time": 1659349952,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484001,
+        "num": 484001,
+        "word": "官方辟谣网红从京东购买大白鲨",
+        "onboard_time": 1659357094,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463443,
+        "num": 463443,
+        "word": "北京海淀已经判定相关密接人员259人",
+        "onboard_time": 1659353794,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459241,
+        "num": 459241,
+        "word": "南非",
+        "onboard_time": 1659343470,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448681,
+        "num": 448681,
+        "word": "情侣需要保持高频聊天节奏吗",
+        "onboard_time": 1659352112,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394449,
+        "num": 394449,
+        "word": "田甜和家暴男离婚",
+        "onboard_time": 1659347672,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394023,
+        "num": 394023,
+        "word": "扬州大学回应教师工作5年月薪370元",
+        "onboard_time": 1659345091,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 392236,
+        "num": 392236,
+        "word": "吴磊赵露思版想见你",
+        "onboard_time": 1659346110,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372359,
+        "num": 372359,
+        "word": "意大利男子当街打死移民小贩",
+        "onboard_time": 1659349833,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351337,
+        "num": 351337,
+        "word": "伊能静工作室回应",
+        "onboard_time": 1659357696,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311080,
+        "num": 311080,
+        "word": "在新疆没一个馕能留到隔天",
+        "onboard_time": 1659351212,
+        "rank": 26,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 297655,
+        "num": 297655,
+        "word": "新加坡总理会见佩洛西",
+        "onboard_time": 1659348810,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 265450,
+        "num": 265450,
+        "word": "吃大白鲨网红或面临10年以上刑罚",
+        "onboard_time": 1659341307,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262873,
+        "num": 262873,
+        "word": "两部门发文坚决打击对新冠康复者就业歧视",
+        "onboard_time": 1659355715,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348886,
+        "num": 257227,
+        "word": "八月期待玉骨遥",
+        "onboard_time": 1659356373,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333251,
+        "num": 252832,
+        "word": "杨幂演唱会今晚见",
+        "onboard_time": 1659356553,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319127,
+        "num": 247698,
+        "word": "成毅演的唐周加了糖",
+        "onboard_time": 1659356256,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318658,
+        "num": 240255,
+        "word": "attention",
+        "onboard_time": 1659350551,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289284,
+        "num": 235915,
+        "word": "丁程鑫曾救过化妆师",
+        "onboard_time": 1659337886,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234057,
+        "num": 234057,
+        "word": "埋葬一切来犯之敌",
+        "onboard_time": 1659353735,
+        "rank": 35,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 230817,
+        "num": 230817,
+        "word": "1儿童落水亲属营救6人溺亡",
+        "onboard_time": 1659341070,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225949,
+        "num": 225949,
+        "word": "海空卫士王伟外甥接棒成飞行学员",
+        "onboard_time": 1659354995,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 202522,
+        "num": 202522,
+        "word": "8月国产游戏版号公布",
+        "onboard_time": 1659357632,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200723,
+        "num": 200723,
+        "word": "四川的大暴雨要来了",
+        "onboard_time": 1659357335,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259263,
+        "num": 199606,
+        "word": "乘风破浪总决赛应援海报",
+        "onboard_time": 1659355836,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186960,
+        "num": 186960,
+        "word": "卫健委报告称育龄妇女生育意愿走低",
+        "onboard_time": 1659349289,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185678,
+        "num": 185678,
+        "word": "河南男子违规办丧致疫情扩散",
+        "onboard_time": 1659343831,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165148,
+        "num": 165148,
+        "word": "蹭网课女孩被浙大录取",
+        "onboard_time": 1659341910,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "自从外公知道我会P图后",
+        "onboard_time": 1659344432,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155598,
+        "num": 155598,
+        "word": "都把妈妈给教急眼了",
+        "onboard_time": 1659355532,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146024,
+        "num": 146024,
+        "word": "外交部再强调佩洛西赴台严重后果",
+        "onboard_time": 1659342331,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "一次不要遛太多狗",
+        "onboard_time": 1659350069,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130512,
+        "num": 130512,
+        "word": "本次压实线不予处罚",
+        "onboard_time": 1659342453,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126984,
+        "num": 126984,
+        "word": "谢谢初级会计证",
+        "onboard_time": 1659357993,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}

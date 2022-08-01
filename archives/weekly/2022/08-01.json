@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659353703322,
+  "endTime": 1659358039875,
   "band_list": [
     {
       "raw_hot": 14404876,
@@ -27,6 +27,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3727612,
+      "num": 3727612,
+      "word": "若佩洛西敢去台湾那我们拭目以待",
+      "onboard_time": 1659349471,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3405441,
       "num": 3405441,
       "word": "二舅",
@@ -43,20 +51,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3045886,
-      "num": 3045886,
-      "word": "若佩洛西敢去台湾那我们拭目以待",
-      "onboard_time": 1659349471,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 2951954,
       "num": 2951954,
       "word": "台媒猜佩洛西最快明日访台",
       "onboard_time": 1659340170,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2910410,
+      "num": 2910410,
+      "word": "鹿哈参加相亲节目",
+      "onboard_time": 1659352416,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 2839391,
+      "num": 2839391,
+      "word": "东部战区",
+      "onboard_time": 1659353437,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 2803770,
@@ -75,12 +91,20 @@
       "category": "美食,社会议题"
     },
     {
-      "raw_hot": 2408100,
-      "num": 2408100,
-      "word": "鹿哈参加相亲节目",
-      "onboard_time": 1659352416,
-      "rank": 21,
-      "category": "网红"
+      "raw_hot": 2399681,
+      "num": 2399681,
+      "word": "美媒称佩洛西将窜访台湾",
+      "onboard_time": 1659356597,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2336027,
+      "num": 2336027,
+      "word": "东部战区表示将埋葬一切来犯之敌",
+      "onboard_time": 1659355594,
+      "rank": 6,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 2280718,
@@ -233,6 +257,14 @@
       "onboard_time": 1659338666,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1471239,
+      "num": 1471239,
+      "word": "时刻准备战斗",
+      "onboard_time": 1659353134,
+      "rank": 26,
+      "category": "军事"
     },
     {
       "raw_hot": 1381041,
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 908855,
+      "num": 908855,
+      "word": "南海部分海域军事训练禁止驶入",
+      "onboard_time": 1659356674,
+      "rank": 9,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 904015,
       "num": 904015,
       "word": "狗子陪主人排队做核酸抖成电动臀",
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834976,
+      "num": 834976,
+      "word": "仙剑奇侠传六本周开机",
+      "onboard_time": 1659353372,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 821106,
       "num": 821106,
       "word": "睡眠少了可能是你年纪大了",
@@ -465,6 +513,14 @@
       "onboard_time": 1659350551,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 817111,
+      "num": 817111,
+      "word": "独行月球50亿概率有多大",
+      "onboard_time": 1659352112,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 806800,
@@ -483,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777090,
-      "num": 483937,
-      "word": "独行月球50亿概率有多大",
-      "onboard_time": 1659352112,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 776502,
+      "num": 776502,
+      "word": "媳妇生孩子丈夫送不锈钢牌匾庆祝",
+      "onboard_time": 1659354335,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772292,
@@ -591,14 +647,6 @@
       "num": 658823,
       "word": "吴磊赵露思版想见你",
       "onboard_time": 1659346110,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 656591,
-      "num": 386582,
-      "word": "仙剑奇侠传六本周开机",
-      "onboard_time": 1659353372,
       "rank": 21,
       "category": "影视"
     },
@@ -867,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484001,
+      "num": 484001,
+      "word": "官方辟谣网红从京东购买大白鲨",
+      "onboard_time": 1659357094,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480607,
       "num": 480607,
       "word": "想去厦门吃婚宴了",
@@ -921,6 +977,14 @@
       "onboard_time": 1659281130,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 463443,
+      "num": 463443,
+      "word": "北京海淀已经判定相关密接人员259人",
+      "onboard_time": 1659353794,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456462,
@@ -1041,14 +1105,6 @@
       "onboard_time": 1659341851,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 421627,
-      "num": 421627,
-      "word": "东部战区",
-      "onboard_time": 1659353437,
-      "rank": 18,
-      "category": "军事"
     },
     {
       "raw_hot": 419344,
@@ -1251,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370426,
-      "num": 370426,
-      "word": "时刻准备战斗",
-      "onboard_time": 1659353134,
-      "rank": 26,
-      "category": "军事"
-    },
-    {
       "raw_hot": 368857,
       "num": 368857,
       "word": "2岁萌娃将头发剪成火云邪神同款",
@@ -1297,6 +1345,22 @@
       "onboard_time": 1659282093,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351337,
+      "num": 351337,
+      "word": "伊能静工作室回应",
+      "onboard_time": 1659357696,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348886,
+      "num": 257227,
+      "word": "八月期待玉骨遥",
+      "onboard_time": 1659356373,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 345793,
@@ -1345,6 +1409,14 @@
       "onboard_time": 1659344671,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333251,
+      "num": 252832,
+      "word": "杨幂演唱会今晚见",
+      "onboard_time": 1659356553,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 332545,
@@ -1401,6 +1473,14 @@
       "onboard_time": 1659316046,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319127,
+      "num": 247698,
+      "word": "成毅演的唐周加了糖",
+      "onboard_time": 1659356256,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 314421,
@@ -1611,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262873,
+      "num": 262873,
+      "word": "两部门发文坚决打击对新冠康复者就业歧视",
+      "onboard_time": 1659355715,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260158,
       "num": 260158,
       "word": "BLACKPINK回归预告",
@@ -1632,6 +1720,14 @@
       "word": "三里屯偶遇孙怡录制大使的厨房",
       "onboard_time": 1659346171,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 259263,
+      "num": 199606,
+      "word": "乘风破浪总决赛应援海报",
+      "onboard_time": 1659355836,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1691,6 +1787,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 234057,
+      "num": 234057,
+      "word": "埋葬一切来犯之敌",
+      "onboard_time": 1659353735,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 233869,
       "num": 233869,
       "word": "广东工业大学虽败犹荣",
@@ -1729,6 +1833,14 @@
       "onboard_time": 1659326970,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225949,
+      "num": 225949,
+      "word": "海空卫士王伟外甥接棒成飞行学员",
+      "onboard_time": 1659354995,
+      "rank": 37,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 225801,
@@ -1819,11 +1931,27 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 202522,
+      "num": 202522,
+      "word": "8月国产游戏版号公布",
+      "onboard_time": 1659357632,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202230,
       "num": 202230,
       "word": "七月再见八月你好",
       "onboard_time": 1659283350,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200723,
+      "num": 200723,
+      "word": "四川的大暴雨要来了",
+      "onboard_time": 1659357335,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1916,7 +2044,7 @@
     },
     {
       "raw_hot": 168962,
-      "num": 2555112,
+      "num": 3088035,
       "word": "不变的军人印记",
       "onboard_time": 1659325406,
       "rank": 2,
@@ -1947,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155598,
+      "num": 155598,
+      "word": "都把妈妈给教急眼了",
+      "onboard_time": 1659355532,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148000,
       "num": 148000,
       "word": "吐鲁番一串葡萄有手臂那么长",
@@ -1969,6 +2105,14 @@
       "onboard_time": 1659310162,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126984,
+      "num": 126984,
+      "word": "谢谢初级会计证",
+      "onboard_time": 1659357993,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 126164,
@@ -2063,6 +2207,14 @@
       "num": 740940,
       "word": "八一印记在祖国大地也在人民心中",
       "onboard_time": 1659340890,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55312,
+      "num": 788854,
+      "word": "军歌嘹亮致敬英雄",
+      "onboard_time": 1659355237,
       "rank": 14,
       "category": "社会新闻"
     },
