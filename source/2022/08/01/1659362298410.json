@@ -1,0 +1,410 @@
+{
+  "runTime": 1659362298410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9826914,
+        "num": 9826914,
+        "word": "周周在西非已失联",
+        "onboard_time": 1659349890,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 5063406,
+        "num": 5626812,
+        "word": "若佩洛西敢去台湾那我们拭目以待",
+        "onboard_time": 1659349471,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55336,
+        "num": 4577140,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 4475502,
+        "num": 4475502,
+        "word": "东部战区",
+        "onboard_time": 1659353437,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 3951435,
+        "num": 3951435,
+        "word": "大使馆回应周周在西非已失联",
+        "onboard_time": 1659358717,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3292609,
+        "num": 3292609,
+        "word": "美媒称佩洛西将窜访台湾",
+        "onboard_time": 1659356597,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3050263,
+        "num": 3050263,
+        "word": "佩洛西",
+        "onboard_time": 1659359918,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2324773,
+        "num": 2324773,
+        "word": "东部战区表示将埋葬一切来犯之敌",
+        "onboard_time": 1659355594,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1645685,
+        "num": 1645685,
+        "word": "周周在西非",
+        "onboard_time": 1659346290,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1623329,
+        "num": 1623329,
+        "word": "官方辟谣网红从京东购买大白鲨",
+        "onboard_time": 1659357094,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2354529,
+        "num": 1456052,
+        "word": "沈小婷仪态",
+        "onboard_time": 1659359495,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1870974,
+        "num": 1423050,
+        "word": "鹿哈参加相亲节目",
+        "onboard_time": 1659352416,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1212494,
+        "num": 1212494,
+        "word": "南海部分海域军事训练禁止驶入",
+        "onboard_time": 1659356674,
+        "rank": 12,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1010463,
+        "num": 1010463,
+        "word": "时刻准备战斗",
+        "onboard_time": 1659353134,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 950429,
+        "num": 950429,
+        "word": "李显龙告诉佩洛西中美关系稳定很重要",
+        "onboard_time": 1659358836,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 840022,
+        "num": 840022,
+        "word": "背景太假小伙曾上过央视",
+        "onboard_time": 1659359495,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763962,
+        "num": 763962,
+        "word": "胡锡进",
+        "onboard_time": 1659360579,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731603,
+        "num": 731603,
+        "word": "伊能静工作室回应",
+        "onboard_time": 1659357696,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645497,
+        "num": 645497,
+        "word": "狗子打架输了躺医院哭个不停",
+        "onboard_time": 1659358477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620998,
+        "num": 620998,
+        "word": "台媒猜佩洛西最快明日访台",
+        "onboard_time": 1659340170,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1683523,
+        "num": 602619,
+        "word": "台媒传佩洛西明晚10时30分抵台",
+        "onboard_time": 1659361602,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013056,
+        "num": 592886,
+        "word": "张智霖报平安",
+        "onboard_time": 1659361660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574746,
+        "num": 574746,
+        "word": "女子吃螺后呼吸衰竭病危",
+        "onboard_time": 1659359495,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532108,
+        "num": 532108,
+        "word": "媳妇生孩子丈夫送不锈钢牌匾庆祝",
+        "onboard_time": 1659354335,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527658,
+        "num": 527658,
+        "word": "雪允",
+        "onboard_time": 1659360157,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496171,
+        "num": 496171,
+        "word": "谢谢初级会计证",
+        "onboard_time": 1659357993,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 483179,
+        "num": 483179,
+        "word": "郑在玹徐英浩确诊新冠",
+        "onboard_time": 1659360758,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465572,
+        "num": 465572,
+        "word": "仙剑奇侠传六本周开机",
+        "onboard_time": 1659353372,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390362,
+        "num": 390362,
+        "word": "中国人开始不爱吃辣了吗",
+        "onboard_time": 1659347490,
+        "rank": 28,
+        "category": "美食,社会议题"
+      },
+      {
+        "raw_hot": 354522,
+        "num": 354522,
+        "word": "上海暴雨",
+        "onboard_time": 1659360941,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463498,
+        "num": 354050,
+        "word": "成毅演的应渊唐周反差感",
+        "onboard_time": 1659360517,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455614,
+        "num": 348606,
+        "word": "马苏新剧又养丈夫又带婆婆",
+        "onboard_time": 1659358116,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427057,
+        "num": 345402,
+        "word": "独行月球50亿概率有多大",
+        "onboard_time": 1659352112,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396897,
+        "num": 342665,
+        "word": "田甜和家暴男离婚",
+        "onboard_time": 1659347672,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341665,
+        "num": 341665,
+        "word": "北极已经可以穿短袖了",
+        "onboard_time": 1659361723,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307194,
+        "num": 307194,
+        "word": "北京上海等地率先落实核酸结果互认",
+        "onboard_time": 1659359256,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291146,
+        "num": 291146,
+        "word": "情侣需要保持高频聊天节奏吗",
+        "onboard_time": 1659352112,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287424,
+        "num": 287424,
+        "word": "意大利男子当街打死移民小贩",
+        "onboard_time": 1659349833,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227623,
+        "num": 227623,
+        "word": "四川的大暴雨要来了",
+        "onboard_time": 1659357335,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220094,
+        "num": 220094,
+        "word": "人工智能是否会威胁到人类",
+        "onboard_time": 1659361120,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 366910,
+        "num": 218577,
+        "word": "百花奖收视率第一",
+        "onboard_time": 1659362081,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366454,
+        "num": 216992,
+        "word": "偶运会拉丁舞",
+        "onboard_time": 1659360039,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215121,
+        "num": 215121,
+        "word": "被小朋友的懂事戳到了",
+        "onboard_time": 1659361481,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212058,
+        "num": 212058,
+        "word": "扬州大学回应教师工作5年月薪370元",
+        "onboard_time": 1659345091,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203291,
+        "num": 203291,
+        "word": "南非",
+        "onboard_time": 1659343470,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202218,
+        "num": 202218,
+        "word": "北京新增病例返京核酸采样后未外出",
+        "onboard_time": 1659360217,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192321,
+        "num": 192321,
+        "word": "吃大白鲨网红或面临10年以上刑罚",
+        "onboard_time": 1659341307,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182629,
+        "num": 182629,
+        "word": "新加坡总理会见佩洛西",
+        "onboard_time": 1659348810,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 161966,
+        "num": 182339,
+        "word": "全国铁路客运车站全部实现军人优先",
+        "onboard_time": 1659359737,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 148242,
+        "num": 181844,
+        "word": "两部门发文坚决打击对新冠康复者就业歧视",
+        "onboard_time": 1659355715,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两弹一星组歌江山民心#"
+    }
+  }
+}
