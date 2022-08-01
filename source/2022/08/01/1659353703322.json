@@ -1,0 +1,410 @@
+{
+  "runTime": 1659353703322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14404876,
+        "num": 14404876,
+        "word": "周周在西非已失联",
+        "onboard_time": 1659349890,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 3045886,
+        "num": 3045886,
+        "word": "若佩洛西敢去台湾那我们拭目以待",
+        "onboard_time": 1659349471,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79193,
+        "num": 2555112,
+        "word": "不变的军人印记",
+        "onboard_time": 1659325406,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2408100,
+        "num": 2408100,
+        "word": "鹿哈参加相亲节目",
+        "onboard_time": 1659352416,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2089838,
+        "num": 2089838,
+        "word": "周周在西非",
+        "onboard_time": 1659346290,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1674395,
+        "num": 1674395,
+        "word": "中国人开始不爱吃辣了吗",
+        "onboard_time": 1659347490,
+        "rank": 5,
+        "category": "美食,社会议题"
+      },
+      {
+        "raw_hot": 654411,
+        "num": 654411,
+        "word": "南非",
+        "onboard_time": 1659343470,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639181,
+        "num": 639181,
+        "word": "扬州大学回应教师工作5年月薪370元",
+        "onboard_time": 1659345091,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 617129,
+        "num": 617129,
+        "word": "吃大白鲨网红或面临10年以上刑罚",
+        "onboard_time": 1659341307,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506307,
+        "num": 506307,
+        "word": "蹭网课女孩被浙大录取",
+        "onboard_time": 1659341910,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1280253,
+        "num": 501290,
+        "word": "暂定八月播出的影视剧",
+        "onboard_time": 1659349952,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 886577,
+        "num": 495061,
+        "word": "网红烹煮大白鲨是从京东购买",
+        "onboard_time": 1659351993,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856035,
+        "num": 492461,
+        "word": "台媒猜佩洛西最快明日访台",
+        "onboard_time": 1659340170,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 777090,
+        "num": 483937,
+        "word": "独行月球50亿概率有多大",
+        "onboard_time": 1659352112,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45338,
+        "num": 480116,
+        "word": "共同致敬人民子弟兵",
+        "onboard_time": 1659351694,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669702,
+        "num": 475377,
+        "word": "attention",
+        "onboard_time": 1659350551,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472100,
+        "num": 472100,
+        "word": "情侣需要保持高频聊天节奏吗",
+        "onboard_time": 1659352112,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425974,
+        "num": 425974,
+        "word": "意大利男子当街打死移民小贩",
+        "onboard_time": 1659349833,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421627,
+        "num": 421627,
+        "word": "东部战区",
+        "onboard_time": 1659353437,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 396178,
+        "num": 396178,
+        "word": "在新疆没一个馕能留到隔天",
+        "onboard_time": 1659351212,
+        "rank": 19,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 668621,
+        "num": 394555,
+        "word": "勇士队祝郑秀妍直挂云帆乘风破浪",
+        "onboard_time": 1659350430,
+        "rank": 20,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 656591,
+        "num": 386582,
+        "word": "仙剑奇侠传六本周开机",
+        "onboard_time": 1659353372,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605341,
+        "num": 383648,
+        "word": "田甜和家暴男离婚",
+        "onboard_time": 1659347672,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518295,
+        "num": 378849,
+        "word": "新加坡总理会见佩洛西",
+        "onboard_time": 1659348810,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 375614,
+        "num": 375614,
+        "word": "卫健委报告称育龄妇女生育意愿走低",
+        "onboard_time": 1659349289,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603485,
+        "num": 374801,
+        "word": "胡军工作室道歉",
+        "onboard_time": 1659345753,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370426,
+        "num": 370426,
+        "word": "时刻准备战斗",
+        "onboard_time": 1659353134,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 339545,
+        "num": 339545,
+        "word": "河南男子违规办丧致疫情扩散",
+        "onboard_time": 1659343831,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251993,
+        "num": 251993,
+        "word": "自从外公知道我会P图后",
+        "onboard_time": 1659344432,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250979,
+        "num": 250979,
+        "word": "1儿童落水亲属营救6人溺亡",
+        "onboard_time": 1659341070,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491677,
+        "num": 250031,
+        "word": "吴磊赵露思版想见你",
+        "onboard_time": 1659346110,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432155,
+        "num": 249919,
+        "word": "丁程鑫曾救过化妆师",
+        "onboard_time": 1659337886,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431723,
+        "num": 249438,
+        "word": "于正新签的女演员",
+        "onboard_time": 1659338428,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248502,
+        "num": 248502,
+        "word": "苹果或叫停iPhone14涨价计划",
+        "onboard_time": 1659335068,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241370,
+        "num": 241370,
+        "word": "一次不要遛太多狗",
+        "onboard_time": 1659350069,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239142,
+        "num": 239142,
+        "word": "外交部再强调佩洛西赴台严重后果",
+        "onboard_time": 1659342331,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238150,
+        "num": 238150,
+        "word": "官方通报青岛海域2男子被卷入海",
+        "onboard_time": 1659346950,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218045,
+        "num": 218045,
+        "word": "原来真的一眨眼就长大了",
+        "onboard_time": 1659348150,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214499,
+        "num": 214499,
+        "word": "民权县新增51例无症状感染者",
+        "onboard_time": 1659348511,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203479,
+        "num": 203479,
+        "word": "karsa",
+        "onboard_time": 1659340349,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 413023,
+        "num": 203218,
+        "word": "唐周叫颜淡夫人",
+        "onboard_time": 1659352836,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338464,
+        "num": 203102,
+        "word": "马丽说沈腾是亲人般的存在",
+        "onboard_time": 1659351396,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384888,
+        "num": 202748,
+        "word": "颜淡唐周凡间初遇",
+        "onboard_time": 1659353134,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202227,
+        "num": 202227,
+        "word": "网红提子账号被封禁",
+        "onboard_time": 1659338666,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193541,
+        "num": 193541,
+        "word": "青岛被卷入海中2游客暂未获救",
+        "onboard_time": 1659341430,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192518,
+        "num": 192518,
+        "word": "扬州大学",
+        "onboard_time": 1659332070,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186193,
+        "num": 186193,
+        "word": "本次压实线不予处罚",
+        "onboard_time": 1659342453,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167727,
+        "num": 167727,
+        "word": "打耳洞有哪些危害",
+        "onboard_time": 1659336449,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152601,
+        "num": 152601,
+        "word": "爆红的97年小伙首谈助农心路历程",
+        "onboard_time": 1659345633,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139259,
+        "num": 139259,
+        "word": "手机自带的软件为何删不掉",
+        "onboard_time": 1659350909,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}
