@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659333303826,
+  "endTime": 1659333834040,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2141045,
-      "num": 1164114,
+      "num": 1730351,
       "word": "00后女生打耳洞致颅内感染",
       "onboard_time": 1659329255,
       "rank": 36,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2072068,
+      "num": 2072068,
+      "word": "胡军代言翻车疑似涉及390亿元",
+      "onboard_time": 1659330274,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1927725,
       "num": 1927725,
       "word": "警方认定网红用濒危大白鲨做美食",
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1897027,
-      "num": 1124479,
-      "word": "胡军代言翻车疑似涉及390亿元",
-      "onboard_time": 1659330274,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1848223,
       "num": 1848223,
       "word": "孟子义素颜",
       "onboard_time": 1659324749,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1774377,
+      "num": 2043476,
+      "word": "iPhone14或无mini版本",
+      "onboard_time": 1659331712,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 1720260,
@@ -105,14 +113,6 @@
       "onboard_time": 1659316588,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1343391,
-      "num": 2043476,
-      "word": "iPhone14或无mini版本",
-      "onboard_time": 1659331712,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1331963,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510155,
+      "num": 510155,
+      "word": "2026世界杯亚洲区将有8.5个名额",
+      "onboard_time": 1659331233,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507601,
       "num": 479068,
       "word": "杨幂线上演唱会彩排照",
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487458,
+      "num": 487458,
+      "word": "林妙妙钱三一开始甜了",
+      "onboard_time": 1659331531,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486255,
       "num": 486255,
       "word": "男子赶海忘关电锁涨潮后宝马被淹",
@@ -467,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468022,
-      "num": 468022,
-      "word": "2026世界杯亚洲区将有8.5个名额",
-      "onboard_time": 1659331233,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 466969,
       "num": 466969,
       "word": "内蒙古一景区骆驼鼻子上插木棍",
@@ -489,14 +497,6 @@
       "onboard_time": 1659281130,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 458895,
-      "num": 458895,
-      "word": "林妙妙钱三一开始甜了",
-      "onboard_time": 1659331531,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 456462,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383257,
+      "num": 383257,
+      "word": "研究证实智能手表有助减肥",
+      "onboard_time": 1659330572,
+      "rank": 19,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 382691,
       "num": 382691,
       "word": "河南新增本土无症状43例",
@@ -691,20 +699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331289,
+      "num": 331289,
+      "word": "妈妈街头冒雨卖枸杞救肝硬化儿子",
+      "onboard_time": 1659331172,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327706,
       "num": 327706,
       "word": "数学家丘成桐称很少教儿子数学",
       "onboard_time": 1659305833,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325344,
-      "num": 325344,
-      "word": "研究证实智能手表有助减肥",
-      "onboard_time": 1659330572,
-      "rank": 19,
-      "category": "体育,科技"
     },
     {
       "raw_hot": 320715,
@@ -729,14 +737,6 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 298110,
-      "num": 298110,
-      "word": "妈妈街头冒雨卖枸杞救肝硬化儿子",
-      "onboard_time": 1659331172,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297300,
@@ -779,6 +779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280200,
+      "num": 280200,
+      "word": "苹果怼安卓应用商店",
+      "onboard_time": 1659333030,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 275320,
+      "num": 275320,
+      "word": "第一次见这么方正的牛",
+      "onboard_time": 1659328475,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273926,
       "num": 273926,
       "word": "杨超越唱孤勇者",
@@ -787,20 +803,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273045,
+      "num": 273045,
+      "word": "偶运会神图大赏",
+      "onboard_time": 1659333329,
+      "rank": 27,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 272513,
       "num": 272513,
       "word": "人民军队初心如炬征途如虹",
       "onboard_time": 1659285623,
       "rank": 18,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 271350,
-      "num": 271350,
-      "word": "第一次见这么方正的牛",
-      "onboard_time": 1659328475,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 265518,
@@ -851,12 +867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237106,
+      "raw_hot": 247065,
       "num": 233989,
       "word": "经纪人回应周渝民被诈骗",
       "onboard_time": 1659332432,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246386,
+      "num": 246386,
+      "word": "小朋友过家家用花草做38道菜盛宴",
+      "onboard_time": 1659332371,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235058,
@@ -987,14 +1011,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 198187,
-      "num": 198187,
-      "word": "小朋友过家家用花草做38道菜盛宴",
-      "onboard_time": 1659332371,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197609,
       "num": 197609,
       "word": "人在40岁时睡得最少",
@@ -1019,6 +1035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191747,
+      "num": 191747,
+      "word": "唐周也是翻龟君",
+      "onboard_time": 1659332909,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186029,
+      "num": 186029,
+      "word": "双航母编队同框训练场景会越来越多",
+      "onboard_time": 1659332966,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 185464,
       "num": 185464,
       "word": "法拉利 战术",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1659284006,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183147,
-      "num": 183147,
-      "word": "苹果怼安卓应用商店",
-      "onboard_time": 1659333030,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 182533,
@@ -1075,12 +1099,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 167900,
-      "num": 167900,
-      "word": "唐周也是翻龟君",
-      "onboard_time": 1659332909,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 168791,
+      "num": 168791,
+      "word": "黄鼠狼坐车上高速后慌了",
+      "onboard_time": 1659332850,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159942,
@@ -1107,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139348,
-      "num": 139348,
-      "word": "双航母编队同框训练场景会越来越多",
-      "onboard_time": 1659332966,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 138627,
       "num": 138627,
       "word": "谢谢你们守护安全感",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1659310162,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126862,
-      "num": 126862,
-      "word": "黄鼠狼坐车上高速后慌了",
-      "onboard_time": 1659332850,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126164,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1659302111,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23365,
+      "num": 468219,
+      "word": "一个词形容中国军人",
+      "onboard_time": 1659333628,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
