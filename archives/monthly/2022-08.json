@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659396336675,
+  "endTime": 1659397201344,
   "band_list": [
     {
       "raw_hot": 15888865,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2297560,
+      "num": 2297560,
+      "word": "美方在台湾问题上不要搞双重标准",
+      "onboard_time": 1659392174,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2280718,
       "num": 1381626,
       "word": "于正新签的女演员",
@@ -273,14 +281,6 @@
       "onboard_time": 1659353134,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1792457,
-      "num": 1792457,
-      "word": "美方在台湾问题上不要搞双重标准",
-      "onboard_time": 1659392174,
-      "rank": 27,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1774377,
@@ -451,6 +451,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 1176697,
+      "num": 1176697,
+      "word": "男子丧偶后相亲遇38年前心仪女孩",
+      "onboard_time": 1659369940,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1143097,
       "num": 1143097,
       "word": "南非",
@@ -465,14 +473,6 @@
       "onboard_time": 1659323965,
       "rank": 7,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 1132230,
-      "num": 1132230,
-      "word": "男子丧偶后相亲遇38年前心仪女孩",
-      "onboard_time": 1659369940,
-      "rank": 18,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1123847,
@@ -577,6 +577,14 @@
       "onboard_time": 1659279214,
       "rank": 6,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 948928,
+      "num": 948928,
+      "word": "青岛2游客被卷入海区域已禁止游玩",
+      "onboard_time": 1659394642,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 936854,
@@ -809,6 +817,14 @@
       "onboard_time": 1659322407,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 711456,
+      "num": 711456,
+      "word": "日本美滨核电站发生泄漏",
+      "onboard_time": 1659395606,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 707816,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1659360758,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520168,
-      "num": 520168,
-      "word": "青岛2游客被卷入海区域已禁止游玩",
-      "onboard_time": 1659394642,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510155,
@@ -1691,6 +1699,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359106,
+      "num": 359106,
+      "word": "河南县域发布",
+      "onboard_time": 1659395907,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356128,
+      "num": 356128,
+      "word": "11岁男孩从早到晚帮爸爸看三个摊",
+      "onboard_time": 1659386651,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348886,
       "num": 257227,
       "word": "八月期待玉骨遥",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1659356553,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 332983,
+      "num": 332983,
+      "word": "沈小婷赢麻了",
+      "onboard_time": 1659390672,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 332545,
@@ -1835,20 +1867,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315794,
+      "num": 315794,
+      "word": "胡歌胸肌好绝",
+      "onboard_time": 1659395907,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314421,
       "num": 314421,
       "word": "颜淡唐周cp感",
       "onboard_time": 1659342453,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312169,
-      "num": 312169,
-      "word": "11岁男孩从早到晚帮爸爸看三个摊",
-      "onboard_time": 1659386651,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311127,
@@ -1897,14 +1929,6 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 304120,
-      "num": 304120,
-      "word": "沈小婷赢麻了",
-      "onboard_time": 1659390672,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 303020,
@@ -2163,14 +2187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256842,
-      "num": 256842,
-      "word": "河南县域发布",
-      "onboard_time": 1659395907,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255665,
       "num": 255665,
       "word": "六万块积木神还原福建舰",
@@ -2203,20 +2219,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 240918,
-      "num": 240918,
+      "raw_hot": 242774,
+      "num": 242774,
       "word": "坐上鲲鹏去上学",
       "onboard_time": 1659370774,
       "rank": 38,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 236948,
-      "num": 236948,
-      "word": "日本美滨核电站发生泄漏",
-      "onboard_time": 1659395606,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 236657,
@@ -2347,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213602,
-      "num": 213602,
-      "word": "胡歌胸肌好绝",
-      "onboard_time": 1659395907,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212497,
       "num": 212497,
       "word": "北京新增病例返京核酸采样后未外出",
@@ -2459,6 +2459,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "成毅应渊变装成功",
+      "onboard_time": 1659395246,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196367,
       "num": 196367,
       "word": "执法部门回应主播吃大白鲨暂未立案",
@@ -2472,6 +2480,14 @@
       "word": "两萌娃暑假捡瓶子体验生活上瘾",
       "onboard_time": 1659322286,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194931,
+      "num": 194931,
+      "word": "柯基满身是血用眼神求助路人送医",
+      "onboard_time": 1659377357,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2595,14 +2611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154479,
-      "num": 154479,
-      "word": "柯基满身是血用眼神求助路人送医",
-      "onboard_time": 1659377357,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148000,
       "num": 148000,
       "word": "吐鲁番一串葡萄有手臂那么长",
@@ -2619,20 +2627,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141208,
-      "num": 141208,
-      "word": "成毅应渊变装成功",
-      "onboard_time": 1659395246,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 138627,
       "num": 138627,
       "word": "谢谢你们守护安全感",
       "onboard_time": 1659290954,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 137804,
+      "num": 137804,
+      "word": "李雪琴好清醒一人",
+      "onboard_time": 1659395246,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132241,
@@ -2649,6 +2657,14 @@
       "onboard_time": 1659259949,
       "rank": 44,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 116411,
+      "num": 116411,
+      "word": "NewJeans空降",
+      "onboard_time": 1659395544,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 116303,
@@ -2683,12 +2699,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109968,
+      "num": 109968,
+      "word": "全红婵教你一套动作紧致腰腹",
+      "onboard_time": 1659397111,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109667,
+      "num": 109667,
+      "word": "胡军回应代言理财产品爆雷",
+      "onboard_time": 1659379273,
+      "rank": 43,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 106768,
       "num": 106768,
       "word": "这世界那么多你",
       "onboard_time": 1659276453,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105623,
+      "num": 105623,
+      "word": "电视剧县委大院好真实",
+      "onboard_time": 1659395004,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 101002,
@@ -2699,28 +2739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99951,
-      "num": 99951,
-      "word": "NewJeans空降",
-      "onboard_time": 1659395544,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 98719,
       "num": 98719,
       "word": "AG最大问题",
       "onboard_time": 1659271406,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95519,
-      "num": 95519,
-      "word": "胡军回应代言理财产品爆雷",
-      "onboard_time": 1659379273,
-      "rank": 43,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 88544,
@@ -2745,14 +2769,6 @@
       "onboard_time": 1659310464,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78821,
-      "num": 78821,
-      "word": "李雪琴好清醒一人",
-      "onboard_time": 1659395246,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 68920,
