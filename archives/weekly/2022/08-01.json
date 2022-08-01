@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659359612696,
+  "endTime": 1659361644679,
   "band_list": [
     {
       "raw_hot": 14404876,
@@ -19,6 +19,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4816660,
+      "num": 5133321,
+      "word": "若佩洛西敢去台湾那我们拭目以待",
+      "onboard_time": 1659349471,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 4297985,
+      "num": 4297985,
+      "word": "东部战区",
+      "onboard_time": 1659353437,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 3738562,
       "num": 3738562,
       "word": "台媒称佩洛西或明日窜访台湾",
@@ -27,12 +43,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 3727612,
-      "num": 3727612,
-      "word": "若佩洛西敢去台湾那我们拭目以待",
-      "onboard_time": 1659349471,
-      "rank": 39,
+      "raw_hot": 3671438,
+      "num": 3671438,
+      "word": "美媒称佩洛西将窜访台湾",
+      "onboard_time": 1659356597,
+      "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3597908,
+      "num": 3597908,
+      "word": "佩洛西",
+      "onboard_time": 1659359918,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3405441,
@@ -51,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3034721,
-      "num": 3034721,
-      "word": "美媒称佩洛西将窜访台湾",
-      "onboard_time": 1659356597,
-      "rank": 5,
-      "category": "国内要闻"
+      "raw_hot": 3193207,
+      "num": 3193207,
+      "word": "大使馆回应周周在西非已失联",
+      "onboard_time": 1659358717,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2951954,
@@ -75,20 +99,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2839391,
-      "num": 2839391,
-      "word": "东部战区",
-      "onboard_time": 1659353437,
-      "rank": 18,
-      "category": "军事"
-    },
-    {
       "raw_hot": 2803770,
       "num": 2263340,
       "word": "周周在西非",
       "onboard_time": 1659346290,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2762557,
+      "num": 1574752,
+      "word": "沈小婷仪态",
+      "onboard_time": 1659359495,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2478299,
@@ -169,6 +193,14 @@
       "onboard_time": 1659345753,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1940724,
+      "num": 1940724,
+      "word": "官方辟谣网红从京东购买大白鲨",
+      "onboard_time": 1659357094,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1927725,
@@ -283,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1378368,
-      "num": 1378368,
-      "word": "官方辟谣网红从京东购买大白鲨",
-      "onboard_time": 1659357094,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1331963,
       "num": 1331963,
       "word": "网红男孩钟美美考上重点高中",
@@ -352,14 +376,6 @@
       "word": "蔚来或推出10万元以下汽车",
       "onboard_time": 1659325709,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1110439,
-      "num": 1110439,
-      "word": "大使馆回应周周在西非已失联",
-      "onboard_time": 1659358717,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 911828,
+      "num": 911828,
+      "word": "李显龙告诉佩洛西中美关系稳定很重要",
+      "onboard_time": 1659358836,
+      "rank": 36,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 904015,
       "num": 904015,
       "word": "狗子陪主人排队做核酸抖成电动臀",
@@ -560,6 +584,14 @@
       "word": "媳妇生孩子丈夫送不锈钢牌匾庆祝",
       "onboard_time": 1659354335,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773930,
+      "num": 773930,
+      "word": "背景太假小伙曾上过央视",
+      "onboard_time": 1659359495,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -675,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657223,
+      "num": 657223,
+      "word": "胡锡进",
+      "onboard_time": 1659360579,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656381,
       "num": 656381,
       "word": "张新成不认同搞笑女没有爱情",
@@ -705,6 +745,14 @@
       "onboard_time": 1659342091,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 629065,
+      "num": 629065,
+      "word": "狗子打架输了躺医院哭个不停",
+      "onboard_time": 1659358477,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626737,
@@ -827,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 559967,
+      "num": 559967,
+      "word": "雪允",
+      "onboard_time": 1659360157,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537896,
       "num": 537896,
       "word": "苹果应用商店增加广告位",
@@ -857,6 +913,14 @@
       "onboard_time": 1659326909,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521507,
+      "num": 521507,
+      "word": "郑在玹徐英浩确诊新冠",
+      "onboard_time": 1659360758,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 510155,
@@ -891,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501038,
+      "num": 501038,
+      "word": "女子吃螺后呼吸衰竭病危",
+      "onboard_time": 1659359495,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492324,
       "num": 477766,
       "word": "杨紫你好星期六录制花絮2.0",
@@ -915,20 +987,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490415,
+      "num": 490415,
+      "word": "谢谢初级会计证",
+      "onboard_time": 1659357993,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 490327,
       "num": 490327,
       "word": "打耳洞有哪些危害",
       "onboard_time": 1659336449,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489567,
-      "num": 439920,
-      "word": "沈小婷仪态",
-      "onboard_time": 1659359495,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 487458,
@@ -1035,14 +1107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 448065,
-      "num": 448065,
-      "word": "谢谢初级会计证",
-      "onboard_time": 1659357993,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 447991,
       "num": 447991,
       "word": "20斤猫咪将幼猫夹腿下睡觉",
@@ -1065,6 +1129,22 @@
       "onboard_time": 1659359137,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442776,
+      "num": 311646,
+      "word": "偶运会拉丁舞",
+      "onboard_time": 1659360039,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 442451,
+      "num": 187943,
+      "word": "台媒传佩洛西明晚10时30分抵台",
+      "onboard_time": 1659361602,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442444,
@@ -1251,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398124,
+      "num": 296829,
+      "word": "成毅演的应渊唐周反差感",
+      "onboard_time": 1659360517,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397956,
       "num": 397956,
       "word": "北京7月31日新增1例本土确诊",
@@ -1385,14 +1473,6 @@
       "onboard_time": 1659341790,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 366308,
-      "num": 366308,
-      "word": "狗子打架输了躺医院哭个不停",
-      "onboard_time": 1659358477,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362697,
@@ -1707,14 +1787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275296,
-      "num": 275296,
-      "word": "李显龙告诉佩洛西中美关系稳定很重要",
-      "onboard_time": 1659358836,
-      "rank": 36,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 273926,
       "num": 273926,
       "word": "杨超越唱孤勇者",
@@ -1811,12 +1883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257966,
+      "num": 257966,
+      "word": "人工智能是否会威胁到人类",
+      "onboard_time": 1659361120,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 257706,
       "num": 257706,
       "word": "经纪人回应周渝民被诈骗",
       "onboard_time": 1659332432,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256078,
+      "num": 256078,
+      "word": "上海暴雨",
+      "onboard_time": 1659360941,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255665,
@@ -1963,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212497,
+      "num": 212497,
+      "word": "北京新增病例返京核酸采样后未外出",
+      "onboard_time": 1659360217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212282,
       "num": 212282,
       "word": "这个世界不能没有傻狗",
@@ -2019,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201637,
-      "num": 201637,
-      "word": "背景太假小伙曾上过央视",
-      "onboard_time": 1659359495,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200344,
       "num": 200344,
       "word": "一家三代四口人完成遗体捐献",
@@ -2041,6 +2129,14 @@
       "onboard_time": 1659333990,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197616,
+      "num": 197616,
+      "word": "被小朋友的懂事戳到了",
+      "onboard_time": 1659361481,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 197609,
@@ -2073,6 +2169,14 @@
       "onboard_time": 1659359076,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188948,
+      "num": 188948,
+      "word": "全国铁路客运车站全部实现军人优先",
+      "onboard_time": 1659359737,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 185464,
@@ -2124,7 +2228,7 @@
     },
     {
       "raw_hot": 168962,
-      "num": 3088035,
+      "num": 4506880,
       "word": "不变的军人印记",
       "onboard_time": 1659325406,
       "rank": 2,
@@ -2168,14 +2272,6 @@
       "word": "吐鲁番一串葡萄有手臂那么长",
       "onboard_time": 1659264449,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140356,
-      "num": 140356,
-      "word": "女子吃螺后呼吸衰竭病危",
-      "onboard_time": 1659359495,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
