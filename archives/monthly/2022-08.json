@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659349578122,
+  "endTime": 1659350614988,
   "band_list": [
     {
       "raw_hot": 7158216,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2803770,
-      "num": 1092203,
+      "num": 1741925,
       "word": "周周在西非",
       "onboard_time": 1659346290,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2478299,
+      "num": 2478299,
+      "word": "中国人开始不爱吃辣了吗",
+      "onboard_time": 1659347490,
+      "rank": 1,
+      "category": "美食,社会议题"
     },
     {
       "raw_hot": 2280718,
@@ -155,6 +163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1740782,
+      "num": 1740782,
+      "word": "周周在西非已失联",
+      "onboard_time": 1659349890,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1720260,
       "num": 1720260,
       "word": "电影沙海官宣",
@@ -177,14 +193,6 @@
       "onboard_time": 1659316588,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1528820,
-      "num": 1528820,
-      "word": "中国人开始不爱吃辣了吗",
-      "onboard_time": 1659347490,
-      "rank": 1,
-      "category": "美食,社会议题"
     },
     {
       "raw_hot": 1522167,
@@ -233,6 +241,14 @@
       "onboard_time": 1659323248,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1288741,
+      "num": 566024,
+      "word": "暂定八月播出的影视剧",
+      "onboard_time": 1659349952,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1257826,
@@ -315,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1038528,
+      "num": 1038528,
+      "word": "扬州大学回应教师工作5年月薪370元",
+      "onboard_time": 1659345091,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1012027,
       "num": 1012027,
       "word": "网传与凤行辣目洋子换成钟楚曦",
@@ -329,14 +353,6 @@
       "onboard_time": 1659275731,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 995215,
-      "num": 995215,
-      "word": "扬州大学回应教师工作5年月薪370元",
-      "onboard_time": 1659345091,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 969026,
@@ -409,6 +425,14 @@
       "onboard_time": 1659343831,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840226,
+      "num": 544640,
+      "word": "若佩洛西敢去台湾那我们拭目以待",
+      "onboard_time": 1659349471,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 821106,
@@ -497,6 +521,22 @@
       "onboard_time": 1659322407,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 707816,
+      "num": 510877,
+      "word": "田甜和家暴男离婚",
+      "onboard_time": 1659347672,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 692045,
+      "num": 421369,
+      "word": "新加坡总理会见佩洛西",
+      "onboard_time": 1659348810,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 670504,
@@ -592,14 +632,6 @@
       "word": "独行月球票房破10亿",
       "onboard_time": 1659309922,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 594079,
-      "num": 423911,
-      "word": "田甜和家暴男离婚",
-      "onboard_time": 1659347672,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -795,6 +827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 480529,
+      "num": 322015,
+      "word": "勇士队祝郑秀妍直挂云帆乘风破浪",
+      "onboard_time": 1659350430,
+      "rank": 31,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 479096,
       "num": 479096,
       "word": "人口负增长下少子老龄化将成为常态",
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429550,
+      "num": 248805,
+      "word": "attention",
+      "onboard_time": 1659350551,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 426609,
       "num": 362189,
       "word": "沉香如屑颜淡唐周八月行程图",
@@ -937,14 +985,6 @@
       "onboard_time": 1659341851,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 421369,
-      "num": 421369,
-      "word": "新加坡总理会见佩洛西",
-      "onboard_time": 1659348810,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 419344,
@@ -1048,6 +1088,14 @@
       "word": "男子穿短袖误困冰库机智报警自救",
       "onboard_time": 1659278192,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394217,
+      "num": 394217,
+      "word": "卫健委报告称育龄妇女生育意愿走低",
+      "onboard_time": 1659349289,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1161,6 +1209,14 @@
       "onboard_time": 1659323729,
       "rank": 28,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 344462,
+      "num": 248630,
+      "word": "颜淡靠嘴赢了选美大赛",
+      "onboard_time": 1659349471,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 342829,
@@ -1427,14 +1483,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 270493,
-      "num": 270493,
-      "word": "若佩洛西敢去台湾那我们拭目以待",
-      "onboard_time": 1659349471,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 269368,
       "num": 269368,
       "word": "张蔷成团吧",
@@ -1507,12 +1555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249879,
+      "num": 249879,
+      "word": "意大利男子当街打死移民小贩",
+      "onboard_time": 1659349833,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247099,
       "num": 247099,
       "word": "郭艾伦 发点啥都会被过度分析和解读",
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244925,
+      "num": 244925,
+      "word": "一次不要遛太多狗",
+      "onboard_time": 1659350069,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 243811,
@@ -1529,14 +1593,6 @@
       "onboard_time": 1659265409,
       "rank": 23,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 234968,
-      "num": 234968,
-      "word": "颜淡靠嘴赢了选美大赛",
-      "onboard_time": 1659349471,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 233869,
@@ -1585,14 +1641,6 @@
       "onboard_time": 1659284788,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222104,
-      "num": 222104,
-      "word": "卫健委报告称育龄妇女生育意愿走低",
-      "onboard_time": 1659349289,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220485,
@@ -1755,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177068,
+      "num": 582780,
+      "word": "当军娃是种什么体验",
+      "onboard_time": 1659348032,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170857,
       "num": 170857,
       "word": "一诺",
@@ -1801,14 +1857,6 @@
       "onboard_time": 1659290954,
       "rank": 14,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 137550,
-      "num": 582780,
-      "word": "当军娃是种什么体验",
-      "onboard_time": 1659348032,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132241,
