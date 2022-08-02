@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659419629240,
+  "endTime": 1659421620255,
   "band_list": [
     {
       "raw_hot": 15888865,
@@ -49,6 +49,14 @@
       "onboard_time": 1659399219,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 10104769,
+      "num": 10273025,
+      "word": "桃园机场收到爆裂物恐吓信",
+      "onboard_time": 1659418367,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 7158216,
@@ -280,6 +288,14 @@
       "word": "美国再现血腥周末",
       "onboard_time": 1659364306,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2302002,
+      "num": 2302002,
+      "word": "佩洛西丈夫酒驾将被传讯",
+      "onboard_time": 1659420043,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1578616,
+      "num": 1578616,
+      "word": "爸爸离世妈妈改嫁14岁哥哥抽血救弟",
+      "onboard_time": 1659417764,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1570116,
       "num": 1015132,
       "word": "偶运会",
@@ -545,14 +569,6 @@
       "onboard_time": 1659338666,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1497344,
-      "num": 1199661,
-      "word": "桃园机场收到爆裂物恐吓信",
-      "onboard_time": 1659418367,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1452988,
@@ -643,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1200213,
-      "num": 1200213,
-      "word": "爸爸离世妈妈改嫁14岁哥哥抽血救弟",
-      "onboard_time": 1659417764,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 1241937,
+      "num": 1241937,
+      "word": "网传鹿晗是浪姐成团见证人",
+      "onboard_time": 1659418185,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1192494,
@@ -795,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 987636,
-      "num": 876128,
-      "word": "网传鹿晗是浪姐成团见证人",
-      "onboard_time": 1659418185,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 969026,
       "num": 969026,
       "word": "苹果怼安卓应用商店",
@@ -849,6 +857,14 @@
       "onboard_time": 1659282692,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 917433,
+      "num": 3767776,
+      "word": "中方在联合国表态决不允许越线行为",
+      "onboard_time": 1659417405,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 914434,
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562846,
+      "num": 562846,
+      "word": "七成95后00后有七夕送礼拖延症",
+      "onboard_time": 1659419143,
+      "rank": 33,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 562832,
       "num": 562832,
       "word": "阿斯顿马丁官宣阿隆索加盟",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1659360157,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549733,
+      "num": 549733,
+      "word": "海南舰装卸野马气垫艇场面震撼",
+      "onboard_time": 1659417346,
+      "rank": 29,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 537896,
@@ -1467,20 +1499,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 527753,
+      "num": 527753,
+      "word": "这西瓜差点就忘了长皮",
+      "onboard_time": 1659418126,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 525176,
       "num": 488980,
       "word": "冠军对冠军官宣阵容",
       "onboard_time": 1659326909,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 521550,
-      "num": 521550,
-      "word": "中方在联合国表态决不允许越线行为",
-      "onboard_time": 1659417405,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 521507,
@@ -1651,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477897,
+      "num": 477897,
+      "word": "福原爱带孩子和新男友同住",
+      "onboard_time": 1659421001,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475629,
       "num": 475629,
       "word": "女孩回爷爷家把暑假过成田园诗",
@@ -1665,14 +1705,6 @@
       "onboard_time": 1659352112,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 468387,
-      "num": 468387,
-      "word": "海南舰装卸野马气垫艇场面震撼",
-      "onboard_time": 1659417346,
-      "rank": 29,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 468054,
@@ -1881,14 +1913,6 @@
       "onboard_time": 1659324389,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422626,
-      "num": 422626,
-      "word": "这西瓜差点就忘了长皮",
-      "onboard_time": 1659418126,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 422074,
@@ -2139,6 +2163,14 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 383009,
+      "num": 383009,
+      "word": "boystory巡演官宣",
+      "onboard_time": 1659421121,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 382691,
       "num": 382691,
       "word": "河南新增本土无症状43例",
@@ -2283,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355463,
+      "num": 355463,
+      "word": "上海燃气爆炸房屋为群租房",
+      "onboard_time": 1659420464,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348886,
       "num": 257227,
       "word": "八月期待玉骨遥",
@@ -2339,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336010,
+      "num": 336010,
+      "word": "殷桃把中餐厅拍成MV",
+      "onboard_time": 1659421242,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335368,
       "num": 335368,
       "word": "北京7月31日新增一本土感染者",
@@ -2353,14 +2401,6 @@
       "onboard_time": 1659408701,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334671,
-      "num": 334671,
-      "word": "七成95后00后有七夕送礼拖延症",
-      "onboard_time": 1659419143,
-      "rank": 33,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 333251,
@@ -2441,6 +2481,14 @@
       "onboard_time": 1659418783,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 324799,
+      "num": 324799,
+      "word": "首款国产抗新冠口服药正式投产",
+      "onboard_time": 1659420582,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320715,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 304527,
+      "num": 304527,
+      "word": "海贼王1056话",
+      "onboard_time": 1659420222,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 303020,
@@ -2891,6 +2947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 243804,
+      "num": 243804,
+      "word": "微博七夕新表情上线",
+      "onboard_time": 1659421063,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 242774,
       "num": 242774,
       "word": "坐上鲲鹏去上学",
@@ -3009,6 +3073,14 @@
       "onboard_time": 1659284788,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222797,
+      "num": 222797,
+      "word": "高考超一本线42分因心脏病被拒录",
+      "onboard_time": 1659421540,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 220539,
