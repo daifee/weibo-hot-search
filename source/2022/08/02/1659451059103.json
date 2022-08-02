@@ -1,0 +1,410 @@
+{
+  "runTime": 1659451059103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 25173988,
+        "num": 25173988,
+        "word": "台媒称警方证实佩洛西班机22时降落",
+        "onboard_time": 1659442812,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 6141473,
+        "num": 7339747,
+        "word": "佩洛西专机信息显示目的地台北",
+        "onboard_time": 1659447813,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 9125027,
+        "num": 5443862,
+        "word": "外媒称厦门有人目击到大量装甲车",
+        "onboard_time": 1659436918,
+        "rank": 2,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 4659807,
+        "num": 4659807,
+        "word": "中国网直播",
+        "onboard_time": 1659448052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4035611,
+        "num": 4035611,
+        "word": "日媒称8架美战机从嘉手纳基地起飞",
+        "onboard_time": 1659445112,
+        "rank": 4,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 3828009,
+        "num": 3828009,
+        "word": "外交部回应佩洛西或今晚抵达台湾",
+        "onboard_time": 1659437280,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3582577,
+        "num": 3582577,
+        "word": "台媒曝光佩洛西窜台行程",
+        "onboard_time": 1659436013,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1839583,
+        "num": 1839583,
+        "word": "解放军空军苏-35战机穿越台湾海峡",
+        "onboard_time": 1659450451,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1704377,
+        "num": 1704377,
+        "word": "台海局势紧张升级美方须负全责",
+        "onboard_time": 1659429529,
+        "rank": 8,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 1625965,
+        "num": 1625965,
+        "word": "美方在台湾问题上背信弃义令人不齿",
+        "onboard_time": 1659440230,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1587723,
+        "num": 1587723,
+        "word": "台媒预计佩洛西明日17时离台",
+        "onboard_time": 1659442812,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1451388,
+        "num": 1451388,
+        "word": "8月3日起东海部分海域实弹射击",
+        "onboard_time": 1659445054,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1025614,
+        "num": 1025614,
+        "word": "同事称唐山被碾压女孩为游泳馆工作人员",
+        "onboard_time": 1659440230,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801499,
+        "num": 801499,
+        "word": "韩国一客机途经台湾空域时紧急迫降",
+        "onboard_time": 1659434870,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781799,
+        "num": 781799,
+        "word": "美军EP3E电子侦察机从冲绳起飞",
+        "onboard_time": 1659448609,
+        "rank": 14,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 750213,
+        "num": 750213,
+        "word": "干涉中国主权问题14亿人不答应",
+        "onboard_time": 1659442209,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 508570,
+        "num": 508570,
+        "word": "马天宇吐槽携程旅行吃相太难看",
+        "onboard_time": 1659436194,
+        "rank": 16,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 493095,
+        "num": 493095,
+        "word": "网红购买大白鲨渠道来自网购平台",
+        "onboard_time": 1659446754,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486592,
+        "num": 486592,
+        "word": "台媒称山东舰和辽宁舰驶出基地",
+        "onboard_time": 1659431935,
+        "rank": 18,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 457657,
+        "num": 457657,
+        "word": "与14亿中国人民为敌不会有好下场",
+        "onboard_time": 1659439992,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 441983,
+        "num": 441983,
+        "word": "将进酒",
+        "onboard_time": 1659446999,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416593,
+        "num": 416593,
+        "word": "VaVa",
+        "onboard_time": 1659436254,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364945,
+        "num": 364945,
+        "word": "林妙妙吻钱三一",
+        "onboard_time": 1659445478,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361098,
+        "num": 361098,
+        "word": "南京公交集体降速后还没自行车快",
+        "onboard_time": 1659443899,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332594,
+        "num": 332594,
+        "word": "多架美军用侦察机在台湾岛周边活动",
+        "onboard_time": 1659425322,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 322200,
+        "num": 322200,
+        "word": "肖战直播VCR",
+        "onboard_time": 1659448415,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304554,
+        "num": 304554,
+        "word": "4K实拍随运20翱翔天空",
+        "onboard_time": 1659432715,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268422,
+        "num": 268422,
+        "word": "台媒称佩洛西预计今晚抵达台湾",
+        "onboard_time": 1659433677,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 246997,
+        "num": 246997,
+        "word": "迪迦奥特曼饰演者确诊新冠",
+        "onboard_time": 1659438001,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243926,
+        "num": 243926,
+        "word": "头一次这么想上班",
+        "onboard_time": 1659446326,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228582,
+        "num": 228582,
+        "word": "现在的西红柿怎么了",
+        "onboard_time": 1659448415,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204305,
+        "num": 204305,
+        "word": "长期早醒可能是抑郁症的信号",
+        "onboard_time": 1659449280,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203158,
+        "num": 203158,
+        "word": "南京公交限速",
+        "onboard_time": 1659445422,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174403,
+        "num": 174403,
+        "word": "算是把印度小吃看明白了",
+        "onboard_time": 1659445173,
+        "rank": 33,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 165357,
+        "num": 165357,
+        "word": "雷佳音倪妮吻戏花絮",
+        "onboard_time": 1659443355,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161261,
+        "num": 161261,
+        "word": "桃园机场一天收到三封恐吓信",
+        "onboard_time": 1659438188,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160773,
+        "num": 160773,
+        "word": "原来真的会有一辈子的热恋",
+        "onboard_time": 1659442392,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 152533,
+        "num": 152533,
+        "word": "桃园机场收到爆裂物恐吓信",
+        "onboard_time": 1659418367,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 146548,
+        "num": 146548,
+        "word": "凌不疑挨板子了",
+        "onboard_time": 1659447869,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143035,
+        "num": 143035,
+        "word": "程少商宣皇后母女既视感",
+        "onboard_time": 1659444024,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141961,
+        "num": 141961,
+        "word": "网传B站HR称核心用户都是Loser",
+        "onboard_time": 1659434452,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 135624,
+        "num": 135624,
+        "word": "狗狗走丢2年后出现在家门口",
+        "onboard_time": 1659437820,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132500,
+        "num": 132500,
+        "word": "佩洛西访问台湾是危险的挑衅行为",
+        "onboard_time": 1659411947,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 131447,
+        "num": 131447,
+        "word": "中方密切关注佩洛西行程",
+        "onboard_time": 1659435835,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130924,
+        "num": 130924,
+        "word": "中方谈佩洛西访台反制措施",
+        "onboard_time": 1659431036,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130571,
+        "num": 130571,
+        "word": "凌不疑程少商为太子吵架",
+        "onboard_time": 1659439031,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129529,
+        "num": 129529,
+        "word": "V5战胜BLG",
+        "onboard_time": 1659450390,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118027,
+        "num": 118027,
+        "word": "东部战区4艘登陆舰实战化训练",
+        "onboard_time": 1659426644,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109543,
+        "num": 109543,
+        "word": "军人爸爸归队儿子哭成泪人",
+        "onboard_time": 1659437040,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 106334,
+        "num": 106334,
+        "word": "青岛被卷入海失联男孩18岁",
+        "onboard_time": 1659436735,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}
