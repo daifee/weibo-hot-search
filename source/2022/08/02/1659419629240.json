@@ -1,0 +1,410 @@
+{
+  "runTime": 1659419629240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11478268,
+        "num": 11774914,
+        "word": "佩洛西访问台湾是危险的挑衅行为",
+        "onboard_time": 1659411947,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 6494822,
+        "num": 6494822,
+        "word": "推特网友嘲讽布林肯就佩洛西访台表态",
+        "onboard_time": 1659399219,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 231103,
+        "num": 3039872,
+        "word": "谢谢人民子弟兵的守护",
+        "onboard_time": 1659369399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3015115,
+        "num": 3015115,
+        "word": "另一架美政府包机抵达马来西亚",
+        "onboard_time": 1659416330,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2476205,
+        "num": 2476205,
+        "word": "佩洛西行程",
+        "onboard_time": 1659416088,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2447294,
+        "num": 2447294,
+        "word": "上海一小区发生爆炸",
+        "onboard_time": 1659415133,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1800719,
+        "num": 1800719,
+        "word": "马伯骞进组偷偷藏不住",
+        "onboard_time": 1659416210,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1621784,
+        "num": 1621784,
+        "word": "美民众组织抗议佩洛西访台计划",
+        "onboard_time": 1659414650,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1506570,
+        "num": 1506570,
+        "word": "厦门航空对部分航班调整",
+        "onboard_time": 1659408400,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200213,
+        "num": 1200213,
+        "word": "爸爸离世妈妈改嫁14岁哥哥抽血救弟",
+        "onboard_time": 1659417764,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497344,
+        "num": 1199661,
+        "word": "桃园机场收到爆裂物恐吓信",
+        "onboard_time": 1659418367,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1192494,
+        "num": 1192494,
+        "word": "39岁女主播从身价上亿到一贫如洗",
+        "onboard_time": 1659416572,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169016,
+        "num": 1169016,
+        "word": "王心凌 总冠军",
+        "onboard_time": 1659398373,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1152449,
+        "num": 1152449,
+        "word": "福建省军区在闽南组织防空实弹射击",
+        "onboard_time": 1659404076,
+        "rank": 13,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 913726,
+        "num": 913726,
+        "word": "白宫重申不支持台独",
+        "onboard_time": 1659406420,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 987636,
+        "num": 876128,
+        "word": "网传鹿晗是浪姐成团见证人",
+        "onboard_time": 1659418185,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656754,
+        "num": 656754,
+        "word": "山东舰",
+        "onboard_time": 1659401744,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 595852,
+        "num": 595852,
+        "word": "台当局曾撤回对佩洛西邀请",
+        "onboard_time": 1659403480,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 583383,
+        "num": 583383,
+        "word": "30岁才找到真爱是啥体验",
+        "onboard_time": 1659416867,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 573876,
+        "num": 573876,
+        "word": "交行提前还房贷要收取还款补偿金",
+        "onboard_time": 1659414290,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 902292,
+        "num": 562183,
+        "word": "难听",
+        "onboard_time": 1659408883,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536896,
+        "num": 536896,
+        "word": "马斯克被父亲催吃减肥药",
+        "onboard_time": 1659412791,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 521550,
+        "num": 521550,
+        "word": "中方在联合国表态决不允许越线行为",
+        "onboard_time": 1659417405,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 501596,
+        "num": 501596,
+        "word": "孟子义嘴笨原来是遗传妈妈",
+        "onboard_time": 1659418845,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472774,
+        "num": 472774,
+        "word": "龚俊狐妖小红娘白衣造型",
+        "onboard_time": 1659409967,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468387,
+        "num": 468387,
+        "word": "海南舰装卸野马气垫艇场面震撼",
+        "onboard_time": 1659417346,
+        "rank": 25,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 463660,
+        "num": 463660,
+        "word": "周周在西非称老公没有一夫多妻",
+        "onboard_time": 1659404982,
+        "rank": 26,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 422626,
+        "num": 422626,
+        "word": "这西瓜差点就忘了长皮",
+        "onboard_time": 1659418126,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418713,
+        "num": 418713,
+        "word": "郑秀晶为郑秀妍录了VCR",
+        "onboard_time": 1659402342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391324,
+        "num": 391324,
+        "word": "21年后他与舅舅王伟成为战友",
+        "onboard_time": 1659413512,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 345808,
+        "num": 345808,
+        "word": "中国军队是敢于亮剑的",
+        "onboard_time": 1659408824,
+        "rank": 30,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 385861,
+        "num": 342606,
+        "word": "阿娇阿Sa顺利成团",
+        "onboard_time": 1659410985,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335835,
+        "num": 335835,
+        "word": "一家三口采野蘑菇食用后住进ICU",
+        "onboard_time": 1659412188,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334671,
+        "num": 334671,
+        "word": "七成95后00后有七夕送礼拖延症",
+        "onboard_time": 1659419143,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 329567,
+        "num": 329567,
+        "word": "海事局发布航行警告",
+        "onboard_time": 1659401680,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 325438,
+        "num": 325438,
+        "word": "男子3次跃入水库竭力救溺水儿童",
+        "onboard_time": 1659418783,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 316576,
+        "num": 316576,
+        "word": "如美方一意孤行中方将采取有力措施",
+        "onboard_time": 1659414594,
+        "rank": 36,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 304082,
+        "num": 304082,
+        "word": "退役缉毒犬不舍警服在地上打滚",
+        "onboard_time": 1659417108,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303175,
+        "num": 303175,
+        "word": "留学生穿马面裙参加硕士毕业典礼",
+        "onboard_time": 1659410147,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 298758,
+        "num": 298758,
+        "word": "游客在汾阳一景区坠亡",
+        "onboard_time": 1659409183,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 283217,
+        "num": 283217,
+        "word": "普京称核战争中不会有赢家",
+        "onboard_time": 1659404620,
+        "rank": 40,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 270678,
+        "num": 270678,
+        "word": "爸爸当家首次合体团建",
+        "onboard_time": 1659417886,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267548,
+        "num": 267548,
+        "word": "天会亮的 你有我呢",
+        "onboard_time": 1659409366,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259349,
+        "num": 259349,
+        "word": "杨紫锦觅开播四周年",
+        "onboard_time": 1659412852,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258585,
+        "num": 258585,
+        "word": "清华女博后毕业当14年农民",
+        "onboard_time": 1659408160,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 248638,
+        "num": 248638,
+        "word": "乘客扶梯摔倒辅警飞跃闸机救人",
+        "onboard_time": 1659419322,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241290,
+        "num": 241290,
+        "word": "以后下馆子还能点拍黄瓜吗",
+        "onboard_time": 1659401325,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 236138,
+        "num": 236138,
+        "word": "月升沧海",
+        "onboard_time": 1659414290,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221131,
+        "num": 221131,
+        "word": "iPhone14系列采用不同等级显示屏",
+        "onboard_time": 1659409366,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220539,
+        "num": 220539,
+        "word": "原神2.8",
+        "onboard_time": 1659418783,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}

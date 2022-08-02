@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659419124296,
+  "endTime": 1659419629240,
   "band_list": [
     {
       "raw_hot": 15888865,
@@ -187,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2975365,
-      "num": 2975365,
+      "raw_hot": 3015115,
+      "num": 3015115,
       "word": "另一架美政府包机抵达马来西亚",
       "onboard_time": 1659416330,
       "rank": 3,
@@ -267,20 +267,20 @@
       "category": "美食,社会议题"
     },
     {
+      "raw_hot": 2476205,
+      "num": 2476205,
+      "word": "佩洛西行程",
+      "onboard_time": 1659416088,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2427058,
       "num": 2427058,
       "word": "美国再现血腥周末",
       "onboard_time": 1659364306,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2373838,
-      "num": 2373838,
-      "word": "佩洛西行程",
-      "onboard_time": 1659416088,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2297560,
@@ -411,6 +411,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1800719,
+      "num": 1800719,
+      "word": "马伯骞进组偷偷藏不住",
+      "onboard_time": 1659416210,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1774377,
       "num": 2043476,
       "word": "iPhone14或无mini版本",
@@ -539,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1491756,
-      "num": 1491756,
-      "word": "马伯骞进组偷偷藏不住",
-      "onboard_time": 1659416210,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 1497344,
+      "num": 1199661,
+      "word": "桃园机场收到爆裂物恐吓信",
+      "onboard_time": 1659418367,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1452988,
@@ -635,20 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1200213,
+      "num": 1200213,
+      "word": "爸爸离世妈妈改嫁14岁哥哥抽血救弟",
+      "onboard_time": 1659417764,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1192494,
+      "num": 1192494,
+      "word": "39岁女主播从身价上亿到一贫如洗",
+      "onboard_time": 1659416572,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1190421,
       "num": 612892,
       "word": "阿里回应被美列入预摘牌名单",
       "onboard_time": 1659320786,
       "rank": 10,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 1187829,
-      "num": 1187829,
-      "word": "39岁女主播从身价上亿到一贫如洗",
-      "onboard_time": 1659416572,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1176697,
@@ -779,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 970429,
-      "num": 970429,
-      "word": "爸爸离世妈妈改嫁14岁哥哥抽血救弟",
-      "onboard_time": 1659417764,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 987636,
+      "num": 876128,
+      "word": "网传鹿晗是浪姐成团见证人",
+      "onboard_time": 1659418185,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 969026,
@@ -937,14 +953,6 @@
       "onboard_time": 1659350551,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 820331,
-      "num": 820331,
-      "word": "网传鹿晗是浪姐成团见证人",
-      "onboard_time": 1659418185,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 817111,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1659348810,
       "rank": 23,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 686447,
-      "num": 686447,
-      "word": "桃园机场收到爆裂物恐吓信",
-      "onboard_time": 1659418367,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 670504,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521550,
+      "num": 521550,
+      "word": "中方在联合国表态决不允许越线行为",
+      "onboard_time": 1659417405,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 521507,
       "num": 521507,
       "word": "郑在玹徐英浩确诊新冠",
@@ -1523,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501596,
+      "num": 501596,
+      "word": "孟子义嘴笨原来是遗传妈妈",
+      "onboard_time": 1659418845,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501156,
       "num": 501156,
       "word": "你会听ASMR入睡吗",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1659362981,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497411,
-      "num": 497411,
-      "word": "中方在联合国表态决不允许越线行为",
-      "onboard_time": 1659417405,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 496171,
@@ -1659,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468387,
+      "num": 468387,
+      "word": "海南舰装卸野马气垫艇场面震撼",
+      "onboard_time": 1659417346,
+      "rank": 29,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 468054,
       "num": 468054,
       "word": "EDG新主场",
@@ -1707,14 +1723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 454546,
-      "num": 454546,
-      "word": "孟子义嘴笨原来是遗传妈妈",
-      "onboard_time": 1659418845,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 453876,
       "num": 6867832,
       "word": "谢谢人民子弟兵的守护",
@@ -1728,14 +1736,6 @@
       "word": "21年后他与舅舅王伟成为战友",
       "onboard_time": 1659413512,
       "rank": 40,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 451017,
-      "num": 451017,
-      "word": "海南舰装卸野马气垫艇场面震撼",
-      "onboard_time": 1659417346,
-      "rank": 29,
       "category": "军事,社会新闻"
     },
     {
@@ -1881,6 +1881,14 @@
       "onboard_time": 1659324389,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422626,
+      "num": 422626,
+      "word": "这西瓜差点就忘了长皮",
+      "onboard_time": 1659418126,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 422074,
@@ -2179,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376186,
-      "num": 376186,
-      "word": "这西瓜差点就忘了长皮",
-      "onboard_time": 1659418126,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 373505,
       "num": 373505,
       "word": "胆小鬼定档0808",
@@ -2355,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334671,
+      "num": 334671,
+      "word": "七成95后00后有七夕送礼拖延症",
+      "onboard_time": 1659419143,
+      "rank": 33,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 333251,
       "num": 277462,
       "word": "杨幂演唱会今晚见",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1659348511,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325438,
+      "num": 325438,
+      "word": "男子3次跃入水库竭力救溺水儿童",
+      "onboard_time": 1659418783,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 320715,
@@ -2835,14 +2851,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 255484,
-      "num": 255484,
-      "word": "男子3次跃入水库竭力救溺水儿童",
-      "onboard_time": 1659418783,
-      "rank": 43,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 254111,
       "num": 254111,
       "word": "七月再见",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1659407020,
       "rank": 41,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 248638,
+      "num": 248638,
+      "word": "乘客扶梯摔倒辅警飞跃闸机救人",
+      "onboard_time": 1659419322,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247099,
@@ -2995,20 +3011,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220539,
+      "num": 220539,
+      "word": "原神2.8",
+      "onboard_time": 1659418783,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220485,
       "num": 220485,
       "word": "7月31日新增本土确诊33例",
       "onboard_time": 1659317665,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220456,
-      "num": 220456,
-      "word": "原神2.8",
-      "onboard_time": 1659418783,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 216313,
