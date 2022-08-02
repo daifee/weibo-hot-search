@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659429956440,
+  "endTime": 1659432053010,
   "band_list": [
     {
       "raw_hot": 15888865,
@@ -59,20 +59,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 10727160,
+      "num": 10572009,
+      "word": "佩洛西此前所乘专机起飞",
+      "onboard_time": 1659428569,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 7158216,
       "num": 6408345,
       "word": "周渝民夫妻遭诈骗775万",
       "onboard_time": 1659327992,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6244450,
-      "num": 6244450,
-      "word": "佩洛西此前所乘专机起飞",
-      "onboard_time": 1659428569,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 5404775,
@@ -145,6 +145,14 @@
       "onboard_time": 1659408160,
       "rank": 3,
       "category": "军事"
+    },
+    {
+      "raw_hot": 3818244,
+      "num": 3818244,
+      "word": "台海局势紧张升级美方须负全责",
+      "onboard_time": 1659429529,
+      "rank": 17,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 3738562,
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2035221,
+      "num": 2035221,
+      "word": "美台勾连挑衅在先中方正当防卫在后",
+      "onboard_time": 1659429890,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2023072,
       "num": 2023072,
       "word": "胡军工作室道歉",
@@ -681,6 +697,14 @@
       "onboard_time": 1659361723,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1385196,
+      "num": 1385196,
+      "word": "中方谈佩洛西访台反制措施",
+      "onboard_time": 1659431036,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1381041,
@@ -1139,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796710,
+      "num": 796710,
+      "word": "绝不为任何形式的台独势力留下任何空间",
+      "onboard_time": 1659429286,
+      "rank": 25,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 789542,
       "num": 789542,
       "word": "吴谨言 没成团",
@@ -1291,12 +1323,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 709186,
+      "num": 709186,
+      "word": "QQ音乐显示ip属地",
+      "onboard_time": 1659430134,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 707816,
       "num": 510877,
       "word": "田甜和家暴男离婚",
       "onboard_time": 1659347672,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 702035,
+      "num": 702035,
+      "word": "杨丽萍侄女重现36年前经典",
+      "onboard_time": 1659431452,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 692045,
@@ -1321,14 +1369,6 @@
       "onboard_time": 1659407020,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 661703,
-      "num": 661703,
-      "word": "台海局势紧张升级美方须负全责",
-      "onboard_time": 1659429529,
-      "rank": 17,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 661508,
@@ -1499,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586986,
+      "num": 586986,
+      "word": "这就是街舞5队长repo",
+      "onboard_time": 1659431153,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585875,
       "num": 585875,
       "word": "30岁才找到真爱是啥体验",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1659301271,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573301,
+      "num": 573301,
+      "word": "台媒称山东舰和辽宁舰驶出基地",
+      "onboard_time": 1659431935,
+      "rank": 24,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 572902,
@@ -1971,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445575,
+      "num": 445575,
+      "word": "蜘蛛侠英雄无归8月5日上线",
+      "onboard_time": 1659430012,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445055,
       "num": 445055,
       "word": "黄铉辰撒娇",
@@ -2057,14 +2121,6 @@
       "onboard_time": 1659349833,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425200,
-      "num": 425200,
-      "word": "绝不为任何形式的台独势力留下任何空间",
-      "onboard_time": 1659429286,
-      "rank": 25,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 425172,
@@ -2307,6 +2363,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 393762,
+      "num": 393762,
+      "word": "余墨九百年终于找到颜淡了",
+      "onboard_time": 1659431452,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393552,
       "num": 393552,
       "word": "男子走路看手机撞伤老人被判赔2万",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1659353134,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384638,
+      "num": 384638,
+      "word": "养狗人每天有效陪狗不足半小时",
+      "onboard_time": 1659429832,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383257,
@@ -2569,6 +2641,14 @@
       "onboard_time": 1659323729,
       "rank": 28,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 344763,
+      "num": 344763,
+      "word": "一个人才会真正的自由吧",
+      "onboard_time": 1659430553,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 344462,
@@ -3003,14 +3083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286908,
-      "num": 286908,
-      "word": "养狗人每天有效陪狗不足半小时",
-      "onboard_time": 1659429832,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284058,
       "num": 284058,
       "word": "双航母编队同框训练场景会越来越多",
@@ -3025,6 +3097,14 @@
       "onboard_time": 1659276871,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280230,
+      "num": 280230,
+      "word": "三石六记",
+      "onboard_time": 1659430073,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 279831,
@@ -3097,6 +3177,14 @@
       "onboard_time": 1659285623,
       "rank": 18,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 269760,
+      "num": 269760,
+      "word": "郑晓龙欣赏赵丽颖的倔劲",
+      "onboard_time": 1659431875,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269368,
@@ -3275,14 +3363,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 242339,
-      "num": 242339,
-      "word": "美台勾连挑衅在先中方正当防卫在后",
-      "onboard_time": 1659429890,
-      "rank": 44,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 241003,
       "num": 241003,
       "word": "白漂亮比颜淡心眼还多",
@@ -3443,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217794,
+      "num": 217794,
+      "word": "明日战记有多硬核",
+      "onboard_time": 1659431975,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216313,
       "num": 216313,
       "word": "唐周也是翻龟君",
@@ -3601,6 +3689,14 @@
       "onboard_time": 1659319644,
       "rank": 43,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 196567,
+      "num": 196567,
+      "word": "姐姐们的花开得怎么样了",
+      "onboard_time": 1659430312,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 196477,
