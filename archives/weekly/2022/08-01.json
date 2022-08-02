@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659459521079,
+  "endTime": 1659461302598,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -115,7 +115,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 11833515,
+      "raw_hot": 12216094,
       "num": 13083515,
       "word": "台北民众高喊佩洛西滚回去",
       "onboard_time": 1659455570,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 8007639,
-      "num": 1345250,
+      "num": 1439714,
       "word": "微博崩了",
       "onboard_time": 1659454434,
       "rank": 10,
@@ -265,6 +265,14 @@
       "onboard_time": 1659451831,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3949819,
+      "num": 3949819,
+      "word": "志愿军14昼夜打退美军30多次进攻",
+      "onboard_time": 1659456521,
+      "rank": 22,
+      "category": "军事"
     },
     {
       "raw_hot": 3937432,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2622651,
+      "num": 2622651,
+      "word": "中华人民共和国外交部声明",
+      "onboard_time": 1659458573,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2610866,
       "num": 2610866,
       "word": "厦门血小板紧缺血站呼吁市民捐献",
@@ -721,6 +737,14 @@
       "onboard_time": 1659401680,
       "rank": 7,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1862428,
+      "num": 1862428,
+      "word": "世界名画之美机坠落",
+      "onboard_time": 1659456165,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1860862,
@@ -955,6 +979,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 1454683,
+      "num": 1454683,
+      "word": "美股开盘下跌",
+      "onboard_time": 1659457120,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1452988,
       "num": 1452988,
       "word": "事业单位招聘笔试3.17分排名第一",
@@ -969,14 +1001,6 @@
       "onboard_time": 1659371014,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1440796,
-      "num": 1440796,
-      "word": "志愿军14昼夜打退美军30多次进攻",
-      "onboard_time": 1659456521,
-      "rank": 22,
-      "category": "军事"
     },
     {
       "raw_hot": 1393199,
@@ -1099,6 +1123,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1194807,
+      "num": 1194807,
+      "word": "台媒称解放军歼16战机现身巴士海峡",
+      "onboard_time": 1659452068,
+      "rank": 22,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 1192494,
       "num": 1192494,
       "word": "39岁女主播从身价上亿到一贫如洗",
@@ -1128,14 +1160,6 @@
       "word": "南非",
       "onboard_time": 1659343470,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1135744,
-      "num": 1135744,
-      "word": "世界名画之美机坠落",
-      "onboard_time": 1659456165,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1387,36 +1411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 911398,
-      "num": 911398,
-      "word": "台媒称解放军歼16战机现身巴士海峡",
-      "onboard_time": 1659452068,
-      "rank": 22,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 904015,
       "num": 904015,
       "word": "狗子陪主人排队做核酸抖成电动臀",
       "onboard_time": 1659317188,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 903284,
-      "num": 903284,
-      "word": "美股开盘下跌",
-      "onboard_time": 1659457120,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 903270,
-      "num": 903270,
-      "word": "中华人民共和国外交部声明",
-      "onboard_time": 1659458573,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 895612,
@@ -2555,6 +2555,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 451012,
+      "num": 451012,
+      "word": "长期早醒可能是抑郁症的信号",
+      "onboard_time": 1659449280,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449485,
       "num": 449485,
       "word": "万人请辞穿越火线策划",
@@ -2667,14 +2675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434759,
-      "num": 434759,
-      "word": "长期早醒可能是抑郁症的信号",
-      "onboard_time": 1659449280,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433941,
       "num": 433941,
       "word": "卫健委报告称育龄妇女生育意愿走低",
@@ -2761,6 +2761,14 @@
       "onboard_time": 1659341851,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 421334,
+      "num": 421334,
+      "word": "会用excel但不多",
+      "onboard_time": 1659456224,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 420747,
@@ -3089,6 +3097,14 @@
       "onboard_time": 1659334709,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 378717,
+      "num": 378717,
+      "word": "网红曾询问店家购买鲨鱼是否合法",
+      "onboard_time": 1659452068,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378305,
@@ -3771,14 +3787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290076,
-      "num": 290076,
-      "word": "网红曾询问店家购买鲨鱼是否合法",
-      "onboard_time": 1659452068,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290030,
       "num": 290030,
       "word": "网红烹食大白鲨来自福建沿海",
@@ -3793,14 +3801,6 @@
       "onboard_time": 1659408701,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284779,
-      "num": 284779,
-      "word": "会用excel但不多",
-      "onboard_time": 1659456224,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 284058,
@@ -4097,6 +4097,14 @@
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244897,
+      "num": 244897,
+      "word": "孟子义妈妈最喜欢孟子义和张翰的cp",
+      "onboard_time": 1659460660,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 243811,
@@ -4443,6 +4451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198049,
+      "num": 198049,
+      "word": "小猫凶同伴被赶出房间转头骂护士",
+      "onboard_time": 1659447376,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197609,
       "num": 197609,
       "word": "人在40岁时睡得最少",
@@ -4465,6 +4481,14 @@
       "onboard_time": 1659430312,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196541,
+      "num": 77452,
+      "word": "东部战区已开始一系列联合军事行动",
+      "onboard_time": 1659461254,
+      "rank": 47,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 196477,
@@ -4603,6 +4627,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 166796,
+      "num": 166796,
+      "word": "与凤行赵丽颖白衣披发路透",
+      "onboard_time": 1659456584,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166196,
       "num": 166196,
       "word": "手机自带的软件为何删不掉",
@@ -4675,20 +4707,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135680,
-      "num": 135680,
-      "word": "与凤行赵丽颖白衣披发路透",
-      "onboard_time": 1659456584,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132241,
       "num": 110695,
       "word": "恋爱中对方向你借钱该借吗",
       "onboard_time": 1659310162,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130977,
+      "num": 130977,
+      "word": "颜淡撒娇",
+      "onboard_time": 1659457060,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 129529,
@@ -4707,12 +4739,12 @@
       "category": "社会议题,教育"
     },
     {
-      "raw_hot": 119172,
-      "num": 119172,
-      "word": "颜淡撒娇",
-      "onboard_time": 1659457060,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 118551,
+      "num": 118551,
+      "word": "B站回应HR称用户是Loser",
+      "onboard_time": 1659453653,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 116411,
@@ -4811,6 +4843,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 87591,
+      "num": 87591,
+      "word": "印尼解封Steam",
+      "onboard_time": 1659458139,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82022,
       "num": 82022,
       "word": "周洁琼宋灵灵",
@@ -4835,12 +4875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76977,
-      "num": 76977,
-      "word": "印尼解封Steam",
-      "onboard_time": 1659458139,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 77155,
+      "num": 77155,
+      "word": "林妙妙教钱三一谈恋爱",
+      "onboard_time": 1659458020,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 73388,
@@ -4851,28 +4891,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 73368,
-      "num": 73368,
-      "word": "小猫凶同伴被赶出房间转头骂护士",
-      "onboard_time": 1659447376,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "点赞强军",
       "onboard_time": 1659279153,
       "rank": 48,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 65910,
-      "num": 65910,
-      "word": "林妙妙教钱三一谈恋爱",
-      "onboard_time": 1659458020,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 57336,
@@ -4969,14 +4993,6 @@
       "onboard_time": 1659438001,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 42159,
-      "num": 42159,
-      "word": "B站回应HR称用户是Loser",
-      "onboard_time": 1659453653,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 41477,

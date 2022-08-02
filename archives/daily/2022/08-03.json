@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659459521079,
+  "endTime": 1659461302598,
   "band_list": [
     {
       "raw_hot": 21338185,
@@ -19,7 +19,7 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 11833515,
+      "raw_hot": 12216094,
       "num": 13083515,
       "word": "台北民众高喊佩洛西滚回去",
       "onboard_time": 1659455570,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 8007639,
-      "num": 1345250,
+      "num": 1439714,
       "word": "微博崩了",
       "onboard_time": 1659454434,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3949819,
+      "num": 3949819,
+      "word": "志愿军14昼夜打退美军30多次进攻",
+      "onboard_time": 1659456521,
+      "rank": 22,
+      "category": "军事"
     },
     {
       "raw_hot": 3764606,
@@ -59,6 +67,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 2622651,
+      "num": 2622651,
+      "word": "中华人民共和国外交部声明",
+      "onboard_time": 1659458573,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2510625,
       "num": 2510625,
       "word": "东部战区将在台岛周边开展军事行动",
@@ -73,6 +89,14 @@
       "onboard_time": 1659442209,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1862428,
+      "num": 1862428,
+      "word": "世界名画之美机坠落",
+      "onboard_time": 1659456165,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1743704,
@@ -91,20 +115,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1443614,
-      "num": 1443614,
+      "raw_hot": 1483591,
+      "num": 1483591,
       "word": "同事称唐山被碾压女孩为游泳馆工作人员",
       "onboard_time": 1659440230,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1440796,
-      "num": 1440796,
-      "word": "志愿军14昼夜打退美军30多次进攻",
-      "onboard_time": 1659456521,
-      "rank": 22,
-      "category": "军事"
+      "raw_hot": 1454683,
+      "num": 1454683,
+      "word": "美股开盘下跌",
+      "onboard_time": 1659457120,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 1201174,
@@ -115,12 +139,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1135744,
-      "num": 1135744,
-      "word": "世界名画之美机坠落",
-      "onboard_time": 1659456165,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 1194807,
+      "num": 1194807,
+      "word": "台媒称解放军歼16战机现身巴士海峡",
+      "onboard_time": 1659452068,
+      "rank": 24,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 980054,
@@ -147,30 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911398,
-      "num": 911398,
-      "word": "台媒称解放军歼16战机现身巴士海峡",
-      "onboard_time": 1659452068,
-      "rank": 24,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 903284,
-      "num": 903284,
-      "word": "美股开盘下跌",
-      "onboard_time": 1659457120,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 903270,
-      "num": 903270,
-      "word": "中华人民共和国外交部声明",
-      "onboard_time": 1659458573,
-      "rank": 17,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 789968,
       "num": 95490,
       "word": "台媒曝光佩洛西窜台行程",
@@ -179,8 +179,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 716152,
-      "num": 716152,
+      "raw_hot": 733530,
+      "num": 733530,
       "word": "马天宇吐槽携程旅行吃相太难看",
       "onboard_time": 1659436194,
       "rank": 16,
@@ -203,12 +203,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 434759,
-      "num": 434759,
+      "raw_hot": 451012,
+      "num": 451012,
       "word": "长期早醒可能是抑郁症的信号",
       "onboard_time": 1659449280,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421334,
+      "num": 421334,
+      "word": "会用excel但不多",
+      "onboard_time": 1659456224,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 384914,
@@ -217,6 +225,14 @@
       "onboard_time": 1659439992,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 378717,
+      "num": 378717,
+      "word": "网红曾询问店家购买鲨鱼是否合法",
+      "onboard_time": 1659452068,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330676,
@@ -235,22 +251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290076,
-      "num": 290076,
-      "word": "网红曾询问店家购买鲨鱼是否合法",
-      "onboard_time": 1659452068,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284779,
-      "num": 284779,
-      "word": "会用excel但不多",
-      "onboard_time": 1659456224,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 256931,
       "num": 256931,
       "word": "多架美军用侦察机在台湾岛周边活动",
@@ -259,12 +259,36 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 235676,
-      "num": 235676,
+      "raw_hot": 244897,
+      "num": 244897,
+      "word": "孟子义妈妈最喜欢孟子义和张翰的cp",
+      "onboard_time": 1659460660,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241118,
+      "num": 241118,
+      "word": "现在的西红柿怎么了",
+      "onboard_time": 1659448415,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 240424,
+      "num": 240424,
       "word": "迪迦奥特曼饰演者确诊新冠",
       "onboard_time": 1659438001,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233188,
+      "num": 233188,
+      "word": "头一次这么想上班",
+      "onboard_time": 1659446326,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 231213,
@@ -275,12 +299,28 @@
       "category": "自然"
     },
     {
-      "raw_hot": 205879,
-      "num": 205879,
+      "raw_hot": 226830,
+      "num": 226830,
       "word": "原来真的会有一辈子的热恋",
       "onboard_time": 1659442392,
       "rank": 35,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 198049,
+      "num": 198049,
+      "word": "小猫凶同伴被赶出房间转头骂护士",
+      "onboard_time": 1659447376,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196541,
+      "num": 77452,
+      "word": "东部战区已开始一系列联合军事行动",
+      "onboard_time": 1659461254,
+      "rank": 47,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 193530,
@@ -291,12 +331,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 190548,
-      "num": 190548,
-      "word": "现在的西红柿怎么了",
-      "onboard_time": 1659448415,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 189746,
+      "num": 189746,
+      "word": "凌不疑程少商为太子吵架",
+      "onboard_time": 1659439031,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 181763,
@@ -315,36 +355,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 148370,
-      "num": 148370,
-      "word": "头一次这么想上班",
-      "onboard_time": 1659446326,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 175715,
+      "num": 175715,
+      "word": "东部战区4艘登陆舰实战化训练",
+      "onboard_time": 1659426644,
+      "rank": 44,
+      "category": "军事"
     },
     {
-      "raw_hot": 140544,
-      "num": 140544,
-      "word": "凌不疑程少商为太子吵架",
-      "onboard_time": 1659439031,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 135956,
-      "num": 135956,
-      "word": "桃园机场一天收到三封恐吓信",
-      "onboard_time": 1659438188,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 135680,
-      "num": 135680,
+      "raw_hot": 166796,
+      "num": 166796,
       "word": "与凤行赵丽颖白衣披发路透",
       "onboard_time": 1659456584,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136149,
+      "num": 136149,
+      "word": "桃园机场一天收到三封恐吓信",
+      "onboard_time": 1659438188,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 132371,
@@ -355,12 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119172,
-      "num": 119172,
+      "raw_hot": 130977,
+      "num": 130977,
       "word": "颜淡撒娇",
       "onboard_time": 1659457060,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118551,
+      "num": 118551,
+      "word": "B站回应HR称用户是Loser",
+      "onboard_time": 1659453653,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 116983,
@@ -387,20 +427,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86420,
-      "num": 86420,
-      "word": "东部战区4艘登陆舰实战化训练",
-      "onboard_time": 1659426644,
-      "rank": 44,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 76977,
-      "num": 76977,
+      "raw_hot": 87591,
+      "num": 87591,
       "word": "印尼解封Steam",
       "onboard_time": 1659458139,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77155,
+      "num": 77155,
+      "word": "林妙妙教钱三一谈恋爱",
+      "onboard_time": 1659458020,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 73388,
@@ -409,22 +449,6 @@
       "onboard_time": 1659459119,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 73368,
-      "num": 73368,
-      "word": "小猫凶同伴被赶出房间转头骂护士",
-      "onboard_time": 1659447376,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65910,
-      "num": 65910,
-      "word": "林妙妙教钱三一谈恋爱",
-      "onboard_time": 1659458020,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 58374,
