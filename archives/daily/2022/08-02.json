@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659451059103,
+  "endTime": 1659453771555,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -187,12 +187,28 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 4140764,
+      "num": 3575755,
+      "word": "佩洛西专机降落松山机场",
+      "onboard_time": 1659451831,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3937432,
       "num": 3937432,
       "word": "拜登宣布美国已击毙基地组织头目",
       "onboard_time": 1659400723,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3925848,
+      "num": 3925848,
+      "word": "解放军空军苏-35战机穿越台湾海峡",
+      "onboard_time": 1659450451,
+      "rank": 7,
+      "category": "军事"
     },
     {
       "raw_hot": 3884965,
@@ -224,6 +240,14 @@
       "word": "美方在台湾问题上背信弃义令人不齿",
       "onboard_time": 1659440230,
       "rank": 7,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3601216,
+      "num": 3601216,
+      "word": "外交部回应佩洛西窜访中国台湾地区",
+      "onboard_time": 1659452732,
+      "rank": 2,
       "category": "国内要闻"
     },
     {
@@ -449,14 +473,6 @@
       "onboard_time": 1659434452,
       "rank": 9,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1839583,
-      "num": 1839583,
-      "word": "解放军空军苏-35战机穿越台湾海峡",
-      "onboard_time": 1659450451,
-      "rank": 7,
-      "category": "军事"
     },
     {
       "raw_hot": 1820055,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1659442030,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 525404,
+      "num": 525404,
+      "word": "只有一个中国",
+      "onboard_time": 1659451411,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 513392,
@@ -2027,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274164,
+      "num": 274164,
+      "word": "全国人大常委会回应佩洛西窜访中国台湾",
+      "onboard_time": 1659453193,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 269914,
       "num": 269914,
       "word": "林朝夕老林是双向守护",
@@ -2331,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165997,
+      "num": 40164,
+      "word": "维护领土完整是14亿多中国人民的意志",
+      "onboard_time": 1659453779,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "沈小婷偶运会舞蹈比赛第一",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1659357696,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146588,
+      "num": 146588,
+      "word": "台媒称解放军歼16战机现身巴士海峡",
+      "onboard_time": 1659452068,
+      "rank": 22,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 146063,
@@ -2467,6 +2515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86160,
+      "num": 86160,
+      "word": "网红曾询问店家购买鲨鱼是否合法",
+      "onboard_time": 1659452068,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82022,
+      "num": 82022,
+      "word": "周洁琼宋灵灵",
+      "onboard_time": 1659453286,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65259,
       "num": 68241,
       "word": "林妙妙钱三一隔空比心",
@@ -2475,12 +2539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55352,
+      "num": 55352,
+      "word": "小猫凶同伴被赶出房间转头骂护士",
+      "onboard_time": 1659447376,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55282,
       "num": 55282,
       "word": "暑期视频创想季",
       "onboard_time": 1659381191,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52618,
+      "num": 52618,
+      "word": "9岁男孩坠江上演教科书式自救",
+      "onboard_time": 1659452640,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50280,
@@ -2505,6 +2585,30 @@
       "onboard_time": 1659438001,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42159,
+      "num": 42159,
+      "word": "B站回应HR称用户是Loser",
+      "onboard_time": 1659453653,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 41477,
+      "num": 41477,
+      "word": "镜头里的100种快乐夏日",
+      "onboard_time": 1659451411,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 39003,
+      "num": 39003,
+      "word": "中国熊猫会点中国功夫很正常",
+      "onboard_time": 1659453378,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25017,
