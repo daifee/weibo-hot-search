@@ -1,7 +1,15 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659445712945,
+  "endTime": 1659447786204,
   "band_list": [
+    {
+      "raw_hot": 39150996,
+      "num": 40334822,
+      "word": "台媒称警方证实佩洛西班机22时降落",
+      "onboard_time": 1659442812,
+      "rank": 4,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 26211335,
       "num": 25715551,
@@ -11,20 +19,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 25134353,
+      "num": 25134353,
+      "word": "外媒称厦门有人目击到大量装甲车",
+      "onboard_time": 1659436918,
+      "rank": 43,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 23223273,
       "num": 23223273,
       "word": "佩洛西此前所乘专机起飞",
       "onboard_time": 1659428569,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 22574473,
-      "num": 22574473,
-      "word": "外媒称厦门有人目击到大量装甲车",
-      "onboard_time": 1659436918,
-      "rank": 43,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 20022592,
@@ -91,12 +99,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 10812934,
-      "num": 5760537,
-      "word": "台媒称警方证实佩洛西班机22时降落",
-      "onboard_time": 1659442812,
-      "rank": 4,
-      "category": "国内要闻"
+      "raw_hot": 8808139,
+      "num": 6204376,
+      "word": "日媒称8架美战机从嘉手纳基地起飞",
+      "onboard_time": 1659445112,
+      "rank": 18,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 7158216,
@@ -113,6 +121,14 @@
       "onboard_time": 1659434870,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5525676,
+      "num": 5525676,
+      "word": "外交部回应佩洛西或今晚抵达台湾",
+      "onboard_time": 1659437280,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 5404775,
@@ -145,14 +161,6 @@
       "onboard_time": 1659421781,
       "rank": 10,
       "category": "军事"
-    },
-    {
-      "raw_hot": 4709309,
-      "num": 4709309,
-      "word": "外交部回应佩洛西或今晚抵达台湾",
-      "onboard_time": 1659437280,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 4603232,
@@ -217,6 +225,14 @@
       "onboard_time": 1659340170,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3734939,
+      "num": 3734939,
+      "word": "台媒预计佩洛西明日17时离台",
+      "onboard_time": 1659442812,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3690939,
@@ -361,6 +377,14 @@
       "onboard_time": 1659352416,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2900100,
+      "num": 2900100,
+      "word": "8月3日起东海部分海域实弹射击",
+      "onboard_time": 1659445054,
+      "rank": 23,
+      "category": "军事"
     },
     {
       "raw_hot": 2877572,
@@ -707,6 +731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1645587,
+      "num": 1645587,
+      "word": "林妙妙吻钱三一",
+      "onboard_time": 1659445478,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1640520,
       "num": 1640520,
       "word": "南海部分海域军事训练禁止驶入",
@@ -747,20 +779,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1599751,
+      "num": 1599751,
+      "word": "南京公交集体降速后还没自行车快",
+      "onboard_time": 1659443899,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1594343,
       "num": 1594343,
       "word": "山东舰",
       "onboard_time": 1659401744,
       "rank": 8,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1587599,
-      "num": 1587599,
-      "word": "台媒预计佩洛西明日17时离台",
-      "onboard_time": 1659442812,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1584530,
@@ -800,6 +832,14 @@
       "word": "外交部再强调佩洛西赴台严重后果",
       "onboard_time": 1659342331,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1520686,
+      "num": 6937901,
+      "word": "4K实拍随运20翱翔天空",
+      "onboard_time": 1659432715,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -905,6 +945,14 @@
       "onboard_time": 1659433379,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1259835,
+      "num": 1259835,
+      "word": "网红购买大白鲨渠道来自网购平台",
+      "onboard_time": 1659446754,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1257826,
@@ -1139,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 976083,
-      "num": 976083,
-      "word": "日媒称8架美战机从嘉手纳基地起飞",
-      "onboard_time": 1659445112,
-      "rank": 18,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 972274,
       "num": 972274,
       "word": "杨幂狐妖小红娘红衣造型",
@@ -1315,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 833881,
-      "num": 833881,
-      "word": "南京公交集体降速后还没自行车快",
-      "onboard_time": 1659443899,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 828780,
       "num": 828780,
       "word": "男子带猫做绝育后猫怀孕了",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1659429286,
       "rank": 25,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 792404,
+      "num": 792404,
+      "word": "南京公交限速",
+      "onboard_time": 1659445422,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789542,
@@ -1587,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 699103,
-      "num": 699103,
-      "word": "8月3日起东海部分海域实弹射击",
-      "onboard_time": 1659445054,
-      "rank": 23,
-      "category": "军事"
-    },
-    {
       "raw_hot": 696946,
       "num": 696946,
       "word": "王一博完美化解舞台危机",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1659348810,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 684259,
+      "num": 684259,
+      "word": "原来真的会有一辈子的热恋",
+      "onboard_time": 1659442392,
+      "rank": 25,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 670504,
@@ -1680,22 +1720,6 @@
       "word": "胡歌吴越张新成县委大院剧照",
       "onboard_time": 1659342091,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 633790,
-      "num": 633790,
-      "word": "原来真的会有一辈子的热恋",
-      "onboard_time": 1659442392,
-      "rank": 25,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 629227,
-      "num": 629227,
-      "word": "林妙妙吻钱三一",
-      "onboard_time": 1659445478,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1785,6 +1809,14 @@
       "onboard_time": 1659436437,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 607871,
+      "num": 607871,
+      "word": "算是把印度小吃看明白了",
+      "onboard_time": 1659445173,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 607151,
@@ -2043,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518724,
-      "num": 6937901,
-      "word": "4K实拍随运20翱翔天空",
-      "onboard_time": 1659432715,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513392,
       "num": 513392,
       "word": "月升沧海",
@@ -2195,6 +2219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486648,
+      "num": 486648,
+      "word": "Bin 纳尔",
+      "onboard_time": 1659446635,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 486255,
       "num": 486255,
       "word": "男子赶海忘关电锁涨潮后宝马被淹",
@@ -2209,6 +2241,14 @@
       "onboard_time": 1659431875,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484720,
+      "num": 484720,
+      "word": "将进酒",
+      "onboard_time": 1659446999,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 481122,
@@ -3275,14 +3315,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 324902,
-      "num": 324902,
-      "word": "南京公交限速",
-      "onboard_time": 1659445422,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324799,
       "num": 324799,
       "word": "男朋友眼中的浪漫原来是这样",
@@ -3355,6 +3387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 311679,
+      "num": 311679,
+      "word": "头一次这么想上班",
+      "onboard_time": 1659446326,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311127,
       "num": 291497,
       "word": "腾讯音乐由你榜冠军",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1659325231,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309253,
-      "num": 309253,
-      "word": "算是把印度小吃看明白了",
-      "onboard_time": 1659445173,
-      "rank": 39,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 307906,
@@ -3635,6 +3667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274748,
+      "num": 274748,
+      "word": "马嘉祺眼神感染力",
+      "onboard_time": 1659447340,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274553,
       "num": 274553,
       "word": "明日战记有多硬核",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246181,
+      "num": 246181,
+      "word": "BLG对战V5",
+      "onboard_time": 1659447616,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 243811,
