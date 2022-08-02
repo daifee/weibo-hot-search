@@ -1,12 +1,20 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659409626561,
+  "endTime": 1659414886854,
   "band_list": [
     {
       "raw_hot": 15684908,
       "num": 15684908,
       "word": "推特网友嘲讽布林肯就佩洛西访台表态",
       "onboard_time": 1659399219,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 15151066,
+      "num": 15151066,
+      "word": "佩洛西专机抵达马来西亚",
+      "onboard_time": 1659410447,
       "rank": 0,
       "category": "国外要闻"
     },
@@ -43,6 +51,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 4338969,
+      "num": 4338969,
+      "word": "佩洛西访问台湾是危险的挑衅行为",
+      "onboard_time": 1659411947,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3937432,
       "num": 3937432,
       "word": "拜登宣布美国已击毙基地组织头目",
@@ -67,6 +83,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 3689798,
+      "num": 3689798,
+      "word": "厦门航空对部分航班调整",
+      "onboard_time": 1659408400,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3598881,
       "num": 3598881,
       "word": "台当局曾撤回对佩洛西邀请",
@@ -81,14 +105,6 @@
       "onboard_time": 1659398373,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3071086,
-      "num": 3071086,
-      "word": "厦门航空对部分航班调整",
-      "onboard_time": 1659408400,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2920261,
@@ -139,6 +155,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1621960,
+      "num": 1264333,
+      "word": "难听",
+      "onboard_time": 1659408883,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1594343,
       "num": 1594343,
       "word": "山东舰",
@@ -163,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1564207,
+      "num": 1564207,
+      "word": "中国军队是敢于亮剑的",
+      "onboard_time": 1659408824,
+      "rank": 25,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 1441243,
       "num": 1441243,
       "word": "三亚发现1名新冠肺炎确诊病例",
@@ -185,14 +217,6 @@
       "onboard_time": 1659362741,
       "rank": 7,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 1346651,
-      "num": 1264333,
-      "word": "难听",
-      "onboard_time": 1659408883,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 1341461,
@@ -251,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1004691,
+      "num": 1004691,
+      "word": "龚俊狐妖小红娘白衣造型",
+      "onboard_time": 1659409967,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960991,
       "num": 960991,
       "word": "网红提子被举报吃娃娃鱼鸵鸟孔雀",
@@ -273,6 +305,14 @@
       "onboard_time": 1659361602,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832232,
+      "num": 832232,
+      "word": "阿娇阿Sa顺利成团",
+      "onboard_time": 1659410985,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 831859,
@@ -323,20 +363,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 752105,
+      "num": 752105,
+      "word": "留学生穿马面裙参加硕士毕业典礼",
+      "onboard_time": 1659410147,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 719712,
+      "num": 719712,
+      "word": "天会亮的 你有我呢",
+      "onboard_time": 1659409366,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 716222,
+      "num": 716222,
+      "word": "清华女博后毕业当14年农民",
+      "onboard_time": 1659408160,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 711456,
       "num": 711456,
       "word": "日本美滨核电站发生泄漏",
       "onboard_time": 1659395606,
       "rank": 25,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 681408,
-      "num": 681408,
-      "word": "清华女博后毕业当14年农民",
-      "onboard_time": 1659408160,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 669174,
@@ -371,12 +427,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 617570,
-      "num": 617570,
-      "word": "天会亮的 你有我呢",
-      "onboard_time": 1659409366,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 626887,
+      "num": 626887,
+      "word": "杨紫锦觅开播四周年",
+      "onboard_time": 1659412852,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 625911,
+      "num": 625911,
+      "word": "游客在汾阳一景区坠亡",
+      "onboard_time": 1659409183,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 607151,
+      "num": 607151,
+      "word": "胆小鬼道歉式官宣",
+      "onboard_time": 1659410865,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 569773,
@@ -395,12 +467,52 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 523154,
-      "num": 523154,
-      "word": "中国军队是敢于亮剑的",
-      "onboard_time": 1659408824,
-      "rank": 25,
-      "category": "军事,国内要闻"
+      "raw_hot": 565929,
+      "num": 565929,
+      "word": "一家三口采野蘑菇食用后住进ICU",
+      "onboard_time": 1659412188,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561542,
+      "num": 561542,
+      "word": "饿了么免单",
+      "onboard_time": 1659410865,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 494673,
+      "num": 494673,
+      "word": "广东两少女无证骑摩托挑衅交警",
+      "onboard_time": 1659409665,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489561,
+      "num": 489561,
+      "word": "iPhone14系列采用不同等级显示屏",
+      "onboard_time": 1659409366,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 484173,
+      "num": 484173,
+      "word": "月升沧海",
+      "onboard_time": 1659414290,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 481122,
+      "num": 481122,
+      "word": "以后下馆子还能点拍黄瓜吗",
+      "onboard_time": 1659401325,
+      "rank": 26,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 474247,
@@ -411,8 +523,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 462915,
+      "num": 462915,
+      "word": "交行提前还房贷要收取还款补偿金",
+      "onboard_time": 1659414290,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 453876,
-      "num": 4108431,
+      "num": 6867832,
       "word": "谢谢人民子弟兵的守护",
       "onboard_time": 1659369399,
       "rank": 2,
@@ -435,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447290,
+      "num": 447290,
+      "word": "中餐厅6宣传片",
+      "onboard_time": 1659413512,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433988,
       "num": 433988,
       "word": "南海部分海域军事训练禁止驶入",
@@ -443,12 +571,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 433361,
-      "num": 433361,
-      "word": "以后下馆子还能点拍黄瓜吗",
-      "onboard_time": 1659401325,
-      "rank": 26,
-      "category": "美食,社会新闻"
+      "raw_hot": 429398,
+      "num": 429398,
+      "word": "马斯克被父亲催吃减肥药",
+      "onboard_time": 1659412791,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 427149,
@@ -491,6 +619,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404732,
+      "num": 404732,
+      "word": "21年后他与舅舅王伟成为战友",
+      "onboard_time": 1659413512,
+      "rank": 40,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 395473,
+      "num": 395473,
+      "word": "段永平2934万港元再抄底腾讯",
+      "onboard_time": 1659410928,
+      "rank": 41,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 391929,
       "num": 391929,
       "word": "赵一曼牺牲多年儿子才读到她的绝笔",
@@ -507,6 +651,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 373505,
+      "num": 373505,
+      "word": "胆小鬼定档0808",
+      "onboard_time": 1659414650,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 362815,
+      "num": 362815,
+      "word": "唐恬作词",
+      "onboard_time": 1659411286,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359106,
       "num": 359106,
       "word": "河南县域发布",
@@ -521,6 +681,14 @@
       "onboard_time": 1659386651,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346428,
+      "num": 346428,
+      "word": "冯珊珊宣布退役",
+      "onboard_time": 1659410447,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 345338,
@@ -587,20 +755,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 309944,
+      "num": 309944,
+      "word": "美民众组织抗议佩洛西访台计划",
+      "onboard_time": 1659414650,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 305689,
       "num": 305689,
       "word": "恋爱谈多了真会麻木吗",
       "onboard_time": 1659372925,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305037,
-      "num": 305037,
-      "word": "游客在汾阳一景区坠亡",
-      "onboard_time": 1659409183,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 289864,
@@ -617,14 +785,6 @@
       "onboard_time": 1659354335,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281428,
-      "num": 281428,
-      "word": "iPhone14系列采用不同等级显示屏",
-      "onboard_time": 1659409366,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 280849,
@@ -665,6 +825,14 @@
       "onboard_time": 1659366466,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275995,
+      "num": 275995,
+      "word": "如美方一意孤行中方将采取有力措施",
+      "onboard_time": 1659414594,
+      "rank": 49,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 268247,
