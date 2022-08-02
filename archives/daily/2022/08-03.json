@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659467827516,
+  "endTime": 1659468809009,
   "band_list": [
     {
       "raw_hot": 21338185,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 65606,
+      "num": 65606,
+      "word": "洒水车无视路人高压水管直接喷",
+      "onboard_time": 1659466219,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58374,
       "num": 58374,
       "word": "桃园机场收到爆裂物恐吓信",
@@ -475,20 +483,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 40271,
-      "num": 40271,
-      "word": "洒水车无视路人高压水管直接喷",
-      "onboard_time": 1659466219,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32598,
       "num": 32598,
       "word": "收到喜欢的礼物是一种什么体验",
       "onboard_time": 1659463225,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25284,
+      "num": 25284,
+      "word": "女子疑因超时发语音辱骂外卖员",
+      "onboard_time": 1659468376,
+      "rank": 41,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
