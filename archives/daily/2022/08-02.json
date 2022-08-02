@@ -1,6 +1,6 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659414886854,
+  "endTime": 1659415831802,
   "band_list": [
     {
       "raw_hot": 15684908,
@@ -11,8 +11,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 15151066,
-      "num": 15151066,
+      "raw_hot": 15407406,
+      "num": 15407406,
       "word": "佩洛西专机抵达马来西亚",
       "onboard_time": 1659410447,
       "rank": 0,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092728,
+      "num": 1092728,
+      "word": "美民众组织抗议佩洛西访台计划",
+      "onboard_time": 1659414650,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1024927,
       "num": 1024927,
       "word": "A股",
@@ -307,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 832232,
-      "num": 832232,
+      "raw_hot": 862242,
+      "num": 862242,
       "word": "阿娇阿Sa顺利成团",
       "onboard_time": 1659410985,
       "rank": 13,
@@ -328,6 +336,14 @@
       "word": "男子带猫做绝育后猫怀孕了",
       "onboard_time": 1659368203,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824739,
+      "num": 824739,
+      "word": "上海一小区发生爆炸",
+      "onboard_time": 1659415133,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1659399037,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 781693,
+      "num": 781693,
+      "word": "交行提前还房贷要收取还款补偿金",
+      "onboard_time": 1659414290,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 773035,
@@ -483,6 +507,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 513392,
+      "num": 513392,
+      "word": "月升沧海",
+      "onboard_time": 1659414290,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 501826,
+      "num": 501826,
+      "word": "马斯克被父亲催吃减肥药",
+      "onboard_time": 1659412791,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 494673,
       "num": 494673,
       "word": "广东两少女无证骑摩托挑衅交警",
@@ -497,14 +537,6 @@
       "onboard_time": 1659409366,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 484173,
-      "num": 484173,
-      "word": "月升沧海",
-      "onboard_time": 1659414290,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 481122,
@@ -523,20 +555,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 462915,
-      "num": 462915,
-      "word": "交行提前还房贷要收取还款补偿金",
-      "onboard_time": 1659414290,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 453876,
       "num": 6867832,
       "word": "谢谢人民子弟兵的守护",
       "onboard_time": 1659369399,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453743,
+      "num": 453743,
+      "word": "21年后他与舅舅王伟成为战友",
+      "onboard_time": 1659413512,
+      "rank": 40,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 449324,
@@ -569,14 +601,6 @@
       "onboard_time": 1659356674,
       "rank": 20,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 429398,
-      "num": 429398,
-      "word": "马斯克被父亲催吃减肥药",
-      "onboard_time": 1659412791,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 427149,
@@ -619,12 +643,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 404732,
-      "num": 404732,
-      "word": "21年后他与舅舅王伟成为战友",
-      "onboard_time": 1659413512,
-      "rank": 40,
-      "category": "军事,社会新闻"
+      "raw_hot": 397346,
+      "num": 397346,
+      "word": "如美方一意孤行中方将采取有力措施",
+      "onboard_time": 1659414594,
+      "rank": 49,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 395473,
@@ -755,20 +779,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 309944,
-      "num": 309944,
-      "word": "美民众组织抗议佩洛西访台计划",
-      "onboard_time": 1659414650,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 305689,
       "num": 305689,
       "word": "恋爱谈多了真会麻木吗",
       "onboard_time": 1659372925,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292839,
+      "num": 292839,
+      "word": "送别小天使蕊蕊",
+      "onboard_time": 1659415248,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289864,
@@ -825,14 +849,6 @@
       "onboard_time": 1659366466,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275995,
-      "num": 275995,
-      "word": "如美方一意孤行中方将采取有力措施",
-      "onboard_time": 1659414594,
-      "rank": 49,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 268247,
