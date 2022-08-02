@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659465820570,
+  "endTime": 1659467827516,
   "band_list": [
     {
       "raw_hot": 21338185,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146291,
+      "num": 146291,
+      "word": "儿子成绩不好妈妈网购3888元灵宝",
+      "onboard_time": 1659462866,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136149,
       "num": 136149,
       "word": "桃园机场一天收到三封恐吓信",
@@ -401,14 +409,6 @@
       "onboard_time": 1659457060,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126758,
-      "num": 126758,
-      "word": "儿子成绩不好妈妈网购3888元灵宝",
-      "onboard_time": 1659462866,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123271,
@@ -473,6 +473,14 @@
       "onboard_time": 1659418367,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 40271,
+      "num": 40271,
+      "word": "洒水车无视路人高压水管直接喷",
+      "onboard_time": 1659466219,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32598,

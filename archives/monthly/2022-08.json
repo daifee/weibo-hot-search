@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659465820570,
+  "endTime": 1659467827516,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -4691,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146291,
+      "num": 146291,
+      "word": "儿子成绩不好妈妈网购3888元灵宝",
+      "onboard_time": 1659462866,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142422,
       "num": 142422,
       "word": "章子怡周冬雨亮相first影展",
@@ -4737,14 +4745,6 @@
       "onboard_time": 1659450390,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126758,
-      "num": 126758,
-      "word": "儿子成绩不好妈妈网购3888元灵宝",
-      "onboard_time": 1659462866,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126164,
@@ -5017,6 +5017,14 @@
       "onboard_time": 1659451411,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40271,
+      "num": 40271,
+      "word": "洒水车无视路人高压水管直接喷",
+      "onboard_time": 1659466219,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39003,
