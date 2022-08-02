@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659464815094,
+  "endTime": 1659465820570,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3383304,
+      "num": 3383304,
+      "word": "东部战区已开始一系列联合军事行动",
+      "onboard_time": 1659461254,
+      "rank": 47,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 3329724,
       "num": 3329724,
       "word": "佩洛西丈夫酒驾将被传讯",
@@ -497,14 +505,6 @@
       "onboard_time": 1659359495,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2715138,
-      "num": 2715138,
-      "word": "东部战区已开始一系列联合军事行动",
-      "onboard_time": 1659461254,
-      "rank": 47,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 2635519,
@@ -4027,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259383,
+      "num": 259383,
+      "word": "B站回应HR称用户是Loser",
+      "onboard_time": 1659453653,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 259263,
       "num": 199606,
       "word": "乘风破浪总决赛应援海报",
@@ -4169,14 +4177,6 @@
       "onboard_time": 1659425683,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235826,
-      "num": 235826,
-      "word": "B站回应HR称用户是Loser",
-      "onboard_time": 1659453653,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 235058,
@@ -4739,12 +4739,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126758,
+      "num": 126758,
+      "word": "儿子成绩不好妈妈网购3888元灵宝",
+      "onboard_time": 1659462866,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126164,
       "num": 126164,
       "word": "如果我没上过大学",
       "onboard_time": 1659259949,
       "rank": 44,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 123271,
+      "num": 123271,
+      "word": "马伯骞桑延丁笑滢温以凡",
+      "onboard_time": 1659465499,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 116411,
@@ -4883,14 +4899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75917,
-      "num": 75917,
-      "word": "儿子成绩不好妈妈网购3888元灵宝",
-      "onboard_time": 1659462866,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73388,
       "num": 73388,
       "word": "原神宵宫复刻",
@@ -5019,8 +5027,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30710,
-      "num": 30710,
+      "raw_hot": 32598,
+      "num": 32598,
       "word": "收到喜欢的礼物是一种什么体验",
       "onboard_time": 1659463225,
       "rank": 47,

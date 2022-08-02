@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659464815094,
+  "endTime": 1659465820570,
   "band_list": [
     {
       "raw_hot": 21338185,
@@ -59,20 +59,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 3383304,
+      "num": 3383304,
+      "word": "东部战区已开始一系列联合军事行动",
+      "onboard_time": 1659461254,
+      "rank": 47,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 2931935,
       "num": 2446279,
       "word": "解放军空军苏-35战机穿越台湾海峡",
       "onboard_time": 1659450451,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 2715138,
-      "num": 2715138,
-      "word": "东部战区已开始一系列联合军事行动",
-      "onboard_time": 1659461254,
-      "rank": 47,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 2622651,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259383,
+      "num": 259383,
+      "word": "B站回应HR称用户是Loser",
+      "onboard_time": 1659453653,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 256931,
       "num": 256931,
       "word": "多架美军用侦察机在台湾岛周边活动",
@@ -289,14 +297,6 @@
       "onboard_time": 1659438001,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235826,
-      "num": 235826,
-      "word": "B站回应HR称用户是Loser",
-      "onboard_time": 1659453653,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 233188,
@@ -403,6 +403,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126758,
+      "num": 126758,
+      "word": "儿子成绩不好妈妈网购3888元灵宝",
+      "onboard_time": 1659462866,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123271,
+      "num": 123271,
+      "word": "马伯骞桑延丁笑滢温以凡",
+      "onboard_time": 1659465499,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116983,
       "num": 116983,
       "word": "佩洛西访问台湾是危险的挑衅行为",
@@ -443,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 75917,
-      "num": 75917,
-      "word": "儿子成绩不好妈妈网购3888元灵宝",
-      "onboard_time": 1659462866,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73388,
       "num": 73388,
       "word": "原神宵宫复刻",
@@ -467,8 +475,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 30710,
-      "num": 30710,
+      "raw_hot": 32598,
+      "num": 32598,
       "word": "收到喜欢的礼物是一种什么体验",
       "onboard_time": 1659463225,
       "rank": 47,
