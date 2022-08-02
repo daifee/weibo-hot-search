@@ -1,14 +1,22 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659437047984,
+  "endTime": 1659439091775,
   "band_list": [
     {
-      "raw_hot": 20420134,
-      "num": 20420134,
+      "raw_hot": 21751086,
+      "num": 21751086,
       "word": "佩洛西此前所乘专机起飞",
       "onboard_time": 1659428569,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 18736029,
+      "num": 19986029,
+      "word": "警方通报唐山一男子驾车撞倒碾压女友",
+      "onboard_time": 1659432653,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15888865,
@@ -67,20 +75,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 8252686,
+      "num": 4796384,
+      "word": "外媒称厦门有人目击到大量装甲车",
+      "onboard_time": 1659436918,
+      "rank": 43,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 7158216,
       "num": 6408345,
       "word": "周渝民夫妻遭诈骗775万",
       "onboard_time": 1659327992,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7061858,
-      "num": 6775120,
-      "word": "警方通报唐山一男子驾车撞倒碾压女友",
-      "onboard_time": 1659432653,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6491539,
@@ -129,6 +137,14 @@
       "onboard_time": 1659358717,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4542600,
+      "num": 4542600,
+      "word": "台媒曝光佩洛西窜台行程",
+      "onboard_time": 1659436013,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 4528877,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3243605,
+      "num": 3243605,
+      "word": "马天宇吐槽携程旅行吃相太难看",
+      "onboard_time": 1659436194,
+      "rank": 7,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 3097728,
       "num": 3097728,
       "word": "福建地区航班最新情况",
@@ -337,14 +361,6 @@
       "onboard_time": 1659415133,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2627887,
-      "num": 2627887,
-      "word": "马天宇吐槽携程旅行吃相太难看",
-      "onboard_time": 1659436194,
-      "rank": 7,
-      "category": "艺人,科技"
     },
     {
       "raw_hot": 2610866,
@@ -467,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2125307,
+      "num": 2125307,
+      "word": "VaVa",
+      "onboard_time": 1659436254,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2099991,
       "num": 945995,
       "word": "金佳蓝遭校园暴力",
       "onboard_time": 1659335368,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2083199,
-      "num": 1781727,
-      "word": "台媒曝光佩洛西窜台行程",
-      "onboard_time": 1659436013,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2074267,
@@ -593,6 +609,14 @@
       "onboard_time": 1659331712,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1771792,
+      "num": 1771792,
+      "word": "青岛被卷入海失联男孩18岁",
+      "onboard_time": 1659436735,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1757998,
@@ -723,14 +747,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 1525967,
-      "num": 1525967,
-      "word": "VaVa",
-      "onboard_time": 1659436254,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1522167,
       "num": 1522167,
       "word": "外交部再强调佩洛西赴台严重后果",
@@ -769,6 +785,14 @@
       "onboard_time": 1659361723,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1390210,
+      "num": 1390210,
+      "word": "外交部回应佩洛西或今晚抵达台湾",
+      "onboard_time": 1659437280,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1381041,
@@ -907,6 +931,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 1131677,
+      "num": 1131677,
+      "word": "中方密切关注佩洛西行程",
+      "onboard_time": 1659435835,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1123847,
       "num": 1123847,
       "word": "蔚来或推出10万元以下汽车",
@@ -971,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1053498,
+      "num": 1053498,
+      "word": "军人爸爸归队儿子哭成泪人",
+      "onboard_time": 1659437040,
+      "rank": 49,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 1039689,
       "num": 1039689,
       "word": "karsa",
@@ -985,14 +1025,6 @@
       "onboard_time": 1659345091,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1025494,
-      "num": 1025494,
-      "word": "中方密切关注佩洛西行程",
-      "onboard_time": 1659435835,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1024927,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1659366106,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 894170,
+      "num": 894170,
+      "word": "迪迦奥特曼饰演者确诊新冠",
+      "onboard_time": 1659438001,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 886577,
@@ -1611,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 610769,
+      "num": 610769,
+      "word": "王者音你新皮肤",
+      "onboard_time": 1659436437,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 607151,
       "num": 607151,
       "word": "胆小鬼道歉式官宣",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1659416867,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 585646,
-      "num": 585646,
-      "word": "王者音你新皮肤",
-      "onboard_time": 1659436437,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 585512,
@@ -1731,6 +1771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 566589,
+      "num": 566589,
+      "word": "狗狗走丢2年后出现在家门口",
+      "onboard_time": 1659437820,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565929,
       "num": 565929,
       "word": "一家三口采野蘑菇食用后住进ICU",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1659410865,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 561485,
+      "num": 561485,
+      "word": "胆小鬼",
+      "onboard_time": 1659438188,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 559967,
@@ -1827,12 +1883,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 526061,
+      "num": 526061,
+      "word": "凌不疑程少商为太子吵架",
+      "onboard_time": 1659439031,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525176,
       "num": 488980,
       "word": "冠军对冠军官宣阵容",
       "onboard_time": 1659326909,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524315,
+      "num": 524315,
+      "word": "周杰伦考虑拍艺术电影",
+      "onboard_time": 1659438363,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 521507,
@@ -2089,6 +2161,14 @@
       "onboard_time": 1659436073,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463938,
+      "num": 463938,
+      "word": "桃园机场一天收到三封恐吓信",
+      "onboard_time": 1659438188,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 463498,
@@ -2779,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356863,
+      "num": 356863,
+      "word": "时代少年团新歌MV演技",
+      "onboard_time": 1659437338,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356128,
       "num": 356128,
       "word": "11岁男孩从早到晚帮爸爸看三个摊",
@@ -2977,6 +3065,14 @@
       "onboard_time": 1659336449,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326114,
+      "num": 326114,
+      "word": "邓紫棋废土战损美学",
+      "onboard_time": 1659437938,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 325815,
@@ -3219,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294867,
+      "num": 320616,
+      "word": "黄河与渤海交汇处像极了鸳鸯锅",
+      "onboard_time": 1659438847,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 293734,
       "num": 293734,
       "word": "如何评价比尔拉塞尔历史地位",
@@ -3363,14 +3467,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 272523,
-      "num": 272523,
-      "word": "青岛被卷入海失联男孩18岁",
-      "onboard_time": 1659436735,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272513,
       "num": 272513,
       "word": "人民军队初心如炬征途如虹",
@@ -3385,14 +3481,6 @@
       "onboard_time": 1659343532,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267478,
-      "num": 267478,
-      "word": "外媒称厦门有人目击到大量装甲车",
-      "onboard_time": 1659436918,
-      "rank": 43,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 266808,
@@ -3497,6 +3585,14 @@
       "onboard_time": 1659332432,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255679,
+      "num": 255679,
+      "word": "男子被大浪卷入海路人挽手救援",
+      "onboard_time": 1659438541,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 255665,
@@ -3963,14 +4059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180333,
-      "num": 196814,
-      "word": "军人爸爸归队儿子哭成泪人",
-      "onboard_time": 1659437040,
-      "rank": 49,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 177177,
       "num": 177177,
       "word": "8月第一天",
@@ -4289,6 +4377,14 @@
       "onboard_time": 1659337229,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43798,
+      "num": 1210346,
+      "word": "原神 宵宫复刻",
+      "onboard_time": 1659438001,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 28848,
