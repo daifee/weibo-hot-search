@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659461302598,
+  "endTime": 1659462273764,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1659282692,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 928820,
+      "num": 928820,
+      "word": "东部战区已开始一系列联合军事行动",
+      "onboard_time": 1659461254,
+      "rank": 47,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 914434,
@@ -4483,14 +4491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196541,
-      "num": 77452,
-      "word": "东部战区已开始一系列联合军事行动",
-      "onboard_time": 1659461254,
-      "rank": 47,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "成毅应渊变装成功",
@@ -4651,6 +4651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160790,
+      "num": 160790,
+      "word": "B站回应HR称用户是Loser",
+      "onboard_time": 1659453653,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "全国一共有156173个王刚",
@@ -4737,14 +4745,6 @@
       "onboard_time": 1659259949,
       "rank": 44,
       "category": "社会议题,教育"
-    },
-    {
-      "raw_hot": 118551,
-      "num": 118551,
-      "word": "B站回应HR称用户是Loser",
-      "onboard_time": 1659453653,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 116411,
@@ -4859,6 +4859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81791,
+      "num": 81791,
+      "word": "林妙妙教钱三一谈恋爱",
+      "onboard_time": 1659458020,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81266,
       "num": 741530,
       "word": "今年是杜富国从军第12年",
@@ -4873,14 +4881,6 @@
       "onboard_time": 1659310464,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77155,
-      "num": 77155,
-      "word": "林妙妙教钱三一谈恋爱",
-      "onboard_time": 1659458020,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 73388,
