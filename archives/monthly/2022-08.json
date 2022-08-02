@@ -1,10 +1,10 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659447786204,
+  "endTime": 1659448477827,
   "band_list": [
     {
-      "raw_hot": 39150996,
-      "num": 40334822,
+      "raw_hot": 39683636,
+      "num": 40397558,
       "word": "台媒称警方证实佩洛西班机22时降落",
       "onboard_time": 1659442812,
       "rank": 4,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 8808139,
-      "num": 6204376,
+      "num": 6281857,
       "word": "日媒称8架美战机从嘉手纳基地起飞",
       "onboard_time": 1659445112,
       "rank": 18,
@@ -123,8 +123,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5525676,
-      "num": 5525676,
+      "raw_hot": 6228342,
+      "num": 6228342,
+      "word": "台海局势紧张升级美方须负全责",
+      "onboard_time": 1659429529,
+      "rank": 17,
+      "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 6086045,
+      "num": 6086045,
+      "word": "台媒预计佩洛西明日17时离台",
+      "onboard_time": 1659442812,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 6051926,
+      "num": 6051926,
       "word": "外交部回应佩洛西或今晚抵达台湾",
       "onboard_time": 1659437280,
       "rank": 13,
@@ -137,14 +153,6 @@
       "onboard_time": 1659368382,
       "rank": 23,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 5099540,
-      "num": 5099540,
-      "word": "台海局势紧张升级美方须负全责",
-      "onboard_time": 1659429529,
-      "rank": 17,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 4920001,
@@ -225,14 +233,6 @@
       "onboard_time": 1659340170,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3734939,
-      "num": 3734939,
-      "word": "台媒预计佩洛西明日17时离台",
-      "onboard_time": 1659442812,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 3690939,
@@ -449,6 +449,14 @@
       "onboard_time": 1659355594,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2482611,
+      "num": 2482611,
+      "word": "干涉中国主权问题14亿人不答应",
+      "onboard_time": 1659442209,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2478299,
@@ -707,6 +715,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1742943,
+      "num": 1742943,
+      "word": "佩洛西专机信息显示目的地台北",
+      "onboard_time": 1659447813,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1720260,
       "num": 1720260,
       "word": "电影沙海官宣",
@@ -827,19 +843,19 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1548236,
+      "num": 6937901,
+      "word": "4K实拍随运20翱翔天空",
+      "onboard_time": 1659432715,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1522167,
       "num": 1522167,
       "word": "外交部再强调佩洛西赴台严重后果",
       "onboard_time": 1659342331,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1520686,
-      "num": 6937901,
-      "word": "4K实拍随运20翱翔天空",
-      "onboard_time": 1659432715,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -987,14 +1003,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1216135,
-      "num": 1216135,
-      "word": "干涉中国主权问题14亿人不答应",
-      "onboard_time": 1659442209,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1192494,
       "num": 1192494,
       "word": "39岁女主播从身价上亿到一贫如洗",
@@ -1120,6 +1128,14 @@
       "word": "独行月球片尾11个字是沈腾写的",
       "onboard_time": 1659336390,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1056234,
+      "num": 1056234,
+      "word": "将进酒",
+      "onboard_time": 1659446999,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1843,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 597064,
+      "num": 597064,
+      "word": "中国网直播",
+      "onboard_time": 1659448052,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587336,
       "num": 507044,
       "word": "NBA或因杜兰特停摆",
@@ -2155,6 +2179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 495375,
+      "num": 495375,
+      "word": "凌不疑挨板子了",
+      "onboard_time": 1659447869,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494673,
       "num": 494673,
       "word": "广东两少女无证骑摩托挑衅交警",
@@ -2243,12 +2275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 484720,
-      "num": 484720,
-      "word": "将进酒",
-      "onboard_time": 1659446999,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 484172,
+      "num": 283194,
+      "word": "肖战直播VCR",
+      "onboard_time": 1659448415,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 481122,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1659320187,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474848,
+      "num": 474848,
+      "word": "程少商宣皇后母女既视感",
+      "onboard_time": 1659444024,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 472100,
@@ -2473,14 +2513,6 @@
       "onboard_time": 1659319405,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441451,
-      "num": 441451,
-      "word": "程少商宣皇后母女既视感",
-      "onboard_time": 1659444024,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 439350,
@@ -2697,6 +2729,14 @@
       "onboard_time": 1659276990,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408654,
+      "num": 408654,
+      "word": "头一次这么想上班",
+      "onboard_time": 1659446326,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 406907,
@@ -3275,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326684,
+      "num": 276224,
+      "word": "现在的西红柿怎么了",
+      "onboard_time": 1659448415,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 326149,
       "num": 326149,
       "word": "厦门市新增本土确诊病例1例",
@@ -3387,14 +3435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 311679,
-      "num": 311679,
-      "word": "头一次这么想上班",
-      "onboard_time": 1659446326,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 311127,
       "num": 291497,
       "word": "腾讯音乐由你榜冠军",
@@ -3449,6 +3489,14 @@
       "onboard_time": 1659292812,
       "rank": 3,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 305135,
+      "num": 305135,
+      "word": "BLG对战V5",
+      "onboard_time": 1659447616,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 303930,
@@ -3889,14 +3937,6 @@
       "onboard_time": 1659277951,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246181,
-      "num": 246181,
-      "word": "BLG对战V5",
-      "onboard_time": 1659447616,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 243811,
