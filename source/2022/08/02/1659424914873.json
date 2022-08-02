@@ -1,0 +1,410 @@
+{
+  "runTime": 1659424914873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11990224,
+        "num": 11990224,
+        "word": "桃园机场收到爆裂物恐吓信",
+        "onboard_time": 1659418367,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8330622,
+        "num": 8330622,
+        "word": "佩洛西访问台湾是危险的挑衅行为",
+        "onboard_time": 1659411947,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1056503,
+        "num": 6223062,
+        "word": "中方在联合国表态决不允许越线行为",
+        "onboard_time": 1659417405,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4844231,
+        "num": 4844231,
+        "word": "台媒称解放军军机今早两入台西南空域",
+        "onboard_time": 1659421781,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2422093,
+        "num": 2422093,
+        "word": "佩洛西丈夫酒驾将被传讯",
+        "onboard_time": 1659420043,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2066242,
+        "num": 2066242,
+        "word": "福原爱带孩子和新男友同住",
+        "onboard_time": 1659421001,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2062471,
+        "num": 2062471,
+        "word": "马媒公布佩洛西抵达后部分行程",
+        "onboard_time": 1659421964,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2011951,
+        "num": 2011951,
+        "word": "六公主",
+        "onboard_time": 1659422204,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1459406,
+        "num": 1459406,
+        "word": "马伯骞进组偷偷藏不住",
+        "onboard_time": 1659416210,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1398742,
+        "num": 1398742,
+        "word": "布林肯竟呼吁中方不要加剧紧张",
+        "onboard_time": 1659422624,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1063062,
+        "num": 1063062,
+        "word": "迪奥 花鸟图",
+        "onboard_time": 1659423165,
+        "rank": 10,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 1025127,
+        "num": 1025127,
+        "word": "另一架美政府包机抵达马来西亚",
+        "onboard_time": 1659416330,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 972274,
+        "num": 972274,
+        "word": "杨幂狐妖小红娘红衣造型",
+        "onboard_time": 1659423046,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860915,
+        "num": 860915,
+        "word": "高考超一本线42分因心脏病被拒录",
+        "onboard_time": 1659421540,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 844250,
+        "num": 844250,
+        "word": "林妙妙钱三一微博换情侣头像",
+        "onboard_time": 1659422324,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 807857,
+        "num": 807857,
+        "word": "上海一小区发生爆炸",
+        "onboard_time": 1659415133,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689827,
+        "num": 689827,
+        "word": "官方回应高考551分因心脏病无学可上",
+        "onboard_time": 1659422802,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 619182,
+        "num": 619182,
+        "word": "39岁女主播从身价上亿到一贫如洗",
+        "onboard_time": 1659416572,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602746,
+        "num": 602746,
+        "word": "网传鹿晗是浪姐成团见证人",
+        "onboard_time": 1659418185,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569789,
+        "num": 569789,
+        "word": "推特网友嘲讽布林肯就佩洛西访台表态",
+        "onboard_time": 1659399219,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 547097,
+        "num": 547097,
+        "word": "这西瓜差点就忘了长皮",
+        "onboard_time": 1659418126,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490014,
+        "num": 490014,
+        "word": "厦门航空对部分航班调整",
+        "onboard_time": 1659408400,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455661,
+        "num": 455661,
+        "word": "福建省军区在闽南组织防空实弹射击",
+        "onboard_time": 1659404076,
+        "rank": 22,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 415058,
+        "num": 415058,
+        "word": "王心凌 总冠军",
+        "onboard_time": 1659398373,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411142,
+        "num": 411142,
+        "word": "海南舰装卸野马气垫艇场面震撼",
+        "onboard_time": 1659417346,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 386244,
+        "num": 386244,
+        "word": "美民众组织抗议佩洛西访台计划",
+        "onboard_time": 1659414650,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 370484,
+        "num": 370484,
+        "word": "白宫重申不支持台独",
+        "onboard_time": 1659406420,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 363852,
+        "num": 363852,
+        "word": "俩卖水果小贩斗气往河里扔榴莲",
+        "onboard_time": 1659423826,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363754,
+        "num": 363754,
+        "word": "1个动作远离驼背",
+        "onboard_time": 1659423586,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357220,
+        "num": 357220,
+        "word": "难听",
+        "onboard_time": 1659408883,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329899,
+        "num": 329899,
+        "word": "海贼王1056话",
+        "onboard_time": 1659420222,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 316726,
+        "num": 316726,
+        "word": "掌中之物漫剧播放破9000万",
+        "onboard_time": 1659424187,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 316263,
+        "num": 316263,
+        "word": "七成95后00后有七夕送礼拖延症",
+        "onboard_time": 1659419143,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 305594,
+        "num": 305594,
+        "word": "董思成说姐弟恋年龄差不是问题",
+        "onboard_time": 1659424006,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301939,
+        "num": 301939,
+        "word": "山东健康码又有新变化了",
+        "onboard_time": 1659422142,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 295562,
+        "num": 295562,
+        "word": "上海燃气爆炸房屋为群租房",
+        "onboard_time": 1659420464,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292423,
+        "num": 292423,
+        "word": "30岁才找到真爱是啥体验",
+        "onboard_time": 1659416867,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275704,
+        "num": 275704,
+        "word": "7月应渊8月唐周",
+        "onboard_time": 1659424606,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273708,
+        "num": 273708,
+        "word": "山东舰",
+        "onboard_time": 1659401744,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 266807,
+        "num": 266807,
+        "word": "米哈游诉三七互娱抄袭原神获赔",
+        "onboard_time": 1659422685,
+        "rank": 39,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 1496871,
+        "num": 261943,
+        "word": "佩洛西行程",
+        "onboard_time": 1659416088,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256721,
+        "num": 256721,
+        "word": "首款国产抗新冠口服药正式投产",
+        "onboard_time": 1659420582,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256009,
+        "num": 256009,
+        "word": "男朋友眼中的浪漫原来是这样",
+        "onboard_time": 1659424424,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244214,
+        "num": 244214,
+        "word": "男子3次跃入水库竭力救溺水儿童",
+        "onboard_time": 1659418783,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 235986,
+        "num": 235986,
+        "word": "宁德时代副董事长黄世霖辞职",
+        "onboard_time": 1659424784,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 225345,
+        "num": 225345,
+        "word": "如美方一意孤行中方将采取有力措施",
+        "onboard_time": 1659414594,
+        "rank": 45,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 225292,
+        "num": 225292,
+        "word": "这猫也太热心肠了",
+        "onboard_time": 1659424725,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225016,
+        "num": 225016,
+        "word": "阿娇阿Sa顺利成团",
+        "onboard_time": 1659410985,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209159,
+        "num": 209159,
+        "word": "殷桃把中餐厅拍成MV",
+        "onboard_time": 1659421242,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204663,
+        "num": 204663,
+        "word": "孟子义嘴笨原来是遗传妈妈",
+        "onboard_time": 1659418845,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#两弹一星组歌江山民心#"
+    }
+  }
+}
