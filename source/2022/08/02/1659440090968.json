@@ -1,0 +1,410 @@
+{
+  "runTime": 1659440090968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 23223273,
+        "num": 23223273,
+        "word": "佩洛西此前所乘专机起飞",
+        "onboard_time": 1659428569,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 20022592,
+        "num": 21272592,
+        "word": "警方通报唐山一男子驾车撞倒碾压女友",
+        "onboard_time": 1659432653,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349016,
+        "num": 6617381,
+        "word": "4K实拍随运20翱翔天空",
+        "onboard_time": 1659432715,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8338587,
+        "num": 6068675,
+        "word": "外媒称厦门有人目击到大量装甲车",
+        "onboard_time": 1659436918,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 5339175,
+        "num": 5339175,
+        "word": "台媒曝光佩洛西窜台行程",
+        "onboard_time": 1659436013,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 3427698,
+        "num": 3427698,
+        "word": "韩国一客机途经台湾空域时紧急迫降",
+        "onboard_time": 1659434870,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3145793,
+        "num": 3145793,
+        "word": "马天宇吐槽携程旅行吃相太难看",
+        "onboard_time": 1659436194,
+        "rank": 6,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 2697924,
+        "num": 2697924,
+        "word": "台媒称山东舰和辽宁舰驶出基地",
+        "onboard_time": 1659431935,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2312272,
+        "num": 2312272,
+        "word": "外交部回应佩洛西或今晚抵达台湾",
+        "onboard_time": 1659437280,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2082380,
+        "num": 2082380,
+        "word": "台媒称佩洛西预计今晚抵达台湾",
+        "onboard_time": 1659433677,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2003948,
+        "num": 2003948,
+        "word": "VaVa",
+        "onboard_time": 1659436254,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1915672,
+        "num": 1915672,
+        "word": "桃园机场收到爆裂物恐吓信",
+        "onboard_time": 1659418367,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1820055,
+        "num": 1820055,
+        "word": "青岛被卷入海失联男孩18岁",
+        "onboard_time": 1659436735,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1296557,
+        "num": 1296557,
+        "word": "网传B站HR称核心用户都是Loser",
+        "onboard_time": 1659434452,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 14110,
+        "num": 1260960,
+        "word": "原神 宵宫复刻",
+        "onboard_time": 1659438001,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1246020,
+        "num": 1246020,
+        "word": "军人爸爸归队儿子哭成泪人",
+        "onboard_time": 1659437040,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1130717,
+        "num": 1130717,
+        "word": "凌不疑程少商为太子吵架",
+        "onboard_time": 1659439031,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1062055,
+        "num": 1062055,
+        "word": "迪迦奥特曼饰演者确诊新冠",
+        "onboard_time": 1659438001,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058739,
+        "num": 1058739,
+        "word": "台海局势紧张升级美方须负全责",
+        "onboard_time": 1659429529,
+        "rank": 18,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 1032650,
+        "num": 1032650,
+        "word": "中方密切关注佩洛西行程",
+        "onboard_time": 1659435835,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 829086,
+        "num": 829086,
+        "word": "欧豪22岁和30岁演高中生对比",
+        "onboard_time": 1659433379,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 806218,
+        "num": 806218,
+        "word": "桃园机场一天收到三封恐吓信",
+        "onboard_time": 1659438188,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 801155,
+        "num": 801155,
+        "word": "狗狗走丢2年后出现在家门口",
+        "onboard_time": 1659437820,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800320,
+        "num": 800320,
+        "word": "多架美军用侦察机在台湾岛周边活动",
+        "onboard_time": 1659425322,
+        "rank": 23,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 754933,
+        "num": 754933,
+        "word": "六公主",
+        "onboard_time": 1659422204,
+        "rank": 24,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 705751,
+        "num": 705751,
+        "word": "周杰伦考虑拍艺术电影",
+        "onboard_time": 1659438363,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600094,
+        "num": 600094,
+        "word": "中国网友送佩洛西一首歌",
+        "onboard_time": 1659433315,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570849,
+        "num": 570849,
+        "word": "东部战区4艘登陆舰实战化训练",
+        "onboard_time": 1659426644,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 551991,
+        "num": 551991,
+        "word": "王者音你新皮肤",
+        "onboard_time": 1659436437,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 539339,
+        "num": 539339,
+        "word": "胆小鬼",
+        "onboard_time": 1659438188,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538814,
+        "num": 538814,
+        "word": "黄河与渤海交汇处像极了鸳鸯锅",
+        "onboard_time": 1659438847,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 526520,
+        "num": 526520,
+        "word": "中方谈佩洛西访台反制措施",
+        "onboard_time": 1659431036,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 423727,
+        "num": 423727,
+        "word": "王一博完美化解舞台危机",
+        "onboard_time": 1659436735,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408385,
+        "num": 408385,
+        "word": "黄磊单方面拒绝刘奕君加入这个家",
+        "onboard_time": 1659433315,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366177,
+        "num": 366177,
+        "word": "美台勾连挑衅在先中方正当防卫在后",
+        "onboard_time": 1659429890,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 360950,
+        "num": 360950,
+        "word": "佩洛西访问台湾是危险的挑衅行为",
+        "onboard_time": 1659411947,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 336341,
+        "num": 336341,
+        "word": "马伯骞进组偷偷藏不住",
+        "onboard_time": 1659416210,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319153,
+        "num": 319153,
+        "word": "颜淡误亲唐周",
+        "onboard_time": 1659439747,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312213,
+        "num": 312213,
+        "word": "与14亿中国人民为敌不会有好下场",
+        "onboard_time": 1659439992,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 311832,
+        "num": 311832,
+        "word": "迪奥 花鸟图",
+        "onboard_time": 1659423165,
+        "rank": 39,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 292584,
+        "num": 292584,
+        "word": "交行删除提前还款收取补偿金公告",
+        "onboard_time": 1659439567,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 292324,
+        "num": 292324,
+        "word": "在蔡徐坤的歌声里感受岁月静好",
+        "onboard_time": 1659439264,
+        "rank": 41,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 266889,
+        "num": 266889,
+        "word": "福原爱带孩子和新男友同住",
+        "onboard_time": 1659421001,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 226020,
+        "num": 226020,
+        "word": "布林肯呼吁中方不要加剧紧张是强盗逻辑",
+        "onboard_time": 1659422624,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 224565,
+        "num": 224565,
+        "word": "郭艾伦回应申请转会",
+        "onboard_time": 1659434094,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 224534,
+        "num": 224534,
+        "word": "消防员重度烧伤无法刷脸过闸机",
+        "onboard_time": 1659425864,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224282,
+        "num": 224282,
+        "word": "杨丽萍侄女重现36年前经典",
+        "onboard_time": 1659431452,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217877,
+        "num": 217877,
+        "word": "佩洛西丈夫酒驾将被传讯",
+        "onboard_time": 1659420043,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212010,
+        "num": 212010,
+        "word": "理想one高速起火烧成光架",
+        "onboard_time": 1659434516,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 210118,
+        "num": 210118,
+        "word": "一人一句恋爱忠告",
+        "onboard_time": 1659439927,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}
