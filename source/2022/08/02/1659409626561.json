@@ -1,0 +1,410 @@
+{
+  "runTime": 1659409626561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15684908,
+        "num": 15684908,
+        "word": "推特网友嘲讽布林肯就佩洛西访台表态",
+        "onboard_time": 1659399219,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 4920001,
+        "num": 4920001,
+        "word": "白宫重申不支持台独",
+        "onboard_time": 1659406420,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 352295,
+        "num": 3970930,
+        "word": "谢谢人民子弟兵的守护",
+        "onboard_time": 1659369399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3884965,
+        "num": 3884965,
+        "word": "台军急派8战机进驻台东",
+        "onboard_time": 1659408160,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 3071086,
+        "num": 3071086,
+        "word": "厦门航空对部分航班调整",
+        "onboard_time": 1659408400,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2739827,
+        "num": 2739827,
+        "word": "福建省军区在闽南组织防空实弹射击",
+        "onboard_time": 1659404076,
+        "rank": 5,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 2729389,
+        "num": 2729389,
+        "word": "台当局曾撤回对佩洛西邀请",
+        "onboard_time": 1659403480,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2439640,
+        "num": 2439640,
+        "word": "王心凌 总冠军",
+        "onboard_time": 1659398373,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2190711,
+        "num": 2190711,
+        "word": "普京称核战争中不会有赢家",
+        "onboard_time": 1659404620,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1288287,
+        "num": 1288287,
+        "word": "海事局发布航行警告",
+        "onboard_time": 1659401680,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1346651,
+        "num": 1264333,
+        "word": "难听",
+        "onboard_time": 1659408883,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1139945,
+        "num": 1139945,
+        "word": "南海渤海部分水域禁止驶入",
+        "onboard_time": 1659405339,
+        "rank": 11,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 1104849,
+        "num": 1104849,
+        "word": "山东舰",
+        "onboard_time": 1659401744,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1009879,
+        "num": 1009879,
+        "word": "郑秀晶为郑秀妍录了VCR",
+        "onboard_time": 1659402342,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926540,
+        "num": 926540,
+        "word": "周周在西非称老公没有一夫多妻",
+        "onboard_time": 1659404982,
+        "rank": 14,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 825153,
+        "num": 825153,
+        "word": "莫斯科电视塔撑中国",
+        "onboard_time": 1659403601,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780105,
+        "num": 780105,
+        "word": "郭艾伦向辽宁队提出转会申请",
+        "onboard_time": 1659404017,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681408,
+        "num": 681408,
+        "word": "清华女博后毕业当14年农民",
+        "onboard_time": 1659408160,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 673065,
+        "num": 673065,
+        "word": "东部战区",
+        "onboard_time": 1659353437,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 773035,
+        "num": 671748,
+        "word": "辽宁男篮拒绝放走郭艾伦",
+        "onboard_time": 1659407199,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669174,
+        "num": 669174,
+        "word": "万吨大驱拉萨舰执行远海训练任务",
+        "onboard_time": 1659407020,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 617570,
+        "num": 617570,
+        "word": "天会亮的 你有我呢",
+        "onboard_time": 1659409366,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 613545,
+        "num": 613545,
+        "word": "北极已经可以穿短袖了",
+        "onboard_time": 1659361723,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593082,
+        "num": 593082,
+        "word": "若佩洛西敢去台湾那我们拭目以待",
+        "onboard_time": 1659349471,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 573103,
+        "num": 573103,
+        "word": "吴谨言 没成团",
+        "onboard_time": 1659399037,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523154,
+        "num": 523154,
+        "word": "中国军队是敢于亮剑的",
+        "onboard_time": 1659408824,
+        "rank": 25,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 449324,
+        "num": 449324,
+        "word": "基金",
+        "onboard_time": 1659407262,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 447756,
+        "num": 447756,
+        "word": "网传乘风破浪3成团名单",
+        "onboard_time": 1659407381,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446436,
+        "num": 446436,
+        "word": "中国担任联合国安理会8月轮值主席",
+        "onboard_time": 1659400121,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 411009,
+        "num": 411009,
+        "word": "以后下馆子还能点拍黄瓜吗",
+        "onboard_time": 1659401325,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 405605,
+        "num": 405605,
+        "word": "时代少年团哭泣的游戏音源上线",
+        "onboard_time": 1659407262,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391929,
+        "num": 391929,
+        "word": "赵一曼牺牲多年儿子才读到她的绝笔",
+        "onboard_time": 1659398920,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355593,
+        "num": 355593,
+        "word": "日本美滨核电站发生泄漏",
+        "onboard_time": 1659395606,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 344193,
+        "num": 344193,
+        "word": "男子丧偶后相亲遇38年前心仪女孩",
+        "onboard_time": 1659369940,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 335276,
+        "num": 335276,
+        "word": "俞敏洪说没做过幸福的梦",
+        "onboard_time": 1659408701,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330932,
+        "num": 330932,
+        "word": "谭维维 排名",
+        "onboard_time": 1659403420,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320598,
+        "num": 320598,
+        "word": "视频开会的社死瞬间",
+        "onboard_time": 1659409004,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305037,
+        "num": 305037,
+        "word": "游客在汾阳一景区坠亡",
+        "onboard_time": 1659409183,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 293170,
+        "num": 293170,
+        "word": "美方在台湾问题上不要搞双重标准",
+        "onboard_time": 1659392174,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 289864,
+        "num": 289864,
+        "word": "8月1日新增确诊107例",
+        "onboard_time": 1659408701,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281428,
+        "num": 281428,
+        "word": "iPhone14系列采用不同等级显示屏",
+        "onboard_time": 1659409366,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2122717,
+        "num": 279934,
+        "word": "拜登宣布美国已击毙基地组织头目",
+        "onboard_time": 1659400723,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 278186,
+        "num": 278186,
+        "word": "男子带猫做绝育后猫怀孕了",
+        "onboard_time": 1659368203,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277272,
+        "num": 277272,
+        "word": "周周在西非发视频报平安",
+        "onboard_time": 1659368382,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 272037,
+        "num": 272037,
+        "word": "沈小婷赢麻了",
+        "onboard_time": 1659390672,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251648,
+        "num": 251648,
+        "word": "安徽特岗",
+        "onboard_time": 1659406061,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247968,
+        "num": 247968,
+        "word": "官方回应事业单位笔试3.17分被录取",
+        "onboard_time": 1659398796,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 233704,
+        "num": 233704,
+        "word": "于文文 成团",
+        "onboard_time": 1659398373,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230355,
+        "num": 230355,
+        "word": "遇见你终极预告",
+        "onboard_time": 1659408559,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2555,
+        "num": 229386,
+        "word": "七夕礼物颜值天花板",
+        "onboard_time": 1659405639,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}

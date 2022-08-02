@@ -1,7 +1,15 @@
 {
   "startTime": 1659371610988,
-  "endTime": 1659407193262,
+  "endTime": 1659409626561,
   "band_list": [
+    {
+      "raw_hot": 15684908,
+      "num": 15684908,
+      "word": "推特网友嘲讽布林肯就佩洛西访台表态",
+      "onboard_time": 1659399219,
+      "rank": 0,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 12927186,
       "num": 12927186,
@@ -27,12 +35,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 4920001,
+      "num": 4920001,
+      "word": "白宫重申不支持台独",
+      "onboard_time": 1659406420,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3937432,
       "num": 3937432,
       "word": "拜登宣布美国已击毙基地组织头目",
       "onboard_time": 1659400723,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3884965,
+      "num": 3884965,
+      "word": "台军急派8战机进驻台东",
+      "onboard_time": 1659408160,
+      "rank": 3,
+      "category": "军事"
     },
     {
       "raw_hot": 3732244,
@@ -57,6 +81,14 @@
       "onboard_time": 1659398373,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3071086,
+      "num": 3071086,
+      "word": "厦门航空对部分航班调整",
+      "onboard_time": 1659408400,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2920261,
@@ -91,8 +123,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2071415,
-      "num": 2071415,
+      "raw_hot": 2190711,
+      "num": 2190711,
       "word": "普京称核战争中不会有赢家",
       "onboard_time": 1659404620,
       "rank": 6,
@@ -155,6 +187,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 1346651,
+      "num": 1264333,
+      "word": "难听",
+      "onboard_time": 1659408883,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1341461,
       "num": 1341461,
       "word": "南海渤海部分水域禁止驶入",
@@ -209,14 +249,6 @@
       "onboard_time": 1659404922,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 989603,
-      "num": 989603,
-      "word": "白宫重申不支持台独",
-      "onboard_time": 1659406420,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 960991,
@@ -283,12 +315,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 773035,
+      "num": 671748,
+      "word": "辽宁男篮拒绝放走郭艾伦",
+      "onboard_time": 1659407199,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 711456,
       "num": 711456,
       "word": "日本美滨核电站发生泄漏",
       "onboard_time": 1659395606,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 681408,
+      "num": 681408,
+      "word": "清华女博后毕业当14年农民",
+      "onboard_time": 1659408160,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 669174,
+      "num": 669174,
+      "word": "万吨大驱拉萨舰执行远海训练任务",
+      "onboard_time": 1659407020,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 635321,
@@ -315,6 +371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 617570,
+      "num": 617570,
+      "word": "天会亮的 你有我呢",
+      "onboard_time": 1659409366,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 569773,
       "num": 569773,
       "word": "谭维维 排名",
@@ -331,6 +395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 523154,
+      "num": 523154,
+      "word": "中国军队是敢于亮剑的",
+      "onboard_time": 1659408824,
+      "rank": 25,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 474247,
       "num": 474247,
       "word": "李显龙告诉佩洛西中美关系稳定很重要",
@@ -345,6 +417,22 @@
       "onboard_time": 1659369399,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449324,
+      "num": 449324,
+      "word": "基金",
+      "onboard_time": 1659407262,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 447756,
+      "num": 447756,
+      "word": "网传乘风破浪3成团名单",
+      "onboard_time": 1659407381,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 433988,
@@ -395,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405605,
+      "num": 405605,
+      "word": "时代少年团哭泣的游戏音源上线",
+      "onboard_time": 1659407262,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 391929,
+      "num": 391929,
+      "word": "赵一曼牺牲多年儿子才读到她的绝笔",
+      "onboard_time": 1659398920,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378305,
       "num": 378305,
       "word": "不要取奇奇怪怪的快递名",
@@ -419,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349362,
-      "num": 349362,
-      "word": "赵一曼牺牲多年儿子才读到她的绝笔",
-      "onboard_time": 1659398920,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345338,
       "num": 345338,
       "word": "时刻准备战斗",
       "onboard_time": 1659353134,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 335276,
+      "num": 335276,
+      "word": "俞敏洪说没做过幸福的梦",
+      "onboard_time": 1659408701,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 333389,
@@ -449,6 +553,14 @@
       "onboard_time": 1659390672,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320598,
+      "num": 320598,
+      "word": "视频开会的社死瞬间",
+      "onboard_time": 1659409004,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 315794,
@@ -483,12 +595,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293064,
-      "num": 293064,
-      "word": "万吨大驱拉萨舰执行远海训练任务",
-      "onboard_time": 1659407020,
-      "rank": 35,
-      "category": "军事"
+      "raw_hot": 305037,
+      "num": 305037,
+      "word": "游客在汾阳一景区坠亡",
+      "onboard_time": 1659409183,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 289864,
+      "num": 289864,
+      "word": "8月1日新增确诊107例",
+      "onboard_time": 1659408701,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282609,
@@ -497,6 +617,14 @@
       "onboard_time": 1659354335,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281428,
+      "num": 281428,
+      "word": "iPhone14系列采用不同等级显示屏",
+      "onboard_time": 1659409366,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 280849,
@@ -593,6 +721,14 @@
       "onboard_time": 1659406241,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230355,
+      "num": 230355,
+      "word": "遇见你终极预告",
+      "onboard_time": 1659408559,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 229795,
