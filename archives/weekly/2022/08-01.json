@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659515424292,
+  "endTime": 1659516382218,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -843,6 +843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2355851,
+      "num": 1146718,
+      "word": "男子新婚后离世公婆求退彩礼遭拒",
+      "onboard_time": 1659512752,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2297560,
       "num": 2297560,
       "word": "美方在台湾问题上不要搞双重标准",
@@ -929,6 +937,14 @@
       "onboard_time": 1659335368,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2093750,
+      "num": 2093750,
+      "word": "历史不会浓缩于一个晚上",
+      "onboard_time": 1659511433,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2074267,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1659401680,
       "rank": 7,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1862438,
-      "num": 1146718,
-      "word": "男子新婚后离世公婆求退彩礼遭拒",
-      "onboard_time": 1659512752,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1862428,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1659408883,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1615853,
+      "num": 1030380,
+      "word": "李玟",
+      "onboard_time": 1659515211,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1614030,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1659405339,
       "rank": 10,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 1333709,
-      "num": 1333709,
-      "word": "历史不会浓缩于一个晚上",
-      "onboard_time": 1659511433,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1331963,
@@ -1739,12 +1747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1009026,
+      "num": 1009026,
+      "word": "台铁车站屏幕突现老巫婆窜访台湾",
+      "onboard_time": 1659514189,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004691,
       "num": 1004691,
       "word": "龚俊狐妖小红娘白衣造型",
       "onboard_time": 1659409967,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1002389,
+      "num": 1002389,
+      "word": "南京公交道歉",
+      "onboard_time": 1659515271,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1001424,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1659484139,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941019,
+      "num": 941019,
+      "word": "Angelababy赖冠霖玩游戏互相套路",
+      "onboard_time": 1659515090,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 936854,
@@ -2091,14 +2123,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 796194,
-      "num": 796194,
-      "word": "Angelababy赖冠霖玩游戏互相套路",
-      "onboard_time": 1659515090,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 792404,
       "num": 792404,
       "word": "南京公交限速",
@@ -2243,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 737949,
-      "num": 737949,
-      "word": "李玟",
-      "onboard_time": 1659515211,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 731603,
       "num": 731603,
       "word": "伊能静工作室回应",
@@ -2339,6 +2355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 705222,
+      "num": 705222,
+      "word": "官方回应建议取消笔试摘口罩考生成绩",
+      "onboard_time": 1659514911,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 702035,
       "num": 702035,
       "word": "杨丽萍侄女重现36年前经典",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1659348810,
       "rank": 23,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 689961,
-      "num": 689961,
-      "word": "台铁车站屏幕突现老巫婆窜访台湾",
-      "onboard_time": 1659514189,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684259,
@@ -2627,6 +2643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604988,
+      "num": 604988,
+      "word": "断桥定档813",
+      "onboard_time": 1659515632,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 599028,
       "num": 599028,
       "word": "从眼睛竟能看出50项疾病",
@@ -2704,6 +2728,22 @@
       "word": "晚上睡不着可以白天补觉吗",
       "onboard_time": 1659301271,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574223,
+      "num": 574223,
+      "word": "想看王俊凯孟超",
+      "onboard_time": 1659515930,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 573610,
+      "num": 573610,
+      "word": "95后小伙做陪诊师月入过万",
+      "onboard_time": 1659514071,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2785,6 +2825,14 @@
       "onboard_time": 1659360157,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559412,
+      "num": 559412,
+      "word": "河南省将发放600万元体育健身优惠券",
+      "onboard_time": 1659513771,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557899,
@@ -2872,14 +2920,6 @@
       "word": "吉林疫情防控",
       "onboard_time": 1659492728,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531823,
-      "num": 531823,
-      "word": "河南省将发放600万元体育健身优惠券",
-      "onboard_time": 1659513771,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3203,6 +3243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468518,
+      "num": 468518,
+      "word": "为什么很多人不愿谈恋爱",
+      "onboard_time": 1659513891,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 468121,
       "num": 468121,
       "word": "丁程鑫高空舞",
@@ -3443,14 +3491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 437921,
-      "num": 437921,
-      "word": "为什么很多人不愿谈恋爱",
-      "onboard_time": 1659513891,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 437268,
       "num": 437268,
       "word": "环卫工帮车主扫落叶不慎将车刮花",
@@ -3480,14 +3520,6 @@
       "word": "各地产假普遍延至158天以上",
       "onboard_time": 1659337646,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433285,
-      "num": 433285,
-      "word": "95后小伙做陪诊师月入过万",
-      "onboard_time": 1659514071,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3731,6 +3763,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 408956,
+      "num": 408956,
+      "word": "小区起火主人背狗从38层楼逃生",
+      "onboard_time": 1659515271,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408888,
       "num": 302363,
       "word": "张颖颖为家乡菏泽捐赠抗疫物资",
@@ -3889,14 +3929,6 @@
       "onboard_time": 1659363705,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391157,
-      "num": 391157,
-      "word": "官方回应建议取消笔试摘口罩考生成绩",
-      "onboard_time": 1659514911,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 389578,
@@ -4579,6 +4611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316741,
+      "num": 316741,
+      "word": "佩洛西暴露遏制中国发展的险恶用心",
+      "onboard_time": 1659515809,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 315794,
       "num": 315794,
       "word": "胡歌胸肌好绝",
@@ -4617,6 +4657,14 @@
       "onboard_time": 1659406061,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312551,
+      "num": 312551,
+      "word": "华春莹一句中国古话讲给美国官员",
+      "onboard_time": 1659516228,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 311127,
@@ -4755,14 +4803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297491,
-      "num": 297491,
-      "word": "南京公交道歉",
-      "onboard_time": 1659515271,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297300,
       "num": 297300,
       "word": "直男把送礼给整明白了",
@@ -4801,6 +4841,14 @@
       "onboard_time": 1659320067,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294185,
+      "num": 294185,
+      "word": "伊犁3000亩向日葵花开成海",
+      "onboard_time": 1659516108,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 294147,
@@ -4993,14 +5041,6 @@
       "onboard_time": 1659285623,
       "rank": 18,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 270350,
-      "num": 270350,
-      "word": "小区起火主人背狗从38层楼逃生",
-      "onboard_time": 1659515271,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270230,

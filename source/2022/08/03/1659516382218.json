@@ -1,0 +1,410 @@
+{
+  "runTime": 1659516382218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12455214,
+        "num": 12455214,
+        "word": "解放军明显在演练全面封锁台岛",
+        "onboard_time": 1659507239,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 7228321,
+        "num": 7228321,
+        "word": "国台办回应蔡英文为佩洛西授勋",
+        "onboard_time": 1659502994,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1715452,
+        "num": 3426696,
+        "word": "东部战区位台岛周边演训视频",
+        "onboard_time": 1659510535,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3250672,
+        "num": 3250672,
+        "word": "韩总统办公室回应佩洛西访台",
+        "onboard_time": 1659510714,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2471758,
+        "num": 2471758,
+        "word": "百花奖总导演致歉",
+        "onboard_time": 1659510117,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2423531,
+        "num": 2423531,
+        "word": "江西幼儿园命案已锁定犯罪嫌疑人",
+        "onboard_time": 1659509873,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2093750,
+        "num": 2093750,
+        "word": "历史不会浓缩于一个晚上",
+        "onboard_time": 1659511433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266078,
+        "num": 1266078,
+        "word": "北大终止陈春花聘用合同",
+        "onboard_time": 1659508978,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1092215,
+        "num": 1092215,
+        "word": "桃园机场明日取消40个航班",
+        "onboard_time": 1659506032,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1038502,
+        "num": 1038502,
+        "word": "苏妙玲 海姆立克急救法",
+        "onboard_time": 1659513831,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2355851,
+        "num": 1038212,
+        "word": "男子新婚后离世公婆求退彩礼遭拒",
+        "onboard_time": 1659512752,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615853,
+        "num": 1030380,
+        "word": "李玟",
+        "onboard_time": 1659515211,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1573641,
+        "num": 1024704,
+        "word": "韩素希脸部受伤",
+        "onboard_time": 1659509038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1359386,
+        "num": 1016890,
+        "word": "已婚女同时交往18名男子行骗",
+        "onboard_time": 1659509813,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282782,
+        "num": 1011064,
+        "word": "全台多家711屏幕突现裴洛西滚出台湾",
+        "onboard_time": 1659501324,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009026,
+        "num": 1009026,
+        "word": "台铁车站屏幕突现老巫婆窜访台湾",
+        "onboard_time": 1659514189,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002389,
+        "num": 1002389,
+        "word": "南京公交道歉",
+        "onboard_time": 1659515271,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941019,
+        "num": 941019,
+        "word": "Angelababy赖冠霖玩游戏互相套路",
+        "onboard_time": 1659515090,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 898412,
+        "num": 898412,
+        "word": "断桥",
+        "onboard_time": 1659503822,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705222,
+        "num": 705222,
+        "word": "官方回应建议取消笔试摘口罩考生成绩",
+        "onboard_time": 1659514911,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 699115,
+        "num": 699115,
+        "word": "广州一公司招聘助理要陪客户睡觉",
+        "onboard_time": 1659505378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664107,
+        "num": 664107,
+        "word": "00后入职宿管阿姨",
+        "onboard_time": 1659510418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654894,
+        "num": 654894,
+        "word": "蔡英文之流抱着美国的粗腿不放",
+        "onboard_time": 1659507776,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 615350,
+        "num": 615350,
+        "word": "情侣为买七夕礼物4天偷188块电瓶",
+        "onboard_time": 1659512154,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604988,
+        "num": 604988,
+        "word": "断桥定档813",
+        "onboard_time": 1659515632,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595984,
+        "num": 595984,
+        "word": "南京一研究所回应招聘硕士保安",
+        "onboard_time": 1659513412,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574223,
+        "num": 574223,
+        "word": "想看王俊凯孟超",
+        "onboard_time": 1659515930,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573610,
+        "num": 573610,
+        "word": "95后小伙做陪诊师月入过万",
+        "onboard_time": 1659514071,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559412,
+        "num": 559412,
+        "word": "河南省将发放600万元体育健身优惠券",
+        "onboard_time": 1659513771,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555811,
+        "num": 555811,
+        "word": "陈春花承认博士学位未被认证",
+        "onboard_time": 1659510955,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520897,
+        "num": 520897,
+        "word": "股市",
+        "onboard_time": 1659510835,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 468518,
+        "num": 468518,
+        "word": "为什么很多人不愿谈恋爱",
+        "onboard_time": 1659513891,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413129,
+        "num": 413129,
+        "word": "台独是绝路",
+        "onboard_time": 1659513711,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 408956,
+        "num": 408956,
+        "word": "小区起火主人背狗从38层楼逃生",
+        "onboard_time": 1659515271,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399930,
+        "num": 399930,
+        "word": "张馨予演的胭脂",
+        "onboard_time": 1659512931,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370812,
+        "num": 370812,
+        "word": "浪姐团综飞行嘉宾",
+        "onboard_time": 1659511495,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366677,
+        "num": 366677,
+        "word": "俄外交部声明称台湾问题纯属中国内政",
+        "onboard_time": 1659498071,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 342264,
+        "num": 342264,
+        "word": "多国政府发表声明谴责佩洛西窜访台湾",
+        "onboard_time": 1659498971,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 339942,
+        "num": 339942,
+        "word": "若被列为支恐国家俄或与美断交",
+        "onboard_time": 1659505673,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 329608,
+        "num": 329608,
+        "word": "苹果不再是全球最赚钱公司",
+        "onboard_time": 1659507957,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 316741,
+        "num": 316741,
+        "word": "佩洛西暴露遏制中国发展的险恶用心",
+        "onboard_time": 1659515809,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 316278,
+        "num": 316278,
+        "word": "赵露思程少商落水记视频",
+        "onboard_time": 1659510592,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314226,
+        "num": 314226,
+        "word": "一家5口出游12岁孩子驾车40公里",
+        "onboard_time": 1659504238,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 312551,
+        "num": 312551,
+        "word": "华春莹一句中国古话讲给美国官员",
+        "onboard_time": 1659516228,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 303747,
+        "num": 303747,
+        "word": "浪姐3男嘉宾剪影",
+        "onboard_time": 1659511495,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294185,
+        "num": 294185,
+        "word": "伊犁3000亩向日葵花开成海",
+        "onboard_time": 1659516108,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 280797,
+        "num": 280797,
+        "word": "张朝阳谈年轻人想退休",
+        "onboard_time": 1659514372,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 278201,
+        "num": 278201,
+        "word": "国台办正告蔡英文",
+        "onboard_time": 1659498911,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 258283,
+        "num": 258283,
+        "word": "乌合麒麟新作",
+        "onboard_time": 1659499814,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249899,
+        "num": 249899,
+        "word": "林彦俊原来我很爱你播出一周年",
+        "onboard_time": 1659512752,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界上只有一个中国#"
+    }
+  }
+}
