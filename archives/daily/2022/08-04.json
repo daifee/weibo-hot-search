@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659562624289,
+  "endTime": 1659565309173,
   "band_list": [
     {
       "raw_hot": 4444813,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282638,
+      "num": 282638,
+      "word": "72个工人一拥而上司机半路逃跑",
+      "onboard_time": 1659549076,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266999,
       "num": 266999,
       "word": "七夕表情包",
@@ -379,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196495,
-      "num": 196495,
-      "word": "72个工人一拥而上司机半路逃跑",
-      "onboard_time": 1659549076,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196189,
       "num": 196189,
       "word": "天才基本法",
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177285,
+      "num": 177285,
+      "word": "杭州老破小成交越来越难",
+      "onboard_time": 1659560351,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 145257,
       "num": 145257,
       "word": "任子威挥汗如雨",
@@ -435,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132014,
+      "num": 132014,
+      "word": "4岁娃办身份证对民警敬3个礼",
+      "onboard_time": 1659561613,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115220,
       "num": 97473,
       "word": "张馨予说不管是气质气势没输过",
       "onboard_time": 1659551655,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87397,
+      "num": 87397,
+      "word": "上午在西湖中午逛龙门石窟",
+      "onboard_time": 1659561732,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 82402,
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77941,
+      "num": 77941,
+      "word": "山东将连续5天高温闷热",
+      "onboard_time": 1659563834,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66003,
       "num": 66003,
       "word": "钱三一出息了",
@@ -475,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56248,
-      "num": 43502,
-      "word": "杭州老破小成交越来越难",
-      "onboard_time": 1659560351,
-      "rank": 39,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 53837,
       "num": 53837,
       "word": "广东17家企业入围世界500强",
@@ -491,36 +515,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 23727,
-      "num": 23727,
-      "word": "独行月球里的中国式浪漫",
-      "onboard_time": 1659555072,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 22184,
-      "num": 22184,
+      "raw_hot": 32402,
+      "num": 32402,
       "word": "电影新雪山飞狐豆瓣6.5分",
       "onboard_time": 1659558912,
       "rank": 46,
       "category": "影视"
     },
     {
-      "raw_hot": 18930,
-      "num": 18930,
-      "word": "4岁娃办身份证对民警敬3个礼",
-      "onboard_time": 1659561613,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17220,
-      "num": 17220,
-      "word": "上午在西湖中午逛龙门石窟",
-      "onboard_time": 1659561732,
+      "raw_hot": 23727,
+      "num": 23727,
+      "word": "独行月球里的中国式浪漫",
+      "onboard_time": 1659555072,
       "rank": 45,
-      "category": "旅游,社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 14876,
