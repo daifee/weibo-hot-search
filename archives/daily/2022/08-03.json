@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659495326233,
+  "endTime": 1659500282280,
   "band_list": [
     {
       "raw_hot": 22430807,
@@ -91,12 +91,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 5066237,
+      "num": 5066237,
+      "word": "俄外交部声明称台湾问题纯属中国内政",
+      "onboard_time": 1659498071,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 5028580,
+      "num": 5028580,
+      "word": "台媒曝台交通部门深夜急拟应对方案",
+      "onboard_time": 1659495904,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 4994207,
       "num": 4994207,
       "word": "台媒称解放军歼16战机现身巴士海峡",
       "onboard_time": 1659452068,
       "rank": 24,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 4785142,
+      "num": 4785142,
+      "word": "什么是天然砂",
+      "onboard_time": 1659497409,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4644583,
@@ -121,6 +145,14 @@
       "onboard_time": 1659456521,
       "rank": 22,
       "category": "军事"
+    },
+    {
+      "raw_hot": 3658504,
+      "num": 984739,
+      "word": "国台办正告蔡英文",
+      "onboard_time": 1659498911,
+      "rank": 20,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3566818,
@@ -161,6 +193,14 @@
       "onboard_time": 1659486848,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2607511,
+      "num": 2607511,
+      "word": "多国政府发表声明谴责佩洛西窜访台湾",
+      "onboard_time": 1659498971,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2600945,
@@ -267,6 +307,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1382630,
+      "num": 1382630,
+      "word": "谋独只会把台湾推向灾难深渊",
+      "onboard_time": 1659496509,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1317782,
+      "num": 1317782,
+      "word": "苹果不再要求员工戴口罩",
+      "onboard_time": 1659494238,
+      "rank": 26,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1294257,
       "num": 1294257,
       "word": "茅台存了价值好多万亿基酒",
@@ -299,12 +355,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1171242,
+      "num": 1171242,
+      "word": "恐婚的年轻人究竟在怕什么",
+      "onboard_time": 1659498614,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 980054,
       "num": 980054,
       "word": "全国人大常委会回应佩洛西窜访中国台湾",
       "onboard_time": 1659453193,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 972256,
+      "num": 972256,
+      "word": "古特雷斯称人类离核毁灭只差一个误判",
+      "onboard_time": 1659498135,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946542,
@@ -347,12 +419,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 864845,
+      "num": 864845,
+      "word": "女儿远嫁10年后父母第一次去看望",
+      "onboard_time": 1659493574,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850483,
       "num": 850483,
       "word": "你心中的偶像剧男主人设TOP",
       "onboard_time": 1659492371,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 827871,
+      "num": 827871,
+      "word": "中方重申台湾问题严正立场",
+      "onboard_time": 1659495313,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 821826,
@@ -384,14 +472,6 @@
       "word": "成都招募5967名公卫特别服务岗志愿者",
       "onboard_time": 1659487812,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692296,
-      "num": 692296,
-      "word": "女儿远嫁10年后父母第一次去看望",
-      "onboard_time": 1659493574,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -427,12 +507,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 614300,
+      "num": 614300,
+      "word": "乌合麒麟新作",
+      "onboard_time": 1659499814,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610922,
       "num": 470441,
       "word": "VaVa",
       "onboard_time": 1659436254,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 553109,
+      "num": 553109,
+      "word": "闪耀暖暖",
+      "onboard_time": 1659498251,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 542197,
+      "num": 542197,
+      "word": "对台独顽固分子依法终身追责",
+      "onboard_time": 1659496399,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 540433,
@@ -459,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520281,
-      "num": 520281,
-      "word": "苹果不再要求员工戴口罩",
-      "onboard_time": 1659494238,
-      "rank": 26,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 493645,
       "num": 493645,
       "word": "将进酒",
@@ -479,6 +575,14 @@
       "num": 475020,
       "word": "儿子成绩不好妈妈网购3888元灵宝",
       "onboard_time": 1659462866,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457678,
+      "num": 457678,
+      "word": "农民工父亲每天隔监控陪伴3个孩子",
+      "onboard_time": 1659497774,
       "rank": 31,
       "category": "社会新闻"
     },
@@ -547,6 +651,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389203,
+      "num": 389203,
+      "word": "1个拉伸动作促骨骼生长",
+      "onboard_time": 1659496399,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 377368,
+      "num": 377368,
+      "word": "成都一小伙从上地铁跳到换乘",
+      "onboard_time": 1659499572,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377133,
       "num": 377133,
       "word": "孕妇吃偏方险早产住进ICU",
@@ -563,12 +683,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358361,
+      "num": 358361,
+      "word": "北京和成都的运动时差有多明显",
+      "onboard_time": 1659495552,
+      "rank": 36,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 347734,
       "num": 347734,
       "word": "迪迦奥特曼饰演者确诊新冠",
       "onboard_time": 1659438001,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343662,
+      "num": 343662,
+      "word": "凌不疑程少商树下吻花絮",
+      "onboard_time": 1659497173,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 339266,
+      "num": 339266,
+      "word": "8游客未开放海域游泳被卷入海",
+      "onboard_time": 1659499752,
+      "rank": 39,
+      "category": "社会负面,旅游"
     },
     {
       "raw_hot": 334696,
@@ -635,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298868,
+      "num": 298868,
+      "word": "亲爱的小美人鱼定档",
+      "onboard_time": 1659496934,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270165,
       "num": 270165,
       "word": "月升沧海都是吴磊老熟人",
@@ -673,6 +825,22 @@
       "onboard_time": 1659444024,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251108,
+      "num": 251108,
+      "word": "拜登复阳后开始咳嗽",
+      "onboard_time": 1659499394,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245201,
+      "num": 245201,
+      "word": "茅台日赚1.65亿",
+      "onboard_time": 1659500116,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 244897,
@@ -715,20 +883,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 224458,
+      "num": 224458,
+      "word": "血癌女孩病房自学手工钩织赚钱",
+      "onboard_time": 1659499999,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206573,
       "num": 206573,
       "word": "马伯骞桑延丁笑滢温以凡",
       "onboard_time": 1659465499,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201505,
-      "num": 201505,
-      "word": "中方重申台湾问题严正立场",
-      "onboard_time": 1659495313,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 197721,
