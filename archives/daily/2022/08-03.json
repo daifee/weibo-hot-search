@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659534213333,
+  "endTime": 1659534864278,
   "band_list": [
     {
       "raw_hot": 22430807,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3975728,
+      "num": 3975728,
+      "word": "海军任务舰艇已抵达台岛以东",
+      "onboard_time": 1659531769,
+      "rank": 25,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 3949819,
       "num": 3949819,
       "word": "志愿军14昼夜打退美军30多次进攻",
@@ -235,16 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3892295,
-      "num": 3892295,
-      "word": "海军任务舰艇已抵达台岛以东",
-      "onboard_time": 1659531769,
-      "rank": 25,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 3853551,
-      "num": 4468398,
+      "num": 5801547,
       "word": "你打你的我打我的",
       "onboard_time": 1659520372,
       "rank": 2,
@@ -579,6 +579,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1733845,
+      "num": 1733845,
+      "word": "外交部回应中方有何具体惩罚措施",
+      "onboard_time": 1659529252,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1696538,
       "num": 1696538,
       "word": "成都一小伙从上地铁跳到换乘",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1568336,
+      "num": 1568336,
+      "word": "新东方花近200亿退学费和遣散费",
+      "onboard_time": 1659533091,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1535993,
       "num": 1535993,
       "word": "金融业出台限薪令",
@@ -664,14 +680,6 @@
       "word": "与14亿中国人民为敌不会有好下场",
       "onboard_time": 1659439992,
       "rank": 17,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1403837,
-      "num": 1403837,
-      "word": "外交部回应中方有何具体惩罚措施",
-      "onboard_time": 1659529252,
-      "rank": 23,
       "category": "国内要闻"
     },
     {
@@ -753,6 +761,14 @@
       "onboard_time": 1659440230,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1187701,
+      "num": 1187701,
+      "word": "郑州天空频繁出现丁达尔效应",
+      "onboard_time": 1659531409,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 1182252,
@@ -859,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 940114,
-      "num": 940114,
-      "word": "郑州天空频繁出现丁达尔效应",
-      "onboard_time": 1659531409,
-      "rank": 36,
-      "category": "自然"
-    },
-    {
       "raw_hot": 932537,
       "num": 932537,
       "word": "台海局势紧张升级美方须负全责",
@@ -913,14 +921,6 @@
       "onboard_time": 1659530987,
       "rank": 21,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 881147,
-      "num": 881147,
-      "word": "新东方花近200亿退学费和遣散费",
-      "onboard_time": 1659533091,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 864845,
@@ -1107,6 +1107,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 641388,
+      "num": 641388,
+      "word": "两个裴之争夺身体",
+      "onboard_time": 1659533629,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 631043,
       "num": 631043,
       "word": "女子疑因超时发语音辱骂外卖员",
@@ -1195,11 +1203,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 581121,
-      "num": 581121,
-      "word": "两个裴之争夺身体",
-      "onboard_time": 1659533629,
-      "rank": 22,
+      "raw_hot": 578275,
+      "num": 578275,
+      "word": "月升沧海",
+      "onboard_time": 1659534110,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1217,6 +1225,14 @@
       "onboard_time": 1659520730,
       "rank": 32,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 571524,
+      "num": 571524,
+      "word": "WBG 双C",
+      "onboard_time": 1659532912,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 559412,
@@ -1243,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 542292,
-      "num": 542292,
-      "word": "月升沧海",
-      "onboard_time": 1659534110,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 540842,
       "num": 540842,
       "word": "犯我中华者必将受惩处",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1659515271,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536908,
+      "num": 536908,
+      "word": "月升沧海 剧情",
+      "onboard_time": 1659533750,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 533767,
@@ -1307,20 +1323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520622,
-      "num": 520622,
-      "word": "WBG 双C",
-      "onboard_time": 1659532912,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 519552,
       "num": 519552,
       "word": "茅台日赚1.65亿",
       "onboard_time": 1659500116,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 517252,
+      "num": 517252,
+      "word": "凌不疑为程少商替换虎符",
+      "onboard_time": 1659533808,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 516896,
@@ -1515,11 +1531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432840,
-      "num": 432840,
-      "word": "月升沧海 剧情",
-      "onboard_time": 1659533750,
-      "rank": 31,
+      "raw_hot": 431054,
+      "num": 431054,
+      "word": "少年派2 甜",
+      "onboard_time": 1659532972,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1553,14 +1569,6 @@
       "onboard_time": 1659456224,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 415326,
-      "num": 415326,
-      "word": "少年派2 甜",
-      "onboard_time": 1659532972,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 414081,
@@ -1635,14 +1643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 394710,
-      "num": 394710,
-      "word": "凌不疑为程少商替换虎符",
-      "onboard_time": 1659533808,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393504,
       "num": 393504,
       "word": "浪姐3男嘉宾剪影",
@@ -1707,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373911,
+      "num": 373911,
+      "word": "宝可梦朱紫",
+      "onboard_time": 1659534410,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 370271,
       "num": 370271,
       "word": "张杰星汉游唱出辽阔宇宙",
@@ -1739,20 +1747,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359928,
+      "num": 359928,
+      "word": "被0713的真诚戳到了",
+      "onboard_time": 1659532791,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359721,
       "num": 359721,
       "word": "张朝阳谈年轻人想退休",
       "onboard_time": 1659514372,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 358514,
-      "num": 358514,
-      "word": "被0713的真诚戳到了",
-      "onboard_time": 1659532791,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 358361,
@@ -1939,6 +1947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 319120,
+      "num": 319120,
+      "word": "心疼韩素希",
+      "onboard_time": 1659532308,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316843,
       "num": 316843,
       "word": "天才基本法父母爱情",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1659526366,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278831,
+      "num": 278831,
+      "word": "父亲拍摄陌生人假肢来激励截肢儿子",
+      "onboard_time": 1659534529,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277260,
@@ -2251,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221579,
+      "num": 221579,
+      "word": "神十四航天员装修新家",
+      "onboard_time": 1659533750,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 214065,
       "num": 214065,
       "word": "秀豆的马可波罗",
@@ -2291,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196762,
+      "num": 196762,
+      "word": "WB战胜TTG",
+      "onboard_time": 1659533808,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193530,
       "num": 193530,
       "word": "维护领土完整是14亿多中国人民的意志",
@@ -2307,20 +2347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183099,
-      "num": 183099,
-      "word": "神十四航天员装修新家",
-      "onboard_time": 1659533750,
-      "rank": 48,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 181480,
-      "num": 181480,
-      "word": "WB战胜TTG",
-      "onboard_time": 1659533808,
+      "raw_hot": 183160,
+      "num": 183160,
+      "word": "论当面拆礼物的重要性",
+      "onboard_time": 1659534831,
       "rank": 49,
-      "category": "游戏"
+      "category": "幽默"
     },
     {
       "raw_hot": 175715,
