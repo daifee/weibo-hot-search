@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659530735400,
+  "endTime": 1659532261357,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -299,20 +299,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 5583738,
+      "num": 6667477,
+      "word": "日本称无法就是否支持佩洛西访台发表评论",
+      "onboard_time": 1659526724,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 5404775,
       "num": 5404775,
       "word": "周周在西非发视频报平安",
       "onboard_time": 1659368382,
       "rank": 23,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 5297791,
-      "num": 6095583,
-      "word": "日本称无法就是否支持佩洛西访台发表评论",
-      "onboard_time": 1659526724,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 5283583,
@@ -443,6 +443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 4094423,
+      "num": 3656072,
+      "word": "大爷出轨小30岁女子9个月花430万",
+      "onboard_time": 1659527869,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3949819,
       "num": 3949819,
       "word": "志愿军14昼夜打退美军30多次进攻",
@@ -521,14 +529,6 @@
       "onboard_time": 1659356597,
       "rank": 5,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3656072,
-      "num": 3656072,
-      "word": "大爷出轨小30岁女子9个月花430万",
-      "onboard_time": 1659527869,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3654285,
@@ -897,6 +897,14 @@
       "onboard_time": 1659431036,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2454452,
+      "num": 2454452,
+      "word": "康辉",
+      "onboard_time": 1659529668,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2427058,
@@ -1491,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1441712,
+      "num": 1441712,
+      "word": "长沙生育二孩以上家庭增加1套购房指标",
+      "onboard_time": 1659528350,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1441243,
       "num": 1441243,
       "word": "三亚发现1名新冠肺炎确诊病例",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1659418185,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1238870,
+      "num": 1238870,
+      "word": "王者荣耀",
+      "onboard_time": 1659529426,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 1236727,
@@ -1867,14 +1891,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1064115,
-      "num": 1064115,
-      "word": "康辉",
-      "onboard_time": 1659529668,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1062055,
       "num": 1062055,
       "word": "迪迦奥特曼饰演者确诊新冠",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1659336390,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1059631,
+      "num": 1059631,
+      "word": "一危害国家安全嫌犯被刑事拘传审查",
+      "onboard_time": 1659528170,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1056234,
@@ -1979,14 +2003,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 977225,
-      "num": 977225,
-      "word": "长沙生育二孩以上家庭增加1套购房指标",
-      "onboard_time": 1659528350,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 972274,
       "num": 972274,
       "word": "杨幂狐妖小红娘红衣造型",
@@ -2051,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 945812,
-      "num": 945812,
-      "word": "一危害国家安全嫌犯被刑事拘传审查",
-      "onboard_time": 1659528170,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 941019,
       "num": 941019,
       "word": "Angelababy赖冠霖玩游戏互相套路",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1659282692,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 936663,
+      "num": 936663,
+      "word": "外交部回应中方有何具体惩罚措施",
+      "onboard_time": 1659529252,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 928649,
@@ -2555,6 +2571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 709512,
+      "num": 709512,
+      "word": "小狗突然就没电了",
+      "onboard_time": 1659528411,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 707816,
       "num": 510877,
       "word": "田甜和家暴男离婚",
@@ -2803,14 +2827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 621611,
-      "num": 621611,
-      "word": "小狗突然就没电了",
-      "onboard_time": 1659528411,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 620787,
       "num": 620787,
       "word": "倚美谋独死路一条",
@@ -2939,22 +2955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 590686,
-      "num": 590686,
-      "word": "王者荣耀",
-      "onboard_time": 1659529426,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 587934,
-      "num": 587934,
-      "word": "外交部回应中方有何具体惩罚措施",
-      "onboard_time": 1659529252,
-      "rank": 23,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 587336,
       "num": 507044,
       "word": "NBA或因杜兰特停摆",
@@ -3057,6 +3057,14 @@
       "onboard_time": 1659325529,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 567313,
+      "num": 567313,
+      "word": "手机号不用了记得把软件解绑",
+      "onboard_time": 1659530987,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 565929,
@@ -3331,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508902,
+      "num": 508902,
+      "word": "张凯 火舞打金蝉",
+      "onboard_time": 1659531586,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 507601,
       "num": 479068,
       "word": "杨幂线上演唱会彩排照",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1659362981,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497349,
+      "num": 497349,
+      "word": "海军任务舰艇已抵达台岛以东",
+      "onboard_time": 1659531769,
+      "rank": 25,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 496171,
@@ -3497,6 +3521,22 @@
       "onboard_time": 1659431875,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 483526,
+      "num": 483526,
+      "word": "星汉灿烂",
+      "onboard_time": 1659442994,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482045,
+      "num": 482045,
+      "word": "上海华二附中今年58人进入清北",
+      "onboard_time": 1659528887,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 481122,
@@ -3921,6 +3961,14 @@
       "onboard_time": 1659349833,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425426,
+      "num": 425426,
+      "word": "少年派2",
+      "onboard_time": 1659532005,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 425172,
@@ -4371,14 +4419,6 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 383145,
-      "num": 383145,
-      "word": "星汉灿烂",
-      "onboard_time": 1659442994,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 383009,
       "num": 383009,
       "word": "boystory巡演官宣",
@@ -4393,14 +4433,6 @@
       "onboard_time": 1659318146,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380612,
-      "num": 380612,
-      "word": "上海华二附中今年58人进入清北",
-      "onboard_time": 1659528887,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 379917,
@@ -4571,6 +4603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 365669,
+      "num": 365669,
+      "word": "看天才基本法第30集不敢眨眼",
+      "onboard_time": 1659530147,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365131,
       "num": 365131,
       "word": "1个动作远离驼背",
@@ -4691,14 +4731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 351933,
-      "num": 351933,
-      "word": "看天才基本法第30集不敢眨眼",
-      "onboard_time": 1659530147,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 350789,
       "num": 350789,
       "word": "山西汾阳景区游客坠亡监控曝光",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1659323729,
       "rank": 28,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 344989,
+      "num": 344989,
+      "word": "钱三一叫林妙妙老婆",
+      "onboard_time": 1659531947,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 344763,
@@ -4881,6 +4921,14 @@
       "onboard_time": 1659482755,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334226,
+      "num": 334226,
+      "word": "郑州天空频繁出现丁达尔效应",
+      "onboard_time": 1659531409,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 333880,
@@ -5033,6 +5081,14 @@
       "onboard_time": 1659424424,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324007,
+      "num": 324007,
+      "word": "浪姐乐队团综",
+      "onboard_time": 1659529787,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 321335,
@@ -5273,14 +5329,6 @@
       "onboard_time": 1659334111,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297399,
-      "num": 297399,
-      "word": "浪姐乐队团综",
-      "onboard_time": 1659529787,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 297300,
@@ -5867,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237896,
+      "num": 237896,
+      "word": "原来这些东西都是国产的",
+      "onboard_time": 1659530687,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236657,
       "num": 236657,
       "word": "裴之伤害自己",
@@ -6123,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213322,
+      "num": 213322,
+      "word": "WBG对战JDG",
+      "onboard_time": 1659532252,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212800,
       "num": 212800,
       "word": "大熊猫牌小熊软糖",
@@ -6313,14 +6377,6 @@
       "onboard_time": 1659453779,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 192347,
-      "num": 192347,
-      "word": "原来这些东西都是国产的",
-      "onboard_time": 1659530687,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 190787,

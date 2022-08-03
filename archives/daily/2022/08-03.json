@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659530735400,
+  "endTime": 1659532261357,
   "band_list": [
     {
       "raw_hot": 22430807,
@@ -147,8 +147,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 5297791,
-      "num": 6095583,
+      "raw_hot": 5583738,
+      "num": 6667477,
       "word": "日本称无法就是否支持佩洛西访台发表评论",
       "onboard_time": 1659526724,
       "rank": 1,
@@ -211,6 +211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 4094423,
+      "num": 3656072,
+      "word": "大爷出轨小30岁女子9个月花430万",
+      "onboard_time": 1659527869,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3949819,
       "num": 3949819,
       "word": "志愿军14昼夜打退美军30多次进攻",
@@ -233,14 +241,6 @@
       "onboard_time": 1659520372,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3656072,
-      "num": 3656072,
-      "word": "大爷出轨小30岁女子9个月花430万",
-      "onboard_time": 1659527869,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3650365,
@@ -401,6 +401,14 @@
       "onboard_time": 1659518749,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2454452,
+      "num": 2454452,
+      "word": "康辉",
+      "onboard_time": 1659529668,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2371969,
@@ -627,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1441712,
+      "num": 1441712,
+      "word": "长沙生育二孩以上家庭增加1套购房指标",
+      "onboard_time": 1659528350,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1404672,
       "num": 1404672,
       "word": "与14亿中国人民为敌不会有好下场",
@@ -697,6 +713,14 @@
       "onboard_time": 1659491772,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1238870,
+      "num": 1238870,
+      "word": "王者荣耀",
+      "onboard_time": 1659529426,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 1224466,
@@ -779,11 +803,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1064115,
-      "num": 1064115,
-      "word": "康辉",
-      "onboard_time": 1659529668,
-      "rank": 11,
+      "raw_hot": 1059631,
+      "num": 1059631,
+      "word": "一危害国家安全嫌犯被刑事拘传审查",
+      "onboard_time": 1659528170,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -803,27 +827,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 977225,
-      "num": 977225,
-      "word": "长沙生育二孩以上家庭增加1套购房指标",
-      "onboard_time": 1659528350,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 946542,
       "num": 946542,
       "word": "北京海淀一小区惊现怪鱼",
       "onboard_time": 1659484139,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 945812,
-      "num": 945812,
-      "word": "一危害国家安全嫌犯被刑事拘传审查",
-      "onboard_time": 1659528170,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -833,6 +841,14 @@
       "onboard_time": 1659515090,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 936663,
+      "num": 936663,
+      "word": "外交部回应中方有何具体惩罚措施",
+      "onboard_time": 1659529252,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 932537,
@@ -995,6 +1011,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 709512,
+      "num": 709512,
+      "word": "小狗突然就没电了",
+      "onboard_time": 1659528411,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 684257,
       "num": 684257,
       "word": "美国不要幻想阻挠中国的统一大业",
@@ -1075,14 +1099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 621611,
-      "num": 621611,
-      "word": "小狗突然就没电了",
-      "onboard_time": 1659528411,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 620787,
       "num": 620787,
       "word": "倚美谋独死路一条",
@@ -1139,22 +1155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 590686,
-      "num": 590686,
-      "word": "王者荣耀",
-      "onboard_time": 1659529426,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 587934,
-      "num": 587934,
-      "word": "外交部回应中方有何具体惩罚措施",
-      "onboard_time": 1659529252,
-      "rank": 23,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 574223,
       "num": 574223,
       "word": "想看王俊凯孟超",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1659520730,
       "rank": 32,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 567313,
+      "num": 567313,
+      "word": "手机号不用了记得把软件解绑",
+      "onboard_time": 1659530987,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 559412,
@@ -1275,12 +1283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508902,
+      "num": 508902,
+      "word": "张凯 火舞打金蝉",
+      "onboard_time": 1659531586,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 507057,
       "num": 507057,
       "word": "想看断桥",
       "onboard_time": 1659522948,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497349,
+      "num": 497349,
+      "word": "海军任务舰艇已抵达台岛以东",
+      "onboard_time": 1659531769,
+      "rank": 25,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 493645,
@@ -1297,6 +1321,22 @@
       "onboard_time": 1659510592,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483526,
+      "num": 483526,
+      "word": "星汉灿烂",
+      "onboard_time": 1659531827,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482045,
+      "num": 482045,
+      "word": "上海华二附中今年58人进入清北",
+      "onboard_time": 1659528887,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 479674,
@@ -1427,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425426,
+      "num": 425426,
+      "word": "少年派2",
+      "onboard_time": 1659532005,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424982,
       "num": 424982,
       "word": "8月2日新增确诊101例",
@@ -1547,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380612,
-      "num": 380612,
-      "word": "上海华二附中今年58人进入清北",
-      "onboard_time": 1659528887,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 379917,
       "num": 379917,
       "word": "被金晨的情感故事绕懵了",
@@ -1611,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365669,
+      "num": 365669,
+      "word": "看天才基本法第30集不敢眨眼",
+      "onboard_time": 1659530147,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359721,
       "num": 359721,
       "word": "张朝阳谈年轻人想退休",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1659517788,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351933,
-      "num": 351933,
-      "word": "看天才基本法第30集不敢眨眼",
-      "onboard_time": 1659530147,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 350789,
@@ -1683,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344989,
+      "num": 344989,
+      "word": "钱三一叫林妙妙老婆",
+      "onboard_time": 1659531947,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344077,
       "num": 344077,
       "word": "这个世界上真的有超能力",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1659482755,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334226,
+      "num": 334226,
+      "word": "郑州天空频繁出现丁达尔效应",
+      "onboard_time": 1659531409,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 333880,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1659516653,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324007,
+      "num": 324007,
+      "word": "浪姐乐队团综",
+      "onboard_time": 1659529787,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 321921,
@@ -1841,14 +1905,6 @@
       "onboard_time": 1659496934,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297399,
-      "num": 297399,
-      "word": "浪姐乐队团综",
-      "onboard_time": 1659529787,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 294185,
@@ -2019,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237896,
+      "num": 237896,
+      "word": "原来这些东西都是国产的",
+      "onboard_time": 1659530687,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236369,
       "num": 236369,
       "word": "大作家说话都这么幽默的吗",
@@ -2115,6 +2179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213322,
+      "num": 213322,
+      "word": "WBG对战JDG",
+      "onboard_time": 1659532252,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206573,
       "num": 206573,
       "word": "马伯骞桑延丁笑滢温以凡",
@@ -2145,14 +2217,6 @@
       "onboard_time": 1659453779,
       "rank": 36,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 192347,
-      "num": 192347,
-      "word": "原来这些东西都是国产的",
-      "onboard_time": 1659530687,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 189746,
