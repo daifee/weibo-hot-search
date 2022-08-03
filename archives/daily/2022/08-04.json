@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659552239610,
+  "endTime": 1659554248633,
   "band_list": [
     {
       "raw_hot": 4444813,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196495,
+      "num": 196495,
+      "word": "72个工人一拥而上司机半路逃跑",
+      "onboard_time": 1659549076,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196189,
       "num": 196189,
       "word": "天才基本法",
@@ -417,14 +425,6 @@
       "onboard_time": 1659526003,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173846,
-      "num": 173846,
-      "word": "72个工人一拥而上司机半路逃跑",
-      "onboard_time": 1659549076,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145257,
@@ -473,6 +473,14 @@
       "onboard_time": 1659549197,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14406,
+      "num": 19327,
+      "word": "广东17家企业入围世界500强",
+      "onboard_time": 1659554053,
+      "rank": 49,
+      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
