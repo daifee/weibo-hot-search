@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659551228747,
+  "endTime": 1659552239610,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -6923,20 +6923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173846,
+      "num": 173846,
+      "word": "72个工人一拥而上司机半路逃跑",
+      "onboard_time": 1659549076,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170857,
       "num": 170857,
       "word": "一诺",
       "onboard_time": 1659270330,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170455,
-      "num": 170455,
-      "word": "72个工人一拥而上司机半路逃跑",
-      "onboard_time": 1659549076,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168962,
@@ -7105,6 +7105,14 @@
       "onboard_time": 1659363284,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115220,
+      "num": 97473,
+      "word": "张馨予说不管是气质气势没输过",
+      "onboard_time": 1659551655,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 113534,
