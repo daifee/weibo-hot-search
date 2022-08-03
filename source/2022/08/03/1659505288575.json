@@ -1,0 +1,410 @@
+{
+  "runTime": 1659505288575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13221355,
+        "num": 13221355,
+        "word": "俄外交部声明称台湾问题纯属中国内政",
+        "onboard_time": 1659498071,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8546978,
+        "num": 8546978,
+        "word": "对台湾地区暂停天然砂出口",
+        "onboard_time": 1659486543,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4632546,
+        "num": 4632546,
+        "word": "佩洛西丈夫酒驾被捕后体内被检出毒品",
+        "onboard_time": 1659491473,
+        "rank": 2,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 4541217,
+        "num": 4541217,
+        "word": "多国政府发表声明谴责佩洛西窜访台湾",
+        "onboard_time": 1659498971,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 3405207,
+        "num": 3405207,
+        "word": "乌合麒麟新作",
+        "onboard_time": 1659499814,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2890680,
+        "num": 2890680,
+        "word": "国台办回应蔡英文为佩洛西授勋",
+        "onboard_time": 1659502994,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2355898,
+        "num": 2355898,
+        "word": "什么是天然砂",
+        "onboard_time": 1659497409,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1696538,
+        "num": 1696538,
+        "word": "成都一小伙从上地铁跳到换乘",
+        "onboard_time": 1659499572,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300656,
+        "num": 1300656,
+        "word": "8游客未开放海域游泳被卷入海",
+        "onboard_time": 1659499752,
+        "rank": 8,
+        "category": "社会负面,旅游"
+      },
+      {
+        "raw_hot": 1233078,
+        "num": 1233078,
+        "word": "古特雷斯称人类离核毁灭只差一个误判",
+        "onboard_time": 1659498135,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3988217,
+        "num": 1200289,
+        "word": "国台办正告蔡英文",
+        "onboard_time": 1659498911,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3194331,
+        "num": 1125663,
+        "word": "暂停台湾地区柑橘类水果等输入大陆",
+        "onboard_time": 1659488835,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1583923,
+        "num": 1103573,
+        "word": "台媒称解放军军演形同海空锁台3天",
+        "onboard_time": 1659488955,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1450494,
+        "num": 1021904,
+        "word": "台媒曝台交通部门深夜急拟应对方案",
+        "onboard_time": 1659495904,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1258394,
+        "num": 935069,
+        "word": "金融业出台限薪令",
+        "onboard_time": 1659502695,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 928649,
+        "num": 928649,
+        "word": "iPhone14入门版价格或与上代一致",
+        "onboard_time": 1659500417,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 925992,
+        "num": 925992,
+        "word": "暂停台湾地区冰鲜白带鱼输入大陆",
+        "onboard_time": 1659491110,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 852380,
+        "num": 852380,
+        "word": "谋独只会把台湾推向灾难深渊",
+        "onboard_time": 1659496509,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 650372,
+        "num": 650372,
+        "word": "解放军报刊文全军官兵严阵以待",
+        "onboard_time": 1659493393,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 570944,
+        "num": 570944,
+        "word": "对台独顽固分子依法终身追责",
+        "onboard_time": 1659496399,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1717467,
+        "num": 566771,
+        "word": "全台多家711屏幕突现裴洛西滚出台湾",
+        "onboard_time": 1659501324,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965212,
+        "num": 563275,
+        "word": "恐婚的年轻人究竟在怕什么",
+        "onboard_time": 1659498614,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559534,
+        "num": 559534,
+        "word": "杭州不少人遭遇电费单刺客",
+        "onboard_time": 1659502276,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501840,
+        "num": 501840,
+        "word": "断桥",
+        "onboard_time": 1659503822,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489882,
+        "num": 489882,
+        "word": "茅台日赚1.65亿",
+        "onboard_time": 1659500116,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 480846,
+        "num": 480846,
+        "word": "女儿远嫁10年后父母第一次去看望",
+        "onboard_time": 1659493574,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475158,
+        "num": 475158,
+        "word": "东部战区位台岛周边实战化联合演训",
+        "onboard_time": 1659503940,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450640,
+        "num": 450640,
+        "word": "一家5口出游12岁孩子驾车40公里",
+        "onboard_time": 1659504238,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 437011,
+        "num": 437011,
+        "word": "解放军将展开一系列针对性军事行动",
+        "onboard_time": 1659455093,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 431558,
+        "num": 431558,
+        "word": "中方重申台湾问题严正立场",
+        "onboard_time": 1659495313,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 420096,
+        "num": 420096,
+        "word": "台北民众高喊佩洛西滚回去",
+        "onboard_time": 1659455570,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 411509,
+        "num": 411509,
+        "word": "你心中的偶像剧男主人设TOP",
+        "onboard_time": 1659492371,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403661,
+        "num": 403661,
+        "word": "浙江新增本土阳性4例",
+        "onboard_time": 1659503467,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401607,
+        "num": 401607,
+        "word": "台媒称解放军军机深夜加大机队规模",
+        "onboard_time": 1659488651,
+        "rank": 33,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 382093,
+        "num": 382093,
+        "word": "二舅币崩盘又来大舅币",
+        "onboard_time": 1659503997,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 381804,
+        "num": 381804,
+        "word": "苹果不再要求员工戴口罩",
+        "onboard_time": 1659494238,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 336039,
+        "num": 336039,
+        "word": "联合国重申遵循一个中国政策",
+        "onboard_time": 1659486611,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 333165,
+        "num": 333165,
+        "word": "茅台存了价值好多万亿基酒",
+        "onboard_time": 1659490451,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307462,
+        "num": 307462,
+        "word": "微博崩了",
+        "onboard_time": 1659454434,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300828,
+        "num": 300828,
+        "word": "拜登复阳后开始咳嗽",
+        "onboard_time": 1659499394,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281644,
+        "num": 281644,
+        "word": "解放军在台湾岛周边军事演训和实弹射击",
+        "onboard_time": 1659454380,
+        "rank": 40,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 279442,
+        "num": 279442,
+        "word": "农民工父亲每天隔监控陪伴3个孩子",
+        "onboard_time": 1659497774,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266284,
+        "num": 266284,
+        "word": "怦然心动20岁",
+        "onboard_time": 1659501504,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260118,
+        "num": 260118,
+        "word": "许凯密逃4古宅惊魂下剧照",
+        "onboard_time": 1659502933,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259604,
+        "num": 259604,
+        "word": "普通人也能自行发布数字专辑",
+        "onboard_time": 1659505138,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 251834,
+        "num": 251834,
+        "word": "情侣吵架男友酒驾散心女友举报",
+        "onboard_time": 1659503645,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 236508,
+        "num": 236508,
+        "word": "北京和成都的运动时差有多明显",
+        "onboard_time": 1659495552,
+        "rank": 46,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 236013,
+        "num": 236013,
+        "word": "凌不疑程少商树下吻花絮",
+        "onboard_time": 1659497173,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233012,
+        "num": 233012,
+        "word": "笔试3.17分考生题做完答题卡没填完",
+        "onboard_time": 1659486423,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225186,
+        "num": 225186,
+        "word": "青岛另一名落海失联小伙不幸遇难",
+        "onboard_time": 1659503762,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军征途#"
+    }
+  }
+}
