@@ -1,0 +1,410 @@
+{
+  "runTime": 1659562624289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992809,
+        "num": 992809,
+        "word": "解放军27架次军机跨越所谓海峡中线",
+        "onboard_time": 1659543574,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 578482,
+        "num": 578482,
+        "word": "海南三亚进入区域管控状态",
+        "onboard_time": 1659541181,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123716,
+        "num": 295007,
+        "word": "你打你的我打我的",
+        "onboard_time": 1659520372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 241856,
+        "num": 241856,
+        "word": "海军任务舰艇已抵达台岛以东",
+        "onboard_time": 1659531769,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 212713,
+        "num": 212713,
+        "word": "日本称无法就是否支持佩洛西访台发表评论",
+        "onboard_time": 1659526724,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 159038,
+        "num": 159038,
+        "word": "宝宝被枕头闷住连扇四巴掌打醒妈妈",
+        "onboard_time": 1659547343,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102057,
+        "num": 102057,
+        "word": "72个工人一拥而上司机半路逃跑",
+        "onboard_time": 1659549076,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89670,
+        "num": 89670,
+        "word": "新东方花近200亿退学费和遣散费",
+        "onboard_time": 1659533091,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 89414,
+        "num": 89414,
+        "word": "张朝阳称脱光待着就能减肥",
+        "onboard_time": 1659540404,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 88912,
+        "num": 88912,
+        "word": "伊朗外交部声明支持一个中国原则",
+        "onboard_time": 1659541897,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 85328,
+        "num": 85328,
+        "word": "义乌新增33例新冠病毒阳性感染者",
+        "onboard_time": 1659535789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79961,
+        "num": 79961,
+        "word": "年轻人为什么不爱办传统婚礼",
+        "onboard_time": 1659540224,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 77191,
+        "num": 77191,
+        "word": "佩洛西暴露遏制中国发展的险恶用心",
+        "onboard_time": 1659515809,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 74195,
+        "num": 74195,
+        "word": "王者荣耀",
+        "onboard_time": 1659529426,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60518,
+        "num": 60518,
+        "word": "白象方便面被曝面饼上满是蚂蚁",
+        "onboard_time": 1659525279,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58877,
+        "num": 58877,
+        "word": "长津湖战役爆破水门桥英雄逝世",
+        "onboard_time": 1659537528,
+        "rank": 15,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 56023,
+        "num": 56023,
+        "word": "入职当天就离职是什么体验",
+        "onboard_time": 1659544112,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53398,
+        "num": 53398,
+        "word": "外交部回应中方有何具体惩罚措施",
+        "onboard_time": 1659529252,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 52784,
+        "num": 52784,
+        "word": "越妃怼人",
+        "onboard_time": 1659539626,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48473,
+        "num": 48473,
+        "word": "南方的蟑螂真的会把人吓哭",
+        "onboard_time": 1659546264,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93111,
+        "num": 45282,
+        "word": "江西安福幼儿园刑事案嫌疑人被抓",
+        "onboard_time": 1659540764,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63430,
+        "num": 45243,
+        "word": "江西幼儿园刑案幼儿家长发声",
+        "onboard_time": 1659537172,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56248,
+        "num": 43502,
+        "word": "杭州老破小成交越来越难",
+        "onboard_time": 1659560351,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 41606,
+        "num": 41606,
+        "word": "市民投诉学校暑期不开放致无地锻炼",
+        "onboard_time": 1659538427,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37924,
+        "num": 37924,
+        "word": "寄养金毛疑中暑去世被店家私埋",
+        "onboard_time": 1659536268,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37227,
+        "num": 37227,
+        "word": "羊屁屁到底有多解压",
+        "onboard_time": 1659537349,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35917,
+        "num": 35917,
+        "word": "新闻联播",
+        "onboard_time": 1659525647,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33464,
+        "num": 33464,
+        "word": "郑州天空频繁出现丁达尔效应",
+        "onboard_time": 1659531409,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 33337,
+        "num": 33337,
+        "word": "星汉灿烂",
+        "onboard_time": 1659531827,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30729,
+        "num": 30729,
+        "word": "康辉",
+        "onboard_time": 1659529668,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54864,
+        "num": 30529,
+        "word": "周震南父亲公司被市监局起诉",
+        "onboard_time": 1659536148,
+        "rank": 30,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 29381,
+        "num": 29381,
+        "word": "爆火的新疆旅游值得去吗",
+        "onboard_time": 1659542256,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 29198,
+        "num": 29198,
+        "word": "沉香如屑",
+        "onboard_time": 1659538848,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27536,
+        "num": 27536,
+        "word": "广东17家企业入围世界500强",
+        "onboard_time": 1659554053,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 26315,
+        "num": 26315,
+        "word": "父亲拍摄陌生人假肢来激励截肢儿子",
+        "onboard_time": 1659534529,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24765,
+        "num": 24765,
+        "word": "情头",
+        "onboard_time": 1659538967,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24707,
+        "num": 24707,
+        "word": "两个裴之争夺身体",
+        "onboard_time": 1659533629,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24503,
+        "num": 24503,
+        "word": "林妙妙化妆像极了佟湘玉",
+        "onboard_time": 1659536870,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23746,
+        "num": 23746,
+        "word": "WBG ON",
+        "onboard_time": 1659537649,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22184,
+        "num": 22184,
+        "word": "电影新雪山飞狐豆瓣6.5分",
+        "onboard_time": 1659558912,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22152,
+        "num": 22152,
+        "word": "天才基本法",
+        "onboard_time": 1659536811,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19834,
+        "num": 19834,
+        "word": "程少商婆家大闹定亲宴",
+        "onboard_time": 1659526968,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19408,
+        "num": 19408,
+        "word": "四川疑现恐龙同时代生物仙女虾",
+        "onboard_time": 1659540883,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18930,
+        "num": 18930,
+        "word": "4岁娃办身份证对民警敬3个礼",
+        "onboard_time": 1659561613,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18691,
+        "num": 18691,
+        "word": "解放军明显在演练全面封锁台岛",
+        "onboard_time": 1659507239,
+        "rank": 44,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 17220,
+        "num": 17220,
+        "word": "上午在西湖中午逛龙门石窟",
+        "onboard_time": 1659561732,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 17117,
+        "num": 17117,
+        "word": "林志颖哥哥报平安",
+        "onboard_time": 1659519170,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15592,
+        "num": 15592,
+        "word": "张馨予说不管是气质气势没输过",
+        "onboard_time": 1659551655,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15300,
+        "num": 15300,
+        "word": "月升沧海第七集",
+        "onboard_time": 1659537947,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14508,
+        "num": 14508,
+        "word": "钱三一叫林妙妙老婆",
+        "onboard_time": 1659531947,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#维护领土完整是14亿多中国人民的意志#"
+    }
+  }
+}
