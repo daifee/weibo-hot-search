@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659548326013,
+  "endTime": 1659551228747,
   "band_list": [
     {
       "raw_hot": 4444813,
@@ -179,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 484886,
+      "num": 484886,
+      "word": "南方的蟑螂真的会把人吓哭",
+      "onboard_time": 1659546264,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468036,
       "num": 468036,
       "word": "义乌新增33例新冠病毒阳性感染者",
@@ -192,6 +200,14 @@
       "word": "白象方便面被曝面饼上满是蚂蚁",
       "onboard_time": 1659525279,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445870,
+      "num": 445870,
+      "word": "宝宝被枕头闷住连扇四巴掌打醒妈妈",
+      "onboard_time": 1659547343,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1659541780,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312865,
-      "num": 312865,
-      "word": "南方的蟑螂真的会把人吓哭",
-      "onboard_time": 1659546264,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 297336,
@@ -411,20 +419,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170455,
+      "num": 170455,
+      "word": "72个工人一拥而上司机半路逃跑",
+      "onboard_time": 1659549076,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145257,
       "num": 145257,
       "word": "任子威挥汗如雨",
       "onboard_time": 1659544890,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110191,
-      "num": 110191,
-      "word": "宝宝被枕头闷住连扇四巴掌打醒妈妈",
-      "onboard_time": 1659547343,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82402,
@@ -448,6 +456,14 @@
       "word": "钱三一出息了",
       "onboard_time": 1659548060,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 58129,
+      "num": 58129,
+      "word": "马思纯断桥哭戏",
+      "onboard_time": 1659549197,
+      "rank": 34,
       "category": "影视"
     }
   ],
