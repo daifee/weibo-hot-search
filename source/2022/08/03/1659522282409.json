@@ -1,0 +1,410 @@
+{
+  "runTime": 1659522282409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11492983,
+        "num": 11492983,
+        "word": "解放军明显在演练全面封锁台岛",
+        "onboard_time": 1659507239,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 4619975,
+        "num": 4739951,
+        "word": "佩洛西暴露遏制中国发展的险恶用心",
+        "onboard_time": 1659515809,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3674292,
+        "num": 3674292,
+        "word": "你打你的我打我的",
+        "onboard_time": 1659520372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3502064,
+        "num": 3502064,
+        "word": "华春莹一句中国古话讲给美国官员",
+        "onboard_time": 1659516228,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2662246,
+        "num": 2662246,
+        "word": "历史不会浓缩于一个晚上",
+        "onboard_time": 1659511433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2598315,
+        "num": 2598315,
+        "word": "韩总统办公室回应佩洛西访台",
+        "onboard_time": 1659510714,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1946704,
+        "num": 1946704,
+        "word": "相信中国人民是理性爱国的",
+        "onboard_time": 1659518749,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1902852,
+        "num": 1902852,
+        "word": "台铁车站屏幕突现老巫婆窜访台湾",
+        "onboard_time": 1659514189,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1595823,
+        "num": 1595823,
+        "word": "百花奖总导演致歉",
+        "onboard_time": 1659510117,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1162579,
+        "num": 1162579,
+        "word": "南京公交道歉",
+        "onboard_time": 1659515271,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2369478,
+        "num": 1110416,
+        "word": "林志颖哥哥报平安",
+        "onboard_time": 1659519170,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2152248,
+        "num": 1084992,
+        "word": "时代峰峻否认高价倒卖签名照",
+        "onboard_time": 1659520909,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1746090,
+        "num": 1073696,
+        "word": "华春莹回应是否针对佩洛西本人制裁",
+        "onboard_time": 1659518210,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1050955,
+        "num": 1050955,
+        "word": "男子新婚后离世公婆求退彩礼遭拒",
+        "onboard_time": 1659512752,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985540,
+        "num": 985540,
+        "word": "佩洛西窜访台湾是一场非常丑陋真人秀",
+        "onboard_time": 1659519950,
+        "rank": 14,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 955013,
+        "num": 955013,
+        "word": "韩素希脸部受伤",
+        "onboard_time": 1659509038,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834070,
+        "num": 834070,
+        "word": "国台办回应蔡英文为佩洛西授勋",
+        "onboard_time": 1659502994,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 815067,
+        "num": 815067,
+        "word": "崔始源二次确诊新冠",
+        "onboard_time": 1659519653,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747500,
+        "num": 747500,
+        "word": "北京一居民家中惊现极危物种圆鼻巨蜥",
+        "onboard_time": 1659517729,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731132,
+        "num": 731132,
+        "word": "东部战区位台岛周边演训视频",
+        "onboard_time": 1659510535,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 730697,
+        "num": 730697,
+        "word": "安福警方称已掌握嫌犯逃窜方位和路线",
+        "onboard_time": 1659519170,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629531,
+        "num": 629531,
+        "word": "官方回应建议取消笔试摘口罩考生成绩",
+        "onboard_time": 1659514911,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 611242,
+        "num": 611242,
+        "word": "海南三亚新增10例确诊和1例无症状",
+        "onboard_time": 1659518572,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610431,
+        "num": 610431,
+        "word": "桃园机场明日取消40个航班",
+        "onboard_time": 1659506032,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 601619,
+        "num": 601619,
+        "word": "两市近3000股下跌",
+        "onboard_time": 1659518270,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 531903,
+        "num": 531903,
+        "word": "朱一龙品牌直播活动取消",
+        "onboard_time": 1659520909,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524012,
+        "num": 524012,
+        "word": "王俊凯断桥演逃亡少年",
+        "onboard_time": 1659521571,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512154,
+        "num": 512154,
+        "word": "80后父母将两女儿分别送上清华北大",
+        "onboard_time": 1659518030,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452614,
+        "num": 452614,
+        "word": "李玟",
+        "onboard_time": 1659515211,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415759,
+        "num": 415759,
+        "word": "Angelababy赖冠霖玩游戏互相套路",
+        "onboard_time": 1659515090,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393107,
+        "num": 393107,
+        "word": "断桥",
+        "onboard_time": 1659503822,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388230,
+        "num": 388230,
+        "word": "苏妙玲 海姆立克急救法",
+        "onboard_time": 1659513831,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376634,
+        "num": 376634,
+        "word": "白宫官员还在狡辩",
+        "onboard_time": 1659520730,
+        "rank": 32,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 366674,
+        "num": 366674,
+        "word": "00后入职宿管阿姨",
+        "onboard_time": 1659510418,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359484,
+        "num": 359484,
+        "word": "广州一公司招聘助理要陪客户睡觉",
+        "onboard_time": 1659505378,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350268,
+        "num": 350268,
+        "word": "95后小伙做陪诊师月入过万",
+        "onboard_time": 1659514071,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346229,
+        "num": 346229,
+        "word": "小猪和香蕉窝太适配了",
+        "onboard_time": 1659520251,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338338,
+        "num": 338338,
+        "word": "情侣为买七夕礼物4天偷188块电瓶",
+        "onboard_time": 1659512154,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327938,
+        "num": 327938,
+        "word": "崔叡娜回归",
+        "onboard_time": 1659519468,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316843,
+        "num": 316843,
+        "word": "天才基本法父母爱情",
+        "onboard_time": 1659521270,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311630,
+        "num": 311630,
+        "word": "高管沉迷网赌骗借同事2230万",
+        "onboard_time": 1659517608,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310445,
+        "num": 310445,
+        "word": "伊甸园",
+        "onboard_time": 1659517430,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282938,
+        "num": 282938,
+        "word": "无法阻挡中国实现完全统一的历史趋势",
+        "onboard_time": 1659522053,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 282316,
+        "num": 282316,
+        "word": "河南省将发放600万元体育健身优惠券",
+        "onboard_time": 1659513771,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279730,
+        "num": 279730,
+        "word": "为什么很多人不愿谈恋爱",
+        "onboard_time": 1659513891,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278535,
+        "num": 278535,
+        "word": "小区起火主人背狗从38层楼逃生",
+        "onboard_time": 1659515271,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277476,
+        "num": 277476,
+        "word": "北大终止陈春花聘用合同",
+        "onboard_time": 1659508978,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 275192,
+        "num": 275192,
+        "word": "北京新增一本土感染者",
+        "onboard_time": 1659520610,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240777,
+        "num": 240777,
+        "word": "跟喜欢的人结婚会是什么样子",
+        "onboard_time": 1659521270,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233921,
+        "num": 233921,
+        "word": "宁德时代暂停北美工厂项目",
+        "onboard_time": 1659522226,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#维护领土完整是14亿多中国人民的意志#"
+    }
+  }
+}
