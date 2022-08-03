@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659526501677,
+  "endTime": 1659530735400,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -113,6 +113,14 @@
       "onboard_time": 1659349890,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 13883770,
+      "num": 13923447,
+      "word": "新闻联播",
+      "onboard_time": 1659525647,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13299366,
@@ -299,6 +307,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 5297791,
+      "num": 6095583,
+      "word": "日本称无法就是否支持佩洛西访台发表评论",
+      "onboard_time": 1659526724,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 5283583,
       "num": 5283583,
       "word": "中国网直播",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 3853551,
-      "num": 3853551,
+      "num": 4356825,
       "word": "你打你的我打我的",
       "onboard_time": 1659520372,
       "rank": 2,
@@ -505,6 +521,14 @@
       "onboard_time": 1659356597,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3656072,
+      "num": 3656072,
+      "word": "大爷出轨小30岁女子9个月花430万",
+      "onboard_time": 1659527869,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3654285,
@@ -649,6 +673,14 @@
       "onboard_time": 1659436194,
       "rank": 7,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 3161433,
+      "num": 3161433,
+      "word": "白象方便面被曝面饼上满是蚂蚁",
+      "onboard_time": 1659525279,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3097728,
@@ -939,14 +971,6 @@
       "category": "国内要闻,社会新闻"
     },
     {
-      "raw_hot": 2219170,
-      "num": 2219170,
-      "word": "新闻联播",
-      "onboard_time": 1659525647,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2198055,
       "num": 2198055,
       "word": "一家5口出游12岁孩子驾车40公里",
@@ -1067,6 +1091,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 1988467,
+      "num": 1988467,
+      "word": "涉台独嫌犯杨智渊被刑事拘传审查",
+      "onboard_time": 1659526666,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1955185,
       "num": 1955185,
       "word": "南京公交道歉",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1659401680,
       "rank": 7,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1911001,
-      "num": 1911001,
-      "word": "白象方便面被曝面饼上满是蚂蚁",
-      "onboard_time": 1659525279,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1902852,
@@ -1384,6 +1408,14 @@
       "word": "笔试3.17分考生题做完答题卡没填完",
       "onboard_time": 1659486423,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1570158,
+      "num": 1570158,
+      "word": "江西幼儿园行凶男子照片曝光",
+      "onboard_time": 1659524981,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1803,6 +1835,22 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 1078901,
+      "num": 1078901,
+      "word": "程少商婆家大闹定亲宴",
+      "onboard_time": 1659526968,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1076876,
+      "num": 615324,
+      "word": "苏妙玲 谢谢大家用爱包围我",
+      "onboard_time": 1659530327,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1074176,
       "num": 1074176,
       "word": "玉骨遥",
@@ -1819,11 +1867,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1066635,
-      "num": 1066635,
-      "word": "江西幼儿园行凶男子照片曝光",
-      "onboard_time": 1659524981,
-      "rank": 31,
+      "raw_hot": 1064115,
+      "num": 1064115,
+      "word": "康辉",
+      "onboard_time": 1659529668,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1931,6 +1979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 977225,
+      "num": 977225,
+      "word": "长沙生育二孩以上家庭增加1套购房指标",
+      "onboard_time": 1659528350,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 972274,
       "num": 972274,
       "word": "杨幂狐妖小红娘红衣造型",
@@ -1992,6 +2048,14 @@
       "word": "北京海淀一小区惊现怪鱼",
       "onboard_time": 1659484139,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 945812,
+      "num": 945812,
+      "word": "一危害国家安全嫌犯被刑事拘传审查",
+      "onboard_time": 1659528170,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2411,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737372,
+      "num": 737372,
+      "word": "孙尚香说唱新皮肤",
+      "onboard_time": 1659528830,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 731603,
       "num": 731603,
       "word": "伊能静工作室回应",
@@ -2731,6 +2803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 621611,
+      "num": 621611,
+      "word": "小狗突然就没电了",
+      "onboard_time": 1659528411,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 620787,
       "num": 620787,
       "word": "倚美谋独死路一条",
@@ -2857,6 +2937,22 @@
       "onboard_time": 1659507116,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 590686,
+      "num": 590686,
+      "word": "王者荣耀",
+      "onboard_time": 1659529426,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 587934,
+      "num": 587934,
+      "word": "外交部回应中方有何具体惩罚措施",
+      "onboard_time": 1659529252,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 587336,
@@ -3691,6 +3787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445285,
+      "num": 445285,
+      "word": "军工股迎来涨停潮",
+      "onboard_time": 1659525944,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 445055,
       "num": 445055,
       "word": "黄铉辰撒娇",
@@ -4107,6 +4211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399243,
+      "num": 399243,
+      "word": "沉香如屑凡间副本好甜",
+      "onboard_time": 1659529607,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397956,
       "num": 397956,
       "word": "北京7月31日新增1例本土确诊",
@@ -4281,6 +4393,14 @@
       "onboard_time": 1659318146,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380612,
+      "num": 380612,
+      "word": "上海华二附中今年58人进入清北",
+      "onboard_time": 1659528887,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 379917,
@@ -4569,6 +4689,14 @@
       "onboard_time": 1659517788,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351933,
+      "num": 351933,
+      "word": "看天才基本法第30集不敢眨眼",
+      "onboard_time": 1659530147,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 350789,
@@ -5147,6 +5275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297399,
+      "num": 297399,
+      "word": "浪姐乐队团综",
+      "onboard_time": 1659529787,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297300,
       "num": 297300,
       "word": "直男把送礼给整明白了",
@@ -5283,12 +5419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280891,
-      "num": 280891,
-      "word": "军工股迎来涨停潮",
-      "onboard_time": 1659525944,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 280365,
+      "num": 280365,
+      "word": "TES",
+      "onboard_time": 1659526366,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 280230,
@@ -5563,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259251,
+      "num": 259251,
+      "word": "芝士裴之宣战草莓裴之",
+      "onboard_time": 1659528949,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258832,
       "num": 258832,
       "word": "张卫国的夏天豆瓣6.7",
@@ -5731,20 +5875,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236369,
+      "num": 236369,
+      "word": "大作家说话都这么幽默的吗",
+      "onboard_time": 1659529607,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236286,
       "num": 236286,
       "word": "时代少年团哭泣的游戏立意",
       "onboard_time": 1659425683,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235329,
-      "num": 235329,
-      "word": "TES",
-      "onboard_time": 1659526366,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 235058,
@@ -5761,6 +5905,14 @@
       "onboard_time": 1659353735,
       "rank": 35,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 234007,
+      "num": 234007,
+      "word": "WB对战TTG",
+      "onboard_time": 1659528231,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 233869,
@@ -5881,6 +6033,14 @@
       "onboard_time": 1659429832,
       "rank": 47,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 222554,
+      "num": 222554,
+      "word": "未来中国收官",
+      "onboard_time": 1659530327,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 222400,
@@ -6153,6 +6313,14 @@
       "onboard_time": 1659453779,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 192347,
+      "num": 192347,
+      "word": "原来这些东西都是国产的",
+      "onboard_time": 1659530687,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 190787,
