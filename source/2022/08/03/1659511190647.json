@@ -1,0 +1,410 @@
+{
+  "runTime": 1659511190647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11488740,
+        "num": 11488740,
+        "word": "国台办回应蔡英文为佩洛西授勋",
+        "onboard_time": 1659502994,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 10491757,
+        "num": 11418005,
+        "word": "解放军明显在演练全面封锁台岛",
+        "onboard_time": 1659507239,
+        "rank": 1,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 6792135,
+        "num": 6877905,
+        "word": "桃园机场明日取消40个航班",
+        "onboard_time": 1659506032,
+        "rank": 2,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 3371340,
+        "num": 3371340,
+        "word": "蔡英文之流抱着美国的粗腿不放",
+        "onboard_time": 1659507776,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2832440,
+        "num": 2832440,
+        "word": "北大终止陈春花聘用合同",
+        "onboard_time": 1659508978,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2590938,
+        "num": 2590938,
+        "word": "韩素希脸部受伤",
+        "onboard_time": 1659509038,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2530165,
+        "num": 2530165,
+        "word": "俄外交部声明称台湾问题纯属中国内政",
+        "onboard_time": 1659498071,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2180541,
+        "num": 2180541,
+        "word": "若被列为支恐国家俄或与美断交",
+        "onboard_time": 1659505673,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1395030,
+        "num": 1395030,
+        "word": "多国政府发表声明谴责佩洛西窜访台湾",
+        "onboard_time": 1659498971,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1316174,
+        "num": 1316174,
+        "word": "一家5口出游12岁孩子驾车40公里",
+        "onboard_time": 1659504238,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 2131888,
+        "num": 1310031,
+        "word": "百花奖总导演致歉",
+        "onboard_time": 1659510117,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1919703,
+        "num": 1307758,
+        "word": "全台多家711屏幕突现裴洛西滚出台湾",
+        "onboard_time": 1659501324,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268161,
+        "num": 1268161,
+        "word": "苏妙玲救起卡喉幼童",
+        "onboard_time": 1659509518,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1172685,
+        "num": 1172685,
+        "word": "广州一公司招聘助理要陪客户睡觉",
+        "onboard_time": 1659505378,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079694,
+        "num": 1079694,
+        "word": "苹果不再是全球最赚钱公司",
+        "onboard_time": 1659507957,
+        "rank": 14,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 886001,
+        "num": 886001,
+        "word": "乌合麒麟新作",
+        "onboard_time": 1659499814,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854764,
+        "num": 854764,
+        "word": "国台办正告蔡英文",
+        "onboard_time": 1659498911,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 762939,
+        "num": 762939,
+        "word": "断桥",
+        "onboard_time": 1659503822,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689897,
+        "num": 689897,
+        "word": "对台湾地区暂停天然砂出口",
+        "onboard_time": 1659486543,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 636148,
+        "num": 636148,
+        "word": "金融业出台限薪令",
+        "onboard_time": 1659502695,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 855350,
+        "num": 631412,
+        "word": "已婚女同时交往18名男子行骗",
+        "onboard_time": 1659509813,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602724,
+        "num": 602724,
+        "word": "房贷借款人提前还贷明显增多",
+        "onboard_time": 1659505914,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 3013003,
+        "num": 602683,
+        "word": "江西一男子幼儿园行凶致3死6伤",
+        "onboard_time": 1659508256,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602551,
+        "num": 602551,
+        "word": "江西幼儿园命案已锁定犯罪嫌疑人",
+        "onboard_time": 1659509873,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592058,
+        "num": 592058,
+        "word": "海巡06轮在福建南部海域巡航执法",
+        "onboard_time": 1659506876,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 558262,
+        "num": 558262,
+        "word": "杭州不少人遭遇电费单刺客",
+        "onboard_time": 1659502276,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551856,
+        "num": 551856,
+        "word": "什么是天然砂",
+        "onboard_time": 1659497409,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470894,
+        "num": 470894,
+        "word": "东部战区位台岛周边演训视频",
+        "onboard_time": 1659510535,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458134,
+        "num": 458134,
+        "word": "韩总统办公室回应佩洛西访台",
+        "onboard_time": 1659510714,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 452393,
+        "num": 452393,
+        "word": "阿根廷学者称佩洛西的做法是丑陋的",
+        "onboard_time": 1659508676,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445407,
+        "num": 445407,
+        "word": "东部战区位台岛周边实战化联合演训",
+        "onboard_time": 1659503940,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441767,
+        "num": 441767,
+        "word": "赵露思程少商落水记视频",
+        "onboard_time": 1659510592,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431465,
+        "num": 431465,
+        "word": "开展地铁公交猥亵妇女专项打击",
+        "onboard_time": 1659508315,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 411661,
+        "num": 411661,
+        "word": "陈春花公开信",
+        "onboard_time": 1659506452,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 385335,
+        "num": 385335,
+        "word": "台媒称解放军军演形同海空锁台3天",
+        "onboard_time": 1659488955,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 379917,
+        "num": 379917,
+        "word": "被金晨的情感故事绕懵了",
+        "onboard_time": 1659509696,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377854,
+        "num": 377854,
+        "word": "义乌集中隔离点发现4例阳性感染者",
+        "onboard_time": 1659506755,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357734,
+        "num": 357734,
+        "word": "情侣吵架男友酒驾散心女友举报",
+        "onboard_time": 1659503645,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 356436,
+        "num": 356436,
+        "word": "光遇",
+        "onboard_time": 1659507116,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350789,
+        "num": 350789,
+        "word": "山西汾阳景区游客坠亡监控曝光",
+        "onboard_time": 1659509455,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 345273,
+        "num": 345273,
+        "word": "犯我中华者必将受惩处",
+        "onboard_time": 1659507593,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 339576,
+        "num": 339576,
+        "word": "恐婚的年轻人究竟在怕什么",
+        "onboard_time": 1659498614,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315547,
+        "num": 315547,
+        "word": "00后入职宿管阿姨",
+        "onboard_time": 1659510418,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311510,
+        "num": 311510,
+        "word": "iPhone14入门版价格或与上代一致",
+        "onboard_time": 1659500417,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306136,
+        "num": 306136,
+        "word": "气象飞艇没有惹任何人",
+        "onboard_time": 1659510592,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300225,
+        "num": 300225,
+        "word": "股市",
+        "onboard_time": 1659510835,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 286318,
+        "num": 286318,
+        "word": "陈春花承认博士学位未被认证",
+        "onboard_time": 1659510955,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283926,
+        "num": 283926,
+        "word": "暂停台湾地区柑橘类水果等输入大陆",
+        "onboard_time": 1659488835,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 275380,
+        "num": 275380,
+        "word": "佩洛西丈夫酒驾被捕后体内被检出毒品",
+        "onboard_time": 1659491473,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 271378,
+        "num": 271378,
+        "word": "成都一小伙从上地铁跳到换乘",
+        "onboard_time": 1659499572,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界上只有一个中国#"
+    }
+  }
+}
