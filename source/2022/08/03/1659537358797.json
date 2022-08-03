@@ -1,0 +1,410 @@
+{
+  "runTime": 1659537358797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11559448,
+        "num": 11559448,
+        "word": "日本称无法就是否支持佩洛西访台发表评论",
+        "onboard_time": 1659526724,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 4972102,
+        "num": 4972102,
+        "word": "新闻联播",
+        "onboard_time": 1659525647,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2814832,
+        "num": 3988459,
+        "word": "你打你的我打我的",
+        "onboard_time": 1659520372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3390473,
+        "num": 3390473,
+        "word": "海军任务舰艇已抵达台岛以东",
+        "onboard_time": 1659531769,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2898203,
+        "num": 2898203,
+        "word": "新东方花近200亿退学费和遣散费",
+        "onboard_time": 1659533091,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2514470,
+        "num": 2514470,
+        "word": "郑州天空频繁出现丁达尔效应",
+        "onboard_time": 1659531409,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1991022,
+        "num": 1991022,
+        "word": "义乌新增33例新冠病毒阳性感染者",
+        "onboard_time": 1659535789,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1634756,
+        "num": 1634756,
+        "word": "白象方便面被曝面饼上满是蚂蚁",
+        "onboard_time": 1659525279,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381699,
+        "num": 1381699,
+        "word": "外交部回应中方有何具体惩罚措施",
+        "onboard_time": 1659529252,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1213665,
+        "num": 1213665,
+        "word": "王者荣耀",
+        "onboard_time": 1659529426,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1099615,
+        "num": 1099615,
+        "word": "佩洛西暴露遏制中国发展的险恶用心",
+        "onboard_time": 1659515809,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1056039,
+        "num": 1056039,
+        "word": "周震南父亲公司被市监局起诉",
+        "onboard_time": 1659536148,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 887409,
+        "num": 887409,
+        "word": "解放军明显在演练全面封锁台岛",
+        "onboard_time": 1659507239,
+        "rank": 12,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 816442,
+        "num": 816442,
+        "word": "程少商婆家大闹定亲宴",
+        "onboard_time": 1659526968,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1543836,
+        "num": 782497,
+        "word": "康辉",
+        "onboard_time": 1659529668,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730944,
+        "num": 730944,
+        "word": "新冠康复者找几十份工作都被拒",
+        "onboard_time": 1659536148,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719084,
+        "num": 719084,
+        "word": "父亲拍摄陌生人假肢来激励截肢儿子",
+        "onboard_time": 1659534529,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703235,
+        "num": 703235,
+        "word": "手机号不用了记得把软件解绑",
+        "onboard_time": 1659530987,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 691364,
+        "num": 691364,
+        "word": "钱三一叫林妙妙老婆",
+        "onboard_time": 1659531947,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 680689,
+        "num": 680689,
+        "word": "网红自曝一天带货2亿净赚400万元",
+        "onboard_time": 1659536811,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694224,
+        "num": 672743,
+        "word": "苏妙玲 谢谢大家用爱包围我",
+        "onboard_time": 1659530327,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646910,
+        "num": 646910,
+        "word": "凌不疑为程少商替换虎符",
+        "onboard_time": 1659533808,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 636471,
+        "num": 636471,
+        "word": "华春莹一句中国古话讲给美国官员",
+        "onboard_time": 1659516228,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 573243,
+        "num": 573243,
+        "word": "恒大跌出财富世界500强",
+        "onboard_time": 1659535012,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 558991,
+        "num": 558991,
+        "word": "两个裴之争夺身体",
+        "onboard_time": 1659533629,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532221,
+        "num": 532221,
+        "word": "涉台独嫌犯杨智渊被刑事拘传审查",
+        "onboard_time": 1659526666,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 527821,
+        "num": 527821,
+        "word": "天才基本法",
+        "onboard_time": 1659536811,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501390,
+        "num": 501390,
+        "word": "月升沧海 剧情",
+        "onboard_time": 1659533750,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461457,
+        "num": 461457,
+        "word": "WBG 双C",
+        "onboard_time": 1659532912,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460284,
+        "num": 460284,
+        "word": "林志颖哥哥报平安",
+        "onboard_time": 1659519170,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422914,
+        "num": 422914,
+        "word": "林妙妙化妆像极了佟湘玉",
+        "onboard_time": 1659536870,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393234,
+        "num": 393234,
+        "word": "颜淡被打回原型",
+        "onboard_time": 1659526003,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392177,
+        "num": 392177,
+        "word": "寄养金毛疑中暑去世被店家私埋",
+        "onboard_time": 1659536268,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385087,
+        "num": 385087,
+        "word": "情侣为买七夕礼物4天偷188块电瓶",
+        "onboard_time": 1659512154,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378174,
+        "num": 378174,
+        "word": "小狗突然就没电了",
+        "onboard_time": 1659528411,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377957,
+        "num": 377957,
+        "word": "一危害国家安全嫌犯被刑事拘传审查",
+        "onboard_time": 1659528170,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371278,
+        "num": 371278,
+        "word": "颜淡唐周棺配一起下墓了",
+        "onboard_time": 1659536688,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366152,
+        "num": 366152,
+        "word": "长沙生育二孩以上家庭增加1套购房指标",
+        "onboard_time": 1659528350,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 365711,
+        "num": 365711,
+        "word": "佩洛西口中的民主是爬满虱子的袍子",
+        "onboard_time": 1659523849,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 363710,
+        "num": 363710,
+        "word": "何幸福宁檬贺顿棠雪七夕同框",
+        "onboard_time": 1659535431,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340033,
+        "num": 340033,
+        "word": "宁德时代暂停北美工厂项目",
+        "onboard_time": 1659522226,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 333635,
+        "num": 333635,
+        "word": "被0713的真诚戳到了",
+        "onboard_time": 1659532791,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322716,
+        "num": 322716,
+        "word": "星汉灿烂",
+        "onboard_time": 1659531827,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294927,
+        "num": 294927,
+        "word": "江西幼儿园刑案幼儿家长发声",
+        "onboard_time": 1659537172,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278242,
+        "num": 278242,
+        "word": "上海华二附中今年58人进入清北",
+        "onboard_time": 1659528887,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 278153,
+        "num": 278153,
+        "word": "蛙泳居然这么丝滑",
+        "onboard_time": 1659535190,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270612,
+        "num": 270612,
+        "word": "宝可梦朱紫",
+        "onboard_time": 1659534410,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261143,
+        "num": 261143,
+        "word": "比亚迪入榜世界500强",
+        "onboard_time": 1659537111,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235501,
+        "num": 235501,
+        "word": "JDG战胜WBG",
+        "onboard_time": 1659535372,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234827,
+        "num": 234827,
+        "word": "羊屁屁到底有多解压",
+        "onboard_time": 1659537349,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界上只有一个中国#"
+    }
+  }
+}
