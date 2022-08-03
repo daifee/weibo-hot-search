@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659525499432,
+  "endTime": 1659526501677,
   "band_list": [
     {
       "raw_hot": 22430807,
@@ -187,6 +187,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 4163283,
+      "num": 4163283,
+      "word": "宁德时代暂停北美工厂项目",
+      "onboard_time": 1659522226,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 3949819,
       "num": 3949819,
       "word": "志愿军14昼夜打退美军30多次进攻",
@@ -209,14 +217,6 @@
       "onboard_time": 1659520372,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3808041,
-      "num": 3808041,
-      "word": "宁德时代暂停北美工厂项目",
-      "onboard_time": 1659522226,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 3650365,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 2369478,
-      "num": 1263226,
+      "num": 1575467,
       "word": "林志颖哥哥报平安",
       "onboard_time": 1659519170,
       "rank": 42,
@@ -401,6 +401,14 @@
       "onboard_time": 1659519950,
       "rank": 14,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2219170,
+      "num": 2219170,
+      "word": "新闻联播",
+      "onboard_time": 1659525647,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2198055,
@@ -464,6 +472,14 @@
       "word": "广州一公司招聘助理要陪客户睡觉",
       "onboard_time": 1659505378,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1911001,
+      "num": 1911001,
+      "word": "白象方便面被曝面饼上满是蚂蚁",
+      "onboard_time": 1659525279,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1124645,
+      "num": 1124645,
+      "word": "佩洛西口中的民主是爬满虱子的袍子",
+      "onboard_time": 1659523849,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1112390,
       "num": 1112390,
       "word": "杭州不少人遭遇电费单刺客",
@@ -705,6 +729,14 @@
       "onboard_time": 1659523250,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1066635,
+      "num": 1066635,
+      "word": "江西幼儿园行凶男子照片曝光",
+      "onboard_time": 1659524981,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 987164,
@@ -891,20 +923,28 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 692477,
-      "num": 692477,
-      "word": "佩洛西口中的民主是爬满虱子的袍子",
-      "onboard_time": 1659523849,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 684257,
       "num": 684257,
       "word": "美国不要幻想阻挠中国的统一大业",
       "onboard_time": 1659486128,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 660502,
+      "num": 660502,
+      "word": "颜淡被打回原型",
+      "onboard_time": 1659526003,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660181,
+      "num": 660181,
+      "word": "凌不疑程少商初吻",
+      "onboard_time": 1659524805,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 659932,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1659507116,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 590334,
-      "num": 590334,
-      "word": "凌不疑程少商初吻",
-      "onboard_time": 1659524805,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 574223,
@@ -1371,12 +1403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401695,
-      "num": 401695,
-      "word": "江西幼儿园行凶男子照片曝光",
-      "onboard_time": 1659524981,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 400261,
+      "num": 400261,
+      "word": "KPL",
+      "onboard_time": 1659525165,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 393504,
@@ -1435,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370271,
+      "num": 370271,
+      "word": "张杰星汉游唱出辽阔宇宙",
+      "onboard_time": 1659526063,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369309,
       "num": 369309,
       "word": "高管沉迷网赌骗借同事2230万",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1659495552,
       "rank": 36,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 353576,
+      "num": 353576,
+      "word": "独行月球票房破13亿",
+      "onboard_time": 1659524745,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 352288,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1659497173,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338117,
+      "num": 338117,
+      "word": "朋友借钱不还违法吗",
+      "onboard_time": 1659524864,
+      "rank": 35,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 334696,
@@ -1651,27 +1707,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305188,
-      "num": 305188,
-      "word": "朋友借钱不还违法吗",
-      "onboard_time": 1659524864,
-      "rank": 35,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 298868,
       "num": 298868,
       "word": "亲爱的小美人鱼定档",
       "onboard_time": 1659496934,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 296459,
-      "num": 296459,
-      "word": "独行月球票房破13亿",
-      "onboard_time": 1659524745,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1699,12 +1739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279697,
-      "num": 279697,
-      "word": "KPL",
-      "onboard_time": 1659525165,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 280891,
+      "num": 280891,
+      "word": "军工股迎来涨停潮",
+      "onboard_time": 1659525944,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 277260,
@@ -1768,14 +1808,6 @@
       "word": "20秒学会溺水自救法",
       "onboard_time": 1659514490,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264391,
-      "num": 264391,
-      "word": "白象方便面被曝面饼上满是蚂蚁",
-      "onboard_time": 1659525279,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1843,6 +1875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235329,
+      "num": 235329,
+      "word": "TES",
+      "onboard_time": 1659526366,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234339,
       "num": 234339,
       "word": "南京公交集体降速后还没自行车快",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1659518690,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214065,
+      "num": 214065,
+      "word": "秀豆的马可波罗",
+      "onboard_time": 1659525703,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 206573,

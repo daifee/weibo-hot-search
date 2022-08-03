@@ -1,0 +1,410 @@
+{
+  "runTime": 1659526501677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8535819,
+        "num": 8535819,
+        "word": "解放军明显在演练全面封锁台岛",
+        "onboard_time": 1659507239,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 4163283,
+        "num": 4163283,
+        "word": "宁德时代暂停北美工厂项目",
+        "onboard_time": 1659522226,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 3725304,
+        "num": 3725304,
+        "word": "你打你的我打我的",
+        "onboard_time": 1659520372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2454100,
+        "num": 2454100,
+        "word": "相信中国人民是理性爱国的",
+        "onboard_time": 1659518749,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2219170,
+        "num": 2219170,
+        "word": "新闻联播",
+        "onboard_time": 1659525647,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2097881,
+        "num": 2097881,
+        "word": "韩总统办公室回应佩洛西访台",
+        "onboard_time": 1659510714,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1911001,
+        "num": 1911001,
+        "word": "白象方便面被曝面饼上满是蚂蚁",
+        "onboard_time": 1659525279,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1907396,
+        "num": 1907396,
+        "word": "佩洛西窜访台湾是一场非常丑陋真人秀",
+        "onboard_time": 1659519950,
+        "rank": 7,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 1901409,
+        "num": 1901409,
+        "word": "华春莹一句中国古话讲给美国官员",
+        "onboard_time": 1659516228,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1679364,
+        "num": 1679364,
+        "word": "历史不会浓缩于一个晚上",
+        "onboard_time": 1659511433,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627031,
+        "num": 1627031,
+        "word": "佩洛西暴露遏制中国发展的险恶用心",
+        "onboard_time": 1659515809,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1575467,
+        "num": 1575467,
+        "word": "林志颖哥哥报平安",
+        "onboard_time": 1659519170,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1124645,
+        "num": 1124645,
+        "word": "佩洛西口中的民主是爬满虱子的袍子",
+        "onboard_time": 1659523849,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1105125,
+        "num": 1105125,
+        "word": "台铁车站屏幕突现老巫婆窜访台湾",
+        "onboard_time": 1659514189,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073307,
+        "num": 1073307,
+        "word": "华春莹回应是否针对佩洛西本人制裁",
+        "onboard_time": 1659518210,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1066635,
+        "num": 1066635,
+        "word": "江西幼儿园行凶男子照片曝光",
+        "onboard_time": 1659524981,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912245,
+        "num": 912245,
+        "word": "祁天道直播被打",
+        "onboard_time": 1659523250,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 660502,
+        "num": 660502,
+        "word": "颜淡被打回原型",
+        "onboard_time": 1659526003,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660181,
+        "num": 660181,
+        "word": "凌不疑程少商初吻",
+        "onboard_time": 1659524805,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639353,
+        "num": 639353,
+        "word": "崔始源二次确诊新冠",
+        "onboard_time": 1659519653,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573634,
+        "num": 573634,
+        "word": "百花奖总导演致歉",
+        "onboard_time": 1659510117,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550736,
+        "num": 550736,
+        "word": "男子新婚后离世公婆求退彩礼遭拒",
+        "onboard_time": 1659512752,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549329,
+        "num": 549329,
+        "word": "韩素希脸部受伤",
+        "onboard_time": 1659509038,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488914,
+        "num": 488914,
+        "word": "白宫官员还在狡辩",
+        "onboard_time": 1659520730,
+        "rank": 23,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 474307,
+        "num": 474307,
+        "word": "安福警方称已掌握嫌犯逃窜方位和路线",
+        "onboard_time": 1659519170,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466840,
+        "num": 466840,
+        "word": "桃园机场明日取消40个航班",
+        "onboard_time": 1659506032,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 466516,
+        "num": 466516,
+        "word": "南京公交道歉",
+        "onboard_time": 1659515271,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405494,
+        "num": 405494,
+        "word": "无法阻挡中国实现完全统一的历史趋势",
+        "onboard_time": 1659522053,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 400261,
+        "num": 400261,
+        "word": "KPL",
+        "onboard_time": 1659525165,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398316,
+        "num": 398316,
+        "word": "北京一居民家中惊现极危物种圆鼻巨蜥",
+        "onboard_time": 1659517729,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385882,
+        "num": 385882,
+        "word": "程少商是凌不疑人形挂件",
+        "onboard_time": 1659523964,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385820,
+        "num": 385820,
+        "word": "唐周对颜淡说我收你呀",
+        "onboard_time": 1659525103,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381701,
+        "num": 381701,
+        "word": "80后父母将两女儿分别送上清华北大",
+        "onboard_time": 1659518030,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370271,
+        "num": 370271,
+        "word": "张杰星汉游唱出辽阔宇宙",
+        "onboard_time": 1659526063,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369513,
+        "num": 369513,
+        "word": "跟喜欢的人结婚会是什么样子",
+        "onboard_time": 1659521270,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362300,
+        "num": 362300,
+        "word": "东部战区位台岛周边演训视频",
+        "onboard_time": 1659510535,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 353576,
+        "num": 353576,
+        "word": "独行月球票房破13亿",
+        "onboard_time": 1659524745,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338117,
+        "num": 338117,
+        "word": "朋友借钱不还违法吗",
+        "onboard_time": 1659524864,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 336410,
+        "num": 336410,
+        "word": "官方回应建议取消笔试摘口罩考生成绩",
+        "onboard_time": 1659514911,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 329335,
+        "num": 329335,
+        "word": "00后入职宿管阿姨",
+        "onboard_time": 1659510418,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304718,
+        "num": 304718,
+        "word": "这个世界上真的有超能力",
+        "onboard_time": 1659524446,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280891,
+        "num": 280891,
+        "word": "军工股迎来涨停潮",
+        "onboard_time": 1659525944,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279942,
+        "num": 279942,
+        "word": "情侣为买七夕礼物4天偷188块电瓶",
+        "onboard_time": 1659512154,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239523,
+        "num": 239523,
+        "word": "河南省将发放600万元体育健身优惠券",
+        "onboard_time": 1659513771,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235329,
+        "num": 235329,
+        "word": "TES",
+        "onboard_time": 1659526366,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233743,
+        "num": 233743,
+        "word": "断桥",
+        "onboard_time": 1659503822,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223393,
+        "num": 223393,
+        "word": "沙一汀巡演",
+        "onboard_time": 1659524682,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221391,
+        "num": 221391,
+        "word": "海南三亚新增10例确诊和1例无症状",
+        "onboard_time": 1659518572,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217049,
+        "num": 217049,
+        "word": "国台办回应蔡英文为佩洛西授勋",
+        "onboard_time": 1659502994,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 214065,
+        "num": 214065,
+        "word": "秀豆的马可波罗",
+        "onboard_time": 1659525703,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界上只有一个中国#"
+    }
+  }
+}

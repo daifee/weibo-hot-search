@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659525499432,
+  "endTime": 1659526501677,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -411,6 +411,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 4163283,
+      "num": 4163283,
+      "word": "宁德时代暂停北美工厂项目",
+      "onboard_time": 1659522226,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 4140764,
       "num": 3575755,
       "word": "佩洛西专机降落松山机场",
@@ -465,14 +473,6 @@
       "onboard_time": 1659520372,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3808041,
-      "num": 3808041,
-      "word": "宁德时代暂停北美工厂项目",
-      "onboard_time": 1659522226,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 3738562,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 2369478,
-      "num": 1263226,
+      "num": 1575467,
       "word": "林志颖哥哥报平安",
       "onboard_time": 1659519170,
       "rank": 42,
@@ -937,6 +937,14 @@
       "onboard_time": 1659519950,
       "rank": 14,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2219170,
+      "num": 2219170,
+      "word": "新闻联播",
+      "onboard_time": 1659525647,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2198055,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1659401680,
       "rank": 7,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1911001,
+      "num": 1911001,
+      "word": "白象方便面被曝面饼上满是蚂蚁",
+      "onboard_time": 1659525279,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1902852,
@@ -1715,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1124645,
+      "num": 1124645,
+      "word": "佩洛西口中的民主是爬满虱子的袍子",
+      "onboard_time": 1659523849,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1123847,
       "num": 1123847,
       "word": "蔚来或推出10万元以下汽车",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1659523250,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1066635,
+      "num": 1066635,
+      "word": "江西幼儿园行凶男子照片曝光",
+      "onboard_time": 1659524981,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1062055,
@@ -2483,14 +2515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692477,
-      "num": 692477,
-      "word": "佩洛西口中的民主是爬满虱子的袍子",
-      "onboard_time": 1659523849,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 692045,
       "num": 421369,
       "word": "新加坡总理会见佩洛西",
@@ -2537,6 +2561,22 @@
       "onboard_time": 1659358477,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660502,
+      "num": 660502,
+      "word": "颜淡被打回原型",
+      "onboard_time": 1659526003,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660181,
+      "num": 660181,
+      "word": "凌不疑程少商初吻",
+      "onboard_time": 1659524805,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 659932,
@@ -2817,14 +2857,6 @@
       "onboard_time": 1659507116,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 590334,
-      "num": 590334,
-      "word": "凌不疑程少商初吻",
-      "onboard_time": 1659524805,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 587336,
@@ -4067,12 +4099,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 401695,
-      "num": 401695,
-      "word": "江西幼儿园行凶男子照片曝光",
-      "onboard_time": 1659524981,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 400261,
+      "num": 400261,
+      "word": "KPL",
+      "onboard_time": 1659525165,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 397956,
@@ -4363,6 +4395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370271,
+      "num": 370271,
+      "word": "张杰星汉游唱出辽阔宇宙",
+      "onboard_time": 1659526063,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369309,
       "num": 369309,
       "word": "高管沉迷网赌骗借同事2230万",
@@ -4515,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353576,
+      "num": 353576,
+      "word": "独行月球票房破13亿",
+      "onboard_time": 1659524745,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352288,
       "num": 352288,
       "word": "会害羞的小浣熊有多可爱",
@@ -4641,6 +4689,14 @@
       "onboard_time": 1659444878,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338117,
+      "num": 338117,
+      "word": "朋友借钱不还违法吗",
+      "onboard_time": 1659524864,
+      "rank": 35,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 337370,
@@ -5019,14 +5075,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 305188,
-      "num": 305188,
-      "word": "朋友借钱不还违法吗",
-      "onboard_time": 1659524864,
-      "rank": 35,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 305135,
       "num": 305135,
       "word": "BLG对战V5",
@@ -5112,14 +5160,6 @@
       "word": "林妙妙钱三一隔空比心",
       "onboard_time": 1659365689,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 296459,
-      "num": 296459,
-      "word": "独行月球票房破13亿",
-      "onboard_time": 1659524745,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -5243,6 +5283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280891,
+      "num": 280891,
+      "word": "军工股迎来涨停潮",
+      "onboard_time": 1659525944,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 280230,
       "num": 280230,
       "word": "三石六记",
@@ -5257,14 +5305,6 @@
       "onboard_time": 1659403123,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279697,
-      "num": 279697,
-      "word": "KPL",
-      "onboard_time": 1659525165,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 277260,
@@ -5465,14 +5505,6 @@
       "onboard_time": 1659291613,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264391,
-      "num": 264391,
-      "word": "白象方便面被曝面饼上满是蚂蚁",
-      "onboard_time": 1659525279,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262873,
@@ -5707,6 +5739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235329,
+      "num": 235329,
+      "word": "TES",
+      "onboard_time": 1659526366,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235058,
       "num": 235058,
       "word": "美军里根号航母离开南海",
@@ -5905,6 +5945,14 @@
       "onboard_time": 1659361481,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214065,
+      "num": 214065,
+      "word": "秀豆的马可波罗",
+      "onboard_time": 1659525703,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 213998,
