@@ -1,6 +1,6 @@
 {
   "startTime": 1659457886810,
-  "endTime": 1659483470233,
+  "endTime": 1659492497790,
   "band_list": [
     {
       "raw_hot": 22430807,
@@ -15,6 +15,14 @@
       "num": 21338185,
       "word": "外交部回应佩洛西窜访中国台湾地区",
       "onboard_time": 1659452732,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 20712362,
+      "num": 20712362,
+      "word": "对台湾地区暂停天然砂出口",
+      "onboard_time": 1659486543,
       "rank": 0,
       "category": "国内要闻"
     },
@@ -35,8 +43,24 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 12047294,
+      "num": 12017627,
+      "word": "暂停台湾地区柑橘类水果等输入大陆",
+      "onboard_time": 1659488835,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9517026,
+      "num": 9517026,
+      "word": "实现祖国统一的决心坚如磐石",
+      "onboard_time": 1659483240,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 8007639,
-      "num": 1439714,
+      "num": 2251841,
       "word": "微博崩了",
       "onboard_time": 1659454434,
       "rank": 10,
@@ -59,6 +83,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 4173224,
+      "num": 2434062,
+      "word": "台媒称解放军军机深夜加大机队规模",
+      "onboard_time": 1659488651,
+      "rank": 10,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 3949819,
       "num": 3949819,
       "word": "志愿军14昼夜打退美军30多次进攻",
@@ -75,6 +107,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 3562465,
+      "num": 3562465,
+      "word": "台媒称解放军军演形同海空锁台3天",
+      "onboard_time": 1659488955,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 3383304,
       "num": 3383304,
       "word": "东部战区已开始一系列联合军事行动",
@@ -83,12 +123,52 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 3348763,
+      "num": 3348763,
+      "word": "联合国重申遵循一个中国政策",
+      "onboard_time": 1659486611,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3258863,
+      "num": 3258863,
+      "word": "暂停台湾地区冰鲜白带鱼输入大陆",
+      "onboard_time": 1659491110,
+      "rank": 7,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3162884,
+      "num": 2369987,
+      "word": "佩洛西丈夫酒驾被捕后体内被检出毒品",
+      "onboard_time": 1659491473,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2931935,
       "num": 2446279,
       "word": "解放军空军苏-35战机穿越台湾海峡",
       "onboard_time": 1659450451,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 2620499,
+      "num": 2620499,
+      "word": "外交部深夜召见美驻华大使伯恩斯",
+      "onboard_time": 1659486848,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2600945,
+      "num": 2600945,
+      "word": "美方搞以台制华必将付出沉重代价",
+      "onboard_time": 1659486490,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2536368,
@@ -139,6 +219,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1583010,
+      "num": 1583010,
+      "word": "王毅就美方侵犯中国主权发表谈话",
+      "onboard_time": 1659489491,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1575535,
+      "num": 1575535,
+      "word": "笔试3.17分考生题做完答题卡没填完",
+      "onboard_time": 1659486423,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483591,
       "num": 1483591,
       "word": "同事称唐山被碾压女孩为游泳馆工作人员",
@@ -171,12 +267,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1135497,
+      "num": 1135497,
+      "word": "茅台存了价值好多万亿基酒",
+      "onboard_time": 1659490451,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 980054,
       "num": 980054,
       "word": "全国人大常委会回应佩洛西窜访中国台湾",
       "onboard_time": 1659453193,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 946542,
+      "num": 946542,
+      "word": "北京海淀一小区惊现怪鱼",
+      "onboard_time": 1659484139,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932537,
@@ -203,6 +315,22 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 897767,
+      "num": 897767,
+      "word": "对台独顽固分子关联机构予以惩戒",
+      "onboard_time": 1659490332,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 821826,
+      "num": 821826,
+      "word": "杜兰特将与蔡崇信会面",
+      "onboard_time": 1659487446,
+      "rank": 20,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 789968,
       "num": 95490,
       "word": "台媒曝光佩洛西窜台行程",
@@ -219,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779289,
+      "num": 779289,
+      "word": "成都招募5967名公卫特别服务岗志愿者",
+      "onboard_time": 1659487812,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684257,
+      "num": 684257,
+      "word": "美国不要幻想阻挠中国的统一大业",
+      "onboard_time": 1659486128,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 631043,
       "num": 631043,
       "word": "女子疑因超时发语音辱骂外卖员",
@@ -227,12 +371,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620787,
+      "num": 620787,
+      "word": "倚美谋独死路一条",
+      "onboard_time": 1659490995,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 619716,
+      "num": 619716,
+      "word": "杨和苏",
+      "onboard_time": 1659482996,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 610922,
       "num": 470441,
       "word": "VaVa",
       "onboard_time": 1659436254,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 540433,
+      "num": 540433,
+      "word": "8月2日新增本土无症状251例",
+      "onboard_time": 1659490812,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533767,
@@ -251,19 +419,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 487403,
-      "num": 487403,
-      "word": "杨和苏",
-      "onboard_time": 1659482996,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 475020,
       "num": 475020,
       "word": "儿子成绩不好妈妈网购3888元灵宝",
       "onboard_time": 1659462866,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454903,
+      "num": 454903,
+      "word": "8月2日新增本土确诊38例",
+      "onboard_time": 1659491351,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -275,12 +443,60 @@
       "category": "科技"
     },
     {
+      "raw_hot": 446058,
+      "num": 446058,
+      "word": "两栖攻击舰广西舰实战化训练",
+      "onboard_time": 1659484985,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 437268,
+      "num": 437268,
+      "word": "环卫工帮车主扫落叶不慎将车刮花",
+      "onboard_time": 1659490509,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424192,
+      "num": 424192,
+      "word": "依法惩治台独顽固分子",
+      "onboard_time": 1659489138,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 421508,
+      "num": 421508,
+      "word": "美股三大指数连续两天集体收跌",
+      "onboard_time": 1659491772,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 421334,
       "num": 421334,
       "word": "会用excel但不多",
       "onboard_time": 1659456224,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377133,
+      "num": 377133,
+      "word": "孕妇吃偏方险早产住进ICU",
+      "onboard_time": 1659483600,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374420,
+      "num": 374420,
+      "word": "吃播博主为何盯上大白鲨",
+      "onboard_time": 1659486611,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347734,
@@ -307,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327711,
+      "num": 327711,
+      "word": "大理支持房企与购房者共有产权",
+      "onboard_time": 1659490509,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 321921,
       "num": 321921,
       "word": "现在的西红柿怎么了",
       "onboard_time": 1659448415,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 321335,
+      "num": 321335,
+      "word": "湖人将顶薪续约詹姆斯",
+      "onboard_time": 1659487446,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 319992,
@@ -331,12 +563,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308688,
+      "num": 308688,
+      "word": "黑龙江的夏天有多清凉",
+      "onboard_time": 1659491652,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306705,
+      "num": 306705,
+      "word": "你心中的偶像剧男主人设TOP",
+      "onboard_time": 1659492371,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270165,
       "num": 270165,
       "word": "月升沧海都是吴磊老熟人",
       "onboard_time": 1659476840,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267189,
+      "num": 267189,
+      "word": "时代少年团侧颜杀",
+      "onboard_time": 1659489439,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 266661,
+      "num": 266661,
+      "word": "检方批捕天堂超市酒吧犯罪嫌疑人",
+      "onboard_time": 1659484317,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256931,
@@ -353,14 +617,6 @@
       "onboard_time": 1659444024,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246905,
-      "num": 246905,
-      "word": "实现祖国统一的决心坚如磐石",
-      "onboard_time": 1659483240,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 244897,
