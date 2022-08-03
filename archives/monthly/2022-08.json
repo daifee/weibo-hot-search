@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659534864278,
+  "endTime": 1659536357712,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2346882,
+      "num": 2346882,
+      "word": "新东方花近200亿退学费和遣散费",
+      "onboard_time": 1659533091,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2297560,
       "num": 2297560,
       "word": "美方在台湾问题上不要搞双重标准",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1659493393,
       "rank": 9,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1947301,
+      "num": 1947301,
+      "word": "郑州天空频繁出现丁达尔效应",
+      "onboard_time": 1659531409,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 1940724,
@@ -1459,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1568336,
-      "num": 1568336,
-      "word": "新东方花近200亿退学费和遣散费",
-      "onboard_time": 1659533091,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1564207,
       "num": 1564207,
       "word": "中国军队是敢于亮剑的",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1659320786,
       "rank": 10,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 1187701,
-      "num": 1187701,
-      "word": "郑州天空频繁出现丁达尔效应",
-      "onboard_time": 1659531409,
-      "rank": 36,
-      "category": "自然"
     },
     {
       "raw_hot": 1182252,
@@ -2395,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787415,
+      "num": 787415,
+      "word": "义乌新增33例新冠病毒阳性感染者",
+      "onboard_time": 1659535789,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786322,
       "num": 786322,
       "word": "网红曾询问店家购买鲨鱼是否合法",
@@ -2579,6 +2587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723246,
+      "num": 723246,
+      "word": "凌不疑为程少商替换虎符",
+      "onboard_time": 1659533808,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 719712,
       "num": 719712,
       "word": "天会亮的 你有我呢",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1659348810,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 685531,
+      "num": 685531,
+      "word": "父亲拍摄陌生人假肢来激励截肢儿子",
+      "onboard_time": 1659534529,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684259,
@@ -3051,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578355,
+      "num": 578355,
+      "word": "月升沧海 剧情",
+      "onboard_time": 1659533750,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578275,
       "num": 578275,
       "word": "月升沧海",
@@ -3259,14 +3291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536908,
-      "num": 536908,
-      "word": "月升沧海 剧情",
-      "onboard_time": 1659533750,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 534722,
       "num": 534722,
       "word": "天才基本法导演回应改编争议",
@@ -3361,14 +3385,6 @@
       "onboard_time": 1659500116,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 517252,
-      "num": 517252,
-      "word": "凌不疑为程少商替换虎符",
-      "onboard_time": 1659533808,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 516896,
@@ -3553,6 +3569,14 @@
       "onboard_time": 1659409366,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 488165,
+      "num": 488165,
+      "word": "宝可梦朱紫",
+      "onboard_time": 1659534410,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 487458,
@@ -3819,6 +3843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452354,
+      "num": 452354,
+      "word": "何幸福宁檬贺顿棠雪七夕同框",
+      "onboard_time": 1659535431,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449485,
       "num": 449485,
       "word": "万人请辞穿越火线策划",
@@ -4073,6 +4105,14 @@
       "onboard_time": 1659489138,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 424054,
+      "num": 424054,
+      "word": "恒大跌出财富世界500强",
+      "onboard_time": 1659535012,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 423334,
@@ -4587,14 +4627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373911,
-      "num": 373911,
-      "word": "宝可梦朱紫",
-      "onboard_time": 1659534410,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 373505,
       "num": 373505,
       "word": "胆小鬼定档0808",
@@ -4793,6 +4825,14 @@
       "onboard_time": 1659437338,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356765,
+      "num": 356765,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1659535372,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 356128,
@@ -5195,6 +5235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 319733,
+      "num": 319733,
+      "word": "心疼韩素希",
+      "onboard_time": 1659532308,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319535,
       "num": 319535,
       "word": "长佩",
@@ -5217,14 +5265,6 @@
       "onboard_time": 1659356256,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319120,
-      "num": 319120,
-      "word": "心疼韩素希",
-      "onboard_time": 1659532308,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 316843,
@@ -5273,6 +5313,14 @@
       "onboard_time": 1659406061,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312254,
+      "num": 312254,
+      "word": "蛙泳居然这么丝滑",
+      "onboard_time": 1659535190,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 311127,
@@ -5427,6 +5475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296512,
+      "num": 296512,
+      "word": "新冠康复者找几十份工作都被拒",
+      "onboard_time": 1659536148,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296260,
       "num": 296260,
       "word": "如何看待扬州大学教师薪资",
@@ -5457,6 +5513,14 @@
       "onboard_time": 1659516108,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 294177,
+      "num": 294177,
+      "word": "天才基本法站内热度值突破9000",
+      "onboard_time": 1659535612,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 294147,
@@ -5569,14 +5633,6 @@
       "onboard_time": 1659403123,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 278831,
-      "num": 278831,
-      "word": "父亲拍摄陌生人假肢来激励截肢儿子",
-      "onboard_time": 1659534529,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277260,
@@ -5803,6 +5859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260623,
+      "num": 260623,
+      "word": "寄养金毛疑中暑去世被店家私埋",
+      "onboard_time": 1659536268,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260158,
       "num": 260158,
       "word": "BLACKPINK回归预告",
@@ -5921,6 +5985,14 @@
       "onboard_time": 1659407020,
       "rank": 41,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 252921,
+      "num": 252921,
+      "word": "周震南父亲公司被市监局起诉",
+      "onboard_time": 1659536148,
+      "rank": 48,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 248638,
