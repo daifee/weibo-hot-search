@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659647975479,
+  "endTime": 1659649016983,
   "band_list": [
     {
       "raw_hot": 4259551,
@@ -467,8 +467,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55548,
-      "num": 55548,
+      "raw_hot": 70920,
+      "num": 70920,
       "word": "什么专业不会贬值",
       "onboard_time": 1659643752,
       "rank": 49,
@@ -483,6 +483,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 37068,
+      "num": 37068,
+      "word": "山东局地将突破40摄氏度",
+      "onboard_time": 1659647172,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34887,
       "num": 34887,
       "word": "方原上班带孩子被开除",
@@ -491,36 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26067,
-      "num": 26067,
-      "word": "你吃过哪些又臭又上头的美食",
-      "onboard_time": 1659642852,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 24972,
-      "num": 24972,
+      "raw_hot": 30750,
+      "num": 30750,
       "word": "芝士裴之演的草莓裴之",
       "onboard_time": 1659644772,
       "rank": 43,
       "category": "影视"
     },
     {
-      "raw_hot": 24429,
-      "num": 24429,
+      "raw_hot": 26808,
+      "num": 26808,
       "word": "综艺里的妆造都这么卷了吗",
       "onboard_time": 1659646630,
       "rank": 38,
       "category": "综艺"
     },
     {
-      "raw_hot": 22437,
-      "num": 22437,
-      "word": "山东局地将突破40摄氏度",
-      "onboard_time": 1659647172,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 26796,
+      "num": 26796,
+      "word": "你吃过哪些又臭又上头的美食",
+      "onboard_time": 1659642852,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 20484,
