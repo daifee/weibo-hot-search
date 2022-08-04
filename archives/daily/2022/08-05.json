@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659630815140,
+  "endTime": 1659632260093,
   "band_list": [
     {
       "raw_hot": 4259551,
@@ -35,6 +35,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1128918,
+      "num": 1128918,
+      "word": "七夕收到的最丑的花",
+      "onboard_time": 1659627575,
+      "rank": 7,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 951483,
       "num": 951483,
       "word": "央视七夕晚会",
@@ -49,14 +57,6 @@
       "onboard_time": 1659620077,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 857410,
-      "num": 857410,
-      "word": "七夕收到的最丑的花",
-      "onboard_time": 1659627575,
-      "rank": 7,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 848497,
@@ -91,12 +91,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 571730,
-      "num": 571730,
+      "raw_hot": 598352,
+      "num": 598352,
       "word": "日本在台湾问题上负有历史罪责",
       "onboard_time": 1659609339,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 587365,
+      "num": 587365,
+      "word": "前足协领导被曝酒后不配合防疫",
+      "onboard_time": 1659629972,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 554685,
@@ -171,6 +179,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 354657,
+      "num": 354657,
+      "word": "30岁女子恋爱遭父母反对被气晕",
+      "onboard_time": 1659630987,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334793,
       "num": 334793,
       "word": "安以轩老公将被正式起诉",
@@ -209,14 +225,6 @@
       "onboard_time": 1659627219,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301325,
-      "num": 301325,
-      "word": "前足协领导被曝酒后不配合防疫",
-      "onboard_time": 1659629972,
-      "rank": 25,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 300850,
@@ -299,6 +307,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 236444,
+      "num": 236444,
+      "word": "马丽袁泉同框太美了",
+      "onboard_time": 1659628536,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232353,
       "num": 232353,
       "word": "七夕祝福",
@@ -320,14 +336,6 @@
       "word": "心疼程少商",
       "onboard_time": 1659621706,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 219440,
-      "num": 207960,
-      "word": "马丽袁泉同框太美了",
-      "onboard_time": 1659628536,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -363,8 +371,8 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 176329,
-      "num": 176329,
+      "raw_hot": 182841,
+      "num": 182841,
       "word": "月升沧海更改播出时间",
       "onboard_time": 1659614379,
       "rank": 45,
@@ -395,10 +403,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144169,
+      "num": 144169,
+      "word": "秋瓷炫于晓光合体大片",
+      "onboard_time": 1659606640,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 131754,
       "num": 131754,
       "word": "张大仙梦回2017",
       "onboard_time": 1659627878,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 86470,
+      "num": 86470,
+      "word": "阿灵顿major",
+      "onboard_time": 1659629734,
       "rank": 49,
       "category": "游戏"
     }
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#实现祖国统一的决心坚如磐石#"
+    },
+    {
+      "word": "#永葆赶考的清醒和坚定#"
     }
   ]
 }
