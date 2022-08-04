@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659618510461,
+  "endTime": 1659620430178,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -443,6 +443,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 4642167,
+      "num": 4642167,
+      "word": "11枚东风导弹落在台岛北东南海域",
+      "onboard_time": 1659618818,
+      "rank": 0,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 4603232,
       "num": 4603232,
       "word": "东部战区",
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3124967,
+      "num": 3124967,
+      "word": "美驻韩大使馆车辆在首尔撞上大楼",
+      "onboard_time": 1659614795,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3097728,
       "num": 3097728,
       "word": "福建地区航班最新情况",
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 2412164,
-      "num": 2649918,
+      "num": 3102204,
       "word": "环岛六大区域实战演训最新画面",
       "onboard_time": 1659608979,
       "rank": 41,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1659512752,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2318528,
-      "num": 2318528,
-      "word": "美驻韩大使馆车辆在首尔撞上大楼",
-      "onboard_time": 1659614795,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2303933,
@@ -1619,20 +1627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1824162,
+      "num": 1824162,
+      "word": "央视七夕晚会",
+      "onboard_time": 1659614500,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1820055,
       "num": 1820055,
       "word": "青岛被卷入海失联男孩18岁",
       "onboard_time": 1659436735,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1815744,
-      "num": 1815744,
-      "word": "央视七夕晚会",
-      "onboard_time": 1659614500,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1800719,
@@ -2347,6 +2355,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1168609,
+      "num": 1168609,
+      "word": "程少商当众吻凌不疑",
+      "onboard_time": 1659614500,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1165664,
       "num": 1000269,
       "word": "吴磊赵露思眸中有你大片",
@@ -2457,14 +2473,6 @@
       "onboard_time": 1659404982,
       "rank": 13,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1104762,
-      "num": 1104762,
-      "word": "程少商当众吻凌不疑",
-      "onboard_time": 1659614500,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1104154,
@@ -2907,6 +2915,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 924000,
+      "num": 924000,
+      "word": "中国人必会的填空题",
+      "onboard_time": 1659614978,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 914434,
       "num": 612883,
       "word": "王心凌乘风破浪成团应援口号",
@@ -3307,6 +3323,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 793902,
+      "num": 793902,
+      "word": "王一博新电影热烈杀青",
+      "onboard_time": 1659619542,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792404,
       "num": 792404,
       "word": "南京公交限速",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1659360579,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 763353,
-      "num": 763353,
-      "word": "中国人必会的填空题",
-      "onboard_time": 1659614978,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 763305,
@@ -3577,6 +3593,14 @@
       "onboard_time": 1659510418,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729360,
+      "num": 729360,
+      "word": "王心凌七夕晚会舞台",
+      "onboard_time": 1659618277,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 727933,
@@ -3979,6 +4003,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 627735,
+      "num": 627735,
+      "word": "突然没那么焦虑了",
+      "onboard_time": 1659619117,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627117,
       "num": 627117,
       "word": "王俊凯再演犯罪题材作品",
@@ -4331,6 +4363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576675,
+      "num": 576675,
+      "word": "唐周情商好高",
+      "onboard_time": 1659618699,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 574317,
+      "num": 574317,
+      "word": "140秒看解放军反制行动现场视频",
+      "onboard_time": 1659615818,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 574223,
       "num": 574223,
       "word": "想看王俊凯孟超",
@@ -4417,6 +4465,14 @@
       "onboard_time": 1659412188,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562904,
+      "num": 562904,
+      "word": "枪杀安倍嫌犯或被判无期",
+      "onboard_time": 1659619841,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 562846,
@@ -4515,6 +4571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 553009,
+      "num": 553009,
+      "word": "凌不疑抱到程少商无法呼吸",
+      "onboard_time": 1659617258,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551631,
       "num": 551631,
       "word": "郭俊辰赵今麦海边氛围大片",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1659539804,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 541803,
+      "num": 541803,
+      "word": "芝士裴之 疯",
+      "onboard_time": 1659619178,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 540842,
@@ -4704,14 +4776,6 @@
       "word": "天才基本法",
       "onboard_time": 1659536811,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 526674,
-      "num": 523670,
-      "word": "凌不疑抱到程少商无法呼吸",
-      "onboard_time": 1659617258,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -5315,6 +5379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464725,
+      "num": 464725,
+      "word": "七夕文案",
+      "onboard_time": 1659516951,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463498,
       "num": 354050,
       "word": "成毅演的应渊唐周反差感",
@@ -5579,14 +5651,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 442955,
-      "num": 442955,
-      "word": "七夕文案",
-      "onboard_time": 1659516951,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 442776,
       "num": 311646,
       "word": "偶运会拉丁舞",
@@ -5683,6 +5747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434143,
+      "num": 434143,
+      "word": "难怪云南人这么喜欢蘑菇",
+      "onboard_time": 1659617496,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 433941,
       "num": 433941,
       "word": "卫健委报告称育龄妇女生育意愿走低",
@@ -5737,6 +5809,14 @@
       "onboard_time": 1659429107,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 426622,
+      "num": 426622,
+      "word": "阿里发布2023财年第一季度财报",
+      "onboard_time": 1659616237,
+      "rank": 44,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 426609,
@@ -6035,14 +6115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407404,
-      "num": 407404,
-      "word": "140秒看解放军反制行动现场视频",
-      "onboard_time": 1659615818,
-      "rank": 35,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 406907,
       "num": 406907,
       "word": "背景太假小伙说新疆治愈了他",
@@ -6227,14 +6299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391424,
-      "num": 391424,
-      "word": "阿里发布2023财年第一季度财报",
-      "onboard_time": 1659616237,
-      "rank": 44,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 391221,
       "num": 391221,
       "word": "偶像运动会",
@@ -6249,6 +6313,14 @@
       "onboard_time": 1659491652,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389537,
+      "num": 389537,
+      "word": "这就是中国态度",
+      "onboard_time": 1659614618,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 389534,
@@ -6297,6 +6369,14 @@
       "onboard_time": 1659596855,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387978,
+      "num": 387978,
+      "word": "周深如愿唱出华夏飞天的浪漫",
+      "onboard_time": 1659620138,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 387464,
@@ -6401,6 +6481,14 @@
       "onboard_time": 1659583301,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378978,
+      "num": 378978,
+      "word": "税务部门回应网红带货1天净赚400万",
+      "onboard_time": 1659620077,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 378953,
@@ -6595,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367921,
+      "num": 342587,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1659618338,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367329,
       "num": 367329,
       "word": "许凯密逃4古宅惊魂下剧照",
@@ -6747,14 +6843,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 359715,
-      "num": 359715,
-      "word": "王心凌七夕晚会舞台",
-      "onboard_time": 1659618277,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359106,
       "num": 359106,
       "word": "河南县域发布",
@@ -6857,14 +6945,6 @@
       "onboard_time": 1659591100,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 352651,
-      "num": 352651,
-      "word": "这就是中国态度",
-      "onboard_time": 1659614618,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 352288,
@@ -7011,6 +7091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342486,
+      "num": 342486,
+      "word": "凌不疑教程少商识命门",
+      "onboard_time": 1659618576,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342295,
       "num": 342295,
       "word": "夏英歌热能官宣",
@@ -7089,14 +7177,6 @@
       "onboard_time": 1659424187,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 334687,
-      "num": 334687,
-      "word": "微博电影之夜阵容",
-      "onboard_time": 1659618338,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 333880,
@@ -7443,6 +7523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314817,
+      "num": 314817,
+      "word": "佩洛西评价自己脸皮厚",
+      "onboard_time": 1659620198,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 314491,
       "num": 314491,
       "word": "沈小婷国标舞视频突破310万点击率",
@@ -7600,6 +7688,14 @@
       "word": "BLG对战V5",
       "onboard_time": 1659447616,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 304262,
+      "num": 304262,
+      "word": "无畏的加倍七夕",
+      "onboard_time": 1659618338,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -7905,14 +8001,6 @@
       "onboard_time": 1659430073,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279991,
-      "num": 279991,
-      "word": "难怪云南人这么喜欢蘑菇",
-      "onboard_time": 1659617496,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 279831,
@@ -8281,14 +8369,6 @@
       "onboard_time": 1659361120,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 257771,
-      "num": 257771,
-      "word": "无畏的加倍七夕",
-      "onboard_time": 1659618338,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 257706,
@@ -9371,6 +9451,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 120217,
+      "num": 884637,
+      "word": "宝有多浪漫",
+      "onboard_time": 1659618038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116411,
       "num": 116411,
       "word": "NewJeans空降",
@@ -9481,6 +9569,14 @@
       "onboard_time": 1659470715,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89647,
+      "num": 342653,
+      "word": "七夕节",
+      "onboard_time": 1659619358,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88544,
@@ -9656,14 +9752,6 @@
       "word": "俩狗狗打闹时看到镜头马上表情管理",
       "onboard_time": 1659373882,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47667,
-      "num": 884637,
-      "word": "宝有多浪漫",
-      "onboard_time": 1659618038,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
