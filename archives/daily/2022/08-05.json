@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659651671631,
+  "endTime": 1659652664777,
   "band_list": [
     {
       "raw_hot": 4259551,
@@ -307,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245407,
+      "num": 245407,
+      "word": "山东局地将突破40摄氏度",
+      "onboard_time": 1659647172,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243435,
       "num": 243435,
       "word": "中国人必会的填空题",
       "onboard_time": 1659614978,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241729,
+      "num": 241729,
+      "word": "陈晓毛晓彤cp名笑毛啊",
+      "onboard_time": 1659640694,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 239494,
@@ -337,6 +353,14 @@
       "onboard_time": 1659630089,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230441,
+      "num": 206446,
+      "word": "公司要求跳槽超5次不要投简历",
+      "onboard_time": 1659650714,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229397,
@@ -371,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193953,
-      "num": 193953,
-      "word": "山东局地将突破40摄氏度",
-      "onboard_time": 1659647172,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191415,
       "num": 191415,
       "word": "七夕文案",
@@ -393,14 +409,6 @@
       "onboard_time": 1659623744,
       "rank": 44,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 190642,
-      "num": 190642,
-      "word": "陈晓毛晓彤cp名笑毛啊",
-      "onboard_time": 1659640694,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 182841,
@@ -459,6 +467,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 124331,
+      "num": 124331,
+      "word": "民警带手术前想坐警车的男孩巡逻",
+      "onboard_time": 1659649213,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120003,
+      "num": 120003,
+      "word": "原来刘星走在了时尚前沿",
+      "onboard_time": 1659651013,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 105100,
       "num": 105100,
       "word": "张蔷不经意搞笑才最好笑",
@@ -467,20 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96593,
-      "num": 96593,
+      "raw_hot": 101112,
+      "num": 101112,
       "word": "什么专业不会贬值",
       "onboard_time": 1659643752,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 93281,
-      "num": 93281,
-      "word": "原来刘星走在了时尚前沿",
-      "onboard_time": 1659651013,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 86470,
@@ -499,20 +515,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 66784,
-      "num": 66784,
-      "word": "公司要求跳槽超5次不要投简历",
-      "onboard_time": 1659650714,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 65954,
+      "num": 65954,
+      "word": "浙江今年33.7万考生被高校录取",
+      "onboard_time": 1659651615,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 64222,
-      "num": 64222,
-      "word": "民警带手术前想坐警车的男孩巡逻",
-      "onboard_time": 1659649213,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 45736,
+      "num": 45736,
+      "word": "方原上班带孩子被开除",
+      "onboard_time": 1659640033,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 37018,
@@ -520,14 +536,6 @@
       "word": "芝士裴之演的草莓裴之",
       "onboard_time": 1659644772,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 34887,
-      "num": 34887,
-      "word": "方原上班带孩子被开除",
-      "onboard_time": 1659640033,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -545,14 +553,6 @@
       "onboard_time": 1659642852,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26663,
-      "num": 26663,
-      "word": "浙江今年33.7万考生被高校录取",
-      "onboard_time": 1659651615,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 20484,
