@@ -1,0 +1,410 @@
+{
+  "runTime": 1659640718296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474133,
+        "num": 474133,
+        "word": "骚男求婚",
+        "onboard_time": 1659633022,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 469155,
+        "num": 469155,
+        "word": "解放军常规导弹首次穿越台湾岛",
+        "onboard_time": 1659626320,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 87022,
+        "num": 348726,
+        "word": "外交部4方面回应G7和欧盟外长声明",
+        "onboard_time": 1659627161,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 336638,
+        "num": 336638,
+        "word": "佩洛西评价自己脸皮厚",
+        "onboard_time": 1659620198,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 252699,
+        "num": 252699,
+        "word": "佩洛西访韩无礼宾人员接机",
+        "onboard_time": 1659625843,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 172606,
+        "num": 172606,
+        "word": "枪杀安倍嫌犯或被判无期",
+        "onboard_time": 1659619841,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 166482,
+        "num": 166482,
+        "word": "七夕收到的最丑的花",
+        "onboard_time": 1659627575,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 139796,
+        "num": 139796,
+        "word": "前足协领导被曝酒后不配合防疫",
+        "onboard_time": 1659629972,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 118538,
+        "num": 118538,
+        "word": "东部战区出动上百架多型战机",
+        "onboard_time": 1659613419,
+        "rank": 8,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 114399,
+        "num": 114399,
+        "word": "税务部门回应网红带货1天净赚400万",
+        "onboard_time": 1659620077,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 96907,
+        "num": 96907,
+        "word": "邓小琪男友下跪",
+        "onboard_time": 1659632305,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96475,
+        "num": 96475,
+        "word": "无效显瘦vs有效显瘦",
+        "onboard_time": 1659624461,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92192,
+        "num": 92192,
+        "word": "美驻韩大使馆车辆在首尔撞上大楼",
+        "onboard_time": 1659614795,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 84265,
+        "num": 84265,
+        "word": "韩国外交部声明始终坚持一个中国",
+        "onboard_time": 1659603823,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79990,
+        "num": 79990,
+        "word": "东风快递指哪打哪",
+        "onboard_time": 1659624282,
+        "rank": 14,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 74205,
+        "num": 74205,
+        "word": "王心凌一开口多少人的青春回来了",
+        "onboard_time": 1659621464,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73589,
+        "num": 73589,
+        "word": "30岁女子恋爱遭父母反对被气晕",
+        "onboard_time": 1659630987,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70013,
+        "num": 70013,
+        "word": "我们工业系统可大批量快速生产远火弹药",
+        "onboard_time": 1659622904,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 69633,
+        "num": 69633,
+        "word": "解放军战机驱护舰演训震撼现场",
+        "onboard_time": 1659614319,
+        "rank": 18,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 67128,
+        "num": 67128,
+        "word": "程少商当众吻凌不疑",
+        "onboard_time": 1659614500,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66020,
+        "num": 66020,
+        "word": "日本在台湾问题上负有历史罪责",
+        "onboard_time": 1659609339,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 64921,
+        "num": 64921,
+        "word": "演习成功说明我们可以想怎么打就怎么打",
+        "onboard_time": 1659611558,
+        "rank": 21,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 63917,
+        "num": 63917,
+        "word": "安以轩老公将被正式起诉",
+        "onboard_time": 1659622303,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 63277,
+        "num": 63277,
+        "word": "月升沧海",
+        "onboard_time": 1659625122,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58801,
+        "num": 58801,
+        "word": "环岛六大区域实战演训最新画面",
+        "onboard_time": 1659608979,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 58410,
+        "num": 58410,
+        "word": "JackeyLove送女友13000元玫瑰花",
+        "onboard_time": 1659609458,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 57250,
+        "num": 57250,
+        "word": "中国各民主党派发布联合声明",
+        "onboard_time": 1659621164,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 56519,
+        "num": 56519,
+        "word": "突然没那么焦虑了",
+        "onboard_time": 1659619117,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51477,
+        "num": 51477,
+        "word": "李泽言 电话",
+        "onboard_time": 1659615938,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48622,
+        "num": 48622,
+        "word": "青岛4天无核酸记录即亮黄牌",
+        "onboard_time": 1659625302,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106739,
+        "num": 47787,
+        "word": "丈夫删的聊天记录里有啥",
+        "onboard_time": 1659611796,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46417,
+        "num": 46417,
+        "word": "月升沧海更改播出时间",
+        "onboard_time": 1659614379,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45776,
+        "num": 45776,
+        "word": "专家解读东部战区实弹发射任务",
+        "onboard_time": 1659623744,
+        "rank": 32,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 45642,
+        "num": 45642,
+        "word": "吃毒蘑菇4岁女童不幸离世",
+        "onboard_time": 1659608140,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44566,
+        "num": 44566,
+        "word": "中国人必会的填空题",
+        "onboard_time": 1659614978,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42598,
+        "num": 42598,
+        "word": "北京海淀6家必胜客被暂停外卖订餐",
+        "onboard_time": 1659613718,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42048,
+        "num": 42048,
+        "word": "国管公积金月缴存额上限调至7652元",
+        "onboard_time": 1659626500,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 41939,
+        "num": 41939,
+        "word": "张蔷不经意搞笑才最好笑",
+        "onboard_time": 1659636555,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38989,
+        "num": 38989,
+        "word": "凌不疑抱到程少商无法呼吸",
+        "onboard_time": 1659617258,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38602,
+        "num": 38602,
+        "word": "央视七夕晚会",
+        "onboard_time": 1659614500,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37840,
+        "num": 37840,
+        "word": "钱三一林妙妙是命中注定吧",
+        "onboard_time": 1659629014,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34887,
+        "num": 34887,
+        "word": "方原上班带孩子被开除",
+        "onboard_time": 1659640033,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31650,
+        "num": 31650,
+        "word": "罗晋的终极目标是被观众忘记",
+        "onboard_time": 1659626860,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28899,
+        "num": 28899,
+        "word": "七夕文案",
+        "onboard_time": 1659614558,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26265,
+        "num": 26265,
+        "word": "河南成全球最大人造钻石生产地",
+        "onboard_time": 1659633142,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 25637,
+        "num": 25637,
+        "word": "阿灵顿major",
+        "onboard_time": 1659629734,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21311,
+        "num": 21311,
+        "word": "南航燃油附加费下调",
+        "onboard_time": 1659628235,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 87603,
+        "num": 21142,
+        "word": "陈晓毛晓彤cp名笑毛啊",
+        "onboard_time": 1659640694,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19700,
+        "num": 19700,
+        "word": "管晨辰疑似退役",
+        "onboard_time": 1659620682,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14987,
+        "num": 14987,
+        "word": "天津一小客车掉落河中4人死亡",
+        "onboard_time": 1659620682,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#永葆赶考的清醒和坚定#"
+    }
+  }
+}
