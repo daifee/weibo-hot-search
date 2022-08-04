@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659578541040,
+  "endTime": 1659580663943,
   "band_list": [
     {
       "raw_hot": 6541543,
@@ -9,6 +9,14 @@
       "onboard_time": 1659543574,
       "rank": 16,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 5625584,
+      "num": 5625584,
+      "word": "台湾的事14亿中国人民说了算",
+      "onboard_time": 1659578315,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 5030317,
@@ -59,11 +67,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2054815,
+      "num": 1113744,
+      "word": "佩洛西窜访台湾4大主要目的",
+      "onboard_time": 1659579037,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2037387,
       "num": 2037387,
       "word": "父母溺亡奶奶卖菜供孙子考上985",
       "onboard_time": 1659574477,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1856907,
+      "num": 1856907,
+      "word": "俞敏洪曝新东方主播年收入二三十万",
+      "onboard_time": 1659577054,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -107,12 +131,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1264519,
-      "num": 1061314,
-      "word": "俞敏洪曝新东方主播年收入二三十万",
-      "onboard_time": 1659577054,
-      "rank": 10,
+      "raw_hot": 1411646,
+      "num": 1411646,
+      "word": "女童被困电梯按亮所有楼层键自救",
+      "onboard_time": 1659576816,
+      "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1324003,
+      "num": 1324003,
+      "word": "实战演训为何定于今日开始",
+      "onboard_time": 1659577591,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1294816,
+      "num": 3057797,
+      "word": "实战演训为何选择环岛六大区域",
+      "onboard_time": 1659570152,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1163384,
@@ -131,19 +171,19 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1127724,
-      "num": 2554863,
-      "word": "实战演训为何选择环岛六大区域",
-      "onboard_time": 1659570152,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1116105,
       "num": 1116105,
       "word": "白象方便面被曝面饼上满是蚂蚁",
       "onboard_time": 1659525279,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115949,
+      "num": 1115949,
+      "word": "男子睡觉时发现空调大口吐冰",
+      "onboard_time": 1659577896,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -187,12 +227,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 990902,
+      "num": 990902,
+      "word": "陕西女子举报污染获刑后改判无罪",
+      "onboard_time": 1659577715,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985792,
       "num": 985792,
       "word": "72个工人一拥而上司机半路逃跑",
       "onboard_time": 1659549076,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955964,
+      "num": 955964,
+      "word": "七夕情侣在⼀起要做什么",
+      "onboard_time": 1659577474,
+      "rank": 20,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 950455,
@@ -235,14 +291,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 809567,
-      "num": 809567,
-      "word": "女童被困电梯按亮所有楼层键自救",
-      "onboard_time": 1659576816,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 802838,
       "num": 802838,
       "word": "入职当天就离职是什么体验",
@@ -257,6 +305,22 @@
       "onboard_time": 1659576875,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 749614,
+      "num": 749614,
+      "word": "密室大逃脱",
+      "onboard_time": 1659578974,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 742282,
+      "num": 742282,
+      "word": "佩洛西丈夫对酒驾指控不认罪",
+      "onboard_time": 1659578916,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 734130,
@@ -307,6 +371,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 643346,
+      "num": 643346,
+      "word": "王菲王家卫合作",
+      "onboard_time": 1659579876,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 634567,
+      "num": 634567,
+      "word": "台军称解放军无人机首次飞过金门",
+      "onboard_time": 1659579757,
+      "rank": 20,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 633778,
       "num": 633778,
       "word": "江西幼儿园刑案幼儿家长发声",
@@ -331,14 +411,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 611998,
-      "num": 611998,
-      "word": "七夕情侣在⼀起要做什么",
-      "onboard_time": 1659577474,
-      "rank": 20,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 610940,
       "num": 610940,
       "word": "河南民权县全域人员赋码管理",
@@ -353,6 +425,14 @@
       "onboard_time": 1659574298,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 588299,
+      "num": 588299,
+      "word": "苍兰诀",
+      "onboard_time": 1659579336,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 572730,
@@ -371,8 +451,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 520209,
-      "num": 520209,
+      "raw_hot": 562239,
+      "num": 562239,
+      "word": "我驻欧盟使团回应G7和欧盟外长涉台声明",
+      "onboard_time": 1659580300,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 520437,
+      "num": 520437,
       "word": "任何搞台独分裂的人绝没有好下场",
       "onboard_time": 1659574841,
       "rank": 24,
@@ -393,14 +481,6 @@
       "onboard_time": 1659568647,
       "rank": 27,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 500528,
-      "num": 500528,
-      "word": "实战演训为何定于今日开始",
-      "onboard_time": 1659577591,
-      "rank": 25,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 492472,
@@ -451,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463653,
+      "num": 463653,
+      "word": "女子咒北海疫情大爆发全死光被拘",
+      "onboard_time": 1659579812,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454224,
       "num": 454224,
       "word": "周鹏",
       "onboard_time": 1659568226,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 442955,
+      "num": 442955,
+      "word": "七夕文案",
+      "onboard_time": 1659578795,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 430099,
@@ -491,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 390129,
-      "num": 390129,
-      "word": "陕西女子举报污染获刑后改判无罪",
-      "onboard_time": 1659577715,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388713,
       "num": 388713,
       "word": "爆火的新疆旅游值得去吗",
@@ -513,6 +601,14 @@
       "onboard_time": 1659567262,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378753,
+      "num": 378753,
+      "word": "成都人七夕朋友圈晒暴雨",
+      "onboard_time": 1659577175,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 376018,
@@ -531,12 +627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359008,
+      "num": 359008,
+      "word": "小丑2定档",
+      "onboard_time": 1659579214,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356567,
       "num": 356567,
       "word": "市民投诉学校暑期不开放致无地锻炼",
       "onboard_time": 1659538427,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352297,
+      "num": 352297,
+      "word": "刘畊宏vivi说不能忘本",
+      "onboard_time": 1659580237,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 349387,
@@ -547,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345734,
-      "num": 345734,
-      "word": "男子睡觉时发现空调大口吐冰",
-      "onboard_time": 1659577896,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 347541,
+      "num": 347541,
+      "word": "iPhone14不再提供粉色",
+      "onboard_time": 1659580113,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 334164,
@@ -611,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308975,
+      "num": 308975,
+      "word": "浙江义乌新增32例阳性感染者",
+      "onboard_time": 1659577535,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302691,
       "num": 302691,
       "word": "江西三支一扶",
       "onboard_time": 1659577956,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 302272,
-      "num": 302272,
-      "word": "成都人七夕朋友圈晒暴雨",
-      "onboard_time": 1659577175,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 297336,
@@ -635,28 +747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291967,
-      "num": 291967,
-      "word": "浙江义乌新增32例阳性感染者",
-      "onboard_time": 1659577535,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285349,
-      "num": 285349,
-      "word": "台湾的事14亿中国人民说了算",
-      "onboard_time": 1659578315,
-      "rank": 42,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 281447,
       "num": 281447,
       "word": "周鹏加盟深圳男篮",
       "onboard_time": 1659573700,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270657,
+      "num": 270657,
+      "word": "新神榜杨戬新预告",
+      "onboard_time": 1659578495,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 270651,
@@ -667,20 +771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269983,
-      "num": 250734,
-      "word": "新神榜杨戬新预告",
-      "onboard_time": 1659578495,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266999,
       "num": 266999,
       "word": "七夕表情包",
       "onboard_time": 1659540702,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266727,
+      "num": 347905,
+      "word": "饿了么七夕买花三场免单",
+      "onboard_time": 1659578434,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 255781,
@@ -707,6 +811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 248871,
+      "num": 248871,
+      "word": "第五人格",
+      "onboard_time": 1659578376,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242501,
       "num": 242501,
       "word": "父亲拍摄陌生人假肢来激励截肢儿子",
@@ -729,6 +841,14 @@
       "onboard_time": 1659531827,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236013,
+      "num": 236013,
+      "word": "三省接力送00后烈士回家",
+      "onboard_time": 1659580658,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234297,
@@ -873,14 +993,6 @@
       "onboard_time": 1659519170,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71834,
-      "num": 293296,
-      "word": "饿了么七夕买花三场免单",
-      "onboard_time": 1659578434,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 66003,
