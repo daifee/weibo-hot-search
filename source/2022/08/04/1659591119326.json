@@ -1,0 +1,410 @@
+{
+  "runTime": 1659591119326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15874137,
+        "num": 15874137,
+        "word": "解放军重要军事演训行动12点开始",
+        "onboard_time": 1659577591,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3021069,
+        "num": 3021069,
+        "word": "七夕微信红包可发520",
+        "onboard_time": 1659585765,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 592952,
+        "num": 2692248,
+        "word": "任何搞台独分裂的人绝没有好下场",
+        "onboard_time": 1659574841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2637634,
+        "num": 2637634,
+        "word": "环岛六大区域演训行动开始",
+        "onboard_time": 1659587147,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2374014,
+        "num": 2374014,
+        "word": "台军称解放军无人机首次飞过金门",
+        "onboard_time": 1659579757,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2209176,
+        "num": 2209176,
+        "word": "台湾的事14亿中国人民说了算",
+        "onboard_time": 1659578315,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2134298,
+        "num": 2134298,
+        "word": "门票50块的演唱会",
+        "onboard_time": 1659587688,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1014464,
+        "num": 1014464,
+        "word": "赵丽颖林更新与凤行七夕祝福",
+        "onboard_time": 1659589722,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 933251,
+        "num": 933251,
+        "word": "佩洛西窜访台湾4大主要目的",
+        "onboard_time": 1659579037,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 740119,
+        "num": 930309,
+        "word": "安乐传",
+        "onboard_time": 1659585402,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2099210,
+        "num": 927703,
+        "word": "王心凌官宣加盟央视七夕晚会",
+        "onboard_time": 1659585101,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2090067,
+        "num": 925713,
+        "word": "演习区上空已无民航机飞行",
+        "onboard_time": 1659586970,
+        "rank": 11,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1247477,
+        "num": 922520,
+        "word": "单身久了会伤身吗",
+        "onboard_time": 1659586187,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1105673,
+        "num": 919120,
+        "word": "此次军演能达到什么效果",
+        "onboard_time": 1659589185,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 915933,
+        "num": 915933,
+        "word": "蔡徐坤注册哈密哈密商标",
+        "onboard_time": 1659583596,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835558,
+        "num": 835558,
+        "word": "美军导弹观测机前往监视解放军实弹演习",
+        "onboard_time": 1659584799,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 725492,
+        "num": 725492,
+        "word": "马思纯王俊凯商业互吹",
+        "onboard_time": 1659588170,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 715887,
+        "num": 715887,
+        "word": "安徽3年内就业率未达60%专业停招",
+        "onboard_time": 1659588348,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 671409,
+        "num": 671409,
+        "word": "我国成功发射陆地生态系统碳监测卫星",
+        "onboard_time": 1659585341,
+        "rank": 18,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 638280,
+        "num": 638280,
+        "word": "美团崩了",
+        "onboard_time": 1659585038,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 588892,
+        "num": 588892,
+        "word": "成都女生辣哭相亲对象",
+        "onboard_time": 1659587086,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 556373,
+        "num": 556373,
+        "word": "背景太假小伙凡尔赛式带货",
+        "onboard_time": 1659590260,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520927,
+        "num": 520927,
+        "word": "吴宣仪陈哲远吻戏花絮",
+        "onboard_time": 1659589783,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518632,
+        "num": 518632,
+        "word": "东部战区已全天候位台岛周边海空域",
+        "onboard_time": 1659573820,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 513937,
+        "num": 513937,
+        "word": "长相思",
+        "onboard_time": 1659589367,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488567,
+        "num": 488567,
+        "word": "断桥",
+        "onboard_time": 1659590616,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461317,
+        "num": 461317,
+        "word": "摩拜可以退押金了",
+        "onboard_time": 1659590378,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 456851,
+        "num": 456851,
+        "word": "科学家发现低温有助减肥",
+        "onboard_time": 1659587985,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 455628,
+        "num": 455628,
+        "word": "拜登新冠仍为阳性将继续隔离",
+        "onboard_time": 1659584557,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 445931,
+        "num": 445931,
+        "word": "G7和欧盟外长的声明是现实中万恶无耻的标本",
+        "onboard_time": 1659581436,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 443446,
+        "num": 443446,
+        "word": "男子借儿子2000元为老婆买礼物",
+        "onboard_time": 1659582039,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425110,
+        "num": 425110,
+        "word": "唐诗逸出演赵梦新歌MV",
+        "onboard_time": 1659585643,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 409412,
+        "num": 409412,
+        "word": "七夕情侣在⼀起要做什么",
+        "onboard_time": 1659577474,
+        "rank": 32,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 401165,
+        "num": 401165,
+        "word": "婚恋咨询师18年做上千个老公出轨案例",
+        "onboard_time": 1659589840,
+        "rank": 33,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 390508,
+        "num": 390508,
+        "word": "林妙妙的发夹是钱三一粘的",
+        "onboard_time": 1659587328,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383846,
+        "num": 383846,
+        "word": "凌不疑程少商七夕花絮",
+        "onboard_time": 1659584438,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359403,
+        "num": 359403,
+        "word": "男子睡觉时发现空调大口吐冰",
+        "onboard_time": 1659577896,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346685,
+        "num": 346685,
+        "word": "女子咒北海疫情大爆发全死光被拘",
+        "onboard_time": 1659579812,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337293,
+        "num": 337293,
+        "word": "张朝阳称独居的人要多说话",
+        "onboard_time": 1659588407,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 241324,
+        "num": 329003,
+        "word": "上万人5点20早起买花",
+        "onboard_time": 1659589246,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325119,
+        "num": 325119,
+        "word": "iPhone14Pro或取消远峰蓝配色",
+        "onboard_time": 1659580957,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 319042,
+        "num": 319042,
+        "word": "大理两座露天雕塑艺术品被指辱华",
+        "onboard_time": 1659588645,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 312737,
+        "num": 312737,
+        "word": "详解东部战区军事行动六大区域",
+        "onboard_time": 1659585886,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 300914,
+        "num": 300914,
+        "word": "白宫发言人不知如何回答佩洛西窜台",
+        "onboard_time": 1659590981,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 296728,
+        "num": 296728,
+        "word": "江西幼儿园行凶案嫌犯落网现场曝光",
+        "onboard_time": 1659582039,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294006,
+        "num": 294006,
+        "word": "阿富汗猎犬背影杀",
+        "onboard_time": 1659591040,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292813,
+        "num": 292813,
+        "word": "佩洛西丈夫对酒驾指控不认罪",
+        "onboard_time": 1659578916,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 353273,
+        "num": 292792,
+        "word": "东部战区在台湾海峡实施远程火力实弹射击",
+        "onboard_time": 1659591100,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 292643,
+        "num": 292643,
+        "word": "瞬间破解精神内耗",
+        "onboard_time": 1659590798,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 288768,
+        "num": 288768,
+        "word": "彩虹夫妇",
+        "onboard_time": 1659570754,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现祖国统一的决心坚如磐石#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659589618986,
+  "endTime": 1659591119326,
   "band_list": [
     {
       "raw_hot": 21645301,
@@ -59,6 +59,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3021069,
+      "num": 3021069,
+      "word": "七夕微信红包可发520",
+      "onboard_time": 1659585765,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 2942971,
       "num": 2752506,
       "word": "王心凌官宣加盟央视七夕晚会",
@@ -67,16 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2907531,
-      "num": 2907531,
-      "word": "七夕微信红包可发520",
-      "onboard_time": 1659585765,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 2814824,
-      "num": 869151,
+      "num": 925713,
       "word": "演习区上空已无民航机飞行",
       "onboard_time": 1659586970,
       "rank": 20,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105673,
+      "num": 919120,
+      "word": "此次军演能达到什么效果",
+      "onboard_time": 1659589185,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1104154,
       "num": 1104154,
       "word": "白象称活体蚂蚁非公司责任",
@@ -345,6 +353,14 @@
       "onboard_time": 1659540764,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014464,
+      "num": 1014464,
+      "word": "赵丽颖林更新与凤行七夕祝福",
+      "onboard_time": 1659589722,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 996624,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 906372,
-      "num": 906372,
+      "num": 930309,
       "word": "安乐传",
       "onboard_time": 1659585402,
       "rank": 47,
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 715887,
+      "num": 715887,
+      "word": "安徽3年内就业率未达60%专业停招",
+      "onboard_time": 1659588348,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 697898,
       "num": 697898,
       "word": "我国成功发射陆地生态系统碳监测卫星",
@@ -619,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592952,
+      "num": 2983748,
+      "word": "任何搞台独分裂的人绝没有好下场",
+      "onboard_time": 1659574841,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 592054,
       "num": 592054,
       "word": "萧美琴必将遭历史清算",
       "onboard_time": 1659574298,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 588892,
+      "num": 588892,
+      "word": "成都女生辣哭相亲对象",
+      "onboard_time": 1659587086,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 588299,
@@ -659,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 553038,
-      "num": 553038,
-      "word": "成都女生辣哭相亲对象",
-      "onboard_time": 1659587086,
-      "rank": 30,
-      "category": "社会新闻,情感"
+      "raw_hot": 556373,
+      "num": 556373,
+      "word": "背景太假小伙凡尔赛式带货",
+      "onboard_time": 1659590260,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551631,
@@ -673,14 +713,6 @@
       "onboard_time": 1659584079,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540799,
-      "num": 540799,
-      "word": "安徽3年内就业率未达60%专业停招",
-      "onboard_time": 1659588348,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 540776,
@@ -699,12 +731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520437,
-      "num": 2983748,
-      "word": "任何搞台独分裂的人绝没有好下场",
-      "onboard_time": 1659574841,
-      "rank": 24,
-      "category": "国内要闻"
+      "raw_hot": 520927,
+      "num": 520927,
+      "word": "吴宣仪陈哲远吻戏花絮",
+      "onboard_time": 1659589783,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 516193,
@@ -713,6 +745,14 @@
       "onboard_time": 1659531409,
       "rank": 18,
       "category": "自然"
+    },
+    {
+      "raw_hot": 513937,
+      "num": 513937,
+      "word": "长相思",
+      "onboard_time": 1659589367,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 513199,
@@ -753,6 +793,14 @@
       "onboard_time": 1659515809,
       "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 488567,
+      "num": 488567,
+      "word": "断桥",
+      "onboard_time": 1659590616,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 484886,
@@ -803,6 +851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461317,
+      "num": 461317,
+      "word": "摩拜可以退押金了",
+      "onboard_time": 1659590378,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 456851,
+      "num": 456851,
+      "word": "科学家发现低温有助减肥",
+      "onboard_time": 1659587985,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 454224,
       "num": 454224,
       "word": "周鹏",
@@ -819,22 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 437816,
-      "num": 437816,
-      "word": "此次军演能达到什么效果",
-      "onboard_time": 1659589185,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 435218,
-      "num": 435218,
-      "word": "长相思",
-      "onboard_time": 1659589367,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "iPhone14不再提供粉色",
@@ -849,14 +897,6 @@
       "onboard_time": 1659540883,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424007,
-      "num": 424007,
-      "word": "科学家发现低温有助减肥",
-      "onboard_time": 1659587985,
-      "rank": 42,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 415983,
@@ -881,6 +921,14 @@
       "onboard_time": 1659561732,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 401165,
+      "num": 401165,
+      "word": "婚恋咨询师18年做上千个老公出轨案例",
+      "onboard_time": 1659589840,
+      "rank": 33,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 398255,
@@ -1035,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353273,
+      "num": 292792,
+      "word": "东部战区在台湾海峡实施远程火力实弹射击",
+      "onboard_time": 1659591100,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 350289,
       "num": 350289,
       "word": "体操协会打假艺术体操世界冠军",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1659537947,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337293,
+      "num": 337293,
+      "word": "张朝阳称独居的人要多说话",
+      "onboard_time": 1659588407,
+      "rank": 45,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 334164,
@@ -1115,14 +1179,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 319471,
-      "num": 319471,
-      "word": "张朝阳称独居的人要多说话",
-      "onboard_time": 1659588407,
-      "rank": 45,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 316827,
       "num": 316827,
       "word": "快说谢谢90婚介所",
@@ -1163,12 +1219,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 300914,
+      "num": 300914,
+      "word": "白宫发言人不知如何回答佩洛西窜台",
+      "onboard_time": 1659590981,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 297336,
       "num": 297336,
       "word": "寄养金毛疑中暑去世被店家私埋",
       "onboard_time": 1659536268,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294006,
+      "num": 294006,
+      "word": "阿富汗猎犬背影杀",
+      "onboard_time": 1659591040,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 292643,
+      "num": 292643,
+      "word": "瞬间破解精神内耗",
+      "onboard_time": 1659590798,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 285722,
@@ -1272,6 +1352,14 @@
       "word": "父亲拍摄陌生人假肢来激励截肢儿子",
       "onboard_time": 1659534529,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241324,
+      "num": 385823,
+      "word": "上万人5点20早起买花",
+      "onboard_time": 1659589246,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1433,14 +1521,6 @@
       "onboard_time": 1659551655,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 110904,
-      "num": 385823,
-      "word": "上万人5点20早起买花",
-      "onboard_time": 1659589246,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81483,
