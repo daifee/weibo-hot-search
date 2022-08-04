@@ -1,0 +1,410 @@
+{
+  "runTime": 1659611894989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3848357,
+        "num": 3848357,
+        "word": "韩国外交部声明始终坚持一个中国",
+        "onboard_time": 1659603823,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2875823,
+        "num": 2875823,
+        "word": "东部战区导弹全部精准命中目标",
+        "onboard_time": 1659598175,
+        "rank": 1,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1693050,
+        "num": 2778727,
+        "word": "东部战区远程火力实弹射击现场画面",
+        "onboard_time": 1659600638,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2697211,
+        "num": 2697211,
+        "word": "台媒称解放军台海军演区域扩大至7处",
+        "onboard_time": 1659607957,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2602276,
+        "num": 2602276,
+        "word": "日本在台湾问题上负有历史罪责",
+        "onboard_time": 1659609339,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2292768,
+        "num": 2292768,
+        "word": "中国军队说话是算数的",
+        "onboard_time": 1659601481,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1825848,
+        "num": 1825848,
+        "word": "吃毒蘑菇4岁女童不幸离世",
+        "onboard_time": 1659608140,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999912,
+        "num": 999912,
+        "word": "华春莹说G7的列强梦该醒醒了",
+        "onboard_time": 1659602860,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 985217,
+        "num": 985217,
+        "word": "不再安排中日外长在金边会晤",
+        "onboard_time": 1659603101,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 866633,
+        "num": 866633,
+        "word": "林妙妙为保护邓小琪和渣男动手",
+        "onboard_time": 1659610479,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2150037,
+        "num": 846040,
+        "word": "秋瓷炫于晓光合体大片",
+        "onboard_time": 1659606640,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2079798,
+        "num": 805403,
+        "word": "腾讯将取消部分外包免费食堂福利",
+        "onboard_time": 1659602199,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1922447,
+        "num": 767607,
+        "word": "JackeyLove送女友13000元玫瑰花",
+        "onboard_time": 1659609458,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 924620,
+        "num": 697870,
+        "word": "外交部回应台海军演会否成为新常态",
+        "onboard_time": 1659609279,
+        "rank": 13,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 671998,
+        "num": 671998,
+        "word": "姚琛说JYP那么胖",
+        "onboard_time": 1659606342,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658512,
+        "num": 658512,
+        "word": "环岛六大区域实战演训最新画面",
+        "onboard_time": 1659608979,
+        "rank": 15,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 645072,
+        "num": 645072,
+        "word": "女生白嫖花束表白成功后欲退还",
+        "onboard_time": 1659599682,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640829,
+        "num": 640829,
+        "word": "颜淡你的真身火了",
+        "onboard_time": 1659604782,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582945,
+        "num": 582945,
+        "word": "台媒称环台军演切断台湾国际航线",
+        "onboard_time": 1659595837,
+        "rank": 18,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 559195,
+        "num": 559195,
+        "word": "HANNI直拍",
+        "onboard_time": 1659610416,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 671455,
+        "num": 558170,
+        "word": "吴露可逃",
+        "onboard_time": 1659607420,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659092,
+        "num": 557811,
+        "word": "王毅坚决驳斥七国集团涉台声明",
+        "onboard_time": 1659605322,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 544272,
+        "num": 544272,
+        "word": "看看美宣称和谁站一起后对方的下场",
+        "onboard_time": 1659607720,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 507272,
+        "num": 507272,
+        "word": "断桥影片时长113分钟",
+        "onboard_time": 1659610717,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499331,
+        "num": 499331,
+        "word": "没有刘宇宁接不上的歌",
+        "onboard_time": 1659611315,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437976,
+        "num": 437976,
+        "word": "紫幻的小乔",
+        "onboard_time": 1659610538,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 428361,
+        "num": 428361,
+        "word": "她的手机号是村民的120",
+        "onboard_time": 1659599257,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416470,
+        "num": 416470,
+        "word": "饿了么免单",
+        "onboard_time": 1659610235,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 400276,
+        "num": 400276,
+        "word": "火箭军实弹发射训练最新画面",
+        "onboard_time": 1659604842,
+        "rank": 28,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 386650,
+        "num": 386650,
+        "word": "三亚8月4日零时起进入区域管控状态",
+        "onboard_time": 1659604182,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465100,
+        "num": 382965,
+        "word": "吴磊赵露思心动对视好甜",
+        "onboard_time": 1659609158,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449452,
+        "num": 379182,
+        "word": "萧敬腾 西安下雨",
+        "onboard_time": 1659607837,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 441859,
+        "num": 375967,
+        "word": "秦岚把王子异送的饺子花煮了",
+        "onboard_time": 1659603344,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391858,
+        "num": 373314,
+        "word": "杨幂和赵今麦吃同一颗草莓",
+        "onboard_time": 1659611736,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371646,
+        "num": 371646,
+        "word": "东部战区实弹训练原声现场画面",
+        "onboard_time": 1659606640,
+        "rank": 34,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 366439,
+        "num": 366439,
+        "word": "台多家连锁超市屏幕被不明信号干扰",
+        "onboard_time": 1659603823,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349928,
+        "num": 349928,
+        "word": "演习成功说明我们可以想怎么打就怎么打",
+        "onboard_time": 1659611558,
+        "rank": 36,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 339189,
+        "num": 339189,
+        "word": "浙江一水库发现大量桃花水母",
+        "onboard_time": 1659601839,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319335,
+        "num": 319335,
+        "word": "G7外长自以为活在八国联军时代",
+        "onboard_time": 1659608561,
+        "rank": 38,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 60760,
+        "num": 303891,
+        "word": "心动约会LOOK",
+        "onboard_time": 1659610838,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 362492,
+        "num": 303873,
+        "word": "邓紫棋40秒哭戏感染力",
+        "onboard_time": 1659610178,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345096,
+        "num": 303808,
+        "word": "周震南父母被恢复执行",
+        "onboard_time": 1659597037,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303463,
+        "num": 303463,
+        "word": "华春莹回应大陆海关暂时取消台湾产品输入",
+        "onboard_time": 1659596078,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 302982,
+        "num": 302982,
+        "word": "王俊凯说只要不是大伤我都可以",
+        "onboard_time": 1659602802,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286090,
+        "num": 286090,
+        "word": "女子被同事拥抱致2根肋骨骨折",
+        "onboard_time": 1659596256,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265315,
+        "num": 265315,
+        "word": "七夕被全国求婚墙整破防",
+        "onboard_time": 1659599800,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 264103,
+        "num": 264103,
+        "word": "Hero战胜WE",
+        "onboard_time": 1659610780,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258336,
+        "num": 258336,
+        "word": "丈夫删的聊天记录里有啥",
+        "onboard_time": 1659611796,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255216,
+        "num": 255216,
+        "word": "浙江新增本土阳性50例",
+        "onboard_time": 1659597760,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246011,
+        "num": 246011,
+        "word": "大厂的外包工作值得去吗",
+        "onboard_time": 1659611435,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现祖国统一的决心坚如磐石#"
+    }
+  }
+}

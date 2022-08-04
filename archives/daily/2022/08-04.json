@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659609741959,
+  "endTime": 1659611894989,
   "band_list": [
     {
       "raw_hot": 21645301,
@@ -75,8 +75,8 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 3724415,
-      "num": 3724415,
+      "raw_hot": 3848357,
+      "num": 3848357,
       "word": "韩国外交部声明始终坚持一个中国",
       "onboard_time": 1659603823,
       "rank": 17,
@@ -163,12 +163,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2697211,
+      "num": 2697211,
+      "word": "台媒称解放军台海军演区域扩大至7处",
+      "onboard_time": 1659607957,
+      "rank": 25,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 2650229,
       "num": 2650229,
       "word": "环岛六大区域演训行动开始",
       "onboard_time": 1659587147,
       "rank": 7,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2602276,
+      "num": 2602276,
+      "word": "日本在台湾问题上负有历史罪责",
+      "onboard_time": 1659609339,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2590463,
@@ -200,14 +216,6 @@
       "word": "东部战区远程火力实弹射击现场画面",
       "onboard_time": 1659600638,
       "rank": 9,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 2335402,
-      "num": 2335402,
-      "word": "台媒称解放军台海军演区域扩大至7处",
-      "onboard_time": 1659607957,
-      "rank": 25,
       "category": "军事,国内要闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1922447,
+      "num": 906993,
+      "word": "JackeyLove送女友13000元玫瑰花",
+      "onboard_time": 1659609458,
+      "rank": 12,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1917526,
       "num": 1917526,
       "word": "台湾问题不是地区问题是中国内政",
@@ -304,6 +320,14 @@
       "word": "俞敏洪曝新东方主播年收入二三十万",
       "onboard_time": 1659577054,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1825848,
+      "num": 1825848,
+      "word": "吃毒蘑菇4岁女童不幸离世",
+      "onboard_time": 1659608140,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -377,14 +401,6 @@
       "onboard_time": 1659586187,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1430462,
-      "num": 1430462,
-      "word": "吃毒蘑菇4岁女童不幸离世",
-      "onboard_time": 1659608140,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1414353,
@@ -675,20 +691,20 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 924620,
+      "num": 697870,
+      "word": "外交部回应台海军演会否成为新常态",
+      "onboard_time": 1659609279,
+      "rank": 38,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 908021,
       "num": 908021,
       "word": "吴磊赵露思心动对视好甜",
       "onboard_time": 1659609158,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 906993,
-      "num": 906993,
-      "word": "JackeyLove送女友13000元玫瑰花",
-      "onboard_time": 1659609458,
-      "rank": 12,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 906372,
@@ -721,6 +737,14 @@
       "onboard_time": 1659592118,
       "rank": 12,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 866633,
+      "num": 866633,
+      "word": "林妙妙为保护邓小琪和渣男动手",
+      "onboard_time": 1659610479,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 862001,
@@ -955,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658512,
+      "num": 658512,
+      "word": "环岛六大区域实战演训最新画面",
+      "onboard_time": 1659608979,
+      "rank": 41,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 652731,
       "num": 652731,
       "word": "我不是苏醒",
@@ -985,6 +1017,14 @@
       "onboard_time": 1659579876,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640829,
+      "num": 640829,
+      "word": "颜淡你的真身火了",
+      "onboard_time": 1659604782,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 640326,
@@ -1099,14 +1139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 572360,
-      "num": 572360,
-      "word": "颜淡你的真身火了",
-      "onboard_time": 1659604782,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 571106,
       "num": 571106,
       "word": "苍兰诀定档0807",
@@ -1139,12 +1171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559195,
+      "num": 559195,
+      "word": "HANNI直拍",
+      "onboard_time": 1659610416,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 551631,
       "num": 551631,
       "word": "郭俊辰赵今麦海边氛围大片",
       "onboard_time": 1659584079,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544272,
+      "num": 544272,
+      "word": "看看美宣称和谁站一起后对方的下场",
+      "onboard_time": 1659607720,
+      "rank": 42,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 540776,
@@ -1251,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 507272,
+      "num": 507272,
+      "word": "断桥影片时长113分钟",
+      "onboard_time": 1659610717,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506145,
       "num": 506145,
       "word": "上海七夕花市遇冷",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1659568647,
       "rank": 27,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 499331,
+      "num": 499331,
+      "word": "没有刘宇宁接不上的歌",
+      "onboard_time": 1659611315,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 492472,
@@ -1403,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437976,
+      "num": 437976,
+      "word": "紫幻的小乔",
+      "onboard_time": 1659610538,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "iPhone14不再提供粉色",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1659606401,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416470,
+      "num": 416470,
+      "word": "饿了么免单",
+      "onboard_time": 1659610235,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 415983,
@@ -1483,14 +1563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 403595,
-      "num": 403595,
-      "word": "看看美宣称和谁站一起后对方的下场",
-      "onboard_time": 1659607720,
-      "rank": 42,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 402726,
       "num": 402726,
       "word": "张朝阳称独居的人要多说话",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1659533091,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 391858,
+      "num": 373314,
+      "word": "杨幂和赵今麦吃同一颗草莓",
+      "onboard_time": 1659611736,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 391764,
@@ -1529,14 +1609,6 @@
       "onboard_time": 1659596855,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384406,
-      "num": 384406,
-      "word": "外交部回应台海军演会否成为新常态",
-      "onboard_time": 1659609279,
-      "rank": 38,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 383754,
@@ -1667,6 +1739,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 362492,
+      "num": 303873,
+      "word": "邓紫棋40秒哭戏感染力",
+      "onboard_time": 1659610178,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359711,
       "num": 359711,
       "word": "唐周腹肌",
@@ -1747,6 +1827,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 349928,
+      "num": 349928,
+      "word": "演习成功说明我们可以想怎么打就怎么打",
+      "onboard_time": 1659611558,
+      "rank": 36,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 349387,
       "num": 349387,
       "word": "月升沧海第七集",
@@ -1763,28 +1851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345766,
-      "num": 345766,
-      "word": "日本在台湾问题上负有历史罪责",
-      "onboard_time": 1659609339,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 342295,
       "num": 342295,
       "word": "夏英歌热能官宣",
       "onboard_time": 1659599560,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335478,
-      "num": 335478,
-      "word": "环岛六大区域实战演训最新画面",
-      "onboard_time": 1659608979,
-      "rank": 41,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 334164,
@@ -1865,6 +1937,14 @@
       "onboard_time": 1659560351,
       "rank": 39,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 319335,
+      "num": 319335,
+      "word": "G7外长自以为活在八国联军时代",
+      "onboard_time": 1659608561,
+      "rank": 49,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 316827,
@@ -1963,14 +2043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294306,
-      "num": 294306,
-      "word": "G7外长自以为活在八国联军时代",
-      "onboard_time": 1659608561,
-      "rank": 49,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 294006,
       "num": 294006,
       "word": "阿富汗猎犬背影杀",
@@ -2051,12 +2123,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 264103,
+      "num": 264103,
+      "word": "Hero战胜WE",
+      "onboard_time": 1659610780,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259872,
       "num": 259872,
       "word": "七夕节消费主义陷阱有多深",
       "onboard_time": 1659595414,
       "rank": 45,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 258336,
+      "num": 258336,
+      "word": "丈夫删的聊天记录里有啥",
+      "onboard_time": 1659611796,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255781,
@@ -2097,6 +2185,14 @@
       "onboard_time": 1659591579,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 246011,
+      "num": 246011,
+      "word": "大厂的外包工作值得去吗",
+      "onboard_time": 1659611435,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 242986,
@@ -2393,6 +2489,14 @@
       "onboard_time": 1659548060,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60760,
+      "num": 303891,
+      "word": "心动约会LOOK",
+      "onboard_time": 1659610838,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 58129,
