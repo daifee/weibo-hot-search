@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659632260093,
+  "endTime": 1659634022103,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -4027,6 +4027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646927,
+      "num": 646927,
+      "word": "前足协领导被曝酒后不配合防疫",
+      "onboard_time": 1659629972,
+      "rank": 25,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 646442,
       "num": 646442,
       "word": "她的手机号是村民的120",
@@ -4371,14 +4379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 587365,
-      "num": 587365,
-      "word": "前足协领导被曝酒后不配合防疫",
-      "onboard_time": 1659629972,
-      "rank": 25,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 587336,
       "num": 507044,
       "word": "NBA或因杜兰特停摆",
@@ -4577,6 +4577,14 @@
       "onboard_time": 1659625002,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 563062,
+      "num": 563062,
+      "word": "30岁女子恋爱遭父母反对被气晕",
+      "onboard_time": 1659630987,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562846,
@@ -6195,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412097,
+      "num": 412097,
+      "word": "骚男求婚",
+      "onboard_time": 1659633022,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 411661,
       "num": 411661,
       "word": "陈春花公开信",
@@ -6473,6 +6489,14 @@
       "onboard_time": 1659363705,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391165,
+      "num": 391165,
+      "word": "邓小琪男友下跪",
+      "onboard_time": 1659632305,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 389578,
@@ -7097,14 +7121,6 @@
       "onboard_time": 1659586067,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 354657,
-      "num": 354657,
-      "word": "30岁女子恋爱遭父母反对被气晕",
-      "onboard_time": 1659630987,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353576,
@@ -9865,6 +9881,14 @@
       "onboard_time": 1659271406,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90117,
+      "num": 90117,
+      "word": "河南成全球最大人造钻石生产地",
+      "onboard_time": 1659633142,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 89802,
