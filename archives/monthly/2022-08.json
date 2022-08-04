@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659641693352,
+  "endTime": 1659644618509,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -9515,6 +9515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190642,
+      "num": 190642,
+      "word": "陈晓毛晓彤cp名笑毛啊",
+      "onboard_time": 1659640694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188948,
       "num": 188948,
       "word": "全国铁路客运车站全部实现军人优先",
@@ -9681,14 +9689,6 @@
       "onboard_time": 1659355532,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154685,
-      "num": 92181,
-      "word": "陈晓毛晓彤cp名笑毛啊",
-      "onboard_time": 1659640694,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 148000,
@@ -10211,6 +10211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18824,
+      "num": 18824,
+      "word": "你吃过哪些又臭又上头的美食",
+      "onboard_time": 1659642852,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14876,
       "num": 14876,
       "word": "詹姆斯与儿子一起训练",
@@ -10225,6 +10233,14 @@
       "onboard_time": 1659557532,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13270,
+      "num": 13270,
+      "word": "什么专业不会贬值",
+      "onboard_time": 1659643752,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 12690,

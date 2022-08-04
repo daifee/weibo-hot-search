@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659641693352,
+  "endTime": 1659644618509,
   "band_list": [
     {
       "raw_hot": 4259551,
@@ -387,6 +387,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 190642,
+      "num": 190642,
+      "word": "陈晓毛晓彤cp名笑毛啊",
+      "onboard_time": 1659640694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182841,
       "num": 182841,
       "word": "月升沧海更改播出时间",
@@ -401,14 +409,6 @@
       "onboard_time": 1659620982,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154685,
-      "num": 92181,
-      "word": "陈晓毛晓彤cp名笑毛啊",
-      "onboard_time": 1659640694,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 153181,
@@ -473,6 +473,22 @@
       "onboard_time": 1659640033,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18824,
+      "num": 18824,
+      "word": "你吃过哪些又臭又上头的美食",
+      "onboard_time": 1659642852,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13270,
+      "num": 13270,
+      "word": "什么专业不会贬值",
+      "onboard_time": 1659643752,
+      "rank": 49,
+      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
