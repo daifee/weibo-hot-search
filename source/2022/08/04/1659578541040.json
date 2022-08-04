@@ -1,0 +1,410 @@
+{
+  "runTime": 1659578541040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5030317,
+        "num": 5030317,
+        "word": "东部战区已全天候位台岛周边海空域",
+        "onboard_time": 1659573820,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2655070,
+        "num": 2655070,
+        "word": "解放军27架次军机跨越所谓海峡中线",
+        "onboard_time": 1659543574,
+        "rank": 1,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1127724,
+        "num": 2554863,
+        "word": "实战演训为何选择环岛六大区域",
+        "onboard_time": 1659570152,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2479040,
+        "num": 2479040,
+        "word": "解放军重要军事演训行动",
+        "onboard_time": 1659571297,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2303933,
+        "num": 2303933,
+        "word": "iPhone14新增紫色",
+        "onboard_time": 1659573515,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2037387,
+        "num": 2037387,
+        "word": "父母溺亡奶奶卖菜供孙子考上985",
+        "onboard_time": 1659574477,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1700581,
+        "num": 1700581,
+        "word": "幼儿园命案嫌犯同学称其脾气暴躁",
+        "onboard_time": 1659573279,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1575065,
+        "num": 1575065,
+        "word": "彩虹夫妇",
+        "onboard_time": 1659570754,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1104154,
+        "num": 1104154,
+        "word": "白象称活体蚂蚁非公司责任",
+        "onboard_time": 1659573098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096779,
+        "num": 1096779,
+        "word": "七夕",
+        "onboard_time": 1659568826,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1264519,
+        "num": 1061314,
+        "word": "俞敏洪曝新东方主播年收入二三十万",
+        "onboard_time": 1659577054,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163384,
+        "num": 1051856,
+        "word": "张艺兴公司新增电竞业务",
+        "onboard_time": 1659573098,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996624,
+        "num": 996624,
+        "word": "湖南一公交车冲入花坛司机身亡",
+        "onboard_time": 1659573340,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 843951,
+        "num": 843951,
+        "word": "海南三亚进入区域管控状态",
+        "onboard_time": 1659541181,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809567,
+        "num": 809567,
+        "word": "女童被困电梯按亮所有楼层键自救",
+        "onboard_time": 1659576816,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764057,
+        "num": 764057,
+        "word": "请君缘定今夕海报",
+        "onboard_time": 1659576875,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 732461,
+        "num": 732461,
+        "word": "肖战时影玉骨遥杀青一周年",
+        "onboard_time": 1659576039,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 703925,
+        "num": 703925,
+        "word": "宝宝被枕头闷住连扇四巴掌打醒妈妈",
+        "onboard_time": 1659547343,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678277,
+        "num": 678277,
+        "word": "孤寡青蛙",
+        "onboard_time": 1659569793,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 626455,
+        "num": 626455,
+        "word": "导游要挟称白领需至少消费8000元",
+        "onboard_time": 1659574239,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 611998,
+        "num": 611998,
+        "word": "七夕情侣在⼀起要做什么",
+        "onboard_time": 1659577474,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 610940,
+        "num": 610940,
+        "word": "河南民权县全域人员赋码管理",
+        "onboard_time": 1659574779,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592054,
+        "num": 592054,
+        "word": "萧美琴必将遭历史清算",
+        "onboard_time": 1659574298,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 572730,
+        "num": 572730,
+        "word": "符龙飞keyone疑似抄袭",
+        "onboard_time": 1659571297,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 520209,
+        "num": 520209,
+        "word": "任何搞台独分裂的人绝没有好下场",
+        "onboard_time": 1659574841,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 500528,
+        "num": 500528,
+        "word": "实战演训为何定于今日开始",
+        "onboard_time": 1659577591,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 481385,
+        "num": 481385,
+        "word": "北京8月3日新增1例本土无症状",
+        "onboard_time": 1659576216,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473709,
+        "num": 473709,
+        "word": "广州规划新增30条地铁",
+        "onboard_time": 1659575258,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416781,
+        "num": 416781,
+        "word": "深情男生谈恋爱8天分手后痛哭不止",
+        "onboard_time": 1659567866,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390129,
+        "num": 390129,
+        "word": "陕西女子举报污染获刑后改判无罪",
+        "onboard_time": 1659577715,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376018,
+        "num": 376018,
+        "word": "七夕节是古代的妇女节",
+        "onboard_time": 1659573158,
+        "rank": 30,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 359317,
+        "num": 359317,
+        "word": "林妙妙化妆像极了佟湘玉",
+        "onboard_time": 1659536870,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345734,
+        "num": 345734,
+        "word": "男子睡觉时发现空调大口吐冰",
+        "onboard_time": 1659577896,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322741,
+        "num": 322741,
+        "word": "做梦都想要的工位",
+        "onboard_time": 1659571778,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 321773,
+        "num": 321773,
+        "word": "8月3日新增本土无症状241例",
+        "onboard_time": 1659576636,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313502,
+        "num": 313502,
+        "word": "义乌疫情防控",
+        "onboard_time": 1659577535,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306477,
+        "num": 306477,
+        "word": "4岁娃办身份证对民警敬3个礼",
+        "onboard_time": 1659561613,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302691,
+        "num": 302691,
+        "word": "江西三支一扶",
+        "onboard_time": 1659577956,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302272,
+        "num": 302272,
+        "word": "成都人七夕朋友圈晒暴雨",
+        "onboard_time": 1659577175,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 71834,
+        "num": 293296,
+        "word": "饿了么七夕买花三场免单",
+        "onboard_time": 1659578434,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 292661,
+        "num": 292661,
+        "word": "新东方花近200亿退学费和遣散费",
+        "onboard_time": 1659533091,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 291967,
+        "num": 291967,
+        "word": "浙江义乌新增32例阳性感染者",
+        "onboard_time": 1659577535,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285349,
+        "num": 285349,
+        "word": "台湾的事14亿中国人民说了算",
+        "onboard_time": 1659578315,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 281447,
+        "num": 281447,
+        "word": "周鹏加盟深圳男篮",
+        "onboard_time": 1659573700,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275027,
+        "num": 275027,
+        "word": "年轻人为什么不爱办传统婚礼",
+        "onboard_time": 1659540224,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 270651,
+        "num": 270651,
+        "word": "河南增本土无症状41例",
+        "onboard_time": 1659578073,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251137,
+        "num": 251137,
+        "word": "南方的蟑螂真的会把人吓哭",
+        "onboard_time": 1659546264,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269983,
+        "num": 250734,
+        "word": "新神榜杨戬新预告",
+        "onboard_time": 1659578495,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238496,
+        "num": 238496,
+        "word": "独行月球有多好看",
+        "onboard_time": 1659570693,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220005,
+        "num": 220005,
+        "word": "越妃怼人",
+        "onboard_time": 1659539626,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#维护领土完整是14亿多中国人民的意志#"
+    }
+  }
+}
