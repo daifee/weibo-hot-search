@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659640718296,
+  "endTime": 1659641693352,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -9683,6 +9683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154685,
+      "num": 92181,
+      "word": "陈晓毛晓彤cp名笑毛啊",
+      "onboard_time": 1659640694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148000,
       "num": 148000,
       "word": "吐鲁番一串葡萄有手臂那么长",
@@ -9921,14 +9929,6 @@
       "onboard_time": 1659290115,
       "rank": 27,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 87603,
-      "num": 21142,
-      "word": "陈晓毛晓彤cp名笑毛啊",
-      "onboard_time": 1659640694,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 87591,

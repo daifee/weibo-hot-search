@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659640718296,
+  "endTime": 1659641693352,
   "band_list": [
     {
       "raw_hot": 4259551,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154685,
+      "num": 92181,
+      "word": "陈晓毛晓彤cp名笑毛啊",
+      "onboard_time": 1659640694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153181,
       "num": 153181,
       "word": "天津一小客车掉落河中4人死亡",
@@ -449,14 +457,6 @@
       "onboard_time": 1659636555,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87603,
-      "num": 21142,
-      "word": "陈晓毛晓彤cp名笑毛啊",
-      "onboard_time": 1659640694,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 86470,
