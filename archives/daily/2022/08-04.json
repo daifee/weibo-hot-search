@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659612888503,
+  "endTime": 1659617032728,
   "band_list": [
     {
       "raw_hot": 21645301,
@@ -51,6 +51,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 5347530,
+      "num": 5347530,
+      "word": "丈夫删的聊天记录里有啥",
+      "onboard_time": 1659611796,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5030317,
       "num": 5030317,
       "word": "东部战区已全天候位台岛周边海空域",
@@ -97,6 +105,14 @@
       "onboard_time": 1659602199,
       "rank": 28,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 3429716,
+      "num": 2393217,
+      "word": "泽连斯基称想与中国直接对话",
+      "onboard_time": 1659612757,
+      "rank": 42,
+      "category": "国外要闻,国内要闻"
     },
     {
       "raw_hot": 3425795,
@@ -219,6 +235,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 2412164,
+      "num": 2412164,
+      "word": "环岛六大区域实战演训最新画面",
+      "onboard_time": 1659608979,
+      "rank": 41,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 2303933,
       "num": 2303933,
       "word": "iPhone14新增紫色",
@@ -233,6 +257,14 @@
       "onboard_time": 1659587688,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2295217,
+      "num": 2295217,
+      "word": "东部战区出动上百架多型战机",
+      "onboard_time": 1659613419,
+      "rank": 5,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 2292541,
@@ -265,6 +297,14 @@
       "onboard_time": 1659597037,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2110942,
+      "num": 2110942,
+      "word": "美驻韩大使馆车辆在首尔撞上大楼",
+      "onboard_time": 1659614795,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2098734,
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 1922447,
-      "num": 906993,
+      "num": 1098060,
       "word": "JackeyLove送女友13000元玫瑰花",
       "onboard_time": 1659609458,
       "rank": 12,
@@ -331,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1810717,
+      "num": 1810717,
+      "word": "央视七夕晚会",
+      "onboard_time": 1659614500,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1794112,
       "num": 1794112,
       "word": "此次军演能达到什么效果",
@@ -347,20 +395,20 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 1753947,
-      "num": 794904,
-      "word": "丈夫删的聊天记录里有啥",
-      "onboard_time": 1659611796,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1745455,
       "num": 977716,
       "word": "美军导弹观测机前往监视解放军实弹演习",
       "onboard_time": 1659584799,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1728123,
+      "num": 1728123,
+      "word": "解放军战机驱护舰演训震撼现场",
+      "onboard_time": 1659614319,
+      "rank": 8,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1700581,
@@ -425,6 +473,14 @@
       "onboard_time": 1659576816,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1397276,
+      "num": 1397276,
+      "word": "演习成功说明我们可以想怎么打就怎么打",
+      "onboard_time": 1659611558,
+      "rank": 36,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1394216,
@@ -537,6 +593,14 @@
       "onboard_time": 1659577896,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1104762,
+      "num": 1104762,
+      "word": "程少商当众吻凌不疑",
+      "onboard_time": 1659614500,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1104154,
@@ -723,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 898672,
-      "num": 898672,
-      "word": "环岛六大区域实战演训最新画面",
-      "onboard_time": 1659608979,
-      "rank": 41,
-      "category": "军事,国内要闻"
+      "raw_hot": 892605,
+      "num": 892605,
+      "word": "北京海淀6家必胜客被暂停外卖订餐",
+      "onboard_time": 1659613718,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882773,
@@ -763,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 865782,
+      "num": 865782,
+      "word": "月升沧海更改播出时间",
+      "onboard_time": 1659614379,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 862001,
       "num": 862001,
       "word": "新闻联播",
@@ -793,6 +865,14 @@
       "onboard_time": 1659601301,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830765,
+      "num": 791478,
+      "word": "凌不疑扑倒程少商",
+      "onboard_time": 1659615519,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 830612,
@@ -841,14 +921,6 @@
       "onboard_time": 1659602802,
       "rank": 48,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 775241,
-      "num": 775241,
-      "word": "演习成功说明我们可以想怎么打就怎么打",
-      "onboard_time": 1659611558,
-      "rank": 36,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 764057,
@@ -995,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687974,
+      "num": 687974,
+      "word": "中国人必会的填空题",
+      "onboard_time": 1659614978,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 678584,
       "num": 678584,
       "word": "深情男生谈恋爱8天分手后痛哭不止",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1659579876,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 642222,
+      "num": 642222,
+      "word": "李泽言 电话",
+      "onboard_time": 1659615938,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 640326,
@@ -1163,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583591,
+      "num": 583591,
+      "word": "陈紫函戴向宇六年七夕",
+      "onboard_time": 1659612097,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 572730,
       "num": 572730,
       "word": "符龙飞keyone疑似抄袭",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1659529426,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 562770,
+      "num": 562770,
+      "word": "沉香如屑电话",
+      "onboard_time": 1659614795,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 562260,
@@ -1427,6 +1531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481193,
+      "num": 255472,
+      "word": "颜淡说唐周注孤生",
+      "onboard_time": 1659617019,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477817,
+      "num": 432604,
+      "word": "颜淡误会余墨",
+      "onboard_time": 1659615100,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473709,
       "num": 473709,
       "word": "广州规划新增30条地铁",
@@ -1475,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445607,
+      "num": 445607,
+      "word": "考驾照崩溃的不只是学生",
+      "onboard_time": 1659614077,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 442955,
       "num": 442955,
       "word": "七夕文案",
@@ -1515,6 +1643,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 436442,
+      "num": 436442,
+      "word": "躲过了孤寡青蛙没躲过孤独水壶",
+      "onboard_time": 1659615458,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 434957,
+      "num": 434957,
+      "word": "三亚旅游旺季或提前结束",
+      "onboard_time": 1659612997,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "iPhone14不再提供粉色",
@@ -1537,14 +1681,6 @@
       "onboard_time": 1659602501,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 424682,
-      "num": 368560,
-      "word": "陈紫函戴向宇六年七夕",
-      "onboard_time": 1659612097,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 422979,
@@ -1585,6 +1721,14 @@
       "onboard_time": 1659561732,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 410219,
+      "num": 410219,
+      "word": "运油20亮相东部战区实战化演训",
+      "onboard_time": 1659615640,
+      "rank": 31,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 408361,
@@ -1633,6 +1777,14 @@
       "onboard_time": 1659537349,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389534,
+      "num": 389534,
+      "word": "许昕七夕晒一家四口",
+      "onboard_time": 1659613958,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 388937,
@@ -1755,6 +1907,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368841,
+      "num": 368841,
+      "word": "140秒看解放军反制行动现场视频",
+      "onboard_time": 1659615818,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 368382,
+      "num": 368382,
+      "word": "EDG挠头三人组",
+      "onboard_time": 1659616058,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367017,
       "num": 367017,
       "word": "国台办回应G7和欧盟涉台声明",
@@ -1867,6 +2035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 352651,
+      "num": 352651,
+      "word": "这就是中国态度",
+      "onboard_time": 1659614618,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 352264,
       "num": 352264,
       "word": "这只鸭子吃饭一点也不斯文",
@@ -1929,6 +2105,14 @@
       "onboard_time": 1659582219,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330700,
+      "num": 330700,
+      "word": "老林演讲时犯病",
+      "onboard_time": 1659616657,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 329744,
@@ -2099,14 +2283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 287128,
-      "num": 287128,
-      "word": "泽连斯基称想与中国直接对话",
-      "onboard_time": 1659612757,
-      "rank": 42,
-      "category": "国外要闻,国内要闻"
-    },
-    {
       "raw_hot": 285722,
       "num": 285722,
       "word": "前任会影响你择偶标准吗",
@@ -2129,6 +2305,22 @@
       "onboard_time": 1659580776,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 278783,
+      "num": 278783,
+      "word": "阿里发布2023财年第一季度财报",
+      "onboard_time": 1659616237,
+      "rank": 44,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 276840,
+      "num": 276840,
+      "word": "2022TF家族夏日运动会本周末上线",
+      "onboard_time": 1659613238,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 273068,
@@ -2249,6 +2441,14 @@
       "onboard_time": 1659591579,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 243351,
+      "num": 243351,
+      "word": "东部战区实弹射击取得预期效果",
+      "onboard_time": 1659617019,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 242986,
@@ -2545,6 +2745,14 @@
       "onboard_time": 1659610838,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 81179,
+      "num": 339217,
+      "word": "七夕浪漫指南",
+      "onboard_time": 1659614439,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66003,
