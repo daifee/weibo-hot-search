@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659649016983,
+  "endTime": 1659651671631,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -9475,6 +9475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193953,
+      "num": 193953,
+      "word": "山东局地将突破40摄氏度",
+      "onboard_time": 1659647172,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193530,
       "num": 193530,
       "word": "维护领土完整是14亿多中国人民的意志",
@@ -9907,6 +9915,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96593,
+      "num": 96593,
+      "word": "什么专业不会贬值",
+      "onboard_time": 1659643752,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 93281,
+      "num": 93281,
+      "word": "原来刘星走在了时尚前沿",
+      "onboard_time": 1659651013,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89802,
       "num": 89802,
       "word": "我要是有这睡眠就好了",
@@ -9945,6 +9969,14 @@
       "onboard_time": 1659629734,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84663,
+      "num": 84663,
+      "word": "徐志胜这人有点东西",
+      "onboard_time": 1659645851,
+      "rank": 15,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 82022,
@@ -10003,14 +10035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70920,
-      "num": 70920,
-      "word": "什么专业不会贬值",
-      "onboard_time": 1659643752,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 68920,
       "num": 68920,
       "word": "点赞强军",
@@ -10019,12 +10043,28 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 66784,
+      "num": 66784,
+      "word": "公司要求跳槽超5次不要投简历",
+      "onboard_time": 1659650714,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66003,
       "num": 66003,
       "word": "钱三一出息了",
       "onboard_time": 1659548060,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64222,
+      "num": 64222,
+      "word": "民警带手术前想坐警车的男孩巡逻",
+      "onboard_time": 1659649213,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59763,
@@ -10123,14 +10163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 45932,
-      "num": 45932,
-      "word": "徐志胜这人有点东西",
-      "onboard_time": 1659645851,
-      "rank": 15,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 45338,
       "num": 480116,
       "word": "共同致敬人民子弟兵",
@@ -10171,12 +10203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37068,
-      "num": 37068,
-      "word": "山东局地将突破40摄氏度",
-      "onboard_time": 1659647172,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 37018,
+      "num": 37018,
+      "word": "芝士裴之演的草莓裴之",
+      "onboard_time": 1659644772,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 36448,
@@ -10211,14 +10243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30750,
-      "num": 30750,
-      "word": "芝士裴之演的草莓裴之",
-      "onboard_time": 1659644772,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 28848,
       "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
@@ -10241,6 +10265,14 @@
       "onboard_time": 1659642852,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26663,
+      "num": 26663,
+      "word": "浙江今年33.7万考生被高校录取",
+      "onboard_time": 1659651615,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 25017,
