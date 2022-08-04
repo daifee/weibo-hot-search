@@ -1,0 +1,410 @@
+{
+  "runTime": 1659612888503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3633692,
+        "num": 3633692,
+        "word": "日本在台湾问题上负有历史罪责",
+        "onboard_time": 1659609339,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3110040,
+        "num": 3110040,
+        "word": "韩国外交部声明始终坚持一个中国",
+        "onboard_time": 1659603823,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1801815,
+        "num": 2773103,
+        "word": "东部战区远程火力实弹射击现场画面",
+        "onboard_time": 1659600638,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2635598,
+        "num": 2635598,
+        "word": "台媒称解放军台海军演区域扩大至7处",
+        "onboard_time": 1659607957,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2092041,
+        "num": 2092041,
+        "word": "中国军队说话是算数的",
+        "onboard_time": 1659601481,
+        "rank": 4,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1884124,
+        "num": 1884124,
+        "word": "东部战区导弹全部精准命中目标",
+        "onboard_time": 1659598175,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1525872,
+        "num": 1525872,
+        "word": "吃毒蘑菇4岁女童不幸离世",
+        "onboard_time": 1659608140,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1341160,
+        "num": 1341160,
+        "word": "外交部回应台海军演会否成为新常态",
+        "onboard_time": 1659609279,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1060360,
+        "num": 1060360,
+        "word": "华春莹说G7的列强梦该醒醒了",
+        "onboard_time": 1659602860,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 898672,
+        "num": 898672,
+        "word": "环岛六大区域实战演训最新画面",
+        "onboard_time": 1659608979,
+        "rank": 9,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2175443,
+        "num": 869384,
+        "word": "腾讯将取消部分外包免费食堂福利",
+        "onboard_time": 1659602199,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1867368,
+        "num": 861422,
+        "word": "秋瓷炫于晓光合体大片",
+        "onboard_time": 1659606640,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1833112,
+        "num": 824581,
+        "word": "JackeyLove送女友13000元玫瑰花",
+        "onboard_time": 1659609458,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1753947,
+        "num": 794904,
+        "word": "丈夫删的聊天记录里有啥",
+        "onboard_time": 1659611796,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775241,
+        "num": 775241,
+        "word": "演习成功说明我们可以想怎么打就怎么打",
+        "onboard_time": 1659611558,
+        "rank": 14,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 763305,
+        "num": 763305,
+        "word": "颜淡你的真身火了",
+        "onboard_time": 1659604782,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 761504,
+        "num": 761504,
+        "word": "杨幂和赵今麦吃同一颗草莓",
+        "onboard_time": 1659611736,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704774,
+        "num": 704774,
+        "word": "不再安排中日外长在金边会晤",
+        "onboard_time": 1659603101,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 693504,
+        "num": 693504,
+        "word": "时代少年团时代夏令营停更一期",
+        "onboard_time": 1659612457,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688348,
+        "num": 688348,
+        "word": "林妙妙为保护邓小琪和渣男动手",
+        "onboard_time": 1659610479,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550421,
+        "num": 550421,
+        "word": "吴露可逃",
+        "onboard_time": 1659607420,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540566,
+        "num": 540566,
+        "word": "王毅坚决驳斥七国集团涉台声明",
+        "onboard_time": 1659605322,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 538273,
+        "num": 538273,
+        "word": "看看美宣称和谁站一起后对方的下场",
+        "onboard_time": 1659607720,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 516666,
+        "num": 516666,
+        "word": "姚琛说JYP那么胖",
+        "onboard_time": 1659606342,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503712,
+        "num": 503712,
+        "word": "断桥预售开启",
+        "onboard_time": 1659612516,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493864,
+        "num": 493864,
+        "word": "女生白嫖花束表白成功后欲退还",
+        "onboard_time": 1659599682,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420732,
+        "num": 420732,
+        "word": "新闻联播",
+        "onboard_time": 1659612639,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415114,
+        "num": 415114,
+        "word": "台媒称环台军演切断台湾国际航线",
+        "onboard_time": 1659595837,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 378739,
+        "num": 378739,
+        "word": "G7外长自以为活在八国联军时代",
+        "onboard_time": 1659608561,
+        "rank": 28,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 369863,
+        "num": 369863,
+        "word": "她的手机号是村民的120",
+        "onboard_time": 1659599257,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456471,
+        "num": 369644,
+        "word": "HANNI直拍",
+        "onboard_time": 1659610416,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424682,
+        "num": 368560,
+        "word": "陈紫函戴向宇六年七夕",
+        "onboard_time": 1659612097,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408964,
+        "num": 368167,
+        "word": "吴磊赵露思心动对视好甜",
+        "onboard_time": 1659609158,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367247,
+        "num": 367247,
+        "word": "紫幻的小乔",
+        "onboard_time": 1659610538,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388937,
+        "num": 366277,
+        "word": "颜淡大师兄吃螃蟹唐周来送醋",
+        "onboard_time": 1659612817,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357851,
+        "num": 357851,
+        "word": "萧敬腾 西安下雨",
+        "onboard_time": 1659607837,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 346519,
+        "num": 346519,
+        "word": "大厂的外包工作值得去吗",
+        "onboard_time": 1659611435,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 325430,
+        "num": 325430,
+        "word": "三亚8月4日零时起进入区域管控状态",
+        "onboard_time": 1659604182,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302475,
+        "num": 302475,
+        "word": "火箭军实弹发射训练最新画面",
+        "onboard_time": 1659604842,
+        "rank": 38,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 81352,
+        "num": 296684,
+        "word": "心动约会LOOK",
+        "onboard_time": 1659610838,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 354222,
+        "num": 294959,
+        "word": "秦岚把王子异送的饺子花煮了",
+        "onboard_time": 1659603344,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291268,
+        "num": 291268,
+        "word": "饿了么免单",
+        "onboard_time": 1659610235,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 287128,
+        "num": 287128,
+        "word": "泽连斯基称想与中国直接对话",
+        "onboard_time": 1659612757,
+        "rank": 42,
+        "category": "国外要闻,国内要闻"
+      },
+      {
+        "raw_hot": 282015,
+        "num": 282015,
+        "word": "东部战区实弹训练原声现场画面",
+        "onboard_time": 1659606640,
+        "rank": 43,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 280571,
+        "num": 280571,
+        "word": "浙江一水库发现大量桃花水母",
+        "onboard_time": 1659601839,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276961,
+        "num": 276961,
+        "word": "女子被同事拥抱致2根肋骨骨折",
+        "onboard_time": 1659596256,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273068,
+        "num": 273068,
+        "word": "恋与制作人",
+        "onboard_time": 1659612817,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258503,
+        "num": 258503,
+        "word": "EDG战胜WE",
+        "onboard_time": 1659612338,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258135,
+        "num": 258135,
+        "word": "台多家连锁超市屏幕被不明信号干扰",
+        "onboard_time": 1659603823,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243803,
+        "num": 243803,
+        "word": "七夕被全国求婚墙整破防",
+        "onboard_time": 1659599800,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现祖国统一的决心坚如磐石#"
+    }
+  }
+}

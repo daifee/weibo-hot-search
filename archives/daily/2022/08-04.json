@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659611894989,
+  "endTime": 1659612888503,
   "band_list": [
     {
       "raw_hot": 21645301,
@@ -80,6 +80,14 @@
       "word": "韩国外交部声明始终坚持一个中国",
       "onboard_time": 1659603823,
       "rank": 17,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3633692,
+      "num": 3633692,
+      "word": "日本在台湾问题上负有历史罪责",
+      "onboard_time": 1659609339,
+      "rank": 39,
       "category": "国内要闻"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1659587147,
       "rank": 7,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 2602276,
-      "num": 2602276,
-      "word": "日本在台湾问题上负有历史罪责",
-      "onboard_time": 1659609339,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2590463,
@@ -347,6 +347,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1753947,
+      "num": 794904,
+      "word": "丈夫删的聊天记录里有啥",
+      "onboard_time": 1659611796,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1745455,
       "num": 977716,
       "word": "美军导弹观测机前往监视解放军实弹演习",
@@ -433,6 +441,14 @@
       "onboard_time": 1659596256,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341160,
+      "num": 1341160,
+      "word": "外交部回应台海军演会否成为新常态",
+      "onboard_time": 1659609279,
+      "rank": 38,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1324003,
@@ -691,14 +707,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 924620,
-      "num": 697870,
-      "word": "外交部回应台海军演会否成为新常态",
-      "onboard_time": 1659609279,
-      "rank": 38,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 908021,
       "num": 908021,
       "word": "吴磊赵露思心动对视好甜",
@@ -713,6 +721,14 @@
       "onboard_time": 1659585402,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 898672,
+      "num": 898672,
+      "word": "环岛六大区域实战演训最新画面",
+      "onboard_time": 1659608979,
+      "rank": 41,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 882773,
@@ -827,12 +843,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 775241,
+      "num": 775241,
+      "word": "演习成功说明我们可以想怎么打就怎么打",
+      "onboard_time": 1659611558,
+      "rank": 36,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 764057,
       "num": 764057,
       "word": "请君缘定今夕海报",
       "onboard_time": 1659576875,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 763305,
+      "num": 763305,
+      "word": "颜淡你的真身火了",
+      "onboard_time": 1659604782,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 761504,
+      "num": 761504,
+      "word": "杨幂和赵今麦吃同一颗草莓",
+      "onboard_time": 1659611736,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 749614,
@@ -939,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 693504,
+      "num": 693504,
+      "word": "时代少年团时代夏令营停更一期",
+      "onboard_time": 1659612457,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690970,
       "num": 690970,
       "word": "迪丽热巴龚俊安乐传七夕海报",
@@ -979,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 658512,
-      "num": 658512,
-      "word": "环岛六大区域实战演训最新画面",
-      "onboard_time": 1659608979,
-      "rank": 41,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 652731,
       "num": 652731,
       "word": "我不是苏醒",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1659579876,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 640829,
-      "num": 640829,
-      "word": "颜淡你的真身火了",
-      "onboard_time": 1659604782,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 640326,
@@ -1315,6 +1347,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 503712,
+      "num": 503712,
+      "word": "断桥预售开启",
+      "onboard_time": 1659612516,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502269,
       "num": 502269,
       "word": "七夕是朝夕的365分之一",
@@ -1499,6 +1539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 424682,
+      "num": 368560,
+      "word": "陈紫函戴向宇六年七夕",
+      "onboard_time": 1659612097,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422979,
       "num": 422979,
       "word": "郭晓婷苍兰诀红衣造型",
@@ -1579,20 +1627,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 391858,
-      "num": 373314,
-      "word": "杨幂和赵今麦吃同一颗草莓",
-      "onboard_time": 1659611736,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 391764,
       "num": 391764,
       "word": "羊屁屁到底有多解压",
       "onboard_time": 1659537349,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388937,
+      "num": 366277,
+      "word": "颜淡大师兄吃螃蟹唐周来送醋",
+      "onboard_time": 1659612817,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 388713,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1659577175,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 378739,
+      "num": 378739,
+      "word": "G7外长自以为活在八国联军时代",
+      "onboard_time": 1659608561,
+      "rank": 49,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 376018,
@@ -1827,14 +1883,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 349928,
-      "num": 349928,
-      "word": "演习成功说明我们可以想怎么打就怎么打",
-      "onboard_time": 1659611558,
-      "rank": 36,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 349387,
       "num": 349387,
       "word": "月升沧海第七集",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1659606943,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 346519,
+      "num": 346519,
+      "word": "大厂的外包工作值得去吗",
+      "onboard_time": 1659611435,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 342295,
@@ -1937,14 +1993,6 @@
       "onboard_time": 1659560351,
       "rank": 39,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 319335,
-      "num": 319335,
-      "word": "G7外长自以为活在八国联军时代",
-      "onboard_time": 1659608561,
-      "rank": 49,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 316827,
@@ -2051,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287128,
+      "num": 287128,
+      "word": "泽连斯基称想与中国直接对话",
+      "onboard_time": 1659612757,
+      "rank": 42,
+      "category": "国外要闻,国内要闻"
+    },
+    {
       "raw_hot": 285722,
       "num": 285722,
       "word": "前任会影响你择偶标准吗",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1659580776,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 273068,
+      "num": 273068,
+      "word": "恋与制作人",
+      "onboard_time": 1659612817,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 270657,
@@ -2139,12 +2203,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 258336,
-      "num": 258336,
-      "word": "丈夫删的聊天记录里有啥",
-      "onboard_time": 1659611796,
+      "raw_hot": 258503,
+      "num": 258503,
+      "word": "EDG战胜WE",
+      "onboard_time": 1659612338,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 255781,
@@ -2185,14 +2249,6 @@
       "onboard_time": 1659591579,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 246011,
-      "num": 246011,
-      "word": "大厂的外包工作值得去吗",
-      "onboard_time": 1659611435,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 242986,
@@ -2483,20 +2539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81352,
+      "num": 303891,
+      "word": "心动约会LOOK",
+      "onboard_time": 1659610838,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66003,
       "num": 66003,
       "word": "钱三一出息了",
       "onboard_time": 1659548060,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 60760,
-      "num": 303891,
-      "word": "心动约会LOOK",
-      "onboard_time": 1659610838,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 58129,
