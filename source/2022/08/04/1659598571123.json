@@ -1,0 +1,410 @@
+{
+  "runTime": 1659598571123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8305989,
+        "num": 8305989,
+        "word": "解放军重要军事演训行动12点开始",
+        "onboard_time": 1659577591,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4392708,
+        "num": 4392708,
+        "word": "解放军在台湾海峡远程火力实弹射击",
+        "onboard_time": 1659591100,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 571908,
+        "num": 3382917,
+        "word": "任何搞台独分裂的人绝没有好下场",
+        "onboard_time": 1659574841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2863905,
+        "num": 2863905,
+        "word": "台媒称环台军演切断台湾国际航线",
+        "onboard_time": 1659595837,
+        "rank": 3,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2125614,
+        "num": 2125614,
+        "word": "平潭",
+        "onboard_time": 1659594038,
+        "rank": 4,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 2098734,
+        "num": 2098734,
+        "word": "台军升级战备警戒监控东风导弹",
+        "onboard_time": 1659596798,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2064147,
+        "num": 2064147,
+        "word": "白宫发言人不知如何回答佩洛西窜台",
+        "onboard_time": 1659590981,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1599571,
+        "num": 1599571,
+        "word": "门票50块的演唱会",
+        "onboard_time": 1659587688,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1390023,
+        "num": 1390023,
+        "word": "女子被同事拥抱致2根肋骨骨折",
+        "onboard_time": 1659596256,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306855,
+        "num": 1306855,
+        "word": "台湾的事14亿中国人民说了算",
+        "onboard_time": 1659578315,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1295870,
+        "num": 1295870,
+        "word": "周震南父母被恢复执行",
+        "onboard_time": 1659597037,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1000269,
+        "num": 1000269,
+        "word": "吴磊赵露思眸中有你大片",
+        "onboard_time": 1659595476,
+        "rank": 11,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 882325,
+        "num": 882325,
+        "word": "台军称解放军无人机首次飞过金门",
+        "onboard_time": 1659579757,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 690970,
+        "num": 690970,
+        "word": "迪丽热巴龚俊安乐传七夕海报",
+        "onboard_time": 1659597217,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659798,
+        "num": 659798,
+        "word": "东部战区导弹全部精准命中目标",
+        "onboard_time": 1659598175,
+        "rank": 14,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 652731,
+        "num": 652731,
+        "word": "我不是苏醒",
+        "onboard_time": 1659597998,
+        "rank": 15,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 626352,
+        "num": 626352,
+        "word": "环岛六大区域演训行动开始",
+        "onboard_time": 1659587147,
+        "rank": 16,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 626177,
+        "num": 626177,
+        "word": "东北的哥为了5000块离婚",
+        "onboard_time": 1659592118,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 586803,
+        "num": 586803,
+        "word": "王心凌官宣加盟央视七夕晚会",
+        "onboard_time": 1659585101,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537610,
+        "num": 537610,
+        "word": "七夕微信红包可发520",
+        "onboard_time": 1659585765,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 2460042,
+        "num": 524932,
+        "word": "华春莹回应大陆海关暂时取消台湾产品输入",
+        "onboard_time": 1659596078,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 564138,
+        "num": 517082,
+        "word": "李燃 林杨",
+        "onboard_time": 1659592535,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506145,
+        "num": 506145,
+        "word": "上海七夕花市遇冷",
+        "onboard_time": 1659596078,
+        "rank": 22,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 446907,
+        "num": 446907,
+        "word": "单身久了会伤身吗",
+        "onboard_time": 1659586187,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420740,
+        "num": 420740,
+        "word": "此次军演能达到什么效果",
+        "onboard_time": 1659589185,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 413581,
+        "num": 413581,
+        "word": "浙江新增本土阳性50例",
+        "onboard_time": 1659597760,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406340,
+        "num": 406340,
+        "word": "摩拜可以退押金了",
+        "onboard_time": 1659590378,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 392353,
+        "num": 392353,
+        "word": "双胞胎姐妹双双保送重点大学",
+        "onboard_time": 1659592715,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 388294,
+        "num": 388294,
+        "word": "振华宇宙",
+        "onboard_time": 1659596855,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364125,
+        "num": 364125,
+        "word": "小鬼说做我的哈莉奎茵",
+        "onboard_time": 1659597217,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362284,
+        "num": 362284,
+        "word": "蔡徐坤注册哈密哈密商标",
+        "onboard_time": 1659583596,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344359,
+        "num": 344359,
+        "word": "许凯说密室大逃脱一点也不恐怖",
+        "onboard_time": 1659592535,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333965,
+        "num": 333965,
+        "word": "台岛周边联合军事行动的意义",
+        "onboard_time": 1659591699,
+        "rank": 32,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 308974,
+        "num": 308974,
+        "word": "沉香如屑疯狂星期四",
+        "onboard_time": 1659594396,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306463,
+        "num": 306463,
+        "word": "漫画女巨人也要谈恋爱将拍网剧",
+        "onboard_time": 1659598119,
+        "rank": 34,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 306369,
+        "num": 306369,
+        "word": "这么多年 选角",
+        "onboard_time": 1659595958,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290471,
+        "num": 290471,
+        "word": "上饶信州区禁止商家门头写经营内容",
+        "onboard_time": 1659597817,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285958,
+        "num": 285958,
+        "word": "解放军将于近日在台岛周边组织远火射击和常导试射",
+        "onboard_time": 1659592357,
+        "rank": 37,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 277629,
+        "num": 277629,
+        "word": "安徽3年内就业率未达60%专业停招",
+        "onboard_time": 1659588348,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229433,
+        "num": 229433,
+        "word": "iPhone14Pro或取消远峰蓝配色",
+        "onboard_time": 1659580957,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262528,
+        "num": 228331,
+        "word": "丁程鑫演回村戏有那味儿了",
+        "onboard_time": 1659594157,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226049,
+        "num": 226049,
+        "word": "9个动作减掉小肚腩",
+        "onboard_time": 1659597578,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224210,
+        "num": 224210,
+        "word": "七夕礼物",
+        "onboard_time": 1659598419,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221513,
+        "num": 221513,
+        "word": "男子借儿子2000元为老婆买礼物",
+        "onboard_time": 1659582039,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201845,
+        "num": 201845,
+        "word": "网传中超大连人队购票歧视",
+        "onboard_time": 1659597100,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 190095,
+        "num": 190095,
+        "word": "张朝阳称独居的人要多说话",
+        "onboard_time": 1659588407,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 187745,
+        "num": 187745,
+        "word": "七夕节消费主义陷阱有多深",
+        "onboard_time": 1659595414,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 184355,
+        "num": 184355,
+        "word": "背景太假小伙凡尔赛式带货",
+        "onboard_time": 1659590260,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162198,
+        "num": 162198,
+        "word": "演习区上空已无民航机飞行",
+        "onboard_time": 1659586970,
+        "rank": 48,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 160996,
+        "num": 160996,
+        "word": "拜登新冠仍为阳性将继续隔离",
+        "onboard_time": 1659584557,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现祖国统一的决心坚如磐石#"
+    }
+  }
+}

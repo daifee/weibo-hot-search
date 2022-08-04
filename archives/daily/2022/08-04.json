@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659597571226,
+  "endTime": 1659598571123,
   "band_list": [
     {
       "raw_hot": 21645301,
@@ -139,6 +139,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 2460042,
+      "num": 524932,
+      "word": "华春莹回应大陆海关暂时取消台湾产品输入",
+      "onboard_time": 1659596078,
+      "rank": 20,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2303933,
       "num": 2303933,
       "word": "iPhone14新增紫色",
@@ -169,6 +177,14 @@
       "onboard_time": 1659536811,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2098734,
+      "num": 2098734,
+      "word": "台军升级战备警戒监控东风导弹",
+      "onboard_time": 1659596798,
+      "rank": 21,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 2082593,
@@ -275,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1420723,
-      "num": 473130,
-      "word": "华春莹回应大陆海关暂时取消台湾产品输入",
-      "onboard_time": 1659596078,
-      "rank": 20,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1414353,
       "num": 1414353,
       "word": "宝宝被枕头闷住连扇四巴掌打醒妈妈",
@@ -299,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1390023,
+      "num": 1390023,
+      "word": "女子被同事拥抱致2根肋骨骨折",
+      "onboard_time": 1659596256,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324003,
       "num": 1324003,
       "word": "实战演训为何定于今日开始",
       "onboard_time": 1659577591,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1295870,
+      "num": 1295870,
+      "word": "周震南父母被恢复执行",
+      "onboard_time": 1659597037,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1294816,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 1165664,
-      "num": 863227,
+      "num": 1000269,
       "word": "吴磊赵露思眸中有你大片",
       "onboard_time": 1659595476,
       "rank": 18,
@@ -611,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 729995,
-      "num": 729995,
-      "word": "女子被同事拥抱致2根肋骨骨折",
-      "onboard_time": 1659596256,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723120,
       "num": 723120,
       "word": "林妙妙化妆像极了佟湘玉",
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690970,
+      "num": 690970,
+      "word": "迪丽热巴龚俊安乐传七夕海报",
+      "onboard_time": 1659597217,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 678584,
       "num": 678584,
       "word": "深情男生谈恋爱8天分手后痛哭不止",
@@ -675,12 +699,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 659798,
+      "num": 659798,
+      "word": "东部战区导弹全部精准命中目标",
+      "onboard_time": 1659598175,
+      "rank": 14,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 659730,
       "num": 659730,
       "word": "张新成孙千电影这么多年官宣",
       "onboard_time": 1659582099,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652731,
+      "num": 652731,
+      "word": "我不是苏醒",
+      "onboard_time": 1659597998,
+      "rank": 15,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 648796,
@@ -769,14 +809,6 @@
       "onboard_time": 1659579336,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 584055,
-      "num": 473009,
-      "word": "台军升级战备警戒监控东风导弹",
-      "onboard_time": 1659596798,
-      "rank": 21,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 572730,
@@ -891,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 506145,
+      "num": 506145,
+      "word": "上海七夕花市遇冷",
+      "onboard_time": 1659596078,
+      "rank": 19,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 502269,
       "num": 502269,
       "word": "七夕是朝夕的365分之一",
@@ -955,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473695,
-      "num": 473695,
-      "word": "上海七夕花市遇冷",
-      "onboard_time": 1659596078,
-      "rank": 19,
-      "category": "旅游,情感"
-    },
-    {
       "raw_hot": 472314,
       "num": 472314,
       "word": "双胞胎姐妹双双保送重点大学",
@@ -985,14 +1017,6 @@
       "onboard_time": 1659535789,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465537,
-      "num": 465537,
-      "word": "迪丽热巴龚俊安乐传七夕海报",
-      "onboard_time": 1659597217,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 454224,
@@ -1027,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439373,
-      "num": 439373,
-      "word": "周震南父母被恢复执行",
-      "onboard_time": 1659597037,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "iPhone14不再提供粉色",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1659581496,
       "rank": 30,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 413581,
+      "num": 413581,
+      "word": "浙江新增本土阳性50例",
+      "onboard_time": 1659597760,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412742,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1659542256,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 388294,
+      "num": 388294,
+      "word": "振华宇宙",
+      "onboard_time": 1659596855,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 383754,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1659583778,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 364125,
+      "num": 364125,
+      "word": "小鬼说做我的哈莉奎茵",
+      "onboard_time": 1659597217,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 363456,
@@ -1289,22 +1329,6 @@
       "onboard_time": 1659537947,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339145,
-      "num": 339145,
-      "word": "振华宇宙",
-      "onboard_time": 1659596855,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 337437,
-      "num": 337437,
-      "word": "小鬼说做我的哈莉奎茵",
-      "onboard_time": 1659597217,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 334164,
@@ -1435,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306463,
+      "num": 306463,
+      "word": "漫画女巨人也要谈恋爱将拍网剧",
+      "onboard_time": 1659598119,
+      "rank": 34,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 303387,
       "num": 303387,
       "word": "她的心动周末官宣",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1659591040,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290471,
+      "num": 290471,
+      "word": "上饶信州区禁止商家门头写经营内容",
+      "onboard_time": 1659597817,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285722,
@@ -1651,6 +1691,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 226049,
+      "num": 226049,
+      "word": "9个动作减掉小肚腩",
+      "onboard_time": 1659597578,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224210,
+      "num": 224210,
+      "word": "七夕礼物",
+      "onboard_time": 1659598419,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222232,
       "num": 222232,
       "word": "比亚迪入榜世界500强",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1659539804,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201845,
+      "num": 201845,
+      "word": "网传中超大连人队购票歧视",
+      "onboard_time": 1659597100,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 201628,
@@ -1729,14 +1793,6 @@
       "onboard_time": 1659538848,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191371,
-      "num": 191371,
-      "word": "网传中超大连人队购票歧视",
-      "onboard_time": 1659597100,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 184987,
