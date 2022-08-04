@@ -1,0 +1,410 @@
+{
+  "runTime": 1659585438946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5257641,
+        "num": 6015283,
+        "word": "解放军重要军事演训行动12点开始",
+        "onboard_time": 1659577591,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 5143692,
+        "num": 5143692,
+        "word": "台湾的事14亿中国人民说了算",
+        "onboard_time": 1659578315,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1187529,
+        "num": 3987503,
+        "word": "实战演训为何选择环岛六大区域",
+        "onboard_time": 1659570152,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3425795,
+        "num": 3425795,
+        "word": "台军称解放军无人机首次飞过金门",
+        "onboard_time": 1659579757,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2684492,
+        "num": 2684492,
+        "word": "东部战区已全天候位台岛周边海空域",
+        "onboard_time": 1659573820,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2590463,
+        "num": 2590463,
+        "word": "刘畊宏vivi说不能忘本",
+        "onboard_time": 1659580237,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2292541,
+        "num": 2292541,
+        "word": "佩洛西窜访台湾4大主要目的",
+        "onboard_time": 1659579037,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1917526,
+        "num": 1917526,
+        "word": "台湾问题不是地区问题是中国内政",
+        "onboard_time": 1659581018,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1572962,
+        "num": 1572962,
+        "word": "女子咒北海疫情大爆发全死光被拘",
+        "onboard_time": 1659579812,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1536133,
+        "num": 1536133,
+        "word": "男子借儿子2000元为老婆买礼物",
+        "onboard_time": 1659582039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2082593,
+        "num": 1447472,
+        "word": "蔡徐坤注册哈密哈密商标",
+        "onboard_time": 1659583596,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1251925,
+        "num": 1251925,
+        "word": "央视七夕晚会节目单官宣",
+        "onboard_time": 1659583178,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1117392,
+        "num": 1117392,
+        "word": "佩洛西丈夫对酒驾指控不认罪",
+        "onboard_time": 1659578916,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1058810,
+        "num": 1058810,
+        "word": "iPhone14Pro或取消远峰蓝配色",
+        "onboard_time": 1659580957,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 968785,
+        "num": 968785,
+        "word": "G7和欧盟外长的声明是现实中万恶无耻的标本",
+        "onboard_time": 1659581436,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 964613,
+        "num": 964613,
+        "word": "我驻欧盟使团回应G7和欧盟外长涉台声明",
+        "onboard_time": 1659580300,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 887666,
+        "num": 887666,
+        "word": "男子睡觉时发现空调大口吐冰",
+        "onboard_time": 1659577896,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850520,
+        "num": 850520,
+        "word": "iPhone14新增紫色",
+        "onboard_time": 1659573515,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 820850,
+        "num": 820850,
+        "word": "凌不疑程少商七夕花絮",
+        "onboard_time": 1659584438,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659730,
+        "num": 659730,
+        "word": "张新成孙千电影这么多年官宣",
+        "onboard_time": 1659582099,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671212,
+        "num": 658163,
+        "word": "美军导弹观测机前往监视解放军实弹演习",
+        "onboard_time": 1659584799,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 651506,
+        "num": 651506,
+        "word": "七夕情侣在⼀起要做什么",
+        "onboard_time": 1659577474,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 648796,
+        "num": 648796,
+        "word": "台风",
+        "onboard_time": 1659582815,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551631,
+        "num": 551631,
+        "word": "郭俊辰赵今麦海边氛围大片",
+        "onboard_time": 1659584079,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540776,
+        "num": 540776,
+        "word": "江西幼儿园行凶案嫌犯落网现场曝光",
+        "onboard_time": 1659582039,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513199,
+        "num": 513199,
+        "word": "二手玫瑰来天津了",
+        "onboard_time": 1659584678,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510483,
+        "num": 510483,
+        "word": "待播影视剧七夕海报",
+        "onboard_time": 1659584678,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510232,
+        "num": 510232,
+        "word": "陕西女子举报污染获刑后改判无罪",
+        "onboard_time": 1659577715,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473551,
+        "num": 473551,
+        "word": "王心凌官宣加盟央视七夕晚会",
+        "onboard_time": 1659585101,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431862,
+        "num": 431862,
+        "word": "iPhone14不再提供粉色",
+        "onboard_time": 1659580113,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 415983,
+        "num": 415983,
+        "word": "张艺兴中国说唱巅峰录制repo",
+        "onboard_time": 1659581496,
+        "rank": 30,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 412742,
+        "num": 412742,
+        "word": "男朋友做饭的求生欲有多强",
+        "onboard_time": 1659582219,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 406810,
+        "num": 406810,
+        "word": "美团崩了",
+        "onboard_time": 1659585038,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 389621,
+        "num": 389621,
+        "word": "俞敏洪曝新东方主播年收入二三十万",
+        "onboard_time": 1659577054,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387918,
+        "num": 387918,
+        "word": "密室大逃脱",
+        "onboard_time": 1659578974,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386037,
+        "num": 386037,
+        "word": "女童被困电梯按亮所有楼层键自救",
+        "onboard_time": 1659576816,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382752,
+        "num": 382752,
+        "word": "两个人的小森林七夕花絮",
+        "onboard_time": 1659584499,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379511,
+        "num": 379511,
+        "word": "七夕文案",
+        "onboard_time": 1659578795,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379259,
+        "num": 379259,
+        "word": "网传苍兰诀今晚播出",
+        "onboard_time": 1659583301,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363456,
+        "num": 363456,
+        "word": "双向奔赴的暗恋有多难",
+        "onboard_time": 1659584258,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357287,
+        "num": 357287,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1659584978,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339136,
+        "num": 339136,
+        "word": "国台办回应G7和欧盟涉台声明",
+        "onboard_time": 1659583778,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 331822,
+        "num": 331822,
+        "word": "北京金准医学实验室成被执行人",
+        "onboard_time": 1659582219,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319881,
+        "num": 319881,
+        "word": "我驻欧盟使团质问是否想搞新八国联军",
+        "onboard_time": 1659582578,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 316827,
+        "num": 316827,
+        "word": "快说谢谢90婚介所",
+        "onboard_time": 1659583301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298875,
+        "num": 298875,
+        "word": "拜登新冠仍为阳性将继续隔离",
+        "onboard_time": 1659584557,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266319,
+        "num": 266319,
+        "word": "当代年轻人恋爱有多难",
+        "onboard_time": 1659584619,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 323233,
+        "num": 266282,
+        "word": "安乐传",
+        "onboard_time": 1659585402,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265681,
+        "num": 265681,
+        "word": "任何搞台独分裂的人绝没有好下场",
+        "onboard_time": 1659574841,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 253260,
+        "num": 253260,
+        "word": "我国成功发射陆地生态系统碳监测卫星",
+        "onboard_time": 1659585341,
+        "rank": 49,
+        "category": "科技,国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现祖国统一的决心坚如磐石#"
+    }
+  }
+}
