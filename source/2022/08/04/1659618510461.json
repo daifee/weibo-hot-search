@@ -1,0 +1,410 @@
+{
+  "runTime": 1659618510461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4697809,
+        "num": 4697809,
+        "word": "丈夫删的聊天记录里有啥",
+        "onboard_time": 1659611796,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2899743,
+        "num": 2899743,
+        "word": "日本在台湾问题上负有历史罪责",
+        "onboard_time": 1659609339,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2409621,
+        "num": 2649918,
+        "word": "环岛六大区域实战演训最新画面",
+        "onboard_time": 1659608979,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2582718,
+        "num": 2582718,
+        "word": "韩国外交部声明始终坚持一个中国",
+        "onboard_time": 1659603823,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2965388,
+        "num": 2487349,
+        "word": "泽连斯基称想与中国直接对话",
+        "onboard_time": 1659612757,
+        "rank": 4,
+        "category": "国外要闻,国内要闻"
+      },
+      {
+        "raw_hot": 2318528,
+        "num": 2318528,
+        "word": "美驻韩大使馆车辆在首尔撞上大楼",
+        "onboard_time": 1659614795,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2013179,
+        "num": 2013179,
+        "word": "东部战区出动上百架多型战机",
+        "onboard_time": 1659613419,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1815744,
+        "num": 1815744,
+        "word": "央视七夕晚会",
+        "onboard_time": 1659614500,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1571946,
+        "num": 1571946,
+        "word": "演习成功说明我们可以想怎么打就怎么打",
+        "onboard_time": 1659611558,
+        "rank": 8,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1181595,
+        "num": 1181595,
+        "word": "解放军战机驱护舰演训震撼现场",
+        "onboard_time": 1659614319,
+        "rank": 9,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1031539,
+        "num": 1031539,
+        "word": "程少商当众吻凌不疑",
+        "onboard_time": 1659614500,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 952212,
+        "num": 952212,
+        "word": "JackeyLove送女友13000元玫瑰花",
+        "onboard_time": 1659609458,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 888922,
+        "num": 888922,
+        "word": "李泽言 电话",
+        "onboard_time": 1659615938,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 888234,
+        "num": 888234,
+        "word": "台媒称解放军台海军演区域扩大至7处",
+        "onboard_time": 1659607957,
+        "rank": 13,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 47667,
+        "num": 884637,
+        "word": "宝有多浪漫",
+        "onboard_time": 1659618038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884541,
+        "num": 884541,
+        "word": "北京海淀6家必胜客被暂停外卖订餐",
+        "onboard_time": 1659613718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823887,
+        "num": 823887,
+        "word": "中国军队说话是算数的",
+        "onboard_time": 1659601481,
+        "rank": 16,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 763918,
+        "num": 763918,
+        "word": "月升沧海更改播出时间",
+        "onboard_time": 1659614379,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763353,
+        "num": 763353,
+        "word": "中国人必会的填空题",
+        "onboard_time": 1659614978,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 547021,
+        "num": 547021,
+        "word": "外交部回应台海军演会否成为新常态",
+        "onboard_time": 1659609279,
+        "rank": 19,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 533344,
+        "num": 533344,
+        "word": "凌不疑扑倒程少商",
+        "onboard_time": 1659615519,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523868,
+        "num": 523868,
+        "word": "杨幂和赵今麦吃同一颗草莓",
+        "onboard_time": 1659611736,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526674,
+        "num": 523670,
+        "word": "凌不疑抱到程少商无法呼吸",
+        "onboard_time": 1659617258,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518370,
+        "num": 518370,
+        "word": "秋瓷炫于晓光合体大片",
+        "onboard_time": 1659606640,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 511691,
+        "num": 511691,
+        "word": "沉香如屑电话",
+        "onboard_time": 1659614795,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477269,
+        "num": 477269,
+        "word": "运油20亮相东部战区实战化演训",
+        "onboard_time": 1659615640,
+        "rank": 25,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 471687,
+        "num": 471687,
+        "word": "吃毒蘑菇4岁女童不幸离世",
+        "onboard_time": 1659608140,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456492,
+        "num": 456492,
+        "word": "三亚旅游旺季或提前结束",
+        "onboard_time": 1659612997,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 444906,
+        "num": 444906,
+        "word": "躲过了孤寡青蛙没躲过孤独水壶",
+        "onboard_time": 1659615458,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428760,
+        "num": 428760,
+        "word": "七夕文案",
+        "onboard_time": 1659614558,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434721,
+        "num": 420809,
+        "word": "陈紫函戴向宇六年七夕",
+        "onboard_time": 1659612097,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407404,
+        "num": 407404,
+        "word": "140秒看解放军反制行动现场视频",
+        "onboard_time": 1659615818,
+        "rank": 31,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 403921,
+        "num": 403921,
+        "word": "东部战区远程火力实弹射击现场画面",
+        "onboard_time": 1659600638,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 391424,
+        "num": 391424,
+        "word": "阿里发布2023财年第一季度财报",
+        "onboard_time": 1659616237,
+        "rank": 33,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 380923,
+        "num": 380923,
+        "word": "三亚8月4日零时起进入区域管控状态",
+        "onboard_time": 1659604182,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375069,
+        "num": 375069,
+        "word": "考驾照崩溃的不只是学生",
+        "onboard_time": 1659614077,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361647,
+        "num": 361647,
+        "word": "EDG挠头三人组",
+        "onboard_time": 1659616058,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359715,
+        "num": 359715,
+        "word": "王心凌七夕晚会舞台",
+        "onboard_time": 1659618277,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342884,
+        "num": 342884,
+        "word": "女子被同事拥抱致2根肋骨骨折",
+        "onboard_time": 1659596256,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337569,
+        "num": 337569,
+        "word": "颜淡你的真身火了",
+        "onboard_time": 1659604782,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334687,
+        "num": 334687,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1659618338,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330396,
+        "num": 330396,
+        "word": "这就是中国态度",
+        "onboard_time": 1659614618,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 330162,
+        "num": 330162,
+        "word": "许昕七夕晒一家四口",
+        "onboard_time": 1659613958,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317805,
+        "num": 317805,
+        "word": "李泽言 音乐会",
+        "onboard_time": 1659617856,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297020,
+        "num": 297020,
+        "word": "张新成50秒极致演绎人格撕扯",
+        "onboard_time": 1659617079,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295325,
+        "num": 295325,
+        "word": "2022TF家族夏日运动会本周末上线",
+        "onboard_time": 1659613238,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292936,
+        "num": 292936,
+        "word": "光遇七夕彩蛋",
+        "onboard_time": 1659617856,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279991,
+        "num": 279991,
+        "word": "难怪云南人这么喜欢蘑菇",
+        "onboard_time": 1659617496,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 257771,
+        "num": 257771,
+        "word": "无畏的加倍七夕",
+        "onboard_time": 1659618338,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246399,
+        "num": 246399,
+        "word": "华春莹说G7的列强梦该醒醒了",
+        "onboard_time": 1659602860,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现祖国统一的决心坚如磐石#"
+    }
+  }
+}
