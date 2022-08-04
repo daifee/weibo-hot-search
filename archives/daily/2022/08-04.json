@@ -1,6 +1,6 @@
 {
   "startTime": 1659544271774,
-  "endTime": 1659591935391,
+  "endTime": 1659594595901,
   "band_list": [
     {
       "raw_hot": 21645301,
@@ -17,6 +17,14 @@
       "onboard_time": 1659543574,
       "rank": 16,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 6056064,
+      "num": 6056064,
+      "word": "解放军在台湾海峡远程火力实弹射击",
+      "onboard_time": 1659591100,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 5625584,
@@ -73,6 +81,14 @@
       "onboard_time": 1659585101,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2884682,
+      "num": 2884682,
+      "word": "白宫发言人不知如何回答佩洛西窜台",
+      "onboard_time": 1659590981,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2814824,
@@ -267,14 +283,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1319092,
-      "num": 1319092,
-      "word": "解放军在台湾海峡远程火力实弹射击",
-      "onboard_time": 1659591100,
-      "rank": 8,
-      "category": "军事"
-    },
-    {
       "raw_hot": 1294816,
       "num": 3987503,
       "word": "实战演训为何选择环岛六大区域",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972489,
+      "num": 972489,
+      "word": "李燃 林杨",
+      "onboard_time": 1659592535,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 968785,
       "num": 968785,
       "word": "G7和欧盟外长的声明是现实中万恶无耻的标本",
@@ -449,6 +465,14 @@
       "onboard_time": 1659588170,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 876565,
+      "num": 876565,
+      "word": "东北的哥为了5000块离婚",
+      "onboard_time": 1659592118,
+      "rank": 12,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 862001,
@@ -505,6 +529,14 @@
       "onboard_time": 1659544112,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 785474,
+      "num": 785474,
+      "word": "平潭",
+      "onboard_time": 1659594038,
+      "rank": 13,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 764057,
@@ -659,20 +691,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 618479,
+      "num": 3301852,
+      "word": "任何搞台独分裂的人绝没有好下场",
+      "onboard_time": 1659574841,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 610940,
       "num": 610940,
       "word": "河南民权县全域人员赋码管理",
       "onboard_time": 1659574779,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592952,
-      "num": 2983748,
-      "word": "任何搞台独分裂的人绝没有好下场",
-      "onboard_time": 1659574841,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 592054,
@@ -699,20 +731,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585924,
+      "num": 585924,
+      "word": "台岛周边联合军事行动的意义",
+      "onboard_time": 1659591699,
+      "rank": 42,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 572730,
       "num": 572730,
       "word": "符龙飞keyone疑似抄袭",
       "onboard_time": 1659571297,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 566295,
-      "num": 566295,
-      "word": "白宫发言人不知如何回答佩洛西窜台",
-      "onboard_time": 1659590981,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 562970,
@@ -745,6 +777,14 @@
       "onboard_time": 1659582039,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534801,
+      "num": 534801,
+      "word": "许凯说密室大逃脱一点也不恐怖",
+      "onboard_time": 1659592535,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 526323,
@@ -873,6 +913,14 @@
       "onboard_time": 1659575258,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470075,
+      "num": 470075,
+      "word": "沉香如屑带火七夕莲花花束",
+      "onboard_time": 1659593619,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 468036,
@@ -1011,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379914,
+      "num": 379914,
+      "word": "传下去Tangoz明年还去相亲",
+      "onboard_time": 1659593377,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379259,
       "num": 379259,
       "word": "网传苍兰诀今晚播出",
@@ -1065,6 +1121,22 @@
       "onboard_time": 1659584258,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362393,
+      "num": 362393,
+      "word": "解放军将于近日在台岛周边组织远火射击和常导试射",
+      "onboard_time": 1659592357,
+      "rank": 27,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 360650,
+      "num": 360650,
+      "word": "丁程鑫演回村戏有那味儿了",
+      "onboard_time": 1659594157,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 359711,
@@ -1211,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316606,
+      "num": 316606,
+      "word": "与凤行",
+      "onboard_time": 1659592959,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313502,
       "num": 313502,
       "word": "义乌疫情防控",
@@ -1259,14 +1339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 299364,
-      "num": 299364,
-      "word": "台岛周边联合军事行动的意义",
-      "onboard_time": 1659591699,
-      "rank": 42,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 297336,
       "num": 297336,
       "word": "寄养金毛疑中暑去世被店家私埋",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1659591040,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288786,
+      "num": 288786,
+      "word": "双胞胎姐妹双双保送重点大学",
+      "onboard_time": 1659592715,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 285722,
@@ -1305,6 +1385,14 @@
       "onboard_time": 1659580776,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 271352,
+      "num": 271352,
+      "word": "沉香如屑疯狂星期四",
+      "onboard_time": 1659594396,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 270657,
@@ -1443,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226638,
+      "num": 226638,
+      "word": "因选狗狗而争执的夫妻俩",
+      "onboard_time": 1659592237,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 222232,
       "num": 222232,
       "word": "比亚迪入榜世界500强",
@@ -1473,6 +1569,14 @@
       "onboard_time": 1659539804,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201628,
+      "num": 201628,
+      "word": "郑州公布3例确诊2例无症状活动轨迹",
+      "onboard_time": 1659594336,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199261,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1659557532,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12690,
+      "num": 729096,
+      "word": "七夕招桃花壁纸",
+      "onboard_time": 1659592838,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
