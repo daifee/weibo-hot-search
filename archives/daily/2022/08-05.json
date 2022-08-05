@@ -1,7 +1,15 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659688931533,
+  "endTime": 1659691293820,
   "band_list": [
+    {
+      "raw_hot": 15393348,
+      "num": 16643348,
+      "word": "外交部宣布制裁佩洛西",
+      "onboard_time": 1659688064,
+      "rank": 3,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 13925735,
       "num": 14176831,
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2673484,
-      "num": 2673484,
-      "word": "外交部宣布制裁佩洛西",
-      "onboard_time": 1659688064,
-      "rank": 3,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 2345887,
       "num": 2345887,
       "word": "想去台湾省吃山西刀削面",
@@ -121,6 +121,14 @@
       "onboard_time": 1659658294,
       "rank": 4,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2252192,
+      "num": 2252192,
+      "word": "美国务卿称美国不支持台独",
+      "onboard_time": 1659685657,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2186930,
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2042800,
+      "num": 653450,
+      "word": "昆凌说应该不会再生了",
+      "onboard_time": 1659687219,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2036782,
-      "num": 1051385,
+      "num": 1122730,
       "word": "马天宇辟谣不配合baby宣传新剧",
       "onboard_time": 1659687340,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2006626,
-      "num": 2006626,
-      "word": "美国务卿称美国不支持台独",
-      "onboard_time": 1659685657,
-      "rank": 4,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1929948,
@@ -169,6 +177,14 @@
       "onboard_time": 1659674861,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1842410,
+      "num": 1842410,
+      "word": "士力架",
+      "onboard_time": 1659687823,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1774738,
@@ -195,14 +211,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1667868,
-      "num": 653450,
-      "word": "昆凌说应该不会再生了",
-      "onboard_time": 1659687219,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1642995,
       "num": 2748497,
       "word": "过去24小时解放军都做了什么",
@@ -225,6 +233,14 @@
       "onboard_time": 1659661355,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 1468838,
+      "num": 1468838,
+      "word": "老人带500万存款到派出所自首",
+      "onboard_time": 1659686679,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1390947,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 1278934,
-      "num": 1001949,
+      "num": 1094879,
       "word": "郑琴心怀孕",
       "onboard_time": 1659687097,
       "rank": 12,
@@ -299,18 +315,18 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1151719,
+      "num": 3022360,
+      "word": "解放军常规导弹穿越台岛意味着什么",
+      "onboard_time": 1659683974,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1149997,
       "num": 1149997,
       "word": "用大陆城市命名的台湾省街道",
       "onboard_time": 1659670839,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140217,
-      "num": 1140217,
-      "word": "老人带500万存款到派出所自首",
-      "onboard_time": 1659686679,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -321,6 +337,14 @@
       "onboard_time": 1659677379,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1133640,
+      "num": 1133640,
+      "word": "旺旺医院",
+      "onboard_time": 1659687162,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128918,
@@ -371,12 +395,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 1030834,
-      "num": 2943950,
-      "word": "解放军常规导弹穿越台岛意味着什么",
-      "onboard_time": 1659683974,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 1031452,
+      "num": 1031452,
+      "word": "旺旺创始人曾称大陆成就旺旺",
+      "onboard_time": 1659687942,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1026129,
@@ -384,14 +408,6 @@
       "word": "网红小狗疑被主人针扎虐待",
       "onboard_time": 1659683498,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1024676,
-      "num": 1024676,
-      "word": "旺旺医院",
-      "onboard_time": 1659687162,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 839110,
+      "num": 839110,
+      "word": "警方回应一男童被后妈虐待致死",
+      "onboard_time": 1659687942,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 833976,
       "num": 833976,
       "word": "湖北一商场踩气球找钻戒千人哄抢",
@@ -569,6 +593,14 @@
       "onboard_time": 1659672758,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 731693,
+      "num": 731693,
+      "word": "百度地图被搜崩了",
+      "onboard_time": 1659688064,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 725700,
@@ -667,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 671466,
+      "num": 671466,
+      "word": "上海温度",
+      "onboard_time": 1659689023,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667901,
       "num": 667901,
       "word": "浙江今年33.7万考生被高校录取",
@@ -715,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620907,
+      "num": 620907,
+      "word": "美方称大陆对台当局策略是煮青蛙",
+      "onboard_time": 1659689743,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 610552,
       "num": 610552,
       "word": "近400名俄罗斯青年集会力挺中国",
@@ -745,14 +793,6 @@
       "onboard_time": 1659671200,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 592615,
-      "num": 592615,
-      "word": "百度地图被搜崩了",
-      "onboard_time": 1659688064,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 581487,
@@ -811,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533116,
-      "num": 533116,
-      "word": "旺旺创始人曾称大陆成就旺旺",
-      "onboard_time": 1659687942,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519936,
       "num": 519936,
       "word": "短剧养敌为患",
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 508832,
-      "num": 247753,
+      "num": 347331,
       "word": "偶遇丁程鑫驾校考科目一",
       "onboard_time": 1659688904,
       "rank": 47,
@@ -921,14 +953,6 @@
       "onboard_time": 1659660573,
       "rank": 15,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 480313,
-      "num": 480313,
-      "word": "士力架",
-      "onboard_time": 1659687823,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475950,
@@ -995,6 +1019,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 460771,
+      "num": 460771,
+      "word": "少女时代新歌",
+      "onboard_time": 1659691182,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 458865,
       "num": 458865,
       "word": "预制菜的未来在哪里",
@@ -1051,14 +1083,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 428846,
-      "num": 428846,
-      "word": "警方回应一男童被后妈虐待致死",
-      "onboard_time": 1659687942,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 427538,
       "num": 427538,
       "word": "刘彰说是被迫参加向前冲的",
@@ -1067,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424344,
+      "num": 424344,
+      "word": "时代少年团特别演绎哭泣的游戏",
+      "onboard_time": 1659690342,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 422165,
       "num": 422165,
       "word": "安以轩老公将被正式起诉",
       "onboard_time": 1659622303,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 420863,
+      "num": 420863,
+      "word": "佩洛西访韩未见到尹锡悦",
+      "onboard_time": 1659686559,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 416937,
@@ -1179,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363360,
+      "num": 363360,
+      "word": "奔跑吧10十分爱你收官战报",
+      "onboard_time": 1659690225,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362497,
       "num": 362497,
       "word": "被杨迪周深合拍笑死",
@@ -1209,6 +1257,22 @@
       "onboard_time": 1659668497,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350701,
+      "num": 241210,
+      "word": "七夕最受关注男女艺人",
+      "onboard_time": 1659691246,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 345369,
+      "num": 345369,
+      "word": "华春莹8个字问美方及其跟班",
+      "onboard_time": 1659688781,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 340875,
@@ -1419,20 +1483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283373,
-      "num": 283373,
-      "word": "佩洛西访韩未见到尹锡悦",
-      "onboard_time": 1659686559,
-      "rank": 40,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 281790,
       "num": 281790,
       "word": "8月4日新增本土无症状248例",
       "onboard_time": 1659662978,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281602,
+      "num": 281602,
+      "word": "乘风破浪乘风夜彩排照",
+      "onboard_time": 1659690049,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 281394,
@@ -1451,20 +1515,20 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 275429,
-      "num": 275429,
-      "word": "华春莹8个字问美方及其跟班",
-      "onboard_time": 1659688781,
-      "rank": 42,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 275404,
       "num": 275404,
       "word": "近距离看台湾海峡最大巡航救助船",
       "onboard_time": 1659679958,
       "rank": 38,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 275112,
+      "num": 275112,
+      "word": "iPhone14或中国印度同步发货",
+      "onboard_time": 1659689141,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 270638,
@@ -1601,6 +1665,14 @@
       "onboard_time": 1659664054,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 239826,
+      "num": 239826,
+      "word": "盘点旺旺集团商业版图",
+      "onboard_time": 1659690763,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 239494,
