@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659673530092,
+  "endTime": 1659676029783,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1323,6 +1323,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 2330531,
+      "num": 2330531,
+      "word": "解放军在台岛以东设靶逼退里根号",
+      "onboard_time": 1659658294,
+      "rank": 4,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 2303933,
       "num": 2303933,
       "word": "iPhone14新增紫色",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1659404620,
       "rank": 6,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 2186930,
+      "num": 2186930,
+      "word": "美国推迟洲际弹道导弹试射",
+      "onboard_time": 1659672160,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 2178351,
@@ -1977,14 +1993,6 @@
       "onboard_time": 1659401744,
       "rank": 8,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1591163,
-      "num": 1591163,
-      "word": "解放军在台岛以东设靶逼退里根号",
-      "onboard_time": 1659658294,
-      "rank": 4,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1585865,
@@ -2571,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1149997,
+      "num": 1149997,
+      "word": "用大陆城市命名的台湾省街道",
+      "onboard_time": 1659670839,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143097,
       "num": 1143097,
       "word": "南非",
@@ -2739,20 +2755,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1083352,
+      "num": 1083352,
+      "word": "这十年河南人确实膨胀了",
+      "onboard_time": 1659671139,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1080270,
       "num": 3537299,
       "word": "东风快递指哪打哪",
       "onboard_time": 1659624282,
       "rank": 46,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 1080176,
-      "num": 1080176,
-      "word": "用大陆城市命名的台湾省街道",
-      "onboard_time": 1659670839,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1079694,
@@ -2889,14 +2905,6 @@
       "onboard_time": 1659281311,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1007830,
-      "num": 1007830,
-      "word": "这十年河南人确实膨胀了",
-      "onboard_time": 1659671139,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004691,
@@ -3451,14 +3459,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 827543,
-      "num": 827543,
-      "word": "美国推迟洲际弹道导弹试射",
-      "onboard_time": 1659672160,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 824857,
       "num": 824857,
       "word": "月升沧海第七集",
@@ -3899,12 +3899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730103,
+      "num": 730103,
+      "word": "90后女生通宵追剧致视网膜裂孔",
+      "onboard_time": 1659672401,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730020,
       "num": 730020,
       "word": "00后入职宿管阿姨",
       "onboard_time": 1659510418,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729999,
+      "num": 729999,
+      "word": "外交部紧急召见日本驻华大使垂秀夫",
+      "onboard_time": 1659673058,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 729360,
@@ -3995,6 +4011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 715917,
+      "num": 715917,
+      "word": "美台勾连挑衅中方反击天经地义",
+      "onboard_time": 1659670598,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 714478,
       "num": 714478,
       "word": "女子正常直行被恶意别停遭辱骂",
@@ -4035,6 +4059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703621,
+      "num": 703621,
+      "word": "看吃播或将引发脑内炎症",
+      "onboard_time": 1659674019,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702181,
       "num": 702181,
       "word": "唐周腹肌",
@@ -4049,6 +4081,14 @@
       "onboard_time": 1659431452,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699350,
+      "num": 699350,
+      "word": "游客在郑州方特门口高喊退票",
+      "onboard_time": 1659672758,
+      "rank": 38,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 699118,
@@ -4659,6 +4699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 589903,
+      "num": 589903,
+      "word": "过去24小时解放军都做了什么",
+      "onboard_time": 1659675402,
+      "rank": 21,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 588892,
       "num": 588892,
       "word": "成都女生辣哭相亲对象",
@@ -4971,6 +5019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 556186,
+      "num": 556186,
+      "word": "湖北一商场踩气球找钻戒千人哄抢",
+      "onboard_time": 1659673178,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553109,
       "num": 553109,
       "word": "闪耀暖暖",
@@ -5235,14 +5291,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 525274,
-      "num": 525274,
-      "word": "美台勾连挑衅中方反击天经地义",
-      "onboard_time": 1659670598,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 525176,
       "num": 488980,
       "word": "冠军对冠军官宣阵容",
@@ -5259,6 +5307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523954,
+      "num": 523954,
+      "word": "解放军联合演训随时可转为实战",
+      "onboard_time": 1659672939,
+      "rank": 43,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 521507,
       "num": 521507,
       "word": "郑在玹徐英浩确诊新冠",
@@ -5272,6 +5328,14 @@
       "word": "吴宣仪陈哲远吻戏花絮",
       "onboard_time": 1659589783,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 519936,
+      "num": 519936,
+      "word": "短剧养敌为患",
+      "onboard_time": 1659674144,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -5321,6 +5385,14 @@
       "onboard_time": 1659518030,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511419,
+      "num": 511419,
+      "word": "沉香如屑",
+      "onboard_time": 1659482755,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 510529,
@@ -5481,6 +5553,14 @@
       "onboard_time": 1659611315,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497513,
+      "num": 497513,
+      "word": "胡一天演司徒颜",
+      "onboard_time": 1659675460,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 496171,
@@ -5819,14 +5899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471164,
-      "num": 471164,
-      "word": "沉香如屑",
-      "onboard_time": 1659482755,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470075,
       "num": 470075,
       "word": "沉香如屑带火七夕莲花花束",
@@ -5841,6 +5913,14 @@
       "onboard_time": 1659599619,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469235,
+      "num": 469235,
+      "word": "美军强化对解放军军演的空中侦察",
+      "onboard_time": 1659675519,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 468518,
@@ -5913,14 +5993,6 @@
       "onboard_time": 1659516951,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 464189,
-      "num": 464189,
-      "word": "90后女生通宵追剧致视网膜裂孔",
-      "onboard_time": 1659672401,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463498,
@@ -6163,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445035,
+      "num": 445035,
+      "word": "油价已跌破俄乌冲突前水平",
+      "onboard_time": 1659674861,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 444906,
       "num": 444906,
       "word": "躲过了孤寡青蛙没躲过孤独水壶",
@@ -6185,14 +6265,6 @@
       "onboard_time": 1659359137,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443554,
-      "num": 443554,
-      "word": "外交部紧急召见日本驻华大使垂秀夫",
-      "onboard_time": 1659673058,
-      "rank": 27,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 443263,
@@ -6379,6 +6451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 427538,
+      "num": 427538,
+      "word": "刘彰说是被迫参加向前冲的",
+      "onboard_time": 1659672939,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427455,
       "num": 427455,
       "word": "恋与制作人",
@@ -6473,6 +6553,14 @@
       "onboard_time": 1659606401,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422279,
+      "num": 422279,
+      "word": "熬夜关灯玩手机对眼睛伤害不可逆",
+      "onboard_time": 1659675341,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422165,
@@ -6667,6 +6755,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 409808,
+      "num": 409808,
+      "word": "山东到底有多热",
+      "onboard_time": 1659673782,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409538,
       "num": 409538,
       "word": "情侣吵架男友酒驾散心女友举报",
@@ -6827,6 +6923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396386,
+      "num": 396386,
+      "word": "乘风破浪生如夏花手绘海报",
+      "onboard_time": 1659675640,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396178,
       "num": 396178,
       "word": "在新疆没一个馕能留到隔天",
@@ -6977,6 +7081,14 @@
       "onboard_time": 1659353134,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384736,
+      "num": 384736,
+      "word": "王心凌教尹浩宇闽南语好烫嘴",
+      "onboard_time": 1659673542,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 383754,
@@ -7209,6 +7321,14 @@
       "onboard_time": 1659417108,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373355,
+      "num": 373355,
+      "word": "最想吃的台湾小吃",
+      "onboard_time": 1659672578,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 371334,
@@ -7523,14 +7643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357428,
-      "num": 357428,
-      "word": "最想吃的台湾小吃",
-      "onboard_time": 1659672578,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 357287,
       "num": 357287,
       "word": "光与夜之恋电话",
@@ -7721,14 +7833,6 @@
       "onboard_time": 1659349471,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 344198,
-      "num": 310581,
-      "word": "刘彰说是被迫参加向前冲的",
-      "onboard_time": 1659672939,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 344077,
@@ -8107,12 +8211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322968,
-      "num": 322968,
-      "word": "游客在郑州方特门口高喊退票",
-      "onboard_time": 1659672758,
-      "rank": 38,
-      "category": "社会新闻,旅游"
+      "raw_hot": 323066,
+      "num": 323066,
+      "word": "newjeans出道音银上班图",
+      "onboard_time": 1659674743,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 322741,
@@ -8363,6 +8467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310786,
+      "num": 310786,
+      "word": "明日方舟",
+      "onboard_time": 1659675222,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309863,
       "num": 309863,
       "word": "林彦俊原来我很爱你播出一周年",
@@ -8521,14 +8633,6 @@
       "onboard_time": 1659335610,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300762,
-      "num": 300762,
-      "word": "解放军联合演训随时可转为实战",
-      "onboard_time": 1659672939,
-      "rank": 43,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 299901,
@@ -8753,6 +8857,14 @@
       "onboard_time": 1659512034,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287800,
+      "num": 287800,
+      "word": "解放军演训行动第二天",
+      "onboard_time": 1659675879,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 287079,
@@ -9289,14 +9401,6 @@
       "onboard_time": 1659323669,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 255050,
-      "num": 255050,
-      "word": "湖北一商场踩气球找钻戒千人哄抢",
-      "onboard_time": 1659673178,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254286,
