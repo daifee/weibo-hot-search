@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659688012371,
+  "endTime": 1659688931533,
   "band_list": [
     {
       "raw_hot": 13925735,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2673484,
+      "num": 2673484,
+      "word": "外交部宣布制裁佩洛西",
+      "onboard_time": 1659688064,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2345887,
       "num": 2345887,
       "word": "想去台湾省吃山西刀削面",
@@ -131,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2036782,
+      "num": 1051385,
+      "word": "马天宇辟谣不配合baby宣传新剧",
+      "onboard_time": 1659687340,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2006626,
+      "num": 2006626,
+      "word": "美国务卿称美国不支持台独",
+      "onboard_time": 1659685657,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1929948,
       "num": 1929948,
       "word": "白宫外广场发生雷击4人重伤",
@@ -147,14 +171,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1802649,
-      "num": 1802649,
-      "word": "美国务卿称美国不支持台独",
-      "onboard_time": 1659685657,
-      "rank": 4,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1774738,
       "num": 1774738,
       "word": "枪杀安倍嫌犯或被判无期",
@@ -163,12 +179,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1726622,
+      "num": 1726622,
+      "word": "日本碰瓷中国导弹毫无道理",
+      "onboard_time": 1659686199,
+      "rank": 7,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1718652,
       "num": 1718652,
       "word": "外交部紧急召见日本驻华大使垂秀夫",
       "onboard_time": 1659673058,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1667868,
+      "num": 653450,
+      "word": "昆凌说应该不会再生了",
+      "onboard_time": 1659687219,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1642995,
@@ -219,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1278934,
+      "num": 1001949,
+      "word": "郑琴心怀孕",
+      "onboard_time": 1659687097,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1229746,
       "num": 1229746,
       "word": "老人剐蹭宝马掏塑料袋钱包欲赔偿",
@@ -267,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140217,
+      "num": 1140217,
+      "word": "老人带500万存款到派出所自首",
+      "onboard_time": 1659686679,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138309,
       "num": 1138309,
       "word": "王嘉尔泰版ELLE八月刊",
@@ -289,14 +337,6 @@
       "onboard_time": 1659679177,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1100417,
-      "num": 1100417,
-      "word": "日本碰瓷中国导弹毫无道理",
-      "onboard_time": 1659686199,
-      "rank": 7,
-      "category": "军事"
     },
     {
       "raw_hot": 1094953,
@@ -331,12 +371,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 1051385,
-      "num": 1051385,
-      "word": "马天宇辟谣不配合baby宣传新剧",
-      "onboard_time": 1659687340,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 1030834,
+      "num": 2943950,
+      "word": "解放军常规导弹穿越台岛意味着什么",
+      "onboard_time": 1659683974,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1026129,
@@ -347,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024676,
+      "num": 1024676,
+      "word": "旺旺医院",
+      "onboard_time": 1659687162,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017001,
       "num": 843126,
       "word": "杨幂请狐妖小红娘剧组喝咖啡",
       "onboard_time": 1659681396,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1001767,
-      "num": 2850464,
-      "word": "解放军常规导弹穿越台岛意味着什么",
-      "onboard_time": 1659683974,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 978643,
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816352,
+      "num": 816352,
+      "word": "石家庄一男子持刀伤人致2死",
+      "onboard_time": 1659686257,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 793764,
       "num": 793764,
       "word": "突然没那么焦虑了",
@@ -475,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 787890,
-      "num": 609929,
-      "word": "昆凌说应该不会再生了",
-      "onboard_time": 1659687219,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 787639,
       "num": 787639,
       "word": "美国宣布猴痘疫情为突发公共卫生事件",
@@ -497,14 +537,6 @@
       "onboard_time": 1659670120,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 752536,
-      "num": 752536,
-      "word": "郑琴心怀孕",
-      "onboard_time": 1659687097,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 751779,
@@ -579,12 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 696996,
-      "num": 696996,
+      "raw_hot": 697740,
+      "num": 697740,
       "word": "凌不疑嫋嫋脑",
       "onboard_time": 1659684939,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 696440,
+      "num": 696440,
+      "word": "光遇炸服",
+      "onboard_time": 1659688243,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 686507,
@@ -609,14 +649,6 @@
       "onboard_time": 1659678877,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 676806,
-      "num": 676806,
-      "word": "老人带500万存款到派出所自首",
-      "onboard_time": 1659686679,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676289,
@@ -683,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613737,
-      "num": 613737,
-      "word": "石家庄一男子持刀伤人致2死",
-      "onboard_time": 1659686257,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 610552,
       "num": 610552,
       "word": "近400名俄罗斯青年集会力挺中国",
@@ -723,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592615,
+      "num": 592615,
+      "word": "百度地图被搜崩了",
+      "onboard_time": 1659688064,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 581487,
       "num": 581487,
       "word": "出纳员1年挪用2000万公款买彩票",
@@ -737,14 +769,6 @@
       "onboard_time": 1659680677,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 575956,
-      "num": 575956,
-      "word": "旺旺医院",
-      "onboard_time": 1659687162,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 554685,
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533116,
+      "num": 533116,
+      "word": "旺旺创始人曾称大陆成就旺旺",
+      "onboard_time": 1659687942,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519936,
       "num": 519936,
       "word": "短剧养敌为患",
@@ -825,6 +857,14 @@
       "onboard_time": 1659669938,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 508832,
+      "num": 247753,
+      "word": "偶遇丁程鑫驾校考科目一",
+      "onboard_time": 1659688904,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 501922,
@@ -881,6 +921,14 @@
       "onboard_time": 1659660573,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 480313,
+      "num": 480313,
+      "word": "士力架",
+      "onboard_time": 1659687823,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475950,
@@ -1003,6 +1051,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 428846,
+      "num": 428846,
+      "word": "警方回应一男童被后妈虐待致死",
+      "onboard_time": 1659687942,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 427538,
       "num": 427538,
       "word": "刘彰说是被迫参加向前冲的",
@@ -1051,20 +1107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386474,
+      "num": 386474,
+      "word": "河南将全面推行交房即交证",
+      "onboard_time": 1659683618,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 384736,
       "num": 384736,
       "word": "王心凌教尹浩宇闽南语好烫嘴",
       "onboard_time": 1659673542,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383304,
-      "num": 383304,
-      "word": "河南将全面推行交房即交证",
-      "onboard_time": 1659683618,
-      "rank": 41,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 377735,
@@ -1267,6 +1323,22 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 307216,
+      "num": 307216,
+      "word": "男子凌晨偷捞地沟油被群众驱赶",
+      "onboard_time": 1659684276,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305147,
+      "num": 305147,
+      "word": "我们是堂堂正正的中国人",
+      "onboard_time": 1659687942,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304893,
       "num": 304893,
       "word": "海巡06轮",
@@ -1331,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284188,
-      "num": 284188,
-      "word": "男子凌晨偷捞地沟油被群众驱赶",
-      "onboard_time": 1659684276,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283722,
       "num": 283722,
       "word": "罗晋的终极目标是被观众忘记",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1659629014,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283373,
+      "num": 283373,
+      "word": "佩洛西访韩未见到尹锡悦",
+      "onboard_time": 1659686559,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 281790,
@@ -1379,6 +1451,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 275429,
+      "num": 275429,
+      "word": "华春莹8个字问美方及其跟班",
+      "onboard_time": 1659688781,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 275404,
       "num": 275404,
       "word": "近距离看台湾海峡最大巡航救助船",
@@ -1393,14 +1473,6 @@
       "onboard_time": 1659665857,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267260,
-      "num": 267260,
-      "word": "佩洛西访韩未见到尹锡悦",
-      "onboard_time": 1659686559,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 265225,
@@ -1456,14 +1528,6 @@
       "word": "民警带手术前想坐警车的男孩巡逻",
       "onboard_time": 1659649213,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251804,
-      "num": 251804,
-      "word": "旺旺创始人曾称大陆成就旺旺",
-      "onboard_time": 1659687942,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1579,36 +1643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235470,
-      "num": 235470,
-      "word": "士力架",
-      "onboard_time": 1659687823,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232829,
-      "num": 232829,
-      "word": "警方回应一男童被后妈虐待致死",
-      "onboard_time": 1659687942,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 232353,
       "num": 232353,
       "word": "七夕祝福",
       "onboard_time": 1659630089,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 231232,
-      "num": 231232,
-      "word": "我们是堂堂正正的中国人",
-      "onboard_time": 1659687942,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229807,
