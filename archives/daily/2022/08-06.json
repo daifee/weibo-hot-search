@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659738045749,
+  "endTime": 1659739063301,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -299,6 +299,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 247617,
+      "num": 247617,
+      "word": "提高代谢就从早晨开始吧",
+      "onboard_time": 1659733814,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242373,
       "num": 242373,
       "word": "时间真的会消磨爱意吗",
@@ -321,6 +329,14 @@
       "onboard_time": 1659700661,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196258,
+      "num": 196258,
+      "word": "石家庄新乐新增8例阳性",
+      "onboard_time": 1659737114,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193572,
@@ -355,12 +371,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 175564,
-      "num": 175564,
-      "word": "提高代谢就从早晨开始吧",
-      "onboard_time": 1659733814,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 174384,
+      "num": 174384,
+      "word": "张嘉倪版的佟湘玉好美",
+      "onboard_time": 1659736814,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 171302,
@@ -419,11 +435,11 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 117109,
-      "num": 117109,
-      "word": "石家庄新乐新增8例阳性",
-      "onboard_time": 1659737114,
-      "rank": 17,
+      "raw_hot": 117152,
+      "num": 117152,
+      "word": "湖北一商场聚集千人踩气球找钻戒",
+      "onboard_time": 1659736753,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -451,24 +467,8 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 80093,
-      "num": 80093,
-      "word": "张嘉倪版的佟湘玉好美",
-      "onboard_time": 1659736814,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 57154,
-      "num": 57154,
-      "word": "湖北一商场聚集千人踩气球找钻戒",
-      "onboard_time": 1659736753,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36732,
-      "num": 36732,
+      "raw_hot": 41151,
+      "num": 41151,
       "word": "有哪些看不见的隐形家务",
       "onboard_time": 1659729372,
       "rank": 36,
