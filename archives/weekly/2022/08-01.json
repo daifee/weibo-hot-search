@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659707816451,
+  "endTime": 1659709273084,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -939,19 +939,19 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 3236072,
+      "num": 2350381,
+      "word": "女子耳朵痛痒难耐拆开枕头全是虫",
+      "onboard_time": 1659704079,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3161433,
       "num": 3161433,
       "word": "白象方便面被曝面饼上满是蚂蚁",
       "onboard_time": 1659525279,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3139346,
-      "num": 1834433,
-      "word": "女子耳朵痛痒难耐拆开枕头全是虫",
-      "onboard_time": 1659704079,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1177,14 @@
       "onboard_time": 1659587147,
       "rank": 7,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2638622,
+      "num": 2638622,
+      "word": "那英 成了团没什么用",
+      "onboard_time": 1659707801,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 2635519,
@@ -2747,6 +2755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1196974,
+      "num": 1196974,
+      "word": "如愿 好好哭",
+      "onboard_time": 1659706057,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1192494,
       "num": 1192494,
       "word": "39岁女主播从身价上亿到一贫如洗",
@@ -3115,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1076201,
+      "num": 2353804,
+      "word": "东部战区出动海陆空英雄部队",
+      "onboard_time": 1659706240,
+      "rank": 2,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 1074176,
       "num": 1074176,
       "word": "玉骨遥",
@@ -3257,14 +3281,6 @@
       "onboard_time": 1659281311,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1010556,
-      "num": 1010556,
-      "word": "如愿 好好哭",
-      "onboard_time": 1659706057,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1004691,
@@ -3545,6 +3561,14 @@
       "onboard_time": 1659282692,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 934227,
+      "num": 934227,
+      "word": "再也不敢在朋友圈emo了",
+      "onboard_time": 1659703357,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 928649,
@@ -3923,6 +3947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 822792,
+      "num": 822792,
+      "word": "成都税务部门调查彩虹夫妇",
+      "onboard_time": 1659705998,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 822052,
       "num": 822052,
       "word": "官方回应高考551分因心脏病无学可上",
@@ -4065,6 +4097,14 @@
       "onboard_time": 1659445422,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790901,
+      "num": 525440,
+      "word": "王毅说很久没听到美国说这种话了",
+      "onboard_time": 1659708458,
+      "rank": 21,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 790877,
@@ -4523,14 +4563,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 714479,
-      "num": 2121480,
-      "word": "东部战区出动海陆空英雄部队",
-      "onboard_time": 1659706240,
-      "rank": 2,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 714478,
       "num": 714478,
       "word": "女子正常直行被恶意别停遭辱骂",
@@ -4689,14 +4721,6 @@
       "onboard_time": 1659486128,
       "rank": 22,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 683405,
-      "num": 683405,
-      "word": "再也不敢在朋友圈emo了",
-      "onboard_time": 1659703357,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 683181,
@@ -4921,6 +4945,14 @@
       "onboard_time": 1659597998,
       "rank": 15,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 651405,
+      "num": 651405,
+      "word": "日本领导人在台湾问题上表现非常不好",
+      "onboard_time": 1659706838,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 648796,
@@ -5939,6 +5971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530224,
+      "num": 392751,
+      "word": "Twins下一站天后 爷青回",
+      "onboard_time": 1659707801,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529357,
       "num": 529357,
       "word": "东部战区实弹训练原声现场画面",
@@ -6241,6 +6281,14 @@
       "onboard_time": 1659322048,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 504478,
+      "num": 504478,
+      "word": "北京拟试点老年人贷款买房",
+      "onboard_time": 1659707318,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 503712,
@@ -6811,14 +6859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462424,
-      "num": 462424,
-      "word": "成都税务部门调查彩虹夫妇",
-      "onboard_time": 1659705998,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 460412,
       "num": 460412,
       "word": "士力架母公司玛氏中国商业版图",
@@ -7065,14 +7105,6 @@
       "onboard_time": 1659696040,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446405,
-      "num": 446405,
-      "word": "北京拟试点老年人贷款买房",
-      "onboard_time": 1659707318,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 446058,
@@ -7659,6 +7691,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 410312,
+      "num": 377911,
+      "word": "谢娜暖心长文告别浪姐",
+      "onboard_time": 1659708699,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409808,
       "num": 409808,
       "word": "山东到底有多热",
@@ -7697,6 +7737,14 @@
       "onboard_time": 1659591455,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408354,
+      "num": 408354,
+      "word": "民警在嫌疑人孩子面前藏起手铐",
+      "onboard_time": 1659705040,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406907,
@@ -8211,6 +8259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375128,
+      "num": 375128,
+      "word": "山东热成灿东了",
+      "onboard_time": 1659707679,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374420,
       "num": 374420,
       "word": "吃播博主为何盯上大白鲨",
@@ -8545,14 +8601,6 @@
       "onboard_time": 1659514372,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 359178,
-      "num": 359178,
-      "word": "日本领导人在台湾问题上表现非常不好",
-      "onboard_time": 1659706838,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 359106,
@@ -8891,14 +8939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338408,
-      "num": 187147,
-      "word": "Twins下一站天后 爷青回",
-      "onboard_time": 1659707801,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338117,
       "num": 338117,
       "word": "朋友借钱不还违法吗",
@@ -8969,14 +9009,6 @@
       "onboard_time": 1659424187,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 334670,
-      "num": 179317,
-      "word": "那英 成了团没什么用",
-      "onboard_time": 1659707801,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 334281,
@@ -9345,14 +9377,6 @@
       "onboard_time": 1659356256,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319115,
-      "num": 319115,
-      "word": "民警在嫌疑人孩子面前藏起手铐",
-      "onboard_time": 1659705040,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317805,
@@ -11187,6 +11211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219805,
+      "num": 219805,
+      "word": "东部战区继续位台岛周边联合演训",
+      "onboard_time": 1659708763,
+      "rank": 45,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 217617,
       "num": 217617,
       "word": "你有过从等你下课到接你回家的爱情吗",
@@ -11539,6 +11571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 193208,
+      "num": 193208,
+      "word": "DK对战GEN",
+      "onboard_time": 1659708044,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193075,
       "num": 193075,
       "word": "Hero对战WE",
@@ -11713,14 +11753,6 @@
       "onboard_time": 1659456584,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166681,
-      "num": 166681,
-      "word": "山东热成灿东了",
-      "onboard_time": 1659707679,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166196,
