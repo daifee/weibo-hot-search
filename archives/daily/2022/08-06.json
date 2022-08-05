@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659718715163,
+  "endTime": 1659720565524,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -107,12 +107,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 821273,
+      "num": 821273,
+      "word": "网红主播自曝收入意欲何为",
+      "onboard_time": 1659718227,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 819733,
       "num": 819733,
       "word": "河南长出的新冠特效药",
       "onboard_time": 1659713560,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795602,
+      "num": 795602,
+      "word": "眉飞色舞 难看",
+      "onboard_time": 1659716136,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 679173,
@@ -128,14 +144,6 @@
       "word": "Twins下一站天后 爷青回",
       "onboard_time": 1659707801,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 653122,
-      "num": 653122,
-      "word": "眉飞色舞 难看",
-      "onboard_time": 1659716136,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -235,20 +243,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 300389,
+      "num": 300389,
+      "word": "华春莹质问美方早知如此何必当初",
+      "onboard_time": 1659701798,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 288087,
       "num": 253848,
       "word": "Prada大秀 造型",
       "onboard_time": 1659710741,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 286653,
-      "num": 286653,
-      "word": "华春莹质问美方早知如此何必当初",
-      "onboard_time": 1659701798,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 255324,
@@ -283,20 +291,20 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 246180,
+      "num": 246180,
+      "word": "东部战区继续位台岛周边联合演训",
+      "onboard_time": 1659708763,
+      "rank": 47,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 242373,
       "num": 242373,
       "word": "时间真的会消磨爱意吗",
       "onboard_time": 1659710026,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214701,
-      "num": 192266,
-      "word": "网红主播自曝收入意欲何为",
-      "onboard_time": 1659718227,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 204444,
@@ -395,14 +403,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 133146,
-      "num": 133146,
-      "word": "东部战区继续位台岛周边联合演训",
-      "onboard_time": 1659708763,
-      "rank": 47,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 108634,
       "num": 108634,
       "word": "郑州房地产纾困基金暂定规模100亿",
@@ -422,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#这就是中国态度#"
+    },
+    {
+      "word": "#打卡中国#"
     }
   ]
 }
