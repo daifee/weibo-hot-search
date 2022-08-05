@@ -1,0 +1,410 @@
+{
+  "runTime": 1659684970383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12860087,
+        "num": 12860087,
+        "word": "旺旺",
+        "onboard_time": 1659677136,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3057015,
+        "num": 3057015,
+        "word": "同中方建交国家不得与台湾官方往来",
+        "onboard_time": 1659667117,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 425989,
+        "num": 1847968,
+        "word": "解放军常规导弹穿越台岛意味着什么",
+        "onboard_time": 1659683974,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1516544,
+        "num": 1516544,
+        "word": "过去24小时解放军都做了什么",
+        "onboard_time": 1659675402,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1390947,
+        "num": 1390947,
+        "word": "新疆5000只战斗鸡灭蝗虫",
+        "onboard_time": 1659681638,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162259,
+        "num": 1162259,
+        "word": "韩国慰安妇受害者想见佩洛西被警卫推倒",
+        "onboard_time": 1659665195,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1115073,
+        "num": 1115073,
+        "word": "东部战区英雄部队精锐尽出",
+        "onboard_time": 1659682776,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1072476,
+        "num": 1072476,
+        "word": "三只松鼠回应招聘要求松鼠式微笑",
+        "onboard_time": 1659679177,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870188,
+        "num": 870188,
+        "word": "看吃播或将引发脑内炎症",
+        "onboard_time": 1659674019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819851,
+        "num": 819851,
+        "word": "老人剐蹭宝马掏塑料袋钱包欲赔偿",
+        "onboard_time": 1659678096,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697993,
+        "num": 697993,
+        "word": "杨幂请狐妖小红娘剧组喝咖啡",
+        "onboard_time": 1659681396,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683181,
+        "num": 683181,
+        "word": "人民网评天才基本法",
+        "onboard_time": 1659682838,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681365,
+        "num": 681365,
+        "word": "东部战区首次用动车组卫勤演练",
+        "onboard_time": 1659682715,
+        "rank": 12,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 678350,
+        "num": 678350,
+        "word": "解放军演训行动第二天",
+        "onboard_time": 1659675879,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 650639,
+        "num": 650639,
+        "word": "网红小狗疑被主人针扎虐待",
+        "onboard_time": 1659683498,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638274,
+        "num": 638274,
+        "word": "地图可显示台湾省每个街道",
+        "onboard_time": 1659659974,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 635725,
+        "num": 635725,
+        "word": "外交部紧急召见日本驻华大使垂秀夫",
+        "onboard_time": 1659673058,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 598938,
+        "num": 598938,
+        "word": "北京出租车禁贴车膜司机乘客遭暴晒",
+        "onboard_time": 1659681457,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546842,
+        "num": 546842,
+        "word": "解放军联合演训随时可转为实战",
+        "onboard_time": 1659672939,
+        "rank": 18,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 537345,
+        "num": 537345,
+        "word": "吴露可逃 甜",
+        "onboard_time": 1659678877,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517104,
+        "num": 517104,
+        "word": "旺家",
+        "onboard_time": 1659681277,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496944,
+        "num": 496944,
+        "word": "拒绝与同学到河里玩后男孩反手报警",
+        "onboard_time": 1659676895,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491646,
+        "num": 491646,
+        "word": "玉骨遥",
+        "onboard_time": 1659683253,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434593,
+        "num": 434593,
+        "word": "赵丽颖林更新与凤行花絮照",
+        "onboard_time": 1659678455,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429639,
+        "num": 429639,
+        "word": "睡衣女子头顶吹风机到消防站求助",
+        "onboard_time": 1659683194,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411510,
+        "num": 411510,
+        "word": "王铮亮睡过头忘了给自己打歌",
+        "onboard_time": 1659680677,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390211,
+        "num": 390211,
+        "word": "女子10天被骗两次获赔7.5万",
+        "onboard_time": 1659676960,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379754,
+        "num": 379754,
+        "word": "解放军全程跟踪迫使佩洛西专机绕道",
+        "onboard_time": 1659665616,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 364202,
+        "num": 364202,
+        "word": "母亲以死逼迫女儿与相亲对象结婚",
+        "onboard_time": 1659684457,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326592,
+        "num": 326592,
+        "word": "佩洛西之流不是爱台湾是爱台币",
+        "onboard_time": 1659683375,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 315350,
+        "num": 315350,
+        "word": "河南将全面推行交房即交证",
+        "onboard_time": 1659683618,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 314330,
+        "num": 314330,
+        "word": "苹果被指对女员工投诉不当行为冷漠",
+        "onboard_time": 1659678517,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 311814,
+        "num": 311814,
+        "word": "油价已跌破俄乌冲突前水平",
+        "onboard_time": 1659674861,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 270422,
+        "num": 270422,
+        "word": "喜茶布局婚庆业务",
+        "onboard_time": 1659676239,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258844,
+        "num": 258844,
+        "word": "山东到底有多热",
+        "onboard_time": 1659673782,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248396,
+        "num": 248396,
+        "word": "28个大中城市平均住房空置率12%",
+        "onboard_time": 1659684100,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 245112,
+        "num": 245112,
+        "word": "苍兰诀连播24集",
+        "onboard_time": 1659667777,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241037,
+        "num": 241037,
+        "word": "熬夜关灯玩手机对眼睛伤害不可逆",
+        "onboard_time": 1659675341,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238297,
+        "num": 238297,
+        "word": "小胖科学家",
+        "onboard_time": 1659678816,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234422,
+        "num": 234422,
+        "word": "CBA公司回应郭艾伦申请转会",
+        "onboard_time": 1659678994,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229807,
+        "num": 229807,
+        "word": "果然天空娱乐回应小鬼受伤",
+        "onboard_time": 1659684216,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226342,
+        "num": 226342,
+        "word": "男子凌晨偷捞地沟油被群众驱赶",
+        "onboard_time": 1659684276,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223665,
+        "num": 223665,
+        "word": "被杨迪周深合拍笑死",
+        "onboard_time": 1659679539,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222488,
+        "num": 222488,
+        "word": "海巡06轮",
+        "onboard_time": 1659680436,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 215224,
+        "num": 215224,
+        "word": "四川自贡一商场摆展板举办夏日祭",
+        "onboard_time": 1659684758,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211966,
+        "num": 211966,
+        "word": "唐周吃醋",
+        "onboard_time": 1659682177,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208709,
+        "num": 208709,
+        "word": "用大陆城市命名的台湾省街道",
+        "onboard_time": 1659670839,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205454,
+        "num": 205454,
+        "word": "美台勾连挑衅中方反击天经地义",
+        "onboard_time": 1659670598,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201624,
+        "num": 201624,
+        "word": "美特斯邦威被曝大量拖欠工资",
+        "onboard_time": 1659684877,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192774,
+        "num": 192774,
+        "word": "凌不疑嫋嫋脑",
+        "onboard_time": 1659684939,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国态度#"
+    }
+  }
+}
