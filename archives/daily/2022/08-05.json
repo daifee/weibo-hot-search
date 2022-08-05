@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659692287847,
+  "endTime": 1659695020267,
   "band_list": [
     {
       "raw_hot": 15393348,
@@ -27,11 +27,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8043346,
-      "num": 8043346,
+      "raw_hot": 9261905,
+      "num": 9261905,
       "word": "旺旺发声",
       "onboard_time": 1659677136,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6686383,
+      "num": 6686383,
+      "word": "士力架 台湾",
+      "onboard_time": 1659687823,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2728915,
+      "num": 2728915,
+      "word": "美方称大陆对台当局策略是煮青蛙",
+      "onboard_time": 1659689743,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2345887,
       "num": 2345887,
       "word": "想去台湾省吃山西刀削面",
@@ -169,14 +185,6 @@
       "onboard_time": 1659687340,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2032456,
-      "num": 2032456,
-      "word": "士力架 台湾",
-      "onboard_time": 1659687823,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1929948,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 1151719,
-      "num": 3876590,
+      "num": 6951623,
       "word": "解放军常规导弹穿越台岛意味着什么",
       "onboard_time": 1659683974,
       "rank": 2,
@@ -377,14 +385,6 @@
       "onboard_time": 1659679177,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1113974,
-      "num": 1113974,
-      "word": "美方称大陆对台当局策略是煮青蛙",
-      "onboard_time": 1659689743,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1094953,
@@ -691,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 692329,
+      "num": 692329,
+      "word": "针对佩洛西窜台反制措施",
+      "onboard_time": 1659693463,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 686507,
       "num": 686507,
       "word": "民国大侦探定档0810",
@@ -747,12 +755,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 660931,
+      "num": 660931,
+      "word": "七夕最受关注男女艺人",
+      "onboard_time": 1659691246,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 659188,
       "num": 659188,
       "word": "演习成功说明我们可以想怎么打就怎么打",
       "onboard_time": 1659611558,
       "rank": 10,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 656733,
+      "num": 656733,
+      "word": "TF家族新歌将军话预告",
+      "onboard_time": 1659692320,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 646927,
@@ -833,6 +857,14 @@
       "onboard_time": 1659680677,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 575610,
+      "num": 575610,
+      "word": "外交部就加拿大错误涉台声明提出严正交涉",
+      "onboard_time": 1659693701,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 554685,
@@ -947,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495346,
-      "num": 495346,
-      "word": "七夕最受关注男女艺人",
-      "onboard_time": 1659691246,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494484,
       "num": 494484,
       "word": "我们工业系统可大批量快速生产远火弹药",
@@ -985,6 +1009,14 @@
       "onboard_time": 1659660573,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 484161,
+      "num": 484161,
+      "word": "辱母案当事人于欢结婚",
+      "onboard_time": 1659692022,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475950,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1659614500,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468822,
+      "num": 468822,
+      "word": "张继科说乒乓球太难了",
+      "onboard_time": 1659693942,
+      "rank": 23,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 467870,
@@ -1155,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409513,
+      "num": 409513,
+      "word": "男孩玩无人机撞伤路人致10级伤残",
+      "onboard_time": 1659692442,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406413,
       "num": 282885,
       "word": "丈夫删的聊天记录里有啥",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1659664894,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356156,
+      "num": 356156,
+      "word": "张远是特效刺客吧",
+      "onboard_time": 1659693942,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 352834,
@@ -1387,12 +1443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313054,
+      "num": 313054,
+      "word": "东部战区继续进行实战化联合演训",
+      "onboard_time": 1659691961,
+      "rank": 44,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 310786,
       "num": 310786,
       "word": "明日方舟",
       "onboard_time": 1659675222,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310085,
+      "num": 310085,
+      "word": "出版社回应儿童读物露骨",
+      "onboard_time": 1659693521,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 307238,
@@ -1483,12 +1555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286082,
-      "num": 286082,
-      "word": "辱母案当事人于欢结婚",
-      "onboard_time": 1659692022,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 286246,
+      "num": 286246,
+      "word": "JackeyLove希维尔五杀",
+      "onboard_time": 1659694540,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 283722,
@@ -1571,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270564,
+      "num": 270564,
+      "word": "取消安排中美两军战区领导通话",
+      "onboard_time": 1659694901,
+      "rank": 39,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 265225,
       "num": 265225,
       "word": "重庆新增本土确诊病例3例无症状感染者9例",
@@ -1635,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251301,
+      "num": 251301,
+      "word": "张天爱 我们决赛见",
+      "onboard_time": 1659693282,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251269,
       "num": 251269,
       "word": "大自然是天然的配色大师",
@@ -1689,14 +1777,6 @@
       "onboard_time": 1659614978,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241143,
-      "num": 241143,
-      "word": "东部战区继续进行实战化联合演训",
-      "onboard_time": 1659691961,
-      "rank": 44,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 240913,
@@ -1777,6 +1857,14 @@
       "onboard_time": 1659617258,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228622,
+      "num": 228622,
+      "word": "百度地图回应被搜崩了",
+      "onboard_time": 1659694901,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 228521,

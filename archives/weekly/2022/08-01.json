@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659692287847,
+  "endTime": 1659695020267,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -267,6 +267,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 9261905,
+      "num": 9261905,
+      "word": "旺旺发声",
+      "onboard_time": 1659677136,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9097931,
       "num": 10138072,
       "word": "暂停台湾地区冰鲜白带鱼输入大陆",
@@ -281,14 +289,6 @@
       "onboard_time": 1659445112,
       "rank": 18,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 8043346,
-      "num": 8043346,
-      "word": "旺旺发声",
-      "onboard_time": 1659677136,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8007639,
@@ -313,6 +313,14 @@
       "onboard_time": 1659327992,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6686383,
+      "num": 6686383,
+      "word": "士力架 台湾",
+      "onboard_time": 1659687823,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6541543,
@@ -1115,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2728915,
+      "num": 2728915,
+      "word": "美方称大陆对台当局策略是煮青蛙",
+      "onboard_time": 1659689743,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2726682,
       "num": 907544,
       "word": "秋瓷炫于晓光合体大片",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1659429890,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2032456,
-      "num": 2032456,
-      "word": "士力架 台湾",
-      "onboard_time": 1659687823,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2027585,
@@ -2748,7 +2756,7 @@
     },
     {
       "raw_hot": 1151719,
-      "num": 3876590,
+      "num": 6951623,
       "word": "解放军常规导弹穿越台岛意味着什么",
       "onboard_time": 1659683974,
       "rank": 2,
@@ -2857,14 +2865,6 @@
       "onboard_time": 1659577896,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1113974,
-      "num": 1113974,
-      "word": "美方称大陆对台当局策略是煮青蛙",
-      "onboard_time": 1659689743,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1112390,
@@ -4451,6 +4451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692329,
+      "num": 692329,
+      "word": "针对佩洛西窜台反制措施",
+      "onboard_time": 1659693463,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 692045,
       "num": 421369,
       "word": "新加坡总理会见佩洛西",
@@ -4587,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660931,
+      "num": 660931,
+      "word": "七夕最受关注男女艺人",
+      "onboard_time": 1659691246,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660502,
       "num": 660502,
       "word": "颜淡被打回原型",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1659346110,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 656733,
+      "num": 656733,
+      "word": "TF家族新歌将军话预告",
+      "onboard_time": 1659692320,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 656381,
@@ -5201,6 +5225,14 @@
       "onboard_time": 1659680677,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 575610,
+      "num": 575610,
+      "word": "外交部就加拿大错误涉台声明提出严正交涉",
+      "onboard_time": 1659693701,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 574317,
@@ -5987,14 +6019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495346,
-      "num": 495346,
-      "word": "七夕最受关注男女艺人",
-      "onboard_time": 1659691246,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494673,
       "num": 494673,
       "word": "广东两少女无证骑摩托挑衅交警",
@@ -6137,6 +6161,14 @@
       "onboard_time": 1659585886,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 484161,
+      "num": 484161,
+      "word": "辱母案当事人于欢结婚",
+      "onboard_time": 1659692022,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482045,
@@ -6337,6 +6369,14 @@
       "onboard_time": 1659599619,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468822,
+      "num": 468822,
+      "word": "张继科说乒乓球太难了",
+      "onboard_time": 1659693942,
+      "rank": 23,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 468518,
@@ -7209,6 +7249,14 @@
       "onboard_time": 1659503645,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 409513,
+      "num": 409513,
+      "word": "男孩玩无人机撞伤路人致10级伤残",
+      "onboard_time": 1659692442,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409034,
@@ -8147,6 +8195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356156,
+      "num": 356156,
+      "word": "张远是特效刺客吧",
+      "onboard_time": 1659693942,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356128,
       "num": 356128,
       "word": "11岁男孩从早到晚帮爸爸看三个摊",
@@ -8931,6 +8987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 313054,
+      "num": 313054,
+      "word": "东部战区继续进行实战化联合演训",
+      "onboard_time": 1659691961,
+      "rank": 44,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 312254,
       "num": 312254,
       "word": "蛙泳居然这么丝滑",
@@ -8969,6 +9033,14 @@
       "onboard_time": 1659675222,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310085,
+      "num": 310085,
+      "word": "出版社回应儿童读物露骨",
+      "onboard_time": 1659693521,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309863,
@@ -9395,12 +9467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286082,
-      "num": 286082,
-      "word": "辱母案当事人于欢结婚",
-      "onboard_time": 1659692022,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 286246,
+      "num": 286246,
+      "word": "JackeyLove希维尔五杀",
+      "onboard_time": 1659694540,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 285722,
@@ -9665,6 +9737,14 @@
       "onboard_time": 1659665857,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270564,
+      "num": 270564,
+      "word": "取消安排中美两军战区领导通话",
+      "onboard_time": 1659694901,
+      "rank": 39,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 270230,
@@ -10019,6 +10099,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 251301,
+      "num": 251301,
+      "word": "张天爱 我们决赛见",
+      "onboard_time": 1659693282,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251269,
       "num": 251269,
       "word": "大自然是天然的配色大师",
@@ -10161,14 +10249,6 @@
       "onboard_time": 1659589246,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241143,
-      "num": 241143,
-      "word": "东部战区继续进行实战化联合演训",
-      "onboard_time": 1659691961,
-      "rank": 44,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 241003,
@@ -10449,6 +10529,14 @@
       "onboard_time": 1659404739,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228622,
+      "num": 228622,
+      "word": "百度地图回应被搜崩了",
+      "onboard_time": 1659694901,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 228561,
