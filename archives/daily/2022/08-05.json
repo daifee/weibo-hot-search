@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659699372992,
+  "endTime": 1659703457676,
   "band_list": [
     {
       "raw_hot": 15393348,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12728902,
+      "num": 12728902,
+      "word": "取消安排中美两军战区领导通话",
+      "onboard_time": 1659694901,
+      "rank": 39,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 9261905,
       "num": 9261905,
       "word": "旺旺发声",
@@ -41,14 +49,6 @@
       "onboard_time": 1659687823,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6556288,
-      "num": 6556288,
-      "word": "取消安排中美两军战区领导通话",
-      "onboard_time": 1659694901,
-      "rank": 39,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 4276604,
@@ -105,6 +105,14 @@
       "onboard_time": 1659665616,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2980359,
+      "num": 2980359,
+      "word": "日本碰瓷中国导弹毫无道理",
+      "onboard_time": 1659686199,
+      "rank": 7,
+      "category": "军事"
     },
     {
       "raw_hot": 2979739,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1953102,
+      "num": 1953102,
+      "word": "郑秀妍看郑秀晶VCR泪崩",
+      "onboard_time": 1659701798,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1929948,
       "num": 1929948,
       "word": "白宫外广场发生雷击4人重伤",
@@ -217,6 +233,14 @@
       "onboard_time": 1659674861,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1878007,
+      "num": 1878007,
+      "word": "日本外相发言时中俄外长同时退场",
+      "onboard_time": 1659696640,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1842410,
@@ -235,14 +259,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1726622,
-      "num": 1726622,
-      "word": "日本碰瓷中国导弹毫无道理",
-      "onboard_time": 1659686199,
-      "rank": 7,
-      "category": "军事"
-    },
-    {
       "raw_hot": 1718652,
       "num": 1718652,
       "word": "外交部紧急召见日本驻华大使垂秀夫",
@@ -259,12 +275,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 1544016,
-      "num": 1544016,
-      "word": "日本外相发言时中俄外长同时退场",
-      "onboard_time": 1659696640,
-      "rank": 8,
-      "category": "国外要闻"
+      "raw_hot": 1635734,
+      "num": 1635734,
+      "word": "空军飞行员目视距离俯瞰祖国宝岛",
+      "onboard_time": 1659700841,
+      "rank": 6,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1512979,
@@ -329,6 +345,14 @@
       "onboard_time": 1659678096,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1220603,
+      "num": 1220603,
+      "word": "王心凌 乘风破浪年度总冠军",
+      "onboard_time": 1659701739,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1218392,
@@ -409,6 +433,14 @@
       "onboard_time": 1659687162,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133347,
+      "num": 1133347,
+      "word": "乘风破浪总决赛",
+      "onboard_time": 1659699277,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 1128918,
@@ -523,12 +555,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 939067,
+      "num": 939067,
+      "word": "彩虹夫妇账号绑定企业仅7人参保",
+      "onboard_time": 1659697056,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938590,
       "num": 938590,
       "word": "网友冲进旺旺直播间野性消费",
       "onboard_time": 1659695860,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935138,
+      "num": 935138,
+      "word": "姜广涛将进酒广播剧暂停更新",
+      "onboard_time": 1659700661,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 921300,
@@ -545,6 +593,14 @@
       "onboard_time": 1659620077,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 902665,
+      "num": 555193,
+      "word": "赵露思迪士尼",
+      "onboard_time": 1659702758,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 898754,
@@ -601,6 +657,14 @@
       "onboard_time": 1659673178,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825662,
+      "num": 825662,
+      "word": "乘风破浪乘风夜全员芭比粉造型",
+      "onboard_time": 1659701559,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 823895,
@@ -819,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670070,
+      "num": 670070,
+      "word": "张子枫张新成海边吻戏",
+      "onboard_time": 1659700960,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667901,
       "num": 667901,
       "word": "浙江今年33.7万考生被高校录取",
@@ -841,6 +913,14 @@
       "onboard_time": 1659692320,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 652867,
+      "num": 3642692,
+      "word": "我军在台岛周边演训是否会常态化",
+      "onboard_time": 1659701559,
+      "rank": 2,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 646927,
@@ -875,12 +955,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623942,
+      "num": 412566,
+      "word": "正佳广场",
+      "onboard_time": 1659697719,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 618655,
+      "num": 549722,
+      "word": "黄子韬一号线艺人给你们表演个节目",
+      "onboard_time": 1659701499,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610552,
       "num": 610552,
       "word": "近400名俄罗斯青年集会力挺中国",
       "onboard_time": 1659656851,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601222,
+      "num": 601222,
+      "word": "日本最没资格就涉台问题指手画脚",
+      "onboard_time": 1659700002,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 599653,
+      "num": 599653,
+      "word": "永劫无间炸服",
+      "onboard_time": 1659701859,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 598938,
@@ -1203,6 +1315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 451357,
+      "num": 411749,
+      "word": "天才基本法大结局",
+      "onboard_time": 1659702099,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450818,
       "num": 450818,
       "word": "男孩玩无人机撞伤路人致10级伤残",
@@ -1233,6 +1353,14 @@
       "onboard_time": 1659625002,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443564,
+      "num": 443564,
+      "word": "中国手机出货量或跌至10年来最低",
+      "onboard_time": 1659700719,
+      "rank": 26,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 442925,
@@ -1307,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414026,
+      "num": 414026,
+      "word": "华春莹质问美方早知如此何必当初",
+      "onboard_time": 1659701798,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 412401,
       "num": 412401,
       "word": "JackeyLove希维尔五杀",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1659673782,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409686,
+      "num": 409686,
+      "word": "乘风破浪总决赛 不是直播",
+      "onboard_time": 1659702939,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 406413,
@@ -1353,14 +1497,6 @@
       "onboard_time": 1659673542,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379830,
-      "num": 379830,
-      "word": "彩虹夫妇账号绑定企业仅7人参保",
-      "onboard_time": 1659697056,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377735,
@@ -1483,12 +1619,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 342044,
-      "num": 342044,
-      "word": "正佳广场",
-      "onboard_time": 1659697719,
-      "rank": 41,
-      "category": "社会负面"
+      "raw_hot": 342029,
+      "num": 236221,
+      "word": "赵今麦花少苗族服饰造型剧照",
+      "onboard_time": 1659702579,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 340875,
@@ -1643,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301950,
+      "num": 234493,
+      "word": "浪姐 火龙果",
+      "onboard_time": 1659702820,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300850,
       "num": 300850,
       "word": "美驻韩大使馆车辆在首尔撞上大楼",
@@ -1665,6 +1809,14 @@
       "onboard_time": 1659608140,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291984,
+      "num": 291984,
+      "word": "阴阳师",
+      "onboard_time": 1659703178,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 290696,
@@ -1907,16 +2059,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 246323,
-      "num": 246323,
-      "word": "乘风破浪总决赛",
-      "onboard_time": 1659699277,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 245784,
-      "num": 245784,
+      "raw_hot": 246170,
+      "num": 246170,
       "word": "在神仙公司上班有多爽",
       "onboard_time": 1659698858,
       "rank": 47,
@@ -1961,6 +2105,14 @@
       "onboard_time": 1659628235,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 238536,
+      "num": 238536,
+      "word": "外交部回应中方同美日外长激烈交锋",
+      "onboard_time": 1659702518,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 236444,
@@ -2179,12 +2331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181631,
+      "num": 181631,
+      "word": "狼队战胜WB",
+      "onboard_time": 1659702222,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174280,
       "num": 174280,
       "word": "单身过情人节什么体验",
       "onboard_time": 1659620982,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164026,
+      "num": 164026,
+      "word": "再也不敢在朋友圈emo了",
+      "onboard_time": 1659703357,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 153858,
