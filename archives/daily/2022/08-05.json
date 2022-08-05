@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659691293820,
+  "endTime": 1659692287847,
   "band_list": [
     {
       "raw_hot": 15393348,
@@ -24,6 +24,14 @@
       "word": "旺旺",
       "onboard_time": 1659677136,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8043346,
+      "num": 8043346,
+      "word": "旺旺发声",
+      "onboard_time": 1659677136,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -147,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2042800,
+      "raw_hot": 2051176,
       "num": 653450,
       "word": "昆凌说应该不会再生了",
       "onboard_time": 1659687219,
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 2036782,
-      "num": 1122730,
+      "num": 1143565,
       "word": "马天宇辟谣不配合baby宣传新剧",
       "onboard_time": 1659687340,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2032456,
+      "num": 2032456,
+      "word": "士力架 台湾",
+      "onboard_time": 1659687823,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1929948,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 1151719,
-      "num": 3022360,
+      "num": 3876590,
       "word": "解放军常规导弹穿越台岛意味着什么",
       "onboard_time": 1659683974,
       "rank": 2,
@@ -361,6 +377,14 @@
       "onboard_time": 1659679177,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1113974,
+      "num": 1113974,
+      "word": "美方称大陆对台当局策略是煮青蛙",
+      "onboard_time": 1659689743,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1094953,
@@ -483,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 864168,
+      "num": 864168,
+      "word": "警方回应一男童被后妈虐待致死",
+      "onboard_time": 1659687942,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 855739,
       "num": 855739,
       "word": "解放军演训行动第二天",
@@ -497,14 +529,6 @@
       "onboard_time": 1659608979,
       "rank": 8,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 839110,
-      "num": 839110,
-      "word": "警方回应一男童被后妈虐待致死",
-      "onboard_time": 1659687942,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 833976,
@@ -595,8 +619,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 731693,
-      "num": 731693,
+      "raw_hot": 735178,
+      "num": 735178,
       "word": "百度地图被搜崩了",
       "onboard_time": 1659688064,
       "rank": 21,
@@ -641,6 +665,14 @@
       "onboard_time": 1659652879,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702006,
+      "num": 702006,
+      "word": "少女时代新歌",
+      "onboard_time": 1659691182,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 697740,
@@ -753,14 +785,6 @@
       "onboard_time": 1659621464,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 620907,
-      "num": 620907,
-      "word": "美方称大陆对台当局策略是煮青蛙",
-      "onboard_time": 1659689743,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 610552,
@@ -923,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495346,
+      "num": 495346,
+      "word": "七夕最受关注男女艺人",
+      "onboard_time": 1659691246,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494484,
       "num": 494484,
       "word": "我们工业系统可大批量快速生产远火弹药",
@@ -1019,20 +1051,20 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 460771,
-      "num": 460771,
-      "word": "少女时代新歌",
-      "onboard_time": 1659691182,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 458865,
       "num": 458865,
       "word": "预制菜的未来在哪里",
       "onboard_time": 1659676299,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 449336,
+      "num": 449336,
+      "word": "佩洛西访韩未见到尹锡悦",
+      "onboard_time": 1659686559,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 444774,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1659622303,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 420863,
-      "num": 420863,
-      "word": "佩洛西访韩未见到尹锡悦",
-      "onboard_time": 1659686559,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 416937,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1659668497,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350701,
-      "num": 241210,
-      "word": "七夕最受关注男女艺人",
-      "onboard_time": 1659691246,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 345369,
@@ -1467,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286082,
+      "num": 286082,
+      "word": "辱母案当事人于欢结婚",
+      "onboard_time": 1659692022,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283722,
       "num": 283722,
       "word": "罗晋的终极目标是被观众忘记",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1659663573,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280051,
+      "num": 280051,
+      "word": "盘点旺旺集团商业版图",
+      "onboard_time": 1659690763,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 278947,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1659677916,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258717,
+      "num": 258717,
+      "word": "华春莹表示美国说负责任非常别扭",
+      "onboard_time": 1659691421,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 257693,
@@ -1651,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241143,
+      "num": 241143,
+      "word": "东部战区继续进行实战化联合演训",
+      "onboard_time": 1659691961,
+      "rank": 44,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 240913,
       "num": 240913,
       "word": "长征二号F运载火箭第18次执行发射任务",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1659664054,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 239826,
-      "num": 239826,
-      "word": "盘点旺旺集团商业版图",
-      "onboard_time": 1659690763,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 239494,
