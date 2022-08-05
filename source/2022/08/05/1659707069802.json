@@ -1,0 +1,410 @@
+{
+  "runTime": 1659707069802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10760140,
+        "num": 10760140,
+        "word": "取消安排中美两军战区领导通话",
+        "onboard_time": 1659694901,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 2358633,
+        "num": 2358633,
+        "word": "外交部宣布制裁佩洛西",
+        "onboard_time": 1659688064,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 274573,
+        "num": 2121480,
+        "word": "东部战区出动海陆空英雄部队",
+        "onboard_time": 1659706240,
+        "rank": 2,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 1946236,
+        "num": 1946236,
+        "word": "日本碰瓷中国导弹毫无道理",
+        "onboard_time": 1659686199,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1888618,
+        "num": 1888618,
+        "word": "王心凌 乘风破浪年度总冠军",
+        "onboard_time": 1659701739,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1834433,
+        "num": 1834433,
+        "word": "女子耳朵痛痒难耐拆开枕头全是虫",
+        "onboard_time": 1659704079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276515,
+        "num": 1276515,
+        "word": "空军飞行员目视距离俯瞰祖国宝岛",
+        "onboard_time": 1659700841,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1275877,
+        "num": 1275877,
+        "word": "郑秀妍看郑秀晶VCR泪崩",
+        "onboard_time": 1659701798,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1104837,
+        "num": 1104837,
+        "word": "日本外相发言时中俄外长同时离席退场",
+        "onboard_time": 1659696640,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 960431,
+        "num": 960431,
+        "word": "我军在台岛周边演训是否会常态化",
+        "onboard_time": 1659701559,
+        "rank": 9,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 876242,
+        "num": 876242,
+        "word": "姜广涛将进酒广播剧暂停更新",
+        "onboard_time": 1659700661,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773773,
+        "num": 773773,
+        "word": "日本最没资格就涉台问题指手画脚",
+        "onboard_time": 1659700002,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 715726,
+        "num": 715726,
+        "word": "乘风破浪总决赛",
+        "onboard_time": 1659699277,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704681,
+        "num": 704681,
+        "word": "张子枫张新成海边吻戏",
+        "onboard_time": 1659700960,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 693470,
+        "num": 693470,
+        "word": "美方称大陆对台当局策略是煮青蛙",
+        "onboard_time": 1659689743,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 671953,
+        "num": 671953,
+        "word": "如愿 好好哭",
+        "onboard_time": 1659706057,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657084,
+        "num": 657084,
+        "word": "外交部回应中方同美日外长激烈交锋",
+        "onboard_time": 1659702518,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 610008,
+        "num": 610008,
+        "word": "中国手机出货量或跌至10年来最低",
+        "onboard_time": 1659700719,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 608276,
+        "num": 608276,
+        "word": "母亲以死逼迫女儿与相亲对象结婚",
+        "onboard_time": 1659684457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598837,
+        "num": 598837,
+        "word": "再也不敢在朋友圈emo了",
+        "onboard_time": 1659703357,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 664549,
+        "num": 596541,
+        "word": "中国好声音",
+        "onboard_time": 1659704140,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1486240,
+        "num": 570350,
+        "word": "赵露思迪士尼",
+        "onboard_time": 1659702758,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614880,
+        "num": 546634,
+        "word": "吴谨言卡位11",
+        "onboard_time": 1659705277,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613659,
+        "num": 537181,
+        "word": "黄子韬一号线艺人给你们表演个节目",
+        "onboard_time": 1659701499,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525586,
+        "num": 525586,
+        "word": "驻欧盟使团发言人正告七国集团",
+        "onboard_time": 1659703295,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 507544,
+        "num": 507544,
+        "word": "彩虹夫妇账号绑定企业仅7人参保",
+        "onboard_time": 1659697056,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444449,
+        "num": 444449,
+        "word": "华春莹质问美方早知如此何必当初",
+        "onboard_time": 1659701798,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 423871,
+        "num": 423871,
+        "word": "外交部回应中俄外长在日本外相发言时离席",
+        "onboard_time": 1659696099,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 364459,
+        "num": 364459,
+        "word": "百度地图被搜崩了",
+        "onboard_time": 1659688064,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 361820,
+        "num": 361820,
+        "word": "三亚新增189例确诊",
+        "onboard_time": 1659697778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608337,
+        "num": 357186,
+        "word": "乘风破浪全场大合唱下一站天后",
+        "onboard_time": 1659703899,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584367,
+        "num": 352120,
+        "word": "有点儿意思",
+        "onboard_time": 1659705576,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481629,
+        "num": 351941,
+        "word": "花儿与少年",
+        "onboard_time": 1659706537,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335702,
+        "num": 335702,
+        "word": "永劫无间炸服",
+        "onboard_time": 1659701859,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328570,
+        "num": 328570,
+        "word": "东部战区继续进行实战化联合演训",
+        "onboard_time": 1659691961,
+        "rank": 34,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 311371,
+        "num": 311371,
+        "word": "民警在嫌疑人孩子面前藏起手铐",
+        "onboard_time": 1659705040,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304514,
+        "num": 304514,
+        "word": "美特斯邦威被曝大量拖欠工资",
+        "onboard_time": 1659684877,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 300881,
+        "word": "美国务卿称美国不支持台独",
+        "onboard_time": 1659685657,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 295010,
+        "num": 295010,
+        "word": "成都税务部门调查彩虹夫妇",
+        "onboard_time": 1659705998,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 249538,
+        "num": 249538,
+        "word": "最想打卡的台湾景点",
+        "onboard_time": 1659704140,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 455338,
+        "num": 240550,
+        "word": "张蔷 这是什么奖",
+        "onboard_time": 1659706422,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411594,
+        "num": 240546,
+        "word": "没有萌探版武林外传蹭不上的热点",
+        "onboard_time": 1659706718,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335093,
+        "num": 239901,
+        "word": "昆凌说应该不会再生了",
+        "onboard_time": 1659687219,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229013,
+        "num": 229013,
+        "word": "外交部就加拿大错误涉台声明提出严正交涉",
+        "onboard_time": 1659693701,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 203441,
+        "num": 203441,
+        "word": "日本领导人在台湾问题上表现非常不好",
+        "onboard_time": 1659706838,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193379,
+        "num": 193379,
+        "word": "男孩玩无人机撞伤路人致10级伤残",
+        "onboard_time": 1659692442,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186241,
+        "num": 186241,
+        "word": "百度地图回应被搜崩了",
+        "onboard_time": 1659694901,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185077,
+        "num": 185077,
+        "word": "上海温度",
+        "onboard_time": 1659689023,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172695,
+        "num": 172695,
+        "word": "警方回应一男童被后妈虐待致死",
+        "onboard_time": 1659687942,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159245,
+        "num": 159245,
+        "word": "解放军常规导弹穿越台岛意味着什么",
+        "onboard_time": 1659683974,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国态度#"
+    }
+  }
+}
