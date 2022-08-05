@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659667955375,
+  "endTime": 1659672259053,
   "band_list": [
     {
       "raw_hot": 13925735,
@@ -19,20 +19,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 4136916,
+      "num": 4136916,
+      "word": "韩国慰安妇受害者想见佩洛西被警卫推倒",
+      "onboard_time": 1659665195,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3926633,
       "num": 3926633,
       "word": "日本称解放军4枚导弹飞越台北上空",
       "onboard_time": 1659660271,
       "rank": 1,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 3725055,
-      "num": 3725055,
-      "word": "韩国慰安妇受害者想见佩洛西被警卫推倒",
-      "onboard_time": 1659665195,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 3412023,
@@ -59,6 +59,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 2973718,
+      "num": 2973718,
+      "word": "同中方建交国家不得与台湾官方往来",
+      "onboard_time": 1659667117,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2517627,
+      "num": 2517627,
+      "word": "iPad或全系取消耳机孔",
+      "onboard_time": 1659668679,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2345887,
       "num": 2345887,
       "word": "想去台湾省吃山西刀削面",
@@ -73,6 +89,14 @@
       "onboard_time": 1659661415,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1929948,
+      "num": 1929948,
+      "word": "白宫外广场发生雷击4人重伤",
+      "onboard_time": 1659666038,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1774738,
@@ -107,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1300229,
+      "num": 1300229,
+      "word": "苍兰诀连播24集",
+      "onboard_time": 1659667777,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1209966,
       "num": 1209966,
       "word": "解放军远火可覆盖台湾全岛",
@@ -121,6 +153,22 @@
       "onboard_time": 1659627575,
       "rank": 7,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1094953,
+      "num": 1094953,
+      "word": "好心疼小鬼",
+      "onboard_time": 1659670598,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1007386,
+      "num": 3537299,
+      "word": "东风快递指哪打哪",
+      "onboard_time": 1659624282,
+      "rank": 32,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 978643,
@@ -155,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 942618,
-      "num": 3317697,
-      "word": "东风快递指哪打哪",
-      "onboard_time": 1659624282,
-      "rank": 32,
-      "category": "军事,国内要闻"
+      "raw_hot": 933923,
+      "num": 933923,
+      "word": "用台湾地区的视角打开佩洛西此行",
+      "onboard_time": 1659669938,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 913560,
@@ -203,20 +251,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 765992,
-      "num": 765992,
-      "word": "同中方建交国家不得与台湾官方往来",
-      "onboard_time": 1659667117,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 764208,
-      "num": 764208,
-      "word": "白宫外广场发生雷击4人重伤",
-      "onboard_time": 1659666038,
-      "rank": 15,
-      "category": "国外要闻"
+      "raw_hot": 763634,
+      "num": 763634,
+      "word": "许凯虞书欣仙剑六开机路透图",
+      "onboard_time": 1659670120,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 751779,
@@ -225,6 +265,14 @@
       "onboard_time": 1659664837,
       "rank": 45,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 746879,
+      "num": 746879,
+      "word": "米卡的婚礼主题曲已经准备好了",
+      "onboard_time": 1659671799,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 718869,
@@ -243,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704854,
+      "num": 704854,
+      "word": "黑客",
+      "onboard_time": 1659668679,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 686507,
       "num": 686507,
       "word": "民国大侦探定档0810",
@@ -257,6 +313,14 @@
       "onboard_time": 1659651615,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 667389,
+      "num": 667389,
+      "word": "用大陆城市命名的台湾省街道",
+      "onboard_time": 1659670839,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659188,
@@ -288,6 +352,14 @@
       "word": "王心凌一开口多少人的青春回来了",
       "onboard_time": 1659621464,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 617752,
+      "num": 497627,
+      "word": "谢娜乘风破浪金色礼服造型",
+      "onboard_time": 1659667597,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -339,12 +411,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 521243,
+      "num": 497279,
+      "word": "刚子原来是真人演的",
+      "onboard_time": 1659671200,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513106,
       "num": 513106,
       "word": "无效显瘦vs有效显瘦",
       "onboard_time": 1659624461,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 510529,
+      "num": 479729,
+      "word": "吴磊片场学弹古琴",
+      "onboard_time": 1659669938,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 503419,
+      "num": 503419,
+      "word": "这十年河南人确实膨胀了",
+      "onboard_time": 1659671139,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495839,
@@ -371,11 +467,19 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 474217,
-      "num": 474217,
-      "word": "谢娜乘风破浪金色礼服造型",
-      "onboard_time": 1659667597,
-      "rank": 21,
+      "raw_hot": 475704,
+      "num": 375676,
+      "word": "王一博主演影片想看数破50万",
+      "onboard_time": 1659667357,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 472217,
+      "num": 367462,
+      "word": "Twins武艺互相应援",
+      "onboard_time": 1659671320,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -459,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385280,
+      "num": 385280,
+      "word": "解放军实战演训最新解读",
+      "onboard_time": 1659668377,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 378955,
+      "num": 378955,
+      "word": "美台勾连挑衅中方反击天经地义",
+      "onboard_time": 1659670598,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 376261,
       "num": 376261,
       "word": "浙江疫情防控",
@@ -499,19 +619,59 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356050,
+      "num": 356050,
+      "word": "少女时代完整体回归",
+      "onboard_time": 1659671857,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 352834,
+      "num": 352834,
+      "word": "胡一天张云龙民国大侦探定档海报",
+      "onboard_time": 1659671381,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 352364,
+      "num": 352364,
+      "word": "不羡鸳鸯不羡仙羡慕周密有小仙",
+      "onboard_time": 1659668497,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340875,
+      "num": 340875,
+      "word": "实弹射击严正震慑美台勾连",
+      "onboard_time": 1659667176,
+      "rank": 38,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 337722,
+      "num": 337722,
+      "word": "多家航司今起下调燃油附加费",
+      "onboard_time": 1659666637,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335096,
+      "num": 278938,
+      "word": "闻香榭定档",
+      "onboard_time": 1659669402,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327973,
       "num": 327973,
       "word": "程少商渴望成为繁星灿烂星河",
       "onboard_time": 1659665435,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 326990,
-      "num": 326990,
-      "word": "王一博主演影片想看数破50万",
-      "onboard_time": 1659667357,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -545,6 +705,14 @@
       "onboard_time": 1659666335,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307238,
+      "num": 307238,
+      "word": "不存在中方军事行动进入所谓日本专属经济区说法",
+      "onboard_time": 1659665435,
+      "rank": 48,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 302802,
@@ -643,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265225,
+      "num": 265225,
+      "word": "重庆新增本土确诊病例3例无症状感染者9例",
+      "onboard_time": 1659667538,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263811,
       "num": 263811,
       "word": "三亚新增74例确诊33例无症状",
@@ -699,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246656,
-      "num": 246656,
-      "word": "苍兰诀连播24集",
-      "onboard_time": 1659667777,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246625,
       "num": 246625,
       "word": "河南成全球最大人造钻石生产地",
@@ -723,28 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244721,
-      "num": 244721,
-      "word": "实弹射击严正震慑美台勾连",
-      "onboard_time": 1659667176,
-      "rank": 38,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 243435,
       "num": 243435,
       "word": "中国人必会的填空题",
       "onboard_time": 1659614978,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243034,
-      "num": 243034,
-      "word": "多家航司今起下调燃油附加费",
-      "onboard_time": 1659666637,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240913,
@@ -851,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211850,
+      "num": 211850,
+      "word": "孙尚香音你闪耀",
+      "onboard_time": 1659671739,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202747,
       "num": 202747,
       "word": "李泽言 电话",
@@ -859,12 +1019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202016,
-      "num": 202016,
-      "word": "重庆新增本土确诊病例3例无症状感染者9例",
-      "onboard_time": 1659667538,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 200543,
+      "num": 200543,
+      "word": "北京免单天使",
+      "onboard_time": 1659668919,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 200314,
@@ -899,12 +1059,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 183312,
-      "num": 183312,
-      "word": "不存在中方军事行动进入所谓日本专属经济区说法",
-      "onboard_time": 1659665435,
-      "rank": 48,
-      "category": "国内要闻,军事"
+      "raw_hot": 189140,
+      "num": 189140,
+      "word": "美国推迟洲际弹道导弹试射",
+      "onboard_time": 1659672160,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 182841,

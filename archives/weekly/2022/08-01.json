@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659667955375,
+  "endTime": 1659672259053,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -547,6 +547,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 4136916,
+      "num": 4136916,
+      "word": "韩国慰安妇受害者想见佩洛西被警卫推倒",
+      "onboard_time": 1659665195,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 4094423,
       "num": 3656072,
       "word": "大爷出轨小30岁女子9个月花430万",
@@ -649,14 +657,6 @@
       "onboard_time": 1659340170,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3725055,
-      "num": 3725055,
-      "word": "韩国慰安妇受害者想见佩洛西被警卫推倒",
-      "onboard_time": 1659665195,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 3690939,
@@ -955,6 +955,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 2973718,
+      "num": 2973718,
+      "word": "同中方建交国家不得与台湾官方往来",
+      "onboard_time": 1659667117,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2951954,
       "num": 2951954,
       "word": "台媒猜佩洛西最快明日访台",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1659454318,
       "rank": 4,
       "category": "军事"
+    },
+    {
+      "raw_hot": 2517627,
+      "num": 2517627,
+      "word": "iPad或全系取消耳机孔",
+      "onboard_time": 1659668679,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 2514470,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1659357094,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1929948,
+      "num": 1929948,
+      "word": "白宫外广场发生雷击4人重伤",
+      "onboard_time": 1659666038,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1927725,
@@ -2307,6 +2331,14 @@
       "category": "社会负面,旅游"
     },
     {
+      "raw_hot": 1300229,
+      "num": 1300229,
+      "word": "苍兰诀连播24集",
+      "onboard_time": 1659667777,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1294816,
       "num": 3987503,
       "word": "实战演训为何选择环岛六大区域",
@@ -2659,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1094953,
+      "num": 1094953,
+      "word": "好心疼小鬼",
+      "onboard_time": 1659670598,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1094469,
       "num": 1094469,
       "word": "黄磊单方面拒绝刘奕君加入这个家",
@@ -2825,6 +2865,14 @@
       "onboard_time": 1659281311,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1007386,
+      "num": 3537299,
+      "word": "东风快递指哪打哪",
+      "onboard_time": 1659624282,
+      "rank": 46,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1004691,
@@ -3059,14 +3107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 942618,
-      "num": 3317697,
-      "word": "东风快递指哪打哪",
-      "onboard_time": 1659624282,
-      "rank": 46,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 941019,
       "num": 941019,
       "word": "Angelababy赖冠霖玩游戏互相套路",
@@ -3089,6 +3129,14 @@
       "onboard_time": 1659282692,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 933923,
+      "num": 933923,
+      "word": "用台湾地区的视角打开佩洛西此行",
+      "onboard_time": 1659669938,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 928649,
@@ -3627,28 +3675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 765992,
-      "num": 765992,
-      "word": "同中方建交国家不得与台湾官方往来",
-      "onboard_time": 1659667117,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 764460,
       "num": 764460,
       "word": "青岛2游客堤坝上被大浪卷入海中",
       "onboard_time": 1659321985,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764208,
-      "num": 764208,
-      "word": "白宫外广场发生雷击4人重伤",
-      "onboard_time": 1659666038,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 764057,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1659360579,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763634,
+      "num": 763634,
+      "word": "许凯虞书欣仙剑六开机路透图",
+      "onboard_time": 1659670120,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 763305,
@@ -3729,6 +3769,14 @@
       "onboard_time": 1659517729,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746879,
+      "num": 746879,
+      "word": "米卡的婚礼主题曲已经准备好了",
+      "onboard_time": 1659671799,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 745316,
@@ -3955,6 +4003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 704854,
+      "num": 704854,
+      "word": "黑客",
+      "onboard_time": 1659668679,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 702181,
       "num": 702181,
       "word": "唐周腹肌",
@@ -4089,6 +4145,14 @@
       "onboard_time": 1659651615,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 667389,
+      "num": 667389,
+      "word": "用大陆城市命名的台湾省街道",
+      "onboard_time": 1659670839,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661508,
@@ -4409,6 +4473,14 @@
       "onboard_time": 1659448415,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617752,
+      "num": 497627,
+      "word": "谢娜乘风破浪金色礼服造型",
+      "onboard_time": 1659667597,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 615025,
@@ -5163,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521243,
+      "num": 497279,
+      "word": "刚子原来是真人演的",
+      "onboard_time": 1659671200,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 520927,
       "num": 520927,
       "word": "吴宣仪陈哲远吻戏花絮",
@@ -5217,6 +5297,14 @@
       "onboard_time": 1659518030,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510529,
+      "num": 479729,
+      "word": "吴磊片场学弹古琴",
+      "onboard_time": 1659669938,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 510483,
@@ -5321,6 +5409,14 @@
       "onboard_time": 1659612516,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503419,
+      "num": 503419,
+      "word": "这十年河南人确实膨胀了",
+      "onboard_time": 1659671139,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502904,
@@ -5619,6 +5715,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 475704,
+      "num": 375676,
+      "word": "王一博主演影片想看数破50万",
+      "onboard_time": 1659667357,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475629,
       "num": 475629,
       "word": "女孩回爷爷家把暑假过成田园诗",
@@ -5643,14 +5747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474217,
-      "num": 474217,
-      "word": "谢娜乘风破浪金色礼服造型",
-      "onboard_time": 1659667597,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 473709,
       "num": 473709,
       "word": "广州规划新增30条地铁",
@@ -5673,6 +5769,14 @@
       "onboard_time": 1659592715,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 472217,
+      "num": 367462,
+      "word": "Twins武艺互相应援",
+      "onboard_time": 1659671320,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 472100,
@@ -6819,6 +6923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385280,
+      "num": 385280,
+      "word": "解放军实战演训最新解读",
+      "onboard_time": 1659668377,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 384888,
       "num": 202748,
       "word": "颜淡唐周凡间初遇",
@@ -6913,6 +7025,14 @@
       "onboard_time": 1659583301,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378955,
+      "num": 378955,
+      "word": "美台勾连挑衅中方反击天经地义",
+      "onboard_time": 1659670598,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 378953,
@@ -7403,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356050,
+      "num": 356050,
+      "word": "少女时代完整体回归",
+      "onboard_time": 1659671857,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355954,
       "num": 355954,
       "word": "宁安如梦",
@@ -7433,6 +7561,22 @@
       "onboard_time": 1659591100,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 352834,
+      "num": 352834,
+      "word": "胡一天张云龙民国大侦探定档海报",
+      "onboard_time": 1659671381,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 352364,
+      "num": 352364,
+      "word": "不羡鸳鸯不羡仙羡慕周密有小仙",
+      "onboard_time": 1659668497,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 352288,
@@ -7595,6 +7739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340875,
+      "num": 340875,
+      "word": "实弹射击严正震慑美台勾连",
+      "onboard_time": 1659667176,
+      "rank": 38,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 340553,
       "num": 340553,
       "word": "浪潮",
@@ -7617,6 +7769,14 @@
       "onboard_time": 1659524864,
       "rank": 35,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 337722,
+      "num": 337722,
+      "word": "多家航司今起下调燃油附加费",
+      "onboard_time": 1659666637,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337370,
@@ -7649,6 +7809,14 @@
       "onboard_time": 1659408701,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335096,
+      "num": 278938,
+      "word": "闻香榭定档",
+      "onboard_time": 1659669402,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 334941,
@@ -7801,14 +7969,6 @@
       "onboard_time": 1659420582,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326990,
-      "num": 326990,
-      "word": "王一博主演影片想看数破50万",
-      "onboard_time": 1659667357,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 326149,
@@ -8185,6 +8345,14 @@
       "onboard_time": 1659435291,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307238,
+      "num": 307238,
+      "word": "不存在中方军事行动进入所谓日本专属经济区说法",
+      "onboard_time": 1659665435,
+      "rank": 48,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 307140,
@@ -8883,6 +9051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265225,
+      "num": 265225,
+      "word": "重庆新增本土确诊病例3例无症状感染者9例",
+      "onboard_time": 1659667538,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264103,
       "num": 264103,
       "word": "Hero战胜WE",
@@ -9123,14 +9299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246656,
-      "num": 246656,
-      "word": "苍兰诀连播24集",
-      "onboard_time": 1659667777,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246625,
       "num": 246625,
       "word": "河南成全球最大人造钻石生产地",
@@ -9161,14 +9329,6 @@
       "onboard_time": 1659460660,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244721,
-      "num": 244721,
-      "word": "实弹射击严正震慑美台勾连",
-      "onboard_time": 1659667176,
-      "rank": 38,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 243811,
@@ -9209,14 +9369,6 @@
       "onboard_time": 1659539925,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243034,
-      "num": 243034,
-      "word": "多家航司今起下调燃油附加费",
-      "onboard_time": 1659666637,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242986,
@@ -9747,6 +9899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211850,
+      "num": 211850,
+      "word": "孙尚香音你闪耀",
+      "onboard_time": 1659671739,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211620,
       "num": 211620,
       "word": "被货车司机集体表白甜到了",
@@ -9848,14 +10008,6 @@
       "word": "七月再见八月你好",
       "onboard_time": 1659283350,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202016,
-      "num": 202016,
-      "word": "重庆新增本土确诊病例3例无症状感染者9例",
-      "onboard_time": 1659667538,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10027,6 +10179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189140,
+      "num": 189140,
+      "word": "美国推迟洲际弹道导弹试射",
+      "onboard_time": 1659672160,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 188948,
       "num": 188948,
       "word": "全国铁路客运车站全部实现军人优先",
@@ -10065,14 +10225,6 @@
       "onboard_time": 1659284006,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183312,
-      "num": 183312,
-      "word": "不存在中方军事行动进入所谓日本专属经济区说法",
-      "onboard_time": 1659665435,
-      "rank": 48,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 183160,
