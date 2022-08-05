@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659698315951,
+  "endTime": 1659699372992,
   "band_list": [
     {
       "raw_hot": 15393348,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6556288,
+      "num": 6556288,
+      "word": "取消安排中美两军战区领导通话",
+      "onboard_time": 1659694901,
+      "rank": 39,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 4276604,
       "num": 4276604,
       "word": "母亲以死逼迫女儿与相亲对象结婚",
@@ -65,14 +73,6 @@
       "onboard_time": 1659620198,
       "rank": 0,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 4054219,
-      "num": 4054219,
-      "word": "取消安排中美两军战区领导通话",
-      "onboard_time": 1659694901,
-      "rank": 39,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 3926633,
@@ -137,6 +137,14 @@
       "onboard_time": 1659689743,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2517908,
+      "num": 2517908,
+      "word": "士力架道歉",
+      "onboard_time": 1659696399,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2345887,
@@ -251,6 +259,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 1544016,
+      "num": 1544016,
+      "word": "日本外相发言时中俄外长同时退场",
+      "onboard_time": 1659696640,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1512979,
       "num": 1512979,
       "word": "90后女生通宵追剧致视网膜裂孔",
@@ -272,14 +288,6 @@
       "word": "老人带500万存款到派出所自首",
       "onboard_time": 1659686679,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1418489,
-      "num": 1418489,
-      "word": "士力架道歉",
-      "onboard_time": 1659696399,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -347,20 +355,20 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1202117,
+      "num": 1202117,
+      "word": "旺旺家的私人飞机",
+      "onboard_time": 1659696280,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1198331,
       "num": 1198331,
       "word": "用台湾地区的视角打开佩洛西此行",
       "onboard_time": 1659669938,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1163880,
-      "num": 1163880,
-      "word": "日本外相发言时中俄外长同时退场",
-      "onboard_time": 1659696640,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1161960,
@@ -515,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 938590,
+      "num": 938590,
+      "word": "网友冲进旺旺直播间野性消费",
+      "onboard_time": 1659695860,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921300,
       "num": 921300,
       "word": "黑客",
@@ -539,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 869635,
-      "num": 869635,
-      "word": "旺旺家的私人飞机",
-      "onboard_time": 1659696280,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 876593,
+      "num": 876593,
+      "word": "玛氏声明",
+      "onboard_time": 1659698197,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 864168,
@@ -635,6 +651,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 767812,
+      "num": 767812,
+      "word": "外交部回应中俄外长在日本外相发言时离席",
+      "onboard_time": 1659696099,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 763634,
       "num": 763634,
       "word": "许凯虞书欣仙剑六开机路透图",
@@ -720,14 +744,6 @@
       "word": "女子正常直行被恶意别停遭辱骂",
       "onboard_time": 1659652879,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707313,
-      "num": 707313,
-      "word": "网友冲进旺旺直播间野性消费",
-      "onboard_time": 1659695860,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -891,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585925,
+      "num": 585925,
+      "word": "三亚新增189例确诊",
+      "onboard_time": 1659697778,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581487,
       "num": 581487,
       "word": "出纳员1年挪用2000万公款买彩票",
@@ -912,14 +936,6 @@
       "word": "中国各民主党派发布联合声明",
       "onboard_time": 1659621164,
       "rank": 13,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 553456,
-      "num": 553456,
-      "word": "外交部回应中俄外长在日本外相发言时离席",
-      "onboard_time": 1659696099,
-      "rank": 17,
       "category": "国内要闻"
     },
     {
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513302,
+      "num": 513302,
+      "word": "百度地图回应被搜崩了",
+      "onboard_time": 1659694901,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 513106,
       "num": 513106,
       "word": "无效显瘦vs有效显瘦",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1659688904,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508359,
+      "num": 508359,
+      "word": "少女时代空降",
+      "onboard_time": 1659697481,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 501922,
@@ -1123,12 +1155,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 466958,
-      "num": 466958,
-      "word": "少女时代空降",
-      "onboard_time": 1659697481,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 466343,
+      "num": 466343,
+      "word": "东部战区继续进行实战化联合演训",
+      "onboard_time": 1659691961,
+      "rank": 44,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 465346,
@@ -1139,6 +1171,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 464635,
+      "num": 464635,
+      "word": "丁程鑫集市音乐节剧照",
+      "onboard_time": 1659699098,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461360,
       "num": 461360,
       "word": "解放军战机驱护舰演训震撼现场",
@@ -1147,20 +1187,20 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 460412,
+      "num": 460412,
+      "word": "士力架母公司玛氏中国商业版图",
+      "onboard_time": 1659695619,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 458865,
       "num": 458865,
       "word": "预制菜的未来在哪里",
       "onboard_time": 1659676299,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 458739,
-      "num": 458739,
-      "word": "三亚新增189例确诊",
-      "onboard_time": 1659697778,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450818,
@@ -1185,14 +1225,6 @@
       "onboard_time": 1659696040,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445216,
-      "num": 445216,
-      "word": "东部战区继续进行实战化联合演训",
-      "onboard_time": 1659691961,
-      "rank": 44,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 444774,
@@ -1243,14 +1275,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 429844,
-      "num": 429844,
-      "word": "玛氏声明",
-      "onboard_time": 1659698197,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427538,
       "num": 427538,
       "word": "刘彰说是被迫参加向前冲的",
@@ -1299,28 +1323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409625,
-      "num": 409625,
-      "word": "百度地图回应被搜崩了",
-      "onboard_time": 1659694901,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 406413,
       "num": 282885,
       "word": "丈夫删的聊天记录里有啥",
       "onboard_time": 1659611796,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405751,
-      "num": 405751,
-      "word": "士力架母公司玛氏中国商业版图",
-      "onboard_time": 1659695619,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 396386,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1659673542,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379830,
+      "num": 379830,
+      "word": "彩虹夫妇账号绑定企业仅7人参保",
+      "onboard_time": 1659697056,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377735,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1659672578,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 372402,
+      "num": 372402,
+      "word": "TF家族夏日运动先导片上线",
+      "onboard_time": 1659698858,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 364437,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1659688781,
       "rank": 42,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 342044,
+      "num": 342044,
+      "word": "正佳广场",
+      "onboard_time": 1659697719,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 340875,
@@ -1619,14 +1651,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 297110,
-      "num": 297110,
-      "word": "彩虹夫妇账号绑定企业仅7人参保",
-      "onboard_time": 1659697056,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295820,
       "num": 295820,
       "word": "奥美医疗回应子公司员工胶水中毒",
@@ -1723,6 +1747,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 276218,
+      "num": 276218,
+      "word": "长歌行推荐语",
+      "onboard_time": 1659698739,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275404,
       "num": 275404,
       "word": "近距离看台湾海峡最大巡航救助船",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1659689141,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 270754,
-      "num": 270754,
-      "word": "正佳广场",
-      "onboard_time": 1659697719,
-      "rank": 41,
-      "category": "社会负面"
     },
     {
       "raw_hot": 270638,
@@ -1777,6 +1801,14 @@
       "onboard_time": 1659656066,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263408,
+      "num": 263408,
+      "word": "HAERIN音银直拍",
+      "onboard_time": 1659699160,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 263048,
@@ -1873,6 +1905,22 @@
       "onboard_time": 1659633142,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 246323,
+      "num": 246323,
+      "word": "乘风破浪总决赛",
+      "onboard_time": 1659699277,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245784,
+      "num": 245784,
+      "word": "在神仙公司上班有多爽",
+      "onboard_time": 1659698858,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 245407,
