@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659741660892,
+  "endTime": 1659742626210,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -43,6 +43,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1488973,
+      "num": 1488973,
+      "word": "网红主播自曝收入意欲何为",
+      "onboard_time": 1659718227,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1435360,
       "num": 1435360,
       "word": "张俪 女团梦该醒啦",
@@ -57,14 +65,6 @@
       "onboard_time": 1659707801,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1172333,
-      "num": 1172333,
-      "word": "网红主播自曝收入意欲何为",
-      "onboard_time": 1659718227,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1169829,
@@ -89,6 +89,14 @@
       "onboard_time": 1659710322,
       "rank": 7,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 974973,
+      "num": 328499,
+      "word": "王毅警告美国不要轻举妄动",
+      "onboard_time": 1659740540,
+      "rank": 20,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 964260,
@@ -131,6 +139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689738,
+      "num": 689738,
+      "word": "张嘉倪版的佟湘玉好美",
+      "onboard_time": 1659736814,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 687193,
+      "num": 687193,
+      "word": "华春莹质问美方早知如此何必当初",
+      "onboard_time": 1659701798,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 679173,
       "num": 679173,
       "word": "乘风破浪 婚礼现场",
@@ -155,28 +179,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 624843,
-      "num": 624843,
-      "word": "华春莹质问美方早知如此何必当初",
-      "onboard_time": 1659701798,
-      "rank": 28,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 609254,
       "num": 609254,
       "word": "外交部宣布制裁佩洛西",
       "onboard_time": 1659688064,
       "rank": 17,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 521935,
-      "num": 521935,
-      "word": "张嘉倪版的佟湘玉好美",
-      "onboard_time": 1659736814,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 485809,
@@ -219,12 +227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439640,
+      "num": 439640,
+      "word": "东部战区继续位台岛周边联合演训",
+      "onboard_time": 1659708763,
+      "rank": 47,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 427793,
       "num": 427793,
       "word": "再也不敢在朋友圈emo了",
       "onboard_time": 1659703357,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408388,
+      "num": 408388,
+      "word": "湖北一商场聚集千人踩气球找钻戒",
+      "onboard_time": 1659736753,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406067,
@@ -235,16 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390607,
-      "num": 390607,
-      "word": "东部战区继续位台岛周边联合演训",
-      "onboard_time": 1659708763,
-      "rank": 47,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 355950,
-      "num": 355950,
+      "raw_hot": 394117,
+      "num": 394117,
       "word": "乘风破浪总决赛 不是直播",
       "onboard_time": 1659702939,
       "rank": 13,
@@ -267,24 +283,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344026,
-      "num": 344026,
-      "word": "湖北一商场聚集千人踩气球找钻戒",
-      "onboard_time": 1659736753,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336780,
-      "num": 289606,
-      "word": "王毅警告美国不要轻举妄动",
-      "onboard_time": 1659740540,
-      "rank": 20,
+      "raw_hot": 349564,
+      "num": 349564,
+      "word": "外交部回应美指责中方反应过度",
+      "onboard_time": 1659740599,
+      "rank": 28,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 322128,
-      "num": 322128,
+      "raw_hot": 340372,
+      "num": 340372,
       "word": "石家庄新乐新增8例阳性",
       "onboard_time": 1659737114,
       "rank": 17,
@@ -313,6 +321,30 @@
       "onboard_time": 1659710741,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 279140,
+      "num": 279140,
+      "word": "海南三亚实行临时性全域静态管理",
+      "onboard_time": 1659741143,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276058,
+      "num": 276058,
+      "word": "这笔账解放军用行动给他们算明白",
+      "onboard_time": 1659742226,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 273985,
+      "num": 273985,
+      "word": "00后服装设计师作品被碧昂丝穿上",
+      "onboard_time": 1659721579,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 255324,
@@ -355,12 +387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230589,
-      "num": 230589,
-      "word": "00后服装设计师作品被碧昂丝穿上",
-      "onboard_time": 1659721579,
-      "rank": 21,
-      "category": "艺人,时尚"
+      "raw_hot": 225875,
+      "num": 225875,
+      "word": "解读中方对美八项反制措施",
+      "onboard_time": 1659742043,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 207105,
+      "num": 207105,
+      "word": "宁静 造型",
+      "onboard_time": 1659740000,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 204444,
@@ -387,6 +427,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 193487,
+      "num": 193487,
+      "word": "光与夜之恋 剧情",
+      "onboard_time": 1659741863,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187706,
       "num": 187706,
       "word": "驻欧盟使团发言人正告七国集团",
@@ -409,14 +457,6 @@
       "onboard_time": 1659717334,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 177015,
-      "num": 177015,
-      "word": "外交部回应美指责中方反应过度",
-      "onboard_time": 1659740599,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 171302,
@@ -451,6 +491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 165681,
+      "num": 165681,
+      "word": "上海气象局回应49度",
+      "onboard_time": 1659741985,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156257,
       "num": 156257,
       "word": "三亚新增189例确诊",
@@ -465,14 +513,6 @@
       "onboard_time": 1659700719,
       "rank": 46,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 126817,
-      "num": 126817,
-      "word": "海南三亚实行临时性全域静态管理",
-      "onboard_time": 1659741143,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108634,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1659742626210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3008865,
+        "num": 3008865,
+        "word": "台军方夜间火炮射击疑引发山火",
+        "onboard_time": 1659712052,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1919663,
+        "num": 1919663,
+        "word": "王毅说很久没听到美国说这种话了",
+        "onboard_time": 1659708458,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 697965,
+        "num": 1578198,
+        "word": "东部战区出动海陆空英雄部队",
+        "onboard_time": 1659706240,
+        "rank": 2,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 1488973,
+        "num": 1488973,
+        "word": "网红主播自曝收入意欲何为",
+        "onboard_time": 1659718227,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1222940,
+        "num": 1222940,
+        "word": "江西幼儿园命案嫌疑人抢救无效死亡",
+        "onboard_time": 1659714822,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 716588,
+        "num": 716588,
+        "word": "取消安排中美两军战区领导通话",
+        "onboard_time": 1659694901,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 689738,
+        "num": 689738,
+        "word": "张嘉倪版的佟湘玉好美",
+        "onboard_time": 1659736814,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687193,
+        "num": 687193,
+        "word": "华春莹质问美方早知如此何必当初",
+        "onboard_time": 1659701798,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 573141,
+        "num": 573141,
+        "word": "那英 成了团没什么用",
+        "onboard_time": 1659707801,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483317,
+        "num": 483317,
+        "word": "日本外相发言时中俄外长同时离席退场",
+        "onboard_time": 1659696640,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 938514,
+        "num": 461830,
+        "word": "不肖子孙蔡英文",
+        "onboard_time": 1659711101,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 439640,
+        "num": 439640,
+        "word": "东部战区继续位台岛周边联合演训",
+        "onboard_time": 1659708763,
+        "rank": 11,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 408388,
+        "num": 408388,
+        "word": "湖北一商场聚集千人踩气球找钻戒",
+        "onboard_time": 1659736753,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394117,
+        "num": 394117,
+        "word": "乘风破浪总决赛 不是直播",
+        "onboard_time": 1659702939,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373607,
+        "num": 373607,
+        "word": "张俪 女团梦该醒啦",
+        "onboard_time": 1659715478,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349564,
+        "num": 349564,
+        "word": "外交部回应美指责中方反应过度",
+        "onboard_time": 1659740599,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 347926,
+        "num": 347926,
+        "word": "成都税务部门调查彩虹夫妇",
+        "onboard_time": 1659705998,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 340372,
+        "num": 340372,
+        "word": "石家庄新乐新增8例阳性",
+        "onboard_time": 1659737114,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335318,
+        "num": 335318,
+        "word": "女子耳朵痛痒难耐拆开枕头全是虫",
+        "onboard_time": 1659704079,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329372,
+        "num": 329372,
+        "word": "东部战区空军执行抵近慑压任务",
+        "onboard_time": 1659710322,
+        "rank": 19,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 974973,
+        "num": 328499,
+        "word": "王毅警告美国不要轻举妄动",
+        "onboard_time": 1659740540,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 315274,
+        "num": 315274,
+        "word": "河南长出的新冠特效药",
+        "onboard_time": 1659713560,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308257,
+        "num": 308257,
+        "word": "眉飞色舞 难看",
+        "onboard_time": 1659716136,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300991,
+        "num": 300991,
+        "word": "乘风破浪 婚礼现场",
+        "onboard_time": 1659711399,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293815,
+        "num": 293815,
+        "word": "提高代谢就从早晨开始吧",
+        "onboard_time": 1659733814,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279140,
+        "num": 279140,
+        "word": "海南三亚实行临时性全域静态管理",
+        "onboard_time": 1659741143,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277650,
+        "num": 277650,
+        "word": "赵露思迪士尼",
+        "onboard_time": 1659702758,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276058,
+        "num": 276058,
+        "word": "这笔账解放军用行动给他们算明白",
+        "onboard_time": 1659742226,
+        "rank": 27,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 273985,
+        "num": 273985,
+        "word": "00后服装设计师作品被碧昂丝穿上",
+        "onboard_time": 1659721579,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 232808,
+        "num": 232808,
+        "word": "见过对医院的最高评价",
+        "onboard_time": 1659715056,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248120,
+        "num": 231296,
+        "word": "向往的生活",
+        "onboard_time": 1659712121,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225875,
+        "num": 225875,
+        "word": "解读中方对美八项反制措施",
+        "onboard_time": 1659742043,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 207105,
+        "num": 207105,
+        "word": "宁静 造型",
+        "onboard_time": 1659740000,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204251,
+        "num": 204251,
+        "word": "白宫附近雷击事件已致2人死亡",
+        "onboard_time": 1659712959,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202291,
+        "num": 202291,
+        "word": "Twins下一站天后 爷青回",
+        "onboard_time": 1659707801,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195452,
+        "num": 195452,
+        "word": "沙溢认出赵丽颖没认出胡可",
+        "onboard_time": 1659709901,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193487,
+        "num": 193487,
+        "word": "光与夜之恋 剧情",
+        "onboard_time": 1659741863,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184739,
+        "num": 184739,
+        "word": "山东热成灿东了",
+        "onboard_time": 1659707679,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165681,
+        "num": 165681,
+        "word": "上海气象局回应49度",
+        "onboard_time": 1659741985,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160087,
+        "num": 160087,
+        "word": "日本领导人在台湾问题上表现非常不好",
+        "onboard_time": 1659706838,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 152217,
+        "word": "母亲以死逼迫女儿与相亲对象结婚",
+        "onboard_time": 1659684457,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143273,
+        "num": 143273,
+        "word": "空军飞行员目视距离俯瞰祖国宝岛",
+        "onboard_time": 1659700841,
+        "rank": 41,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 142116,
+        "num": 142116,
+        "word": "驻欧盟使团发言人正告七国集团",
+        "onboard_time": 1659703295,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 128946,
+        "word": "北京拟试点老年人贷款买房",
+        "onboard_time": 1659707318,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 124096,
+        "num": 124096,
+        "word": "刘耀文预测自己能成为MVP",
+        "onboard_time": 1659714879,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116240,
+        "num": 116240,
+        "word": "三亚新增189例确诊",
+        "onboard_time": 1659697778,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112653,
+        "num": 112653,
+        "word": "昆凌说应该不会再生了",
+        "onboard_time": 1659687219,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108830,
+        "num": 108830,
+        "word": "外交部宣布制裁佩洛西",
+        "onboard_time": 1659688064,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 108588,
+        "num": 108588,
+        "word": "中国手机出货量或跌至10年来最低",
+        "onboard_time": 1659700719,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 107433,
+        "num": 107433,
+        "word": "再也不敢在朋友圈emo了",
+        "onboard_time": 1659703357,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国态度#"
+    }
+  }
+}
