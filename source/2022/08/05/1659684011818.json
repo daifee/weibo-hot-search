@@ -1,0 +1,410 @@
+{
+  "runTime": 1659684011818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7767565,
+        "num": 7767565,
+        "word": "旺旺",
+        "onboard_time": 1659677136,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2821110,
+        "num": 2821110,
+        "word": "同中方建交国家不得与台湾官方往来",
+        "onboard_time": 1659667117,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 5873,
+        "num": 2110450,
+        "word": "解放军常规导弹穿越台岛意味着什么",
+        "onboard_time": 1659683974,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1642995,
+        "num": 1642995,
+        "word": "过去24小时解放军都做了什么",
+        "onboard_time": 1659675402,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1390343,
+        "num": 1390343,
+        "word": "韩国慰安妇受害者想见佩洛西被警卫推倒",
+        "onboard_time": 1659665195,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1118256,
+        "num": 1118256,
+        "word": "三只松鼠回应招聘要求松鼠式微笑",
+        "onboard_time": 1659679177,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090340,
+        "num": 1090340,
+        "word": "老人剐蹭宝马掏塑料袋钱包欲赔偿",
+        "onboard_time": 1659678096,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003448,
+        "num": 1003448,
+        "word": "看吃播或将引发脑内炎症",
+        "onboard_time": 1659674019,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920856,
+        "num": 920856,
+        "word": "外交部紧急召见日本驻华大使垂秀夫",
+        "onboard_time": 1659673058,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 902842,
+        "num": 902842,
+        "word": "新疆5000只战斗鸡灭蝗虫",
+        "onboard_time": 1659681638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837375,
+        "num": 837375,
+        "word": "解放军演训行动第二天",
+        "onboard_time": 1659675879,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 806617,
+        "num": 806617,
+        "word": "地图可显示台湾省每个街道",
+        "onboard_time": 1659659974,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 783756,
+        "num": 783756,
+        "word": "杨幂请狐妖小红娘剧组喝咖啡",
+        "onboard_time": 1659681396,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671345,
+        "num": 671345,
+        "word": "东部战区英雄部队精锐尽出",
+        "onboard_time": 1659682776,
+        "rank": 13,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 653157,
+        "num": 653157,
+        "word": "解放军联合演训随时可转为实战",
+        "onboard_time": 1659672939,
+        "rank": 14,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 613007,
+        "num": 613007,
+        "word": "拒绝与同学到河里玩后男孩反手报警",
+        "onboard_time": 1659676895,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604506,
+        "num": 604506,
+        "word": "人民网评天才基本法",
+        "onboard_time": 1659682838,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597743,
+        "num": 597743,
+        "word": "吴露可逃 甜",
+        "onboard_time": 1659678877,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586082,
+        "num": 586082,
+        "word": "赵丽颖林更新与凤行花絮照",
+        "onboard_time": 1659678455,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562140,
+        "num": 562140,
+        "word": "北京出租车禁贴车膜司机乘客遭暴晒",
+        "onboard_time": 1659681457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539606,
+        "num": 539606,
+        "word": "东部战区首次用动车组卫勤演练",
+        "onboard_time": 1659682715,
+        "rank": 20,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 529549,
+        "num": 529549,
+        "word": "女子10天被骗两次获赔7.5万",
+        "onboard_time": 1659676960,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475090,
+        "num": 475090,
+        "word": "解放军全程跟踪迫使佩洛西专机绕道",
+        "onboard_time": 1659665616,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 471461,
+        "num": 471461,
+        "word": "王铮亮睡过头忘了给自己打歌",
+        "onboard_time": 1659680677,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 456483,
+        "num": 456483,
+        "word": "油价已跌破俄乌冲突前水平",
+        "onboard_time": 1659674861,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 453297,
+        "num": 453297,
+        "word": "苹果被指对女员工投诉不当行为冷漠",
+        "onboard_time": 1659678517,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 440203,
+        "num": 440203,
+        "word": "玉骨遥",
+        "onboard_time": 1659683253,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421484,
+        "num": 421484,
+        "word": "旺家",
+        "onboard_time": 1659681277,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326699,
+        "num": 326699,
+        "word": "CBA公司回应郭艾伦申请转会",
+        "onboard_time": 1659678994,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322643,
+        "num": 322643,
+        "word": "喜茶布局婚庆业务",
+        "onboard_time": 1659676239,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307098,
+        "num": 307098,
+        "word": "佩洛西之流不是爱台湾是爱台币",
+        "onboard_time": 1659683375,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297633,
+        "num": 297633,
+        "word": "苍兰诀连播24集",
+        "onboard_time": 1659667777,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293781,
+        "num": 293781,
+        "word": "熬夜关灯玩手机对眼睛伤害不可逆",
+        "onboard_time": 1659675341,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287991,
+        "num": 287991,
+        "word": "网红小狗疑被主人针扎虐待",
+        "onboard_time": 1659683498,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281988,
+        "num": 281988,
+        "word": "美台勾连挑衅中方反击天经地义",
+        "onboard_time": 1659670598,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 281285,
+        "num": 281285,
+        "word": "睡衣女子头顶吹风机到消防站求助",
+        "onboard_time": 1659683194,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274104,
+        "num": 274104,
+        "word": "山东到底有多热",
+        "onboard_time": 1659673782,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258124,
+        "num": 258124,
+        "word": "小胖科学家",
+        "onboard_time": 1659678816,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257067,
+        "num": 257067,
+        "word": "被杨迪周深合拍笑死",
+        "onboard_time": 1659679539,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254465,
+        "num": 254465,
+        "word": "用大陆城市命名的台湾省街道",
+        "onboard_time": 1659670839,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249039,
+        "num": 253166,
+        "word": "海巡06轮",
+        "onboard_time": 1659680436,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 253055,
+        "num": 253055,
+        "word": "河南将全面推行交房即交证",
+        "onboard_time": 1659683618,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252327,
+        "num": 252327,
+        "word": "好心疼小鬼",
+        "onboard_time": 1659670598,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236744,
+        "num": 236744,
+        "word": "用台湾地区的视角打开佩洛西此行",
+        "onboard_time": 1659669938,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 235612,
+        "num": 235612,
+        "word": "唐周吃醋",
+        "onboard_time": 1659682177,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234964,
+        "num": 234964,
+        "word": "中国好声音今日开播",
+        "onboard_time": 1659679236,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217617,
+        "num": 217617,
+        "word": "你有过从等你下课到接你回家的爱情吗",
+        "onboard_time": 1659681999,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216260,
+        "num": 216260,
+        "word": "湖北一商场踩气球找钻戒千人哄抢",
+        "onboard_time": 1659673178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215494,
+        "num": 215494,
+        "word": "黑客",
+        "onboard_time": 1659668679,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 192047,
+        "num": 192047,
+        "word": "90后女生通宵追剧致视网膜裂孔",
+        "onboard_time": 1659672401,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#永葆赶考的清醒和坚定#"
+    }
+  }
+}
