@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659739063301,
+  "endTime": 1659741660892,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1171366,
-      "num": 1171366,
+      "raw_hot": 1172333,
+      "num": 1172333,
       "word": "网红主播自曝收入意欲何为",
       "onboard_time": 1659718227,
       "rank": 31,
@@ -155,12 +155,28 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 624843,
+      "num": 624843,
+      "word": "华春莹质问美方早知如此何必当初",
+      "onboard_time": 1659701798,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 609254,
       "num": 609254,
       "word": "外交部宣布制裁佩洛西",
       "onboard_time": 1659688064,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 521935,
+      "num": 521935,
+      "word": "张嘉倪版的佟湘玉好美",
+      "onboard_time": 1659736814,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 485809,
@@ -219,6 +235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390607,
+      "num": 390607,
+      "word": "东部战区继续位台岛周边联合演训",
+      "onboard_time": 1659708763,
+      "rank": 47,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 355950,
+      "num": 355950,
+      "word": "乘风破浪总决赛 不是直播",
+      "onboard_time": 1659702939,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351117,
       "num": 351117,
       "word": "成都税务部门调查彩虹夫妇",
@@ -235,12 +267,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343705,
-      "num": 343705,
-      "word": "华春莹质问美方早知如此何必当初",
-      "onboard_time": 1659701798,
-      "rank": 28,
+      "raw_hot": 344026,
+      "num": 344026,
+      "word": "湖北一商场聚集千人踩气球找钻戒",
+      "onboard_time": 1659736753,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336780,
+      "num": 289606,
+      "word": "王毅警告美国不要轻举妄动",
+      "onboard_time": 1659740540,
+      "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 322128,
+      "num": 322128,
+      "word": "石家庄新乐新增8例阳性",
+      "onboard_time": 1659737114,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309376,
@@ -251,20 +299,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 307414,
+      "num": 307414,
+      "word": "提高代谢就从早晨开始吧",
+      "onboard_time": 1659733814,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288087,
       "num": 253848,
       "word": "Prada大秀 造型",
       "onboard_time": 1659710741,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 282139,
-      "num": 282139,
-      "word": "东部战区继续位台岛周边联合演训",
-      "onboard_time": 1659708763,
-      "rank": 47,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 255324,
@@ -299,20 +347,20 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 247617,
-      "num": 247617,
-      "word": "提高代谢就从早晨开始吧",
-      "onboard_time": 1659733814,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242373,
       "num": 242373,
       "word": "时间真的会消磨爱意吗",
       "onboard_time": 1659710026,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230589,
+      "num": 230589,
+      "word": "00后服装设计师作品被碧昂丝穿上",
+      "onboard_time": 1659721579,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 204444,
@@ -329,14 +377,6 @@
       "onboard_time": 1659700661,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196258,
-      "num": 196258,
-      "word": "石家庄新乐新增8例阳性",
-      "onboard_time": 1659737114,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193572,
@@ -371,12 +411,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174384,
-      "num": 174384,
-      "word": "张嘉倪版的佟湘玉好美",
-      "onboard_time": 1659736814,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 177015,
+      "num": 177015,
+      "word": "外交部回应美指责中方反应过度",
+      "onboard_time": 1659740599,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 171302,
@@ -419,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146196,
-      "num": 146196,
-      "word": "00后服装设计师作品被碧昂丝穿上",
-      "onboard_time": 1659721579,
-      "rank": 21,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 145074,
       "num": 145074,
       "word": "中国手机出货量或跌至10年来最低",
@@ -435,11 +467,11 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 117152,
-      "num": 117152,
-      "word": "湖北一商场聚集千人踩气球找钻戒",
-      "onboard_time": 1659736753,
-      "rank": 34,
+      "raw_hot": 126817,
+      "num": 126817,
+      "word": "海南三亚实行临时性全域静态管理",
+      "onboard_time": 1659741143,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
