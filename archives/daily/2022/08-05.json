@@ -1,6 +1,6 @@
 {
   "startTime": 1659630815140,
-  "endTime": 1659703457676,
+  "endTime": 1659705036240,
   "band_list": [
     {
       "raw_hot": 15393348,
@@ -259,6 +259,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1744477,
+      "num": 555193,
+      "word": "赵露思迪士尼",
+      "onboard_time": 1659702758,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1740903,
+      "num": 1740903,
+      "word": "王心凌 乘风破浪年度总冠军",
+      "onboard_time": 1659701739,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1718652,
       "num": 1718652,
       "word": "外交部紧急召见日本驻华大使垂秀夫",
@@ -345,14 +361,6 @@
       "onboard_time": 1659678096,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1220603,
-      "num": 1220603,
-      "word": "王心凌 乘风破浪年度总冠军",
-      "onboard_time": 1659701739,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1218392,
@@ -457,6 +465,22 @@
       "onboard_time": 1659679177,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1106188,
+      "num": 1106188,
+      "word": "姜广涛将进酒广播剧暂停更新",
+      "onboard_time": 1659700661,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1098664,
+      "num": 3642692,
+      "word": "我军在台岛周边演训是否会常态化",
+      "onboard_time": 1659701559,
+      "rank": 2,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 1094953,
@@ -571,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 935138,
-      "num": 935138,
-      "word": "姜广涛将进酒广播剧暂停更新",
-      "onboard_time": 1659700661,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 921300,
       "num": 921300,
       "word": "黑客",
@@ -593,14 +609,6 @@
       "onboard_time": 1659620077,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 902665,
-      "num": 555193,
-      "word": "赵露思迪士尼",
-      "onboard_time": 1659702758,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 898754,
@@ -737,6 +745,14 @@
       "onboard_time": 1659664837,
       "rank": 45,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 750363,
+      "num": 750363,
+      "word": "日本最没资格就涉台问题指手画脚",
+      "onboard_time": 1659700002,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 746879,
@@ -915,14 +931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 652867,
-      "num": 3642692,
-      "word": "我军在台岛周边演训是否会常态化",
-      "onboard_time": 1659701559,
-      "rank": 2,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 646927,
       "num": 646927,
       "word": "前足协领导被曝酒后不配合防疫",
@@ -937,6 +945,14 @@
       "onboard_time": 1659675341,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637180,
+      "num": 637180,
+      "word": "中国手机出货量或跌至10年来最低",
+      "onboard_time": 1659700719,
+      "rank": 26,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 635800,
@@ -977,14 +993,6 @@
       "onboard_time": 1659656851,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601222,
-      "num": 601222,
-      "word": "日本最没资格就涉台问题指手画脚",
-      "onboard_time": 1659700002,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 599653,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1659665255,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576205,
+      "num": 482318,
+      "word": "乘风破浪总决赛 不是直播",
+      "onboard_time": 1659702939,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 576038,
@@ -1091,12 +1107,28 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 525317,
+      "num": 525317,
+      "word": "华春莹质问美方早知如此何必当初",
+      "onboard_time": 1659701798,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 519936,
       "num": 519936,
       "word": "短剧养敌为患",
       "onboard_time": 1659674144,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 519622,
+      "num": 356247,
+      "word": "中国好声音",
+      "onboard_time": 1659704140,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 517104,
@@ -1211,12 +1243,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 486201,
+      "num": 486201,
+      "word": "外交部回应中方同美日外长激烈交锋",
+      "onboard_time": 1659702518,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 484161,
       "num": 484161,
       "word": "辱母案当事人于欢结婚",
       "onboard_time": 1659692022,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479076,
+      "num": 348577,
+      "word": "浪姐 火龙果",
+      "onboard_time": 1659702820,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 475950,
@@ -1267,6 +1315,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 467041,
+      "num": 345999,
+      "word": "乘风破浪全场大合唱下一站天后",
+      "onboard_time": 1659703899,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466343,
       "num": 466343,
       "word": "东部战区继续进行实战化联合演训",
@@ -1315,6 +1371,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 457316,
+      "num": 336372,
+      "word": "老林也穿了",
+      "onboard_time": 1659704019,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 452032,
+      "num": 166529,
+      "word": "丁程鑫集市版要你管",
+      "onboard_time": 1659704979,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451357,
       "num": 411749,
       "word": "天才基本法大结局",
@@ -1353,14 +1425,6 @@
       "onboard_time": 1659625002,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443564,
-      "num": 443564,
-      "word": "中国手机出货量或跌至10年来最低",
-      "onboard_time": 1659700719,
-      "rank": 26,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 442925,
@@ -1435,14 +1499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414026,
-      "num": 414026,
-      "word": "华春莹质问美方早知如此何必当初",
-      "onboard_time": 1659701798,
-      "rank": 28,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 412401,
       "num": 412401,
       "word": "JackeyLove希维尔五杀",
@@ -1457,14 +1513,6 @@
       "onboard_time": 1659673782,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409686,
-      "num": 409686,
-      "word": "乘风破浪总决赛 不是直播",
-      "onboard_time": 1659702939,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 406413,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1659678816,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 377642,
+      "num": 377642,
+      "word": "再也不敢在朋友圈emo了",
+      "onboard_time": 1659703357,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 376261,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1659664894,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357338,
+      "num": 357338,
+      "word": "驻欧盟使团发言人正告七国集团",
+      "onboard_time": 1659703295,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 356156,
@@ -1777,14 +1841,6 @@
       "onboard_time": 1659627219,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301950,
-      "num": 234493,
-      "word": "浪姐 火龙果",
-      "onboard_time": 1659702820,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 300850,
@@ -1995,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255531,
+      "num": 255531,
+      "word": "女子耳朵痛痒难耐拆开枕头全是虫",
+      "onboard_time": 1659704079,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254286,
       "num": 254286,
       "word": "民警带手术前想坐警车的男孩巡逻",
@@ -2105,14 +2169,6 @@
       "onboard_time": 1659628235,
       "rank": 36,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 238536,
-      "num": 238536,
-      "word": "外交部回应中方同美日外长激烈交锋",
-      "onboard_time": 1659702518,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 236444,
@@ -2347,12 +2403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164026,
-      "num": 164026,
-      "word": "再也不敢在朋友圈emo了",
-      "onboard_time": 1659703357,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 169525,
+      "num": 169525,
+      "word": "最想打卡的台湾景点",
+      "onboard_time": 1659704140,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 153858,
