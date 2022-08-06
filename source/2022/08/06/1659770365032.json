@@ -1,0 +1,410 @@
+{
+  "runTime": 1659770365032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2398508,
+        "num": 2398508,
+        "word": "解放军抵近台湾海岸线照片",
+        "onboard_time": 1659743850,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1724312,
+        "num": 1724312,
+        "word": "拜登连续一周新冠阳性",
+        "onboard_time": 1659765632,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 689467,
+        "num": 1561818,
+        "word": "完全有决心有办法有能力维护国家统一",
+        "onboard_time": 1659749316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440107,
+        "num": 1440107,
+        "word": "阿娇说Twins还是Twins",
+        "onboard_time": 1659768089,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1356993,
+        "num": 1356993,
+        "word": "男子杀鸡取出宝称价值6位数",
+        "onboard_time": 1659764193,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260101,
+        "num": 1260101,
+        "word": "TT失控舞台失控",
+        "onboard_time": 1659765152,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1235476,
+        "num": 1235476,
+        "word": "韩媒称韩国外长朴振下周将访华",
+        "onboard_time": 1659760777,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1146165,
+        "num": 1146165,
+        "word": "男子吃清炒滴水观音后呕吐中毒",
+        "onboard_time": 1659764733,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139115,
+        "num": 1139115,
+        "word": "中方在台湾问题上的立场",
+        "onboard_time": 1659766173,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 715384,
+        "num": 715384,
+        "word": "台湾省地图里的全国美食",
+        "onboard_time": 1659762877,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 968458,
+        "num": 706655,
+        "word": "女子登记结婚时才承认自己是大专",
+        "onboard_time": 1659753634,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691371,
+        "num": 691371,
+        "word": "长春舰穿越所谓海峡中线",
+        "onboard_time": 1659762635,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 597388,
+        "num": 597388,
+        "word": "台湾省地图上山西刀削面店老板发声",
+        "onboard_time": 1659749856,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584056,
+        "num": 584056,
+        "word": "王一博热烈跳舞视频",
+        "onboard_time": 1659769832,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573453,
+        "num": 573453,
+        "word": "苹果手表首个中文表盘",
+        "onboard_time": 1659760237,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 492427,
+        "num": 492427,
+        "word": "三亚对阳性感染者的时空伴随者赋黄码",
+        "onboard_time": 1659752314,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485503,
+        "num": 485503,
+        "word": "王俊凯马思纯cp感",
+        "onboard_time": 1659760598,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482540,
+        "num": 482540,
+        "word": "三亚凤凰机场进出港航班大面积取消",
+        "onboard_time": 1659768871,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467995,
+        "num": 467995,
+        "word": "郑秀妍说郑秀晶会吃醋",
+        "onboard_time": 1659765695,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438786,
+        "num": 438786,
+        "word": "周深今晚八点见",
+        "onboard_time": 1659769472,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436136,
+        "num": 436136,
+        "word": "缓刑男子汽车爆炸前救人获减刑",
+        "onboard_time": 1659769111,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435881,
+        "num": 435881,
+        "word": "赵露思蓝色公主裙",
+        "onboard_time": 1659757357,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423676,
+        "num": 423676,
+        "word": "即便台海爆发冲突美国也没胜算",
+        "onboard_time": 1659750815,
+        "rank": 22,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 420627,
+        "num": 420627,
+        "word": "于文文收到张歆艺送的星星",
+        "onboard_time": 1659764552,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413691,
+        "num": 413691,
+        "word": "100秒直击解放军演训第二天",
+        "onboard_time": 1659763893,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 396083,
+        "num": 396083,
+        "word": "王心凌浪姐夺冠后首封",
+        "onboard_time": 1659770072,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 381561,
+        "num": 381561,
+        "word": "上海冰雹",
+        "onboard_time": 1659762156,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349321,
+        "num": 349321,
+        "word": "网络直播乱象为何屡禁不止",
+        "onboard_time": 1659769410,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 295863,
+        "num": 295863,
+        "word": "上海一女子反送小哥奶茶",
+        "onboard_time": 1659757832,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 272253,
+        "num": 272253,
+        "word": "河南明确核酸检测结果全国互认",
+        "onboard_time": 1659762218,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371826,
+        "num": 271930,
+        "word": "苍兰诀",
+        "onboard_time": 1659764614,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334948,
+        "num": 271914,
+        "word": "黄旭淘汰",
+        "onboard_time": 1659763113,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327440,
+        "num": 271852,
+        "word": "TFBOYS成年后第一个合体舞台",
+        "onboard_time": 1659769351,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271562,
+        "num": 271562,
+        "word": "赵立坚再发文推介长沙",
+        "onboard_time": 1659757597,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267815,
+        "num": 267815,
+        "word": "吴磊和表情包一模一样",
+        "onboard_time": 1659765752,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237376,
+        "num": 237376,
+        "word": "三亚回程机票暴涨",
+        "onboard_time": 1659755916,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 232599,
+        "num": 232599,
+        "word": "贵州避暑有多凉快",
+        "onboard_time": 1659765872,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 230733,
+        "num": 230733,
+        "word": "长津湖战役首炸水门桥英雄郭荣熙病逝",
+        "onboard_time": 1659769769,
+        "rank": 37,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 220189,
+        "num": 220189,
+        "word": "00后女生进厂考试算错小学数学题",
+        "onboard_time": 1659758497,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 206429,
+        "num": 206429,
+        "word": "3个动作帮孩子长个",
+        "onboard_time": 1659767791,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245105,
+        "num": 200474,
+        "word": "白宇比NPC还会整活",
+        "onboard_time": 1659770072,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238839,
+        "num": 199430,
+        "word": "徐志胜在独行月球里说脱口秀",
+        "onboard_time": 1659767248,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191384,
+        "num": 191384,
+        "word": "我军远域慑止能力得到提升",
+        "onboard_time": 1659759396,
+        "rank": 42,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 191370,
+        "num": 191370,
+        "word": "黄海南部海域6日起实弹射击",
+        "onboard_time": 1659754299,
+        "rank": 43,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 190957,
+        "num": 190957,
+        "word": "香港特区政府坚决反对任何外部势力干预中国内部事务",
+        "onboard_time": 1659765993,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181946,
+        "num": 181946,
+        "word": "26岁民警参与勘察任务牺牲",
+        "onboard_time": 1659770132,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175284,
+        "num": 175284,
+        "word": "台北市搜到30多家山东水饺",
+        "onboard_time": 1659756756,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153383,
+        "num": 153383,
+        "word": "父母让小学生开车上高速",
+        "onboard_time": 1659757832,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151483,
+        "num": 151483,
+        "word": "为何iPhone14取消涨价计划",
+        "onboard_time": 1659754417,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 146545,
+        "num": 146545,
+        "word": "爸爸神反应接摔倒儿子还吃了口菜",
+        "onboard_time": 1659770309,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解放军演训最新视频#"
+    }
+  }
+}

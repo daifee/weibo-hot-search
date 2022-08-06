@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659768187625,
+  "endTime": 1659770365032,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -155,6 +155,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1724312,
+      "num": 1724312,
+      "word": "拜登连续一周新冠阳性",
+      "onboard_time": 1659765632,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1678806,
       "num": 1678806,
       "word": "日媒称岸田计划撤换日防卫大臣岸信夫",
@@ -201,6 +209,14 @@
       "onboard_time": 1659752378,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1440107,
+      "num": 1440107,
+      "word": "阿娇说Twins还是Twins",
+      "onboard_time": 1659768089,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1435360,
@@ -299,6 +315,22 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 1146165,
+      "num": 1146165,
+      "word": "男子吃清炒滴水观音后呕吐中毒",
+      "onboard_time": 1659764733,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1139115,
+      "num": 1139115,
+      "word": "中方在台湾问题上的立场",
+      "onboard_time": 1659766173,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1131037,
       "num": 1131037,
       "word": "东部战区空军执行抵近慑压任务",
@@ -344,14 +376,6 @@
       "word": "女子耳朵痛痒难耐拆开枕头全是虫",
       "onboard_time": 1659704079,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 954112,
-      "num": 954112,
-      "word": "男子吃清炒滴水观音后呕吐中毒",
-      "onboard_time": 1659764733,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -409,14 +433,6 @@
       "onboard_time": 1659754417,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 856174,
-      "num": 856174,
-      "word": "拜登连续一周新冠阳性",
-      "onboard_time": 1659765632,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 819733,
@@ -563,28 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584056,
+      "num": 584056,
+      "word": "王一博热烈跳舞视频",
+      "onboard_time": 1659769832,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 570388,
       "num": 570388,
       "word": "女子去水上乐园游泳后耳朵得脚气",
       "onboard_time": 1659745534,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557376,
-      "num": 557376,
-      "word": "中方在台湾问题上的立场",
-      "onboard_time": 1659766173,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 541333,
-      "num": 541333,
-      "word": "阿娇说Twins还是Twins",
-      "onboard_time": 1659768089,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 532509,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482540,
+      "num": 482540,
+      "word": "三亚凤凰机场进出港航班大面积取消",
+      "onboard_time": 1659768871,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477804,
       "num": 477804,
       "word": "黄旭淘汰",
@@ -697,6 +713,14 @@
       "onboard_time": 1659715056,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 467995,
+      "num": 467995,
+      "word": "郑秀妍说郑秀晶会吃醋",
+      "onboard_time": 1659765695,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 464737,
@@ -752,6 +776,22 @@
       "word": "广东增本土确诊11例无症状2例",
       "onboard_time": 1659749793,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438786,
+      "num": 438786,
+      "word": "周深今晚八点见",
+      "onboard_time": 1659769472,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 436136,
+      "num": 436136,
+      "word": "缓刑男子汽车爆炸前救人获减刑",
+      "onboard_time": 1659769111,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -827,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404430,
-      "num": 366432,
-      "word": "郑秀妍说郑秀晶会吃醋",
-      "onboard_time": 1659765695,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 396083,
+      "num": 396083,
+      "word": "王心凌浪姐夺冠后首封",
+      "onboard_time": 1659770072,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394117,
@@ -891,6 +931,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 349321,
+      "num": 349321,
+      "word": "网络直播乱象为何屡禁不止",
+      "onboard_time": 1659769410,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 340372,
       "num": 340372,
       "word": "石家庄新乐新增8例阳性",
@@ -913,6 +961,14 @@
       "onboard_time": 1659751296,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327440,
+      "num": 271852,
+      "word": "TFBOYS成年后第一个合体舞台",
+      "onboard_time": 1659769351,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 326252,
@@ -1091,6 +1147,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 245105,
+      "num": 200474,
+      "word": "白宇比NPC还会整活",
+      "onboard_time": 1659770072,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242373,
       "num": 242373,
       "word": "时间真的会消磨爱意吗",
@@ -1105,6 +1169,22 @@
       "onboard_time": 1659756395,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238839,
+      "num": 199430,
+      "word": "徐志胜在独行月球里说脱口秀",
+      "onboard_time": 1659767248,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230733,
+      "num": 230733,
+      "word": "长津湖战役首炸水门桥英雄郭荣熙病逝",
+      "onboard_time": 1659769769,
+      "rank": 37,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 228579,
@@ -1155,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206429,
+      "num": 206429,
+      "word": "3个动作帮孩子长个",
+      "onboard_time": 1659767791,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202317,
       "num": 183164,
       "word": "姜广涛将进酒广播剧暂停更新",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1659704140,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 181946,
+      "num": 181946,
+      "word": "26岁民警参与勘察任务牺牲",
+      "onboard_time": 1659770132,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179630,
@@ -1259,19 +1355,19 @@
       "category": "军事"
     },
     {
-      "raw_hot": 156624,
-      "num": 156624,
-      "word": "3个动作帮孩子长个",
-      "onboard_time": 1659767791,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156257,
       "num": 156257,
       "word": "三亚新增189例确诊",
       "onboard_time": 1659697778,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146545,
+      "num": 146545,
+      "word": "爸爸神反应接摔倒儿子还吃了口菜",
+      "onboard_time": 1659770309,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
