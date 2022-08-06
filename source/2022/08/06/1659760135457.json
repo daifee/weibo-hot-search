@@ -1,0 +1,410 @@
+{
+  "runTime": 1659760135457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5503319,
+        "num": 5503319,
+        "word": "台湾省地图上山西刀削面店老板发声",
+        "onboard_time": 1659749856,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3419835,
+        "num": 3419835,
+        "word": "解放军抵近台湾海岸线照片",
+        "onboard_time": 1659743850,
+        "rank": 1,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 858739,
+        "num": 2967116,
+        "word": "完全有决心有办法有能力维护国家统一",
+        "onboard_time": 1659749316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2632789,
+        "num": 2632789,
+        "word": "台北市搜到30多家山东水饺",
+        "onboard_time": 1659756756,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593924,
+        "num": 1593924,
+        "word": "三亚回程机票暴涨",
+        "onboard_time": 1659755916,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1383165,
+        "num": 1383165,
+        "word": "黄海南部海域6日起实弹射击",
+        "onboard_time": 1659754299,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1220311,
+        "num": 1220311,
+        "word": "苹果要求供应商不得单独标注台湾",
+        "onboard_time": 1659747454,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1044824,
+        "num": 1044824,
+        "word": "即便台海爆发冲突美国也没胜算",
+        "onboard_time": 1659750815,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1011493,
+        "num": 1011493,
+        "word": "赵立坚再发文推介长沙",
+        "onboard_time": 1659757597,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894355,
+        "num": 894355,
+        "word": "长春舰",
+        "onboard_time": 1659751958,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 2130104,
+        "num": 844520,
+        "word": "女子登记结婚时才承认自己是大专",
+        "onboard_time": 1659753634,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767711,
+        "num": 767711,
+        "word": "三亚对阳性感染者的时空伴随者赋黄码",
+        "onboard_time": 1659752314,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746557,
+        "num": 746557,
+        "word": "上海一女子反送小哥奶茶",
+        "onboard_time": 1659757832,
+        "rank": 12,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 712908,
+        "num": 712908,
+        "word": "为何iPhone14取消涨价计划",
+        "onboard_time": 1659754417,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 12529,
+        "num": 676557,
+        "word": "爱的安全感从何而来",
+        "onboard_time": 1659758556,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664822,
+        "num": 664822,
+        "word": "老奶奶被境外电话催崩溃了",
+        "onboard_time": 1659753219,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602834,
+        "num": 602834,
+        "word": "国际空间站宇航服头盔漏水",
+        "onboard_time": 1659757057,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 587787,
+        "num": 587787,
+        "word": "赵小棠发的是喜糖吧",
+        "onboard_time": 1659759696,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562193,
+        "num": 562193,
+        "word": "约8万游客滞留三亚",
+        "onboard_time": 1659747154,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492931,
+        "num": 492931,
+        "word": "华春莹称中国身后是160多个国家",
+        "onboard_time": 1659743607,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 914735,
+        "num": 492319,
+        "word": "赵露思蓝色公主裙",
+        "onboard_time": 1659757357,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 898088,
+        "num": 490761,
+        "word": "日媒称岸田计划撤换日防卫大臣岸信夫",
+        "onboard_time": 1659758616,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 598241,
+        "num": 489486,
+        "word": "黄奕女儿乘风破浪追星赢家",
+        "onboard_time": 1659758857,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575369,
+        "num": 487556,
+        "word": "TFBOYS的十年之约剩一年了",
+        "onboard_time": 1659749254,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487422,
+        "num": 487422,
+        "word": "杨迪说36年都没这么生气过",
+        "onboard_time": 1659759519,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485378,
+        "num": 485378,
+        "word": "00后女生进厂考试算错小学数学题",
+        "onboard_time": 1659758497,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 450853,
+        "num": 450853,
+        "word": "不肖子孙蔡英文",
+        "onboard_time": 1659711101,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 437117,
+        "num": 437117,
+        "word": "王心凌尹浩宇重现爱上查美乐",
+        "onboard_time": 1659759039,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424685,
+        "num": 424685,
+        "word": "父母让小学生开车上高速",
+        "onboard_time": 1659757832,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407215,
+        "num": 407215,
+        "word": "彭昱畅告别向往的生活",
+        "onboard_time": 1659747814,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338847,
+        "num": 338847,
+        "word": "女子不小心弄丢男友送的劳力士被起诉",
+        "onboard_time": 1659742706,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316326,
+        "num": 316326,
+        "word": "沈阳51岁民警因公牺牲",
+        "onboard_time": 1659755438,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294427,
+        "num": 294427,
+        "word": "Billkin感染新冠",
+        "onboard_time": 1659744572,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293919,
+        "num": 293919,
+        "word": "你好星期六全员发糖",
+        "onboard_time": 1659754356,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257694,
+        "num": 257694,
+        "word": "无人认领行李箱被当盲盒售卖",
+        "onboard_time": 1659743850,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222499,
+        "num": 222499,
+        "word": "白宫附近雷击事件已致3人死亡",
+        "onboard_time": 1659748896,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 217655,
+        "num": 217655,
+        "word": "狗狗被关车内踩油门将车开走追尾",
+        "onboard_time": 1659746074,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207432,
+        "num": 207432,
+        "word": "长时间紫外线照射或造成基因突变",
+        "onboard_time": 1659748354,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199917,
+        "num": 199917,
+        "word": "月升沧海",
+        "onboard_time": 1659756876,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197053,
+        "num": 197053,
+        "word": "明天见虞书欣小兰花",
+        "onboard_time": 1659754897,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177792,
+        "num": 177792,
+        "word": "王毅警告美国不要轻举妄动",
+        "onboard_time": 1659740540,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174791,
+        "num": 174791,
+        "word": "上海气象局回应49度",
+        "onboard_time": 1659741985,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173047,
+        "num": 173047,
+        "word": "新疆伊犁州新增无症状感染者38例",
+        "onboard_time": 1659751296,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163675,
+        "num": 163675,
+        "word": "女子去水上乐园游泳后耳朵得脚气",
+        "onboard_time": 1659745534,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153647,
+        "num": 153647,
+        "word": "美团单车宣布涨价",
+        "onboard_time": 1659746852,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152875,
+        "num": 152875,
+        "word": "那英 成了团没什么用",
+        "onboard_time": 1659707801,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146255,
+        "num": 146255,
+        "word": "佩洛西窜访台湾六宗罪",
+        "onboard_time": 1659745171,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2295741,
+        "num": 140205,
+        "word": "王俊凯断桥抽烟镜头",
+        "onboard_time": 1659757057,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132724,
+        "num": 132724,
+        "word": "我军远域慑止能力得到提升",
+        "onboard_time": 1659759396,
+        "rank": 48,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 130353,
+        "num": 130353,
+        "word": "这笔账解放军用行动给他们算明白",
+        "onboard_time": 1659742226,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行共商共建共享的全球治理观#"
+    }
+  }
+}
