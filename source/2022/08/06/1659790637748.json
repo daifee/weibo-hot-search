@@ -1,0 +1,410 @@
+{
+  "runTime": 1659790637748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3465762,
+        "num": 3465762,
+        "word": "台湾民众评论解放军台海军演",
+        "onboard_time": 1659782253,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 3006174,
+        "num": 3006174,
+        "word": "不用精子卵子子宫科学家培育出胚胎",
+        "onboard_time": 1659788553,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 207880,
+        "num": 1954706,
+        "word": "完全有决心有办法有能力维护国家统一",
+        "onboard_time": 1659749316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782972,
+        "num": 1782972,
+        "word": "最新消息里根号航母已转向",
+        "onboard_time": 1659776971,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1599558,
+        "num": 1599558,
+        "word": "8月7日零时起上海全市疫情风险区清零",
+        "onboard_time": 1659785674,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481486,
+        "num": 1481486,
+        "word": "戏精佩洛西",
+        "onboard_time": 1659786751,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1460423,
+        "num": 1460423,
+        "word": "林妙妙把公司开了好飒",
+        "onboard_time": 1659786874,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1102098,
+        "num": 1102098,
+        "word": "央视新闻这段唢呐蔡英文听懂了吗",
+        "onboard_time": 1659777274,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 849721,
+        "num": 849721,
+        "word": "东部战区继续台岛周边实战化演训",
+        "onboard_time": 1659778235,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 821519,
+        "num": 821519,
+        "word": "台湾锈迹斑斑的护卫舰是从美国租来的",
+        "onboard_time": 1659781894,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1241505,
+        "num": 818041,
+        "word": "抖音大嘴燕燕",
+        "onboard_time": 1659788013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800091,
+        "num": 800091,
+        "word": "被电死柯基身上没有灼伤痕迹",
+        "onboard_time": 1659788976,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756697,
+        "num": 756697,
+        "word": "吴宣仪演唱会",
+        "onboard_time": 1659787712,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 711255,
+        "num": 711255,
+        "word": "明日方舟",
+        "onboard_time": 1659789094,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 629719,
+        "num": 629719,
+        "word": "杨紫沉香如屑黑斗篷剧照",
+        "onboard_time": 1659787173,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 607117,
+        "num": 607117,
+        "word": "女子每月染发2次患药物性肝炎",
+        "onboard_time": 1659780572,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575280,
+        "num": 575280,
+        "word": "男子被骗身无分文下跪借钱",
+        "onboard_time": 1659785851,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563198,
+        "num": 563198,
+        "word": "解放军舰艇视角看宝岛",
+        "onboard_time": 1659787173,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 535356,
+        "num": 535356,
+        "word": "身体摆烂是大脑缺觉给的警告",
+        "onboard_time": 1659781232,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493896,
+        "num": 493896,
+        "word": "台岛周边演训第3天现场画面",
+        "onboard_time": 1659783272,
+        "rank": 19,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 854902,
+        "num": 488199,
+        "word": "迪丽热巴 梦回高雯",
+        "onboard_time": 1659787234,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481643,
+        "num": 481643,
+        "word": "时代少年团你好星期六下期预告",
+        "onboard_time": 1659788076,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474070,
+        "num": 474070,
+        "word": "海南公布近期旅客离岛疫情防控措施",
+        "onboard_time": 1659785132,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448361,
+        "num": 448361,
+        "word": "6人吃617元烧烤扫8元趁机离开",
+        "onboard_time": 1659771210,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428942,
+        "num": 428942,
+        "word": "RNG状态",
+        "onboard_time": 1659784888,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 395630,
+        "num": 395630,
+        "word": "警方通报男子餐馆殴打女友",
+        "onboard_time": 1659788852,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 431116,
+        "num": 395599,
+        "word": "周深夏日歌会",
+        "onboard_time": 1659789516,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386131,
+        "num": 386131,
+        "word": "上海一男子七夕凌晨掐脖殴打女友",
+        "onboard_time": 1659774033,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 383010,
+        "num": 383010,
+        "word": "光与夜之恋",
+        "onboard_time": 1659787953,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376706,
+        "num": 376706,
+        "word": "1分钟呼吸入睡法",
+        "onboard_time": 1659786391,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 358014,
+        "num": 358014,
+        "word": "郑秀妍 我会永远记住这个夏天",
+        "onboard_time": 1659783512,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356901,
+        "num": 356901,
+        "word": "文文 这是一颗以你名字命名的星球",
+        "onboard_time": 1659786272,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349241,
+        "num": 349241,
+        "word": "XYG晋级季后赛及世冠",
+        "onboard_time": 1659790417,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344092,
+        "num": 344092,
+        "word": "七旬老伯种出15斤重巨型葫芦",
+        "onboard_time": 1659787054,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335222,
+        "num": 335222,
+        "word": "00后明星还有多少惊喜",
+        "onboard_time": 1659780274,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313633,
+        "num": 313633,
+        "word": "王一博被黄渤夸害羞了",
+        "onboard_time": 1659783573,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301217,
+        "num": 301217,
+        "word": "你好星期六",
+        "onboard_time": 1659787774,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287505,
+        "num": 287505,
+        "word": "华晨宇教诚C飙高音",
+        "onboard_time": 1659790054,
+        "rank": 37,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 276093,
+        "num": 276093,
+        "word": "东部战区演训震慑台独效果明显",
+        "onboard_time": 1659789633,
+        "rank": 38,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 239774,
+        "num": 239774,
+        "word": "30秒实弹射击原声震撼现场",
+        "onboard_time": 1659790175,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 238925,
+        "num": 238925,
+        "word": "百度地图上线台湾省实景共建功能",
+        "onboard_time": 1659779555,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 226568,
+        "num": 226568,
+        "word": "TFBOYS成年后第一个合体舞台",
+        "onboard_time": 1659769351,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221510,
+        "num": 221510,
+        "word": "罗云熙入驻上海杜莎",
+        "onboard_time": 1659784711,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214895,
+        "num": 214895,
+        "word": "男子网购山药脆片吃出润滑油污渍",
+        "onboard_time": 1659774873,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212966,
+        "num": 212966,
+        "word": "三亚针对滞留酒店游客提供半价优惠续住服务",
+        "onboard_time": 1659774152,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208980,
+        "num": 208980,
+        "word": "张艺兴歌单今天是梦不落雨林",
+        "onboard_time": 1659786874,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197177,
+        "num": 197177,
+        "word": "大连人1比1上海海港",
+        "onboard_time": 1659786874,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167948,
+        "num": 167948,
+        "word": "覆盖全身的超级项链有多豪华",
+        "onboard_time": 1659788672,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159992,
+        "num": 159992,
+        "word": "10个月萌宝偷啃烤鸭满嘴流油",
+        "onboard_time": 1659778411,
+        "rank": 48,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 158103,
+        "num": 158103,
+        "word": "海贼王",
+        "onboard_time": 1659770368,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#解放军演训最新视频#"
+    }
+  }
+}
