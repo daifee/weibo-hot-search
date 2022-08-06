@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659767146573,
+  "endTime": 1659768187625,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -91,20 +91,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 2325529,
+      "num": 1360796,
+      "word": "男子杀鸡取出宝称价值6位数",
+      "onboard_time": 1659764193,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2295741,
       "num": 1879515,
       "word": "王俊凯断桥抽烟镜头",
       "onboard_time": 1659757057,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2267641,
-      "num": 1360796,
-      "word": "男子杀鸡取出宝称价值6位数",
-      "onboard_time": 1659764193,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2168069,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177101,
+      "num": 1177101,
+      "word": "台湾省地图里的全国美食",
+      "onboard_time": 1659762877,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1169829,
       "num": 925755,
       "word": "日本领导人在台湾问题上表现非常不好",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954112,
+      "num": 954112,
+      "word": "男子吃清炒滴水观音后呕吐中毒",
+      "onboard_time": 1659764733,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952999,
       "num": 952999,
       "word": "日本外相发言时中俄外长同时离席退场",
@@ -395,12 +411,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 844911,
-      "num": 844911,
-      "word": "台湾省地图里的全国美食",
-      "onboard_time": 1659762877,
-      "rank": 46,
-      "category": "美食,社会新闻"
+      "raw_hot": 856174,
+      "num": 856174,
+      "word": "拜登连续一周新冠阳性",
+      "onboard_time": 1659765632,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 819733,
@@ -417,14 +433,6 @@
       "onboard_time": 1659716136,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 786384,
-      "num": 786384,
-      "word": "男子吃清炒滴水观音后呕吐中毒",
-      "onboard_time": 1659764733,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770714,
@@ -563,6 +571,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557376,
+      "num": 557376,
+      "word": "中方在台湾问题上的立场",
+      "onboard_time": 1659766173,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 541333,
+      "num": 541333,
+      "word": "阿娇说Twins还是Twins",
+      "onboard_time": 1659768089,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 532509,
+      "num": 532509,
+      "word": "100秒直击解放军演训第二天",
+      "onboard_time": 1659763893,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 513413,
       "num": 513413,
       "word": "海南增本土确诊262例",
@@ -603,12 +635,12 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 491736,
-      "num": 491736,
-      "word": "100秒直击解放军演训第二天",
-      "onboard_time": 1659763893,
-      "rank": 40,
-      "category": "军事"
+      "raw_hot": 488895,
+      "num": 488895,
+      "word": "黄渤王一博摸头杀",
+      "onboard_time": 1659767248,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 485809,
@@ -667,20 +699,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 465380,
-      "num": 465380,
-      "word": "拜登连续一周新冠阳性",
-      "onboard_time": 1659765632,
-      "rank": 22,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 464737,
       "num": 464737,
       "word": "赵露思迪士尼",
       "onboard_time": 1659702758,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461958,
+      "num": 461958,
+      "word": "刘宇宁登录圆鱼洲",
+      "onboard_time": 1659767372,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 457824,
@@ -747,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427327,
+      "num": 287303,
+      "word": "大鹏电影热烈杀青",
+      "onboard_time": 1659768033,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424685,
       "num": 424685,
       "word": "父母让小学生开车上高速",
@@ -787,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404430,
+      "num": 366432,
+      "word": "郑秀妍说郑秀晶会吃醋",
+      "onboard_time": 1659765695,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394117,
       "num": 394117,
       "word": "乘风破浪总决赛 不是直播",
@@ -808,14 +856,6 @@
       "word": "王心凌说今晚七点半见",
       "onboard_time": 1659755556,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 366432,
-      "num": 366432,
-      "word": "郑秀妍说郑秀晶会吃醋",
-      "onboard_time": 1659765695,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -891,14 +931,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 318808,
-      "num": 318808,
-      "word": "中方在台湾问题上的立场",
-      "onboard_time": 1659766173,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 309376,
       "num": 309376,
       "word": "外交部回应中方同美日外长激烈交锋",
@@ -945,6 +977,14 @@
       "onboard_time": 1659710741,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 284991,
+      "num": 284991,
+      "word": "吴磊和表情包一模一样",
+      "onboard_time": 1659765752,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 283547,
@@ -995,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269307,
-      "num": 269307,
-      "word": "吴磊和表情包一模一样",
-      "onboard_time": 1659765752,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268503,
       "num": 268503,
       "word": "明天见虞书欣小兰花",
@@ -1027,8 +1059,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251978,
-      "num": 251978,
+      "raw_hot": 252658,
+      "num": 252658,
       "word": "贵州避暑有多凉快",
       "onboard_time": 1659765872,
       "rank": 39,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1659686199,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 156624,
+      "num": 156624,
+      "word": "3个动作帮孩子长个",
+      "onboard_time": 1659767791,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156257,
