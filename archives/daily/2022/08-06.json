@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659760135457,
+  "endTime": 1659761250414,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -43,20 +43,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2793411,
+      "num": 2793411,
+      "word": "台北市搜到30多家山东水饺",
+      "onboard_time": 1659756756,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2761397,
       "num": 1304679,
       "word": "不肖子孙蔡英文",
       "onboard_time": 1659711101,
       "rank": 10,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2632789,
-      "num": 2632789,
-      "word": "台北市搜到30多家山东水饺",
-      "onboard_time": 1659756756,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2561748,
@@ -131,12 +131,28 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1678806,
+      "num": 1678806,
+      "word": "日媒称岸田计划撤换日防卫大臣岸信夫",
+      "onboard_time": 1659758616,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1593924,
       "num": 1593924,
       "word": "三亚回程机票暴涨",
       "onboard_time": 1659755916,
       "rank": 11,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1532762,
+      "num": 1532762,
+      "word": "赵立坚再发文推介长沙",
+      "onboard_time": 1659757597,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1495606,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 1355380,
-      "num": 502699,
+      "num": 556868,
       "word": "赵露思蓝色公主裙",
       "onboard_time": 1659757357,
       "rank": 20,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 1324286,
-      "num": 512985,
+      "num": 555979,
       "word": "TFBOYS的十年之约剩一年了",
       "onboard_time": 1659749254,
       "rank": 21,
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011493,
-      "num": 1011493,
-      "word": "赵立坚再发文推介长沙",
-      "onboard_time": 1659757597,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 997560,
       "num": 997560,
       "word": "佩洛西窜访台湾六宗罪",
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898088,
-      "num": 490761,
-      "word": "日媒称岸田计划撤换日防卫大臣岸信夫",
-      "onboard_time": 1659758616,
-      "rank": 21,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 885930,
       "num": 3172539,
       "word": "完全有决心有办法有能力维护国家统一",
@@ -321,6 +321,14 @@
       "onboard_time": 1659712959,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 867887,
+      "num": 867887,
+      "word": "上海一女子反送小哥奶茶",
+      "onboard_time": 1659757832,
+      "rank": 29,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 857764,
@@ -347,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 746557,
-      "num": 746557,
-      "word": "上海一女子反送小哥奶茶",
-      "onboard_time": 1659757832,
-      "rank": 29,
-      "category": "社会新闻,幽默"
+      "raw_hot": 763307,
+      "num": 763307,
+      "word": "杨迪说36年都没这么生气过",
+      "onboard_time": 1659759519,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 728087,
@@ -361,6 +369,14 @@
       "onboard_time": 1659746852,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 720508,
+      "num": 556751,
+      "word": "黄奕女儿乘风破浪追星赢家",
+      "onboard_time": 1659758857,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 717187,
@@ -435,14 +451,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 598241,
-      "num": 489486,
-      "word": "黄奕女儿乘风破浪追星赢家",
-      "onboard_time": 1659758857,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 587787,
       "num": 587787,
       "word": "赵小棠发的是喜糖吧",
@@ -457,6 +465,30 @@
       "onboard_time": 1659745534,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560407,
+      "num": 560407,
+      "word": "苹果手表首个中文表盘",
+      "onboard_time": 1659760237,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 549993,
+      "num": 549993,
+      "word": "00后女生进厂考试算错小学数学题",
+      "onboard_time": 1659758497,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 527581,
+      "num": 527581,
+      "word": "王俊凯马思纯cp感",
+      "onboard_time": 1659760598,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 513413,
@@ -483,28 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487422,
-      "num": 487422,
-      "word": "杨迪说36年都没这么生气过",
-      "onboard_time": 1659759519,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 485809,
       "num": 485809,
       "word": "沙溢认出赵丽颖没认出胡可",
       "onboard_time": 1659709901,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485378,
-      "num": 485378,
-      "word": "00后女生进厂考试算错小学数学题",
-      "onboard_time": 1659758497,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 483957,
@@ -555,20 +571,20 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 439275,
+      "num": 439275,
+      "word": "王心凌尹浩宇重现爱上查美乐",
+      "onboard_time": 1659759039,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438869,
       "num": 438869,
       "word": "广东增本土确诊11例无症状2例",
       "onboard_time": 1659749793,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437117,
-      "num": 437117,
-      "word": "王心凌尹浩宇重现爱上查美乐",
-      "onboard_time": 1659759039,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 429898,
@@ -859,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237222,
+      "num": 237222,
+      "word": "韩媒称韩国外长朴振下周将访华",
+      "onboard_time": 1659760777,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 228579,
       "num": 228579,
       "word": "8月5日新增本土确诊310例",
@@ -897,6 +921,14 @@
       "onboard_time": 1659700661,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201163,
+      "num": 201163,
+      "word": "我军远域慑止能力得到提升",
+      "onboard_time": 1659759396,
+      "rank": 48,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 193572,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1659700719,
       "rank": 46,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 132724,
-      "num": 132724,
-      "word": "我军远域慑止能力得到提升",
-      "onboard_time": 1659759396,
-      "rank": 48,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 108634,
