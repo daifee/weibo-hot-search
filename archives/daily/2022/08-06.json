@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659782311021,
+  "endTime": 1659784619603,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3009085,
+      "num": 3009085,
+      "word": "女子每月染发2次患药物性肝炎",
+      "onboard_time": 1659780572,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2793411,
       "num": 2793411,
       "word": "台北市搜到30多家山东水饺",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 2533339,
-      "num": 851792,
+      "num": 984025,
       "word": "央视新闻这段唢呐蔡英文听懂了吗",
       "onboard_time": 1659777274,
       "rank": 23,
@@ -185,6 +193,14 @@
       "onboard_time": 1659760237,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1947861,
+      "num": 1947861,
+      "word": "台湾锈迹斑斑的护卫舰是从美国租来的",
+      "onboard_time": 1659781894,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 1849115,
@@ -267,14 +283,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1538015,
-      "num": 1538015,
-      "word": "女子每月染发2次患药物性肝炎",
-      "onboard_time": 1659780572,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1532762,
       "num": 1532762,
       "word": "赵立坚再发文推介长沙",
@@ -329,6 +337,14 @@
       "onboard_time": 1659715478,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1431300,
+      "num": 1431300,
+      "word": "华晨宇的游戏ID拴Q了老6",
+      "onboard_time": 1659782133,
+      "rank": 12,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1419727,
@@ -387,11 +403,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1318143,
+      "num": 1318143,
+      "word": "台湾民众评论解放军台海军演",
+      "onboard_time": 1659782253,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 1307484,
       "num": 1307484,
       "word": "上海冰雹",
       "onboard_time": 1659762156,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1251958,
+      "num": 1251958,
+      "word": "身体摆烂是大脑缺觉给的警告",
+      "onboard_time": 1659781232,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -627,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 740109,
-      "num": 740109,
-      "word": "华晨宇的游戏ID拴Q了老6",
-      "onboard_time": 1659782133,
-      "rank": 12,
-      "category": "游戏,艺人"
+      "raw_hot": 766983,
+      "num": 766983,
+      "word": "郑秀妍 我会永远记住这个夏天",
+      "onboard_time": 1659783512,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 728087,
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406382,
+      "num": 406382,
+      "word": "台岛周边演训第3天现场画面",
+      "onboard_time": 1659783272,
+      "rank": 20,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 406067,
       "num": 406067,
       "word": "刘耀文预测自己能成为MVP",
@@ -1451,28 +1491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292305,
-      "num": 292305,
-      "word": "身体摆烂是大脑缺觉给的警告",
-      "onboard_time": 1659781232,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292137,
-      "num": 292137,
-      "word": "台湾锈迹斑斑的护卫舰是从美国租来的",
-      "onboard_time": 1659781894,
-      "rank": 33,
-      "category": "军事"
-    },
-    {
       "raw_hot": 288087,
       "num": 253848,
       "word": "Prada大秀 造型",
       "onboard_time": 1659710741,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 287003,
+      "num": 245176,
+      "word": "邓紫棋新专辑爱得好坚定",
+      "onboard_time": 1659783873,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 284991,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1659765391,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282403,
+      "num": 244783,
+      "word": "王一博被黄渤夸害羞了",
+      "onboard_time": 1659783573,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 277908,
@@ -1603,12 +1643,28 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 246334,
+      "num": 244348,
+      "word": "我的夏日歌单",
+      "onboard_time": 1659783452,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 245105,
       "num": 200474,
       "word": "白宇比NPC还会整活",
       "onboard_time": 1659770072,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242559,
+      "num": 242559,
+      "word": "海南将开展全省核酸检测",
+      "onboard_time": 1659779312,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242373,
@@ -1659,14 +1715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 230695,
-      "num": 230695,
-      "word": "海南将开展全省核酸检测",
-      "onboard_time": 1659779312,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228579,
       "num": 228579,
       "word": "8月5日新增本土确诊310例",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1659765993,
       "rank": 42,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 210929,
+      "num": 210929,
+      "word": "小伙把千里江山图整活了",
+      "onboard_time": 1659782314,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207105,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1659686199,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 162504,
-      "num": 162504,
-      "word": "台湾民众评论解放军台海军演",
-      "onboard_time": 1659782253,
-      "rank": 47,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 161712,
