@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659818213731,
+  "endTime": 1659820740016,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -459,12 +459,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17402,
-      "num": 17402,
+      "raw_hot": 82721,
+      "num": 60325,
       "word": "幼童被两只大狗撞飞1米多远",
       "onboard_time": 1659817812,
       "rank": 44,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 47408,
+      "num": 47408,
+      "word": "义乌新增34例新冠病毒阳性感染者",
+      "onboard_time": 1659818533,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27215,
+      "num": 27215,
+      "word": "周深追着郭麒麟用巧克力洗头",
+      "onboard_time": 1659820032,
+      "rank": 29,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
