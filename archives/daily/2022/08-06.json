@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659753143864,
+  "endTime": 1659757546569,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -59,6 +59,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2557460,
+      "num": 984702,
+      "word": "女子登记结婚时才承认自己是大专",
+      "onboard_time": 1659753634,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2379132,
       "num": 2379132,
       "word": "苹果要求供应商不得单独标注台湾",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2168069,
-      "num": 513329,
+      "num": 754453,
       "word": "华春莹称中国身后是160多个国家",
       "onboard_time": 1659743607,
       "rank": 20,
@@ -83,12 +91,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1847382,
-      "num": 1847382,
+      "raw_hot": 1849115,
+      "num": 1849115,
       "word": "即便台海爆发冲突美国也没胜算",
       "onboard_time": 1659750815,
       "rank": 37,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 1811994,
+      "num": 1811994,
+      "word": "长春舰",
+      "onboard_time": 1659751958,
+      "rank": 23,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1730842,
@@ -115,6 +131,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1468243,
+      "num": 1468243,
+      "word": "男子跳河轻生扑腾40分钟学会游泳",
+      "onboard_time": 1659752378,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1435360,
       "num": 1435360,
       "word": "张俪 女团梦该醒啦",
@@ -139,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1209060,
+      "num": 1209060,
+      "word": "三亚对阳性感染者的时空伴随者赋黄码",
+      "onboard_time": 1659752314,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1169829,
       "num": 925755,
       "word": "日本领导人在台湾问题上表现非常不好",
       "onboard_time": 1659706838,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1149451,
+      "num": 481075,
+      "word": "赵露思蓝色公主裙",
+      "onboard_time": 1659757357,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1149151,
@@ -179,12 +219,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 988265,
+      "num": 988265,
+      "word": "老奶奶被境外电话催崩溃了",
+      "onboard_time": 1659753219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974973,
       "num": 709574,
       "word": "王毅警告美国不要轻举妄动",
       "onboard_time": 1659740540,
       "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 970119,
+      "num": 970119,
+      "word": "三亚回程机票暴涨",
+      "onboard_time": 1659755916,
+      "rank": 11,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 964260,
@@ -211,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928862,
+      "num": 928862,
+      "word": "黄海南部海域6日起实弹射击",
+      "onboard_time": 1659754299,
+      "rank": 12,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 894688,
+      "num": 894688,
+      "word": "王俊凯断桥抽烟镜头",
+      "onboard_time": 1659757057,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 882354,
       "num": 882354,
       "word": "白宫附近雷击事件已致2人死亡",
@@ -219,12 +291,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 838084,
+      "num": 838084,
+      "word": "为何iPhone14取消涨价计划",
+      "onboard_time": 1659754417,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 819733,
       "num": 819733,
       "word": "河南长出的新冠特效药",
       "onboard_time": 1659713560,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814350,
+      "num": 3172539,
+      "word": "完全有决心有办法有能力维护国家统一",
+      "onboard_time": 1659749316,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 795602,
@@ -283,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660781,
+      "num": 479506,
+      "word": "江西幼儿园命案致4死",
+      "onboard_time": 1659751416,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 647207,
       "num": 647207,
       "word": "空军飞行员目视距离俯瞰祖国宝岛",
@@ -323,12 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506263,
-      "num": 506263,
-      "word": "长春舰",
-      "onboard_time": 1659751958,
-      "rank": 23,
-      "category": "军事,社会新闻"
+      "raw_hot": 495444,
+      "num": 495444,
+      "word": "台北市搜到30多家山东水饺",
+      "onboard_time": 1659756756,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486737,
@@ -387,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445260,
-      "num": 445260,
-      "word": "江西幼儿园命案致4死",
-      "onboard_time": 1659751416,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 439640,
       "num": 439640,
       "word": "东部战区继续位台岛周边联合演训",
@@ -409,6 +497,14 @@
       "onboard_time": 1659749793,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429898,
+      "num": 429898,
+      "word": "你好星期六全员发糖",
+      "onboard_time": 1659754356,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 427793,
@@ -467,26 +563,18 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 380929,
-      "num": 3172539,
-      "word": "完全有决心有办法有能力维护国家统一",
-      "onboard_time": 1659749316,
-      "rank": 28,
-      "category": "国内要闻"
+      "raw_hot": 385600,
+      "num": 378055,
+      "word": "王心凌说今晚七点半见",
+      "onboard_time": 1659755556,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 362036,
       "num": 362036,
       "word": "长时间紫外线照射或造成基因突变",
       "onboard_time": 1659748354,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358204,
-      "num": 358204,
-      "word": "男子跳河轻生扑腾40分钟学会游泳",
-      "onboard_time": 1659752378,
       "rank": 31,
       "category": "社会新闻"
     },
@@ -547,6 +635,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 321271,
+      "num": 321271,
+      "word": "沈阳51岁民警因公牺牲",
+      "onboard_time": 1659755438,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309376,
       "num": 309376,
       "word": "外交部回应中方同美日外长激烈交锋",
@@ -595,12 +691,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 283735,
-      "num": 283735,
-      "word": "三亚对阳性感染者的时空伴随者赋黄码",
-      "onboard_time": 1659752314,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 275984,
+      "num": 275984,
+      "word": "月升沧海",
+      "onboard_time": 1659756876,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 274154,
@@ -617,6 +713,22 @@
       "onboard_time": 1659721579,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 271238,
+      "num": 271238,
+      "word": "国际空间站宇航服头盔漏水",
+      "onboard_time": 1659757057,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 268503,
+      "num": 268503,
+      "word": "明天见虞书欣小兰花",
+      "onboard_time": 1659754897,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 255324,
@@ -665,6 +777,14 @@
       "onboard_time": 1659710026,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240339,
+      "num": 240339,
+      "word": "王紫璇贝斯solo",
+      "onboard_time": 1659756395,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 228579,
@@ -745,6 +865,14 @@
       "onboard_time": 1659717334,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 176605,
+      "num": 176605,
+      "word": "沉香如屑",
+      "onboard_time": 1659754897,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 171302,
