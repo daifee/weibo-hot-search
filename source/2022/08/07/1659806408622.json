@@ -1,0 +1,410 @@
+{
+  "runTime": 1659806408622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1864038,
+        "num": 1864038,
+        "word": "疯产姐妹解散",
+        "onboard_time": 1659796839,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1680311,
+        "num": 1680311,
+        "word": "台湾发生轻航机坠机事故致2人死亡",
+        "onboard_time": 1659797496,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203328,
+        "num": 1411347,
+        "word": "48小时直击解放军实战演训",
+        "onboard_time": 1659775412,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1372946,
+        "num": 1372946,
+        "word": "台湾民众评论解放军台海军演",
+        "onboard_time": 1659782253,
+        "rank": 3,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 780472,
+        "num": 780472,
+        "word": "发疯学习法",
+        "onboard_time": 1659801513,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 689251,
+        "num": 689251,
+        "word": "男子霸坐产科沙发多名孕妇站一旁",
+        "onboard_time": 1659800615,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552429,
+        "num": 552429,
+        "word": "年轻人婚检积极性为啥不高",
+        "onboard_time": 1659797679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470419,
+        "num": 470419,
+        "word": "生腌为何突然爆火",
+        "onboard_time": 1659800015,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 354944,
+        "num": 354944,
+        "word": "范丞丞自曝百度身高是假的",
+        "onboard_time": 1659796296,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354446,
+        "num": 354446,
+        "word": "8万游客滞留三亚",
+        "onboard_time": 1659796839,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1381772,
+        "num": 348894,
+        "word": "德普",
+        "onboard_time": 1659800556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389278,
+        "num": 347755,
+        "word": "国内游客制止外籍人员偷拍解放军演训",
+        "onboard_time": 1659795153,
+        "rank": 11,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 309144,
+        "num": 309144,
+        "word": "1分钟呼吸入睡法",
+        "onboard_time": 1659786391,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 279265,
+        "num": 279265,
+        "word": "吴磊演我赖床",
+        "onboard_time": 1659806001,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275482,
+        "num": 275482,
+        "word": "不用精子卵子子宫科学家培育出胚胎",
+        "onboard_time": 1659788553,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 257602,
+        "num": 257602,
+        "word": "王鹤棣把赵灵儿说成赵盼儿",
+        "onboard_time": 1659799180,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256259,
+        "num": 256259,
+        "word": "戏精佩洛西",
+        "onboard_time": 1659786751,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 253723,
+        "num": 253723,
+        "word": "军事演训为国家统一创造了条件",
+        "onboard_time": 1659795033,
+        "rank": 17,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 250958,
+        "num": 250958,
+        "word": "奥比岛手游被指强买强卖",
+        "onboard_time": 1659804682,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237633,
+        "num": 237633,
+        "word": "没人可以拒绝狗狗的贴贴",
+        "onboard_time": 1659800255,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237244,
+        "num": 237244,
+        "word": "碰瓷的日本当心跳得高摔得惨",
+        "onboard_time": 1659798520,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 235488,
+        "num": 235488,
+        "word": "8月7日零时起上海全市疫情风险区清零",
+        "onboard_time": 1659785674,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217691,
+        "num": 217691,
+        "word": "黑话律师",
+        "onboard_time": 1659798882,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201418,
+        "num": 201418,
+        "word": "女子每月染发2次患药物性肝炎",
+        "onboard_time": 1659780572,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197279,
+        "num": 197279,
+        "word": "黄锐直播",
+        "onboard_time": 1659798644,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193587,
+        "num": 193587,
+        "word": "屏南万安桥着火",
+        "onboard_time": 1659802592,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191876,
+        "num": 191876,
+        "word": "王心凌张栋梁隔空合唱彩虹的微笑",
+        "onboard_time": 1659795994,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187721,
+        "num": 187721,
+        "word": "任嘉伦最难忘的是在机场工作",
+        "onboard_time": 1659799540,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186289,
+        "num": 186289,
+        "word": "台湾锈迹斑斑的护卫舰是从美国租来的",
+        "onboard_time": 1659781894,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 181661,
+        "num": 181661,
+        "word": "最新消息里根号航母已转向",
+        "onboard_time": 1659776971,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 812515,
+        "num": 180018,
+        "word": "微信朋友圈",
+        "onboard_time": 1659796296,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167649,
+        "num": 167649,
+        "word": "钱三一说心理需要和林妙妙同居",
+        "onboard_time": 1659799358,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 160836,
+        "word": "迪丽热巴 梦回高雯",
+        "onboard_time": 1659787234,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160438,
+        "num": 160438,
+        "word": "钱三一想多了",
+        "onboard_time": 1659804625,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157217,
+        "num": 157217,
+        "word": "重庆疫情防控",
+        "onboard_time": 1659796955,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143994,
+        "num": 143994,
+        "word": "抖音大嘴燕燕",
+        "onboard_time": 1659788013,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131412,
+        "num": 131412,
+        "word": "南京鼓楼一外省返宁人员核酸异常",
+        "onboard_time": 1659794615,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127947,
+        "num": 127947,
+        "word": "马嘉祺哭泣的游戏公交车花絮",
+        "onboard_time": 1659801693,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119070,
+        "num": 119070,
+        "word": "光与夜之恋",
+        "onboard_time": 1659787953,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116208,
+        "num": 116208,
+        "word": "30秒实弹射击原声震撼现场",
+        "onboard_time": 1659790175,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 116050,
+        "num": 116050,
+        "word": "周深说我很怕孤单很怕黑",
+        "onboard_time": 1659803069,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104878,
+        "num": 104878,
+        "word": "东部战区演训震慑台独效果明显",
+        "onboard_time": 1659789633,
+        "rank": 41,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 102941,
+        "num": 102941,
+        "word": "林妙妙把公司开了好飒",
+        "onboard_time": 1659786874,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95511,
+        "num": 95511,
+        "word": "男童泳池玩耍被排水口一秒吸入",
+        "onboard_time": 1659792273,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94139,
+        "num": 94139,
+        "word": "被电死柯基身上没有灼伤痕迹",
+        "onboard_time": 1659788976,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94122,
+        "num": 94122,
+        "word": "2022KPL夏季赛",
+        "onboard_time": 1659803550,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89831,
+        "num": 89831,
+        "word": "央视新闻这段唢呐蔡英文听懂了吗",
+        "onboard_time": 1659777274,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87012,
+        "num": 87012,
+        "word": "狗狗真的好可爱啊",
+        "onboard_time": 1659799299,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 74326,
+        "num": 74326,
+        "word": "Hero晋级季后赛及世冠",
+        "onboard_time": 1659798942,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62981,
+        "num": 62981,
+        "word": "万安桥",
+        "onboard_time": 1659797801,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方的反制有理有利有节#"
+    }
+  }
+}
