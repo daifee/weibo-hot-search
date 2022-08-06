@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659806408622,
+  "endTime": 1659807384262,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427132,
+      "num": 427132,
+      "word": "奥比岛手游被指强买强卖",
+      "onboard_time": 1659804682,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418014,
       "num": 418014,
       "word": "1分钟呼吸入睡法",
@@ -273,14 +281,6 @@
       "onboard_time": 1659802592,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250958,
-      "num": 250958,
-      "word": "奥比岛手游被指强买强卖",
-      "onboard_time": 1659804682,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 242990,
