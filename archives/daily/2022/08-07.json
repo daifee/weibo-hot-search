@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659803308983,
+  "endTime": 1659804604422,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -51,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896454,
+      "num": 896454,
+      "word": "发疯学习法",
+      "onboard_time": 1659801513,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 819712,
+      "num": 819712,
+      "word": "男子霸坐产科沙发多名孕妇站一旁",
+      "onboard_time": 1659800615,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681184,
       "num": 521540,
       "word": "国内游客制止外籍人员偷拍解放军演训",
@@ -75,14 +91,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 580364,
-      "num": 580364,
-      "word": "男子霸坐产科沙发多名孕妇站一旁",
-      "onboard_time": 1659800615,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 574290,
       "num": 574290,
       "word": "8万游客滞留三亚",
@@ -99,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 523770,
-      "num": 523770,
-      "word": "发疯学习法",
-      "onboard_time": 1659801513,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 502339,
       "num": 502339,
       "word": "不用精子卵子子宫科学家培育出胚胎",
       "onboard_time": 1659788553,
       "rank": 13,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 500833,
+      "num": 500833,
+      "word": "生腌为何突然爆火",
+      "onboard_time": 1659800015,
+      "rank": 17,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 471560,
@@ -137,14 +145,6 @@
       "onboard_time": 1659786391,
       "rank": 15,
       "category": "其它"
-    },
-    {
-      "raw_hot": 417780,
-      "num": 417780,
-      "word": "生腌为何突然爆火",
-      "onboard_time": 1659800015,
-      "rank": 17,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 410975,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 287800,
-      "num": 1496388,
+      "num": 2054727,
       "word": "48小时直击解放军实战演训",
       "onboard_time": 1659775412,
       "rank": 2,
@@ -227,8 +227,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267435,
-      "num": 267435,
+      "raw_hot": 274303,
+      "num": 274303,
+      "word": "没人可以拒绝狗狗的贴贴",
+      "onboard_time": 1659800255,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 273046,
+      "num": 273046,
       "word": "女子每月染发2次患药物性肝炎",
       "onboard_time": 1659780572,
       "rank": 25,
@@ -243,20 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248943,
-      "num": 248943,
+      "raw_hot": 263503,
+      "num": 263503,
       "word": "8月7日零时起上海全市疫情风险区清零",
       "onboard_time": 1659785674,
       "rank": 27,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245866,
-      "num": 245866,
-      "word": "没人可以拒绝狗狗的贴贴",
-      "onboard_time": 1659800255,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 255616,
+      "num": 255616,
+      "word": "屏南万安桥着火",
+      "onboard_time": 1659802592,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242990,
@@ -296,14 +304,6 @@
       "word": "万安桥",
       "onboard_time": 1659797801,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207221,
-      "num": 207221,
-      "word": "屏南万安桥着火",
-      "onboard_time": 1659802592,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -376,6 +376,14 @@
       "word": "Hero晋级季后赛及世冠",
       "onboard_time": 1659798942,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 155111,
+      "num": 155111,
+      "word": "2022KPL夏季赛",
+      "onboard_time": 1659803550,
+      "rank": 38,
       "category": "游戏"
     },
     {
