@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659771358402,
+  "endTime": 1659774372004,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -25,6 +25,14 @@
       "onboard_time": 1659743850,
       "rank": 0,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 4130990,
+      "num": 1294551,
+      "word": "6人吃617元烧烤扫8元趁机离开",
+      "onboard_time": 1659771210,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3450965,
@@ -81,6 +89,14 @@
       "onboard_time": 1659753634,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2492291,
+      "num": 2492291,
+      "word": "专家建议中国手机使用国产芯片",
+      "onboard_time": 1659770550,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 2379132,
@@ -291,6 +307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1226748,
+      "num": 1226748,
+      "word": "王心凌浪姐夺冠后首封",
+      "onboard_time": 1659770072,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1220676,
+      "num": 1220676,
+      "word": "杭州暴雨有多暴",
+      "onboard_time": 1659770430,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1209060,
       "num": 1209060,
       "word": "三亚对阳性感染者的时空伴随者赋黄码",
@@ -305,6 +337,14 @@
       "onboard_time": 1659762877,
       "rank": 46,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1175078,
+      "num": 1175078,
+      "word": "三亚凤凰机场进出港航班大面积取消",
+      "onboard_time": 1659768871,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1169829,
@@ -403,14 +443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 896032,
-      "num": 896032,
-      "word": "三亚凤凰机场进出港航班大面积取消",
-      "onboard_time": 1659768871,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 882354,
       "num": 882354,
       "word": "白宫附近雷击事件已致2人死亡",
@@ -467,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 747184,
-      "num": 747184,
-      "word": "王心凌浪姐夺冠后首封",
-      "onboard_time": 1659770072,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 770303,
+      "num": 770303,
+      "word": "缓刑男子汽车爆炸前救人获减刑",
+      "onboard_time": 1659769111,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728087,
@@ -497,14 +529,6 @@
       "onboard_time": 1659744572,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 694577,
-      "num": 694577,
-      "word": "缓刑男子汽车爆炸前救人获减刑",
-      "onboard_time": 1659769111,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 689738,
@@ -595,6 +619,30 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 596478,
+      "num": 596478,
+      "word": "三亚疫情防控",
+      "onboard_time": 1659773013,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589327,
+      "num": 589327,
+      "word": "沉香如屑香二代",
+      "onboard_time": 1659773075,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 588897,
+      "num": 588897,
+      "word": "TFBOYS成年后第一个合体舞台",
+      "onboard_time": 1659769351,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 587787,
       "num": 587787,
       "word": "赵小棠发的是喜糖吧",
@@ -609,6 +657,14 @@
       "onboard_time": 1659769832,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578360,
+      "num": 578360,
+      "word": "海贼王",
+      "onboard_time": 1659770368,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 570388,
@@ -667,6 +723,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 495117,
+      "num": 495117,
+      "word": "黄渤王一博亦师亦友",
+      "onboard_time": 1659773911,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 488895,
       "num": 488895,
       "word": "黄渤王一博摸头杀",
@@ -707,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476440,
+      "num": 476440,
+      "word": "爸爸神反应接摔倒儿子还吃了口菜",
+      "onboard_time": 1659770309,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472340,
       "num": 472340,
       "word": "于文文看郑秀妍的眼神",
@@ -731,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468600,
+      "num": 468600,
+      "word": "三亚针对滞留酒店游客提供半价优惠续住服务",
+      "onboard_time": 1659774152,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467995,
       "num": 467995,
       "word": "郑秀妍说郑秀晶会吃醋",
@@ -747,20 +827,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463519,
+      "num": 463519,
+      "word": "在西藏旅游收养了只流浪狗",
+      "onboard_time": 1659772775,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461958,
       "num": 461958,
       "word": "刘宇宁登录圆鱼洲",
       "onboard_time": 1659767372,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 458390,
-      "num": 458390,
-      "word": "专家建议中国手机使用国产芯片",
-      "onboard_time": 1659770550,
-      "rank": 18,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 457824,
@@ -819,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 431575,
-      "num": 431575,
-      "word": "TFBOYS成年后第一个合体舞台",
-      "onboard_time": 1659769351,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 429898,
       "num": 429898,
       "word": "你好星期六全员发糖",
@@ -875,19 +947,35 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 421432,
+      "num": 421432,
+      "word": "长津湖战役首炸水门桥英雄郭荣熙病逝",
+      "onboard_time": 1659769769,
+      "rank": 37,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 417507,
+      "num": 417507,
+      "word": "离开三亚的动车组列车已全部禁售",
+      "onboard_time": 1659774152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411972,
+      "num": 411972,
+      "word": "父母让你社死的瞬间",
+      "onboard_time": 1659770850,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411135,
       "num": 411135,
       "word": "上海气象局回应49度",
       "onboard_time": 1659741985,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408485,
-      "num": 408485,
-      "word": "杭州暴雨有多暴",
-      "onboard_time": 1659770430,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -905,6 +993,14 @@
       "onboard_time": 1659714879,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394906,
+      "num": 394906,
+      "word": "芝士世界be美学",
+      "onboard_time": 1659772591,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 394117,
@@ -939,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380079,
-      "num": 380079,
-      "word": "父母让你社死的瞬间",
-      "onboard_time": 1659770850,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362036,
       "num": 362036,
       "word": "长时间紫外线照射或造成基因突变",
@@ -969,6 +1057,14 @@
       "onboard_time": 1659712121,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350227,
+      "num": 350227,
+      "word": "26岁民警参与勘察任务牺牲",
+      "onboard_time": 1659770132,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349564,
@@ -1003,6 +1099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333887,
+      "num": 333887,
+      "word": "任嘉伦嗨放派2剧照",
+      "onboard_time": 1659772775,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 332554,
+      "num": 332554,
+      "word": "浙江本轮疫情6天之内出现五代病例",
+      "onboard_time": 1659773252,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326252,
       "num": 326252,
       "word": "沈阳51岁民警因公牺牲",
@@ -1019,28 +1131,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 317704,
-      "num": 317704,
-      "word": "26岁民警参与勘察任务牺牲",
-      "onboard_time": 1659770132,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313715,
-      "num": 313715,
+      "raw_hot": 318353,
+      "num": 318353,
       "word": "乘风破浪全员告别浪姐3",
       "onboard_time": 1659771274,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312114,
-      "num": 312114,
-      "word": "海贼王",
-      "onboard_time": 1659770368,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 309376,
@@ -1049,6 +1145,14 @@
       "onboard_time": 1659702518,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 309267,
+      "num": 309267,
+      "word": "吴磊问我甜还是酒甜",
+      "onboard_time": 1659772709,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 307414,
@@ -1064,6 +1168,14 @@
       "word": "河南增28例本土无症状",
       "onboard_time": 1659750933,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304119,
+      "num": 304119,
+      "word": "小伙西湖边跳千年等一回引来大妈斗舞",
+      "onboard_time": 1659772892,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1089,14 +1201,6 @@
       "onboard_time": 1659710741,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 285718,
-      "num": 285718,
-      "word": "长津湖战役首炸水门桥英雄郭荣熙病逝",
-      "onboard_time": 1659769769,
-      "rank": 37,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 284991,
@@ -1155,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272034,
+      "num": 265765,
+      "word": "独行月球",
+      "onboard_time": 1659772709,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268503,
       "num": 268503,
       "word": "明天见虞书欣小兰花",
@@ -1163,12 +1275,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268467,
+      "num": 268467,
+      "word": "上海一男子七夕凌晨掐脖殴打女友",
+      "onboard_time": 1659774033,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 259564,
+      "num": 259564,
+      "word": "有飞往三亚的航班已中途折返",
+      "onboard_time": 1659774093,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 255324,
       "num": 255324,
       "word": "彩虹夫妇账号绑定企业仅7人参保",
       "onboard_time": 1659697056,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254844,
+      "num": 254844,
+      "word": "87秒看东部战区演训第二天超燃现场",
+      "onboard_time": 1659771628,
+      "rank": 43,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 253013,
@@ -1259,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228523,
-      "num": 228523,
-      "word": "爸爸神反应接摔倒儿子还吃了口菜",
-      "onboard_time": 1659770309,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228332,
       "num": 228332,
       "word": "普鲁申科以足球运动员身份出道",
@@ -1353,14 +1481,6 @@
       "onboard_time": 1659704140,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 183765,
-      "num": 183765,
-      "word": "6人吃617元烧烤扫8元趁机离开",
-      "onboard_time": 1659771210,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179630,
