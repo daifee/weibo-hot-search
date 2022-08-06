@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659821748697,
+  "endTime": 1659824393666,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -14083,6 +14083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181422,
+      "num": 181422,
+      "word": "北京局地将有8至10级雷暴大风或冰雹",
+      "onboard_time": 1659821112,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179630,
       "num": 140734,
       "word": "雎晓雯控场级台步",
@@ -14105,6 +14113,14 @@
       "onboard_time": 1659348032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172753,
+      "num": 172753,
+      "word": "幼童被两只大狗撞飞1米多远",
+      "onboard_time": 1659817812,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 172456,
@@ -14281,14 +14297,6 @@
       "onboard_time": 1659395246,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134374,
-      "num": 66156,
-      "word": "幼童被两只大狗撞飞1米多远",
-      "onboard_time": 1659817812,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 132241,
@@ -14555,6 +14563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73850,
+      "num": 73850,
+      "word": "义乌新增34例新冠病毒阳性感染者",
+      "onboard_time": 1659818533,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73388,
       "num": 73388,
       "word": "原神宵宫复刻",
@@ -14611,14 +14627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56982,
-      "num": 56982,
-      "word": "义乌新增34例新冠病毒阳性感染者",
-      "onboard_time": 1659818533,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55679,
       "num": 740940,
       "word": "八一印记在祖国大地也在人民心中",
@@ -14665,6 +14673,14 @@
       "onboard_time": 1659386350,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48584,
+      "num": 48584,
+      "word": "周深追着郭麒麟用巧克力洗头",
+      "onboard_time": 1659820032,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 48235,
@@ -14771,28 +14787,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32089,
-      "num": 32089,
-      "word": "北京局地将有8至10级雷暴大风或冰雹",
-      "onboard_time": 1659821112,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28848,
       "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
       "onboard_time": 1659302111,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27215,
-      "num": 27215,
-      "word": "周深追着郭麒麟用巧克力洗头",
-      "onboard_time": 1659820032,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 26808,
@@ -14833,6 +14833,14 @@
       "onboard_time": 1659555072,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21749,
+      "num": 21749,
+      "word": "京城十二时辰",
+      "onboard_time": 1659821832,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 20550,
