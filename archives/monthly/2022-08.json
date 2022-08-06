@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659817280478,
+  "endTime": 1659818213731,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -14817,6 +14817,14 @@
       "onboard_time": 1659639252,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17402,
+      "num": 17402,
+      "word": "幼童被两只大狗撞飞1米多远",
+      "onboard_time": 1659817812,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 14876,
