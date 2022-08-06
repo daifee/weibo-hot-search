@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659785756372,
+  "endTime": 1659789369327,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3390678,
+      "num": 3390678,
+      "word": "台湾民众评论解放军台海军演",
+      "onboard_time": 1659782253,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 3312631,
       "num": 2408212,
       "word": "王毅说很久没听到美国说这种话了",
@@ -105,14 +113,6 @@
       "onboard_time": 1659760777,
       "rank": 37,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2628677,
-      "num": 2628677,
-      "word": "台湾民众评论解放军台海军演",
-      "onboard_time": 1659782253,
-      "rank": 47,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 2561748,
@@ -267,6 +267,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1637412,
+      "num": 1637412,
+      "word": "林妙妙把公司开了好飒",
+      "onboard_time": 1659786874,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1593924,
       "num": 1593924,
       "word": "三亚回程机票暴涨",
@@ -355,6 +363,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1420857,
+      "num": 1420857,
+      "word": "戏精佩洛西",
+      "onboard_time": 1659786751,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1419727,
       "num": 1419727,
       "word": "中方在台湾问题上的立场",
@@ -377,6 +393,14 @@
       "onboard_time": 1659770072,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1366278,
+      "num": 1366278,
+      "word": "8月7日零时起上海全市疫情风险区清零",
+      "onboard_time": 1659785674,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1355380,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055002,
+      "num": 692392,
+      "word": "抖音大嘴燕燕",
+      "onboard_time": 1659788013,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024056,
       "num": 1024056,
       "word": "离开三亚的动车组列车已全部禁售",
@@ -545,6 +577,14 @@
       "onboard_time": 1659753219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977627,
+      "num": 496145,
+      "word": "迪丽热巴 梦回高雯",
+      "onboard_time": 1659787234,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 974973,
@@ -779,12 +819,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 659940,
+      "num": 659940,
+      "word": "台岛周边演训第3天现场画面",
+      "onboard_time": 1659783272,
+      "rank": 20,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 647207,
       "num": 647207,
       "word": "空军飞行员目视距离俯瞰祖国宝岛",
       "onboard_time": 1659700841,
       "rank": 16,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 644604,
+      "num": 644604,
+      "word": "杨紫沉香如屑黑斗篷剧照",
+      "onboard_time": 1659787173,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 642059,
@@ -811,12 +867,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 630275,
+      "num": 630275,
+      "word": "男子被骗身无分文下跪借钱",
+      "onboard_time": 1659785851,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609254,
       "num": 609254,
       "word": "外交部宣布制裁佩洛西",
       "onboard_time": 1659688064,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 604783,
+      "num": 604783,
+      "word": "不用精子卵子子宫科学家培育出胚胎",
+      "onboard_time": 1659788553,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 602834,
@@ -827,12 +899,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 599982,
-      "num": 599982,
-      "word": "台岛周边演训第3天现场画面",
-      "onboard_time": 1659783272,
-      "rank": 20,
-      "category": "军事,社会新闻"
+      "raw_hot": 602238,
+      "num": 602238,
+      "word": "吴宣仪演唱会",
+      "onboard_time": 1659787712,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 597706,
+      "num": 597706,
+      "word": "时代少年团你好星期六下期预告",
+      "onboard_time": 1659788076,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 596927,
@@ -897,6 +977,14 @@
       "onboard_time": 1659777992,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 549610,
+      "num": 549610,
+      "word": "RNG状态",
+      "onboard_time": 1659784888,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 532509,
@@ -987,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496159,
+      "num": 496159,
+      "word": "解放军舰艇视角看宝岛",
+      "onboard_time": 1659787173,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 492564,
       "num": 492564,
       "word": "李雪琴和妈妈在家靠微信交流",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1659710322,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479250,
+      "num": 479250,
+      "word": "海南公布近期旅客离岛疫情防控措施",
+      "onboard_time": 1659785132,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477804,
@@ -1171,12 +1275,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 437609,
+      "num": 437609,
+      "word": "光与夜之恋",
+      "onboard_time": 1659787953,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 429898,
       "num": 429898,
       "word": "你好星期六全员发糖",
       "onboard_time": 1659754356,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429595,
+      "num": 429595,
+      "word": "明日方舟",
+      "onboard_time": 1659789094,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 428292,
@@ -1201,14 +1321,6 @@
       "onboard_time": 1659768033,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 425774,
-      "num": 425774,
-      "word": "RNG状态",
-      "onboard_time": 1659784888,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 424685,
@@ -1251,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407864,
+      "num": 407864,
+      "word": "你好星期六",
+      "onboard_time": 1659787774,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406067,
       "num": 406067,
       "word": "刘耀文预测自己能成为MVP",
@@ -1283,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390920,
+      "num": 390920,
+      "word": "文文 这是一颗以你名字命名的星球",
+      "onboard_time": 1659786272,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388489,
       "num": 302195,
       "word": "石家庄警方通报持刀伤人案详情",
@@ -1297,6 +1425,14 @@
       "onboard_time": 1659770731,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387970,
+      "num": 387970,
+      "word": "1分钟呼吸入睡法",
+      "onboard_time": 1659786391,
+      "rank": 32,
+      "category": "其它"
     },
     {
       "raw_hot": 385600,
@@ -1555,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282457,
+      "num": 282457,
+      "word": "警方通报男子餐馆殴打女友",
+      "onboard_time": 1659788852,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 277908,
       "num": 277908,
       "word": "西安麦田音乐节",
@@ -1611,12 +1755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255374,
+      "num": 216923,
+      "word": "张艺兴歌单今天是梦不落雨林",
+      "onboard_time": 1659786874,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255324,
       "num": 255324,
       "word": "彩虹夫妇账号绑定企业仅7人参保",
       "onboard_time": 1659697056,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254221,
+      "num": 216720,
+      "word": "ITZY演唱会饭拍",
+      "onboard_time": 1659787534,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 253013,
@@ -1683,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244565,
+      "num": 244565,
+      "word": "七旬老伯种出15斤重巨型葫芦",
+      "onboard_time": 1659787054,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242559,
       "num": 242559,
       "word": "海南将开展全省核酸检测",
@@ -1705,14 +1873,6 @@
       "onboard_time": 1659756395,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239871,
-      "num": 239871,
-      "word": "海南公布近期旅客离岛疫情防控措施",
-      "onboard_time": 1659785132,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238839,
@@ -1795,6 +1955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 214193,
+      "num": 214193,
+      "word": "被电死柯基身上没有灼伤痕迹",
+      "onboard_time": 1659788976,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210929,
       "num": 210929,
       "word": "小伙把千里江山图整活了",
@@ -1843,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193015,
+      "num": 193015,
+      "word": "覆盖全身的超级项链有多豪华",
+      "onboard_time": 1659788672,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187706,
       "num": 187706,
       "word": "驻欧盟使团发言人正告七国集团",
@@ -1865,6 +2041,14 @@
       "onboard_time": 1659717334,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179087,
+      "num": 179087,
+      "word": "大连人1比1上海海港",
+      "onboard_time": 1659786874,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 176605,
@@ -1928,14 +2112,6 @@
       "word": "三亚新增189例确诊",
       "onboard_time": 1659697778,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149341,
-      "num": 149341,
-      "word": "8月7日零时起上海全市疫情风险区清零",
-      "onboard_time": 1659785674,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
