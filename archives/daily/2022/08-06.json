@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659757546569,
+  "endTime": 1659758219068,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2557460,
-      "num": 984702,
+      "num": 1197094,
       "word": "女子登记结婚时才承认自己是大专",
       "onboard_time": 1659753634,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1659749976,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1879515,
+      "num": 1879515,
+      "word": "王俊凯断桥抽烟镜头",
+      "onboard_time": 1659757057,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1849115,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1355380,
+      "num": 502699,
+      "word": "赵露思蓝色公主裙",
+      "onboard_time": 1659757357,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1324286,
       "num": 512985,
       "word": "TFBOYS的十年之约剩一年了",
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1209485,
+      "num": 1209485,
+      "word": "三亚回程机票暴涨",
+      "onboard_time": 1659755916,
+      "rank": 11,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1209060,
       "num": 1209060,
       "word": "三亚对阳性感染者的时空伴随者赋黄码",
@@ -177,14 +201,6 @@
       "onboard_time": 1659706838,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1149451,
-      "num": 481075,
-      "word": "赵露思蓝色公主裙",
-      "onboard_time": 1659757357,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1149151,
@@ -235,20 +251,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 970119,
-      "num": 970119,
-      "word": "三亚回程机票暴涨",
-      "onboard_time": 1659755916,
-      "rank": 11,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 964260,
       "num": 964260,
       "word": "女子耳朵痛痒难耐拆开枕头全是虫",
       "onboard_time": 1659704079,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960356,
+      "num": 960356,
+      "word": "黄海南部海域6日起实弹射击",
+      "onboard_time": 1659754299,
+      "rank": 12,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 952999,
@@ -267,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 928862,
-      "num": 928862,
-      "word": "黄海南部海域6日起实弹射击",
-      "onboard_time": 1659754299,
-      "rank": 12,
-      "category": "军事,国内要闻"
+      "raw_hot": 945016,
+      "num": 945016,
+      "word": "台北市搜到30多家山东水饺",
+      "onboard_time": 1659756756,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 894688,
-      "num": 894688,
-      "word": "王俊凯断桥抽烟镜头",
-      "onboard_time": 1659757057,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 885930,
+      "num": 3172539,
+      "word": "完全有决心有办法有能力维护国家统一",
+      "onboard_time": 1659749316,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 882354,
@@ -291,8 +307,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 838084,
-      "num": 838084,
+      "raw_hot": 857764,
+      "num": 857764,
       "word": "为何iPhone14取消涨价计划",
       "onboard_time": 1659754417,
       "rank": 15,
@@ -305,14 +321,6 @@
       "onboard_time": 1659713560,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814350,
-      "num": 3172539,
-      "word": "完全有决心有办法有能力维护国家统一",
-      "onboard_time": 1659749316,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 795602,
@@ -419,16 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495444,
-      "num": 495444,
-      "word": "台北市搜到30多家山东水饺",
-      "onboard_time": 1659756756,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486737,
-      "num": 486737,
+      "raw_hot": 504182,
+      "num": 504182,
       "word": "彭昱畅告别向往的生活",
       "onboard_time": 1659747814,
       "rank": 38,
@@ -603,6 +603,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 344722,
+      "num": 344722,
+      "word": "国际空间站宇航服头盔漏水",
+      "onboard_time": 1659757057,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 340372,
       "num": 340372,
       "word": "石家庄新乐新增8例阳性",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326252,
+      "num": 326252,
+      "word": "沈阳51岁民警因公牺牲",
+      "onboard_time": 1659755438,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325739,
       "num": 325739,
       "word": "河北最孤独的图书馆",
@@ -635,20 +651,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 321271,
-      "num": 321271,
-      "word": "沈阳51岁民警因公牺牲",
-      "onboard_time": 1659755438,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309376,
       "num": 309376,
       "word": "外交部回应中方同美日外长激烈交锋",
       "onboard_time": 1659702518,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 309030,
+      "num": 309030,
+      "word": "上海一女子反送小哥奶茶",
+      "onboard_time": 1659757832,
+      "rank": 29,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 307414,
@@ -699,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274427,
+      "num": 274427,
+      "word": "父母让小学生开车上高速",
+      "onboard_time": 1659757832,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274154,
       "num": 274154,
       "word": "宋亚轩夏日运动会饭拍",
@@ -715,20 +739,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 271238,
-      "num": 271238,
-      "word": "国际空间站宇航服头盔漏水",
-      "onboard_time": 1659757057,
-      "rank": 33,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 268503,
       "num": 268503,
       "word": "明天见虞书欣小兰花",
       "onboard_time": 1659754897,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259332,
+      "num": 259332,
+      "word": "赵立坚再发文推介长沙",
+      "onboard_time": 1659757597,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255324,
@@ -873,6 +897,14 @@
       "onboard_time": 1659754897,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172456,
+      "num": 172456,
+      "word": "超淡定消防员一秒抓蛇惊呆群众",
+      "onboard_time": 1659758078,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171302,
