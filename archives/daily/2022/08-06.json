@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659795519958,
+  "endTime": 1659796510038,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -331,6 +331,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1538906,
+      "num": 1538906,
+      "word": "南京鼓楼一外省返宁人员核酸异常",
+      "onboard_time": 1659794615,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1532762,
       "num": 1532762,
       "word": "赵立坚再发文推介长沙",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173347,
+      "num": 1173347,
+      "word": "男童泳池玩耍被排水口一秒吸入",
+      "onboard_time": 1659792273,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1169829,
       "num": 925755,
       "word": "日本领导人在台湾问题上表现非常不好",
@@ -675,14 +691,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 877864,
-      "num": 877864,
-      "word": "男童泳池玩耍被排水口一秒吸入",
-      "onboard_time": 1659792273,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 867887,
       "num": 867887,
       "word": "上海一女子反送小哥奶茶",
@@ -723,6 +731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 831689,
+      "num": 831689,
+      "word": "军事演训为国家统一创造了条件",
+      "onboard_time": 1659795033,
+      "rank": 28,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 819733,
       "num": 819733,
       "word": "河南长出的新冠特效药",
@@ -731,20 +747,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818522,
+      "num": 518735,
+      "word": "国内游客制止外籍人员偷拍解放军演训",
+      "onboard_time": 1659795153,
+      "rank": 31,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 795602,
       "num": 795602,
       "word": "眉飞色舞 难看",
       "onboard_time": 1659716136,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 784564,
-      "num": 784564,
-      "word": "南京鼓楼一外省返宁人员核酸异常",
-      "onboard_time": 1659794615,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770714,
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641981,
+      "num": 641981,
+      "word": "王心凌张栋梁隔空合唱彩虹的微笑",
+      "onboard_time": 1659795994,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640971,
       "num": 640971,
       "word": "王俊凯马思纯cp感",
@@ -945,6 +969,14 @@
       "onboard_time": 1659785851,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615717,
+      "num": 615717,
+      "word": "1分钟呼吸入睡法",
+      "onboard_time": 1659786391,
+      "rank": 32,
+      "category": "其它"
     },
     {
       "raw_hot": 615142,
@@ -995,14 +1027,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 594899,
-      "num": 594899,
-      "word": "1分钟呼吸入睡法",
-      "onboard_time": 1659786391,
-      "rank": 32,
-      "category": "其它"
-    },
-    {
       "raw_hot": 588897,
       "num": 588897,
       "word": "TFBOYS成年后第一个合体舞台",
@@ -1027,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 583015,
+      "num": 583015,
+      "word": "突然就治好了我的年龄焦虑",
+      "onboard_time": 1659793771,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578360,
       "num": 578360,
       "word": "海贼王",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1659777212,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573639,
-      "num": 573639,
-      "word": "突然就治好了我的年龄焦虑",
-      "onboard_time": 1659793771,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 570388,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1659770309,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494079,
+      "num": 194541,
+      "word": "张颜齐赵磊同台合唱",
+      "onboard_time": 1659796474,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 492564,
@@ -1491,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407539,
+      "num": 407539,
+      "word": "范丞丞自曝百度身高是假的",
+      "onboard_time": 1659796296,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406067,
       "num": 406067,
       "word": "刘耀文预测自己能成为MVP",
@@ -1691,12 +1731,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 336426,
-      "num": 336426,
-      "word": "军事演训为国家统一创造了条件",
-      "onboard_time": 1659795033,
-      "rank": 28,
-      "category": "军事,国内要闻"
+      "raw_hot": 335612,
+      "num": 318377,
+      "word": "沉香如屑断更第二天",
+      "onboard_time": 1659795275,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 334947,
@@ -1787,20 +1827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311154,
+      "num": 311154,
+      "word": "AG对战Hero",
+      "onboard_time": 1659795636,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309376,
       "num": 309376,
       "word": "外交部回应中方同美日外长激烈交锋",
       "onboard_time": 1659702518,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 308826,
-      "num": 308826,
-      "word": "国内游客制止外籍人员偷拍解放军演训",
-      "onboard_time": 1659795153,
-      "rank": 31,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 307414,
@@ -1827,8 +1867,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301174,
-      "num": 301174,
+      "raw_hot": 302783,
+      "num": 302783,
       "word": "济南天空现军魂云朵",
       "onboard_time": 1659791077,
       "rank": 43,
@@ -1945,14 +1985,6 @@
       "onboard_time": 1659793654,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256239,
-      "num": 256239,
-      "word": "沉香如屑断更第二天",
-      "onboard_time": 1659795275,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 255374,
@@ -2139,12 +2171,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 218072,
+      "num": 218072,
+      "word": "微信朋友圈",
+      "onboard_time": 1659796296,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 217009,
       "num": 217009,
       "word": "山东热成灿东了",
       "onboard_time": 1659707679,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216683,
+      "num": 216683,
+      "word": "WBG战胜FPX",
+      "onboard_time": 1659795454,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 215113,
@@ -2249,14 +2297,6 @@
       "onboard_time": 1659704140,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 180330,
-      "num": 180330,
-      "word": "WBG战胜FPX",
-      "onboard_time": 1659795454,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 179630,
