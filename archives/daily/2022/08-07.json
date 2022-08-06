@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659828081116,
+  "endTime": 1659829012121,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 940255,
+      "num": 940255,
+      "word": "从三亚出来的人去哪儿了",
+      "onboard_time": 1659808278,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896454,
       "num": 896454,
       "word": "发疯学习法",
@@ -59,19 +67,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 827169,
+      "num": 827169,
+      "word": "立秋",
+      "onboard_time": 1659827477,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819712,
       "num": 819712,
       "word": "男子霸坐产科沙发多名孕妇站一旁",
       "onboard_time": 1659800615,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766296,
-      "num": 766296,
-      "word": "从三亚出来的人去哪儿了",
-      "onboard_time": 1659808278,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1659795033,
       "rank": 6,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 614869,
-      "num": 614869,
-      "word": "立秋",
-      "onboard_time": 1659827477,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 574290,
@@ -139,8 +139,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 500354,
-      "num": 500354,
+      "raw_hot": 500365,
+      "num": 500365,
       "word": "北京局地将有8至10级雷暴大风或冰雹",
       "onboard_time": 1659821112,
       "rank": 26,
@@ -161,6 +161,14 @@
       "onboard_time": 1659795994,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442242,
+      "num": 442242,
+      "word": "幼童被两只大狗撞飞1米多远",
+      "onboard_time": 1659817812,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 427132,
@@ -185,14 +193,6 @@
       "onboard_time": 1659786751,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 394629,
-      "num": 394629,
-      "word": "幼童被两只大狗撞飞1米多远",
-      "onboard_time": 1659817812,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 392017,
@@ -225,6 +225,14 @@
       "onboard_time": 1659798882,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320998,
+      "num": 320998,
+      "word": "三亚新增160例确诊病例",
+      "onboard_time": 1659827960,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314513,
@@ -283,19 +291,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273623,
+      "num": 273623,
+      "word": "浙江本轮疫情系奥密克戎BA.5.2变异株",
+      "onboard_time": 1659808158,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273046,
       "num": 273046,
       "word": "女子每月染发2次患药物性肝炎",
       "onboard_time": 1659780572,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265278,
-      "num": 265278,
-      "word": "浙江本轮疫情系奥密克戎BA.5.2变异株",
-      "onboard_time": 1659808158,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -331,12 +339,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242586,
+      "num": 242586,
+      "word": "梅西倒钩破门",
+      "onboard_time": 1659828139,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237278,
+      "num": 237278,
+      "word": "重庆合川一居民核酸阳性故意瞒报",
+      "onboard_time": 1659827899,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237154,
       "num": 237154,
       "word": "最新消息里根号航母已转向",
       "onboard_time": 1659776971,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 231734,
+      "num": 231734,
+      "word": "独行月球后劲好大",
+      "onboard_time": 1659791135,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 222480,
@@ -427,12 +459,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 175363,
-      "num": 175363,
-      "word": "独行月球后劲好大",
-      "onboard_time": 1659791135,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 171370,
+      "num": 171370,
+      "word": "秋天的第一个节气",
+      "onboard_time": 1659828080,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169141,
@@ -441,6 +473,14 @@
       "onboard_time": 1659789633,
       "rank": 45,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 168734,
+      "num": 168734,
+      "word": "七月电费多少钱",
+      "onboard_time": 1659828379,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 165627,
@@ -491,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141009,
-      "num": 141009,
-      "word": "三亚新增160例确诊病例",
-      "onboard_time": 1659827960,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138892,
       "num": 138892,
       "word": "周深追着郭麒麟用巧克力洗头",
       "onboard_time": 1659820032,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122290,
+      "num": 122290,
+      "word": "立秋不意味着变凉快",
+      "onboard_time": 1659828679,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112571,
@@ -515,11 +555,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73409,
-      "num": 73409,
-      "word": "重庆合川一居民核酸阳性故意瞒报",
-      "onboard_time": 1659827899,
-      "rank": 44,
+      "raw_hot": 97762,
+      "num": 97762,
+      "word": "滞留三亚的游客发声",
+      "onboard_time": 1659828861,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78565,
+      "num": 78565,
+      "word": "我国现存最长木拱廊桥失火",
+      "onboard_time": 1659828981,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
