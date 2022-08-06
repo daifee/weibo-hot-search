@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659761250414,
+  "endTime": 1659763136183,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -83,6 +83,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 2351240,
+      "num": 2351240,
+      "word": "韩媒称韩国外长朴振下周将访华",
+      "onboard_time": 1659760777,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2295741,
       "num": 1879515,
       "word": "王俊凯断桥抽烟镜头",
@@ -105,6 +113,14 @@
       "onboard_time": 1659749976,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1954949,
+      "num": 1954949,
+      "word": "苹果手表首个中文表盘",
+      "onboard_time": 1659760237,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 1849115,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907638,
+      "num": 907638,
+      "word": "上海冰雹",
+      "onboard_time": 1659762156,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 885930,
       "num": 3172539,
       "word": "完全有决心有办法有能力维护国家统一",
@@ -339,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 841488,
+      "num": 841488,
+      "word": "杨迪说36年都没这么生气过",
+      "onboard_time": 1659759519,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 819733,
       "num": 819733,
       "word": "河南长出的新冠特效药",
@@ -352,14 +384,6 @@
       "word": "眉飞色舞 难看",
       "onboard_time": 1659716136,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 763307,
-      "num": 763307,
-      "word": "杨迪说36年都没这么生气过",
-      "onboard_time": 1659759519,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -411,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678129,
+      "num": 678129,
+      "word": "张新成这么多年校服路透",
+      "onboard_time": 1659763055,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 674174,
       "num": 674174,
       "word": "Twins下一站天后 爷青回",
@@ -433,6 +465,22 @@
       "onboard_time": 1659700841,
       "rank": 16,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 640971,
+      "num": 640971,
+      "word": "王俊凯马思纯cp感",
+      "onboard_time": 1659760598,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 630653,
+      "num": 630653,
+      "word": "00后女生进厂考试算错小学数学题",
+      "onboard_time": 1659758497,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 609254,
@@ -467,30 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560407,
-      "num": 560407,
-      "word": "苹果手表首个中文表盘",
-      "onboard_time": 1659760237,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 549993,
-      "num": 549993,
-      "word": "00后女生进厂考试算错小学数学题",
-      "onboard_time": 1659758497,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 527581,
-      "num": 527581,
-      "word": "王俊凯马思纯cp感",
-      "onboard_time": 1659760598,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 513413,
       "num": 513413,
       "word": "海南增本土确诊262例",
@@ -513,6 +537,14 @@
       "onboard_time": 1659747814,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498166,
+      "num": 498166,
+      "word": "刘宇宁苍兰诀寻一个你MV",
+      "onboard_time": 1659761737,
+      "rank": 22,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 485809,
@@ -539,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471410,
+      "num": 471410,
+      "word": "我军远域慑止能力得到提升",
+      "onboard_time": 1659759396,
+      "rank": 48,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 471065,
       "num": 471065,
       "word": "见过对医院的最高评价",
@@ -561,6 +601,14 @@
       "onboard_time": 1659743488,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448859,
+      "num": 448859,
+      "word": "张天爱晒十八宫格告别乘风破浪",
+      "onboard_time": 1659762156,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 439640,
@@ -739,6 +787,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 320827,
+      "num": 320827,
+      "word": "河南明确核酸检测结果全国互认",
+      "onboard_time": 1659762218,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309376,
       "num": 309376,
       "word": "外交部回应中方同美日外长激烈交锋",
@@ -787,6 +843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 278346,
+      "num": 278346,
+      "word": "长春舰穿越所谓海峡中线",
+      "onboard_time": 1659762635,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 275984,
       "num": 275984,
       "word": "月升沧海",
@@ -809,6 +873,14 @@
       "onboard_time": 1659721579,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 273161,
+      "num": 273161,
+      "word": "谭维维给郑秀妍擦眼泪",
+      "onboard_time": 1659762574,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 268503,
@@ -875,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237222,
-      "num": 237222,
-      "word": "韩媒称韩国外长朴振下周将访华",
-      "onboard_time": 1659760777,
-      "rank": 37,
-      "category": "国外要闻"
+      "raw_hot": 230475,
+      "num": 230475,
+      "word": "上海暴雨",
+      "onboard_time": 1659762757,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228579,
@@ -923,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201163,
-      "num": 201163,
-      "word": "我军远域慑止能力得到提升",
-      "onboard_time": 1659759396,
-      "rank": 48,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 193572,
       "num": 193572,
       "word": "北京拟试点老年人贷款买房",
@@ -945,6 +1009,14 @@
       "onboard_time": 1659741863,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188069,
+      "num": 188069,
+      "word": "台湾省地图里的全国美食",
+      "onboard_time": 1659762877,
+      "rank": 46,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 187706,
@@ -993,6 +1065,14 @@
       "onboard_time": 1659705040,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171082,
+      "num": 171082,
+      "word": "黄旭淘汰",
+      "onboard_time": 1659763113,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 169070,

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659761250414,
+  "endTime": 1659763136183,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2351240,
+      "num": 2351240,
+      "word": "韩媒称韩国外长朴振下周将访华",
+      "onboard_time": 1659760777,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2345887,
       "num": 2345887,
       "word": "想去台湾省吃山西刀削面",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1659515271,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1954949,
+      "num": 1954949,
+      "word": "苹果手表首个中文表盘",
+      "onboard_time": 1659760237,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 1953102,
@@ -3899,6 +3915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 907638,
+      "num": 907638,
+      "word": "上海冰雹",
+      "onboard_time": 1659762156,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906372,
       "num": 930309,
       "word": "安乐传",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1659425864,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841488,
+      "num": 841488,
+      "word": "杨迪说36年都没这么生气过",
+      "onboard_time": 1659759519,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 840053,
@@ -4593,14 +4625,6 @@
       "onboard_time": 1659670120,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 763307,
-      "num": 763307,
-      "word": "杨迪说36年都没这么生气过",
-      "onboard_time": 1659759519,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 763305,
@@ -5155,6 +5179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 678129,
+      "num": 678129,
+      "word": "张新成这么多年校服路透",
+      "onboard_time": 1659763055,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 677572,
       "num": 677572,
       "word": "吴露可逃 甜",
@@ -5411,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 640971,
+      "num": 640971,
+      "word": "王俊凯马思纯cp感",
+      "onboard_time": 1659760598,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 640426,
       "num": 603815,
       "word": "无效显瘦vs有效显瘦",
@@ -5449,6 +5489,14 @@
       "onboard_time": 1659468376,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630653,
+      "num": 630653,
+      "word": "00后女生进厂考试算错小学数学题",
+      "onboard_time": 1659758497,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 630571,
@@ -6131,14 +6179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 560407,
-      "num": 560407,
-      "word": "苹果手表首个中文表盘",
-      "onboard_time": 1659760237,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 559967,
       "num": 559967,
       "word": "雪允",
@@ -6193,14 +6233,6 @@
       "onboard_time": 1659584079,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 549993,
-      "num": 549993,
-      "word": "00后女生进厂考试算错小学数学题",
-      "onboard_time": 1659758497,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 549733,
@@ -6440,14 +6472,6 @@
       "word": "天才基本法",
       "onboard_time": 1659536811,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 527581,
-      "num": 527581,
-      "word": "王俊凯马思纯cp感",
-      "onboard_time": 1659760598,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -6817,6 +6841,14 @@
       "onboard_time": 1659611315,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498166,
+      "num": 498166,
+      "word": "刘宇宁苍兰诀寻一个你MV",
+      "onboard_time": 1659761737,
+      "rank": 22,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 497513,
@@ -7195,6 +7227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471410,
+      "num": 471410,
+      "word": "我军远域慑止能力得到提升",
+      "onboard_time": 1659759396,
+      "rank": 48,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 471065,
       "num": 471065,
       "word": "见过对医院的最高评价",
@@ -7545,6 +7585,14 @@
       "onboard_time": 1659407262,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 448859,
+      "num": 448859,
+      "word": "张天爱晒十八宫格告别乘风破浪",
+      "onboard_time": 1659762156,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 448451,
@@ -9963,6 +10011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320827,
+      "num": 320827,
+      "word": "河南明确核酸检测结果全国互认",
+      "onboard_time": 1659762218,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320715,
       "num": 320715,
       "word": "BLACKPINK九月回归",
@@ -10779,6 +10835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278346,
+      "num": 278346,
+      "word": "长春舰穿越所谓海峡中线",
+      "onboard_time": 1659762635,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 277260,
       "num": 277260,
       "word": "林彦俊我在时间尽头等你彩排剧照",
@@ -10913,6 +10977,14 @@
       "onboard_time": 1659339510,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273161,
+      "num": 273161,
+      "word": "谭维维给郑秀妍擦眼泪",
+      "onboard_time": 1659762574,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 273045,
@@ -11611,14 +11683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237222,
-      "num": 237222,
-      "word": "韩媒称韩国外长朴振下周将访华",
-      "onboard_time": 1659760777,
-      "rank": 37,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 236657,
       "num": 236657,
       "word": "裴之伤害自己",
@@ -12243,14 +12307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201163,
-      "num": 201163,
-      "word": "我军远域慑止能力得到提升",
-      "onboard_time": 1659759396,
-      "rank": 48,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 200344,
       "num": 200344,
       "word": "一家三代四口人完成遗体捐献",
@@ -12459,6 +12515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188069,
+      "num": 188069,
+      "word": "台湾省地图里的全国美食",
+      "onboard_time": 1659762877,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 186590,
       "num": 186590,
       "word": "当张靓颖的画心全是海豚音",
@@ -12553,6 +12617,14 @@
       "onboard_time": 1659758078,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171082,
+      "num": 171082,
+      "word": "黄旭淘汰",
+      "onboard_time": 1659763113,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 170857,
