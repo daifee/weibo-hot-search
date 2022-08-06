@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659799272578,
+  "endTime": 1659800308774,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -697,6 +697,14 @@
       "onboard_time": 1659619841,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 4016438,
+      "num": 4016438,
+      "word": "台湾发生轻航机坠机事故致2人死亡",
+      "onboard_time": 1659797496,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3975728,
@@ -1607,14 +1615,6 @@
       "num": 1360796,
       "word": "男子杀鸡取出宝称价值6位数",
       "onboard_time": 1659764193,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2318912,
-      "num": 2318912,
-      "word": "台湾发生轻航机坠机事故致2人死亡",
-      "onboard_time": 1659797496,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -3579,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121904,
+      "num": 1121904,
+      "word": "年轻人婚检积极性为啥不高",
+      "onboard_time": 1659797679,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118256,
       "num": 1118256,
       "word": "三只松鼠回应招聘要求松鼠式微笑",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1659754417,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 857558,
+      "num": 676599,
+      "word": "黄锐直播",
+      "onboard_time": 1659798644,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 856637,
@@ -5659,14 +5675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 676599,
-      "num": 676599,
-      "word": "黄锐直播",
-      "onboard_time": 1659798644,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 676289,
       "num": 676289,
       "word": "睡衣女子头顶吹风机到消防站求助",
@@ -5896,14 +5904,6 @@
       "word": "台风",
       "onboard_time": 1659582815,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 647859,
-      "num": 647859,
-      "word": "年轻人婚检积极性为啥不高",
-      "onboard_time": 1659797679,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -6849,6 +6849,14 @@
       "onboard_time": 1659434636,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 555047,
+      "num": 555047,
+      "word": "王鹤棣把赵灵儿说成赵盼儿",
+      "onboard_time": 1659799180,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 554762,
@@ -9955,6 +9963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370464,
+      "num": 370464,
+      "word": "Hero晋级季后赛及世冠",
+      "onboard_time": 1659798942,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 370271,
       "num": 370271,
       "word": "张杰星汉游唱出辽阔宇宙",
@@ -10057,6 +10073,14 @@
       "onboard_time": 1659583778,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 366108,
+      "num": 366108,
+      "word": "黑话律师",
+      "onboard_time": 1659798882,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 365924,
@@ -10427,6 +10451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350398,
+      "num": 309025,
+      "word": "任嘉伦最难忘的是在机场工作",
+      "onboard_time": 1659799540,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350289,
       "num": 350289,
       "word": "体操协会打假艺术体操世界冠军",
@@ -10745,6 +10777,14 @@
       "onboard_time": 1659796653,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334439,
+      "num": 334439,
+      "word": "碰瓷的日本当心跳得高摔得惨",
+      "onboard_time": 1659798520,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 334281,
@@ -11355,14 +11395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308512,
-      "num": 262870,
-      "word": "黑话律师",
-      "onboard_time": 1659798882,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307906,
       "num": 307906,
       "word": "四川的大暴雨要来了",
@@ -11859,6 +11891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284452,
+      "num": 284452,
+      "word": "钱三一说心理需要和林妙妙同居",
+      "onboard_time": 1659799358,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284058,
       "num": 284058,
       "word": "双航母编队同框训练场景会越来越多",
@@ -12139,14 +12179,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 272720,
-      "num": 272720,
-      "word": "Hero晋级季后赛及世冠",
-      "onboard_time": 1659798942,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 272513,
       "num": 272513,
       "word": "人民军队初心如炬征途如虹",
@@ -12323,14 +12355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264944,
-      "num": 264944,
-      "word": "碰瓷的日本当心跳得高摔得惨",
-      "onboard_time": 1659798520,
-      "rank": 38,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 264542,
       "num": 264542,
       "word": "善于伪装的西瓜刺客",
@@ -12393,14 +12417,6 @@
       "onboard_time": 1659399698,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261167,
-      "num": 261167,
-      "word": "王鹤棣把赵灵儿说成赵盼儿",
-      "onboard_time": 1659799180,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 261121,
@@ -12497,6 +12513,14 @@
       "onboard_time": 1659532547,
       "rank": 44,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 258433,
+      "num": 227856,
+      "word": "年轻人和宠物相处多有梗",
+      "onboard_time": 1659799597,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 258413,
@@ -13179,6 +13203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228361,
+      "num": 228361,
+      "word": "Hero战胜AG",
+      "onboard_time": 1659798278,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228332,
       "num": 228332,
       "word": "普鲁申科以足球运动员身份出道",
@@ -13313,6 +13345,14 @@
       "onboard_time": 1659512990,
       "rank": 46,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 222115,
+      "num": 222115,
+      "word": "狗狗真的好可爱啊",
+      "onboard_time": 1659799299,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 221672,
@@ -13707,6 +13747,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 197233,
+      "num": 197233,
+      "word": "生腌为何突然爆火",
+      "onboard_time": 1659800015,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 196762,
       "num": 196762,
       "word": "WB战胜TTG",
@@ -13985,6 +14033,14 @@
       "onboard_time": 1659270330,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170401,
+      "num": 170401,
+      "word": "没人可以拒绝狗狗的贴贴",
+      "onboard_time": 1659800255,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 168962,
