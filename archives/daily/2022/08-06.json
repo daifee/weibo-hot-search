@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659778592601,
+  "endTime": 1659781350202,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -41,6 +41,14 @@
       "onboard_time": 1659771210,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3919106,
+      "num": 3919106,
+      "word": "最新消息里根号航母已转向",
+      "onboard_time": 1659776971,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 3450965,
@@ -97,6 +105,14 @@
       "onboard_time": 1659753634,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2533339,
+      "num": 851792,
+      "word": "央视新闻这段唢呐蔡英文听懂了吗",
+      "onboard_time": 1659777274,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2492291,
@@ -171,6 +187,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1848065,
+      "num": 1848065,
+      "word": "马思纯为角色减重20斤",
+      "onboard_time": 1659780032,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1813619,
       "num": 1813619,
       "word": "三亚针对滞留酒店游客提供半价优惠续住服务",
@@ -203,6 +227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1702598,
+      "num": 1702598,
+      "word": "多个海事局发布航行警告",
+      "onboard_time": 1659775714,
+      "rank": 15,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 1678806,
       "num": 1678806,
       "word": "日媒称岸田计划撤换日防卫大臣岸信夫",
@@ -217,6 +249,14 @@
       "onboard_time": 1659755916,
       "rank": 11,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1584830,
+      "num": 1584830,
+      "word": "00后明星还有多少惊喜",
+      "onboard_time": 1659780274,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1578256,
@@ -265,14 +305,6 @@
       "onboard_time": 1659752378,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1451599,
-      "num": 910697,
-      "word": "最新消息里根号航母已转向",
-      "onboard_time": 1659776971,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 1440107,
@@ -435,14 +467,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 1129956,
-      "num": 434876,
-      "word": "央视新闻这段唢呐蔡英文听懂了吗",
-      "onboard_time": 1659777274,
-      "rank": 23,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1064385,
       "num": 982201,
       "word": "女子不小心弄丢男友送的劳力士被起诉",
@@ -513,6 +537,14 @@
       "onboard_time": 1659749316,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 884084,
+      "num": 884084,
+      "word": "东部战区继续台岛周边实战化演训",
+      "onboard_time": 1659778235,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 882354,
@@ -595,20 +627,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 723938,
+      "num": 723938,
+      "word": "袁慎是当官不是当宦官",
+      "onboard_time": 1659778953,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 720508,
       "num": 556751,
       "word": "黄奕女儿乘风破浪追星赢家",
       "onboard_time": 1659758857,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 718400,
-      "num": 718400,
-      "word": "多个海事局发布航行警告",
-      "onboard_time": 1659775714,
-      "rank": 15,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 717187,
@@ -763,6 +795,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 577674,
+      "num": 577674,
+      "word": "三亚新增80例本土确诊",
+      "onboard_time": 1659777212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574846,
+      "num": 574846,
+      "word": "百度地图上线台湾省实景共建功能",
+      "onboard_time": 1659779555,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 570388,
       "num": 570388,
       "word": "女子去水上乐园游泳后耳朵得脚气",
@@ -771,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561768,
+      "num": 561768,
+      "word": "饿了么",
+      "onboard_time": 1659777992,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 532509,
       "num": 532509,
       "word": "100秒直击解放军演训第二天",
       "onboard_time": 1659763893,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 522614,
+      "num": 522614,
+      "word": "48小时直击解放军实战演训",
+      "onboard_time": 1659775412,
+      "rank": 30,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 513413,
@@ -825,6 +889,14 @@
       "onboard_time": 1659764614,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 499288,
+      "num": 499288,
+      "word": "10个月萌宝偷啃烤鸭满嘴流油",
+      "onboard_time": 1659778411,
+      "rank": 45,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 498166,
@@ -921,6 +993,14 @@
       "onboard_time": 1659702758,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464586,
+      "num": 464586,
+      "word": "李雪琴和妈妈在家靠微信交流",
+      "onboard_time": 1659779973,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 463519,
@@ -1075,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410394,
-      "num": 410394,
-      "word": "饿了么",
-      "onboard_time": 1659777992,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 408388,
       "num": 408388,
       "word": "湖北一商场聚集千人踩气球找钻戒",
@@ -1147,12 +1219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385150,
+      "num": 385150,
+      "word": "大连海事局发航行警告",
+      "onboard_time": 1659779012,
+      "rank": 25,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 381195,
       "num": 381195,
       "word": "GALI悬浮术舞台蒙眼开唱",
       "onboard_time": 1659777393,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377516,
+      "num": 377516,
+      "word": "女子每月染发2次患药物性肝炎",
+      "onboard_time": 1659780572,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362036,
@@ -1267,20 +1355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317971,
-      "num": 317971,
-      "word": "48小时直击解放军实战演训",
-      "onboard_time": 1659775412,
-      "rank": 30,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 317737,
       "num": 317737,
       "word": "独行月球",
       "onboard_time": 1659772709,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317217,
+      "num": 317217,
+      "word": "RNG对战iG",
+      "onboard_time": 1659779674,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 316704,
@@ -1323,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301749,
-      "num": 301749,
-      "word": "东部战区继续台岛周边实战化演训",
-      "onboard_time": 1659778235,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
       "raw_hot": 292514,
       "num": 292514,
       "word": "上海核酸检测有效时间计算规则调整",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1659765391,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277908,
+      "num": 277908,
+      "word": "西安麦田音乐节",
+      "onboard_time": 1659780451,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 275984,
@@ -1435,6 +1523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 252171,
+      "num": 252171,
+      "word": "应渊你跟人家唐周学学",
+      "onboard_time": 1659780572,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250319,
       "num": 250319,
       "word": "3个动作帮孩子长个",
@@ -1499,6 +1595,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237718,
+      "num": 237718,
+      "word": "美政客应深刻领会何为玩火者必自焚",
+      "onboard_time": 1659780812,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 233518,
+      "num": 233518,
+      "word": "云南人对菌菇有多热爱",
+      "onboard_time": 1659778589,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 230695,
+      "num": 230695,
+      "word": "海南将开展全省核酸检测",
+      "onboard_time": 1659779312,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228579,
       "num": 228579,
       "word": "8月5日新增本土确诊310例",
@@ -1515,20 +1635,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 226671,
+      "num": 226671,
+      "word": "广播剧纸飞机",
+      "onboard_time": 1659778654,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225875,
       "num": 225875,
       "word": "解读中方对美八项反制措施",
       "onboard_time": 1659742043,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 217671,
-      "num": 217671,
-      "word": "三亚新增80例本土确诊",
-      "onboard_time": 1659777212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217009,
@@ -1539,12 +1659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216310,
+      "num": 216310,
+      "word": "国际全息隐形传输首次实现",
+      "onboard_time": 1659779133,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 215113,
       "num": 215113,
       "word": "香港特区政府坚决反对任何外部势力干预中国内部事务",
       "onboard_time": 1659765993,
       "rank": 42,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 214472,
+      "num": 161532,
+      "word": "上海中考成绩",
+      "onboard_time": 1659781294,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 207105,
@@ -1561,14 +1697,6 @@
       "onboard_time": 1659700661,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196258,
-      "num": 196258,
-      "word": "10个月萌宝偷啃烤鸭满嘴流油",
-      "onboard_time": 1659778411,
-      "rank": 45,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 196078,
@@ -1625,14 +1753,6 @@
       "onboard_time": 1659754897,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173935,
-      "num": 173935,
-      "word": "云南人对菌菇有多热爱",
-      "onboard_time": 1659778589,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 172456,
