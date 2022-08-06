@@ -1,6 +1,6 @@
 {
   "startTime": 1659717218885,
-  "endTime": 1659763136183,
+  "endTime": 1659764113502,
   "band_list": [
     {
       "raw_hot": 11849570,
@@ -59,6 +59,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2675735,
+      "num": 2675735,
+      "word": "韩媒称韩国外长朴振下周将访华",
+      "onboard_time": 1659760777,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2561748,
       "num": 2561748,
       "word": "江西幼儿园命案嫌疑人抢救无效死亡",
@@ -81,14 +89,6 @@
       "onboard_time": 1659747454,
       "rank": 4,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 2351240,
-      "num": 2351240,
-      "word": "韩媒称韩国外长朴振下周将访华",
-      "onboard_time": 1659760777,
-      "rank": 37,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2295741,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1355380,
-      "num": 556868,
+      "num": 569436,
       "word": "赵露思蓝色公主裙",
       "onboard_time": 1659757357,
       "rank": 20,
@@ -225,6 +225,14 @@
       "onboard_time": 1659749254,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1307484,
+      "num": 1307484,
+      "word": "上海冰雹",
+      "onboard_time": 1659762156,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1234777,
@@ -323,15 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 907638,
-      "num": 907638,
-      "word": "上海冰雹",
-      "onboard_time": 1659762156,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885930,
+      "raw_hot": 903958,
       "num": 3172539,
       "word": "完全有决心有办法有能力维护国家统一",
       "onboard_time": 1659749316,
@@ -355,20 +355,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 857792,
+      "num": 857792,
+      "word": "杨迪说36年都没这么生气过",
+      "onboard_time": 1659759519,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 857764,
       "num": 857764,
       "word": "为何iPhone14取消涨价计划",
       "onboard_time": 1659754417,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 841488,
-      "num": 841488,
-      "word": "杨迪说36年都没这么生气过",
-      "onboard_time": 1659759519,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 819733,
@@ -385,6 +385,14 @@
       "onboard_time": 1659716136,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 770714,
+      "num": 770714,
+      "word": "张新成这么多年校服路透",
+      "onboard_time": 1659763055,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 728087,
@@ -435,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 678129,
-      "num": 678129,
-      "word": "张新成这么多年校服路透",
-      "onboard_time": 1659763055,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 674174,
       "num": 674174,
       "word": "Twins下一站天后 爷青回",
       "onboard_time": 1659707801,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 663345,
+      "num": 663345,
+      "word": "长春舰穿越所谓海峡中线",
+      "onboard_time": 1659762635,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 660781,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484550,
+      "num": 484550,
+      "word": "断桥",
+      "onboard_time": 1659763175,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483957,
       "num": 483957,
       "word": "乘风破浪成团名单",
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428292,
+      "num": 428292,
+      "word": "河南明确核酸检测结果全国互认",
+      "onboard_time": 1659762218,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427793,
       "num": 427793,
       "word": "再也不敢在朋友圈emo了",
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403309,
+      "num": 403309,
+      "word": "台湾省地图里的全国美食",
+      "onboard_time": 1659762877,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 394117,
       "num": 394117,
       "word": "乘风破浪总决赛 不是直播",
@@ -712,6 +744,14 @@
       "word": "王心凌说今晚七点半见",
       "onboard_time": 1659755556,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369295,
+      "num": 369295,
+      "word": "黄旭淘汰",
+      "onboard_time": 1659763113,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -787,14 +827,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 320827,
-      "num": 320827,
-      "word": "河南明确核酸检测结果全国互认",
-      "onboard_time": 1659762218,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309376,
       "num": 309376,
       "word": "外交部回应中方同美日外长激烈交锋",
@@ -843,14 +875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 278346,
-      "num": 278346,
-      "word": "长春舰穿越所谓海峡中线",
-      "onboard_time": 1659762635,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 275984,
       "num": 275984,
       "word": "月升沧海",
@@ -881,6 +905,14 @@
       "onboard_time": 1659762574,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272898,
+      "num": 272898,
+      "word": "上海暴雨",
+      "onboard_time": 1659762757,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268503,
@@ -947,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230475,
-      "num": 230475,
-      "word": "上海暴雨",
-      "onboard_time": 1659762757,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228579,
       "num": 228579,
       "word": "8月5日新增本土确诊310例",
@@ -969,6 +993,14 @@
       "onboard_time": 1659742043,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 224759,
+      "num": 224759,
+      "word": "100秒直击解放军演训第二天",
+      "onboard_time": 1659763893,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 217009,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1659741863,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188069,
-      "num": 188069,
-      "word": "台湾省地图里的全国美食",
-      "onboard_time": 1659762877,
-      "rank": 46,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 187706,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1659705040,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171082,
-      "num": 171082,
-      "word": "黄旭淘汰",
-      "onboard_time": 1659763113,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 169070,
@@ -1188,6 +1204,9 @@
     },
     {
       "word": "#践行共商共建共享的全球治理观#"
+    },
+    {
+      "word": "#解放军演训最新视频#"
     }
   ]
 }
