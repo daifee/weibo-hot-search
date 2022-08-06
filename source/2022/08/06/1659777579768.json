@@ -1,0 +1,410 @@
+{
+  "runTime": 1659777579768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4635173,
+        "num": 4770346,
+        "word": "美媒称中方拒接美军高层电话",
+        "onboard_time": 1659775773,
+        "rank": 0,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1813619,
+        "num": 1813619,
+        "word": "三亚针对滞留酒店游客提供半价优惠续住服务",
+        "onboard_time": 1659774152,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432605,
+        "num": 1627859,
+        "word": "完全有决心有办法有能力维护国家统一",
+        "onboard_time": 1659749316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2139875,
+        "num": 1580623,
+        "word": "6人吃617元烧烤扫8元趁机离开",
+        "onboard_time": 1659771210,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1529547,
+        "num": 1529547,
+        "word": "有飞往三亚的航班已中途折返",
+        "onboard_time": 1659774093,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1455754,
+        "num": 1455754,
+        "word": "专家建议中国手机使用国产芯片",
+        "onboard_time": 1659770550,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1421689,
+        "num": 1421689,
+        "word": "教授建议台湾半导体产能迁往大陆",
+        "onboard_time": 1659774512,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1125934,
+        "num": 1125934,
+        "word": "王心凌浪姐夺冠后首封",
+        "onboard_time": 1659770072,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 897080,
+        "num": 897080,
+        "word": "离开三亚的动车组列车已全部禁售",
+        "onboard_time": 1659774152,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890361,
+        "num": 890361,
+        "word": "渤海海域8日起执行军事任务",
+        "onboard_time": 1659775171,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1578256,
+        "num": 888510,
+        "word": "上海一男子七夕凌晨掐脖殴打女友",
+        "onboard_time": 1659774033,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 885082,
+        "num": 885082,
+        "word": "解放军抵近台湾海岸线照片",
+        "onboard_time": 1659743850,
+        "rank": 11,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 738395,
+        "num": 738395,
+        "word": "男子网购山药脆片吃出润滑油污渍",
+        "onboard_time": 1659774873,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688246,
+        "num": 688246,
+        "word": "浙江本轮疫情6天之内出现五代病例",
+        "onboard_time": 1659773252,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684568,
+        "num": 684568,
+        "word": "沉香如屑香二代",
+        "onboard_time": 1659773075,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635192,
+        "num": 635192,
+        "word": "多个海事局发布航行警告",
+        "onboard_time": 1659775714,
+        "rank": 15,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 587720,
+        "num": 587720,
+        "word": "杭州暴雨有多暴",
+        "onboard_time": 1659770430,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443707,
+        "num": 443707,
+        "word": "爸爸神反应接摔倒儿子还吃了口菜",
+        "onboard_time": 1659770309,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436836,
+        "num": 436836,
+        "word": "三亚疫情防控",
+        "onboard_time": 1659773013,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432591,
+        "num": 432591,
+        "word": "TFBOYS成年后第一个合体舞台",
+        "onboard_time": 1659769351,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 425908,
+        "num": 425908,
+        "word": "Mirror演唱会事故调查最新进展",
+        "onboard_time": 1659775953,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 423167,
+        "num": 423167,
+        "word": "女子登记结婚时才承认自己是大专",
+        "onboard_time": 1659753634,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381195,
+        "num": 381195,
+        "word": "GALI悬浮术舞台蒙眼开唱",
+        "onboard_time": 1659777393,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377513,
+        "num": 377513,
+        "word": "央视新闻这段唢呐蔡英文听懂了吗",
+        "onboard_time": 1659777274,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 354294,
+        "num": 354294,
+        "word": "海贼王",
+        "onboard_time": 1659770368,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 352417,
+        "num": 352417,
+        "word": "在西藏旅游收养了只流浪狗",
+        "onboard_time": 1659772775,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334597,
+        "num": 334597,
+        "word": "缓刑男子汽车爆炸前救人获减刑",
+        "onboard_time": 1659769111,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331233,
+        "num": 331233,
+        "word": "吴磊问我甜还是酒甜",
+        "onboard_time": 1659772709,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313721,
+        "num": 313721,
+        "word": "87秒看东部战区演训第二天超燃现场",
+        "onboard_time": 1659771628,
+        "rank": 28,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 311622,
+        "num": 311622,
+        "word": "最新消息里根号航母已转向",
+        "onboard_time": 1659776971,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 305870,
+        "num": 305870,
+        "word": "48小时直击解放军实战演训",
+        "onboard_time": 1659775412,
+        "rank": 30,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 305347,
+        "num": 305347,
+        "word": "王俊凯马思纯cp感",
+        "onboard_time": 1659760598,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303260,
+        "num": 303260,
+        "word": "独行月球",
+        "onboard_time": 1659772709,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284562,
+        "num": 284562,
+        "word": "吴谨言晒合照告别乘风破浪",
+        "onboard_time": 1659774691,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277033,
+        "num": 277033,
+        "word": "海南本轮疫情累计525例确诊",
+        "onboard_time": 1659776850,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275732,
+        "num": 275732,
+        "word": "赵露思蓝色公主裙",
+        "onboard_time": 1659757357,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270949,
+        "num": 270949,
+        "word": "长津湖战役首炸水门桥英雄郭荣熙病逝",
+        "onboard_time": 1659769769,
+        "rank": 36,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 270170,
+        "num": 270170,
+        "word": "黄渤王一博亦师亦友",
+        "onboard_time": 1659773911,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265754,
+        "num": 265754,
+        "word": "小伙西湖边跳千年等一回引来大妈斗舞",
+        "onboard_time": 1659772892,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264553,
+        "num": 264553,
+        "word": "26岁民警参与勘察任务牺牲",
+        "onboard_time": 1659770132,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263725,
+        "num": 263725,
+        "word": "TT失控舞台失控",
+        "onboard_time": 1659765152,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232039,
+        "num": 232039,
+        "word": "阿娇说Twins还是Twins",
+        "onboard_time": 1659768089,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228840,
+        "num": 228840,
+        "word": "男子吃清炒滴水观音后呕吐中毒",
+        "onboard_time": 1659764733,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215422,
+        "num": 215422,
+        "word": "韩媒称韩国外长朴振下周将访华",
+        "onboard_time": 1659760777,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 213075,
+        "num": 213075,
+        "word": "男子杀鸡取出宝称价值6位数",
+        "onboard_time": 1659764193,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203861,
+        "num": 203861,
+        "word": "三亚凤凰机场进出港航班大面积取消",
+        "onboard_time": 1659768871,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202247,
+        "num": 202247,
+        "word": "芝士世界be美学",
+        "onboard_time": 1659772591,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182427,
+        "num": 182427,
+        "word": "中方在台湾问题上的立场",
+        "onboard_time": 1659766173,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180085,
+        "num": 180085,
+        "word": "父母让你社死的瞬间",
+        "onboard_time": 1659770850,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177849,
+        "num": 177849,
+        "word": "三亚新增80例本土确诊",
+        "onboard_time": 1659777212,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行共商共建共享的全球治理观#"
+    }
+  }
+}
