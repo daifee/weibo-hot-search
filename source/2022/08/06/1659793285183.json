@@ -1,0 +1,410 @@
+{
+  "runTime": 1659793285183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4105913,
+        "num": 4105913,
+        "word": "不用精子卵子子宫科学家培育出胚胎",
+        "onboard_time": 1659788553,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 3026357,
+        "num": 3026357,
+        "word": "台湾民众评论解放军台海军演",
+        "onboard_time": 1659782253,
+        "rank": 1,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 365284,
+        "num": 1925153,
+        "word": "48小时直击解放军实战演训",
+        "onboard_time": 1659775412,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1694682,
+        "num": 1694682,
+        "word": "被电死柯基身上没有灼伤痕迹",
+        "onboard_time": 1659788976,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451100,
+        "num": 1451100,
+        "word": "鹿晗为邓紫棋宣传新歌",
+        "onboard_time": 1659791915,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1426985,
+        "num": 1426985,
+        "word": "戏精佩洛西",
+        "onboard_time": 1659786751,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1187850,
+        "num": 1187850,
+        "word": "林妙妙把公司开了好飒",
+        "onboard_time": 1659786874,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1116054,
+        "num": 1116054,
+        "word": "最新消息里根号航母已转向",
+        "onboard_time": 1659776971,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 988462,
+        "num": 988462,
+        "word": "央视新闻这段唢呐蔡英文听懂了吗",
+        "onboard_time": 1659777274,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 922656,
+        "num": 922656,
+        "word": "东部战区演训震慑台独效果明显",
+        "onboard_time": 1659789633,
+        "rank": 9,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 992147,
+        "num": 900846,
+        "word": "抖音大嘴燕燕",
+        "onboard_time": 1659788013,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803279,
+        "num": 803279,
+        "word": "吴宣仪演唱会",
+        "onboard_time": 1659787712,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 667248,
+        "num": 667248,
+        "word": "台湾锈迹斑斑的护卫舰是从美国租来的",
+        "onboard_time": 1659781894,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 658748,
+        "num": 658748,
+        "word": "虞书欣王鹤棣危险派对",
+        "onboard_time": 1659791616,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621999,
+        "num": 621999,
+        "word": "8月7日零时起上海全市疫情风险区清零",
+        "onboard_time": 1659785674,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538263,
+        "num": 538263,
+        "word": "旅文局回应酒店半价比预订价格高",
+        "onboard_time": 1659790713,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527182,
+        "num": 527182,
+        "word": "陈卓璇 音乐节",
+        "onboard_time": 1659792095,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506987,
+        "num": 506987,
+        "word": "警方通报男子餐馆殴打女友",
+        "onboard_time": 1659788852,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 501144,
+        "num": 501144,
+        "word": "解放军舰艇视角看宝岛",
+        "onboard_time": 1659787173,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 455830,
+        "num": 455830,
+        "word": "1分钟呼吸入睡法",
+        "onboard_time": 1659786391,
+        "rank": 19,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 674060,
+        "num": 455417,
+        "word": "迪丽热巴 梦回高雯",
+        "onboard_time": 1659787234,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449028,
+        "num": 449028,
+        "word": "打火机与公主裙角色开通微博账号",
+        "onboard_time": 1659791437,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447565,
+        "num": 447565,
+        "word": "杨紫沉香如屑黑斗篷剧照",
+        "onboard_time": 1659787173,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375609,
+        "num": 375609,
+        "word": "东部战区继续台岛周边实战化演训",
+        "onboard_time": 1659778235,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 364221,
+        "num": 364221,
+        "word": "身体摆烂是大脑缺觉给的警告",
+        "onboard_time": 1659781232,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359271,
+        "num": 359271,
+        "word": "男子被骗身无分文下跪借钱",
+        "onboard_time": 1659785851,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356738,
+        "num": 356738,
+        "word": "七旬老伯种出15斤重巨型葫芦",
+        "onboard_time": 1659787054,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352553,
+        "num": 352553,
+        "word": "女子每月染发2次患药物性肝炎",
+        "onboard_time": 1659780572,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336865,
+        "num": 336865,
+        "word": "天才基本法6个机位吻戏",
+        "onboard_time": 1659790835,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325549,
+        "num": 325549,
+        "word": "光与夜之恋",
+        "onboard_time": 1659787953,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333911,
+        "num": 325121,
+        "word": "独行月球后劲好大",
+        "onboard_time": 1659791135,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324155,
+        "num": 324155,
+        "word": "男童泳池玩耍被排水口一秒吸入",
+        "onboard_time": 1659792273,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307137,
+        "num": 307137,
+        "word": "魏大勋10秒还原自己的脸",
+        "onboard_time": 1659793053,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306714,
+        "num": 306714,
+        "word": "申留真演唱会solo舞台",
+        "onboard_time": 1659790956,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305526,
+        "num": 305526,
+        "word": "时代少年团你好星期六下期预告",
+        "onboard_time": 1659788076,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305153,
+        "num": 305153,
+        "word": "30秒实弹射击原声震撼现场",
+        "onboard_time": 1659790175,
+        "rank": 35,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 299933,
+        "num": 299933,
+        "word": "海南公布近期旅客离岛疫情防控措施",
+        "onboard_time": 1659785132,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294026,
+        "num": 294026,
+        "word": "明日方舟",
+        "onboard_time": 1659789094,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291078,
+        "num": 291078,
+        "word": "文文 这是一颗以你名字命名的星球",
+        "onboard_time": 1659786272,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277441,
+        "num": 277441,
+        "word": "台岛周边演训第3天现场画面",
+        "onboard_time": 1659783272,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 280933,
+        "num": 277068,
+        "word": "你好星期六",
+        "onboard_time": 1659787774,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240140,
+        "num": 240140,
+        "word": "济南天空现军魂云朵",
+        "onboard_time": 1659791077,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237792,
+        "num": 237792,
+        "word": "上海一男子七夕凌晨掐脖殴打女友",
+        "onboard_time": 1659774033,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 230352,
+        "num": 230352,
+        "word": "RNG状态",
+        "onboard_time": 1659784888,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222012,
+        "num": 222012,
+        "word": "XYG晋级季后赛及世冠",
+        "onboard_time": 1659790417,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220977,
+        "num": 220977,
+        "word": "百度地图上线台湾省实景共建功能",
+        "onboard_time": 1659779555,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 213491,
+        "num": 213491,
+        "word": "6人吃617元烧烤扫8元趁机离开",
+        "onboard_time": 1659771210,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175145,
+        "num": 175145,
+        "word": "一转身我就爱上了",
+        "onboard_time": 1659791077,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168081,
+        "num": 168081,
+        "word": "珍稀白色重瓣并蒂莲现身云南普者黑",
+        "onboard_time": 1659791796,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164933,
+        "num": 164933,
+        "word": "大连人1比1上海海港",
+        "onboard_time": 1659786874,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方的反制有理有利有节#"
+    }
+  }
+}
