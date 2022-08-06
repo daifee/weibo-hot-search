@@ -1,0 +1,410 @@
+{
+  "runTime": 1659753143864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8911661,
+        "num": 10161661,
+        "word": "台湾省地图上山西刀削面店老板发声",
+        "onboard_time": 1659749856,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4397712,
+        "num": 4397712,
+        "word": "解放军抵近台湾海岸线照片",
+        "onboard_time": 1659743850,
+        "rank": 1,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 380929,
+        "num": 3172539,
+        "word": "完全有决心有办法有能力维护国家统一",
+        "onboard_time": 1659749316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2515680,
+        "num": 2515680,
+        "word": "约8万游客滞留三亚",
+        "onboard_time": 1659747154,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2379132,
+        "num": 2379132,
+        "word": "苹果要求供应商不得单独标注台湾",
+        "onboard_time": 1659747454,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 2025887,
+        "num": 2025887,
+        "word": "张艺兴背吴义帆",
+        "onboard_time": 1659749976,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1847382,
+        "num": 1847382,
+        "word": "即便台海爆发冲突美国也没胜算",
+        "onboard_time": 1659750815,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1243278,
+        "num": 1243278,
+        "word": "不肖子孙蔡英文",
+        "onboard_time": 1659711101,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1020735,
+        "num": 1020735,
+        "word": "无人认领行李箱被当盲盒售卖",
+        "onboard_time": 1659743850,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793539,
+        "num": 793539,
+        "word": "网红主播自曝收入意欲何为",
+        "onboard_time": 1659718227,
+        "rank": 9,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 917042,
+        "num": 783042,
+        "word": "女子不小心弄丢男友送的劳力士被起诉",
+        "onboard_time": 1659742706,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762143,
+        "num": 762143,
+        "word": "王毅说很久没听到美国说这种话了",
+        "onboard_time": 1659708458,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 735424,
+        "num": 735424,
+        "word": "狗狗被关车内踩油门将车开走追尾",
+        "onboard_time": 1659746074,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708360,
+        "num": 708360,
+        "word": "东部战区出动海陆空英雄部队",
+        "onboard_time": 1659706240,
+        "rank": 13,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 624751,
+        "num": 624751,
+        "word": "美团单车宣布涨价",
+        "onboard_time": 1659746852,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 593782,
+        "num": 593782,
+        "word": "Billkin感染新冠",
+        "onboard_time": 1659744572,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590306,
+        "num": 590306,
+        "word": "王毅警告美国不要轻举妄动",
+        "onboard_time": 1659740540,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 581160,
+        "num": 581160,
+        "word": "那英 成了团没什么用",
+        "onboard_time": 1659707801,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539585,
+        "num": 539585,
+        "word": "佩洛西窜访台湾六宗罪",
+        "onboard_time": 1659745171,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 513554,
+        "num": 513554,
+        "word": "女子去水上乐园游泳后耳朵得脚气",
+        "onboard_time": 1659745534,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1285014,
+        "num": 513329,
+        "word": "华春莹称中国身后是160多个国家",
+        "onboard_time": 1659743607,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 970476,
+        "num": 512985,
+        "word": "TFBOYS的十年之约剩一年了",
+        "onboard_time": 1659749254,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512426,
+        "num": 512426,
+        "word": "向前冲8月7日播出",
+        "onboard_time": 1659752137,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506263,
+        "num": 506263,
+        "word": "长春舰",
+        "onboard_time": 1659751958,
+        "rank": 23,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 486737,
+        "num": 486737,
+        "word": "彭昱畅告别向往的生活",
+        "onboard_time": 1659747814,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445260,
+        "num": 445260,
+        "word": "江西幼儿园命案致4死",
+        "onboard_time": 1659751416,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 415235,
+        "num": 415235,
+        "word": "海南增本土确诊262例",
+        "onboard_time": 1659748837,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380834,
+        "num": 380834,
+        "word": "乘风破浪 婚礼现场",
+        "onboard_time": 1659711399,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379395,
+        "num": 379395,
+        "word": "这笔账解放军用行动给他们算明白",
+        "onboard_time": 1659742226,
+        "rank": 28,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 375714,
+        "num": 375714,
+        "word": "广东增本土确诊11例无症状2例",
+        "onboard_time": 1659749793,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362036,
+        "num": 362036,
+        "word": "长时间紫外线照射或造成基因突变",
+        "onboard_time": 1659748354,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358204,
+        "num": 358204,
+        "word": "男子跳河轻生扑腾40分钟学会游泳",
+        "onboard_time": 1659752378,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337926,
+        "num": 337926,
+        "word": "白宫附近雷击事件已致3人死亡",
+        "onboard_time": 1659748896,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 334947,
+        "num": 334947,
+        "word": "新疆伊犁州新增无症状感染者38例",
+        "onboard_time": 1659751296,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314871,
+        "num": 314871,
+        "word": "张俪 女团梦该醒啦",
+        "onboard_time": 1659715478,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304554,
+        "num": 304554,
+        "word": "3男子在志愿军公园水壶雕像下洗澡",
+        "onboard_time": 1659743488,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302459,
+        "num": 302459,
+        "word": "上海气象局回应49度",
+        "onboard_time": 1659741985,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297918,
+        "num": 297918,
+        "word": "河北最孤独的图书馆",
+        "onboard_time": 1659750275,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 287162,
+        "num": 287162,
+        "word": "河南增28例本土无症状",
+        "onboard_time": 1659750933,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283735,
+        "num": 283735,
+        "word": "三亚对阳性感染者的时空伴随者赋黄码",
+        "onboard_time": 1659752314,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270226,
+        "num": 270226,
+        "word": "张嘉倪版的佟湘玉好美",
+        "onboard_time": 1659736814,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216084,
+        "num": 216084,
+        "word": "00后服装设计师作品被碧昂丝穿上",
+        "onboard_time": 1659721579,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 205155,
+        "num": 205155,
+        "word": "沙溢认出赵丽颖没认出胡可",
+        "onboard_time": 1659709901,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203629,
+        "num": 203629,
+        "word": "海南三亚实行临时性全域静态管理",
+        "onboard_time": 1659741143,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200613,
+        "num": 200613,
+        "word": "东部战区继续位台岛周边联合演训",
+        "onboard_time": 1659708763,
+        "rank": 44,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 189262,
+        "num": 189262,
+        "word": "赵露思迪士尼",
+        "onboard_time": 1659702758,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177579,
+        "num": 177579,
+        "word": "宋亚轩夏日运动会饭拍",
+        "onboard_time": 1659749375,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173527,
+        "num": 173527,
+        "word": "山东热成灿东了",
+        "onboard_time": 1659707679,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284556,
+        "num": 171250,
+        "word": "江西幼儿园命案嫌疑人抢救无效死亡",
+        "onboard_time": 1659714822,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168414,
+        "num": 168414,
+        "word": "上海核酸检测有效时间计算规则调整",
+        "onboard_time": 1659743128,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行共商共建共享的全球治理观#"
+    }
+  }
+}
