@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659846575474,
+  "endTime": 1659847687642,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2388417,
+      "num": 2388417,
+      "word": "海南省长称做好打大仗的准备",
+      "onboard_time": 1659841411,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2241330,
       "num": 2241330,
       "word": "滞留三亚的游客发声",
@@ -59,12 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2102468,
-      "num": 2102468,
-      "word": "海南省长称做好打大仗的准备",
-      "onboard_time": 1659841411,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1855313,
+      "num": 1855313,
+      "word": "一起共建台湾省实景地图",
+      "onboard_time": 1659844112,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1747865,
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1555145,
-      "num": 1555145,
-      "word": "一起共建台湾省实景地图",
-      "onboard_time": 1659844112,
-      "rank": 35,
-      "category": "科技,社会新闻"
+      "raw_hot": 1577366,
+      "num": 1577366,
+      "word": "封闭空调房待久或引发呼吸性碱中毒",
+      "onboard_time": 1659844590,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1542791,
@@ -171,12 +179,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1108244,
+      "num": 1108244,
+      "word": "三亚感染者6天超800例",
+      "onboard_time": 1659843333,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028086,
       "num": 1028086,
       "word": "黄奕在于正新书里扮贵妃",
       "onboard_time": 1659842733,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 948095,
+      "num": 948095,
+      "word": "华晨宇说杨幂直觉超准",
+      "onboard_time": 1659844590,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 940255,
@@ -193,6 +217,14 @@
       "onboard_time": 1659828379,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 903536,
+      "num": 903536,
+      "word": "秋天的第一杯奶茶",
+      "onboard_time": 1659846392,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 896454,
@@ -219,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823037,
+      "num": 823037,
+      "word": "初级会计考题超纲",
+      "onboard_time": 1659846213,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 819712,
       "num": 819712,
       "word": "男子霸坐产科沙发多名孕妇站一旁",
       "onboard_time": 1659800615,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781791,
-      "num": 781791,
-      "word": "华晨宇说杨幂直觉超准",
-      "onboard_time": 1659844590,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 758303,
@@ -267,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 722339,
+      "num": 722339,
+      "word": "金刚鼠5000万根毛发真实还原",
+      "onboard_time": 1659846213,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681184,
       "num": 521540,
       "word": "国内游客制止外籍人员偷拍解放军演训",
@@ -275,28 +315,20 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 658772,
-      "num": 658772,
-      "word": "封闭空调房待久或引发呼吸性碱中毒",
-      "onboard_time": 1659844590,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 647561,
-      "num": 647561,
-      "word": "三亚感染者6天超800例",
-      "onboard_time": 1659843333,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 638300,
       "num": 638300,
       "word": "范丞丞自曝百度身高是假的",
       "onboard_time": 1659796296,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 635030,
+      "num": 635030,
+      "word": "玉骨遥",
+      "onboard_time": 1659846090,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 633705,
@@ -321,6 +353,14 @@
       "onboard_time": 1659834391,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594072,
+      "num": 561258,
+      "word": "马嘉祺看球赛的三个阶段",
+      "onboard_time": 1659847351,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 579784,
@@ -371,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 537352,
-      "num": 537352,
-      "word": "玉骨遥",
-      "onboard_time": 1659846090,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 535952,
       "num": 535952,
       "word": "黄锐直播 观海",
@@ -395,20 +427,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 510963,
-      "num": 510963,
+      "raw_hot": 511100,
+      "num": 511100,
       "word": "唐嫣白色长裙十八宫格",
       "onboard_time": 1659846512,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 509858,
-      "num": 509858,
-      "word": "秋天的第一杯奶茶",
-      "onboard_time": 1659846392,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 507892,
@@ -417,6 +441,22 @@
       "onboard_time": 1659831747,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506321,
+      "num": 376324,
+      "word": "断桥预售破500万",
+      "onboard_time": 1659847412,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 505802,
+      "num": 373210,
+      "word": "哇唧唧哇夏日家族曲预告",
+      "onboard_time": 1659846631,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 502339,
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384761,
+      "num": 384761,
+      "word": "佩洛西作妖不是一两次",
+      "onboard_time": 1659844232,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382087,
       "num": 382087,
       "word": "任嘉伦最难忘的是在机场工作",
@@ -611,20 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372113,
+      "num": 237662,
+      "word": "MIRROR演唱会伤者已清醒",
+      "onboard_time": 1659847053,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372034,
       "num": 372034,
       "word": "首个国产抗新冠口服药每瓶不超300元",
       "onboard_time": 1659841288,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370679,
-      "num": 370679,
-      "word": "初级会计考题超纲",
-      "onboard_time": 1659846213,
-      "rank": 31,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 365526,
@@ -641,22 +689,6 @@
       "onboard_time": 1659832108,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357529,
-      "num": 357529,
-      "word": "金刚鼠5000万根毛发真实还原",
-      "onboard_time": 1659846213,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 349400,
-      "num": 349400,
-      "word": "佩洛西作妖不是一两次",
-      "onboard_time": 1659844232,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345044,
@@ -803,8 +835,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262024,
-      "num": 262024,
+      "raw_hot": 262409,
+      "num": 1891246,
       "word": "只要一声令下我们一定不辱使命",
       "onboard_time": 1659845372,
       "rank": 41,
@@ -891,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218637,
+      "num": 218637,
+      "word": "儿子割大腿三分之二皮肤救母",
+      "onboard_time": 1659847351,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217711,
       "num": 217711,
       "word": "男童泳池玩耍被排水口一秒吸入",
@@ -923,20 +963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211179,
+      "num": 211179,
+      "word": "江西三支一扶",
+      "onboard_time": 1659846090,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206614,
       "num": 206614,
       "word": "30秒实弹射击原声震撼现场",
       "onboard_time": 1659790175,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 206479,
-      "num": 206479,
-      "word": "江西三支一扶",
-      "onboard_time": 1659846090,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 201168,
