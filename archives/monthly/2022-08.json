@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659899821678,
+  "endTime": 1659900832699,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -16659,6 +16659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114766,
+      "num": 72058,
+      "word": "三亚新增186例确诊病例",
+      "onboard_time": 1659896414,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113534,
       "num": 113534,
       "word": "男女捞地沟油路人质问反被怼",
@@ -16801,14 +16809,6 @@
       "onboard_time": 1659645851,
       "rank": 15,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 83178,
-      "num": 72058,
-      "word": "三亚新增186例确诊病例",
-      "onboard_time": 1659896414,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82022,
@@ -17153,6 +17153,14 @@
       "onboard_time": 1659639252,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18628,
+      "num": 18628,
+      "word": "近期的古装剧路透",
+      "onboard_time": 1659900013,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 14876,
