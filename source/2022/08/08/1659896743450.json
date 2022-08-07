@@ -1,0 +1,410 @@
+{
+  "runTime": 1659896743450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 450723,
+        "num": 450723,
+        "word": "解放军轰炸机歼轰机挂载实弹接续升空",
+        "onboard_time": 1659872553,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 372621,
+        "num": 372621,
+        "word": "不知道台湾是中国的一部分就去读书",
+        "onboard_time": 1659865951,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103380,
+        "num": 333402,
+        "word": "高二男生扛国旗夜爬泰山",
+        "onboard_time": 1659876393,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326304,
+        "num": 326304,
+        "word": "和对的人恋爱真的会不一样",
+        "onboard_time": 1659886291,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315060,
+        "num": 315060,
+        "word": "苍兰诀",
+        "onboard_time": 1659881974,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205202,
+        "num": 205202,
+        "word": "初恋真的会念念不忘吗",
+        "onboard_time": 1659887011,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134947,
+        "num": 134947,
+        "word": "虞书欣演技",
+        "onboard_time": 1659878853,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127021,
+        "num": 127021,
+        "word": "好心疼冉莹颖",
+        "onboard_time": 1659893477,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 125106,
+        "num": 125106,
+        "word": "原来这就是数学之美",
+        "onboard_time": 1659892520,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122619,
+        "num": 122619,
+        "word": "猫咪咬断风扇电线嘴巴被烧红",
+        "onboard_time": 1659879031,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367912,
+        "num": 121100,
+        "word": "一家13人滞留三亚酒店住一晚万元",
+        "onboard_time": 1659880833,
+        "rank": 10,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 194212,
+        "num": 118517,
+        "word": "一家13口滞留三亚7天将花18万",
+        "onboard_time": 1659885512,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 107604,
+        "num": 107604,
+        "word": "第一次见这么享受洗澡的狗",
+        "onboard_time": 1659887369,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104705,
+        "num": 104705,
+        "word": "男子买100块冰块给鱼降温",
+        "onboard_time": 1659881374,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97816,
+        "num": 97816,
+        "word": "少年派2大结局你满意吗",
+        "onboard_time": 1659868469,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95462,
+        "num": 95462,
+        "word": "THE9哈尔滨演唱会取消",
+        "onboard_time": 1659881491,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89230,
+        "num": 89230,
+        "word": "极限挑战",
+        "onboard_time": 1659880591,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87916,
+        "num": 87916,
+        "word": "京一终身禁赛",
+        "onboard_time": 1659872312,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83163,
+        "num": 83163,
+        "word": "义乌机场回应博主开无人认领行李箱",
+        "onboard_time": 1659872791,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79662,
+        "num": 79662,
+        "word": "海南新冠疫情防控工作发布会",
+        "onboard_time": 1659892758,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344332,
+        "num": 79573,
+        "word": "冉莹颖情绪崩溃",
+        "onboard_time": 1659865711,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 78902,
+        "num": 78902,
+        "word": "美海军导弹测量船匆忙部署至冲绳以南",
+        "onboard_time": 1659871710,
+        "rank": 21,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 78787,
+        "num": 78787,
+        "word": "张凌赫 帅",
+        "onboard_time": 1659878731,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76939,
+        "num": 76939,
+        "word": "林墨美研社小考第一",
+        "onboard_time": 1659887790,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72918,
+        "num": 72918,
+        "word": "18岁女生打耳洞后肝肾受损颅内感染",
+        "onboard_time": 1659869310,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62961,
+        "num": 62961,
+        "word": "小伙立夏在上海隔离立秋滞留三亚",
+        "onboard_time": 1659880055,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62678,
+        "num": 62678,
+        "word": "失恋后拥有了我的第一套房",
+        "onboard_time": 1659866970,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60877,
+        "num": 60877,
+        "word": "西汉姆联vs曼城",
+        "onboard_time": 1659895155,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60733,
+        "num": 60733,
+        "word": "WBG夺冠奖杯意外摔碎",
+        "onboard_time": 1659885693,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57571,
+        "num": 57571,
+        "word": "男子酒后持刀威胁店主大妈淡定夺刀",
+        "onboard_time": 1659874652,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75644,
+        "num": 57500,
+        "word": "娜扎直播生图",
+        "onboard_time": 1659882095,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61180,
+        "num": 57489,
+        "word": "钱三一重新选择科研",
+        "onboard_time": 1659891619,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57285,
+        "num": 57285,
+        "word": "全国下半年征兵工作展开",
+        "onboard_time": 1659877172,
+        "rank": 32,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 53856,
+        "num": 53856,
+        "word": "阴阳师",
+        "onboard_time": 1659884072,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51920,
+        "num": 51920,
+        "word": "少年派会有第三部吗",
+        "onboard_time": 1659890244,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51183,
+        "num": 51183,
+        "word": "冉莹颖 每个人都有一些情绪",
+        "onboard_time": 1659882513,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 50177,
+        "num": 50177,
+        "word": "三亚新增227例无症状感染者",
+        "onboard_time": 1659896176,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49936,
+        "num": 49936,
+        "word": "三亚全市社区实行封闭式管理",
+        "onboard_time": 1659873032,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44471,
+        "num": 44471,
+        "word": "湖南新增本土确诊1例无症状3例",
+        "onboard_time": 1659877774,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44037,
+        "num": 44037,
+        "word": "两张图告诉你南京有多热",
+        "onboard_time": 1659883835,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47534,
+        "num": 43729,
+        "word": "吴磊看剧本的多种姿势",
+        "onboard_time": 1659888627,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46565,
+        "num": 43625,
+        "word": "独行月球票房破20亿",
+        "onboard_time": 1659880113,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43192,
+        "num": 43192,
+        "word": "非要在婚礼露一手的爸爸",
+        "onboard_time": 1659884496,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42864,
+        "num": 42864,
+        "word": "新晋奶爸左右手托双胞胎睡觉气坏宝妈",
+        "onboard_time": 1659883293,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42150,
+        "num": 42150,
+        "word": "浙江义乌新增56例阳性",
+        "onboard_time": 1659882154,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40826,
+        "num": 40826,
+        "word": "不知悔凯",
+        "onboard_time": 1659881974,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39510,
+        "num": 39510,
+        "word": "三亚新增186例确诊病例",
+        "onboard_time": 1659896414,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37678,
+        "num": 37678,
+        "word": "这一刻意识到多读书的意义",
+        "onboard_time": 1659871112,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36526,
+        "num": 36526,
+        "word": "东部战区官兵有多热血",
+        "onboard_time": 1659870453,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 35099,
+        "num": 35099,
+        "word": "九尾的王昭君",
+        "onboard_time": 1659879452,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#军事演训为国家统一创造了条件#"
+    }
+  }
+}
