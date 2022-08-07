@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659839953078,
+  "endTime": 1659844043585,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2591992,
+      "num": 2591992,
+      "word": "撤离三亚48小时",
+      "onboard_time": 1659837330,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2241330,
       "num": 2241330,
       "word": "滞留三亚的游客发声",
@@ -41,6 +49,14 @@
       "onboard_time": 1659800556,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2102468,
+      "num": 2102468,
+      "word": "海南省长称做好打大仗的准备",
+      "onboard_time": 1659841411,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1747865,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1542791,
-      "num": 819299,
+      "num": 845948,
       "word": "R1SE解散了但没完全解散",
       "onboard_time": 1659837089,
       "rank": 10,
@@ -99,6 +115,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196159,
+      "num": 1196159,
+      "word": "杭州地铁开的不是空调是冰柜吧",
+      "onboard_time": 1659839670,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1172200,
+      "num": 847961,
+      "word": "特朗普又双叒谴责佩洛西",
+      "onboard_time": 1659842550,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1168770,
+      "num": 1168770,
+      "word": "巴菲特罕见巨亏近3000亿",
+      "onboard_time": 1659840270,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1160674,
       "num": 1160674,
       "word": "中科院老科学家蜗居13平老破小",
@@ -123,12 +163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 908615,
-      "num": 749063,
-      "word": "撤离三亚48小时",
-      "onboard_time": 1659837330,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 925709,
+      "num": 925709,
+      "word": "容祖儿和小猪合唱友情岁月",
+      "onboard_time": 1659841230,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 896454,
@@ -137,6 +177,14 @@
       "onboard_time": 1659801513,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 872698,
+      "num": 872698,
+      "word": "京一",
+      "onboard_time": 1659841471,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 827169,
@@ -153,6 +201,14 @@
       "onboard_time": 1659800615,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758303,
+      "num": 758303,
+      "word": "母亲卖烤饼将养女亲生女全送进大学",
+      "onboard_time": 1659840388,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 749556,
@@ -187,12 +243,28 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 652333,
+      "num": 652333,
+      "word": "黄奕在于正新书里扮贵妃",
+      "onboard_time": 1659842733,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 638300,
       "num": 638300,
       "word": "范丞丞自曝百度身高是假的",
       "onboard_time": 1659796296,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 633705,
+      "num": 633705,
+      "word": "潜江市发现5例新冠阳性感染者",
+      "onboard_time": 1659840810,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626732,
@@ -219,6 +291,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 575914,
+      "num": 575914,
+      "word": "坚决驳斥美国对中国核政策的无端指责",
+      "onboard_time": 1659838170,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 574290,
       "num": 574290,
       "word": "8万游客滞留三亚",
@@ -235,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546411,
+      "num": 546411,
+      "word": "C罗姐姐点赞梅西C罗倒钩对比图",
+      "onboard_time": 1659841949,
+      "rank": 20,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 535952,
       "num": 535952,
       "word": "黄锐直播 观海",
       "onboard_time": 1659831747,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524188,
+      "num": 524188,
+      "word": "iPhone支持Siri操作关机",
+      "onboard_time": 1659843152,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 512644,
@@ -347,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432794,
-      "num": 432794,
-      "word": "坚决驳斥美国对中国核政策的无端指责",
-      "onboard_time": 1659838170,
-      "rank": 49,
-      "category": "国内要闻"
+      "raw_hot": 430022,
+      "num": 430022,
+      "word": "TF家族暑期新歌合集",
+      "onboard_time": 1659843509,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 427132,
@@ -395,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405973,
+      "num": 405973,
+      "word": "马面裙有多绝",
+      "onboard_time": 1659840750,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400562,
       "num": 400562,
       "word": "男孩泳池玩耍被排水口吸住拖入水中",
       "onboard_time": 1659834031,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396427,
+      "num": 396427,
+      "word": "假如程少商是个rapper",
+      "onboard_time": 1659841651,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 392017,
@@ -435,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372034,
+      "num": 372034,
+      "word": "首个国产抗新冠口服药每瓶不超300元",
+      "onboard_time": 1659841288,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365526,
       "num": 365526,
       "word": "我国现存最长木拱廊桥失火",
@@ -465,6 +585,14 @@
       "onboard_time": 1659798882,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326708,
+      "num": 326708,
+      "word": "中国滑板备战巴黎奥运",
+      "onboard_time": 1659842307,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 320998,
@@ -587,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248392,
+      "num": 248392,
+      "word": "三亚感染者6天超800例",
+      "onboard_time": 1659843333,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243000,
       "num": 243000,
       "word": "南京鼓楼区一地升级为高风险区",
@@ -649,6 +785,14 @@
       "onboard_time": 1659807559,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219291,
+      "num": 219291,
+      "word": "想不到被这东西调戏了",
+      "onboard_time": 1659843448,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 217711,
@@ -715,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184142,
-      "num": 184142,
-      "word": "杭州地铁开的不是空调是冰柜吧",
-      "onboard_time": 1659839670,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183407,
       "num": 183407,
       "word": "周深说我很怕孤单很怕黑",
@@ -785,6 +921,14 @@
       "onboard_time": 1659798942,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164859,
+      "num": 164859,
+      "word": "贴秋膘有啥讲究",
+      "onboard_time": 1659841890,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 160438,
