@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659877079291,
+  "endTime": 1659878981335,
   "band_list": [
     {
       "raw_hot": 12109937,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1879141,
+      "num": 1879141,
+      "word": "解放军轰炸机歼轰机挂载实弹接续升空",
+      "onboard_time": 1659872553,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1855313,
       "num": 1855313,
       "word": "一起共建台湾省实景地图",
@@ -139,20 +147,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1781661,
+      "num": 1781661,
+      "word": "一定要和对象去献血",
+      "onboard_time": 1659875733,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1747865,
       "num": 1747865,
       "word": "杜海涛说要给沈梦辰煮一辈子饭",
       "onboard_time": 1659831265,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1735721,
-      "num": 1735721,
-      "word": "解放军轰炸机歼轰机挂载实弹接续升空",
-      "onboard_time": 1659872553,
-      "rank": 1,
-      "category": "军事"
     },
     {
       "raw_hot": 1712345,
@@ -395,6 +403,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1007378,
+      "num": 1007378,
+      "word": "苍兰诀好看吗",
+      "onboard_time": 1659876873,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 975804,
+      "num": 975804,
+      "word": "美海军导弹测量船匆忙部署至冲绳以南",
+      "onboard_time": 1659871710,
+      "rank": 46,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 948344,
       "num": 948344,
       "word": "冉莹颖直播",
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847242,
+      "num": 847242,
+      "word": "夏鸣星",
+      "onboard_time": 1659875074,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 827169,
       "num": 827169,
       "word": "立秋",
@@ -520,22 +552,6 @@
       "word": "解放军演训第四天",
       "onboard_time": 1659848491,
       "rank": 27,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 798391,
-      "num": 798391,
-      "word": "夏鸣星",
-      "onboard_time": 1659875074,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 796369,
-      "num": 796369,
-      "word": "美海军导弹测量船匆忙部署至冲绳以南",
-      "onboard_time": 1659871710,
-      "rank": 46,
       "category": "军事,国内要闻"
     },
     {
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 711875,
-      "num": 1682630,
+      "num": 1812454,
       "word": "台岛周边军事行动的10个突破",
       "onboard_time": 1659868830,
       "rank": 14,
@@ -744,6 +760,14 @@
       "word": "王俊凯说8月13日与孟超银幕见",
       "onboard_time": 1659856170,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 597698,
+      "num": 597698,
+      "word": "虞书欣演技",
+      "onboard_time": 1659878853,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -907,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507733,
-      "num": 507733,
-      "word": "一定要和对象去献血",
-      "onboard_time": 1659875733,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 506321,
       "num": 376324,
       "word": "断桥预售破500万",
@@ -987,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 494496,
+      "num": 494496,
+      "word": "周深问立秋的瓜是什么瓜",
+      "onboard_time": 1659875550,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 493684,
       "num": 493684,
       "word": "解放军演训检验联合火力对地打击能力",
@@ -1011,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488739,
+      "num": 390884,
+      "word": "苍兰诀 画风",
+      "onboard_time": 1659877412,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483841,
       "num": 483841,
       "word": "深圳一法务主任曾因美女被骗600万",
       "onboard_time": 1659869855,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478673,
+      "num": 369898,
+      "word": "张凌赫 帅",
+      "onboard_time": 1659878731,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 474422,
@@ -1091,6 +1131,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 451556,
+      "num": 451556,
+      "word": "脊椎杯子",
+      "onboard_time": 1659875733,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 449971,
       "num": 449971,
       "word": "虞书欣王鹤棣cp感好强",
@@ -1107,12 +1155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436662,
-      "num": 436662,
-      "word": "周深问立秋的瓜是什么瓜",
-      "onboard_time": 1659875550,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 443408,
+      "num": 366055,
+      "word": "汪涵马可黄小鸭合体",
+      "onboard_time": 1659878370,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 430022,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1659835830,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426139,
+      "num": 426139,
+      "word": "全国下半年征兵工作展开",
+      "onboard_time": 1659877172,
+      "rank": 17,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 425067,
@@ -1179,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415424,
+      "num": 246590,
+      "word": "薛之谦芒禾音乐节",
+      "onboard_time": 1659878492,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414497,
       "num": 414497,
       "word": "夫妻吵架男子追妻猛冲用头撞门",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1659786751,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 406517,
+      "num": 245286,
+      "word": "林妙妙答应钱三一求婚",
+      "onboard_time": 1659877534,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 406159,
@@ -1227,11 +1299,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396802,
-      "num": 344810,
-      "word": "苍兰诀好看吗",
-      "onboard_time": 1659876873,
-      "rank": 21,
+      "raw_hot": 397992,
+      "num": 243386,
+      "word": "王鹤棣演的苍兰诀女主",
+      "onboard_time": 1659878370,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1257,6 +1329,14 @@
       "onboard_time": 1659798520,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 391699,
+      "num": 391699,
+      "word": "湖南新增本土确诊1例无症状3例",
+      "onboard_time": 1659877774,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390095,
@@ -1395,6 +1475,14 @@
       "category": "国外要闻,科技"
     },
     {
+      "raw_hot": 357964,
+      "num": 357964,
+      "word": "三亚全市社区实行封闭式管理",
+      "onboard_time": 1659873032,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356174,
       "num": 322980,
       "word": "宋亚轩看电影vlog",
@@ -1419,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348165,
-      "num": 348165,
-      "word": "脊椎杯子",
-      "onboard_time": 1659875733,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 347574,
       "num": 268965,
       "word": "陈都灵哭戏路透",
@@ -1441,6 +1521,22 @@
       "onboard_time": 1659875912,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 345720,
+      "num": 187694,
+      "word": "郭晓婷赤地女子一剑救苍生",
+      "onboard_time": 1659878133,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 345460,
+      "num": 345460,
+      "word": "男子酒后持刀威胁店主大妈淡定夺刀",
+      "onboard_time": 1659874652,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345044,
@@ -1507,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339595,
+      "num": 339595,
+      "word": "高二男生扛国旗夜爬泰山",
+      "onboard_time": 1659876393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338183,
       "num": 325114,
       "word": "胡一天张云龙探案续上了",
@@ -1521,14 +1625,6 @@
       "onboard_time": 1659864930,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334649,
-      "num": 334649,
-      "word": "三亚全市社区实行封闭式管理",
-      "onboard_time": 1659873032,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333847,
@@ -1553,6 +1649,14 @@
       "onboard_time": 1659869613,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327398,
+      "num": 241931,
+      "word": "少年派",
+      "onboard_time": 1659877892,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 326708,
@@ -1875,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251601,
-      "num": 251601,
-      "word": "男子酒后持刀威胁店主大妈淡定夺刀",
-      "onboard_time": 1659874652,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251360,
       "num": 251360,
       "word": "刘耀文攒的花絮照",
@@ -1947,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240869,
+      "num": 240869,
+      "word": "张凯 火舞金蝉",
+      "onboard_time": 1659878731,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237278,
       "num": 237278,
       "word": "重庆合川一居民核酸阳性故意瞒报",
@@ -1984,6 +2088,14 @@
       "word": "想不到被这东西调戏了",
       "onboard_time": 1659843448,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 228906,
+      "num": 228906,
+      "word": "左撇子掰手腕辅助器",
+      "onboard_time": 1659878133,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -2131,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194579,
+      "num": 194579,
+      "word": "如何从法律角度看恋爱送命题",
+      "onboard_time": 1659878313,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191559,
       "num": 191559,
       "word": "当钱塘江交叉潮遇到太阳倒影",
@@ -2145,14 +2265,6 @@
       "onboard_time": 1659867449,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189277,
-      "num": 189277,
-      "word": "高二男生扛国旗夜爬泰山",
-      "onboard_time": 1659876393,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189196,
@@ -2249,6 +2361,14 @@
       "onboard_time": 1659841890,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163701,
+      "num": 163701,
+      "word": "修路工门口乘凉被拽进屋吹空调",
+      "onboard_time": 1659878551,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160438,

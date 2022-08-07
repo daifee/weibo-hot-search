@@ -1,0 +1,410 @@
+{
+  "runTime": 1659878981335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7597625,
+        "num": 7597625,
+        "word": "不知道台湾是中国的一部分就去读书",
+        "onboard_time": 1659865951,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1879141,
+        "num": 1879141,
+        "word": "解放军轰炸机歼轰机挂载实弹接续升空",
+        "onboard_time": 1659872553,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 600047,
+        "num": 1812454,
+        "word": "台岛周边军事行动的10个突破",
+        "onboard_time": 1659868830,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1781661,
+        "num": 1781661,
+        "word": "一定要和对象去献血",
+        "onboard_time": 1659875733,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1436557,
+        "num": 1436557,
+        "word": "钱三一没毕业",
+        "onboard_time": 1659875074,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1007378,
+        "num": 1007378,
+        "word": "苍兰诀好看吗",
+        "onboard_time": 1659876873,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 975804,
+        "num": 975804,
+        "word": "美海军导弹测量船匆忙部署至冲绳以南",
+        "onboard_time": 1659871710,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 905223,
+        "num": 905223,
+        "word": "京一终身禁赛",
+        "onboard_time": 1659872312,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 847242,
+        "num": 847242,
+        "word": "夏鸣星",
+        "onboard_time": 1659875074,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 770783,
+        "num": 770783,
+        "word": "18岁女生打耳洞后肝肾受损颅内感染",
+        "onboard_time": 1659869310,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626294,
+        "num": 626294,
+        "word": "少年派2大结局你满意吗",
+        "onboard_time": 1659868469,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597698,
+        "num": 597698,
+        "word": "虞书欣演技",
+        "onboard_time": 1659878853,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548781,
+        "num": 548781,
+        "word": "章子怡采访像刘浩存",
+        "onboard_time": 1659855868,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494496,
+        "num": 494496,
+        "word": "周深问立秋的瓜是什么瓜",
+        "onboard_time": 1659875550,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452839,
+        "num": 452839,
+        "word": "义乌机场回应博主开无人认领行李箱",
+        "onboard_time": 1659872791,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451556,
+        "num": 451556,
+        "word": "脊椎杯子",
+        "onboard_time": 1659875733,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438998,
+        "num": 438998,
+        "word": "失恋后拥有了我的第一套房",
+        "onboard_time": 1659866970,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426139,
+        "num": 426139,
+        "word": "全国下半年征兵工作展开",
+        "onboard_time": 1659877172,
+        "rank": 17,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 414150,
+        "num": 414150,
+        "word": "马龙保研北体大",
+        "onboard_time": 1659867749,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391699,
+        "num": 391699,
+        "word": "湖南新增本土确诊1例无症状3例",
+        "onboard_time": 1659877774,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488739,
+        "num": 390884,
+        "word": "苍兰诀 画风",
+        "onboard_time": 1659877412,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2052638,
+        "num": 376257,
+        "word": "冉莹颖情绪崩溃",
+        "onboard_time": 1659865711,
+        "rank": 21,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 478673,
+        "num": 369898,
+        "word": "张凌赫 帅",
+        "onboard_time": 1659878731,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443408,
+        "num": 366055,
+        "word": "汪涵马可黄小鸭合体",
+        "onboard_time": 1659878370,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357964,
+        "num": 357964,
+        "word": "三亚全市社区实行封闭式管理",
+        "onboard_time": 1659873032,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345460,
+        "num": 345460,
+        "word": "男子酒后持刀威胁店主大妈淡定夺刀",
+        "onboard_time": 1659874652,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342921,
+        "num": 342921,
+        "word": "好消息要不要和朋友分享",
+        "onboard_time": 1659874713,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339595,
+        "num": 339595,
+        "word": "高二男生扛国旗夜爬泰山",
+        "onboard_time": 1659876393,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262205,
+        "num": 262205,
+        "word": "90后去新疆旅游竟捡回千余瓶子",
+        "onboard_time": 1659873632,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247648,
+        "num": 247648,
+        "word": "这一刻意识到多读书的意义",
+        "onboard_time": 1659871112,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415424,
+        "num": 246590,
+        "word": "薛之谦芒禾音乐节",
+        "onboard_time": 1659878492,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406517,
+        "num": 245286,
+        "word": "林妙妙答应钱三一求婚",
+        "onboard_time": 1659877534,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397992,
+        "num": 243386,
+        "word": "王鹤棣演的苍兰诀女主",
+        "onboard_time": 1659878370,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327398,
+        "num": 241931,
+        "word": "少年派",
+        "onboard_time": 1659877892,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240869,
+        "num": 240869,
+        "word": "张凯 火舞金蝉",
+        "onboard_time": 1659878731,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228906,
+        "num": 228906,
+        "word": "左撇子掰手腕辅助器",
+        "onboard_time": 1659878133,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226683,
+        "num": 226683,
+        "word": "夫妻吵架男子追妻猛冲用头撞门",
+        "onboard_time": 1659866490,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202914,
+        "num": 202914,
+        "word": "印度新型火箭首飞失利",
+        "onboard_time": 1659870874,
+        "rank": 37,
+        "category": "国外要闻,科技"
+      },
+      {
+        "raw_hot": 198648,
+        "num": 198648,
+        "word": "东部战区官兵有多热血",
+        "onboard_time": 1659870453,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 196715,
+        "num": 196715,
+        "word": "清清的马超",
+        "onboard_time": 1659875912,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194579,
+        "num": 194579,
+        "word": "如何从法律角度看恋爱送命题",
+        "onboard_time": 1659878313,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194559,
+        "num": 194559,
+        "word": "羽生结弦开通油管账号",
+        "onboard_time": 1659868169,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194525,
+        "num": 194525,
+        "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
+        "onboard_time": 1659858391,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345720,
+        "num": 187694,
+        "word": "郭晓婷赤地女子一剑救苍生",
+        "onboard_time": 1659878133,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166104,
+        "num": 166104,
+        "word": "解放军逾百舰机越所谓中线演练攻台",
+        "onboard_time": 1659854851,
+        "rank": 44,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 164909,
+        "num": 164909,
+        "word": "不愧是重庆的公交车",
+        "onboard_time": 1659870931,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163701,
+        "num": 163701,
+        "word": "修路工门口乘凉被拽进屋吹空调",
+        "onboard_time": 1659878551,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162676,
+        "num": 162676,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1659846392,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "深圳一法务主任曾因美女被骗600万",
+        "onboard_time": 1659869855,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127584,
+        "num": 127584,
+        "word": "071综合登陆舰海上实训画面",
+        "onboard_time": 1659869910,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#军事演训为国家统一创造了条件#"
+    }
+  }
+}
