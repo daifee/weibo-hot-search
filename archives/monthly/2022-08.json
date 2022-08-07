@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659868708575,
+  "endTime": 1659871084091,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -257,6 +257,14 @@
       "onboard_time": 1659712052,
       "rank": 5,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 11327731,
+      "num": 12577731,
+      "word": "不知道台湾是中国的一部分就去读书",
+      "onboard_time": 1659865951,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 9727101,
@@ -545,14 +553,6 @@
       "onboard_time": 1659497409,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4741117,
-      "num": 4982234,
-      "word": "不知道台湾是中国的一部分就去读书",
-      "onboard_time": 1659865951,
-      "rank": 1,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 4701153,
@@ -2267,6 +2267,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1829576,
+      "num": 1829576,
+      "word": "少年派2大结局你满意吗",
+      "onboard_time": 1659868469,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1828901,
       "num": 1233984,
       "word": "已婚女同时交往18名男子行骗",
@@ -2969,6 +2977,14 @@
       "onboard_time": 1659768089,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1438347,
+      "num": 1438347,
+      "word": "马龙保研北体大",
+      "onboard_time": 1659867749,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1435360,
@@ -4107,6 +4123,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1050475,
+      "num": 1050475,
+      "word": "失恋后拥有了我的第一套房",
+      "onboard_time": 1659866970,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1046433,
       "num": 1046433,
       "word": "沙溢认出赵丽颖没认出胡可",
@@ -5235,14 +5259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 806680,
-      "num": 806680,
-      "word": "马龙保研北体大",
-      "onboard_time": 1659867749,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 802838,
       "num": 802838,
       "word": "入职当天就离职是什么体验",
@@ -5561,6 +5577,14 @@
       "onboard_time": 1659664837,
       "rank": 45,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 751106,
+      "num": 369984,
+      "word": "杨幂细眉花钿妆",
+      "onboard_time": 1659867570,
+      "rank": 20,
+      "category": "影视,美妆"
     },
     {
       "raw_hot": 749614,
@@ -6059,14 +6083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 695145,
-      "num": 695145,
-      "word": "少年派2大结局你满意吗",
-      "onboard_time": 1659868469,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 693504,
       "num": 693504,
       "word": "时代少年团时代夏令营停更一期",
@@ -6249,14 +6265,6 @@
       "onboard_time": 1659407020,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 668741,
-      "num": 369984,
-      "word": "杨幂细眉花钿妆",
-      "onboard_time": 1659867570,
-      "rank": 20,
-      "category": "影视,美妆"
     },
     {
       "raw_hot": 667990,
@@ -6553,14 +6561,6 @@
       "onboard_time": 1659840810,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633302,
-      "num": 501493,
-      "word": "失恋后拥有了我的第一套房",
-      "onboard_time": 1659866970,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 631043,
@@ -8179,6 +8179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506771,
+      "num": 506771,
+      "word": "羽生结弦开通油管账号",
+      "onboard_time": 1659868169,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506321,
       "num": 376324,
       "word": "断桥预售破500万",
@@ -8393,6 +8401,14 @@
       "onboard_time": 1659409665,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494514,
+      "num": 494514,
+      "word": "邓紫棋新角色车祸现场",
+      "onboard_time": 1659869190,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 494079,
@@ -8705,6 +8721,14 @@
       "onboard_time": 1659685780,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 475755,
+      "num": 475755,
+      "word": "台岛周边军事行动的10个突破",
+      "onboard_time": 1659868830,
+      "rank": 14,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 475704,
@@ -9971,6 +9995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414497,
+      "num": 414497,
+      "word": "夫妻吵架男子追妻猛冲用头撞门",
+      "onboard_time": 1659866490,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414309,
       "num": 353370,
       "word": "时代少年团新歌侠海报",
@@ -9985,6 +10017,14 @@
       "onboard_time": 1659501504,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413147,
+      "num": 413147,
+      "word": "18岁女生打耳洞后肝肾受损颅内感染",
+      "onboard_time": 1659869310,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413023,
@@ -11075,14 +11115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368714,
-      "num": 368714,
-      "word": "羽生结弦开通油管账号",
-      "onboard_time": 1659868169,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368382,
       "num": 368382,
       "word": "EDG挠头三人组",
@@ -11129,6 +11161,14 @@
       "onboard_time": 1659583778,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 366952,
+      "num": 366952,
+      "word": "深圳一法务主任曾因美女被骗600万",
+      "onboard_time": 1659869855,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366108,
@@ -12019,12 +12059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329672,
+      "num": 329672,
+      "word": "张俪谢谢凹凸姐妹不揍之恩",
+      "onboard_time": 1659868711,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329037,
       "num": 329037,
       "word": "一诺七夕露肩大片",
       "onboard_time": 1659624702,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328726,
+      "num": 262632,
+      "word": "马嘉祺侠客小辫子造型",
+      "onboard_time": 1659869613,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 327973,
@@ -12427,6 +12483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315516,
+      "num": 315516,
+      "word": "河南热成河煵了",
+      "onboard_time": 1659866729,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315015,
       "num": 315015,
       "word": "猫咪用头跟着小猫一同使劲",
@@ -12537,6 +12601,14 @@
       "onboard_time": 1659367425,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310154,
+      "num": 310154,
+      "word": "为什么我们还喜欢集卡",
+      "onboard_time": 1659870632,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 310085,
@@ -12777,14 +12849,6 @@
       "onboard_time": 1659837031,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 300619,
-      "num": 300619,
-      "word": "夫妻吵架男子追妻猛冲用头撞门",
-      "onboard_time": 1659866490,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299901,
@@ -13499,6 +13563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269884,
+      "num": 258254,
+      "word": "二刷独行月球后发现的彩蛋",
+      "onboard_time": 1659869429,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269368,
       "num": 269368,
       "word": "张蔷成团吧",
@@ -13649,14 +13721,6 @@
       "onboard_time": 1659699160,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263289,
-      "num": 263289,
-      "word": "河南热成河煵了",
-      "onboard_time": 1659866729,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263048,
@@ -14185,6 +14249,14 @@
       "onboard_time": 1659779312,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241733,
+      "num": 241733,
+      "word": "071综合登陆舰海上实训画面",
+      "onboard_time": 1659869910,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 241324,
@@ -14963,6 +15035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210732,
+      "num": 210732,
+      "word": "东部战区官兵有多热血",
+      "onboard_time": 1659870453,
+      "rank": 37,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 210535,
       "num": 210535,
       "word": "河南女孩赢得中国首个世界顶级霹雳舞赛事冠军",
@@ -15459,6 +15539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180122,
+      "num": 180122,
+      "word": "不愧是重庆的公交车",
+      "onboard_time": 1659870931,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179630,
       "num": 140734,
       "word": "雎晓雯控场级台步",
@@ -15641,6 +15729,14 @@
       "onboard_time": 1659264449,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147463,
+      "num": 147463,
+      "word": "印度新型火箭首飞失利",
+      "onboard_time": 1659870874,
+      "rank": 48,
+      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 147328,
