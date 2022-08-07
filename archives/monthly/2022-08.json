@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659904633719,
+  "endTime": 1659907084113,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -16547,6 +16547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132251,
+      "num": 132251,
+      "word": "三亚新增186例确诊病例",
+      "onboard_time": 1659896414,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132241,
       "num": 110695,
       "word": "恋爱中对方向你借钱该借吗",
@@ -16657,14 +16665,6 @@
       "onboard_time": 1659551655,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114766,
-      "num": 72058,
-      "word": "三亚新增186例确诊病例",
-      "onboard_time": 1659896414,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113534,
@@ -17099,6 +17099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28294,
+      "num": 28294,
+      "word": "宋佳齐溪黄轩街头号召路人看电影",
+      "onboard_time": 1659906312,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26808,
       "num": 26808,
       "word": "综艺里的妆造都这么卷了吗",
@@ -17163,6 +17171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19317,
+      "num": 19317,
+      "word": "明日战记票房两亿",
+      "onboard_time": 1659903191,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18628,
       "num": 18628,
       "word": "近期的古装剧路透",
@@ -17171,12 +17187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16719,
-      "num": 16719,
-      "word": "明日战记票房两亿",
-      "onboard_time": 1659903191,
+      "raw_hot": 15618,
+      "num": 15618,
+      "word": "孟子义蹭饭体面人",
+      "onboard_time": 1659905950,
       "rank": 42,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 14876,
@@ -17241,6 +17257,14 @@
       "onboard_time": 1659472696,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9313,
+      "num": 10483,
+      "word": "冰川消融致54年前坠机残骸现身",
+      "onboard_time": 1659907030,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8697,
