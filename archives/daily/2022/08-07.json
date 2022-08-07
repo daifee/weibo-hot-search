@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659853559895,
+  "endTime": 1659854604046,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -80,6 +80,14 @@
       "word": "儿子割大腿三分之二皮肤救母",
       "onboard_time": 1659847351,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1872818,
+      "num": 1872818,
+      "word": "三亚疫情源于越南渔船非法交易",
+      "onboard_time": 1659852213,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -171,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271700,
+      "num": 1271700,
+      "word": "台湾民视新闻播放我和我的祖国",
+      "onboard_time": 1659850532,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1244757,
       "num": 1244757,
       "word": "淘票票 断桥",
       "onboard_time": 1659848251,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1202323,
-      "num": 1202323,
-      "word": "台湾民视新闻播放我和我的祖国",
-      "onboard_time": 1659850532,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1168770,
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1041101,
+      "num": 1041101,
+      "word": "秋天的第一杯奶茶",
+      "onboard_time": 1659846392,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1028086,
       "num": 1028086,
       "word": "黄奕在于正新书里扮贵妃",
@@ -227,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 985918,
-      "num": 985918,
-      "word": "秋天的第一杯奶茶",
-      "onboard_time": 1659846392,
-      "rank": 22,
-      "category": "美食"
+      "raw_hot": 989802,
+      "num": 510189,
+      "word": "杜海涛都有下颚线了",
+      "onboard_time": 1659850349,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 940255,
@@ -323,19 +339,11 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 802075,
-      "num": 510189,
-      "word": "杜海涛都有下颚线了",
-      "onboard_time": 1659850349,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 789942,
-      "num": 698372,
-      "word": "三亚疫情源于越南渔船非法交易",
-      "onboard_time": 1659852213,
-      "rank": 10,
+      "raw_hot": 758471,
+      "num": 758471,
+      "word": "餐厅给顾客反复端别桌吃过的鱼",
+      "onboard_time": 1659851251,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -387,20 +395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 712644,
-      "num": 712644,
-      "word": "餐厅给顾客反复端别桌吃过的鱼",
-      "onboard_time": 1659851251,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 709126,
       "num": 1963010,
       "word": "只要一声令下我们一定不辱使命",
       "onboard_time": 1659845372,
       "rank": 41,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 696413,
+      "num": 696413,
+      "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
+      "onboard_time": 1659851371,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 681184,
@@ -441,14 +449,6 @@
       "onboard_time": 1659795033,
       "rank": 6,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 622740,
-      "num": 622740,
-      "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
-      "onboard_time": 1659851371,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 616900,
@@ -499,12 +499,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 573185,
+      "num": 573185,
+      "word": "女主播受人胁迫直播系谣言",
+      "onboard_time": 1659851731,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 566146,
       "num": 566146,
       "word": "C罗姐姐点赞梅西C罗倒钩对比图",
       "onboard_time": 1659841949,
       "rank": 20,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 549052,
+      "num": 549052,
+      "word": "王心凌恭喜李雪琴成为头号甜心",
+      "onboard_time": 1659851612,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 548827,
@@ -537,14 +553,6 @@
       "onboard_time": 1659849152,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 516679,
-      "num": 516679,
-      "word": "女主播受人胁迫直播系谣言",
-      "onboard_time": 1659851731,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 512644,
@@ -659,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474432,
-      "num": 474432,
-      "word": "王心凌恭喜李雪琴成为头号甜心",
-      "onboard_time": 1659851612,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472127,
       "num": 472127,
       "word": "终于轮到范丞丞淘汰李荣浩",
@@ -744,6 +744,14 @@
       "word": "8月6日新增本土确诊337例",
       "onboard_time": 1659835830,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418062,
+      "num": 418062,
+      "word": "三亚旅游酒店行业协会倡议",
+      "onboard_time": 1659851310,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376392,
+      "num": 376392,
+      "word": "修剪指甲平行好于圆弧形",
+      "onboard_time": 1659852810,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372113,
       "num": 247099,
       "word": "MIRROR演唱会伤者已清醒",
@@ -899,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 334401,
-      "num": 334401,
-      "word": "三亚旅游酒店行业协会倡议",
-      "onboard_time": 1659851310,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333847,
       "num": 333847,
       "word": "黑话律师",
@@ -963,6 +971,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 290468,
+      "num": 290468,
+      "word": "京一假赛",
+      "onboard_time": 1659850232,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287800,
       "num": 2054727,
       "word": "48小时直击解放军实战演训",
@@ -977,14 +993,6 @@
       "onboard_time": 1659796955,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280948,
-      "num": 280948,
-      "word": "京一假赛",
-      "onboard_time": 1659850232,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 279265,
@@ -1043,12 +1051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257519,
+      "num": 257519,
+      "word": "王紫璇单曲有间自己的学堂",
+      "onboard_time": 1659854009,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255616,
       "num": 255616,
       "word": "屏南万安桥着火",
       "onboard_time": 1659802592,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254323,
+      "num": 254323,
+      "word": "村支书讲述福建万安桥失火经过",
+      "onboard_time": 1659852631,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 245855,
@@ -1059,12 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244767,
-      "num": 244767,
-      "word": "修剪指甲平行好于圆弧形",
-      "onboard_time": 1659852810,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 244465,
+      "num": 244465,
+      "word": "李玉导演 断桥",
+      "onboard_time": 1659853712,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 243000,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227896,
+      "num": 227896,
+      "word": "苍兰诀值得期待吗",
+      "onboard_time": 1659854431,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222480,
       "num": 222480,
       "word": "没有回应的喜欢你会坚持多久",
@@ -1187,12 +1219,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 206356,
-      "num": 206356,
-      "word": "村支书讲述福建万安桥失火经过",
-      "onboard_time": 1659852631,
-      "rank": 45,
-      "category": "社会负面"
+      "raw_hot": 203576,
+      "num": 203576,
+      "word": "重庆4区开展全员核酸检测",
+      "onboard_time": 1659854069,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201168,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1659851731,
       "rank": 47,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 190323,
+      "num": 190323,
+      "word": "6岁萌娃要求爸爸买20万项链送妈妈",
+      "onboard_time": 1659854009,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189196,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1659799299,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171605,
+      "num": 171605,
+      "word": "解放军实战演训72小时",
+      "onboard_time": 1659853831,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 171370,
@@ -1377,6 +1425,9 @@
     },
     {
       "word": "#解放军演训最新视频#"
+    },
+    {
+      "word": "#军事演训为国家统一创造了条件#"
     }
   ]
 }

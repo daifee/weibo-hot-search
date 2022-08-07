@@ -1,0 +1,410 @@
+{
+  "runTime": 1659854604046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2295713,
+        "num": 2295713,
+        "word": "特朗普又双叒谴责佩洛西",
+        "onboard_time": 1659842550,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1872818,
+        "num": 1872818,
+        "word": "三亚疫情源于越南渔船非法交易",
+        "onboard_time": 1659852213,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634611,
+        "num": 1549672,
+        "word": "只要一声令下我们一定不辱使命",
+        "onboard_time": 1659845372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1472545,
+        "num": 1472545,
+        "word": "儿子割大腿三分之二皮肤救母",
+        "onboard_time": 1659847351,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271700,
+        "num": 1271700,
+        "word": "台湾民视新闻播放我和我的祖国",
+        "onboard_time": 1659850532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041101,
+        "num": 1041101,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1659846392,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 963185,
+        "num": 963185,
+        "word": "淘票票 断桥",
+        "onboard_time": 1659848251,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835433,
+        "num": 835433,
+        "word": "初级会计考题超纲",
+        "onboard_time": 1659846213,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 785717,
+        "num": 785717,
+        "word": "北京一男子地铁上小便被行拘",
+        "onboard_time": 1659849448,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758471,
+        "num": 758471,
+        "word": "餐厅给顾客反复端别桌吃过的鱼",
+        "onboard_time": 1659851251,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696413,
+        "num": 696413,
+        "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
+        "onboard_time": 1659851371,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631993,
+        "num": 631993,
+        "word": "东部战区今日演训重点",
+        "onboard_time": 1659848674,
+        "rank": 11,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 573185,
+        "num": 573185,
+        "word": "女主播受人胁迫直播系谣言",
+        "onboard_time": 1659851731,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 549052,
+        "num": 549052,
+        "word": "王心凌恭喜李雪琴成为头号甜心",
+        "onboard_time": 1659851612,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507936,
+        "num": 507936,
+        "word": "170多个国家和国际组织重申一个中国",
+        "onboard_time": 1659849152,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 486253,
+        "num": 486253,
+        "word": "疑因捡空瓶大爷多次踢打驼背老人",
+        "onboard_time": 1659848910,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485127,
+        "num": 485127,
+        "word": "解放军演训第四天",
+        "onboard_time": 1659848491,
+        "rank": 16,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 470100,
+        "num": 470100,
+        "word": "一起共建台湾省实景地图",
+        "onboard_time": 1659844112,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 450804,
+        "num": 450804,
+        "word": "封闭空调房待久或引发呼吸性碱中毒",
+        "onboard_time": 1659844590,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443492,
+        "num": 443492,
+        "word": "金刚鼠5000万根毛发真实还原",
+        "onboard_time": 1659846213,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 989802,
+        "num": 442655,
+        "word": "杜海涛都有下颚线了",
+        "onboard_time": 1659850349,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623568,
+        "num": 442175,
+        "word": "唐嫣营业好频繁",
+        "onboard_time": 1659850232,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421748,
+        "num": 421748,
+        "word": "海南省长称做好打大仗的准备",
+        "onboard_time": 1659841411,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420415,
+        "num": 420415,
+        "word": "饿了么",
+        "onboard_time": 1659850111,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 418062,
+        "num": 418062,
+        "word": "三亚旅游酒店行业协会倡议",
+        "onboard_time": 1659851310,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387040,
+        "num": 387040,
+        "word": "杭州地铁开的不是空调是冰柜吧",
+        "onboard_time": 1659839670,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376392,
+        "num": 376392,
+        "word": "修剪指甲平行好于圆弧形",
+        "onboard_time": 1659852810,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376323,
+        "num": 376323,
+        "word": "丁禹兮为虞书欣苍兰诀打call",
+        "onboard_time": 1659848312,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353960,
+        "num": 353960,
+        "word": "玉骨遥",
+        "onboard_time": 1659846090,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346754,
+        "num": 346754,
+        "word": "三亚感染者6天超800例",
+        "onboard_time": 1659843333,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290468,
+        "num": 290468,
+        "word": "京一假赛",
+        "onboard_time": 1659850232,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273332,
+        "num": 273332,
+        "word": "黄奕在于正新书里扮贵妃",
+        "onboard_time": 1659842733,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271874,
+        "num": 271874,
+        "word": "巴菲特罕见巨亏近3000亿",
+        "onboard_time": 1659840270,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 267970,
+        "num": 267970,
+        "word": "解放军演训检验联合火力对地打击能力",
+        "onboard_time": 1659848551,
+        "rank": 33,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 263588,
+        "num": 263588,
+        "word": "苍兰诀太甜了",
+        "onboard_time": 1659849931,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257692,
+        "num": 257692,
+        "word": "女子婚礼第2天离世捐出器官救3人",
+        "onboard_time": 1659832407,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257519,
+        "num": 257519,
+        "word": "王紫璇单曲有间自己的学堂",
+        "onboard_time": 1659854009,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254323,
+        "num": 254323,
+        "word": "村支书讲述福建万安桥失火经过",
+        "onboard_time": 1659852631,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 249310,
+        "num": 249310,
+        "word": "华晨宇说杨幂直觉超准",
+        "onboard_time": 1659844590,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247724,
+        "num": 247724,
+        "word": "奶茶现在论桶了",
+        "onboard_time": 1659837270,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244465,
+        "num": 244465,
+        "word": "李玉导演 断桥",
+        "onboard_time": 1659853712,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227896,
+        "num": 227896,
+        "word": "苍兰诀值得期待吗",
+        "onboard_time": 1659854431,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223088,
+        "num": 223088,
+        "word": "MIRROR演唱会伤者已清醒",
+        "onboard_time": 1659847053,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212802,
+        "num": 212802,
+        "word": "北京清河万象汇今起暂停营业",
+        "onboard_time": 1659850952,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206529,
+        "num": 206529,
+        "word": "iPhone支持Siri操作关机",
+        "onboard_time": 1659843152,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203724,
+        "num": 203724,
+        "word": "母亲卖烤饼将养女亲生女全送进大学",
+        "onboard_time": 1659840388,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203576,
+        "num": 203576,
+        "word": "重庆4区开展全员核酸检测",
+        "onboard_time": 1659854069,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201660,
+        "num": 201660,
+        "word": "佩洛西作妖不是一两次",
+        "onboard_time": 1659844232,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190323,
+        "num": 190323,
+        "word": "6岁萌娃要求爸爸买20万项链送妈妈",
+        "onboard_time": 1659854009,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171605,
+        "num": 171605,
+        "word": "解放军实战演训72小时",
+        "onboard_time": 1659853831,
+        "rank": 49,
+        "category": "军事,国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#军事演训为国家统一创造了条件#"
+    }
+  }
+}
