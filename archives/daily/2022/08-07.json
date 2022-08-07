@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659867749621,
+  "endTime": 1659868708575,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4741117,
+      "num": 4982234,
+      "word": "不知道台湾是中国的一部分就去读书",
+      "onboard_time": 1659865951,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3594120,
       "num": 3594120,
       "word": "台湾发生轻航机坠机事故致2人死亡",
@@ -32,14 +40,6 @@
       "word": "特朗普又双叒谴责佩洛西",
       "onboard_time": 1659842550,
       "rank": 10,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 3421408,
-      "num": 3421408,
-      "word": "不知道台湾是中国的一部分就去读书",
-      "onboard_time": 1659865951,
-      "rank": 1,
       "category": "国内要闻"
     },
     {
@@ -451,6 +451,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 806680,
+      "num": 806680,
+      "word": "马龙保研北体大",
+      "onboard_time": 1659867749,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 762499,
       "num": 762499,
       "word": "郑恺为虞书欣新剧苍兰诀宣传",
@@ -499,6 +507,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 744191,
+      "num": 502396,
+      "word": "柳智敏双丸子头造型",
+      "onboard_time": 1659867988,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 737062,
       "num": 737062,
       "word": "沉香如屑泰国人气",
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 695145,
+      "num": 695145,
+      "word": "少年派2大结局你满意吗",
+      "onboard_time": 1659868469,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 691060,
       "num": 691060,
       "word": "大张伟说我妈是世上最适合我的妈妈",
@@ -545,6 +569,14 @@
       "onboard_time": 1659795153,
       "rank": 11,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 668741,
+      "num": 369984,
+      "word": "杨幂细眉花钿妆",
+      "onboard_time": 1659867570,
+      "rank": 20,
+      "category": "影视,美妆"
     },
     {
       "raw_hot": 667990,
@@ -577,6 +609,14 @@
       "onboard_time": 1659840810,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633302,
+      "num": 501493,
+      "word": "失恋后拥有了我的第一套房",
+      "onboard_time": 1659866970,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 626732,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 550755,
-      "num": 2336184,
+      "num": 2708365,
       "word": "解放军实战演训72小时",
       "onboard_time": 1659853831,
       "rank": 49,
@@ -1003,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414309,
+      "num": 353370,
+      "word": "时代少年团新歌侠海报",
+      "onboard_time": 1659868531,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 410975,
       "num": 410975,
       "word": "戏精佩洛西",
@@ -1067,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387406,
+      "num": 282955,
+      "word": "开始推理吧幕后boss是周深",
+      "onboard_time": 1659867570,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386667,
       "num": 282198,
       "word": "黄明昊极限飞扑一换二",
@@ -1099,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382674,
-      "num": 369984,
-      "word": "杨幂细眉花钿妆",
-      "onboard_time": 1659867570,
-      "rank": 20,
-      "category": "影视,美妆"
-    },
-    {
       "raw_hot": 382087,
       "num": 382087,
       "word": "任嘉伦最难忘的是在机场工作",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1659849271,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375385,
+      "num": 367963,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1659866970,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 372113,
@@ -1147,12 +1203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367963,
-      "num": 367963,
-      "word": "微博电影之夜阵容",
-      "onboard_time": 1659866970,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 368714,
+      "num": 368714,
+      "word": "羽生结弦开通油管账号",
+      "onboard_time": 1659868169,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 365526,
@@ -1243,20 +1299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330995,
-      "num": 282955,
-      "word": "开始推理吧幕后boss是周深",
-      "onboard_time": 1659867570,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326708,
       "num": 326708,
       "word": "中国滑板备战巴黎奥运",
       "onboard_time": 1659842307,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325722,
+      "num": 325722,
+      "word": "北京WB让二追三",
+      "onboard_time": 1659867871,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 322846,
@@ -1331,12 +1387,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 296810,
-      "num": 296810,
-      "word": "失恋后拥有了我的第一套房",
-      "onboard_time": 1659866970,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 300619,
+      "num": 300619,
+      "word": "夫妻吵架男子追妻猛冲用头撞门",
+      "onboard_time": 1659866490,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297097,
+      "num": 226155,
+      "word": "柳岩说找不到对象不用强求自己",
+      "onboard_time": 1659864030,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 290468,
@@ -1435,12 +1499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263289,
+      "num": 263289,
+      "word": "河南热成河煵了",
+      "onboard_time": 1659866729,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257519,
       "num": 257519,
       "word": "王紫璇单曲有间自己的学堂",
       "onboard_time": 1659854009,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 256279,
+      "num": 256279,
+      "word": "河南女孩获首个顶级霹雳舞冠军",
+      "onboard_time": 1659860610,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255616,
@@ -1523,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239895,
-      "num": 239895,
-      "word": "河南热成河煵了",
-      "onboard_time": 1659866729,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237278,
       "num": 237278,
       "word": "重庆合川一居民核酸阳性故意瞒报",
@@ -1545,14 +1617,6 @@
       "onboard_time": 1659776971,
       "rank": 33,
       "category": "军事"
-    },
-    {
-      "raw_hot": 234888,
-      "num": 234888,
-      "word": "河南女孩获首个顶级霹雳舞冠军",
-      "onboard_time": 1659860610,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231734,
@@ -1673,14 +1737,6 @@
       "onboard_time": 1659790175,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 206028,
-      "num": 206028,
-      "word": "夫妻吵架男子追妻猛冲用头撞门",
-      "onboard_time": 1659866490,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205018,
