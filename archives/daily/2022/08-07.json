@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659864986791,
+  "endTime": 1659867749621,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -9,6 +9,14 @@
       "onboard_time": 1659796839,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4978180,
+      "num": 4978180,
+      "word": "冉莹颖情绪崩溃",
+      "onboard_time": 1659865711,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3594120,
@@ -24,6 +32,14 @@
       "word": "特朗普又双叒谴责佩洛西",
       "onboard_time": 1659842550,
       "rank": 10,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3421408,
+      "num": 3421408,
+      "word": "不知道台湾是中国的一部分就去读书",
+      "onboard_time": 1659865951,
+      "rank": 1,
       "category": "国内要闻"
     },
     {
@@ -307,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 948344,
+      "num": 948344,
+      "word": "冉莹颖直播",
+      "onboard_time": 1659862947,
+      "rank": 13,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 944498,
       "num": 377398,
       "word": "宋雨琦赵美延街头随拍",
@@ -427,6 +451,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 762499,
+      "num": 762499,
+      "word": "郑恺为虞书欣新剧苍兰诀宣传",
+      "onboard_time": 1659866849,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 758303,
       "num": 758303,
       "word": "母亲卖烤饼将养女亲生女全送进大学",
@@ -473,14 +505,6 @@
       "onboard_time": 1659861450,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 730246,
-      "num": 730246,
-      "word": "冉莹颖直播",
-      "onboard_time": 1659862947,
-      "rank": 13,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 722339,
@@ -561,6 +585,14 @@
       "onboard_time": 1659795033,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 623878,
+      "num": 623878,
+      "word": "原来减脂餐也能这么好吃",
+      "onboard_time": 1659864752,
+      "rank": 39,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 616900,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 550755,
-      "num": 1466991,
+      "num": 2336184,
       "word": "解放军实战演训72小时",
       "onboard_time": 1659853831,
       "rank": 49,
@@ -705,6 +737,14 @@
       "onboard_time": 1659849152,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 514323,
+      "num": 514323,
+      "word": "手机表面的细菌种类多达2000种",
+      "onboard_time": 1659863669,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 512644,
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 474422,
-      "num": 357791,
+      "num": 369790,
       "word": "沉香如屑明天续更",
       "onboard_time": 1659863009,
       "rank": 31,
@@ -841,6 +881,14 @@
       "onboard_time": 1659799180,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470907,
+      "num": 470907,
+      "word": "上海一男子男扮女装多次偷快递",
+      "onboard_time": 1659864991,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465531,
@@ -1051,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382674,
+      "num": 369984,
+      "word": "杨幂细眉花钿妆",
+      "onboard_time": 1659867570,
+      "rank": 20,
+      "category": "影视,美妆"
+    },
+    {
       "raw_hot": 382087,
       "num": 382087,
       "word": "任嘉伦最难忘的是在机场工作",
@@ -1091,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367963,
+      "num": 367963,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1659866970,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365526,
       "num": 365526,
       "word": "我国现存最长木拱廊桥失火",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1659832108,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349590,
+      "num": 349590,
+      "word": "解放军演训配万马奔腾伴奏有多燃",
+      "onboard_time": 1659861930,
+      "rank": 37,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 345044,
@@ -1171,20 +1243,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330995,
+      "num": 282955,
+      "word": "开始推理吧幕后boss是周深",
+      "onboard_time": 1659867570,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326708,
       "num": 326708,
       "word": "中国滑板备战巴黎奥运",
       "onboard_time": 1659842307,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325663,
-      "num": 325663,
-      "word": "手机表面的细菌种类多达2000种",
-      "onboard_time": 1659863669,
-      "rank": 45,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 322846,
@@ -1212,7 +1284,7 @@
     },
     {
       "raw_hot": 317829,
-      "num": 190044,
+      "num": 240934,
       "word": "汪苏泷Amber新歌飞鸟",
       "onboard_time": 1659864752,
       "rank": 40,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1659837031,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 296810,
+      "num": 296810,
+      "word": "失恋后拥有了我的第一套房",
+      "onboard_time": 1659866970,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 290468,
@@ -1387,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251360,
+      "num": 251360,
+      "word": "刘耀文攒的花絮照",
+      "onboard_time": 1659866010,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245855,
       "num": 245855,
       "word": "北京清河万象汇今起暂停营业",
@@ -1435,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239895,
+      "num": 239895,
+      "word": "河南热成河煵了",
+      "onboard_time": 1659866729,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237278,
       "num": 237278,
       "word": "重庆合川一居民核酸阳性故意瞒报",
@@ -1449,6 +1545,14 @@
       "onboard_time": 1659776971,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 234888,
+      "num": 234888,
+      "word": "河南女孩获首个顶级霹雳舞冠军",
+      "onboard_time": 1659860610,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231734,
@@ -1483,11 +1587,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224648,
-      "num": 224648,
-      "word": "河南女孩获首个顶级霹雳舞冠军",
-      "onboard_time": 1659860610,
-      "rank": 38,
+      "raw_hot": 223820,
+      "num": 223820,
+      "word": "你的名字里看见家的方向",
+      "onboard_time": 1659864690,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1505,14 +1609,6 @@
       "onboard_time": 1659807559,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218145,
-      "num": 218145,
-      "word": "你的名字里看见家的方向",
-      "onboard_time": 1659864690,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217711,
@@ -1579,20 +1675,20 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 206028,
+      "num": 206028,
+      "word": "夫妻吵架男子追妻猛冲用头撞门",
+      "onboard_time": 1659866490,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205018,
       "num": 205018,
       "word": "重庆4区开展全员核酸检测",
       "onboard_time": 1659854069,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203533,
-      "num": 203533,
-      "word": "解放军演训配万马奔腾伴奏有多燃",
-      "onboard_time": 1659861930,
-      "rank": 37,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 201168,
@@ -1627,12 +1723,12 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 190140,
-      "num": 190140,
-      "word": "原来减脂餐也能这么好吃",
-      "onboard_time": 1659864752,
-      "rank": 39,
-      "category": "体育,美食"
+      "raw_hot": 189382,
+      "num": 189382,
+      "word": "说唱巅峰帮唱嘉宾阵容官宣",
+      "onboard_time": 1659867449,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 189196,
