@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659857697127,
+  "endTime": 1659860689471,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2209698,
-      "num": 650501,
+      "num": 791592,
       "word": "章子怡采访像刘浩存",
       "onboard_time": 1659855868,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1659847351,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2009192,
+      "num": 2009192,
+      "word": "解放军逾百舰机越所谓中线演练攻台",
+      "onboard_time": 1659854851,
+      "rank": 11,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1909940,
@@ -171,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1356164,
+      "num": 1356164,
+      "word": "饿了么",
+      "onboard_time": 1659850111,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1342477,
+      "num": 1342477,
+      "word": "秋天的第一杯奶茶",
+      "onboard_time": 1659846392,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1302091,
       "num": 1302091,
       "word": "年轻人婚检积极性为啥不高",
@@ -201,14 +225,6 @@
       "onboard_time": 1659848251,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1171551,
-      "num": 1171551,
-      "word": "解放军逾百舰机越所谓中线演练攻台",
-      "onboard_time": 1659854851,
-      "rank": 11,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1168770,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 1116731,
-      "num": 375142,
+      "num": 377529,
       "word": "黄觉微博认证好好笑",
       "onboard_time": 1659856231,
       "rank": 21,
@@ -267,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1041101,
-      "num": 1041101,
-      "word": "秋天的第一杯奶茶",
-      "onboard_time": 1659846392,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1028086,
       "num": 1028086,
       "word": "黄奕在于正新书里扮贵妃",
@@ -283,8 +291,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1022752,
+      "num": 1022752,
+      "word": "空调制冷跟除湿哪个更省电",
+      "onboard_time": 1659857550,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944498,
-      "num": 373196,
+      "num": 377398,
       "word": "宋雨琦赵美延街头随拍",
       "onboard_time": 1659857430,
       "rank": 22,
@@ -345,6 +361,14 @@
       "onboard_time": 1659850232,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 858614,
+      "num": 858614,
+      "word": "Angelababy为虞书欣新剧宣传",
+      "onboard_time": 1659860491,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 856931,
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550685,
+      "num": 550685,
+      "word": "全家11口疫情后首次出游滞留三亚",
+      "onboard_time": 1659856890,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548827,
       "num": 518384,
       "word": "黄锐直播",
@@ -593,6 +625,14 @@
       "onboard_time": 1659831747,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525775,
+      "num": 525775,
+      "word": "南部战区数十架战机实射训练",
+      "onboard_time": 1659859350,
+      "rank": 13,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 523302,
@@ -641,6 +681,14 @@
       "onboard_time": 1659846631,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 505685,
+      "num": 1466991,
+      "word": "解放军实战演训72小时",
+      "onboard_time": 1659853831,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 504188,
@@ -755,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 452149,
-      "num": 452149,
-      "word": "饿了么",
-      "onboard_time": 1659850111,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 449971,
       "num": 449971,
       "word": "虞书欣王鹤棣cp感好强",
@@ -851,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392699,
+      "num": 392699,
+      "word": "苍兰诀是把人设写头像上了吧",
+      "onboard_time": 1659859713,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392017,
       "num": 392017,
       "word": "碰瓷的日本当心跳得高摔得惨",
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 390095,
-      "num": 290975,
+      "num": 383834,
       "word": "谭谈交通重新上线",
       "onboard_time": 1659857130,
       "rank": 30,
@@ -905,6 +953,14 @@
       "onboard_time": 1659799540,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377586,
+      "num": 377586,
+      "word": "苍兰诀特效",
+      "onboard_time": 1659860430,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 377535,
@@ -955,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348888,
-      "num": 348888,
-      "word": "解放军实战演训72小时",
-      "onboard_time": 1659853831,
-      "rank": 49,
-      "category": "军事,国内要闻"
+      "raw_hot": 353754,
+      "num": 284184,
+      "word": "凌不疑对程少商的温柔都在细节里",
+      "onboard_time": 1659859411,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 345044,
@@ -969,6 +1025,14 @@
       "onboard_time": 1659799358,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344973,
+      "num": 283495,
+      "word": "黄景瑜手和脚各忙各的",
+      "onboard_time": 1659860371,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 344808,
@@ -1003,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331867,
+      "num": 331867,
+      "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
+      "onboard_time": 1659858391,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326708,
       "num": 326708,
       "word": "中国滑板备战巴黎奥运",
@@ -1011,20 +1083,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326513,
-      "num": 326513,
-      "word": "全家11口疫情后首次出游滞留三亚",
-      "onboard_time": 1659856890,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320998,
       "num": 320998,
       "word": "三亚新增160例确诊病例",
       "onboard_time": 1659827960,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319294,
+      "num": 283297,
+      "word": "陪心爱的男生长大是豪赌还是本分",
+      "onboard_time": 1659858030,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317482,
+      "num": 317482,
+      "word": "以台制华政客冒天下之大不韪",
+      "onboard_time": 1659857311,
+      "rank": 45,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 314513,
@@ -1089,6 +1169,14 @@
       "onboard_time": 1659796955,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282579,
+      "num": 282579,
+      "word": "刘宇说告诉大家的愿望都不是真的愿望",
+      "onboard_time": 1659860129,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 279265,
@@ -1171,6 +1259,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 252806,
+      "num": 252806,
+      "word": "海南本轮疫情累计报告1140例阳性",
+      "onboard_time": 1659858209,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245855,
       "num": 245855,
       "word": "北京清河万象汇今起暂停营业",
@@ -1227,6 +1323,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 233225,
+      "num": 233225,
+      "word": "去二仙桥又可以走成华大道了",
+      "onboard_time": 1659860311,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231734,
       "num": 231734,
       "word": "独行月球后劲好大",
@@ -1257,6 +1361,22 @@
       "onboard_time": 1659854431,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223810,
+      "num": 223810,
+      "word": "特朗普称佩洛西窜台是在帮中国圆梦",
+      "onboard_time": 1659859829,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 223410,
+      "num": 223410,
+      "word": "这只小猫会影分身",
+      "onboard_time": 1659857968,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 222480,
@@ -1347,28 +1467,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 198025,
-      "num": 198025,
-      "word": "以台制华政客冒天下之大不韪",
-      "onboard_time": 1659857311,
-      "rank": 45,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 197779,
       "num": 197779,
       "word": "林妙妙把公司开了好飒",
       "onboard_time": 1659786874,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193200,
-      "num": 193200,
-      "word": "空调制冷跟除湿哪个更省电",
-      "onboard_time": 1659857550,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191559,
@@ -1425,6 +1529,14 @@
       "onboard_time": 1659799299,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 173076,
+      "num": 173076,
+      "word": "当狗狗遇上臭豆腐",
+      "onboard_time": 1659859648,
+      "rank": 43,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 171370,
@@ -1520,6 +1632,14 @@
       "word": "立秋不意味着变凉快",
       "onboard_time": 1659828679,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119484,
+      "num": 119484,
+      "word": "河南女孩赢得中国首个世界顶级霹雳舞赛事冠军",
+      "onboard_time": 1659860610,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
