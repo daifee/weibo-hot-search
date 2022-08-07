@@ -1,0 +1,410 @@
+{
+  "runTime": 1659864986791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1923391,
+        "num": 1923391,
+        "word": "解放军逾百舰机越所谓中线演练攻台",
+        "onboard_time": 1659854851,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1479748,
+        "num": 1479748,
+        "word": "饿了么",
+        "onboard_time": 1659850111,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 524619,
+        "num": 1136958,
+        "word": "解放军实战演训72小时",
+        "onboard_time": 1659853831,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1046318,
+        "num": 1046318,
+        "word": "特朗普又双叒谴责佩洛西",
+        "onboard_time": 1659842550,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 963928,
+        "num": 963928,
+        "word": "Angelababy为虞书欣新剧宣传",
+        "onboard_time": 1659860491,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 932531,
+        "num": 932531,
+        "word": "儿子割大腿三分之二皮肤救母",
+        "onboard_time": 1659847351,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908581,
+        "num": 908581,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1659846392,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 861305,
+        "num": 861305,
+        "word": "南部战区数十架战机实射训练",
+        "onboard_time": 1659859350,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 790130,
+        "num": 790130,
+        "word": "空调制冷跟除湿哪个更省电",
+        "onboard_time": 1659857550,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737062,
+        "num": 737062,
+        "word": "沉香如屑泰国人气",
+        "onboard_time": 1659861450,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1290928,
+        "num": 734932,
+        "word": "章子怡采访像刘浩存",
+        "onboard_time": 1659855868,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 730246,
+        "num": 730246,
+        "word": "冉莹颖直播",
+        "onboard_time": 1659862947,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 691060,
+        "num": 691060,
+        "word": "大张伟说我妈是世上最适合我的妈妈",
+        "onboard_time": 1659861570,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689262,
+        "num": 689262,
+        "word": "李一桐演的司命",
+        "onboard_time": 1659862769,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635574,
+        "num": 635574,
+        "word": "特朗普称佩洛西窜台是在帮中国圆梦",
+        "onboard_time": 1659859829,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 557980,
+        "num": 557980,
+        "word": "北京新增2例本土感染者详情公布",
+        "onboard_time": 1659862230,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488584,
+        "num": 488584,
+        "word": "台湾民视新闻播放我和我的祖国",
+        "onboard_time": 1659850532,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470046,
+        "num": 470046,
+        "word": "三亚疫情源于越南渔船非法交易",
+        "onboard_time": 1659852213,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425067,
+        "num": 425067,
+        "word": "去二仙桥又可以走成华大道了",
+        "onboard_time": 1659860311,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393001,
+        "num": 393001,
+        "word": "初级会计考题超纲",
+        "onboard_time": 1659846213,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 531396,
+        "num": 371866,
+        "word": "杨幂狐妖小红娘上班饭拍",
+        "onboard_time": 1659863249,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474422,
+        "num": 357791,
+        "word": "沉香如屑明天续更",
+        "onboard_time": 1659863009,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416290,
+        "num": 349455,
+        "word": "黄觉微博认证好好笑",
+        "onboard_time": 1659856231,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328028,
+        "num": 328028,
+        "word": "餐厅给顾客反复端别桌吃过的鱼",
+        "onboard_time": 1659851251,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325663,
+        "num": 325663,
+        "word": "手机表面的细菌种类多达2000种",
+        "onboard_time": 1659863669,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 301551,
+        "num": 301551,
+        "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
+        "onboard_time": 1659851371,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273042,
+        "num": 273042,
+        "word": "修剪指甲平行好于圆弧形",
+        "onboard_time": 1659852810,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260522,
+        "num": 260522,
+        "word": "全家11口疫情后首次出游滞留三亚",
+        "onboard_time": 1659856890,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257033,
+        "num": 257033,
+        "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
+        "onboard_time": 1659858391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236531,
+        "num": 236531,
+        "word": "有一个懂你的朋友多重要",
+        "onboard_time": 1659861269,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393810,
+        "num": 236485,
+        "word": "谭乔与成都台达成和解",
+        "onboard_time": 1659861269,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 374379,
+        "num": 231472,
+        "word": "杜海涛都有下颚线了",
+        "onboard_time": 1659850349,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341184,
+        "num": 229073,
+        "word": "认不出断桥里的王俊凯",
+        "onboard_time": 1659864811,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328158,
+        "num": 224715,
+        "word": "凌不疑对程少商的温柔都在细节里",
+        "onboard_time": 1659859411,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224648,
+        "num": 224648,
+        "word": "河南女孩获首个顶级霹雳舞冠军",
+        "onboard_time": 1659860610,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218145,
+        "num": 218145,
+        "word": "你的名字里看见家的方向",
+        "onboard_time": 1659864690,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208783,
+        "num": 208783,
+        "word": "海南本轮疫情累计报告1140例阳性",
+        "onboard_time": 1659858209,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205883,
+        "num": 205883,
+        "word": "疑因捡空瓶大爷多次踢打驼背老人",
+        "onboard_time": 1659848910,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203533,
+        "num": 203533,
+        "word": "解放军演训配万马奔腾伴奏有多燃",
+        "onboard_time": 1659861930,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 190140,
+        "num": 190140,
+        "word": "原来减脂餐也能这么好吃",
+        "onboard_time": 1659864752,
+        "rank": 39,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 317829,
+        "num": 190044,
+        "word": "汪苏泷Amber新歌飞鸟",
+        "onboard_time": 1659864752,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283745,
+        "num": 186557,
+        "word": "宋雨琦赵美延街头随拍",
+        "onboard_time": 1659857430,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181203,
+        "num": 181203,
+        "word": "三亚感染者6天超800例",
+        "onboard_time": 1659843333,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177685,
+        "num": 177685,
+        "word": "以台制华政客冒天下之大不韪",
+        "onboard_time": 1659857311,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 153929,
+        "num": 153929,
+        "word": "解放军演训第四天",
+        "onboard_time": 1659848491,
+        "rank": 44,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 148355,
+        "num": 148355,
+        "word": "对夏天的库存照说拜拜",
+        "onboard_time": 1659861391,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142470,
+        "num": 142470,
+        "word": "广州阿伯楼成网红地",
+        "onboard_time": 1659864567,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 335172,
+        "num": 142127,
+        "word": "时代少年团哭泣的游戏破百万收藏",
+        "onboard_time": 1659864930,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132844,
+        "num": 132844,
+        "word": "6岁萌娃要求爸爸买20万项链送妈妈",
+        "onboard_time": 1659854009,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130566,
+        "num": 130566,
+        "word": "这只小猫会影分身",
+        "onboard_time": 1659857968,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方的反制有理有利有节#"
+    }
+  }
+}

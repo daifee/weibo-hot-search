@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659863963297,
+  "endTime": 1659864986791,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -467,18 +467,26 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 722339,
-      "num": 722339,
-      "word": "金刚鼠5000万根毛发真实还原",
-      "onboard_time": 1659846213,
+      "raw_hot": 737062,
+      "num": 737062,
+      "word": "沉香如屑泰国人气",
+      "onboard_time": 1659861450,
       "rank": 32,
       "category": "影视"
     },
     {
-      "raw_hot": 716116,
-      "num": 716116,
-      "word": "沉香如屑泰国人气",
-      "onboard_time": 1659861450,
+      "raw_hot": 730246,
+      "num": 730246,
+      "word": "冉莹颖直播",
+      "onboard_time": 1659862947,
+      "rank": 13,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 722339,
+      "num": 722339,
+      "word": "金刚鼠5000万根毛发真实还原",
+      "onboard_time": 1659846213,
       "rank": 32,
       "category": "影视"
     },
@@ -497,6 +505,14 @@
       "onboard_time": 1659862769,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 691060,
+      "num": 691060,
+      "word": "大张伟说我妈是世上最适合我的妈妈",
+      "onboard_time": 1659861570,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 681184,
@@ -547,14 +563,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 625081,
-      "num": 625081,
-      "word": "冉莹颖直播",
-      "onboard_time": 1659862947,
-      "rank": 13,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 616900,
       "num": 616900,
       "word": "疑因捡空瓶大爷多次踢打驼背老人",
@@ -585,14 +593,6 @@
       "onboard_time": 1659847351,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 584472,
-      "num": 584472,
-      "word": "大张伟说我妈是世上最适合我的妈妈",
-      "onboard_time": 1659861570,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 579784,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474422,
+      "num": 357791,
+      "word": "沉香如屑明天续更",
+      "onboard_time": 1659863009,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472127,
       "num": 472127,
       "word": "终于轮到范丞丞淘汰李荣浩",
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425067,
+      "num": 425067,
+      "word": "去二仙桥又可以走成华大道了",
+      "onboard_time": 1659860311,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423906,
       "num": 423906,
       "word": "凌不疑对程少商的温柔都在细节里",
@@ -939,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416591,
-      "num": 248785,
-      "word": "沉香如屑明天续更",
-      "onboard_time": 1659863009,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410975,
       "num": 410975,
       "word": "戏精佩洛西",
@@ -968,14 +976,6 @@
       "word": "男孩泳池玩耍被排水口吸住拖入水中",
       "onboard_time": 1659834031,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399579,
-      "num": 399579,
-      "word": "去二仙桥又可以走成华大道了",
-      "onboard_time": 1659860311,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1139,12 +1139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341184,
+      "num": 229073,
+      "word": "认不出断桥里的王俊凯",
+      "onboard_time": 1659864811,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338183,
       "num": 325114,
       "word": "胡一天张云龙探案续上了",
       "onboard_time": 1659847770,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335172,
+      "num": 142127,
+      "word": "时代少年团哭泣的游戏破百万收藏",
+      "onboard_time": 1659864930,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 333847,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1659842307,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325663,
+      "num": 325663,
+      "word": "手机表面的细菌种类多达2000种",
+      "onboard_time": 1659863669,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 322846,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1659858030,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317829,
+      "num": 190044,
+      "word": "汪苏泷Amber新歌飞鸟",
+      "onboard_time": 1659864752,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 314513,
@@ -1451,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224648,
+      "num": 224648,
+      "word": "河南女孩获首个顶级霹雳舞冠军",
+      "onboard_time": 1659860610,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223410,
       "num": 223410,
       "word": "这只小猫会影分身",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1659807559,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218145,
+      "num": 218145,
+      "word": "你的名字里看见家的方向",
+      "onboard_time": 1659864690,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217711,
@@ -1539,8 +1587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202818,
-      "num": 202818,
+      "raw_hot": 203533,
+      "num": 203533,
       "word": "解放军演训配万马奔腾伴奏有多燃",
       "onboard_time": 1659861930,
       "rank": 37,
@@ -1579,19 +1627,19 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 190140,
+      "num": 190140,
+      "word": "原来减脂餐也能这么好吃",
+      "onboard_time": 1659864752,
+      "rank": 39,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 189196,
       "num": 189196,
       "word": "被电死柯基身上没有灼伤痕迹",
       "onboard_time": 1659788976,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186237,
-      "num": 186237,
-      "word": "河南女孩获首个顶级霹雳舞冠军",
-      "onboard_time": 1659860610,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1715,18 +1763,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149314,
-      "num": 149314,
-      "word": "手机表面的细菌种类多达2000种",
-      "onboard_time": 1659863669,
-      "rank": 45,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 147328,
       "num": 147328,
       "word": "黄河壶口瀑布犹如万马奔腾",
       "onboard_time": 1659863071,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "广州阿伯楼成网红地",
+      "onboard_time": 1659864567,
       "rank": 46,
       "category": "旅游,社会新闻"
     },
