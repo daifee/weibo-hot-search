@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659879742390,
+  "endTime": 1659881909066,
   "band_list": [
     {
       "raw_hot": 12109937,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2553444,
+      "num": 2553444,
+      "word": "一定要和对象去献血",
+      "onboard_time": 1659875733,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2388417,
       "num": 2388417,
       "word": "海南省长称做好打大仗的准备",
@@ -73,14 +81,6 @@
       "onboard_time": 1659844590,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2270291,
-      "num": 2270291,
-      "word": "一定要和对象去献血",
-      "onboard_time": 1659875733,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 2241330,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1528161,
+      "num": 1528161,
+      "word": "虞书欣演技",
+      "onboard_time": 1659878853,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1482257,
       "num": 393728,
       "word": "微信朋友圈",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1351479,
+      "num": 1351479,
+      "word": "猫咪咬断风扇电线嘴巴被烧红",
+      "onboard_time": 1659879031,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1342477,
       "num": 1342477,
       "word": "秋天的第一杯奶茶",
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1150861,
+      "num": 1150861,
+      "word": "张凌赫 帅",
+      "onboard_time": 1659878731,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1135548,
       "num": 1135548,
       "word": "iPhone支持Siri操作关机",
@@ -369,6 +393,14 @@
       "onboard_time": 1659857550,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109532,
+      "num": 1109532,
+      "word": "全国下半年征兵工作展开",
+      "onboard_time": 1659877172,
+      "rank": 17,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1084567,
@@ -433,14 +465,6 @@
       "onboard_time": 1659857430,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 942039,
-      "num": 942039,
-      "word": "虞书欣演技",
-      "onboard_time": 1659878853,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 940255,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847845,
+      "num": 847845,
+      "word": "九尾的王昭君",
+      "onboard_time": 1659879452,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 847242,
       "num": 847242,
       "word": "夏鸣星",
@@ -563,12 +595,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 787997,
-      "num": 780564,
-      "word": "张凌赫 帅",
-      "onboard_time": 1659878731,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 788488,
+      "num": 788488,
+      "word": "一家13人滞留三亚酒店住一晚万元",
+      "onboard_time": 1659880833,
+      "rank": 11,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 762499,
@@ -771,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604978,
+      "num": 604978,
+      "word": "极限挑战",
+      "onboard_time": 1659880591,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599855,
       "num": 599855,
       "word": "王俊凯说8月13日与孟超银幕见",
       "onboard_time": 1659856170,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 599121,
+      "num": 1775550,
+      "word": "高二男生扛国旗夜爬泰山",
+      "onboard_time": 1659876393,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594072,
@@ -801,6 +849,14 @@
       "onboard_time": 1659852810,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578215,
+      "num": 578215,
+      "word": "THE9哈尔滨演唱会取消",
+      "onboard_time": 1659881491,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 575914,
@@ -835,14 +891,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 572546,
-      "num": 572546,
-      "word": "全国下半年征兵工作展开",
-      "onboard_time": 1659877172,
-      "rank": 17,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 566146,
       "num": 566146,
       "word": "C罗姐姐点赞梅西C罗倒钩对比图",
@@ -872,6 +920,14 @@
       "word": "全家11口疫情后首次出游滞留三亚",
       "onboard_time": 1659856890,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550488,
+      "num": 550488,
+      "word": "湖南新增本土确诊1例无症状3例",
+      "onboard_time": 1659877774,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527744,
+      "num": 527744,
+      "word": "独行月球票房破20亿",
+      "onboard_time": 1659880113,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523302,
       "num": 523302,
       "word": "170多个国家和国际组织重申一个中国",
@@ -929,14 +993,6 @@
       "onboard_time": 1659817812,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 512466,
-      "num": 512466,
-      "word": "湖南新增本土确诊1例无症状3例",
-      "onboard_time": 1659877774,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511100,
@@ -1019,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495599,
+      "num": 495599,
+      "word": "张凯 火舞金蝉",
+      "onboard_time": 1659878731,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 494514,
       "num": 494514,
       "word": "邓紫棋新角色车祸现场",
@@ -1075,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475034,
-      "num": 475034,
-      "word": "张凯 火舞金蝉",
-      "onboard_time": 1659878731,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 481561,
+      "num": 373720,
+      "word": "林妙妙答应钱三一求婚",
+      "onboard_time": 1659877534,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 474422,
@@ -1187,12 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432082,
-      "num": 259494,
-      "word": "林妙妙答应钱三一求婚",
-      "onboard_time": 1659877534,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 437580,
+      "num": 293573,
+      "word": "王源一些海边的记忆碎片",
+      "onboard_time": 1659881555,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 430022,
@@ -1459,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369328,
-      "num": 369328,
-      "word": "高二男生扛国旗夜爬泰山",
-      "onboard_time": 1659876393,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365526,
       "num": 365526,
       "word": "我国现存最长木拱廊桥失火",
@@ -1491,6 +1547,14 @@
       "category": "国外要闻,科技"
     },
     {
+      "raw_hot": 358144,
+      "num": 358144,
+      "word": "C罗替补",
+      "onboard_time": 1659879691,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357964,
       "num": 357964,
       "word": "三亚全市社区实行封闭式管理",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1659876213,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354934,
+      "num": 354934,
+      "word": "小伙立夏在上海隔离立秋滞留三亚",
+      "onboard_time": 1659880055,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349590,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1659798882,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330006,
+      "num": 284188,
+      "word": "法老新专辑",
+      "onboard_time": 1659881673,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 329672,
@@ -1801,14 +1881,6 @@
       "onboard_time": 1659873511,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291573,
-      "num": 291573,
-      "word": "猫咪咬断风扇电线嘴巴被烧红",
-      "onboard_time": 1659879031,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290468,
@@ -2131,14 +2203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223817,
-      "num": 223817,
-      "word": "九尾的王昭君",
-      "onboard_time": 1659879452,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223410,
       "num": 223410,
       "word": "这只小猫会影分身",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1659855811,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216502,
+      "num": 216502,
+      "word": "男子买100块冰块给鱼降温",
+      "onboard_time": 1659881374,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212061,
@@ -2267,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194505,
+      "num": 194505,
+      "word": "叔叔的舞蹈甜掉渣了",
+      "onboard_time": 1659880234,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191559,
       "num": 191559,
       "word": "当钱塘江交叉潮遇到太阳倒影",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1659788976,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186019,
+      "num": 186019,
+      "word": "冰尘的东皇太一",
+      "onboard_time": 1659881192,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184166,
@@ -2465,14 +2553,6 @@
       "onboard_time": 1659828679,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121335,
-      "num": 144952,
-      "word": "C罗替补",
-      "onboard_time": 1659879691,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 112571,
