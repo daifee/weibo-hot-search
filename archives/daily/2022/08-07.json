@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659860689471,
+  "endTime": 1659861608154,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -179,8 +179,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1356164,
-      "num": 1356164,
+      "raw_hot": 1430346,
+      "num": 1430346,
+      "word": "Angelababy为虞书欣新剧宣传",
+      "onboard_time": 1659860491,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1368953,
+      "num": 1368953,
       "word": "饿了么",
       "onboard_time": 1659850111,
       "rank": 38,
@@ -260,11 +268,19 @@
     },
     {
       "raw_hot": 1116731,
-      "num": 377529,
+      "num": 384413,
       "word": "黄觉微博认证好好笑",
       "onboard_time": 1659856231,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1113416,
+      "num": 1113416,
+      "word": "空调制冷跟除湿哪个更省电",
+      "onboard_time": 1659857550,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083990,
@@ -289,14 +305,6 @@
       "onboard_time": 1659842733,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1022752,
-      "num": 1022752,
-      "word": "空调制冷跟除湿哪个更省电",
-      "onboard_time": 1659857550,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 944498,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 858614,
-      "num": 858614,
-      "word": "Angelababy为虞书欣新剧宣传",
-      "onboard_time": 1659860491,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 856931,
       "num": 856931,
       "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
@@ -417,6 +417,14 @@
       "onboard_time": 1659840388,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 750170,
+      "num": 750170,
+      "word": "南部战区数十架战机实射训练",
+      "onboard_time": 1659859350,
+      "rank": 13,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 749556,
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550755,
+      "num": 1466991,
+      "word": "解放军实战演训72小时",
+      "onboard_time": 1659853831,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 550685,
       "num": 550685,
       "word": "全家11口疫情后首次出游滞留三亚",
@@ -619,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536882,
+      "num": 536882,
+      "word": "特朗普称佩洛西窜台是在帮中国圆梦",
+      "onboard_time": 1659859829,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 535952,
       "num": 535952,
       "word": "黄锐直播 观海",
       "onboard_time": 1659831747,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525775,
-      "num": 525775,
-      "word": "南部战区数十架战机实射训练",
-      "onboard_time": 1659859350,
-      "rank": 13,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 523302,
@@ -681,14 +697,6 @@
       "onboard_time": 1659846631,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 505685,
-      "num": 1466991,
-      "word": "解放军实战演训72小时",
-      "onboard_time": 1659853831,
-      "rank": 49,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 504188,
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423906,
+      "num": 423906,
+      "word": "凌不疑对程少商的温柔都在细节里",
+      "onboard_time": 1659859411,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422101,
       "num": 422101,
       "word": "翟潇闻三进三出练出轻功",
@@ -857,6 +873,14 @@
       "onboard_time": 1659786391,
       "rank": 15,
       "category": "其它"
+    },
+    {
+      "raw_hot": 417971,
+      "num": 417971,
+      "word": "苍兰诀特效",
+      "onboard_time": 1659860430,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 410975,
@@ -915,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389765,
+      "num": 389765,
+      "word": "黄景瑜手和脚各忙各的",
+      "onboard_time": 1659860371,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386667,
       "num": 282198,
       "word": "黄明昊极限飞扑一换二",
@@ -953,14 +985,6 @@
       "onboard_time": 1659799540,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377586,
-      "num": 377586,
-      "word": "苍兰诀特效",
-      "onboard_time": 1659860430,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 377535,
@@ -1011,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353754,
-      "num": 284184,
-      "word": "凌不疑对程少商的温柔都在细节里",
-      "onboard_time": 1659859411,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345044,
       "num": 345044,
       "word": "钱三一说心理需要和林妙妙同居",
@@ -1027,20 +1043,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344973,
-      "num": 283495,
-      "word": "黄景瑜手和脚各忙各的",
-      "onboard_time": 1659860371,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 344808,
       "num": 273348,
       "word": "饿了么立秋免单时间",
       "onboard_time": 1659844830,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 343503,
+      "num": 343503,
+      "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
+      "onboard_time": 1659858391,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341823,
@@ -1067,20 +1083,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331867,
-      "num": 331867,
-      "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
-      "onboard_time": 1659858391,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326708,
       "num": 326708,
       "word": "中国滑板备战巴黎奥运",
       "onboard_time": 1659842307,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322846,
+      "num": 322846,
+      "word": "以台制华政客冒天下之大不韪",
+      "onboard_time": 1659857311,
+      "rank": 45,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 320998,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1659858030,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317482,
-      "num": 317482,
-      "word": "以台制华政客冒天下之大不韪",
-      "onboard_time": 1659857311,
-      "rank": 45,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 314513,
@@ -1131,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307406,
+      "num": 307406,
+      "word": "去二仙桥又可以走成华大道了",
+      "onboard_time": 1659860311,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301204,
       "num": 268920,
       "word": "杨超越的歌单里都是啥",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1659837031,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 292545,
+      "num": 270968,
+      "word": "沉香如屑泰国人气",
+      "onboard_time": 1659861450,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 290468,
@@ -1219,6 +1243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272777,
+      "num": 272777,
+      "word": "有一个懂你的朋友多重要",
+      "onboard_time": 1659861269,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 272102,
+      "num": 223286,
+      "word": "谭乔与成都台达成和解",
+      "onboard_time": 1659861269,
+      "rank": 41,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 263634,
       "num": 263634,
       "word": "抖音大嘴燕燕",
@@ -1275,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245708,
+      "num": 245708,
+      "word": "对夏天的库存照说拜拜",
+      "onboard_time": 1659861391,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244465,
       "num": 244465,
       "word": "李玉导演 断桥",
@@ -1323,12 +1371,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 233225,
-      "num": 233225,
-      "word": "去二仙桥又可以走成华大道了",
-      "onboard_time": 1659860311,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 232130,
+      "num": 152701,
+      "word": "大张伟说我妈是世上最适合我的妈妈",
+      "onboard_time": 1659861570,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 231734,
@@ -1361,14 +1409,6 @@
       "onboard_time": 1659854431,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223810,
-      "num": 223810,
-      "word": "特朗普称佩洛西窜台是在帮中国圆梦",
-      "onboard_time": 1659859829,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 223410,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1659846090,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210535,
+      "num": 210535,
+      "word": "河南女孩赢得中国首个世界顶级霹雳舞赛事冠军",
+      "onboard_time": 1659860610,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206614,
@@ -1523,20 +1571,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 175689,
+      "num": 175689,
+      "word": "当狗狗遇上臭豆腐",
+      "onboard_time": 1659859648,
+      "rank": 43,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 175626,
       "num": 175626,
       "word": "狗狗真的好可爱啊",
       "onboard_time": 1659799299,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 173076,
-      "num": 173076,
-      "word": "当狗狗遇上臭豆腐",
-      "onboard_time": 1659859648,
-      "rank": 43,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 171370,
@@ -1632,14 +1680,6 @@
       "word": "立秋不意味着变凉快",
       "onboard_time": 1659828679,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119484,
-      "num": 119484,
-      "word": "河南女孩赢得中国首个世界顶级霹雳舞赛事冠军",
-      "onboard_time": 1659860610,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
