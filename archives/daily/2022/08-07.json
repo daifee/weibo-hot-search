@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659872048874,
+  "endTime": 1659875812443,
   "band_list": [
     {
       "raw_hot": 12109937,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1581941,
+      "num": 1581941,
+      "word": "解放军轰炸机歼轰机满挂实弹接续升空",
+      "onboard_time": 1659872553,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1542791,
       "num": 845948,
       "word": "R1SE解散了但没完全解散",
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1365400,
+      "num": 1365400,
+      "word": "18岁女生打耳洞后肝肾受损颅内感染",
+      "onboard_time": 1659869310,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1342477,
       "num": 1342477,
       "word": "秋天的第一杯奶茶",
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1170170,
+      "num": 1170170,
+      "word": "男子勒索前女友6千未果扩散其裸照",
+      "onboard_time": 1659874232,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1168770,
       "num": 1168770,
       "word": "巴菲特罕见巨亏近3000亿",
@@ -297,6 +321,14 @@
       "onboard_time": 1659844590,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1125707,
+      "num": 1125707,
+      "word": "京一终身禁赛",
+      "onboard_time": 1659872312,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 1116731,
@@ -345,6 +377,14 @@
       "onboard_time": 1659842733,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 966037,
+      "num": 966037,
+      "word": "钱三一没毕业",
+      "onboard_time": 1659875074,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 948344,
@@ -555,20 +595,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711875,
+      "num": 1682630,
+      "word": "台岛周边军事行动的10个突破",
+      "onboard_time": 1659868830,
+      "rank": 14,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 709126,
       "num": 1963010,
       "word": "只要一声令下我们一定不辱使命",
       "onboard_time": 1659845372,
       "rank": 41,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 704210,
-      "num": 704210,
-      "word": "18岁女生打耳洞后肝肾受损颅内感染",
-      "onboard_time": 1659869310,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696004,
@@ -601,6 +641,14 @@
       "onboard_time": 1659859829,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 663643,
+      "num": 663643,
+      "word": "虞书欣像极了看到帅哥时的我",
+      "onboard_time": 1659872851,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 638300,
@@ -665,6 +713,14 @@
       "onboard_time": 1659834391,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603862,
+      "num": 603862,
+      "word": "美海军导弹测量船匆忙部署至冲绳以南",
+      "onboard_time": 1659871710,
+      "rank": 46,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 599855,
@@ -931,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475755,
-      "num": 475755,
-      "word": "台岛周边军事行动的10个突破",
-      "onboard_time": 1659868830,
-      "rank": 14,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 474422,
       "num": 369790,
       "word": "沉香如屑明天续更",
@@ -971,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466684,
+      "num": 466684,
+      "word": "义乌机场回应博主开无人认领行李箱",
+      "onboard_time": 1659872791,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465531,
       "num": 465531,
       "word": "王一博助力中国滑板新征途",
@@ -993,6 +1049,14 @@
       "onboard_time": 1659795994,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452232,
+      "num": 356414,
+      "word": "徐明浩蓝发",
+      "onboard_time": 1659873093,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 451605,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1659833011,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402390,
+      "num": 402390,
+      "word": "东部战区官兵有多热血",
+      "onboard_time": 1659870453,
+      "rank": 37,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 400562,
@@ -1275,12 +1347,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360372,
+      "num": 360372,
+      "word": "印度新型火箭首飞失利",
+      "onboard_time": 1659870874,
+      "rank": 48,
+      "category": "国外要闻,科技"
+    },
+    {
       "raw_hot": 349590,
       "num": 349590,
       "word": "解放军演训配万马奔腾伴奏有多燃",
       "onboard_time": 1659861930,
       "rank": 37,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 348689,
+      "num": 348689,
+      "word": "推市",
+      "onboard_time": 1659874052,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347574,
+      "num": 268965,
+      "word": "陈都灵哭戏路透",
+      "onboard_time": 1659873872,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 345044,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1659844830,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 344016,
+      "num": 344016,
+      "word": "立秋时间",
+      "onboard_time": 1659874953,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343503,
@@ -1379,12 +1483,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325400,
+      "num": 325400,
+      "word": "好消息要不要和朋友分享",
+      "onboard_time": 1659874713,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 325114,
+      "num": 268640,
+      "word": "严浩翔侠客造型",
+      "onboard_time": 1659875432,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 324731,
+      "num": 324731,
+      "word": "不愧是重庆的公交车",
+      "onboard_time": 1659870931,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322846,
       "num": 322846,
       "word": "以台制华政客冒天下之大不韪",
       "onboard_time": 1659857311,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 322115,
+      "num": 268529,
+      "word": "周深问立秋的瓜是什么瓜",
+      "onboard_time": 1659875550,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 320998,
@@ -1459,19 +1595,19 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 297715,
-      "num": 297715,
-      "word": "东部战区官兵有多热血",
-      "onboard_time": 1659870453,
-      "rank": 37,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 297097,
       "num": 226155,
       "word": "柳岩说找不到对象不用强求自己",
       "onboard_time": 1659864030,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294568,
+      "num": 266583,
+      "word": "檀健次被王子装封印了",
+      "onboard_time": 1659873511,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1497,6 +1633,14 @@
       "onboard_time": 1659775412,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 286818,
+      "num": 286818,
+      "word": "这一刻意识到多读书的意义",
+      "onboard_time": 1659871112,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 286354,
@@ -1539,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273689,
+      "num": 273689,
+      "word": "三亚全市社区实行封闭式管理",
+      "onboard_time": 1659873032,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273623,
       "num": 273623,
       "word": "浙江本轮疫情系奥密克戎BA.5.2变异株",
@@ -1571,6 +1723,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269751,
+      "num": 222365,
+      "word": "少年派2可以连看八集",
+      "onboard_time": 1659874411,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268359,
+      "num": 268359,
+      "word": "夏鸣星",
+      "onboard_time": 1659875074,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263634,
       "num": 263634,
       "word": "抖音大嘴燕燕",
@@ -1584,6 +1752,14 @@
       "word": "8月7日零时起上海全市疫情风险区清零",
       "onboard_time": 1659785674,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263334,
+      "num": 263334,
+      "word": "90后去新疆旅游竟捡回千余瓶子",
+      "onboard_time": 1659873632,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1699,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239904,
-      "num": 239904,
-      "word": "不愧是重庆的公交车",
-      "onboard_time": 1659870931,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237278,
       "num": 237278,
       "word": "重庆合川一居民核酸阳性故意瞒报",
@@ -1723,20 +1891,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 232949,
+      "num": 232949,
+      "word": "LDL处罚公告",
+      "onboard_time": 1659871949,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231734,
       "num": 231734,
       "word": "独行月球后劲好大",
       "onboard_time": 1659791135,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231600,
-      "num": 231600,
-      "word": "这一刻意识到多读书的意义",
-      "onboard_time": 1659871112,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 230529,
@@ -1777,6 +1945,14 @@
       "onboard_time": 1659857968,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223215,
+      "num": 223215,
+      "word": "该告别夏天的脂肪刺客了",
+      "onboard_time": 1659873932,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 222480,
@@ -1843,20 +2019,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206846,
+      "num": 206846,
+      "word": "男子酒后持刀威胁店主大妈淡定夺刀",
+      "onboard_time": 1659874652,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206614,
       "num": 206614,
       "word": "30秒实弹射击原声震撼现场",
       "onboard_time": 1659790175,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 205187,
-      "num": 205187,
-      "word": "印度新型火箭首飞失利",
-      "onboard_time": 1659870874,
-      "rank": 48,
-      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 205018,
@@ -1913,6 +2089,14 @@
       "onboard_time": 1659788976,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184166,
+      "num": 184166,
+      "word": "立秋的第一杯养生茶",
+      "onboard_time": 1659874052,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 183407,
@@ -2043,12 +2227,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 143355,
-      "num": 143355,
-      "word": "美海军导弹测量船匆忙部署至冲绳以南",
-      "onboard_time": 1659871710,
-      "rank": 46,
-      "category": "军事,国内要闻"
+      "raw_hot": 142483,
+      "num": 142483,
+      "word": "脊椎杯子",
+      "onboard_time": 1659875733,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 142470,
@@ -2075,20 +2259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135543,
-      "num": 135543,
-      "word": "LDL处罚公告",
-      "onboard_time": 1659871949,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122290,
       "num": 122290,
       "word": "立秋不意味着变凉快",
       "onboard_time": 1659828679,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118260,
+      "num": 118260,
+      "word": "一定要和对象去献血",
+      "onboard_time": 1659875733,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 112571,
