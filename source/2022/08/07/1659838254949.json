@@ -1,0 +1,410 @@
+{
+  "runTime": 1659838254949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2605000,
+        "num": 2605000,
+        "word": "三亚旅客花1万多抢机票却未能返程",
+        "onboard_time": 1659832470,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2241330,
+        "num": 2241330,
+        "word": "滞留三亚的游客发声",
+        "onboard_time": 1659828861,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147874,
+        "num": 1978430,
+        "word": "48小时直击解放军实战演训",
+        "onboard_time": 1659775412,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1747865,
+        "num": 1747865,
+        "word": "杜海涛说要给沈梦辰煮一辈子饭",
+        "onboard_time": 1659831265,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1610891,
+        "num": 1610891,
+        "word": "女子婚礼第2天离世捐出器官救3人",
+        "onboard_time": 1659832407,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258750,
+        "num": 1258750,
+        "word": "疯产姐妹解散",
+        "onboard_time": 1659796839,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1160674,
+        "num": 1160674,
+        "word": "中科院老科学家蜗居13平老破小",
+        "onboard_time": 1659831329,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978566,
+        "num": 978566,
+        "word": "台湾发生轻航机坠机事故致2人死亡",
+        "onboard_time": 1659797496,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929583,
+        "num": 929583,
+        "word": "七月电费多少钱",
+        "onboard_time": 1659828379,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 874672,
+        "num": 874672,
+        "word": "奶茶现在论桶了",
+        "onboard_time": 1659837270,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1389134,
+        "num": 819299,
+        "word": "R1SE解散了但没完全解散",
+        "onboard_time": 1659837089,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 759240,
+        "num": 759240,
+        "word": "立秋",
+        "onboard_time": 1659827477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749203,
+        "num": 749203,
+        "word": "杨紫为马思纯王俊凯新电影做宣传",
+        "onboard_time": 1659830485,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 636129,
+        "num": 636129,
+        "word": "年轻人婚检积极性为啥不高",
+        "onboard_time": 1659797679,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623341,
+        "num": 623341,
+        "word": "天才基本法片头疑似抄袭",
+        "onboard_time": 1659836371,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606603,
+        "num": 606603,
+        "word": "青岛最高悬赏1257万征集被执行人线索",
+        "onboard_time": 1659834391,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542558,
+        "num": 542558,
+        "word": "空战英雄曾击落2架敌机威震台海",
+        "onboard_time": 1659834630,
+        "rank": 16,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 535952,
+        "num": 535952,
+        "word": "黄锐直播 观海",
+        "onboard_time": 1659831747,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507892,
+        "num": 507892,
+        "word": "游客滞留三亚酒店自费一天2800",
+        "onboard_time": 1659831747,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500208,
+        "num": 500208,
+        "word": "大妈球场边休息被砸批评男孩反被怼",
+        "onboard_time": 1659832830,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512644,
+        "num": 496809,
+        "word": "幼童被两只大狗撞飞1米多远",
+        "onboard_time": 1659817812,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 492721,
+        "num": 492721,
+        "word": "八项反制措施对美精准打击",
+        "onboard_time": 1659833669,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 491089,
+        "num": 491089,
+        "word": "任嘉伦眼睛的大小跟着情绪走",
+        "onboard_time": 1659831807,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465531,
+        "num": 465531,
+        "word": "王一博助力中国滑板新征途",
+        "onboard_time": 1659836011,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 462591,
+        "num": 462591,
+        "word": "医生说拜登仍将继续隔离",
+        "onboard_time": 1659835951,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 426223,
+        "num": 426223,
+        "word": "8月6日新增本土确诊337例",
+        "onboard_time": 1659835830,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422283,
+        "num": 422283,
+        "word": "德普",
+        "onboard_time": 1659800556,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416332,
+        "num": 416332,
+        "word": "男子霸坐产科沙发多名孕妇站一旁",
+        "onboard_time": 1659800615,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406159,
+        "num": 406159,
+        "word": "石景山区新增1名核酸阳性人员",
+        "onboard_time": 1659833011,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400562,
+        "num": 400562,
+        "word": "男孩泳池玩耍被排水口吸住拖入水中",
+        "onboard_time": 1659834031,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486322,
+        "num": 393728,
+        "word": "微信朋友圈",
+        "onboard_time": 1659796296,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 386116,
+        "num": 386116,
+        "word": "终于轮到范丞丞淘汰李荣浩",
+        "onboard_time": 1659838109,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385908,
+        "num": 385908,
+        "word": "海南新增297例本土确诊",
+        "onboard_time": 1659836490,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365526,
+        "num": 365526,
+        "word": "我国现存最长木拱廊桥失火",
+        "onboard_time": 1659828981,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360376,
+        "num": 360376,
+        "word": "王子文吴永恩观察羊总结110条特征",
+        "onboard_time": 1659832108,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346579,
+        "num": 346579,
+        "word": "撤离三亚48小时",
+        "onboard_time": 1659837330,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324058,
+        "num": 324058,
+        "word": "台湾民众评论解放军台海军演",
+        "onboard_time": 1659782253,
+        "rank": 36,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 300630,
+        "num": 300630,
+        "word": "会宁警方回应男子当街殴打女性",
+        "onboard_time": 1659837031,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 278116,
+        "num": 278116,
+        "word": "河南新增本土确诊1例无症状30例",
+        "onboard_time": 1659835951,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275926,
+        "num": 275926,
+        "word": "从三亚出来的人去哪儿了",
+        "onboard_time": 1659808278,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267633,
+        "num": 267633,
+        "word": "三亚新增160例确诊病例",
+        "onboard_time": 1659827960,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243000,
+        "num": 243000,
+        "word": "南京鼓楼区一地升级为高风险区",
+        "onboard_time": 1659831627,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239029,
+        "num": 239029,
+        "word": "梅西倒钩破门",
+        "onboard_time": 1659828139,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231634,
+        "num": 231634,
+        "word": "重庆疫情防控",
+        "onboard_time": 1659796955,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228466,
+        "num": 228466,
+        "word": "三亚旅文局回应酒店变相提价后打折",
+        "onboard_time": 1659830063,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227967,
+        "num": 227967,
+        "word": "嗨放派请了朱一龙又好像没请",
+        "onboard_time": 1659837991,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217525,
+        "num": 217525,
+        "word": "WANNAONE出道五周年",
+        "onboard_time": 1659833669,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209910,
+        "num": 209910,
+        "word": "钱三一说心理需要和林妙妙同居",
+        "onboard_time": 1659799358,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201168,
+        "num": 201168,
+        "word": "王嘉尔新加坡表演视频",
+        "onboard_time": 1659835889,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180418,
+        "num": 180418,
+        "word": "坚决驳斥美国对中国核政策的无端指责",
+        "onboard_time": 1659838170,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方的反制有理有利有节#"
+    }
+  }
+}
