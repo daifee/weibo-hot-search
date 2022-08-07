@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659850494804,
+  "endTime": 1659853559895,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1202323,
+      "num": 1202323,
+      "word": "台湾民视新闻播放我和我的祖国",
+      "onboard_time": 1659850532,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1168770,
       "num": 1168770,
       "word": "巴菲特罕见巨亏近3000亿",
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 985918,
+      "num": 985918,
+      "word": "秋天的第一杯奶茶",
+      "onboard_time": 1659846392,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 940255,
       "num": 940255,
       "word": "从三亚出来的人去哪儿了",
@@ -251,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 903536,
-      "num": 903536,
-      "word": "秋天的第一杯奶茶",
-      "onboard_time": 1659846392,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 896454,
       "num": 896454,
       "word": "发疯学习法",
@@ -276,11 +284,19 @@
     },
     {
       "raw_hot": 860609,
-      "num": 465460,
+      "num": 509169,
       "word": "唐嫣营业好频繁",
       "onboard_time": 1659850232,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 851644,
+      "num": 851644,
+      "word": "北京一男子地铁上小便被行拘",
+      "onboard_time": 1659849448,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827169,
@@ -305,6 +321,22 @@
       "onboard_time": 1659848491,
       "rank": 27,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 802075,
+      "num": 510189,
+      "word": "杜海涛都有下颚线了",
+      "onboard_time": 1659850349,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 789942,
+      "num": 698372,
+      "word": "三亚疫情源于越南渔船非法交易",
+      "onboard_time": 1659852213,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758303,
@@ -339,12 +371,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 744414,
+      "num": 744414,
+      "word": "东部战区今日演训重点",
+      "onboard_time": 1659848674,
+      "rank": 37,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 722339,
       "num": 722339,
       "word": "金刚鼠5000万根毛发真实还原",
       "onboard_time": 1659846213,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 712644,
+      "num": 712644,
+      "word": "餐厅给顾客反复端别桌吃过的鱼",
+      "onboard_time": 1659851251,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709126,
@@ -393,6 +441,14 @@
       "onboard_time": 1659795033,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 622740,
+      "num": 622740,
+      "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
+      "onboard_time": 1659851371,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616900,
@@ -473,6 +529,22 @@
       "onboard_time": 1659831747,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523302,
+      "num": 523302,
+      "word": "170多个国家和国际组织重申一个中国",
+      "onboard_time": 1659849152,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 516679,
+      "num": 516679,
+      "word": "女主播受人胁迫直播系谣言",
+      "onboard_time": 1659851731,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 512644,
@@ -587,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474432,
+      "num": 474432,
+      "word": "王心凌恭喜李雪琴成为头号甜心",
+      "onboard_time": 1659851612,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472127,
       "num": 472127,
       "word": "终于轮到范丞丞淘汰李荣浩",
@@ -601,14 +681,6 @@
       "onboard_time": 1659799180,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466609,
-      "num": 466609,
-      "word": "东部战区今日演训重点",
-      "onboard_time": 1659848674,
-      "rank": 37,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 465531,
@@ -627,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452149,
+      "num": 452149,
+      "word": "饿了么",
+      "onboard_time": 1659850111,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 449971,
       "num": 449971,
       "word": "虞书欣王鹤棣cp感好强",
@@ -641,14 +721,6 @@
       "onboard_time": 1659839428,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444101,
-      "num": 444101,
-      "word": "北京一男子地铁上小便被行拘",
-      "onboard_time": 1659849448,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430022,
@@ -827,12 +899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 335870,
-      "num": 335870,
-      "word": "170多个国家和国际组织重申一个中国",
-      "onboard_time": 1659849152,
-      "rank": 46,
-      "category": "国内要闻"
+      "raw_hot": 334401,
+      "num": 334401,
+      "word": "三亚旅游酒店行业协会倡议",
+      "onboard_time": 1659851310,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333847,
@@ -883,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306807,
-      "num": 243312,
-      "word": "杜海涛都有下颚线了",
-      "onboard_time": 1659850349,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300630,
       "num": 300630,
       "word": "会宁警方回应男子当街殴打女性",
@@ -913,6 +977,14 @@
       "onboard_time": 1659796955,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280948,
+      "num": 280948,
+      "word": "京一假赛",
+      "onboard_time": 1659850232,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 279265,
@@ -955,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266974,
-      "num": 266974,
-      "word": "饿了么",
-      "onboard_time": 1659850111,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 263634,
       "num": 263634,
       "word": "抖音大嘴燕燕",
@@ -984,6 +1048,22 @@
       "word": "屏南万安桥着火",
       "onboard_time": 1659802592,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245855,
+      "num": 245855,
+      "word": "北京清河万象汇今起暂停营业",
+      "onboard_time": 1659850952,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244767,
+      "num": 244767,
+      "word": "修剪指甲平行好于圆弧形",
+      "onboard_time": 1659852810,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1187,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 206356,
+      "num": 206356,
+      "word": "村支书讲述福建万安桥失火经过",
+      "onboard_time": 1659852631,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 201168,
       "num": 201168,
       "word": "王嘉尔新加坡表演视频",
@@ -1121,6 +1209,14 @@
       "onboard_time": 1659786874,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191559,
+      "num": 191559,
+      "word": "当钱塘江交叉潮遇到太阳倒影",
+      "onboard_time": 1659851731,
+      "rank": 47,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 189196,
@@ -1152,14 +1248,6 @@
       "word": "光与夜之恋",
       "onboard_time": 1659787953,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 177576,
-      "num": 177576,
-      "word": "京一假赛",
-      "onboard_time": 1659850232,
-      "rank": 48,
       "category": "游戏"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1659853559895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2536063,
+        "num": 2536063,
+        "word": "特朗普又双叒谴责佩洛西",
+        "onboard_time": 1659842550,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1966326,
+        "num": 1966326,
+        "word": "儿子割大腿三分之二皮肤救母",
+        "onboard_time": 1659847351,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703957,
+        "num": 1283094,
+        "word": "只要一声令下我们一定不辱使命",
+        "onboard_time": 1659845372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1202323,
+        "num": 1202323,
+        "word": "台湾民视新闻播放我和我的祖国",
+        "onboard_time": 1659850532,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196441,
+        "num": 1196441,
+        "word": "淘票票 断桥",
+        "onboard_time": 1659848251,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 985918,
+        "num": 985918,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1659846392,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 851644,
+        "num": 851644,
+        "word": "北京一男子地铁上小便被行拘",
+        "onboard_time": 1659849448,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744414,
+        "num": 744414,
+        "word": "东部战区今日演训重点",
+        "onboard_time": 1659848674,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 732240,
+        "num": 732240,
+        "word": "初级会计考题超纲",
+        "onboard_time": 1659846213,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 712644,
+        "num": 712644,
+        "word": "餐厅给顾客反复端别桌吃过的鱼",
+        "onboard_time": 1659851251,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789942,
+        "num": 698372,
+        "word": "三亚疫情源于越南渔船非法交易",
+        "onboard_time": 1659852213,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669138,
+        "num": 669138,
+        "word": "封闭空调房待久或引发呼吸性碱中毒",
+        "onboard_time": 1659844590,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622740,
+        "num": 622740,
+        "word": "宝妈做饭难吃萌娃瘦掉2斤肉",
+        "onboard_time": 1659851371,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607296,
+        "num": 607296,
+        "word": "一起共建台湾省实景地图",
+        "onboard_time": 1659844112,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 599852,
+        "num": 599852,
+        "word": "疑因捡空瓶大爷多次踢打驼背老人",
+        "onboard_time": 1659848910,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589220,
+        "num": 589220,
+        "word": "解放军演训第四天",
+        "onboard_time": 1659848491,
+        "rank": 15,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 544120,
+        "num": 544120,
+        "word": "海南省长称做好打大仗的准备",
+        "onboard_time": 1659841411,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535070,
+        "num": 535070,
+        "word": "金刚鼠5000万根毛发真实还原",
+        "onboard_time": 1659846213,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523302,
+        "num": 523302,
+        "word": "170多个国家和国际组织重申一个中国",
+        "onboard_time": 1659849152,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 516679,
+        "num": 516679,
+        "word": "女主播受人胁迫直播系谣言",
+        "onboard_time": 1659851731,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 802075,
+        "num": 510189,
+        "word": "杜海涛都有下颚线了",
+        "onboard_time": 1659850349,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666777,
+        "num": 509169,
+        "word": "唐嫣营业好频繁",
+        "onboard_time": 1659850232,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500141,
+        "num": 500141,
+        "word": "杭州地铁开的不是空调是冰柜吧",
+        "onboard_time": 1659839670,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474432,
+        "num": 474432,
+        "word": "王心凌恭喜李雪琴成为头号甜心",
+        "onboard_time": 1659851612,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470420,
+        "num": 470420,
+        "word": "丁禹兮为虞书欣苍兰诀打call",
+        "onboard_time": 1659848312,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452149,
+        "num": 452149,
+        "word": "饿了么",
+        "onboard_time": 1659850111,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 400361,
+        "num": 400361,
+        "word": "三亚感染者6天超800例",
+        "onboard_time": 1659843333,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374096,
+        "num": 374096,
+        "word": "玉骨遥",
+        "onboard_time": 1659846090,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334401,
+        "num": 334401,
+        "word": "三亚旅游酒店行业协会倡议",
+        "onboard_time": 1659851310,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318514,
+        "num": 318514,
+        "word": "华晨宇说杨幂直觉超准",
+        "onboard_time": 1659844590,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317761,
+        "num": 317761,
+        "word": "解放军演训检验联合火力对地打击能力",
+        "onboard_time": 1659848551,
+        "rank": 30,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 314414,
+        "num": 314414,
+        "word": "女子婚礼第2天离世捐出器官救3人",
+        "onboard_time": 1659832407,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309143,
+        "num": 309143,
+        "word": "黄奕在于正新书里扮贵妃",
+        "onboard_time": 1659842733,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299449,
+        "num": 299449,
+        "word": "奶茶现在论桶了",
+        "onboard_time": 1659837270,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282545,
+        "num": 282545,
+        "word": "巴菲特罕见巨亏近3000亿",
+        "onboard_time": 1659840270,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 280948,
+        "num": 280948,
+        "word": "京一假赛",
+        "onboard_time": 1659850232,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269515,
+        "num": 269515,
+        "word": "苍兰诀太甜了",
+        "onboard_time": 1659849931,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245855,
+        "num": 245855,
+        "word": "北京清河万象汇今起暂停营业",
+        "onboard_time": 1659850952,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244801,
+        "num": 244801,
+        "word": "MIRROR演唱会伤者已清醒",
+        "onboard_time": 1659847053,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244767,
+        "num": 244767,
+        "word": "修剪指甲平行好于圆弧形",
+        "onboard_time": 1659852810,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244235,
+        "num": 244235,
+        "word": "iPhone支持Siri操作关机",
+        "onboard_time": 1659843152,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229128,
+        "num": 229128,
+        "word": "R1SE解散了但没完全解散",
+        "onboard_time": 1659837089,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228299,
+        "num": 228299,
+        "word": "母亲卖烤饼将养女亲生女全送进大学",
+        "onboard_time": 1659840388,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224650,
+        "num": 224650,
+        "word": "容祖儿和小猪合唱友情岁月",
+        "onboard_time": 1659841230,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221539,
+        "num": 221539,
+        "word": "佩洛西作妖不是一两次",
+        "onboard_time": 1659844232,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206356,
+        "num": 206356,
+        "word": "村支书讲述福建万安桥失火经过",
+        "onboard_time": 1659852631,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 199551,
+        "num": 199551,
+        "word": "七月电费多少钱",
+        "onboard_time": 1659828379,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191559,
+        "num": 191559,
+        "word": "当钱塘江交叉潮遇到太阳倒影",
+        "onboard_time": 1659851731,
+        "rank": 47,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 190305,
+        "num": 190305,
+        "word": "TF家族运动会撕名牌",
+        "onboard_time": 1659848371,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163192,
+        "num": 163192,
+        "word": "滞留三亚的游客发声",
+        "onboard_time": 1659828861,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方的反制有理有利有节#"
+    }
+  }
+}
