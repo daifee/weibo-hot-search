@@ -1,0 +1,410 @@
+{
+  "runTime": 1659872048874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12109937,
+        "num": 12901605,
+        "word": "不知道台湾是中国的一部分就去读书",
+        "onboard_time": 1659865951,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3682493,
+        "num": 3682493,
+        "word": "冉莹颖情绪崩溃",
+        "onboard_time": 1659865711,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1679920,
+        "num": 1679920,
+        "word": "少年派2大结局你满意吗",
+        "onboard_time": 1659868469,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1268908,
+        "num": 1268908,
+        "word": "马龙保研北体大",
+        "onboard_time": 1659867749,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1084567,
+        "num": 1084567,
+        "word": "失恋后拥有了我的第一套房",
+        "onboard_time": 1659866970,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1053254,
+        "num": 1053254,
+        "word": "解放军逾百舰机越所谓中线演练攻台",
+        "onboard_time": 1659854851,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 704210,
+        "num": 704210,
+        "word": "18岁女生打耳洞后肝肾受损颅内感染",
+        "onboard_time": 1659869310,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512264,
+        "num": 640919,
+        "word": "解放军实战演训72小时",
+        "onboard_time": 1659853831,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 611140,
+        "num": 611140,
+        "word": "羽生结弦开通油管账号",
+        "onboard_time": 1659868169,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 594812,
+        "num": 594812,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1659846392,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 755341,
+        "num": 591228,
+        "word": "章子怡采访像刘浩存",
+        "onboard_time": 1659855868,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 573980,
+        "num": 573980,
+        "word": "柳智敏双丸子头造型",
+        "onboard_time": 1659867988,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483841,
+        "num": 483841,
+        "word": "深圳一法务主任曾因美女被骗600万",
+        "onboard_time": 1659869855,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482232,
+        "num": 482232,
+        "word": "邓紫棋新角色车祸现场",
+        "onboard_time": 1659869190,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467561,
+        "num": 467561,
+        "word": "Angelababy为虞书欣新剧宣传",
+        "onboard_time": 1659860491,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463311,
+        "num": 463311,
+        "word": "台岛周边军事行动的10个突破",
+        "onboard_time": 1659868830,
+        "rank": 15,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 395298,
+        "num": 395298,
+        "word": "夫妻吵架男子追妻猛冲用头撞门",
+        "onboard_time": 1659866490,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373759,
+        "num": 373759,
+        "word": "河南热成河煵了",
+        "onboard_time": 1659866729,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352177,
+        "num": 352177,
+        "word": "特朗普又双叒谴责佩洛西",
+        "onboard_time": 1659842550,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297715,
+        "num": 297715,
+        "word": "东部战区官兵有多热血",
+        "onboard_time": 1659870453,
+        "rank": 19,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 725829,
+        "num": 295005,
+        "word": "杨幂细眉花钿妆",
+        "onboard_time": 1659867570,
+        "rank": 20,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 385442,
+        "num": 292548,
+        "word": "李一桐演的司命",
+        "onboard_time": 1659862769,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288806,
+        "num": 288806,
+        "word": "开始推理吧",
+        "onboard_time": 1659871532,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287794,
+        "num": 287794,
+        "word": "三亚疫情源于越南渔船非法交易",
+        "onboard_time": 1659852213,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287591,
+        "num": 287591,
+        "word": "为什么我们还喜欢集卡",
+        "onboard_time": 1659870632,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281634,
+        "num": 281634,
+        "word": "台湾民视新闻播放我和我的祖国",
+        "onboard_time": 1659850532,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276882,
+        "num": 276882,
+        "word": "特朗普称佩洛西窜台是在帮中国圆梦",
+        "onboard_time": 1659859829,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 265272,
+        "num": 265272,
+        "word": "上海一男子男扮女装多次偷快递",
+        "onboard_time": 1659864991,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260736,
+        "num": 260736,
+        "word": "071综合登陆舰海上实训画面",
+        "onboard_time": 1659869910,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 254413,
+        "num": 254413,
+        "word": "原来减脂餐也能这么好吃",
+        "onboard_time": 1659864752,
+        "rank": 29,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 277133,
+        "num": 253924,
+        "word": "沉香如屑泰国人气",
+        "onboard_time": 1659861450,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252516,
+        "num": 252516,
+        "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
+        "onboard_time": 1659858391,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250250,
+        "num": 250250,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1659866970,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248061,
+        "num": 248061,
+        "word": "崔然竣用胸肌跳POP",
+        "onboard_time": 1659871771,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240432,
+        "num": 240432,
+        "word": "二刷独行月球后发现的彩蛋",
+        "onboard_time": 1659869429,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239904,
+        "num": 239904,
+        "word": "不愧是重庆的公交车",
+        "onboard_time": 1659870931,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239361,
+        "num": 239361,
+        "word": "张俪谢谢凹凸姐妹不揍之恩",
+        "onboard_time": 1659868711,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231600,
+        "num": 231600,
+        "word": "这一刻意识到多读书的意义",
+        "onboard_time": 1659871112,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205187,
+        "num": 205187,
+        "word": "印度新型火箭首飞失利",
+        "onboard_time": 1659870874,
+        "rank": 38,
+        "category": "国外要闻,科技"
+      },
+      {
+        "raw_hot": 194351,
+        "num": 194351,
+        "word": "河南女孩获首个顶级霹雳舞冠军",
+        "onboard_time": 1659860610,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193284,
+        "num": 193284,
+        "word": "儿子割大腿三分之二皮肤救母",
+        "onboard_time": 1659847351,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185217,
+        "num": 185217,
+        "word": "手机表面的细菌种类多达2000种",
+        "onboard_time": 1659863669,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 172246,
+        "num": 172246,
+        "word": "初级会计考题超纲",
+        "onboard_time": 1659846213,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 165015,
+        "num": 165015,
+        "word": "马嘉祺侠客小辫子造型",
+        "onboard_time": 1659869613,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163804,
+        "num": 163804,
+        "word": "空调制冷跟除湿哪个更省电",
+        "onboard_time": 1659857550,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161988,
+        "num": 161988,
+        "word": "南部战区数十架战机实射训练",
+        "onboard_time": 1659859350,
+        "rank": 45,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 143355,
+        "num": 143355,
+        "word": "美海军导弹测量船匆忙部署至冲绳以南",
+        "onboard_time": 1659871710,
+        "rank": 46,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 141481,
+        "word": "北京新增2例本土感染者详情公布",
+        "onboard_time": 1659862230,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135742,
+        "num": 135742,
+        "word": "去二仙桥又可以走成华大道了",
+        "onboard_time": 1659860311,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135543,
+        "num": 135543,
+        "word": "LDL处罚公告",
+        "onboard_time": 1659871949,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#军事演训为国家统一创造了条件#"
+    }
+  }
+}

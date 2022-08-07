@@ -1,10 +1,10 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659871084091,
+  "endTime": 1659872048874,
   "band_list": [
     {
-      "raw_hot": 11327731,
-      "num": 12577731,
+      "raw_hot": 12109937,
+      "num": 12901605,
       "word": "不知道台湾是中国的一部分就去读书",
       "onboard_time": 1659865951,
       "rank": 1,
@@ -315,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084567,
+      "num": 1084567,
+      "word": "失恋后拥有了我的第一套房",
+      "onboard_time": 1659866970,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1083990,
       "num": 1083990,
       "word": "餐厅给顾客反复端别桌吃过的鱼",
       "onboard_time": 1659851251,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1050475,
-      "num": 1050475,
-      "word": "失恋后拥有了我的第一套房",
-      "onboard_time": 1659866970,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 1044158,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 744191,
-      "num": 502396,
+      "num": 573980,
       "word": "柳智敏双丸子头造型",
       "onboard_time": 1659867988,
       "rank": 11,
@@ -561,6 +561,14 @@
       "onboard_time": 1659845372,
       "rank": 41,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 704210,
+      "num": 704210,
+      "word": "18岁女生打耳洞后肝肾受损颅内感染",
+      "onboard_time": 1659869310,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696004,
@@ -641,6 +649,14 @@
       "onboard_time": 1659848910,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611140,
+      "num": 611140,
+      "word": "羽生结弦开通油管账号",
+      "onboard_time": 1659868169,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 606603,
@@ -811,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506771,
-      "num": 506771,
-      "word": "羽生结弦开通油管账号",
-      "onboard_time": 1659868169,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506321,
       "num": 376324,
       "word": "断桥预售破500万",
@@ -913,6 +921,14 @@
       "onboard_time": 1659831807,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483841,
+      "num": 483841,
+      "word": "深圳一法务主任曾因美女被骗600万",
+      "onboard_time": 1659869855,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475755,
@@ -1083,14 +1099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 413147,
-      "num": 413147,
-      "word": "18岁女生打耳洞后肝肾受损颅内感染",
-      "onboard_time": 1659869310,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410975,
       "num": 410975,
       "word": "戏精佩洛西",
@@ -1219,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373759,
+      "num": 373759,
+      "word": "河南热成河煵了",
+      "onboard_time": 1659866729,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372113,
       "num": 247099,
       "word": "MIRROR演唱会伤者已清醒",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1659849691,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366952,
-      "num": 366952,
-      "word": "深圳一法务主任曾因美女被骗600万",
-      "onboard_time": 1659869855,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365526,
@@ -1403,14 +1411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 315516,
-      "num": 315516,
-      "word": "河南热成河煵了",
-      "onboard_time": 1659866729,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314513,
       "num": 241450,
       "word": "马嘉祺哭泣的游戏公交车花絮",
@@ -1459,6 +1459,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 297715,
+      "num": 297715,
+      "word": "东部战区官兵有多热血",
+      "onboard_time": 1659870453,
+      "rank": 37,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 297097,
       "num": 226155,
       "word": "柳岩说找不到对象不用强求自己",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1659850232,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288806,
+      "num": 288806,
+      "word": "开始推理吧",
+      "onboard_time": 1659871532,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 287800,
@@ -1571,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260736,
+      "num": 260736,
+      "word": "071综合登陆舰海上实训画面",
+      "onboard_time": 1659869910,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 257519,
       "num": 257519,
       "word": "王紫璇单曲有间自己的学堂",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1659866010,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248061,
+      "num": 248061,
+      "word": "崔然竣用胸肌跳POP",
+      "onboard_time": 1659871771,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 245855,
@@ -1667,12 +1699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241733,
-      "num": 241733,
-      "word": "071综合登陆舰海上实训画面",
-      "onboard_time": 1659869910,
-      "rank": 35,
-      "category": "军事"
+      "raw_hot": 239904,
+      "num": 239904,
+      "word": "不愧是重庆的公交车",
+      "onboard_time": 1659870931,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 237278,
@@ -1697,6 +1729,14 @@
       "onboard_time": 1659791135,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231600,
+      "num": 231600,
+      "word": "这一刻意识到多读书的意义",
+      "onboard_time": 1659871112,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 230529,
@@ -1795,14 +1835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 210732,
-      "num": 210732,
-      "word": "东部战区官兵有多热血",
-      "onboard_time": 1659870453,
-      "rank": 37,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 210535,
       "num": 210535,
       "word": "河南女孩赢得中国首个世界顶级霹雳舞赛事冠军",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1659790175,
       "rank": 38,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 205187,
+      "num": 205187,
+      "word": "印度新型火箭首飞失利",
+      "onboard_time": 1659870874,
+      "rank": 48,
+      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 205018,
@@ -1897,14 +1937,6 @@
       "onboard_time": 1659787953,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180122,
-      "num": 180122,
-      "word": "不愧是重庆的公交车",
-      "onboard_time": 1659870931,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 175991,
@@ -2003,20 +2035,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147463,
-      "num": 147463,
-      "word": "印度新型火箭首飞失利",
-      "onboard_time": 1659870874,
-      "rank": 48,
-      "category": "国外要闻,科技"
-    },
-    {
       "raw_hot": 147328,
       "num": 147328,
       "word": "黄河壶口瀑布犹如万马奔腾",
       "onboard_time": 1659863071,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 143355,
+      "num": 143355,
+      "word": "美海军导弹测量船匆忙部署至冲绳以南",
+      "onboard_time": 1659871710,
+      "rank": 46,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 142470,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1659820032,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135543,
+      "num": 135543,
+      "word": "LDL处罚公告",
+      "onboard_time": 1659871949,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 122290,
