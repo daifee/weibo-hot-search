@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659889678151,
+  "endTime": 1659890974368,
   "band_list": [
     {
       "raw_hot": 2576722,
@@ -19,15 +19,15 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1172881,
-      "num": 1172881,
+      "raw_hot": 1296110,
+      "num": 1296110,
       "word": "和对的人恋爱真的会不一样",
       "onboard_time": 1659886291,
       "rank": 3,
       "category": "情感"
     },
     {
-      "raw_hot": 971560,
+      "raw_hot": 987057,
       "num": 971560,
       "word": "一家13口滞留三亚7天将花18万",
       "onboard_time": 1659885512,
@@ -51,8 +51,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 613085,
-      "num": 613085,
+      "raw_hot": 682079,
+      "num": 682079,
       "word": "初恋真的会念念不忘吗",
       "onboard_time": 1659887011,
       "rank": 5,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301482,
+      "num": 301482,
+      "word": "第一次见这么享受洗澡的狗",
+      "onboard_time": 1659887369,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300337,
       "num": 216696,
       "word": "少年派2大结局你满意吗",
@@ -243,12 +251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245162,
-      "num": 245162,
-      "word": "第一次见这么享受洗澡的狗",
-      "onboard_time": 1659887369,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 244861,
+      "num": 156784,
+      "word": "吴磊看剧本的多种姿势",
+      "onboard_time": 1659888627,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 230638,
@@ -321,6 +329,14 @@
       "onboard_time": 1659877774,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161804,
+      "num": 118699,
+      "word": "少年派会有第三部吗",
+      "onboard_time": 1659890244,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 161643,
