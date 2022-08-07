@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659856771548,
+  "endTime": 1659857697127,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2209698,
+      "num": 650501,
+      "word": "章子怡采访像刘浩存",
+      "onboard_time": 1659855868,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2127692,
       "num": 522395,
       "word": "德普",
       "onboard_time": 1659800556,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2114624,
-      "num": 589962,
-      "word": "章子怡采访像刘浩存",
-      "onboard_time": 1659855868,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2009308,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1171551,
+      "num": 1171551,
+      "word": "解放军逾百舰机越所谓中线演练攻台",
+      "onboard_time": 1659854851,
+      "rank": 11,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 1168770,
       "num": 1168770,
       "word": "巴菲特罕见巨亏近3000亿",
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1116731,
+      "num": 375142,
+      "word": "黄觉微博认证好好笑",
+      "onboard_time": 1659856231,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083990,
       "num": 1083990,
       "word": "餐厅给顾客反复端别桌吃过的鱼",
@@ -264,6 +280,14 @@
       "word": "黄奕在于正新书里扮贵妃",
       "onboard_time": 1659842733,
       "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 944498,
+      "num": 373196,
+      "word": "宋雨琦赵美延街头随拍",
+      "onboard_time": 1659857430,
+      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -315,14 +339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 868152,
-      "num": 584874,
-      "word": "解放军逾百舰机越所谓中线演练攻台",
-      "onboard_time": 1659854851,
-      "rank": 11,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 860609,
       "num": 509169,
       "word": "唐嫣营业好频繁",
@@ -369,14 +385,6 @@
       "onboard_time": 1659848491,
       "rank": 27,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 807330,
-      "num": 374074,
-      "word": "黄觉微博认证好好笑",
-      "onboard_time": 1659856231,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 758303,
@@ -515,6 +523,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 579619,
+      "num": 579619,
+      "word": "修剪指甲平行好于圆弧形",
+      "onboard_time": 1659852810,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575914,
       "num": 575914,
       "word": "坚决驳斥美国对中国核政策的无端指责",
@@ -553,14 +569,6 @@
       "onboard_time": 1659851612,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 561126,
-      "num": 561126,
-      "word": "修剪指甲平行好于圆弧形",
-      "onboard_time": 1659852810,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548827,
@@ -795,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422101,
+      "num": 422101,
+      "word": "翟潇闻三进三出练出轻功",
+      "onboard_time": 1659856950,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418014,
       "num": 418014,
       "word": "1分钟呼吸入睡法",
@@ -843,11 +859,35 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 390095,
+      "num": 290975,
+      "word": "谭谈交通重新上线",
+      "onboard_time": 1659857130,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386667,
+      "num": 282198,
+      "word": "黄明昊极限飞扑一换二",
+      "onboard_time": 1659857011,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385908,
       "num": 385908,
       "word": "海南新增297例本土确诊",
       "onboard_time": 1659836490,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385493,
+      "num": 385493,
+      "word": "6岁萌娃要求爸爸买20万项链送妈妈",
+      "onboard_time": 1659854009,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -915,12 +955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352639,
-      "num": 352639,
-      "word": "6岁萌娃要求爸爸买20万项链送妈妈",
-      "onboard_time": 1659854009,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 348888,
+      "num": 348888,
+      "word": "解放军实战演训72小时",
+      "onboard_time": 1659853831,
+      "rank": 49,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 345044,
@@ -969,6 +1009,14 @@
       "onboard_time": 1659842307,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326513,
+      "num": 326513,
+      "word": "全家11口疫情后首次出游滞留三亚",
+      "onboard_time": 1659856890,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320998,
@@ -1123,14 +1171,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 246492,
-      "num": 246492,
-      "word": "解放军实战演训72小时",
-      "onboard_time": 1659853831,
-      "rank": 49,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 245855,
       "num": 245855,
       "word": "北京清河万象汇今起暂停营业",
@@ -1243,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217491,
+      "num": 205140,
+      "word": "少年派2",
+      "onboard_time": 1659855811,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212061,
       "num": 212061,
       "word": "孙滢皓人鱼妆",
@@ -1275,8 +1323,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 203576,
-      "num": 203576,
+      "raw_hot": 205018,
+      "num": 205018,
       "word": "重庆4区开展全员核酸检测",
       "onboard_time": 1659854069,
       "rank": 46,
@@ -1291,12 +1339,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199018,
+      "num": 205572,
+      "word": "饿了么开12小时免单直播",
+      "onboard_time": 1659855631,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 198025,
+      "num": 198025,
+      "word": "以台制华政客冒天下之大不韪",
+      "onboard_time": 1659857311,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 197779,
       "num": 197779,
       "word": "林妙妙把公司开了好飒",
       "onboard_time": 1659786874,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193200,
+      "num": 193200,
+      "word": "空调制冷跟除湿哪个更省电",
+      "onboard_time": 1659857550,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191559,
@@ -1425,14 +1497,6 @@
       "onboard_time": 1659797557,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149652,
-      "num": 205249,
-      "word": "饿了么开12小时免单直播",
-      "onboard_time": 1659855631,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 141798,
