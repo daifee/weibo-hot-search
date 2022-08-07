@@ -1,0 +1,410 @@
+{
+  "runTime": 1659849512256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3419406,
+        "num": 3419406,
+        "word": "特朗普又双叒谴责佩洛西",
+        "onboard_time": 1659842550,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2323973,
+        "num": 2323973,
+        "word": "封闭空调房待久或引发呼吸性碱中毒",
+        "onboard_time": 1659844590,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669736,
+        "num": 1963010,
+        "word": "只要一声令下我们一定不辱使命",
+        "onboard_time": 1659845372,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1759160,
+        "num": 1759160,
+        "word": "一起共建台湾省实景地图",
+        "onboard_time": 1659844112,
+        "rank": 3,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1432351,
+        "num": 1432351,
+        "word": "三亚感染者6天超800例",
+        "onboard_time": 1659843333,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346658,
+        "num": 1346658,
+        "word": "海南省长称做好打大仗的准备",
+        "onboard_time": 1659841411,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140240,
+        "num": 1140240,
+        "word": "儿子割大腿三分之二皮肤救母",
+        "onboard_time": 1659847351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137165,
+        "num": 1137165,
+        "word": "杭州地铁开的不是空调是冰柜吧",
+        "onboard_time": 1659839670,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1127777,
+        "num": 1127777,
+        "word": "华晨宇说杨幂直觉超准",
+        "onboard_time": 1659844590,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933193,
+        "num": 933193,
+        "word": "初级会计考题超纲",
+        "onboard_time": 1659846213,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 912861,
+        "num": 912861,
+        "word": "淘票票 断桥",
+        "onboard_time": 1659848251,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906672,
+        "num": 906672,
+        "word": "丁禹兮为虞书欣苍兰诀打call",
+        "onboard_time": 1659848312,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 849355,
+        "num": 849355,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1659846392,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 689410,
+        "num": 689410,
+        "word": "金刚鼠5000万根毛发真实还原",
+        "onboard_time": 1659846213,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645480,
+        "num": 645480,
+        "word": "容祖儿和小猪合唱友情岁月",
+        "onboard_time": 1659841230,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565155,
+        "num": 565155,
+        "word": "黄奕在于正新书里扮贵妃",
+        "onboard_time": 1659842733,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544365,
+        "num": 544365,
+        "word": "iPhone支持Siri操作关机",
+        "onboard_time": 1659843152,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 525174,
+        "num": 525174,
+        "word": "撤离三亚48小时",
+        "onboard_time": 1659837330,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504618,
+        "num": 504618,
+        "word": "奶茶现在论桶了",
+        "onboard_time": 1659837270,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 500768,
+        "num": 500768,
+        "word": "佩洛西作妖不是一两次",
+        "onboard_time": 1659844232,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530780,
+        "num": 496845,
+        "word": "玉骨遥",
+        "onboard_time": 1659846090,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504188,
+        "num": 494808,
+        "word": "TF家族运动会撕名牌",
+        "onboard_time": 1659848371,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489970,
+        "num": 489970,
+        "word": "巴菲特罕见巨亏近3000亿",
+        "onboard_time": 1659840270,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 449294,
+        "num": 449294,
+        "word": "R1SE解散了但没完全解散",
+        "onboard_time": 1659837089,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412233,
+        "num": 412233,
+        "word": "滞留三亚的游客发声",
+        "onboard_time": 1659828861,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394329,
+        "num": 394329,
+        "word": "解放军演训检验联合火力对地打击能力",
+        "onboard_time": 1659848551,
+        "rank": 25,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 389520,
+        "num": 389520,
+        "word": "女子婚礼第2天离世捐出器官救3人",
+        "onboard_time": 1659832407,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356777,
+        "num": 356777,
+        "word": "解放军演训第四天",
+        "onboard_time": 1659848491,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 348499,
+        "num": 348499,
+        "word": "母亲卖烤饼将养女亲生女全送进大学",
+        "onboard_time": 1659840388,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328155,
+        "num": 328155,
+        "word": "七月电费多少钱",
+        "onboard_time": 1659828379,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371701,
+        "num": 327529,
+        "word": "马面裙有多绝",
+        "onboard_time": 1659840750,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338183,
+        "num": 325114,
+        "word": "胡一天张云龙探案续上了",
+        "onboard_time": 1659847770,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356894,
+        "num": 321414,
+        "word": "杜海涛说要给沈梦辰煮一辈子饭",
+        "onboard_time": 1659831265,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329455,
+        "num": 318009,
+        "word": "赖美云向前冲解说又奶又毒",
+        "onboard_time": 1659849271,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317190,
+        "num": 317190,
+        "word": "京一",
+        "onboard_time": 1659841471,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277741,
+        "num": 277741,
+        "word": "坚决驳斥美国对中国核政策的无端指责",
+        "onboard_time": 1659838170,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 275834,
+        "num": 275834,
+        "word": "C罗姐姐点赞梅西C罗倒钩对比图",
+        "onboard_time": 1659841949,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 264064,
+        "num": 264064,
+        "word": "东部战区今日演训重点",
+        "onboard_time": 1659848674,
+        "rank": 37,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 255675,
+        "num": 255675,
+        "word": "疑因捡空瓶大爷多次踢打驼背老人",
+        "onboard_time": 1659848910,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255201,
+        "num": 255201,
+        "word": "立秋",
+        "onboard_time": 1659827477,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307508,
+        "num": 243508,
+        "word": "MIRROR演唱会伤者已清醒",
+        "onboard_time": 1659847053,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294566,
+        "num": 237187,
+        "word": "马嘉祺看球赛的三个阶段",
+        "onboard_time": 1659847351,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281152,
+        "num": 235764,
+        "word": "断桥预售破500万",
+        "onboard_time": 1659847412,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229282,
+        "num": 229282,
+        "word": "游客滞留三亚酒店自费一天2800",
+        "onboard_time": 1659831747,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219886,
+        "num": 219886,
+        "word": "潜江市发现5例新冠阳性感染者",
+        "onboard_time": 1659840810,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199277,
+        "num": 199277,
+        "word": "微信朋友圈",
+        "onboard_time": 1659796296,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186775,
+        "num": 186775,
+        "word": "170多个国家和国际组织重申一个中国",
+        "onboard_time": 1659849152,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162027,
+        "num": 162027,
+        "word": "北京一男子地铁上小便被行拘",
+        "onboard_time": 1659849448,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153965,
+        "num": 153965,
+        "word": "中科院老科学家蜗居13平老破小",
+        "onboard_time": 1659831329,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "台湾发生轻航机坠机事故致2人死亡",
+        "onboard_time": 1659797496,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方的反制有理有利有节#"
+    }
+  }
+}
