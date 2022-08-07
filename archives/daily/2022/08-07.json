@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659885664692,
+  "endTime": 1659886724126,
   "band_list": [
     {
       "raw_hot": 12109937,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1442219,
+      "num": 1363450,
+      "word": "冉莹颖 每个人都有一些情绪",
+      "onboard_time": 1659882513,
+      "rank": 23,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1438347,
       "num": 1438347,
       "word": "马龙保研北体大",
@@ -297,14 +305,6 @@
       "onboard_time": 1659869310,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1363450,
-      "num": 1363450,
-      "word": "冉莹颖 每个人都有一些情绪",
-      "onboard_time": 1659882513,
-      "rank": 23,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 1351479,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 724098,
+      "num": 724098,
+      "word": "极限挑战",
+      "onboard_time": 1659880591,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 722339,
       "num": 722339,
       "word": "金刚鼠5000万根毛发真实还原",
@@ -761,14 +769,6 @@
       "onboard_time": 1659845372,
       "rank": 41,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 698137,
-      "num": 698137,
-      "word": "极限挑战",
-      "onboard_time": 1659880591,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 698112,
@@ -809,6 +809,14 @@
       "onboard_time": 1659859829,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 638641,
+      "num": 638641,
+      "word": "浙江义乌新增56例阳性",
+      "onboard_time": 1659882154,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638300,
@@ -872,14 +880,6 @@
       "word": "青岛最高悬赏1257万征集被执行人线索",
       "onboard_time": 1659834391,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604952,
-      "num": 604952,
-      "word": "浙江义乌新增56例阳性",
-      "onboard_time": 1659882154,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1179,12 +1179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489830,
+      "num": 489830,
+      "word": "WBG夺冠奖杯意外摔碎",
+      "onboard_time": 1659885693,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 488739,
       "num": 392060,
       "word": "苍兰诀 画风",
       "onboard_time": 1659877412,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485284,
+      "num": 485284,
+      "word": "两张图告诉你南京有多热",
+      "onboard_time": 1659883835,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 483841,
@@ -1299,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445886,
+      "num": 285123,
+      "word": "王一博热烈杀青合照",
+      "onboard_time": 1659885873,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443408,
       "num": 366055,
       "word": "汪涵马可黄小鸭合体",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1659881555,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430869,
-      "num": 430869,
-      "word": "两张图告诉你南京有多热",
-      "onboard_time": 1659883835,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 430022,
@@ -1603,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368496,
+      "num": 368496,
+      "word": "非要在婚礼露一手的爸爸",
+      "onboard_time": 1659884496,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365526,
       "num": 365526,
       "word": "我国现存最长木拱廊桥失火",
@@ -1795,6 +1819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335106,
+      "num": 335106,
+      "word": "清融不知火舞MVP",
+      "onboard_time": 1659884970,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333847,
       "num": 333847,
       "word": "黑话律师",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1659885213,
       "rank": 28,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 330103,
-      "num": 330103,
-      "word": "非要在婚礼露一手的爸爸",
-      "onboard_time": 1659884496,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 330006,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1659842307,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325825,
-      "num": 325825,
-      "word": "清融不知火舞MVP",
-      "onboard_time": 1659884970,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 325722,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1659864752,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 315185,
+      "num": 315185,
+      "word": "一家13口滞留三亚7天将花18万",
+      "onboard_time": 1659885512,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 314513,
@@ -2155,6 +2179,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 260605,
+      "num": 260605,
+      "word": "和对的人恋爱真的会不一样",
+      "onboard_time": 1659886291,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257519,
       "num": 257519,
       "word": "王紫璇单曲有间自己的学堂",
@@ -2331,12 +2363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224888,
-      "num": 224888,
-      "word": "一家13口滞留三亚7天将花18万",
-      "onboard_time": 1659885512,
-      "rank": 42,
-      "category": "社会新闻,财经"
+      "raw_hot": 224735,
+      "num": 216836,
+      "word": "谢娜为电影断桥打call",
+      "onboard_time": 1659886531,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 223820,
