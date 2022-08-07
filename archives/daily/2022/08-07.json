@@ -1,6 +1,6 @@
 {
   "startTime": 1659803308983,
-  "endTime": 1659849512256,
+  "endTime": 1659850494804,
   "band_list": [
     {
       "raw_hot": 5911523,
@@ -73,6 +73,14 @@
       "onboard_time": 1659800556,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2009308,
+      "num": 2009308,
+      "word": "儿子割大腿三分之二皮肤救母",
+      "onboard_time": 1659847351,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1855313,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1244757,
+      "num": 1244757,
+      "word": "淘票票 断桥",
+      "onboard_time": 1659848251,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1168770,
       "num": 1168770,
       "word": "巴菲特罕见巨亏近3000亿",
@@ -176,14 +192,6 @@
       "word": "中科院老科学家蜗居13平老破小",
       "onboard_time": 1659831329,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140240,
-      "num": 1140240,
-      "word": "儿子割大腿三分之二皮肤救母",
-      "onboard_time": 1659847351,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -219,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 933193,
-      "num": 933193,
+      "raw_hot": 939437,
+      "num": 939437,
       "word": "初级会计考题超纲",
       "onboard_time": 1659846213,
       "rank": 31,
@@ -233,14 +241,6 @@
       "onboard_time": 1659828379,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 912861,
-      "num": 912861,
-      "word": "淘票票 断桥",
-      "onboard_time": 1659848251,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 906672,
@@ -275,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 860609,
+      "num": 465460,
+      "word": "唐嫣营业好频繁",
+      "onboard_time": 1659850232,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 827169,
       "num": 827169,
       "word": "立秋",
@@ -289,6 +297,14 @@
       "onboard_time": 1659800615,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808694,
+      "num": 808694,
+      "word": "解放军演训第四天",
+      "onboard_time": 1659848491,
+      "rank": 27,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 758303,
@@ -331,19 +347,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709126,
+      "num": 1963010,
+      "word": "只要一声令下我们一定不辱使命",
+      "onboard_time": 1659845372,
+      "rank": 41,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 681184,
       "num": 521540,
       "word": "国内游客制止外籍人员偷拍解放军演训",
       "onboard_time": 1659795153,
       "rank": 11,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 669736,
-      "num": 1963010,
-      "word": "只要一声令下我们一定不辱使命",
-      "onboard_time": 1659845372,
-      "rank": 41,
       "category": "军事,国内要闻"
     },
     {
@@ -377,6 +393,14 @@
       "onboard_time": 1659795033,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 616900,
+      "num": 616900,
+      "word": "疑因捡空瓶大爷多次踢打驼背老人",
+      "onboard_time": 1659848910,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606603,
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493684,
+      "num": 493684,
+      "word": "解放军演训检验联合火力对地打击能力",
+      "onboard_time": 1659848551,
+      "rank": 25,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 492721,
       "num": 492721,
       "word": "八项反制措施对美精准打击",
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466609,
+      "num": 466609,
+      "word": "东部战区今日演训重点",
+      "onboard_time": 1659848674,
+      "rank": 37,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 465531,
       "num": 465531,
       "word": "王一博助力中国滑板新征途",
@@ -601,6 +641,14 @@
       "onboard_time": 1659839428,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444101,
+      "num": 444101,
+      "word": "北京一男子地铁上小便被行拘",
+      "onboard_time": 1659849448,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430022,
@@ -667,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 394329,
-      "num": 394329,
-      "word": "解放军演训检验联合火力对地打击能力",
-      "onboard_time": 1659848551,
-      "rank": 25,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 392017,
       "num": 392017,
       "word": "碰瓷的日本当心跳得高摔得惨",
@@ -707,8 +747,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377535,
+      "num": 377535,
+      "word": "赖美云向前冲解说又奶又毒",
+      "onboard_time": 1659849271,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372113,
-      "num": 243508,
+      "num": 247099,
       "word": "MIRROR演唱会伤者已清醒",
       "onboard_time": 1659847053,
       "rank": 40,
@@ -721,6 +769,14 @@
       "onboard_time": 1659841288,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370767,
+      "num": 351545,
+      "word": "向前冲开播",
+      "onboard_time": 1659849691,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 365526,
@@ -739,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356777,
-      "num": 356777,
-      "word": "解放军演训第四天",
-      "onboard_time": 1659848491,
-      "rank": 27,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 345044,
       "num": 345044,
       "word": "钱三一说心理需要和林妙妙同居",
@@ -763,6 +811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 341823,
+      "num": 341823,
+      "word": "苍兰诀太甜了",
+      "onboard_time": 1659849931,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338183,
       "num": 325114,
       "word": "胡一天张云龙探案续上了",
@@ -771,20 +827,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335870,
+      "num": 335870,
+      "word": "170多个国家和国际组织重申一个中国",
+      "onboard_time": 1659849152,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 333847,
       "num": 333847,
       "word": "黑话律师",
       "onboard_time": 1659798882,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 329455,
-      "num": 318009,
-      "word": "赖美云向前冲解说又奶又毒",
-      "onboard_time": 1659849271,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 326708,
@@ -825,6 +881,14 @@
       "onboard_time": 1659787234,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306807,
+      "num": 243312,
+      "word": "杜海涛都有下颚线了",
+      "onboard_time": 1659850349,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 300630,
@@ -891,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264064,
-      "num": 264064,
-      "word": "东部战区今日演训重点",
-      "onboard_time": 1659848674,
-      "rank": 37,
-      "category": "军事,国内要闻"
+      "raw_hot": 266974,
+      "num": 266974,
+      "word": "饿了么",
+      "onboard_time": 1659850111,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 263634,
@@ -912,14 +976,6 @@
       "word": "8月7日零时起上海全市疫情风险区清零",
       "onboard_time": 1659785674,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255675,
-      "num": 255675,
-      "word": "疑因捡空瓶大爷多次踢打驼背老人",
-      "onboard_time": 1659848910,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1075,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186775,
-      "num": 186775,
-      "word": "170多个国家和国际组织重申一个中国",
-      "onboard_time": 1659849152,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 183407,
       "num": 183407,
       "word": "周深说我很怕孤单很怕黑",
@@ -1104,6 +1152,14 @@
       "word": "光与夜之恋",
       "onboard_time": 1659787953,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 177576,
+      "num": 177576,
+      "word": "京一假赛",
+      "onboard_time": 1659850232,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -1153,14 +1209,6 @@
       "onboard_time": 1659841890,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 162027,
-      "num": 162027,
-      "word": "北京一男子地铁上小便被行拘",
-      "onboard_time": 1659849448,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160438,
