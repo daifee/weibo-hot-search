@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659914425369,
+  "endTime": 1659915392433,
   "band_list": [
     {
       "raw_hot": 2576722,
@@ -11,12 +11,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1975378,
+      "num": 1975378,
+      "word": "西藏发现4名阳性感染者",
+      "onboard_time": 1659914301,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1407181,
       "num": 1407181,
       "word": "不知道台湾是中国的一部分就去读书",
       "onboard_time": 1659865951,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1331012,
+      "num": 971560,
+      "word": "一家13口滞留三亚7天将花18万",
+      "onboard_time": 1659885512,
+      "rank": 4,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1296110,
@@ -27,20 +43,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1018977,
-      "num": 1018977,
+      "raw_hot": 1135276,
+      "num": 1135276,
       "word": "冰川消融致54年前坠机残骸现身",
       "onboard_time": 1659907030,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 987057,
-      "num": 971560,
-      "word": "一家13口滞留三亚7天将花18万",
-      "onboard_time": 1659885512,
-      "rank": 4,
-      "category": "社会新闻,财经"
+      "raw_hot": 1065885,
+      "num": 1065885,
+      "word": "山东局地将迎大到暴雨",
+      "onboard_time": 1659911475,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 904432,
@@ -51,12 +67,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 856738,
-      "num": 856738,
-      "word": "山东局地将迎大到暴雨",
-      "onboard_time": 1659911475,
+      "raw_hot": 818453,
+      "num": 818453,
+      "word": "巴黎世家12000元新包像大垃圾袋",
+      "onboard_time": 1659913460,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 690713,
+      "num": 690713,
+      "word": "月饼包装今年再瘦身",
+      "onboard_time": 1659910574,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 684156,
@@ -75,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 632219,
+      "num": 632219,
+      "word": "苍兰诀",
+      "onboard_time": 1659881974,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 603806,
       "num": 603806,
       "word": "虞书欣演技",
@@ -89,14 +121,6 @@
       "onboard_time": 1659875733,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 563186,
-      "num": 563186,
-      "word": "苍兰诀",
-      "onboard_time": 1659881974,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 553366,
@@ -123,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 479734,
-      "num": 479734,
-      "word": "月饼包装今年再瘦身",
-      "onboard_time": 1659910574,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 469191,
       "num": 469191,
       "word": "极限挑战",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445278,
+      "num": 1217209,
+      "word": "高二男生扛国旗夜爬泰山",
+      "onboard_time": 1659876393,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429796,
       "num": 429796,
       "word": "18岁女生打耳洞后肝肾受损颅内感染",
@@ -160,14 +184,6 @@
       "word": "男子买100块冰块给鱼降温",
       "onboard_time": 1659881374,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 426646,
-      "num": 1217209,
-      "word": "高二男生扛国旗夜爬泰山",
-      "onboard_time": 1659876393,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -235,8 +251,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314017,
+      "num": 314017,
+      "word": "新晋奶爸左右手托双胞胎睡觉气坏宝妈",
+      "onboard_time": 1659883293,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300337,
-      "num": 216696,
+      "num": 237539,
       "word": "少年派2大结局你满意吗",
       "onboard_time": 1659868469,
       "rank": 30,
@@ -257,6 +281,14 @@
       "onboard_time": 1659871710,
       "rank": 24,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 289680,
+      "num": 289680,
+      "word": "义乌机场回应博主开无人认领行李箱",
+      "onboard_time": 1659872791,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274463,
@@ -283,14 +315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263335,
-      "num": 263335,
-      "word": "义乌机场回应博主开无人认领行李箱",
-      "onboard_time": 1659872791,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259477,
       "num": 259477,
       "word": "京一终身禁赛",
@@ -299,12 +323,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 258968,
-      "num": 258968,
-      "word": "巴黎世家12000元新包像大垃圾袋",
-      "onboard_time": 1659913460,
-      "rank": 12,
-      "category": "财经,社会新闻"
+      "raw_hot": 251496,
+      "num": 251496,
+      "word": "小伙立夏在上海隔离立秋滞留三亚",
+      "onboard_time": 1659880055,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249511,
+      "num": 249511,
+      "word": "谭谈交通回来了",
+      "onboard_time": 1659877711,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 245843,
@@ -323,27 +355,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233165,
-      "num": 233165,
-      "word": "西藏发现4名阳性感染者",
-      "onboard_time": 1659914301,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230638,
-      "num": 230638,
-      "word": "新晋奶爸左右手托双胞胎睡觉气坏宝妈",
-      "onboard_time": 1659883293,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225723,
-      "num": 225723,
-      "word": "小伙立夏在上海隔离立秋滞留三亚",
-      "onboard_time": 1659880055,
-      "rank": 28,
+      "raw_hot": 244804,
+      "num": 244804,
+      "word": "三亚本轮疫情累计801例确诊409例无症状",
+      "onboard_time": 1659914361,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1659885873,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202393,
+      "num": 202393,
+      "word": "海口疫情防控",
+      "onboard_time": 1659915325,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200346,
@@ -387,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181516,
+      "num": 181516,
+      "word": "AG十年九冠",
+      "onboard_time": 1659914060,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170427,
+      "num": 170427,
+      "word": "钱三一没毕业",
+      "onboard_time": 1659875074,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163404,
       "num": 163404,
       "word": "湖南新增本土确诊1例无症状3例",
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153686,
-      "num": 153686,
-      "word": "谭谈交通回来了",
-      "onboard_time": 1659877711,
-      "rank": 26,
-      "category": "社会新闻,网红"
+      "raw_hot": 152269,
+      "num": 152269,
+      "word": "月升沧海",
+      "onboard_time": 1659914602,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 151518,
@@ -443,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139931,
+      "num": 139931,
+      "word": "BLACKPINK先行曲预告海报",
+      "onboard_time": 1659915266,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138459,
       "num": 138459,
       "word": "钱三一重新选择科研",
@@ -467,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131785,
-      "num": 72016,
-      "word": "三亚本轮疫情累计801例确诊409例无症状",
-      "onboard_time": 1659914361,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127021,
       "num": 127021,
       "word": "好心疼冉莹颖",
@@ -489,6 +529,14 @@
       "onboard_time": 1659892520,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124444,
+      "num": 124444,
+      "word": "小猫咪都在锻炼",
+      "onboard_time": 1659915083,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 123137,
@@ -515,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109841,
+      "num": 109841,
+      "word": "汪苏泷说社交无秘诀说话凭直觉",
+      "onboard_time": 1659910994,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104239,
       "num": 104239,
       "word": "秋天的第一份祝福",
@@ -529,30 +585,6 @@
       "onboard_time": 1659884911,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98802,
-      "num": 98802,
-      "word": "AG十年九冠",
-      "onboard_time": 1659914060,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 91185,
-      "num": 91185,
-      "word": "钱三一没毕业",
-      "onboard_time": 1659875074,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 85680,
-      "num": 85680,
-      "word": "汪苏泷说社交无秘诀说话凭直觉",
-      "onboard_time": 1659910994,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 60877,
