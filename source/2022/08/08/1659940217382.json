@@ -1,0 +1,410 @@
+{
+  "runTime": 1659940217382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2286250,
+        "num": 2286250,
+        "word": "女子连续3年每月痛经15天以为没事",
+        "onboard_time": 1659934556,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335804,
+        "num": 1335804,
+        "word": "华春莹点赞台湾山东饺子馆",
+        "onboard_time": 1659928438,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123840,
+        "num": 1190000,
+        "word": "再看08北京奥运依旧热血沸腾",
+        "onboard_time": 1659916227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122975,
+        "num": 1122975,
+        "word": "安徽卫视 男生女生向前冲",
+        "onboard_time": 1659936283,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1089271,
+        "num": 1089271,
+        "word": "解放军继续位台岛周边实战化演训",
+        "onboard_time": 1659933004,
+        "rank": 4,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 883615,
+        "num": 883615,
+        "word": "儿子中考考砸母亲撕下满墙奖状",
+        "onboard_time": 1659924390,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 870249,
+        "num": 870249,
+        "word": "去医院千万不要穿的衣服",
+        "onboard_time": 1659929519,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 866425,
+        "num": 866425,
+        "word": "iPhone14Pro约8999起",
+        "onboard_time": 1659932465,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 837909,
+        "num": 837909,
+        "word": "琅琊",
+        "onboard_time": 1659932947,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780785,
+        "num": 780785,
+        "word": "不致命但很烦人的慢性病",
+        "onboard_time": 1659924150,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1085195,
+        "num": 764127,
+        "word": "马伯骞 桑延",
+        "onboard_time": 1659933727,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 706222,
+        "num": 706222,
+        "word": "小黄豆 落水",
+        "onboard_time": 1659938861,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683523,
+        "num": 683523,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 12,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 677546,
+        "num": 677546,
+        "word": "尽量不要晚上去爬泰山",
+        "onboard_time": 1659937902,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 662197,
+        "num": 662197,
+        "word": "中国发现新人畜共患病毒琅琊",
+        "onboard_time": 1659932947,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583960,
+        "num": 583960,
+        "word": "美退役军官称如今解放军脱胎换骨",
+        "onboard_time": 1659935749,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 568469,
+        "num": 568469,
+        "word": "被爷爷17年的追星笔记整破防了",
+        "onboard_time": 1659933727,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495401,
+        "num": 495401,
+        "word": "金丝猴坐路边礼貌接过游客苹果",
+        "onboard_time": 1659931743,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 480827,
+        "num": 480827,
+        "word": "8岁女童6次切肝等待肝移植",
+        "onboard_time": 1659935095,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459892,
+        "num": 459892,
+        "word": "香港宣布缩短酒店隔离时间",
+        "onboard_time": 1659936765,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414488,
+        "num": 414488,
+        "word": "日本一海上自卫队员遇袭",
+        "onboard_time": 1659937602,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 389337,
+        "num": 389337,
+        "word": "苹果新iPadPro将配备两个四针接口",
+        "onboard_time": 1659936822,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385075,
+        "num": 385075,
+        "word": "暑假余额都交给鹅厂综艺了",
+        "onboard_time": 1659931929,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383466,
+        "num": 383466,
+        "word": "男子下班用微信工作发病认定工伤",
+        "onboard_time": 1659939338,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341810,
+        "num": 341810,
+        "word": "偷偷藏不住",
+        "onboard_time": 1659928801,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329600,
+        "num": 329600,
+        "word": "农民日报评论全县静默庄稼没法静默",
+        "onboard_time": 1659932407,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308684,
+        "num": 308684,
+        "word": "女生从倒数逆袭中大哽咽感谢父亲",
+        "onboard_time": 1659934323,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 306462,
+        "num": 306462,
+        "word": "台军方7日发现66架次解放军军机巡台",
+        "onboard_time": 1659938678,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 298094,
+        "num": 298094,
+        "word": "台北故宫辟谣台当局准备转移文物到美日",
+        "onboard_time": 1659939699,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 289581,
+        "num": 289581,
+        "word": "凌不疑程少商互找命门花絮",
+        "onboard_time": 1659931682,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278152,
+        "num": 278152,
+        "word": "NCT127九月回归",
+        "onboard_time": 1659938861,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272670,
+        "num": 272670,
+        "word": "蓝色生命线",
+        "onboard_time": 1659938979,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 267772,
+        "num": 267772,
+        "word": "网传肖战出演马伯庸新剧",
+        "onboard_time": 1659927841,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263637,
+        "num": 263637,
+        "word": "研究生毕业生及在校生征兵年龄放宽",
+        "onboard_time": 1659938259,
+        "rank": 33,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 261485,
+        "num": 261485,
+        "word": "当事人回应滞留三亚7天将花18万",
+        "onboard_time": 1659920551,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261423,
+        "num": 261423,
+        "word": "新疆新增无症状69例",
+        "onboard_time": 1659937302,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251295,
+        "num": 251295,
+        "word": "难听",
+        "onboard_time": 1659928740,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248214,
+        "num": 248214,
+        "word": "美颜滤镜下的阿云嘎",
+        "onboard_time": 1659934142,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237973,
+        "num": 237973,
+        "word": "情侣因上海疫情推迟婚礼又困三亚",
+        "onboard_time": 1659924935,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228417,
+        "num": 228417,
+        "word": "研究称睡前剧烈运动不利睡眠",
+        "onboard_time": 1659936822,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226375,
+        "num": 226375,
+        "word": "一组跳绳动作瘦全身",
+        "onboard_time": 1659937840,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219013,
+        "num": 219013,
+        "word": "苹果开始录制iPhone14系列发布会",
+        "onboard_time": 1659930720,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209993,
+        "num": 209993,
+        "word": "男子躲火车厕所裸聊遭对方敲诈",
+        "onboard_time": 1659920191,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204042,
+        "num": 204042,
+        "word": "苹果将于9月13日举行发布会",
+        "onboard_time": 1659939338,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199515,
+        "num": 199515,
+        "word": "王俊凯把自己交付给孟超",
+        "onboard_time": 1659930477,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187175,
+        "num": 187175,
+        "word": "中国足协启动对广东省运会决赛调查",
+        "onboard_time": 1659940058,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 179805,
+        "word": "吉林发现4人核酸阳性",
+        "onboard_time": 1659939520,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175470,
+        "num": 175470,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1659929939,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173335,
+        "num": 173335,
+        "word": "国防部回应取消中美两军三项交往活动",
+        "onboard_time": 1659923729,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171049,
+        "num": 171049,
+        "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
+        "onboard_time": 1659925061,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
