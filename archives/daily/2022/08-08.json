@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659944158609,
+  "endTime": 1659947410501,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -9,6 +9,14 @@
       "onboard_time": 1659924390,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3657086,
+      "num": 3657086,
+      "word": "东部战区",
+      "onboard_time": 1659936462,
+      "rank": 25,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 3458684,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2108213,
-      "num": 2108213,
-      "word": "东部战区",
-      "onboard_time": 1659936462,
-      "rank": 25,
-      "category": "军事,社会新闻"
+      "raw_hot": 1983827,
+      "num": 1983827,
+      "word": "禁止收视率点击率等虚假宣传",
+      "onboard_time": 1659944676,
+      "rank": 1,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 1975378,
@@ -219,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1228317,
+      "num": 1228317,
+      "word": "女孩收到录取通知书后跑进派出所",
+      "onboard_time": 1659941737,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1219151,
       "num": 1219151,
       "word": "解放军继续位台岛周边实战化演训",
@@ -227,8 +243,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 1154250,
-      "num": 1154250,
+      "raw_hot": 1170010,
+      "num": 1170010,
       "word": "台北故宫辟谣台当局准备转移文物到美日",
       "onboard_time": 1659939699,
       "rank": 28,
@@ -291,6 +307,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1003904,
+      "num": 1003904,
+      "word": "上海宝山一盆市价10万多肉被偷",
+      "onboard_time": 1659944436,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999248,
       "num": 999248,
       "word": "情侣因上海疫情推迟婚礼又困三亚",
@@ -337,6 +361,14 @@
       "onboard_time": 1659865711,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 840141,
+      "num": 840141,
+      "word": "里根号航母转向后继续向南移动",
+      "onboard_time": 1659940297,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 816959,
@@ -467,6 +499,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 639998,
+      "num": 639998,
+      "word": "华晨宇说这样弱小的欧豪不多见",
+      "onboard_time": 1659942759,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -481,6 +521,14 @@
       "onboard_time": 1659923249,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 614627,
+      "num": 614627,
+      "word": "95后女孩刷单5天被骗30多万",
+      "onboard_time": 1659945398,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608197,
@@ -507,20 +555,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 584299,
-      "num": 584299,
-      "word": "华晨宇说这样弱小的欧豪不多见",
-      "onboard_time": 1659942759,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 565656,
       "num": 565656,
       "word": "一定要和对象去献血",
       "onboard_time": 1659875733,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 563956,
+      "num": 563956,
+      "word": "台湾地图上飘出山东味道",
+      "onboard_time": 1659942218,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553366,
@@ -587,12 +635,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 491223,
-      "num": 491223,
-      "word": "女孩收到录取通知书后跑进派出所",
-      "onboard_time": 1659941737,
-      "rank": 25,
-      "category": "社会新闻,教育"
+      "raw_hot": 496443,
+      "num": 496443,
+      "word": "上海居民人均可支配收入达7.8万元",
+      "onboard_time": 1659943477,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489115,
@@ -603,12 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 483482,
-      "num": 483482,
-      "word": "里根号航母转向后继续向南移动",
-      "onboard_time": 1659940297,
-      "rank": 40,
-      "category": "军事"
+      "raw_hot": 486511,
+      "num": 486511,
+      "word": "IP大于原创",
+      "onboard_time": 1659945936,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 480827,
@@ -691,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425151,
+      "num": 425151,
+      "word": "唐诗逸说虞书欣小兰花可爱",
+      "onboard_time": 1659947257,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419321,
       "num": 419321,
       "word": "美颜滤镜下的阿云嘎",
@@ -721,6 +777,14 @@
       "onboard_time": 1659915083,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403084,
+      "num": 403084,
+      "word": "阿里首次推出个人碳账户",
+      "onboard_time": 1659944018,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 402830,
@@ -779,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389511,
+      "num": 389511,
+      "word": "MonstaX五名成员续约",
+      "onboard_time": 1659945877,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384131,
       "num": 384131,
       "word": "THE9哈尔滨演唱会取消",
@@ -811,6 +883,14 @@
       "category": "影视,社会议题"
     },
     {
+      "raw_hot": 374211,
+      "num": 374211,
+      "word": "成毅片场忽悠杨紫",
+      "onboard_time": 1659943176,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372070,
       "num": 367379,
       "word": "电影世间有她定档中秋",
@@ -833,6 +913,14 @@
       "onboard_time": 1659882095,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366853,
+      "num": 366853,
+      "word": "甜美的咬痕动画定档",
+      "onboard_time": 1659945996,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 360943,
@@ -947,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311843,
+      "num": 280946,
+      "word": "范丞丞撞衫白鹿周深狗头睡衣",
+      "onboard_time": 1659946596,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310547,
       "num": 310547,
       "word": "海南疫情防控",
@@ -976,14 +1072,6 @@
       "word": "再看08北京奥运依旧热血沸腾",
       "onboard_time": 1659916227,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301858,
-      "num": 301858,
-      "word": "台湾地图上飘出山东味道",
-      "onboard_time": 1659942218,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1040,6 +1128,14 @@
       "word": "海南增259例确诊245例无症状",
       "onboard_time": 1659923249,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284329,
+      "num": 284329,
+      "word": "多家共享单车价格调整",
+      "onboard_time": 1659945816,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1105,6 +1201,14 @@
       "onboard_time": 1659934614,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 269107,
+      "num": 269107,
+      "word": "偷偷藏不住网传阵容你满意吗",
+      "onboard_time": 1659946358,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 265514,
@@ -1201,14 +1305,6 @@
       "onboard_time": 1659931260,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249671,
-      "num": 249671,
-      "word": "成毅片场忽悠杨紫",
-      "onboard_time": 1659943176,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 249511,
@@ -1371,22 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212883,
-      "num": 212883,
-      "word": "上海居民人均可支配收入达7.8万元",
-      "onboard_time": 1659943477,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207325,
-      "num": 207325,
-      "word": "阿里首次推出个人碳账户",
-      "onboard_time": 1659944018,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 204302,
       "num": 151240,
       "word": "王一博热烈杀青合照",
@@ -1507,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167474,
+      "num": 1607713,
+      "word": "全民运动健身图鉴",
+      "onboard_time": 1659942876,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163404,
       "num": 163404,
       "word": "湖南新增本土确诊1例无症状3例",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1659890244,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161699,
+      "num": 161699,
+      "word": "刘畊宏全民健身日直播",
+      "onboard_time": 1659947257,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 161643,
@@ -1553,6 +1649,14 @@
       "onboard_time": 1659877172,
       "rank": 42,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 149357,
+      "num": 149357,
+      "word": "女子朋友圈刷到遗书报警救下一命",
+      "onboard_time": 1659947376,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140207,
@@ -1593,14 +1697,6 @@
       "onboard_time": 1659866970,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130313,
-      "num": 1607713,
-      "word": "全民运动健身图鉴",
-      "onboard_time": 1659942876,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127021,
