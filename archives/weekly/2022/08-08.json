@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659943205454,
+  "endTime": 1659944158609,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -24,6 +24,14 @@
       "word": "解放军轰炸机歼轰机挂载实弹接续升空",
       "onboard_time": 1659872553,
       "rank": 0,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 2451381,
+      "num": 2451381,
+      "word": "台军方7日发现66架次解放军军机巡台",
+      "onboard_time": 1659938678,
+      "rank": 27,
       "category": "军事"
     },
     {
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2108213,
+      "num": 2108213,
+      "word": "东部战区",
+      "onboard_time": 1659936462,
+      "rank": 25,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 1975378,
       "num": 1975378,
       "word": "西藏发现4名阳性感染者",
@@ -81,14 +97,6 @@
       "onboard_time": 1659928740,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1855904,
-      "num": 1855904,
-      "word": "台军方7日发现66架次解放军军机巡台",
-      "onboard_time": 1659938678,
-      "rank": 27,
-      "category": "军事"
     },
     {
       "raw_hot": 1776176,
@@ -129,14 +137,6 @@
       "onboard_time": 1659929519,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1503887,
-      "num": 1503887,
-      "word": "东部战区",
-      "onboard_time": 1659936462,
-      "rank": 25,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1444930,
@@ -195,6 +195,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1321181,
+      "num": 1321181,
+      "word": "男子下班用微信工作发病认定工伤",
+      "onboard_time": 1659939338,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1300557,
       "num": 1207599,
       "word": "国防部回应取消中美两军三项交往活动",
@@ -219,12 +227,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 1192004,
-      "num": 1192004,
-      "word": "男子下班用微信工作发病认定工伤",
-      "onboard_time": 1659939338,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 1154250,
+      "num": 1154250,
+      "word": "台北故宫辟谣台当局准备转移文物到美日",
+      "onboard_time": 1659939699,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1135276,
@@ -371,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 735158,
-      "num": 735158,
-      "word": "台北故宫辟谣台当局准备转移文物到美日",
-      "onboard_time": 1659939699,
-      "rank": 28,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 726259,
       "num": 726259,
       "word": "哈尔滨疫情防控",
@@ -507,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 584299,
+      "num": 584299,
+      "word": "华晨宇说这样弱小的欧豪不多见",
+      "onboard_time": 1659942759,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565656,
       "num": 565656,
       "word": "一定要和对象去献血",
@@ -579,12 +587,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 491223,
+      "num": 491223,
+      "word": "女孩收到录取通知书后跑进派出所",
+      "onboard_time": 1659941737,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 489115,
       "num": 489115,
       "word": "谢娜为电影断桥打call",
       "onboard_time": 1659886531,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483482,
+      "num": 483482,
+      "word": "里根号航母转向后继续向南移动",
+      "onboard_time": 1659940297,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 480827,
@@ -673,6 +697,14 @@
       "onboard_time": 1659934142,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416154,
+      "num": 416154,
+      "word": "吉林发现4人核酸阳性",
+      "onboard_time": 1659939520,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414488,
@@ -795,22 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369490,
-      "num": 369490,
-      "word": "吉林发现4人核酸阳性",
-      "onboard_time": 1659939520,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368460,
-      "num": 368460,
-      "word": "华晨宇说这样弱小的欧豪不多见",
-      "onboard_time": 1659942759,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 366916,
       "num": 313241,
       "word": "娜扎直播生图",
@@ -825,14 +841,6 @@
       "onboard_time": 1659925554,
       "rank": 28,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 359837,
-      "num": 359837,
-      "word": "女孩收到录取通知书后跑进派出所",
-      "onboard_time": 1659941737,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 358691,
@@ -867,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338820,
-      "num": 356796,
-      "word": "里根号航母转向后继续向南移动",
-      "onboard_time": 1659940297,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
       "raw_hot": 338621,
       "num": 338621,
       "word": "TEAMCHINA入驻微博",
@@ -905,6 +905,14 @@
       "onboard_time": 1659896176,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330443,
+      "num": 330443,
+      "word": "独居的幸福感是猫咪给的",
+      "onboard_time": 1659942638,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 327349,
@@ -971,20 +979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301858,
+      "num": 301858,
+      "word": "台湾地图上飘出山东味道",
+      "onboard_time": 1659942218,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300337,
       "num": 237539,
       "word": "少年派2大结局你满意吗",
       "onboard_time": 1659868469,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297620,
-      "num": 297620,
-      "word": "独居的幸福感是猫咪给的",
-      "onboard_time": 1659942638,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 297556,
@@ -1139,6 +1147,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 261502,
+      "num": 261502,
+      "word": "海南新增77例本土阳性感染者",
+      "onboard_time": 1659943838,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259611,
       "num": 259611,
       "word": "INTO1新歌一步一诗一梦",
@@ -1187,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249671,
+      "num": 249671,
+      "word": "成毅片场忽悠杨紫",
+      "onboard_time": 1659943176,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249511,
       "num": 249511,
       "word": "谭谈交通回来了",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1659929219,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240798,
+      "num": 240798,
+      "word": "TangoZ说向前冲最容易出圈的是落水",
+      "onboard_time": 1659942695,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 239422,
@@ -1307,20 +1339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225153,
-      "num": 225153,
-      "word": "台湾地图上飘出山东味道",
-      "onboard_time": 1659942218,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223926,
-      "num": 223926,
-      "word": "TangoZ说向前冲最容易出圈的是落水",
-      "onboard_time": 1659942695,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 219963,
+      "num": 219963,
+      "word": "LPL夏季赛周最佳阵容",
+      "onboard_time": 1659943119,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 219102,
@@ -1345,6 +1369,22 @@
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212883,
+      "num": 212883,
+      "word": "上海居民人均可支配收入达7.8万元",
+      "onboard_time": 1659943477,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207325,
+      "num": 207325,
+      "word": "阿里首次推出个人碳账户",
+      "onboard_time": 1659944018,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 204302,
@@ -1411,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187852,
+      "num": 187852,
+      "word": "初级会计考试难度",
+      "onboard_time": 1659942817,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187404,
       "num": 187404,
       "word": "九尾的王昭君",
@@ -1457,22 +1505,6 @@
       "onboard_time": 1659875074,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170134,
-      "num": 170134,
-      "word": "成毅片场忽悠杨紫",
-      "onboard_time": 1659943176,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169742,
-      "num": 169742,
-      "word": "LPL夏季赛周最佳阵容",
-      "onboard_time": 1659943119,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 163404,
@@ -1563,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130313,
+      "num": 1607713,
+      "word": "全民运动健身图鉴",
+      "onboard_time": 1659942876,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127021,
       "num": 127021,
       "word": "好心疼冉莹颖",
@@ -1635,12 +1675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40773,
-      "num": 1507512,
-      "word": "全民运动健身图鉴",
-      "onboard_time": 1659942876,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 35144,
+      "num": 549034,
+      "word": "张继科说今晚肯定不睡",
+      "onboard_time": 1659942998,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 33191,
@@ -1649,14 +1689,6 @@
       "onboard_time": 1659901931,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31788,
-      "num": 549034,
-      "word": "张继科说今晚肯定不睡",
-      "onboard_time": 1659942998,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 28294,
