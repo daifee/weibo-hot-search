@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659990209294,
+  "endTime": 1659991113157,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -2796,7 +2796,7 @@
     },
     {
       "raw_hot": 126263,
-      "num": 74890,
+      "num": 93141,
       "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
       "onboard_time": 1659983234,
       "rank": 49,
@@ -2907,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 41190,
+      "num": 41190,
+      "word": "解放军台海演训激发年轻人从军热情",
+      "onboard_time": 1659987432,
+      "rank": 19,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 35144,
       "num": 549034,
       "word": "张继科说今晚肯定不睡",
@@ -2915,28 +2923,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33191,
-      "num": 33191,
-      "word": "谢可寅谈对糊的理解",
-      "onboard_time": 1659901931,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32567,
-      "num": 32567,
+      "raw_hot": 34717,
+      "num": 34717,
       "word": "专访金像奖影后刘雅瑟",
       "onboard_time": 1659987912,
       "rank": 18,
       "category": "影视"
     },
     {
-      "raw_hot": 32514,
-      "num": 32514,
-      "word": "解放军台海演训激发年轻人从军热情",
-      "onboard_time": 1659987432,
-      "rank": 19,
-      "category": "军事,社会新闻"
+      "raw_hot": 33191,
+      "num": 33191,
+      "word": "谢可寅谈对糊的理解",
+      "onboard_time": 1659901931,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 28294,
@@ -2979,20 +2979,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18401,
+      "num": 18401,
+      "word": "驾校教练专拍女学员大腿称因有流量",
+      "onboard_time": 1659989413,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16097,
       "num": 16097,
       "word": "孟子义蹭饭体面人",
       "onboard_time": 1659905950,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14165,
-      "num": 14165,
-      "word": "驾校教练专拍女学员大腿称因有流量",
-      "onboard_time": 1659989413,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13370,
