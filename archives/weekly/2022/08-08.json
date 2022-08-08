@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659931103090,
+  "endTime": 1659931742208,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -9,6 +9,14 @@
       "onboard_time": 1659924390,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3077133,
+      "num": 3077133,
+      "word": "华春莹点赞台湾山东饺子馆",
+      "onboard_time": 1659928438,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2576722,
@@ -27,14 +35,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 2162240,
-      "num": 2162240,
-      "word": "华春莹点赞台湾山东饺子馆",
-      "onboard_time": 1659928438,
-      "rank": 1,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 2115888,
       "num": 2115888,
       "word": "当事人回应滞留三亚7天将花18万",
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1915715,
-      "num": 1915715,
+      "raw_hot": 1929994,
+      "num": 1929994,
       "word": "网传肖战出演马伯庸新剧",
       "onboard_time": 1659927841,
       "rank": 3,
@@ -211,6 +211,22 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 816959,
+      "num": 816959,
+      "word": "王俊凯把自己交付给孟超",
+      "onboard_time": 1659930477,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 798274,
+      "num": 798274,
+      "word": "去医院千万不要穿的衣服",
+      "onboard_time": 1659929519,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 789733,
       "num": 789733,
       "word": "王传君翻窗进屋把武大靖整懵了",
@@ -225,6 +241,14 @@
       "onboard_time": 1659923848,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726259,
+      "num": 726259,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1659929939,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710162,
@@ -283,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 645430,
-      "num": 645430,
-      "word": "王俊凯把自己交付给孟超",
-      "onboard_time": 1659930477,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -307,12 +323,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 623639,
-      "num": 623639,
-      "word": "去医院千万不要穿的衣服",
-      "onboard_time": 1659929519,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 608197,
+      "num": 608197,
+      "word": "整牙正畸并不是越早越好",
+      "onboard_time": 1659927131,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 603806,
@@ -329,22 +345,6 @@
       "onboard_time": 1659922471,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 583154,
-      "num": 583154,
-      "word": "整牙正畸并不是越早越好",
-      "onboard_time": 1659927131,
-      "rank": 15,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 581655,
-      "num": 581655,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1659929939,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565656,
@@ -411,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468667,
+      "num": 468667,
+      "word": "苹果开始录制iPhone14系列发布会",
+      "onboard_time": 1659930720,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 467224,
       "num": 467224,
       "word": "三亚新增186例确诊病例",
       "onboard_time": 1659896414,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466880,
+      "num": 239250,
+      "word": "凌不疑程少商互找命门花絮",
+      "onboard_time": 1659931682,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 462536,
@@ -441,6 +457,14 @@
       "onboard_time": 1659869310,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429230,
+      "num": 429230,
+      "word": "胆小鬼开播",
+      "onboard_time": 1659930299,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 428264,
@@ -515,6 +539,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 378317,
+      "num": 378317,
+      "word": "央视夏日歌会定档0813",
+      "onboard_time": 1659930784,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 376439,
+      "num": 376439,
+      "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
+      "onboard_time": 1659925061,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 372070,
+      "num": 367379,
+      "word": "电影世间有她定档中秋",
+      "onboard_time": 1659931021,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370608,
       "num": 370608,
       "word": "男子轻生向救援民警索要300元",
@@ -579,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327578,
-      "num": 327578,
-      "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
-      "onboard_time": 1659925061,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 319891,
       "num": 319891,
       "word": "浙江义乌新增56例阳性",
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 305215,
-      "num": 1974555,
+      "num": 2240473,
       "word": "再看08北京奥运依旧热血沸腾",
       "onboard_time": 1659916227,
       "rank": 2,
@@ -641,22 +681,6 @@
       "onboard_time": 1659868469,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298313,
-      "num": 298313,
-      "word": "胆小鬼开播",
-      "onboard_time": 1659930299,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 297926,
-      "num": 297926,
-      "word": "苹果开始录制iPhone14系列发布会",
-      "onboard_time": 1659930720,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 297556,
@@ -755,14 +779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 253393,
-      "num": 253393,
-      "word": "央视夏日歌会定档0813",
-      "onboard_time": 1659930784,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251496,
       "num": 251496,
       "word": "小伙立夏在上海隔离立秋滞留三亚",
@@ -776,6 +792,14 @@
       "word": "广州新增本土确诊4例无症状1例",
       "onboard_time": 1659925991,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251370,
+      "num": 731478,
+      "word": "雷军的人生低谷",
+      "onboard_time": 1659931260,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -825,6 +849,14 @@
       "onboard_time": 1659929219,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239422,
+      "num": 239422,
+      "word": "玫瑰之战今日开播",
+      "onboard_time": 1659931503,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 235862,
@@ -881,14 +913,6 @@
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207167,
-      "num": 207167,
-      "word": "电影世间有她定档中秋",
-      "onboard_time": 1659931021,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 204302,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1659895155,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51616,
+      "num": 303291,
+      "word": "上海叫高峰的打车可免单",
+      "onboard_time": 1659931260,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33191,

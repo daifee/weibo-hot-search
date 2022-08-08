@@ -1,0 +1,410 @@
+{
+  "runTime": 1659931742208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3537196,
+        "num": 3537196,
+        "word": "儿子中考考砸母亲撕下满墙奖状",
+        "onboard_time": 1659924390,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 3077133,
+        "num": 3077133,
+        "word": "华春莹点赞台湾山东饺子馆",
+        "onboard_time": 1659928438,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 300729,
+        "num": 2240473,
+        "word": "再看08北京奥运依旧热血沸腾",
+        "onboard_time": 1659916227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929994,
+        "num": 1929994,
+        "word": "网传肖战出演马伯庸新剧",
+        "onboard_time": 1659927841,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1721245,
+        "num": 1721245,
+        "word": "不致命但很烦人的慢性病",
+        "onboard_time": 1659924150,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1618916,
+        "num": 1618916,
+        "word": "难听",
+        "onboard_time": 1659928740,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1418589,
+        "num": 1418589,
+        "word": "偷偷藏不住",
+        "onboard_time": 1659928801,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1003149,
+        "num": 1003149,
+        "word": "国防部回应取消中美两军三项交往活动",
+        "onboard_time": 1659923729,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 962103,
+        "num": 962103,
+        "word": "情侣因上海疫情推迟婚礼又困三亚",
+        "onboard_time": 1659924935,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917655,
+        "num": 917655,
+        "word": "比亚迪副总裁豪捐1.6亿",
+        "onboard_time": 1659923969,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 881810,
+        "num": 881810,
+        "word": "当事人回应滞留三亚7天将花18万",
+        "onboard_time": 1659920551,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816959,
+        "num": 816959,
+        "word": "王俊凯把自己交付给孟超",
+        "onboard_time": 1659930477,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 798274,
+        "num": 798274,
+        "word": "去医院千万不要穿的衣服",
+        "onboard_time": 1659929519,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 762617,
+        "num": 762617,
+        "word": "男子看全景地图发现和去世同学合影",
+        "onboard_time": 1659921689,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251370,
+        "num": 731478,
+        "word": "雷军的人生低谷",
+        "onboard_time": 1659931260,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726259,
+        "num": 726259,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1659929939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665598,
+        "num": 665598,
+        "word": "朱洁静一人分饰两角",
+        "onboard_time": 1659925494,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608197,
+        "num": 608197,
+        "word": "整牙正畸并不是越早越好",
+        "onboard_time": 1659927131,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 468667,
+        "num": 468667,
+        "word": "苹果开始录制iPhone14系列发布会",
+        "onboard_time": 1659930720,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 465757,
+        "num": 465757,
+        "word": "长春疫情防控",
+        "onboard_time": 1659926945,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652252,
+        "num": 464046,
+        "word": "男子躲火车厕所裸聊遭对方敲诈",
+        "onboard_time": 1659920191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449693,
+        "num": 449693,
+        "word": "巴黎世家12000元新包像大垃圾袋",
+        "onboard_time": 1659913460,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 429230,
+        "num": 429230,
+        "word": "胆小鬼开播",
+        "onboard_time": 1659930299,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390556,
+        "num": 390556,
+        "word": "油价",
+        "onboard_time": 1659917910,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 386439,
+        "num": 386439,
+        "word": "严浩翔新歌侠rap",
+        "onboard_time": 1659930183,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385661,
+        "num": 385661,
+        "word": "BLACKPINK晒睡衣照庆祝六周年",
+        "onboard_time": 1659921571,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378317,
+        "num": 378317,
+        "word": "央视夏日歌会定档0813",
+        "onboard_time": 1659930784,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376439,
+        "num": 376439,
+        "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
+        "onboard_time": 1659925061,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 368962,
+        "num": 368962,
+        "word": "感觉被健身房的标语内涵了",
+        "onboard_time": 1659928384,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367836,
+        "num": 367836,
+        "word": "日首相声称中方军演事关日本安全",
+        "onboard_time": 1659916047,
+        "rank": 29,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 372070,
+        "num": 367379,
+        "word": "电影世间有她定档中秋",
+        "onboard_time": 1659931021,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366594,
+        "num": 366594,
+        "word": "国际油价跌至俄乌冲突爆发前水平",
+        "onboard_time": 1659922471,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363140,
+        "num": 363140,
+        "word": "男子轻生向救援民警索要300元",
+        "onboard_time": 1659927841,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357276,
+        "num": 357276,
+        "word": "求赵今麦郭俊辰三搭",
+        "onboard_time": 1659923848,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349323,
+        "num": 349323,
+        "word": "小猫咪都在锻炼",
+        "onboard_time": 1659915083,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345796,
+        "num": 345796,
+        "word": "有三亚酒店涨价超4倍",
+        "onboard_time": 1659921927,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 333696,
+        "num": 333696,
+        "word": "小鹿是不是也不想努力了",
+        "onboard_time": 1659929159,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321790,
+        "num": 321790,
+        "word": "北京石景山一对夫妻核酸检测阳性",
+        "onboard_time": 1659922528,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310143,
+        "num": 310143,
+        "word": "CPA准考证",
+        "onboard_time": 1659920432,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51616,
+        "num": 303291,
+        "word": "上海叫高峰的打车可免单",
+        "onboard_time": 1659931260,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300391,
+        "num": 300391,
+        "word": "被滞留三亚游客现状如何",
+        "onboard_time": 1659921271,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 286566,
+        "num": 286566,
+        "word": "张继科每天爬百层台阶",
+        "onboard_time": 1659925554,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 274315,
+        "num": 274315,
+        "word": "野象助民警抓5名偷渡嫌疑人",
+        "onboard_time": 1659930897,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266810,
+        "num": 266810,
+        "word": "广东省运会决赛假球",
+        "onboard_time": 1659917371,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257373,
+        "num": 257373,
+        "word": "中方对美反制完全合理恰当适度",
+        "onboard_time": 1659923249,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 248371,
+        "num": 248371,
+        "word": "张阳发火",
+        "onboard_time": 1659926881,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239422,
+        "num": 239422,
+        "word": "玫瑰之战今日开播",
+        "onboard_time": 1659931503,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466880,
+        "num": 239250,
+        "word": "凌不疑程少商互找命门花絮",
+        "onboard_time": 1659931682,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238204,
+        "num": 238204,
+        "word": "苍兰诀",
+        "onboard_time": 1659881974,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204243,
+        "num": 204243,
+        "word": "被蚊子叮咬后起水疱患虫咬性皮炎",
+        "onboard_time": 1659928198,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#充分发挥体育在促进人的全面发展中的重要作用#"
+    }
+  }
+}
