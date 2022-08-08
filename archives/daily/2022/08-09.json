@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1659991113157,
+  "endTime": 1659993529065,
   "band_list": [
     {
       "raw_hot": 2291748,
@@ -411,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65688,
+      "num": 41190,
+      "word": "解放军台海演训激发年轻人从军热情",
+      "onboard_time": 1659987432,
+      "rank": 19,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 64687,
       "num": 64687,
       "word": "这猫咪是从梁山下来的吧",
       "onboard_time": 1659979878,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58565,
+      "num": 40658,
+      "word": "驾校教练专拍女学员大腿称因有流量",
+      "onboard_time": 1659989413,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52990,
@@ -443,16 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41190,
-      "num": 41190,
-      "word": "解放军台海演训激发年轻人从军热情",
-      "onboard_time": 1659987432,
-      "rank": 19,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 34717,
-      "num": 34717,
+      "raw_hot": 36910,
+      "num": 36910,
       "word": "专访金像奖影后刘雅瑟",
       "onboard_time": 1659987912,
       "rank": 18,
@@ -467,20 +475,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18401,
-      "num": 18401,
-      "word": "驾校教练专拍女学员大腿称因有流量",
-      "onboard_time": 1659989413,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13370,
       "num": 13370,
       "word": "野牛气垫登陆艇到底有多牛",
       "onboard_time": 1659985812,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 10304,
+      "num": 10304,
+      "word": "小兰花长珩仙君双向暗恋",
+      "onboard_time": 1659993251,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9773,
+      "num": 9773,
+      "word": "学习成绩和过程哪个更重要",
+      "onboard_time": 1659993251,
+      "rank": 49,
+      "category": "教育,情感"
     }
   ],
   "hotgov_list": [
