@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1659973431115,
+  "endTime": 1659976340492,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1811,6 +1811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2291748,
+      "num": 1660559,
+      "word": "韩国暴雨",
+      "onboard_time": 1659971320,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2286250,
       "num": 2286250,
       "word": "女子连续3年每月痛经15天以为没事",
@@ -2715,14 +2723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1660559,
-      "num": 1660559,
-      "word": "韩国暴雨",
-      "onboard_time": 1659971320,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1658036,
       "num": 1658036,
       "word": "饿了么",
@@ -2984,6 +2984,14 @@
       "word": "4K实拍随运20翱翔天空",
       "onboard_time": 1659432715,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1546941,
+      "num": 1546941,
+      "word": "1岁女童肚中取出柚子大小畸胎瘤",
+      "onboard_time": 1659971860,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4635,6 +4643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1056169,
+      "num": 565633,
+      "word": "上半年韩星收入TOP10",
+      "onboard_time": 1659972580,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055070,
       "num": 1055070,
       "word": "长津湖战役爆破水门桥英雄逝世",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1659345091,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1032047,
+      "num": 397878,
+      "word": "2岁女童从22楼装修工地坠落幸存",
+      "onboard_time": 1659972700,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031452,
@@ -8187,14 +8211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 582939,
-      "num": 565633,
-      "word": "上半年韩星收入TOP10",
-      "onboard_time": 1659972580,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 582544,
       "num": 582544,
       "word": "孙滢皓人鱼妆",
@@ -8377,14 +8393,6 @@
       "onboard_time": 1659571297,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 571690,
-      "num": 571690,
-      "word": "1岁女童肚中取出柚子大小畸胎瘤",
-      "onboard_time": 1659971860,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571524,
@@ -10283,6 +10291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466869,
+      "num": 466869,
+      "word": "易方达",
+      "onboard_time": 1659971077,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 466343,
       "num": 466343,
       "word": "东部战区继续进行实战化联合演训",
@@ -11889,6 +11905,14 @@
       "onboard_time": 1659525165,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 399832,
+      "num": 399832,
+      "word": "婚车公司拒吃盒饭要求新娘备酒席",
+      "onboard_time": 1659972637,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399243,
@@ -13747,14 +13771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339979,
-      "num": 339979,
-      "word": "易方达",
-      "onboard_time": 1659971077,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 338621,
       "num": 338621,
       "word": "TEAMCHINA入驻微博",
@@ -14153,6 +14169,14 @@
       "onboard_time": 1659921271,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 327112,
+      "num": 267133,
+      "word": "BLACKPINK合体直播截图",
+      "onboard_time": 1659974975,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 326708,
@@ -16211,6 +16235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259453,
+      "num": 259453,
+      "word": "西安东汉墓葬发现龙纹铺地砖",
+      "onboard_time": 1659974077,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259263,
       "num": 199606,
       "word": "乘风破浪总决赛应援海报",
@@ -16313,14 +16345,6 @@
       "onboard_time": 1659854009,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 257023,
-      "num": 257023,
-      "word": "2岁女童从22楼装修工地坠落幸存",
-      "onboard_time": 1659972700,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256279,
@@ -18723,6 +18747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149759,
+      "num": 142320,
+      "word": "王鹤棣多少有点幽默在身上",
+      "onboard_time": 1659975930,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148000,
       "num": 148000,
       "word": "吐鲁番一串葡萄有手臂那么长",
@@ -18833,14 +18865,6 @@
       "onboard_time": 1659395246,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135253,
-      "num": 135253,
-      "word": "婚车公司拒吃盒饭要求新娘备酒席",
-      "onboard_time": 1659972637,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132241,
@@ -18985,6 +19009,14 @@
       "onboard_time": 1659269489,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113137,
+      "num": 113137,
+      "word": "马龙晒健身日常",
+      "onboard_time": 1659975632,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 112571,

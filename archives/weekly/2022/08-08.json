@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659973431115,
+  "endTime": 1659976340492,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -81,6 +81,14 @@
       "onboard_time": 1659933727,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2291748,
+      "num": 1660559,
+      "word": "韩国暴雨",
+      "onboard_time": 1659971320,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2286250,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1660559,
-      "num": 1660559,
-      "word": "韩国暴雨",
-      "onboard_time": 1659971320,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1653064,
       "num": 1653064,
       "word": "iPhone14Pro约8999起",
@@ -209,6 +209,14 @@
       "onboard_time": 1659929519,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1546941,
+      "num": 1546941,
+      "word": "1岁女童肚中取出柚子大小畸胎瘤",
+      "onboard_time": 1659971860,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1515127,
@@ -427,6 +435,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1056169,
+      "num": 565633,
+      "word": "上半年韩星收入TOP10",
+      "onboard_time": 1659972580,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1051691,
       "num": 1051691,
       "word": "油价",
@@ -449,6 +465,14 @@
       "onboard_time": 1659913460,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1032047,
+      "num": 397878,
+      "word": "2岁女童从22楼装修工地坠落幸存",
+      "onboard_time": 1659972700,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 999248,
@@ -891,22 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582939,
-      "num": 565633,
-      "word": "上半年韩星收入TOP10",
-      "onboard_time": 1659972580,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 571690,
-      "num": 571690,
-      "word": "1岁女童肚中取出柚子大小畸胎瘤",
-      "onboard_time": 1659971860,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565656,
       "num": 565656,
       "word": "一定要和对象去献血",
@@ -1155,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466869,
+      "num": 466869,
+      "word": "易方达",
+      "onboard_time": 1659971077,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 462536,
       "num": 462536,
       "word": "油价或现四连跌",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1659964897,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399832,
+      "num": 399832,
+      "word": "婚车公司拒吃盒饭要求新娘备酒席",
+      "onboard_time": 1659972637,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395060,
@@ -1603,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339979,
-      "num": 339979,
-      "word": "易方达",
-      "onboard_time": 1659971077,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 338621,
       "num": 338621,
       "word": "TEAMCHINA入驻微博",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1659921271,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 327112,
+      "num": 267133,
+      "word": "BLACKPINK合体直播截图",
+      "onboard_time": 1659974975,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 325515,
@@ -2075,20 +2099,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259453,
+      "num": 259453,
+      "word": "西安东汉墓葬发现龙纹铺地砖",
+      "onboard_time": 1659974077,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258891,
       "num": 258891,
       "word": "刘畊宏全民健身日直播",
       "onboard_time": 1659947257,
       "rank": 47,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 257023,
-      "num": 257023,
-      "word": "2岁女童从22楼装修工地坠落幸存",
-      "onboard_time": 1659972700,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254416,
@@ -2675,6 +2699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149759,
+      "num": 142320,
+      "word": "王鹤棣多少有点幽默在身上",
+      "onboard_time": 1659975930,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149580,
       "num": 149580,
       "word": "全国下半年征兵工作展开",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1659870453,
       "rank": 44,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 135253,
-      "num": 135253,
-      "word": "婚车公司拒吃盒饭要求新娘备酒席",
-      "onboard_time": 1659972637,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132749,
@@ -2809,6 +2833,14 @@
       "onboard_time": 1659871112,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113137,
+      "num": 113137,
+      "word": "马龙晒健身日常",
+      "onboard_time": 1659975632,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 109841,
