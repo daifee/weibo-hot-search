@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660000990339,
+  "endTime": 1660001913769,
   "band_list": [
     {
       "raw_hot": 2291748,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1208085,
-      "num": 1208085,
+      "raw_hot": 1543389,
+      "num": 1543389,
       "word": "婚车公司拒吃盒饭要求新娘备酒席",
       "onboard_time": 1659972637,
       "rank": 9,
@@ -35,8 +35,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1099862,
+      "num": 1099862,
+      "word": "女生跟男友回老家睡沙发",
+      "onboard_time": 1659999922,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056169,
-      "num": 432127,
+      "num": 466142,
       "word": "上半年韩星收入TOP10",
       "onboard_time": 1659972580,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1032047,
-      "num": 446123,
+      "num": 514201,
       "word": "2岁女童从22楼装修工地坠落幸存",
       "onboard_time": 1659972700,
       "rank": 11,
@@ -67,48 +75,48 @@
       "category": "情感"
     },
     {
-      "raw_hot": 650045,
-      "num": 650045,
-      "word": "男子身上长结石30多年成珍珠人",
-      "onboard_time": 1659963696,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620443,
-      "num": 620443,
-      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
-      "onboard_time": 1659983234,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600919,
-      "num": 397633,
-      "word": "小红书崩了",
-      "onboard_time": 1659968019,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 599319,
-      "num": 599319,
+      "raw_hot": 800965,
+      "num": 800965,
       "word": "吴磊叫赵露思小孩",
       "onboard_time": 1660000461,
       "rank": 5,
       "category": "影视"
     },
     {
-      "raw_hot": 597407,
-      "num": 597407,
+      "raw_hot": 763175,
+      "num": 763175,
+      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+      "onboard_time": 1659983234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677536,
+      "num": 677536,
+      "word": "男子身上长结石30多年成珍珠人",
+      "onboard_time": 1659963696,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628155,
+      "num": 628155,
       "word": "阳光玫瑰价格大跳水",
       "onboard_time": 1659965317,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515857,
-      "num": 515857,
+      "raw_hot": 600919,
+      "num": 477395,
+      "word": "小红书崩了",
+      "onboard_time": 1659968019,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 529170,
+      "num": 529170,
       "word": "解放军台海演训激发年轻人从军热情",
       "onboard_time": 1659987432,
       "rank": 19,
@@ -147,11 +155,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396149,
-      "num": 396149,
-      "word": "女生跟男友回老家睡沙发",
-      "onboard_time": 1659999922,
-      "rank": 12,
+      "raw_hot": 405001,
+      "num": 405001,
+      "word": "台北70岁山东饺子馆老板发声",
+      "onboard_time": 1659961654,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -203,11 +211,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 356970,
-      "num": 356970,
-      "word": "台北70岁山东饺子馆老板发声",
-      "onboard_time": 1659961654,
-      "rank": 15,
+      "raw_hot": 356431,
+      "num": 356431,
+      "word": "入秋最积极的城市",
+      "onboard_time": 1659966462,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 347944,
+      "num": 347944,
+      "word": "银行回应高温天拒绝市民入内排队",
+      "onboard_time": 1659960815,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -219,28 +235,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 330318,
+      "num": 330318,
+      "word": "济青高速青岛方向15个收费站临时关闭",
+      "onboard_time": 1660000826,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327112,
       "num": 267133,
       "word": "BLACKPINK合体直播截图",
       "onboard_time": 1659974975,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322838,
-      "num": 322838,
-      "word": "银行回应高温天拒绝市民入内排队",
-      "onboard_time": 1659960815,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321972,
-      "num": 321972,
-      "word": "入秋最积极的城市",
-      "onboard_time": 1659966462,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 321827,
@@ -267,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264796,
-      "num": 264796,
+      "raw_hot": 288073,
+      "num": 288073,
       "word": "打工人带饭四个月的变化",
       "onboard_time": 1659967119,
       "rank": 25,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255150,
+      "num": 255150,
+      "word": "驾校教练专拍女学员大腿称因有流量",
+      "onboard_time": 1659989413,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249058,
       "num": 201151,
       "word": "吴磊赵露思月升沧海体型差",
@@ -291,19 +307,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218022,
-      "num": 218022,
-      "word": "拉萨发现18例阳性",
-      "onboard_time": 1659956254,
-      "rank": 33,
+      "raw_hot": 238003,
+      "num": 238003,
+      "word": "张家界自行车赛跌落骑手已去世",
+      "onboard_time": 1660001422,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213945,
-      "num": 213945,
-      "word": "驾校教练专拍女学员大腿称因有流量",
-      "onboard_time": 1659989413,
-      "rank": 44,
+      "raw_hot": 228619,
+      "num": 228619,
+      "word": "8月8日东部战区砺兵台海现场视频",
+      "onboard_time": 1659960936,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 223261,
+      "num": 223261,
+      "word": "拉萨发现18例阳性",
+      "onboard_time": 1659956254,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -323,20 +347,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201300,
-      "num": 201300,
-      "word": "8月8日东部战区砺兵台海现场视频",
-      "onboard_time": 1659960936,
-      "rank": 43,
-      "category": "军事"
-    },
-    {
       "raw_hot": 198811,
       "num": 198811,
       "word": "长生花好虐",
       "onboard_time": 1659964237,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185940,
+      "num": 185940,
+      "word": "女子停车被挡指挥同伴强行撞开",
+      "onboard_time": 1660001124,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185326,
+      "num": 185326,
+      "word": "为什么年轻人理财越理越穷",
+      "onboard_time": 1659960335,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182188,
@@ -355,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162080,
+      "num": 162080,
+      "word": "这猫咪是从梁山下来的吧",
+      "onboard_time": 1659979878,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151451,
       "num": 151451,
       "word": "沉香如屑",
@@ -371,28 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147125,
-      "num": 147125,
-      "word": "为什么年轻人理财越理越穷",
-      "onboard_time": 1659960335,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144561,
       "num": 144561,
       "word": "坚持运动的6大好处",
       "onboard_time": 1659970177,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139079,
-      "num": 139079,
-      "word": "这猫咪是从梁山下来的吧",
-      "onboard_time": 1659979878,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 136770,
@@ -419,20 +443,36 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 130334,
+      "num": 130334,
+      "word": "李汶翰包场请粉丝看遇见你",
+      "onboard_time": 1659997033,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130240,
+      "num": 130240,
+      "word": "首尔地区暴雨致多处被淹",
+      "onboard_time": 1660001183,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127067,
+      "num": 127067,
+      "word": "许凯万鹏同框路透",
+      "onboard_time": 1660000643,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120868,
       "num": 120868,
       "word": "原来猫猫真的会孤独",
       "onboard_time": 1659954572,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113580,
-      "num": 113580,
-      "word": "许凯万鹏同框路透",
-      "onboard_time": 1660000643,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 113137,
@@ -443,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111818,
+      "num": 111818,
+      "word": "专访金像奖影后刘雅瑟",
+      "onboard_time": 1659987912,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111144,
       "num": 111144,
       "word": "解放军重点组织联合反潜和对海突击",
@@ -451,28 +499,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 106752,
-      "num": 106752,
-      "word": "李汶翰包场请粉丝看遇见你",
-      "onboard_time": 1659997033,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 98557,
+      "num": 98557,
+      "word": "一条毛巾缓解腰酸背痛",
+      "onboard_time": 1660001786,
+      "rank": 46,
+      "category": "体育"
     },
     {
-      "raw_hot": 94776,
-      "num": 94776,
+      "raw_hot": 98474,
+      "num": 98474,
       "word": "店主谎称做活动为8旬老人免单",
       "onboard_time": 1659994211,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93912,
-      "num": 93912,
-      "word": "专访金像奖影后刘雅瑟",
-      "onboard_time": 1659987912,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 86320,
@@ -481,14 +521,6 @@
       "onboard_time": 1659997754,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 84975,
-      "num": 84975,
-      "word": "济青高速青岛方向15个收费站临时关闭",
-      "onboard_time": 1660000826,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84183,
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 27477,
-      "num": 838210,
+      "num": 882154,
       "word": "中国人独有的双奥记忆",
       "onboard_time": 1659916949,
       "rank": 2,

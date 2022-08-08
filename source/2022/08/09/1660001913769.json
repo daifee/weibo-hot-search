@@ -1,0 +1,410 @@
+{
+  "runTime": 1660001913769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1543389,
+        "num": 1543389,
+        "word": "婚车公司拒吃盒饭要求新娘备酒席",
+        "onboard_time": 1659972637,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099862,
+        "num": 1099862,
+        "word": "女生跟男友回老家睡沙发",
+        "onboard_time": 1659999922,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25515,
+        "num": 882154,
+        "word": "中国人独有的双奥记忆",
+        "onboard_time": 1659916949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820594,
+        "num": 820594,
+        "word": "中方坚决反对给一个中国原则加前后缀",
+        "onboard_time": 1659970060,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 800965,
+        "num": 800965,
+        "word": "吴磊叫赵露思小孩",
+        "onboard_time": 1660000461,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763175,
+        "num": 763175,
+        "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+        "onboard_time": 1659983234,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677536,
+        "num": 677536,
+        "word": "男子身上长结石30多年成珍珠人",
+        "onboard_time": 1659963696,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628155,
+        "num": 628155,
+        "word": "阳光玫瑰价格大跳水",
+        "onboard_time": 1659965317,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551954,
+        "num": 551954,
+        "word": "男生加了微信不说话怎么办",
+        "onboard_time": 1659960394,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529170,
+        "num": 529170,
+        "word": "解放军台海演训激发年轻人从军热情",
+        "onboard_time": 1659987432,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 771397,
+        "num": 514201,
+        "word": "2岁女童从22楼装修工地坠落幸存",
+        "onboard_time": 1659972700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477395,
+        "num": 477395,
+        "word": "小红书崩了",
+        "onboard_time": 1659968019,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 466142,
+        "num": 466142,
+        "word": "上半年韩星收入TOP10",
+        "onboard_time": 1659972580,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431249,
+        "num": 431249,
+        "word": "三亚全域静态管理期间欠费不停供",
+        "onboard_time": 1659995653,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405001,
+        "num": 405001,
+        "word": "台北70岁山东饺子馆老板发声",
+        "onboard_time": 1659961654,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356431,
+        "num": 356431,
+        "word": "入秋最积极的城市",
+        "onboard_time": 1659966462,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 347944,
+        "num": 347944,
+        "word": "银行回应高温天拒绝市民入内排队",
+        "onboard_time": 1659960815,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330318,
+        "num": 330318,
+        "word": "济青高速青岛方向15个收费站临时关闭",
+        "onboard_time": 1660000826,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323063,
+        "num": 323063,
+        "word": "12岁女孩永远吃不饱体重近200斤",
+        "onboard_time": 1659969397,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288073,
+        "num": 288073,
+        "word": "打工人带饭四个月的变化",
+        "onboard_time": 1659967119,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 914943,
+        "num": 286081,
+        "word": "王栎鑫 你想转就转不要往回找补",
+        "onboard_time": 1659969100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282595,
+        "num": 282595,
+        "word": "成都一男子持菜刀街头叫嚣",
+        "onboard_time": 1659971016,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267322,
+        "num": 267322,
+        "word": "沉香如屑 灯芯",
+        "onboard_time": 1659971679,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255150,
+        "num": 255150,
+        "word": "驾校教练专拍女学员大腿称因有流量",
+        "onboard_time": 1659989413,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238003,
+        "num": 238003,
+        "word": "张家界自行车赛跌落骑手已去世",
+        "onboard_time": 1660001422,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228619,
+        "num": 228619,
+        "word": "8月8日东部战区砺兵台海现场视频",
+        "onboard_time": 1659960936,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 223261,
+        "num": 223261,
+        "word": "拉萨发现18例阳性",
+        "onboard_time": 1659956254,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221105,
+        "num": 221105,
+        "word": "1岁女童肚中取出柚子大小畸胎瘤",
+        "onboard_time": 1659971860,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215972,
+        "num": 215972,
+        "word": "杨紫说这桃花运来得有点突然",
+        "onboard_time": 1659956434,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212638,
+        "num": 212638,
+        "word": "官方回应张家界自行车赛选手疑坠崖",
+        "onboard_time": 1659970360,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206889,
+        "num": 206889,
+        "word": "基金经理",
+        "onboard_time": 1659968979,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202278,
+        "num": 202278,
+        "word": "五哈第三季拟邀嘉宾",
+        "onboard_time": 1659963216,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185940,
+        "num": 185940,
+        "word": "女子停车被挡指挥同伴强行撞开",
+        "onboard_time": 1660001124,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185326,
+        "num": 185326,
+        "word": "为什么年轻人理财越理越穷",
+        "onboard_time": 1659960335,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162080,
+        "num": 162080,
+        "word": "这猫咪是从梁山下来的吧",
+        "onboard_time": 1659979878,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161821,
+        "num": 161821,
+        "word": "福建男女平均身高出炉",
+        "onboard_time": 1659967479,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159199,
+        "num": 159199,
+        "word": "苏醒 表面关系都是生意",
+        "onboard_time": 1659968499,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157634,
+        "num": 157634,
+        "word": "西安东汉墓葬发现龙纹铺地砖",
+        "onboard_time": 1659974077,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152113,
+        "num": 152113,
+        "word": "小伙遇车祸为救人相亲迟到20分钟",
+        "onboard_time": 1659967297,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144980,
+        "num": 144980,
+        "word": "王曼昱 逛街",
+        "onboard_time": 1659968260,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130334,
+        "num": 130334,
+        "word": "李汶翰包场请粉丝看遇见你",
+        "onboard_time": 1659997033,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130240,
+        "num": 130240,
+        "word": "首尔地区暴雨致多处被淹",
+        "onboard_time": 1660001183,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127067,
+        "num": 127067,
+        "word": "许凯万鹏同框路透",
+        "onboard_time": 1660000643,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125712,
+        "num": 125712,
+        "word": "易方达",
+        "onboard_time": 1659971077,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 120957,
+        "word": "学习成绩和过程哪个更重要",
+        "onboard_time": 1659993251,
+        "rank": 44,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 111818,
+        "num": 111818,
+        "word": "专访金像奖影后刘雅瑟",
+        "onboard_time": 1659987912,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98557,
+        "num": 98557,
+        "word": "一条毛巾缓解腰酸背痛",
+        "onboard_time": 1660001786,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98474,
+        "num": 98474,
+        "word": "店主谎称做活动为8旬老人免单",
+        "onboard_time": 1659994211,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96525,
+        "num": 96525,
+        "word": "苍兰诀",
+        "onboard_time": 1659961715,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95370,
+        "num": 95370,
+        "word": "友情可以升级为爱情吗",
+        "onboard_time": 1659963458,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界潮流浩荡公道自在人心#"
+    }
+  }
+}
