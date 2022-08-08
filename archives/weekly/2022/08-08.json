@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659947410501,
+  "endTime": 1659948297672,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -11,8 +11,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 3657086,
-      "num": 3657086,
+      "raw_hot": 3686698,
+      "num": 3686698,
       "word": "东部战区",
       "onboard_time": 1659936462,
       "rank": 25,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1983827,
-      "num": 1983827,
+      "raw_hot": 2017476,
+      "num": 2017476,
       "word": "禁止收视率点击率等虚假宣传",
       "onboard_time": 1659944676,
       "rank": 1,
@@ -89,6 +89,14 @@
       "onboard_time": 1659914301,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1972243,
+      "num": 435841,
+      "word": "谢谢王菲",
+      "onboard_time": 1659947978,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1929994,
@@ -227,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1264255,
+      "num": 1264255,
+      "word": "上海宝山一盆市价10万多肉被偷",
+      "onboard_time": 1659944436,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1228317,
       "num": 1228317,
       "word": "女孩收到录取通知书后跑进派出所",
@@ -305,14 +321,6 @@
       "onboard_time": 1659913460,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1003904,
-      "num": 1003904,
-      "word": "上海宝山一盆市价10万多肉被偷",
-      "onboard_time": 1659944436,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 999248,
@@ -451,6 +459,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 695103,
+      "num": 695103,
+      "word": "95后女孩刷单5天被骗30多万",
+      "onboard_time": 1659945398,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690713,
       "num": 690713,
       "word": "月饼包装今年再瘦身",
@@ -491,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655220,
+      "num": 655220,
+      "word": "唐诗逸说虞书欣小兰花可爱",
+      "onboard_time": 1659947257,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642415,
       "num": 642415,
       "word": "美退役军官称如今解放军脱胎换骨",
@@ -521,14 +545,6 @@
       "onboard_time": 1659923249,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 614627,
-      "num": 614627,
-      "word": "95后女孩刷单5天被骗30多万",
-      "onboard_time": 1659945398,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608197,
@@ -635,12 +651,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 496443,
-      "num": 496443,
+      "raw_hot": 510358,
+      "num": 510358,
       "word": "上海居民人均可支配收入达7.8万元",
       "onboard_time": 1659943477,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496473,
+      "num": 496473,
+      "word": "IP大于原创",
+      "onboard_time": 1659945936,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 489115,
@@ -651,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 486511,
-      "num": 486511,
-      "word": "IP大于原创",
-      "onboard_time": 1659945936,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 482408,
+      "num": 435115,
+      "word": "范丞丞撞衫白鹿周深狗头睡衣",
+      "onboard_time": 1659946596,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 480827,
@@ -696,6 +720,14 @@
       "word": "高二男生扛国旗夜爬泰山",
       "onboard_time": 1659876393,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434321,
+      "num": 434321,
+      "word": "女子朋友圈刷到遗书报警救下一命",
+      "onboard_time": 1659947376,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -739,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425151,
-      "num": 425151,
-      "word": "唐诗逸说虞书欣小兰花可爱",
-      "onboard_time": 1659947257,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 420387,
+      "num": 420387,
+      "word": "阿里首次推出个人碳账户",
+      "onboard_time": 1659944018,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 419321,
@@ -779,14 +811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 403084,
-      "num": 403084,
-      "word": "阿里首次推出个人碳账户",
-      "onboard_time": 1659944018,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 402830,
       "num": 402830,
       "word": "苹果新iPadPro将配备两个四针接口",
@@ -801,6 +825,14 @@
       "onboard_time": 1659928384,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398240,
+      "num": 398240,
+      "word": "偷偷藏不住网传阵容你满意吗",
+      "onboard_time": 1659946358,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 395060,
@@ -971,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336755,
+      "num": 275935,
+      "word": "艺人真人vs显示屏",
+      "onboard_time": 1659947797,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 335029,
       "num": 335029,
       "word": "第一次见这么享受洗澡的狗",
@@ -1035,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311843,
-      "num": 280946,
-      "word": "范丞丞撞衫白鹿周深狗头睡衣",
-      "onboard_time": 1659946596,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310547,
       "num": 310547,
       "word": "海南疫情防控",
@@ -1072,6 +1104,14 @@
       "word": "再看08北京奥运依旧热血沸腾",
       "onboard_time": 1659916227,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303185,
+      "num": 303185,
+      "word": "多家共享单车价格调整",
+      "onboard_time": 1659945816,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1128,14 +1168,6 @@
       "word": "海南增259例确诊245例无症状",
       "onboard_time": 1659923249,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284329,
-      "num": 284329,
-      "word": "多家共享单车价格调整",
-      "onboard_time": 1659945816,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1201,14 +1233,6 @@
       "onboard_time": 1659934614,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 269107,
-      "num": 269107,
-      "word": "偷偷藏不住网传阵容你满意吗",
-      "onboard_time": 1659946358,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 265514,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244442,
+      "num": 191291,
+      "word": "被逛游乐园的爷爷奶奶甜到了",
+      "onboard_time": 1659948279,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243701,
       "num": 243701,
       "word": "马嘉祺新歌侠高音",
@@ -1435,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225013,
+      "num": 225013,
+      "word": "仙剑3动画概念预告",
+      "onboard_time": 1659947677,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 219963,
       "num": 219963,
       "word": "LPL夏季赛周最佳阵容",
@@ -1464,6 +1504,14 @@
       "word": "被蚊子叮咬后起水疱患虫咬性皮炎",
       "onboard_time": 1659928198,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205755,
+      "num": 205755,
+      "word": "官方回应温泉乐园禁止带水进入",
+      "onboard_time": 1659947916,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1497,6 +1545,14 @@
       "onboard_time": 1659937004,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200900,
+      "num": 200900,
+      "word": "刘畊宏全民健身日直播",
+      "onboard_time": 1659947257,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 200346,
@@ -1587,8 +1643,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167474,
-      "num": 1607713,
+      "raw_hot": 169392,
+      "num": 1621802,
       "word": "全民运动健身图鉴",
       "onboard_time": 1659942876,
       "rank": 2,
@@ -1611,20 +1667,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161699,
-      "num": 161699,
-      "word": "刘畊宏全民健身日直播",
-      "onboard_time": 1659947257,
-      "rank": 47,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 161643,
       "num": 161643,
       "word": "男子酒后持刀威胁店主大妈淡定夺刀",
       "onboard_time": 1659874652,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161412,
+      "num": 161412,
+      "word": "这个冠军来得有点猝不及防",
+      "onboard_time": 1659948157,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 152269,
@@ -1649,14 +1705,6 @@
       "onboard_time": 1659877172,
       "rank": 42,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 149357,
-      "num": 149357,
-      "word": "女子朋友圈刷到遗书报警救下一命",
-      "onboard_time": 1659947376,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140207,
