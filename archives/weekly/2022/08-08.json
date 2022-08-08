@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659977721643,
+  "endTime": 1659979535519,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -1499,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372405,
+      "num": 372405,
+      "word": "西安东汉墓葬发现龙纹铺地砖",
+      "onboard_time": 1659974077,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372070,
       "num": 367379,
       "word": "电影世间有她定档中秋",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1659947797,
       "rank": 32,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 335380,
-      "num": 295320,
-      "word": "西安东汉墓葬发现龙纹铺地砖",
-      "onboard_time": 1659974077,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335029,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1659870453,
       "rank": 44,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 133831,
+      "num": 102029,
+      "word": "你期待马伯骞演的桑延吗",
+      "onboard_time": 1659979279,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 132749,
