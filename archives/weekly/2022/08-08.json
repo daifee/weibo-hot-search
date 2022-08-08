@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659936300233,
+  "endTime": 1659937165402,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -56,6 +56,14 @@
       "word": "西藏发现4名阳性感染者",
       "onboard_time": 1659914301,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1940240,
+      "num": 1940240,
+      "word": "女子连续3年每月痛经15天以为没事",
+      "onboard_time": 1659934556,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -131,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1429538,
-      "num": 1429538,
-      "word": "女子连续3年每月痛经15天以为没事",
-      "onboard_time": 1659934556,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1407181,
       "num": 1407181,
       "word": "不知道台湾是中国的一部分就去读书",
@@ -185,6 +185,14 @@
       "onboard_time": 1659886291,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1219151,
+      "num": 1219151,
+      "word": "解放军继续位台岛周边实战化演训",
+      "onboard_time": 1659933004,
+      "rank": 33,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1135276,
@@ -339,6 +347,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 705465,
+      "num": 705465,
+      "word": "被爷爷17年的追星笔记整破防了",
+      "onboard_time": 1659933727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696844,
       "num": 696844,
       "word": "轰炸机双向穿越台湾海峡交会瞬间",
@@ -387,28 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 646150,
-      "num": 646150,
-      "word": "被爷爷17年的追星笔记整破防了",
-      "onboard_time": 1659933727,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
       "onboard_time": 1659881974,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 631174,
-      "num": 631174,
-      "word": "解放军继续位台岛周边实战化演训",
-      "onboard_time": 1659933004,
-      "rank": 33,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 628237,
@@ -513,6 +513,14 @@
       "onboard_time": 1659886531,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 478463,
+      "num": 478463,
+      "word": "安徽卫视 男生女生向前冲",
+      "onboard_time": 1659936283,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 469191,
@@ -681,6 +689,14 @@
       "onboard_time": 1659882095,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362125,
+      "num": 362125,
+      "word": "东部战区",
+      "onboard_time": 1659936462,
+      "rank": 25,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 360943,
@@ -915,12 +931,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259611,
+      "num": 259611,
+      "word": "INTO1新歌一步一诗一梦",
+      "onboard_time": 1659936104,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259477,
       "num": 259477,
       "word": "京一终身禁赛",
       "onboard_time": 1659872312,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256852,
+      "num": 256852,
+      "word": "苹果新iPadPro将配备两个四针接口",
+      "onboard_time": 1659936822,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 255931,
@@ -1043,20 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229698,
+      "num": 229698,
+      "word": "电影猎屠预售已开启",
+      "onboard_time": 1659936822,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229157,
+      "num": 229157,
+      "word": "美退役军官称如今解放军脱胎换骨",
+      "onboard_time": 1659935749,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 226483,
       "num": 226483,
       "word": "中国人独有的双奥记忆",
       "onboard_time": 1659916949,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 224714,
-      "num": 224714,
-      "word": "INTO1新歌一步一诗一梦",
-      "onboard_time": 1659936104,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 219102,
@@ -1075,20 +1115,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 218731,
+      "num": 218731,
+      "word": "研究称睡前剧烈运动不利睡眠",
+      "onboard_time": 1659936822,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216701,
       "num": 216701,
       "word": "被蚊子叮咬后起水疱患虫咬性皮炎",
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213777,
-      "num": 213777,
-      "word": "美退役军官称如今解放军脱胎换骨",
-      "onboard_time": 1659935749,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 204302,
@@ -1099,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204241,
+      "num": 204241,
+      "word": "香港宣布缩短酒店隔离时间",
+      "onboard_time": 1659936765,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202393,
       "num": 202393,
       "word": "海口疫情防控",
@@ -1107,12 +1155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201130,
-      "num": 201130,
-      "word": "安徽卫视 男生女生向前冲",
-      "onboard_time": 1659936283,
+      "raw_hot": 201738,
+      "num": 201738,
+      "word": "你运动时很美",
+      "onboard_time": 1659937004,
       "rank": 48,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 200346,

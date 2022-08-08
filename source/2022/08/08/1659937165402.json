@@ -1,0 +1,410 @@
+{
+  "runTime": 1659937165402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940240,
+        "num": 1940240,
+        "word": "女子连续3年每月痛经15天以为没事",
+        "onboard_time": 1659934556,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1928412,
+        "num": 1928412,
+        "word": "华春莹点赞台湾山东饺子馆",
+        "onboard_time": 1659928438,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181057,
+        "num": 1741538,
+        "word": "再看08北京奥运依旧热血沸腾",
+        "onboard_time": 1659916227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1599654,
+        "num": 1599654,
+        "word": "iPhone14Pro约8999起",
+        "onboard_time": 1659932465,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1391348,
+        "num": 1391348,
+        "word": "儿子中考考砸母亲撕下满墙奖状",
+        "onboard_time": 1659924390,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1255310,
+        "num": 1255310,
+        "word": "去医院千万不要穿的衣服",
+        "onboard_time": 1659929519,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1219151,
+        "num": 1219151,
+        "word": "解放军继续位台岛周边实战化演训",
+        "onboard_time": 1659933004,
+        "rank": 6,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1134699,
+        "num": 1134699,
+        "word": "琅琊",
+        "onboard_time": 1659932947,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036034,
+        "num": 1036034,
+        "word": "不致命但很烦人的慢性病",
+        "onboard_time": 1659924150,
+        "rank": 8,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 889274,
+        "num": 889274,
+        "word": "中国发现新人畜共患病毒琅琊",
+        "onboard_time": 1659932947,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1693334,
+        "num": 869855,
+        "word": "马伯骞 桑延",
+        "onboard_time": 1659933727,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 847331,
+        "num": 847331,
+        "word": "金丝猴坐路边礼貌接过游客苹果",
+        "onboard_time": 1659931743,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 705465,
+        "num": 705465,
+        "word": "被爷爷17年的追星笔记整破防了",
+        "onboard_time": 1659933727,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677742,
+        "num": 677742,
+        "word": "暑假余额都交给鹅厂综艺了",
+        "onboard_time": 1659931929,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11601,
+        "num": 667897,
+        "word": "新歌聊聊听哭了",
+        "onboard_time": 1659934858,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 667592,
+        "num": 667592,
+        "word": "农民日报评论全县静默庄稼没法静默",
+        "onboard_time": 1659932407,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564383,
+        "num": 564383,
+        "word": "凌不疑程少商互找命门花絮",
+        "onboard_time": 1659931682,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548269,
+        "num": 548269,
+        "word": "当事人回应滞留三亚7天将花18万",
+        "onboard_time": 1659920551,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535194,
+        "num": 535194,
+        "word": "网传肖战出演马伯庸新剧",
+        "onboard_time": 1659927841,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524004,
+        "num": 524004,
+        "word": "偷偷藏不住",
+        "onboard_time": 1659928801,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478463,
+        "num": 478463,
+        "word": "安徽卫视 男生女生向前冲",
+        "onboard_time": 1659936283,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455834,
+        "num": 455834,
+        "word": "苹果开始录制iPhone14系列发布会",
+        "onboard_time": 1659930720,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 440106,
+        "num": 440106,
+        "word": "难听",
+        "onboard_time": 1659928740,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395080,
+        "num": 395080,
+        "word": "男子躲火车厕所裸聊遭对方敲诈",
+        "onboard_time": 1659920191,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382487,
+        "num": 382487,
+        "word": "情侣因上海疫情推迟婚礼又困三亚",
+        "onboard_time": 1659924935,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362125,
+        "num": 362125,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 25,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 353854,
+        "num": 353854,
+        "word": "女生从倒数逆袭中大哽咽感谢父亲",
+        "onboard_time": 1659934323,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 350173,
+        "num": 350173,
+        "word": "美颜滤镜下的阿云嘎",
+        "onboard_time": 1659934142,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340273,
+        "num": 340273,
+        "word": "男子看全景地图发现和去世同学合影",
+        "onboard_time": 1659921689,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333772,
+        "num": 333772,
+        "word": "国防部回应取消中美两军三项交往活动",
+        "onboard_time": 1659923729,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 323982,
+        "num": 323982,
+        "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
+        "onboard_time": 1659925061,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 317448,
+        "num": 317448,
+        "word": "王俊凯把自己交付给孟超",
+        "onboard_time": 1659930477,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270631,
+        "num": 270631,
+        "word": "比亚迪副总裁豪捐1.6亿",
+        "onboard_time": 1659923969,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259611,
+        "num": 259611,
+        "word": "INTO1新歌一步一诗一梦",
+        "onboard_time": 1659936104,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256852,
+        "num": 256852,
+        "word": "苹果新iPadPro将配备两个四针接口",
+        "onboard_time": 1659936822,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253106,
+        "num": 253106,
+        "word": "朱洁静一人分饰两角",
+        "onboard_time": 1659925494,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252184,
+        "num": 252184,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1659929939,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251980,
+        "num": 251980,
+        "word": "被滞留三亚游客现状如何",
+        "onboard_time": 1659921271,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 240390,
+        "num": 240390,
+        "word": "8岁女童6次切肝等待肝移植",
+        "onboard_time": 1659935095,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238960,
+        "num": 238960,
+        "word": "STAYC四名成员确诊新冠",
+        "onboard_time": 1659932043,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229698,
+        "num": 229698,
+        "word": "电影猎屠预售已开启",
+        "onboard_time": 1659936822,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229157,
+        "num": 229157,
+        "word": "美退役军官称如今解放军脱胎换骨",
+        "onboard_time": 1659935749,
+        "rank": 41,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 225567,
+        "num": 225567,
+        "word": "震后5年九寨沟如今有多美",
+        "onboard_time": 1659934614,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 218731,
+        "num": 218731,
+        "word": "研究称睡前剧烈运动不利睡眠",
+        "onboard_time": 1659936822,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207366,
+        "num": 207366,
+        "word": "北京石景山一对夫妻核酸检测阳性",
+        "onboard_time": 1659922528,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206045,
+        "num": 206045,
+        "word": "小鹿是不是也不想努力了",
+        "onboard_time": 1659929159,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204241,
+        "num": 204241,
+        "word": "香港宣布缩短酒店隔离时间",
+        "onboard_time": 1659936765,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203105,
+        "num": 203105,
+        "word": "CPA准考证",
+        "onboard_time": 1659920432,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 201738,
+        "num": 201738,
+        "word": "你运动时很美",
+        "onboard_time": 1659937004,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194167,
+        "num": 194167,
+        "word": "胆小鬼开播",
+        "onboard_time": 1659930299,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#充分发挥体育在促进人的全面发展中的重要作用#"
+    }
+  }
+}
