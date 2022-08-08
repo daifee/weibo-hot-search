@@ -1,0 +1,410 @@
+{
+  "runTime": 1659924047871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2340265,
+        "num": 2340265,
+        "word": "日首相声称中方军演事关日本安全",
+        "onboard_time": 1659916047,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1829845,
+        "num": 1829845,
+        "word": "当事人回应滞留三亚7天将花18万",
+        "onboard_time": 1659920551,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305215,
+        "num": 1225694,
+        "word": "再看08北京奥运依旧热血沸腾",
+        "onboard_time": 1659916227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109464,
+        "num": 1109464,
+        "word": "有三亚酒店涨价超4倍",
+        "onboard_time": 1659921927,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1051691,
+        "num": 1051691,
+        "word": "油价",
+        "onboard_time": 1659917910,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1041847,
+        "num": 1041847,
+        "word": "巴黎世家12000元新包像大垃圾袋",
+        "onboard_time": 1659913460,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 910801,
+        "num": 910801,
+        "word": "西藏发现4名阳性感染者",
+        "onboard_time": 1659914301,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789733,
+        "num": 789733,
+        "word": "王传君翻窗进屋把武大靖整懵了",
+        "onboard_time": 1659919470,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710162,
+        "num": 710162,
+        "word": "美方在台湾问题上犯了三方面错误",
+        "onboard_time": 1659917070,
+        "rank": 8,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 696844,
+        "num": 696844,
+        "word": "轰炸机双向穿越台湾海峡交会瞬间",
+        "onboard_time": 1659919232,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 664096,
+        "num": 664096,
+        "word": "乐华娱乐通过港交所聆讯",
+        "onboard_time": 1659919774,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 655568,
+        "num": 655568,
+        "word": "广东省运会决赛假球",
+        "onboard_time": 1659917371,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565293,
+        "num": 565293,
+        "word": "男子看全景地图发现和去世同学合影",
+        "onboard_time": 1659921689,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538596,
+        "num": 538596,
+        "word": "广东新增本土确诊37例",
+        "onboard_time": 1659921390,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531949,
+        "num": 531949,
+        "word": "北京石景山一对夫妻核酸检测阳性",
+        "onboard_time": 1659922528,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468137,
+        "num": 468137,
+        "word": "一家13口滞留三亚7天将花18万",
+        "onboard_time": 1659885512,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 462536,
+        "num": 462536,
+        "word": "油价或现四连跌",
+        "onboard_time": 1659919113,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 454204,
+        "num": 454204,
+        "word": "冰川消融致54年前坠机残骸现身",
+        "onboard_time": 1659907030,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410067,
+        "num": 410067,
+        "word": "小猫咪都在锻炼",
+        "onboard_time": 1659915083,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394911,
+        "num": 394911,
+        "word": "CPA准考证",
+        "onboard_time": 1659920432,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1352403,
+        "num": 390458,
+        "word": "男子躲火车厕所裸聊遭对方敲诈",
+        "onboard_time": 1659920191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689850,
+        "num": 388311,
+        "word": "BLACKPINK晒睡衣照庆祝六周年",
+        "onboard_time": 1659921571,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377623,
+        "num": 377623,
+        "word": "月饼包装今年再瘦身",
+        "onboard_time": 1659910574,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 359784,
+        "num": 359784,
+        "word": "和对的人恋爱真的会不一样",
+        "onboard_time": 1659886291,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342253,
+        "num": 342253,
+        "word": "河北新增2例确诊13例无症状感染者",
+        "onboard_time": 1659922710,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327516,
+        "num": 327516,
+        "word": "国际油价跌至俄乌冲突爆发前水平",
+        "onboard_time": 1659922471,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309692,
+        "num": 309692,
+        "word": "8月7日新增本土确诊324例",
+        "onboard_time": 1659922591,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287310,
+        "num": 287310,
+        "word": "初恋真的会念念不忘吗",
+        "onboard_time": 1659887011,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286248,
+        "num": 286248,
+        "word": "海南增259例确诊245例无症状",
+        "onboard_time": 1659923249,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286020,
+        "num": 286020,
+        "word": "国防部回应取消中美两军三项交往活动",
+        "onboard_time": 1659923729,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 280299,
+        "num": 280299,
+        "word": "解放军轰炸机歼轰机挂载实弹接续升空",
+        "onboard_time": 1659872553,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 280031,
+        "num": 280031,
+        "word": "北京8月7日新增两本土确诊",
+        "onboard_time": 1659922170,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271769,
+        "num": 271769,
+        "word": "不知道台湾是中国的一部分就去读书",
+        "onboard_time": 1659865951,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 268845,
+        "num": 268845,
+        "word": "苍兰诀",
+        "onboard_time": 1659881974,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268031,
+        "num": 268031,
+        "word": "中方对美反制完全合理恰当适度",
+        "onboard_time": 1659923249,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 266650,
+        "num": 266650,
+        "word": "摘下墨镜的杜富国",
+        "onboard_time": 1659923608,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263897,
+        "num": 263897,
+        "word": "被滞留三亚游客现状如何",
+        "onboard_time": 1659921271,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 245522,
+        "num": 245522,
+        "word": "8月7日新增确诊380例",
+        "onboard_time": 1659923191,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237493,
+        "num": 237493,
+        "word": "虞书欣演技",
+        "onboard_time": 1659878853,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235862,
+        "num": 235862,
+        "word": "湛江新增本土确诊26例",
+        "onboard_time": 1659922591,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232859,
+        "num": 232859,
+        "word": "广西增本土确诊2例",
+        "onboard_time": 1659922770,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231381,
+        "num": 231381,
+        "word": "杨超越独竹漂少女",
+        "onboard_time": 1659921210,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230470,
+        "num": 230470,
+        "word": "猫咪咬断风扇电线嘴巴被烧红",
+        "onboard_time": 1659879031,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226483,
+        "num": 226483,
+        "word": "中国人独有的双奥记忆",
+        "onboard_time": 1659916949,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 218976,
+        "num": 218976,
+        "word": "三亚开通旅游涉疫电话",
+        "onboard_time": 1659917250,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 215741,
+        "num": 215741,
+        "word": "求赵今麦郭俊辰三搭",
+        "onboard_time": 1659923848,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202790,
+        "num": 202790,
+        "word": "三亚新增227例无症状感染者",
+        "onboard_time": 1659896176,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199229,
+        "num": 199229,
+        "word": "男子买100块冰块给鱼降温",
+        "onboard_time": 1659881374,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199215,
+        "num": 199215,
+        "word": "比亚迪副总裁豪捐1.6亿",
+        "onboard_time": 1659923969,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193570,
+        "num": 193570,
+        "word": "冉莹颖 每个人都有一些情绪",
+        "onboard_time": 1659882513,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#军事演训为国家统一创造了条件#"
+    }
+  }
+}
