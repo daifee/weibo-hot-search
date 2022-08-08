@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659967003878,
+  "endTime": 1659968513218,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1781962,
+      "num": 1781962,
+      "word": "五哈第三季拟邀嘉宾",
+      "onboard_time": 1659963216,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1776176,
       "num": 1776176,
       "word": "不致命但很烦人的慢性病",
@@ -187,20 +195,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1515127,
+      "num": 1342819,
+      "word": "男子身上长结石30多年成珍珠人",
+      "onboard_time": 1659963696,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1467711,
       "num": 1340843,
       "word": "杨紫说这桃花运来得有点突然",
       "onboard_time": 1659956434,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1457924,
-      "num": 1342819,
-      "word": "男子身上长结石30多年成珍珠人",
-      "onboard_time": 1659963696,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1444930,
@@ -216,14 +224,6 @@
       "word": "暑假余额都交给鹅厂综艺了",
       "onboard_time": 1659931929,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1435355,
-      "num": 1435355,
-      "word": "五哈第三季拟邀嘉宾",
-      "onboard_time": 1659963216,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -313,6 +313,14 @@
       "onboard_time": 1659933004,
       "rank": 33,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1215001,
+      "num": 1215001,
+      "word": "阳光玫瑰价格大跳水",
+      "onboard_time": 1659965317,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1170010,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 905487,
+      "num": 905487,
+      "word": "长生花好虐",
+      "onboard_time": 1659964237,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 904432,
       "num": 314371,
       "word": "冉莹颖情绪崩溃",
@@ -483,12 +499,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 879215,
-      "num": 879215,
-      "word": "长生花好虐",
-      "onboard_time": 1659964237,
+      "raw_hot": 852981,
+      "num": 143006,
+      "word": "苏醒 表面关系都是生意",
+      "onboard_time": 1659968499,
       "rank": 47,
-      "category": "影视"
+      "category": "艺人"
     },
     {
       "raw_hot": 840141,
@@ -505,6 +521,14 @@
       "onboard_time": 1659954936,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 832688,
+      "num": 466421,
+      "word": "小红书崩了",
+      "onboard_time": 1659968019,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 816959,
@@ -553,6 +577,14 @@
       "onboard_time": 1659948757,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762882,
+      "num": 464724,
+      "word": "吴磊赵露思月升沧海体型差",
+      "onboard_time": 1659966462,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 753967,
@@ -793,14 +825,6 @@
       "onboard_time": 1659878853,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 599670,
-      "num": 599670,
-      "word": "阳光玫瑰价格大跳水",
-      "onboard_time": 1659965317,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596744,
@@ -1067,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441348,
-      "num": 441348,
-      "word": "吴磊赵露思月升沧海体型差",
-      "onboard_time": 1659966462,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 433668,
       "num": 433668,
       "word": "41年前的今天这名台湾小伙驾驶战机回归祖国",
@@ -1259,6 +1275,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382990,
+      "num": 382990,
+      "word": "友情可以升级为爱情吗",
+      "onboard_time": 1659963458,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 380957,
+      "num": 380957,
+      "word": "打工人带饭四个月的变化",
+      "onboard_time": 1659967119,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379990,
       "num": 379990,
       "word": "解放军重点组织联合反潜和对海突击",
@@ -1379,12 +1411,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 357230,
-      "num": 357230,
-      "word": "友情可以升级为爱情吗",
-      "onboard_time": 1659963458,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 358037,
+      "num": 358037,
+      "word": "消防通报南京长江大桥失火",
+      "onboard_time": 1659964116,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356698,
@@ -1393,14 +1425,6 @@
       "onboard_time": 1659938259,
       "rank": 33,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 355398,
-      "num": 355398,
-      "word": "消防通报南京长江大桥失火",
-      "onboard_time": 1659964116,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355332,
@@ -1539,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316814,
+      "num": 316814,
+      "word": "入秋最积极的城市",
+      "onboard_time": 1659966462,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 316435,
       "num": 316435,
       "word": "宋亚轩侠回眸",
@@ -1643,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295988,
+      "num": 295988,
+      "word": "王曼昱 逛街",
+      "onboard_time": 1659968260,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294300,
       "num": 294300,
       "word": "苍兰诀海外评价",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1659940478,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282897,
+      "num": 282897,
+      "word": "福建男女平均身高出炉",
+      "onboard_time": 1659967479,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280828,
@@ -2003,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241809,
+      "num": 241809,
+      "word": "新疆哈密市一区新增无症状4例",
+      "onboard_time": 1659962555,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240798,
       "num": 240798,
       "word": "TangoZ说向前冲最容易出圈的是落水",
@@ -2123,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222371,
+      "num": 222371,
+      "word": "生命健康真的在于运动",
+      "onboard_time": 1659966937,
+      "rank": 47,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 221601,
       "num": 221601,
       "word": "龙族动画终极预告",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1659917250,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 218966,
-      "num": 218966,
-      "word": "新疆哈密市一区新增无症状4例",
-      "onboard_time": 1659962555,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216701,
@@ -2225,6 +2281,14 @@
       "onboard_time": 1659937004,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201096,
+      "num": 201096,
+      "word": "小伙遇车祸为救人相亲迟到20分钟",
+      "onboard_time": 1659967297,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200346,
@@ -2387,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161697,
+      "num": 161697,
+      "word": "给我来个小狐狸动画",
+      "onboard_time": 1659968079,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161643,
       "num": 161643,
       "word": "男子酒后持刀威胁店主大妈淡定夺刀",
@@ -2425,14 +2497,6 @@
       "onboard_time": 1659914602,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152141,
-      "num": 152141,
-      "word": "入秋最积极的城市",
-      "onboard_time": 1659966462,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 151518,
@@ -2537,14 +2601,6 @@
       "onboard_time": 1659871112,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118179,
-      "num": 118179,
-      "word": "生命健康真的在于运动",
-      "onboard_time": 1659966937,
-      "rank": 47,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 109841,
