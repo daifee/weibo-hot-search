@@ -1,0 +1,410 @@
+{
+  "runTime": 1659926303315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3946063,
+        "num": 3946063,
+        "word": "儿子中考考砸母亲撕下满墙奖状",
+        "onboard_time": 1659924390,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2115888,
+        "num": 2115888,
+        "word": "当事人回应滞留三亚7天将花18万",
+        "onboard_time": 1659920551,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299105,
+        "num": 1707332,
+        "word": "再看08北京奥运依旧热血沸腾",
+        "onboard_time": 1659916227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1674169,
+        "num": 1674169,
+        "word": "朱洁静一人分饰两角",
+        "onboard_time": 1659925494,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1635430,
+        "num": 1635430,
+        "word": "比亚迪副总裁豪捐1.6亿",
+        "onboard_time": 1659923969,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1470723,
+        "num": 1470723,
+        "word": "日首相声称中方军演事关日本安全",
+        "onboard_time": 1659916047,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1418346,
+        "num": 1418346,
+        "word": "不致命但很烦人的慢性病",
+        "onboard_time": 1659924150,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1392300,
+        "num": 1392300,
+        "word": "有三亚酒店涨价超4倍",
+        "onboard_time": 1659921927,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 995048,
+        "num": 995048,
+        "word": "男子看全景地图发现和去世同学合影",
+        "onboard_time": 1659921689,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867041,
+        "num": 867041,
+        "word": "巴黎世家12000元新包像大垃圾袋",
+        "onboard_time": 1659913460,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1300557,
+        "num": 827355,
+        "word": "国防部回应取消中美两军三项交往活动",
+        "onboard_time": 1659923729,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 753967,
+        "num": 753967,
+        "word": "求赵今麦郭俊辰三搭",
+        "onboard_time": 1659923848,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 719330,
+        "num": 719330,
+        "word": "油价",
+        "onboard_time": 1659917910,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 694928,
+        "num": 694928,
+        "word": "西藏发现4名阳性感染者",
+        "onboard_time": 1659914301,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628237,
+        "num": 628237,
+        "word": "中方对美反制完全合理恰当适度",
+        "onboard_time": 1659923249,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 625841,
+        "num": 625841,
+        "word": "王传君翻窗进屋把武大靖整懵了",
+        "onboard_time": 1659919470,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596744,
+        "num": 596744,
+        "word": "国际油价跌至俄乌冲突爆发前水平",
+        "onboard_time": 1659922471,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 564928,
+        "num": 564928,
+        "word": "轰炸机双向穿越台湾海峡交会瞬间",
+        "onboard_time": 1659919232,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 522613,
+        "num": 522613,
+        "word": "北京石景山一对夫妻核酸检测阳性",
+        "onboard_time": 1659922528,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511659,
+        "num": 511659,
+        "word": "广东省运会决赛假球",
+        "onboard_time": 1659917371,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979367,
+        "num": 498956,
+        "word": "BLACKPINK晒睡衣照庆祝六周年",
+        "onboard_time": 1659921571,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 846249,
+        "num": 493230,
+        "word": "男子躲火车厕所裸聊遭对方敲诈",
+        "onboard_time": 1659920191,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478673,
+        "num": 478673,
+        "word": "情侣因上海疫情推迟婚礼又困三亚",
+        "onboard_time": 1659924935,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401216,
+        "num": 401216,
+        "word": "小猫咪都在锻炼",
+        "onboard_time": 1659915083,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399311,
+        "num": 399311,
+        "word": "美方在台湾问题上犯了三方面错误",
+        "onboard_time": 1659917070,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 398105,
+        "num": 398105,
+        "word": "乐华娱乐通过港交所聆讯",
+        "onboard_time": 1659919774,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 372222,
+        "num": 372222,
+        "word": "广东新增本土确诊37例",
+        "onboard_time": 1659921390,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365899,
+        "num": 365899,
+        "word": "CPA准考证",
+        "onboard_time": 1659920432,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 360943,
+        "num": 360943,
+        "word": "张继科每天爬百层台阶",
+        "onboard_time": 1659925554,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 348263,
+        "num": 348263,
+        "word": "苍兰诀",
+        "onboard_time": 1659881974,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347588,
+        "num": 347588,
+        "word": "和对的人恋爱真的会不一样",
+        "onboard_time": 1659886291,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338621,
+        "num": 338621,
+        "word": "TEAMCHINA入驻微博",
+        "onboard_time": 1659925431,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314954,
+        "num": 314954,
+        "word": "被滞留三亚游客现状如何",
+        "onboard_time": 1659921271,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 310547,
+        "num": 310547,
+        "word": "海南疫情防控",
+        "onboard_time": 1659924633,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297556,
+        "num": 297556,
+        "word": "摘下墨镜的杜富国",
+        "onboard_time": 1659923608,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297063,
+        "num": 297063,
+        "word": "初恋真的会念念不忘吗",
+        "onboard_time": 1659887011,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294287,
+        "num": 294287,
+        "word": "冰川消融致54年前坠机残骸现身",
+        "onboard_time": 1659907030,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282544,
+        "num": 282544,
+        "word": "一家13口滞留三亚7天将花18万",
+        "onboard_time": 1659885512,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 270632,
+        "num": 270632,
+        "word": "油价或现四连跌",
+        "onboard_time": 1659919113,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261907,
+        "num": 261907,
+        "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
+        "onboard_time": 1659925061,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 258940,
+        "num": 258940,
+        "word": "北京8月7日新增两本土确诊",
+        "onboard_time": 1659922170,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251429,
+        "num": 251429,
+        "word": "广州新增本土确诊4例无症状1例",
+        "onboard_time": 1659925991,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249421,
+        "num": 249421,
+        "word": "虞书欣演技",
+        "onboard_time": 1659878853,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224838,
+        "num": 224838,
+        "word": "杨超越独竹漂少女",
+        "onboard_time": 1659921210,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224647,
+        "num": 224647,
+        "word": "河北新增2例确诊13例无症状感染者",
+        "onboard_time": 1659922710,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224003,
+        "num": 224003,
+        "word": "月饼包装今年再瘦身",
+        "onboard_time": 1659910574,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200343,
+        "num": 200343,
+        "word": "黄景瑜独竹漂不走寻常路",
+        "onboard_time": 1659924875,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193725,
+        "num": 193725,
+        "word": "钱三一求婚林妙妙好感人",
+        "onboard_time": 1659924756,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190168,
+        "num": 190168,
+        "word": "8月7日新增本土确诊324例",
+        "onboard_time": 1659922591,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182123,
+        "num": 182123,
+        "word": "冉莹颖 每个人都有一些情绪",
+        "onboard_time": 1659882513,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#充分发挥体育在促进人的全面发展中的重要作用#"
+    }
+  }
+}
