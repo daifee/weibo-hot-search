@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659964275801,
+  "endTime": 1659966464387,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1467711,
+      "num": 1319439,
+      "word": "杨紫说这桃花运来得有点突然",
+      "onboard_time": 1659956434,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1444930,
       "num": 1444930,
       "word": "偷偷藏不住",
@@ -219,6 +227,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1387332,
+      "num": 1387332,
+      "word": "五哈第三季拟邀嘉宾",
+      "onboard_time": 1659963216,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352403,
       "num": 655170,
       "word": "男子躲火车厕所裸聊遭对方敲诈",
@@ -235,14 +251,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1337056,
-      "num": 1319439,
-      "word": "杨紫说这桃花运来得有点突然",
-      "onboard_time": 1659956434,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1331012,
       "num": 971560,
       "word": "一家13口滞留三亚7天将花18万",
@@ -256,6 +264,14 @@
       "word": "男子下班用微信工作发病认定工伤",
       "onboard_time": 1659939338,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1311883,
+      "num": 1311883,
+      "word": "男子身上长结石30多年成珍珠人",
+      "onboard_time": 1659963696,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -305,14 +321,6 @@
       "onboard_time": 1659939699,
       "rank": 28,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1168056,
-      "num": 1168056,
-      "word": "五哈第三季拟邀嘉宾",
-      "onboard_time": 1659963216,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1135276,
@@ -459,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928434,
+      "num": 928434,
+      "word": "台北70岁山东饺子馆老板发声",
+      "onboard_time": 1659961654,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904432,
       "num": 314371,
       "word": "冉莹颖情绪崩溃",
       "onboard_time": 1659865711,
       "rank": 20,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 900948,
-      "num": 900948,
-      "word": "台北70岁山东饺子馆老板发声",
-      "onboard_time": 1659961654,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 840141,
@@ -489,6 +497,14 @@
       "onboard_time": 1659954936,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 820570,
+      "num": 820570,
+      "word": "长生花好虐",
+      "onboard_time": 1659964237,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 816959,
@@ -601,6 +617,14 @@
       "onboard_time": 1659933727,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700597,
+      "num": 526795,
+      "word": "黄晓明新剧瘦了好多",
+      "onboard_time": 1659964537,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 700449,
@@ -867,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531052,
+      "num": 531052,
+      "word": "南京长江大桥",
+      "onboard_time": 1659961774,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529583,
       "num": 529583,
       "word": "海南日报",
@@ -899,14 +931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 500498,
-      "num": 500498,
-      "word": "南京长江大桥",
-      "onboard_time": 1659961774,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496473,
       "num": 496473,
       "word": "IP大于原创",
@@ -923,8 +947,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 483750,
-      "num": 483750,
+      "raw_hot": 489032,
+      "num": 489032,
+      "word": "8月8日东部战区砺兵台海现场视频",
+      "onboard_time": 1659960936,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 486836,
+      "num": 486836,
       "word": "银行回应高温天拒绝市民入内排队",
       "onboard_time": 1659960815,
       "rank": 28,
@@ -995,14 +1027,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 458773,
-      "num": 458773,
-      "word": "8月8日东部战区砺兵台海现场视频",
-      "onboard_time": 1659960936,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 457922,
       "num": 457922,
       "word": "颜淡为唐周求情",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1659948515,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 447903,
+      "num": 328709,
+      "word": "沉香如屑",
+      "onboard_time": 1659964116,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 445278,
@@ -1139,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400535,
+      "num": 313530,
+      "word": "长相思",
+      "onboard_time": 1659964897,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395060,
       "num": 395060,
       "word": "WBG夺冠奖杯意外摔碎",
@@ -1259,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373882,
+      "num": 373882,
+      "word": "阳光玫瑰价格大跳水",
+      "onboard_time": 1659965317,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372070,
       "num": 367379,
       "word": "电影世间有她定档中秋",
@@ -1307,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 361911,
-      "num": 317063,
-      "word": "沉香如屑",
-      "onboard_time": 1659964116,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360943,
       "num": 360943,
       "word": "张继科每天爬百层台阶",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1659938259,
       "rank": 33,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 355398,
+      "num": 355398,
+      "word": "消防通报南京长江大桥失火",
+      "onboard_time": 1659964116,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355332,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1659947797,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 335755,
+      "num": 335755,
+      "word": "友情可以升级为爱情吗",
+      "onboard_time": 1659963458,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 335029,
@@ -1491,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313858,
+      "num": 227712,
+      "word": "黄仁俊音乐节饭拍",
+      "onboard_time": 1659966217,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313826,
       "num": 313826,
       "word": "国际猫咪日",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1659916227,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303155,
+      "num": 107206,
+      "word": "吴磊赵露思月升沧海体型差",
+      "onboard_time": 1659966462,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 300337,
@@ -1635,14 +1707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 281284,
-      "num": 150979,
-      "word": "长生花好虐",
-      "onboard_time": 1659964237,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280031,
       "num": 280031,
       "word": "北京8月7日新增两本土确诊",
@@ -1715,12 +1779,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 269836,
+      "num": 163101,
+      "word": "笑点千千万张远陆虎占一半",
+      "onboard_time": 1659966097,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267219,
       "num": 267219,
       "word": "华为花粉俱乐部停运",
       "onboard_time": 1659951215,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 267218,
+      "num": 267218,
+      "word": "美印将举行联合军演",
+      "onboard_time": 1659964716,
+      "rank": 25,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 265514,
@@ -1835,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250627,
+      "num": 250627,
+      "word": "中国男排3比1中国台北男排",
+      "onboard_time": 1659965441,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249511,
       "num": 249511,
       "word": "谭谈交通回来了",
@@ -1939,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235072,
-      "num": 235072,
-      "word": "男子身上长结石30多年成珍珠人",
-      "onboard_time": 1659963696,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234309,
       "num": 234309,
       "word": "RNG战胜TT",
@@ -1995,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229537,
+      "num": 229537,
+      "word": "给狗狗留点面子吧",
+      "onboard_time": 1659964596,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228417,
       "num": 228417,
       "word": "研究称睡前剧烈运动不利睡眠",
@@ -2004,7 +2092,7 @@
     },
     {
       "raw_hot": 226483,
-      "num": 226483,
+      "num": 1317368,
       "word": "中国人独有的双奥记忆",
       "onboard_time": 1659916949,
       "rank": 43,
@@ -2067,20 +2155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215590,
+      "num": 215590,
+      "word": "新疆哈密市一区新增无症状4例",
+      "onboard_time": 1659962555,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210266,
       "num": 210266,
       "word": "广西舰训练画面公布",
       "onboard_time": 1659957811,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 206188,
-      "num": 206188,
-      "word": "友情可以升级为爱情吗",
-      "onboard_time": 1659963458,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 204302,
@@ -2211,14 +2299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179919,
-      "num": 179919,
-      "word": "新疆哈密市一区新增无症状4例",
-      "onboard_time": 1659962555,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176256,
       "num": 303291,
       "word": "上海叫高峰的打车可免单",
@@ -2275,6 +2355,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 166784,
+      "num": 166784,
+      "word": "就这young练",
+      "onboard_time": 1659964176,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163404,
       "num": 163404,
       "word": "湖南新增本土确诊1例无症状3例",
@@ -2305,14 +2393,6 @@
       "onboard_time": 1659948157,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160135,
-      "num": 160135,
-      "word": "消防通报南京长江大桥失火",
-      "onboard_time": 1659964116,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160125,
@@ -2353,14 +2433,6 @@
       "onboard_time": 1659877172,
       "rank": 42,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 149128,
-      "num": 149128,
-      "word": "就这young练",
-      "onboard_time": 1659964176,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 144832,
@@ -2457,6 +2529,14 @@
       "onboard_time": 1659910994,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106134,
+      "num": 106134,
+      "word": "入秋最积极的城市",
+      "onboard_time": 1659966462,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 104239,
