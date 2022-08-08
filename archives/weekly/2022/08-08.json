@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659934641249,
+  "endTime": 1659936300233,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1653064,
+      "num": 1653064,
+      "word": "iPhone14Pro约8999起",
+      "onboard_time": 1659932465,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1635430,
       "num": 1635430,
       "word": "比亚迪副总裁豪捐1.6亿",
@@ -107,14 +115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1547693,
-      "num": 1547693,
-      "word": "iPhone14Pro约8999起",
-      "onboard_time": 1659932465,
-      "rank": 9,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1444930,
       "num": 1444930,
       "word": "偷偷藏不住",
@@ -129,6 +129,14 @@
       "onboard_time": 1659931929,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1429538,
+      "num": 1429538,
+      "word": "女子连续3年每月痛经15天以为没事",
+      "onboard_time": 1659934556,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1407181,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1135005,
+      "num": 1135005,
+      "word": "琅琊",
+      "onboard_time": 1659932947,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1065885,
       "num": 1065885,
       "word": "山东局地将迎大到暴雨",
@@ -217,14 +233,6 @@
       "onboard_time": 1659913460,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1029099,
-      "num": 1029099,
-      "word": "琅琊",
-      "onboard_time": 1659932947,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 999248,
@@ -289,6 +297,14 @@
       "onboard_time": 1659919470,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 789152,
+      "num": 789152,
+      "word": "农民日报评论全县静默庄稼没法静默",
+      "onboard_time": 1659932407,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753967,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646150,
+      "num": 646150,
+      "word": "被爷爷17年的追星笔记整破防了",
+      "onboard_time": 1659933727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -379,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631174,
+      "num": 631174,
+      "word": "解放军继续位台岛周边实战化演训",
+      "onboard_time": 1659933004,
+      "rank": 33,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 628237,
       "num": 628237,
       "word": "中方对美反制完全合理恰当适度",
       "onboard_time": 1659923249,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 618114,
-      "num": 618114,
-      "word": "农民日报评论全县静默庄稼没法静默",
-      "onboard_time": 1659932407,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608197,
@@ -515,14 +539,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 459150,
-      "num": 459150,
-      "word": "被爷爷17年的追星笔记整破防了",
-      "onboard_time": 1659933727,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445278,
       "num": 1217209,
       "word": "高二男生扛国旗夜爬泰山",
@@ -569,6 +585,14 @@
       "onboard_time": 1659932043,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419321,
+      "num": 419321,
+      "word": "美颜滤镜下的阿云嘎",
+      "onboard_time": 1659934142,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410067,
@@ -619,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391224,
-      "num": 391224,
-      "word": "美颜滤镜下的阿云嘎",
-      "onboard_time": 1659934142,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 384131,
       "num": 384131,
       "word": "THE9哈尔滨演唱会取消",
@@ -659,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368646,
-      "num": 368646,
-      "word": "解放军继续位台岛周边实战化演训",
-      "onboard_time": 1659933004,
-      "rank": 33,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 366916,
       "num": 313241,
       "word": "娜扎直播生图",
@@ -681,6 +689,14 @@
       "onboard_time": 1659925554,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 358691,
+      "num": 358691,
+      "word": "女生从倒数逆袭中大哽咽感谢父亲",
+      "onboard_time": 1659934323,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 353530,
@@ -803,22 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295636,
-      "num": 295636,
-      "word": "女子连续3年每月痛经15天以为没事",
-      "onboard_time": 1659934556,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291545,
-      "num": 291545,
-      "word": "女生从倒数逆袭中大哽咽感谢父亲",
-      "onboard_time": 1659934323,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 290544,
       "num": 290544,
       "word": "两张图告诉你南京有多热",
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270038,
+      "num": 270038,
+      "word": "震后5年九寨沟如今有多美",
+      "onboard_time": 1659934614,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 265514,
       "num": 265514,
       "word": "张阳发火",
@@ -907,20 +915,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261785,
-      "num": 261785,
-      "word": "震后5年九寨沟如今有多美",
-      "onboard_time": 1659934614,
-      "rank": 49,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 259477,
       "num": 259477,
       "word": "京一终身禁赛",
       "onboard_time": 1659872312,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255931,
+      "num": 255931,
+      "word": "8岁女童6次切肝等待肝移植",
+      "onboard_time": 1659935095,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254416,
+      "num": 254416,
+      "word": "苹果开发厨房设备",
+      "onboard_time": 1659935214,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 251496,
@@ -1035,6 +1051,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 224714,
+      "num": 224714,
+      "word": "INTO1新歌一步一诗一梦",
+      "onboard_time": 1659936104,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219102,
       "num": 219102,
       "word": "不知悔凯",
@@ -1059,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213777,
+      "num": 213777,
+      "word": "美退役军官称如今解放军脱胎换骨",
+      "onboard_time": 1659935749,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 204302,
       "num": 151240,
       "word": "王一博热烈杀青合照",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1659915325,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201130,
+      "num": 201130,
+      "word": "安徽卫视 男生女生向前冲",
+      "onboard_time": 1659936283,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 200346,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1659906312,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27906,
+      "num": 683318,
+      "word": "新歌聊聊听哭了",
+      "onboard_time": 1659934858,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 21203,
