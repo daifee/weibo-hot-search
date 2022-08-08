@@ -1,0 +1,410 @@
+{
+  "runTime": 1659969418633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1606101,
+        "num": 1606101,
+        "word": "五哈第三季拟邀嘉宾",
+        "onboard_time": 1659963216,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1297868,
+        "num": 1297868,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 1,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 34691,
+        "num": 1226142,
+        "word": "中国人独有的双奥记忆",
+        "onboard_time": 1659916949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1655418,
+        "num": 1219581,
+        "word": "男生加了微信不说话怎么办",
+        "onboard_time": 1659960394,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1434657,
+        "num": 1214524,
+        "word": "男子身上长结石30多年成珍珠人",
+        "onboard_time": 1659963696,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204553,
+        "num": 1204553,
+        "word": "阳光玫瑰价格大跳水",
+        "onboard_time": 1659965317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157379,
+        "num": 1157379,
+        "word": "杨紫说这桃花运来得有点突然",
+        "onboard_time": 1659956434,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 784182,
+        "num": 784182,
+        "word": "吴磊赵露思月升沧海体型差",
+        "onboard_time": 1659966462,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755291,
+        "num": 755291,
+        "word": "台北70岁山东饺子馆老板发声",
+        "onboard_time": 1659961654,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551441,
+        "num": 551441,
+        "word": "打工人带饭四个月的变化",
+        "onboard_time": 1659967119,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1471066,
+        "num": 542693,
+        "word": "小红书崩了",
+        "onboard_time": 1659968019,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 784087,
+        "num": 542461,
+        "word": "长生花好虐",
+        "onboard_time": 1659964237,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642284,
+        "num": 530580,
+        "word": "王曼昱 逛街",
+        "onboard_time": 1659968260,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495676,
+        "num": 495676,
+        "word": "黄晓明新剧瘦了好多",
+        "onboard_time": 1659964537,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465771,
+        "num": 465771,
+        "word": "苍兰诀",
+        "onboard_time": 1659961715,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442969,
+        "num": 442969,
+        "word": "拉萨发现18例阳性",
+        "onboard_time": 1659956254,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416993,
+        "num": 416993,
+        "word": "南京长江大桥",
+        "onboard_time": 1659961774,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382121,
+        "num": 382121,
+        "word": "福建男女平均身高出炉",
+        "onboard_time": 1659967479,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366370,
+        "num": 366370,
+        "word": "友情可以升级为爱情吗",
+        "onboard_time": 1659963458,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353945,
+        "num": 353945,
+        "word": "银行回应高温天拒绝市民入内排队",
+        "onboard_time": 1659960815,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2608108,
+        "num": 353377,
+        "word": "王栎鑫 你想转就转不要往回找补",
+        "onboard_time": 1659969100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1367360,
+        "num": 351687,
+        "word": "苏醒 表面关系都是生意",
+        "onboard_time": 1659968499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412323,
+        "num": 348717,
+        "word": "ive新专辑预告",
+        "onboard_time": 1659969159,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344776,
+        "num": 344776,
+        "word": "入秋最积极的城市",
+        "onboard_time": 1659966462,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 336507,
+        "num": 336507,
+        "word": "消防通报南京长江大桥失火",
+        "onboard_time": 1659964116,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281714,
+        "num": 281714,
+        "word": "8月8日东部战区砺兵台海现场视频",
+        "onboard_time": 1659960936,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 257306,
+        "num": 257306,
+        "word": "小伙遇车祸为救人相亲迟到20分钟",
+        "onboard_time": 1659967297,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256182,
+        "num": 256182,
+        "word": "为什么年轻人理财越理越穷",
+        "onboard_time": 1659960335,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242956,
+        "num": 242956,
+        "word": "中国男排3比1中国台北男排",
+        "onboard_time": 1659965441,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236041,
+        "num": 236041,
+        "word": "女子朋友圈刷到遗书报警救下一命",
+        "onboard_time": 1659947376,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368320,
+        "num": 235786,
+        "word": "沉香如屑",
+        "onboard_time": 1659964116,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347082,
+        "num": 235470,
+        "word": "小兰花原来是息山神女",
+        "onboard_time": 1659968678,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283927,
+        "num": 235245,
+        "word": "长相思",
+        "onboard_time": 1659964897,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278980,
+        "num": 235100,
+        "word": "赵丽颖辛云来牵手对戏路透",
+        "onboard_time": 1659960936,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234840,
+        "num": 234840,
+        "word": "基金经理",
+        "onboard_time": 1659968979,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240828,
+        "num": 234711,
+        "word": "郭晓婷说徐海乔徒儿还在等我呢",
+        "onboard_time": 1659963396,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231959,
+        "num": 231959,
+        "word": "解放军重点组织联合反潜和对海突击",
+        "onboard_time": 1659958234,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 221916,
+        "num": 221916,
+        "word": "生命健康真的在于运动",
+        "onboard_time": 1659966937,
+        "rank": 37,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 220296,
+        "num": 220296,
+        "word": "BLG战胜WE",
+        "onboard_time": 1659969219,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195342,
+        "num": 195342,
+        "word": "新疆哈密市一区新增无症状4例",
+        "onboard_time": 1659962555,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190932,
+        "num": 190932,
+        "word": "场外期权",
+        "onboard_time": 1659969159,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177274,
+        "num": 177274,
+        "word": "8月孕妈穿爸爸衣服神似中年大叔",
+        "onboard_time": 1659957455,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167853,
+        "num": 167853,
+        "word": "警方回应男子尾随女童进小区猥亵",
+        "onboard_time": 1659954334,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165917,
+        "num": 165917,
+        "word": "原来猫猫真的会孤独",
+        "onboard_time": 1659954572,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164799,
+        "num": 164799,
+        "word": "给我来个小狐狸动画",
+        "onboard_time": 1659968079,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161973,
+        "num": 161973,
+        "word": "30岁后很难交到真心朋友吗",
+        "onboard_time": 1659958835,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161939,
+        "num": 161939,
+        "word": "上班一定要待在工位吗",
+        "onboard_time": 1659958175,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 242157,
+        "num": 161156,
+        "word": "孟非 金声奖",
+        "onboard_time": 1659969397,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148383,
+        "num": 148383,
+        "word": "千万别买夜光玩具",
+        "onboard_time": 1659954395,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137615,
+        "num": 137615,
+        "word": "12岁女孩永远吃不饱体重近200斤",
+        "onboard_time": 1659969397,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界潮流浩荡公道自在人心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659968513218,
+  "endTime": 1659969418633,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -41,6 +41,14 @@
       "onboard_time": 1659956254,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2608108,
+      "num": 353377,
+      "word": "王栎鑫 你想转就转不要往回找补",
+      "onboard_time": 1659969100,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2576722,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471066,
+      "num": 542693,
+      "word": "小红书崩了",
+      "onboard_time": 1659968019,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1467711,
       "num": 1340843,
       "word": "杨紫说这桃花运来得有点突然",
@@ -241,6 +257,14 @@
       "onboard_time": 1659921927,
       "rank": 3,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1367360,
+      "num": 351687,
+      "word": "苏醒 表面关系都是生意",
+      "onboard_time": 1659968499,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1352403,
@@ -499,14 +523,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 852981,
-      "num": 143006,
-      "word": "苏醒 表面关系都是生意",
-      "onboard_time": 1659968499,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 840141,
       "num": 840141,
       "word": "里根号航母转向后继续向南移动",
@@ -521,14 +537,6 @@
       "onboard_time": 1659954936,
       "rank": 39,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 832688,
-      "num": 466421,
-      "word": "小红书崩了",
-      "onboard_time": 1659968019,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 816959,
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784182,
+      "num": 784182,
+      "word": "吴磊赵露思月升沧海体型差",
+      "onboard_time": 1659966462,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 774894,
       "num": 774894,
       "word": "第7号台风木兰来了",
       "onboard_time": 1659948757,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762882,
-      "num": 464724,
-      "word": "吴磊赵露思月升沧海体型差",
-      "onboard_time": 1659966462,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 753967,
@@ -763,6 +771,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 642284,
+      "num": 530580,
+      "word": "王曼昱 逛街",
+      "onboard_time": 1659968260,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641156,
       "num": 641156,
       "word": "嫋嫋教皇后撒娇",
@@ -865,6 +881,14 @@
       "onboard_time": 1659879031,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551441,
+      "num": 551441,
+      "word": "打工人带饭四个月的变化",
+      "onboard_time": 1659967119,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 547895,
@@ -1179,6 +1203,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 412323,
+      "num": 348717,
+      "word": "ive新专辑预告",
+      "onboard_time": 1659969159,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 410067,
       "num": 410067,
       "word": "小猫咪都在锻炼",
@@ -1283,12 +1315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 380957,
-      "num": 380957,
-      "word": "打工人带饭四个月的变化",
-      "onboard_time": 1659967119,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 382121,
+      "num": 382121,
+      "word": "福建男女平均身高出炉",
+      "onboard_time": 1659967479,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379990,
@@ -1451,6 +1483,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347082,
+      "num": 235470,
+      "word": "小兰花原来是息山神女",
+      "onboard_time": 1659968678,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344776,
+      "num": 344776,
+      "word": "入秋最积极的城市",
+      "onboard_time": 1659966462,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 342253,
       "num": 342253,
       "word": "河北新增2例确诊13例无症状感染者",
@@ -1563,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316814,
-      "num": 316814,
-      "word": "入秋最积极的城市",
-      "onboard_time": 1659966462,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 316435,
       "num": 316435,
       "word": "宋亚轩侠回眸",
@@ -1675,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295988,
-      "num": 295988,
-      "word": "王曼昱 逛街",
-      "onboard_time": 1659968260,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294300,
       "num": 294300,
       "word": "苍兰诀海外评价",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1659940478,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 282897,
-      "num": 282897,
-      "word": "福建男女平均身高出炉",
-      "onboard_time": 1659967479,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280828,
@@ -1939,6 +1963,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 257306,
+      "num": 257306,
+      "word": "小伙遇车祸为救人相亲迟到20分钟",
+      "onboard_time": 1659967297,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254416,
       "num": 254416,
       "word": "苹果开发厨房设备",
@@ -2051,6 +2083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242157,
+      "num": 161156,
+      "word": "孟非 金声奖",
+      "onboard_time": 1659969397,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241809,
       "num": 241809,
       "word": "新疆哈密市一区新增无症状4例",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1659922591,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234840,
+      "num": 234840,
+      "word": "基金经理",
+      "onboard_time": 1659968979,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 234309,
@@ -2195,6 +2243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 220296,
+      "num": 220296,
+      "word": "BLG战胜WE",
+      "onboard_time": 1659969219,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219963,
       "num": 219963,
       "word": "LPL夏季赛周最佳阵容",
@@ -2283,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201096,
-      "num": 201096,
-      "word": "小伙遇车祸为救人相亲迟到20分钟",
-      "onboard_time": 1659967297,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200346,
       "num": 200346,
       "word": "三亚全市社区实行封闭式管理",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1659953855,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190932,
+      "num": 190932,
+      "word": "场外期权",
+      "onboard_time": 1659969159,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 189041,
@@ -2435,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164799,
+      "num": 164799,
+      "word": "给我来个小狐狸动画",
+      "onboard_time": 1659968079,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 163404,
       "num": 163404,
       "word": "湖南新增本土确诊1例无症状3例",
@@ -2449,14 +2513,6 @@
       "onboard_time": 1659890244,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161697,
-      "num": 161697,
-      "word": "给我来个小狐狸动画",
-      "onboard_time": 1659968079,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 161643,
@@ -2553,6 +2609,14 @@
       "onboard_time": 1659870453,
       "rank": 44,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 137615,
+      "num": 137615,
+      "word": "12岁女孩永远吃不饱体重近200斤",
+      "onboard_time": 1659969397,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132749,
