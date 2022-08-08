@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659941262079,
+  "endTime": 1659943205454,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1855904,
+      "num": 1855904,
+      "word": "台军方7日发现66架次解放军军机巡台",
+      "onboard_time": 1659938678,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1776176,
       "num": 1776176,
       "word": "不致命但很烦人的慢性病",
@@ -121,6 +129,14 @@
       "onboard_time": 1659929519,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1503887,
+      "num": 1503887,
+      "word": "东部战区",
+      "onboard_time": 1659936462,
+      "rank": 25,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1444930,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346929,
+      "num": 1346929,
+      "word": "尽量不要晚上去爬泰山",
+      "onboard_time": 1659937902,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1331012,
       "num": 971560,
       "word": "一家13口滞留三亚7天将花18万",
@@ -193,6 +217,14 @@
       "onboard_time": 1659933004,
       "rank": 33,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1192004,
+      "num": 1192004,
+      "word": "男子下班用微信工作发病认定工伤",
+      "onboard_time": 1659939338,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135276,
@@ -291,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 907626,
-      "num": 907626,
-      "word": "尽量不要晚上去爬泰山",
-      "onboard_time": 1659937902,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 904432,
       "num": 314371,
       "word": "冉莹颖情绪崩溃",
@@ -313,14 +337,6 @@
       "onboard_time": 1659930477,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 814517,
-      "num": 814517,
-      "word": "东部战区",
-      "onboard_time": 1659936462,
-      "rank": 25,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 789733,
@@ -353,6 +369,14 @@
       "onboard_time": 1659938861,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735158,
+      "num": 735158,
+      "word": "台北故宫辟谣台当局准备转移文物到美日",
+      "onboard_time": 1659939699,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 726259,
@@ -435,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 647731,
-      "num": 647731,
-      "word": "男子下班用微信工作发病认定工伤",
-      "onboard_time": 1659939338,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 642415,
       "num": 642415,
       "word": "美退役军官称如今解放军脱胎换骨",
@@ -465,14 +481,6 @@
       "onboard_time": 1659923249,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 617025,
-      "num": 617025,
-      "word": "台军方7日发现66架次解放军军机巡台",
-      "onboard_time": 1659938678,
-      "rank": 27,
-      "category": "军事"
     },
     {
       "raw_hot": 608197,
@@ -683,14 +691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 405037,
-      "num": 405037,
-      "word": "台北故宫辟谣台当局准备转移文物到美日",
-      "onboard_time": 1659939699,
-      "rank": 28,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 402830,
       "num": 402830,
       "word": "苹果新iPadPro将配备两个四针接口",
@@ -771,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377329,
+      "num": 377329,
+      "word": "为流量擅自把好友隐私写进文章算侵权吗",
+      "onboard_time": 1659940417,
+      "rank": 34,
+      "category": "影视,社会议题"
+    },
+    {
       "raw_hot": 372070,
       "num": 367379,
       "word": "电影世间有她定档中秋",
@@ -785,6 +793,22 @@
       "onboard_time": 1659927841,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369490,
+      "num": 369490,
+      "word": "吉林发现4人核酸阳性",
+      "onboard_time": 1659939520,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368460,
+      "num": 368460,
+      "word": "华晨宇说这样弱小的欧豪不多见",
+      "onboard_time": 1659942759,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 366916,
@@ -803,12 +827,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 359837,
+      "num": 359837,
+      "word": "女孩收到录取通知书后跑进派出所",
+      "onboard_time": 1659941737,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 358691,
       "num": 358691,
       "word": "女生从倒数逆袭中大哽咽感谢父亲",
       "onboard_time": 1659934323,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 355332,
+      "num": 355332,
+      "word": "电视剧学学苍兰诀营业吧",
+      "onboard_time": 1659941737,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 353530,
@@ -825,6 +865,14 @@
       "onboard_time": 1659922710,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338820,
+      "num": 356796,
+      "word": "里根号航母转向后继续向南移动",
+      "onboard_time": 1659940297,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 338621,
@@ -931,12 +979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297620,
+      "num": 297620,
+      "word": "独居的幸福感是猫咪给的",
+      "onboard_time": 1659942638,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297556,
       "num": 297556,
       "word": "摘下墨镜的杜富国",
       "onboard_time": 1659923608,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294300,
+      "num": 294300,
+      "word": "苍兰诀海外评价",
+      "onboard_time": 1659942940,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 290544,
@@ -1075,14 +1139,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 261261,
-      "num": 261261,
-      "word": "为流量擅自把好友隐私写进文章算侵权吗",
-      "onboard_time": 1659940417,
-      "rank": 34,
-      "category": "影视,社会议题"
-    },
-    {
       "raw_hot": 259611,
       "num": 259611,
       "word": "INTO1新歌一步一诗一梦",
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234048,
+      "num": 234048,
+      "word": "音乐剧我在时间尽头等你概念片",
+      "onboard_time": 1659942695,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232859,
       "num": 232859,
       "word": "广西增本土确诊2例",
@@ -1243,12 +1307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221490,
-      "num": 221490,
-      "word": "吉林发现4人核酸阳性",
-      "onboard_time": 1659939520,
-      "rank": 46,
+      "raw_hot": 225153,
+      "num": 225153,
+      "word": "台湾地图上飘出山东味道",
+      "onboard_time": 1659942218,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223926,
+      "num": 223926,
+      "word": "TangoZ说向前冲最容易出圈的是落水",
+      "onboard_time": 1659942695,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 219102,
@@ -1273,14 +1345,6 @@
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214911,
-      "num": 214911,
-      "word": "里根号航母转向后继续向南移动",
-      "onboard_time": 1659940297,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 204302,
@@ -1379,12 +1443,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173407,
+      "num": 173407,
+      "word": "17岁中国小将成最年轻网球挑战赛冠军",
+      "onboard_time": 1659941679,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170427,
       "num": 170427,
       "word": "钱三一没毕业",
       "onboard_time": 1659875074,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170134,
+      "num": 170134,
+      "word": "成毅片场忽悠杨紫",
+      "onboard_time": 1659943176,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169742,
+      "num": 169742,
+      "word": "LPL夏季赛周最佳阵容",
+      "onboard_time": 1659943119,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 163404,
@@ -1547,12 +1635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40773,
+      "num": 1507512,
+      "word": "全民运动健身图鉴",
+      "onboard_time": 1659942876,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33191,
       "num": 33191,
       "word": "谢可寅谈对糊的理解",
       "onboard_time": 1659901931,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31788,
+      "num": 549034,
+      "word": "张继科说今晚肯定不睡",
+      "onboard_time": 1659942998,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 28294,
