@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1659997425937,
+  "endTime": 1659998370018,
   "band_list": [
     {
       "raw_hot": 2291748,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498236,
-      "num": 498236,
+      "raw_hot": 521906,
+      "num": 521906,
       "word": "婚车公司拒吃盒饭要求新娘备酒席",
       "onboard_time": 1659972637,
       "rank": 9,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290647,
+      "num": 290647,
+      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+      "onboard_time": 1659983234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264796,
       "num": 264796,
       "word": "打工人带饭四个月的变化",
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258100,
+      "num": 258100,
+      "word": "解放军台海演训激发年轻人从军热情",
+      "onboard_time": 1659987432,
+      "rank": 19,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 249058,
       "num": 201151,
       "word": "吴磊赵露思月升沧海体型差",
       "onboard_time": 1659966462,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213071,
-      "num": 213071,
-      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
-      "onboard_time": 1659983234,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205839,
@@ -257,6 +265,14 @@
       "onboard_time": 1659968260,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199088,
+      "num": 165458,
+      "word": "三亚全域静态管理期间欠费不停供",
+      "onboard_time": 1659995653,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198811,
@@ -299,12 +315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169787,
-      "num": 106677,
-      "word": "解放军台海演训激发年轻人从军热情",
-      "onboard_time": 1659987432,
-      "rank": 19,
-      "category": "军事,社会新闻"
+      "raw_hot": 161715,
+      "num": 161715,
+      "word": "银行回应高温天拒绝市民入内排队",
+      "onboard_time": 1659960815,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151451,
@@ -321,6 +337,14 @@
       "onboard_time": 1659975930,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147819,
+      "num": 147819,
+      "word": "驾校教练专拍女学员大腿称因有流量",
+      "onboard_time": 1659989413,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147125,
@@ -363,20 +387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119804,
-      "num": 119804,
-      "word": "银行回应高温天拒绝市民入内排队",
-      "onboard_time": 1659960815,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115158,
       "num": 115158,
       "word": "8月8日东部战区砺兵台海现场视频",
       "onboard_time": 1659960936,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 113740,
+      "num": 113740,
+      "word": "学习成绩和过程哪个更重要",
+      "onboard_time": 1659993251,
+      "rank": 49,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 113137,
@@ -395,20 +419,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 97736,
-      "num": 97736,
-      "word": "三亚全域静态管理期间欠费不停供",
-      "onboard_time": 1659995653,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92010,
-      "num": 92010,
-      "word": "驾校教练专拍女学员大腿称因有流量",
-      "onboard_time": 1659989413,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 86320,
+      "num": 86320,
+      "word": "林妙妙钱三一的同居生活",
+      "onboard_time": 1659997754,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 84183,
@@ -417,14 +433,6 @@
       "onboard_time": 1659965441,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83103,
-      "num": 83103,
-      "word": "学习成绩和过程哪个更重要",
-      "onboard_time": 1659993251,
-      "rank": 49,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 82822,
@@ -443,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74898,
+      "num": 74898,
+      "word": "店主谎称做活动为8旬老人免单",
+      "onboard_time": 1659994211,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64687,
       "num": 64687,
       "word": "这猫咪是从梁山下来的吧",
       "onboard_time": 1659979878,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62201,
-      "num": 62201,
-      "word": "店主谎称做活动为8旬老人免单",
-      "onboard_time": 1659994211,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52990,
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48999,
+      "num": 48999,
+      "word": "专访金像奖影后刘雅瑟",
+      "onboard_time": 1659987912,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 45527,
       "num": 45527,
       "word": "杨幂震惊十面埋伏是李斯丹妮的歌",
@@ -483,11 +499,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36910,
-      "num": 36910,
-      "word": "专访金像奖影后刘雅瑟",
-      "onboard_time": 1659987912,
-      "rank": 18,
+      "raw_hot": 44771,
+      "num": 44771,
+      "word": "李汶翰包场请粉丝看遇见你",
+      "onboard_time": 1659997033,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -504,14 +520,6 @@
       "word": "范丞丞片场偷吃道具",
       "onboard_time": 1659991812,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 23022,
-      "num": 23022,
-      "word": "李汶翰包场请粉丝看遇见你",
-      "onboard_time": 1659997033,
-      "rank": 49,
       "category": "影视"
     },
     {
