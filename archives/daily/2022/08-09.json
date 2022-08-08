@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1659986283761,
+  "endTime": 1659987296776,
   "band_list": [
     {
       "raw_hot": 2291748,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126263,
+      "num": 59165,
+      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+      "onboard_time": 1659983234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120868,
       "num": 120868,
       "word": "原来猫猫真的会孤独",
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86687,
-      "num": 59165,
-      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
-      "onboard_time": 1659983234,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84183,
       "num": 84183,
       "word": "中国男排3比1中国台北男排",
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52990,
+      "num": 52990,
+      "word": "俞飞鸿造型",
+      "onboard_time": 1659984794,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51105,
       "num": 51105,
       "word": "全方位瘦身拿捏了",
@@ -433,14 +441,6 @@
       "onboard_time": 1659956313,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44563,
-      "num": 44563,
-      "word": "俞飞鸿造型",
-      "onboard_time": 1659984794,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 27477,
