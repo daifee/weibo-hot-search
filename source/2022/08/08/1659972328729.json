@@ -1,0 +1,410 @@
+{
+  "runTime": 1659972328729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153049,
+        "num": 1153049,
+        "word": "五哈第三季拟邀嘉宾",
+        "onboard_time": 1659963216,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1079234,
+        "num": 1079234,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 1,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 32461,
+        "num": 1020399,
+        "word": "中国人独有的双奥记忆",
+        "onboard_time": 1659916949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015528,
+        "num": 1015528,
+        "word": "男子身上长结石30多年成珍珠人",
+        "onboard_time": 1659963696,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924587,
+        "num": 924587,
+        "word": "男生加了微信不说话怎么办",
+        "onboard_time": 1659960394,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 780107,
+        "num": 780107,
+        "word": "阳光玫瑰价格大跳水",
+        "onboard_time": 1659965317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756465,
+        "num": 756465,
+        "word": "中方坚决反对给一个中国原则加前后缀",
+        "onboard_time": 1659970060,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 746878,
+        "num": 746878,
+        "word": "杨紫说这桃花运来得有点突然",
+        "onboard_time": 1659956434,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611434,
+        "num": 611434,
+        "word": "福建男女平均身高出炉",
+        "onboard_time": 1659967479,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596771,
+        "num": 596771,
+        "word": "吴磊赵露思月升沧海体型差",
+        "onboard_time": 1659966462,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1308232,
+        "num": 590679,
+        "word": "小红书崩了",
+        "onboard_time": 1659968019,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 638336,
+        "num": 584021,
+        "word": "王曼昱 逛街",
+        "onboard_time": 1659968260,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569476,
+        "num": 569476,
+        "word": "台北70岁山东饺子馆老板发声",
+        "onboard_time": 1659961654,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559822,
+        "num": 559822,
+        "word": "打工人带饭四个月的变化",
+        "onboard_time": 1659967119,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538180,
+        "num": 538180,
+        "word": "基金经理",
+        "onboard_time": 1659968979,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 532888,
+        "num": 532888,
+        "word": "小伙遇车祸为救人相亲迟到20分钟",
+        "onboard_time": 1659967297,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526244,
+        "num": 526244,
+        "word": "沉香如屑 灯芯",
+        "onboard_time": 1659971679,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500747,
+        "num": 500747,
+        "word": "12岁女孩永远吃不饱体重近200斤",
+        "onboard_time": 1659969397,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491400,
+        "num": 491400,
+        "word": "韩国暴雨",
+        "onboard_time": 1659971320,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476534,
+        "num": 476534,
+        "word": "长生花好虐",
+        "onboard_time": 1659964237,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1715088,
+        "num": 455313,
+        "word": "王栎鑫 你想转就转不要往回找补",
+        "onboard_time": 1659969100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644796,
+        "num": 447795,
+        "word": "苏醒 表面关系都是生意",
+        "onboard_time": 1659968499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401552,
+        "num": 401552,
+        "word": "苍兰诀",
+        "onboard_time": 1659961715,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375423,
+        "num": 375423,
+        "word": "入秋最积极的城市",
+        "onboard_time": 1659966462,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 353694,
+        "num": 353694,
+        "word": "官方回应张家界自行车赛选手疑坠崖",
+        "onboard_time": 1659970360,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353558,
+        "num": 353558,
+        "word": "ive新专辑预告",
+        "onboard_time": 1659969159,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341307,
+        "num": 341307,
+        "word": "成都一男子持菜刀街头叫嚣",
+        "onboard_time": 1659971016,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 301424,
+        "num": 301424,
+        "word": "易方达",
+        "onboard_time": 1659971077,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301297,
+        "num": 301297,
+        "word": "拉萨发现18例阳性",
+        "onboard_time": 1659956254,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285381,
+        "num": 285381,
+        "word": "友情可以升级为爱情吗",
+        "onboard_time": 1659963458,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312260,
+        "num": 285096,
+        "word": "沉香如屑",
+        "onboard_time": 1659964116,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298579,
+        "num": 283743,
+        "word": "王玉雯胆小鬼再演校花",
+        "onboard_time": 1659972040,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282322,
+        "num": 282322,
+        "word": "孟非 金声奖",
+        "onboard_time": 1659969397,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257193,
+        "num": 257193,
+        "word": "黄晓明新剧瘦了好多",
+        "onboard_time": 1659964537,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245410,
+        "num": 245410,
+        "word": "坚持运动的6大好处",
+        "onboard_time": 1659970177,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226472,
+        "num": 226472,
+        "word": "1岁女童肚中取出柚子大小畸胎瘤",
+        "onboard_time": 1659971860,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202107,
+        "num": 202107,
+        "word": "生命健康真的在于运动",
+        "onboard_time": 1659966937,
+        "rank": 36,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 198201,
+        "num": 198201,
+        "word": "为什么年轻人理财越理越穷",
+        "onboard_time": 1659960335,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187893,
+        "num": 187893,
+        "word": "银行回应高温天拒绝市民入内排队",
+        "onboard_time": 1659960815,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176366,
+        "num": 176366,
+        "word": "8月8日东部战区砺兵台海现场视频",
+        "onboard_time": 1659960936,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 221115,
+        "num": 175624,
+        "word": "小兰花原来是息山神女",
+        "onboard_time": 1659968678,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163355,
+        "num": 163355,
+        "word": "中国男排3比1中国台北男排",
+        "onboard_time": 1659965441,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160268,
+        "num": 160268,
+        "word": "女子朋友圈刷到遗书报警救下一命",
+        "onboard_time": 1659947376,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158560,
+        "num": 158560,
+        "word": "原来猫猫真的会孤独",
+        "onboard_time": 1659954572,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154459,
+        "num": 154459,
+        "word": "解放军重点组织联合反潜和对海突击",
+        "onboard_time": 1659958234,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 138767,
+        "num": 138767,
+        "word": "张继科说颠球比拿奥运冠军难",
+        "onboard_time": 1659971378,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 130506,
+        "num": 130506,
+        "word": "场外期权",
+        "onboard_time": 1659969159,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387534,
+        "num": 130430,
+        "word": "李帝努撩发",
+        "onboard_time": 1659972280,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129952,
+        "num": 129952,
+        "word": "九寨蓝回来了",
+        "onboard_time": 1659970600,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125335,
+        "num": 125335,
+        "word": "警方回应男子尾随女童进小区猥亵",
+        "onboard_time": 1659954334,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
