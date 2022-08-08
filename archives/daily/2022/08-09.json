@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1659994575580,
+  "endTime": 1659997425937,
   "band_list": [
     {
       "raw_hot": 2291748,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213071,
+      "num": 213071,
+      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+      "onboard_time": 1659983234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205839,
       "num": 205839,
       "word": "小伙遇车祸为救人相亲迟到20分钟",
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169787,
+      "num": 106677,
+      "word": "解放军台海演训激发年轻人从军热情",
+      "onboard_time": 1659987432,
+      "rank": 19,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 151451,
       "num": 151451,
       "word": "沉香如屑",
@@ -339,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126263,
-      "num": 95480,
-      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
-      "onboard_time": 1659983234,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120868,
       "num": 120868,
       "word": "原来猫猫真的会孤独",
       "onboard_time": 1659954572,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119804,
+      "num": 119804,
+      "word": "银行回应高温天拒绝市民入内排队",
+      "onboard_time": 1659960815,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115158,
@@ -379,11 +395,19 @@
       "category": "军事"
     },
     {
-      "raw_hot": 93409,
-      "num": 93409,
-      "word": "银行回应高温天拒绝市民入内排队",
-      "onboard_time": 1659960815,
-      "rank": 46,
+      "raw_hot": 97736,
+      "num": 97736,
+      "word": "三亚全域静态管理期间欠费不停供",
+      "onboard_time": 1659995653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92010,
+      "num": 92010,
+      "word": "驾校教练专拍女学员大腿称因有流量",
+      "onboard_time": 1659989413,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -393,6 +417,14 @@
       "onboard_time": 1659965441,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83103,
+      "num": 83103,
+      "word": "学习成绩和过程哪个更重要",
+      "onboard_time": 1659993251,
+      "rank": 49,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 82822,
@@ -411,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69913,
-      "num": 46070,
-      "word": "解放军台海演训激发年轻人从军热情",
-      "onboard_time": 1659987432,
-      "rank": 19,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 64687,
       "num": 64687,
       "word": "这猫咪是从梁山下来的吧",
@@ -427,11 +451,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 58565,
-      "num": 45561,
-      "word": "驾校教练专拍女学员大腿称因有流量",
-      "onboard_time": 1659989413,
-      "rank": 44,
+      "raw_hot": 62201,
+      "num": 62201,
+      "word": "店主谎称做活动为8旬老人免单",
+      "onboard_time": 1659994211,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -475,28 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23081,
-      "num": 23081,
-      "word": "学习成绩和过程哪个更重要",
-      "onboard_time": 1659993251,
-      "rank": 49,
-      "category": "教育,情感"
-    },
-    {
-      "raw_hot": 13696,
-      "num": 13696,
+      "raw_hot": 26849,
+      "num": 26849,
       "word": "范丞丞片场偷吃道具",
       "onboard_time": 1659991812,
       "rank": 45,
       "category": "影视"
     },
     {
-      "raw_hot": 13486,
-      "num": 13486,
-      "word": "店主谎称做活动为8旬老人免单",
-      "onboard_time": 1659994211,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 23022,
+      "num": 23022,
+      "word": "李汶翰包场请粉丝看遇见你",
+      "onboard_time": 1659997033,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 13370,

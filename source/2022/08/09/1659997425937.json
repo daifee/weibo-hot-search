@@ -1,0 +1,410 @@
+{
+  "runTime": 1659997425937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 387880,
+        "num": 387880,
+        "word": "婚车公司拒吃盒饭要求新娘备酒席",
+        "onboard_time": 1659972637,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275856,
+        "num": 275856,
+        "word": "中方坚决反对给一个中国原则加前后缀",
+        "onboard_time": 1659970060,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7778,
+        "num": 215905,
+        "word": "中国人独有的双奥记忆",
+        "onboard_time": 1659916949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213071,
+        "num": 213071,
+        "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+        "onboard_time": 1659983234,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210366,
+        "num": 210366,
+        "word": "男子身上长结石30多年成珍珠人",
+        "onboard_time": 1659963696,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173232,
+        "num": 173232,
+        "word": "阳光玫瑰价格大跳水",
+        "onboard_time": 1659965317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155055,
+        "num": 155055,
+        "word": "男生加了微信不说话怎么办",
+        "onboard_time": 1659960394,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "12岁女孩永远吃不饱体重近200斤",
+        "onboard_time": 1659969397,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125603,
+        "num": 125603,
+        "word": "台北70岁山东饺子馆老板发声",
+        "onboard_time": 1659961654,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119804,
+        "num": 119804,
+        "word": "银行回应高温天拒绝市民入内排队",
+        "onboard_time": 1659960815,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268464,
+        "num": 118963,
+        "word": "2岁女童从22楼装修工地坠落幸存",
+        "onboard_time": 1659972700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177575,
+        "num": 112141,
+        "word": "上半年韩星收入TOP10",
+        "onboard_time": 1659972580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169787,
+        "num": 106677,
+        "word": "解放军台海演训激发年轻人从军热情",
+        "onboard_time": 1659987432,
+        "rank": 12,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 129041,
+        "num": 101299,
+        "word": "小红书崩了",
+        "onboard_time": 1659968019,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 97736,
+        "num": 97736,
+        "word": "三亚全域静态管理期间欠费不停供",
+        "onboard_time": 1659995653,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92010,
+        "num": 92010,
+        "word": "驾校教练专拍女学员大腿称因有流量",
+        "onboard_time": 1659989413,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90231,
+        "num": 90231,
+        "word": "拉萨发现18例阳性",
+        "onboard_time": 1659956254,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86682,
+        "num": 86682,
+        "word": "入秋最积极的城市",
+        "onboard_time": 1659966462,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 86112,
+        "num": 86112,
+        "word": "沉香如屑 灯芯",
+        "onboard_time": 1659971679,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83103,
+        "num": 83103,
+        "word": "学习成绩和过程哪个更重要",
+        "onboard_time": 1659993251,
+        "rank": 19,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 292064,
+        "num": 82572,
+        "word": "王栎鑫 你想转就转不要往回找补",
+        "onboard_time": 1659969100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76078,
+        "num": 76078,
+        "word": "西安东汉墓葬发现龙纹铺地砖",
+        "onboard_time": 1659974077,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71140,
+        "num": 71140,
+        "word": "1岁女童肚中取出柚子大小畸胎瘤",
+        "onboard_time": 1659971860,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68277,
+        "num": 68277,
+        "word": "打工人带饭四个月的变化",
+        "onboard_time": 1659967119,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64797,
+        "num": 64797,
+        "word": "杨紫说这桃花运来得有点突然",
+        "onboard_time": 1659956434,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64654,
+        "num": 64654,
+        "word": "官方回应张家界自行车赛选手疑坠崖",
+        "onboard_time": 1659970360,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62201,
+        "num": 62201,
+        "word": "店主谎称做活动为8旬老人免单",
+        "onboard_time": 1659994211,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58867,
+        "num": 58867,
+        "word": "五哈第三季拟邀嘉宾",
+        "onboard_time": 1659963216,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58742,
+        "num": 58742,
+        "word": "基金经理",
+        "onboard_time": 1659968979,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56182,
+        "num": 56182,
+        "word": "8月8日东部战区砺兵台海现场视频",
+        "onboard_time": 1659960936,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52774,
+        "num": 52774,
+        "word": "苏醒 表面关系都是生意",
+        "onboard_time": 1659968499,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48536,
+        "num": 48536,
+        "word": "苍兰诀",
+        "onboard_time": 1659961715,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45787,
+        "num": 45787,
+        "word": "为什么年轻人理财越理越穷",
+        "onboard_time": 1659960335,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43981,
+        "num": 43981,
+        "word": "福建男女平均身高出炉",
+        "onboard_time": 1659967479,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41404,
+        "num": 41404,
+        "word": "成都一男子持菜刀街头叫嚣",
+        "onboard_time": 1659971016,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 40197,
+        "num": 40197,
+        "word": "小伙遇车祸为救人相亲迟到20分钟",
+        "onboard_time": 1659967297,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38117,
+        "num": 38117,
+        "word": "王曼昱 逛街",
+        "onboard_time": 1659968260,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37245,
+        "num": 37245,
+        "word": "liz 造型",
+        "onboard_time": 1659972520,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35879,
+        "num": 35879,
+        "word": "专访金像奖影后刘雅瑟",
+        "onboard_time": 1659987912,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35712,
+        "num": 35712,
+        "word": "这猫咪是从梁山下来的吧",
+        "onboard_time": 1659979878,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32478,
+        "num": 32478,
+        "word": "易方达",
+        "onboard_time": 1659971077,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32178,
+        "num": 32178,
+        "word": "友情可以升级为爱情吗",
+        "onboard_time": 1659963458,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29467,
+        "num": 29467,
+        "word": "马龙晒健身日常",
+        "onboard_time": 1659975632,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28750,
+        "num": 28750,
+        "word": "你期待马伯骞演的桑延吗",
+        "onboard_time": 1659979279,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28060,
+        "num": 28060,
+        "word": "沉香如屑",
+        "onboard_time": 1659964116,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27821,
+        "num": 27821,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 26849,
+        "num": 26849,
+        "word": "范丞丞片场偷吃道具",
+        "onboard_time": 1659991812,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24716,
+        "num": 24716,
+        "word": "场外期权",
+        "onboard_time": 1659969159,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23706,
+        "num": 23706,
+        "word": "长生花好虐",
+        "onboard_time": 1659964237,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23022,
+        "num": 23022,
+        "word": "李汶翰包场请粉丝看遇见你",
+        "onboard_time": 1659997033,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

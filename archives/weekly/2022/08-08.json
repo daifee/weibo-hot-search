@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659994575580,
+  "endTime": 1659997425937,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -2419,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213071,
+      "num": 213071,
+      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+      "onboard_time": 1659983234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210266,
       "num": 210266,
       "word": "广西舰训练画面公布",
@@ -2593,6 +2601,14 @@
       "onboard_time": 1659875074,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169787,
+      "num": 106677,
+      "word": "解放军台海演训激发年轻人从军热情",
+      "onboard_time": 1659987432,
+      "rank": 19,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 169392,
@@ -2795,14 +2811,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 126263,
-      "num": 95480,
-      "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
-      "onboard_time": 1659983234,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125106,
       "num": 125106,
       "word": "原来这就是数学之美",
@@ -2883,12 +2891,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69913,
-      "num": 46070,
-      "word": "解放军台海演训激发年轻人从军热情",
-      "onboard_time": 1659987432,
-      "rank": 19,
-      "category": "军事,社会新闻"
+      "raw_hot": 97736,
+      "num": 97736,
+      "word": "三亚全域静态管理期间欠费不停供",
+      "onboard_time": 1659995653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92010,
+      "num": 92010,
+      "word": "驾校教练专拍女学员大腿称因有流量",
+      "onboard_time": 1659989413,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83103,
+      "num": 83103,
+      "word": "学习成绩和过程哪个更重要",
+      "onboard_time": 1659993251,
+      "rank": 49,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 64687,
@@ -2899,20 +2923,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62201,
+      "num": 62201,
+      "word": "店主谎称做活动为8旬老人免单",
+      "onboard_time": 1659994211,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60877,
       "num": 60877,
       "word": "西汉姆联vs曼城",
       "onboard_time": 1659895155,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58565,
-      "num": 45561,
-      "word": "驾校教练专拍女学员大腿称因有流量",
-      "onboard_time": 1659989413,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52990,
@@ -2963,12 +2987,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23081,
-      "num": 23081,
-      "word": "学习成绩和过程哪个更重要",
-      "onboard_time": 1659993251,
+      "raw_hot": 26849,
+      "num": 26849,
+      "word": "范丞丞片场偷吃道具",
+      "onboard_time": 1659991812,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 23022,
+      "num": 23022,
+      "word": "李汶翰包场请粉丝看遇见你",
+      "onboard_time": 1659997033,
       "rank": 49,
-      "category": "教育,情感"
+      "category": "影视"
     },
     {
       "raw_hot": 21203,
@@ -3001,22 +3033,6 @@
       "onboard_time": 1659905950,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13696,
-      "num": 13696,
-      "word": "范丞丞片场偷吃道具",
-      "onboard_time": 1659991812,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 13486,
-      "num": 13486,
-      "word": "店主谎称做活动为8旬老人免单",
-      "onboard_time": 1659994211,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13370,
