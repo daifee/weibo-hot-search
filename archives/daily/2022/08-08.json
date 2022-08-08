@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659955260569,
+  "endTime": 1659957469927,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -123,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1877498,
+      "num": 1877498,
+      "word": "拉萨发现18例阳性",
+      "onboard_time": 1659956254,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1776176,
       "num": 1776176,
       "word": "不致命但很烦人的慢性病",
@@ -233,6 +241,14 @@
       "onboard_time": 1659939338,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310645,
+      "num": 1310645,
+      "word": "杨紫说这桃花运来得有点突然",
+      "onboard_time": 1659956434,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1300557,
@@ -435,6 +451,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 833296,
+      "num": 638214,
+      "word": "中方军事演训公开透明专业",
+      "onboard_time": 1659954936,
+      "rank": 39,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 816959,
       "num": 816959,
       "word": "王俊凯把自己交付给孟超",
@@ -449,6 +473,14 @@
       "onboard_time": 1659946358,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 805199,
+      "num": 805199,
+      "word": "杨幂震惊十面埋伏是李斯丹妮的歌",
+      "onboard_time": 1659956313,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 789733,
@@ -579,12 +611,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647629,
+      "num": 637186,
+      "word": "胡一天 扫楼",
+      "onboard_time": 1659955592,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 646666,
+      "num": 383501,
+      "word": "警方回应男子尾随女童进小区猥亵",
+      "onboard_time": 1659954334,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642415,
       "num": 642415,
       "word": "美退役军官称如今解放军脱胎换骨",
       "onboard_time": 1659935749,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 641156,
+      "num": 641156,
+      "word": "嫋嫋教皇后撒娇",
+      "onboard_time": 1659954276,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 639998,
@@ -635,14 +691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 566470,
-      "num": 566470,
-      "word": "嫋嫋教皇后撒娇",
-      "onboard_time": 1659954276,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 565656,
       "num": 565656,
       "word": "一定要和对象去献血",
@@ -683,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540070,
+      "num": 540070,
+      "word": "中方回应军演是否符合国际惯例",
+      "onboard_time": 1659955235,
+      "rank": 47,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 538596,
       "num": 538596,
       "word": "广东新增本土确诊37例",
@@ -721,6 +777,14 @@
       "onboard_time": 1659932043,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529467,
+      "num": 529467,
+      "word": "千万别买夜光玩具",
+      "onboard_time": 1659954395,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 515423,
@@ -1075,6 +1139,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 366184,
+      "num": 366184,
+      "word": "邓紫棋爆发崩溃哭戏",
+      "onboard_time": 1659955414,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 364195,
+      "num": 364195,
+      "word": "41年前的今天这名台湾小伙驾驶战机回归祖国",
+      "onboard_time": 1659953315,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 364155,
       "num": 364155,
       "word": "有效缓解偏头痛的办法",
@@ -1219,19 +1299,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320133,
+      "num": 320133,
+      "word": "遮天动画九龙拉棺预告",
+      "onboard_time": 1659957153,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 319891,
       "num": 319891,
       "word": "浙江义乌新增56例阳性",
       "onboard_time": 1659882154,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314197,
-      "num": 314197,
-      "word": "警方回应男子尾随女童进小区猥亵",
-      "onboard_time": 1659954334,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1307,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301783,
-      "num": 301783,
-      "word": "千万别买夜光玩具",
-      "onboard_time": 1659954395,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 300337,
       "num": 237539,
       "word": "少年派2大结局你满意吗",
@@ -1331,20 +1403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294737,
-      "num": 294737,
-      "word": "41年前的今天这名台湾小伙驾驶战机回归祖国",
-      "onboard_time": 1659953315,
-      "rank": 38,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 294300,
       "num": 294300,
       "word": "苍兰诀海外评价",
       "onboard_time": 1659942940,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290593,
+      "num": 290593,
+      "word": "原来猫猫真的会孤独",
+      "onboard_time": 1659954572,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 290544,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1659933846,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278971,
+      "num": 278971,
+      "word": "苍兰诀长我笑点上了",
+      "onboard_time": 1659955893,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 278192,
@@ -1531,12 +1611,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 256921,
-      "num": 256921,
-      "word": "中方军事演训公开透明专业",
-      "onboard_time": 1659954936,
-      "rank": 39,
-      "category": "军事,社会新闻"
+      "raw_hot": 256837,
+      "num": 256837,
+      "word": "颜淡再戴沉花簪",
+      "onboard_time": 1659957334,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 254416,
@@ -1659,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235446,
-      "num": 235446,
-      "word": "原来猫猫真的会孤独",
-      "onboard_time": 1659954572,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234141,
       "num": 234141,
       "word": "仙剑3动画概念预告",
@@ -1747,6 +1819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 220743,
+      "num": 220743,
+      "word": "这只小狗看起来好快乐啊",
+      "onboard_time": 1659956614,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219963,
       "num": 219963,
       "word": "LPL夏季赛周最佳阵容",
@@ -1777,14 +1857,6 @@
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206646,
-      "num": 194920,
-      "word": "中方回应军演是否符合国际惯例",
-      "onboard_time": 1659955235,
-      "rank": 47,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 204302,
@@ -1843,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194003,
+      "num": 194003,
+      "word": "RNG战胜TT",
+      "onboard_time": 1659957455,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193725,
       "num": 193725,
       "word": "钱三一求婚林妙妙好感人",
@@ -1891,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178237,
+      "num": 178237,
+      "word": "8月孕妈穿爸爸衣服神似中年大叔",
+      "onboard_time": 1659957455,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176256,
       "num": 303291,
       "word": "上海叫高峰的打车可免单",
@@ -1916,7 +2004,7 @@
     },
     {
       "raw_hot": 169392,
-      "num": 1621802,
+      "num": 1883978,
       "word": "全民运动健身图鉴",
       "onboard_time": 1659942876,
       "rank": 2,
@@ -2025,6 +2113,14 @@
       "onboard_time": 1659866970,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131164,
+      "num": 259337,
+      "word": "安踏发布会",
+      "onboard_time": 1659956495,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127021,
