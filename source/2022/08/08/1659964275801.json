@@ -1,0 +1,410 @@
+{
+  "runTime": 1659964275801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3057709,
+        "num": 3057709,
+        "word": "男生加了微信不说话怎么办",
+        "onboard_time": 1659960394,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1290852,
+        "num": 1290852,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 1,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 80404,
+        "num": 1199435,
+        "word": "全民运动健身图鉴",
+        "onboard_time": 1659942876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337056,
+        "num": 1196377,
+        "word": "杨紫说这桃花运来得有点突然",
+        "onboard_time": 1659956434,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1168056,
+        "num": 1168056,
+        "word": "五哈第三季拟邀嘉宾",
+        "onboard_time": 1659963216,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900948,
+        "num": 900948,
+        "word": "台北70岁山东饺子馆老板发声",
+        "onboard_time": 1659961654,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813266,
+        "num": 813266,
+        "word": "拉萨发现18例阳性",
+        "onboard_time": 1659956254,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712753,
+        "num": 712753,
+        "word": "赵丽颖辛云来牵手对戏路透",
+        "onboard_time": 1659960936,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670442,
+        "num": 670442,
+        "word": "中国男排vs中国台北男排",
+        "onboard_time": 1659961356,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658384,
+        "num": 658384,
+        "word": "30岁后很难交到真心朋友吗",
+        "onboard_time": 1659958835,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637963,
+        "num": 637963,
+        "word": "喻言直播",
+        "onboard_time": 1659963278,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500498,
+        "num": 500498,
+        "word": "南京长江大桥",
+        "onboard_time": 1659961774,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498844,
+        "num": 498844,
+        "word": "上班一定要待在工位吗",
+        "onboard_time": 1659958175,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 483750,
+        "num": 483750,
+        "word": "银行回应高温天拒绝市民入内排队",
+        "onboard_time": 1659960815,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468313,
+        "num": 468313,
+        "word": "郭晓婷说徐海乔徒儿还在等我呢",
+        "onboard_time": 1659963396,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458773,
+        "num": 458773,
+        "word": "8月8日东部战区砺兵台海现场视频",
+        "onboard_time": 1659960936,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 427252,
+        "num": 427252,
+        "word": "苍兰诀",
+        "onboard_time": 1659961715,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398208,
+        "num": 398208,
+        "word": "抖音回应限流东方甄选传闻",
+        "onboard_time": 1659959133,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 374369,
+        "num": 374369,
+        "word": "8月孕妈穿爸爸衣服神似中年大叔",
+        "onboard_time": 1659957455,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325405,
+        "num": 325405,
+        "word": "为什么年轻人理财越理越穷",
+        "onboard_time": 1659960335,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371670,
+        "num": 321571,
+        "word": "嫋嫋教皇后撒娇",
+        "onboard_time": 1659954276,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371612,
+        "num": 318912,
+        "word": "杨幂震惊十面埋伏是李斯丹妮的歌",
+        "onboard_time": 1659956313,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361911,
+        "num": 317063,
+        "word": "沉香如屑",
+        "onboard_time": 1659964116,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314849,
+        "num": 314849,
+        "word": "千万别买夜光玩具",
+        "onboard_time": 1659954395,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294727,
+        "num": 294727,
+        "word": "解放军重点组织联合反潜和对海突击",
+        "onboard_time": 1659958234,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 279838,
+        "num": 279838,
+        "word": "警方回应男子尾随女童进小区猥亵",
+        "onboard_time": 1659954334,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235358,
+        "num": 235358,
+        "word": "10万的多肉被采花贼养死",
+        "onboard_time": 1659950556,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235072,
+        "num": 235072,
+        "word": "男子身上长结石30多年成珍珠人",
+        "onboard_time": 1659963696,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231228,
+        "num": 231228,
+        "word": "女子朋友圈刷到遗书报警救下一命",
+        "onboard_time": 1659947376,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210632,
+        "num": 210632,
+        "word": "西藏日喀则全域静默管理",
+        "onboard_time": 1659957994,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339888,
+        "num": 210581,
+        "word": "谢谢王菲",
+        "onboard_time": 1659947978,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 303376,
+        "num": 209526,
+        "word": "艺人真人vs显示屏",
+        "onboard_time": 1659947797,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 270623,
+        "num": 208037,
+        "word": "鞠婧祎白鹿同框",
+        "onboard_time": 1659949956,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264520,
+        "num": 207509,
+        "word": "欧豪20秒落泪长镜头",
+        "onboard_time": 1659962913,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249137,
+        "num": 206996,
+        "word": "王鹤棣说还好本大强不姓苏",
+        "onboard_time": 1659964116,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206188,
+        "num": 206188,
+        "word": "友情可以升级为爱情吗",
+        "onboard_time": 1659963458,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203451,
+        "num": 203451,
+        "word": "原来猫猫真的会孤独",
+        "onboard_time": 1659954572,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192762,
+        "num": 192762,
+        "word": "中方回应军演是否符合国际惯例",
+        "onboard_time": 1659955235,
+        "rank": 37,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 189041,
+        "num": 189041,
+        "word": "阿维塔发布会",
+        "onboard_time": 1659962977,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179919,
+        "num": 179919,
+        "word": "新疆哈密市一区新增无症状4例",
+        "onboard_time": 1659962555,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233191,
+        "num": 176205,
+        "word": "胡一天 扫楼",
+        "onboard_time": 1659955592,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161426,
+        "num": 161426,
+        "word": "日本没有资格对台湾问题说三道四",
+        "onboard_time": 1659953794,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160135,
+        "num": 160135,
+        "word": "消防通报南京长江大桥失火",
+        "onboard_time": 1659964116,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160125,
+        "num": 160125,
+        "word": "特战队员挑战绑缚手脚泅渡5公里",
+        "onboard_time": 1659962614,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 158114,
+        "num": 158114,
+        "word": "吴承恩缉妖录人物剪影介绍",
+        "onboard_time": 1659962072,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153954,
+        "num": 153954,
+        "word": "这只小狗看起来好快乐啊",
+        "onboard_time": 1659956614,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152160,
+        "num": 152160,
+        "word": "女子连续3年每月痛经15天以为没事",
+        "onboard_time": 1659934556,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281284,
+        "num": 150979,
+        "word": "长生花好虐",
+        "onboard_time": 1659964237,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149128,
+        "num": 149128,
+        "word": "就这young练",
+        "onboard_time": 1659964176,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144832,
+        "num": 144832,
+        "word": "BLG对战WE",
+        "onboard_time": 1659963396,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
