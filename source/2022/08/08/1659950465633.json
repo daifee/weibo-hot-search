@@ -1,0 +1,410 @@
+{
+  "runTime": 1659950465633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3429714,
+        "num": 3429714,
+        "word": "东部战区",
+        "onboard_time": 1659936462,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1199775,
+        "num": 1199775,
+        "word": "禁止收视率点击率等虚假宣传",
+        "onboard_time": 1659944676,
+        "rank": 1,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 162163,
+        "num": 1163149,
+        "word": "全民运动健身图鉴",
+        "onboard_time": 1659942876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142717,
+        "num": 1142717,
+        "word": "女子朋友圈刷到遗书报警救下一命",
+        "onboard_time": 1659947376,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141347,
+        "num": 1141347,
+        "word": "上海宝山一盆市价10万多肉被偷",
+        "onboard_time": 1659944436,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959670,
+        "num": 959670,
+        "word": "95后女孩刷单5天被骗30多万",
+        "onboard_time": 1659945398,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956135,
+        "num": 956135,
+        "word": "郑秀妍录制你好星期六路透图",
+        "onboard_time": 1659949178,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 806807,
+        "num": 806807,
+        "word": "台北故宫辟谣台当局准备转移文物到美日",
+        "onboard_time": 1659939699,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 728164,
+        "num": 728164,
+        "word": "偷偷藏不住网传阵容你满意吗",
+        "onboard_time": 1659946358,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681945,
+        "num": 681945,
+        "word": "男子下班用微信工作发病认定工伤",
+        "onboard_time": 1659939338,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700366,
+        "num": 680337,
+        "word": "马伯骞 桑延",
+        "onboard_time": 1659933727,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638799,
+        "num": 638799,
+        "word": "女孩收到录取通知书后跑进派出所",
+        "onboard_time": 1659941737,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 607433,
+        "num": 607433,
+        "word": "台军方7日发现66架次解放军军机巡台",
+        "onboard_time": 1659938678,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 602930,
+        "num": 602930,
+        "word": "女子连续3年每月痛经15天以为没事",
+        "onboard_time": 1659934556,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595781,
+        "num": 595781,
+        "word": "尽量不要晚上去爬泰山",
+        "onboard_time": 1659937902,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 550941,
+        "num": 550941,
+        "word": "第7号台风木兰来了",
+        "onboard_time": 1659948757,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541376,
+        "num": 541376,
+        "word": "唐诗逸说虞书欣小兰花可爱",
+        "onboard_time": 1659947257,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469285,
+        "num": 469285,
+        "word": "台湾地图上飘出山东味道",
+        "onboard_time": 1659942218,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447075,
+        "num": 447075,
+        "word": "IP大于原创",
+        "onboard_time": 1659945936,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445829,
+        "num": 445829,
+        "word": "里根号航母转向后继续向南移动",
+        "onboard_time": 1659940297,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1548197,
+        "num": 439204,
+        "word": "谢谢王菲",
+        "onboard_time": 1659947978,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 959512,
+        "num": 436743,
+        "word": "鞠婧祎白鹿同框",
+        "onboard_time": 1659949956,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398338,
+        "num": 398338,
+        "word": "外交部4个难道反问日本",
+        "onboard_time": 1659949296,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 384805,
+        "num": 384805,
+        "word": "安徽卫视 男生女生向前冲",
+        "onboard_time": 1659936283,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383864,
+        "num": 383864,
+        "word": "iPhone14Pro约8999起",
+        "onboard_time": 1659932465,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 382412,
+        "num": 382412,
+        "word": "上海居民人均可支配收入达7.8万元",
+        "onboard_time": 1659943477,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356698,
+        "num": 356698,
+        "word": "研究生毕业生及在校生征兵年龄放宽",
+        "onboard_time": 1659938259,
+        "rank": 26,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 313568,
+        "num": 313568,
+        "word": "多家共享单车价格调整",
+        "onboard_time": 1659945816,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298693,
+        "num": 298693,
+        "word": "iPhone14系列新机备货扩大至9500万部",
+        "onboard_time": 1659948515,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 289373,
+        "num": 289373,
+        "word": "有效缓解偏头痛的办法",
+        "onboard_time": 1659949776,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377817,
+        "num": 287486,
+        "word": "小黄人2定档819",
+        "onboard_time": 1659949478,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333447,
+        "num": 282726,
+        "word": "艺人真人vs显示屏",
+        "onboard_time": 1659947797,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 277246,
+        "num": 277246,
+        "word": "官方回应温泉乐园禁止带水进入",
+        "onboard_time": 1659947916,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276232,
+        "num": 276232,
+        "word": "法海在西湖边比赛做俯卧撑",
+        "onboard_time": 1659950376,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268244,
+        "num": 268244,
+        "word": "甜美的咬痕动画定档",
+        "onboard_time": 1659945996,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 263158,
+        "num": 263158,
+        "word": "成毅片场忽悠杨紫",
+        "onboard_time": 1659943176,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258891,
+        "num": 258891,
+        "word": "刘畊宏全民健身日直播",
+        "onboard_time": 1659947257,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 255161,
+        "num": 255161,
+        "word": "美退役军官称如今解放军脱胎换骨",
+        "onboard_time": 1659935749,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 253339,
+        "num": 253339,
+        "word": "中国发现新人畜共患病毒琅琊",
+        "onboard_time": 1659932947,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251816,
+        "num": 251816,
+        "word": "阿里首次推出个人碳账户",
+        "onboard_time": 1659944018,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251450,
+        "num": 251450,
+        "word": "偷偷藏不住",
+        "onboard_time": 1659928801,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250827,
+        "num": 250827,
+        "word": "外交部回应所谓美澳日联合声明",
+        "onboard_time": 1659949536,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 234141,
+        "num": 234141,
+        "word": "仙剑3动画概念预告",
+        "onboard_time": 1659947677,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 227549,
+        "num": 227549,
+        "word": "日本一海上自卫队员遇袭",
+        "onboard_time": 1659937602,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 208071,
+        "num": 208071,
+        "word": "华春莹点赞台湾山东饺子馆",
+        "onboard_time": 1659928438,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 192121,
+        "num": 192121,
+        "word": "海南新增77例本土阳性感染者",
+        "onboard_time": 1659943838,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191197,
+        "num": 191197,
+        "word": "金丝猴坐路边礼貌接过游客苹果",
+        "onboard_time": 1659931743,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 186297,
+        "num": 186297,
+        "word": "被逛游乐园的爷爷奶奶甜到了",
+        "onboard_time": 1659948279,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178553,
+        "num": 178553,
+        "word": "莆田秀屿发现4例阳性",
+        "onboard_time": 1659950317,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173874,
+        "num": 173874,
+        "word": "苹果新iPadPro将配备两个四针接口",
+        "onboard_time": 1659936822,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强则中国强#"
+    }
+  }
+}
