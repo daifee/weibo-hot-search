@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659957469927,
+  "endTime": 1659958477448,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -25,6 +25,14 @@
       "onboard_time": 1659928438,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2740017,
+      "num": 2740017,
+      "word": "拉萨发现18例阳性",
+      "onboard_time": 1659956254,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2576722,
@@ -121,14 +129,6 @@
       "onboard_time": 1659928740,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1877498,
-      "num": 1877498,
-      "word": "拉萨发现18例阳性",
-      "onboard_time": 1659956254,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1776176,
@@ -243,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1310645,
-      "num": 1310645,
+      "raw_hot": 1319439,
+      "num": 1319439,
       "word": "杨紫说这桃花运来得有点突然",
       "onboard_time": 1659956434,
       "rank": 4,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 833296,
-      "num": 638214,
+      "num": 696183,
       "word": "中方军事演训公开透明专业",
       "onboard_time": 1659954936,
       "rank": 39,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700449,
+      "num": 700449,
+      "word": "中方回应军演是否符合国际惯例",
+      "onboard_time": 1659955235,
+      "rank": 47,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 696844,
       "num": 696844,
       "word": "轰炸机双向穿越台湾海峡交会瞬间",
@@ -651,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639253,
+      "num": 639253,
+      "word": "千万别买夜光玩具",
+      "onboard_time": 1659954395,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -731,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540070,
-      "num": 540070,
-      "word": "中方回应军演是否符合国际惯例",
-      "onboard_time": 1659955235,
-      "rank": 47,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 538596,
       "num": 538596,
       "word": "广东新增本土确诊37例",
@@ -777,14 +785,6 @@
       "onboard_time": 1659932043,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529467,
-      "num": 529467,
-      "word": "千万别买夜光玩具",
-      "onboard_time": 1659954395,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 515423,
@@ -859,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468450,
+      "num": 468450,
+      "word": "颜淡再戴沉花簪",
+      "onboard_time": 1659957334,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467224,
       "num": 467224,
       "word": "三亚新增186例确诊病例",
@@ -897,6 +905,14 @@
       "onboard_time": 1659876393,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433668,
+      "num": 433668,
+      "word": "41年前的今天这名台湾小伙驾驶战机回归祖国",
+      "onboard_time": 1659953315,
+      "rank": 38,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 429796,
@@ -1043,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391109,
+      "num": 391109,
+      "word": "8月孕妈穿爸爸衣服神似中年大叔",
+      "onboard_time": 1659957455,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389511,
       "num": 389511,
       "word": "MonstaX五名成员续约",
@@ -1145,14 +1169,6 @@
       "onboard_time": 1659955414,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 364195,
-      "num": 364195,
-      "word": "41年前的今天这名台湾小伙驾驶战机回归祖国",
-      "onboard_time": 1659953315,
-      "rank": 38,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 364155,
@@ -1283,8 +1299,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 324599,
-      "num": 324599,
+      "raw_hot": 325515,
+      "num": 325515,
       "word": "日本没有资格对台湾问题说三道四",
       "onboard_time": 1659953794,
       "rank": 30,
@@ -1336,6 +1352,14 @@
       "word": "多家共享单车价格调整",
       "onboard_time": 1659945816,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310944,
+      "num": 310944,
+      "word": "西藏日喀则全域静默管理",
+      "onboard_time": 1659957994,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1611,12 +1635,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 256837,
-      "num": 256837,
-      "word": "颜淡再戴沉花簪",
-      "onboard_time": 1659957334,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 256862,
+      "num": 256862,
+      "word": "上班一定要待在工位吗",
+      "onboard_time": 1659958175,
+      "rank": 36,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 254416,
@@ -1731,12 +1755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235950,
+      "num": 235950,
+      "word": "这只小狗看起来好快乐啊",
+      "onboard_time": 1659956614,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235862,
       "num": 235862,
       "word": "湛江新增本土确诊26例",
       "onboard_time": 1659922591,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234309,
+      "num": 234309,
+      "word": "RNG战胜TT",
+      "onboard_time": 1659957455,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 234141,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1659922770,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232753,
+      "num": 202909,
+      "word": "王鹤棣被虞书欣拿捏了",
+      "onboard_time": 1659958474,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 231381,
@@ -1819,14 +1867,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 220743,
-      "num": 220743,
-      "word": "这只小狗看起来好快乐啊",
-      "onboard_time": 1659956614,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219963,
       "num": 219963,
       "word": "LPL夏季赛周最佳阵容",
@@ -1859,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210266,
+      "num": 210266,
+      "word": "广西舰训练画面公布",
+      "onboard_time": 1659957811,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 204302,
       "num": 151240,
       "word": "王一博热烈杀青合照",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1659939338,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 203655,
+      "num": 203655,
+      "word": "解放军重点组织联合反潜和对海突击",
+      "onboard_time": 1659958234,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 202393,
@@ -1913,14 +1969,6 @@
       "onboard_time": 1659940058,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194003,
-      "num": 194003,
-      "word": "RNG战胜TT",
-      "onboard_time": 1659957455,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 193725,
@@ -1969,14 +2017,6 @@
       "onboard_time": 1659914060,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178237,
-      "num": 178237,
-      "word": "8月孕妈穿爸爸衣服神似中年大叔",
-      "onboard_time": 1659957455,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176256,
@@ -2051,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154288,
+      "num": 259337,
+      "word": "安踏发布会",
+      "onboard_time": 1659956495,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152269,
       "num": 152269,
       "word": "月升沧海",
@@ -2113,14 +2161,6 @@
       "onboard_time": 1659866970,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131164,
-      "num": 259337,
-      "word": "安踏发布会",
-      "onboard_time": 1659956495,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127021,
