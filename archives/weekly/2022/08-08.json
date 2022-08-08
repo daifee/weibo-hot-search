@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659931742208,
+  "endTime": 1659933755910,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -11,8 +11,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 3077133,
-      "num": 3077133,
+      "raw_hot": 3458684,
+      "num": 3458684,
       "word": "华春莹点赞台湾山东饺子馆",
       "onboard_time": 1659928438,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1439541,
+      "num": 1439541,
+      "word": "暑假余额都交给鹅厂综艺了",
+      "onboard_time": 1659931929,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1407181,
       "num": 1407181,
       "word": "不知道台湾是中国的一部分就去读书",
@@ -115,8 +123,16 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1362470,
+      "num": 1362470,
+      "word": "去医院千万不要穿的衣服",
+      "onboard_time": 1659929519,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1352403,
-      "num": 493230,
+      "num": 655170,
       "word": "男子躲火车厕所裸聊遭对方敲诈",
       "onboard_time": 1659920191,
       "rank": 20,
@@ -171,6 +187,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1047269,
+      "num": 256227,
+      "word": "马伯骞 桑延",
+      "onboard_time": 1659933727,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1041847,
       "num": 1041847,
       "word": "巴黎世家12000元新包像大垃圾袋",
@@ -203,12 +227,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 956386,
+      "num": 931093,
+      "word": "凌不疑程少商互找命门花絮",
+      "onboard_time": 1659931682,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 936857,
+      "num": 936857,
+      "word": "iPhone14Pro约8999起",
+      "onboard_time": 1659932465,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 904432,
       "num": 314371,
       "word": "冉莹颖情绪崩溃",
       "onboard_time": 1659865711,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 885260,
+      "num": 885260,
+      "word": "金丝猴坐路边礼貌接过游客苹果",
+      "onboard_time": 1659931743,
+      "rank": 12,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 816959,
@@ -219,20 +267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 798274,
-      "num": 798274,
-      "word": "去医院千万不要穿的衣服",
-      "onboard_time": 1659929519,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 789733,
       "num": 789733,
       "word": "王传君翻窗进屋把武大靖整懵了",
       "onboard_time": 1659919470,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767572,
+      "num": 767572,
+      "word": "琅琊",
+      "onboard_time": 1659932947,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753967,
@@ -249,6 +297,14 @@
       "onboard_time": 1659929939,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716851,
+      "num": 716851,
+      "word": "苹果开始录制iPhone14系列发布会",
+      "onboard_time": 1659930720,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 710162,
@@ -305,6 +361,14 @@
       "onboard_time": 1659917371,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 648382,
+      "num": 648382,
+      "word": "中国发现新人畜共患病毒琅琊",
+      "onboard_time": 1659932947,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632219,
@@ -395,6 +459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529583,
+      "num": 529583,
+      "word": "海南日报",
+      "onboard_time": 1659932043,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513422,
+      "num": 513422,
+      "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
+      "onboard_time": 1659925061,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 501692,
+      "num": 501692,
+      "word": "农民日报评论全县静默庄稼没法静默",
+      "onboard_time": 1659932407,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489115,
       "num": 489115,
       "word": "谢娜为电影断桥打call",
@@ -411,28 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468667,
-      "num": 468667,
-      "word": "苹果开始录制iPhone14系列发布会",
-      "onboard_time": 1659930720,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 467224,
       "num": 467224,
       "word": "三亚新增186例确诊病例",
       "onboard_time": 1659896414,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466880,
-      "num": 239250,
-      "word": "凌不疑程少商互找命门花絮",
-      "onboard_time": 1659931682,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 462536,
@@ -481,6 +553,14 @@
       "onboard_time": 1659881374,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427134,
+      "num": 427134,
+      "word": "STAYC四名成员确诊新冠",
+      "onboard_time": 1659932043,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 410067,
@@ -547,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376439,
-      "num": 376439,
-      "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
-      "onboard_time": 1659925061,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 372070,
       "num": 367379,
       "word": "电影世间有她定档中秋",
@@ -619,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332709,
+      "num": 332709,
+      "word": "今生也是第一次杀青",
+      "onboard_time": 1659932765,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330837,
       "num": 330837,
       "word": "三亚新增227例无症状感染者",
@@ -627,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320091,
+      "num": 320091,
+      "word": "被滞留三亚游客现状如何",
+      "onboard_time": 1659921271,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 319891,
       "num": 319891,
       "word": "浙江义乌新增56例阳性",
       "onboard_time": 1659882154,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314954,
-      "num": 314954,
-      "word": "被滞留三亚游客现状如何",
-      "onboard_time": 1659921271,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 314017,
@@ -796,10 +876,18 @@
     },
     {
       "raw_hot": 251370,
-      "num": 731478,
+      "num": 779861,
       "word": "雷军的人生低谷",
       "onboard_time": 1659931260,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250978,
+      "num": 250978,
+      "word": "被爷爷17年的追星笔记整破防了",
+      "onboard_time": 1659933727,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176256,
+      "num": 303291,
+      "word": "上海叫高峰的打车可免单",
+      "onboard_time": 1659931260,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170427,
       "num": 170427,
       "word": "钱三一没毕业",
@@ -1145,14 +1241,6 @@
       "onboard_time": 1659895155,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51616,
-      "num": 303291,
-      "word": "上海叫高峰的打车可免单",
-      "onboard_time": 1659931260,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33191,
