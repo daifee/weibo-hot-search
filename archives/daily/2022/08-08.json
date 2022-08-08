@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659940217382,
+  "endTime": 1659941262079,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 907626,
+      "num": 907626,
+      "word": "尽量不要晚上去爬泰山",
+      "onboard_time": 1659937902,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 904432,
       "num": 314371,
       "word": "冉莹颖情绪崩溃",
@@ -305,6 +313,14 @@
       "onboard_time": 1659930477,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 814517,
+      "num": 814517,
+      "word": "东部战区",
+      "onboard_time": 1659936462,
+      "rank": 25,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 789733,
@@ -331,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751597,
+      "num": 751597,
+      "word": "小黄豆 落水",
+      "onboard_time": 1659938861,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726259,
       "num": 726259,
       "word": "哈尔滨疫情防控",
@@ -353,14 +377,6 @@
       "onboard_time": 1659917070,
       "rank": 8,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 706222,
-      "num": 706222,
-      "word": "小黄豆 落水",
-      "onboard_time": 1659938861,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 705465,
@@ -395,28 +411,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 683523,
-      "num": 683523,
-      "word": "东部战区",
-      "onboard_time": 1659936462,
-      "rank": 25,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 682079,
       "num": 682079,
       "word": "初恋真的会念念不忘吗",
       "onboard_time": 1659887011,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 677546,
-      "num": 677546,
-      "word": "尽量不要晚上去爬泰山",
-      "onboard_time": 1659937902,
-      "rank": 13,
-      "category": "旅游"
     },
     {
       "raw_hot": 664096,
@@ -435,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647731,
+      "num": 647731,
+      "word": "男子下班用微信工作发病认定工伤",
+      "onboard_time": 1659939338,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642415,
+      "num": 642415,
+      "word": "美退役军官称如今解放军脱胎换骨",
+      "onboard_time": 1659935749,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -449,6 +465,14 @@
       "onboard_time": 1659923249,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 617025,
+      "num": 617025,
+      "word": "台军方7日发现66架次解放军军机巡台",
+      "onboard_time": 1659938678,
+      "rank": 27,
+      "category": "军事"
     },
     {
       "raw_hot": 608197,
@@ -473,14 +497,6 @@
       "onboard_time": 1659922471,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 583960,
-      "num": 583960,
-      "word": "美退役军官称如今解放军脱胎换骨",
-      "onboard_time": 1659935749,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 565656,
@@ -520,6 +536,14 @@
       "word": "长春疫情防控",
       "onboard_time": 1659926945,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533648,
+      "num": 533648,
+      "word": "香港宣布缩短酒店隔离时间",
+      "onboard_time": 1659936765,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -585,14 +609,6 @@
       "onboard_time": 1659919113,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 459892,
-      "num": 459892,
-      "word": "香港宣布缩短酒店隔离时间",
-      "onboard_time": 1659936765,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445278,
@@ -667,6 +683,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405037,
+      "num": 405037,
+      "word": "台北故宫辟谣台当局准备转移文物到美日",
+      "onboard_time": 1659939699,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 402830,
+      "num": 402830,
+      "word": "苹果新iPadPro将配备两个四针接口",
+      "onboard_time": 1659936822,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 401945,
       "num": 401945,
       "word": "感觉被健身房的标语内涵了",
@@ -707,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389337,
-      "num": 389337,
-      "word": "苹果新iPadPro将配备两个四针接口",
-      "onboard_time": 1659936822,
-      "rank": 34,
-      "category": "科技"
+      "raw_hot": 392801,
+      "num": 392801,
+      "word": "令人心跳的舞台首轮官宣",
+      "onboard_time": 1659940718,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 384131,
@@ -723,12 +755,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 383466,
-      "num": 383466,
-      "word": "男子下班用微信工作发病认定工伤",
-      "onboard_time": 1659939338,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 379690,
+      "num": 379690,
+      "word": "林彦俊林格报到",
+      "onboard_time": 1659940417,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 378317,
@@ -875,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306462,
-      "num": 306462,
-      "word": "台军方7日发现66架次解放军军机巡台",
-      "onboard_time": 1659938678,
-      "rank": 27,
-      "category": "军事"
+      "raw_hot": 306357,
+      "num": 306357,
+      "word": "虞书欣苍兰诀片场花絮照",
+      "onboard_time": 1659940357,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 305215,
@@ -897,14 +929,6 @@
       "onboard_time": 1659868469,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298094,
-      "num": 298094,
-      "word": "台北故宫辟谣台当局准备转移文物到美日",
-      "onboard_time": 1659939699,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 297556,
@@ -945,6 +969,14 @@
       "onboard_time": 1659923249,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283137,
+      "num": 283137,
+      "word": "汪苏泷说该来的总会来",
+      "onboard_time": 1659940478,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 280031,
@@ -1011,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265192,
+      "num": 265192,
+      "word": "新疆新增无症状69例",
+      "onboard_time": 1659937302,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263784,
       "num": 207349,
       "word": "张凌赫 帅",
@@ -1035,12 +1075,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 261423,
-      "num": 261423,
-      "word": "新疆新增无症状69例",
-      "onboard_time": 1659937302,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 261261,
+      "num": 261261,
+      "word": "为流量擅自把好友隐私写进文章算侵权吗",
+      "onboard_time": 1659940417,
+      "rank": 34,
+      "category": "影视,社会议题"
     },
     {
       "raw_hot": 259611,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221490,
+      "num": 221490,
+      "word": "吉林发现4人核酸阳性",
+      "onboard_time": 1659939520,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219102,
       "num": 219102,
       "word": "不知悔凯",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214911,
+      "num": 214911,
+      "word": "里根号航母转向后继续向南移动",
+      "onboard_time": 1659940297,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 204302,
@@ -1275,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198186,
+      "num": 198186,
+      "word": "中国足协启动对广东省运会决赛调查",
+      "onboard_time": 1659940058,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193725,
       "num": 193725,
       "word": "钱三一求婚林妙妙好感人",
@@ -1291,14 +1355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187175,
-      "num": 187175,
-      "word": "中国足协启动对广东省运会决赛调查",
-      "onboard_time": 1659940058,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181553,
       "num": 151094,
       "word": "马佳蛇舞",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1659914060,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179805,
-      "num": 179805,
-      "word": "吉林发现4人核酸阳性",
-      "onboard_time": 1659939520,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176256,
