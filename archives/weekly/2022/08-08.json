@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1659976340492,
+  "endTime": 1659977721643,
   "band_list": [
     {
       "raw_hot": 3946063,
@@ -1075,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 498236,
+      "num": 498236,
+      "word": "婚车公司拒吃盒饭要求新娘备酒席",
+      "onboard_time": 1659972637,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496473,
       "num": 496473,
       "word": "IP大于原创",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1659964897,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399832,
-      "num": 399832,
-      "word": "婚车公司拒吃盒饭要求新娘备酒席",
-      "onboard_time": 1659972637,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395060,
@@ -1641,6 +1641,14 @@
       "onboard_time": 1659947797,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 335380,
+      "num": 295320,
+      "word": "西安东汉墓葬发现龙纹铺地砖",
+      "onboard_time": 1659974077,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335029,
@@ -2097,14 +2105,6 @@
       "onboard_time": 1659872312,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259453,
-      "num": 259453,
-      "word": "西安东汉墓葬发现龙纹铺地砖",
-      "onboard_time": 1659974077,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258891,
