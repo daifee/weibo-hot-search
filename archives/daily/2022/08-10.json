@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660084687399,
+  "endTime": 1660087314682,
   "band_list": [
     {
       "raw_hot": 1787805,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1441405,
+      "num": 409046,
+      "word": "丈夫不愿生娃妻子起诉离婚",
+      "onboard_time": 1660082654,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107772,
       "num": 1107772,
       "word": "被Wendy笑死",
@@ -33,6 +41,14 @@
       "onboard_time": 1660059275,
       "rank": 4,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 840231,
+      "num": 409039,
+      "word": "7家央企华中总部落户武汉",
+      "onboard_time": 1660083915,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 755287,
@@ -91,12 +107,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 530170,
+      "num": 530170,
+      "word": "8旬老人因一道算术题起诉儿子",
+      "onboard_time": 1660068677,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 515049,
       "num": 515049,
       "word": "王栎鑫眼睛肿成蛤蟆",
       "onboard_time": 1660058435,
       "rank": 11,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 509697,
+      "num": 509697,
+      "word": "95号汽油喜迎8元时代",
+      "onboard_time": 1660075751,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 425024,
@@ -107,12 +139,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 418286,
-      "num": 174430,
-      "word": "丈夫不愿生娃妻子起诉离婚",
-      "onboard_time": 1660082654,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 408646,
+      "num": 408646,
+      "word": "榜一大哥联合网红主播做局",
+      "onboard_time": 1660083014,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 382307,
@@ -131,6 +163,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 335106,
+      "num": 335106,
+      "word": "社区开展好媳妇为婆婆洗脚活动",
+      "onboard_time": 1660049559,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329590,
       "num": 329590,
       "word": "25岁小伙胸部B罩杯被分手了",
@@ -139,11 +179,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306515,
-      "num": 306515,
-      "word": "社区开展好媳妇为婆婆洗脚活动",
-      "onboard_time": 1660049559,
-      "rank": 17,
+      "raw_hot": 320636,
+      "num": 320636,
+      "word": "高温作业工人死在出租屋获赔8.3万",
+      "onboard_time": 1660066458,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284232,
+      "num": 284232,
+      "word": "2岁男童怪异脱发一碰就掉",
+      "onboard_time": 1660085958,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -156,11 +204,19 @@
     },
     {
       "raw_hot": 265735,
-      "num": 231275,
+      "num": 246406,
       "word": "刘涛刘宇宁新剧撑伞氛围感",
       "onboard_time": 1660055562,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248291,
+      "num": 248291,
+      "word": "多地海景房跌成白菜价",
+      "onboard_time": 1660046072,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 246898,
@@ -187,6 +243,22 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 221944,
+      "num": 221944,
+      "word": "热狗说赵文卓招呼一声小狗立马报到",
+      "onboard_time": 1660078092,
+      "rank": 13,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 219676,
+      "num": 219676,
+      "word": "女子微整形失败10个月没敢出门",
+      "onboard_time": 1660042175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217379,
       "num": 217379,
       "word": "南昌每5套房就有1套空着",
@@ -203,22 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213960,
-      "num": 213960,
-      "word": "95号汽油喜迎8元时代",
-      "onboard_time": 1660075751,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 191237,
-      "num": 191237,
-      "word": "高温作业工人死在出租屋获赔8.3万",
-      "onboard_time": 1660066458,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190868,
       "num": 154033,
       "word": "今晚凌不疑一路打到御史台",
@@ -233,6 +289,14 @@
       "onboard_time": 1660057001,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190473,
+      "num": 190473,
+      "word": "东部战区公布运油20空中加油画面",
+      "onboard_time": 1660046731,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 189484,
@@ -259,20 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180512,
-      "num": 180512,
-      "word": "热狗说赵文卓招呼一声小狗立马报到",
-      "onboard_time": 1660078092,
-      "rank": 13,
-      "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 175830,
-      "num": 175830,
-      "word": "8旬老人因一道算术题起诉儿子",
-      "onboard_time": 1660068677,
-      "rank": 40,
-      "category": "社会新闻,教育"
+      "raw_hot": 184213,
+      "num": 184213,
+      "word": "苏炳添是苏轼后代",
+      "onboard_time": 1660086622,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 171825,
@@ -299,12 +355,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 155762,
+      "num": 155762,
+      "word": "男子进店推销无果后跪地不起",
+      "onboard_time": 1660064242,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155759,
       "num": 155759,
       "word": "23岁女生长期可乐当水喝进ICU",
       "onboard_time": 1660032878,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153692,
+      "num": 153692,
+      "word": "性格外向会带来优势吗",
+      "onboard_time": 1660081875,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 151102,
@@ -331,12 +403,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 146406,
-      "num": 146406,
-      "word": "多地海景房跌成白菜价",
-      "onboard_time": 1660046072,
-      "rank": 35,
-      "category": "财经,社会新闻"
+      "raw_hot": 144540,
+      "num": 144540,
+      "word": "美军里根号航母再次掉头行驶",
+      "onboard_time": 1660038033,
+      "rank": 37,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 141961,
@@ -347,44 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141958,
-      "num": 141958,
-      "word": "美军里根号航母再次掉头行驶",
-      "onboard_time": 1660038033,
-      "rank": 37,
-      "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 141798,
-      "num": 141798,
-      "word": "榜一大哥联合网红主播做局",
-      "onboard_time": 1660083014,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137123,
       "num": 137123,
       "word": "有些狗是真没把自己当成狗",
       "onboard_time": 1660048899,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131553,
-      "num": 131553,
-      "word": "男子进店推销无果后跪地不起",
-      "onboard_time": 1660064242,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128725,
-      "num": 128725,
-      "word": "东部战区公布运油20空中加油画面",
-      "onboard_time": 1660046731,
-      "rank": 39,
-      "category": "军事"
     },
     {
       "raw_hot": 126795,
@@ -427,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117753,
-      "num": 117753,
-      "word": "女子微整形失败10个月没敢出门",
-      "onboard_time": 1660042175,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113074,
       "num": 113074,
       "word": "小胖猫真的太可爱了",
       "onboard_time": 1660057659,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112389,
+      "num": 112389,
+      "word": "1600年前的匈奴都城即将重现",
+      "onboard_time": 1660052560,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110892,
@@ -451,11 +491,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109094,
-      "num": 109094,
-      "word": "1600年前的匈奴都城即将重现",
-      "onboard_time": 1660052560,
-      "rank": 46,
+      "raw_hot": 110074,
+      "num": 110074,
+      "word": "男子离家返工父母给带回活鸡鸭羊",
+      "onboard_time": 1660076832,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -467,12 +507,36 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "华晨宇神树 物理降温",
+      "onboard_time": 1660068257,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 102926,
       "num": 102926,
       "word": "LPL",
       "onboard_time": 1660055262,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85596,
+      "num": 85596,
+      "word": "河南南北方温差原来这么大",
+      "onboard_time": 1660086561,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80809,
+      "num": 80809,
+      "word": "袁慎神助攻凌不疑",
+      "onboard_time": 1660080671,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 73820,
@@ -483,38 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71431,
-      "num": 71431,
-      "word": "华晨宇神树 物理降温",
-      "onboard_time": 1660068257,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 65303,
-      "num": 65303,
-      "word": "性格外向会带来优势吗",
-      "onboard_time": 1660081875,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 61275,
-      "num": 61275,
-      "word": "男子离家返工父母给带回活鸡鸭羊",
-      "onboard_time": 1660076832,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60519,
-      "num": 60519,
-      "word": "7家央企华中总部落户武汉",
-      "onboard_time": 1660083915,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 58224,
       "num": 58224,
       "word": "齐涛家暴丁木木好恐怖",
@@ -523,7 +555,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 50458,
+      "raw_hot": 51671,
       "num": 1361404,
       "word": "中国空间站将再添新房间",
       "onboard_time": 1660034915,
@@ -561,14 +593,6 @@
       "onboard_time": 1660075572,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18699,
-      "num": 18699,
-      "word": "袁慎神助攻凌不疑",
-      "onboard_time": 1660080671,
-      "rank": 43,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
