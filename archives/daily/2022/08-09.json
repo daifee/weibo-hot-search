@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660023672468,
+  "endTime": 1660026531862,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -75,12 +75,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1840006,
-      "num": 1840006,
+      "raw_hot": 1911019,
+      "num": 1911019,
       "word": "我国发现多例新型尼帕病毒感染者",
       "onboard_time": 1660019385,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1878752,
+      "num": 1878752,
+      "word": "美海军证实航母舰载战机被大风吹入海里",
+      "onboard_time": 1660024354,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1795188,
+      "num": 1795188,
+      "word": "宋文善去世",
+      "onboard_time": 1660023037,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1772885,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902978,
+      "num": 804711,
+      "word": "西安一整形专家在自己门诊整形身亡",
+      "onboard_time": 1660024833,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 879251,
       "num": 879251,
       "word": "吴磊叫赵露思小孩",
@@ -267,8 +291,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 864807,
-      "num": 864807,
+      "raw_hot": 872198,
+      "num": 872198,
       "word": "东部战区组织联合封控和联合保障行动",
       "onboard_time": 1660020941,
       "rank": 48,
@@ -283,12 +307,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 819844,
+      "num": 819844,
+      "word": "鼓浪屿",
+      "onboard_time": 1660022975,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 802604,
       "num": 2484194,
       "word": "不熬夜才能避免熬夜伤害",
       "onboard_time": 1660013135,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794399,
+      "num": 794399,
+      "word": "韩国电视台买入苍兰诀播出版权",
+      "onboard_time": 1660023335,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 781284,
+      "num": 781284,
+      "word": "买防晒帽千万不要选的颜色",
+      "onboard_time": 1660023815,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 778037,
@@ -307,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689730,
+      "num": 689730,
+      "word": "义乌人均收入赶超北深广",
+      "onboard_time": 1660024474,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 677536,
       "num": 677536,
       "word": "男子身上长结石30多年成珍珠人",
@@ -321,6 +377,14 @@
       "onboard_time": 1660014874,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 661084,
+      "num": 661084,
+      "word": "九寨沟回应大妈光脚丫子下水拍照",
+      "onboard_time": 1660025012,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660187,
@@ -371,6 +435,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 586560,
+      "num": 586560,
+      "word": "玉骨遥",
+      "onboard_time": 1660024592,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 582670,
       "num": 582670,
       "word": "张家界自行车赛跌落骑手已去世",
@@ -393,6 +465,14 @@
       "onboard_time": 1660015174,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 567274,
+      "num": 567274,
+      "word": "女司机侧方停车10分钟致拥堵无人催",
+      "onboard_time": 1660024592,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560111,
@@ -451,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515647,
+      "num": 515647,
+      "word": "首批滞留三亚旅客将乘机返回",
+      "onboard_time": 1660024651,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498652,
       "num": 498652,
       "word": "郸城警方通报男子持刀砍人事件",
       "onboard_time": 1660008157,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 496025,
-      "num": 496025,
-      "word": "韩国电视台买入苍兰诀播出版权",
-      "onboard_time": 1660023335,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 489383,
@@ -496,6 +576,14 @@
       "word": "乐队的夏天3明年见",
       "onboard_time": 1660019863,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 480637,
+      "num": 480637,
+      "word": "张嘉元周柯宇被羊驼喷口水",
+      "onboard_time": 1660025912,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -531,20 +619,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 463455,
+      "num": 463455,
+      "word": "病重姥姥卖鲜玉米和鱼腥草救5岁半患癌外孙",
+      "onboard_time": 1660022975,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463243,
       "num": 463243,
       "word": "北京地铁2号线一乘客翻越进入轨道",
       "onboard_time": 1660020764,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462066,
-      "num": 462066,
-      "word": "宋文善去世",
-      "onboard_time": 1660023037,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 460670,
@@ -577,6 +665,14 @@
       "onboard_time": 1660015477,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 444404,
+      "num": 444404,
+      "word": "邓紫棋新歌震撼分红海场景",
+      "onboard_time": 1660024715,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 440407,
@@ -673,6 +769,14 @@
       "onboard_time": 1659956434,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422549,
+      "num": 422549,
+      "word": "廊坊全面取消限购及限售",
+      "onboard_time": 1660019863,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 405001,
@@ -777,14 +881,6 @@
       "onboard_time": 1659972520,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 359672,
-      "num": 359672,
-      "word": "廊坊全面取消限购及限售",
-      "onboard_time": 1660019863,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 356431,
@@ -1043,20 +1139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283733,
+      "num": 283733,
+      "word": "快乐再出发",
+      "onboard_time": 1660021721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277073,
       "num": 277073,
       "word": "北京新增9例境外输入确诊",
       "onboard_time": 1660007376,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271068,
-      "num": 258011,
-      "word": "快乐再出发",
-      "onboard_time": 1660021721,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 268299,
@@ -1083,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257355,
+      "num": 257355,
+      "word": "女子结账零头被四舍五入举报商家",
+      "onboard_time": 1660025795,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "驾校教练专拍女学员大腿称因有流量",
       "onboard_time": 1659989413,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249137,
-      "num": 249137,
-      "word": "鼓浪屿",
-      "onboard_time": 1660022975,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 249058,
@@ -1113,14 +1209,6 @@
       "onboard_time": 1660022076,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247852,
-      "num": 247852,
-      "word": "病重姥姥卖鲜玉米和鱼腥草救5岁半患癌外孙",
-      "onboard_time": 1660022975,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245875,
@@ -1155,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240350,
+      "num": 240350,
+      "word": "解放军继续实战化演训",
+      "onboard_time": 1660025972,
+      "rank": 41,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 233019,
       "num": 233019,
       "word": "女子停车被挡指挥同伴强行撞开",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1660020045,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223808,
+      "num": 223808,
+      "word": "戴燕妮说没舞台我自己找",
+      "onboard_time": 1660024055,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 223261,
@@ -1275,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156103,
+      "num": 156103,
+      "word": "71岁越野大爷2年内6次酒驾",
+      "onboard_time": 1660026391,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153023,
       "num": 153023,
       "word": "第7号台风生成",
@@ -1305,6 +1417,14 @@
       "onboard_time": 1659970177,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143733,
+      "num": 143733,
+      "word": "古巴石油储备基地第三个储油罐爆炸",
+      "onboard_time": 1660026513,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 136770,
