@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660081019817,
+  "endTime": 1660083685227,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -4163,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172369,
+      "num": 172369,
+      "word": "热狗说赵文卓招呼一声小狗立马报到",
+      "onboard_time": 1660078092,
+      "rank": 13,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 172132,
       "num": 172132,
       "word": "吴承恩缉妖录人物剪影介绍",
@@ -4507,6 +4515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 129444,
+      "num": 129444,
+      "word": "8旬老人因一道算术题起诉儿子",
+      "onboard_time": 1660068677,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 128725,
       "num": 128725,
       "word": "东部战区公布运油20空中加油画面",
@@ -4569,14 +4585,6 @@
       "onboard_time": 1659892758,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122586,
-      "num": 90840,
-      "word": "8旬老人因一道算术题起诉儿子",
-      "onboard_time": 1660068677,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 122411,
@@ -4715,6 +4723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98175,
+      "num": 98175,
+      "word": "丈夫不愿生娃妻子起诉离婚",
+      "onboard_time": 1660082654,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94770,
+      "num": 94770,
+      "word": "嫌犯到法院旁听自己案件被抓",
+      "onboard_time": 1660079772,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86320,
       "num": 86320,
       "word": "林妙妙钱三一的同居生活",
@@ -4739,6 +4763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 69875,
+      "num": 69875,
+      "word": "榜一大哥联合网红主播做局",
+      "onboard_time": 1660083014,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60877,
       "num": 60877,
       "word": "西汉姆联vs曼城",
@@ -4747,12 +4779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55186,
-      "num": 55186,
-      "word": "热狗说赵文卓招呼一声小狗立马报到",
-      "onboard_time": 1660078092,
-      "rank": 13,
-      "category": "综艺,幽默"
+      "raw_hot": 54776,
+      "num": 54776,
+      "word": "男子离家返工父母给带回活鸡鸭羊",
+      "onboard_time": 1660076832,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52990,
@@ -4771,12 +4803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50237,
+      "num": 50237,
+      "word": "齐涛家暴丁木木好恐怖",
+      "onboard_time": 1660076951,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 46058,
       "num": 26403,
       "word": "Billboard首封预告是王嘉尔吧",
       "onboard_time": 1660073773,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 44692,
+      "num": 44692,
+      "word": "性格外向会带来优势吗",
+      "onboard_time": 1660081875,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 44037,
@@ -4811,14 +4859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29610,
-      "num": 29610,
-      "word": "男子离家返工父母给带回活鸡鸭羊",
-      "onboard_time": 1660076832,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28294,
       "num": 28294,
       "word": "宋佳齐溪黄轩街头号召路人看电影",
@@ -4833,14 +4873,6 @@
       "onboard_time": 1659934858,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27437,
-      "num": 27437,
-      "word": "齐涛家暴丁木木好恐怖",
-      "onboard_time": 1660076951,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 26849,
@@ -4889,14 +4921,6 @@
       "onboard_time": 1659900013,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18405,
-      "num": 18405,
-      "word": "嫌犯到法院旁听自己案件被抓",
-      "onboard_time": 1660079772,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18103,
