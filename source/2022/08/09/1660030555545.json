@@ -1,0 +1,410 @@
+{
+  "runTime": 1660030555545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2043939,
+        "num": 2043939,
+        "word": "西安一整形专家在自己门诊整形身亡",
+        "onboard_time": 1660024833,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1617872,
+        "num": 1617872,
+        "word": "美海军证实航母舰载战机被大风吹入海里",
+        "onboard_time": 1660024354,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 391329,
+        "num": 1511669,
+        "word": "不熬夜才能避免熬夜伤害",
+        "onboard_time": 1660013135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412771,
+        "num": 1412771,
+        "word": "九寨沟回应大妈光脚丫子下水拍照",
+        "onboard_time": 1660025012,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146466,
+        "num": 1146466,
+        "word": "于月仙车祸肇事人被判1年",
+        "onboard_time": 1660017456,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 935515,
+        "num": 935515,
+        "word": "芒果台90后CEO的颜值",
+        "onboard_time": 1660027473,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 928090,
+        "num": 928090,
+        "word": "解放军继续实战化演训",
+        "onboard_time": 1660025972,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 827934,
+        "num": 827934,
+        "word": "买防晒帽千万不要选的颜色",
+        "onboard_time": 1660023815,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 793945,
+        "num": 793945,
+        "word": "首批滞留三亚旅客将乘机返回",
+        "onboard_time": 1660024651,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761854,
+        "num": 761854,
+        "word": "女子结账零头被四舍五入举报商家",
+        "onboard_time": 1660025795,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3188620,
+        "num": 736054,
+        "word": "25岁小伙胸部B罩杯被分手了",
+        "onboard_time": 1660028496,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681538,
+        "num": 681538,
+        "word": "我国发现多例新型尼帕病毒感染者",
+        "onboard_time": 1660019385,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680491,
+        "num": 680491,
+        "word": "虞书欣王鹤棣换身让秦岚混乱了",
+        "onboard_time": 1660029515,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652786,
+        "num": 652786,
+        "word": "Billboard正式官宣进入中国",
+        "onboard_time": 1660017758,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 612451,
+        "num": 612451,
+        "word": "女司机侧方停车10分钟致拥堵无人催",
+        "onboard_time": 1660024592,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577627,
+        "num": 577627,
+        "word": "宋文善去世",
+        "onboard_time": 1660023037,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559218,
+        "num": 559218,
+        "word": "王一博与乐华续约至2026年",
+        "onboard_time": 1660017217,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444233,
+        "num": 444233,
+        "word": "义乌人均收入赶超北深广",
+        "onboard_time": 1660024474,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 431199,
+        "num": 431199,
+        "word": "榜一大哥狂刷20万分手索要遭拒",
+        "onboard_time": 1660017517,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418061,
+        "num": 418061,
+        "word": "古巴石油储备基地第三个储油罐爆炸",
+        "onboard_time": 1660026513,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 552076,
+        "num": 413453,
+        "word": "张一山用了12年才和刘星说再见",
+        "onboard_time": 1660027654,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522186,
+        "num": 410350,
+        "word": "杨洋大理随拍",
+        "onboard_time": 1660030356,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490975,
+        "num": 409758,
+        "word": "玉骨遥",
+        "onboard_time": 1660024592,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406583,
+        "num": 406583,
+        "word": "iPhone电量百分比回来了",
+        "onboard_time": 1660002685,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 381836,
+        "num": 381836,
+        "word": "不要再翘二郎腿了",
+        "onboard_time": 1660018721,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358778,
+        "num": 358778,
+        "word": "感染尼帕病毒后致死率高达75%",
+        "onboard_time": 1660027175,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349265,
+        "num": 349265,
+        "word": "一名中国人因韩国首都圈暴雨遇难",
+        "onboard_time": 1660018481,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344393,
+        "num": 344393,
+        "word": "大学生暑假放羊自己和羊都走失",
+        "onboard_time": 1660019203,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328169,
+        "num": 328169,
+        "word": "谷歌数据中心发生爆炸",
+        "onboard_time": 1660028132,
+        "rank": 28,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 326267,
+        "num": 326267,
+        "word": "男子买秋天第一桶奶茶不慎被撞碎",
+        "onboard_time": 1660029694,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412686,
+        "num": 324659,
+        "word": "王乐天涉嫌性骚扰女性",
+        "onboard_time": 1660011395,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317288,
+        "num": 317288,
+        "word": "济南最后一位被掳赴日劳工离世",
+        "onboard_time": 1660027054,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316997,
+        "num": 316997,
+        "word": "拉萨此次疫情为奥密克戎BA.2.76",
+        "onboard_time": 1660029036,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313060,
+        "num": 313060,
+        "word": "鼓浪屿",
+        "onboard_time": 1660022975,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 297836,
+        "num": 297836,
+        "word": "妈妈患癌后女儿从倒数考到全校第4",
+        "onboard_time": 1660018121,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 294575,
+        "num": 294575,
+        "word": "快乐再出发",
+        "onboard_time": 1660021721,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285880,
+        "num": 285880,
+        "word": "来自电影的一句告白",
+        "onboard_time": 1660029515,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267705,
+        "num": 267705,
+        "word": "韩国电视台买入苍兰诀播出版权",
+        "onboard_time": 1660023335,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239759,
+        "num": 239759,
+        "word": "病重姥姥卖鲜玉米和鱼腥草救5岁半患癌外孙",
+        "onboard_time": 1660022975,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225170,
+        "num": 225170,
+        "word": "王者荣耀 大乔",
+        "onboard_time": 1660008271,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265282,
+        "num": 223941,
+        "word": "杨紫画的唐周",
+        "onboard_time": 1660028132,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234466,
+        "num": 220151,
+        "word": "杨幂密逃4校服剧照",
+        "onboard_time": 1660015477,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213838,
+        "num": 213838,
+        "word": "东部战区组织联合封控和联合保障行动",
+        "onboard_time": 1660020941,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 204268,
+        "num": 204268,
+        "word": "厦门新增3例确诊病例",
+        "onboard_time": 1660030356,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190664,
+        "num": 190664,
+        "word": "真情实感玩动森的妈妈",
+        "onboard_time": 1660028556,
+        "rank": 44,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 172807,
+        "num": 172807,
+        "word": "北京地铁2号线一乘客翻越进入轨道",
+        "onboard_time": 1660020764,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170451,
+        "num": 170451,
+        "word": "深圳特产是海南椰子鸡",
+        "onboard_time": 1660020103,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 149079,
+        "num": 149079,
+        "word": "黑莲花播放破七千万",
+        "onboard_time": 1660030235,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145888,
+        "num": 145888,
+        "word": "私家车形成三角阵保护车流中的男孩",
+        "onboard_time": 1660019023,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "廊坊全面取消限购及限售",
+        "onboard_time": 1660019863,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运史上首套动态体育图标发布#"
+    }
+  }
+}

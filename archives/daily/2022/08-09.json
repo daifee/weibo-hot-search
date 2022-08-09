@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660029594419,
+  "endTime": 1660030555545,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -17,6 +17,14 @@
       "onboard_time": 1660011395,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3188620,
+      "num": 858900,
+      "word": "25岁小伙胸部B罩杯被分手了",
+      "onboard_time": 1660028496,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3155571,
@@ -112,14 +120,6 @@
       "word": "每5颗西梅有3颗来自新疆伽师",
       "onboard_time": 1660013553,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1688391,
-      "num": 858900,
-      "word": "25岁小伙胸部B罩杯被分手了",
-      "onboard_time": 1660028496,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -299,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 922305,
-      "num": 922305,
+      "raw_hot": 935515,
+      "num": 935515,
       "word": "芒果台90后CEO的颜值",
       "onboard_time": 1660027473,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 928090,
+      "num": 928090,
+      "word": "解放军继续实战化演训",
+      "onboard_time": 1660025972,
+      "rank": 41,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 919610,
@@ -379,19 +387,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 775194,
-      "num": 775194,
-      "word": "解放军继续实战化演训",
-      "onboard_time": 1660025972,
-      "rank": 41,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 763175,
       "num": 763175,
       "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
       "onboard_time": 1659983234,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761854,
+      "num": 761854,
+      "word": "女子结账零头被四舍五入举报商家",
+      "onboard_time": 1660025795,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -411,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680467,
-      "num": 680467,
-      "word": "女子结账零头被四舍五入举报商家",
-      "onboard_time": 1660025795,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 680491,
+      "num": 680491,
+      "word": "虞书欣王鹤棣换身让秦岚混乱了",
+      "onboard_time": 1660029515,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 677536,
@@ -531,7 +539,7 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 531574,
+      "raw_hot": 552076,
       "num": 531574,
       "word": "张一山用了12年才和刘星说再见",
       "onboard_time": 1660027654,
@@ -561,6 +569,14 @@
       "onboard_time": 1660017640,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 522186,
+      "num": 410350,
+      "word": "杨洋大理随拍",
+      "onboard_time": 1660030356,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 521611,
@@ -819,6 +835,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 418061,
+      "num": 418061,
+      "word": "古巴石油储备基地第三个储油罐爆炸",
+      "onboard_time": 1660026513,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 405001,
       "num": 405001,
       "word": "台北70岁山东饺子馆老板发声",
@@ -880,14 +904,6 @@
       "word": "来自电影的一句告白",
       "onboard_time": 1660029515,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 373561,
-      "num": 326499,
-      "word": "虞书欣王鹤棣换身让秦岚混乱了",
-      "onboard_time": 1660029515,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -953,14 +969,6 @@
       "onboard_time": 1659966462,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 355860,
-      "num": 355860,
-      "word": "古巴石油储备基地第三个储油罐爆炸",
-      "onboard_time": 1660026513,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 353171,
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326267,
+      "num": 326267,
+      "word": "男子买秋天第一桶奶茶不慎被撞碎",
+      "onboard_time": 1660029694,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321827,
       "num": 321827,
       "word": "五哈第三季拟邀嘉宾",
@@ -1096,6 +1112,22 @@
       "word": "直击韩国暴雨一线",
       "onboard_time": 1660012414,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317288,
+      "num": 317288,
+      "word": "济南最后一位被掳赴日劳工离世",
+      "onboard_time": 1660027054,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316997,
+      "num": 316997,
+      "word": "拉萨此次疫情为奥密克戎BA.2.76",
+      "onboard_time": 1660029036,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1232,14 +1264,6 @@
       "word": "北京新增9例境外输入确诊",
       "onboard_time": 1660007376,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272639,
-      "num": 272639,
-      "word": "济南最后一位被掳赴日劳工离世",
-      "onboard_time": 1660027054,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204268,
+      "num": 204268,
+      "word": "厦门新增3例确诊病例",
+      "onboard_time": 1660030356,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202745,
       "num": 202745,
       "word": "王曼昱 逛街",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1660002685,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 190731,
-      "num": 190731,
-      "word": "拉萨此次疫情为奥密克戎BA.2.76",
-      "onboard_time": 1660029036,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187045,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1659975930,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149079,
+      "num": 149079,
+      "word": "黑莲花播放破七千万",
+      "onboard_time": 1660030235,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 144561,
