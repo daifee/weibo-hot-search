@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660064038120,
+  "endTime": 1660065795488,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1659919232,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 695976,
+      "num": 695976,
+      "word": "00后女孩给离世父母发消息分享生活",
+      "onboard_time": 1660062568,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690713,
@@ -2625,14 +2633,6 @@
       "onboard_time": 1660015174,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353033,
-      "num": 353033,
-      "word": "00后女孩给离世父母发消息分享生活",
-      "onboard_time": 1660062568,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347989,
@@ -4499,12 +4499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127060,
+      "num": 127060,
+      "word": "男子进店推销无果后跪地不起",
+      "onboard_time": 1660064242,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127021,
       "num": 127021,
       "word": "好心疼冉莹颖",
       "onboard_time": 1659893477,
       "rank": 42,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 125859,
+      "num": 110104,
+      "word": "yolo",
+      "onboard_time": 1660049253,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 125106,
@@ -4563,6 +4579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120059,
+      "num": 109787,
+      "word": "苍兰诀吻戏好多",
+      "onboard_time": 1660064660,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117955,
       "num": 117955,
       "word": "鼻炎患者有多难",
@@ -4585,6 +4609,14 @@
       "onboard_time": 1660057659,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112563,
+      "num": 112563,
+      "word": "女子微整形失败10个月没敢出门",
+      "onboard_time": 1660042175,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111818,
@@ -4627,14 +4659,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 104710,
-      "num": 104710,
-      "word": "女子微整形失败10个月没敢出门",
-      "onboard_time": 1660042175,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104239,
       "num": 104239,
       "word": "秋天的第一份祝福",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1659997754,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73820,
+      "num": 73820,
+      "word": "厦门重点人群今天开展一次核酸检测",
+      "onboard_time": 1660065559,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60877,
