@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660076605908,
+  "endTime": 1660077563355,
   "band_list": [
     {
       "raw_hot": 1787805,
@@ -467,6 +467,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 45065,
+      "num": 39832,
+      "word": "95号汽油喜迎8元时代",
+      "onboard_time": 1660075751,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 44037,
       "num": 43321,
       "word": "乃万喜提驾照",
@@ -483,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 20017,
+      "num": 20017,
+      "word": "齐涛家暴丁木木好恐怖",
+      "onboard_time": 1660076951,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19637,
       "num": 19080,
       "word": "李光洁迷失在400多道菜的菜单里",
@@ -491,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15773,
-      "num": 15773,
-      "word": "95号汽油喜迎8元时代",
-      "onboard_time": 1660075751,
+      "raw_hot": 16512,
+      "num": 16512,
+      "word": "男子离家返工父母给带回活鸡鸭羊",
+      "onboard_time": 1660076832,
       "rank": 48,
-      "category": "财经"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
