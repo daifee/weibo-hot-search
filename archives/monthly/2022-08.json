@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660022823270,
+  "endTime": 1660023672468,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2483,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840006,
+      "num": 1840006,
+      "word": "我国发现多例新型尼帕病毒感染者",
+      "onboard_time": 1660019385,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1836283,
       "num": 1836283,
       "word": "时刻准备战斗",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1659786751,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1655407,
+      "num": 1655407,
+      "word": "拜登对解放军军演感到担忧",
+      "onboard_time": 1660021422,
+      "rank": 12,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1653064,
@@ -3481,14 +3497,6 @@
       "onboard_time": 1659921927,
       "rank": 3,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1392071,
-      "num": 1392071,
-      "word": "我国发现多例新型尼帕病毒感染者",
-      "onboard_time": 1660019385,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1390947,
@@ -4339,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1142094,
+      "num": 1142094,
+      "word": "不要再翘二郎腿了",
+      "onboard_time": 1660018721,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1141329,
       "num": 1141329,
       "word": "杨幂密逃4校服剧照",
@@ -4841,14 +4857,6 @@
       "onboard_time": 1659917910,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1049571,
-      "num": 1049571,
-      "word": "不要再翘二郎腿了",
-      "onboard_time": 1660018721,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 1046433,
@@ -5387,6 +5395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 944439,
+      "num": 944439,
+      "word": "大学生暑假放羊自己和羊都走失",
+      "onboard_time": 1660019203,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941019,
       "num": 941019,
       "word": "Angelababy赖冠霖玩游戏互相套路",
@@ -5755,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864807,
+      "num": 864807,
+      "word": "东部战区组织联合封控和联合保障行动",
+      "onboard_time": 1660020941,
+      "rank": 48,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 864168,
       "num": 864168,
       "word": "警方回应一男童被后妈虐待致死",
@@ -5969,14 +5993,6 @@
       "onboard_time": 1659353372,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 834236,
-      "num": 834236,
-      "word": "大学生暑假放羊自己和羊都走失",
-      "onboard_time": 1660019203,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 833976,
@@ -6553,14 +6569,6 @@
       "onboard_time": 1659513412,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756290,
-      "num": 756290,
-      "word": "拜登对解放军军演感到担忧",
-      "onboard_time": 1660021422,
-      "rank": 12,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 753967,
@@ -7321,14 +7329,6 @@
       "onboard_time": 1659682838,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 682545,
-      "num": 682545,
-      "word": "东部战区组织联合封控和联合保障行动",
-      "onboard_time": 1660020941,
-      "rank": 48,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 682079,
@@ -8379,6 +8379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 590187,
+      "num": 590187,
+      "word": "深圳特产是海南椰子鸡",
+      "onboard_time": 1660020103,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 588897,
       "num": 588897,
       "word": "TFBOYS成年后第一个合体舞台",
@@ -9161,14 +9169,6 @@
       "onboard_time": 1659921390,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538509,
-      "num": 538509,
-      "word": "深圳特产是海南椰子鸡",
-      "onboard_time": 1660020103,
-      "rank": 25,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 538180,
@@ -9993,6 +9993,14 @@
       "onboard_time": 1659357993,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 496025,
+      "num": 496025,
+      "word": "韩国电视台买入苍兰诀播出版权",
+      "onboard_time": 1660023335,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 495839,
@@ -10827,12 +10835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463243,
+      "num": 463243,
+      "word": "北京地铁2号线一乘客翻越进入轨道",
+      "onboard_time": 1660020764,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462536,
       "num": 462536,
       "word": "油价或现四连跌",
       "onboard_time": 1659919113,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 462066,
+      "num": 462066,
+      "word": "宋文善去世",
+      "onboard_time": 1660023037,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 461958,
@@ -11251,14 +11275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 445192,
-      "num": 445192,
-      "word": "北京地铁2号线一乘客翻越进入轨道",
-      "onboard_time": 1660020764,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445055,
       "num": 445055,
       "word": "黄铉辰撒娇",
@@ -11371,12 +11387,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440407,
+      "num": 440407,
+      "word": "厦门新增三例确诊病例",
+      "onboard_time": 1660021721,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440377,
       "num": 440377,
       "word": "丁程鑫演回村戏有那味儿了",
       "onboard_time": 1659594157,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440360,
+      "num": 440360,
+      "word": "私家车形成三角阵保护车流中的男孩",
+      "onboard_time": 1660019023,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 440325,
@@ -11499,14 +11531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436433,
-      "num": 436433,
-      "word": "私家车形成三角阵保护车流中的男孩",
-      "onboard_time": 1660019023,
-      "rank": 23,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 436000,
       "num": 436000,
       "word": "考驾照真的太难了",
@@ -11545,6 +11569,14 @@
       "onboard_time": 1659349289,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433742,
+      "num": 433742,
+      "word": "阿Sa分享成团幕后vlog",
+      "onboard_time": 1660023396,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433668,
@@ -13747,6 +13779,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 359672,
+      "num": 359672,
+      "word": "廊坊全面取消限购及限售",
+      "onboard_time": 1660019863,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 359106,
       "num": 359106,
       "word": "河南县域发布",
@@ -14339,6 +14379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340885,
+      "num": 279171,
+      "word": "INTO1找徽章看起来不太聪明",
+      "onboard_time": 1660023275,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340875,
       "num": 340875,
       "word": "实弹射击严正震慑美台勾连",
@@ -14585,14 +14633,6 @@
       "onboard_time": 1659390672,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332736,
-      "num": 332736,
-      "word": "厦门新增三例确诊病例",
-      "onboard_time": 1660021721,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332709,
@@ -16523,14 +16563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274427,
-      "num": 274427,
-      "word": "廊坊全面取消限购及限售",
-      "onboard_time": 1660019863,
-      "rank": 44,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 274303,
       "num": 274303,
       "word": "没人可以拒绝狗狗的贴贴",
@@ -16633,6 +16665,14 @@
       "onboard_time": 1659965441,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271068,
+      "num": 258011,
+      "word": "快乐再出发",
+      "onboard_time": 1660021721,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 270657,
@@ -17099,14 +17139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258011,
-      "num": 258011,
-      "word": "快乐再出发",
-      "onboard_time": 1660021721,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257966,
       "num": 257966,
       "word": "人工智能是否会威胁到人类",
@@ -17355,6 +17387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249137,
+      "num": 249137,
+      "word": "鼓浪屿",
+      "onboard_time": 1660022975,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 248871,
       "num": 248871,
       "word": "第五人格",
@@ -17401,6 +17441,14 @@
       "onboard_time": 1659871771,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247852,
+      "num": 247852,
+      "word": "病重姥姥卖鲜玉米和鱼腥草救5岁半患癌外孙",
+      "onboard_time": 1660022975,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247099,
@@ -17553,6 +17601,14 @@
       "onboard_time": 1659948279,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244371,
+      "num": 244371,
+      "word": "贵州惊现新天鹅堡",
+      "onboard_time": 1660022434,
+      "rank": 42,
+      "category": "旅游,其它"
     },
     {
       "raw_hot": 244013,
@@ -18593,14 +18649,6 @@
       "onboard_time": 1659525703,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214044,
-      "num": 214044,
-      "word": "贵州惊现新天鹅堡",
-      "onboard_time": 1660022434,
-      "rank": 42,
-      "category": "旅游,其它"
     },
     {
       "raw_hot": 213998,

@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660022823270,
+  "endTime": 1660023672468,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -75,12 +75,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1840006,
+      "num": 1840006,
+      "word": "我国发现多例新型尼帕病毒感染者",
+      "onboard_time": 1660019385,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1772885,
       "num": 1772885,
       "word": "每5颗西梅有3颗来自新疆伽师",
       "onboard_time": 1660013553,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1655407,
+      "num": 1655407,
+      "word": "拜登对解放军军演感到担忧",
+      "onboard_time": 1660021422,
+      "rank": 12,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1546941,
@@ -123,14 +139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1392071,
-      "num": 1392071,
-      "word": "我国发现多例新型尼帕病毒感染者",
-      "onboard_time": 1660019385,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1254187,
       "num": 1254187,
       "word": "王者荣耀 大乔",
@@ -153,6 +161,14 @@
       "onboard_time": 1660008697,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1142094,
+      "num": 1142094,
+      "word": "不要再翘二郎腿了",
+      "onboard_time": 1660018721,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 1141329,
@@ -211,14 +227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1049571,
-      "num": 1049571,
-      "word": "不要再翘二郎腿了",
-      "onboard_time": 1660018721,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1032047,
       "num": 514201,
       "word": "2岁女童从22楼装修工地坠落幸存",
@@ -233,6 +241,14 @@
       "onboard_time": 1659969100,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 944439,
+      "num": 944439,
+      "word": "大学生暑假放羊自己和羊都走失",
+      "onboard_time": 1660019203,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879251,
@@ -251,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 864807,
+      "num": 864807,
+      "word": "东部战区组织联合封控和联合保障行动",
+      "onboard_time": 1660020941,
+      "rank": 48,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 834809,
       "num": 834809,
       "word": "男生加了微信不说话怎么办",
       "onboard_time": 1659960394,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 834236,
-      "num": 834236,
-      "word": "大学生暑假放羊自己和羊都走失",
-      "onboard_time": 1660019203,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 802604,
@@ -289,22 +305,6 @@
       "onboard_time": 1659983234,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756290,
-      "num": 756290,
-      "word": "拜登对解放军军演感到担忧",
-      "onboard_time": 1660021422,
-      "rank": 12,
-      "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 682545,
-      "num": 682545,
-      "word": "东部战区组织联合封控和联合保障行动",
-      "onboard_time": 1660020941,
-      "rank": 48,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 677536,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590187,
+      "num": 590187,
+      "word": "深圳特产是海南椰子鸡",
+      "onboard_time": 1660020103,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 582670,
       "num": 582670,
       "word": "张家界自行车赛跌落骑手已去世",
@@ -401,14 +409,6 @@
       "onboard_time": 1660011754,
       "rank": 14,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 538509,
-      "num": 538509,
-      "word": "深圳特产是海南椰子鸡",
-      "onboard_time": 1660020103,
-      "rank": 25,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 530596,
@@ -457,6 +457,14 @@
       "onboard_time": 1660008157,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 496025,
+      "num": 496025,
+      "word": "韩国电视台买入苍兰诀播出版权",
+      "onboard_time": 1660023335,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 489383,
@@ -523,6 +531,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 463243,
+      "num": 463243,
+      "word": "北京地铁2号线一乘客翻越进入轨道",
+      "onboard_time": 1660020764,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462066,
+      "num": 462066,
+      "word": "宋文善去世",
+      "onboard_time": 1660023037,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460670,
       "num": 460670,
       "word": "东部战区",
@@ -555,12 +579,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 445192,
-      "num": 445192,
-      "word": "北京地铁2号线一乘客翻越进入轨道",
-      "onboard_time": 1660020764,
-      "rank": 42,
+      "raw_hot": 440407,
+      "num": 440407,
+      "word": "厦门新增三例确诊病例",
+      "onboard_time": 1660021721,
+      "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440360,
+      "num": 440360,
+      "word": "私家车形成三角阵保护车流中的男孩",
+      "onboard_time": 1660019023,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 440325,
@@ -579,20 +611,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 436433,
-      "num": 436433,
-      "word": "私家车形成三角阵保护车流中的男孩",
-      "onboard_time": 1660019023,
-      "rank": 23,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 435888,
       "num": 1552996,
       "word": "一条毛巾缓解腰酸背痛",
       "onboard_time": 1660001786,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433742,
+      "num": 433742,
+      "word": "阿Sa分享成团幕后vlog",
+      "onboard_time": 1660023396,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432658,
@@ -747,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359672,
+      "num": 359672,
+      "word": "廊坊全面取消限购及限售",
+      "onboard_time": 1660019863,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 356431,
       "num": 356431,
       "word": "入秋最积极的城市",
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340885,
+      "num": 279171,
+      "word": "INTO1找徽章看起来不太聪明",
+      "onboard_time": 1660023275,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340632,
       "num": 340632,
       "word": "追着彩虹的我们定档0816",
@@ -809,14 +857,6 @@
       "onboard_time": 1660022138,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332736,
-      "num": 332736,
-      "word": "厦门新增三例确诊病例",
-      "onboard_time": 1660021721,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331762,
@@ -1011,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274427,
-      "num": 274427,
-      "word": "廊坊全面取消限购及限售",
-      "onboard_time": 1660019863,
-      "rank": 44,
-      "category": "财经,社会新闻"
+      "raw_hot": 271068,
+      "num": 258011,
+      "word": "快乐再出发",
+      "onboard_time": 1660021721,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 268299,
@@ -1043,20 +1083,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258011,
-      "num": 258011,
-      "word": "快乐再出发",
-      "onboard_time": 1660021721,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "驾校教练专拍女学员大腿称因有流量",
       "onboard_time": 1659989413,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249137,
+      "num": 249137,
+      "word": "鼓浪屿",
+      "onboard_time": 1660022975,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 249058,
@@ -1075,12 +1115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247852,
+      "num": 247852,
+      "word": "病重姥姥卖鲜玉米和鱼腥草救5岁半患癌外孙",
+      "onboard_time": 1660022975,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245875,
       "num": 245875,
       "word": "厦门思明部分场馆闭馆",
       "onboard_time": 1660016797,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244371,
+      "num": 244371,
+      "word": "贵州惊现新天鹅堡",
+      "onboard_time": 1660022434,
+      "rank": 42,
+      "category": "旅游,其它"
     },
     {
       "raw_hot": 244013,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1660003051,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214044,
-      "num": 214044,
-      "word": "贵州惊现新天鹅堡",
-      "onboard_time": 1660022434,
-      "rank": 42,
-      "category": "旅游,其它"
     },
     {
       "raw_hot": 205839,
