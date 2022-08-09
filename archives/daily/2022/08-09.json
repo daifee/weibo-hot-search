@@ -1,10 +1,10 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660018405426,
+  "endTime": 1660021306063,
   "band_list": [
     {
-      "raw_hot": 4636595,
-      "num": 4636595,
+      "raw_hot": 9075668,
+      "num": 9075668,
       "word": "于月仙车祸肇事人被判1年",
       "onboard_time": 1660017456,
       "rank": 11,
@@ -19,12 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2965822,
+      "raw_hot": 3155571,
       "num": 862968,
       "word": "王一博与乐华续约至2026年",
       "onboard_time": 1660017217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2851710,
+      "num": 2851710,
+      "word": "Billboard正式官宣进入中国",
+      "onboard_time": 1660017758,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 2498842,
@@ -40,6 +48,14 @@
       "word": "韩国暴雨",
       "onboard_time": 1659971320,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2263823,
+      "num": 2263823,
+      "word": "一名中国人因韩国首都圈暴雨遇难",
+      "onboard_time": 1660018481,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -99,6 +115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1382027,
+      "num": 1382027,
+      "word": "妈妈患癌后女儿从倒数考到全校第4",
+      "onboard_time": 1660018121,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1254187,
       "num": 1254187,
       "word": "王者荣耀 大乔",
@@ -155,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058554,
+      "num": 1058554,
+      "word": "婚车司机应该吃盒饭还是酒席",
+      "onboard_time": 1660013854,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056169,
       "num": 473212,
       "word": "上半年韩星收入TOP10",
@@ -187,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 928853,
-      "num": 928853,
-      "word": "Billboard正式官宣进入中国",
-      "onboard_time": 1660017758,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 879251,
       "num": 879251,
       "word": "吴磊叫赵露思小孩",
@@ -211,12 +235,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 837280,
+      "num": 837280,
+      "word": "不要再翘二郎腿了",
+      "onboard_time": 1660018721,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 834809,
       "num": 834809,
       "word": "男生加了微信不说话怎么办",
       "onboard_time": 1659960394,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 802604,
+      "num": 2484194,
+      "word": "不熬夜才能避免熬夜伤害",
+      "onboard_time": 1660013135,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778037,
@@ -235,19 +275,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758760,
-      "num": 758760,
-      "word": "婚车司机应该吃盒饭还是酒席",
-      "onboard_time": 1660013854,
-      "rank": 17,
+      "raw_hot": 741546,
+      "num": 741546,
+      "word": "大学生暑假放羊自己和羊都走失",
+      "onboard_time": 1660019203,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741389,
-      "num": 1613641,
-      "word": "不熬夜才能避免熬夜伤害",
-      "onboard_time": 1660013135,
-      "rank": 42,
+      "raw_hot": 687537,
+      "num": 687537,
+      "word": "我国发现多例新型尼帕病毒感染者",
+      "onboard_time": 1660019385,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -275,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656190,
+      "num": 656190,
+      "word": "怎样看待开车不如骑两轮",
+      "onboard_time": 1660016257,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 628155,
       "num": 628155,
       "word": "阳光玫瑰价格大跳水",
       "onboard_time": 1659965317,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608362,
-      "num": 608362,
-      "word": "怎样看待开车不如骑两轮",
-      "onboard_time": 1660016257,
-      "rank": 18,
-      "category": "社会议题"
     },
     {
       "raw_hot": 600919,
@@ -371,6 +411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521611,
+      "num": 490588,
+      "word": "蔡徐坤新歌hugme线下公播活动",
+      "onboard_time": 1660019925,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 506655,
+      "num": 506655,
+      "word": "榜一大哥狂刷20万分手索要遭拒",
+      "onboard_time": 1660017517,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498652,
       "num": 498652,
       "word": "郸城警方通报男子持刀砍人事件",
@@ -401,6 +457,14 @@
       "onboard_time": 1659995653,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481160,
+      "num": 481160,
+      "word": "乐队的夏天3明年见",
+      "onboard_time": 1660019863,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 472279,
@@ -467,12 +531,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 440325,
+      "num": 341026,
+      "word": "邓紫棋新歌Gloria首播",
+      "onboard_time": 1660019925,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 438574,
       "num": 438574,
       "word": "布达拉宫暂停对外开放",
       "onboard_time": 1660011333,
       "rank": 19,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 436433,
+      "num": 436433,
+      "word": "私家车形成三角阵保护车流中的男孩",
+      "onboard_time": 1660019023,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 435888,
@@ -531,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414608,
+      "num": 414608,
+      "word": "深圳特产是海南椰子鸡",
+      "onboard_time": 1660020103,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 405001,
       "num": 405001,
       "word": "台北70岁山东饺子馆老板发声",
@@ -555,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380499,
+      "num": 335997,
+      "word": "丁程鑫考驾照vlog",
+      "onboard_time": 1660020282,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378411,
       "num": 378411,
       "word": "12岁女孩永远吃不饱体重近200斤",
@@ -569,6 +665,14 @@
       "onboard_time": 1660004374,
       "rank": 23,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 375990,
+      "num": 335921,
+      "word": "陈伟霆原野灯火露营大片",
+      "onboard_time": 1660021001,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 372405,
@@ -675,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330509,
+      "num": 330509,
+      "word": "断桥预售破1000万",
+      "onboard_time": 1660018721,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330318,
       "num": 330318,
       "word": "济青高速青岛方向15个收费站临时关闭",
@@ -689,14 +801,6 @@
       "onboard_time": 1659974975,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325421,
-      "num": 325421,
-      "word": "榜一大哥狂刷20万分手索要遭拒",
-      "onboard_time": 1660017517,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321827,
@@ -779,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298349,
+      "num": 298349,
+      "word": "东部战区多型反潜平台协同作战",
+      "onboard_time": 1660019203,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 298156,
       "num": 298156,
       "word": "萌娃买甜筒连拿2个壳被逗哭躺地",
@@ -843,12 +955,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285342,
+      "num": 285342,
+      "word": "北京地铁2号线一乘客翻越进入轨道",
+      "onboard_time": 1660020764,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277073,
       "num": 277073,
       "word": "北京新增9例境外输入确诊",
       "onboard_time": 1660007376,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274427,
+      "num": 274427,
+      "word": "廊坊全面取消限购及限售",
+      "onboard_time": 1660019863,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 268299,
@@ -915,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240366,
-      "num": 240366,
-      "word": "妈妈患癌后女儿从倒数考到全校第4",
-      "onboard_time": 1660018121,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 233019,
       "num": 233019,
       "word": "女子停车被挡指挥同伴强行撞开",
@@ -947,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226815,
+      "num": 226815,
+      "word": "高额打赏后若反悔能退吗",
+      "onboard_time": 1660020045,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223261,
       "num": 223261,
       "word": "拉萨发现18例阳性",
@@ -961,6 +1089,14 @@
       "onboard_time": 1660003051,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221999,
+      "num": 221999,
+      "word": "东部战区组织联合封控和联合保障行动",
+      "onboard_time": 1660020941,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 205839,
