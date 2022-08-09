@@ -1,0 +1,410 @@
+{
+  "runTime": 1660084687399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731808,
+        "num": 731808,
+        "word": "拜登正式签署芯片法案",
+        "onboard_time": 1660060651,
+        "rank": 0,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 567769,
+        "num": 567769,
+        "word": "蔡徐坤工作室发文回应",
+        "onboard_time": 1660056820,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26966,
+        "num": 489159,
+        "word": "中国空间站将再添新房间",
+        "onboard_time": 1660034915,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425522,
+        "num": 425522,
+        "word": "荆门一中学教师被指街头猥亵女子",
+        "onboard_time": 1660059275,
+        "rank": 3,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 268463,
+        "num": 268463,
+        "word": "电视剧男主为什么都爱姓顾",
+        "onboard_time": 1660049320,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213960,
+        "num": 213960,
+        "word": "95号汽油喜迎8元时代",
+        "onboard_time": 1660075751,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209291,
+        "num": 209291,
+        "word": "80后女正厅段颖被查",
+        "onboard_time": 1660058739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202476,
+        "num": 202476,
+        "word": "张家界坠亡女骑手丈夫发声",
+        "onboard_time": 1660053159,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 180512,
+        "num": 180512,
+        "word": "热狗说赵文卓招呼一声小狗立马报到",
+        "onboard_time": 1660078092,
+        "rank": 8,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 175830,
+        "num": 175830,
+        "word": "8旬老人因一道算术题起诉儿子",
+        "onboard_time": 1660068677,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 418286,
+        "num": 174430,
+        "word": "丈夫不愿生娃妻子起诉离婚",
+        "onboard_time": 1660082654,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211974,
+        "num": 171389,
+        "word": "赵奕欢说我不想有一个包贝尔",
+        "onboard_time": 1660052620,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167170,
+        "num": 167170,
+        "word": "社区开展好媳妇为婆婆洗脚活动",
+        "onboard_time": 1660049559,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162364,
+        "num": 162364,
+        "word": "被Wendy笑死",
+        "onboard_time": 1660057180,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141798,
+        "num": 141798,
+        "word": "榜一大哥联合网红主播做局",
+        "onboard_time": 1660083014,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126795,
+        "num": 126795,
+        "word": "嫌犯到法院旁听自己案件被抓",
+        "onboard_time": 1660079772,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116030,
+        "num": 116030,
+        "word": "女子微整形失败10个月没敢出门",
+        "onboard_time": 1660042175,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113592,
+        "num": 113592,
+        "word": "高温作业工人死在出租屋获赔8.3万",
+        "onboard_time": 1660066458,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109397,
+        "num": 109397,
+        "word": "多地海景房跌成白菜价",
+        "onboard_time": 1660046072,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 104748,
+        "num": 104748,
+        "word": "名创优品",
+        "onboard_time": 1660045055,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124505,
+        "num": 104265,
+        "word": "刘涛刘宇宁新剧撑伞氛围感",
+        "onboard_time": 1660055562,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103553,
+        "num": 103553,
+        "word": "东部战区公布运油20空中加油画面",
+        "onboard_time": 1660046731,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100170,
+        "num": 100170,
+        "word": "00后女孩给离世父母发消息分享生活",
+        "onboard_time": 1660062568,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99517,
+        "num": 99517,
+        "word": "一层三户分别住着海军陆军武警",
+        "onboard_time": 1660055741,
+        "rank": 23,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 97723,
+        "num": 97723,
+        "word": "中行回应部分用户提现失败",
+        "onboard_time": 1660058259,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 87978,
+        "num": 87978,
+        "word": "芯片大基金公司三名高管被查",
+        "onboard_time": 1660051659,
+        "rank": 25,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 85427,
+        "num": 85427,
+        "word": "男子进店推销无果后跪地不起",
+        "onboard_time": 1660064242,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85304,
+        "num": 85304,
+        "word": "名创优品分不清旗袍和艺妓服饰",
+        "onboard_time": 1660057001,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 84795,
+        "num": 84795,
+        "word": "沉香如屑 猫眼",
+        "onboard_time": 1660058018,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80877,
+        "num": 80877,
+        "word": "美军里根号航母再次掉头行驶",
+        "onboard_time": 1660038033,
+        "rank": 29,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 65488,
+        "num": 65488,
+        "word": "程家被押入大牢",
+        "onboard_time": 1660052077,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65303,
+        "num": 65303,
+        "word": "性格外向会带来优势吗",
+        "onboard_time": 1660081875,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64498,
+        "num": 64498,
+        "word": "王栎鑫眼睛肿成蛤蟆",
+        "onboard_time": 1660058435,
+        "rank": 32,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 64034,
+        "num": 64034,
+        "word": "水谷隼感染新冠",
+        "onboard_time": 1660057478,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 61869,
+        "num": 61869,
+        "word": "23岁女生长期可乐当水喝进ICU",
+        "onboard_time": 1660032878,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61275,
+        "num": 61275,
+        "word": "男子离家返工父母给带回活鸡鸭羊",
+        "onboard_time": 1660076832,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61083,
+        "num": 61083,
+        "word": "名创优品致歉声明",
+        "onboard_time": 1660057300,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 60595,
+        "num": 60595,
+        "word": "苍兰诀",
+        "onboard_time": 1660043973,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60519,
+        "num": 60519,
+        "word": "7家央企华中总部落户武汉",
+        "onboard_time": 1660083915,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 58224,
+        "num": 58224,
+        "word": "齐涛家暴丁木木好恐怖",
+        "onboard_time": 1660076951,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57221,
+        "num": 57221,
+        "word": "华晨宇神树 物理降温",
+        "onboard_time": 1660068257,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53749,
+        "num": 53749,
+        "word": "今晚凌不疑一路打到御史台",
+        "onboard_time": 1660054423,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52328,
+        "num": 52328,
+        "word": "有些狗是真没把自己当成狗",
+        "onboard_time": 1660048899,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46505,
+        "num": 46505,
+        "word": "南昌每5套房就有1套空着",
+        "onboard_time": 1660048115,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 46338,
+        "num": 46338,
+        "word": "1600年前的匈奴都城即将重现",
+        "onboard_time": 1660052560,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44612,
+        "num": 44612,
+        "word": "厦门经济型酒店月租金3000元",
+        "onboard_time": 1660049079,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 42386,
+        "num": 42386,
+        "word": "鼻炎患者有多难",
+        "onboard_time": 1660053522,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40408,
+        "num": 40408,
+        "word": "这样洗头发终于不油了",
+        "onboard_time": 1660039716,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 36797,
+        "num": 36797,
+        "word": "美国中情局称将更加关注中国事务",
+        "onboard_time": 1660046972,
+        "rank": 48,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 35679,
+        "num": 35679,
+        "word": "25岁小伙胸部B罩杯被分手了",
+        "onboard_time": 1660028496,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国再次成功发射一箭三星#"
+    }
+  }
+}

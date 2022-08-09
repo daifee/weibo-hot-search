@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660083685227,
+  "endTime": 1660084687399,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -2179,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 418286,
+      "num": 174430,
+      "word": "丈夫不愿生娃妻子起诉离婚",
+      "onboard_time": 1660082654,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418061,
       "num": 418061,
       "word": "古巴石油储备基地第三个储油罐爆炸",
@@ -3915,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213960,
+      "num": 213960,
+      "word": "95号汽油喜迎8元时代",
+      "onboard_time": 1660075751,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210266,
       "num": 210266,
       "word": "广西舰训练画面公布",
@@ -4147,6 +4163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180512,
+      "num": 180512,
+      "word": "热狗说赵文卓招呼一声小狗立马报到",
+      "onboard_time": 1660078092,
+      "rank": 13,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 176256,
       "num": 303291,
       "word": "上海叫高峰的打车可免单",
@@ -4155,20 +4179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175830,
+      "num": 175830,
+      "word": "8旬老人因一道算术题起诉儿子",
+      "onboard_time": 1660068677,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 173407,
       "num": 173407,
       "word": "17岁中国小将成最年轻网球挑战赛冠军",
       "onboard_time": 1659941679,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172369,
-      "num": 172369,
-      "word": "热狗说赵文卓招呼一声小狗立马报到",
-      "onboard_time": 1660078092,
-      "rank": 13,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 172132,
@@ -4193,14 +4217,6 @@
       "onboard_time": 1659875074,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169431,
-      "num": 169431,
-      "word": "95号汽油喜迎8元时代",
-      "onboard_time": 1660075751,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 169392,
@@ -4411,6 +4427,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 141798,
+      "num": 141798,
+      "word": "榜一大哥联合网红主播做局",
+      "onboard_time": 1660083014,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140207,
       "num": 140207,
       "word": "马龙保研北体大",
@@ -4515,14 +4539,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 129444,
-      "num": 129444,
-      "word": "8旬老人因一道算术题起诉儿子",
-      "onboard_time": 1660068677,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 128725,
       "num": 128725,
       "word": "东部战区公布运油20空中加油画面",
@@ -4545,6 +4561,14 @@
       "onboard_time": 1659893477,
       "rank": 42,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 126795,
+      "num": 126795,
+      "word": "嫌犯到法院旁听自己案件被抓",
+      "onboard_time": 1660079772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125859,
@@ -4723,22 +4747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98175,
-      "num": 98175,
-      "word": "丈夫不愿生娃妻子起诉离婚",
-      "onboard_time": 1660082654,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94770,
-      "num": 94770,
-      "word": "嫌犯到法院旁听自己案件被抓",
-      "onboard_time": 1660079772,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86320,
       "num": 86320,
       "word": "林妙妙钱三一的同居生活",
@@ -4763,12 +4771,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 69875,
-      "num": 69875,
-      "word": "榜一大哥联合网红主播做局",
-      "onboard_time": 1660083014,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 65303,
+      "num": 65303,
+      "word": "性格外向会带来优势吗",
+      "onboard_time": 1660081875,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61275,
+      "num": 61275,
+      "word": "男子离家返工父母给带回活鸡鸭羊",
+      "onboard_time": 1660076832,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60877,
@@ -4779,12 +4795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54776,
-      "num": 54776,
-      "word": "男子离家返工父母给带回活鸡鸭羊",
-      "onboard_time": 1660076832,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 60519,
+      "num": 60519,
+      "word": "7家央企华中总部落户武汉",
+      "onboard_time": 1660083915,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 58224,
+      "num": 58224,
+      "word": "齐涛家暴丁木木好恐怖",
+      "onboard_time": 1660076951,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 52990,
@@ -4803,28 +4827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50237,
-      "num": 50237,
-      "word": "齐涛家暴丁木木好恐怖",
-      "onboard_time": 1660076951,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 46058,
       "num": 26403,
       "word": "Billboard首封预告是王嘉尔吧",
       "onboard_time": 1660073773,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 44692,
-      "num": 44692,
-      "word": "性格外向会带来优势吗",
-      "onboard_time": 1660081875,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 44037,
