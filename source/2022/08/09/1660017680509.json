@@ -1,0 +1,410 @@
+{
+  "runTime": 1660017680509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1869039,
+        "num": 1869039,
+        "word": "iPhone电量百分比回来了",
+        "onboard_time": 1660002685,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1772885,
+        "num": 1772885,
+        "word": "每5颗西梅有3颗来自新疆伽师",
+        "onboard_time": 1660013553,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414919,
+        "num": 1543196,
+        "word": "一条毛巾缓解腰酸背痛",
+        "onboard_time": 1660001786,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368387,
+        "num": 1368387,
+        "word": "韩国暴雨已致7死9伤6人失踪",
+        "onboard_time": 1660010977,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205282,
+        "num": 1205282,
+        "word": "因弟弟求职被骗他当上招聘信息核验官",
+        "onboard_time": 1660014996,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141329,
+        "num": 1141329,
+        "word": "杨幂密逃4校服剧照",
+        "onboard_time": 1660015477,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1068994,
+        "num": 1068994,
+        "word": "关晓彤和张继科比赛颠球",
+        "onboard_time": 1660012233,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 998384,
+        "num": 998384,
+        "word": "王者荣耀 大乔",
+        "onboard_time": 1660008271,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3348224,
+        "num": 989640,
+        "word": "王乐天涉嫌性骚扰女性",
+        "onboard_time": 1660011395,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864727,
+        "num": 864727,
+        "word": "FBI突查特朗普海湖庄园",
+        "onboard_time": 1660008271,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1909661,
+        "num": 862968,
+        "word": "王一博与乐华续约至2026年",
+        "onboard_time": 1660017217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998033,
+        "num": 855593,
+        "word": "于月仙车祸肇事人被判1年",
+        "onboard_time": 1660017456,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 831738,
+        "num": 831738,
+        "word": "长相思全阵容海报",
+        "onboard_time": 1660014935,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 778037,
+        "num": 778037,
+        "word": "广州全日制本科生参保即可落户",
+        "onboard_time": 1660013254,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 706914,
+        "num": 706914,
+        "word": "不熬夜才能避免熬夜伤害",
+        "onboard_time": 1660013135,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676313,
+        "num": 676313,
+        "word": "iPhone新增复制和删除屏幕截图",
+        "onboard_time": 1660014874,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 631562,
+        "num": 631562,
+        "word": "浙江一地生三孩每月每孩1000元",
+        "onboard_time": 1660008697,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 625382,
+        "num": 625382,
+        "word": "婚车司机应该吃盒饭还是酒席",
+        "onboard_time": 1660013854,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506035,
+        "num": 506035,
+        "word": "怎样看待开车不如骑两轮",
+        "onboard_time": 1660016257,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 480026,
+        "num": 480026,
+        "word": "厦门疫情防控",
+        "onboard_time": 1660010253,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652542,
+        "num": 474421,
+        "word": "沉香如屑滤镜vs苍兰诀滤镜",
+        "onboard_time": 1660007014,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568000,
+        "num": 472561,
+        "word": "二十不惑2全员站岗小狗催定档",
+        "onboard_time": 1660015174,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465854,
+        "num": 465854,
+        "word": "国家网信办集中整治涉虚拟货币炒作乱象",
+        "onboard_time": 1660014153,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 448203,
+        "num": 448203,
+        "word": "手机不同内存该怎么选",
+        "onboard_time": 1660015477,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 432658,
+        "num": 432658,
+        "word": "ios16",
+        "onboard_time": 1660015594,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 417840,
+        "num": 417840,
+        "word": "吴磊叫赵露思小孩",
+        "onboard_time": 1660000461,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402949,
+        "num": 402949,
+        "word": "1岁女童肚中取出柚子大小畸胎瘤",
+        "onboard_time": 1659971860,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375655,
+        "num": 375655,
+        "word": "关闭1.2万个涉虚拟货币炒作账号",
+        "onboard_time": 1660016076,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 349702,
+        "num": 349702,
+        "word": "布达拉宫暂停对外开放",
+        "onboard_time": 1660011333,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 320098,
+        "num": 320098,
+        "word": "教资等20个证书官方查询渠道",
+        "onboard_time": 1660011754,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 354853,
+        "num": 319988,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1660002148,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353171,
+        "num": 319254,
+        "word": "杨超越脱5路透学院风造型",
+        "onboard_time": 1660015174,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344469,
+        "num": 318918,
+        "word": "雀斑公主定档826",
+        "onboard_time": 1660013675,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318132,
+        "num": 318132,
+        "word": "男老师连摔带爬救落水女童",
+        "onboard_time": 1660011275,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 297965,
+        "num": 297965,
+        "word": "直击韩国暴雨一线",
+        "onboard_time": 1660012414,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297950,
+        "num": 297950,
+        "word": "动画电影山海经里的怪兽白泽",
+        "onboard_time": 1660016553,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296981,
+        "num": 296981,
+        "word": "骗子将诈骗电话打到反诈中心",
+        "onboard_time": 1660012835,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292756,
+        "num": 292756,
+        "word": "海南增300例确诊171例无症状",
+        "onboard_time": 1660009235,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288980,
+        "num": 288980,
+        "word": "iPhone取消Siri语音关机",
+        "onboard_time": 1660007252,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284310,
+        "num": 284310,
+        "word": "医院回应营销方案写让病人长期留下",
+        "onboard_time": 1660016553,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290952,
+        "num": 279256,
+        "word": "独行月球金刚鼠专属BGM",
+        "onboard_time": 1660015836,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273605,
+        "num": 273605,
+        "word": "再也不想去水上乐园了",
+        "onboard_time": 1660006415,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 254974,
+        "num": 254974,
+        "word": "榜一大哥狂刷20万分手索要遭拒",
+        "onboard_time": 1660017517,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251170,
+        "num": 251170,
+        "word": "张家界自行车赛跌落骑手已去世",
+        "onboard_time": 1660001422,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242299,
+        "num": 242299,
+        "word": "厦门思明部分场馆闭馆",
+        "onboard_time": 1660016797,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233635,
+        "num": 233635,
+        "word": "郸城警方通报男子持刀砍人事件",
+        "onboard_time": 1660008157,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229274,
+        "num": 229274,
+        "word": "解放军台海演训激发年轻人从军热情",
+        "onboard_time": 1659987432,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 326748,
+        "num": 229239,
+        "word": "马頔不想跟毛不易合租",
+        "onboard_time": 1660017640,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288528,
+        "num": 227934,
+        "word": "金志文月亮不走我得走MV好燃",
+        "onboard_time": 1660017640,
+        "rank": 48,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 223757,
+        "num": 223757,
+        "word": "微信支持手机电脑互传聊天记录",
+        "onboard_time": 1660017157,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界潮流浩荡公道自在人心#"
+    }
+  }
+}

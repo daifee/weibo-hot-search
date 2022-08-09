@@ -1,7 +1,15 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660013509553,
+  "endTime": 1660017680509,
   "band_list": [
+    {
+      "raw_hot": 3348224,
+      "num": 989640,
+      "word": "王乐天涉嫌性骚扰女性",
+      "onboard_time": 1660011395,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2498842,
       "num": 2498842,
@@ -35,12 +43,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1833050,
-      "num": 658726,
-      "word": "王乐天涉嫌性骚扰女性",
-      "onboard_time": 1660011395,
+      "raw_hot": 1909661,
+      "num": 862968,
+      "word": "王一博与乐华续约至2026年",
+      "onboard_time": 1660017217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1772885,
+      "num": 1772885,
+      "word": "每5颗西梅有3颗来自新疆伽师",
+      "onboard_time": 1660013553,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1546941,
@@ -83,12 +99,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1205282,
+      "num": 1205282,
+      "word": "因弟弟求职被骗他当上招聘信息核验官",
+      "onboard_time": 1660014996,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1152467,
       "num": 1152467,
       "word": "浙江一地生三孩每月每孩1000元",
       "onboard_time": 1660008697,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1141329,
+      "num": 1141329,
+      "word": "杨幂密逃4校服剧照",
+      "onboard_time": 1660015477,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1108785,
@@ -147,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998033,
+      "num": 855593,
+      "word": "于月仙车祸肇事人被判1年",
+      "onboard_time": 1660017456,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 879251,
       "num": 879251,
       "word": "吴磊叫赵露思小孩",
@@ -163,11 +203,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 831738,
+      "num": 831738,
+      "word": "长相思全阵容海报",
+      "onboard_time": 1660014935,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 778037,
+      "num": 778037,
+      "word": "广州全日制本科生参保即可落户",
+      "onboard_time": 1660013254,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 763175,
       "num": 763175,
       "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
       "onboard_time": 1659983234,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706914,
+      "num": 706914,
+      "word": "不熬夜才能避免熬夜伤害",
+      "onboard_time": 1660013135,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -177,6 +241,14 @@
       "onboard_time": 1659963696,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676313,
+      "num": 676313,
+      "word": "iPhone新增复制和删除屏幕截图",
+      "onboard_time": 1660014874,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 660187,
@@ -192,6 +264,14 @@
       "word": "阳光玫瑰价格大跳水",
       "onboard_time": 1659965317,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625382,
+      "num": 625382,
+      "word": "婚车司机应该吃盒饭还是酒席",
+      "onboard_time": 1660013854,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -227,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568000,
+      "num": 472561,
+      "word": "二十不惑2全员站岗小狗催定档",
+      "onboard_time": 1660015174,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 560111,
       "num": 560111,
       "word": "三亚新增确诊病例234例",
@@ -249,6 +337,14 @@
       "onboard_time": 1659987432,
       "rank": 19,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 506035,
+      "num": 506035,
+      "word": "怎样看待开车不如骑两轮",
+      "onboard_time": 1660016257,
+      "rank": 18,
+      "category": "社会议题"
     },
     {
       "raw_hot": 498652,
@@ -291,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 465854,
+      "num": 465854,
+      "word": "国家网信办集中整治涉虚拟货币炒作乱象",
+      "onboard_time": 1660014153,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 460670,
       "num": 460670,
       "word": "东部战区",
@@ -315,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448203,
+      "num": 448203,
+      "word": "手机不同内存该怎么选",
+      "onboard_time": 1660015477,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 438574,
       "num": 438574,
       "word": "布达拉宫暂停对外开放",
@@ -329,6 +441,14 @@
       "onboard_time": 1660001786,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432658,
+      "num": 432658,
+      "word": "ios16",
+      "onboard_time": 1660015594,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 429126,
@@ -395,6 +515,14 @@
       "category": "财经,国外要闻"
     },
     {
+      "raw_hot": 375655,
+      "num": 375655,
+      "word": "关闭1.2万个涉虚拟货币炒作账号",
+      "onboard_time": 1660016076,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 372405,
       "num": 372405,
       "word": "西安东汉墓葬发现龙纹铺地砖",
@@ -435,6 +563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 353171,
+      "num": 319254,
+      "word": "杨超越脱5路透学院风造型",
+      "onboard_time": 1660015174,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347944,
       "num": 347944,
       "word": "银行回应高温天拒绝市民入内排队",
@@ -448,6 +584,14 @@
       "word": "月升沧海",
       "onboard_time": 1660009534,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344469,
+      "num": 318918,
+      "word": "雀斑公主定档826",
+      "onboard_time": 1660013675,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -489,6 +633,14 @@
       "onboard_time": 1659974975,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326748,
+      "num": 229239,
+      "word": "马頔不想跟毛不易合租",
+      "onboard_time": 1660017640,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 321827,
@@ -579,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297950,
+      "num": 297950,
+      "word": "动画电影山海经里的怪兽白泽",
+      "onboard_time": 1660016553,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297139,
       "num": 297139,
       "word": "没点文化看不懂表情包了",
@@ -587,12 +747,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296981,
+      "num": 296981,
+      "word": "骗子将诈骗电话打到反诈中心",
+      "onboard_time": 1660012835,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290952,
+      "num": 279256,
+      "word": "独行月球金刚鼠专属BGM",
+      "onboard_time": 1660015836,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288528,
+      "num": 227934,
+      "word": "金志文月亮不走我得走MV好燃",
+      "onboard_time": 1660017640,
+      "rank": 48,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 288073,
       "num": 288073,
       "word": "打工人带饭四个月的变化",
       "onboard_time": 1659967119,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284310,
+      "num": 284310,
+      "word": "医院回应营销方案写让病人长期留下",
+      "onboard_time": 1660016553,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277073,
@@ -627,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254974,
+      "num": 254974,
+      "word": "榜一大哥狂刷20万分手索要遭拒",
+      "onboard_time": 1660017517,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249058,
       "num": 201151,
       "word": "吴磊赵露思月升沧海体型差",
@@ -651,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242299,
+      "num": 242299,
+      "word": "厦门思明部分场馆闭馆",
+      "onboard_time": 1660016797,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233019,
       "num": 233019,
       "word": "女子停车被挡指挥同伴强行撞开",
       "onboard_time": 1660001124,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232480,
-      "num": 232480,
-      "word": "广州全日制本科生参保即可落户",
-      "onboard_time": 1660013254,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 228619,
@@ -683,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223757,
+      "num": 223757,
+      "word": "微信支持手机电脑互传聊天记录",
+      "onboard_time": 1660017157,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 223261,
       "num": 223261,
       "word": "拉萨发现18例阳性",
@@ -699,27 +907,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207511,
-      "num": 207511,
-      "word": "不熬夜才能避免熬夜伤害",
-      "onboard_time": 1660013135,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205839,
       "num": 205839,
       "word": "小伙遇车祸为救人相亲迟到20分钟",
       "onboard_time": 1659967297,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205574,
-      "num": 205574,
-      "word": "骗子将诈骗电话打到反诈中心",
-      "onboard_time": 1660012835,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
