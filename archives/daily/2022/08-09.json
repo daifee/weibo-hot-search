@@ -1,6 +1,6 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660027591508,
+  "endTime": 1660029594419,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -59,12 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2169818,
-      "num": 2169818,
+      "raw_hot": 2200535,
+      "num": 2200535,
       "word": "美海军证实航母舰载战机被大风吹入海里",
       "onboard_time": 1660024354,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2170154,
+      "num": 2170154,
+      "word": "西安一整形专家在自己门诊整形身亡",
+      "onboard_time": 1660024833,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2122190,
@@ -107,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1688391,
+      "num": 858900,
+      "word": "25岁小伙胸部B罩杯被分手了",
+      "onboard_time": 1660028496,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655407,
       "num": 1655407,
       "word": "拜登对解放军军演感到担忧",
       "onboard_time": 1660021422,
       "rank": 12,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 1643191,
-      "num": 1643191,
-      "word": "西安一整形专家在自己门诊整形身亡",
-      "onboard_time": 1660024833,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1546941,
@@ -144,6 +152,14 @@
       "word": "韩国暴雨已致7死9伤6人失踪",
       "onboard_time": 1660010977,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493667,
+      "num": 1493667,
+      "word": "九寨沟回应大妈光脚丫子下水拍照",
+      "onboard_time": 1660025012,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -275,19 +291,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 994439,
-      "num": 994439,
-      "word": "九寨沟回应大妈光脚丫子下水拍照",
-      "onboard_time": 1660025012,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 944439,
       "num": 944439,
       "word": "大学生暑假放羊自己和羊都走失",
       "onboard_time": 1660019203,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 922305,
+      "num": 922305,
+      "word": "芒果台90后CEO的颜值",
+      "onboard_time": 1660027473,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 919610,
+      "num": 919610,
+      "word": "首批滞留三亚旅客将乘机返回",
+      "onboard_time": 1660024651,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -355,6 +379,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 775194,
+      "num": 775194,
+      "word": "解放军继续实战化演训",
+      "onboard_time": 1660025972,
+      "rank": 41,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 763175,
       "num": 763175,
       "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
@@ -371,11 +403,19 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 681064,
-      "num": 681064,
-      "word": "首批滞留三亚旅客将乘机返回",
-      "onboard_time": 1660024651,
-      "rank": 22,
+      "raw_hot": 688903,
+      "num": 688903,
+      "word": "女司机侧方停车10分钟致拥堵无人催",
+      "onboard_time": 1660024592,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680467,
+      "num": 680467,
+      "word": "女子结账零头被四舍五入举报商家",
+      "onboard_time": 1660025795,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -393,14 +433,6 @@
       "onboard_time": 1660014874,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 663803,
-      "num": 663803,
-      "word": "女司机侧方停车10分钟致拥堵无人催",
-      "onboard_time": 1660024592,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660187,
@@ -499,6 +531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 531574,
+      "num": 531574,
+      "word": "张一山用了12年才和刘星说再见",
+      "onboard_time": 1660027654,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 530596,
       "num": 530596,
       "word": "光遇复刻",
@@ -547,14 +587,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 494325,
-      "num": 494325,
-      "word": "女子结账零头被四舍五入举报商家",
-      "onboard_time": 1660025795,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489383,
       "num": 489383,
       "word": "油价或迎年内第五次下调",
@@ -569,14 +601,6 @@
       "onboard_time": 1660009235,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485865,
-      "num": 485865,
-      "word": "解放军继续实战化演训",
-      "onboard_time": 1660025972,
-      "rank": 41,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 484453,
@@ -739,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 432910,
-      "num": 432910,
-      "word": "芒果台90后CEO的颜值",
-      "onboard_time": 1660027473,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 432658,
       "num": 432658,
       "word": "ios16",
@@ -859,11 +875,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 375897,
+      "num": 375897,
+      "word": "来自电影的一句告白",
+      "onboard_time": 1660029515,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373561,
+      "num": 326499,
+      "word": "虞书欣王鹤棣换身让秦岚混乱了",
+      "onboard_time": 1660029515,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372405,
       "num": 372405,
       "word": "西安东汉墓葬发现龙纹铺地砖",
       "onboard_time": 1659974077,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370476,
+      "num": 370476,
+      "word": "感染尼帕病毒后致死率高达75%",
+      "onboard_time": 1660027175,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -913,6 +953,14 @@
       "onboard_time": 1659966462,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 355860,
+      "num": 355860,
+      "word": "古巴石油储备基地第三个储油罐爆炸",
+      "onboard_time": 1660026513,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 353171,
@@ -1011,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329468,
+      "num": 329468,
+      "word": "谷歌数据中心发生爆炸",
+      "onboard_time": 1660028132,
+      "rank": 29,
+      "category": "科技,国外要闻"
+    },
+    {
       "raw_hot": 327112,
       "num": 267133,
       "word": "BLACKPINK合体直播截图",
@@ -1024,6 +1080,14 @@
       "word": "五哈第三季拟邀嘉宾",
       "onboard_time": 1659963216,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318401,
+      "num": 318401,
+      "word": "快乐再出发",
+      "onboard_time": 1660021721,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1073,14 +1137,6 @@
       "onboard_time": 1660007973,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303324,
-      "num": 303324,
-      "word": "快乐再出发",
-      "onboard_time": 1660021721,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 300360,
@@ -1179,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272639,
+      "num": 272639,
+      "word": "济南最后一位被掳赴日劳工离世",
+      "onboard_time": 1660027054,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268299,
       "num": 268299,
       "word": "微信支持手机电脑互传聊天记录",
       "onboard_time": 1660017157,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 265717,
+      "num": 265717,
+      "word": "杨紫画的唐周",
+      "onboard_time": 1660028132,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 264691,
@@ -1267,12 +1339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234237,
-      "num": 234237,
-      "word": "感染尼帕病毒后致死率高达75%",
-      "onboard_time": 1660027175,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 236314,
+      "num": 236314,
+      "word": "真情实感玩动森的妈妈",
+      "onboard_time": 1660028556,
+      "rank": 38,
+      "category": "情感,游戏"
     },
     {
       "raw_hot": 233019,
@@ -1331,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208631,
-      "num": 208631,
-      "word": "古巴石油储备基地第三个储油罐爆炸",
-      "onboard_time": 1660026513,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 205839,
       "num": 205839,
       "word": "小伙遇车祸为救人相亲迟到20分钟",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1659968260,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200253,
-      "num": 200253,
-      "word": "济南最后一位被掳赴日劳工离世",
-      "onboard_time": 1660027054,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199301,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1660002685,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 190731,
+      "num": 190731,
+      "word": "拉萨此次疫情为奥密克戎BA.2.76",
+      "onboard_time": 1660029036,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187045,
