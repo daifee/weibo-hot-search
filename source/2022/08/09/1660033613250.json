@@ -1,0 +1,410 @@
+{
+  "runTime": 1660033613250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2667909,
+        "num": 2667909,
+        "word": "冰雨火",
+        "onboard_time": 1660030715,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1465984,
+        "num": 1465984,
+        "word": "九寨沟回应大妈光脚丫子下水拍照",
+        "onboard_time": 1660025012,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346062,
+        "num": 1123363,
+        "word": "不熬夜才能避免熬夜伤害",
+        "onboard_time": 1660013135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947259,
+        "num": 947259,
+        "word": "于月仙车祸肇事人被判1年",
+        "onboard_time": 1660017456,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 866555,
+        "num": 866555,
+        "word": "美海军证实航母舰载战机被大风吹入海里",
+        "onboard_time": 1660024354,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 833737,
+        "num": 833737,
+        "word": "芒果台90后CEO的颜值",
+        "onboard_time": 1660027473,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1460006,
+        "num": 814424,
+        "word": "西安一整形专家在自己门诊整形身亡",
+        "onboard_time": 1660024833,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 793623,
+        "num": 793623,
+        "word": "女子结账零头被四舍五入举报商家",
+        "onboard_time": 1660025795,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756805,
+        "num": 756805,
+        "word": "解放军继续实战化演训",
+        "onboard_time": 1660025972,
+        "rank": 8,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 621603,
+        "num": 621603,
+        "word": "海南市民做200杯冰椰水送防疫人员",
+        "onboard_time": 1660031672,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2709550,
+        "num": 598790,
+        "word": "25岁小伙胸部B罩杯被分手了",
+        "onboard_time": 1660028496,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564493,
+        "num": 564493,
+        "word": "Billboard正式官宣进入中国",
+        "onboard_time": 1660017758,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 525941,
+        "num": 525941,
+        "word": "买防晒帽千万不要选的颜色",
+        "onboard_time": 1660023815,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512591,
+        "num": 512591,
+        "word": "男子买秋天第一桶奶茶不慎被撞碎",
+        "onboard_time": 1660029694,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18103,
+        "num": 500721,
+        "word": "奥运冠军圈新晋流行符号",
+        "onboard_time": 1660032935,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498307,
+        "num": 498307,
+        "word": "黑莲花播放破七千万",
+        "onboard_time": 1660030235,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 455623,
+        "num": 455623,
+        "word": "女司机侧方停车10分钟致拥堵无人催",
+        "onboard_time": 1660024592,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454181,
+        "num": 454181,
+        "word": "根本不存在什么海峡中线",
+        "onboard_time": 1660031073,
+        "rank": 17,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 445933,
+        "num": 445933,
+        "word": "虞书欣王鹤棣换身让秦岚混乱了",
+        "onboard_time": 1660029515,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430132,
+        "num": 430132,
+        "word": "我国发现多例新型尼帕病毒感染者",
+        "onboard_time": 1660019385,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423114,
+        "num": 423114,
+        "word": "玉骨遥",
+        "onboard_time": 1660024592,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418769,
+        "num": 418769,
+        "word": "杨洋大理随拍",
+        "onboard_time": 1660030356,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413906,
+        "num": 413906,
+        "word": "拉萨此次疫情为奥密克戎BA.2.76",
+        "onboard_time": 1660029036,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390074,
+        "num": 390074,
+        "word": "王一博与乐华续约至2026年",
+        "onboard_time": 1660017217,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384667,
+        "num": 384667,
+        "word": "张一山用了12年才和刘星说再见",
+        "onboard_time": 1660027654,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363541,
+        "num": 363541,
+        "word": "不要再翘二郎腿了",
+        "onboard_time": 1660018721,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301908,
+        "num": 301908,
+        "word": "23岁女生长期可乐当水喝进ICU",
+        "onboard_time": 1660032878,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292005,
+        "num": 292005,
+        "word": "榜一大哥狂刷20万分手索要遭拒",
+        "onboard_time": 1660017517,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289683,
+        "num": 289683,
+        "word": "首批滞留三亚旅客将乘机返回",
+        "onboard_time": 1660024651,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251608,
+        "num": 251608,
+        "word": "义乌人均收入赶超北深广",
+        "onboard_time": 1660024474,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 447959,
+        "num": 251470,
+        "word": "王乐天涉嫌性骚扰女性",
+        "onboard_time": 1660011395,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369355,
+        "num": 251075,
+        "word": "唐周是颜淡的安全感",
+        "onboard_time": 1660032334,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346287,
+        "num": 250208,
+        "word": "黄明昊为邓紫棋新歌打call",
+        "onboard_time": 1660033534,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335517,
+        "num": 249623,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1660032694,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249587,
+        "num": 249587,
+        "word": "古巴石油储备基地第三个储油罐爆炸",
+        "onboard_time": 1660026513,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 294642,
+        "num": 249562,
+        "word": "这就是街舞5队长大秀剧照",
+        "onboard_time": 1660030652,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249322,
+        "num": 249322,
+        "word": "海南对符合条件旅客分类分批安排返程",
+        "onboard_time": 1660032152,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247907,
+        "num": 247907,
+        "word": "感染尼帕病毒后致死率高达75%",
+        "onboard_time": 1660027175,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233145,
+        "num": 233145,
+        "word": "原来蜡笔小新没有用夸张手法",
+        "onboard_time": 1660031552,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 230555,
+        "num": 230555,
+        "word": "大学生暑假放羊自己和羊都走失",
+        "onboard_time": 1660019203,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310484,
+        "num": 230496,
+        "word": "分手的决心",
+        "onboard_time": 1660033235,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228976,
+        "num": 228976,
+        "word": "谷歌数据中心发生爆炸",
+        "onboard_time": 1660028132,
+        "rank": 41,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 227240,
+        "num": 227240,
+        "word": "一名中国人因韩国首都圈暴雨遇难",
+        "onboard_time": 1660018481,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217912,
+        "num": 217912,
+        "word": "两栖合成部队闽南海域突击演练",
+        "onboard_time": 1660033294,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 214025,
+        "num": 214025,
+        "word": "不必要的肢体行为可构成性骚扰",
+        "onboard_time": 1660031317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205929,
+        "num": 205929,
+        "word": "妈妈患癌后女儿从倒数考到全校第4",
+        "onboard_time": 1660018121,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201061,
+        "num": 201061,
+        "word": "恋爱脑的原因找到了",
+        "onboard_time": 1660033414,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 214530,
+        "num": 200633,
+        "word": "大妈九寨沟景区脱鞋下水拍照",
+        "onboard_time": 1660033593,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195087,
+        "num": 195087,
+        "word": "济南最后一位被掳赴日劳工离世",
+        "onboard_time": 1660027054,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182374,
+        "num": 182374,
+        "word": "厦门新增3例确诊病例",
+        "onboard_time": 1660030356,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运史上首套动态体育图标发布#"
+    }
+  }
+}
