@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660079975775,
+  "endTime": 1660081019817,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -20123,6 +20123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169431,
+      "num": 169431,
+      "word": "95号汽油喜迎8元时代",
+      "onboard_time": 1660075751,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169392,
       "num": 1883978,
       "word": "全民运动健身图鉴",
@@ -20561,14 +20569,6 @@
       "onboard_time": 1660064242,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131447,
-      "num": 131447,
-      "word": "95号汽油喜迎8元时代",
-      "onboard_time": 1660075751,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 130977,
@@ -21147,6 +21147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55186,
+      "num": 55186,
+      "word": "热狗说赵文卓招呼一声小狗立马报到",
+      "onboard_time": 1660078092,
+      "rank": 13,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 52990,
       "num": 52990,
       "word": "俞飞鸿造型",
@@ -21193,14 +21201,6 @@
       "onboard_time": 1659373882,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47741,
-      "num": 47741,
-      "word": "热狗说赵文卓招呼一声小狗立马报到",
-      "onboard_time": 1660078092,
-      "rank": 13,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 46171,
@@ -21347,20 +21347,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29610,
+      "num": 29610,
+      "word": "男子离家返工父母给带回活鸡鸭羊",
+      "onboard_time": 1660076832,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28848,
       "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
       "onboard_time": 1659302111,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28551,
-      "num": 28551,
-      "word": "男子离家返工父母给带回活鸡鸭羊",
-      "onboard_time": 1660076832,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28294,
@@ -21377,6 +21377,14 @@
       "onboard_time": 1659934858,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27437,
+      "num": 27437,
+      "word": "齐涛家暴丁木木好恐怖",
+      "onboard_time": 1660076951,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 26849,
@@ -21435,14 +21443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20773,
-      "num": 20773,
-      "word": "齐涛家暴丁木木好恐怖",
-      "onboard_time": 1660076951,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 20550,
       "num": 20550,
       "word": "响铃卷还能这么吃",
@@ -21475,12 +21475,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18699,
+      "num": 18699,
+      "word": "袁慎神助攻凌不疑",
+      "onboard_time": 1660080671,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18628,
       "num": 18628,
       "word": "近期的古装剧路透",
       "onboard_time": 1659900013,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18405,
+      "num": 18405,
+      "word": "嫌犯到法院旁听自己案件被抓",
+      "onboard_time": 1660079772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18103,
@@ -21553,14 +21569,6 @@
       "onboard_time": 1659904391,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 11887,
-      "num": 11887,
-      "word": "嫌犯到法院旁听自己案件被抓",
-      "onboard_time": 1660079772,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11283,
