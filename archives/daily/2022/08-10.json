@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660069573114,
+  "endTime": 1660070625318,
   "band_list": [
     {
       "raw_hot": 1787805,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191237,
+      "num": 191237,
+      "word": "高温作业工人死在出租屋获赔8.3万",
+      "onboard_time": 1660066458,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190868,
       "num": 154033,
       "word": "今晚凌不疑一路打到御史台",
@@ -297,14 +305,6 @@
       "onboard_time": 1660046072,
       "rank": 35,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 145034,
-      "num": 145034,
-      "word": "高温作业工人死在出租屋获赔8.3万",
-      "onboard_time": 1660066458,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141961,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90840,
+      "num": 90840,
+      "word": "8旬老人因一道算术题起诉儿子",
+      "onboard_time": 1660068677,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 73820,
       "num": 73820,
       "word": "厦门重点人群今天开展一次核酸检测",
@@ -435,20 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70256,
-      "num": 70256,
+      "raw_hot": 71431,
+      "num": 71431,
       "word": "华晨宇神树 物理降温",
       "onboard_time": 1660068257,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 51178,
-      "num": 51178,
-      "word": "8旬老人因一道算术题起诉儿子",
-      "onboard_time": 1660068677,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 50458,
@@ -457,6 +457,14 @@
       "onboard_time": 1660034915,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36625,
+      "num": 36625,
+      "word": "好莱坞多家公司不让片中角色抽烟",
+      "onboard_time": 1660067776,
+      "rank": 45,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
