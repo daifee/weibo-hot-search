@@ -1,7 +1,15 @@
 {
   "startTime": 1659976340492,
-  "endTime": 1660001913769,
+  "endTime": 1660011140098,
   "band_list": [
+    {
+      "raw_hot": 2498842,
+      "num": 2498842,
+      "word": "iPhone电量百分比回来了",
+      "onboard_time": 1660002685,
+      "rank": 0,
+      "category": "科技"
+    },
     {
       "raw_hot": 2291748,
       "num": 201237,
@@ -9,6 +17,22 @@
       "onboard_time": 1659971320,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2122190,
+      "num": 2122190,
+      "word": "FBI突查特朗普海湖庄园",
+      "onboard_time": 1660008271,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1996367,
+      "num": 488581,
+      "word": "成都一女子轻生坠亡险砸行人",
+      "onboard_time": 1660007076,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1546941,
@@ -27,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1459842,
+      "num": 1459842,
+      "word": "iPhone取消Siri语音关机",
+      "onboard_time": 1660007252,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1210682,
+      "num": 1210682,
+      "word": "王者荣耀 大乔",
+      "onboard_time": 1660008271,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1108785,
       "num": 1108785,
       "word": "中方坚决反对给一个中国原则加前后缀",
@@ -43,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057845,
+      "num": 1057845,
+      "word": "浙江一地生三孩每月每孩1000元",
+      "onboard_time": 1660008697,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1056169,
-      "num": 466142,
+      "num": 473212,
       "word": "上半年韩星收入TOP10",
       "onboard_time": 1659972580,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1055159,
+      "num": 1055159,
+      "word": "沉香如屑滤镜vs苍兰诀滤镜",
+      "onboard_time": 1660007014,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1032047,
@@ -60,11 +116,19 @@
     },
     {
       "raw_hot": 1023018,
-      "num": 297460,
+      "num": 428738,
       "word": "王栎鑫 你想转就转不要往回找补",
       "onboard_time": 1659969100,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 879251,
+      "num": 879251,
+      "word": "吴磊叫赵露思小孩",
+      "onboard_time": 1660000461,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 834809,
@@ -73,14 +137,6 @@
       "onboard_time": 1659960394,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 800965,
-      "num": 800965,
-      "word": "吴磊叫赵露思小孩",
-      "onboard_time": 1660000461,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 763175,
@@ -96,6 +152,14 @@
       "word": "男子身上长结石30多年成珍珠人",
       "onboard_time": 1659963696,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660187,
+      "num": 660187,
+      "word": "新疆新增146例无症状",
+      "onboard_time": 1660006478,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -115,12 +179,44 @@
       "category": "科技"
     },
     {
+      "raw_hot": 582670,
+      "num": 582670,
+      "word": "张家界自行车赛跌落骑手已去世",
+      "onboard_time": 1660001422,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560111,
+      "num": 560111,
+      "word": "三亚新增确诊病例234例",
+      "onboard_time": 1660003651,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529170,
       "num": 529170,
       "word": "解放军台海演训激发年轻人从军热情",
       "onboard_time": 1659987432,
       "rank": 19,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 498652,
+      "num": 498652,
+      "word": "郸城警方通报男子持刀砍人事件",
+      "onboard_time": 1660008157,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 489383,
+      "num": 489383,
+      "word": "油价或迎年内第五次下调",
+      "onboard_time": 1660006054,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 484453,
@@ -147,12 +243,44 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 452319,
+      "num": 452319,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1660002148,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 443860,
+      "num": 443860,
+      "word": "厦门疫情防控",
+      "onboard_time": 1660010253,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429126,
+      "num": 429126,
+      "word": "郸城大广场",
+      "onboard_time": 1660003413,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 423078,
       "num": 423078,
       "word": "杨紫说这桃花运来得有点突然",
       "onboard_time": 1659956434,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407600,
+      "num": 407600,
+      "word": "再也不想去水上乐园了",
+      "onboard_time": 1660006415,
+      "rank": 21,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 405001,
@@ -177,6 +305,14 @@
       "onboard_time": 1659969397,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376058,
+      "num": 376058,
+      "word": "莫斯科交易所暂停日元相关外汇交易",
+      "onboard_time": 1660004374,
+      "rank": 23,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 372405,
@@ -219,6 +355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 354879,
+      "num": 354879,
+      "word": "海南增300例确诊171例无症状",
+      "onboard_time": 1660009235,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347944,
       "num": 347944,
       "word": "银行回应高温天拒绝市民入内排队",
@@ -227,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345409,
+      "num": 345409,
+      "word": "月升沧海",
+      "onboard_time": 1660009534,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333936,
       "num": 333936,
       "word": "基金经理",
       "onboard_time": 1659968979,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 331762,
+      "num": 331762,
+      "word": "沼泽深处的女孩确认引进",
+      "onboard_time": 1660010316,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 330318,
@@ -259,12 +419,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313174,
+      "num": 313174,
+      "word": "一句要回家父母得忙活多久",
+      "onboard_time": 1660002629,
+      "rank": 28,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 312613,
+      "num": 312613,
+      "word": "瑞幸发布2022年第二季度财报",
+      "onboard_time": 1660006116,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311355,
       "num": 311355,
       "word": "苍兰诀",
       "onboard_time": 1659961715,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304622,
+      "num": 304622,
+      "word": "海南8月12日前实现社会面清零",
+      "onboard_time": 1660007973,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300360,
+      "num": 300360,
+      "word": "伊宁市新增119例无症状感染者",
+      "onboard_time": 1660006896,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298755,
@@ -275,12 +467,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297139,
+      "num": 297139,
+      "word": "没点文化看不懂表情包了",
+      "onboard_time": 1660004554,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 291466,
+      "num": 1538910,
+      "word": "一条毛巾缓解腰酸背痛",
+      "onboard_time": 1660001786,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288480,
+      "num": 288480,
+      "word": "台风",
+      "onboard_time": 1660008454,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288073,
       "num": 288073,
       "word": "打工人带饭四个月的变化",
       "onboard_time": 1659967119,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277073,
+      "num": 277073,
+      "word": "北京新增9例境外输入确诊",
+      "onboard_time": 1660007376,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264691,
+      "num": 264691,
+      "word": "熬夜不推荐喝功能饮料",
+      "onboard_time": 1660004016,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 263365,
@@ -307,11 +539,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238003,
-      "num": 238003,
-      "word": "张家界自行车赛跌落骑手已去世",
-      "onboard_time": 1660001422,
-      "rank": 24,
+      "raw_hot": 244013,
+      "num": 244013,
+      "word": "8月8日增399例确诊病例",
+      "onboard_time": 1660010193,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233019,
+      "num": 233019,
+      "word": "女子停车被挡指挥同伴强行撞开",
+      "onboard_time": 1660001124,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -328,6 +568,22 @@
       "word": "拉萨发现18例阳性",
       "onboard_time": 1659956254,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222850,
+      "num": 222850,
+      "word": "杜兰特再次提出交易申请",
+      "onboard_time": 1660003051,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218628,
+      "num": 218628,
+      "word": "韩国暴雨已致7死9伤6人失踪",
+      "onboard_time": 1660010977,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -355,12 +611,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185940,
-      "num": 185940,
-      "word": "女子停车被挡指挥同伴强行撞开",
-      "onboard_time": 1660001124,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 194457,
+      "num": 194457,
+      "word": "周鸿祎称某超级大国曾入侵360没成功",
+      "onboard_time": 1660002685,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 187045,
+      "num": 187045,
+      "word": "虞书欣王鹤棣渡气吻",
+      "onboard_time": 1660010676,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 185326,
@@ -369,6 +633,14 @@
       "onboard_time": 1659960335,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184187,
+      "num": 184187,
+      "word": "林英雄 收入",
+      "onboard_time": 1660011094,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 182188,
@@ -497,14 +769,6 @@
       "onboard_time": 1659958234,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 98557,
-      "num": 98557,
-      "word": "一条毛巾缓解腰酸背痛",
-      "onboard_time": 1660001786,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 98474,
