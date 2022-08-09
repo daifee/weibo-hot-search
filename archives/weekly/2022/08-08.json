@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660034544633,
+  "endTime": 1660064038120,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1787805,
+      "num": 1787805,
+      "word": "拜登正式签署芯片法案",
+      "onboard_time": 1660060651,
+      "rank": 0,
+      "category": "科技,国外要闻"
+    },
+    {
       "raw_hot": 1781962,
       "num": 1781962,
       "word": "五哈第三季拟邀嘉宾",
@@ -289,6 +297,14 @@
       "onboard_time": 1660013553,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1683290,
+      "num": 1683290,
+      "word": "蔡徐坤工作室发文回应",
+      "onboard_time": 1660056820,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1682421,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107772,
+      "num": 1107772,
+      "word": "被Wendy笑死",
+      "onboard_time": 1660057180,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1103535,
       "num": 1103535,
       "word": "关晓彤和张继科比赛颠球",
@@ -633,6 +657,14 @@
       "onboard_time": 1659999922,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072016,
+      "num": 1072016,
+      "word": "荆门一中学教师被指街头猥亵女子",
+      "onboard_time": 1660059275,
+      "rank": 4,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 1068306,
@@ -1011,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755287,
+      "num": 755287,
+      "word": "80后女正厅段颖被查",
+      "onboard_time": 1660058739,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753967,
       "num": 753967,
       "word": "求赵今麦郭俊辰三搭",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1659929939,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722902,
+      "num": 722902,
+      "word": "张家界坠亡女骑手丈夫发声",
+      "onboard_time": 1660053159,
+      "rank": 6,
+      "category": "社会负面"
     },
     {
       "raw_hot": 716851,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1659887011,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 680845,
+      "num": 680845,
+      "word": "名创优品",
+      "onboard_time": 1660045055,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680491,
@@ -1299,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 620134,
+      "num": 620134,
+      "word": "电视剧男主为什么都爱姓顾",
+      "onboard_time": 1660049320,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611434,
       "num": 611434,
       "word": "福建男女平均身高出炉",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1660024592,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 585025,
+      "num": 526407,
+      "word": "赵奕欢说我不想有一个包贝尔",
+      "onboard_time": 1660052620,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 582670,
@@ -1507,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534308,
+      "num": 534308,
+      "word": "名创优品致歉声明",
+      "onboard_time": 1660057300,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 533648,
       "num": 533648,
       "word": "香港宣布缩短酒店隔离时间",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1659925061,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 515049,
+      "num": 515049,
+      "word": "王栎鑫眼睛肿成蛤蟆",
+      "onboard_time": 1660058435,
+      "rank": 11,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 512591,
@@ -2027,6 +2115,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 425024,
+      "num": 425024,
+      "word": "中行回应部分用户提现失败",
+      "onboard_time": 1660058259,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 424373,
       "num": 318172,
       "word": "张泽禹新歌毕业",
@@ -2243,6 +2339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382307,
+      "num": 382307,
+      "word": "沉香如屑 猫眼",
+      "onboard_time": 1660058018,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380499,
       "num": 335997,
       "word": "丁程鑫考驾照vlog",
@@ -2403,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367488,
+      "num": 367488,
+      "word": "水谷隼感染新冠",
+      "onboard_time": 1660057478,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 366916,
       "num": 313241,
       "word": "娜扎直播生图",
@@ -2513,6 +2625,14 @@
       "onboard_time": 1660015174,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353033,
+      "num": 353033,
+      "word": "00后女孩给离世父母发消息分享生活",
+      "onboard_time": 1660062568,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347989,
@@ -2867,6 +2987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306515,
+      "num": 306515,
+      "word": "社区开展好媳妇为婆婆洗脚活动",
+      "onboard_time": 1660049559,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306357,
       "num": 306357,
       "word": "虞书欣苍兰诀片场花絮照",
@@ -3195,6 +3323,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 265735,
+      "num": 231275,
+      "word": "刘涛刘宇宁新剧撑伞氛围感",
+      "onboard_time": 1660055562,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265717,
       "num": 265717,
       "word": "杨紫画的唐周",
@@ -3353,6 +3489,14 @@
       "onboard_time": 1660022076,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246898,
+      "num": 246898,
+      "word": "名创优品分不清旗袍和艺妓服饰",
+      "onboard_time": 1660057001,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 245875,
@@ -3563,12 +3707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231833,
+      "num": 231833,
+      "word": "美国中情局称将更加关注中国事务",
+      "onboard_time": 1660046972,
+      "rank": 19,
+      "category": "国内要闻,国外要闻"
+    },
+    {
       "raw_hot": 231381,
       "num": 231381,
       "word": "杨超越独竹漂少女",
       "onboard_time": 1659921210,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230648,
+      "num": 230648,
+      "word": "一层三户分别住着海军陆军武警",
+      "onboard_time": 1660055741,
+      "rank": 22,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 229698,
@@ -3723,12 +3883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217379,
+      "num": 217379,
+      "word": "南昌每5套房就有1套空着",
+      "onboard_time": 1660048115,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 216701,
       "num": 216701,
       "word": "被蚊子叮咬后起水疱患虫咬性皮炎",
       "onboard_time": 1659928198,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216167,
+      "num": 216167,
+      "word": "程家被押入大牢",
+      "onboard_time": 1660052077,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 214025,
@@ -3867,6 +4043,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190868,
+      "num": 154033,
+      "word": "今晚凌不疑一路打到御史台",
+      "onboard_time": 1660054423,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190478,
+      "num": 153257,
+      "word": "俞灏明姚政等一个出场BGM",
+      "onboard_time": 1660057001,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189484,
+      "num": 189484,
+      "word": "芯片大基金公司三名高管被查",
+      "onboard_time": 1660051659,
+      "rank": 25,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 189041,
       "num": 189041,
       "word": "阿维塔发布会",
@@ -3904,6 +4104,22 @@
       "word": "虞书欣王鹤棣渡气吻",
       "onboard_time": 1660010676,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185018,
+      "num": 151609,
+      "word": "苍兰诀登顶猫眼热度榜",
+      "onboard_time": 1660059637,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185003,
+      "num": 151108,
+      "word": "赵露思雪中氛围感",
+      "onboard_time": 1660056342,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -3947,6 +4163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171825,
+      "num": 171825,
+      "word": "江苏一运猪车起火秒变烤箱",
+      "onboard_time": 1660055441,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170427,
       "num": 170427,
       "word": "钱三一没毕业",
@@ -3985,6 +4209,14 @@
       "onboard_time": 1659964176,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164893,
+      "num": 126705,
+      "word": "张远碎活",
+      "onboard_time": 1660060593,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 164799,
@@ -4043,6 +4275,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 159102,
+      "num": 159102,
+      "word": "雷军喜欢重金属",
+      "onboard_time": 1660062329,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 156103,
       "num": 156103,
       "word": "71岁越野大爷2年内6次酒驾",
@@ -4075,6 +4315,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151102,
+      "num": 125248,
+      "word": "成毅说和杨紫再次合作很开心",
+      "onboard_time": 1660052979,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150464,
+      "num": 150464,
+      "word": "乘客翻入北京地铁2号线轨道身亡",
+      "onboard_time": 1660037617,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 149885,
+      "num": 154868,
+      "word": "厦门经济型酒店月租金3000元",
+      "onboard_time": 1660049079,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 149759,
       "num": 142320,
       "word": "王鹤棣多少有点幽默在身上",
@@ -4091,12 +4355,36 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 146406,
+      "num": 146406,
+      "word": "多地海景房跌成白菜价",
+      "onboard_time": 1660046072,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 144832,
       "num": 144832,
       "word": "BLG对战WE",
       "onboard_time": 1659963396,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141961,
+      "num": 141961,
+      "word": "TES 下路",
+      "onboard_time": 1660050816,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141958,
+      "num": 141958,
+      "word": "美军里根号航母再次掉头行驶",
+      "onboard_time": 1660038033,
+      "rank": 37,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 140207,
@@ -4137,6 +4425,14 @@
       "onboard_time": 1659870453,
       "rank": 44,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 137123,
+      "num": 137123,
+      "word": "有些狗是真没把自己当成狗",
+      "onboard_time": 1660048899,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 133831,
@@ -4187,6 +4483,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128725,
+      "num": 128725,
+      "word": "东部战区公布运油20空中加油画面",
+      "onboard_time": 1660046731,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 127067,
       "num": 127067,
       "word": "许凯万鹏同框路透",
@@ -4235,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122411,
+      "num": 122411,
+      "word": "这样洗头发终于不油了",
+      "onboard_time": 1660039716,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121973,
       "num": 121973,
       "word": "清融不知火舞MVP",
@@ -4251,12 +4563,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117955,
+      "num": 117955,
+      "word": "鼻炎患者有多难",
+      "onboard_time": 1660053522,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113137,
       "num": 113137,
       "word": "马龙晒健身日常",
       "onboard_time": 1659975632,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113074,
+      "num": 113074,
+      "word": "小胖猫真的太可爱了",
+      "onboard_time": 1660057659,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 111818,
@@ -4267,6 +4595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110892,
+      "num": 110892,
+      "word": "建议夏天多生产这种被子",
+      "onboard_time": 1660054304,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109841,
       "num": 109841,
       "word": "汪苏泷说社交无秘诀说话凭直觉",
@@ -4275,12 +4611,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109094,
+      "num": 109094,
+      "word": "1600年前的匈奴都城即将重现",
+      "onboard_time": 1660052560,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105406,
+      "num": 105406,
+      "word": "警方通报建德春江明月小区1死1伤",
+      "onboard_time": 1660051177,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 104710,
+      "num": 104710,
+      "word": "女子微整形失败10个月没敢出门",
+      "onboard_time": 1660042175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104239,
       "num": 104239,
       "word": "秋天的第一份祝福",
       "onboard_time": 1659885213,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 102926,
+      "num": 102926,
+      "word": "LPL",
+      "onboard_time": 1660055262,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 100850,
@@ -4321,6 +4689,14 @@
       "onboard_time": 1659984794,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 50458,
+      "num": 1361404,
+      "word": "中国空间站将再添新房间",
+      "onboard_time": 1660034915,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35144,
@@ -4483,6 +4859,9 @@
     },
     {
       "word": "#跟着习主席看世界#"
+    },
+    {
+      "word": "#我国再次成功发射一箭三星#"
     }
   ]
 }
