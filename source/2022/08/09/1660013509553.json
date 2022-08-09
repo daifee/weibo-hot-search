@@ -1,0 +1,410 @@
+{
+  "runTime": 1660013509553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2143216,
+        "num": 2143216,
+        "word": "iPhone电量百分比回来了",
+        "onboard_time": 1660002685,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2071364,
+        "num": 2071364,
+        "word": "FBI突查特朗普海湖庄园",
+        "onboard_time": 1660008271,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 435888,
+        "num": 1552996,
+        "word": "一条毛巾缓解腰酸背痛",
+        "onboard_time": 1660001786,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497612,
+        "num": 1497612,
+        "word": "韩国暴雨已致7死9伤6人失踪",
+        "onboard_time": 1660010977,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254187,
+        "num": 1254187,
+        "word": "王者荣耀 大乔",
+        "onboard_time": 1660008271,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1152467,
+        "num": 1152467,
+        "word": "浙江一地生三孩每月每孩1000元",
+        "onboard_time": 1660008697,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1103535,
+        "num": 1103535,
+        "word": "关晓彤和张继科比赛颠球",
+        "onboard_time": 1660012233,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1079480,
+        "num": 1079480,
+        "word": "iPhone取消Siri语音关机",
+        "onboard_time": 1660007252,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 936120,
+        "num": 936120,
+        "word": "沉香如屑滤镜vs苍兰诀滤镜",
+        "onboard_time": 1660007014,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 677811,
+        "num": 677811,
+        "word": "吴磊叫赵露思小孩",
+        "onboard_time": 1660000461,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1833050,
+        "num": 658726,
+        "word": "王乐天涉嫌性骚扰女性",
+        "onboard_time": 1660011395,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636572,
+        "num": 636572,
+        "word": "1岁女童肚中取出柚子大小畸胎瘤",
+        "onboard_time": 1659971860,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592573,
+        "num": 592573,
+        "word": "厦门疫情防控",
+        "onboard_time": 1660010253,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578505,
+        "num": 578505,
+        "word": "这就是街舞5定档",
+        "onboard_time": 1660011874,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556717,
+        "num": 556717,
+        "word": "教资等20个证书官方查询渠道",
+        "onboard_time": 1660011754,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 513429,
+        "num": 513429,
+        "word": "张家界自行车赛跌落骑手已去世",
+        "onboard_time": 1660001422,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488747,
+        "num": 488747,
+        "word": "海南增300例确诊171例无症状",
+        "onboard_time": 1660009235,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477786,
+        "num": 477786,
+        "word": "婚车公司拒吃盒饭要求新娘备酒席",
+        "onboard_time": 1659972637,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456200,
+        "num": 456200,
+        "word": "再也不想去水上乐园了",
+        "onboard_time": 1660006415,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 438574,
+        "num": 438574,
+        "word": "布达拉宫暂停对外开放",
+        "onboard_time": 1660011333,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 508040,
+        "num": 435385,
+        "word": "王栎鑫 你想转就转不要往回找补",
+        "onboard_time": 1659969100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426766,
+        "num": 426766,
+        "word": "男老师连摔带爬救落水女童",
+        "onboard_time": 1660011275,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 419728,
+        "num": 419728,
+        "word": "郸城警方通报男子持刀砍人事件",
+        "onboard_time": 1660008157,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 399487,
+        "num": 399487,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1660002148,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396605,
+        "num": 396605,
+        "word": "父母犯罪对孩子有什么影响",
+        "onboard_time": 1660011333,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360889,
+        "num": 360889,
+        "word": "新疆新增146例无症状",
+        "onboard_time": 1660006478,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340632,
+        "num": 340632,
+        "word": "追着彩虹的我们定档0816",
+        "onboard_time": 1660012655,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326540,
+        "num": 326540,
+        "word": "解放军台海演训激发年轻人从军热情",
+        "onboard_time": 1659987432,
+        "rank": 27,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 321447,
+        "num": 321447,
+        "word": "油价或迎年内第五次下调",
+        "onboard_time": 1660006054,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 318396,
+        "num": 318396,
+        "word": "直击韩国暴雨一线",
+        "onboard_time": 1660012414,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312703,
+        "num": 312703,
+        "word": "林英雄 收入",
+        "onboard_time": 1660011094,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299687,
+        "num": 299687,
+        "word": "台风",
+        "onboard_time": 1660008454,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298156,
+        "num": 298156,
+        "word": "萌娃买甜筒连拿2个壳被逗哭躺地",
+        "onboard_time": 1660012115,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276659,
+        "num": 276659,
+        "word": "沼泽深处的女孩确认引进",
+        "onboard_time": 1660010316,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271810,
+        "num": 271810,
+        "word": "海南8月12日前实现社会面清零",
+        "onboard_time": 1660007973,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263022,
+        "num": 263022,
+        "word": "月升沧海",
+        "onboard_time": 1660009534,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255650,
+        "num": 255650,
+        "word": "一句要回家父母得忙活多久",
+        "onboard_time": 1660002629,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 251315,
+        "num": 251315,
+        "word": "没点文化看不懂表情包了",
+        "onboard_time": 1660004554,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242419,
+        "num": 242419,
+        "word": "民警跟着亚洲象抓获偷渡嫌疑人",
+        "onboard_time": 1660011275,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232480,
+        "num": 232480,
+        "word": "广州全日制本科生参保即可落户",
+        "onboard_time": 1660013254,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 227789,
+        "num": 227789,
+        "word": "帮闺蜜拍能瞒天过海的照片",
+        "onboard_time": 1660012593,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211683,
+        "num": 211683,
+        "word": "官方通报幼儿园被曝使用生蛆淋巴肉",
+        "onboard_time": 1659983234,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207511,
+        "num": 207511,
+        "word": "不熬夜才能避免熬夜伤害",
+        "onboard_time": 1660013135,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205574,
+        "num": 205574,
+        "word": "骗子将诈骗电话打到反诈中心",
+        "onboard_time": 1660012835,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201262,
+        "num": 201262,
+        "word": "阳光玫瑰价格大跳水",
+        "onboard_time": 1659965317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198994,
+        "num": 198994,
+        "word": "瑞幸发布2022年第二季度财报",
+        "onboard_time": 1660006116,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190076,
+        "num": 190076,
+        "word": "莫斯科交易所暂停日元相关外汇交易",
+        "onboard_time": 1660004374,
+        "rank": 46,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 181157,
+        "num": 181157,
+        "word": "伊宁市新增119例无症状感染者",
+        "onboard_time": 1660006896,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180524,
+        "num": 180524,
+        "word": "2岁女童从22楼装修工地坠落幸存",
+        "onboard_time": 1659972700,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171284,
+        "num": 171284,
+        "word": "中方坚决反对给一个中国原则加前后缀",
+        "onboard_time": 1659970060,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运史上首套动态体育图标发布#"
+    }
+  }
+}
