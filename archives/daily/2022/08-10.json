@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660065795488,
+  "endTime": 1660066771257,
   "band_list": [
     {
       "raw_hot": 1787805,
@@ -323,20 +323,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131553,
+      "num": 131553,
+      "word": "男子进店推销无果后跪地不起",
+      "onboard_time": 1660064242,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128725,
       "num": 128725,
       "word": "东部战区公布运油20空中加油画面",
       "onboard_time": 1660046731,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 127060,
-      "num": 127060,
-      "word": "男子进店推销无果后跪地不起",
-      "onboard_time": 1660064242,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125859,
@@ -371,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117753,
+      "num": 117753,
+      "word": "女子微整形失败10个月没敢出门",
+      "onboard_time": 1660042175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113074,
       "num": 113074,
       "word": "小胖猫真的太可爱了",
       "onboard_time": 1660057659,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112563,
-      "num": 112563,
-      "word": "女子微整形失败10个月没敢出门",
-      "onboard_time": 1660042175,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110892,
@@ -433,11 +433,22 @@
       "onboard_time": 1660034915,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46288,
+      "num": 46288,
+      "word": "高温作业工人死在出租屋获赔8.3万",
+      "onboard_time": 1660066458,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#我国再次成功发射一箭三星#"
+    },
+    {
+      "word": "#促进各民族像石榴籽一样紧紧抱在一起#"
     }
   ]
 }
