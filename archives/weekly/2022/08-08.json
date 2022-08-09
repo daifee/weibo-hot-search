@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660066771257,
+  "endTime": 1660069573114,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -4363,6 +4363,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 145034,
+      "num": 145034,
+      "word": "高温作业工人死在出租屋获赔8.3万",
+      "onboard_time": 1660066458,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144832,
       "num": 144832,
       "word": "BLG对战WE",
@@ -4707,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70256,
+      "num": 70256,
+      "word": "华晨宇神树 物理降温",
+      "onboard_time": 1660068257,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 60877,
       "num": 60877,
       "word": "西汉姆联vs曼城",
@@ -4723,19 +4739,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51178,
+      "num": 51178,
+      "word": "8旬老人因一道算术题起诉儿子",
+      "onboard_time": 1660068677,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 50458,
       "num": 1361404,
       "word": "中国空间站将再添新房间",
       "onboard_time": 1660034915,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46288,
-      "num": 46288,
-      "word": "高温作业工人死在出租屋获赔8.3万",
-      "onboard_time": 1660066458,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
