@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660072932271,
+  "endTime": 1660073807447,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -21195,6 +21195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46058,
+      "num": 19294,
+      "word": "Billboard首封预告是王嘉尔吧",
+      "onboard_time": 1660073773,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 45338,
       "num": 480116,
       "word": "共同致敬人民子弟兵",
@@ -21209,6 +21217,14 @@
       "onboard_time": 1659337229,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44037,
+      "num": 43321,
+      "word": "乃万喜提驾照",
+      "onboard_time": 1660073232,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 43798,
