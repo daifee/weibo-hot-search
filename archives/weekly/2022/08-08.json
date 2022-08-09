@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660073807447,
+  "endTime": 1660076605908,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -4756,7 +4756,7 @@
     },
     {
       "raw_hot": 46058,
-      "num": 19294,
+      "num": 26403,
       "word": "Billboard首封预告是王嘉尔吧",
       "onboard_time": 1660073773,
       "rank": 47,
@@ -4827,6 +4827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19637,
+      "num": 19080,
+      "word": "李光洁迷失在400多道菜的菜单里",
+      "onboard_time": 1660075572,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19317,
       "num": 19317,
       "word": "明日战记票房两亿",
@@ -4857,6 +4865,14 @@
       "onboard_time": 1659905950,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15773,
+      "num": 15773,
+      "word": "95号汽油喜迎8元时代",
+      "onboard_time": 1660075751,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 13370,
