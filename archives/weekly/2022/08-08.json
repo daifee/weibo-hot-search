@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660146023391,
+  "endTime": 1660149197860,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1483358,
+      "num": 319639,
+      "word": "男子将患精神病女子骗回家强奸",
+      "onboard_time": 1660145795,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1481349,
       "num": 1481349,
       "word": "纸嫁衣",
@@ -689,6 +697,14 @@
       "onboard_time": 1659956434,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1464691,
+      "num": 1464691,
+      "word": "夫妻离婚不争车房只争宠物狗",
+      "onboard_time": 1660146872,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1460400,
@@ -945,6 +961,14 @@
       "onboard_time": 1660008271,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1252371,
+      "num": 1252371,
+      "word": "李龙馥异瞳",
+      "onboard_time": 1660146512,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1246877,
@@ -1467,6 +1491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 911795,
+      "num": 911795,
+      "word": "家中失火30万购房款烧成黑炭",
+      "onboard_time": 1660144533,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905487,
       "num": 905487,
       "word": "长生花好虐",
@@ -1920,6 +1952,14 @@
       "word": "黄晓明新剧瘦了好多",
       "onboard_time": 1659964537,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 700794,
+      "num": 619835,
+      "word": "偷偷藏不住段嘉许的语录",
+      "onboard_time": 1660147950,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -2507,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 559449,
+      "num": 559449,
+      "word": "祖国完全统一进程不可阻挡",
+      "onboard_time": 1660145018,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 557707,
       "num": 412832,
       "word": "蔡徐坤工作室律师声明",
@@ -2769,14 +2817,6 @@
       "onboard_time": 1660019925,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 521560,
-      "num": 521560,
-      "word": "家中失火30万购房款烧成黑炭",
-      "onboard_time": 1660144533,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520285,
@@ -4219,6 +4259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372550,
+      "num": 313944,
+      "word": "长生花 甜",
+      "onboard_time": 1660143278,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372405,
       "num": 372405,
       "word": "西安东汉墓葬发现龙纹铺地砖",
@@ -4825,6 +4873,14 @@
       "onboard_time": 1660028132,
       "rank": 29,
       "category": "科技,国外要闻"
+    },
+    {
+      "raw_hot": 327728,
+      "num": 327728,
+      "word": "猫等这一天很久了",
+      "onboard_time": 1660145494,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 327349,
@@ -5523,14 +5579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276538,
-      "num": 276538,
-      "word": "猫等这一天很久了",
-      "onboard_time": 1660145494,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 275512,
       "num": 275512,
       "word": "eStar晋级世冠正赛",
@@ -5577,6 +5625,14 @@
       "onboard_time": 1659966097,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269811,
+      "num": 198572,
+      "word": "苍兰诀预告",
+      "onboard_time": 1660147769,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 268299,
@@ -5963,14 +6019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243691,
-      "num": 243691,
-      "word": "祖国完全统一进程不可阻挡",
-      "onboard_time": 1660145018,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 242419,
       "num": 242419,
       "word": "民警跟着亚洲象抓获偷渡嫌疑人",
@@ -6081,14 +6129,6 @@
       "onboard_time": 1659947677,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 234095,
-      "num": 196775,
-      "word": "长生花 甜",
-      "onboard_time": 1660143278,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 234048,
@@ -6539,6 +6579,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 199028,
+      "num": 199028,
+      "word": "河南小伙从车工逆袭领衔国家级工作室",
+      "onboard_time": 1660147171,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198268,
+      "num": 198268,
+      "word": "梅陇疫情防控",
+      "onboard_time": 1660148010,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198186,
       "num": 198186,
       "word": "中国足协启动对广东省运会决赛调查",
@@ -6625,14 +6681,6 @@
       "onboard_time": 1660051659,
       "rank": 25,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 189389,
-      "num": 189389,
-      "word": "男子将患精神病女子骗回家强奸",
-      "onboard_time": 1660145795,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 189041,
@@ -6787,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171131,
+      "num": 139745,
+      "word": "武艺小卖部惨遭宋木子合文俊搜刮",
+      "onboard_time": 1660148308,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170427,
       "num": 170427,
       "word": "钱三一没毕业",
@@ -6801,6 +6857,14 @@
       "onboard_time": 1659942876,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169309,
+      "num": 138922,
+      "word": "王鹤棣好帅",
+      "onboard_time": 1660146272,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 168627,
@@ -7275,6 +7339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108745,
+      "num": 108745,
+      "word": "研究发现缺觉的人胳膊大腿更粗",
+      "onboard_time": 1660148608,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105406,
       "num": 105406,
       "word": "警方通报建德春江明月小区1死1伤",
@@ -7313,6 +7385,14 @@
       "onboard_time": 1659994211,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91064,
+      "num": 91064,
+      "word": "曼联球迷计划空场抗议美国老板",
+      "onboard_time": 1660148966,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86320,
