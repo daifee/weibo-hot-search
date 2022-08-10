@@ -1,0 +1,410 @@
+{
+  "runTime": 1660109755217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3246777,
+        "num": 3246777,
+        "word": "27岁小伙已交满15年社保",
+        "onboard_time": 1660102113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2659966,
+        "num": 2659966,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190618,
+        "num": 2227977,
+        "word": "问天第一视角看地球",
+        "onboard_time": 1660096174,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2127236,
+        "num": 2127236,
+        "word": "佩洛西称窜台是遵循拜登政策",
+        "onboard_time": 1660105717,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1829542,
+        "num": 1829542,
+        "word": "名创优品被曝店内不许放中文歌",
+        "onboard_time": 1660104217,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1550192,
+        "num": 1550192,
+        "word": "台湾前途在于国家统一",
+        "onboard_time": 1660098094,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1059959,
+        "num": 1059959,
+        "word": "83所大学取消公共事业管理专业",
+        "onboard_time": 1660101453,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1049994,
+        "num": 1049994,
+        "word": "为什么上午不能发工资",
+        "onboard_time": 1660101214,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 901880,
+        "num": 901880,
+        "word": "偷偷藏不住延后开机",
+        "onboard_time": 1660105180,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765057,
+        "num": 765057,
+        "word": "王鹤棣帮虞书欣挡镜头",
+        "onboard_time": 1660103557,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760938,
+        "num": 760938,
+        "word": "丁香园",
+        "onboard_time": 1660106740,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725976,
+        "num": 725976,
+        "word": "中国人骨子里的盖被子基因",
+        "onboard_time": 1660099352,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 709756,
+        "num": 709756,
+        "word": "粉丝曝曾替SNH48前成员祁静付违约金",
+        "onboard_time": 1660106982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701957,
+        "num": 701957,
+        "word": "向前冲冰箱告急",
+        "onboard_time": 1660107340,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698119,
+        "num": 698119,
+        "word": "对台独分子杨智渊变更刑事强制措施",
+        "onboard_time": 1660106501,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 686854,
+        "num": 686854,
+        "word": "谭松韵说亲爱的李尖尖想她",
+        "onboard_time": 1660103677,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668743,
+        "num": 668743,
+        "word": "马斯克套现近68.9亿美元",
+        "onboard_time": 1660105239,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 504753,
+        "num": 504753,
+        "word": "密逃这周有杨幂周笔畅",
+        "onboard_time": 1660103919,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489096,
+        "num": 489096,
+        "word": "美芯片股集体崩了",
+        "onboard_time": 1660103378,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 481827,
+        "num": 481827,
+        "word": "律师称活埋案嫌犯满12岁需承担刑责",
+        "onboard_time": 1660099414,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1596522,
+        "num": 463311,
+        "word": "刘畊宏回乡拍全家福",
+        "onboard_time": 1660107399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432474,
+        "num": 432474,
+        "word": "江疏影欢乐颂3生化研究员造型",
+        "onboard_time": 1660107580,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428299,
+        "num": 428299,
+        "word": "北京电影节",
+        "onboard_time": 1660109016,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413758,
+        "num": 413758,
+        "word": "回形针",
+        "onboard_time": 1660107697,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 407088,
+        "num": 407088,
+        "word": "乌停止俄石油过境",
+        "onboard_time": 1660104818,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 400157,
+        "num": 400157,
+        "word": "2女子为逃离家暴离家出走后重婚",
+        "onboard_time": 1660096833,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380614,
+        "num": 380614,
+        "word": "国产手机屏幕为何越来越受欢迎",
+        "onboard_time": 1660107399,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 377684,
+        "num": 377684,
+        "word": "非和平方式将是不得已情况下做出的最后选择",
+        "onboard_time": 1660102774,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 359516,
+        "num": 359516,
+        "word": "羽生结弦直播",
+        "onboard_time": 1660101755,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350702,
+        "num": 350702,
+        "word": "做堂堂正正中国人",
+        "onboard_time": 1660108176,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 417604,
+        "num": 339078,
+        "word": "赖美云落水",
+        "onboard_time": 1660109496,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375107,
+        "num": 338765,
+        "word": "张新成发文感谢裴之和爸爸",
+        "onboard_time": 1660109254,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353879,
+        "num": 331500,
+        "word": "月升沧海这两集封神",
+        "onboard_time": 1660097794,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319824,
+        "num": 319824,
+        "word": "男子拖欠民工8万被戴手铐妻子急了",
+        "onboard_time": 1660096473,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353531,
+        "num": 310564,
+        "word": "王梓薇演技",
+        "onboard_time": 1660109615,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334105,
+        "num": 309431,
+        "word": "张若昀密逃4天使学园上高清剧照",
+        "onboard_time": 1660103677,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292438,
+        "num": 292438,
+        "word": "祖国完全统一的历史任务一定要实现",
+        "onboard_time": 1660107160,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 273952,
+        "num": 273952,
+        "word": "实地打卡台北山东水饺馆",
+        "onboard_time": 1660102415,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 270970,
+        "num": 270970,
+        "word": "7年前老电脑为何能处理上亿数据",
+        "onboard_time": 1660104396,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 267216,
+        "num": 267216,
+        "word": "强控制欲和完全放养都是极端教育",
+        "onboard_time": 1660109375,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 326971,
+        "num": 265175,
+        "word": "张杰发长文纪念逆战十周年",
+        "onboard_time": 1660100732,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330615,
+        "num": 261423,
+        "word": "怦然心动20岁",
+        "onboard_time": 1660108956,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252945,
+        "num": 252945,
+        "word": "降租无果解约后租客将屋内喷满油漆",
+        "onboard_time": 1660102472,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251094,
+        "num": 251094,
+        "word": "父亲双腿残疾放弃治疗救患癌儿子",
+        "onboard_time": 1660107517,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249938,
+        "num": 249938,
+        "word": "KPL开启线下场",
+        "onboard_time": 1660109133,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246807,
+        "num": 246807,
+        "word": "手办也有命苦的",
+        "onboard_time": 1660106081,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219844,
+        "num": 219844,
+        "word": "南京9天155人因中暑打120",
+        "onboard_time": 1660097313,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208221,
+        "num": 208221,
+        "word": "易建联20年职业生涯有多拼",
+        "onboard_time": 1660103137,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205610,
+        "num": 205610,
+        "word": "海南增285例确诊285例无症状",
+        "onboard_time": 1660095811,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191261,
+        "num": 191261,
+        "word": "马斯克回应套现465亿元",
+        "onboard_time": 1660108956,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进各民族像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}

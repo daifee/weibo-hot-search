@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660108801179,
+  "endTime": 1660109755217,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1451,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2659966,
+      "num": 2659966,
+      "word": "丁香医生",
+      "onboard_time": 1660106560,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2650229,
       "num": 2650229,
       "word": "环岛六大区域演训行动开始",
@@ -2107,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2127236,
+      "num": 2127236,
+      "word": "佩洛西称窜台是遵循拜登政策",
+      "onboard_time": 1660105717,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2125307,
       "num": 2125307,
       "word": "VaVa",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1659596798,
       "rank": 21,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 2096197,
-      "num": 2096197,
-      "word": "丁香医生",
-      "onboard_time": 1660106560,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2088221,
@@ -3777,14 +3785,6 @@
       "onboard_time": 1659757357,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1354643,
-      "num": 1354643,
-      "word": "佩洛西称窜台是遵循拜登政策",
-      "onboard_time": 1660105717,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1352403,
@@ -7643,6 +7643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 701957,
+      "num": 701957,
+      "word": "向前冲冰箱告急",
+      "onboard_time": 1660107340,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700878,
       "num": 589707,
       "word": "黄晓明新剧瘦了好多",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1660105239,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 698119,
+      "num": 698119,
+      "word": "对台独分子杨智渊变更刑事强制措施",
+      "onboard_time": 1660106501,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 698112,
@@ -8955,14 +8971,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 591891,
-      "num": 591891,
-      "word": "向前冲冰箱告急",
-      "onboard_time": 1660107340,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 591834,
       "num": 591834,
       "word": "光遇",
@@ -9625,14 +9633,6 @@
       "onboard_time": 1659584079,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 551480,
-      "num": 551480,
-      "word": "对台独分子杨智渊变更刑事强制措施",
-      "onboard_time": 1660106501,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 551312,
@@ -12483,6 +12483,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 432474,
+      "num": 432474,
+      "word": "江疏影欢乐颂3生化研究员造型",
+      "onboard_time": 1660107580,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "iPhone14不再提供粉色",
@@ -12561,6 +12569,14 @@
       "onboard_time": 1660003413,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 428299,
+      "num": 428299,
+      "word": "北京电影节",
+      "onboard_time": 1660109016,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 428292,
@@ -12915,6 +12931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417604,
+      "num": 339078,
+      "word": "赖美云落水",
+      "onboard_time": 1660109496,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416937,
       "num": 416937,
       "word": "吴露可逃床咚花絮",
@@ -13017,6 +13041,14 @@
       "onboard_time": 1660029036,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413758,
+      "num": 413758,
+      "word": "回形针",
+      "onboard_time": 1660107697,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 413023,
@@ -14235,6 +14267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375107,
+      "num": 338765,
+      "word": "张新成发文感谢裴之和爸爸",
+      "onboard_time": 1660109254,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375070,
       "num": 311981,
       "word": "时代少年团新歌侠MV预告",
@@ -14537,14 +14577,6 @@
       "onboard_time": 1659945996,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 366277,
-      "num": 366277,
-      "word": "回形针",
-      "onboard_time": 1660107697,
-      "rank": 29,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 366184,
@@ -15027,6 +15059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353531,
+      "num": 310564,
+      "word": "王梓薇演技",
+      "onboard_time": 1660109615,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353530,
       "num": 353530,
       "word": "小鹿是不是也不想努力了",
@@ -15121,6 +15161,14 @@
       "onboard_time": 1659712658,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350702,
+      "num": 350702,
+      "word": "做堂堂正正中国人",
+      "onboard_time": 1660108176,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 350289,
@@ -15409,14 +15457,6 @@
       "onboard_time": 1659858391,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343201,
-      "num": 335481,
-      "word": "江疏影欢乐颂3生化研究员造型",
-      "onboard_time": 1660107580,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 343177,
@@ -17083,14 +17123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297681,
-      "num": 297681,
-      "word": "做堂堂正正中国人",
-      "onboard_time": 1660108176,
-      "rank": 38,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 297556,
       "num": 297556,
       "word": "摘下墨镜的杜富国",
@@ -18091,6 +18123,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 267216,
+      "num": 267216,
+      "word": "强控制欲和完全放养都是极端教育",
+      "onboard_time": 1660109375,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 267189,
       "num": 267189,
       "word": "时代少年团侧颜杀",
@@ -18715,6 +18755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251094,
+      "num": 251094,
+      "word": "父亲双腿残疾放弃治疗救患癌儿子",
+      "onboard_time": 1660107517,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250492,
       "num": 250492,
       "word": "美国芯片法案将带来哪些影响",
@@ -18729,6 +18777,14 @@
       "onboard_time": 1659767791,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249938,
+      "num": 249938,
+      "word": "KPL开启线下场",
+      "onboard_time": 1660109133,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 249515,
@@ -19529,14 +19585,6 @@
       "onboard_time": 1660046972,
       "rank": 19,
       "category": "国内要闻,国外要闻"
-    },
-    {
-      "raw_hot": 231665,
-      "num": 231665,
-      "word": "父亲双腿残疾放弃治疗救患癌儿子",
-      "onboard_time": 1660107517,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231381,
@@ -20761,6 +20809,14 @@
       "onboard_time": 1659655527,
       "rank": 32,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 191261,
+      "num": 191261,
+      "word": "马斯克回应套现465亿元",
+      "onboard_time": 1660108956,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190932,
