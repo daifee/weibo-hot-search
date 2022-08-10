@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660101833577,
+  "endTime": 1660103406739,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2248187,
+      "num": 2248187,
+      "word": "佩洛西把锅甩回拜登",
+      "onboard_time": 1660100135,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2200535,
       "num": 2200535,
       "word": "美海军证实航母舰载战机被大风吹入海里",
@@ -233,6 +241,14 @@
       "onboard_time": 1660007076,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1995185,
+      "num": 848713,
+      "word": "27岁小伙已交满15年社保",
+      "onboard_time": 1660102113,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1975378,
@@ -315,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1787998,
+      "num": 1787998,
+      "word": "律师称活埋案嫌犯满12岁需承担刑责",
+      "onboard_time": 1660099414,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1787805,
       "num": 1787805,
       "word": "拜登正式签署芯片法案",
@@ -369,6 +393,14 @@
       "onboard_time": 1659925494,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1670783,
+      "num": 1670783,
+      "word": "83所大学取消公共事业管理专业",
+      "onboard_time": 1660101453,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1655407,
@@ -449,14 +481,6 @@
       "onboard_time": 1660010977,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1479503,
-      "num": 1479503,
-      "word": "佩洛西把锅甩回拜登",
-      "onboard_time": 1660100135,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1471066,
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1318503,
-      "num": 1318503,
-      "word": "律师称活埋案嫌犯满12岁需承担刑责",
-      "onboard_time": 1660099414,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1300557,
       "num": 1207599,
       "word": "国防部回应取消中美两军三项交往活动",
@@ -681,6 +697,14 @@
       "onboard_time": 1660008697,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1148005,
+      "num": 1148005,
+      "word": "为什么上午不能发工资",
+      "onboard_time": 1660101214,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1142094,
@@ -1219,6 +1243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 741882,
+      "num": 741882,
+      "word": "中国人骨子里的盖被子基因",
+      "onboard_time": 1660099352,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 740501,
+      "num": 740501,
+      "word": "欢乐颂3定档0811",
+      "onboard_time": 1660100615,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740091,
       "num": 740091,
       "word": "电视剧男主为什么都爱姓顾",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1659880833,
       "rank": 10,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 683786,
-      "num": 683786,
-      "word": "欢乐颂3定档0811",
-      "onboard_time": 1660100615,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 682079,
@@ -1523,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 636428,
-      "num": 636428,
-      "word": "中国人骨子里的盖被子基因",
-      "onboard_time": 1660099352,
-      "rank": 20,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1659927131,
       "rank": 15,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 607275,
+      "num": 483427,
+      "word": "羡慕王俊凯粉丝",
+      "onboard_time": 1660102535,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 605070,
@@ -2075,6 +2107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485046,
+      "num": 485046,
+      "word": "怦然2还没收官就开始虐了",
+      "onboard_time": 1660101933,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484453,
       "num": 484453,
       "word": "三亚全域静态管理期间欠费不停供",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1659953916,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457551,
+      "num": 457551,
+      "word": "台湾是中国一部分不容置疑也不容改变",
+      "onboard_time": 1660099593,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 456200,
@@ -2451,6 +2499,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 426223,
+      "num": 426223,
+      "word": "羽生结弦直播",
+      "onboard_time": 1660101755,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425024,
       "num": 425024,
       "word": "中行回应部分用户提现失败",
@@ -2579,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402979,
+      "num": 402979,
+      "word": "Huni退役",
+      "onboard_time": 1660101274,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402830,
       "num": 402830,
       "word": "苹果新iPadPro将配备两个四针接口",
@@ -2587,12 +2651,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 402219,
+      "num": 402219,
+      "word": "非和平方式将是不得已情况下做出的最后选择",
+      "onboard_time": 1660102774,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 401945,
       "num": 401945,
       "word": "感觉被健身房的标语内涵了",
       "onboard_time": 1659928384,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400578,
+      "num": 400578,
+      "word": "以家人之名开播两周年",
+      "onboard_time": 1660103077,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 400535,
@@ -2915,20 +2995,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364999,
+      "num": 364999,
+      "word": "实地打卡台北山东水饺馆",
+      "onboard_time": 1660102415,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 364155,
       "num": 364155,
       "word": "有效缓解偏头痛的办法",
       "onboard_time": 1659949776,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 363797,
-      "num": 363797,
-      "word": "为什么上午不能发工资",
-      "onboard_time": 1660101214,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 363506,
@@ -3035,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352435,
+      "num": 352435,
+      "word": "二十不惑官博发文",
+      "onboard_time": 1660101755,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349492,
       "num": 349492,
       "word": "渤海北部部分海域军事演习",
@@ -3049,6 +3137,14 @@
       "onboard_time": 1659953015,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 347239,
+      "num": 347239,
+      "word": "NCTDREAM 蚕室",
+      "onboard_time": 1660102113,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 347226,
@@ -3140,7 +3236,7 @@
     },
     {
       "raw_hot": 335200,
-      "num": 320278,
+      "num": 332215,
       "word": "胡一天的司徒颜",
       "onboard_time": 1660101214,
       "rank": 31,
@@ -3169,14 +3265,6 @@
       "onboard_time": 1659932765,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332318,
-      "num": 332318,
-      "word": "台湾是中国一部分不容置疑也不容改变",
-      "onboard_time": 1660099593,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 331762,
@@ -3249,6 +3337,14 @@
       "onboard_time": 1660097015,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329719,
+      "num": 329719,
+      "word": "临沭开展全员核酸检测大比武",
+      "onboard_time": 1660101815,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329468,
@@ -3425,6 +3521,14 @@
       "onboard_time": 1659924633,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309794,
+      "num": 296700,
+      "word": "江疏影道不同不妨碍和平相处",
+      "onboard_time": 1660102958,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 309761,
@@ -3779,14 +3883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270143,
-      "num": 270143,
-      "word": "Huni退役",
-      "onboard_time": 1660101274,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 270038,
       "num": 270038,
       "word": "震后5年九寨沟如今有多美",
@@ -3809,14 +3905,6 @@
       "onboard_time": 1660017157,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 267316,
-      "num": 267316,
-      "word": "83所大学取消公共事业管理专业",
-      "onboard_time": 1660101453,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 267219,
@@ -3905,6 +3993,14 @@
       "onboard_time": 1660046072,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 262271,
+      "num": 262271,
+      "word": "易建联20年职业生涯有多拼",
+      "onboard_time": 1660103137,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 261502,
@@ -4467,12 +4563,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 217811,
-      "num": 217811,
-      "word": "羽生结弦直播",
-      "onboard_time": 1660101755,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 217841,
+      "num": 217841,
+      "word": "葡萄说求求你别喊了",
+      "onboard_time": 1660101092,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 217498,
@@ -4499,10 +4595,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216184,
-      "num": 211784,
-      "word": "临沭开展全员核酸检测大比武",
-      "onboard_time": 1660101815,
+      "raw_hot": 216675,
+      "num": 216675,
+      "word": "降租无果解约后租客将屋内喷满油漆",
+      "onboard_time": 1660102472,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -4513,14 +4609,6 @@
       "onboard_time": 1660052077,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215892,
-      "num": 215892,
-      "word": "葡萄说求求你别喊了",
-      "onboard_time": 1660101092,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 215129,
@@ -4537,14 +4625,6 @@
       "onboard_time": 1660031317,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212715,
-      "num": 212715,
-      "word": "二十不惑官博发文",
-      "onboard_time": 1660101755,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 210266,
@@ -4612,7 +4692,7 @@
     },
     {
       "raw_hot": 200824,
-      "num": 200824,
+      "num": 2118294,
       "word": "问天第一视角看地球",
       "onboard_time": 1660096174,
       "rank": 49,
@@ -4665,6 +4745,14 @@
       "onboard_time": 1659924756,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193315,
+      "num": 193315,
+      "word": "美芯片股集体崩了",
+      "onboard_time": 1660103378,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 191723,
@@ -5276,7 +5364,7 @@
     },
     {
       "raw_hot": 116703,
-      "num": 584953,
+      "num": 710813,
       "word": "移动办公的正确打开方式",
       "onboard_time": 1660100434,
       "rank": 14,
