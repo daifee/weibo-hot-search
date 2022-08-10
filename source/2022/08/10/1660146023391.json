@@ -1,0 +1,410 @@
+{
+  "runTime": 1660146023391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2381525,
+        "num": 2381525,
+        "word": "给台湾同胞的一张海报",
+        "onboard_time": 1660129835,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2892168,
+        "num": 2372373,
+        "word": "李泽言",
+        "onboard_time": 1660141415,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81908,
+        "num": 1979224,
+        "word": "我国成功发射一箭十六星",
+        "onboard_time": 1660110812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1834641,
+        "num": 1834641,
+        "word": "5岁女童无鼻梁或基因异常",
+        "onboard_time": 1660143216,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480501,
+        "num": 1480501,
+        "word": "浪姐4网传阵容",
+        "onboard_time": 1660144355,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1334356,
+        "num": 1334356,
+        "word": "女子1月未吃火锅炫2斤羊肉被送医",
+        "onboard_time": 1660139555,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190835,
+        "num": 1190835,
+        "word": "赵露思演技",
+        "onboard_time": 1660142615,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132108,
+        "num": 1132108,
+        "word": "闵行 核酸",
+        "onboard_time": 1660141778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067662,
+        "num": 1067662,
+        "word": "有一种炫富叫山东人的早餐",
+        "onboard_time": 1660142676,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1004320,
+        "num": 1004320,
+        "word": "黄磊说张艺兴是五好学生",
+        "onboard_time": 1660140218,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 894270,
+        "num": 894270,
+        "word": "谢娜曾说包文婧命里缺光头",
+        "onboard_time": 1660142615,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846449,
+        "num": 846449,
+        "word": "独行月球为什么带不活电影院",
+        "onboard_time": 1660133492,
+        "rank": 11,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 763147,
+        "num": 763147,
+        "word": "李汶翰说不能怪内娱没舞台",
+        "onboard_time": 1660144777,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 681412,
+        "num": 681412,
+        "word": "上海疫情防控",
+        "onboard_time": 1660144777,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286016,
+        "num": 672370,
+        "word": "机器人成功救下15岁溺海男孩",
+        "onboard_time": 1660143697,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669370,
+        "num": 669370,
+        "word": "阿迪达斯CEO承认在中国犯了错误",
+        "onboard_time": 1660128876,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658299,
+        "num": 658299,
+        "word": "爸爸带娃玩手机孩子玩排泄物",
+        "onboard_time": 1660129712,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567565,
+        "num": 567565,
+        "word": "男子进化粪池救猪不幸身亡",
+        "onboard_time": 1660127013,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521560,
+        "num": 521560,
+        "word": "家中失火30万购房款烧成黑炭",
+        "onboard_time": 1660144533,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502458,
+        "num": 502458,
+        "word": "千万别再一个人闷头做事了",
+        "onboard_time": 1660135893,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 662560,
+        "num": 491175,
+        "word": "张凌赫 帅",
+        "onboard_time": 1660143756,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479784,
+        "num": 479784,
+        "word": "新疆新增无症状感染者240例",
+        "onboard_time": 1660141179,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467304,
+        "num": 467304,
+        "word": "丁程鑫银幕首秀",
+        "onboard_time": 1660145614,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433369,
+        "num": 433369,
+        "word": "程少商看清太子妃真面目",
+        "onboard_time": 1660135712,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416661,
+        "num": 416661,
+        "word": "苏州疫情防控",
+        "onboard_time": 1660140218,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396005,
+        "num": 396005,
+        "word": "新疆的水果也太便宜了",
+        "onboard_time": 1660144715,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350275,
+        "num": 350275,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291449,
+        "num": 291449,
+        "word": "四川德阳新增本土无症状4例",
+        "onboard_time": 1660143577,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279374,
+        "num": 279374,
+        "word": "别当着小孩的面摘隐形眼镜",
+        "onboard_time": 1660139794,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276754,
+        "num": 276754,
+        "word": "义乌新增21例阳性感染者",
+        "onboard_time": 1660144413,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399543,
+        "num": 276739,
+        "word": "吴磊拍戏现场随时随地健身",
+        "onboard_time": 1660141238,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389716,
+        "num": 276698,
+        "word": "钟辰乐湿发",
+        "onboard_time": 1660145074,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377854,
+        "num": 276643,
+        "word": "二十不惑2闪光女孩版预告",
+        "onboard_time": 1660145852,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331664,
+        "num": 276585,
+        "word": "许凯钟楚曦五分钟亲两次",
+        "onboard_time": 1660138173,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276538,
+        "num": 276538,
+        "word": "猫等这一天很久了",
+        "onboard_time": 1660145494,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243691,
+        "num": 243691,
+        "word": "祖国完全统一进程不可阻挡",
+        "onboard_time": 1660145018,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 235091,
+        "num": 235091,
+        "word": "阿迪一季度大中华区收入大跌35%",
+        "onboard_time": 1660138173,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233029,
+        "num": 233029,
+        "word": "妲己热情桑巴返场",
+        "onboard_time": 1660134991,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222927,
+        "num": 222927,
+        "word": "那一刻我把空调关了",
+        "onboard_time": 1660129594,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220693,
+        "num": 220693,
+        "word": "王毅提出台海局势要警惕三个动向",
+        "onboard_time": 1660131454,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 325355,
+        "num": 215995,
+        "word": "月洋",
+        "onboard_time": 1660141955,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312434,
+        "num": 212809,
+        "word": "虞书欣王鹤棣直播状态",
+        "onboard_time": 1660142915,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200341,
+        "num": 200341,
+        "word": "名创优品签约仪式曾挂日本国旗",
+        "onboard_time": 1660118554,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 234095,
+        "num": 196775,
+        "word": "长生花 甜",
+        "onboard_time": 1660143278,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189389,
+        "num": 189389,
+        "word": "男子将患精神病女子骗回家强奸",
+        "onboard_time": 1660145795,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 186475,
+        "num": 186475,
+        "word": "女生公交遇70岁老人猥亵录视频报警",
+        "onboard_time": 1660121796,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184119,
+        "num": 184119,
+        "word": "军事演训导致海滩大量死鱼系谣言",
+        "onboard_time": 1660123473,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 160722,
+        "num": 160722,
+        "word": "水上无人救生机器人救下溺海男孩",
+        "onboard_time": 1660145735,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151507,
+        "num": 151507,
+        "word": "劳荣枝二哥称就算判死刑也服",
+        "onboard_time": 1660121373,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150845,
+        "num": 150845,
+        "word": "幼儿园伙食丰富如满汉全席",
+        "onboard_time": 1660124557,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学党史#"
+    }
+  }
+}
