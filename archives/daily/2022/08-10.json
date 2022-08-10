@@ -1,7 +1,23 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660103406739,
+  "endTime": 1660105651571,
   "band_list": [
+    {
+      "raw_hot": 4965331,
+      "num": 4965331,
+      "word": "27岁小伙已交满15年社保",
+      "onboard_time": 1660102113,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2665689,
+      "num": 2665689,
+      "word": "台湾前途在于国家统一",
+      "onboard_time": 1660098094,
+      "rank": 1,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 2574174,
       "num": 2574174,
@@ -11,12 +27,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2447540,
-      "num": 2447540,
-      "word": "台湾前途在于国家统一",
-      "onboard_time": 1660098094,
-      "rank": 1,
-      "category": "国内要闻"
+      "raw_hot": 2250173,
+      "num": 2250173,
+      "word": "83所大学取消公共事业管理专业",
+      "onboard_time": 1660101453,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2248187,
@@ -25,14 +41,6 @@
       "onboard_time": 1660100135,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1995185,
-      "num": 848713,
-      "word": "27岁小伙已交满15年社保",
-      "onboard_time": 1660102113,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1908170,
@@ -49,6 +57,14 @@
       "onboard_time": 1660086622,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1816071,
+      "num": 1816071,
+      "word": "为什么上午不能发工资",
+      "onboard_time": 1660101214,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1792848,
@@ -91,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1670783,
-      "num": 1670783,
-      "word": "83所大学取消公共事业管理专业",
-      "onboard_time": 1660101453,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1575584,
       "num": 580581,
       "word": "丈夫不愿生娃妻子起诉离婚",
@@ -129,14 +137,6 @@
       "onboard_time": 1660096833,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1148005,
-      "num": 1148005,
-      "word": "为什么上午不能发工资",
-      "onboard_time": 1660101214,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 1132825,
@@ -179,12 +179,28 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 1047537,
+      "num": 1047537,
+      "word": "名创优品被曝店内不许放中文歌",
+      "onboard_time": 1660104217,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018899,
       "num": 1018899,
       "word": "南京9天155人因中暑打120",
       "onboard_time": 1660097313,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017778,
+      "num": 1017778,
+      "word": "中国人骨子里的盖被子基因",
+      "onboard_time": 1660099352,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 962515,
@@ -195,12 +211,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915328,
+      "num": 915328,
+      "word": "谭松韵说亲爱的李尖尖想她",
+      "onboard_time": 1660103677,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 914201,
+      "num": 914201,
+      "word": "非和平方式将是不得已情况下做出的最后选择",
+      "onboard_time": 1660102774,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 870347,
       "num": 1874895,
       "word": "代替跷二郎腿的坐姿",
       "onboard_time": 1660089753,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842824,
+      "num": 842824,
+      "word": "王鹤棣帮虞书欣挡镜头",
+      "onboard_time": 1660103557,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 821918,
+      "num": 821918,
+      "word": "偷偷藏不住延后开机",
+      "onboard_time": 1660105180,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 806351,
+      "num": 806351,
+      "word": "张若昀密逃4天使学园上高清剧照",
+      "onboard_time": 1660103677,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 787002,
@@ -217,14 +273,6 @@
       "onboard_time": 1660058739,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741882,
-      "num": 741882,
-      "word": "中国人骨子里的盖被子基因",
-      "onboard_time": 1660099352,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 740501,
@@ -275,12 +323,28 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 648713,
+      "num": 648713,
+      "word": "美芯片股集体崩了",
+      "onboard_time": 1660103378,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 648200,
       "num": 648200,
       "word": "95号汽油喜迎8元时代",
       "onboard_time": 1660075751,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 629152,
+      "num": 508073,
+      "word": "密逃这周有杨幂周笔畅",
+      "onboard_time": 1660103919,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 608935,
@@ -292,7 +356,7 @@
     },
     {
       "raw_hot": 607275,
-      "num": 483427,
+      "num": 506784,
       "word": "羡慕王俊凯粉丝",
       "onboard_time": 1660102535,
       "rank": 20,
@@ -339,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570648,
+      "num": 570648,
+      "word": "实地打卡台北山东水饺馆",
+      "onboard_time": 1660102415,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 560167,
       "num": 560167,
       "word": "新疆增122例无症状",
       "onboard_time": 1660093352,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557707,
+      "num": 353602,
+      "word": "蔡徐坤工作室律师声明",
+      "onboard_time": 1660104518,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 552530,
@@ -459,12 +539,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 454915,
+      "num": 352945,
+      "word": "宋亚轩新歌侠冒个泡",
+      "onboard_time": 1660105478,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445011,
       "num": 445011,
       "word": "这家企业把大海搬进工厂了",
       "onboard_time": 1660099834,
       "rank": 28,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 440640,
+      "num": 440640,
+      "word": "易建联20年职业生涯有多拼",
+      "onboard_time": 1660103137,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 429347,
@@ -523,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 402219,
-      "num": 402219,
-      "word": "非和平方式将是不得已情况下做出的最后选择",
-      "onboard_time": 1660102774,
-      "rank": 27,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 400578,
       "num": 400578,
       "word": "以家人之名开播两周年",
@@ -571,12 +659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 364999,
-      "num": 364999,
-      "word": "实地打卡台北山东水饺馆",
-      "onboard_time": 1660102415,
-      "rank": 29,
-      "category": "旅游,社会新闻"
+      "raw_hot": 365825,
+      "num": 365825,
+      "word": "降租无果解约后租客将屋内喷满油漆",
+      "onboard_time": 1660102472,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363506,
@@ -651,6 +739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 337731,
+      "num": 337731,
+      "word": "欢乐颂3台词扎心了",
+      "onboard_time": 1660103858,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335200,
       "num": 332215,
       "word": "胡一天的司徒颜",
@@ -689,6 +785,14 @@
       "onboard_time": 1660028496,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326340,
+      "num": 326340,
+      "word": "乌停止俄石油过境",
+      "onboard_time": 1660104818,
+      "rank": 36,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 312928,
@@ -747,6 +851,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 267765,
+      "num": 267765,
+      "word": "7年前老电脑为何能处理上亿数据",
+      "onboard_time": 1660104396,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 267373,
       "num": 231639,
       "word": "苍兰诀",
@@ -769,14 +881,6 @@
       "onboard_time": 1660046072,
       "rank": 35,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 262271,
-      "num": 262271,
-      "word": "易建联20年职业生涯有多拼",
-      "onboard_time": 1660103137,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 261356,
@@ -819,12 +923,52 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 250702,
+      "num": 250702,
+      "word": "女子两年内罩杯从B到Q",
+      "onboard_time": 1660105478,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250492,
+      "num": 250492,
+      "word": "美国芯片法案将带来哪些影响",
+      "onboard_time": 1660104641,
+      "rank": 45,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 245562,
+      "num": 245562,
+      "word": "马斯克套现近68.9亿美元",
+      "onboard_time": 1660105239,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 244398,
       "num": 244398,
       "word": "苍兰诀观后感",
       "onboard_time": 1660093415,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241374,
+      "num": 241374,
+      "word": "穿搭算是被奶奶拿捏住了",
+      "onboard_time": 1660105180,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 233921,
+      "num": 233921,
+      "word": "葡萄说求求你别喊了",
+      "onboard_time": 1660101092,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 232266,
@@ -875,28 +1019,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 217841,
-      "num": 217841,
-      "word": "葡萄说求求你别喊了",
-      "onboard_time": 1660101092,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 217379,
       "num": 217379,
       "word": "南昌每5套房就有1套空着",
       "onboard_time": 1660048115,
       "rank": 23,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 216675,
-      "num": 216675,
-      "word": "降租无果解约后租客将屋内喷满油漆",
-      "onboard_time": 1660102472,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216167,
@@ -915,20 +1043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200824,
-      "num": 2118294,
+      "raw_hot": 204024,
+      "num": 2353272,
       "word": "问天第一视角看地球",
       "onboard_time": 1660096174,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 193315,
-      "num": 193315,
-      "word": "美芯片股集体崩了",
-      "onboard_time": 1660103378,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 190868,

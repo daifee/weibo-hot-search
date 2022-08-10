@@ -1,0 +1,410 @@
+{
+  "runTime": 1660105651571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4965331,
+        "num": 4965331,
+        "word": "27岁小伙已交满15年社保",
+        "onboard_time": 1660102113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2665689,
+        "num": 2665689,
+        "word": "台湾前途在于国家统一",
+        "onboard_time": 1660098094,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 204024,
+        "num": 2353272,
+        "word": "问天第一视角看地球",
+        "onboard_time": 1660096174,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2250173,
+        "num": 2250173,
+        "word": "83所大学取消公共事业管理专业",
+        "onboard_time": 1660101453,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1816071,
+        "num": 1816071,
+        "word": "为什么上午不能发工资",
+        "onboard_time": 1660101214,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1289583,
+        "num": 1289583,
+        "word": "律师称活埋案嫌犯满12岁需承担刑责",
+        "onboard_time": 1660099414,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236768,
+        "num": 1236768,
+        "word": "张杰发长文纪念逆战十周年",
+        "onboard_time": 1660100732,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1047537,
+        "num": 1047537,
+        "word": "名创优品被曝店内不许放中文歌",
+        "onboard_time": 1660104217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017778,
+        "num": 1017778,
+        "word": "中国人骨子里的盖被子基因",
+        "onboard_time": 1660099352,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 990864,
+        "num": 990864,
+        "word": "台湾问题与新时代中国统一事业",
+        "onboard_time": 1660097853,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 915328,
+        "num": 915328,
+        "word": "谭松韵说亲爱的李尖尖想她",
+        "onboard_time": 1660103677,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 914201,
+        "num": 914201,
+        "word": "非和平方式将是不得已情况下做出的最后选择",
+        "onboard_time": 1660102774,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 842824,
+        "num": 842824,
+        "word": "王鹤棣帮虞书欣挡镜头",
+        "onboard_time": 1660103557,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821918,
+        "num": 821918,
+        "word": "偷偷藏不住延后开机",
+        "onboard_time": 1660105180,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 806351,
+        "num": 806351,
+        "word": "张若昀密逃4天使学园上高清剧照",
+        "onboard_time": 1660103677,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649058,
+        "num": 649058,
+        "word": "欢乐颂3定档0811",
+        "onboard_time": 1660100615,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648713,
+        "num": 648713,
+        "word": "美芯片股集体崩了",
+        "onboard_time": 1660103378,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 570648,
+        "num": 570648,
+        "word": "实地打卡台北山东水饺馆",
+        "onboard_time": 1660102415,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 538329,
+        "num": 538329,
+        "word": "2女子为逃离家暴离家出走后重婚",
+        "onboard_time": 1660096833,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509399,
+        "num": 509399,
+        "word": "南京9天155人因中暑打120",
+        "onboard_time": 1660097313,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632092,
+        "num": 508736,
+        "word": "月升沧海这两集封神",
+        "onboard_time": 1660097794,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629152,
+        "num": 508073,
+        "word": "密逃这周有杨幂周笔畅",
+        "onboard_time": 1660103919,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573946,
+        "num": 506784,
+        "word": "羡慕王俊凯粉丝",
+        "onboard_time": 1660102535,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504731,
+        "num": 504731,
+        "word": "男子拖欠民工8万被戴手铐妻子急了",
+        "onboard_time": 1660096473,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440640,
+        "num": 440640,
+        "word": "易建联20年职业生涯有多拼",
+        "onboard_time": 1660103137,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409474,
+        "num": 409474,
+        "word": "羽生结弦直播",
+        "onboard_time": 1660101755,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404275,
+        "num": 404275,
+        "word": "代替跷二郎腿的坐姿",
+        "onboard_time": 1660089753,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404061,
+        "num": 404061,
+        "word": "重庆男子在陕西勇救5人后不幸遇难",
+        "onboard_time": 1660098872,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365825,
+        "num": 365825,
+        "word": "降租无果解约后租客将屋内喷满油漆",
+        "onboard_time": 1660102472,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364750,
+        "num": 364750,
+        "word": "台湾是中国一部分不容置疑也不容改变",
+        "onboard_time": 1660099593,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 557707,
+        "num": 353602,
+        "word": "蔡徐坤工作室律师声明",
+        "onboard_time": 1660104518,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454915,
+        "num": 352945,
+        "word": "宋亚轩新歌侠冒个泡",
+        "onboard_time": 1660105478,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337731,
+        "num": 337731,
+        "word": "欢乐颂3台词扎心了",
+        "onboard_time": 1660103858,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335731,
+        "num": 335731,
+        "word": "苏炳添是苏轼后代",
+        "onboard_time": 1660086622,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331859,
+        "num": 331859,
+        "word": "怦然2还没收官就开始虐了",
+        "onboard_time": 1660101933,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327253,
+        "num": 327253,
+        "word": "Huni退役",
+        "onboard_time": 1660101274,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326340,
+        "num": 326340,
+        "word": "乌停止俄石油过境",
+        "onboard_time": 1660104818,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 297046,
+        "num": 297046,
+        "word": "孙子抢玩具被阻老人尾随1岁娃砸头",
+        "onboard_time": 1660090472,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290967,
+        "num": 290967,
+        "word": "海南增285例确诊285例无症状",
+        "onboard_time": 1660095811,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279875,
+        "num": 279875,
+        "word": "芯片股暴跌",
+        "onboard_time": 1660095032,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307347,
+        "num": 276649,
+        "word": "欧豪吹的不是蜡烛是我的头皮",
+        "onboard_time": 1660098453,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301055,
+        "num": 275646,
+        "word": "民国大侦探今晚开播",
+        "onboard_time": 1660097433,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268436,
+        "num": 268436,
+        "word": "韩教授反击称韩国是日本祖先",
+        "onboard_time": 1660091612,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267765,
+        "num": 267765,
+        "word": "7年前老电脑为何能处理上亿数据",
+        "onboard_time": 1660104396,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 250702,
+        "num": 250702,
+        "word": "女子两年内罩杯从B到Q",
+        "onboard_time": 1660105478,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250492,
+        "num": 250492,
+        "word": "美国芯片法案将带来哪些影响",
+        "onboard_time": 1660104641,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 245562,
+        "num": 245562,
+        "word": "马斯克套现近68.9亿美元",
+        "onboard_time": 1660105239,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 241374,
+        "num": 241374,
+        "word": "穿搭算是被奶奶拿捏住了",
+        "onboard_time": 1660105180,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233921,
+        "num": 233921,
+        "word": "葡萄说求求你别喊了",
+        "onboard_time": 1660101092,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233739,
+        "num": 233739,
+        "word": "分手当天都做了什么",
+        "onboard_time": 1660093593,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进各民族像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
