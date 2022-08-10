@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660138598085,
+  "endTime": 1660139423184,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1059,6 +1059,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3418273,
+      "num": 3418273,
+      "word": "给台湾同胞的一张海报",
+      "onboard_time": 1660129835,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3412023,
       "num": 3412023,
       "word": "佩洛西访韩无礼宾人员接机",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1659536148,
       "rank": 48,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 3356319,
-      "num": 3356319,
-      "word": "给台湾同胞的一张海报",
-      "onboard_time": 1660129835,
-      "rank": 40,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 3348763,
@@ -8187,6 +8187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687494,
+      "num": 687494,
+      "word": "千万别再一个人闷头做事了",
+      "onboard_time": 1660135893,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 687193,
       "num": 687193,
       "word": "华春莹质问美方早知如此何必当初",
@@ -8809,14 +8817,6 @@
       "onboard_time": 1659640694,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 634233,
-      "num": 634233,
-      "word": "千万别再一个人闷头做事了",
-      "onboard_time": 1660135893,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 633705,
@@ -9860,7 +9860,7 @@
     },
     {
       "raw_hot": 565824,
-      "num": 1323620,
+      "num": 1431412,
       "word": "我国成功发射一箭十六星",
       "onboard_time": 1660110812,
       "rank": 16,
@@ -10089,6 +10089,14 @@
       "onboard_time": 1660090293,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 552405,
+      "num": 385534,
+      "word": "俞飞鸿 演技",
+      "onboard_time": 1660137274,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 552091,
@@ -10640,14 +10648,6 @@
       "word": "王俊凯断桥演逃亡少年",
       "onboard_time": 1659521571,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 523879,
-      "num": 385534,
-      "word": "俞飞鸿 演技",
-      "onboard_time": 1660137274,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -12699,12 +12699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446917,
+      "num": 446917,
+      "word": "三星发布会",
+      "onboard_time": 1660137573,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 446840,
       "num": 446840,
       "word": "申留真演唱会solo舞台",
       "onboard_time": 1659790956,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 446825,
+      "num": 359210,
+      "word": "程少商为凌不疑舒展眉头",
+      "onboard_time": 1660135952,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 446783,
@@ -13177,14 +13193,6 @@
       "onboard_time": 1660126235,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431122,
-      "num": 302733,
-      "word": "程少商为凌不疑舒展眉头",
-      "onboard_time": 1660135952,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 431116,
@@ -16331,14 +16339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343655,
-      "num": 343655,
-      "word": "三星发布会",
-      "onboard_time": 1660137573,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 343503,
       "num": 343503,
       "word": "男孩张嘴睡觉贴封口贴后呼吸困难",
@@ -16659,6 +16659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334432,
+      "num": 334432,
+      "word": "收费员一路飞奔跨栏救下小朋友",
+      "onboard_time": 1660135293,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 334281,
       "num": 334281,
       "word": "中国好声音今日开播",
@@ -16737,14 +16745,6 @@
       "onboard_time": 1659334948,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331825,
-      "num": 331825,
-      "word": "收费员一路飞奔跨栏救下小朋友",
-      "onboard_time": 1660135293,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 331822,
@@ -17419,6 +17419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317536,
+      "num": 317536,
+      "word": "LSB战胜T1",
+      "onboard_time": 1660139012,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317288,
       "num": 317288,
       "word": "济南最后一位被掳赴日劳工离世",
@@ -17617,6 +17625,14 @@
       "onboard_time": 1659535190,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311952,
+      "num": 311952,
+      "word": "美国CPI",
+      "onboard_time": 1660138353,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 311647,
@@ -18383,6 +18399,14 @@
       "num": 279256,
       "word": "独行月球金刚鼠专属BGM",
       "onboard_time": 1660015836,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 290736,
+      "num": 265486,
+      "word": "许凯钟楚曦五分钟亲两次",
+      "onboard_time": 1660138173,
       "rank": 40,
       "category": "影视"
     },
@@ -19385,14 +19409,6 @@
       "onboard_time": 1659399698,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261709,
-      "num": 261709,
-      "word": "美国CPI",
-      "onboard_time": 1660138353,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 261502,
@@ -21251,6 +21267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215816,
+      "num": 215816,
+      "word": "阿迪一季度大中华区收入大跌35%",
+      "onboard_time": 1660138173,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215623,
       "num": 215623,
       "word": "河南特岗笔试恢复时间确定",
@@ -21913,14 +21937,6 @@
       "onboard_time": 1659741863,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193307,
-      "num": 193307,
-      "word": "阿迪一季度大中华区收入大跌35%",
-      "onboard_time": 1660138173,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 193208,

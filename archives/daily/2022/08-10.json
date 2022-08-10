@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660138598085,
+  "endTime": 1660139423184,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -43,8 +43,8 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 3356319,
-      "num": 3356319,
+      "raw_hot": 3418273,
+      "num": 3418273,
       "word": "给台湾同胞的一张海报",
       "onboard_time": 1660129835,
       "rank": 40,
@@ -771,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687494,
+      "num": 687494,
+      "word": "千万别再一个人闷头做事了",
+      "onboard_time": 1660135893,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 686878,
       "num": 686878,
       "word": "小白双双be了",
@@ -817,14 +825,6 @@
       "onboard_time": 1660075751,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 634233,
-      "num": 634233,
-      "word": "千万别再一个人闷头做事了",
-      "onboard_time": 1660135893,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 620323,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 565824,
-      "num": 1323620,
+      "num": 1431412,
       "word": "我国成功发射一箭十六星",
       "onboard_time": 1660110812,
       "rank": 16,
@@ -985,6 +985,14 @@
       "onboard_time": 1660090293,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 552405,
+      "num": 385534,
+      "word": "俞飞鸿 演技",
+      "onboard_time": 1660137274,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 552091,
@@ -1057,14 +1065,6 @@
       "onboard_time": 1660123774,
       "rank": 25,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 523879,
-      "num": 385534,
-      "word": "俞飞鸿 演技",
-      "onboard_time": 1660137274,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 520285,
@@ -1260,7 +1260,7 @@
     },
     {
       "raw_hot": 460053,
-      "num": 314542,
+      "num": 316701,
       "word": "胆小鬼",
       "onboard_time": 1660088007,
       "rank": 42,
@@ -1320,6 +1320,22 @@
       "word": "苍兰诀",
       "onboard_time": 1660043973,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 446917,
+      "num": 446917,
+      "word": "三星发布会",
+      "onboard_time": 1660137573,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 446825,
+      "num": 359210,
+      "word": "程少商为凌不疑舒展眉头",
+      "onboard_time": 1660135952,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1393,14 +1409,6 @@
       "onboard_time": 1660126235,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431122,
-      "num": 302733,
-      "word": "程少商为凌不疑舒展眉头",
-      "onboard_time": 1660135952,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 429347,
@@ -1795,14 +1803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 343655,
-      "num": 343655,
-      "word": "三星发布会",
-      "onboard_time": 1660137573,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 342281,
       "num": 342281,
       "word": "KPL",
@@ -1859,8 +1859,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331825,
-      "num": 331825,
+      "raw_hot": 334432,
+      "num": 334432,
       "word": "收费员一路飞奔跨栏救下小朋友",
       "onboard_time": 1660135293,
       "rank": 42,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317536,
+      "num": 317536,
+      "word": "LSB战胜T1",
+      "onboard_time": 1660139012,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316472,
       "num": 316472,
       "word": "海南增285例确诊285例无症状",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1660122813,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311952,
+      "num": 311952,
+      "word": "美国CPI",
+      "onboard_time": 1660138353,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 309794,
@@ -2067,6 +2083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290736,
+      "num": 265486,
+      "word": "许凯钟楚曦五分钟亲两次",
+      "onboard_time": 1660138173,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290196,
       "num": 268668,
       "word": "颜淡唐周相互吃醋",
@@ -2144,14 +2168,6 @@
       "word": "多地海景房跌成白菜价",
       "onboard_time": 1660046072,
       "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 261709,
-      "num": 261709,
-      "word": "美国CPI",
-      "onboard_time": 1660138353,
-      "rank": 38,
       "category": "财经,社会新闻"
     },
     {
@@ -2355,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215816,
+      "num": 215816,
+      "word": "阿迪一季度大中华区收入大跌35%",
+      "onboard_time": 1660138173,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215623,
       "num": 215623,
       "word": "河南特岗笔试恢复时间确定",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1660133553,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193307,
-      "num": 193307,
-      "word": "阿迪一季度大中华区收入大跌35%",
-      "onboard_time": 1660138173,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 191261,
