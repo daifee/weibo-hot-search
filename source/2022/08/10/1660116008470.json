@@ -1,0 +1,410 @@
+{
+  "runTime": 1660116008470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4928313,
+        "num": 4928313,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1935769,
+        "num": 1935769,
+        "word": "27岁小伙已交满15年社保",
+        "onboard_time": 1660102113,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126238,
+        "num": 1839618,
+        "word": "问天第一视角看地球",
+        "onboard_time": 1660096174,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1833296,
+        "num": 1833296,
+        "word": "涉嫌猥亵妇女中学教师被停岗",
+        "onboard_time": 1660113689,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413279,
+        "num": 1413279,
+        "word": "灵超登顶",
+        "onboard_time": 1660114111,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1334124,
+        "num": 1334124,
+        "word": "特朗普呼吁所有爱国美国人为他捐款",
+        "onboard_time": 1660111534,
+        "rank": 5,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 1243683,
+        "num": 1243683,
+        "word": "台湾前途在于国家统一",
+        "onboard_time": 1660098094,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1123498,
+        "num": 1123498,
+        "word": "韩国暴雨已致两名中国公民死亡",
+        "onboard_time": 1660110933,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011992,
+        "num": 1011992,
+        "word": "名创优品被曝店内不许放中文歌",
+        "onboard_time": 1660104217,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990151,
+        "num": 990151,
+        "word": "东部战区",
+        "onboard_time": 1660114952,
+        "rank": 9,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 874833,
+        "num": 874833,
+        "word": "男子微信群里骂人5分钟被拘10日",
+        "onboard_time": 1660114411,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832321,
+        "num": 832321,
+        "word": "王一博把摩托编进街舞5队长大秀",
+        "onboard_time": 1660114952,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579105,
+        "num": 579105,
+        "word": "为什么上午不能发工资",
+        "onboard_time": 1660101214,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575086,
+        "num": 575086,
+        "word": "甜蜜女友竟是同寝抠脚大汉",
+        "onboard_time": 1660112552,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503418,
+        "num": 503418,
+        "word": "我国成功发射一箭十六星",
+        "onboard_time": 1660110812,
+        "rank": 14,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 494943,
+        "num": 494943,
+        "word": "名创优品回应不许放中文歌",
+        "onboard_time": 1660114053,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 470531,
+        "num": 470531,
+        "word": "oner是来批发冰箱的吧",
+        "onboard_time": 1660113153,
+        "rank": 16,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 462614,
+        "num": 462614,
+        "word": "回形针",
+        "onboard_time": 1660107697,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 432909,
+        "num": 432909,
+        "word": "朱开",
+        "onboard_time": 1660111112,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423543,
+        "num": 423543,
+        "word": "赖美云落水",
+        "onboard_time": 1660109496,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2143375,
+        "num": 423534,
+        "word": "哇唧唧哇新签约的男爱豆",
+        "onboard_time": 1660112251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1025219,
+        "num": 422293,
+        "word": "迪丽热巴分享骑车跑步ootd",
+        "onboard_time": 1660115553,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804388,
+        "num": 420261,
+        "word": "杨紫花仙子仿妆",
+        "onboard_time": 1660113933,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544389,
+        "num": 419707,
+        "word": "刘畊宏回乡拍全家福",
+        "onboard_time": 1660107399,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418634,
+        "num": 418634,
+        "word": "官方回应游客赤脚进茶卡盐湖",
+        "onboard_time": 1660112191,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 3444310,
+        "num": 416415,
+        "word": "佩洛西称仍坚持一个中国政策",
+        "onboard_time": 1660112434,
+        "rank": 25,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 410577,
+        "num": 410577,
+        "word": "学者回应网传苏炳添是苏轼后代",
+        "onboard_time": 1660113512,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 394286,
+        "num": 394286,
+        "word": "多地公交站上演望梅止渴",
+        "onboard_time": 1660114836,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392643,
+        "num": 392643,
+        "word": "何洛洛银发太空旅人造型",
+        "onboard_time": 1660115131,
+        "rank": 28,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 360147,
+        "num": 360147,
+        "word": "83所大学取消公共事业管理专业",
+        "onboard_time": 1660101453,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 373566,
+        "num": 349777,
+        "word": "虞书欣王鹤棣苍兰诀咬唇吻剧照",
+        "onboard_time": 1660112552,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333526,
+        "num": 333526,
+        "word": "湖北新增1例确诊24例无症状",
+        "onboard_time": 1660111414,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327519,
+        "num": 327519,
+        "word": "劳荣枝案二审将于8月18号开庭",
+        "onboard_time": 1660112853,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297582,
+        "num": 297582,
+        "word": "向前冲冰箱告急",
+        "onboard_time": 1660107340,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293208,
+        "num": 293208,
+        "word": "二十不惑2有效长大",
+        "onboard_time": 1660114111,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291602,
+        "num": 291602,
+        "word": "57岁外卖大哥边送餐边写作",
+        "onboard_time": 1660112673,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283879,
+        "num": 283879,
+        "word": "多名男子持械进店老板娘制止暴行",
+        "onboard_time": 1660110933,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 282128,
+        "num": 282128,
+        "word": "偷偷藏不住延后开机",
+        "onboard_time": 1660105180,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252898,
+        "num": 252898,
+        "word": "豆瓣崩了",
+        "onboard_time": 1660113689,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 246963,
+        "num": 246963,
+        "word": "马斯克套现近68.9亿美元",
+        "onboard_time": 1660105239,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 274170,
+        "num": 246632,
+        "word": "周震南的三杯鸡只有两杯",
+        "onboard_time": 1660109914,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269536,
+        "num": 246016,
+        "word": "姚政可爱",
+        "onboard_time": 1660111833,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244766,
+        "num": 244766,
+        "word": "南京分批安排滞留海南游客返宁",
+        "onboard_time": 1660114592,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228676,
+        "num": 228676,
+        "word": "中国人骨子里的盖被子基因",
+        "onboard_time": 1660099352,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 223652,
+        "num": 223652,
+        "word": "龙湖",
+        "onboard_time": 1660115732,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222056,
+        "num": 222056,
+        "word": "对台独分子杨智渊变更刑事强制措施",
+        "onboard_time": 1660106501,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 203868,
+        "num": 203868,
+        "word": "中学老师毛笔手书1200份录取书",
+        "onboard_time": 1660115732,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195719,
+        "num": 195719,
+        "word": "祖国完全统一的历史任务一定要实现",
+        "onboard_time": 1660107160,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 195436,
+        "num": 195436,
+        "word": "父亲双腿残疾放弃治疗救患癌儿子",
+        "onboard_time": 1660107517,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187331,
+        "num": 187331,
+        "word": "家长花200万给娃集奥特曼卡没集齐",
+        "onboard_time": 1660115975,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进各民族像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660113987198,
+  "endTime": 1660116008470,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -8,6 +8,14 @@
       "word": "27岁小伙已交满15年社保",
       "onboard_time": 1660102113,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4928313,
+      "num": 4928313,
+      "word": "丁香医生",
+      "onboard_time": 1660106560,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -19,12 +27,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4334465,
-      "num": 4334465,
-      "word": "丁香医生",
-      "onboard_time": 1660106560,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 3444310,
+      "num": 2628880,
+      "word": "佩洛西称仍坚持一个中国政策",
+      "onboard_time": 1660112434,
+      "rank": 22,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 2798962,
@@ -33,14 +41,6 @@
       "onboard_time": 1660098094,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2628880,
-      "num": 2628880,
-      "word": "佩洛西称仍坚持一个中国政策",
-      "onboard_time": 1660112434,
-      "rank": 22,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 2574174,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1833296,
+      "num": 1833296,
+      "word": "涉嫌猥亵妇女中学教师被停岗",
+      "onboard_time": 1660113689,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1816071,
       "num": 1816071,
       "word": "为什么上午不能发工资",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1413279,
+      "num": 1413279,
+      "word": "灵超登顶",
+      "onboard_time": 1660114111,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1396800,
       "num": 1396800,
       "word": "偷偷藏不住延后开机",
@@ -185,6 +201,14 @@
       "onboard_time": 1660103677,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1334124,
+      "num": 1334124,
+      "word": "特朗普呼吁所有爱国美国人为他捐款",
+      "onboard_time": 1660111534,
+      "rank": 23,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 1325975,
@@ -227,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1123498,
+      "num": 1123498,
+      "word": "韩国暴雨已致两名中国公民死亡",
+      "onboard_time": 1660110933,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114770,
       "num": 1114770,
       "word": "月升沧海这两集封神",
@@ -251,12 +283,12 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 1021004,
-      "num": 1021004,
-      "word": "韩国暴雨已致两名中国公民死亡",
-      "onboard_time": 1660110933,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 1025219,
+      "num": 422293,
+      "word": "迪丽热巴分享骑车跑步ootd",
+      "onboard_time": 1660115553,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1018899,
@@ -273,6 +305,14 @@
       "onboard_time": 1660099352,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 990151,
+      "num": 990151,
+      "word": "东部战区",
+      "onboard_time": 1660114952,
+      "rank": 9,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 967157,
@@ -299,6 +339,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 874833,
+      "num": 874833,
+      "word": "男子微信群里骂人5分钟被拘10日",
+      "onboard_time": 1660114411,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870347,
       "num": 1874895,
       "word": "代替跷二郎腿的坐姿",
@@ -315,12 +363,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 831719,
-      "num": 831719,
-      "word": "特朗普呼吁所有爱国美国人为他捐款",
-      "onboard_time": 1660111534,
-      "rank": 23,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 832321,
+      "num": 832321,
+      "word": "王一博把摩托编进街舞5队长大秀",
+      "onboard_time": 1660114952,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 806351,
@@ -329,6 +377,14 @@
       "onboard_time": 1660103677,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804388,
+      "num": 420261,
+      "word": "杨紫花仙子仿妆",
+      "onboard_time": 1660113933,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 787002,
@@ -523,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575086,
+      "num": 575086,
+      "word": "甜蜜女友竟是同寝抠脚大汉",
+      "onboard_time": 1660112552,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570648,
       "num": 570648,
       "word": "实地打卡台北山东水饺馆",
@@ -643,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494943,
+      "num": 494943,
+      "word": "名创优品回应不许放中文歌",
+      "onboard_time": 1660114053,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 490800,
       "num": 490800,
       "word": "苍兰诀微博开分6.9分",
@@ -715,20 +787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470531,
+      "num": 470531,
+      "word": "oner是来批发冰箱的吧",
+      "onboard_time": 1660113153,
+      "rank": 19,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 470325,
       "num": 470325,
       "word": "长沙新增1例外省返长感染者",
       "onboard_time": 1660094671,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469082,
-      "num": 424448,
-      "word": "oner是来批发冰箱的吧",
-      "onboard_time": 1660113153,
-      "rank": 19,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 457551,
@@ -811,6 +883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 418634,
+      "num": 418634,
+      "word": "官方回应游客赤脚进茶卡盐湖",
+      "onboard_time": 1660112191,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 413316,
       "num": 413316,
       "word": "王梓薇演技",
@@ -825,6 +905,14 @@
       "onboard_time": 1660095872,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 410577,
+      "num": 410577,
+      "word": "学者回应网传苏炳添是苏轼后代",
+      "onboard_time": 1660113512,
+      "rank": 43,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 406054,
@@ -875,12 +963,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397225,
-      "num": 397225,
-      "word": "官方回应游客赤脚进茶卡盐湖",
-      "onboard_time": 1660112191,
-      "rank": 38,
-      "category": "社会新闻,旅游"
+      "raw_hot": 394286,
+      "num": 394286,
+      "word": "多地公交站上演望梅止渴",
+      "onboard_time": 1660114836,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392643,
+      "num": 392643,
+      "word": "何洛洛银发太空旅人造型",
+      "onboard_time": 1660115131,
+      "rank": 28,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 384783,
@@ -1011,14 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346247,
-      "num": 346247,
-      "word": "甜蜜女友竟是同寝抠脚大汉",
-      "onboard_time": 1660112552,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341875,
       "num": 326200,
       "word": "北影节公布开幕影片",
@@ -1096,6 +1184,14 @@
       "word": "25岁小伙胸部B罩杯被分手了",
       "onboard_time": 1660028496,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327519,
+      "num": 327519,
+      "word": "劳荣枝案二审将于8月18号开庭",
+      "onboard_time": 1660112853,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293208,
+      "num": 293208,
+      "word": "二十不惑2有效长大",
+      "onboard_time": 1660114111,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291475,
       "num": 291475,
       "word": "刘涛刘宇宁新剧撑伞氛围感",
@@ -1211,14 +1315,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 272460,
-      "num": 272460,
-      "word": "涉嫌猥亵妇女中学教师被停岗",
-      "onboard_time": 1660113689,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267373,
       "num": 231639,
       "word": "苍兰诀",
@@ -1241,14 +1337,6 @@
       "onboard_time": 1660046072,
       "rank": 35,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 262108,
-      "num": 208829,
-      "word": "杨紫花仙子仿妆",
-      "onboard_time": 1660113933,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261356,
@@ -1323,28 +1411,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244766,
+      "num": 244766,
+      "word": "南京分批安排滞留海南游客返宁",
+      "onboard_time": 1660114592,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244398,
       "num": 244398,
       "word": "苍兰诀观后感",
       "onboard_time": 1660093415,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242746,
-      "num": 242746,
-      "word": "学者回应网传苏炳添是苏轼后代",
-      "onboard_time": 1660113512,
-      "rank": 43,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 234346,
-      "num": 234346,
-      "word": "劳荣枝案二审将于8月18号开庭",
-      "onboard_time": 1660112853,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233921,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1660042175,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223652,
+      "num": 223652,
+      "word": "龙湖",
+      "onboard_time": 1660115732,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 219690,
@@ -1443,6 +1531,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 203868,
+      "num": 203868,
+      "word": "中学老师毛笔手书1200份录取书",
+      "onboard_time": 1660115732,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 191261,
       "num": 191261,
       "word": "马斯克回应套现465亿元",
@@ -1473,6 +1569,14 @@
       "onboard_time": 1660051659,
       "rank": 25,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 187331,
+      "num": 187331,
+      "word": "家长花200万给娃集奥特曼卡没集齐",
+      "onboard_time": 1660115975,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 186499,
