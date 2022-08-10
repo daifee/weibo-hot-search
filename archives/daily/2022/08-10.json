@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660120927570,
+  "endTime": 1660123286323,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -33,6 +33,14 @@
       "onboard_time": 1660112434,
       "rank": 22,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 3101741,
+      "num": 3101741,
+      "word": "东部战区",
+      "onboard_time": 1660114952,
+      "rank": 9,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 2896955,
@@ -81,14 +89,6 @@
       "onboard_time": 1660105478,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2216133,
-      "num": 2216133,
-      "word": "东部战区",
-      "onboard_time": 1660114952,
-      "rank": 9,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 2127236,
@@ -195,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1575968,
+      "num": 1575968,
+      "word": "美方挑衅一次中方就坚决斗争一次",
+      "onboard_time": 1660119212,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1575584,
       "num": 580581,
       "word": "丈夫不愿生娃妻子起诉离婚",
       "onboard_time": 1660082654,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1481349,
+      "num": 1481349,
+      "word": "纸嫁衣",
+      "onboard_time": 1660119932,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 1452551,
@@ -265,6 +281,14 @@
       "onboard_time": 1660096833,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1246877,
+      "num": 1246877,
+      "word": "东部战区联合军事行动成功完成各项任务",
+      "onboard_time": 1660120653,
+      "rank": 38,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1207321,
@@ -363,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956382,
+      "num": 956382,
+      "word": "名创优品签约仪式曾挂日本国旗",
+      "onboard_time": 1660118554,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 914201,
       "num": 914201,
       "word": "非和平方式将是不得已情况下做出的最后选择",
       "onboard_time": 1660102774,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 904161,
+      "num": 904161,
+      "word": "女生公交遇70岁老人猥亵录视频报警",
+      "onboard_time": 1660121796,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 870347,
@@ -411,28 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 790030,
-      "num": 790030,
-      "word": "美方挑衅一次中方就坚决斗争一次",
-      "onboard_time": 1660119212,
-      "rank": 27,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 787002,
       "num": 787002,
       "word": "8旬老人因一道算术题起诉儿子",
       "onboard_time": 1660068677,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 783724,
-      "num": 783724,
-      "word": "名创优品签约仪式曾挂日本国旗",
-      "onboard_time": 1660118554,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 782171,
@@ -467,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 750694,
-      "num": 750694,
-      "word": "纸嫁衣",
-      "onboard_time": 1660119932,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 753835,
+      "num": 753835,
+      "word": "热狗接儿子放学遭嫌弃",
+      "onboard_time": 1660118014,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 740501,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688533,
+      "num": 688533,
+      "word": "赵今麦本人和角色反差有多大",
+      "onboard_time": 1660119814,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686878,
       "num": 686878,
       "word": "小白双双be了",
@@ -603,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 639476,
+      "num": 639476,
+      "word": "劳荣枝二哥称就算判死刑也服",
+      "onboard_time": 1660121373,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620323,
       "num": 620323,
       "word": "岳岳登顶",
@@ -640,14 +680,6 @@
       "word": "民国大侦探今晚开播",
       "onboard_time": 1660097433,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 603427,
-      "num": 603427,
-      "word": "赵今麦本人和角色反差有多大",
-      "onboard_time": 1660119814,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -899,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474123,
+      "num": 474123,
+      "word": "范丞丞新剧酒醉撒娇",
+      "onboard_time": 1660122754,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470531,
       "num": 470531,
       "word": "oner是来批发冰箱的吧",
@@ -947,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448381,
+      "num": 448381,
+      "word": "官方通报中学教师街头猥亵女子",
+      "onboard_time": 1660119575,
+      "rank": 39,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 445011,
       "num": 445011,
       "word": "这家企业把大海搬进工厂了",
@@ -977,14 +1025,6 @@
       "onboard_time": 1660114836,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435789,
-      "num": 435789,
-      "word": "热狗接儿子放学遭嫌弃",
-      "onboard_time": 1660118014,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 432474,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396079,
+      "num": 396079,
+      "word": "东部战区将常态组织台海方向战备警巡",
+      "onboard_time": 1660122635,
+      "rank": 24,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 392643,
       "num": 392643,
       "word": "何洛洛银发太空旅人造型",
@@ -1107,12 +1155,28 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 391806,
+      "num": 391806,
+      "word": "外交部回应佩洛西最新言论",
+      "onboard_time": 1660121556,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 384783,
       "num": 384783,
       "word": "湖北新增1例确诊24例无症状",
       "onboard_time": 1660111414,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384035,
+      "num": 384035,
+      "word": "小区群也太有意思了",
+      "onboard_time": 1660120416,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 382653,
@@ -1155,12 +1219,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 368595,
-      "num": 368595,
-      "word": "官方通报中学教师街头猥亵女子",
-      "onboard_time": 1660119575,
-      "rank": 39,
-      "category": "社会负面,教育"
+      "raw_hot": 370384,
+      "num": 370384,
+      "word": "章若楠张婧仪COSMO合体封面",
+      "onboard_time": 1660121013,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367488,
@@ -1187,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360998,
+      "num": 351633,
+      "word": "江疏影窦骁欢乐颂3演cp",
+      "onboard_time": 1660119454,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359886,
       "num": 359886,
       "word": "山东一秒入秋",
@@ -1200,6 +1272,14 @@
       "word": "社区开展好媳妇为婆婆洗脚活动",
       "onboard_time": 1660049559,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359688,
+      "num": 359688,
+      "word": "外卖小哥长期饮料当水喝突发尿毒症",
+      "onboard_time": 1660121433,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1224,14 +1304,6 @@
       "word": "二十不惑官博发文",
       "onboard_time": 1660101755,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 351633,
-      "num": 351633,
-      "word": "江疏影窦骁欢乐颂3演cp",
-      "onboard_time": 1660119454,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -1287,6 +1359,14 @@
       "num": 332215,
       "word": "胡一天的司徒颜",
       "onboard_time": 1660101214,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332544,
+      "num": 332544,
+      "word": "断桥预售破1500万",
+      "onboard_time": 1660123112,
       "rank": 31,
       "category": "影视"
     },
@@ -1361,6 +1441,14 @@
       "onboard_time": 1660095811,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314890,
+      "num": 314890,
+      "word": "王一博刘雨昕韩庚李承铉同框截图",
+      "onboard_time": 1660122813,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 309794,
@@ -1443,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284706,
-      "num": 284706,
-      "word": "小区群也太有意思了",
-      "onboard_time": 1660120416,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280633,
       "num": 280633,
       "word": "8月9日新增本土确诊380例",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1660090293,
       "rank": 38,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 272475,
+      "num": 272475,
+      "word": "成都一男子躺地上晒太阳称太冷",
+      "onboard_time": 1660122394,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267373,
@@ -1579,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239644,
+      "num": 239644,
+      "word": "游客光脚踩进茶卡盐湖拍照",
+      "onboard_time": 1660121253,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 233921,
       "num": 233921,
       "word": "葡萄说求求你别喊了",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1660055741,
       "rank": 22,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 230165,
-      "num": 230165,
-      "word": "东部战区联合军事行动成功完成各项任务",
-      "onboard_time": 1660120653,
-      "rank": 38,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 228547,
@@ -1697,6 +1785,14 @@
       "onboard_time": 1660115732,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 192987,
+      "num": 192987,
+      "word": "19个省市调派1万余名医卫人员支援海南",
+      "onboard_time": 1660123055,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191261,
