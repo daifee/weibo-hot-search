@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660142170608,
+  "endTime": 1660144946641,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1842192,
+      "num": 1842192,
+      "word": "李泽言",
+      "onboard_time": 1660141415,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1833296,
       "num": 1833296,
       "word": "涉嫌猥亵妇女中学教师被停岗",
@@ -283,12 +291,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1460400,
+      "num": 1096749,
+      "word": "山东康养集团 日本养老院",
+      "onboard_time": 1660140877,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1452551,
       "num": 1452551,
       "word": "灵超登顶",
       "onboard_time": 1660114111,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1437601,
+      "num": 1437601,
+      "word": "闵行 核酸",
+      "onboard_time": 1660141778,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1426544,
+      "num": 1426544,
+      "word": "赵露思演技",
+      "onboard_time": 1660142615,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1411535,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 1329535,
-      "num": 785815,
+      "num": 857229,
       "word": "爸爸带娃玩手机孩子玩排泄物",
       "onboard_time": 1660129712,
       "rank": 34,
@@ -475,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1096749,
-      "num": 1096749,
-      "word": "山东康养集团 日本养老院",
-      "onboard_time": 1660140877,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 1105665,
+      "num": 859215,
+      "word": "浪姐4网传阵容",
+      "onboard_time": 1660144355,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1072016,
@@ -529,6 +561,14 @@
       "onboard_time": 1660099352,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 989650,
+      "num": 989650,
+      "word": "5岁女童无鼻梁或基因异常",
+      "onboard_time": 1660143216,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 976482,
@@ -617,6 +657,14 @@
       "onboard_time": 1660106501,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 853876,
+      "num": 853876,
+      "word": "谢娜曾说包文婧命里缺光头",
+      "onboard_time": 1660142615,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 832321,
@@ -763,6 +811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 705972,
+      "num": 705972,
+      "word": "有一种炫富叫山东人的早餐",
+      "onboard_time": 1660142676,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 703062,
       "num": 703062,
       "word": "军事演训导致海滩大量死鱼系谣言",
@@ -801,6 +857,14 @@
       "onboard_time": 1660062568,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691112,
+      "num": 691112,
+      "word": "张凌赫 帅",
+      "onboard_time": 1660143756,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 688533,
@@ -907,20 +971,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595750,
+      "num": 595750,
+      "word": "新疆新增无症状感染者240例",
+      "onboard_time": 1660141179,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595506,
       "num": 595506,
       "word": "重庆男子在陕西勇救5人后不幸遇难",
       "onboard_time": 1660098872,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595288,
-      "num": 595288,
-      "word": "李泽言",
-      "onboard_time": 1660141415,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 593755,
@@ -987,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572608,
-      "num": 572608,
-      "word": "新疆新增无症状感染者240例",
-      "onboard_time": 1660141179,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570648,
       "num": 570648,
       "word": "实地打卡台北山东水饺馆",
@@ -1004,7 +1060,7 @@
     },
     {
       "raw_hot": 565824,
-      "num": 1825914,
+      "num": 1876670,
       "word": "我国成功发射一箭十六星",
       "onboard_time": 1660110812,
       "rank": 16,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1660123714,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 542207,
+      "num": 542207,
+      "word": "李汶翰说不能怪内娱没舞台",
+      "onboard_time": 1660144777,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 541440,
@@ -1435,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437836,
+      "num": 259480,
+      "word": "李帝努湿发",
+      "onboard_time": 1660143938,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 432980,
       "num": 368994,
       "word": "虞书欣 可爱",
@@ -1456,6 +1528,14 @@
       "word": "名创优品曾状告曝光其挂日本旗自媒体",
       "onboard_time": 1660133794,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432175,
+      "num": 432175,
+      "word": "上海疫情防控",
+      "onboard_time": 1660144777,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1499,6 +1579,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 417984,
+      "num": 258217,
+      "word": "金昇玟高音",
+      "onboard_time": 1660144177,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 417226,
+      "num": 281688,
+      "word": "月洋",
+      "onboard_time": 1660141955,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 415451,
       "num": 334846,
       "word": "断桥预售破1500万",
@@ -1521,6 +1617,14 @@
       "onboard_time": 1660129895,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 412081,
+      "num": 255639,
+      "word": "黄仁俊黑泡造型",
+      "onboard_time": 1660144235,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410759,
@@ -1611,14 +1715,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 390901,
-      "num": 281688,
-      "word": "月洋",
-      "onboard_time": 1660141955,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 390368,
       "num": 390368,
       "word": "东部战区新闻发言人现场发布",
@@ -1689,6 +1785,22 @@
       "onboard_time": 1660134812,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382857,
+      "num": 253263,
+      "word": "罗渽民饭拍生图",
+      "onboard_time": 1660144056,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 382798,
+      "num": 219401,
+      "word": "虞书欣王鹤棣直播状态",
+      "onboard_time": 1660142915,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 382653,
@@ -1835,6 +1947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 356834,
+      "num": 356834,
+      "word": "别当着小孩的面摘隐形眼镜",
+      "onboard_time": 1660139794,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 356089,
       "num": 356089,
       "word": "为什么夏天要和朋友一起过",
@@ -1929,6 +2049,14 @@
       "onboard_time": 1660128934,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337072,
+      "num": 337072,
+      "word": "四川德阳新增本土无症状4例",
+      "onboard_time": 1660143577,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335200,
@@ -2123,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298852,
-      "num": 298852,
-      "word": "别当着小孩的面摘隐形眼镜",
-      "onboard_time": 1660139794,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 297372,
       "num": 297372,
       "word": "杨智渊由拘传转为指定居所监视居住",
@@ -2171,14 +2291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292619,
-      "num": 292619,
-      "word": "闵行 核酸",
-      "onboard_time": 1660141778,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291475,
       "num": 291475,
       "word": "刘涛刘宇宁新剧撑伞氛围感",
@@ -2203,20 +2315,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284877,
+      "num": 284877,
+      "word": "阿迪一季度大中华区收入大跌35%",
+      "onboard_time": 1660138173,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284225,
       "num": 284225,
       "word": "新疆疫情防控",
       "onboard_time": 1660141356,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282171,
-      "num": 282171,
-      "word": "阿迪一季度大中华区收入大跌35%",
-      "onboard_time": 1660138173,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 281229,
@@ -2443,6 +2555,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 230400,
+      "num": 230400,
+      "word": "义乌新增21例阳性感染者",
+      "onboard_time": 1660144413,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228547,
       "num": 228547,
       "word": "女子微整形失败10个月没敢出门",
@@ -2457,6 +2577,14 @@
       "onboard_time": 1660127494,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224791,
+      "num": 691296,
+      "word": "机器人成功救下15岁溺海男孩",
+      "onboard_time": 1660143697,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219690,
@@ -2513,6 +2641,14 @@
       "onboard_time": 1660108119,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213333,
+      "num": 213333,
+      "word": "新疆的水果也太便宜了",
+      "onboard_time": 1660144715,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 210736,
@@ -2577,6 +2713,14 @@
       "onboard_time": 1660133553,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194993,
+      "num": 194993,
+      "word": "家中失火30万购房款烧成黑炭",
+      "onboard_time": 1660144533,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191261,
@@ -2665,6 +2809,14 @@
       "onboard_time": 1660140273,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 175318,
+      "num": 175318,
+      "word": "十堰疫情防控",
+      "onboard_time": 1660144116,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171825,
@@ -2946,6 +3098,9 @@
     },
     {
       "word": "#跟着总书记学党史#"
+    },
+    {
+      "word": "#祖国完全统一的历史任务一定要实现#"
     }
   ]
 }
