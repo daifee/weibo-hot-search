@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660112913131,
+  "endTime": 1660113987198,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2944630,
-      "num": 2944630,
+      "raw_hot": 4334465,
+      "num": 4334465,
       "word": "丁香医生",
       "onboard_time": 1660106560,
       "rank": 34,
@@ -33,6 +33,14 @@
       "onboard_time": 1660098094,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2628880,
+      "num": 2628880,
+      "word": "佩洛西称仍坚持一个中国政策",
+      "onboard_time": 1660112434,
+      "rank": 22,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 2574174,
@@ -243,6 +251,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 1021004,
+      "num": 1021004,
+      "word": "韩国暴雨已致两名中国公民死亡",
+      "onboard_time": 1660110933,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018899,
       "num": 1018899,
       "word": "南京9天155人因中暑打120",
@@ -297,6 +313,14 @@
       "onboard_time": 1660106501,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 831719,
+      "num": 831719,
+      "word": "特朗普呼吁所有爱国美国人为他捐款",
+      "onboard_time": 1660111534,
+      "rank": 23,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 806351,
@@ -435,14 +459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 620628,
-      "num": 620628,
-      "word": "韩国暴雨已致两名中国公民死亡",
-      "onboard_time": 1660110933,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608935,
       "num": 608935,
       "word": "三亚增175例确诊病例",
@@ -473,6 +489,14 @@
       "onboard_time": 1660098872,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593755,
+      "num": 593755,
+      "word": "朱开",
+      "onboard_time": 1660111112,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 585025,
@@ -507,6 +531,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 565824,
+      "num": 565824,
+      "word": "我国成功发射一箭十六星",
+      "onboard_time": 1660110812,
+      "rank": 16,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 560167,
       "num": 560167,
       "word": "新疆增122例无症状",
@@ -529,6 +561,14 @@
       "onboard_time": 1660090293,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 552091,
+      "num": 552091,
+      "word": "虞书欣王鹤棣苍兰诀咬唇吻剧照",
+      "onboard_time": 1660112552,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 546184,
@@ -555,14 +595,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 535910,
-      "num": 535910,
-      "word": "虞书欣王鹤棣苍兰诀咬唇吻剧照",
-      "onboard_time": 1660112552,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 535065,
       "num": 535065,
       "word": "厦门新增本土确诊病例7例",
@@ -571,28 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534465,
-      "num": 534465,
-      "word": "朱开",
-      "onboard_time": 1660111112,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 534308,
       "num": 534308,
       "word": "名创优品致歉声明",
       "onboard_time": 1660057300,
       "rank": 9,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 529684,
-      "num": 529684,
-      "word": "我国成功发射一箭十六星",
-      "onboard_time": 1660110812,
-      "rank": 16,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 515393,
@@ -633,6 +649,14 @@
       "onboard_time": 1660094132,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487839,
+      "num": 487839,
+      "word": "回形针",
+      "onboard_time": 1660107697,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 486750,
@@ -691,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 473896,
-      "num": 473896,
-      "word": "佩洛西称仍坚持一个中国政策",
-      "onboard_time": 1660112434,
-      "rank": 22,
-      "category": "国外要闻,社会新闻"
-    },
-    {
       "raw_hot": 470325,
       "num": 470325,
       "word": "长沙新增1例外省返长感染者",
@@ -707,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459607,
-      "num": 459607,
-      "word": "特朗普呼吁所有爱国美国人为他捐款",
-      "onboard_time": 1660111534,
-      "rank": 23,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 469082,
+      "num": 424448,
+      "word": "oner是来批发冰箱的吧",
+      "onboard_time": 1660113153,
+      "rank": 19,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 457551,
@@ -787,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 427598,
-      "num": 427598,
-      "word": "回形针",
-      "onboard_time": 1660107697,
-      "rank": 29,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 425024,
       "num": 425024,
       "word": "中行回应部分用户提现失败",
@@ -867,6 +875,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397225,
+      "num": 397225,
+      "word": "官方回应游客赤脚进茶卡盐湖",
+      "onboard_time": 1660112191,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 384783,
+      "num": 384783,
+      "word": "湖北新增1例确诊24例无症状",
+      "onboard_time": 1660111414,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382653,
+      "num": 368548,
+      "word": "姚政可爱",
+      "onboard_time": 1660111833,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382307,
       "num": 382307,
       "word": "沉香如屑 猫眼",
@@ -875,16 +907,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380223,
-      "num": 380223,
-      "word": "湖北新增1例确诊24例无症状",
-      "onboard_time": 1660111414,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378730,
-      "num": 378730,
+      "raw_hot": 381335,
+      "num": 381335,
       "word": "多名男子持械进店老板娘制止暴行",
       "onboard_time": 1660110933,
       "rank": 30,
@@ -892,27 +916,19 @@
     },
     {
       "raw_hot": 375107,
-      "num": 338765,
+      "num": 347840,
       "word": "张新成发文感谢裴之和爸爸",
       "onboard_time": 1660109254,
       "rank": 31,
       "category": "影视"
     },
     {
-      "raw_hot": 370490,
-      "num": 370490,
+      "raw_hot": 370618,
+      "num": 370618,
       "word": "强控制欲和完全放养都是极端教育",
       "onboard_time": 1660109375,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 368548,
-      "num": 368548,
-      "word": "姚政可爱",
-      "onboard_time": 1660111833,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 367488,
@@ -993,6 +1009,14 @@
       "onboard_time": 1660102113,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346247,
+      "num": 346247,
+      "word": "甜蜜女友竟是同寝抠脚大汉",
+      "onboard_time": 1660112552,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341875,
@@ -1131,6 +1155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296276,
+      "num": 296276,
+      "word": "57岁外卖大哥边送餐边写作",
+      "onboard_time": 1660112673,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296041,
+      "num": 296041,
+      "word": "豆瓣崩了",
+      "onboard_time": 1660113689,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 294872,
       "num": 294872,
       "word": "谢安然喜提冰箱",
@@ -1171,6 +1211,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 272460,
+      "num": 272460,
+      "word": "涉嫌猥亵妇女中学教师被停岗",
+      "onboard_time": 1660113689,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267373,
       "num": 231639,
       "word": "苍兰诀",
@@ -1195,12 +1243,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 262468,
-      "num": 262468,
-      "word": "官方回应游客赤脚进茶卡盐湖",
-      "onboard_time": 1660112191,
-      "rank": 38,
-      "category": "社会新闻,旅游"
+      "raw_hot": 262108,
+      "num": 208829,
+      "word": "杨紫花仙子仿妆",
+      "onboard_time": 1660113933,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261356,
@@ -1281,6 +1329,22 @@
       "onboard_time": 1660093415,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242746,
+      "num": 242746,
+      "word": "学者回应网传苏炳添是苏轼后代",
+      "onboard_time": 1660113512,
+      "rank": 43,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 234346,
+      "num": 234346,
+      "word": "劳荣枝案二审将于8月18号开庭",
+      "onboard_time": 1660112853,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233921,
@@ -1372,19 +1436,11 @@
     },
     {
       "raw_hot": 204024,
-      "num": 2353272,
+      "num": 2355882,
       "word": "问天第一视角看地球",
       "onboard_time": 1660096174,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 196662,
-      "num": 196662,
-      "word": "57岁外卖大哥边送餐边写作",
-      "onboard_time": 1660112673,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191261,
@@ -1451,27 +1507,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183062,
-      "num": 183062,
-      "word": "甜蜜女友竟是同寝抠脚大汉",
-      "onboard_time": 1660112552,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171825,
       "num": 171825,
       "word": "江苏一运猪车起火秒变烤箱",
       "onboard_time": 1660055441,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165088,
-      "num": 165088,
-      "word": "劳荣枝案二审将于8月18号开庭",
-      "onboard_time": 1660112853,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
