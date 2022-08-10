@@ -1,7 +1,15 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660096322068,
+  "endTime": 1660097914451,
   "band_list": [
+    {
+      "raw_hot": 1908170,
+      "num": 1908170,
+      "word": "佩洛西回应特朗普豪宅遭查",
+      "onboard_time": 1660094075,
+      "rank": 4,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 1864991,
       "num": 1864991,
@@ -59,20 +67,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1204193,
-      "num": 1204193,
-      "word": "佩洛西回应特朗普豪宅遭查",
-      "onboard_time": 1660094075,
-      "rank": 4,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1132825,
       "num": 581684,
       "word": "孙子抢玩具被阻老人尾随1岁娃砸头",
       "onboard_time": 1660090472,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1123562,
+      "num": 1123562,
+      "word": "芯片股暴跌",
+      "onboard_time": 1660095032,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 1107772,
@@ -91,6 +99,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 915668,
+      "num": 577191,
+      "word": "男子拖欠民工8万被戴手铐妻子急了",
+      "onboard_time": 1660096473,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870347,
       "num": 1552870,
       "word": "代替跷二郎腿的坐姿",
@@ -105,14 +121,6 @@
       "onboard_time": 1660068677,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 786736,
-      "num": 571072,
-      "word": "芯片股暴跌",
-      "onboard_time": 1660095032,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 755287,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678150,
+      "num": 678150,
+      "word": "王一博街舞5西瓜红造型",
+      "onboard_time": 1660096050,
+      "rank": 24,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 648200,
       "num": 648200,
       "word": "95号汽油喜迎8元时代",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578314,
+      "num": 578314,
+      "word": "220斤男子酒后跳舞神似鸿雁",
+      "onboard_time": 1660091794,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560167,
       "num": 560167,
       "word": "新疆增122例无症状",
@@ -203,14 +227,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 551188,
-      "num": 551188,
-      "word": "220斤男子酒后跳舞神似鸿雁",
-      "onboard_time": 1660091794,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546184,
       "num": 546184,
       "word": "五公主好蠢",
@@ -219,12 +235,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535065,
+      "num": 535065,
+      "word": "厦门新增本土确诊病例7例",
+      "onboard_time": 1660095931,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534308,
       "num": 534308,
       "word": "名创优品致歉声明",
       "onboard_time": 1660057300,
       "rank": 9,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 515393,
+      "num": 515393,
+      "word": "分手当天都做了什么",
+      "onboard_time": 1660093593,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 515049,
@@ -241,6 +273,14 @@
       "onboard_time": 1660094132,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486593,
+      "num": 486593,
+      "word": "2女子为逃离家暴离家出走后重婚",
+      "onboard_time": 1660096833,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485394,
@@ -283,22 +323,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 416940,
-      "num": 416940,
-      "word": "分手当天都做了什么",
-      "onboard_time": 1660093593,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 414789,
-      "num": 414789,
-      "word": "王一博街舞5西瓜红造型",
-      "onboard_time": 1660096050,
-      "rank": 24,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 410759,
       "num": 410759,
       "word": "王俊凯献唱断桥推广曲",
@@ -328,6 +352,14 @@
       "word": "沉香如屑 猫眼",
       "onboard_time": 1660058018,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369701,
+      "num": 369701,
+      "word": "梦华录",
+      "onboard_time": 1660096710,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -363,11 +395,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358842,
+      "num": 358842,
+      "word": "男子入室行凶翻窗拒捕被水枪逼回",
+      "onboard_time": 1660093653,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 345773,
+      "num": 345773,
+      "word": "民国大侦探今晚开播",
+      "onboard_time": 1660097433,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341738,
       "num": 341738,
       "word": "一个中国之下没有中线只有底线和红线",
       "onboard_time": 1660088428,
       "rank": 29,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 335498,
+      "num": 186841,
+      "word": "台湾问题与新时代中国统一事业",
+      "onboard_time": 1660097853,
+      "rank": 47,
       "category": "国内要闻"
     },
     {
@@ -379,20 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316949,
-      "num": 316949,
-      "word": "男子入室行凶翻窗拒捕被水枪逼回",
-      "onboard_time": 1660093653,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 303253,
-      "num": 303253,
+      "raw_hot": 312928,
+      "num": 312928,
       "word": "海南增285例确诊285例无症状",
       "onboard_time": 1660095811,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305292,
+      "num": 305292,
+      "word": "李浩贤",
+      "onboard_time": 1660095450,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 295218,
+      "num": 295218,
+      "word": "王宝强喊古天乐哥哥",
+      "onboard_time": 1660097015,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 291475,
@@ -401,22 +465,6 @@
       "onboard_time": 1660055562,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 290871,
-      "num": 290871,
-      "word": "厦门新增本土确诊病例7例",
-      "onboard_time": 1660095931,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288801,
-      "num": 288801,
-      "word": "李浩贤",
-      "onboard_time": 1660095450,
-      "rank": 35,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 280633,
@@ -443,12 +491,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266222,
+      "num": 266222,
+      "word": "河南增本土无症状10例",
+      "onboard_time": 1660095753,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264640,
+      "num": 239378,
+      "word": "月升沧海这两集封神",
+      "onboard_time": 1660097794,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263137,
       "num": 263137,
       "word": "多地海景房跌成白菜价",
       "onboard_time": 1660046072,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 261356,
+      "num": 248111,
+      "word": "越妃扇巴掌太爽了",
+      "onboard_time": 1660091556,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 260905,
@@ -467,12 +539,12 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 248111,
-      "num": 248111,
-      "word": "越妃扇巴掌太爽了",
-      "onboard_time": 1660091556,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 248212,
+      "num": 248212,
+      "word": "泸州富康医院已停业整顿",
+      "onboard_time": 1660096953,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244398,
@@ -531,14 +603,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 216367,
-      "num": 216367,
-      "word": "河南增本土无症状10例",
-      "onboard_time": 1660095753,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216167,
       "num": 216167,
       "word": "程家被押入大牢",
@@ -552,6 +616,14 @@
       "word": "迷路女童被送回家后亲辅警脸颊",
       "onboard_time": 1660090774,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214025,
+      "num": 214025,
+      "word": "南京9天155人因中暑打120",
+      "onboard_time": 1660097313,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -585,6 +657,22 @@
       "onboard_time": 1660051659,
       "rank": 25,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 186499,
+      "num": 186499,
+      "word": "江西省新增本土无症状感染者5例",
+      "onboard_time": 1660097614,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185842,
+      "num": 185842,
+      "word": "渤海北部部分海域军事演习",
+      "onboard_time": 1660097733,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 185018,

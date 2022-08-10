@@ -1,0 +1,410 @@
+{
+  "runTime": 1660097914451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1908170,
+        "num": 1908170,
+        "word": "佩洛西回应特朗普豪宅遭查",
+        "onboard_time": 1660094075,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1585860,
+        "num": 1585860,
+        "word": "苏炳添是苏轼后代",
+        "onboard_time": 1660086622,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771172,
+        "num": 1221601,
+        "word": "代替跷二郎腿的坐姿",
+        "onboard_time": 1660089753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194109,
+        "num": 1194109,
+        "word": "韩教授反击称韩国是日本祖先",
+        "onboard_time": 1660091612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123562,
+        "num": 1123562,
+        "word": "芯片股暴跌",
+        "onboard_time": 1660095032,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 859841,
+        "num": 859841,
+        "word": "蔡徐坤工作室发文回应",
+        "onboard_time": 1660056820,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699834,
+        "num": 699834,
+        "word": "被Wendy笑死",
+        "onboard_time": 1660057180,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678150,
+        "num": 678150,
+        "word": "王一博街舞5西瓜红造型",
+        "onboard_time": 1660096050,
+        "rank": 7,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 669809,
+        "num": 669809,
+        "word": "8旬老人因一道算术题起诉儿子",
+        "onboard_time": 1660068677,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 578314,
+        "num": 578314,
+        "word": "220斤男子酒后跳舞神似鸿雁",
+        "onboard_time": 1660091794,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915668,
+        "num": 577191,
+        "word": "男子拖欠民工8万被戴手铐妻子急了",
+        "onboard_time": 1660096473,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611244,
+        "num": 568272,
+        "word": "丈夫不愿生娃妻子起诉离婚",
+        "onboard_time": 1660082654,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535065,
+        "num": 535065,
+        "word": "厦门新增本土确诊病例7例",
+        "onboard_time": 1660095931,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515393,
+        "num": 515393,
+        "word": "分手当天都做了什么",
+        "onboard_time": 1660093593,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486593,
+        "num": 486593,
+        "word": "2女子为逃离家暴离家出走后重婚",
+        "onboard_time": 1660096833,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278370,
+        "num": 485081,
+        "word": "高温作业工人死在出租屋获赔8.3万",
+        "onboard_time": 1660066458,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467820,
+        "num": 467820,
+        "word": "长沙新增1例外省返长感染者",
+        "onboard_time": 1660094671,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464738,
+        "num": 464738,
+        "word": "苍兰诀微博开分6.9分",
+        "onboard_time": 1660094132,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452090,
+        "num": 452090,
+        "word": "赵奕欢说我不想有一个包贝尔",
+        "onboard_time": 1660052620,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423334,
+        "num": 423334,
+        "word": "三亚增175例确诊病例",
+        "onboard_time": 1660092578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697990,
+        "num": 419833,
+        "word": "孙子抢玩具被阻老人尾随1岁娃砸头",
+        "onboard_time": 1660090472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414799,
+        "num": 414799,
+        "word": "荆门一中学教师被指街头猥亵女子",
+        "onboard_time": 1660059275,
+        "rank": 21,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 407157,
+        "num": 407157,
+        "word": "五公主好蠢",
+        "onboard_time": 1660094075,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387438,
+        "num": 387438,
+        "word": "名创优品分不清旗袍和艺妓服饰",
+        "onboard_time": 1660057001,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 379753,
+        "num": 379753,
+        "word": "新疆增122例无症状",
+        "onboard_time": 1660093352,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371549,
+        "num": 371549,
+        "word": "电视剧男主为什么都爱姓顾",
+        "onboard_time": 1660049320,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369701,
+        "num": 369701,
+        "word": "梦华录",
+        "onboard_time": 1660096710,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358842,
+        "num": 358842,
+        "word": "男子入室行凶翻窗拒捕被水枪逼回",
+        "onboard_time": 1660093653,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 345773,
+        "num": 345773,
+        "word": "民国大侦探今晚开播",
+        "onboard_time": 1660097433,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312928,
+        "num": 312928,
+        "word": "海南增285例确诊285例无症状",
+        "onboard_time": 1660095811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315453,
+        "num": 312812,
+        "word": "杜海涛和90岁爷爷比肺活量输了",
+        "onboard_time": 1660090173,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311901,
+        "num": 311901,
+        "word": "山东一秒入秋",
+        "onboard_time": 1660087405,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311271,
+        "num": 311271,
+        "word": "BLACKPINK正规二辑BORNPINK预告海报",
+        "onboard_time": 1660092994,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305292,
+        "num": 305292,
+        "word": "李浩贤",
+        "onboard_time": 1660095450,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 298580,
+        "num": 298580,
+        "word": "克里米亚军用机场发生爆炸",
+        "onboard_time": 1660090293,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 295218,
+        "num": 295218,
+        "word": "王宝强喊古天乐哥哥",
+        "onboard_time": 1660097015,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288831,
+        "num": 288831,
+        "word": "拜登签署瑞典和芬兰加入北约的议定书",
+        "onboard_time": 1660090293,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266222,
+        "num": 266222,
+        "word": "河南增本土无症状10例",
+        "onboard_time": 1660095753,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254849,
+        "num": 254849,
+        "word": "一个中国之下没有中线只有底线和红线",
+        "onboard_time": 1660088428,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 248212,
+        "num": 248212,
+        "word": "泸州富康医院已停业整顿",
+        "onboard_time": 1660096953,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264640,
+        "num": 239378,
+        "word": "月升沧海这两集封神",
+        "onboard_time": 1660097794,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224123,
+        "num": 224123,
+        "word": "云南大象食堂开张啦",
+        "onboard_time": 1660093892,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261356,
+        "num": 223757,
+        "word": "越妃扇巴掌太爽了",
+        "onboard_time": 1660091556,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221797,
+        "num": 221797,
+        "word": "2岁男童怪异脱发一碰就掉",
+        "onboard_time": 1660085958,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214025,
+        "num": 214025,
+        "word": "南京9天155人因中暑打120",
+        "onboard_time": 1660097313,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209947,
+        "num": 209947,
+        "word": "迷路女童被送回家后亲辅警脸颊",
+        "onboard_time": 1660090774,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186938,
+        "num": 186938,
+        "word": "95号汽油喜迎8元时代",
+        "onboard_time": 1660075751,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 335498,
+        "num": 186841,
+        "word": "台湾问题与新时代中国统一事业",
+        "onboard_time": 1660097853,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186499,
+        "num": 186499,
+        "word": "江西省新增本土无症状感染者5例",
+        "onboard_time": 1660097614,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 185842,
+        "word": "渤海北部部分海域军事演习",
+        "onboard_time": 1660097733,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国再次成功发射一箭三星#"
+    }
+  }
+}
