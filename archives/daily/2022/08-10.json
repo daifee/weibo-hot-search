@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660105651571,
+  "endTime": 1660106788427,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2665689,
-      "num": 2665689,
+      "raw_hot": 2798962,
+      "num": 2798962,
       "word": "台湾前途在于国家统一",
       "onboard_time": 1660098094,
       "rank": 1,
@@ -43,6 +43,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2242414,
+      "num": 991076,
+      "word": "女子两年内罩杯从B到Q",
+      "onboard_time": 1660105478,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1908170,
       "num": 1908170,
       "word": "佩洛西回应特朗普豪宅遭查",
@@ -57,6 +65,14 @@
       "onboard_time": 1660086622,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1845577,
+      "num": 1845577,
+      "word": "名创优品被曝店内不许放中文歌",
+      "onboard_time": 1660104217,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1816071,
@@ -113,6 +129,22 @@
       "onboard_time": 1660082654,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1396800,
+      "num": 1396800,
+      "word": "偷偷藏不住延后开机",
+      "onboard_time": 1660105180,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1348596,
+      "num": 1348596,
+      "word": "谭松韵说亲爱的李尖尖想她",
+      "onboard_time": 1660103677,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1325975,
@@ -179,14 +211,6 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 1047537,
-      "num": 1047537,
-      "word": "名创优品被曝店内不许放中文歌",
-      "onboard_time": 1660104217,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1018899,
       "num": 1018899,
       "word": "南京9天155人因中暑打120",
@@ -211,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 915328,
-      "num": 915328,
-      "word": "谭松韵说亲爱的李尖尖想她",
-      "onboard_time": 1660103677,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 945688,
+      "num": 945688,
+      "word": "王鹤棣帮虞书欣挡镜头",
+      "onboard_time": 1660103557,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 914201,
@@ -235,22 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 842824,
-      "num": 842824,
-      "word": "王鹤棣帮虞书欣挡镜头",
-      "onboard_time": 1660103557,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 821918,
-      "num": 821918,
-      "word": "偷偷藏不住延后开机",
-      "onboard_time": 1660105180,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 806351,
       "num": 806351,
       "word": "张若昀密逃4天使学园上高清剧照",
@@ -265,6 +273,14 @@
       "onboard_time": 1660068677,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 769231,
+      "num": 769231,
+      "word": "美芯片股集体崩了",
+      "onboard_time": 1660103378,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 755287,
@@ -289,6 +305,14 @@
       "onboard_time": 1660049320,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 739770,
+      "num": 739770,
+      "word": "密逃这周有杨幂周笔畅",
+      "onboard_time": 1660103919,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 722902,
@@ -323,28 +347,12 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 648713,
-      "num": 648713,
-      "word": "美芯片股集体崩了",
-      "onboard_time": 1660103378,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 648200,
       "num": 648200,
       "word": "95号汽油喜迎8元时代",
       "onboard_time": 1660075751,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 629152,
-      "num": 508073,
-      "word": "密逃这周有杨幂周笔畅",
-      "onboard_time": 1660103919,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 608935,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 557707,
-      "num": 353602,
+      "num": 412832,
       "word": "蔡徐坤工作室律师声明",
       "onboard_time": 1660104518,
       "rank": 30,
@@ -467,6 +475,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 515869,
+      "num": 515869,
+      "word": "马斯克套现近68.9亿美元",
+      "onboard_time": 1660105239,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 515393,
       "num": 515393,
       "word": "分手当天都做了什么",
@@ -481,6 +497,30 @@
       "onboard_time": 1660058435,
       "rank": 11,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 511793,
+      "num": 511793,
+      "word": "佩洛西称窜台是遵循拜登政策",
+      "onboard_time": 1660105717,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 511643,
+      "num": 511643,
+      "word": "乌停止俄石油过境",
+      "onboard_time": 1660104818,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 503350,
+      "num": 503350,
+      "word": "王俊凯说孟超是不被任何人理解的",
+      "onboard_time": 1660106560,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 490800,
@@ -523,6 +563,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 479250,
+      "num": 412441,
+      "word": "断桥",
+      "onboard_time": 1660106381,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470325,
       "num": 470325,
       "word": "长沙新增1例外省返长感染者",
@@ -539,8 +587,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 456025,
+      "num": 456025,
+      "word": "降租无果解约后租客将屋内喷满油漆",
+      "onboard_time": 1660102472,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454915,
-      "num": 352945,
+      "num": 411121,
       "word": "宋亚轩新歌侠冒个泡",
       "onboard_time": 1660105478,
       "rank": 31,
@@ -553,6 +609,14 @@
       "onboard_time": 1660099834,
       "rank": 28,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 442820,
+      "num": 442820,
+      "word": "羽生结弦直播",
+      "onboard_time": 1660101755,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 440640,
@@ -569,14 +633,6 @@
       "onboard_time": 1660100792,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 426223,
-      "num": 426223,
-      "word": "羽生结弦直播",
-      "onboard_time": 1660101755,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 425024,
@@ -659,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 365825,
-      "num": 365825,
-      "word": "降租无果解约后租客将屋内喷满油漆",
-      "onboard_time": 1660102472,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363506,
       "num": 328421,
       "word": "BLACKPINK正规二辑BORNPINK预告海报",
@@ -697,6 +745,14 @@
       "onboard_time": 1660093653,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 355364,
+      "num": 355364,
+      "word": "丁香医生",
+      "onboard_time": 1660106560,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352435,
@@ -787,16 +843,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326340,
-      "num": 326340,
-      "word": "乌停止俄石油过境",
-      "onboard_time": 1660104818,
+      "raw_hot": 324969,
+      "num": 324969,
+      "word": "手办也有命苦的",
+      "onboard_time": 1660106081,
       "rank": 36,
-      "category": "国外要闻"
+      "category": "幽默"
     },
     {
-      "raw_hot": 312928,
-      "num": 312928,
+      "raw_hot": 316472,
+      "num": 316472,
       "word": "海南增285例确诊285例无症状",
       "onboard_time": 1660095811,
       "rank": 33,
@@ -851,12 +907,28 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 267765,
-      "num": 267765,
+      "raw_hot": 276937,
+      "num": 276937,
+      "word": "对台独分子杨智渊变更刑事强制措施",
+      "onboard_time": 1660106501,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 268874,
+      "num": 268874,
       "word": "7年前老电脑为何能处理上亿数据",
       "onboard_time": 1660104396,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 267533,
+      "num": 267533,
+      "word": "丁香园",
+      "onboard_time": 1660106740,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267373,
@@ -923,12 +995,12 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 250702,
-      "num": 250702,
-      "word": "女子两年内罩杯从B到Q",
-      "onboard_time": 1660105478,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 258258,
+      "num": 258258,
+      "word": "穿搭算是被奶奶拿捏住了",
+      "onboard_time": 1660105180,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 250492,
@@ -939,28 +1011,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 245562,
-      "num": 245562,
-      "word": "马斯克套现近68.9亿美元",
-      "onboard_time": 1660105239,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 244398,
       "num": 244398,
       "word": "苍兰诀观后感",
       "onboard_time": 1660093415,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241374,
-      "num": 241374,
-      "word": "穿搭算是被奶奶拿捏住了",
-      "onboard_time": 1660105180,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 233921,
@@ -1385,6 +1441,9 @@
     },
     {
       "word": "#促进各民族像石榴籽一样紧紧抱在一起#"
+    },
+    {
+      "word": "#一个中国不存在任何模糊解读空间#"
     }
   ]
 }
