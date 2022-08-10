@@ -1,7 +1,23 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660088278502,
+  "endTime": 1660096322068,
   "band_list": [
+    {
+      "raw_hot": 1864991,
+      "num": 1864991,
+      "word": "苏炳添是苏轼后代",
+      "onboard_time": 1660086622,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1792848,
+      "num": 1792848,
+      "word": "韩教授反击称韩国是日本祖先",
+      "onboard_time": 1660091612,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1787805,
       "num": 1787805,
@@ -20,10 +36,18 @@
     },
     {
       "raw_hot": 1575584,
-      "num": 571821,
+      "num": 580581,
       "word": "丈夫不愿生娃妻子起诉离婚",
       "onboard_time": 1660082654,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325975,
+      "num": 1325975,
+      "word": "高温作业工人死在出租屋获赔8.3万",
+      "onboard_time": 1660066458,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -33,6 +57,22 @@
       "onboard_time": 1660083915,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1204193,
+      "num": 1204193,
+      "word": "佩洛西回应特朗普豪宅遭查",
+      "onboard_time": 1660094075,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1132825,
+      "num": 581684,
+      "word": "孙子抢玩具被阻老人尾随1岁娃砸头",
+      "onboard_time": 1660090472,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1107772,
@@ -49,6 +89,30 @@
       "onboard_time": 1660059275,
       "rank": 4,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 870347,
+      "num": 1552870,
+      "word": "代替跷二郎腿的坐姿",
+      "onboard_time": 1660089753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787002,
+      "num": 787002,
+      "word": "8旬老人因一道算术题起诉儿子",
+      "onboard_time": 1660068677,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 786736,
+      "num": 571072,
+      "word": "芯片股暴跌",
+      "onboard_time": 1660095032,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 755287,
@@ -75,14 +139,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 713644,
-      "num": 713644,
-      "word": "8旬老人因一道算术题起诉儿子",
-      "onboard_time": 1660068677,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 695976,
       "num": 695976,
       "word": "00后女孩给离世父母发消息分享生活",
@@ -107,6 +163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 608935,
+      "num": 608935,
+      "word": "三亚增175例确诊病例",
+      "onboard_time": 1660092578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585025,
       "num": 526407,
       "word": "赵奕欢说我不想有一个包贝尔",
@@ -123,12 +187,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555410,
-      "num": 555410,
-      "word": "苏炳添是苏轼后代",
-      "onboard_time": 1660086622,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 560167,
+      "num": 560167,
+      "word": "新疆增122例无症状",
+      "onboard_time": 1660093352,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552530,
+      "num": 552530,
+      "word": "克里米亚军用机场发生爆炸",
+      "onboard_time": 1660090293,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 551188,
+      "num": 551188,
+      "word": "220斤男子酒后跳舞神似鸿雁",
+      "onboard_time": 1660091794,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546184,
+      "num": 546184,
+      "word": "五公主好蠢",
+      "onboard_time": 1660094075,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 534308,
@@ -147,12 +235,44 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 490800,
+      "num": 490800,
+      "word": "苍兰诀微博开分6.9分",
+      "onboard_time": 1660094132,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485394,
       "num": 485394,
       "word": "榜一大哥联合网红主播做局",
       "onboard_time": 1660083014,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482895,
+      "num": 482895,
+      "word": "名创优品分不清旗袍和艺妓服饰",
+      "onboard_time": 1660057001,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 481252,
+      "num": 481252,
+      "word": "拜登签署瑞典和芬兰加入北约的议定书",
+      "onboard_time": 1660090293,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 470325,
+      "num": 470325,
+      "word": "长沙新增1例外省返长感染者",
+      "onboard_time": 1660094671,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425024,
@@ -163,12 +283,44 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 404595,
-      "num": 404595,
-      "word": "高温作业工人死在出租屋获赔8.3万",
-      "onboard_time": 1660066458,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 416940,
+      "num": 416940,
+      "word": "分手当天都做了什么",
+      "onboard_time": 1660093593,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 414789,
+      "num": 414789,
+      "word": "王一博街舞5西瓜红造型",
+      "onboard_time": 1660096050,
+      "rank": 24,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 410759,
+      "num": 410759,
+      "word": "王俊凯献唱断桥推广曲",
+      "onboard_time": 1660095872,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 404107,
+      "num": 404107,
+      "word": "杜海涛和90岁爷爷比肺活量输了",
+      "onboard_time": 1660090173,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 402424,
+      "num": 331991,
+      "word": "沉香如屑",
+      "onboard_time": 1660095450,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 382307,
@@ -187,12 +339,36 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 363506,
+      "num": 328421,
+      "word": "BLACKPINK正规二辑BORNPINK预告海报",
+      "onboard_time": 1660092994,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 359886,
+      "num": 359886,
+      "word": "山东一秒入秋",
+      "onboard_time": 1660087405,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359784,
       "num": 359784,
       "word": "社区开展好媳妇为婆婆洗脚活动",
       "onboard_time": 1660049559,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341738,
+      "num": 341738,
+      "word": "一个中国之下没有中线只有底线和红线",
+      "onboard_time": 1660088428,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 329590,
@@ -203,12 +379,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316949,
+      "num": 316949,
+      "word": "男子入室行凶翻窗拒捕被水枪逼回",
+      "onboard_time": 1660093653,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 303253,
+      "num": 303253,
+      "word": "海南增285例确诊285例无症状",
+      "onboard_time": 1660095811,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291475,
       "num": 291475,
       "word": "刘涛刘宇宁新剧撑伞氛围感",
       "onboard_time": 1660055562,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290871,
+      "num": 290871,
+      "word": "厦门新增本土确诊病例7例",
+      "onboard_time": 1660095931,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288801,
+      "num": 288801,
+      "word": "李浩贤",
+      "onboard_time": 1660095450,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 280633,
+      "num": 280633,
+      "word": "8月9日新增本土确诊380例",
+      "onboard_time": 1660095391,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279251,
+      "num": 279251,
+      "word": "乐华虚拟偶像侵权网易绝对演绎",
+      "onboard_time": 1660090293,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 267373,
@@ -227,6 +451,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 260905,
+      "num": 260905,
+      "word": "云南大象食堂开张啦",
+      "onboard_time": 1660093892,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258608,
       "num": 258608,
       "word": "热狗说赵文卓招呼一声小狗立马报到",
@@ -235,12 +467,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 246898,
-      "num": 246898,
-      "word": "名创优品分不清旗袍和艺妓服饰",
-      "onboard_time": 1660057001,
-      "rank": 18,
-      "category": "财经,社会新闻"
+      "raw_hot": 248111,
+      "num": 248111,
+      "word": "越妃扇巴掌太爽了",
+      "onboard_time": 1660091556,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 244398,
+      "num": 244398,
+      "word": "苍兰诀观后感",
+      "onboard_time": 1660093415,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 231833,
@@ -275,6 +515,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 218572,
+      "num": 218572,
+      "word": "9个让你更受欢迎的细节",
+      "onboard_time": 1660089813,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 217379,
       "num": 217379,
       "word": "南昌每5套房就有1套空着",
@@ -283,12 +531,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 216367,
+      "num": 216367,
+      "word": "河南增本土无症状10例",
+      "onboard_time": 1660095753,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216167,
       "num": 216167,
       "word": "程家被押入大牢",
       "onboard_time": 1660052077,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "迷路女童被送回家后亲辅警脸颊",
+      "onboard_time": 1660090774,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200824,
+      "num": 200824,
+      "word": "问天第一视角看地球",
+      "onboard_time": 1660096174,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 190868,
@@ -424,14 +696,6 @@
       "word": "河南南北方温差原来这么大",
       "onboard_time": 1660086561,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145861,
-      "num": 145861,
-      "word": "山东一秒入秋",
-      "onboard_time": 1660087405,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
