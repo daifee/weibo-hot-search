@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660136592683,
+  "endTime": 1660138598085,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -113,6 +113,14 @@
       "onboard_time": 1660105478,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2178529,
+      "num": 2178529,
+      "word": "独行月球为什么带不活电影院",
+      "onboard_time": 1660133492,
+      "rank": 4,
+      "category": "影视,社会议题"
     },
     {
       "raw_hot": 2127236,
@@ -233,14 +241,6 @@
       "onboard_time": 1660056820,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1625784,
-      "num": 1625784,
-      "word": "独行月球为什么带不活电影院",
-      "onboard_time": 1660133492,
-      "rank": 4,
-      "category": "影视,社会议题"
     },
     {
       "raw_hot": 1575968,
@@ -403,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1170042,
+      "num": 693421,
+      "word": "郑秀妍于文文新浪扫楼",
+      "onboard_time": 1660136910,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1132825,
       "num": 581684,
       "word": "孙子抢玩具被阻老人尾随1岁娃砸头",
       "onboard_time": 1660090472,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1128610,
+      "num": 1128610,
+      "word": "程少商看清太子妃真面目",
+      "onboard_time": 1660135712,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1123562,
@@ -491,14 +507,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 977946,
-      "num": 977946,
-      "word": "程少商看清太子妃真面目",
-      "onboard_time": 1660135712,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 976482,
       "num": 976482,
       "word": "杨幂做数学题好像在演我",
@@ -531,6 +539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 928939,
+      "num": 928939,
+      "word": "王鹤棣演技",
+      "onboard_time": 1660133073,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 922661,
       "num": 1700627,
       "word": "幼儿园伙食丰富如满汉全席",
@@ -545,14 +561,6 @@
       "onboard_time": 1660102774,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 886702,
-      "num": 616375,
-      "word": "王鹤棣演技",
-      "onboard_time": 1660133073,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 870347,
@@ -649,6 +657,14 @@
       "onboard_time": 1660118014,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742818,
+      "num": 667957,
+      "word": "胡一天新剧刚开播就失业",
+      "onboard_time": 1660136434,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 740501,
@@ -803,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 634233,
+      "num": 634233,
+      "word": "千万别再一个人闷头做事了",
+      "onboard_time": 1660135893,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 620323,
       "num": 620323,
       "word": "岳岳登顶",
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 565824,
-      "num": 565824,
+      "num": 1323620,
       "word": "我国成功发射一箭十六星",
       "onboard_time": 1660110812,
       "rank": 16,
@@ -1035,6 +1059,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 523879,
+      "num": 385534,
+      "word": "俞飞鸿 演技",
+      "onboard_time": 1660137274,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 520285,
       "num": 417653,
       "word": "赞多对熊猫的执念有多深",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1660124012,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495381,
+      "num": 495381,
+      "word": "妲己热情桑巴返场",
+      "onboard_time": 1660134991,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 490800,
@@ -1211,6 +1251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465216,
+      "num": 373598,
+      "word": "虞书欣直播",
+      "onboard_time": 1660138296,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 460053,
+      "num": 314542,
+      "word": "胆小鬼",
+      "onboard_time": 1660088007,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457551,
       "num": 457551,
       "word": "台湾是中国一部分不容置疑也不容改变",
@@ -1307,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433849,
-      "num": 433849,
-      "word": "妲己热情桑巴返场",
-      "onboard_time": 1660134991,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 432980,
       "num": 368994,
       "word": "虞书欣 可爱",
@@ -1347,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431122,
+      "num": 302733,
+      "word": "程少商为凌不疑舒展眉头",
+      "onboard_time": 1660135952,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429347,
       "num": 429347,
       "word": "NCTDREAM将重新举办演唱会",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1660058259,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 424909,
-      "num": 290243,
-      "word": "胡一天新剧刚开播就失业",
-      "onboard_time": 1660136434,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 418634,
@@ -1499,6 +1547,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 390368,
+      "num": 390368,
+      "word": "东部战区新闻发言人现场发布",
+      "onboard_time": 1660134092,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 390220,
       "num": 390220,
       "word": "花10元挂到了猫咪专家号",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1660109254,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371280,
+      "num": 371280,
+      "word": "FGO 泳装",
+      "onboard_time": 1660137452,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 370618,
@@ -1699,20 +1763,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 351140,
-      "num": 351140,
-      "word": "东部战区新闻发言人现场发布",
-      "onboard_time": 1660134092,
-      "rank": 35,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 350702,
       "num": 350702,
       "word": "做堂堂正正中国人",
       "onboard_time": 1660108176,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 350477,
+      "num": 350477,
+      "word": "娜可露露前尘镜",
+      "onboard_time": 1660137033,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 349492,
@@ -1729,6 +1793,14 @@
       "onboard_time": 1660102113,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 343655,
+      "num": 343655,
+      "word": "三星发布会",
+      "onboard_time": 1660137573,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 342281,
@@ -1755,6 +1827,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 338790,
+      "num": 252214,
+      "word": "一口气炫完民国大侦探6集",
+      "onboard_time": 1660137514,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337731,
       "num": 337731,
       "word": "欢乐颂3台词扎心了",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1660101214,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331825,
+      "num": 331825,
+      "word": "收费员一路飞奔跨栏救下小朋友",
+      "onboard_time": 1660135293,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 331017,
@@ -1891,14 +1979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308233,
-      "num": 255527,
-      "word": "程少商为凌不疑舒展眉头",
-      "onboard_time": 1660135952,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 306408,
       "num": 286532,
       "word": "毕雯珺首张个人EP上线",
@@ -1995,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281229,
+      "num": 288669,
+      "word": "突然觉得自己也长大了",
+      "onboard_time": 1660136193,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280633,
       "num": 280633,
       "word": "8月9日新增本土确诊380例",
@@ -2035,14 +2123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269962,
-      "num": 269962,
-      "word": "突然觉得自己也长大了",
-      "onboard_time": 1660136193,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267328,
       "num": 267328,
       "word": "杨鸣说即将有证",
@@ -2064,6 +2144,14 @@
       "word": "多地海景房跌成白菜价",
       "onboard_time": 1660046072,
       "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 261709,
+      "num": 261709,
+      "word": "美国CPI",
+      "onboard_time": 1660138353,
+      "rank": 38,
       "category": "财经,社会新闻"
     },
     {
@@ -2115,28 +2203,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255700,
-      "num": 255700,
-      "word": "千万别再一个人闷头做事了",
-      "onboard_time": 1660135893,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255689,
       "num": 248943,
       "word": "郭俊辰说只怪剧组的饭太好吃",
       "onboard_time": 1660132353,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255208,
-      "num": 255208,
-      "word": "收费员一路飞奔跨栏救下小朋友",
-      "onboard_time": 1660135293,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 254826,
@@ -2371,6 +2443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193307,
+      "num": 193307,
+      "word": "阿迪一季度大中华区收入大跌35%",
+      "onboard_time": 1660138173,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191261,
       "num": 191261,
       "word": "马斯克回应套现465亿元",
@@ -2553,14 +2633,6 @@
       "onboard_time": 1660052560,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132489,
-      "num": 132489,
-      "word": "胆小鬼",
-      "onboard_time": 1660088007,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 126795,

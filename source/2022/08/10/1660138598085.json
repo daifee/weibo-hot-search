@@ -1,0 +1,410 @@
+{
+  "runTime": 1660138598085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3276520,
+        "num": 3276520,
+        "word": "给台湾同胞的一张海报",
+        "onboard_time": 1660129835,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2178529,
+        "num": 2178529,
+        "word": "独行月球为什么带不活电影院",
+        "onboard_time": 1660133492,
+        "rank": 1,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 8552,
+        "num": 1323620,
+        "word": "我国成功发射一箭十六星",
+        "onboard_time": 1660110812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1128610,
+        "num": 1128610,
+        "word": "程少商看清太子妃真面目",
+        "onboard_time": 1660135712,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1101197,
+        "num": 1101197,
+        "word": "阿迪达斯CEO承认在中国犯了错误",
+        "onboard_time": 1660128876,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928939,
+        "num": 928939,
+        "word": "王鹤棣演技",
+        "onboard_time": 1660133073,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895673,
+        "num": 895673,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802220,
+        "num": 802220,
+        "word": "东部战区",
+        "onboard_time": 1660114952,
+        "rank": 7,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 789411,
+        "num": 789411,
+        "word": "王毅提出台海局势要警惕三个动向",
+        "onboard_time": 1660131454,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 695038,
+        "num": 695038,
+        "word": "名创优品签约仪式曾挂日本国旗",
+        "onboard_time": 1660118554,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1170042,
+        "num": 693421,
+        "word": "郑秀妍于文文新浪扫楼",
+        "onboard_time": 1660136910,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907781,
+        "num": 692532,
+        "word": "爸爸带娃玩手机孩子玩排泄物",
+        "onboard_time": 1660129712,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809032,
+        "num": 692457,
+        "word": "男子进化粪池救猪不幸身亡",
+        "onboard_time": 1660127013,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691372,
+        "num": 691372,
+        "word": "幼儿园伙食丰富如满汉全席",
+        "onboard_time": 1660124557,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742818,
+        "num": 667957,
+        "word": "胡一天新剧刚开播就失业",
+        "onboard_time": 1660136434,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634233,
+        "num": 634233,
+        "word": "千万别再一个人闷头做事了",
+        "onboard_time": 1660135893,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616627,
+        "num": 616627,
+        "word": "杨幂做数学题好像在演我",
+        "onboard_time": 1660131816,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495381,
+        "num": 495381,
+        "word": "妲己热情桑巴返场",
+        "onboard_time": 1660134991,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404862,
+        "num": 404862,
+        "word": "名创优品曾状告曝光其挂日本旗自媒体",
+        "onboard_time": 1660133794,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390368,
+        "num": 390368,
+        "word": "东部战区新闻发言人现场发布",
+        "onboard_time": 1660134092,
+        "rank": 19,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 600789,
+        "num": 386254,
+        "word": "赵露思说嫋嫋其实长这样",
+        "onboard_time": 1660130194,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523879,
+        "num": 385534,
+        "word": "俞飞鸿 演技",
+        "onboard_time": 1660137274,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477096,
+        "num": 376652,
+        "word": "刘亦菲白色长裙生图",
+        "onboard_time": 1660124012,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465216,
+        "num": 373598,
+        "word": "虞书欣直播",
+        "onboard_time": 1660138296,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371280,
+        "num": 371280,
+        "word": "FGO 泳装",
+        "onboard_time": 1660137452,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350477,
+        "num": 350477,
+        "word": "娜可露露前尘镜",
+        "onboard_time": 1660137033,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349052,
+        "num": 349052,
+        "word": "BLG 季后赛",
+        "onboard_time": 1660134336,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343655,
+        "num": 343655,
+        "word": "三星发布会",
+        "onboard_time": 1660137573,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333331,
+        "num": 333331,
+        "word": "王霜正式签约路易斯维尔竞技",
+        "onboard_time": 1660134812,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331825,
+        "num": 331825,
+        "word": "收费员一路飞奔跨栏救下小朋友",
+        "onboard_time": 1660135293,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 460053,
+        "num": 314542,
+        "word": "胆小鬼",
+        "onboard_time": 1660138232,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456153,
+        "num": 305617,
+        "word": "蔡徐坤的衣服印着我不爱你了",
+        "onboard_time": 1660126294,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431122,
+        "num": 302733,
+        "word": "程少商为凌不疑舒展眉头",
+        "onboard_time": 1660135952,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289460,
+        "num": 289460,
+        "word": "专家称中国住房还是不够",
+        "onboard_time": 1660124432,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 281229,
+        "num": 288669,
+        "word": "突然觉得自己也长大了",
+        "onboard_time": 1660136193,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288580,
+        "num": 288580,
+        "word": "为什么我不主动感情就淡了",
+        "onboard_time": 1660125215,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285763,
+        "num": 285763,
+        "word": "劳荣枝二哥称就算判死刑也服",
+        "onboard_time": 1660121373,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276243,
+        "num": 276243,
+        "word": "军事演训导致海滩大量死鱼系谣言",
+        "onboard_time": 1660123473,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 261709,
+        "num": 261709,
+        "word": "美国CPI",
+        "onboard_time": 1660138353,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252375,
+        "num": 252375,
+        "word": "那一刻我把空调关了",
+        "onboard_time": 1660129594,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338790,
+        "num": 252214,
+        "word": "一口气炫完民国大侦探6集",
+        "onboard_time": 1660137514,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313413,
+        "num": 251823,
+        "word": "苍兰诀",
+        "onboard_time": 1660124255,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248705,
+        "num": 248705,
+        "word": "女生公交遇70岁老人猥亵录视频报警",
+        "onboard_time": 1660121796,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232204,
+        "num": 232204,
+        "word": "昆明发布一入境人员核酸检测阳性通告",
+        "onboard_time": 1660130975,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200357,
+        "num": 200357,
+        "word": "该不该支持单身父母去相亲",
+        "onboard_time": 1660129172,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200225,
+        "num": 200225,
+        "word": "成都一男子躺地上晒太阳称太冷",
+        "onboard_time": 1660122394,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195025,
+        "num": 195025,
+        "word": "民警带嫌疑人体检偶遇2岁发烧儿子",
+        "onboard_time": 1660126176,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193307,
+        "num": 193307,
+        "word": "阿迪一季度大中华区收入大跌35%",
+        "onboard_time": 1660138173,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192482,
+        "num": 192482,
+        "word": "五台山景区饭店用阴阳菜单被查封",
+        "onboard_time": 1660127676,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179481,
+        "num": 179481,
+        "word": "解决台湾问题的时势始终在祖国统一这边",
+        "onboard_time": 1660128635,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学党史#"
+    }
+  }
+}

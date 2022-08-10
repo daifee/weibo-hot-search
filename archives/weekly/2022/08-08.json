@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660136592683,
+  "endTime": 1660138598085,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -273,6 +273,14 @@
       "onboard_time": 1660024354,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2178529,
+      "num": 2178529,
+      "word": "独行月球为什么带不活电影院",
+      "onboard_time": 1660133492,
+      "rank": 4,
+      "category": "影视,社会议题"
     },
     {
       "raw_hot": 2170154,
@@ -553,14 +561,6 @@
       "onboard_time": 1659923969,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1625784,
-      "num": 1625784,
-      "word": "独行月球为什么带不活电影院",
-      "onboard_time": 1660133492,
-      "rank": 4,
-      "category": "影视,社会议题"
     },
     {
       "raw_hot": 1575968,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1170042,
+      "num": 693421,
+      "word": "郑秀妍于文文新浪扫楼",
+      "onboard_time": 1660136910,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170010,
       "num": 1170010,
       "word": "台北故宫辟谣台当局准备转移文物到美日",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1660090472,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1128610,
+      "num": 1128610,
+      "word": "程少商看清太子妃真面目",
+      "onboard_time": 1660135712,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1123562,
@@ -1235,14 +1251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 977946,
-      "num": 977946,
-      "word": "程少商看清太子妃真面目",
-      "onboard_time": 1660135712,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 976482,
       "num": 976482,
       "word": "杨幂做数学题好像在演我",
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928939,
+      "num": 928939,
+      "word": "王鹤棣演技",
+      "onboard_time": 1660133073,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 922661,
       "num": 1700627,
       "word": "幼儿园伙食丰富如满汉全席",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1659865711,
       "rank": 20,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 886702,
-      "num": 616375,
-      "word": "王鹤棣演技",
-      "onboard_time": 1660133073,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 880894,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1659938861,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742818,
+      "num": 667957,
+      "word": "胡一天新剧刚开播就失业",
+      "onboard_time": 1660136434,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 740501,
@@ -2067,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634233,
+      "num": 634233,
+      "word": "千万别再一个人闷头做事了",
+      "onboard_time": 1660135893,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632219,
       "num": 632219,
       "word": "苍兰诀",
@@ -2300,7 +2324,7 @@
     },
     {
       "raw_hot": 565824,
-      "num": 565824,
+      "num": 1323620,
       "word": "我国成功发射一箭十六星",
       "onboard_time": 1660110812,
       "rank": 16,
@@ -2587,6 +2611,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 523879,
+      "num": 385534,
+      "word": "俞飞鸿 演技",
+      "onboard_time": 1660137274,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 522285,
       "num": 522285,
       "word": "马頔不想跟毛不易合租",
@@ -2745,6 +2777,14 @@
       "onboard_time": 1659945936,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495381,
+      "num": 495381,
+      "word": "妲己热情桑巴返场",
+      "onboard_time": 1660134991,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 490800,
@@ -3003,6 +3043,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 465216,
+      "num": 373598,
+      "word": "虞书欣直播",
+      "onboard_time": 1660138296,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463455,
       "num": 463455,
       "word": "病重姥姥卖鲜玉米和鱼腥草救5岁半患癌外孙",
@@ -3025,6 +3073,14 @@
       "onboard_time": 1659919113,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 460053,
+      "num": 314542,
+      "word": "胆小鬼",
+      "onboard_time": 1660088007,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 457922,
@@ -3227,14 +3283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433849,
-      "num": 433849,
-      "word": "妲己热情桑巴返场",
-      "onboard_time": 1660134991,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 433742,
       "num": 433742,
       "word": "阿Sa分享成团幕后vlog",
@@ -3289,6 +3337,14 @@
       "onboard_time": 1660126235,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431122,
+      "num": 302733,
+      "word": "程少商为凌不疑舒展眉头",
+      "onboard_time": 1660135952,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 430045,
@@ -3377,14 +3433,6 @@
       "onboard_time": 1660058259,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 424909,
-      "num": 290243,
-      "word": "胡一天新剧刚开播就失业",
-      "onboard_time": 1660136434,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 424373,
@@ -3675,6 +3723,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 390368,
+      "num": 390368,
+      "word": "东部战区新闻发言人现场发布",
+      "onboard_time": 1660134092,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 390220,
       "num": 390220,
       "word": "花10元挂到了猫咪专家号",
@@ -3939,6 +3995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371280,
+      "num": 371280,
+      "word": "FGO 泳装",
+      "onboard_time": 1660137452,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 370618,
       "num": 370618,
       "word": "强控制欲和完全放养都是极端教育",
@@ -4187,20 +4251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 351140,
-      "num": 351140,
-      "word": "东部战区新闻发言人现场发布",
-      "onboard_time": 1660134092,
-      "rank": 35,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 350702,
       "num": 350702,
       "word": "做堂堂正正中国人",
       "onboard_time": 1660108176,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 350477,
+      "num": 350477,
+      "word": "娜可露露前尘镜",
+      "onboard_time": 1660137033,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 349492,
@@ -4259,6 +4323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343655,
+      "num": 343655,
+      "word": "三星发布会",
+      "onboard_time": 1660137573,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 342281,
       "num": 342281,
       "word": "KPL",
@@ -4304,6 +4376,14 @@
       "word": "追着彩虹的我们定档0816",
       "onboard_time": 1660012655,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338790,
+      "num": 252214,
+      "word": "一口气炫完民国大侦探6集",
+      "onboard_time": 1660137514,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -4369,6 +4449,14 @@
       "onboard_time": 1659932765,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331825,
+      "num": 331825,
+      "word": "收费员一路飞奔跨栏救下小朋友",
+      "onboard_time": 1660135293,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 331762,
@@ -4723,14 +4811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308233,
-      "num": 255527,
-      "word": "程少商为凌不疑舒展眉头",
-      "onboard_time": 1660135952,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 306408,
       "num": 286532,
       "word": "毕雯珺首张个人EP上线",
@@ -5027,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281229,
+      "num": 288669,
+      "word": "突然觉得自己也长大了",
+      "onboard_time": 1660136193,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280828,
       "num": 218426,
       "word": "颜淡脸蛋被唐周画乌龟",
@@ -5163,14 +5251,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 269962,
-      "num": 269962,
-      "word": "突然觉得自己也长大了",
-      "onboard_time": 1660136193,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269836,
       "num": 163101,
       "word": "笑点千千万张远陆虎占一半",
@@ -5283,6 +5363,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 261709,
+      "num": 261709,
+      "word": "美国CPI",
+      "onboard_time": 1660138353,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 261502,
       "num": 261502,
       "word": "海南新增77例本土阳性感染者",
@@ -5363,28 +5451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255700,
-      "num": 255700,
-      "word": "千万别再一个人闷头做事了",
-      "onboard_time": 1660135893,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255689,
       "num": 248943,
       "word": "郭俊辰说只怪剧组的饭太好吃",
       "onboard_time": 1660132353,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255208,
-      "num": 255208,
-      "word": "收费员一路飞奔跨栏救下小朋友",
-      "onboard_time": 1660135293,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 255150,
@@ -6187,6 +6259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193307,
+      "num": 193307,
+      "word": "阿迪一季度大中华区收入大跌35%",
+      "onboard_time": 1660138173,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191723,
       "num": 191723,
       "word": "老一辈的名字能有多好听",
@@ -6665,14 +6745,6 @@
       "onboard_time": 1659993251,
       "rank": 49,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 132489,
-      "num": 132489,
-      "word": "胆小鬼",
-      "onboard_time": 1660088007,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 130334,
