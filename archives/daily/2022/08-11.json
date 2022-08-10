@@ -1,6 +1,6 @@
 {
   "startTime": 1660149197860,
-  "endTime": 1660153285362,
+  "endTime": 1660155990165,
   "band_list": [
     {
       "raw_hot": 1483358,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261669,
+      "num": 261669,
+      "word": "海南三亚疫情仍处于高位进展期",
+      "onboard_time": 1660152917,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257273,
       "num": 257273,
       "word": "闵行 核酸",
@@ -403,7 +411,7 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 91518,
+      "raw_hot": 92694,
       "num": 85790,
       "word": "电视剧民国大侦探好看吗",
       "onboard_time": 1660152858,
@@ -419,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67151,
-      "num": 67151,
-      "word": "海南三亚疫情仍处于高位进展期",
-      "onboard_time": 1660152917,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 68875,
+      "num": 53055,
+      "word": "胡一天张云龙新剧仍是不三不四",
+      "onboard_time": 1660154355,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 47720,

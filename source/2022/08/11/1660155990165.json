@@ -1,0 +1,410 @@
+{
+  "runTime": 1660155990165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 353075,
+        "num": 353075,
+        "word": "给台湾同胞的一张海报",
+        "onboard_time": 1660129835,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 327928,
+        "num": 327928,
+        "word": "研究发现缺觉的人胳膊大腿更粗",
+        "onboard_time": 1660148608,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12834,
+        "num": 308131,
+        "word": "我国成功发射一箭十六星",
+        "onboard_time": 1660110812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 298726,
+        "num": 298726,
+        "word": "夫妻离婚不争车房只争宠物狗",
+        "onboard_time": 1660146872,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271107,
+        "num": 271107,
+        "word": "有百分百就业率的专业吗",
+        "onboard_time": 1660149505,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261669,
+        "num": 261669,
+        "word": "海南三亚疫情仍处于高位进展期",
+        "onboard_time": 1660152917,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255254,
+        "num": 255254,
+        "word": "阿迪达斯CEO承认在中国犯了错误",
+        "onboard_time": 1660128876,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228395,
+        "num": 228395,
+        "word": "偷偷藏不住段嘉许的语录",
+        "onboard_time": 1660147950,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207638,
+        "num": 207638,
+        "word": "李龙馥异瞳",
+        "onboard_time": 1660146512,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203779,
+        "num": 203779,
+        "word": "5岁女童无鼻梁或基因异常",
+        "onboard_time": 1660143216,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153379,
+        "num": 153379,
+        "word": "赵露思演技",
+        "onboard_time": 1660142615,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152654,
+        "num": 152654,
+        "word": "浪姐4网传阵容",
+        "onboard_time": 1660144355,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150106,
+        "num": 150106,
+        "word": "李泽言",
+        "onboard_time": 1660141415,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148892,
+        "num": 148892,
+        "word": "爸爸带娃玩手机孩子玩排泄物",
+        "onboard_time": 1660129712,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144667,
+        "num": 144667,
+        "word": "李汶翰说不能怪内娱没舞台",
+        "onboard_time": 1660144777,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "有一种炫富叫山东人的早餐",
+        "onboard_time": 1660142676,
+        "rank": 15,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 104037,
+        "num": 104037,
+        "word": "女子1月未吃火锅炫2斤羊肉被送医",
+        "onboard_time": 1660139555,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100914,
+        "num": 100914,
+        "word": "家中失火30万购房款烧成黑炭",
+        "onboard_time": 1660144533,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92556,
+        "num": 92556,
+        "word": "男子进化粪池救猪不幸身亡",
+        "onboard_time": 1660127013,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83923,
+        "num": 83923,
+        "word": "梅陇疫情防控",
+        "onboard_time": 1660148010,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276525,
+        "num": 82610,
+        "word": "男子将患精神病女子骗回家强奸",
+        "onboard_time": 1660145795,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 100836,
+        "num": 82414,
+        "word": "谢娜曾说包文婧命里缺光头",
+        "onboard_time": 1660142615,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92694,
+        "num": 80219,
+        "word": "电视剧民国大侦探好看吗",
+        "onboard_time": 1660152858,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97825,
+        "num": 79127,
+        "word": "独行月球为什么带不活电影院",
+        "onboard_time": 1660133492,
+        "rank": 23,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 78447,
+        "num": 78447,
+        "word": "祖国完全统一进程不可阻挡",
+        "onboard_time": 1660145018,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 75541,
+        "num": 75541,
+        "word": "新疆的水果也太便宜了",
+        "onboard_time": 1660144715,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67488,
+        "num": 67488,
+        "word": "猫等这一天很久了",
+        "onboard_time": 1660145494,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58976,
+        "num": 58976,
+        "word": "上海疫情防控",
+        "onboard_time": 1660144777,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56027,
+        "num": 56027,
+        "word": "妲己热情桑巴返场",
+        "onboard_time": 1660134991,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54903,
+        "num": 54903,
+        "word": "那一刻我把空调关了",
+        "onboard_time": 1660129594,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79644,
+        "num": 54647,
+        "word": "程少商看清太子妃真面目",
+        "onboard_time": 1660135712,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79594,
+        "num": 53702,
+        "word": "苍兰诀预告",
+        "onboard_time": 1660147769,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68875,
+        "num": 53055,
+        "word": "胡一天张云龙新剧仍是不三不四",
+        "onboard_time": 1660154355,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68591,
+        "num": 52187,
+        "word": "苍兰诀",
+        "onboard_time": 1660124255,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52085,
+        "num": 52085,
+        "word": "千万别再一个人闷头做事了",
+        "onboard_time": 1660135893,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48600,
+        "num": 48600,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45098,
+        "num": 45098,
+        "word": "河南小伙从车工逆袭领衔国家级工作室",
+        "onboard_time": 1660147171,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40878,
+        "num": 40878,
+        "word": "机器人成功救下15岁溺海男孩",
+        "onboard_time": 1660143697,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40109,
+        "num": 40109,
+        "word": "王毅提出台海局势要警惕三个动向",
+        "onboard_time": 1660131454,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 35828,
+        "num": 35828,
+        "word": "女生公交遇70岁老人猥亵录视频报警",
+        "onboard_time": 1660121796,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59944,
+        "num": 34563,
+        "word": "丁程鑫银幕首秀",
+        "onboard_time": 1660145614,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53946,
+        "num": 34349,
+        "word": "王鹤棣好帅",
+        "onboard_time": 1660146272,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33252,
+        "num": 33252,
+        "word": "阿迪一季度大中华区收入大跌35%",
+        "onboard_time": 1660138173,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32689,
+        "num": 32689,
+        "word": "曼联球迷计划空场抗议美国老板",
+        "onboard_time": 1660148966,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32447,
+        "num": 32447,
+        "word": "名创优品签约仪式曾挂日本国旗",
+        "onboard_time": 1660118554,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 31834,
+        "num": 31834,
+        "word": "闵行 核酸",
+        "onboard_time": 1660141778,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28802,
+        "num": 28802,
+        "word": "义乌新增21例阳性感染者",
+        "onboard_time": 1660144413,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28700,
+        "num": 28700,
+        "word": "军事演训导致海滩大量死鱼系谣言",
+        "onboard_time": 1660123473,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 25941,
+        "num": 25941,
+        "word": "别当着小孩的面摘隐形眼镜",
+        "onboard_time": 1660139794,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25738,
+        "num": 25738,
+        "word": "苏州疫情防控",
+        "onboard_time": 1660140218,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学党史#"
+    }
+  }
+}
