@@ -1,0 +1,410 @@
+{
+  "runTime": 1660136592683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3356319,
+        "num": 3356319,
+        "word": "给台湾同胞的一张海报",
+        "onboard_time": 1660129835,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1776608,
+        "num": 1776608,
+        "word": "阿迪达斯CEO承认在中国犯了错误",
+        "onboard_time": 1660128876,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644993,
+        "num": 1700627,
+        "word": "幼儿园伙食丰富如满汉全席",
+        "onboard_time": 1660124557,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1625784,
+        "num": 1625784,
+        "word": "独行月球为什么带不活电影院",
+        "onboard_time": 1660133492,
+        "rank": 3,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 1293165,
+        "num": 1293165,
+        "word": "王毅提出台海局势要警惕三个动向",
+        "onboard_time": 1660131454,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 990388,
+        "num": 990388,
+        "word": "东部战区",
+        "onboard_time": 1660114952,
+        "rank": 5,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 977946,
+        "num": 977946,
+        "word": "程少商看清太子妃真面目",
+        "onboard_time": 1660135712,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 949466,
+        "num": 949466,
+        "word": "杨幂做数学题好像在演我",
+        "onboard_time": 1660131816,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900630,
+        "num": 900630,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616541,
+        "num": 616541,
+        "word": "名创优品签约仪式曾挂日本国旗",
+        "onboard_time": 1660118554,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1047225,
+        "num": 616516,
+        "word": "爸爸带娃玩手机孩子玩排泄物",
+        "onboard_time": 1660129712,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925589,
+        "num": 616475,
+        "word": "赵露思说嫋嫋其实长这样",
+        "onboard_time": 1660130194,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 904778,
+        "num": 616412,
+        "word": "男子进化粪池救猪不幸身亡",
+        "onboard_time": 1660127013,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886702,
+        "num": 616375,
+        "word": "王鹤棣演技",
+        "onboard_time": 1660133073,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 616354,
+        "num": 616354,
+        "word": "刘亦菲白色长裙生图",
+        "onboard_time": 1660124012,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433849,
+        "num": 433849,
+        "word": "妲己热情桑巴返场",
+        "onboard_time": 1660134991,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 432212,
+        "num": 432212,
+        "word": "名创优品曾状告曝光其挂日本旗自媒体",
+        "onboard_time": 1660133794,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383001,
+        "num": 383001,
+        "word": "王霜正式签约路易斯维尔竞技",
+        "onboard_time": 1660134812,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381877,
+        "num": 381877,
+        "word": "该不该支持单身父母去相亲",
+        "onboard_time": 1660129172,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381640,
+        "num": 381640,
+        "word": "BLG 季后赛",
+        "onboard_time": 1660134336,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 589676,
+        "num": 379808,
+        "word": "蔡徐坤的衣服印着我不爱你了",
+        "onboard_time": 1660126294,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453706,
+        "num": 375020,
+        "word": "yolo",
+        "onboard_time": 1660135833,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432980,
+        "num": 368994,
+        "word": "虞书欣 可爱",
+        "onboard_time": 1660134336,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362515,
+        "num": 362515,
+        "word": "昆明发布一入境人员核酸检测阳性通告",
+        "onboard_time": 1660130975,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351140,
+        "num": 351140,
+        "word": "东部战区新闻发言人现场发布",
+        "onboard_time": 1660134092,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 323259,
+        "num": 323259,
+        "word": "为什么我不主动感情就淡了",
+        "onboard_time": 1660125215,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317166,
+        "num": 317166,
+        "word": "专家称中国住房还是不够",
+        "onboard_time": 1660124432,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 299260,
+        "num": 299260,
+        "word": "女生公交遇70岁老人猥亵录视频报警",
+        "onboard_time": 1660121796,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293676,
+        "num": 293676,
+        "word": "那一刻我把空调关了",
+        "onboard_time": 1660129594,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3364,
+        "num": 291199,
+        "word": "年轻人需要什么样的车",
+        "onboard_time": 1660132831,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424909,
+        "num": 290243,
+        "word": "胡一天新剧刚开播就失业",
+        "onboard_time": 1660136434,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386615,
+        "num": 287722,
+        "word": "CJ周密巡演",
+        "onboard_time": 1660135171,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355610,
+        "num": 285023,
+        "word": "赞多对熊猫的执念有多深",
+        "onboard_time": 1660134150,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336164,
+        "num": 281605,
+        "word": "苍兰诀",
+        "onboard_time": 1660124255,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280329,
+        "num": 280329,
+        "word": "军事演训导致海滩大量死鱼系谣言",
+        "onboard_time": 1660123473,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 275512,
+        "num": 275512,
+        "word": "eStar晋级世冠正赛",
+        "onboard_time": 1660135473,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270052,
+        "num": 270052,
+        "word": "劳荣枝二哥称就算判死刑也服",
+        "onboard_time": 1660121373,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269962,
+        "num": 269962,
+        "word": "突然觉得自己也长大了",
+        "onboard_time": 1660136193,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258882,
+        "num": 258882,
+        "word": "五台山景区饭店用阴阳菜单被查封",
+        "onboard_time": 1660127676,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255700,
+        "num": 255700,
+        "word": "千万别再一个人闷头做事了",
+        "onboard_time": 1660135893,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299891,
+        "num": 255548,
+        "word": "孟佳爆料吴彤如何加艺人微信",
+        "onboard_time": 1660126294,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308233,
+        "num": 255527,
+        "word": "程少商为凌不疑舒展眉头",
+        "onboard_time": 1660135952,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255208,
+        "num": 255208,
+        "word": "收费员一路飞奔跨栏救下小朋友",
+        "onboard_time": 1660135293,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 249617,
+        "num": 249617,
+        "word": "成都一男子躺地上晒太阳称太冷",
+        "onboard_time": 1660122394,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235495,
+        "num": 235495,
+        "word": "解决台湾问题的时势始终在祖国统一这边",
+        "onboard_time": 1660128635,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 224455,
+        "num": 224455,
+        "word": "国产智能手表有多卷",
+        "onboard_time": 1660128333,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221383,
+        "num": 221383,
+        "word": "民警带嫌疑人体检偶遇2岁发烧儿子",
+        "onboard_time": 1660126176,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206929,
+        "num": 206929,
+        "word": "范丞丞被提醒后的坐姿",
+        "onboard_time": 1660125574,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 202761,
+        "word": "无期迷途",
+        "onboard_time": 1660136550,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190071,
+        "num": 190071,
+        "word": "为什么夏天要和朋友一起过",
+        "onboard_time": 1660133372,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学党史#"
+    }
+  }
+}

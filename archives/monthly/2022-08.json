@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660135280367,
+  "endTime": 1660136592683,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1099,6 +1099,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 3356319,
+      "num": 3356319,
+      "word": "给台湾同胞的一张海报",
+      "onboard_time": 1660129835,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 3348763,
       "num": 3348763,
       "word": "联合国重申遵循一个中国政策",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1659614795,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 3120126,
-      "num": 3120126,
-      "word": "给台湾同胞的一张海报",
-      "onboard_time": 1660129835,
-      "rank": 40,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 3103938,
@@ -3147,6 +3147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1625784,
+      "num": 1625784,
+      "word": "独行月球为什么带不活电影院",
+      "onboard_time": 1660133492,
+      "rank": 4,
+      "category": "影视,社会议题"
+    },
+    {
       "raw_hot": 1615853,
       "num": 1112790,
       "word": "李玟",
@@ -4187,6 +4195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1293165,
+      "num": 1293165,
+      "word": "王毅提出台海局势要警惕三个动向",
+      "onboard_time": 1660131454,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1290850,
       "num": 1290850,
       "word": "2大妈马路边睡觉遭转弯车辆碾压",
@@ -5091,14 +5107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1096062,
-      "num": 432133,
-      "word": "王毅提出台海局势要警惕三个动向",
-      "onboard_time": 1660131454,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1094953,
       "num": 1094953,
       "word": "好心疼小鬼",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1659603344,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1089604,
-      "num": 1089604,
-      "word": "独行月球为什么带不活电影院",
-      "onboard_time": 1660133492,
-      "rank": 4,
-      "category": "影视,社会议题"
     },
     {
       "raw_hot": 1088282,
@@ -5683,6 +5683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977946,
+      "num": 977946,
+      "word": "程少商看清太子妃真面目",
+      "onboard_time": 1660135712,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 977627,
       "num": 547185,
       "word": "迪丽热巴 梦回高雯",
@@ -6084,7 +6092,7 @@
     },
     {
       "raw_hot": 922661,
-      "num": 1503607,
+      "num": 1700627,
       "word": "幼儿园伙食丰富如满汉全席",
       "onboard_time": 1660124557,
       "rank": 25,
@@ -6249,6 +6257,14 @@
       "onboard_time": 1659787712,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 886702,
+      "num": 616375,
+      "word": "王鹤棣演技",
+      "onboard_time": 1660133073,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 886577,
@@ -6569,14 +6585,6 @@
       "onboard_time": 1659275910,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 847644,
-      "num": 424474,
-      "word": "王鹤棣演技",
-      "onboard_time": 1660133073,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 847242,
@@ -12419,6 +12427,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 453706,
+      "num": 375020,
+      "word": "yolo",
+      "onboard_time": 1660049253,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453651,
       "num": 453651,
       "word": "B站回应HR称用户是Loser",
@@ -13035,6 +13051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433849,
+      "num": 433849,
+      "word": "妲己热情桑巴返场",
+      "onboard_time": 1660134991,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 433742,
       "num": 433742,
       "word": "阿Sa分享成团幕后vlog",
@@ -13067,6 +13091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432980,
+      "num": 368994,
+      "word": "虞书欣 可爱",
+      "onboard_time": 1660134336,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432658,
       "num": 432658,
       "word": "ios16",
@@ -13081,6 +13113,14 @@
       "onboard_time": 1660107580,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432212,
+      "num": 432212,
+      "word": "名创优品曾状告曝光其挂日本旗自媒体",
+      "onboard_time": 1660133794,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431862,
@@ -13331,6 +13371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424909,
+      "num": 290243,
+      "word": "胡一天新剧刚开播就失业",
+      "onboard_time": 1660136434,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424685,
       "num": 424685,
       "word": "父母让小学生开车上高速",
@@ -13361,14 +13409,6 @@
       "onboard_time": 1659690342,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 424262,
-      "num": 311207,
-      "word": "虞书欣 可爱",
-      "onboard_time": 1660134336,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 424192,
@@ -14515,6 +14555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386615,
+      "num": 287722,
+      "word": "CJ周密巡演",
+      "onboard_time": 1660135171,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 386474,
       "num": 386474,
       "word": "河南将全面推行交房即交证",
@@ -14635,6 +14683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383001,
+      "num": 383001,
+      "word": "王霜正式签约路易斯维尔竞技",
+      "onboard_time": 1660134812,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382990,
       "num": 382990,
       "word": "友情可以升级为爱情吗",
@@ -14681,6 +14737,14 @@
       "onboard_time": 1659799540,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381640,
+      "num": 381640,
+      "word": "BLG 季后赛",
+      "onboard_time": 1660134336,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 381335,
@@ -15899,6 +15963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351140,
+      "num": 351140,
+      "word": "东部战区新闻发言人现场发布",
+      "onboard_time": 1660134092,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 350789,
       "num": 350789,
       "word": "山西汾阳景区游客坠亡监控曝光",
@@ -16233,14 +16305,6 @@
       "onboard_time": 1659618576,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342379,
-      "num": 342379,
-      "word": "BLG 季后赛",
-      "onboard_time": 1660134336,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 342295,
@@ -17339,14 +17403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315613,
-      "num": 315613,
-      "word": "名创优品曾状告曝光其挂日本旗自媒体",
-      "onboard_time": 1660133794,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315015,
       "num": 315015,
       "word": "猫咪用头跟着小猫一同使劲",
@@ -17600,6 +17656,14 @@
       "word": "第二次拥抱姐姐们全员对抗家暴男",
       "onboard_time": 1660130913,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308233,
+      "num": 255527,
+      "word": "程少商为凌不疑舒展眉头",
+      "onboard_time": 1660135952,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -18651,14 +18715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277725,
-      "num": 277725,
-      "word": "CJ周密巡演",
-      "onboard_time": 1660135171,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 277260,
       "num": 277260,
       "word": "林彦俊我在时间尽头等你彩排剧照",
@@ -18707,14 +18763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276102,
-      "num": 276102,
-      "word": "东部战区新闻发言人现场发布",
-      "onboard_time": 1660134092,
-      "rank": 35,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 275796,
       "num": 275796,
       "word": "一次不要遛太多狗",
@@ -18729,6 +18777,14 @@
       "onboard_time": 1659424606,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275512,
+      "num": 275512,
+      "word": "eStar晋级世冠正赛",
+      "onboard_time": 1660135473,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 275404,
@@ -18953,6 +19009,14 @@
       "onboard_time": 1659934614,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 269962,
+      "num": 269962,
+      "word": "突然觉得自己也长大了",
+      "onboard_time": 1660136193,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 269914,
@@ -19491,6 +19555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255700,
+      "num": 255700,
+      "word": "千万别再一个人闷头做事了",
+      "onboard_time": 1660135893,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255689,
       "num": 248943,
       "word": "郭俊辰说只怪剧组的饭太好吃",
@@ -19529,6 +19601,14 @@
       "onboard_time": 1659786874,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255208,
+      "num": 255208,
+      "word": "收费员一路飞奔跨栏救下小朋友",
+      "onboard_time": 1660135293,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 255150,
@@ -21187,14 +21267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213849,
-      "num": 213849,
-      "word": "王霜正式签约路易斯维尔竞技",
-      "onboard_time": 1660134812,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213742,
       "num": 213742,
       "word": "大连人1比1上海海港",
@@ -21313,14 +21385,6 @@
       "onboard_time": 1660124192,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209890,
-      "num": 209890,
-      "word": "妲己热情桑巴返场",
-      "onboard_time": 1660134991,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 209170,
@@ -21465,6 +21529,14 @@
       "onboard_time": 1659962555,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202761,
+      "num": 202761,
+      "word": "无期迷途",
+      "onboard_time": 1660136550,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 202678,
@@ -22721,14 +22793,6 @@
       "onboard_time": 1659259949,
       "rank": 44,
       "category": "社会议题,教育"
-    },
-    {
-      "raw_hot": 125859,
-      "num": 110104,
-      "word": "yolo",
-      "onboard_time": 1660049253,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 125106,
