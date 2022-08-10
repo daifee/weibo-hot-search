@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660124309366,
+  "endTime": 1660127038495,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -523,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1626476,
+      "num": 800845,
+      "word": "孟佳爆料吴彤如何加艺人微信",
+      "onboard_time": 1660126294,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1575968,
       "num": 1575968,
       "word": "美方挑衅一次中方就坚决斗争一次",
@@ -577,6 +585,14 @@
       "onboard_time": 1660025012,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1508276,
+      "num": 527779,
+      "word": "蔡徐坤的衣服印着我不爱你了",
+      "onboard_time": 1660126294,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1497612,
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312281,
+      "num": 1312281,
+      "word": "东部战区将常态组织台海方向战备警巡",
+      "onboard_time": 1660122635,
+      "rank": 24,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 1300557,
       "num": 1207599,
       "word": "国防部回应取消中美两军三项交往活动",
@@ -848,6 +872,22 @@
       "word": "因弟弟求职被骗他当上招聘信息核验官",
       "onboard_time": 1660014996,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1194921,
+      "num": 798633,
+      "word": "刘亦菲白色长裙生图",
+      "onboard_time": 1660124012,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1194388,
+      "num": 1194388,
+      "word": "外卖小哥长期饮料当水喝突发尿毒症",
+      "onboard_time": 1660121433,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1033,6 +1073,14 @@
       "onboard_time": 1660007014,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1053706,
+      "num": 1053706,
+      "word": "劳荣枝二哥称就算判死刑也服",
+      "onboard_time": 1660121373,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051691,
@@ -1299,14 +1347,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 852758,
-      "num": 852758,
-      "word": "劳荣枝二哥称就算判死刑也服",
-      "onboard_time": 1660121373,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 840141,
       "num": 840141,
       "word": "里根号航母转向后继续向南移动",
@@ -1491,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763097,
+      "num": 763097,
+      "word": "专家称中国住房还是不够",
+      "onboard_time": 1660124432,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 755287,
       "num": 755287,
       "word": "80后女正厅段颖被查",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1659938861,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 750341,
-      "num": 750341,
-      "word": "东部战区将常态组织台海方向战备警巡",
-      "onboard_time": 1660122635,
-      "rank": 24,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 740501,
@@ -1931,20 +1971,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 628041,
-      "num": 628041,
-      "word": "刘亦菲白色长裙生图",
-      "onboard_time": 1660124012,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 625585,
       "num": 434226,
       "word": "liz 造型",
       "onboard_time": 1659972520,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 625153,
+      "num": 625153,
+      "word": "军事演训导致海滩大量死鱼系谣言",
+      "onboard_time": 1660123473,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 620323,
@@ -2091,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581472,
+      "num": 581472,
+      "word": "外交部回应佩洛西最新言论",
+      "onboard_time": 1660121556,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 578915,
       "num": 578915,
       "word": "2岁男童怪异脱发一碰就掉",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1660091794,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570674,
+      "num": 570674,
+      "word": "范丞丞被提醒后的坐姿",
+      "onboard_time": 1660125574,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 570648,
@@ -2155,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562105,
+      "num": 562105,
+      "word": "杨紫成毅沉香如屑全端市占率第一",
+      "onboard_time": 1660124133,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 560167,
       "num": 560167,
       "word": "新疆增122例无症状",
@@ -2195,27 +2259,11 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 555822,
-      "num": 555822,
-      "word": "外卖小哥长期饮料当水喝突发尿毒症",
-      "onboard_time": 1660121433,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 554994,
       "num": 554994,
       "word": "沉香如屑 灯芯",
       "onboard_time": 1659971679,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 554022,
-      "num": 554022,
-      "word": "杨紫成毅沉香如屑全端市占率第一",
-      "onboard_time": 1660124133,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -2419,6 +2467,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 528152,
+      "num": 528152,
+      "word": "some菀likeyou",
+      "onboard_time": 1660123774,
+      "rank": 25,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 527145,
+      "num": 527145,
+      "word": "为什么我不主动感情就淡了",
+      "onboard_time": 1660125215,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 522285,
       "num": 522285,
       "word": "马頔不想跟毛不易合租",
@@ -2499,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508743,
-      "num": 508743,
-      "word": "外交部回应佩洛西最新言论",
-      "onboard_time": 1660121556,
-      "rank": 25,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 503618,
       "num": 503618,
       "word": "这狗子是掉色了吗",
@@ -2521,6 +2577,14 @@
       "onboard_time": 1660106560,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502850,
+      "num": 502850,
+      "word": "成都一男子躺地上晒太阳称太冷",
+      "onboard_time": 1660122394,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501157,
@@ -2561,6 +2625,14 @@
       "onboard_time": 1660094132,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489615,
+      "num": 489615,
+      "word": "幼儿园伙食丰富如满汉全席",
+      "onboard_time": 1660124557,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489383,
@@ -2947,14 +3019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 442921,
-      "num": 430527,
-      "word": "some菀likeyou",
-      "onboard_time": 1660123774,
-      "rank": 25,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 442820,
       "num": 442820,
       "word": "羽生结弦直播",
@@ -3049,6 +3113,14 @@
       "onboard_time": 1660107580,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 431453,
+      "num": 431453,
+      "word": "王源分享录音室照",
+      "onboard_time": 1660126235,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 430045,
@@ -3251,14 +3323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 412316,
-      "num": 412316,
-      "word": "成都一男子躺地上晒太阳称太冷",
-      "onboard_time": 1660122394,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411425,
       "num": 411425,
       "word": "黄明昊为邓紫棋新歌打call",
@@ -3417,6 +3481,14 @@
       "onboard_time": 1659945877,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388803,
+      "num": 388803,
+      "word": "花10元挂到了猫咪专家号",
+      "onboard_time": 1660123774,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 387811,
@@ -3721,6 +3793,14 @@
       "onboard_time": 1660100314,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 365753,
+      "num": 365753,
+      "word": "19个省市调派1万余名医卫人员支援海南",
+      "onboard_time": 1660123055,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365331,
@@ -4043,6 +4123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331017,
+      "num": 331017,
+      "word": "北京累计判定密接人员124人",
+      "onboard_time": 1660125395,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330837,
       "num": 330837,
       "word": "三亚新增227例无症状感染者",
@@ -4185,14 +4273,6 @@
       "onboard_time": 1659957153,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 320019,
-      "num": 320019,
-      "word": "19个省市调派1万余名医卫人员支援海南",
-      "onboard_time": 1660123055,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319891,
@@ -4523,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294721,
+      "num": 294721,
+      "word": "消费者称东方树叶冷藏后分层",
+      "onboard_time": 1660125815,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294642,
       "num": 249562,
       "word": "这就是街舞5队长大秀剧照",
@@ -4705,6 +4793,14 @@
       "onboard_time": 1659938861,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277898,
+      "num": 277898,
+      "word": "5个特征判断是否有湿气",
+      "onboard_time": 1660125276,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277246,
@@ -5035,12 +5131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246758,
-      "num": 246758,
-      "word": "花10元挂到了猫咪专家号",
-      "onboard_time": 1660123774,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 246209,
+      "num": 246209,
+      "word": "两岸关系何去何从台湾当局必须正确选择",
+      "onboard_time": 1660126415,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 245875,
@@ -5225,6 +5321,14 @@
       "onboard_time": 1659922591,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235066,
+      "num": 235066,
+      "word": "一人一句为AG加油",
+      "onboard_time": 1660125634,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 234309,
@@ -5555,6 +5659,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 210052,
+      "num": 210052,
+      "word": "打工人上下班的两副面孔",
+      "onboard_time": 1660124192,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207709,
+      "num": 207709,
+      "word": "民警带嫌疑人体检偶遇2岁发烧儿子",
+      "onboard_time": 1660126176,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204302,
       "num": 151240,
       "word": "王一博热烈杀青合照",
@@ -5731,14 +5851,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 187887,
-      "num": 187887,
-      "word": "军事演训导致海滩大量死鱼系谣言",
-      "onboard_time": 1660123473,
-      "rank": 46,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 187852,
       "num": 187852,
       "word": "初级会计考试难度",
@@ -5776,6 +5888,22 @@
       "word": "江西省新增本土无症状感染者5例",
       "onboard_time": 1660097614,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185929,
+      "num": 185929,
+      "word": "男子进化粪池救猪不幸身亡",
+      "onboard_time": 1660127013,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185564,
+      "num": 185564,
+      "word": "北京疫情发布会",
+      "onboard_time": 1660124854,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5817,14 +5945,6 @@
       "onboard_time": 1659914060,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181043,
-      "num": 181043,
-      "word": "打工人上下班的两副面孔",
-      "onboard_time": 1660124192,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 180698,
