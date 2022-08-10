@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660106788427,
+  "endTime": 1660108801179,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2096197,
+      "num": 2096197,
+      "word": "丁香医生",
+      "onboard_time": 1660106560,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2088221,
       "num": 2088221,
       "word": "地图已可显示京台高铁线路图",
@@ -275,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1974817,
+      "num": 541626,
+      "word": "刘畊宏回乡拍全家福",
+      "onboard_time": 1660107399,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1972243,
       "num": 451871,
       "word": "谢谢王菲",
       "onboard_time": 1659947978,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1933265,
+      "num": 1933265,
+      "word": "名创优品被曝店内不许放中文歌",
+      "onboard_time": 1660104217,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1929994,
@@ -321,14 +345,6 @@
       "onboard_time": 1660086622,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1845577,
-      "num": 1845577,
-      "word": "名创优品被曝店内不许放中文歌",
-      "onboard_time": 1660104217,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1816071,
@@ -585,6 +601,14 @@
       "onboard_time": 1659968499,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1354643,
+      "num": 1354643,
+      "word": "佩洛西称窜台是遵循拜登政策",
+      "onboard_time": 1660105717,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1352403,
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967157,
+      "num": 967157,
+      "word": "王鹤棣帮虞书欣挡镜头",
+      "onboard_time": 1660103557,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 965946,
       "num": 965946,
       "word": "台北70岁山东饺子馆老板发声",
@@ -1032,14 +1064,6 @@
       "word": "郑秀妍录制你好星期六路透图",
       "onboard_time": 1659949178,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 945688,
-      "num": 945688,
-      "word": "王鹤棣帮虞书欣挡镜头",
-      "onboard_time": 1660103557,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1259,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782171,
+      "num": 782171,
+      "word": "丁香园",
+      "onboard_time": 1660106740,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778037,
       "num": 778037,
       "word": "广州全日制本科生参保即可落户",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1659948757,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772838,
+      "num": 772838,
+      "word": "粉丝曝曾替SNH48前成员祁静付违约金",
+      "onboard_time": 1660106982,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 769231,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1659955235,
       "rank": 47,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 698143,
+      "num": 698143,
+      "word": "马斯克套现近68.9亿美元",
+      "onboard_time": 1660105239,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 696844,
@@ -1723,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591891,
+      "num": 591891,
+      "word": "向前冲冰箱告急",
+      "onboard_time": 1660107340,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590187,
       "num": 590187,
       "word": "深圳特产是海南椰子鸡",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1660027654,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551480,
+      "num": 551480,
+      "word": "对台独分子杨智渊变更刑事强制措施",
+      "onboard_time": 1660106501,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 547895,
@@ -2067,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515869,
-      "num": 515869,
-      "word": "马斯克套现近68.9亿美元",
-      "onboard_time": 1660105239,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 515423,
       "num": 515423,
       "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1660029694,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511793,
-      "num": 511793,
-      "word": "佩洛西称窜台是遵循拜登政策",
-      "onboard_time": 1660105717,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 511643,
@@ -2217,6 +2265,14 @@
       "onboard_time": 1659960815,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486750,
+      "num": 486750,
+      "word": "王俊凯记录你所给我的一切好哭",
+      "onboard_time": 1660107936,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 485394,
@@ -2779,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406054,
+      "num": 406054,
+      "word": "国产手机屏幕为何越来越受欢迎",
+      "onboard_time": 1660107399,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 404107,
       "num": 404107,
       "word": "杜海涛和90岁爷爷比肺活量输了",
@@ -3115,6 +3179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 366277,
+      "num": 366277,
+      "word": "回形针",
+      "onboard_time": 1660107697,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 366184,
       "num": 366184,
       "word": "邓紫棋爆发崩溃哭戏",
@@ -3219,14 +3291,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 355364,
-      "num": 355364,
-      "word": "丁香医生",
-      "onboard_time": 1660106560,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355332,
       "num": 355332,
       "word": "电视剧学学苍兰诀营业吧",
@@ -3320,6 +3384,14 @@
       "word": "雀斑公主定档826",
       "onboard_time": 1660013675,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 343201,
+      "num": 335481,
+      "word": "江疏影欢乐颂3生化研究员造型",
+      "onboard_time": 1660107580,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -3497,6 +3569,14 @@
       "onboard_time": 1660101815,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329717,
+      "num": 329717,
+      "word": "7年前老电脑为何能处理上亿数据",
+      "onboard_time": 1660104396,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 329468,
@@ -3715,6 +3795,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308718,
+      "num": 308718,
+      "word": "祖国完全统一的历史任务一定要实现",
+      "onboard_time": 1660107160,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 306408,
+      "num": 286532,
+      "word": "毕雯珺首张个人EP上线",
+      "onboard_time": 1660108297,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306357,
       "num": 306357,
       "word": "虞书欣苍兰诀片场花絮照",
@@ -3793,6 +3889,14 @@
       "onboard_time": 1660016553,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297681,
+      "num": 297681,
+      "word": "做堂堂正正中国人",
+      "onboard_time": 1660108176,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 297556,
@@ -4019,14 +4123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276937,
-      "num": 276937,
-      "word": "对台独分子杨智渊变更刑事强制措施",
-      "onboard_time": 1660106501,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 274463,
       "num": 209839,
       "word": "刘宇白话文舞台好治愈",
@@ -4067,28 +4163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268874,
-      "num": 268874,
-      "word": "7年前老电脑为何能处理上亿数据",
-      "onboard_time": 1660104396,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 268299,
       "num": 268299,
       "word": "微信支持手机电脑互传聊天记录",
       "onboard_time": 1660017157,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 267533,
-      "num": 267533,
-      "word": "丁香园",
-      "onboard_time": 1660106740,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267219,
@@ -4579,6 +4659,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 231665,
+      "num": 231665,
+      "word": "父亲双腿残疾放弃治疗救患癌儿子",
+      "onboard_time": 1660107517,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231381,
       "num": 231381,
       "word": "杨超越独竹漂少女",
@@ -4801,6 +4889,14 @@
       "onboard_time": 1660090774,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214698,
+      "num": 214698,
+      "word": "阴阳师",
+      "onboard_time": 1659884072,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 214025,
@@ -5249,14 +5345,6 @@
       "onboard_time": 1660052979,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151518,
-      "num": 151518,
-      "word": "阴阳师",
-      "onboard_time": 1659884072,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 150464,

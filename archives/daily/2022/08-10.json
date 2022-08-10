@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660106788427,
+  "endTime": 1660108801179,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -51,6 +51,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2096197,
+      "num": 2096197,
+      "word": "丁香医生",
+      "onboard_time": 1660106560,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1974817,
+      "num": 541626,
+      "word": "刘畊宏回乡拍全家福",
+      "onboard_time": 1660107399,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1933265,
+      "num": 1933265,
+      "word": "名创优品被曝店内不许放中文歌",
+      "onboard_time": 1660104217,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1908170,
       "num": 1908170,
       "word": "佩洛西回应特朗普豪宅遭查",
@@ -65,14 +89,6 @@
       "onboard_time": 1660086622,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1845577,
-      "num": 1845577,
-      "word": "名创优品被曝店内不许放中文歌",
-      "onboard_time": 1660104217,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1816071,
@@ -137,6 +153,14 @@
       "onboard_time": 1660105180,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1354643,
+      "num": 1354643,
+      "word": "佩洛西称窜台是遵循拜登政策",
+      "onboard_time": 1660105717,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1348596,
@@ -227,20 +251,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 967157,
+      "num": 967157,
+      "word": "王鹤棣帮虞书欣挡镜头",
+      "onboard_time": 1660103557,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962515,
       "num": 962515,
       "word": "男子拖欠民工8万被戴手铐妻子急了",
       "onboard_time": 1660096473,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 945688,
-      "num": 945688,
-      "word": "王鹤棣帮虞书欣挡镜头",
-      "onboard_time": 1660103557,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 914201,
@@ -273,6 +297,22 @@
       "onboard_time": 1660068677,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 782171,
+      "num": 782171,
+      "word": "丁香园",
+      "onboard_time": 1660106740,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772838,
+      "num": 772838,
+      "word": "粉丝曝曾替SNH48前成员祁静付违约金",
+      "onboard_time": 1660106982,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 769231,
@@ -321,6 +361,14 @@
       "onboard_time": 1660053159,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 698143,
+      "num": 698143,
+      "word": "马斯克套现近68.9亿美元",
+      "onboard_time": 1660105239,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 695976,
@@ -387,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591891,
+      "num": 591891,
+      "word": "向前冲冰箱告急",
+      "onboard_time": 1660107340,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585025,
       "num": 526407,
       "word": "赵奕欢说我不想有一个包贝尔",
@@ -443,6 +499,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 551480,
+      "num": 551480,
+      "word": "对台独分子杨智渊变更刑事强制措施",
+      "onboard_time": 1660106501,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 546184,
       "num": 546184,
       "word": "五公主好蠢",
@@ -475,14 +539,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 515869,
-      "num": 515869,
-      "word": "马斯克套现近68.9亿美元",
-      "onboard_time": 1660105239,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 515393,
       "num": 515393,
       "word": "分手当天都做了什么",
@@ -497,14 +553,6 @@
       "onboard_time": 1660058435,
       "rank": 11,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 511793,
-      "num": 511793,
-      "word": "佩洛西称窜台是遵循拜登政策",
-      "onboard_time": 1660105717,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 511643,
@@ -529,6 +577,14 @@
       "onboard_time": 1660094132,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486750,
+      "num": 486750,
+      "word": "王俊凯记录你所给我的一切好哭",
+      "onboard_time": 1660107936,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 485394,
@@ -651,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 406054,
+      "num": 406054,
+      "word": "国产手机屏幕为何越来越受欢迎",
+      "onboard_time": 1660107399,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 404107,
       "num": 404107,
       "word": "杜海涛和90岁爷爷比肺活量输了",
@@ -707,6 +771,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 366277,
+      "num": 366277,
+      "word": "回形针",
+      "onboard_time": 1660107697,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 366174,
       "num": 330099,
       "word": "INTO1新歌月下夜色氛围大片",
@@ -747,14 +819,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 355364,
-      "num": 355364,
-      "word": "丁香医生",
-      "onboard_time": 1660106560,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352435,
       "num": 352435,
       "word": "二十不惑官博发文",
@@ -777,6 +841,14 @@
       "onboard_time": 1660102113,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 343201,
+      "num": 335481,
+      "word": "江疏影欢乐颂3生化研究员造型",
+      "onboard_time": 1660107580,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 341875,
@@ -835,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329717,
+      "num": 329717,
+      "word": "7年前老电脑为何能处理上亿数据",
+      "onboard_time": 1660104396,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 329590,
       "num": 329590,
       "word": "25岁小伙胸部B罩杯被分手了",
@@ -867,12 +947,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308718,
+      "num": 308718,
+      "word": "祖国完全统一的历史任务一定要实现",
+      "onboard_time": 1660107160,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 306408,
+      "num": 286532,
+      "word": "毕雯珺首张个人EP上线",
+      "onboard_time": 1660108297,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305292,
       "num": 305292,
       "word": "李浩贤",
       "onboard_time": 1660095450,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 297681,
+      "num": 297681,
+      "word": "做堂堂正正中国人",
+      "onboard_time": 1660108176,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 297372,
@@ -905,30 +1009,6 @@
       "onboard_time": 1660090293,
       "rank": 38,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 276937,
-      "num": 276937,
-      "word": "对台独分子杨智渊变更刑事强制措施",
-      "onboard_time": 1660106501,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 268874,
-      "num": 268874,
-      "word": "7年前老电脑为何能处理上亿数据",
-      "onboard_time": 1660104396,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 267533,
-      "num": 267533,
-      "word": "丁香园",
-      "onboard_time": 1660106740,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267373,
@@ -1043,6 +1123,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 231665,
+      "num": 231665,
+      "word": "父亲双腿残疾放弃治疗救患癌儿子",
+      "onboard_time": 1660107517,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230648,
       "num": 230648,
       "word": "一层三户分别住着海军陆军武警",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1660090774,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214698,
+      "num": 214698,
+      "word": "阴阳师",
+      "onboard_time": 1660108119,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 204024,
