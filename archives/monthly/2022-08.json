@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660150705989,
+  "endTime": 1660152330820,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -5769,6 +5769,14 @@
       "onboard_time": 1659599080,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 983710,
+      "num": 983710,
+      "word": "研究发现缺觉的人胳膊大腿更粗",
+      "onboard_time": 1660148608,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 980054,
@@ -13275,14 +13283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435737,
-      "num": 435737,
-      "word": "研究发现缺觉的人胳膊大腿更粗",
-      "onboard_time": 1660148608,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435719,
       "num": 435719,
       "word": "邓小琪男友下跪",
@@ -14633,6 +14633,14 @@
       "onboard_time": 1660115131,
       "rank": 28,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 392391,
+      "num": 349756,
+      "word": "有百分百就业率的专业吗",
+      "onboard_time": 1660149505,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 392271,
@@ -19089,14 +19097,6 @@
       "onboard_time": 1660090293,
       "rank": 38,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 279187,
-      "num": 258314,
-      "word": "有百分百就业率的专业吗",
-      "onboard_time": 1660149505,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 278986,

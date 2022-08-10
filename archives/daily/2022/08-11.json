@@ -1,6 +1,6 @@
 {
   "startTime": 1660149197860,
-  "endTime": 1660150705989,
+  "endTime": 1660152330820,
   "band_list": [
     {
       "raw_hot": 1483358,
@@ -40,6 +40,14 @@
       "word": "5岁女童无鼻梁或基因异常",
       "onboard_time": 1660143216,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983710,
+      "num": 983710,
+      "word": "研究发现缺觉的人胳膊大腿更粗",
+      "onboard_time": 1660148608,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435737,
-      "num": 435737,
-      "word": "研究发现缺觉的人胳膊大腿更粗",
-      "onboard_time": 1660148608,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429736,
       "num": 429736,
       "word": "女子1月未吃火锅炫2斤羊肉被送医",
       "onboard_time": 1660139555,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392391,
+      "num": 349756,
+      "word": "有百分百就业率的专业吗",
+      "onboard_time": 1660149505,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 387745,
@@ -209,14 +217,6 @@
       "onboard_time": 1660145614,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279187,
-      "num": 258314,
-      "word": "有百分百就业率的专业吗",
-      "onboard_time": 1660149505,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 270204,
