@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660123286323,
+  "endTime": 1660124309366,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 4558167,
-      "num": 519733,
+      "num": 543371,
       "word": "哇唧唧哇新签约的男爱豆",
       "onboard_time": 1660112251,
       "rank": 20,
@@ -35,8 +35,8 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 3101741,
-      "num": 3101741,
+      "raw_hot": 3188547,
+      "num": 3188547,
       "word": "东部战区",
       "onboard_time": 1660114952,
       "rank": 9,
@@ -185,6 +185,14 @@
       "onboard_time": 1660060651,
       "rank": 0,
       "category": "科技,国外要闻"
+    },
+    {
+      "raw_hot": 1752743,
+      "num": 1752743,
+      "word": "女生公交遇70岁老人猥亵录视频报警",
+      "onboard_time": 1660121796,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1683290,
@@ -403,14 +411,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 904161,
-      "num": 904161,
-      "word": "女生公交遇70岁老人猥亵录视频报警",
-      "onboard_time": 1660121796,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 870347,
       "num": 1874895,
       "word": "代替跷二郎腿的坐姿",
@@ -425,6 +425,14 @@
       "onboard_time": 1660106501,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 852758,
+      "num": 852758,
+      "word": "劳荣枝二哥称就算判死刑也服",
+      "onboard_time": 1660121373,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 832321,
@@ -497,6 +505,14 @@
       "onboard_time": 1660118014,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 750341,
+      "num": 750341,
+      "word": "东部战区将常态组织台海方向战备警巡",
+      "onboard_time": 1660122635,
+      "rank": 24,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 740501,
@@ -635,12 +651,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 639476,
-      "num": 639476,
-      "word": "劳荣枝二哥称就算判死刑也服",
-      "onboard_time": 1660121373,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 628041,
+      "num": 628041,
+      "word": "刘亦菲白色长裙生图",
+      "onboard_time": 1660124012,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 620323,
@@ -763,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555822,
+      "num": 555822,
+      "word": "外卖小哥长期饮料当水喝突发尿毒症",
+      "onboard_time": 1660121433,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554022,
+      "num": 554022,
+      "word": "杨紫成毅沉香如屑全端市占率第一",
+      "onboard_time": 1660124133,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552530,
       "num": 552530,
       "word": "克里米亚军用机场发生爆炸",
@@ -785,6 +817,14 @@
       "onboard_time": 1660094075,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543120,
+      "num": 543120,
+      "word": "任嘉伦不想错过任何一个打乒乓球的机会",
+      "onboard_time": 1660123714,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 541440,
@@ -851,11 +891,27 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 508743,
+      "num": 508743,
+      "word": "外交部回应佩洛西最新言论",
+      "onboard_time": 1660121556,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 503350,
       "num": 503350,
       "word": "王俊凯说孟超是不被任何人理解的",
       "onboard_time": 1660106560,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 501157,
+      "num": 501157,
+      "word": "凌不疑程少商能有多好嗑",
+      "onboard_time": 1660124012,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -995,12 +1051,28 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 448215,
+      "num": 231639,
+      "word": "苍兰诀",
+      "onboard_time": 1660043973,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445011,
       "num": 445011,
       "word": "这家企业把大海搬进工厂了",
       "onboard_time": 1660099834,
       "rank": 28,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 442921,
+      "num": 430527,
+      "word": "some菀likeyou",
+      "onboard_time": 1660123774,
+      "rank": 25,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 442820,
@@ -1067,12 +1139,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 415451,
+      "num": 334846,
+      "word": "断桥预售破1500万",
+      "onboard_time": 1660123112,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413316,
       "num": 413316,
       "word": "王梓薇演技",
       "onboard_time": 1660109615,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412316,
+      "num": 412316,
+      "word": "成都一男子躺地上晒太阳称太冷",
+      "onboard_time": 1660122394,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410759,
@@ -1139,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396079,
-      "num": 396079,
-      "word": "东部战区将常态组织台海方向战备警巡",
-      "onboard_time": 1660122635,
-      "rank": 24,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 392643,
       "num": 392643,
       "word": "何洛洛银发太空旅人造型",
@@ -1155,12 +1235,12 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 391806,
-      "num": 391806,
-      "word": "外交部回应佩洛西最新言论",
-      "onboard_time": 1660121556,
-      "rank": 25,
-      "category": "国内要闻"
+      "raw_hot": 387811,
+      "num": 351633,
+      "word": "江疏影窦骁欢乐颂3演cp",
+      "onboard_time": 1660119454,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 384783,
@@ -1251,14 +1331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360998,
-      "num": 351633,
-      "word": "江疏影窦骁欢乐颂3演cp",
-      "onboard_time": 1660119454,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 359886,
       "num": 359886,
       "word": "山东一秒入秋",
@@ -1272,14 +1344,6 @@
       "word": "社区开展好媳妇为婆婆洗脚活动",
       "onboard_time": 1660049559,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359688,
-      "num": 359688,
-      "word": "外卖小哥长期饮料当水喝突发尿毒症",
-      "onboard_time": 1660121433,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1363,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332544,
-      "num": 332544,
-      "word": "断桥预售破1500万",
-      "onboard_time": 1660123112,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 330615,
       "num": 261423,
       "word": "怦然心动20岁",
@@ -1435,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320019,
+      "num": 320019,
+      "word": "19个省市调派1万余名医卫人员支援海南",
+      "onboard_time": 1660123055,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316472,
       "num": 316472,
       "word": "海南增285例确诊285例无症状",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1660114592,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299716,
+      "num": 239269,
+      "word": "王一博摩天大楼跳hiphop",
+      "onboard_time": 1660123595,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 297372,
@@ -1553,22 +1625,6 @@
       "onboard_time": 1660090293,
       "rank": 38,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 272475,
-      "num": 272475,
-      "word": "成都一男子躺地上晒太阳称太冷",
-      "onboard_time": 1660122394,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267373,
-      "num": 231639,
-      "word": "苍兰诀",
-      "onboard_time": 1660043973,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 266222,
@@ -1659,12 +1715,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246758,
+      "num": 246758,
+      "word": "花10元挂到了猫咪专家号",
+      "onboard_time": 1660123774,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244398,
       "num": 244398,
       "word": "苍兰诀观后感",
       "onboard_time": 1660093415,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241588,
+      "num": 241588,
+      "word": "乐爱豆",
+      "onboard_time": 1660124192,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 239644,
@@ -1787,14 +1859,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 192987,
-      "num": 192987,
-      "word": "19个省市调派1万余名医卫人员支援海南",
-      "onboard_time": 1660123055,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191261,
       "num": 191261,
       "word": "马斯克回应套现465亿元",
@@ -1827,6 +1891,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 187887,
+      "num": 187887,
+      "word": "军事演训导致海滩大量死鱼系谣言",
+      "onboard_time": 1660123473,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 186499,
       "num": 186499,
       "word": "江西省新增本土无症状感染者5例",
@@ -1857,6 +1929,14 @@
       "onboard_time": 1660064242,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181043,
+      "num": 181043,
+      "word": "打工人上下班的两副面孔",
+      "onboard_time": 1660124192,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 180698,
