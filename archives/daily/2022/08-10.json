@@ -1,6 +1,6 @@
 {
   "startTime": 1660064038120,
-  "endTime": 1660128010166,
+  "endTime": 1660130300969,
   "band_list": [
     {
       "raw_hot": 4965331,
@@ -152,6 +152,14 @@
       "word": "涉嫌猥亵妇女中学教师被停岗",
       "onboard_time": 1660113689,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1829149,
+      "num": 1243861,
+      "word": "男子进化粪池救猪不幸身亡",
+      "onboard_time": 1660127013,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1227858,
+      "num": 1227858,
+      "word": "阿迪达斯CEO承认在中国犯了错误",
+      "onboard_time": 1660128876,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1221646,
       "num": 798633,
       "word": "刘亦菲白色长裙生图",
@@ -395,6 +411,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 1055162,
+      "num": 1055162,
+      "word": "专家称中国住房还是不够",
+      "onboard_time": 1660124432,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1053706,
       "num": 1053706,
       "word": "劳荣枝二哥称就算判死刑也服",
@@ -451,20 +475,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 922661,
+      "num": 1244178,
+      "word": "幼儿园伙食丰富如满汉全席",
+      "onboard_time": 1660124557,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914201,
       "num": 914201,
       "word": "非和平方式将是不得已情况下做出的最后选择",
       "onboard_time": 1660102774,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 893240,
-      "num": 893240,
-      "word": "专家称中国住房还是不够",
-      "onboard_time": 1660124432,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 870347,
@@ -505,6 +529,14 @@
       "onboard_time": 1660113933,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 798145,
+      "num": 798145,
+      "word": "为什么我不主动感情就淡了",
+      "onboard_time": 1660125215,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 787002,
@@ -585,6 +617,14 @@
       "onboard_time": 1660053159,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 721986,
+      "num": 634515,
+      "word": "范丞丞被提醒后的坐姿",
+      "onboard_time": 1660125574,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 713770,
@@ -699,14 +739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 634515,
-      "num": 634515,
-      "word": "范丞丞被提醒后的坐姿",
-      "onboard_time": 1660125574,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 620323,
       "num": 620323,
       "word": "岳岳登顶",
@@ -728,14 +760,6 @@
       "word": "三亚增175例确诊病例",
       "onboard_time": 1660092578,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608630,
-      "num": 608630,
-      "word": "幼儿园伙食丰富如满汉全席",
-      "onboard_time": 1660124557,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -851,22 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 555884,
-      "num": 555884,
-      "word": "为什么我不主动感情就淡了",
-      "onboard_time": 1660125215,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 553134,
-      "num": 553134,
-      "word": "男子进化粪池救猪不幸身亡",
-      "onboard_time": 1660127013,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 552530,
       "num": 552530,
       "word": "克里米亚军用机场发生爆炸",
@@ -913,6 +921,14 @@
       "onboard_time": 1660107160,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 535204,
+      "num": 535204,
+      "word": "民警带嫌疑人体检偶遇2岁发烧儿子",
+      "onboard_time": 1660126176,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535065,
@@ -984,6 +1000,14 @@
       "word": "成都一男子躺地上晒太阳称太冷",
       "onboard_time": 1660122394,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502100,
+      "num": 502100,
+      "word": "消费者称东方树叶冷藏后分层",
+      "onboard_time": 1660125815,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1059,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477980,
+      "num": 477980,
+      "word": "国产智能手表有多卷",
+      "onboard_time": 1660128333,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 477960,
       "num": 477960,
       "word": "周震南的三杯鸡只有两杯",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1660102472,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455557,
+      "num": 455557,
+      "word": "该不该支持单身父母去相亲",
+      "onboard_time": 1660129172,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 454915,
@@ -1243,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412999,
+      "num": 412999,
+      "word": "马嘉祺侠舞蹈MV怼脸镜头",
+      "onboard_time": 1660129895,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 410759,
       "num": 410759,
       "word": "王俊凯献唱断桥推广曲",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1660095450,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401055,
+      "num": 401055,
+      "word": "成都老字号兔火锅有多绝",
+      "onboard_time": 1660127494,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 400578,
@@ -1371,6 +1427,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 376517,
+      "num": 376517,
+      "word": "五台山景区饭店用阴阳菜单被查封",
+      "onboard_time": 1660127676,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375107,
       "num": 347840,
       "word": "张新成发文感谢裴之和爸爸",
@@ -1451,20 +1515,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 358175,
+      "num": 358175,
+      "word": "解决台湾问题的时势始终在祖国统一这边",
+      "onboard_time": 1660128635,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 357396,
       "num": 357396,
       "word": "国务院联防联控机制召开新闻发布会",
       "onboard_time": 1660118794,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 355671,
-      "num": 382801,
-      "word": "消费者称东方树叶冷藏后分层",
-      "onboard_time": 1660125815,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352435,
@@ -1499,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342281,
+      "num": 342281,
+      "word": "KPL",
+      "onboard_time": 1660129895,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 341875,
       "num": 326200,
       "word": "北影节公布开幕影片",
@@ -1523,11 +1595,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337480,
+      "num": 337480,
+      "word": "想看张若昀许凯彭昱畅一起录密逃",
+      "onboard_time": 1660128934,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335200,
       "num": 332215,
       "word": "胡一天的司徒颜",
       "onboard_time": 1660101214,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335077,
+      "num": 335077,
+      "word": "爸爸带娃玩手机孩子玩排泄物",
+      "onboard_time": 1660129712,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333121,
+      "num": 333121,
+      "word": "赵露思说嫋嫋其实长这样",
+      "onboard_time": 1660130194,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1627,12 +1723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306695,
-      "num": 306695,
-      "word": "民警带嫌疑人体检偶遇2岁发烧儿子",
-      "onboard_time": 1660126176,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 308746,
+      "num": 308746,
+      "word": "那一刻我把空调关了",
+      "onboard_time": 1660129594,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 306408,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1660095450,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 305004,
+      "num": 305004,
+      "word": "两岸关系何去何从台湾当局必须正确选择",
+      "onboard_time": 1660126415,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 301594,
@@ -1716,27 +1820,11 @@
     },
     {
       "raw_hot": 290196,
-      "num": 206913,
+      "num": 268668,
       "word": "颜淡唐周相互吃醋",
       "onboard_time": 1660127974,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287230,
-      "num": 287230,
-      "word": "成都老字号兔火锅有多绝",
-      "onboard_time": 1660127494,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 285363,
-      "num": 285363,
-      "word": "两岸关系何去何从台湾当局必须正确选择",
-      "onboard_time": 1660126415,
-      "rank": 41,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 280633,
@@ -1769,6 +1857,14 @@
       "onboard_time": 1660125276,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273496,
+      "num": 273496,
+      "word": "给台湾同胞的一张海报",
+      "onboard_time": 1660129835,
+      "rank": 40,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 266222,
@@ -1971,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215623,
+      "num": 215623,
+      "word": "河南特岗笔试恢复时间确定",
+      "onboard_time": 1660129232,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 215129,
       "num": 215129,
       "word": "迷路女童被送回家后亲辅警脸颊",
@@ -1993,14 +2097,6 @@
       "onboard_time": 1660120171,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 210655,
-      "num": 210655,
-      "word": "五台山景区饭店用阴阳菜单被查封",
-      "onboard_time": 1660127676,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210052,
@@ -2033,6 +2129,14 @@
       "onboard_time": 1660127195,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197037,
+      "num": 262671,
+      "word": "心疼萧臻",
+      "onboard_time": 1660130134,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 191261,
