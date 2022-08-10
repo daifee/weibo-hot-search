@@ -1,0 +1,410 @@
+{
+  "runTime": 1660150705989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481172,
+        "num": 1481172,
+        "word": "夫妻离婚不争车房只争宠物狗",
+        "onboard_time": 1660146872,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980386,
+        "num": 980386,
+        "word": "给台湾同胞的一张海报",
+        "onboard_time": 1660129835,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 39009,
+        "num": 963975,
+        "word": "我国成功发射一箭十六星",
+        "onboard_time": 1660110812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1075976,
+        "num": 962717,
+        "word": "李龙馥异瞳",
+        "onboard_time": 1660146512,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 957602,
+        "num": 957602,
+        "word": "偷偷藏不住段嘉许的语录",
+        "onboard_time": 1660147950,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 692716,
+        "num": 692716,
+        "word": "5岁女童无鼻梁或基因异常",
+        "onboard_time": 1660143216,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649706,
+        "num": 649706,
+        "word": "家中失火30万购房款烧成黑炭",
+        "onboard_time": 1660144533,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641597,
+        "num": 641597,
+        "word": "浪姐4网传阵容",
+        "onboard_time": 1660144355,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525822,
+        "num": 525822,
+        "word": "有一种炫富叫山东人的早餐",
+        "onboard_time": 1660142676,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 515382,
+        "num": 515382,
+        "word": "祖国完全统一进程不可阻挡",
+        "onboard_time": 1660145018,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 547642,
+        "num": 513078,
+        "word": "李汶翰说不能怪内娱没舞台",
+        "onboard_time": 1660144777,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497661,
+        "num": 497661,
+        "word": "赵露思演技",
+        "onboard_time": 1660142615,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449140,
+        "num": 449140,
+        "word": "阿迪达斯CEO承认在中国犯了错误",
+        "onboard_time": 1660128876,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436514,
+        "num": 436514,
+        "word": "爸爸带娃玩手机孩子玩排泄物",
+        "onboard_time": 1660129712,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435737,
+        "num": 435737,
+        "word": "研究发现缺觉的人胳膊大腿更粗",
+        "onboard_time": 1660148608,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428821,
+        "num": 428821,
+        "word": "谢娜曾说包文婧命里缺光头",
+        "onboard_time": 1660142615,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401252,
+        "num": 401252,
+        "word": "李泽言",
+        "onboard_time": 1660141415,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363746,
+        "num": 363746,
+        "word": "上海疫情防控",
+        "onboard_time": 1660144777,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312587,
+        "num": 312587,
+        "word": "新疆的水果也太便宜了",
+        "onboard_time": 1660144715,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278176,
+        "num": 278176,
+        "word": "女子1月未吃火锅炫2斤羊肉被送医",
+        "onboard_time": 1660139555,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114790,
+        "num": 276483,
+        "word": "男子将患精神病女子骗回家强奸",
+        "onboard_time": 1660145795,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 336474,
+        "num": 264985,
+        "word": "独行月球为什么带不活电影院",
+        "onboard_time": 1660133492,
+        "rank": 21,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 279187,
+        "num": 258314,
+        "word": "有百分百就业率的专业吗",
+        "onboard_time": 1660149505,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249990,
+        "num": 249990,
+        "word": "长生花 甜",
+        "onboard_time": 1660143278,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239433,
+        "num": 239433,
+        "word": "梅陇疫情防控",
+        "onboard_time": 1660148010,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235139,
+        "num": 235139,
+        "word": "猫等这一天很久了",
+        "onboard_time": 1660145494,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221964,
+        "num": 221964,
+        "word": "男子进化粪池救猪不幸身亡",
+        "onboard_time": 1660127013,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181097,
+        "num": 181097,
+        "word": "河南小伙从车工逆袭领衔国家级工作室",
+        "onboard_time": 1660147171,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157462,
+        "num": 157462,
+        "word": "机器人成功救下15岁溺海男孩",
+        "onboard_time": 1660143697,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150006,
+        "num": 150006,
+        "word": "千万别再一个人闷头做事了",
+        "onboard_time": 1660135893,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237434,
+        "num": 149349,
+        "word": "苍兰诀预告",
+        "onboard_time": 1660147769,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201924,
+        "num": 147919,
+        "word": "程少商看清太子妃真面目",
+        "onboard_time": 1660135712,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197695,
+        "num": 144734,
+        "word": "丁程鑫银幕首秀",
+        "onboard_time": 1660145614,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173946,
+        "num": 142915,
+        "word": "黄磊说张艺兴是五好学生",
+        "onboard_time": 1660140218,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141882,
+        "num": 141882,
+        "word": "义乌新增21例阳性感染者",
+        "onboard_time": 1660144413,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138191,
+        "num": 138191,
+        "word": "那一刻我把空调关了",
+        "onboard_time": 1660129594,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126996,
+        "num": 126996,
+        "word": "闵行 核酸",
+        "onboard_time": 1660141778,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126600,
+        "num": 126600,
+        "word": "丁香医生",
+        "onboard_time": 1660106560,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126423,
+        "num": 126423,
+        "word": "妲己热情桑巴返场",
+        "onboard_time": 1660134991,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118753,
+        "num": 118753,
+        "word": "别当着小孩的面摘隐形眼镜",
+        "onboard_time": 1660139794,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141760,
+        "num": 118328,
+        "word": "王鹤棣好帅",
+        "onboard_time": 1660146272,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116452,
+        "num": 116452,
+        "word": "王毅提出台海局势要警惕三个动向",
+        "onboard_time": 1660131454,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 127564,
+        "num": 111951,
+        "word": "苍兰诀",
+        "onboard_time": 1660124255,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96774,
+        "num": 96774,
+        "word": "阿迪一季度大中华区收入大跌35%",
+        "onboard_time": 1660138173,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88229,
+        "num": 88229,
+        "word": "女生公交遇70岁老人猥亵录视频报警",
+        "onboard_time": 1660121796,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81789,
+        "num": 81789,
+        "word": "名创优品签约仪式曾挂日本国旗",
+        "onboard_time": 1660118554,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 77624,
+        "num": 77624,
+        "word": "四川德阳新增本土无症状4例",
+        "onboard_time": 1660143577,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75871,
+        "num": 75871,
+        "word": "苏州疫情防控",
+        "onboard_time": 1660140218,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74474,
+        "num": 74474,
+        "word": "曼联球迷计划空场抗议美国老板",
+        "onboard_time": 1660148966,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71413,
+        "num": 71413,
+        "word": "军事演训导致海滩大量死鱼系谣言",
+        "onboard_time": 1660123473,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学党史#"
+    }
+  }
+}
