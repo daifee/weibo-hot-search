@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660256459859,
+  "endTime": 1660257462247,
   "band_list": [
     {
       "raw_hot": 1453314,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490529,
+      "num": 329821,
+      "word": "女子忍迷信丈夫10年后起诉离婚",
+      "onboard_time": 1660249272,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480083,
       "num": 480083,
       "word": "不要在网上跟人吵架的原因",
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427774,
+      "num": 427774,
+      "word": "美军用144辆油罐车盗运叙利亚石油",
+      "onboard_time": 1660248972,
+      "rank": 47,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 416055,
       "num": 378536,
       "word": "何广智cos周杰伦",
@@ -129,14 +145,6 @@
       "onboard_time": 1660239078,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355214,
-      "num": 237508,
-      "word": "女子忍迷信丈夫10年后起诉离婚",
-      "onboard_time": 1660249272,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337899,
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287097,
+      "num": 287097,
+      "word": "爱马仕新款自行车卖16.5万",
+      "onboard_time": 1660254671,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281652,
       "num": 261484,
       "word": "程少商含泪吻住凌不疑",
@@ -209,14 +225,6 @@
       "onboard_time": 1660229676,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255411,
-      "num": 255411,
-      "word": "美军用144辆油罐车盗运叙利亚石油",
-      "onboard_time": 1660248972,
-      "rank": 47,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 254471,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 185246,
-      "num": 125646,
+      "num": 148727,
       "word": "月升沧海太子支棱起来了",
       "onboard_time": 1660237640,
       "rank": 30,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158046,
+      "num": 158046,
+      "word": "年轻人为什么不爱做家务",
+      "onboard_time": 1660249031,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157097,
       "num": 126935,
       "word": "昕羊 最佳拍档第二轮舞台",
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147416,
+      "num": 147416,
+      "word": "暑期大剧卷起来了",
+      "onboard_time": 1660251671,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146391,
       "num": 146391,
       "word": "小米汽车",
       "onboard_time": 1660225176,
       "rank": 38,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 141893,
-      "num": 141893,
-      "word": "年轻人为什么不爱做家务",
-      "onboard_time": 1660249031,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 141130,
@@ -427,28 +443,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 121973,
-      "num": 121973,
-      "word": "暑期大剧卷起来了",
-      "onboard_time": 1660251671,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119820,
       "num": 119820,
       "word": "原来误入荷花深处这么美",
       "onboard_time": 1660219537,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 119448,
-      "num": 119448,
-      "word": "爱马仕新款自行车卖16.5万",
-      "onboard_time": 1660254671,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118464,
@@ -473,6 +473,14 @@
       "onboard_time": 1660224456,
       "rank": 46,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 74427,
+      "num": 74427,
+      "word": "江疏影连续五个角色一出场就进警察局",
+      "onboard_time": 1660248312,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 74144,
@@ -507,11 +515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49090,
-      "num": 43852,
-      "word": "江疏影连续五个角色一出场就进警察局",
-      "onboard_time": 1660248312,
-      "rank": 33,
+      "raw_hot": 54078,
+      "num": 52107,
+      "word": "冰雨火 致敬缉毒警察",
+      "onboard_time": 1660255093,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -523,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41088,
-      "num": 30892,
-      "word": "冰雨火 致敬缉毒警察",
-      "onboard_time": 1660255093,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 24563,
+      "num": 30062,
+      "word": "母子和同一男子恋爱近5年被骗14万",
+      "onboard_time": 1660257435,
+      "rank": 49,
+      "category": "社会负面"
     }
   ],
   "hotgov_list": [
