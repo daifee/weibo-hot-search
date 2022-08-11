@@ -2,11 +2,11 @@
 name: 每日定时任务
 
 on:
-  # 每30分钟执行1次
-  schedule:
-    - cron: '0 8 * * *'
-    - cron: '0 18 * * *'
-    - cron: '0 22 * * *'
+  # # 每30分钟执行1次
+  # schedule:
+  #   - cron: '0 8 * * *'
+  #   - cron: '0 18 * * *'
+  #   - cron: '0 22 * * *'
   workflow_dispatch:
     inputs:
       name:
