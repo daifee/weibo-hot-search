@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660235394189,
+  "endTime": 1660236781517,
   "band_list": [
     {
       "raw_hot": 1453314,
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 976204,
+      "num": 976204,
+      "word": "签约结婚办北京户口被判无效",
+      "onboard_time": 1660232613,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 863884,
       "num": 863884,
       "word": "鬼节",
@@ -49,14 +57,6 @@
       "onboard_time": 1660222656,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 711932,
-      "num": 711932,
-      "word": "签约结婚办北京户口被判无效",
-      "onboard_time": 1660232613,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695208,
@@ -107,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391706,
-      "num": 262445,
+      "raw_hot": 416055,
+      "num": 378536,
       "word": "何广智cos周杰伦",
       "onboard_time": 1660233749,
       "rank": 20,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215692,
+      "num": 137620,
+      "word": "苍兰诀 治愈",
+      "onboard_time": 1660235664,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211424,
       "num": 211424,
       "word": "潮汕生腌怎么还打人呢",
@@ -299,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157097,
+      "num": 126935,
+      "word": "昕羊 最佳拍档第二轮舞台",
+      "onboard_time": 1660235842,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 153343,
+      "num": 125967,
+      "word": "冰雨火不够看",
+      "onboard_time": 1660235785,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152223,
       "num": 152223,
       "word": "女子买饮品无故殴打2女孩",
@@ -355,8 +379,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117391,
-      "num": 117391,
+      "raw_hot": 118464,
+      "num": 118464,
       "word": "立陶宛一再违背承诺是赤裸裸背信弃义",
       "onboard_time": 1660209516,
       "rank": 44,
