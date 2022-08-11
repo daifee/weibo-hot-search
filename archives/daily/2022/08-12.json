@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660238558198,
+  "endTime": 1660239475684,
   "band_list": [
     {
       "raw_hot": 1453314,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557668,
+      "num": 231867,
+      "word": "王二博缺席直播是因为冰雨火吗",
+      "onboard_time": 1660237281,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520549,
       "num": 520549,
       "word": "阿兹夫定片每瓶定价270元",
       "onboard_time": 1660228776,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 505994,
-      "num": 231867,
-      "word": "王二博缺席直播是因为冰雨火吗",
-      "onboard_time": 1660237281,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 480083,
@@ -176,6 +176,14 @@
       "word": "程少商含泪吻住凌不疑",
       "onboard_time": 1660217137,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271036,
+      "num": 209459,
+      "word": "陈宇整顿职场",
+      "onboard_time": 1660239317,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -377,6 +385,14 @@
       "onboard_time": 1660212337,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135179,
+      "num": 82167,
+      "word": "为什么年轻人越来越惜命",
+      "onboard_time": 1660239078,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 126349,
