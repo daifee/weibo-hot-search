@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660242392527,
+  "endTime": 1660243514220,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -16419,6 +16419,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 356506,
+      "num": 356506,
+      "word": "为什么年轻人越来越惜命",
+      "onboard_time": 1660239078,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356174,
       "num": 322980,
       "word": "宋亚轩看电影vlog",
@@ -16921,14 +16929,6 @@
       "onboard_time": 1659618576,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342323,
-      "num": 342323,
-      "word": "为什么年轻人越来越惜命",
-      "onboard_time": 1660239078,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 342295,

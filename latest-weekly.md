@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/08 00:27:58 ~ 2022/08/12 02:26:32
+本榜单时间：2022/08/08 00:27:58 ~ 2022/08/12 02:45:14
 </p>
 </blockquote>
 <p>
@@ -3579,6 +3579,12 @@ BLACKPINK正规二辑BORNPINK预告海报（热度：363506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23" target="weibo">
+为什么年轻人越来越惜命（热度：356506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%8F%E5%A4%A9%E8%A6%81%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%B8%80%E8%B5%B7%E8%BF%87%23" target="weibo">
 为什么夏天要和朋友一起过（热度：356089）
 </a>
@@ -3677,12 +3683,6 @@ NCTDREAM 蚕室（热度：347239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%80%E6%96%91%E5%85%AC%E4%B8%BB%E5%AE%9A%E6%A1%A3826%23" target="weibo">
 雀斑公主定档826（热度：344469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23" target="weibo">
-为什么年轻人越来越惜命（热度：342323）
 </a>
 </li>
 
