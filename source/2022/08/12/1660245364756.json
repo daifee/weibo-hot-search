@@ -1,0 +1,410 @@
+{
+  "runTime": 1660245364756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 214661,
+        "num": 214661,
+        "word": "为什么年轻人越来越惜命",
+        "onboard_time": 1660239078,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122163,
+        "num": 122163,
+        "word": "男子偷200万买房靠卖房收租为生",
+        "onboard_time": 1660215157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33020,
+        "num": 109309,
+        "word": "电信网络诈骗套路有多深",
+        "onboard_time": 1660224456,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553423,
+        "num": 107280,
+        "word": "鬼节",
+        "onboard_time": 1660220196,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161908,
+        "num": 105599,
+        "word": "冰雨火没通知陈晓王一博吧",
+        "onboard_time": 1660223857,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102520,
+        "num": 102520,
+        "word": "26岁小伙口渴难耐吃半个西瓜险丧命",
+        "onboard_time": 1660226315,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101111,
+        "num": 101111,
+        "word": "虞书欣 台词",
+        "onboard_time": 1660222656,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97760,
+        "num": 97760,
+        "word": "签约结婚办北京户口被判无效",
+        "onboard_time": 1660232613,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82993,
+        "num": 82993,
+        "word": "你会和不喜欢的人谈恋爱吗",
+        "onboard_time": 1660229138,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78270,
+        "num": 78270,
+        "word": "27岁是人生最无力的阶段吗",
+        "onboard_time": 1660226074,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123915,
+        "num": 78219,
+        "word": "王二博缺席直播是因为冰雨火吗",
+        "onboard_time": 1660237281,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75450,
+        "num": 75450,
+        "word": "欢乐颂3五美出场就一起进警察局",
+        "onboard_time": 1660218936,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63242,
+        "num": 63242,
+        "word": "月升沧海太子支棱起来了",
+        "onboard_time": 1660237640,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62737,
+        "num": 62737,
+        "word": "知网为100%国有控股企业",
+        "onboard_time": 1660215816,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62720,
+        "num": 62720,
+        "word": "国家电影局发1亿元观影消费券",
+        "onboard_time": 1660214618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56457,
+        "num": 56457,
+        "word": "不要在网上跟人吵架的原因",
+        "onboard_time": 1660227098,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56119,
+        "num": 56119,
+        "word": "中元节到底是什么节日",
+        "onboard_time": 1660213596,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52662,
+        "num": 52662,
+        "word": "阿兹夫定片每瓶定价270元",
+        "onboard_time": 1660228776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45957,
+        "num": 45957,
+        "word": "潮汕生腌怎么还打人呢",
+        "onboard_time": 1660220792,
+        "rank": 18,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 41347,
+        "num": 41347,
+        "word": "女子买饮品无故殴打2女孩",
+        "onboard_time": 1660213479,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53276,
+        "num": 41083,
+        "word": "苍兰诀 治愈",
+        "onboard_time": 1660235664,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51266,
+        "num": 39228,
+        "word": "月升沧海 虐",
+        "onboard_time": 1660223434,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35811,
+        "num": 35811,
+        "word": "月亮",
+        "onboard_time": 1660218457,
+        "rank": 22,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 47881,
+        "num": 35738,
+        "word": "全场凌公子买单",
+        "onboard_time": 1660229616,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35207,
+        "num": 35207,
+        "word": "成都六勇士之一辅警被报请记功表彰",
+        "onboard_time": 1660227638,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33997,
+        "num": 33997,
+        "word": "男朋友好会给自己找台阶下",
+        "onboard_time": 1660228057,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32537,
+        "num": 32537,
+        "word": "村BA向姚明和CBA发出邀请",
+        "onboard_time": 1660230997,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32351,
+        "num": 32351,
+        "word": "立陶宛一再违背承诺是赤裸裸背信弃义",
+        "onboard_time": 1660209516,
+        "rank": 27,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 29283,
+        "num": 29283,
+        "word": "新疆新增224例无症状感染者",
+        "onboard_time": 1660226613,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29224,
+        "num": 29224,
+        "word": "司机忘拉手刹7岁男童飞奔而出",
+        "onboard_time": 1660212337,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47298,
+        "num": 29153,
+        "word": "吴磊此翅甚妙",
+        "onboard_time": 1660220615,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43779,
+        "num": 28965,
+        "word": "何广智cos周杰伦",
+        "onboard_time": 1660233749,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39373,
+        "num": 28860,
+        "word": "汤唯演技",
+        "onboard_time": 1660221335,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37041,
+        "num": 28707,
+        "word": "苍兰诀",
+        "onboard_time": 1660207110,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28683,
+        "num": 28683,
+        "word": "中尼同意将建跨喜马拉雅山铁路",
+        "onboard_time": 1660214798,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28472,
+        "num": 28472,
+        "word": "医生是有点审美在的",
+        "onboard_time": 1660222177,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25786,
+        "num": 25786,
+        "word": "郭艾伦收到三家海外俱乐部报价",
+        "onboard_time": 1660223196,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25368,
+        "num": 25368,
+        "word": "小米自动驾驶首次亮相",
+        "onboard_time": 1660231533,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25200,
+        "num": 25200,
+        "word": "孩子落水父亲欲托举施救双双溺亡",
+        "onboard_time": 1660213415,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24232,
+        "num": 24232,
+        "word": "德国火葬场为节能实行5人混烧",
+        "onboard_time": 1660217560,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36457,
+        "num": 24147,
+        "word": "最近的剧好多啊",
+        "onboard_time": 1660231533,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34882,
+        "num": 24138,
+        "word": "程少商含泪吻住凌不疑",
+        "onboard_time": 1660217137,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23928,
+        "num": 23928,
+        "word": "上海3地列为高风险区",
+        "onboard_time": 1660229676,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21192,
+        "num": 21192,
+        "word": "小男孩因主角牺牲嚎啕大哭响彻影院",
+        "onboard_time": 1660210838,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20885,
+        "num": 20885,
+        "word": "原来误入荷花深处这么美",
+        "onboard_time": 1660219537,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 19674,
+        "num": 19674,
+        "word": "雷军7天成销冠",
+        "onboard_time": 1660225358,
+        "rank": 45,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 17084,
+        "num": 17084,
+        "word": "海关查获24套错绘漏绘问题地图",
+        "onboard_time": 1660222297,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15690,
+        "num": 15690,
+        "word": "K50至尊版价格",
+        "onboard_time": 1660224456,
+        "rank": 47,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 14360,
+        "num": 14360,
+        "word": "小米汽车",
+        "onboard_time": 1660225176,
+        "rank": 48,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 13052,
+        "num": 13052,
+        "word": "成都铲子哥等5人获见义勇为奖",
+        "onboard_time": 1660224577,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国完全统一进程不可阻挡#"
+    }
+  }
+}
