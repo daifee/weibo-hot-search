@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660239475684,
+  "endTime": 1660242392527,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -4891,6 +4891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342323,
+      "num": 342323,
+      "word": "为什么年轻人越来越惜命",
+      "onboard_time": 1660239078,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342281,
       "num": 342281,
       "word": "KPL",
@@ -7164,7 +7172,7 @@
     },
     {
       "raw_hot": 185246,
-      "num": 95774,
+      "num": 125646,
       "word": "月升沧海太子支棱起来了",
       "onboard_time": 1660237640,
       "rank": 30,
@@ -7657,14 +7665,6 @@
       "onboard_time": 1660210838,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135179,
-      "num": 82167,
-      "word": "为什么年轻人越来越惜命",
-      "onboard_time": 1660239078,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 133831,

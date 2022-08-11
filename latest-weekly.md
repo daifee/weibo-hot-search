@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/08 00:27:58 ~ 2022/08/12 01:37:55
+本榜单时间：2022/08/08 00:27:58 ~ 2022/08/12 02:26:32
 </p>
 </blockquote>
 <p>
@@ -3681,6 +3681,12 @@ NCTDREAM 蚕室（热度：347239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23" target="weibo">
+为什么年轻人越来越惜命（热度：342323）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
 KPL（热度：342281）
 </a>
@@ -5753,12 +5759,6 @@ BLACKPINK先行曲预告海报（热度：139931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%9B%A0%E4%B8%BB%E8%A7%92%E7%89%BA%E7%89%B2%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%E5%93%8D%E5%BD%BB%E5%BD%B1%E9%99%A2%23" target="weibo">
 小男孩因主角牺牲嚎啕大哭响彻影院（热度：137378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23" target="weibo">
-为什么年轻人越来越惜命（热度：135179）
 </a>
 </li>
 
