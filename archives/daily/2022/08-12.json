@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660249327649,
+  "endTime": 1660250266741,
   "band_list": [
     {
       "raw_hot": 1453314,
@@ -475,24 +475,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10470,
-      "num": 10470,
+      "raw_hot": 23976,
+      "num": 23976,
       "word": "美军用144辆油罐车盗运叙利亚石油",
       "onboard_time": 1660248972,
       "rank": 47,
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 10374,
-      "num": 10374,
+      "raw_hot": 23038,
+      "num": 22599,
+      "word": "江疏影连续五个角色一出场就进警察局",
+      "onboard_time": 1660248312,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 18971,
+      "num": 18971,
       "word": "年轻人为什么不爱做家务",
       "onboard_time": 1660249031,
       "rank": 48,
       "category": "情感"
     },
     {
-      "raw_hot": 8567,
-      "num": 8567,
+      "raw_hot": 8852,
+      "num": 8852,
       "word": "女子忍迷信丈夫10年后起诉离婚",
       "onboard_time": 1660249272,
       "rank": 49,
