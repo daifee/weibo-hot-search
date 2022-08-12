@@ -1,0 +1,410 @@
+{
+  "runTime": 1660313986928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2449019,
+        "num": 2449019,
+        "word": "你愿意花6000块钱合租吗",
+        "onboard_time": 1660311100,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1969085,
+        "num": 1969085,
+        "word": "重庆北站",
+        "onboard_time": 1660308874,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144395,
+        "num": 1798161,
+        "word": "看见锦绣山河",
+        "onboard_time": 1660310857,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1742974,
+        "num": 1742974,
+        "word": "何同学新视频",
+        "onboard_time": 1660310560,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1458232,
+        "num": 1458232,
+        "word": "支付宝出现这两个界面千万别转账",
+        "onboard_time": 1660302816,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277746,
+        "num": 1277746,
+        "word": "华晨宇欧阳娜娜紫弹唱舞台",
+        "onboard_time": 1660310560,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1181542,
+        "num": 1181542,
+        "word": "公安部要求零容忍查处性侵犯罪",
+        "onboard_time": 1660308033,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022642,
+        "num": 1022642,
+        "word": "成都东站",
+        "onboard_time": 1660309360,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786836,
+        "num": 786836,
+        "word": "年轻人不喜欢吃小龙虾了吗",
+        "onboard_time": 1660310377,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 779914,
+        "num": 779914,
+        "word": "今年首发最高级别高温红色预警",
+        "onboard_time": 1660302762,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058381,
+        "num": 774116,
+        "word": "丁程鑫好勇",
+        "onboard_time": 1660312479,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 957372,
+        "num": 702897,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 617078,
+        "num": 617078,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 566177,
+        "num": 566177,
+        "word": "女孩耗时2个月做千里江山图手镯",
+        "onboard_time": 1660311216,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565729,
+        "num": 565729,
+        "word": "40℃已进不了全国高温排行榜",
+        "onboard_time": 1660298194,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561462,
+        "num": 561462,
+        "word": "官方回应高铁大面积晚点",
+        "onboard_time": 1660310857,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544622,
+        "num": 544622,
+        "word": "虞书欣喊话张凌赫跳吧",
+        "onboard_time": 1660310137,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517254,
+        "num": 517254,
+        "word": "中方制裁立陶宛交通与通讯部副部长",
+        "onboard_time": 1660304438,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 486001,
+        "num": 486001,
+        "word": "流星雨",
+        "onboard_time": 1660312656,
+        "rank": 18,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 484787,
+        "num": 484787,
+        "word": "老人担心5个月婴儿受凉捂到脱水",
+        "onboard_time": 1660298015,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758104,
+        "num": 474009,
+        "word": "张天爱穿礼服吃薯条",
+        "onboard_time": 1660307676,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547376,
+        "num": 467549,
+        "word": "阿娇瘦到91斤",
+        "onboard_time": 1660289792,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536992,
+        "num": 465933,
+        "word": "赵露思拽吴磊头发",
+        "onboard_time": 1660303961,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454382,
+        "num": 454382,
+        "word": "浙江鼓励子女3岁内家长居家办公",
+        "onboard_time": 1660312958,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452185,
+        "num": 452185,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 423359,
+        "num": 423359,
+        "word": "LNG战胜WBG",
+        "onboard_time": 1660313440,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389380,
+        "num": 389380,
+        "word": "南京二套房首付比例降至30%",
+        "onboard_time": 1660312418,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 376742,
+        "num": 376742,
+        "word": "明天10多个省区市超40℃",
+        "onboard_time": 1660306356,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363543,
+        "num": 363543,
+        "word": "张凯的驴",
+        "onboard_time": 1660309898,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362531,
+        "num": 362531,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 443139,
+        "num": 357791,
+        "word": "王鹤棣明天就去学Gwalla",
+        "onboard_time": 1660313738,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382497,
+        "num": 354170,
+        "word": "那英是我的互联网嘴替吧",
+        "onboard_time": 1660311879,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370530,
+        "num": 352443,
+        "word": "负面情绪该不该向朋友宣泄",
+        "onboard_time": 1660309058,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350334,
+        "num": 350334,
+        "word": "苍兰诀",
+        "onboard_time": 1660287808,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321921,
+        "num": 321921,
+        "word": "上海网友开始pk电费了",
+        "onboard_time": 1660306534,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 261137,
+        "num": 261137,
+        "word": "给还没到27岁的人的建议",
+        "onboard_time": 1660300897,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 257249,
+        "num": 257249,
+        "word": "把空调关了也还是想谈恋爱",
+        "onboard_time": 1660301617,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 254877,
+        "num": 254877,
+        "word": "月亮",
+        "onboard_time": 1660307375,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 218846,
+        "num": 218846,
+        "word": "高铁晚点",
+        "onboard_time": 1660305214,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163178,
+        "num": 163178,
+        "word": "厦门疫情防控",
+        "onboard_time": 1660310014,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344125,
+        "num": 162286,
+        "word": "小兰花好委屈",
+        "onboard_time": 1660313677,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315612,
+        "num": 161145,
+        "word": "陈都灵和李宇春握手害羞跑走",
+        "onboard_time": 1660306657,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159864,
+        "num": 159864,
+        "word": "厦门本轮疫情2条传播链交织叠加",
+        "onboard_time": 1660306896,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153482,
+        "num": 153482,
+        "word": "安徽12站点达到或是越过40℃",
+        "onboard_time": 1660311458,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149902,
+        "num": 149902,
+        "word": "女子离婚后卖亲生儿子赚钱",
+        "onboard_time": 1660288112,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 145357,
+        "num": 145357,
+        "word": "当女朋友的职业病突然犯了",
+        "onboard_time": 1660305818,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137395,
+        "num": 137395,
+        "word": "向英仙座流星雨许愿",
+        "onboard_time": 1660313078,
+        "rank": 46,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 132370,
+        "num": 132370,
+        "word": "狼队战胜TTG",
+        "onboard_time": 1660311158,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121924,
+        "num": 121924,
+        "word": "马尔康大四喜",
+        "onboard_time": 1660313256,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115462,
+        "num": 115462,
+        "word": "一起接蒋正全回家",
+        "onboard_time": 1660312058,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#时代总是把历史责任赋予青年#"
+    }
+  }
+}
