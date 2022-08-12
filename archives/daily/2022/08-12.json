@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660313986928,
+  "endTime": 1660315018977,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2449019,
-      "num": 2449019,
+      "raw_hot": 2579546,
+      "num": 2579546,
       "word": "你愿意花6000块钱合租吗",
       "onboard_time": 1660311100,
       "rank": 13,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1932552,
+      "num": 1932552,
+      "word": "何同学新视频",
+      "onboard_time": 1660310560,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1902112,
       "num": 1902112,
       "word": "外籍华人博士可申请在华永久居留",
@@ -153,14 +161,6 @@
       "onboard_time": 1660272931,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1742974,
-      "num": 1742974,
-      "word": "何同学新视频",
-      "onboard_time": 1660310560,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1684791,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056839,
+      "num": 1056839,
+      "word": "年轻人不喜欢吃小龙虾了吗",
+      "onboard_time": 1660310377,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1054018,
       "num": 1054018,
       "word": "三星李在镕获韩国总统特赦",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1000753,
+      "num": 717552,
+      "word": "王鹤棣明天就去学Gwalla",
+      "onboard_time": 1660313738,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 991687,
       "num": 991687,
       "word": "江疏影说娜扎太好骗了",
@@ -448,6 +464,14 @@
       "word": "今年首发最高级别高温红色预警",
       "onboard_time": 1660302762,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921567,
+      "num": 921567,
+      "word": "浙江鼓励子女3岁内家长居家办公",
+      "onboard_time": 1660312958,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -521,14 +545,6 @@
       "onboard_time": 1660273170,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 786836,
-      "num": 786836,
-      "word": "年轻人不喜欢吃小龙虾了吗",
-      "onboard_time": 1660310377,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 783655,
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637817,
+      "num": 637817,
+      "word": "女孩耗时2个月做千里江山图手镯",
+      "onboard_time": 1660311216,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625300,
       "num": 519291,
       "word": "最近的剧好多啊",
@@ -771,16 +795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566177,
-      "num": 566177,
-      "word": "女孩耗时2个月做千里江山图手镯",
-      "onboard_time": 1660311216,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561462,
-      "num": 561462,
+      "raw_hot": 561480,
+      "num": 561480,
       "word": "官方回应高铁大面积晚点",
       "onboard_time": 1660310857,
       "rank": 36,
@@ -833,6 +849,22 @@
       "onboard_time": 1660285710,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 552142,
+      "num": 455450,
+      "word": "时代少年团北影节内场图",
+      "onboard_time": 1660314638,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542048,
+      "num": 542048,
+      "word": "南京二套房首付比例降至30%",
+      "onboard_time": 1660312418,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 538202,
@@ -1059,28 +1091,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 454382,
-      "num": 454382,
-      "word": "浙江鼓励子女3岁内家长居家办公",
-      "onboard_time": 1660312958,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443730,
       "num": 443730,
       "word": "4人海边旅行救了3条人命",
       "onboard_time": 1660266870,
       "rank": 15,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 443139,
-      "num": 357791,
-      "word": "王鹤棣明天就去学Gwalla",
-      "onboard_time": 1660313738,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 442788,
@@ -1297,14 +1313,6 @@
       "onboard_time": 1660305818,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389380,
-      "num": 389380,
-      "word": "南京二套房首付比例降至30%",
-      "onboard_time": 1660312418,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 388592,
@@ -1675,6 +1683,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 325677,
+      "num": 281560,
+      "word": "民国大侦探",
+      "onboard_time": 1660280974,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324805,
       "num": 251819,
       "word": "这就是街舞5预告",
@@ -1755,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310756,
-      "num": 251934,
-      "word": "民国大侦探",
-      "onboard_time": 1660280974,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 309556,
       "num": 309556,
       "word": "微博电影之夜阵容",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1660263329,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300364,
+      "num": 127217,
+      "word": "黑话律师",
+      "onboard_time": 1660314996,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 299302,
@@ -2355,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207787,
+      "num": 207787,
+      "word": "武汉三镇5比1北京国安",
+      "onboard_time": 1660314037,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206361,
       "num": 206361,
       "word": "他们在燕郊送外卖救孩子的命",
@@ -2475,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180026,
+      "num": 180026,
+      "word": "厦门疫情防控",
+      "onboard_time": 1660310014,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179886,
       "num": 179886,
       "word": "德国火葬场为节能实行5人混烧",
@@ -2512,14 +2544,6 @@
       "word": "国家电影局发1亿元观影消费券",
       "onboard_time": 1660214618,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172446,
-      "num": 172446,
-      "word": "厦门疫情防控",
-      "onboard_time": 1660310014,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2659,6 +2683,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147894,
+      "num": 1815082,
+      "word": "看见锦绣山河",
+      "onboard_time": 1660310857,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 146964,
+      "num": 146964,
+      "word": "高温预警最高级别",
+      "onboard_time": 1660314217,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146391,
       "num": 146391,
       "word": "小米汽车",
@@ -2673,14 +2713,6 @@
       "onboard_time": 1660285414,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144395,
-      "num": 1815082,
-      "word": "看见锦绣山河",
-      "onboard_time": 1660310857,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 141130,
