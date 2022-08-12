@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660342949740,
+  "endTime": 1660343928262,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323791,
+      "num": 323791,
+      "word": "一只老鹰在南京中暑坠江",
+      "onboard_time": 1660341432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318169,
       "num": 258349,
       "word": "玉骨遥",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 273569,
-      "num": 230955,
+      "num": 262807,
       "word": "八月热播剧像满汉全席",
       "onboard_time": 1660326437,
       "rank": 10,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172648,
+      "num": 169566,
+      "word": "东方青苍 苏",
+      "onboard_time": 1660340413,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170908,
       "num": 90418,
       "word": "蒲熠星说我们可能真的不是很合适",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169039,
+      "num": 169039,
+      "word": "王劲松刘奕君悬疑定律",
+      "onboard_time": 1660327216,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167995,
       "num": 167995,
       "word": "南京二套房首付比例降至30%",
@@ -337,14 +361,6 @@
       "onboard_time": 1660307375,
       "rank": 35,
       "category": "自然"
-    },
-    {
-      "raw_hot": 163360,
-      "num": 122883,
-      "word": "王劲松刘奕君悬疑定律",
-      "onboard_time": 1660327216,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 161054,
@@ -395,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125304,
-      "num": 125304,
-      "word": "一只老鹰在南京中暑坠江",
-      "onboard_time": 1660341432,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 134018,
+      "num": 134018,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 123148,
@@ -417,14 +433,6 @@
       "onboard_time": 1660316853,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117756,
-      "num": 117756,
-      "word": "东方青苍 苏",
-      "onboard_time": 1660340413,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 112945,
@@ -451,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100104,
-      "num": 100104,
-      "word": "中国男子暴雨中勇救韩国老夫妇",
-      "onboard_time": 1660334052,
-      "rank": 24,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 99703,
       "num": 99703,
       "word": "办婚礼高低得请一支锣鼓队",
@@ -475,12 +475,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86830,
+      "num": 86830,
+      "word": "中央气象台连续23天发布高温预警",
+      "onboard_time": 1660342993,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82629,
       "num": 858454,
       "word": "看见锦绣山河",
       "onboard_time": 1660310857,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 76720,
+      "num": 74474,
+      "word": "凌不疑抱程少商vs杰瑞抱侄子",
+      "onboard_time": 1660340232,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 66264,
+      "num": 66264,
+      "word": "今年首发最高级别高温红色预警",
+      "onboard_time": 1660302762,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65965,
@@ -491,20 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56329,
-      "num": 56329,
-      "word": "今年首发最高级别高温红色预警",
-      "onboard_time": 1660302762,
+      "raw_hot": 37354,
+      "num": 37354,
+      "word": "200多年前中国古画被3D实景化",
+      "onboard_time": 1660342695,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41493,
-      "num": 41493,
-      "word": "凌不疑抱程少商vs杰瑞抱侄子",
-      "onboard_time": 1660340232,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 37271,
@@ -513,6 +529,14 @@
       "onboard_time": 1660331053,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36857,
+      "num": 36857,
+      "word": "李荣浩最后一秒转身",
+      "onboard_time": 1660343174,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 33377,
@@ -529,14 +553,6 @@
       "onboard_time": 1660333032,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22422,
-      "num": 22422,
-      "word": "200多年前中国古画被3D实景化",
-      "onboard_time": 1660342695,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17890,
