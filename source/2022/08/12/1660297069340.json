@@ -1,0 +1,410 @@
+{
+  "runTime": 1660297069340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2942089,
+        "num": 2942089,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1828204,
+        "num": 1828204,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99763,
+        "num": 1460909,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1660280078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2040560,
+        "num": 1433161,
+        "word": "专家建议30岁未经济独立女性尽早回老家",
+        "onboard_time": 1660295974,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378035,
+        "num": 1378035,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1138025,
+        "num": 1138025,
+        "word": "佩洛西窜台偷偷带儿子",
+        "onboard_time": 1660278638,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1115613,
+        "num": 1115613,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 986639,
+        "num": 986639,
+        "word": "杨迪说模仿者最终都会回归到自己",
+        "onboard_time": 1660293391,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969749,
+        "num": 969749,
+        "word": "重庆出现刺鼻异味的原因找到了",
+        "onboard_time": 1660290753,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914986,
+        "num": 914986,
+        "word": "纸嫁衣",
+        "onboard_time": 1660270649,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 827108,
+        "num": 827108,
+        "word": "王源易烊千玺包场支持王俊凯电影断桥",
+        "onboard_time": 1660285832,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759656,
+        "num": 759656,
+        "word": "中石油中石化将从纽交所退市",
+        "onboard_time": 1660296092,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 693663,
+        "num": 693663,
+        "word": "Angelababy双丸子头造型",
+        "onboard_time": 1660292372,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651487,
+        "num": 651487,
+        "word": "华为上半年营收3016亿元",
+        "onboard_time": 1660294652,
+        "rank": 13,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 611756,
+        "num": 611756,
+        "word": "蔡卓妍自己剪的刘海",
+        "onboard_time": 1660294954,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607570,
+        "num": 607570,
+        "word": "宁波人社局给考公落榜者发挽留短信",
+        "onboard_time": 1660295252,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 586814,
+        "num": 586814,
+        "word": "女子离婚后卖亲生儿子赚钱",
+        "onboard_time": 1660288112,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 514987,
+        "num": 514987,
+        "word": "导游在大巴上埋怨游客花钱少被怼",
+        "onboard_time": 1660291113,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 468088,
+        "num": 468088,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 461664,
+        "num": 461664,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1405857,
+        "num": 459850,
+        "word": "阿娇瘦到91斤",
+        "onboard_time": 1660289792,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680869,
+        "num": 459697,
+        "word": "纸嫁衣男主好像罗云熙",
+        "onboard_time": 1660293572,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 455252,
+        "num": 455252,
+        "word": "手机恢复出厂设置能否保障信息安全",
+        "onboard_time": 1660293153,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 434245,
+        "num": 434245,
+        "word": "王一博的表情好像旺仔",
+        "onboard_time": 1660296692,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426055,
+        "num": 426055,
+        "word": "赵丽颖沈璃侧颜",
+        "onboard_time": 1660292911,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406336,
+        "num": 406336,
+        "word": "南京疫情防控",
+        "onboard_time": 1660293752,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321757,
+        "num": 321757,
+        "word": "你的快递是这么丢的",
+        "onboard_time": 1660287754,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317345,
+        "num": 317345,
+        "word": "新证据表明大陆是小行星撞出的",
+        "onboard_time": 1660291953,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307081,
+        "num": 307081,
+        "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
+        "onboard_time": 1660289133,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 298914,
+        "num": 298914,
+        "word": "学数学有多重要",
+        "onboard_time": 1660290512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366709,
+        "num": 296421,
+        "word": "张杰说一定要让热爱保持",
+        "onboard_time": 1660296576,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292133,
+        "num": 292133,
+        "word": "赵粤说努力绝不会背叛自己",
+        "onboard_time": 1660295974,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274180,
+        "num": 274180,
+        "word": "5岁女儿唱小星星送别爸爸",
+        "onboard_time": 1660292494,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268575,
+        "num": 268575,
+        "word": "四川旱情已波及14市69县",
+        "onboard_time": 1660296215,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267343,
+        "num": 267343,
+        "word": "你怎么看ESO组合",
+        "onboard_time": 1660285110,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258332,
+        "num": 258332,
+        "word": "学医对颜值的影响有多大",
+        "onboard_time": 1660285710,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256105,
+        "num": 256105,
+        "word": "穷鬼上班的日子",
+        "onboard_time": 1660288833,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250937,
+        "num": 250937,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1660294891,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245481,
+        "num": 245481,
+        "word": "没必要担心遇见脏东西",
+        "onboard_time": 1660287272,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243771,
+        "num": 243771,
+        "word": "官方回应网站兜售疑似随申码数据",
+        "onboard_time": 1660296333,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242986,
+        "num": 242986,
+        "word": "时代少年团官宣加盟北影节",
+        "onboard_time": 1660288771,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228256,
+        "num": 228256,
+        "word": "不要仗着年轻一直熬夜",
+        "onboard_time": 1660286971,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223338,
+        "num": 223338,
+        "word": "被推下床的熊猫宝宝又委屈又懵",
+        "onboard_time": 1660295011,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198509,
+        "num": 198509,
+        "word": "三星李在镕获韩国总统特赦",
+        "onboard_time": 1660274792,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 181987,
+        "num": 181987,
+        "word": "数学学得好是种什么体验",
+        "onboard_time": 1660294595,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177295,
+        "num": 177295,
+        "word": "男童失踪有人声称给50万放人",
+        "onboard_time": 1660286251,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 174876,
+        "num": 174876,
+        "word": "工人高空修管道被人泼水还用锅铲捅",
+        "onboard_time": 1660291052,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243937,
+        "num": 174111,
+        "word": "唐周解梦",
+        "onboard_time": 1660297053,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171086,
+        "num": 171086,
+        "word": "外国人为什么喜欢吃生饺子",
+        "onboard_time": 1660286310,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167366,
+        "num": 167366,
+        "word": "香港上水掷砖击毙清洁工案宣判",
+        "onboard_time": 1660296935,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码十年#"
+    }
+  }
+}
