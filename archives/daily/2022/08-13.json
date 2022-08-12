@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660323584677,
+  "endTime": 1660325230110,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -49,6 +49,14 @@
       "onboard_time": 1660318652,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600489,
+      "num": 254502,
+      "word": "何同学 手工耿",
+      "onboard_time": 1660323143,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 599433,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258875,
+      "num": 258875,
+      "word": "乌鲁木齐新增73个中高风险区",
+      "onboard_time": 1660321767,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258574,
       "num": 258574,
       "word": "女孩耗时2个月做千里江山图手镯",
@@ -243,11 +259,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 228412,
-      "num": 228412,
-      "word": "乌鲁木齐新增73个中高风险区",
-      "onboard_time": 1660321767,
-      "rank": 43,
+      "raw_hot": 231627,
+      "num": 231627,
+      "word": "重庆的猪都中暑了",
+      "onboard_time": 1660323501,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1660298015,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222757,
-      "num": 167878,
-      "word": "何同学 手工耿",
-      "onboard_time": 1660323143,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 212417,
@@ -417,19 +425,14 @@
       "onboard_time": 1660310857,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 64622,
-      "num": 64622,
-      "word": "重庆的猪都中暑了",
-      "onboard_time": 1660323501,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#解码十年#"
+    },
+    {
+      "word": "#跟着总书记学历史#"
     }
   ]
 }

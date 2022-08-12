@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660323584677,
+  "endTime": 1660325230110,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -10249,6 +10249,14 @@
       "onboard_time": 1659705576,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600489,
+      "num": 254502,
+      "word": "何同学 手工耿",
+      "onboard_time": 1660323143,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 599855,
@@ -22155,6 +22163,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 258875,
+      "num": 258875,
+      "word": "乌鲁木齐新增73个中高风险区",
+      "onboard_time": 1660321767,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258832,
       "num": 258832,
       "word": "张卫国的夏天豆瓣6.7",
@@ -23467,6 +23483,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 231627,
+      "num": 231627,
+      "word": "重庆的猪都中暑了",
+      "onboard_time": 1660323501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231381,
       "num": 231381,
       "word": "杨超越独竹漂少女",
@@ -23633,14 +23657,6 @@
       "onboard_time": 1659936822,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228412,
-      "num": 228412,
-      "word": "乌鲁木齐新增73个中高风险区",
-      "onboard_time": 1660321767,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228396,
@@ -23889,14 +23905,6 @@
       "onboard_time": 1659656730,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 222757,
-      "num": 167878,
-      "word": "何同学 手工耿",
-      "onboard_time": 1660323143,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 222596,
@@ -26777,14 +26785,6 @@
       "onboard_time": 1659548060,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64622,
-      "num": 64622,
-      "word": "重庆的猪都中暑了",
-      "onboard_time": 1660323501,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60877,
