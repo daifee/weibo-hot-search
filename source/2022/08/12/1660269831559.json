@@ -1,0 +1,410 @@
+{
+  "runTime": 1660269831559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1902112,
+        "num": 1902112,
+        "word": "外籍华人博士可申请在华永久居留",
+        "onboard_time": 1660266153,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455248,
+        "num": 1455248,
+        "word": "公安成功摧毁6款淫秽漫画APP",
+        "onboard_time": 1660258819,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552934,
+        "num": 1185557,
+        "word": "亚洲象比大熊猫还要珍稀",
+        "onboard_time": 1660262551,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2378766,
+        "num": 1155973,
+        "word": "鬼节",
+        "onboard_time": 1660220196,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064380,
+        "num": 1064380,
+        "word": "男子为上清华复读13年拒多所名校",
+        "onboard_time": 1660261766,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1006835,
+        "num": 1006835,
+        "word": "中国人均住房10年增加10.7平",
+        "onboard_time": 1660265010,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 906355,
+        "num": 906355,
+        "word": "冰雨火没通知陈晓王一博吧",
+        "onboard_time": 1660223857,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785207,
+        "num": 785207,
+        "word": "欢乐颂3 尴尬",
+        "onboard_time": 1660269208,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 771793,
+        "num": 771793,
+        "word": "女子忍迷信丈夫10年后起诉离婚",
+        "onboard_time": 1660249272,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740967,
+        "num": 740967,
+        "word": "高中女生压力大引发甲亢危象",
+        "onboard_time": 1660265309,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921363,
+        "num": 736078,
+        "word": "重庆一男子先打前妻又打儿子",
+        "onboard_time": 1660265491,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 676454,
+        "num": 676454,
+        "word": "苏州明年可坐地铁到上海",
+        "onboard_time": 1660267470,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602021,
+        "num": 602021,
+        "word": "母子和同一男子恋爱近5年被骗14万",
+        "onboard_time": 1660257435,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 581491,
+        "num": 581491,
+        "word": "有没有一瞬间突然就释怀了",
+        "onboard_time": 1660263388,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471018,
+        "num": 471018,
+        "word": "上海9个区域划为高中风险区",
+        "onboard_time": 1660264351,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443730,
+        "num": 443730,
+        "word": "4人海边旅行救了3条人命",
+        "onboard_time": 1660266870,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 398085,
+        "num": 398085,
+        "word": "校方回应新生录取通知书有错别字",
+        "onboard_time": 1660262551,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 395009,
+        "num": 395009,
+        "word": "玉骨遥",
+        "onboard_time": 1660260806,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393845,
+        "num": 393845,
+        "word": "小伙身体不适理发店老板暖心照顾",
+        "onboard_time": 1660267948,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 388199,
+        "num": 388199,
+        "word": "雷军曾报价1000万收购网易遭拒",
+        "onboard_time": 1660260806,
+        "rank": 19,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 367213,
+        "num": 367213,
+        "word": "爱马仕新款自行车卖16.5万",
+        "onboard_time": 1660254671,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365786,
+        "num": 365786,
+        "word": "美军用144辆油罐车盗运叙利亚石油",
+        "onboard_time": 1660248972,
+        "rank": 21,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 348565,
+        "num": 348565,
+        "word": "大象的粑粑原来这么轻",
+        "onboard_time": 1660268969,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339976,
+        "num": 339976,
+        "word": "谁是上海第一高校",
+        "onboard_time": 1660266991,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336522,
+        "num": 336522,
+        "word": "宁波发生一火灾事故致7人死亡",
+        "onboard_time": 1660265132,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 335784,
+        "num": 335784,
+        "word": "冰雨火全员营业好积极",
+        "onboard_time": 1660262967,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335697,
+        "num": 335697,
+        "word": "虞书欣 台词",
+        "onboard_time": 1660222656,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331475,
+        "num": 331475,
+        "word": "新疆增410例无症状",
+        "onboard_time": 1660265972,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326864,
+        "num": 326864,
+        "word": "银行回应深圳多名储户账户被莫名冻结",
+        "onboard_time": 1660261408,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 312790,
+        "num": 312790,
+        "word": "年轻人为什么不爱做家务",
+        "onboard_time": 1660249031,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303901,
+        "num": 303901,
+        "word": "海南增本土无症状614例",
+        "onboard_time": 1660263329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290449,
+        "num": 290449,
+        "word": "欢乐颂3信息量好大",
+        "onboard_time": 1660243693,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280859,
+        "num": 280859,
+        "word": "雷军站店一天零销量",
+        "onboard_time": 1660264891,
+        "rank": 32,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 250921,
+        "num": 250921,
+        "word": "王二博缺席直播是因为冰雨火吗",
+        "onboard_time": 1660237281,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238178,
+        "num": 238178,
+        "word": "超六成受访大学生希望30岁前结婚",
+        "onboard_time": 1660269510,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235824,
+        "num": 235824,
+        "word": "江疏影连续五个角色一出场就进警察局",
+        "onboard_time": 1660248312,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231217,
+        "num": 231217,
+        "word": "NBA将退役6号纪念比尔拉塞尔",
+        "onboard_time": 1660260504,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230088,
+        "num": 230088,
+        "word": "原来大象害怕小蜜蜂",
+        "onboard_time": 1660263089,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229218,
+        "num": 229218,
+        "word": "深圳疫情防控",
+        "onboard_time": 1660267232,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222288,
+        "num": 222288,
+        "word": "上海新增2例本土确诊5例本土无症状",
+        "onboard_time": 1660265430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222213,
+        "num": 222213,
+        "word": "你会和不喜欢的人谈恋爱吗",
+        "onboard_time": 1660229138,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220457,
+        "num": 220457,
+        "word": "田柾国预告照",
+        "onboard_time": 1660265370,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219992,
+        "num": 219992,
+        "word": "首个国产新冠口服药运抵海南等地",
+        "onboard_time": 1660268310,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217230,
+        "num": 217230,
+        "word": "青岛大暴雨来袭",
+        "onboard_time": 1660269510,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211301,
+        "num": 211301,
+        "word": "27岁是人生最无力的阶段吗",
+        "onboard_time": 1660226074,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205934,
+        "num": 205934,
+        "word": "阿兹夫定片每瓶定价270元",
+        "onboard_time": 1660228776,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204911,
+        "num": 204911,
+        "word": "为什么年轻人越来越惜命",
+        "onboard_time": 1660239078,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197731,
+        "num": 197731,
+        "word": "8月11日新增本土无症状1203例",
+        "onboard_time": 1660268609,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187645,
+        "num": 187645,
+        "word": "8月11日新增确诊704例",
+        "onboard_time": 1660269208,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186701,
+        "num": 186701,
+        "word": "月升沧海太子支棱起来了",
+        "onboard_time": 1660237640,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国完全统一进程不可阻挡#"
+    }
+  }
+}
