@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660315018977,
+  "endTime": 1660317882923,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2033442,
+      "num": 2033442,
+      "word": "何同学新视频",
+      "onboard_time": 1660310560,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2017476,
       "num": 2017476,
       "word": "禁止收视率点击率等虚假宣传",
@@ -545,14 +553,6 @@
       "onboard_time": 1660104217,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1932552,
-      "num": 1932552,
-      "word": "何同学新视频",
-      "onboard_time": 1660310560,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1929994,
@@ -864,6 +864,14 @@
       "word": "公安部要求零容忍查处性侵犯罪",
       "onboard_time": 1660308033,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1492529,
+      "num": 1492529,
+      "word": "浙江鼓励子女3岁内家长居家办公",
+      "onboard_time": 1660312958,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1707,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1027623,
+      "num": 1027623,
+      "word": "Doinb",
+      "onboard_time": 1660315416,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1025219,
       "num": 508709,
       "word": "迪丽热巴分享骑车跑步ootd",
@@ -1756,7 +1772,7 @@
     },
     {
       "raw_hot": 1000753,
-      "num": 717552,
+      "num": 899989,
       "word": "王鹤棣明天就去学Gwalla",
       "onboard_time": 1660313738,
       "rank": 30,
@@ -1984,14 +2000,6 @@
       "word": "幼儿园伙食丰富如满汉全席",
       "onboard_time": 1660124557,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921567,
-      "num": 921567,
-      "word": "浙江鼓励子女3岁内家长居家办公",
-      "onboard_time": 1660312958,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2355,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773015,
+      "num": 773015,
+      "word": "南京二套房首付比例降至30%",
+      "onboard_time": 1660312418,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 772838,
       "num": 772838,
       "word": "粉丝曝曾替SNH48前成员祁静付违约金",
@@ -2691,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691308,
+      "num": 586560,
+      "word": "玉骨遥",
+      "onboard_time": 1660024592,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 691112,
       "num": 691112,
       "word": "张凌赫 帅",
@@ -2801,6 +2825,14 @@
       "onboard_time": 1660096050,
       "rank": 24,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 677477,
+      "num": 533045,
+      "word": "黄晓明说今天是我愿意被左右的一天",
+      "onboard_time": 1660317332,
+      "rank": 12,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 676313,
@@ -3195,14 +3227,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 586560,
-      "num": 586560,
-      "word": "玉骨遥",
-      "onboard_time": 1660024592,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 586426,
       "num": 586426,
       "word": "小伙身体不适理发店老板暖心照顾",
@@ -3563,6 +3587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545485,
+      "num": 404641,
+      "word": "黑话律师",
+      "onboard_time": 1660314996,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543958,
       "num": 543958,
       "word": "抖音回应限流东方甄选传闻",
@@ -3585,14 +3617,6 @@
       "onboard_time": 1660123714,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 542048,
-      "num": 542048,
-      "word": "南京二套房首付比例降至30%",
-      "onboard_time": 1660312418,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 541440,
@@ -4243,6 +4267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472526,
+      "num": 274843,
+      "word": "中餐厅",
+      "onboard_time": 1660317038,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472279,
       "num": 323597,
       "word": "扫黑风暴开播一周年",
@@ -4723,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432834,
+      "num": 261356,
+      "word": "你好星期六全员萌兔萌狼表情包",
+      "onboard_time": 1660317636,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432658,
       "num": 432658,
       "word": "ios16",
@@ -4913,6 +4953,14 @@
       "onboard_time": 1659954155,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422162,
+      "num": 422162,
+      "word": "河南即将迎来降温",
+      "onboard_time": 1660316853,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420387,
@@ -5339,6 +5387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390070,
+      "num": 186504,
+      "word": "王一博街舞咖色毛衣复古造型",
+      "onboard_time": 1660316796,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389716,
       "num": 276698,
       "word": "钟辰乐湿发",
@@ -5361,6 +5417,14 @@
       "onboard_time": 1660138353,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 389370,
+      "num": 186429,
+      "word": "苍兰诀全员喊话张凌赫跳泳池",
+      "onboard_time": 1660315835,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 388592,
@@ -6203,6 +6267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350871,
+      "num": 350871,
+      "word": "成都世乒赛名单",
+      "onboard_time": 1660316734,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350702,
       "num": 350702,
       "word": "做堂堂正正中国人",
@@ -6987,6 +7059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310372,
+      "num": 310372,
+      "word": "新研究用猪皮做出眼角膜",
+      "onboard_time": 1660316254,
+      "rank": 27,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 309794,
       "num": 296700,
       "word": "江疏影道不同不妨碍和平相处",
@@ -7129,14 +7209,6 @@
       "onboard_time": 1660114592,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300364,
-      "num": 127217,
-      "word": "黑话律师",
-      "onboard_time": 1660314996,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 300360,
@@ -8611,6 +8683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227153,
+      "num": 227153,
+      "word": "武汉三镇5比1北京国安",
+      "onboard_time": 1660314037,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226815,
       "num": 226815,
       "word": "高额打赏后若反悔能退吗",
@@ -8921,14 +9001,6 @@
       "onboard_time": 1660271731,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207787,
-      "num": 207787,
-      "word": "武汉三镇5比1北京国安",
-      "onboard_time": 1660314037,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 206361,
@@ -9297,6 +9369,14 @@
       "onboard_time": 1660221335,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185123,
+      "num": 185123,
+      "word": "奶奶的每句记录都在说爱我",
+      "onboard_time": 1660315117,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 185018,
@@ -9865,6 +9945,14 @@
       "onboard_time": 1660050816,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141300,
+      "num": 141300,
+      "word": "办婚礼高低得请一支锣鼓队",
+      "onboard_time": 1660317451,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 140207,

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660315018977,
+  "endTime": 1660317882923,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2491,6 +2491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2033442,
+      "num": 2033442,
+      "word": "何同学新视频",
+      "onboard_time": 1660310560,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2027585,
       "num": 2027585,
       "word": "税务部门回应网红带货1天净赚400万",
@@ -2657,14 +2665,6 @@
       "onboard_time": 1660104217,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1932552,
-      "num": 1932552,
-      "word": "何同学新视频",
-      "onboard_time": 1660310560,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1929994,
@@ -3760,6 +3760,14 @@
       "word": "公安部要求零容忍查处性侵犯罪",
       "onboard_time": 1660308033,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1492529,
+      "num": 1492529,
+      "word": "浙江鼓励子女3岁内家长居家办公",
+      "onboard_time": 1660312958,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5979,6 +5987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1027623,
+      "num": 1027623,
+      "word": "Doinb",
+      "onboard_time": 1660315416,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1026129,
       "num": 1026129,
       "word": "网红小狗疑被主人针扎虐待",
@@ -6108,7 +6124,7 @@
     },
     {
       "raw_hot": 1000753,
-      "num": 717552,
+      "num": 899989,
       "word": "王鹤棣明天就去学Gwalla",
       "onboard_time": 1660313738,
       "rank": 30,
@@ -6736,14 +6752,6 @@
       "word": "幼儿园伙食丰富如满汉全席",
       "onboard_time": 1660124557,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921567,
-      "num": 921567,
-      "word": "浙江鼓励子女3岁内家长居家办公",
-      "onboard_time": 1660312958,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -7897,6 +7905,14 @@
       "onboard_time": 1659407199,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 773015,
+      "num": 773015,
+      "word": "南京二套房首付比例降至30%",
+      "onboard_time": 1660312418,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 772838,
@@ -9169,6 +9185,14 @@
       "onboard_time": 1659678877,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 677477,
+      "num": 533045,
+      "word": "黄晓明说今天是我愿意被左右的一天",
+      "onboard_time": 1660317332,
+      "rank": 12,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 676313,
@@ -11299,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545485,
+      "num": 404641,
+      "word": "黑话律师",
+      "onboard_time": 1659798882,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544489,
       "num": 544489,
       "word": "星汉灿烂",
@@ -11353,14 +11385,6 @@
       "onboard_time": 1660123714,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 542048,
-      "num": 542048,
-      "word": "南京二套房首付比例降至30%",
-      "onboard_time": 1660312418,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 541916,
@@ -13211,6 +13235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472526,
+      "num": 274843,
+      "word": "中餐厅",
+      "onboard_time": 1660317038,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472314,
       "num": 472314,
       "word": "双胞胎姐妹双双保送重点大学",
@@ -14547,6 +14579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432834,
+      "num": 261356,
+      "word": "你好星期六全员萌兔萌狼表情包",
+      "onboard_time": 1660317636,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432658,
       "num": 432658,
       "word": "ios16",
@@ -14961,6 +15001,14 @@
       "onboard_time": 1659622303,
       "rank": 45,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 422162,
+      "num": 422162,
+      "word": "河南即将迎来降温",
+      "onboard_time": 1660316853,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422101,
@@ -16059,6 +16107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390070,
+      "num": 186504,
+      "word": "王一博街舞咖色毛衣复古造型",
+      "onboard_time": 1660316796,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389765,
       "num": 389765,
       "word": "黄景瑜手和脚各忙各的",
@@ -16113,6 +16169,14 @@
       "onboard_time": 1660138353,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 389370,
+      "num": 186429,
+      "word": "苍兰诀全员喊话张凌赫跳泳池",
+      "onboard_time": 1660315835,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 389203,
@@ -17259,14 +17323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 366108,
-      "num": 366108,
-      "word": "黑话律师",
-      "onboard_time": 1659798882,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 365973,
       "num": 365973,
       "word": "GK对战KSG",
@@ -17945,6 +18001,14 @@
       "onboard_time": 1660277015,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350871,
+      "num": 350871,
+      "word": "成都世乒赛名单",
+      "onboard_time": 1660316734,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 350789,
@@ -19849,6 +19913,14 @@
       "onboard_time": 1659924633,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310372,
+      "num": 310372,
+      "word": "新研究用猪皮做出眼角膜",
+      "onboard_time": 1660316254,
+      "rank": 27,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 310154,
@@ -23555,6 +23627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227153,
+      "num": 227153,
+      "word": "武汉三镇5比1北京国安",
+      "onboard_time": 1660314037,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226815,
       "num": 226815,
       "word": "高额打赏后若反悔能退吗",
@@ -24248,14 +24328,6 @@
       "word": "F1匈牙利大奖赛",
       "onboard_time": 1659284365,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 207787,
-      "num": 207787,
-      "word": "武汉三镇5比1北京国安",
-      "onboard_time": 1660314037,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -25025,6 +25097,14 @@
       "onboard_time": 1660221335,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185123,
+      "num": 185123,
+      "word": "奶奶的每句记录都在说爱我",
+      "onboard_time": 1660315117,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 185018,
@@ -25857,6 +25937,14 @@
       "onboard_time": 1660050816,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141300,
+      "num": 141300,
+      "word": "办婚礼高低得请一支锣鼓队",
+      "onboard_time": 1660317451,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 139931,
