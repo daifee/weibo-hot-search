@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660326158507,
+  "endTime": 1660328812526,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 600489,
-      "num": 254502,
+      "num": 389129,
       "word": "何同学 手工耿",
       "onboard_time": 1660323143,
       "rank": 30,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293455,
+      "num": 293455,
+      "word": "重庆的猪都中暑了",
+      "onboard_time": 1660323501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287221,
       "num": 287221,
       "word": "淫秽漫画APP充值金额高达上亿元",
@@ -195,19 +203,19 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 286459,
-      "num": 286459,
-      "word": "重庆的猪都中暑了",
-      "onboard_time": 1660323501,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279922,
       "num": 168954,
       "word": "黑话律师",
       "onboard_time": 1660314996,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273569,
+      "num": 119022,
+      "word": "八月热播剧像满汉全席",
+      "onboard_time": 1660326437,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -323,6 +331,22 @@
       "category": "自然"
     },
     {
+      "raw_hot": 163360,
+      "num": 84997,
+      "word": "王劲松刘奕君悬疑定律",
+      "onboard_time": 1660327216,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162177,
+      "num": 84304,
+      "word": "蒲熠星说我们可能真的不是很合适",
+      "onboard_time": 1660327036,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161054,
       "num": 161054,
       "word": "西安暑期夜游热度全国第一",
@@ -425,6 +449,14 @@
       "onboard_time": 1660310857,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 65965,
+      "num": 45351,
+      "word": "尹正买瓜唠嗑让路人错过公交",
+      "onboard_time": 1660326915,
+      "rank": 41,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
