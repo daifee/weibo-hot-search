@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660288794851,
+  "endTime": 1660289759507,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -19,8 +19,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 3015554,
-      "num": 3015554,
+      "raw_hot": 3355270,
+      "num": 3355270,
       "word": "第一批冷冻人现在怎么样了",
       "onboard_time": 1660285291,
       "rank": 44,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2160848,
-      "num": 1545875,
+      "num": 1629344,
       "word": "王源易烊千玺包场支持王俊凯电影断桥",
       "onboard_time": 1660285832,
       "rank": 4,
@@ -315,8 +315,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751302,
+      "num": 751302,
+      "word": "今天星期五",
+      "onboard_time": 1660276839,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 742252,
-      "num": 554408,
+      "num": 596693,
       "word": "王一博不热吗",
       "onboard_time": 1660287094,
       "rank": 10,
@@ -363,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666757,
-      "num": 666757,
-      "word": "今天星期五",
-      "onboard_time": 1660276839,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 625300,
       "num": 519291,
       "word": "最近的剧好多啊",
       "onboard_time": 1660231533,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 618957,
+      "num": 587446,
+      "word": "女子离婚后卖亲生儿子赚钱",
+      "onboard_time": 1660288112,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 611483,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552565,
+      "num": 552565,
+      "word": "学医对颜值的影响有多大",
+      "onboard_time": 1660285710,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 538202,
       "num": 538202,
       "word": "纸嫁衣中元节",
@@ -483,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523389,
+      "num": 523389,
+      "word": "你的快递是这么丢的",
+      "onboard_time": 1660287754,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520549,
       "num": 520549,
       "word": "阿兹夫定片每瓶定价270元",
       "onboard_time": 1660228776,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502814,
+      "num": 502814,
+      "word": "玫瑰之战 没版权",
+      "onboard_time": 1660287213,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 490009,
@@ -524,19 +556,11 @@
     },
     {
       "raw_hot": 479752,
-      "num": 379587,
+      "num": 380356,
       "word": "披荆斩棘的哥哥开播一周年",
       "onboard_time": 1660285355,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479593,
-      "num": 479593,
-      "word": "学医对颜值的影响有多大",
-      "onboard_time": 1660285710,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 474939,
@@ -585,14 +609,6 @@
       "onboard_time": 1660266870,
       "rank": 15,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 443050,
-      "num": 383152,
-      "word": "玫瑰之战 没版权",
-      "onboard_time": 1660287213,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 439776,
@@ -651,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410253,
+      "num": 382717,
+      "word": "时代少年团官宣加盟北影节",
+      "onboard_time": 1660288771,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409089,
       "num": 409089,
       "word": "院士称人造太阳将打开未来能源大门",
       "onboard_time": 1660275814,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 400573,
-      "num": 400573,
-      "word": "你的快递是这么丢的",
-      "onboard_time": 1660287754,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 398085,
@@ -699,6 +715,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 387946,
+      "num": 359331,
+      "word": "苍兰诀",
+      "onboard_time": 1660207110,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381120,
       "num": 381120,
       "word": "广西藤县一两岁男童家门口失踪",
@@ -713,14 +737,6 @@
       "onboard_time": 1660278457,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 377160,
-      "num": 251511,
-      "word": "苍兰诀",
-      "onboard_time": 1660207110,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 376958,
@@ -739,11 +755,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369116,
-      "num": 141674,
-      "word": "时代少年团官宣加盟北影节",
-      "onboard_time": 1660288771,
-      "rank": 47,
+      "raw_hot": 373976,
+      "num": 260331,
+      "word": "北京国际电影节开幕红毯",
+      "onboard_time": 1660289433,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -777,6 +793,22 @@
       "onboard_time": 1660239078,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354309,
+      "num": 354309,
+      "word": "广西藤县走失3岁男童家长发声",
+      "onboard_time": 1660284633,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353108,
+      "num": 201147,
+      "word": "严浩翔玩悠悠球",
+      "onboard_time": 1660289013,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352884,
@@ -907,20 +939,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 323044,
-      "num": 323044,
-      "word": "广西藤县走失3岁男童家长发声",
-      "onboard_time": 1660284633,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321661,
       "num": 321661,
       "word": "年轻人为什么不爱做家务",
       "onboard_time": 1660249031,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317883,
+      "num": 317883,
+      "word": "没必要担心遇见脏东西",
+      "onboard_time": 1660287272,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 314734,
@@ -952,6 +984,14 @@
       "word": "男子偷200万买房靠卖房收租为生",
       "onboard_time": 1660215157,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307584,
+      "num": 278721,
+      "word": "2022央视中秋晚会落户苏州张家港",
+      "onboard_time": 1660285355,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282737,
+      "num": 282737,
+      "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
+      "onboard_time": 1660289133,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 282560,
       "num": 282560,
       "word": "月升沧海的非遗打开方式",
@@ -1080,14 +1128,6 @@
       "word": "青岛大暴雨来袭",
       "onboard_time": 1660269510,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278721,
-      "num": 278721,
-      "word": "2022央视中秋晚会落户苏州张家港",
-      "onboard_time": 1660285355,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1147,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260434,
+      "num": 260434,
+      "word": "男童失踪有人声称给50万放人",
+      "onboard_time": 1660286251,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 260260,
       "num": 260260,
       "word": "月升沧海太子支棱起来了",
       "onboard_time": 1660237640,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260173,
+      "num": 260173,
+      "word": "穷鬼上班的日子",
+      "onboard_time": 1660288833,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 254471,
@@ -1179,28 +1235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247579,
-      "num": 247579,
-      "word": "没必要担心遇见脏东西",
-      "onboard_time": 1660287272,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 245354,
       "num": 161181,
       "word": "闪亮的日子",
       "onboard_time": 1660281693,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243898,
-      "num": 243898,
-      "word": "男童失踪有人声称给50万放人",
-      "onboard_time": 1660286251,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 241873,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1660248312,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232507,
-      "num": 232507,
-      "word": "女子离婚后卖亲生儿子赚钱",
-      "onboard_time": 1660288112,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 230088,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1660273889,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199060,
+      "num": 199060,
+      "word": "北京能体验自动驾驶级导航了",
+      "onboard_time": 1660289374,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 197731,
