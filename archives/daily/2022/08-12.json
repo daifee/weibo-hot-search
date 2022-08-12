@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660308089594,
+  "endTime": 1660309776993,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -219,8 +219,8 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 1260913,
-      "num": 1260913,
+      "raw_hot": 1281439,
+      "num": 1281439,
       "word": "高铁晚点",
       "onboard_time": 1660305214,
       "rank": 4,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 878221,
+      "num": 1680998,
+      "word": "今年首发最高级别高温红色预警",
+      "onboard_time": 1660302762,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869549,
       "num": 650568,
       "word": "吴磊赵露思月升沧海杀青吻",
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738202,
+      "num": 738202,
+      "word": "苍兰诀爱奇艺热度破9000",
+      "onboard_time": 1660308215,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 733561,
       "num": 733561,
       "word": "网传时代少年团演唱会歌曲",
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670213,
+      "num": 648602,
+      "word": "公安部要求零容忍查处性侵犯罪",
+      "onboard_time": 1660308033,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668236,
       "num": 668236,
       "word": "给还没到27岁的人的建议",
@@ -595,20 +619,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 632923,
-      "num": 1680998,
-      "word": "今年首发最高级别高温红色预警",
-      "onboard_time": 1660302762,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625300,
       "num": 519291,
       "word": "最近的剧好多啊",
       "onboard_time": 1660231533,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 612725,
+      "num": 612725,
+      "word": "重庆北站",
+      "onboard_time": 1660308874,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611483,
@@ -747,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530626,
+      "num": 387162,
+      "word": "丁程鑫北京电影节后台偶遇视频",
+      "onboard_time": 1660308696,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526437,
       "num": 526437,
       "word": "河南安徽村镇银行已累计垫付180.4亿",
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475348,
+      "num": 475348,
+      "word": "明天10多个省区市超40℃",
+      "onboard_time": 1660306356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474939,
       "num": 474939,
       "word": "上海感染者轨迹所涉足浴店被刑事立案",
@@ -904,6 +944,14 @@
       "word": "月升沧海 虐",
       "onboard_time": 1660223434,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 467437,
+      "num": 252533,
+      "word": "张天爱穿礼服吃薯条",
+      "onboard_time": 1660307676,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1083,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398454,
+      "num": 398454,
+      "word": "上海网友开始pk电费了",
+      "onboard_time": 1660306534,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 398085,
       "num": 398085,
       "word": "校方回应新生录取通知书有错别字",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1660260806,
       "rank": 45,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 383830,
+      "num": 247532,
+      "word": "萌探收官是大型演唱会现场",
+      "onboard_time": 1660309534,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 381120,
@@ -1323,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343028,
+      "num": 343028,
+      "word": "狼队对战TTG",
+      "onboard_time": 1660308275,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342404,
       "num": 342404,
       "word": "Sunnee说爱豆不是负面标签",
@@ -1395,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332714,
-      "num": 223891,
-      "word": "张天爱穿礼服吃薯条",
-      "onboard_time": 1660307676,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 332858,
+      "num": 193132,
+      "word": "负面情绪该不该向朋友宣泄",
+      "onboard_time": 1660309058,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 332133,
@@ -1459,19 +1531,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319647,
-      "num": 319647,
-      "word": "明天10多个省区市超40℃",
-      "onboard_time": 1660306356,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316150,
       "num": 316150,
       "word": "银保监会河南监管局两干部被查",
       "onboard_time": 1660291113,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315023,
+      "num": 315023,
+      "word": "成都东站",
+      "onboard_time": 1660309360,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1497,6 +1569,14 @@
       "onboard_time": 1660301197,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311565,
+      "num": 192930,
+      "word": "中国好声音",
+      "onboard_time": 1660309416,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 310756,
@@ -1651,14 +1731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289661,
-      "num": 148559,
-      "word": "公安部要求零容忍查处性侵犯罪",
-      "onboard_time": 1660308033,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289007,
       "num": 174004,
       "word": "科研团队7年研发本土专利菌",
@@ -1707,6 +1779,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 279955,
+      "num": 279955,
+      "word": "月亮",
+      "onboard_time": 1660218457,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
       "raw_hot": 279247,
       "num": 249862,
       "word": "张慧雯召唤陈都灵追欢乐颂3",
@@ -1745,6 +1825,14 @@
       "onboard_time": 1660277076,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275437,
+      "num": 275437,
+      "word": "饿了么免单",
+      "onboard_time": 1660308633,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 274882,
@@ -1859,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243893,
+      "num": 243893,
+      "word": "厦门本轮疫情2条传播链交织叠加",
+      "onboard_time": 1660306896,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243771,
       "num": 243771,
       "word": "官方回应网站兜售疑似随申码数据",
@@ -1923,14 +2019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233419,
-      "num": 233419,
-      "word": "上海网友开始pk电费了",
-      "onboard_time": 1660306534,
-      "rank": 26,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 232924,
       "num": 232924,
       "word": "被推下床的熊猫宝宝又委屈又懵",
@@ -1945,14 +2033,6 @@
       "onboard_time": 1660305818,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231403,
-      "num": 231403,
-      "word": "月亮",
-      "onboard_time": 1660218457,
-      "rank": 42,
-      "category": "自然"
     },
     {
       "raw_hot": 230437,
@@ -2059,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213250,
+      "num": 213250,
+      "word": "周五就该有周五的态度",
+      "onboard_time": 1660307854,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212674,
       "num": 212674,
       "word": "新疆新增224例无症状感染者",
@@ -2073,14 +2161,6 @@
       "onboard_time": 1660220792,
       "rank": 24,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 210075,
-      "num": 210075,
-      "word": "厦门本轮疫情2条传播链交织叠加",
-      "onboard_time": 1660306896,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209942,
@@ -2131,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195585,
+      "num": 195585,
+      "word": "WBG对战LNG",
+      "onboard_time": 1660308157,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190646,
       "num": 190646,
       "word": "三年超四千名乡村足球女孩获帮助",
@@ -2139,11 +2227,27 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 189729,
+      "num": 189729,
+      "word": "武汉三镇vs北京国安",
+      "onboard_time": 1660308934,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189607,
       "num": 189607,
       "word": "上海到底能有多热",
       "onboard_time": 1660271011,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188209,
+      "num": 188209,
+      "word": "英仙座流星雨来了",
+      "onboard_time": 1660309474,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2177,14 +2281,6 @@
       "onboard_time": 1660294355,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 183663,
-      "num": 183663,
-      "word": "周五就该有周五的态度",
-      "onboard_time": 1660307854,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 182103,
@@ -2527,6 +2623,14 @@
       "num": 265965,
       "word": "直升机航拍震撼时刻",
       "onboard_time": 1660276839,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44619,
+      "num": 193405,
+      "word": "Z世代的未来有多少可能性",
+      "onboard_time": 1660309237,
       "rank": 39,
       "category": "社会新闻"
     },

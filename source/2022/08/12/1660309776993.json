@@ -1,0 +1,410 @@
+{
+  "runTime": 1660309776993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2515745,
+        "num": 2515745,
+        "word": "支付宝出现这两个界面千万别转账",
+        "onboard_time": 1660302816,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1647244,
+        "num": 1647244,
+        "word": "中方制裁立陶宛交通与通讯部副部长",
+        "onboard_time": 1660304438,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 878221,
+        "num": 1402007,
+        "word": "今年首发最高级别高温红色预警",
+        "onboard_time": 1660302762,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361130,
+        "num": 1361130,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1281439,
+        "num": 1281439,
+        "word": "高铁晚点",
+        "onboard_time": 1660305214,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007966,
+        "num": 1007966,
+        "word": "40℃已进不了全国高温排行榜",
+        "onboard_time": 1660298194,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777542,
+        "num": 777542,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 762699,
+        "num": 762699,
+        "word": "赵露思拽吴磊头发",
+        "onboard_time": 1660303961,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738202,
+        "num": 738202,
+        "word": "苍兰诀爱奇艺热度破9000",
+        "onboard_time": 1660308215,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650106,
+        "num": 650106,
+        "word": "老人担心5个月婴儿受凉捂到脱水",
+        "onboard_time": 1660298015,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670213,
+        "num": 648602,
+        "word": "公安部要求零容忍查处性侵犯罪",
+        "onboard_time": 1660308033,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612725,
+        "num": 612725,
+        "word": "重庆北站",
+        "onboard_time": 1660308874,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512060,
+        "num": 512060,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 500100,
+        "num": 500100,
+        "word": "陈都灵和李宇春握手害羞跑走",
+        "onboard_time": 1660306657,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490337,
+        "num": 490337,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 475348,
+        "num": 475348,
+        "word": "明天10多个省区市超40℃",
+        "onboard_time": 1660306356,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474335,
+        "num": 474335,
+        "word": "冰雨火全员甩锅时刻",
+        "onboard_time": 1660307254,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462762,
+        "num": 462762,
+        "word": "给还没到27岁的人的建议",
+        "onboard_time": 1660300897,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 436854,
+        "num": 436854,
+        "word": "沈马组合",
+        "onboard_time": 1660304017,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398454,
+        "num": 398454,
+        "word": "上海网友开始pk电费了",
+        "onboard_time": 1660306534,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 658581,
+        "num": 394029,
+        "word": "阿娇瘦到91斤",
+        "onboard_time": 1660289792,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530626,
+        "num": 387162,
+        "word": "丁程鑫北京电影节后台偶遇视频",
+        "onboard_time": 1660308696,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507829,
+        "num": 382298,
+        "word": "纸嫁衣男主好像罗云熙",
+        "onboard_time": 1660293572,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 374007,
+        "num": 374007,
+        "word": "把空调关了也还是想谈恋爱",
+        "onboard_time": 1660301617,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 343028,
+        "num": 343028,
+        "word": "狼队对战TTG",
+        "onboard_time": 1660308275,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316334,
+        "num": 316334,
+        "word": "当女朋友的职业病突然犯了",
+        "onboard_time": 1660305818,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315023,
+        "num": 315023,
+        "word": "成都东站",
+        "onboard_time": 1660309360,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279955,
+        "num": 279955,
+        "word": "月亮",
+        "onboard_time": 1660307375,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 275437,
+        "num": 275437,
+        "word": "饿了么免单",
+        "onboard_time": 1660308633,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253816,
+        "num": 253816,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467437,
+        "num": 252533,
+        "word": "张天爱穿礼服吃薯条",
+        "onboard_time": 1660307676,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384490,
+        "num": 250346,
+        "word": "苍兰诀",
+        "onboard_time": 1660287808,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383830,
+        "num": 247532,
+        "word": "萌探收官是大型演唱会现场",
+        "onboard_time": 1660309534,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344323,
+        "num": 244614,
+        "word": "王一博的表情好像旺仔",
+        "onboard_time": 1660296692,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243893,
+        "num": 243893,
+        "word": "厦门本轮疫情2条传播链交织叠加",
+        "onboard_time": 1660306896,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220837,
+        "num": 220837,
+        "word": "宁波人社局给考公落榜者发挽留短信",
+        "onboard_time": 1660295252,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 213250,
+        "num": 213250,
+        "word": "周五就该有周五的态度",
+        "onboard_time": 1660307854,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206325,
+        "num": 206325,
+        "word": "河南安徽村镇银行已累计垫付180.4亿",
+        "onboard_time": 1660299874,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 195585,
+        "num": 195585,
+        "word": "WBG对战LNG",
+        "onboard_time": 1660308157,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44619,
+        "num": 193405,
+        "word": "Z世代的未来有多少可能性",
+        "onboard_time": 1660309237,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332858,
+        "num": 193132,
+        "word": "负面情绪该不该向朋友宣泄",
+        "onboard_time": 1660309058,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311565,
+        "num": 192930,
+        "word": "中国好声音",
+        "onboard_time": 1660309416,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192205,
+        "num": 192205,
+        "word": "原来人类幼崽的靠山是狗狗",
+        "onboard_time": 1660302453,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 189860,
+        "word": "女子离婚后卖亲生儿子赚钱",
+        "onboard_time": 1660288112,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189729,
+        "num": 189729,
+        "word": "武汉三镇vs北京国安",
+        "onboard_time": 1660308934,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188209,
+        "num": 188209,
+        "word": "英仙座流星雨来了",
+        "onboard_time": 1660309474,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169694,
+        "num": 169694,
+        "word": "重庆出现刺鼻异味的原因找到了",
+        "onboard_time": 1660290753,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161099,
+        "num": 161099,
+        "word": "符建涛妈妈否认向孙海洋索要赏金",
+        "onboard_time": 1660298434,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 48,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "河南安徽5家村镇银行涉嫌严重犯罪",
+        "onboard_time": 1660300837,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
