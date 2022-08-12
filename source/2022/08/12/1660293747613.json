@@ -1,0 +1,410 @@
+{
+  "runTime": 1660293747613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2588292,
+        "num": 2588292,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1726633,
+        "num": 1726633,
+        "word": "佩洛西窜台偷偷带儿子",
+        "onboard_time": 1660278638,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 119608,
+        "num": 1626619,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1660280078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1623969,
+        "num": 1623969,
+        "word": "杨迪说模仿者最终都会回归到自己",
+        "onboard_time": 1660293391,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1280907,
+        "num": 1280907,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1128024,
+        "num": 1128024,
+        "word": "王源易烊千玺包场支持王俊凯电影断桥",
+        "onboard_time": 1660285832,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1127733,
+        "num": 1127733,
+        "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
+        "onboard_time": 1660289133,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1076504,
+        "num": 1076504,
+        "word": "纸嫁衣",
+        "onboard_time": 1660270649,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 833639,
+        "num": 833639,
+        "word": "Angelababy双丸子头造型",
+        "onboard_time": 1660292372,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757232,
+        "num": 757232,
+        "word": "你的快递是这么丢的",
+        "onboard_time": 1660287754,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1147179,
+        "num": 753049,
+        "word": "女子离婚后卖亲生儿子赚钱",
+        "onboard_time": 1660288112,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 733058,
+        "num": 733058,
+        "word": "导游在大巴上埋怨游客花钱少被怼",
+        "onboard_time": 1660291113,
+        "rank": 11,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 682748,
+        "num": 682748,
+        "word": "重庆出现刺鼻异味的原因找到了",
+        "onboard_time": 1660290753,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535728,
+        "num": 535728,
+        "word": "赵丽颖沈璃侧颜",
+        "onboard_time": 1660292911,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507453,
+        "num": 507453,
+        "word": "外国人为什么喜欢吃生饺子",
+        "onboard_time": 1660286310,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480270,
+        "num": 480270,
+        "word": "学医对颜值的影响有多大",
+        "onboard_time": 1660285710,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427082,
+        "num": 427082,
+        "word": "学数学有多重要",
+        "onboard_time": 1660290512,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414432,
+        "num": 414432,
+        "word": "王一博不热吗",
+        "onboard_time": 1660287094,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406599,
+        "num": 406599,
+        "word": "穷鬼上班的日子",
+        "onboard_time": 1660288833,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399348,
+        "num": 399348,
+        "word": "新证据表明大陆是小行星撞出的",
+        "onboard_time": 1660291953,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2336139,
+        "num": 396422,
+        "word": "阿娇瘦到91斤",
+        "onboard_time": 1660289792,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494528,
+        "num": 395064,
+        "word": "纸嫁衣男主好像罗云熙",
+        "onboard_time": 1660293572,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 390571,
+        "num": 390571,
+        "word": "没必要担心遇见脏东西",
+        "onboard_time": 1660287272,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 387910,
+        "num": 387910,
+        "word": "玫瑰之战 没版权",
+        "onboard_time": 1660287213,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378671,
+        "num": 378671,
+        "word": "张佳宁台词",
+        "onboard_time": 1660290991,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341442,
+        "num": 341442,
+        "word": "征兵体检标准摘要来了",
+        "onboard_time": 1660289971,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316150,
+        "num": 316150,
+        "word": "银保监会河南监管局两干部被查",
+        "onboard_time": 1660291113,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301259,
+        "num": 301259,
+        "word": "三星李在镕获韩国总统特赦",
+        "onboard_time": 1660274792,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 278982,
+        "num": 278982,
+        "word": "90后小伙干10年钢筋工被误认是60后",
+        "onboard_time": 1660278519,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278703,
+        "num": 278703,
+        "word": "不要仗着年轻一直熬夜",
+        "onboard_time": 1660286971,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354264,
+        "num": 276834,
+        "word": "你怎么看ESO组合",
+        "onboard_time": 1660285110,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278945,
+        "num": 276752,
+        "word": "时代少年团官宣加盟北影节",
+        "onboard_time": 1660288771,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268026,
+        "num": 268026,
+        "word": "工人高空修管道被人泼水还用锅铲捅",
+        "onboard_time": 1660291052,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267262,
+        "num": 267262,
+        "word": "谢娜谈十三角关系",
+        "onboard_time": 1660290155,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266645,
+        "num": 266645,
+        "word": "苍兰诀",
+        "onboard_time": 1660287808,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254274,
+        "num": 254274,
+        "word": "男童失踪有人声称给50万放人",
+        "onboard_time": 1660286251,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 238330,
+        "num": 238330,
+        "word": "1万元银行理财15个月仅赚9元",
+        "onboard_time": 1660281752,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 236782,
+        "num": 236782,
+        "word": "有的猫奋斗有的猫躺平",
+        "onboard_time": 1660292133,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216297,
+        "num": 216297,
+        "word": "5岁女儿唱小星星送别爸爸",
+        "onboard_time": 1660292494,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214630,
+        "num": 214630,
+        "word": "浙HY1110一车都是热心肠",
+        "onboard_time": 1660281332,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 252976,
+        "num": 212148,
+        "word": "Sunnee说爱豆不是负面标签",
+        "onboard_time": 1660291052,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234973,
+        "num": 211230,
+        "word": "披荆斩棘的哥哥开播一周年",
+        "onboard_time": 1660285355,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209634,
+        "num": 209634,
+        "word": "范丞丞将亮相北影节开幕式",
+        "onboard_time": 1660291773,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200124,
+        "num": 200124,
+        "word": "起底蔡氏骗局",
+        "onboard_time": 1660282112,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180225,
+        "num": 180225,
+        "word": "手机恢复出厂设置能否保障信息安全",
+        "onboard_time": 1660293153,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "纸嫁衣中元节",
+        "onboard_time": 1660277138,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166428,
+        "num": 166428,
+        "word": "广西藤县走失3岁男童家长发声",
+        "onboard_time": 1660284633,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147334,
+        "num": 147334,
+        "word": "男子酒后执意骑车摔瘫后起诉好友",
+        "onboard_time": 1660277676,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137575,
+        "num": 137575,
+        "word": "他们在燕郊送外卖救孩子的命",
+        "onboard_time": 1660286130,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114939,
+        "num": 114939,
+        "word": "纸嫁衣剧情",
+        "onboard_time": 1660293572,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人的事要由中国人来决定#"
+    }
+  }
+}

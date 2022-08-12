@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660292826665,
+  "endTime": 1660293747613,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623969,
+      "num": 1623969,
+      "word": "杨迪说模仿者最终都会回归到自己",
+      "onboard_time": 1660293391,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1455248,
       "num": 1455248,
       "word": "公安成功摧毁6款淫秽漫画APP",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1224529,
-      "num": 587446,
+      "num": 753049,
       "word": "女子离婚后卖亲生儿子赚钱",
       "onboard_time": 1660288112,
       "rank": 37,
@@ -307,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833639,
+      "num": 833639,
+      "word": "Angelababy双丸子头造型",
+      "onboard_time": 1660292372,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830008,
       "num": 830008,
       "word": "爱马仕新款自行车卖16.5万",
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757232,
+      "num": 757232,
+      "word": "你的快递是这么丢的",
+      "onboard_time": 1660287754,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756360,
       "num": 756360,
       "word": "虞书欣 台词",
@@ -355,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 740987,
-      "num": 740987,
-      "word": "你的快递是这么丢的",
-      "onboard_time": 1660287754,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 740967,
       "num": 740967,
       "word": "高中女生压力大引发甲亢危象",
@@ -377,6 +393,14 @@
       "onboard_time": 1660270230,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 733058,
+      "num": 733058,
+      "word": "导游在大巴上埋怨游客花钱少被怼",
+      "onboard_time": 1660291113,
+      "rank": 9,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 731447,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682748,
+      "num": 682748,
+      "word": "重庆出现刺鼻异味的原因找到了",
+      "onboard_time": 1660290753,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625300,
       "num": 519291,
       "word": "最近的剧好多啊",
@@ -425,14 +457,6 @@
       "onboard_time": 1660270890,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 586612,
-      "num": 534426,
-      "word": "重庆出现刺鼻异味的原因找到了",
-      "onboard_time": 1660290753,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 586426,
@@ -523,20 +547,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 537848,
-      "num": 537848,
-      "word": "导游在大巴上埋怨游客花钱少被怼",
-      "onboard_time": 1660291113,
-      "rank": 9,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 537809,
       "num": 537809,
       "word": "强生全球停售含滑石粉的婴儿爽身粉",
       "onboard_time": 1660273353,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535728,
+      "num": 535728,
+      "word": "赵丽颖沈璃侧颜",
+      "onboard_time": 1660292911,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 520549,
@@ -561,6 +585,14 @@
       "onboard_time": 1660287213,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494528,
+      "num": 395064,
+      "word": "纸嫁衣男主好像罗云熙",
+      "onboard_time": 1660293572,
+      "rank": 21,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 488269,
@@ -627,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465312,
-      "num": 465312,
-      "word": "Angelababy双丸子头造型",
-      "onboard_time": 1660292372,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 458873,
       "num": 458873,
       "word": "起底蔡氏骗局",
@@ -683,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427082,
+      "num": 427082,
+      "word": "学数学有多重要",
+      "onboard_time": 1660290512,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423589,
       "num": 423589,
       "word": "我是减肥不是绝食",
@@ -715,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 410821,
-      "num": 410821,
-      "word": "学数学有多重要",
-      "onboard_time": 1660290512,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410253,
       "num": 382717,
       "word": "时代少年团官宣加盟北影节",
@@ -739,12 +763,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 406599,
+      "num": 406599,
+      "word": "穷鬼上班的日子",
+      "onboard_time": 1660288833,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405297,
       "num": 405297,
       "word": "没必要担心遇见脏东西",
       "onboard_time": 1660287272,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 399348,
+      "num": 399348,
+      "word": "新证据表明大陆是小行星撞出的",
+      "onboard_time": 1660291953,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 398085,
@@ -761,14 +801,6 @@
       "onboard_time": 1660260806,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393576,
-      "num": 393576,
-      "word": "穷鬼上班的日子",
-      "onboard_time": 1660288833,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 388592,
@@ -1043,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316150,
+      "num": 316150,
+      "word": "银保监会河南监管局两干部被查",
+      "onboard_time": 1660291113,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314734,
       "num": 314734,
       "word": "万刃阁少女开播",
@@ -1120,14 +1160,6 @@
       "word": "海南增本土无症状614例",
       "onboard_time": 1660263329,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299684,
-      "num": 299684,
-      "word": "银保监会河南监管局两干部被查",
-      "onboard_time": 1660291113,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236782,
+      "num": 236782,
+      "word": "有的猫奋斗有的猫躺平",
+      "onboard_time": 1660292133,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236727,
       "num": 164928,
       "word": "吴磊此翅甚妙",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1660248312,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235000,
-      "num": 235000,
-      "word": "新证据表明大陆是小行星撞出的",
-      "onboard_time": 1660291953,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 230088,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1660272390,
       "rank": 35,
       "category": "游戏,科技"
+    },
+    {
+      "raw_hot": 216297,
+      "num": 216297,
+      "word": "5岁女儿唱小星星送别爸爸",
+      "onboard_time": 1660292494,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215692,
@@ -1507,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191205,
-      "num": 191205,
-      "word": "有的猫奋斗有的猫躺平",
-      "onboard_time": 1660292133,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190646,
       "num": 190646,
       "word": "三年超四千名乡村足球女孩获帮助",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1660273653,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180225,
+      "num": 180225,
+      "word": "手机恢复出厂设置能否保障信息安全",
+      "onboard_time": 1660293153,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 179886,
@@ -1667,14 +1707,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 154553,
-      "num": 154553,
-      "word": "5岁女儿唱小星星送别爸爸",
-      "onboard_time": 1660292494,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153343,
       "num": 125967,
       "word": "冰雨火不够看",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1660219537,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114939,
+      "num": 114939,
+      "word": "纸嫁衣剧情",
+      "onboard_time": 1660293572,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 113114,
