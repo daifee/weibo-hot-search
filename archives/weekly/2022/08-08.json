@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660331841389,
+  "endTime": 1660332818067,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -10659,6 +10659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30847,
+      "num": 30847,
+      "word": "离琼申请",
+      "onboard_time": 1660331053,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28294,
       "num": 28294,
       "word": "宋佳齐溪黄轩街头号召路人看电影",
@@ -10697,14 +10705,6 @@
       "onboard_time": 1659898453,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19817,
-      "num": 19817,
-      "word": "离琼申请",
-      "onboard_time": 1660331053,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19637,

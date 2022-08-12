@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660331841389,
+  "endTime": 1660332818067,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -27115,6 +27115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30847,
+      "num": 30847,
+      "word": "离琼申请",
+      "onboard_time": 1660331053,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28848,
       "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
@@ -27217,14 +27225,6 @@
       "onboard_time": 1659639252,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19817,
-      "num": 19817,
-      "word": "离琼申请",
-      "onboard_time": 1660331053,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19637,
