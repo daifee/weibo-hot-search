@@ -1,0 +1,410 @@
+{
+  "runTime": 1660326158507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873836,
+        "num": 873836,
+        "word": "何同学新视频",
+        "onboard_time": 1660310560,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 676558,
+        "num": 676558,
+        "word": "支付宝出现这两个界面千万别转账",
+        "onboard_time": 1660302816,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44223,
+        "num": 624267,
+        "word": "看见锦绣山河",
+        "onboard_time": 1660310857,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 623825,
+        "num": 623825,
+        "word": "杜华给内娱经纪公司的排名",
+        "onboard_time": 1660318771,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614252,
+        "num": 614252,
+        "word": "殷桃 美",
+        "onboard_time": 1660319730,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383120,
+        "num": 383120,
+        "word": "这条高铁给美国敲响警钟",
+        "onboard_time": 1660318353,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 286459,
+        "num": 286459,
+        "word": "重庆的猪都中暑了",
+        "onboard_time": 1660323501,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260190,
+        "num": 260190,
+        "word": "狗狗被蛇咬伤脸肿胀像狗熊",
+        "onboard_time": 1660318652,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249053,
+        "num": 249053,
+        "word": "年轻人不喜欢吃小龙虾了吗",
+        "onboard_time": 1660310377,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240335,
+        "num": 240335,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 562715,
+        "num": 234685,
+        "word": "何同学 手工耿",
+        "onboard_time": 1660323143,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303565,
+        "num": 232354,
+        "word": "你愿意花6000块钱合租吗",
+        "onboard_time": 1660311100,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257522,
+        "num": 229565,
+        "word": "赵露思拽吴磊头发",
+        "onboard_time": 1660303961,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221423,
+        "num": 221423,
+        "word": "乌鲁木齐新增73个中高风险区",
+        "onboard_time": 1660321767,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175280,
+        "num": 175280,
+        "word": "40℃已进不了全国高温排行榜",
+        "onboard_time": 1660298194,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162224,
+        "num": 162224,
+        "word": "女海归辞高薪返乡投资千万圆田园梦",
+        "onboard_time": 1660319373,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157220,
+        "num": 157220,
+        "word": "流星雨",
+        "onboard_time": 1660312656,
+        "rank": 16,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 155015,
+        "num": 155015,
+        "word": "四川人快热出幻觉了",
+        "onboard_time": 1660318296,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145963,
+        "num": 145963,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 137646,
+        "num": 137646,
+        "word": "Doinb",
+        "onboard_time": 1660315416,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184712,
+        "num": 136996,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 172029,
+        "num": 136926,
+        "word": "黄晓明说今天是我愿意被左右的一天",
+        "onboard_time": 1660317332,
+        "rank": 21,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 153122,
+        "num": 136594,
+        "word": "没人能逃过Angelababy的直觉",
+        "onboard_time": 1660321108,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129680,
+        "num": 129680,
+        "word": "中方制裁立陶宛交通与通讯部副部长",
+        "onboard_time": 1660304438,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 127101,
+        "num": 127101,
+        "word": "浙江鼓励子女3岁内家长居家办公",
+        "onboard_time": 1660312958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116644,
+        "num": 116644,
+        "word": "女孩耗时2个月做千里江山图手镯",
+        "onboard_time": 1660311216,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112777,
+        "num": 112777,
+        "word": "西安暑期夜游热度全国第一",
+        "onboard_time": 1660321707,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 108017,
+        "num": 108017,
+        "word": "老人担心5个月婴儿受凉捂到脱水",
+        "onboard_time": 1660298015,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96979,
+        "num": 96979,
+        "word": "公安部要求零容忍查处性侵犯罪",
+        "onboard_time": 1660308033,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95812,
+        "num": 95812,
+        "word": "把空调关了也还是想谈恋爱",
+        "onboard_time": 1660301617,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 125787,
+        "num": 95448,
+        "word": "黑话律师",
+        "onboard_time": 1660314996,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122004,
+        "num": 95145,
+        "word": "王鹤棣明天就去学Gwalla",
+        "onboard_time": 1660313738,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110664,
+        "num": 94611,
+        "word": "中餐厅6好看吗",
+        "onboard_time": 1660318591,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96498,
+        "num": 94164,
+        "word": "玉骨遥",
+        "onboard_time": 1660316015,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93735,
+        "num": 93735,
+        "word": "中元节最温暖的解释",
+        "onboard_time": 1660322783,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88274,
+        "num": 88274,
+        "word": "给还没到27岁的人的建议",
+        "onboard_time": 1660300897,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 86843,
+        "num": 86843,
+        "word": "重庆北站",
+        "onboard_time": 1660308874,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 82352,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 78386,
+        "num": 78386,
+        "word": "成都东站",
+        "onboard_time": 1660309360,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68573,
+        "num": 68573,
+        "word": "新研究用猪皮做出眼角膜",
+        "onboard_time": 1660316254,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 95602,
+        "num": 66923,
+        "word": "袁慎支棱起来了",
+        "onboard_time": 1660319312,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86328,
+        "num": 66146,
+        "word": "张天爱穿礼服吃薯条",
+        "onboard_time": 1660307676,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62169,
+        "num": 62169,
+        "word": "上海网友开始pk电费了",
+        "onboard_time": 1660306534,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 57467,
+        "num": 57467,
+        "word": "月亮",
+        "onboard_time": 1660307375,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 57111,
+        "num": 57111,
+        "word": "奶奶的每句记录都在说爱我",
+        "onboard_time": 1660315117,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51944,
+        "num": 51944,
+        "word": "南京二套房首付比例降至30%",
+        "onboard_time": 1660312418,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 51598,
+        "num": 51598,
+        "word": "明天10多个省区市超40℃",
+        "onboard_time": 1660306356,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44243,
+        "num": 44243,
+        "word": "官方回应高铁大面积晚点",
+        "onboard_time": 1660310857,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38837,
+        "num": 38837,
+        "word": "成都世乒赛名单",
+        "onboard_time": 1660316734,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35147,
+        "num": 35147,
+        "word": "河南即将迎来降温",
+        "onboard_time": 1660316853,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码十年#"
+    }
+  }
+}

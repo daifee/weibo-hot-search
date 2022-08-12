@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660325230110,
+  "endTime": 1660326158507,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -195,6 +195,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 286459,
+      "num": 286459,
+      "word": "重庆的猪都中暑了",
+      "onboard_time": 1660323501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279922,
       "num": 168954,
       "word": "黑话律师",
@@ -257,14 +265,6 @@
       "onboard_time": 1660304438,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 231627,
-      "num": 231627,
-      "word": "重庆的猪都中暑了",
-      "onboard_time": 1660323501,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228241,
