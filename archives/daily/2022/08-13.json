@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660335724247,
+  "endTime": 1660336664954,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62820,
+      "num": 36318,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 37271,
       "num": 37271,
       "word": "离琼申请",
@@ -475,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35980,
-      "num": 35980,
-      "word": "中国男子暴雨中勇救韩国老夫妇",
-      "onboard_time": 1660334052,
-      "rank": 24,
-      "category": "社会正能量"
+      "raw_hot": 22572,
+      "num": 22572,
+      "word": "沉香如屑又断更了",
+      "onboard_time": 1660333032,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 13450,
+      "num": 13450,
+      "word": "今年首发最高级别高温红色预警",
+      "onboard_time": 1660302762,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
