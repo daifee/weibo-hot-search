@@ -1,0 +1,410 @@
+{
+  "runTime": 1660300007956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2323275,
+        "num": 2323275,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2231227,
+        "num": 2231227,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 65910,
+        "num": 1505668,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1660280078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4455588,
+        "num": 1504942,
+        "word": "专家建议30岁未经济独立女性尽早回老家",
+        "onboard_time": 1660295974,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468587,
+        "num": 1468587,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1399511,
+        "num": 1399511,
+        "word": "中石油中石化将从纽交所退市",
+        "onboard_time": 1660296092,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1216478,
+        "num": 1216478,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1105487,
+        "num": 1105487,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012332,
+        "num": 1012332,
+        "word": "40℃已进不了全国高温排行榜",
+        "onboard_time": 1660298194,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794611,
+        "num": 794611,
+        "word": "佩洛西窜台偷偷带儿子",
+        "onboard_time": 1660278638,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 690073,
+        "num": 690073,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 681064,
+        "num": 681064,
+        "word": "重庆出现刺鼻异味的原因找到了",
+        "onboard_time": 1660290753,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653623,
+        "num": 653623,
+        "word": "王俊凯北影节红毯造型",
+        "onboard_time": 1660299874,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628512,
+        "num": 628512,
+        "word": "老人担心5个月婴儿受凉捂到脱水",
+        "onboard_time": 1660298015,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573084,
+        "num": 573084,
+        "word": "宁波人社局给考公落榜者发挽留短信",
+        "onboard_time": 1660295252,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 522747,
+        "num": 522747,
+        "word": "华为上半年营收3016亿元",
+        "onboard_time": 1660294652,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 518685,
+        "num": 518685,
+        "word": "时代少年团北影节红毯生图",
+        "onboard_time": 1660297356,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495611,
+        "num": 495611,
+        "word": "严浩翔北影节红毯造型",
+        "onboard_time": 1660298856,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430346,
+        "num": 430346,
+        "word": "唐周解梦",
+        "onboard_time": 1660297053,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424803,
+        "num": 424803,
+        "word": "Angelababy双丸子头造型",
+        "onboard_time": 1660292372,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1146510,
+        "num": 419826,
+        "word": "阿娇瘦到91斤",
+        "onboard_time": 1660289792,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672696,
+        "num": 419550,
+        "word": "纸嫁衣男主好像罗云熙",
+        "onboard_time": 1660293572,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 413257,
+        "num": 413257,
+        "word": "陈哲远在逃男团门面",
+        "onboard_time": 1660298375,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389537,
+        "num": 389537,
+        "word": "女子离婚后卖亲生儿子赚钱",
+        "onboard_time": 1660288112,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 379079,
+        "num": 379079,
+        "word": "符建涛妈妈否认向孙海洋索要赏金",
+        "onboard_time": 1660298434,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403438,
+        "num": 348073,
+        "word": "杨迪说模仿者最终都会回归到自己",
+        "onboard_time": 1660293391,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305286,
+        "num": 305286,
+        "word": "学数学有多重要",
+        "onboard_time": 1660290512,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297699,
+        "num": 297699,
+        "word": "四川旱情已波及14市69县",
+        "onboard_time": 1660296215,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293019,
+        "num": 293019,
+        "word": "纸嫁衣",
+        "onboard_time": 1660270649,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273658,
+        "num": 273658,
+        "word": "南京疫情防控",
+        "onboard_time": 1660293752,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410099,
+        "num": 271885,
+        "word": "张杰说一定要让热爱保持",
+        "onboard_time": 1660296576,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367211,
+        "num": 270113,
+        "word": "王一博的表情好像旺仔",
+        "onboard_time": 1660296692,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357244,
+        "num": 267989,
+        "word": "北影节红毯上的明星们",
+        "onboard_time": 1660298434,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325671,
+        "num": 265764,
+        "word": "蔡卓妍自己剪的刘海",
+        "onboard_time": 1660294954,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264918,
+        "num": 264918,
+        "word": "香港上水掷砖击毙清洁工案宣判",
+        "onboard_time": 1660296935,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 256328,
+        "num": 256328,
+        "word": "手机恢复出厂设置能否保障信息安全",
+        "onboard_time": 1660293153,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 249973,
+        "num": 249973,
+        "word": "芬太尼",
+        "onboard_time": 1660299757,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249199,
+        "num": 249199,
+        "word": "导游在大巴上埋怨游客花钱少被怼",
+        "onboard_time": 1660291113,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 245229,
+        "num": 245229,
+        "word": "穷鬼上班的日子",
+        "onboard_time": 1660288833,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244570,
+        "num": 244570,
+        "word": "没必要担心遇见脏东西",
+        "onboard_time": 1660287272,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 310622,
+        "num": 243799,
+        "word": "赵丽颖沈璃侧颜",
+        "onboard_time": 1660292911,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242021,
+        "num": 242021,
+        "word": "阿兹夫定片可临时性纳入医保",
+        "onboard_time": 1660299276,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234820,
+        "num": 234820,
+        "word": "桂林山水真是大自然的鬼斧神工",
+        "onboard_time": 1660298796,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 224521,
+        "num": 224521,
+        "word": "你的快递是这么丢的",
+        "onboard_time": 1660287754,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221419,
+        "num": 221419,
+        "word": "证监会今日回应",
+        "onboard_time": 1660299637,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 215737,
+        "num": 215737,
+        "word": "学医对颜值的影响有多大",
+        "onboard_time": 1660285710,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205618,
+        "num": 205618,
+        "word": "一条街都去吃席了",
+        "onboard_time": 1660299452,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193116,
+        "num": 193116,
+        "word": "男童失踪有人声称给50万放人",
+        "onboard_time": 1660286251,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191083,
+        "num": 191083,
+        "word": "河南安徽村镇银行已累计垫付180.4亿",
+        "onboard_time": 1660299874,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181577,
+        "num": 181577,
+        "word": "火龙果花开如昙花一现",
+        "onboard_time": 1660297175,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人的事要由中国人来决定#"
+    }
+  }
+}
