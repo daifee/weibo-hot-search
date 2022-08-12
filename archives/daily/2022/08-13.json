@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660322159143,
+  "endTime": 1660323584677,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 408314,
+      "num": 354762,
+      "word": "黄晓明说今天是我愿意被左右的一天",
+      "onboard_time": 1660317332,
+      "rank": 15,
+      "category": "影视,综艺"
+    },
+    {
       "raw_hot": 393196,
       "num": 393196,
       "word": "四川人快热出幻觉了",
@@ -113,14 +121,6 @@
       "onboard_time": 1660321108,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354762,
-      "num": 354762,
-      "word": "黄晓明说今天是我愿意被左右的一天",
-      "onboard_time": 1660317332,
-      "rank": 15,
-      "category": "影视,综艺"
     },
     {
       "raw_hot": 353163,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 306609,
-      "num": 170457,
+      "num": 185897,
       "word": "中餐厅6好看吗",
       "onboard_time": 1660318591,
       "rank": 30,
@@ -177,6 +177,14 @@
       "onboard_time": 1660313738,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287221,
+      "num": 287221,
+      "word": "淫秽漫画APP充值金额高达上亿元",
+      "onboard_time": 1660296035,
+      "rank": 25,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 279922,
@@ -235,6 +243,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 228412,
+      "num": 228412,
+      "word": "乌鲁木齐新增73个中高风险区",
+      "onboard_time": 1660321767,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228241,
       "num": 228241,
       "word": "老人担心5个月婴儿受凉捂到脱水",
@@ -243,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226734,
-      "num": 226734,
-      "word": "淫秽漫画APP充值金额高达上亿元",
-      "onboard_time": 1660296035,
-      "rank": 25,
-      "category": "社会新闻,科技"
+      "raw_hot": 222757,
+      "num": 167878,
+      "word": "何同学 手工耿",
+      "onboard_time": 1660323143,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 212417,
@@ -299,6 +315,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 161054,
+      "num": 161054,
+      "word": "西安暑期夜游热度全国第一",
+      "onboard_time": 1660321707,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 148643,
       "num": 148643,
       "word": "明天10多个省区市超40℃",
@@ -339,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135284,
-      "num": 135284,
-      "word": "乌鲁木齐新增73个中高风险区",
-      "onboard_time": 1660321767,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "上海网友开始pk电费了",
@@ -371,20 +387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107021,
-      "num": 107021,
-      "word": "西安暑期夜游热度全国第一",
-      "onboard_time": 1660321707,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 104696,
       "num": 104696,
       "word": "流星雨心愿墙刷屏了",
       "onboard_time": 1660321348,
       "rank": 48,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 104031,
+      "num": 104031,
+      "word": "中元节最温暖的解释",
+      "onboard_time": 1660322783,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 99703,
@@ -401,6 +417,14 @@
       "onboard_time": 1660310857,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64622,
+      "num": 64622,
+      "word": "重庆的猪都中暑了",
+      "onboard_time": 1660323501,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
