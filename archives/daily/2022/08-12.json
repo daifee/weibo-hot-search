@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660286779011,
+  "endTime": 1660288794851,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -17,6 +17,14 @@
       "onboard_time": 1660278638,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3015554,
+      "num": 3015554,
+      "word": "第一批冷冻人现在怎么样了",
+      "onboard_time": 1660285291,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2919982,
@@ -41,6 +49,14 @@
       "onboard_time": 1660220196,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2160848,
+      "num": 1545875,
+      "word": "王源易烊千玺包场支持王俊凯电影断桥",
+      "onboard_time": 1660285832,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 2114878,
@@ -91,14 +107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1444047,
-      "num": 1444047,
-      "word": "王源易烊千玺包场支持王俊凯电影断桥",
-      "onboard_time": 1660285832,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1359587,
       "num": 1359587,
       "word": "厦门台湾街",
@@ -131,8 +139,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 1181158,
-      "num": 1181158,
+      "raw_hot": 1185953,
+      "num": 1185953,
       "word": "赵丽颖为李浩菲新剧打call",
       "onboard_time": 1660286191,
       "rank": 6,
@@ -217,14 +225,6 @@
       "onboard_time": 1660229616,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1002350,
-      "num": 1002350,
-      "word": "第一批冷冻人现在怎么样了",
-      "onboard_time": 1660285291,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 991687,
@@ -313,6 +313,14 @@
       "onboard_time": 1660222656,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 742252,
+      "num": 554408,
+      "word": "王一博不热吗",
+      "onboard_time": 1660287094,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 740967,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490009,
+      "num": 490009,
+      "word": "外国人为什么喜欢吃生饺子",
+      "onboard_time": 1660286310,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 488269,
       "num": 488269,
       "word": "虞书欣拍的王鹤棣",
@@ -508,11 +524,19 @@
     },
     {
       "raw_hot": 479752,
-      "num": 342039,
+      "num": 379587,
       "word": "披荆斩棘的哥哥开播一周年",
       "onboard_time": 1660285355,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479593,
+      "num": 479593,
+      "word": "学医对颜值的影响有多大",
+      "onboard_time": 1660285710,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 474939,
@@ -563,12 +587,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 443050,
+      "num": 383152,
+      "word": "玫瑰之战 没版权",
+      "onboard_time": 1660287213,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439776,
       "num": 439776,
       "word": "欢乐颂3五美出场就一起进警察局",
       "onboard_time": 1660218936,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438031,
+      "num": 438031,
+      "word": "不要仗着年轻一直熬夜",
+      "onboard_time": 1660286971,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 437842,
@@ -619,6 +659,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 400573,
+      "num": 400573,
+      "word": "你的快递是这么丢的",
+      "onboard_time": 1660287754,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398085,
       "num": 398085,
       "word": "校方回应新生录取通知书有错别字",
@@ -667,6 +715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377160,
+      "num": 251511,
+      "word": "苍兰诀",
+      "onboard_time": 1660207110,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376958,
       "num": 313062,
       "word": "冰雨火王一博陈晓追逐戏",
@@ -681,6 +737,14 @@
       "onboard_time": 1660283013,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369116,
+      "num": 141674,
+      "word": "时代少年团官宣加盟北影节",
+      "onboard_time": 1660288771,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 361418,
@@ -843,6 +907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 323044,
+      "num": 323044,
+      "word": "广西藤县走失3岁男童家长发声",
+      "onboard_time": 1660284633,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321661,
       "num": 321661,
       "word": "年轻人为什么不爱做家务",
@@ -857,6 +929,14 @@
       "onboard_time": 1660274492,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314489,
+      "num": 248058,
+      "word": "这就是街舞",
+      "onboard_time": 1660287632,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 310756,
@@ -915,7 +995,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298721,
+      "raw_hot": 299302,
       "num": 250102,
       "word": "龚俊独特撑伞方式",
       "onboard_time": 1660286552,
@@ -937,14 +1017,6 @@
       "onboard_time": 1660230997,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292306,
-      "num": 292306,
-      "word": "广西藤县走失3岁男童家长发声",
-      "onboard_time": 1660284633,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290449,
@@ -1107,12 +1179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249742,
-      "num": 249742,
-      "word": "外国人为什么喜欢吃生饺子",
-      "onboard_time": 1660286310,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 247579,
+      "num": 247579,
+      "word": "没必要担心遇见脏东西",
+      "onboard_time": 1660287272,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 245354,
@@ -1121,6 +1193,14 @@
       "onboard_time": 1660281693,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243898,
+      "num": 243898,
+      "word": "男童失踪有人声称给50万放人",
+      "onboard_time": 1660286251,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 241873,
@@ -1155,12 +1235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233939,
-      "num": 233939,
-      "word": "学医对颜值的影响有多大",
-      "onboard_time": 1660285710,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 232507,
+      "num": 232507,
+      "word": "女子离婚后卖亲生儿子赚钱",
+      "onboard_time": 1660288112,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 230088,
@@ -1259,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206361,
+      "num": 206361,
+      "word": "他们在燕郊送外卖救孩子的命",
+      "onboard_time": 1660286130,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 204596,
       "num": 204596,
       "word": "德云社节目单",
@@ -1275,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194931,
-      "num": 164767,
-      "word": "苍兰诀",
-      "onboard_time": 1660207110,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190646,
       "num": 190646,
       "word": "三年超四千名乡村足球女孩获帮助",
@@ -1297,14 +1377,6 @@
       "onboard_time": 1660271011,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187875,
-      "num": 187875,
-      "word": "他们在燕郊送外卖救孩子的命",
-      "onboard_time": 1660286130,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 187645,
@@ -1395,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161109,
-      "num": 161109,
-      "word": "男童失踪有人声称给50万放人",
-      "onboard_time": 1660286251,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 160201,
       "num": 160201,
       "word": "平顶山十年蝶变路",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1660235842,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156151,
+      "num": 156151,
+      "word": "中元节有哪些必读的清凉小说",
+      "onboard_time": 1660288355,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 153343,
@@ -1505,6 +1577,14 @@
       "onboard_time": 1660212337,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131928,
+      "num": 131928,
+      "word": "王朔出新书了",
+      "onboard_time": 1660287808,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 128898,
