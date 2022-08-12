@@ -1,10 +1,10 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660277116891,
+  "endTime": 1660278984172,
   "band_list": [
     {
-      "raw_hot": 10622391,
-      "num": 10622391,
+      "raw_hot": 10989693,
+      "num": 10989693,
       "word": "杨迪刘维道歉",
       "onboard_time": 1660275391,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1054018,
+      "num": 1054018,
+      "word": "三星李在镕获韩国总统特赦",
+      "onboard_time": 1660274792,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1030907,
       "num": 1030907,
       "word": "超六成受访大学生希望30岁前结婚",
@@ -139,12 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1013196,
-      "num": 597980,
-      "word": "三星李在镕获韩国总统特赦",
-      "onboard_time": 1660274792,
-      "rank": 10,
-      "category": "国外要闻"
+      "raw_hot": 1007648,
+      "num": 1007648,
+      "word": "王嘉尔登Billboard中国首封",
+      "onboard_time": 1660273589,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1006835,
@@ -161,14 +169,6 @@
       "onboard_time": 1660229616,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 995721,
-      "num": 995721,
-      "word": "王嘉尔登Billboard中国首封",
-      "onboard_time": 1660273589,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 980867,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 823112,
-      "num": 585736,
+      "num": 661801,
       "word": "张新成孙千这么多年芭莎大片",
       "onboard_time": 1660273170,
       "rank": 11,
@@ -265,6 +265,14 @@
       "onboard_time": 1660273050,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604624,
+      "num": 604624,
+      "word": "今天星期五",
+      "onboard_time": 1660276839,
+      "rank": 43,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 598127,
@@ -331,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536873,
+      "num": 536873,
+      "word": "纸嫁衣中元节",
+      "onboard_time": 1660277138,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 520549,
       "num": 520549,
       "word": "阿兹夫定片每瓶定价270元",
       "onboard_time": 1660228776,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514821,
+      "num": 514821,
+      "word": "吴磊赵露思月升沧海杀青吻",
+      "onboard_time": 1660278036,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 483563,
@@ -379,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450053,
+      "num": 450053,
+      "word": "虞书欣拍的王鹤棣",
+      "onboard_time": 1660275694,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443730,
       "num": 443730,
       "word": "4人海边旅行救了3条人命",
@@ -395,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435260,
+      "num": 414530,
+      "word": "你能接受主动撩的尺度有多大",
+      "onboard_time": 1660277496,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416055,
       "num": 378536,
       "word": "何广智cos周杰伦",
       "onboard_time": 1660233749,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409089,
+      "num": 409089,
+      "word": "院士称人造太阳将打开未来能源大门",
+      "onboard_time": 1660275814,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 398085,
@@ -435,6 +483,22 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 385353,
+      "num": 385353,
+      "word": "男子酒后执意骑车摔瘫后起诉好友",
+      "onboard_time": 1660277676,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380597,
+      "num": 293608,
+      "word": "邓紫棋新歌HELL",
+      "onboard_time": 1660278457,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356506,
       "num": 356506,
       "word": "为什么年轻人越来越惜命",
@@ -443,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348463,
-      "num": 348463,
-      "word": "院士称人造太阳将打开未来能源大门",
-      "onboard_time": 1660275814,
+      "raw_hot": 352884,
+      "num": 352884,
+      "word": "杜兰特提前收到篮网巨额工资",
+      "onboard_time": 1660276355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350950,
+      "num": 294605,
+      "word": "刘宇宁被打劫式欢迎",
+      "onboard_time": 1660277015,
       "rank": 31,
-      "category": "科技,社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 346999,
@@ -555,14 +627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 318829,
-      "num": 318829,
-      "word": "虞书欣拍的王鹤棣",
-      "onboard_time": 1660275694,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314734,
       "num": 314734,
       "word": "万刃阁少女开播",
@@ -595,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305415,
+      "num": 305415,
+      "word": "你觉得00后整顿职场靠谱吗",
+      "onboard_time": 1660278095,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 303901,
       "num": 303901,
       "word": "海南增本土无症状614例",
@@ -603,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296934,
-      "num": 271905,
-      "word": "刘宇宁被打劫式欢迎",
-      "onboard_time": 1660277015,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 296534,
+      "num": 296534,
+      "word": "佩洛西窜台偷偷带儿子",
+      "onboard_time": 1660278638,
+      "rank": 28,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 296013,
@@ -627,10 +699,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295449,
+      "num": 295449,
+      "word": "55岁大叔每天免费为40位老人做爱心餐",
+      "onboard_time": 1660277015,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 290449,
       "num": 290449,
       "word": "欢乐颂3信息量好大",
       "onboard_time": 1660243693,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282560,
+      "num": 282560,
+      "word": "月升沧海的非遗打开方式",
+      "onboard_time": 1660278758,
       "rank": 33,
       "category": "影视"
     },
@@ -659,12 +747,44 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 279180,
+      "num": 279180,
+      "word": "文韬加盟非正式会谈",
+      "onboard_time": 1660278218,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279156,
+      "num": 279156,
+      "word": "官方回应村书记涉殴打拒陪酒村民",
+      "onboard_time": 1660277676,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 279103,
       "num": 279103,
       "word": "青岛大暴雨来袭",
       "onboard_time": 1660269510,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277236,
+      "num": 265601,
+      "word": "白宇帆蒋龙佟梦实王奕婷庄达菲初露锋芒",
+      "onboard_time": 1660277076,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274882,
+      "num": 274882,
+      "word": "不接受猫爸爱的下场",
+      "onboard_time": 1660276415,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 271150,
@@ -755,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229381,
+      "num": 229381,
+      "word": "90后小伙干10年钢筋工被误认是60后",
+      "onboard_time": 1660278519,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229218,
       "num": 229218,
       "word": "深圳疫情防控",
@@ -835,36 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200360,
-      "num": 200360,
-      "word": "杜兰特提前收到篮网巨额工资",
-      "onboard_time": 1660276355,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199485,
-      "num": 199485,
-      "word": "不接受猫爸爱的下场",
-      "onboard_time": 1660276415,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 197731,
       "num": 197731,
       "word": "8月11日新增本土无症状1203例",
       "onboard_time": 1660268609,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197051,
-      "num": 177791,
-      "word": "白宇帆蒋龙佟梦实王奕婷庄达菲初露锋芒",
-      "onboard_time": 1660277076,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 194931,
@@ -875,12 +979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192634,
-      "num": 192634,
-      "word": "今天星期五",
-      "onboard_time": 1660276839,
-      "rank": 43,
-      "category": "情感,社会新闻"
+      "raw_hot": 190646,
+      "num": 190646,
+      "word": "三年超四千名乡村足球女孩获帮助",
+      "onboard_time": 1660277496,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 189607,
@@ -921,14 +1025,6 @@
       "onboard_time": 1660217560,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177632,
-      "num": 177632,
-      "word": "55岁大叔每天免费为40位老人做爱心餐",
-      "onboard_time": 1660277015,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 174434,
@@ -1147,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54175,
+      "num": 265965,
+      "word": "直升机航拍震撼时刻",
+      "onboard_time": 1660276839,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42273,
       "num": 33267,
       "word": "严浩翔看到虫子的反应好呆",
@@ -1156,19 +1260,11 @@
     },
     {
       "raw_hot": 21653,
-      "num": 492282,
+      "num": 515157,
       "word": "剪一帧日照金山接好运",
       "onboard_time": 1660276839,
       "rank": 14,
       "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 13996,
-      "num": 197012,
-      "word": "直升机航拍震撼时刻",
-      "onboard_time": 1660276839,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4621,
@@ -1185,6 +1281,9 @@
     },
     {
       "word": "#中国人的事要由中国人来决定#"
+    },
+    {
+      "word": "#跟着总书记学历史#"
     }
   ]
 }
