@@ -1,0 +1,410 @@
+{
+  "runTime": 1660286779011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2625530,
+        "num": 2625530,
+        "word": "佩洛西窜台偷偷带儿子",
+        "onboard_time": 1660278638,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2059012,
+        "num": 2059012,
+        "word": "杨迪刘维道歉",
+        "onboard_time": 1660275391,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128132,
+        "num": 1586630,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1660280078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1529106,
+        "num": 1529106,
+        "word": "纸嫁衣",
+        "onboard_time": 1660270649,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1444047,
+        "num": 1444047,
+        "word": "王源易烊千玺包场支持王俊凯电影断桥",
+        "onboard_time": 1660285832,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1359587,
+        "num": 1359587,
+        "word": "厦门台湾街",
+        "onboard_time": 1660284511,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181158,
+        "num": 1181158,
+        "word": "赵丽颖为李浩菲新剧打call",
+        "onboard_time": 1660286191,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1044319,
+        "num": 1044319,
+        "word": "浙HY1110一车都是热心肠",
+        "onboard_time": 1660281332,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1002350,
+        "num": 1002350,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711302,
+        "num": 711302,
+        "word": "90后小伙干10年钢筋工被误认是60后",
+        "onboard_time": 1660278519,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836361,
+        "num": 704576,
+        "word": "江疏影说娜扎太好骗了",
+        "onboard_time": 1660282531,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 812381,
+        "num": 695872,
+        "word": "鹿晗见到元宝了",
+        "onboard_time": 1660279596,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771780,
+        "num": 693981,
+        "word": "王一博家有儿女主题曲即兴舞蹈",
+        "onboard_time": 1660282352,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685541,
+        "num": 685541,
+        "word": "1万元银行理财15个月仅赚9元",
+        "onboard_time": 1660281752,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 485663,
+        "num": 485663,
+        "word": "广西塘村走失的3岁小男孩找到了",
+        "onboard_time": 1660280616,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472834,
+        "num": 472834,
+        "word": "重庆市民称多地闻到刺鼻臭味",
+        "onboard_time": 1660279777,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439452,
+        "num": 439452,
+        "word": "起底蔡氏骗局",
+        "onboard_time": 1660282112,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 381120,
+        "num": 381120,
+        "word": "广西藤县一两岁男童家门口失踪",
+        "onboard_time": 1660282593,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361167,
+        "num": 361167,
+        "word": "三星李在镕获韩国总统特赦",
+        "onboard_time": 1660274792,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 297196,
+        "num": 297196,
+        "word": "公司招人称不要工资用爱发电",
+        "onboard_time": 1660272931,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517656,
+        "num": 296635,
+        "word": "欢乐颂3 尴尬",
+        "onboard_time": 1660269208,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479752,
+        "num": 296104,
+        "word": "披荆斩棘的哥哥开播一周年",
+        "onboard_time": 1660285355,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437842,
+        "num": 296038,
+        "word": "你怎么看ESO组合",
+        "onboard_time": 1660285110,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 294917,
+        "num": 294917,
+        "word": "我是减肥不是绝食",
+        "onboard_time": 1660280314,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292306,
+        "num": 292306,
+        "word": "广西藤县走失3岁男童家长发声",
+        "onboard_time": 1660284633,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276453,
+        "num": 276453,
+        "word": "男子酒后执意骑车摔瘫后起诉好友",
+        "onboard_time": 1660277676,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272792,
+        "num": 272792,
+        "word": "纸嫁衣中元节",
+        "onboard_time": 1660277138,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271964,
+        "num": 271964,
+        "word": "看展姿势能有多奇葩",
+        "onboard_time": 1660285773,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268620,
+        "num": 268620,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 28,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 250454,
+        "num": 250454,
+        "word": "教科书式老赖黄淑芬仍未履约",
+        "onboard_time": 1660281813,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396964,
+        "num": 250443,
+        "word": "吴磊赵露思月升沧海杀青吻",
+        "onboard_time": 1660278036,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363514,
+        "num": 250244,
+        "word": "中餐厅6合伙人全员晒午餐",
+        "onboard_time": 1660281094,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298721,
+        "num": 250102,
+        "word": "龚俊独特撑伞方式",
+        "onboard_time": 1660286552,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284188,
+        "num": 249965,
+        "word": "成毅说演仙侠剧需要信念感",
+        "onboard_time": 1660282289,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279247,
+        "num": 249862,
+        "word": "张慧雯召唤陈都灵追欢乐颂3",
+        "onboard_time": 1660286068,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249742,
+        "num": 249742,
+        "word": "外国人为什么喜欢吃生饺子",
+        "onboard_time": 1660286310,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233939,
+        "num": 233939,
+        "word": "学医对颜值的影响有多大",
+        "onboard_time": 1660285710,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200588,
+        "num": 200588,
+        "word": "颈椎曲度变直是怎么回事",
+        "onboard_time": 1660283971,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 194231,
+        "num": 194231,
+        "word": "杜兰特提前收到篮网巨额工资",
+        "onboard_time": 1660276355,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189542,
+        "num": 189542,
+        "word": "超六成受访大学生希望30岁前结婚",
+        "onboard_time": 1660269510,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278717,
+        "num": 189401,
+        "word": "北电保安逆袭成为最佳导演",
+        "onboard_time": 1660283013,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264974,
+        "num": 188662,
+        "word": "2022央视中秋晚会落户苏州张家港",
+        "onboard_time": 1660285355,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187875,
+        "num": 187875,
+        "word": "他们在燕郊送外卖救孩子的命",
+        "onboard_time": 1660286130,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 185132,
+        "num": 185132,
+        "word": "美国承认向乌提供清单外武器",
+        "onboard_time": 1660271669,
+        "rank": 43,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 181218,
+        "num": 181218,
+        "word": "詹姆斯被允许继续穿6号球衣",
+        "onboard_time": 1660275152,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179476,
+        "num": 179476,
+        "word": "海口首批660名滞留游客离岛返程",
+        "onboard_time": 1660280197,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161109,
+        "num": 161109,
+        "word": "男童失踪有人声称给50万放人",
+        "onboard_time": 1660286251,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157902,
+        "num": 157902,
+        "word": "你觉得00后整顿职场靠谱吗",
+        "onboard_time": 1660278095,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 150779,
+        "num": 150779,
+        "word": "广东增本土确诊22例",
+        "onboard_time": 1660283315,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "大象的粑粑原来这么轻",
+        "onboard_time": 1660268969,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}

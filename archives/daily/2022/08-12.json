@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660285689880,
+  "endTime": 1660286779011,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -91,6 +91,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1444047,
+      "num": 1444047,
+      "word": "王源易烊千玺包场支持王俊凯电影断桥",
+      "onboard_time": 1660285832,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1359587,
+      "num": 1359587,
+      "word": "厦门台湾街",
+      "onboard_time": 1660284511,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1309132,
       "num": 1309132,
       "word": "蔡徐坤加盟浙江卫视超级818",
@@ -113,6 +129,14 @@
       "onboard_time": 1660248972,
       "rank": 47,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 1181158,
+      "num": 1181158,
+      "word": "赵丽颖为李浩菲新剧打call",
+      "onboard_time": 1660286191,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1160108,
@@ -155,6 +179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1044319,
+      "num": 1044319,
+      "word": "浙HY1110一车都是热心肠",
+      "onboard_time": 1660281332,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1030907,
       "num": 1030907,
       "word": "超六成受访大学生希望30岁前结婚",
@@ -187,20 +219,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1002350,
+      "num": 1002350,
+      "word": "第一批冷冻人现在怎么样了",
+      "onboard_time": 1660285291,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 991687,
       "num": 991687,
       "word": "江疏影说娜扎太好骗了",
       "onboard_time": 1660282531,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 984357,
-      "num": 984357,
-      "word": "浙HY1110一车都是热心肠",
-      "onboard_time": 1660281332,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 980867,
@@ -267,8 +299,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 765457,
-      "num": 690168,
+      "raw_hot": 771780,
+      "num": 693981,
       "word": "王一博家有儿女主题曲即兴舞蹈",
       "onboard_time": 1660282352,
       "rank": 20,
@@ -281,14 +313,6 @@
       "onboard_time": 1660222656,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 742351,
-      "num": 742351,
-      "word": "厦门台湾街",
-      "onboard_time": 1660284511,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 740967,
@@ -483,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 479752,
+      "num": 342039,
+      "word": "披荆斩棘的哥哥开播一周年",
+      "onboard_time": 1660285355,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474939,
       "num": 474939,
       "word": "上海感染者轨迹所涉足浴店被刑事立案",
@@ -539,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437842,
+      "num": 296038,
+      "word": "你怎么看ESO组合",
+      "onboard_time": 1660285110,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 435260,
       "num": 414530,
       "word": "你能接受主动撩的尺度有多大",
@@ -561,14 +601,6 @@
       "onboard_time": 1660279297,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 416819,
-      "num": 342039,
-      "word": "披荆斩棘的哥哥开播一周年",
-      "onboard_time": 1660285355,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 416055,
@@ -617,6 +649,14 @@
       "onboard_time": 1660260806,
       "rank": 45,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 381120,
+      "num": 381120,
+      "word": "广西藤县一两岁男童家门口失踪",
+      "onboard_time": 1660282593,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380597,
@@ -707,16 +747,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343932,
-      "num": 343932,
-      "word": "广西藤县一两岁男童家门口失踪",
-      "onboard_time": 1660282593,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340748,
-      "num": 225845,
+      "num": 249965,
       "word": "成毅说演仙侠剧需要信念感",
       "onboard_time": 1660282289,
       "rank": 30,
@@ -819,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 321340,
-      "num": 224914,
-      "word": "你怎么看ESO组合",
-      "onboard_time": 1660285110,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 314734,
       "num": 314734,
       "word": "万刃阁少女开播",
@@ -891,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298721,
+      "num": 250102,
+      "word": "龚俊独特撑伞方式",
+      "onboard_time": 1660286552,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296013,
       "num": 296013,
       "word": "中元节到底是什么节日",
@@ -905,6 +937,14 @@
       "onboard_time": 1660230997,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292306,
+      "num": 292306,
+      "word": "广西藤县走失3岁男童家长发声",
+      "onboard_time": 1660284633,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290449,
@@ -945,6 +985,14 @@
       "onboard_time": 1660264891,
       "rank": 32,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 279247,
+      "num": 249862,
+      "word": "张慧雯召唤陈都灵追欢乐颂3",
+      "onboard_time": 1660286068,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 279180,
@@ -993,6 +1041,14 @@
       "onboard_time": 1660276415,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 271964,
+      "num": 271964,
+      "word": "看展姿势能有多奇葩",
+      "onboard_time": 1660285773,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 271150,
@@ -1051,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249742,
+      "num": 249742,
+      "word": "外国人为什么喜欢吃生饺子",
+      "onboard_time": 1660286310,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245354,
       "num": 161181,
       "word": "闪亮的日子",
@@ -1091,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233939,
+      "num": 233939,
+      "word": "学医对颜值的影响有多大",
+      "onboard_time": 1660285710,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230088,
       "num": 230088,
       "word": "原来大象害怕小蜜蜂",
@@ -1104,14 +1176,6 @@
       "word": "深圳疫情防控",
       "onboard_time": 1660267232,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223923,
-      "num": 223923,
-      "word": "广西藤县走失3岁男童家长发声",
-      "onboard_time": 1660284633,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187875,
+      "num": 187875,
+      "word": "他们在燕郊送外卖救孩子的命",
+      "onboard_time": 1660286130,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 187645,
       "num": 187645,
       "word": "8月11日新增确诊704例",
@@ -1272,14 +1344,6 @@
       "word": "德国火葬场为节能实行5人混烧",
       "onboard_time": 1660217560,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179666,
-      "num": 179666,
-      "word": "第一批冷冻人现在怎么样了",
-      "onboard_time": 1660285291,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1329,6 +1393,14 @@
       "onboard_time": 1660271068,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161109,
+      "num": 161109,
+      "word": "男童失踪有人声称给50万放人",
+      "onboard_time": 1660286251,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 160201,
@@ -1443,20 +1515,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 128132,
+      "num": 2818409,
+      "word": "致敬青春最美的样子",
+      "onboard_time": 1660280078,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126349,
       "num": 126349,
       "word": "月亮",
       "onboard_time": 1660218457,
       "rank": 42,
       "category": "自然"
-    },
-    {
-      "raw_hot": 121471,
-      "num": 2818409,
-      "word": "致敬青春最美的样子",
-      "onboard_time": 1660280078,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119820,
