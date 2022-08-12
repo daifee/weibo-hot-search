@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660336664954,
+  "endTime": 1660339148758,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97698,
+      "num": 36318,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 90643,
       "num": 48788,
       "word": "魏大勋爸爸见了唐九洲忘记亲儿子",
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62820,
-      "num": 36318,
-      "word": "中国男子暴雨中勇救韩国老夫妇",
-      "onboard_time": 1660334052,
-      "rank": 24,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 37271,
       "num": 37271,
       "word": "离琼申请",
@@ -483,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22572,
-      "num": 22572,
-      "word": "沉香如屑又断更了",
-      "onboard_time": 1660333032,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 13450,
-      "num": 13450,
+      "raw_hot": 25967,
+      "num": 25967,
       "word": "今年首发最高级别高温红色预警",
       "onboard_time": 1660302762,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25333,
+      "num": 25333,
+      "word": "沉香如屑又断更了",
+      "onboard_time": 1660333032,
+      "rank": 37,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
