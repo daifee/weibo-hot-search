@@ -1,0 +1,410 @@
+{
+  "runTime": 1660285689880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727109,
+        "num": 2727109,
+        "word": "杨迪刘维道歉",
+        "onboard_time": 1660275391,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2639009,
+        "num": 2639009,
+        "word": "佩洛西窜台偷偷带儿子",
+        "onboard_time": 1660278638,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121471,
+        "num": 1733364,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1660280078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591894,
+        "num": 1591894,
+        "word": "纸嫁衣",
+        "onboard_time": 1660270649,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1051659,
+        "num": 1051659,
+        "word": "鹿晗见到元宝了",
+        "onboard_time": 1660279596,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 991687,
+        "num": 991687,
+        "word": "江疏影说娜扎太好骗了",
+        "onboard_time": 1660282531,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 984357,
+        "num": 984357,
+        "word": "浙HY1110一车都是热心肠",
+        "onboard_time": 1660281332,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 765838,
+        "num": 765838,
+        "word": "90后小伙干10年钢筋工被误认是60后",
+        "onboard_time": 1660278519,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742351,
+        "num": 742351,
+        "word": "厦门台湾街",
+        "onboard_time": 1660284511,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731447,
+        "num": 731447,
+        "word": "1万元银行理财15个月仅赚9元",
+        "onboard_time": 1660281752,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 765457,
+        "num": 690168,
+        "word": "王一博家有儿女主题曲即兴舞蹈",
+        "onboard_time": 1660282352,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645686,
+        "num": 645686,
+        "word": "欢乐颂3 尴尬",
+        "onboard_time": 1660269208,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584826,
+        "num": 584826,
+        "word": "广西塘村走失的3岁小男孩找到了",
+        "onboard_time": 1660280616,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555235,
+        "num": 555235,
+        "word": "重庆市民称多地闻到刺鼻臭味",
+        "onboard_time": 1660279777,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532285,
+        "num": 532285,
+        "word": "中餐厅6合伙人全员晒午餐",
+        "onboard_time": 1660281094,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469411,
+        "num": 469411,
+        "word": "三星李在镕获韩国总统特赦",
+        "onboard_time": 1660274792,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 458873,
+        "num": 458873,
+        "word": "起底蔡氏骗局",
+        "onboard_time": 1660282112,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 393253,
+        "num": 393253,
+        "word": "公司招人称不要工资用爱发电",
+        "onboard_time": 1660272931,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386068,
+        "num": 386068,
+        "word": "我是减肥不是绝食",
+        "onboard_time": 1660280314,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343932,
+        "num": 343932,
+        "word": "广西藤县一两岁男童家门口失踪",
+        "onboard_time": 1660282593,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498111,
+        "num": 342874,
+        "word": "吴磊赵露思月升沧海杀青吻",
+        "onboard_time": 1660278036,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416819,
+        "num": 342039,
+        "word": "披荆斩棘的哥哥开播一周年",
+        "onboard_time": 1660285355,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376548,
+        "num": 341663,
+        "word": "北电保安逆袭成为最佳导演",
+        "onboard_time": 1660283013,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341113,
+        "num": 341113,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 300313,
+        "num": 300313,
+        "word": "纸嫁衣中元节",
+        "onboard_time": 1660277138,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279867,
+        "num": 279867,
+        "word": "男子酒后执意骑车摔瘫后起诉好友",
+        "onboard_time": 1660277676,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278721,
+        "num": 278721,
+        "word": "2022央视中秋晚会落户苏州张家港",
+        "onboard_time": 1660285355,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278196,
+        "num": 278196,
+        "word": "教科书式老赖黄淑芬仍未履约",
+        "onboard_time": 1660281813,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233711,
+        "num": 233711,
+        "word": "超六成受访大学生希望30岁前结婚",
+        "onboard_time": 1660269510,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226115,
+        "num": 226115,
+        "word": "海口首批660名滞留游客离岛返程",
+        "onboard_time": 1660280197,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340748,
+        "num": 225845,
+        "word": "成毅说演仙侠剧需要信念感",
+        "onboard_time": 1660282289,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321340,
+        "num": 224914,
+        "word": "你怎么看ESO组合",
+        "onboard_time": 1660285110,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292054,
+        "num": 224606,
+        "word": "王嘉尔登Billboard中国首封",
+        "onboard_time": 1660273589,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223923,
+        "num": 223923,
+        "word": "广西藤县走失3岁男童家长发声",
+        "onboard_time": 1660284633,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219317,
+        "num": 219317,
+        "word": "时代少年团方辟谣网传演唱会歌曲",
+        "onboard_time": 1660282832,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218752,
+        "num": 218752,
+        "word": "颈椎曲度变直是怎么回事",
+        "onboard_time": 1660283971,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 218262,
+        "num": 218262,
+        "word": "美国承认向乌提供清单外武器",
+        "onboard_time": 1660271669,
+        "rank": 36,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 207189,
+        "num": 207189,
+        "word": "杜兰特提前收到篮网巨额工资",
+        "onboard_time": 1660276355,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196037,
+        "num": 196037,
+        "word": "你觉得00后整顿职场靠谱吗",
+        "onboard_time": 1660278095,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195437,
+        "num": 195437,
+        "word": "詹姆斯被允许继续穿6号球衣",
+        "onboard_time": 1660275152,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216520,
+        "num": 193346,
+        "word": "与凤行",
+        "onboard_time": 1660279297,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203504,
+        "num": 191256,
+        "word": "虞书欣拍的王鹤棣",
+        "onboard_time": 1660275694,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185985,
+        "num": 185985,
+        "word": "大象的粑粑原来这么轻",
+        "onboard_time": 1660268969,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185604,
+        "num": 185604,
+        "word": "街舞5线上发布会",
+        "onboard_time": 1660284273,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179666,
+        "num": 179666,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172923,
+        "num": 172923,
+        "word": "鬼节",
+        "onboard_time": 1660220196,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "广东增本土确诊22例",
+        "onboard_time": 1660283315,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144962,
+        "num": 144962,
+        "word": "走出大山的棒球少年有多酷",
+        "onboard_time": 1660285414,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141772,
+        "num": 141772,
+        "word": "不接受猫爸爱的下场",
+        "onboard_time": 1660276415,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114743,
+        "num": 114743,
+        "word": "强生全球停售含滑石粉的婴儿爽身粉",
+        "onboard_time": 1660273353,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}

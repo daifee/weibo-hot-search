@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660282628432,
+  "endTime": 1660285689880,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -187,6 +187,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 991687,
+      "num": 991687,
+      "word": "江疏影说娜扎太好骗了",
+      "onboard_time": 1660282531,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 984357,
+      "num": 984357,
+      "word": "浙HY1110一车都是热心肠",
+      "onboard_time": 1660281332,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 980867,
       "num": 980867,
       "word": "你会和不喜欢的人谈恋爱吗",
@@ -251,12 +267,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 765457,
+      "num": 690168,
+      "word": "王一博家有儿女主题曲即兴舞蹈",
+      "onboard_time": 1660282352,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756360,
       "num": 756360,
       "word": "虞书欣 台词",
       "onboard_time": 1660222656,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 742351,
+      "num": 742351,
+      "word": "厦门台湾街",
+      "onboard_time": 1660284511,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740967,
@@ -273,6 +305,14 @@
       "onboard_time": 1660270230,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 731447,
+      "num": 731447,
+      "word": "1万元银行理财15个月仅赚9元",
+      "onboard_time": 1660281752,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 695208,
@@ -331,6 +371,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 584826,
+      "num": 584826,
+      "word": "广西塘村走失的3岁小男孩找到了",
+      "onboard_time": 1660280616,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581491,
       "num": 581491,
       "word": "有没有一瞬间突然就释怀了",
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555235,
+      "num": 555235,
+      "word": "重庆市民称多地闻到刺鼻臭味",
+      "onboard_time": 1660279777,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554979,
       "num": 554979,
       "word": "詹姆斯被允许继续穿6号球衣",
@@ -379,28 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538991,
-      "num": 538991,
-      "word": "广西塘村走失的3岁小男孩找到了",
-      "onboard_time": 1660280616,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538202,
       "num": 538202,
       "word": "纸嫁衣中元节",
       "onboard_time": 1660277138,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 538114,
-      "num": 538114,
-      "word": "重庆市民称多地闻到刺鼻臭味",
-      "onboard_time": 1660279777,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537809,
@@ -451,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473614,
-      "num": 423312,
-      "word": "王一博家有儿女主题曲即兴舞蹈",
-      "onboard_time": 1660282352,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 471357,
       "num": 471357,
       "word": "你觉得00后整顿职场靠谱吗",
@@ -483,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 449556,
-      "num": 417082,
-      "word": "浙HY1110一车都是热心肠",
-      "onboard_time": 1660281332,
-      "rank": 45,
-      "category": "社会正能量"
+      "raw_hot": 458873,
+      "num": 458873,
+      "word": "起底蔡氏骗局",
+      "onboard_time": 1660282112,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 443730,
@@ -529,6 +561,14 @@
       "onboard_time": 1660279297,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416819,
+      "num": 342039,
+      "word": "披荆斩棘的哥哥开播一周年",
+      "onboard_time": 1660285355,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 416055,
@@ -595,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376548,
+      "num": 341663,
+      "word": "北电保安逆袭成为最佳导演",
+      "onboard_time": 1660283013,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361418,
       "num": 361418,
       "word": "55岁大叔每天免费为40位老人做爱心餐",
@@ -657,6 +705,22 @@
       "onboard_time": 1660272510,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343932,
+      "num": 343932,
+      "word": "广西藤县一两岁男童家门口失踪",
+      "onboard_time": 1660282593,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340748,
+      "num": 225845,
+      "word": "成毅说演仙侠剧需要信念感",
+      "onboard_time": 1660282289,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339976,
@@ -753,6 +817,14 @@
       "onboard_time": 1660249031,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321340,
+      "num": 224914,
+      "word": "你怎么看ESO组合",
+      "onboard_time": 1660285110,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 314734,
@@ -891,19 +963,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278721,
+      "num": 278721,
+      "word": "2022央视中秋晚会落户苏州张家港",
+      "onboard_time": 1660285355,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278196,
+      "num": 278196,
+      "word": "教科书式老赖黄淑芬仍未履约",
+      "onboard_time": 1660281813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277236,
       "num": 265601,
       "word": "白宇帆蒋龙佟梦实王奕婷庄达菲初露锋芒",
       "onboard_time": 1660277076,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 275310,
-      "num": 190797,
-      "word": "江疏影说娜扎太好骗了",
-      "onboard_time": 1660282531,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -971,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247150,
-      "num": 247150,
-      "word": "1万元银行理财15个月仅赚9元",
-      "onboard_time": 1660281752,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 245354,
       "num": 161181,
       "word": "闪亮的日子",
@@ -1035,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223923,
+      "num": 223923,
+      "word": "广西藤县走失3岁男童家长发声",
+      "onboard_time": 1660284633,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222288,
       "num": 222288,
       "word": "上海新增2例本土确诊5例本土无症状",
@@ -1049,6 +1129,22 @@
       "onboard_time": 1660265370,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 219317,
+      "num": 219317,
+      "word": "时代少年团方辟谣网传演唱会歌曲",
+      "onboard_time": 1660282832,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 218752,
+      "num": 218752,
+      "word": "颈椎曲度变直是怎么回事",
+      "onboard_time": 1660283971,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 216569,
@@ -1107,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202556,
-      "num": 202556,
-      "word": "起底蔡氏骗局",
-      "onboard_time": 1660282112,
-      "rank": 38,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 197731,
       "num": 197731,
       "word": "8月11日新增本土无症状1203例",
@@ -1129,14 +1217,6 @@
       "onboard_time": 1660207110,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190896,
-      "num": 190896,
-      "word": "教科书式老赖黄淑芬仍未履约",
-      "onboard_time": 1660281813,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190646,
@@ -1163,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185604,
+      "num": 185604,
+      "word": "街舞5线上发布会",
+      "onboard_time": 1660284273,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185434,
       "num": 163231,
       "word": "汤唯演技",
@@ -1184,6 +1272,14 @@
       "word": "德国火葬场为节能实行5人混烧",
       "onboard_time": 1660217560,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179666,
+      "num": 179666,
+      "word": "第一批冷冻人现在怎么样了",
+      "onboard_time": 1660285291,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157270,
+      "num": 157270,
+      "word": "广东增本土确诊22例",
+      "onboard_time": 1660283315,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157097,
       "num": 126935,
       "word": "昕羊 最佳拍档第二轮舞台",
@@ -1307,12 +1411,12 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 145991,
-      "num": 145991,
-      "word": "广西藤县一两岁男童家门口失踪",
-      "onboard_time": 1660282593,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 144962,
+      "num": 144962,
+      "word": "走出大山的棒球少年有多酷",
+      "onboard_time": 1660285414,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 141130,
@@ -1345,6 +1449,14 @@
       "onboard_time": 1660218457,
       "rank": 42,
       "category": "自然"
+    },
+    {
+      "raw_hot": 121471,
+      "num": 2818409,
+      "word": "致敬青春最美的样子",
+      "onboard_time": 1660280078,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119820,
@@ -1385,14 +1497,6 @@
       "onboard_time": 1660224456,
       "rank": 46,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 100622,
-      "num": 2818409,
-      "word": "致敬青春最美的样子",
-      "onboard_time": 1660280078,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74399,
