@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660271804255,
+  "endTime": 1660276474713,
   "band_list": [
     {
       "raw_hot": 9075668,
@@ -9,6 +9,14 @@
       "onboard_time": 1660017456,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 6734805,
+      "num": 6734805,
+      "word": "杨迪刘维道歉",
+      "onboard_time": 1660275391,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 4965331,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2709429,
+      "num": 2709429,
+      "word": "纸嫁衣",
+      "onboard_time": 1660119932,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2667909,
       "num": 2667909,
       "word": "冰雨火",
@@ -249,14 +265,6 @@
       "onboard_time": 1659916047,
       "rank": 0,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 2338845,
-      "num": 2338845,
-      "word": "纸嫁衣",
-      "onboard_time": 1660119932,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 2332257,
@@ -600,6 +608,14 @@
       "word": "女生公交遇70岁老人猥亵录视频报警",
       "onboard_time": 1660121796,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1683432,
+      "num": 1683432,
+      "word": "公司招人称不要工资用爱发电",
+      "onboard_time": 1660272931,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1059,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1249117,
+      "num": 1249117,
+      "word": "美国承认向乌提供清单外武器",
+      "onboard_time": 1660271669,
+      "rank": 47,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1246877,
       "num": 1246877,
       "word": "东部战区联合军事行动成功完成各项任务",
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030907,
+      "num": 1030907,
+      "word": "超六成受访大学生希望30岁前结婚",
+      "onboard_time": 1660269510,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025219,
       "num": 508709,
       "word": "迪丽热巴分享骑车跑步ootd",
@@ -1443,14 +1475,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1010712,
-      "num": 1010712,
-      "word": "超六成受访大学生希望30岁前结婚",
-      "onboard_time": 1660269510,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1006835,
       "num": 1006835,
       "word": "中国人均住房10年增加10.7平",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1659924935,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995721,
+      "num": 995721,
+      "word": "王嘉尔登Billboard中国首封",
+      "onboard_time": 1660273589,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 995582,
@@ -1787,6 +1819,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 835058,
+      "num": 597980,
+      "word": "三星李在镕获韩国总统特赦",
+      "onboard_time": 1660274792,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 833296,
       "num": 696183,
       "word": "中方军事演训公开透明专业",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1660254671,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823112,
+      "num": 585736,
+      "word": "张新成孙千这么多年芭莎大片",
+      "onboard_time": 1660273170,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 819844,
@@ -2539,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611483,
+      "num": 581304,
+      "word": "王漫妮留学回来成了叶蓁蓁",
+      "onboard_time": 1660273050,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611434,
       "num": 611434,
       "word": "福建男女平均身高出炉",
@@ -2593,6 +2649,14 @@
       "onboard_time": 1659878853,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 598127,
+      "num": 598127,
+      "word": "苹果预计今年iPhone总产量2.2亿台",
+      "onboard_time": 1660270890,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 596744,
@@ -2883,6 +2947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554979,
+      "num": 554979,
+      "word": "詹姆斯被允许继续穿6号球衣",
+      "onboard_time": 1660275152,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553366,
       "num": 553366,
       "word": "猫咪咬断风扇电线嘴巴被烧红",
@@ -2892,7 +2964,7 @@
     },
     {
       "raw_hot": 552934,
-      "num": 2050618,
+      "num": 2069229,
       "word": "亚洲象比大熊猫还要珍稀",
       "onboard_time": 1660262551,
       "rank": 2,
@@ -3105,6 +3177,14 @@
       "onboard_time": 1660123774,
       "rank": 25,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 526033,
+      "num": 526033,
+      "word": "强生全球停售含滑石粉的婴儿爽身粉",
+      "onboard_time": 1660273353,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522285,
@@ -3379,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483563,
+      "num": 483563,
+      "word": "英雄蒋正全遗体告别仪式举行",
+      "onboard_time": 1660270708,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482895,
       "num": 482895,
       "word": "名创优品分不清旗袍和艺妓服饰",
@@ -3457,6 +3545,14 @@
       "onboard_time": 1660109914,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474482,
+      "num": 474482,
+      "word": "上海感染者轨迹所涉足浴店被刑事立案",
+      "onboard_time": 1660271969,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474123,
@@ -4475,14 +4571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 383226,
-      "num": 383226,
-      "word": "英雄蒋正全遗体告别仪式举行",
-      "onboard_time": 1660270708,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383001,
       "num": 383001,
       "word": "王霜正式签约路易斯维尔竞技",
@@ -5083,11 +5171,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346999,
+      "num": 346999,
+      "word": "大强 bking",
+      "onboard_time": 1660271370,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345409,
       "num": 345409,
       "word": "月升沧海",
       "onboard_time": 1659914602,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344611,
+      "num": 344611,
+      "word": "陈宇啃手是和王一博学的吗",
+      "onboard_time": 1660272510,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -5217,6 +5321,14 @@
       "onboard_time": 1660265132,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 336461,
+      "num": 336461,
+      "word": "厦门新增确诊病例5例",
+      "onboard_time": 1660273111,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335784,
@@ -5595,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314734,
+      "num": 314734,
+      "word": "万刃阁少女开播",
+      "onboard_time": 1660274492,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314017,
       "num": 314017,
       "word": "新晋奶爸左右手托双胞胎睡觉气坏宝妈",
@@ -5753,14 +5873,6 @@
       "onboard_time": 1660007973,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304286,
-      "num": 304286,
-      "word": "苹果预计今年iPhone总产量2.2亿台",
-      "onboard_time": 1660270890,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 303901,
@@ -5953,6 +6065,14 @@
       "onboard_time": 1660015836,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290667,
+      "num": 290667,
+      "word": "院士称人造太阳将打开未来能源大门",
+      "onboard_time": 1660275814,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 290593,
@@ -6387,6 +6507,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 262849,
+      "num": 262849,
+      "word": "虞书欣拍的王鹤棣",
+      "onboard_time": 1660275694,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261669,
       "num": 261669,
       "word": "海南三亚疫情仍处于高位进展期",
@@ -6665,14 +6793,6 @@
       "onboard_time": 1659914361,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244735,
-      "num": 244735,
-      "word": "大强 bking",
-      "onboard_time": 1660271370,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 244442,
@@ -7171,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216569,
+      "num": 216569,
+      "word": "小林裕幸加入网易",
+      "onboard_time": 1660272390,
+      "rank": 35,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 216167,
       "num": 216167,
       "word": "程家被押入大牢",
@@ -7249,6 +7377,22 @@
       "onboard_time": 1660124192,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209942,
+      "num": 209942,
+      "word": "重庆新增本土确诊1例无症状感染者1例",
+      "onboard_time": 1660271731,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204596,
+      "num": 204596,
+      "word": "德云社节目单",
+      "onboard_time": 1660273889,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 204302,
@@ -7579,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182103,
+      "num": 182103,
+      "word": "世界杯吉祥物国内正式发售",
+      "onboard_time": 1660273653,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181553,
       "num": 151094,
       "word": "马佳蛇舞",
@@ -7659,6 +7811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174434,
+      "num": 174434,
+      "word": "米卡被街歌整崩溃了",
+      "onboard_time": 1660272331,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173407,
       "num": 173407,
       "word": "17岁中国小将成最年轻网球挑战赛冠军",
@@ -7689,14 +7849,6 @@
       "onboard_time": 1659962072,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 171992,
-      "num": 171992,
-      "word": "美国承认向乌提供清单外武器",
-      "onboard_time": 1660271669,
-      "rank": 47,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 171825,
@@ -7883,6 +8035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 159022,
+      "num": 159022,
+      "word": "拉耳兔也太可爱了",
+      "onboard_time": 1660272031,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157097,
       "num": 126935,
       "word": "昕羊 最佳拍档第二轮舞台",
@@ -8011,6 +8171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140279,
+      "num": 140279,
+      "word": "杜兰特提前收到篮网巨额工资",
+      "onboard_time": 1660276355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140207,
       "num": 140207,
       "word": "马龙保研北体大",
@@ -8089,6 +8257,14 @@
       "onboard_time": 1659993251,
       "rank": 49,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 132326,
+      "num": 132326,
+      "word": "不接受猫爸爱的下场",
+      "onboard_time": 1660276415,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 130334,
@@ -8601,6 +8777,14 @@
       "onboard_time": 1659904391,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4621,
+      "num": 556935,
+      "word": "小米MIX折叠屏评测",
+      "onboard_time": 1660273231,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 1167,
