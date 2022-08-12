@@ -1,0 +1,410 @@
+{
+  "runTime": 1660304009303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2540448,
+        "num": 2540448,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2199323,
+        "num": 2199323,
+        "word": "40℃已进不了全国高温排行榜",
+        "onboard_time": 1660298194,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42062,
+        "num": 1321452,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1660280078,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3308792,
+        "num": 1174387,
+        "word": "专家建议30岁未经济独立女性尽早回老家",
+        "onboard_time": 1660295974,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976827,
+        "num": 976827,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 865443,
+        "num": 865443,
+        "word": "支付宝出现这两个界面千万别转账",
+        "onboard_time": 1660302816,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821954,
+        "num": 821954,
+        "word": "老人担心5个月婴儿受凉捂到脱水",
+        "onboard_time": 1660298015,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773518,
+        "num": 773518,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 753730,
+        "num": 753730,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 629838,
+        "num": 629838,
+        "word": "给还没到27岁的人的建议",
+        "onboard_time": 1660300897,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 695642,
+        "num": 620424,
+        "word": "严浩翔贺峻霖重新定义还珠格格",
+        "onboard_time": 1660300778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587098,
+        "num": 587098,
+        "word": "第一批冷冻人现在怎么样了",
+        "onboard_time": 1660285291,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526437,
+        "num": 526437,
+        "word": "河南安徽村镇银行已累计垫付180.4亿",
+        "onboard_time": 1660299874,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 519263,
+        "num": 519263,
+        "word": "王一博的表情好像旺仔",
+        "onboard_time": 1660296692,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484189,
+        "num": 484189,
+        "word": "符建涛妈妈否认向孙海洋索要赏金",
+        "onboard_time": 1660298434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447873,
+        "num": 447873,
+        "word": "王俊凯北影节红毯造型",
+        "onboard_time": 1660299874,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437697,
+        "num": 437697,
+        "word": "重庆出现刺鼻异味的原因找到了",
+        "onboard_time": 1660290753,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437693,
+        "num": 437693,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 17,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 423672,
+        "num": 423672,
+        "word": "原来人类幼崽的靠山是狗狗",
+        "onboard_time": 1660302453,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383674,
+        "num": 383674,
+        "word": "把空调关了也还是想谈恋爱",
+        "onboard_time": 1660301617,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 895020,
+        "num": 383600,
+        "word": "阿娇瘦到91斤",
+        "onboard_time": 1660289792,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686873,
+        "num": 381130,
+        "word": "纸嫁衣男主好像罗云熙",
+        "onboard_time": 1660293572,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 374936,
+        "num": 374936,
+        "word": "彩虹",
+        "onboard_time": 1660302698,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365973,
+        "num": 365973,
+        "word": "GK对战KSG",
+        "onboard_time": 1660303773,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363451,
+        "num": 363451,
+        "word": "张真源北影节红毯生图",
+        "onboard_time": 1660303177,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357888,
+        "num": 357888,
+        "word": "范丞丞出演拨云见日",
+        "onboard_time": 1660303177,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329317,
+        "num": 329317,
+        "word": "今年首发最高级别高温红色预警",
+        "onboard_time": 1660302762,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319743,
+        "num": 319743,
+        "word": "被平价即食早餐戳中了心巴",
+        "onboard_time": 1660300778,
+        "rank": 27,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 298032,
+        "num": 298032,
+        "word": "宁波人社局给考公落榜者发挽留短信",
+        "onboard_time": 1660295252,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 297958,
+        "num": 297958,
+        "word": "芬太尼",
+        "onboard_time": 1660299757,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276006,
+        "num": 276006,
+        "word": "Angelababy双丸子头造型",
+        "onboard_time": 1660292372,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273362,
+        "num": 273362,
+        "word": "佩洛西窜台偷偷带儿子",
+        "onboard_time": 1660278638,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 267452,
+        "num": 267452,
+        "word": "女子离婚后卖亲生儿子赚钱",
+        "onboard_time": 1660288112,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 260913,
+        "num": 260913,
+        "word": "香港上水掷砖击毙清洁工案宣判",
+        "onboard_time": 1660296935,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 260674,
+        "num": 260674,
+        "word": "唐周解梦",
+        "onboard_time": 1660297053,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248683,
+        "num": 248683,
+        "word": "宋亚轩表达开心的方式",
+        "onboard_time": 1660300655,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233448,
+        "num": 233448,
+        "word": "一条街都去吃席了",
+        "onboard_time": 1660299452,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229010,
+        "num": 229010,
+        "word": "吴振峰被审讯全程高能",
+        "onboard_time": 1660302816,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227684,
+        "num": 227684,
+        "word": "时代少年团谈想演角色",
+        "onboard_time": 1660301197,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213389,
+        "num": 213389,
+        "word": "华为上半年营收3016亿元",
+        "onboard_time": 1660294652,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 213752,
+        "num": 212436,
+        "word": "期待断桥",
+        "onboard_time": 1660302996,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211061,
+        "num": 211061,
+        "word": "学数学有多重要",
+        "onboard_time": 1660290512,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197747,
+        "num": 197747,
+        "word": "厦门这些场所暂停堂食对外营业",
+        "onboard_time": 1660302698,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194058,
+        "num": 194058,
+        "word": "没必要担心遇见脏东西",
+        "onboard_time": 1660287272,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 184500,
+        "num": 184500,
+        "word": "河南安徽5家村镇银行涉嫌严重犯罪",
+        "onboard_time": 1660300837,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172887,
+        "num": 172887,
+        "word": "社融",
+        "onboard_time": 1660303177,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159220,
+        "num": 159220,
+        "word": "巴萨激活第四个经济杠杆",
+        "onboard_time": 1660303654,
+        "rank": 46,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 218057,
+        "num": 159198,
+        "word": "赵露思拽吴磊头发",
+        "onboard_time": 1660303961,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159167,
+        "num": 159167,
+        "word": "科研团队7年研发本土专利菌",
+        "onboard_time": 1660303057,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 157413,
+        "num": 157413,
+        "word": "小猫和它的小猪朋友",
+        "onboard_time": 1660302634,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
