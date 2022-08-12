@@ -1,0 +1,410 @@
+{
+  "runTime": 1660340193232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 181761,
+        "num": 181761,
+        "word": "流星雨",
+        "onboard_time": 1660312656,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 147206,
+        "num": 147206,
+        "word": "何同学新视频",
+        "onboard_time": 1660310560,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19774,
+        "num": 110915,
+        "word": "看见锦绣山河",
+        "onboard_time": 1660310857,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 106150,
+        "num": 106150,
+        "word": "杜华给内娱经纪公司的排名",
+        "onboard_time": 1660318771,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101200,
+        "num": 101200,
+        "word": "八月热播剧像满汉全席",
+        "onboard_time": 1660326437,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98824,
+        "num": 98824,
+        "word": "支付宝出现这两个界面千万别转账",
+        "onboard_time": 1660302816,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81296,
+        "num": 81296,
+        "word": "重庆的猪都中暑了",
+        "onboard_time": 1660323501,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76437,
+        "num": 76437,
+        "word": "这条高铁给美国敲响警钟",
+        "onboard_time": 1660318353,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 73889,
+        "num": 73889,
+        "word": "浙江鼓励子女3岁内家长居家办公",
+        "onboard_time": 1660312958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62970,
+        "num": 62970,
+        "word": "狗狗被蛇咬伤脸肿胀像狗熊",
+        "onboard_time": 1660318652,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81967,
+        "num": 62933,
+        "word": "中国男子暴雨中勇救韩国老夫妇",
+        "onboard_time": 1660334052,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 70693,
+        "num": 62900,
+        "word": "你愿意花6000块钱合租吗",
+        "onboard_time": 1660311100,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62570,
+        "num": 62570,
+        "word": "王劲松刘奕君悬疑定律",
+        "onboard_time": 1660327216,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58861,
+        "num": 58861,
+        "word": "殷桃 美",
+        "onboard_time": 1660319730,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58523,
+        "num": 58523,
+        "word": "把空调关了也还是想谈恋爱",
+        "onboard_time": 1660301617,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 55022,
+        "num": 55022,
+        "word": "中方制裁立陶宛交通与通讯部副部长",
+        "onboard_time": 1660304438,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 51505,
+        "num": 51505,
+        "word": "女孩耗时2个月做千里江山图手镯",
+        "onboard_time": 1660311216,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44835,
+        "num": 44835,
+        "word": "美官员称暂停中美禁毒合作不可接受",
+        "onboard_time": 1660294355,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43166,
+        "num": 43166,
+        "word": "公安部要求零容忍查处性侵犯罪",
+        "onboard_time": 1660308033,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42339,
+        "num": 42339,
+        "word": "年轻人不喜欢吃小龙虾了吗",
+        "onboard_time": 1660310377,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41504,
+        "num": 41504,
+        "word": "特朗普庄园上空惊现6个HA",
+        "onboard_time": 1660294773,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 40509,
+        "num": 40509,
+        "word": "赵露思拽吴磊头发",
+        "onboard_time": 1660303961,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40234,
+        "num": 40234,
+        "word": "老人担心5个月婴儿受凉捂到脱水",
+        "onboard_time": 1660298015,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37160,
+        "num": 37160,
+        "word": "ESO组合模仿行为侵权",
+        "onboard_time": 1660296634,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 35535,
+        "num": 35535,
+        "word": "南京二套房首付比例降至30%",
+        "onboard_time": 1660312418,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 35224,
+        "num": 35224,
+        "word": "乌鲁木齐新增73个中高风险区",
+        "onboard_time": 1660321767,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31067,
+        "num": 31067,
+        "word": "何同学 手工耿",
+        "onboard_time": 1660323143,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29194,
+        "num": 29194,
+        "word": "今年首发最高级别高温红色预警",
+        "onboard_time": 1660302762,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27212,
+        "num": 27212,
+        "word": "40℃已进不了全国高温排行榜",
+        "onboard_time": 1660298194,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25804,
+        "num": 25804,
+        "word": "淫秽漫画APP充值金额高达上亿元",
+        "onboard_time": 1660296035,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 26433,
+        "num": 25762,
+        "word": "断桥",
+        "onboard_time": 1660318234,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 25591,
+        "word": "沉香如屑又断更了",
+        "onboard_time": 1660333032,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25177,
+        "num": 25177,
+        "word": "河南即将迎来降温",
+        "onboard_time": 1660316853,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25024,
+        "num": 25024,
+        "word": "四川人快热出幻觉了",
+        "onboard_time": 1660318296,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24794,
+        "num": 24794,
+        "word": "给还没到27岁的人的建议",
+        "onboard_time": 1660300897,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 23307,
+        "num": 23307,
+        "word": "魏大勋爸爸见了唐九洲忘记亲儿子",
+        "onboard_time": 1660329433,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23034,
+        "num": 23034,
+        "word": "黄晓明说今天是我愿意被左右的一天",
+        "onboard_time": 1660317332,
+        "rank": 36,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 22649,
+        "num": 22649,
+        "word": "中元节最温暖的解释",
+        "onboard_time": 1660322783,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22120,
+        "num": 22120,
+        "word": "官方回应高铁大面积晚点",
+        "onboard_time": 1660310857,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20747,
+        "num": 20747,
+        "word": "西安暑期夜游热度全国第一",
+        "onboard_time": 1660321707,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 20329,
+        "num": 20329,
+        "word": "上海网友开始pk电费了",
+        "onboard_time": 1660306534,
+        "rank": 40,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 20316,
+        "num": 20316,
+        "word": "黑话律师",
+        "onboard_time": 1660314996,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20013,
+        "num": 20013,
+        "word": "成都东站",
+        "onboard_time": 1660309360,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19609,
+        "num": 19609,
+        "word": "月亮",
+        "onboard_time": 1660307375,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 19578,
+        "num": 19578,
+        "word": "Doinb",
+        "onboard_time": 1660315416,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17890,
+        "num": 17890,
+        "word": "可以相信林德赞吗",
+        "onboard_time": 1660339632,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16935,
+        "num": 16935,
+        "word": "重庆北站",
+        "onboard_time": 1660308874,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16338,
+        "num": 16338,
+        "word": "奶奶的每句记录都在说爱我",
+        "onboard_time": 1660315117,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13949,
+        "num": 13949,
+        "word": "明天10多个省区市超40℃",
+        "onboard_time": 1660306356,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9864,
+        "num": 13949,
+        "word": "女子特战队跨军种联训有多飒",
+        "onboard_time": 1660340172,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码十年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660339148758,
+  "endTime": 1660340193232,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -26628,7 +26628,7 @@
     },
     {
       "raw_hot": 97698,
-      "num": 36318,
+      "num": 62933,
       "word": "中国男子暴雨中勇救韩国老夫妇",
       "onboard_time": 1660334052,
       "rank": 24,
@@ -27179,8 +27179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25333,
-      "num": 25333,
+      "raw_hot": 25867,
+      "num": 25591,
       "word": "沉香如屑又断更了",
       "onboard_time": 1660333032,
       "rank": 37,
@@ -27273,6 +27273,14 @@
       "onboard_time": 1660032935,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17890,
+      "num": 17890,
+      "word": "可以相信林德赞吗",
+      "onboard_time": 1660339632,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 16097,
@@ -27377,6 +27385,14 @@
       "onboard_time": 1659472696,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9864,
+      "num": 13949,
+      "word": "女子特战队跨军种联训有多飒",
+      "onboard_time": 1660340172,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8697,
