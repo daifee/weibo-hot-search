@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660343928262,
+  "endTime": 1660346454841,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -32,6 +32,22 @@
       "word": "支付宝出现这两个界面千万别转账",
       "onboard_time": 1660302816,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087753,
+      "num": 1087753,
+      "word": "一只老鹰在南京中暑坠江",
+      "onboard_time": 1660341432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906005,
+      "num": 906005,
+      "word": "中央气象台连续23天发布高温预警",
+      "onboard_time": 1660342993,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -99,6 +115,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 429106,
+      "num": 429106,
+      "word": "八月热播剧像满汉全席",
+      "onboard_time": 1660326437,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 417509,
+      "num": 417509,
+      "word": "重庆的猪都中暑了",
+      "onboard_time": 1660323501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408314,
       "num": 354762,
       "word": "黄晓明说今天是我愿意被左右的一天",
@@ -107,20 +139,20 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 396372,
+      "num": 396372,
+      "word": "流星雨",
+      "onboard_time": 1660312656,
+      "rank": 13,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 393196,
       "num": 393196,
       "word": "四川人快热出幻觉了",
       "onboard_time": 1660318296,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379135,
-      "num": 379135,
-      "word": "流星雨",
-      "onboard_time": 1660312656,
-      "rank": 13,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 365930,
@@ -144,14 +176,6 @@
       "word": "40℃已进不了全国高温排行榜",
       "onboard_time": 1660298194,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323791,
-      "num": 323791,
-      "word": "一只老鹰在南京中暑坠江",
-      "onboard_time": 1660341432,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -195,12 +219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293455,
-      "num": 293455,
-      "word": "重庆的猪都中暑了",
-      "onboard_time": 1660323501,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 299532,
+      "num": 299532,
+      "word": "东方青苍 苏",
+      "onboard_time": 1660340413,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 287221,
@@ -219,12 +243,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273569,
-      "num": 262807,
-      "word": "八月热播剧像满汉全席",
-      "onboard_time": 1660326437,
-      "rank": 10,
+      "raw_hot": 278443,
+      "num": 278443,
+      "word": "王劲松刘奕君悬疑定律",
+      "onboard_time": 1660327216,
+      "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259236,
+      "num": 259236,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 258875,
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223401,
+      "num": 223401,
+      "word": "官方回应高铁大面积晚点",
+      "onboard_time": 1660310857,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212417,
       "num": 212417,
       "word": "把空调关了也还是想谈恋爱",
@@ -315,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172648,
-      "num": 169566,
-      "word": "东方青苍 苏",
-      "onboard_time": 1660340413,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170908,
       "num": 90418,
       "word": "蒲熠星说我们可能真的不是很合适",
@@ -337,14 +369,6 @@
       "onboard_time": 1660308033,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169039,
-      "num": 169039,
-      "word": "王劲松刘奕君悬疑定律",
-      "onboard_time": 1660327216,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 167995,
@@ -371,6 +395,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 150036,
+      "num": 150036,
+      "word": "凌不疑抱程少商vs杰瑞抱侄子",
+      "onboard_time": 1660340232,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148643,
       "num": 148643,
       "word": "明天10多个省区市超40℃",
@@ -385,6 +417,14 @@
       "onboard_time": 1660300897,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 146232,
+      "num": 146232,
+      "word": "200多年前中国古画被3D实景化",
+      "onboard_time": 1660342695,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146208,
@@ -403,22 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142560,
-      "num": 142560,
-      "word": "官方回应高铁大面积晚点",
-      "onboard_time": 1660310857,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134018,
-      "num": 134018,
-      "word": "中国男子暴雨中勇救韩国老夫妇",
-      "onboard_time": 1660334052,
-      "rank": 24,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "上海网友开始pk电费了",
@@ -435,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119829,
+      "num": 119829,
+      "word": "魏大勋爸爸见了唐九洲忘记亲儿子",
+      "onboard_time": 1660329433,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112945,
       "num": 112945,
       "word": "奶奶的每句记录都在说爱我",
       "onboard_time": 1660315117,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110202,
+      "num": 87448,
+      "word": "李荣浩最后一秒转身",
+      "onboard_time": 1660343174,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 104696,
@@ -467,20 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90643,
-      "num": 48788,
-      "word": "魏大勋爸爸见了唐九洲忘记亲儿子",
-      "onboard_time": 1660329433,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 98478,
+      "num": 98478,
+      "word": "江苏连续3天发布高温红色预警",
+      "onboard_time": 1660344977,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 86830,
-      "num": 86830,
-      "word": "中央气象台连续23天发布高温预警",
-      "onboard_time": 1660342993,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 88297,
+      "num": 88297,
+      "word": "突然就明白了中元节的意义",
+      "onboard_time": 1660346000,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 82629,
@@ -491,16 +531,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 76720,
-      "num": 74474,
-      "word": "凌不疑抱程少商vs杰瑞抱侄子",
-      "onboard_time": 1660340232,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 66264,
-      "num": 66264,
+      "raw_hot": 80108,
+      "num": 80108,
       "word": "今年首发最高级别高温红色预警",
       "onboard_time": 1660302762,
       "rank": 47,
@@ -515,28 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37354,
-      "num": 37354,
-      "word": "200多年前中国古画被3D实景化",
-      "onboard_time": 1660342695,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37271,
       "num": 37271,
       "word": "离琼申请",
       "onboard_time": 1660331053,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36857,
-      "num": 36857,
-      "word": "李荣浩最后一秒转身",
-      "onboard_time": 1660343174,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 33377,
