@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660289759507,
+  "endTime": 1660292826665,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -41,6 +41,14 @@
       "onboard_time": 1660269208,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2389254,
+      "num": 401209,
+      "word": "阿娇瘦到91斤",
+      "onboard_time": 1660289792,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2378766,
@@ -123,12 +131,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1306910,
+      "num": 1306910,
+      "word": "今天星期五",
+      "onboard_time": 1660276839,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1249117,
       "num": 1249117,
       "word": "美国承认向乌提供清单外武器",
       "onboard_time": 1660271669,
       "rank": 47,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 1224564,
+      "num": 1224564,
+      "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
+      "onboard_time": 1660289133,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1224529,
+      "num": 587446,
+      "word": "女子离婚后卖亲生儿子赚钱",
+      "onboard_time": 1660288112,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1214551,
@@ -315,20 +347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 751302,
-      "num": 751302,
-      "word": "今天星期五",
-      "onboard_time": 1660276839,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 742252,
       "num": 596693,
       "word": "王一博不热吗",
       "onboard_time": 1660287094,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 740987,
+      "num": 740987,
+      "word": "你的快递是这么丢的",
+      "onboard_time": 1660287754,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 740967,
@@ -379,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 618957,
-      "num": 587446,
-      "word": "女子离婚后卖亲生儿子赚钱",
-      "onboard_time": 1660288112,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 611483,
       "num": 581304,
       "word": "王漫妮留学回来成了叶蓁蓁",
@@ -401,6 +425,14 @@
       "onboard_time": 1660270890,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 586612,
+      "num": 534426,
+      "word": "重庆出现刺鼻异味的原因找到了",
+      "onboard_time": 1660290753,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586426,
@@ -491,20 +523,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 537848,
+      "num": 537848,
+      "word": "导游在大巴上埋怨游客花钱少被怼",
+      "onboard_time": 1660291113,
+      "rank": 9,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 537809,
       "num": 537809,
       "word": "强生全球停售含滑石粉的婴儿爽身粉",
       "onboard_time": 1660273353,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523389,
-      "num": 523389,
-      "word": "你的快递是这么丢的",
-      "onboard_time": 1660287754,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 520549,
@@ -515,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510508,
+      "num": 510508,
+      "word": "外国人为什么喜欢吃生饺子",
+      "onboard_time": 1660286310,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 502814,
       "num": 502814,
       "word": "玫瑰之战 没版权",
       "onboard_time": 1660287213,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 490009,
-      "num": 490009,
-      "word": "外国人为什么喜欢吃生饺子",
-      "onboard_time": 1660286310,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 488269,
@@ -593,6 +625,14 @@
       "onboard_time": 1660223434,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465312,
+      "num": 465312,
+      "word": "Angelababy双丸子头造型",
+      "onboard_time": 1660292372,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 458873,
@@ -667,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411681,
+      "num": 411681,
+      "word": "张佳宁台词",
+      "onboard_time": 1660290991,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410821,
+      "num": 410821,
+      "word": "学数学有多重要",
+      "onboard_time": 1660290512,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410253,
       "num": 382717,
       "word": "时代少年团官宣加盟北影节",
@@ -683,6 +739,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 405297,
+      "num": 405297,
+      "word": "没必要担心遇见脏东西",
+      "onboard_time": 1660287272,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 398085,
       "num": 398085,
       "word": "校方回应新生录取通知书有错别字",
@@ -697,6 +761,14 @@
       "onboard_time": 1660260806,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393576,
+      "num": 393576,
+      "word": "穷鬼上班的日子",
+      "onboard_time": 1660288833,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 388592,
@@ -737,6 +809,14 @@
       "onboard_time": 1660278457,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379572,
+      "num": 379572,
+      "word": "范丞丞将亮相北影节开幕式",
+      "onboard_time": 1660291773,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 376958,
@@ -819,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351667,
+      "num": 351667,
+      "word": "征兵体检标准摘要来了",
+      "onboard_time": 1660289971,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350950,
       "num": 294605,
       "word": "刘宇宁被打劫式欢迎",
@@ -841,6 +929,14 @@
       "onboard_time": 1660272510,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342404,
+      "num": 342404,
+      "word": "Sunnee说爱豆不是负面标签",
+      "onboard_time": 1660291052,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340748,
@@ -947,14 +1043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317883,
-      "num": 317883,
-      "word": "没必要担心遇见脏东西",
-      "onboard_time": 1660287272,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 314734,
       "num": 314734,
       "word": "万刃阁少女开播",
@@ -1035,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299684,
+      "num": 299684,
+      "word": "银保监会河南监管局两干部被查",
+      "onboard_time": 1660291113,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299302,
       "num": 250102,
       "word": "龚俊独特撑伞方式",
@@ -1059,20 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294250,
+      "num": 284247,
+      "word": "谢娜谈十三角关系",
+      "onboard_time": 1660290155,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292797,
+      "num": 292797,
+      "word": "工人高空修管道被人泼水还用锅铲捅",
+      "onboard_time": 1660291052,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 290449,
       "num": 290449,
       "word": "欢乐颂3信息量好大",
       "onboard_time": 1660243693,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282737,
-      "num": 282737,
-      "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
-      "onboard_time": 1660289133,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 282560,
@@ -1203,14 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260173,
-      "num": 260173,
-      "word": "穷鬼上班的日子",
-      "onboard_time": 1660288833,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254471,
       "num": 254471,
       "word": "男朋友好会给自己找台阶下",
@@ -1273,6 +1369,14 @@
       "onboard_time": 1660248312,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235000,
+      "num": 235000,
+      "word": "新证据表明大陆是小行星撞出的",
+      "onboard_time": 1660291953,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 230088,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1660268609,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191205,
+      "num": 191205,
+      "word": "有的猫奋斗有的猫躺平",
+      "onboard_time": 1660292133,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 190646,
@@ -1553,6 +1665,14 @@
       "onboard_time": 1660288355,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 154553,
+      "num": 154553,
+      "word": "5岁女儿唱小星星送别爸爸",
+      "onboard_time": 1660292494,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153343,

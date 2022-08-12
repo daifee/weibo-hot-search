@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660289759507,
+  "endTime": 1660292826665,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1873,6 +1873,14 @@
       "onboard_time": 1659608979,
       "rank": 41,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2389254,
+      "num": 401209,
+      "word": "阿娇瘦到91斤",
+      "onboard_time": 1660289792,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2388417,
@@ -4331,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306910,
+      "num": 1306910,
+      "word": "今天星期五",
+      "onboard_time": 1660276839,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1306331,
       "num": 642472,
       "word": "吴露可逃",
@@ -4689,6 +4705,22 @@
       "onboard_time": 1659775171,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1224564,
+      "num": 1224564,
+      "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
+      "onboard_time": 1660289133,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1224529,
+      "num": 587446,
+      "word": "女子离婚后卖亲生儿子赚钱",
+      "onboard_time": 1660288112,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1224466,
@@ -7875,14 +7907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 751302,
-      "num": 751302,
-      "word": "今天星期五",
-      "onboard_time": 1660276839,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 751106,
       "num": 369984,
       "word": "杨幂细眉花钿妆",
@@ -8001,6 +8025,14 @@
       "onboard_time": 1659336627,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740987,
+      "num": 740987,
+      "word": "你的快递是这么丢的",
+      "onboard_time": 1660287754,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 740967,
@@ -9595,14 +9627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618957,
-      "num": 587446,
-      "word": "女子离婚后卖亲生儿子赚钱",
-      "onboard_time": 1660288112,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 618655,
       "num": 549722,
       "word": "黄子韬一号线艺人给你们表演个节目",
@@ -10073,6 +10097,14 @@
       "onboard_time": 1659431153,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586612,
+      "num": 534426,
+      "word": "重庆出现刺鼻异味的原因找到了",
+      "onboard_time": 1660290753,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586453,
@@ -11107,6 +11139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537848,
+      "num": 537848,
+      "word": "导游在大巴上埋怨游客花钱少被怼",
+      "onboard_time": 1660291113,
+      "rank": 9,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 537809,
       "num": 537809,
       "word": "强生全球停售含滑石粉的婴儿爽身粉",
@@ -11387,14 +11427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 523389,
-      "num": 523389,
-      "word": "你的快递是这么丢的",
-      "onboard_time": 1660287754,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 523302,
       "num": 523302,
       "word": "170多个国家和国际组织重申一个中国",
@@ -11673,6 +11705,14 @@
       "onboard_time": 1659669938,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510508,
+      "num": 510508,
+      "word": "外国人为什么喜欢吃生饺子",
+      "onboard_time": 1660286310,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 510483,
@@ -12233,14 +12273,6 @@
       "onboard_time": 1659426763,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490009,
-      "num": 490009,
-      "word": "外国人为什么喜欢吃生饺子",
-      "onboard_time": 1660286310,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 489830,
@@ -13025,6 +13057,14 @@
       "onboard_time": 1659659616,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 465312,
+      "num": 465312,
+      "word": "Angelababy双丸子头造型",
+      "onboard_time": 1660292372,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 465216,
@@ -14779,6 +14819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411681,
+      "num": 411681,
+      "word": "张佳宁台词",
+      "onboard_time": 1660290991,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411661,
       "num": 411661,
       "word": "陈春花公开信",
@@ -14841,6 +14889,14 @@
       "onboard_time": 1659516772,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410821,
+      "num": 410821,
+      "word": "学数学有多重要",
+      "onboard_time": 1660290512,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410759,
@@ -15009,6 +15065,14 @@
       "onboard_time": 1659884911,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405297,
+      "num": 405297,
+      "word": "没必要担心遇见脏东西",
+      "onboard_time": 1660287272,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 404774,
@@ -15353,6 +15417,14 @@
       "onboard_time": 1659790835,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393576,
+      "num": 393576,
+      "word": "穷鬼上班的日子",
+      "onboard_time": 1660288833,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 393552,
@@ -15944,6 +16016,14 @@
       "word": "林彦俊林格报到",
       "onboard_time": 1659940417,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 379572,
+      "num": 379572,
+      "word": "范丞丞将亮相北影节开幕式",
+      "onboard_time": 1660291773,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -17227,6 +17307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351667,
+      "num": 351667,
+      "word": "征兵体检标准摘要来了",
+      "onboard_time": 1660289971,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350950,
       "num": 294605,
       "word": "刘宇宁被打劫式欢迎",
@@ -17601,6 +17689,14 @@
       "onboard_time": 1659618576,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342404,
+      "num": 342404,
+      "word": "Sunnee说爱豆不是负面标签",
+      "onboard_time": 1660291052,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342295,
@@ -18771,14 +18867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317883,
-      "num": 317883,
-      "word": "没必要担心遇见脏东西",
-      "onboard_time": 1660287272,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 317829,
       "num": 240934,
       "word": "汪苏泷Amber新歌飞鸟",
@@ -19499,6 +19587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299684,
+      "num": 299684,
+      "word": "银保监会河南监管局两干部被查",
+      "onboard_time": 1660291113,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299302,
       "num": 250102,
       "word": "龚俊独特撑伞方式",
@@ -19739,6 +19835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294250,
+      "num": 284247,
+      "word": "谢娜谈十三角关系",
+      "onboard_time": 1660290155,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294185,
       "num": 294185,
       "word": "伊犁3000亩向日葵花开成海",
@@ -19809,6 +19913,14 @@
       "onboard_time": 1659415248,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292797,
+      "num": 292797,
+      "word": "工人高空修管道被人泼水还用锅铲捅",
+      "onboard_time": 1660291052,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 292514,
@@ -20073,14 +20185,6 @@
       "onboard_time": 1659940478,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 282737,
-      "num": 282737,
-      "word": "厦门一公交撞倒交通信号灯杆致6人受伤",
-      "onboard_time": 1660289133,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 282721,
@@ -21105,14 +21209,6 @@
       "onboard_time": 1660237640,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260173,
-      "num": 260173,
-      "word": "穷鬼上班的日子",
-      "onboard_time": 1660288833,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 260158,
@@ -22241,6 +22337,14 @@
       "onboard_time": 1659265409,
       "rank": 23,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 235000,
+      "num": 235000,
+      "word": "新证据表明大陆是小行星撞出的",
+      "onboard_time": 1660291953,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 234476,
@@ -23827,6 +23931,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 191205,
+      "num": 191205,
+      "word": "有的猫奋斗有的猫躺平",
+      "onboard_time": 1660292133,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190932,
       "num": 190932,
       "word": "场外期权",
@@ -24625,6 +24737,14 @@
       "onboard_time": 1659803550,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154553,
+      "num": 154553,
+      "word": "5岁女儿唱小星星送别爸爸",
+      "onboard_time": 1660292494,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154288,
