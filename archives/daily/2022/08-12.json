@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660280124357,
+  "endTime": 1660281707632,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -9,6 +9,14 @@
       "onboard_time": 1660275391,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3661409,
+      "num": 3661409,
+      "word": "佩洛西窜台偷偷带儿子",
+      "onboard_time": 1660278638,
+      "rank": 28,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2919982,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2114878,
+      "num": 2114878,
+      "word": "鹿晗见到元宝了",
+      "onboard_time": 1660279596,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1902112,
       "num": 1902112,
       "word": "外籍华人博士可申请在华永久居留",
@@ -57,14 +73,6 @@
       "onboard_time": 1660272931,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1689207,
-      "num": 641831,
-      "word": "佩洛西窜台偷偷带儿子",
-      "onboard_time": 1660278638,
-      "rank": 28,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1455248,
@@ -121,14 +129,6 @@
       "onboard_time": 1660267470,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1066705,
-      "num": 1066705,
-      "word": "鹿晗见到元宝了",
-      "onboard_time": 1660279596,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1065504,
@@ -211,8 +211,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 838066,
-      "num": 623857,
+      "raw_hot": 869549,
+      "num": 650568,
       "word": "吴磊赵露思月升沧海杀青吻",
       "onboard_time": 1660278036,
       "rank": 15,
@@ -275,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681842,
+      "num": 681842,
+      "word": "90后小伙干10年钢筋工被误认是60后",
+      "onboard_time": 1660278519,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666757,
       "num": 666757,
       "word": "今天星期五",
       "onboard_time": 1660276839,
       "rank": 43,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 665601,
+      "num": 650234,
+      "word": "中餐厅6合伙人全员晒午餐",
+      "onboard_time": 1660281094,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 625300,
@@ -387,11 +403,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492166,
-      "num": 492166,
-      "word": "90后小伙干10年钢筋工被误认是60后",
-      "onboard_time": 1660278519,
-      "rank": 46,
+      "raw_hot": 517172,
+      "num": 517172,
+      "word": "重庆市民称多地闻到刺鼻臭味",
+      "onboard_time": 1660279777,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419892,
+      "num": 410864,
+      "word": "与凤行",
+      "onboard_time": 1660279297,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416055,
       "num": 378536,
       "word": "何广智cos周杰伦",
@@ -483,20 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410864,
-      "num": 410864,
-      "word": "与凤行",
-      "onboard_time": 1660279297,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 409089,
       "num": 409089,
       "word": "院士称人造太阳将打开未来能源大门",
       "onboard_time": 1660275814,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 400501,
+      "num": 400501,
+      "word": "广西塘村走失的3岁小男孩找到了",
+      "onboard_time": 1660280616,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398085,
@@ -513,6 +537,14 @@
       "onboard_time": 1660260806,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393045,
+      "num": 393045,
+      "word": "我是减肥不是绝食",
+      "onboard_time": 1660280314,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 388592,
@@ -547,8 +579,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361418,
+      "num": 361418,
+      "word": "55岁大叔每天免费为40位老人做爱心餐",
+      "onboard_time": 1660277015,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 360570,
-      "num": 180778,
+      "num": 253055,
       "word": "月升沧海",
       "onboard_time": 1660280078,
       "rank": 47,
@@ -609,14 +649,6 @@
       "onboard_time": 1660266991,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 338431,
-      "num": 338431,
-      "word": "55岁大叔每天免费为40位老人做爱心餐",
-      "onboard_time": 1660277015,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 337899,
@@ -683,6 +715,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 324805,
+      "num": 251819,
+      "word": "这就是街舞5预告",
+      "onboard_time": 1660281094,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324275,
       "num": 324275,
       "word": "小米自动驾驶首次亮相",
@@ -704,6 +744,14 @@
       "word": "万刃阁少女开播",
       "onboard_time": 1660274492,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310378,
+      "num": 215739,
+      "word": "民国大侦探",
+      "onboard_time": 1660280974,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -875,12 +923,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250967,
+      "num": 250967,
+      "word": "海口首批660名滞留游客离岛返程",
+      "onboard_time": 1660280197,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250875,
       "num": 250875,
       "word": "冰雨火",
       "onboard_time": 1660260925,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245354,
+      "num": 161181,
+      "word": "闪亮的日子",
+      "onboard_time": 1660281693,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 241873,
@@ -1011,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196497,
-      "num": 196497,
-      "word": "重庆市民称多地闻到刺鼻臭味",
-      "onboard_time": 1660279777,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194931,
       "num": 164767,
       "word": "苍兰诀",
       "onboard_time": 1660207110,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "浙HY1110一车都是热心肠",
+      "onboard_time": 1660281332,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 190646,
@@ -1136,6 +1200,14 @@
       "word": "孩子落水父亲欲托举施救双双溺亡",
       "onboard_time": 1660213415,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157896,
+      "num": 157896,
+      "word": "平顶山十年蝶变路",
+      "onboard_time": 1660281515,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1331,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 99098,
+      "num": 2818409,
+      "word": "致敬青春最美的样子",
+      "onboard_time": 1660280078,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74399,
       "num": 74399,
       "word": "郭俊辰告别钱三一说下次见",
@@ -1299,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42653,
+      "num": 570484,
+      "word": "崩坏3爱莉希雅动画短片",
+      "onboard_time": 1660280436,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42273,
       "num": 33267,
       "word": "严浩翔看到虫子的反应好呆",
@@ -1313,14 +1401,6 @@
       "onboard_time": 1660276839,
       "rank": 14,
       "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 5144,
-      "num": 1889554,
-      "word": "致敬青春最美的样子",
-      "onboard_time": 1660280078,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4621,
@@ -1343,6 +1423,9 @@
     },
     {
       "word": "#互联护苗#"
+    },
+    {
+      "word": "#解码十年#"
     }
   ]
 }
