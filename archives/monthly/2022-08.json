@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660332818067,
+  "endTime": 1660335724247,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -27043,6 +27043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37271,
+      "num": 37271,
+      "word": "离琼申请",
+      "onboard_time": 1660331053,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37018,
       "num": 37018,
       "word": "芝士裴之演的草莓裴之",
@@ -27073,6 +27081,14 @@
       "onboard_time": 1659821832,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35980,
+      "num": 35980,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 35144,
@@ -27113,14 +27129,6 @@
       "onboard_time": 1659463225,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30847,
-      "num": 30847,
-      "word": "离琼申请",
-      "onboard_time": 1660331053,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28848,

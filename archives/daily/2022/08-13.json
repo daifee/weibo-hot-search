@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660332818067,
+  "endTime": 1660335724247,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -467,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30847,
-      "num": 30847,
+      "raw_hot": 37271,
+      "num": 37271,
       "word": "离琼申请",
       "onboard_time": 1660331053,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35980,
+      "num": 35980,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
