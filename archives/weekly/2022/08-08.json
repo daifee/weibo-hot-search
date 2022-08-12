@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660340193232,
+  "endTime": 1660342949740,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -9796,7 +9796,7 @@
     },
     {
       "raw_hot": 163360,
-      "num": 84997,
+      "num": 122883,
       "word": "王劲松刘奕君悬疑定律",
       "onboard_time": 1660327216,
       "rank": 20,
@@ -10259,6 +10259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125304,
+      "num": 125304,
+      "word": "一只老鹰在南京中暑坠江",
+      "onboard_time": 1660341432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125106,
       "num": 125106,
       "word": "原来这就是数学之美",
@@ -10345,6 +10353,14 @@
       "onboard_time": 1660053522,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117756,
+      "num": 117756,
+      "word": "东方青苍 苏",
+      "onboard_time": 1660340413,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 116703,
@@ -10475,20 +10491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100104,
+      "num": 100104,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 98474,
       "num": 98474,
       "word": "店主谎称做活动为8旬老人免单",
       "onboard_time": 1659994211,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97698,
-      "num": 62933,
-      "word": "中国男子暴雨中勇救韩国老夫妇",
-      "onboard_time": 1660334052,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 96527,
@@ -10643,6 +10659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41493,
+      "num": 41493,
+      "word": "凌不疑抱程少商vs杰瑞抱侄子",
+      "onboard_time": 1660340232,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37271,
       "num": 37271,
       "word": "离琼申请",
@@ -10665,6 +10689,14 @@
       "onboard_time": 1659942998,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33377,
+      "num": 33377,
+      "word": "大强 下花雨",
+      "onboard_time": 1660342454,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 33191,
@@ -10705,6 +10737,14 @@
       "onboard_time": 1660333032,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22422,
+      "num": 22422,
+      "word": "200多年前中国古画被3D实景化",
+      "onboard_time": 1660342695,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21653,

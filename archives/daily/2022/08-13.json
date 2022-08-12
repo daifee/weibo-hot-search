@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660340193232,
+  "endTime": 1660342949740,
   "band_list": [
     {
       "raw_hot": 2004487,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 163360,
-      "num": 84997,
+      "num": 122883,
       "word": "王劲松刘奕君悬疑定律",
       "onboard_time": 1660327216,
       "rank": 20,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125304,
+      "num": 125304,
+      "word": "一只老鹰在南京中暑坠江",
+      "onboard_time": 1660341432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123148,
       "num": 123148,
       "word": "上海网友开始pk电费了",
@@ -409,6 +417,14 @@
       "onboard_time": 1660316853,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117756,
+      "num": 117756,
+      "word": "东方青苍 苏",
+      "onboard_time": 1660340413,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 112945,
@@ -435,20 +451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100104,
+      "num": 100104,
+      "word": "中国男子暴雨中勇救韩国老夫妇",
+      "onboard_time": 1660334052,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 99703,
       "num": 99703,
       "word": "办婚礼高低得请一支锣鼓队",
       "onboard_time": 1660317451,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97698,
-      "num": 62933,
-      "word": "中国男子暴雨中勇救韩国老夫妇",
-      "onboard_time": 1660334052,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 90643,
@@ -475,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56329,
+      "num": 56329,
+      "word": "今年首发最高级别高温红色预警",
+      "onboard_time": 1660302762,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41493,
+      "num": 41493,
+      "word": "凌不疑抱程少商vs杰瑞抱侄子",
+      "onboard_time": 1660340232,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37271,
       "num": 37271,
       "word": "离琼申请",
@@ -483,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29194,
-      "num": 29194,
-      "word": "今年首发最高级别高温红色预警",
-      "onboard_time": 1660302762,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 33377,
+      "num": 33377,
+      "word": "大强 下花雨",
+      "onboard_time": 1660342454,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 25867,
@@ -497,6 +529,14 @@
       "onboard_time": 1660333032,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22422,
+      "num": 22422,
+      "word": "200多年前中国古画被3D实景化",
+      "onboard_time": 1660342695,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17890,
