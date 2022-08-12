@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660276474713,
+  "endTime": 1660277116891,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -267,6 +267,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 10622391,
+      "num": 10622391,
+      "word": "杨迪刘维道歉",
+      "onboard_time": 1660275391,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9727101,
       "num": 10730979,
       "word": "佩洛西评价自己脸皮厚",
@@ -361,14 +369,6 @@
       "onboard_time": 1659327992,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6734805,
-      "num": 6734805,
-      "word": "杨迪刘维道歉",
-      "onboard_time": 1660275391,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 6686383,
@@ -1339,6 +1339,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 2919982,
+      "num": 2919982,
+      "word": "纸嫁衣",
+      "onboard_time": 1660119932,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2910410,
       "num": 2910410,
       "word": "鹿哈参加相亲节目",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1659606640,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 2709429,
-      "num": 2709429,
-      "word": "纸嫁衣",
-      "onboard_time": 1660119932,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 2697211,
@@ -2675,6 +2675,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1897762,
+      "num": 1897762,
+      "word": "公司招人称不要工资用爱发电",
+      "onboard_time": 1660272931,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1888618,
       "num": 1888618,
       "word": "王心凌 乘风破浪年度总冠军",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1659451411,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1683432,
-      "num": 1683432,
-      "word": "公司招人称不要工资用爱发电",
-      "onboard_time": 1660272931,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1683290,
@@ -5795,6 +5795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1013196,
+      "num": 597980,
+      "word": "三星李在镕获韩国总统特赦",
+      "onboard_time": 1660274792,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1012027,
       "num": 1012027,
       "word": "网传与凤行辣目洋子换成钟楚曦",
@@ -7009,14 +7017,6 @@
       "onboard_time": 1659359495,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 835058,
-      "num": 597980,
-      "word": "三星李在镕获韩国总统特赦",
-      "onboard_time": 1660274792,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 834976,
@@ -10547,6 +10547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558319,
+      "num": 537070,
+      "word": "BLACKPINK先行曲概念预告",
+      "onboard_time": 1660276596,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 557899,
       "num": 557899,
       "word": "VaVa新歌",
@@ -10931,6 +10939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537809,
+      "num": 537809,
+      "word": "强生全球停售含滑石粉的婴儿爽身粉",
+      "onboard_time": 1660273353,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536434,
       "num": 536434,
       "word": "长春疫情防控",
@@ -11177,14 +11193,6 @@
       "onboard_time": 1659587328,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 526033,
-      "num": 526033,
-      "word": "强生全球停售含滑石粉的婴儿爽身粉",
-      "onboard_time": 1660273353,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525641,
@@ -12483,20 +12491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474939,
+      "num": 474939,
+      "word": "上海感染者轨迹所涉足浴店被刑事立案",
+      "onboard_time": 1660271969,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474848,
       "num": 474848,
       "word": "程少商宣皇后母女既视感",
       "onboard_time": 1659444024,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 474482,
-      "num": 474482,
-      "word": "上海感染者轨迹所涉足浴店被刑事立案",
-      "onboard_time": 1660271969,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474422,
@@ -16979,6 +16987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348463,
+      "num": 348463,
+      "word": "院士称人造太阳将打开未来能源大门",
+      "onboard_time": 1660275814,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 348226,
       "num": 348226,
       "word": "德国火葬场为节能实行5人混烧",
@@ -17657,6 +17673,14 @@
       "onboard_time": 1659334948,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332133,
+      "num": 332133,
+      "word": "双镜开播一周年",
+      "onboard_time": 1660276596,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 331822,
@@ -18343,6 +18367,14 @@
       "num": 247698,
       "word": "成毅演的唐周加了糖",
       "onboard_time": 1659356256,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 318829,
+      "num": 318829,
+      "word": "虞书欣拍的王鹤棣",
+      "onboard_time": 1660275694,
       "rank": 32,
       "category": "影视"
     },
@@ -19179,6 +19211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296934,
+      "num": 271905,
+      "word": "刘宇宁被打劫式欢迎",
+      "onboard_time": 1660277015,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296875,
       "num": 296875,
       "word": "林妙妙钱三一隔空比心",
@@ -19425,14 +19465,6 @@
       "onboard_time": 1659656066,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 290667,
-      "num": 290667,
-      "word": "院士称人造太阳将打开未来能源大门",
-      "onboard_time": 1660275814,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 290593,
@@ -20521,14 +20553,6 @@
       "onboard_time": 1659355715,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262849,
-      "num": 262849,
-      "word": "虞书欣拍的王鹤棣",
-      "onboard_time": 1660275694,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 262757,
@@ -22955,6 +22979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200360,
+      "num": 200360,
+      "word": "杜兰特提前收到篮网巨额工资",
+      "onboard_time": 1660276355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200344,
       "num": 200344,
       "word": "一家三代四口人完成遗体捐献",
@@ -22985,6 +23017,14 @@
       "onboard_time": 1659333990,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199485,
+      "num": 199485,
+      "word": "不接受猫爸爱的下场",
+      "onboard_time": 1660276415,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 199404,
@@ -23073,6 +23113,14 @@
       "onboard_time": 1659299531,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 197051,
+      "num": 177791,
+      "word": "白宇帆蒋龙佟梦实王奕婷庄达菲初露锋芒",
+      "onboard_time": 1660277076,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 197037,
@@ -23241,6 +23289,14 @@
       "onboard_time": 1659600279,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192634,
+      "num": 192634,
+      "word": "今天星期五",
+      "onboard_time": 1660276839,
+      "rank": 43,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 191723,
@@ -23609,6 +23665,14 @@
       "onboard_time": 1659717334,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177632,
+      "num": 177632,
+      "word": "55岁大叔每天免费为40位老人做爱心餐",
+      "onboard_time": 1660277015,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 177177,
@@ -24195,14 +24259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140279,
-      "num": 140279,
-      "word": "杜兰特提前收到篮网巨额工资",
-      "onboard_time": 1660276355,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139931,
       "num": 139931,
       "word": "BLACKPINK先行曲预告海报",
@@ -24281,14 +24337,6 @@
       "onboard_time": 1659993251,
       "rank": 49,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 132326,
-      "num": 132326,
-      "word": "不接受猫爸爱的下场",
-      "onboard_time": 1660276415,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 132241,
@@ -25211,6 +25259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21653,
+      "num": 492282,
+      "word": "剪一帧日照金山接好运",
+      "onboard_time": 1660276839,
+      "rank": 14,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 21203,
       "num": 21203,
       "word": "新员工喊话让老板三年后退休",
@@ -25289,6 +25345,14 @@
       "onboard_time": 1659557532,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13996,
+      "num": 197012,
+      "word": "直升机航拍震撼时刻",
+      "onboard_time": 1660276839,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13370,

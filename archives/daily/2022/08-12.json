@@ -1,14 +1,22 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660276474713,
+  "endTime": 1660277116891,
   "band_list": [
     {
-      "raw_hot": 6734805,
-      "num": 6734805,
+      "raw_hot": 10622391,
+      "num": 10622391,
       "word": "杨迪刘维道歉",
       "onboard_time": 1660275391,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2919982,
+      "num": 2919982,
+      "word": "纸嫁衣",
+      "onboard_time": 1660270649,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 2886901,
@@ -17,14 +25,6 @@
       "onboard_time": 1660269208,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2709429,
-      "num": 2709429,
-      "word": "纸嫁衣",
-      "onboard_time": 1660270649,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 2378766,
@@ -51,8 +51,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1683432,
-      "num": 1683432,
+      "raw_hot": 1897762,
+      "num": 1897762,
       "word": "公司招人称不要工资用爱发电",
       "onboard_time": 1660272931,
       "rank": 4,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013196,
+      "num": 597980,
+      "word": "三星李在镕获韩国总统特赦",
+      "onboard_time": 1660274792,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1006835,
       "num": 1006835,
       "word": "中国人均住房10年增加10.7平",
@@ -185,14 +193,6 @@
       "onboard_time": 1660265491,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 835058,
-      "num": 597980,
-      "word": "三星李在镕获韩国总统特赦",
-      "onboard_time": 1660274792,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 830008,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 558319,
+      "num": 537070,
+      "word": "BLACKPINK先行曲概念预告",
+      "onboard_time": 1660276596,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 557668,
       "num": 371928,
       "word": "王二博缺席直播是因为冰雨火吗",
@@ -315,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526033,
-      "num": 526033,
+      "raw_hot": 537809,
+      "num": 537809,
       "word": "强生全球停售含滑石粉的婴儿爽身粉",
       "onboard_time": 1660273353,
       "rank": 16,
@@ -347,8 +355,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 474482,
-      "num": 474482,
+      "raw_hot": 474939,
+      "num": 474939,
       "word": "上海感染者轨迹所涉足浴店被刑事立案",
       "onboard_time": 1660271969,
       "rank": 18,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348463,
+      "num": 348463,
+      "word": "院士称人造太阳将打开未来能源大门",
+      "onboard_time": 1660275814,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 346999,
       "num": 346999,
       "word": "大强 bking",
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332133,
+      "num": 332133,
+      "word": "双镜开播一周年",
+      "onboard_time": 1660276596,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331475,
       "num": 331475,
       "word": "新疆增410例无症状",
@@ -529,6 +553,14 @@
       "onboard_time": 1660249031,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318829,
+      "num": 318829,
+      "word": "虞书欣拍的王鹤棣",
+      "onboard_time": 1660275694,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 314734,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296934,
+      "num": 271905,
+      "word": "刘宇宁被打劫式欢迎",
+      "onboard_time": 1660277015,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296013,
       "num": 296013,
       "word": "中元节到底是什么节日",
@@ -585,14 +625,6 @@
       "onboard_time": 1660230997,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290667,
-      "num": 290667,
-      "word": "院士称人造太阳将打开未来能源大门",
-      "onboard_time": 1660275814,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 290449,
@@ -657,14 +689,6 @@
       "onboard_time": 1660229676,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262849,
-      "num": 262849,
-      "word": "虞书欣拍的王鹤棣",
-      "onboard_time": 1660275694,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 260260,
@@ -811,6 +835,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200360,
+      "num": 200360,
+      "word": "杜兰特提前收到篮网巨额工资",
+      "onboard_time": 1660276355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199485,
+      "num": 199485,
+      "word": "不接受猫爸爱的下场",
+      "onboard_time": 1660276415,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 197731,
       "num": 197731,
       "word": "8月11日新增本土无症状1203例",
@@ -819,12 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197051,
+      "num": 177791,
+      "word": "白宇帆蒋龙佟梦实王奕婷庄达菲初露锋芒",
+      "onboard_time": 1660277076,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194931,
       "num": 164767,
       "word": "苍兰诀",
       "onboard_time": 1660207110,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192634,
+      "num": 192634,
+      "word": "今天星期五",
+      "onboard_time": 1660276839,
+      "rank": 43,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 189607,
@@ -865,6 +921,14 @@
       "onboard_time": 1660217560,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177632,
+      "num": 177632,
+      "word": "55岁大叔每天免费为40位老人做爱心餐",
+      "onboard_time": 1660277015,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174434,
@@ -987,28 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140279,
-      "num": 140279,
-      "word": "杜兰特提前收到篮网巨额工资",
-      "onboard_time": 1660276355,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137983,
       "num": 137983,
       "word": "司机忘拉手刹7岁男童飞奔而出",
       "onboard_time": 1660212337,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132326,
-      "num": 132326,
-      "word": "不接受猫爸爱的下场",
-      "onboard_time": 1660276415,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 128898,
@@ -1105,6 +1153,22 @@
       "onboard_time": 1660245853,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21653,
+      "num": 492282,
+      "word": "剪一帧日照金山接好运",
+      "onboard_time": 1660276839,
+      "rank": 14,
+      "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 13996,
+      "num": 197012,
+      "word": "直升机航拍震撼时刻",
+      "onboard_time": 1660276839,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4621,

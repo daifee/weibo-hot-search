@@ -1,0 +1,410 @@
+{
+  "runTime": 1660277116891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10622391,
+        "num": 10622391,
+        "word": "杨迪刘维道歉",
+        "onboard_time": 1660275391,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2919982,
+        "num": 2919982,
+        "word": "纸嫁衣",
+        "onboard_time": 1660270649,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 434762,
+        "num": 1932925,
+        "word": "亚洲象比大熊猫还要珍稀",
+        "onboard_time": 1660262551,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1897762,
+        "num": 1897762,
+        "word": "公司招人称不要工资用爱发电",
+        "onboard_time": 1660272931,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1697629,
+        "num": 1697629,
+        "word": "欢乐颂3 尴尬",
+        "onboard_time": 1660269208,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1151746,
+        "num": 1151746,
+        "word": "鬼节",
+        "onboard_time": 1660220196,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116259,
+        "num": 1116259,
+        "word": "美国承认向乌提供清单外武器",
+        "onboard_time": 1660271669,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 923089,
+        "num": 923089,
+        "word": "王嘉尔登Billboard中国首封",
+        "onboard_time": 1660273589,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 809567,
+        "num": 809567,
+        "word": "超六成受访大学生希望30岁前结婚",
+        "onboard_time": 1660269510,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537809,
+        "num": 537809,
+        "word": "强生全球停售含滑石粉的婴儿爽身粉",
+        "onboard_time": 1660273353,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013196,
+        "num": 537525,
+        "word": "三星李在镕获韩国总统特赦",
+        "onboard_time": 1660274792,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 702323,
+        "num": 537428,
+        "word": "张新成孙千这么多年芭莎大片",
+        "onboard_time": 1660273170,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 558319,
+        "num": 537070,
+        "word": "BLACKPINK先行曲概念预告",
+        "onboard_time": 1660276596,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536424,
+        "num": 536424,
+        "word": "詹姆斯被允许继续穿6号球衣",
+        "onboard_time": 1660275152,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21653,
+        "num": 492282,
+        "word": "剪一帧日照金山接好运",
+        "onboard_time": 1660276839,
+        "rank": 14,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 484272,
+        "num": 484272,
+        "word": "王漫妮留学回来成了叶蓁蓁",
+        "onboard_time": 1660273050,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474939,
+        "num": 474939,
+        "word": "上海感染者轨迹所涉足浴店被刑事立案",
+        "onboard_time": 1660271969,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454764,
+        "num": 454764,
+        "word": "苹果预计今年iPhone总产量2.2亿台",
+        "onboard_time": 1660270890,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 404635,
+        "num": 404635,
+        "word": "大象的粑粑原来这么轻",
+        "onboard_time": 1660268969,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386218,
+        "num": 386218,
+        "word": "英雄蒋正全遗体告别仪式举行",
+        "onboard_time": 1660270708,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412682,
+        "num": 379715,
+        "word": "蔡徐坤加盟浙江卫视超级818",
+        "onboard_time": 1660269931,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348463,
+        "num": 348463,
+        "word": "院士称人造太阳将打开未来能源大门",
+        "onboard_time": 1660275814,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 342342,
+        "num": 342342,
+        "word": "公安成功摧毁6款淫秽漫画APP",
+        "onboard_time": 1660258819,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332133,
+        "num": 332133,
+        "word": "双镜开播一周年",
+        "onboard_time": 1660276596,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318829,
+        "num": 318829,
+        "word": "虞书欣拍的王鹤棣",
+        "onboard_time": 1660275694,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317397,
+        "num": 317397,
+        "word": "厦门新增确诊病例5例",
+        "onboard_time": 1660273111,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304708,
+        "num": 304708,
+        "word": "有没有一瞬间突然就释怀了",
+        "onboard_time": 1660263388,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292459,
+        "num": 292459,
+        "word": "男子为上清华复读13年拒多所名校",
+        "onboard_time": 1660261766,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 284096,
+        "num": 284096,
+        "word": "重庆一男子先打前妻又打儿子",
+        "onboard_time": 1660265491,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 273357,
+        "num": 273357,
+        "word": "外籍华人博士可申请在华永久居留",
+        "onboard_time": 1660266153,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305334,
+        "num": 272891,
+        "word": "陈宇啃手是和王一博学的吗",
+        "onboard_time": 1660272510,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296934,
+        "num": 271905,
+        "word": "刘宇宁被打劫式欢迎",
+        "onboard_time": 1660277015,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288594,
+        "num": 271607,
+        "word": "大强 bking",
+        "onboard_time": 1660271370,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280106,
+        "num": 270456,
+        "word": "玉骨遥",
+        "onboard_time": 1660260806,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270332,
+        "num": 270332,
+        "word": "苏州明年可坐地铁到上海",
+        "onboard_time": 1660267470,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217298,
+        "num": 217298,
+        "word": "小伙身体不适理发店老板暖心照顾",
+        "onboard_time": 1660267948,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 200360,
+        "num": 200360,
+        "word": "杜兰特提前收到篮网巨额工资",
+        "onboard_time": 1660276355,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199485,
+        "num": 199485,
+        "word": "不接受猫爸爱的下场",
+        "onboard_time": 1660276415,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198877,
+        "num": 198877,
+        "word": "小林裕幸加入网易",
+        "onboard_time": 1660272390,
+        "rank": 38,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 13996,
+        "num": 197012,
+        "word": "直升机航拍震撼时刻",
+        "onboard_time": 1660276839,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229471,
+        "num": 196217,
+        "word": "万刃阁少女开播",
+        "onboard_time": 1660274492,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2628,
+        "num": 195388,
+        "word": "小米MIX折叠屏评测",
+        "onboard_time": 1660273231,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 195347,
+        "num": 195347,
+        "word": "网传时代少年团演唱会歌曲",
+        "onboard_time": 1660270230,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192634,
+        "num": 192634,
+        "word": "今天星期五",
+        "onboard_time": 1660276839,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 189720,
+        "num": 189720,
+        "word": "4人海边旅行救了3条人命",
+        "onboard_time": 1660266870,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 185195,
+        "num": 185195,
+        "word": "高中女生压力大引发甲亢危象",
+        "onboard_time": 1660265309,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177852,
+        "num": 177852,
+        "word": "重庆新增本土确诊1例无症状感染者1例",
+        "onboard_time": 1660271731,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197051,
+        "num": 177791,
+        "word": "白宇帆蒋龙佟梦实王奕婷庄达菲初露锋芒",
+        "onboard_time": 1660277076,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177632,
+        "num": 177632,
+        "word": "55岁大叔每天免费为40位老人做爱心餐",
+        "onboard_time": 1660277015,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 166554,
+        "num": 166554,
+        "word": "世界杯吉祥物国内正式发售",
+        "onboard_time": 1660273653,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人的事要由中国人来决定#"
+    }
+  }
+}
