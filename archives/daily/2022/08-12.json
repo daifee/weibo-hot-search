@@ -1,6 +1,6 @@
 {
   "startTime": 1660235394189,
-  "endTime": 1660309776993,
+  "endTime": 1660311818646,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2389254,
-      "num": 467041,
+      "num": 480806,
       "word": "阿娇瘦到91斤",
       "onboard_time": 1660289792,
       "rank": 20,
@@ -88,6 +88,14 @@
       "word": "鬼节",
       "onboard_time": 1660220196,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2304090,
+      "num": 2304090,
+      "word": "重庆北站",
+      "onboard_time": 1660308874,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1400461,
+      "num": 1400461,
+      "word": "成都东站",
+      "onboard_time": 1660309360,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1399511,
       "num": 1399511,
       "word": "中石油中石化将从纽交所退市",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1357460,
+      "num": 1357460,
+      "word": "华晨宇欧阳娜娜紫弹唱舞台",
+      "onboard_time": 1660310560,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1309132,
       "num": 1309132,
       "word": "蔡徐坤加盟浙江卫视超级818",
@@ -219,12 +243,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1303813,
+      "num": 1303813,
+      "word": "公安部要求零容忍查处性侵犯罪",
+      "onboard_time": 1660308033,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281439,
       "num": 1281439,
       "word": "高铁晚点",
       "onboard_time": 1660305214,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260792,
+      "num": 1260792,
+      "word": "何同学新视频",
+      "onboard_time": 1660310560,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 1249117,
@@ -387,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 944123,
+      "num": 1680998,
+      "word": "今年首发最高级别高温红色预警",
+      "onboard_time": 1660302762,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921363,
       "num": 736078,
       "word": "重庆一男子先打前妻又打儿子",
@@ -417,14 +465,6 @@
       "onboard_time": 1660300778,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 878221,
-      "num": 1680998,
-      "word": "今年首发最高级别高温红色预警",
-      "onboard_time": 1660302762,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 869549,
@@ -571,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 689052,
+      "num": 689052,
+      "word": "虞书欣喊话张凌赫跳吧",
+      "onboard_time": 1660310137,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 685245,
       "num": 685245,
       "word": "大象的粑粑原来这么轻",
@@ -579,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670213,
-      "num": 648602,
-      "word": "公安部要求零容忍查处性侵犯罪",
-      "onboard_time": 1660308033,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 681340,
+      "num": 681340,
+      "word": "你愿意花6000块钱合租吗",
+      "onboard_time": 1660311100,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 668236,
@@ -627,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 612725,
-      "num": 612725,
-      "word": "重庆北站",
-      "onboard_time": 1660308874,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611483,
       "num": 581304,
       "word": "王漫妮留学回来成了叶蓁蓁",
@@ -672,6 +712,14 @@
       "word": "广西塘村走失的3岁小男孩找到了",
       "onboard_time": 1660280616,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584141,
+      "num": 584141,
+      "word": "明天10多个省区市超40℃",
+      "onboard_time": 1660306356,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -867,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485407,
+      "num": 485407,
+      "word": "张凯的驴",
+      "onboard_time": 1660309898,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 483563,
       "num": 483563,
       "word": "英雄蒋正全遗体告别仪式举行",
@@ -891,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475348,
-      "num": 475348,
-      "word": "明天10多个省区市超40℃",
-      "onboard_time": 1660306356,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 478913,
+      "num": 478913,
+      "word": "张天爱穿礼服吃薯条",
+      "onboard_time": 1660307676,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 474939,
@@ -947,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 467437,
-      "num": 252533,
-      "word": "张天爱穿礼服吃薯条",
-      "onboard_time": 1660307676,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 458873,
       "num": 458873,
       "word": "起底蔡氏骗局",
@@ -977,6 +1025,14 @@
       "onboard_time": 1660266870,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 442788,
+      "num": 285734,
+      "word": "王灿给杜淳的家书变情书",
+      "onboard_time": 1660309658,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 439776,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1660297053,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427541,
+      "num": 282351,
+      "word": "刘宇宁直播",
+      "onboard_time": 1660311037,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 427082,
@@ -1107,6 +1171,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 408219,
+      "num": 408219,
+      "word": "上海网友开始pk电费了",
+      "onboard_time": 1660306534,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 406599,
       "num": 406599,
       "word": "穷鬼上班的日子",
@@ -1131,12 +1203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398454,
-      "num": 398454,
-      "word": "上海网友开始pk电费了",
-      "onboard_time": 1660306534,
-      "rank": 26,
-      "category": "社会新闻,科技"
+      "raw_hot": 399013,
+      "num": 279561,
+      "word": "冰雨火",
+      "onboard_time": 1660260925,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 398085,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1660289433,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373517,
+      "num": 373517,
+      "word": "狼队战胜TTG",
+      "onboard_time": 1660311158,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 369123,
@@ -1371,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348726,
+      "num": 237959,
+      "word": "负面情绪该不该向朋友宣泄",
+      "onboard_time": 1660309058,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346999,
       "num": 346999,
       "word": "大强 bking",
@@ -1467,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332858,
-      "num": 193132,
-      "word": "负面情绪该不该向朋友宣泄",
-      "onboard_time": 1660309058,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332133,
       "num": 332133,
       "word": "双镜开播一周年",
@@ -1515,6 +1595,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324697,
+      "num": 324697,
+      "word": "月亮",
+      "onboard_time": 1660218457,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 324497,
+      "num": 324497,
+      "word": "英仙座流星雨心愿墙",
+      "onboard_time": 1660310977,
+      "rank": 28,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 324275,
       "num": 324275,
       "word": "小米自动驾驶首次亮相",
@@ -1536,14 +1632,6 @@
       "word": "银保监会河南监管局两干部被查",
       "onboard_time": 1660291113,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315023,
-      "num": 315023,
-      "word": "成都东站",
-      "onboard_time": 1660309360,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1779,14 +1867,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 279955,
-      "num": 279955,
-      "word": "月亮",
-      "onboard_time": 1660218457,
-      "rank": 42,
-      "category": "自然"
-    },
-    {
       "raw_hot": 279247,
       "num": 249862,
       "word": "张慧雯召唤陈都灵追欢乐颂3",
@@ -1859,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273941,
+      "num": 273941,
+      "word": "年轻人不喜欢吃小龙虾了吗",
+      "onboard_time": 1660310377,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 271964,
       "num": 271964,
       "word": "看展姿势能有多奇葩",
@@ -1915,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255194,
+      "num": 255194,
+      "word": "官方回应高铁大面积晚点",
+      "onboard_time": 1660310857,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254471,
       "num": 254471,
       "word": "男朋友好会给自己找台阶下",
@@ -1931,20 +2027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250875,
-      "num": 250875,
-      "word": "冰雨火",
-      "onboard_time": 1660260925,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245354,
       "num": 161181,
       "word": "闪亮的日子",
       "onboard_time": 1660281693,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245275,
+      "num": 245275,
+      "word": "女孩耗时2个月做千里江山图手镯",
+      "onboard_time": 1660311216,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243893,
@@ -2064,6 +2160,14 @@
       "word": "河南安徽5家村镇银行涉嫌严重犯罪",
       "onboard_time": 1660300837,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223116,
+      "num": 223116,
+      "word": "重庆高铁",
+      "onboard_time": 1660310315,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2331,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172446,
+      "num": 172446,
+      "word": "厦门疫情防控",
+      "onboard_time": 1660310014,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167766,
       "num": 167766,
       "word": "小猫和它的小猪朋友",
@@ -2587,6 +2699,22 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 96527,
+      "num": 239350,
+      "word": "Z世代的未来有多少可能性",
+      "onboard_time": 1660309237,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86349,
+      "num": 162715,
+      "word": "安徽12站点达到或是越过40℃",
+      "onboard_time": 1660311458,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74399,
       "num": 74399,
       "word": "郭俊辰告别钱三一说下次见",
@@ -2627,12 +2755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44619,
-      "num": 193405,
-      "word": "Z世代的未来有多少可能性",
-      "onboard_time": 1660309237,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 44204,
+      "num": 1428209,
+      "word": "看见锦绣山河",
+      "onboard_time": 1660310857,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 42653,
