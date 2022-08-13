@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660408086566,
+  "endTime": 1660409387678,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -3963,6 +3963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 603193,
+      "num": 413663,
+      "word": "看不懂但大为震撼的情侣行为",
+      "onboard_time": 1660404872,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600489,
       "num": 389129,
       "word": "何同学 手工耿",
@@ -5355,14 +5363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470536,
-      "num": 221381,
-      "word": "看不懂但大为震撼的情侣行为",
-      "onboard_time": 1660404872,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 470531,
       "num": 470531,
       "word": "oner是来批发冰箱的吧",
@@ -5416,6 +5416,14 @@
       "word": "郭晓婷说徐海乔徒儿还在等我呢",
       "onboard_time": 1659963396,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 467883,
+      "num": 380459,
+      "word": "疑商夫妇",
+      "onboard_time": 1660407324,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -5809,14 +5817,6 @@
       "onboard_time": 1660011333,
       "rank": 19,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 438108,
-      "num": 213962,
-      "word": "疑商夫妇",
-      "onboard_time": 1660407324,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 438031,
@@ -9619,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279046,
+      "num": 279046,
+      "word": "曼联",
+      "onboard_time": 1660404092,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278986,
       "num": 278986,
       "word": "毛不易新歌聊聊",
@@ -11475,6 +11483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192957,
+      "num": 86925,
+      "word": "听说很好吃",
+      "onboard_time": 1660408525,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191723,
       "num": 191723,
       "word": "老一辈的名字能有多好听",
@@ -12331,14 +12347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144339,
-      "num": 144339,
-      "word": "曼联",
-      "onboard_time": 1660404092,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "雷军新书",
@@ -12729,6 +12737,14 @@
       "onboard_time": 1660054304,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109940,
+      "num": 109940,
+      "word": "四川8岁男孩大桥下失联已11天",
+      "onboard_time": 1660408945,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 109841,
