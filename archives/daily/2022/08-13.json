@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660386180938,
+  "endTime": 1660387153152,
   "band_list": [
     {
       "raw_hot": 4065516,
@@ -91,6 +91,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1852244,
+      "num": 1852244,
+      "word": "彭州山洪",
+      "onboard_time": 1660385008,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1825376,
       "num": 1825376,
       "word": "何同学新视频",
@@ -147,12 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1575400,
-      "num": 1575400,
-      "word": "彭州山洪",
-      "onboard_time": 1660385008,
-      "rank": 3,
-      "category": "社会负面"
+      "raw_hot": 1576678,
+      "num": 1576678,
+      "word": "徐梦桃关晓彤约一起跳女团舞",
+      "onboard_time": 1660386089,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1571853,
@@ -195,20 +203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1351810,
+      "num": 1351810,
+      "word": "断桥女主为什么不报警",
+      "onboard_time": 1660382490,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1324257,
       "num": 1324257,
       "word": "一只老鹰在南京中暑坠江",
       "onboard_time": 1660341432,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1297245,
-      "num": 1297245,
-      "word": "断桥女主为什么不报警",
-      "onboard_time": 1660382490,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1278501,
@@ -675,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506735,
+      "num": 506735,
+      "word": "喝含糖饮料易导致尿酸升高",
+      "onboard_time": 1660384590,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506610,
       "num": 506610,
       "word": "这就是街舞",
@@ -755,14 +771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 457309,
-      "num": 259060,
-      "word": "徐梦桃关晓彤约一起跳女团舞",
-      "onboard_time": 1660386089,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 456246,
       "num": 293717,
       "word": "王靖雯功夫胖潜伏期好治愈",
@@ -817,6 +825,14 @@
       "onboard_time": 1660315416,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 430357,
+      "num": 430357,
+      "word": "四川彭州一河道突发山洪",
+      "onboard_time": 1660386089,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 428993,
@@ -931,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401300,
+      "num": 401300,
+      "word": "龙漕沟",
+      "onboard_time": 1660386389,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 398859,
       "num": 398859,
       "word": "上海再派1020名医护驰援海南",
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 373203,
-      "num": 1823370,
+      "num": 1844766,
       "word": "眼妆卸不干净或导致干眼症",
       "onboard_time": 1660364308,
       "rank": 34,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1660321108,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364779,
-      "num": 364779,
-      "word": "喝含糖饮料易导致尿酸升高",
-      "onboard_time": 1660384590,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364425,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341226,
+      "num": 251355,
+      "word": "第二次拥抱姐姐们支持方原离婚",
+      "onboard_time": 1660386089,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339720,
       "num": 247001,
       "word": "断桥票房破5000万",
@@ -1187,19 +1211,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332629,
+      "num": 332629,
+      "word": "足浴店疫情与既往上海海南均不同源",
+      "onboard_time": 1660384051,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330089,
       "num": 330089,
       "word": "这不是PS是真实的大好河山",
       "onboard_time": 1660352789,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329997,
-      "num": 329997,
-      "word": "足浴店疫情与既往上海海南均不同源",
-      "onboard_time": 1660384051,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1225,6 +1249,14 @@
       "onboard_time": 1660298194,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325374,
+      "num": 155254,
+      "word": "你被人工智能坑过吗",
+      "onboard_time": 1660387108,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 321810,
@@ -1451,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274280,
-      "num": 198587,
-      "word": "第二次拥抱姐姐们支持方原离婚",
-      "onboard_time": 1660386089,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 270833,
       "num": 270833,
       "word": "啊泽战损感大片",
       "onboard_time": 1660370250,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270229,
+      "num": 270229,
+      "word": "我国创下世界最强稳态磁场纪录",
+      "onboard_time": 1660385008,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 268747,
@@ -1763,12 +1795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197322,
-      "num": 197322,
-      "word": "我国创下世界最强稳态磁场纪录",
-      "onboard_time": 1660385008,
-      "rank": 43,
-      "category": "社会新闻,科技"
+      "raw_hot": 188945,
+      "num": 188945,
+      "word": "杜富国摘下墨镜的微笑太治愈了",
+      "onboard_time": 1660386690,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186204,
@@ -1795,12 +1827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181561,
-      "num": 181561,
-      "word": "四川彭州一河道突发山洪",
-      "onboard_time": 1660386089,
-      "rank": 45,
-      "category": "社会负面"
+      "raw_hot": 181539,
+      "num": 181539,
+      "word": "大爷丢8000元找回后要求民警花光",
+      "onboard_time": 1660386271,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179408,
