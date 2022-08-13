@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660412196966,
+  "endTime": 1660415120479,
   "band_list": [
     {
       "raw_hot": 2002502,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429503,
+      "num": 429503,
+      "word": "ITZY你是我的姐",
+      "onboard_time": 1660411817,
+      "rank": 11,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 420608,
       "num": 204517,
       "word": "不难看出 马丽是沈腾唯一的姐",
@@ -201,14 +209,6 @@
       "onboard_time": 1660405590,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326188,
-      "num": 326188,
-      "word": "ITZY你是我的姐",
-      "onboard_time": 1660411817,
-      "rank": 11,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 304941,
@@ -288,6 +288,14 @@
       "word": "听说很好吃",
       "onboard_time": 1660408525,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "尹正买西瓜",
+      "onboard_time": 1660413316,
+      "rank": 11,
       "category": "综艺"
     },
     {

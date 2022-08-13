@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660412196966,
+  "endTime": 1660415120479,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -5995,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429503,
+      "num": 429503,
+      "word": "ITZY你是我的姐",
+      "onboard_time": 1660411817,
+      "rank": 11,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 429347,
       "num": 429347,
       "word": "NCTDREAM将重新举办演唱会",
@@ -8521,14 +8529,6 @@
       "onboard_time": 1660261408,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 326188,
-      "num": 326188,
-      "word": "ITZY你是我的姐",
-      "onboard_time": 1660411817,
-      "rank": 11,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 325677,
@@ -11881,6 +11881,14 @@
       "onboard_time": 1660303177,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "尹正买西瓜",
+      "onboard_time": 1660413316,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 172132,
