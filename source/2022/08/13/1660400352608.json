@@ -1,0 +1,410 @@
+{
+  "runTime": 1660400352608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2933559,
+        "num": 2933559,
+        "word": "彭州山洪",
+        "onboard_time": 1660385008,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2133866,
+        "num": 2133866,
+        "word": "孕妇每天1杯奶茶喝成奶茶血",
+        "onboard_time": 1660399115,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315769,
+        "num": 2027216,
+        "word": "中国创造相当于地球磁场90多万倍的磁场",
+        "onboard_time": 1660384647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2385321,
+        "num": 2025969,
+        "word": "吴磊主动牵手赵露思",
+        "onboard_time": 1660392330,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2015612,
+        "num": 2015612,
+        "word": "被坠楼男子砸中身亡女子亲属发声",
+        "onboard_time": 1660398331,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1787890,
+        "num": 1787890,
+        "word": "彭州未撤离游客被卷入山洪",
+        "onboard_time": 1660393890,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1736704,
+        "num": 1736704,
+        "word": "张翰朱梓骁合体直播",
+        "onboard_time": 1660398331,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1555902,
+        "num": 1555902,
+        "word": "央视镜头下的何洛洛",
+        "onboard_time": 1660398452,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1110611,
+        "num": 1110611,
+        "word": "警方通报乐山有人跳楼砸中路人",
+        "onboard_time": 1660397552,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 579002,
+        "num": 1104233,
+        "word": "特朗普若被定罪最高可获10年监禁",
+        "onboard_time": 1660381051,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1461569,
+        "num": 1103889,
+        "word": "不难看出 马丽是沈腾唯一的姐",
+        "onboard_time": 1660395632,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1102950,
+        "num": 1102950,
+        "word": "王一博街舞5跳本草纲目",
+        "onboard_time": 1660397311,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1017999,
+        "num": 1017999,
+        "word": "王俊凯被大学老师夸奖",
+        "onboard_time": 1660400075,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570777,
+        "num": 570777,
+        "word": "急寻TV9824航班Z324列车乘客",
+        "onboard_time": 1660376310,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533965,
+        "num": 533965,
+        "word": "地面太烫蜗牛开启急速模式",
+        "onboard_time": 1660393770,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527639,
+        "num": 527639,
+        "word": "原神",
+        "onboard_time": 1660389569,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447097,
+        "num": 447097,
+        "word": "彭州山洪亲历者发声",
+        "onboard_time": 1660397552,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 425338,
+        "num": 425338,
+        "word": "LPL",
+        "onboard_time": 1660394611,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405925,
+        "num": 405925,
+        "word": "爱马仕回应16.5万自行车已抢光",
+        "onboard_time": 1660399475,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 402488,
+        "num": 402488,
+        "word": "四川彭州突发山洪致4死9伤",
+        "onboard_time": 1660392149,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 611175,
+        "num": 398680,
+        "word": "少女时代再跳再重世",
+        "onboard_time": 1660397673,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559082,
+        "num": 397046,
+        "word": "王鹤棣东方青苍哭戏",
+        "onboard_time": 1660395451,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382076,
+        "num": 382076,
+        "word": "食物语",
+        "onboard_time": 1660394788,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 975621,
+        "num": 378182,
+        "word": "断桥 剧情降智",
+        "onboard_time": 1660381530,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305312,
+        "num": 305312,
+        "word": "小鱼洞",
+        "onboard_time": 1660394968,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 303261,
+        "num": 303261,
+        "word": "厦门在区域核酸筛查中发现1例确诊",
+        "onboard_time": 1660395090,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297842,
+        "num": 297842,
+        "word": "中国男排vs韩国男排",
+        "onboard_time": 1660391849,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281662,
+        "num": 281662,
+        "word": "彭州山洪因短时强降雨",
+        "onboard_time": 1660395090,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273976,
+        "num": 273976,
+        "word": "男子买7斤螃蟹少3斤商家被罚3万",
+        "onboard_time": 1660375050,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265711,
+        "num": 265711,
+        "word": "喝含糖饮料易导致尿酸升高",
+        "onboard_time": 1660384590,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516917,
+        "num": 262959,
+        "word": "丁程鑫叫娜扎我的姐",
+        "onboard_time": 1660394731,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412083,
+        "num": 257462,
+        "word": "嗨放派",
+        "onboard_time": 1660399535,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413239,
+        "num": 255339,
+        "word": "刘耀文为身材认输",
+        "onboard_time": 1660399952,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394752,
+        "num": 250402,
+        "word": "张信哲 爱就一个字",
+        "onboard_time": 1660397071,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388763,
+        "num": 247046,
+        "word": "时代少年团 串烧",
+        "onboard_time": 1660397492,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244394,
+        "num": 244394,
+        "word": "大爷丢8000元找回后要求民警花光",
+        "onboard_time": 1660386271,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229047,
+        "num": 229047,
+        "word": "为何要尽量少喝奶茶",
+        "onboard_time": 1660372230,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220162,
+        "num": 220162,
+        "word": "这样的心态真的是人间清醒",
+        "onboard_time": 1660399535,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 218669,
+        "num": 218669,
+        "word": "西藏本次疫情以无症状感染为主",
+        "onboard_time": 1660390348,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205770,
+        "num": 205770,
+        "word": "三亚7708名滞留游客已搭飞机返程",
+        "onboard_time": 1660388188,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372681,
+        "num": 200876,
+        "word": "满汉全席 花君",
+        "onboard_time": 1660397730,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195677,
+        "num": 195677,
+        "word": "我国创下世界最强稳态磁场纪录",
+        "onboard_time": 1660385008,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 195091,
+        "num": 195091,
+        "word": "新疆库尔勒临时性静态管理",
+        "onboard_time": 1660395753,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185633,
+        "num": 185633,
+        "word": "空降兵携军犬登上运20跳伞",
+        "onboard_time": 1660399655,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 172116,
+        "num": 172116,
+        "word": "FPX晋级季后赛",
+        "onboard_time": 1660392988,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "亲历者讲述彭州山洪现场",
+        "onboard_time": 1660391010,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145514,
+        "num": 145514,
+        "word": "每家店都有一位猫师傅",
+        "onboard_time": 1660393110,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140049,
+        "num": 140049,
+        "word": "提纳里",
+        "onboard_time": 1660396531,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137420,
+        "num": 137420,
+        "word": "Hero状态",
+        "onboard_time": 1660387467,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129222,
+        "num": 129222,
+        "word": "附近群众称砸中路人跳楼者实为50多岁男性",
+        "onboard_time": 1660400256,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#今日繁华如斯岂能忘却历史#"
+    }
+  }
+}

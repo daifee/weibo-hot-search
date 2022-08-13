@@ -1,10 +1,10 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660398149746,
+  "endTime": 1660400352608,
   "band_list": [
     {
       "raw_hot": 4182859,
-      "num": 1560812,
+      "num": 2025969,
       "word": "吴磊主动牵手赵露思",
       "onboard_time": 1660392330,
       "rank": 3,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2924503,
-      "num": 634254,
+      "num": 1103889,
       "word": "不难看出 马丽是沈腾唯一的姐",
       "onboard_time": 1660395632,
       "rank": 10,
@@ -97,6 +97,22 @@
       "onboard_time": 1660369349,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2133866,
+      "num": 2133866,
+      "word": "孕妇每天1杯奶茶喝成奶茶血",
+      "onboard_time": 1660399115,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2015612,
+      "num": 2015612,
+      "word": "被坠楼男子砸中身亡女子亲属发声",
+      "onboard_time": 1660398331,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2004487,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1736704,
+      "num": 1736704,
+      "word": "张翰朱梓骁合体直播",
+      "onboard_time": 1660398331,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1699467,
       "num": 1699467,
       "word": "王一博胡军周冬雨长空之王官宣",
@@ -200,6 +224,14 @@
       "word": "殷桃 美",
       "onboard_time": 1660319730,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1555902,
+      "num": 1555902,
+      "word": "央视镜头下的何洛洛",
+      "onboard_time": 1660398452,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -339,6 +371,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1110611,
+      "num": 1110611,
+      "word": "警方通报乐山有人跳楼砸中路人",
+      "onboard_time": 1660397552,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1107306,
       "num": 1107306,
       "word": "美700亿售台武器啥概念",
@@ -417,6 +457,14 @@
       "onboard_time": 1660372230,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017999,
+      "num": 1017999,
+      "word": "王俊凯被大学老师夸奖",
+      "onboard_time": 1660400075,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1013021,
@@ -572,7 +620,7 @@
     },
     {
       "raw_hot": 725054,
-      "num": 316610,
+      "num": 398680,
       "word": "少女时代再跳再重世",
       "onboard_time": 1660397673,
       "rank": 21,
@@ -1035,6 +1083,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 447097,
+      "num": 447097,
+      "word": "彭州山洪亲历者发声",
+      "onboard_time": 1660397552,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 442943,
       "num": 442943,
       "word": "南京苏州大幅降低首付比例",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1660375951,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425338,
+      "num": 425338,
+      "word": "LPL",
+      "onboard_time": 1660394611,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 421500,
@@ -1179,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413239,
+      "num": 255339,
+      "word": "刘耀文为身材认输",
+      "onboard_time": 1660399952,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413144,
       "num": 413144,
       "word": "今天见马思纯晓雨",
@@ -1203,6 +1275,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 412083,
+      "num": 257462,
+      "word": "嗨放派",
+      "onboard_time": 1660399535,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408314,
       "num": 354762,
       "word": "黄晓明说今天是我愿意被左右的一天",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1660377512,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405925,
+      "num": 405925,
+      "word": "爱马仕回应16.5万自行车已抢光",
+      "onboard_time": 1660399475,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 404023,
@@ -1331,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382076,
+      "num": 382076,
+      "word": "食物语",
+      "onboard_time": 1660394788,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373203,
       "num": 1844766,
       "word": "眼妆卸不干净或导致干眼症",
@@ -1393,22 +1489,6 @@
       "onboard_time": 1660350749,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356865,
-      "num": 356865,
-      "word": "食物语",
-      "onboard_time": 1660394788,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 355715,
-      "num": 355715,
-      "word": "LPL",
-      "onboard_time": 1660394611,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 354011,
@@ -1755,12 +1835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293612,
-      "num": 293612,
-      "word": "警方通报乐山有人跳楼砸中路人",
-      "onboard_time": 1660397552,
+      "raw_hot": 297842,
+      "num": 297842,
+      "word": "中国男排vs韩国男排",
+      "onboard_time": 1660391849,
       "rank": 26,
-      "category": "社会负面"
+      "category": "体育"
     },
     {
       "raw_hot": 293428,
@@ -1777,14 +1857,6 @@
       "onboard_time": 1660389867,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 292203,
-      "num": 292203,
-      "word": "中国男排vs韩国男排",
-      "onboard_time": 1660391849,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 290728,
@@ -1867,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281662,
+      "num": 281662,
+      "word": "彭州山洪因短时强降雨",
+      "onboard_time": 1660395090,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279922,
       "num": 168954,
       "word": "黑话律师",
@@ -1889,14 +1969,6 @@
       "onboard_time": 1660356028,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274639,
-      "num": 265867,
-      "word": "彭州山洪亲历者发声",
-      "onboard_time": 1660397552,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 270833,
@@ -2019,14 +2091,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 242350,
-      "num": 242350,
-      "word": "彭州山洪因短时强降雨",
-      "onboard_time": 1660395090,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "英国作家拉什迪遇袭现场",
@@ -2129,6 +2193,14 @@
       "onboard_time": 1660358067,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220162,
+      "num": 220162,
+      "word": "这样的心态真的是人间清醒",
+      "onboard_time": 1660399535,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 217544,
@@ -2243,12 +2315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "新疆库尔勒临时性静态管理",
+      "onboard_time": 1660395753,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186204,
       "num": 186204,
       "word": "广东增本土确诊12例",
       "onboard_time": 1660357348,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185633,
+      "num": 185633,
+      "word": "空降兵携军犬登上运20跳伞",
+      "onboard_time": 1660399655,
+      "rank": 43,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 182757,
@@ -2273,14 +2361,6 @@
       "onboard_time": 1660353869,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179226,
-      "num": 179226,
-      "word": "新疆库尔勒临时性静态管理",
-      "onboard_time": 1660395753,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170908,
@@ -2473,6 +2553,14 @@
       "onboard_time": 1660351591,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129222,
+      "num": 129222,
+      "word": "附近群众称砸中路人跳楼者实为50多岁男性",
+      "onboard_time": 1660400256,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 123152,
