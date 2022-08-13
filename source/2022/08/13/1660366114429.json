@@ -1,0 +1,410 @@
+{
+  "runTime": 1660366114429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2898928,
+        "num": 2898928,
+        "word": "结婚4年2次鼓膜穿孔女子要丈夫道歉",
+        "onboard_time": 1660359029,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1754999,
+        "num": 1754999,
+        "word": "女孩被困厕所因1份外卖得救",
+        "onboard_time": 1660361014,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485193,
+        "num": 1418682,
+        "word": "左撇子的一天怎么度过",
+        "onboard_time": 1660349008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231638,
+        "num": 1231638,
+        "word": "新加坡将禁止奶茶果汁等广告宣传",
+        "onboard_time": 1660349486,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063725,
+        "num": 1063725,
+        "word": "张雨绮担任北京电影节创投终审评委",
+        "onboard_time": 1660361251,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917511,
+        "num": 917511,
+        "word": "美700亿售台武器啥概念",
+        "onboard_time": 1660359632,
+        "rank": 5,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 866650,
+        "num": 866650,
+        "word": "王鹤棣仪态",
+        "onboard_time": 1660357109,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 849986,
+        "num": 849986,
+        "word": "杨紫沉香如屑经历8虐",
+        "onboard_time": 1660360771,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668259,
+        "num": 668259,
+        "word": "叙利亚称每天石油产量的83%被美盗走",
+        "onboard_time": 1660358669,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 635083,
+        "num": 635083,
+        "word": "卫强足浴店3名员工被立案侦查",
+        "onboard_time": 1660362031,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832316,
+        "num": 607533,
+        "word": "王一博影剧综三喜临门",
+        "onboard_time": 1660365030,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785721,
+        "num": 594666,
+        "word": "断桥",
+        "onboard_time": 1660318234,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 733594,
+        "num": 578579,
+        "word": "BLACKPINK回归预告怼脸镜头",
+        "onboard_time": 1660363770,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550177,
+        "num": 550177,
+        "word": "左撇子真的比右撇子聪明吗",
+        "onboard_time": 1660359510,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470933,
+        "num": 470933,
+        "word": "男孩口吞灯泡拔不出来求助消防",
+        "onboard_time": 1660357466,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404023,
+        "num": 404023,
+        "word": "当你剪了一个失败的发型",
+        "onboard_time": 1660363470,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379994,
+        "num": 379994,
+        "word": "美媒称特朗普涉嫌违反反间谍法",
+        "onboard_time": 1660350328,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 379676,
+        "num": 379676,
+        "word": "作者就书里称中秋节是洋节致歉",
+        "onboard_time": 1660351469,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359683,
+        "num": 359683,
+        "word": "抗战期间一小学生的日记本",
+        "onboard_time": 1660357888,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336883,
+        "num": 336883,
+        "word": "重庆的猪都中暑了",
+        "onboard_time": 1660323501,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697040,
+        "num": 335704,
+        "word": "杨超越六连拒绝李诞",
+        "onboard_time": 1660364909,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451435,
+        "num": 329397,
+        "word": "王心凌6次登顶微博综艺明星榜",
+        "onboard_time": 1660364675,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404940,
+        "num": 320813,
+        "word": "温州龙湾机场发现4例阳性感染者",
+        "onboard_time": 1660364790,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394024,
+        "num": 312364,
+        "word": "今天见马思纯晓雨",
+        "onboard_time": 1660363470,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309278,
+        "num": 309278,
+        "word": "今年的奶茶被消费券承包了",
+        "onboard_time": 1660356508,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 298802,
+        "num": 298802,
+        "word": "缴满15年社保能提前退休吗",
+        "onboard_time": 1660349907,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291955,
+        "num": 291955,
+        "word": "眼妆卸不干净或导致干眼症",
+        "onboard_time": 1660364308,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285307,
+        "num": 285307,
+        "word": "司机身体不适路过一车人伸出援手",
+        "onboard_time": 1660356932,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 230289,
+        "num": 230289,
+        "word": "一只老鹰在南京中暑坠江",
+        "onboard_time": 1660341432,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226315,
+        "num": 226315,
+        "word": "为不让婚礼留遗憾舞狮队冒雨演出",
+        "onboard_time": 1660364853,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349370,
+        "num": 223069,
+        "word": "央视财经818晚会嘉宾猜谜海报",
+        "onboard_time": 1660365932,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336774,
+        "num": 220519,
+        "word": "章若楠抱柱子好像考拉",
+        "onboard_time": 1660365936,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328749,
+        "num": 213901,
+        "word": "冰雨火暗夜穿行版预告",
+        "onboard_time": 1660365450,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284921,
+        "num": 205923,
+        "word": "告五人巡演",
+        "onboard_time": 1660364734,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204923,
+        "num": 204923,
+        "word": "中国男篮热身赛不敌NCAA球队",
+        "onboard_time": 1660354051,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202473,
+        "num": 202473,
+        "word": "四川新增本土确诊5例无症状3例",
+        "onboard_time": 1660358729,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188962,
+        "num": 188962,
+        "word": "今年夏天为何会这么热",
+        "onboard_time": 1660350749,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185953,
+        "num": 185953,
+        "word": "海口美兰机场国内客运航班全面恢复",
+        "onboard_time": 1660357708,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181465,
+        "num": 181465,
+        "word": "海南增594例确诊832例无症状",
+        "onboard_time": 1660356028,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178561,
+        "num": 178561,
+        "word": "警方回应工人高层作业被多次泼水",
+        "onboard_time": 1660355548,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274923,
+        "num": 176072,
+        "word": "柳岩说年轻人不要想爱就爱",
+        "onboard_time": 1660365695,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247078,
+        "num": 175940,
+        "word": "张新成 哈克深蹲输给了哈尔滨的风",
+        "onboard_time": 1660358189,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245729,
+        "num": 175505,
+        "word": "你好星期六全员和夏天绝配",
+        "onboard_time": 1660358309,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172813,
+        "num": 172813,
+        "word": "女子染发不结账称自己是大网红",
+        "onboard_time": 1660365691,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153566,
+        "num": 153566,
+        "word": "店员给大爷送饭被偷走手机",
+        "onboard_time": 1660353329,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138617,
+        "num": 138617,
+        "word": "拉什迪遇刺",
+        "onboard_time": 1660355849,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136866,
+        "num": 136866,
+        "word": "这不是PS是真实的大好河山",
+        "onboard_time": 1660352789,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127748,
+        "num": 127748,
+        "word": "男孩卖冰棍将最后一根送警察",
+        "onboard_time": 1660365932,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 121904,
+        "num": 121904,
+        "word": "景区垃圾桶起火男孩小便救火",
+        "onboard_time": 1660350447,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120296,
+        "num": 120296,
+        "word": "重庆还要热好久",
+        "onboard_time": 1660358251,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码十年#"
+    }
+  }
+}
