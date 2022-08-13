@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660418205692,
+  "endTime": 1660419203080,
   "band_list": [
     {
       "raw_hot": 2002502,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104162,
+      "num": 104162,
+      "word": "王祖蓝北京国际电影节开场表演",
+      "onboard_time": 1660416613,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 94120,
       "num": 94120,
       "word": "哈兰德助攻",
@@ -417,14 +425,6 @@
       "onboard_time": 1660386271,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87847,
-      "num": 61772,
-      "word": "王祖蓝北京国际电影节开场表演",
-      "onboard_time": 1660416613,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 81930,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60008,
+      "num": 29874,
+      "word": "谢霆锋说王俊凯对自己够狠",
+      "onboard_time": 1660417093,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56233,
       "num": 56233,
       "word": "新疆库尔勒临时性静态管理",
@@ -475,20 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52989,
-      "num": 29874,
-      "word": "谢霆锋说王俊凯对自己够狠",
-      "onboard_time": 1660417093,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 50058,
       "num": 50058,
       "word": "曼城vs伯恩茅斯",
       "onboard_time": 1660404272,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32709,
+      "num": 19105,
+      "word": "唐九洲奶奶的家书看哭了",
+      "onboard_time": 1660418893,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20638,
+      "num": 20638,
+      "word": "重庆巴南发现3龛明清摩崖造像",
+      "onboard_time": 1660418712,
+      "rank": 37,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
