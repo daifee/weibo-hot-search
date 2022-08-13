@@ -1,9 +1,9 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660394186643,
+  "endTime": 1660395470431,
   "band_list": [
     {
-      "raw_hot": 4071241,
+      "raw_hot": 4182859,
       "num": 1543762,
       "word": "吴磊主动牵手赵露思",
       "onboard_time": 1660392330,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1025138,
+      "num": 543503,
+      "word": "彭州未撤离游客被卷入山洪",
+      "onboard_time": 1660393890,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1020462,
       "num": 1020462,
       "word": "杨紫沉香如屑经历8虐",
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 875135,
+      "num": 875135,
+      "word": "王俊凯说断桥吻戏我又不是主动的那个",
+      "onboard_time": 1660393587,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 872040,
       "num": 594357,
       "word": "王一博官宣加盟微博电影之夜",
@@ -481,6 +497,14 @@
       "onboard_time": 1660358669,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 775172,
+      "num": 775172,
+      "word": "西藏本次疫情以无症状感染为主",
+      "onboard_time": 1660390348,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 737683,
@@ -528,6 +552,14 @@
       "word": "杨超越六连拒绝李诞",
       "onboard_time": 1660364909,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 687966,
+      "num": 537831,
+      "word": "王一博穿西装骑摩托",
+      "onboard_time": 1660395331,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -585,14 +617,6 @@
       "onboard_time": 1660379191,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 637755,
-      "num": 523841,
-      "word": "西藏本次疫情以无症状感染为主",
-      "onboard_time": 1660390348,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635083,
@@ -689,6 +713,14 @@
       "onboard_time": 1660385907,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546803,
+      "num": 546803,
+      "word": "原神",
+      "onboard_time": 1660389569,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 546578,
@@ -811,14 +843,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 495037,
-      "num": 325794,
-      "word": "王俊凯说断桥吻戏我又不是主动的那个",
-      "onboard_time": 1660393587,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 489442,
       "num": 225641,
       "word": "王一博陈宇五集喊了16次报告",
@@ -873,6 +897,14 @@
       "onboard_time": 1660391010,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472657,
+      "num": 356694,
+      "word": "丁程鑫叫娜扎我的姐",
+      "onboard_time": 1660394731,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 465291,
@@ -1131,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398337,
+      "num": 273570,
+      "word": "网友苏州偶遇李易峰",
+      "onboard_time": 1660392449,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 394429,
       "num": 394429,
       "word": "XYG对战Hero",
@@ -1187,20 +1227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385790,
-      "num": 235813,
-      "word": "网友苏州偶遇李易峰",
-      "onboard_time": 1660392449,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 383622,
       "num": 383622,
       "word": "特警28楼公主抱8秒极限救人",
       "onboard_time": 1660373969,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 382565,
+      "num": 266182,
+      "word": "小兰花东方青苍抱头落泪",
+      "onboard_time": 1660390289,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 373203,
@@ -1224,14 +1264,6 @@
       "word": "记住我叫峰哥",
       "onboard_time": 1660376009,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 367122,
-      "num": 233558,
-      "word": "小兰花东方青苍抱头落泪",
-      "onboard_time": 1660390289,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1265,6 +1297,22 @@
       "onboard_time": 1660350749,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356865,
+      "num": 356865,
+      "word": "食物语",
+      "onboard_time": 1660394788,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 355715,
+      "num": 355715,
+      "word": "LPL",
+      "onboard_time": 1660394611,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 354011,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1660369529,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348186,
+      "num": 260184,
+      "word": "张真源有点子谋略在身上",
+      "onboard_time": 1660395389,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 345712,
@@ -1611,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288652,
+      "num": 160596,
+      "word": "王鹤棣东方青苍哭戏",
+      "onboard_time": 1660395451,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287221,
       "num": 287221,
       "word": "淫秽漫画APP充值金额高达上亿元",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1660351410,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283668,
+      "num": 283668,
+      "word": "中国男排vs韩国男排",
+      "onboard_time": 1660391849,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 282305,
@@ -1771,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248934,
-      "num": 248934,
-      "word": "中国男排vs韩国男排",
-      "onboard_time": 1660391849,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248091,
       "num": 248091,
       "word": "敦煌实施全域24小时静默管理",
@@ -1827,22 +1891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240962,
-      "num": 240962,
-      "word": "彭州未撤离游客被卷入山洪",
-      "onboard_time": 1660393890,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 240710,
-      "num": 240710,
-      "word": "原神",
-      "onboard_time": 1660389569,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 240363,
       "num": 240363,
       "word": "功夫熊猫4定档",
@@ -1864,6 +1912,14 @@
       "word": "新疆增334例无症状",
       "onboard_time": 1660352669,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238550,
+      "num": 238550,
+      "word": "地面太烫蜗牛开启急速模式",
+      "onboard_time": 1660393770,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1891,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232973,
+      "num": 232973,
+      "word": "小鱼洞",
+      "onboard_time": 1660394968,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 228656,
       "num": 228656,
       "word": "王者英雄荣耀之战",
@@ -1915,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226581,
+      "num": 226581,
+      "word": "每家店都有一位猫师傅",
+      "onboard_time": 1660393110,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226315,
       "num": 226315,
       "word": "为不让婚礼留遗憾舞狮队冒雨演出",
@@ -1931,19 +2003,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218393,
-      "num": 218393,
-      "word": "每家店都有一位猫师傅",
-      "onboard_time": 1660393110,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217544,
       "num": 217544,
       "word": "一杯奶茶里到底有些什么",
       "onboard_time": 1660374870,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217134,
+      "num": 217134,
+      "word": "山洪来前有哪些预兆",
+      "onboard_time": 1660394788,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1961,6 +2033,14 @@
       "onboard_time": 1660361790,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214131,
+      "num": 214131,
+      "word": "厦门在区域核酸筛查中发现1例确诊",
+      "onboard_time": 1660395090,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212417,
@@ -2017,6 +2097,14 @@
       "onboard_time": 1660360109,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201942,
+      "num": 201942,
+      "word": "彭州山洪因短时强降雨",
+      "onboard_time": 1660395090,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201537,
@@ -2235,14 +2323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144587,
-      "num": 144587,
-      "word": "地面太烫蜗牛开启急速模式",
-      "onboard_time": 1660393770,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143675,
       "num": 143675,
       "word": "成都世乒赛名单",
@@ -2404,7 +2484,7 @@
     },
     {
       "raw_hot": 8604,
-      "num": 502563,
+      "num": 530186,
       "word": "原神3.0全球直播",
       "onboard_time": 1660392029,
       "rank": 14,
