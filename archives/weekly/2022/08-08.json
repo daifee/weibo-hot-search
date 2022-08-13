@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660361617668,
+  "endTime": 1660364981999,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1665380,
+      "num": 1665380,
+      "word": "女孩被困厕所因1份外卖得救",
+      "onboard_time": 1660361014,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655407,
       "num": 1655407,
       "word": "拜登对解放军军演感到担忧",
@@ -1427,6 +1435,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 1209466,
+      "num": 1209466,
+      "word": "张雨绮担任北京电影节创投终审评委",
+      "onboard_time": 1660361251,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1207321,
       "num": 1207321,
       "word": "名创优品回应不许放中文歌",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1660057180,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1107306,
+      "num": 1107306,
+      "word": "美700亿售台武器啥概念",
+      "onboard_time": 1660359632,
+      "rank": 10,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1106046,
@@ -1763,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1052370,
-      "num": 1052370,
-      "word": "美700亿售台武器啥概念",
-      "onboard_time": 1660359632,
-      "rank": 10,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 1051691,
       "num": 1051691,
       "word": "油价",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1660115553,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1020462,
+      "num": 1020462,
+      "word": "杨紫沉香如屑经历8虐",
+      "onboard_time": 1660360771,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1018899,
@@ -2403,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806325,
+      "num": 638638,
+      "word": "断桥",
+      "onboard_time": 1660106381,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 805199,
       "num": 805199,
       "word": "杨幂震惊十面埋伏是李斯丹妮的歌",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1660299874,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 782813,
+      "num": 782813,
+      "word": "叙利亚称每天石油产量的83%被美盗走",
+      "onboard_time": 1660358669,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 782171,
@@ -2681,6 +2721,14 @@
       "onboard_time": 1660308215,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 737683,
+      "num": 632585,
+      "word": "BLACKPINK回归预告怼脸镜头",
+      "onboard_time": 1660363770,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 733561,
@@ -3107,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653408,
+      "num": 653408,
+      "word": "左撇子真的比右撇子聪明吗",
+      "onboard_time": 1660359510,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 651487,
       "num": 651487,
       "word": "华为上半年营收3016亿元",
@@ -3217,14 +3273,6 @@
       "onboard_time": 1660311216,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634342,
-      "num": 634342,
-      "word": "叙利亚称每天石油产量的83%被美盗走",
-      "onboard_time": 1660358669,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 632219,
@@ -3555,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575096,
+      "num": 575096,
+      "word": "卫强足浴店3名员工被立案侦查",
+      "onboard_time": 1660362031,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574943,
       "num": 574943,
       "word": "符建涛妈妈否认向孙海洋索要赏金",
@@ -3737,14 +3793,6 @@
       "onboard_time": 1660275152,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 554596,
-      "num": 554596,
-      "word": "断桥",
-      "onboard_time": 1660106381,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 553366,
@@ -4176,14 +4224,6 @@
       "word": "陈都灵和李宇春握手害羞跑走",
       "onboard_time": 1660306657,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 508006,
-      "num": 508006,
-      "word": "杨紫沉香如屑经历8虐",
-      "onboard_time": 1660360771,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -5411,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413144,
+      "num": 413144,
+      "word": "今天见马思纯晓雨",
+      "onboard_time": 1660363470,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412999,
       "num": 412999,
       "word": "马嘉祺侠舞蹈MV怼脸镜头",
@@ -5489,14 +5537,6 @@
       "onboard_time": 1660275814,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 408529,
-      "num": 408529,
-      "word": "左撇子真的比右撇子聪明吗",
-      "onboard_time": 1660359510,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 408219,
@@ -6009,6 +6049,14 @@
       "onboard_time": 1660291773,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379402,
+      "num": 353644,
+      "word": "杨超越六连拒绝李诞",
+      "onboard_time": 1660364909,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 379392,
@@ -6739,6 +6787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344587,
+      "num": 344587,
+      "word": "被苍兰诀觞阙整笑了",
+      "onboard_time": 1660362810,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344469,
       "num": 318918,
       "word": "雀斑公主定档826",
@@ -6963,6 +7019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332882,
+      "num": 330412,
+      "word": "王心凌6次登顶微博综艺明星榜",
+      "onboard_time": 1660364675,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332709,
       "num": 332709,
       "word": "今生也是第一次杀青",
@@ -6993,6 +7057,14 @@
       "onboard_time": 1660138173,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331575,
+      "num": 331575,
+      "word": "当你剪了一个失败的发型",
+      "onboard_time": 1660363470,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 331475,
@@ -7225,14 +7297,6 @@
       "onboard_time": 1660231533,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 324118,
-      "num": 254068,
-      "word": "张雨绮担任北京电影节创投终审评委",
-      "onboard_time": 1660361251,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 324020,
@@ -8683,14 +8747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 249866,
-      "num": 249866,
-      "word": "女孩被困厕所因1份外卖得救",
-      "onboard_time": 1660361014,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249511,
       "num": 249511,
       "word": "谭谈交通回来了",
@@ -9515,12 +9571,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214545,
+      "num": 189085,
+      "word": "动画电影山海经上映",
+      "onboard_time": 1660361790,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214025,
       "num": 214025,
       "word": "不必要的肢体行为可构成性骚扰",
       "onboard_time": 1660031317,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213944,
+      "num": 173277,
+      "word": "告五人巡演",
+      "onboard_time": 1660364734,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 213793,
@@ -9881,6 +9953,14 @@
       "onboard_time": 1660051659,
       "rank": 25,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 189170,
+      "num": 189170,
+      "word": "眼妆卸不干净或导致干眼症",
+      "onboard_time": 1660364308,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189041,
@@ -10483,6 +10563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154043,
+      "num": 154043,
+      "word": "AI或能拯救消防员",
+      "onboard_time": 1660363709,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 153343,
       "num": 125967,
       "word": "冰雨火不够看",
@@ -10691,6 +10779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134158,
+      "num": 134158,
+      "word": "温州龙湾机场发现4例阳性感染者",
+      "onboard_time": 1660364790,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134009,
       "num": 134009,
       "word": "10省份局地可超过42℃",
@@ -10808,6 +10904,14 @@
       "word": "嫌犯到法院旁听自己案件被抓",
       "onboard_time": 1660079772,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125307,
+      "num": 125307,
+      "word": "为不让婚礼留遗憾舞狮队冒雨演出",
+      "onboard_time": 1660364853,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
