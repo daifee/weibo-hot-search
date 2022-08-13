@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660355718917,
+  "endTime": 1660357807380,
   "band_list": [
     {
       "raw_hot": 3021908,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943852,
+      "num": 943852,
+      "word": "王鹤棣仪态",
+      "onboard_time": 1660357109,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 912147,
+      "num": 912147,
+      "word": "作者就书里称中秋节是洋节致歉",
+      "onboard_time": 1660351469,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850052,
       "num": 850052,
       "word": "戚薇打假品牌侵权反被告",
@@ -107,12 +123,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 806787,
-      "num": 806787,
-      "word": "作者就书里称中秋节是洋节致歉",
-      "onboard_time": 1660351469,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 815891,
+      "num": 815891,
+      "word": "今年的奶茶被消费券承包了",
+      "onboard_time": 1660356508,
+      "rank": 7,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 731865,
@@ -137,6 +153,14 @@
       "onboard_time": 1660346000,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614348,
+      "num": 614348,
+      "word": "拉什迪遇刺",
+      "onboard_time": 1660355849,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612936,
@@ -211,12 +235,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 486562,
+      "num": 486562,
+      "word": "警方回应工人高层作业被多次泼水",
+      "onboard_time": 1660355548,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451935,
+      "num": 451935,
+      "word": "中国男篮热身赛不敌NCAA球队",
+      "onboard_time": 1660354051,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447140,
       "num": 447140,
       "word": "流星雨",
       "onboard_time": 1660312656,
       "rank": 13,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 442943,
+      "num": 442943,
+      "word": "南京苏州大幅降低首付比例",
+      "onboard_time": 1660353269,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 434245,
@@ -227,28 +275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 417169,
-      "num": 417169,
-      "word": "南京苏州大幅降低首付比例",
-      "onboard_time": 1660353269,
-      "rank": 16,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 413836,
       "num": 413836,
       "word": "上海新增1例本土确诊3例本土无症状",
       "onboard_time": 1660354290,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411426,
-      "num": 411426,
-      "word": "中国男篮热身赛不敌NCAA球队",
-      "onboard_time": 1660354051,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 408314,
@@ -264,6 +296,14 @@
       "word": "四川人快热出幻觉了",
       "onboard_time": 1660318296,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392865,
+      "num": 392865,
+      "word": "店员给大爷送饭被偷走手机",
+      "onboard_time": 1660353329,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -331,6 +371,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 320070,
+      "num": 320070,
+      "word": "断桥",
+      "onboard_time": 1660318234,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318169,
       "num": 258349,
       "word": "玉骨遥",
@@ -379,14 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 304557,
-      "num": 304557,
-      "word": "店员给大爷送饭被偷走手机",
-      "onboard_time": 1660353329,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303343,
       "num": 303343,
       "word": "东方青苍 苏",
@@ -401,6 +441,14 @@
       "onboard_time": 1660310857,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290150,
+      "num": 290150,
+      "word": "王俊凯孟超今日见",
+      "onboard_time": 1660356508,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 287221,
@@ -499,20 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245417,
-      "num": 143382,
-      "word": "断桥",
-      "onboard_time": 1660318234,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243971,
       "num": 143314,
       "word": "张天爱穿礼服吃薯条",
       "onboard_time": 1660307676,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242170,
+      "num": 242170,
+      "word": "司机身体不适路过一车人伸出援手",
+      "onboard_time": 1660356932,
+      "rank": 31,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 241266,
@@ -536,6 +584,14 @@
       "word": "新疆增334例无症状",
       "onboard_time": 1660352669,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236477,
+      "num": 236477,
+      "word": "海南增594例确诊832例无症状",
+      "onboard_time": 1660356028,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -592,6 +648,22 @@
       "word": "200多年前中国古画被3D实景化",
       "onboard_time": 1660342695,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188266,
+      "num": 188266,
+      "word": "男孩口吞灯泡拔不出来求助消防",
+      "onboard_time": 1660357466,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186204,
+      "num": 186204,
+      "word": "广东增本土确诊12例",
+      "onboard_time": 1660357348,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -659,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163876,
+      "num": 163876,
+      "word": "郑钦文 WTA1000",
+      "onboard_time": 1660357229,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163568,
       "num": 150036,
       "word": "凌不疑抱程少商vs杰瑞抱侄子",
@@ -683,11 +763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158278,
-      "num": 158278,
-      "word": "警方回应工人高层作业被多次泼水",
-      "onboard_time": 1660355548,
-      "rank": 47,
+      "raw_hot": 157468,
+      "num": 157468,
+      "word": "海口美兰机场国内客运航班全面恢复",
+      "onboard_time": 1660357708,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
