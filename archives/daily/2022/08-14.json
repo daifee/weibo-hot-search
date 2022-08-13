@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660409387678,
+  "endTime": 1660411227711,
   "band_list": [
     {
       "raw_hot": 2002502,
@@ -67,20 +67,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 726953,
+      "num": 726953,
+      "word": "曼联",
+      "onboard_time": 1660404092,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 701460,
+      "num": 701460,
+      "word": "彭州未撤离游客被卷入山洪",
+      "onboard_time": 1660393890,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 695416,
       "num": 675096,
       "word": "水千丞 偶企",
       "onboard_time": 1660401095,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 688367,
-      "num": 688367,
-      "word": "彭州未撤离游客被卷入山洪",
-      "onboard_time": 1660393890,
-      "rank": 9,
-      "category": "社会负面"
     },
     {
       "raw_hot": 653307,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 603193,
-      "num": 413663,
+      "num": 511390,
       "word": "看不懂但大为震撼的情侣行为",
       "onboard_time": 1660404872,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 593750,
+      "num": 593750,
+      "word": "四川8岁男孩大桥下失联已11天",
+      "onboard_time": 1660408945,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 560289,
@@ -195,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287820,
+      "num": 156943,
+      "word": "周深游戏ID礼貌嘛少管我",
+      "onboard_time": 1660409542,
+      "rank": 21,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 283349,
       "num": 283349,
       "word": "地面太烫蜗牛开启急速模式",
@@ -209,14 +233,6 @@
       "onboard_time": 1660399535,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 279046,
-      "num": 279046,
-      "word": "曼联",
-      "onboard_time": 1660404092,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 277724,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109940,
-      "num": 109940,
-      "word": "四川8岁男孩大桥下失联已11天",
-      "onboard_time": 1660408945,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 94120,
       "num": 94120,
       "word": "哈兰德助攻",
@@ -417,6 +425,14 @@
       "onboard_time": 1660404272,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38506,
+      "num": 38506,
+      "word": "游乐园又多了一个伤心的人",
+      "onboard_time": 1660410321,
+      "rank": 48,
+      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [
