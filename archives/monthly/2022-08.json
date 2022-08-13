@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660419203080,
+  "endTime": 1660422118534,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -28907,6 +28907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107378,
+      "num": 77942,
+      "word": "重庆巴南发现3龛明清摩崖造像",
+      "onboard_time": 1660418712,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106768,
       "num": 106768,
       "word": "这世界那么多你",
@@ -29379,12 +29387,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50058,
+      "num": 32657,
+      "word": "这就是街舞5好看吗",
+      "onboard_time": 1660420812,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48235,
       "num": 48235,
       "word": "俩狗狗打闹时看到镜头马上表情管理",
       "onboard_time": 1659373882,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47950,
+      "num": 47950,
+      "word": "因妻子不接电话男子辱骂110撒气",
+      "onboard_time": 1660420812,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47724,
+      "num": 27145,
+      "word": "唐九洲奶奶的家书看哭了",
+      "onboard_time": 1660418893,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 46171,
@@ -29555,14 +29587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32709,
-      "num": 19105,
-      "word": "唐九洲奶奶的家书看哭了",
-      "onboard_time": 1660418893,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32598,
       "num": 32598,
       "word": "收到喜欢的礼物是一种什么体验",
@@ -29673,14 +29697,6 @@
       "onboard_time": 1659898453,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20638,
-      "num": 20638,
-      "word": "重庆巴南发现3龛明清摩崖造像",
-      "onboard_time": 1660418712,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20550,
