@@ -1,7 +1,15 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660357807380,
+  "endTime": 1660360967120,
   "band_list": [
+    {
+      "raw_hot": 3815118,
+      "num": 3815118,
+      "word": "结婚4年2次鼓膜穿孔女子要丈夫道歉",
+      "onboard_time": 1660359029,
+      "rank": 0,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 3021908,
       "num": 3021908,
@@ -35,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1699467,
+      "num": 1699467,
+      "word": "王一博胡军周冬雨长空之王官宣",
+      "onboard_time": 1660359930,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1571853,
       "num": 828168,
       "word": "殷桃 美",
@@ -49,6 +65,14 @@
       "onboard_time": 1660350328,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1401190,
+      "num": 1401190,
+      "word": "王鹤棣仪态",
+      "onboard_time": 1660357109,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1324257,
@@ -83,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1090637,
+      "num": 1090637,
+      "word": "今年的奶茶被消费券承包了",
+      "onboard_time": 1660356508,
+      "rank": 7,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1013021,
       "num": 1013021,
       "word": "中央气象台连续23天发布高温预警",
@@ -91,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943852,
-      "num": 943852,
-      "word": "王鹤棣仪态",
-      "onboard_time": 1660357109,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 934984,
+      "num": 934984,
+      "word": "拉什迪遇刺",
+      "onboard_time": 1660355849,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 912147,
@@ -115,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824489,
+      "num": 824489,
+      "word": "男孩口吞灯泡拔不出来求助消防",
+      "onboard_time": 1660357466,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817305,
       "num": 817305,
       "word": "这条高铁给美国敲响警钟",
       "onboard_time": 1660318353,
       "rank": 5,
       "category": "其它"
-    },
-    {
-      "raw_hot": 815891,
-      "num": 815891,
-      "word": "今年的奶茶被消费券承包了",
-      "onboard_time": 1660356508,
-      "rank": 7,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 731865,
@@ -155,12 +187,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 614348,
-      "num": 614348,
-      "word": "拉什迪遇刺",
-      "onboard_time": 1660355849,
+      "raw_hot": 654205,
+      "num": 654205,
+      "word": "你好星期六全员和夏天绝配",
+      "onboard_time": 1660358309,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 653800,
+      "num": 653800,
+      "word": "美700亿售台武器啥概念",
+      "onboard_time": 1660359632,
+      "rank": 10,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 615138,
+      "num": 615138,
+      "word": "叙利亚称每天石油产量的83%被美盗走",
+      "onboard_time": 1660358669,
       "rank": 11,
-      "category": "社会新闻"
+      "category": "国外要闻"
     },
     {
       "raw_hot": 612936,
@@ -195,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591206,
+      "num": 411940,
+      "word": "张新成 哈克深蹲输给了哈尔滨的风",
+      "onboard_time": 1660358189,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558468,
       "num": 1638999,
       "word": "左撇子的一天怎么度过",
@@ -208,6 +264,14 @@
       "word": "赵露思拽吴磊头发",
       "onboard_time": 1660303961,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 525095,
+      "num": 525095,
+      "word": "断桥",
+      "onboard_time": 1660318234,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -243,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465291,
+      "num": 465291,
+      "word": "没有周深唱不出的cp感",
+      "onboard_time": 1660360351,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 453598,
+      "num": 453598,
+      "word": "抗战期间一小学生的日记本",
+      "onboard_time": 1660357888,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451935,
       "num": 451935,
       "word": "中国男篮热身赛不敌NCAA球队",
@@ -273,6 +353,14 @@
       "onboard_time": 1660315416,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 413862,
+      "num": 413862,
+      "word": "海口美兰机场国内客运航班全面恢复",
+      "onboard_time": 1660357708,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413836,
@@ -339,6 +427,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 349111,
+      "num": 349111,
+      "word": "胡一天张云龙分开查案超不过一集",
+      "onboard_time": 1660358611,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337546,
+      "num": 337546,
+      "word": "司机身体不适路过一车人伸出援手",
+      "onboard_time": 1660356932,
+      "rank": 31,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 330089,
       "num": 330089,
       "word": "这不是PS是真实的大好河山",
@@ -363,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325239,
+      "num": 325239,
+      "word": "左撇子真的比右撇子聪明吗",
+      "onboard_time": 1660359510,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321810,
       "num": 321810,
       "word": "中国男子暴雨中勇救韩国老夫妇",
       "onboard_time": 1660334052,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 320070,
-      "num": 320070,
-      "word": "断桥",
-      "onboard_time": 1660318234,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 318169,
@@ -401,6 +505,14 @@
       "onboard_time": 1660318591,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306468,
+      "num": 306468,
+      "word": "四川新增本土确诊5例无症状3例",
+      "onboard_time": 1660358729,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305748,
@@ -467,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284550,
+      "num": 284550,
+      "word": "杨紫沉香如屑经历8虐",
+      "onboard_time": 1660360771,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283930,
       "num": 283930,
       "word": "江苏组织1000人采样队支援海南",
@@ -489,6 +609,14 @@
       "onboard_time": 1660314996,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278650,
+      "num": 278650,
+      "word": "海南增594例确诊832例无症状",
+      "onboard_time": 1660356028,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268747,
@@ -547,20 +675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253429,
+      "num": 253429,
+      "word": "爱死机第四季",
+      "onboard_time": 1660359632,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243971,
       "num": 143314,
       "word": "张天爱穿礼服吃薯条",
       "onboard_time": 1660307676,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242170,
-      "num": 242170,
-      "word": "司机身体不适路过一车人伸出援手",
-      "onboard_time": 1660356932,
-      "rank": 31,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 241266,
@@ -587,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236477,
-      "num": 236477,
-      "word": "海南增594例确诊832例无症状",
-      "onboard_time": 1660356028,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235350,
       "num": 235350,
       "word": "中方制裁立陶宛交通与通讯部副部长",
@@ -609,6 +729,22 @@
       "onboard_time": 1660298015,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227557,
+      "num": 178010,
+      "word": "TF家族百期特辑天台音乐会",
+      "onboard_time": 1660359091,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224081,
+      "num": 177789,
+      "word": "电影断桥",
+      "onboard_time": 1660358067,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 216002,
@@ -635,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205362,
+      "num": 177533,
+      "word": "刘雨昕今晚见",
+      "onboard_time": 1660360109,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198571,
       "num": 198571,
       "word": "C罗连续18年入围金球奖候选",
@@ -648,14 +792,6 @@
       "word": "200多年前中国古画被3D实景化",
       "onboard_time": 1660342695,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188266,
-      "num": 188266,
-      "word": "男孩口吞灯泡拔不出来求助消防",
-      "onboard_time": 1660357466,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -763,11 +899,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157468,
-      "num": 157468,
-      "word": "海口美兰机场国内客运航班全面恢复",
-      "onboard_time": 1660357708,
-      "rank": 48,
+      "raw_hot": 150033,
+      "num": 150033,
+      "word": "重庆还要热好久",
+      "onboard_time": 1660358251,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
