@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660380113827,
+  "endTime": 1660382381589,
   "band_list": [
     {
       "raw_hot": 3815118,
@@ -139,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471660,
+      "num": 1471660,
+      "word": "五谷道场道歉声明",
+      "onboard_time": 1660375951,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1435272,
+      "num": 1435272,
+      "word": "断桥 剧情降智",
+      "onboard_time": 1660381530,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1416750,
       "num": 1416750,
       "word": "美媒称特朗普涉嫌违反反间谍法",
@@ -171,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1265328,
-      "num": 1265328,
-      "word": "五谷道场道歉声明",
-      "onboard_time": 1660375951,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 1263562,
+      "num": 1027823,
+      "word": "断桥 后劲",
+      "onboard_time": 1660377747,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1247450,
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 914782,
-      "num": 708859,
-      "word": "断桥 后劲",
-      "onboard_time": 1660377747,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 912147,
       "num": 912147,
       "word": "作者就书里称中秋节是洋节致歉",
@@ -313,6 +321,14 @@
       "onboard_time": 1660370250,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 872040,
+      "num": 594357,
+      "word": "王一博官宣加盟微博电影之夜",
+      "onboard_time": 1660380150,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 850052,
@@ -347,6 +363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 743486,
+      "num": 159332,
+      "word": "程少商是出嫁不是出家",
+      "onboard_time": 1660382369,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 737683,
       "num": 632585,
       "word": "BLACKPINK回归预告怼脸镜头",
@@ -369,6 +393,14 @@
       "onboard_time": 1660326437,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 708124,
+      "num": 587704,
+      "word": "特朗普若被定罪最高可获10年监禁",
+      "onboard_time": 1660381051,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 697040,
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628541,
+      "num": 584910,
+      "word": "小伙考上清华获奖捐给母校30余万",
+      "onboard_time": 1660380570,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 612936,
       "num": 612936,
       "word": "重庆的猪都中暑了",
@@ -483,12 +523,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561248,
+      "num": 561248,
+      "word": "时代少年团为师兄王俊凯断桥打call",
+      "onboard_time": 1660380692,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558468,
       "num": 1638999,
       "word": "左撇子的一天怎么度过",
       "onboard_time": 1660349008,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542797,
+      "num": 542797,
+      "word": "连续高温女子患上情绪中暑",
+      "onboard_time": 1660376970,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542121,
+      "num": 542121,
+      "word": "吴磊凌不疑营业烤串店",
+      "onboard_time": 1660381890,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 538928,
@@ -539,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510806,
+      "num": 369051,
+      "word": "虞书欣看王鹤棣的表情",
+      "onboard_time": 1660379792,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506610,
       "num": 506610,
       "word": "这就是街舞",
@@ -568,6 +640,14 @@
       "word": "王一博新片造型气宇轩昂",
       "onboard_time": 1660378889,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 480570,
+      "num": 349223,
+      "word": "二十不惑2徐梦洁谢彬彬cp感",
+      "onboard_time": 1660378708,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -601,14 +681,6 @@
       "onboard_time": 1660372889,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 461897,
-      "num": 337765,
-      "word": "二十不惑2徐梦洁谢彬彬cp感",
-      "onboard_time": 1660378708,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 458810,
@@ -707,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414563,
+      "num": 414563,
+      "word": "大叔热晕因没钱不就医众人接力救助",
+      "onboard_time": 1660376551,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 414134,
       "num": 414134,
       "word": "成毅舞剑",
@@ -779,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395439,
-      "num": 395439,
-      "word": "大叔热晕因没钱不就医众人接力救助",
-      "onboard_time": 1660376551,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 393196,
       "num": 393196,
       "word": "四川人快热出幻觉了",
@@ -835,6 +907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 382175,
+      "num": 382175,
+      "word": "上海常态化核酸检测免费至9月30日",
+      "onboard_time": 1660381530,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373203,
       "num": 1822194,
       "word": "眼妆卸不干净或导致干眼症",
@@ -849,14 +929,6 @@
       "onboard_time": 1660376009,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366865,
-      "num": 366865,
-      "word": "连续高温女子患上情绪中暑",
-      "onboard_time": 1660376970,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365930,
@@ -923,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349201,
+      "num": 349201,
+      "word": "强制开机失败的小猫",
+      "onboard_time": 1660377390,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 349111,
       "num": 349111,
       "word": "胡一天张云龙分开查案超不过一集",
@@ -937,6 +1017,14 @@
       "onboard_time": 1660369529,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347077,
+      "num": 347077,
+      "word": "排球少年",
+      "onboard_time": 1660381709,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 345712,
@@ -955,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341481,
+      "num": 341481,
+      "word": "河北怀来发现初筛阳性人员",
+      "onboard_time": 1660380752,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339720,
       "num": 247001,
       "word": "断桥票房破5000万",
       "onboard_time": 1660374571,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338011,
+      "num": 299376,
+      "word": "李汶翰说我就是祖国的花朵",
+      "onboard_time": 1660381769,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 337385,
@@ -993,14 +1097,6 @@
       "onboard_time": 1660350088,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 329292,
-      "num": 329292,
-      "word": "强制开机失败的小猫",
-      "onboard_time": 1660377390,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 328749,
@@ -1051,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319070,
+      "num": 319070,
+      "word": "重庆33岁青年救落水2人后牺牲",
+      "onboard_time": 1660378169,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 318169,
       "num": 258349,
       "word": "玉骨遥",
@@ -1065,14 +1169,6 @@
       "onboard_time": 1660319373,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307035,
-      "num": 164330,
-      "word": "虞书欣看王鹤棣的表情",
-      "onboard_time": 1660379792,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 306609,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1660340413,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301992,
+      "num": 296436,
+      "word": "凤凰传奇叫盛宇长沙刘德华",
+      "onboard_time": 1660382071,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 290728,
@@ -1177,14 +1281,6 @@
       "onboard_time": 1660364734,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 284694,
-      "num": 284694,
-      "word": "重庆33岁青年救落水2人后牺牲",
-      "onboard_time": 1660378169,
-      "rank": 37,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 283930,
@@ -1307,11 +1403,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251360,
+      "num": 251360,
+      "word": "EDGM三年之约达成",
+      "onboard_time": 1660382251,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248091,
       "num": 248091,
       "word": "敦煌实施全域24小时静默管理",
       "onboard_time": 1660372287,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245774,
+      "num": 245774,
+      "word": "多例有敦煌旅居史游客离敦后确诊",
+      "onboard_time": 1660379731,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1353,6 +1465,14 @@
       "onboard_time": 1660354352,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239764,
+      "num": 239764,
+      "word": "85年前淞沪会战爆发",
+      "onboard_time": 1660381591,
+      "rank": 37,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 238745,
@@ -1499,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197783,
+      "num": 197783,
+      "word": "烟草缉私队员被人驾车拖行不幸离世",
+      "onboard_time": 1660382010,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 197611,
       "num": 197611,
       "word": "200多年前中国古画被3D实景化",
@@ -1611,6 +1739,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 160335,
+      "num": 160335,
+      "word": "郑智担任广州队主教练",
+      "onboard_time": 1660379851,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160320,
       "num": 160320,
       "word": "江苏连续3天发布高温红色预警",
@@ -1641,14 +1777,6 @@
       "onboard_time": 1660363709,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 150491,
-      "num": 150491,
-      "word": "郑智担任广州队主教练",
-      "onboard_time": 1660379851,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 148720,
@@ -1704,14 +1832,6 @@
       "word": "10省份局地可超过42℃",
       "onboard_time": 1660351591,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131543,
-      "num": 131543,
-      "word": "多例有敦煌旅居史游客离敦后确诊",
-      "onboard_time": 1660379731,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
