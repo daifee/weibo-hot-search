@@ -1,7 +1,15 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660390436495,
+  "endTime": 1660394186643,
   "band_list": [
+    {
+      "raw_hot": 4071241,
+      "num": 1543762,
+      "word": "吴磊主动牵手赵露思",
+      "onboard_time": 1660392330,
+      "rank": 3,
+      "category": "影视"
+    },
     {
       "raw_hot": 4065516,
       "num": 4065516,
@@ -19,6 +27,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3722254,
+      "num": 3722254,
+      "word": "彭州山洪",
+      "onboard_time": 1660385008,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 3204639,
       "num": 3204639,
       "word": "急寻TV9824航班Z324列车乘客",
@@ -33,14 +49,6 @@
       "onboard_time": 1660349486,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2663522,
-      "num": 2663522,
-      "word": "彭州山洪",
-      "onboard_time": 1660385008,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2642217,
@@ -193,6 +201,14 @@
       "onboard_time": 1660375951,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1429167,
+      "num": 1429167,
+      "word": "四川彭州突发山洪致4死9伤",
+      "onboard_time": 1660392149,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1416750,
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 720234,
+      "num": 572938,
+      "word": "时代少年团新歌渐暖绝配首秀",
+      "onboard_time": 1660392750,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 708725,
       "num": 597090,
       "word": "断桥吻戏",
@@ -561,6 +585,14 @@
       "onboard_time": 1660379191,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 637755,
+      "num": 523841,
+      "word": "西藏本次疫情以无症状感染为主",
+      "onboard_time": 1660390348,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635083,
@@ -779,6 +811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 495037,
+      "num": 325794,
+      "word": "王俊凯说断桥吻戏我又不是主动的那个",
+      "onboard_time": 1660393587,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489442,
       "num": 225641,
       "word": "王一博陈宇五集喊了16次报告",
@@ -825,6 +865,14 @@
       "onboard_time": 1660365695,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475810,
+      "num": 475810,
+      "word": "亲历者讲述彭州山洪现场",
+      "onboard_time": 1660391010,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465291,
@@ -913,6 +961,14 @@
       "onboard_time": 1660386089,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 430140,
+      "num": 330024,
+      "word": "你好星期六",
+      "onboard_time": 1660391787,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 428993,
@@ -1131,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385790,
+      "num": 235813,
+      "word": "网友苏州偶遇李易峰",
+      "onboard_time": 1660392449,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 383622,
       "num": 383622,
       "word": "特警28楼公主抱8秒极限救人",
@@ -1160,6 +1224,14 @@
       "word": "记住我叫峰哥",
       "onboard_time": 1660376009,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367122,
+      "num": 233558,
+      "word": "小兰花东方青苍抱头落泪",
+      "onboard_time": 1660390289,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1363,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326225,
-      "num": 196340,
-      "word": "小兰花东方青苍抱头落泪",
-      "onboard_time": 1660390289,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325374,
       "num": 155254,
       "word": "你被人工智能坑过吗",
@@ -1443,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308813,
+      "num": 176176,
+      "word": "吴宣仪赢了又好像没赢",
+      "onboard_time": 1660390889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306609,
       "num": 185897,
       "word": "中餐厅6好看吗",
@@ -1504,6 +1576,14 @@
       "word": "想去玩具工厂上班",
       "onboard_time": 1660382971,
       "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 293116,
+      "num": 293116,
+      "word": "猫猫在家等主人下班的样子",
+      "onboard_time": 1660389867,
+      "rank": 41,
       "category": "幽默,情感"
     },
     {
@@ -1577,6 +1657,14 @@
       "onboard_time": 1660329433,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281721,
+      "num": 281721,
+      "word": "FPX晋级季后赛",
+      "onboard_time": 1660392988,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 279922,
@@ -1683,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248934,
+      "num": 248934,
+      "word": "中国男排vs韩国男排",
+      "onboard_time": 1660391849,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248091,
       "num": 248091,
       "word": "敦煌实施全域24小时静默管理",
@@ -1729,6 +1825,22 @@
       "onboard_time": 1660352911,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240962,
+      "num": 240962,
+      "word": "彭州未撤离游客被卷入山洪",
+      "onboard_time": 1660393890,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 240710,
+      "num": 240710,
+      "word": "原神",
+      "onboard_time": 1660389569,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 240363,
@@ -1817,6 +1929,14 @@
       "onboard_time": 1660358067,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218393,
+      "num": 218393,
+      "word": "每家店都有一位猫师傅",
+      "onboard_time": 1660393110,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 217544,
@@ -1921,14 +2041,6 @@
       "onboard_time": 1660342695,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191314,
-      "num": 191314,
-      "word": "猫猫在家等主人下班的样子",
-      "onboard_time": 1660389867,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 186204,
@@ -2075,6 +2187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 151250,
+      "num": 151250,
+      "word": "还以为在看动画片",
+      "onboard_time": 1660390830,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148720,
       "num": 148720,
       "word": "特朗普庄园上空惊现6个HA",
@@ -2099,11 +2219,27 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 147988,
+      "num": 147988,
+      "word": "彭州山洪已致4人死亡9人受伤",
+      "onboard_time": 1660393890,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 146191,
       "num": 146191,
       "word": "新疆新增235例阳性",
       "onboard_time": 1660347682,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144587,
+      "num": 144587,
+      "word": "地面太烫蜗牛开启急速模式",
+      "onboard_time": 1660393770,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2129,14 +2265,6 @@
       "onboard_time": 1660369709,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 134155,
-      "num": 134155,
-      "word": "西藏本次疫情以无症状感染为主",
-      "onboard_time": 1660390348,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134009,
@@ -2273,6 +2401,14 @@
       "onboard_time": 1660340172,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 8604,
+      "num": 502563,
+      "word": "原神3.0全球直播",
+      "onboard_time": 1660392029,
+      "rank": 14,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

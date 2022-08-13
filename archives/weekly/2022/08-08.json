@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660390436495,
+  "endTime": 1660394186643,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4071241,
+      "num": 1543762,
+      "word": "吴磊主动牵手赵露思",
+      "onboard_time": 1660392330,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 4065516,
       "num": 4065516,
       "word": "断桥 剧情降智",
@@ -81,6 +89,14 @@
       "onboard_time": 1660278638,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3722254,
+      "num": 3722254,
+      "word": "彭州山洪",
+      "onboard_time": 1660385008,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3686698,
@@ -273,14 +289,6 @@
       "onboard_time": 1660030715,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2663522,
-      "num": 2663522,
-      "word": "彭州山洪",
-      "onboard_time": 1660385008,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2642217,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1660018121,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1429167,
+      "num": 1429167,
+      "word": "四川彭州突发山洪致4死9伤",
+      "onboard_time": 1660392149,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1426544,
@@ -3059,6 +3075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 720234,
+      "num": 572938,
+      "word": "时代少年团新歌渐暖绝配首秀",
+      "onboard_time": 1660392750,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 717336,
       "num": 717336,
       "word": "蔡卓妍自己剪的刘海",
@@ -3576,6 +3600,14 @@
       "word": "女孩耗时2个月做千里江山图手镯",
       "onboard_time": 1660311216,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637755,
+      "num": 523841,
+      "word": "西藏本次疫情以无症状感染为主",
+      "onboard_time": 1660390348,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4755,6 +4787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 495037,
+      "num": 325794,
+      "word": "王俊凯说断桥吻戏我又不是主动的那个",
+      "onboard_time": 1660393587,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491804,
       "num": 336697,
       "word": "程少商含泪吻住凌不疑",
@@ -5017,6 +5057,14 @@
       "onboard_time": 1660365695,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475810,
+      "num": 475810,
+      "word": "亲历者讲述彭州山洪现场",
+      "onboard_time": 1660391010,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474939,
@@ -5641,6 +5689,14 @@
       "onboard_time": 1660297053,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430140,
+      "num": 330024,
+      "word": "你好星期六",
+      "onboard_time": 1660391787,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 430045,
@@ -6515,6 +6571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385790,
+      "num": 235813,
+      "word": "网友苏州偶遇李易峰",
+      "onboard_time": 1660392449,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 385721,
       "num": 385721,
       "word": "西藏日喀则全域静默管理",
@@ -7033,6 +7097,14 @@
       "onboard_time": 1660057478,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 367122,
+      "num": 233558,
+      "word": "小兰花东方青苍抱头落泪",
+      "onboard_time": 1660390289,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 366916,
@@ -8035,14 +8107,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 326225,
-      "num": 196340,
-      "word": "小兰花东方青苍抱头落泪",
-      "onboard_time": 1660390289,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325677,
       "num": 281560,
       "word": "民国大侦探",
@@ -8427,6 +8491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308813,
+      "num": 176176,
+      "word": "吴宣仪赢了又好像没赢",
+      "onboard_time": 1660390889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308587,
       "num": 308587,
       "word": "第二次拥抱姐姐们全员对抗家暴男",
@@ -8763,6 +8835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293116,
+      "num": 293116,
+      "word": "猫猫在家等主人下班的样子",
+      "onboard_time": 1660389867,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 292797,
       "num": 292797,
       "word": "工人高空修管道被人泼水还用锅铲捅",
@@ -9001,6 +9081,14 @@
       "onboard_time": 1660260504,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281721,
+      "num": 281721,
+      "word": "FPX晋级季后赛",
+      "onboard_time": 1660392988,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 281229,
@@ -9683,6 +9771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248934,
+      "num": 248934,
+      "word": "中国男排vs韩国男排",
+      "onboard_time": 1660391849,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248550,
       "num": 248550,
       "word": "痞子殿下笑点有多密集",
@@ -9939,12 +10035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240962,
+      "num": 240962,
+      "word": "彭州未撤离游客被卷入山洪",
+      "onboard_time": 1660393890,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 240798,
       "num": 240798,
       "word": "TangoZ说向前冲最容易出圈的是落水",
       "onboard_time": 1659942695,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240710,
+      "num": 240710,
+      "word": "原神",
+      "onboard_time": 1660389569,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 240363,
@@ -10467,6 +10579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 218393,
+      "num": 218393,
+      "word": "每家店都有一位猫师傅",
+      "onboard_time": 1660393110,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217912,
       "num": 217912,
       "word": "两栖合成部队闽南海域突击演练",
@@ -10913,14 +11033,6 @@
       "onboard_time": 1659953855,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191314,
-      "num": 191314,
-      "word": "猫猫在家等主人下班的样子",
-      "onboard_time": 1660389867,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 191261,
@@ -11651,6 +11763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151250,
+      "num": 151250,
+      "word": "还以为在看动画片",
+      "onboard_time": 1660390830,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150464,
       "num": 150464,
       "word": "乘客翻入北京地铁2号线轨道身亡",
@@ -11707,6 +11827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147988,
+      "num": 147988,
+      "word": "彭州山洪已致4人死亡9人受伤",
+      "onboard_time": 1660393890,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 147894,
       "num": 1815082,
       "word": "看见锦绣山河",
@@ -11745,6 +11873,14 @@
       "onboard_time": 1659963396,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144587,
+      "num": 144587,
+      "word": "地面太烫蜗牛开启急速模式",
+      "onboard_time": 1660393770,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144150,
@@ -11848,14 +11984,6 @@
       "word": "小男孩因主角牺牲嚎啕大哭响彻影院",
       "onboard_time": 1660210838,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134155,
-      "num": 134155,
-      "word": "西藏本次疫情以无症状感染为主",
-      "onboard_time": 1660390348,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -12561,6 +12689,14 @@
       "onboard_time": 1659904391,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8604,
+      "num": 502563,
+      "word": "原神3.0全球直播",
+      "onboard_time": 1660392029,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 4621,
