@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660360967120,
+  "endTime": 1660361617668,
   "band_list": [
     {
       "raw_hot": 3815118,
@@ -115,6 +115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1052370,
+      "num": 1052370,
+      "word": "美700亿售台武器啥概念",
+      "onboard_time": 1660359632,
+      "rank": 10,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 1013021,
       "num": 1013021,
       "word": "中央气象台连续23天发布高温预警",
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897912,
+      "num": 897912,
+      "word": "男孩口吞灯泡拔不出来求助消防",
+      "onboard_time": 1660357466,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850052,
       "num": 850052,
       "word": "戚薇打假品牌侵权反被告",
       "onboard_time": 1660347742,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 824489,
-      "num": 824489,
-      "word": "男孩口吞灯泡拔不出来求助消防",
-      "onboard_time": 1660357466,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 817305,
@@ -195,16 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 653800,
-      "num": 653800,
-      "word": "美700亿售台武器啥概念",
-      "onboard_time": 1660359632,
-      "rank": 10,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 615138,
-      "num": 615138,
+      "raw_hot": 634342,
+      "num": 634342,
       "word": "叙利亚称每天石油产量的83%被美盗走",
       "onboard_time": 1660358669,
       "rank": 11,
@@ -259,19 +259,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554596,
+      "num": 554596,
+      "word": "断桥",
+      "onboard_time": 1660318234,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 538928,
       "num": 404069,
       "word": "赵露思拽吴磊头发",
       "onboard_time": 1660303961,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 525095,
-      "num": 525095,
-      "word": "断桥",
-      "onboard_time": 1660318234,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -281,6 +281,14 @@
       "onboard_time": 1660312958,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508006,
+      "num": 508006,
+      "word": "杨紫沉香如屑经历8虐",
+      "onboard_time": 1660360771,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 506610,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408529,
+      "num": 408529,
+      "word": "左撇子真的比右撇子聪明吗",
+      "onboard_time": 1660359510,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 408314,
       "num": 354762,
       "word": "黄晓明说今天是我愿意被左右的一天",
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354011,
+      "num": 354011,
+      "word": "司机身体不适路过一车人伸出援手",
+      "onboard_time": 1660356932,
+      "rank": 31,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 353163,
       "num": 258375,
       "word": "ESO组合模仿行为侵权",
@@ -433,14 +457,6 @@
       "onboard_time": 1660358611,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337546,
-      "num": 337546,
-      "word": "司机身体不适路过一车人伸出援手",
-      "onboard_time": 1660356932,
-      "rank": 31,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 330089,
@@ -467,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325239,
-      "num": 325239,
-      "word": "左撇子真的比右撇子聪明吗",
-      "onboard_time": 1660359510,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 324118,
+      "num": 254068,
+      "word": "张雨绮担任北京电影节创投终审评委",
+      "onboard_time": 1660361251,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 321810,
@@ -579,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284550,
-      "num": 284550,
-      "word": "杨紫沉香如屑经历8虐",
-      "onboard_time": 1660360771,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283930,
       "num": 283930,
       "word": "江苏组织1000人采样队支援海南",
@@ -681,6 +689,14 @@
       "onboard_time": 1660359632,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249866,
+      "num": 249866,
+      "word": "女孩被困厕所因1份外卖得救",
+      "onboard_time": 1660361014,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243971,
@@ -899,8 +915,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150033,
-      "num": 150033,
+      "raw_hot": 156175,
+      "num": 156175,
       "word": "重庆还要热好久",
       "onboard_time": 1660358251,
       "rank": 47,

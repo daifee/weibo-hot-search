@@ -1,0 +1,410 @@
+{
+  "runTime": 1660361617668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3490929,
+        "num": 3490929,
+        "word": "结婚4年2次鼓膜穿孔女子要丈夫道歉",
+        "onboard_time": 1660359029,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1465280,
+        "num": 1465280,
+        "word": "王一博胡军周冬雨长空之王官宣",
+        "onboard_time": 1660359930,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534852,
+        "num": 1374318,
+        "word": "左撇子的一天怎么度过",
+        "onboard_time": 1660349008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357271,
+        "num": 1357271,
+        "word": "新加坡将禁止奶茶果汁等广告宣传",
+        "onboard_time": 1660349486,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326063,
+        "num": 1326063,
+        "word": "王鹤棣仪态",
+        "onboard_time": 1660357109,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1052370,
+        "num": 1052370,
+        "word": "美700亿售台武器啥概念",
+        "onboard_time": 1660359632,
+        "rank": 5,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 978374,
+        "num": 978374,
+        "word": "今年的奶茶被消费券承包了",
+        "onboard_time": 1660356508,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 897912,
+        "num": 897912,
+        "word": "男孩口吞灯泡拔不出来求助消防",
+        "onboard_time": 1660357466,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781985,
+        "num": 781985,
+        "word": "拉什迪遇刺",
+        "onboard_time": 1660355849,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658094,
+        "num": 658094,
+        "word": "缴满15年社保能提前退休吗",
+        "onboard_time": 1660349907,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634342,
+        "num": 634342,
+        "word": "叙利亚称每天石油产量的83%被美盗走",
+        "onboard_time": 1660358669,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 589007,
+        "num": 589007,
+        "word": "你好星期六全员和夏天绝配",
+        "onboard_time": 1660358309,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564817,
+        "num": 564817,
+        "word": "作者就书里称中秋节是洋节致歉",
+        "onboard_time": 1660351469,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554596,
+        "num": 554596,
+        "word": "断桥",
+        "onboard_time": 1660318234,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515602,
+        "num": 515602,
+        "word": "美媒称特朗普涉嫌违反反间谍法",
+        "onboard_time": 1660350328,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 508006,
+        "num": 508006,
+        "word": "杨紫沉香如屑经历8虐",
+        "onboard_time": 1660360771,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482211,
+        "num": 482211,
+        "word": "一只老鹰在南京中暑坠江",
+        "onboard_time": 1660341432,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450571,
+        "num": 450571,
+        "word": "抗战期间一小学生的日记本",
+        "onboard_time": 1660357888,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436932,
+        "num": 436932,
+        "word": "戚薇打假品牌侵权反被告",
+        "onboard_time": 1660347742,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408529,
+        "num": 408529,
+        "word": "左撇子真的比右撇子聪明吗",
+        "onboard_time": 1660359510,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490078,
+        "num": 401639,
+        "word": "张新成 哈克深蹲输给了哈尔滨的风",
+        "onboard_time": 1660358189,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436710,
+        "num": 397556,
+        "word": "没有周深唱不出的cp感",
+        "onboard_time": 1660360351,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393401,
+        "num": 393401,
+        "word": "重庆的猪都中暑了",
+        "onboard_time": 1660323501,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388826,
+        "num": 388826,
+        "word": "海口美兰机场国内客运航班全面恢复",
+        "onboard_time": 1660357708,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354011,
+        "num": 354011,
+        "word": "司机身体不适路过一车人伸出援手",
+        "onboard_time": 1660356932,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 328115,
+        "num": 328115,
+        "word": "胡一天张云龙分开查案超不过一集",
+        "onboard_time": 1660358611,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291697,
+        "num": 291697,
+        "word": "四川新增本土确诊5例无症状3例",
+        "onboard_time": 1660358729,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282644,
+        "num": 282644,
+        "word": "警方回应工人高层作业被多次泼水",
+        "onboard_time": 1660355548,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269310,
+        "num": 269310,
+        "word": "中国男篮热身赛不敌NCAA球队",
+        "onboard_time": 1660354051,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258048,
+        "num": 258048,
+        "word": "海南增594例确诊832例无症状",
+        "onboard_time": 1660356028,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324118,
+        "num": 254068,
+        "word": "张雨绮担任北京电影节创投终审评委",
+        "onboard_time": 1660361251,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313498,
+        "num": 252635,
+        "word": "殷桃 美",
+        "onboard_time": 1660319730,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283648,
+        "num": 252266,
+        "word": "八月热播剧像满汉全席",
+        "onboard_time": 1660326437,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249866,
+        "num": 249866,
+        "word": "女孩被困厕所因1份外卖得救",
+        "onboard_time": 1660361014,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249650,
+        "num": 249650,
+        "word": "爱死机第四季",
+        "onboard_time": 1660359632,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231214,
+        "num": 231214,
+        "word": "店员给大爷送饭被偷走手机",
+        "onboard_time": 1660353329,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213653,
+        "num": 213653,
+        "word": "突然就明白了中元节的意义",
+        "onboard_time": 1660346000,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200961,
+        "num": 200961,
+        "word": "景区垃圾桶起火男孩小便救火",
+        "onboard_time": 1660350447,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313740,
+        "num": 200407,
+        "word": "河南一地发不起司机工资公交停运",
+        "onboard_time": 1660351170,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175168,
+        "num": 175168,
+        "word": "广东增本土确诊12例",
+        "onboard_time": 1660357348,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229643,
+        "num": 174024,
+        "word": "小兰花人设",
+        "onboard_time": 1660348405,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195052,
+        "num": 173710,
+        "word": "电影断桥",
+        "onboard_time": 1660358067,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172322,
+        "num": 172322,
+        "word": "浙江鼓励子女3岁内家长居家办公",
+        "onboard_time": 1660312958,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167375,
+        "num": 167375,
+        "word": "南京苏州大幅降低首付比例",
+        "onboard_time": 1660353269,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 164843,
+        "num": 164843,
+        "word": "今年夏天为何会这么热",
+        "onboard_time": 1660350749,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156175,
+        "num": 156175,
+        "word": "重庆还要热好久",
+        "onboard_time": 1660358251,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152286,
+        "num": 152286,
+        "word": "这不是PS是真实的大好河山",
+        "onboard_time": 1660352789,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142878,
+        "num": 142878,
+        "word": "上海新增1例本土确诊3例本土无症状",
+        "onboard_time": 1660354290,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139370,
+        "num": 139370,
+        "word": "这狗是真爱吃饭啊",
+        "onboard_time": 1660353869,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112873,
+        "num": 112873,
+        "word": "四川人快热出幻觉了",
+        "onboard_time": 1660318296,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#时代总是把历史责任赋予青年#"
+    }
+  }
+}
