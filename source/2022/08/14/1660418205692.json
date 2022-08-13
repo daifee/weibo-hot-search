@@ -1,0 +1,410 @@
+{
+  "runTime": 1660418205692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 432679,
+        "num": 432679,
+        "word": "曼联",
+        "onboard_time": 1660404092,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407817,
+        "num": 407817,
+        "word": "彭州未撤离游客被卷入山洪",
+        "onboard_time": 1660393890,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 47595,
+        "num": 322453,
+        "word": "中国创造相当于地球磁场90多万倍的磁场",
+        "onboard_time": 1660384647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293689,
+        "num": 293689,
+        "word": "孕妇每天1杯奶茶喝成奶茶血",
+        "onboard_time": 1660399115,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221578,
+        "num": 221578,
+        "word": "周冬雨说心疼马思纯演的晓雨",
+        "onboard_time": 1660402713,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211955,
+        "num": 211955,
+        "word": "ITZY你是我的姐",
+        "onboard_time": 1660411817,
+        "rank": 5,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 209577,
+        "num": 209577,
+        "word": "亲历者称只差5秒就被山洪冲走",
+        "onboard_time": 1660403253,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 185170,
+        "num": 185170,
+        "word": "吴磊主动牵手赵露思",
+        "onboard_time": 1660392330,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183374,
+        "num": 183374,
+        "word": "爱马仕回应16.5万自行车已抢光",
+        "onboard_time": 1660399475,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 169237,
+        "num": 169237,
+        "word": "四川8岁男孩大桥下失联已11天",
+        "onboard_time": 1660408945,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 180282,
+        "num": 161607,
+        "word": "尹正买西瓜",
+        "onboard_time": 1660413316,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128461,
+        "num": 128461,
+        "word": "翟潇闻因为颜值输了比赛",
+        "onboard_time": 1660415713,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90145,
+        "num": 90145,
+        "word": "不难看出 马丽是沈腾唯一的姐",
+        "onboard_time": 1660395632,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 86933,
+        "num": 86933,
+        "word": "附近群众称砸中路人跳楼者实为50多岁男性",
+        "onboard_time": 1660400256,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 77202,
+        "num": 77202,
+        "word": "游乐园又多了一个伤心的人",
+        "onboard_time": 1660410321,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 71243,
+        "num": 71243,
+        "word": "特朗普若被定罪最高可获10年监禁",
+        "onboard_time": 1660381051,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 68120,
+        "num": 68120,
+        "word": "龙漕沟系野生网红打卡地",
+        "onboard_time": 1660402595,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67454,
+        "num": 67454,
+        "word": "看不懂但大为震撼的情侣行为",
+        "onboard_time": 1660404872,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62180,
+        "num": 62180,
+        "word": "彭州山洪",
+        "onboard_time": 1660385008,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 61810,
+        "num": 61810,
+        "word": "原神",
+        "onboard_time": 1660389569,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87847,
+        "num": 61772,
+        "word": "王祖蓝北京国际电影节开场表演",
+        "onboard_time": 1660416613,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88386,
+        "num": 61598,
+        "word": "水千丞 偶企",
+        "onboard_time": 1660401095,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78062,
+        "num": 61557,
+        "word": "张翰朱梓骁合体直播",
+        "onboard_time": 1660398331,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66638,
+        "num": 61460,
+        "word": "王鹤棣东方青苍哭戏",
+        "onboard_time": 1660395451,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61387,
+        "num": 61387,
+        "word": "这样的心态真的是人间清醒",
+        "onboard_time": 1660399535,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 39291,
+        "num": 39291,
+        "word": "大爷丢8000元找回后要求民警花光",
+        "onboard_time": 1660386271,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37833,
+        "num": 37833,
+        "word": "LPL季后赛",
+        "onboard_time": 1660402535,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37483,
+        "num": 37483,
+        "word": "西藏本次疫情以无症状感染为主",
+        "onboard_time": 1660390348,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37273,
+        "num": 37273,
+        "word": "地面太烫蜗牛开启急速模式",
+        "onboard_time": 1660393770,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35087,
+        "num": 35087,
+        "word": "小鱼洞",
+        "onboard_time": 1660394968,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 58359,
+        "num": 33109,
+        "word": "周深游戏ID礼貌嘛少管我",
+        "onboard_time": 1660409542,
+        "rank": 30,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 56431,
+        "num": 30960,
+        "word": "能让两百亿影帝主动扇扇子的女人",
+        "onboard_time": 1660401933,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 52989,
+        "num": 29874,
+        "word": "谢霆锋说王俊凯对自己够狠",
+        "onboard_time": 1660417093,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27520,
+        "num": 27520,
+        "word": "我国创下世界最强稳态磁场纪录",
+        "onboard_time": 1660385008,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 27282,
+        "num": 27282,
+        "word": "三亚7708名滞留游客已搭飞机返程",
+        "onboard_time": 1660388188,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25893,
+        "num": 25893,
+        "word": "彭州山洪因短时强降雨",
+        "onboard_time": 1660395090,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24751,
+        "num": 24751,
+        "word": "食物语",
+        "onboard_time": 1660394788,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22635,
+        "num": 22635,
+        "word": "每家店都有一位猫师傅",
+        "onboard_time": 1660393110,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21855,
+        "num": 21855,
+        "word": "空降兵携军犬登上运20跳伞",
+        "onboard_time": 1660399655,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 21264,
+        "num": 21264,
+        "word": "为何要尽量少喝奶茶",
+        "onboard_time": 1660372230,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46064,
+        "num": 21224,
+        "word": "疑商夫妇",
+        "onboard_time": 1660407324,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42439,
+        "num": 21132,
+        "word": "央视镜头下的何洛洛",
+        "onboard_time": 1660398452,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20857,
+        "num": 20857,
+        "word": "喝含糖饮料易导致尿酸升高",
+        "onboard_time": 1660384590,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20673,
+        "num": 20673,
+        "word": "给无毛猫搓澡是什么体验",
+        "onboard_time": 1660404390,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 19436,
+        "num": 19436,
+        "word": "男子买7斤螃蟹少3斤商家被罚3万",
+        "onboard_time": 1660375050,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18247,
+        "num": 18247,
+        "word": "JackeyLove300胜",
+        "onboard_time": 1660401455,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17943,
+        "num": 17943,
+        "word": "厦门在区域核酸筛查中发现1例确诊",
+        "onboard_time": 1660395090,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14123,
+        "num": 14123,
+        "word": "哈兰德助攻",
+        "onboard_time": 1660406727,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13019,
+        "num": 13019,
+        "word": "新疆库尔勒临时性静态管理",
+        "onboard_time": 1660395753,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9471,
+        "num": 9471,
+        "word": "中国男排发球",
+        "onboard_time": 1660400736,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#卫星图看钢铁厂十年空气变化#"
+    }
+  }
+}
