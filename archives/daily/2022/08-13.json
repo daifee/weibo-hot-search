@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660387153152,
+  "endTime": 1660389437870,
   "band_list": [
     {
       "raw_hot": 4065516,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2378001,
+      "num": 2378001,
+      "word": "彭州山洪",
+      "onboard_time": 1660385008,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2240404,
       "num": 2240404,
       "word": "特朗普若被定罪最高可获10年监禁",
@@ -91,14 +99,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1852244,
-      "num": 1852244,
-      "word": "彭州山洪",
-      "onboard_time": 1660385008,
-      "rank": 3,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1825376,
       "num": 1825376,
       "word": "何同学新视频",
@@ -121,6 +121,14 @@
       "onboard_time": 1660375050,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1758908,
+      "num": 1758908,
+      "word": "李玉马思纯回应断桥女主不报警",
+      "onboard_time": 1660387889,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1754999,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1007323,
+      "num": 1007323,
+      "word": "龙漕沟",
+      "onboard_time": 1660386389,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 987384,
       "num": 987384,
       "word": "小伙考上清华获奖捐给母校30余万",
@@ -352,6 +368,14 @@
       "word": "拉什迪遇刺",
       "onboard_time": 1660355849,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927385,
+      "num": 927385,
+      "word": "大爷丢8000元找回后要求民警花光",
+      "onboard_time": 1660386271,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -451,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 708725,
+      "num": 597090,
+      "word": "断桥吻戏",
+      "onboard_time": 1660387290,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 697040,
       "num": 510276,
       "word": "杨超越六连拒绝李诞",
@@ -481,6 +513,14 @@
       "onboard_time": 1660346000,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 659031,
+      "num": 659031,
+      "word": "喝含糖饮料易导致尿酸升高",
+      "onboard_time": 1660384590,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654205,
@@ -603,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552047,
+      "num": 316406,
+      "word": "陈宇妻管严",
+      "onboard_time": 1660389207,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542797,
       "num": 542797,
       "word": "连续高温女子患上情绪中暑",
       "onboard_time": 1660376970,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539420,
+      "num": 539420,
+      "word": "Hero状态",
+      "onboard_time": 1660387467,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 538928,
@@ -683,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 506735,
-      "num": 506735,
-      "word": "喝含糖饮料易导致尿酸升高",
-      "onboard_time": 1660384590,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506610,
       "num": 506610,
       "word": "这就是街舞",
@@ -699,12 +747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503975,
+      "num": 315183,
+      "word": "刘耀文看的是恐怖片吗",
+      "onboard_time": 1660387949,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 497962,
       "num": 497962,
       "word": "年轻人不喜欢吃小龙虾了吗",
       "onboard_time": 1660310377,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 489442,
+      "num": 225641,
+      "word": "王一博陈宇五集喊了16次报告",
+      "onboard_time": 1660388608,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 486562,
@@ -851,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422699,
+      "num": 422699,
+      "word": "我国创下世界最强稳态磁场纪录",
+      "onboard_time": 1660385008,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 421500,
       "num": 421500,
       "word": "霸总身上的香味到底是什么香",
@@ -915,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413115,
+      "num": 225150,
+      "word": "翟潇闻遇到水果刺客",
+      "onboard_time": 1660387768,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408314,
       "num": 354762,
       "word": "黄晓明说今天是我愿意被左右的一天",
@@ -947,12 +1027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401300,
-      "num": 401300,
-      "word": "龙漕沟",
-      "onboard_time": 1660386389,
-      "rank": 17,
-      "category": "社会负面"
+      "raw_hot": 402816,
+      "num": 224712,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1660387050,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 398859,
@@ -969,6 +1049,14 @@
       "onboard_time": 1660384288,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 393370,
+      "num": 393370,
+      "word": "这才是真正的下饭界扛把子",
+      "onboard_time": 1660388428,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 393196,
@@ -1137,6 +1225,14 @@
       "onboard_time": 1660358611,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348656,
+      "num": 1875053,
+      "word": "中国创造相当于地球磁场90多万倍的磁场",
+      "onboard_time": 1660384647,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 348307,
@@ -1491,12 +1587,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270229,
-      "num": 270229,
-      "word": "我国创下世界最强稳态磁场纪录",
-      "onboard_time": 1660385008,
-      "rank": 43,
-      "category": "社会新闻,科技"
+      "raw_hot": 270469,
+      "num": 270469,
+      "word": "三亚7708名滞留游客已搭飞机返程",
+      "onboard_time": 1660388188,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268747,
@@ -1561,14 +1657,6 @@
       "onboard_time": 1660359632,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252051,
-      "num": 252051,
-      "word": "中国创造相当于地球磁场90多万倍的磁场",
-      "onboard_time": 1660384647,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 251447,
@@ -1699,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223971,
+      "num": 223971,
+      "word": "杜富国摘下墨镜的微笑太治愈了",
+      "onboard_time": 1660386690,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217544,
       "num": 217544,
       "word": "一杯奶茶里到底有些什么",
@@ -1795,20 +1891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188945,
-      "num": 188945,
-      "word": "杜富国摘下墨镜的微笑太治愈了",
-      "onboard_time": 1660386690,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186204,
       "num": 186204,
       "word": "广东增本土确诊12例",
       "onboard_time": 1660357348,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186115,
+      "num": 186115,
+      "word": "神十四航天员将开展出舱活动",
+      "onboard_time": 1660388127,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 182757,
@@ -1824,14 +1920,6 @@
       "word": "成都东站",
       "onboard_time": 1660309360,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181539,
-      "num": 181539,
-      "word": "大爷丢8000元找回后要求民警花光",
-      "onboard_time": 1660386271,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2041,6 +2129,14 @@
       "onboard_time": 1660315117,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109132,
+      "num": 109132,
+      "word": "农村爷爷三轮车改飞机车载孩童兜风",
+      "onboard_time": 1660388970,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104696,
