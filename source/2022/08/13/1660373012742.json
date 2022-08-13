@@ -1,0 +1,410 @@
+{
+  "runTime": 1660373012742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2219894,
+        "num": 2219894,
+        "word": "成都地震",
+        "onboard_time": 1660368511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2157105,
+        "num": 2157105,
+        "word": "男孩没核酸结果被爸爸扔检票口",
+        "onboard_time": 1660369349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290601,
+        "num": 1703258,
+        "word": "眼妆卸不干净或导致干眼症",
+        "onboard_time": 1660364308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1578355,
+        "num": 1578355,
+        "word": "结婚4年2次鼓膜穿孔女子要丈夫道歉",
+        "onboard_time": 1660359029,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1313371,
+        "num": 1313371,
+        "word": "断桥",
+        "onboard_time": 1660318234,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1129556,
+        "num": 1129556,
+        "word": "女子染发不结账称自己是大网红",
+        "onboard_time": 1660365691,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031987,
+        "num": 1031987,
+        "word": "网传乐山一女子跳楼砸中路人",
+        "onboard_time": 1660371930,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1024093,
+        "num": 1024093,
+        "word": "五谷道场 海报",
+        "onboard_time": 1660368391,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 957409,
+        "num": 957409,
+        "word": "纽约在废水中发现脊髓灰质炎病毒",
+        "onboard_time": 1660366710,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889246,
+        "num": 889246,
+        "word": "张雪峰指出三种人群不适合考研",
+        "onboard_time": 1660371975,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 753233,
+        "num": 753233,
+        "word": "王勉妈妈失落没有让儿子开心的力量",
+        "onboard_time": 1660370250,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530006,
+        "num": 530006,
+        "word": "有多少左撇子被逼用右手",
+        "onboard_time": 1660366351,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528243,
+        "num": 528243,
+        "word": "苍兰诀",
+        "onboard_time": 1660372351,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495402,
+        "num": 495402,
+        "word": "女孩被困厕所因1份外卖得救",
+        "onboard_time": 1660361014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525655,
+        "num": 467691,
+        "word": "张凌赫跳泳池了",
+        "onboard_time": 1660367071,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409733,
+        "num": 409733,
+        "word": "美700亿售台武器啥概念",
+        "onboard_time": 1660359632,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 473576,
+        "num": 409716,
+        "word": "王鹤棣仪态",
+        "onboard_time": 1660357109,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369045,
+        "num": 369045,
+        "word": "霸总身上的香味到底是什么香",
+        "onboard_time": 1660370313,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323074,
+        "num": 323074,
+        "word": "新加坡将禁止奶茶果汁等广告宣传",
+        "onboard_time": 1660349486,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300942,
+        "num": 300942,
+        "word": "海南疫情仍处于快速发展期",
+        "onboard_time": 1660369529,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456246,
+        "num": 293717,
+        "word": "王靖雯功夫胖潜伏期好治愈",
+        "onboard_time": 1660371930,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364425,
+        "num": 288347,
+        "word": "南京通报一外省返宁人员核酸异常",
+        "onboard_time": 1660370672,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350328,
+        "num": 280767,
+        "word": "央视夏日歌会节目单",
+        "onboard_time": 1660372470,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321802,
+        "num": 276460,
+        "word": "台名嘴称对大陆导弹拦截率可达210%",
+        "onboard_time": 1660372527,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 320060,
+        "num": 266114,
+        "word": "黑豹乐队热狗GALI合作够了够了",
+        "onboard_time": 1660371391,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260742,
+        "num": 260742,
+        "word": "男孩卖冰棍将最后一根送警察",
+        "onboard_time": 1660365932,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 260541,
+        "num": 260541,
+        "word": "为何要尽量少喝奶茶",
+        "onboard_time": 1660372230,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258871,
+        "num": 258871,
+        "word": "成都疫情防控",
+        "onboard_time": 1660372406,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235060,
+        "num": 235060,
+        "word": "左撇子真的比右撇子聪明吗",
+        "onboard_time": 1660359510,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206198,
+        "num": 206198,
+        "word": "王者英雄荣耀之战",
+        "onboard_time": 1660370191,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301067,
+        "num": 205754,
+        "word": "狐妖小红娘郭晓婷路透",
+        "onboard_time": 1660372470,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299154,
+        "num": 205234,
+        "word": "成毅舞剑",
+        "onboard_time": 1660370851,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277811,
+        "num": 205015,
+        "word": "杨超越六连拒绝李诞",
+        "onboard_time": 1660364909,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240750,
+        "num": 204254,
+        "word": "苍兰夫妇",
+        "onboard_time": 1660370612,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204083,
+        "num": 204083,
+        "word": "温州龙湾机场发现4例阳性感染者",
+        "onboard_time": 1660364790,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237420,
+        "num": 203785,
+        "word": "冰雨火课代表团建",
+        "onboard_time": 1660371269,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204181,
+        "num": 201277,
+        "word": "奶奶在日历上记录孙女日常",
+        "onboard_time": 1660371031,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195603,
+        "num": 195603,
+        "word": "重庆新增本土确诊4例本土无症状3例",
+        "onboard_time": 1660371691,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192237,
+        "num": 192237,
+        "word": "敦煌实施全域24小时静默管理",
+        "onboard_time": 1660372287,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181417,
+        "num": 181417,
+        "word": "85年前的今天淞沪会战爆发",
+        "onboard_time": 1660370851,
+        "rank": 39,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 222081,
+        "num": 177744,
+        "word": "BLACKPINK回归预告怼脸镜头",
+        "onboard_time": 1660363770,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173056,
+        "num": 173056,
+        "word": "卫强足浴店3名员工被立案侦查",
+        "onboard_time": 1660362031,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164323,
+        "num": 164323,
+        "word": "叙利亚称每天石油产量的83%被美盗走",
+        "onboard_time": 1660358669,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 144534,
+        "num": 144534,
+        "word": "抗战期间一小学生的日记本",
+        "onboard_time": 1660357888,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141473,
+        "num": 141473,
+        "word": "司机身体不适路过一车人伸出援手",
+        "onboard_time": 1660356932,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 140668,
+        "num": 140668,
+        "word": "17家房企联名请求打击专业房闹",
+        "onboard_time": 1660372889,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 129918,
+        "num": 129918,
+        "word": "张家口疫情防控",
+        "onboard_time": 1660372351,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128845,
+        "num": 128845,
+        "word": "当你剪了一个失败的发型",
+        "onboard_time": 1660363470,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127460,
+        "num": 127460,
+        "word": "啊泽战损感大片",
+        "onboard_time": 1660370250,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125254,
+        "num": 125254,
+        "word": "今年夏天为何会这么热",
+        "onboard_time": 1660350749,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#时代总是把历史责任赋予青年#"
+    }
+  }
+}

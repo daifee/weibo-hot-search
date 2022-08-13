@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660371967058,
+  "endTime": 1660373012742,
   "band_list": [
     {
       "raw_hot": 3815118,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2157105,
+      "num": 2157105,
+      "word": "男孩没核酸结果被爸爸扔检票口",
+      "onboard_time": 1660369349,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2004487,
       "num": 838946,
       "word": "杜华给内娱经纪公司的排名",
@@ -39,14 +47,6 @@
       "num": 1988436,
       "word": "缴满15年社保能提前退休吗",
       "onboard_time": 1660349907,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1965681,
-      "num": 1965681,
-      "word": "男孩没核酸结果被爸爸扔检票口",
-      "onboard_time": 1660369349,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1031987,
+      "num": 1031987,
+      "word": "网传乐山一女子跳楼砸中路人",
+      "onboard_time": 1660371930,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1020462,
       "num": 1020462,
       "word": "杨紫沉香如屑经历8虐",
@@ -233,6 +241,14 @@
       "onboard_time": 1660357466,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889246,
+      "num": 889246,
+      "word": "张雪峰指出三种人群不适合考研",
+      "onboard_time": 1660371975,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 875235,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528243,
+      "num": 528243,
+      "word": "苍兰诀",
+      "onboard_time": 1660372351,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517035,
       "num": 517035,
       "word": "浙江鼓励子女3岁内家长居家办公",
@@ -465,6 +489,14 @@
       "onboard_time": 1660368690,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 456246,
+      "num": 293717,
+      "word": "王靖雯功夫胖潜伏期好治愈",
+      "onboard_time": 1660371930,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 453598,
@@ -643,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364425,
+      "num": 292733,
+      "word": "南京通报一外省返宁人员核酸异常",
+      "onboard_time": 1660370672,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357491,
       "num": 357491,
       "word": "今年夏天为何会这么热",
@@ -673,6 +713,14 @@
       "onboard_time": 1660367971,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350328,
+      "num": 280767,
+      "word": "央视夏日歌会节目单",
+      "onboard_time": 1660372470,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 349370,
@@ -715,28 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344492,
-      "num": 131660,
-      "word": "王靖雯功夫胖潜伏期好治愈",
-      "onboard_time": 1660371930,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337385,
       "num": 220519,
       "word": "章若楠抱柱子好像考拉",
       "onboard_time": 1660365936,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331298,
-      "num": 292733,
-      "word": "南京通报一外省返宁人员核酸异常",
-      "onboard_time": 1660370672,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330089,
@@ -777,6 +809,22 @@
       "onboard_time": 1660334052,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 321802,
+      "num": 276460,
+      "word": "台名嘴称对大陆导弹拦截率可达210%",
+      "onboard_time": 1660372527,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 320060,
+      "num": 266114,
+      "word": "黑豹乐队热狗GALI合作够了够了",
+      "onboard_time": 1660371391,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 318169,
@@ -840,6 +888,14 @@
       "word": "东方青苍 苏",
       "onboard_time": 1660340413,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301067,
+      "num": 205754,
+      "word": "狐妖小红娘郭晓婷路透",
+      "onboard_time": 1660372470,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -963,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260541,
+      "num": 260541,
+      "word": "为何要尽量少喝奶茶",
+      "onboard_time": 1660372230,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258875,
       "num": 258875,
       "word": "乌鲁木齐新增73个中高风险区",
@@ -971,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257719,
-      "num": 220606,
-      "word": "黑豹乐队热狗GALI合作够了够了",
-      "onboard_time": 1660371391,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 258871,
+      "num": 258871,
+      "word": "成都疫情防控",
+      "onboard_time": 1660372406,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256483,
@@ -1001,14 +1065,6 @@
       "onboard_time": 1660359632,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244160,
-      "num": 130659,
-      "word": "网传乐山一女子跳楼砸中路人",
-      "onboard_time": 1660371930,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 243971,
@@ -1160,6 +1216,22 @@
       "word": "200多年前中国古画被3D实景化",
       "onboard_time": 1660342695,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195603,
+      "num": 195603,
+      "word": "重庆新增本土确诊4例本土无症状3例",
+      "onboard_time": 1660371691,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192237,
+      "num": 192237,
+      "word": "敦煌实施全域24小时静默管理",
+      "onboard_time": 1660372287,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140668,
+      "num": 140668,
+      "word": "17家房企联名请求打击专业房闹",
+      "onboard_time": 1660372889,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 139489,
       "num": 139489,
       "word": "雅思",
@@ -1355,10 +1435,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131830,
-      "num": 131830,
-      "word": "重庆新增本土确诊4例本土无症状3例",
-      "onboard_time": 1660371691,
+      "raw_hot": 129918,
+      "num": 129918,
+      "word": "张家口疫情防控",
+      "onboard_time": 1660372351,
       "rank": 46,
       "category": "社会新闻"
     },
