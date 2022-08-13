@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660395470431,
+  "endTime": 1660397409076,
   "band_list": [
     {
       "raw_hot": 4182859,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2717615,
+      "num": 625724,
+      "word": "不难看出 马丽是沈腾唯一的姐",
+      "onboard_time": 1660395632,
+      "rank": 10,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 2642217,
       "num": 2642217,
       "word": "台名嘴称对大陆导弹拦截率可达210%",
@@ -65,6 +73,14 @@
       "onboard_time": 1660368511,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2305301,
+      "num": 2305301,
+      "word": "彭州未撤离游客被卷入山洪",
+      "onboard_time": 1660393890,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2240404,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1103267,
+      "num": 1103267,
+      "word": "王俊凯说断桥吻戏我又不是主动的那个",
+      "onboard_time": 1660393587,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1102841,
       "num": 616783,
       "word": "陈宇妻管严",
@@ -369,14 +393,6 @@
       "onboard_time": 1660367071,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1025138,
-      "num": 543503,
-      "word": "彭州未撤离游客被卷入山洪",
-      "onboard_time": 1660393890,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1020462,
@@ -443,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889448,
+      "num": 621190,
+      "word": "丁程鑫叫娜扎我的姐",
+      "onboard_time": 1660394731,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 875235,
       "num": 875235,
       "word": "王勉妈妈失落没有让儿子开心的力量",
       "onboard_time": 1660370250,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 875135,
-      "num": 875135,
-      "word": "王俊凯说断桥吻戏我又不是主动的那个",
-      "onboard_time": 1660393587,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 872040,
@@ -491,6 +507,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 790508,
+      "num": 617196,
+      "word": "王一博街舞5跳本草纲目",
+      "onboard_time": 1660397311,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782813,
       "num": 782813,
       "word": "叙利亚称每天石油产量的83%被美盗走",
@@ -505,6 +529,14 @@
       "onboard_time": 1660390348,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740257,
+      "num": 740257,
+      "word": "原神",
+      "onboard_time": 1660389569,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 737683,
@@ -611,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 653353,
+      "num": 530165,
+      "word": "王鹤棣东方青苍哭戏",
+      "onboard_time": 1660395451,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 641849,
       "num": 641849,
       "word": "王俊凯演技",
@@ -631,6 +671,14 @@
       "num": 612936,
       "word": "重庆的猪都中暑了",
       "onboard_time": 1660323501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611488,
+      "num": 611488,
+      "word": "地面太烫蜗牛开启急速模式",
+      "onboard_time": 1660393770,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -713,14 +761,6 @@
       "onboard_time": 1660385907,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546803,
-      "num": 546803,
-      "word": "原神",
-      "onboard_time": 1660389569,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 546578,
@@ -899,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472657,
-      "num": 356694,
-      "word": "丁程鑫叫娜扎我的姐",
-      "onboard_time": 1660394731,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 465291,
       "num": 465291,
       "word": "没有周深唱不出的cp感",
@@ -1033,6 +1065,22 @@
       "onboard_time": 1660370313,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 420554,
+      "num": 420554,
+      "word": "原神兑换码",
+      "onboard_time": 1660396172,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 419412,
+      "num": 242158,
+      "word": "马嘉祺求夸奖的表情",
+      "onboard_time": 1660396412,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 418517,
@@ -1291,6 +1339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360913,
+      "num": 234771,
+      "word": "刘雨昕跨次元popping街舞大秀",
+      "onboard_time": 1660396471,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 357748,
+      "num": 231481,
+      "word": "张信哲 爱就一个字",
+      "onboard_time": 1660397071,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357491,
       "num": 357491,
       "word": "今年夏天为何会这么热",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1660365932,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349250,
+      "num": 349250,
+      "word": "小鱼洞",
+      "onboard_time": 1660394968,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 349201,
@@ -1451,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335869,
+      "num": 335869,
+      "word": "厦门在区域核酸筛查中发现1例确诊",
+      "onboard_time": 1660395090,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332629,
       "num": 332629,
       "word": "足浴店疫情与既往上海海南均不同源",
@@ -1547,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315209,
+      "num": 171341,
+      "word": "李宇春唱星星致敬志愿军烈士",
+      "onboard_time": 1660396711,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312422,
       "num": 312422,
       "word": "EDGM三年之约达成",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1660390889,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307434,
+      "num": 307434,
+      "word": "提纳里",
+      "onboard_time": 1660396531,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 306609,
@@ -1665,14 +1761,6 @@
       "onboard_time": 1660379250,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 288652,
-      "num": 160596,
-      "word": "王鹤棣东方青苍哭戏",
-      "onboard_time": 1660395451,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 287221,
@@ -1883,6 +1971,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 242350,
+      "num": 242350,
+      "word": "彭州山洪因短时强降雨",
+      "onboard_time": 1660395090,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "英国作家拉什迪遇袭现场",
@@ -1915,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238550,
-      "num": 238550,
-      "word": "地面太烫蜗牛开启急速模式",
-      "onboard_time": 1660393770,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236963,
       "num": 236963,
       "word": "XYG零封",
@@ -1945,14 +2033,6 @@
       "onboard_time": 1660386690,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232973,
-      "num": 232973,
-      "word": "小鱼洞",
-      "onboard_time": 1660394968,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 228656,
@@ -2035,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214131,
-      "num": 214131,
-      "word": "厦门在区域核酸筛查中发现1例确诊",
-      "onboard_time": 1660395090,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212417,
       "num": 212417,
       "word": "把空调关了也还是想谈恋爱",
@@ -2097,14 +2169,6 @@
       "onboard_time": 1660360109,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201942,
-      "num": 201942,
-      "word": "彭州山洪因短时强降雨",
-      "onboard_time": 1660395090,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201537,
@@ -2347,6 +2411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137415,
+      "num": 137415,
+      "word": "新疆库尔勒临时性静态管理",
+      "onboard_time": 1660395753,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134009,
       "num": 134009,
       "word": "10省份局地可超过42℃",
@@ -2377,6 +2449,14 @@
       "onboard_time": 1660316853,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118375,
+      "num": 118375,
+      "word": "被王者荣耀的配音模仿笑死",
+      "onboard_time": 1660396053,
+      "rank": 49,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 112945,
@@ -2465,6 +2545,14 @@
       "onboard_time": 1660333032,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23910,
+      "num": 537301,
+      "word": "少年奇妙游",
+      "onboard_time": 1660395632,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 17890,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1660397409076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3227809,
+        "num": 3227809,
+        "word": "彭州山洪",
+        "onboard_time": 1660385008,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2305301,
+        "num": 2305301,
+        "word": "彭州未撤离游客被卷入山洪",
+        "onboard_time": 1660393890,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 356327,
+        "num": 1457729,
+        "word": "中国创造相当于地球磁场90多万倍的磁场",
+        "onboard_time": 1660384647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3488503,
+        "num": 1428537,
+        "word": "吴磊主动牵手赵露思",
+        "onboard_time": 1660392330,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1291048,
+        "num": 1291048,
+        "word": "断桥 剧情降智",
+        "onboard_time": 1660381530,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1107208,
+        "num": 1107208,
+        "word": "急寻TV9824航班Z324列车乘客",
+        "onboard_time": 1660376310,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103267,
+        "num": 1103267,
+        "word": "王俊凯说断桥吻戏我又不是主动的那个",
+        "onboard_time": 1660393587,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 959437,
+        "num": 959437,
+        "word": "四川彭州突发山洪致4死9伤",
+        "onboard_time": 1660392149,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 740257,
+        "num": 740257,
+        "word": "原神",
+        "onboard_time": 1660389569,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 638936,
+        "num": 638936,
+        "word": "特朗普若被定罪最高可获10年监禁",
+        "onboard_time": 1660381051,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2717615,
+        "num": 625724,
+        "word": "不难看出 马丽是沈腾唯一的姐",
+        "onboard_time": 1660395632,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 889448,
+        "num": 621190,
+        "word": "丁程鑫叫娜扎我的姐",
+        "onboard_time": 1660394731,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790508,
+        "num": 617196,
+        "word": "王一博街舞5跳本草纲目",
+        "onboard_time": 1660397311,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611488,
+        "num": 611488,
+        "word": "地面太烫蜗牛开启急速模式",
+        "onboard_time": 1660393770,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23910,
+        "num": 537301,
+        "word": "少年奇妙游",
+        "onboard_time": 1660395632,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653353,
+        "num": 530165,
+        "word": "王鹤棣东方青苍哭戏",
+        "onboard_time": 1660395451,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478097,
+        "num": 478097,
+        "word": "西藏本次疫情以无症状感染为主",
+        "onboard_time": 1660390348,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420554,
+        "num": 420554,
+        "word": "原神兑换码",
+        "onboard_time": 1660396172,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375189,
+        "num": 375189,
+        "word": "男子买7斤螃蟹少3斤商家被罚3万",
+        "onboard_time": 1660375050,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371394,
+        "num": 371394,
+        "word": "大爷丢8000元找回后要求民警花光",
+        "onboard_time": 1660386271,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464310,
+        "num": 362628,
+        "word": "李玉马思纯回应断桥女主不报警",
+        "onboard_time": 1660387889,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349250,
+        "num": 349250,
+        "word": "小鱼洞",
+        "onboard_time": 1660394968,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 347528,
+        "num": 347528,
+        "word": "食物语",
+        "onboard_time": 1660394788,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335869,
+        "num": 335869,
+        "word": "厦门在区域核酸筛查中发现1例确诊",
+        "onboard_time": 1660395090,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308231,
+        "num": 308231,
+        "word": "为何要尽量少喝奶茶",
+        "onboard_time": 1660372230,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307434,
+        "num": 307434,
+        "word": "提纳里",
+        "onboard_time": 1660396531,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300670,
+        "num": 300670,
+        "word": "亲历者讲述彭州山洪现场",
+        "onboard_time": 1660391010,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280830,
+        "num": 280830,
+        "word": "喝含糖饮料易导致尿酸升高",
+        "onboard_time": 1660384590,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258678,
+        "num": 258678,
+        "word": "中国男排vs韩国男排",
+        "onboard_time": 1660391849,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242350,
+        "num": 242350,
+        "word": "彭州山洪因短时强降雨",
+        "onboard_time": 1660395090,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419412,
+        "num": 242158,
+        "word": "马嘉祺求夸奖的表情",
+        "onboard_time": 1660396412,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383918,
+        "num": 237782,
+        "word": "断桥开分9.2",
+        "onboard_time": 1660389509,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360913,
+        "num": 234771,
+        "word": "刘雨昕跨次元popping街舞大秀",
+        "onboard_time": 1660396471,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357748,
+        "num": 231481,
+        "word": "张信哲 爱就一个字",
+        "onboard_time": 1660397071,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229545,
+        "num": 229545,
+        "word": "网传乐山一女子跳楼砸中路人",
+        "onboard_time": 1660371930,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 218745,
+        "num": 218745,
+        "word": "我国创下世界最强稳态磁场纪录",
+        "onboard_time": 1660385008,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 200870,
+        "num": 200870,
+        "word": "三亚7708名滞留游客已搭飞机返程",
+        "onboard_time": 1660388188,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198780,
+        "num": 198780,
+        "word": "每家店都有一位猫师傅",
+        "onboard_time": 1660393110,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197065,
+        "num": 197065,
+        "word": "龙漕沟",
+        "onboard_time": 1660386389,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172702,
+        "num": 172702,
+        "word": "Hero状态",
+        "onboard_time": 1660387467,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315209,
+        "num": 171341,
+        "word": "李宇春唱星星致敬志愿军烈士",
+        "onboard_time": 1660396711,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281136,
+        "num": 170039,
+        "word": "网友苏州偶遇李易峰",
+        "onboard_time": 1660392449,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264220,
+        "num": 169783,
+        "word": "小兰花东方青苍抱头落泪",
+        "onboard_time": 1660390289,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168330,
+        "num": 168330,
+        "word": "猫猫在家等主人下班的样子",
+        "onboard_time": 1660389867,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152500,
+        "num": 152500,
+        "word": "山洪来前有哪些预兆",
+        "onboard_time": 1660394788,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142268,
+        "num": 142268,
+        "word": "FPX晋级季后赛",
+        "onboard_time": 1660392988,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137415,
+        "num": 137415,
+        "word": "新疆库尔勒临时性静态管理",
+        "onboard_time": 1660395753,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130931,
+        "num": 130931,
+        "word": "上海常态化核酸检测免费至9月30日",
+        "onboard_time": 1660381530,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123167,
+        "num": 123167,
+        "word": "大叔热晕因没钱不就医众人接力救助",
+        "onboard_time": 1660376551,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 118375,
+        "num": 118375,
+        "word": "被王者荣耀的配音模仿笑死",
+        "onboard_time": 1660396053,
+        "rank": 49,
+        "category": "游戏,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#时代总是把历史责任赋予青年#"
+    }
+  }
+}
