@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660423038853,
+  "endTime": 1660425482085,
   "band_list": [
     {
       "raw_hot": 2002502,
@@ -283,6 +283,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 221407,
+      "num": 221407,
+      "word": "因妻子不接电话男子辱骂110撒气",
+      "onboard_time": 1660420812,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207870,
       "num": 207870,
       "word": "原神",
@@ -403,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101575,
-      "num": 66330,
-      "word": "因妻子不接电话男子辱骂110撒气",
-      "onboard_time": 1660420812,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94120,
       "num": 94120,
       "word": "哈兰德助攻",
@@ -491,20 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59048,
+      "num": 57195,
+      "word": "强生面临约3.8万起致癌诉讼",
+      "onboard_time": 1660423691,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57343,
+      "num": 57343,
+      "word": "这就是街舞5好看吗",
+      "onboard_time": 1660420812,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56233,
       "num": 56233,
       "word": "新疆库尔勒临时性静态管理",
       "onboard_time": 1660395753,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51963,
-      "num": 32657,
-      "word": "这就是街舞5好看吗",
-      "onboard_time": 1660420812,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 50058,
@@ -516,17 +524,33 @@
     },
     {
       "raw_hot": 47724,
-      "num": 27145,
+      "num": 29623,
       "word": "唐九洲奶奶的家书看哭了",
       "onboard_time": 1660418893,
       "rank": 42,
       "category": "综艺"
     },
     {
-      "raw_hot": 10056,
-      "num": 10056,
+      "raw_hot": 24207,
+      "num": 21978,
+      "word": "大张伟精准拿捏了父母的养生方式",
+      "onboard_time": 1660423991,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21983,
+      "num": 21983,
       "word": "湖北竹山最高气温超过44℃",
       "onboard_time": 1660420991,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9107,
+      "num": 9107,
+      "word": "遭遇山洪千万不要轻易涉水过河",
+      "onboard_time": 1660425371,
       "rank": 49,
       "category": "社会新闻"
     }
