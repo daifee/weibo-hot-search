@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660422118534,
+  "endTime": 1660423038853,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -12355,6 +12355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146572,
+      "num": 77942,
+      "word": "重庆巴南发现3龛明清摩崖造像",
+      "onboard_time": 1660418712,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146191,
       "num": 146191,
       "word": "新疆新增235例阳性",
@@ -12811,14 +12819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107378,
-      "num": 77942,
-      "word": "重庆巴南发现3龛明清摩崖造像",
-      "onboard_time": 1660418712,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106409,
       "num": 106409,
       "word": "eStar战胜WB",
@@ -12865,6 +12865,14 @@
       "onboard_time": 1660322783,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101575,
+      "num": 66330,
+      "word": "因妻子不接电话男子辱骂110撒气",
+      "onboard_time": 1660420812,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100850,
@@ -13051,15 +13059,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 50082,
-      "num": 55698,
-      "word": "千朵玫瑰带来的黎明",
-      "onboard_time": 1660404033,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 50058,
+      "raw_hot": 51963,
       "num": 32657,
       "word": "这就是街舞5好看吗",
       "onboard_time": 1660420812,
@@ -13067,12 +13067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47950,
-      "num": 47950,
-      "word": "因妻子不接电话男子辱骂110撒气",
-      "onboard_time": 1660420812,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 50082,
+      "num": 55698,
+      "word": "千朵玫瑰带来的黎明",
+      "onboard_time": 1660404033,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 47724,
@@ -13297,6 +13297,14 @@
       "onboard_time": 1659993251,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10056,
+      "num": 10056,
+      "word": "湖北竹山最高气温超过44℃",
+      "onboard_time": 1660420991,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9864,
