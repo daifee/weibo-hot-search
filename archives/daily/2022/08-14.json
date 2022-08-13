@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660411227711,
+  "endTime": 1660412196966,
   "band_list": [
     {
       "raw_hot": 2002502,
@@ -59,27 +59,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 803101,
-      "num": 803101,
-      "word": "彭州山洪",
-      "onboard_time": 1660385008,
-      "rank": 8,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 726953,
-      "num": 726953,
+      "raw_hot": 906883,
+      "num": 906883,
       "word": "曼联",
       "onboard_time": 1660404092,
       "rank": 28,
       "category": "体育"
     },
     {
-      "raw_hot": 701460,
-      "num": 701460,
+      "raw_hot": 891823,
+      "num": 891823,
       "word": "彭州未撤离游客被卷入山洪",
       "onboard_time": 1660393890,
       "rank": 9,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 803101,
+      "num": 803101,
+      "word": "彭州山洪",
+      "onboard_time": 1660385008,
+      "rank": 8,
       "category": "社会负面"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1660401095,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 685204,
+      "num": 685204,
+      "word": "四川8岁男孩大桥下失联已11天",
+      "onboard_time": 1660408945,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 653307,
@@ -105,14 +113,6 @@
       "onboard_time": 1660404872,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593750,
-      "num": 593750,
-      "word": "四川8岁男孩大桥下失联已11天",
-      "onboard_time": 1660408945,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 560289,
@@ -203,20 +203,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326188,
+      "num": 326188,
+      "word": "ITZY你是我的姐",
+      "onboard_time": 1660411817,
+      "rank": 11,
+      "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 304941,
+      "num": 304941,
+      "word": "周深游戏ID礼貌嘛少管我",
+      "onboard_time": 1660409542,
+      "rank": 21,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 301737,
       "num": 107739,
       "word": "王鹤棣东方青苍哭戏",
       "onboard_time": 1660395451,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287820,
-      "num": 156943,
-      "word": "周深游戏ID礼貌嘛少管我",
-      "onboard_time": 1660409542,
-      "rank": 21,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 283349,
@@ -241,6 +249,14 @@
       "onboard_time": 1660402535,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263857,
+      "num": 123868,
+      "word": "王一博电子科幻风破次元大秀",
+      "onboard_time": 1660411879,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 258582,
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94013,
+      "num": 51893,
+      "word": "苍兰夫妇暗生情愫",
+      "onboard_time": 1660410082,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89774,
       "num": 89774,
       "word": "男子买7斤螃蟹少3斤商家被罚3万",
@@ -427,8 +451,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38506,
-      "num": 38506,
+      "raw_hot": 44978,
+      "num": 44978,
       "word": "游乐园又多了一个伤心的人",
       "onboard_time": 1660410321,
       "rank": 48,
