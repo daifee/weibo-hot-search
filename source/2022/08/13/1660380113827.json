@@ -1,0 +1,410 @@
+{
+  "runTime": 1660380113827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3204639,
+        "num": 3204639,
+        "word": "急寻TV9824航班Z324列车乘客",
+        "onboard_time": 1660376310,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1696338,
+        "num": 1696338,
+        "word": "男子买7斤螃蟹少3斤商家被罚3万",
+        "onboard_time": 1660375050,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233815,
+        "num": 1591335,
+        "word": "眼妆卸不干净或导致干眼症",
+        "onboard_time": 1660364308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572143,
+        "num": 1572143,
+        "word": "杨迪说ESO是长沙本土天团",
+        "onboard_time": 1660375768,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1265328,
+        "num": 1265328,
+        "word": "五谷道场道歉声明",
+        "onboard_time": 1660375951,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 983011,
+        "num": 983011,
+        "word": "断桥",
+        "onboard_time": 1660318234,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 955241,
+        "num": 955241,
+        "word": "男孩没核酸结果被爸爸扔检票口",
+        "onboard_time": 1660369349,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879231,
+        "num": 879231,
+        "word": "为何要尽量少喝奶茶",
+        "onboard_time": 1660372230,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788873,
+        "num": 788873,
+        "word": "结婚4年2次鼓膜穿孔女子要丈夫道歉",
+        "onboard_time": 1660359029,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 717365,
+        "num": 717365,
+        "word": "张雪峰指出三种人群不适合考研",
+        "onboard_time": 1660371975,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 914782,
+        "num": 708859,
+        "word": "断桥 后劲",
+        "onboard_time": 1660377747,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683522,
+        "num": 683522,
+        "word": "特朗普被美国司法部调查",
+        "onboard_time": 1660376250,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 641849,
+        "num": 641849,
+        "word": "王俊凯演技",
+        "onboard_time": 1660379191,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632600,
+        "num": 632600,
+        "word": "五谷道场 海报",
+        "onboard_time": 1660368391,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509813,
+        "num": 509813,
+        "word": "女子染发不结账称自己是大网红",
+        "onboard_time": 1660365691,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425872,
+        "num": 425872,
+        "word": "亲戚朋友主动免债男孩坚持还款",
+        "onboard_time": 1660375951,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398859,
+        "num": 398859,
+        "word": "上海再派1020名医护驰援海南",
+        "onboard_time": 1660376912,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395439,
+        "num": 395439,
+        "word": "大叔热晕因没钱不就医众人接力救助",
+        "onboard_time": 1660376551,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 366865,
+        "num": 366865,
+        "word": "连续高温女子患上情绪中暑",
+        "onboard_time": 1660376970,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346983,
+        "num": 346983,
+        "word": "17家房企联名请求打击专业房闹",
+        "onboard_time": 1660372889,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 487202,
+        "num": 340181,
+        "word": "王灿夸杜淳眼里没活变有活",
+        "onboard_time": 1660377632,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484371,
+        "num": 340119,
+        "word": "星汉灿烂剧组主创评价赵露思",
+        "onboard_time": 1660374270,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461897,
+        "num": 337765,
+        "word": "二十不惑2徐梦洁谢彬彬cp感",
+        "onboard_time": 1660378708,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330469,
+        "num": 330469,
+        "word": "有多少左撇子被逼用右手",
+        "onboard_time": 1660366351,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329292,
+        "num": 329292,
+        "word": "强制开机失败的小猫",
+        "onboard_time": 1660377390,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 320524,
+        "num": 320524,
+        "word": "喝一杯奶茶可能就糖分过量",
+        "onboard_time": 1660375709,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301462,
+        "num": 301462,
+        "word": "特警28楼公主抱8秒极限救人",
+        "onboard_time": 1660373969,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 289171,
+        "num": 289171,
+        "word": "有多少离谱的东西能拿来做设计",
+        "onboard_time": 1660379250,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288634,
+        "num": 288634,
+        "word": "成都地震",
+        "onboard_time": 1660368511,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284694,
+        "num": 284694,
+        "word": "重庆33岁青年救落水2人后牺牲",
+        "onboard_time": 1660378169,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 541266,
+        "num": 282152,
+        "word": "网传乐山一女子跳楼砸中路人",
+        "onboard_time": 1660371930,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 430573,
+        "num": 277571,
+        "word": "朱一龙官宣加盟微博电影之夜",
+        "onboard_time": 1660377569,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349885,
+        "num": 265439,
+        "word": "苍兰诀",
+        "onboard_time": 1660372351,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335973,
+        "num": 258155,
+        "word": "孟超结局",
+        "onboard_time": 1660378708,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310807,
+        "num": 255843,
+        "word": "汪苏泷第一次唱12年前的歌",
+        "onboard_time": 1660373490,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251447,
+        "num": 251447,
+        "word": "年轻人为何不再热衷潮玩",
+        "onboard_time": 1660374571,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224724,
+        "num": 224724,
+        "word": "成都疫情防控",
+        "onboard_time": 1660372406,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215294,
+        "num": 215294,
+        "word": "一杯奶茶里到底有些什么",
+        "onboard_time": 1660374870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201340,
+        "num": 201340,
+        "word": "纽约在废水中发现脊髓灰质炎病毒",
+        "onboard_time": 1660366710,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164984,
+        "num": 164984,
+        "word": "对自己体重没点数的狗狗",
+        "onboard_time": 1660374391,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 307035,
+        "num": 164330,
+        "word": "虞书欣看王鹤棣的表情",
+        "onboard_time": 1660379792,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278534,
+        "num": 163485,
+        "word": "大张伟说我的事业没那么重要",
+        "onboard_time": 1660377512,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 150491,
+        "word": "郑智担任广州队主教练",
+        "onboard_time": 1660379851,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148384,
+        "num": 148384,
+        "word": "海南疫情仍处于快速发展期",
+        "onboard_time": 1660369529,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145970,
+        "num": 145970,
+        "word": "女孩被困厕所因1份外卖得救",
+        "onboard_time": 1660361014,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142729,
+        "num": 142729,
+        "word": "美700亿售台武器啥概念",
+        "onboard_time": 1660359632,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 140329,
+        "num": 140329,
+        "word": "霸总身上的香味到底是什么香",
+        "onboard_time": 1660370313,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132284,
+        "num": 132284,
+        "word": "张家口疫情防控",
+        "onboard_time": 1660372351,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131543,
+        "num": 131543,
+        "word": "多例有敦煌旅居史游客离敦后确诊",
+        "onboard_time": 1660379731,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128554,
+        "num": 128554,
+        "word": "男孩卖冰棍将最后一根送警察",
+        "onboard_time": 1660365932,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#今日繁华如斯岂能忘却历史#"
+    }
+  }
+}
