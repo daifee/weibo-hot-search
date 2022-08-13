@@ -1,6 +1,6 @@
 {
   "startTime": 1660322159143,
-  "endTime": 1660375199666,
+  "endTime": 1660376273010,
   "band_list": [
     {
       "raw_hot": 3815118,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120239,
+      "num": 1120239,
+      "word": "张雪峰指出三种人群不适合考研",
+      "onboard_time": 1660371975,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1107306,
       "num": 1107306,
       "word": "美700亿售台武器啥概念",
@@ -203,14 +211,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1057996,
-      "num": 1057996,
-      "word": "张雪峰指出三种人群不适合考研",
-      "onboard_time": 1660371975,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1049356,
       "num": 588693,
       "word": "张凌赫跳泳池了",
@@ -225,6 +225,14 @@
       "onboard_time": 1660360771,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1019637,
+      "num": 1019637,
+      "word": "为何要尽量少喝奶茶",
+      "onboard_time": 1660372230,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1013021,
@@ -299,11 +307,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 775961,
-      "num": 775961,
-      "word": "为何要尽量少喝奶茶",
-      "onboard_time": 1660372230,
-      "rank": 26,
+      "raw_hot": 764629,
+      "num": 764629,
+      "word": "杨迪说ESO是长沙本土天团",
+      "onboard_time": 1660375768,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 738922,
+      "num": 693645,
+      "word": "男子买7斤螃蟹少3斤商家被罚3万",
+      "onboard_time": 1660375050,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -337,6 +353,14 @@
       "onboard_time": 1660364909,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 670260,
+      "num": 670260,
+      "word": "星汉灿烂剧组主创评价赵露思",
+      "onboard_time": 1660374270,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 670184,
@@ -417,14 +441,6 @@
       "onboard_time": 1660358189,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558811,
-      "num": 558811,
-      "word": "星汉灿烂剧组主创评价赵露思",
-      "onboard_time": 1660374270,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 558468,
@@ -513,6 +529,14 @@
       "onboard_time": 1660360351,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463675,
+      "num": 463675,
+      "word": "17家房企联名请求打击专业房闹",
+      "onboard_time": 1660372889,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 458810,
@@ -683,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 387570,
-      "num": 387570,
-      "word": "17家房企联名请求打击专业房闹",
-      "onboard_time": 1660372889,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 386102,
       "num": 229069,
       "word": "林墨被顺手牵羊崩溃成可云",
@@ -707,12 +723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383622,
+      "num": 383622,
+      "word": "特警28楼公主抱8秒极限救人",
+      "onboard_time": 1660373969,
+      "rank": 26,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 373203,
       "num": 1822194,
       "word": "眼妆卸不干净或导致干眼症",
       "onboard_time": 1660364308,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367502,
+      "num": 257183,
+      "word": "记住我叫峰哥",
+      "onboard_time": 1660376009,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 365930,
@@ -737,6 +769,14 @@
       "onboard_time": 1660350749,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354219,
+      "num": 254879,
+      "word": "五谷道场道歉声明",
+      "onboard_time": 1660375951,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 354011,
@@ -811,20 +851,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339720,
+      "num": 247001,
+      "word": "断桥票房破5000万",
+      "onboard_time": 1660374571,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337385,
       "num": 220519,
       "word": "章若楠抱柱子好像考拉",
       "onboard_time": 1660365936,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333657,
-      "num": 222578,
-      "word": "断桥票房破5000万",
-      "onboard_time": 1660374571,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 330089,
@@ -1019,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279626,
+      "num": 215280,
+      "word": "来你好星期六看时代少年团新歌舞台",
+      "onboard_time": 1660375470,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278650,
       "num": 278650,
       "word": "海南增594例确诊832例无症状",
@@ -1099,19 +1147,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249336,
-      "num": 249336,
-      "word": "特警28楼公主抱8秒极限救人",
-      "onboard_time": 1660373969,
-      "rank": 26,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 246056,
-      "num": 246056,
+      "raw_hot": 248091,
+      "num": 248091,
       "word": "敦煌实施全域24小时静默管理",
       "onboard_time": 1660372287,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245135,
+      "num": 245135,
+      "word": "张家口疫情防控",
+      "onboard_time": 1660372351,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1195,20 +1243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225014,
-      "num": 225014,
-      "word": "张家口疫情防控",
-      "onboard_time": 1660372351,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224081,
       "num": 177789,
       "word": "电影断桥",
       "onboard_time": 1660358067,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218394,
+      "num": 218394,
+      "word": "喝一杯奶茶可能就糖分过量",
+      "onboard_time": 1660375709,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216002,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1660301617,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 211378,
+      "num": 211378,
+      "word": "对自己体重没点数的狗狗",
+      "onboard_time": 1660374391,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 211335,
@@ -1267,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206240,
+      "num": 206240,
+      "word": "一杯奶茶里到底有些什么",
+      "onboard_time": 1660374870,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205362,
       "num": 177533,
       "word": "刘雨昕今晚见",
@@ -1288,6 +1352,14 @@
       "word": "200多年前中国古画被3D实景化",
       "onboard_time": 1660342695,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195351,
+      "num": 195351,
+      "word": "年轻人为何不再热衷潮玩",
+      "onboard_time": 1660374571,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1411,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157063,
-      "num": 157063,
-      "word": "对自己体重没点数的狗狗",
-      "onboard_time": 1660374391,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 156175,
       "num": 156175,
       "word": "重庆还要热好久",
@@ -1435,12 +1499,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 153701,
-      "num": 153701,
-      "word": "年轻人为何不再热衷潮玩",
-      "onboard_time": 1660374571,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 149916,
+      "num": 119236,
+      "word": "特朗普被美国司法部调查",
+      "onboard_time": 1660376250,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 148720,
@@ -1483,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140814,
-      "num": 140814,
-      "word": "男子买7斤螃蟹少3斤商家被罚3万",
-      "onboard_time": 1660375050,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139489,
       "num": 139489,
       "word": "雅思",
@@ -1504,6 +1560,14 @@
       "word": "10省份局地可超过42℃",
       "onboard_time": 1660351591,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124948,
+      "num": 124948,
+      "word": "亲戚朋友主动免债男孩坚持还款",
+      "onboard_time": 1660375951,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1537,14 +1601,6 @@
       "onboard_time": 1660315117,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105491,
-      "num": 105491,
-      "word": "一杯奶茶里到底有些什么",
-      "onboard_time": 1660374870,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104696,
