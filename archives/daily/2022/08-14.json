@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660430248616,
+  "endTime": 1660432842642,
   "band_list": [
     {
       "raw_hot": 2002502,
@@ -24,6 +24,14 @@
       "word": "亲历者称只差5秒就被山洪冲走",
       "onboard_time": 1660403253,
       "rank": 3,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1160915,
+      "num": 1160915,
+      "word": "彭州未撤离游客被卷入山洪",
+      "onboard_time": 1660393890,
+      "rank": 9,
       "category": "社会负面"
     },
     {
@@ -67,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 891823,
-      "num": 891823,
-      "word": "彭州未撤离游客被卷入山洪",
-      "onboard_time": 1660393890,
-      "rank": 9,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 803101,
       "num": 803101,
       "word": "彭州山洪",
@@ -99,6 +99,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 681905,
+      "num": 681905,
+      "word": "320斤男子切胃前妈妈坐病房吃烧烤",
+      "onboard_time": 1660427172,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653307,
       "num": 653307,
       "word": "能让两百亿影帝主动扇扇子的女人",
@@ -113,6 +121,14 @@
       "onboard_time": 1660404872,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 570231,
+      "num": 570231,
+      "word": "因妻子不接电话男子辱骂110撒气",
+      "onboard_time": 1660420812,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560289,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 420608,
-      "num": 204517,
+      "num": 247015,
       "word": "不难看出 马丽是沈腾唯一的姐",
       "onboard_time": 1660395632,
       "rank": 30,
@@ -203,11 +219,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 376395,
-      "num": 376395,
-      "word": "320斤男子切胃前妈妈坐病房吃烧烤",
-      "onboard_time": 1660427172,
-      "rank": 5,
+      "raw_hot": 368346,
+      "num": 368346,
+      "word": "强生面临约3.8万起致癌诉讼",
+      "onboard_time": 1660423691,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -233,14 +249,6 @@
       "onboard_time": 1660395451,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292837,
-      "num": 292837,
-      "word": "强生面临约3.8万起致癌诉讼",
-      "onboard_time": 1660423691,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283349,
@@ -283,8 +291,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250835,
+      "num": 250835,
+      "word": "重庆巴南发现3龛明清摩崖造像",
+      "onboard_time": 1660418712,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243834,
-      "num": 182483,
+      "num": 229593,
       "word": "尹正买西瓜",
       "onboard_time": 1660413316,
       "rank": 11,
@@ -299,12 +315,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 233776,
-      "num": 233776,
-      "word": "因妻子不接电话男子辱骂110撒气",
-      "onboard_time": 1660420812,
+      "raw_hot": 232695,
+      "num": 232695,
+      "word": "布布是王一博的battle的工具人",
+      "onboard_time": 1660432157,
       "rank": 14,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 207870,
@@ -320,6 +336,14 @@
       "word": "听说很好吃",
       "onboard_time": 1660408525,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188438,
+      "num": 129738,
+      "word": "这就是街舞5好看吗",
+      "onboard_time": 1660420812,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -347,11 +371,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146572,
-      "num": 119940,
-      "word": "重庆巴南发现3龛明清摩崖造像",
-      "onboard_time": 1660418712,
-      "rank": 37,
+      "raw_hot": 132689,
+      "num": 80363,
+      "word": "和室友三观不合怎么办",
+      "onboard_time": 1660430294,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "遭遇山洪千万不要轻易涉水过河",
+      "onboard_time": 1660425371,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1660390348,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130323,
+      "num": 76484,
+      "word": "周深画的安琪拉",
+      "onboard_time": 1660432277,
+      "rank": 31,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 128461,
@@ -403,20 +443,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116202,
+      "num": 75127,
+      "word": "文淇出席断桥首映",
+      "onboard_time": 1660432218,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114203,
+      "num": 33984,
+      "word": "娜扎高马尾清新写真",
+      "onboard_time": 1660432819,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 113894,
+      "num": 70236,
+      "word": "欢乐颂3方芷衡把立人设玩儿明白了",
+      "onboard_time": 1660431495,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112552,
       "num": 112552,
       "word": "彭州山洪因短时强降雨",
       "onboard_time": 1660395090,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111714,
-      "num": 111714,
-      "word": "这就是街舞5好看吗",
-      "onboard_time": 1660420812,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 110899,
@@ -432,6 +488,14 @@
       "word": "王祖蓝北京国际电影节开场表演",
       "onboard_time": 1660416613,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 99589,
+      "num": 33700,
+      "word": "张大大给尔冬升送S卡",
+      "onboard_time": 1660432819,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -464,14 +528,6 @@
       "word": "大爷丢8000元找回后要求民警花光",
       "onboard_time": 1660386271,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84214,
-      "num": 84214,
-      "word": "遭遇山洪千万不要轻易涉水过河",
-      "onboard_time": 1660425371,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -523,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69633,
+      "num": 69633,
+      "word": "湖北竹山最高气温超过44℃",
+      "onboard_time": 1660420991,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60008,
       "num": 43526,
       "word": "谢霆锋说王俊凯对自己够狠",
@@ -553,14 +617,6 @@
       "onboard_time": 1660418893,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35352,
-      "num": 35352,
-      "word": "湖北竹山最高气温超过44℃",
-      "onboard_time": 1660420991,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20645,
