@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660382381589,
+  "endTime": 1660383397208,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1659602199,
       "rank": 28,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 3553989,
+      "num": 3553989,
+      "word": "断桥 剧情降智",
+      "onboard_time": 1660381530,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3537841,
@@ -3043,6 +3051,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 1811086,
+      "num": 1811086,
+      "word": "特朗普若被定罪最高可获10年监禁",
+      "onboard_time": 1660381051,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1800719,
       "num": 1800719,
       "word": "马伯骞进组偷偷藏不住",
@@ -3585,6 +3601,14 @@
       "onboard_time": 1659404017,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1583258,
+      "num": 1583258,
+      "word": "程少商是出嫁不是出家",
+      "onboard_time": 1660382369,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 1581941,
@@ -4145,14 +4169,6 @@
       "onboard_time": 1659715478,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1435272,
-      "num": 1435272,
-      "word": "断桥 剧情降智",
-      "onboard_time": 1660381530,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1434643,
@@ -7035,6 +7051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921415,
+      "num": 590991,
+      "word": "吴磊凌不疑营业烤串店",
+      "onboard_time": 1660381890,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 921363,
       "num": 736078,
       "word": "重庆一男子先打前妻又打儿子",
@@ -7641,6 +7665,14 @@
       "onboard_time": 1659425864,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841163,
+      "num": 841163,
+      "word": "小伙考上清华获奖捐给母校30余万",
+      "onboard_time": 1660380570,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 840141,
@@ -8611,14 +8643,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 743486,
-      "num": 159332,
-      "word": "程少商是出嫁不是出家",
-      "onboard_time": 1660382369,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 742818,
       "num": 667957,
       "word": "胡一天新剧刚开播就失业",
@@ -9083,6 +9107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713907,
+      "num": 380310,
+      "word": "断桥女主为什么不报警",
+      "onboard_time": 1660382490,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 713770,
       "num": 713770,
       "word": "赖美云落水",
@@ -9153,14 +9185,6 @@
       "onboard_time": 1659845372,
       "rank": 41,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 708124,
-      "num": 587704,
-      "word": "特朗普若被定罪最高可获10年监禁",
-      "onboard_time": 1660381051,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 707816,
@@ -10241,14 +10265,6 @@
       "onboard_time": 1659617258,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 628541,
-      "num": 584910,
-      "word": "小伙考上清华获奖捐给母校30余万",
-      "onboard_time": 1660380570,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 628448,
@@ -11827,6 +11843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545984,
+      "num": 372877,
+      "word": "Angelababy送华晨宇最佳逻辑奖",
+      "onboard_time": 1660383091,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545485,
       "num": 404641,
       "word": "黑话律师",
@@ -11897,14 +11921,6 @@
       "onboard_time": 1660376970,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542121,
-      "num": 542121,
-      "word": "吴磊凌不疑营业烤串店",
-      "onboard_time": 1660381890,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 541916,
@@ -12545,6 +12561,14 @@
       "onboard_time": 1659863669,
       "rank": 45,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 513953,
+      "num": 513953,
+      "word": "上海常态化核酸检测免费至9月30日",
+      "onboard_time": 1660381530,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513937,
@@ -13644,7 +13668,7 @@
     },
     {
       "raw_hot": 480570,
-      "num": 349223,
+      "num": 358992,
       "word": "二十不惑2徐梦洁谢彬彬cp感",
       "onboard_time": 1660378708,
       "rank": 41,
@@ -15867,6 +15891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416911,
+      "num": 416911,
+      "word": "排球少年",
+      "onboard_time": 1660381709,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 416419,
       "num": 416419,
       "word": "头一次这么想上班",
@@ -16859,6 +16891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391003,
+      "num": 267828,
+      "word": "海的尽头是草原定档中秋",
+      "onboard_time": 1660382971,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390920,
       "num": 390920,
       "word": "文文 这是一颗以你名字命名的星球",
@@ -17345,14 +17385,6 @@
       "onboard_time": 1660058018,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382175,
-      "num": 382175,
-      "word": "上海常态化核酸检测免费至9月30日",
-      "onboard_time": 1660381530,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382087,
@@ -17860,7 +17892,7 @@
     },
     {
       "raw_hot": 373203,
-      "num": 1822194,
+      "num": 1823370,
       "word": "眼妆卸不干净或导致干眼症",
       "onboard_time": 1660364308,
       "rank": 34,
@@ -17920,6 +17952,14 @@
       "word": "独行月球后劲好大",
       "onboard_time": 1659791135,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371859,
+      "num": 253064,
+      "word": "沉香夫妇一家三口剧照",
+      "onboard_time": 1660383211,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -18563,6 +18603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358144,
+      "num": 358144,
+      "word": "烟草缉私队员被人驾车拖行不幸离世",
+      "onboard_time": 1660382010,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 358037,
       "num": 358037,
       "word": "消防通报南京长江大桥失火",
@@ -19105,14 +19153,6 @@
       "onboard_time": 1659968678,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 347077,
-      "num": 347077,
-      "word": "排球少年",
-      "onboard_time": 1660381709,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 346999,
@@ -20921,6 +20961,14 @@
       "onboard_time": 1660006116,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 312422,
+      "num": 312422,
+      "word": "EDGM三年之约达成",
+      "onboard_time": 1660382251,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 312254,
@@ -23627,14 +23675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251360,
-      "num": 251360,
-      "word": "EDGM三年之约达成",
-      "onboard_time": 1660382251,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 251301,
       "num": 251301,
       "word": "张天爱 我们决赛见",
@@ -25523,6 +25563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213463,
+      "num": 213463,
+      "word": "想去玩具工厂上班",
+      "onboard_time": 1660382971,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "WBG对战JDG",
@@ -26041,14 +26089,6 @@
       "onboard_time": 1659710622,
       "rank": 45,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 197783,
-      "num": 197783,
-      "word": "烟草缉私队员被人驾车拖行不幸离世",
-      "onboard_time": 1660382010,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 197731,
@@ -27737,6 +27777,14 @@
       "onboard_time": 1660076832,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122945,
+      "num": 138508,
+      "word": "全国多地鼓励农民进城买房",
+      "onboard_time": 1660383331,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 122411,

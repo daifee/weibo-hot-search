@@ -1,0 +1,410 @@
+{
+  "runTime": 1660383397208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3553989,
+        "num": 3553989,
+        "word": "断桥 剧情降智",
+        "onboard_time": 1660381530,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1854017,
+        "num": 1854017,
+        "word": "急寻TV9824航班Z324列车乘客",
+        "onboard_time": 1660376310,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196700,
+        "num": 1823370,
+        "word": "眼妆卸不干净或导致干眼症",
+        "onboard_time": 1660364308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1811086,
+        "num": 1811086,
+        "word": "特朗普若被定罪最高可获10年监禁",
+        "onboard_time": 1660381051,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1583258,
+        "num": 1583258,
+        "word": "程少商是出嫁不是出家",
+        "onboard_time": 1660382369,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1153456,
+        "num": 1153456,
+        "word": "五谷道场道歉声明",
+        "onboard_time": 1660375951,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873257,
+        "num": 873257,
+        "word": "男子买7斤螃蟹少3斤商家被罚3万",
+        "onboard_time": 1660375050,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841163,
+        "num": 841163,
+        "word": "小伙考上清华获奖捐给母校30余万",
+        "onboard_time": 1660380570,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 648605,
+        "num": 648605,
+        "word": "为何要尽量少喝奶茶",
+        "onboard_time": 1660372230,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635276,
+        "num": 635276,
+        "word": "结婚4年2次鼓膜穿孔女子要丈夫道歉",
+        "onboard_time": 1660359029,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1054016,
+        "num": 604765,
+        "word": "断桥 后劲",
+        "onboard_time": 1660377747,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 921415,
+        "num": 590991,
+        "word": "吴磊凌不疑营业烤串店",
+        "onboard_time": 1660381890,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746543,
+        "num": 590572,
+        "word": "王一博官宣加盟微博电影之夜",
+        "onboard_time": 1660380150,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571763,
+        "num": 571763,
+        "word": "男孩没核酸结果被爸爸扔检票口",
+        "onboard_time": 1660369349,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513953,
+        "num": 513953,
+        "word": "上海常态化核酸检测免费至9月30日",
+        "onboard_time": 1660381530,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482359,
+        "num": 482359,
+        "word": "张雪峰指出三种人群不适合考研",
+        "onboard_time": 1660371975,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 471071,
+        "num": 471071,
+        "word": "连续高温女子患上情绪中暑",
+        "onboard_time": 1660376970,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463909,
+        "num": 463909,
+        "word": "特朗普被美国司法部调查",
+        "onboard_time": 1660376250,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 416911,
+        "num": 416911,
+        "word": "排球少年",
+        "onboard_time": 1660381709,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 386187,
+        "num": 386187,
+        "word": "大叔热晕因没钱不就医众人接力救助",
+        "onboard_time": 1660376551,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 713907,
+        "num": 380310,
+        "word": "断桥女主为什么不报警",
+        "onboard_time": 1660382490,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545984,
+        "num": 372877,
+        "word": "Angelababy送华晨宇最佳逻辑奖",
+        "onboard_time": 1660383091,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485753,
+        "num": 366306,
+        "word": "时代少年团为师兄王俊凯断桥打call",
+        "onboard_time": 1660380692,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462718,
+        "num": 358992,
+        "word": "二十不惑2徐梦洁谢彬彬cp感",
+        "onboard_time": 1660378708,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358144,
+        "num": 358144,
+        "word": "烟草缉私队员被人驾车拖行不幸离世",
+        "onboard_time": 1660382010,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 312422,
+        "num": 312422,
+        "word": "EDGM三年之约达成",
+        "onboard_time": 1660382251,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305905,
+        "num": 305905,
+        "word": "女子染发不结账称自己是大网红",
+        "onboard_time": 1660365691,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292844,
+        "num": 292844,
+        "word": "河北怀来发现初筛阳性人员",
+        "onboard_time": 1660380752,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285272,
+        "num": 285272,
+        "word": "强制开机失败的小猫",
+        "onboard_time": 1660377390,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 280805,
+        "num": 280805,
+        "word": "重庆33岁青年救落水2人后牺牲",
+        "onboard_time": 1660378169,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 399708,
+        "num": 278519,
+        "word": "虞书欣看王鹤棣的表情",
+        "onboard_time": 1660379792,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391003,
+        "num": 267828,
+        "word": "海的尽头是草原定档中秋",
+        "onboard_time": 1660382971,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380670,
+        "num": 265770,
+        "word": "网传乐山一女子跳楼砸中路人",
+        "onboard_time": 1660371930,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 371859,
+        "num": 253064,
+        "word": "沉香夫妇一家三口剧照",
+        "onboard_time": 1660383211,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252748,
+        "num": 252748,
+        "word": "喝一杯奶茶可能就糖分过量",
+        "onboard_time": 1660375709,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362704,
+        "num": 247393,
+        "word": "五谷道场 海报",
+        "onboard_time": 1660368391,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233494,
+        "num": 233494,
+        "word": "上海再派1020名医护驰援海南",
+        "onboard_time": 1660376912,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213592,
+        "num": 213592,
+        "word": "成都地震",
+        "onboard_time": 1660368511,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213463,
+        "num": 213463,
+        "word": "想去玩具工厂上班",
+        "onboard_time": 1660382971,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210281,
+        "num": 210281,
+        "word": "亲戚朋友主动免债男孩坚持还款",
+        "onboard_time": 1660375951,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338678,
+        "num": 209357,
+        "word": "断桥",
+        "onboard_time": 1660318234,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205833,
+        "num": 205833,
+        "word": "有多少左撇子被逼用右手",
+        "onboard_time": 1660366351,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203118,
+        "num": 203118,
+        "word": "多例有敦煌旅居史游客离敦后确诊",
+        "onboard_time": 1660379731,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174464,
+        "num": 174464,
+        "word": "一杯奶茶里到底有些什么",
+        "onboard_time": 1660374870,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165443,
+        "num": 165443,
+        "word": "成都疫情防控",
+        "onboard_time": 1660372406,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158175,
+        "num": 158175,
+        "word": "年轻人为何不再热衷潮玩",
+        "onboard_time": 1660374571,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155781,
+        "num": 155781,
+        "word": "17家房企联名请求打击专业房闹",
+        "onboard_time": 1660372889,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138520,
+        "num": 138520,
+        "word": "郑智担任广州队主教练",
+        "onboard_time": 1660379851,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122945,
+        "num": 138508,
+        "word": "全国多地鼓励农民进城买房",
+        "onboard_time": 1660383331,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 116569,
+        "num": 138286,
+        "word": "85年前淞沪会战爆发",
+        "onboard_time": 1660381591,
+        "rank": 49,
+        "category": "军事,国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今日繁华如斯岂能忘却历史#"
+    }
+  }
+}
