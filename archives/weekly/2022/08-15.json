@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660494510754,
+  "endTime": 1660495806975,
   "band_list": [
     {
       "raw_hot": 1319444,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1015067,
-      "num": 371952,
+      "num": 414103,
       "word": "张天爱胸骨",
       "onboard_time": 1660475371,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1660489954,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 761355,
+      "num": 761355,
+      "word": "日本7.2万余人被命令撤离",
+      "onboard_time": 1660494443,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745334,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 551477,
-      "num": 366238,
+      "num": 411581,
       "word": "苍兰诀 诀症",
       "onboard_time": 1660488035,
       "rank": 11,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 444540,
-      "num": 263857,
+      "num": 376391,
       "word": "李冰冰大花气场",
       "onboard_time": 1660492409,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439644,
+      "num": 439644,
+      "word": "义乌大部分街镇延长静默期",
+      "onboard_time": 1660493186,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384359,
@@ -147,20 +163,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 292797,
+      "num": 262950,
+      "word": "00后男生工作吵架吵到哭",
+      "onboard_time": 1660489894,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289092,
       "num": 289092,
       "word": "四川山洪事发河道为网红打卡地",
       "onboard_time": 1660481555,
       "rank": 17,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 287652,
-      "num": 262950,
-      "word": "00后男生工作吵架吵到哭",
-      "onboard_time": 1660489894,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 285231,
@@ -219,14 +235,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 250825,
-      "num": 250825,
-      "word": "义乌大部分街镇延长静默期",
-      "onboard_time": 1660493186,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230996,
       "num": 230996,
       "word": "张家界坠亡女骑手家属获补偿45万元",
@@ -281,6 +289,14 @@
       "onboard_time": 1660487075,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185284,
+      "num": 153358,
+      "word": "林墨把木牛流马演活了",
+      "onboard_time": 1660491272,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 179005,
@@ -353,6 +369,14 @@
       "onboard_time": 1660488336,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108491,
+      "num": 108491,
+      "word": "黑猫奇闻社",
+      "onboard_time": 1660494866,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 107935,
