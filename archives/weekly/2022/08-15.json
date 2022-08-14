@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660497632910,
+  "endTime": 1660498628655,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -65,6 +65,14 @@
       "onboard_time": 1660471652,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 665739,
+      "num": 665739,
+      "word": "工作4年收入被父母退休金倒挂了",
+      "onboard_time": 1660497021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551477,
@@ -267,14 +275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209220,
-      "num": 209220,
-      "word": "工作4年收入被父母退休金倒挂了",
-      "onboard_time": 1660497021,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203654,
       "num": 147155,
       "word": "欢乐颂3朱喆的职场逆袭",
@@ -387,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123606,
+      "num": 123606,
+      "word": "刘亦菲微博电影之夜造型",
+      "onboard_time": 1660497740,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109541,
       "num": 109541,
       "word": "海口延长临时性静态管理时间",
@@ -409,6 +417,14 @@
       "onboard_time": 1660472012,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99688,
+      "num": 99688,
+      "word": "王鹤棣东方青苍人间造型",
+      "onboard_time": 1660483171,
+      "rank": 43,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 99537,
@@ -435,12 +451,12 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 69649,
-      "num": 69649,
-      "word": "王鹤棣东方青苍人间造型",
-      "onboard_time": 1660483171,
+      "raw_hot": 61630,
+      "num": 61630,
+      "word": "反矫情文学",
+      "onboard_time": 1660498038,
       "rank": 43,
-      "category": "影视,艺人"
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 19650,
