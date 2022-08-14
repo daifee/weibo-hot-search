@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660466432771,
+  "endTime": 1660468817662,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -25,6 +25,14 @@
       "onboard_time": 1660457969,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3074511,
+      "num": 3074511,
+      "word": "安徽热成全国第一",
+      "onboard_time": 1660464632,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2729710,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1707273,
+      "num": 1707273,
+      "word": "微博电影之夜",
+      "onboard_time": 1660466970,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1680967,
       "num": 364334,
       "word": "吴倩最新写真照",
@@ -113,14 +129,6 @@
       "onboard_time": 1660445669,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1501683,
-      "num": 1501683,
-      "word": "安徽热成全国第一",
-      "onboard_time": 1660464632,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1296824,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737640,
+      "num": 737640,
+      "word": "青海玉树5.9级地震",
+      "onboard_time": 1660466372,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729431,
       "num": 729431,
       "word": "把男朋友做的饭做成了菜单",
@@ -459,6 +475,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 628775,
+      "num": 628775,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1660467990,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625357,
       "num": 625357,
       "word": "黄景瑜悬崖引体向上",
@@ -499,12 +523,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 577334,
+      "num": 577334,
+      "word": "母子餐馆就餐顺走他人遗落500元鞋",
+      "onboard_time": 1660463610,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576804,
       "num": 576804,
       "word": "苍兰诀",
       "onboard_time": 1660454311,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 574511,
+      "num": 574511,
+      "word": "成都辟谣彭州山洪与上游泄洪有关",
+      "onboard_time": 1660465892,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573764,
@@ -529,6 +569,14 @@
       "onboard_time": 1660441228,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 561082,
+      "num": 561082,
+      "word": "王子璇蝴蝶妆",
+      "onboard_time": 1660468169,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 560289,
@@ -571,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 517566,
-      "num": 517566,
-      "word": "母子餐馆就餐顺走他人遗落500元鞋",
-      "onboard_time": 1660463610,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509069,
       "num": 509069,
       "word": "老人为省电关闸门致冰箱食物腐臭",
@@ -611,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 488624,
+      "num": 488624,
+      "word": "北京街头2米高的蘑菇到底是啥",
+      "onboard_time": 1660464929,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486616,
       "num": 486616,
       "word": "王俊凯主演电影累计票房破20亿",
@@ -625,6 +673,14 @@
       "onboard_time": 1660397311,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472842,
+      "num": 326203,
+      "word": "王俊凯微博电影之夜造型",
+      "onboard_time": 1660467451,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 472553,
@@ -673,6 +729,14 @@
       "onboard_time": 1660432938,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 439542,
+      "num": 439542,
+      "word": "福州男生祖孙三代全上清华",
+      "onboard_time": 1660466310,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 438963,
@@ -729,6 +793,14 @@
       "onboard_time": 1660411817,
       "rank": 11,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 427089,
+      "num": 427089,
+      "word": "9岁男孩高温天为车祸伤者遮阳",
+      "onboard_time": 1660464508,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 424228,
@@ -793,6 +865,14 @@
       "onboard_time": 1660445610,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412532,
+      "num": 242155,
+      "word": "央视财经818晚会第二波阵容线索",
+      "onboard_time": 1660468592,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 404533,
@@ -891,11 +971,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375915,
+      "num": 241435,
+      "word": "朱一龙微博电影之夜造型",
+      "onboard_time": 1660467632,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366659,
       "num": 366659,
       "word": "玉骨遥",
       "onboard_time": 1660436546,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 366557,
+      "num": 238432,
+      "word": "新浪电影",
+      "onboard_time": 1660468530,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -905,6 +1001,14 @@
       "onboard_time": 1660451550,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363532,
+      "num": 1848021,
+      "word": "到了壶口才知道为什么叫黄河",
+      "onboard_time": 1660450411,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 362717,
@@ -920,6 +1024,14 @@
       "word": "东方青苍变好了又没完全变好",
       "onboard_time": 1660451911,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355923,
+      "num": 206194,
+      "word": "苍兰诀 上头",
+      "onboard_time": 1660468231,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1003,20 +1115,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 328268,
-      "num": 1185674,
-      "word": "到了壶口才知道为什么叫黄河",
-      "onboard_time": 1660450411,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 325687,
       "num": 248346,
       "word": "成毅打戏好飒",
       "onboard_time": 1660441828,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321374,
+      "num": 321374,
+      "word": "北京一救人的快递小哥居然是有证的",
+      "onboard_time": 1660463311,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 316489,
@@ -1113,14 +1225,6 @@
       "onboard_time": 1660457908,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 286704,
-      "num": 286704,
-      "word": "9岁男孩高温天为车祸伤者遮阳",
-      "onboard_time": 1660464508,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 283349,
@@ -1227,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256695,
-      "num": 256695,
-      "word": "北京街头2米高的蘑菇到底是啥",
-      "onboard_time": 1660464929,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255587,
       "num": 204348,
       "word": "被魏大勋摸鱼笑死了",
@@ -1249,6 +1345,22 @@
       "onboard_time": 1660456829,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252037,
+      "num": 252037,
+      "word": "河南将出现对流性降水天气",
+      "onboard_time": 1660467330,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252003,
+      "num": 252003,
+      "word": "102岁外婆看到外孙笑出表情包",
+      "onboard_time": 1660467032,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251436,
@@ -1291,12 +1403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240559,
-      "num": 240559,
-      "word": "北京一救人的快递小哥居然是有证的",
-      "onboard_time": 1660463311,
+      "raw_hot": 243065,
+      "num": 243065,
+      "word": "陈彬彬加盟日本富山胜利",
+      "onboard_time": 1660466551,
       "rank": 29,
-      "category": "社会正能量"
+      "category": "体育"
     },
     {
       "raw_hot": 239063,
@@ -1315,14 +1427,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 230110,
-      "num": 142004,
-      "word": "青海玉树5.9级地震",
-      "onboard_time": 1660466372,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229574,
       "num": 229574,
       "word": "北京新增15例境外输入确诊病例",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1660462050,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228740,
+      "num": 238466,
+      "word": "清清的蒙恬",
+      "onboard_time": 1660464810,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 228254,
@@ -1355,11 +1467,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221854,
-      "num": 221854,
-      "word": "成都辟谣彭州山洪与上游泄洪有关",
-      "onboard_time": 1660465892,
-      "rank": 36,
+      "raw_hot": 219871,
+      "num": 219871,
+      "word": "高温还要持续多久",
+      "onboard_time": 1660467570,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1451,14 +1563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172118,
-      "num": 172118,
-      "word": "清清的蒙恬",
-      "onboard_time": 1660464810,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171197,
       "num": 171197,
       "word": "超清画面记录中国空间站凌月",
@@ -1531,6 +1635,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "双向奔赴的善意有多美好",
+      "onboard_time": 1660466970,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 155201,
       "num": 155201,
       "word": "食物语",
@@ -1577,14 +1689,6 @@
       "onboard_time": 1660432819,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130295,
-      "num": 130295,
-      "word": "福州男生祖孙三代全上清华",
-      "onboard_time": 1660466310,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128461,
@@ -1705,6 +1809,14 @@
       "onboard_time": 1660416613,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95511,
+      "num": 95511,
+      "word": "秋天需要一盏兔子灯笼",
+      "onboard_time": 1660468771,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 94120,
