@@ -1,0 +1,410 @@
+{
+  "runTime": 1660484669904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3786131,
+        "num": 3786131,
+        "word": "又有美国国会参众议员窜访台湾",
+        "onboard_time": 1660482270,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2194138,
+        "num": 2194138,
+        "word": "沈腾 偷轮胎",
+        "onboard_time": 1660473333,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26021,
+        "num": 1864753,
+        "word": "超清画面记录中国空间站凌月",
+        "onboard_time": 1660443569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782186,
+        "num": 1782186,
+        "word": "女生没考好深夜跪孔子像前忏悔",
+        "onboard_time": 1660480833,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1383792,
+        "num": 1383792,
+        "word": "山洪前有管理员喊我跪下来求大家",
+        "onboard_time": 1660477711,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1121199,
+        "num": 1121199,
+        "word": "6岁女童磕伤意外查出身体10处肿瘤",
+        "onboard_time": 1660478611,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104116,
+        "num": 1104116,
+        "word": "长沙所有初中新生停止军训",
+        "onboard_time": 1660476033,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1056296,
+        "num": 1056296,
+        "word": "刘亦菲电影之夜红毯生图状态",
+        "onboard_time": 1660472850,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 898208,
+        "num": 898208,
+        "word": "RNG",
+        "onboard_time": 1660482511,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 872235,
+        "num": 872235,
+        "word": "邢菲好美",
+        "onboard_time": 1660478189,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2300774,
+        "num": 871214,
+        "word": "张天爱胸骨",
+        "onboard_time": 1660475371,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 851909,
+        "num": 851909,
+        "word": "父母做保姆会让你自卑吗",
+        "onboard_time": 1660481973,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 838593,
+        "num": 838593,
+        "word": "王鹤棣东方青苍人间造型",
+        "onboard_time": 1660483171,
+        "rank": 12,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 663386,
+        "num": 663386,
+        "word": "四川山洪事发河道为网红打卡地",
+        "onboard_time": 1660481555,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624544,
+        "num": 624544,
+        "word": "中国男排亚洲杯夺冠",
+        "onboard_time": 1660480715,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558463,
+        "num": 558463,
+        "word": "张家界坠亡女骑手家属获补偿45万元",
+        "onboard_time": 1660472731,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531084,
+        "num": 531084,
+        "word": "彩礼为什么越来越贵",
+        "onboard_time": 1660469312,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 487534,
+        "num": 487534,
+        "word": "山洪突袭男子紧抱女孩死里逃生",
+        "onboard_time": 1660473571,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426190,
+        "num": 426190,
+        "word": "怪不得男人爱看挖掘机",
+        "onboard_time": 1660482153,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 400152,
+        "num": 400152,
+        "word": "EDG 我们是冠军",
+        "onboard_time": 1660473092,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 830491,
+        "num": 396513,
+        "word": "邓超说想演鹿晗儿子",
+        "onboard_time": 1660480411,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512541,
+        "num": 390793,
+        "word": "微博电影之夜",
+        "onboard_time": 1660466970,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499323,
+        "num": 385009,
+        "word": "东方青苍向小兰花表白",
+        "onboard_time": 1660479633,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469510,
+        "num": 378771,
+        "word": "邓紫棋直播",
+        "onboard_time": 1660483895,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378763,
+        "num": 378763,
+        "word": "九寨沟的水为何踩不得",
+        "onboard_time": 1660472670,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352641,
+        "num": 352641,
+        "word": "重庆热成全国第一",
+        "onboard_time": 1660472793,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326429,
+        "num": 326429,
+        "word": "上海四大金刚早餐有多上头",
+        "onboard_time": 1660478431,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318385,
+        "num": 318385,
+        "word": "KPL",
+        "onboard_time": 1660483350,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305828,
+        "num": 305828,
+        "word": "三亚机场15日起恢复国内客运",
+        "onboard_time": 1660477711,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301043,
+        "num": 301043,
+        "word": "养的多肉居然开花了",
+        "onboard_time": 1660472012,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464229,
+        "num": 299719,
+        "word": "极限挑战",
+        "onboard_time": 1660483115,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352118,
+        "num": 298824,
+        "word": "苍兰诀",
+        "onboard_time": 1660454311,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296071,
+        "num": 296071,
+        "word": "一句话怼死杠精",
+        "onboard_time": 1660482992,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289747,
+        "num": 289747,
+        "word": "JDG获得复活甲",
+        "onboard_time": 1660483712,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284270,
+        "num": 284270,
+        "word": "LGD对战RNG",
+        "onboard_time": 1660480653,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 487173,
+        "num": 283923,
+        "word": "断桥年度最受关注影片",
+        "onboard_time": 1660483895,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283028,
+        "num": 283028,
+        "word": "中国男排 我们是冠军",
+        "onboard_time": 1660482392,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418184,
+        "num": 282737,
+        "word": "周深全开麦唱大鱼",
+        "onboard_time": 1660481313,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270232,
+        "num": 270232,
+        "word": "今天解放军22架次军机6艘次军舰巡台",
+        "onboard_time": 1660484311,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 232875,
+        "num": 232875,
+        "word": "张景胤MVP",
+        "onboard_time": 1660484193,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225564,
+        "num": 225564,
+        "word": "爷爷雨天抱着孙子无效打伞",
+        "onboard_time": 1660470451,
+        "rank": 40,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 206049,
+        "num": 206049,
+        "word": "上海无人机精准定位未扫场所码人员",
+        "onboard_time": 1660473033,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204046,
+        "num": 204046,
+        "word": "AG斩获首届世锦赛冠军",
+        "onboard_time": 1660480173,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396312,
+        "num": 201974,
+        "word": "一骑绝尘",
+        "onboard_time": 1660478735,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197001,
+        "num": 197001,
+        "word": "特朗普律师曾称所有机密材料已归还",
+        "onboard_time": 1660471951,
+        "rank": 44,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 158954,
+        "num": 158954,
+        "word": "中国男排横扫日本男排",
+        "onboard_time": 1660481136,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154416,
+        "num": 154416,
+        "word": "重庆一消防员扑救中遇燃爆牺牲",
+        "onboard_time": 1660474350,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149130,
+        "num": 149130,
+        "word": "北京街头2米高的蘑菇到底是啥",
+        "onboard_time": 1660464929,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145509,
+        "num": 145509,
+        "word": "饿了么免单",
+        "onboard_time": 1660480294,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139995,
+        "num": 139995,
+        "word": "河南将出现对流性降水天气",
+        "onboard_time": 1660467330,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京国际电影节开幕式#"
+    }
+  }
+}
