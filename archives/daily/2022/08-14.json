@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660452689669,
+  "endTime": 1660454395517,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2042920,
-      "num": 529699,
+      "num": 672575,
       "word": "荷兰弟暂时退网",
       "onboard_time": 1660449272,
       "rank": 10,
@@ -105,6 +105,22 @@
       "onboard_time": 1660400075,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1146540,
+      "num": 1100669,
+      "word": "6旬老人烫头后称不满意拒付钱",
+      "onboard_time": 1660451009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138874,
+      "num": 1138874,
+      "word": "四川德阳一在建天桥突然垮塌",
+      "onboard_time": 1660452452,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1107505,
@@ -283,20 +299,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 641720,
-      "num": 529192,
-      "word": "6旬老人烫头后称不满意拒付钱",
-      "onboard_time": 1660451009,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603193,
       "num": 511390,
       "word": "看不懂但大为震撼的情侣行为",
       "onboard_time": 1660404872,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 590725,
+      "num": 590725,
+      "word": "郭晓婷花魁造型",
+      "onboard_time": 1660453770,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 573764,
@@ -353,6 +369,14 @@
       "onboard_time": 1660447289,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 509227,
+      "num": 509227,
+      "word": "一夜之间金宝贝7个校区突然关停",
+      "onboard_time": 1660450892,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 509069,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431140,
+      "num": 431140,
+      "word": "陈奕迅说做歌迷很幸福",
+      "onboard_time": 1660452810,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 430461,
       "num": 1329544,
       "word": "生腌海鱼并不比生腌淡水鱼更安全",
@@ -497,6 +529,14 @@
       "onboard_time": 1660395632,
       "rank": 30,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 416107,
+      "num": 317930,
+      "word": "说唱巅峰联盟freestyle赛",
+      "onboard_time": 1660453831,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 413225,
@@ -571,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366035,
+      "num": 366035,
+      "word": "德阳岷江桥",
+      "onboard_time": 1660451550,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362717,
       "num": 362717,
       "word": "布布是王一博的battle的工具人",
       "onboard_time": 1660432157,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361643,
+      "num": 297206,
+      "word": "东方青苍变好了又没完全变好",
+      "onboard_time": 1660451911,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 352122,
@@ -595,12 +651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346588,
-      "num": 346588,
-      "word": "德阳岷江桥",
-      "onboard_time": 1660451550,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 349064,
+      "num": 228541,
+      "word": "张峻豪灵魂冲浪英文rap",
+      "onboard_time": 1660454192,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 334184,
@@ -627,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324028,
+      "num": 324028,
+      "word": "导游嫌游客购物少在车内发牢骚",
+      "onboard_time": 1660451370,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316489,
       "num": 316489,
       "word": "三亚增367例确诊721例无症状",
@@ -635,11 +699,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314235,
-      "num": 247775,
-      "word": "东方青苍变好了又没完全变好",
-      "onboard_time": 1660451911,
-      "rank": 30,
+      "raw_hot": 311811,
+      "num": 187949,
+      "word": "苍兰诀",
+      "onboard_time": 1660454311,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -683,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298116,
+      "num": 298116,
+      "word": "上海中小学托幼机构9月1日开学",
+      "onboard_time": 1660449928,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 295257,
       "num": 209018,
       "word": "暑期档总票房破75亿",
@@ -691,12 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286770,
-      "num": 286770,
-      "word": "一夜之间金宝贝7个校区突然关停",
-      "onboard_time": 1660450892,
-      "rank": 39,
-      "category": "社会新闻,财经"
+      "raw_hot": 294531,
+      "num": 294531,
+      "word": "G2晋级世界赛",
+      "onboard_time": 1660452030,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 283349,
@@ -729,14 +801,6 @@
       "onboard_time": 1660402535,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 273624,
-      "num": 273624,
-      "word": "四川德阳一在建天桥突然垮塌",
-      "onboard_time": 1660452452,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271978,
@@ -787,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251560,
-      "num": 251560,
-      "word": "上海中小学托幼机构9月1日开学",
-      "onboard_time": 1660449928,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 251436,
       "num": 251436,
       "word": "刘雨昕像极了第一次去别人家的我",
@@ -827,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243541,
-      "num": 243541,
-      "word": "G2晋级世界赛",
-      "onboard_time": 1660452030,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237653,
       "num": 237653,
       "word": "特朗普若被定罪最高可获10年监禁",
@@ -859,11 +907,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226766,
-      "num": 226766,
-      "word": "导游嫌游客购物少在车内发牢骚",
-      "onboard_time": 1660451370,
-      "rank": 45,
+      "raw_hot": 222654,
+      "num": 222654,
+      "word": "吃生腌海鲜有哪些风险",
+      "onboard_time": 1660453469,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -939,12 +987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187384,
-      "num": 187384,
+      "raw_hot": 191047,
+      "num": 191047,
       "word": "萌娃睡醒犯迷糊无实物刷手机",
       "onboard_time": 1660451248,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176447,
+      "num": 176447,
+      "word": "斗破苍穹史上最高调复学",
+      "onboard_time": 1660454011,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 174375,
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161754,
+      "num": 161754,
+      "word": "研究揭示思考为何会让人疲惫",
+      "onboard_time": 1660453710,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 160648,
       "num": 160648,
       "word": "呼和浩特新增4例阳性感染者",
@@ -1017,6 +1081,22 @@
       "onboard_time": 1660441046,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 150050,
+      "num": 150050,
+      "word": "厦门海上日出宁静壮阔",
+      "onboard_time": 1660452391,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 143197,
+      "num": 143197,
+      "word": "大哥一个箭步跳水中救起落水男孩",
+      "onboard_time": 1660454311,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 142834,
@@ -1073,14 +1153,6 @@
       "onboard_time": 1660384590,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127881,
-      "num": 127881,
-      "word": "厦门海上日出宁静壮阔",
-      "onboard_time": 1660452391,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 125292,

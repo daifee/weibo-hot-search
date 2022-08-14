@@ -1,0 +1,410 @@
+{
+  "runTime": 1660454395517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1896635,
+        "num": 1896635,
+        "word": "她们还在等待道歉",
+        "onboard_time": 1660432998,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138874,
+        "num": 1138874,
+        "word": "四川德阳一在建天桥突然垮塌",
+        "onboard_time": 1660452452,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107179,
+        "num": 1113351,
+        "word": "中国空间站任务LOGO大赏",
+        "onboard_time": 1660449212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2671029,
+        "num": 1106213,
+        "word": "同居1年分手男子欲要回88.8万彩礼",
+        "onboard_time": 1660444649,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146540,
+        "num": 1100669,
+        "word": "6旬老人烫头后称不满意拒付钱",
+        "onboard_time": 1660451009,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094979,
+        "num": 1094979,
+        "word": "广西一大学结满水果学生随便吃",
+        "onboard_time": 1660445669,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 950841,
+        "num": 950841,
+        "word": "西藏初筛阳性人员不再进行复核",
+        "onboard_time": 1660449450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765108,
+        "num": 765108,
+        "word": "那英华晨宇指导沙溢唱歌",
+        "onboard_time": 1660450590,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734593,
+        "num": 734593,
+        "word": "王源加盟央视财经818晚会",
+        "onboard_time": 1660448970,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713266,
+        "num": 713266,
+        "word": "彭州山洪3名重伤人员抢救无效死亡",
+        "onboard_time": 1660444111,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1179613,
+        "num": 672575,
+        "word": "荷兰弟暂时退网",
+        "onboard_time": 1660449272,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590725,
+        "num": 590725,
+        "word": "郭晓婷花魁造型",
+        "onboard_time": 1660453770,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509227,
+        "num": 509227,
+        "word": "一夜之间金宝贝7个校区突然关停",
+        "onboard_time": 1660450892,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 506302,
+        "num": 506302,
+        "word": "王一博街舞版家有儿女",
+        "onboard_time": 1660450650,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470378,
+        "num": 470378,
+        "word": "把男朋友做的饭做成了菜单",
+        "onboard_time": 1660444950,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 431140,
+        "num": 431140,
+        "word": "陈奕迅说做歌迷很幸福",
+        "onboard_time": 1660452810,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400158,
+        "num": 400158,
+        "word": "用头盔挡刀的辅警23岁已从警5年",
+        "onboard_time": 1660442909,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 366035,
+        "num": 366035,
+        "word": "德阳岷江桥",
+        "onboard_time": 1660451550,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361405,
+        "num": 361405,
+        "word": "孕妇每天1杯奶茶喝成奶茶血",
+        "onboard_time": 1660399115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324028,
+        "num": 324028,
+        "word": "导游嫌游客购物少在车内发牢骚",
+        "onboard_time": 1660451370,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430428,
+        "num": 322893,
+        "word": "JYP中国练习生翻唱想见你",
+        "onboard_time": 1660445610,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 416107,
+        "num": 317930,
+        "word": "说唱巅峰联盟freestyle赛",
+        "onboard_time": 1660453831,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400248,
+        "num": 315976,
+        "word": "江疏影欢乐颂3是经常请吃饭的姐姐吧",
+        "onboard_time": 1660448910,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310750,
+        "num": 310750,
+        "word": "幼儿园餐食霉烂系离职厨师造谣",
+        "onboard_time": 1660448312,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 298116,
+        "num": 298116,
+        "word": "上海中小学托幼机构9月1日开学",
+        "onboard_time": 1660449928,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 361643,
+        "num": 297206,
+        "word": "东方青苍变好了又没完全变好",
+        "onboard_time": 1660451911,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294531,
+        "num": 294531,
+        "word": "G2晋级世界赛",
+        "onboard_time": 1660452030,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259605,
+        "num": 259605,
+        "word": "14岁少年打赏主播4万元全部追回",
+        "onboard_time": 1660444349,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238968,
+        "num": 238968,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1660446270,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233345,
+        "num": 233345,
+        "word": "新学期人设",
+        "onboard_time": 1660447050,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349625,
+        "num": 229887,
+        "word": "张馨予手动让胡一天闭嘴",
+        "onboard_time": 1660444708,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349064,
+        "num": 228541,
+        "word": "张峻豪灵魂冲浪英文rap",
+        "onboard_time": 1660454192,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312901,
+        "num": 227508,
+        "word": "王俊凯回应观众看哭了",
+        "onboard_time": 1660447289,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222654,
+        "num": 222654,
+        "word": "吃生腌海鲜有哪些风险",
+        "onboard_time": 1660453469,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219536,
+        "num": 219536,
+        "word": "怼CNN的英国乐手批美国妄图统治世界",
+        "onboard_time": 1660445610,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275535,
+        "num": 211241,
+        "word": "迪丽热巴秦时丽人明月心开播五周年",
+        "onboard_time": 1660445010,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202261,
+        "num": 202261,
+        "word": "到了壶口才知道为什么叫黄河",
+        "onboard_time": 1660450411,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 200589,
+        "num": 200589,
+        "word": "乌鲁木齐101中学淘汰清华附中",
+        "onboard_time": 1660442848,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191047,
+        "num": 191047,
+        "word": "萌娃睡醒犯迷糊无实物刷手机",
+        "onboard_time": 1660451248,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191031,
+        "num": 191031,
+        "word": "骑行已成当代社交三大件之一",
+        "onboard_time": 1660445973,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311811,
+        "num": 187949,
+        "word": "苍兰诀",
+        "onboard_time": 1660454311,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176447,
+        "num": 176447,
+        "word": "斗破苍穹史上最高调复学",
+        "onboard_time": 1660454011,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164911,
+        "num": 164911,
+        "word": "彭州突发山洪黑衣男子逆行救人",
+        "onboard_time": 1660437987,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 161754,
+        "num": 161754,
+        "word": "研究揭示思考为何会让人疲惫",
+        "onboard_time": 1660453710,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157705,
+        "num": 157705,
+        "word": "加拿大安大略省长讲话时误吞蜜蜂",
+        "onboard_time": 1660442371,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153209,
+        "num": 153209,
+        "word": "彭州山洪目击者称有人提前逃离",
+        "onboard_time": 1660437927,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 150248,
+        "num": 150248,
+        "word": "上海中考",
+        "onboard_time": 1660445068,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150050,
+        "num": 150050,
+        "word": "厦门海上日出宁静壮阔",
+        "onboard_time": 1660452391,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 143197,
+        "num": 143197,
+        "word": "大哥一个箭步跳水中救起落水男孩",
+        "onboard_time": 1660454311,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 140524,
+        "num": 140524,
+        "word": "拉萨市卫健委主任被免职",
+        "onboard_time": 1660441528,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
