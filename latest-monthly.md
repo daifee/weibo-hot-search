@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/15 00:50:06
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/15 01:20:32
 </p>
 </blockquote>
 <p>
@@ -1187,6 +1187,12 @@ ESO组合模仿行为侵权（热度：2919189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E4%B9%90%E9%A2%823%20%E5%B0%B4%E5%B0%AC%23" target="weibo">
 欢乐颂3 尴尬（热度：2886901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.2%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A2%AB%E5%91%BD%E4%BB%A4%E6%92%A4%E7%A6%BB%23" target="weibo">
+日本7.2万余人被命令撤离（热度：2883607）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone14入门版价格或与上代一致（热度：928649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%9D%9A%E5%86%B3%E9%A9%B3%E6%96%A5%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E6%B6%89%E5%8F%B0%E5%A3%B0%E6%98%8E%23" target="weibo">
 王毅坚决驳斥七国集团涉台声明（热度：882773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E9%99%84%E8%BF%91%E9%9B%B7%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-白宫附近雷击事件已致2人死亡（热度：882354）
 </a>
 </li>
 
