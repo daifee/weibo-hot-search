@@ -1,0 +1,410 @@
+{
+  "runTime": 1660462499880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3641227,
+        "num": 3641227,
+        "word": "JK罗琳收到死亡威胁",
+        "onboard_time": 1660457969,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1720173,
+        "num": 1720173,
+        "word": "女子吐槽韩国月子餐是断奶餐",
+        "onboard_time": 1660456650,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107502,
+        "num": 1469930,
+        "word": "中国空间站任务LOGO大赏",
+        "onboard_time": 1660449212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248764,
+        "num": 1248764,
+        "word": "彩礼为什么流传至今",
+        "onboard_time": 1660458030,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242056,
+        "num": 1242056,
+        "word": "同居1年分手男子欲要回88.8万彩礼",
+        "onboard_time": 1660444649,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103417,
+        "num": 1103417,
+        "word": "2岁女童打翻爸爸泡面被深度烫伤",
+        "onboard_time": 1660458328,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915685,
+        "num": 915685,
+        "word": "王鹤棣西瓜头",
+        "onboard_time": 1660460432,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 879299,
+        "num": 879299,
+        "word": "虞书欣小兰花人间造型",
+        "onboard_time": 1660461330,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681843,
+        "num": 681843,
+        "word": "彭州突发山洪造成7死8伤",
+        "onboard_time": 1660457129,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 656187,
+        "num": 656187,
+        "word": "女孩跨省见网友半路报警被劫持",
+        "onboard_time": 1660455509,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672660,
+        "num": 647304,
+        "word": "原来冰雨火是这个意思",
+        "onboard_time": 1660459291,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591939,
+        "num": 591939,
+        "word": "狗子以为主人睡着偷偷进屋蹭空调",
+        "onboard_time": 1660455449,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587593,
+        "num": 587593,
+        "word": "14岁少年沉迷手游被训报警抓父亲",
+        "onboard_time": 1660458929,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571408,
+        "num": 571408,
+        "word": "饿了么",
+        "onboard_time": 1660460190,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 563612,
+        "num": 563612,
+        "word": "黄景瑜悬崖引体向上",
+        "onboard_time": 1660458929,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508285,
+        "num": 508285,
+        "word": "郭晓婷花魁造型",
+        "onboard_time": 1660453770,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398774,
+        "num": 398774,
+        "word": "主播疑采摘水母雪兔子被封号",
+        "onboard_time": 1660454611,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326775,
+        "num": 326775,
+        "word": "四川德阳一在建天桥突然垮塌",
+        "onboard_time": 1660452452,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290714,
+        "num": 290714,
+        "word": "广西一大学结满水果学生随便吃",
+        "onboard_time": 1660445669,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 290033,
+        "num": 290033,
+        "word": "6旬老人烫头后称不满意拒付钱",
+        "onboard_time": 1660451009,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1680967,
+        "num": 290018,
+        "word": "吴倩最新写真照",
+        "onboard_time": 1660461269,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500260,
+        "num": 289999,
+        "word": "赵露思哭戏控制力",
+        "onboard_time": 1660460070,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400281,
+        "num": 289987,
+        "word": "王俊凯主演电影累计票房破20亿",
+        "onboard_time": 1660458871,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289969,
+        "num": 289969,
+        "word": "一夜之间金宝贝7个校区突然关停",
+        "onboard_time": 1660450892,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 265408,
+        "num": 265408,
+        "word": "TTG对战KSG",
+        "onboard_time": 1660462352,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398407,
+        "num": 259813,
+        "word": "假如沉香如屑迎来职场季",
+        "onboard_time": 1660461090,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247322,
+        "num": 247322,
+        "word": "游乐设施甩落妈妈急速起身抱起孩子",
+        "onboard_time": 1660458751,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243292,
+        "num": 243292,
+        "word": "她们还在等待道歉",
+        "onboard_time": 1660432998,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231933,
+        "num": 231933,
+        "word": "西藏初筛阳性人员不再进行复核",
+        "onboard_time": 1660449450,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219526,
+        "num": 219526,
+        "word": "彭州山洪3名重伤人员抢救无效死亡",
+        "onboard_time": 1660444111,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 399748,
+        "num": 219302,
+        "word": "布瑞吉freestyle杀疯了",
+        "onboard_time": 1660457608,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346084,
+        "num": 216547,
+        "word": "黄明昊玩狼人杀被搞心态",
+        "onboard_time": 1660461152,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385772,
+        "num": 212694,
+        "word": "vava freestyle",
+        "onboard_time": 1660458030,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208501,
+        "num": 208501,
+        "word": "排排坐的四只猫咪",
+        "onboard_time": 1660461269,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175554,
+        "num": 175554,
+        "word": "见过最有素质的狗狗",
+        "onboard_time": 1660459291,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159271,
+        "num": 159271,
+        "word": "把男朋友做的饭做成了菜单",
+        "onboard_time": 1660444950,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146342,
+        "num": 146342,
+        "word": "四川德阳在建桥垮塌事故已致1死1伤",
+        "onboard_time": 1660457908,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 139470,
+        "num": 139470,
+        "word": "1株葡萄树结出1140串葡萄",
+        "onboard_time": 1660461751,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132519,
+        "num": 132519,
+        "word": "用头盔挡刀的辅警23岁已从警5年",
+        "onboard_time": 1660442909,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 131331,
+        "num": 131331,
+        "word": "男子将保险柜伪装成垃圾被捡走",
+        "onboard_time": 1660462050,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336487,
+        "num": 129280,
+        "word": "苍兰诀",
+        "onboard_time": 1660454311,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324681,
+        "num": 124959,
+        "word": "李玉发文回应断桥女主不报警",
+        "onboard_time": 1660456650,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117727,
+        "num": 117727,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1660446270,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "吃生腌海鲜有哪些风险",
+        "onboard_time": 1660453469,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115116,
+        "num": 115116,
+        "word": "斗破苍穹史上最高调复学",
+        "onboard_time": 1660454011,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111927,
+        "num": 111927,
+        "word": "孕妇每天1杯奶茶喝成奶茶血",
+        "onboard_time": 1660399115,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111753,
+        "num": 111753,
+        "word": "G2晋级世界赛",
+        "onboard_time": 1660452030,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 104002,
+        "word": "到了壶口才知道为什么叫黄河",
+        "onboard_time": 1660450411,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103227,
+        "num": 103227,
+        "word": "幼儿园餐食霉烂系离职厨师造谣",
+        "onboard_time": 1660448312,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 93680,
+        "num": 93680,
+        "word": "14岁少年打赏主播4万元全部追回",
+        "onboard_time": 1660444349,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京国际电影节开幕式#"
+    }
+  }
+}
