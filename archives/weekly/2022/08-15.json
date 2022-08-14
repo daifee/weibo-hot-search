@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660509425298,
+  "endTime": 1660511915164,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203103,
+      "num": 203103,
+      "word": "多地教育局否认中学暑期违规补课",
+      "onboard_time": 1660508472,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 201747,
       "num": 201747,
       "word": "出现裂痕的爱情还可以如初吗",
@@ -313,6 +321,14 @@
       "onboard_time": 1660473333,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188016,
+      "num": 54221,
+      "word": "母女带100多万现金坐高铁",
+      "onboard_time": 1660507991,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186988,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90683,
+      "num": 90683,
+      "word": "40度高温3岁男孩被锁车内",
+      "onboard_time": 1660509732,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89413,
       "num": 89413,
       "word": "中国男排亚洲杯夺冠",
@@ -467,14 +491,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 72092,
-      "num": 46573,
-      "word": "母女带100多万现金坐高铁",
-      "onboard_time": 1660507991,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62942,
       "num": 62942,
       "word": "一定空置率说明居民住房水平提高",
@@ -483,16 +499,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 51303,
-      "num": 45580,
-      "word": "多地教育局否认中学暑期违规补课",
-      "onboard_time": 1660508472,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 37593,
-      "num": 37593,
+      "raw_hot": 50850,
+      "num": 50850,
       "word": "三伏天最后一伏来了",
       "onboard_time": 1660506912,
       "rank": 35,
@@ -545,6 +553,22 @@
       "onboard_time": 1660443569,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15580,
+      "num": 15580,
+      "word": "猫猫会狗喘是什么体验",
+      "onboard_time": 1660511291,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 14083,
+      "num": 14083,
+      "word": "探班央视中秋晚会",
+      "onboard_time": 1660511231,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
