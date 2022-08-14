@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660502524700,
+  "endTime": 1660504620182,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -88,6 +88,14 @@
       "word": "义乌大部分街镇延长静默期",
       "onboard_time": 1660493186,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544004,
+      "num": 544004,
+      "word": "你见过凌晨4点的天安门吗",
+      "onboard_time": 1660501573,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -459,14 +467,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 78755,
-      "num": 78755,
-      "word": "你见过凌晨4点的天安门吗",
-      "onboard_time": 1660501573,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37531,
       "num": 37531,
       "word": "袁泉黄晓明演技派谈判",
@@ -489,6 +489,14 @@
       "onboard_time": 1660501875,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23383,
+      "num": 23383,
+      "word": "该怎么跟尹浩宇解释宋丹丹不会魔法",
+      "onboard_time": 1660504153,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 19650,
