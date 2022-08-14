@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660490514008,
+  "endTime": 1660491564085,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1933293,
+      "num": 1933293,
+      "word": "被同事朋友圈分组屏蔽的心情",
+      "onboard_time": 1660488453,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1928123,
       "num": 1928123,
       "word": "女子吐槽韩国月子餐是断奶餐",
       "onboard_time": 1660456650,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1899718,
-      "num": 1899718,
-      "word": "被同事朋友圈分组屏蔽的心情",
-      "onboard_time": 1660488453,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1865005,
@@ -289,6 +289,14 @@
       "onboard_time": 1660454611,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223212,
+      "num": 1223212,
+      "word": "李易峰说00后都认识我",
+      "onboard_time": 1660489954,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1212284,
@@ -635,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734387,
-      "num": 579157,
-      "word": "李易峰说00后都认识我",
-      "onboard_time": 1660489954,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 729431,
       "num": 729431,
       "word": "把男朋友做的饭做成了菜单",
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 689066,
-      "num": 397514,
+      "num": 424520,
       "word": "00后男生工作吵架吵到哭",
       "onboard_time": 1660489894,
       "rank": 20,
@@ -761,6 +761,14 @@
       "onboard_time": 1660481555,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655364,
+      "num": 539556,
+      "word": "张艺兴即兴battle",
+      "onboard_time": 1660489352,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 653307,
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621788,
+      "num": 621788,
+      "word": "闫安",
+      "onboard_time": 1660487912,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620356,
       "num": 620356,
       "word": "一夜之间金宝贝7个校区突然关停",
@@ -857,22 +873,6 @@
       "onboard_time": 1660456769,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 615028,
-      "num": 615028,
-      "word": "闫安",
-      "onboard_time": 1660487912,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 605730,
-      "num": 387761,
-      "word": "张艺兴即兴battle",
-      "onboard_time": 1660489352,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 604620,
@@ -1515,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397035,
+      "num": 221517,
+      "word": "黄景瑜牵小蜗牛玩具的反差萌",
+      "onboard_time": 1660490613,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394755,
       "num": 216547,
       "word": "黄明昊玩狼人杀被搞心态",
@@ -1611,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382396,
+      "num": 213246,
+      "word": "欢乐颂3朱喆的职场逆袭",
+      "onboard_time": 1660490971,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380019,
       "num": 380019,
       "word": "海关查获23500件问题地图",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1660467632,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375170,
+      "num": 167042,
+      "word": "林墨把木牛流马演活了",
+      "onboard_time": 1660491272,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 373655,
@@ -2187,8 +2211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254036,
-      "num": 254036,
+      "raw_hot": 254604,
+      "num": 254604,
       "word": "彭州龙漕沟河道已被挖掉系谣言",
       "onboard_time": 1660487075,
       "rank": 35,
@@ -2411,12 +2435,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 199287,
-      "num": 199287,
+      "raw_hot": 200365,
+      "num": 200365,
       "word": "出现裂痕的爱情还可以如初吗",
       "onboard_time": 1660489590,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200085,
+      "num": 248906,
+      "word": "乌鲁木齐本轮疫情毒株BA.5.2",
+      "onboard_time": 1660490912,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197180,
@@ -2745,6 +2777,14 @@
       "onboard_time": 1660395090,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111974,
+      "num": 136157,
+      "word": "广东多所高校宣布延期开学",
+      "onboard_time": 1660491509,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 110899,

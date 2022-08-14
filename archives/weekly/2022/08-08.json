@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660490514008,
+  "endTime": 1660491564085,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -795,6 +795,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1933293,
+      "num": 1933293,
+      "word": "被同事朋友圈分组屏蔽的心情",
+      "onboard_time": 1660488453,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1933265,
       "num": 1933265,
       "word": "名创优品被曝店内不许放中文歌",
@@ -865,14 +873,6 @@
       "onboard_time": 1660257435,
       "rank": 49,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1899718,
-      "num": 1899718,
-      "word": "被同事朋友圈分组屏蔽的心情",
-      "onboard_time": 1660488453,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1897762,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1660288112,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1223212,
+      "num": 1223212,
+      "word": "李易峰说00后都认识我",
+      "onboard_time": 1660489954,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1221646,
@@ -3715,14 +3723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734387,
-      "num": 579157,
-      "word": "李易峰说00后都认识我",
-      "onboard_time": 1660489954,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 733561,
       "num": 733561,
       "word": "网传时代少年团演唱会歌曲",
@@ -4052,7 +4052,7 @@
     },
     {
       "raw_hot": 689066,
-      "num": 397514,
+      "num": 424520,
       "word": "00后男生工作吵架吵到哭",
       "onboard_time": 1660489894,
       "rank": 20,
@@ -4305,6 +4305,14 @@
       "onboard_time": 1659917371,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 655364,
+      "num": 539556,
+      "word": "张艺兴即兴battle",
+      "onboard_time": 1660489352,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 655220,
@@ -4571,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 621788,
+      "num": 621788,
+      "word": "闫安",
+      "onboard_time": 1660487912,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621345,
       "num": 621345,
       "word": "龙漕沟系野生网红打卡地",
@@ -4625,14 +4641,6 @@
       "onboard_time": 1660112552,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615028,
-      "num": 615028,
-      "word": "闫安",
-      "onboard_time": 1660487912,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 612936,
@@ -4721,14 +4729,6 @@
       "onboard_time": 1660102535,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 605730,
-      "num": 387761,
-      "word": "张艺兴即兴battle",
-      "onboard_time": 1660489352,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 605070,
@@ -7995,6 +7995,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 397035,
+      "num": 221517,
+      "word": "黄景瑜牵小蜗牛玩具的反差萌",
+      "onboard_time": 1660490613,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396821,
       "num": 396821,
       "word": "劳荣枝案二审将于8月18号开庭",
@@ -8443,6 +8451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382396,
+      "num": 213246,
+      "word": "欢乐颂3朱喆的职场逆袭",
+      "onboard_time": 1660490971,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382307,
       "num": 382307,
       "word": "沉香如屑 猫眼",
@@ -8681,6 +8697,14 @@
       "onboard_time": 1659966462,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 375170,
+      "num": 167042,
+      "word": "林墨把木牛流马演活了",
+      "onboard_time": 1660491272,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 375107,
@@ -12003,6 +12027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254604,
+      "num": 254604,
+      "word": "彭州龙漕沟河道已被挖掉系谣言",
+      "onboard_time": 1660487075,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254416,
       "num": 254416,
       "word": "苹果开发厨房设备",
@@ -12024,14 +12056,6 @@
       "word": "海口首批660名滞留游客离岛返程",
       "onboard_time": 1660280197,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254036,
-      "num": 254036,
-      "word": "彭州龙漕沟河道已被挖掉系谣言",
-      "onboard_time": 1660487075,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -13451,6 +13475,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 200365,
+      "num": 200365,
+      "word": "出现裂痕的爱情还可以如初吗",
+      "onboard_time": 1660489590,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200346,
       "num": 200346,
       "word": "三亚全市社区实行封闭式管理",
@@ -13467,20 +13499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200085,
+      "num": 248906,
+      "word": "乌鲁木齐本轮疫情毒株BA.5.2",
+      "onboard_time": 1660490912,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199301,
       "num": 199301,
       "word": "鼓浪屿主要景点临时闭园",
       "onboard_time": 1660026634,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 199287,
-      "num": 199287,
-      "word": "出现裂痕的爱情还可以如初吗",
-      "onboard_time": 1660489590,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 199060,
@@ -15073,6 +15105,14 @@
       "onboard_time": 1660057659,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111974,
+      "num": 136157,
+      "word": "广东多所高校宣布延期开学",
+      "onboard_time": 1660491509,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 111818,
