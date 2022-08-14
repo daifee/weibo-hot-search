@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660459437641,
+  "endTime": 1660461561823,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3247052,
-      "num": 3247052,
+      "raw_hot": 3417673,
+      "num": 3417673,
       "word": "JK罗琳收到死亡威胁",
       "onboard_time": 1660457969,
       "rank": 20,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1928123,
+      "num": 1928123,
+      "word": "女子吐槽韩国月子餐是断奶餐",
+      "onboard_time": 1660456650,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1865005,
       "num": 1865005,
       "word": "你好星期六下期有0713男团",
       "onboard_time": 1660442247,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1861544,
-      "num": 1861544,
-      "word": "女子吐槽韩国月子餐是断奶餐",
-      "onboard_time": 1660456650,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1794941,
@@ -105,6 +105,14 @@
       "onboard_time": 1660445669,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1363995,
+      "num": 359108,
+      "word": "吴倩最新写真照",
+      "onboard_time": 1660461269,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1296824,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1050442,
+      "num": 1050442,
+      "word": "彩礼为什么流传至今",
+      "onboard_time": 1660458030,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024790,
       "num": 1024790,
       "word": "女孩跨省见网友半路报警被劫持",
@@ -200,6 +216,14 @@
       "word": "西单",
       "onboard_time": 1660404449,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995229,
+      "num": 995229,
+      "word": "2岁女童打翻爸爸泡面被深度烫伤",
+      "onboard_time": 1660458328,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -315,6 +339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710306,
+      "num": 710306,
+      "word": "王鹤棣西瓜头",
+      "onboard_time": 1660460432,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 703166,
+      "num": 703166,
+      "word": "原来冰雨火是这个意思",
+      "onboard_time": 1660459291,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 695679,
       "num": 695679,
       "word": "320斤男子切胃前妈妈坐病房吃烧烤",
@@ -347,6 +387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 659464,
+      "num": 659464,
+      "word": "彭州突发山洪造成7死8伤",
+      "onboard_time": 1660457129,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 653307,
       "num": 653307,
       "word": "能让两百亿影帝主动扇扇子的女人",
@@ -361,6 +409,14 @@
       "onboard_time": 1660458751,
       "rank": 10,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 625357,
+      "num": 625357,
+      "word": "黄景瑜悬崖引体向上",
+      "onboard_time": 1660458929,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 620356,
@@ -419,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 556732,
-      "num": 556732,
-      "word": "彭州突发山洪造成7死8伤",
-      "onboard_time": 1660457129,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 539937,
       "num": 539937,
       "word": "14岁少年打赏主播4万元全部追回",
@@ -483,12 +531,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487157,
-      "num": 487157,
-      "word": "彩礼为什么流传至今",
-      "onboard_time": 1660458030,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 486616,
+      "num": 486616,
+      "word": "王俊凯主演电影累计票房破20亿",
+      "onboard_time": 1660458871,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486349,
+      "num": 358904,
+      "word": "赵露思哭戏控制力",
+      "onboard_time": 1660460070,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 484782,
+      "num": 177886,
+      "word": "虞书欣小兰花人间造型",
+      "onboard_time": 1660461330,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 478400,
@@ -523,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456697,
+      "num": 166800,
+      "word": "假如沉香如屑迎来职场季",
+      "onboard_time": 1660461090,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454267,
       "num": 454267,
       "word": "李玉发文回应断桥女主不报警",
@@ -539,14 +611,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 439203,
-      "num": 369673,
-      "word": "黄景瑜悬崖引体向上",
-      "onboard_time": 1660458929,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 436903,
       "num": 207605,
       "word": "河南卫视舞蹈节目有多卷",
@@ -561,6 +625,22 @@
       "onboard_time": 1660423691,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431643,
+      "num": 431643,
+      "word": "14岁少年沉迷手游被训报警抓父亲",
+      "onboard_time": 1660458929,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431158,
+      "num": 178597,
+      "word": "vava freestyle",
+      "onboard_time": 1660458030,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 431140,
@@ -635,6 +715,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 418837,
+      "num": 418837,
+      "word": "饿了么",
+      "onboard_time": 1660460190,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 416107,
       "num": 317930,
       "word": "说唱巅峰联盟freestyle赛",
@@ -648,14 +736,6 @@
       "word": "怼CNN的英国乐手批美国妄图统治世界",
       "onboard_time": 1660445610,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408802,
-      "num": 408802,
-      "word": "2岁女童打翻爸爸泡面被深度烫伤",
-      "onboard_time": 1660458328,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -675,11 +755,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 393528,
-      "num": 178597,
-      "word": "vava freestyle",
-      "onboard_time": 1660458030,
-      "rank": 32,
+      "raw_hot": 394755,
+      "num": 152954,
+      "word": "黄明昊玩狼人杀被搞心态",
+      "onboard_time": 1660461152,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -763,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357798,
-      "num": 163458,
-      "word": "王俊凯主演电影累计票房破20亿",
-      "onboard_time": 1660458871,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352122,
       "num": 352122,
       "word": "冰雨火拉练式拍摄",
@@ -801,14 +873,6 @@
       "onboard_time": 1660455628,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338724,
-      "num": 162605,
-      "word": "原来冰雨火是这个意思",
-      "onboard_time": 1660459291,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 338000,
@@ -1115,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212062,
+      "num": 212062,
+      "word": "游乐设施甩落妈妈急速起身抱起孩子",
+      "onboard_time": 1660458751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211316,
       "num": 132299,
       "word": "早安freestyle喝了喝了",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1660408525,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178171,
+      "num": 178171,
+      "word": "见过最有素质的狗狗",
+      "onboard_time": 1660459291,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 174375,
@@ -1257,14 +1337,6 @@
       "onboard_time": 1660394788,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154765,
-      "num": 154765,
-      "word": "14岁少年沉迷手游被训报警抓父亲",
-      "onboard_time": 1660458929,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154104,
@@ -1363,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122281,
-      "num": 122281,
-      "word": "游乐设施甩落妈妈急速起身抱起孩子",
-      "onboard_time": 1660458751,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120079,
       "num": 120079,
       "word": "三亚7708名滞留游客已搭飞机返程",
@@ -1409,6 +1473,14 @@
       "onboard_time": 1660395090,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111566,
+      "num": 111566,
+      "word": "排排坐的四只猫咪",
+      "onboard_time": 1660461269,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 110899,
