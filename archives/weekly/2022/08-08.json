@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660455337249,
+  "endTime": 1660458388438,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -1147,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512344,
+      "num": 1512344,
+      "word": "女子吐槽韩国月子餐是断奶餐",
+      "onboard_time": 1660456650,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510589,
       "num": 1510589,
       "word": "九寨沟回应大妈光脚丫子下水拍照",
@@ -1699,6 +1707,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1239825,
+      "num": 1239825,
+      "word": "主播疑采摘水母雪兔子被封号",
+      "onboard_time": 1660454611,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1228317,
       "num": 1228317,
       "word": "女孩收到录取通知书后跑进派出所",
@@ -1811,19 +1827,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1186475,
+      "num": 1186475,
+      "word": "郭晓婷花魁造型",
+      "onboard_time": 1660453770,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1185953,
       "num": 1185953,
       "word": "赵丽颖为李浩菲新剧打call",
       "onboard_time": 1660286191,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1177419,
-      "num": 1177419,
-      "word": "郭晓婷花魁造型",
-      "onboard_time": 1660453770,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -2883,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 848641,
+      "num": 848641,
+      "word": "女孩跨省见网友半路报警被劫持",
+      "onboard_time": 1660455509,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 840141,
       "num": 840141,
       "word": "里根号航母转向后继续向南移动",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1660365030,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 832183,
+      "num": 832183,
+      "word": "狗子以为主人睡着偷偷进屋蹭空调",
+      "onboard_time": 1660455449,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830008,
@@ -4075,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618186,
+      "num": 618186,
+      "word": "断桥票房破亿",
+      "onboard_time": 1660456769,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616139,
       "num": 616139,
       "word": "甜蜜女友竟是同寝抠脚大汉",
@@ -4129,6 +4169,14 @@
       "onboard_time": 1660092578,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608584,
+      "num": 608584,
+      "word": "布瑞吉freestyle杀疯了",
+      "onboard_time": 1660457608,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 608197,
@@ -5897,6 +5945,14 @@
       "onboard_time": 1660105478,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454267,
+      "num": 454267,
+      "word": "李玉发文回应断桥女主不报警",
+      "onboard_time": 1660456650,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 454181,
@@ -7955,6 +8011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364890,
+      "num": 364890,
+      "word": "彭州突发山洪造成7死8伤",
+      "onboard_time": 1660457129,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 364425,
       "num": 292733,
       "word": "南京通报一外省返宁人员核酸异常",
@@ -8291,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351393,
+      "num": 351393,
+      "word": "JK罗琳收到死亡威胁",
+      "onboard_time": 1660457969,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 350950,
       "num": 294605,
       "word": "刘宇宁被打劫式欢迎",
@@ -8489,6 +8561,14 @@
       "onboard_time": 1660313677,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343102,
+      "num": 343102,
+      "word": "严浩翔谁是卧底高级玩家",
+      "onboard_time": 1660455628,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 343028,
@@ -9963,6 +10043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288118,
+      "num": 288118,
+      "word": "四川德阳在建桥垮塌事故已致1死1伤",
+      "onboard_time": 1660457908,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 286951,
       "num": 286951,
       "word": "王劲松刘奕君悬疑定律",
@@ -10763,6 +10851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253434,
+      "num": 180276,
+      "word": "欢乐颂3台词",
+      "onboard_time": 1660456829,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253429,
       "num": 253429,
       "word": "爱死机第四季",
@@ -10857,14 +10953,6 @@
       "onboard_time": 1660439306,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248220,
-      "num": 248220,
-      "word": "主播疑采摘水母雪兔子被封号",
-      "onboard_time": 1660454611,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248150,
@@ -11385,6 +11473,14 @@
       "onboard_time": 1660263089,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229847,
+      "num": 178597,
+      "word": "vava freestyle",
+      "onboard_time": 1660458030,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 229698,
@@ -12691,6 +12787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167530,
+      "num": 142949,
+      "word": "肖战开博12年了",
+      "onboard_time": 1660457668,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166784,
       "num": 166784,
       "word": "就这young练",
@@ -12976,6 +13080,14 @@
       "word": "71岁越野大爷2年内6次酒驾",
       "onboard_time": 1660026391,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154994,
+      "num": 154994,
+      "word": "彩礼为什么流传至今",
+      "onboard_time": 1660458030,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -13609,6 +13721,22 @@
       "onboard_time": 1660054304,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110167,
+      "num": 110167,
+      "word": "2岁女童打翻爸爸泡面被深度烫伤",
+      "onboard_time": 1660458328,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110042,
+      "num": 110042,
+      "word": "黄河壶口瀑布如万马奔腾",
+      "onboard_time": 1660457789,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 109841,
