@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660487751078,
+  "endTime": 1660490514008,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -865,6 +865,14 @@
       "onboard_time": 1660257435,
       "rank": 49,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1899718,
+      "num": 1899718,
+      "word": "被同事朋友圈分组屏蔽的心情",
+      "onboard_time": 1660488453,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1897762,
@@ -2219,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1107715,
+      "num": 1107715,
+      "word": "上海发布回应徐汇宜家相关情况",
+      "onboard_time": 1660486292,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107505,
       "num": 1107505,
       "word": "乌鲁木齐101中学淘汰清华附中",
@@ -3251,14 +3267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 827013,
-      "num": 827013,
-      "word": "上海发布回应徐汇宜家相关情况",
-      "onboard_time": 1660486292,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824784,
       "num": 824784,
       "word": "迪丽热巴秦时丽人明月心开播五周年",
@@ -3611,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749939,
+      "num": 732541,
+      "word": "苍兰诀爱奇艺热度破9500",
+      "onboard_time": 1660486474,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745163,
       "num": 466029,
       "word": "纸嫁衣男主好像罗云熙",
@@ -3699,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734387,
+      "num": 579157,
+      "word": "李易峰说00后都认识我",
+      "onboard_time": 1660489954,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 733561,
       "num": 733561,
       "word": "网传时代少年团演唱会歌曲",
@@ -3713,14 +3737,6 @@
       "onboard_time": 1660291113,
       "rank": 9,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 732541,
-      "num": 732541,
-      "word": "苍兰诀爱奇艺热度破9500",
-      "onboard_time": 1660486474,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 732060,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1659910574,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 689066,
+      "num": 397514,
+      "word": "00后男生工作吵架吵到哭",
+      "onboard_time": 1660489894,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 689052,
@@ -4603,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615028,
+      "num": 615028,
+      "word": "闫安",
+      "onboard_time": 1660487912,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612936,
       "num": 612936,
       "word": "重庆的猪都中暑了",
@@ -4689,6 +4721,14 @@
       "onboard_time": 1660102535,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 605730,
+      "num": 387761,
+      "word": "张艺兴即兴battle",
+      "onboard_time": 1660489352,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 605070,
@@ -6113,6 +6153,14 @@
       "onboard_time": 1660312656,
       "rank": 18,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 485649,
+      "num": 256240,
+      "word": "苍兰诀 诀症",
+      "onboard_time": 1660488035,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 485407,
@@ -7683,6 +7731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411627,
+      "num": 329214,
+      "word": "张碧晨电影之夜军礼舞台",
+      "onboard_time": 1660487253,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411425,
       "num": 411425,
       "word": "黄明昊为邓紫棋新歌打call",
@@ -7875,14 +7931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 401668,
-      "num": 329214,
-      "word": "张碧晨电影之夜军礼舞台",
-      "onboard_time": 1660487253,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 401055,
       "num": 401055,
       "word": "成都老字号兔火锅有多绝",
@@ -7921,6 +7969,14 @@
       "onboard_time": 1660376912,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398439,
+      "num": 398439,
+      "word": "耐高",
+      "onboard_time": 1660486173,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 398337,
@@ -8649,14 +8705,6 @@
       "onboard_time": 1660302698,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374254,
-      "num": 374254,
-      "word": "耐高",
-      "onboard_time": 1660486173,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 374211,
@@ -11899,6 +11947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258232,
+      "num": 258232,
+      "word": "LPL季后赛赛程",
+      "onboard_time": 1660489292,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257493,
       "num": 135868,
       "word": "央视财经818晚会首波阵容",
@@ -11968,6 +12024,14 @@
       "word": "海口首批660名滞留游客离岛返程",
       "onboard_time": 1660280197,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254036,
+      "num": 254036,
+      "word": "彭州龙漕沟河道已被挖掉系谣言",
+      "onboard_time": 1660487075,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -12819,6 +12883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224275,
+      "num": 257798,
+      "word": "海口延长临时性静态管理时间",
+      "onboard_time": 1660488336,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224204,
       "num": 224204,
       "word": "如何说服懒人开始运动",
@@ -13403,6 +13475,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 199287,
+      "num": 199287,
+      "word": "出现裂痕的爱情还可以如初吗",
+      "onboard_time": 1660489590,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199060,
       "num": 199060,
       "word": "北京能体验自动驾驶级导航了",
@@ -13451,6 +13531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197180,
+      "num": 197180,
+      "word": "KPL季后赛",
+      "onboard_time": 1660489052,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197037,
       "num": 262671,
       "word": "心疼萧臻",
@@ -13481,6 +13569,14 @@
       "onboard_time": 1660451248,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195786,
+      "num": 195786,
+      "word": "shadow",
+      "onboard_time": 1660489954,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 195637,
@@ -13561,6 +13657,14 @@
       "onboard_time": 1660054423,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190822,
+      "num": 190822,
+      "word": "LGD终结RNG九连胜",
+      "onboard_time": 1660488154,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 190646,

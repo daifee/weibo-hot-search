@@ -1,0 +1,410 @@
+{
+  "runTime": 1660490514008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899718,
+        "num": 1899718,
+        "word": "被同事朋友圈分组屏蔽的心情",
+        "onboard_time": 1660488453,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1894036,
+        "num": 1894036,
+        "word": "今天解放军22架次军机6艘次军舰巡台",
+        "onboard_time": 1660484311,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 29216,
+        "num": 1691379,
+        "word": "超清画面记录中国空间站凌月",
+        "onboard_time": 1660443569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1636337,
+        "num": 1636337,
+        "word": "山洪前有管理员喊我跪下来求大家",
+        "onboard_time": 1660477711,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1339909,
+        "num": 1339909,
+        "word": "王一博周冬雨一起走红毯",
+        "onboard_time": 1660471652,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1107715,
+        "num": 1107715,
+        "word": "上海发布回应徐汇宜家相关情况",
+        "onboard_time": 1660486292,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019780,
+        "num": 1019780,
+        "word": "刘亦菲电影之夜红毯生图状态",
+        "onboard_time": 1660472850,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 987756,
+        "num": 987756,
+        "word": "复活甲没了",
+        "onboard_time": 1660485154,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 855890,
+        "num": 855890,
+        "word": "6岁女童磕伤意外查出身体10处肿瘤",
+        "onboard_time": 1660478611,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615028,
+        "num": 615028,
+        "word": "闫安",
+        "onboard_time": 1660487912,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1716355,
+        "num": 604378,
+        "word": "张天爱胸骨",
+        "onboard_time": 1660475371,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749939,
+        "num": 590413,
+        "word": "苍兰诀爱奇艺热度破9500",
+        "onboard_time": 1660486474,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734387,
+        "num": 579157,
+        "word": "李易峰说00后都认识我",
+        "onboard_time": 1660489954,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563068,
+        "num": 563068,
+        "word": "女生没考好深夜跪孔子像前忏悔",
+        "onboard_time": 1660480833,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 494560,
+        "num": 494560,
+        "word": "四川山洪事发河道为网红打卡地",
+        "onboard_time": 1660481555,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 462199,
+        "num": 462199,
+        "word": "石家庄二中耐高夺冠",
+        "onboard_time": 1660485696,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433944,
+        "num": 433944,
+        "word": "山洪突袭男子紧抱女孩死里逃生",
+        "onboard_time": 1660473571,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426360,
+        "num": 426360,
+        "word": "怪不得男人爱看挖掘机",
+        "onboard_time": 1660482153,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 425036,
+        "num": 425036,
+        "word": "长沙所有初中新生停止军训",
+        "onboard_time": 1660476033,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 398439,
+        "num": 398439,
+        "word": "耐高",
+        "onboard_time": 1660486173,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689066,
+        "num": 397514,
+        "word": "00后男生工作吵架吵到哭",
+        "onboard_time": 1660489894,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627691,
+        "num": 391047,
+        "word": "沈腾 偷轮胎",
+        "onboard_time": 1660473333,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605730,
+        "num": 387761,
+        "word": "张艺兴即兴battle",
+        "onboard_time": 1660489352,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383606,
+        "num": 383606,
+        "word": "张家界坠亡女骑手家属获补偿45万元",
+        "onboard_time": 1660472731,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366432,
+        "num": 366432,
+        "word": "彩礼为什么越来越贵",
+        "onboard_time": 1660469312,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 305328,
+        "num": 305328,
+        "word": "一句话怼死杠精",
+        "onboard_time": 1660482992,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282505,
+        "num": 282505,
+        "word": "会说话的人是怎么安慰别人的",
+        "onboard_time": 1660486474,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267287,
+        "num": 267287,
+        "word": "LGD战胜RNG",
+        "onboard_time": 1660485755,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258232,
+        "num": 258232,
+        "word": "LPL季后赛赛程",
+        "onboard_time": 1660489292,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224275,
+        "num": 257798,
+        "word": "海口延长临时性静态管理时间",
+        "onboard_time": 1660488336,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577717,
+        "num": 257403,
+        "word": "父母做保姆会让你自卑吗",
+        "onboard_time": 1660481973,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485649,
+        "num": 256240,
+        "word": "苍兰诀 诀症",
+        "onboard_time": 1660488035,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416729,
+        "num": 255686,
+        "word": "玉骨遥",
+        "onboard_time": 1660486112,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438797,
+        "num": 255432,
+        "word": "王鹤棣东方青苍人间造型",
+        "onboard_time": 1660483171,
+        "rank": 33,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 411627,
+        "num": 254468,
+        "word": "张碧晨电影之夜军礼舞台",
+        "onboard_time": 1660487253,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254036,
+        "num": 254036,
+        "word": "彭州龙漕沟河道已被挖掉系谣言",
+        "onboard_time": 1660487075,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247780,
+        "num": 247780,
+        "word": "EDG 我们是冠军",
+        "onboard_time": 1660473092,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239750,
+        "num": 239750,
+        "word": "重庆热成全国第一",
+        "onboard_time": 1660472793,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212247,
+        "num": 212247,
+        "word": "LGD 水鬼",
+        "onboard_time": 1660485755,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199287,
+        "num": 199287,
+        "word": "出现裂痕的爱情还可以如初吗",
+        "onboard_time": 1660489590,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374313,
+        "num": 198873,
+        "word": "微博电影之夜",
+        "onboard_time": 1660466970,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197471,
+        "num": 197471,
+        "word": "养的多肉居然开花了",
+        "onboard_time": 1660472012,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197180,
+        "num": 197180,
+        "word": "KPL季后赛",
+        "onboard_time": 1660489052,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195786,
+        "num": 195786,
+        "word": "shadow",
+        "onboard_time": 1660489954,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190822,
+        "num": 190822,
+        "word": "LGD终结RNG九连胜",
+        "onboard_time": 1660488154,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174782,
+        "num": 174782,
+        "word": "中国男排亚洲杯夺冠",
+        "onboard_time": 1660480715,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170472,
+        "num": 170472,
+        "word": "九寨沟的水为何踩不得",
+        "onboard_time": 1660472670,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166971,
+        "num": 166971,
+        "word": "RNG",
+        "onboard_time": 1660482511,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158536,
+        "num": 158536,
+        "word": "特朗普律师曾称所有机密材料已归还",
+        "onboard_time": 1660471951,
+        "rank": 48,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 146418,
+        "num": 146418,
+        "word": "爷爷雨天抱着孙子无效打伞",
+        "onboard_time": 1660470451,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
