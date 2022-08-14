@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660481936453,
+  "endTime": 1660483949077,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3302891,
-      "num": 771961,
+      "num": 884170,
       "word": "张天爱胸骨",
       "onboard_time": 1660475371,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1660436003,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2652884,
+      "num": 2652884,
+      "word": "又有美国国会参众议员窜访台湾",
+      "onboard_time": 1660482270,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2199400,
@@ -177,6 +185,14 @@
       "onboard_time": 1660471293,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1560006,
+      "num": 1560006,
+      "word": "女生没考好深夜跪孔子像前忏悔",
+      "onboard_time": 1660480833,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1525472,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 905967,
+      "num": 905967,
+      "word": "RNG",
+      "onboard_time": 1660482511,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 887823,
       "num": 887823,
       "word": "彭州山洪3名重伤人员抢救无效死亡",
@@ -457,6 +481,14 @@
       "onboard_time": 1660471470,
       "rank": 12,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 828604,
+      "num": 828604,
+      "word": "邓超说想演鹿晗儿子",
+      "onboard_time": 1660480411,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 824784,
@@ -515,20 +547,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 794741,
+      "num": 794741,
+      "word": "父母做保姆会让你自卑吗",
+      "onboard_time": 1660481973,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 791772,
       "num": 402225,
       "word": "刘耀文气起来连自己都打",
       "onboard_time": 1660471590,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 777615,
-      "num": 483084,
-      "word": "邓超说想演鹿晗儿子",
-      "onboard_time": 1660480411,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 739494,
@@ -651,6 +683,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 653275,
+      "num": 653275,
+      "word": "四川山洪事发河道为网红打卡地",
+      "onboard_time": 1660481555,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652419,
       "num": 652419,
       "word": "苍兰诀人精神状态",
@@ -697,6 +737,14 @@
       "onboard_time": 1660458929,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 621435,
+      "num": 428850,
+      "word": "王鹤棣东方青苍人间造型",
+      "onboard_time": 1660483171,
+      "rank": 20,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 620356,
@@ -817,14 +865,6 @@
       "onboard_time": 1660398331,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556286,
-      "num": 556286,
-      "word": "女生没考好深夜跪孔子像前忏悔",
-      "onboard_time": 1660480833,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 549527,
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472324,
+      "num": 148213,
+      "word": "邓紫棋直播",
+      "onboard_time": 1660483895,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 469535,
       "num": 469535,
       "word": "时代少年团你好星期六全员湿发",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1660407324,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460382,
+      "num": 426840,
+      "word": "极限挑战",
+      "onboard_time": 1660483115,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 456697,
@@ -1427,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366809,
+      "num": 366809,
+      "word": "JDG获得复活甲",
+      "onboard_time": 1660483712,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 366659,
       "num": 366659,
       "word": "玉骨遥",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1660463130,
       "rank": 30,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 353116,
+      "num": 353116,
+      "word": "怪不得男人爱看挖掘机",
+      "onboard_time": 1660482153,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 352122,
@@ -1747,6 +1819,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 284294,
+      "num": 284294,
+      "word": "KPL",
+      "onboard_time": 1660483350,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284016,
       "num": 182703,
       "word": "许魏洲亮相微博电影之夜红毯",
@@ -1803,12 +1883,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275709,
-      "num": 275709,
-      "word": "四川山洪事发河道为网红打卡地",
-      "onboard_time": 1660481555,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 277443,
+      "num": 147919,
+      "word": "断桥年度最受关注影片",
+      "onboard_time": 1660483895,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 273679,
@@ -1817,6 +1897,14 @@
       "onboard_time": 1660475014,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272723,
+      "num": 272723,
+      "word": "中国男排 我们是冠军",
+      "onboard_time": 1660482392,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 271978,
@@ -2027,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226916,
+      "num": 226916,
+      "word": "一句话怼死杠精",
+      "onboard_time": 1660482992,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222411,
       "num": 222411,
       "word": "新疆新增无症状396例",
@@ -2164,7 +2260,7 @@
     },
     {
       "raw_hot": 171197,
-      "num": 171197,
+      "num": 1850387,
       "word": "超清画面记录中国空间站凌月",
       "onboard_time": 1660443569,
       "rank": 49,
