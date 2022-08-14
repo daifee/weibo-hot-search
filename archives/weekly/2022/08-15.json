@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660512956453,
+  "endTime": 1660515657867,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460008,
+      "num": 460008,
+      "word": "多地教育局否认中学暑期违规补课",
+      "onboard_time": 1660508472,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 444540,
       "num": 376391,
       "word": "李冰冰大花气场",
@@ -136,6 +144,14 @@
       "word": "上海发布回应徐汇宜家相关情况",
       "onboard_time": 1660486292,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359519,
+      "num": 359519,
+      "word": "40度高温3岁男孩被锁车内",
+      "onboard_time": 1660509732,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282286,
+      "num": 282286,
+      "word": "母女带100多万现金坐高铁",
+      "onboard_time": 1660507991,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275744,
       "num": 275744,
       "word": "女生没考好深夜跪孔子像前忏悔",
@@ -256,14 +280,6 @@
       "word": "长沙所有初中新生停止军训",
       "onboard_time": 1660476033,
       "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 234172,
-      "num": 234172,
-      "word": "多地教育局否认中学暑期违规补课",
-      "onboard_time": 1660508472,
-      "rank": 49,
       "category": "教育,社会新闻"
     },
     {
@@ -323,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191834,
-      "num": 58096,
-      "word": "母女带100多万现金坐高铁",
-      "onboard_time": 1660507991,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186988,
       "num": 186988,
       "word": "彭州龙漕沟河道已被挖掉系谣言",
@@ -377,14 +385,6 @@
       "onboard_time": 1660491989,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160928,
-      "num": 160928,
-      "word": "40度高温3岁男孩被锁车内",
-      "onboard_time": 1660509732,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158288,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122606,
+      "num": 122606,
+      "word": "三伏天最后一伏来了",
+      "onboard_time": 1660506912,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109541,
       "num": 109541,
       "word": "海口延长临时性静态管理时间",
@@ -457,6 +465,14 @@
       "onboard_time": 1660487675,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107208,
+      "num": 63240,
+      "word": "环球时报评彭州山洪灾难",
+      "onboard_time": 1660512491,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104584,
@@ -491,20 +507,28 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 70034,
-      "num": 70034,
-      "word": "三伏天最后一伏来了",
-      "onboard_time": 1660506912,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62942,
-      "num": 62942,
+      "raw_hot": 63865,
+      "num": 63865,
       "word": "一定空置率说明居民住房水平提高",
       "onboard_time": 1660505053,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 45208,
+      "num": 45208,
+      "word": "猫猫会狗喘是什么体验",
+      "onboard_time": 1660511291,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 40011,
+      "num": 40011,
+      "word": "短胖炸毛的大熊猫什么样",
+      "onboard_time": 1660513093,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 37531,
@@ -547,12 +571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23474,
-      "num": 23474,
-      "word": "猫猫会狗喘是什么体验",
-      "onboard_time": 1660511291,
-      "rank": 43,
-      "category": "幽默,情感"
+      "raw_hot": 22864,
+      "num": 22864,
+      "word": "探班央视中秋晚会",
+      "onboard_time": 1660511231,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 19650,
@@ -561,14 +585,6 @@
       "onboard_time": 1660443569,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14801,
-      "num": 14801,
-      "word": "探班央视中秋晚会",
-      "onboard_time": 1660511231,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 12791,
