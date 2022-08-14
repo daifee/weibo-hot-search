@@ -1,0 +1,410 @@
+{
+  "runTime": 1660494510754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1319444,
+        "num": 1319444,
+        "word": "山洪前有管理员喊我跪下来求大家",
+        "onboard_time": 1660477711,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1241033,
+        "num": 1241033,
+        "word": "被同事朋友圈分组屏蔽的心情",
+        "onboard_time": 1660488453,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 1179186,
+        "word": "超清画面记录中国空间站凌月",
+        "onboard_time": 1660443569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169112,
+        "num": 1169112,
+        "word": "广东多所高校宣布延期开学",
+        "onboard_time": 1660491509,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 943096,
+        "num": 943096,
+        "word": "李易峰说00后都认识我",
+        "onboard_time": 1660489954,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 745334,
+        "num": 745334,
+        "word": "今天解放军22架次军机6艘次军舰巡台",
+        "onboard_time": 1660484311,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 707255,
+        "num": 707255,
+        "word": "王一博周冬雨一起走红毯",
+        "onboard_time": 1660471652,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537144,
+        "num": 537144,
+        "word": "6岁女童磕伤意外查出身体10处肿瘤",
+        "onboard_time": 1660478611,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477387,
+        "num": 477387,
+        "word": "复活甲没了",
+        "onboard_time": 1660485154,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 384359,
+        "num": 384359,
+        "word": "上海发布回应徐汇宜家相关情况",
+        "onboard_time": 1660486292,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015067,
+        "num": 371952,
+        "word": "张天爱胸骨",
+        "onboard_time": 1660475371,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551477,
+        "num": 366238,
+        "word": "苍兰诀 诀症",
+        "onboard_time": 1660488035,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470857,
+        "num": 363921,
+        "word": "刘亦菲电影之夜红毯生图状态",
+        "onboard_time": 1660472850,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355511,
+        "num": 355511,
+        "word": "怪不得男人爱看挖掘机",
+        "onboard_time": 1660482153,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 325446,
+        "num": 325446,
+        "word": "乌鲁木齐本轮疫情毒株BA.5.2",
+        "onboard_time": 1660490912,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321961,
+        "num": 321961,
+        "word": "闫安",
+        "onboard_time": 1660487912,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294631,
+        "num": 294631,
+        "word": "彩礼为什么越来越贵",
+        "onboard_time": 1660469312,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 289092,
+        "num": 289092,
+        "word": "四川山洪事发河道为网红打卡地",
+        "onboard_time": 1660481555,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 275744,
+        "num": 275744,
+        "word": "女生没考好深夜跪孔子像前忏悔",
+        "onboard_time": 1660480833,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 264973,
+        "num": 264973,
+        "word": "一句话怼死杠精",
+        "onboard_time": 1660482992,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444540,
+        "num": 263857,
+        "word": "李冰冰大花气场",
+        "onboard_time": 1660492409,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357274,
+        "num": 263307,
+        "word": "张艺兴即兴battle",
+        "onboard_time": 1660489352,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287652,
+        "num": 262950,
+        "word": "00后男生工作吵架吵到哭",
+        "onboard_time": 1660489894,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262361,
+        "num": 262361,
+        "word": "山洪突袭男子紧抱女孩死里逃生",
+        "onboard_time": 1660473571,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256035,
+        "num": 256035,
+        "word": "长沙所有初中新生停止军训",
+        "onboard_time": 1660476033,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 250825,
+        "num": 250825,
+        "word": "义乌大部分街镇延长静默期",
+        "onboard_time": 1660493186,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230996,
+        "num": 230996,
+        "word": "张家界坠亡女骑手家属获补偿45万元",
+        "onboard_time": 1660472731,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218241,
+        "num": 218241,
+        "word": "EDG 我们是冠军",
+        "onboard_time": 1660473092,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201747,
+        "num": 201747,
+        "word": "出现裂痕的爱情还可以如初吗",
+        "onboard_time": 1660489590,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186988,
+        "num": 186988,
+        "word": "彭州龙漕沟河道已被挖掉系谣言",
+        "onboard_time": 1660487075,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285231,
+        "num": 185616,
+        "word": "黄景瑜牵小蜗牛玩具的反差萌",
+        "onboard_time": 1660490613,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274296,
+        "num": 183404,
+        "word": "苍兰诀爱奇艺热度破9500",
+        "onboard_time": 1660486474,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262012,
+        "num": 182792,
+        "word": "林墨用歌声传递周瑜小乔的爱情",
+        "onboard_time": 1660493846,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222903,
+        "num": 179749,
+        "word": "父母做保姆会让你自卑吗",
+        "onboard_time": 1660481973,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179005,
+        "num": 179005,
+        "word": "会说话的人是怎么安慰别人的",
+        "onboard_time": 1660486474,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176053,
+        "num": 176053,
+        "word": "LPL季后赛赛程",
+        "onboard_time": 1660489292,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172881,
+        "num": 172881,
+        "word": "切尔西vs热刺",
+        "onboard_time": 1660493546,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166266,
+        "num": 166266,
+        "word": "藏在菜市场里的宝藏美食",
+        "onboard_time": 1660491989,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158288,
+        "num": 158288,
+        "word": "石家庄二中耐高夺冠",
+        "onboard_time": 1660485696,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153561,
+        "num": 153561,
+        "word": "重庆热成全国第一",
+        "onboard_time": 1660472793,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197690,
+        "num": 152617,
+        "word": "沈腾 偷轮胎",
+        "onboard_time": 1660473333,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203654,
+        "num": 147155,
+        "word": "欢乐颂3朱喆的职场逆袭",
+        "onboard_time": 1660490971,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141514,
+        "num": 141514,
+        "word": "耐高",
+        "onboard_time": 1660486173,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129874,
+        "num": 129874,
+        "word": "LGD终结RNG九连胜",
+        "onboard_time": 1660488154,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109541,
+        "num": 109541,
+        "word": "海口延长临时性静态管理时间",
+        "onboard_time": 1660488336,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107935,
+        "num": 107935,
+        "word": "小兰花清醒",
+        "onboard_time": 1660487675,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104584,
+        "num": 104584,
+        "word": "养的多肉居然开花了",
+        "onboard_time": 1660472012,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99537,
+        "num": 99537,
+        "word": "九寨沟的水为何踩不得",
+        "onboard_time": 1660472670,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89413,
+        "num": 89413,
+        "word": "中国男排亚洲杯夺冠",
+        "onboard_time": 1660480715,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89254,
+        "num": 89254,
+        "word": "特朗普律师曾称所有机密材料已归还",
+        "onboard_time": 1660471951,
+        "rank": 49,
+        "category": "国外要闻,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记惦念的山村娃圆了大学梦#"
+    }
+  }
+}
