@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660449172337,
+  "endTime": 1660449834398,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4197035,
-      "num": 1017003,
+      "num": 1139518,
       "word": "同居1年分手男子欲要回88.8万彩礼",
       "onboard_time": 1660444649,
       "rank": 17,
@@ -25,6 +25,14 @@
       "onboard_time": 1660436003,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2042920,
+      "num": 525751,
+      "word": "荷兰弟暂时退网",
+      "onboard_time": 1660449272,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2002502,
@@ -67,8 +75,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1188558,
-      "num": 1188558,
+      "raw_hot": 1525472,
+      "num": 1525472,
       "word": "广西一大学结满水果学生随便吃",
       "onboard_time": 1660445669,
       "rank": 1,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1041421,
+      "num": 1041421,
+      "word": "王源加盟央视财经818晚会",
+      "onboard_time": 1660448970,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013742,
       "num": 1013742,
       "word": "西单",
@@ -147,20 +163,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 887823,
+      "num": 887823,
+      "word": "彭州山洪3名重伤人员抢救无效死亡",
+      "onboard_time": 1660444111,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 887176,
       "num": 887176,
       "word": "周深画的安琪拉",
       "onboard_time": 1660432277,
       "rank": 31,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 865125,
-      "num": 865125,
-      "word": "彭州山洪3名重伤人员抢救无效死亡",
-      "onboard_time": 1660444111,
-      "rank": 29,
-      "category": "社会负面"
     },
     {
       "raw_hot": 824784,
@@ -195,8 +211,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 728290,
-      "num": 728290,
+      "raw_hot": 729431,
+      "num": 729431,
       "word": "把男朋友做的饭做成了菜单",
       "onboard_time": 1660444950,
       "rank": 43,
@@ -259,14 +275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 597716,
-      "num": 564272,
-      "word": "王源加盟央视财经818晚会",
-      "onboard_time": 1660448970,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 573764,
       "num": 573764,
       "word": "陕西HPV疫苗预约时间固定了",
@@ -321,6 +329,14 @@
       "onboard_time": 1660435764,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494256,
+      "num": 386669,
+      "word": "王俊凯回应观众看哭了",
+      "onboard_time": 1660447289,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 488830,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431983,
-      "num": 386669,
-      "word": "王俊凯回应观众看哭了",
-      "onboard_time": 1660447289,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 430461,
       "num": 1329544,
       "word": "生腌海鱼并不比生腌淡水鱼更安全",
@@ -416,6 +424,14 @@
       "word": "张云龙没有人可以抗拒东北澡堂",
       "onboard_time": 1660443809,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 424196,
+      "num": 344004,
+      "word": "江疏影欢乐颂3是经常请吃饭的姐姐吧",
+      "onboard_time": 1660448910,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -467,6 +483,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 398998,
+      "num": 398998,
+      "word": "新学期人设",
+      "onboard_time": 1660447050,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393521,
       "num": 393521,
       "word": "成都新增本土确诊病例3例",
@@ -489,14 +513,6 @@
       "onboard_time": 1660404390,
       "rank": 15,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 388015,
-      "num": 388015,
-      "word": "新学期人设",
-      "onboard_time": 1660447050,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 380019,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 334184,
-      "num": 246349,
+      "num": 253758,
       "word": "苍兰诀片头曲诀爱",
       "onboard_time": 1660446632,
       "rank": 30,
@@ -569,6 +585,14 @@
       "onboard_time": 1660432938,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310017,
+      "num": 310017,
+      "word": "幼儿园餐食霉烂系离职厨师造谣",
+      "onboard_time": 1660448312,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 304941,
@@ -659,12 +683,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250548,
-      "num": 250548,
+      "raw_hot": 256214,
+      "num": 256214,
       "word": "骑行已成当代社交三大件之一",
       "onboard_time": 1660445973,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251436,
+      "num": 251436,
+      "word": "刘雨昕像极了第一次去别人家的我",
+      "onboard_time": 1660446329,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 248442,
@@ -681,14 +713,6 @@
       "onboard_time": 1660445610,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239091,
-      "num": 239091,
-      "word": "幼儿园餐食霉烂系离职厨师造谣",
-      "onboard_time": 1660448312,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 237653,
@@ -715,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226728,
-      "num": 226728,
-      "word": "江疏影欢乐颂3是经常请吃饭的姐姐吧",
-      "onboard_time": 1660448910,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222411,
       "num": 222411,
       "word": "新疆新增无症状396例",
@@ -745,14 +761,6 @@
       "onboard_time": 1660438768,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208692,
-      "num": 208692,
-      "word": "刘雨昕像极了第一次去别人家的我",
-      "onboard_time": 1660446329,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 207870,
@@ -793,6 +801,14 @@
       "onboard_time": 1660408525,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191711,
+      "num": 191711,
+      "word": "西藏初筛阳性人员不再进行复核",
+      "onboard_time": 1660449450,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174375,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1660400736,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64468,
+      "num": 1231475,
+      "word": "中国空间站任务LOGO大赏",
+      "onboard_time": 1660449212,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60008,
