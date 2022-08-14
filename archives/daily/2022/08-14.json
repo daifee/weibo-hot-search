@@ -1,7 +1,23 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660433806799,
+  "endTime": 1660443339711,
   "band_list": [
+    {
+      "raw_hot": 4586109,
+      "num": 4672218,
+      "word": "她们还在等待道歉",
+      "onboard_time": 1660432998,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2729710,
+      "num": 1318386,
+      "word": "日娃被打",
+      "onboard_time": 1660436003,
+      "rank": 3,
+      "category": "网红"
+    },
     {
       "raw_hot": 2002502,
       "num": 2002502,
@@ -27,12 +43,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1362514,
-      "num": 1362514,
+      "raw_hot": 1608660,
+      "num": 1608660,
       "word": "彭州未撤离游客被卷入山洪",
       "onboard_time": 1660393890,
       "rank": 9,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1174011,
+      "num": 1174011,
+      "word": "车主充电时在车内休息突然断电被困",
+      "onboard_time": 1660438346,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158796,
@@ -75,12 +99,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 892451,
+      "num": 892451,
+      "word": "拉萨市卫健委主任被免职",
+      "onboard_time": 1660441528,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826882,
+      "num": 826882,
+      "word": "周深画的安琪拉",
+      "onboard_time": 1660432277,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 803101,
       "num": 803101,
       "word": "彭州山洪",
       "onboard_time": 1660385008,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 798495,
+      "num": 798495,
+      "word": "彭州突发山洪黑衣男子逆行救人",
+      "onboard_time": 1660437987,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 717516,
@@ -131,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 573764,
+      "num": 573764,
+      "word": "陕西HPV疫苗预约时间固定了",
+      "onboard_time": 1660437084,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560289,
       "num": 560289,
       "word": "张翰朱梓骁合体直播",
@@ -145,6 +201,30 @@
       "onboard_time": 1660402595,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509069,
+      "num": 509069,
+      "word": "老人为省电关闸门致冰箱食物腐臭",
+      "onboard_time": 1660435764,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497438,
+      "num": 497438,
+      "word": "你好星期六下期有0713男团",
+      "onboard_time": 1660442247,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 488830,
+      "num": 488830,
+      "word": "终于等到汪苏泷唱这首歌",
+      "onboard_time": 1660437987,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 478400,
@@ -171,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447409,
+      "num": 447409,
+      "word": "邻居狂吼劝回翻窗女童好凶好暖",
+      "onboard_time": 1660441228,
+      "rank": 15,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 446229,
+      "num": 446229,
+      "word": "彭州山洪已致7人死亡",
+      "onboard_time": 1660432938,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 436903,
       "num": 207605,
       "word": "河南卫视舞蹈节目有多卷",
@@ -187,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430461,
+      "num": 1329544,
+      "word": "生腌海鱼并不比生腌淡水鱼更安全",
+      "onboard_time": 1660433600,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 429503,
       "num": 429503,
       "word": "ITZY你是我的姐",
@@ -195,8 +299,24 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 423899,
+      "num": 423899,
+      "word": "尹正买西瓜",
+      "onboard_time": 1660413316,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423868,
+      "num": 423868,
+      "word": "彭州山洪目击者称有人提前逃离",
+      "onboard_time": 1660437927,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 420608,
-      "num": 327241,
+      "num": 405341,
       "word": "不难看出 马丽是沈腾唯一的姐",
       "onboard_time": 1660395632,
       "rank": 30,
@@ -227,20 +347,28 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 388763,
-      "num": 188822,
-      "word": "她们还在等待道歉",
-      "onboard_time": 1660432998,
-      "rank": 20,
+      "raw_hot": 378935,
+      "num": 378935,
+      "word": "海关查获23500件问题地图",
+      "onboard_time": 1660440147,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370115,
-      "num": 356617,
-      "word": "彭州山洪已致7人死亡",
-      "onboard_time": 1660432938,
-      "rank": 10,
-      "category": "社会负面"
+      "raw_hot": 376846,
+      "num": 376846,
+      "word": "西藏增本土确诊59例无症状443例",
+      "onboard_time": 1660440447,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366659,
+      "num": 366659,
+      "word": "玉骨遥",
+      "onboard_time": 1660436546,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 362717,
@@ -259,12 +387,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341324,
+      "num": 341324,
+      "word": "加拿大安大略省长讲话时误吞蜜蜂",
+      "onboard_time": 1660442371,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 325687,
+      "num": 248346,
+      "word": "成毅打戏好飒",
+      "onboard_time": 1660441828,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316489,
+      "num": 316489,
+      "word": "三亚增367例确诊721例无症状",
+      "onboard_time": 1660432938,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304941,
       "num": 304941,
       "word": "周深游戏ID礼貌嘛少管我",
       "onboard_time": 1660409542,
       "rank": 21,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 302795,
+      "num": 244066,
+      "word": "断桥",
+      "onboard_time": 1660432998,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 301737,
@@ -289,6 +449,14 @@
       "onboard_time": 1660399535,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 279634,
+      "num": 279634,
+      "word": "8月13日北京无新增本土感染者",
+      "onboard_time": 1660441528,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277724,
@@ -323,12 +491,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243834,
-      "num": 229593,
-      "word": "尹正买西瓜",
-      "onboard_time": 1660413316,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 248442,
+      "num": 248442,
+      "word": "回头的人对你来说算礼物吗",
+      "onboard_time": 1660439306,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 243695,
+      "num": 243695,
+      "word": "云南多家旅行社被处罚",
+      "onboard_time": 1660441828,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 240859,
+      "num": 240859,
+      "word": "乌鲁木齐101中学淘汰清华附中",
+      "onboard_time": 1660442848,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 237653,
@@ -339,12 +523,28 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 220720,
-      "num": 220720,
-      "word": "三亚增367例确诊721例无症状",
-      "onboard_time": 1660432938,
-      "rank": 18,
+      "raw_hot": 228254,
+      "num": 228254,
+      "word": "彭州山洪事发地不是正规景区",
+      "onboard_time": 1660434982,
+      "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222411,
+      "num": 222411,
+      "word": "新疆新增无症状396例",
+      "onboard_time": 1660439548,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222257,
+      "num": 222257,
+      "word": "用头盔挡刀的辅警23岁已从警5年",
+      "onboard_time": 1660442909,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 217156,
@@ -355,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208480,
-      "num": 176234,
-      "word": "断桥",
-      "onboard_time": 1660432998,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 213991,
+      "num": 213991,
+      "word": "超二百人参与彭州山洪搜救",
+      "onboard_time": 1660438768,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207870,
@@ -369,6 +569,22 @@
       "onboard_time": 1660389569,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207670,
+      "num": 207670,
+      "word": "8岁少年完成5.14A中国攀岩",
+      "onboard_time": 1660440808,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202081,
+      "num": 202081,
+      "word": "12枚中国空间站任务标识集齐了",
+      "onboard_time": 1660437387,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 195637,
@@ -385,14 +601,6 @@
       "onboard_time": 1660408525,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176250,
-      "num": 101104,
-      "word": "周深画的安琪拉",
-      "onboard_time": 1660432277,
-      "rank": 31,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 174375,
@@ -419,12 +627,36 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 161755,
+      "num": 161755,
+      "word": "大理地震",
+      "onboard_time": 1660433721,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160648,
+      "num": 160648,
+      "word": "呼和浩特新增4例阳性感染者",
+      "onboard_time": 1660440029,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155201,
       "num": 155201,
       "word": "食物语",
       "onboard_time": 1660394788,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154104,
+      "num": 154104,
+      "word": "今年已有4位慰安妇制度受害者去世",
+      "onboard_time": 1660441046,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 142834,
@@ -640,22 +872,6 @@
       "word": "新疆库尔勒临时性静态管理",
       "onboard_time": 1660395753,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55507,
-      "num": 55507,
-      "word": "生腌海鱼并不比生腌淡水鱼更安全",
-      "onboard_time": 1660433600,
-      "rank": 48,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 51566,
-      "num": 51566,
-      "word": "大理地震",
-      "onboard_time": 1660433721,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
