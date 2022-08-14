@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660515657867,
+  "endTime": 1660516652862,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464856,
+      "num": 464856,
+      "word": "40度高温3岁男孩被锁车内",
+      "onboard_time": 1660509732,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460008,
       "num": 460008,
       "word": "多地教育局否认中学暑期违规补课",
@@ -139,19 +147,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407651,
+      "num": 407651,
+      "word": "母女带100多万现金坐高铁",
+      "onboard_time": 1660507991,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384359,
       "num": 384359,
       "word": "上海发布回应徐汇宜家相关情况",
       "onboard_time": 1660486292,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359519,
-      "num": 359519,
-      "word": "40度高温3岁男孩被锁车内",
-      "onboard_time": 1660509732,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -225,14 +233,6 @@
       "onboard_time": 1660490613,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282286,
-      "num": 282286,
-      "word": "母女带100多万现金坐高铁",
-      "onboard_time": 1660507991,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275744,
@@ -379,6 +379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169724,
+      "num": 169724,
+      "word": "三伏天最后一伏来了",
+      "onboard_time": 1660506912,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169449,
+      "num": 82886,
+      "word": "环球时报评彭州山洪灾难",
+      "onboard_time": 1660512491,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166266,
       "num": 166266,
       "word": "藏在菜市场里的宝藏美食",
@@ -435,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122606,
-      "num": 122606,
-      "word": "三伏天最后一伏来了",
-      "onboard_time": 1660506912,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 115215,
+      "num": 115215,
+      "word": "王鹤棣东方青苍人间造型",
+      "onboard_time": 1660483171,
+      "rank": 43,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 109541,
@@ -451,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108679,
-      "num": 108679,
-      "word": "王鹤棣东方青苍人间造型",
-      "onboard_time": 1660483171,
-      "rank": 43,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 107935,
       "num": 107935,
       "word": "小兰花清醒",
@@ -467,20 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107208,
-      "num": 63240,
-      "word": "环球时报评彭州山洪灾难",
-      "onboard_time": 1660512491,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104584,
       "num": 104584,
       "word": "养的多肉居然开花了",
       "onboard_time": 1660472012,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100040,
+      "num": 100040,
+      "word": "一定空置率说明居民住房水平提高",
+      "onboard_time": 1660505053,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 99537,
@@ -507,28 +515,28 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 63865,
-      "num": 63865,
-      "word": "一定空置率说明居民住房水平提高",
-      "onboard_time": 1660505053,
-      "rank": 46,
-      "category": "财经,社会新闻"
+      "raw_hot": 73396,
+      "num": 73396,
+      "word": "短胖炸毛的大熊猫什么样",
+      "onboard_time": 1660513093,
+      "rank": 30,
+      "category": "幽默"
     },
     {
-      "raw_hot": 45208,
-      "num": 45208,
+      "raw_hot": 61903,
+      "num": 61903,
       "word": "猫猫会狗喘是什么体验",
       "onboard_time": 1660511291,
       "rank": 43,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 40011,
-      "num": 40011,
-      "word": "短胖炸毛的大熊猫什么样",
-      "onboard_time": 1660513093,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 37919,
+      "num": 37919,
+      "word": "疑商夫妇买蜜饯花絮",
+      "onboard_time": 1660502954,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 37531,
@@ -547,19 +555,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33697,
+      "num": 33697,
+      "word": "探班央视中秋晚会",
+      "onboard_time": 1660511231,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33430,
       "num": 33430,
       "word": "月升沧海",
       "onboard_time": 1660500615,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 32923,
-      "num": 32923,
-      "word": "疑商夫妇买蜜饯花絮",
-      "onboard_time": 1660502954,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -569,14 +577,6 @@
       "onboard_time": 1660501875,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22864,
-      "num": 22864,
-      "word": "探班央视中秋晚会",
-      "onboard_time": 1660511231,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 19650,
