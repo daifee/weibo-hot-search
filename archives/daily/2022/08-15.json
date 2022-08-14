@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660504620182,
+  "endTime": 1660505602316,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671944,
+      "num": 671944,
+      "word": "你见过凌晨4点的天安门吗",
+      "onboard_time": 1660501573,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551477,
       "num": 411581,
       "word": "苍兰诀 诀症",
@@ -88,14 +96,6 @@
       "word": "义乌大部分街镇延长静默期",
       "onboard_time": 1660493186,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544004,
-      "num": 544004,
-      "word": "你见过凌晨4点的天安门吗",
-      "onboard_time": 1660501573,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35054,
+      "num": 35054,
+      "word": "该怎么跟尹浩宇解释宋丹丹不会魔法",
+      "onboard_time": 1660504153,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33430,
       "num": 33430,
       "word": "月升沧海",
@@ -491,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23383,
-      "num": 23383,
-      "word": "该怎么跟尹浩宇解释宋丹丹不会魔法",
-      "onboard_time": 1660504153,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 28842,
+      "num": 28842,
+      "word": "疑商夫妇买蜜饯花絮",
+      "onboard_time": 1660502954,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 19650,
@@ -505,6 +513,14 @@
       "onboard_time": 1660443569,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16850,
+      "num": 16850,
+      "word": "一定空置率说明居民住房水平提高",
+      "onboard_time": 1660505053,
+      "rank": 46,
+      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
