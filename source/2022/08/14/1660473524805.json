@@ -1,0 +1,410 @@
+{
+  "runTime": 1660473524805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2031894,
+        "num": 2031894,
+        "word": "安徽热成全国第一",
+        "onboard_time": 1660464632,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191761,
+        "num": 1191761,
+        "word": "JK罗琳收到死亡威胁",
+        "onboard_time": 1660457969,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 267216,
+        "num": 1174066,
+        "word": "到了壶口才知道为什么叫黄河",
+        "onboard_time": 1660450411,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3269445,
+        "num": 957936,
+        "word": "王一博周冬雨一起走红毯",
+        "onboard_time": 1660471652,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1563204,
+        "num": 850241,
+        "word": "单依纯好拽",
+        "onboard_time": 1660471293,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1378557,
+        "num": 753640,
+        "word": "彩礼为什么越来越贵",
+        "onboard_time": 1660469312,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 623885,
+        "num": 623885,
+        "word": "河南将出现对流性降水天气",
+        "onboard_time": 1660467330,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599652,
+        "num": 599652,
+        "word": "1株葡萄树结出1140串葡萄",
+        "onboard_time": 1660461751,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514077,
+        "num": 514077,
+        "word": "同居1年分手男子欲要回88.8万彩礼",
+        "onboard_time": 1660444649,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451147,
+        "num": 451147,
+        "word": "成都辟谣彭州山洪与上游泄洪有关",
+        "onboard_time": 1660465892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997765,
+        "num": 450805,
+        "word": "微博电影之夜",
+        "onboard_time": 1660466970,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 909507,
+        "num": 447068,
+        "word": "刘亦菲电影之夜红毯生图状态",
+        "onboard_time": 1660472850,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 867318,
+        "num": 445436,
+        "word": "退钱哥落水C罗全责",
+        "onboard_time": 1660471174,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528424,
+        "num": 444171,
+        "word": "张家界坠亡女骑手家属获补偿45万元",
+        "onboard_time": 1660472731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521913,
+        "num": 441922,
+        "word": "特朗普律师曾称所有机密材料已归还",
+        "onboard_time": 1660471951,
+        "rank": 14,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 440117,
+        "num": 440117,
+        "word": "养的多肉居然开花了",
+        "onboard_time": 1660472012,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425946,
+        "num": 425946,
+        "word": "爷爷雨天抱着孙子无效打伞",
+        "onboard_time": 1660470451,
+        "rank": 16,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 420738,
+        "num": 420738,
+        "word": "九尾的不知火舞",
+        "onboard_time": 1660469609,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404865,
+        "num": 404865,
+        "word": "重庆热成全国第一",
+        "onboard_time": 1660472793,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403015,
+        "num": 403015,
+        "word": "北京街头2米高的蘑菇到底是啥",
+        "onboard_time": 1660464929,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773663,
+        "num": 402463,
+        "word": "欧阳娜娜卷发",
+        "onboard_time": 1660471470,
+        "rank": 20,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 699500,
+        "num": 402225,
+        "word": "刘耀文气起来连自己都打",
+        "onboard_time": 1660471590,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492744,
+        "num": 402144,
+        "word": "沈腾 偷轮胎",
+        "onboard_time": 1660473333,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398747,
+        "num": 398747,
+        "word": "女子吐槽韩国月子餐是断奶餐",
+        "onboard_time": 1660456650,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378012,
+        "num": 378012,
+        "word": "EDG 我们是冠军",
+        "onboard_time": 1660473092,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353073,
+        "num": 353073,
+        "word": "WE对战AG",
+        "onboard_time": 1660472132,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 471277,
+        "num": 348771,
+        "word": "王子璇蝴蝶妆",
+        "onboard_time": 1660468169,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311716,
+        "num": 311716,
+        "word": "2岁女童打翻爸爸泡面被深度烫伤",
+        "onboard_time": 1660458328,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292947,
+        "num": 292947,
+        "word": "102岁外婆看到外孙笑出表情包",
+        "onboard_time": 1660467032,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264956,
+        "num": 264956,
+        "word": "九寨沟的水为何踩不得",
+        "onboard_time": 1660472670,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 479733,
+        "num": 264453,
+        "word": "李易峰微博电影之夜红毯生图好帅",
+        "onboard_time": 1660472670,
+        "rank": 30,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 375713,
+        "num": 261434,
+        "word": "苍兰诀",
+        "onboard_time": 1660454311,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359445,
+        "num": 260536,
+        "word": "长空之王剧组红毯",
+        "onboard_time": 1660473151,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335240,
+        "num": 258749,
+        "word": "谢霆锋微博电影之夜造型",
+        "onboard_time": 1660473210,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257797,
+        "num": 257797,
+        "word": "彩礼为什么流传至今",
+        "onboard_time": 1660458030,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244589,
+        "num": 244589,
+        "word": "9岁男孩高温天为车祸伤者遮阳",
+        "onboard_time": 1660464508,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 237248,
+        "num": 237248,
+        "word": "上海无人机精准定位未扫场所码人员",
+        "onboard_time": 1660473033,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237062,
+        "num": 237062,
+        "word": "母子餐馆就餐顺走他人遗落500元鞋",
+        "onboard_time": 1660463610,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212308,
+        "num": 212308,
+        "word": "UP对战WE",
+        "onboard_time": 1660472311,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208584,
+        "num": 208584,
+        "word": "福州男生祖孙三代全上清华",
+        "onboard_time": 1660466310,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308260,
+        "num": 208580,
+        "word": "周笔畅造型",
+        "onboard_time": 1660473452,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208465,
+        "num": 208465,
+        "word": "高温还要持续多久",
+        "onboard_time": 1660467570,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197664,
+        "num": 197664,
+        "word": "青海玉树5.9级地震",
+        "onboard_time": 1660466372,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187007,
+        "num": 187007,
+        "word": "笑点低别养这种狗",
+        "onboard_time": 1660464568,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144957,
+        "num": 144957,
+        "word": "以后夸人再也不怕词穷了",
+        "onboard_time": 1660464149,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139472,
+        "num": 139472,
+        "word": "秋天需要一盏兔子灯笼",
+        "onboard_time": 1660468771,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122924,
+        "num": 122924,
+        "word": "6旬老人烫头后称不满意拒付钱",
+        "onboard_time": 1660451009,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121776,
+        "num": 121776,
+        "word": "彭州突发山洪造成7死8伤",
+        "onboard_time": 1660457129,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 106970,
+        "num": 121684,
+        "word": "陈彬彬加盟日本富山胜利",
+        "onboard_time": 1660466551,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104215,
+        "num": 121529,
+        "word": "持续高温天气会成为常态吗",
+        "onboard_time": 1660470633,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京国际电影节开幕式#"
+    }
+  }
+}
