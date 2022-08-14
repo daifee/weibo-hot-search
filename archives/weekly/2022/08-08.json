@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660473524805,
+  "endTime": 1660475878385,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 3443491,
-      "num": 1175268,
+      "num": 1245753,
       "word": "王一博周冬雨一起走红毯",
       "onboard_time": 1660471652,
       "rank": 3,
@@ -371,6 +371,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 2608767,
+      "num": 731463,
+      "word": "张天爱胸骨",
+      "onboard_time": 1660475371,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2608108,
       "num": 455313,
       "word": "王栎鑫 你想转就转不要往回找补",
@@ -449,6 +457,14 @@
       "onboard_time": 1660368511,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2403655,
+      "num": 1245976,
+      "word": "沈腾 偷轮胎",
+      "onboard_time": 1660473333,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 2389254,
@@ -577,6 +593,14 @@
       "onboard_time": 1660024354,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2199400,
+      "num": 2199400,
+      "word": "张家界坠亡女骑手家属获补偿45万元",
+      "onboard_time": 1660472731,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2199323,
@@ -1156,7 +1180,7 @@
     },
     {
       "raw_hot": 1563204,
-      "num": 1165130,
+      "num": 1184440,
       "word": "单依纯好拽",
       "onboard_time": 1660471293,
       "rank": 4,
@@ -1915,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1184652,
+      "num": 1184652,
+      "word": "EDG 我们是冠军",
+      "onboard_time": 1660473092,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1174011,
       "num": 1174011,
       "word": "车主充电时在车内休息突然断电被困",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1660386271,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095205,
+      "num": 722856,
+      "word": "刘亦菲电影之夜红毯生图状态",
+      "onboard_time": 1660472850,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1090637,
@@ -2835,14 +2875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 909507,
-      "num": 447068,
-      "word": "刘亦菲电影之夜红毯生图状态",
-      "onboard_time": 1660472850,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 906883,
       "num": 906883,
       "word": "曼联",
@@ -3403,6 +3435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 761901,
+      "num": 761901,
+      "word": "重庆热成全国第一",
+      "onboard_time": 1660472793,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757232,
       "num": 757232,
       "word": "你的快递是这么丢的",
@@ -3809,6 +3849,14 @@
       "onboard_time": 1660427172,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692363,
+      "num": 692363,
+      "word": "养的多肉居然开花了",
+      "onboard_time": 1660472012,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 691308,
@@ -4243,12 +4291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635735,
+      "num": 635735,
+      "word": "上海无人机精准定位未扫场所码人员",
+      "onboard_time": 1660473033,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635083,
       "num": 635083,
       "word": "卫强足浴店3名员工被立案侦查",
       "onboard_time": 1660362031,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633953,
+      "num": 749790,
+      "word": "九寨沟的水为何踩不得",
+      "onboard_time": 1660472670,
+      "rank": 29,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 632864,
@@ -5075,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542651,
+      "num": 402833,
+      "word": "姚晨 造型",
+      "onboard_time": 1660473991,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541440,
       "num": 541440,
       "word": "欧豪吹的不是蜡烛是我的头皮",
@@ -5283,14 +5355,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 528424,
-      "num": 444171,
-      "word": "张家界坠亡女骑手家属获补偿45万元",
-      "onboard_time": 1660472731,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 528152,
       "num": 528152,
       "word": "some菀likeyou",
@@ -5348,7 +5412,7 @@
     },
     {
       "raw_hot": 521913,
-      "num": 441922,
+      "num": 474070,
       "word": "特朗普律师曾称所有机密材料已归还",
       "onboard_time": 1660471951,
       "rank": 36,
@@ -5641,14 +5705,6 @@
       "onboard_time": 1660134991,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 492744,
-      "num": 402144,
-      "word": "沈腾 偷轮胎",
-      "onboard_time": 1660473333,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 491804,
@@ -6435,6 +6491,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 443655,
+      "num": 443655,
+      "word": "爷爷雨天抱着孙子无效打伞",
+      "onboard_time": 1660470451,
+      "rank": 25,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 443370,
       "num": 443370,
       "word": "沉香如屑剧情前后呼应",
@@ -6505,14 +6569,6 @@
       "onboard_time": 1660019925,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 440117,
-      "num": 440117,
-      "word": "养的多肉居然开花了",
-      "onboard_time": 1660472012,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 439542,
@@ -6691,6 +6747,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 430450,
+      "num": 248569,
+      "word": "王俊凯微博电影之夜补妆氛围感",
+      "onboard_time": 1660475550,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430357,
       "num": 430357,
       "word": "四川彭州一河道突发山洪",
@@ -6841,14 +6905,6 @@
       "onboard_time": 1660011275,
       "rank": 21,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 425946,
-      "num": 425946,
-      "word": "爷爷雨天抱着孙子无效打伞",
-      "onboard_time": 1660470451,
-      "rank": 25,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 425872,
@@ -7043,6 +7099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419010,
+      "num": 419010,
+      "word": "重庆一消防员扑救中遇燃爆牺牲",
+      "onboard_time": 1660474350,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418634,
       "num": 418634,
       "word": "官方回应游客赤脚进茶卡盐湖",
@@ -7065,6 +7129,14 @@
       "onboard_time": 1660397792,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 418228,
+      "num": 418228,
+      "word": "山洪突袭男子紧抱女孩死里逃生",
+      "onboard_time": 1660473571,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418061,
@@ -7387,20 +7459,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 405411,
+      "num": 247139,
+      "word": "朱一龙两次微博电影之夜造型对比",
+      "onboard_time": 1660475734,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405297,
       "num": 405297,
       "word": "没必要担心遇见脏东西",
       "onboard_time": 1660287272,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 404865,
-      "num": 404865,
-      "word": "重庆热成全国第一",
-      "onboard_time": 1660472793,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404533,
@@ -7473,6 +7545,14 @@
       "onboard_time": 1660387050,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402293,
+      "num": 209172,
+      "word": "戚薇说该轮到李承铉上班了",
+      "onboard_time": 1660474655,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 401945,
@@ -8105,14 +8185,6 @@
       "onboard_time": 1659930784,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378012,
-      "num": 378012,
-      "word": "EDG 我们是冠军",
-      "onboard_time": 1660473092,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 377854,
@@ -9747,6 +9819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321042,
+      "num": 321042,
+      "word": "WE十六连败",
+      "onboard_time": 1660475194,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320586,
       "num": 320586,
       "word": "莆田秀屿发现4例阳性",
@@ -10425,6 +10505,14 @@
       "onboard_time": 1660110933,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294689,
+      "num": 294689,
+      "word": "上心和不上心也太明显了",
+      "onboard_time": 1660475313,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 294642,
@@ -11195,14 +11283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264956,
-      "num": 264956,
-      "word": "九寨沟的水为何踩不得",
-      "onboard_time": 1660472670,
-      "rank": 29,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 264910,
       "num": 264910,
       "word": "8月12日新增本土无症状1359例",
@@ -11947,14 +12027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237248,
-      "num": 237248,
-      "word": "上海无人机精准定位未扫场所码人员",
-      "onboard_time": 1660473033,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236963,
       "num": 236963,
       "word": "XYG零封",
@@ -12627,6 +12699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212587,
+      "num": 212587,
+      "word": "第五人格",
+      "onboard_time": 1660474172,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211378,
       "num": 211378,
       "word": "对自己体重没点数的狗狗",
@@ -13001,6 +13081,14 @@
       "onboard_time": 1659953855,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191575,
+      "num": 191575,
+      "word": "AG状态拉满",
+      "onboard_time": 1660475134,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 191261,

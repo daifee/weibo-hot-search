@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660473524805,
+  "endTime": 1660475878385,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3443491,
-      "num": 1175268,
+      "num": 1245753,
       "word": "王一博周冬雨一起走红毯",
       "onboard_time": 1660471652,
       "rank": 3,
@@ -49,6 +49,30 @@
       "onboard_time": 1660436003,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2608767,
+      "num": 731463,
+      "word": "张天爱胸骨",
+      "onboard_time": 1660475371,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2403655,
+      "num": 1245976,
+      "word": "沈腾 偷轮胎",
+      "onboard_time": 1660473333,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2199400,
+      "num": 2199400,
+      "word": "张家界坠亡女骑手家属获补偿45万元",
+      "onboard_time": 1660472731,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2042920,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 1563204,
-      "num": 1165130,
+      "num": 1184440,
       "word": "单依纯好拽",
       "onboard_time": 1660471293,
       "rank": 4,
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1184652,
+      "num": 1184652,
+      "word": "EDG 我们是冠军",
+      "onboard_time": 1660473092,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1174011,
       "num": 1174011,
       "word": "车主充电时在车内休息突然断电被困",
@@ -241,6 +273,14 @@
       "onboard_time": 1660461751,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095205,
+      "num": 722856,
+      "word": "刘亦菲电影之夜红毯生图状态",
+      "onboard_time": 1660472850,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1085464,
@@ -321,14 +361,6 @@
       "onboard_time": 1660460432,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 909507,
-      "num": 447068,
-      "word": "刘亦菲电影之夜红毯生图状态",
-      "onboard_time": 1660472850,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 906883,
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761901,
+      "num": 761901,
+      "word": "重庆热成全国第一",
+      "onboard_time": 1660472793,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739494,
       "num": 739494,
       "word": "布瑞吉freestyle杀疯了",
@@ -499,6 +539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 692363,
+      "num": 692363,
+      "word": "养的多肉居然开花了",
+      "onboard_time": 1660472012,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 685204,
       "num": 685204,
       "word": "四川8岁男孩大桥下失联已11天",
@@ -545,6 +593,22 @@
       "onboard_time": 1660462830,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635735,
+      "num": 635735,
+      "word": "上海无人机精准定位未扫场所码人员",
+      "onboard_time": 1660473033,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633953,
+      "num": 749790,
+      "word": "九寨沟的水为何踩不得",
+      "onboard_time": 1660472670,
+      "rank": 29,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 632864,
@@ -659,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542651,
+      "num": 402833,
+      "word": "姚晨 造型",
+      "onboard_time": 1660473991,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539937,
       "num": 539937,
       "word": "14岁少年打赏主播4万元全部追回",
@@ -683,14 +755,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 528424,
-      "num": 444171,
-      "word": "张家界坠亡女骑手家属获补偿45万元",
-      "onboard_time": 1660472731,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527601,
       "num": 527601,
       "word": "王俊凯回应观众看哭了",
@@ -700,7 +764,7 @@
     },
     {
       "raw_hot": 521913,
-      "num": 441922,
+      "num": 474070,
       "word": "特朗普律师曾称所有机密材料已归还",
       "onboard_time": 1660471951,
       "rank": 36,
@@ -736,14 +800,6 @@
       "word": "赵露思哭戏控制力",
       "onboard_time": 1660460070,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 492744,
-      "num": 402144,
-      "word": "沈腾 偷轮胎",
-      "onboard_time": 1660473333,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -843,12 +899,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 440117,
-      "num": 440117,
-      "word": "养的多肉居然开花了",
-      "onboard_time": 1660472012,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 443655,
+      "num": 443655,
+      "word": "爷爷雨天抱着孙子无效打伞",
+      "onboard_time": 1660470451,
+      "rank": 25,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 439542,
@@ -907,6 +963,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 430450,
+      "num": 248569,
+      "word": "王俊凯微博电影之夜补妆氛围感",
+      "onboard_time": 1660475550,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429503,
       "num": 429503,
       "word": "ITZY你是我的姐",
@@ -921,14 +985,6 @@
       "onboard_time": 1660464508,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 425946,
-      "num": 425946,
-      "word": "爷爷雨天抱着孙子无效打伞",
-      "onboard_time": 1660470451,
-      "rank": 25,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 424228,
@@ -979,6 +1035,22 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 419010,
+      "num": 419010,
+      "word": "重庆一消防员扑救中遇燃爆牺牲",
+      "onboard_time": 1660474350,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418228,
+      "num": 418228,
+      "word": "山洪突袭男子紧抱女孩死里逃生",
+      "onboard_time": 1660473571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417956,
       "num": 417956,
       "word": "WE对战AG",
@@ -1011,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404865,
-      "num": 404865,
-      "word": "重庆热成全国第一",
-      "onboard_time": 1660472793,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 405411,
+      "num": 247139,
+      "word": "朱一龙两次微博电影之夜造型对比",
+      "onboard_time": 1660475734,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 404533,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1660440447,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402293,
+      "num": 209172,
+      "word": "戚薇说该轮到李承铉上班了",
+      "onboard_time": 1660474655,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 401563,
@@ -1129,14 +1209,6 @@
       "onboard_time": 1660440147,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378012,
-      "num": 378012,
-      "word": "EDG 我们是冠军",
-      "onboard_time": 1660473092,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 375915,
@@ -1339,6 +1411,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 321042,
+      "num": 321042,
+      "word": "WE十六连败",
+      "onboard_time": 1660475194,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316489,
       "num": 316489,
       "word": "三亚增367例确诊721例无症状",
@@ -1443,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294689,
+      "num": 294689,
+      "word": "上心和不上心也太明显了",
+      "onboard_time": 1660475313,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294531,
       "num": 294531,
       "word": "G2晋级世界赛",
@@ -1537,14 +1625,6 @@
       "onboard_time": 1660462352,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264956,
-      "num": 264956,
-      "word": "九寨沟的水为何踩不得",
-      "onboard_time": 1660472670,
-      "rank": 29,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 264054,
@@ -1675,14 +1755,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 237248,
-      "num": 237248,
-      "word": "上海无人机精准定位未扫场所码人员",
-      "onboard_time": 1660473033,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229574,
       "num": 229574,
       "word": "北京新增15例境外输入确诊病例",
@@ -1739,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212587,
+      "num": 212587,
+      "word": "第五人格",
+      "onboard_time": 1660474172,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211316,
       "num": 132299,
       "word": "早安freestyle喝了喝了",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1660408525,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191575,
+      "num": 191575,
+      "word": "AG状态拉满",
+      "onboard_time": 1660475134,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 178171,
