@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660475878385,
+  "endTime": 1660476852984,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 3443491,
-      "num": 1245753,
+      "num": 1631551,
       "word": "王一博周冬雨一起走红毯",
       "onboard_time": 1660471652,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3302891,
+      "num": 771961,
+      "word": "张天爱胸骨",
+      "onboard_time": 1660475371,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -43,28 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2821941,
+      "num": 2821941,
+      "word": "沈腾 偷轮胎",
+      "onboard_time": 1660473333,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2729710,
       "num": 1318386,
       "word": "日娃被打",
       "onboard_time": 1660436003,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2608767,
-      "num": 731463,
-      "word": "张天爱胸骨",
-      "onboard_time": 1660475371,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2403655,
-      "num": 1245976,
-      "word": "沈腾 偷轮胎",
-      "onboard_time": 1660473333,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 2199400,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1214333,
+      "num": 1214333,
+      "word": "刘亦菲电影之夜红毯生图状态",
+      "onboard_time": 1660472850,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1212284,
       "num": 1212284,
       "word": "王源加盟央视财经818晚会",
@@ -273,14 +281,6 @@
       "onboard_time": 1660461751,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095205,
-      "num": 722856,
-      "word": "刘亦菲电影之夜红毯生图状态",
-      "onboard_time": 1660472850,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1085464,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 814694,
+      "num": 814694,
+      "word": "重庆热成全国第一",
+      "onboard_time": 1660472793,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809136,
       "num": 809136,
       "word": "刘亦菲微博电影之夜一会见",
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 761901,
-      "num": 761901,
-      "word": "重庆热成全国第一",
-      "onboard_time": 1660472793,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 739494,
       "num": 739494,
       "word": "布瑞吉freestyle杀疯了",
@@ -499,6 +499,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 721337,
+      "num": 721337,
+      "word": "上海无人机精准定位未扫场所码人员",
+      "onboard_time": 1660473033,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717516,
       "num": 717516,
       "word": "因妻子不接电话男子辱骂110撒气",
@@ -521,6 +529,14 @@
       "onboard_time": 1660459291,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 696785,
+      "num": 806445,
+      "word": "九寨沟的水为何踩不得",
+      "onboard_time": 1660472670,
+      "rank": 29,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 695679,
@@ -595,22 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 635735,
-      "num": 635735,
-      "word": "上海无人机精准定位未扫场所码人员",
-      "onboard_time": 1660473033,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633953,
-      "num": 749790,
-      "word": "九寨沟的水为何踩不得",
-      "onboard_time": 1660472670,
-      "rank": 29,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 632864,
       "num": 632864,
       "word": "贾乃亮带12个驱蚊装备露营",
@@ -657,6 +657,14 @@
       "onboard_time": 1660456769,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604620,
+      "num": 604620,
+      "word": "上心和不上心也太明显了",
+      "onboard_time": 1660475313,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 603193,
@@ -747,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529764,
+      "num": 413428,
+      "word": "王俊凯微博电影之夜补妆氛围感",
+      "onboard_time": 1660475550,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529643,
       "num": 529643,
       "word": "用头盔挡刀的辅警23岁已从警5年",
       "onboard_time": 1660442909,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 529040,
+      "num": 411390,
+      "word": "朱一龙两次微博电影之夜造型对比",
+      "onboard_time": 1660475734,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 527601,
@@ -795,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502115,
+      "num": 502115,
+      "word": "山洪突袭男子紧抱女孩死里逃生",
+      "onboard_time": 1660473571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500260,
       "num": 358904,
       "word": "赵露思哭戏控制力",
       "onboard_time": 1660460070,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490604,
+      "num": 490604,
+      "word": "WE十六连败",
+      "onboard_time": 1660475194,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 488830,
@@ -963,14 +1003,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 430450,
-      "num": 248569,
-      "word": "王俊凯微博电影之夜补妆氛围感",
-      "onboard_time": 1660475550,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 429503,
       "num": 429503,
       "word": "ITZY你是我的姐",
@@ -1043,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418228,
-      "num": 418228,
-      "word": "山洪突袭男子紧抱女孩死里逃生",
-      "onboard_time": 1660473571,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417956,
       "num": 417956,
       "word": "WE对战AG",
@@ -1083,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405411,
-      "num": 247139,
-      "word": "朱一龙两次微博电影之夜造型对比",
-      "onboard_time": 1660475734,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 404533,
       "num": 404533,
       "word": "一定要用4K看苍兰诀",
@@ -1108,7 +1124,7 @@
     },
     {
       "raw_hot": 402293,
-      "num": 209172,
+      "num": 223595,
       "word": "戚薇说该轮到李承铉上班了",
       "onboard_time": 1660474655,
       "rank": 40,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1660400256,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 400746,
+      "num": 400746,
+      "word": "长沙所有初中新生停止军训",
+      "onboard_time": 1660476033,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 394755,
@@ -1411,14 +1435,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 321042,
-      "num": 321042,
-      "word": "WE十六连败",
-      "onboard_time": 1660475194,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 316489,
       "num": 316489,
       "word": "三亚增367例确诊721例无症状",
@@ -1523,14 +1539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294689,
-      "num": 294689,
-      "word": "上心和不上心也太明显了",
-      "onboard_time": 1660475313,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 294531,
       "num": 294531,
       "word": "G2晋级世界赛",
@@ -1603,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273679,
+      "num": 181204,
+      "word": "周深说自己唱歌还蛮好听的",
+      "onboard_time": 1660475014,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271978,
       "num": 271978,
       "word": "重庆巴南发现3龛明清摩崖造像",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1660467570,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269337,
+      "num": 269337,
+      "word": "AG状态拉满",
+      "onboard_time": 1660475134,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 265408,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1660445610,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244636,
+      "num": 244636,
+      "word": "WE夏季赛全败",
+      "onboard_time": 1660476512,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 239063,
@@ -1873,14 +1905,6 @@
       "onboard_time": 1660408525,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191575,
-      "num": 191575,
-      "word": "AG状态拉满",
-      "onboard_time": 1660475134,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 178171,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1660457789,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 116913,
+      "num": 116913,
+      "word": "中国男排pk日本男排",
+      "onboard_time": 1660476813,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114203,
