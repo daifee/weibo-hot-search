@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660519234921,
+  "endTime": 1660520201686,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1525655,
-      "num": 1525655,
+      "raw_hot": 1721380,
+      "num": 1721380,
       "word": "工作4年收入被父母退休金倒挂了",
       "onboard_time": 1660497021,
       "rank": 14,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1185262,
+      "num": 1185262,
+      "word": "母女带100多万现金坐高铁",
+      "onboard_time": 1660507991,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1169112,
       "num": 1169112,
       "word": "广东多所高校宣布延期开学",
@@ -43,20 +51,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1054028,
-      "num": 1054028,
-      "word": "母女带100多万现金坐高铁",
-      "onboard_time": 1660507991,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 1071293,
+      "num": 1071293,
+      "word": "多地教育局否认中学暑期违规补课",
+      "onboard_time": 1660508472,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1015067,
-      "num": 414103,
+      "num": 524042,
       "word": "张天爱胸骨",
       "onboard_time": 1660475371,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 945428,
+      "num": 945428,
+      "word": "40度高温3岁男孩被锁车内",
+      "onboard_time": 1660509732,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 943096,
@@ -67,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 865020,
-      "num": 865020,
-      "word": "40度高温3岁男孩被锁车内",
-      "onboard_time": 1660509732,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 805773,
+      "num": 805773,
+      "word": "沈腾马丽年度最受欢迎演员",
+      "onboard_time": 1660517056,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 745334,
@@ -81,14 +97,6 @@
       "onboard_time": 1660484311,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 742031,
-      "num": 742031,
-      "word": "多地教育局否认中学暑期违规补课",
-      "onboard_time": 1660508472,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 707255,
@@ -104,6 +112,14 @@
       "word": "你见过凌晨4点的天安门吗",
       "onboard_time": 1660501573,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568032,
+      "num": 568032,
+      "word": "1945年8月15日值得永远铭记",
+      "onboard_time": 1660518681,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -131,12 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492444,
-      "num": 492444,
-      "word": "沈腾马丽年度最受欢迎演员",
-      "onboard_time": 1660517056,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 534685,
+      "num": 534685,
+      "word": "日本宣布投降77周年",
+      "onboard_time": 1660519281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477563,
+      "num": 477563,
+      "word": "三伏天最后一伏来了",
+      "onboard_time": 1660506912,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477387,
@@ -163,11 +187,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 395408,
-      "num": 395408,
-      "word": "三伏天最后一伏来了",
-      "onboard_time": 1660506912,
-      "rank": 35,
+      "raw_hot": 415600,
+      "num": 415600,
+      "word": "家中8人患癌二胎妈妈也查出癌症",
+      "onboard_time": 1660519524,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -219,6 +243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316301,
+      "num": 316301,
+      "word": "一定空置率说明居民住房水平提高",
+      "onboard_time": 1660505053,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 301120,
+      "num": 301120,
+      "word": "短胖炸毛的大熊猫什么样",
+      "onboard_time": 1660513093,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300086,
       "num": 259337,
       "word": "张雨绮红衣虞姬出场氛围感",
@@ -257,14 +297,6 @@
       "onboard_time": 1660490613,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277920,
-      "num": 277920,
-      "word": "一定空置率说明居民住房水平提高",
-      "onboard_time": 1660505053,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 275744,
@@ -315,20 +347,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 252063,
+      "num": 252063,
+      "word": "王鹤棣东方青苍人间造型",
+      "onboard_time": 1660483171,
+      "rank": 43,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 230996,
       "num": 230996,
       "word": "张家界坠亡女骑手家属获补偿45万元",
       "onboard_time": 1660472731,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229300,
-      "num": 229300,
-      "word": "短胖炸毛的大熊猫什么样",
-      "onboard_time": 1660513093,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 222903,
@@ -339,28 +371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218850,
-      "num": 218850,
-      "word": "王鹤棣东方青苍人间造型",
-      "onboard_time": 1660483171,
-      "rank": 43,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 218241,
       "num": 218241,
       "word": "EDG 我们是冠军",
       "onboard_time": 1660473092,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211884,
-      "num": 211884,
-      "word": "1945年8月15日值得永远铭记",
-      "onboard_time": 1660518681,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203654,
@@ -427,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174789,
+      "num": 174789,
+      "word": "成都游客河道中打麻将被劝离",
+      "onboard_time": 1660518981,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172881,
       "num": 172881,
       "word": "切尔西vs热刺",
@@ -441,6 +465,14 @@
       "onboard_time": 1660491989,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165542,
+      "num": 165542,
+      "word": "刘亦菲微博电影之夜造型",
+      "onboard_time": 1660497740,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 158288,
@@ -459,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150283,
-      "num": 150283,
-      "word": "刘亦菲微博电影之夜造型",
-      "onboard_time": 1660497740,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143703,
       "num": 143703,
       "word": "黑猫奇闻社",
@@ -483,12 +507,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130065,
+      "num": 130065,
+      "word": "王一博微博电影之夜好绅士",
+      "onboard_time": 1660519884,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129874,
       "num": 129874,
       "word": "LGD终结RNG九连胜",
       "onboard_time": 1660488154,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120915,
+      "num": 120915,
+      "word": "孔蒂图赫尔冲突",
+      "onboard_time": 1660519281,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117153,
+      "num": 79269,
+      "word": "今天为3500万同胞发一条微博",
+      "onboard_time": 1660520187,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109541,
@@ -547,28 +595,28 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 63989,
-      "num": 63989,
-      "word": "饭堂直播",
-      "onboard_time": 1660518681,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 61903,
-      "num": 61903,
+      "raw_hot": 79457,
+      "num": 79457,
       "word": "猫猫会狗喘是什么体验",
       "onboard_time": 1660511291,
       "rank": 43,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 61823,
-      "num": 61823,
-      "word": "成都游客河道中打麻将被劝离",
-      "onboard_time": 1660518981,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 77549,
+      "num": 77549,
+      "word": "不一定看过剧却听过的那些OST",
+      "onboard_time": 1660520005,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 63989,
+      "num": 63989,
+      "word": "饭堂直播",
+      "onboard_time": 1660518681,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 37919,
@@ -619,8 +667,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23027,
-      "num": 1199467,
+      "raw_hot": 27274,
+      "num": 1241013,
       "word": "超清画面记录中国空间站凌月",
       "onboard_time": 1660443569,
       "rank": 2,
