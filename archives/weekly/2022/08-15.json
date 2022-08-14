@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660508490707,
+  "endTime": 1660509425298,
   "band_list": [
     {
       "raw_hot": 2883607,
@@ -467,12 +467,36 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 54181,
-      "num": 48124,
+      "raw_hot": 72092,
+      "num": 46573,
+      "word": "母女带100多万现金坐高铁",
+      "onboard_time": 1660507991,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62942,
+      "num": 62942,
       "word": "一定空置率说明居民住房水平提高",
       "onboard_time": 1660505053,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 51303,
+      "num": 45580,
+      "word": "多地教育局否认中学暑期违规补课",
+      "onboard_time": 1660508472,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 37593,
+      "num": 37593,
+      "word": "三伏天最后一伏来了",
+      "onboard_time": 1660506912,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37531,
@@ -499,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32923,
+      "num": 32923,
+      "word": "疑商夫妇买蜜饯花絮",
+      "onboard_time": 1660502954,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31224,
       "num": 31224,
       "word": "长珩凡间黑历史",
@@ -507,44 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28842,
-      "num": 28842,
-      "word": "疑商夫妇买蜜饯花絮",
-      "onboard_time": 1660502954,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 23743,
-      "num": 23743,
-      "word": "母女带100多万现金坐高铁",
-      "onboard_time": 1660507991,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21019,
-      "num": 21019,
-      "word": "三伏天最后一伏来了",
-      "onboard_time": 1660506912,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19650,
       "num": 1179186,
       "word": "超清画面记录中国空间站凌月",
       "onboard_time": 1660443569,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11834,
-      "num": 11834,
-      "word": "多地教育局否认中学暑期违规补课",
-      "onboard_time": 1660508472,
-      "rank": 49,
-      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
