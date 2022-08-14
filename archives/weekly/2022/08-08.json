@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660486785532,
+  "endTime": 1660487751078,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3001783,
+      "num": 3001783,
+      "word": "今天解放军22架次军机6艘次军舰巡台",
+      "onboard_time": 1660484311,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 2942089,
       "num": 2942089,
       "word": "美官员称暂停中美禁毒合作不可接受",
@@ -305,14 +313,6 @@
       "onboard_time": 1660296634,
       "rank": 18,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 2914993,
-      "num": 2914993,
-      "word": "今天解放军22架次军机6艘次军舰巡台",
-      "onboard_time": 1660484311,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 2896955,
@@ -1617,6 +1617,14 @@
       "onboard_time": 1659937902,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1335381,
+      "num": 1335381,
+      "word": "复活甲没了",
+      "onboard_time": 1660485154,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 1334124,
@@ -2995,14 +3003,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 903569,
-      "num": 903569,
-      "word": "复活甲没了",
-      "onboard_time": 1660485154,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 897912,
       "num": 897912,
       "word": "男孩口吞灯泡拔不出来求助消防",
@@ -3248,6 +3248,14 @@
       "word": "90后小伙干10年钢筋工被误认是60后",
       "onboard_time": 1660278519,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827013,
+      "num": 827013,
+      "word": "上海发布回应徐汇宜家相关情况",
+      "onboard_time": 1660486292,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3705,6 +3713,14 @@
       "onboard_time": 1660291113,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 732541,
+      "num": 732541,
+      "word": "苍兰诀爱奇艺热度破9500",
+      "onboard_time": 1660486474,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 732060,
@@ -4443,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637795,
+      "num": 637795,
+      "word": "怪不得男人爱看挖掘机",
+      "onboard_time": 1660482153,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 635083,
       "num": 635083,
       "word": "卫强足浴店3名员工被立案侦查",
@@ -4699,14 +4723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 602794,
-      "num": 602794,
-      "word": "怪不得男人爱看挖掘机",
-      "onboard_time": 1660482153,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 600489,
       "num": 389129,
       "word": "何同学 手工耿",
@@ -4960,14 +4976,6 @@
       "word": "符建涛妈妈否认向孙海洋索要赏金",
       "onboard_time": 1660298434,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574823,
-      "num": 574823,
-      "word": "上海发布回应徐汇宜家相关情况",
-      "onboard_time": 1660486292,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -6275,6 +6283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476456,
+      "num": 476456,
+      "word": "石家庄二中耐高夺冠",
+      "onboard_time": 1660485696,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475810,
       "num": 475810,
       "word": "亲历者讲述彭州山洪现场",
@@ -6457,14 +6473,6 @@
       "onboard_time": 1660017700,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466124,
-      "num": 339732,
-      "word": "苍兰诀爱奇艺热度破9500",
-      "onboard_time": 1660486474,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 465854,
@@ -7683,6 +7691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411103,
+      "num": 331442,
+      "word": "苍兰诀预告",
+      "onboard_time": 1660147769,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410759,
       "num": 410759,
       "word": "王俊凯献唱断桥推广曲",
@@ -7857,6 +7873,14 @@
       "onboard_time": 1659928384,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401668,
+      "num": 329214,
+      "word": "张碧晨电影之夜军礼舞台",
+      "onboard_time": 1660487253,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 401055,
@@ -8203,6 +8227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386334,
+      "num": 386334,
+      "word": "LGD 水鬼",
+      "onboard_time": 1660485755,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 386102,
       "num": 229069,
       "word": "林墨被顺手牵羊崩溃成可云",
@@ -8228,7 +8260,7 @@
     },
     {
       "raw_hot": 385620,
-      "num": 243963,
+      "num": 325088,
       "word": "张凌赫演的萧润好可爱",
       "onboard_time": 1660485575,
       "rank": 40,
@@ -8617,6 +8649,14 @@
       "onboard_time": 1660302698,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374254,
+      "num": 374254,
+      "word": "耐高",
+      "onboard_time": 1660486173,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 374211,
@@ -9203,6 +9243,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 353931,
+      "num": 323647,
+      "word": "小兰花清醒",
+      "onboard_time": 1660487675,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353766,
       "num": 213678,
       "word": "王一博西装摩托车大片",
@@ -9585,14 +9633,6 @@
       "onboard_time": 1660023275,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340828,
-      "num": 340828,
-      "word": "石家庄二中耐高夺冠",
-      "onboard_time": 1660485696,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 340748,
@@ -10243,14 +10283,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 318882,
-      "num": 318882,
-      "word": "LGD 水鬼",
-      "onboard_time": 1660485755,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 318401,
       "num": 318401,
       "word": "快乐再出发",
@@ -10737,6 +10769,14 @@
       "onboard_time": 1660286552,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298685,
+      "num": 298685,
+      "word": "会说话的人是怎么安慰别人的",
+      "onboard_time": 1660486474,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 298156,
@@ -11563,14 +11603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269811,
-      "num": 198572,
-      "word": "苍兰诀预告",
-      "onboard_time": 1660147769,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269337,
       "num": 269337,
       "word": "AG状态拉满",
@@ -12019,12 +12051,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 249768,
-      "num": 249768,
-      "word": "耐高",
-      "onboard_time": 1660486173,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 249916,
+      "num": 249916,
+      "word": "GK战队",
+      "onboard_time": 1660487193,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 249511,
@@ -13307,6 +13339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202703,
+      "num": 202703,
+      "word": "彭州龙漕沟河道已被挖掉",
+      "onboard_time": 1660487075,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202393,
       "num": 202393,
       "word": "海口疫情防控",
@@ -13745,14 +13785,6 @@
       "onboard_time": 1659914060,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181228,
-      "num": 181228,
-      "word": "会说话的人是怎么安慰别人的",
-      "onboard_time": 1660486474,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 181216,
