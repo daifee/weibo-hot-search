@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660458388438,
+  "endTime": 1660459437641,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 4197035,
-      "num": 1376006,
+      "num": 1741014,
       "word": "同居1年分手男子欲要回88.8万彩礼",
       "onboard_time": 1660444649,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3247052,
+      "num": 3247052,
+      "word": "JK罗琳收到死亡威胁",
+      "onboard_time": 1660457969,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2729710,
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1861544,
+      "num": 1861544,
+      "word": "女子吐槽韩国月子餐是断奶餐",
+      "onboard_time": 1660456650,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1794941,
       "num": 1794941,
       "word": "四川德阳一在建天桥突然垮塌",
@@ -89,14 +105,6 @@
       "onboard_time": 1660445669,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1512344,
-      "num": 1512344,
-      "word": "女子吐槽韩国月子餐是断奶餐",
-      "onboard_time": 1660456650,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1296824,
@@ -179,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1024790,
+      "num": 1024790,
+      "word": "女孩跨省见网友半路报警被劫持",
+      "onboard_time": 1660455509,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1013742,
       "num": 1013742,
       "word": "西单",
@@ -235,16 +251,8 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 848641,
-      "num": 848641,
-      "word": "女孩跨省见网友半路报警被劫持",
-      "onboard_time": 1660455509,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 832183,
-      "num": 832183,
+      "raw_hot": 885623,
+      "num": 885623,
       "word": "狗子以为主人睡着偷偷进屋蹭空调",
       "onboard_time": 1660455449,
       "rank": 8,
@@ -281,6 +289,14 @@
       "onboard_time": 1660437987,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 739494,
+      "num": 739494,
+      "word": "布瑞吉freestyle杀疯了",
+      "onboard_time": 1660457608,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 729431,
@@ -339,6 +355,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 652419,
+      "num": 652419,
+      "word": "苍兰诀人精神状态",
+      "onboard_time": 1660458751,
+      "rank": 10,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 620356,
       "num": 620356,
       "word": "一夜之间金宝贝7个校区突然关停",
@@ -353,14 +377,6 @@
       "onboard_time": 1660456769,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 608584,
-      "num": 608584,
-      "word": "布瑞吉freestyle杀疯了",
-      "onboard_time": 1660457608,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 603193,
@@ -401,6 +417,14 @@
       "onboard_time": 1660398331,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556732,
+      "num": 556732,
+      "word": "彭州突发山洪造成7死8伤",
+      "onboard_time": 1660457129,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 539937,
@@ -459,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 487157,
+      "num": 487157,
+      "word": "彩礼为什么流传至今",
+      "onboard_time": 1660458030,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478400,
       "num": 236501,
       "word": "王一博街舞5跳本草纲目",
@@ -505,6 +537,14 @@
       "onboard_time": 1660432938,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 439203,
+      "num": 369673,
+      "word": "黄景瑜悬崖引体向上",
+      "onboard_time": 1660458929,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 436903,
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408802,
+      "num": 408802,
+      "word": "2岁女童打翻爸爸泡面被深度烫伤",
+      "onboard_time": 1660458328,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403652,
       "num": 403652,
       "word": "西藏增本土确诊59例无症状443例",
@@ -625,6 +673,14 @@
       "onboard_time": 1660400256,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 393528,
+      "num": 178597,
+      "word": "vava freestyle",
+      "onboard_time": 1660458030,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 393521,
@@ -691,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364890,
-      "num": 364890,
-      "word": "彭州突发山洪造成7死8伤",
-      "onboard_time": 1660457129,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 362717,
       "num": 362717,
       "word": "布布是王一博的battle的工具人",
@@ -715,20 +763,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357798,
+      "num": 163458,
+      "word": "王俊凯主演电影累计票房破20亿",
+      "onboard_time": 1660458871,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352122,
       "num": 352122,
       "word": "冰雨火拉练式拍摄",
       "onboard_time": 1660448312,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 351393,
-      "num": 351393,
-      "word": "JK罗琳收到死亡威胁",
-      "onboard_time": 1660457969,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 350316,
@@ -753,6 +801,14 @@
       "onboard_time": 1660455628,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338724,
+      "num": 162605,
+      "word": "原来冰雨火是这个意思",
+      "onboard_time": 1660459291,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 338000,
@@ -1011,14 +1067,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 229847,
-      "num": 178597,
-      "word": "vava freestyle",
-      "onboard_time": 1660458030,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229574,
       "num": 229574,
       "word": "北京新增15例境外输入确诊病例",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1660438768,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211316,
+      "num": 132299,
+      "word": "早安freestyle喝了喝了",
+      "onboard_time": 1660458511,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 207870,
@@ -1203,10 +1259,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154994,
-      "num": 154994,
-      "word": "彩礼为什么流传至今",
-      "onboard_time": 1660458030,
+      "raw_hot": 154765,
+      "num": 154765,
+      "word": "14岁少年沉迷手游被训报警抓父亲",
+      "onboard_time": 1660458929,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 128371,
-      "num": 1405590,
+      "num": 1784212,
       "word": "中国空间站任务LOGO大赏",
       "onboard_time": 1660449212,
       "rank": 2,
@@ -1307,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122281,
+      "num": 122281,
+      "word": "游乐设施甩落妈妈急速起身抱起孩子",
+      "onboard_time": 1660458751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120079,
       "num": 120079,
       "word": "三亚7708名滞留游客已搭飞机返程",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1660455210,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118109,
+      "num": 118109,
+      "word": "黄河壶口瀑布如万马奔腾",
+      "onboard_time": 1660457789,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 114203,
@@ -1345,22 +1417,6 @@
       "onboard_time": 1660372230,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110167,
-      "num": 110167,
-      "word": "2岁女童打翻爸爸泡面被深度烫伤",
-      "onboard_time": 1660458328,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110042,
-      "num": 110042,
-      "word": "黄河壶口瀑布如万马奔腾",
-      "onboard_time": 1660457789,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 105744,

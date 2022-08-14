@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660458388438,
+  "endTime": 1660459437641,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 4197035,
-      "num": 1376006,
+      "num": 1741014,
       "word": "同居1年分手男子欲要回88.8万彩礼",
       "onboard_time": 1660444649,
       "rank": 17,
@@ -177,6 +177,14 @@
       "onboard_time": 1660011395,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3247052,
+      "num": 3247052,
+      "word": "JK罗琳收到死亡威胁",
+      "onboard_time": 1660457969,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3204639,
@@ -819,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1861544,
+      "num": 1861544,
+      "word": "女子吐槽韩国月子餐是断奶餐",
+      "onboard_time": 1660456650,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1834641,
       "num": 1834641,
       "word": "5岁女童无鼻梁或基因异常",
@@ -1144,14 +1160,6 @@
       "word": "男子身上长结石30多年成珍珠人",
       "onboard_time": 1659963696,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1512344,
-      "num": 1512344,
-      "word": "女子吐槽韩国月子餐是断奶餐",
-      "onboard_time": 1660456650,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2315,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1024790,
+      "num": 1024790,
+      "word": "女孩跨省见网友半路报警被劫持",
+      "onboard_time": 1660455509,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020462,
       "num": 1020462,
       "word": "杨紫沉香如屑经历8虐",
@@ -2795,6 +2811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 885623,
+      "num": 885623,
+      "word": "狗子以为主人睡着偷偷进屋蹭空调",
+      "onboard_time": 1660455449,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 884791,
       "num": 884791,
       "word": "老人担心5个月婴儿受凉捂到脱水",
@@ -2899,14 +2923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 848641,
-      "num": 848641,
-      "word": "女孩跨省见网友半路报警被劫持",
-      "onboard_time": 1660455509,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 840141,
       "num": 840141,
       "word": "里根号航母转向后继续向南移动",
@@ -2945,14 +2961,6 @@
       "onboard_time": 1660365030,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 832183,
-      "num": 832183,
-      "word": "狗子以为主人睡着偷偷进屋蹭空调",
-      "onboard_time": 1660455449,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830008,
@@ -3344,6 +3352,14 @@
       "word": "密逃这周有杨幂周笔畅",
       "onboard_time": 1660103919,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 739494,
+      "num": 739494,
+      "word": "布瑞吉freestyle杀疯了",
+      "onboard_time": 1660457608,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -3915,6 +3931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652419,
+      "num": 652419,
+      "word": "苍兰诀人精神状态",
+      "onboard_time": 1660458751,
+      "rank": 10,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 651487,
       "num": 651487,
       "word": "华为上半年营收3016亿元",
@@ -4169,14 +4193,6 @@
       "onboard_time": 1660092578,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608584,
-      "num": 608584,
-      "word": "布瑞吉freestyle杀疯了",
-      "onboard_time": 1660457608,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 608197,
@@ -4649,6 +4665,14 @@
       "onboard_time": 1660237281,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556732,
+      "num": 556732,
+      "word": "彭州突发山洪造成7死8伤",
+      "onboard_time": 1660457129,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 556717,
@@ -5451,6 +5475,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 487157,
+      "num": 487157,
+      "word": "彩礼为什么流传至今",
+      "onboard_time": 1660458030,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486836,
       "num": 486836,
       "word": "银行回应高温天拒绝市民入内排队",
@@ -6169,6 +6201,14 @@
       "onboard_time": 1660019925,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 439203,
+      "num": 369673,
+      "word": "黄景瑜悬崖引体向上",
+      "onboard_time": 1660458929,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 438574,
@@ -6955,6 +6995,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 408802,
+      "num": 408802,
+      "word": "2岁女童打翻爸爸泡面被深度烫伤",
+      "onboard_time": 1660458328,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408219,
       "num": 408219,
       "word": "上海网友开始pk电费了",
@@ -7184,6 +7232,14 @@
       "word": "林墨美研社小考第一",
       "onboard_time": 1659887790,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393528,
+      "num": 178597,
+      "word": "vava freestyle",
+      "onboard_time": 1660458030,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -8011,14 +8067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364890,
-      "num": 364890,
-      "word": "彭州突发山洪造成7死8伤",
-      "onboard_time": 1660457129,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 364425,
       "num": 292733,
       "word": "南京通报一外省返宁人员核酸异常",
@@ -8184,6 +8232,14 @@
       "word": "范丞丞出演拨云见日",
       "onboard_time": 1660303177,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 357798,
+      "num": 163458,
+      "word": "王俊凯主演电影累计票房破20亿",
+      "onboard_time": 1660458871,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -8353,14 +8409,6 @@
       "onboard_time": 1660289971,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351393,
-      "num": 351393,
-      "word": "JK罗琳收到死亡威胁",
-      "onboard_time": 1660457969,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 350950,
@@ -8696,6 +8744,14 @@
       "word": "一口气炫完民国大侦探6集",
       "onboard_time": 1660137514,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338724,
+      "num": 162605,
+      "word": "原来冰雨火是这个意思",
+      "onboard_time": 1660459291,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -11475,14 +11531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229847,
-      "num": 178597,
-      "word": "vava freestyle",
-      "onboard_time": 1660458030,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229698,
       "num": 229698,
       "word": "电影猎屠预售已开启",
@@ -11969,6 +12017,14 @@
       "onboard_time": 1660374391,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211316,
+      "num": 132299,
+      "word": "早安freestyle喝了喝了",
+      "onboard_time": 1660458511,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 210736,
@@ -13083,10 +13139,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154994,
-      "num": 154994,
-      "word": "彩礼为什么流传至今",
-      "onboard_time": 1660458030,
+      "raw_hot": 154765,
+      "num": 154765,
+      "word": "14岁少年沉迷手游被训报警抓父亲",
+      "onboard_time": 1660458929,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -13492,7 +13548,7 @@
     },
     {
       "raw_hot": 128371,
-      "num": 1405590,
+      "num": 1784212,
       "word": "中国空间站任务LOGO大赏",
       "onboard_time": 1660449212,
       "rank": 2,
@@ -13603,6 +13659,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 122281,
+      "num": 122281,
+      "word": "游乐设施甩落妈妈急速起身抱起孩子",
+      "onboard_time": 1660458751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121973,
       "num": 121973,
       "word": "清融不知火舞MVP",
@@ -13649,6 +13713,14 @@
       "onboard_time": 1660396053,
       "rank": 49,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 118109,
+      "num": 118109,
+      "word": "黄河壶口瀑布如万马奔腾",
+      "onboard_time": 1660457789,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 117955,
@@ -13721,22 +13793,6 @@
       "onboard_time": 1660054304,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110167,
-      "num": 110167,
-      "word": "2岁女童打翻爸爸泡面被深度烫伤",
-      "onboard_time": 1660458328,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110042,
-      "num": 110042,
-      "word": "黄河壶口瀑布如万马奔腾",
-      "onboard_time": 1660457789,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 109841,
