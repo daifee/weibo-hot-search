@@ -1,6 +1,6 @@
 {
   "startTime": 1659889678151,
-  "endTime": 1660476852984,
+  "endTime": 1660480660804,
   "band_list": [
     {
       "raw_hot": 10989693,
@@ -665,6 +665,14 @@
       "onboard_time": 1659920551,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2115507,
+      "num": 2115507,
+      "word": "长沙所有初中新生停止军训",
+      "onboard_time": 1660476033,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2114878,
@@ -1427,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1423041,
+      "num": 1423041,
+      "word": "山洪前有管理员喊我跪下来求大家",
+      "onboard_time": 1660477711,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1416750,
       "num": 1416750,
       "word": "美媒称特朗普涉嫌违反反间谍法",
@@ -1715,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1267532,
+      "num": 1267532,
+      "word": "刘亦菲电影之夜红毯生图状态",
+      "onboard_time": 1660472850,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1264255,
       "num": 1264255,
       "word": "上海宝山一盆市价10万多肉被偷",
@@ -1875,14 +1899,6 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 1214333,
-      "num": 1214333,
-      "word": "刘亦菲电影之夜红毯生图状态",
-      "onboard_time": 1660472850,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1212284,
       "num": 1212284,
       "word": "王源加盟央视财经818晚会",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1660008697,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1151728,
+      "num": 1151728,
+      "word": "邢菲好美",
+      "onboard_time": 1660478189,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1147312,
@@ -2427,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1027858,
+      "num": 1027858,
+      "word": "6岁女童磕伤意外查出身体10处肿瘤",
+      "onboard_time": 1660478611,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1027623,
       "num": 1027623,
       "word": "Doinb",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1660355849,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 932130,
+      "num": 635033,
+      "word": "一骑绝尘",
+      "onboard_time": 1660478735,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 930403,
@@ -3844,7 +3884,7 @@
     },
     {
       "raw_hot": 696785,
-      "num": 806445,
+      "num": 1426140,
       "word": "九寨沟的水为何踩不得",
       "onboard_time": 1660472670,
       "rank": 29,
@@ -4331,12 +4371,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629093,
+      "num": 404173,
+      "word": "李易峰 点头杀",
+      "onboard_time": 1660476870,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 628237,
       "num": 628237,
       "word": "中方对美反制完全合理恰当适度",
       "onboard_time": 1659923249,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 627333,
+      "num": 627333,
+      "word": "中国男排pk日本男排",
+      "onboard_time": 1660476813,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 626380,
@@ -4569,6 +4625,14 @@
       "onboard_time": 1660270890,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 597111,
+      "num": 597111,
+      "word": "山洪突袭男子紧抱女孩死里逃生",
+      "onboard_time": 1660473571,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596744,
@@ -5507,6 +5571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 516163,
+      "num": 516163,
+      "word": "三亚机场15日起恢复国内客运",
+      "onboard_time": 1660477711,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515423,
       "num": 515423,
       "word": "韩拟提芯片四方联盟以尊重一中原则为前提",
@@ -5537,6 +5609,14 @@
       "onboard_time": 1660149505,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513991,
+      "num": 513991,
+      "word": "上海四大金刚早餐有多上头",
+      "onboard_time": 1660478431,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 513953,
@@ -5657,14 +5737,6 @@
       "onboard_time": 1660287213,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 502115,
-      "num": 502115,
-      "word": "山洪突袭男子紧抱女孩死里逃生",
-      "onboard_time": 1660473571,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501807,
@@ -6411,6 +6483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453407,
+      "num": 397948,
+      "word": "姚晨朱一龙年度实力演员",
+      "onboard_time": 1660480473,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 452424,
+      "num": 394539,
+      "word": "范丞丞任敏许魏洲张婧仪年度潜力演员",
+      "onboard_time": 1660477291,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452319,
       "num": 452319,
       "word": "BLACKPINK演唱会",
@@ -6441,6 +6529,14 @@
       "onboard_time": 1660364675,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450854,
+      "num": 369367,
+      "word": "东方青苍向小兰花表白",
+      "onboard_time": 1660479633,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 449183,
@@ -6665,6 +6761,14 @@
       "onboard_time": 1660406906,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436852,
+      "num": 285491,
+      "word": "电影热烈",
+      "onboard_time": 1660480173,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 435888,
@@ -7564,7 +7668,7 @@
     },
     {
       "raw_hot": 402293,
-      "num": 223595,
+      "num": 223779,
       "word": "戚薇说该轮到李承铉上班了",
       "onboard_time": 1660474655,
       "rank": 40,
@@ -7585,14 +7689,6 @@
       "onboard_time": 1660127494,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 400746,
-      "num": 400746,
-      "word": "长沙所有初中新生停止军训",
-      "onboard_time": 1660476033,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 400578,
@@ -8355,6 +8451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373655,
+      "num": 373655,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1660479633,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373517,
       "num": 373517,
       "word": "狼队战胜TTG",
@@ -8961,6 +9065,14 @@
       "onboard_time": 1660289971,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351336,
+      "num": 226113,
+      "word": "不发吴振疯发什么疯",
+      "onboard_time": 1660479150,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 350950,
@@ -9985,6 +10097,14 @@
       "onboard_time": 1660291113,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316139,
+      "num": 316139,
+      "word": "AG斩获首届世锦赛冠军",
+      "onboard_time": 1660480173,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 315209,
@@ -12907,6 +13027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203408,
+      "num": 203408,
+      "word": "AG战胜WE",
+      "onboard_time": 1660477533,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203286,
       "num": 179076,
       "word": "民侦侦探社开业隔空剪彩",
@@ -13153,6 +13281,14 @@
       "onboard_time": 1660057001,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189935,
+      "num": 189935,
+      "word": "彭州山洪已造成7人死亡8人轻伤",
+      "onboard_time": 1660478672,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 189844,
@@ -13507,6 +13643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171547,
+      "num": 171547,
+      "word": "邹市明误入灵魂歌手队伍",
+      "onboard_time": 1660479756,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 171197,
       "num": 171197,
       "word": "超清画面记录中国空间站凌月",
@@ -13633,6 +13777,14 @@
       "onboard_time": 1660355246,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164918,
+      "num": 146145,
+      "word": "LGD对战RNG",
+      "onboard_time": 1660480653,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 164893,
@@ -14059,6 +14211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145778,
+      "num": 145778,
+      "word": "今年多地持续高温究竟啥原因",
+      "onboard_time": 1660479874,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144962,
       "num": 144962,
       "word": "走出大山的棒球少年有多酷",
@@ -14481,14 +14641,6 @@
       "onboard_time": 1660053522,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116913,
-      "num": 116913,
-      "word": "中国男排pk日本男排",
-      "onboard_time": 1660476813,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116703,

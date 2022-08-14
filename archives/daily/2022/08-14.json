@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660476852984,
+  "endTime": 1660480660804,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -73,6 +73,14 @@
       "onboard_time": 1660472731,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2115507,
+      "num": 2115507,
+      "word": "长沙所有初中新生停止军训",
+      "onboard_time": 1660476033,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2042920,
@@ -171,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1423041,
+      "num": 1423041,
+      "word": "山洪前有管理员喊我跪下来求大家",
+      "onboard_time": 1660477711,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1378557,
       "num": 1143460,
       "word": "彩礼为什么越来越贵",
@@ -195,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1267532,
+      "num": 1267532,
+      "word": "刘亦菲电影之夜红毯生图状态",
+      "onboard_time": 1660472850,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1248764,
       "num": 1248764,
       "word": "彩礼为什么流传至今",
@@ -209,14 +233,6 @@
       "onboard_time": 1660454611,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1214333,
-      "num": 1214333,
-      "word": "刘亦菲电影之夜红毯生图状态",
-      "onboard_time": 1660472850,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1212284,
@@ -256,6 +272,14 @@
       "word": "王俊凯被大学老师夸奖",
       "onboard_time": 1660400075,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1151728,
+      "num": 1151728,
+      "word": "邢菲好美",
+      "onboard_time": 1660478189,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -307,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1027858,
+      "num": 1027858,
+      "word": "6岁女童磕伤意外查出身体10处肿瘤",
+      "onboard_time": 1660478611,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024790,
       "num": 1024790,
       "word": "女孩跨省见网友半路报警被劫持",
@@ -344,6 +376,14 @@
       "word": "张馨予手动让胡一天闭嘴",
       "onboard_time": 1660444708,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 932130,
+      "num": 635033,
+      "word": "一骑绝尘",
+      "onboard_time": 1660478735,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 696785,
-      "num": 806445,
+      "num": 1426140,
       "word": "九寨沟的水为何踩不得",
       "onboard_time": 1660472670,
       "rank": 29,
@@ -619,6 +659,22 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 629093,
+      "num": 404173,
+      "word": "李易峰 点头杀",
+      "onboard_time": 1660476870,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627333,
+      "num": 627333,
+      "word": "中国男排pk日本男排",
+      "onboard_time": 1660476813,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625357,
       "num": 625357,
       "word": "黄景瑜悬崖引体向上",
@@ -673,6 +729,14 @@
       "onboard_time": 1660404872,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 597111,
+      "num": 597111,
+      "word": "山洪突袭男子紧抱女孩死里逃生",
+      "onboard_time": 1660473571,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594729,
@@ -803,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516163,
+      "num": 516163,
+      "word": "三亚机场15日起恢复国内客运",
+      "onboard_time": 1660477711,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513991,
+      "num": 513991,
+      "word": "上海四大金刚早餐有多上头",
+      "onboard_time": 1660478431,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 509069,
       "num": 509069,
       "word": "老人为省电关闸门致冰箱食物腐臭",
@@ -817,14 +897,6 @@
       "onboard_time": 1660450650,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502115,
-      "num": 502115,
-      "word": "山洪突袭男子紧抱女孩死里逃生",
-      "onboard_time": 1660473571,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500260,
@@ -931,6 +1003,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453407,
+      "num": 397948,
+      "word": "姚晨朱一龙年度实力演员",
+      "onboard_time": 1660480473,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 452424,
+      "num": 394539,
+      "word": "范丞丞任敏许魏洲张婧仪年度潜力演员",
+      "onboard_time": 1660477291,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 450854,
+      "num": 369367,
+      "word": "东方青苍向小兰花表白",
+      "onboard_time": 1660479633,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446229,
       "num": 446229,
       "word": "彭州山洪已致7人死亡",
@@ -969,6 +1065,14 @@
       "onboard_time": 1660406906,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436852,
+      "num": 285491,
+      "word": "电影热烈",
+      "onboard_time": 1660480173,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 435358,
@@ -1124,7 +1228,7 @@
     },
     {
       "raw_hot": 402293,
-      "num": 223595,
+      "num": 223779,
       "word": "戚薇说该轮到李承铉上班了",
       "onboard_time": 1660474655,
       "rank": 40,
@@ -1137,14 +1241,6 @@
       "onboard_time": 1660400256,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 400746,
-      "num": 400746,
-      "word": "长沙所有初中新生停止军训",
-      "onboard_time": 1660476033,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 394755,
@@ -1243,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373655,
+      "num": 373655,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1660479633,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370053,
       "num": 370053,
       "word": "102岁外婆看到外孙笑出表情包",
@@ -1336,6 +1440,14 @@
       "word": "冰雨火拉练式拍摄",
       "onboard_time": 1660448312,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351336,
+      "num": 226113,
+      "word": "不发吴振疯发什么疯",
+      "onboard_time": 1660479150,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1441,6 +1553,14 @@
       "onboard_time": 1660432938,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316139,
+      "num": 316139,
+      "word": "AG斩获首届世锦赛冠军",
+      "onboard_time": 1660480173,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 313661,
@@ -1787,6 +1907,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 230316,
+      "num": 230316,
+      "word": "饿了么免单",
+      "onboard_time": 1660480294,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 229574,
       "num": 229574,
       "word": "北京新增15例境外输入确诊病例",
@@ -1875,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203408,
+      "num": 203408,
+      "word": "AG战胜WE",
+      "onboard_time": 1660477533,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202081,
       "num": 202081,
       "word": "12枚中国空间站任务标识集齐了",
@@ -1907,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189935,
+      "num": 189935,
+      "word": "彭州山洪已造成7人死亡8人轻伤",
+      "onboard_time": 1660478672,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 178171,
       "num": 178171,
       "word": "见过最有素质的狗狗",
@@ -1929,6 +2073,14 @@
       "onboard_time": 1660430294,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171547,
+      "num": 171547,
+      "word": "邹市明误入灵魂歌手队伍",
+      "onboard_time": 1660479756,
+      "rank": 43,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 171197,
@@ -1969,6 +2121,14 @@
       "onboard_time": 1660470633,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164918,
+      "num": 146145,
+      "word": "LGD对战RNG",
+      "onboard_time": 1660480653,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 164672,
@@ -2049,6 +2209,14 @@
       "onboard_time": 1660452391,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 145778,
+      "num": 145778,
+      "word": "今年多地持续高温究竟啥原因",
+      "onboard_time": 1660479874,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142834,
@@ -2153,14 +2321,6 @@
       "onboard_time": 1660457789,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 116913,
-      "num": 116913,
-      "word": "中国男排pk日本男排",
-      "onboard_time": 1660476813,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 114203,
