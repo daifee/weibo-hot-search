@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/14 16:25:09
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/14 16:40:32
 </p>
 </blockquote>
 <p>
@@ -3063,6 +3063,12 @@ R1SE解散了但没完全解散（热度：1542791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%83%AD%E6%88%90%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23" target="weibo">
+安徽热成全国第一（热度：1501683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E5%8F%B0%E6%B9%BE%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E8%83%BD%E8%BF%81%E5%BE%80%E5%A4%A7%E9%99%86%23" target="weibo">
 教授建议台湾半导体产能迁往大陆（热度：1499065）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14入门版价格或与上代一致（热度：928649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86%23" target="weibo">
 美团崩了（热度：859232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B436%E5%B9%B4%E9%83%BD%E6%B2%A1%E8%BF%99%E4%B9%88%E7%94%9F%E6%B0%94%E8%BF%87%23" target="weibo">
-杨迪说36年都没这么生气过（热度：857792）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660465509297,
+  "endTime": 1660466432771,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -113,6 +113,14 @@
       "onboard_time": 1660445669,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1501683,
+      "num": 1501683,
+      "word": "安徽热成全国第一",
+      "onboard_time": 1660464632,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1296824,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 809136,
+      "num": 809136,
+      "word": "刘亦菲微博电影之夜一会见",
+      "onboard_time": 1660465409,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 803101,
       "num": 803101,
       "word": "彭州山洪",
@@ -427,6 +443,22 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 638088,
+      "num": 638088,
+      "word": "龙漕沟6公里外露营地游客锐减",
+      "onboard_time": 1660462830,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632864,
+      "num": 632864,
+      "word": "贾乃亮带12个驱蚊装备露营",
+      "onboard_time": 1660463850,
+      "rank": 14,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 625357,
       "num": 625357,
       "word": "黄景瑜悬崖引体向上",
@@ -441,14 +473,6 @@
       "onboard_time": 1660450892,
       "rank": 39,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 620282,
-      "num": 620282,
-      "word": "龙漕沟6公里外露营地游客锐减",
-      "onboard_time": 1660462830,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619958,
@@ -499,14 +523,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 568153,
-      "num": 568153,
-      "word": "安徽热成全国第一",
-      "onboard_time": 1660464632,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561188,
       "num": 561188,
       "word": "邻居狂吼劝回翻窗女童好凶好暖",
@@ -555,12 +571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 525759,
-      "num": 525759,
-      "word": "刘亦菲微博电影之夜一会见",
-      "onboard_time": 1660465409,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 517566,
+      "num": 517566,
+      "word": "母子餐馆就餐顺走他人遗落500元鞋",
+      "onboard_time": 1660463610,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509069,
@@ -585,14 +601,6 @@
       "onboard_time": 1660460070,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 489947,
-      "num": 489947,
-      "word": "贾乃亮带12个驱蚊装备露营",
-      "onboard_time": 1660463850,
-      "rank": 14,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 488830,
@@ -665,6 +673,14 @@
       "onboard_time": 1660432938,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 438963,
+      "num": 438963,
+      "word": "范丞丞微博电影之夜黑西装造型",
+      "onboard_time": 1660465472,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 436903,
@@ -763,14 +779,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 418594,
-      "num": 418594,
-      "word": "母子餐馆就餐顺走他人遗落500元鞋",
-      "onboard_time": 1660463610,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416107,
       "num": 317930,
       "word": "说唱巅峰联盟freestyle赛",
@@ -867,6 +875,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 385319,
+      "num": 314094,
+      "word": "贺峻霖卧底游戏出局太冤了",
+      "onboard_time": 1660466012,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380019,
       "num": 380019,
       "word": "海关查获23500件问题地图",
@@ -923,12 +939,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350600,
+      "num": 350600,
+      "word": "玉树杂多县发生地震",
+      "onboard_time": 1660466132,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350316,
       "num": 129165,
       "word": "马嘉祺一言不合俯卧撑",
       "onboard_time": 1660405590,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350199,
+      "num": 232567,
+      "word": "冰雨火 对手戏",
+      "onboard_time": 1660465892,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 349064,
@@ -971,19 +1003,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328268,
+      "num": 1185674,
+      "word": "到了壶口才知道为什么叫黄河",
+      "onboard_time": 1660450411,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 325687,
       "num": 248346,
       "word": "成毅打戏好飒",
       "onboard_time": 1660441828,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 324832,
-      "num": 133306,
-      "word": "范丞丞微博电影之夜黑西装造型",
-      "onboard_time": 1660465472,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -1067,12 +1099,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291365,
+      "num": 291365,
+      "word": "以后夸人再也不怕词穷了",
+      "onboard_time": 1660464149,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 288118,
       "num": 288118,
       "word": "四川德阳在建桥垮塌事故已致1死1伤",
       "onboard_time": 1660457908,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 286704,
+      "num": 286704,
+      "word": "9岁男孩高温天为车祸伤者遮阳",
+      "onboard_time": 1660464508,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 283349,
@@ -1147,20 +1195,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 259022,
-      "num": 1126687,
-      "word": "到了壶口才知道为什么叫黄河",
-      "onboard_time": 1660450411,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 258582,
       "num": 93769,
       "word": "北京国际电影节开幕式",
       "onboard_time": 1660407867,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258526,
+      "num": 258526,
+      "word": "笑点低别养这种狗",
+      "onboard_time": 1660464568,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 258304,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1660455331,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256695,
+      "num": 256695,
+      "word": "北京街头2米高的蘑菇到底是啥",
+      "onboard_time": 1660464929,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255587,
@@ -1235,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240559,
+      "num": 240559,
+      "word": "北京一救人的快递小哥居然是有证的",
+      "onboard_time": 1660463311,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 239063,
       "num": 239063,
       "word": "排排坐的四只猫咪",
@@ -1251,12 +1315,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 236620,
-      "num": 236620,
-      "word": "以后夸人再也不怕词穷了",
-      "onboard_time": 1660464149,
-      "rank": 26,
-      "category": "幽默,情感"
+      "raw_hot": 230110,
+      "num": 142004,
+      "word": "青海玉树5.9级地震",
+      "onboard_time": 1660466372,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229574,
@@ -1291,20 +1355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221854,
+      "num": 221854,
+      "word": "成都辟谣彭州山洪与上游泄洪有关",
+      "onboard_time": 1660465892,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217156,
       "num": 185117,
       "word": "这就是街舞5好看吗",
       "onboard_time": 1660420812,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214131,
-      "num": 214131,
-      "word": "北京一救人的快递小哥居然是有证的",
-      "onboard_time": 1660463311,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 213991,
@@ -1339,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206160,
-      "num": 206160,
-      "word": "笑点低别养这种狗",
-      "onboard_time": 1660464568,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202081,
       "num": 202081,
       "word": "12枚中国空间站任务标识集齐了",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1660451248,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195790,
-      "num": 195790,
-      "word": "9岁男孩高温天为车祸伤者遮阳",
-      "onboard_time": 1660464508,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 195637,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1660430294,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172118,
+      "num": 172118,
+      "word": "清清的蒙恬",
+      "onboard_time": 1660464810,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 171197,
@@ -1483,28 +1539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154884,
-      "num": 154884,
-      "word": "清清的蒙恬",
-      "onboard_time": 1660464810,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154104,
       "num": 154104,
       "word": "今年已有4位慰安妇制度受害者去世",
       "onboard_time": 1660441046,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 151378,
-      "num": 151378,
-      "word": "北京街头2米高的蘑菇到底是啥",
-      "onboard_time": 1660464929,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150050,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1660432819,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130295,
+      "num": 130295,
+      "word": "福州男生祖孙三代全上清华",
+      "onboard_time": 1660466310,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128461,
