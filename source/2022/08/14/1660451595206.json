@@ -1,0 +1,410 @@
+{
+  "runTime": 1660451595206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2087225,
+        "num": 2087225,
+        "word": "她们还在等待道歉",
+        "onboard_time": 1660432998,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419617,
+        "num": 1419617,
+        "word": "广西一大学结满水果学生随便吃",
+        "onboard_time": 1660445669,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128371,
+        "num": 1290435,
+        "word": "中国空间站任务LOGO大赏",
+        "onboard_time": 1660449212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3220508,
+        "num": 1287686,
+        "word": "同居1年分手男子欲要回88.8万彩礼",
+        "onboard_time": 1660444649,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212284,
+        "num": 1212284,
+        "word": "王源加盟央视财经818晚会",
+        "onboard_time": 1660448970,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885810,
+        "num": 885810,
+        "word": "那英华晨宇指导沙溢唱歌",
+        "onboard_time": 1660450590,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 798292,
+        "num": 798292,
+        "word": "彭州山洪3名重伤人员抢救无效死亡",
+        "onboard_time": 1660444111,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 618080,
+        "num": 618080,
+        "word": "把男朋友做的饭做成了菜单",
+        "onboard_time": 1660444950,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 588149,
+        "num": 588149,
+        "word": "JYP中国练习生翻唱想见你",
+        "onboard_time": 1660445610,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 493953,
+        "num": 493953,
+        "word": "孕妇每天1杯奶茶喝成奶茶血",
+        "onboard_time": 1660399115,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606565,
+        "num": 493944,
+        "word": "荷兰弟暂时退网",
+        "onboard_time": 1660449272,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870784,
+        "num": 493916,
+        "word": "西藏初筛阳性人员不再进行复核",
+        "onboard_time": 1660449450,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584667,
+        "num": 493886,
+        "word": "张馨予手动让胡一天闭嘴",
+        "onboard_time": 1660444708,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498488,
+        "num": 493857,
+        "word": "迪丽热巴秦时丽人明月心开播五周年",
+        "onboard_time": 1660445010,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493855,
+        "num": 493855,
+        "word": "王俊凯回应观众看哭了",
+        "onboard_time": 1660447289,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430002,
+        "num": 430002,
+        "word": "用头盔挡刀的辅警23岁已从警5年",
+        "onboard_time": 1660442909,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 421249,
+        "num": 421249,
+        "word": "新学期人设",
+        "onboard_time": 1660447050,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394880,
+        "num": 394880,
+        "word": "14岁少年打赏主播4万元全部追回",
+        "onboard_time": 1660444349,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392239,
+        "num": 392239,
+        "word": "幼儿园餐食霉烂系离职厨师造谣",
+        "onboard_time": 1660448312,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 361046,
+        "num": 361046,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1660446270,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483315,
+        "num": 358553,
+        "word": "王一博街舞版家有儿女",
+        "onboard_time": 1660450650,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422818,
+        "num": 356196,
+        "word": "你好星期六下期有0713男团",
+        "onboard_time": 1660442247,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353526,
+        "num": 353526,
+        "word": "乌鲁木齐101中学淘汰清华附中",
+        "onboard_time": 1660442848,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316738,
+        "num": 316738,
+        "word": "怼CNN的英国乐手批美国妄图统治世界",
+        "onboard_time": 1660445610,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300538,
+        "num": 300538,
+        "word": "骑行已成当代社交三大件之一",
+        "onboard_time": 1660445973,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243386,
+        "num": 243386,
+        "word": "彭州突发山洪黑衣男子逆行救人",
+        "onboard_time": 1660437987,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 236805,
+        "num": 236805,
+        "word": "拉萨市卫健委主任被免职",
+        "onboard_time": 1660441528,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228468,
+        "num": 228468,
+        "word": "加拿大安大略省长讲话时误吞蜜蜂",
+        "onboard_time": 1660442371,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 222056,
+        "num": 222056,
+        "word": "上海中小学托幼机构9月1日开学",
+        "onboard_time": 1660449928,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 216887,
+        "num": 216887,
+        "word": "上海中考",
+        "onboard_time": 1660445068,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 362065,
+        "num": 213777,
+        "word": "江疏影欢乐颂3是经常请吃饭的姐姐吧",
+        "onboard_time": 1660448910,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295257,
+        "num": 209018,
+        "word": "暑期档总票房破75亿",
+        "onboard_time": 1660451070,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255587,
+        "num": 204348,
+        "word": "被魏大勋摸鱼笑死了",
+        "onboard_time": 1660450470,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243231,
+        "num": 200047,
+        "word": "时代少年团起立致敬李雪健",
+        "onboard_time": 1660451312,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199832,
+        "num": 199832,
+        "word": "车主充电时在车内休息突然断电被困",
+        "onboard_time": 1660438346,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191922,
+        "num": 191922,
+        "word": "6旬老人烫头后称不满意拒付钱",
+        "onboard_time": 1660451009,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185500,
+        "num": 185500,
+        "word": "到了壶口才知道为什么叫黄河",
+        "onboard_time": 1660450411,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 178517,
+        "num": 178517,
+        "word": "踢翻小贩摊位城管被停职",
+        "onboard_time": 1660445610,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175902,
+        "num": 175902,
+        "word": "彭州山洪目击者称有人提前逃离",
+        "onboard_time": 1660437927,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171272,
+        "num": 171272,
+        "word": "一夜之间金宝贝7个校区突然关停",
+        "onboard_time": 1660450892,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 236733,
+        "num": 169301,
+        "word": "苍兰诀片头曲诀爱",
+        "onboard_time": 1660446632,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207600,
+        "num": 167353,
+        "word": "欢乐颂3闺蜜趴这是能播的吗",
+        "onboard_time": 1660451488,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 162953,
+        "word": "邻居狂吼劝回翻窗女童好凶好暖",
+        "onboard_time": 1660441228,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151320,
+        "num": 151320,
+        "word": "萌娃睡醒犯迷糊无实物刷手机",
+        "onboard_time": 1660451248,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149689,
+        "num": 149689,
+        "word": "生腌海鱼并不比生腌淡水鱼更安全",
+        "onboard_time": 1660433600,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143335,
+        "num": 143335,
+        "word": "导游嫌游客购物少在车内发牢骚",
+        "onboard_time": 1660451370,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 143208,
+        "word": "彭州未撤离游客被卷入山洪",
+        "onboard_time": 1660393890,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134599,
+        "num": 134599,
+        "word": "德阳岷江桥",
+        "onboard_time": 1660451550,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130117,
+        "num": 130117,
+        "word": "回头的人对你来说算礼物吗",
+        "onboard_time": 1660439306,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 127591,
+        "word": "北京新增15例境外输入确诊病例",
+        "onboard_time": 1660444410,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记惦念的山村娃圆了大学梦#"
+    }
+  }
+}
