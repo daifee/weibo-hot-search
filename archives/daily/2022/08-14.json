@@ -1,6 +1,6 @@
 {
   "startTime": 1660408086566,
-  "endTime": 1660484669904,
+  "endTime": 1660486785532,
   "band_list": [
     {
       "raw_hot": 4586109,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3302891,
-      "num": 884170,
+      "num": 1015850,
       "word": "张天爱胸骨",
       "onboard_time": 1660475371,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1660464632,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2914993,
+      "num": 2914993,
+      "word": "今天解放军22架次军机6艘次军舰巡台",
+      "onboard_time": 1660484311,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 2821941,
@@ -187,6 +195,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1593095,
+      "num": 1593095,
+      "word": "王俊凯王一博同款站姿",
+      "onboard_time": 1660485814,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1563204,
       "num": 1184440,
       "word": "单依纯好拽",
@@ -265,6 +281,14 @@
       "onboard_time": 1660448970,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1188703,
+      "num": 1188703,
+      "word": "RNG",
+      "onboard_time": 1660482511,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 1188332,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 991720,
+      "num": 991720,
+      "word": "父母做保姆会让你自卑吗",
+      "onboard_time": 1660481973,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958661,
       "num": 958661,
       "word": "拉萨市卫健委主任被免职",
@@ -435,11 +467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 905967,
-      "num": 905967,
-      "word": "RNG",
-      "onboard_time": 1660482511,
-      "rank": 9,
+      "raw_hot": 903569,
+      "num": 903569,
+      "word": "复活甲没了",
+      "onboard_time": 1660485154,
+      "rank": 12,
       "category": "游戏"
     },
     {
@@ -472,14 +504,6 @@
       "word": "虞书欣小兰花人间造型",
       "onboard_time": 1660461330,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 851909,
-      "num": 851909,
-      "word": "父母做保姆会让你自卑吗",
-      "onboard_time": 1660481973,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -667,6 +691,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 683250,
+      "num": 683250,
+      "word": "LGD战胜RNG",
+      "onboard_time": 1660485755,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 682163,
       "num": 682163,
       "word": "加拿大安大略省长讲话时误吞蜜蜂",
@@ -795,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 602794,
+      "num": 602794,
+      "word": "怪不得男人爱看挖掘机",
+      "onboard_time": 1660482153,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 598731,
       "num": 468044,
       "word": "东方青苍向小兰花表白",
@@ -833,6 +873,14 @@
       "onboard_time": 1660454311,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 574823,
+      "num": 574823,
+      "word": "上海发布回应徐汇宜家相关情况",
+      "onboard_time": 1660486292,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573764,
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 487173,
-      "num": 283923,
+      "num": 333363,
       "word": "断桥年度最受关注影片",
       "onboard_time": 1660483895,
       "rank": 48,
@@ -1099,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466124,
+      "num": 339732,
+      "word": "苍兰诀爱奇艺热度破9500",
+      "onboard_time": 1660486474,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464229,
       "num": 426840,
       "word": "极限挑战",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1660470451,
       "rank": 25,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 441747,
+      "num": 366659,
+      "word": "玉骨遥",
+      "onboard_time": 1660436546,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 439542,
@@ -1241,14 +1305,6 @@
       "onboard_time": 1660464508,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 426190,
-      "num": 426190,
-      "word": "怪不得男人爱看挖掘机",
-      "onboard_time": 1660482153,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 424228,
@@ -1337,6 +1393,14 @@
       "onboard_time": 1660468592,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407267,
+      "num": 334914,
+      "word": "朱一龙模仿微博表情包",
+      "onboard_time": 1660485874,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 404533,
@@ -1443,6 +1507,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 385620,
+      "num": 243963,
+      "word": "张凌赫演的萧润好可爱",
+      "onboard_time": 1660485575,
+      "rank": 40,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 385319,
       "num": 314094,
       "word": "贺峻霖卧底游戏出局太冤了",
@@ -1483,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371899,
+      "num": 371899,
+      "word": "一句话怼死杠精",
+      "onboard_time": 1660482992,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370053,
       "num": 370053,
       "word": "102岁外婆看到外孙笑出表情包",
@@ -1505,14 +1585,6 @@
       "onboard_time": 1660483712,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 366659,
-      "num": 366659,
-      "word": "玉骨遥",
-      "onboard_time": 1660436546,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 366557,
@@ -1643,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340828,
+      "num": 340828,
+      "word": "石家庄二中耐高夺冠",
+      "onboard_time": 1660485696,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338000,
       "num": 338000,
       "word": "斗破苍穹史上最高调复学",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1660463311,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 318882,
+      "num": 318882,
+      "word": "LGD 水鬼",
+      "onboard_time": 1660485755,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 318385,
@@ -1801,14 +1889,6 @@
       "onboard_time": 1660449928,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 296071,
-      "num": 296071,
-      "word": "一句话怼死杠精",
-      "onboard_time": 1660482992,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 295257,
@@ -1931,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270232,
-      "num": 270232,
-      "word": "今天解放军22架次军机6艘次军舰巡台",
-      "onboard_time": 1660484311,
-      "rank": 38,
-      "category": "军事"
-    },
-    {
       "raw_hot": 269337,
       "num": 269337,
       "word": "AG状态拉满",
@@ -2033,6 +2105,14 @@
       "onboard_time": 1660446329,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249768,
+      "num": 249768,
+      "word": "耐高",
+      "onboard_time": 1660486173,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 248442,
@@ -2241,6 +2321,14 @@
       "onboard_time": 1660478672,
       "rank": 39,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 181228,
+      "num": 181228,
+      "word": "会说话的人是怎么安慰别人的",
+      "onboard_time": 1660486474,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 181216,

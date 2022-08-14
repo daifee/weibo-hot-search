@@ -1,0 +1,410 @@
+{
+  "runTime": 1660486785532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3625361,
+        "num": 3625361,
+        "word": "又有美国国会参众议员窜访台湾",
+        "onboard_time": 1660482270,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2914993,
+        "num": 2914993,
+        "word": "今天解放军22架次军机6艘次军舰巡台",
+        "onboard_time": 1660484311,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 35490,
+        "num": 1862798,
+        "word": "超清画面记录中国空间站凌月",
+        "onboard_time": 1660443569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593095,
+        "num": 1593095,
+        "word": "王俊凯王一博同款站姿",
+        "onboard_time": 1660485814,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1370731,
+        "num": 1370731,
+        "word": "女生没考好深夜跪孔子像前忏悔",
+        "onboard_time": 1660480833,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1253158,
+        "num": 1253158,
+        "word": "山洪前有管理员喊我跪下来求大家",
+        "onboard_time": 1660477711,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1202888,
+        "num": 1202888,
+        "word": "沈腾 偷轮胎",
+        "onboard_time": 1660473333,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1188703,
+        "num": 1188703,
+        "word": "RNG",
+        "onboard_time": 1660482511,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1048736,
+        "num": 1048736,
+        "word": "刘亦菲电影之夜红毯生图状态",
+        "onboard_time": 1660472850,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1028729,
+        "num": 1028729,
+        "word": "6岁女童磕伤意外查出身体10处肿瘤",
+        "onboard_time": 1660478611,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2099059,
+        "num": 1015850,
+        "word": "张天爱胸骨",
+        "onboard_time": 1660475371,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 991720,
+        "num": 991720,
+        "word": "父母做保姆会让你自卑吗",
+        "onboard_time": 1660481973,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903569,
+        "num": 903569,
+        "word": "复活甲没了",
+        "onboard_time": 1660485154,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 775737,
+        "num": 775737,
+        "word": "王鹤棣东方青苍人间造型",
+        "onboard_time": 1660483171,
+        "rank": 13,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 683250,
+        "num": 683250,
+        "word": "LGD战胜RNG",
+        "onboard_time": 1660485755,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 662812,
+        "num": 662812,
+        "word": "长沙所有初中新生停止军训",
+        "onboard_time": 1660476033,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 646373,
+        "num": 646373,
+        "word": "四川山洪事发河道为网红打卡地",
+        "onboard_time": 1660481555,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 602794,
+        "num": 602794,
+        "word": "怪不得男人爱看挖掘机",
+        "onboard_time": 1660482153,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 574823,
+        "num": 574823,
+        "word": "上海发布回应徐汇宜家相关情况",
+        "onboard_time": 1660486292,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483187,
+        "num": 483187,
+        "word": "张家界坠亡女骑手家属获补偿45万元",
+        "onboard_time": 1660472731,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593187,
+        "num": 481443,
+        "word": "邓超说想演鹿晗儿子",
+        "onboard_time": 1660480411,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579104,
+        "num": 480057,
+        "word": "微博电影之夜",
+        "onboard_time": 1660466970,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486886,
+        "num": 478957,
+        "word": "邢菲好美",
+        "onboard_time": 1660478189,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477165,
+        "num": 477165,
+        "word": "山洪突袭男子紧抱女孩死里逃生",
+        "onboard_time": 1660473571,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414509,
+        "num": 414509,
+        "word": "彩礼为什么越来越贵",
+        "onboard_time": 1660469312,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 408860,
+        "num": 408860,
+        "word": "中国男排亚洲杯夺冠",
+        "onboard_time": 1660480715,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402573,
+        "num": 402573,
+        "word": "EDG 我们是冠军",
+        "onboard_time": 1660473092,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371899,
+        "num": 371899,
+        "word": "一句话怼死杠精",
+        "onboard_time": 1660482992,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343942,
+        "num": 343942,
+        "word": "重庆热成全国第一",
+        "onboard_time": 1660472793,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340828,
+        "num": 340828,
+        "word": "石家庄二中耐高夺冠",
+        "onboard_time": 1660485696,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466124,
+        "num": 339732,
+        "word": "苍兰诀爱奇艺热度破9500",
+        "onboard_time": 1660486474,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441747,
+        "num": 336971,
+        "word": "玉骨遥",
+        "onboard_time": 1660486112,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407267,
+        "num": 334914,
+        "word": "朱一龙模仿微博表情包",
+        "onboard_time": 1660485874,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399043,
+        "num": 333363,
+        "word": "断桥年度最受关注影片",
+        "onboard_time": 1660483895,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331615,
+        "num": 331615,
+        "word": "JDG获得复活甲",
+        "onboard_time": 1660483712,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318882,
+        "num": 318882,
+        "word": "LGD 水鬼",
+        "onboard_time": 1660485755,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274623,
+        "num": 274623,
+        "word": "养的多肉居然开花了",
+        "onboard_time": 1660472012,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264470,
+        "num": 264470,
+        "word": "九寨沟的水为何踩不得",
+        "onboard_time": 1660472670,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249768,
+        "num": 249768,
+        "word": "耐高",
+        "onboard_time": 1660486173,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247582,
+        "num": 247582,
+        "word": "中国男排 我们是冠军",
+        "onboard_time": 1660482392,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385620,
+        "num": 243963,
+        "word": "张凌赫演的萧润好可爱",
+        "onboard_time": 1660485575,
+        "rank": 40,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 352715,
+        "num": 238218,
+        "word": "周深全开麦唱大鱼",
+        "onboard_time": 1660481313,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220255,
+        "num": 220255,
+        "word": "爷爷雨天抱着孙子无效打伞",
+        "onboard_time": 1660470451,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 207822,
+        "num": 207822,
+        "word": "三亚机场15日起恢复国内客运",
+        "onboard_time": 1660477711,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184380,
+        "num": 184380,
+        "word": "KPL",
+        "onboard_time": 1660483350,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181228,
+        "num": 181228,
+        "word": "会说话的人是怎么安慰别人的",
+        "onboard_time": 1660486474,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173728,
+        "num": 173728,
+        "word": "特朗普律师曾称所有机密材料已归还",
+        "onboard_time": 1660471951,
+        "rank": 46,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 166182,
+        "num": 166182,
+        "word": "上海四大金刚早餐有多上头",
+        "onboard_time": 1660478431,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124866,
+        "num": 124866,
+        "word": "张景胤MVP",
+        "onboard_time": 1660484193,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119591,
+        "num": 119591,
+        "word": "上海无人机精准定位未扫场所码人员",
+        "onboard_time": 1660473033,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京国际电影节开幕式#"
+    }
+  }
+}
