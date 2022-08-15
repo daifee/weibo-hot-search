@@ -1,0 +1,410 @@
+{
+  "runTime": 1660536989089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3507042,
+        "num": 3507042,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2588740,
+        "num": 2588740,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701921,
+        "num": 1773029,
+        "word": "三伏天就快过去了",
+        "onboard_time": 1660521325,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349020,
+        "num": 1349020,
+        "word": "日本终战诏书绝口不提投降",
+        "onboard_time": 1660530086,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217251,
+        "num": 1217251,
+        "word": "冰雨火投资人回应催更",
+        "onboard_time": 1660535427,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1106441,
+        "num": 1106441,
+        "word": "高速上猪从货车跳下摔死",
+        "onboard_time": 1660530929,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104497,
+        "num": 1104497,
+        "word": "家中8人患癌二胎妈妈也查出癌症",
+        "onboard_time": 1660519524,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987326,
+        "num": 987326,
+        "word": "孟子义说主动多一点错过少一点",
+        "onboard_time": 1660534048,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 981795,
+        "num": 981795,
+        "word": "日本宣布投降77周年",
+        "onboard_time": 1660519281,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972485,
+        "num": 972485,
+        "word": "哈啰单车将补偿1天骑行卡",
+        "onboard_time": 1660533388,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 827381,
+        "num": 827381,
+        "word": "谢霆锋沈腾撞衫",
+        "onboard_time": 1660526968,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759810,
+        "num": 759810,
+        "word": "6成90后00后不愿直接买新机",
+        "onboard_time": 1660535729,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 752353,
+        "num": 752353,
+        "word": "心动的信号5回归",
+        "onboard_time": 1660529789,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568664,
+        "num": 568664,
+        "word": "爸爸用现代衣裤为儿子装扮古装",
+        "onboard_time": 1660531827,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544393,
+        "num": 544393,
+        "word": "杨紫成毅吊威亚互相保护",
+        "onboard_time": 1660527687,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536869,
+        "num": 536869,
+        "word": "这得拿多少冰箱啊",
+        "onboard_time": 1660532846,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518856,
+        "num": 518856,
+        "word": "张天爱马甲线",
+        "onboard_time": 1660529547,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510297,
+        "num": 510297,
+        "word": "Steam免费游戏直接入库",
+        "onboard_time": 1660533028,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501507,
+        "num": 501507,
+        "word": "特斯拉上海工厂100万辆整车下线",
+        "onboard_time": 1660528529,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493674,
+        "num": 493674,
+        "word": "特朗普如被定罪将无法参加2024年大选",
+        "onboard_time": 1660524510,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1651130,
+        "num": 492415,
+        "word": "工作4年收入被父母退休金倒挂了",
+        "onboard_time": 1660497021,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490573,
+        "num": 490573,
+        "word": "维生素ABCD都有必要补吗",
+        "onboard_time": 1660534949,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 484049,
+        "num": 484049,
+        "word": "东北虎在水池放屁不停冒泡",
+        "onboard_time": 1660524868,
+        "rank": 22,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 481440,
+        "num": 481440,
+        "word": "李冰冰天爱微博电影之夜后台合影",
+        "onboard_time": 1660534829,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462569,
+        "num": 462569,
+        "word": "男生吃饭时遇线上军训面馆站军姿",
+        "onboard_time": 1660532908,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438100,
+        "num": 438100,
+        "word": "范丞丞Wonderland爆裂朋克封面大片",
+        "onboard_time": 1660535009,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 426533,
+        "num": 426533,
+        "word": "米卡感谢刘雨昕帮自己翻译",
+        "onboard_time": 1660532728,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386331,
+        "num": 386331,
+        "word": "男子带人上岳父家起冲突致其身亡",
+        "onboard_time": 1660536086,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 375285,
+        "num": 375285,
+        "word": "90后算是把娃带明白了",
+        "onboard_time": 1660533990,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346344,
+        "num": 346344,
+        "word": "苹果或将加大广告植入力度",
+        "onboard_time": 1660529909,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371620,
+        "num": 325558,
+        "word": "欧豪唱的胆小鬼同名片尾曲",
+        "onboard_time": 1660532908,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352194,
+        "num": 323893,
+        "word": "少女时代新歌MV导演道歉",
+        "onboard_time": 1660529727,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302469,
+        "num": 302469,
+        "word": "日本7.2万余人被命令撤离",
+        "onboard_time": 1660494443,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290401,
+        "num": 290401,
+        "word": "七旬爷爷跑遍800个古村为老人拍照",
+        "onboard_time": 1660535489,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289177,
+        "num": 289177,
+        "word": "父子被困山洪父亲曾试图将孩子抛向岸边",
+        "onboard_time": 1660523488,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251770,
+        "num": 251770,
+        "word": "武庚纪将拍剧版",
+        "onboard_time": 1660536030,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248052,
+        "num": 248052,
+        "word": "男子吃冰西瓜腹泻数日致尿毒症",
+        "onboard_time": 1660536687,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247371,
+        "num": 247371,
+        "word": "家长带孩子游野泳不听劝发生意外",
+        "onboard_time": 1660523190,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242942,
+        "num": 242942,
+        "word": "苹果五福一安充电器全面售罄",
+        "onboard_time": 1660525889,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241072,
+        "num": 241072,
+        "word": "母女带100多万现金坐高铁",
+        "onboard_time": 1660507991,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228476,
+        "num": 228476,
+        "word": "7月份国民经济延续恢复态势",
+        "onboard_time": 1660532487,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 220591,
+        "num": 220591,
+        "word": "王一博红毯回眸",
+        "onboard_time": 1660525168,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208831,
+        "num": 208831,
+        "word": "40度高温3岁男孩被锁车内",
+        "onboard_time": 1660509732,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190972,
+        "num": 190972,
+        "word": "有秋天的感觉了吗",
+        "onboard_time": 1660527868,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188072,
+        "num": 188072,
+        "word": "河南范县否认初中补课",
+        "onboard_time": 1660531587,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175517,
+        "num": 175517,
+        "word": "苍兰诀",
+        "onboard_time": 1660523548,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175210,
+        "num": 175210,
+        "word": "河南特岗",
+        "onboard_time": 1660528529,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175031,
+        "num": 175031,
+        "word": "LGD亚军",
+        "onboard_time": 1660524510,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172884,
+        "num": 172884,
+        "word": "冰雨火对峙版海报",
+        "onboard_time": 1660535910,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172208,
+        "num": 172208,
+        "word": "多款芯片价格雪崩",
+        "onboard_time": 1660523069,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席看世界#"
+    }
+  }
+}

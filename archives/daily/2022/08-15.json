@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660532200604,
+  "endTime": 1660536989089,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1349020,
+      "num": 1349020,
+      "word": "日本终战诏书绝口不提投降",
+      "onboard_time": 1660530086,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319444,
       "num": 1319444,
       "word": "山洪前有管理员喊我跪下来求大家",
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1217251,
+      "num": 1217251,
+      "word": "冰雨火投资人回应催更",
+      "onboard_time": 1660535427,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1185262,
       "num": 1185262,
       "word": "母女带100多万现金坐高铁",
@@ -113,6 +129,14 @@
       "onboard_time": 1660491509,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1106441,
+      "num": 1106441,
+      "word": "高速上猪从货车跳下摔死",
+      "onboard_time": 1660530929,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1071293,
@@ -155,6 +179,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 987326,
+      "num": 987326,
+      "word": "孟子义说主动多一点错过少一点",
+      "onboard_time": 1660534048,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 972485,
+      "num": 972485,
+      "word": "哈啰单车将补偿1天骑行卡",
+      "onboard_time": 1660533388,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 945428,
       "num": 945428,
       "word": "40度高温3岁男孩被锁车内",
@@ -187,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 759810,
+      "num": 759810,
+      "word": "6成90后00后不愿直接买新机",
+      "onboard_time": 1660535729,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 745334,
       "num": 745334,
       "word": "今天解放军22架次军机6艘次军舰巡台",
@@ -203,11 +251,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 681403,
-      "num": 681403,
-      "word": "日本终战诏书绝口不提投降",
-      "onboard_time": 1660530086,
-      "rank": 10,
+      "raw_hot": 701921,
+      "num": 1773029,
+      "word": "三伏天就快过去了",
+      "onboard_time": 1660521325,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -224,6 +272,14 @@
       "word": "特斯拉上海工厂100万辆整车下线",
       "onboard_time": 1660528529,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568664,
+      "num": 568664,
+      "word": "爸爸用现代衣裤为儿子装扮古装",
+      "onboard_time": 1660531827,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -259,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547228,
-      "num": 547228,
-      "word": "高速上猪从货车跳下摔死",
-      "onboard_time": 1660530929,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 537144,
       "num": 537144,
       "word": "6岁女童磕伤意外查出身体10处肿瘤",
       "onboard_time": 1660478611,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536869,
+      "num": 536869,
+      "word": "这得拿多少冰箱啊",
+      "onboard_time": 1660532846,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 536776,
@@ -283,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526857,
-      "num": 1553658,
-      "word": "三伏天就快过去了",
-      "onboard_time": 1660521325,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 518856,
+      "num": 518856,
+      "word": "张天爱马甲线",
+      "onboard_time": 1660529547,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 516959,
@@ -307,11 +363,35 @@
       "category": "科技"
     },
     {
+      "raw_hot": 510297,
+      "num": 510297,
+      "word": "Steam免费游戏直接入库",
+      "onboard_time": 1660533028,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 501715,
       "num": 501715,
       "word": "王一博红毯回眸",
       "onboard_time": 1660525168,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 490573,
+      "num": 490573,
+      "word": "维生素ABCD都有必要补吗",
+      "onboard_time": 1660534949,
+      "rank": 21,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 481440,
+      "num": 481440,
+      "word": "李冰冰天爱微博电影之夜后台合影",
+      "onboard_time": 1660534829,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -339,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462569,
+      "num": 462569,
+      "word": "男生吃饭时遇线上军训面馆站军姿",
+      "onboard_time": 1660532908,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444540,
       "num": 376391,
       "word": "李冰冰大花气场",
@@ -347,12 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 439424,
-      "num": 439424,
-      "word": "张天爱马甲线",
-      "onboard_time": 1660529547,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 438100,
+      "num": 438100,
+      "word": "范丞丞Wonderland爆裂朋克封面大片",
+      "onboard_time": 1660535009,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 426533,
+      "num": 426533,
+      "word": "米卡感谢刘雨昕帮自己翻译",
+      "onboard_time": 1660532728,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 405344,
@@ -361,6 +457,14 @@
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 386331,
+      "num": 386331,
+      "word": "男子带人上岳父家起冲突致其身亡",
+      "onboard_time": 1660536086,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 384359,
@@ -377,6 +481,22 @@
       "onboard_time": 1660526608,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 375285,
+      "num": 375285,
+      "word": "90后算是把娃带明白了",
+      "onboard_time": 1660533990,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 371620,
+      "num": 325558,
+      "word": "欧豪唱的胆小鬼同名片尾曲",
+      "onboard_time": 1660532908,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 362007,
@@ -539,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290401,
+      "num": 290401,
+      "word": "七旬爷爷跑遍800个古村为老人拍照",
+      "onboard_time": 1660535489,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289092,
       "num": 289092,
       "word": "四川山洪事发河道为网红打卡地",
@@ -635,6 +763,22 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 251770,
+      "num": 251770,
+      "word": "武庚纪将拍剧版",
+      "onboard_time": 1660536030,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248052,
+      "num": 248052,
+      "word": "男子吃冰西瓜腹泻数日致尿毒症",
+      "onboard_time": 1660536687,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247850,
       "num": 247850,
       "word": "成都游客河道中打麻将被劝离",
@@ -657,6 +801,14 @@
       "onboard_time": 1660472731,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228476,
+      "num": 228476,
+      "word": "7月份国民经济延续恢复态势",
+      "onboard_time": 1660532487,
+      "rank": 40,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 222903,
@@ -731,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199083,
-      "num": 199083,
-      "word": "爸爸用现代衣裤为儿子装扮古装",
-      "onboard_time": 1660531827,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
@@ -785,6 +929,14 @@
       "onboard_time": 1660489292,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172884,
+      "num": 172884,
+      "word": "冰雨火对峙版海报",
+      "onboard_time": 1660535910,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 172881,
