@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660529908301,
+  "endTime": 1660532200604,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -8,6 +8,14 @@
       "word": "人们为啥不爱吃海底捞了",
       "onboard_time": 1660525407,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3324792,
+      "num": 3324792,
+      "word": "研究称单身的人衰老速度更快",
+      "onboard_time": 1660528769,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1239578,
+      "num": 1239578,
+      "word": "心动的信号5回归",
+      "onboard_time": 1660529789,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185262,
       "num": 1185262,
       "word": "母女带100多万现金坐高铁",
@@ -131,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 954554,
-      "num": 954554,
-      "word": "研究称单身的人衰老速度更快",
-      "onboard_time": 1660528769,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 1015036,
+      "num": 1015036,
+      "word": "杨紫成毅吊威亚互相保护",
+      "onboard_time": 1660527687,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 945428,
@@ -187,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 681403,
+      "num": 681403,
+      "word": "日本终战诏书绝口不提投降",
+      "onboard_time": 1660530086,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671944,
       "num": 671944,
       "word": "你见过凌晨4点的天安门吗",
@@ -195,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593566,
-      "num": 593566,
-      "word": "杨紫成毅吊威亚互相保护",
-      "onboard_time": 1660527687,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 648618,
+      "num": 648618,
+      "word": "特斯拉上海工厂100万辆整车下线",
+      "onboard_time": 1660528529,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568032,
@@ -209,6 +233,14 @@
       "onboard_time": 1660518681,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562944,
+      "num": 562944,
+      "word": "少女时代新歌MV导演道歉",
+      "onboard_time": 1660529727,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 551477,
@@ -224,6 +256,14 @@
       "word": "义乌大部分街镇延长静默期",
       "onboard_time": 1660493186,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547228,
+      "num": 547228,
+      "word": "高速上猪从货车跳下摔死",
+      "onboard_time": 1660530929,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -244,19 +284,11 @@
     },
     {
       "raw_hot": 526857,
-      "num": 1431067,
+      "num": 1553658,
       "word": "三伏天就快过去了",
       "onboard_time": 1660521325,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520868,
-      "num": 520868,
-      "word": "心动的信号5回归",
-      "onboard_time": 1660529789,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 516959,
@@ -267,20 +299,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 512442,
+      "num": 512442,
+      "word": "苹果或将加大广告植入力度",
+      "onboard_time": 1660529909,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 501715,
       "num": 501715,
       "word": "王一博红毯回眸",
       "onboard_time": 1660525168,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497420,
-      "num": 497420,
-      "word": "特斯拉上海工厂100万辆整车下线",
-      "onboard_time": 1660528529,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477563,
@@ -299,14 +331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 475620,
-      "num": 475620,
-      "word": "少女时代新歌MV导演道歉",
-      "onboard_time": 1660529727,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 470857,
       "num": 363921,
       "word": "刘亦菲电影之夜红毯生图状态",
@@ -320,6 +344,14 @@
       "word": "李冰冰大花气场",
       "onboard_time": 1660492409,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439424,
+      "num": 439424,
+      "word": "张天爱马甲线",
+      "onboard_time": 1660529547,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358997,
+      "num": 358997,
+      "word": "网红打卡地成夺命险地平台应担责吗",
+      "onboard_time": 1660527027,
+      "rank": 27,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 357274,
       "num": 263307,
       "word": "张艺兴即兴battle",
@@ -395,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325718,
+      "num": 325718,
+      "word": "炽道首发盛夏炽恋预告",
+      "onboard_time": 1660531768,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325446,
       "num": 325446,
       "word": "乌鲁木齐本轮疫情毒株BA.5.2",
@@ -403,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322637,
-      "num": 322637,
-      "word": "网红打卡地成夺命险地平台应担责吗",
-      "onboard_time": 1660527027,
-      "rank": 27,
-      "category": "社会议题"
+      "raw_hot": 324387,
+      "num": 324387,
+      "word": "河南特岗",
+      "onboard_time": 1660528529,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 321961,
@@ -507,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284802,
-      "num": 284802,
-      "word": "河南特岗",
-      "onboard_time": 1660528529,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 276734,
       "num": 276734,
       "word": "上海新增1例本土确诊5例本土无症状",
@@ -579,6 +619,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 256019,
+      "num": 256019,
+      "word": "无锡疫情防控",
+      "onboard_time": 1660528769,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252063,
       "num": 252063,
       "word": "王鹤棣东方青苍人间造型",
@@ -592,6 +640,14 @@
       "word": "成都游客河道中打麻将被劝离",
       "onboard_time": 1660518981,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234920,
+      "num": 234920,
+      "word": "7月份70城最新房价出炉",
+      "onboard_time": 1660531288,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -635,28 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210022,
-      "num": 210022,
-      "word": "无锡疫情防控",
-      "onboard_time": 1660528769,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207001,
       "num": 207001,
       "word": "广东对省运会决赛涉嫌假球进行调查",
       "onboard_time": 1660524450,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206966,
-      "num": 206966,
-      "word": "张天爱马甲线",
-      "onboard_time": 1660529547,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 203654,
@@ -691,12 +731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199083,
+      "num": 199083,
+      "word": "爸爸用现代衣裤为儿子装扮古装",
+      "onboard_time": 1660531827,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
       "onboard_time": 1660473333,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189228,
+      "num": 189228,
+      "word": "河南范县否认初中补课",
+      "onboard_time": 1660531587,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 186988,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1660532200604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3324792,
+        "num": 3324792,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2729883,
+        "num": 2729883,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451048,
+        "num": 1553658,
+        "word": "三伏天就快过去了",
+        "onboard_time": 1660521325,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447670,
+        "num": 1447670,
+        "word": "家中8人患癌二胎妈妈也查出癌症",
+        "onboard_time": 1660519524,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251635,
+        "num": 1251635,
+        "word": "谢霆锋沈腾撞衫",
+        "onboard_time": 1660526968,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1239578,
+        "num": 1239578,
+        "word": "心动的信号5回归",
+        "onboard_time": 1660529789,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1088170,
+        "num": 1088170,
+        "word": "日本宣布投降77周年",
+        "onboard_time": 1660519281,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015036,
+        "num": 1015036,
+        "word": "杨紫成毅吊威亚互相保护",
+        "onboard_time": 1660527687,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 995107,
+        "num": 995107,
+        "word": "特朗普如被定罪将无法参加2024年大选",
+        "onboard_time": 1660524510,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 948451,
+        "num": 948451,
+        "word": "东北虎在水池放屁不停冒泡",
+        "onboard_time": 1660524868,
+        "rank": 9,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 681403,
+        "num": 681403,
+        "word": "日本终战诏书绝口不提投降",
+        "onboard_time": 1660530086,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648618,
+        "num": 648618,
+        "word": "特斯拉上海工厂100万辆整车下线",
+        "onboard_time": 1660528529,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625349,
+        "num": 625349,
+        "word": "苹果五福一安充电器全面售罄",
+        "onboard_time": 1660525889,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 562944,
+        "num": 562944,
+        "word": "少女时代新歌MV导演道歉",
+        "onboard_time": 1660529727,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550916,
+        "num": 550916,
+        "word": "父子被困山洪父亲曾试图将孩子抛向岸边",
+        "onboard_time": 1660523488,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547228,
+        "num": 547228,
+        "word": "高速上猪从货车跳下摔死",
+        "onboard_time": 1660530929,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546957,
+        "num": 546957,
+        "word": "日本7.2万余人被命令撤离",
+        "onboard_time": 1660494443,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530655,
+        "num": 530655,
+        "word": "李钟硕黑话律师wink",
+        "onboard_time": 1660523548,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512442,
+        "num": 512442,
+        "word": "苹果或将加大广告植入力度",
+        "onboard_time": 1660529909,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 449133,
+        "num": 449133,
+        "word": "母女带100多万现金坐高铁",
+        "onboard_time": 1660507991,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933292,
+        "num": 446517,
+        "word": "工作4年收入被父母退休金倒挂了",
+        "onboard_time": 1660497021,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439424,
+        "num": 439424,
+        "word": "张天爱马甲线",
+        "onboard_time": 1660529547,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411022,
+        "num": 411022,
+        "word": "家长带孩子游野泳不听劝发生意外",
+        "onboard_time": 1660523190,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358997,
+        "num": 358997,
+        "word": "网红打卡地成夺命险地平台应担责吗",
+        "onboard_time": 1660527027,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 349417,
+        "num": 349417,
+        "word": "有秋天的感觉了吗",
+        "onboard_time": 1660527868,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347602,
+        "num": 347602,
+        "word": "王一博红毯回眸",
+        "onboard_time": 1660525168,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325718,
+        "num": 325718,
+        "word": "炽道首发盛夏炽恋预告",
+        "onboard_time": 1660531768,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324387,
+        "num": 324387,
+        "word": "河南特岗",
+        "onboard_time": 1660528529,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294648,
+        "num": 294648,
+        "word": "公交司机鸣笛引路人不满遭围殴",
+        "onboard_time": 1660527868,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 291414,
+        "num": 291414,
+        "word": "多款芯片价格雪崩",
+        "onboard_time": 1660523069,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286577,
+        "num": 286577,
+        "word": "日照新增1例阳性",
+        "onboard_time": 1660527268,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266293,
+        "num": 266293,
+        "word": "40度高温3岁男孩被锁车内",
+        "onboard_time": 1660509732,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258418,
+        "num": 258418,
+        "word": "全球一年出货1.15万亿颗芯片",
+        "onboard_time": 1660526608,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257312,
+        "num": 257312,
+        "word": "马冬梅式坐高铁",
+        "onboard_time": 1660526370,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256019,
+        "num": 256019,
+        "word": "无锡疫情防控",
+        "onboard_time": 1660528769,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246408,
+        "num": 246408,
+        "word": "每一个中国人都应铭记今天",
+        "onboard_time": 1660525470,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245471,
+        "num": 245471,
+        "word": "胡一天张云龙柯南体质",
+        "onboard_time": 1660529789,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241157,
+        "num": 241157,
+        "word": "苍兰诀 诀症",
+        "onboard_time": 1660488035,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234920,
+        "num": 234920,
+        "word": "7月份70城最新房价出炉",
+        "onboard_time": 1660531288,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219114,
+        "num": 219114,
+        "word": "LGD亚军",
+        "onboard_time": 1660524510,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203832,
+        "num": 203832,
+        "word": "北京8月14日本土零新增",
+        "onboard_time": 1660528047,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199083,
+        "num": 199083,
+        "word": "爸爸用现代衣裤为儿子装扮古装",
+        "onboard_time": 1660531827,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191140,
+        "num": 191140,
+        "word": "上海新增1例本土确诊5例本土无症状",
+        "onboard_time": 1660526488,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189228,
+        "num": 189228,
+        "word": "河南范县否认初中补课",
+        "onboard_time": 1660531587,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 177942,
+        "num": 177942,
+        "word": "李易峰说00后都认识我",
+        "onboard_time": 1660489954,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171931,
+        "num": 171931,
+        "word": "厦门新增本土确诊6例",
+        "onboard_time": 1660528947,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165684,
+        "num": 165684,
+        "word": "三伏天最后一伏来了",
+        "onboard_time": 1660506912,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165046,
+        "num": 165046,
+        "word": "成都游客河道中打麻将被劝离",
+        "onboard_time": 1660518981,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150177,
+        "num": 150177,
+        "word": "哈啰单车崩了",
+        "onboard_time": 1660523909,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141402,
+        "num": 141402,
+        "word": "新疆增确诊1例无症状343例",
+        "onboard_time": 1660525889,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
