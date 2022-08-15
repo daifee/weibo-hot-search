@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660605728772,
+  "endTime": 1660606672840,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -281,6 +281,14 @@
       "onboard_time": 1660568130,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1464240,
+      "num": 1464240,
+      "word": "云南书记要求反思游客为什么不来",
+      "onboard_time": 1660581204,
+      "rank": 10,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1463437,
@@ -619,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 973422,
-      "num": 973422,
-      "word": "云南书记要求反思游客为什么不来",
-      "onboard_time": 1660581204,
-      "rank": 10,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 945428,
       "num": 945428,
       "word": "40度高温3岁男孩被锁车内",
@@ -745,6 +745,14 @@
       "onboard_time": 1660567889,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 786468,
+      "num": 786468,
+      "word": "招办回应录取通知书英文单词出错",
+      "onboard_time": 1660604598,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770797,
@@ -1123,6 +1131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 515411,
+      "num": 515411,
+      "word": "杭州西湖游客中暑事件频发",
+      "onboard_time": 1660589772,
+      "rank": 28,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 512725,
       "num": 512725,
       "word": "博物馆回应男孩指出八卦图画错了",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1660541130,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498353,
+      "num": 498353,
+      "word": "虞书欣王鹤棣苍兰诀双人直播",
+      "onboard_time": 1660604959,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 496407,
@@ -1395,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449083,
+      "num": 449083,
+      "word": "网友做的暑期新剧鄙视链图",
+      "onboard_time": 1660573533,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447251,
       "num": 376974,
       "word": "冰雨火片尾信息量好大",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1660566991,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444582,
-      "num": 444582,
-      "word": "杭州西湖游客中暑事件频发",
-      "onboard_time": 1660589772,
-      "rank": 28,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 444540,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 399853,
-      "num": 370046,
-      "word": "网友做的暑期新剧鄙视链图",
-      "onboard_time": 1660573533,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 399224,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1660570351,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362995,
+      "num": 362995,
+      "word": "女子打了一个喷嚏腰椎骨折不自知",
+      "onboard_time": 1660586054,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362063,
@@ -1841,14 +1865,6 @@
       "onboard_time": 1660572874,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331768,
-      "num": 303767,
-      "word": "虞书欣王鹤棣苍兰诀双人直播",
-      "onboard_time": 1660604959,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 329286,
@@ -2027,14 +2043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302966,
-      "num": 302966,
-      "word": "女子打了一个喷嚏腰椎骨折不自知",
-      "onboard_time": 1660586054,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302442,
       "num": 302442,
       "word": "上海黄浦江新地标25亿起拍卖",
@@ -2209,14 +2217,6 @@
       "onboard_time": 1660558052,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276934,
-      "num": 276934,
-      "word": "招办回应录取通知书英文单词出错",
-      "onboard_time": 1660604598,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276734,
@@ -2403,6 +2403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250712,
+      "num": 250712,
+      "word": "房贷利率有望再度下调",
+      "onboard_time": 1660596612,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250211,
       "num": 250211,
       "word": "为了它我愿意买本书",
@@ -2491,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223689,
+      "num": 223689,
+      "word": "成都最高气温达到43°C",
+      "onboard_time": 1660605020,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222903,
       "num": 179749,
       "word": "父母做保姆会让你自卑吗",
@@ -2552,14 +2568,6 @@
       "word": "新疆增确诊1例无症状343例",
       "onboard_time": 1660525889,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211321,
-      "num": 211321,
-      "word": "房贷利率有望再度下调",
-      "onboard_time": 1660596612,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2819,11 +2827,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155650,
+      "num": 155650,
+      "word": "江疏影说越长大越要有阿Q精神",
+      "onboard_time": 1660603997,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153561,
       "num": 153561,
       "word": "重庆热成全国第一",
       "onboard_time": 1660472793,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149932,
+      "num": 149932,
+      "word": "3人海钓船被掀翻36小时后获救",
+      "onboard_time": 1660597451,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "辉瑞CEO称已开始服用该公司新冠药",
+      "onboard_time": 1660595651,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2851,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132898,
+      "num": 132898,
+      "word": "王俊凯说断桥给了自己很高的营养",
+      "onboard_time": 1660604659,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130065,
       "num": 130065,
       "word": "王一博微博电影之夜好绅士",
@@ -2865,14 +2905,6 @@
       "onboard_time": 1660488154,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126664,
-      "num": 126664,
-      "word": "3人海钓船被掀翻36小时后获救",
-      "onboard_time": 1660597451,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120915,
@@ -2891,19 +2923,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114626,
-      "num": 114626,
-      "word": "辉瑞CEO称已开始服用该公司新冠药",
-      "onboard_time": 1660595651,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113958,
       "num": 113958,
       "word": "河北橘色晚霞点燃天空",
       "onboard_time": 1660574432,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113808,
+      "num": 113808,
+      "word": "四川疾控辟谣网传视频系龙线虫",
+      "onboard_time": 1660606099,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2939,14 +2971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103190,
-      "num": 103190,
-      "word": "王俊凯说断桥给了自己很高的营养",
-      "onboard_time": 1660604659,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 99537,
       "num": 99537,
       "word": "九寨沟的水为何踩不得",
@@ -2961,14 +2985,6 @@
       "onboard_time": 1660579825,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95247,
-      "num": 84848,
-      "word": "江疏影说越长大越要有阿Q精神",
-      "onboard_time": 1660603997,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 89413,
@@ -2993,14 +3009,6 @@
       "onboard_time": 1660471951,
       "rank": 49,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 86780,
-      "num": 86780,
-      "word": "成都最高气温达到43°C",
-      "onboard_time": 1660605020,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79457,
