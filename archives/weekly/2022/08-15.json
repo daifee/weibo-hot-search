@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660553006847,
+  "endTime": 1660555299109,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -43,8 +43,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2069139,
-      "num": 2069139,
+      "raw_hot": 2307540,
+      "num": 2307540,
       "word": "程少商退婚后的五年",
       "onboard_time": 1660551570,
       "rank": 5,
@@ -73,6 +73,14 @@
       "onboard_time": 1660535729,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1781302,
+      "num": 1781302,
+      "word": "网传下半年电视剧备播时间表",
+      "onboard_time": 1660552411,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1770360,
@@ -147,6 +155,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1461511,
+      "num": 1461511,
+      "word": "杨戬",
+      "onboard_time": 1660551632,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1425953,
+      "num": 1425953,
+      "word": "女子便利店买椒麻鸡全是鸡屁股",
+      "onboard_time": 1660552114,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1411368,
       "num": 1411368,
       "word": "特朗普如被定罪将无法参加2024年大选",
@@ -209,14 +233,6 @@
       "onboard_time": 1660519281,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1267688,
-      "num": 1267688,
-      "word": "杨戬",
-      "onboard_time": 1660551632,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 1266924,
@@ -435,12 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 778224,
-      "num": 765024,
-      "word": "网传下半年电视剧备播时间表",
-      "onboard_time": 1660552411,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 803562,
+      "num": 803562,
+      "word": "北京新增4例京外关联本土感染者",
+      "onboard_time": 1660552952,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789449,
+      "num": 789449,
+      "word": "人一旦戴上了运动手表",
+      "onboard_time": 1660550551,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 770797,
@@ -497,6 +521,14 @@
       "onboard_time": 1660521325,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698845,
+      "num": 698845,
+      "word": "今年古偶男主的颜值",
+      "onboard_time": 1660554451,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 677046,
@@ -577,14 +609,6 @@
       "onboard_time": 1660518681,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565346,
-      "num": 565346,
-      "word": "人一旦戴上了运动手表",
-      "onboard_time": 1660550551,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 562944,
@@ -672,6 +696,14 @@
       "word": "家长带孩子游野泳不听劝发生意外",
       "onboard_time": 1660523190,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535741,
+      "num": 535741,
+      "word": "朋友结婚男子扛84斤硬币随礼",
+      "onboard_time": 1660551511,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -803,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468976,
+      "num": 468976,
+      "word": "大象用鼻子还回游客掉入象园的鞋",
+      "onboard_time": 1660550490,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468858,
       "num": 468858,
       "word": "江苏回应海南开放航班限制公函",
@@ -827,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461118,
+      "num": 461118,
+      "word": "TTG 九尾",
+      "onboard_time": 1660552171,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 453846,
+      "num": 453846,
+      "word": "孙颖莎 成都",
+      "onboard_time": 1660552712,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453265,
       "num": 453265,
       "word": "白宫回应拜登支持率创历史新低",
@@ -841,14 +897,6 @@
       "onboard_time": 1660538133,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448236,
-      "num": 448236,
-      "word": "女子便利店买椒麻鸡全是鸡屁股",
-      "onboard_time": 1660552114,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447251,
@@ -891,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414289,
+      "num": 414289,
+      "word": "湖南一男童游泳池挣扎1分钟后溺亡",
+      "onboard_time": 1660554510,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 411322,
       "num": 411322,
       "word": "九尾 喜欢留在赛场",
@@ -907,28 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408436,
-      "num": 408436,
-      "word": "TTG 九尾",
-      "onboard_time": 1660552171,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 405344,
       "num": 405344,
       "word": "LGD亚军",
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 405331,
-      "num": 405331,
-      "word": "大象用鼻子还回游客掉入象园的鞋",
-      "onboard_time": 1660550490,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385663,
@@ -955,6 +995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 377753,
+      "num": 377753,
+      "word": "731部队的恶魔兄弟",
+      "onboard_time": 1660551031,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 375285,
       "num": 375285,
       "word": "90后算是把娃带明白了",
@@ -977,6 +1025,14 @@
       "onboard_time": 1660541612,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373384,
+      "num": 291926,
+      "word": "最让你惊艳的女明星红毯造型",
+      "onboard_time": 1660554809,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 371620,
@@ -1059,14 +1115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 340590,
-      "num": 340590,
-      "word": "731部队的恶魔兄弟",
-      "onboard_time": 1660551031,
-      "rank": 34,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 337948,
       "num": 337948,
       "word": "石家庄疫情防控",
@@ -1147,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320576,
-      "num": 320576,
-      "word": "朋友结婚男子扛84斤硬币随礼",
-      "onboard_time": 1660551511,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317422,
       "num": 317422,
       "word": "日照新增1例阳性",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1660528047,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302442,
+      "num": 302442,
+      "word": "上海黄浦江新地标25亿起拍卖",
+      "onboard_time": 1660553132,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 302207,
@@ -1291,6 +1339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 286093,
+      "num": 286093,
+      "word": "不拍片都不知道牙还能这样长",
+      "onboard_time": 1660551632,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285506,
       "num": 285506,
       "word": "打网约车就像开盲盒",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1660541910,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277213,
+      "num": 277213,
+      "word": "特斯拉上海工厂团队99.9%为中国人",
+      "onboard_time": 1660553912,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 276734,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1660549531,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257845,
+      "num": 257845,
+      "word": "为什么吃冰西瓜容易拉肚子",
+      "onboard_time": 1660554391,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257308,
@@ -1539,28 +1611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213910,
-      "num": 175736,
-      "word": "北京新增4例京外关联本土感染者",
-      "onboard_time": 1660552952,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212980,
       "num": 212980,
       "word": "新疆增确诊1例无症状343例",
       "onboard_time": 1660525889,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212537,
-      "num": 212537,
-      "word": "不拍片都不知道牙还能这样长",
-      "onboard_time": 1660551632,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 207001,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1660490971,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202090,
+      "num": 202090,
+      "word": "明日方舟 博士行为测试",
+      "onboard_time": 1660553792,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 201747,
@@ -1611,20 +1675,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199864,
-      "num": 199864,
-      "word": "孙颖莎 成都",
-      "onboard_time": 1660552712,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
       "onboard_time": 1660473333,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196761,
+      "num": 196761,
+      "word": "张常宁否认退役传闻",
+      "onboard_time": 1660554871,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195316,
+      "num": 195316,
+      "word": "女排亚洲杯中国名单公布",
+      "onboard_time": 1660555109,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 189228,
@@ -1681,6 +1753,14 @@
       "onboard_time": 1660493546,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172729,
+      "num": 172729,
+      "word": "陕西3所高校跻身世界500强",
+      "onboard_time": 1660554992,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166266,
