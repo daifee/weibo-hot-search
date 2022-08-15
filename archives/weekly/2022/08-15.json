@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660544981874,
+  "endTime": 1660546065960,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -81,6 +81,14 @@
       "onboard_time": 1660497021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1585778,
+      "num": 819834,
+      "word": "林青霞 你是姐的宝贝蛋",
+      "onboard_time": 1660545329,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1528159,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 974333,
+      "num": 974333,
+      "word": "彭州山洪被困父子父亲已获救",
+      "onboard_time": 1660543892,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 945428,
       "num": 945428,
       "word": "40度高温3岁男孩被锁车内",
@@ -427,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 558733,
+      "num": 558733,
+      "word": "开车碾压草场辱骂牧民游客道歉",
+      "onboard_time": 1660543111,
+      "rank": 17,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 551477,
       "num": 432075,
       "word": "苍兰诀 诀症",
@@ -459,12 +483,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 542692,
-      "num": 542692,
-      "word": "彭州山洪被困父子父亲已获救",
-      "onboard_time": 1660543892,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 541979,
+      "num": 541979,
+      "word": "虞书欣甜辣gwalla直拍",
+      "onboard_time": 1660544550,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 537144,
@@ -489,14 +513,6 @@
       "onboard_time": 1660523190,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536706,
-      "num": 536706,
-      "word": "开车碾压草场辱骂牧民游客道歉",
-      "onboard_time": 1660543111,
-      "rank": 17,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 525427,
@@ -561,6 +577,14 @@
       "onboard_time": 1660525168,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500925,
+      "num": 500925,
+      "word": "潜逃22年嫌犯被济南警察吓到自首",
+      "onboard_time": 1660541130,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491789,
@@ -675,14 +699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 401545,
-      "num": 401545,
-      "word": "潜逃22年嫌犯被济南警察吓到自首",
-      "onboard_time": 1660541130,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385663,
       "num": 385663,
       "word": "和TREASURE的夏日派对",
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362063,
+      "num": 362063,
+      "word": "房地产市场当前整体处于筑底阶段",
+      "onboard_time": 1660541311,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 362007,
       "num": 362007,
       "word": "有秋天的感觉了吗",
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353261,
+      "num": 353261,
+      "word": "冰雨火终于等来了刘奕君",
+      "onboard_time": 1660544970,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337948,
       "num": 337948,
       "word": "石家庄疫情防控",
@@ -809,14 +841,6 @@
       "onboard_time": 1660542509,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325851,
-      "num": 325851,
-      "word": "房地产市场当前整体处于筑底阶段",
-      "onboard_time": 1660541311,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 325718,
@@ -899,6 +923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315335,
+      "num": 297130,
+      "word": "陈宇有多爱吃醋",
+      "onboard_time": 1660545030,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 313871,
+      "num": 276478,
+      "word": "织布机",
+      "onboard_time": 1660544850,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 308485,
       "num": 308485,
       "word": "北京8月14日本土零新增",
@@ -963,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291974,
+      "num": 291974,
+      "word": "专家回应四川疑现龙线虫",
+      "onboard_time": 1660545207,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290401,
       "num": 290401,
       "word": "七旬爷爷跑遍800个古村为老人拍照",
@@ -979,14 +1027,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 285622,
-      "num": 285622,
-      "word": "虞书欣甜辣gwalla直拍",
-      "onboard_time": 1660544550,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 285506,
       "num": 285506,
       "word": "打网约车就像开盲盒",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1660490613,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278121,
+      "num": 278121,
+      "word": "西藏边防战士急流中喊相信我",
+      "onboard_time": 1660543350,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277798,
@@ -1075,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256976,
+      "num": 287298,
+      "word": "新研究证明薛定谔错了",
+      "onboard_time": 1660542631,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 256035,
       "num": 256035,
       "word": "长沙所有初中新生停止军训",
@@ -1107,28 +1163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249188,
-      "num": 287298,
-      "word": "新研究证明薛定谔错了",
-      "onboard_time": 1660542631,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 247850,
       "num": 247850,
       "word": "成都游客河道中打麻将被劝离",
       "onboard_time": 1660518981,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239127,
-      "num": 148208,
-      "word": "冰雨火终于等来了刘奕君",
-      "onboard_time": 1660544970,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 236617,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1660531288,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234243,
-      "num": 234243,
-      "word": "织布机",
-      "onboard_time": 1660544850,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 231153,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1660532487,
       "rank": 40,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 227836,
-      "num": 227836,
-      "word": "西藏边防战士急流中喊相信我",
-      "onboard_time": 1660543350,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222903,
@@ -1265,6 +1289,14 @@
       "onboard_time": 1660473333,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194587,
+      "num": 194587,
+      "word": "周五周六18城饿了么免单",
+      "onboard_time": 1660545689,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 189228,
@@ -1347,6 +1379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157777,
+      "num": 157777,
+      "word": "特朗普若当选总统或将搜查拜登住宅",
+      "onboard_time": 1660545629,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 156285,
+      "num": 156285,
+      "word": "4招学会跳绳正确姿势",
+      "onboard_time": 1660544970,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153561,
       "num": 153561,
       "word": "重庆热成全国第一",
@@ -1368,14 +1416,6 @@
       "word": "耐高",
       "onboard_time": 1660486173,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 132833,
-      "num": 132833,
-      "word": "4招学会跳绳正确姿势",
-      "onboard_time": 1660544970,
-      "rank": 49,
       "category": "体育"
     },
     {

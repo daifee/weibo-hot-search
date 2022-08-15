@@ -1,0 +1,410 @@
+{
+  "runTime": 1660546065960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2601436,
+        "num": 2601436,
+        "word": "龙线虫",
+        "onboard_time": 1660538433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479309,
+        "num": 1479309,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419344,
+        "num": 1266058,
+        "word": "三伏天就快过去了",
+        "onboard_time": 1660521325,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189692,
+        "num": 1189692,
+        "word": "王鹤棣去年古偶丑男今年古偶美男",
+        "onboard_time": 1660538974,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 993632,
+        "num": 993632,
+        "word": "张常宁发长文回应伤病质疑",
+        "onboard_time": 1660541910,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 988645,
+        "num": 988645,
+        "word": "iPhone年年焕新改为3到13个月",
+        "onboard_time": 1660540052,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 974333,
+        "num": 974333,
+        "word": "彭州山洪被困父子父亲已获救",
+        "onboard_time": 1660543892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888284,
+        "num": 888284,
+        "word": "遇龙",
+        "onboard_time": 1660542689,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 842037,
+        "num": 842037,
+        "word": "王祖蓝给李亚男提裙子好像花童",
+        "onboard_time": 1660539692,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 829554,
+        "num": 829554,
+        "word": "四川多地水域疑似出现龙线虫",
+        "onboard_time": 1660542868,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585778,
+        "num": 819834,
+        "word": "林青霞 你是姐的宝贝蛋",
+        "onboard_time": 1660545329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696516,
+        "num": 696516,
+        "word": "日本首相向靖国神社供奉玉串料",
+        "onboard_time": 1660537051,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 675593,
+        "num": 675593,
+        "word": "7旬老人打封闭针挖枸杞根救病孙",
+        "onboard_time": 1660540769,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658713,
+        "num": 658713,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558733,
+        "num": 558733,
+        "word": "开车碾压草场辱骂牧民游客道歉",
+        "onboard_time": 1660543111,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 541979,
+        "num": 541979,
+        "word": "虞书欣甜辣gwalla直拍",
+        "onboard_time": 1660544550,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536343,
+        "num": 536343,
+        "word": "男子吃冰西瓜腹泻数日致尿毒症",
+        "onboard_time": 1660536687,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500925,
+        "num": 500925,
+        "word": "潜逃22年嫌犯被济南警察吓到自首",
+        "onboard_time": 1660541130,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485794,
+        "num": 485794,
+        "word": "16至24岁人口调查失业率升至19.9%",
+        "onboard_time": 1660540951,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 482867,
+        "num": 482867,
+        "word": "降息",
+        "onboard_time": 1660538194,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 831068,
+        "num": 473477,
+        "word": "杨幂刘诗诗Angelababy红毯旧照",
+        "onboard_time": 1660541910,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442892,
+        "num": 442892,
+        "word": "6成90后00后不愿直接买新机",
+        "onboard_time": 1660535729,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 416552,
+        "num": 416552,
+        "word": "断桥豆瓣评分6.3分",
+        "onboard_time": 1660537833,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362063,
+        "num": 362063,
+        "word": "房地产市场当前整体处于筑底阶段",
+        "onboard_time": 1660541311,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 353261,
+        "num": 353261,
+        "word": "冰雨火终于等来了刘奕君",
+        "onboard_time": 1660544970,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297886,
+        "num": 297886,
+        "word": "白宫回应拜登支持率创历史新低",
+        "onboard_time": 1660539213,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 315335,
+        "num": 297130,
+        "word": "陈宇有多爱吃醋",
+        "onboard_time": 1660545030,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291974,
+        "num": 291974,
+        "word": "专家回应四川疑现龙线虫",
+        "onboard_time": 1660545207,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282088,
+        "num": 282088,
+        "word": "年轻人为何抵触体检",
+        "onboard_time": 1660540891,
+        "rank": 28,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 278121,
+        "num": 278121,
+        "word": "西藏边防战士急流中喊相信我",
+        "onboard_time": 1660543350,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286413,
+        "num": 277970,
+        "word": "邓紫棋车祸哭戏原声花絮",
+        "onboard_time": 1660539155,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313871,
+        "num": 276478,
+        "word": "织布机",
+        "onboard_time": 1660544850,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 280229,
+        "num": 275783,
+        "word": "制片人回应苍兰诀招商不多",
+        "onboard_time": 1660538733,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272939,
+        "num": 272939,
+        "word": "7旬大爷为追星1小时被骗4.6万",
+        "onboard_time": 1660536991,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257011,
+        "num": 257011,
+        "word": "成都草莓音乐节神秘嘉宾",
+        "onboard_time": 1660541612,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256976,
+        "num": 256976,
+        "word": "新研究证明薛定谔错了",
+        "onboard_time": 1660542631,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 198315,
+        "num": 198315,
+        "word": "喊妈的人类幼崽有多好笑",
+        "onboard_time": 1660543290,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 194587,
+        "num": 194587,
+        "word": "周五周六18城饿了么免单",
+        "onboard_time": 1660545689,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 188054,
+        "num": 188054,
+        "word": "被董宇辉描述的西北打动到了",
+        "onboard_time": 1660539096,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179388,
+        "num": 179388,
+        "word": "打网约车就像开盲盒",
+        "onboard_time": 1660541672,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249587,
+        "num": 176923,
+        "word": "秘密花园定档819",
+        "onboard_time": 1660542509,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209218,
+        "num": 176273,
+        "word": "脱口秀大会第五季官宣",
+        "onboard_time": 1660540171,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172717,
+        "num": 172717,
+        "word": "高速上猪从货车跳下摔死",
+        "onboard_time": 1660530929,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170592,
+        "num": 170592,
+        "word": "特斯拉上海工厂100万辆整车下线",
+        "onboard_time": 1660528529,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157777,
+        "num": 157777,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156285,
+        "num": 156285,
+        "word": "4招学会跳绳正确姿势",
+        "onboard_time": 1660544970,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154600,
+        "num": 154600,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1660538615,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146785,
+        "num": 146785,
+        "word": "东北虎在水池放屁不停冒泡",
+        "onboard_time": 1660524868,
+        "rank": 47,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 139864,
+        "num": 139864,
+        "word": "工作4年收入被父母退休金倒挂了",
+        "onboard_time": 1660497021,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 133321,
+        "word": "侵华日军一化学战核心部队名簿公布",
+        "onboard_time": 1660537531,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设生态文明功在当代利在千秋#"
+    }
+  }
+}
