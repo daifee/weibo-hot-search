@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660562291784,
+  "endTime": 1660563301027,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2938727,
-      "num": 1246967,
+      "num": 2675693,
       "word": "马思纯往车窗外丢垃圾",
       "onboard_time": 1660559193,
       "rank": 3,
@@ -123,8 +123,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1596487,
-      "num": 1596487,
+      "raw_hot": 1615945,
+      "num": 1615945,
+      "word": "女子街头穿和服拍照被警方带走",
+      "onboard_time": 1660561229,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1609700,
+      "num": 1609700,
       "word": "五年后的凌不疑",
       "onboard_time": 1660560210,
       "rank": 0,
@@ -403,6 +411,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1055094,
+      "num": 1055094,
+      "word": "河南2所大学入围全球1000强",
+      "onboard_time": 1660560811,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1040826,
       "num": 1040826,
       "word": "iPhone14或仍有刘海",
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872982,
+      "num": 872982,
+      "word": "1saye 照片",
+      "onboard_time": 1660558230,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 862992,
       "num": 862992,
       "word": "杨紫回应颜淡吃醋",
@@ -513,14 +537,6 @@
       "onboard_time": 1660550551,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 846807,
-      "num": 750810,
-      "word": "1saye 照片",
-      "onboard_time": 1660558230,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 805773,
@@ -539,20 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801300,
-      "num": 801300,
-      "word": "河南2所大学入围全球1000强",
-      "onboard_time": 1660560811,
-      "rank": 8,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 786536,
-      "num": 786536,
-      "word": "女子街头穿和服拍照被警方带走",
-      "onboard_time": 1660561229,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 790809,
+      "num": 597305,
+      "word": "王鹤棣是虞书欣的御用摄影师吧",
+      "onboard_time": 1660562430,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 770797,
@@ -641,6 +649,14 @@
       "onboard_time": 1660501573,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664604,
+      "num": 394028,
+      "word": "玉骨遥将接档月升沧海",
+      "onboard_time": 1660563089,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 654819,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549494,
+      "num": 549494,
+      "word": "日本民众举行反战示威游行",
+      "onboard_time": 1660561830,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 546406,
       "num": 546406,
       "word": "邓紫棋车祸哭戏原声花絮",
@@ -777,6 +801,14 @@
       "onboard_time": 1660540951,
       "rank": 33,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 537159,
+      "num": 537159,
+      "word": "女子从200斤逆袭成健美冠军",
+      "onboard_time": 1660560510,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537144,
@@ -1011,14 +1043,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 452608,
-      "num": 452608,
-      "word": "女子从200斤逆袭成健美冠军",
-      "onboard_time": 1660560510,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450891,
       "num": 369994,
       "word": "唐周醉酒表白",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1660554391,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427481,
+      "num": 386444,
+      "word": "街舞5首部优酷热度破万综艺",
+      "onboard_time": 1660562910,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 426533,
@@ -1291,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347798,
+      "num": 347798,
+      "word": "厦门增10例确诊病例",
+      "onboard_time": 1660562250,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346791,
       "num": 235827,
       "word": "颜淡发现唐周心意",
@@ -1315,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343379,
+      "num": 260291,
+      "word": "月升沧海",
+      "onboard_time": 1660500615,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337948,
       "num": 337948,
       "word": "石家庄疫情防控",
@@ -1335,6 +1383,14 @@
       "num": 329286,
       "word": "秘密花园定档819",
       "onboard_time": 1660542509,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327114,
+      "num": 149187,
+      "word": "冰雨火王劲松刘奕君对手戏",
+      "onboard_time": 1660563270,
       "rank": 47,
       "category": "影视"
     },
@@ -1651,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269240,
+      "num": 269240,
+      "word": "北京昌平新增一高风险区",
+      "onboard_time": 1660562190,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267516,
       "num": 267516,
       "word": "哈啰单车崩了",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1660549531,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257822,
+      "num": 257822,
+      "word": "打火机藏泡面盒底遇热水炸飞面和汤",
+      "onboard_time": 1660559910,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257308,
@@ -1755,14 +1827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248843,
-      "num": 248843,
-      "word": "北京昌平新增一高风险区",
-      "onboard_time": 1660562190,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247850,
       "num": 247850,
       "word": "成都游客河道中打麻将被劝离",
@@ -1785,14 +1849,6 @@
       "onboard_time": 1660543290,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 236296,
-      "num": 222580,
-      "word": "日本民众举行反战示威游行",
-      "onboard_time": 1660561830,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 234920,
@@ -1843,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224529,
-      "num": 224529,
-      "word": "打火机藏泡面盒底遇热水炸飞面和汤",
-      "onboard_time": 1660559910,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222903,
       "num": 179749,
       "word": "父母做保姆会让你自卑吗",
@@ -1891,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215374,
+      "num": 215374,
+      "word": "LPL夏季赛周最佳阵容",
+      "onboard_time": 1660561590,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212980,
       "num": 212980,
       "word": "新疆增确诊1例无症状343例",
@@ -1913,14 +1969,6 @@
       "onboard_time": 1660524450,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203808,
-      "num": 203808,
-      "word": "LPL夏季赛周最佳阵容",
-      "onboard_time": 1660561590,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 203654,
@@ -2059,20 +2107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164328,
+      "num": 164328,
+      "word": "夏天为什么还不结束",
+      "onboard_time": 1660562910,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164097,
+      "num": 164097,
+      "word": "90后姑娘为80岁外婆拍时尚大片",
+      "onboard_time": 1660562910,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162800,
       "num": 162800,
       "word": "研究称运动不能弥补不良饮食",
       "onboard_time": 1660556251,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 161211,
-      "num": 161211,
-      "word": "厦门增10例确诊病例",
-      "onboard_time": 1660562250,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159756,
@@ -2105,6 +2161,14 @@
       "onboard_time": 1660472793,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146510,
+      "num": 146510,
+      "word": "南京的仙人掌也撑不住了",
+      "onboard_time": 1660563089,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 145012,
@@ -2281,14 +2345,6 @@
       "onboard_time": 1660511231,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33430,
-      "num": 33430,
-      "word": "月升沧海",
-      "onboard_time": 1660500615,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 31224,

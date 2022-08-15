@@ -1,0 +1,410 @@
+{
+  "runTime": 1660563301027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2675693,
+        "num": 2675693,
+        "word": "马思纯往车窗外丢垃圾",
+        "onboard_time": 1660559193,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1615945,
+        "num": 1615945,
+        "word": "女子街头穿和服拍照被警方带走",
+        "onboard_time": 1660561229,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24390,
+        "num": 1610004,
+        "word": "90秒致敬14年抗战史",
+        "onboard_time": 1660525470,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1609700,
+        "num": 1609700,
+        "word": "五年后的凌不疑",
+        "onboard_time": 1660560210,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1055094,
+        "num": 1055094,
+        "word": "河南2所大学入围全球1000强",
+        "onboard_time": 1660560811,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1014533,
+        "num": 1014533,
+        "word": "老太因老伴不给买零食离家出走",
+        "onboard_time": 1660555411,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931833,
+        "num": 931833,
+        "word": "四川电力供需紧张让电于民",
+        "onboard_time": 1660558171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872982,
+        "num": 872982,
+        "word": "1saye 照片",
+        "onboard_time": 1660558230,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 793818,
+        "num": 793818,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656693,
+        "num": 656693,
+        "word": "小孩溺亡涉事泳馆已关闭",
+        "onboard_time": 1660555711,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 916858,
+        "num": 647619,
+        "word": "宋昕冉",
+        "onboard_time": 1660557570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832652,
+        "num": 618193,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 790809,
+        "num": 597305,
+        "word": "王鹤棣是虞书欣的御用摄影师吧",
+        "onboard_time": 1660562430,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562134,
+        "num": 562134,
+        "word": "女子便利店买椒麻鸡全是鸡屁股",
+        "onboard_time": 1660552114,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549494,
+        "num": 549494,
+        "word": "日本民众举行反战示威游行",
+        "onboard_time": 1660561830,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 537159,
+        "num": 537159,
+        "word": "女子从200斤逆袭成健美冠军",
+        "onboard_time": 1660560510,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473217,
+        "num": 473217,
+        "word": "湖南一男童游泳池挣扎1分钟后溺亡",
+        "onboard_time": 1660554510,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 440915,
+        "num": 440915,
+        "word": "人一旦戴上了运动手表",
+        "onboard_time": 1660550551,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410014,
+        "num": 410014,
+        "word": "赵睿收到澳大利亚球队报价",
+        "onboard_time": 1660559372,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399911,
+        "num": 399911,
+        "word": "东部战区实战化演练现场视频",
+        "onboard_time": 1660557691,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648533,
+        "num": 399494,
+        "word": "鹿晗毛雪汪预告",
+        "onboard_time": 1660558649,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664604,
+        "num": 394028,
+        "word": "玉骨遥将接档月升沧海",
+        "onboard_time": 1660563089,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438497,
+        "num": 391108,
+        "word": "段艺璇发言",
+        "onboard_time": 1660559372,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427481,
+        "num": 386444,
+        "word": "街舞5首部优酷热度破万综艺",
+        "onboard_time": 1660562910,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384743,
+        "num": 384743,
+        "word": "为什么吃冰西瓜容易拉肚子",
+        "onboard_time": 1660554391,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381816,
+        "num": 381816,
+        "word": "三星堆发现第一件带翅膀神兽",
+        "onboard_time": 1660556669,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347798,
+        "num": 347798,
+        "word": "厦门增10例确诊病例",
+        "onboard_time": 1660562250,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321586,
+        "num": 321586,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269240,
+        "num": 269240,
+        "word": "北京昌平新增一高风险区",
+        "onboard_time": 1660562190,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263071,
+        "num": 263071,
+        "word": "朋友结婚男子扛84斤硬币随礼",
+        "onboard_time": 1660551511,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360933,
+        "num": 262279,
+        "word": "网传下半年电视剧备播时间表",
+        "onboard_time": 1660552411,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360453,
+        "num": 261997,
+        "word": "今年古偶男主的颜值",
+        "onboard_time": 1660554451,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343379,
+        "num": 260291,
+        "word": "月升沧海",
+        "onboard_time": 1660562849,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257822,
+        "num": 257822,
+        "word": "打火机藏泡面盒底遇热水炸飞面和汤",
+        "onboard_time": 1660559910,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221865,
+        "num": 221865,
+        "word": "这西瓜比我都重",
+        "onboard_time": 1660557147,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329895,
+        "num": 220118,
+        "word": "颜淡发现唐周心意",
+        "onboard_time": 1660561529,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215374,
+        "num": 215374,
+        "word": "LPL夏季赛周最佳阵容",
+        "onboard_time": 1660561590,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199520,
+        "num": 199520,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190820,
+        "num": 190820,
+        "word": "白马拉游客上山体力不支倒地",
+        "onboard_time": 1660558771,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 185741,
+        "num": 185741,
+        "word": "TTG 九尾",
+        "onboard_time": 1660552171,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174335,
+        "num": 174335,
+        "word": "北京丰台新增病例判定密接73人",
+        "onboard_time": 1660556791,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173516,
+        "num": 173516,
+        "word": "iPhone14或仍有刘海",
+        "onboard_time": 1660547249,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172361,
+        "num": 172361,
+        "word": "大象用鼻子还回游客掉入象园的鞋",
+        "onboard_time": 1660550490,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169534,
+        "num": 169534,
+        "word": "李清照诗词照进现实了",
+        "onboard_time": 1660560450,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164328,
+        "num": 164328,
+        "word": "夏天为什么还不结束",
+        "onboard_time": 1660562910,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164097,
+        "num": 164097,
+        "word": "90后姑娘为80岁外婆拍时尚大片",
+        "onboard_time": 1660562910,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149839,
+        "num": 149839,
+        "word": "猴痘病毒出现首例人传狗",
+        "onboard_time": 1660548692,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327114,
+        "num": 149187,
+        "word": "冰雨火王劲松刘奕君对手戏",
+        "onboard_time": 1660563270,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147910,
+        "num": 147910,
+        "word": "北京今日一新增病例隐瞒行程被立案",
+        "onboard_time": 1660555530,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "南京的仙人掌也撑不住了",
+        "onboard_time": 1660563089,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席看世界#"
+    }
+  }
+}
