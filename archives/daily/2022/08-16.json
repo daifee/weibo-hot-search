@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660582686426,
+  "endTime": 1660584458212,
   "band_list": [
     {
       "raw_hot": 1218466,
@@ -75,6 +75,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 752934,
+      "num": 752934,
+      "word": "鹿晗说在学校当风云人物的感觉",
+      "onboard_time": 1660582402,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 714765,
+      "num": 714765,
+      "word": "云南书记要求反思游客为什么不来",
+      "onboard_time": 1660581204,
+      "rank": 10,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 688029,
       "num": 688029,
       "word": "西安疫情防控",
@@ -147,12 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346128,
-      "num": 346128,
-      "word": "云南书记要求反思游客为什么不来",
-      "onboard_time": 1660581204,
+      "raw_hot": 310862,
+      "num": 310862,
+      "word": "东方青苍小兰花吵架好默契",
+      "onboard_time": 1660583660,
       "rank": 10,
-      "category": "社会新闻,旅游"
+      "category": "影视"
     },
     {
       "raw_hot": 301461,
@@ -227,14 +243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228163,
-      "num": 144691,
-      "word": "鹿晗说在学校当风云人物的感觉",
-      "onboard_time": 1660582402,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225609,
       "num": 225609,
       "word": "一条瑜伽裤承受了太多",
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189305,
+      "num": 132473,
+      "word": "郭晓婷说今晚先宠哪个小可爱",
+      "onboard_time": 1660581683,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "浙江卫视818晚会官宣首波阵容",
@@ -329,14 +345,6 @@
       "onboard_time": 1660578629,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 157830,
-      "num": 132473,
-      "word": "郭晓婷说今晚先宠哪个小可爱",
-      "onboard_time": 1660581683,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 134630,
@@ -427,11 +435,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85614,
+      "num": 71416,
+      "word": "程少商退婚后的五年",
+      "onboard_time": 1660551570,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 74479,
       "num": 74479,
       "word": "90后姑娘为80岁外婆拍时尚大片",
       "onboard_time": 1660562910,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43359,
+      "num": 43359,
+      "word": "高温也卷起来了",
+      "onboard_time": 1660581263,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],
