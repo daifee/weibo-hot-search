@@ -1,0 +1,410 @@
+{
+  "runTime": 1660548968379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847499,
+        "num": 1847499,
+        "word": "龙线虫",
+        "onboard_time": 1660538433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354618,
+        "num": 1354618,
+        "word": "彭州山洪被困父子父亲已获救",
+        "onboard_time": 1660543892,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322111,
+        "num": 1308063,
+        "word": "三伏天就快过去了",
+        "onboard_time": 1660521325,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266924,
+        "num": 1266924,
+        "word": "东部战区位台岛周边实战化演练",
+        "onboard_time": 1660547367,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244448,
+        "num": 1244448,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123986,
+        "num": 1123986,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1040826,
+        "num": 1040826,
+        "word": "iPhone14或仍有刘海",
+        "onboard_time": 1660547249,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 829585,
+        "num": 829585,
+        "word": "王鹤棣去年古偶丑男今年古偶美男",
+        "onboard_time": 1660538974,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730028,
+        "num": 730028,
+        "word": "iPhone年年焕新改为3到13个月",
+        "onboard_time": 1660540052,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 693049,
+        "num": 693049,
+        "word": "开车碾压草场辱骂牧民游客道歉",
+        "onboard_time": 1660543111,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1318875,
+        "num": 690148,
+        "word": "林青霞 你是姐的宝贝蛋",
+        "onboard_time": 1660545329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630615,
+        "num": 630615,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615179,
+        "num": 615179,
+        "word": "颜淡吃的不是醋是可爱多",
+        "onboard_time": 1660547550,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603998,
+        "num": 603998,
+        "word": "赵露思帮吴磊擦汗",
+        "onboard_time": 1660547129,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544583,
+        "num": 544583,
+        "word": "张常宁发长文回应伤病质疑",
+        "onboard_time": 1660541910,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533476,
+        "num": 533476,
+        "word": "四川多地水域疑似出现龙线虫",
+        "onboard_time": 1660542868,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527226,
+        "num": 527226,
+        "word": "遇龙",
+        "onboard_time": 1660542689,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505781,
+        "num": 505781,
+        "word": "国防部回应美国国会议员窜台",
+        "onboard_time": 1660547489,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 485072,
+        "num": 485072,
+        "word": "日本首相向靖国神社供奉玉串料",
+        "onboard_time": 1660537051,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 481288,
+        "num": 481288,
+        "word": "虞书欣甜辣gwalla直拍",
+        "onboard_time": 1660544550,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539279,
+        "num": 470680,
+        "word": "杨幂刘诗诗Angelababy红毯旧照",
+        "onboard_time": 1660541910,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450977,
+        "num": 450977,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443112,
+        "num": 443112,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436202,
+        "num": 436202,
+        "word": "博物馆回应男孩指出八卦图画错了",
+        "onboard_time": 1660546530,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431759,
+        "num": 431759,
+        "word": "专家回应四川疑现龙线虫",
+        "onboard_time": 1660545207,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427657,
+        "num": 427657,
+        "word": "江苏回应海南开放航班限制公函",
+        "onboard_time": 1660547790,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407275,
+        "num": 407275,
+        "word": "冰雨火终于等来了刘奕君",
+        "onboard_time": 1660544970,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391129,
+        "num": 391129,
+        "word": "王祖蓝给李亚男提裙子好像花童",
+        "onboard_time": 1660539692,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370674,
+        "num": 370674,
+        "word": "7旬老人打封闭针挖枸杞根救病孙",
+        "onboard_time": 1660540769,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336348,
+        "num": 336348,
+        "word": "男子吃冰西瓜腹泻数日致尿毒症",
+        "onboard_time": 1660536687,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327468,
+        "num": 327468,
+        "word": "潜逃22年嫌犯被济南警察吓到自首",
+        "onboard_time": 1660541130,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324396,
+        "num": 324396,
+        "word": "如何看待年轻人看展式社交",
+        "onboard_time": 1660546350,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323190,
+        "num": 323190,
+        "word": "仙魔下凡追剧中",
+        "onboard_time": 1660548869,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308495,
+        "num": 308495,
+        "word": "断桥豆瓣评分6.3分",
+        "onboard_time": 1660537833,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297258,
+        "num": 297258,
+        "word": "16至24岁人口调查失业率升至19.9%",
+        "onboard_time": 1660540951,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 276659,
+        "num": 276659,
+        "word": "周五周六18城饿了么免单",
+        "onboard_time": 1660545689,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 262361,
+        "num": 262361,
+        "word": "年轻人为何抵触体检",
+        "onboard_time": 1660540891,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 260437,
+        "num": 260437,
+        "word": "西藏边防战士急流中喊相信我",
+        "onboard_time": 1660543350,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250567,
+        "num": 250567,
+        "word": "降息",
+        "onboard_time": 1660538194,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224822,
+        "num": 224822,
+        "word": "织布机",
+        "onboard_time": 1660544850,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224222,
+        "num": 224222,
+        "word": "晨艺衣柜里有100多件衬衣",
+        "onboard_time": 1660546350,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213066,
+        "num": 213066,
+        "word": "郭晓婷演的谢惋卿",
+        "onboard_time": 1660547489,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198068,
+        "num": 198068,
+        "word": "陈宇有多爱吃醋",
+        "onboard_time": 1660545030,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193390,
+        "num": 193390,
+        "word": "房地产市场当前整体处于筑底阶段",
+        "onboard_time": 1660541311,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "白宫回应拜登支持率创历史新低",
+        "onboard_time": 1660539213,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 177690,
+        "num": 177690,
+        "word": "7旬大爷为追星1小时被骗4.6万",
+        "onboard_time": 1660536991,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176181,
+        "num": 176181,
+        "word": "曾凡博将代表北京男篮出战CBA",
+        "onboard_time": 1660546288,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170775,
+        "num": 170775,
+        "word": "新研究证明薛定谔错了",
+        "onboard_time": 1660542631,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 162001,
+        "num": 162001,
+        "word": "猴痘病毒出现首例人传狗",
+        "onboard_time": 1660548692,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150214,
+        "num": 150214,
+        "word": "被吃苹果的小熊猫可爱到了",
+        "onboard_time": 1660548930,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

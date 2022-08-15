@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660547991651,
+  "endTime": 1660548968379,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1354618,
+      "num": 1354618,
+      "word": "彭州山洪被困父子父亲已获救",
+      "onboard_time": 1660543892,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1349020,
       "num": 1349020,
       "word": "日本终战诏书绝口不提投降",
@@ -179,11 +187,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1275623,
-      "num": 1275623,
-      "word": "彭州山洪被困父子父亲已获救",
-      "onboard_time": 1660543892,
-      "rank": 16,
+      "raw_hot": 1266924,
+      "num": 1266924,
+      "word": "东部战区位台岛周边实战化演练",
+      "onboard_time": 1660547367,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1123986,
+      "num": 1123986,
+      "word": "特朗普若当选总统或将搜查拜登住宅",
+      "onboard_time": 1660545629,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1106441,
       "num": 1106441,
       "word": "高速上猪从货车跳下摔死",
@@ -265,6 +281,14 @@
       "onboard_time": 1660536086,
       "rank": 27,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1040826,
+      "num": 1040826,
+      "word": "iPhone14或仍有刘海",
+      "onboard_time": 1660547249,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 1037520,
@@ -347,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 928139,
-      "num": 928139,
-      "word": "特朗普若当选总统或将搜查拜登住宅",
-      "onboard_time": 1660545629,
-      "rank": 44,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 805773,
       "num": 805773,
       "word": "沈腾马丽年度最受欢迎演员",
@@ -433,6 +449,30 @@
       "onboard_time": 1660528529,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630615,
+      "num": 630615,
+      "word": "8种癌容易遗传下一代",
+      "onboard_time": 1660547129,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615179,
+      "num": 615179,
+      "word": "颜淡吃的不是醋是可爱多",
+      "onboard_time": 1660547550,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 603998,
+      "num": 603998,
+      "word": "赵露思帮吴磊擦汗",
+      "onboard_time": 1660547129,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 568664,
@@ -579,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 505591,
-      "num": 505591,
-      "word": "颜淡吃的不是醋是可爱多",
-      "onboard_time": 1660547550,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 505781,
+      "num": 505781,
+      "word": "国防部回应美国国会议员窜台",
+      "onboard_time": 1660547489,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 501715,
@@ -611,14 +651,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 486021,
-      "num": 429308,
-      "word": "赵露思帮吴磊擦汗",
-      "onboard_time": 1660547129,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481440,
       "num": 481440,
       "word": "李冰冰天爱微博电影之夜后台合影",
@@ -632,14 +664,6 @@
       "word": "专家回应四川疑现龙线虫",
       "onboard_time": 1660545207,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478800,
-      "num": 478800,
-      "word": "东部战区位台岛周边实战化演练",
-      "onboard_time": 1660547367,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -723,12 +747,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443112,
+      "num": 443112,
+      "word": "韩国民众当街表演痛打日军",
+      "onboard_time": 1660547971,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438100,
       "num": 438100,
       "word": "范丞丞Wonderland爆裂朋克封面大片",
       "onboard_time": 1660535009,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 436202,
+      "num": 436202,
+      "word": "博物馆回应男孩指出八卦图画错了",
+      "onboard_time": 1660546530,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427657,
+      "num": 427657,
+      "word": "江苏回应海南开放航班限制公函",
+      "onboard_time": 1660547790,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426533,
@@ -761,14 +809,6 @@
       "onboard_time": 1660537473,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384562,
-      "num": 384562,
-      "word": "iPhone14或仍有刘海",
-      "onboard_time": 1660547249,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 384359,
@@ -923,6 +963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323190,
+      "num": 323190,
+      "word": "仙魔下凡追剧中",
+      "onboard_time": 1660548869,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322343,
       "num": 321005,
       "word": "苍兰诀",
@@ -1035,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298051,
-      "num": 298051,
-      "word": "博物馆回应男孩指出八卦图画错了",
-      "onboard_time": 1660546530,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297202,
       "num": 297202,
       "word": "胡一天张云龙柯南体质",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1660540891,
       "rank": 39,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 296444,
-      "num": 296444,
-      "word": "8种癌容易遗传下一代",
-      "onboard_time": 1660547129,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294631,
@@ -1087,14 +1119,6 @@
       "num": 290401,
       "word": "七旬爷爷跑遍800个古村为老人拍照",
       "onboard_time": 1660535489,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290387,
-      "num": 290387,
-      "word": "江苏回应海南开放航班限制公函",
-      "onboard_time": 1660547790,
       "rank": 33,
       "category": "社会新闻"
     },
@@ -1257,14 +1281,6 @@
       "onboard_time": 1660518981,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243075,
-      "num": 243075,
-      "word": "国防部回应美国国会议员窜台",
-      "onboard_time": 1660547489,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 236617,
@@ -1475,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162001,
+      "num": 162001,
+      "word": "猴痘病毒出现首例人传狗",
+      "onboard_time": 1660548692,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158288,
       "num": 158288,
       "word": "石家庄二中耐高夺冠",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1660472793,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150214,
+      "num": 150214,
+      "word": "被吃苹果的小熊猫可爱到了",
+      "onboard_time": 1660548930,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 145012,
@@ -1537,14 +1569,6 @@
       "onboard_time": 1660488154,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129299,
-      "num": 129299,
-      "word": "韩国民众当街表演痛打日军",
-      "onboard_time": 1660547971,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120915,
