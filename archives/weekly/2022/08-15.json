@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660598379131,
+  "endTime": 1660599440526,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -2939,6 +2939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 79078,
+      "num": 56318,
+      "word": "房贷利率有望再度下调",
+      "onboard_time": 1660596612,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77549,
       "num": 77549,
       "word": "不一定看过剧却听过的那些OST",
@@ -2963,19 +2971,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 53996,
+      "num": 53996,
+      "word": "辉瑞CEO称已开始服用该公司新冠药",
+      "onboard_time": 1660595651,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "高温也卷起来了",
       "onboard_time": 1660581263,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42893,
-      "num": 42893,
-      "word": "房贷利率有望再度下调",
-      "onboard_time": 1660596612,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -3019,11 +3027,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 30534,
-      "num": 30534,
-      "word": "辉瑞CEO称已开始服用该公司新冠药",
-      "onboard_time": 1660595651,
-      "rank": 47,
+      "raw_hot": 28092,
+      "num": 28092,
+      "word": "3人海钓船被掀翻36小时后获救",
+      "onboard_time": 1660597451,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -3035,16 +3043,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16099,
-      "num": 16099,
-      "word": "3人海钓船被掀翻36小时后获救",
-      "onboard_time": 1660597451,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14249,
-      "num": 14249,
+      "raw_hot": 17009,
+      "num": 17009,
       "word": "街舞5队长大秀练舞花絮",
       "onboard_time": 1660595831,
       "rank": 49,
