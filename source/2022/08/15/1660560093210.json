@@ -1,0 +1,410 @@
+{
+  "runTime": 1660560093210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1924849,
+        "num": 1924849,
+        "word": "老太因老伴不给买零食离家出走",
+        "onboard_time": 1660555411,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402329,
+        "num": 1402329,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22542,
+        "num": 1263983,
+        "word": "90秒致敬14年抗战史",
+        "onboard_time": 1660525470,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2938727,
+        "num": 1246967,
+        "word": "马思纯往车窗外丢垃圾",
+        "onboard_time": 1660559193,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135238,
+        "num": 1135238,
+        "word": "小孩溺亡涉事泳馆已关闭",
+        "onboard_time": 1660555711,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1091365,
+        "num": 1091365,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940621,
+        "num": 940621,
+        "word": "鹿晗毛雪汪预告",
+        "onboard_time": 1660558649,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866140,
+        "num": 866140,
+        "word": "女子便利店买椒麻鸡全是鸡屁股",
+        "onboard_time": 1660552114,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789960,
+        "num": 789960,
+        "word": "四川电力供需紧张让电于民",
+        "onboard_time": 1660558171,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584446,
+        "num": 584446,
+        "word": "人一旦戴上了运动手表",
+        "onboard_time": 1660550551,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1109022,
+        "num": 582154,
+        "word": "宋昕冉",
+        "onboard_time": 1660557570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 865244,
+        "num": 577166,
+        "word": "网传下半年电视剧备播时间表",
+        "onboard_time": 1660552411,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818062,
+        "num": 572942,
+        "word": "湖南一男童游泳池挣扎1分钟后溺亡",
+        "onboard_time": 1660554510,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 806161,
+        "num": 565223,
+        "word": "1saye 照片",
+        "onboard_time": 1660558230,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 563365,
+        "num": 563365,
+        "word": "东部战区实战化演练现场视频",
+        "onboard_time": 1660557691,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483680,
+        "num": 483680,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470081,
+        "num": 470081,
+        "word": "三星堆发现第一件带翅膀神兽",
+        "onboard_time": 1660556669,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409865,
+        "num": 409865,
+        "word": "为什么吃冰西瓜容易拉肚子",
+        "onboard_time": 1660554391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358578,
+        "num": 358578,
+        "word": "朋友结婚男子扛84斤硬币随礼",
+        "onboard_time": 1660551511,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317160,
+        "num": 317160,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 686081,
+        "num": 315989,
+        "word": "段艺璇发言",
+        "onboard_time": 1660559372,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568563,
+        "num": 313832,
+        "word": "今年古偶男主的颜值",
+        "onboard_time": 1660554451,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456047,
+        "num": 312224,
+        "word": "杨戬",
+        "onboard_time": 1660551632,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426522,
+        "num": 311109,
+        "word": "于文文消失的孩子",
+        "onboard_time": 1660550669,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309298,
+        "num": 309298,
+        "word": "猴痘病毒出现首例人传狗",
+        "onboard_time": 1660548692,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304395,
+        "num": 304395,
+        "word": "北京今日一新增病例隐瞒行程被立案",
+        "onboard_time": 1660555530,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296276,
+        "num": 296276,
+        "word": "特斯拉上海工厂团队99.9%为中国人",
+        "onboard_time": 1660553912,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288575,
+        "num": 288575,
+        "word": "TTG 九尾",
+        "onboard_time": 1660552171,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286527,
+        "num": 286527,
+        "word": "龙线虫",
+        "onboard_time": 1660538433,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285924,
+        "num": 285924,
+        "word": "陕西3所高校跻身世界500强",
+        "onboard_time": 1660554992,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 422285,
+        "num": 285834,
+        "word": "成毅 唐周触发心动警告",
+        "onboard_time": 1660559910,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412191,
+        "num": 285519,
+        "word": "六公主视角下的朱一龙",
+        "onboard_time": 1660556669,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284899,
+        "num": 284899,
+        "word": "这西瓜比我都重",
+        "onboard_time": 1660557147,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354814,
+        "num": 281881,
+        "word": "邢昭林把眼镜焊在脸上吧",
+        "onboard_time": 1660558833,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277422,
+        "num": 277422,
+        "word": "中国女排世锦赛22人大名单",
+        "onboard_time": 1660558052,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243253,
+        "num": 243253,
+        "word": "白马拉游客上山体力不支倒地",
+        "onboard_time": 1660558771,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 240267,
+        "num": 240267,
+        "word": "赵睿收到澳大利亚球队报价",
+        "onboard_time": 1660559372,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230521,
+        "num": 230521,
+        "word": "大象用鼻子还回游客掉入象园的鞋",
+        "onboard_time": 1660550490,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218012,
+        "num": 218012,
+        "word": "iPhone14或仍有刘海",
+        "onboard_time": 1660547249,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217311,
+        "num": 217311,
+        "word": "北京丰台新增病例判定密接73人",
+        "onboard_time": 1660556791,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344369,
+        "num": 215411,
+        "word": "唐周问颜淡想嫁给谁",
+        "onboard_time": 1660559612,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259900,
+        "num": 214958,
+        "word": "陈晓王一博拍完冰雨火互送礼物",
+        "onboard_time": 1660552594,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199650,
+        "num": 199650,
+        "word": "AirPodsPro2查找时有声音",
+        "onboard_time": 1660550669,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193728,
+        "num": 193728,
+        "word": "彭州山洪被困父子父亲已获救",
+        "onboard_time": 1660543892,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170793,
+        "num": 170793,
+        "word": "孙颖莎 成都",
+        "onboard_time": 1660552712,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163884,
+        "num": 163884,
+        "word": "北京新增4例京外关联本土感染者",
+        "onboard_time": 1660552952,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158338,
+        "num": 158338,
+        "word": "731部队的恶魔兄弟",
+        "onboard_time": 1660551031,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 146189,
+        "num": 146189,
+        "word": "打火机藏泡面盒底遇热水炸飞面和汤",
+        "onboard_time": 1660559910,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144601,
+        "num": 144601,
+        "word": "iPhone年年焕新改为3到13个月",
+        "onboard_time": 1660540052,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135048,
+        "num": 135048,
+        "word": "东部战区位台岛周边实战化演练",
+        "onboard_time": 1660547367,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设生态文明功在当代利在千秋#"
+    }
+  }
+}

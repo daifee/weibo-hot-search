@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660559110469,
+  "endTime": 1660560093210,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -25,6 +25,14 @@
       "onboard_time": 1660538433,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2938727,
+      "num": 1246967,
+      "word": "马思纯往车窗外丢垃圾",
+      "onboard_time": 1660559193,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2883607,
@@ -65,6 +73,14 @@
       "onboard_time": 1660541910,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1924849,
+      "num": 1924849,
+      "word": "老太因老伴不给买零食离家出走",
+      "onboard_time": 1660555411,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1924649,
@@ -113,14 +129,6 @@
       "onboard_time": 1660545329,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1547402,
-      "num": 1547402,
-      "word": "老太因老伴不给买零食离家出走",
-      "onboard_time": 1660555411,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1545680,
@@ -307,8 +315,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1135238,
+      "num": 1135238,
+      "word": "小孩溺亡涉事泳馆已关闭",
+      "onboard_time": 1660555711,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1127487,
-      "num": 549726,
+      "num": 582154,
       "word": "宋昕冉",
       "onboard_time": 1660557570,
       "rank": 10,
@@ -337,14 +353,6 @@
       "onboard_time": 1660530929,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1082358,
-      "num": 1082358,
-      "word": "小孩溺亡涉事泳馆已关闭",
-      "onboard_time": 1660555711,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1071293,
@@ -459,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 940621,
+      "num": 940621,
+      "word": "鹿晗毛雪汪预告",
+      "onboard_time": 1660558649,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938413,
       "num": 938413,
       "word": "四川多地水域疑似出现龙线虫",
@@ -483,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 806161,
+      "num": 655047,
+      "word": "1saye 照片",
+      "onboard_time": 1660558230,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 805773,
       "num": 805773,
       "word": "沈腾马丽年度最受欢迎演员",
@@ -496,6 +520,14 @@
       "word": "北京新增4例京外关联本土感染者",
       "onboard_time": 1660552952,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789960,
+      "num": 789960,
+      "word": "四川电力供需紧张让电于民",
+      "onboard_time": 1660558171,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686081,
+      "num": 315989,
+      "word": "段艺璇发言",
+      "onboard_time": 1660559372,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677046,
       "num": 677046,
       "word": "陈晓王一博拍完冰雨火互送礼物",
@@ -577,14 +617,6 @@
       "onboard_time": 1660501573,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655047,
-      "num": 655047,
-      "word": "1saye 照片",
-      "onboard_time": 1660558230,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 654819,
@@ -635,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 580040,
-      "num": 545461,
-      "word": "鹿晗毛雪汪预告",
-      "onboard_time": 1660558649,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 568664,
       "num": 568664,
       "word": "爸爸用现代衣裤为儿子装扮古装",
@@ -656,6 +680,14 @@
       "word": "1945年8月15日值得永远铭记",
       "onboard_time": 1660518681,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563365,
+      "num": 563365,
+      "word": "东部战区实战化演练现场视频",
+      "onboard_time": 1660557691,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -713,14 +745,6 @@
       "onboard_time": 1660539155,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 544651,
-      "num": 544651,
-      "word": "东部战区实战化演练现场视频",
-      "onboard_time": 1660557691,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543826,
@@ -899,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470081,
+      "num": 470081,
+      "word": "三星堆发现第一件带翅膀神兽",
+      "onboard_time": 1660556669,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468976,
       "num": 468976,
       "word": "大象用鼻子还回游客掉入象园的鞋",
@@ -995,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 442371,
-      "num": 442371,
-      "word": "四川电力供需紧张让电于民",
-      "onboard_time": 1660558171,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438100,
       "num": 438100,
       "word": "范丞丞Wonderland爆裂朋克封面大片",
@@ -1019,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427491,
-      "num": 427491,
-      "word": "三星堆发现第一件带翅膀神兽",
-      "onboard_time": 1660556669,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426533,
       "num": 426533,
       "word": "米卡感谢刘雨昕帮自己翻译",
@@ -1040,6 +1056,14 @@
       "word": "最让你惊艳的女明星红毯造型",
       "onboard_time": 1660554809,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422285,
+      "num": 285834,
+      "word": "成毅 唐周触发心动警告",
+      "onboard_time": 1660559910,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1187,6 +1211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 354814,
+      "num": 281881,
+      "word": "邢昭林把眼镜焊在脸上吧",
+      "onboard_time": 1660558833,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353804,
       "num": 353804,
       "word": "每一个中国人都应铭记今天",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1660550850,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344369,
+      "num": 215411,
+      "word": "唐周问颜淡想嫁给谁",
+      "onboard_time": 1660559612,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 344010,
@@ -1411,14 +1451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296595,
-      "num": 280328,
-      "word": "邢昭林把眼镜焊在脸上吧",
-      "onboard_time": 1660558833,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296544,
       "num": 296544,
       "word": "年轻人为何抵触体检",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1660481555,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 285924,
+      "num": 285924,
+      "word": "陕西3所高校跻身世界500强",
+      "onboard_time": 1660554992,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 285506,
@@ -1515,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277422,
+      "num": 277422,
+      "word": "中国女排世锦赛22人大名单",
+      "onboard_time": 1660558052,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276734,
       "num": 276734,
       "word": "上海新增1例本土确诊5例本土无症状",
@@ -1539,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273748,
-      "num": 273748,
-      "word": "陕西3所高校跻身世界500强",
-      "onboard_time": 1660554992,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 267516,
       "num": 267516,
       "word": "哈啰单车崩了",
@@ -1561,14 +1601,6 @@
       "onboard_time": 1660537231,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 267109,
-      "num": 267109,
-      "word": "中国女排世锦赛22人大名单",
-      "onboard_time": 1660558052,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 264973,
@@ -1665,6 +1697,22 @@
       "onboard_time": 1660518981,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243253,
+      "num": 243253,
+      "word": "白马拉游客上山体力不支倒地",
+      "onboard_time": 1660558771,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 240267,
+      "num": 240267,
+      "word": "赵睿收到澳大利亚球队报价",
+      "onboard_time": 1660559372,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 236617,
@@ -1875,14 +1923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176612,
-      "num": 176612,
-      "word": "白马拉游客上山体力不支倒地",
-      "onboard_time": 1660558771,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 176053,
       "num": 176053,
       "word": "LPL季后赛赛程",
@@ -1960,6 +2000,14 @@
       "word": "重庆热成全国第一",
       "onboard_time": 1660472793,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146189,
+      "num": 146189,
+      "word": "打火机藏泡面盒底遇热水炸飞面和汤",
+      "onboard_time": 1660559910,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
