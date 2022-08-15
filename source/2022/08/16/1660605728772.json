@@ -1,0 +1,410 @@
+{
+  "runTime": 1660605728772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007582,
+        "num": 1007582,
+        "word": "女子高温天买活虾到家熟透6只",
+        "onboard_time": 1660578809,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973422,
+        "num": 973422,
+        "word": "云南书记要求反思游客为什么不来",
+        "onboard_time": 1660581204,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 251672,
+        "num": 640979,
+        "word": "三星堆发现第一件带翅膀神兽",
+        "onboard_time": 1660556669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607274,
+        "num": 607274,
+        "word": "张艺兴发长文感谢中国街舞",
+        "onboard_time": 1660573831,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590491,
+        "num": 590491,
+        "word": "爸爸数落女儿后求牵手被拒",
+        "onboard_time": 1660578147,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586898,
+        "num": 586898,
+        "word": "鹿晗说在学校当风云人物的感觉",
+        "onboard_time": 1660582402,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482471,
+        "num": 482471,
+        "word": "女子新房阁楼墙遭邻居砸穿想共用",
+        "onboard_time": 1660574073,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444582,
+        "num": 444582,
+        "word": "杭州西湖游客中暑事件频发",
+        "onboard_time": 1660589772,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 370046,
+        "num": 370046,
+        "word": "网友做的暑期新剧鄙视链图",
+        "onboard_time": 1660573533,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304143,
+        "num": 304143,
+        "word": "江苏体彩1000万大奖急寻中奖者",
+        "onboard_time": 1660577251,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331768,
+        "num": 303767,
+        "word": "虞书欣王鹤棣苍兰诀双人直播",
+        "onboard_time": 1660604959,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302966,
+        "num": 302966,
+        "word": "女子打了一个喷嚏腰椎骨折不自知",
+        "onboard_time": 1660586054,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291310,
+        "num": 291310,
+        "word": "网购香猪不足一年长到140斤",
+        "onboard_time": 1660570652,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276934,
+        "num": 276934,
+        "word": "招办回应录取通知书英文单词出错",
+        "onboard_time": 1660604598,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276085,
+        "num": 276085,
+        "word": "沈腾两口气做了10个俯卧撑",
+        "onboard_time": 1660599492,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216228,
+        "num": 216228,
+        "word": "苏州疫情防控",
+        "onboard_time": 1660577716,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205330,
+        "num": 205330,
+        "word": "房贷利率有望再度下调",
+        "onboard_time": 1660596612,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200721,
+        "num": 200721,
+        "word": "五年后的凌不疑",
+        "onboard_time": 1660560210,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200402,
+        "num": 200402,
+        "word": "女子从200斤逆袭成健美冠军",
+        "onboard_time": 1660560510,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200062,
+        "num": 200062,
+        "word": "为何那么多月饼标价499元",
+        "onboard_time": 1660575152,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560278,
+        "num": 199976,
+        "word": "ESO全员改名",
+        "onboard_time": 1660572035,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 351576,
+        "num": 199448,
+        "word": "马思纯微博评论区画风",
+        "onboard_time": 1660570232,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251518,
+        "num": 199139,
+        "word": "女子街头穿和服拍照被警方带走",
+        "onboard_time": 1660561229,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245702,
+        "num": 198558,
+        "word": "胡锡进谈女孩穿和服被带走",
+        "onboard_time": 1660568130,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198522,
+        "num": 198522,
+        "word": "西安疫情防控",
+        "onboard_time": 1660577488,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177779,
+        "num": 177779,
+        "word": "东方青苍小兰花吵架好默契",
+        "onboard_time": 1660583660,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158362,
+        "num": 158362,
+        "word": "北京二季度平均月薪14252元",
+        "onboard_time": 1660569330,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152227,
+        "num": 152227,
+        "word": "日本民众举行反战示威游行",
+        "onboard_time": 1660561830,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 149210,
+        "num": 149210,
+        "word": "42度都排不上全国高温前10",
+        "onboard_time": 1660570471,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "原来社死只需要带个小孩",
+        "onboard_time": 1660569152,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171738,
+        "num": 129077,
+        "word": "周杰伦MV终于不是一个人了",
+        "onboard_time": 1660570109,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126664,
+        "num": 126664,
+        "word": "3人海钓船被掀翻36小时后获救",
+        "onboard_time": 1660597451,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121545,
+        "num": 121545,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119502,
+        "num": 119502,
+        "word": "钱七虎说中国防得住他国核打击",
+        "onboard_time": 1660573590,
+        "rank": 33,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 114626,
+        "num": 114626,
+        "word": "辉瑞CEO称已开始服用该公司新冠药",
+        "onboard_time": 1660595651,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103190,
+        "num": 103190,
+        "word": "王俊凯说断桥给了自己很高的营养",
+        "onboard_time": 1660604659,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100502,
+        "num": 100502,
+        "word": "微信聊天对话框支持放大编辑",
+        "onboard_time": 1660571073,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 95843,
+        "num": 95843,
+        "word": "刘雨昕 三伏天的西安",
+        "onboard_time": 1660579646,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93800,
+        "num": 93800,
+        "word": "伊犁鼠兔惊现天山",
+        "onboard_time": 1660567771,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86780,
+        "num": 86780,
+        "word": "成都最高气温达到43°C",
+        "onboard_time": 1660605020,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95247,
+        "num": 84848,
+        "word": "江疏影说越长大越要有阿Q精神",
+        "onboard_time": 1660603997,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76957,
+        "num": 76957,
+        "word": "国产冰岛三文鱼来了",
+        "onboard_time": 1660569931,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85883,
+        "num": 76800,
+        "word": "高秋梓欢乐颂3演张佳宁妹妹",
+        "onboard_time": 1660585157,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76439,
+        "num": 76439,
+        "word": "一条瑜伽裤承受了太多",
+        "onboard_time": 1660572453,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75785,
+        "num": 75785,
+        "word": "为什么慢热的人大多数都单身",
+        "onboard_time": 1660564350,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70392,
+        "num": 70392,
+        "word": "Gemini还在等九尾吃饭",
+        "onboard_time": 1660573713,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67944,
+        "num": 67944,
+        "word": "辉瑞首席执行官新冠检测阳性",
+        "onboard_time": 1660569688,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65236,
+        "num": 65236,
+        "word": "为什么吃冰西瓜容易拉肚子",
+        "onboard_time": 1660554391,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59147,
+        "num": 59147,
+        "word": "新疆大叔圆梦了",
+        "onboard_time": 1660578629,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 50438,
+        "num": 50438,
+        "word": "为什么初恋的结局总是遗憾",
+        "onboard_time": 1660576112,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持战略定力坚定做好自己的事#"
+    }
+  }
+}

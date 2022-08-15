@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/16 06:39:08
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/16 07:22:08
 </p>
 </blockquote>
 <p>
@@ -5865,6 +5865,12 @@ BLACKPINK晒睡衣照庆祝六周年（热度：979367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E4%B9%A6%E8%AE%B0%E8%A6%81%E6%B1%82%E5%8F%8D%E6%80%9D%E6%B8%B8%E5%AE%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%9D%A5%23" target="weibo">
+云南书记要求反思游客为什么不来（热度：973422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%A6%83%E6%80%BC%E4%BA%BA%23" target="weibo">
 越妃怼人（热度：973025）
 </a>
@@ -6005,12 +6011,6 @@ G7和欧盟外长的声明是现实中万恶无耻的标本（热度：968785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E5%BD%95%E5%88%B6%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%B7%AF%E9%80%8F%E5%9B%BE%23" target="weibo">
 郑秀妍录制你好星期六路透图（热度：956135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF42%E5%88%86%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E8%A2%AB%E6%8B%92%E5%BD%95%23" target="weibo">
-高考超一本线42分因心脏病被拒录（热度：956053）
 </a>
 </li>
 
