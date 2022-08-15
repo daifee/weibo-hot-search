@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660560093210,
+  "endTime": 1660562291784,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -121,6 +121,14 @@
       "onboard_time": 1660497021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1596487,
+      "num": 1596487,
+      "word": "五年后的凌不疑",
+      "onboard_time": 1660560210,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1585778,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 1127487,
-      "num": 582154,
+      "num": 760802,
       "word": "宋昕冉",
       "onboard_time": 1660557570,
       "rank": 10,
@@ -352,6 +360,14 @@
       "word": "高速上猪从货车跳下摔死",
       "onboard_time": 1660530929,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1083507,
+      "num": 1083507,
+      "word": "四川电力供需紧张让电于民",
+      "onboard_time": 1660558171,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -499,8 +515,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 806161,
-      "num": 655047,
+      "raw_hot": 846807,
+      "num": 750810,
       "word": "1saye 照片",
       "onboard_time": 1660558230,
       "rank": 8,
@@ -523,11 +539,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789960,
-      "num": 789960,
-      "word": "四川电力供需紧张让电于民",
-      "onboard_time": 1660558171,
-      "rank": 16,
+      "raw_hot": 801300,
+      "num": 801300,
+      "word": "河南2所大学入围全球1000强",
+      "onboard_time": 1660560811,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 786536,
+      "num": 786536,
+      "word": "女子街头穿和服拍照被警方带走",
+      "onboard_time": 1660561229,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 686081,
-      "num": 315989,
+      "num": 433517,
       "word": "段艺璇发言",
       "onboard_time": 1660559372,
       "rank": 20,
@@ -987,6 +1011,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 452608,
+      "num": 452608,
+      "word": "女子从200斤逆袭成健美冠军",
+      "onboard_time": 1660560510,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450891,
       "num": 369994,
       "word": "唐周醉酒表白",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1660492409,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440899,
+      "num": 440899,
+      "word": "赵睿收到澳大利亚球队报价",
+      "onboard_time": 1660559372,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 438100,
@@ -1163,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371589,
+      "num": 240405,
+      "word": "玉骨遥",
+      "onboard_time": 1660561289,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362063,
       "num": 362063,
       "word": "房地产市场当前整体处于筑底阶段",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1660550850,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346791,
+      "num": 235827,
+      "word": "颜淡发现唐周心意",
+      "onboard_time": 1660561529,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 344369,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1660544850,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 311652,
+      "num": 204272,
+      "word": "秦海璐问演员为什么要迎合市场",
+      "onboard_time": 1660561412,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 308713,
@@ -1691,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248843,
+      "num": 248843,
+      "word": "北京昌平新增一高风险区",
+      "onboard_time": 1660562190,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247850,
       "num": 247850,
       "word": "成都游客河道中打麻将被劝离",
@@ -1699,20 +1771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243253,
-      "num": 243253,
+      "raw_hot": 243838,
+      "num": 243838,
       "word": "白马拉游客上山体力不支倒地",
       "onboard_time": 1660558771,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 240267,
-      "num": 240267,
-      "word": "赵睿收到澳大利亚球队报价",
-      "onboard_time": 1660559372,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 236617,
@@ -1721,6 +1785,14 @@
       "onboard_time": 1660543290,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 236296,
+      "num": 222580,
+      "word": "日本民众举行反战示威游行",
+      "onboard_time": 1660561830,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 234920,
@@ -1771,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224529,
+      "num": 224529,
+      "word": "打火机藏泡面盒底遇热水炸飞面和汤",
+      "onboard_time": 1660559910,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222903,
       "num": 179749,
       "word": "父母做保姆会让你自卑吗",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1660473092,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217009,
+      "num": 217009,
+      "word": "李清照诗词照进现实了",
+      "onboard_time": 1660560450,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216079,
@@ -1825,6 +1913,14 @@
       "onboard_time": 1660524450,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203808,
+      "num": 203808,
+      "word": "LPL夏季赛周最佳阵容",
+      "onboard_time": 1660561590,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 203654,
@@ -1971,6 +2067,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 161211,
+      "num": 161211,
+      "word": "厦门增10例确诊病例",
+      "onboard_time": 1660562250,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159756,
       "num": 159756,
       "word": "特朗普要求FBI归还没收文件",
@@ -2000,14 +2104,6 @@
       "word": "重庆热成全国第一",
       "onboard_time": 1660472793,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146189,
-      "num": 146189,
-      "word": "打火机藏泡面盒底遇热水炸飞面和汤",
-      "onboard_time": 1660559910,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
