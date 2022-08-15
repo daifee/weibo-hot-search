@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660573358850,
+  "endTime": 1660574342111,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2065430,
+      "num": 2065430,
+      "word": "张艺兴发长文感谢中国街舞",
+      "onboard_time": 1660573831,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2051761,
       "num": 2051761,
       "word": "于文文消失的孩子",
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1614414,
+      "num": 1614414,
+      "word": "日本民众举行反战示威游行",
+      "onboard_time": 1660561830,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1609700,
       "num": 1609700,
       "word": "五年后的凌不疑",
@@ -225,14 +241,6 @@
       "onboard_time": 1660536687,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1514435,
-      "num": 1514435,
-      "word": "日本民众举行反战示威游行",
-      "onboard_time": 1660561830,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1505585,
@@ -331,6 +339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1327732,
+      "num": 1327732,
+      "word": "网购香猪不足一年长到140斤",
+      "onboard_time": 1660570652,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319444,
       "num": 1319444,
       "word": "山洪前有管理员喊我跪下来求大家",
@@ -345,6 +361,14 @@
       "onboard_time": 1660519281,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1279858,
+      "num": 1279858,
+      "word": "微信聊天对话框支持放大编辑",
+      "onboard_time": 1660571073,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 1266924,
@@ -401,14 +425,6 @@
       "onboard_time": 1660491509,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1168541,
-      "num": 1168541,
-      "word": "网购香猪不足一年长到140斤",
-      "onboard_time": 1660570652,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1168173,
@@ -667,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794021,
-      "num": 794021,
-      "word": "微信聊天对话框支持放大编辑",
-      "onboard_time": 1660571073,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 787206,
       "num": 771253,
       "word": "东方青苍自己绿了自己",
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652589,
+      "num": 652589,
+      "word": "国产冰岛三文鱼来了",
+      "onboard_time": 1660569931,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648618,
       "num": 648618,
       "word": "特斯拉上海工厂100万辆整车下线",
@@ -819,6 +835,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 604807,
+      "num": 604807,
+      "word": "彭州山洪悲剧第二天仍有游客前往",
+      "onboard_time": 1660571312,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603998,
       "num": 603998,
       "word": "赵露思帮吴磊擦汗",
@@ -833,14 +857,6 @@
       "onboard_time": 1660550011,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 593903,
-      "num": 593903,
-      "word": "国产冰岛三文鱼来了",
-      "onboard_time": 1660569931,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591690,
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496407,
+      "num": 496407,
+      "word": "原来社死只需要带个小孩",
+      "onboard_time": 1660569152,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 493690,
       "num": 359226,
       "word": "陈宇 代入了",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1660534949,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 489671,
+      "num": 1744615,
+      "word": "三星堆发现第一件带翅膀神兽",
+      "onboard_time": 1660556669,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486411,
@@ -1155,14 +1187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 470081,
-      "num": 1500159,
-      "word": "三星堆发现第一件带翅膀神兽",
-      "onboard_time": 1660556669,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468976,
       "num": 468976,
       "word": "大象用鼻子还回游客掉入象园的鞋",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1660544970,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 463293,
-      "num": 463293,
-      "word": "彭州山洪悲剧第二天仍有游客前往",
-      "onboard_time": 1660571312,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462569,
@@ -1451,6 +1467,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 374473,
+      "num": 374473,
+      "word": "42度都排不上全国高温前10",
+      "onboard_time": 1660570471,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373755,
       "num": 286679,
       "word": "成都草莓音乐节神秘嘉宾",
@@ -1480,6 +1504,14 @@
       "word": "玉骨遥",
       "onboard_time": 1660561289,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368706,
+      "num": 235187,
+      "word": "网友做的暑期新剧鄙视链图",
+      "onboard_time": 1660573533,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1545,14 +1577,6 @@
       "onboard_time": 1660482153,
       "rank": 13,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 354858,
-      "num": 354858,
-      "word": "原来社死只需要带个小孩",
-      "onboard_time": 1660569152,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 354814,
@@ -1795,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308934,
-      "num": 308934,
-      "word": "42度都排不上全国高温前10",
-      "onboard_time": 1660570471,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308713,
       "num": 308713,
       "word": "周五周六18城饿了么免单",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1660556791,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280971,
+      "num": 202407,
+      "word": "心疼杨采钰演的方芷衡",
+      "onboard_time": 1660569451,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 278775,
@@ -2123,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256011,
+      "num": 256011,
+      "word": "一条瑜伽裤承受了太多",
+      "onboard_time": 1660572453,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253800,
       "num": 229619,
       "word": "关晓彤横店野餐日vlog",
@@ -2171,6 +2203,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 239082,
+      "num": 239082,
+      "word": "钱七虎说中国防得住他国核打击",
+      "onboard_time": 1660573590,
+      "rank": 29,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 236617,
       "num": 236617,
       "word": "喊妈的人类幼崽有多好笑",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1660531288,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234824,
+      "num": 234824,
+      "word": "真后悔没有多陪伴最亲的人",
+      "onboard_time": 1660573053,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 231153,
@@ -2209,6 +2257,14 @@
       "onboard_time": 1660538974,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229918,
+      "num": 229918,
+      "word": "Gemini还在等九尾吃饭",
+      "onboard_time": 1660573713,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 228476,
@@ -2275,12 +2331,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214740,
+      "num": 214740,
+      "word": "4个动作让大脑反应更快",
+      "onboard_time": 1660572153,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 212980,
       "num": 212980,
       "word": "新疆增确诊1例无症状343例",
       "onboard_time": 1660525889,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212231,
+      "num": 212231,
+      "word": "为了它我愿意买本书",
+      "onboard_time": 1660573651,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 207758,
@@ -2305,14 +2377,6 @@
       "onboard_time": 1660490971,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202135,
-      "num": 202135,
-      "word": "真后悔没有多陪伴最亲的人",
-      "onboard_time": 1660573053,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 202090,
@@ -2355,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200829,
+      "num": 200829,
+      "word": "女子新房阁楼墙遭邻居砸穿想共用",
+      "onboard_time": 1660574073,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1660554871,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196636,
+      "num": 196636,
+      "word": "张家口疫情防控",
+      "onboard_time": 1660573352,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189228,
@@ -2395,14 +2475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183343,
-      "num": 183343,
-      "word": "4个动作让大脑反应更快",
-      "onboard_time": 1660572153,
-      "rank": 43,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 179542,
       "num": 179542,
       "word": "跳绳的正确姿势你会吗",
@@ -2419,28 +2491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176929,
-      "num": 158420,
-      "word": "张家口疫情防控",
-      "onboard_time": 1660573352,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176053,
       "num": 176053,
       "word": "LPL季后赛赛程",
       "onboard_time": 1660489292,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175545,
-      "num": 175545,
-      "word": "一条瑜伽裤承受了太多",
-      "onboard_time": 1660572453,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 172884,
