@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660591032257,
+  "endTime": 1660591979279,
   "band_list": [
     {
       "raw_hot": 1218466,
@@ -363,6 +363,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 143096,
+      "num": 143096,
+      "word": "女子打了一个喷嚏腰椎骨折不自知",
+      "onboard_time": 1660586054,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134630,
       "num": 134630,
       "word": "四川电力供需紧张让电于民",
@@ -384,14 +392,6 @@
       "word": "伊犁鼠兔惊现天山",
       "onboard_time": 1660567771,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127796,
-      "num": 127796,
-      "word": "女子打了一个喷嚏腰椎骨折不自知",
-      "onboard_time": 1660586054,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -483,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53499,
+      "num": 53499,
+      "word": "杭州西湖游客中暑事件频发",
+      "onboard_time": 1660589772,
+      "rank": 28,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "高温也卷起来了",
       "onboard_time": 1660581263,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34076,
-      "num": 34076,
-      "word": "杭州西湖游客中暑事件频发",
-      "onboard_time": 1660589772,
-      "rank": 28,
-      "category": "旅游,社会新闻"
     }
   ],
   "hotgov_list": [
