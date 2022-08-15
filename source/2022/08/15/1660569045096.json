@@ -1,0 +1,410 @@
+{
+  "runTime": 1660569045096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2982666,
+        "num": 2982666,
+        "word": "湖南新化一小学13岁女童产女",
+        "onboard_time": 1660566449,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660946,
+        "num": 1660946,
+        "word": "网传偷偷藏不住今日正式开机",
+        "onboard_time": 1660566570,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29327,
+        "num": 1503866,
+        "word": "90秒致敬14年抗战史",
+        "onboard_time": 1660525470,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1837395,
+        "num": 1473563,
+        "word": "顾客买花生不给钱摊主气急身亡",
+        "onboard_time": 1660563690,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1404723,
+        "num": 1404723,
+        "word": "女子街头穿和服拍照被警方带走",
+        "onboard_time": 1660561229,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1843064,
+        "num": 1346593,
+        "word": "马思纯往车窗外丢垃圾",
+        "onboard_time": 1660559193,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944669,
+        "num": 944669,
+        "word": "玉骨遥将接档月升沧海",
+        "onboard_time": 1660563089,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 916628,
+        "num": 916628,
+        "word": "日本民众举行反战示威游行",
+        "onboard_time": 1660561830,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 830528,
+        "num": 830528,
+        "word": "俞敏洪感谢当年北大的处分",
+        "onboard_time": 1660563929,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603417,
+        "num": 603417,
+        "word": "河南2所大学入围全球1000强",
+        "onboard_time": 1660560811,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 938594,
+        "num": 602082,
+        "word": "1saye 照片",
+        "onboard_time": 1660558230,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 677792,
+        "num": 556093,
+        "word": "林俊杰新歌",
+        "onboard_time": 1660568431,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2659717,
+        "num": 545245,
+        "word": "鹿哈改名",
+        "onboard_time": 1660563630,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 668483,
+        "num": 519607,
+        "word": "五年后的凌不疑",
+        "onboard_time": 1660560210,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493390,
+        "num": 493390,
+        "word": "男子骑车闯红灯被撞飞还要赔10万",
+        "onboard_time": 1660565191,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401885,
+        "num": 401885,
+        "word": "伊犁鼠兔惊现天山",
+        "onboard_time": 1660567771,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390471,
+        "num": 390471,
+        "word": "为什么慢热的人大多数都单身",
+        "onboard_time": 1660564350,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368890,
+        "num": 368890,
+        "word": "为什么吃冰西瓜容易拉肚子",
+        "onboard_time": 1660554391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348964,
+        "num": 348964,
+        "word": "胡锡进谈女孩穿和服被带走",
+        "onboard_time": 1660568130,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344951,
+        "num": 344951,
+        "word": "四川电力供需紧张让电于民",
+        "onboard_time": 1660558171,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624144,
+        "num": 343697,
+        "word": "王鹤棣是虞书欣的御用摄影师吧",
+        "onboard_time": 1660562430,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 598262,
+        "num": 342477,
+        "word": "宋亚轩露腹肌",
+        "onboard_time": 1660564770,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 618279,
+        "num": 340095,
+        "word": "东方青苍自己绿了自己",
+        "onboard_time": 1660567889,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476809,
+        "num": 338386,
+        "word": "朱喆拒绝弟弟妹妹白嫖",
+        "onboard_time": 1660568489,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336652,
+        "num": 336652,
+        "word": "湖南一男童游泳池挣扎1分钟后溺亡",
+        "onboard_time": 1660554510,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 329969,
+        "num": 329969,
+        "word": "女子从200斤逆袭成健美冠军",
+        "onboard_time": 1660560510,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327274,
+        "num": 327274,
+        "word": "90后姑娘为80岁外婆拍时尚大片",
+        "onboard_time": 1660562910,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289064,
+        "num": 289064,
+        "word": "蹭空调的狗狗素质有多高",
+        "onboard_time": 1660564471,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279578,
+        "num": 279578,
+        "word": "女子便利店买椒麻鸡全是鸡屁股",
+        "onboard_time": 1660552114,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264537,
+        "num": 264537,
+        "word": "南京的仙人掌也撑不住了",
+        "onboard_time": 1660563089,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459676,
+        "num": 256380,
+        "word": "颜淡唐周余墨联手杀萤灯",
+        "onboard_time": 1660568071,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454005,
+        "num": 253625,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435577,
+        "num": 251990,
+        "word": "周杰伦粉色海洋MV",
+        "onboard_time": 1660566269,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247843,
+        "num": 247843,
+        "word": "躺在冰箱上摆烂的猫咪",
+        "onboard_time": 1660564591,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247644,
+        "num": 247644,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246531,
+        "num": 246531,
+        "word": "有趣的人是生活的良药",
+        "onboard_time": 1660567530,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242304,
+        "num": 242304,
+        "word": "小孩溺亡涉事泳馆已关闭",
+        "onboard_time": 1660555711,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 224579,
+        "num": 224579,
+        "word": "厦门增10例确诊病例",
+        "onboard_time": 1660562250,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214045,
+        "num": 214045,
+        "word": "东部战区实战化演练现场视频",
+        "onboard_time": 1660557691,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207662,
+        "num": 207662,
+        "word": "人一旦戴上了运动手表",
+        "onboard_time": 1660550551,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 397244,
+        "num": 206387,
+        "word": "宋昕冉",
+        "onboard_time": 1660557570,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328356,
+        "num": 205612,
+        "word": "吴磊赵露思寿宴同饮幕后2.0",
+        "onboard_time": 1660563690,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203283,
+        "num": 203283,
+        "word": "老太因老伴不给买零食离家出走",
+        "onboard_time": 1660555411,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201782,
+        "num": 201782,
+        "word": "三星堆发现第一件带翅膀神兽",
+        "onboard_time": 1660556669,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166895,
+        "num": 166895,
+        "word": "赵睿收到澳大利亚球队报价",
+        "onboard_time": 1660559372,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155085,
+        "num": 155085,
+        "word": "北京昌平新增一高风险区",
+        "onboard_time": 1660562190,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147907,
+        "num": 147907,
+        "word": "跳绳的正确姿势你会吗",
+        "onboard_time": 1660566449,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143737,
+        "num": 143737,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136617,
+        "num": 136617,
+        "word": "朋友结婚男子扛84斤硬币随礼",
+        "onboard_time": 1660551511,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117996,
+        "num": 117996,
+        "word": "李清照诗词照进现实了",
+        "onboard_time": 1660560450,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追梦火焰蓝守护万家灯火#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660567566886,
+  "endTime": 1660569045096,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -32,6 +32,14 @@
       "word": "龙线虫",
       "onboard_time": 1660538433,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2982666,
+      "num": 2982666,
+      "word": "湖南新化一小学13岁女童产女",
+      "onboard_time": 1660566449,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1837395,
+      "num": 1473563,
+      "word": "顾客买花生不给钱摊主气急身亡",
+      "onboard_time": 1660563690,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1802164,
       "num": 1802164,
       "word": "6成90后00后不愿直接买新机",
@@ -113,14 +129,6 @@
       "onboard_time": 1660537051,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1764670,
-      "num": 1302909,
-      "word": "顾客买花生不给钱摊主气急身亡",
-      "onboard_time": 1660563690,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1737742,
@@ -145,6 +153,14 @@
       "onboard_time": 1660497021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1660946,
+      "num": 1660946,
+      "word": "网传偷偷藏不住今日正式开机",
+      "onboard_time": 1660566570,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1609700,
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1257476,
-      "num": 1257476,
-      "word": "网传偷偷藏不住今日正式开机",
-      "onboard_time": 1660566570,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1241033,
       "num": 1241033,
       "word": "被同事朋友圈分组屏蔽的心情",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 1168173,
-      "num": 676196,
+      "num": 944669,
       "word": "玉骨遥将接档月升沧海",
       "onboard_time": 1660563089,
       "rank": 21,
@@ -587,11 +595,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 827687,
-      "num": 827687,
-      "word": "湖南新化一小学13岁女童产女",
-      "onboard_time": 1660566449,
-      "rank": 7,
+      "raw_hot": 830528,
+      "num": 830528,
+      "word": "俞敏洪感谢当年北大的处分",
+      "onboard_time": 1660563929,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -683,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 684452,
-      "num": 684452,
-      "word": "俞敏洪感谢当年北大的处分",
-      "onboard_time": 1660563929,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 677792,
+      "num": 556093,
+      "word": "林俊杰新歌",
+      "onboard_time": 1660568431,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 677046,
@@ -729,6 +737,14 @@
       "onboard_time": 1660564770,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 618279,
+      "num": 340095,
+      "word": "东方青苍自己绿了自己",
+      "onboard_time": 1660567889,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 615179,
@@ -979,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493390,
+      "num": 493390,
+      "word": "男子骑车闯红灯被撞飞还要赔10万",
+      "onboard_time": 1660565191,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491789,
       "num": 491789,
       "word": "维生素ABCD都有必要补吗",
@@ -1035,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 476809,
+      "num": 338386,
+      "word": "朱喆拒绝弟弟妹妹白嫖",
+      "onboard_time": 1660568489,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470857,
       "num": 363921,
       "word": "刘亦菲电影之夜红毯生图状态",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1660552171,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 459676,
+      "num": 256380,
+      "word": "颜淡唐周余墨联手杀萤灯",
+      "onboard_time": 1660568071,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 453846,
@@ -1243,20 +1283,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 403412,
-      "num": 403412,
-      "word": "男子骑车闯红灯被撞飞还要赔10万",
-      "onboard_time": 1660565191,
-      "rank": 16,
+      "raw_hot": 401885,
+      "num": 401885,
+      "word": "伊犁鼠兔惊现天山",
+      "onboard_time": 1660567771,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
       "raw_hot": 399224,
-      "num": 180801,
+      "num": 205612,
       "word": "吴磊赵露思寿宴同饮幕后2.0",
       "onboard_time": 1660563690,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 390471,
+      "num": 390471,
+      "word": "为什么慢热的人大多数都单身",
+      "onboard_time": 1660564350,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 385663,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1660561289,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363690,
-      "num": 363690,
-      "word": "为什么慢热的人大多数都单身",
-      "onboard_time": 1660564350,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 362063,
@@ -1432,6 +1472,14 @@
       "word": "90后姑娘为80岁外婆拍时尚大片",
       "onboard_time": 1660562910,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348964,
+      "num": 348964,
+      "word": "胡锡进谈女孩穿和服被带走",
+      "onboard_time": 1660568130,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1971,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246531,
+      "num": 246531,
+      "word": "有趣的人是生活的良药",
+      "onboard_time": 1660567530,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243838,
       "num": 243838,
       "word": "白马拉游客上山体力不支倒地",
@@ -2353,14 +2409,6 @@
       "onboard_time": 1660520187,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117103,
-      "num": 117103,
-      "word": "有趣的人是生活的良药",
-      "onboard_time": 1660567530,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 109541,
