@@ -1,0 +1,410 @@
+{
+  "runTime": 1660552039229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2083998,
+        "num": 2083998,
+        "word": "龙线虫",
+        "onboard_time": 1660538433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2051761,
+        "num": 2051761,
+        "word": "于文文消失的孩子",
+        "onboard_time": 1660550669,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60384,
+        "num": 1676217,
+        "word": "90秒致敬14年抗战史",
+        "onboard_time": 1660525470,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1505585,
+        "num": 1505585,
+        "word": "猴痘病毒出现首例人传狗",
+        "onboard_time": 1660548692,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238761,
+        "num": 1238761,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234983,
+        "num": 1234983,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1211790,
+        "num": 1211790,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970993,
+        "num": 970993,
+        "word": "彭州山洪被困父子父亲已获救",
+        "onboard_time": 1660543892,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926945,
+        "num": 926945,
+        "word": "东部战区位台岛周边实战化演练",
+        "onboard_time": 1660547367,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921694,
+        "num": 921694,
+        "word": "iPhone14或仍有刘海",
+        "onboard_time": 1660547249,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 862992,
+        "num": 862992,
+        "word": "杨紫回应颜淡吃醋",
+        "onboard_time": 1660551031,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 831619,
+        "num": 831619,
+        "word": "林青霞 你是姐的宝贝蛋",
+        "onboard_time": 1660545329,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826046,
+        "num": 826046,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 654819,
+        "num": 654819,
+        "word": "二十不惑2金世佳比心卜冠今",
+        "onboard_time": 1660550551,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628365,
+        "num": 628365,
+        "word": "王鹤棣去年古偶丑男今年古偶美男",
+        "onboard_time": 1660538974,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608566,
+        "num": 608566,
+        "word": "国防部回应美国国会议员窜台",
+        "onboard_time": 1660547489,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 512725,
+        "num": 512725,
+        "word": "博物馆回应男孩指出八卦图画错了",
+        "onboard_time": 1660546530,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511600,
+        "num": 511600,
+        "word": "AirPodsPro2查找时有声音",
+        "onboard_time": 1660550669,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 468858,
+        "num": 468858,
+        "word": "江苏回应海南开放航班限制公函",
+        "onboard_time": 1660547790,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466498,
+        "num": 466498,
+        "word": "人一旦戴上了运动手表",
+        "onboard_time": 1660550551,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 589077,
+        "num": 459704,
+        "word": "魏晨透露消失的孩子8月底播出",
+        "onboard_time": 1660550011,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554023,
+        "num": 454658,
+        "word": "李亚男喊话王祖蓝说你好我的花童",
+        "onboard_time": 1660550128,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441482,
+        "num": 441482,
+        "word": "虞书欣甜辣gwalla直拍",
+        "onboard_time": 1660544550,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411322,
+        "num": 411322,
+        "word": "九尾 喜欢留在赛场",
+        "onboard_time": 1660549531,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370661,
+        "num": 370661,
+        "word": "大象用鼻子还回游客掉入象园的鞋",
+        "onboard_time": 1660550490,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440838,
+        "num": 363628,
+        "word": "赵露思帮吴磊擦汗",
+        "onboard_time": 1660547129,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354395,
+        "num": 354395,
+        "word": "iPhone年年焕新改为3到13个月",
+        "onboard_time": 1660540052,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 347686,
+        "num": 347686,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314660,
+        "num": 314660,
+        "word": "专家回应四川疑现龙线虫",
+        "onboard_time": 1660545207,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285288,
+        "num": 285288,
+        "word": "7旬老人打封闭针挖枸杞根救病孙",
+        "onboard_time": 1660540769,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406850,
+        "num": 285155,
+        "word": "杨幂刘诗诗Angelababy红毯旧照",
+        "onboard_time": 1660541910,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365729,
+        "num": 285147,
+        "word": "杨戬",
+        "onboard_time": 1660551632,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348444,
+        "num": 285124,
+        "word": "出圈舞台还得看他们",
+        "onboard_time": 1660550850,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284734,
+        "num": 284734,
+        "word": "开车碾压草场辱骂牧民游客道歉",
+        "onboard_time": 1660543111,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 268494,
+        "num": 268494,
+        "word": "731部队的恶魔兄弟",
+        "onboard_time": 1660551031,
+        "rank": 34,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 267656,
+        "num": 267656,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216614,
+        "num": 216614,
+        "word": "年轻人为何抵触体检",
+        "onboard_time": 1660540891,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 213651,
+        "num": 213651,
+        "word": "被吃苹果的小熊猫可爱到了",
+        "onboard_time": 1660548930,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208906,
+        "num": 208906,
+        "word": "日本首相向靖国神社供奉玉串料",
+        "onboard_time": 1660537051,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207051,
+        "num": 207051,
+        "word": "男子吃冰西瓜腹泻数日致尿毒症",
+        "onboard_time": 1660536687,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347482,
+        "num": 207050,
+        "word": "八月热播剧男主群像",
+        "onboard_time": 1660551330,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261214,
+        "num": 205681,
+        "word": "想重温偶像来了",
+        "onboard_time": 1660549531,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201608,
+        "num": 201608,
+        "word": "LPL季后赛战队海报",
+        "onboard_time": 1660549949,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188794,
+        "num": 188794,
+        "word": "16至24岁人口调查失业率升至19.9%",
+        "onboard_time": 1660540951,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 179279,
+        "num": 179279,
+        "word": "朋友结婚男子扛84斤硬币随礼",
+        "onboard_time": 1660551511,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178288,
+        "num": 178288,
+        "word": "如何看待年轻人看展式社交",
+        "onboard_time": 1660546350,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163874,
+        "num": 163874,
+        "word": "张常宁发长文回应伤病质疑",
+        "onboard_time": 1660541910,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163763,
+        "num": 163763,
+        "word": "四川多地水域疑似出现龙线虫",
+        "onboard_time": 1660542868,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157681,
+        "num": 157681,
+        "word": "潜逃22年嫌犯被济南警察吓到自首",
+        "onboard_time": 1660541130,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153953,
+        "num": 153953,
+        "word": "不拍片都不知道牙还能这样长",
+        "onboard_time": 1660551632,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#追梦火焰蓝守护万家灯火#"
+    }
+  }
+}
