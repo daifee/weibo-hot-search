@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660542560962,
+  "endTime": 1660544981874,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -16,6 +16,14 @@
       "word": "研究称单身的人衰老速度更快",
       "onboard_time": 1660528769,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3129808,
+      "num": 3129808,
+      "word": "龙线虫",
+      "onboard_time": 1660538433,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -35,16 +43,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2223514,
-      "num": 2223514,
-      "word": "龙线虫",
-      "onboard_time": 1660538433,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1991266,
-      "num": 405318,
+      "num": 480117,
       "word": "杨幂刘诗诗Angelababy红毯旧照",
       "onboard_time": 1660541910,
       "rank": 20,
@@ -251,6 +251,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1037520,
+      "num": 1037520,
+      "word": "张常宁发长文回应伤病质疑",
+      "onboard_time": 1660541910,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1018292,
       "num": 1018292,
       "word": "苹果五福一安充电器全面售罄",
@@ -272,6 +280,14 @@
       "word": "杨紫成毅吊威亚互相保护",
       "onboard_time": 1660527687,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1004140,
+      "num": 1004140,
+      "word": "遇龙",
+      "onboard_time": 1660542689,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -307,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938413,
+      "num": 938413,
+      "word": "四川多地水域疑似出现龙线虫",
+      "onboard_time": 1660542868,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805773,
       "num": 805773,
       "word": "沈腾马丽年度最受欢迎演员",
@@ -339,6 +363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 725475,
+      "num": 725475,
+      "word": "7旬老人打封闭针挖枸杞根救病孙",
+      "onboard_time": 1660540769,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707255,
       "num": 707255,
       "word": "王一博周冬雨一起走红毯",
@@ -367,14 +399,6 @@
       "num": 648618,
       "word": "特斯拉上海工厂100万辆整车下线",
       "onboard_time": 1660528529,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637669,
-      "num": 637669,
-      "word": "7旬老人打封闭针挖枸杞根救病孙",
-      "onboard_time": 1660540769,
       "rank": 18,
       "category": "社会新闻"
     },
@@ -427,6 +451,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 543826,
+      "num": 543826,
+      "word": "16至24岁人口调查失业率升至19.9%",
+      "onboard_time": 1660540951,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 542692,
+      "num": 542692,
+      "word": "彭州山洪被困父子父亲已获救",
+      "onboard_time": 1660543892,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537144,
       "num": 537144,
       "word": "6岁女童磕伤意外查出身体10处肿瘤",
@@ -449,6 +489,14 @@
       "onboard_time": 1660523190,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536706,
+      "num": 536706,
+      "word": "开车碾压草场辱骂牧民游客道歉",
+      "onboard_time": 1660543111,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 525427,
@@ -619,28 +667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410042,
-      "num": 382897,
-      "word": "张常宁发长文回应伤病质疑",
-      "onboard_time": 1660541910,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 405594,
-      "num": 405594,
-      "word": "16至24岁人口调查失业率升至19.9%",
-      "onboard_time": 1660540951,
-      "rank": 33,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 405344,
       "num": 405344,
       "word": "LGD亚军",
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401545,
+      "num": 401545,
+      "word": "潜逃22年嫌犯被济南警察吓到自首",
+      "onboard_time": 1660541130,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385663,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 373755,
-      "num": 286485,
+      "num": 286679,
       "word": "成都草莓音乐节神秘嘉宾",
       "onboard_time": 1660541612,
       "rank": 36,
@@ -761,6 +801,22 @@
       "onboard_time": 1660526370,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329286,
+      "num": 329286,
+      "word": "秘密花园定档819",
+      "onboard_time": 1660542509,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325851,
+      "num": 325851,
+      "word": "房地产市场当前整体处于筑底阶段",
+      "onboard_time": 1660541311,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 325718,
@@ -883,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296544,
+      "num": 296544,
+      "word": "年轻人为何抵触体检",
+      "onboard_time": 1660540891,
+      "rank": 39,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 294631,
       "num": 294631,
       "word": "彩礼为什么越来越贵",
@@ -915,12 +979,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 288188,
-      "num": 288188,
-      "word": "年轻人为何抵触体检",
-      "onboard_time": 1660540891,
-      "rank": 39,
-      "category": "情感,社会新闻"
+      "raw_hot": 285622,
+      "num": 285622,
+      "word": "虞书欣甜辣gwalla直拍",
+      "onboard_time": 1660544550,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 285506,
@@ -987,22 +1051,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 265689,
-      "num": 186516,
-      "word": "秘密花园定档819",
-      "onboard_time": 1660542509,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 265345,
-      "num": 265345,
-      "word": "房地产市场当前整体处于筑底阶段",
-      "onboard_time": 1660541311,
-      "rank": 43,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 264973,
       "num": 264973,
       "word": "一句话怼死杠精",
@@ -1043,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252897,
-      "num": 252897,
-      "word": "潜逃22年嫌犯被济南警察吓到自首",
-      "onboard_time": 1660541130,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252063,
       "num": 252063,
       "word": "王鹤棣东方青苍人间造型",
@@ -1067,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249188,
+      "num": 287298,
+      "word": "新研究证明薛定谔错了",
+      "onboard_time": 1660542631,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 247850,
       "num": 247850,
       "word": "成都游客河道中打麻将被劝离",
@@ -1075,12 +1123,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239127,
+      "num": 148208,
+      "word": "冰雨火终于等来了刘奕君",
+      "onboard_time": 1660544970,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236617,
+      "num": 236617,
+      "word": "喊妈的人类幼崽有多好笑",
+      "onboard_time": 1660543290,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 234920,
       "num": 234920,
       "word": "7月份70城最新房价出炉",
       "onboard_time": 1660531288,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234243,
+      "num": 234243,
+      "word": "织布机",
+      "onboard_time": 1660544850,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 231153,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1660532487,
       "rank": 40,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 227836,
+      "num": 227836,
+      "word": "西藏边防战士急流中喊相信我",
+      "onboard_time": 1660543350,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222903,
@@ -1288,6 +1368,14 @@
       "word": "耐高",
       "onboard_time": 1660486173,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132833,
+      "num": 132833,
+      "word": "4招学会跳绳正确姿势",
+      "onboard_time": 1660544970,
+      "rank": 49,
       "category": "体育"
     },
     {
