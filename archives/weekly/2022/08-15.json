@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660563301027,
+  "endTime": 1660567566886,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -17,6 +17,14 @@
       "onboard_time": 1660528769,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3158703,
+      "num": 1309214,
+      "word": "鹿哈改名",
+      "onboard_time": 1660563630,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 3129808,
@@ -107,6 +115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1764670,
+      "num": 1302909,
+      "word": "顾客买花生不给钱摊主气急身亡",
+      "onboard_time": 1660563690,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1737742,
       "num": 1737742,
       "word": "家中8人患癌二胎妈妈也查出癌症",
@@ -115,19 +131,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1735519,
+      "num": 1735519,
+      "word": "女子街头穿和服拍照被警方带走",
+      "onboard_time": 1660561229,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1721380,
       "num": 1721380,
       "word": "工作4年收入被父母退休金倒挂了",
       "onboard_time": 1660497021,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1615945,
-      "num": 1615945,
-      "word": "女子街头穿和服拍照被警方带走",
-      "onboard_time": 1660561229,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257476,
+      "num": 1257476,
+      "word": "网传偷偷藏不住今日正式开机",
+      "onboard_time": 1660566570,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1241033,
       "num": 1241033,
       "word": "被同事朋友圈分组屏蔽的心情",
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1200075,
+      "num": 1200075,
+      "word": "日本民众举行反战示威游行",
+      "onboard_time": 1660561830,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1185262,
       "num": 1185262,
       "word": "母女带100多万现金坐高铁",
@@ -321,6 +353,14 @@
       "onboard_time": 1660491509,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1168173,
+      "num": 676196,
+      "word": "玉骨遥将接档月升沧海",
+      "onboard_time": 1660563089,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1135736,
@@ -419,6 +459,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1047458,
+      "num": 872982,
+      "word": "1saye 照片",
+      "onboard_time": 1660558230,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1040826,
       "num": 1040826,
       "word": "iPhone14或仍有刘海",
@@ -515,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 872982,
-      "num": 872982,
-      "word": "1saye 照片",
-      "onboard_time": 1660558230,
-      "rank": 8,
-      "category": "网红"
+      "raw_hot": 896023,
+      "num": 597305,
+      "word": "王鹤棣是虞书欣的御用摄影师吧",
+      "onboard_time": 1660562430,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 862992,
@@ -539,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 827687,
+      "num": 827687,
+      "word": "湖南新化一小学13岁女童产女",
+      "onboard_time": 1660566449,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805773,
       "num": 805773,
       "word": "沈腾马丽年度最受欢迎演员",
@@ -553,14 +609,6 @@
       "onboard_time": 1660552952,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790809,
-      "num": 597305,
-      "word": "王鹤棣是虞书欣的御用摄影师吧",
-      "onboard_time": 1660562430,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 770797,
@@ -635,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684452,
+      "num": 684452,
+      "word": "俞敏洪感谢当年北大的处分",
+      "onboard_time": 1660563929,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677046,
       "num": 677046,
       "word": "陈晓王一博拍完冰雨火互送礼物",
@@ -651,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664604,
-      "num": 394028,
-      "word": "玉骨遥将接档月升沧海",
-      "onboard_time": 1660563089,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 654819,
       "num": 654819,
       "word": "二十不惑2金世佳比心卜冠今",
@@ -673,6 +721,14 @@
       "onboard_time": 1660528529,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634736,
+      "num": 360347,
+      "word": "宋亚轩露腹肌",
+      "onboard_time": 1660564770,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 615179,
@@ -777,14 +833,6 @@
       "onboard_time": 1660493186,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549494,
-      "num": 549494,
-      "word": "日本民众举行反战示威游行",
-      "onboard_time": 1660561830,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 546406,
@@ -923,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493690,
+      "num": 359226,
+      "word": "陈宇 代入了",
+      "onboard_time": 1660566691,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491789,
       "num": 491789,
       "word": "维生素ABCD都有必要补吗",
@@ -937,6 +993,14 @@
       "onboard_time": 1660556669,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 484000,
+      "num": 257114,
+      "word": "周杰伦粉色海洋MV",
+      "onboard_time": 1660566269,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 481440,
@@ -1075,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444816,
+      "num": 247879,
+      "word": "东方青苍长珩情敌变兄弟",
+      "onboard_time": 1660566991,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444540,
       "num": 376391,
       "word": "李冰冰大花气场",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1660535009,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 436667,
+      "num": 246368,
+      "word": "王俊凯学汽修老板没认出来",
+      "onboard_time": 1660566211,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 432109,
@@ -1161,6 +1241,22 @@
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 403412,
+      "num": 403412,
+      "word": "男子骑车闯红灯被撞飞还要赔10万",
+      "onboard_time": 1660565191,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399224,
+      "num": 180801,
+      "word": "吴磊赵露思寿宴同饮幕后2.0",
+      "onboard_time": 1660563690,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 385663,
@@ -1243,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363690,
+      "num": 363690,
+      "word": "为什么慢热的人大多数都单身",
+      "onboard_time": 1660564350,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362063,
       "num": 362063,
       "word": "房地产市场当前整体处于筑底阶段",
@@ -1283,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356961,
+      "num": 356961,
+      "word": "蹭空调的狗狗素质有多高",
+      "onboard_time": 1660564471,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355511,
       "num": 355511,
       "word": "怪不得男人爱看挖掘机",
@@ -1313,6 +1425,14 @@
       "onboard_time": 1660551330,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352605,
+      "num": 352605,
+      "word": "90后姑娘为80岁外婆拍时尚大片",
+      "onboard_time": 1660562910,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348444,
@@ -1531,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306654,
+      "num": 306654,
+      "word": "躺在冰箱上摆烂的猫咪",
+      "onboard_time": 1660564591,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302442,
       "num": 302442,
       "word": "上海黄浦江新地标25亿起拍卖",
@@ -1697,6 +1825,14 @@
       "onboard_time": 1660480833,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 274569,
+      "num": 274569,
+      "word": "南京的仙人掌也撑不住了",
+      "onboard_time": 1660563089,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 274296,
@@ -2059,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179542,
+      "num": 179542,
+      "word": "跳绳的正确姿势你会吗",
+      "onboard_time": 1660566449,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179005,
       "num": 179005,
       "word": "会说话的人是怎么安慰别人的",
@@ -2115,14 +2259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164097,
-      "num": 164097,
-      "word": "90后姑娘为80岁外婆拍时尚大片",
-      "onboard_time": 1660562910,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162800,
       "num": 162800,
       "word": "研究称运动不能弥补不良饮食",
@@ -2161,14 +2297,6 @@
       "onboard_time": 1660472793,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146510,
-      "num": 146510,
-      "word": "南京的仙人掌也撑不住了",
-      "onboard_time": 1660563089,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 145012,
@@ -2225,6 +2353,14 @@
       "onboard_time": 1660520187,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117103,
+      "num": 117103,
+      "word": "有趣的人是生活的良药",
+      "onboard_time": 1660567530,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 109541,

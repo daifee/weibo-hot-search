@@ -1,0 +1,410 @@
+{
+  "runTime": 1660567566886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126486,
+        "num": 2126486,
+        "word": "马思纯往车窗外丢垃圾",
+        "onboard_time": 1660559193,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1735519,
+        "num": 1735519,
+        "word": "女子街头穿和服拍照被警方带走",
+        "onboard_time": 1660561229,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30306,
+        "num": 1323018,
+        "word": "90秒致敬14年抗战史",
+        "onboard_time": 1660525470,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3158703,
+        "num": 1309214,
+        "word": "鹿哈改名",
+        "onboard_time": 1660563630,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1764670,
+        "num": 1302909,
+        "word": "顾客买花生不给钱摊主气急身亡",
+        "onboard_time": 1660563690,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1257476,
+        "num": 1257476,
+        "word": "网传偷偷藏不住今日正式开机",
+        "onboard_time": 1660566570,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1200075,
+        "num": 1200075,
+        "word": "日本民众举行反战示威游行",
+        "onboard_time": 1660561830,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 827687,
+        "num": 827687,
+        "word": "湖南新化一小学13岁女童产女",
+        "onboard_time": 1660566449,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808220,
+        "num": 808220,
+        "word": "河南2所大学入围全球1000强",
+        "onboard_time": 1660560811,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 684452,
+        "num": 684452,
+        "word": "俞敏洪感谢当年北大的处分",
+        "onboard_time": 1660563929,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168173,
+        "num": 676196,
+        "word": "玉骨遥将接档月升沧海",
+        "onboard_time": 1660563089,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1047458,
+        "num": 578191,
+        "word": "1saye 照片",
+        "onboard_time": 1660558230,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 896023,
+        "num": 520943,
+        "word": "王鹤棣是虞书欣的御用摄影师吧",
+        "onboard_time": 1660562430,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 768756,
+        "num": 458638,
+        "word": "五年后的凌不疑",
+        "onboard_time": 1660560210,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441881,
+        "num": 441881,
+        "word": "女子从200斤逆袭成健美冠军",
+        "onboard_time": 1660560510,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408109,
+        "num": 408109,
+        "word": "四川电力供需紧张让电于民",
+        "onboard_time": 1660558171,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403412,
+        "num": 403412,
+        "word": "男子骑车闯红灯被撞飞还要赔10万",
+        "onboard_time": 1660565191,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381354,
+        "num": 381354,
+        "word": "为什么吃冰西瓜容易拉肚子",
+        "onboard_time": 1660554391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371453,
+        "num": 371453,
+        "word": "湖南一男童游泳池挣扎1分钟后溺亡",
+        "onboard_time": 1660554510,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 363690,
+        "num": 363690,
+        "word": "为什么慢热的人大多数都单身",
+        "onboard_time": 1660564350,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 634736,
+        "num": 360347,
+        "word": "宋亚轩露腹肌",
+        "onboard_time": 1660564770,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493690,
+        "num": 359226,
+        "word": "陈宇 代入了",
+        "onboard_time": 1660566691,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356961,
+        "num": 356961,
+        "word": "蹭空调的狗狗素质有多高",
+        "onboard_time": 1660564471,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352605,
+        "num": 352605,
+        "word": "90后姑娘为80岁外婆拍时尚大片",
+        "onboard_time": 1660562910,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323149,
+        "num": 323149,
+        "word": "女子便利店买椒麻鸡全是鸡屁股",
+        "onboard_time": 1660552114,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321243,
+        "num": 321243,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308347,
+        "num": 308347,
+        "word": "厦门增10例确诊病例",
+        "onboard_time": 1660562250,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306654,
+        "num": 306654,
+        "word": "躺在冰箱上摆烂的猫咪",
+        "onboard_time": 1660564591,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274569,
+        "num": 274569,
+        "word": "南京的仙人掌也撑不住了",
+        "onboard_time": 1660563089,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257820,
+        "num": 257820,
+        "word": "老太因老伴不给买零食离家出走",
+        "onboard_time": 1660555411,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484000,
+        "num": 257114,
+        "word": "周杰伦粉色海洋MV",
+        "onboard_time": 1660566269,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444816,
+        "num": 247879,
+        "word": "东方青苍长珩情敌变兄弟",
+        "onboard_time": 1660566991,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436667,
+        "num": 246368,
+        "word": "王俊凯学汽修老板没认出来",
+        "onboard_time": 1660566211,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430002,
+        "num": 240068,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237742,
+        "num": 237742,
+        "word": "人一旦戴上了运动手表",
+        "onboard_time": 1660550551,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231868,
+        "num": 231868,
+        "word": "小孩溺亡涉事泳馆已关闭",
+        "onboard_time": 1660555711,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229478,
+        "num": 229478,
+        "word": "东部战区实战化演练现场视频",
+        "onboard_time": 1660557691,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213010,
+        "num": 213010,
+        "word": "三星堆发现第一件带翅膀神兽",
+        "onboard_time": 1660556669,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204444,
+        "num": 204444,
+        "word": "北京昌平新增一高风险区",
+        "onboard_time": 1660562190,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181717,
+        "num": 181717,
+        "word": "赵睿收到澳大利亚球队报价",
+        "onboard_time": 1660559372,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399224,
+        "num": 180801,
+        "word": "吴磊赵露思寿宴同饮幕后2.0",
+        "onboard_time": 1660563690,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390127,
+        "num": 180655,
+        "word": "宋昕冉",
+        "onboard_time": 1660557570,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179542,
+        "num": 179542,
+        "word": "跳绳的正确姿势你会吗",
+        "onboard_time": 1660566449,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170589,
+        "num": 170589,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160349,
+        "num": 160349,
+        "word": "朋友结婚男子扛84斤硬币随礼",
+        "onboard_time": 1660551511,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154090,
+        "num": 154090,
+        "word": "李清照诗词照进现实了",
+        "onboard_time": 1660560450,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140022,
+        "num": 140022,
+        "word": "打火机藏泡面盒底遇热水炸飞面和汤",
+        "onboard_time": 1660559910,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134137,
+        "num": 134137,
+        "word": "夏天为什么还不结束",
+        "onboard_time": 1660562910,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128657,
+        "num": 128657,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 117103,
+        "num": 117103,
+        "word": "有趣的人是生活的良药",
+        "onboard_time": 1660567530,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设生态文明功在当代利在千秋#"
+    }
+  }
+}
