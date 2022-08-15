@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660585385052,
+  "endTime": 1660588094618,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -2937,6 +2937,14 @@
       "onboard_time": 1660518681,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61310,
+      "num": 61310,
+      "word": "女子打了一个喷嚏腰椎骨折不自知",
+      "onboard_time": 1660586054,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60384,
