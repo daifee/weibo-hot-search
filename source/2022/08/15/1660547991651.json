@@ -1,0 +1,410 @@
+{
+  "runTime": 1660547991651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2099487,
+        "num": 2099487,
+        "word": "龙线虫",
+        "onboard_time": 1660538433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413223,
+        "num": 1413223,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370539,
+        "num": 1293728,
+        "word": "三伏天就快过去了",
+        "onboard_time": 1660521325,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275623,
+        "num": 1275623,
+        "word": "彭州山洪被困父子父亲已获救",
+        "onboard_time": 1660543892,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928139,
+        "num": 928139,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 866996,
+        "num": 866996,
+        "word": "iPhone年年焕新改为3到13个月",
+        "onboard_time": 1660540052,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 861129,
+        "num": 861129,
+        "word": "王鹤棣去年古偶丑男今年古偶美男",
+        "onboard_time": 1660538974,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 743107,
+        "num": 743107,
+        "word": "张常宁发长文回应伤病质疑",
+        "onboard_time": 1660541910,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708058,
+        "num": 708058,
+        "word": "开车碾压草场辱骂牧民游客道歉",
+        "onboard_time": 1660543111,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 700939,
+        "num": 700939,
+        "word": "四川多地水域疑似出现龙线虫",
+        "onboard_time": 1660542868,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491530,
+        "num": 694183,
+        "word": "林青霞 你是姐的宝贝蛋",
+        "onboard_time": 1660545329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666650,
+        "num": 666650,
+        "word": "遇龙",
+        "onboard_time": 1660542689,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559789,
+        "num": 559789,
+        "word": "虞书欣甜辣gwalla直拍",
+        "onboard_time": 1660544550,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 552056,
+        "num": 552056,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546068,
+        "num": 546068,
+        "word": "日本首相向靖国神社供奉玉串料",
+        "onboard_time": 1660537051,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 505591,
+        "num": 505591,
+        "word": "颜淡吃的不是醋是可爱多",
+        "onboard_time": 1660547550,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504654,
+        "num": 504654,
+        "word": "王祖蓝给李亚男提裙子好像花童",
+        "onboard_time": 1660539692,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480778,
+        "num": 480778,
+        "word": "专家回应四川疑现龙线虫",
+        "onboard_time": 1660545207,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478800,
+        "num": 478800,
+        "word": "东部战区位台岛周边实战化演练",
+        "onboard_time": 1660547367,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443023,
+        "num": 443023,
+        "word": "7旬老人打封闭针挖枸杞根救病孙",
+        "onboard_time": 1660540769,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599750,
+        "num": 442343,
+        "word": "杨幂刘诗诗Angelababy红毯旧照",
+        "onboard_time": 1660541910,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486021,
+        "num": 429308,
+        "word": "赵露思帮吴磊擦汗",
+        "onboard_time": 1660547129,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464233,
+        "num": 425369,
+        "word": "冰雨火终于等来了刘奕君",
+        "onboard_time": 1660544970,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414729,
+        "num": 414729,
+        "word": "潜逃22年嫌犯被济南警察吓到自首",
+        "onboard_time": 1660541130,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409129,
+        "num": 409129,
+        "word": "如何看待年轻人看展式社交",
+        "onboard_time": 1660546350,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404943,
+        "num": 404943,
+        "word": "16至24岁人口调查失业率升至19.9%",
+        "onboard_time": 1660540951,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 390141,
+        "num": 390141,
+        "word": "男子吃冰西瓜腹泻数日致尿毒症",
+        "onboard_time": 1660536687,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384562,
+        "num": 384562,
+        "word": "iPhone14或仍有刘海",
+        "onboard_time": 1660547249,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308713,
+        "num": 308713,
+        "word": "周五周六18城饿了么免单",
+        "onboard_time": 1660545689,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 298051,
+        "num": 298051,
+        "word": "博物馆回应男孩指出八卦图画错了",
+        "onboard_time": 1660546530,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338014,
+        "num": 297764,
+        "word": "断桥豆瓣评分6.3分",
+        "onboard_time": 1660537833,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296444,
+        "num": 296444,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290945,
+        "num": 290945,
+        "word": "降息",
+        "onboard_time": 1660538194,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290387,
+        "num": 290387,
+        "word": "江苏回应海南开放航班限制公函",
+        "onboard_time": 1660547790,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277094,
+        "num": 277094,
+        "word": "房地产市场当前整体处于筑底阶段",
+        "onboard_time": 1660541311,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 268793,
+        "num": 268793,
+        "word": "西藏边防战士急流中喊相信我",
+        "onboard_time": 1660543350,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260811,
+        "num": 260811,
+        "word": "年轻人为何抵触体检",
+        "onboard_time": 1660540891,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 257308,
+        "num": 257308,
+        "word": "晨艺衣柜里有100多件衬衣",
+        "onboard_time": 1660546350,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243075,
+        "num": 243075,
+        "word": "国防部回应美国国会议员窜台",
+        "onboard_time": 1660547489,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 242401,
+        "num": 242401,
+        "word": "陈宇有多爱吃醋",
+        "onboard_time": 1660545030,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228480,
+        "num": 228480,
+        "word": "织布机",
+        "onboard_time": 1660544850,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228138,
+        "num": 228138,
+        "word": "曾凡博将代表北京男篮出战CBA",
+        "onboard_time": 1660546288,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216079,
+        "num": 216079,
+        "word": "郭晓婷演的谢惋卿",
+        "onboard_time": 1660547489,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215208,
+        "num": 215208,
+        "word": "白宫回应拜登支持率创历史新低",
+        "onboard_time": 1660539213,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 200993,
+        "num": 200993,
+        "word": "新研究证明薛定谔错了",
+        "onboard_time": 1660542631,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 198060,
+        "num": 198060,
+        "word": "7旬大爷为追星1小时被骗4.6万",
+        "onboard_time": 1660536991,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170804,
+        "num": 170804,
+        "word": "制片人回应苍兰诀招商不多",
+        "onboard_time": 1660538733,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160770,
+        "num": 160770,
+        "word": "喊妈的人类幼崽有多好笑",
+        "onboard_time": 1660543290,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145012,
+        "num": 145012,
+        "word": "牧民制止游客私闯草场反遭辱骂",
+        "onboard_time": 1660547431,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129299,
+        "num": 129299,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席看世界#"
+    }
+  }
+}
