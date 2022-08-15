@@ -1,0 +1,410 @@
+{
+  "runTime": 1660553006847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2069139,
+        "num": 2069139,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1981703,
+        "num": 1981703,
+        "word": "于文文消失的孩子",
+        "onboard_time": 1660550669,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52170,
+        "num": 1804889,
+        "word": "90秒致敬14年抗战史",
+        "onboard_time": 1660525470,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1643763,
+        "num": 1643763,
+        "word": "龙线虫",
+        "onboard_time": 1660538433,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1489323,
+        "num": 1489323,
+        "word": "猴痘病毒出现首例人传狗",
+        "onboard_time": 1660548692,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267688,
+        "num": 1267688,
+        "word": "杨戬",
+        "onboard_time": 1660551632,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1071907,
+        "num": 1071907,
+        "word": "韩国民众当街表演痛打日军",
+        "onboard_time": 1660547971,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059537,
+        "num": 1059537,
+        "word": "8种癌容易遗传下一代",
+        "onboard_time": 1660547129,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803234,
+        "num": 803234,
+        "word": "东部战区位台岛周边实战化演练",
+        "onboard_time": 1660547367,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767394,
+        "num": 767394,
+        "word": "iPhone14或仍有刘海",
+        "onboard_time": 1660547249,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 778224,
+        "num": 765024,
+        "word": "网传下半年电视剧备播时间表",
+        "onboard_time": 1660552411,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734376,
+        "num": 734376,
+        "word": "杨紫回应颜淡吃醋",
+        "onboard_time": 1660551031,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711866,
+        "num": 711866,
+        "word": "彭州山洪被困父子父亲已获救",
+        "onboard_time": 1660543892,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677046,
+        "num": 677046,
+        "word": "陈晓王一博拍完冰雨火互送礼物",
+        "onboard_time": 1660552594,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618746,
+        "num": 618746,
+        "word": "特朗普若当选总统或将搜查拜登住宅",
+        "onboard_time": 1660545629,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 565346,
+        "num": 565346,
+        "word": "人一旦戴上了运动手表",
+        "onboard_time": 1660550551,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 554719,
+        "num": 554719,
+        "word": "AirPodsPro2查找时有声音",
+        "onboard_time": 1660550669,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 537664,
+        "num": 537664,
+        "word": "国防部回应美国国会议员窜台",
+        "onboard_time": 1660547489,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 448236,
+        "num": 448236,
+        "word": "女子便利店买椒麻鸡全是鸡屁股",
+        "onboard_time": 1660552114,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434511,
+        "num": 434511,
+        "word": "博物馆回应男孩指出八卦图画错了",
+        "onboard_time": 1660546530,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638055,
+        "num": 432175,
+        "word": "林青霞 你是姐的宝贝蛋",
+        "onboard_time": 1660545329,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628997,
+        "num": 426528,
+        "word": "二十不惑2金世佳比心卜冠今",
+        "onboard_time": 1660550551,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596197,
+        "num": 425970,
+        "word": "魏晨透露消失的孩子8月底播出",
+        "onboard_time": 1660550011,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542230,
+        "num": 420616,
+        "word": "王鹤棣去年古偶丑男今年古偶美男",
+        "onboard_time": 1660538974,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417579,
+        "num": 417579,
+        "word": "江苏回应海南开放航班限制公函",
+        "onboard_time": 1660547790,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408436,
+        "num": 408436,
+        "word": "TTG 九尾",
+        "onboard_time": 1660552171,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405331,
+        "num": 405331,
+        "word": "大象用鼻子还回游客掉入象园的鞋",
+        "onboard_time": 1660550490,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340590,
+        "num": 340590,
+        "word": "731部队的恶魔兄弟",
+        "onboard_time": 1660551031,
+        "rank": 27,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 322043,
+        "num": 322043,
+        "word": "iPhone年年焕新改为3到13个月",
+        "onboard_time": 1660540052,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320576,
+        "num": 320576,
+        "word": "朋友结婚男子扛84斤硬币随礼",
+        "onboard_time": 1660551511,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471383,
+        "num": 309200,
+        "word": "李亚男喊话王祖蓝说你好我的花童",
+        "onboard_time": 1660550128,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374349,
+        "num": 306254,
+        "word": "杨幂刘诗诗Angelababy红毯旧照",
+        "onboard_time": 1660541910,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353012,
+        "num": 298020,
+        "word": "八月热播剧男主群像",
+        "onboard_time": 1660551330,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289032,
+        "num": 289032,
+        "word": "九尾 喜欢留在赛场",
+        "onboard_time": 1660549531,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278980,
+        "num": 278980,
+        "word": "7旬老人打封闭针挖枸杞根救病孙",
+        "onboard_time": 1660540769,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254807,
+        "num": 254807,
+        "word": "专家回应四川疑现龙线虫",
+        "onboard_time": 1660545207,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235571,
+        "num": 235571,
+        "word": "人们为啥不爱吃海底捞了",
+        "onboard_time": 1660525407,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219761,
+        "num": 219761,
+        "word": "开车碾压草场辱骂牧民游客道歉",
+        "onboard_time": 1660543111,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 219252,
+        "num": 219252,
+        "word": "被吃苹果的小熊猫可爱到了",
+        "onboard_time": 1660548930,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212537,
+        "num": 212537,
+        "word": "不拍片都不知道牙还能这样长",
+        "onboard_time": 1660551632,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352265,
+        "num": 212356,
+        "word": "虞书欣甜辣gwalla直拍",
+        "onboard_time": 1660544550,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347349,
+        "num": 212314,
+        "word": "赵露思帮吴磊擦汗",
+        "onboard_time": 1660547129,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212166,
+        "num": 212166,
+        "word": "研究称单身的人衰老速度更快",
+        "onboard_time": 1660528769,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208916,
+        "num": 208916,
+        "word": "年轻人为何抵触体检",
+        "onboard_time": 1660540891,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 199864,
+        "num": 199864,
+        "word": "孙颖莎 成都",
+        "onboard_time": 1660552712,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176980,
+        "num": 176980,
+        "word": "男子吃冰西瓜腹泻数日致尿毒症",
+        "onboard_time": 1660536687,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "LPL季后赛战队海报",
+        "onboard_time": 1660549949,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213910,
+        "num": 175736,
+        "word": "北京新增4例京外关联本土感染者",
+        "onboard_time": 1660552952,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170244,
+        "num": 170244,
+        "word": "16至24岁人口调查失业率升至19.9%",
+        "onboard_time": 1660540951,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 159756,
+        "num": 159756,
+        "word": "特朗普要求FBI归还没收文件",
+        "onboard_time": 1660552594,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追梦火焰蓝守护万家灯火#"
+    }
+  }
+}

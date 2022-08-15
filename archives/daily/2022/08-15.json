@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660552039229,
+  "endTime": 1660553006847,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -40,6 +40,14 @@
       "word": "王鹤棣去年古偶丑男今年古偶美男",
       "onboard_time": 1660538974,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2069139,
+      "num": 2069139,
+      "word": "程少商退婚后的五年",
+      "onboard_time": 1660551570,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1267688,
+      "num": 1267688,
+      "word": "杨戬",
+      "onboard_time": 1660551632,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1266924,
       "num": 1266924,
       "word": "东部战区位台岛周边实战化演练",
@@ -233,14 +249,6 @@
       "onboard_time": 1660547129,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234983,
-      "num": 1234983,
-      "word": "程少商退婚后的五年",
-      "onboard_time": 1660551570,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1211790,
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 778224,
+      "num": 765024,
+      "word": "网传下半年电视剧备播时间表",
+      "onboard_time": 1660552411,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770797,
       "num": 624563,
       "word": "Angelababy永远喜欢简单真诚",
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677046,
+      "num": 677046,
+      "word": "陈晓王一博拍完冰雨火互送礼物",
+      "onboard_time": 1660552594,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 671944,
       "num": 671944,
       "word": "你见过凌晨4点的天安门吗",
@@ -531,7 +555,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 589077,
+      "raw_hot": 596197,
       "num": 459704,
       "word": "魏晨透露消失的孩子8月底播出",
       "onboard_time": 1660550011,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565346,
+      "num": 565346,
+      "word": "人一旦戴上了运动手表",
+      "onboard_time": 1660550551,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 562944,
       "num": 562944,
       "word": "少女时代新歌MV导演道歉",
@@ -569,6 +601,14 @@
       "onboard_time": 1660544550,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 554719,
+      "num": 554719,
+      "word": "AirPodsPro2查找时有声音",
+      "onboard_time": 1660550669,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 554023,
@@ -675,14 +715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 511600,
-      "num": 511600,
-      "word": "AirPodsPro2查找时有声音",
-      "onboard_time": 1660550669,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 510297,
       "num": 510297,
       "word": "Steam免费游戏直接入库",
@@ -779,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466498,
-      "num": 466498,
-      "word": "人一旦戴上了运动手表",
-      "onboard_time": 1660550551,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 464233,
       "num": 425369,
       "word": "冰雨火终于等来了刘奕君",
@@ -817,6 +841,14 @@
       "onboard_time": 1660538133,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448236,
+      "num": 448236,
+      "word": "女子便利店买椒麻鸡全是鸡屁股",
+      "onboard_time": 1660552114,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447251,
@@ -875,12 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408436,
+      "num": 408436,
+      "word": "TTG 九尾",
+      "onboard_time": 1660552171,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405344,
       "num": 405344,
       "word": "LGD亚军",
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 405331,
+      "num": 405331,
+      "word": "大象用鼻子还回游客掉入象园的鞋",
+      "onboard_time": 1660550490,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385663,
@@ -936,22 +984,6 @@
       "word": "欧豪唱的胆小鬼同名片尾曲",
       "onboard_time": 1660532908,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 370661,
-      "num": 370661,
-      "word": "大象用鼻子还回游客掉入象园的鞋",
-      "onboard_time": 1660550490,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365729,
-      "num": 285147,
-      "word": "杨戬",
-      "onboard_time": 1660551632,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1011,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353012,
+      "num": 298020,
+      "word": "八月热播剧男主群像",
+      "onboard_time": 1660551330,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348444,
       "num": 285124,
       "word": "出圈舞台还得看他们",
@@ -1019,12 +1059,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 347482,
-      "num": 207050,
-      "word": "八月热播剧男主群像",
-      "onboard_time": 1660551330,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 340590,
+      "num": 340590,
+      "word": "731部队的恶魔兄弟",
+      "onboard_time": 1660551031,
+      "rank": 34,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 337948,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1660487912,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320576,
+      "num": 320576,
+      "word": "朋友结婚男子扛84斤硬币随礼",
+      "onboard_time": 1660551511,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317422,
@@ -1299,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268494,
-      "num": 268494,
-      "word": "731部队的恶魔兄弟",
-      "onboard_time": 1660551031,
-      "rank": 34,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 267516,
       "num": 267516,
       "word": "哈啰单车崩了",
@@ -1475,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219252,
+      "num": 219252,
+      "word": "被吃苹果的小熊猫可爱到了",
+      "onboard_time": 1660548930,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218241,
       "num": 218241,
       "word": "EDG 我们是冠军",
@@ -1491,12 +1539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213651,
-      "num": 213651,
-      "word": "被吃苹果的小熊猫可爱到了",
-      "onboard_time": 1660548930,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 213910,
+      "num": 175736,
+      "word": "北京新增4例京外关联本土感染者",
+      "onboard_time": 1660552952,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212980,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1660525889,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212537,
+      "num": 212537,
+      "word": "不拍片都不知道牙还能这样长",
+      "onboard_time": 1660551632,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 207001,
@@ -1555,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199864,
+      "num": 199864,
+      "word": "孙颖莎 成都",
+      "onboard_time": 1660552712,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
@@ -1585,14 +1649,6 @@
       "onboard_time": 1660491272,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179279,
-      "num": 179279,
-      "word": "朋友结婚男子扛84斤硬币随礼",
-      "onboard_time": 1660551511,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179005,
@@ -1643,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159756,
+      "num": 159756,
+      "word": "特朗普要求FBI归还没收文件",
+      "onboard_time": 1660552594,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 158288,
       "num": 158288,
       "word": "石家庄二中耐高夺冠",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1660544970,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153953,
-      "num": 153953,
-      "word": "不拍片都不知道牙还能这样长",
-      "onboard_time": 1660551632,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 153561,
@@ -1812,7 +1868,7 @@
     },
     {
       "raw_hot": 60384,
-      "num": 1676217,
+      "num": 1804889,
       "word": "90秒致敬14年抗战史",
       "onboard_time": 1660525470,
       "rank": 2,
