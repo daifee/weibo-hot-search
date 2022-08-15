@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660541869694,
+  "endTime": 1660542560962,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -35,6 +35,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2223514,
+      "num": 2223514,
+      "word": "龙线虫",
+      "onboard_time": 1660538433,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1991266,
+      "num": 405318,
+      "word": "杨幂刘诗诗Angelababy红毯旧照",
+      "onboard_time": 1660541910,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1802164,
       "num": 1802164,
       "word": "6成90后00后不愿直接买新机",
@@ -51,14 +67,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1750834,
-      "num": 1750834,
-      "word": "龙线虫",
-      "onboard_time": 1660538433,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1737742,
       "num": 1737742,
       "word": "家中8人患癌二胎妈妈也查出癌症",
@@ -73,6 +81,14 @@
       "onboard_time": 1660497021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1528159,
+      "num": 1528159,
+      "word": "降息",
+      "onboard_time": 1660538194,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 1522842,
@@ -123,20 +139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1352159,
-      "num": 1352159,
-      "word": "降息",
-      "onboard_time": 1660538194,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1349020,
       "num": 1349020,
       "word": "日本终战诏书绝口不提投降",
       "onboard_time": 1660530086,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1337080,
+      "num": 1337080,
+      "word": "iPhone年年焕新改为3到13个月",
+      "onboard_time": 1660540052,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 1319444,
@@ -209,14 +225,6 @@
       "onboard_time": 1660530929,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103915,
-      "num": 1103915,
-      "word": "iPhone年年焕新改为3到13个月",
-      "onboard_time": 1660540052,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 1071293,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637669,
+      "num": 637669,
+      "word": "7旬老人打封闭针挖枸杞根救病孙",
+      "onboard_time": 1660540769,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568664,
       "num": 568664,
       "word": "爸爸用现代衣裤为儿子装扮古装",
@@ -403,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545003,
-      "num": 545003,
+      "raw_hot": 546406,
+      "num": 546406,
       "word": "邓紫棋车祸哭戏原声花絮",
       "onboard_time": 1660539155,
       "rank": 14,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 525427,
-      "num": 382975,
+      "num": 394659,
       "word": "制片人回应苍兰诀招商不多",
       "onboard_time": 1660538733,
       "rank": 21,
@@ -476,11 +492,19 @@
     },
     {
       "raw_hot": 509956,
-      "num": 379929,
+      "num": 383429,
       "word": "脱口秀大会第五季官宣",
       "onboard_time": 1660540171,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507554,
+      "num": 507554,
+      "word": "7旬大爷为追星1小时被骗4.6万",
+      "onboard_time": 1660536991,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501715,
@@ -489,14 +513,6 @@
       "onboard_time": 1660525168,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 495375,
-      "num": 495375,
-      "word": "7旬大爷为追星1小时被骗4.6万",
-      "onboard_time": 1660536991,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491789,
@@ -547,8 +563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451159,
-      "num": 451159,
+      "raw_hot": 453265,
+      "num": 453265,
       "word": "白宫回应拜登支持率创历史新低",
       "onboard_time": 1660539213,
       "rank": 17,
@@ -603,20 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410042,
+      "num": 382897,
+      "word": "张常宁发长文回应伤病质疑",
+      "onboard_time": 1660541910,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 405594,
+      "num": 405594,
+      "word": "16至24岁人口调查失业率升至19.9%",
+      "onboard_time": 1660540951,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 405344,
       "num": 405344,
       "word": "LGD亚军",
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 400440,
-      "num": 400440,
-      "word": "7旬老人打封闭针挖枸杞根救病孙",
-      "onboard_time": 1660540769,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385663,
@@ -657,6 +681,14 @@
       "onboard_time": 1660539332,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 373755,
+      "num": 286485,
+      "word": "成都草莓音乐节神秘嘉宾",
+      "onboard_time": 1660541612,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 371620,
@@ -779,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320762,
-      "num": 320762,
-      "word": "16至24岁人口调查失业率升至19.9%",
-      "onboard_time": 1660540951,
-      "rank": 33,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 317422,
       "num": 317422,
       "word": "日照新增1例阳性",
@@ -891,6 +915,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 288188,
+      "num": 288188,
+      "word": "年轻人为何抵触体检",
+      "onboard_time": 1660540891,
+      "rank": 39,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 285506,
+      "num": 285506,
+      "word": "打网约车就像开盲盒",
+      "onboard_time": 1660541672,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285231,
       "num": 185616,
       "word": "黄景瑜牵小蜗牛玩具的反差萌",
@@ -899,12 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284207,
-      "num": 284207,
-      "word": "成都草莓音乐节神秘嘉宾",
-      "onboard_time": 1660541612,
-      "rank": 36,
-      "category": "音乐"
+      "raw_hot": 277798,
+      "num": 253124,
+      "word": "这就是街舞",
+      "onboard_time": 1660541910,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 276734,
@@ -947,6 +987,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 265689,
+      "num": 186516,
+      "word": "秘密花园定档819",
+      "onboard_time": 1660542509,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265345,
+      "num": 265345,
+      "word": "房地产市场当前整体处于筑底阶段",
+      "onboard_time": 1660541311,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 264973,
       "num": 264973,
       "word": "一句话怼死杠精",
@@ -987,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253239,
-      "num": 253239,
-      "word": "年轻人为何抵触体检",
-      "onboard_time": 1660540891,
-      "rank": 39,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 252897,
       "num": 252897,
       "word": "潜逃22年嫌犯被济南警察吓到自首",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1660518981,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241650,
-      "num": 241650,
-      "word": "房地产市场当前整体处于筑底阶段",
-      "onboard_time": 1660541311,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 234920,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1660473333,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196494,
-      "num": 196494,
-      "word": "打网约车就像开盲盒",
-      "onboard_time": 1660541672,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 189228,
