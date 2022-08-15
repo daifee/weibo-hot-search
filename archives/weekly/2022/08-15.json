@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660588094618,
+  "endTime": 1660589169816,
   "band_list": [
     {
       "raw_hot": 3605614,
@@ -2891,6 +2891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91786,
+      "num": 91786,
+      "word": "女子打了一个喷嚏腰椎骨折不自知",
+      "onboard_time": 1660586054,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89413,
       "num": 89413,
       "word": "中国男排亚洲杯夺冠",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1660518681,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 61310,
-      "num": 61310,
-      "word": "女子打了一个喷嚏腰椎骨折不自知",
-      "onboard_time": 1660586054,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60384,
