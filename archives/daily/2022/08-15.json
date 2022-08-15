@@ -1,13 +1,29 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660520201686,
+  "endTime": 1660529908301,
   "band_list": [
+    {
+      "raw_hot": 3605614,
+      "num": 3605614,
+      "word": "人们为啥不爱吃海底捞了",
+      "onboard_time": 1660525407,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2883607,
       "num": 2883607,
       "word": "日本7.2万余人被命令撤离",
       "onboard_time": 1660494443,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1737742,
+      "num": 1737742,
+      "word": "家中8人患癌二胎妈妈也查出癌症",
+      "onboard_time": 1660519524,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -19,12 +35,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1411368,
+      "num": 1411368,
+      "word": "特朗普如被定罪将无法参加2024年大选",
+      "onboard_time": 1660524510,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1409471,
+      "num": 1409471,
+      "word": "东北虎在水池放屁不停冒泡",
+      "onboard_time": 1660524868,
+      "rank": 4,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 1400843,
+      "num": 1400843,
+      "word": "谢霆锋沈腾撞衫",
+      "onboard_time": 1660526968,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1319444,
       "num": 1319444,
       "word": "山洪前有管理员喊我跪下来求大家",
       "onboard_time": 1660477711,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1309046,
+      "num": 1309046,
+      "word": "日本宣布投降77周年",
+      "onboard_time": 1660519281,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1241033,
@@ -59,12 +107,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1069496,
+      "num": 1069496,
+      "word": "父子被困山洪父亲曾试图将孩子抛向岸边",
+      "onboard_time": 1660523488,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1018292,
+      "num": 1018292,
+      "word": "苹果五福一安充电器全面售罄",
+      "onboard_time": 1660525889,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1015067,
       "num": 524042,
       "word": "张天爱胸骨",
       "onboard_time": 1660475371,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 954554,
+      "num": 954554,
+      "word": "研究称单身的人衰老速度更快",
+      "onboard_time": 1660528769,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 945428,
@@ -88,6 +160,14 @@
       "word": "沈腾马丽年度最受欢迎演员",
       "onboard_time": 1660517056,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 766619,
+      "num": 766619,
+      "word": "李钟硕黑话律师wink",
+      "onboard_time": 1660523548,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -115,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593566,
+      "num": 593566,
+      "word": "杨紫成毅吊威亚互相保护",
+      "onboard_time": 1660527687,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568032,
       "num": 568032,
       "word": "1945年8月15日值得永远铭记",
@@ -124,7 +212,7 @@
     },
     {
       "raw_hot": 551477,
-      "num": 411581,
+      "num": 432075,
       "word": "苍兰诀 诀症",
       "onboard_time": 1660488035,
       "rank": 11,
@@ -147,11 +235,51 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534685,
-      "num": 534685,
-      "word": "日本宣布投降77周年",
-      "onboard_time": 1660519281,
-      "rank": 9,
+      "raw_hot": 536776,
+      "num": 536776,
+      "word": "家长带孩子游野泳不听劝发生意外",
+      "onboard_time": 1660523190,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526857,
+      "num": 1431067,
+      "word": "三伏天就快过去了",
+      "onboard_time": 1660521325,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520868,
+      "num": 520868,
+      "word": "心动的信号5回归",
+      "onboard_time": 1660529789,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 516959,
+      "num": 516959,
+      "word": "多款芯片价格雪崩",
+      "onboard_time": 1660523069,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 501715,
+      "num": 501715,
+      "word": "王一博红毯回眸",
+      "onboard_time": 1660525168,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 497420,
+      "num": 497420,
+      "word": "特斯拉上海工厂100万辆整车下线",
+      "onboard_time": 1660528529,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -171,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 475620,
+      "num": 475620,
+      "word": "少女时代新歌MV导演道歉",
+      "onboard_time": 1660529727,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470857,
       "num": 363921,
       "word": "刘亦菲电影之夜红毯生图状态",
@@ -187,12 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415600,
-      "num": 415600,
-      "word": "家中8人患癌二胎妈妈也查出癌症",
-      "onboard_time": 1660519524,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 405344,
+      "num": 405344,
+      "word": "LGD亚军",
+      "onboard_time": 1660524510,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 384359,
@@ -201,6 +337,22 @@
       "onboard_time": 1660486292,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380024,
+      "num": 380024,
+      "word": "全球一年出货1.15万亿颗芯片",
+      "onboard_time": 1660526608,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 362007,
+      "num": 362007,
+      "word": "有秋天的感觉了吗",
+      "onboard_time": 1660527868,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 361449,
@@ -227,12 +379,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 353804,
+      "num": 353804,
+      "word": "每一个中国人都应铭记今天",
+      "onboard_time": 1660525470,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337720,
+      "num": 337720,
+      "word": "马冬梅式坐高铁",
+      "onboard_time": 1660526370,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325446,
       "num": 325446,
       "word": "乌鲁木齐本轮疫情毒株BA.5.2",
       "onboard_time": 1660490912,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322637,
+      "num": 322637,
+      "word": "网红打卡地成夺命险地平台应担责吗",
+      "onboard_time": 1660527027,
+      "rank": 27,
+      "category": "社会议题"
     },
     {
       "raw_hot": 321961,
@@ -243,12 +419,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317422,
+      "num": 317422,
+      "word": "日照新增1例阳性",
+      "onboard_time": 1660527268,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316301,
       "num": 316301,
       "word": "一定空置率说明居民住房水平提高",
       "onboard_time": 1660505053,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 308485,
+      "num": 308485,
+      "word": "北京8月14日本土零新增",
+      "onboard_time": 1660528047,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302207,
+      "num": 302207,
+      "word": "公交司机鸣笛引路人不满遭围殴",
+      "onboard_time": 1660527868,
+      "rank": 32,
+      "category": "社会负面"
     },
     {
       "raw_hot": 301120,
@@ -265,6 +465,14 @@
       "onboard_time": 1660495822,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297202,
+      "num": 297202,
+      "word": "胡一天张云龙柯南体质",
+      "onboard_time": 1660529789,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 294631,
@@ -299,6 +507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284802,
+      "num": 284802,
+      "word": "河南特岗",
+      "onboard_time": 1660528529,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 276734,
+      "num": 276734,
+      "word": "上海新增1例本土确诊5例本土无症状",
+      "onboard_time": 1660526488,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275744,
       "num": 275744,
       "word": "女生没考好深夜跪孔子像前忏悔",
@@ -313,6 +537,14 @@
       "onboard_time": 1660486474,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267516,
+      "num": 267516,
+      "word": "哈啰单车崩了",
+      "onboard_time": 1660523909,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 264973,
@@ -355,6 +587,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 247850,
+      "num": 247850,
+      "word": "成都游客河道中打麻将被劝离",
+      "onboard_time": 1660518981,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230996,
       "num": 230996,
       "word": "张家界坠亡女骑手家属获补偿45万元",
@@ -371,12 +611,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222328,
+      "num": 222328,
+      "word": "苍兰诀",
+      "onboard_time": 1660523548,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218241,
       "num": 218241,
       "word": "EDG 我们是冠军",
       "onboard_time": 1660473092,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212980,
+      "num": 212980,
+      "word": "新疆增确诊1例无症状343例",
+      "onboard_time": 1660525889,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210022,
+      "num": 210022,
+      "word": "无锡疫情防控",
+      "onboard_time": 1660528769,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207001,
+      "num": 207001,
+      "word": "广东对省运会决赛涉嫌假球进行调查",
+      "onboard_time": 1660524450,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206966,
+      "num": 206966,
+      "word": "张天爱马甲线",
+      "onboard_time": 1660529547,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 203654,
@@ -401,6 +681,14 @@
       "onboard_time": 1660498038,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200834,
+      "num": 200834,
+      "word": "厦门新增本土确诊6例",
+      "onboard_time": 1660528947,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197690,
@@ -441,14 +729,6 @@
       "onboard_time": 1660489292,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174789,
-      "num": 174789,
-      "word": "成都游客河道中打麻将被劝离",
-      "onboard_time": 1660518981,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172881,
@@ -692,6 +972,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#跟着习主席看世界#"
     }
   ]
 }
