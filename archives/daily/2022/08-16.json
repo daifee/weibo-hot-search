@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660591979279,
+  "endTime": 1660594955628,
   "band_list": [
     {
       "raw_hot": 1218466,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97296,
+      "num": 97296,
+      "word": "杭州西湖游客中暑事件频发",
+      "onboard_time": 1660589772,
+      "rank": 28,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 96513,
       "num": 96513,
       "word": "永劫无间周年主题曲无拘",
@@ -481,14 +489,6 @@
       "onboard_time": 1660557570,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53499,
-      "num": 53499,
-      "word": "杭州西湖游客中暑事件频发",
-      "onboard_time": 1660589772,
-      "rank": 28,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 49393,

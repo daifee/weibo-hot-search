@@ -1,0 +1,410 @@
+{
+  "runTime": 1660594955628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 111607,
+        "num": 111607,
+        "word": "鹿晗说在学校当风云人物的感觉",
+        "onboard_time": 1660582402,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109719,
+        "num": 109719,
+        "word": "日本民众举行反战示威游行",
+        "onboard_time": 1660561830,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 31413,
+        "num": 100597,
+        "word": "三星堆发现第一件带翅膀神兽",
+        "onboard_time": 1660556669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97296,
+        "num": 97296,
+        "word": "杭州西湖游客中暑事件频发",
+        "onboard_time": 1660589772,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 85493,
+        "num": 85493,
+        "word": "云南书记要求反思游客为什么不来",
+        "onboard_time": 1660581204,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 77766,
+        "num": 77766,
+        "word": "张艺兴发长文感谢中国街舞",
+        "onboard_time": 1660573831,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75257,
+        "num": 75257,
+        "word": "女子高温天买活虾到家熟透6只",
+        "onboard_time": 1660578809,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68991,
+        "num": 68991,
+        "word": "东方青苍小兰花吵架好默契",
+        "onboard_time": 1660583660,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63534,
+        "num": 63534,
+        "word": "爸爸数落女儿后求牵手被拒",
+        "onboard_time": 1660578147,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47450,
+        "num": 47450,
+        "word": "女子打了一个喷嚏腰椎骨折不自知",
+        "onboard_time": 1660586054,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44413,
+        "num": 44413,
+        "word": "网友做的暑期新剧鄙视链图",
+        "onboard_time": 1660573533,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44196,
+        "num": 44196,
+        "word": "女子新房阁楼墙遭邻居砸穿想共用",
+        "onboard_time": 1660574073,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42707,
+        "num": 42707,
+        "word": "江苏体彩1000万大奖急寻中奖者",
+        "onboard_time": 1660577251,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38369,
+        "num": 38369,
+        "word": "为什么慢热的人大多数都单身",
+        "onboard_time": 1660564350,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36743,
+        "num": 36743,
+        "word": "王鹤棣虞书欣太好嗑了",
+        "onboard_time": 1660579887,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35246,
+        "num": 35246,
+        "word": "苏州疫情防控",
+        "onboard_time": 1660577716,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34565,
+        "num": 34565,
+        "word": "1saye 想穿什么穿什么",
+        "onboard_time": 1660576472,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32597,
+        "num": 32597,
+        "word": "网购香猪不足一年长到140斤",
+        "onboard_time": 1660570652,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32237,
+        "num": 32237,
+        "word": "为何那么多月饼标价499元",
+        "onboard_time": 1660575152,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28130,
+        "num": 28130,
+        "word": "西安疫情防控",
+        "onboard_time": 1660577488,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106741,
+        "num": 27803,
+        "word": "马思纯微博评论区画风",
+        "onboard_time": 1660570232,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82595,
+        "num": 27683,
+        "word": "ESO全员改名",
+        "onboard_time": 1660572035,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46136,
+        "num": 26940,
+        "word": "胡锡进谈女孩穿和服被带走",
+        "onboard_time": 1660568130,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42388,
+        "num": 26640,
+        "word": "女子街头穿和服拍照被警方带走",
+        "onboard_time": 1660561229,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34228,
+        "num": 25980,
+        "word": "周杰伦MV终于不是一个人了",
+        "onboard_time": 1660570109,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25948,
+        "num": 25948,
+        "word": "辉瑞首席执行官新冠检测阳性",
+        "onboard_time": 1660569688,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25347,
+        "num": 25347,
+        "word": "原来社死只需要带个小孩",
+        "onboard_time": 1660569152,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25335,
+        "num": 25335,
+        "word": "一条瑜伽裤承受了太多",
+        "onboard_time": 1660572453,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25145,
+        "num": 25145,
+        "word": "女子从200斤逆袭成健美冠军",
+        "onboard_time": 1660560510,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24771,
+        "num": 24771,
+        "word": "42度都排不上全国高温前10",
+        "onboard_time": 1660570471,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28852,
+        "num": 23956,
+        "word": "刘雨昕 三伏天的西安",
+        "onboard_time": 1660579646,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26263,
+        "num": 23498,
+        "word": "五年后的凌不疑",
+        "onboard_time": 1660560210,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22967,
+        "num": 22967,
+        "word": "微信聊天对话框支持放大编辑",
+        "onboard_time": 1660571073,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22510,
+        "num": 22510,
+        "word": "永劫无间周年主题曲无拘",
+        "onboard_time": 1660579825,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22145,
+        "num": 22145,
+        "word": "程少商退婚后的五年",
+        "onboard_time": 1660551570,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20771,
+        "num": 20771,
+        "word": "国产冰岛三文鱼来了",
+        "onboard_time": 1660569931,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19950,
+        "num": 19950,
+        "word": "四川电力供需紧张让电于民",
+        "onboard_time": 1660558171,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19199,
+        "num": 19199,
+        "word": "钱七虎说中国防得住他国核打击",
+        "onboard_time": 1660573590,
+        "rank": 37,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 19173,
+        "num": 19173,
+        "word": "北京二季度平均月薪14252元",
+        "onboard_time": 1660569330,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18787,
+        "num": 18787,
+        "word": "伊犁鼠兔惊现天山",
+        "onboard_time": 1660567771,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18239,
+        "num": 18239,
+        "word": "为什么初恋的结局总是遗憾",
+        "onboard_time": 1660576112,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17952,
+        "num": 17952,
+        "word": "高温也卷起来了",
+        "onboard_time": 1660581263,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16953,
+        "num": 16953,
+        "word": "Gemini还在等九尾吃饭",
+        "onboard_time": 1660573713,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16192,
+        "num": 16192,
+        "word": "为什么吃冰西瓜容易拉肚子",
+        "onboard_time": 1660554391,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15110,
+        "num": 15110,
+        "word": "郭晓婷说今晚先宠哪个小可爱",
+        "onboard_time": 1660581683,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14156,
+        "num": 14156,
+        "word": "高秋梓欢乐颂3演张佳宁妹妹",
+        "onboard_time": 1660585157,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11899,
+        "num": 11899,
+        "word": "马嘉祺网速好慢",
+        "onboard_time": 1660585275,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11767,
+        "num": 11767,
+        "word": "河南2所大学入围全球1000强",
+        "onboard_time": 1660560811,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 11548,
+        "num": 11548,
+        "word": "南京冰墩墩变焦墩墩",
+        "onboard_time": 1660578086,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9523,
+        "num": 11544,
+        "word": "新疆大叔圆梦了",
+        "onboard_time": 1660578629,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设生态文明功在当代利在千秋#"
+    }
+  }
+}
