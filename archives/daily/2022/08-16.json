@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660648596345,
+  "endTime": 1660649589804,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -59,6 +59,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 2523438,
+      "num": 1998301,
+      "word": "警方通报13岁女童产女",
+      "onboard_time": 1660647212,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2300639,
       "num": 1553779,
       "word": "女子剖腹产出月子后首先办离婚",
@@ -73,14 +81,6 @@
       "onboard_time": 1660621233,
       "rank": 3,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1998301,
-      "num": 1998301,
-      "word": "警方通报13岁女童产女",
-      "onboard_time": 1660647212,
-      "rank": 1,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1918198,
@@ -475,6 +475,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 773765,
+      "num": 773765,
+      "word": "虞书欣直播抱的是黑熊",
+      "onboard_time": 1660649250,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756519,
       "num": 370868,
       "word": "唐嫣背影比耶照",
@@ -521,6 +529,14 @@
       "onboard_time": 1660608266,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 711995,
+      "num": 711995,
+      "word": "四川一老人患热射去世",
+      "onboard_time": 1660645769,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 688029,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595093,
+      "num": 574641,
+      "word": "程少商跪别宣皇后",
+      "onboard_time": 1660649250,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 588278,
       "num": 363928,
       "word": "宋茜 不是来拍照的",
@@ -667,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 560757,
-      "num": 560757,
-      "word": "四川一老人患热射去世",
-      "onboard_time": 1660645769,
-      "rank": 37,
-      "category": "社会负面"
+      "raw_hot": 545772,
+      "num": 545772,
+      "word": "周深撞脸星汉灿烂群演",
+      "onboard_time": 1660646611,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 538165,
@@ -787,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510745,
-      "num": 510745,
-      "word": "周深撞脸星汉灿烂群演",
-      "onboard_time": 1660646611,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 498353,
       "num": 498353,
       "word": "虞书欣王鹤棣苍兰诀双人直播",
@@ -891,8 +907,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429575,
-      "num": 429575,
+      "raw_hot": 433596,
+      "num": 433596,
       "word": "第一次见抽血这么乖的猫",
       "onboard_time": 1660644514,
       "rank": 37,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1660576472,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 384724,
+      "num": 384724,
+      "word": "苏格兰免费为女性提供生理期用品",
+      "onboard_time": 1660648052,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377627,
@@ -1163,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337666,
+      "num": 337666,
+      "word": "骆少川是贵族",
+      "onboard_time": 1660649133,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336144,
       "num": 336144,
       "word": "昆明市新增确诊病例1例",
@@ -1192,6 +1224,14 @@
       "word": "颜淡的偏爱一直是唐周",
       "onboard_time": 1660643972,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334106,
+      "num": 276268,
+      "word": "凌不疑独战寿春城",
+      "onboard_time": 1660649193,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1315,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297786,
+      "num": 297786,
+      "word": "95后小伙工作2年暴涨100斤",
+      "onboard_time": 1660648711,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296029,
       "num": 266278,
       "word": "胡兵51岁身体柔韧度",
@@ -1335,6 +1383,14 @@
       "num": 227267,
       "word": "女子街头穿和服拍照被警方带走",
       "onboard_time": 1660561229,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292346,
+      "num": 292346,
+      "word": "长江流域发生严重旱情",
+      "onboard_time": 1660649250,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -1420,7 +1476,7 @@
     },
     {
       "raw_hot": 273781,
-      "num": 229671,
+      "num": 261052,
       "word": "开画少女漫",
       "onboard_time": 1660647390,
       "rank": 31,
@@ -1755,20 +1811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219563,
+      "num": 219563,
+      "word": "山东威海新增2例无症状",
+      "onboard_time": 1660645410,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218618,
       "num": 218618,
       "word": "这届学生过暑假的百种方式",
       "onboard_time": 1660641992,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 216344,
-      "num": 216344,
-      "word": "山东威海新增2例无症状",
-      "onboard_time": 1660645410,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215322,
@@ -1801,6 +1857,14 @@
       "onboard_time": 1660614810,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207116,
+      "num": 207116,
+      "word": "今年夏天热得有多夸张",
+      "onboard_time": 1660647633,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 206037,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1660581683,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187894,
-      "num": 187894,
-      "word": "苏格兰免费为女性提供生理期用品",
-      "onboard_time": 1660648052,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186970,
@@ -2163,14 +2219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135745,
-      "num": 135745,
-      "word": "今年夏天热得有多夸张",
-      "onboard_time": 1660647633,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134630,
       "num": 134630,
       "word": "四川电力供需紧张让电于民",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1660569931,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114788,
+      "num": 130738,
+      "word": "腾讯澄清减持美团传闻",
+      "onboard_time": 1660649551,
+      "rank": 49,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 113808,

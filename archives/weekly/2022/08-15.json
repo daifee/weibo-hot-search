@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660648596345,
+  "endTime": 1660649589804,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -139,6 +139,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 2523438,
+      "num": 1998301,
+      "word": "警方通报13岁女童产女",
+      "onboard_time": 1660647212,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2367420,
       "num": 2367420,
       "word": "张艺兴发长文感谢中国街舞",
@@ -185,14 +193,6 @@
       "onboard_time": 1660550669,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1998301,
-      "num": 1998301,
-      "word": "警方通报13岁女童产女",
-      "onboard_time": 1660647212,
-      "rank": 1,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1991266,
@@ -1131,6 +1131,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 773765,
+      "num": 773765,
+      "word": "虞书欣直播抱的是黑熊",
+      "onboard_time": 1660649250,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770797,
       "num": 624563,
       "word": "Angelababy永远喜欢简单真诚",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1660608266,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 711995,
+      "num": 711995,
+      "word": "四川一老人患热射去世",
+      "onboard_time": 1660645769,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 710770,
@@ -1451,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595093,
+      "num": 574641,
+      "word": "程少商跪别宣皇后",
+      "onboard_time": 1660649250,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591690,
       "num": 591690,
       "word": "北京二季度平均月薪14252元",
@@ -1531,14 +1555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 560757,
-      "num": 560757,
-      "word": "四川一老人患热射去世",
-      "onboard_time": 1660645769,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 559789,
       "num": 559789,
       "word": "虞书欣甜辣gwalla直拍",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1660539155,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 545772,
+      "num": 545772,
+      "word": "周深撞脸星汉灿烂群演",
+      "onboard_time": 1660646611,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 543826,
@@ -1791,14 +1815,6 @@
       "num": 511317,
       "word": "今年暑期档最让你上头的剧",
       "onboard_time": 1660639711,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 510745,
-      "num": 510745,
-      "word": "周深撞脸星汉灿烂群演",
-      "onboard_time": 1660646611,
       "rank": 13,
       "category": "影视"
     },
@@ -2211,20 +2227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433596,
+      "num": 433596,
+      "word": "第一次见抽血这么乖的猫",
+      "onboard_time": 1660644514,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 432833,
       "num": 432833,
       "word": "钱七虎说中国防得住他国核打击",
       "onboard_time": 1660573590,
       "rank": 29,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 429575,
-      "num": 429575,
-      "word": "第一次见抽血这么乖的猫",
-      "onboard_time": 1660644514,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 427481,
@@ -2417,6 +2433,14 @@
       "onboard_time": 1660537473,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384724,
+      "num": 384724,
+      "word": "苏格兰免费为女性提供生理期用品",
+      "onboard_time": 1660648052,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384359,
@@ -2811,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 337666,
+      "num": 337666,
+      "word": "骆少川是贵族",
+      "onboard_time": 1660649133,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336144,
       "num": 336144,
       "word": "昆明市新增确诊病例1例",
@@ -2840,6 +2872,14 @@
       "word": "颜淡的偏爱一直是唐周",
       "onboard_time": 1660643972,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334106,
+      "num": 276268,
+      "word": "凌不疑独战寿春城",
+      "onboard_time": 1660649193,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -3163,6 +3203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297786,
+      "num": 297786,
+      "word": "95后小伙工作2年暴涨100斤",
+      "onboard_time": 1660648711,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297202,
       "num": 297202,
       "word": "胡一天张云龙柯南体质",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1660489894,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292346,
+      "num": 292346,
+      "word": "长江流域发生严重旱情",
+      "onboard_time": 1660649250,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290401,
@@ -3420,7 +3476,7 @@
     },
     {
       "raw_hot": 273781,
-      "num": 229671,
+      "num": 261052,
       "word": "开画少女漫",
       "onboard_time": 1660647390,
       "rank": 31,
@@ -3939,6 +3995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219563,
+      "num": 219563,
+      "word": "山东威海新增2例无症状",
+      "onboard_time": 1660645410,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219252,
       "num": 219252,
       "word": "被吃苹果的小熊猫可爱到了",
@@ -3968,14 +4032,6 @@
       "word": "李清照诗词照进现实了",
       "onboard_time": 1660560450,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216344,
-      "num": 216344,
-      "word": "山东威海新增2例无症状",
-      "onboard_time": 1660645410,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4049,6 +4105,14 @@
       "onboard_time": 1660555109,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207116,
+      "num": 207116,
+      "word": "今年夏天热得有多夸张",
+      "onboard_time": 1660647633,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 207001,
@@ -4233,14 +4297,6 @@
       "onboard_time": 1660531587,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 187894,
-      "num": 187894,
-      "word": "苏格兰免费为女性提供生理期用品",
-      "onboard_time": 1660648052,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186988,
@@ -4563,14 +4619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135745,
-      "num": 135745,
-      "word": "今年夏天热得有多夸张",
-      "onboard_time": 1660647633,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132898,
       "num": 132898,
       "word": "王俊凯说断桥给了自己很高的营养",
@@ -4609,6 +4657,14 @@
       "onboard_time": 1660520187,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114788,
+      "num": 130738,
+      "word": "腾讯澄清减持美团传闻",
+      "onboard_time": 1660649551,
+      "rank": 49,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 113958,
