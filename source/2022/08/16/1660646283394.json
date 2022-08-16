@@ -1,0 +1,410 @@
+{
+  "runTime": 1660646283394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2619978,
+        "num": 2619978,
+        "word": "店主遇女孩衣衫不整进店帮穿衣",
+        "onboard_time": 1660641213,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1847044,
+        "num": 1847044,
+        "word": "林志颖顺利完成颜面手术",
+        "onboard_time": 1660637071,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52213,
+        "num": 1540664,
+        "word": "120秒珍贵画面缅怀焦裕禄",
+        "onboard_time": 1660619614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2275183,
+        "num": 1523643,
+        "word": "女子剖腹产出月子后首先办离婚",
+        "onboard_time": 1660644390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1496784,
+        "num": 1496784,
+        "word": "赵丽颖欧豪野蛮生长过审",
+        "onboard_time": 1660644390,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1090125,
+        "num": 1090125,
+        "word": "重庆嘉陵江都被晒干了",
+        "onboard_time": 1660640911,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977012,
+        "num": 977012,
+        "word": "官方辟谣上海前滩出现猴痘",
+        "onboard_time": 1660642291,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910873,
+        "num": 910873,
+        "word": "王鹤棣Gwalla练习室直拍",
+        "onboard_time": 1660644514,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 677373,
+        "num": 677373,
+        "word": "中方回应解放军战机俯瞰澎湖列岛",
+        "onboard_time": 1660639172,
+        "rank": 8,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 630260,
+        "num": 630260,
+        "word": "辅助生殖技术将逐步纳入医保",
+        "onboard_time": 1660639231,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627003,
+        "num": 627003,
+        "word": "三亚市吉阳区委书记被免职",
+        "onboard_time": 1660643254,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602394,
+        "num": 602394,
+        "word": "马航MH17",
+        "onboard_time": 1660621233,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 559949,
+        "num": 559949,
+        "word": "小伙深夜点外卖收到拉丝米饭",
+        "onboard_time": 1660640732,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554269,
+        "num": 554269,
+        "word": "梦中的那片海",
+        "onboard_time": 1660641511,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467598,
+        "num": 467598,
+        "word": "颜淡终于承认喜欢唐周",
+        "onboard_time": 1660646192,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459407,
+        "num": 459407,
+        "word": "爸爸酒驾女儿怕影响考公为其求情",
+        "onboard_time": 1660624599,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438460,
+        "num": 438460,
+        "word": "理想汽车每卖出一辆车亏损2.3万元",
+        "onboard_time": 1660637733,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 427378,
+        "num": 427378,
+        "word": "有必要把英语当主课吗",
+        "onboard_time": 1660640310,
+        "rank": 17,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 425899,
+        "num": 425899,
+        "word": "马思纯道歉",
+        "onboard_time": 1660615653,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370056,
+        "num": 370056,
+        "word": "年轻人为何不爱逛宜家了",
+        "onboard_time": 1660621950,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 566904,
+        "num": 369777,
+        "word": "王俊凯花式炫耀有周杰伦联系方式",
+        "onboard_time": 1660637912,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402587,
+        "num": 368304,
+        "word": "张予曦古装短片既演公主又演舞娘",
+        "onboard_time": 1660645531,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 383665,
+        "num": 368194,
+        "word": "吴露可逃相拥剧照",
+        "onboard_time": 1660640852,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365480,
+        "num": 365480,
+        "word": "第一次见抽血这么乖的猫",
+        "onboard_time": 1660644514,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 363018,
+        "num": 363018,
+        "word": "陈宇心里有个警察局",
+        "onboard_time": 1660645652,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351854,
+        "num": 351854,
+        "word": "你为什么不买折叠屏手机",
+        "onboard_time": 1660643554,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330984,
+        "num": 330984,
+        "word": "西安市新增3个高风险区",
+        "onboard_time": 1660644092,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314052,
+        "num": 314052,
+        "word": "未来AI伴侣或成现实",
+        "onboard_time": 1660644030,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 305952,
+        "num": 305952,
+        "word": "重庆51条河流断流24座水库干涸",
+        "onboard_time": 1660644813,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294049,
+        "num": 294049,
+        "word": "特斯拉狂粉用亲女儿测自动驾驶",
+        "onboard_time": 1660633470,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329478,
+        "num": 290813,
+        "word": "唐嫣背影比耶照",
+        "onboard_time": 1660641093,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300303,
+        "num": 288636,
+        "word": "毕雯珺说我真的没有一米九",
+        "onboard_time": 1660644870,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285832,
+        "num": 285832,
+        "word": "腾讯回应剥离美团传闻",
+        "onboard_time": 1660639833,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 281701,
+        "num": 281701,
+        "word": "颜淡的偏爱一直是唐周",
+        "onboard_time": 1660643972,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279407,
+        "num": 279407,
+        "word": "中方的坚定举措台独会感受到",
+        "onboard_time": 1660644092,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 273182,
+        "num": 273182,
+        "word": "95后小伙一年爬两座珠峰",
+        "onboard_time": 1660641093,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243813,
+        "num": 243813,
+        "word": "外交部回应美韩日联合军演",
+        "onboard_time": 1660639231,
+        "rank": 36,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 218889,
+        "num": 218889,
+        "word": "四川一老人患热射去世",
+        "onboard_time": 1660645769,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 214655,
+        "num": 214655,
+        "word": "方特游乐园回应游客带炒饭被禁入",
+        "onboard_time": 1660639771,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 213100,
+        "num": 213100,
+        "word": "成熟后理解了章鱼哥",
+        "onboard_time": 1660641631,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 262260,
+        "num": 213021,
+        "word": "今年暑期档最让你上头的剧",
+        "onboard_time": 1660639711,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261066,
+        "num": 212711,
+        "word": "李承铉第一条朋友圈是官宣结婚",
+        "onboard_time": 1660642955,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237997,
+        "num": 211465,
+        "word": "嫋嫋成长的代价太大了",
+        "onboard_time": 1660631728,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209187,
+        "num": 209187,
+        "word": "郑州5年要引进100万名青年人才",
+        "onboard_time": 1660636472,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204907,
+        "num": 204907,
+        "word": "山东威海新增2例无症状",
+        "onboard_time": 1660645410,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189448,
+        "num": 189448,
+        "word": "民警烈日下唠叨一路阻止阿姨转账",
+        "onboard_time": 1660645833,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186858,
+        "num": 186858,
+        "word": "保安大叔两入16楼火场救出2名儿童",
+        "onboard_time": 1660638691,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 170343,
+        "num": 170343,
+        "word": "小学生把暑假作业藏商场冰箱",
+        "onboard_time": 1660637432,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163415,
+        "num": 163415,
+        "word": "故宫夏日祥云出片了",
+        "onboard_time": 1660646010,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 160925,
+        "num": 160925,
+        "word": "这届学生过暑假的百种方式",
+        "onboard_time": 1660641992,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
