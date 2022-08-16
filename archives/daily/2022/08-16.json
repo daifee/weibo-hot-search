@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660628078100,
+  "endTime": 1660631201033,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -99,20 +99,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1384787,
+      "num": 1384787,
+      "word": "爸爸酒驾女儿怕影响考公为其求情",
+      "onboard_time": 1660624599,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1333496,
       "num": 1333496,
       "word": "iPhone低电量模式可关闭电池百分比",
       "onboard_time": 1660617512,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1304549,
-      "num": 1304549,
-      "word": "爸爸酒驾女儿怕影响考公为其求情",
-      "onboard_time": 1660624599,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1265964,
@@ -227,12 +227,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938507,
+      "num": 938507,
+      "word": "龙漕沟遇险游客追责旅行社",
+      "onboard_time": 1660628914,
+      "rank": 5,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 936741,
       "num": 760450,
       "word": "王鹤棣 内娱拿放哥",
       "onboard_time": 1660619614,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 935339,
+      "num": 773604,
+      "word": "王鹤棣是真的没有偶像包袱吧",
+      "onboard_time": 1660629271,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 878099,
+      "num": 878099,
+      "word": "6岁女孩突然不会走确认和基因有关",
+      "onboard_time": 1660626638,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843198,
@@ -283,6 +307,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 783055,
+      "num": 783055,
+      "word": "谁会在40几度去重庆啊",
+      "onboard_time": 1660624599,
+      "rank": 25,
+      "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 751009,
+      "num": 751009,
+      "word": "李承铉发啥含戚量都高",
+      "onboard_time": 1660630234,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 725453,
       "num": 725453,
       "word": "30万现金被烧银行用牙签挽回14余万",
@@ -305,14 +345,6 @@
       "onboard_time": 1660577488,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653220,
-      "num": 653220,
-      "word": "谁会在40几度去重庆啊",
-      "onboard_time": 1660624599,
-      "rank": 25,
-      "category": "美食,旅游"
     },
     {
       "raw_hot": 650666,
@@ -377,6 +409,14 @@
       "onboard_time": 1660609413,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584442,
+      "num": 343612,
+      "word": "宋茜 不是来拍照的",
+      "onboard_time": 1660628256,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 583746,
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468149,
+      "num": 468149,
+      "word": "南部战区战机深夜空战对抗训练",
+      "onboard_time": 1660627776,
+      "rank": 48,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 458711,
       "num": 394148,
       "word": "一代代程序员总会老去但总有代码被传承",
@@ -537,6 +585,14 @@
       "onboard_time": 1660615833,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439815,
+      "num": 335779,
+      "word": "鹿晗毛不易再看创3主题曲",
+      "onboard_time": 1660628433,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 426953,
@@ -659,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346207,
+      "num": 346207,
+      "word": "重庆秀山统计局局长涉嫌猥亵女同事",
+      "onboard_time": 1660629631,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 341912,
       "num": 341912,
       "word": "让国企敢干民企敢闯外企敢投",
@@ -723,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315699,
-      "num": 315699,
-      "word": "6岁女孩突然不会走确认和基因有关",
-      "onboard_time": 1660626638,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312577,
       "num": 312577,
       "word": "四川临时限电或影响iPad组装",
@@ -753,6 +809,14 @@
       "onboard_time": 1660560210,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300546,
+      "num": 300546,
+      "word": "为什么说年轻人是小镇刺头",
+      "onboard_time": 1660629992,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 299675,
@@ -795,8 +859,16 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 282166,
-      "num": 282166,
+      "raw_hot": 283711,
+      "num": 283711,
+      "word": "老百姓大药房登记顾客姓名为畜生",
+      "onboard_time": 1660629872,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283081,
+      "num": 283081,
       "word": "杭州新增1例无症状感染者",
       "onboard_time": 1660626817,
       "rank": 39,
@@ -931,6 +1003,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 239236,
+      "num": 239236,
+      "word": "北京的秋天适合望天",
+      "onboard_time": 1660629031,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237236,
       "num": 237236,
       "word": "为什么慢热的人大多数都单身",
@@ -969,6 +1049,14 @@
       "onboard_time": 1660616492,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231830,
+      "num": 224159,
+      "word": "voguefilm",
+      "onboard_time": 1660629692,
+      "rank": 34,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 228962,
@@ -1011,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221944,
+      "num": 159334,
+      "word": "LCK夏季赛最佳阵容",
+      "onboard_time": 1660631190,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213298,
       "num": 213298,
       "word": "武大靖四年后的约定",
@@ -1041,6 +1137,14 @@
       "onboard_time": 1660567889,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203056,
+      "num": 203056,
+      "word": "受Fly鼓舞的电竞女孩圆梦北大",
+      "onboard_time": 1660630653,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201747,
@@ -1139,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186418,
+      "num": 186418,
+      "word": "科学家发现抗衰老新途径",
+      "onboard_time": 1660629153,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "浙江卫视818晚会官宣首波阵容",
@@ -1152,6 +1264,14 @@
       "word": "云南新增1例本土确诊",
       "onboard_time": 1660623337,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173504,
+      "num": 173504,
+      "word": "广州新增1例本土确诊",
+      "onboard_time": 1660628793,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161020,
+      "num": 161020,
+      "word": "牺牲消防员万惠文的遗物看哭了",
+      "onboard_time": 1660630291,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160789,
       "num": 160789,
       "word": "新疆大叔圆梦了",
@@ -1227,19 +1355,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153536,
-      "num": 153536,
-      "word": "南部战区战机深夜空战对抗训练",
-      "onboard_time": 1660627776,
-      "rank": 48,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 149932,
       "num": 149932,
       "word": "3人海钓船被掀翻36小时后获救",
       "onboard_time": 1660597451,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148465,
+      "num": 148465,
+      "word": "盒马进口橙汁检出安赛蜜被罚",
+      "onboard_time": 1660631012,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1289,6 +1417,14 @@
       "onboard_time": 1660567771,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "湖州鼓励国企收购困难房企的滞销房",
+      "onboard_time": 1660631131,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 125543,
