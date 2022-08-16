@@ -1,0 +1,410 @@
+{
+  "runTime": 1660632321032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3233748,
+        "num": 3233748,
+        "word": "马航MH17",
+        "onboard_time": 1660621233,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1949753,
+        "num": 1949753,
+        "word": "马思纯道歉",
+        "onboard_time": 1660615653,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184774,
+        "num": 1268780,
+        "word": "120秒珍贵画面缅怀焦裕禄",
+        "onboard_time": 1660619614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262819,
+        "num": 1262819,
+        "word": "爸爸酒驾女儿怕影响考公为其求情",
+        "onboard_time": 1660624599,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073507,
+        "num": 1073507,
+        "word": "陈若仪晒与林志颖握手照",
+        "onboard_time": 1660616912,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 936426,
+        "num": 936426,
+        "word": "年轻人为何不爱逛宜家了",
+        "onboard_time": 1660621950,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 853869,
+        "num": 853869,
+        "word": "6岁女孩突然不会走确认和基因有关",
+        "onboard_time": 1660626638,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830173,
+        "num": 830173,
+        "word": "李承铉发啥含戚量都高",
+        "onboard_time": 1660630234,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801511,
+        "num": 801511,
+        "word": "龙漕沟遇险游客追责旅行社",
+        "onboard_time": 1660628914,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 738315,
+        "num": 738315,
+        "word": "王者荣耀7月收入2.25亿美金",
+        "onboard_time": 1660621353,
+        "rank": 9,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 832141,
+        "num": 736776,
+        "word": "王鹤棣是真的没有偶像包袱吧",
+        "onboard_time": 1660629271,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 723026,
+        "num": 723026,
+        "word": "嫋嫋成长的代价太大了",
+        "onboard_time": 1660631728,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626810,
+        "num": 626810,
+        "word": "谁会在40几度去重庆啊",
+        "onboard_time": 1660624599,
+        "rank": 12,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 545547,
+        "num": 545547,
+        "word": "清华爸爸辅导作业崩溃锤墙",
+        "onboard_time": 1660621652,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 538479,
+        "num": 538479,
+        "word": "老百姓大药房登记顾客姓名为畜生",
+        "onboard_time": 1660629872,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538165,
+        "num": 538165,
+        "word": "南部战区战机深夜空战对抗训练",
+        "onboard_time": 1660627776,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 472105,
+        "num": 472105,
+        "word": "汪峰官宣新专辑8月24日发布",
+        "onboard_time": 1660625861,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388980,
+        "num": 388980,
+        "word": "重庆秀山统计局局长涉嫌猥亵女同事",
+        "onboard_time": 1660629631,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 384850,
+        "num": 384850,
+        "word": "iPhone低电量模式可关闭电池百分比",
+        "onboard_time": 1660617512,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358980,
+        "num": 358980,
+        "word": "为什么说年轻人是小镇刺头",
+        "onboard_time": 1660629992,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588278,
+        "num": 353625,
+        "word": "宋茜 不是来拍照的",
+        "onboard_time": 1660628256,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414178,
+        "num": 349621,
+        "word": "尴尬",
+        "onboard_time": 1660616551,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372451,
+        "num": 344470,
+        "word": "鹿晗毛不易再看创3主题曲",
+        "onboard_time": 1660628433,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336507,
+        "num": 336507,
+        "word": "公摊面积是否能取消",
+        "onboard_time": 1660617752,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 302972,
+        "num": 302972,
+        "word": "盒马进口橙汁检出安赛蜜被罚",
+        "onboard_time": 1660631012,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263416,
+        "num": 263416,
+        "word": "受Fly鼓舞的电竞女孩圆梦北大",
+        "onboard_time": 1660630653,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250415,
+        "num": 250415,
+        "word": "原来游戏学专业都是学霸",
+        "onboard_time": 1660625202,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243124,
+        "num": 243124,
+        "word": "杭州新增1例无症状感染者",
+        "onboard_time": 1660626817,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236853,
+        "num": 236853,
+        "word": "兔妈妈狂薅狗毛为产子做窝",
+        "onboard_time": 1660619011,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 232374,
+        "num": 232374,
+        "word": "牺牲消防员万惠文的遗物看哭了",
+        "onboard_time": 1660630291,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331469,
+        "num": 232241,
+        "word": "明天没有苍兰诀了",
+        "onboard_time": 1660625321,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294288,
+        "num": 232109,
+        "word": "江疏影问油条吃甜的还是咸的",
+        "onboard_time": 1660625918,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286316,
+        "num": 231952,
+        "word": "车银优出演今天也很可爱男主",
+        "onboard_time": 1660631433,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242951,
+        "num": 231866,
+        "word": "吴振峰QQ号叫邮一只软猫",
+        "onboard_time": 1660631312,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231736,
+        "num": 231736,
+        "word": "LCK夏季赛最佳阵容",
+        "onboard_time": 1660631190,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222690,
+        "num": 222690,
+        "word": "科学家发现抗衰老新途径",
+        "onboard_time": 1660629153,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217705,
+        "num": 217705,
+        "word": "北京的秋天适合望天",
+        "onboard_time": 1660629031,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207468,
+        "num": 207468,
+        "word": "110平方米的房子到手仅61平方米",
+        "onboard_time": 1660610314,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181137,
+        "num": 181137,
+        "word": "湖州鼓励国企收购困难房企的滞销房",
+        "onboard_time": 1660631131,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173612,
+        "num": 173612,
+        "word": "苹果因搜包耽误员工下班赔偿2亿",
+        "onboard_time": 1660611455,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 215878,
+        "num": 172133,
+        "word": "一代代程序员总会老去但总有代码被传承",
+        "onboard_time": 1660627114,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214704,
+        "num": 171509,
+        "word": "沈月左千黛还原度",
+        "onboard_time": 1660623100,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170144,
+        "num": 170144,
+        "word": "新iPad将10月发布",
+        "onboard_time": 1660620333,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165163,
+        "num": 165163,
+        "word": "男子玩儿童滑梯摔伤诉赔17万",
+        "onboard_time": 1660624179,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159906,
+        "num": 159906,
+        "word": "明年起河南交房即交证",
+        "onboard_time": 1660623038,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156615,
+        "num": 156615,
+        "word": "95后开航母驾战机太帅了",
+        "onboard_time": 1660623820,
+        "rank": 45,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 151326,
+        "num": 151326,
+        "word": "小区群真是太精彩了",
+        "onboard_time": 1660622438,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150902,
+        "num": 150902,
+        "word": "印度足协被全球禁赛",
+        "onboard_time": 1660620092,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144975,
+        "num": 144975,
+        "word": "广州新增1例本土确诊",
+        "onboard_time": 1660628793,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129003,
+        "num": 129003,
+        "word": "3名准大学生临危不乱雨中救火",
+        "onboard_time": 1660620633,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持战略定力坚定做好自己的事#"
+    }
+  }
+}

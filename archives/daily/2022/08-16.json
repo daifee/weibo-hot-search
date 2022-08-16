@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660631201033,
+  "endTime": 1660632321032,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830173,
+      "num": 830173,
+      "word": "李承铉发啥含戚量都高",
+      "onboard_time": 1660630234,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787474,
       "num": 787474,
       "word": "苏州疫情防控",
@@ -315,20 +323,20 @@
       "category": "美食,旅游"
     },
     {
-      "raw_hot": 751009,
-      "num": 751009,
-      "word": "李承铉发啥含戚量都高",
-      "onboard_time": 1660630234,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 725453,
       "num": 725453,
       "word": "30万现金被烧银行用牙签挽回14余万",
       "onboard_time": 1660613732,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723026,
+      "num": 723026,
+      "word": "嫋嫋成长的代价太大了",
+      "onboard_time": 1660631728,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 712572,
@@ -411,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584442,
-      "num": 343612,
+      "raw_hot": 588278,
+      "num": 353625,
       "word": "宋茜 不是来拍照的",
       "onboard_time": 1660628256,
       "rank": 20,
@@ -441,6 +449,22 @@
       "onboard_time": 1660625861,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 538479,
+      "num": 538479,
+      "word": "老百姓大药房登记顾客姓名为畜生",
+      "onboard_time": 1660629872,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538165,
+      "num": 538165,
+      "word": "南部战区战机深夜空战对抗训练",
+      "onboard_time": 1660627776,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 537935,
@@ -539,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468149,
-      "num": 468149,
-      "word": "南部战区战机深夜空战对抗训练",
-      "onboard_time": 1660627776,
-      "rank": 48,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 458711,
       "num": 394148,
       "word": "一代代程序员总会老去但总有代码被传承",
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 439815,
-      "num": 335779,
+      "num": 344470,
       "word": "鹿晗毛不易再看创3主题曲",
       "onboard_time": 1660628433,
       "rank": 22,
@@ -651,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388980,
+      "num": 388980,
+      "word": "重庆秀山统计局局长涉嫌猥亵女同事",
+      "onboard_time": 1660629631,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 387208,
       "num": 387208,
       "word": "1saye 想穿什么穿什么",
@@ -707,20 +731,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358980,
+      "num": 358980,
+      "word": "为什么说年轻人是小镇刺头",
+      "onboard_time": 1660629992,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357327,
       "num": 357327,
       "word": "刘雨昕 三伏天的西安",
       "onboard_time": 1660579646,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346207,
-      "num": 346207,
-      "word": "重庆秀山统计局局长涉嫌猥亵女同事",
-      "onboard_time": 1660629631,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 341912,
@@ -803,20 +827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302972,
+      "num": 302972,
+      "word": "盒马进口橙汁检出安赛蜜被罚",
+      "onboard_time": 1660631012,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301461,
       "num": 235873,
       "word": "五年后的凌不疑",
       "onboard_time": 1660560210,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300546,
-      "num": 300546,
-      "word": "为什么说年轻人是小镇刺头",
-      "onboard_time": 1660629992,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 299675,
@@ -851,20 +875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286316,
+      "num": 231952,
+      "word": "车银优出演今天也很可爱男主",
+      "onboard_time": 1660631433,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285995,
       "num": 285995,
       "word": "95后开航母驾战机太帅了",
       "onboard_time": 1660623820,
       "rank": 44,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 283711,
-      "num": 283711,
-      "word": "老百姓大药房登记顾客姓名为畜生",
-      "onboard_time": 1660629872,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283081,
@@ -939,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263416,
+      "num": 263416,
+      "word": "受Fly鼓舞的电竞女孩圆梦北大",
+      "onboard_time": 1660630653,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263104,
       "num": 223748,
       "word": "电影狼群",
@@ -995,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242951,
+      "num": 231866,
+      "word": "吴振峰QQ号叫邮一只软猫",
+      "onboard_time": 1660631312,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242921,
       "num": 242921,
       "word": "正告台独顽固分子必须悬崖勒马",
@@ -1043,6 +1083,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 232374,
+      "num": 232374,
+      "word": "牺牲消防员万惠文的遗物看哭了",
+      "onboard_time": 1660630291,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231882,
       "num": 231882,
       "word": "成都疫情防控",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1660629692,
       "rank": 34,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 231736,
+      "num": 231736,
+      "word": "LCK夏季赛最佳阵容",
+      "onboard_time": 1660631190,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 228962,
@@ -1091,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222690,
+      "num": 222690,
+      "word": "科学家发现抗衰老新途径",
+      "onboard_time": 1660629153,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 222572,
       "num": 222572,
       "word": "沉香如屑",
       "onboard_time": 1660617453,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221944,
-      "num": 159334,
-      "word": "LCK夏季赛最佳阵容",
-      "onboard_time": 1660631190,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 213298,
@@ -1137,14 +1193,6 @@
       "onboard_time": 1660567889,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203056,
-      "num": 203056,
-      "word": "受Fly鼓舞的电竞女孩圆梦北大",
-      "onboard_time": 1660630653,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 201747,
@@ -1243,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186418,
-      "num": 186418,
-      "word": "科学家发现抗衰老新途径",
-      "onboard_time": 1660629153,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "浙江卫视818晚会官宣首波阵容",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1660623337,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181137,
+      "num": 181137,
+      "word": "湖州鼓励国企收购困难房企的滞销房",
+      "onboard_time": 1660631131,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 173504,
@@ -1315,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161020,
-      "num": 161020,
-      "word": "牺牲消防员万惠文的遗物看哭了",
-      "onboard_time": 1660630291,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160789,
       "num": 160789,
       "word": "新疆大叔圆梦了",
@@ -1360,14 +1400,6 @@
       "word": "3人海钓船被掀翻36小时后获救",
       "onboard_time": 1660597451,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148465,
-      "num": 148465,
-      "word": "盒马进口橙汁检出安赛蜜被罚",
-      "onboard_time": 1660631012,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1417,14 +1449,6 @@
       "onboard_time": 1660567771,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130644,
-      "num": 130644,
-      "word": "湖州鼓励国企收购困难房企的滞销房",
-      "onboard_time": 1660631131,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 125543,
