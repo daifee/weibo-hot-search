@@ -1,0 +1,410 @@
+{
+  "runTime": 1660648596345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2177035,
+        "num": 2177035,
+        "word": "店主遇女孩衣衫不整进店帮穿衣",
+        "onboard_time": 1660641213,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1998301,
+        "num": 1998301,
+        "word": "警方通报13岁女童产女",
+        "onboard_time": 1660647212,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 28238,
+        "num": 1581244,
+        "word": "120秒珍贵画面缅怀焦裕禄",
+        "onboard_time": 1660619614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2300639,
+        "num": 1553779,
+        "word": "女子剖腹产出月子后首先办离婚",
+        "onboard_time": 1660644390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450085,
+        "num": 1450085,
+        "word": "林志颖顺利完成颜面手术",
+        "onboard_time": 1660637071,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012146,
+        "num": 1012146,
+        "word": "赵丽颖欧豪野蛮生长过审",
+        "onboard_time": 1660644390,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 951662,
+        "num": 951662,
+        "word": "重庆嘉陵江都被晒干了",
+        "onboard_time": 1660640911,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846930,
+        "num": 846930,
+        "word": "颜淡终于承认喜欢唐周",
+        "onboard_time": 1660646192,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736985,
+        "num": 736985,
+        "word": "官方辟谣上海前滩出现猴痘",
+        "onboard_time": 1660642291,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648449,
+        "num": 648449,
+        "word": "三亚市吉阳区委书记被免职",
+        "onboard_time": 1660643254,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573456,
+        "num": 573456,
+        "word": "王鹤棣Gwalla练习室直拍",
+        "onboard_time": 1660644514,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560757,
+        "num": 560757,
+        "word": "四川一老人患热射去世",
+        "onboard_time": 1660645769,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 535201,
+        "num": 535201,
+        "word": "你为什么不买折叠屏手机",
+        "onboard_time": 1660643554,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 510745,
+        "num": 510745,
+        "word": "周深撞脸星汉灿烂群演",
+        "onboard_time": 1660646611,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463878,
+        "num": 463878,
+        "word": "小伙深夜点外卖收到拉丝米饭",
+        "onboard_time": 1660640732,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438868,
+        "num": 438868,
+        "word": "马航MH17",
+        "onboard_time": 1660621233,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 429575,
+        "num": 429575,
+        "word": "第一次见抽血这么乖的猫",
+        "onboard_time": 1660644514,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 384711,
+        "num": 384711,
+        "word": "辅助生殖技术将逐步纳入医保",
+        "onboard_time": 1660639231,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384224,
+        "num": 384224,
+        "word": "梦中的那片海",
+        "onboard_time": 1660641511,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375712,
+        "num": 375712,
+        "word": "重庆51条河流断流24座水库干涸",
+        "onboard_time": 1660644813,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433960,
+        "num": 375661,
+        "word": "王俊凯花式炫耀有周杰伦联系方式",
+        "onboard_time": 1660637912,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367380,
+        "num": 367380,
+        "word": "中方回应解放军战机俯瞰澎湖列岛",
+        "onboard_time": 1660639172,
+        "rank": 21,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 356040,
+        "num": 356040,
+        "word": "00后真的是职场小白吗",
+        "onboard_time": 1660646912,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335888,
+        "num": 335888,
+        "word": "唐周在梦魇中杀了颜淡",
+        "onboard_time": 1660647811,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325315,
+        "num": 325315,
+        "word": "马思纯道歉",
+        "onboard_time": 1660615653,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313957,
+        "num": 313957,
+        "word": "KPL夏季赛常规赛四位大哥",
+        "onboard_time": 1660647752,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273022,
+        "num": 273022,
+        "word": "爸爸酒驾女儿怕影响考公为其求情",
+        "onboard_time": 1660624599,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261202,
+        "num": 261202,
+        "word": "有必要把英语当主课吗",
+        "onboard_time": 1660640310,
+        "rank": 27,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 247518,
+        "num": 247518,
+        "word": "中方的坚定举措台独会感受到",
+        "onboard_time": 1660644092,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 242422,
+        "num": 242422,
+        "word": "理想汽车每卖出一辆车亏损2.3万元",
+        "onboard_time": 1660637733,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279129,
+        "num": 238933,
+        "word": "独行月球票房破25亿",
+        "onboard_time": 1660646912,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273781,
+        "num": 229671,
+        "word": "开画少女漫",
+        "onboard_time": 1660647390,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269406,
+        "num": 226748,
+        "word": "毕雯珺说我真的没有一米九",
+        "onboard_time": 1660644870,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253337,
+        "num": 216525,
+        "word": "吴露可逃相拥剧照",
+        "onboard_time": 1660640852,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216344,
+        "num": 216344,
+        "word": "山东威海新增2例无症状",
+        "onboard_time": 1660645410,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215945,
+        "num": 215945,
+        "word": "西安市新增3个高风险区",
+        "onboard_time": 1660644092,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212543,
+        "num": 212543,
+        "word": "鼓励灵活办公以便接送子女上下学",
+        "onboard_time": 1660646433,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210842,
+        "num": 210842,
+        "word": "年轻人为何不爱逛宜家了",
+        "onboard_time": 1660621950,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198804,
+        "num": 198804,
+        "word": "未来AI伴侣或成现实",
+        "onboard_time": 1660644030,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 195202,
+        "num": 195202,
+        "word": "成熟后理解了章鱼哥",
+        "onboard_time": 1660641631,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 214022,
+        "num": 194171,
+        "word": "张予曦古装短片既演公主又演舞娘",
+        "onboard_time": 1660645531,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187894,
+        "num": 187894,
+        "word": "苏格兰免费为女性提供生理期用品",
+        "onboard_time": 1660648052,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187067,
+        "num": 187067,
+        "word": "李承铉第一条朋友圈是官宣结婚",
+        "onboard_time": 1660642955,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180873,
+        "num": 180873,
+        "word": "郑州5年要引进100万名青年人才",
+        "onboard_time": 1660636472,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163218,
+        "num": 163218,
+        "word": "特斯拉狂粉用亲女儿测自动驾驶",
+        "onboard_time": 1660633470,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157205,
+        "num": 157205,
+        "word": "外交部回应美韩日联合军演",
+        "onboard_time": 1660639231,
+        "rank": 45,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 137084,
+        "num": 137084,
+        "word": "方特游乐园回应游客带炒饭被禁入",
+        "onboard_time": 1660639771,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 136845,
+        "num": 136845,
+        "word": "腾讯回应剥离美团传闻",
+        "onboard_time": 1660639833,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 135745,
+        "num": 135745,
+        "word": "今年夏天热得有多夸张",
+        "onboard_time": 1660647633,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125353,
+        "num": 125353,
+        "word": "小学生把暑假作业藏商场冰箱",
+        "onboard_time": 1660637432,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持战略定力坚定做好自己的事#"
+    }
+  }
+}

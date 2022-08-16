@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660646283394,
+  "endTime": 1660648596345,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -59,8 +59,8 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 2275183,
-      "num": 1523643,
+      "raw_hot": 2300639,
+      "num": 1553779,
       "word": "女子剖腹产出月子后首先办离婚",
       "onboard_time": 1660644390,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1660621233,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1998301,
+      "num": 1998301,
+      "word": "警方通报13岁女童产女",
+      "onboard_time": 1660647212,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1918198,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846930,
+      "num": 846930,
+      "word": "颜淡终于承认喜欢唐周",
+      "onboard_time": 1660646192,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 843198,
       "num": 710791,
       "word": "王鹤棣学虞书欣跳女团舞",
@@ -651,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 560757,
+      "num": 560757,
+      "word": "四川一老人患热射去世",
+      "onboard_time": 1660645769,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 538165,
       "num": 538165,
       "word": "南部战区战机深夜空战对抗训练",
@@ -665,6 +689,14 @@
       "onboard_time": 1660622858,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 535201,
+      "num": 535201,
+      "word": "你为什么不买折叠屏手机",
+      "onboard_time": 1660643554,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 533090,
@@ -755,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510745,
+      "num": 510745,
+      "word": "周深撞脸星汉灿烂群演",
+      "onboard_time": 1660646611,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498353,
       "num": 498353,
       "word": "虞书欣王鹤棣苍兰诀双人直播",
@@ -777,14 +817,6 @@
       "onboard_time": 1660620092,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 467598,
-      "num": 467598,
-      "word": "颜淡终于承认喜欢唐周",
-      "onboard_time": 1660646192,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 458711,
@@ -857,6 +889,14 @@
       "onboard_time": 1660635033,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429575,
+      "num": 429575,
+      "word": "第一次见抽血这么乖的猫",
+      "onboard_time": 1660644514,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 426953,
@@ -971,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375712,
+      "num": 375712,
+      "word": "重庆51条河流断流24座水库干涸",
+      "onboard_time": 1660644813,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370037,
       "num": 370037,
       "word": "周鹏正式加盟深圳男篮",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1660609592,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365480,
-      "num": 365480,
-      "word": "第一次见抽血这么乖的猫",
-      "onboard_time": 1660644514,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 364196,
@@ -1075,20 +1115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356040,
+      "num": 356040,
+      "word": "00后真的是职场小白吗",
+      "onboard_time": 1660646912,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352666,
       "num": 352666,
       "word": "未来AI伴侣或成现实",
       "onboard_time": 1660644030,
       "rank": 23,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 351854,
-      "num": 351854,
-      "word": "你为什么不买折叠屏手机",
-      "onboard_time": 1660643554,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 341912,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1660612116,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335888,
+      "num": 335888,
+      "word": "唐周在梦魇中杀了颜淡",
+      "onboard_time": 1660647811,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 334532,
@@ -1187,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313957,
+      "num": 313957,
+      "word": "KPL夏季赛常规赛四位大哥",
+      "onboard_time": 1660647752,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312577,
       "num": 312577,
       "word": "四川临时限电或影响iPad组装",
@@ -1217,14 +1273,6 @@
       "onboard_time": 1660627357,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305952,
-      "num": 305952,
-      "word": "重庆51条河流断流24座水库干涸",
-      "onboard_time": 1660644813,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302450,
@@ -1347,6 +1395,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 279129,
+      "num": 238933,
+      "word": "独行月球票房破25亿",
+      "onboard_time": 1660646912,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276115,
       "num": 276115,
       "word": "原来社死只需要带个小孩",
@@ -1360,6 +1416,14 @@
       "word": "沈腾两口气做了10个俯卧撑",
       "onboard_time": 1660599492,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273781,
+      "num": 229671,
+      "word": "开画少女漫",
+      "onboard_time": 1660647390,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1691,20 +1755,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218889,
-      "num": 218889,
-      "word": "四川一老人患热射去世",
-      "onboard_time": 1660645769,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 218618,
       "num": 218618,
       "word": "这届学生过暑假的百种方式",
       "onboard_time": 1660641992,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 216344,
+      "num": 216344,
+      "word": "山东威海新增2例无症状",
+      "onboard_time": 1660645410,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215322,
@@ -1723,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212543,
+      "num": 212543,
+      "word": "鼓励灵活办公以便接送子女上下学",
+      "onboard_time": 1660646433,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 210618,
       "num": 210618,
       "word": "福建报告新增本土确诊11例",
@@ -1737,14 +1809,6 @@
       "onboard_time": 1660637311,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204907,
-      "num": 204907,
-      "word": "山东威海新增2例无症状",
-      "onboard_time": 1660645410,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204646,
@@ -1889,6 +1953,14 @@
       "onboard_time": 1660581683,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187894,
+      "num": 187894,
+      "word": "苏格兰免费为女性提供生理期用品",
+      "onboard_time": 1660648052,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186970,
@@ -2089,6 +2161,14 @@
       "onboard_time": 1660633352,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135745,
+      "num": 135745,
+      "word": "今年夏天热得有多夸张",
+      "onboard_time": 1660647633,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 134630,
