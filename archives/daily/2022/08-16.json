@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660625870518,
+  "endTime": 1660627322145,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -59,6 +59,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1636256,
+      "num": 1636256,
+      "word": "年轻人为何不爱逛宜家了",
+      "onboard_time": 1660621950,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1600051,
       "num": 1600051,
       "word": "清华爸爸辅导作业崩溃锤墙",
@@ -91,20 +99,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1348290,
-      "num": 1348290,
-      "word": "年轻人为何不爱逛宜家了",
-      "onboard_time": 1660621950,
-      "rank": 35,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1333496,
       "num": 1333496,
       "word": "iPhone低电量模式可关闭电池百分比",
       "onboard_time": 1660617512,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1290297,
+      "num": 1290297,
+      "word": "爸爸酒驾女儿怕影响考公为其求情",
+      "onboard_time": 1660624599,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1265964,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722162,
+      "num": 722162,
+      "word": "明天没有苍兰诀了",
+      "onboard_time": 1660625321,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 712572,
       "num": 2238776,
       "word": "一个曾绝密28年的名字",
@@ -315,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612648,
+      "num": 612648,
+      "word": "谁会在40几度去重庆啊",
+      "onboard_time": 1660624599,
+      "rank": 25,
+      "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 611486,
+      "num": 611486,
+      "word": "明年起河南交房即交证",
+      "onboard_time": 1660623038,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 606594,
       "num": 495027,
       "word": "窦骁6天骑行1704公里",
@@ -355,20 +387,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 548082,
+      "num": 548082,
+      "word": "汪峰官宣新专辑8月24日发布",
+      "onboard_time": 1660625861,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 537935,
       "num": 497202,
       "word": "吴世勋韩版ELLE封面大片",
       "onboard_time": 1660622858,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 535650,
-      "num": 535650,
-      "word": "爸爸酒驾女儿怕影响考公为其求情",
-      "onboard_time": 1660624599,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533090,
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 519723,
+      "num": 519723,
+      "word": "原来游戏学专业都是学霸",
+      "onboard_time": 1660625202,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 517846,
       "num": 517846,
       "word": "微信聊天对话框支持放大编辑",
@@ -435,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495590,
-      "num": 495590,
-      "word": "明年起河南交房即交证",
-      "onboard_time": 1660623038,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 487046,
       "num": 487046,
       "word": "女子带小孩坐公交强迫他人让座",
@@ -457,6 +489,14 @@
       "onboard_time": 1660620092,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457268,
+      "num": 431043,
+      "word": "INTO1人均小学生吧",
+      "onboard_time": 1660626515,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 453824,
@@ -531,20 +571,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394148,
+      "num": 394148,
+      "word": "一代代程序员总会老去但总有代码被传承",
+      "onboard_time": 1660627114,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391841,
       "num": 340691,
       "word": "导演说陈晓自带忧郁感",
       "onboard_time": 1660619011,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 388440,
-      "num": 388440,
-      "word": "谁会在40几度去重庆啊",
-      "onboard_time": 1660624599,
-      "rank": 25,
-      "category": "美食,旅游"
     },
     {
       "raw_hot": 387208,
@@ -603,20 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357271,
-      "num": 357271,
-      "word": "明天没有苍兰诀了",
-      "onboard_time": 1660625321,
-      "rank": 28,
+      "raw_hot": 343350,
+      "num": 289399,
+      "word": "江疏影问油条吃甜的还是咸的",
+      "onboard_time": 1660625918,
+      "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 350547,
-      "num": 199067,
-      "word": "汪峰官宣新专辑8月24日发布",
-      "onboard_time": 1660625861,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 341912,
@@ -689,14 +721,6 @@
       "onboard_time": 1660613494,
       "rank": 27,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 309679,
-      "num": 309679,
-      "word": "原来游戏学专业都是学霸",
-      "onboard_time": 1660625202,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 301461,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252428,
+      "num": 252428,
+      "word": "重庆最高气温达到44.4℃",
+      "onboard_time": 1660622618,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251799,
       "num": 251799,
       "word": "何润东增肌减脂挑战输了",
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246021,
+      "num": 246021,
+      "word": "95后开航母驾战机太帅了",
+      "onboard_time": 1660623820,
+      "rank": 44,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 242921,
       "num": 242921,
       "word": "正告台独顽固分子必须悬崖勒马",
@@ -857,14 +897,6 @@
       "onboard_time": 1660564350,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 235550,
-      "num": 235550,
-      "word": "重庆最高气温达到44.4℃",
-      "onboard_time": 1660622618,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234704,
@@ -939,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220694,
+      "num": 220694,
+      "word": "杭州新增1例无症状感染者",
+      "onboard_time": 1660626817,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213298,
       "num": 213298,
       "word": "武大靖四年后的约定",
@@ -963,20 +1003,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204157,
+      "num": 204157,
+      "word": "6岁女孩突然不会走确认和基因有关",
+      "onboard_time": 1660626638,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203158,
       "num": 188321,
       "word": "东方青苍自己绿了自己",
       "onboard_time": 1660567889,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202828,
-      "num": 202828,
-      "word": "95后开航母驾战机太帅了",
-      "onboard_time": 1660623820,
-      "rank": 44,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 201747,
