@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660670673586,
+  "endTime": 1660671674162,
   "band_list": [
     {
       "raw_hot": 2725503,
@@ -235,19 +235,19 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 272973,
+      "num": 272973,
+      "word": "你觉得最尴尬的剧宣直播是什么",
+      "onboard_time": 1660668681,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270905,
       "num": 224504,
       "word": "欢乐颂3豆瓣4.6分",
       "onboard_time": 1660658014,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 254156,
-      "num": 254156,
-      "word": "你觉得最尴尬的剧宣直播是什么",
-      "onboard_time": 1660668681,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -257,6 +257,14 @@
       "onboard_time": 1660648711,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235201,
+      "num": 218588,
+      "word": "西南交大上百研究生新生需校外自费租房",
+      "onboard_time": 1660670476,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 227637,
@@ -305,6 +313,14 @@
       "onboard_time": 1660660593,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170216,
+      "num": 170216,
+      "word": "段艺璇发长文",
+      "onboard_time": 1660671437,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 168101,
@@ -427,6 +443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90677,
+      "num": 57558,
+      "word": "沉香重华什么时候定档",
+      "onboard_time": 1660671077,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 77364,
+      "num": 77364,
+      "word": "重庆嘉陵江最新情况",
+      "onboard_time": 1660669939,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 65065,
       "num": 65065,
       "word": "上海海港2比0深圳队",
@@ -443,22 +475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44925,
-      "num": 44925,
-      "word": "西南交大上百研究生新生需校外自费租房",
-      "onboard_time": 1660670476,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 43756,
-      "num": 43756,
-      "word": "重庆嘉陵江最新情况",
-      "onboard_time": 1660669939,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 30747,
       "num": 30747,
       "word": "6省市耕地受旱面积967万亩",
@@ -470,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#焦裕禄精神是一盏明灯#"
+    },
+    {
+      "word": "#解码十年#"
     }
   ]
 }
