@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660653556977,
+  "endTime": 1660654900260,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1659474,
+      "num": 1659474,
+      "word": "专家称女方要彩礼是短视的",
+      "onboard_time": 1660652970,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1636256,
       "num": 1636256,
       "word": "年轻人为何不爱逛宜家了",
@@ -145,6 +153,14 @@
       "onboard_time": 1660616551,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1415263,
+      "num": 1415263,
+      "word": "长江流域发生严重旱情",
+      "onboard_time": 1660649250,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1384787,
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1208435,
-      "num": 1208435,
-      "word": "长江流域发生严重旱情",
-      "onboard_time": 1660649250,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1192173,
       "num": 1192173,
       "word": "女子高温天买活虾到家熟透6只",
@@ -265,6 +273,14 @@
       "onboard_time": 1660632391,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1133748,
+      "num": 1133748,
+      "word": "盗墓笔记",
+      "onboard_time": 1660651409,
+      "rank": 9,
+      "category": "其它"
     },
     {
       "raw_hot": 1103915,
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833746,
+      "num": 833746,
+      "word": "沉香重华",
+      "onboard_time": 1660654172,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 830382,
       "num": 830382,
       "word": "鹿晗说在学校当风云人物的感觉",
@@ -481,14 +505,6 @@
       "onboard_time": 1660604598,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784434,
-      "num": 784434,
-      "word": "盗墓笔记",
-      "onboard_time": 1660651409,
-      "rank": 9,
-      "category": "其它"
     },
     {
       "raw_hot": 783646,
@@ -643,6 +659,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 616983,
+      "num": 616983,
+      "word": "男子住酒店趁前台睡着偷摸其头发",
+      "onboard_time": 1660653151,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611486,
       "num": 611486,
       "word": "明年起河南交房即交证",
@@ -707,6 +731,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 567231,
+      "num": 567231,
+      "word": "最大限度支援川渝电力供应",
+      "onboard_time": 1660649790,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562837,
       "num": 562837,
       "word": "小伙深夜点外卖收到拉丝米饭",
@@ -737,14 +769,6 @@
       "onboard_time": 1660646611,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 544547,
-      "num": 544547,
-      "word": "最大限度支援川渝电力供应",
-      "onboard_time": 1660649790,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538165,
@@ -827,6 +851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 517830,
+      "num": 517830,
+      "word": "快乐再出发",
+      "onboard_time": 1660652552,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516843,
       "num": 516843,
       "word": "四川小伙高温天卖冰块日入过万",
@@ -873,6 +905,14 @@
       "onboard_time": 1660614032,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479243,
+      "num": 479243,
+      "word": "辅导员给140名留校考研学生送西瓜",
+      "onboard_time": 1660650270,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 475834,
@@ -945,6 +985,14 @@
       "onboard_time": 1660628433,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435972,
+      "num": 435972,
+      "word": "王者KPL新皮肤",
+      "onboard_time": 1660651651,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 433820,
@@ -1035,20 +1083,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400424,
+      "num": 347710,
+      "word": "星汉灿烂",
+      "onboard_time": 1660652610,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395352,
       "num": 395352,
       "word": "东方青苍小兰花吵架好默契",
       "onboard_time": 1660583660,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393834,
-      "num": 393834,
-      "word": "王者KPL新皮肤",
-      "onboard_time": 1660651651,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 391841,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1660644813,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370490,
-      "num": 315754,
-      "word": "快乐再出发",
-      "onboard_time": 1660652552,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 370037,
@@ -1195,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361255,
-      "num": 281904,
-      "word": "星汉灿烂",
-      "onboard_time": 1660652610,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 359350,
       "num": 289399,
       "word": "江疏影问油条吃甜的还是咸的",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1660644030,
       "rank": 23,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 351635,
+      "num": 351635,
+      "word": "你适合长发还是短发",
+      "onboard_time": 1660651891,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 342033,
@@ -1299,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 335126,
-      "num": 335126,
-      "word": "你适合长发还是短发",
-      "onboard_time": 1660651891,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 334532,
       "num": 334532,
       "word": "新神榜杨戬开预售",
@@ -1355,20 +1387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323637,
+      "num": 234124,
+      "word": "微博下线改名卡",
+      "onboard_time": 1660652552,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 322645,
       "num": 322645,
       "word": "电工掩护网吧4年偷电102万度",
       "onboard_time": 1660608085,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320839,
-      "num": 320839,
-      "word": "辅导员给140名留校考研学生送西瓜",
-      "onboard_time": 1660650270,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 315156,
@@ -1472,6 +1504,14 @@
       "word": "牺牲消防员万惠文的遗物看哭了",
       "onboard_time": 1660630291,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293513,
+      "num": 293513,
+      "word": "水利部要求全力保饮水保灌溉",
+      "onboard_time": 1660653631,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1647,6 +1687,14 @@
       "num": 263416,
       "word": "受Fly鼓舞的电竞女孩圆梦北大",
       "onboard_time": 1660630653,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 263382,
+      "num": 263382,
+      "word": "管泽元为什么站着解说",
+      "onboard_time": 1660650809,
       "rank": 36,
       "category": "游戏"
     },
@@ -1875,14 +1923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229123,
-      "num": 229123,
-      "word": "专家称女方要彩礼是短视的",
-      "onboard_time": 1660652970,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228962,
       "num": 228962,
       "word": "西藏增本土确诊26例无症状629例",
@@ -1923,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221552,
+      "num": 221552,
+      "word": "杭州废弃矿洞成网红避暑探险地",
+      "onboard_time": 1660653750,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 219563,
       "num": 219563,
       "word": "山东威海新增2例无症状",
@@ -1947,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214057,
-      "num": 214057,
-      "word": "微博下线改名卡",
-      "onboard_time": 1660652552,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 213298,
       "num": 213298,
       "word": "武大靖四年后的约定",
@@ -1977,14 +2017,6 @@
       "onboard_time": 1660614810,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208149,
-      "num": 208149,
-      "word": "管泽元为什么站着解说",
-      "onboard_time": 1660650809,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 206037,
@@ -2163,6 +2195,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 184629,
+      "num": 184629,
+      "word": "暑期档热播剧女主群像",
+      "onboard_time": 1660654772,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "浙江卫视818晚会官宣首波阵容",
@@ -2235,14 +2275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169992,
-      "num": 169992,
-      "word": "男子住酒店趁前台睡着偷摸其头发",
-      "onboard_time": 1660653151,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169789,
       "num": 169789,
       "word": "北京514人被限制骑共享单车",
@@ -2267,12 +2299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163967,
+      "num": 163967,
+      "word": "我的小狗可能很快就要离开我了",
+      "onboard_time": 1660654471,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163415,
       "num": 163415,
       "word": "故宫夏日祥云出片了",
       "onboard_time": 1660646010,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 160791,
+      "num": 160791,
+      "word": "当狗狗遇上爱打球的主人时",
+      "onboard_time": 1660653269,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 160789,
@@ -2339,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143057,
+      "num": 143057,
+      "word": "男子啃鸭腿发现骨头是用木棍拼接的",
+      "onboard_time": 1660654772,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137023,
       "num": 137023,
       "word": "程少商退婚后的五年",
@@ -2377,14 +2433,6 @@
       "onboard_time": 1660604659,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132271,
-      "num": 132271,
-      "word": "当狗狗遇上爱打球的主人时",
-      "onboard_time": 1660653269,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 131335,
