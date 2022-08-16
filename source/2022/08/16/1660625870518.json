@@ -1,0 +1,410 @@
+{
+  "runTime": 1660625870518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6921847,
+        "num": 6921847,
+        "word": "马思纯道歉",
+        "onboard_time": 1660615653,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5838367,
+        "num": 5838367,
+        "word": "马航MH17",
+        "onboard_time": 1660621233,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 262937,
+        "num": 3072630,
+        "word": "120秒珍贵画面缅怀焦裕禄",
+        "onboard_time": 1660619614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1994472,
+        "num": 1994472,
+        "word": "陈若仪晒与林志颖握手照",
+        "onboard_time": 1660616912,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1600051,
+        "num": 1600051,
+        "word": "清华爸爸辅导作业崩溃锤墙",
+        "onboard_time": 1660621652,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1348290,
+        "num": 1348290,
+        "word": "年轻人为何不爱逛宜家了",
+        "onboard_time": 1660621950,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1246176,
+        "num": 1246176,
+        "word": "王者荣耀7月收入2.25亿美金",
+        "onboard_time": 1660621353,
+        "rank": 6,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 1145696,
+        "num": 1145696,
+        "word": "俄罗斯恢复英雄母亲称号",
+        "onboard_time": 1660621112,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 854045,
+        "num": 854045,
+        "word": "苹果因搜包耽误员工下班赔偿2亿",
+        "onboard_time": 1660611455,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 847733,
+        "num": 847733,
+        "word": "公摊面积是否能取消",
+        "onboard_time": 1660617752,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 932645,
+        "num": 808058,
+        "word": "尴尬",
+        "onboard_time": 1660616551,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695301,
+        "num": 695301,
+        "word": "iPhone低电量模式可关闭电池百分比",
+        "onboard_time": 1660617512,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 568293,
+        "num": 568293,
+        "word": "3名准大学生临危不乱雨中救火",
+        "onboard_time": 1660620633,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 563655,
+        "num": 563655,
+        "word": "110平方米的房子到手仅61平方米",
+        "onboard_time": 1660610314,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 535650,
+        "num": 535650,
+        "word": "爸爸酒驾女儿怕影响考公为其求情",
+        "onboard_time": 1660624599,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525236,
+        "num": 525236,
+        "word": "沈月左千黛还原度",
+        "onboard_time": 1660623100,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523677,
+        "num": 523677,
+        "word": "兔妈妈狂薅狗毛为产子做窝",
+        "onboard_time": 1660619011,
+        "rank": 16,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 659648,
+        "num": 519746,
+        "word": "当地回应卖花生摊主气急身亡",
+        "onboard_time": 1660611392,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514088,
+        "num": 514088,
+        "word": "马思纯逆行被罚款300元",
+        "onboard_time": 1660614214,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 495590,
+        "num": 495590,
+        "word": "明年起河南交房即交证",
+        "onboard_time": 1660623038,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 443988,
+        "num": 443988,
+        "word": "孙子爱吃小龙虾爷爷偷100多斤",
+        "onboard_time": 1660610672,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432794,
+        "num": 432794,
+        "word": "吴世勋韩版ELLE封面大片",
+        "onboard_time": 1660622858,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402851,
+        "num": 402851,
+        "word": "女生蹬动感单车1小时尿液似酱油",
+        "onboard_time": 1660608748,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399591,
+        "num": 399591,
+        "word": "王一博暴风扒舞",
+        "onboard_time": 1660621533,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397339,
+        "num": 397339,
+        "word": "印度足协被全球禁赛",
+        "onboard_time": 1660620092,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388440,
+        "num": 388440,
+        "word": "谁会在40几度去重庆啊",
+        "onboard_time": 1660624599,
+        "rank": 25,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 369723,
+        "num": 369723,
+        "word": "韩国爆发大规模反美集会",
+        "onboard_time": 1660611155,
+        "rank": 26,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 365808,
+        "num": 365808,
+        "word": "小区群真是太精彩了",
+        "onboard_time": 1660622438,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 357271,
+        "num": 357271,
+        "word": "明天没有苍兰诀了",
+        "onboard_time": 1660625321,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348635,
+        "num": 348635,
+        "word": "窦骁6天骑行1704公里",
+        "onboard_time": 1660617571,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340638,
+        "num": 340638,
+        "word": "新iPad将10月发布",
+        "onboard_time": 1660620333,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 309679,
+        "num": 309679,
+        "word": "原来游戏学专业都是学霸",
+        "onboard_time": 1660625202,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309049,
+        "num": 309049,
+        "word": "导演说陈晓自带忧郁感",
+        "onboard_time": 1660619011,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293191,
+        "num": 293191,
+        "word": "罗云熙章若楠新剧开机",
+        "onboard_time": 1660619912,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267038,
+        "num": 267038,
+        "word": "30万现金被烧银行用牙签挽回14余万",
+        "onboard_time": 1660613732,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264291,
+        "num": 264291,
+        "word": "邓紫棋新歌只有我和你的地方",
+        "onboard_time": 1660624599,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261808,
+        "num": 261808,
+        "word": "女子带小孩坐公交强迫他人让座",
+        "onboard_time": 1660614032,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251799,
+        "num": 251799,
+        "word": "何润东增肌减脂挑战输了",
+        "onboard_time": 1660624418,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235550,
+        "num": 235550,
+        "word": "重庆最高气温达到44.4℃",
+        "onboard_time": 1660622618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234704,
+        "num": 234704,
+        "word": "男子玩儿童滑梯摔伤诉赔17万",
+        "onboard_time": 1660624179,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250900,
+        "num": 233773,
+        "word": "疑商夫妇城门送别花絮",
+        "onboard_time": 1660622196,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230023,
+        "num": 230023,
+        "word": "女子高温天买活虾到家熟透6只",
+        "onboard_time": 1660578809,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218988,
+        "num": 218988,
+        "word": "让国企敢干民企敢闯外企敢投",
+        "onboard_time": 1660618773,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 204583,
+        "num": 204583,
+        "word": "四川小伙高温天卖冰块日入过万",
+        "onboard_time": 1660610553,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202828,
+        "num": 202828,
+        "word": "95后开航母驾战机太帅了",
+        "onboard_time": 1660623820,
+        "rank": 44,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 201792,
+        "num": 201792,
+        "word": "正告台独顽固分子必须悬崖勒马",
+        "onboard_time": 1660618413,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200690,
+        "num": 200690,
+        "word": "樊振东积分6900分",
+        "onboard_time": 1660615833,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350547,
+        "num": 199067,
+        "word": "汪峰官宣新专辑8月24日发布",
+        "onboard_time": 1660625861,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197317,
+        "num": 197317,
+        "word": "当唐老鸭遇见聋哑小孩",
+        "onboard_time": 1660624480,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188009,
+        "num": 188009,
+        "word": "数千老人购买壮阳神药被骗",
+        "onboard_time": 1660607905,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追梦火焰蓝守护万家灯火#"
+    }
+  }
+}
