@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660656782533,
+  "endTime": 1660657378842,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -91,8 +91,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1930501,
-      "num": 1930501,
+      "raw_hot": 2015021,
+      "num": 2015021,
       "word": "沉香重华",
       "onboard_time": 1660654172,
       "rank": 7,
@@ -113,6 +113,14 @@
       "onboard_time": 1660644390,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1665001,
+      "num": 1665001,
+      "word": "男子啃鸭腿发现骨头是用木棍拼接的",
+      "onboard_time": 1660654772,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1636256,
@@ -291,14 +299,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1106374,
-      "num": 1106374,
-      "word": "男子啃鸭腿发现骨头是用木棍拼接的",
-      "onboard_time": 1660654772,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1103915,
       "num": 1103915,
       "word": "110平方米的房子到手仅61平方米",
@@ -344,6 +344,14 @@
       "word": "女生蹬动感单车1小时尿液似酱油",
       "onboard_time": 1660608748,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060503,
+      "num": 1060503,
+      "word": "男子住酒店趁前台睡着偷摸其头发",
+      "onboard_time": 1660653151,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -411,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 936442,
-      "num": 936442,
-      "word": "男子住酒店趁前台睡着偷摸其头发",
-      "onboard_time": 1660653151,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 935339,
       "num": 773604,
       "word": "王鹤棣是真的没有偶像包袱吧",
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 841972,
+      "num": 841972,
+      "word": "女子被瞒骗当十几年第三者",
+      "onboard_time": 1660655194,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830382,
       "num": 830382,
       "word": "鹿晗说在学校当风云人物的感觉",
@@ -489,6 +497,14 @@
       "onboard_time": 1660636591,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 808384,
+      "num": 808384,
+      "word": "时代少年团将线上直播演唱会",
+      "onboard_time": 1660656032,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 802185,
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751082,
+      "num": 709643,
+      "word": "苍兰诀",
+      "onboard_time": 1660608085,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 749232,
       "num": 749232,
       "word": "理想汽车每卖出一辆车亏损2.3万元",
@@ -577,14 +601,6 @@
       "onboard_time": 1660641511,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 732620,
-      "num": 732620,
-      "word": "时代少年团将线上直播演唱会",
-      "onboard_time": 1660656032,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 725453,
@@ -619,6 +635,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 710564,
+      "num": 710564,
+      "word": "拳头将删除英雄联盟非活跃账号",
+      "onboard_time": 1660656091,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 688029,
       "num": 688029,
       "word": "西安疫情防控",
@@ -648,6 +672,14 @@
       "word": "徐海乔说苍兰诀往后看还有反转",
       "onboard_time": 1660579347,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 645778,
+      "num": 645778,
+      "word": "张睿仪态",
+      "onboard_time": 1660656812,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -691,6 +723,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 608836,
+      "num": 467966,
+      "word": "成毅问王玄夜是哪位",
+      "onboard_time": 1660656393,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606594,
       "num": 495027,
       "word": "窦骁6天骑行1704公里",
@@ -715,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591607,
+      "num": 526829,
+      "word": "星汉灿烂",
+      "onboard_time": 1660652610,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 588278,
       "num": 363928,
       "word": "宋茜 不是来拍照的",
@@ -729,6 +777,14 @@
       "onboard_time": 1660574073,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578488,
+      "num": 552258,
+      "word": "陈晓王一博冰雨火微博评分8.6",
+      "onboard_time": 1660655912,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 578405,
@@ -769,14 +825,6 @@
       "onboard_time": 1660625861,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 552258,
-      "num": 552258,
-      "word": "陈晓王一博冰雨火微博评分8.6",
-      "onboard_time": 1660655912,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 546493,
@@ -843,14 +891,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 526829,
-      "num": 526829,
-      "word": "星汉灿烂",
-      "onboard_time": 1660652610,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 525236,
       "num": 525236,
       "word": "沈月左千黛还原度",
@@ -867,28 +907,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 522592,
-      "num": 341061,
-      "word": "成毅问王玄夜是哪位",
-      "onboard_time": 1660656393,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 520285,
       "num": 492005,
       "word": "虞书欣生气",
       "onboard_time": 1660610976,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 517927,
-      "num": 517927,
-      "word": "女子被瞒骗当十几年第三者",
-      "onboard_time": 1660655194,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517846,
@@ -1139,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400483,
+      "num": 400483,
+      "word": "我的小狗可能很快就要离开我了",
+      "onboard_time": 1660654471,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 395352,
       "num": 395352,
       "word": "东方青苍小兰花吵架好默契",
@@ -1323,14 +1355,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 350726,
-      "num": 350726,
-      "word": "我的小狗可能很快就要离开我了",
-      "onboard_time": 1660654471,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 342033,
       "num": 236248,
       "word": "成毅玄夜原声台词",
@@ -1360,6 +1384,14 @@
       "word": "疑商夫妇城门送别花絮",
       "onboard_time": 1660622196,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338911,
+      "num": 283666,
+      "word": "暑期档热播剧女主群像",
+      "onboard_time": 1660654772,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1483,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313659,
-      "num": 283666,
-      "word": "暑期档热播剧女主群像",
-      "onboard_time": 1660654772,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312577,
       "num": 312577,
       "word": "四川临时限电或影响iPad组装",
@@ -1539,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301209,
+      "num": 301209,
+      "word": "杭州废弃矿洞成网红避暑探险地",
+      "onboard_time": 1660653750,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 300303,
       "num": 288636,
       "word": "毕雯珺说我真的没有一米九",
@@ -1576,6 +1608,14 @@
       "word": "牺牲消防员万惠文的遗物看哭了",
       "onboard_time": 1660630291,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293483,
+      "num": 293483,
+      "word": "武汉下雨",
+      "onboard_time": 1660655972,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1641,14 +1681,6 @@
       "onboard_time": 1660631131,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 280808,
-      "num": 280808,
-      "word": "杭州废弃矿洞成网红避暑探险地",
-      "onboard_time": 1660653750,
-      "rank": 36,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 279129,
@@ -1739,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264450,
-      "num": 264450,
-      "word": "武汉下雨",
-      "onboard_time": 1660655972,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264291,
       "num": 264291,
       "word": "邓紫棋新歌只有我和你的地方",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1660633352,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252429,
-      "num": 252429,
-      "word": "拳头将删除英雄联盟非活跃账号",
-      "onboard_time": 1660656091,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 252428,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1660635212,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237317,
+      "num": 237317,
+      "word": "如果你是一个内向的人",
+      "onboard_time": 1660656692,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 237236,
@@ -2259,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186290,
+      "num": 186290,
+      "word": "盲盒不得向8周岁以下未成年人销售",
+      "onboard_time": 1660651589,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186215,
       "num": 186215,
       "word": "进一步完善和落实积极生育支持措施",
@@ -2297,14 +2329,6 @@
       "onboard_time": 1660637311,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179248,
-      "num": 179248,
-      "word": "盲盒不得向8周岁以下未成年人销售",
-      "onboard_time": 1660651589,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177629,
@@ -2403,14 +2427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157577,
-      "num": 157577,
-      "word": "苍兰诀",
-      "onboard_time": 1660608085,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155677,
       "num": 155677,
       "word": "2022LPL夏季赛季后赛",
@@ -2435,12 +2451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149375,
-      "num": 149375,
-      "word": "如果你是一个内向的人",
-      "onboard_time": 1660656692,
-      "rank": 47,
-      "category": "情感,幽默"
+      "raw_hot": 148059,
+      "num": 148059,
+      "word": "EDG",
+      "onboard_time": 1660657294,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 146260,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1660595651,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141655,
+      "num": 141655,
+      "word": "杀猪盘骗局为何能屡屡得手",
+      "onboard_time": 1660657355,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 137023,
@@ -2505,6 +2529,14 @@
       "onboard_time": 1660656752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128443,
+      "num": 1275577,
+      "word": "打卡中国",
+      "onboard_time": 1660656272,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 125543,
@@ -2585,14 +2617,6 @@
       "onboard_time": 1660562910,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70698,
-      "num": 1219274,
-      "word": "打卡中国",
-      "onboard_time": 1660656272,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 57628,

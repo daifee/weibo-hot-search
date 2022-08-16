@@ -1,0 +1,410 @@
+{
+  "runTime": 1660657378842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2015021,
+        "num": 2015021,
+        "word": "沉香重华",
+        "onboard_time": 1660654172,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1665001,
+        "num": 1665001,
+        "word": "男子啃鸭腿发现骨头是用木棍拼接的",
+        "onboard_time": 1660654772,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128443,
+        "num": 1275577,
+        "word": "打卡中国",
+        "onboard_time": 1660656272,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1210202,
+        "num": 1210202,
+        "word": "店主遇女孩衣衫不整进店帮穿衣",
+        "onboard_time": 1660641213,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1060503,
+        "num": 1060503,
+        "word": "男子住酒店趁前台睡着偷摸其头发",
+        "onboard_time": 1660653151,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954193,
+        "num": 954193,
+        "word": "林志颖顺利完成颜面手术",
+        "onboard_time": 1660637071,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950425,
+        "num": 950425,
+        "word": "盗墓笔记",
+        "onboard_time": 1660651409,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 841972,
+        "num": 841972,
+        "word": "女子被瞒骗当十几年第三者",
+        "onboard_time": 1660655194,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808384,
+        "num": 808384,
+        "word": "时代少年团将线上直播演唱会",
+        "onboard_time": 1660656032,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 710564,
+        "num": 710564,
+        "word": "拳头将删除英雄联盟非活跃账号",
+        "onboard_time": 1660656091,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 751082,
+        "num": 709643,
+        "word": "苍兰诀",
+        "onboard_time": 1660656936,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694104,
+        "num": 694104,
+        "word": "重庆嘉陵江都被晒干了",
+        "onboard_time": 1660640911,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664192,
+        "num": 664192,
+        "word": "长江流域发生严重旱情",
+        "onboard_time": 1660649250,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645778,
+        "num": 645778,
+        "word": "张睿仪态",
+        "onboard_time": 1660656812,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495237,
+        "num": 495237,
+        "word": "95后小伙工作2年暴涨100斤",
+        "onboard_time": 1660648711,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608836,
+        "num": 467966,
+        "word": "成毅问王玄夜是哪位",
+        "onboard_time": 1660656393,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400483,
+        "num": 400483,
+        "word": "我的小狗可能很快就要离开我了",
+        "onboard_time": 1660654471,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364003,
+        "num": 364003,
+        "word": "最大限度支援川渝电力供应",
+        "onboard_time": 1660649790,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341749,
+        "num": 341749,
+        "word": "王者KPL新皮肤",
+        "onboard_time": 1660651651,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319404,
+        "num": 319404,
+        "word": "水利部要求全力保饮水保灌溉",
+        "onboard_time": 1660653631,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062704,
+        "num": 315726,
+        "word": "女子剖腹产出月子后首先办离婚",
+        "onboard_time": 1660644390,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591607,
+        "num": 313221,
+        "word": "星汉灿烂",
+        "onboard_time": 1660652610,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578488,
+        "num": 309967,
+        "word": "陈晓王一博冰雨火微博评分8.6",
+        "onboard_time": 1660655912,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488082,
+        "num": 303069,
+        "word": "程少商跪别宣皇后",
+        "onboard_time": 1660649250,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301209,
+        "num": 301209,
+        "word": "杭州废弃矿洞成网红避暑探险地",
+        "onboard_time": 1660653750,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1930896,
+        "num": 301147,
+        "word": "专家称女方要彩礼是短视的",
+        "onboard_time": 1660652970,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300961,
+        "num": 300961,
+        "word": "你适合长发还是短发",
+        "onboard_time": 1660651891,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 298340,
+        "num": 298340,
+        "word": "苏格兰免费为女性提供生理期用品",
+        "onboard_time": 1660648052,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293483,
+        "num": 293483,
+        "word": "武汉下雨",
+        "onboard_time": 1660655972,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281732,
+        "num": 281732,
+        "word": "辅导员给140名留校考研学生送西瓜",
+        "onboard_time": 1660650270,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 379217,
+        "num": 279579,
+        "word": "快乐再出发",
+        "onboard_time": 1660652552,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364340,
+        "num": 276598,
+        "word": "沉香如屑",
+        "onboard_time": 1660656150,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338911,
+        "num": 274634,
+        "word": "暑期档热播剧女主群像",
+        "onboard_time": 1660654772,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336404,
+        "num": 272657,
+        "word": "虞书欣直播抱的是黑熊",
+        "onboard_time": 1660649250,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327016,
+        "num": 269799,
+        "word": "赵丽颖欧豪野蛮生长过审",
+        "onboard_time": 1660644390,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285808,
+        "num": 268806,
+        "word": "微博下线改名卡",
+        "onboard_time": 1660652552,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266310,
+        "num": 266310,
+        "word": "三亚市吉阳区委书记被免职",
+        "onboard_time": 1660643254,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253433,
+        "num": 253433,
+        "word": "四川一老人患热射去世",
+        "onboard_time": 1660645769,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 237317,
+        "num": 237317,
+        "word": "如果你是一个内向的人",
+        "onboard_time": 1660656692,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 212817,
+        "num": 212817,
+        "word": "中方回应解放军战机俯瞰澎湖列岛",
+        "onboard_time": 1660639172,
+        "rank": 39,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 287676,
+        "num": 211875,
+        "word": "吴磊晒拍戏现场背影照",
+        "onboard_time": 1660649912,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209471,
+        "num": 209471,
+        "word": "你为什么不买折叠屏手机",
+        "onboard_time": 1660643554,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186290,
+        "num": 186290,
+        "word": "盲盒不得向8周岁以下未成年人销售",
+        "onboard_time": 1660651589,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177981,
+        "num": 177981,
+        "word": "官方辟谣上海前滩出现猴痘",
+        "onboard_time": 1660642291,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165903,
+        "num": 165903,
+        "word": "第一次见抽血这么乖的猫",
+        "onboard_time": 1660644514,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 165294,
+        "num": 165294,
+        "word": "辅助生殖技术将逐步纳入医保",
+        "onboard_time": 1660639231,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153227,
+        "num": 153227,
+        "word": "管泽元为什么站着解说",
+        "onboard_time": 1660650809,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152751,
+        "num": 152751,
+        "word": "小伙深夜点外卖收到拉丝米饭",
+        "onboard_time": 1660640732,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148059,
+        "num": 148059,
+        "word": "EDG",
+        "onboard_time": 1660657294,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141655,
+        "num": 141655,
+        "word": "杀猪盘骗局为何能屡屡得手",
+        "onboard_time": 1660657355,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码十年#"
+    }
+  }
+}
