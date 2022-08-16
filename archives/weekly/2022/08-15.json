@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660678419532,
+  "endTime": 1660681382911,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -5507,6 +5507,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42604,
+      "num": 42604,
+      "word": "苍兰诀 群像",
+      "onboard_time": 1660678992,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 41394,
+      "num": 41394,
+      "word": "情侣疑因感情问题跳怒江",
+      "onboard_time": 1660677671,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38098,
+      "num": 38098,
+      "word": "美国5岁孩子练习如何应对枪击",
+      "onboard_time": 1660675695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37919,
       "num": 37919,
       "word": "疑商夫妇买蜜饯花絮",
@@ -5521,14 +5545,6 @@
       "onboard_time": 1660498936,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 36632,
-      "num": 36632,
-      "word": "美国5岁孩子练习如何应对枪击",
-      "onboard_time": 1660675695,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36125,
@@ -5587,12 +5603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23700,
+      "num": 23700,
+      "word": "宋佳用舞蹈写情诗",
+      "onboard_time": 1660680852,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18931,
       "num": 18931,
       "word": "街舞5队长大秀练舞花絮",
       "onboard_time": 1660595831,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18917,
+      "num": 17798,
+      "word": "章子怡出席北影节主题论坛",
+      "onboard_time": 1660678571,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 16972,
@@ -5603,20 +5635,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 14221,
-      "num": 14221,
-      "word": "情侣疑因感情问题跳怒江",
-      "onboard_time": 1660677671,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12791,
       "num": 12791,
       "word": "惠英红微博电影之夜斜肩黑色礼服",
       "onboard_time": 1660512131,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11235,
+      "num": 11235,
+      "word": "地铁爱心座被占宝妈抱孩子站角落",
+      "onboard_time": 1660680792,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9894,
