@@ -1,0 +1,410 @@
+{
+  "runTime": 1660653556977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1710245,
+        "num": 1710245,
+        "word": "店主遇女孩衣衫不整进店帮穿衣",
+        "onboard_time": 1660641213,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1208435,
+        "num": 1208435,
+        "word": "长江流域发生严重旱情",
+        "onboard_time": 1660649250,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20032,
+        "num": 1192672,
+        "word": "120秒珍贵画面缅怀焦裕禄",
+        "onboard_time": 1660619614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1565767,
+        "num": 1191006,
+        "word": "女子剖腹产出月子后首先办离婚",
+        "onboard_time": 1660644390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186247,
+        "num": 1186247,
+        "word": "林志颖顺利完成颜面手术",
+        "onboard_time": 1660637071,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885444,
+        "num": 885444,
+        "word": "苏格兰免费为女性提供生理期用品",
+        "onboard_time": 1660648052,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857770,
+        "num": 857770,
+        "word": "重庆嘉陵江都被晒干了",
+        "onboard_time": 1660640911,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848536,
+        "num": 848536,
+        "word": "程少商跪别宣皇后",
+        "onboard_time": 1660649250,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 802185,
+        "num": 802185,
+        "word": "95后小伙工作2年暴涨100斤",
+        "onboard_time": 1660648711,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784434,
+        "num": 784434,
+        "word": "盗墓笔记",
+        "onboard_time": 1660651409,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 573705,
+        "num": 573705,
+        "word": "四川一老人患热射去世",
+        "onboard_time": 1660645769,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 546493,
+        "num": 546493,
+        "word": "沉香如屑修罗王预告",
+        "onboard_time": 1660650391,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544547,
+        "num": 544547,
+        "word": "最大限度支援川渝电力供应",
+        "onboard_time": 1660649790,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522231,
+        "num": 522231,
+        "word": "虞书欣直播抱的是黑熊",
+        "onboard_time": 1660649250,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449599,
+        "num": 449599,
+        "word": "周深撞脸星汉灿烂群演",
+        "onboard_time": 1660646611,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443652,
+        "num": 443652,
+        "word": "吴磊晒拍戏现场背影照",
+        "onboard_time": 1660649912,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393834,
+        "num": 393834,
+        "word": "王者KPL新皮肤",
+        "onboard_time": 1660651651,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350793,
+        "num": 350793,
+        "word": "你为什么不买折叠屏手机",
+        "onboard_time": 1660643554,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 335126,
+        "num": 335126,
+        "word": "你适合长发还是短发",
+        "onboard_time": 1660651891,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 320839,
+        "num": 320839,
+        "word": "辅导员给140名留校考研学生送西瓜",
+        "onboard_time": 1660650270,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 387264,
+        "num": 319577,
+        "word": "冰雨火剧情的逻辑性",
+        "onboard_time": 1660652912,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379933,
+        "num": 317467,
+        "word": "赵丽颖欧豪野蛮生长过审",
+        "onboard_time": 1660644390,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370490,
+        "num": 315754,
+        "word": "快乐再出发",
+        "onboard_time": 1660652552,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313524,
+        "num": 313524,
+        "word": "三亚市吉阳区委书记被免职",
+        "onboard_time": 1660643254,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291496,
+        "num": 291496,
+        "word": "小伙深夜点外卖收到拉丝米饭",
+        "onboard_time": 1660640732,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361255,
+        "num": 281904,
+        "word": "星汉灿烂",
+        "onboard_time": 1660652610,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268755,
+        "num": 268755,
+        "word": "第一次见抽血这么乖的猫",
+        "onboard_time": 1660644514,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254084,
+        "num": 254084,
+        "word": "中方回应解放军战机俯瞰澎湖列岛",
+        "onboard_time": 1660639172,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 241239,
+        "num": 241239,
+        "word": "今年夏天热得有多夸张",
+        "onboard_time": 1660647633,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238466,
+        "num": 238466,
+        "word": "官方辟谣上海前滩出现猴痘",
+        "onboard_time": 1660642291,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342033,
+        "num": 236248,
+        "word": "成毅玄夜原声台词",
+        "onboard_time": 1660652851,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314179,
+        "num": 234943,
+        "word": "凌不疑独战寿春城",
+        "onboard_time": 1660649193,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284883,
+        "num": 233588,
+        "word": "颜淡终于承认喜欢唐周",
+        "onboard_time": 1660646192,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229123,
+        "num": 229123,
+        "word": "专家称女方要彩礼是短视的",
+        "onboard_time": 1660652970,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227237,
+        "num": 227237,
+        "word": "重庆51条河流断流24座水库干涸",
+        "onboard_time": 1660644813,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214057,
+        "num": 214057,
+        "word": "微博下线改名卡",
+        "onboard_time": 1660652552,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208149,
+        "num": 208149,
+        "word": "管泽元为什么站着解说",
+        "onboard_time": 1660650809,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206646,
+        "num": 206646,
+        "word": "辅助生殖技术将逐步纳入医保",
+        "onboard_time": 1660639231,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198926,
+        "num": 198926,
+        "word": "马航MH17",
+        "onboard_time": 1660621233,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 172211,
+        "num": 172211,
+        "word": "有必要把英语当主课吗",
+        "onboard_time": 1660640310,
+        "rank": 39,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 257222,
+        "num": 171298,
+        "word": "王俊凯花式炫耀有周杰伦联系方式",
+        "onboard_time": 1660637912,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235294,
+        "num": 170726,
+        "word": "陈晓地下拳场打戏",
+        "onboard_time": 1660653211,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169992,
+        "num": 169992,
+        "word": "男子住酒店趁前台睡着偷摸其头发",
+        "onboard_time": 1660653151,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167950,
+        "num": 167950,
+        "word": "盲盒不得向8周岁以下未成年人销售",
+        "onboard_time": 1660651589,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150020,
+        "num": 150020,
+        "word": "中方的坚定举措台独会感受到",
+        "onboard_time": 1660644092,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 143447,
+        "num": 143447,
+        "word": "理想汽车每卖出一辆车亏损2.3万元",
+        "onboard_time": 1660637733,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132271,
+        "num": 132271,
+        "word": "当狗狗遇上爱打球的主人时",
+        "onboard_time": 1660653269,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132091,
+        "num": 132091,
+        "word": "山东威海新增2例无症状",
+        "onboard_time": 1660645410,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131775,
+        "num": 131775,
+        "word": "KPL夏季赛常规赛四位大哥",
+        "onboard_time": 1660647752,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128559,
+        "num": 128559,
+        "word": "郑州5年要引进100万名青年人才",
+        "onboard_time": 1660636472,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持战略定力坚定做好自己的事#"
+    }
+  }
+}

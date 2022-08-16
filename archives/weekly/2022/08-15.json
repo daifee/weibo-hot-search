@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660649589804,
+  "endTime": 1660653556977,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208435,
+      "num": 1208435,
+      "word": "长江流域发生严重旱情",
+      "onboard_time": 1660649250,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192173,
       "num": 1192173,
       "word": "女子高温天买活虾到家熟透6只",
@@ -987,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 885444,
+      "num": 885444,
+      "word": "苏格兰免费为女性提供生理期用品",
+      "onboard_time": 1660648052,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878099,
       "num": 878099,
       "word": "6岁女孩突然不会走确认和基因有关",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1660550551,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 848536,
+      "num": 848536,
+      "word": "程少商跪别宣皇后",
+      "onboard_time": 1660649250,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 846930,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802185,
+      "num": 802185,
+      "word": "95后小伙工作2年暴涨100斤",
+      "onboard_time": 1660648711,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795597,
       "num": 723026,
       "word": "嫋嫋成长的代价太大了",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1660604598,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784434,
+      "num": 784434,
+      "word": "盗墓笔记",
+      "onboard_time": 1660651409,
+      "rank": 9,
+      "category": "其它"
     },
     {
       "raw_hot": 783646,
@@ -1467,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 595093,
-      "num": 574641,
-      "word": "程少商跪别宣皇后",
-      "onboard_time": 1660649250,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 591690,
       "num": 591690,
       "word": "北京二季度平均月薪14252元",
@@ -1603,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546493,
+      "num": 546493,
+      "word": "沉香如屑修罗王预告",
+      "onboard_time": 1660650391,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 546406,
       "num": 546406,
       "word": "邓紫棋车祸哭戏原声花絮",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1660646611,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544547,
+      "num": 544547,
+      "word": "最大限度支援川渝电力供应",
+      "onboard_time": 1660649790,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543826,
@@ -2179,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443652,
+      "num": 443652,
+      "word": "吴磊晒拍戏现场背影照",
+      "onboard_time": 1660649912,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 440899,
       "num": 440899,
       "word": "赵睿收到澳大利亚球队报价",
@@ -2387,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393834,
+      "num": 393834,
+      "word": "王者KPL新皮肤",
+      "onboard_time": 1660651651,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 393678,
       "num": 393678,
       "word": "为什么慢热的人大多数都单身",
@@ -2419,6 +2483,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 387264,
+      "num": 319577,
+      "word": "冰雨火剧情的逻辑性",
+      "onboard_time": 1660652912,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385788,
       "num": 385788,
       "word": "42度都排不上全国高温前10",
@@ -2433,14 +2505,6 @@
       "onboard_time": 1660537473,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384724,
-      "num": 384724,
-      "word": "苏格兰免费为女性提供生理期用品",
-      "onboard_time": 1660648052,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384359,
@@ -2529,6 +2593,14 @@
       "onboard_time": 1660561289,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370490,
+      "num": 315754,
+      "word": "快乐再出发",
+      "onboard_time": 1660652552,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 370037,
@@ -2649,6 +2721,14 @@
       "onboard_time": 1660512491,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361255,
+      "num": 281904,
+      "word": "星汉灿烂",
+      "onboard_time": 1660652610,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 359350,
@@ -2795,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342033,
+      "num": 236248,
+      "word": "成毅玄夜原声台词",
+      "onboard_time": 1660652851,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341912,
       "num": 341912,
       "word": "让国企敢干民企敢闯外企敢投",
@@ -2857,6 +2945,14 @@
       "onboard_time": 1660647811,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335126,
+      "num": 335126,
+      "word": "你适合长发还是短发",
+      "onboard_time": 1660651891,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 334532,
@@ -2993,6 +3089,14 @@
       "onboard_time": 1660487912,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320839,
+      "num": 320839,
+      "word": "辅导员给140名留校考研学生送西瓜",
+      "onboard_time": 1660650270,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 319714,
@@ -3203,14 +3307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297786,
-      "num": 297786,
-      "word": "95后小伙工作2年暴涨100斤",
-      "onboard_time": 1660648711,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297202,
       "num": 297202,
       "word": "胡一天张云龙柯南体质",
@@ -3273,14 +3369,6 @@
       "onboard_time": 1660489894,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292346,
-      "num": 292346,
-      "word": "长江流域发生严重旱情",
-      "onboard_time": 1660649250,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290401,
@@ -3819,6 +3907,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 241239,
+      "num": 241239,
+      "word": "今年夏天热得有多夸张",
+      "onboard_time": 1660647633,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239236,
       "num": 239236,
       "word": "北京的秋天适合望天",
@@ -3865,6 +3961,14 @@
       "onboard_time": 1660543290,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 235294,
+      "num": 170726,
+      "word": "陈晓地下拳场打戏",
+      "onboard_time": 1660653211,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 234920,
@@ -3945,6 +4049,14 @@
       "onboard_time": 1660538974,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229123,
+      "num": 229123,
+      "word": "专家称女方要彩礼是短视的",
+      "onboard_time": 1660652970,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228962,
@@ -4067,6 +4179,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 214057,
+      "num": 214057,
+      "word": "微博下线改名卡",
+      "onboard_time": 1660652552,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 213298,
       "num": 213298,
       "word": "武大靖四年后的约定",
@@ -4099,20 +4219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208149,
+      "num": 208149,
+      "word": "管泽元为什么站着解说",
+      "onboard_time": 1660650809,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207758,
       "num": 207758,
       "word": "女排亚洲杯中国名单公布",
       "onboard_time": 1660555109,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207116,
-      "num": 207116,
-      "word": "今年夏天热得有多夸张",
-      "onboard_time": 1660647633,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 207001,
@@ -4443,12 +4563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169992,
+      "num": 169992,
+      "word": "男子住酒店趁前台睡着偷摸其头发",
+      "onboard_time": 1660653151,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169789,
       "num": 169789,
       "word": "北京514人被限制骑共享单车",
       "onboard_time": 1660607363,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 167950,
+      "num": 167950,
+      "word": "盲盒不得向8周岁以下未成年人销售",
+      "onboard_time": 1660651589,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166266,
@@ -4625,6 +4761,14 @@
       "onboard_time": 1660604659,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132271,
+      "num": 132271,
+      "word": "当狗狗遇上爱打球的主人时",
+      "onboard_time": 1660653269,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 130065,
