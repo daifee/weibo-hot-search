@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660671674162,
+  "endTime": 1660674607016,
   "band_list": [
     {
       "raw_hot": 2725503,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411320,
+      "num": 411320,
+      "word": "西南交大上百研究生新生需校外自费租房",
+      "onboard_time": 1660670476,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 408040,
       "num": 408040,
       "word": "苏醒拒绝王栎鑫姚政帮帮划",
@@ -185,6 +193,14 @@
       "onboard_time": 1660665331,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332672,
+      "num": 170216,
+      "word": "段艺璇发长文",
+      "onboard_time": 1660671437,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 309082,
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235201,
-      "num": 218588,
-      "word": "西南交大上百研究生新生需校外自费租房",
-      "onboard_time": 1660670476,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 227637,
       "num": 227637,
       "word": "我的小狗可能很快就要离开我了",
@@ -313,14 +321,6 @@
       "onboard_time": 1660660593,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 170216,
-      "num": 170216,
-      "word": "段艺璇发长文",
-      "onboard_time": 1660671437,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 168101,
@@ -411,6 +411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118413,
+      "num": 113524,
+      "word": "重庆嘉陵江最新情况",
+      "onboard_time": 1660669939,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 111315,
+      "num": 111315,
+      "word": "沉香重华什么时候定档",
+      "onboard_time": 1660671077,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110807,
       "num": 110807,
       "word": "苍兰诀 修罗场",
@@ -443,20 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90677,
-      "num": 57558,
-      "word": "沉香重华什么时候定档",
-      "onboard_time": 1660671077,
-      "rank": 40,
+      "raw_hot": 78986,
+      "num": 78986,
+      "word": "郭晓婷说以一己之力乱炖cp",
+      "onboard_time": 1660673114,
+      "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 77364,
-      "num": 77364,
-      "word": "重庆嘉陵江最新情况",
-      "onboard_time": 1660669939,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 65065,
@@ -481,6 +489,14 @@
       "onboard_time": 1660669760,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29157,
+      "num": 29157,
+      "word": "被狗狗的执着整破防了",
+      "onboard_time": 1660673235,
+      "rank": 45,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
