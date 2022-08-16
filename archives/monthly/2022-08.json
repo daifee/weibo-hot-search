@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660674607016,
+  "endTime": 1660675602005,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -36387,6 +36387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87491,
+      "num": 87491,
+      "word": "郭晓婷说以一己之力乱炖cp",
+      "onboard_time": 1660673114,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86470,
       "num": 86470,
       "word": "阿灵顿major",
@@ -36481,14 +36489,6 @@
       "onboard_time": 1659310464,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78986,
-      "num": 78986,
-      "word": "郭晓婷说以一己之力乱炖cp",
-      "onboard_time": 1660673114,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 77549,
@@ -36923,6 +36923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35698,
+      "num": 35698,
+      "word": "被狗狗的执着整破防了",
+      "onboard_time": 1660673235,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 35144,
       "num": 549034,
       "word": "张继科说今晚肯定不睡",
@@ -37001,14 +37009,6 @@
       "onboard_time": 1660669760,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29157,
-      "num": 29157,
-      "word": "被狗狗的执着整破防了",
-      "onboard_time": 1660673235,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 28848,
