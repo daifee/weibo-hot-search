@@ -1,6 +1,6 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660660525256,
+  "endTime": 1660663488552,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -57,6 +57,14 @@
       "onboard_time": 1660611155,
       "rank": 1,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2761687,
+      "num": 2761687,
+      "word": "玲娜贝儿卖42元主播直播被抓",
+      "onboard_time": 1660659636,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2523438,
@@ -163,6 +171,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1452060,
+      "num": 1452060,
+      "word": "龙湖集团回应网传将于8月底破产",
+      "onboard_time": 1660658430,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1450853,
       "num": 1450853,
       "word": "中方回应解放军战机俯瞰澎湖列岛",
@@ -211,12 +227,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1333221,
-      "num": 1333221,
-      "word": "龙湖集团回应网传将于8月底破产",
-      "onboard_time": 1660658430,
-      "rank": 12,
-      "category": "财经,社会新闻"
+      "raw_hot": 1305202,
+      "num": 1305202,
+      "word": "为什么年轻人转向智性恋",
+      "onboard_time": 1660657833,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 1302693,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1040348,
+      "num": 1040348,
+      "word": "官方回应重庆嘉陵江被晒干了",
+      "onboard_time": 1660658675,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1018655,
       "num": 407529,
       "word": "ESO全员改名",
@@ -416,14 +440,6 @@
       "word": "老百姓大药房登记顾客姓名为畜生",
       "onboard_time": 1660629872,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 956247,
-      "num": 792500,
-      "word": "玲娜贝儿卖42元主播直播被抓",
-      "onboard_time": 1660659636,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 901548,
+      "num": 901548,
+      "word": "赵露思采访",
+      "onboard_time": 1660661793,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 895923,
       "num": 895923,
       "word": "苍兰诀",
@@ -489,14 +513,6 @@
       "onboard_time": 1660648052,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 881212,
-      "num": 881212,
-      "word": "为什么年轻人转向智性恋",
-      "onboard_time": 1660657833,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 878099,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 623207,
-      "num": 413619,
+      "num": 604197,
       "word": "月升沧海预告好虐",
       "onboard_time": 1660658314,
       "rank": 21,
@@ -1011,12 +1027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510247,
-      "num": 510247,
-      "word": "官方回应重庆嘉陵江被晒干了",
-      "onboard_time": 1660658675,
-      "rank": 28,
-      "category": "社会新闻,旅游"
+      "raw_hot": 499440,
+      "num": 406411,
+      "word": "吴磊打戏",
+      "onboard_time": 1660661252,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 498353,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1660620092,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459404,
+      "num": 459404,
+      "word": "上班第一天啥也不会怎么办",
+      "onboard_time": 1660660593,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 458711,
@@ -1163,6 +1187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 428767,
+      "num": 406398,
+      "word": "成毅一人分饰三角",
+      "onboard_time": 1660662155,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426953,
       "num": 426953,
       "word": "苏州集中隔离点发现4例无症状",
@@ -1209,6 +1241,22 @@
       "onboard_time": 1660613312,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406438,
+      "num": 406438,
+      "word": "调度三峡水库向长江中下游补水",
+      "onboard_time": 1660658915,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406388,
+      "num": 406388,
+      "word": "川渝地区如何应对高温",
+      "onboard_time": 1660661915,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406278,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1660576472,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 379050,
+      "num": 266141,
+      "word": "苍兰夫妇",
+      "onboard_time": 1660661494,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 377627,
@@ -1571,6 +1627,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 331646,
+      "num": 331646,
+      "word": "公布台独顽固分子清单为的就是消独",
+      "onboard_time": 1660662574,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 331605,
       "num": 331605,
       "word": "周冬雨ELLE金九封面",
@@ -1616,14 +1680,6 @@
       "word": "电工掩护网吧4年偷电102万度",
       "onboard_time": 1660608085,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322266,
-      "num": 322266,
-      "word": "调度三峡水库向长江中下游补水",
-      "onboard_time": 1660658915,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1689,6 +1745,14 @@
       "onboard_time": 1660644092,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 301614,
+      "num": 257286,
+      "word": "苍兰诀 修罗场",
+      "onboard_time": 1660660712,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 301461,
@@ -1851,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269851,
+      "num": 192953,
+      "word": "苏醒拒绝王栎鑫姚政帮帮划",
+      "onboard_time": 1660663413,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268829,
       "num": 268829,
       "word": "成熟后理解了章鱼哥",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1660615893,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 266217,
+      "num": 266217,
+      "word": "这洗发水有点不合群",
+      "onboard_time": 1660661617,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 266201,
@@ -1961,6 +2041,14 @@
       "onboard_time": 1660636591,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260877,
+      "num": 192813,
+      "word": "冰雨火 人物设定",
+      "onboard_time": 1660660593,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 258536,
@@ -2195,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221376,
+      "num": 221376,
+      "word": "小猫洗澡怎么能这么乖",
+      "onboard_time": 1660662213,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219563,
       "num": 219563,
       "word": "山东威海新增2例无症状",
@@ -2355,6 +2451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194127,
+      "num": 194127,
+      "word": "饿了么免单",
+      "onboard_time": 1660660655,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192537,
       "num": 192537,
       "word": "不图回报的爱情真的会输吗",
@@ -2475,20 +2579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180583,
+      "num": 180583,
+      "word": "地图上看苏轼一生行程轨迹",
+      "onboard_time": 1660660356,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177629,
       "num": 174284,
       "word": "中原科技城要建成世界一流科技城",
       "onboard_time": 1660639051,
       "rank": 47,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 175423,
-      "num": 175423,
-      "word": "地图上看苏轼一生行程轨迹",
-      "onboard_time": 1660660356,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173504,
@@ -2505,6 +2609,14 @@
       "onboard_time": 1660580305,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172289,
+      "num": 172289,
+      "word": "美军偷油车队一眼望不到头",
+      "onboard_time": 1660663172,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 171723,
