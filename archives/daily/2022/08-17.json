@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660667504609,
+  "endTime": 1660668849600,
   "band_list": [
     {
       "raw_hot": 2725503,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1005408,
-      "num": 515773,
+      "raw_hot": 1039275,
+      "num": 618986,
       "word": "肖战方律师起诉造谣者",
       "onboard_time": 1660665751,
       "rank": 10,
@@ -171,12 +171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360693,
+      "num": 360693,
+      "word": "千金将进行手术",
+      "onboard_time": 1660667126,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344823,
       "num": 344823,
       "word": "你心中的8月男友",
       "onboard_time": 1660665331,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309082,
+      "num": 309082,
+      "word": "孙晓艳发言",
+      "onboard_time": 1660667724,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 307378,
@@ -203,20 +219,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296256,
+      "num": 296256,
+      "word": "北京一妈妈晒女儿0到18岁照片",
+      "onboard_time": 1660664909,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287841,
       "num": 287841,
       "word": "店主遇女孩衣衫不整进店帮穿衣",
       "onboard_time": 1660641213,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 282008,
-      "num": 282008,
-      "word": "北京一妈妈晒女儿0到18岁照片",
-      "onboard_time": 1660664909,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 270905,
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148627,
-      "num": 148627,
-      "word": "千金将进行手术",
-      "onboard_time": 1660667126,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144743,
       "num": 144743,
       "word": "小猫洗澡怎么能这么乖",
@@ -401,6 +409,22 @@
       "onboard_time": 1660666705,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65065,
+      "num": 65065,
+      "word": "上海海港2比0深圳队",
+      "onboard_time": 1660668144,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64192,
+      "num": 64192,
+      "word": "FPX晋级下一轮",
+      "onboard_time": 1660664249,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
