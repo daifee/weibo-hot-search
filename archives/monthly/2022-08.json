@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660681382911,
+  "endTime": 1660682267600,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -36715,6 +36715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53017,
+      "num": 48476,
+      "word": "情侣疑因感情问题跳怒江",
+      "onboard_time": 1660677671,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52990,
       "num": 52990,
       "word": "俞飞鸿造型",
@@ -36736,6 +36744,14 @@
       "word": "电影可以有多致郁",
       "onboard_time": 1659291673,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 50962,
+      "num": 50962,
+      "word": "苍兰诀 群像",
+      "onboard_time": 1660678992,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -36835,14 +36851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 42604,
-      "num": 42604,
-      "word": "苍兰诀 群像",
-      "onboard_time": 1660678992,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 42273,
       "num": 33267,
       "word": "严浩翔看到虫子的反应好呆",
@@ -36857,14 +36865,6 @@
       "onboard_time": 1659451411,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41394,
-      "num": 41394,
-      "word": "情侣疑因感情问题跳怒江",
-      "onboard_time": 1660677671,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41151,
@@ -37251,6 +37251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15895,
+      "num": 15895,
+      "word": "地铁爱心座被占宝妈抱孩子站角落",
+      "onboard_time": 1660680792,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14876,
       "num": 14876,
       "word": "詹姆斯与儿子一起训练",
@@ -37323,14 +37331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11235,
-      "num": 11235,
-      "word": "地铁爱心座被占宝妈抱孩子站角落",
-      "onboard_time": 1660680792,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10452,
       "num": 12727,
       "word": "安宥真李瑞预告照",
@@ -37401,6 +37401,14 @@
       "onboard_time": 1660392029,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8279,
+      "num": 11000,
+      "word": "多地医保局调查口腔种植收费",
+      "onboard_time": 1660682231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4621,

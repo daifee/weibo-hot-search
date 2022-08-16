@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660681382911,
+  "endTime": 1660682267600,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -5499,26 +5499,26 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 49393,
-      "num": 49393,
-      "word": "高温也卷起来了",
-      "onboard_time": 1660581263,
+      "raw_hot": 53017,
+      "num": 48476,
+      "word": "情侣疑因感情问题跳怒江",
+      "onboard_time": 1660677671,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42604,
-      "num": 42604,
+      "raw_hot": 50962,
+      "num": 50962,
       "word": "苍兰诀 群像",
       "onboard_time": 1660678992,
       "rank": 11,
       "category": "影视"
     },
     {
-      "raw_hot": 41394,
-      "num": 41394,
-      "word": "情侣疑因感情问题跳怒江",
-      "onboard_time": 1660677671,
+      "raw_hot": 49393,
+      "num": 49393,
+      "word": "高温也卷起来了",
+      "onboard_time": 1660581263,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -5635,6 +5635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 15895,
+      "num": 15895,
+      "word": "地铁爱心座被占宝妈抱孩子站角落",
+      "onboard_time": 1660680792,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12791,
       "num": 12791,
       "word": "惠英红微博电影之夜斜肩黑色礼服",
@@ -5643,20 +5651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11235,
-      "num": 11235,
-      "word": "地铁爱心座被占宝妈抱孩子站角落",
-      "onboard_time": 1660680792,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9894,
       "num": 9894,
       "word": "塞尔吉奥戈麦斯加盟曼城",
       "onboard_time": 1660677433,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8279,
+      "num": 11000,
+      "word": "多地医保局调查口腔种植收费",
+      "onboard_time": 1660682231,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

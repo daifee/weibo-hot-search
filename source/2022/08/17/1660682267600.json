@@ -1,0 +1,410 @@
+{
+  "runTime": 1660682267600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 104382,
+        "num": 104382,
+        "word": "西南交大上百研究生新生需校外自费租房",
+        "onboard_time": 1660670476,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 85476,
+        "num": 85476,
+        "word": "玲娜贝儿卖42元主播直播被抓",
+        "onboard_time": 1660659636,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13500,
+        "num": 73715,
+        "word": "打卡中国",
+        "onboard_time": 1660656272,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 92506,
+        "num": 73688,
+        "word": "肖战方律师起诉造谣者",
+        "onboard_time": 1660665751,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67705,
+        "num": 67705,
+        "word": "美军偷油车队一眼望不到头",
+        "onboard_time": 1660663172,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 66506,
+        "num": 66506,
+        "word": "拳头将删除英雄联盟非活跃账号",
+        "onboard_time": 1660656091,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60561,
+        "num": 60561,
+        "word": "为什么年轻人转向智性恋",
+        "onboard_time": 1660657833,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56758,
+        "num": 56758,
+        "word": "女子被瞒骗当十几年第三者",
+        "onboard_time": 1660655194,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52078,
+        "num": 52078,
+        "word": "12岁男孩玩手游花光父亲医疗费",
+        "onboard_time": 1660663715,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50962,
+        "num": 50962,
+        "word": "苍兰诀 群像",
+        "onboard_time": 1660678992,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53468,
+        "num": 49721,
+        "word": "段艺璇发长文",
+        "onboard_time": 1660671437,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53017,
+        "num": 48476,
+        "word": "情侣疑因感情问题跳怒江",
+        "onboard_time": 1660677671,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45954,
+        "num": 45954,
+        "word": "盗墓笔记",
+        "onboard_time": 1660651409,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 43655,
+        "num": 43655,
+        "word": "公布台独顽固分子清单为的就是消独",
+        "onboard_time": 1660662574,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 39322,
+        "num": 39322,
+        "word": "男子啃鸭腿发现骨头是用木棍拼接的",
+        "onboard_time": 1660654772,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37404,
+        "num": 37404,
+        "word": "沉香重华什么时候定档",
+        "onboard_time": 1660671077,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33145,
+        "num": 33145,
+        "word": "欢乐颂3豆瓣4.6分",
+        "onboard_time": 1660658014,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32811,
+        "num": 32811,
+        "word": "TWICE推出小分队",
+        "onboard_time": 1660664670,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32383,
+        "num": 32383,
+        "word": "美国5岁孩子练习如何应对枪击",
+        "onboard_time": 1660675695,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32002,
+        "num": 32002,
+        "word": "北京一妈妈晒女儿0到18岁照片",
+        "onboard_time": 1660664909,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52131,
+        "num": 31499,
+        "word": "女子剖腹产出月子后首先办离婚",
+        "onboard_time": 1660644390,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30246,
+        "num": 30246,
+        "word": "你觉得最尴尬的剧宣直播是什么",
+        "onboard_time": 1660668681,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30085,
+        "num": 30085,
+        "word": "重庆嘉陵江最新情况",
+        "onboard_time": 1660669939,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 29288,
+        "num": 29288,
+        "word": "龙湖集团回应网传将于8月底破产",
+        "onboard_time": 1660658430,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 28674,
+        "num": 28674,
+        "word": "月升沧海预告好虐",
+        "onboard_time": 1660658314,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28637,
+        "num": 28637,
+        "word": "官方回应重庆嘉陵江被晒干了",
+        "onboard_time": 1660658675,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 27284,
+        "num": 27284,
+        "word": "苍兰诀",
+        "onboard_time": 1660656936,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26241,
+        "num": 26241,
+        "word": "杭州废弃矿洞成网红避暑探险地",
+        "onboard_time": 1660653750,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 24753,
+        "num": 24753,
+        "word": "川渝地区如何应对高温",
+        "onboard_time": 1660661915,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24095,
+        "num": 24095,
+        "word": "官方辟谣上海前滩出现猴痘",
+        "onboard_time": 1660642291,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25287,
+        "num": 24089,
+        "word": "林志颖顺利完成颜面手术",
+        "onboard_time": 1660637071,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24555,
+        "num": 24087,
+        "word": "沉香重华",
+        "onboard_time": 1660654172,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24082,
+        "num": 24082,
+        "word": "我的小狗可能很快就要离开我了",
+        "onboard_time": 1660654471,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23879,
+        "num": 23879,
+        "word": "95后小伙工作2年暴涨100斤",
+        "onboard_time": 1660648711,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23045,
+        "num": 23045,
+        "word": "宋佳用舞蹈写情诗",
+        "onboard_time": 1660680852,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21997,
+        "num": 21997,
+        "word": "店主遇女孩衣衫不整进店帮穿衣",
+        "onboard_time": 1660641213,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 21609,
+        "num": 21609,
+        "word": "你心中的8月男友",
+        "onboard_time": 1660665331,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21275,
+        "num": 21275,
+        "word": "杀猪盘骗局为何能屡屡得手",
+        "onboard_time": 1660657355,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 21123,
+        "num": 21123,
+        "word": "调度三峡水库向长江中下游补水",
+        "onboard_time": 1660658915,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17584,
+        "num": 17584,
+        "word": "地图上看苏轼一生行程轨迹",
+        "onboard_time": 1660660356,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18475,
+        "num": 17472,
+        "word": "张睿仪态",
+        "onboard_time": 1660656812,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16524,
+        "num": 16524,
+        "word": "被狗狗的执着整破防了",
+        "onboard_time": 1660673235,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 16461,
+        "num": 16461,
+        "word": "谢霆锋惠英红容祖儿电影之夜合照",
+        "onboard_time": 1660676832,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15895,
+        "num": 15895,
+        "word": "地铁爱心座被占宝妈抱孩子站角落",
+        "onboard_time": 1660680792,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14742,
+        "num": 14742,
+        "word": "你适合长发还是短发",
+        "onboard_time": 1660651891,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14661,
+        "num": 14661,
+        "word": "才知道在爱里长大有多幸福",
+        "onboard_time": 1660668861,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13777,
+        "num": 13777,
+        "word": "如果你是一个内向的人",
+        "onboard_time": 1660656692,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 12061,
+        "num": 12061,
+        "word": "上班第一天啥也不会怎么办",
+        "onboard_time": 1660660593,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 11003,
+        "num": 11003,
+        "word": "FPX晋级下一轮",
+        "onboard_time": 1660664249,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8279,
+        "num": 11000,
+        "word": "多地医保局调查口腔种植收费",
+        "onboard_time": 1660682231,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#焦裕禄精神是一盏明灯#"
+    }
+  }
+}
