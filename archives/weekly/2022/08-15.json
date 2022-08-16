@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660675602005,
+  "endTime": 1660677441447,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -5523,12 +5523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35698,
-      "num": 35698,
+      "raw_hot": 36125,
+      "num": 36125,
       "word": "被狗狗的执着整破防了",
       "onboard_time": 1660673235,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 35875,
+      "num": 35875,
+      "word": "谢霆锋惠英红容祖儿电影之夜合照",
+      "onboard_time": 1660676832,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 35054,
@@ -5571,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26056,
+      "num": 26056,
+      "word": "美国5岁孩子练习如何应对枪击",
+      "onboard_time": 1660675695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18931,
       "num": 18931,
       "word": "街舞5队长大秀练舞花絮",
@@ -5593,6 +5609,14 @@
       "onboard_time": 1660512131,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9894,
+      "num": 9894,
+      "word": "塞尔吉奥戈麦斯加盟曼城",
+      "onboard_time": 1660677433,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
