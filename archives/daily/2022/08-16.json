@@ -1,10 +1,10 @@
 {
   "startTime": 1660581160883,
-  "endTime": 1660615922387,
+  "endTime": 1660618531724,
   "band_list": [
     {
-      "raw_hot": 4655510,
-      "num": 4655510,
+      "raw_hot": 9559409,
+      "num": 9559409,
       "word": "马思纯道歉",
       "onboard_time": 1660615653,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1660614214,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3489339,
+      "num": 3489339,
+      "word": "陈若仪晒与林志颖握手照",
+      "onboard_time": 1660616912,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2812302,
@@ -41,6 +49,14 @@
       "onboard_time": 1660581204,
       "rank": 10,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1444837,
+      "num": 721648,
+      "word": "尴尬",
+      "onboard_time": 1660616551,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1237583,
@@ -131,20 +147,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1017433,
+      "num": 790626,
+      "word": "导演看中王一博眼神里的清澈和拧劲儿",
+      "onboard_time": 1660614691,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 830382,
       "num": 830382,
       "word": "鹿晗说在学校当风云人物的感觉",
       "onboard_time": 1660582402,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 790626,
-      "num": 790626,
-      "word": "导演看中王一博眼神里的清澈和拧劲儿",
-      "onboard_time": 1660614691,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 787474,
@@ -171,8 +187,24 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 736444,
+      "num": 715811,
+      "word": "iPhone低电量模式可关闭电池百分比",
+      "onboard_time": 1660617512,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 725453,
+      "num": 725453,
+      "word": "30万现金被烧银行用牙签挽回14余万",
+      "onboard_time": 1660613732,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712572,
-      "num": 2168486,
+      "num": 2238776,
       "word": "一个曾绝密28年的名字",
       "onboard_time": 1660608266,
       "rank": 2,
@@ -235,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538913,
-      "num": 538913,
-      "word": "30万现金被烧银行用牙签挽回14余万",
-      "onboard_time": 1660613732,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 533090,
       "num": 533090,
       "word": "杭州回应被传30万可买人才身份",
@@ -283,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487046,
+      "num": 487046,
+      "word": "女子带小孩坐公交强迫他人让座",
+      "onboard_time": 1660614032,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449083,
       "num": 449083,
       "word": "网友做的暑期新剧鄙视链图",
       "onboard_time": 1660573533,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 445802,
+      "num": 445802,
+      "word": "樊振东积分6900分",
+      "onboard_time": 1660615833,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 426953,
@@ -315,6 +355,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401724,
+      "num": 381868,
+      "word": "俄国防部称英国侦察机侵犯俄边界领空",
+      "onboard_time": 1660616433,
+      "rank": 21,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 395848,
+      "num": 395848,
+      "word": "窦骁6天骑行1704公里",
+      "onboard_time": 1660617571,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395352,
       "num": 395352,
       "word": "东方青苍小兰花吵架好默契",
@@ -329,6 +385,14 @@
       "onboard_time": 1660576472,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 382872,
+      "num": 382872,
+      "word": "公摊面积是否能取消",
+      "onboard_time": 1660617752,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 377627,
@@ -371,8 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336898,
-      "num": 336898,
+      "raw_hot": 338877,
+      "num": 338877,
       "word": "西安新增4例本土确诊",
       "onboard_time": 1660615352,
       "rank": 23,
@@ -385,6 +449,14 @@
       "onboard_time": 1660612116,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334532,
+      "num": 334532,
+      "word": "新神榜杨戬开预售",
+      "onboard_time": 1660617693,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 322645,
@@ -427,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288471,
-      "num": 288471,
-      "word": "女子带小孩坐公交强迫他人让座",
-      "onboard_time": 1660614032,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288436,
       "num": 288436,
       "word": "为何那么多月饼标价499元",
@@ -459,12 +523,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271074,
+      "num": 271074,
+      "word": "四川新增本土确诊病例11例",
+      "onboard_time": 1660616072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268208,
       "num": 268208,
       "word": "北京二季度平均月薪14252元",
       "onboard_time": 1660569330,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268037,
+      "num": 268037,
+      "word": "蚊虫王国服役8年军犬炎龙退役",
+      "onboard_time": 1660615893,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 264137,
@@ -507,6 +587,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233960,
+      "num": 233960,
+      "word": "对列入清单的一批台独顽固分子等人员实施制裁",
+      "onboard_time": 1660616853,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 231882,
+      "num": 231882,
+      "word": "成都疫情防控",
+      "onboard_time": 1660616492,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228962,
       "num": 228962,
       "word": "西藏增本土确诊26例无症状629例",
@@ -539,12 +635,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222572,
+      "num": 222572,
+      "word": "沉香如屑",
+      "onboard_time": 1660617453,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213298,
+      "num": 213298,
+      "word": "武大靖四年后的约定",
+      "onboard_time": 1660617092,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210618,
       "num": 210618,
       "word": "福建报告新增本土确诊11例",
       "onboard_time": 1660614810,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204187,
+      "num": 204187,
+      "word": "月升沧海",
+      "onboard_time": 1660617392,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 203158,
@@ -619,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189501,
+      "num": 189501,
+      "word": "在家实现路边摊自由",
+      "onboard_time": 1660618052,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189305,
       "num": 132473,
       "word": "郭晓婷说今晚先宠哪个小可爱",
@@ -675,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164085,
+      "num": 164085,
+      "word": "正告台独顽固分子必须悬崖勒马",
+      "onboard_time": 1660618413,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 160789,
       "num": 160789,
       "word": "新疆大叔圆梦了",
@@ -723,28 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144164,
-      "num": 144164,
-      "word": "樊振东积分6900分",
-      "onboard_time": 1660615833,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137023,
       "num": 137023,
       "word": "程少商退婚后的五年",
       "onboard_time": 1660551570,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135135,
-      "num": 135135,
-      "word": "蚊虫王国服役8年军犬炎龙退役",
-      "onboard_time": 1660615893,
-      "rank": 49,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 134630,
