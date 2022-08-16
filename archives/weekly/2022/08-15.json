@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660635221625,
+  "endTime": 1660638196035,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -121,6 +121,14 @@
       "onboard_time": 1660611155,
       "rank": 1,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2574722,
+      "num": 1056640,
+      "word": "林志颖顺利完成颜面手术",
+      "onboard_time": 1660637071,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2367420,
@@ -579,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1152426,
+      "num": 367749,
+      "word": "王鹤棣写的小作文",
+      "onboard_time": 1660637912,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145696,
       "num": 1145696,
       "word": "俄罗斯恢复英雄母亲称号",
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949409,
+      "num": 949409,
+      "word": "特斯拉狂粉用亲女儿测自动驾驶",
+      "onboard_time": 1660633470,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 945428,
       "num": 945428,
       "word": "40度高温3岁男孩被锁车内",
@@ -865,6 +889,14 @@
       "onboard_time": 1660629271,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 917827,
+      "num": 457609,
+      "word": "腾讯计划出售美团全部股权",
+      "onboard_time": 1660635571,
+      "rank": 10,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 896023,
@@ -937,6 +969,14 @@
       "onboard_time": 1660582402,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 830153,
+      "num": 830153,
+      "word": "请君",
+      "onboard_time": 1660636591,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 805773,
@@ -1299,12 +1339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 587307,
-      "num": 587307,
-      "word": "特斯拉狂粉用亲女儿测自动驾驶",
-      "onboard_time": 1660633470,
-      "rank": 34,
-      "category": "科技"
+      "raw_hot": 578405,
+      "num": 445198,
+      "word": "程嫋嫋神奇妆造记",
+      "onboard_time": 1660637491,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 568664,
@@ -1827,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458411,
+      "num": 458411,
+      "word": "郑州5年要引进100万名青年人才",
+      "onboard_time": 1660636472,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457268,
       "num": 431043,
       "word": "INTO1人均小学生吧",
@@ -1971,12 +2019,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433818,
+      "num": 366495,
+      "word": "比对象文化水平低就活该被分手吗",
+      "onboard_time": 1660635033,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432833,
       "num": 432833,
       "word": "钱七虎说中国防得住他国核打击",
       "onboard_time": 1660573590,
       "rank": 29,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 431154,
+      "num": 431154,
+      "word": "住房政策向多子女家庭倾斜",
+      "onboard_time": 1660636230,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 427481,
@@ -2073,6 +2137,14 @@
       "onboard_time": 1660524510,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404709,
+      "num": 404709,
+      "word": "男子网约车上捡手机被判为盗窃",
+      "onboard_time": 1660635273,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401724,
@@ -2217,6 +2289,14 @@
       "onboard_time": 1660561289,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370037,
+      "num": 370037,
+      "word": "周鹏正式加盟深圳男篮",
+      "onboard_time": 1660635751,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 369289,
@@ -2475,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334519,
+      "num": 334519,
+      "word": "王俊凯花式炫耀有周杰伦联系方式",
+      "onboard_time": 1660637912,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333567,
       "num": 188509,
       "word": "刘宇手上的笛子会跳舞吧",
@@ -2699,6 +2787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304848,
+      "num": 178719,
+      "word": "刘宇小跑找吴牧野握手",
+      "onboard_time": 1660638152,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302442,
       "num": 302442,
       "word": "上海黄浦江新地标25亿起拍卖",
@@ -2713,14 +2809,6 @@
       "onboard_time": 1660527868,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 301756,
-      "num": 301756,
-      "word": "比对象文化水平低就活该被分手吗",
-      "onboard_time": 1660635033,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 301120,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1660620390,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298758,
+      "num": 298758,
+      "word": "小学生把暑假作业藏商场冰箱",
+      "onboard_time": 1660637432,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 297202,
@@ -3099,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261427,
+      "num": 261427,
+      "word": "LPL季后赛开赛",
+      "onboard_time": 1660636591,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261214,
       "num": 205681,
       "word": "想重温偶像来了",
@@ -3216,6 +3320,14 @@
       "word": "三亚新增确诊291例无症状492例",
       "onboard_time": 1660608567,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250023,
+      "num": 250023,
+      "word": "邯郸一动物园回应老虎瘦成纸片",
+      "onboard_time": 1660635871,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3387,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226714,
+      "num": 226714,
+      "word": "理想汽车每卖出一辆车亏损2.3万元",
+      "onboard_time": 1660637733,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 223689,
       "num": 223689,
       "word": "成都最高气温达到43°C",
@@ -3507,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206037,
+      "num": 206037,
+      "word": "TTG关爱流浪动物",
+      "onboard_time": 1660637311,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204646,
       "num": 204646,
       "word": "厦门新增8例确诊病例",
@@ -3603,6 +3731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196077,
+      "num": 196077,
+      "word": "牺牲消防员没来得及吃最后一顿饭",
+      "onboard_time": 1660635212,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195573,
+      "num": 195573,
+      "word": "小姐姐追哈士奇掉泥沟双双变兵马俑",
+      "onboard_time": 1660637009,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 192243,
       "num": 92230,
       "word": "马嘉祺网速好慢",
@@ -3659,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186215,
+      "num": 186215,
+      "word": "进一步完善和落实积极生育支持措施",
+      "onboard_time": 1660637071,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 185284,
       "num": 153358,
       "word": "林墨把木牛流马演活了",
@@ -3681,6 +3833,30 @@
       "onboard_time": 1660623337,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181953,
+      "num": 181953,
+      "word": "苍兰诀 CP大乱炖",
+      "onboard_time": 1660635631,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180860,
+      "num": 180860,
+      "word": "周鹏说就此别过",
+      "onboard_time": 1660637311,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180410,
+      "num": 180410,
+      "word": "格林婚礼",
+      "onboard_time": 1660635989,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 179542,
@@ -3913,14 +4089,6 @@
       "onboard_time": 1660604659,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132285,
-      "num": 132285,
-      "word": "牺牲消防员没来得及吃最后一顿饭",
-      "onboard_time": 1660635212,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130065,
