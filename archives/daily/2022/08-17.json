@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660689577535,
+  "endTime": 1660692012408,
   "band_list": [
     {
       "raw_hot": 2725503,
@@ -9,6 +9,14 @@
       "onboard_time": 1660663534,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1494738,
+      "num": 719260,
+      "word": "16岁女孩拉黑父母跨省见男网友",
+      "onboard_time": 1660689675,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1437808,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 1039275,
-      "num": 618986,
+      "num": 674004,
       "word": "肖战方律师起诉造谣者",
       "onboard_time": 1660665751,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 933946,
+      "num": 933946,
+      "word": "西南交大上百研究生新生需校外自费租房",
+      "onboard_time": 1660670476,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 894162,
@@ -81,6 +97,14 @@
       "onboard_time": 1660654172,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 557897,
+      "num": 557897,
+      "word": "4岁半儿子淡定帮妈妈清理死老鼠",
+      "onboard_time": 1660687453,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546280,
@@ -147,14 +171,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 462714,
-      "num": 462714,
-      "word": "西南交大上百研究生新生需校外自费租房",
-      "onboard_time": 1660670476,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 444416,
       "num": 444416,
       "word": "苍兰诀",
@@ -179,12 +195,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423695,
+      "num": 423695,
+      "word": "俄愿向盟友和伙伴提供现代化武器",
+      "onboard_time": 1660682350,
+      "rank": 20,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 408040,
       "num": 408040,
       "word": "苏醒拒绝王栎鑫姚政帮帮划",
       "onboard_time": 1660663413,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346093,
+      "num": 346093,
+      "word": "5年全职妈妈为重返职场有多努力",
+      "onboard_time": 1660684392,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344823,
@@ -275,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229074,
+      "num": 229074,
+      "word": "沉香重华什么时候定档",
+      "onboard_time": 1660671077,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227637,
       "num": 227637,
       "word": "我的小狗可能很快就要离开我了",
       "onboard_time": 1660654471,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227510,
-      "num": 167862,
-      "word": "俄愿向盟友和伙伴提供现代化武器",
-      "onboard_time": 1660682350,
-      "rank": 20,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 219171,
@@ -315,11 +347,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205669,
-      "num": 205669,
-      "word": "5年全职妈妈为重返职场有多努力",
-      "onboard_time": 1660684392,
-      "rank": 49,
+      "raw_hot": 207097,
+      "num": 207097,
+      "word": "小兰花好尴尬",
+      "onboard_time": 1660691238,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200794,
+      "num": 200794,
+      "word": "情侣疑因感情问题跳怒江",
+      "onboard_time": 1660677671,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -347,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165185,
+      "num": 165185,
+      "word": "美国5岁孩子练习如何应对枪击",
+      "onboard_time": 1660675695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163209,
       "num": 163209,
       "word": "如果你是一个内向的人",
@@ -361,6 +409,14 @@
       "onboard_time": 1660666288,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147906,
+      "num": 147906,
+      "word": "唐周主动吻颜淡",
+      "onboard_time": 1660691841,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 144743,
@@ -395,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140395,
-      "num": 140395,
-      "word": "4岁半儿子淡定帮妈妈清理死老鼠",
-      "onboard_time": 1660687453,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139689,
       "num": 139689,
       "word": "夏天把人逼成啥样了",
@@ -411,12 +459,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 133028,
-      "num": 133028,
-      "word": "沉香重华什么时候定档",
-      "onboard_time": 1660671077,
+      "raw_hot": 132282,
+      "num": 132282,
+      "word": "科学家用相对论破解意识之谜",
+      "onboard_time": 1660685531,
       "rank": 40,
-      "category": "影视"
+      "category": "科技"
     },
     {
       "raw_hot": 129261,
@@ -427,11 +475,35 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 125187,
+      "num": 125187,
+      "word": "陈晓王一博冰雨火微博评分8.6",
+      "onboard_time": 1660655912,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125148,
+      "num": 125148,
+      "word": "重庆嘉陵江最新情况",
+      "onboard_time": 1660669939,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 122080,
       "num": 122080,
       "word": "地图上看苏轼一生行程轨迹",
       "onboard_time": 1660660356,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119659,
+      "num": 119659,
+      "word": "地铁爱心座被占宝妈抱孩子站角落",
+      "onboard_time": 1660680792,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -443,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118413,
-      "num": 113524,
-      "word": "重庆嘉陵江最新情况",
-      "onboard_time": 1660669939,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 110807,
       "num": 110807,
       "word": "苍兰诀 修罗场",
@@ -459,20 +523,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110554,
-      "num": 110554,
-      "word": "情侣疑因感情问题跳怒江",
-      "onboard_time": 1660677671,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101482,
       "num": 1249696,
       "word": "打卡中国",
       "onboard_time": 1660656272,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 101220,
+      "num": 76419,
+      "word": "三亚增380例确诊791例无症状",
+      "onboard_time": 1660691962,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94870,
+      "num": 94870,
+      "word": "苍兰诀 群像",
+      "onboard_time": 1660678992,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 93835,
@@ -499,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 79654,
-      "num": 79654,
-      "word": "美国5岁孩子练习如何应对枪击",
-      "onboard_time": 1660675695,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69572,
       "num": 69572,
       "word": "刘昊然谈今后的作品目标",
@@ -529,30 +593,6 @@
       "onboard_time": 1660664249,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63001,
-      "num": 63001,
-      "word": "科学家用相对论破解意识之谜",
-      "onboard_time": 1660685531,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 54305,
-      "num": 54305,
-      "word": "苍兰诀 群像",
-      "onboard_time": 1660678992,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 53576,
-      "num": 53576,
-      "word": "地铁爱心座被占宝妈抱孩子站角落",
-      "onboard_time": 1660680792,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36125,

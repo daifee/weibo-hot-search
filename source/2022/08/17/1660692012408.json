@@ -1,0 +1,410 @@
+{
+  "runTime": 1660692012408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933946,
+        "num": 933946,
+        "word": "西南交大上百研究生新生需校外自费租房",
+        "onboard_time": 1660670476,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 799614,
+        "num": 799614,
+        "word": "玲娜贝儿卖42元主播直播被抓",
+        "onboard_time": 1660659636,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87474,
+        "num": 727037,
+        "word": "打卡中国",
+        "onboard_time": 1660656272,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1494738,
+        "num": 719260,
+        "word": "16岁女孩拉黑父母跨省见男网友",
+        "onboard_time": 1660689675,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674004,
+        "num": 674004,
+        "word": "肖战方律师起诉造谣者",
+        "onboard_time": 1660665751,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610804,
+        "num": 610804,
+        "word": "美军偷油车队一眼望不到头",
+        "onboard_time": 1660663172,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 557897,
+        "num": 557897,
+        "word": "4岁半儿子淡定帮妈妈清理死老鼠",
+        "onboard_time": 1660687453,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506341,
+        "num": 506341,
+        "word": "为什么年轻人转向智性恋",
+        "onboard_time": 1660657833,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423695,
+        "num": 423695,
+        "word": "俄愿向盟友和伙伴提供现代化武器",
+        "onboard_time": 1660682350,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 387597,
+        "num": 387597,
+        "word": "官方回应重庆嘉陵江被晒干了",
+        "onboard_time": 1660658675,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 354599,
+        "num": 354599,
+        "word": "男子啃鸭腿发现骨头是用木棍拼接的",
+        "onboard_time": 1660654772,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346093,
+        "num": 346093,
+        "word": "5年全职妈妈为重返职场有多努力",
+        "onboard_time": 1660684392,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309837,
+        "num": 309837,
+        "word": "盗墓笔记",
+        "onboard_time": 1660651409,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 306318,
+        "num": 306318,
+        "word": "公布台独顽固分子清单为的就是消独",
+        "onboard_time": 1660662574,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 268369,
+        "num": 268369,
+        "word": "12岁男孩玩手游花光父亲医疗费",
+        "onboard_time": 1660663715,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266766,
+        "num": 266766,
+        "word": "拳头将删除英雄联盟非活跃账号",
+        "onboard_time": 1660656091,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247953,
+        "num": 247953,
+        "word": "北京一妈妈晒女儿0到18岁照片",
+        "onboard_time": 1660664909,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229074,
+        "num": 229074,
+        "word": "沉香重华什么时候定档",
+        "onboard_time": 1660671077,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215995,
+        "num": 215995,
+        "word": "女子被瞒骗当十几年第三者",
+        "onboard_time": 1660655194,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207097,
+        "num": 207097,
+        "word": "小兰花好尴尬",
+        "onboard_time": 1660691238,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338074,
+        "num": 205861,
+        "word": "女子剖腹产出月子后首先办离婚",
+        "onboard_time": 1660644390,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200794,
+        "num": 200794,
+        "word": "情侣疑因感情问题跳怒江",
+        "onboard_time": 1660677671,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "龙湖集团回应网传将于8月底破产",
+        "onboard_time": 1660658430,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 166180,
+        "num": 166180,
+        "word": "月升沧海预告好虐",
+        "onboard_time": 1660658314,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165185,
+        "num": 165185,
+        "word": "美国5岁孩子练习如何应对枪击",
+        "onboard_time": 1660675695,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164556,
+        "num": 164556,
+        "word": "段艺璇发长文",
+        "onboard_time": 1660671437,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163583,
+        "num": 163583,
+        "word": "杭州废弃矿洞成网红避暑探险地",
+        "onboard_time": 1660653750,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 148508,
+        "num": 148508,
+        "word": "欢乐颂3豆瓣4.6分",
+        "onboard_time": 1660658014,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147906,
+        "num": 147906,
+        "word": "唐周主动吻颜淡",
+        "onboard_time": 1660691841,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144061,
+        "num": 144061,
+        "word": "95后小伙工作2年暴涨100斤",
+        "onboard_time": 1660648711,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140825,
+        "num": 140825,
+        "word": "TWICE推出小分队",
+        "onboard_time": 1660664670,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138737,
+        "num": 138737,
+        "word": "沉香重华",
+        "onboard_time": 1660654172,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134168,
+        "num": 134168,
+        "word": "上班第一天啥也不会怎么办",
+        "onboard_time": 1660660593,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 132282,
+        "num": 132282,
+        "word": "科学家用相对论破解意识之谜",
+        "onboard_time": 1660685531,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125187,
+        "num": 125187,
+        "word": "陈晓王一博冰雨火微博评分8.6",
+        "onboard_time": 1660655912,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125148,
+        "num": 125148,
+        "word": "重庆嘉陵江最新情况",
+        "onboard_time": 1660669939,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "地铁爱心座被占宝妈抱孩子站角落",
+        "onboard_time": 1660680792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108411,
+        "num": 108411,
+        "word": "官方辟谣上海前滩出现猴痘",
+        "onboard_time": 1660642291,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105417,
+        "num": 105417,
+        "word": "你觉得最尴尬的剧宣直播是什么",
+        "onboard_time": 1660668681,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96827,
+        "num": 96827,
+        "word": "川渝地区如何应对高温",
+        "onboard_time": 1660661915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94870,
+        "num": 94870,
+        "word": "苍兰诀 群像",
+        "onboard_time": 1660678992,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91573,
+        "num": 91573,
+        "word": "我的小狗可能很快就要离开我了",
+        "onboard_time": 1660654471,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89275,
+        "num": 89275,
+        "word": "你心中的8月男友",
+        "onboard_time": 1660665331,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85883,
+        "num": 85883,
+        "word": "地图上看苏轼一生行程轨迹",
+        "onboard_time": 1660660356,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85256,
+        "num": 85256,
+        "word": "店主遇女孩衣衫不整进店帮穿衣",
+        "onboard_time": 1660641213,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 84903,
+        "num": 84903,
+        "word": "林志颖顺利完成颜面手术",
+        "onboard_time": 1660637071,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76943,
+        "num": 76943,
+        "word": "才知道在爱里长大有多幸福",
+        "onboard_time": 1660668861,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101220,
+        "num": 76419,
+        "word": "三亚增380例确诊791例无症状",
+        "onboard_time": 1660691962,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75893,
+        "num": 75893,
+        "word": "杀猪盘骗局为何能屡屡得手",
+        "onboard_time": 1660657355,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 70867,
+        "num": 70867,
+        "word": "张睿仪态",
+        "onboard_time": 1660656812,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码十年#"
+    }
+  }
+}
