@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660688564821,
+  "endTime": 1660689577535,
   "band_list": [
     {
       "raw_hot": 2725503,
@@ -147,6 +147,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 462714,
+      "num": 462714,
+      "word": "西南交大上百研究生新生需校外自费租房",
+      "onboard_time": 1660670476,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 444416,
       "num": 444416,
       "word": "苍兰诀",
@@ -169,14 +177,6 @@
       "onboard_time": 1660656812,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 411320,
-      "num": 411320,
-      "word": "西南交大上百研究生新生需校外自费租房",
-      "onboard_time": 1660670476,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 408040,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227510,
+      "num": 167862,
+      "word": "俄愿向盟友和伙伴提供现代化武器",
+      "onboard_time": 1660682350,
+      "rank": 20,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 219171,
       "num": 219171,
       "word": "林志颖顺利完成颜面手术",
@@ -307,20 +315,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205669,
+      "num": 205669,
+      "word": "5年全职妈妈为重返职场有多努力",
+      "onboard_time": 1660684392,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198645,
       "num": 198645,
       "word": "杭州废弃矿洞成网红避暑探险地",
       "onboard_time": 1660653750,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 194877,
-      "num": 126311,
-      "word": "俄愿向盟友和伙伴提供现代化武器",
-      "onboard_time": 1660682350,
-      "rank": 20,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 192814,
@@ -387,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140395,
+      "num": 140395,
+      "word": "4岁半儿子淡定帮妈妈清理死老鼠",
+      "onboard_time": 1660687453,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139689,
       "num": 139689,
       "word": "夏天把人逼成啥样了",
@@ -395,20 +411,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 133028,
+      "num": 133028,
+      "word": "沉香重华什么时候定档",
+      "onboard_time": 1660671077,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129261,
       "num": 129261,
       "word": "你适合长发还是短发",
       "onboard_time": 1660651891,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 128883,
-      "num": 128883,
-      "word": "5年全职妈妈为重返职场有多努力",
-      "onboard_time": 1660684392,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122080,
@@ -435,20 +451,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 111315,
-      "num": 111315,
-      "word": "沉香重华什么时候定档",
-      "onboard_time": 1660671077,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 110807,
       "num": 110807,
       "word": "苍兰诀 修罗场",
       "onboard_time": 1660660712,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110554,
+      "num": 110554,
+      "word": "情侣疑因感情问题跳怒江",
+      "onboard_time": 1660677671,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101482,
@@ -483,16 +499,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86464,
-      "num": 86464,
-      "word": "情侣疑因感情问题跳怒江",
-      "onboard_time": 1660677671,
-      "rank": 48,
+      "raw_hot": 79654,
+      "num": 79654,
+      "word": "美国5岁孩子练习如何应对枪击",
+      "onboard_time": 1660675695,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69426,
-      "num": 69426,
+      "raw_hot": 69572,
+      "num": 69572,
       "word": "刘昊然谈今后的作品目标",
       "onboard_time": 1660683131,
       "rank": 19,
@@ -515,35 +531,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 57647,
-      "num": 57647,
-      "word": "4岁半儿子淡定帮妈妈清理死老鼠",
-      "onboard_time": 1660687453,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 63001,
+      "num": 63001,
+      "word": "科学家用相对论破解意识之谜",
+      "onboard_time": 1660685531,
+      "rank": 40,
+      "category": "科技"
     },
     {
-      "raw_hot": 50962,
-      "num": 50962,
+      "raw_hot": 54305,
+      "num": 54305,
       "word": "苍兰诀 群像",
       "onboard_time": 1660678992,
       "rank": 11,
       "category": "影视"
     },
     {
-      "raw_hot": 47640,
-      "num": 47640,
+      "raw_hot": 53576,
+      "num": 53576,
       "word": "地铁爱心座被占宝妈抱孩子站角落",
       "onboard_time": 1660680792,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38098,
-      "num": 38098,
-      "word": "美国5岁孩子练习如何应对枪击",
-      "onboard_time": 1660675695,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -561,14 +569,6 @@
       "onboard_time": 1660676832,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 34678,
-      "num": 34678,
-      "word": "科学家用相对论破解意识之谜",
-      "onboard_time": 1660685531,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 30747,
