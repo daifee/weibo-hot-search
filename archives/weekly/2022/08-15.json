@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660618531724,
+  "endTime": 1660622605059,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -137,6 +137,14 @@
       "onboard_time": 1660551570,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2191341,
+      "num": 2191341,
+      "word": "马航",
+      "onboard_time": 1660621233,
+      "rank": 3,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2051761,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1487226,
+      "num": 1487226,
+      "word": "公摊面积是否能取消",
+      "onboard_time": 1660617752,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1464240,
       "num": 1464240,
       "word": "云南书记要求反思游客为什么不来",
@@ -400,6 +416,14 @@
       "word": "iPhone年年焕新改为3到13个月",
       "onboard_time": 1660540052,
       "rank": 9,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1333496,
+      "num": 1333496,
+      "word": "iPhone低电量模式可关闭电池百分比",
+      "onboard_time": 1660617512,
+      "rank": 12,
       "category": "科技"
     },
     {
@@ -747,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936741,
+      "num": 642925,
+      "word": "王鹤棣 内娱拿放哥",
+      "onboard_time": 1660619614,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 896023,
       "num": 597305,
       "word": "王鹤棣是虞书欣的御用摄影师吧",
@@ -883,14 +915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 736444,
-      "num": 715811,
-      "word": "iPhone低电量模式可关闭电池百分比",
-      "onboard_time": 1660617512,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 725475,
       "num": 725475,
       "word": "7旬老人打封闭针挖枸杞根救病孙",
@@ -1019,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 642474,
+      "num": 642474,
+      "word": "王一博暴风扒舞",
+      "onboard_time": 1660621533,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 634736,
       "num": 360347,
       "word": "宋亚轩露腹肌",
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633361,
+      "num": 633361,
+      "word": "王者荣耀7月收入2.25亿美金",
+      "onboard_time": 1660621353,
+      "rank": 14,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 615179,
       "num": 615179,
       "word": "颜淡吃的不是醋是可爱多",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1660547489,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 606594,
+      "num": 475338,
+      "word": "窦骁6天骑行1704公里",
+      "onboard_time": 1660617571,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 604807,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1660609413,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599876,
+      "num": 599876,
+      "word": "俄罗斯恢复英雄母亲称号",
+      "onboard_time": 1660621112,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 596197,
@@ -1251,10 +1307,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527772,
+      "num": 527772,
+      "word": "兔妈妈狂薅狗毛为产子做窝",
+      "onboard_time": 1660619011,
+      "rank": 18,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 525427,
       "num": 394659,
       "word": "制片人回应苍兰诀招商不多",
       "onboard_time": 1660538733,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520285,
+      "num": 469614,
+      "word": "虞书欣生气",
+      "onboard_time": 1660610976,
       "rank": 21,
       "category": "影视"
     },
@@ -1467,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475834,
+      "num": 475834,
+      "word": "印度足协被全球禁赛",
+      "onboard_time": 1660620092,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474500,
       "num": 474500,
       "word": "一条瑜伽裤承受了太多",
@@ -1507,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463316,
+      "num": 463316,
+      "word": "清华爸爸辅导作业崩溃锤墙",
+      "onboard_time": 1660621652,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 462569,
       "num": 462569,
       "word": "男生吃饭时遇线上军训面馆站军姿",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1660552712,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453824,
+      "num": 453824,
+      "word": "新iPad将10月发布",
+      "onboard_time": 1660620333,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 453265,
@@ -1651,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434995,
+      "num": 434995,
+      "word": "3名准大学生临危不乱雨中救火",
+      "onboard_time": 1660620633,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 432833,
       "num": 432833,
       "word": "钱七虎说中国防得住他国核打击",
@@ -1688,6 +1792,14 @@
       "word": "最让你惊艳的女明星红毯造型",
       "onboard_time": 1660554809,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422535,
+      "num": 422535,
+      "word": "罗云熙章若楠新剧开机",
+      "onboard_time": 1660619912,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1763,14 +1875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 395848,
-      "num": 395848,
-      "word": "窦骁6天骑行1704公里",
-      "onboard_time": 1660617571,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395352,
       "num": 395352,
       "word": "东方青苍小兰花吵架好默契",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1660564350,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 391841,
+      "num": 340691,
+      "word": "导演说陈晓自带忧郁感",
+      "onboard_time": 1660619011,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 385788,
@@ -1809,14 +1921,6 @@
       "onboard_time": 1660486292,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382872,
-      "num": 382872,
-      "word": "公摊面积是否能取消",
-      "onboard_time": 1660617752,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 380024,
@@ -1897,6 +2001,14 @@
       "onboard_time": 1660575152,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367342,
+      "num": 340648,
+      "word": "周深加盟浙江卫视818晚会",
+      "onboard_time": 1660619614,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 365691,
@@ -2067,6 +2179,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341912,
+      "num": 341912,
+      "word": "让国企敢干民企敢闯外企敢投",
+      "onboard_time": 1660618773,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 340425,
+      "num": 340425,
+      "word": "疑商夫妇城门送别花絮",
+      "onboard_time": 1660622196,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338877,
       "num": 338877,
       "word": "西安新增4例本土确诊",
@@ -2113,6 +2241,14 @@
       "onboard_time": 1660572874,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331605,
+      "num": 331605,
+      "word": "周冬雨ELLE金九封面",
+      "onboard_time": 1660621112,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 329286,
@@ -2339,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299296,
+      "num": 226481,
+      "word": "二十不惑2全员比耶照",
+      "onboard_time": 1660620390,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297202,
       "num": 297202,
       "word": "胡一天张云龙柯南体质",
@@ -2385,6 +2529,14 @@
       "onboard_time": 1660489894,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291889,
+      "num": 291889,
+      "word": "年轻人为何不爱逛宜家了",
+      "onboard_time": 1660621950,
+      "rank": 35,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 290401,
@@ -2547,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268146,
+      "num": 268146,
+      "word": "苹果iOS16beta6发布",
+      "onboard_time": 1660620932,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 268037,
       "num": 268037,
       "word": "蚊虫王国服役8年军犬炎龙退役",
@@ -2593,6 +2753,14 @@
       "onboard_time": 1660578086,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263104,
+      "num": 223748,
+      "word": "电影狼群",
+      "onboard_time": 1660621775,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 262361,
@@ -2731,6 +2899,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 242921,
+      "num": 242921,
+      "word": "正告台独顽固分子必须悬崖勒马",
+      "onboard_time": 1660618413,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 236617,
       "num": 236617,
       "word": "喊妈的人类幼崽有多好笑",
@@ -2776,6 +2952,14 @@
       "word": "张家界坠亡女骑手家属获补偿45万元",
       "onboard_time": 1660472731,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230464,
+      "num": 2438068,
+      "word": "120秒珍贵画面缅怀焦裕禄",
+      "onboard_time": 1660619614,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2987,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198757,
+      "num": 198757,
+      "word": "小区群真是太精彩了",
+      "onboard_time": 1660622438,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
@@ -3048,6 +3240,14 @@
       "word": "彭州龙漕沟河道已被挖掉系谣言",
       "onboard_time": 1660487075,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186785,
+      "num": 186785,
+      "word": "南京建邺区新增一核酸异常人员",
+      "onboard_time": 1660619732,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3161,14 +3361,6 @@
       "onboard_time": 1660562910,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164085,
-      "num": 164085,
-      "word": "正告台独顽固分子必须悬崖勒马",
-      "onboard_time": 1660618413,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 162800,
