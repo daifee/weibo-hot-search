@@ -1,0 +1,410 @@
+{
+  "runTime": 1660736206919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2724400,
+        "num": 2724400,
+        "word": "腾讯员工平均月薪85473元",
+        "onboard_time": 1660732952,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1515494,
+        "num": 1515494,
+        "word": "美称在台湾海峡进行标准化海空通行",
+        "onboard_time": 1660731630,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28973,
+        "num": 1447923,
+        "word": "天安门广场看升旗是中国人的浪漫",
+        "onboard_time": 1660694730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1437490,
+        "num": 1437490,
+        "word": "故意关停电梯小男孩暂未找到",
+        "onboard_time": 1660733852,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2311674,
+        "num": 1415475,
+        "word": "艾成坠楼身亡",
+        "onboard_time": 1660719932,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1331294,
+        "num": 1331294,
+        "word": "披荆斩棘第二季官宣定档",
+        "onboard_time": 1660735350,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1163545,
+        "num": 1163545,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087590,
+        "num": 1087590,
+        "word": "女子生产后两块纱布被遗留体内",
+        "onboard_time": 1660731332,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917113,
+        "num": 917113,
+        "word": "虞书欣的妆真的是王鹤棣化的",
+        "onboard_time": 1660730612,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573119,
+        "num": 573119,
+        "word": "警告美方犯我中华者必将受到惩处",
+        "onboard_time": 1660733553,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1744051,
+        "num": 572515,
+        "word": "丈夫因早餐做得不好吃殴打妻子",
+        "onboard_time": 1660731271,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840079,
+        "num": 570508,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 688285,
+        "num": 569469,
+        "word": "垫底辣孩问我是丑上热搜第一人吗",
+        "onboard_time": 1660721193,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 566943,
+        "num": 566943,
+        "word": "沉香如屑结局",
+        "onboard_time": 1660735831,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520813,
+        "num": 520813,
+        "word": "四川倒闭公立医院涉案总金额近千万",
+        "onboard_time": 1660734394,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500171,
+        "num": 500171,
+        "word": "中国军队赴俄参加东方2022演习",
+        "onboard_time": 1660734871,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 484034,
+        "num": 484034,
+        "word": "毁掉牙齿的6个不良习惯",
+        "onboard_time": 1660729352,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460348,
+        "num": 460348,
+        "word": "微信月活近13亿",
+        "onboard_time": 1660731691,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 391338,
+        "num": 391338,
+        "word": "中方对普京总统的表态给予高度评价",
+        "onboard_time": 1660727672,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 375430,
+        "num": 375430,
+        "word": "大爷大妈进超市避暑脱鞋躺货架",
+        "onboard_time": 1660729052,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951845,
+        "num": 373228,
+        "word": "李钟硕粉丝见面会门票价格",
+        "onboard_time": 1660733491,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505875,
+        "num": 360735,
+        "word": "杨紫把破灯灭了",
+        "onboard_time": 1660721015,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504970,
+        "num": 353305,
+        "word": "马天宇被工作人员吐槽穿搭",
+        "onboard_time": 1660735472,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461923,
+        "num": 348655,
+        "word": "西双版纳偶遇孙怡",
+        "onboard_time": 1660727313,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343078,
+        "num": 343078,
+        "word": "湘潭大学回应强制毕业生换10人寝",
+        "onboard_time": 1660735653,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 294933,
+        "num": 294933,
+        "word": "你一年会员要花多少钱",
+        "onboard_time": 1660732231,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288351,
+        "num": 288351,
+        "word": "高等学历继续教育不再使用函授名称",
+        "onboard_time": 1660727434,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 267295,
+        "num": 267295,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244350,
+        "num": 244350,
+        "word": "云南出现七彩祥云",
+        "onboard_time": 1660733852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239415,
+        "num": 239415,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391938,
+        "num": 238430,
+        "word": "月升沧海吴磊对赵露思撒娇",
+        "onboard_time": 1660733972,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376157,
+        "num": 238216,
+        "word": "沉香如屑",
+        "onboard_time": 1660732772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358331,
+        "num": 238180,
+        "word": "这就是街舞5微博开分8.5分",
+        "onboard_time": 1660734213,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237067,
+        "num": 237067,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235305,
+        "num": 235305,
+        "word": "上海疫情防控",
+        "onboard_time": 1660730014,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340992,
+        "num": 233855,
+        "word": "金子涵电影同学好杀青照",
+        "onboard_time": 1660731271,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229247,
+        "num": 229247,
+        "word": "该吃化毛膏的原来是我",
+        "onboard_time": 1660730492,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224749,
+        "num": 224749,
+        "word": "腾讯二季度净利润下滑56%",
+        "onboard_time": 1660730314,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219456,
+        "num": 219456,
+        "word": "记住这个商阳穴",
+        "onboard_time": 1660735111,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 200687,
+        "num": 200687,
+        "word": "未婚已育女性办理生育津贴不需要结婚证",
+        "onboard_time": 1660735831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187945,
+        "num": 187945,
+        "word": "陕西本次疫情报告感染者48例",
+        "onboard_time": 1660732472,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176393,
+        "num": 176393,
+        "word": "腾讯发布2022年二季度财报",
+        "onboard_time": 1660729473,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171514,
+        "num": 171514,
+        "word": "寺库回应人去楼空",
+        "onboard_time": 1660730732,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163868,
+        "num": 163868,
+        "word": "能源大省四川为何缺电",
+        "onboard_time": 1660720111,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155339,
+        "num": 155339,
+        "word": "北京新增社会面筛查一例",
+        "onboard_time": 1660729413,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144059,
+        "num": 144059,
+        "word": "熊猫难道不害怕吗",
+        "onboard_time": 1660722574,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133858,
+        "num": 133858,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354393,
+        "num": 133715,
+        "word": "宋亚轩金发",
+        "onboard_time": 1660736194,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129794,
+        "num": 129794,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125126,
+        "num": 125126,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁锦州考察调研#"
+    }
+  }
+}
