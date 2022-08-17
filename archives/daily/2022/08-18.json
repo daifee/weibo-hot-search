@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660768697870,
+  "endTime": 1660771211302,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -355,6 +355,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 172988,
+      "num": 172988,
+      "word": "假如生命只剩一晚你有什么遗憾",
+      "onboard_time": 1660765571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167262,
       "num": 167262,
       "word": "外交部回应美称将在台海进行海空通行",
@@ -451,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118026,
-      "num": 118026,
-      "word": "假如生命只剩一晚你有什么遗憾",
-      "onboard_time": 1660765571,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 109220,
+      "num": 51058,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 109167,
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62687,
-      "num": 27777,
-      "word": "韩军方称朝鲜发射两枚巡航导弹",
-      "onboard_time": 1660765751,
-      "rank": 20,
-      "category": "军事"
-    },
-    {
       "raw_hot": 61783,
       "num": 61783,
       "word": "关晓彤新剧官配",
@@ -499,12 +499,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43830,
+      "num": 43830,
+      "word": "关晓彤牛骏峰二十不惑2演情侣",
+      "onboard_time": 1660769710,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 34317,
+      "num": 34317,
+      "word": "LPL首次出现全华一阵",
+      "onboard_time": 1660768751,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26213,
       "num": 22391,
       "word": "二十不惑2租房好真实",
       "onboard_time": 1660763831,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17415,
+      "num": 17415,
+      "word": "牧野家族",
+      "onboard_time": 1660769772,
+      "rank": 42,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
