@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660754060447,
+  "endTime": 1660755565165,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -963,6 +963,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 1259754,
+      "num": 1259754,
+      "word": "茶百道与垫底辣孩合作评论区翻车",
+      "onboard_time": 1660750593,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1241033,
       "num": 1241033,
       "word": "被同事朋友圈分组屏蔽的心情",
@@ -1339,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1018310,
-      "num": 1018310,
-      "word": "茶百道与垫底辣孩合作评论区翻车",
-      "onboard_time": 1660750593,
-      "rank": 3,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1018292,
       "num": 1018292,
       "word": "苹果五福一安充电器全面售罄",
@@ -1473,6 +1473,14 @@
       "onboard_time": 1660633470,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 948820,
+      "num": 948820,
+      "word": "杭州气温跌破26℃",
+      "onboard_time": 1660751788,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947155,
@@ -1633,14 +1641,6 @@
       "onboard_time": 1660663172,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 891378,
-      "num": 891378,
-      "word": "杭州气温跌破26℃",
-      "onboard_time": 1660751788,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 885444,
@@ -3609,6 +3609,14 @@
       "onboard_time": 1660627114,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458135,
+      "num": 458135,
+      "word": "重庆高温地铁楼梯上长满了人",
+      "onboard_time": 1660752987,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457268,
@@ -5979,6 +5987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268388,
+      "num": 198859,
+      "word": "宋亚轩蜕变三周年大片",
+      "onboard_time": 1660755321,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268380,
       "num": 265929,
       "word": "颜淡唐周船上吻",
@@ -6819,14 +6835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206635,
-      "num": 206635,
-      "word": "重庆高温地铁楼梯上长满了人",
-      "onboard_time": 1660752987,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206480,
       "num": 206480,
       "word": "陆虎身上是有些广告位在的",
@@ -6889,6 +6897,14 @@
       "onboard_time": 1660553792,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201830,
+      "num": 144133,
+      "word": "王俊凯断桥黄雀市第一江景房vlog",
+      "onboard_time": 1660751788,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 201747,
@@ -7587,12 +7603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140260,
+      "num": 140260,
+      "word": "连续高温上千只母鸡罢工",
+      "onboard_time": 1660754245,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "没想到路上也能偶遇壮壮妈",
       "onboard_time": 1660633352,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133746,
+      "num": 124708,
+      "word": "颜淡送床头灯归西",
+      "onboard_time": 1660755082,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 132898,
