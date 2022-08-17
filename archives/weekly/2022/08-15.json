@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660764825929,
+  "endTime": 1660767770260,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -7859,6 +7859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 82918,
+      "num": 63556,
+      "word": "假如生命只剩一晚你有什么遗憾",
+      "onboard_time": 1660765571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79457,
       "num": 79457,
       "word": "猫猫会狗喘是什么体验",
@@ -7899,6 +7907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61783,
+      "num": 61783,
+      "word": "关晓彤新剧官配",
+      "onboard_time": 1660762933,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60384,
       "num": 1804889,
       "word": "90秒致敬14年抗战史",
@@ -7907,20 +7923,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 55040,
-      "num": 55040,
-      "word": "关晓彤新剧官配",
-      "onboard_time": 1660762933,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "高温也卷起来了",
       "onboard_time": 1660581263,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46785,
+      "num": 27777,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 37919,

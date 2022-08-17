@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660764825929,
+  "endTime": 1660767770260,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -38763,6 +38763,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 82918,
+      "num": 63556,
+      "word": "假如生命只剩一晚你有什么遗憾",
+      "onboard_time": 1660765571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82022,
       "num": 82022,
       "word": "周洁琼宋灵灵",
@@ -38955,6 +38963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61783,
+      "num": 61783,
+      "word": "关晓彤新剧官配",
+      "onboard_time": 1660762933,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60877,
       "num": 60877,
       "word": "西汉姆联vs曼城",
@@ -39059,14 +39075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55040,
-      "num": 55040,
-      "word": "关晓彤新剧官配",
-      "onboard_time": 1660762933,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 54175,
       "num": 265965,
       "word": "直升机航拍震撼时刻",
@@ -39137,6 +39145,14 @@
       "onboard_time": 1660418893,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46785,
+      "num": 27777,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 46171,
