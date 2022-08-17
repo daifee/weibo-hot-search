@@ -1,0 +1,410 @@
+{
+  "runTime": 1660724896014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5252913,
+        "num": 5252913,
+        "word": "艾成坠楼身亡",
+        "onboard_time": 1660719932,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2495112,
+        "num": 2495112,
+        "word": "网友质疑戚薇卖假货",
+        "onboard_time": 1660719630,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 80282,
+        "num": 2076718,
+        "word": "天安门广场看升旗是中国人的浪漫",
+        "onboard_time": 1660694730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1844244,
+        "num": 1844244,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1422213,
+        "num": 1422213,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811635,
+        "num": 811635,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787727,
+        "num": 787727,
+        "word": "三亚临时征用33家酒店宾馆为集中隔离场所",
+        "onboard_time": 1660721435,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672510,
+        "num": 672510,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581995,
+        "num": 581995,
+        "word": "多人洞穴探险后肺部感染险丧命",
+        "onboard_time": 1660720051,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509489,
+        "num": 509489,
+        "word": "能源大省四川为何缺电",
+        "onboard_time": 1660720111,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1707416,
+        "num": 501536,
+        "word": "垫底辣孩问我是丑上热搜第一人吗",
+        "onboard_time": 1660721193,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1296615,
+        "num": 498824,
+        "word": "杨紫把破灯灭了",
+        "onboard_time": 1660721015,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 973955,
+        "num": 485711,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693274,
+        "num": 470891,
+        "word": "王鹤棣扫楼",
+        "onboard_time": 1660723774,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553908,
+        "num": 464488,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683987,
+        "num": 451231,
+        "word": "古偶女主人设天花板",
+        "onboard_time": 1660717051,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450366,
+        "num": 450366,
+        "word": "吃完的荔枝壳千万不要丢",
+        "onboard_time": 1660717650,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 386077,
+        "num": 386077,
+        "word": "iPhone14将与华为Mate50同期发布",
+        "onboard_time": 1660703247,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 383711,
+        "num": 383711,
+        "word": "熊猫难道不害怕吗",
+        "onboard_time": 1660722574,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378631,
+        "num": 378631,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529018,
+        "num": 352511,
+        "word": "赵露思月升沧海骑马花絮",
+        "onboard_time": 1660723591,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435927,
+        "num": 344896,
+        "word": "吴磊转剑",
+        "onboard_time": 1660724375,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315410,
+        "num": 315410,
+        "word": "男子骑电瓶车高架逆行被撞身亡担全责",
+        "onboard_time": 1660719330,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299683,
+        "num": 299683,
+        "word": "熊猫也觉得熊猫很可爱对不对",
+        "onboard_time": 1660721795,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295725,
+        "num": 295725,
+        "word": "狗在婚礼上抢走了我老公",
+        "onboard_time": 1660716870,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409122,
+        "num": 295642,
+        "word": "网传一念关山今天开拍",
+        "onboard_time": 1660722156,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292153,
+        "num": 292153,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287912,
+        "num": 287912,
+        "word": "重庆还没到最热的时候",
+        "onboard_time": 1660721134,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277498,
+        "num": 277498,
+        "word": "厦门集美实行人物同检",
+        "onboard_time": 1660718430,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266257,
+        "num": 266257,
+        "word": "1岁男童钥匙插充电桩脸被电黑",
+        "onboard_time": 1660709194,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392125,
+        "num": 256368,
+        "word": "吕一老公钱泳辰被曝骗学费",
+        "onboard_time": 1660705890,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 371607,
+        "num": 249169,
+        "word": "偷偷藏不住",
+        "onboard_time": 1660714113,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360309,
+        "num": 248468,
+        "word": "吴振峰陈宇把微博当日记写",
+        "onboard_time": 1660724193,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240357,
+        "num": 240357,
+        "word": "新能源车为何自燃事故频发",
+        "onboard_time": 1660723233,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231363,
+        "num": 231363,
+        "word": "陕西勉县发生溺水事故致5人溺亡",
+        "onboard_time": 1660717111,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231312,
+        "num": 231312,
+        "word": "成都限电",
+        "onboard_time": 1660705531,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228348,
+        "num": 228348,
+        "word": "童年喝过最上头的饮料",
+        "onboard_time": 1660710636,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216215,
+        "num": 216215,
+        "word": "脑瘫舅舅摆摊卖菜救重病外甥女",
+        "onboard_time": 1660713333,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201123,
+        "num": 201123,
+        "word": "长沙发现1例新冠病毒肺炎确诊病例",
+        "onboard_time": 1660706371,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199553,
+        "num": 199553,
+        "word": "Tian获常规赛MVP",
+        "onboard_time": 1660715131,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307829,
+        "num": 198507,
+        "word": "央视秋晚镜头下的李易峰",
+        "onboard_time": 1660721733,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292508,
+        "num": 195782,
+        "word": "被镜头偏爱的美貌",
+        "onboard_time": 1660707269,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192126,
+        "num": 192126,
+        "word": "请问这里是猫德学院吗",
+        "onboard_time": 1660723591,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187925,
+        "num": 187925,
+        "word": "四川水电发电能力下降5成以上",
+        "onboard_time": 1660724075,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174202,
+        "num": 174202,
+        "word": "发现福寿螺切勿食用",
+        "onboard_time": 1660711113,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159084,
+        "num": 159084,
+        "word": "边界感太强会影响亲密关系吗",
+        "onboard_time": 1660719570,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158214,
+        "num": 158214,
+        "word": "男子被困礁石用摩斯密码求救",
+        "onboard_time": 1660717111,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156121,
+        "num": 156121,
+        "word": "年轻人为何不爱吃鸭脖了",
+        "onboard_time": 1660695811,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 147636,
+        "num": 147636,
+        "word": "消防员三伏天讲冷笑话为网友降温",
+        "onboard_time": 1660723774,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130752,
+        "num": 130752,
+        "word": "首次申领居民身份证跨省通办时间表",
+        "onboard_time": 1660715011,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发现最美铁路尽览首都风采#"
+    }
+  }
+}
