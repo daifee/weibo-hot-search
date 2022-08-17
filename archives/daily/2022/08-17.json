@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660715524439,
+  "endTime": 1660717803545,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -59,7 +59,7 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1939771,
+      "raw_hot": 2073236,
       "num": 1939771,
       "word": "侵华日军曾强迫慰安妇穿和服木屐",
       "onboard_time": 1660707631,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1159926,
-      "num": 678482,
+      "num": 981263,
       "word": "偷偷藏不住",
       "onboard_time": 1660714113,
       "rank": 10,
@@ -273,6 +273,14 @@
       "onboard_time": 1660702711,
       "rank": 33,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 805153,
+      "num": 805153,
+      "word": "比亚迪汉被曝上牌仅3天自燃",
+      "onboard_time": 1660715790,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785900,
@@ -451,6 +459,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 547371,
+      "num": 1363843,
+      "word": "发现福寿螺切勿食用",
+      "onboard_time": 1660711113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546280,
       "num": 546280,
       "word": "盗墓笔记",
@@ -480,14 +496,6 @@
       "word": "女子被瞒骗当十几年第三者",
       "onboard_time": 1660655194,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531638,
-      "num": 1363843,
-      "word": "发现福寿螺切勿食用",
-      "onboard_time": 1660711113,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -619,6 +627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 461405,
+      "num": 461405,
+      "word": "古偶女主人设天花板",
+      "onboard_time": 1660717051,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447315,
       "num": 447315,
       "word": "上海全面推行轻微违法行为依法不予行政处罚",
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393894,
+      "num": 393894,
+      "word": "Tian获常规赛MVP",
+      "onboard_time": 1660715131,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 388189,
       "num": 388189,
       "word": "长沙多家酒店开放大堂为市民避暑",
@@ -729,6 +753,14 @@
       "onboard_time": 1660703850,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376465,
+      "num": 376465,
+      "word": "男孩关停扶梯致5岁小女孩摔倒",
+      "onboard_time": 1660716331,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366804,
@@ -771,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 351740,
-      "num": 351740,
-      "word": "Tian获常规赛MVP",
-      "onboard_time": 1660715131,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 350915,
       "num": 350915,
       "word": "北京一妈妈晒女儿0到18岁照片",
@@ -791,6 +815,14 @@
       "num": 344823,
       "word": "你心中的8月男友",
       "onboard_time": 1660665331,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 340655,
+      "num": 340655,
+      "word": "冰雨火嫌疑人一天变一个",
+      "onboard_time": 1660716931,
       "rank": 22,
       "category": "影视"
     },
@@ -809,6 +841,22 @@
       "onboard_time": 1660697193,
       "rank": 26,
       "category": "财经,体育"
+    },
+    {
+      "raw_hot": 326877,
+      "num": 263872,
+      "word": "钟辰乐直播",
+      "onboard_time": 1660716810,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 323422,
+      "num": 323422,
+      "word": "LPL",
+      "onboard_time": 1660716391,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 322586,
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290979,
+      "num": 206789,
+      "word": "庆怜芭莎男士",
+      "onboard_time": 1660716990,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287841,
       "num": 287841,
       "word": "店主遇女孩衣衫不整进店帮穿衣",
@@ -905,6 +961,14 @@
       "onboard_time": 1660712014,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280603,
+      "num": 280603,
+      "word": "狗在婚礼上抢走了我老公",
+      "onboard_time": 1660716870,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 279934,
@@ -984,6 +1048,14 @@
       "word": "热到见证历史了",
       "onboard_time": 1660709974,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "首次申领居民身份证跨省通办时间表",
+      "onboard_time": 1660715011,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1067,12 +1139,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213020,
-      "num": 213020,
-      "word": "首次申领居民身份证跨省通办时间表",
-      "onboard_time": 1660715011,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 213886,
+      "num": 213886,
+      "word": "做游戏为什么要研究下水道",
+      "onboard_time": 1660716510,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 211334,
@@ -1115,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201782,
+      "num": 201782,
+      "word": "陕西勉县发生溺水事故致5人溺亡",
+      "onboard_time": 1660717111,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198645,
       "num": 198645,
       "word": "杭州废弃矿洞成网红避暑探险地",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1660695511,
       "rank": 42,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 189228,
+      "num": 189228,
+      "word": "男子被困礁石用摩斯密码求救",
+      "onboard_time": 1660717111,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184895,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1660704987,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164731,
+      "num": 164731,
+      "word": "吃完的荔枝壳千万不要丢",
+      "onboard_time": 1660717650,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 163209,

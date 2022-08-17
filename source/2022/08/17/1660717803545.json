@@ -1,0 +1,410 @@
+{
+  "runTime": 1660717803545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528851,
+        "num": 1528851,
+        "word": "吕一老公钱泳辰被曝骗学费",
+        "onboard_time": 1660705890,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 981263,
+        "num": 981263,
+        "word": "偷偷藏不住",
+        "onboard_time": 1660714113,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547371,
+        "num": 958227,
+        "word": "发现福寿螺切勿食用",
+        "onboard_time": 1660711113,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2777431,
+        "num": 957152,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2073236,
+        "num": 955441,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949212,
+        "num": 949212,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805153,
+        "num": 805153,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704360,
+        "num": 704360,
+        "word": "iPhone14将与华为Mate50同期发布",
+        "onboard_time": 1660703247,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 631524,
+        "num": 631524,
+        "word": "孩子高铁上吵闹不止乘客提醒被家长怼",
+        "onboard_time": 1660692563,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604420,
+        "num": 604420,
+        "word": "年轻人为何不爱吃鸭脖了",
+        "onboard_time": 1660695811,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1969185,
+        "num": 592546,
+        "word": "爱情公寓诺澜近照",
+        "onboard_time": 1660710754,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526346,
+        "num": 526346,
+        "word": "被镜头偏爱的美貌",
+        "onboard_time": 1660707269,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502289,
+        "num": 502289,
+        "word": "1岁男童钥匙插充电桩脸被电黑",
+        "onboard_time": 1660709194,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461405,
+        "num": 461405,
+        "word": "古偶女主人设天花板",
+        "onboard_time": 1660717051,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395154,
+        "num": 395154,
+        "word": "长沙发现1例新冠病毒肺炎确诊病例",
+        "onboard_time": 1660706371,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393894,
+        "num": 393894,
+        "word": "Tian获常规赛MVP",
+        "onboard_time": 1660715131,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376465,
+        "num": 376465,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368565,
+        "num": 368565,
+        "word": "成都限电",
+        "onboard_time": 1660705531,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368043,
+        "num": 368043,
+        "word": "童年喝过最上头的饮料",
+        "onboard_time": 1660710636,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 367085,
+        "num": 367085,
+        "word": "公司称猫5次入镜影响上课开除老师",
+        "onboard_time": 1660702290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390444,
+        "num": 356303,
+        "word": "范丞丞更新微博自动回复",
+        "onboard_time": 1660710754,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384641,
+        "num": 349343,
+        "word": "奥运冠军为关晓彤新剧打call",
+        "onboard_time": 1660707030,
+        "rank": 21,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 340655,
+        "num": 340655,
+        "word": "冰雨火嫌疑人一天变一个",
+        "onboard_time": 1660716931,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331850,
+        "num": 331850,
+        "word": "女司机撞人后打开车门用脚刹",
+        "onboard_time": 1660709676,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330185,
+        "num": 330185,
+        "word": "刘昊然穿老头衫骑摩托",
+        "onboard_time": 1660706428,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323422,
+        "num": 323422,
+        "word": "LPL",
+        "onboard_time": 1660716391,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286988,
+        "num": 286988,
+        "word": "手机销量重回7年前",
+        "onboard_time": 1660706428,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280991,
+        "num": 280991,
+        "word": "脑瘫舅舅摆摊卖菜救重病外甥女",
+        "onboard_time": 1660713333,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280603,
+        "num": 280603,
+        "word": "狗在婚礼上抢走了我老公",
+        "onboard_time": 1660716870,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264382,
+        "num": 264382,
+        "word": "辽宁大连首次发现桃花水母",
+        "onboard_time": 1660704870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326877,
+        "num": 263872,
+        "word": "钟辰乐直播",
+        "onboard_time": 1660716810,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303983,
+        "num": 263458,
+        "word": "李易峰央视中秋晚会扮演设计师",
+        "onboard_time": 1660712374,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303796,
+        "num": 262957,
+        "word": "苏醒为了再就业有多努力",
+        "onboard_time": 1660709075,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 262130,
+        "num": 262130,
+        "word": "婴幼儿无人照料是阻碍生育首要因素",
+        "onboard_time": 1660705471,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243410,
+        "num": 243410,
+        "word": "首次申领居民身份证跨省通办时间表",
+        "onboard_time": 1660715011,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228355,
+        "num": 228355,
+        "word": "东部4省要完成中央财政上缴任务",
+        "onboard_time": 1660703129,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219295,
+        "num": 219295,
+        "word": "成都部分写字楼因高温限电",
+        "onboard_time": 1660708413,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216281,
+        "num": 216281,
+        "word": "AirPodsPro2将支持健身追踪",
+        "onboard_time": 1660709134,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213886,
+        "num": 213886,
+        "word": "做游戏为什么要研究下水道",
+        "onboard_time": 1660716510,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207123,
+        "num": 207123,
+        "word": "土耳其2岁女童遭蛇咬后咬死蛇",
+        "onboard_time": 1660692984,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290979,
+        "num": 206789,
+        "word": "庆怜芭莎男士",
+        "onboard_time": 1660716990,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277651,
+        "num": 205932,
+        "word": "刘彰没想到自己能登顶成功",
+        "onboard_time": 1660715312,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204630,
+        "num": 204630,
+        "word": "调查称近半安卓用户想改用iPhone",
+        "onboard_time": 1660705289,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203222,
+        "num": 203222,
+        "word": "女子商场内试戴戒指戴上就跑",
+        "onboard_time": 1660699711,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201782,
+        "num": 201782,
+        "word": "陕西勉县发生溺水事故致5人溺亡",
+        "onboard_time": 1660717111,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189228,
+        "num": 189228,
+        "word": "男子被困礁石用摩斯密码求救",
+        "onboard_time": 1660717111,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166989,
+        "num": 166989,
+        "word": "6省市78.3万人次因旱灾需要生活救助",
+        "onboard_time": 1660712014,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164731,
+        "num": 164731,
+        "word": "吃完的荔枝壳千万不要丢",
+        "onboard_time": 1660717650,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153607,
+        "num": 153607,
+        "word": "内向的人没惹你们任何人",
+        "onboard_time": 1660698032,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 149093,
+        "num": 149093,
+        "word": "92岁义乌老人捐款100万抗疫",
+        "onboard_time": 1660707391,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#焦裕禄精神是一盏明灯#"
+    }
+  }
+}

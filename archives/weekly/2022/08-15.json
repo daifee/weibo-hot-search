@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660715524439,
+  "endTime": 1660717803545,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -267,6 +267,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 2073236,
+      "num": 1939771,
+      "word": "侵华日军曾强迫慰安妇穿和服木屐",
+      "onboard_time": 1660707631,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2051761,
       "num": 2051761,
       "word": "于文文消失的孩子",
@@ -289,14 +297,6 @@
       "onboard_time": 1660541910,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1939771,
-      "num": 1939771,
-      "word": "侵华日军曾强迫慰安妇穿和服木屐",
-      "onboard_time": 1660707631,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1924849,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 1159926,
-      "num": 678482,
+      "num": 981263,
       "word": "偷偷藏不住",
       "onboard_time": 1660714113,
       "rank": 10,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1660517056,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 805153,
+      "num": 805153,
+      "word": "比亚迪汉被曝上牌仅3天自燃",
+      "onboard_time": 1660715790,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 803562,
@@ -2235,6 +2243,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 547371,
+      "num": 1363843,
+      "word": "发现福寿螺切勿食用",
+      "onboard_time": 1660711113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546493,
       "num": 546493,
       "word": "沉香如屑修罗王预告",
@@ -2360,14 +2376,6 @@
       "word": "辉瑞首席执行官新冠检测阳性",
       "onboard_time": 1660569688,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531638,
-      "num": 1363843,
-      "word": "发现福寿螺切勿食用",
-      "onboard_time": 1660711113,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2825,6 +2833,14 @@
       "onboard_time": 1660554391,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461405,
+      "num": 461405,
+      "word": "古偶女主人设天花板",
+      "onboard_time": 1660717051,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 461118,
@@ -3315,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393894,
+      "num": 393894,
+      "word": "Tian获常规赛MVP",
+      "onboard_time": 1660715131,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 393678,
       "num": 393678,
       "word": "为什么慢热的人大多数都单身",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1660653750,
       "rank": 36,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 376465,
+      "num": 376465,
+      "word": "男孩关停扶梯致5岁小女孩摔倒",
+      "onboard_time": 1660716331,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375712,
@@ -3771,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351740,
-      "num": 351740,
-      "word": "Tian获常规赛MVP",
-      "onboard_time": 1660715131,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351635,
       "num": 351635,
       "word": "你适合长发还是短发",
@@ -3873,6 +3897,14 @@
       "onboard_time": 1660659454,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 340655,
+      "num": 340655,
+      "word": "冰雨火嫌疑人一天变一个",
+      "onboard_time": 1660716931,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 340425,
@@ -4035,6 +4067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326877,
+      "num": 263872,
+      "word": "钟辰乐直播",
+      "onboard_time": 1660716810,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326296,
       "num": 326296,
       "word": "水利部要求全力保饮水保灌溉",
@@ -4073,6 +4113,14 @@
       "onboard_time": 1660652552,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 323422,
+      "num": 323422,
+      "word": "LPL",
+      "onboard_time": 1660716391,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 323190,
@@ -4451,6 +4499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290979,
+      "num": 206789,
+      "word": "庆怜芭莎男士",
+      "onboard_time": 1660716990,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290401,
       "num": 290401,
       "word": "七旬爷爷跑遍800个古村为老人拍照",
@@ -4577,6 +4633,14 @@
       "onboard_time": 1660631131,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 280603,
+      "num": 280603,
+      "word": "狗在婚礼上抢走了我老公",
+      "onboard_time": 1660716870,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 279934,
@@ -5075,6 +5139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "首次申领居民身份证跨省通办时间表",
+      "onboard_time": 1660715011,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242951,
       "num": 231866,
       "word": "吴振峰QQ号叫邮一只软猫",
@@ -5419,20 +5491,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 213886,
+      "num": 213886,
+      "word": "做游戏为什么要研究下水道",
+      "onboard_time": 1660716510,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213298,
       "num": 213298,
       "word": "武大靖四年后的约定",
       "onboard_time": 1660617092,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213020,
-      "num": 213020,
-      "word": "首次申领居民身份证跨省通办时间表",
-      "onboard_time": 1660715011,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212980,
@@ -5537,6 +5609,14 @@
       "onboard_time": 1660553792,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201782,
+      "num": 201782,
+      "word": "陕西勉县发生溺水事故致5人溺亡",
+      "onboard_time": 1660717111,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201747,
@@ -5705,6 +5785,14 @@
       "onboard_time": 1660531587,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189228,
+      "num": 189228,
+      "word": "男子被困礁石用摩斯密码求救",
+      "onboard_time": 1660717111,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186988,
@@ -5969,6 +6057,14 @@
       "onboard_time": 1660704987,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164731,
+      "num": 164731,
+      "word": "吃完的荔枝壳千万不要丢",
+      "onboard_time": 1660717650,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 164328,
