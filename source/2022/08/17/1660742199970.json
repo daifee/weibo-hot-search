@@ -1,0 +1,410 @@
+{
+  "runTime": 1660742199970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2428039,
+        "num": 2428039,
+        "word": "未婚已育女性办理生育津贴不需要结婚证",
+        "onboard_time": 1660735831,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2216885,
+        "num": 2216885,
+        "word": "披荆斩棘第二季官宣定档",
+        "onboard_time": 1660735350,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243235,
+        "num": 2100330,
+        "word": "基建狂魔又上新了",
+        "onboard_time": 1660740754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1995188,
+        "num": 1995188,
+        "word": "月升沧海大结局点映礼",
+        "onboard_time": 1660740514,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1122424,
+        "num": 1122424,
+        "word": "老人去世狗狗绝食两天后离世",
+        "onboard_time": 1660740212,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047024,
+        "num": 1047024,
+        "word": "故意关停电梯小男孩暂未找到",
+        "onboard_time": 1660733852,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902053,
+        "num": 902053,
+        "word": "沉香如屑结局",
+        "onboard_time": 1660735831,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 850737,
+        "num": 850737,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842382,
+        "num": 842382,
+        "word": "湘潭大学回应强制毕业生换10人寝",
+        "onboard_time": 1660735653,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 691835,
+        "num": 691835,
+        "word": "Deft",
+        "onboard_time": 1660738292,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1183354,
+        "num": 686196,
+        "word": "丈夫因早餐做得不好吃殴打妻子",
+        "onboard_time": 1660731271,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709281,
+        "num": 680420,
+        "word": "王鹤棣花瓣雨摘戒指",
+        "onboard_time": 1660737752,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 657132,
+        "num": 657132,
+        "word": "张天爱说有女团脸是观众给我脸",
+        "onboard_time": 1660741354,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 643983,
+        "num": 643983,
+        "word": "时代少年团蜕变三周年",
+        "onboard_time": 1660741294,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620038,
+        "num": 620038,
+        "word": "超4成00后偏好体制内工作",
+        "onboard_time": 1660737512,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481090,
+        "num": 481090,
+        "word": "中国军队赴俄参加东方2022演习",
+        "onboard_time": 1660734871,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 477439,
+        "num": 477439,
+        "word": "腾讯员工增长近1.7万人",
+        "onboard_time": 1660738831,
+        "rank": 16,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 468792,
+        "num": 468792,
+        "word": "北京明日大到暴雨建议错峰上下班",
+        "onboard_time": 1660739132,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426981,
+        "num": 426981,
+        "word": "女子生产后两块纱布被遗留体内",
+        "onboard_time": 1660731332,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420755,
+        "num": 420755,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1660740392,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 643573,
+        "num": 420693,
+        "word": "丁程鑫雾霾蓝发色",
+        "onboard_time": 1660736254,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589041,
+        "num": 399714,
+        "word": "宋亚轩金发",
+        "onboard_time": 1660736194,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476478,
+        "num": 396657,
+        "word": "二十不惑2",
+        "onboard_time": 1660741115,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371387,
+        "num": 371387,
+        "word": "四川倒闭公立医院涉案总金额近千万",
+        "onboard_time": 1660734394,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334539,
+        "num": 334539,
+        "word": "小米汽车敲定电池方案",
+        "onboard_time": 1660737212,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 469896,
+        "num": 334448,
+        "word": "李钟硕粉丝见面会门票价格",
+        "onboard_time": 1660733491,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322185,
+        "num": 322185,
+        "word": "外交部回应美称将在台海进行海空通行",
+        "onboard_time": 1660731630,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 292356,
+        "num": 292356,
+        "word": "杭州暴雨",
+        "onboard_time": 1660736375,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289008,
+        "num": 289008,
+        "word": "毁掉牙齿的6个不良习惯",
+        "onboard_time": 1660729352,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280179,
+        "num": 280179,
+        "word": "你一年会员要花多少钱",
+        "onboard_time": 1660732231,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 442376,
+        "num": 280085,
+        "word": "赵露思和吴磊合作感受",
+        "onboard_time": 1660737633,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408127,
+        "num": 279991,
+        "word": "马天宇被工作人员吐槽穿搭",
+        "onboard_time": 1660735472,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358016,
+        "num": 279954,
+        "word": "TVB演员为什么没有偶像包袱",
+        "onboard_time": 1660736614,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279786,
+        "num": 279786,
+        "word": "严格禁止以罚款进行创收",
+        "onboard_time": 1660739913,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252782,
+        "num": 252782,
+        "word": "进返京人员返岗须持核酸阴性证明",
+        "onboard_time": 1660741472,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340242,
+        "num": 250770,
+        "word": "沉香如屑",
+        "onboard_time": 1660732772,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233399,
+        "num": 233399,
+        "word": "没想到是个老实人",
+        "onboard_time": 1660738955,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233115,
+        "num": 233115,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224663,
+        "num": 224663,
+        "word": "警告美方犯我中华者必将受到惩处",
+        "onboard_time": 1660733553,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 194556,
+        "num": 194556,
+        "word": "中方对普京总统的表态给予高度评价",
+        "onboard_time": 1660727672,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 324438,
+        "num": 193891,
+        "word": "牛骏峰演的赵优秀",
+        "onboard_time": 1660742074,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187388,
+        "num": 187388,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183366,
+        "num": 183366,
+        "word": "微信月活近13亿",
+        "onboard_time": 1660731691,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180951,
+        "num": 180951,
+        "word": "老人祭祀引燃绿化带路人合力灭火",
+        "onboard_time": 1660739791,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 152882,
+        "num": 152882,
+        "word": "大爷大妈进超市避暑脱鞋躺货架",
+        "onboard_time": 1660729052,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133932,
+        "num": 133932,
+        "word": "高等学历继续教育不再使用函授名称",
+        "onboard_time": 1660727434,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129377,
+        "num": 129377,
+        "word": "记住这个商阳穴",
+        "onboard_time": 1660735111,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 127378,
+        "num": 127378,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123557,
+        "num": 123557,
+        "word": "云南出现七彩祥云",
+        "onboard_time": 1660733852,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121894,
+        "num": 121894,
+        "word": "上一段恋爱让人最遗憾的事",
+        "onboard_time": 1660741892,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#焦裕禄精神是一盏明灯#"
+    }
+  }
+}
