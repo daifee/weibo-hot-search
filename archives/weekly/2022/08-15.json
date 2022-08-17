@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660750957528,
+  "endTime": 1660754060447,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -409,6 +409,14 @@
       "onboard_time": 1660611455,
       "rank": 4,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1911821,
+      "num": 1911821,
+      "word": "肛肠医院数量与吃辣版图吻合住了",
+      "onboard_time": 1660751551,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1882728,
@@ -1331,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1018310,
+      "num": 1018310,
+      "word": "茶百道与垫底辣孩合作评论区翻车",
+      "onboard_time": 1660750593,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1018292,
       "num": 1018292,
       "word": "苹果五福一安充电器全面售罄",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1660663172,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 891378,
+      "num": 891378,
+      "word": "杭州气温跌破26℃",
+      "onboard_time": 1660751788,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885444,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1660484311,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 743046,
+      "num": 743046,
+      "word": "重庆涪陵山火仍在扑救中",
+      "onboard_time": 1660749933,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 742097,
@@ -2675,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564206,
-      "num": 564206,
-      "word": "重庆涪陵山火仍在扑救中",
-      "onboard_time": 1660749933,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 563459,
       "num": 398293,
       "word": "怦然心动20岁",
@@ -3219,6 +3243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 498990,
+      "num": 498990,
+      "word": "任嘉伦李沁请君加入夸夸群",
+      "onboard_time": 1660751431,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498559,
       "num": 353281,
       "word": "王子异说范丞丞瘦了成熟了",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1660573713,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 492197,
+      "num": 294644,
+      "word": "苍兰诀周六更新",
+      "onboard_time": 1660751128,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 491789,
@@ -4739,6 +4779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352215,
+      "num": 293489,
+      "word": "XYG海报",
+      "onboard_time": 1660750777,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 351635,
       "num": 351635,
       "word": "你适合长发还是短发",
@@ -5571,6 +5619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293262,
+      "num": 202905,
+      "word": "严浩翔白发",
+      "onboard_time": 1660752749,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 292797,
       "num": 262950,
       "word": "00后男生工作吵架吵到哭",
@@ -5779,6 +5835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278418,
+      "num": 202108,
+      "word": "陈宇查案坚决不放过一点细节",
+      "onboard_time": 1660753705,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278121,
       "num": 278121,
       "word": "西藏边防战士急流中喊相信我",
@@ -5969,6 +6033,14 @@
       "onboard_time": 1660635871,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266019,
+      "num": 266019,
+      "word": "再吓就不礼貌了",
+      "onboard_time": 1660752210,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 266005,
@@ -6747,6 +6819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206635,
+      "num": 206635,
+      "word": "重庆高温地铁楼梯上长满了人",
+      "onboard_time": 1660752987,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206480,
       "num": 206480,
       "word": "陆虎身上是有些广告位在的",
@@ -7441,14 +7521,6 @@
       "onboard_time": 1660597451,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149863,
-      "num": 149863,
-      "word": "XYG海报",
-      "onboard_time": 1660750777,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 149788,
