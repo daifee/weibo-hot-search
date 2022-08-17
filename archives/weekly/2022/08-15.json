@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660771211302,
+  "endTime": 1660772281569,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -7115,6 +7115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "假如生命只剩一晚你有什么遗憾",
+      "onboard_time": 1660765571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186988,
       "num": 186988,
       "word": "彭州龙漕沟河道已被挖掉系谣言",
@@ -7297,14 +7305,6 @@
       "onboard_time": 1660628793,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172988,
-      "num": 172988,
-      "word": "假如生命只剩一晚你有什么遗憾",
-      "onboard_time": 1660765571,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 172884,
@@ -7764,7 +7764,7 @@
     },
     {
       "raw_hot": 109220,
-      "num": 51058,
+      "num": 56607,
       "word": "韩军方称朝鲜发射两枚巡航导弹",
       "onboard_time": 1660765751,
       "rank": 20,
@@ -7907,6 +7907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64260,
+      "num": 56401,
+      "word": "关晓彤牛骏峰二十不惑2演情侣",
+      "onboard_time": 1660769710,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 63989,
       "num": 63989,
       "word": "饭堂直播",
@@ -7939,12 +7947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43830,
-      "num": 43830,
-      "word": "关晓彤牛骏峰二十不惑2演情侣",
-      "onboard_time": 1660769710,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 44902,
+      "num": 44902,
+      "word": "LPL首次出现全华一阵",
+      "onboard_time": 1660768751,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 37919,
@@ -7985,14 +7993,6 @@
       "onboard_time": 1660504153,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34317,
-      "num": 34317,
-      "word": "LPL首次出现全华一阵",
-      "onboard_time": 1660768751,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 33697,
@@ -8043,6 +8043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 20320,
+      "num": 20320,
+      "word": "牧野家族",
+      "onboard_time": 1660769772,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18931,
       "num": 18931,
       "word": "街舞5队长大秀练舞花絮",
@@ -8057,14 +8065,6 @@
       "onboard_time": 1660678571,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17415,
-      "num": 17415,
-      "word": "牧野家族",
-      "onboard_time": 1660769772,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 16972,
@@ -8083,12 +8083,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 12854,
+      "num": 12854,
+      "word": "男子因彩礼难题想不开欲轻生",
+      "onboard_time": 1660771991,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12791,
       "num": 12791,
       "word": "惠英红微博电影之夜斜肩黑色礼服",
       "onboard_time": 1660512131,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10481,
+      "num": 12439,
+      "word": "AI相机只拍喜欢的物体",
+      "onboard_time": 1660772232,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 9894,
