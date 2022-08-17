@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660774883676,
+  "endTime": 1660775893136,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468472,
+      "num": 468472,
+      "word": "假如生命只剩一晚你有什么遗憾",
+      "onboard_time": 1660765571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457410,
       "num": 457410,
       "word": "上一段恋爱让人最遗憾的事",
@@ -145,14 +153,6 @@
       "onboard_time": 1660740212,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363489,
-      "num": 363489,
-      "word": "假如生命只剩一晚你有什么遗憾",
-      "onboard_time": 1660765571,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 352215,
@@ -291,11 +291,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251236,
+      "num": 251236,
+      "word": "关晓彤牛骏峰二十不惑2演情侣",
+      "onboard_time": 1660769710,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241385,
       "num": 241385,
       "word": "新郎被绑篮球架倒饮料喷彩带",
       "onboard_time": 1660745073,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237456,
+      "num": 183676,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 225471,
+      "num": 225471,
+      "word": "男子因彩礼难题想不开欲轻生",
+      "onboard_time": 1660771991,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -347,14 +371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184396,
-      "num": 184396,
-      "word": "关晓彤牛骏峰二十不惑2演情侣",
-      "onboard_time": 1660769710,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181968,
       "num": 181968,
       "word": "丈夫因早餐做得不好吃殴打妻子",
@@ -387,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158494,
-      "num": 132873,
-      "word": "韩军方称朝鲜发射两枚巡航导弹",
-      "onboard_time": 1660765751,
-      "rank": 20,
-      "category": "军事"
+      "raw_hot": 145976,
+      "num": 145976,
+      "word": "前男友向朱喆借钱结婚",
+      "onboard_time": 1660773613,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 143867,
@@ -416,14 +432,6 @@
       "word": "连续高温上千只母鸡罢工",
       "onboard_time": 1660754245,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138475,
-      "num": 138475,
-      "word": "男子因彩礼难题想不开欲轻生",
-      "onboard_time": 1660771991,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80132,
-      "num": 80132,
-      "word": "前男友向朱喆借钱结婚",
-      "onboard_time": 1660773613,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 65683,
+      "num": 65683,
+      "word": "LPL首次出现全华一阵",
+      "onboard_time": 1660768751,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 61783,
@@ -523,12 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52318,
-      "num": 52318,
-      "word": "LPL首次出现全华一阵",
-      "onboard_time": 1660768751,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 52003,
+      "num": 52003,
+      "word": "南北方天气差距有多大",
+      "onboard_time": 1660774454,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26213,
@@ -537,14 +545,6 @@
       "onboard_time": 1660763831,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22700,
-      "num": 22700,
-      "word": "南北方天气差距有多大",
-      "onboard_time": 1660774454,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20320,

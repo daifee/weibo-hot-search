@@ -1,0 +1,410 @@
+{
+  "runTime": 1660775893136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 468472,
+        "num": 468472,
+        "word": "假如生命只剩一晚你有什么遗憾",
+        "onboard_time": 1660765571,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399030,
+        "num": 399030,
+        "word": "未婚已育女性办理生育津贴不需要结婚证",
+        "onboard_time": 1660735831,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34689,
+        "num": 388148,
+        "word": "基建狂魔又上新了",
+        "onboard_time": 1660740754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383858,
+        "num": 383858,
+        "word": "肛肠医院数量与吃辣版图吻合住了",
+        "onboard_time": 1660751551,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303671,
+        "num": 303671,
+        "word": "杭州气温跌破26℃",
+        "onboard_time": 1660751788,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274442,
+        "num": 274442,
+        "word": "家长挤压9天宝宝乳房致急性乳腺炎",
+        "onboard_time": 1660746455,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251236,
+        "num": 251236,
+        "word": "关晓彤牛骏峰二十不惑2演情侣",
+        "onboard_time": 1660769710,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249328,
+        "num": 249328,
+        "word": "重庆高温地铁楼梯上长满了人",
+        "onboard_time": 1660752987,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225471,
+        "num": 225471,
+        "word": "男子因彩礼难题想不开欲轻生",
+        "onboard_time": 1660771991,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195994,
+        "num": 195994,
+        "word": "月升沧海大结局点映礼",
+        "onboard_time": 1660740514,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237456,
+        "num": 183676,
+        "word": "韩军方称朝鲜发射两枚巡航导弹",
+        "onboard_time": 1660765751,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 147687,
+        "num": 147687,
+        "word": "茶百道与垫底辣孩合作评论区翻车",
+        "onboard_time": 1660750593,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 145976,
+        "num": 145976,
+        "word": "前男友向朱喆借钱结婚",
+        "onboard_time": 1660773613,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139205,
+        "num": 139205,
+        "word": "新郎被绑篮球架倒饮料喷彩带",
+        "onboard_time": 1660745073,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126448,
+        "num": 126448,
+        "word": "重庆涪陵山火仍在扑救中",
+        "onboard_time": 1660749933,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 118382,
+        "word": "任嘉伦李沁请君加入夸夸群",
+        "onboard_time": 1660751431,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114063,
+        "num": 114063,
+        "word": "女子生产后两块纱布被遗留体内",
+        "onboard_time": 1660731332,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105478,
+        "num": 105478,
+        "word": "女子怕自己再出意外教儿子做家务",
+        "onboard_time": 1660748375,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97189,
+        "num": 97189,
+        "word": "老人去世狗狗绝食两天后离世",
+        "onboard_time": 1660740212,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93235,
+        "num": 93235,
+        "word": "中国军队赴俄参加东方2022演习",
+        "onboard_time": 1660734871,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 103290,
+        "num": 93020,
+        "word": "沉香重华",
+        "onboard_time": 1660745915,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98481,
+        "num": 92799,
+        "word": "披荆斩棘第二季官宣定档",
+        "onboard_time": 1660735350,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93987,
+        "num": 92700,
+        "word": "程少商和凌不疑退婚",
+        "onboard_time": 1660748614,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92559,
+        "num": 92559,
+        "word": "外交部回应美称将在台海进行海空通行",
+        "onboard_time": 1660731630,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90153,
+        "num": 90153,
+        "word": "东北早上都得穿厚睡裤了",
+        "onboard_time": 1660743632,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82481,
+        "num": 82481,
+        "word": "北京明日大到暴雨建议错峰上下班",
+        "onboard_time": 1660739132,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77728,
+        "num": 77728,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72749,
+        "num": 72749,
+        "word": "上一段恋爱让人最遗憾的事",
+        "onboard_time": 1660741892,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65683,
+        "num": 65683,
+        "word": "LPL首次出现全华一阵",
+        "onboard_time": 1660768751,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64457,
+        "num": 64457,
+        "word": "湘潭大学回应强制毕业生换10人寝",
+        "onboard_time": 1660735653,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 89676,
+        "num": 64251,
+        "word": "宋亚轩金发",
+        "onboard_time": 1660736194,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69100,
+        "num": 64174,
+        "word": "王俊凯断桥黄雀市第一江景房vlog",
+        "onboard_time": 1660751788,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67244,
+        "num": 64084,
+        "word": "杨幂龚俊狐妖逛街牵手奔跑路透",
+        "onboard_time": 1660742433,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63994,
+        "num": 63994,
+        "word": "原来猫猫可以长这么潦草",
+        "onboard_time": 1660747234,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63302,
+        "num": 63302,
+        "word": "小男孩汗流浃背帮父母卸货",
+        "onboard_time": 1660748316,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 58576,
+        "num": 58576,
+        "word": "程少商答应跟袁慎定亲",
+        "onboard_time": 1660743934,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57881,
+        "num": 57881,
+        "word": "为什么我们越来越喜欢独处",
+        "onboard_time": 1660744295,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54624,
+        "num": 54624,
+        "word": "故意关停电梯小男孩暂未找到",
+        "onboard_time": 1660733852,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52003,
+        "num": 52003,
+        "word": "南北方天气差距有多大",
+        "onboard_time": 1660774454,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51325,
+        "num": 51325,
+        "word": "XYG海报",
+        "onboard_time": 1660750777,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50482,
+        "num": 50482,
+        "word": "洪潇回复垫底辣孩我才是",
+        "onboard_time": 1660760234,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49746,
+        "num": 49746,
+        "word": "涪陵山火",
+        "onboard_time": 1660746334,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 47986,
+        "num": 47986,
+        "word": "腾讯4个月近10款产品停服",
+        "onboard_time": 1660746936,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 46202,
+        "num": 46202,
+        "word": "保剑锋成功催更月升沧海",
+        "onboard_time": 1660749272,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44742,
+        "num": 44742,
+        "word": "丈夫因早餐做得不好吃殴打妻子",
+        "onboard_time": 1660731271,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 40562,
+        "word": "张大仙",
+        "onboard_time": 1660747956,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38344,
+        "num": 38344,
+        "word": "超4成00后偏好体制内工作",
+        "onboard_time": 1660737512,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28902,
+        "num": 28902,
+        "word": "Deft",
+        "onboard_time": 1660738292,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27425,
+        "num": 27425,
+        "word": "四川倒闭公立医院涉案总金额近千万",
+        "onboard_time": 1660734394,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26344,
+        "num": 26344,
+        "word": "XYG遗憾淘汰",
+        "onboard_time": 1660750053,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁锦州考察调研#"
+    }
+  }
+}
