@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660755565165,
+  "endTime": 1660757257123,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -123,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 458135,
-      "num": 458135,
+      "raw_hot": 485123,
+      "num": 485123,
       "word": "重庆高温地铁楼梯上长满了人",
       "onboard_time": 1660752987,
       "rank": 28,
@@ -401,6 +401,14 @@
       "onboard_time": 1660737512,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132614,
+      "num": 109468,
+      "word": "石头辞职",
+      "onboard_time": 1660754125,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 131125,

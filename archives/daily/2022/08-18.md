@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/18 00:34:20 ~ 2022/08/18 00:59:25
+本榜单时间：2022/08/18 00:34:20 ~ 2022/08/18 01:27:37
 </p>
 </blockquote>
 <p>
@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%B8%A9%E5%9C%B0%E9%93%81%E6%A5%BC%E6%A2%AF%E4%B8%8A%E9%95%BF%E6%BB%A1%E4%BA%86%E4%BA%BA%23" target="weibo">
-重庆高温地铁楼梯上长满了人（热度：458135）
+重庆高温地铁楼梯上长满了人（热度：485123）
 </a>
 </li>
 
@@ -311,6 +311,12 @@ Doinb（热度：188353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%854%E6%88%9000%E5%90%8E%E5%81%8F%E5%A5%BD%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C%23" target="weibo">
 超4成00后偏好体制内工作（热度：133399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%A4%B4%E8%BE%9E%E8%81%8C%23" target="weibo">
+石头辞职（热度：132614）
 </a>
 </li>
 

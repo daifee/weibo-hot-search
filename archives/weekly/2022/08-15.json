@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660755565165,
+  "endTime": 1660757257123,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -3371,6 +3371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 485123,
+      "num": 485123,
+      "word": "重庆高温地铁楼梯上长满了人",
+      "onboard_time": 1660752987,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484000,
       "num": 257114,
       "word": "周杰伦粉色海洋MV",
@@ -3609,14 +3617,6 @@
       "onboard_time": 1660627114,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 458135,
-      "num": 458135,
-      "word": "重庆高温地铁楼梯上长满了人",
-      "onboard_time": 1660752987,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457268,
@@ -7632,6 +7632,14 @@
       "word": "王俊凯说断桥给了自己很高的营养",
       "onboard_time": 1660604659,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132614,
+      "num": 109468,
+      "word": "石头辞职",
+      "onboard_time": 1660754125,
+      "rank": 31,
       "category": "影视"
     },
     {
