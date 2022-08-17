@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660778550075,
+  "endTime": 1660779413322,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -75,12 +75,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 664063,
+      "num": 664063,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 615873,
       "num": 562564,
       "word": "程少商和凌不疑退婚",
       "onboard_time": 1660748614,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 612539,
+      "num": 612539,
+      "word": "男子因彩礼难题想不开欲轻生",
+      "onboard_time": 1660771991,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590052,
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550599,
-      "num": 550599,
-      "word": "韩军方称朝鲜发射两枚巡航导弹",
-      "onboard_time": 1660765751,
-      "rank": 20,
-      "category": "军事"
-    },
-    {
       "raw_hot": 531367,
       "num": 531367,
       "word": "沉香重华",
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474840,
-      "num": 474840,
-      "word": "男子因彩礼难题想不开欲轻生",
-      "onboard_time": 1660771991,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 472139,
+      "num": 472139,
+      "word": "关晓彤牛骏峰二十不惑2演情侣",
+      "onboard_time": 1660769710,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 468472,
@@ -163,12 +171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 439452,
-      "num": 439452,
-      "word": "关晓彤牛骏峰二十不惑2演情侣",
-      "onboard_time": 1660769710,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 389803,
+      "num": 389803,
+      "word": "南北方天气差距有多大",
+      "onboard_time": 1660774454,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365522,
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356598,
+      "num": 356598,
+      "word": "前男友向朱喆借钱结婚",
+      "onboard_time": 1660773613,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352215,
       "num": 293489,
       "word": "XYG海报",
       "onboard_time": 1660750777,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 351459,
-      "num": 351459,
-      "word": "前男友向朱喆借钱结婚",
-      "onboard_time": 1660773613,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 348802,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323126,
+      "num": 323126,
+      "word": "詹姆斯2年9710万续约湖人",
+      "onboard_time": 1660778543,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317698,
       "num": 317698,
       "word": "东北早上都得穿厚睡裤了",
@@ -227,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311170,
-      "num": 311170,
-      "word": "南北方天气差距有多大",
-      "onboard_time": 1660774454,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295964,
       "num": 295964,
       "word": "实习生拒绝吃生鸡蛋被辞退",
@@ -249,6 +257,14 @@
       "onboard_time": 1660752749,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 292547,
+      "num": 292547,
+      "word": "新郎被绑篮球架倒饮料喷彩带",
+      "onboard_time": 1660745073,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290608,
@@ -281,14 +297,6 @@
       "onboard_time": 1660753705,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277042,
-      "num": 277042,
-      "word": "新郎被绑篮球架倒饮料喷彩带",
-      "onboard_time": 1660745073,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274575,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 264856,
-      "num": 177704,
+      "num": 212576,
       "word": "披荆斩棘第二季官宣定档",
       "onboard_time": 1660735350,
       "rank": 40,
@@ -379,11 +387,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190690,
+      "num": 190690,
+      "word": "他变了我的世界崩塌了",
+      "onboard_time": 1660777097,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 188353,
       "num": 188353,
       "word": "Doinb",
       "onboard_time": 1660743995,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186374,
+      "num": 186374,
+      "word": "LPL首次出现全华一阵",
+      "onboard_time": 1660768751,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -419,12 +443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153418,
-      "num": 153418,
+      "raw_hot": 163314,
+      "num": 163314,
       "word": "北京明日大到暴雨建议错峰上下班",
       "onboard_time": 1660739132,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154153,
+      "num": 154153,
+      "word": "18件小事提升幸福感",
+      "onboard_time": 1660779081,
+      "rank": 36,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 143867,
@@ -435,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143016,
+      "num": 143016,
+      "word": "盘点钱泳辰商业版图",
+      "onboard_time": 1660777036,
+      "rank": 40,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 140260,
       "num": 140260,
       "word": "连续高温上千只母鸡罢工",
       "onboard_time": 1660754245,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139596,
-      "num": 139596,
-      "word": "LPL首次出现全华一阵",
-      "onboard_time": 1660768751,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 133746,
@@ -491,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128667,
+      "num": 128667,
+      "word": "刘青松明年会是更好的自己",
+      "onboard_time": 1660777580,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128484,
       "num": 128484,
       "word": "Deft",
@@ -499,20 +539,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125519,
-      "num": 125519,
-      "word": "他变了我的世界崩塌了",
-      "onboard_time": 1660777097,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 118232,
       "num": 79237,
       "word": "0713男团只有张远没人抱",
       "onboard_time": 1660758556,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115394,
+      "num": 1070625,
+      "word": "基建狂魔又上新了",
+      "onboard_time": 1660740754,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114890,
+      "num": 114890,
+      "word": "拼多多将上线跨境电商平台",
+      "onboard_time": 1660779143,
+      "rank": 46,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 109167,
@@ -529,30 +577,6 @@
       "onboard_time": 1660757958,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85552,
-      "num": 1070625,
-      "word": "基建狂魔又上新了",
-      "onboard_time": 1660740754,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77953,
-      "num": 77953,
-      "word": "詹姆斯2年9710万续约湖人",
-      "onboard_time": 1660778543,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 68726,
-      "num": 68726,
-      "word": "刘青松明年会是更好的自己",
-      "onboard_time": 1660777580,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 61783,
