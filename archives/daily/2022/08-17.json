@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660731895248,
+  "endTime": 1660732853609,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1954261,
-      "num": 333718,
+      "num": 353860,
       "word": "西双版纳偶遇孙怡",
       "onboard_time": 1660727313,
       "rank": 20,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1040477,
-      "num": 324511,
+      "num": 353334,
       "word": "赵露思陈哲远偷偷藏不住路透",
       "onboard_time": 1660727972,
       "rank": 21,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965530,
+      "num": 496289,
+      "word": "丈夫因早餐做得不好吃殴打妻子",
+      "onboard_time": 1660731271,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946997,
       "num": 502976,
       "word": "范丞丞更新微博自动回复",
@@ -337,6 +345,14 @@
       "onboard_time": 1660703129,
       "rank": 7,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 895483,
+      "num": 488895,
+      "word": "美称在台湾海峡进行标准化海空通行",
+      "onboard_time": 1660731630,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 894162,
@@ -411,8 +427,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 796246,
-      "num": 796246,
+      "raw_hot": 806116,
+      "num": 806116,
       "word": "毁掉牙齿的6个不良习惯",
       "onboard_time": 1660729352,
       "rank": 6,
@@ -449,6 +465,14 @@
       "onboard_time": 1660706428,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719581,
+      "num": 719581,
+      "word": "大爷大妈进超市避暑脱鞋躺货架",
+      "onboard_time": 1660729052,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708767,
@@ -539,19 +563,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 621668,
+      "num": 484465,
+      "word": "金子涵电影同学好杀青照",
+      "onboard_time": 1660731271,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 615516,
       "num": 615516,
       "word": "厦门集美实行人物同检",
       "onboard_time": 1660718430,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615458,
-      "num": 615458,
-      "word": "大爷大妈进超市避暑脱鞋躺货架",
-      "onboard_time": 1660729052,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -591,14 +615,6 @@
       "num": 551186,
       "word": "今年古偶女主颜值大赏",
       "onboard_time": 1660697132,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 587383,
-      "num": 465172,
-      "word": "金子涵电影同学好杀青照",
-      "onboard_time": 1660731271,
       "rank": 13,
       "category": "影视"
     },
@@ -795,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498559,
+      "num": 353281,
+      "word": "王子异说范丞丞瘦了成熟了",
+      "onboard_time": 1660731392,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496697,
       "num": 496697,
       "word": "成都部分写字楼因高温限电",
@@ -841,6 +865,14 @@
       "onboard_time": 1660712374,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480633,
+      "num": 480633,
+      "word": "女子生产后两块纱布被遗留体内",
+      "onboard_time": 1660731332,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477200,
@@ -971,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 414522,
-      "num": 257700,
-      "word": "王子异说范丞丞瘦了成熟了",
-      "onboard_time": 1660731392,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 409207,
       "num": 409207,
       "word": "福建1万多艘渔船开渔",
@@ -1083,12 +1107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381522,
+      "num": 247863,
+      "word": "电影满江红杀青",
+      "onboard_time": 1660731751,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380725,
       "num": 251577,
       "word": "大圣归来导演新作深海",
       "onboard_time": 1660703850,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379194,
+      "num": 246752,
+      "word": "蔡徐坤六宫格彩排照",
+      "onboard_time": 1660732053,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 366804,
@@ -1131,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359726,
+      "num": 205720,
+      "word": "沉香如屑",
+      "onboard_time": 1660732772,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357141,
       "num": 250934,
       "word": "王俊凯莫西子诗断桥片尾主题曲MV",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1660716810,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355621,
+      "num": 355621,
+      "word": "微信月活近13亿",
+      "onboard_time": 1660731691,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 353781,
@@ -1201,14 +1257,6 @@
       "onboard_time": 1660726771,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 338783,
-      "num": 212588,
-      "word": "电影满江红杀青",
-      "onboard_time": 1660731751,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 335521,
@@ -1491,20 +1539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266373,
-      "num": 266373,
-      "word": "丈夫因早餐做得不好吃殴打妻子",
-      "onboard_time": 1660731271,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265723,
       "num": 265723,
       "word": "北京8月16日新增1例本土确诊",
       "onboard_time": 1660700849,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261891,
+      "num": 261891,
+      "word": "该吃化毛膏的原来是我",
+      "onboard_time": 1660730492,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 254671,
@@ -1539,20 +1587,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 251702,
+      "num": 251702,
+      "word": "陕西本次疫情报告感染者48例",
+      "onboard_time": 1660732472,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250367,
       "num": 250367,
       "word": "95后小伙工作2年暴涨100斤",
       "onboard_time": 1660648711,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249120,
-      "num": 249120,
-      "word": "该吃化毛膏的原来是我",
-      "onboard_time": 1660730492,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 246271,
@@ -1585,14 +1633,6 @@
       "onboard_time": 1660677671,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232364,
-      "num": 232364,
-      "word": "美称在台湾海峡进行标准化海空通行",
-      "onboard_time": 1660731630,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 229601,
@@ -1675,20 +1715,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213272,
-      "num": 213272,
-      "word": "女子生产后两块纱布被遗留体内",
-      "onboard_time": 1660731332,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211334,
       "num": 211334,
       "word": "吴磊打戏",
       "onboard_time": 1660661252,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211295,
+      "num": 211295,
+      "word": "你一年会员要花多少钱",
+      "onboard_time": 1660732231,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 210784,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1660703009,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182053,
-      "num": 182053,
-      "word": "微信月活近13亿",
-      "onboard_time": 1660731691,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 177197,

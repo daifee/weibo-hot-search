@@ -1,0 +1,410 @@
+{
+  "runTime": 1660732853609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3119463,
+        "num": 3119463,
+        "word": "艾成坠楼身亡",
+        "onboard_time": 1660719932,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2013696,
+        "num": 2013696,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34681,
+        "num": 1412064,
+        "word": "天安门广场看升旗是中国人的浪漫",
+        "onboard_time": 1660694730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1369300,
+        "num": 1369300,
+        "word": "中方对普京总统的表态给予高度评价",
+        "onboard_time": 1660727672,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1251073,
+        "num": 1251073,
+        "word": "虞书欣的妆真的是王鹤棣化的",
+        "onboard_time": 1660730612,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1099600,
+        "num": 1099600,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 806116,
+        "num": 806116,
+        "word": "毁掉牙齿的6个不良习惯",
+        "onboard_time": 1660729352,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719581,
+        "num": 719581,
+        "word": "大爷大妈进超市避暑脱鞋躺货架",
+        "onboard_time": 1660729052,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510123,
+        "num": 510123,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496689,
+        "num": 496689,
+        "word": "腾讯发布2022年二季度财报",
+        "onboard_time": 1660729473,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 965530,
+        "num": 496289,
+        "word": "丈夫因早餐做得不好吃殴打妻子",
+        "onboard_time": 1660731271,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932491,
+        "num": 493048,
+        "word": "垫底辣孩问我是丑上热搜第一人吗",
+        "onboard_time": 1660721193,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 895483,
+        "num": 488895,
+        "word": "美称在台湾海峡进行标准化海空通行",
+        "onboard_time": 1660731630,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 756752,
+        "num": 488323,
+        "word": "高等学历继续教育不再使用函授名称",
+        "onboard_time": 1660727434,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 621668,
+        "num": 484465,
+        "word": "金子涵电影同学好杀青照",
+        "onboard_time": 1660731271,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610082,
+        "num": 482703,
+        "word": "杨紫把破灯灭了",
+        "onboard_time": 1660721015,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480633,
+        "num": 480633,
+        "word": "女子生产后两块纱布被遗留体内",
+        "onboard_time": 1660731332,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377256,
+        "num": 377256,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366469,
+        "num": 366469,
+        "word": "上海疫情防控",
+        "onboard_time": 1660730014,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355621,
+        "num": 355621,
+        "word": "微信月活近13亿",
+        "onboard_time": 1660731691,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 797097,
+        "num": 353860,
+        "word": "西双版纳偶遇孙怡",
+        "onboard_time": 1660727313,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503385,
+        "num": 353334,
+        "word": "赵露思陈哲远偷偷藏不住路透",
+        "onboard_time": 1660727972,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498559,
+        "num": 353281,
+        "word": "王子异说范丞丞瘦了成熟了",
+        "onboard_time": 1660731392,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351844,
+        "num": 351844,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324694,
+        "num": 324694,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289401,
+        "num": 289401,
+        "word": "寺库北京总部疑似跑路",
+        "onboard_time": 1660726173,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269514,
+        "num": 269514,
+        "word": "腾讯二季度净利润下滑56%",
+        "onboard_time": 1660730314,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 263683,
+        "num": 263683,
+        "word": "北京新增社会面筛查一例",
+        "onboard_time": 1660729413,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261891,
+        "num": 261891,
+        "word": "该吃化毛膏的原来是我",
+        "onboard_time": 1660730492,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251702,
+        "num": 251702,
+        "word": "陕西本次疫情报告感染者48例",
+        "onboard_time": 1660732472,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449049,
+        "num": 251140,
+        "word": "王一博被虫追",
+        "onboard_time": 1660727013,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402718,
+        "num": 248946,
+        "word": "唐周发现颜淡只有半颗心",
+        "onboard_time": 1660730793,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381522,
+        "num": 247863,
+        "word": "电影满江红杀青",
+        "onboard_time": 1660731751,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379194,
+        "num": 246752,
+        "word": "蔡徐坤六宫格彩排照",
+        "onboard_time": 1660732053,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246104,
+        "num": 246104,
+        "word": "小红书上线旅游搜索风险提示",
+        "onboard_time": 1660726771,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242933,
+        "num": 242933,
+        "word": "能源大省四川为何缺电",
+        "onboard_time": 1660720111,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242119,
+        "num": 242119,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217218,
+        "num": 217218,
+        "word": "熊猫难道不害怕吗",
+        "onboard_time": 1660722574,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 211295,
+        "word": "你一年会员要花多少钱",
+        "onboard_time": 1660732231,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209266,
+        "num": 209266,
+        "word": "寺库回应人去楼空",
+        "onboard_time": 1660730732,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367954,
+        "num": 207908,
+        "word": "网友质疑戚薇卖假货",
+        "onboard_time": 1660719630,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 359726,
+        "num": 205720,
+        "word": "沉香如屑",
+        "onboard_time": 1660732772,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343362,
+        "num": 204419,
+        "word": "内娱舞台能有多卷",
+        "onboard_time": 1660726292,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202735,
+        "num": 202735,
+        "word": "多人洞穴探险后肺部感染险丧命",
+        "onboard_time": 1660720051,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196419,
+        "num": 196419,
+        "word": "北京新增本土感染者4例",
+        "onboard_time": 1660727792,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188400,
+        "num": 188400,
+        "word": "煎蛋地垫太可爱了",
+        "onboard_time": 1660727193,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182871,
+        "num": 182871,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162317,
+        "num": 162317,
+        "word": "重庆还没到最热的时候",
+        "onboard_time": 1660721134,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160777,
+        "num": 160777,
+        "word": "1岁男童钥匙插充电桩脸被电黑",
+        "onboard_time": 1660709194,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148096,
+        "num": 148096,
+        "word": "四川水电发电能力下降5成以上",
+        "onboard_time": 1660724075,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#焦裕禄精神是一盏明灯#"
+    }
+  }
+}
