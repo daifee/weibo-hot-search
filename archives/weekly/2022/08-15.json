@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660763846943,
+  "endTime": 1660764825929,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -7907,20 +7907,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 55040,
+      "num": 55040,
+      "word": "关晓彤新剧官配",
+      "onboard_time": 1660762933,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "高温也卷起来了",
       "onboard_time": 1660581263,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44970,
-      "num": 37190,
-      "word": "关晓彤新剧官配",
-      "onboard_time": 1660762933,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 37919,
