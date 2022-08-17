@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660749922457,
+  "endTime": 1660750957528,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -283,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1417404,
+      "num": 1417404,
+      "word": "张大仙",
+      "onboard_time": 1660747956,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1388237,
       "num": 1388237,
       "word": "婴幼儿无人照料是阻碍生育首要因素",
       "onboard_time": 1660705471,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1327180,
-      "num": 1327180,
-      "word": "张大仙",
-      "onboard_time": 1660747956,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1317875,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912583,
+      "num": 912583,
+      "word": "保剑锋成功催更月升沧海",
+      "onboard_time": 1660749272,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 910806,
       "num": 565886,
       "word": "王鹤棣扫楼路透生图",
@@ -619,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 779276,
+      "num": 727889,
+      "word": "腾讯4个月近10款产品停服",
+      "onboard_time": 1660746936,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 770298,
       "num": 770298,
       "word": "黄山不再被游客挤爆",
@@ -633,14 +649,6 @@
       "onboard_time": 1660736254,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 727889,
-      "num": 727889,
-      "word": "腾讯4个月近10款产品停服",
-      "onboard_time": 1660746936,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 727682,
@@ -769,14 +777,6 @@
       "onboard_time": 1660644390,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660512,
-      "num": 412061,
-      "word": "保剑锋成功催更月升沧海",
-      "onboard_time": 1660749272,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 657132,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 580573,
-      "num": 406350,
+      "num": 409756,
       "word": "网传披荆斩棘初舞台选曲",
       "onboard_time": 1660748137,
       "rank": 21,
@@ -937,6 +937,14 @@
       "onboard_time": 1660734394,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578126,
+      "num": 435446,
+      "word": "齐溪说上浪姐和文艺片不冲突",
+      "onboard_time": 1660749455,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 577819,
@@ -969,6 +977,14 @@
       "onboard_time": 1660737633,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 564206,
+      "num": 564206,
+      "word": "重庆涪陵山火仍在扑救中",
+      "onboard_time": 1660749933,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 563459,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1660717650,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 536976,
-      "num": 404024,
-      "word": "齐溪说上浪姐和文艺片不冲突",
-      "onboard_time": 1660749455,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 532756,
@@ -1179,8 +1187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494348,
-      "num": 494348,
+      "raw_hot": 494715,
+      "num": 494715,
       "word": "上一段恋爱让人最遗憾的事",
       "onboard_time": 1660741892,
       "rank": 49,
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441932,
+      "num": 441932,
+      "word": "原来猫猫可以长这么潦草",
+      "onboard_time": 1660747234,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 441904,
       "num": 258591,
       "word": "唐周发现颜淡只有半颗心",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1660720712,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 433748,
-      "num": 433748,
-      "word": "原来猫猫可以长这么潦草",
-      "onboard_time": 1660747234,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 428734,
@@ -1648,6 +1656,14 @@
       "word": "杭州暴雨",
       "onboard_time": 1660736375,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376837,
+      "num": 376837,
+      "word": "女子怕自己再出意外教儿子做家务",
+      "onboard_time": 1660748375,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2139,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263883,
-      "num": 263883,
-      "word": "女子怕自己再出意外教儿子做家务",
-      "onboard_time": 1660748375,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261891,
       "num": 261891,
       "word": "该吃化毛膏的原来是我",
@@ -2563,6 +2571,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 160589,
+      "num": 160589,
+      "word": "XYG遗憾淘汰",
+      "onboard_time": 1660750053,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158101,
       "num": 158101,
       "word": "LNG对战BLG",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1660680792,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149863,
+      "num": 149863,
+      "word": "XYG海报",
+      "onboard_time": 1660750777,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 149788,
