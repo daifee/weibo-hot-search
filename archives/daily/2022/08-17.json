@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660746355628,
+  "endTime": 1660747243152,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -35,19 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3633938,
+      "num": 3633938,
+      "word": "未婚已育女性办理生育津贴不需要结婚证",
+      "onboard_time": 1660735831,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3445005,
       "num": 3445005,
       "word": "女子商场内试戴戒指戴上就跑",
       "onboard_time": 1660699711,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3410265,
-      "num": 3410265,
-      "word": "未婚已育女性办理生育津贴不需要结婚证",
-      "onboard_time": 1660735831,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1525184,
+      "num": 1525184,
+      "word": "沉香重华",
+      "onboard_time": 1660654172,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1484973,
       "num": 538687,
       "word": "高亚麟回应",
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1303303,
+      "num": 1303303,
+      "word": "涪陵山火",
+      "onboard_time": 1660746334,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1296615,
       "num": 575831,
       "word": "杨紫把破灯灭了",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 1223148,
-      "num": 567013,
+      "num": 774495,
       "word": "重启2官宣阵容",
       "onboard_time": 1660743037,
       "rank": 10,
@@ -443,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 933997,
-      "num": 581587,
-      "word": "沉香重华",
-      "onboard_time": 1660654172,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 931991,
+      "num": 931991,
+      "word": "东北早上都得穿厚睡裤了",
+      "onboard_time": 1660743632,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 924091,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 907856,
-      "num": 547910,
+      "num": 712564,
       "word": "杨幂龚俊狐妖逛街牵手奔跑路透",
       "onboard_time": 1660742433,
       "rank": 12,
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688978,
+      "num": 451384,
+      "word": "楼犇饮恨自刎",
+      "onboard_time": 1660746034,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686932,
       "num": 686932,
       "word": "中国军队赴俄参加东方2022演习",
@@ -676,19 +700,11 @@
     },
     {
       "raw_hot": 672075,
-      "num": 401551,
+      "num": 450823,
       "word": "徐梦洁新剧人设",
       "onboard_time": 1660745915,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 667355,
-      "num": 667355,
-      "word": "东北早上都得穿厚睡裤了",
-      "onboard_time": 1660743632,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 666224,
@@ -784,6 +800,14 @@
       "word": "厦门集美实行人物同检",
       "onboard_time": 1660718430,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612342,
+      "num": 780228,
+      "word": "新郎被绑篮球架倒饮料喷彩带",
+      "onboard_time": 1660745073,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517429,
+      "num": 450501,
+      "word": "张杰为即将的见面充能ING",
+      "onboard_time": 1660746936,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 512802,
       "num": 353305,
       "word": "马天宇被工作人员吐槽穿搭",
@@ -1104,6 +1136,14 @@
       "word": "拳头将删除英雄联盟非活跃账号",
       "onboard_time": 1660656091,
       "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 485386,
+      "num": 485386,
+      "word": "EDGM战胜XYG",
+      "onboard_time": 1660746574,
+      "rank": 16,
       "category": "游戏"
     },
     {
@@ -1203,6 +1243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451669,
+      "num": 451669,
+      "word": "家长挤压9天宝宝乳房致急性乳腺炎",
+      "onboard_time": 1660746455,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448196,
+      "num": 448196,
+      "word": "上一段恋爱让人最遗憾的事",
+      "onboard_time": 1660741892,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447315,
       "num": 447315,
       "word": "上海全面推行轻微违法行为依法不予行政处罚",
@@ -1235,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 444585,
-      "num": 317466,
-      "word": "楼犇饮恨自刎",
-      "onboard_time": 1660746034,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 444416,
       "num": 444416,
       "word": "苍兰诀",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1660730793,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440987,
+      "num": 1653323,
+      "word": "110路遇119默契值瞬间拉满",
+      "onboard_time": 1660742255,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 440571,
@@ -1297,14 +1353,6 @@
       "onboard_time": 1660724375,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 436702,
-      "num": 1653323,
-      "word": "110路遇119默契值瞬间拉满",
-      "onboard_time": 1660742255,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 434735,
@@ -1395,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 408094,
-      "num": 408094,
-      "word": "上一段恋爱让人最遗憾的事",
-      "onboard_time": 1660741892,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 408040,
       "num": 408040,
       "word": "苏醒拒绝王栎鑫姚政帮帮划",
@@ -1451,14 +1491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399714,
-      "num": 156411,
-      "word": "涪陵山火",
-      "onboard_time": 1660746334,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394451,
       "num": 394451,
       "word": "24岁姑娘掌舵山东舰劈波斩浪",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1660730014,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386664,
+      "num": 236809,
+      "word": "王鹤棣怼脸",
+      "onboard_time": 1660747178,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 381850,
@@ -1675,19 +1715,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 336795,
+      "num": 336795,
+      "word": "为什么我们越来越喜欢独处",
+      "onboard_time": 1660744295,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335521,
       "num": 335521,
       "word": "陕西勉县发生溺水事故致5人溺亡",
       "onboard_time": 1660717111,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335014,
-      "num": 335014,
-      "word": "新郎被绑篮球架倒饮料喷彩带",
-      "onboard_time": 1660745073,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1705,14 +1745,6 @@
       "onboard_time": 1660743274,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 334021,
-      "num": 334021,
-      "word": "为什么我们越来越喜欢独处",
-      "onboard_time": 1660744295,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 333634,
@@ -1971,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278819,
+      "num": 278819,
+      "word": "XYG对战EDGM",
+      "onboard_time": 1660746815,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272973,
       "num": 272973,
       "word": "你觉得最尴尬的剧宣直播是什么",
@@ -2227,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206823,
+      "num": 206823,
+      "word": "腾讯4个月近10款产品停服",
+      "onboard_time": 1660746936,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206480,
       "num": 206480,
       "word": "陆虎身上是有些广告位在的",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1660656692,
       "rank": 35,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 159778,
+      "num": 159778,
+      "word": "原来猫猫可以长这么潦草",
+      "onboard_time": 1660747234,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 158101,
