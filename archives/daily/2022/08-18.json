@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660760829276,
+  "endTime": 1660761945570,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151896,
+      "num": 151896,
+      "word": "洪潇回复垫底辣孩我才是",
+      "onboard_time": 1660760234,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143867,
       "num": 143867,
       "word": "110路遇119默契值瞬间拉满",
@@ -419,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131626,
-      "num": 127614,
-      "word": "洪潇回复垫底辣孩我才是",
-      "onboard_time": 1660760234,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 131125,
       "num": 131125,
       "word": "XYG遗憾淘汰",
@@ -459,19 +459,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 92528,
+      "num": 92528,
+      "word": "北京和天津大部有大到暴雨",
+      "onboard_time": 1660757958,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85552,
       "num": 1070625,
       "word": "基建狂魔又上新了",
       "onboard_time": 1660740754,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83492,
-      "num": 83492,
-      "word": "北京和天津大部有大到暴雨",
-      "onboard_time": 1660757958,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
