@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660747243152,
+  "endTime": 1660749922457,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -331,6 +331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2113759,
+      "num": 2113759,
+      "word": "涪陵山火",
+      "onboard_time": 1660746334,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2089115,
       "num": 2089115,
       "word": "年轻人为何不爱吃鸭脖了",
@@ -401,6 +409,14 @@
       "onboard_time": 1660611455,
       "rank": 4,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1882728,
+      "num": 1882728,
+      "word": "家长挤压9天宝宝乳房致急性乳腺炎",
+      "onboard_time": 1660746455,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1870052,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1327180,
+      "num": 1327180,
+      "word": "张大仙",
+      "onboard_time": 1660747956,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1319444,
       "num": 1319444,
       "word": "山洪前有管理员喊我跪下来求大家",
@@ -881,14 +905,6 @@
       "onboard_time": 1660657833,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1303303,
-      "num": 1303303,
-      "word": "涪陵山火",
-      "onboard_time": 1660746334,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1302693,
@@ -1955,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 727889,
+      "num": 727889,
+      "word": "腾讯4个月近10款产品停服",
+      "onboard_time": 1660746936,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 727682,
       "num": 544080,
       "word": "刘昊然穿老头衫骑摩托",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1660613732,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719949,
+      "num": 719949,
+      "word": "程少商和凌不疑退婚",
+      "onboard_time": 1660748614,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 719781,
@@ -2139,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 673422,
+      "num": 780228,
+      "word": "新郎被绑篮球架倒饮料喷彩带",
+      "onboard_time": 1660745073,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672075,
       "num": 450823,
       "word": "徐梦洁新剧人设",
@@ -2169,6 +2209,22 @@
       "onboard_time": 1660722755,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665352,
+      "num": 665352,
+      "word": "苍兰诀封神名场面",
+      "onboard_time": 1660748554,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660512,
+      "num": 412061,
+      "word": "保剑锋成功催更月升沧海",
+      "onboard_time": 1660749272,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 657245,
@@ -2363,14 +2419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 612342,
-      "num": 780228,
-      "word": "新郎被绑篮球架倒饮料喷彩带",
-      "onboard_time": 1660745073,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611486,
       "num": 611486,
       "word": "明年起河南交房即交证",
@@ -2521,6 +2569,14 @@
       "onboard_time": 1660720051,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580573,
+      "num": 406350,
+      "word": "网传披荆斩棘初舞台选曲",
+      "onboard_time": 1660748137,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 579337,
@@ -2827,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536976,
+      "num": 404024,
+      "word": "齐溪说上浪姐和文艺片不冲突",
+      "onboard_time": 1660749455,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536869,
       "num": 536869,
       "word": "这得拿多少冰箱啊",
@@ -2865,6 +2929,14 @@
       "onboard_time": 1660608809,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532756,
+      "num": 372897,
+      "word": "冰雨火站内热度值突破9000",
+      "onboard_time": 1660749514,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 532135,
@@ -3169,6 +3241,14 @@
       "onboard_time": 1660569152,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 494348,
+      "num": 494348,
+      "word": "上一段恋爱让人最遗憾的事",
+      "onboard_time": 1660741892,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 493690,
@@ -3523,14 +3603,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 451669,
-      "num": 451669,
-      "word": "家长挤压9天宝宝乳房致急性乳腺炎",
-      "onboard_time": 1660746455,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450891,
       "num": 369994,
       "word": "唐周醉酒表白",
@@ -3561,14 +3633,6 @@
       "onboard_time": 1660573533,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448196,
-      "num": 448196,
-      "word": "上一段恋爱让人最遗憾的事",
-      "onboard_time": 1660741892,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 447315,
@@ -3684,7 +3748,7 @@
     },
     {
       "raw_hot": 440987,
-      "num": 1653323,
+      "num": 1907086,
       "word": "110路遇119默契值瞬间拉满",
       "onboard_time": 1660742255,
       "rank": 23,
@@ -3769,6 +3833,14 @@
       "onboard_time": 1660635033,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433748,
+      "num": 433748,
+      "word": "原来猫猫可以长这么潦草",
+      "onboard_time": 1660747234,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 433596,
@@ -4707,6 +4779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346035,
+      "num": 346035,
+      "word": "为什么我们越来越喜欢独处",
+      "onboard_time": 1660744295,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344823,
       "num": 344823,
       "word": "你心中的8月男友",
@@ -4825,14 +4905,6 @@
       "onboard_time": 1660649133,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 336795,
-      "num": 336795,
-      "word": "为什么我们越来越喜欢独处",
-      "onboard_time": 1660744295,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 336144,
@@ -5137,6 +5209,14 @@
       "onboard_time": 1660573352,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315774,
+      "num": 315774,
+      "word": "KPL",
+      "onboard_time": 1660749455,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 315490,
@@ -5915,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263883,
+      "num": 263883,
+      "word": "女子怕自己再出意外教儿子做家务",
+      "onboard_time": 1660748375,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263416,
       "num": 263416,
       "word": "受Fly鼓舞的电竞女孩圆梦北大",
@@ -6217,6 +6305,14 @@
       "onboard_time": 1660618413,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 242778,
+      "num": 242778,
+      "word": "小男孩汗流浃背帮父母卸货",
+      "onboard_time": 1660748316,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 241239,
@@ -6641,14 +6737,6 @@
       "onboard_time": 1660524450,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206823,
-      "num": 206823,
-      "word": "腾讯4个月近10款产品停服",
-      "onboard_time": 1660746936,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 206480,
@@ -7241,14 +7329,6 @@
       "onboard_time": 1660578629,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 159778,
-      "num": 159778,
-      "word": "原来猫猫可以长这么潦草",
-      "onboard_time": 1660747234,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 159756,
