@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660757257123,
+  "endTime": 1660758213164,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448211,
-      "num": 448211,
+      "raw_hot": 457410,
+      "num": 457410,
       "word": "上一段恋爱让人最遗憾的事",
       "onboard_time": 1660741892,
       "rank": 15,
@@ -403,7 +403,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132614,
+      "raw_hot": 133178,
       "num": 109468,
       "word": "石头辞职",
       "onboard_time": 1660754125,
@@ -440,6 +440,14 @@
       "word": "基建狂魔又上新了",
       "onboard_time": 1660740754,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40377,
+      "num": 40377,
+      "word": "北京和天津大部有大到暴雨",
+      "onboard_time": 1660757958,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
