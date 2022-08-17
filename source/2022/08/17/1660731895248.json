@@ -1,0 +1,410 @@
+{
+  "runTime": 1660731895248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3388092,
+        "num": 3388092,
+        "word": "艾成坠楼身亡",
+        "onboard_time": 1660719932,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2565715,
+        "num": 2565715,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36445,
+        "num": 1701767,
+        "word": "天安门广场看升旗是中国人的浪漫",
+        "onboard_time": 1660694730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1676421,
+        "num": 1676421,
+        "word": "中方对普京总统的表态给予高度评价",
+        "onboard_time": 1660727672,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1312977,
+        "num": 1312977,
+        "word": "虞书欣的妆真的是王鹤棣化的",
+        "onboard_time": 1660730612,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1267841,
+        "num": 1267841,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 796246,
+        "num": 796246,
+        "word": "毁掉牙齿的6个不良习惯",
+        "onboard_time": 1660729352,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615458,
+        "num": 615458,
+        "word": "大爷大妈进超市避暑脱鞋躺货架",
+        "onboard_time": 1660729052,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568546,
+        "num": 568546,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518827,
+        "num": 518827,
+        "word": "腾讯发布2022年二季度财报",
+        "onboard_time": 1660729473,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 985804,
+        "num": 515463,
+        "word": "垫底辣孩问我是丑上热搜第一人吗",
+        "onboard_time": 1660721193,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 806510,
+        "num": 501920,
+        "word": "高等学历继续教育不再使用函授名称",
+        "onboard_time": 1660727434,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 631931,
+        "num": 471903,
+        "word": "杨紫把破灯灭了",
+        "onboard_time": 1660721015,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587383,
+        "num": 465172,
+        "word": "金子涵电影同学好杀青照",
+        "onboard_time": 1660731271,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452709,
+        "num": 452709,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425801,
+        "num": 425801,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390383,
+        "num": 390383,
+        "word": "寺库北京总部疑似跑路",
+        "onboard_time": 1660726173,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387109,
+        "num": 387109,
+        "word": "上海疫情防控",
+        "onboard_time": 1660730014,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375641,
+        "num": 375641,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340301,
+        "num": 340301,
+        "word": "小红书上线旅游搜索风险提示",
+        "onboard_time": 1660726771,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 569575,
+        "num": 336062,
+        "word": "王一博被虫追",
+        "onboard_time": 1660727013,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 981598,
+        "num": 333718,
+        "word": "西双版纳偶遇孙怡",
+        "onboard_time": 1660727313,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609456,
+        "num": 324511,
+        "word": "赵露思陈哲远偷偷藏不住路透",
+        "onboard_time": 1660727972,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492409,
+        "num": 318330,
+        "word": "网友质疑戚薇卖假货",
+        "onboard_time": 1660719630,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 316169,
+        "num": 316169,
+        "word": "腾讯二季度净利润下滑56%",
+        "onboard_time": 1660730314,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 304573,
+        "num": 304573,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301652,
+        "num": 301652,
+        "word": "北京新增社会面筛查一例",
+        "onboard_time": 1660729413,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293687,
+        "num": 293687,
+        "word": "能源大省四川为何缺电",
+        "onboard_time": 1660720111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266373,
+        "num": 266373,
+        "word": "丈夫因早餐做得不好吃殴打妻子",
+        "onboard_time": 1660731271,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263348,
+        "num": 263348,
+        "word": "北京新增本土感染者4例",
+        "onboard_time": 1660727792,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442822,
+        "num": 262781,
+        "word": "内娱舞台能有多卷",
+        "onboard_time": 1660726292,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 441904,
+        "num": 258591,
+        "word": "唐周发现颜淡只有半颗心",
+        "onboard_time": 1660730793,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414522,
+        "num": 257700,
+        "word": "王子异说范丞丞瘦了成熟了",
+        "onboard_time": 1660731392,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252786,
+        "num": 252786,
+        "word": "熊猫难道不害怕吗",
+        "onboard_time": 1660722574,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249586,
+        "num": 249586,
+        "word": "多人洞穴探险后肺部感染险丧命",
+        "onboard_time": 1660720051,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366135,
+        "num": 249446,
+        "word": "苍兰诀是昼川写的东方幻想吧",
+        "onboard_time": 1660727372,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249120,
+        "num": 249120,
+        "word": "该吃化毛膏的原来是我",
+        "onboard_time": 1660730492,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232364,
+        "num": 232364,
+        "word": "美称在台湾海峡进行标准化海空通行",
+        "onboard_time": 1660731630,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 213272,
+        "num": 213272,
+        "word": "女子生产后两块纱布被遗留体内",
+        "onboard_time": 1660731332,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212763,
+        "num": 212763,
+        "word": "煎蛋地垫太可爱了",
+        "onboard_time": 1660727193,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338783,
+        "num": 212588,
+        "word": "电影满江红杀青",
+        "onboard_time": 1660731751,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210784,
+        "num": 210784,
+        "word": "寺库回应人去楼空",
+        "onboard_time": 1660730732,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209839,
+        "num": 209839,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194604,
+        "num": 194604,
+        "word": "重庆还没到最热的时候",
+        "onboard_time": 1660721134,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183208,
+        "num": 183208,
+        "word": "四川水电发电能力下降5成以上",
+        "onboard_time": 1660724075,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182053,
+        "num": 182053,
+        "word": "微信月活近13亿",
+        "onboard_time": 1660731691,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180305,
+        "num": 180305,
+        "word": "1岁男童钥匙插充电桩脸被电黑",
+        "onboard_time": 1660709194,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168393,
+        "num": 168393,
+        "word": "iPhone14将与华为Mate50同期发布",
+        "onboard_time": 1660703247,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154625,
+        "num": 154625,
+        "word": "三亚临时征用33家酒店宾馆为集中隔离场所",
+        "onboard_time": 1660721435,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152981,
+        "num": 152981,
+        "word": "设计师用城市垃圾画水浒108将",
+        "onboard_time": 1660726714,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们对东北振兴充满信心#"
+    }
+  }
+}
