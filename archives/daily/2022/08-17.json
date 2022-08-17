@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660717803545,
+  "endTime": 1660718896740,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -127,6 +127,22 @@
       "num": 1388237,
       "word": "婴幼儿无人照料是阻碍生育首要因素",
       "onboard_time": 1660705471,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1331708,
+      "num": 1331708,
+      "word": "古偶女主人设天花板",
+      "onboard_time": 1660717051,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1317875,
+      "num": 1317875,
+      "word": "比亚迪汉被曝上牌仅3天自燃",
+      "onboard_time": 1660715790,
       "rank": 6,
       "category": "社会新闻"
     },
@@ -275,14 +291,6 @@
       "category": "艺人,网红"
     },
     {
-      "raw_hot": 805153,
-      "num": 805153,
-      "word": "比亚迪汉被曝上牌仅3天自燃",
-      "onboard_time": 1660715790,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 785900,
       "num": 785900,
       "word": "被镜头偏爱的美貌",
@@ -417,6 +425,14 @@
       "onboard_time": 1660710636,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 581417,
+      "num": 581417,
+      "word": "男孩关停扶梯致5岁小女孩摔倒",
+      "onboard_time": 1660716331,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580496,
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480885,
+      "num": 480885,
+      "word": "狗在婚礼上抢走了我老公",
+      "onboard_time": 1660716870,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 477200,
       "num": 334490,
       "word": "请参加向前冲的嘉宾注意表情管理",
@@ -625,14 +649,6 @@
       "onboard_time": 1660698032,
       "rank": 18,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 461405,
-      "num": 461405,
-      "word": "古偶女主人设天花板",
-      "onboard_time": 1660717051,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 447315,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405146,
+      "num": 405146,
+      "word": "Tian获常规赛MVP",
+      "onboard_time": 1660715131,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401703,
       "num": 401703,
       "word": "92岁义乌老人捐款100万抗疫",
@@ -723,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393894,
-      "num": 393894,
-      "word": "Tian获常规赛MVP",
-      "onboard_time": 1660715131,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 388189,
       "num": 388189,
       "word": "长沙多家酒店开放大堂为市民避暑",
@@ -753,14 +769,6 @@
       "onboard_time": 1660703850,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376465,
-      "num": 376465,
-      "word": "男孩关停扶梯致5岁小女孩摔倒",
-      "onboard_time": 1660716331,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366804,
@@ -795,6 +803,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355751,
+      "num": 355751,
+      "word": "钟辰乐直播",
+      "onboard_time": 1660716810,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 353781,
+      "num": 340655,
+      "word": "冰雨火嫌疑人一天变一个",
+      "onboard_time": 1660716931,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353030,
       "num": 317115,
       "word": "请君李沁红衣披发路透",
@@ -819,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340655,
-      "num": 340655,
-      "word": "冰雨火嫌疑人一天变一个",
-      "onboard_time": 1660716931,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 332672,
       "num": 190011,
       "word": "段艺璇发长文",
@@ -843,12 +859,12 @@
       "category": "财经,体育"
     },
     {
-      "raw_hot": 326877,
-      "num": 263872,
-      "word": "钟辰乐直播",
-      "onboard_time": 1660716810,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 327778,
+      "num": 314848,
+      "word": "吴彤为关晓彤二十不惑打call",
+      "onboard_time": 1660718610,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 323422,
@@ -872,6 +888,14 @@
       "word": "警犬高温天气执勤被地面烫得跳jio",
       "onboard_time": 1660696412,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311666,
+      "num": 311666,
+      "word": "首次申领居民身份证跨省通办时间表",
+      "onboard_time": 1660715011,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -931,8 +955,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291122,
+      "num": 291122,
+      "word": "陕西勉县发生溺水事故致5人溺亡",
+      "onboard_time": 1660717111,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290979,
-      "num": 206789,
+      "num": 208593,
       "word": "庆怜芭莎男士",
       "onboard_time": 1660716990,
       "rank": 40,
@@ -963,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280603,
-      "num": 280603,
-      "word": "狗在婚礼上抢走了我老公",
-      "onboard_time": 1660716870,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 279934,
       "num": 279934,
       "word": "陈楚生俞灏明驾驶体验反差感",
@@ -979,12 +1003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279272,
+      "num": 279272,
+      "word": "应渊唐周玄夜的区别",
+      "onboard_time": 1660718248,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272973,
       "num": 272973,
       "word": "你觉得最尴尬的剧宣直播是什么",
       "onboard_time": 1660668681,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271978,
+      "num": 271978,
+      "word": "厦门集美实行人物同检",
+      "onboard_time": 1660718430,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270905,
@@ -1003,11 +1043,35 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 268380,
+      "num": 265929,
+      "word": "颜淡唐周船上吻",
+      "onboard_time": 1660718127,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 266153,
+      "num": 266153,
+      "word": "吃完的荔枝壳千万不要丢",
+      "onboard_time": 1660717650,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265723,
       "num": 265723,
       "word": "北京8月16日新增1例本土确诊",
       "onboard_time": 1660700849,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254671,
+      "num": 254671,
+      "word": "男子被困礁石用摩斯密码求救",
+      "onboard_time": 1660717111,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1048,14 +1112,6 @@
       "word": "热到见证历史了",
       "onboard_time": 1660709974,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243410,
-      "num": 243410,
-      "word": "首次申领居民身份证跨省通办时间表",
-      "onboard_time": 1660715011,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206480,
+      "num": 206480,
+      "word": "陆虎身上是有些广告位在的",
+      "onboard_time": 1660718127,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203494,
       "num": 203494,
       "word": "榆林新增1例本土确诊病例",
@@ -1187,12 +1251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201782,
-      "num": 201782,
-      "word": "陕西勉县发生溺水事故致5人溺亡",
-      "onboard_time": 1660717111,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 201643,
+      "num": 201643,
+      "word": "tangoz像极了操碎心的老父亲",
+      "onboard_time": 1660717710,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 198645,
@@ -1225,14 +1289,6 @@
       "onboard_time": 1660695511,
       "rank": 42,
       "category": "财经,国外要闻"
-    },
-    {
-      "raw_hot": 189228,
-      "num": 189228,
-      "word": "男子被困礁石用摩斯密码求救",
-      "onboard_time": 1660717111,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184895,
@@ -1305,14 +1361,6 @@
       "onboard_time": 1660704987,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164731,
-      "num": 164731,
-      "word": "吃完的荔枝壳千万不要丢",
-      "onboard_time": 1660717650,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 163209,
