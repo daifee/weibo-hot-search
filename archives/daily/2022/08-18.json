@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660758213164,
+  "endTime": 1660760829276,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -355,6 +355,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "二刷苍兰诀",
+      "onboard_time": 1660759036,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143867,
       "num": 143867,
       "word": "110路遇119默契值瞬间拉满",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131626,
+      "num": 127614,
+      "word": "洪潇回复垫底辣孩我才是",
+      "onboard_time": 1660760234,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131125,
       "num": 131125,
       "word": "XYG遗憾淘汰",
@@ -425,6 +441,14 @@
       "onboard_time": 1660738292,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118232,
+      "num": 79237,
+      "word": "0713男团只有张远没人抱",
+      "onboard_time": 1660758556,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 109167,
@@ -443,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40377,
-      "num": 40377,
+      "raw_hot": 83492,
+      "num": 83492,
       "word": "北京和天津大部有大到暴雨",
       "onboard_time": 1660757958,
       "rank": 49,
