@@ -1,0 +1,410 @@
+{
+  "runTime": 1660710068486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3347865,
+        "num": 3347865,
+        "word": "吕一老公钱泳辰被曝骗学费",
+        "onboard_time": 1660705890,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1748357,
+        "num": 1748357,
+        "word": "奥运冠军为关晓彤新剧打call",
+        "onboard_time": 1660707030,
+        "rank": 1,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 43212,
+        "num": 1622162,
+        "word": "打卡中国",
+        "onboard_time": 1660656272,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 6499378,
+        "num": 1598210,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1559624,
+        "num": 1559624,
+        "word": "孩子高铁上吵闹不止乘客提醒被家长怼",
+        "onboard_time": 1660692563,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1536952,
+        "num": 1536952,
+        "word": "iPhone14将与华为Mate50同期发布",
+        "onboard_time": 1660703247,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1388237,
+        "num": 1388237,
+        "word": "婴幼儿无人照料是阻碍生育首要因素",
+        "onboard_time": 1660705471,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147631,
+        "num": 1147631,
+        "word": "公司称猫5次入镜影响上课开除老师",
+        "onboard_time": 1660702290,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131734,
+        "num": 1131734,
+        "word": "年轻人为何不爱吃鸭脖了",
+        "onboard_time": 1660695811,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1039518,
+        "num": 1039518,
+        "word": "成都限电",
+        "onboard_time": 1660705531,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924883,
+        "num": 924883,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909782,
+        "num": 909782,
+        "word": "东部4省要完成中央财政上缴任务",
+        "onboard_time": 1660703129,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 696282,
+        "num": 696282,
+        "word": "土耳其2岁女童遭蛇咬后咬死蛇",
+        "onboard_time": 1660692984,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680766,
+        "num": 680766,
+        "word": "长沙发现1例新冠病毒肺炎确诊病例",
+        "onboard_time": 1660706371,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666881,
+        "num": 666881,
+        "word": "被镜头偏爱的美貌",
+        "onboard_time": 1660707269,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614413,
+        "num": 614413,
+        "word": "女子商场内试戴戒指戴上就跑",
+        "onboard_time": 1660699711,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611470,
+        "num": 611470,
+        "word": "辽宁大连首次发现桃花水母",
+        "onboard_time": 1660704870,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593732,
+        "num": 593732,
+        "word": "手机销量重回7年前",
+        "onboard_time": 1660706428,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 575413,
+        "num": 575413,
+        "word": "玄夜 做我的帝后吧",
+        "onboard_time": 1660696052,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557815,
+        "num": 557815,
+        "word": "苏醒为了再就业有多努力",
+        "onboard_time": 1660709075,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 727682,
+        "num": 544080,
+        "word": "刘昊然穿老头衫骑摩托",
+        "onboard_time": 1660706428,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701632,
+        "num": 538687,
+        "word": "高亚麟回应",
+        "onboard_time": 1660698510,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525897,
+        "num": 525897,
+        "word": "乔家的儿女开播一周年",
+        "onboard_time": 1660708591,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511036,
+        "num": 511036,
+        "word": "调查称近半安卓用户想改用iPhone",
+        "onboard_time": 1660705289,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 496697,
+        "num": 496697,
+        "word": "成都部分写字楼因高温限电",
+        "onboard_time": 1660708413,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448205,
+        "num": 448205,
+        "word": "黄山不再被游客挤爆",
+        "onboard_time": 1660702830,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 409207,
+        "num": 409207,
+        "word": "福建1万多艘渔船开渔",
+        "onboard_time": 1660704088,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407657,
+        "num": 407657,
+        "word": "安徽泗县倡议公职人员发动亲友购房",
+        "onboard_time": 1660705711,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388189,
+        "num": 388189,
+        "word": "长沙多家酒店开放大堂为市民避暑",
+        "onboard_time": 1660705890,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379599,
+        "num": 379599,
+        "word": "男子花400买溺水羊被网友指责",
+        "onboard_time": 1660696052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445256,
+        "num": 375204,
+        "word": "刘亦菲谈出道20年的变化",
+        "onboard_time": 1660703009,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434007,
+        "num": 370994,
+        "word": "王一博发型师",
+        "onboard_time": 1660700669,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381850,
+        "num": 370259,
+        "word": "觞阙居然演过斗鱼男主",
+        "onboard_time": 1660707692,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365754,
+        "num": 365754,
+        "word": "1岁男童钥匙插充电桩脸被电黑",
+        "onboard_time": 1660709194,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351843,
+        "num": 351843,
+        "word": "优酷否认冰雨火数据有问题",
+        "onboard_time": 1660698930,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349212,
+        "num": 349212,
+        "word": "92岁义乌老人捐款100万抗疫",
+        "onboard_time": 1660707391,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 310467,
+        "num": 310467,
+        "word": "河南特岗",
+        "onboard_time": 1660708051,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296608,
+        "num": 296608,
+        "word": "AirPodsPro2将支持健身追踪",
+        "onboard_time": 1660709134,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 277481,
+        "num": 277481,
+        "word": "内向的人没惹你们任何人",
+        "onboard_time": 1660698032,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 272114,
+        "num": 272114,
+        "word": "饿了么免单",
+        "onboard_time": 1660709253,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 328920,
+        "num": 266644,
+        "word": "苍兰诀又断更了",
+        "onboard_time": 1660696291,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317217,
+        "num": 262172,
+        "word": "二十不惑2原班人马回归",
+        "onboard_time": 1660701988,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250484,
+        "num": 250484,
+        "word": "女司机撞人后打开车门用脚刹",
+        "onboard_time": 1660709676,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246271,
+        "num": 246271,
+        "word": "热到见证历史了",
+        "onboard_time": 1660709974,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243014,
+        "num": 243014,
+        "word": "北京大兴机场有多好逛",
+        "onboard_time": 1660703909,
+        "rank": 44,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 236151,
+        "num": 236151,
+        "word": "猫咪半夜有哪些小心思",
+        "onboard_time": 1660706070,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233363,
+        "num": 233363,
+        "word": "多孩家庭公积金可提高额度",
+        "onboard_time": 1660700187,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 222440,
+        "num": 222440,
+        "word": "广州新增3例本土确诊",
+        "onboard_time": 1660702947,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193801,
+        "num": 193801,
+        "word": "北京顺义发现1例外省进京人员核酸阳性",
+        "onboard_time": 1660704268,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192279,
+        "num": 192279,
+        "word": "多部门鼓励毕业生到基层建功立业",
+        "onboard_time": 1660701748,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们对东北振兴充满信心#"
+    }
+  }
+}
