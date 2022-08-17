@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660744282307,
+  "endTime": 1660744910872,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -51,20 +51,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 3034969,
+      "num": 3034969,
+      "word": "未婚已育女性办理生育津贴不需要结婚证",
+      "onboard_time": 1660735831,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2793561,
       "num": 2793561,
       "word": "腾讯员工平均月薪85473元",
       "onboard_time": 1660732952,
       "rank": 0,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2786891,
-      "num": 2786891,
-      "word": "未婚已育女性办理生育津贴不需要结婚证",
-      "onboard_time": 1660735831,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2784675,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1057981,
+      "num": 462480,
+      "word": "程少商答应跟袁慎定亲",
+      "onboard_time": 1660743934,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1040477,
       "num": 353334,
       "word": "赵露思陈哲远偷偷藏不住路透",
@@ -459,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 907856,
+      "num": 536333,
+      "word": "杨幂龚俊狐妖逛街牵手奔跑路透",
+      "onboard_time": 1660742433,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 894162,
       "num": 894162,
       "word": "美军偷油车队一眼望不到头",
@@ -503,14 +519,6 @@
       "num": 616328,
       "word": "王一博发型师",
       "onboard_time": 1660700669,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 830885,
-      "num": 536333,
-      "word": "杨幂龚俊狐妖逛街牵手奔跑路透",
-      "onboard_time": 1660742433,
       "rank": 12,
       "category": "影视"
     },
@@ -691,7 +699,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 644992,
+      "raw_hot": 651732,
       "num": 389002,
       "word": "朱喆拒绝为结婚降低生活质量",
       "onboard_time": 1660742854,
@@ -971,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 524664,
-      "num": 234911,
-      "word": "程少商答应跟袁慎定亲",
-      "onboard_time": 1660743934,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 518827,
       "num": 518827,
       "word": "腾讯发布2022年二季度财报",
@@ -1172,7 +1172,7 @@
     },
     {
       "raw_hot": 459556,
-      "num": 233238,
+      "num": 286602,
       "word": "披荆斩棘第二季嘉宾阵容",
       "onboard_time": 1660743693,
       "rank": 33,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1660724375,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 436702,
+      "num": 436702,
+      "word": "110路遇119默契值瞬间拉满",
+      "onboard_time": 1660742255,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 434735,
@@ -1443,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383057,
+      "num": 383057,
+      "word": "上一段恋爱让人最遗憾的事",
+      "onboard_time": 1660741892,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 381850,
       "num": 370259,
       "word": "觞阙居然演过斗鱼男主",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1660703850,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379664,
-      "num": 379664,
-      "word": "110路遇119默契值瞬间拉满",
-      "onboard_time": 1660742255,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 379194,
@@ -1547,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357504,
+      "num": 357504,
+      "word": "东北早上都得穿厚睡裤了",
+      "onboard_time": 1660743632,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357141,
       "num": 250934,
       "word": "王俊凯莫西子诗断桥片尾主题曲MV",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1660716810,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354209,
-      "num": 354209,
-      "word": "上一段恋爱让人最遗憾的事",
-      "onboard_time": 1660741892,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 353781,
@@ -1827,12 +1835,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293721,
+      "num": 293721,
+      "word": "恒大汽车或将被并购",
+      "onboard_time": 1660743274,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 293578,
       "num": 293578,
       "word": "南京疫情防控",
       "onboard_time": 1660703488,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291205,
+      "num": 291205,
+      "word": "Doinb",
+      "onboard_time": 1660743995,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 290979,
@@ -2051,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231259,
-      "num": 231259,
-      "word": "东北早上都得穿厚睡裤了",
-      "onboard_time": 1660743632,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229601,
       "num": 229601,
       "word": "福建报告新增本土确诊8例",
@@ -2211,20 +2227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198706,
+      "num": 198706,
+      "word": "为什么我们越来越喜欢独处",
+      "onboard_time": 1660744295,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198645,
       "num": 198645,
       "word": "杭州废弃矿洞成网红避暑探险地",
       "onboard_time": 1660653750,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 195476,
-      "num": 195476,
-      "word": "恒大汽车或将被并购",
-      "onboard_time": 1660743274,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 193881,
@@ -2473,14 +2489,6 @@
       "onboard_time": 1660659454,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 133769,
-      "num": 133769,
-      "word": "Doinb",
-      "onboard_time": 1660743995,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 129261,
