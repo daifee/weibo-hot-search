@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660767770260,
+  "endTime": 1660768697870,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118026,
+      "num": 118026,
+      "word": "假如生命只剩一晚你有什么遗憾",
+      "onboard_time": 1660765571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109167,
       "num": 109167,
       "word": "你一年会员要花多少钱",
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82918,
-      "num": 63556,
-      "word": "假如生命只剩一晚你有什么遗憾",
-      "onboard_time": 1660765571,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 62687,
+      "num": 27777,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 61783,
@@ -489,14 +497,6 @@
       "onboard_time": 1660762933,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 46785,
-      "num": 27777,
-      "word": "韩军方称朝鲜发射两枚巡航导弹",
-      "onboard_time": 1660765751,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 26213,
