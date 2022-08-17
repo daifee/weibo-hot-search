@@ -1,0 +1,410 @@
+{
+  "runTime": 1660728188803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4072210,
+        "num": 4072210,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3895576,
+        "num": 3895576,
+        "word": "艾成坠楼身亡",
+        "onboard_time": 1660719932,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43677,
+        "num": 2538667,
+        "word": "天安门广场看升旗是中国人的浪漫",
+        "onboard_time": 1660694730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1498897,
+        "num": 1498897,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1248694,
+        "num": 1248694,
+        "word": "网友质疑戚薇卖假货",
+        "onboard_time": 1660719630,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 780303,
+        "num": 780303,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775265,
+        "num": 775265,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666224,
+        "num": 666224,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593996,
+        "num": 593996,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461411,
+        "num": 461411,
+        "word": "三亚临时征用33家酒店宾馆为集中隔离场所",
+        "onboard_time": 1660721435,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223555,
+        "num": 460984,
+        "word": "垫底辣孩问我是丑上热搜第一人吗",
+        "onboard_time": 1660721193,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 877477,
+        "num": 458441,
+        "word": "杨紫把破灯灭了",
+        "onboard_time": 1660721015,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874842,
+        "num": 456822,
+        "word": "王一博被虫追",
+        "onboard_time": 1660727013,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546206,
+        "num": 455719,
+        "word": "寺库北京总部疑似跑路",
+        "onboard_time": 1660726173,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454060,
+        "num": 454060,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385788,
+        "num": 385788,
+        "word": "多人洞穴探险后肺部感染险丧命",
+        "onboard_time": 1660720051,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360558,
+        "num": 360558,
+        "word": "能源大省四川为何缺电",
+        "onboard_time": 1660720111,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351746,
+        "num": 351746,
+        "word": "熊猫难道不害怕吗",
+        "onboard_time": 1660722574,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333634,
+        "num": 333634,
+        "word": "设计师用城市垃圾画水浒108将",
+        "onboard_time": 1660726714,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307239,
+        "num": 307239,
+        "word": "四川水电发电能力下降5成以上",
+        "onboard_time": 1660724075,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1954261,
+        "num": 305223,
+        "word": "西双版纳偶遇孙怡",
+        "onboard_time": 1660727313,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040477,
+        "num": 299217,
+        "word": "赵露思陈哲远偷偷藏不住路透",
+        "onboard_time": 1660727972,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633749,
+        "num": 294984,
+        "word": "内娱舞台能有多卷",
+        "onboard_time": 1660726292,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364429,
+        "num": 291259,
+        "word": "中方对普京总统的表态给予高度评价",
+        "onboard_time": 1660727672,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 288756,
+        "num": 288756,
+        "word": "高等学历继续教育不再使用函授名称",
+        "onboard_time": 1660727434,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 286375,
+        "num": 286375,
+        "word": "iPhone14将与华为Mate50同期发布",
+        "onboard_time": 1660703247,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 281804,
+        "num": 281804,
+        "word": "1岁男童钥匙插充电桩脸被电黑",
+        "onboard_time": 1660709194,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280070,
+        "num": 280070,
+        "word": "重庆还没到最热的时候",
+        "onboard_time": 1660721134,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279508,
+        "num": 279508,
+        "word": "小红书上线旅游搜索风险提示",
+        "onboard_time": 1660726771,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 274599,
+        "num": 274599,
+        "word": "北京新增本土感染者4例",
+        "onboard_time": 1660727792,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426638,
+        "num": 271663,
+        "word": "古偶女主人设天花板",
+        "onboard_time": 1660717051,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381573,
+        "num": 265789,
+        "word": "苍兰诀是昼川写的东方幻想吧",
+        "onboard_time": 1660727372,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361288,
+        "num": 259544,
+        "word": "郭俊辰送可以吃的苔藓",
+        "onboard_time": 1660726473,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331797,
+        "num": 250491,
+        "word": "偷偷藏不住",
+        "onboard_time": 1660714113,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249808,
+        "num": 249808,
+        "word": "吃完的荔枝壳千万不要丢",
+        "onboard_time": 1660717650,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245231,
+        "num": 245231,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225408,
+        "num": 225408,
+        "word": "全球最重大熊猫宝宝",
+        "onboard_time": 1660725394,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221544,
+        "num": 221544,
+        "word": "煎蛋地垫太可爱了",
+        "onboard_time": 1660727193,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209729,
+        "num": 209729,
+        "word": "熊猫也觉得熊猫很可爱对不对",
+        "onboard_time": 1660721795,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208822,
+        "num": 208822,
+        "word": "狗在婚礼上抢走了我老公",
+        "onboard_time": 1660716870,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319961,
+        "num": 208809,
+        "word": "吴磊转剑",
+        "onboard_time": 1660724375,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208641,
+        "num": 208641,
+        "word": "脑瘫舅舅摆摊卖菜救重病外甥女",
+        "onboard_time": 1660713333,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208639,
+        "num": 208639,
+        "word": "男子骑电瓶车高架逆行被撞身亡担全责",
+        "onboard_time": 1660719330,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176175,
+        "num": 176175,
+        "word": "童年喝过最上头的饮料",
+        "onboard_time": 1660710636,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170835,
+        "num": 170835,
+        "word": "Tian获常规赛MVP",
+        "onboard_time": 1660715131,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166818,
+        "num": 166818,
+        "word": "眉山持续高温居民到古墓纳凉",
+        "onboard_time": 1660727252,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163538,
+        "num": 163538,
+        "word": "新能源车为何自燃事故频发",
+        "onboard_time": 1660723233,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561325,
+        "num": 162553,
+        "word": "王鹤棣听到尊上威武的反应",
+        "onboard_time": 1660728155,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160064,
+        "num": 160064,
+        "word": "不知道的还以为是主人错了",
+        "onboard_time": 1660727911,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156012,
+        "num": 156012,
+        "word": "LNG对战BLG",
+        "onboard_time": 1660728094,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们对东北振兴充满信心#"
+    }
+  }
+}

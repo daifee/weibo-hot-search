@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660725811814,
+  "endTime": 1660728188803,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -25,6 +25,14 @@
       "onboard_time": 1660719932,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4072210,
+      "num": 4072210,
+      "word": "实习生拒绝吃生鸡蛋被辞退",
+      "onboard_time": 1660723893,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3445005,
@@ -59,14 +67,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2510274,
-      "num": 2510274,
-      "word": "实习生拒绝吃生鸡蛋被辞退",
-      "onboard_time": 1660723893,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2495112,
       "num": 2495112,
       "word": "网友质疑戚薇卖假货",
@@ -97,6 +97,14 @@
       "onboard_time": 1660707631,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1954261,
+      "num": 305223,
+      "word": "西双版纳偶遇孙怡",
+      "onboard_time": 1660727313,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1748357,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1040477,
+      "num": 299217,
+      "word": "赵露思陈哲远偷偷藏不住路透",
+      "onboard_time": 1660727972,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1039518,
       "num": 1039518,
       "word": "成都限电",
@@ -320,6 +336,14 @@
       "word": "二十不惑2原班人马回归",
       "onboard_time": 1660701988,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 874842,
+      "num": 456822,
+      "word": "王一博被虫追",
+      "onboard_time": 1660727013,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666224,
+      "num": 666224,
+      "word": "四川重庆霸榜凌晨全国高温前十",
+      "onboard_time": 1660722755,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661495,
       "num": 429748,
       "word": "女子剖腹产出月子后首先办离婚",
@@ -449,6 +481,14 @@
       "onboard_time": 1660709134,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 633749,
+      "num": 294984,
+      "word": "内娱舞台能有多卷",
+      "onboard_time": 1660726292,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 628245,
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561325,
+      "num": 162553,
+      "word": "王鹤棣听到尊上威武的反应",
+      "onboard_time": 1660728155,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553128,
       "num": 553128,
       "word": "俄愿向盟友和伙伴提供现代化武器",
@@ -577,6 +625,14 @@
       "onboard_time": 1660651409,
       "rank": 7,
       "category": "其它"
+    },
+    {
+      "raw_hot": 546206,
+      "num": 455719,
+      "word": "寺库北京总部疑似跑路",
+      "onboard_time": 1660726173,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542949,
@@ -641,14 +697,6 @@
       "onboard_time": 1660708591,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 518884,
-      "num": 518884,
-      "word": "四川重庆霸榜凌晨全国高温前十",
-      "onboard_time": 1660722755,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518199,
@@ -947,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381573,
+      "num": 265789,
+      "word": "苍兰诀是昼川写的东方幻想吧",
+      "onboard_time": 1660727372,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380725,
       "num": 251577,
       "word": "大圣归来导演新作深海",
@@ -971,12 +1027,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364429,
+      "num": 291259,
+      "word": "中方对普京总统的表态给予高度评价",
+      "onboard_time": 1660727672,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 363918,
       "num": 363918,
       "word": "脑瘫舅舅摆摊卖菜救重病外甥女",
       "onboard_time": 1660713333,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361288,
+      "num": 259544,
+      "word": "郭俊辰送可以吃的苔藓",
+      "onboard_time": 1660726473,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 360309,
@@ -1048,6 +1120,14 @@
       "word": "陕西勉县发生溺水事故致5人溺亡",
       "onboard_time": 1660717111,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333634,
+      "num": 333634,
+      "word": "设计师用城市垃圾画水浒108将",
+      "onboard_time": 1660726714,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307239,
+      "num": 307239,
+      "word": "四川水电发电能力下降5成以上",
+      "onboard_time": 1660724075,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306528,
       "num": 275827,
       "word": "冰雨火中的禁毒警察现状",
@@ -1203,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288756,
+      "num": 288756,
+      "word": "高等学历继续教育不再使用函授名称",
+      "onboard_time": 1660727434,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 287912,
       "num": 287912,
       "word": "重庆还没到最热的时候",
@@ -1243,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279508,
+      "num": 279508,
+      "word": "小红书上线旅游搜索风险提示",
+      "onboard_time": 1660726771,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 279272,
       "num": 279272,
       "word": "应渊唐周玄夜的区别",
@@ -1251,11 +1355,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276464,
-      "num": 276464,
-      "word": "四川水电发电能力下降5成以上",
-      "onboard_time": 1660724075,
-      "rank": 43,
+      "raw_hot": 274599,
+      "num": 274599,
+      "word": "北京新增本土感染者4例",
+      "onboard_time": 1660727792,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225408,
+      "num": 225408,
+      "word": "全球最重大熊猫宝宝",
+      "onboard_time": 1660725394,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224364,
       "num": 224364,
       "word": "杭州疫情防控",
@@ -1401,6 +1513,14 @@
       "onboard_time": 1660702947,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221544,
+      "num": 221544,
+      "word": "煎蛋地垫太可爱了",
+      "onboard_time": 1660727193,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 219416,
@@ -1595,20 +1715,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169861,
-      "num": 169861,
-      "word": "全球最重大熊猫宝宝",
-      "onboard_time": 1660725394,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168101,
       "num": 142342,
       "word": "苍兰夫妇",
       "onboard_time": 1660661494,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166818,
+      "num": 166818,
+      "word": "眉山持续高温居民到古墓纳凉",
+      "onboard_time": 1660727252,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164826,
@@ -1625,6 +1745,22 @@
       "onboard_time": 1660656692,
       "rank": 35,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 160064,
+      "num": 160064,
+      "word": "不知道的还以为是主人错了",
+      "onboard_time": 1660727911,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156012,
+      "num": 156012,
+      "word": "LNG对战BLG",
+      "onboard_time": 1660728094,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 153469,
@@ -1772,7 +1908,7 @@
     },
     {
       "raw_hot": 97759,
-      "num": 2423872,
+      "num": 2538667,
       "word": "天安门广场看升旗是中国人的浪漫",
       "onboard_time": 1660694730,
       "rank": 2,
