@@ -1,0 +1,410 @@
+{
+  "runTime": 1660735114993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2793561,
+        "num": 2793561,
+        "word": "腾讯员工平均月薪85473元",
+        "onboard_time": 1660732952,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2705674,
+        "num": 2705674,
+        "word": "艾成坠楼身亡",
+        "onboard_time": 1660719932,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35068,
+        "num": 1929826,
+        "word": "天安门广场看升旗是中国人的浪漫",
+        "onboard_time": 1660694730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1538106,
+        "num": 1538106,
+        "word": "美称在台湾海峡进行标准化海空通行",
+        "onboard_time": 1660731630,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1259235,
+        "num": 1259235,
+        "word": "实习生拒绝吃生鸡蛋被辞退",
+        "onboard_time": 1660723893,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128387,
+        "num": 1128387,
+        "word": "女子生产后两块纱布被遗留体内",
+        "onboard_time": 1660731332,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062788,
+        "num": 1062788,
+        "word": "虞书欣的妆真的是王鹤棣化的",
+        "onboard_time": 1660730612,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 964326,
+        "num": 964326,
+        "word": "茶百道 垫底辣孩",
+        "onboard_time": 1660708472,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 665109,
+        "num": 665109,
+        "word": "毁掉牙齿的6个不良习惯",
+        "onboard_time": 1660729352,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610232,
+        "num": 610232,
+        "word": "中方对普京总统的表态给予高度评价",
+        "onboard_time": 1660727672,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1733919,
+        "num": 584234,
+        "word": "丈夫因早餐做得不好吃殴打妻子",
+        "onboard_time": 1660731271,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786315,
+        "num": 581782,
+        "word": "垫底辣孩问我是丑上热搜第一人吗",
+        "onboard_time": 1660721193,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 520740,
+        "num": 520740,
+        "word": "故意关停电梯小男孩暂未找到",
+        "onboard_time": 1660733852,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512583,
+        "num": 512583,
+        "word": "杨紫把破灯灭了",
+        "onboard_time": 1660721015,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480125,
+        "num": 480125,
+        "word": "微信月活近13亿",
+        "onboard_time": 1660731691,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 451986,
+        "num": 451986,
+        "word": "大爷大妈进超市避暑脱鞋躺货架",
+        "onboard_time": 1660729052,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445987,
+        "num": 445987,
+        "word": "月升沧海吴磊对赵露思撒娇",
+        "onboard_time": 1660733972,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429734,
+        "num": 429734,
+        "word": "警告美方犯我中华者必将受到惩处",
+        "onboard_time": 1660733553,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 395449,
+        "num": 395449,
+        "word": "高等学历继续教育不再使用函授名称",
+        "onboard_time": 1660727434,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 309257,
+        "num": 309257,
+        "word": "男孩关停扶梯致5岁小女孩摔倒",
+        "onboard_time": 1660716331,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118989,
+        "num": 305292,
+        "word": "李钟硕粉丝见面会门票价格",
+        "onboard_time": 1660733491,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577512,
+        "num": 302222,
+        "word": "西双版纳偶遇孙怡",
+        "onboard_time": 1660727313,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489632,
+        "num": 301255,
+        "word": "马嘉祺英伦绅士风大片",
+        "onboard_time": 1660733912,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296574,
+        "num": 296574,
+        "word": "上海疫情防控",
+        "onboard_time": 1660730014,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281379,
+        "num": 281379,
+        "word": "腾讯发布2022年二季度财报",
+        "onboard_time": 1660729473,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275628,
+        "num": 275628,
+        "word": "肛肠科实习医生收到锦旗写肛好有你",
+        "onboard_time": 1660720533,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271879,
+        "num": 271879,
+        "word": "四川重庆霸榜凌晨全国高温前十",
+        "onboard_time": 1660722755,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270437,
+        "num": 270437,
+        "word": "你一年会员要花多少钱",
+        "onboard_time": 1660732231,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256370,
+        "num": 256370,
+        "word": "云南出现七彩祥云",
+        "onboard_time": 1660733852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249500,
+        "num": 249500,
+        "word": "该吃化毛膏的原来是我",
+        "onboard_time": 1660730492,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428734,
+        "num": 249211,
+        "word": "沉香如屑",
+        "onboard_time": 1660732772,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427386,
+        "num": 248029,
+        "word": "金子涵电影同学好杀青照",
+        "onboard_time": 1660731271,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421796,
+        "num": 247247,
+        "word": "这就是街舞5微博开分8.5分",
+        "onboard_time": 1660734213,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372403,
+        "num": 246759,
+        "word": "王子异说范丞丞瘦了成熟了",
+        "onboard_time": 1660731392,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245861,
+        "num": 245861,
+        "word": "陕西本次疫情报告感染者48例",
+        "onboard_time": 1660732472,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245883,
+        "num": 245242,
+        "word": "四川倒闭公立医院涉案总金额近千万",
+        "onboard_time": 1660734394,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243541,
+        "num": 243541,
+        "word": "侵华日军曾强迫慰安妇穿和服木屐",
+        "onboard_time": 1660707631,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227482,
+        "num": 227482,
+        "word": "腾讯二季度净利润下滑56%",
+        "onboard_time": 1660730314,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199447,
+        "num": 199447,
+        "word": "北京新增社会面筛查一例",
+        "onboard_time": 1660729413,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184410,
+        "num": 184410,
+        "word": "能源大省四川为何缺电",
+        "onboard_time": 1660720111,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350316,
+        "num": 182666,
+        "word": "王一博被虫追",
+        "onboard_time": 1660727013,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330915,
+        "num": 181884,
+        "word": "颜淡再渡忘川",
+        "onboard_time": 1660734633,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180120,
+        "num": 180120,
+        "word": "寺库回应人去楼空",
+        "onboard_time": 1660730732,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169105,
+        "num": 169105,
+        "word": "熊猫难道不害怕吗",
+        "onboard_time": 1660722574,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161859,
+        "num": 161859,
+        "word": "比亚迪汉被曝上牌仅3天自燃",
+        "onboard_time": 1660715790,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149212,
+        "num": 149212,
+        "word": "男子服刑20年出狱后找不到家",
+        "onboard_time": 1660713032,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148223,
+        "num": 148223,
+        "word": "中国军队赴俄参加东方2022演习",
+        "onboard_time": 1660734871,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 139659,
+        "word": "多人洞穴探险后肺部感染险丧命",
+        "onboard_time": 1660720051,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130912,
+        "num": 130912,
+        "word": "寺库北京总部疑似跑路",
+        "onboard_time": 1660726173,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130550,
+        "num": 130550,
+        "word": "记住这个商阳穴",
+        "onboard_time": 1660735111,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们对东北振兴充满信心#"
+    }
+  }
+}
