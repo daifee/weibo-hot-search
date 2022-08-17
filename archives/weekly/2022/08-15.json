@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660742199970,
+  "endTime": 1660744282307,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -227,6 +227,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2612518,
+      "num": 1971443,
+      "word": "乌合麒麟",
+      "onboard_time": 1660742314,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2523438,
       "num": 1998301,
       "word": "警方通报13岁女童产女",
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2263350,
+      "num": 2263350,
+      "word": "月升沧海大结局点映礼",
+      "onboard_time": 1660740514,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2216885,
       "num": 2216885,
       "word": "披荆斩棘第二季官宣定档",
@@ -344,14 +360,6 @@
       "word": "沉香重华",
       "onboard_time": 1660654172,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1995188,
-      "num": 1995188,
-      "word": "月升沧海大结局点映礼",
-      "onboard_time": 1660740514,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -497,6 +505,14 @@
       "onboard_time": 1660566570,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1659771,
+      "num": 1659771,
+      "word": "老人去世狗狗绝食两天后离世",
+      "onboard_time": 1660740212,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1655363,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1223148,
+      "num": 562618,
+      "word": "重启2官宣阵容",
+      "onboard_time": 1660743037,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1211790,
       "num": 1211790,
       "word": "韩国民众当街表演痛打日军",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1660545629,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1122424,
-      "num": 1122424,
-      "word": "老人去世狗狗绝食两天后离世",
-      "onboard_time": 1660740212,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1118989,
@@ -1659,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 830885,
+      "num": 536333,
+      "word": "杨幂龚俊狐妖逛街牵手奔跑路透",
+      "onboard_time": 1660742433,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 830528,
       "num": 830528,
       "word": "俞敏洪感谢当年北大的处分",
@@ -2171,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 644992,
+      "num": 389002,
+      "word": "朱喆拒绝为结婚降低生活质量",
+      "onboard_time": 1660742854,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643983,
       "num": 643983,
       "word": "时代少年团蜕变三周年",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1660699410,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575977,
+      "num": 575977,
+      "word": "腾讯员工增长近1.7万人",
+      "onboard_time": 1660738831,
+      "rank": 23,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 573119,
@@ -2851,6 +2891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524664,
+      "num": 234911,
+      "word": "程少商答应跟袁慎定亲",
+      "onboard_time": 1660743934,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 522696,
       "num": 522696,
       "word": "原来游戏学专业都是学霸",
@@ -3195,14 +3243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477439,
-      "num": 477439,
-      "word": "腾讯员工增长近1.7万人",
-      "onboard_time": 1660738831,
-      "rank": 23,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 477387,
       "num": 477387,
       "word": "复活甲没了",
@@ -3355,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459556,
+      "num": 233238,
+      "word": "披荆斩棘第二季嘉宾阵容",
+      "onboard_time": 1660743693,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459404,
       "num": 459404,
       "word": "上班第一天啥也不会怎么办",
@@ -3459,12 +3507,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446991,
+      "num": 232644,
+      "word": "贺峻霖成都大片",
+      "onboard_time": 1660743274,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446351,
       "num": 446351,
       "word": "央视财经818晚会全阵容",
       "onboard_time": 1660537172,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446105,
+      "num": 2100330,
+      "word": "基建狂魔又上新了",
+      "onboard_time": 1660740754,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445987,
@@ -3963,6 +4027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390692,
+      "num": 390692,
+      "word": "你一年会员要花多少钱",
+      "onboard_time": 1660732231,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 390312,
       "num": 390312,
       "word": "EDG",
@@ -4067,6 +4139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 379664,
+      "num": 379664,
+      "word": "110路遇119默契值瞬间拉满",
+      "onboard_time": 1660742255,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 379194,
       "num": 246752,
       "word": "蔡徐坤六宫格彩排照",
@@ -4145,6 +4225,14 @@
       "onboard_time": 1660541612,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373103,
+      "num": 373103,
+      "word": "严格禁止以罚款进行创收",
+      "onboard_time": 1660739913,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 372026,
@@ -4427,6 +4515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354209,
+      "num": 354209,
+      "word": "上一段恋爱让人最遗憾的事",
+      "onboard_time": 1660741892,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353804,
       "num": 353804,
       "word": "每一个中国人都应铭记今天",
@@ -4489,6 +4585,14 @@
       "onboard_time": 1660664909,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349318,
+      "num": 349318,
+      "word": "进返京人员返岗须持核酸阴性证明",
+      "onboard_time": 1660741472,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348737,
@@ -5243,14 +5347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294933,
-      "num": 294933,
-      "word": "你一年会员要花多少钱",
-      "onboard_time": 1660732231,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 294631,
       "num": 294631,
       "word": "彩礼为什么越来越贵",
@@ -5457,14 +5553,6 @@
       "onboard_time": 1660699530,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279786,
-      "num": 279786,
-      "word": "严格禁止以罚款进行创收",
-      "onboard_time": 1660739913,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 279272,
@@ -5891,14 +5979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252782,
-      "num": 252782,
-      "word": "进返京人员返岗须持核酸阴性证明",
-      "onboard_time": 1660741472,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252467,
       "num": 252467,
       "word": "今晨成都上空现绝美火烧云",
@@ -6017,14 +6097,6 @@
       "onboard_time": 1660558771,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 243235,
-      "num": 2100330,
-      "word": "基建狂魔又上新了",
-      "onboard_time": 1660740754,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242951,
@@ -6185,6 +6257,14 @@
       "onboard_time": 1660631190,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231259,
+      "num": 231259,
+      "word": "东北早上都得穿厚睡裤了",
+      "onboard_time": 1660743632,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 231153,
@@ -6625,6 +6705,14 @@
       "onboard_time": 1660554871,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195476,
+      "num": 195476,
+      "word": "恒大汽车或将被并购",
+      "onboard_time": 1660743274,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 193881,
@@ -7203,12 +7291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140465,
+      "num": 140465,
+      "word": "我国约38%的成年人有失眠问题",
+      "onboard_time": 1660744233,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "没想到路上也能偶遇壮壮妈",
       "onboard_time": 1660633352,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133769,
+      "num": 133769,
+      "word": "Doinb",
+      "onboard_time": 1660743995,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 132898,
@@ -7249,14 +7353,6 @@
       "onboard_time": 1660669939,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 121894,
-      "num": 121894,
-      "word": "上一段恋爱让人最遗憾的事",
-      "onboard_time": 1660741892,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 120915,
