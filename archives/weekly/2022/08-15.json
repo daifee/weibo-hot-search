@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660710068486,
+  "endTime": 1660711742590,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -25,6 +25,14 @@
       "onboard_time": 1660621233,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 5794940,
+      "num": 1609926,
+      "word": "爱情公寓诺澜近照",
+      "onboard_time": 1660710754,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 3641466,
@@ -305,6 +313,14 @@
       "onboard_time": 1660611455,
       "rank": 4,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1878942,
+      "num": 1878942,
+      "word": "侵华日军曾强迫慰安妇穿和服木屐",
+      "onboard_time": 1660707631,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1870052,
@@ -1107,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1005801,
+      "num": 1005801,
+      "word": "1岁男童钥匙插充电桩脸被电黑",
+      "onboard_time": 1660709194,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004140,
       "num": 1004140,
       "word": "遇龙",
@@ -1171,6 +1195,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 946997,
+      "num": 502976,
+      "word": "范丞丞更新微博自动回复",
+      "onboard_time": 1660710754,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945428,
       "num": 945428,
       "word": "40度高温3岁男孩被锁车内",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1660629271,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 924883,
-      "num": 924883,
-      "word": "侵华日军曾强迫慰安妇穿和服木屐",
-      "onboard_time": 1660707631,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 924091,
@@ -1483,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785900,
+      "num": 785900,
+      "word": "被镜头偏爱的美貌",
+      "onboard_time": 1660707269,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 783646,
       "num": 783646,
       "word": "明天没有苍兰诀了",
@@ -1707,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693951,
+      "num": 693951,
+      "word": "苏醒为了再就业有多努力",
+      "onboard_time": 1660709075,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 686081,
       "num": 433517,
       "word": "段艺璇发言",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1660643254,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666881,
-      "num": 666881,
-      "word": "被镜头偏爱的美貌",
-      "onboard_time": 1660707269,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 657245,
@@ -1827,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635951,
+      "num": 635951,
+      "word": "AirPodsPro2将支持健身追踪",
+      "onboard_time": 1660709134,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 634736,
       "num": 360347,
       "word": "宋亚轩露腹肌",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1660633231,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 628245,
+      "num": 628245,
+      "word": "手机销量重回7年前",
+      "onboard_time": 1660706428,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 623207,
@@ -1955,14 +2003,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 593732,
-      "num": 593732,
-      "word": "手机销量重回7年前",
-      "onboard_time": 1660706428,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 592365,
       "num": 592365,
       "word": "千金将进行手术",
@@ -2051,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563459,
+      "num": 398293,
+      "word": "怦然心动20岁",
+      "onboard_time": 1660710574,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563365,
       "num": 563365,
       "word": "东部战区实战化演练现场视频",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1660544550,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 557815,
-      "num": 557815,
-      "word": "苏醒为了再就业有多努力",
-      "onboard_time": 1660709075,
-      "rank": 19,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 554719,
@@ -2651,6 +2691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 472518,
+      "num": 472518,
+      "word": "女司机撞人后打开车门用脚刹",
+      "onboard_time": 1660709676,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470857,
       "num": 363921,
       "word": "刘亦菲电影之夜红毯生图状态",
@@ -2673,6 +2721,14 @@
       "onboard_time": 1660547790,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466815,
+      "num": 392179,
+      "word": "冰雨火全员信任导演傅东育",
+      "onboard_time": 1660710330,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 464639,
@@ -2889,6 +2945,14 @@
       "onboard_time": 1660658974,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442711,
+      "num": 315340,
+      "word": "刘宇老生扮相",
+      "onboard_time": 1660710816,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 440899,
@@ -3147,6 +3211,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 401703,
+      "num": 401703,
+      "word": "92岁义乌老人捐款100万抗疫",
+      "onboard_time": 1660707391,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 401696,
       "num": 401696,
       "word": "三亚增380例确诊791例无症状",
@@ -3379,6 +3451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371261,
+      "num": 371261,
+      "word": "童年喝过最上头的饮料",
+      "onboard_time": 1660710636,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 370037,
       "num": 370037,
       "word": "周鹏正式加盟深圳男篮",
@@ -3449,14 +3529,6 @@
       "onboard_time": 1660622438,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 365754,
-      "num": 365754,
-      "word": "1岁男童钥匙插充电桩脸被电黑",
-      "onboard_time": 1660709194,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365691,
@@ -3649,14 +3721,6 @@
       "onboard_time": 1660664909,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349212,
-      "num": 349212,
-      "word": "92岁义乌老人捐款100万抗疫",
-      "onboard_time": 1660707391,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 348444,
@@ -3955,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322586,
+      "num": 322586,
+      "word": "饿了么免单",
+      "onboard_time": 1660660655,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 321982,
       "num": 321982,
       "word": "好想让她来替我上班",
@@ -4235,14 +4307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296608,
-      "num": 296608,
-      "word": "AirPodsPro2将支持健身追踪",
-      "onboard_time": 1660709134,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 296544,
       "num": 296544,
       "word": "年轻人为何抵触体检",
@@ -4411,6 +4475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280991,
+      "num": 280991,
+      "word": "发现福寿螺切勿食用",
+      "onboard_time": 1660711113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280971,
       "num": 202407,
       "word": "心疼杨采钰演的方芷衡",
@@ -4529,14 +4601,6 @@
       "onboard_time": 1660668681,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272114,
-      "num": 272114,
-      "word": "饿了么免单",
-      "onboard_time": 1660660655,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 271074,
@@ -4872,14 +4936,6 @@
       "word": "房贷利率有望再度下调",
       "onboard_time": 1660596612,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250484,
-      "num": 250484,
-      "word": "女司机撞人后打开车门用脚刹",
-      "onboard_time": 1660709676,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -5361,6 +5417,14 @@
       "onboard_time": 1660490971,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203494,
+      "num": 203494,
+      "word": "榆林新增1例本土确诊病例",
+      "onboard_time": 1660710330,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203455,

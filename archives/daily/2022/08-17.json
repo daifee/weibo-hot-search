@@ -1,6 +1,6 @@
 {
   "startTime": 1660667504609,
-  "endTime": 1660710068486,
+  "endTime": 1660711742590,
   "band_list": [
     {
       "raw_hot": 6499378,
@@ -9,6 +9,14 @@
       "onboard_time": 1660708472,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 5794940,
+      "num": 1609926,
+      "word": "爱情公寓诺澜近照",
+      "onboard_time": 1660710754,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 3445005,
@@ -49,6 +57,14 @@
       "onboard_time": 1660695811,
       "rank": 1,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1878942,
+      "num": 1878942,
+      "word": "侵华日军曾强迫慰安妇穿和服木屐",
+      "onboard_time": 1660707631,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1748357,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1005801,
+      "num": 1005801,
+      "word": "1岁男童钥匙插充电桩脸被电黑",
+      "onboard_time": 1660709194,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 969418,
       "num": 969418,
       "word": "男子花400买溺水羊被网友指责",
@@ -163,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 924883,
-      "num": 924883,
-      "word": "侵华日军曾强迫慰安妇穿和服木屐",
-      "onboard_time": 1660707631,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 946997,
+      "num": 502976,
+      "word": "范丞丞更新微博自动回复",
+      "onboard_time": 1660710754,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 924091,
@@ -235,6 +259,14 @@
       "category": "艺人,网红"
     },
     {
+      "raw_hot": 785900,
+      "num": 785900,
+      "word": "被镜头偏爱的美貌",
+      "onboard_time": 1660707269,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770298,
       "num": 770298,
       "word": "黄山不再被游客挤爆",
@@ -275,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693951,
+      "num": 693951,
+      "word": "苏醒为了再就业有多努力",
+      "onboard_time": 1660709075,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 680766,
       "num": 680766,
       "word": "长沙发现1例新冠病毒肺炎确诊病例",
@@ -283,20 +323,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666881,
-      "num": 666881,
-      "word": "被镜头偏爱的美貌",
-      "onboard_time": 1660707269,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 661495,
       "num": 429748,
       "word": "女子剖腹产出月子后首先办离婚",
       "onboard_time": 1660644390,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635951,
+      "num": 635951,
+      "word": "AirPodsPro2将支持健身追踪",
+      "onboard_time": 1660709134,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 628245,
+      "num": 628245,
+      "word": "手机销量重回7年前",
+      "onboard_time": 1660706428,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 611470,
@@ -313,14 +361,6 @@
       "onboard_time": 1660702048,
       "rank": 21,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 593732,
-      "num": 593732,
-      "word": "手机销量重回7年前",
-      "onboard_time": 1660706428,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 592365,
@@ -355,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557815,
-      "num": 557815,
-      "word": "苏醒为了再就业有多努力",
-      "onboard_time": 1660709075,
-      "rank": 19,
-      "category": "幽默,艺人"
+      "raw_hot": 563459,
+      "num": 398293,
+      "word": "怦然心动20岁",
+      "onboard_time": 1660710574,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 553128,
@@ -483,11 +523,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472518,
+      "num": 472518,
+      "word": "女司机撞人后打开车门用脚刹",
+      "onboard_time": 1660709676,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466977,
       "num": 466977,
       "word": "赵露思采访",
       "onboard_time": 1660661793,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 466815,
+      "num": 392179,
+      "word": "冰雨火全员信任导演傅东育",
+      "onboard_time": 1660710330,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -521,6 +577,14 @@
       "onboard_time": 1660656936,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442711,
+      "num": 315340,
+      "word": "刘宇老生扮相",
+      "onboard_time": 1660710816,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 440571,
@@ -563,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401703,
+      "num": 401703,
+      "word": "92岁义乌老人捐款100万抗疫",
+      "onboard_time": 1660707391,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 401696,
       "num": 401696,
       "word": "三亚增380例确诊791例无症状",
@@ -603,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371261,
+      "num": 371261,
+      "word": "童年喝过最上头的饮料",
+      "onboard_time": 1660710636,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 366804,
       "num": 366804,
       "word": "5年全职妈妈为重返职场有多努力",
@@ -619,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365754,
-      "num": 365754,
-      "word": "1岁男童钥匙插充电桩脸被电黑",
-      "onboard_time": 1660709194,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357141,
       "num": 250934,
       "word": "王俊凯莫西子诗断桥片尾主题曲MV",
@@ -641,14 +713,6 @@
       "onboard_time": 1660664909,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349212,
-      "num": 349212,
-      "word": "92岁义乌老人捐款100万抗疫",
-      "onboard_time": 1660707391,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 344823,
@@ -673,6 +737,14 @@
       "onboard_time": 1660697193,
       "rank": 26,
       "category": "财经,体育"
+    },
+    {
+      "raw_hot": 322586,
+      "num": 322586,
+      "word": "饿了么免单",
+      "onboard_time": 1660709253,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 316140,
@@ -723,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296608,
-      "num": 296608,
-      "word": "AirPodsPro2将支持健身追踪",
-      "onboard_time": 1660709134,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 293578,
       "num": 293578,
       "word": "南京疫情防控",
@@ -755,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280991,
+      "num": 280991,
+      "word": "发现福寿螺切勿食用",
+      "onboard_time": 1660711113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279934,
       "num": 279934,
       "word": "陈楚生俞灏明驾驶体验反差感",
@@ -769,14 +841,6 @@
       "onboard_time": 1660668681,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272114,
-      "num": 272114,
-      "word": "饿了么免单",
-      "onboard_time": 1660709253,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 270905,
@@ -825,14 +889,6 @@
       "onboard_time": 1660703367,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 250484,
-      "num": 250484,
-      "word": "女司机撞人后打开车门用脚刹",
-      "onboard_time": 1660709676,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250367,
@@ -945,6 +1001,14 @@
       "onboard_time": 1660662155,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203494,
+      "num": 203494,
+      "word": "榆林新增1例本土确诊病例",
+      "onboard_time": 1660710330,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203455,
