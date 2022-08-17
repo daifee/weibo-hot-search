@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660775893136,
+  "endTime": 1660778550075,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -2787,6 +2787,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 552146,
+      "num": 552146,
+      "word": "重庆高温地铁楼梯上长满了人",
+      "onboard_time": 1660752987,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551477,
       "num": 432075,
       "word": "苍兰诀 诀症",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1660565191,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550599,
+      "num": 550599,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 550352,
@@ -3371,14 +3387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 485123,
-      "num": 485123,
-      "word": "重庆高温地铁楼梯上长满了人",
-      "onboard_time": 1660752987,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484000,
       "num": 257114,
       "word": "周杰伦粉色海洋MV",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1660620092,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474840,
+      "num": 474840,
+      "word": "男子因彩礼难题想不开欲轻生",
+      "onboard_time": 1660771991,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474500,
@@ -3849,6 +3865,14 @@
       "onboard_time": 1660628433,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439452,
+      "num": 439452,
+      "word": "关晓彤牛骏峰二十不惑2演情侣",
+      "onboard_time": 1660769710,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 438100,
@@ -4811,6 +4835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 351459,
+      "num": 351459,
+      "word": "前男友向朱喆借钱结婚",
+      "onboard_time": 1660773613,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350915,
       "num": 350915,
       "word": "北京一妈妈晒女儿0到18岁照片",
@@ -5377,6 +5409,14 @@
       "onboard_time": 1660561412,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311170,
+      "num": 311170,
+      "word": "南北方天气差距有多大",
+      "onboard_time": 1660774454,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310747,
@@ -6339,14 +6379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251236,
-      "num": 251236,
-      "word": "关晓彤牛骏峰二十不惑2演情侣",
-      "onboard_time": 1660769710,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250712,
       "num": 250712,
       "word": "房贷利率有望再度下调",
@@ -6481,14 +6513,6 @@
       "onboard_time": 1660635212,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237456,
-      "num": 183676,
-      "word": "韩军方称朝鲜发射两枚巡航导弹",
-      "onboard_time": 1660765751,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 236632,
@@ -6641,14 +6665,6 @@
       "onboard_time": 1660546288,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225471,
-      "num": 225471,
-      "word": "男子因彩礼难题想不开欲轻生",
-      "onboard_time": 1660771991,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225408,
@@ -7619,14 +7635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145976,
-      "num": 145976,
-      "word": "前男友向朱喆借钱结婚",
-      "onboard_time": 1660773613,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145012,
       "num": 145012,
       "word": "牧民制止游客私闯草场反遭辱骂",
@@ -7665,6 +7673,14 @@
       "onboard_time": 1660754245,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139596,
+      "num": 139596,
+      "word": "LPL首次出现全华一阵",
+      "onboard_time": 1660768751,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 136323,
@@ -7721,6 +7737,14 @@
       "onboard_time": 1660656752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125519,
+      "num": 125519,
+      "word": "他变了我的世界崩塌了",
+      "onboard_time": 1660777097,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125148,
@@ -7907,6 +7931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 77953,
+      "num": 77953,
+      "word": "詹姆斯2年9710万续约湖人",
+      "onboard_time": 1660778543,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77549,
       "num": 77549,
       "word": "不一定看过剧却听过的那些OST",
@@ -7923,11 +7955,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65683,
-      "num": 65683,
-      "word": "LPL首次出现全华一阵",
-      "onboard_time": 1660768751,
-      "rank": 19,
+      "raw_hot": 68726,
+      "num": 68726,
+      "word": "刘青松明年会是更好的自己",
+      "onboard_time": 1660777580,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -7961,14 +7993,6 @@
       "onboard_time": 1660525470,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 52003,
-      "num": 52003,
-      "word": "南北方天气差距有多大",
-      "onboard_time": 1660774454,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49393,

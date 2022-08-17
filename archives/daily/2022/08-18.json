@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660775893136,
+  "endTime": 1660778550075,
   "band_list": [
     {
       "raw_hot": 1911821,
@@ -99,6 +99,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 552146,
+      "num": 552146,
+      "word": "重庆高温地铁楼梯上长满了人",
+      "onboard_time": 1660752987,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550599,
+      "num": 550599,
+      "word": "韩军方称朝鲜发射两枚巡航导弹",
+      "onboard_time": 1660765751,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 531367,
       "num": 531367,
       "word": "沉香重华",
@@ -123,11 +139,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 485123,
-      "num": 485123,
-      "word": "重庆高温地铁楼梯上长满了人",
-      "onboard_time": 1660752987,
-      "rank": 28,
+      "raw_hot": 474840,
+      "num": 474840,
+      "word": "男子因彩礼难题想不开欲轻生",
+      "onboard_time": 1660771991,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 439452,
+      "num": 439452,
+      "word": "关晓彤牛骏峰二十不惑2演情侣",
+      "onboard_time": 1660769710,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365522,
       "num": 365522,
       "word": "老人去世狗狗绝食两天后离世",
@@ -161,6 +185,14 @@
       "onboard_time": 1660750777,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351459,
+      "num": 351459,
+      "word": "前男友向朱喆借钱结婚",
+      "onboard_time": 1660773613,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 348802,
@@ -193,6 +225,14 @@
       "onboard_time": 1660743934,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311170,
+      "num": 311170,
+      "word": "南北方天气差距有多大",
+      "onboard_time": 1660774454,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295964,
@@ -243,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277042,
+      "num": 277042,
+      "word": "新郎被绑篮球架倒饮料喷彩带",
+      "onboard_time": 1660745073,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274575,
       "num": 201721,
       "word": "宋亚轩金发",
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 264856,
-      "num": 173050,
+      "num": 177704,
       "word": "披荆斩棘第二季官宣定档",
       "onboard_time": 1660735350,
       "rank": 40,
@@ -289,38 +337,6 @@
       "onboard_time": 1660748137,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251236,
-      "num": 251236,
-      "word": "关晓彤牛骏峰二十不惑2演情侣",
-      "onboard_time": 1660769710,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 241385,
-      "num": 241385,
-      "word": "新郎被绑篮球架倒饮料喷彩带",
-      "onboard_time": 1660745073,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237456,
-      "num": 183676,
-      "word": "韩军方称朝鲜发射两枚巡航导弹",
-      "onboard_time": 1660765751,
-      "rank": 20,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 225471,
-      "num": 225471,
-      "word": "男子因彩礼难题想不开欲轻生",
-      "onboard_time": 1660771991,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203163,
@@ -371,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186263,
+      "num": 186263,
+      "word": "外交部回应美称将在台海进行海空通行",
+      "onboard_time": 1660731630,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 181968,
       "num": 181968,
       "word": "丈夫因早餐做得不好吃殴打妻子",
@@ -387,14 +411,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 167262,
-      "num": 167262,
-      "word": "外交部回应美称将在台海进行海空通行",
-      "onboard_time": 1660731630,
-      "rank": 41,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 167067,
       "num": 167067,
       "word": "二刷苍兰诀",
@@ -403,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145976,
-      "num": 145976,
-      "word": "前男友向朱喆借钱结婚",
-      "onboard_time": 1660773613,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 153418,
+      "num": 153418,
+      "word": "北京明日大到暴雨建议错峰上下班",
+      "onboard_time": 1660739132,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143867,
@@ -419,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143598,
-      "num": 143598,
-      "word": "北京明日大到暴雨建议错峰上下班",
-      "onboard_time": 1660739132,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140260,
       "num": 140260,
       "word": "连续高温上千只母鸡罢工",
       "onboard_time": 1660754245,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139596,
+      "num": 139596,
+      "word": "LPL首次出现全华一阵",
+      "onboard_time": 1660768751,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 133746,
@@ -483,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125519,
+      "num": 125519,
+      "word": "他变了我的世界崩塌了",
+      "onboard_time": 1660777097,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118232,
       "num": 79237,
       "word": "0713男团只有张远没人抱",
@@ -515,11 +539,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65683,
-      "num": 65683,
-      "word": "LPL首次出现全华一阵",
-      "onboard_time": 1660768751,
-      "rank": 19,
+      "raw_hot": 77953,
+      "num": 77953,
+      "word": "詹姆斯2年9710万续约湖人",
+      "onboard_time": 1660778543,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68726,
+      "num": 68726,
+      "word": "刘青松明年会是更好的自己",
+      "onboard_time": 1660777580,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -529,14 +561,6 @@
       "onboard_time": 1660762933,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 52003,
-      "num": 52003,
-      "word": "南北方天气差距有多大",
-      "onboard_time": 1660774454,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26213,
