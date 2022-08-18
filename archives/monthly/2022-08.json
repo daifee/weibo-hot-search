@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660851214436,
+  "endTime": 1660854335704,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -40611,6 +40611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123152,
       "num": 93362,
       "word": "李荣浩最后一秒转身",
@@ -40857,14 +40865,6 @@
       "onboard_time": 1659269489,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113378,
-      "num": 113378,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 113137,
@@ -41200,6 +41200,14 @@
       "word": "萧润再次爱上小兰花",
       "onboard_time": 1660518622,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 88629,
+      "num": 88629,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -42097,6 +42105,14 @@
       "onboard_time": 1660615231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 16295,
+      "num": 16295,
+      "word": "里根号演练遭多枚导弹同时攻击",
+      "onboard_time": 1660853351,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 16097,

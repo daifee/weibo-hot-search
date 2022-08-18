@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660851214436,
+  "endTime": 1660854335704,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120943,
       "num": 76280,
       "word": "苏有朋说看我披荆斩棘",
@@ -417,14 +425,6 @@
       "onboard_time": 1660845256,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113378,
-      "num": 113378,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 111693,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88629,
+      "num": 88629,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37541,
       "num": 34962,
       "word": "毛晓彤说王子异拍戏时每天吃草",
@@ -489,6 +497,14 @@
       "onboard_time": 1660815270,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 16295,
+      "num": 16295,
+      "word": "里根号演练遭多枚导弹同时攻击",
+      "onboard_time": 1660853351,
+      "rank": 48,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
