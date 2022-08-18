@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660855213405,
+  "endTime": 1660857556296,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -9811,6 +9811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163558,
+      "num": 163558,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163415,
       "num": 163415,
       "word": "故宫夏日祥云出片了",
@@ -10267,14 +10275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108436,
-      "num": 108436,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 107935,
       "num": 107935,
       "word": "小兰花清醒",
@@ -10451,6 +10451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 55425,
+      "num": 45765,
+      "word": "80名外国人捐5万拯救倒闭理发店",
+      "onboard_time": 1660855812,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "高温也卷起来了",
@@ -10611,12 +10619,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 16219,
+      "num": 16219,
+      "word": "沉香重华预告有点刺激",
+      "onboard_time": 1660856051,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 15631,
       "num": 15631,
       "word": "今晚看月升沧海",
       "onboard_time": 1660684450,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13975,
+      "num": 13975,
+      "word": "这是成都人盼的那朵乌云吗",
+      "onboard_time": 1660855631,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12921,

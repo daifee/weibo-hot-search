@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660855213405,
+  "endTime": 1660857556296,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -339,6 +339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 163558,
+      "num": 163558,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160462,
       "num": 160462,
       "word": "劳荣枝否认故意杀人",
@@ -451,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108436,
-      "num": 108436,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 108021,
       "num": 108021,
       "word": "核酸检测机器人15秒一签",
@@ -481,6 +481,14 @@
       "onboard_time": 1660845976,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55425,
+      "num": 45765,
+      "word": "80名外国人捐5万拯救倒闭理发店",
+      "onboard_time": 1660855812,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37541,
@@ -513,6 +521,22 @@
       "onboard_time": 1660852571,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16219,
+      "num": 16219,
+      "word": "沉香重华预告有点刺激",
+      "onboard_time": 1660856051,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 13975,
+      "num": 13975,
+      "word": "这是成都人盼的那朵乌云吗",
+      "onboard_time": 1660855631,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
