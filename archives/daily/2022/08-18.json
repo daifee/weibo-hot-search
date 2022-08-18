@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660804086400,
+  "endTime": 1660805265867,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1805135,
-      "num": 791652,
+      "num": 822344,
       "word": "王鹤棣用屁股撞虞书欣",
       "onboard_time": 1660800272,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1625229,
+      "num": 1625229,
+      "word": "故意关停电梯小男孩已道歉",
+      "onboard_time": 1660803749,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1599865,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1074638,
+      "num": 1074638,
+      "word": "妊娠纹镜头该被剪掉么",
+      "onboard_time": 1660802612,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064626,
       "num": 1064626,
       "word": "哺乳期顾客染发遭店主秒拒",
@@ -217,6 +233,14 @@
       "onboard_time": 1660792291,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 910824,
+      "num": 910824,
+      "word": "人民网评南京茶颜悦色",
+      "onboard_time": 1660803511,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 896526,
@@ -323,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669010,
-      "num": 669010,
-      "word": "妊娠纹镜头该被剪掉么",
-      "onboard_time": 1660802612,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 673866,
+      "num": 673866,
+      "word": "杨幂把NPC吓跑",
+      "onboard_time": 1660802072,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 664063,
@@ -337,14 +361,6 @@
       "onboard_time": 1660765751,
       "rank": 20,
       "category": "军事"
-    },
-    {
-      "raw_hot": 658388,
-      "num": 658388,
-      "word": "杨幂把NPC吓跑",
-      "onboard_time": 1660802072,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 646347,
@@ -361,6 +377,14 @@
       "onboard_time": 1660799435,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636388,
+      "num": 636388,
+      "word": "吴京 男德",
+      "onboard_time": 1660804350,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 615873,
@@ -571,6 +595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 480996,
+      "num": 359008,
+      "word": "沉香重华全员再就业",
+      "onboard_time": 1660804111,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472139,
       "num": 472139,
       "word": "关晓彤牛骏峰二十不惑2演情侣",
@@ -619,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426450,
+      "num": 426450,
+      "word": "南京抽调警力维护茶颜排队秩序",
+      "onboard_time": 1660803810,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422838,
       "num": 422838,
       "word": "西安疫情防控",
@@ -633,6 +673,14 @@
       "onboard_time": 1660796496,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415027,
+      "num": 276900,
+      "word": "谢谢沉香重华",
+      "onboard_time": 1660805129,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 407707,
@@ -715,6 +763,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 366384,
+      "num": 264721,
+      "word": "沉香重华台词",
+      "onboard_time": 1660803570,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365522,
       "num": 365522,
       "word": "老人去世狗狗绝食两天后离世",
@@ -761,6 +817,14 @@
       "onboard_time": 1660796256,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350466,
+      "num": 262059,
+      "word": "冰雨火陈宇好忙",
+      "onboard_time": 1660805190,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 348802,
@@ -875,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314944,
+      "num": 255991,
+      "word": "认识时宜的第一年",
+      "onboard_time": 1660804891,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304970,
       "num": 304970,
       "word": "海南增本土确诊496例无症状1522例",
@@ -891,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299477,
+      "num": 299477,
+      "word": "女儿视频记录父母31年爱情秘诀",
+      "onboard_time": 1660799850,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 295964,
       "num": 295964,
       "word": "实习生拒绝吃生鸡蛋被辞退",
@@ -899,12 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293541,
-      "num": 293541,
-      "word": "人民网评南京茶颜悦色",
-      "onboard_time": 1660803511,
-      "rank": 25,
-      "category": "社会新闻,财经"
+      "raw_hot": 293656,
+      "num": 293656,
+      "word": "朱广权新段子给职场小白打call",
+      "onboard_time": 1660804832,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293262,
@@ -929,14 +1009,6 @@
       "onboard_time": 1660787011,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291052,
-      "num": 237932,
-      "word": "沉香重华台词",
-      "onboard_time": 1660803570,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 290608,
@@ -977,14 +1049,6 @@
       "onboard_time": 1660791091,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282888,
-      "num": 282888,
-      "word": "女儿视频记录父母31年爱情秘诀",
-      "onboard_time": 1660799850,
-      "rank": 35,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 280943,
@@ -1091,19 +1155,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254093,
+      "num": 254093,
+      "word": "原来猫咪也有平替",
+      "onboard_time": 1660803452,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 250976,
+      "num": 250976,
+      "word": "杭州街头现彩虹洒水车",
+      "onboard_time": 1660804173,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245219,
       "num": 245219,
       "word": "3D动画还原劳荣枝案始末",
       "onboard_time": 1660786529,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243310,
-      "num": 243310,
-      "word": "南京抽调警力维护茶颜排队秩序",
-      "onboard_time": 1660803810,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1120,14 +1192,6 @@
       "word": "四川简阳一天内13人因热射病入院",
       "onboard_time": 1660780405,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237545,
-      "num": 237545,
-      "word": "故意关停电梯小男孩已道歉",
-      "onboard_time": 1660803749,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1267,14 +1331,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 196712,
-      "num": 196712,
-      "word": "原来猫咪也有平替",
-      "onboard_time": 1660803452,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193763,
       "num": 193763,
       "word": "女子生产后两块纱布被遗留体内",
@@ -1296,6 +1352,14 @@
       "word": "Doinb",
       "onboard_time": 1660743995,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187856,
+      "num": 187856,
+      "word": "S12全新冠军奖杯",
+      "onboard_time": 1660804950,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -1363,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154299,
+      "num": 154299,
+      "word": "内衣和袜子可以一起洗吗",
+      "onboard_time": 1660805190,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 154153,
       "num": 154153,
       "word": "18件小事提升幸福感",
@@ -1372,7 +1444,7 @@
     },
     {
       "raw_hot": 145740,
-      "num": 1599397,
+      "num": 1657682,
       "word": "从卫星视角看长江源",
       "onboard_time": 1660795234,
       "rank": 2,
