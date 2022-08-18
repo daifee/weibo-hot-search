@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660828361004,
+  "endTime": 1660830326768,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1313,6 +1313,14 @@
       "onboard_time": 1659461254,
       "rank": 47,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 3382885,
+      "num": 371092,
+      "word": "鹿晗长发丸子头",
+      "onboard_time": 1660829071,
+      "rank": 20,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 3371340,
@@ -3057,6 +3065,14 @@
       "onboard_time": 1659583596,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2076343,
+      "num": 2076343,
+      "word": "应该多久洗一次头有利头皮",
+      "onboard_time": 1660826011,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2074267,
@@ -4840,14 +4856,6 @@
       "word": "南京鼓楼一外省返宁人员核酸异常",
       "onboard_time": 1659794615,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1538673,
-      "num": 1538673,
-      "word": "应该多久洗一次头有利头皮",
-      "onboard_time": 1660826011,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -7217,6 +7225,14 @@
       "onboard_time": 1660366710,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156590,
+      "num": 983007,
+      "word": "越妃你是我的神",
+      "onboard_time": 1660827931,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1155959,
@@ -9699,14 +9715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 912356,
-      "num": 912356,
-      "word": "越妃你是我的神",
-      "onboard_time": 1660827931,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 912147,
       "num": 912147,
       "word": "作者就书里称中秋节是洋节致歉",
@@ -9844,7 +9852,7 @@
     },
     {
       "raw_hot": 897311,
-      "num": 355438,
+      "num": 364778,
       "word": "鞠婧祎拿草扇",
       "onboard_time": 1660828172,
       "rank": 20,
@@ -12297,6 +12305,14 @@
       "onboard_time": 1660053159,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 722873,
+      "num": 722873,
+      "word": "核酸检测机器人15秒一签",
+      "onboard_time": 1660828770,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722339,
@@ -17507,6 +17523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 519518,
+      "num": 519518,
+      "word": "成雅高速",
+      "onboard_time": 1660829131,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 519263,
       "num": 519263,
       "word": "王一博的表情好像旺仔",
@@ -18259,6 +18283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502338,
+      "num": 502338,
+      "word": "浙江卫视818晚会",
+      "onboard_time": 1660824269,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502269,
       "num": 502269,
       "word": "七夕是朝夕的365分之一",
@@ -18593,14 +18625,6 @@
       "onboard_time": 1659796474,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 493935,
-      "num": 381832,
-      "word": "浙江卫视818晚会",
-      "onboard_time": 1660824269,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 493690,
@@ -21539,6 +21563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435516,
+      "num": 435516,
+      "word": "EDG获得冒泡赛资格",
+      "onboard_time": 1660829311,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435358,
       "num": 435358,
       "word": "强生面临约3.8万起致癌诉讼",
@@ -22044,7 +22076,7 @@
     },
     {
       "raw_hot": 425444,
-      "num": 257003,
+      "num": 274812,
       "word": "唐周为了救颜淡自逐出门",
       "onboard_time": 1660825950,
       "rank": 31,
@@ -24531,6 +24563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384156,
+      "num": 384156,
+      "word": "eStar8分钟闪电战",
+      "onboard_time": 1660828412,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384035,
       "num": 384035,
       "word": "小区群也太有意思了",
@@ -26643,12 +26683,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356746,
+      "num": 356746,
+      "word": "河南下周二实质性降温",
+      "onboard_time": 1660827931,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356698,
       "num": 356698,
       "word": "研究生毕业生及在校生征兵年龄放宽",
       "onboard_time": 1659938259,
       "rank": 33,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 356651,
+      "num": 277482,
+      "word": "方芷衡的复仇计划就在今天",
+      "onboard_time": 1660829552,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 356598,
@@ -27873,6 +27929,22 @@
       "onboard_time": 1660374571,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339588,
+      "num": 270412,
+      "word": "四川爱情故事",
+      "onboard_time": 1660827271,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 339539,
+      "num": 339539,
+      "word": "为什么不建议在晚上做决定",
+      "onboard_time": 1660829613,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 338911,
@@ -31995,6 +32067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279946,
+      "num": 279946,
+      "word": "EDG BP",
+      "onboard_time": 1660827631,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279934,
       "num": 279934,
       "word": "陈楚生俞灏明驾驶体验反差感",
@@ -35867,6 +35947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 225842,
+      "num": 225842,
+      "word": "爱情里真正的遗憾是什么",
+      "onboard_time": 1660826189,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225801,
       "num": 225801,
       "word": "闪耀暖暖三周年",
@@ -36195,14 +36283,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 219611,
-      "num": 219611,
-      "word": "EDG BP",
-      "onboard_time": 1660827631,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219587,
       "num": 225950,
       "word": "原神须弥直播",
@@ -36249,14 +36329,6 @@
       "onboard_time": 1660548930,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219224,
-      "num": 219224,
-      "word": "爱情里真正的遗憾是什么",
-      "onboard_time": 1660826189,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 218991,
@@ -37408,6 +37480,14 @@
       "word": "饿了么开12小时免单直播",
       "onboard_time": 1659855631,
       "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 198791,
+      "num": 198791,
+      "word": "医考帮崩了",
+      "onboard_time": 1660829732,
+      "rank": 42,
       "category": "科技"
     },
     {
@@ -38939,14 +39019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164643,
-      "num": 164643,
-      "word": "河南下周二实质性降温",
-      "onboard_time": 1660827931,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164328,
       "num": 164328,
       "word": "夏天为什么还不结束",
@@ -39491,6 +39563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 149832,
+      "num": 149832,
+      "word": "红旗17导弹神级走位瞬间",
+      "onboard_time": 1660830095,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 149788,
       "num": 149788,
       "word": "司马南",
@@ -39907,6 +39987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132792,
+      "num": 132792,
+      "word": "打野的尽头是一片海",
+      "onboard_time": 1660830214,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132605,
       "num": 132605,
       "word": "学习成绩和过程哪个更重要",
@@ -40169,6 +40257,14 @@
       "onboard_time": 1660076832,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122707,
+      "num": 122707,
+      "word": "eStar战胜GK",
+      "onboard_time": 1660829311,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 122411,
