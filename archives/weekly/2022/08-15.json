@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660840827448,
+  "endTime": 1660842616347,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -2899,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687589,
+      "num": 687589,
+      "word": "女孩收录取通知书时正在割猪草",
+      "onboard_time": 1660838731,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 686932,
       "num": 686932,
       "word": "中国军队赴俄参加东方2022演习",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1660643554,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 534617,
+      "num": 347820,
+      "word": "王鹤棣 歪嘴笑",
+      "onboard_time": 1660841184,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 533330,
@@ -5697,14 +5713,6 @@
       "onboard_time": 1660629631,
       "rank": 19,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 388694,
-      "num": 388694,
-      "word": "女孩收录取通知书时正在割猪草",
-      "onboard_time": 1660838731,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 388189,
@@ -9603,6 +9611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175059,
+      "num": 175059,
+      "word": "还记得读书时你喜欢的人吗",
+      "onboard_time": 1660839511,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174273,
       "num": 174273,
       "word": "你手机里的秋景图哪张最美",
@@ -9851,12 +9867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156499,
-      "num": 156499,
-      "word": "还记得读书时你喜欢的人吗",
-      "onboard_time": 1660839511,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 157009,
+      "num": 157009,
+      "word": "羽生结弦职业首秀",
+      "onboard_time": 1660840347,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 156285,
@@ -10105,14 +10121,6 @@
       "onboard_time": 1660777580,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126410,
-      "num": 126410,
-      "word": "羽生结弦职业首秀",
-      "onboard_time": 1660840347,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 125148,

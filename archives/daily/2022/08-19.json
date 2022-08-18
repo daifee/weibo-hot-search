@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660840827448,
+  "endTime": 1660842616347,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687589,
+      "num": 687589,
+      "word": "女孩收录取通知书时正在割猪草",
+      "onboard_time": 1660838731,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 637024,
       "num": 422845,
       "word": "杨紫首家文化传媒公司成立",
@@ -81,6 +89,14 @@
       "onboard_time": 1660832556,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 534617,
+      "num": 347820,
+      "word": "王鹤棣 歪嘴笑",
+      "onboard_time": 1660841184,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 534364,
@@ -145,14 +161,6 @@
       "onboard_time": 1660819052,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 388694,
-      "num": 388694,
-      "word": "女孩收录取通知书时正在割猪草",
-      "onboard_time": 1660838731,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 363674,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175059,
+      "num": 175059,
+      "word": "还记得读书时你喜欢的人吗",
+      "onboard_time": 1660839511,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168003,
       "num": 168003,
       "word": "千万不要花钱给颜值打分",
@@ -299,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156499,
-      "num": 156499,
-      "word": "还记得读书时你喜欢的人吗",
-      "onboard_time": 1660839511,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 157009,
+      "num": 157009,
+      "word": "羽生结弦职业首秀",
+      "onboard_time": 1660840347,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 156224,
@@ -345,14 +361,6 @@
       "onboard_time": 1660833635,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126410,
-      "num": 126410,
-      "word": "羽生结弦职业首秀",
-      "onboard_time": 1660840347,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 118078,
