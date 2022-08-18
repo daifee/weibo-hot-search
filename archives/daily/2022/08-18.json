@@ -1,7 +1,15 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660796491949,
+  "endTime": 1660797842839,
   "band_list": [
+    {
+      "raw_hot": 5134956,
+      "num": 5134956,
+      "word": "部分广播剧下架",
+      "onboard_time": 1660796132,
+      "rank": 20,
+      "category": "影视"
+    },
     {
       "raw_hot": 2448122,
       "num": 2448122,
@@ -32,6 +40,14 @@
       "word": "肛肠医院数量与吃辣版图吻合住了",
       "onboard_time": 1660751551,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1599865,
+      "num": 594062,
+      "word": "湘雅二院刘翔峰",
+      "onboard_time": 1660794452,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -75,14 +91,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1245287,
-      "num": 590658,
-      "word": "湘雅二院刘翔峰",
-      "onboard_time": 1660794452,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1207699,
       "num": 1207699,
       "word": "未婚已育女性办理生育津贴不需要结婚证",
@@ -104,6 +112,14 @@
       "word": "谭飞说易烊千玺王俊凯有演技",
       "onboard_time": 1660783592,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1028356,
+      "num": 1028356,
+      "word": "披荆斩棘全员报到",
+      "onboard_time": 1660793369,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -129,14 +145,6 @@
       "onboard_time": 1660751788,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926145,
-      "num": 926145,
-      "word": "披荆斩棘全员报到",
-      "onboard_time": 1660793369,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 917240,
@@ -251,6 +259,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 624160,
+      "num": 624160,
+      "word": "押解劳荣枝警车进入二审法院",
+      "onboard_time": 1660792890,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615873,
       "num": 562564,
       "word": "程少商和凌不疑退婚",
@@ -275,8 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 593138,
-      "num": 593138,
+      "raw_hot": 596974,
+      "num": 596974,
       "word": "贴身衣物应该跟外衣分开洗吗",
       "onboard_time": 1660791269,
       "rank": 28,
@@ -323,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 544726,
-      "num": 388980,
-      "word": "部分广播剧下架",
-      "onboard_time": 1660796132,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 542499,
       "num": 542499,
       "word": "我在冰雨火里活不过一集",
@@ -355,20 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513533,
+      "num": 360211,
+      "word": "漫播",
+      "onboard_time": 1660796794,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 506561,
+      "num": 506561,
+      "word": "男子把锅改装成方向盘边开车边泡面",
+      "onboard_time": 1660792109,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500875,
       "num": 500875,
       "word": "iOS15.6.1",
       "onboard_time": 1660790489,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 499239,
-      "num": 499239,
-      "word": "押解劳荣枝警车进入二审法院",
-      "onboard_time": 1660792890,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498990,
@@ -393,6 +409,14 @@
       "onboard_time": 1660751128,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487927,
+      "num": 347587,
+      "word": "张云龙晒了张云龙参加披荆斩棘",
+      "onboard_time": 1660797217,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 486078,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418755,
+      "num": 260985,
+      "word": "央视财经818晚会节目单",
+      "onboard_time": 1660796496,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407707,
       "num": 407707,
       "word": "詹姆斯成为NBA历史总薪资第一人",
@@ -467,20 +499,28 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 400871,
-      "num": 400871,
-      "word": "男子把锅改装成方向盘边开车边泡面",
-      "onboard_time": 1660792109,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389803,
       "num": 389803,
       "word": "南北方天气差距有多大",
       "onboard_time": 1660774454,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385372,
+      "num": 385372,
+      "word": "四问住房高公摊现象",
+      "onboard_time": 1660793311,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 380659,
+      "num": 225860,
+      "word": "王大陆言承旭互动梦回少女时代",
+      "onboard_time": 1660797756,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 377542,
@@ -497,6 +537,14 @@
       "onboard_time": 1660784311,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370795,
+      "num": 248462,
+      "word": "周深彩排音量穿透力",
+      "onboard_time": 1660796976,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 369845,
@@ -611,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324349,
+      "num": 324349,
+      "word": "一拳超人动画第三季",
+      "onboard_time": 1660795954,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 323126,
       "num": 323126,
       "word": "詹姆斯2年9710万续约湖人",
@@ -683,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289681,
-      "num": 289681,
-      "word": "四问住房高公摊现象",
-      "onboard_time": 1660793311,
-      "rank": 27,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 288668,
       "num": 202384,
       "word": "苍兰诀封神名场面",
@@ -753,6 +801,14 @@
       "onboard_time": 1660736194,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271096,
+      "num": 271096,
+      "word": "性格外向会更幸运吗",
+      "onboard_time": 1660797036,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 269824,
@@ -827,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236720,
+      "num": 236720,
+      "word": "掌握全国汽车血脉的霸总在河南",
+      "onboard_time": 1660794992,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230036,
       "num": 230036,
       "word": "泉州疫情防控",
@@ -835,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224327,
-      "num": 224327,
-      "word": "一拳超人动画第三季",
-      "onboard_time": 1660795954,
+      "raw_hot": 225352,
+      "num": 225352,
+      "word": "脱发到底怎么办",
+      "onboard_time": 1660796913,
       "rank": 41,
-      "category": "动漫"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218991,
@@ -848,6 +912,14 @@
       "word": "全国高温排行榜前10都在重庆",
       "onboard_time": 1660789231,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218906,
+      "num": 218906,
+      "word": "有这3个突出症状要警惕热射病",
+      "onboard_time": 1660796132,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -864,14 +936,6 @@
       "word": "三亚新增417例确诊814例无症状",
       "onboard_time": 1660779865,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209046,
-      "num": 209046,
-      "word": "掌握全国汽车血脉的霸总在河南",
-      "onboard_time": 1660794992,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -947,14 +1011,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 183893,
-      "num": 183893,
-      "word": "有这3个突出症状要警惕热射病",
-      "onboard_time": 1660796132,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181968,
       "num": 181968,
       "word": "丈夫因早餐做得不好吃殴打妻子",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1660779081,
       "rank": 36,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 145740,
+      "num": 1149686,
+      "word": "从卫星视角看长江源",
+      "onboard_time": 1660795234,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 143867,
@@ -1121,14 +1185,6 @@
       "onboard_time": 1660757958,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87350,
-      "num": 1013265,
-      "word": "从卫星视角看长江源",
-      "onboard_time": 1660795234,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 61783,
