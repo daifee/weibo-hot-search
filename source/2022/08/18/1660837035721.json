@@ -1,0 +1,410 @@
+{
+  "runTime": 1660837035721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1981069,
+        "num": 1981069,
+        "word": "警方通报四川成雅高速车祸",
+        "onboard_time": 1660832014,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1441142,
+        "num": 1441142,
+        "word": "为什么不建议在晚上做决定",
+        "onboard_time": 1660829613,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45879,
+        "num": 1383303,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1348755,
+        "num": 1348755,
+        "word": "中方不接受所谓日本专属经济区说法",
+        "onboard_time": 1660832556,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1214061,
+        "num": 1214061,
+        "word": "官方辟谣网传100名中国人存瑞士银行7.8万亿",
+        "onboard_time": 1660834355,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1116445,
+        "num": 1116445,
+        "word": "男生分手后真的会后悔吗",
+        "onboard_time": 1660830512,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1014232,
+        "num": 1014232,
+        "word": "疑商夫妇情头",
+        "onboard_time": 1660834776,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889337,
+        "num": 889337,
+        "word": "男子不忌口结石长满全身疼得嗷嗷叫",
+        "onboard_time": 1660830813,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900648,
+        "num": 842637,
+        "word": "吴磊模仿嫋嫋吃饼",
+        "onboard_time": 1660836455,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744483,
+        "num": 744483,
+        "word": "应该多久洗一次头有利头皮",
+        "onboard_time": 1660826011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4713304,
+        "num": 705208,
+        "word": "百度网盘",
+        "onboard_time": 1660835912,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1424016,
+        "num": 676625,
+        "word": "任达华18岁女儿出道",
+        "onboard_time": 1660830450,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594397,
+        "num": 594397,
+        "word": "蔡徐坤新歌hugme巨幕舞台",
+        "onboard_time": 1660835736,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592332,
+        "num": 592332,
+        "word": "越妃你是我的神",
+        "onboard_time": 1660827931,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562509,
+        "num": 562509,
+        "word": "张远婚庆歌手上线",
+        "onboard_time": 1660836815,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481890,
+        "num": 481890,
+        "word": "千万不要花钱给颜值打分",
+        "onboard_time": 1660832314,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439897,
+        "num": 439897,
+        "word": "消防烈士刘磊母亲生下龙凤胎",
+        "onboard_time": 1660831772,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434854,
+        "num": 434854,
+        "word": "重庆真的退出四大火炉城市了吗",
+        "onboard_time": 1660818571,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408768,
+        "num": 408768,
+        "word": "太原疫情防控",
+        "onboard_time": 1660836455,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390222,
+        "num": 390222,
+        "word": "不想再自卑下去了",
+        "onboard_time": 1660833037,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1589912,
+        "num": 371397,
+        "word": "鹿晗长发丸子头",
+        "onboard_time": 1660829071,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 749601,
+        "num": 366975,
+        "word": "于正晒与孔雪儿合照",
+        "onboard_time": 1660830635,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666862,
+        "num": 362763,
+        "word": "赵露思九宫格拍立得",
+        "onboard_time": 1660836455,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332911,
+        "num": 332911,
+        "word": "成雅高速",
+        "onboard_time": 1660829131,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 316620,
+        "num": 316620,
+        "word": "红旗17导弹神级走位瞬间",
+        "onboard_time": 1660830095,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 306434,
+        "num": 306434,
+        "word": "WBG获胜",
+        "onboard_time": 1660833635,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273136,
+        "num": 273136,
+        "word": "劳荣枝否认故意杀人",
+        "onboard_time": 1660823130,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270512,
+        "num": 270512,
+        "word": "核酸检测机器人15秒一签",
+        "onboard_time": 1660828770,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260553,
+        "num": 260553,
+        "word": "重庆西站疫情防控",
+        "onboard_time": 1660834954,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248549,
+        "num": 248549,
+        "word": "中日第九次高级别政治对话",
+        "onboard_time": 1660835552,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 478735,
+        "num": 247783,
+        "word": "星汉灿烂",
+        "onboard_time": 1660833933,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454012,
+        "num": 247152,
+        "word": "俞灏明喊话金主为0713男团拍电影",
+        "onboard_time": 1660835015,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428265,
+        "num": 246141,
+        "word": "杨紫首家文化传媒公司成立",
+        "onboard_time": 1660836755,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418364,
+        "num": 245733,
+        "word": "还是得看周深",
+        "onboard_time": 1660835134,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412762,
+        "num": 244756,
+        "word": "月升沧海",
+        "onboard_time": 1660819052,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244138,
+        "num": 244138,
+        "word": "女子高温天晒土豆干6小时变薯片",
+        "onboard_time": 1660816653,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230616,
+        "num": 230616,
+        "word": "湘雅二院通报医生医疗作风问题",
+        "onboard_time": 1660823493,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229254,
+        "num": 229254,
+        "word": "老人痛失爱子后替子还债86万",
+        "onboard_time": 1660824871,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215780,
+        "num": 215780,
+        "word": "重庆沙坪坝疫情防控",
+        "onboard_time": 1660823971,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215175,
+        "num": 215175,
+        "word": "爱情里真正的遗憾是什么",
+        "onboard_time": 1660826189,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335076,
+        "num": 210573,
+        "word": "编剧说王一博有陈宇的冲劲",
+        "onboard_time": 1660832255,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198545,
+        "num": 198545,
+        "word": "打野的尽头是一片海",
+        "onboard_time": 1660830214,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192761,
+        "num": 192761,
+        "word": "EDG获得冒泡赛资格",
+        "onboard_time": 1660829311,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179864,
+        "num": 179864,
+        "word": "熬夜久了都有哪些小毛病",
+        "onboard_time": 1660822171,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 175059,
+        "num": 175059,
+        "word": "百度网盘回应人工审核用户照片",
+        "onboard_time": 1660836873,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166001,
+        "num": 166001,
+        "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+        "onboard_time": 1660814613,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158621,
+        "num": 158621,
+        "word": "东部战区海军航空兵夜训驱离外机",
+        "onboard_time": 1660815932,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 145030,
+        "num": 145030,
+        "word": "河北一感染者轨迹涉北京地铁",
+        "onboard_time": 1660824091,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144605,
+        "num": 144605,
+        "word": "四川40℃以上停止户外露天作业",
+        "onboard_time": 1660808373,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137294,
+        "num": 137294,
+        "word": "青海大通山洪已致17人死亡",
+        "onboard_time": 1660836334,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022智能视听大会#"
+    }
+  }
+}

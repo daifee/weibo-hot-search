@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660832614973,
+  "endTime": 1660837035721,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -9,6 +9,14 @@
       "onboard_time": 1660796132,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 4713304,
+      "num": 705208,
+      "word": "百度网盘",
+      "onboard_time": 1660835912,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 3954627,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1981069,
+      "num": 1981069,
+      "word": "警方通报四川成雅高速车祸",
+      "onboard_time": 1660832014,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1926658,
       "num": 1926658,
       "word": "网红50万卖微信号被判交易无效",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 1892672,
-      "num": 351355,
+      "num": 366975,
       "word": "于正晒与孔雪儿合照",
       "onboard_time": 1660830635,
       "rank": 21,
@@ -241,6 +257,14 @@
       "onboard_time": 1660790731,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1348755,
+      "num": 1348755,
+      "word": "中方不接受所谓日本专属经济区说法",
+      "onboard_time": 1660832556,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1341983,
@@ -339,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1214061,
+      "num": 1214061,
+      "word": "官方辟谣网传100名中国人存瑞士银行7.8万亿",
+      "onboard_time": 1660834355,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1210606,
       "num": 910371,
       "word": "陈晓好小一只",
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116445,
+      "num": 1116445,
+      "word": "男生分手后真的会后悔吗",
+      "onboard_time": 1660830512,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1110189,
       "num": 1110189,
       "word": "偷偷藏不住主创同框路透",
@@ -475,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1014232,
+      "num": 1014232,
+      "word": "疑商夫妇情头",
+      "onboard_time": 1660834776,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1001111,
       "num": 1001111,
       "word": "南京茶颜悦色预约代购1杯200元",
@@ -523,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 900648,
+      "num": 842637,
+      "word": "吴磊模仿嫋嫋吃饼",
+      "onboard_time": 1660836455,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 897311,
       "num": 364778,
       "word": "鞠婧祎拿草扇",
@@ -536,6 +592,14 @@
       "word": "官方回应厦门给鱼做核酸",
       "onboard_time": 1660781245,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889337,
+      "num": 889337,
+      "word": "男子不忌口结石长满全身疼得嗷嗷叫",
+      "onboard_time": 1660830813,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -577,14 +641,6 @@
       "onboard_time": 1660786168,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809306,
-      "num": 809306,
-      "word": "男生分手后真的会后悔吗",
-      "onboard_time": 1660830512,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 789458,
@@ -667,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709682,
-      "num": 709682,
-      "word": "男子不忌口结石长满全身疼得嗷嗷叫",
-      "onboard_time": 1660830813,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707555,
       "num": 707555,
       "word": "凌不疑程少商啮臂为盟",
@@ -745,6 +793,14 @@
       "onboard_time": 1660802072,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 666862,
+      "num": 362763,
+      "word": "赵露思九宫格拍立得",
+      "onboard_time": 1660836455,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 664063,
@@ -835,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594397,
+      "num": 594397,
+      "word": "蔡徐坤新歌hugme巨幕舞台",
+      "onboard_time": 1660835736,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592441,
       "num": 592441,
       "word": "费启鸣二十不惑2演姜小果同事",
@@ -889,6 +953,14 @@
       "onboard_time": 1660829311,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 562509,
+      "num": 562509,
+      "word": "张远婚庆歌手上线",
+      "onboard_time": 1660836815,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 554586,
@@ -1139,11 +1211,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481890,
+      "num": 481890,
+      "word": "千万不要花钱给颜值打分",
+      "onboard_time": 1660832314,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 480996,
       "num": 359008,
       "word": "沉香重华全员再就业",
       "onboard_time": 1660804111,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 478735,
+      "num": 247783,
+      "word": "星汉灿烂",
+      "onboard_time": 1660833933,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1219,6 +1307,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 454012,
+      "num": 247152,
+      "word": "俞灏明喊话金主为0713男团拍电影",
+      "onboard_time": 1660835015,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448339,
       "num": 448339,
       "word": "1岁娃躺地耍赖看爸爸没反应爬起",
@@ -1259,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439897,
+      "num": 439897,
+      "word": "消防烈士刘磊母亲生下龙凤胎",
+      "onboard_time": 1660831772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439512,
       "num": 415858,
       "word": "钟辰乐直播",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1660823436,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428265,
+      "num": 246141,
+      "word": "杨紫首家文化传媒公司成立",
+      "onboard_time": 1660836755,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 427462,
@@ -1315,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418364,
+      "num": 245733,
+      "word": "还是得看周深",
+      "onboard_time": 1660835134,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417845,
       "num": 417845,
       "word": "河南下周二实质性降温",
@@ -1329,6 +1449,14 @@
       "onboard_time": 1660805129,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 408768,
+      "num": 408768,
+      "word": "太原疫情防控",
+      "onboard_time": 1660836455,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407707,
@@ -1417,6 +1545,14 @@
       "onboard_time": 1660822833,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 390222,
+      "num": 390222,
+      "word": "不想再自卑下去了",
+      "onboard_time": 1660833037,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 389803,
@@ -1859,12 +1995,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306739,
-      "num": 306739,
-      "word": "警方通报四川成雅高速车祸",
-      "onboard_time": 1660832014,
-      "rank": 26,
-      "category": "社会负面"
+      "raw_hot": 306434,
+      "num": 306434,
+      "word": "WBG获胜",
+      "onboard_time": 1660833635,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 304970,
@@ -2163,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260553,
+      "num": 260553,
+      "word": "重庆西站疫情防控",
+      "onboard_time": 1660834954,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259361,
       "num": 159102,
       "word": "网传披荆斩棘初舞台选曲",
@@ -2217,6 +2361,14 @@
       "onboard_time": 1660816835,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248549,
+      "num": 248549,
+      "word": "中日第九次高级别政治对话",
+      "onboard_time": 1660835552,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 245219,
@@ -2296,14 +2448,6 @@
       "word": "泉州疫情防控",
       "onboard_time": 1660794332,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226077,
-      "num": 226077,
-      "word": "消防烈士刘磊母亲生下龙凤胎",
-      "onboard_time": 1660831772,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2539,6 +2683,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 175059,
+      "num": 175059,
+      "word": "百度网盘回应人工审核用户照片",
+      "onboard_time": 1660836873,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 174273,
       "num": 174273,
       "word": "你手机里的秋景图哪张最美",
@@ -2569,14 +2721,6 @@
       "onboard_time": 1660759036,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166340,
-      "num": 166340,
-      "word": "千万不要花钱给颜值打分",
-      "onboard_time": 1660832314,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 163314,
@@ -2651,19 +2795,19 @@
       "category": "财经,艺人"
     },
     {
-      "raw_hot": 141982,
-      "num": 141982,
-      "word": "中方不接受所谓日本专属经济区说法",
-      "onboard_time": 1660832556,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 140260,
       "num": 140260,
       "word": "连续高温上千只母鸡罢工",
       "onboard_time": 1660754245,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137294,
+      "num": 137294,
+      "word": "青海大通山洪已致17人死亡",
+      "onboard_time": 1660836334,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
