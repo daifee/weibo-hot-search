@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660818342844,
+  "endTime": 1660819349390,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -1107,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1299753,
+      "num": 1299753,
+      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+      "onboard_time": 1660814613,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1296615,
       "num": 575831,
       "word": "杨紫把破灯灭了",
@@ -1587,6 +1595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1053645,
+      "num": 1053645,
+      "word": "女子高温天晒土豆干6小时变薯片",
+      "onboard_time": 1660816653,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040826,
       "num": 1040826,
       "word": "iPhone14或仍有刘海",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1660738292,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 959018,
-      "num": 959018,
-      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
-      "onboard_time": 1660814613,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 949409,
@@ -2219,11 +2227,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 788071,
-      "num": 788071,
-      "word": "女子高温天晒土豆干6小时变薯片",
-      "onboard_time": 1660816653,
-      "rank": 12,
+      "raw_hot": 789458,
+      "num": 502271,
+      "word": "名创优品再次道歉",
+      "onboard_time": 1660817132,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2739,14 +2747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 655808,
-      "num": 502271,
-      "word": "名创优品再次道歉",
-      "onboard_time": 1660817132,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 654819,
       "num": 654819,
       "word": "二十不惑2金世佳比心卜冠今",
@@ -2865,6 +2865,14 @@
       "onboard_time": 1660804350,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 636131,
+      "num": 636131,
+      "word": "上海市经信委回应发函向四川要电",
+      "onboard_time": 1660817792,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635951,
@@ -4307,6 +4315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 463433,
+      "num": 463433,
+      "word": "原来被车溅到水可以报警",
+      "onboard_time": 1660815213,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463416,
       "num": 237944,
       "word": "范世錡上披荆斩棘背KPI",
@@ -4371,20 +4387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458514,
+      "num": 458514,
+      "word": "重庆真的退出四大火炉城市了吗",
+      "onboard_time": 1660818571,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457268,
       "num": 431043,
       "word": "INTO1人均小学生吧",
       "onboard_time": 1660626515,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 454039,
-      "num": 454039,
-      "word": "原来被车溅到水可以报警",
-      "onboard_time": 1660815213,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 453846,
@@ -4720,6 +4736,14 @@
       "word": "沉香如屑",
       "onboard_time": 1660617453,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 428682,
+      "num": 428682,
+      "word": "月升沧海",
+      "onboard_time": 1660500615,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -5899,6 +5923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345036,
+      "num": 261001,
+      "word": "女明星时尚芭莎封面大赏",
+      "onboard_time": 1660818931,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344982,
       "num": 344982,
       "word": "重庆涪陵山火得到有效控制",
@@ -5929,14 +5961,6 @@
       "onboard_time": 1660555530,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343379,
-      "num": 260291,
-      "word": "月升沧海",
-      "onboard_time": 1660500615,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 342601,
@@ -7331,14 +7355,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 267414,
-      "num": 267414,
-      "word": "上海市经信委回应发函向四川要电",
-      "onboard_time": 1660817792,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267074,
       "num": 267074,
       "word": "食物语",
@@ -7513,6 +7529,14 @@
       "onboard_time": 1660660593,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258816,
+      "num": 258816,
+      "word": "重庆北碚晒成了重庆北焙",
+      "onboard_time": 1660818871,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257822,
@@ -7809,6 +7833,14 @@
       "onboard_time": 1660629031,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239025,
+      "num": 239025,
+      "word": "你最喜欢什么小说设定",
+      "onboard_time": 1660817671,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 238961,
@@ -8835,14 +8867,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 174080,
-      "num": 174080,
-      "word": "你最喜欢什么小说设定",
-      "onboard_time": 1660817671,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174006,
       "num": 174006,
       "word": "马斯克称购买曼联只是玩笑",
@@ -9051,6 +9075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159045,
+      "num": 159045,
+      "word": "观音桥",
+      "onboard_time": 1660818210,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159010,
       "num": 159010,
       "word": "贵州的空调外挂机有多热",
@@ -9081,14 +9113,6 @@
       "onboard_time": 1660544970,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156078,
-      "num": 156078,
-      "word": "观音桥",
-      "onboard_time": 1660818210,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155677,
