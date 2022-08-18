@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660812212108,
+  "endTime": 1660814585731,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2635,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2286845,
+      "num": 2286845,
+      "word": "张北海去世",
+      "onboard_time": 1660812873,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2286250,
       "num": 2286250,
       "word": "女子连续3年每月痛经15天以为没事",
@@ -2844,7 +2852,7 @@
     },
     {
       "raw_hot": 2172865,
-      "num": 418106,
+      "num": 437258,
       "word": "王鹤棣孙千合照",
       "onboard_time": 1660811132,
       "rank": 20,
@@ -6755,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210606,
+      "num": 910371,
+      "word": "陈晓好小一只",
+      "onboard_time": 1660811012,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1209966,
       "num": 1209966,
       "word": "解放军远火可覆盖台湾全岛",
@@ -7185,6 +7201,14 @@
       "onboard_time": 1660790551,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1147824,
+      "num": 1147824,
+      "word": "刘翔峰已被免职",
+      "onboard_time": 1660811551,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1147312,
@@ -9576,14 +9600,6 @@
       "word": "王鹤棣扫楼路透生图",
       "onboard_time": 1660725216,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 910371,
-      "num": 910371,
-      "word": "陈晓好小一只",
-      "onboard_time": 1660811012,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -12587,6 +12603,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 699914,
+      "num": 699914,
+      "word": "霍格沃兹月饼",
+      "onboard_time": 1660810409,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 699890,
       "num": 699890,
       "word": "追星女孩进假粉丝群3小时被骗11万",
@@ -13843,14 +13867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 639091,
-      "num": 639091,
-      "word": "霍格沃兹月饼",
-      "onboard_time": 1660810409,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 638641,
       "num": 638641,
       "word": "浙江义乌新增56例阳性",
@@ -13905,6 +13921,14 @@
       "onboard_time": 1659700719,
       "rank": 26,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 636709,
+      "num": 636709,
+      "word": "西南大学成为全国最热高校",
+      "onboard_time": 1660813352,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636388,
@@ -15537,6 +15561,14 @@
       "onboard_time": 1660737633,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 572032,
+      "num": 572032,
+      "word": "猫咪对榴莲壳能有多上头",
+      "onboard_time": 1660812813,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 571992,
@@ -18835,6 +18867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484330,
+      "num": 484330,
+      "word": "Z22次列车",
+      "onboard_time": 1660811193,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484161,
       "num": 484161,
       "word": "辱母案当事人于欢结婚",
@@ -19761,6 +19801,14 @@
       "onboard_time": 1659699098,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464374,
+      "num": 464374,
+      "word": "居民睡觉时家中马桶突然着火",
+      "onboard_time": 1660813292,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464233,
@@ -23131,6 +23179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 402438,
+      "num": 402438,
+      "word": "女童母亲谅解关停商场电梯男童",
+      "onboard_time": 1660810890,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402390,
       "num": 402390,
       "word": "东部战区官兵有多热血",
@@ -23361,6 +23417,14 @@
       "onboard_time": 1660112853,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396619,
+      "num": 396619,
+      "word": "2022浙江卫视818晚会节目单",
+      "onboard_time": 1660814011,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 396605,
@@ -24177,6 +24241,14 @@
       "onboard_time": 1660373969,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 383489,
+      "num": 383489,
+      "word": "合肥将严格处置故意躺平房企",
+      "onboard_time": 1660810651,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 383445,
@@ -25441,6 +25513,14 @@
       "onboard_time": 1660468530,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366502,
+      "num": 366502,
+      "word": "没有人能拒绝的开挂人生",
+      "onboard_time": 1660813410,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 366497,
@@ -27435,14 +27515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339259,
-      "num": 339259,
-      "word": "Z22次列车",
-      "onboard_time": 1660811193,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338911,
       "num": 283666,
       "word": "暑期档热播剧女主群像",
@@ -28979,6 +29051,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 319003,
+      "num": 299322,
+      "word": "王一博街舞5西装摩托花絮",
+      "onboard_time": 1660812210,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318396,
       "num": 318396,
       "word": "直击韩国暴雨一线",
@@ -29409,14 +29489,6 @@
       "onboard_time": 1659535190,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312109,
-      "num": 312109,
-      "word": "合肥将严格处置故意躺平房企",
-      "onboard_time": 1660810651,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 312005,
@@ -31691,6 +31763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277355,
+      "num": 277355,
+      "word": "赵粤模仿tangoz",
+      "onboard_time": 1660813531,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277260,
       "num": 277260,
       "word": "林彦俊我在时间尽头等你彩排剧照",
@@ -33289,6 +33369,14 @@
       "onboard_time": 1660133672,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253847,
+      "num": 253847,
+      "word": "俄版星巴克改名StarsCoffee",
+      "onboard_time": 1660813650,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253800,
@@ -35347,6 +35435,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 224732,
+      "num": 224732,
+      "word": "EDG对战FPX",
+      "onboard_time": 1660812032,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224397,
       "num": 224397,
       "word": "小猫洗澡怎么能这么乖",
@@ -36515,14 +36611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202831,
-      "num": 202831,
-      "word": "刘翔峰已被免职",
-      "onboard_time": 1660811551,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202761,
       "num": 202761,
       "word": "无期迷途",
@@ -36681,6 +36769,14 @@
       "onboard_time": 1659835889,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201020,
+      "num": 201020,
+      "word": "12岁少年沉迷游戏从11楼跳下",
+      "onboard_time": 1660814251,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 201009,
@@ -37683,14 +37779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182426,
-      "num": 182426,
-      "word": "EDG对战FPX",
-      "onboard_time": 1660812032,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182103,
       "num": 182103,
       "word": "世界杯吉祥物国内正式发售",
@@ -37971,14 +38059,6 @@
       "category": "财经,体育"
     },
     {
-      "raw_hot": 173749,
-      "num": 173749,
-      "word": "女童母亲谅解关停商场电梯男童",
-      "onboard_time": 1660810890,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173504,
       "num": 173504,
       "word": "广州新增1例本土确诊",
@@ -38073,6 +38153,14 @@
       "onboard_time": 1660055441,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171778,
+      "num": 171778,
+      "word": "见过最好的接亲氛围",
+      "onboard_time": 1660814372,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 171370,
