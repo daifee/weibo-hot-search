@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660847183620,
+  "endTime": 1660848253026,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -169,6 +169,14 @@
       "onboard_time": 1660837474,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 363285,
+      "num": 363285,
+      "word": "刘恺威披荆斩棘入营开箱vlog",
+      "onboard_time": 1660846395,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 350113,
@@ -347,14 +355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155808,
-      "num": 120463,
-      "word": "刘恺威披荆斩棘入营开箱vlog",
-      "onboard_time": 1660846395,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148911,
       "num": 148911,
       "word": "湘雅二院通报医生医疗作风问题",
@@ -403,6 +403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 114796,
+      "num": 114796,
+      "word": "重庆新增1例本土确诊3例无症状",
+      "onboard_time": 1660845256,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111693,
       "num": 111693,
       "word": "疑买玩具被拒男孩当街咬妈妈不松口",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103692,
-      "num": 103692,
-      "word": "重庆新增1例本土确诊3例无症状",
-      "onboard_time": 1660845256,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100941,
       "num": 66533,
       "word": "原来作精可以这么可爱",
@@ -451,20 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58925,
+      "num": 58925,
+      "word": "专家称没有证据证明鱼会感染新冠",
+      "onboard_time": 1660846995,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38115,
+      "num": 38115,
+      "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+      "onboard_time": 1660847894,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35730,
       "num": 729342,
       "word": "中国这十年",
       "onboard_time": 1660815270,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 29769,
-      "num": 35418,
-      "word": "专家称没有证据证明鱼会感染新冠",
-      "onboard_time": 1660846995,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
