@@ -1,0 +1,410 @@
+{
+  "runTime": 1660804086400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2691262,
+        "num": 2691262,
+        "word": "部分广播剧下架",
+        "onboard_time": 1660796132,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1736508,
+        "num": 1736508,
+        "word": "南京一茶颜悦色开业半小时后停业",
+        "onboard_time": 1660798116,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109627,
+        "num": 1507164,
+        "word": "从卫星视角看长江源",
+        "onboard_time": 1660795234,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1341983,
+        "num": 1341983,
+        "word": "段奕宏迪丽热巴登VOGUEfilm封面",
+        "onboard_time": 1660800870,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1215628,
+        "num": 1215628,
+        "word": "黄之锋等29名被告承认串谋颠覆国家政权罪",
+        "onboard_time": 1660799554,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1064626,
+        "num": 1064626,
+        "word": "哺乳期顾客染发遭店主秒拒",
+        "onboard_time": 1660800453,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053125,
+        "num": 1053125,
+        "word": "金晨全家都支持郑钧",
+        "onboard_time": 1660798656,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1015282,
+        "num": 1015282,
+        "word": "湘雅二院刘翔峰",
+        "onboard_time": 1660794452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878122,
+        "num": 878122,
+        "word": "青海大通山洪16人死亡36人失联",
+        "onboard_time": 1660801292,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 853418,
+        "num": 853418,
+        "word": "星汉因所有人灿烂",
+        "onboard_time": 1660798295,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1248318,
+        "num": 791652,
+        "word": "王鹤棣用屁股撞虞书欣",
+        "onboard_time": 1660800272,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 669010,
+        "num": 669010,
+        "word": "妊娠纹镜头该被剪掉么",
+        "onboard_time": 1660802612,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658388,
+        "num": 658388,
+        "word": "杨幂把NPC吓跑",
+        "onboard_time": 1660802072,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606739,
+        "num": 606739,
+        "word": "水月洞天翻拍选角",
+        "onboard_time": 1660801710,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517950,
+        "num": 517950,
+        "word": "患癌爷爷偷偷出院为重症脑炎孙子卖羊",
+        "onboard_time": 1660799435,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449643,
+        "num": 449643,
+        "word": "Z22次列车发现多例阳性",
+        "onboard_time": 1660783592,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448689,
+        "num": 448689,
+        "word": "你觉得公摊面积多少算合理",
+        "onboard_time": 1660798957,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397854,
+        "num": 397854,
+        "word": "华为研发费用占年收入22.4%",
+        "onboard_time": 1660801952,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 367379,
+        "num": 367379,
+        "word": "一不小心被陌生人治愈了",
+        "onboard_time": 1660802792,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 359586,
+        "num": 359586,
+        "word": "长沙湘雅二院回应网传医生作风问题",
+        "onboard_time": 1660800811,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802065,
+        "num": 356176,
+        "word": "赵丽颖执扇半遮面六宫格",
+        "onboard_time": 1660799312,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465118,
+        "num": 349003,
+        "word": "密逃这期主题是家长的过度保护",
+        "onboard_time": 1660802132,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374559,
+        "num": 347515,
+        "word": "披荆斩棘全员报到",
+        "onboard_time": 1660793369,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341666,
+        "num": 341666,
+        "word": "iPhone14Pro将涨价100美元",
+        "onboard_time": 1660786529,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329142,
+        "num": 329142,
+        "word": "劳荣枝案小木匠妻子称未收到赔偿",
+        "onboard_time": 1660787308,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293541,
+        "num": 293541,
+        "word": "人民网评南京茶颜悦色",
+        "onboard_time": 1660803511,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 282888,
+        "num": 282888,
+        "word": "女儿视频记录父母31年爱情秘诀",
+        "onboard_time": 1660799850,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 269502,
+        "num": 269502,
+        "word": "网红50万卖微信号被判交易无效",
+        "onboard_time": 1660787671,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243310,
+        "num": 243310,
+        "word": "南京抽调警力维护茶颜排队秩序",
+        "onboard_time": 1660803810,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238195,
+        "num": 238195,
+        "word": "追星的和学化学的同时沉默了",
+        "onboard_time": 1660782572,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334148,
+        "num": 238151,
+        "word": "丁程鑫花少滑雪造型",
+        "onboard_time": 1660803452,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309510,
+        "num": 238139,
+        "word": "吴磊战损复仇海报",
+        "onboard_time": 1660799435,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291052,
+        "num": 237932,
+        "word": "沉香重华台词",
+        "onboard_time": 1660803570,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237545,
+        "num": 237545,
+        "word": "故意关停电梯小男孩已道歉",
+        "onboard_time": 1660803749,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282013,
+        "num": 236810,
+        "word": "沉香重华今晚开播",
+        "onboard_time": 1660790731,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232644,
+        "num": 232644,
+        "word": "嘉陵江晒成了嘉陵工",
+        "onboard_time": 1660801109,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 220597,
+        "num": 220597,
+        "word": "出厂就是顶配的大熊猫",
+        "onboard_time": 1660801952,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217087,
+        "num": 217087,
+        "word": "押解劳荣枝警车进入二审法院",
+        "onboard_time": 1660792890,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215305,
+        "num": 215305,
+        "word": "贴身衣物应该跟外衣分开洗吗",
+        "onboard_time": 1660791269,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203581,
+        "num": 203581,
+        "word": "南京茶颜悦色开店前5分钟售罄",
+        "onboard_time": 1660800272,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263169,
+        "num": 202563,
+        "word": "王大陆言承旭互动梦回少女时代",
+        "onboard_time": 1660797756,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254849,
+        "num": 202098,
+        "word": "唐周和爱情买卖的配适度",
+        "onboard_time": 1660803151,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240018,
+        "num": 201929,
+        "word": "刘雨昕为街舞大秀定制专属音乐",
+        "onboard_time": 1660803749,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199450,
+        "num": 199450,
+        "word": "青海大通山洪已致16人死亡",
+        "onboard_time": 1660802311,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196712,
+        "num": 196712,
+        "word": "原来猫咪也有平替",
+        "onboard_time": 1660803452,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187373,
+        "num": 187373,
+        "word": "女孩取快递被骚扰老板呵斥保护",
+        "onboard_time": 1660789292,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185983,
+        "num": 185983,
+        "word": "法庭驳回劳荣枝对案件管辖权异议",
+        "onboard_time": 1660800214,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181256,
+        "num": 181256,
+        "word": "性格外向会更幸运吗",
+        "onboard_time": 1660797036,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174273,
+        "num": 174273,
+        "word": "你手机里的秋景图哪张最美",
+        "onboard_time": 1660803990,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 165812,
+        "num": 165812,
+        "word": "男子把锅改装成方向盘边开车边泡面",
+        "onboard_time": 1660792109,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳考察调研#"
+    }
+  }
+}

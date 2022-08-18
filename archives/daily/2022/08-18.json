@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660801725991,
+  "endTime": 1660804086400,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1805135,
-      "num": 509034,
+      "num": 791652,
       "word": "王鹤棣用屁股撞虞书欣",
       "onboard_time": 1660800272,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1660790731,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1341983,
+      "num": 1341983,
+      "word": "段奕宏迪丽热巴登VOGUEfilm封面",
+      "onboard_time": 1660800870,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1310156,
@@ -155,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1088349,
-      "num": 1088349,
-      "word": "段奕宏迪丽热巴登VOGUEfilm封面",
-      "onboard_time": 1660800870,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1082881,
       "num": 1082881,
       "word": "谭飞说易烊千玺王俊凯有演技",
       "onboard_time": 1660783592,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1064626,
+      "num": 1064626,
+      "word": "哺乳期顾客染发遭店主秒拒",
+      "onboard_time": 1660800453,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1028356,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 878122,
+      "num": 878122,
+      "word": "青海大通山洪16人死亡36人失联",
+      "onboard_time": 1660801292,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 845517,
       "num": 845517,
       "word": "农民日报评多地鼓励农民进城买房",
@@ -307,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669010,
+      "num": 669010,
+      "word": "妊娠纹镜头该被剪掉么",
+      "onboard_time": 1660802612,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664063,
       "num": 664063,
       "word": "韩军方称朝鲜发射两枚巡航导弹",
       "onboard_time": 1660765751,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 658388,
+      "num": 658388,
+      "word": "杨幂把NPC吓跑",
+      "onboard_time": 1660802072,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 646347,
@@ -345,6 +377,14 @@
       "onboard_time": 1660771991,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606739,
+      "num": 606739,
+      "word": "水月洞天翻拍选角",
+      "onboard_time": 1660801710,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 600240,
@@ -385,14 +425,6 @@
       "onboard_time": 1660747956,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 567683,
-      "num": 567683,
-      "word": "哺乳期顾客染发遭店主秒拒",
-      "onboard_time": 1660800453,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552146,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465118,
+      "num": 349003,
+      "word": "密逃这期主题是家长的过度保护",
+      "onboard_time": 1660802132,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463416,
       "num": 237944,
       "word": "范世錡上披荆斩棘背KPI",
@@ -611,6 +651,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 397854,
+      "num": 397854,
+      "word": "华为研发费用占年收入22.4%",
+      "onboard_time": 1660801952,
+      "rank": 17,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 389803,
       "num": 389803,
       "word": "南北方天气差距有多大",
@@ -659,6 +707,14 @@
       "category": "动漫,社会新闻"
     },
     {
+      "raw_hot": 367379,
+      "num": 367379,
+      "word": "一不小心被陌生人治愈了",
+      "onboard_time": 1660802792,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 365522,
       "num": 365522,
       "word": "老人去世狗狗绝食两天后离世",
@@ -675,12 +731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360648,
-      "num": 169943,
-      "word": "水月洞天翻拍选角",
-      "onboard_time": 1660801710,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 359586,
+      "num": 359586,
+      "word": "长沙湘雅二院回应网传医生作风问题",
+      "onboard_time": 1660800811,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356598,
@@ -763,12 +819,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 335337,
-      "num": 335337,
-      "word": "青海大通山洪16人死亡36人失联",
-      "onboard_time": 1660801292,
-      "rank": 22,
-      "category": "社会负面"
+      "raw_hot": 334148,
+      "num": 238151,
+      "word": "丁程鑫花少滑雪造型",
+      "onboard_time": 1660803452,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 333591,
@@ -827,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302725,
-      "num": 302725,
-      "word": "长沙湘雅二院回应网传医生作风问题",
-      "onboard_time": 1660800811,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301446,
       "num": 286931,
       "word": "苍兰诀",
@@ -849,6 +897,14 @@
       "onboard_time": 1660723893,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293541,
+      "num": 293541,
+      "word": "人民网评南京茶颜悦色",
+      "onboard_time": 1660803511,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 293262,
@@ -873,6 +929,14 @@
       "onboard_time": 1660787011,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291052,
+      "num": 237932,
+      "word": "沉香重华台词",
+      "onboard_time": 1660803570,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 290608,
@@ -913,6 +977,14 @@
       "onboard_time": 1660791091,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282888,
+      "num": 282888,
+      "word": "女儿视频记录父母31年爱情秘诀",
+      "onboard_time": 1660799850,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 280943,
@@ -1011,12 +1083,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254849,
+      "num": 202098,
+      "word": "唐周和爱情买卖的配适度",
+      "onboard_time": 1660803151,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245219,
       "num": 245219,
       "word": "3D动画还原劳荣枝案始末",
       "onboard_time": 1660786529,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243310,
+      "num": 243310,
+      "word": "南京抽调警力维护茶颜排队秩序",
+      "onboard_time": 1660803810,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240018,
+      "num": 201929,
+      "word": "刘雨昕为街舞大秀定制专属音乐",
+      "onboard_time": 1660803749,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 238504,
@@ -1027,12 +1123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237545,
+      "num": 237545,
+      "word": "故意关停电梯小男孩已道歉",
+      "onboard_time": 1660803749,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236720,
       "num": 236720,
       "word": "掌握全国汽车血脉的霸总在河南",
       "onboard_time": 1660794992,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232644,
+      "num": 232644,
+      "word": "嘉陵江晒成了嘉陵工",
+      "onboard_time": 1660801109,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 230036,
@@ -1051,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225273,
-      "num": 225273,
-      "word": "女儿视频记录父母31年爱情秘诀",
-      "onboard_time": 1660799850,
-      "rank": 35,
-      "category": "社会新闻,情感"
+      "raw_hot": 220597,
+      "num": 220597,
+      "word": "出厂就是顶配的大熊猫",
+      "onboard_time": 1660801952,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 219994,
@@ -1139,20 +1251,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 201464,
-      "num": 201464,
-      "word": "嘉陵江晒成了嘉陵工",
-      "onboard_time": 1660801109,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 200086,
       "num": 200086,
       "word": "中国军队赴俄参加东方2022演习",
       "onboard_time": 1660734871,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 199450,
+      "num": 199450,
+      "word": "青海大通山洪已致16人死亡",
+      "onboard_time": 1660802311,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 196712,
+      "num": 196712,
+      "word": "原来猫咪也有平替",
+      "onboard_time": 1660803452,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 193763,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1660748316,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 174273,
+      "num": 174273,
+      "word": "你手机里的秋景图哪张最美",
+      "onboard_time": 1660803990,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 172005,
