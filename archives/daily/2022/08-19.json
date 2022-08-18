@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660850284293,
+  "endTime": 1660851214436,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113378,
+      "num": 113378,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111693,
       "num": 111693,
       "word": "疑买玩具被拒男孩当街咬妈妈不松口",
@@ -465,14 +473,6 @@
       "onboard_time": 1660845976,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89220,
-      "num": 89220,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 37541,
