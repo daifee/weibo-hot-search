@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660815506827,
+  "endTime": 1660818342844,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -667,6 +667,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1625377,
+      "num": 1625377,
+      "word": "东部战区海军航空兵夜训驱离外机",
+      "onboard_time": 1660815932,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1622664,
       "num": 1622664,
       "word": "公司称猫5次入镜影响上课开除老师",
@@ -825,6 +833,14 @@
       "onboard_time": 1660698510,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1474014,
+      "num": 1474014,
+      "word": "王鹤棣插花只放了小兰花",
+      "onboard_time": 1660815270,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1464240,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1660750593,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1255439,
-      "num": 715613,
-      "word": "王鹤棣插花只放了小兰花",
-      "onboard_time": 1660815270,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1254439,
@@ -1763,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 959018,
+      "num": 959018,
+      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+      "onboard_time": 1660814613,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949409,
       "num": 949409,
       "word": "特斯拉狂粉用亲女儿测自动驾驶",
@@ -1857,6 +1873,14 @@
       "onboard_time": 1660743632,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 928361,
+      "num": 928361,
+      "word": "居民睡觉时家中马桶突然着火",
+      "onboard_time": 1660813292,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924091,
@@ -2195,6 +2219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 788071,
+      "num": 788071,
+      "word": "女子高温天晒土豆干6小时变薯片",
+      "onboard_time": 1660816653,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787727,
       "num": 787727,
       "word": "三亚临时征用33家酒店宾馆为集中隔离场所",
@@ -2515,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 703802,
-      "num": 703802,
-      "word": "居民睡觉时家中马桶突然着火",
-      "onboard_time": 1660813292,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702733,
       "num": 702733,
       "word": "国家电网支援成都地区电力供应",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1660664670,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696331,
+      "num": 696331,
+      "word": "俄版星巴克改名StarsCoffee",
+      "onboard_time": 1660813650,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 693951,
@@ -2705,6 +2737,14 @@
       "onboard_time": 1660741354,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 655808,
+      "num": 502271,
+      "word": "名创优品再次道歉",
+      "onboard_time": 1660817132,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654819,
@@ -3504,14 +3544,6 @@
       "word": "朋友结婚男子扛84斤硬币随礼",
       "onboard_time": 1660551511,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535405,
-      "num": 535405,
-      "word": "俄版星巴克改名StarsCoffee",
-      "onboard_time": 1660813650,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4347,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454039,
+      "num": 454039,
+      "word": "原来被车溅到水可以报警",
+      "onboard_time": 1660815213,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453846,
       "num": 453846,
       "word": "孙颖莎 成都",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1660559372,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440531,
+      "num": 440531,
+      "word": "颜淡应渊一起上天刑台",
+      "onboard_time": 1660817251,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 440191,
@@ -4883,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407133,
+      "num": 407133,
+      "word": "昆明臭豆腐小锅米线有多绝",
+      "onboard_time": 1660816052,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 407008,
       "num": 407008,
       "word": "山西新增1例阳性曾坐Z22次列车",
@@ -4945,6 +5001,14 @@
       "onboard_time": 1660789590,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 402811,
+      "num": 402811,
+      "word": "王俊凯黑到在镜头里找不到自己",
+      "onboard_time": 1660816533,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 402587,
@@ -5595,6 +5659,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 358775,
+      "num": 358775,
+      "word": "刘芸跳好日子庆祝郑钧官宣",
+      "onboard_time": 1660815450,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357894,
       "num": 235152,
       "word": "披荆斩棘主题曲十问MV",
@@ -6059,6 +6131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333997,
+      "num": 284524,
+      "word": "时代少年团时代夏令营06预告",
+      "onboard_time": 1660816171,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333634,
       "num": 333634,
       "word": "设计师用城市垃圾画水浒108将",
@@ -6281,14 +6361,6 @@
       "onboard_time": 1660487912,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320421,
-      "num": 172312,
-      "word": "刘芸跳好日子庆祝郑钧官宣",
-      "onboard_time": 1660815450,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 319714,
@@ -6657,6 +6729,14 @@
       "onboard_time": 1660799850,
       "rank": 35,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 299391,
+      "num": 299391,
+      "word": "衡水疫情防控",
+      "onboard_time": 1660817911,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299296,
@@ -7251,6 +7331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 267414,
+      "num": 267414,
+      "word": "上海市经信委回应发函向四川要电",
+      "onboard_time": 1660817792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267074,
       "num": 267074,
       "word": "食物语",
@@ -7427,14 +7515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259390,
-      "num": 259390,
-      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
-      "onboard_time": 1660814613,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257822,
       "num": 257822,
       "word": "打火机藏泡面盒底遇热水炸飞面和汤",
@@ -7609,6 +7689,14 @@
       "onboard_time": 1660608567,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249547,
+      "num": 249547,
+      "word": "郑在玹新歌ForeverOnly",
+      "onboard_time": 1660816835,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 247850,
@@ -8097,6 +8185,14 @@
       "onboard_time": 1660473092,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217981,
+      "num": 217981,
+      "word": "熊猫能分辨出穿熊猫服的人类吗",
+      "onboard_time": 1660816412,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217009,
@@ -8739,6 +8835,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 174080,
+      "num": 174080,
+      "word": "你最喜欢什么小说设定",
+      "onboard_time": 1660817671,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174006,
       "num": 174006,
       "word": "马斯克称购买曼联只是玩笑",
@@ -8979,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156078,
+      "num": 156078,
+      "word": "观音桥",
+      "onboard_time": 1660818210,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155677,
       "num": 155677,
       "word": "2022LPL夏季赛季后赛",
@@ -9025,6 +9137,14 @@
       "onboard_time": 1660680792,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150252,
+      "num": 150252,
+      "word": "恒大回应恒驰汽车遭并购传闻",
+      "onboard_time": 1660818331,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 149932,
@@ -9129,6 +9249,14 @@
       "onboard_time": 1660633352,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135595,
+      "num": 1550209,
+      "word": "中国这十年",
+      "onboard_time": 1660815270,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 133746,
@@ -9433,14 +9561,6 @@
       "onboard_time": 1660581263,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47594,
-      "num": 1550209,
-      "word": "中国这十年",
-      "onboard_time": 1660815270,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 37919,

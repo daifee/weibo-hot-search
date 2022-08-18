@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660815506827,
+  "endTime": 1660818342844,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -4427,6 +4427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1625377,
+      "num": 1625377,
+      "word": "东部战区海军航空兵夜训驱离外机",
+      "onboard_time": 1660815932,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1623969,
       "num": 1623969,
       "word": "杨迪说模仿者最终都会回归到自己",
@@ -5081,6 +5089,14 @@
       "onboard_time": 1659661355,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 1474014,
+      "num": 1474014,
+      "word": "王鹤棣插花只放了小兰花",
+      "onboard_time": 1660815270,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1472927,
@@ -6425,14 +6441,6 @@
       "onboard_time": 1660226074,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1255439,
-      "num": 715613,
-      "word": "王鹤棣插花只放了小兰花",
-      "onboard_time": 1660815270,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1254439,
@@ -9067,6 +9075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 959018,
+      "num": 959018,
+      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+      "onboard_time": 1660814613,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958661,
       "num": 958661,
       "word": "拉萨市卫健委主任被免职",
@@ -9481,6 +9497,14 @@
       "onboard_time": 1659500417,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 928361,
+      "num": 928361,
+      "word": "居民睡觉时家中马桶突然着火",
+      "onboard_time": 1660813292,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924091,
@@ -11083,6 +11107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788071,
+      "num": 788071,
+      "word": "女子高温天晒土豆干6小时变薯片",
+      "onboard_time": 1660816653,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787727,
       "num": 787727,
       "word": "三亚临时征用33家酒店宾馆为集中隔离场所",
@@ -12539,14 +12571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 703802,
-      "num": 703802,
-      "word": "居民睡觉时家中马桶突然着火",
-      "onboard_time": 1660813292,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 703166,
       "num": 703166,
       "word": "原来冰雨火是这个意思",
@@ -12745,6 +12769,14 @@
       "onboard_time": 1659688243,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 696331,
+      "num": 696331,
+      "word": "俄版星巴克改名StarsCoffee",
+      "onboard_time": 1660813650,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696004,
@@ -13497,6 +13529,14 @@
       "onboard_time": 1660016257,
       "rank": 18,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 655808,
+      "num": 502271,
+      "word": "名创优品再次道歉",
+      "onboard_time": 1660817132,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655568,
@@ -16745,14 +16785,6 @@
       "onboard_time": 1660292911,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 535405,
-      "num": 535405,
-      "word": "俄版星巴克改名StarsCoffee",
-      "onboard_time": 1660813650,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535201,
@@ -20211,6 +20243,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 454039,
+      "num": 454039,
+      "word": "原来被车溅到水可以报警",
+      "onboard_time": 1660815213,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453876,
       "num": 6867832,
       "word": "谢谢人民子弟兵的守护",
@@ -20985,6 +21025,14 @@
       "onboard_time": 1660103137,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440531,
+      "num": 440531,
+      "word": "颜淡应渊一起上天刑台",
+      "onboard_time": 1660817251,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 440407,
@@ -22923,6 +22971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407133,
+      "num": 407133,
+      "word": "昆明臭豆腐小锅米线有多绝",
+      "onboard_time": 1660816052,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 407008,
       "num": 407008,
       "word": "山西新增1例阳性曾坐Z22次列车",
@@ -23184,6 +23240,14 @@
       "word": "微博电影之夜全阵容",
       "onboard_time": 1660387050,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402811,
+      "num": 402811,
+      "word": "王俊凯黑到在镜头里找不到自己",
+      "onboard_time": 1660816533,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -26155,6 +26219,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 358775,
+      "num": 358775,
+      "word": "刘芸跳好日子庆祝郑钧官宣",
+      "onboard_time": 1660815450,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358691,
       "num": 358691,
       "word": "女生从倒数逆袭中大哽咽感谢父亲",
@@ -27971,6 +28043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333997,
+      "num": 284524,
+      "word": "时代少年团时代夏令营06预告",
+      "onboard_time": 1660816171,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333887,
       "num": 333887,
       "word": "任嘉伦嗨放派2剧照",
@@ -28985,14 +29065,6 @@
       "onboard_time": 1660375709,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320421,
-      "num": 172312,
-      "word": "刘芸跳好日子庆祝郑钧官宣",
-      "onboard_time": 1660815450,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 320316,
@@ -30337,6 +30409,14 @@
       "onboard_time": 1660799850,
       "rank": 35,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 299391,
+      "num": 299391,
+      "word": "衡水疫情防控",
+      "onboard_time": 1660817911,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299302,
@@ -32459,6 +32539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 267414,
+      "num": 267414,
+      "word": "上海市经信委回应发函向四川要电",
+      "onboard_time": 1660817792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267328,
       "num": 267328,
       "word": "杨鸣说即将有证",
@@ -33017,14 +33105,6 @@
       "onboard_time": 1659346171,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259390,
-      "num": 259390,
-      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
-      "onboard_time": 1660814613,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259263,
@@ -33665,6 +33745,14 @@
       "onboard_time": 1660487193,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249547,
+      "num": 249547,
+      "word": "郑在玹新歌ForeverOnly",
+      "onboard_time": 1660816835,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 249515,
@@ -35881,6 +35969,14 @@
       "onboard_time": 1660089813,
       "rank": 44,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 217981,
+      "num": 217981,
+      "word": "熊猫能分辨出穿熊猫服的人类吗",
+      "onboard_time": 1660816412,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217912,
@@ -38107,6 +38203,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 174080,
+      "num": 174080,
+      "word": "你最喜欢什么小说设定",
+      "onboard_time": 1660817671,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174006,
       "num": 174006,
       "word": "马斯克称购买曼联只是玩笑",
@@ -38867,6 +38971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156078,
+      "num": 156078,
+      "word": "观音桥",
+      "onboard_time": 1660818210,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156053,
       "num": 156053,
       "word": "近日曾到北京南站这些点位人员立即报备",
@@ -38993,6 +39105,14 @@
       "onboard_time": 1660037617,
       "rank": 34,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 150252,
+      "num": 150252,
+      "word": "恒大回应恒驰汽车遭并购传闻",
+      "onboard_time": 1660818331,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 150050,
@@ -39369,6 +39489,14 @@
       "onboard_time": 1660633352,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135595,
+      "num": 1550209,
+      "word": "中国这十年",
+      "onboard_time": 1660815270,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 134009,
@@ -40617,14 +40745,6 @@
       "onboard_time": 1660418893,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47594,
-      "num": 1550209,
-      "word": "中国这十年",
-      "onboard_time": 1660815270,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 46171,

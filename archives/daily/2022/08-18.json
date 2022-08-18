@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660815506827,
+  "endTime": 1660818342844,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -123,6 +123,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1625377,
+      "num": 1625377,
+      "word": "东部战区海军航空兵夜训驱离外机",
+      "onboard_time": 1660815932,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1599865,
       "num": 1242555,
       "word": "湘雅二院刘翔峰",
@@ -137,6 +145,14 @@
       "onboard_time": 1660802612,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1474014,
+      "num": 1474014,
+      "word": "王鹤棣插花只放了小兰花",
+      "onboard_time": 1660815270,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1439185,
@@ -201,14 +217,6 @@
       "onboard_time": 1660750593,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1255439,
-      "num": 715613,
-      "word": "王鹤棣插花只放了小兰花",
-      "onboard_time": 1660815270,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1254439,
@@ -331,11 +339,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 959018,
+      "num": 959018,
+      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+      "onboard_time": 1660814613,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948820,
       "num": 948820,
       "word": "杭州气温跌破26℃",
       "onboard_time": 1660751788,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928361,
+      "num": 928361,
+      "word": "居民睡觉时家中马桶突然着火",
+      "onboard_time": 1660813292,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788071,
+      "num": 788071,
+      "word": "女子高温天晒土豆干6小时变薯片",
+      "onboard_time": 1660816653,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782710,
       "num": 782710,
       "word": "BLACKPINK新专辑预售突破150万张",
@@ -459,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 703802,
-      "num": 703802,
-      "word": "居民睡觉时家中马桶突然着火",
-      "onboard_time": 1660813292,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702733,
       "num": 702733,
       "word": "国家电网支援成都地区电力供应",
@@ -491,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696331,
+      "num": 696331,
+      "word": "俄版星巴克改名StarsCoffee",
+      "onboard_time": 1660813650,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690209,
       "num": 690209,
       "word": "苍兰诀",
@@ -513,6 +545,14 @@
       "onboard_time": 1660765751,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 655808,
+      "num": 502271,
+      "word": "名创优品再次道歉",
+      "onboard_time": 1660817132,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648491,
@@ -665,14 +705,6 @@
       "onboard_time": 1660782572,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 535405,
-      "num": 535405,
-      "word": "俄版星巴克改名StarsCoffee",
-      "onboard_time": 1660813650,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533095,
@@ -867,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454039,
+      "num": 454039,
+      "word": "原来被车溅到水可以报警",
+      "onboard_time": 1660815213,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448339,
       "num": 448339,
       "word": "1岁娃躺地耍赖看爸爸没反应爬起",
@@ -881,6 +921,14 @@
       "onboard_time": 1660810890,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440531,
+      "num": 440531,
+      "word": "颜淡应渊一起上天刑台",
+      "onboard_time": 1660817251,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 436467,
@@ -931,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407133,
+      "num": 407133,
+      "word": "昆明臭豆腐小锅米线有多绝",
+      "onboard_time": 1660816052,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 407008,
       "num": 407008,
       "word": "山西新增1例阳性曾坐Z22次列车",
@@ -953,6 +1009,14 @@
       "onboard_time": 1660789590,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 402811,
+      "num": 402811,
+      "word": "王俊凯黑到在镜头里找不到自己",
+      "onboard_time": 1660816533,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 397854,
@@ -1091,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358775,
+      "num": 358775,
+      "word": "刘芸跳好日子庆祝郑钧官宣",
+      "onboard_time": 1660815450,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356598,
       "num": 356598,
       "word": "前男友向朱喆借钱结婚",
@@ -1203,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333997,
+      "num": 284524,
+      "word": "时代少年团时代夏令营06预告",
+      "onboard_time": 1660816171,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333591,
       "num": 333591,
       "word": "苹果AppleOne将捆绑销售电话套餐",
@@ -1241,14 +1321,6 @@
       "onboard_time": 1660778543,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320421,
-      "num": 172312,
-      "word": "刘芸跳好日子庆祝郑钧官宣",
-      "onboard_time": 1660815450,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 319003,
@@ -1313,6 +1385,14 @@
       "onboard_time": 1660799850,
       "rank": 35,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 299391,
+      "num": 299391,
+      "word": "衡水疫情防控",
+      "onboard_time": 1660817911,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295964,
@@ -1491,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267414,
+      "num": 267414,
+      "word": "上海市经信委回应发函向四川要电",
+      "onboard_time": 1660817792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267074,
       "num": 267074,
       "word": "食物语",
@@ -1539,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259390,
-      "num": 259390,
-      "word": "疑买玩具被拒男孩当街咬妈妈不松口",
-      "onboard_time": 1660814613,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259361,
       "num": 159102,
       "word": "网传披荆斩棘初舞台选曲",
@@ -1569,6 +1649,14 @@
       "onboard_time": 1660804173,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249547,
+      "num": 249547,
+      "word": "郑在玹新歌ForeverOnly",
+      "onboard_time": 1660816835,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 245219,
@@ -1688,6 +1776,14 @@
       "word": "有这3个突出症状要警惕热射病",
       "onboard_time": 1660796132,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217981,
+      "num": 217981,
+      "word": "熊猫能分辨出穿熊猫服的人类吗",
+      "onboard_time": 1660816412,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1851,6 +1947,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 174080,
+      "num": 174080,
+      "word": "你最喜欢什么小说设定",
+      "onboard_time": 1660817671,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172005,
       "num": 182925,
       "word": "劳荣枝案二审开庭审理画面",
@@ -1883,12 +1987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156078,
+      "num": 156078,
+      "word": "观音桥",
+      "onboard_time": 1660818210,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154153,
       "num": 154153,
       "word": "18件小事提升幸福感",
       "onboard_time": 1660779081,
       "rank": 36,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 150252,
+      "num": 150252,
+      "word": "恒大回应恒驰汽车遭并购传闻",
+      "onboard_time": 1660818331,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 145740,
@@ -1921,6 +2041,14 @@
       "onboard_time": 1660754245,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135595,
+      "num": 1550209,
+      "word": "中国这十年",
+      "onboard_time": 1660815270,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 133746,
@@ -2025,14 +2153,6 @@
       "onboard_time": 1660762933,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 47594,
-      "num": 1550209,
-      "word": "中国这十年",
-      "onboard_time": 1660815270,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 26213,
