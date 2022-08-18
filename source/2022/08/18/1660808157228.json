@@ -1,0 +1,410 @@
+{
+  "runTime": 1660808157228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2345134,
+        "num": 2345134,
+        "word": "部分广播剧下架",
+        "onboard_time": 1660796132,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 2270891,
+        "num": 2270891,
+        "word": "故意关停电梯小男孩已道歉",
+        "onboard_time": 1660803749,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100577,
+        "num": 1842167,
+        "word": "从卫星视角看长江源",
+        "onboard_time": 1660795234,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1735450,
+        "num": 1735450,
+        "word": "人民网评南京茶颜悦色",
+        "onboard_time": 1660803511,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1541395,
+        "num": 1541395,
+        "word": "妊娠纹镜头该被剪掉么",
+        "onboard_time": 1660802612,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200123,
+        "num": 1200123,
+        "word": "内衣和袜子可以一起洗吗",
+        "onboard_time": 1660805190,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 967374,
+        "num": 967374,
+        "word": "南京一茶颜悦色开业半小时后停业",
+        "onboard_time": 1660798116,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911699,
+        "num": 911699,
+        "word": "沉香夫妇同居",
+        "onboard_time": 1660805491,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 772433,
+        "num": 772433,
+        "word": "湘雅二院刘翔峰",
+        "onboard_time": 1660794452,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697437,
+        "num": 697437,
+        "word": "沉香重华虐疯了",
+        "onboard_time": 1660806571,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2772018,
+        "num": 687090,
+        "word": "吴京两次拒绝并躲开女嘉宾挽手",
+        "onboard_time": 1660806153,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1145614,
+        "num": 680994,
+        "word": "江疏影 我可以被议论但不能被诬陷",
+        "onboard_time": 1660806211,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786485,
+        "num": 672244,
+        "word": "王鹤棣用屁股撞虞书欣",
+        "onboard_time": 1660800272,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648491,
+        "num": 648491,
+        "word": "南京抽调警力维护茶颜排队秩序",
+        "onboard_time": 1660803810,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589976,
+        "num": 589976,
+        "word": "段奕宏迪丽热巴登VOGUEfilm封面",
+        "onboard_time": 1660800870,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 565495,
+        "num": 565495,
+        "word": "平安银行回应员工降薪",
+        "onboard_time": 1660806093,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 517450,
+        "num": 517450,
+        "word": "青海大通山洪16人死亡36人失联",
+        "onboard_time": 1660801292,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 447189,
+        "num": 447189,
+        "word": "哺乳期顾客染发遭店主秒拒",
+        "onboard_time": 1660800453,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440110,
+        "num": 440110,
+        "word": "黄之锋等29名被告承认串谋颠覆国家政权罪",
+        "onboard_time": 1660799554,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 436467,
+        "num": 436467,
+        "word": "重庆南川突发山火",
+        "onboard_time": 1660806571,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505778,
+        "num": 433084,
+        "word": "白鹿晒plog怀念十一",
+        "onboard_time": 1660806933,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479727,
+        "num": 428220,
+        "word": "杨幂把NPC吓跑",
+        "onboard_time": 1660802072,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441237,
+        "num": 425637,
+        "word": "星汉因所有人灿烂",
+        "onboard_time": 1660798295,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407008,
+        "num": 407008,
+        "word": "山西新增1例阳性曾坐Z22次列车",
+        "onboard_time": 1660806452,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360538,
+        "num": 360538,
+        "word": "国家电网支援成都地区电力供应",
+        "onboard_time": 1660807173,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350843,
+        "num": 350843,
+        "word": "考驾照最难的是哪个项目",
+        "onboard_time": 1660806330,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310300,
+        "num": 310300,
+        "word": "华为研发费用占年收入22.4%",
+        "onboard_time": 1660801952,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 309284,
+        "num": 309284,
+        "word": "原来猫咪也有平替",
+        "onboard_time": 1660803452,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274517,
+        "num": 274517,
+        "word": "00后的职场到底有多野",
+        "onboard_time": 1660806392,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243084,
+        "num": 243084,
+        "word": "S12全新冠军奖杯",
+        "onboard_time": 1660804950,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 416902,
+        "num": 243056,
+        "word": "金珉锡将9月solo出道",
+        "onboard_time": 1660807113,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370687,
+        "num": 243020,
+        "word": "赵丽颖执扇半遮面六宫格",
+        "onboard_time": 1660799312,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307596,
+        "num": 242989,
+        "word": "水月洞天翻拍选角",
+        "onboard_time": 1660801710,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292284,
+        "num": 242920,
+        "word": "戴燕妮开机仪式穿礼服",
+        "onboard_time": 1660807952,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254511,
+        "num": 242869,
+        "word": "密逃这期主题是家长的过度保护",
+        "onboard_time": 1660802132,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242858,
+        "num": 242858,
+        "word": "学生证的正确省钱攻略",
+        "onboard_time": 1660807233,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236749,
+        "num": 236749,
+        "word": "一不小心被陌生人治愈了",
+        "onboard_time": 1660802792,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 236004,
+        "num": 236004,
+        "word": "长春高新",
+        "onboard_time": 1660806812,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231022,
+        "num": 231022,
+        "word": "长沙湘雅二院回应网传医生作风问题",
+        "onboard_time": 1660800811,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228818,
+        "num": 228818,
+        "word": "iPhone14Pro将涨价100美元",
+        "onboard_time": 1660786529,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213132,
+        "num": 213132,
+        "word": "你觉得公摊面积多少算合理",
+        "onboard_time": 1660798957,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212393,
+        "num": 212393,
+        "word": "山西疫情防控",
+        "onboard_time": 1660807653,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210124,
+        "num": 210124,
+        "word": "劳荣枝案小木匠妻子称未收到赔偿",
+        "onboard_time": 1660787308,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207570,
+        "num": 207570,
+        "word": "患癌爷爷偷偷出院为重症脑炎孙子卖羊",
+        "onboard_time": 1660799435,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201506,
+        "num": 201506,
+        "word": "网红50万卖微信号被判交易无效",
+        "onboard_time": 1660787671,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182762,
+        "num": 182762,
+        "word": "出厂就是顶配的大熊猫",
+        "onboard_time": 1660801952,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175620,
+        "num": 175620,
+        "word": "河南新增3例本土确诊8例无症状",
+        "onboard_time": 1660805669,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343456,
+        "num": 175142,
+        "word": "杨紫又捅夫了",
+        "onboard_time": 1660808132,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172892,
+        "num": 172892,
+        "word": "护士3分钟跑赢死神救回准大学生",
+        "onboard_time": 1660808132,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 169875,
+        "num": 169875,
+        "word": "女儿视频记录父母31年爱情秘诀",
+        "onboard_time": 1660799850,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022智能视听大会#"
+    }
+  }
+}
