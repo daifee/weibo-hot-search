@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660811220692,
+  "endTime": 1660812212108,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3954627,
-      "num": 762691,
+      "num": 849039,
       "word": "吴京两次拒绝并躲开女嘉宾挽手",
       "onboard_time": 1660806153,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1660808132,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2489015,
+      "num": 2489015,
+      "word": "王心凌张栋梁为吴克群打call",
+      "onboard_time": 1660810651,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2448122,
@@ -51,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2059351,
+      "raw_hot": 2172865,
       "num": 418106,
       "word": "王鹤棣孙千合照",
       "onboard_time": 1660811132,
@@ -89,14 +97,6 @@
       "onboard_time": 1660751551,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1838647,
-      "num": 1838647,
-      "word": "王心凌张栋梁为吴克群打call",
-      "onboard_time": 1660810651,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1805135,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 910371,
+      "num": 910371,
+      "word": "陈晓好小一只",
+      "onboard_time": 1660811012,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 896526,
       "num": 896526,
       "word": "月升沧海大结局点映礼",
@@ -345,6 +353,14 @@
       "onboard_time": 1660801292,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 848167,
+      "num": 848167,
+      "word": "护士3分钟跑赢死神救回准大学生",
+      "onboard_time": 1660808132,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 845517,
@@ -393,14 +409,6 @@
       "onboard_time": 1660749933,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 730974,
-      "num": 730974,
-      "word": "护士3分钟跑赢死神救回准大学生",
-      "onboard_time": 1660808132,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 726565,
@@ -481,6 +489,14 @@
       "onboard_time": 1660799435,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639091,
+      "num": 639091,
+      "word": "霍格沃兹月饼",
+      "onboard_time": 1660810409,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 636388,
@@ -643,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512060,
+      "num": 512060,
+      "word": "张艺兴为郑钧披荆斩棘做宣传",
+      "onboard_time": 1660808373,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510243,
       "num": 354938,
       "word": "王大陆言承旭互动梦回少女时代",
@@ -705,14 +729,6 @@
       "onboard_time": 1660751128,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492164,
-      "num": 417913,
-      "word": "张艺兴为郑钧披荆斩棘做宣传",
-      "onboard_time": 1660808373,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 487927,
@@ -867,14 +883,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 393439,
-      "num": 393439,
-      "word": "霍格沃兹月饼",
-      "onboard_time": 1660810409,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 389803,
       "num": 389803,
       "word": "南北方天气差距有多大",
@@ -971,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354203,
+      "num": 354203,
+      "word": "厦门新增13例确诊病例",
+      "onboard_time": 1660809390,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352215,
       "num": 293489,
       "word": "XYG海报",
@@ -1051,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339259,
+      "num": 339259,
+      "word": "Z22次列车",
+      "onboard_time": 1660811193,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334148,
       "num": 238151,
       "word": "丁程鑫花少滑雪造型",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1660794871,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327232,
-      "num": 327232,
-      "word": "厦门新增13例确诊病例",
-      "onboard_time": 1660809390,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324349,
@@ -1131,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312109,
+      "num": 312109,
+      "word": "合肥将严格处置故意躺平房企",
+      "onboard_time": 1660810651,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 312005,
       "num": 312005,
       "word": "原来猫咪也有平替",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1660799850,
       "rank": 35,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 299418,
-      "num": 186512,
-      "word": "Z22次列车",
-      "onboard_time": 1660811193,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295964,
@@ -1243,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290035,
-      "num": 259904,
-      "word": "陈晓好小一只",
-      "onboard_time": 1660811012,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 288668,
       "num": 202384,
       "word": "苍兰诀封神名场面",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1660806392,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273765,
+      "num": 273765,
+      "word": "西湖暴风雨摆渡人拼命保护游船",
+      "onboard_time": 1660809452,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 269824,
@@ -1403,14 +1419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253234,
-      "num": 253234,
-      "word": "西湖暴风雨摆渡人拼命保护游船",
-      "onboard_time": 1660809452,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 250976,
       "num": 250976,
       "word": "杭州街头现彩虹洒水车",
@@ -1427,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241606,
+      "num": 213523,
+      "word": "宋亚轩出道999天",
+      "onboard_time": 1660811670,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240018,
       "num": 201929,
       "word": "刘雨昕为街舞大秀定制专属音乐",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1660780405,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236928,
+      "num": 236928,
+      "word": "没想到旅个游会这么社死",
+      "onboard_time": 1660810231,
+      "rank": 39,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 236720,
@@ -1497,14 +1521,6 @@
       "onboard_time": 1660799914,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 219802,
-      "num": 219802,
-      "word": "没想到旅个游会这么社死",
-      "onboard_time": 1660810231,
-      "rank": 39,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 218991,
@@ -1571,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202831,
+      "num": 202831,
+      "word": "刘翔峰已被免职",
+      "onboard_time": 1660811551,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201830,
       "num": 144133,
       "word": "王俊凯断桥黄雀市第一江景房vlog",
@@ -1611,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193104,
-      "num": 193104,
-      "word": "合肥将严格处置故意躺平房企",
-      "onboard_time": 1660810651,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 190690,
       "num": 190690,
       "word": "他变了我的世界崩塌了",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1660731630,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 182426,
+      "num": 182426,
+      "word": "EDG对战FPX",
+      "onboard_time": 1660812032,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 181968,
@@ -1724,7 +1748,7 @@
     },
     {
       "raw_hot": 145740,
-      "num": 1987228,
+      "num": 2064954,
       "word": "从卫星视角看长江源",
       "onboard_time": 1660795234,
       "rank": 2,

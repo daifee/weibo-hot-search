@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660811220692,
+  "endTime": 1660812212108,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 3954627,
-      "num": 762691,
+      "num": 849039,
       "word": "吴京两次拒绝并躲开女嘉宾挽手",
       "onboard_time": 1660806153,
       "rank": 10,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2489015,
+      "num": 2489015,
+      "word": "王心凌张栋梁为吴克群打call",
+      "onboard_time": 1660810651,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2448122,
       "num": 2448122,
       "word": "Z22次列车发现多例阳性",
@@ -379,6 +387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2172865,
+      "num": 418106,
+      "word": "王鹤棣孙千合照",
+      "onboard_time": 1660811132,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2113759,
       "num": 2113759,
       "word": "涪陵山火",
@@ -401,14 +417,6 @@
       "onboard_time": 1660707631,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2059351,
-      "num": 418106,
-      "word": "王鹤棣孙千合照",
-      "onboard_time": 1660811132,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2051761,
@@ -521,14 +529,6 @@
       "onboard_time": 1660654772,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1838647,
-      "num": 1838647,
-      "word": "王心凌张栋梁为吴克群打call",
-      "onboard_time": 1660810651,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1837395,
@@ -1859,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 910371,
+      "num": 910371,
+      "word": "陈晓好小一只",
+      "onboard_time": 1660811012,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 909782,
       "num": 909782,
       "word": "东部4省要完成中央财政上缴任务",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1660649250,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 848167,
+      "num": 848167,
+      "word": "护士3分钟跑赢死神救回准大学生",
+      "onboard_time": 1660808132,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 846930,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1660652610,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 730974,
-      "num": 730974,
-      "word": "护士3分钟跑赢死神救回准大学生",
-      "onboard_time": 1660808132,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 727682,
@@ -2753,6 +2761,14 @@
       "onboard_time": 1660654471,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 639091,
+      "num": 639091,
+      "word": "霍格沃兹月饼",
+      "onboard_time": 1660810409,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 637554,
@@ -3691,6 +3707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 512060,
+      "num": 512060,
+      "word": "张艺兴为郑钧披荆斩棘做宣传",
+      "onboard_time": 1660808373,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511317,
       "num": 511317,
       "word": "今年暑期档最让你上头的剧",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1660751128,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492164,
-      "num": 417913,
-      "word": "张艺兴为郑钧披荆斩棘做宣传",
-      "onboard_time": 1660808373,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 491789,
@@ -4939,14 +4955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 393439,
-      "num": 393439,
-      "word": "霍格沃兹月饼",
-      "onboard_time": 1660810409,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 391841,
       "num": 340691,
       "word": "导演说陈晓自带忧郁感",
@@ -5547,6 +5555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354203,
+      "num": 354203,
+      "word": "厦门新增13例确诊病例",
+      "onboard_time": 1660809390,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353804,
       "num": 353804,
       "word": "每一个中国人都应铭记今天",
@@ -5803,6 +5819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339259,
+      "num": 339259,
+      "word": "Z22次列车",
+      "onboard_time": 1660811193,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338911,
       "num": 283666,
       "word": "暑期档热播剧女主群像",
@@ -6016,14 +6040,6 @@
       "word": "拜登夫人新冠阳性",
       "onboard_time": 1660659034,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327232,
-      "num": 327232,
-      "word": "厦门新增13例确诊病例",
-      "onboard_time": 1660809390,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6283,6 +6299,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 312109,
+      "num": 312109,
+      "word": "合肥将严格处置故意躺平房企",
+      "onboard_time": 1660810651,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 312005,
       "num": 312005,
       "word": "原来猫咪也有平替",
@@ -6507,14 +6531,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 299418,
-      "num": 186512,
-      "word": "Z22次列车",
-      "onboard_time": 1660811193,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299296,
       "num": 230900,
       "word": "二十不惑2全员比耶照",
@@ -6665,14 +6681,6 @@
       "onboard_time": 1660800272,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290035,
-      "num": 259904,
-      "word": "陈晓好小一只",
-      "onboard_time": 1660811012,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 290005,
@@ -6977,6 +6985,14 @@
       "onboard_time": 1660647390,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273765,
+      "num": 273765,
+      "word": "西湖暴风雨摆渡人拼命保护游船",
+      "onboard_time": 1660809452,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 272973,
@@ -7363,14 +7379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253234,
-      "num": 253234,
-      "word": "西湖暴风雨摆渡人拼命保护游船",
-      "onboard_time": 1660809452,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 252467,
       "num": 252467,
       "word": "今晨成都上空现绝美火烧云",
@@ -7531,6 +7539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 241606,
+      "num": 213523,
+      "word": "宋亚轩出道999天",
+      "onboard_time": 1660811670,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241239,
       "num": 241239,
       "word": "今年夏天热得有多夸张",
@@ -7593,6 +7609,14 @@
       "onboard_time": 1660635212,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236928,
+      "num": 236928,
+      "word": "没想到旅个游会这么社死",
+      "onboard_time": 1660810231,
+      "rank": 39,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 236720,
@@ -7857,14 +7881,6 @@
       "onboard_time": 1660799914,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 219802,
-      "num": 219802,
-      "word": "没想到旅个游会这么社死",
-      "onboard_time": 1660810231,
-      "rank": 39,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 219563,
@@ -8139,6 +8155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202831,
+      "num": 202831,
+      "word": "刘翔峰已被免职",
+      "onboard_time": 1660811551,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202090,
       "num": 202090,
       "word": "明日方舟 博士行为测试",
@@ -8273,14 +8297,6 @@
       "onboard_time": 1660704268,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193104,
-      "num": 193104,
-      "word": "合肥将严格处置故意躺平房企",
-      "onboard_time": 1660810651,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 192537,
@@ -8473,6 +8489,14 @@
       "onboard_time": 1660623337,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182426,
+      "num": 182426,
+      "word": "EDG对战FPX",
+      "onboard_time": 1660812032,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 181953,
@@ -8900,7 +8924,7 @@
     },
     {
       "raw_hot": 145740,
-      "num": 1987228,
+      "num": 2064954,
       "word": "从卫星视角看长江源",
       "onboard_time": 1660795234,
       "rank": 2,

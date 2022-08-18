@@ -1,0 +1,410 @@
+{
+  "runTime": 1660812212108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2489015,
+        "num": 2489015,
+        "word": "王心凌张栋梁为吴克群打call",
+        "onboard_time": 1660810651,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2161679,
+        "num": 2161679,
+        "word": "杨紫又捅夫了",
+        "onboard_time": 1660808132,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98352,
+        "num": 2064954,
+        "word": "从卫星视角看长江源",
+        "onboard_time": 1660795234,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2003561,
+        "num": 2003561,
+        "word": "四川40℃以上停止户外露天作业",
+        "onboard_time": 1660808373,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130760,
+        "num": 1130760,
+        "word": "故意关停电梯小男孩已道歉",
+        "onboard_time": 1660803749,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036809,
+        "num": 1036809,
+        "word": "内衣和袜子可以一起洗吗",
+        "onboard_time": 1660805190,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1003278,
+        "num": 1003278,
+        "word": "妊娠纹镜头该被剪掉么",
+        "onboard_time": 1660802612,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975644,
+        "num": 975644,
+        "word": "人民网评南京茶颜悦色",
+        "onboard_time": 1660803511,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 910371,
+        "num": 910371,
+        "word": "陈晓好小一只",
+        "onboard_time": 1660811012,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 849344,
+        "num": 849344,
+        "word": "湘雅二院刘翔峰",
+        "onboard_time": 1660794452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255536,
+        "num": 849039,
+        "word": "吴京两次拒绝并躲开女嘉宾挽手",
+        "onboard_time": 1660806153,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 848167,
+        "num": 848167,
+        "word": "护士3分钟跑赢死神救回准大学生",
+        "onboard_time": 1660808132,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 663521,
+        "num": 663521,
+        "word": "部分广播剧下架",
+        "onboard_time": 1660796132,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 653676,
+        "num": 653676,
+        "word": "江疏影 我可以被议论但不能被诬陷",
+        "onboard_time": 1660806211,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639091,
+        "num": 639091,
+        "word": "霍格沃兹月饼",
+        "onboard_time": 1660810409,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 630235,
+        "num": 630235,
+        "word": "国家电网支援成都地区电力供应",
+        "onboard_time": 1660807173,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520972,
+        "num": 520972,
+        "word": "南京一茶颜悦色开业半小时后停业",
+        "onboard_time": 1660798116,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512060,
+        "num": 512060,
+        "word": "张艺兴为郑钧披荆斩棘做宣传",
+        "onboard_time": 1660808373,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466500,
+        "num": 466500,
+        "word": "考驾照最难的是哪个项目",
+        "onboard_time": 1660806330,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385653,
+        "num": 385653,
+        "word": "湘雅二院刘翔峰被免职",
+        "onboard_time": 1660808975,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2172865,
+        "num": 385130,
+        "word": "王鹤棣孙千合照",
+        "onboard_time": 1660811132,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456815,
+        "num": 384535,
+        "word": "苍兰诀",
+        "onboard_time": 1660809213,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379638,
+        "num": 379638,
+        "word": "重庆南川突发山火",
+        "onboard_time": 1660806571,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372236,
+        "num": 372236,
+        "word": "沉香重华虐疯了",
+        "onboard_time": 1660806571,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368753,
+        "num": 368753,
+        "word": "平安银行回应员工降薪",
+        "onboard_time": 1660806093,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 354203,
+        "num": 354203,
+        "word": "厦门新增13例确诊病例",
+        "onboard_time": 1660809390,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339259,
+        "num": 339259,
+        "word": "Z22次列车",
+        "onboard_time": 1660811193,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312109,
+        "num": 312109,
+        "word": "合肥将严格处置故意躺平房企",
+        "onboard_time": 1660810651,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 300604,
+        "num": 300604,
+        "word": "学生证的正确省钱攻略",
+        "onboard_time": 1660807233,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291334,
+        "num": 291334,
+        "word": "青海大通山洪16人死亡36人失联",
+        "onboard_time": 1660801292,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 361653,
+        "num": 290895,
+        "word": "星汉因所有人灿烂",
+        "onboard_time": 1660798295,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356087,
+        "num": 289497,
+        "word": "沉香夫妇同居",
+        "onboard_time": 1660805491,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317979,
+        "num": 288998,
+        "word": "白鹿晒plog怀念十一",
+        "onboard_time": 1660806933,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286370,
+        "num": 286370,
+        "word": "南京抽调警力维护茶颜排队秩序",
+        "onboard_time": 1660803810,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278050,
+        "num": 278050,
+        "word": "杨幂把NPC吓跑",
+        "onboard_time": 1660802072,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273765,
+        "num": 273765,
+        "word": "西湖暴风雨摆渡人拼命保护游船",
+        "onboard_time": 1660809452,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 273583,
+        "num": 273583,
+        "word": "石家庄新增2例阳性曾乘坐Z22次列车",
+        "onboard_time": 1660808193,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236928,
+        "num": 236928,
+        "word": "没想到旅个游会这么社死",
+        "onboard_time": 1660810231,
+        "rank": 37,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 234222,
+        "num": 234222,
+        "word": "患癌爷爷偷偷出院为重症脑炎孙子卖羊",
+        "onboard_time": 1660799435,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217112,
+        "num": 217112,
+        "word": "山西新增1例阳性曾坐Z22次列车",
+        "onboard_time": 1660806452,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244633,
+        "num": 213724,
+        "word": "刘雨昕和下班狗贴贴",
+        "onboard_time": 1660810529,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241606,
+        "num": 213523,
+        "word": "宋亚轩出道999天",
+        "onboard_time": 1660811670,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210252,
+        "num": 210252,
+        "word": "黄之锋等29名被告承认串谋颠覆国家政权罪",
+        "onboard_time": 1660799554,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 205580,
+        "num": 205580,
+        "word": "00后的职场到底有多野",
+        "onboard_time": 1660806392,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202831,
+        "num": 202831,
+        "word": "刘翔峰已被免职",
+        "onboard_time": 1660811551,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202554,
+        "num": 202554,
+        "word": "哺乳期顾客染发遭店主秒拒",
+        "onboard_time": 1660800453,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193024,
+        "num": 193024,
+        "word": "华为研发费用占年收入22.4%",
+        "onboard_time": 1660801952,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 188784,
+        "num": 188784,
+        "word": "原来猫咪也有平替",
+        "onboard_time": 1660803452,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182426,
+        "num": 182426,
+        "word": "EDG对战FPX",
+        "onboard_time": 1660812032,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168711,
+        "num": 168711,
+        "word": "女童母亲谅解关停商场电梯男童",
+        "onboard_time": 1660810890,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳考察调研#"
+    }
+  }
+}
