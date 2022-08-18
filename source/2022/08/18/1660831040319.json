@@ -1,0 +1,410 @@
+{
+  "runTime": 1660831040319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109181,
+        "num": 2109181,
+        "word": "应该多久洗一次头有利头皮",
+        "onboard_time": 1660826011,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243227,
+        "num": 1243227,
+        "word": "重庆真的退出四大火炉城市了吗",
+        "onboard_time": 1660818571,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86298,
+        "num": 1178354,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1122814,
+        "num": 1122814,
+        "word": "核酸检测机器人15秒一签",
+        "onboard_time": 1660828770,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019819,
+        "num": 1019819,
+        "word": "月升沧海大结局点映礼",
+        "onboard_time": 1660823191,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 850748,
+        "num": 850748,
+        "word": "为什么不建议在晚上做决定",
+        "onboard_time": 1660829613,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 990388,
+        "num": 847761,
+        "word": "越妃你是我的神",
+        "onboard_time": 1660827931,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822655,
+        "num": 822655,
+        "word": "老人痛失爱子后替子还债86万",
+        "onboard_time": 1660824871,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960449,
+        "num": 808031,
+        "word": "吴露可逃",
+        "onboard_time": 1660823250,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 786295,
+        "num": 786295,
+        "word": "成雅高速",
+        "onboard_time": 1660829131,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 838286,
+        "num": 766240,
+        "word": "任达华18岁女儿出道",
+        "onboard_time": 1660830450,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648075,
+        "num": 648075,
+        "word": "劳荣枝否认故意杀人",
+        "onboard_time": 1660823130,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585283,
+        "num": 585283,
+        "word": "月升沧海",
+        "onboard_time": 1660819052,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564021,
+        "num": 564021,
+        "word": "EDG获得冒泡赛资格",
+        "onboard_time": 1660829311,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 497171,
+        "num": 497171,
+        "word": "浙江卫视818晚会",
+        "onboard_time": 1660824269,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454667,
+        "num": 454667,
+        "word": "重庆沙坪坝疫情防控",
+        "onboard_time": 1660823971,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448288,
+        "num": 448288,
+        "word": "女子高温天晒土豆干6小时变薯片",
+        "onboard_time": 1660816653,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417845,
+        "num": 417845,
+        "word": "河南下周二实质性降温",
+        "onboard_time": 1660827931,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415747,
+        "num": 415747,
+        "word": "湘雅二院通报医生医疗作风问题",
+        "onboard_time": 1660823493,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355205,
+        "num": 355205,
+        "word": "医考帮崩了",
+        "onboard_time": 1660829732,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3275904,
+        "num": 351496,
+        "word": "鹿晗长发丸子头",
+        "onboard_time": 1660829071,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1892672,
+        "num": 351355,
+        "word": "于正晒与孔雪儿合照",
+        "onboard_time": 1660830635,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541642,
+        "num": 347564,
+        "word": "鞠婧祎拿草扇",
+        "onboard_time": 1660828172,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339085,
+        "num": 339085,
+        "word": "河北一感染者轨迹涉北京地铁",
+        "onboard_time": 1660824091,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309860,
+        "num": 309860,
+        "word": "居民睡觉时家中马桶突然着火",
+        "onboard_time": 1660813292,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298303,
+        "num": 298303,
+        "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+        "onboard_time": 1660814613,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275069,
+        "num": 275069,
+        "word": "EDG战胜FPX",
+        "onboard_time": 1660827691,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272054,
+        "num": 272054,
+        "word": "四川40℃以上停止户外露天作业",
+        "onboard_time": 1660808373,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262049,
+        "num": 262049,
+        "word": "eStar8分钟闪电战",
+        "onboard_time": 1660828412,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260255,
+        "num": 260255,
+        "word": "东部战区海军航空兵夜训驱离外机",
+        "onboard_time": 1660815932,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 458547,
+        "num": 260240,
+        "word": "偷偷藏不住主创同框路透",
+        "onboard_time": 1660824510,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475177,
+        "num": 259978,
+        "word": "唐周 寸步不离",
+        "onboard_time": 1660830393,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401558,
+        "num": 259943,
+        "word": "王一博陈宇今天洗澡了吗",
+        "onboard_time": 1660826011,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397416,
+        "num": 259707,
+        "word": "王源818晚会星空西装造型",
+        "onboard_time": 1660830336,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339614,
+        "num": 259614,
+        "word": "王鹤棣被叫bking的反应",
+        "onboard_time": 1660821509,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335923,
+        "num": 259461,
+        "word": "名创优品再次道歉",
+        "onboard_time": 1660817132,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259326,
+        "num": 259326,
+        "word": "男生分手后真的会后悔吗",
+        "onboard_time": 1660830512,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237903,
+        "num": 237903,
+        "word": "红旗17导弹神级走位瞬间",
+        "onboard_time": 1660830095,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 236588,
+        "num": 236588,
+        "word": "Z22次列车尚未发现其他感染人员",
+        "onboard_time": 1660823436,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236214,
+        "num": 236214,
+        "word": "新娘婚礼前骨折跪骑小车完成仪式",
+        "onboard_time": 1660819352,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224550,
+        "num": 224550,
+        "word": "如何提醒老板涨工资",
+        "onboard_time": 1660830934,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219302,
+        "num": 219302,
+        "word": "熬夜久了都有哪些小毛病",
+        "onboard_time": 1660822171,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 219018,
+        "num": 219018,
+        "word": "爱情里真正的遗憾是什么",
+        "onboard_time": 1660826189,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210870,
+        "num": 210870,
+        "word": "EDG BP",
+        "onboard_time": 1660827631,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209562,
+        "num": 209562,
+        "word": "辽宁舰舰员脱下训练防护服一幕",
+        "onboard_time": 1660822833,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 193435,
+        "num": 193435,
+        "word": "打野的尽头是一片海",
+        "onboard_time": 1660830214,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181145,
+        "num": 181145,
+        "word": "原来被车溅到水可以报警",
+        "onboard_time": 1660815213,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303725,
+        "num": 165554,
+        "word": "周易影视辟谣水月洞天翻拍传闻",
+        "onboard_time": 1660830994,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145554,
+        "num": 145554,
+        "word": "男子不忌口结石长满全身疼得嗷嗷叫",
+        "onboard_time": 1660830813,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142639,
+        "num": 142639,
+        "word": "西南大学成为全国最热高校",
+        "onboard_time": 1660813352,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022智能视听大会#"
+    }
+  }
+}

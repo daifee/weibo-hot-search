@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660830326768,
+  "endTime": 1660831040319,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -3019,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2109181,
+      "num": 2109181,
+      "word": "应该多久洗一次头有利头皮",
+      "onboard_time": 1660826011,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2106009,
       "num": 2106009,
       "word": "长期早醒可能是抑郁症的信号",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1659583596,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2076343,
-      "num": 2076343,
-      "word": "应该多久洗一次头有利头皮",
-      "onboard_time": 1660826011,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2074267,
@@ -3593,6 +3593,14 @@
       "onboard_time": 1660272931,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1892672,
+      "num": 351355,
+      "word": "于正晒与孔雪儿合照",
+      "onboard_time": 1660830635,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1888618,
@@ -4980,7 +4988,7 @@
     },
     {
       "raw_hot": 1508335,
-      "num": 612063,
+      "num": 648075,
       "word": "劳荣枝否认故意杀人",
       "onboard_time": 1660823130,
       "rank": 10,
@@ -7593,6 +7601,14 @@
       "onboard_time": 1659936283,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1122814,
+      "num": 1122814,
+      "word": "核酸检测机器人15秒一签",
+      "onboard_time": 1660828770,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1120273,
@@ -10435,6 +10451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 850748,
+      "num": 850748,
+      "word": "为什么不建议在晚上做决定",
+      "onboard_time": 1660829613,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 850483,
       "num": 850483,
       "word": "你心中的偶像剧男主人设TOP",
@@ -10585,6 +10609,14 @@
       "onboard_time": 1660483171,
       "rank": 20,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 838286,
+      "num": 766240,
+      "word": "任达华18岁女儿出道",
+      "onboard_time": 1660830450,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 834976,
@@ -11265,6 +11297,14 @@
       "onboard_time": 1659452068,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786295,
+      "num": 786295,
+      "word": "成雅高速",
+      "onboard_time": 1660829131,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 785900,
@@ -12305,14 +12345,6 @@
       "onboard_time": 1660053159,
       "rank": 6,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 722873,
-      "num": 722873,
-      "word": "核酸检测机器人15秒一签",
-      "onboard_time": 1660828770,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 722339,
@@ -15923,6 +15955,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 564021,
+      "num": 564021,
+      "word": "EDG获得冒泡赛资格",
+      "onboard_time": 1660829311,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 563956,
       "num": 563956,
       "word": "台湾地图上飘出山东味道",
@@ -17521,14 +17561,6 @@
       "onboard_time": 1659500116,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 519518,
-      "num": 519518,
-      "word": "成雅高速",
-      "onboard_time": 1660829131,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 519263,
@@ -19555,6 +19587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475177,
+      "num": 259978,
+      "word": "唐周 寸步不离",
+      "onboard_time": 1660830393,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475020,
       "num": 475020,
       "word": "儿子成绩不好妈妈网购3888元灵宝",
@@ -21563,14 +21603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435516,
-      "num": 435516,
-      "word": "EDG获得冒泡赛资格",
-      "onboard_time": 1660829311,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 435358,
       "num": 435358,
       "word": "强生面临约3.8万起致癌诉讼",
@@ -22561,6 +22593,14 @@
       "onboard_time": 1660472132,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 417845,
+      "num": 417845,
+      "word": "河南下周二实质性降温",
+      "onboard_time": 1660827931,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417763,
@@ -23721,6 +23761,14 @@
       "onboard_time": 1659424965,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397416,
+      "num": 259707,
+      "word": "王源818晚会星空西装造型",
+      "onboard_time": 1660830336,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 397346,
@@ -26683,14 +26731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 356746,
-      "num": 356746,
-      "word": "河南下周二实质性降温",
-      "onboard_time": 1660827931,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356698,
       "num": 356698,
       "word": "研究生毕业生及在校生征兵年龄放宽",
@@ -26777,6 +26817,14 @@
       "onboard_time": 1659941737,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355205,
+      "num": 355205,
+      "word": "医考帮崩了",
+      "onboard_time": 1660829732,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 355190,
@@ -27937,14 +27985,6 @@
       "onboard_time": 1660827271,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339539,
-      "num": 339539,
-      "word": "为什么不建议在晚上做决定",
-      "onboard_time": 1660829613,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 338911,
@@ -30504,6 +30544,14 @@
       "word": "冰雨火没有一处废笔",
       "onboard_time": 1660469371,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303725,
+      "num": 165554,
+      "word": "周易影视辟谣水月洞天翻拍传闻",
+      "onboard_time": 1660830994,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -33483,6 +33531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259326,
+      "num": 259326,
+      "word": "男生分手后真的会后悔吗",
+      "onboard_time": 1660830512,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259263,
       "num": 199606,
       "word": "乘风破浪总决赛应援海报",
@@ -35011,6 +35067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237903,
+      "num": 237903,
+      "word": "红旗17导弹神级走位瞬间",
+      "onboard_time": 1660830095,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 237896,
       "num": 237896,
       "word": "原来这些东西都是国产的",
@@ -35993,6 +36057,14 @@
       "onboard_time": 1660812032,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224550,
+      "num": 224550,
+      "word": "如何提醒老板涨工资",
+      "onboard_time": 1660830934,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224397,
@@ -37483,14 +37555,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 198791,
-      "num": 198791,
-      "word": "医考帮崩了",
-      "onboard_time": 1660829732,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 198571,
       "num": 198571,
       "word": "C罗连续18年入围金球奖候选",
@@ -37768,6 +37832,14 @@
       "word": "光与夜之恋 剧情",
       "onboard_time": 1659741863,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "打野的尽头是一片海",
+      "onboard_time": 1660830214,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -39563,14 +39635,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 149832,
-      "num": 149832,
-      "word": "红旗17导弹神级走位瞬间",
-      "onboard_time": 1660830095,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 149788,
       "num": 149788,
       "word": "司马南",
@@ -39705,6 +39769,14 @@
       "onboard_time": 1660795234,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 145554,
+      "num": 145554,
+      "word": "男子不忌口结石长满全身疼得嗷嗷叫",
+      "onboard_time": 1660830813,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145257,
@@ -39985,14 +40057,6 @@
       "onboard_time": 1660604659,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132792,
-      "num": 132792,
-      "word": "打野的尽头是一片海",
-      "onboard_time": 1660830214,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 132605,
