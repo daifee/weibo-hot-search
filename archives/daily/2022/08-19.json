@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660861338366,
+  "endTime": 1660862332951,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365907,
+      "num": 365907,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363674,
       "num": 363674,
       "word": "狗子装睡有多明显",
@@ -193,6 +201,14 @@
       "onboard_time": 1660835552,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 330444,
+      "num": 330444,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 330059,
@@ -235,20 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285417,
-      "num": 285417,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282718,
       "num": 164610,
       "word": "于正晒与孔雪儿合照",
       "onboard_time": 1660830635,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282495,
+      "num": 282495,
+      "word": "女子给网友介绍女友竟是自己男友",
+      "onboard_time": 1660858030,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269129,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256199,
+      "num": 256199,
+      "word": "里根号演练遭多枚导弹同时攻击",
+      "onboard_time": 1660853351,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 243090,
       "num": 243090,
       "word": "太原疫情防控",
@@ -275,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238991,
-      "num": 238991,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 215006,
+      "num": 215006,
+      "word": "80名外国人捐5万拯救倒闭理发店",
+      "onboard_time": 1660855812,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214632,
@@ -323,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186383,
-      "num": 186383,
-      "word": "里根号演练遭多枚导弹同时攻击",
-      "onboard_time": 1660853351,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
       "onboard_time": 1660840347,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183687,
+      "num": 183687,
+      "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+      "onboard_time": 1660847894,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175059,
@@ -353,14 +377,6 @@
       "onboard_time": 1660832314,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164171,
-      "num": 164171,
-      "word": "80名外国人捐5万拯救倒闭理发店",
-      "onboard_time": 1660855812,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163876,
@@ -385,22 +401,6 @@
       "onboard_time": 1660826189,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151900,
-      "num": 151900,
-      "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
-      "onboard_time": 1660847894,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150117,
-      "num": 150117,
-      "word": "女子给网友介绍女友竟是自己男友",
-      "onboard_time": 1660858030,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148911,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 130056,
-      "num": 75535,
+      "num": 82252,
       "word": "专家称没有证据证明鱼会感染新冠",
       "onboard_time": 1660846995,
       "rank": 49,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82796,
+      "num": 82240,
+      "word": "马伊琍谈被裁员的两面性",
+      "onboard_time": 1660858812,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37541,
       "num": 34962,
       "word": "毛晓彤说王子异拍戏时每天吃草",
@@ -523,16 +531,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 34933,
-      "num": 34933,
-      "word": "马伊琍谈被裁员的两面性",
-      "onboard_time": 1660858812,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33659,
-      "num": 29348,
+      "num": 31974,
       "word": "关晓彤央视818晚会造型",
       "onboard_time": 1660852571,
       "rank": 41,
@@ -547,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27897,
+      "num": 27897,
+      "word": "沉香重华预告有点刺激",
+      "onboard_time": 1660856051,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 21264,
       "num": 21264,
       "word": "2000多年前冰箱什么样",
       "onboard_time": 1660857972,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16219,
-      "num": 16219,
-      "word": "沉香重华预告有点刺激",
-      "onboard_time": 1660856051,
-      "rank": 45,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
