@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660862332951,
+  "endTime": 1660864935141,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -35,12 +35,28 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 831451,
+      "num": 831451,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 809928,
       "num": 809928,
       "word": "警方通报四川成雅高速车祸",
       "onboard_time": 1660832014,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 697975,
+      "num": 507257,
+      "word": "女子给网友介绍女友竟是自己男友",
+      "onboard_time": 1660858030,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 693430,
@@ -91,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553778,
+      "num": 553778,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547651,
       "num": 547651,
       "word": "中方不接受所谓日本专属经济区说法",
@@ -123,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473664,
+      "num": 473664,
+      "word": "里根号演练遭多枚导弹同时攻击",
+      "onboard_time": 1660853351,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 466718,
+      "num": 466718,
+      "word": "80名外国人捐5万拯救倒闭理发店",
+      "onboard_time": 1660855812,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456781,
       "num": 456781,
       "word": "应该多久洗一次头有利头皮",
@@ -147,6 +187,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412618,
+      "num": 412618,
+      "word": "刘恺威披荆斩棘入营开箱vlog",
+      "onboard_time": 1660846395,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 399368,
+      "num": 399368,
+      "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+      "onboard_time": 1660847894,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395291,
       "num": 395291,
       "word": "男生分手后真的会后悔吗",
@@ -163,28 +219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365907,
-      "num": 365907,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 363674,
       "num": 363674,
       "word": "狗子装睡有多明显",
       "onboard_time": 1660837474,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 363285,
-      "num": 363285,
-      "word": "刘恺威披荆斩棘入营开箱vlog",
-      "onboard_time": 1660846395,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 350113,
@@ -195,20 +235,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345861,
+      "num": 345861,
+      "word": "马伊琍谈被裁员的两面性",
+      "onboard_time": 1660858812,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340040,
       "num": 340040,
       "word": "中日第九次高级别政治对话",
       "onboard_time": 1660835552,
       "rank": 19,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 330444,
-      "num": 330444,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 330059,
@@ -259,20 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282495,
-      "num": 282495,
-      "word": "女子给网友介绍女友竟是自己男友",
-      "onboard_time": 1660858030,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269129,
       "num": 145678,
       "word": "星汉灿烂",
       "onboard_time": 1660833933,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266693,
+      "num": 266693,
+      "word": "湘雅二院通报医生医疗作风问题",
+      "onboard_time": 1660823493,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261967,
@@ -283,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256199,
-      "num": 256199,
-      "word": "里根号演练遭多枚导弹同时攻击",
-      "onboard_time": 1660853351,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 243090,
       "num": 243090,
       "word": "太原疫情防控",
@@ -299,11 +331,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215006,
-      "num": 215006,
-      "word": "80名外国人捐5万拯救倒闭理发店",
-      "onboard_time": 1660855812,
-      "rank": 13,
+      "raw_hot": 242902,
+      "num": 242902,
+      "word": "应渊出息了",
+      "onboard_time": 1660863920,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235561,
+      "num": 235561,
+      "word": "女子逛夜市遇五花肉摊位爬满虫子",
+      "onboard_time": 1660842860,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -331,20 +371,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199840,
+      "num": 199840,
+      "word": "专家称没有证据证明鱼会感染新冠",
+      "onboard_time": 1660846995,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194737,
       "num": 145490,
       "word": "越妃你是我的神",
       "onboard_time": 1660827931,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189399,
-      "num": 164162,
-      "word": "女子逛夜市遇五花肉摊位爬满虫子",
-      "onboard_time": 1660842860,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185561,
@@ -355,20 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183687,
-      "num": 183687,
-      "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
-      "onboard_time": 1660847894,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175059,
       "num": 175059,
       "word": "还记得读书时你喜欢的人吗",
       "onboard_time": 1660839511,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172982,
+      "num": 172982,
+      "word": "陈哲远换发型",
+      "onboard_time": 1660862838,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 168003,
@@ -395,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157653,
+      "num": 157653,
+      "word": "重庆新增1例本土确诊3例无症状",
+      "onboard_time": 1660845256,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156224,
       "num": 156224,
       "word": "爱情里真正的遗憾是什么",
       "onboard_time": 1660826189,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148911,
-      "num": 148911,
-      "word": "湘雅二院通报医生医疗作风问题",
-      "onboard_time": 1660823493,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146233,
@@ -435,14 +475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130056,
-      "num": 82252,
-      "word": "专家称没有证据证明鱼会感染新冠",
-      "onboard_time": 1660846995,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120943,
       "num": 76280,
       "word": "苏有朋说看我披荆斩棘",
@@ -457,14 +489,6 @@
       "onboard_time": 1660829131,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 114796,
-      "num": 114796,
-      "word": "重庆新增1例本土确诊3例无症状",
-      "onboard_time": 1660845256,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111693,
@@ -507,12 +531,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82796,
-      "num": 82240,
-      "word": "马伊琍谈被裁员的两面性",
-      "onboard_time": 1660858812,
-      "rank": 42,
+      "raw_hot": 91370,
+      "num": 91370,
+      "word": "福布斯中国发布2022中国最佳CEO",
+      "onboard_time": 1660864340,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 87477,
+      "num": 87477,
+      "word": "2000多年前冰箱什么样",
+      "onboard_time": 1660857972,
+      "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73865,
+      "num": 73865,
+      "word": "这是成都人盼的那朵乌云吗",
+      "onboard_time": 1660855631,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37541,
@@ -539,28 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32776,
-      "num": 32776,
-      "word": "这是成都人盼的那朵乌云吗",
-      "onboard_time": 1660855631,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27897,
       "num": 27897,
       "word": "沉香重华预告有点刺激",
       "onboard_time": 1660856051,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21264,
-      "num": 21264,
-      "word": "2000多年前冰箱什么样",
-      "onboard_time": 1660857972,
-      "rank": 41,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
