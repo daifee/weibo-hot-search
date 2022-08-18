@@ -1,0 +1,410 @@
+{
+  "runTime": 1660815506827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2650498,
+        "num": 2650498,
+        "word": "张北海去世",
+        "onboard_time": 1660812873,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1706211,
+        "num": 1706211,
+        "word": "王心凌张栋梁为吴克群打call",
+        "onboard_time": 1660810651,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47594,
+        "num": 1550209,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1476842,
+        "num": 1476842,
+        "word": "四川40℃以上停止户外露天作业",
+        "onboard_time": 1660808373,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263415,
+        "num": 1263415,
+        "word": "杨紫又捅夫了",
+        "onboard_time": 1660808132,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1141443,
+        "num": 1141443,
+        "word": "西南大学成为全国最热高校",
+        "onboard_time": 1660813352,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118684,
+        "num": 1118684,
+        "word": "刘翔峰已被免职",
+        "onboard_time": 1660811551,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108365,
+        "num": 1108365,
+        "word": "妊娠纹镜头该被剪掉么",
+        "onboard_time": 1660802612,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793705,
+        "num": 793705,
+        "word": "故意关停电梯小男孩已道歉",
+        "onboard_time": 1660803749,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718195,
+        "num": 718195,
+        "word": "内衣和袜子可以一起洗吗",
+        "onboard_time": 1660805190,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1255439,
+        "num": 715613,
+        "word": "王鹤棣插花只放了小兰花",
+        "onboard_time": 1660815270,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1162927,
+        "num": 711931,
+        "word": "陈晓好小一只",
+        "onboard_time": 1660811012,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035989,
+        "num": 711242,
+        "word": "吴京两次拒绝并躲开女嘉宾挽手",
+        "onboard_time": 1660806153,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703802,
+        "num": 703802,
+        "word": "居民睡觉时家中马桶突然着火",
+        "onboard_time": 1660813292,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653207,
+        "num": 653207,
+        "word": "人民网评南京茶颜悦色",
+        "onboard_time": 1660803511,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 631805,
+        "num": 631805,
+        "word": "霍格沃兹月饼",
+        "onboard_time": 1660810409,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535405,
+        "num": 535405,
+        "word": "俄版星巴克改名StarsCoffee",
+        "onboard_time": 1660813650,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461761,
+        "num": 461761,
+        "word": "部分广播剧下架",
+        "onboard_time": 1660796132,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 457468,
+        "num": 457468,
+        "word": "Z22次列车",
+        "onboard_time": 1660811193,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441845,
+        "num": 441845,
+        "word": "女童母亲谅解关停商场电梯男童",
+        "onboard_time": 1660810890,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463293,
+        "num": 439059,
+        "word": "江疏影 我可以被议论但不能被诬陷",
+        "onboard_time": 1660806211,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427462,
+        "num": 427462,
+        "word": "王一博冰雨火陈宇定妆花絮视频",
+        "onboard_time": 1660814853,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406979,
+        "num": 406979,
+        "word": "猫咪对榴莲壳能有多上头",
+        "onboard_time": 1660812813,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402955,
+        "num": 402955,
+        "word": "护士3分钟跑赢死神救回准大学生",
+        "onboard_time": 1660808132,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 379261,
+        "num": 379261,
+        "word": "2022浙江卫视818晚会节目单",
+        "onboard_time": 1660814011,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364905,
+        "num": 364905,
+        "word": "12岁少年沉迷游戏从11楼跳下",
+        "onboard_time": 1660814251,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 356135,
+        "num": 356135,
+        "word": "没有人能拒绝的开挂人生",
+        "onboard_time": 1660813410,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72076,
+        "num": 341746,
+        "word": "从卫星视角看长江源",
+        "onboard_time": 1660795234,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 340488,
+        "num": 340488,
+        "word": "合肥将严格处置故意躺平房企",
+        "onboard_time": 1660810651,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 312275,
+        "num": 312275,
+        "word": "南京一茶颜悦色开业半小时后停业",
+        "onboard_time": 1660798116,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374370,
+        "num": 304299,
+        "word": "ICE微博评论把忙内理解成最忙的",
+        "onboard_time": 1660814913,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347652,
+        "num": 299487,
+        "word": "星汉因所有人灿烂",
+        "onboard_time": 1660798295,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336767,
+        "num": 297524,
+        "word": "保剑锋猫猫要苟住吃鸡",
+        "onboard_time": 1660815094,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 294452,
+        "num": 294452,
+        "word": "沉香重华虐疯了",
+        "onboard_time": 1660806571,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282882,
+        "num": 282882,
+        "word": "国家电网支援成都地区电力供应",
+        "onboard_time": 1660807173,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281108,
+        "num": 281108,
+        "word": "湘雅二院刘翔峰",
+        "onboard_time": 1660794452,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259390,
+        "num": 259390,
+        "word": "疑买玩具被拒男孩当街咬妈妈不松口",
+        "onboard_time": 1660814613,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250442,
+        "num": 250442,
+        "word": "考驾照最难的是哪个项目",
+        "onboard_time": 1660806330,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223522,
+        "num": 223522,
+        "word": "厦门新增13例确诊病例",
+        "onboard_time": 1660809390,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216432,
+        "num": 216432,
+        "word": "重庆南川突发山火",
+        "onboard_time": 1660806571,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273240,
+        "num": 215547,
+        "word": "赵粤模仿tangoz",
+        "onboard_time": 1660813531,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214258,
+        "num": 214258,
+        "word": "青海大通山洪16人死亡36人失联",
+        "onboard_time": 1660801292,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 211689,
+        "num": 211689,
+        "word": "折叠屏手机的正确打开方式",
+        "onboard_time": 1660814793,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187998,
+        "num": 187998,
+        "word": "西湖暴风雨摆渡人拼命保护游船",
+        "onboard_time": 1660809452,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175903,
+        "num": 175903,
+        "word": "哺乳期顾客染发遭店主秒拒",
+        "onboard_time": 1660800453,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173706,
+        "num": 173706,
+        "word": "EDG对战FPX",
+        "onboard_time": 1660812032,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172627,
+        "num": 172627,
+        "word": "没想到旅个游会这么社死",
+        "onboard_time": 1660810231,
+        "rank": 46,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 320421,
+        "num": 172312,
+        "word": "刘芸跳好日子庆祝郑钧官宣",
+        "onboard_time": 1660815450,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168919,
+        "num": 168919,
+        "word": "南京抽调警力维护茶颜排队秩序",
+        "onboard_time": 1660803810,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160790,
+        "num": 160790,
+        "word": "00后的职场到底有多野",
+        "onboard_time": 1660806392,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳考察调研#"
+    }
+  }
+}
