@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660854335704,
+  "endTime": 1660855213405,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -10267,6 +10267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108436,
+      "num": 108436,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107935,
       "num": 107935,
       "word": "小兰花清醒",
@@ -10377,14 +10385,6 @@
       "onboard_time": 1660471951,
       "rank": 49,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 88629,
-      "num": 88629,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 87491,
@@ -10531,6 +10531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30640,
+      "num": 30640,
+      "word": "里根号演练遭多枚导弹同时攻击",
+      "onboard_time": 1660853351,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 28375,
       "num": 497119,
       "word": "主播的门槛该不该这么低",
@@ -10563,6 +10571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 20491,
+      "num": 20491,
+      "word": "关晓彤央视818晚会造型",
+      "onboard_time": 1660852571,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20320,
       "num": 20320,
       "word": "牧野家族",
@@ -10593,14 +10609,6 @@
       "onboard_time": 1660615231,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 16295,
-      "num": 16295,
-      "word": "里根号演练遭多枚导弹同时攻击",
-      "onboard_time": 1660853351,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 15631,

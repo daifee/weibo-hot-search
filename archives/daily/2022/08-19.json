@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660854335704,
+  "endTime": 1660855213405,
   "band_list": [
     {
       "raw_hot": 1846214,
@@ -451,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108436,
+      "num": 108436,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108021,
       "num": 108021,
       "word": "核酸检测机器人15秒一签",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88629,
-      "num": 88629,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 37541,
       "num": 34962,
       "word": "毛晓彤说王子异拍戏时每天吃草",
@@ -499,12 +499,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 16295,
-      "num": 16295,
+      "raw_hot": 30640,
+      "num": 30640,
       "word": "里根号演练遭多枚导弹同时攻击",
       "onboard_time": 1660853351,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 20491,
+      "num": 20491,
+      "word": "关晓彤央视818晚会造型",
+      "onboard_time": 1660852571,
+      "rank": 41,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
