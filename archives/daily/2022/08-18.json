@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660791878463,
+  "endTime": 1660796491949,
   "band_list": [
     {
       "raw_hot": 2448122,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1245287,
+      "num": 590658,
+      "word": "湘雅二院刘翔峰",
+      "onboard_time": 1660794452,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207699,
       "num": 1207699,
       "word": "未婚已育女性办理生育津贴不需要结婚证",
@@ -121,6 +129,22 @@
       "onboard_time": 1660751788,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926145,
+      "num": 926145,
+      "word": "披荆斩棘全员报到",
+      "onboard_time": 1660793369,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 917240,
+      "num": 917240,
+      "word": "孙秀小豪官宣",
+      "onboard_time": 1660792291,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 896526,
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744602,
+      "num": 587123,
+      "word": "月升沧海预约点映礼人数破百万",
+      "onboard_time": 1660796374,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 743046,
       "num": 743046,
       "word": "重庆涪陵山火仍在扑救中",
@@ -235,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600240,
+      "num": 584005,
+      "word": "时代少年团出道999天",
+      "onboard_time": 1660796196,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 593138,
+      "num": 593138,
+      "word": "贴身衣物应该跟外衣分开洗吗",
+      "onboard_time": 1660791269,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592441,
       "num": 592441,
       "word": "费启鸣二十不惑2演姜小果同事",
@@ -275,6 +323,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 544726,
+      "num": 388980,
+      "word": "部分广播剧下架",
+      "onboard_time": 1660796132,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542499,
+      "num": 542499,
+      "word": "我在冰雨火里活不过一集",
+      "onboard_time": 1660795533,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542489,
       "num": 542489,
       "word": "追星的和学化学的同时沉默了",
@@ -297,6 +361,14 @@
       "onboard_time": 1660790489,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 499239,
+      "num": 499239,
+      "word": "押解劳荣枝警车进入二审法院",
+      "onboard_time": 1660792890,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498990,
@@ -395,6 +467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 400871,
+      "num": 400871,
+      "word": "男子把锅改装成方向盘边开车边泡面",
+      "onboard_time": 1660792109,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389803,
       "num": 389803,
       "word": "南北方天气差距有多大",
@@ -417,6 +497,14 @@
       "onboard_time": 1660784311,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369845,
+      "num": 369845,
+      "word": "95后大湾区女孩要让国漫走向海外",
+      "onboard_time": 1660790792,
+      "rank": 27,
+      "category": "动漫,社会新闻"
     },
     {
       "raw_hot": 365522,
@@ -449,6 +537,14 @@
       "onboard_time": 1660750777,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351648,
+      "num": 266895,
+      "word": "你好星期六大头贴仪式感",
+      "onboard_time": 1660796256,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 348802,
@@ -491,20 +587,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326963,
-      "num": 326963,
-      "word": "95后大湾区女孩要让国漫走向海外",
-      "onboard_time": 1660790792,
-      "rank": 27,
-      "category": "动漫,社会新闻"
+      "raw_hot": 340468,
+      "num": 266261,
+      "word": "沉香重华水墨人间版海报",
+      "onboard_time": 1660792770,
+      "rank": 31,
+      "category": "影视"
     },
     {
-      "raw_hot": 325693,
-      "num": 325693,
-      "word": "贴身衣物应该跟外衣分开洗吗",
-      "onboard_time": 1660791269,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 333591,
+      "num": 333591,
+      "word": "苹果AppleOne将捆绑销售电话套餐",
+      "onboard_time": 1660793192,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 329051,
+      "num": 265027,
+      "word": "请君任嘉伦李沁摸脸杀",
+      "onboard_time": 1660794871,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 323126,
@@ -577,6 +681,14 @@
       "onboard_time": 1660733852,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289681,
+      "num": 289681,
+      "word": "四问住房高公摊现象",
+      "onboard_time": 1660793311,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 288668,
@@ -659,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267074,
+      "num": 267074,
+      "word": "食物语",
+      "onboard_time": 1660794634,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266019,
       "num": 266019,
       "word": "再吓就不礼貌了",
@@ -707,6 +827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230036,
+      "num": 230036,
+      "word": "泉州疫情防控",
+      "onboard_time": 1660794332,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224327,
+      "num": 224327,
+      "word": "一拳超人动画第三季",
+      "onboard_time": 1660795954,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 218991,
       "num": 218991,
       "word": "全国高温排行榜前10都在重庆",
@@ -728,6 +864,14 @@
       "word": "三亚新增417例确诊814例无症状",
       "onboard_time": 1660779865,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209046,
+      "num": 209046,
+      "word": "掌握全国汽车血脉的霸总在河南",
+      "onboard_time": 1660794992,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -803,6 +947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 183893,
+      "num": 183893,
+      "word": "有这3个突出症状要警惕热射病",
+      "onboard_time": 1660796132,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181968,
       "num": 181968,
       "word": "丈夫因早餐做得不好吃殴打妻子",
@@ -817,6 +969,14 @@
       "onboard_time": 1660748316,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 172005,
+      "num": 182925,
+      "word": "劳荣枝案二审开庭审理画面",
+      "onboard_time": 1660795892,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167067,
@@ -961,6 +1121,14 @@
       "onboard_time": 1660757958,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87350,
+      "num": 1013265,
+      "word": "从卫星视角看长江源",
+      "onboard_time": 1660795234,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 61783,
