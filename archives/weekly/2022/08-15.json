@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660826936157,
+  "endTime": 1660828361004,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1538673,
+      "num": 1538673,
+      "word": "应该多久洗一次头有利头皮",
+      "onboard_time": 1660826011,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1538106,
       "num": 1538106,
       "word": "美称在台湾海峡进行标准化海空通行",
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 1508335,
-      "num": 548405,
+      "num": 612063,
       "word": "劳荣枝否认故意杀人",
       "onboard_time": 1660823130,
       "rank": 10,
@@ -1659,6 +1667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1054971,
+      "num": 1054971,
+      "word": "老人痛失爱子后替子还债86万",
+      "onboard_time": 1660824871,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040826,
       "num": 1040826,
       "word": "iPhone14或仍有刘海",
@@ -1987,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 912356,
+      "num": 912356,
+      "word": "越妃你是我的神",
+      "onboard_time": 1660827931,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 910806,
       "num": 565886,
       "word": "王鹤棣扫楼路透生图",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1660661793,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 897311,
+      "num": 355438,
+      "word": "鞠婧祎拿草扇",
+      "onboard_time": 1660828172,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 896023,
@@ -2419,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 764436,
+      "num": 764436,
+      "word": "重庆沙坪坝疫情防控",
+      "onboard_time": 1660823971,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756899,
       "num": 756899,
       "word": "西安疫情防控",
@@ -2552,14 +2592,6 @@
       "word": "盒马进口橙汁检出安赛蜜被罚",
       "onboard_time": 1660631012,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 716691,
-      "num": 716691,
-      "word": "重庆沙坪坝疫情防控",
-      "onboard_time": 1660823971,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3051,6 +3083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614156,
+      "num": 614156,
+      "word": "湘雅二院通报医生医疗作风问题",
+      "onboard_time": 1660823493,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612539,
       "num": 612539,
       "word": "男子因彩礼难题想不开欲轻生",
@@ -3131,14 +3171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 603513,
-      "num": 603513,
-      "word": "老人痛失爱子后替子还债86万",
-      "onboard_time": 1660824871,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 601464,
       "num": 601464,
       "word": "棣水未进",
@@ -3185,14 +3217,6 @@
       "onboard_time": 1660702048,
       "rank": 21,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 593035,
-      "num": 541982,
-      "word": "应该多久洗一次头有利头皮",
-      "onboard_time": 1660826011,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592441,
@@ -3443,6 +3467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 554586,
+      "num": 554586,
+      "word": "河北一感染者轨迹涉北京地铁",
+      "onboard_time": 1660824091,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554023,
       "num": 454658,
       "word": "李亚男喊话王祖蓝说你好我的花童",
@@ -3505,14 +3537,6 @@
       "onboard_time": 1660700187,
       "rank": 14,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 548961,
-      "num": 548961,
-      "word": "湘雅二院通报医生医疗作风问题",
-      "onboard_time": 1660823493,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548413,
@@ -3659,14 +3683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535818,
-      "num": 535818,
-      "word": "河北一感染者轨迹涉北京地铁",
-      "onboard_time": 1660824091,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535741,
       "num": 535741,
       "word": "朋友结婚男子扛84斤硬币随礼",
@@ -3729,6 +3745,14 @@
       "onboard_time": 1660640852,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529731,
+      "num": 529731,
+      "word": "EDG战胜FPX",
+      "onboard_time": 1660827691,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 529395,
@@ -3899,6 +3923,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 515083,
+      "num": 515083,
+      "word": "王一博陈宇今天洗澡了吗",
+      "onboard_time": 1660826011,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 514550,
       "num": 514550,
       "word": "你觉得公摊面积多少算合理",
@@ -4057,14 +4089,6 @@
       "onboard_time": 1660790489,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 499756,
-      "num": 386200,
-      "word": "王一博陈宇今天洗澡了吗",
-      "onboard_time": 1660826011,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 499440,
@@ -4899,6 +4923,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 433137,
+      "num": 433137,
+      "word": "Z22次列车尚未发现其他感染人员",
+      "onboard_time": 1660823436,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432833,
       "num": 432833,
       "word": "钱七虎说中国防得住他国核打击",
@@ -4961,6 +4993,14 @@
       "onboard_time": 1660532728,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425444,
+      "num": 257003,
+      "word": "唐周为了救颜淡自逐出门",
+      "onboard_time": 1660825950,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 423294,
@@ -5179,14 +5219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406254,
-      "num": 406254,
-      "word": "Z22次列车尚未发现其他感染人员",
-      "onboard_time": 1660823436,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405344,
       "num": 405344,
       "word": "LGD亚军",
@@ -5264,14 +5296,6 @@
       "word": "凌不疑程少商为程家伸冤",
       "onboard_time": 1660737934,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 400152,
-      "num": 257003,
-      "word": "唐周为了救颜淡自逐出门",
-      "onboard_time": 1660825950,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -5864,6 +5888,14 @@
       "word": "江疏影问油条吃甜的还是咸的",
       "onboard_time": 1660625918,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359191,
+      "num": 219383,
+      "word": "欢乐颂3叶蓁蓁回忆被性骚扰经历",
+      "onboard_time": 1660827871,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -7025,6 +7057,14 @@
       "onboard_time": 1660540891,
       "rank": 39,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 296063,
+      "num": 191739,
+      "word": "公司要破产了我该不该提离职",
+      "onboard_time": 1660823191,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 296029,
@@ -8411,6 +8451,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 219611,
+      "num": 219611,
+      "word": "EDG BP",
+      "onboard_time": 1660827631,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219563,
       "num": 219563,
       "word": "山东威海新增2例无症状",
@@ -8441,6 +8489,14 @@
       "onboard_time": 1660548930,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219224,
+      "num": 219224,
+      "word": "爱情里真正的遗憾是什么",
+      "onboard_time": 1660826189,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 218991,
@@ -8667,6 +8723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205823,
+      "num": 205823,
+      "word": "keep崩了",
+      "onboard_time": 1660824210,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 204646,
       "num": 204646,
       "word": "厦门新增8例确诊病例",
@@ -8713,14 +8777,6 @@
       "onboard_time": 1660553792,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201957,
-      "num": 201957,
-      "word": "keep崩了",
-      "onboard_time": 1660824210,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 201830,
@@ -8913,14 +8969,6 @@
       "onboard_time": 1660638213,
       "rank": 42,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 189578,
-      "num": 189578,
-      "word": "爱情里真正的遗憾是什么",
-      "onboard_time": 1660826189,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 189501,
@@ -9291,6 +9339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164643,
+      "num": 164643,
+      "word": "河南下周二实质性降温",
+      "onboard_time": 1660827931,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164328,
       "num": 164328,
       "word": "夏天为什么还不结束",
@@ -9512,6 +9568,14 @@
       "word": "牧民制止游客私闯草场反遭辱骂",
       "onboard_time": 1660547431,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143853,
+      "num": 138734,
+      "word": "本轮高温最高气温纪录在重庆",
+      "onboard_time": 1660828349,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

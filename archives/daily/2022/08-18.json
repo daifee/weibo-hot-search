@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660826936157,
+  "endTime": 1660828361004,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -171,8 +171,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1538673,
+      "num": 1538673,
+      "word": "应该多久洗一次头有利头皮",
+      "onboard_time": 1660826011,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1508335,
-      "num": 548405,
+      "num": 612063,
       "word": "劳荣枝否认故意杀人",
       "onboard_time": 1660823130,
       "rank": 10,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054971,
+      "num": 1054971,
+      "word": "老人痛失爱子后替子还债86万",
+      "onboard_time": 1660824871,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028356,
       "num": 1028356,
       "word": "披荆斩棘全员报到",
@@ -449,6 +465,22 @@
       "onboard_time": 1660792291,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 912356,
+      "num": 912356,
+      "word": "越妃你是我的神",
+      "onboard_time": 1660827931,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 897311,
+      "num": 355438,
+      "word": "鞠婧祎拿草扇",
+      "onboard_time": 1660828172,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 889776,
@@ -523,6 +555,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 764436,
+      "num": 764436,
+      "word": "重庆沙坪坝疫情防控",
+      "onboard_time": 1660823971,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750604,
       "num": 750604,
       "word": "家长挤压9天宝宝乳房致急性乳腺炎",
@@ -553,14 +593,6 @@
       "onboard_time": 1660786950,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 716691,
-      "num": 716691,
-      "word": "重庆沙坪坝疫情防控",
-      "onboard_time": 1660823971,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711684,
@@ -691,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614156,
+      "num": 614156,
+      "word": "湘雅二院通报医生医疗作风问题",
+      "onboard_time": 1660823493,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612539,
       "num": 612539,
       "word": "男子因彩礼难题想不开欲轻生",
@@ -707,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 603513,
-      "num": 603513,
-      "word": "老人痛失爱子后替子还债86万",
-      "onboard_time": 1660824871,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 600240,
       "num": 584005,
       "word": "时代少年团出道999天",
@@ -728,14 +760,6 @@
       "word": "贴身衣物应该跟外衣分开洗吗",
       "onboard_time": 1660791269,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593035,
-      "num": 541982,
-      "word": "应该多久洗一次头有利头皮",
-      "onboard_time": 1660826011,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -787,19 +811,19 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 554586,
+      "num": 554586,
+      "word": "河北一感染者轨迹涉北京地铁",
+      "onboard_time": 1660824091,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552146,
       "num": 552146,
       "word": "重庆高温地铁楼梯上长满了人",
       "onboard_time": 1660752987,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548961,
-      "num": 548961,
-      "word": "湘雅二院通报医生医疗作风问题",
-      "onboard_time": 1660823493,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -827,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 535818,
-      "num": 535818,
-      "word": "河北一感染者轨迹涉北京地铁",
-      "onboard_time": 1660824091,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 533095,
       "num": 363786,
       "word": "吴磊战损复仇海报",
@@ -849,6 +865,14 @@
       "onboard_time": 1660745915,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529731,
+      "num": 529731,
+      "word": "EDG战胜FPX",
+      "onboard_time": 1660827691,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 529395,
@@ -872,6 +896,14 @@
       "word": "颜淡毁掉沉花簪",
       "onboard_time": 1660820371,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515083,
+      "num": 515083,
+      "word": "王一博陈宇今天洗澡了吗",
+      "onboard_time": 1660826011,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -937,14 +969,6 @@
       "onboard_time": 1660790489,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 499756,
-      "num": 386200,
-      "word": "王一博陈宇今天洗澡了吗",
-      "onboard_time": 1660826011,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 498990,
@@ -1139,11 +1163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433137,
+      "num": 433137,
+      "word": "Z22次列车尚未发现其他感染人员",
+      "onboard_time": 1660823436,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427462,
       "num": 427462,
       "word": "王一博冰雨火陈宇定妆花絮视频",
       "onboard_time": 1660814853,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425444,
+      "num": 257003,
+      "word": "唐周为了救颜淡自逐出门",
+      "onboard_time": 1660825950,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1203,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406254,
-      "num": 406254,
-      "word": "Z22次列车尚未发现其他感染人员",
-      "onboard_time": 1660823436,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403490,
       "num": 403490,
       "word": "女孩跪地救人获赞最美马尾",
@@ -1224,14 +1256,6 @@
       "word": "王俊凯黑到在镜头里找不到自己",
       "onboard_time": 1660816533,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 400152,
-      "num": 257003,
-      "word": "唐周为了救颜淡自逐出门",
-      "onboard_time": 1660825950,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1377,6 +1401,14 @@
       "onboard_time": 1660800811,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359191,
+      "num": 219383,
+      "word": "欢乐颂3叶蓁蓁回忆被性骚扰经历",
+      "onboard_time": 1660827871,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 358775,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1660817911,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296063,
+      "num": 191739,
+      "word": "公司要破产了我该不该提离职",
+      "onboard_time": 1660823191,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 295964,
@@ -2075,6 +2115,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 219611,
+      "num": 219611,
+      "word": "EDG BP",
+      "onboard_time": 1660827631,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 219224,
+      "num": 219224,
+      "word": "爱情里真正的遗憾是什么",
+      "onboard_time": 1660826189,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218991,
       "num": 218991,
       "word": "全国高温排行榜前10都在重庆",
@@ -2155,20 +2211,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 205823,
+      "num": 205823,
+      "word": "keep崩了",
+      "onboard_time": 1660824210,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203163,
       "num": 203163,
       "word": "为什么我们越来越喜欢独处",
       "onboard_time": 1660744295,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201957,
-      "num": 201957,
-      "word": "keep崩了",
-      "onboard_time": 1660824210,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 201830,
@@ -2217,14 +2273,6 @@
       "onboard_time": 1660777097,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 189578,
-      "num": 189578,
-      "word": "爱情里真正的遗憾是什么",
-      "onboard_time": 1660826189,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 188353,
@@ -2307,6 +2355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164643,
+      "num": 164643,
+      "word": "河南下周二实质性降温",
+      "onboard_time": 1660827931,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163314,
       "num": 163314,
       "word": "北京明日大到暴雨建议错峰上下班",
@@ -2360,6 +2416,14 @@
       "word": "110路遇119默契值瞬间拉满",
       "onboard_time": 1660742255,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143853,
+      "num": 138734,
+      "word": "本轮高温最高气温纪录在重庆",
+      "onboard_time": 1660828349,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
