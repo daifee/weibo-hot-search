@@ -1,0 +1,410 @@
+{
+  "runTime": 1660789550239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2448122,
+        "num": 2448122,
+        "word": "Z22次列车发现多例阳性",
+        "onboard_time": 1660783592,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1987183,
+        "num": 1987183,
+        "word": "南京茶颜悦色",
+        "onboard_time": 1660784069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108882,
+        "num": 1932707,
+        "word": "基建狂魔又上新了",
+        "onboard_time": 1660740754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1926658,
+        "num": 1926658,
+        "word": "网红50万卖微信号被判交易无效",
+        "onboard_time": 1660787671,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248159,
+        "num": 1248159,
+        "word": "iPhone14Pro将涨价100美元",
+        "onboard_time": 1660786529,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1082881,
+        "num": 1082881,
+        "word": "谭飞说易烊千玺王俊凯有演技",
+        "onboard_time": 1660783592,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1001111,
+        "num": 1001111,
+        "word": "南京茶颜悦色预约代购1杯200元",
+        "onboard_time": 1660784792,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889776,
+        "num": 889776,
+        "word": "官方回应厦门给鱼做核酸",
+        "onboard_time": 1660781245,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889005,
+        "num": 889005,
+        "word": "谢谢费宝",
+        "onboard_time": 1660787908,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 845517,
+        "num": 845517,
+        "word": "农民日报评多地鼓励农民进城买房",
+        "onboard_time": 1660786168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782710,
+        "num": 782710,
+        "word": "BLACKPINK新专辑预售突破150万张",
+        "onboard_time": 1660789170,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 781935,
+        "num": 781935,
+        "word": "劳荣枝案小木匠妻子称未收到赔偿",
+        "onboard_time": 1660787308,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774347,
+        "num": 774347,
+        "word": "李灿确诊新冠",
+        "onboard_time": 1660782209,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 726565,
+        "num": 726565,
+        "word": "刘亦菲去有风的地方侧颜路透",
+        "onboard_time": 1660786950,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 703950,
+        "num": 703950,
+        "word": "钱泳辰 何艾",
+        "onboard_time": 1660782388,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564721,
+        "num": 564721,
+        "word": "肛肠医院数量与吃辣版图吻合住了",
+        "onboard_time": 1660751551,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542489,
+        "num": 542489,
+        "word": "追星的和学化学的同时沉默了",
+        "onboard_time": 1660782572,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 497866,
+        "num": 497866,
+        "word": "华为30岁以下员工仅占28%",
+        "onboard_time": 1660782990,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 484600,
+        "num": 484600,
+        "word": "苹果将在9月7日召开发布会",
+        "onboard_time": 1660783291,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 448339,
+        "num": 448339,
+        "word": "1岁娃躺地耍赖看爸爸没反应爬起",
+        "onboard_time": 1660783170,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548413,
+        "num": 446823,
+        "word": "结黎是卧蚕阿姨",
+        "onboard_time": 1660784553,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440142,
+        "num": 440142,
+        "word": "未婚已育女性办理生育津贴不需要结婚证",
+        "onboard_time": 1660735831,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422838,
+        "num": 422838,
+        "word": "西安疫情防控",
+        "onboard_time": 1660786591,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411374,
+        "num": 411374,
+        "word": "家长挤压9天宝宝乳房致急性乳腺炎",
+        "onboard_time": 1660746455,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377542,
+        "num": 377542,
+        "word": "网传沉香重华定档0822",
+        "onboard_time": 1660781728,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374620,
+        "num": 374620,
+        "word": "广州寿司郎回应网传员工上班被禁止讲粤语",
+        "onboard_time": 1660784311,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363936,
+        "num": 363936,
+        "word": "请君相倚千年版海报",
+        "onboard_time": 1660789412,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358081,
+        "num": 358081,
+        "word": "詹姆斯成为NBA历史总薪资第一人",
+        "onboard_time": 1660788332,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349249,
+        "num": 349249,
+        "word": "男子因彩礼难题想不开欲轻生",
+        "onboard_time": 1660771991,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347988,
+        "num": 347988,
+        "word": "喜欢和合适真的很难选择吗",
+        "onboard_time": 1660786769,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356555,
+        "num": 347389,
+        "word": "沉香重华",
+        "onboard_time": 1660745915,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344982,
+        "num": 344982,
+        "word": "重庆涪陵山火得到有效控制",
+        "onboard_time": 1660785152,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342601,
+        "num": 342601,
+        "word": "南京茶颜悦色门外排长龙",
+        "onboard_time": 1660788389,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296620,
+        "num": 296620,
+        "word": "杭州气温跌破26℃",
+        "onboard_time": 1660751788,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291824,
+        "num": 291824,
+        "word": "8月17日增本土确诊614例",
+        "onboard_time": 1660787011,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288667,
+        "num": 288667,
+        "word": "王一博陈宇今天报告了吗",
+        "onboard_time": 1660785811,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287350,
+        "num": 287350,
+        "word": "女孩取快递被骚扰老板呵斥保护",
+        "onboard_time": 1660789292,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286931,
+        "num": 286931,
+        "word": "苍兰诀",
+        "onboard_time": 1660789112,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275885,
+        "num": 275885,
+        "word": "请君",
+        "onboard_time": 1660789170,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264077,
+        "num": 264077,
+        "word": "海南增本土确诊496例无症状1522例",
+        "onboard_time": 1660788632,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269824,
+        "num": 260385,
+        "word": "薛之谦张信哲新歌准备了四年",
+        "onboard_time": 1660787190,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264260,
+        "num": 258729,
+        "word": "月升沧海大结局点映礼",
+        "onboard_time": 1660740514,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245219,
+        "num": 245219,
+        "word": "3D动画还原劳荣枝案始末",
+        "onboard_time": 1660786529,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242913,
+        "num": 242913,
+        "word": "茶百道与垫底辣孩合作评论区翻车",
+        "onboard_time": 1660750593,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 238504,
+        "num": 238504,
+        "word": "四川简阳一天内13人因热射病入院",
+        "onboard_time": 1660780405,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218171,
+        "num": 218171,
+        "word": "全国高温排行榜前10都在重庆",
+        "onboard_time": 1660789231,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215184,
+        "num": 215184,
+        "word": "詹姆斯2年9710万续约湖人",
+        "onboard_time": 1660778543,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213102,
+        "num": 213102,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1660786471,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210280,
+        "num": 210280,
+        "word": "三亚新增417例确诊814例无症状",
+        "onboard_time": 1660779865,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209612,
+        "num": 209612,
+        "word": "韩军方称朝鲜发射两枚巡航导弹",
+        "onboard_time": 1660765751,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁锦州考察调研#"
+    }
+  }
+}
