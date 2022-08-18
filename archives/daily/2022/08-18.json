@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660797842839,
+  "endTime": 1660801015852,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -16,6 +16,14 @@
       "word": "Z22次列车发现多例阳性",
       "onboard_time": 1660783592,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2035987,
+      "num": 2035987,
+      "word": "南京一茶颜悦色开业半小时后停业",
+      "onboard_time": 1660798116,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -43,8 +51,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1604378,
+      "num": 451436,
+      "word": "王鹤棣用屁股撞虞书欣",
+      "onboard_time": 1660800272,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1599865,
-      "num": 594062,
+      "num": 1214264,
       "word": "湘雅二院刘翔峰",
       "onboard_time": 1660794452,
       "rank": 10,
@@ -65,6 +81,14 @@
       "onboard_time": 1660790731,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1310156,
+      "num": 382887,
+      "word": "赵丽颖执扇半遮面六宫格",
+      "onboard_time": 1660799312,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1282704,
@@ -99,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164273,
+      "num": 1164273,
+      "word": "星汉因所有人灿烂",
+      "onboard_time": 1660798295,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1148378,
       "num": 626716,
       "word": "王鹤棣大学时期手语操视频",
@@ -111,6 +143,14 @@
       "num": 1082881,
       "word": "谭飞说易烊千玺王俊凯有演技",
       "onboard_time": 1660783592,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1078878,
+      "num": 1078878,
+      "word": "金晨全家都支持郑钧",
+      "onboard_time": 1660798656,
       "rank": 5,
       "category": "综艺"
     },
@@ -187,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 846092,
+      "num": 846092,
+      "word": "黄之锋等29名被告承认串谋颠覆国家政权罪",
+      "onboard_time": 1660799554,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 845517,
       "num": 845517,
       "word": "农民日报评多地鼓励农民进城买房",
@@ -259,7 +307,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 624160,
+      "raw_hot": 646347,
       "num": 624160,
       "word": "押解劳荣枝警车进入二审法院",
       "onboard_time": 1660792890,
@@ -355,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 533095,
+      "num": 363786,
+      "word": "吴磊战损复仇海报",
+      "onboard_time": 1660799435,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 531367,
       "num": 531367,
       "word": "沉香重华",
@@ -369,6 +425,22 @@
       "onboard_time": 1660796794,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510243,
+      "num": 354938,
+      "word": "王大陆言承旭互动梦回少女时代",
+      "onboard_time": 1660797756,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506595,
+      "num": 238661,
+      "word": "密室大逃脱",
+      "onboard_time": 1660797878,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 506561,
@@ -451,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463416,
+      "num": 234819,
+      "word": "范世錡上披荆斩棘背KPI",
+      "onboard_time": 1660800634,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457410,
       "num": 457410,
       "word": "上一段恋爱让人最遗憾的事",
@@ -464,6 +544,22 @@
       "word": "1岁娃躺地耍赖看爸爸没反应爬起",
       "onboard_time": 1660783170,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443632,
+      "num": 443632,
+      "word": "患癌爷爷偷偷出院为重症脑炎孙子卖羊",
+      "onboard_time": 1660799435,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424244,
+      "num": 424244,
+      "word": "你觉得公摊面积多少算合理",
+      "onboard_time": 1660798957,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -515,12 +611,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 380659,
-      "num": 225860,
-      "word": "王大陆言承旭互动梦回少女时代",
-      "onboard_time": 1660797756,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 384221,
+      "num": 231515,
+      "word": "段奕宏迪丽热巴登VOGUEfilm封面",
+      "onboard_time": 1660800870,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 377542,
@@ -627,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342268,
+      "num": 342268,
+      "word": "性格外向会更幸运吗",
+      "onboard_time": 1660797036,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341258,
       "num": 341258,
       "word": "女子怕自己再出意外教儿子做家务",
@@ -699,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301446,
+      "num": 286931,
+      "word": "苍兰诀",
+      "onboard_time": 1660789112,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295964,
       "num": 295964,
       "word": "实习生拒绝吃生鸡蛋被辞退",
@@ -755,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286931,
-      "num": 286931,
-      "word": "苍兰诀",
-      "onboard_time": 1660789112,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286246,
       "num": 286246,
       "word": "青海西宁市大通县发生山洪灾害",
@@ -803,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 271096,
-      "num": 271096,
-      "word": "性格外向会更幸运吗",
-      "onboard_time": 1660797036,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269824,
       "num": 260385,
       "word": "薛之谦张信哲新歌准备了四年",
@@ -833,6 +929,14 @@
       "onboard_time": 1660794634,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266931,
+      "num": 266931,
+      "word": "江西三支一扶",
+      "onboard_time": 1660798774,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 266019,
@@ -859,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263384,
+      "num": 263384,
+      "word": "长沙湘雅二院回应网传医生作风问题",
+      "onboard_time": 1660800811,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259361,
       "num": 159102,
       "word": "网传披荆斩棘初舞台选曲",
       "onboard_time": 1660748137,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255087,
+      "num": 255087,
+      "word": "哺乳期顾客染发遭店主秒拒",
+      "onboard_time": 1660800453,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245219,
@@ -899,12 +1019,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226216,
+      "num": 226216,
+      "word": "南京茶颜悦色开店前5分钟售罄",
+      "onboard_time": 1660800272,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225352,
       "num": 225352,
       "word": "脱发到底怎么办",
       "onboard_time": 1660796913,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225273,
+      "num": 225273,
+      "word": "女儿视频记录父母31年爱情秘诀",
+      "onboard_time": 1660799850,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 219994,
+      "num": 219994,
+      "word": "狗狗陪蓝朋友锻炼可爱又有点帅",
+      "onboard_time": 1660799914,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 218991,
@@ -923,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215329,
+      "num": 215329,
+      "word": "法庭驳回劳荣枝对案件管辖权异议",
+      "onboard_time": 1660800214,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213102,
       "num": 213102,
       "word": "石家庄疫情防控",
@@ -937,6 +1089,14 @@
       "onboard_time": 1660779865,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209510,
+      "num": 209510,
+      "word": "光与夜之恋",
+      "onboard_time": 1660798057,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 203163,
@@ -1060,7 +1220,7 @@
     },
     {
       "raw_hot": 145740,
-      "num": 1149686,
+      "num": 1502388,
       "word": "从卫星视角看长江源",
       "onboard_time": 1660795234,
       "rank": 2,

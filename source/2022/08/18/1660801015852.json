@@ -1,0 +1,410 @@
+{
+  "runTime": 1660801015852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3486794,
+        "num": 3486794,
+        "word": "部分广播剧下架",
+        "onboard_time": 1660796132,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2035987,
+        "num": 2035987,
+        "word": "南京一茶颜悦色开业半小时后停业",
+        "onboard_time": 1660798116,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119751,
+        "num": 1502388,
+        "word": "从卫星视角看长江源",
+        "onboard_time": 1660795234,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1214264,
+        "num": 1214264,
+        "word": "湘雅二院刘翔峰",
+        "onboard_time": 1660794452,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164273,
+        "num": 1164273,
+        "word": "星汉因所有人灿烂",
+        "onboard_time": 1660798295,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1078878,
+        "num": 1078878,
+        "word": "金晨全家都支持郑钧",
+        "onboard_time": 1660798656,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846092,
+        "num": 846092,
+        "word": "黄之锋等29名被告承认串谋颠覆国家政权罪",
+        "onboard_time": 1660799554,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 499465,
+        "num": 499465,
+        "word": "南京茶颜悦色",
+        "onboard_time": 1660784069,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488501,
+        "num": 488501,
+        "word": "女孩取快递被骚扰老板呵斥保护",
+        "onboard_time": 1660789292,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451888,
+        "num": 451888,
+        "word": "iPhone14Pro将涨价100美元",
+        "onboard_time": 1660786529,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1604378,
+        "num": 451436,
+        "word": "王鹤棣用屁股撞虞书欣",
+        "onboard_time": 1660800272,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 811470,
+        "num": 449857,
+        "word": "Z22次列车发现多例阳性",
+        "onboard_time": 1660783592,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646347,
+        "num": 447850,
+        "word": "押解劳荣枝警车进入二审法院",
+        "onboard_time": 1660792890,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581269,
+        "num": 447030,
+        "word": "沉香重华今晚开播",
+        "onboard_time": 1660790731,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 555287,
+        "num": 445401,
+        "word": "披荆斩棘全员报到",
+        "onboard_time": 1660793369,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470588,
+        "num": 443775,
+        "word": "劳荣枝案小木匠妻子称未收到赔偿",
+        "onboard_time": 1660787308,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443632,
+        "num": 443632,
+        "word": "患癌爷爷偷偷出院为重症脑炎孙子卖羊",
+        "onboard_time": 1660799435,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425663,
+        "num": 425663,
+        "word": "追星的和学化学的同时沉默了",
+        "onboard_time": 1660782572,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424244,
+        "num": 424244,
+        "word": "你觉得公摊面积多少算合理",
+        "onboard_time": 1660798957,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400952,
+        "num": 400952,
+        "word": "贴身衣物应该跟外衣分开洗吗",
+        "onboard_time": 1660791269,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310156,
+        "num": 382887,
+        "word": "赵丽颖执扇半遮面六宫格",
+        "onboard_time": 1660799312,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 533095,
+        "num": 363786,
+        "word": "吴磊战损复仇海报",
+        "onboard_time": 1660799435,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510243,
+        "num": 354938,
+        "word": "王大陆言承旭互动梦回少女时代",
+        "onboard_time": 1660797756,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342268,
+        "num": 342268,
+        "word": "性格外向会更幸运吗",
+        "onboard_time": 1660797036,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315215,
+        "num": 315215,
+        "word": "男子把锅改装成方向盘边开车边泡面",
+        "onboard_time": 1660792109,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312930,
+        "num": 312930,
+        "word": "网红50万卖微信号被判交易无效",
+        "onboard_time": 1660787671,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266931,
+        "num": 266931,
+        "word": "江西三支一扶",
+        "onboard_time": 1660798774,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263384,
+        "num": 263384,
+        "word": "长沙湘雅二院回应网传医生作风问题",
+        "onboard_time": 1660800811,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255087,
+        "num": 255087,
+        "word": "哺乳期顾客染发遭店主秒拒",
+        "onboard_time": 1660800453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240279,
+        "num": 240279,
+        "word": "华为30岁以下员工仅占28%",
+        "onboard_time": 1660782990,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 506595,
+        "num": 238661,
+        "word": "密室大逃脱",
+        "onboard_time": 1660797878,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463416,
+        "num": 234819,
+        "word": "范世錡上披荆斩棘背KPI",
+        "onboard_time": 1660800634,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384221,
+        "num": 231515,
+        "word": "段奕宏迪丽热巴登VOGUEfilm封面",
+        "onboard_time": 1660800870,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 381277,
+        "num": 228654,
+        "word": "张云龙晒了张云龙参加披荆斩棘",
+        "onboard_time": 1660797217,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226216,
+        "num": 226216,
+        "word": "南京茶颜悦色开店前5分钟售罄",
+        "onboard_time": 1660800272,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225273,
+        "num": 225273,
+        "word": "女儿视频记录父母31年爱情秘诀",
+        "onboard_time": 1660799850,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 220402,
+        "num": 220402,
+        "word": "官方回应厦门给鱼做核酸",
+        "onboard_time": 1660781245,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219994,
+        "num": 219994,
+        "word": "狗狗陪蓝朋友锻炼可爱又有点帅",
+        "onboard_time": 1660799914,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 215722,
+        "num": 215722,
+        "word": "脱发到底怎么办",
+        "onboard_time": 1660796913,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215329,
+        "num": 215329,
+        "word": "法庭驳回劳荣枝对案件管辖权异议",
+        "onboard_time": 1660800214,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341622,
+        "num": 214953,
+        "word": "孙秀小豪官宣",
+        "onboard_time": 1660792291,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335958,
+        "num": 214708,
+        "word": "漫播",
+        "onboard_time": 1660796794,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301446,
+        "num": 214707,
+        "word": "苍兰诀",
+        "onboard_time": 1660789112,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209510,
+        "num": 209510,
+        "word": "光与夜之恋",
+        "onboard_time": 1660798057,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197111,
+        "num": 197111,
+        "word": "掌握全国汽车血脉的霸总在河南",
+        "onboard_time": 1660794992,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193957,
+        "num": 193957,
+        "word": "苹果AppleOne将捆绑销售电话套餐",
+        "onboard_time": 1660793192,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193607,
+        "num": 193607,
+        "word": "有这3个突出症状要警惕热射病",
+        "onboard_time": 1660796132,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193172,
+        "num": 193172,
+        "word": "四问住房高公摊现象",
+        "onboard_time": 1660793311,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188688,
+        "num": 188688,
+        "word": "95后大湾区女孩要让国漫走向海外",
+        "onboard_time": 1660790792,
+        "rank": 48,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 178464,
+        "num": 178464,
+        "word": "iOS15.6.1",
+        "onboard_time": 1660790489,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳考察调研#"
+    }
+  }
+}
