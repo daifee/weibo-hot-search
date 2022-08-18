@@ -1,6 +1,6 @@
 {
   "startTime": 1660754060447,
-  "endTime": 1660819349390,
+  "endTime": 1660821543506,
   "band_list": [
     {
       "raw_hot": 5134956,
@@ -73,6 +73,14 @@
       "onboard_time": 1660811132,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2141421,
+      "num": 2141421,
+      "word": "重庆真的退出四大火炉城市了吗",
+      "onboard_time": 1660818571,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2035987,
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1306833,
+      "num": 1306833,
+      "word": "女子高温天晒土豆干6小时变薯片",
+      "onboard_time": 1660816653,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1299753,
       "num": 1299753,
       "word": "疑买玩具被拒男孩当街咬妈妈不松口",
@@ -249,6 +265,14 @@
       "onboard_time": 1660786529,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1220864,
+      "num": 1220864,
+      "word": "月升沧海",
+      "onboard_time": 1660819052,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1210606,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098271,
+      "num": 1036695,
+      "word": "凌不疑雨中崩溃",
+      "onboard_time": 1660820493,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1082881,
       "num": 1082881,
       "word": "谭飞说易烊千玺王俊凯有演技",
@@ -323,11 +355,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1053645,
-      "num": 1053645,
-      "word": "女子高温天晒土豆干6小时变薯片",
-      "onboard_time": 1660816653,
-      "rank": 12,
+      "raw_hot": 1039928,
+      "num": 1039928,
+      "word": "上海市经信委回应发函向四川要电",
+      "onboard_time": 1660817792,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -547,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 669057,
+      "num": 154457,
+      "word": "王鹤棣被叫bking的反应",
+      "onboard_time": 1660821509,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 664063,
       "num": 664063,
       "word": "韩军方称朝鲜发射两枚巡航导弹",
@@ -585,14 +625,6 @@
       "onboard_time": 1660804350,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 636131,
-      "num": 636131,
-      "word": "上海市经信委回应发函向四川要电",
-      "onboard_time": 1660817792,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615873,
@@ -675,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567721,
+      "num": 567721,
+      "word": "新娘婚礼前骨折跪骑小车完成仪式",
+      "onboard_time": 1660819352,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565495,
       "num": 565495,
       "word": "平安银行回应员工降薪",
@@ -737,6 +777,22 @@
       "onboard_time": 1660807113,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 525953,
+      "num": 525953,
+      "word": "棣欣引力",
+      "onboard_time": 1660819234,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 521347,
+      "num": 521347,
+      "word": "颜淡毁掉沉花簪",
+      "onboard_time": 1660820371,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 514550,
@@ -907,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458514,
-      "num": 458514,
-      "word": "重庆真的退出四大火炉城市了吗",
-      "onboard_time": 1660818571,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457410,
       "num": 457410,
       "word": "上一段恋爱让人最遗憾的事",
@@ -928,6 +976,14 @@
       "word": "1岁娃躺地耍赖看爸爸没反应爬起",
       "onboard_time": 1660783170,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445676,
+      "num": 445676,
+      "word": "重庆北碚晒成了重庆北焙",
+      "onboard_time": 1660818871,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -947,20 +1003,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439512,
+      "num": 415858,
+      "word": "钟辰乐直播",
+      "onboard_time": 1660820672,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436467,
       "num": 436467,
       "word": "重庆南川突发山火",
       "onboard_time": 1660806571,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428682,
-      "num": 428682,
-      "word": "月升沧海",
-      "onboard_time": 1660819052,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 427462,
@@ -1499,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289139,
+      "num": 289139,
+      "word": "年轻人该怎样选择第一份工作",
+      "onboard_time": 1660819711,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288668,
       "num": 202384,
       "word": "苍兰诀封神名场面",
@@ -1659,12 +1723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258816,
-      "num": 258816,
-      "word": "重庆北碚晒成了重庆北焙",
-      "onboard_time": 1660818871,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 257099,
+      "num": 257099,
+      "word": "或许这就是普通人的生活",
+      "onboard_time": 1660819770,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 254849,
@@ -1713,14 +1777,6 @@
       "onboard_time": 1660803749,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239469,
-      "num": 193852,
-      "word": "棣欣引力",
-      "onboard_time": 1660819234,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 239025,
@@ -1979,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178801,
+      "num": 178801,
+      "word": "全国多地给城市局部降温",
+      "onboard_time": 1660820493,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178728,
       "num": 178728,
       "word": "小男孩汗流浃背帮父母卸货",
@@ -2065,6 +2129,14 @@
       "onboard_time": 1660742255,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143740,
+      "num": 143740,
+      "word": "重庆高校延期开学",
+      "onboard_time": 1660821273,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 143016,
