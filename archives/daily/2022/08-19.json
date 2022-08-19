@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660877719261,
+  "endTime": 1660882105843,
   "band_list": [
     {
       "raw_hot": 2760444,
@@ -9,6 +9,14 @@
       "onboard_time": 1660874127,
       "rank": 0,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 2118845,
+      "num": 522261,
+      "word": "劳荣枝二审态度强硬不配合",
+      "onboard_time": 1660880131,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1846214,
@@ -59,12 +67,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1284675,
+      "num": 521264,
+      "word": "BLACKPINK直播",
+      "onboard_time": 1660880009,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1134143,
+      "num": 862194,
+      "word": "吴磊演技",
+      "onboard_time": 1660878327,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1098007,
       "num": 1098007,
       "word": "官方辟谣网传100名中国人存瑞士银行7.8万亿",
       "onboard_time": 1660834355,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1018692,
+      "num": 1018692,
+      "word": "刘亦菲ELLE金九封面",
+      "onboard_time": 1660877787,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 988191,
@@ -131,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743093,
+      "num": 519233,
+      "word": "杭州奥克斯17岁男孩意外坠楼",
+      "onboard_time": 1660877970,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 737334,
       "num": 737334,
       "word": "95后清华学长做化学实验有多美",
       "onboard_time": 1660875449,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 706083,
+      "num": 629054,
+      "word": "北京9月1日起个人医保账户定向使用",
+      "onboard_time": 1660876048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699055,
@@ -187,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 673009,
+      "num": 673009,
+      "word": "唐周死在最爱的人手里",
+      "onboard_time": 1660878509,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668833,
       "num": 668833,
       "word": "哥哥脚踩弟弟胳膊喂芒果",
@@ -201,14 +257,6 @@
       "onboard_time": 1660836755,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 629054,
-      "num": 629054,
-      "word": "北京9月1日起个人医保账户定向使用",
-      "onboard_time": 1660876048,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 605955,
@@ -275,12 +323,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522970,
+      "num": 522970,
+      "word": "鲨鱼小猫",
+      "onboard_time": 1660878030,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 521952,
       "num": 521952,
       "word": "男子不忌口结石长满全身疼得嗷嗷叫",
       "onboard_time": 1660830813,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517491,
+      "num": 517491,
+      "word": "宁安如梦",
+      "onboard_time": 1660879108,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 514031,
+      "num": 514031,
+      "word": "博士市长硬核亮家底喊话游子回乡",
+      "onboard_time": 1660880190,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491371,
+      "num": 415118,
+      "word": "张馨予一人分饰母女两角",
+      "onboard_time": 1660877309,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 489267,
@@ -323,6 +403,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441327,
+      "num": 441327,
+      "word": "龙族动画开播",
+      "onboard_time": 1660876588,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 421005,
+      "num": 414062,
+      "word": "关晓彤哭戏",
+      "onboard_time": 1660878212,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420467,
       "num": 420467,
       "word": "罚罪全阵容官宣",
@@ -345,6 +441,14 @@
       "onboard_time": 1660837113,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410171,
+      "num": 410171,
+      "word": "王鹤棣大学是舞蹈专业的吧",
+      "onboard_time": 1660880250,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 395291,
@@ -376,6 +480,14 @@
       "word": "熊孩子不懂礼家长不能不懂",
       "onboard_time": 1660873889,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375214,
+      "num": 375214,
+      "word": "陕西增本土确诊52例",
+      "onboard_time": 1660877128,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -411,11 +523,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359050,
-      "num": 359050,
-      "word": "张馨予一人分饰母女两角",
-      "onboard_time": 1660877309,
-      "rank": 24,
+      "raw_hot": 359035,
+      "num": 284248,
+      "word": "独行月球密钥延期",
+      "onboard_time": 1660879767,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -435,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345685,
-      "num": 345685,
-      "word": "龙族动画开播",
-      "onboard_time": 1660876588,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 341955,
       "num": 341955,
       "word": "女子逛夜市遇五花肉摊位爬满虫子",
@@ -459,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341139,
+      "num": 341139,
+      "word": "七旬医生每天坚持看50多名病人",
+      "onboard_time": 1660878809,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340040,
       "num": 340040,
       "word": "中日第九次高级别政治对话",
@@ -467,12 +579,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 338440,
-      "num": 338440,
-      "word": "陕西增本土确诊52例",
-      "onboard_time": 1660877128,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 336585,
+      "num": 281824,
+      "word": "披荆斩棘错位光影大片",
+      "onboard_time": 1660880969,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 330059,
@@ -595,12 +707,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290344,
+      "num": 290344,
+      "word": "宁波新增1例确诊曾乘这两趟航班",
+      "onboard_time": 1660879350,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286965,
       "num": 164971,
       "word": "蔡徐坤新歌hugme巨幕舞台",
       "onboard_time": 1660835736,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285953,
+      "num": 285953,
+      "word": "当领导是我的朋友时",
+      "onboard_time": 1660879530,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 285458,
@@ -675,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243196,
+      "num": 243196,
+      "word": "麓山之歌定档",
+      "onboard_time": 1660879530,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243090,
       "num": 243090,
       "word": "太原疫情防控",
@@ -699,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218589,
+      "num": 167083,
+      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
+      "onboard_time": 1660882050,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214632,
       "num": 214632,
       "word": "重庆西站疫情防控",
@@ -715,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211796,
+      "num": 211796,
+      "word": "临沂舰夺国际军事比赛单项第一",
+      "onboard_time": 1660881392,
+      "rank": 34,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 208695,
       "num": 208695,
       "word": "不想再自卑下去了",
       "onboard_time": 1660833037,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207814,
+      "num": 207814,
+      "word": "这玩意儿竟然还会认人",
+      "onboard_time": 1660880791,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 205367,
@@ -827,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150679,
+      "num": 150679,
+      "word": "篮网拒绝湖人交易报价",
+      "onboard_time": 1660881752,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146233,
       "num": 146233,
       "word": "熬夜久了都有哪些小毛病",
@@ -849,6 +1017,14 @@
       "onboard_time": 1660833635,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136569,
+      "num": 136569,
+      "word": "供应链称iPhone14系列已量产",
+      "onboard_time": 1660881693,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 124558,
@@ -947,20 +1123,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42223,
+      "num": 1506525,
+      "word": "中国这十年",
+      "onboard_time": 1660815270,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 37541,
       "num": 34962,
       "word": "毛晓彤说王子异拍戏时每天吃草",
       "onboard_time": 1660845436,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35730,
-      "num": 1506525,
-      "word": "中国这十年",
-      "onboard_time": 1660815270,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 33659,
