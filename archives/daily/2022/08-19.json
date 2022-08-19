@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660890629293,
+  "endTime": 1660891691683,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121915,
+      "num": 538092,
+      "word": "劳荣枝称自己从未整容是个傻白甜",
+      "onboard_time": 1660887035,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1098007,
       "num": 1098007,
       "word": "官方辟谣网传100名中国人存瑞士银行7.8万亿",
@@ -195,20 +203,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1013362,
-      "num": 500893,
-      "word": "劳荣枝称自己从未整容是个傻白甜",
-      "onboard_time": 1660887035,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 988191,
       "num": 988191,
       "word": "吃30天外卖瘦12斤",
       "onboard_time": 1660867950,
       "rank": 5,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 933619,
+      "num": 933619,
+      "word": "小兰花官宣新身份",
+      "onboard_time": 1660890272,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 919950,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 690300,
-      "num": 493590,
+      "num": 512127,
       "word": "BLACKPINK空降",
       "onboard_time": 1660889372,
       "rank": 13,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616988,
+      "num": 491452,
+      "word": "Rose回归造型",
+      "onboard_time": 1660890150,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 615349,
       "num": 526432,
       "word": "王鹤棣ELLEMEN新青年秋季刊封面",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 590937,
-      "num": 476810,
+      "num": 581929,
       "word": "北京大兴发现1名核酸阳性人员",
       "onboard_time": 1660887988,
       "rank": 15,
@@ -489,6 +505,14 @@
       "onboard_time": 1660832556,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 550902,
+      "num": 372313,
+      "word": "杜淳被家务男公认反差最大",
+      "onboard_time": 1660890631,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 540957,
@@ -563,20 +587,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 510532,
-      "num": 335392,
-      "word": "小兰花官宣新身份",
-      "onboard_time": 1660890272,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 491371,
       "num": 415118,
       "word": "张馨予一人分饰母女两角",
       "onboard_time": 1660877309,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490844,
+      "num": 315491,
+      "word": "吴建豪出场",
+      "onboard_time": 1660891351,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 490706,
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450619,
+      "num": 222512,
+      "word": "红蜻蜓全场泪崩",
+      "onboard_time": 1660891110,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 447112,
       "num": 414062,
       "word": "关晓彤哭戏",
@@ -665,14 +697,6 @@
       "onboard_time": 1660889253,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 424099,
-      "num": 194583,
-      "word": "Rose回归造型",
-      "onboard_time": 1660890150,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 422751,
@@ -721,6 +745,22 @@
       "onboard_time": 1660882111,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404012,
+      "num": 404012,
+      "word": "四线小城工人月入9000元",
+      "onboard_time": 1660890272,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 401751,
+      "num": 146037,
+      "word": "家务男人均八百个心眼子",
+      "onboard_time": 1660891531,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 395291,
@@ -1059,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289447,
+      "num": 289447,
+      "word": "2岁男孩帮店外躲雨工人搬椅子",
+      "onboard_time": 1660890150,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286965,
       "num": 164971,
       "word": "蔡徐坤新歌hugme巨幕舞台",
@@ -1227,6 +1275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226960,
+      "num": 226960,
+      "word": "13省市支援四川供电",
+      "onboard_time": 1660890812,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216850,
+      "num": 216850,
+      "word": "大学生5千米决赛体力透支爬向终点",
+      "onboard_time": 1660889072,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 214632,
       "num": 214632,
       "word": "重庆西站疫情防控",
@@ -1299,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194502,
-      "num": 194502,
-      "word": "大学生5千米决赛体力透支爬向终点",
-      "onboard_time": 1660889072,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1660882410,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 169783,
-      "num": 169783,
-      "word": "2岁男孩帮店外躲雨工人搬椅子",
-      "onboard_time": 1660890150,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168003,
@@ -1443,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120444,
-      "num": 120444,
-      "word": "四线小城工人月入9000元",
-      "onboard_time": 1660890272,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 118078,
       "num": 118078,
       "word": "成雅高速",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1660845976,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99728,
+      "num": 99728,
+      "word": "最希望机器人可以做的事",
+      "onboard_time": 1660890991,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 87477,
