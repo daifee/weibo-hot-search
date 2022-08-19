@@ -1,0 +1,410 @@
+{
+  "runTime": 1660897647202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315415,
+        "num": 2315415,
+        "word": "QQ空间花藤停止运营",
+        "onboard_time": 1660892309,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1621622,
+        "num": 1621622,
+        "word": "北京一感染者得知为密接后面包车里过夜",
+        "onboard_time": 1660892012,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24570,
+        "num": 1558876,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3053580,
+        "num": 1540200,
+        "word": "印度男子性侵女童未遂遭物理阉割",
+        "onboard_time": 1660893571,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507892,
+        "num": 1507892,
+        "word": "女子厕所冲水瞬间仙气飘飘",
+        "onboard_time": 1660895911,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1267448,
+        "num": 1267448,
+        "word": "江南 龙族",
+        "onboard_time": 1660883013,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 897948,
+        "num": 897948,
+        "word": "四线小城工人月入9000元",
+        "onboard_time": 1660890272,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 818022,
+        "num": 818022,
+        "word": "红蜻蜓全场泪崩",
+        "onboard_time": 1660891110,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652683,
+        "num": 652683,
+        "word": "小兰花官宣新身份",
+        "onboard_time": 1660890272,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527425,
+        "num": 527425,
+        "word": "海外台胞遇困难可求助中国驻外使领馆",
+        "onboard_time": 1660895014,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3333650,
+        "num": 527332,
+        "word": "王鹤棣道歉",
+        "onboard_time": 1660888472,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1925322,
+        "num": 527079,
+        "word": "劳荣枝多次反问检方引哄笑",
+        "onboard_time": 1660893093,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525779,
+        "num": 525779,
+        "word": "大连发现5名省外返连人员核酸结果异常",
+        "onboard_time": 1660895793,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512708,
+        "num": 512708,
+        "word": "Rose回归造型",
+        "onboard_time": 1660890150,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483960,
+        "num": 483960,
+        "word": "劳荣枝称自己从未整容是个傻白甜",
+        "onboard_time": 1660887035,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457584,
+        "num": 457584,
+        "word": "真的建议高铁出个带孩子车厢",
+        "onboard_time": 1660848313,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432420,
+        "num": 432420,
+        "word": "张小斐新电影风衣造型氛围感",
+        "onboard_time": 1660895311,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430689,
+        "num": 430689,
+        "word": "你会考虑去工厂工作吗",
+        "onboard_time": 1660895673,
+        "rank": 17,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 424006,
+        "num": 424006,
+        "word": "吴建豪出场",
+        "onboard_time": 1660891351,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407173,
+        "num": 407173,
+        "word": "天安门广场暴雨中的升旗仪式",
+        "onboard_time": 1660892369,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399393,
+        "num": 399393,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1660889372,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395445,
+        "num": 395445,
+        "word": "难听",
+        "onboard_time": 1660883554,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385393,
+        "num": 385393,
+        "word": "劳荣枝否认和法子英是情侣",
+        "onboard_time": 1660885652,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384658,
+        "num": 384658,
+        "word": "周五下班的理想状态",
+        "onboard_time": 1660884333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383827,
+        "num": 383827,
+        "word": "13省市支援四川供电",
+        "onboard_time": 1660890812,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353155,
+        "num": 353155,
+        "word": "赵丽颖龚俊voguefilm合体封面",
+        "onboard_time": 1660883854,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347036,
+        "num": 347036,
+        "word": "四六级",
+        "onboard_time": 1660882352,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341804,
+        "num": 341804,
+        "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
+        "onboard_time": 1660884513,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240341,
+        "num": 240341,
+        "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+        "onboard_time": 1660897233,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237190,
+        "num": 237190,
+        "word": "2岁男孩帮店外躲雨工人搬椅子",
+        "onboard_time": 1660890150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316446,
+        "num": 236871,
+        "word": "月升沧海",
+        "onboard_time": 1660897111,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266448,
+        "num": 236498,
+        "word": "披荆斩棘",
+        "onboard_time": 1660883733,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260360,
+        "num": 235902,
+        "word": "杜淳被家务男公认反差最大",
+        "onboard_time": 1660890631,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250919,
+        "num": 235353,
+        "word": "任贤齐个人喜爱度第一",
+        "onboard_time": 1660889253,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234840,
+        "num": 234840,
+        "word": "饿了么上海",
+        "onboard_time": 1660887929,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229629,
+        "num": 229629,
+        "word": "武警战士训练被狗狗亲了一口",
+        "onboard_time": 1660887749,
+        "rank": 35,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 225188,
+        "num": 225188,
+        "word": "特朗普集团前高管承认逃税",
+        "onboard_time": 1660885591,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 196855,
+        "num": 196855,
+        "word": "老北京的手抓羊肉",
+        "onboard_time": 1660894831,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164178,
+        "num": 164178,
+        "word": "北京大兴发现1名核酸阳性人员",
+        "onboard_time": 1660887988,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154563,
+        "num": 154563,
+        "word": "劳荣枝二审态度强硬不配合",
+        "onboard_time": 1660880131,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247588,
+        "num": 154178,
+        "word": "冰雨火里的角色原生家庭",
+        "onboard_time": 1660896870,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150352,
+        "num": 150352,
+        "word": "第五人格 飞轮",
+        "onboard_time": 1660896391,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145592,
+        "num": 145592,
+        "word": "这是真实的中国医生",
+        "onboard_time": 1660893694,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145144,
+        "num": 145144,
+        "word": "恐龙或经历两次小行星撞地球",
+        "onboard_time": 1660897172,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 131281,
+        "num": 131281,
+        "word": "四六级成绩什么时候出",
+        "onboard_time": 1660889433,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125752,
+        "num": 125752,
+        "word": "大学生5千米决赛体力透支爬向终点",
+        "onboard_time": 1660889072,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124866,
+        "num": 124866,
+        "word": "杭州奥克斯17岁男孩意外坠楼",
+        "onboard_time": 1660877970,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 235602,
+        "num": 124422,
+        "word": "选秀男爱豆持刀威胁女友被判刑",
+        "onboard_time": 1660897593,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234714,
+        "num": 121116,
+        "word": "欢乐颂3五美对性骚扰的反击",
+        "onboard_time": 1660897593,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114405,
+        "num": 114405,
+        "word": "0.06平方公里小岛上有6吨重弹片",
+        "onboard_time": 1660886495,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民领袖的人民情怀#"
+    }
+  }
+}

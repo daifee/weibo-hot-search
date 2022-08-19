@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660894678736,
+  "endTime": 1660897647202,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -9,6 +9,14 @@
       "onboard_time": 1660888472,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3053580,
+      "num": 1540200,
+      "word": "印度男子性侵女童未遂遭物理阉割",
+      "onboard_time": 1660893571,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2760444,
@@ -35,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2315415,
+      "num": 2315415,
+      "word": "QQ空间花藤停止运营",
+      "onboard_time": 1660892309,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2261410,
       "num": 2261410,
       "word": "四六级",
@@ -57,6 +73,14 @@
       "onboard_time": 1660883013,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1925322,
+      "num": 644072,
+      "word": "劳荣枝多次反问检方引哄笑",
+      "onboard_time": 1660893093,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1914895,
@@ -91,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1621622,
+      "num": 1621622,
+      "word": "北京一感染者得知为密接后面包车里过夜",
+      "onboard_time": 1660892012,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1559956,
       "num": 1559956,
       "word": "茶颜悦色回应雇人排队代购炒作",
@@ -115,12 +147,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1528019,
-      "num": 1528019,
-      "word": "QQ空间花藤停止运营",
-      "onboard_time": 1660892309,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 1507892,
+      "num": 1507892,
+      "word": "女子厕所冲水瞬间仙气飘飘",
+      "onboard_time": 1660895911,
+      "rank": 4,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1445988,
@@ -137,14 +169,6 @@
       "onboard_time": 1660883854,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1376530,
-      "num": 1376530,
-      "word": "北京一感染者得知为密接后面包车里过夜",
-      "onboard_time": 1660892012,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1352515,
@@ -297,14 +321,6 @@
       "onboard_time": 1660832014,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 799146,
-      "num": 799146,
-      "word": "印度男子性侵女童未遂遭物理阉割",
-      "onboard_time": 1660893571,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787926,
@@ -467,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 644072,
-      "num": 644072,
-      "word": "劳荣枝多次反问检方引哄笑",
-      "onboard_time": 1660893093,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637024,
       "num": 426415,
       "word": "杨紫首家文化传媒公司成立",
@@ -593,6 +601,22 @@
       "onboard_time": 1660886435,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527425,
+      "num": 527425,
+      "word": "海外台胞遇困难可求助中国驻外使领馆",
+      "onboard_time": 1660895014,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 525779,
+      "num": 525779,
+      "word": "大连发现5名省外返连人员核酸结果异常",
+      "onboard_time": 1660895793,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524065,
@@ -740,11 +764,27 @@
     },
     {
       "raw_hot": 434153,
-      "num": 235226,
+      "num": 235353,
       "word": "任贤齐个人喜爱度第一",
       "onboard_time": 1660889253,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432420,
+      "num": 432420,
+      "word": "张小斐新电影风衣造型氛围感",
+      "onboard_time": 1660895311,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430689,
+      "num": 430689,
+      "word": "你会考虑去工厂工作吗",
+      "onboard_time": 1660895673,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 422751,
@@ -793,6 +833,14 @@
       "onboard_time": 1660882111,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407173,
+      "num": 407173,
+      "word": "天安门广场暴雨中的升旗仪式",
+      "onboard_time": 1660892369,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401751,
@@ -879,14 +927,6 @@
       "num": 375214,
       "word": "陕西增本土确诊52例",
       "onboard_time": 1660877128,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371542,
-      "num": 371542,
-      "word": "天安门广场暴雨中的升旗仪式",
-      "onboard_time": 1660892369,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -1251,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266448,
+      "num": 236498,
+      "word": "披荆斩棘",
+      "onboard_time": 1660883733,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260346,
       "num": 260346,
       "word": "医生是陪我们走完一生的人",
@@ -1291,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247588,
+      "num": 154178,
+      "word": "冰雨火里的角色原生家庭",
+      "onboard_time": 1660896870,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243196,
       "num": 243196,
       "word": "麓山之歌定档",
@@ -1315,6 +1371,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 240341,
+      "num": 240341,
+      "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+      "onboard_time": 1660897233,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239980,
       "num": 239980,
       "word": "圣枪哥是邓紫棋最大粉头",
@@ -1337,6 +1401,22 @@
       "onboard_time": 1660887929,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 235602,
+      "num": 124422,
+      "word": "选秀男爱豆持刀威胁女友被判刑",
+      "onboard_time": 1660897593,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234714,
+      "num": 121116,
+      "word": "欢乐颂3五美对性骚扰的反击",
+      "onboard_time": 1660897593,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 232433,
@@ -1417,6 +1497,14 @@
       "onboard_time": 1660873467,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196855,
+      "num": 196855,
+      "word": "老北京的手抓羊肉",
+      "onboard_time": 1660894831,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 195175,
@@ -1515,12 +1603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150352,
+      "num": 150352,
+      "word": "第五人格 飞轮",
+      "onboard_time": 1660896391,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146233,
       "num": 146233,
       "word": "熬夜久了都有哪些小毛病",
       "onboard_time": 1660822171,
       "rank": 39,
       "category": "其它"
+    },
+    {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "恐龙或经历两次小行星撞地球",
+      "onboard_time": 1660897172,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 144124,
