@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660893663904,
+  "endTime": 1660894678736,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1914895,
-      "num": 682595,
+      "num": 715348,
       "word": "劳荣枝否认和法子英是情侣",
       "onboard_time": 1660885652,
       "rank": 15,
@@ -99,12 +99,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1559737,
+      "num": 1559737,
+      "word": "四线小城工人月入9000元",
+      "onboard_time": 1660890272,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1552141,
       "num": 1552141,
       "word": "BLACKPINK先行曲公开",
       "onboard_time": 1660879649,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1528019,
+      "num": 1528019,
+      "word": "QQ空间花藤停止运营",
+      "onboard_time": 1660892309,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 1445988,
@@ -121,6 +137,14 @@
       "onboard_time": 1660883854,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1376530,
+      "num": 1376530,
+      "word": "北京一感染者得知为密接后面包车里过夜",
+      "onboard_time": 1660892012,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1352515,
@@ -172,19 +196,11 @@
     },
     {
       "raw_hot": 1121915,
-      "num": 538092,
+      "num": 692909,
       "word": "劳荣枝称自己从未整容是个傻白甜",
       "onboard_time": 1660887035,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1110534,
-      "num": 1110534,
-      "word": "四线小城工人月入9000元",
-      "onboard_time": 1660890272,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1098007,
@@ -227,12 +243,12 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 969859,
-      "num": 525634,
-      "word": "北京一感染者得知为密接后面包车里过夜",
-      "onboard_time": 1660892012,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 938349,
+      "num": 938349,
+      "word": "红蜻蜓全场泪崩",
+      "onboard_time": 1660891110,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 919950,
@@ -283,6 +299,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 799146,
+      "num": 799146,
+      "word": "印度男子性侵女童未遂遭物理阉割",
+      "onboard_time": 1660893571,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787926,
       "num": 673009,
       "word": "唐周死在最爱的人手里",
@@ -331,14 +355,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 757499,
-      "num": 757499,
-      "word": "红蜻蜓全场泪崩",
-      "onboard_time": 1660891110,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 756640,
       "num": 577501,
       "word": "杭州奥克斯17岁男孩意外坠楼",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 719959,
-      "num": 497139,
+      "num": 589886,
       "word": "吴建豪出场",
       "onboard_time": 1660891351,
       "rank": 23,
@@ -427,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 688235,
-      "num": 688235,
-      "word": "QQ空间花藤停止运营",
-      "onboard_time": 1660892309,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 687589,
       "num": 687589,
       "word": "女孩收录取通知书时正在割猪草",
@@ -459,12 +467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 644072,
+      "num": 644072,
+      "word": "劳荣枝多次反问检方引哄笑",
+      "onboard_time": 1660893093,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637024,
       "num": 426415,
       "word": "杨紫首家文化传媒公司成立",
       "onboard_time": 1660836755,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628557,
+      "num": 628557,
+      "word": "Rose回归造型",
+      "onboard_time": 1660890150,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 627189,
@@ -481,14 +505,6 @@
       "onboard_time": 1660880190,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616988,
-      "num": 491452,
-      "word": "Rose回归造型",
-      "onboard_time": 1660890150,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 615349,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 434153,
-      "num": 207386,
+      "num": 235226,
       "word": "任贤齐个人喜爱度第一",
       "onboard_time": 1660889253,
       "rank": 33,
@@ -863,6 +879,14 @@
       "num": 375214,
       "word": "陕西增本土确诊52例",
       "onboard_time": 1660877128,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371542,
+      "num": 371542,
+      "word": "天安门广场暴雨中的升旗仪式",
+      "onboard_time": 1660892369,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -1027,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324530,
+      "num": 188988,
+      "word": "黄义达那女孩对我说舞台",
+      "onboard_time": 1660894051,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323614,
       "num": 323614,
       "word": "重庆新增7例本土确诊5例无症状",
@@ -1139,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288449,
+      "num": 107211,
+      "word": "吴克群唱为你写诗",
+      "onboard_time": 1660894652,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286965,
       "num": 164971,
       "word": "蔡徐坤新歌hugme巨幕舞台",
@@ -1171,28 +1211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280564,
-      "num": 280564,
-      "word": "天安门广场暴雨中的升旗仪式",
-      "onboard_time": 1660892369,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280242,
       "num": 280242,
       "word": "最成功的投资是投资自己吗",
       "onboard_time": 1660877491,
       "rank": 34,
       "category": "财经,情感"
-    },
-    {
-      "raw_hot": 276623,
-      "num": 276623,
-      "word": "劳荣枝多次反问检方引哄笑",
-      "onboard_time": 1660893093,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269129,
@@ -1283,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241284,
+      "num": 241284,
+      "word": "大学生5千米决赛体力透支爬向终点",
+      "onboard_time": 1660889072,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 239980,
       "num": 239980,
       "word": "圣枪哥是邓紫棋最大粉头",
@@ -1299,12 +1331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237275,
-      "num": 237275,
-      "word": "大学生5千米决赛体力透支爬向终点",
-      "onboard_time": 1660889072,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 237298,
+      "num": 237298,
+      "word": "饿了么上海",
+      "onboard_time": 1660887929,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 232433,
@@ -1403,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190397,
-      "num": 190397,
-      "word": "饿了么上海",
-      "onboard_time": 1660887929,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1660839511,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174606,
+      "num": 174606,
+      "word": "这是真实的中国医生",
+      "onboard_time": 1660893694,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173148,
@@ -1579,20 +1611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101983,
-      "num": 101983,
-      "word": "印度男子性侵女童未遂遭物理阉割",
-      "onboard_time": 1660893571,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100941,
       "num": 66533,
       "word": "原来作精可以这么可爱",
       "onboard_time": 1660845976,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100430,
+      "num": 100430,
+      "word": "高诗岩将重返辽宁队",
+      "onboard_time": 1660894293,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99728,
