@@ -1,0 +1,410 @@
+{
+  "runTime": 1660890629293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11573709,
+        "num": 11573709,
+        "word": "王鹤棣道歉",
+        "onboard_time": 1660888472,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1376345,
+        "num": 1376345,
+        "word": "真的建议高铁出个带孩子车厢",
+        "onboard_time": 1660848313,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28420,
+        "num": 1110496,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084985,
+        "num": 1084985,
+        "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
+        "onboard_time": 1660884513,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870157,
+        "num": 870157,
+        "word": "四六级",
+        "onboard_time": 1660882352,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 843593,
+        "num": 843593,
+        "word": "Lisa和Jennie双rap",
+        "onboard_time": 1660887211,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 804983,
+        "num": 804983,
+        "word": "江南 龙族",
+        "onboard_time": 1660883013,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 774345,
+        "num": 774345,
+        "word": "赵丽颖龚俊voguefilm合体封面",
+        "onboard_time": 1660883854,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608432,
+        "num": 608432,
+        "word": "特朗普集团前高管承认逃税",
+        "onboard_time": 1660885591,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 512865,
+        "num": 512865,
+        "word": "武警战士训练被狗狗亲了一口",
+        "onboard_time": 1660887749,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1914895,
+        "num": 510422,
+        "word": "劳荣枝否认和法子英是情侣",
+        "onboard_time": 1660885652,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013362,
+        "num": 500893,
+        "word": "劳荣枝称自己从未整容是个傻白甜",
+        "onboard_time": 1660887035,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923956,
+        "num": 497032,
+        "word": "难听",
+        "onboard_time": 1660883554,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 690300,
+        "num": 493590,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1660889372,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 627189,
+        "num": 482908,
+        "word": "林峯唱越难越爱",
+        "onboard_time": 1660888352,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590937,
+        "num": 476810,
+        "word": "北京大兴发现1名核酸阳性人员",
+        "onboard_time": 1660887988,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474497,
+        "num": 474497,
+        "word": "劳荣枝二审态度强硬不配合",
+        "onboard_time": 1660880131,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422751,
+        "num": 422751,
+        "word": "周五下班的理想状态",
+        "onboard_time": 1660884333,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352461,
+        "num": 352461,
+        "word": "0.06平方公里小岛上有6吨重弹片",
+        "onboard_time": 1660886495,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338551,
+        "num": 338551,
+        "word": "杭州奥克斯17岁男孩意外坠楼",
+        "onboard_time": 1660877970,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 590067,
+        "num": 338358,
+        "word": "jisoo回归造型",
+        "onboard_time": 1660884994,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 514028,
+        "num": 336709,
+        "word": "王鹤棣工作人员回应",
+        "onboard_time": 1660889193,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510532,
+        "num": 335392,
+        "word": "小兰花官宣新身份",
+        "onboard_time": 1660890272,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333136,
+        "num": 333136,
+        "word": "男子与全职太太离婚被判补偿15万",
+        "onboard_time": 1660872329,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306878,
+        "num": 306878,
+        "word": "清朗行动清理违法不良账号近14亿个",
+        "onboard_time": 1660883614,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492535,
+        "num": 291652,
+        "word": "吴磊演技",
+        "onboard_time": 1660878327,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268984,
+        "num": 268984,
+        "word": "四六级成绩什么时候出",
+        "onboard_time": 1660889433,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243550,
+        "num": 243550,
+        "word": "供应链称iPhone14系列已量产",
+        "onboard_time": 1660881693,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194958,
+        "num": 194958,
+        "word": "华为Mate50已开始量产",
+        "onboard_time": 1660875811,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194826,
+        "num": 194826,
+        "word": "茶颜悦色回应雇人排队代购炒作",
+        "onboard_time": 1660873526,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 495231,
+        "num": 194762,
+        "word": "YG",
+        "onboard_time": 1660884573,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495146,
+        "num": 194741,
+        "word": "披荆斩棘第二季初舞台歌单",
+        "onboard_time": 1660884455,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424099,
+        "num": 194583,
+        "word": "Rose回归造型",
+        "onboard_time": 1660890150,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434153,
+        "num": 194579,
+        "word": "任贤齐个人喜爱度第一",
+        "onboard_time": 1660889253,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194502,
+        "num": 194502,
+        "word": "大学生5千米决赛体力透支爬向终点",
+        "onboard_time": 1660889072,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173839,
+        "num": 173839,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1660886072,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169783,
+        "num": 169783,
+        "word": "2岁男孩帮店外躲雨工人搬椅子",
+        "onboard_time": 1660890150,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163056,
+        "num": 163056,
+        "word": "陕西新增本土确诊52例",
+        "onboard_time": 1660884513,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162900,
+        "num": 162900,
+        "word": "哥哥脚踩弟弟胳膊喂芒果",
+        "onboard_time": 1660874609,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 156422,
+        "num": 156422,
+        "word": "饿了么上海",
+        "onboard_time": 1660887929,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333381,
+        "num": 154415,
+        "word": "金智秀造型",
+        "onboard_time": 1660884697,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151844,
+        "num": 151844,
+        "word": "吃30天外卖瘦12斤",
+        "onboard_time": 1660867950,
+        "rank": 41,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 143948,
+        "num": 143948,
+        "word": "敦煌飞天编成舞有多美",
+        "onboard_time": 1660889614,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 140414,
+        "num": 140414,
+        "word": "熊孩子不懂礼家长不能不懂",
+        "onboard_time": 1660873889,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129494,
+        "num": 129494,
+        "word": "鲨鱼小猫",
+        "onboard_time": 1660878030,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127333,
+        "num": 127333,
+        "word": "这玩意儿竟然还会认人",
+        "onboard_time": 1660880791,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122147,
+        "num": 122147,
+        "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+        "onboard_time": 1660847894,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120444,
+        "num": 120444,
+        "word": "四线小城工人月入9000元",
+        "onboard_time": 1660890272,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 118047,
+        "num": 118047,
+        "word": "博士市长硬核亮家底喊话游子回乡",
+        "onboard_time": 1660880190,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107842,
+        "num": 107842,
+        "word": "新疆增本土确诊病例6例",
+        "onboard_time": 1660884036,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界职业技术教育发展大会#"
+    }
+  }
+}

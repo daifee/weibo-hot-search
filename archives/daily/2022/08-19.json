@@ -1,7 +1,15 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660887847216,
+  "endTime": 1660890629293,
   "band_list": [
+    {
+      "raw_hot": 11573709,
+      "num": 11573709,
+      "word": "王鹤棣道歉",
+      "onboard_time": 1660888472,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2760444,
       "num": 2760444,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1914895,
+      "num": 682595,
+      "word": "劳荣枝否认和法子英是情侣",
+      "onboard_time": 1660885652,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1846214,
       "num": 568168,
       "word": "百度网盘",
@@ -65,14 +81,6 @@
       "onboard_time": 1660887211,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1603532,
-      "num": 682595,
-      "word": "劳荣枝否认和法子英是情侣",
-      "onboard_time": 1660885652,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1559956,
@@ -185,6 +193,14 @@
       "onboard_time": 1660877787,
       "rank": 1,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1013362,
+      "num": 500893,
+      "word": "劳荣枝称自己从未整容是个傻白甜",
+      "onboard_time": 1660887035,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988191,
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690300,
+      "num": 493590,
+      "word": "BLACKPINK空降",
+      "onboard_time": 1660889372,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 687589,
       "num": 687589,
       "word": "女孩收录取通知书时正在割猪草",
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627189,
+      "num": 482908,
+      "word": "林峯唱越难越爱",
+      "onboard_time": 1660888352,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624295,
       "num": 624295,
       "word": "博士市长硬核亮家底喊话游子回乡",
@@ -417,6 +449,14 @@
       "onboard_time": 1660853351,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 590937,
+      "num": 476810,
+      "word": "北京大兴发现1名核酸阳性人员",
+      "onboard_time": 1660887988,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580378,
@@ -507,6 +547,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514028,
+      "num": 336709,
+      "word": "王鹤棣工作人员回应",
+      "onboard_time": 1660889193,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 512865,
+      "num": 512865,
+      "word": "武警战士训练被狗狗亲了一口",
+      "onboard_time": 1660887749,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 510532,
+      "num": 335392,
+      "word": "小兰花官宣新身份",
+      "onboard_time": 1660890272,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491371,
       "num": 415118,
       "word": "张馨予一人分饰母女两角",
@@ -593,6 +657,30 @@
       "onboard_time": 1660876588,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 434153,
+      "num": 194579,
+      "word": "任贤齐个人喜爱度第一",
+      "onboard_time": 1660889253,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 424099,
+      "num": 194583,
+      "word": "Rose回归造型",
+      "onboard_time": 1660890150,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 422751,
+      "num": 422751,
+      "word": "周五下班的理想状态",
+      "onboard_time": 1660884333,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420467,
@@ -755,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357115,
-      "num": 357115,
-      "word": "劳荣枝称自己从未整容是个傻白甜",
-      "onboard_time": 1660887035,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356859,
       "num": 216209,
       "word": "这就是街舞5预告",
@@ -771,20 +851,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352461,
+      "num": 352461,
+      "word": "0.06平方公里小岛上有6吨重弹片",
+      "onboard_time": 1660886495,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350113,
       "num": 334189,
       "word": "张元英安宥真概念照",
       "onboard_time": 1660837592,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 346872,
-      "num": 346872,
-      "word": "周五下班的理想状态",
-      "onboard_time": 1660884333,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345861,
@@ -1019,14 +1099,6 @@
       "category": "财经,情感"
     },
     {
-      "raw_hot": 273985,
-      "num": 273985,
-      "word": "0.06平方公里小岛上有6吨重弹片",
-      "onboard_time": 1660886495,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269129,
       "num": 145678,
       "word": "星汉灿烂",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1660831772,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268984,
+      "num": 268984,
+      "word": "四六级成绩什么时候出",
+      "onboard_time": 1660889433,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 267928,
@@ -1219,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194502,
+      "num": 194502,
+      "word": "大学生5千米决赛体力透支爬向终点",
+      "onboard_time": 1660889072,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
@@ -1249,6 +1337,14 @@
       "onboard_time": 1660882410,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 169783,
+      "num": 169783,
+      "word": "2岁男孩帮店外躲雨工人搬椅子",
+      "onboard_time": 1660890150,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168003,
@@ -1283,12 +1379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158457,
-      "num": 158457,
-      "word": "武警战士训练被狗狗亲了一口",
-      "onboard_time": 1660887749,
-      "rank": 47,
-      "category": "军事,社会新闻"
+      "raw_hot": 156422,
+      "num": 156422,
+      "word": "饿了么上海",
+      "onboard_time": 1660887929,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 156224,
@@ -1315,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143948,
+      "num": 143948,
+      "word": "敦煌飞天编成舞有多美",
+      "onboard_time": 1660889614,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 137590,
       "num": 137590,
       "word": "WBG获胜",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1660842980,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120444,
+      "num": 120444,
+      "word": "四线小城工人月入9000元",
+      "onboard_time": 1660890272,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 118078,
