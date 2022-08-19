@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660905780272,
+  "endTime": 1660907937593,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -299,6 +299,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2686756,
+      "num": 2686756,
+      "word": "杨戬",
+      "onboard_time": 1660551632,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2650498,
       "num": 2650498,
       "word": "张北海去世",
@@ -321,14 +329,6 @@
       "onboard_time": 1660895911,
       "rank": 4,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 2591713,
-      "num": 2591713,
-      "word": "杨戬",
-      "onboard_time": 1660551632,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 2589909,
@@ -1251,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1355819,
+      "num": 533120,
+      "word": "金瀚回应古装丑男",
+      "onboard_time": 1660903409,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1354618,
       "num": 1354618,
       "word": "彭州山洪被困父子父亲已获救",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1660507991,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1184797,
-      "num": 533120,
-      "word": "金瀚回应古装丑男",
-      "onboard_time": 1660903409,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1184375,
@@ -2307,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944670,
+      "num": 471884,
+      "word": "王源送花祝孙亦航演出顺利",
+      "onboard_time": 1660906648,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943096,
       "num": 943096,
       "word": "李易峰说00后都认识我",
@@ -2504,6 +2512,14 @@
       "word": "谢谢费宝",
       "onboard_time": 1660787908,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 885458,
+      "num": 885458,
+      "word": "流浪地球2沧海一粟版海报",
+      "onboard_time": 1660904250,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -3339,6 +3355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692146,
+      "num": 692146,
+      "word": "里根号航母已返回日本横须贺母港",
+      "onboard_time": 1660902510,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 690300,
       "num": 512127,
       "word": "BLACKPINK空降",
@@ -3723,14 +3747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 620955,
-      "num": 519791,
-      "word": "里根号航母已返回日本横须贺母港",
-      "onboard_time": 1660902510,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 620038,
       "num": 620038,
       "word": "超4成00后偏好体制内工作",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1660796196,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597776,
+      "num": 444606,
+      "word": "沉香重华停更三天",
+      "onboard_time": 1660905388,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 596974,
@@ -4603,6 +4627,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 527166,
+      "num": 527166,
+      "word": "TheShy",
+      "onboard_time": 1660907006,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 525953,
       "num": 525953,
       "word": "棣欣引力",
@@ -4817,14 +4849,6 @@
       "onboard_time": 1660808373,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 511444,
-      "num": 511444,
-      "word": "流浪地球2沧海一粟版海报",
-      "onboard_time": 1660904250,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 511317,
@@ -5483,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461202,
+      "num": 281720,
+      "word": "小个子没惹你们任何人",
+      "onboard_time": 1660906590,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461118,
       "num": 461118,
       "word": "TTG 九尾",
@@ -5731,14 +5763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 444639,
-      "num": 259059,
-      "word": "沉香重华停更三天",
-      "onboard_time": 1660905388,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 444540,
       "num": 376391,
       "word": "李冰冰大花气场",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1660710816,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442516,
+      "num": 281215,
+      "word": "王一博和老师学了喝茶",
+      "onboard_time": 1660905869,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 441932,
@@ -5905,6 +5937,14 @@
       "onboard_time": 1660651651,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 435887,
+      "num": 435887,
+      "word": "北京银行提醒个人医保存折客户",
+      "onboard_time": 1660902327,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 434735,
@@ -6185,14 +6225,6 @@
       "onboard_time": 1660725454,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 414115,
-      "num": 414115,
-      "word": "北京银行提醒个人医保存折客户",
-      "onboard_time": 1660902327,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 412872,
@@ -6489,6 +6521,14 @@
       "onboard_time": 1660814011,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395439,
+      "num": 395439,
+      "word": "WBG对战LNG",
+      "onboard_time": 1660898434,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 395352,
@@ -6931,6 +6971,14 @@
       "category": "动漫,社会新闻"
     },
     {
+      "raw_hot": 369535,
+      "num": 201533,
+      "word": "流浪地球2首支预告",
+      "onboard_time": 1660906230,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369490,
       "num": 272571,
       "word": "小兰花的愿望",
@@ -7017,14 +7065,6 @@
       "onboard_time": 1660622438,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 365630,
-      "num": 365630,
-      "word": "WBG对战LNG",
-      "onboard_time": 1660898434,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 365532,
@@ -7681,6 +7721,14 @@
       "onboard_time": 1660615352,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338449,
+      "num": 110089,
+      "word": "金泰妍音银舞台直拍",
+      "onboard_time": 1660907908,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 337948,
@@ -8843,6 +8891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286575,
+      "num": 286575,
+      "word": "孩子不想上学有错吗",
+      "onboard_time": 1660902389,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 286316,
       "num": 232067,
       "word": "车银优出演今天也很可爱男主",
@@ -9481,14 +9537,6 @@
       "onboard_time": 1660865244,
       "rank": 25,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 259540,
-      "num": 259540,
-      "word": "孩子不想上学有错吗",
-      "onboard_time": 1660902389,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 257822,
@@ -10531,6 +10579,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 208890,
+      "num": 208890,
+      "word": "四六级成绩8月底公布",
+      "onboard_time": 1660904728,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 207758,
       "num": 207758,
       "word": "女排亚洲杯中国名单公布",
@@ -10585,6 +10641,14 @@
       "onboard_time": 1660634551,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204066,
+      "num": 204066,
+      "word": "温州女生百米栏跑出13.61秒",
+      "onboard_time": 1660905569,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 203921,
@@ -10777,6 +10841,14 @@
       "onboard_time": 1660554871,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196908,
+      "num": 196908,
+      "word": "八成家长让小孩冒用自己身份玩游戏",
+      "onboard_time": 1660907067,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195594,
@@ -11067,6 +11139,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 177406,
+      "num": 177406,
+      "word": "2小孩花同伴捡的50元被爸爸罚跪",
+      "onboard_time": 1660906830,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177197,
       "num": 177197,
       "word": "猫咪的爱意有多让人窒息",
@@ -11161,14 +11241,6 @@
       "onboard_time": 1660882410,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 172711,
-      "num": 172711,
-      "word": "四六级成绩8月底公布",
-      "onboard_time": 1660904728,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 172580,
@@ -11491,6 +11563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148357,
+      "num": 148357,
+      "word": "小米发布2022二季度财报",
+      "onboard_time": 1660907428,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 147906,
       "num": 147906,
       "word": "唐周主动吻颜淡",
@@ -11592,6 +11672,14 @@
       "word": "连续高温上千只母鸡罢工",
       "onboard_time": 1660754245,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139712,
+      "num": 139712,
+      "word": "读完患者家属的手写信大夫哭了",
+      "onboard_time": 1660907306,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -11771,6 +11859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111327,
+      "num": 111327,
+      "word": "LNG BP",
+      "onboard_time": 1660907127,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109541,
       "num": 109541,
       "word": "海口延长临时性静态管理时间",
@@ -11811,14 +11907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102864,
-      "num": 102864,
-      "word": "温州女生百米栏跑出13.61秒",
-      "onboard_time": 1660905569,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100941,
       "num": 66533,
       "word": "原来作精可以这么可爱",
@@ -11849,6 +11937,14 @@
       "onboard_time": 1660472670,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97841,
+      "num": 97841,
+      "word": "男孩用第一桶金给消防员买了雪糕",
+      "onboard_time": 1660907908,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 97759,

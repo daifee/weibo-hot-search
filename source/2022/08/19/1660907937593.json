@@ -1,0 +1,410 @@
+{
+  "runTime": 1660907937593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3066051,
+        "num": 3066051,
+        "word": "中国宣布免除非洲17国23笔无息贷款债务",
+        "onboard_time": 1660901432,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2686756,
+        "num": 2686756,
+        "word": "杨戬",
+        "onboard_time": 1660898491,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17730,
+        "num": 1013496,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885458,
+        "num": 885458,
+        "word": "流浪地球2沧海一粟版海报",
+        "onboard_time": 1660904250,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 777644,
+        "num": 777644,
+        "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+        "onboard_time": 1660897233,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692146,
+        "num": 692146,
+        "word": "里根号航母已返回日本横须贺母港",
+        "onboard_time": 1660902510,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 642026,
+        "num": 642026,
+        "word": "吃饭遇邻桌当面给宝宝换带便尿布",
+        "onboard_time": 1660900351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615007,
+        "num": 615007,
+        "word": "潘玮柏个人喜爱度第二",
+        "onboard_time": 1660901250,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527166,
+        "num": 527166,
+        "word": "TheShy",
+        "onboard_time": 1660907006,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501966,
+        "num": 501966,
+        "word": "QQ空间花藤停止运营",
+        "onboard_time": 1660892309,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1355819,
+        "num": 496844,
+        "word": "金瀚回应古装丑男",
+        "onboard_time": 1660903409,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 944670,
+        "num": 471884,
+        "word": "王源送花祝孙亦航演出顺利",
+        "onboard_time": 1660906648,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742893,
+        "num": 462739,
+        "word": "劳荣枝多次反问检方引哄笑",
+        "onboard_time": 1660893093,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597776,
+        "num": 444606,
+        "word": "沉香重华停更三天",
+        "onboard_time": 1660905388,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435887,
+        "num": 435887,
+        "word": "北京银行提醒个人医保存折客户",
+        "onboard_time": 1660902327,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 429682,
+        "num": 429682,
+        "word": "吴尊友回应头发3年全白",
+        "onboard_time": 1660900767,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395439,
+        "num": 395439,
+        "word": "WBG对战LNG",
+        "onboard_time": 1660898434,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377845,
+        "num": 377845,
+        "word": "中方奉劝美方不要误判",
+        "onboard_time": 1660900591,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 326154,
+        "num": 326154,
+        "word": "55岁大叔模拟考科三被扣1000多分",
+        "onboard_time": 1660899752,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286575,
+        "num": 286575,
+        "word": "孩子不想上学有错吗",
+        "onboard_time": 1660902389,
+        "rank": 19,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 483358,
+        "num": 283480,
+        "word": "Angelababy水中比心四宫格",
+        "onboard_time": 1660901788,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461202,
+        "num": 281720,
+        "word": "小个子没惹你们任何人",
+        "onboard_time": 1660906590,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442516,
+        "num": 281215,
+        "word": "王一博和老师学了喝茶",
+        "onboard_time": 1660905869,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272784,
+        "num": 272784,
+        "word": "四线小城工人月入9000元",
+        "onboard_time": 1660890272,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 239280,
+        "num": 239280,
+        "word": "北京一感染者得知为密接后面包车里过夜",
+        "onboard_time": 1660892012,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227503,
+        "num": 227503,
+        "word": "你会考虑去工厂工作吗",
+        "onboard_time": 1660895673,
+        "rank": 25,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 212260,
+        "num": 212260,
+        "word": "周五下班的理想状态",
+        "onboard_time": 1660884333,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208890,
+        "num": 208890,
+        "word": "四六级成绩8月底公布",
+        "onboard_time": 1660904728,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206837,
+        "num": 206837,
+        "word": "四六级",
+        "onboard_time": 1660882352,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204066,
+        "num": 204066,
+        "word": "温州女生百米栏跑出13.61秒",
+        "onboard_time": 1660905569,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466958,
+        "num": 203768,
+        "word": "女子厕所冲水瞬间仙气飘飘",
+        "onboard_time": 1660895911,
+        "rank": 30,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 369535,
+        "num": 201533,
+        "word": "流浪地球2首支预告",
+        "onboard_time": 1660906230,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360564,
+        "num": 200491,
+        "word": "刘恺威唱将爱",
+        "onboard_time": 1660900230,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338174,
+        "num": 199311,
+        "word": "专家说热恋激发男生保护欲",
+        "onboard_time": 1660903772,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320469,
+        "num": 197057,
+        "word": "赵露思月升沧海自白",
+        "onboard_time": 1660901668,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196908,
+        "num": 196908,
+        "word": "八成家长让小孩冒用自己身份玩游戏",
+        "onboard_time": 1660907067,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192510,
+        "num": 192510,
+        "word": "成都为节电真的很努力",
+        "onboard_time": 1660898553,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177406,
+        "num": 177406,
+        "word": "2小孩花同伴捡的50元被爸爸罚跪",
+        "onboard_time": 1660906830,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161864,
+        "num": 161864,
+        "word": "江南 龙族",
+        "onboard_time": 1660883013,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148357,
+        "num": 148357,
+        "word": "小米发布2022二季度财报",
+        "onboard_time": 1660907428,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 309935,
+        "num": 147917,
+        "word": "少女时代FOREVER1初舞台",
+        "onboard_time": 1660903590,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144147,
+        "num": 144147,
+        "word": "劳荣枝称自己从未整容是个傻白甜",
+        "onboard_time": 1660887035,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139712,
+        "num": 139712,
+        "word": "读完患者家属的手写信大夫哭了",
+        "onboard_time": 1660907306,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128067,
+        "num": 128067,
+        "word": "这就是网瘾小猫吧",
+        "onboard_time": 1660899032,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121950,
+        "num": 121950,
+        "word": "13省市支援四川供电",
+        "onboard_time": 1660890812,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116808,
+        "num": 116808,
+        "word": "大连发现5名省外返连人员核酸结果异常",
+        "onboard_time": 1660895793,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111327,
+        "num": 111327,
+        "word": "LNG BP",
+        "onboard_time": 1660907127,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338449,
+        "num": 110089,
+        "word": "金泰妍音银舞台直拍",
+        "onboard_time": 1660907908,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107964,
+        "num": 107964,
+        "word": "小偷作案后逃跑被一群人狂追",
+        "onboard_time": 1660897772,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97841,
+        "num": 97841,
+        "word": "男孩用第一桶金给消防员买了雪糕",
+        "onboard_time": 1660907908,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民领袖的人民情怀#"
+    }
+  }
+}

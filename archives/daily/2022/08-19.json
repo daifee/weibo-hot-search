@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660905780272,
+  "endTime": 1660907937593,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -35,20 +35,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 2686756,
+      "num": 2686756,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2605848,
       "num": 2605848,
       "word": "女子厕所冲水瞬间仙气飘飘",
       "onboard_time": 1660895911,
       "rank": 4,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 2591713,
-      "num": 2591713,
-      "word": "杨戬",
-      "onboard_time": 1660898491,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 2589909,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1355819,
+      "num": 533120,
+      "word": "金瀚回应古装丑男",
+      "onboard_time": 1660903409,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352515,
       "num": 1352515,
       "word": "小兰花官宣新身份",
@@ -249,14 +257,6 @@
       "onboard_time": 1660884155,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1184797,
-      "num": 533120,
-      "word": "金瀚回应古装丑男",
-      "onboard_time": 1660903409,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1134143,
@@ -323,6 +323,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 944670,
+      "num": 471884,
+      "word": "王源送花祝孙亦航演出顺利",
+      "onboard_time": 1660906648,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 919950,
       "num": 358674,
       "word": "鹿晗长发丸子头",
@@ -337,6 +345,14 @@
       "onboard_time": 1660884697,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 885458,
+      "num": 885458,
+      "word": "流浪地球2沧海一粟版海报",
+      "onboard_time": 1660904250,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 847996,
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692146,
+      "num": 692146,
+      "word": "里根号航母已返回日本横须贺母港",
+      "onboard_time": 1660902510,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 690300,
       "num": 512127,
       "word": "BLACKPINK空降",
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620955,
-      "num": 519791,
-      "word": "里根号航母已返回日本横须贺母港",
-      "onboard_time": 1660902510,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 615349,
       "num": 526432,
       "word": "王鹤棣ELLEMEN新青年秋季刊封面",
@@ -625,6 +641,14 @@
       "onboard_time": 1660875990,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597776,
+      "num": 444606,
+      "word": "沉香重华停更三天",
+      "onboard_time": 1660905388,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 595069,
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527166,
+      "num": 527166,
+      "word": "TheShy",
+      "onboard_time": 1660907006,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 524065,
       "num": 524065,
       "word": "好心疼梁爽",
@@ -769,14 +801,6 @@
       "onboard_time": 1660887749,
       "rank": 47,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 511444,
-      "num": 511444,
-      "word": "流浪地球2沧海一粟版海报",
-      "onboard_time": 1660904250,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 503961,
@@ -851,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 461202,
+      "num": 281720,
+      "word": "小个子没惹你们任何人",
+      "onboard_time": 1660906590,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456781,
       "num": 456781,
       "word": "应该多久洗一次头有利头皮",
@@ -883,11 +915,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 444639,
-      "num": 259059,
-      "word": "沉香重华停更三天",
-      "onboard_time": 1660905388,
-      "rank": 25,
+      "raw_hot": 442516,
+      "num": 281215,
+      "word": "王一博和老师学了喝茶",
+      "onboard_time": 1660905869,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -897,6 +929,14 @@
       "onboard_time": 1660876588,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 435887,
+      "num": 435887,
+      "word": "北京银行提醒个人医保存折客户",
+      "onboard_time": 1660902327,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 434643,
@@ -971,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414115,
-      "num": 414115,
-      "word": "北京银行提醒个人医保存折客户",
-      "onboard_time": 1660902327,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 410171,
       "num": 410171,
       "word": "王鹤棣大学是舞蹈专业的吧",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1660890150,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395439,
+      "num": 395439,
+      "word": "WBG对战LNG",
+      "onboard_time": 1660898434,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 395291,
@@ -1091,12 +1131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365630,
-      "num": 365630,
-      "word": "WBG对战LNG",
-      "onboard_time": 1660898434,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 369535,
+      "num": 201533,
+      "word": "流浪地球2首支预告",
+      "onboard_time": 1660906230,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 365383,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1660835552,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 338449,
+      "num": 110089,
+      "word": "金泰妍音银舞台直拍",
+      "onboard_time": 1660907908,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 336585,
@@ -1443,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286575,
+      "num": 286575,
+      "word": "孩子不想上学有错吗",
+      "onboard_time": 1660902389,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 285953,
       "num": 285953,
       "word": "当领导是我的朋友时",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1660865244,
       "rank": 25,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 259540,
-      "num": 259540,
-      "word": "孩子不想上学有错吗",
-      "onboard_time": 1660902389,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 255723,
@@ -1715,6 +1763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 208890,
+      "num": 208890,
+      "word": "四六级成绩8月底公布",
+      "onboard_time": 1660904728,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 208695,
       "num": 208695,
       "word": "不想再自卑下去了",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1660842860,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204066,
+      "num": 204066,
+      "word": "温州女生百米栏跑出13.61秒",
+      "onboard_time": 1660905569,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 203921,
@@ -1760,6 +1824,14 @@
       "word": "8月18日新增本土无症状2119例",
       "onboard_time": 1660873467,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196908,
+      "num": 196908,
+      "word": "八成家长让小孩冒用自己身份玩游戏",
+      "onboard_time": 1660907067,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177406,
+      "num": 177406,
+      "word": "2小孩花同伴捡的50元被爸爸罚跪",
+      "onboard_time": 1660906830,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175059,
       "num": 175059,
       "word": "还记得读书时你喜欢的人吗",
@@ -1825,14 +1905,6 @@
       "onboard_time": 1660882410,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 172711,
-      "num": 172711,
-      "word": "四六级成绩8月底公布",
-      "onboard_time": 1660904728,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 168003,
@@ -1891,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148357,
+      "num": 148357,
+      "word": "小米发布2022二季度财报",
+      "onboard_time": 1660907428,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 146233,
       "num": 146233,
       "word": "熬夜久了都有哪些小毛病",
@@ -1921,6 +2001,14 @@
       "onboard_time": 1660889614,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 139712,
+      "num": 139712,
+      "word": "读完患者家属的手写信大夫哭了",
+      "onboard_time": 1660907306,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137590,
@@ -1979,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111327,
+      "num": 111327,
+      "word": "LNG BP",
+      "onboard_time": 1660907127,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109198,
       "num": 109198,
       "word": "EDG获得冒泡赛资格",
@@ -1993,14 +2089,6 @@
       "onboard_time": 1660828770,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102864,
-      "num": 102864,
-      "word": "温州女生百米栏跑出13.61秒",
-      "onboard_time": 1660905569,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100941,
@@ -2025,6 +2113,14 @@
       "onboard_time": 1660890991,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 97841,
+      "num": 97841,
+      "word": "男孩用第一桶金给消防员买了雪糕",
+      "onboard_time": 1660907908,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 87477,
