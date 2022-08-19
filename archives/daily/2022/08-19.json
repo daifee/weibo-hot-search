@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660907937593,
+  "endTime": 1660908933604,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2782960,
+      "num": 2782960,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2760444,
       "num": 2760444,
       "word": "刚毕业就月薪3万是啥体验",
       "onboard_time": 1660874127,
       "rank": 0,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 2686756,
-      "num": 2686756,
-      "word": "杨戬",
-      "onboard_time": 1660898491,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 2605848,
@@ -291,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1069159,
+      "num": 1069159,
+      "word": "流浪地球2沧海一粟版海报",
+      "onboard_time": 1660904250,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1047278,
       "num": 1034350,
       "word": "jisoo回归造型",
@@ -345,14 +353,6 @@
       "onboard_time": 1660884697,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 885458,
-      "num": 885458,
-      "word": "流浪地球2沧海一粟版海报",
-      "onboard_time": 1660904250,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 847996,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603901,
+      "num": 603901,
+      "word": "TheShy",
+      "onboard_time": 1660907006,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 597776,
       "num": 444606,
       "word": "沉香重华停更三天",
@@ -747,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527166,
-      "num": 527166,
-      "word": "TheShy",
-      "onboard_time": 1660907006,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 526729,
+      "num": 281720,
+      "word": "小个子没惹你们任何人",
+      "onboard_time": 1660906590,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 524065,
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479240,
+      "num": 281215,
+      "word": "王一博和老师学了喝茶",
+      "onboard_time": 1660905869,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478362,
       "num": 253754,
       "word": "披荆斩棘第二季开播",
@@ -873,14 +889,6 @@
       "onboard_time": 1660901668,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 461202,
-      "num": 281720,
-      "word": "小个子没惹你们任何人",
-      "onboard_time": 1660906590,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 456781,
@@ -912,14 +920,6 @@
       "word": "苍兰诀特效",
       "onboard_time": 1660870350,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 442516,
-      "num": 281215,
-      "word": "王一博和老师学了喝茶",
-      "onboard_time": 1660905869,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1083,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387676,
+      "num": 387676,
+      "word": "四六级成绩8月底公布",
+      "onboard_time": 1660904728,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 385644,
       "num": 385644,
       "word": "饿了么",
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 369535,
-      "num": 201533,
+      "num": 211213,
       "word": "流浪地球2首支预告",
       "onboard_time": 1660906230,
       "rank": 31,
@@ -1427,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307122,
+      "num": 209802,
+      "word": "BLACKPINK新歌MV身穿曼联球衣",
+      "onboard_time": 1660908628,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306106,
       "num": 306106,
       "word": "蔡徐坤新歌舞台皮裤造型",
@@ -1448,6 +1464,14 @@
       "word": "张远婚庆歌手上线",
       "onboard_time": 1660836815,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297125,
+      "num": 145451,
+      "word": "林允儿音银舞台直拍",
+      "onboard_time": 1660908748,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1531,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282031,
+      "num": 114256,
+      "word": "分享相册里的美好",
+      "onboard_time": 1660908928,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 280242,
       "num": 280242,
       "word": "最成功的投资是投资自己吗",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1660865244,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 257355,
+      "num": 257355,
+      "word": "八成家长让小孩冒用自己身份玩游戏",
+      "onboard_time": 1660907067,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255723,
@@ -1699,6 +1739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238019,
+      "num": 238019,
+      "word": "2小孩花同伴捡的50元被爸爸罚跪",
+      "onboard_time": 1660906830,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237805,
+      "num": 237805,
+      "word": "摄影日挑战一张封神",
+      "onboard_time": 1660908628,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237298,
       "num": 237298,
       "word": "饿了么上海",
@@ -1739,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219496,
+      "num": 219496,
+      "word": "温州女生百米栏跑出13.61秒",
+      "onboard_time": 1660905569,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214632,
       "num": 214632,
       "word": "重庆西站疫情防控",
@@ -1763,12 +1827,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 208890,
-      "num": 208890,
-      "word": "四六级成绩8月底公布",
-      "onboard_time": 1660904728,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 208801,
+      "num": 208801,
+      "word": "小米发布2022二季度财报",
+      "onboard_time": 1660907428,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 208695,
@@ -1785,14 +1849,6 @@
       "onboard_time": 1660842860,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204066,
-      "num": 204066,
-      "word": "温州女生百米栏跑出13.61秒",
-      "onboard_time": 1660905569,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 203921,
@@ -1824,14 +1880,6 @@
       "word": "8月18日新增本土无症状2119例",
       "onboard_time": 1660873467,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196908,
-      "num": 196908,
-      "word": "八成家长让小孩冒用自己身份玩游戏",
-      "onboard_time": 1660907067,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1867,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177406,
-      "num": 177406,
-      "word": "2小孩花同伴捡的50元被爸爸罚跪",
-      "onboard_time": 1660906830,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175059,
       "num": 175059,
       "word": "还记得读书时你喜欢的人吗",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1660882410,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 170436,
+      "num": 170436,
+      "word": "男孩用第一桶金给消防员买了雪糕",
+      "onboard_time": 1660907908,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 168003,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1660826189,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148357,
-      "num": 148357,
-      "word": "小米发布2022二季度财报",
-      "onboard_time": 1660907428,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 146233,
@@ -2113,14 +2153,6 @@
       "onboard_time": 1660890991,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 97841,
-      "num": 97841,
-      "word": "男孩用第一桶金给消防员买了雪糕",
-      "onboard_time": 1660907908,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 87477,
