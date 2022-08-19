@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660934886437,
+  "endTime": 1660936642561,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -12571,20 +12571,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109869,
+      "num": 81353,
+      "word": "只有袁慎受伤的世界达成了",
+      "onboard_time": 1660933394,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109541,
       "num": 109541,
       "word": "海口延长临时性静态管理时间",
       "onboard_time": 1660488336,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108124,
-      "num": 81353,
-      "word": "只有袁慎受伤的世界达成了",
-      "onboard_time": 1660933394,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 107935,
