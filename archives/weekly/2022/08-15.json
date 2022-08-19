@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660883493446,
+  "endTime": 1660887030981,
   "band_list": [
     {
       "raw_hot": 9559409,
@@ -291,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2554296,
+      "num": 488801,
+      "word": "难听",
+      "onboard_time": 1660883554,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2532768,
       "num": 2532768,
       "word": "杨紫又捅夫了",
@@ -403,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2261410,
+      "num": 2261410,
+      "word": "四六级",
+      "onboard_time": 1660882352,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2255965,
       "num": 2255965,
       "word": "四川40℃以上停止户外露天作业",
@@ -433,6 +449,14 @@
       "onboard_time": 1660811132,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2124093,
+      "num": 2124093,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 2118845,
@@ -987,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1461475,
-      "num": 1461475,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1452060,
       "num": 1452060,
       "word": "龙湖集团回应网传将于8月底破产",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1660733852,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1425992,
+      "num": 1425992,
+      "word": "赵丽颖龚俊voguefilm合体封面",
+      "onboard_time": 1660883854,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1422213,
@@ -1427,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1218077,
+      "num": 1218077,
+      "word": "江南 龙族",
+      "onboard_time": 1660883013,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1211790,
       "num": 1211790,
       "word": "韩国民众当街表演痛打日军",
@@ -1443,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1206334,
+      "num": 1206334,
+      "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
+      "onboard_time": 1660884513,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1199128,
       "num": 1199128,
       "word": "西南交大上百研究生新生需校外自费租房",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1660578809,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188565,
+      "num": 1188565,
+      "word": "Jennie rap",
+      "onboard_time": 1660884155,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1185262,
@@ -1731,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1087673,
-      "num": 1087673,
-      "word": "四六级",
-      "onboard_time": 1660882352,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1083507,
       "num": 1083507,
       "word": "四川电力供需紧张让电于民",
@@ -1785,6 +1825,14 @@
       "onboard_time": 1660508472,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1069922,
+      "num": 1069922,
+      "word": "YG",
+      "onboard_time": 1660884573,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1069843,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1660824871,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1047278,
+      "num": 485241,
+      "word": "jisoo回归造型",
+      "onboard_time": 1660884994,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 1040826,
@@ -2283,6 +2339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 892006,
+      "num": 483390,
+      "word": "金智秀造型",
+      "onboard_time": 1660884697,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 889776,
       "num": 889776,
       "word": "官方回应厦门给鱼做核酸",
@@ -2481,6 +2545,14 @@
       "onboard_time": 1660636591,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 817291,
+      "num": 480115,
+      "word": "劳荣枝否认和法子英是情侣",
+      "onboard_time": 1660885652,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815855,
@@ -3187,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665568,
+      "num": 430155,
+      "word": "王源张雪迎星辰大海民国造型路透",
+      "onboard_time": 1660883497,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 665352,
       "num": 665352,
       "word": "苍兰诀封神名场面",
@@ -3379,6 +3459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 630949,
+      "num": 630949,
+      "word": "清朗行动清理违法不良账号近14亿个",
+      "onboard_time": 1660883614,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628245,
       "num": 628245,
       "word": "手机销量重回7年前",
@@ -3425,6 +3513,14 @@
       "onboard_time": 1660718430,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615349,
+      "num": 526432,
+      "word": "王鹤棣ELLEMEN新青年秋季刊封面",
+      "onboard_time": 1660883254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 615179,
@@ -4227,14 +4323,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 526432,
-      "num": 526432,
-      "word": "王鹤棣ELLEMEN新青年秋季刊封面",
-      "onboard_time": 1660883254,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 525953,
       "num": 525953,
       "word": "棣欣引力",
@@ -4515,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504441,
+      "num": 253181,
+      "word": "披荆斩棘第二季初舞台歌单",
+      "onboard_time": 1660884455,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503923,
       "num": 503923,
       "word": "考驾照最难的是哪个项目",
@@ -4665,6 +4761,14 @@
       "onboard_time": 1660877309,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490706,
+      "num": 490706,
+      "word": "供应链称iPhone14系列已量产",
+      "onboard_time": 1660881693,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 489671,
@@ -4867,6 +4971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 477266,
+      "num": 477266,
+      "word": "光与夜之恋陆沉",
+      "onboard_time": 1660886072,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 477200,
       "num": 334490,
       "word": "请参加向前冲的嘉宾注意表情管理",
@@ -4961,6 +5073,14 @@
       "onboard_time": 1660765571,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468264,
+      "num": 468264,
+      "word": "特朗普集团前高管承认逃税",
+      "onboard_time": 1660885591,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 466815,
@@ -5145,6 +5265,14 @@
       "onboard_time": 1660539213,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 453247,
+      "num": 252512,
+      "word": "吴卓羲初舞台",
+      "onboard_time": 1660886435,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 450891,
@@ -6275,6 +6403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376014,
+      "num": 215981,
+      "word": "范丞丞聊新片说秃噜嘴了",
+      "onboard_time": 1660886671,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375712,
       "num": 375712,
       "word": "重庆51条河流断流24座水库干涸",
@@ -6379,14 +6515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369909,
-      "num": 369909,
-      "word": "江南 龙族",
-      "onboard_time": 1660883013,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 369845,
       "num": 369845,
       "word": "95后大湾区女孩要让国漫走向海外",
@@ -6417,6 +6545,14 @@
       "onboard_time": 1660639833,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 367761,
+      "num": 298541,
+      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
+      "onboard_time": 1660882050,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 367379,
@@ -6723,6 +6859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 356859,
+      "num": 216209,
+      "word": "这就是街舞5预告",
+      "onboard_time": 1660885893,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356651,
       "num": 277482,
       "word": "方芷衡的复仇计划就在今天",
@@ -6963,14 +7107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344480,
-      "num": 298541,
-      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
-      "onboard_time": 1660882050,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344369,
       "num": 215411,
       "word": "唐周问颜淡想嫁给谁",
@@ -6985,14 +7121,6 @@
       "onboard_time": 1660555530,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343673,
-      "num": 343673,
-      "word": "供应链称iPhone14系列已量产",
-      "onboard_time": 1660881693,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 342601,
@@ -7891,6 +8019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302624,
+      "num": 302624,
+      "word": "广东人最爱的菜心居然产自宁夏",
+      "onboard_time": 1660882170,
+      "rank": 34,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 302450,
       "num": 302450,
       "word": "中方的坚定举措台独会感受到",
@@ -7985,14 +8121,6 @@
       "onboard_time": 1660620390,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298081,
-      "num": 298081,
-      "word": "广东人最爱的菜心居然产自宁夏",
-      "onboard_time": 1660882170,
-      "rank": 34,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 297202,
@@ -8995,12 +9123,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 252085,
+      "num": 252085,
+      "word": "周五下班的理想状态",
+      "onboard_time": 1660884333,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252063,
       "num": 252063,
       "word": "王鹤棣东方青苍人间造型",
       "onboard_time": 1660483171,
       "rank": 43,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 251954,
+      "num": 251954,
+      "word": "陕西新增本土确诊52例",
+      "onboard_time": 1660884513,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251799,
@@ -9411,6 +9555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230514,
+      "num": 230514,
+      "word": "新疆增本土确诊病例6例",
+      "onboard_time": 1660884036,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230172,
       "num": 230172,
       "word": "爸爸把对我的爱跟小猫说了",
@@ -9627,6 +9779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217871,
+      "num": 217871,
+      "word": "医生的天书书法",
+      "onboard_time": 1660882710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217009,
       "num": 217009,
       "word": "李清照诗词照进现实了",
@@ -9825,6 +9985,14 @@
       "onboard_time": 1660824210,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 205428,
+      "num": 205428,
+      "word": "0.06平方公里小岛上有6吨重弹片",
+      "onboard_time": 1660886495,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205367,
@@ -10297,14 +10465,6 @@
       "onboard_time": 1660486474,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178897,
-      "num": 178897,
-      "word": "医生的天书书法",
-      "onboard_time": 1660882710,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177629,
@@ -11430,6 +11590,9 @@
     },
     {
       "word": "#世界职业技术教育发展大会#"
+    },
+    {
+      "word": "#医者力量#"
     }
   ]
 }
