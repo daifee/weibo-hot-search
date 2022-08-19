@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660891691683,
+  "endTime": 1660893663904,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -49,6 +49,14 @@
       "onboard_time": 1660880131,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1934616,
+      "num": 1934616,
+      "word": "江南 龙族",
+      "onboard_time": 1660883013,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 1914895,
@@ -115,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1352515,
+      "num": 1352515,
+      "word": "小兰花官宣新身份",
+      "onboard_time": 1660890272,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1349748,
       "num": 476028,
       "word": "百度网盘回应人工审核用户照片",
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1218077,
-      "num": 1218077,
-      "word": "江南 龙族",
-      "onboard_time": 1660883013,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 1188565,
       "num": 1188565,
       "word": "Jennie rap",
@@ -169,6 +177,14 @@
       "onboard_time": 1660887035,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110534,
+      "num": 1110534,
+      "word": "四线小城工人月入9000元",
+      "onboard_time": 1660890272,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1098007,
@@ -211,12 +227,12 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 933619,
-      "num": 933619,
-      "word": "小兰花官宣新身份",
-      "onboard_time": 1660890272,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 969859,
+      "num": 525634,
+      "word": "北京一感染者得知为密接后面包车里过夜",
+      "onboard_time": 1660892012,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919950,
@@ -249,6 +265,14 @@
       "onboard_time": 1660875811,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 820162,
+      "num": 820162,
+      "word": "杜淳被家务男公认反差最大",
+      "onboard_time": 1660890631,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 809928,
@@ -307,6 +331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 757499,
+      "num": 757499,
+      "word": "红蜻蜓全场泪崩",
+      "onboard_time": 1660891110,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756640,
       "num": 577501,
       "word": "杭州奥克斯17岁男孩意外坠楼",
@@ -329,6 +361,14 @@
       "onboard_time": 1660883614,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719959,
+      "num": 497139,
+      "word": "吴建豪出场",
+      "onboard_time": 1660891351,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 706083,
@@ -385,6 +425,14 @@
       "onboard_time": 1660889372,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 688235,
+      "num": 688235,
+      "word": "QQ空间花藤停止运营",
+      "onboard_time": 1660892309,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 687589,
@@ -507,14 +555,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 550902,
-      "num": 372313,
-      "word": "杜淳被家务男公认反差最大",
-      "onboard_time": 1660890631,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 540957,
       "num": 540957,
       "word": "刘恺威披荆斩棘入营开箱vlog",
@@ -595,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 490844,
-      "num": 315491,
-      "word": "吴建豪出场",
-      "onboard_time": 1660891351,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 490706,
       "num": 490706,
       "word": "供应链称iPhone14系列已量产",
@@ -659,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450619,
-      "num": 222512,
-      "word": "红蜻蜓全场泪崩",
-      "onboard_time": 1660891110,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 447112,
       "num": 414062,
       "word": "关晓彤哭戏",
@@ -691,8 +715,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 434643,
+      "num": 434643,
+      "word": "13省市支援四川供电",
+      "onboard_time": 1660890812,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434153,
-      "num": 194579,
+      "num": 207386,
       "word": "任贤齐个人喜爱度第一",
       "onboard_time": 1660889253,
       "rank": 33,
@@ -747,20 +779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404012,
-      "num": 404012,
-      "word": "四线小城工人月入9000元",
-      "onboard_time": 1660890272,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 401751,
-      "num": 146037,
+      "num": 215164,
       "word": "家务男人均八百个心眼子",
       "onboard_time": 1660891531,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401013,
+      "num": 401013,
+      "word": "2岁男孩帮店外躲雨工人搬椅子",
+      "onboard_time": 1660890150,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395291,
@@ -897,6 +929,14 @@
       "onboard_time": 1660886495,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350968,
+      "num": 137276,
+      "word": "朴彩英摇滚吉他",
+      "onboard_time": 1660893031,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 350113,
@@ -1099,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289447,
-      "num": 289447,
-      "word": "2岁男孩帮店外躲雨工人搬椅子",
-      "onboard_time": 1660890150,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286965,
       "num": 164971,
       "word": "蔡徐坤新歌hugme巨幕舞台",
@@ -1139,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280564,
+      "num": 280564,
+      "word": "天安门广场暴雨中的升旗仪式",
+      "onboard_time": 1660892369,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280242,
       "num": 280242,
       "word": "最成功的投资是投资自己吗",
       "onboard_time": 1660877491,
       "rank": 34,
       "category": "财经,情感"
+    },
+    {
+      "raw_hot": 276623,
+      "num": 276623,
+      "word": "劳荣枝多次反问检方引哄笑",
+      "onboard_time": 1660893093,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269129,
@@ -1251,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237275,
+      "num": 237275,
+      "word": "大学生5千米决赛体力透支爬向终点",
+      "onboard_time": 1660889072,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 232433,
       "num": 225892,
       "word": "陈哲远换发型",
@@ -1273,22 +1329,6 @@
       "onboard_time": 1660884036,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226960,
-      "num": 226960,
-      "word": "13省市支援四川供电",
-      "onboard_time": 1660890812,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216850,
-      "num": 216850,
-      "word": "大学生5千米决赛体力透支爬向终点",
-      "onboard_time": 1660889072,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 214632,
@@ -1363,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190397,
+      "num": 190397,
+      "word": "饿了么上海",
+      "onboard_time": 1660887929,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1660881752,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156422,
-      "num": 156422,
-      "word": "饿了么上海",
-      "onboard_time": 1660887929,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 156224,
@@ -1535,6 +1575,14 @@
       "num": 108021,
       "word": "核酸检测机器人15秒一签",
       "onboard_time": 1660828770,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101983,
+      "num": 101983,
+      "word": "印度男子性侵女童未遂遭物理阉割",
+      "onboard_time": 1660893571,
       "rank": 49,
       "category": "社会新闻"
     },
