@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660914375242,
+  "endTime": 1660916568299,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -1403,20 +1403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306977,
+      "num": 1304399,
+      "word": "杨幂赵今麦草莓耳环",
+      "onboard_time": 1660911987,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1305202,
       "num": 1305202,
       "word": "为什么年轻人转向智性恋",
       "onboard_time": 1660657833,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1304399,
-      "num": 1304399,
-      "word": "杨幂赵今麦草莓耳环",
-      "onboard_time": 1660911987,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1302693,
@@ -2059,6 +2059,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1055205,
+      "num": 719472,
+      "word": "陈奕迅线上演唱会",
+      "onboard_time": 1660914809,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1055094,
       "num": 1055094,
       "word": "河南2所大学入围全球1000强",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1660709194,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1005297,
+      "num": 371730,
+      "word": "BLACKPINK演唱会门票价格",
+      "onboard_time": 1660914151,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 1004140,
@@ -2684,7 +2700,7 @@
     },
     {
       "raw_hot": 847065,
-      "num": 438832,
+      "num": 710364,
       "word": "苏有朋说小虎队永远都是我的最初",
       "onboard_time": 1660910129,
       "rank": 20,
@@ -2760,6 +2776,14 @@
       "word": "请君",
       "onboard_time": 1660636591,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 827110,
+      "num": 713917,
+      "word": "吴磊夸赵露思拍照好看",
+      "onboard_time": 1660914270,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -2849,6 +2873,14 @@
       "onboard_time": 1660631728,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 794435,
+      "num": 794435,
+      "word": "街道回应17岁男孩意外坠楼",
+      "onboard_time": 1660913671,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789458,
@@ -3035,6 +3067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 765520,
+      "num": 765520,
+      "word": "小黄猫发现火情又蹦又跳叫醒主人",
+      "onboard_time": 1660910667,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764436,
       "num": 764436,
       "word": "重庆沙坪坝疫情防控",
@@ -3049,6 +3089,14 @@
       "onboard_time": 1660885591,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 757912,
+      "num": 757912,
+      "word": "西安4天新增54例阳性感染者",
+      "onboard_time": 1660913552,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756899,
@@ -3073,6 +3121,14 @@
       "onboard_time": 1660641093,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 756282,
+      "num": 756282,
+      "word": "无畏状态",
+      "onboard_time": 1660911870,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 749232,
@@ -3203,6 +3259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 719756,
+      "num": 719756,
+      "word": "河南成为全国第一个40℃大满贯省份",
+      "onboard_time": 1660915471,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719581,
       "num": 719581,
       "word": "大爷大妈进超市避暑脱鞋躺货架",
@@ -3217,14 +3281,6 @@
       "onboard_time": 1660631012,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714899,
-      "num": 714899,
-      "word": "无畏状态",
-      "onboard_time": 1660911870,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 712572,
@@ -3931,14 +3987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 604044,
-      "num": 604044,
-      "word": "小黄猫发现火情又蹦又跳叫醒主人",
-      "onboard_time": 1660910667,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603998,
       "num": 603998,
       "word": "赵露思帮吴磊擦汗",
@@ -3969,6 +4017,14 @@
       "onboard_time": 1660796196,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598699,
+      "num": 598699,
+      "word": "Hero对战AG",
+      "onboard_time": 1660909287,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 597776,
@@ -4697,6 +4753,14 @@
       "onboard_time": 1660619011,
       "rank": 18,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 526833,
+      "num": 526833,
+      "word": "骆歆衣服穿反了",
+      "onboard_time": 1660913728,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 525953,
@@ -5739,14 +5803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448250,
-      "num": 263244,
-      "word": "BLACKPINK演唱会门票价格",
-      "onboard_time": 1660914151,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 447315,
       "num": 447315,
       "word": "上海全面推行轻微违法行为依法不予行政处罚",
@@ -6155,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426099,
+      "num": 426099,
+      "word": "KPL",
+      "onboard_time": 1660749455,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 425889,
       "num": 425889,
       "word": "吴磊谈复仇戏拍摄心得",
@@ -6257,14 +6321,6 @@
       "onboard_time": 1660796496,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418415,
-      "num": 189862,
-      "word": "吴磊夸赵露思拍照好看",
-      "onboard_time": 1660914270,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 418364,
@@ -6603,6 +6659,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 397464,
+      "num": 246310,
+      "word": "丁程鑫杀鱼",
+      "onboard_time": 1660914389,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397416,
       "num": 259707,
       "word": "王源818晚会星空西装造型",
@@ -6787,6 +6851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386493,
+      "num": 386493,
+      "word": "AG永不五杀",
+      "onboard_time": 1660913430,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385788,
       "num": 385788,
       "word": "42度都排不上全国高温前10",
@@ -6963,14 +7035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376289,
-      "num": 240364,
-      "word": "西安4天新增54例阳性感染者",
-      "onboard_time": 1660913552,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376014,
       "num": 215981,
       "word": "范丞丞聊新片说秃噜嘴了",
@@ -6993,6 +7057,14 @@
       "onboard_time": 1660882050,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375297,
+      "num": 375297,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1660914749,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 375285,
@@ -7073,14 +7145,6 @@
       "onboard_time": 1660561289,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371547,
-      "num": 371547,
-      "word": "Hero对战AG",
-      "onboard_time": 1660909287,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 370795,
@@ -7636,7 +7700,7 @@
     },
     {
       "raw_hot": 350098,
-      "num": 187527,
+      "num": 242017,
       "word": "黄晓明新剧刚转正就分手",
       "onboard_time": 1660911749,
       "rank": 34,
@@ -7681,14 +7745,6 @@
       "onboard_time": 1660562250,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346833,
-      "num": 346833,
-      "word": "AG永不五杀",
-      "onboard_time": 1660913430,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 346791,
@@ -8339,6 +8395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 320423,
+      "num": 238621,
+      "word": "王紫璇扫楼港风造型",
+      "onboard_time": 1660914389,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319714,
       "num": 257415,
       "word": "杨采钰张慧雯有效惩罚",
@@ -8409,14 +8473,6 @@
       "onboard_time": 1660573352,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315774,
-      "num": 315774,
-      "word": "KPL",
-      "onboard_time": 1660749455,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 315490,
@@ -8915,6 +8971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293216,
+      "num": 162291,
+      "word": "檀健次包场新神榜杨戬",
+      "onboard_time": 1660916492,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293197,
       "num": 293197,
       "word": "如何提醒老板涨工资",
@@ -9169,6 +9233,14 @@
       "onboard_time": 1660898191,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284469,
+      "num": 284469,
+      "word": "河南4家村镇银行将开始第六批垫付",
+      "onboard_time": 1660915169,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 283081,
@@ -9457,6 +9529,14 @@
       "onboard_time": 1660562190,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269052,
+      "num": 269052,
+      "word": "AG零封Hero",
+      "onboard_time": 1660916552,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 268984,
@@ -9881,6 +9961,14 @@
       "onboard_time": 1660822410,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252620,
+      "num": 252620,
+      "word": "羽衣甘蓝奶茶你喝过吗",
+      "onboard_time": 1660913493,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 252467,
@@ -10443,14 +10531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230031,
-      "num": 230031,
-      "word": "骆歆衣服穿反了",
-      "onboard_time": 1660913728,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 229601,
       "num": 229601,
       "word": "福建报告新增本土确诊8例",
@@ -10656,14 +10736,6 @@
       "word": "熊猫能分辨出穿熊猫服的人类吗",
       "onboard_time": 1660816412,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217525,
-      "num": 217525,
-      "word": "街道回应17岁男孩意外坠楼",
-      "onboard_time": 1660913671,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -10931,6 +11003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202842,
+      "num": 202842,
+      "word": "LNG获得冒泡赛资格",
+      "onboard_time": 1660914448,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202769,
       "num": 202769,
       "word": "德云社节目单",
@@ -11099,20 +11179,20 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 194175,
+      "num": 194175,
+      "word": "ON 亚索",
+      "onboard_time": 1660914868,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193881,
       "num": 193881,
       "word": "北京顺义发现1例外省进京人员核酸阳性",
       "onboard_time": 1660704268,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193266,
-      "num": 193266,
-      "word": "羽衣甘蓝奶茶你喝过吗",
-      "onboard_time": 1660913493,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 192537,
@@ -11955,6 +12035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131092,
+      "num": 131092,
+      "word": "今明18城饿了么124场免单时间",
+      "onboard_time": 1660916311,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 130065,
       "num": 130065,
       "word": "王一博微博电影之夜好绅士",
@@ -12113,6 +12201,14 @@
       "onboard_time": 1660488336,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109246,
+      "num": 109246,
+      "word": "北京晚霞",
+      "onboard_time": 1660916552,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 107935,
