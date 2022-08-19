@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660916568299,
+  "endTime": 1660917278630,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1418465,
+      "num": 1418465,
+      "word": "河南成为全国第一个40℃大满贯省份",
+      "onboard_time": 1660915471,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1355819,
       "num": 533120,
       "word": "金瀚回应古装丑男",
@@ -227,8 +235,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1306977,
-      "num": 1304399,
+      "raw_hot": 1318670,
+      "num": 1318670,
       "word": "杨幂赵今麦草莓耳环",
       "onboard_time": 1660911987,
       "rank": 11,
@@ -281,6 +289,14 @@
       "onboard_time": 1660884155,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1155972,
+      "num": 1155972,
+      "word": "街道回应17岁男孩意外坠楼",
+      "onboard_time": 1660913671,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1134143,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 1005297,
-      "num": 371730,
+      "num": 384109,
       "word": "BLACKPINK演唱会门票价格",
       "onboard_time": 1660914151,
       "rank": 22,
@@ -483,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 794435,
-      "num": 794435,
-      "word": "街道回应17岁男孩意外坠楼",
-      "onboard_time": 1660913671,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 787926,
       "num": 673009,
       "word": "唐周死在最爱的人手里",
@@ -603,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 719756,
-      "num": 719756,
-      "word": "河南成为全国第一个40℃大满贯省份",
-      "onboard_time": 1660915471,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 706083,
       "num": 629054,
       "word": "北京9月1日起个人医保账户定向使用",
@@ -689,6 +689,14 @@
       "onboard_time": 1660874609,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 668392,
+      "num": 668392,
+      "word": "AG零封Hero",
+      "onboard_time": 1660916552,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 665568,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 482195,
-      "num": 275001,
+      "num": 379412,
       "word": "满汉全席",
       "onboard_time": 1660913552,
       "rank": 21,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1660895311,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427611,
+      "num": 427611,
+      "word": "久哲哭了",
+      "onboard_time": 1660917032,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 426099,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1660906230,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368308,
+      "num": 368308,
+      "word": "河南4家村镇银行将开始第六批垫付",
+      "onboard_time": 1660915169,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 365383,
@@ -1588,7 +1612,7 @@
     },
     {
       "raw_hot": 320423,
-      "num": 238621,
+      "num": 244307,
       "word": "王紫璇扫楼港风造型",
       "onboard_time": 1660914389,
       "rank": 33,
@@ -1659,6 +1683,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306978,
+      "num": 245827,
+      "word": "檀健次包场新神榜杨戬",
+      "onboard_time": 1660916492,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 306906,
+      "num": 306906,
+      "word": "羽衣甘蓝奶茶你喝过吗",
+      "onboard_time": 1660913493,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 306150,
+      "num": 245105,
+      "word": "中国好声音",
+      "onboard_time": 1660916731,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306106,
       "num": 306106,
       "word": "蔡徐坤新歌舞台皮裤造型",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1660900411,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 293216,
-      "num": 162291,
-      "word": "檀健次包场新神榜杨戬",
-      "onboard_time": 1660916492,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 290724,
@@ -1771,14 +1811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284469,
-      "num": 284469,
-      "word": "河南4家村镇银行将开始第六批垫付",
-      "onboard_time": 1660915169,
-      "rank": 26,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 282718,
       "num": 164610,
       "word": "于正晒与孔雪儿合照",
@@ -1825,14 +1857,6 @@
       "onboard_time": 1660833933,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269052,
-      "num": 269052,
-      "word": "AG零封Hero",
-      "onboard_time": 1660916552,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 269050,
@@ -1905,14 +1929,6 @@
       "onboard_time": 1660896391,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252620,
-      "num": 252620,
-      "word": "羽衣甘蓝奶茶你喝过吗",
-      "onboard_time": 1660913493,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 251954,
@@ -2067,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224430,
+      "num": 224430,
+      "word": "ON 亚索",
+      "onboard_time": 1660914868,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219496,
       "num": 219496,
       "word": "温州女生百米栏跑出13.61秒",
@@ -2179,14 +2203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194175,
-      "num": 194175,
-      "word": "ON 亚索",
-      "onboard_time": 1660914868,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
@@ -2199,6 +2215,14 @@
       "num": 176972,
       "word": "一诺马可豪取四杀",
       "onboard_time": 1660913186,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176088,
+      "num": 176088,
+      "word": "WBG无缘世界赛",
+      "onboard_time": 1660916731,
       "rank": 39,
       "category": "游戏"
     },
@@ -2249,6 +2273,22 @@
       "onboard_time": 1660901250,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "北京晚霞",
+      "onboard_time": 1660916552,
+      "rank": 48,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 165446,
+      "num": 165446,
+      "word": "今明18城饿了么124场免单时间",
+      "onboard_time": 1660916311,
+      "rank": 46,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 163876,
@@ -2339,14 +2379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131092,
-      "num": 131092,
-      "word": "今明18城饿了么124场免单时间",
-      "onboard_time": 1660916311,
-      "rank": 46,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 124558,
       "num": 124558,
       "word": "林俊杰FromTheAshes",
@@ -2409,14 +2441,6 @@
       "onboard_time": 1660907127,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109246,
-      "num": 109246,
-      "word": "北京晚霞",
-      "onboard_time": 1660916552,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 109198,

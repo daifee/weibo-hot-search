@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660916568299,
+  "endTime": 1660917278630,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1418465,
+      "num": 1418465,
+      "word": "河南成为全国第一个40℃大满贯省份",
+      "onboard_time": 1660915471,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1417404,
       "num": 1417404,
       "word": "张大仙",
@@ -1371,6 +1379,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1318670,
+      "num": 1318670,
+      "word": "杨幂赵今麦草莓耳环",
+      "onboard_time": 1660911987,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1317875,
       "num": 1317875,
       "word": "比亚迪汉被曝上牌仅3天自燃",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1660519281,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1306977,
-      "num": 1304399,
-      "word": "杨幂赵今麦草莓耳环",
-      "onboard_time": 1660911987,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1305202,
@@ -1721,6 +1729,14 @@
       "onboard_time": 1660827931,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1155972,
+      "num": 1155972,
+      "word": "街道回应17岁男孩意外坠楼",
+      "onboard_time": 1660913671,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1155959,
@@ -2220,7 +2236,7 @@
     },
     {
       "raw_hot": 1005297,
-      "num": 371730,
+      "num": 384109,
       "word": "BLACKPINK演唱会门票价格",
       "onboard_time": 1660914151,
       "rank": 22,
@@ -2875,14 +2891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 794435,
-      "num": 794435,
-      "word": "街道回应17岁男孩意外坠楼",
-      "onboard_time": 1660913671,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 789458,
       "num": 502271,
       "word": "名创优品再次道歉",
@@ -3259,14 +3267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 719756,
-      "num": 719756,
-      "word": "河南成为全国第一个40℃大满贯省份",
-      "onboard_time": 1660915471,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 719581,
       "num": 719581,
       "word": "大爷大妈进超市避暑脱鞋躺货架",
@@ -3577,6 +3577,14 @@
       "onboard_time": 1660874609,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 668392,
+      "num": 668392,
+      "word": "AG零封Hero",
+      "onboard_time": 1660916552,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 667704,
@@ -5348,7 +5356,7 @@
     },
     {
       "raw_hot": 482195,
-      "num": 275001,
+      "num": 379412,
       "word": "满汉全席",
       "onboard_time": 1660913552,
       "rank": 21,
@@ -6169,6 +6177,14 @@
       "onboard_time": 1660617453,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427611,
+      "num": 427611,
+      "word": "久哲哭了",
+      "onboard_time": 1660917032,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 427481,
@@ -7201,6 +7217,14 @@
       "onboard_time": 1660639833,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 368308,
+      "num": 368308,
+      "word": "河南4家村镇银行将开始第六批垫付",
+      "onboard_time": 1660915169,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 367379,
@@ -8396,7 +8420,7 @@
     },
     {
       "raw_hot": 320423,
-      "num": 238621,
+      "num": 244307,
       "word": "王紫璇扫楼港风造型",
       "onboard_time": 1660914389,
       "rank": 33,
@@ -8707,6 +8731,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306978,
+      "num": 245827,
+      "word": "檀健次包场新神榜杨戬",
+      "onboard_time": 1660916492,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 306906,
+      "num": 306906,
+      "word": "羽衣甘蓝奶茶你喝过吗",
+      "onboard_time": 1660913493,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 306654,
       "num": 306654,
       "word": "躺在冰箱上摆烂的猫咪",
@@ -8729,6 +8769,14 @@
       "onboard_time": 1660833635,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306150,
+      "num": 245105,
+      "word": "中国好声音",
+      "onboard_time": 1660916731,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 306106,
@@ -8969,14 +9017,6 @@
       "onboard_time": 1660752749,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 293216,
-      "num": 162291,
-      "word": "檀健次包场新神榜杨戬",
-      "onboard_time": 1660916492,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 293197,
@@ -9233,14 +9273,6 @@
       "onboard_time": 1660898191,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284469,
-      "num": 284469,
-      "word": "河南4家村镇银行将开始第六批垫付",
-      "onboard_time": 1660915169,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 283081,
@@ -9529,14 +9561,6 @@
       "onboard_time": 1660562190,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269052,
-      "num": 269052,
-      "word": "AG零封Hero",
-      "onboard_time": 1660916552,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 268984,
@@ -9961,14 +9985,6 @@
       "onboard_time": 1660822410,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252620,
-      "num": 252620,
-      "word": "羽衣甘蓝奶茶你喝过吗",
-      "onboard_time": 1660913493,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 252467,
@@ -10595,6 +10611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224430,
+      "num": 224430,
+      "word": "ON 亚索",
+      "onboard_time": 1660914868,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224397,
       "num": 224397,
       "word": "小猫洗澡怎么能这么乖",
@@ -11179,14 +11203,6 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 194175,
-      "num": 194175,
-      "word": "ON 亚索",
-      "onboard_time": 1660914868,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193881,
       "num": 193881,
       "word": "北京顺义发现1例外省进京人员核酸阳性",
@@ -11475,6 +11491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176088,
+      "num": 176088,
+      "word": "WBG无缘世界赛",
+      "onboard_time": 1660916731,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176053,
       "num": 176053,
       "word": "LPL季后赛赛程",
@@ -11651,6 +11675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "北京晚霞",
+      "onboard_time": 1660916552,
+      "rank": 48,
+      "category": "自然"
+    },
+    {
       "raw_hot": 166266,
       "num": 166266,
       "word": "藏在菜市场里的宝藏美食",
@@ -11673,6 +11705,14 @@
       "onboard_time": 1660497740,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165446,
+      "num": 165446,
+      "word": "今明18城饿了么124场免单时间",
+      "onboard_time": 1660916311,
+      "rank": 46,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 164826,
@@ -12035,14 +12075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131092,
-      "num": 131092,
-      "word": "今明18城饿了么124场免单时间",
-      "onboard_time": 1660916311,
-      "rank": 46,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 130065,
       "num": 130065,
       "word": "王一博微博电影之夜好绅士",
@@ -12201,14 +12233,6 @@
       "onboard_time": 1660488336,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109246,
-      "num": 109246,
-      "word": "北京晚霞",
-      "onboard_time": 1660916552,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 107935,
