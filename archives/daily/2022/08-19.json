@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660919825435,
+  "endTime": 1660922758486,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201366,
+      "num": 1201366,
+      "word": "为什么你越来越没有耐心了",
+      "onboard_time": 1660917873,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1188565,
       "num": 1188565,
       "word": "Jennie rap",
@@ -403,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 997036,
+      "num": 997036,
+      "word": "蒲熠星一人带全队好强",
+      "onboard_time": 1660919851,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 991279,
       "num": 991279,
       "word": "红蜻蜓全场泪崩",
@@ -419,12 +435,28 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 965429,
+      "num": 965429,
+      "word": "辣椒酱爆炸似案发现场照片吓坏男友",
+      "onboard_time": 1660919492,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944670,
       "num": 471884,
       "word": "王源送花祝孙亦航演出顺利",
       "onboard_time": 1660906648,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924745,
+      "num": 924745,
+      "word": "杨幂rua丁程鑫的脸",
+      "onboard_time": 1660920269,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 919950,
@@ -561,6 +593,14 @@
       "onboard_time": 1660858030,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766354,
+      "num": 402527,
+      "word": "Mike中文",
+      "onboard_time": 1660918831,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 765520,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581990,
+      "num": 581990,
+      "word": "小狗两个月的变化有多大",
+      "onboard_time": 1660919192,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 580378,
       "num": 580378,
       "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
@@ -847,6 +895,14 @@
       "num": 347820,
       "word": "王鹤棣 歪嘴笑",
       "onboard_time": 1660841184,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 568544,
+      "num": 377271,
+      "word": "黑话律师",
+      "onboard_time": 1660920693,
       "rank": 12,
       "category": "影视"
     },
@@ -875,20 +931,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 560283,
-      "num": 560283,
-      "word": "为什么你越来越没有耐心了",
-      "onboard_time": 1660917873,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 545516,
       "num": 545516,
       "word": "大连发现5名省外返连人员核酸结果异常",
       "onboard_time": 1660895793,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541082,
+      "num": 247281,
+      "word": "苍兰诀吻戏花絮",
+      "onboard_time": 1660921532,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 540957,
@@ -912,6 +968,14 @@
       "word": "吴卓羲初舞台",
       "onboard_time": 1660886435,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 527800,
+      "num": 471177,
+      "word": "陈小春的西装是浪姐剩下的吧",
+      "onboard_time": 1660917632,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1067,14 +1131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 471177,
-      "num": 471177,
-      "word": "陈小春的西装是浪姐剩下的吧",
-      "onboard_time": 1660917632,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461464,
       "num": 377625,
       "word": "赵露思月升沧海自白",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1660876588,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 436595,
-      "num": 325686,
-      "word": "Mike中文",
-      "onboard_time": 1660918831,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 435887,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1660880250,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409519,
+      "num": 364561,
+      "word": "北京进返京人员发现2例本土感染者",
+      "onboard_time": 1660922010,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409116,
@@ -1979,12 +2035,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256930,
+      "num": 162056,
+      "word": "吴克群为你写诗",
+      "onboard_time": 1660922552,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255723,
       "num": 255723,
       "word": "程少商满腔孤勇",
       "onboard_time": 1660866985,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255120,
+      "num": 255120,
+      "word": "少年野外遇火情脱裤子装水灭火",
+      "onboard_time": 1660920633,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254289,
@@ -2003,12 +2075,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252029,
+      "num": 252029,
+      "word": "WBG无缘世界赛",
+      "onboard_time": 1660916731,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251954,
       "num": 251954,
       "word": "陕西新增本土确诊52例",
       "onboard_time": 1660884513,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248860,
+      "num": 193130,
+      "word": "贺峻霖初秋plog",
+      "onboard_time": 1660922128,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 248702,
@@ -2187,14 +2275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220804,
-      "num": 220804,
-      "word": "WBG无缘世界赛",
-      "onboard_time": 1660916731,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219496,
       "num": 219496,
       "word": "温州女生百米栏跑出13.61秒",
@@ -2315,12 +2395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193523,
-      "num": 193523,
-      "word": "小狗两个月的变化有多大",
-      "onboard_time": 1660919192,
-      "rank": 41,
-      "category": "幽默,情感"
+      "raw_hot": 192492,
+      "num": 192492,
+      "word": "9件事助你走出人生低谷",
+      "onboard_time": 1660920332,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 191135,
+      "num": 191135,
+      "word": "如何看待景区抬轿子的人",
+      "onboard_time": 1660919672,
+      "rank": 47,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 185561,
@@ -2355,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174526,
-      "num": 174526,
-      "word": "辣椒酱爆炸似案发现场照片吓坏男友",
-      "onboard_time": 1660919492,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173148,
       "num": 173148,
       "word": "中国医师节",
@@ -2392,6 +2472,14 @@
       "word": "秒结冰的降温喷雾有多危险",
       "onboard_time": 1660901250,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164583,
+      "num": 164583,
+      "word": "新疆疫情防控动态",
+      "onboard_time": 1660922128,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2435,12 +2523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146367,
-      "num": 146367,
-      "word": "如何看待景区抬轿子的人",
-      "onboard_time": 1660919672,
-      "rank": 47,
-      "category": "旅游,情感"
+      "raw_hot": 146344,
+      "num": 146344,
+      "word": "金咕咕想去S12",
+      "onboard_time": 1660921289,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 146233,
@@ -2497,6 +2585,14 @@
       "onboard_time": 1660833635,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133405,
+      "num": 133405,
+      "word": "3兄弟顶撞奶奶姐姐出手罚跪",
+      "onboard_time": 1660922310,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125660,
@@ -2609,6 +2705,14 @@
       "onboard_time": 1660890991,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 99266,
+      "num": 105851,
+      "word": "英凯采访",
+      "onboard_time": 1660922731,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 87477,
