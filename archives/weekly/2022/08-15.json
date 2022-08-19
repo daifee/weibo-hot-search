@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660945022459,
+  "endTime": 1660947821531,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -10867,6 +10867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226504,
+      "num": 226504,
+      "word": "北京一男子违规办学擅自组织线下授课被罚",
+      "onboard_time": 1660943951,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 225842,
       "num": 225842,
       "word": "爱情里真正的遗憾是什么",
@@ -11604,7 +11612,7 @@
     },
     {
       "raw_hot": 190008,
-      "num": 104979,
+      "num": 170628,
       "word": "社恐症是影帝标配吧",
       "onboard_time": 1660929680,
       "rank": 31,
@@ -12572,7 +12580,7 @@
     },
     {
       "raw_hot": 109869,
-      "num": 81353,
+      "num": 85664,
       "word": "只有袁慎受伤的世界达成了",
       "onboard_time": 1660933394,
       "rank": 22,
@@ -12867,6 +12875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35503,
+      "num": 35503,
+      "word": "WUSSA手表回应海报被指侮辱女性",
+      "onboard_time": 1660939271,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35054,
       "num": 35054,
       "word": "该怎么跟尹浩宇解释宋丹丹不会魔法",
@@ -12907,20 +12923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30145,
-      "num": 26396,
-      "word": "WUSSA手表回应海报被指侮辱女性",
-      "onboard_time": 1660939271,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28375,
       "num": 497119,
       "word": "主播的门槛该不该这么低",
       "onboard_time": 1660831238,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 28138,
+      "num": 26254,
+      "word": "披荆斩棘歌单",
+      "onboard_time": 1660935552,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 27897,
@@ -12947,20 +12963,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24916,
+      "num": 24916,
+      "word": "卡塞米罗有意加盟曼联",
+      "onboard_time": 1660941430,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23700,
       "num": 23700,
       "word": "宋佳用舞蹈写情诗",
       "onboard_time": 1660680852,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21992,
-      "num": 19003,
-      "word": "披荆斩棘歌单",
-      "onboard_time": 1660935552,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 20320,
@@ -12987,12 +13003,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18062,
-      "num": 18062,
-      "word": "北京一男子违规办学擅自组织线下授课被罚",
-      "onboard_time": 1660943951,
-      "rank": 35,
-      "category": "教育,社会新闻"
+      "raw_hot": 17839,
+      "num": 17839,
+      "word": "爱你的人永远不会抛弃你",
+      "onboard_time": 1660946953,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 16972,
@@ -13025,14 +13041,6 @@
       "onboard_time": 1660512131,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12516,
-      "num": 12516,
-      "word": "卡塞米罗有意加盟曼联",
-      "onboard_time": 1660941430,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 10481,

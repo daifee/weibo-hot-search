@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660945022459,
+  "endTime": 1660947821531,
   "band_list": [
     {
       "raw_hot": 2286920,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226504,
+      "num": 226504,
+      "word": "北京一男子违规办学擅自组织线下授课被罚",
+      "onboard_time": 1660943951,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 224438,
       "num": 224438,
       "word": "少年野外遇火情脱裤子装水灭火",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 190008,
-      "num": 104979,
+      "num": 170628,
       "word": "社恐症是影帝标配吧",
       "onboard_time": 1660929680,
       "rank": 31,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 109869,
-      "num": 81353,
+      "num": 85664,
       "word": "只有袁慎受伤的世界达成了",
       "onboard_time": 1660933394,
       "rank": 22,
@@ -499,36 +507,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30145,
-      "num": 26396,
+      "raw_hot": 35503,
+      "num": 35503,
       "word": "WUSSA手表回应海报被指侮辱女性",
       "onboard_time": 1660939271,
       "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21992,
-      "num": 19003,
+      "raw_hot": 28138,
+      "num": 26254,
       "word": "披荆斩棘歌单",
       "onboard_time": 1660935552,
       "rank": 40,
       "category": "综艺"
     },
     {
-      "raw_hot": 18062,
-      "num": 18062,
-      "word": "北京一男子违规办学擅自组织线下授课被罚",
-      "onboard_time": 1660943951,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 12516,
-      "num": 12516,
+      "raw_hot": 24916,
+      "num": 24916,
       "word": "卡塞米罗有意加盟曼联",
       "onboard_time": 1660941430,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17839,
+      "num": 17839,
+      "word": "爱你的人永远不会抛弃你",
+      "onboard_time": 1660946953,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
