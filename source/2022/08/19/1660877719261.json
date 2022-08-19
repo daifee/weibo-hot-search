@@ -1,0 +1,410 @@
+{
+  "runTime": 1660877719261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2760444,
+        "num": 2760444,
+        "word": "刚毕业就月薪3万是啥体验",
+        "onboard_time": 1660874127,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1284016,
+        "num": 1284016,
+        "word": "茶颜悦色回应雇人排队代购炒作",
+        "onboard_time": 1660873526,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 28509,
+        "num": 1141480,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1001472,
+        "num": 1001472,
+        "word": "月升沧海 BE美学",
+        "onboard_time": 1660868911,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 833711,
+        "num": 833711,
+        "word": "华为Mate50已开始量产",
+        "onboard_time": 1660875811,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 809278,
+        "num": 809278,
+        "word": "真的建议高铁出个带孩子车厢",
+        "onboard_time": 1660848313,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 782218,
+        "num": 782218,
+        "word": "想看吴磊赵露思三搭",
+        "onboard_time": 1660874429,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 737334,
+        "num": 737334,
+        "word": "95后清华学长做化学实验有多美",
+        "onboard_time": 1660875449,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 668833,
+        "num": 668833,
+        "word": "哥哥脚踩弟弟胳膊喂芒果",
+        "onboard_time": 1660874609,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 629054,
+        "num": 629054,
+        "word": "北京9月1日起个人医保账户定向使用",
+        "onboard_time": 1660876048,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324014,
+        "num": 628189,
+        "word": "男子与全职太太离婚被判补偿15万",
+        "onboard_time": 1660872329,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626699,
+        "num": 626699,
+        "word": "081杀凌益",
+        "onboard_time": 1660873767,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605955,
+        "num": 605955,
+        "word": "北京明年起职工门诊待遇不设封顶线",
+        "onboard_time": 1660875990,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605608,
+        "num": 605608,
+        "word": "吃30天外卖瘦12斤",
+        "onboard_time": 1660867950,
+        "rank": 13,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 489267,
+        "num": 489267,
+        "word": "四川停电",
+        "onboard_time": 1660876529,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477664,
+        "num": 477664,
+        "word": "百度网盘",
+        "onboard_time": 1660835912,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 456739,
+        "num": 456739,
+        "word": "女子线上求职被骂low货",
+        "onboard_time": 1660869089,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456618,
+        "num": 456618,
+        "word": "丁真说绝不吃榴莲",
+        "onboard_time": 1660875630,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454035,
+        "num": 454035,
+        "word": "我心中的古偶cp天花板",
+        "onboard_time": 1660853291,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420467,
+        "num": 420467,
+        "word": "罚罪全阵容官宣",
+        "onboard_time": 1660876110,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425673,
+        "num": 420237,
+        "word": "李现雨天撑伞背影照",
+        "onboard_time": 1660875148,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385644,
+        "num": 385644,
+        "word": "饿了么",
+        "onboard_time": 1660876648,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385228,
+        "num": 385228,
+        "word": "熊孩子不懂礼家长不能不懂",
+        "onboard_time": 1660873889,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370274,
+        "num": 370274,
+        "word": "女子给网友介绍女友竟是自己男友",
+        "onboard_time": 1660858030,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359050,
+        "num": 359050,
+        "word": "张馨予一人分饰母女两角",
+        "onboard_time": 1660877309,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345685,
+        "num": 345685,
+        "word": "龙族动画开播",
+        "onboard_time": 1660876588,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 338440,
+        "num": 338440,
+        "word": "陕西增本土确诊52例",
+        "onboard_time": 1660877128,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328042,
+        "num": 328042,
+        "word": "司机改造大货车给村里孩子造泳池",
+        "onboard_time": 1660875570,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312850,
+        "num": 312850,
+        "word": "西藏增本土确诊15例无症状665例",
+        "onboard_time": 1660874727,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309135,
+        "num": 309135,
+        "word": "小黄人",
+        "onboard_time": 1660876529,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301840,
+        "num": 301840,
+        "word": "苍兰诀特效",
+        "onboard_time": 1660870350,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299880,
+        "num": 299880,
+        "word": "刘恺威披荆斩棘入营开箱vlog",
+        "onboard_time": 1660846395,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283034,
+        "num": 283034,
+        "word": "百度网盘回应人工审核用户照片",
+        "onboard_time": 1660836873,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 281452,
+        "num": 281452,
+        "word": "为什么不建议在晚上做决定",
+        "onboard_time": 1660829613,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280242,
+        "num": 280242,
+        "word": "最成功的投资是投资自己吗",
+        "onboard_time": 1660877491,
+        "rank": 34,
+        "category": "财经,情感"
+      },
+      {
+        "raw_hot": 276431,
+        "num": 276431,
+        "word": "女孩收录取通知书时正在割猪草",
+        "onboard_time": 1660838731,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 268419,
+        "num": 268419,
+        "word": "应渊出息了",
+        "onboard_time": 1660863920,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252342,
+        "num": 252342,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1660873827,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251018,
+        "num": 251018,
+        "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+        "onboard_time": 1660847894,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247001,
+        "num": 247001,
+        "word": "劳荣枝案二审继续开庭审理",
+        "onboard_time": 1660871189,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236216,
+        "num": 236216,
+        "word": "重庆新增7例本土确诊5例无症状",
+        "onboard_time": 1660872748,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235429,
+        "num": 235429,
+        "word": "里根号演练遭多枚导弹同时攻击",
+        "onboard_time": 1660853351,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 234130,
+        "num": 234130,
+        "word": "80名外国人捐5万拯救倒闭理发店",
+        "onboard_time": 1660855812,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232710,
+        "num": 232710,
+        "word": "女子逛夜市遇五花肉摊位爬满虫子",
+        "onboard_time": 1660842860,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212194,
+        "num": 212194,
+        "word": "水庆霞说女足不会跟男足比待遇",
+        "onboard_time": 1660876890,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209374,
+        "num": 209374,
+        "word": "重庆涪陵北山坪山火复燃",
+        "onboard_time": 1660867349,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206369,
+        "num": 206369,
+        "word": "王鹤棣 歪嘴笑",
+        "onboard_time": 1660841184,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202769,
+        "num": 202769,
+        "word": "德云社节目单",
+        "onboard_time": 1660875570,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193531,
+        "num": 193531,
+        "word": "财神节",
+        "onboard_time": 1660872507,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190956,
+        "num": 190956,
+        "word": "上海昨日新增3例本土无症状",
+        "onboard_time": 1660873048,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民领袖的人民情怀#"
+    }
+  }
+}
