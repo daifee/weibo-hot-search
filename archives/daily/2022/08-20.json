@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660941537529,
+  "endTime": 1660943942424,
   "band_list": [
     {
       "raw_hot": 2286920,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28168,
+      "num": 23849,
+      "word": "WUSSA手表回应海报被指侮辱女性",
+      "onboard_time": 1660939271,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21992,
       "num": 19003,
       "word": "披荆斩棘歌单",
@@ -507,16 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17099,
-      "num": 17099,
-      "word": "WUSSA手表回应海报被指侮辱女性",
-      "onboard_time": 1660939271,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8269,
-      "num": 11123,
+      "raw_hot": 12516,
+      "num": 12516,
       "word": "卡塞米罗有意加盟曼联",
       "onboard_time": 1660941430,
       "rank": 49,
