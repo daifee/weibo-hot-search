@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660937620766,
+  "endTime": 1660940616739,
   "band_list": [
     {
       "raw_hot": 2286920,
@@ -496,6 +496,22 @@
       "word": "张浩博",
       "onboard_time": 1660929979,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19707,
+      "num": 17147,
+      "word": "披荆斩棘歌单",
+      "onboard_time": 1660935552,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15331,
+      "num": 15331,
+      "word": "WUSSA手表回应海报被指侮辱女性",
+      "onboard_time": 1660939271,
+      "rank": 44,
       "category": "社会新闻"
     }
   ],
