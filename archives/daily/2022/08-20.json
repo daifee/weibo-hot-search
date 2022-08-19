@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660951279398,
+  "endTime": 1660952250390,
   "band_list": [
     {
       "raw_hot": 2286920,
@@ -27,8 +27,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834928,
+      "num": 834928,
+      "word": "重庆两姐妹江边耍水被冲走",
+      "onboard_time": 1660927703,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832485,
-      "num": 323267,
+      "num": 340904,
       "word": "杭州一女子为买车砍伤母亲砍死小叔",
       "onboard_time": 1660926145,
       "rank": 28,
@@ -40,14 +48,6 @@
       "word": "辣椒酱爆炸似案发现场照片吓坏男友",
       "onboard_time": 1660919492,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 777074,
-      "num": 777074,
-      "word": "重庆两姐妹江边耍水被冲走",
-      "onboard_time": 1660927703,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440676,
+      "num": 440676,
+      "word": "北京一男子违规办学擅自组织线下授课被罚",
+      "onboard_time": 1660943951,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 421994,
       "num": 375346,
       "word": "苍兰诀吻戏花絮",
       "onboard_time": 1660921532,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 411107,
-      "num": 411107,
-      "word": "北京一男子违规办学擅自组织线下授课被罚",
-      "onboard_time": 1660943951,
-      "rank": 35,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 385526,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349754,
+      "num": 349754,
+      "word": "社恐症是影帝标配吧",
+      "onboard_time": 1660929680,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 345183,
       "num": 345183,
       "word": "Jennie朴彩英小分队",
@@ -193,14 +201,6 @@
       "onboard_time": 1660909950,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 322107,
-      "num": 322107,
-      "word": "社恐症是影帝标配吧",
-      "onboard_time": 1660929680,
-      "rank": 31,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 276563,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220748,
+      "num": 220748,
+      "word": "只有袁慎受伤的世界达成了",
+      "onboard_time": 1660933394,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217460,
       "num": 105359,
       "word": "敖子逸是不是拿了男二剧本",
@@ -299,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187309,
+      "num": 187309,
+      "word": "全国高温四大榜单出炉",
+      "onboard_time": 1660928362,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182115,
+      "num": 156321,
+      "word": "金珉奎确诊新冠",
+      "onboard_time": 1660951578,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173883,
       "num": 173883,
       "word": "英凯采访",
@@ -315,20 +339,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 159556,
-      "num": 159556,
-      "word": "全国高温四大榜单出炉",
-      "onboard_time": 1660928362,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155344,
-      "num": 155344,
-      "word": "只有袁慎受伤的世界达成了",
-      "onboard_time": 1660933394,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 167189,
+      "num": 167189,
+      "word": "爱你的人永远不会抛弃你",
+      "onboard_time": 1660946953,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 155295,
@@ -337,14 +353,6 @@
       "onboard_time": 1660919672,
       "rank": 27,
       "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 143232,
-      "num": 143232,
-      "word": "爱你的人永远不会抛弃你",
-      "onboard_time": 1660946953,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 141202,
@@ -371,6 +379,38 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 128535,
+      "num": 128535,
+      "word": "外卖小哥接催单电话不慎摔倒崩溃",
+      "onboard_time": 1660951340,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127176,
+      "num": 127176,
+      "word": "我国成功发射遥感三十五号04组卫星",
+      "onboard_time": 1660951519,
+      "rank": 25,
+      "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 122785,
+      "num": 122785,
+      "word": "中华小子高清重制",
+      "onboard_time": 1660950195,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 121266,
+      "num": 121266,
+      "word": "ELLE称刘亦菲本人非常敬业",
+      "onboard_time": 1660909349,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119979,
       "num": 119979,
       "word": "骆歆衣服穿反了",
@@ -379,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115401,
-      "num": 100397,
-      "word": "ELLE称刘亦菲本人非常敬业",
-      "onboard_time": 1660909349,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 116728,
+      "num": 116728,
+      "word": "这只小狗也太有礼貌了",
+      "onboard_time": 1660948273,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 114931,
@@ -441,6 +481,14 @@
       "onboard_time": 1660909950,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89064,
+      "num": 89064,
+      "word": "龙九子有十三个",
+      "onboard_time": 1660951700,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 88736,
@@ -507,24 +555,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72512,
-      "num": 72512,
-      "word": "中华小子高清重制",
-      "onboard_time": 1660950195,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 67801,
-      "num": 67801,
-      "word": "这只小狗也太有礼貌了",
-      "onboard_time": 1660948273,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 61934,
-      "num": 65804,
+      "raw_hot": 67401,
+      "num": 67401,
       "word": "WUSSA手表回应海报被指侮辱女性",
       "onboard_time": 1660939271,
       "rank": 44,
@@ -553,6 +585,14 @@
       "onboard_time": 1660950677,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 52883,
+      "num": 52883,
+      "word": "陕西核酸混检降至每人最高3元",
+      "onboard_time": 1660952240,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31780,
