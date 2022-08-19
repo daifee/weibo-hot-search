@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660948791592,
+  "endTime": 1660951279398,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -3059,6 +3059,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 777074,
+      "num": 777074,
+      "word": "重庆两姐妹江边耍水被冲走",
+      "onboard_time": 1660927703,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775213,
       "num": 611454,
       "word": "杨紫首家文化传媒公司成立",
@@ -5251,6 +5259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501561,
+      "num": 501561,
+      "word": "苏有朋怎么不老",
+      "onboard_time": 1660930398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501407,
       "num": 501407,
       "word": "狗在婚礼上抢走了我老公",
@@ -5545,14 +5561,6 @@
       "onboard_time": 1660534829,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 481048,
-      "num": 481048,
-      "word": "重庆两姐妹江边耍水被冲走",
-      "onboard_time": 1660927703,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480996,
@@ -6577,6 +6585,14 @@
       "onboard_time": 1660549531,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 411107,
+      "num": 411107,
+      "word": "北京一男子违规办学擅自组织线下授课被罚",
+      "onboard_time": 1660943951,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 410171,
@@ -7707,14 +7723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357111,
-      "num": 357111,
-      "word": "北京一男子违规办学擅自组织线下授课被罚",
-      "onboard_time": 1660943951,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 356961,
       "num": 356961,
       "word": "蹭空调的狗狗素质有多高",
@@ -8595,6 +8603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 322107,
+      "num": 322107,
+      "word": "社恐症是影帝标配吧",
+      "onboard_time": 1660929680,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 321982,
       "num": 321982,
       "word": "好想让她来替我上班",
@@ -9185,14 +9201,6 @@
       "onboard_time": 1660551632,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295279,
-      "num": 295279,
-      "word": "苏有朋怎么不老",
-      "onboard_time": 1660930398,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 294631,
@@ -11067,14 +11075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217272,
-      "num": 217272,
-      "word": "社恐症是影帝标配吧",
-      "onboard_time": 1660929680,
-      "rank": 31,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 217009,
       "num": 217009,
       "word": "李清照诗词照进现实了",
@@ -12123,6 +12123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159556,
+      "num": 159556,
+      "word": "全国高温四大榜单出炉",
+      "onboard_time": 1660928362,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159045,
       "num": 159045,
       "word": "观音桥",
@@ -12192,6 +12200,14 @@
       "word": "江疏影说越长大越要有阿Q精神",
       "onboard_time": 1660603997,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 155344,
+      "num": 155344,
+      "word": "只有袁慎受伤的世界达成了",
+      "onboard_time": 1660933394,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -12331,6 +12347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143232,
+      "num": 143232,
+      "word": "爱你的人永远不会抛弃你",
+      "onboard_time": 1660946953,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143016,
       "num": 143016,
       "word": "盘点钱泳辰商业版图",
@@ -12441,14 +12465,6 @@
       "onboard_time": 1660656752,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128871,
-      "num": 128871,
-      "word": "只有袁慎受伤的世界达成了",
-      "onboard_time": 1660933394,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 128667,
@@ -12619,14 +12635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106497,
-      "num": 106497,
-      "word": "全国高温四大榜单出炉",
-      "onboard_time": 1660928362,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104584,
       "num": 104584,
       "word": "养的多肉居然开花了",
@@ -12747,6 +12755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81503,
+      "num": 75873,
+      "word": "赵丽颖沈璃镜头下的风景",
+      "onboard_time": 1660951218,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79457,
       "num": 79457,
       "word": "猫猫会狗喘是什么体验",
@@ -12779,12 +12795,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72512,
+      "num": 72512,
+      "word": "中华小子高清重制",
+      "onboard_time": 1660950195,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 69572,
       "num": 69572,
       "word": "刘昊然谈今后的作品目标",
       "onboard_time": 1660683131,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67801,
+      "num": 67801,
+      "word": "这只小狗也太有礼貌了",
+      "onboard_time": 1660948273,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 65065,
@@ -12801,6 +12833,14 @@
       "onboard_time": 1660518681,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61934,
+      "num": 65804,
+      "word": "WUSSA手表回应海报被指侮辱女性",
+      "onboard_time": 1660939271,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61783,
@@ -12827,27 +12867,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54014,
+      "num": 54014,
+      "word": "北京中小学校幼儿园师生在京满7天后方可返校",
+      "onboard_time": 1660950677,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "高温也卷起来了",
       "onboard_time": 1660581263,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47220,
-      "num": 47220,
-      "word": "爱你的人永远不会抛弃你",
-      "onboard_time": 1660946953,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 38396,
-      "num": 38396,
-      "word": "WUSSA手表回应海报被指侮辱女性",
-      "onboard_time": 1660939271,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -12961,14 +12993,6 @@
       "onboard_time": 1660443569,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26778,
-      "num": 26778,
-      "word": "这只小狗也太有礼貌了",
-      "onboard_time": 1660948273,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 26213,
