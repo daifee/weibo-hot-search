@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660882105843,
+  "endTime": 1660883493446,
   "band_list": [
     {
       "raw_hot": 2760444,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2118845,
-      "num": 522261,
+      "num": 593647,
       "word": "劳荣枝二审态度强硬不配合",
       "onboard_time": 1660880131,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1660873526,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1552141,
+      "num": 1552141,
+      "word": "BLACKPINK先行曲公开",
+      "onboard_time": 1660879649,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1461475,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1134143,
-      "num": 862194,
+      "num": 1132619,
       "word": "吴磊演技",
       "onboard_time": 1660878327,
       "rank": 3,
@@ -89,6 +97,14 @@
       "onboard_time": 1660834355,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1087673,
+      "num": 1087673,
+      "word": "四六级",
+      "onboard_time": 1660882352,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1018692,
@@ -139,6 +155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 787926,
+      "num": 673009,
+      "word": "唐周死在最爱的人手里",
+      "onboard_time": 1660878509,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 782218,
       "num": 782218,
       "word": "想看吴磊赵露思三搭",
@@ -163,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 743093,
-      "num": 519233,
+      "raw_hot": 756640,
+      "num": 577501,
       "word": "杭州奥克斯17岁男孩意外坠楼",
       "onboard_time": 1660877970,
       "rank": 13,
@@ -235,14 +259,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 673009,
-      "num": 673009,
-      "word": "唐周死在最爱的人手里",
-      "onboard_time": 1660878509,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 668833,
       "num": 668833,
       "word": "哥哥脚踩弟弟胳膊喂芒果",
@@ -257,6 +273,14 @@
       "onboard_time": 1660836755,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624295,
+      "num": 624295,
+      "word": "博士市长硬核亮家底喊话游子回乡",
+      "onboard_time": 1660880190,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605955,
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526432,
+      "num": 526432,
+      "word": "王鹤棣ELLEMEN新青年秋季刊封面",
+      "onboard_time": 1660883254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 524065,
       "num": 524065,
       "word": "好心疼梁爽",
@@ -345,14 +377,6 @@
       "onboard_time": 1660879108,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 514031,
-      "num": 514031,
-      "word": "博士市长硬核亮家底喊话游子回乡",
-      "onboard_time": 1660880190,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491371,
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447112,
+      "num": 414062,
+      "word": "关晓彤哭戏",
+      "onboard_time": 1660878212,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446505,
       "num": 446505,
       "word": "苍兰诀特效",
@@ -409,14 +441,6 @@
       "onboard_time": 1660876588,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 421005,
-      "num": 414062,
-      "word": "关晓彤哭戏",
-      "onboard_time": 1660878212,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 420467,
@@ -451,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409116,
+      "num": 307950,
+      "word": "网剧罚罪",
+      "onboard_time": 1660882111,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395291,
       "num": 395291,
       "word": "男生分手后真的会后悔吗",
       "onboard_time": 1660830512,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 394743,
+      "num": 394743,
+      "word": "七旬医生每天坚持看50多名病人",
+      "onboard_time": 1660878809,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391405,
@@ -483,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377662,
+      "num": 305315,
+      "word": "孟超真名叫张清冬",
+      "onboard_time": 1660882772,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375214,
       "num": 375214,
       "word": "陕西增本土确诊52例",
@@ -491,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369909,
+      "num": 369909,
+      "word": "江南 龙族",
+      "onboard_time": 1660883013,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 365383,
       "num": 365383,
       "word": "劳荣枝案二审继续开庭审理",
       "onboard_time": 1660871189,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363987,
+      "num": 302550,
+      "word": "沉香重华",
+      "onboard_time": 1660883373,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 363674,
@@ -547,6 +611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344480,
+      "num": 298541,
+      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
+      "onboard_time": 1660882050,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343673,
+      "num": 343673,
+      "word": "供应链称iPhone14系列已量产",
+      "onboard_time": 1660881693,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 341955,
       "num": 341955,
       "word": "女子逛夜市遇五花肉摊位爬满虫子",
@@ -559,14 +639,6 @@
       "num": 341887,
       "word": "重庆涪陵北山坪山火复燃",
       "onboard_time": 1660867349,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341139,
-      "num": 341139,
-      "word": "七旬医生每天坚持看50多名病人",
-      "onboard_time": 1660878809,
       "rank": 25,
       "category": "社会新闻"
     },
@@ -585,6 +657,22 @@
       "onboard_time": 1660880969,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336165,
+      "num": 336165,
+      "word": "临沂舰夺国际军事比赛单项第一",
+      "onboard_time": 1660881392,
+      "rank": 34,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 334226,
+      "num": 168415,
+      "word": "沉香重华有哪些看点",
+      "onboard_time": 1660883433,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 330059,
@@ -699,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298081,
+      "num": 298081,
+      "word": "广东人最爱的菜心居然产自宁夏",
+      "onboard_time": 1660882170,
+      "rank": 34,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 290724,
       "num": 290724,
       "word": "没想到还有人没吃过西瓜",
@@ -795,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254289,
+      "num": 254289,
+      "word": "医生谢谢你",
+      "onboard_time": 1660882710,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248702,
       "num": 248702,
       "word": "专家称没有证据证明鱼会感染新冠",
@@ -835,12 +939,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218589,
-      "num": 167083,
-      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
-      "onboard_time": 1660882050,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 231250,
+      "num": 231250,
+      "word": "这玩意儿竟然还会认人",
+      "onboard_time": 1660880791,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 214632,
@@ -859,28 +963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211796,
-      "num": 211796,
-      "word": "临沂舰夺国际军事比赛单项第一",
-      "onboard_time": 1660881392,
-      "rank": 34,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 208695,
       "num": 208695,
       "word": "不想再自卑下去了",
       "onboard_time": 1660833037,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207814,
-      "num": 207814,
-      "word": "这玩意儿竟然还会认人",
-      "onboard_time": 1660880791,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 205367,
@@ -939,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178897,
+      "num": 178897,
+      "word": "医生的天书书法",
+      "onboard_time": 1660882710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175059,
       "num": 175059,
       "word": "还记得读书时你喜欢的人吗",
@@ -953,6 +1049,14 @@
       "onboard_time": 1660866144,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172770,
+      "num": 172770,
+      "word": "人工智能进入产业级大模型时代",
+      "onboard_time": 1660882410,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 168003,
@@ -979,20 +1083,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158978,
+      "num": 158978,
+      "word": "篮网拒绝湖人交易报价",
+      "onboard_time": 1660881752,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156224,
       "num": 156224,
       "word": "爱情里真正的遗憾是什么",
       "onboard_time": 1660826189,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150679,
-      "num": 150679,
-      "word": "篮网拒绝湖人交易报价",
-      "onboard_time": 1660881752,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 146233,
@@ -1017,14 +1121,6 @@
       "onboard_time": 1660833635,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136569,
-      "num": 136569,
-      "word": "供应链称iPhone14系列已量产",
-      "onboard_time": 1660881693,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 124558,
@@ -1123,7 +1219,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 42223,
+      "raw_hot": 45837,
       "num": 1506525,
       "word": "中国这十年",
       "onboard_time": 1660815270,
@@ -1164,6 +1260,9 @@
     },
     {
       "word": "#人民领袖的人民情怀#"
+    },
+    {
+      "word": "#世界职业技术教育发展大会#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1660883493446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1755839,
+        "num": 1755839,
+        "word": "刚毕业就月薪3万是啥体验",
+        "onboard_time": 1660874127,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1552141,
+        "num": 1552141,
+        "word": "BLACKPINK先行曲公开",
+        "onboard_time": 1660879649,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45837,
+        "num": 1298341,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1216869,
+        "num": 1216869,
+        "word": "真的建议高铁出个带孩子车厢",
+        "onboard_time": 1660848313,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1132619,
+        "num": 1132619,
+        "word": "吴磊演技",
+        "onboard_time": 1660878327,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1087673,
+        "num": 1087673,
+        "word": "四六级",
+        "onboard_time": 1660882352,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 797537,
+        "num": 797537,
+        "word": "刘亦菲ELLE金九封面",
+        "onboard_time": 1660877787,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 683022,
+        "num": 683022,
+        "word": "茶颜悦色回应雇人排队代购炒作",
+        "onboard_time": 1660873526,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 624295,
+        "num": 624295,
+        "word": "博士市长硬核亮家底喊话游子回乡",
+        "onboard_time": 1660880190,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597201,
+        "num": 597201,
+        "word": "华为Mate50已开始量产",
+        "onboard_time": 1660875811,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2043719,
+        "num": 593647,
+        "word": "劳荣枝二审态度强硬不配合",
+        "onboard_time": 1660880131,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225336,
+        "num": 586880,
+        "word": "男子与全职太太离婚被判补偿15万",
+        "onboard_time": 1660872329,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787926,
+        "num": 584063,
+        "word": "唐周死在最爱的人手里",
+        "onboard_time": 1660878509,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 756640,
+        "num": 577501,
+        "word": "杭州奥克斯17岁男孩意外坠楼",
+        "onboard_time": 1660877970,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 574173,
+        "num": 574173,
+        "word": "月升沧海 BE美学",
+        "onboard_time": 1660868911,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551670,
+        "num": 551670,
+        "word": "哥哥脚踩弟弟胳膊喂芒果",
+        "onboard_time": 1660874609,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 526432,
+        "num": 526432,
+        "word": "王鹤棣ELLEMEN新青年秋季刊封面",
+        "onboard_time": 1660883254,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 460524,
+        "num": 460524,
+        "word": "鲨鱼小猫",
+        "onboard_time": 1660878030,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 458040,
+        "num": 458040,
+        "word": "吃30天外卖瘦12斤",
+        "onboard_time": 1660867950,
+        "rank": 18,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 394743,
+        "num": 394743,
+        "word": "七旬医生每天坚持看50多名病人",
+        "onboard_time": 1660878809,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447112,
+        "num": 392857,
+        "word": "关晓彤哭戏",
+        "onboard_time": 1660878212,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420739,
+        "num": 389447,
+        "word": "张馨予一人分饰母女两角",
+        "onboard_time": 1660877309,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419410,
+        "num": 385588,
+        "word": "宁安如梦",
+        "onboard_time": 1660879108,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369909,
+        "num": 369909,
+        "word": "江南 龙族",
+        "onboard_time": 1660883013,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 347219,
+        "num": 347219,
+        "word": "北京明年起职工门诊待遇不设封顶线",
+        "onboard_time": 1660875990,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343673,
+        "num": 343673,
+        "word": "供应链称iPhone14系列已量产",
+        "onboard_time": 1660881693,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 340839,
+        "num": 340839,
+        "word": "龙族动画开播",
+        "onboard_time": 1660876588,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 336165,
+        "num": 336165,
+        "word": "临沂舰夺国际军事比赛单项第一",
+        "onboard_time": 1660881392,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 312660,
+        "num": 312660,
+        "word": "95后清华学长做化学实验有多美",
+        "onboard_time": 1660875449,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 309332,
+        "num": 309332,
+        "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+        "onboard_time": 1660847894,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409116,
+        "num": 307950,
+        "word": "网剧罚罪",
+        "onboard_time": 1660882111,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377662,
+        "num": 305315,
+        "word": "孟超真名叫张清冬",
+        "onboard_time": 1660882772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363987,
+        "num": 302550,
+        "word": "沉香重华",
+        "onboard_time": 1660883373,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344480,
+        "num": 298541,
+        "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
+        "onboard_time": 1660882050,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298081,
+        "num": 298081,
+        "word": "广东人最爱的菜心居然产自宁夏",
+        "onboard_time": 1660882170,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 290179,
+        "num": 290179,
+        "word": "宁波新增1例确诊曾乘这两趟航班",
+        "onboard_time": 1660879350,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289123,
+        "num": 289123,
+        "word": "熊孩子不懂礼家长不能不懂",
+        "onboard_time": 1660873889,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273660,
+        "num": 273660,
+        "word": "当领导是我的朋友时",
+        "onboard_time": 1660879530,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260751,
+        "num": 260751,
+        "word": "陕西增本土确诊52例",
+        "onboard_time": 1660877128,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254289,
+        "num": 254289,
+        "word": "医生谢谢你",
+        "onboard_time": 1660882710,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267320,
+        "num": 250443,
+        "word": "独行月球密钥延期",
+        "onboard_time": 1660879767,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244294,
+        "num": 244294,
+        "word": "081杀凌益",
+        "onboard_time": 1660873767,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231250,
+        "num": 231250,
+        "word": "这玩意儿竟然还会认人",
+        "onboard_time": 1660880791,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189921,
+        "num": 189921,
+        "word": "女子线上求职被骂low货",
+        "onboard_time": 1660869089,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178897,
+        "num": 178897,
+        "word": "医生的天书书法",
+        "onboard_time": 1660882710,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177829,
+        "num": 177829,
+        "word": "司机改造大货车给村里孩子造泳池",
+        "onboard_time": 1660875570,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172770,
+        "num": 172770,
+        "word": "人工智能进入产业级大模型时代",
+        "onboard_time": 1660882410,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 334226,
+        "num": 168415,
+        "word": "沉香重华有哪些看点",
+        "onboard_time": 1660883433,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158978,
+        "num": 158978,
+        "word": "篮网拒绝湖人交易报价",
+        "onboard_time": 1660881752,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158834,
+        "num": 158834,
+        "word": "女孩收录取通知书时正在割猪草",
+        "onboard_time": 1660838731,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界职业技术教育发展大会#"
+    }
+  }
+}
