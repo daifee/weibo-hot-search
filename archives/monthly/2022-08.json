@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660930100120,
+  "endTime": 1660931031187,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -20475,6 +20475,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 481048,
+      "num": 481048,
+      "word": "重庆两姐妹江边耍水被冲走",
+      "onboard_time": 1660927703,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480996,
       "num": 359008,
       "word": "沉香重华全员再就业",
@@ -21537,14 +21545,6 @@
       "onboard_time": 1660627114,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 458459,
-      "num": 458459,
-      "word": "重庆两姐妹江边耍水被冲走",
-      "onboard_time": 1660927703,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457922,
@@ -32091,6 +32091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307704,
+      "num": 307704,
+      "word": "Jennie朴彩英小分队",
+      "onboard_time": 1660930458,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307667,
       "num": 307667,
       "word": "抽完的烟盒不要丢",
@@ -40419,6 +40427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190008,
+      "num": 87750,
+      "word": "社恐症是影帝标配吧",
+      "onboard_time": 1660929680,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 189935,
       "num": 189935,
       "word": "彭州山洪已造成7人死亡8人轻伤",
@@ -41387,6 +41403,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 168221,
+      "num": 64972,
+      "word": "苏有朋怎么不老",
+      "onboard_time": 1660930398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168218,
       "num": 168218,
       "word": "当兵就要练练练",
@@ -41473,14 +41497,6 @@
       "onboard_time": 1660300416,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 165969,
-      "num": 80133,
-      "word": "社恐症是影帝标配吧",
-      "onboard_time": 1660929680,
-      "rank": 31,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 165772,
@@ -43443,6 +43459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86731,
+      "num": 86731,
+      "word": "全国高温四大榜单出炉",
+      "onboard_time": 1660928362,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86470,
       "num": 86470,
       "word": "阿灵顿major",
@@ -43601,14 +43625,6 @@
       "onboard_time": 1660346908,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70417,
-      "num": 70417,
-      "word": "全国高温四大榜单出炉",
-      "onboard_time": 1660928362,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69572,
@@ -43817,6 +43833,14 @@
       "onboard_time": 1659291673,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52117,
+      "num": 52117,
+      "word": "张浩博",
+      "onboard_time": 1660929979,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50280,
