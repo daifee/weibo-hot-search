@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660947821531,
+  "endTime": 1660948791592,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -28315,6 +28315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357111,
+      "num": 357111,
+      "word": "北京一男子违规办学擅自组织线下授课被罚",
+      "onboard_time": 1660943951,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 356961,
       "num": 356961,
       "word": "蹭空调的狗狗素质有多高",
@@ -33011,6 +33019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295279,
+      "num": 295279,
+      "word": "苏有朋怎么不老",
+      "onboard_time": 1660930398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295257,
       "num": 209018,
       "word": "暑期档总票房破75亿",
@@ -33729,14 +33745,6 @@
       "onboard_time": 1659765752,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284978,
-      "num": 284978,
-      "word": "苏有朋怎么不老",
-      "onboard_time": 1660930398,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 284921,
@@ -38243,14 +38251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226504,
-      "num": 226504,
-      "word": "北京一男子违规办学擅自组织线下授课被罚",
-      "onboard_time": 1660943951,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 226483,
       "num": 1347552,
       "word": "中国人独有的双奥记忆",
@@ -38817,6 +38817,14 @@
       "onboard_time": 1660048115,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 217272,
+      "num": 217272,
+      "word": "社恐症是影帝标配吧",
+      "onboard_time": 1660929680,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 217156,
@@ -40441,14 +40449,6 @@
       "onboard_time": 1659878551,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190008,
-      "num": 170628,
-      "word": "社恐症是影帝标配吧",
-      "onboard_time": 1660929680,
-      "rank": 31,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 189935,
@@ -42691,6 +42691,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 128871,
+      "num": 128871,
+      "word": "只有袁慎受伤的世界达成了",
+      "onboard_time": 1660933394,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128667,
       "num": 128667,
       "word": "刘青松明年会是更好的自己",
@@ -43155,14 +43163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109869,
-      "num": 85664,
-      "word": "只有袁慎受伤的世界达成了",
-      "onboard_time": 1660933394,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 109841,
       "num": 109841,
       "word": "汪苏泷说社交无秘诀说话凭直觉",
@@ -43224,6 +43224,14 @@
       "word": "这世界那么多你",
       "onboard_time": 1659276453,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106497,
+      "num": 106497,
+      "word": "全国高温四大榜单出炉",
+      "onboard_time": 1660928362,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -43289,14 +43297,6 @@
       "onboard_time": 1660322783,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101640,
-      "num": 101640,
-      "word": "全国高温四大榜单出炉",
-      "onboard_time": 1660928362,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101002,
@@ -43915,6 +43915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47220,
+      "num": 47220,
+      "word": "爱你的人永远不会抛弃你",
+      "onboard_time": 1660946953,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 46171,
       "num": 35669,
       "word": "吴磊每一句情话都说进我心里",
@@ -44003,6 +44011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38396,
+      "num": 38396,
+      "word": "WUSSA手表回应海报被指侮辱女性",
+      "onboard_time": 1660939271,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37919,
       "num": 37919,
       "word": "疑商夫妇买蜜饯花絮",
@@ -44083,14 +44099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35503,
-      "num": 35503,
-      "word": "WUSSA手表回应海报被指侮辱女性",
-      "onboard_time": 1660939271,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35144,
       "num": 549034,
       "word": "张继科说今晚肯定不睡",
@@ -44163,6 +44171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31780,
+      "num": 31780,
+      "word": "披荆斩棘歌单",
+      "onboard_time": 1660935552,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31224,
       "num": 31224,
       "word": "长珩凡间黑历史",
@@ -44201,14 +44217,6 @@
       "onboard_time": 1659906312,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28138,
-      "num": 26254,
-      "word": "披荆斩棘歌单",
-      "onboard_time": 1660935552,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 27906,
@@ -44251,12 +44259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26778,
+      "num": 26778,
+      "word": "这只小狗也太有礼貌了",
+      "onboard_time": 1660948273,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26213,
       "num": 22391,
       "word": "二十不惑2租房好真实",
       "onboard_time": 1660763831,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26044,
+      "num": 26044,
+      "word": "卡塞米罗有意加盟曼联",
+      "onboard_time": 1660941430,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 25867,
@@ -44273,14 +44297,6 @@
       "onboard_time": 1659405639,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24916,
-      "num": 24916,
-      "word": "卡塞米罗有意加盟曼联",
-      "onboard_time": 1660941430,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 24314,
@@ -44417,14 +44433,6 @@
       "onboard_time": 1660339632,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17839,
-      "num": 17839,
-      "word": "爱你的人永远不会抛弃你",
-      "onboard_time": 1660946953,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 16972,
