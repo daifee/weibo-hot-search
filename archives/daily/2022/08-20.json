@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660926831298,
+  "endTime": 1660928279256,
   "band_list": [
     {
       "raw_hot": 2286920,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 804393,
-      "num": 804393,
+      "raw_hot": 1000037,
+      "num": 1000037,
       "word": "赵露思月升沧海红衣好美",
       "onboard_time": 1660925725,
       "rank": 3,
@@ -35,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693809,
+      "num": 323267,
+      "word": "杭州一女子为买车砍伤母亲砍死小叔",
+      "onboard_time": 1660926145,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 657035,
+      "num": 657035,
+      "word": "家里除了蛋糕没一个是真的",
+      "onboard_time": 1660925128,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 605186,
       "num": 605186,
       "word": "3兄弟顶撞奶奶姐姐出手罚跪",
       "onboard_time": 1660922310,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543661,
+      "num": 322910,
+      "word": "张俪老年人用手机既视感",
+      "onboard_time": 1660924229,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 521913,
@@ -91,14 +115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392534,
-      "num": 194840,
-      "word": "张俪老年人用手机既视感",
-      "onboard_time": 1660924229,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385526,
       "num": 193240,
       "word": "BLACKPINK演唱会门票价格",
@@ -140,19 +156,11 @@
     },
     {
       "raw_hot": 330711,
-      "num": 137315,
+      "num": 144060,
       "word": "月升沧海大结局观后感",
       "onboard_time": 1660909950,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327565,
-      "num": 327565,
-      "word": "家里除了蛋糕没一个是真的",
-      "onboard_time": 1660925128,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 276563,
@@ -201,6 +209,14 @@
       "onboard_time": 1660920633,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217460,
+      "num": 105359,
+      "word": "敖子逸是不是拿了男二剧本",
+      "onboard_time": 1660926263,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 213001,
@@ -257,14 +273,6 @@
       "onboard_time": 1660919672,
       "rank": 27,
       "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 147011,
-      "num": 147011,
-      "word": "杭州一女子为买车砍伤母亲砍死小叔",
-      "onboard_time": 1660926145,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 141202,
@@ -329,6 +337,14 @@
       "onboard_time": 1660916731,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105627,
+      "num": 105627,
+      "word": "重庆两姐妹江边耍水被冲走",
+      "onboard_time": 1660927703,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105112,

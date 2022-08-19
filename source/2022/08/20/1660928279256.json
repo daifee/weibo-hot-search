@@ -1,0 +1,410 @@
+{
+  "runTime": 1660928279256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796620,
+        "num": 1796620,
+        "word": "为什么你越来越没有耐心了",
+        "onboard_time": 1660917873,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1000037,
+        "num": 1000037,
+        "word": "赵露思月升沧海红衣好美",
+        "onboard_time": 1660925725,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48133,
+        "num": 743015,
+        "word": "这是真实的中国医生",
+        "onboard_time": 1660893694,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657035,
+        "num": 657035,
+        "word": "家里除了蛋糕没一个是真的",
+        "onboard_time": 1660925128,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 615618,
+        "num": 615618,
+        "word": "河南成为全国第一个40℃大满贯省份",
+        "onboard_time": 1660915471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495732,
+        "num": 495732,
+        "word": "辣椒酱爆炸似案发现场照片吓坏男友",
+        "onboard_time": 1660919492,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481659,
+        "num": 481659,
+        "word": "檀健次2022央视中秋晚会",
+        "onboard_time": 1660925426,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476728,
+        "num": 476728,
+        "word": "3兄弟顶撞奶奶姐姐出手罚跪",
+        "onboard_time": 1660922310,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389005,
+        "num": 389005,
+        "word": "杨幂rua丁程鑫的脸",
+        "onboard_time": 1660920269,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323611,
+        "num": 323611,
+        "word": "中学老师日送2吨冰块给教室降温",
+        "onboard_time": 1660924406,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 693809,
+        "num": 323267,
+        "word": "杭州一女子为买车砍伤母亲砍死小叔",
+        "onboard_time": 1660926145,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 543661,
+        "num": 322910,
+        "word": "张俪老年人用手机既视感",
+        "onboard_time": 1660924229,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322221,
+        "num": 322221,
+        "word": "北京进返京人员发现2例本土感染者",
+        "onboard_time": 1660922010,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308825,
+        "num": 308825,
+        "word": "苍兰诀吻戏花絮",
+        "onboard_time": 1660921532,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299817,
+        "num": 299817,
+        "word": "黑话律师",
+        "onboard_time": 1660920693,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252960,
+        "num": 252960,
+        "word": "小狗两个月的变化有多大",
+        "onboard_time": 1660919192,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 204962,
+        "num": 204962,
+        "word": "久哲哭了",
+        "onboard_time": 1660917032,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168857,
+        "num": 168857,
+        "word": "少年野外遇火情脱裤子装水灭火",
+        "onboard_time": 1660920633,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167758,
+        "num": 167758,
+        "word": "TheShy",
+        "onboard_time": 1660907006,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155490,
+        "num": 155490,
+        "word": "西安4天新增54例阳性感染者",
+        "onboard_time": 1660913552,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319743,
+        "num": 154010,
+        "word": "BLACKPINK演唱会门票价格",
+        "onboard_time": 1660914151,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285313,
+        "num": 147213,
+        "word": "蒲熠星一人带全队好强",
+        "onboard_time": 1660919851,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280459,
+        "num": 144060,
+        "word": "月升沧海大结局观后感",
+        "onboard_time": 1660909950,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139829,
+        "num": 139829,
+        "word": "小黄猫发现火情又蹦又跳叫醒主人",
+        "onboard_time": 1660910667,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136833,
+        "num": 136833,
+        "word": "金咕咕想去S12",
+        "onboard_time": 1660921289,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128948,
+        "num": 128948,
+        "word": "9件事助你走出人生低谷",
+        "onboard_time": 1660920332,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 124454,
+        "num": 124454,
+        "word": "吴尊友回应头发3年全白",
+        "onboard_time": 1660900767,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119700,
+        "num": 119700,
+        "word": "英凯采访",
+        "onboard_time": 1660922731,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109175,
+        "num": 109175,
+        "word": "骆歆衣服穿反了",
+        "onboard_time": 1660913728,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105627,
+        "num": 105627,
+        "word": "重庆两姐妹江边耍水被冲走",
+        "onboard_time": 1660927703,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264485,
+        "num": 105601,
+        "word": "陈小春的西装是浪姐剩下的吧",
+        "onboard_time": 1660917632,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217460,
+        "num": 105359,
+        "word": "敖子逸是不是拿了男二剧本",
+        "onboard_time": 1660926263,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213166,
+        "num": 105206,
+        "word": "Mike中文",
+        "onboard_time": 1660918831,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200893,
+        "num": 105089,
+        "word": "唐周要淋三天雨",
+        "onboard_time": 1660923268,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105062,
+        "num": 105062,
+        "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+        "onboard_time": 1660897233,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100725,
+        "num": 100725,
+        "word": "如何看待景区抬轿子的人",
+        "onboard_time": 1660919672,
+        "rank": 35,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 99219,
+        "num": 99219,
+        "word": "无畏状态",
+        "onboard_time": 1660911870,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95633,
+        "num": 95633,
+        "word": "2小孩花同伴捡的50元被爸爸罚跪",
+        "onboard_time": 1660906830,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93815,
+        "num": 93815,
+        "word": "河南4家村镇银行将开始第六批垫付",
+        "onboard_time": 1660915169,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 88553,
+        "num": 88553,
+        "word": "WBG无缘世界赛",
+        "onboard_time": 1660916731,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197743,
+        "num": 88502,
+        "word": "杨戬",
+        "onboard_time": 1660898491,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194735,
+        "num": 88088,
+        "word": "陈奕迅线上演唱会",
+        "onboard_time": 1660914809,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174172,
+        "num": 87598,
+        "word": "苏有朋说小虎队永远都是我的最初",
+        "onboard_time": 1660910129,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87068,
+        "num": 87068,
+        "word": "AG晋级季后赛第二轮",
+        "onboard_time": 1660923630,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81676,
+        "num": 81676,
+        "word": "里根号航母已返回日本横须贺母港",
+        "onboard_time": 1660902510,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 81302,
+        "num": 81302,
+        "word": "ON 亚索",
+        "onboard_time": 1660914868,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79747,
+        "num": 79747,
+        "word": "新疆疫情防控动态",
+        "onboard_time": 1660922128,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76783,
+        "num": 76783,
+        "word": "糖水爷爷回老家发声",
+        "onboard_time": 1660909950,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65339,
+        "num": 65339,
+        "word": "Hero纪录片",
+        "onboard_time": 1660918291,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58069,
+        "num": 58069,
+        "word": "青海大通山洪已造成23人遇难",
+        "onboard_time": 1660917572,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民领袖的人民情怀#"
+    }
+  }
+}
