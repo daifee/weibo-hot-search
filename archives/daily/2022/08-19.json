@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660900949642,
+  "endTime": 1660901955392,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -35,20 +35,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 2589909,
+      "num": 2589909,
+      "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+      "onboard_time": 1660897233,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2554296,
       "num": 709578,
       "word": "难听",
       "onboard_time": 1660883554,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2490010,
-      "num": 2490010,
-      "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
-      "onboard_time": 1660897233,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2411405,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1766905,
+      "num": 1766905,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1664486,
       "num": 1664486,
       "word": "Lisa和Jennie双rap",
@@ -161,14 +169,6 @@
       "onboard_time": 1660879649,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1499771,
-      "num": 1499771,
-      "word": "杨戬",
-      "onboard_time": 1660898491,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 1445988,
@@ -225,6 +225,14 @@
       "onboard_time": 1660897593,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1230659,
+      "num": 354042,
+      "word": "Angelababy水中比心四宫格",
+      "onboard_time": 1660901788,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1188565,
@@ -595,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573756,
+      "num": 573756,
+      "word": "刘恺威唱将爱",
+      "onboard_time": 1660900230,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565854,
       "num": 546290,
       "word": "吴磊模仿嫋嫋吃饼",
@@ -689,6 +705,14 @@
       "onboard_time": 1660887749,
       "rank": 47,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 506577,
+      "num": 506577,
+      "word": "55岁大叔模拟考科三被扣1000多分",
+      "onboard_time": 1660899752,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503961,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402135,
+      "num": 402135,
+      "word": "中方奉劝美方不要误判",
+      "onboard_time": 1660900591,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 401751,
       "num": 215164,
       "word": "家务男人均八百个心眼子",
@@ -888,6 +920,14 @@
       "word": "2岁男孩帮店外躲雨工人搬椅子",
       "onboard_time": 1660890150,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396692,
+      "num": 396692,
+      "word": "吃饭遇邻桌当面给宝宝换带便尿布",
+      "onboard_time": 1660900351,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -936,6 +976,14 @@
       "word": "孟超真名叫张清冬",
       "onboard_time": 1660882772,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 377625,
+      "num": 377625,
+      "word": "赵露思月升沧海自白",
+      "onboard_time": 1660901668,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -1019,8 +1067,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354147,
-      "num": 354147,
+      "raw_hot": 354363,
+      "num": 354363,
       "word": "成都为节电真的很努力",
       "onboard_time": 1660898553,
       "rank": 49,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1660886495,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351313,
+      "num": 351313,
+      "word": "中国宣布免除非洲17国23笔无息贷款债务",
+      "onboard_time": 1660901432,
+      "rank": 21,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 350968,
@@ -1115,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330960,
-      "num": 330960,
-      "word": "刘恺威唱将爱",
-      "onboard_time": 1660900230,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330059,
       "num": 330059,
       "word": "青海大通山洪已致17人死亡",
@@ -1179,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320777,
+      "num": 320777,
+      "word": "女明星ELLE封面大赏",
+      "onboard_time": 1660900890,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 319766,
       "num": 319766,
       "word": "湘雅二院通报医生医疗作风问题",
@@ -1228,7 +1284,7 @@
     },
     {
       "raw_hot": 307322,
-      "num": 240705,
+      "num": 247267,
       "word": "披荆斩棘",
       "onboard_time": 1660883733,
       "rank": 31,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1660882170,
       "rank": 34,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 302581,
-      "num": 149743,
-      "word": "女明星ELLE封面大赏",
-      "onboard_time": 1660900890,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302438,
@@ -1323,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284711,
-      "num": 284711,
-      "word": "55岁大叔模拟考科三被扣1000多分",
-      "onboard_time": 1660899752,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284656,
       "num": 172677,
       "word": "周笔畅说胆子小应该都比不过彭彭吧",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1660877491,
       "rank": 34,
       "category": "财经,情感"
-    },
-    {
-      "raw_hot": 269213,
-      "num": 269213,
-      "word": "吃饭遇邻桌当面给宝宝换带便尿布",
-      "onboard_time": 1660900351,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269129,
@@ -1459,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247563,
+      "num": 247563,
+      "word": "这就是网瘾小猫吧",
+      "onboard_time": 1660899032,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243196,
       "num": 243196,
       "word": "麓山之歌定档",
@@ -1491,12 +1531,28 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 239089,
+      "num": 239089,
+      "word": "一不小心被光治愈了",
+      "onboard_time": 1660901432,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238291,
       "num": 238291,
       "word": "医生的天书书法",
       "onboard_time": 1660882710,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238161,
+      "num": 187694,
+      "word": "潘玮柏个人喜爱度第二",
+      "onboard_time": 1660901250,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 237298,
@@ -1553,14 +1609,6 @@
       "onboard_time": 1660876890,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210825,
-      "num": 210825,
-      "word": "这就是网瘾小猫吧",
-      "onboard_time": 1660899032,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 210239,
@@ -1627,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195594,
+      "num": 195594,
+      "word": "国内游戏市场7月份收入208亿元",
+      "onboard_time": 1660898073,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195175,
       "num": 195175,
       "word": "石家庄核酸",
@@ -1643,28 +1699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194533,
-      "num": 194533,
-      "word": "中方奉劝美方不要误判",
-      "onboard_time": 1660900591,
-      "rank": 40,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
       "onboard_time": 1660840347,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185056,
-      "num": 185056,
-      "word": "国内游戏市场7月份收入208亿元",
-      "onboard_time": 1660898073,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 175059,
@@ -1707,12 +1747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167498,
+      "num": 167498,
+      "word": "秒结冰的降温喷雾有多危险",
+      "onboard_time": 1660901250,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163876,
       "num": 163876,
       "word": "红旗17导弹神级走位瞬间",
       "onboard_time": 1660830095,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 160667,
+      "num": 160667,
+      "word": "吴尊友回应头发3年全白",
+      "onboard_time": 1660900767,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160462,
@@ -1769,14 +1825,6 @@
       "onboard_time": 1660889614,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 140302,
-      "num": 140302,
-      "word": "吴尊友回应头发3年全白",
-      "onboard_time": 1660900767,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137590,

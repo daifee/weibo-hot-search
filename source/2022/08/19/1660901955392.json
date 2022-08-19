@@ -1,0 +1,410 @@
+{
+  "runTime": 1660901955392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2589909,
+        "num": 2589909,
+        "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+        "onboard_time": 1660897233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1766905,
+        "num": 1766905,
+        "word": "杨戬",
+        "onboard_time": 1660898491,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 1003418,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1836798,
+        "num": 956180,
+        "word": "女子厕所冲水瞬间仙气飘飘",
+        "onboard_time": 1660895911,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 899062,
+        "num": 899062,
+        "word": "QQ空间花藤停止运营",
+        "onboard_time": 1660892309,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 912705,
+        "num": 854339,
+        "word": "江南 龙族",
+        "onboard_time": 1660883013,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 681930,
+        "num": 681930,
+        "word": "红蜻蜓全场泪崩",
+        "onboard_time": 1660891110,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638254,
+        "num": 638254,
+        "word": "北京一感染者得知为密接后面包车里过夜",
+        "onboard_time": 1660892012,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573756,
+        "num": 573756,
+        "word": "刘恺威唱将爱",
+        "onboard_time": 1660900230,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558600,
+        "num": 558600,
+        "word": "四线小城工人月入9000元",
+        "onboard_time": 1660890272,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1461071,
+        "num": 547051,
+        "word": "劳荣枝多次反问检方引哄笑",
+        "onboard_time": 1660893093,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090648,
+        "num": 532057,
+        "word": "选秀男爱豆持刀威胁女友被判刑",
+        "onboard_time": 1660897593,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506577,
+        "num": 506577,
+        "word": "55岁大叔模拟考科三被扣1000多分",
+        "onboard_time": 1660899752,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470854,
+        "num": 470854,
+        "word": "海外台胞遇困难可求助中国驻外使领馆",
+        "onboard_time": 1660895014,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 413511,
+        "num": 413511,
+        "word": "你会考虑去工厂工作吗",
+        "onboard_time": 1660895673,
+        "rank": 14,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 402135,
+        "num": 402135,
+        "word": "中方奉劝美方不要误判",
+        "onboard_time": 1660900591,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 399709,
+        "num": 399709,
+        "word": "大连发现5名省外返连人员核酸结果异常",
+        "onboard_time": 1660895793,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396692,
+        "num": 396692,
+        "word": "吃饭遇邻桌当面给宝宝换带便尿布",
+        "onboard_time": 1660900351,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377625,
+        "num": 377625,
+        "word": "赵露思月升沧海自白",
+        "onboard_time": 1660901668,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354363,
+        "num": 354363,
+        "word": "成都为节电真的很努力",
+        "onboard_time": 1660898553,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230659,
+        "num": 354042,
+        "word": "Angelababy水中比心四宫格",
+        "onboard_time": 1660901788,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351313,
+        "num": 351313,
+        "word": "中国宣布免除非洲17国23笔无息贷款债务",
+        "onboard_time": 1660901432,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 350328,
+        "num": 350328,
+        "word": "劳荣枝称自己从未整容是个傻白甜",
+        "onboard_time": 1660887035,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350117,
+        "num": 350117,
+        "word": "小兰花官宣新身份",
+        "onboard_time": 1660890272,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322722,
+        "num": 322722,
+        "word": "真的建议高铁出个带孩子车厢",
+        "onboard_time": 1660848313,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320777,
+        "num": 320777,
+        "word": "女明星ELLE封面大赏",
+        "onboard_time": 1660900890,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 297673,
+        "num": 297673,
+        "word": "周五下班的理想状态",
+        "onboard_time": 1660884333,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290564,
+        "num": 290564,
+        "word": "四六级",
+        "onboard_time": 1660882352,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289351,
+        "num": 289351,
+        "word": "Rose回归造型",
+        "onboard_time": 1660890150,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247563,
+        "num": 247563,
+        "word": "这就是网瘾小猫吧",
+        "onboard_time": 1660899032,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287281,
+        "num": 247267,
+        "word": "披荆斩棘",
+        "onboard_time": 1660883733,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268357,
+        "num": 245262,
+        "word": "冰雨火登剧集影响力榜榜首",
+        "onboard_time": 1660899930,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2112519,
+        "num": 243860,
+        "word": "王鹤棣道歉",
+        "onboard_time": 1660888472,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266219,
+        "num": 241418,
+        "word": "吴磊谈复仇戏拍摄心得",
+        "onboard_time": 1660898253,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262168,
+        "num": 240189,
+        "word": "难听",
+        "onboard_time": 1660883554,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239089,
+        "num": 239089,
+        "word": "一不小心被光治愈了",
+        "onboard_time": 1660901432,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225442,
+        "num": 225442,
+        "word": "小偷作案后逃跑被一群人狂追",
+        "onboard_time": 1660897772,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203918,
+        "num": 203918,
+        "word": "劳荣枝否认和法子英是情侣",
+        "onboard_time": 1660885652,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195594,
+        "num": 195594,
+        "word": "国内游戏市场7月份收入208亿元",
+        "onboard_time": 1660898073,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189491,
+        "num": 189491,
+        "word": "13省市支援四川供电",
+        "onboard_time": 1660890812,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238161,
+        "num": 187694,
+        "word": "潘玮柏个人喜爱度第二",
+        "onboard_time": 1660901250,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226368,
+        "num": 186147,
+        "word": "张小斐新电影风衣造型氛围感",
+        "onboard_time": 1660895311,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217064,
+        "num": 186066,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1660889372,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181252,
+        "num": 181252,
+        "word": "第五人格 飞轮",
+        "onboard_time": 1660896391,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175754,
+        "num": 175754,
+        "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
+        "onboard_time": 1660884513,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167498,
+        "num": 167498,
+        "word": "秒结冰的降温喷雾有多危险",
+        "onboard_time": 1660901250,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163203,
+        "num": 163203,
+        "word": "恐龙或经历两次小行星撞地球",
+        "onboard_time": 1660897172,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160667,
+        "num": 160667,
+        "word": "吴尊友回应头发3年全白",
+        "onboard_time": 1660900767,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147310,
+        "num": 147310,
+        "word": "武警战士训练被狗狗亲了一口",
+        "onboard_time": 1660887749,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 143195,
+        "num": 143195,
+        "word": "北京疫情发布会",
+        "onboard_time": 1660899091,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳考察调研#"
+    }
+  }
+}
