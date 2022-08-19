@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660912942235,
+  "endTime": 1660914375242,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -6411,6 +6411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1304399,
+      "num": 1304399,
+      "word": "杨幂赵今麦草莓耳环",
+      "onboard_time": 1660911987,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1302693,
       "num": 1302693,
       "word": "张睿仪态",
@@ -6988,7 +6996,7 @@
     },
     {
       "raw_hot": 1226671,
-      "num": 432092,
+      "num": 452272,
       "word": "ELLE称刘亦菲本人非常敬业",
       "onboard_time": 1660909349,
       "rank": 10,
@@ -9003,6 +9011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1017229,
+      "num": 1017229,
+      "word": "TheShy",
+      "onboard_time": 1660907006,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1017001,
       "num": 843126,
       "word": "杨幂请狐妖小红娘剧组喝咖啡",
@@ -10947,6 +10963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 847065,
+      "num": 438832,
+      "word": "苏有朋说小虎队永远都是我的最初",
+      "onboard_time": 1660910129,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 846930,
       "num": 846930,
       "word": "颜淡终于承认喜欢唐周",
@@ -11963,6 +11987,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 772901,
+      "num": 772901,
+      "word": "吴尊友回应头发3年全白",
+      "onboard_time": 1660900767,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772838,
       "num": 772838,
       "word": "粉丝曝曾替SNH48前成员祁静付违约金",
@@ -12659,14 +12691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 732648,
-      "num": 732648,
-      "word": "吴尊友回应头发3年全白",
-      "onboard_time": 1660900767,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 732461,
       "num": 732461,
       "word": "肖战时影玉骨遥杀青一周年",
@@ -12995,14 +13019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 718660,
-      "num": 430482,
-      "word": "杨幂赵今麦草莓耳环",
-      "onboard_time": 1660911987,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 718273,
       "num": 718273,
       "word": "盒马进口橙汁检出安赛蜜被罚",
@@ -13073,6 +13089,14 @@
       "onboard_time": 1659711399,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 714899,
+      "num": 714899,
+      "word": "无畏状态",
+      "onboard_time": 1660911870,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 714478,
@@ -15603,20 +15627,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 604044,
+      "num": 604044,
+      "word": "小黄猫发现火情又蹦又跳叫醒主人",
+      "onboard_time": 1660910667,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603998,
       "num": 603998,
       "word": "赵露思帮吴磊擦汗",
       "onboard_time": 1660547129,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 603901,
-      "num": 603901,
-      "word": "TheShy",
-      "onboard_time": 1660907006,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 603193,
@@ -16561,14 +16585,6 @@
       "onboard_time": 1660277676,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571605,
-      "num": 260915,
-      "word": "苏有朋说小虎队永远都是我的最初",
-      "onboard_time": 1660910129,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 571524,
@@ -20139,6 +20155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482195,
+      "num": 275001,
+      "word": "满汉全席",
+      "onboard_time": 1660913552,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 482045,
       "num": 482045,
       "word": "上海华二附中今年58人进入清北",
@@ -21811,6 +21835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448250,
+      "num": 263244,
+      "word": "BLACKPINK演唱会门票价格",
+      "onboard_time": 1660914151,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448203,
       "num": 448203,
       "word": "手机不同内存该怎么选",
@@ -22025,14 +22057,6 @@
       "onboard_time": 1660629992,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 445129,
-      "num": 445129,
-      "word": "小黄猫发现火情又蹦又跳叫醒主人",
-      "onboard_time": 1660910667,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445055,
@@ -23547,6 +23571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 420181,
+      "num": 420181,
+      "word": "糖水爷爷回老家发声",
+      "onboard_time": 1660909950,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419892,
       "num": 410864,
       "word": "与凤行",
@@ -23641,6 +23673,14 @@
       "onboard_time": 1660367317,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418415,
+      "num": 189862,
+      "word": "吴磊夸赵露思拍照好看",
+      "onboard_time": 1660914270,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 418379,
@@ -26219,6 +26259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378879,
+      "num": 188999,
+      "word": "关晓彤北影节黑色露肩长裙",
+      "onboard_time": 1660913370,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378867,
       "num": 378867,
       "word": "七夕奇妙游女性群像",
@@ -26432,6 +26480,14 @@
       "word": "五台山景区饭店用阴阳菜单被查封",
       "onboard_time": 1660127676,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376289,
+      "num": 240364,
+      "word": "西安4天新增54例阳性感染者",
+      "onboard_time": 1660913552,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -26825,6 +26881,14 @@
       "onboard_time": 1660532908,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371547,
+      "num": 371547,
+      "word": "Hero对战AG",
+      "onboard_time": 1660909287,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 371334,
@@ -28059,14 +28123,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 356677,
-      "num": 356677,
-      "word": "糖水爷爷回老家发声",
-      "onboard_time": 1660909950,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356651,
       "num": 277482,
       "word": "方芷衡的复仇计划就在今天",
@@ -28563,6 +28619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350098,
+      "num": 187527,
+      "word": "黄晓明新剧刚转正就分手",
+      "onboard_time": 1660911749,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349714,
       "num": 349714,
       "word": "董思成说姐弟恋年龄差不是问题",
@@ -28785,6 +28849,14 @@
       "onboard_time": 1660271370,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346833,
+      "num": 346833,
+      "word": "AG永不五杀",
+      "onboard_time": 1660913430,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 346791,
@@ -30345,6 +30417,14 @@
       "onboard_time": 1659420582,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327490,
+      "num": 183230,
+      "word": "余初晖不忍妈妈受委屈鲨疯了",
+      "onboard_time": 1660913851,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 327475,
@@ -32371,14 +32451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298951,
-      "num": 298951,
-      "word": "无畏状态",
-      "onboard_time": 1660911870,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 298868,
       "num": 298868,
       "word": "亲爱的小美人鱼定档",
@@ -32728,14 +32800,6 @@
       "word": "谢娜谈十三角关系",
       "onboard_time": 1660290155,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 294200,
-      "num": 173716,
-      "word": "黄晓明新剧刚转正就分手",
-      "onboard_time": 1660911749,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -35475,14 +35539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256084,
-      "num": 256084,
-      "word": "Hero对战AG",
-      "onboard_time": 1660909287,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 256019,
       "num": 256019,
       "word": "无锡疫情防控",
@@ -37523,6 +37579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230031,
+      "num": 230031,
+      "word": "骆歆衣服穿反了",
+      "onboard_time": 1660913728,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229926,
       "num": 229926,
       "word": "橘子海回应这一脚踢出了整个盛夏",
@@ -38361,6 +38425,14 @@
       "onboard_time": 1659833669,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217525,
+      "num": 217525,
+      "word": "街道回应17岁男孩意外坠楼",
+      "onboard_time": 1660913671,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217498,
@@ -39763,6 +39835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193266,
+      "num": 193266,
+      "word": "羽衣甘蓝奶茶你喝过吗",
+      "onboard_time": 1660913493,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193208,
       "num": 193208,
       "word": "DK对战GEN",
@@ -40537,6 +40617,14 @@
       "onboard_time": 1659348032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176972,
+      "num": 176972,
+      "word": "一诺马可豪取四杀",
+      "onboard_time": 1660913186,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 176256,
