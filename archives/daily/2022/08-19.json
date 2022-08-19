@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660918820483,
+  "endTime": 1660919825435,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -43,6 +43,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 2664906,
+      "num": 2664906,
+      "word": "河南成为全国第一个40℃大满贯省份",
+      "onboard_time": 1660915471,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2605848,
       "num": 2605848,
       "word": "女子厕所冲水瞬间仙气飘飘",
@@ -73,14 +81,6 @@
       "onboard_time": 1660848313,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2365388,
-      "num": 2365388,
-      "word": "河南成为全国第一个40℃大满贯省份",
-      "onboard_time": 1660915471,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2315415,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1223783,
+      "num": 1223783,
+      "word": "警方将衣服鞋袜归还苏州穿和服女孩",
+      "onboard_time": 1660918473,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188565,
       "num": 1188565,
       "word": "Jennie rap",
@@ -427,6 +435,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 911733,
+      "num": 911733,
+      "word": "吴磊夸赵露思拍照好看",
+      "onboard_time": 1660914270,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 892006,
       "num": 483390,
       "word": "金智秀造型",
@@ -473,14 +489,6 @@
       "onboard_time": 1660875811,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 831086,
-      "num": 831086,
-      "word": "吴磊夸赵露思拍照好看",
-      "onboard_time": 1660914270,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 820162,
@@ -624,6 +632,14 @@
       "word": "AG零封Hero",
       "onboard_time": 1660916552,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 706402,
+      "num": 706402,
+      "word": "未央 宫本",
+      "onboard_time": 1660917450,
+      "rank": 9,
       "category": "游戏"
     },
     {
@@ -859,6 +875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 560283,
+      "num": 560283,
+      "word": "为什么你越来越没有耐心了",
+      "onboard_time": 1660917873,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 545516,
       "num": 545516,
       "word": "大连发现5名省外返连人员核酸结果异常",
@@ -889,14 +913,6 @@
       "onboard_time": 1660886435,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535769,
-      "num": 535769,
-      "word": "未央 宫本",
-      "onboard_time": 1660917450,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 526833,
@@ -1051,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471177,
+      "num": 471177,
+      "word": "陈小春的西装是浪姐剩下的吧",
+      "onboard_time": 1660917632,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461464,
       "num": 377625,
       "word": "赵露思月升沧海自白",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1660876588,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 436595,
+      "num": 325686,
+      "word": "Mike中文",
+      "onboard_time": 1660918831,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 435887,
@@ -1563,8 +1595,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330549,
-      "num": 330549,
+      "raw_hot": 331735,
+      "num": 331735,
       "word": "Hero纪录片",
       "onboard_time": 1660918291,
       "rank": 23,
@@ -1635,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320985,
+      "num": 235601,
+      "word": "中餐厅",
+      "onboard_time": 1660919250,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320777,
       "num": 320777,
       "word": "女明星ELLE封面大赏",
@@ -1657,14 +1697,6 @@
       "onboard_time": 1660823493,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316545,
-      "num": 316545,
-      "word": "陈小春的西装是浪姐剩下的吧",
-      "onboard_time": 1660917632,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 313144,
@@ -1761,14 +1793,6 @@
       "onboard_time": 1660836815,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297680,
-      "num": 297680,
-      "word": "警方将衣服鞋袜归还苏州穿和服女孩",
-      "onboard_time": 1660918473,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297125,
@@ -1875,14 +1899,6 @@
       "category": "财经,情感"
     },
     {
-      "raw_hot": 277944,
-      "num": 277944,
-      "word": "为什么你越来越没有耐心了",
-      "onboard_time": 1660917873,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274580,
       "num": 172527,
       "word": "BLACKPINK回归",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1660871308,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267158,
+      "num": 267158,
+      "word": "北京晚霞",
+      "onboard_time": 1660916552,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 261934,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1660902809,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244324,
-      "num": 244324,
-      "word": "北京晚霞",
-      "onboard_time": 1660916552,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 243196,
@@ -2171,12 +2187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220804,
+      "num": 220804,
+      "word": "WBG无缘世界赛",
+      "onboard_time": 1660916731,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219496,
       "num": 219496,
       "word": "温州女生百米栏跑出13.61秒",
       "onboard_time": 1660905569,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216459,
+      "num": 216459,
+      "word": "青海大通山洪已造成23人遇难",
+      "onboard_time": 1660917572,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 214632,
@@ -2193,14 +2225,6 @@
       "onboard_time": 1660876890,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210418,
-      "num": 210418,
-      "word": "WBG无缘世界赛",
-      "onboard_time": 1660916731,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 210239,
@@ -2283,20 +2307,20 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 195167,
-      "num": 195167,
-      "word": "青海大通山洪已造成23人遇难",
-      "onboard_time": 1660917572,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 194737,
       "num": 145490,
       "word": "越妃你是我的神",
       "onboard_time": 1660827931,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193523,
+      "num": 193523,
+      "word": "小狗两个月的变化有多大",
+      "onboard_time": 1660919192,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 185561,
@@ -2324,10 +2348,18 @@
     },
     {
       "raw_hot": 174606,
-      "num": 1627470,
+      "num": 1694288,
       "word": "这是真实的中国医生",
       "onboard_time": 1660893694,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174526,
+      "num": 174526,
+      "word": "辣椒酱爆炸似案发现场照片吓坏男友",
+      "onboard_time": 1660919492,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2403,6 +2435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146367,
+      "num": 146367,
+      "word": "如何看待景区抬轿子的人",
+      "onboard_time": 1660919672,
+      "rank": 47,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 146233,
       "num": 146233,
       "word": "熬夜久了都有哪些小毛病",
@@ -2433,6 +2473,14 @@
       "onboard_time": 1660889614,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 141571,
+      "num": 141571,
+      "word": "两个动作缓解膝盖不适",
+      "onboard_time": 1660919074,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139712,
@@ -2634,6 +2682,9 @@
     },
     {
       "word": "#医者力量#"
+    },
+    {
+      "word": "#新时代网络强国建设成就#"
     }
   ]
 }
