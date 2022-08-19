@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/19 23:25:58
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/19 23:44:48
 </p>
 </blockquote>
 <p>
@@ -3879,6 +3879,12 @@ R1SE解散了但没完全解散（热度：1542791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%A3%E6%A4%92%E9%85%B1%E7%88%86%E7%82%B8%E4%BC%BC%E6%A1%88%E5%8F%91%E7%8E%B0%E5%9C%BA%E7%85%A7%E7%89%87%E5%90%93%E5%9D%8F%E7%94%B7%E5%8F%8B%23" target="weibo">
+辣椒酱爆炸似案发现场照片吓坏男友（热度：1519902）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E5%8C%96%E5%A6%86%E5%83%8F%E6%9E%81%E4%BA%86%E4%BD%9F%E6%B9%98%E7%8E%89%23" target="weibo">
 林妙妙化妆像极了佟湘玉（热度：1517044）
 </a>
@@ -6005,12 +6011,6 @@ iPhone支持Siri操作关机（热度：1135548）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%BB%B7%E6%A0%BC%23" target="weibo">
 李钟硕粉丝见面会门票价格（热度：1118989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E8%AE%A9%E4%B8%A4%E7%99%BE%E4%BA%BF%E5%BD%B1%E5%B8%9D%E4%B8%BB%E5%8A%A8%E6%89%87%E6%89%87%E5%AD%90%E7%9A%84%E5%A5%B3%E4%BA%BA%23" target="weibo">
-能让两百亿影帝主动扇扇子的女人（热度：1118283）
 </a>
 </li>
 
