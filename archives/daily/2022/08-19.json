@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660901955392,
+  "endTime": 1660904815460,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -9,6 +9,14 @@
       "onboard_time": 1660888472,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3922695,
+      "num": 3922695,
+      "word": "中国宣布免除非洲17国23笔无息贷款债务",
+      "onboard_time": 1660901432,
+      "rank": 21,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3053580,
@@ -75,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2173054,
+      "num": 2173054,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2118845,
       "num": 673971,
       "word": "劳荣枝二审态度强硬不配合",
@@ -121,14 +137,6 @@
       "onboard_time": 1660872329,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1766905,
-      "num": 1766905,
-      "word": "杨戬",
-      "onboard_time": 1660898491,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 1664486,
@@ -283,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1020293,
+      "num": 530500,
+      "word": "金瀚回应古装丑男",
+      "onboard_time": 1660903409,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1018692,
       "num": 1018692,
       "word": "刘亦菲ELLE金九封面",
@@ -321,6 +337,14 @@
       "onboard_time": 1660884697,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 845268,
+      "num": 845268,
+      "word": "中方奉劝美方不要误判",
+      "onboard_time": 1660900591,
+      "rank": 40,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 843572,
@@ -483,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692158,
+      "num": 692158,
+      "word": "吃饭遇邻桌当面给宝宝换带便尿布",
+      "onboard_time": 1660900351,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690300,
       "num": 512127,
       "word": "BLACKPINK空降",
@@ -523,6 +555,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 644822,
+      "num": 644822,
+      "word": "刘恺威唱将爱",
+      "onboard_time": 1660900230,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 641252,
+      "num": 558566,
+      "word": "潘玮柏个人喜爱度第二",
+      "onboard_time": 1660901250,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637024,
       "num": 426415,
       "word": "杨紫首家文化传媒公司成立",
@@ -553,6 +601,14 @@
       "onboard_time": 1660880190,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620955,
+      "num": 508211,
+      "word": "里根号航母已返回日本横须贺母港",
+      "onboard_time": 1660902510,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 615349,
@@ -603,20 +659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573756,
-      "num": 573756,
-      "word": "刘恺威唱将爱",
-      "onboard_time": 1660900230,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565854,
       "num": 546290,
       "word": "吴磊模仿嫋嫋吃饼",
       "onboard_time": 1660836455,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 565265,
+      "num": 565265,
+      "word": "55岁大叔模拟考科三被扣1000多分",
+      "onboard_time": 1660899752,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563680,
@@ -707,20 +763,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 506577,
-      "num": 506577,
-      "word": "55岁大叔模拟考科三被扣1000多分",
-      "onboard_time": 1660899752,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503961,
       "num": 503961,
       "word": "你会考虑去工厂工作吗",
       "onboard_time": 1660895673,
       "rank": 17,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 497408,
+      "num": 497408,
+      "word": "少女时代FOREVER1初舞台",
+      "onboard_time": 1660903590,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 491371,
@@ -755,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480595,
+      "num": 480595,
+      "word": "吴尊友回应头发3年全白",
+      "onboard_time": 1660900767,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478362,
       "num": 253754,
       "word": "披荆斩棘第二季开播",
@@ -769,6 +833,14 @@
       "onboard_time": 1660886072,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 461464,
+      "num": 377625,
+      "word": "赵露思月升沧海自白",
+      "onboard_time": 1660901668,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 456781,
@@ -899,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402135,
-      "num": 402135,
-      "word": "中方奉劝美方不要误判",
-      "onboard_time": 1660900591,
-      "rank": 40,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 401751,
       "num": 215164,
       "word": "家务男人均八百个心眼子",
@@ -920,14 +984,6 @@
       "word": "2岁男孩帮店外躲雨工人搬椅子",
       "onboard_time": 1660890150,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396692,
-      "num": 396692,
-      "word": "吃饭遇邻桌当面给宝宝换带便尿布",
-      "onboard_time": 1660900351,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -971,19 +1027,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378857,
+      "num": 378857,
+      "word": "北京银行提醒个人医保存折客户",
+      "onboard_time": 1660902327,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 377662,
       "num": 305315,
       "word": "孟超真名叫张清冬",
       "onboard_time": 1660882772,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 377625,
-      "num": 377625,
-      "word": "赵露思月升沧海自白",
-      "onboard_time": 1660901668,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -1009,6 +1065,22 @@
       "onboard_time": 1660877128,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372070,
+      "num": 287662,
+      "word": "专家说热恋激发男生保护欲",
+      "onboard_time": 1660903772,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 365630,
+      "num": 365630,
+      "word": "WBG对战LNG",
+      "onboard_time": 1660898434,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 365383,
@@ -1051,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359777,
+      "num": 232218,
+      "word": "时代少年团时代夏令营6",
+      "onboard_time": 1660903710,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359035,
       "num": 284248,
       "word": "独行月球密钥延期",
@@ -1081,14 +1161,6 @@
       "onboard_time": 1660886495,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351313,
-      "num": 351313,
-      "word": "中国宣布免除非洲17国23笔无息贷款债务",
-      "onboard_time": 1660901432,
-      "rank": 21,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 350968,
@@ -1347,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287009,
+      "num": 231156,
+      "word": "流浪地球2沧海一粟版海报",
+      "onboard_time": 1660904250,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286965,
       "num": 164971,
       "word": "蔡徐坤新歌hugme巨幕舞台",
@@ -1499,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245332,
+      "num": 152993,
+      "word": "闻香榭",
+      "onboard_time": 1660902809,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243196,
       "num": 243196,
       "word": "麓山之歌定档",
@@ -1547,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238161,
-      "num": 187694,
-      "word": "潘玮柏个人喜爱度第二",
-      "onboard_time": 1660901250,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237298,
       "num": 237298,
       "word": "饿了么上海",
@@ -1595,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216379,
+      "num": 216379,
+      "word": "孩子不想上学有错吗",
+      "onboard_time": 1660902389,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 214632,
       "num": 214632,
       "word": "重庆西站疫情防控",
@@ -1633,14 +1721,6 @@
       "onboard_time": 1660842860,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204413,
-      "num": 204413,
-      "word": "WBG对战LNG",
-      "onboard_time": 1660898434,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 203921,
@@ -1763,14 +1843,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 160667,
-      "num": 160667,
-      "word": "吴尊友回应头发3年全白",
-      "onboard_time": 1660900767,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160462,
       "num": 160462,
       "word": "劳荣枝否认故意杀人",
@@ -1803,12 +1875,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150952,
+      "num": 150952,
+      "word": "四六级成绩8月底公布",
+      "onboard_time": 1660904728,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 146233,
       "num": 146233,
       "word": "熬夜久了都有哪些小毛病",
       "onboard_time": 1660822171,
       "rank": 39,
       "category": "其它"
+    },
+    {
+      "raw_hot": 145357,
+      "num": 145357,
+      "word": "吴孟超日记把开刀位置记得清清楚楚",
+      "onboard_time": 1660902992,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144124,
