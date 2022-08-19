@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660933803313,
+  "endTime": 1660934886437,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -12579,6 +12579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108124,
+      "num": 81353,
+      "word": "只有袁慎受伤的世界达成了",
+      "onboard_time": 1660933394,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107935,
       "num": 107935,
       "word": "小兰花清醒",
@@ -12729,14 +12737,6 @@
       "onboard_time": 1660855631,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80786,
-      "num": 63472,
-      "word": "只有袁慎受伤的世界达成了",
-      "onboard_time": 1660933394,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 79457,
