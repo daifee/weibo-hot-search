@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660928279256,
+  "endTime": 1660930100120,
   "band_list": [
     {
       "raw_hot": 2286920,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 832485,
+      "num": 323267,
+      "word": "杭州一女子为买车砍伤母亲砍死小叔",
+      "onboard_time": 1660926145,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 782316,
       "num": 782316,
       "word": "辣椒酱爆炸似案发现场照片吓坏男友",
@@ -35,16 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 693809,
-      "num": 323267,
-      "word": "杭州一女子为买车砍伤母亲砍死小叔",
-      "onboard_time": 1660926145,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 657035,
-      "num": 657035,
+      "raw_hot": 694928,
+      "num": 694928,
       "word": "家里除了蛋糕没一个是真的",
       "onboard_time": 1660925128,
       "rank": 14,
@@ -97,6 +97,14 @@
       "onboard_time": 1660920693,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458459,
+      "num": 458459,
+      "word": "重庆两姐妹江边耍水被冲走",
+      "onboard_time": 1660927703,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452768,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 330711,
-      "num": 144060,
+      "num": 212200,
       "word": "月升沧海大结局观后感",
       "onboard_time": 1660909950,
       "rank": 30,
@@ -227,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209197,
+      "num": 209197,
+      "word": "90后男生写PPT教甲方做人",
+      "onboard_time": 1660928962,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205251,
       "num": 205251,
       "word": "西安4天新增54例阳性感染者",
@@ -265,6 +281,14 @@
       "onboard_time": 1660920332,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 165969,
+      "num": 80133,
+      "word": "社恐症是影帝标配吧",
+      "onboard_time": 1660929680,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 155295,
@@ -307,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115401,
+      "num": 62205,
+      "word": "ELLE称刘亦菲本人非常敬业",
+      "onboard_time": 1660909349,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114931,
       "num": 114931,
       "word": "2小孩花同伴捡的50元被爸爸罚跪",
@@ -337,14 +369,6 @@
       "onboard_time": 1660916731,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105627,
-      "num": 105627,
-      "word": "重庆两姐妹江边耍水被冲走",
-      "onboard_time": 1660927703,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105112,
@@ -409,6 +433,14 @@
       "onboard_time": 1660918291,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70417,
+      "num": 70417,
+      "word": "全国高温四大榜单出炉",
+      "onboard_time": 1660928362,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61154,
