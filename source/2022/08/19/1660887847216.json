@@ -1,0 +1,410 @@
+{
+  "runTime": 1660887847216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2411405,
+        "num": 2411405,
+        "word": "真的建议高铁出个带孩子车厢",
+        "onboard_time": 1660848313,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2019401,
+        "num": 2019401,
+        "word": "四六级",
+        "onboard_time": 1660882352,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41948,
+        "num": 1783385,
+        "word": "中国这十年",
+        "onboard_time": 1660815270,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664486,
+        "num": 1664486,
+        "word": "Lisa和Jennie双rap",
+        "onboard_time": 1660887211,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1267566,
+        "num": 1267566,
+        "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
+        "onboard_time": 1660884513,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158996,
+        "num": 1158996,
+        "word": "赵丽颖龚俊voguefilm合体封面",
+        "onboard_time": 1660883854,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1151628,
+        "num": 1151628,
+        "word": "江南 龙族",
+        "onboard_time": 1660883013,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1034350,
+        "num": 1034350,
+        "word": "jisoo回归造型",
+        "onboard_time": 1660884994,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 761133,
+        "num": 761133,
+        "word": "特朗普集团前高管承认逃税",
+        "onboard_time": 1660885591,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 724633,
+        "num": 724633,
+        "word": "清朗行动清理违法不良账号近14亿个",
+        "onboard_time": 1660883614,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2116458,
+        "num": 709578,
+        "word": "难听",
+        "onboard_time": 1660883554,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1603532,
+        "num": 682595,
+        "word": "劳荣枝否认和法子英是情侣",
+        "onboard_time": 1660885652,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214205,
+        "num": 673971,
+        "word": "劳荣枝二审态度强硬不配合",
+        "onboard_time": 1660880131,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832325,
+        "num": 646058,
+        "word": "YG",
+        "onboard_time": 1660884573,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 769600,
+        "num": 638147,
+        "word": "BLACKPINK新曲PinkVenom",
+        "onboard_time": 1660887035,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 618211,
+        "num": 618211,
+        "word": "男子与全职太太离婚被判补偿15万",
+        "onboard_time": 1660872329,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475658,
+        "num": 475658,
+        "word": "杭州奥克斯17岁男孩意外坠楼",
+        "onboard_time": 1660877970,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 425048,
+        "num": 425048,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1660886072,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 420194,
+        "num": 420194,
+        "word": "供应链称iPhone14系列已量产",
+        "onboard_time": 1660881693,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 357115,
+        "num": 357115,
+        "word": "劳荣枝称自己从未整容是个傻白甜",
+        "onboard_time": 1660887035,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674756,
+        "num": 356628,
+        "word": "金智秀造型",
+        "onboard_time": 1660884697,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 650412,
+        "num": 354186,
+        "word": "吴磊演技",
+        "onboard_time": 1660878327,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606027,
+        "num": 354043,
+        "word": "王源张雪迎星辰大海民国造型路透",
+        "onboard_time": 1660883497,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346872,
+        "num": 346872,
+        "word": "周五下班的理想状态",
+        "onboard_time": 1660884333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340704,
+        "num": 340704,
+        "word": "博士市长硬核亮家底喊话游子回乡",
+        "onboard_time": 1660880190,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331693,
+        "num": 331693,
+        "word": "茶颜悦色回应雇人排队代购炒作",
+        "onboard_time": 1660873526,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 316245,
+        "num": 316245,
+        "word": "哥哥脚踩弟弟胳膊喂芒果",
+        "onboard_time": 1660874609,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273985,
+        "num": 273985,
+        "word": "0.06平方公里小岛上有6吨重弹片",
+        "onboard_time": 1660886495,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269639,
+        "num": 269639,
+        "word": "华为Mate50已开始量产",
+        "onboard_time": 1660875811,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262060,
+        "num": 262060,
+        "word": "广东人最爱的菜心居然产自宁夏",
+        "onboard_time": 1660882170,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 538987,
+        "num": 261978,
+        "word": "披荆斩棘第二季初舞台歌单",
+        "onboard_time": 1660884455,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506155,
+        "num": 261951,
+        "word": "王鹤棣ELLEMEN新青年秋季刊封面",
+        "onboard_time": 1660883254,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 537582,
+        "num": 261921,
+        "word": "吴卓羲初舞台",
+        "onboard_time": 1660886435,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261794,
+        "num": 261794,
+        "word": "吃30天外卖瘦12斤",
+        "onboard_time": 1660867950,
+        "rank": 33,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 478362,
+        "num": 253754,
+        "word": "披荆斩棘第二季开播",
+        "onboard_time": 1660887095,
+        "rank": 34,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 238291,
+        "num": 238291,
+        "word": "医生的天书书法",
+        "onboard_time": 1660882710,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229312,
+        "num": 229312,
+        "word": "鲨鱼小猫",
+        "onboard_time": 1660878030,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228672,
+        "num": 228672,
+        "word": "陕西新增本土确诊52例",
+        "onboard_time": 1660884513,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227131,
+        "num": 227131,
+        "word": "熊孩子不懂礼家长不能不懂",
+        "onboard_time": 1660873889,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222248,
+        "num": 222248,
+        "word": "新疆增本土确诊病例6例",
+        "onboard_time": 1660884036,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375409,
+        "num": 218831,
+        "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
+        "onboard_time": 1660882050,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368988,
+        "num": 208849,
+        "word": "唐周死在最爱的人手里",
+        "onboard_time": 1660878509,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179115,
+        "num": 179115,
+        "word": "临沂舰夺国际军事比赛单项第一",
+        "onboard_time": 1660881392,
+        "rank": 42,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 176980,
+        "num": 176980,
+        "word": "北京明年起职工门诊待遇不设封顶线",
+        "onboard_time": 1660875990,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174306,
+        "num": 174306,
+        "word": "女子称蜜雪冰城中喝出活苍蝇乱爬",
+        "onboard_time": 1660847894,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174167,
+        "num": 174167,
+        "word": "这玩意儿竟然还会认人",
+        "onboard_time": 1660880791,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163363,
+        "num": 163363,
+        "word": "七旬医生每天坚持看50多名病人",
+        "onboard_time": 1660878809,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158457,
+        "num": 158457,
+        "word": "武警战士训练被狗狗亲了一口",
+        "onboard_time": 1660887749,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 150890,
+        "num": 158443,
+        "word": "宁波新增1例确诊曾乘这两趟航班",
+        "onboard_time": 1660879350,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513746,
+        "num": 158172,
+        "word": "刚毕业就月薪3万是啥体验",
+        "onboard_time": 1660874127,
+        "rank": 49,
+        "category": "情感,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在辽宁沈阳考察调研#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660887030981,
+  "endTime": 1660887847216,
   "band_list": [
     {
       "raw_hot": 2760444,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2554296,
-      "num": 488801,
+      "num": 709578,
       "word": "难听",
       "onboard_time": 1660883554,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2411405,
+      "num": 2411405,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 2261410,
@@ -27,16 +35,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2124093,
-      "num": 2124093,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 2118845,
-      "num": 593647,
+      "num": 673971,
       "word": "劳荣枝二审态度强硬不配合",
       "onboard_time": 1660880131,
       "rank": 10,
@@ -56,6 +56,22 @@
       "word": "男子与全职太太离婚被判补偿15万",
       "onboard_time": 1660872329,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1664486,
+      "num": 1664486,
+      "word": "Lisa和Jennie双rap",
+      "onboard_time": 1660887211,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1603532,
+      "num": 682595,
+      "word": "劳荣枝否认和法子英是情侣",
+      "onboard_time": 1660885652,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -107,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267566,
+      "num": 1267566,
+      "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
+      "onboard_time": 1660884513,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218077,
       "num": 1218077,
       "word": "江南 龙族",
       "onboard_time": 1660883013,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1206334,
-      "num": 1206334,
-      "word": "妈妈让宝宝擦车厢治好坐高铁闹腾",
-      "onboard_time": 1660884513,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1188565,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1047278,
-      "num": 485241,
+      "num": 1034350,
       "word": "jisoo回归造型",
       "onboard_time": 1660884994,
       "rank": 12,
@@ -211,14 +227,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 817291,
-      "num": 480115,
-      "word": "劳荣枝否认和法子英是情侣",
-      "onboard_time": 1660885652,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 809928,
       "num": 809928,
       "word": "警方通报四川成雅高速车祸",
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 769600,
+      "num": 638147,
+      "word": "BLACKPINK新曲PinkVenom",
+      "onboard_time": 1660887035,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 769404,
       "num": 769404,
       "word": "为什么不建议在晚上做决定",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761133,
+      "num": 761133,
+      "word": "特朗普集团前高管承认逃税",
+      "onboard_time": 1660885591,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 756640,
       "num": 577501,
       "word": "杭州奥克斯17岁男孩意外坠楼",
@@ -273,6 +297,14 @@
       "onboard_time": 1660875449,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 724633,
+      "num": 724633,
+      "word": "清朗行动清理违法不良账号近14亿个",
+      "onboard_time": 1660883614,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706083,
@@ -355,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 630949,
-      "num": 630949,
-      "word": "清朗行动清理违法不良账号近14亿个",
-      "onboard_time": 1660883614,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624295,
       "num": 624295,
       "word": "博士市长硬核亮家底喊话游子回乡",
@@ -435,6 +459,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538987,
+      "num": 261978,
+      "word": "披荆斩棘第二季初舞台歌单",
+      "onboard_time": 1660884455,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 537582,
+      "num": 261921,
+      "word": "吴卓羲初舞台",
+      "onboard_time": 1660886435,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524065,
       "num": 524065,
       "word": "好心疼梁爽",
@@ -465,14 +505,6 @@
       "onboard_time": 1660879108,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 504441,
-      "num": 253181,
-      "word": "披荆斩棘第二季初舞台歌单",
-      "onboard_time": 1660884455,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 491371,
@@ -507,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478362,
+      "num": 253754,
+      "word": "披荆斩棘第二季开播",
+      "onboard_time": 1660887095,
+      "rank": 34,
+      "category": "综艺,动漫"
+    },
+    {
       "raw_hot": 477266,
       "num": 477266,
       "word": "光与夜之恋陆沉",
       "onboard_time": 1660886072,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 468264,
-      "num": 468264,
-      "word": "特朗普集团前高管承认逃税",
-      "onboard_time": 1660885591,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 456781,
@@ -536,14 +568,6 @@
       "word": "丁真说绝不吃榴莲",
       "onboard_time": 1660875630,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 453247,
-      "num": 252512,
-      "word": "吴卓羲初舞台",
-      "onboard_time": 1660886435,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -667,20 +691,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375409,
+      "num": 298541,
+      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
+      "onboard_time": 1660882050,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375214,
       "num": 375214,
       "word": "陕西增本土确诊52例",
       "onboard_time": 1660877128,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367761,
-      "num": 298541,
-      "word": "王心凌何炅李维嘉潘玮柏吴克群合照",
-      "onboard_time": 1660882050,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 365383,
@@ -731,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357115,
+      "num": 357115,
+      "word": "劳荣枝称自己从未整容是个傻白甜",
+      "onboard_time": 1660887035,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356859,
       "num": 216209,
       "word": "这就是街舞5预告",
@@ -745,6 +777,14 @@
       "onboard_time": 1660837592,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346872,
+      "num": 346872,
+      "word": "周五下班的理想状态",
+      "onboard_time": 1660884333,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345861,
@@ -979,6 +1019,14 @@
       "category": "财经,情感"
     },
     {
+      "raw_hot": 273985,
+      "num": 273985,
+      "word": "0.06平方公里小岛上有6吨重弹片",
+      "onboard_time": 1660886495,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269129,
       "num": 145678,
       "word": "星汉灿烂",
@@ -1027,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252085,
-      "num": 252085,
-      "word": "周五下班的理想状态",
-      "onboard_time": 1660884333,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251954,
       "num": 251954,
       "word": "陕西新增本土确诊52例",
@@ -1075,6 +1115,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 238291,
+      "num": 238291,
+      "word": "医生的天书书法",
+      "onboard_time": 1660882710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232433,
       "num": 225892,
       "word": "陈哲远换发型",
@@ -1096,14 +1144,6 @@
       "word": "新疆增本土确诊病例6例",
       "onboard_time": 1660884036,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217871,
-      "num": 217871,
-      "word": "医生的天书书法",
-      "onboard_time": 1660882710,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1129,14 +1169,6 @@
       "onboard_time": 1660833037,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205428,
-      "num": 205428,
-      "word": "0.06平方公里小岛上有6吨重弹片",
-      "onboard_time": 1660886495,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205367,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1660881752,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158457,
+      "num": 158457,
+      "word": "武警战士训练被狗狗亲了一口",
+      "onboard_time": 1660887749,
+      "rank": 47,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 156224,
@@ -1380,7 +1420,7 @@
     },
     {
       "raw_hot": 45837,
-      "num": 1721655,
+      "num": 1783385,
       "word": "中国这十年",
       "onboard_time": 1660815270,
       "rank": 2,
