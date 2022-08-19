@@ -1,14 +1,54 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660865816961,
+  "endTime": 1660875345389,
   "band_list": [
     {
+      "raw_hot": 2013099,
+      "num": 2013099,
+      "word": "刚毕业就月薪3万是啥体验",
+      "onboard_time": 1660874127,
+      "rank": 0,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1846214,
-      "num": 451325,
+      "num": 568168,
       "word": "百度网盘",
       "onboard_time": 1660835912,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1790491,
+      "num": 616847,
+      "word": "男子与全职太太离婚被判补偿15万",
+      "onboard_time": 1660872329,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1559956,
+      "num": 1559956,
+      "word": "茶颜悦色回应雇人排队代购炒作",
+      "onboard_time": 1660873526,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1461475,
+      "num": 1461475,
+      "word": "真的建议高铁出个带孩子车厢",
+      "onboard_time": 1660848313,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1445988,
+      "num": 1445988,
+      "word": "月升沧海 BE美学",
+      "onboard_time": 1660868911,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1349748,
@@ -19,14 +59,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1125291,
-      "num": 1125291,
-      "word": "真的建议高铁出个带孩子车厢",
-      "onboard_time": 1660848313,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1098007,
       "num": 1098007,
       "word": "官方辟谣网传100名中国人存瑞士银行7.8万亿",
@@ -35,12 +67,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 988191,
+      "num": 988191,
+      "word": "吃30天外卖瘦12斤",
+      "onboard_time": 1660867950,
+      "rank": 5,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 919950,
-      "num": 339750,
+      "num": 358674,
       "word": "鹿晗长发丸子头",
       "onboard_time": 1660829071,
       "rank": 20,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 843572,
+      "num": 843572,
+      "word": "女子线上求职被骂low货",
+      "onboard_time": 1660869089,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 809928,
@@ -67,6 +115,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699055,
+      "num": 358906,
+      "word": "李现雨天撑伞背影照",
+      "onboard_time": 1660875148,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 695273,
+      "num": 695273,
+      "word": "我心中的古偶cp天花板",
+      "onboard_time": 1660853291,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 695039,
+      "num": 695039,
+      "word": "081杀凌益",
+      "onboard_time": 1660873767,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 693430,
       "num": 430872,
       "word": "任达华18岁女儿出道",
@@ -89,6 +161,14 @@
       "onboard_time": 1660838731,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 663273,
+      "num": 613589,
+      "word": "想看吴磊赵露思三搭",
+      "onboard_time": 1660874429,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 637024,
@@ -139,14 +219,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 553778,
-      "num": 553778,
-      "word": "我心中的古偶cp天花板",
-      "onboard_time": 1660853291,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 540957,
       "num": 540957,
       "word": "刘恺威披荆斩棘入营开箱vlog",
@@ -187,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446505,
+      "num": 446505,
+      "word": "苍兰诀特效",
+      "onboard_time": 1660870350,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417836,
       "num": 417836,
       "word": "重庆真的退出四大火炉城市了吗",
@@ -219,12 +299,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365383,
+      "num": 365383,
+      "word": "劳荣枝案二审继续开庭审理",
+      "onboard_time": 1660871189,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363674,
       "num": 363674,
       "word": "狗子装睡有多明显",
       "onboard_time": 1660837474,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 360528,
+      "num": 358039,
+      "word": "应渊出息了",
+      "onboard_time": 1660863920,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360175,
+      "num": 360175,
+      "word": "上海昨日新增3例本土无症状",
+      "onboard_time": 1660873048,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350113,
@@ -243,12 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343675,
-      "num": 343675,
-      "word": "应渊出息了",
-      "onboard_time": 1660863920,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 341955,
+      "num": 341955,
+      "word": "女子逛夜市遇五花肉摊位爬满虫子",
+      "onboard_time": 1660842860,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341887,
+      "num": 341887,
+      "word": "重庆涪陵北山坪山火复燃",
+      "onboard_time": 1660867349,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340040,
@@ -259,19 +371,43 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 335294,
-      "num": 335294,
-      "word": "女子逛夜市遇五花肉摊位爬满虫子",
-      "onboard_time": 1660842860,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330059,
       "num": 330059,
       "word": "青海大通山洪已致17人死亡",
       "onboard_time": 1660836334,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329835,
+      "num": 329835,
+      "word": "8月18日新增本土确诊559例",
+      "onboard_time": 1660873348,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323614,
+      "num": 323614,
+      "word": "重庆新增7例本土确诊5例无症状",
+      "onboard_time": 1660872748,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323037,
+      "num": 323037,
+      "word": "财神节",
+      "onboard_time": 1660872507,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320994,
+      "num": 320994,
+      "word": "南京疫情防控",
+      "onboard_time": 1660870828,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -291,6 +427,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 311048,
+      "num": 311048,
+      "word": "北京顺义发现1例无症状感染者",
+      "onboard_time": 1660871728,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310086,
       "num": 167346,
       "word": "赵露思九宫格拍立得",
@@ -299,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306106,
+      "num": 306106,
+      "word": "蔡徐坤新歌舞台皮裤造型",
+      "onboard_time": 1660874789,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 302438,
       "num": 166748,
       "word": "张远婚庆歌手上线",
       "onboard_time": 1660836815,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299469,
+      "num": 299469,
+      "word": "熊孩子不懂礼家长不能不懂",
+      "onboard_time": 1660873889,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293976,
+      "num": 293976,
+      "word": "哥哥脚踩弟弟胳膊喂芒果",
+      "onboard_time": 1660874609,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 290724,
@@ -323,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285458,
+      "num": 285458,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1660873827,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282718,
       "num": 164610,
       "word": "于正晒与孔雪儿合照",
       "onboard_time": 1660830635,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274724,
+      "num": 274724,
+      "word": "西藏增本土确诊15例无症状665例",
+      "onboard_time": 1660874727,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269129,
@@ -347,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267928,
+      "num": 267928,
+      "word": "河北新增无症状感染者11例",
+      "onboard_time": 1660871308,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260346,
       "num": 260346,
       "word": "医生是陪我们走完一生的人",
       "onboard_time": 1660865244,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 255723,
+      "num": 255723,
+      "word": "程少商满腔孤勇",
+      "onboard_time": 1660866985,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 248702,
@@ -369,6 +569,14 @@
       "onboard_time": 1660836455,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239980,
+      "num": 239980,
+      "word": "圣枪哥是邓紫棋最大粉头",
+      "onboard_time": 1660868071,
+      "rank": 43,
+      "category": "游戏,音乐"
     },
     {
       "raw_hot": 232433,
@@ -411,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "8月18日新增本土无症状2119例",
+      "onboard_time": 1660873467,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195175,
       "num": 195175,
       "word": "石家庄核酸",
@@ -441,6 +657,14 @@
       "onboard_time": 1660839511,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173148,
+      "num": 173148,
+      "word": "中国医师节",
+      "onboard_time": 1660866144,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168003,
@@ -604,7 +828,7 @@
     },
     {
       "raw_hot": 35730,
-      "num": 769000,
+      "num": 1506525,
       "word": "中国这十年",
       "onboard_time": 1660815270,
       "rank": 2,
@@ -633,6 +857,9 @@
     },
     {
       "word": "#2022智能视听大会#"
+    },
+    {
+      "word": "#人民领袖的人民情怀#"
     }
   ]
 }
