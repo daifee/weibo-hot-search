@@ -1,6 +1,6 @@
 {
   "startTime": 1660840827448,
-  "endTime": 1660897647202,
+  "endTime": 1660898682236,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -25,6 +25,14 @@
       "onboard_time": 1660874127,
       "rank": 0,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 2605848,
+      "num": 2605848,
+      "word": "女子厕所冲水瞬间仙气飘飘",
+      "onboard_time": 1660895911,
+      "rank": 4,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 2554296,
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2074909,
+      "num": 644072,
+      "word": "劳荣枝多次反问检方引哄笑",
+      "onboard_time": 1660893093,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1934616,
       "num": 1934616,
       "word": "江南 龙族",
       "onboard_time": 1660883013,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1925322,
-      "num": 644072,
-      "word": "劳荣枝多次反问检方引哄笑",
-      "onboard_time": 1660893093,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1914895,
@@ -147,14 +155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1507892,
-      "num": 1507892,
-      "word": "女子厕所冲水瞬间仙气飘飘",
-      "onboard_time": 1660895911,
-      "rank": 4,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 1445988,
       "num": 1445988,
       "word": "月升沧海 BE美学",
@@ -211,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1178549,
+      "num": 1178549,
+      "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
+      "onboard_time": 1660897233,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134143,
       "num": 1132619,
       "word": "吴磊演技",
@@ -259,20 +267,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 991279,
+      "num": 991279,
+      "word": "红蜻蜓全场泪崩",
+      "onboard_time": 1660891110,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 988191,
       "num": 988191,
       "word": "吃30天外卖瘦12斤",
       "onboard_time": 1660867950,
       "rank": 5,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 938349,
-      "num": 938349,
-      "word": "红蜻蜓全场泪崩",
-      "onboard_time": 1660891110,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 919950,
@@ -379,6 +387,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 752484,
+      "num": 530351,
+      "word": "选秀男爱豆持刀威胁女友被判刑",
+      "onboard_time": 1660897593,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737334,
       "num": 737334,
       "word": "95后清华学长做化学实验有多美",
@@ -481,6 +497,14 @@
       "onboard_time": 1660883497,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 652101,
+      "num": 652101,
+      "word": "海外台胞遇困难可求助中国驻外使领馆",
+      "onboard_time": 1660895014,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 637024,
@@ -603,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527425,
-      "num": 527425,
-      "word": "海外台胞遇困难可求助中国驻外使领馆",
-      "onboard_time": 1660895014,
-      "rank": 9,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 525779,
       "num": 525779,
       "word": "大连发现5名省外返连人员核酸结果异常",
@@ -665,6 +681,14 @@
       "onboard_time": 1660887749,
       "rank": 47,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 501827,
+      "num": 501827,
+      "word": "你会考虑去工厂工作吗",
+      "onboard_time": 1660895673,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 491371,
@@ -779,12 +803,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430689,
-      "num": 430689,
-      "word": "你会考虑去工厂工作吗",
-      "onboard_time": 1660895673,
-      "rank": 17,
-      "category": "社会议题"
+      "raw_hot": 425889,
+      "num": 425889,
+      "word": "吴磊谈复仇戏拍摄心得",
+      "onboard_time": 1660898253,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 422751,
@@ -1171,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307322,
+      "num": 236498,
+      "word": "披荆斩棘",
+      "onboard_time": 1660883733,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306106,
       "num": 306106,
       "word": "蔡徐坤新歌舞台皮裤造型",
@@ -1243,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284656,
+      "num": 172677,
+      "word": "周笔畅说胆子小应该都比不过彭彭吧",
+      "onboard_time": 1660898191,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282718,
       "num": 164610,
       "word": "于正晒与孔雪儿合照",
@@ -1291,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266448,
-      "num": 236498,
-      "word": "披荆斩棘",
-      "onboard_time": 1660883733,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260346,
       "num": 260346,
       "word": "医生是陪我们走完一生的人",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1660884513,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251768,
+      "num": 169649,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 248702,
@@ -1371,14 +1411,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 240341,
-      "num": 240341,
-      "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
-      "onboard_time": 1660897233,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239980,
       "num": 239980,
       "word": "圣枪哥是邓紫棋最大粉头",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1660887929,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 235602,
-      "num": 124422,
-      "word": "选秀男爱豆持刀威胁女友被判刑",
-      "onboard_time": 1660897593,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 234714,
@@ -1443,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230054,
+      "num": 230054,
+      "word": "第五人格 飞轮",
+      "onboard_time": 1660896391,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214632,
       "num": 214632,
       "word": "重庆西站疫情防控",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1660876890,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210239,
+      "num": 210239,
+      "word": "恐龙或经历两次小行星撞地球",
+      "onboard_time": 1660897172,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 208695,
@@ -1491,20 +1531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201053,
+      "num": 201053,
+      "word": "老北京的手抓羊肉",
+      "onboard_time": 1660894831,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199365,
       "num": 199365,
       "word": "8月18日新增本土无症状2119例",
       "onboard_time": 1660873467,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196855,
-      "num": 196855,
-      "word": "老北京的手抓羊肉",
-      "onboard_time": 1660894831,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 195175,
@@ -1603,12 +1643,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150352,
-      "num": 150352,
-      "word": "第五人格 飞轮",
-      "onboard_time": 1660896391,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 149075,
+      "num": 149075,
+      "word": "小偷作案后逃跑被一群人狂追",
+      "onboard_time": 1660897772,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146233,
@@ -1617,14 +1657,6 @@
       "onboard_time": 1660822171,
       "rank": 39,
       "category": "其它"
-    },
-    {
-      "raw_hot": 145144,
-      "num": 145144,
-      "word": "恐龙或经历两次小行星撞地球",
-      "onboard_time": 1660897172,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 144124,
@@ -1648,6 +1680,22 @@
       "word": "WBG获胜",
       "onboard_time": 1660833635,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133777,
+      "num": 133777,
+      "word": "WBG对战LNG",
+      "onboard_time": 1660898434,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127662,
+      "num": 127662,
+      "word": "国内游戏市场7月份收入208亿元",
+      "onboard_time": 1660898073,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -1681,6 +1729,14 @@
       "onboard_time": 1660865783,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114116,
+      "num": 114116,
+      "word": "成都为节电真的很努力",
+      "onboard_time": 1660898553,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111693,
