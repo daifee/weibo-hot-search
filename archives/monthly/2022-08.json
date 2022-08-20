@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661017036569,
+  "endTime": 1661019932427,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -23483,6 +23483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 441119,
+      "num": 441119,
+      "word": "东方青苍好会亲",
+      "onboard_time": 1661016257,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440987,
       "num": 1907086,
       "word": "110路遇119默契值瞬间拉满",
@@ -33801,14 +33809,6 @@
       "onboard_time": 1659618338,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304218,
-      "num": 227236,
-      "word": "东方青苍好会亲",
-      "onboard_time": 1661016257,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 303930,
