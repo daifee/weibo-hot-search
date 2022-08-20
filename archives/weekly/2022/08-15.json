@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661026939842,
+  "endTime": 1661027860179,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -14939,6 +14939,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 74154,
+      "num": 56405,
+      "word": "顾客换菜被拒咒店主未出生孩子",
+      "onboard_time": 1661023753,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73327,
       "num": 46583,
       "word": "苍兰诀片场虞书欣安慰王鹤棣",
@@ -14969,14 +14977,6 @@
       "onboard_time": 1660668144,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65000,
-      "num": 37781,
-      "word": "顾客换菜被拒咒店主未出生孩子",
-      "onboard_time": 1661023753,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63989,
@@ -15011,6 +15011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58299,
+      "num": 58299,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 54014,
       "num": 54014,
       "word": "北京中小学校幼儿园师生在京满7天后方可返校",
@@ -15033,14 +15041,6 @@
       "onboard_time": 1661021053,
       "rank": 28,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 46849,
-      "num": 46849,
-      "word": "母女开门起静电引发煤气爆炸",
-      "onboard_time": 1661024592,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 37919,
@@ -15235,6 +15235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 14640,
+      "num": 14640,
+      "word": "Scout的沙皇",
+      "onboard_time": 1661026331,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 12921,
       "num": 537516,
       "word": "名创优品道歉",
@@ -15249,14 +15257,6 @@
       "onboard_time": 1660512131,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 11454,
-      "num": 11454,
-      "word": "Scout的沙皇",
-      "onboard_time": 1661026331,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 10481,
