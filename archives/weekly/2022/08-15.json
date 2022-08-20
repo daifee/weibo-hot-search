@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661000322305,
+  "endTime": 1661002247919,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -64,6 +64,14 @@
       "word": "百度网盘",
       "onboard_time": 1660835912,
       "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 4465815,
+      "num": 4465815,
+      "word": "苹果曝出严重安全漏洞",
+      "onboard_time": 1660998870,
+      "rank": 47,
       "category": "科技"
     },
     {
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 3152268,
-      "num": 1560457,
+      "num": 1776622,
       "word": "小说男主有了脸",
       "onboard_time": 1660993409,
       "rank": 21,
@@ -273,6 +281,14 @@
       "onboard_time": 1660559193,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2923863,
+      "num": 2923863,
+      "word": "王鹤棣学凌不疑抱",
+      "onboard_time": 1661001030,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2883607,
@@ -1723,14 +1739,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1261400,
-      "num": 693701,
-      "word": "苹果曝出严重安全漏洞",
-      "onboard_time": 1660998870,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1259754,
       "num": 1259754,
       "word": "茶百道与垫底辣孩合作评论区翻车",
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189815,
+      "num": 1189815,
+      "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+      "onboard_time": 1660997305,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188565,
       "num": 1188565,
       "word": "Jennie rap",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1660656091,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1153235,
+      "num": 1153235,
+      "word": "原来教师资格证还能这样用",
+      "onboard_time": 1660996409,
+      "rank": 12,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 1153018,
@@ -2233,14 +2257,6 @@
       "onboard_time": 1660820493,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1086411,
-      "num": 1086411,
-      "word": "原来教师资格证还能这样用",
-      "onboard_time": 1660996409,
-      "rank": 12,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 1083507,
@@ -2537,6 +2553,14 @@
       "onboard_time": 1660716331,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010143,
+      "num": 1010143,
+      "word": "虞书欣兰花姐觉醒",
+      "onboard_time": 1661000131,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 1005801,
@@ -3851,20 +3875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710816,
+      "num": 710816,
+      "word": "东方青苍大婚告白小兰花",
+      "onboard_time": 1660996409,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 710770,
       "num": 330359,
       "word": "张真源腹肌",
       "onboard_time": 1660572632,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 709722,
-      "num": 709722,
-      "word": "婆婆给媳妇做月子餐5菜1汤不重样",
-      "onboard_time": 1660997305,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 708767,
@@ -4147,12 +4171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 680291,
+      "num": 680291,
+      "word": "阿姨脖长肿块未在意2年发展成癌",
+      "onboard_time": 1660997788,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678965,
       "num": 678965,
       "word": "小狗两个月的变化有多大",
       "onboard_time": 1660919192,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 678241,
+      "num": 678241,
+      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+      "onboard_time": 1660998206,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677635,
@@ -4312,14 +4352,6 @@
       "word": "朱喆拒绝为结婚降低生活质量",
       "onboard_time": 1660742854,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 651607,
-      "num": 651607,
-      "word": "东方青苍大婚告白小兰花",
-      "onboard_time": 1660996409,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -5883,6 +5915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504454,
+      "num": 504454,
+      "word": "山西多地发生输入性疫情",
+      "onboard_time": 1660998447,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503961,
       "num": 503961,
       "word": "你会考虑去工厂工作吗",
@@ -6401,14 +6441,6 @@
       "onboard_time": 1660731630,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 470936,
-      "num": 470936,
-      "word": "阿姨脖长肿块未在意2年发展成癌",
-      "onboard_time": 1660997788,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470857,
@@ -7195,6 +7227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425177,
+      "num": 360950,
+      "word": "SMTOWN罗渽民银发",
+      "onboard_time": 1661001092,
+      "rank": 20,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 423294,
       "num": 373364,
       "word": "最让你惊艳的女明星红毯造型",
@@ -7345,6 +7385,14 @@
       "onboard_time": 1660725454,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 414037,
+      "num": 349904,
+      "word": "rookies舞台首秀",
+      "onboard_time": 1661000250,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 412872,
@@ -7969,14 +8017,6 @@
       "onboard_time": 1660810651,
       "rank": 46,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 382059,
-      "num": 382059,
-      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
-      "onboard_time": 1660998206,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381850,
@@ -8731,6 +8771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354442,
+      "num": 219493,
+      "word": "开麦",
+      "onboard_time": 1661002170,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354363,
       "num": 354363,
       "word": "成都为节电真的很努力",
@@ -8899,6 +8947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349307,
+      "num": 217994,
+      "word": "小兰花开大",
+      "onboard_time": 1661000791,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348737,
       "num": 348737,
       "word": "北京新增本土感染者4例",
@@ -8961,14 +9017,6 @@
       "onboard_time": 1660858812,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345496,
-      "num": 199260,
-      "word": "虞书欣兰花姐觉醒",
-      "onboard_time": 1661000131,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 345036,
@@ -9123,12 +9171,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 340932,
-      "num": 340932,
-      "word": "山西多地发生输入性疫情",
-      "onboard_time": 1660998447,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 340596,
+      "num": 216040,
+      "word": "smtown家族演唱会EXO同台",
+      "onboard_time": 1661002170,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 340468,
@@ -9217,6 +9265,14 @@
       "onboard_time": 1660951340,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336899,
+      "num": 215582,
+      "word": "徐海乔对郭晓婷说师傅今晚你大婚我也来了",
+      "onboard_time": 1660995386,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 336767,
@@ -10323,6 +10379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295835,
+      "num": 295835,
+      "word": "EDG晋级下一轮",
+      "onboard_time": 1661001869,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295809,
       "num": 183816,
       "word": "论叶蓁蓁对油条有多执着",
@@ -10793,6 +10857,14 @@
       "onboard_time": 1660646912,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279042,
+      "num": 279042,
+      "word": "黑龙江大庆发现3例阳性感染者",
+      "onboard_time": 1661001689,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278819,
@@ -12179,6 +12251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229465,
+      "num": 229465,
+      "word": "正确坐姿改善乌龟颈",
+      "onboard_time": 1660996587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228962,
       "num": 228962,
       "word": "西藏增本土确诊26例无症状629例",
@@ -12305,6 +12385,14 @@
       "onboard_time": 1660481973,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221993,
+      "num": 221993,
+      "word": "重庆沙坪坝划定疫情风险区域",
+      "onboard_time": 1661000490,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220748,
@@ -12513,6 +12601,14 @@
       "onboard_time": 1660572153,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 214232,
+      "num": 214232,
+      "word": "天再热重庆人也要吃火锅",
+      "onboard_time": 1661000309,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213886,
@@ -12923,14 +13019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198152,
-      "num": 198152,
-      "word": "正确坐姿改善乌龟颈",
-      "onboard_time": 1660996587,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197690,
       "num": 152617,
       "word": "沈腾 偷轮胎",
@@ -13057,6 +13145,14 @@
       "onboard_time": 1660638213,
       "rank": 42,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 189980,
+      "num": 189980,
+      "word": "女子耳钉塞被晒化求助消防员",
+      "onboard_time": 1661001272,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189563,
@@ -13963,6 +14059,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 142908,
+      "num": 2106921,
+      "word": "我国后续将建造国际月球科研站",
+      "onboard_time": 1660997904,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141571,
       "num": 141571,
       "word": "两个动作缓解膝盖不适",
@@ -14041,14 +14145,6 @@
       "onboard_time": 1660755082,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133448,
-      "num": 1567039,
-      "word": "我国后续将建造国际月球科研站",
-      "onboard_time": 1660997904,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133178,
@@ -14393,14 +14489,6 @@
       "onboard_time": 1660579825,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92804,
-      "num": 110877,
-      "word": "天再热重庆人也要吃火锅",
-      "onboard_time": 1661000309,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92528,
