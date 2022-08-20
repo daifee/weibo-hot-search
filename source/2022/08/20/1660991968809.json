@@ -1,0 +1,410 @@
+{
+  "runTime": 1660991968809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2038095,
+        "num": 2038095,
+        "word": "新东方向所有离开老师发出职位邀请",
+        "onboard_time": 1660984649,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541230,
+        "num": 1541230,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23883,
+        "num": 1385252,
+        "word": "空间站视角看地球转动好治愈",
+        "onboard_time": 1660957705,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268111,
+        "num": 1268111,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218381,
+        "num": 1218381,
+        "word": "老人走失3天被找到时口袋塞满钱",
+        "onboard_time": 1660987767,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1018738,
+        "num": 1018738,
+        "word": "灵隐寺暂停请购十八籽佛珠手串",
+        "onboard_time": 1660989569,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977325,
+        "num": 977325,
+        "word": "苍兰诀导演",
+        "onboard_time": 1660988248,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 955162,
+        "num": 955162,
+        "word": "玉骨遥方辟谣定档0821",
+        "onboard_time": 1660990108,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874833,
+        "num": 874833,
+        "word": "专家称取消公摊面积不可行",
+        "onboard_time": 1660980567,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805099,
+        "num": 805099,
+        "word": "钟南山称目前没有药能预防新冠",
+        "onboard_time": 1660978704,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625889,
+        "num": 625889,
+        "word": "妈妈独自过马路3岁女儿被卷车底",
+        "onboard_time": 1660984166,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 624236,
+        "num": 624236,
+        "word": "苍兰诀集体婚礼",
+        "onboard_time": 1660988125,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 616050,
+        "num": 616050,
+        "word": "RNG对战EDG",
+        "onboard_time": 1660988487,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593162,
+        "num": 593162,
+        "word": "上海暴雨",
+        "onboard_time": 1660989327,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585699,
+        "num": 585699,
+        "word": "他们偷走了我人生中第一个朋友",
+        "onboard_time": 1660986447,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501448,
+        "num": 501448,
+        "word": "苍兰诀 真的很高明",
+        "onboard_time": 1660984048,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486168,
+        "num": 486168,
+        "word": "这才是冰粉届的颜值天花板",
+        "onboard_time": 1660990048,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 402147,
+        "num": 402147,
+        "word": "俄黑海舰队司令部遭到无人机攻击",
+        "onboard_time": 1660988007,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 363122,
+        "num": 363122,
+        "word": "男孩地铁小便吵闹母亲无视",
+        "onboard_time": 1660988788,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359658,
+        "num": 359658,
+        "word": "郭晓婷问今晚你们想坐哪桌",
+        "onboard_time": 1660982788,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352655,
+        "num": 352655,
+        "word": "男子哭诉当7年上门女婿经历",
+        "onboard_time": 1660975047,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337338,
+        "num": 337338,
+        "word": "任嘉伦再次体验自制剧",
+        "onboard_time": 1660991368,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331261,
+        "num": 331261,
+        "word": "杨戬",
+        "onboard_time": 1660978165,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292338,
+        "num": 292338,
+        "word": "谢谢你爱情保安刘宇宁",
+        "onboard_time": 1660988969,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289121,
+        "num": 289121,
+        "word": "和喜欢的人错过什么体验",
+        "onboard_time": 1660987407,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285833,
+        "num": 285833,
+        "word": "广州一高校4男生扛塔答谢室友",
+        "onboard_time": 1660988068,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 285292,
+        "num": 285292,
+        "word": "Viper",
+        "onboard_time": 1660990706,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191090,
+        "num": 191090,
+        "word": "重庆涪陵区南川区山火明火已全部扑灭",
+        "onboard_time": 1660990586,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180948,
+        "num": 180948,
+        "word": "美国一大学生炒股1个月赚7亿",
+        "onboard_time": 1660991545,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173735,
+        "num": 173735,
+        "word": "乐山大佛三江汇流处水位极低",
+        "onboard_time": 1660985488,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 284867,
+        "num": 173731,
+        "word": "吴世勋因未能参加smtown向粉丝道歉",
+        "onboard_time": 1660986447,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268183,
+        "num": 173656,
+        "word": "断桥票房破2亿",
+        "onboard_time": 1660989389,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263791,
+        "num": 173636,
+        "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
+        "onboard_time": 1660990229,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243750,
+        "num": 173612,
+        "word": "金泰妍音中舞台直拍",
+        "onboard_time": 1660991125,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3194047,
+        "num": 173557,
+        "word": "女骑手怀孕6个月仍在送外卖",
+        "onboard_time": 1660987527,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173530,
+        "num": 173530,
+        "word": "男子5次偷1岁孩子存钱罐2000元",
+        "onboard_time": 1660971688,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171451,
+        "num": 171451,
+        "word": "张楠退出中国羽毛球国家队",
+        "onboard_time": 1660983450,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159029,
+        "num": 159029,
+        "word": "晚上抱什么睡觉能睡得最香",
+        "onboard_time": 1660964607,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153174,
+        "num": 153174,
+        "word": "捡到无毛猫找领养算犯法吗",
+        "onboard_time": 1660979007,
+        "rank": 38,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 137554,
+        "num": 137554,
+        "word": "没竽充数的小朋友",
+        "onboard_time": 1660990409,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220576,
+        "num": 134435,
+        "word": "南太铉方面回应吸毒传闻",
+        "onboard_time": 1660988788,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184799,
+        "num": 133084,
+        "word": "关晓彤在梁爽直播间教瘦腿操",
+        "onboard_time": 1660982068,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138181,
+        "num": 132055,
+        "word": "东方青苍开大 BGM",
+        "onboard_time": 1660991788,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131001,
+        "num": 131001,
+        "word": "美术老师花5天用8万颗钉子拼出歼20",
+        "onboard_time": 1660981228,
+        "rank": 43,
+        "category": "教育,军事"
+      },
+      {
+        "raw_hot": 130326,
+        "num": 130326,
+        "word": "毕业后你会从事本专业工作吗",
+        "onboard_time": 1660988306,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120804,
+        "num": 120804,
+        "word": "疯狂毒贩街头驾车冲撞警车",
+        "onboard_time": 1660979487,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116495,
+        "num": 116495,
+        "word": "纳粹德国舰队因河流干旱重现天日",
+        "onboard_time": 1660976787,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 113971,
+        "num": 113971,
+        "word": "重庆为啥这么热",
+        "onboard_time": 1660981828,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112912,
+        "num": 112912,
+        "word": "2022LPL",
+        "onboard_time": 1660991305,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111474,
+        "num": 111474,
+        "word": "锦州4人核酸检测结果呈阳性",
+        "onboard_time": 1660982846,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国长征系列火箭创下新纪录#"
+    }
+  }
+}

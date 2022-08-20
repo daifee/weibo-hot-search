@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660990985657,
+  "endTime": 1660991968809,
   "band_list": [
     {
       "raw_hot": 3792656,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1804380,
-      "num": 1804380,
+      "raw_hot": 2038095,
+      "num": 2038095,
       "word": "新东方向所有离开老师发出职位邀请",
       "onboard_time": 1660984649,
       "rank": 38,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218381,
+      "num": 1218381,
+      "word": "老人走失3天被找到时口袋塞满钱",
+      "onboard_time": 1660987767,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1206821,
       "num": 767189,
       "word": "司藤 小兰花",
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1018738,
+      "num": 1018738,
+      "word": "灵隐寺暂停请购十八籽佛珠手串",
+      "onboard_time": 1660989569,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003816,
       "num": 1003816,
       "word": "河南成为全国第一个40℃大满贯省份",
@@ -235,12 +251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 965163,
-      "num": 965163,
-      "word": "老人走失3天被找到时口袋塞满钱",
-      "onboard_time": 1660987767,
-      "rank": 39,
-      "category": "社会正能量"
+      "raw_hot": 977325,
+      "num": 977325,
+      "word": "苍兰诀导演",
+      "onboard_time": 1660988248,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 955470,
@@ -251,19 +267,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955162,
+      "num": 955162,
+      "word": "玉骨遥方辟谣定档0821",
+      "onboard_time": 1660990108,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 952928,
       "num": 952928,
       "word": "苍兰诀 真的很高明",
       "onboard_time": 1660984048,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 949016,
-      "num": 949016,
-      "word": "苍兰诀导演",
-      "onboard_time": 1660988248,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -321,14 +337,6 @@
       "onboard_time": 1660957046,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854490,
-      "num": 854490,
-      "word": "玉骨遥方辟谣定档0821",
-      "onboard_time": 1660990108,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 842861,
@@ -451,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624236,
+      "num": 624236,
+      "word": "苍兰诀集体婚礼",
+      "onboard_time": 1660988125,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 623413,
       "num": 623413,
       "word": "杨洋请我的人间烟火剧组人员吃烧烤",
       "onboard_time": 1660965387,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616050,
+      "num": 616050,
+      "word": "RNG对战EDG",
+      "onboard_time": 1660988487,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 605186,
@@ -467,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593162,
+      "num": 593162,
+      "word": "上海暴雨",
+      "onboard_time": 1660989327,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586539,
       "num": 586539,
       "word": "四六级",
       "onboard_time": 1660961788,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 585699,
+      "num": 585699,
+      "word": "他们偷走了我人生中第一个朋友",
+      "onboard_time": 1660986447,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 582016,
@@ -505,22 +545,6 @@
       "onboard_time": 1660959749,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 563424,
-      "num": 554152,
-      "word": "苍兰诀集体婚礼",
-      "onboard_time": 1660988125,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 558287,
-      "num": 558287,
-      "word": "他们偷走了我人生中第一个朋友",
-      "onboard_time": 1660986447,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 553260,
@@ -561,14 +585,6 @@
       "onboard_time": 1660979007,
       "rank": 19,
       "category": "情感,社会议题"
-    },
-    {
-      "raw_hot": 524557,
-      "num": 524557,
-      "word": "上海暴雨",
-      "onboard_time": 1660989327,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522133,
@@ -635,20 +651,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486168,
+      "num": 486168,
+      "word": "这才是冰粉届的颜值天花板",
+      "onboard_time": 1660990048,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 486059,
       "num": 478685,
       "word": "张楠退出中国羽毛球国家队",
       "onboard_time": 1660983450,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476521,
-      "num": 476521,
-      "word": "RNG对战EDG",
-      "onboard_time": 1660988487,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 460607,
@@ -723,14 +739,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 427708,
-      "num": 427708,
-      "word": "灵隐寺暂停请购十八籽佛珠手串",
-      "onboard_time": 1660989569,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421994,
       "num": 375346,
       "word": "苍兰诀吻戏花絮",
@@ -745,6 +753,14 @@
       "onboard_time": 1660955968,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 402147,
+      "num": 402147,
+      "word": "俄黑海舰队司令部遭到无人机攻击",
+      "onboard_time": 1660988007,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 396439,
@@ -795,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381347,
-      "num": 381347,
-      "word": "俄黑海舰队司令部遭到无人机攻击",
-      "onboard_time": 1660988007,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 378385,
       "num": 378385,
       "word": "小狗两个月的变化有多大",
@@ -849,6 +857,14 @@
       "onboard_time": 1660917632,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363122,
+      "num": 363122,
+      "word": "男孩地铁小便吵闹母亲无视",
+      "onboard_time": 1660988788,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361085,
@@ -939,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337338,
+      "num": 337338,
+      "word": "任嘉伦再次体验自制剧",
+      "onboard_time": 1660991368,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337076,
       "num": 337076,
       "word": "外卖小哥接催单电话不慎摔倒崩溃",
       "onboard_time": 1660951340,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331261,
+      "num": 331261,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 331209,
@@ -987,28 +1019,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 323396,
-      "num": 323396,
-      "word": "这才是冰粉届的颜值天花板",
-      "onboard_time": 1660990048,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 320765,
       "num": 320765,
       "word": "和喜欢的人错过什么体验",
       "onboard_time": 1660987407,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 319773,
-      "num": 211674,
-      "word": "杨戬",
-      "onboard_time": 1660898491,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 307497,
@@ -1049,14 +1065,6 @@
       "onboard_time": 1660976608,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297584,
-      "num": 297584,
-      "word": "男孩地铁小便吵闹母亲无视",
-      "onboard_time": 1660988788,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297482,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1660985488,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 285292,
+      "num": 285292,
+      "word": "Viper",
+      "onboard_time": 1660990706,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 284351,
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263791,
+      "num": 189418,
+      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
+      "onboard_time": 1660990229,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263330,
       "num": 263330,
       "word": "8月19日新增本土确诊578例",
@@ -1232,6 +1256,14 @@
       "word": "苏有朋说小虎队永远都是我的最初",
       "onboard_time": 1660910129,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243750,
+      "num": 173612,
+      "word": "金泰妍音中舞台直拍",
+      "onboard_time": 1660991125,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1321,14 +1353,6 @@
       "onboard_time": 1660933394,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218810,
-      "num": 189418,
-      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
-      "onboard_time": 1660990229,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 218784,
@@ -1435,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191090,
+      "num": 191090,
+      "word": "重庆涪陵区南川区山火明火已全部扑灭",
+      "onboard_time": 1660990586,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190263,
       "num": 190263,
       "word": "小黄猫发现火情又蹦又跳叫醒主人",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1660951578,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180948,
+      "num": 180948,
+      "word": "美国一大学生炒股1个月赚7亿",
+      "onboard_time": 1660991545,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 180805,
@@ -1627,14 +1667,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 143660,
-      "num": 143660,
-      "word": "重庆涪陵区南川区山火明火已全部扑灭",
-      "onboard_time": 1660990586,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143231,
       "num": 143231,
       "word": "8月19日新增确诊病例639例",
@@ -1651,12 +1683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138181,
+      "num": 132055,
+      "word": "东方青苍开大 BGM",
+      "onboard_time": 1660991788,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137609,
       "num": 105712,
       "word": "新裤子演唱会",
       "onboard_time": 1660987167,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137554,
+      "num": 137554,
+      "word": "没竽充数的小朋友",
+      "onboard_time": 1660990409,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 132118,
@@ -1681,14 +1729,6 @@
       "onboard_time": 1660973787,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129969,
-      "num": 129969,
-      "word": "Viper",
-      "onboard_time": 1660990706,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 128450,
@@ -1763,12 +1803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113083,
-      "num": 113083,
-      "word": "没竽充数的小朋友",
-      "onboard_time": 1660990409,
+      "raw_hot": 112912,
+      "num": 112912,
+      "word": "2022LPL",
+      "onboard_time": 1660991305,
       "rank": 48,
-      "category": "幽默"
+      "category": "游戏"
     },
     {
       "raw_hot": 112712,
