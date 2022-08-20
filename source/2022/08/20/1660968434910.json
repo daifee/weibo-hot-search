@@ -1,0 +1,410 @@
+{
+  "runTime": 1660968434910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2797534,
+        "num": 2797534,
+        "word": "阳光玫瑰葡萄价格跳水",
+        "onboard_time": 1660959685,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2576109,
+        "num": 2576109,
+        "word": "90后姑娘失业后每天假装上班",
+        "onboard_time": 1660963229,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 148549,
+        "num": 1886768,
+        "word": "空间站视角看地球转动好治愈",
+        "onboard_time": 1660957705,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411747,
+        "num": 1411747,
+        "word": "大学生点海底捞外卖被炸伤眼睛",
+        "onboard_time": 1660955067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023666,
+        "num": 1023666,
+        "word": "东方青苍小兰花今日大婚",
+        "onboard_time": 1660965986,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1002481,
+        "num": 1002481,
+        "word": "晚上抱什么睡觉能睡得最香",
+        "onboard_time": 1660964607,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 988531,
+        "num": 988531,
+        "word": "特朗普暗示将对FBI搜查作出回应",
+        "onboard_time": 1660962508,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 896956,
+        "num": 896956,
+        "word": "67岁保姆闪婚获赠房产后换锁失联",
+        "onboard_time": 1660961609,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772927,
+        "num": 772927,
+        "word": "媳妇和妈妈起矛盾男子崩溃要轻生",
+        "onboard_time": 1660962388,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766388,
+        "num": 766388,
+        "word": "苏有朋女孩",
+        "onboard_time": 1660955968,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886223,
+        "num": 759397,
+        "word": "李秀满也出小卡了",
+        "onboard_time": 1660965207,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636188,
+        "num": 636188,
+        "word": "吴磊40秒镜头情绪切换",
+        "onboard_time": 1660967006,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588386,
+        "num": 588386,
+        "word": "司藤 小兰花",
+        "onboard_time": 1660954583,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534973,
+        "num": 534973,
+        "word": "久哲发文",
+        "onboard_time": 1660965506,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527682,
+        "num": 527682,
+        "word": "只有南方人才吃过的糖",
+        "onboard_time": 1660958968,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 522230,
+        "num": 522230,
+        "word": "杨洋请我的人间烟火剧组人员吃烧烤",
+        "onboard_time": 1660965387,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388738,
+        "num": 388738,
+        "word": "李兰娟",
+        "onboard_time": 1660960766,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365911,
+        "num": 365911,
+        "word": "黑神话",
+        "onboard_time": 1660958246,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362296,
+        "num": 362296,
+        "word": "杭州一女子为买车砍伤母亲砍死小叔",
+        "onboard_time": 1660926145,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 342502,
+        "num": 342502,
+        "word": "英伟达",
+        "onboard_time": 1660964188,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 472696,
+        "num": 338664,
+        "word": "郑钧戴的刘芸的发箍",
+        "onboard_time": 1660966767,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427093,
+        "num": 334575,
+        "word": "王一博刘雨昕韩庚李承铉街舞5作品战海报",
+        "onboard_time": 1660966408,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426756,
+        "num": 334173,
+        "word": "王鹤棣发带豹纹造型",
+        "onboard_time": 1660965448,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325985,
+        "num": 325985,
+        "word": "四六级",
+        "onboard_time": 1660961788,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298040,
+        "num": 298040,
+        "word": "也算是坐过牢的狗了",
+        "onboard_time": 1660963888,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292028,
+        "num": 292028,
+        "word": "高温天男子皮鞋底被烫化",
+        "onboard_time": 1660962928,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289219,
+        "num": 289219,
+        "word": "男子酒后躺河面睡觉被当成浮尸",
+        "onboard_time": 1660967548,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270060,
+        "num": 270060,
+        "word": "喝凉水真的伤胃吗",
+        "onboard_time": 1660957046,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263824,
+        "num": 263824,
+        "word": "四川永丰村水稻开镰收割",
+        "onboard_time": 1660966888,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258546,
+        "num": 258546,
+        "word": "男子在影院辱骂殴打后座观众被拘",
+        "onboard_time": 1660967428,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351671,
+        "num": 256413,
+        "word": "网传仙剑奇侠传五前传主演阵容",
+        "onboard_time": 1660960708,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349166,
+        "num": 255894,
+        "word": "披荆斩棘2观后感",
+        "onboard_time": 1660959749,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254273,
+        "num": 254273,
+        "word": "刘宇宁3秒铲飞李诞",
+        "onboard_time": 1660965387,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250503,
+        "num": 250503,
+        "word": "时代少年团演唱会合作歌单",
+        "onboard_time": 1660955968,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238328,
+        "num": 238328,
+        "word": "河南三支一扶",
+        "onboard_time": 1660967488,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204415,
+        "num": 204415,
+        "word": "超35℃高温覆盖了我国450万平方公里",
+        "onboard_time": 1660960166,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197300,
+        "num": 197300,
+        "word": "兴趣变成职业是种啥体验",
+        "onboard_time": 1660966107,
+        "rank": 36,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 195847,
+        "num": 195847,
+        "word": "深圳疫情防控",
+        "onboard_time": 1660962207,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186421,
+        "num": 186421,
+        "word": "要偷渡的假渔民被真渔民识破",
+        "onboard_time": 1660967668,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179971,
+        "num": 179971,
+        "word": "重庆新增本土确诊5例无症状13例",
+        "onboard_time": 1660968088,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211779,
+        "num": 179528,
+        "word": "文帝cp白嗑了",
+        "onboard_time": 1660955006,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190296,
+        "num": 178871,
+        "word": "Jennie朴彩英小分队",
+        "onboard_time": 1660930458,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177463,
+        "num": 177463,
+        "word": "重庆再次承包全国高温排行榜前10",
+        "onboard_time": 1660961008,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174746,
+        "num": 174746,
+        "word": "詹姆斯将出战半职业联赛",
+        "onboard_time": 1660958848,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172466,
+        "num": 172466,
+        "word": "听我说谢谢你四六级",
+        "onboard_time": 1660964969,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172318,
+        "num": 172318,
+        "word": "饿了么",
+        "onboard_time": 1660967488,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170660,
+        "num": 170660,
+        "word": "西藏增本土无症状501例",
+        "onboard_time": 1660960108,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212777,
+        "num": 167407,
+        "word": "明日方舟",
+        "onboard_time": 1660968386,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162986,
+        "num": 162986,
+        "word": "男子约好友偷酒错把信息发给民警",
+        "onboard_time": 1660953443,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152870,
+        "num": 152870,
+        "word": "全国高温四大榜单出炉",
+        "onboard_time": 1660928362,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界职业技术教育发展大会#"
+    }
+  }
+}
