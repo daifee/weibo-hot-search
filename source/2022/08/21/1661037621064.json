@@ -1,0 +1,410 @@
+{
+  "runTime": 1661037621064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 916302,
+        "num": 916302,
+        "word": "苹果曝出严重安全漏洞",
+        "onboard_time": 1660998870,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 775738,
+        "num": 775738,
+        "word": "乐山大佛真身全部露出",
+        "onboard_time": 1661006432,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 51806,
+        "num": 699554,
+        "word": "我国后续将建造国际月球科研站",
+        "onboard_time": 1660997904,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038827,
+        "num": 695106,
+        "word": "11岁女孩痛经哭闹不止查出2个子宫",
+        "onboard_time": 1661009372,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664797,
+        "num": 664797,
+        "word": "六公主认证星汉灿烂暑期爆剧",
+        "onboard_time": 1661010571,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525579,
+        "num": 525579,
+        "word": "重庆一家11口溶洞避暑9人失联",
+        "onboard_time": 1661007574,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 391805,
+        "num": 391805,
+        "word": "母女开门起静电引发煤气爆炸",
+        "onboard_time": 1661024592,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 335227,
+        "num": 335227,
+        "word": "东方青苍好会亲",
+        "onboard_time": 1661016257,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327207,
+        "num": 327207,
+        "word": "顾客换菜被拒咒店主未出生孩子",
+        "onboard_time": 1661023753,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245815,
+        "num": 245815,
+        "word": "王一博剧透央视秋晚舞台",
+        "onboard_time": 1661008953,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226584,
+        "num": 226584,
+        "word": "刘恺威不敢看镜头",
+        "onboard_time": 1661004216,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214753,
+        "num": 214753,
+        "word": "1500座阿尔卑斯冰川或半数在30年内消失",
+        "onboard_time": 1661011590,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 208892,
+        "num": 208892,
+        "word": "殷桃章若楠早起状态在演我",
+        "onboard_time": 1661030832,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182054,
+        "num": 182054,
+        "word": "女子耳钉塞被晒化求助消防员",
+        "onboard_time": 1661001272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145784,
+        "num": 145784,
+        "word": "男子睡前玩手机患睡眠障碍",
+        "onboard_time": 1661036716,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145115,
+        "num": 145115,
+        "word": "重庆四川就像贵州云南的空调外机",
+        "onboard_time": 1661013684,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137574,
+        "num": 137574,
+        "word": "玉骨遥",
+        "onboard_time": 1661005473,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137168,
+        "num": 137168,
+        "word": "山西Z22次列车落客中发现7名阳性",
+        "onboard_time": 1660996229,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135712,
+        "num": 135712,
+        "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+        "onboard_time": 1660992268,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135640,
+        "num": 135640,
+        "word": "劳荣枝案受害人家属发声",
+        "onboard_time": 1661006971,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133156,
+        "num": 133156,
+        "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+        "onboard_time": 1660997305,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132028,
+        "num": 132028,
+        "word": "任嘉伦爬墙好快",
+        "onboard_time": 1661010872,
+        "rank": 21,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 127847,
+        "num": 127847,
+        "word": "王鹤棣也在追苍兰诀",
+        "onboard_time": 1661010152,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122386,
+        "num": 122386,
+        "word": "你有睡眠拖延吗",
+        "onboard_time": 1661008832,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 109925,
+        "num": 109925,
+        "word": "刘雨昕做夹臂俯卧撑",
+        "onboard_time": 1661015241,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108763,
+        "num": 108763,
+        "word": "灵隐寺暂停请购十八籽佛珠手串",
+        "onboard_time": 1660989569,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104326,
+        "num": 104326,
+        "word": "保洁拖地摔倒骨折起诉雇主被驳回",
+        "onboard_time": 1661007933,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102830,
+        "num": 102830,
+        "word": "黑龙江大庆发现3例阳性感染者",
+        "onboard_time": 1661001689,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101354,
+        "num": 101354,
+        "word": "外交部驻港公署正告外部宵小",
+        "onboard_time": 1661021053,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95884,
+        "num": 95884,
+        "word": "阿姨脖长肿块未在意2年发展成癌",
+        "onboard_time": 1660997788,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94020,
+        "num": 94020,
+        "word": "为什么说钝感比敏感更重要",
+        "onboard_time": 1661005833,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90505,
+        "num": 90505,
+        "word": "王家卫说不识也是一种浪漫",
+        "onboard_time": 1661036234,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88785,
+        "num": 88785,
+        "word": "小说男主有了脸",
+        "onboard_time": 1660993409,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85129,
+        "num": 85129,
+        "word": "原来教师资格证还能这样用",
+        "onboard_time": 1660996409,
+        "rank": 33,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 81147,
+        "num": 81147,
+        "word": "轻生男子跳楼瞬间民警飞身抱住",
+        "onboard_time": 1661002711,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80587,
+        "num": 80587,
+        "word": "老人走失3天被找到时口袋塞满钱",
+        "onboard_time": 1660987767,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 80243,
+        "num": 80243,
+        "word": "真的很羡慕从小就幸福的人",
+        "onboard_time": 1661007513,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78974,
+        "num": 78974,
+        "word": "赵露思清唱星汉灿烂主题曲",
+        "onboard_time": 1661009312,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72412,
+        "num": 72412,
+        "word": "李赫宰跳舞",
+        "onboard_time": 1661010392,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70409,
+        "num": 70409,
+        "word": "孔庆东",
+        "onboard_time": 1661011471,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533459,
+        "num": 69735,
+        "word": "十个省会城市房价跌回3年前",
+        "onboard_time": 1661033292,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 66468,
+        "num": 66468,
+        "word": "RNG伤害",
+        "onboard_time": 1661024891,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63579,
+        "num": 63579,
+        "word": "少女时代",
+        "onboard_time": 1661002471,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58409,
+        "num": 58409,
+        "word": "张嘉文首次露脸直播",
+        "onboard_time": 1661010751,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58064,
+        "num": 58064,
+        "word": "B站引进莉可丽丝",
+        "onboard_time": 1661037016,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 57140,
+        "num": 57140,
+        "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+        "onboard_time": 1660998206,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53168,
+        "num": 53168,
+        "word": "继续发布高温红色预警",
+        "onboard_time": 1661037439,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49544,
+        "num": 49544,
+        "word": "2022年QQ飞车手游亚洲杯",
+        "onboard_time": 1661009792,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48005,
+        "num": 48005,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46698,
+        "num": 46698,
+        "word": "古人的可移动烧烤炉好精致",
+        "onboard_time": 1661037618,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国长征系列火箭创下新纪录#"
+    }
+  }
+}
