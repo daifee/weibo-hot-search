@@ -1,10 +1,10 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1661002247919,
+  "endTime": 1661002992613,
   "band_list": [
     {
-      "raw_hot": 4465815,
-      "num": 4465815,
+      "raw_hot": 5072729,
+      "num": 5072729,
       "word": "苹果曝出严重安全漏洞",
       "onboard_time": 1660998870,
       "rank": 47,
@@ -25,6 +25,14 @@
       "onboard_time": 1660987527,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3200171,
+      "num": 3200171,
+      "word": "王鹤棣学凌不疑抱",
+      "onboard_time": 1661001030,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3154372,
@@ -49,14 +57,6 @@
       "onboard_time": 1660959685,
       "rank": 1,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2923863,
-      "num": 2923863,
-      "word": "王鹤棣学凌不疑抱",
-      "onboard_time": 1661001030,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2859951,
@@ -275,6 +275,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1130724,
+      "num": 1130724,
+      "word": "虞书欣兰花姐觉醒",
+      "onboard_time": 1661000131,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1112692,
       "num": 1112692,
       "word": "东方青苍小兰花今日大婚",
@@ -307,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1010143,
-      "num": 1010143,
-      "word": "虞书欣兰花姐觉醒",
-      "onboard_time": 1661000131,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1003816,
       "num": 1003816,
       "word": "河南成为全国第一个40℃大满贯省份",
@@ -345,6 +345,14 @@
       "onboard_time": 1660988248,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 972305,
+      "num": 844236,
+      "word": "开麦",
+      "onboard_time": 1661002170,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 955470,
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 871996,
+      "num": 871996,
+      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+      "onboard_time": 1660998206,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870436,
       "num": 870436,
       "word": "喝凉水真的伤胃吗",
@@ -465,6 +481,14 @@
       "onboard_time": 1660973547,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 837969,
+      "num": 837969,
+      "word": "少女时代",
+      "onboard_time": 1661002471,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 834928,
@@ -571,28 +595,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 687336,
-      "num": 366639,
-      "word": "王鹤棣和妈妈的对话太好笑了",
-      "onboard_time": 1660978527,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 680291,
-      "num": 680291,
+      "raw_hot": 689909,
+      "num": 689909,
       "word": "阿姨脖长肿块未在意2年发展成癌",
       "onboard_time": 1660997788,
       "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678241,
-      "num": 678241,
-      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
-      "onboard_time": 1660998206,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 687336,
+      "num": 366639,
+      "word": "王鹤棣和妈妈的对话太好笑了",
+      "onboard_time": 1660978527,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 677635,
@@ -819,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494542,
+      "num": 468516,
+      "word": "smtown家族演唱会EXO同台",
+      "onboard_time": 1661002170,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 486168,
       "num": 486168,
       "word": "这才是冰粉届的颜值天花板",
@@ -841,6 +865,14 @@
       "onboard_time": 1660997609,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 469034,
+      "num": 469034,
+      "word": "女子耳钉塞被晒化求助消防员",
+      "onboard_time": 1661001272,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460607,
@@ -929,6 +961,14 @@
       "onboard_time": 1660968448,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 429635,
+      "num": 199128,
+      "word": "苍兰诀预告",
+      "onboard_time": 1661002471,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 425808,
@@ -1155,12 +1195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354442,
-      "num": 219493,
-      "word": "开麦",
-      "onboard_time": 1661002170,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 356505,
+      "num": 356505,
+      "word": "黑龙江大庆发现3例阳性感染者",
+      "onboard_time": 1661001689,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352530,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1660968927,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340596,
-      "num": 216040,
-      "word": "smtown家族演唱会EXO同台",
-      "onboard_time": 1661002170,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 339409,
@@ -1467,14 +1499,6 @@
       "category": "教育,军事"
     },
     {
-      "raw_hot": 279042,
-      "num": 279042,
-      "word": "黑龙江大庆发现3例阳性感染者",
-      "onboard_time": 1661001689,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275957,
       "num": 275957,
       "word": "重庆为啥这么热",
@@ -1659,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228047,
+      "num": 228047,
+      "word": "重庆沙坪坝划定疫情风险区域",
+      "onboard_time": 1661000490,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226699,
       "num": 226699,
       "word": "邻居冒雨帮男子抢收2千斤玉米",
@@ -1680,14 +1712,6 @@
       "word": "少年野外遇火情脱裤子装水灭火",
       "onboard_time": 1660920633,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221993,
-      "num": 221993,
-      "word": "重庆沙坪坝划定疫情风险区域",
-      "onboard_time": 1661000490,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1721,6 +1745,14 @@
       "onboard_time": 1660926263,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216943,
+      "num": 216943,
+      "word": "新疆三道海子景区下雪了",
+      "onboard_time": 1660998928,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 214232,
@@ -1795,14 +1827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200940,
-      "num": 200940,
-      "word": "新疆三道海子景区下雪了",
-      "onboard_time": 1660998928,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 196027,
       "num": 196027,
       "word": "TheShy",
@@ -1832,14 +1856,6 @@
       "word": "小黄猫发现火情又蹦又跳叫醒主人",
       "onboard_time": 1660910667,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189980,
-      "num": 189980,
-      "word": "女子耳钉塞被晒化求助消防员",
-      "onboard_time": 1661001272,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2051,19 +2067,19 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 143352,
+      "num": 2106921,
+      "word": "我国后续将建造国际月球科研站",
+      "onboard_time": 1660997904,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143231,
       "num": 143231,
       "word": "8月19日新增确诊病例639例",
       "onboard_time": 1660960587,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142908,
-      "num": 2106921,
-      "word": "我国后续将建造国际月球科研站",
-      "onboard_time": 1660997904,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2241,6 +2257,14 @@
       "onboard_time": 1660902510,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 102085,
+      "num": 118962,
+      "word": "轻生男子跳楼瞬间民警飞身抱住",
+      "onboard_time": 1661002711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98082,

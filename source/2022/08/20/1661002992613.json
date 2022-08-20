@@ -1,0 +1,410 @@
+{
+  "runTime": 1661002992613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5072729,
+        "num": 5072729,
+        "word": "苹果曝出严重安全漏洞",
+        "onboard_time": 1660998870,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3200171,
+        "num": 3200171,
+        "word": "王鹤棣学凌不疑抱",
+        "onboard_time": 1661001030,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143352,
+        "num": 1950870,
+        "word": "我国后续将建造国际月球科研站",
+        "onboard_time": 1660997904,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593631,
+        "num": 1593631,
+        "word": "小说男主有了脸",
+        "onboard_time": 1660993409,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1178787,
+        "num": 1178787,
+        "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+        "onboard_time": 1660997305,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130724,
+        "num": 1130724,
+        "word": "虞书欣兰花姐觉醒",
+        "onboard_time": 1661000131,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 946557,
+        "num": 946557,
+        "word": "原来教师资格证还能这样用",
+        "onboard_time": 1660996409,
+        "rank": 6,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 872414,
+        "num": 872414,
+        "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+        "onboard_time": 1660992268,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 871996,
+        "num": 871996,
+        "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+        "onboard_time": 1660998206,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844722,
+        "num": 844722,
+        "word": "EDG战胜RNG",
+        "onboard_time": 1660998572,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 972305,
+        "num": 844236,
+        "word": "开麦",
+        "onboard_time": 1661002170,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 837969,
+        "num": 837969,
+        "word": "少女时代",
+        "onboard_time": 1661002471,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 689909,
+        "num": 689909,
+        "word": "阿姨脖长肿块未在意2年发展成癌",
+        "onboard_time": 1660997788,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687712,
+        "num": 687712,
+        "word": "灵隐寺暂停请购十八籽佛珠手串",
+        "onboard_time": 1660989569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659367,
+        "num": 659367,
+        "word": "肖战诛仙未公开造型设计图",
+        "onboard_time": 1660994547,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 657530,
+        "num": 657530,
+        "word": "东方青苍大婚告白小兰花",
+        "onboard_time": 1660996409,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507877,
+        "num": 507877,
+        "word": "山西Z22次列车落客中发现7名阳性",
+        "onboard_time": 1660996229,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496727,
+        "num": 496727,
+        "word": "山西多地发生输入性疫情",
+        "onboard_time": 1660998447,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485562,
+        "num": 485562,
+        "word": "RNG 冒泡赛",
+        "onboard_time": 1660999108,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469034,
+        "num": 469034,
+        "word": "女子耳钉塞被晒化求助消防员",
+        "onboard_time": 1661001272,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494542,
+        "num": 468516,
+        "word": "smtown家族演唱会EXO同台",
+        "onboard_time": 1661002170,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 494352,
+        "num": 468377,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466885,
+        "num": 466885,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359100,
+        "num": 359100,
+        "word": "老人走失3天被找到时口袋塞满钱",
+        "onboard_time": 1660987767,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 356505,
+        "num": 356505,
+        "word": "黑龙江大庆发现3例阳性感染者",
+        "onboard_time": 1661001689,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264192,
+        "num": 264192,
+        "word": "新东方向所有离开老师发出职位邀请",
+        "onboard_time": 1660984649,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230463,
+        "num": 230463,
+        "word": "把自己丢床上的小猫",
+        "onboard_time": 1660995569,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228047,
+        "num": 228047,
+        "word": "重庆沙坪坝划定疫情风险区域",
+        "onboard_time": 1661000490,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216943,
+        "num": 216943,
+        "word": "新疆三道海子景区下雪了",
+        "onboard_time": 1660998928,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 199281,
+        "num": 199281,
+        "word": "俄黑海舰队司令部遭到无人机攻击",
+        "onboard_time": 1660988007,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 429635,
+        "num": 199128,
+        "word": "苍兰诀预告",
+        "onboard_time": 1661002471,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401746,
+        "num": 198040,
+        "word": "rookies舞台首秀",
+        "onboard_time": 1661000250,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389206,
+        "num": 197920,
+        "word": "刘浩存庐山电影周红毯生图",
+        "onboard_time": 1660997609,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376246,
+        "num": 196952,
+        "word": "SMTOWN罗渽民银发",
+        "onboard_time": 1661001092,
+        "rank": 33,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 196654,
+        "num": 196654,
+        "word": "妈妈独自过马路3岁女儿被卷车底",
+        "onboard_time": 1660984166,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 337980,
+        "num": 196188,
+        "word": "小兰花开大",
+        "onboard_time": 1661000791,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192744,
+        "num": 192744,
+        "word": "正确坐姿改善乌龟颈",
+        "onboard_time": 1660996587,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185498,
+        "num": 185498,
+        "word": "天再热重庆人也要吃火锅",
+        "onboard_time": 1661000309,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184539,
+        "num": 184539,
+        "word": "蚊子咬人是不挑血型的",
+        "onboard_time": 1660992508,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177007,
+        "num": 177007,
+        "word": "EDG晋级下一轮",
+        "onboard_time": 1661001869,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297872,
+        "num": 176823,
+        "word": "zoo 舞台",
+        "onboard_time": 1660996945,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175044,
+        "num": 175044,
+        "word": "和喜欢的人错过什么体验",
+        "onboard_time": 1660987407,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161503,
+        "num": 161503,
+        "word": "男孩地铁小便吵闹母亲无视",
+        "onboard_time": 1660988788,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144849,
+        "num": 144849,
+        "word": "RNG BP",
+        "onboard_time": 1660998389,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144561,
+        "num": 144561,
+        "word": "钟南山称目前没有药能预防新冠",
+        "onboard_time": 1660978704,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130329,
+        "num": 130329,
+        "word": "消防员拿着未吃完的面包睡着了",
+        "onboard_time": 1660996470,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121947,
+        "num": 121947,
+        "word": "专家称取消公摊面积不可行",
+        "onboard_time": 1660980567,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121380,
+        "num": 121380,
+        "word": "他们偷走了我人生中第一个朋友",
+        "onboard_time": 1660986447,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119155,
+        "num": 119155,
+        "word": "Viper",
+        "onboard_time": 1660990706,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102085,
+        "num": 118962,
+        "word": "轻生男子跳楼瞬间民警飞身抱住",
+        "onboard_time": 1661002711,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}
