@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1661006149272,
+  "endTime": 1661008909923,
   "band_list": [
     {
       "raw_hot": 5072729,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2153821,
+      "num": 1577731,
+      "word": "刘恺威不敢看镜头",
+      "onboard_time": 1661004216,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2038095,
       "num": 2038095,
       "word": "新东方向所有离开老师发出职位邀请",
@@ -137,6 +145,14 @@
       "onboard_time": 1661002170,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1924208,
+      "num": 1924208,
+      "word": "乐山大佛真身全部露出",
+      "onboard_time": 1661006432,
+      "rank": 1,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1756808,
@@ -177,14 +193,6 @@
       "onboard_time": 1660992268,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1577731,
-      "num": 1577731,
-      "word": "刘恺威不敢看镜头",
-      "onboard_time": 1661004216,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1533650,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1136355,
+      "num": 522551,
+      "word": "重庆一家11口溶洞避暑9人失联",
+      "onboard_time": 1661007574,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1135401,
       "num": 1135401,
       "word": "特朗普暗示将对FBI搜查作出回应",
@@ -369,6 +385,14 @@
       "onboard_time": 1660958246,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 988068,
+      "num": 988068,
+      "word": "苍兰诀",
+      "onboard_time": 1661006072,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 977325,
@@ -739,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557056,
-      "num": 287073,
-      "word": "苍兰诀",
-      "onboard_time": 1661006072,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 555405,
       "num": 555405,
       "word": "EDG五人组LPL胜场第一",
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460261,
+      "num": 318943,
+      "word": "玉骨遥",
+      "onboard_time": 1661005473,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458467,
       "num": 377683,
       "word": "黑话律师",
@@ -1115,6 +1139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 390774,
+      "num": 209951,
+      "word": "SMTOWN大合唱",
+      "onboard_time": 1661007390,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389150,
       "num": 216148,
       "word": "长珩支棱起来了",
@@ -1171,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379417,
+      "num": 379417,
+      "word": "为什么说钝感比敏感更重要",
+      "onboard_time": 1661005833,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378385,
       "num": 378385,
       "word": "小狗两个月的变化有多大",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1660995569,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 365732,
-      "num": 185308,
-      "word": "玉骨遥",
-      "onboard_time": 1661005473,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 365012,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1660979367,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 352102,
+      "num": 208067,
+      "word": "小兰花好强",
+      "onboard_time": 1661006793,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 350263,
@@ -1435,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325198,
+      "num": 325198,
+      "word": "劳荣枝案受害人家属发声",
+      "onboard_time": 1661006971,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325020,
       "num": 325020,
       "word": "黑龙江疫情防控",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1660973907,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303780,
+      "num": 139989,
+      "word": "EDG全员诀人",
+      "onboard_time": 1661008832,
+      "rank": 40,
+      "category": "游戏,影视"
     },
     {
       "raw_hot": 303677,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1660983269,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295309,
+      "num": 138859,
+      "word": "SMTOWN家族演唱会李泰容白发",
+      "onboard_time": 1661008654,
+      "rank": 41,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 293748,
@@ -1689,6 +1753,14 @@
       "onboard_time": 1660910129,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244829,
+      "num": 244829,
+      "word": "这小猫咪怎么顺拐",
+      "onboard_time": 1661004032,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 243750,
@@ -1851,14 +1923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217361,
-      "num": 217361,
-      "word": "这小猫咪怎么顺拐",
-      "onboard_time": 1661004032,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216943,
       "num": 216943,
       "word": "新疆三道海子景区下雪了",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1660921289,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212878,
+      "num": 212878,
+      "word": "真的很羡慕从小就幸福的人",
+      "onboard_time": 1661007513,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 212777,
@@ -1939,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200657,
+      "num": 200657,
+      "word": "小胖的曜",
+      "onboard_time": 1661008711,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196027,
       "num": 196027,
       "word": "TheShy",
@@ -1977,6 +2057,14 @@
       "onboard_time": 1660993708,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189074,
+      "num": 189074,
+      "word": "熊猫幼崽排队名场面",
+      "onboard_time": 1661006674,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187037,
@@ -2049,14 +2137,6 @@
       "onboard_time": 1660922731,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 172943,
-      "num": 172943,
-      "word": "为什么说钝感比敏感更重要",
-      "onboard_time": 1661005833,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 172318,
@@ -2267,6 +2347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129638,
+      "num": 129638,
+      "word": "保洁拖地摔倒骨折起诉雇主被驳回",
+      "onboard_time": 1661007933,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128450,
       "num": 128450,
       "word": "赵丽颖沈璃镜头下的风景",
@@ -2281,6 +2369,14 @@
       "onboard_time": 1660951519,
       "rank": 25,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 124003,
+      "num": 124003,
+      "word": "你有睡眠拖延吗",
+      "onboard_time": 1661008832,
+      "rank": 47,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 123470,
