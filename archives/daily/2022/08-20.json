@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660973828413,
+  "endTime": 1660976798809,
   "band_list": [
     {
       "raw_hot": 3137928,
@@ -27,6 +27,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 2358314,
+      "num": 2358314,
+      "word": "苏有朋的左耳刷掉了多少人",
+      "onboard_time": 1660975407,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2337681,
+      "num": 2337681,
+      "word": "李兰娟 新冠是乙类传染病",
+      "onboard_time": 1660970847,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2286920,
       "num": 2286920,
       "word": "为什么你越来越没有耐心了",
@@ -41,14 +57,6 @@
       "onboard_time": 1660971567,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1663278,
-      "num": 1663278,
-      "word": "李兰娟 新冠是乙类传染病",
-      "onboard_time": 1660970847,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1533650,
@@ -72,6 +80,14 @@
       "word": "李兰娟",
       "onboard_time": 1660960766,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242153,
+      "num": 1242153,
+      "word": "男子5次偷1岁孩子存钱罐2000元",
+      "onboard_time": 1660971688,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -179,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 890728,
-      "num": 890728,
-      "word": "男子5次偷1岁孩子存钱罐2000元",
-      "onboard_time": 1660971688,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 870436,
       "num": 870436,
       "word": "喝凉水真的伤胃吗",
@@ -217,6 +225,14 @@
       "onboard_time": 1660926145,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 796310,
+      "num": 796310,
+      "word": "中国驻美使馆回应反华不法分子滋扰使馆",
+      "onboard_time": 1660972167,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 791356,
@@ -267,6 +283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 677635,
+      "num": 677635,
+      "word": "SNH48",
+      "onboard_time": 1660972828,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 644380,
+      "num": 644380,
+      "word": "男子哭诉当7年上门女婿经历",
+      "onboard_time": 1660975047,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623413,
       "num": 623413,
       "word": "杨洋请我的人间烟火剧组人员吃烧烤",
@@ -297,6 +329,14 @@
       "onboard_time": 1660954043,
       "rank": 8,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 581150,
+      "num": 581150,
+      "word": "王大陆问张云龙结婚了没",
+      "onboard_time": 1660974387,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 579831,
@@ -347,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523921,
-      "num": 523921,
-      "word": "中国驻美使馆回应反华不法分子滋扰使馆",
-      "onboard_time": 1660972167,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 522133,
       "num": 402221,
       "word": "王一博刘雨昕韩庚李承铉街舞5作品战海报",
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460607,
+      "num": 460607,
+      "word": "杨和苏 无名",
+      "onboard_time": 1660972167,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458467,
       "num": 377683,
       "word": "黑话律师",
@@ -435,14 +475,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 434862,
-      "num": 387001,
-      "word": "杨和苏 无名",
-      "onboard_time": 1660972167,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 432644,
       "num": 432644,
       "word": "男子约好友偷酒错把信息发给民警",
@@ -467,20 +499,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419191,
-      "num": 379588,
-      "word": "SNH48",
-      "onboard_time": 1660972828,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412042,
       "num": 412042,
       "word": "时代少年团演唱会合作歌单",
       "onboard_time": 1660955968,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396439,
+      "num": 396439,
+      "word": "大妈欲靠风扇过夏天热成眼底出血",
+      "onboard_time": 1660973127,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394058,
@@ -515,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382481,
+      "num": 382481,
+      "word": "打火机锅中爆炸服务员被溅满脸油",
+      "onboard_time": 1660973429,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378385,
       "num": 378385,
       "word": "小狗两个月的变化有多大",
@@ -547,20 +587,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 364378,
+      "num": 364378,
+      "word": "水果为什么越来越贵",
+      "onboard_time": 1660970907,
+      "rank": 45,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 364111,
       "num": 192116,
       "word": "陈小春的西装是浪姐剩下的吧",
       "onboard_time": 1660917632,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360568,
-      "num": 360568,
-      "word": "水果为什么越来越贵",
-      "onboard_time": 1660970907,
-      "rank": 45,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 349754,
@@ -627,8 +667,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 325396,
-      "num": 245993,
+      "raw_hot": 328126,
+      "num": 261398,
       "word": "GAI朝天门舞台太帅咯",
       "onboard_time": 1660973547,
       "rank": 31,
@@ -643,11 +683,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304838,
+      "num": 218222,
+      "word": "王一博街舞点评刺客",
+      "onboard_time": 1660973907,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299985,
       "num": 230428,
       "word": "孟鹤堂摔倒把NPC吓倒了",
       "onboard_time": 1660969767,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298330,
+      "num": 217874,
+      "word": "丁程鑫手动扇雾",
+      "onboard_time": 1660976608,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -681,6 +737,22 @@
       "onboard_time": 1660960108,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289583,
+      "num": 216907,
+      "word": "王俊凯问答案之书有没有奥特曼",
+      "onboard_time": 1660976309,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288759,
+      "num": 288759,
+      "word": "听我说谢谢你四六级",
+      "onboard_time": 1660964969,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 284351,
@@ -753,6 +825,14 @@
       "onboard_time": 1660958726,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259404,
+      "num": 142463,
+      "word": "天上应渊凡间唐周梦中玄夜",
+      "onboard_time": 1660976726,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 258015,
@@ -899,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211339,
-      "num": 211339,
-      "word": "听我说谢谢你四六级",
-      "onboard_time": 1660964969,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 209408,
       "num": 209408,
       "word": "北京8月19日新增本土感染者5例",
@@ -995,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173037,
-      "num": 173037,
-      "word": "大妈欲靠风扇过夏天热成眼底出血",
-      "onboard_time": 1660973127,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172318,
       "num": 172318,
       "word": "饿了么",
@@ -1083,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150687,
-      "num": 150687,
-      "word": "打火机锅中爆炸服务员被溅满脸油",
-      "onboard_time": 1660973429,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146323,
       "num": 146323,
       "word": "沙坪坝新增5例确诊10例无症状",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1660900767,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139698,
+      "num": 139698,
+      "word": "万吨大驱编队海训现场震撼原声",
+      "onboard_time": 1660974626,
+      "rank": 42,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 132118,
@@ -1219,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111864,
+      "num": 111864,
+      "word": "侦察兵的匕首枪好酷",
+      "onboard_time": 1660976608,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 107823,
       "num": 107823,
       "word": "新疆疫情防控动态",
@@ -1241,6 +1313,22 @@
       "onboard_time": 1660902510,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 103033,
+      "num": 103033,
+      "word": "厦门实现社会面清零",
+      "onboard_time": 1660975526,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "纳粹德国舰队因河流干旱重现天日",
+      "onboard_time": 1660976787,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 98082,

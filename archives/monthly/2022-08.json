@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1660973828413,
+  "endTime": 1660976798809,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2587,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2358314,
+      "num": 2358314,
+      "word": "苏有朋的左耳刷掉了多少人",
+      "onboard_time": 1660975407,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2355851,
       "num": 1627022,
       "word": "男子新婚后离世公婆求退彩礼遭拒",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1659916047,
       "rank": 0,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2337681,
+      "num": 2337681,
+      "word": "李兰娟 新冠是乙类传染病",
+      "onboard_time": 1660970847,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2332257,
@@ -4545,14 +4561,6 @@
       "onboard_time": 1660887211,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1663278,
-      "num": 1663278,
-      "word": "李兰娟 新冠是乙类传染病",
-      "onboard_time": 1660970847,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1660946,
@@ -7001,6 +7009,14 @@
       "onboard_time": 1660897593,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1242153,
+      "num": 1242153,
+      "word": "男子5次偷1岁孩子存钱罐2000元",
+      "onboard_time": 1660971688,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1241937,
@@ -10627,14 +10643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 890728,
-      "num": 890728,
-      "word": "男子5次偷1岁孩子存钱罐2000元",
-      "onboard_time": 1660971688,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 889776,
       "num": 889776,
       "word": "官方回应厦门给鱼做核酸",
@@ -11897,6 +11905,14 @@
       "onboard_time": 1659429286,
       "rank": 25,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 796310,
+      "num": 796310,
+      "word": "中国驻美使馆回应反华不法分子滋扰使馆",
+      "onboard_time": 1660972167,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 796199,
@@ -14331,6 +14347,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 677635,
+      "num": 677635,
+      "word": "SNH48",
+      "onboard_time": 1660972828,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677572,
       "num": 677572,
       "word": "吴露可逃 甜",
@@ -15001,6 +15025,14 @@
       "onboard_time": 1659787173,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 644380,
+      "num": 644380,
+      "word": "男子哭诉当7年上门女婿经历",
+      "onboard_time": 1660975047,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643983,
@@ -16689,6 +16721,14 @@
       "onboard_time": 1660121556,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 581150,
+      "num": 581150,
+      "word": "王大陆问张云龙结婚了没",
+      "onboard_time": 1660974387,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 580573,
@@ -18753,14 +18793,6 @@
       "onboard_time": 1659521571,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 523921,
-      "num": 523921,
-      "word": "中国驻美使馆回应反华不法分子滋扰使馆",
-      "onboard_time": 1660972167,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 523302,
@@ -21763,6 +21795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460607,
+      "num": 460607,
+      "word": "杨和苏 无名",
+      "onboard_time": 1660972167,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460412,
       "num": 460412,
       "word": "士力架母公司玛氏中国商业版图",
@@ -23219,14 +23259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 434862,
-      "num": 387001,
-      "word": "杨和苏 无名",
-      "onboard_time": 1660972167,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434735,
       "num": 322935,
       "word": "二十不惑2苍兰诀梦幻联动",
@@ -24201,14 +24233,6 @@
       "onboard_time": 1659934142,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419191,
-      "num": 379588,
-      "word": "SNH48",
-      "onboard_time": 1660972828,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 419159,
@@ -25603,6 +25627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396439,
+      "num": 396439,
+      "word": "大妈欲靠风扇过夏天热成眼底出血",
+      "onboard_time": 1660973127,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396427,
       "num": 396427,
       "word": "假如程少商是个rapper",
@@ -26625,6 +26657,14 @@
       "onboard_time": 1660311879,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382481,
+      "num": 382481,
+      "word": "打火机锅中爆炸服务员被溅满脸油",
+      "onboard_time": 1660973429,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382396,
@@ -28067,6 +28107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364378,
+      "num": 364378,
+      "word": "水果为什么越来越贵",
+      "onboard_time": 1660970907,
+      "rank": 45,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 364196,
       "num": 364196,
       "word": "小学生把暑假作业藏商场冰箱",
@@ -28369,14 +28417,6 @@
       "onboard_time": 1659360941,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360568,
-      "num": 360568,
-      "word": "水果为什么越来越贵",
-      "onboard_time": 1660970907,
-      "rank": 45,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 360528,
@@ -31059,6 +31099,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 328126,
+      "num": 261398,
+      "word": "GAI朝天门舞台太帅咯",
+      "onboard_time": 1660973547,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328042,
       "num": 328042,
       "word": "司机改造大货车给村里孩子造泳池",
@@ -31337,14 +31385,6 @@
       "onboard_time": 1659960335,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325396,
-      "num": 245993,
-      "word": "GAI朝天门舞台太帅咯",
-      "onboard_time": 1660973547,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 325374,
@@ -32835,6 +32875,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 304838,
+      "num": 218222,
+      "word": "王一博街舞点评刺客",
+      "onboard_time": 1660973907,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304757,
       "num": 264952,
       "word": "Lisa朴彩英新专辑预告视频",
@@ -33209,6 +33257,14 @@
       "onboard_time": 1660486474,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298330,
+      "num": 217874,
+      "word": "丁程鑫手动扇雾",
+      "onboard_time": 1660976608,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 298220,
@@ -33923,6 +33979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289583,
+      "num": 216907,
+      "word": "王俊凯问答案之书有没有奥特曼",
+      "onboard_time": 1660976309,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289464,
       "num": 289464,
       "word": "五百里音乐节",
@@ -33961,6 +34025,14 @@
       "onboard_time": 1660303057,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 288759,
+      "num": 288759,
+      "word": "听我说谢谢你四六级",
+      "onboard_time": 1660964969,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 288667,
@@ -36121,6 +36193,14 @@
       "onboard_time": 1659346171,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259404,
+      "num": 142463,
+      "word": "天上应渊凡间唐周梦中玄夜",
+      "onboard_time": 1660976726,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 259263,
@@ -39827,14 +39907,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 211339,
-      "num": 211339,
-      "word": "听我说谢谢你四六级",
-      "onboard_time": 1660964969,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 211316,
       "num": 132299,
       "word": "早安freestyle喝了喝了",
@@ -41867,14 +41939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173037,
-      "num": 173037,
-      "word": "大妈欲靠风扇过夏天热成眼底出血",
-      "onboard_time": 1660973127,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172887,
       "num": 172887,
       "word": "社融",
@@ -42803,14 +42867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150687,
-      "num": 150687,
-      "word": "打火机锅中爆炸服务员被溅满脸油",
-      "onboard_time": 1660973429,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150464,
       "num": 150464,
       "word": "乘客翻入北京地铁2号线轨道身亡",
@@ -43201,6 +43257,14 @@
       "onboard_time": 1660907306,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139698,
+      "num": 139698,
+      "word": "万吨大驱编队海训现场震撼原声",
+      "onboard_time": 1660974626,
+      "rank": 42,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 139489,
@@ -43907,6 +43971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111864,
+      "num": 111864,
+      "word": "侦察兵的匕首枪好酷",
+      "onboard_time": 1660976608,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 111818,
       "num": 111818,
       "word": "专访金像奖影后刘雅瑟",
@@ -44073,6 +44145,22 @@
       "onboard_time": 1660322783,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103033,
+      "num": 103033,
+      "word": "厦门实现社会面清零",
+      "onboard_time": 1660975526,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "纳粹德国舰队因河流干旱重现天日",
+      "onboard_time": 1660976787,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 101002,
