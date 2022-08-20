@@ -1,0 +1,410 @@
+{
+  "runTime": 1660977830050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3435005,
+        "num": 3435005,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1686628,
+        "num": 1686628,
+        "word": "李兰娟 新冠是乙类传染病",
+        "onboard_time": 1660970847,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100572,
+        "num": 1256876,
+        "word": "空间站视角看地球转动好治愈",
+        "onboard_time": 1660957705,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100034,
+        "num": 1100034,
+        "word": "男子哭诉当7年上门女婿经历",
+        "onboard_time": 1660975047,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948724,
+        "num": 948724,
+        "word": "晚上抱什么睡觉能睡得最香",
+        "onboard_time": 1660964607,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 926730,
+        "num": 926730,
+        "word": "男子5次偷1岁孩子存钱罐2000元",
+        "onboard_time": 1660971688,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822436,
+        "num": 822436,
+        "word": "阳光玫瑰葡萄价格跳水",
+        "onboard_time": 1660959685,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 805833,
+        "num": 805833,
+        "word": "王大陆问张云龙结婚了没",
+        "onboard_time": 1660974387,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715313,
+        "num": 715313,
+        "word": "90后姑娘失业后每天假装上班",
+        "onboard_time": 1660963229,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 678949,
+        "num": 678949,
+        "word": "杨紫成毅沉香如屑豆瓣开分5.6分",
+        "onboard_time": 1660972529,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 669203,
+        "num": 669203,
+        "word": "中国驻美使馆回应反华不法分子滋扰使馆",
+        "onboard_time": 1660972167,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 646349,
+        "num": 646349,
+        "word": "王鹤棣回复霸总男友是什么体验",
+        "onboard_time": 1660973547,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555912,
+        "num": 555912,
+        "word": "SNH48",
+        "onboard_time": 1660972828,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536738,
+        "num": 536738,
+        "word": "大学生点海底捞外卖被炸伤眼睛",
+        "onboard_time": 1660955067,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446365,
+        "num": 446365,
+        "word": "打火机锅中爆炸服务员被溅满脸油",
+        "onboard_time": 1660973429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440917,
+        "num": 440917,
+        "word": "杨和苏 无名",
+        "onboard_time": 1660972167,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392233,
+        "num": 392233,
+        "word": "大妈欲靠风扇过夏天热成眼底出血",
+        "onboard_time": 1660973127,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298582,
+        "num": 298582,
+        "word": "水果为什么越来越贵",
+        "onboard_time": 1660970907,
+        "rank": 17,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 291054,
+        "num": 291054,
+        "word": "听我说谢谢你四六级",
+        "onboard_time": 1660964969,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273906,
+        "num": 273906,
+        "word": "男子酒后躺河面睡觉被当成浮尸",
+        "onboard_time": 1660967548,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357550,
+        "num": 268954,
+        "word": "王俊凯问答案之书有没有奥特曼",
+        "onboard_time": 1660976309,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356193,
+        "num": 261348,
+        "word": "吴磊40秒镜头情绪切换",
+        "onboard_time": 1660967006,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348398,
+        "num": 257516,
+        "word": "郑钧戴的刘芸的发箍",
+        "onboard_time": 1660966767,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249195,
+        "num": 249195,
+        "word": "67岁保姆闪婚获赠房产后换锁失联",
+        "onboard_time": 1660961609,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226711,
+        "num": 226711,
+        "word": "十年前的国漫也太绝了吧",
+        "onboard_time": 1660968448,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214225,
+        "num": 214225,
+        "word": "我帮Crisp许个愿",
+        "onboard_time": 1660971567,
+        "rank": 25,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 209703,
+        "num": 209703,
+        "word": "纳粹德国舰队因河流干旱重现天日",
+        "onboard_time": 1660976787,
+        "rank": 26,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 195880,
+        "num": 195880,
+        "word": "男子在影院辱骂殴打后座观众被拘",
+        "onboard_time": 1660967428,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195021,
+        "num": 195021,
+        "word": "科目三把大叔心都搞乱了",
+        "onboard_time": 1660969526,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186704,
+        "num": 186704,
+        "word": "媳妇和妈妈起矛盾男子崩溃要轻生",
+        "onboard_time": 1660962388,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347570,
+        "num": 186496,
+        "word": "可是玄夜让我做他的帝后哎",
+        "onboard_time": 1660972408,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292251,
+        "num": 186121,
+        "word": "王一博街舞点评刺客",
+        "onboard_time": 1660973907,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303677,
+        "num": 185880,
+        "word": "天上应渊凡间唐周梦中玄夜",
+        "onboard_time": 1660976726,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265508,
+        "num": 185362,
+        "word": "GAI朝天门舞台太帅咯",
+        "onboard_time": 1660973547,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256592,
+        "num": 184818,
+        "word": "一句话证明你看过冰雨火",
+        "onboard_time": 1660977687,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184663,
+        "num": 184663,
+        "word": "山西新增本土确诊病例4例",
+        "onboard_time": 1660969767,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184541,
+        "num": 184541,
+        "word": "邻居冒雨帮男子抢收2千斤玉米",
+        "onboard_time": 1660971987,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 181965,
+        "num": 181965,
+        "word": "万吨大驱编队海训现场震撼原声",
+        "onboard_time": 1660974626,
+        "rank": 37,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 176934,
+        "num": 176934,
+        "word": "特朗普暗示将对FBI搜查作出回应",
+        "onboard_time": 1660962508,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162264,
+        "num": 162264,
+        "word": "只有南方人才吃过的糖",
+        "onboard_time": 1660958968,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247772,
+        "num": 159811,
+        "word": "苍兰诀大婚剧照",
+        "onboard_time": 1660968927,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129683,
+        "num": 129683,
+        "word": "久哲发文",
+        "onboard_time": 1660965506,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125962,
+        "num": 125962,
+        "word": "超35℃高温覆盖了我国450万平方公里",
+        "onboard_time": 1660960166,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123470,
+        "num": 123470,
+        "word": "侦察兵的匕首枪好酷",
+        "onboard_time": 1660976608,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 116639,
+        "num": 116639,
+        "word": "要偷渡的假渔民被真渔民识破",
+        "onboard_time": 1660967668,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110656,
+        "num": 110656,
+        "word": "喝凉水真的伤胃吗",
+        "onboard_time": 1660957046,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110016,
+        "num": 110016,
+        "word": "年下万岁",
+        "onboard_time": 1660968688,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109498,
+        "num": 109498,
+        "word": "厦门实现社会面清零",
+        "onboard_time": 1660975526,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93522,
+        "num": 93522,
+        "word": "河南三支一扶",
+        "onboard_time": 1660967488,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90219,
+        "num": 90219,
+        "word": "黑神话",
+        "onboard_time": 1660958246,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代网络强国建设成就#"
+    }
+  }
+}
