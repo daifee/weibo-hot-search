@@ -1,7 +1,15 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661012917067,
+  "endTime": 1661014215122,
   "band_list": [
+    {
+      "raw_hot": 2944449,
+      "num": 2944449,
+      "word": "六公主认证星汉灿烂暑期爆剧",
+      "onboard_time": 1661010571,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 2897465,
       "num": 1732959,
@@ -9,14 +17,6 @@
       "onboard_time": 1661009372,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2875052,
-      "num": 2875052,
-      "word": "六公主认证星汉灿烂暑期爆剧",
-      "onboard_time": 1661010571,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1832517,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 630081,
-      "num": 445599,
+      "num": 474169,
       "word": "赵露思清唱星汉灿烂主题曲",
       "onboard_time": 1661009312,
       "rank": 10,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 558583,
-      "num": 412182,
+      "num": 491351,
       "word": "苍兰诀",
       "onboard_time": 1661006072,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543514,
+      "num": 543514,
+      "word": "你有睡眠拖延吗",
+      "onboard_time": 1661008832,
+      "rank": 9,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 532683,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 516445,
-      "num": 269322,
+      "num": 475486,
       "word": "任嘉伦爬墙好快",
       "onboard_time": 1661010872,
       "rank": 21,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 507918,
+      "num": 507918,
+      "word": "1500座阿尔卑斯冰川或半数在30年内消失",
+      "onboard_time": 1661011590,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 482857,
@@ -105,14 +121,6 @@
       "onboard_time": 1661001272,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459570,
-      "num": 459570,
-      "word": "你有睡眠拖延吗",
-      "onboard_time": 1661008832,
-      "rank": 9,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 403464,
@@ -195,8 +203,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270182,
-      "num": 270182,
+      "raw_hot": 277288,
+      "num": 277288,
       "word": "张嘉文首次露脸直播",
       "onboard_time": 1661010751,
       "rank": 19,
@@ -209,14 +217,6 @@
       "onboard_time": 1660997305,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255871,
-      "num": 255871,
-      "word": "1500座阿尔卑斯冰川或半数在30年内消失",
-      "onboard_time": 1661011590,
-      "rank": 24,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 245861,
@@ -401,11 +401,22 @@
       "onboard_time": 1660997904,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76977,
+      "num": 76977,
+      "word": "重庆四川就像贵州云南的空调外机",
+      "onboard_time": 1661013684,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中国长征系列火箭创下新纪录#"
+    },
+    {
+      "word": "#把平凡之事做到至臻卓越#"
     }
   ]
 }
