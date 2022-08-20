@@ -1,0 +1,410 @@
+{
+  "runTime": 1661000322305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2365649,
+        "num": 2365649,
+        "word": "EDG战胜RNG",
+        "onboard_time": 1660998572,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1473675,
+        "num": 1473675,
+        "word": "灵隐寺暂停请购十八籽佛珠手串",
+        "onboard_time": 1660989569,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133448,
+        "num": 1346048,
+        "word": "我国后续将建造国际月球科研站",
+        "onboard_time": 1660997904,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2579800,
+        "num": 1333839,
+        "word": "小说男主有了脸",
+        "onboard_time": 1660993409,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1247532,
+        "num": 1247532,
+        "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+        "onboard_time": 1660992268,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1189471,
+        "num": 1189471,
+        "word": "山西Z22次列车落客中发现7名阳性",
+        "onboard_time": 1660996229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086411,
+        "num": 1086411,
+        "word": "原来教师资格证还能这样用",
+        "onboard_time": 1660996409,
+        "rank": 6,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 943846,
+        "num": 943846,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835842,
+        "num": 835842,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709722,
+        "num": 709722,
+        "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+        "onboard_time": 1660997305,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261400,
+        "num": 693701,
+        "word": "苹果曝出严重安全漏洞",
+        "onboard_time": 1660998870,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 827348,
+        "num": 674470,
+        "word": "肖战诛仙未公开造型设计图",
+        "onboard_time": 1660994547,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651607,
+        "num": 651607,
+        "word": "东方青苍大婚告白小兰花",
+        "onboard_time": 1660996409,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610497,
+        "num": 610497,
+        "word": "RNG 冒泡赛",
+        "onboard_time": 1660999108,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 599822,
+        "num": 599822,
+        "word": "zoo 舞台",
+        "onboard_time": 1660996945,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555081,
+        "num": 555081,
+        "word": "老人走失3天被找到时口袋塞满钱",
+        "onboard_time": 1660987767,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 501840,
+        "num": 501840,
+        "word": "郑秀妍听到臭豆腐满脸拒绝",
+        "onboard_time": 1660998031,
+        "rank": 16,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 470936,
+        "num": 470936,
+        "word": "阿姨脖长肿块未在意2年发展成癌",
+        "onboard_time": 1660997788,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447745,
+        "num": 447745,
+        "word": "RNG BP",
+        "onboard_time": 1660998389,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 397498,
+        "num": 397498,
+        "word": "新东方向所有离开老师发出职位邀请",
+        "onboard_time": 1660984649,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770824,
+        "num": 394795,
+        "word": "王鹤棣吴磊王一博成毅暑期男神",
+        "onboard_time": 1660992150,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468466,
+        "num": 391639,
+        "word": "刘浩存庐山电影周红毯生图",
+        "onboard_time": 1660997609,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 453349,
+        "num": 389192,
+        "word": "SMTOWN2022",
+        "onboard_time": 1660997129,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382059,
+        "num": 382059,
+        "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+        "onboard_time": 1660998206,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340932,
+        "num": 340932,
+        "word": "山西多地发生输入性疫情",
+        "onboard_time": 1660998447,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300339,
+        "num": 300339,
+        "word": "把自己丢床上的小猫",
+        "onboard_time": 1660995569,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 275956,
+        "num": 275956,
+        "word": "妈妈独自过马路3岁女儿被卷车底",
+        "onboard_time": 1660984166,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 256358,
+        "num": 256358,
+        "word": "蚊子咬人是不挑血型的",
+        "onboard_time": 1660992508,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253269,
+        "num": 253269,
+        "word": "俄黑海舰队司令部遭到无人机攻击",
+        "onboard_time": 1660988007,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 200940,
+        "num": 200940,
+        "word": "新疆三道海子景区下雪了",
+        "onboard_time": 1660998928,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 386978,
+        "num": 200681,
+        "word": "小兰花大婚之夜哭了",
+        "onboard_time": 1660999529,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361476,
+        "num": 199769,
+        "word": "SMTOWN威神V舞台",
+        "onboard_time": 1660999051,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345496,
+        "num": 199260,
+        "word": "虞书欣兰花姐觉醒",
+        "onboard_time": 1661000131,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315398,
+        "num": 198807,
+        "word": "梁爽梁家富女",
+        "onboard_time": 1660998148,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198152,
+        "num": 198152,
+        "word": "正确坐姿改善乌龟颈",
+        "onboard_time": 1660996587,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192890,
+        "num": 192890,
+        "word": "男孩地铁小便吵闹母亲无视",
+        "onboard_time": 1660988788,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187514,
+        "num": 187514,
+        "word": "Viper",
+        "onboard_time": 1660990706,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186641,
+        "num": 186641,
+        "word": "和喜欢的人错过什么体验",
+        "onboard_time": 1660987407,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185459,
+        "num": 185459,
+        "word": "钟南山称目前没有药能预防新冠",
+        "onboard_time": 1660978704,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164143,
+        "num": 164143,
+        "word": "专家称取消公摊面积不可行",
+        "onboard_time": 1660980567,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293118,
+        "num": 163708,
+        "word": "苍兰诀集体婚礼",
+        "onboard_time": 1660988125,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291899,
+        "num": 161787,
+        "word": "玄夜烫发染发编发",
+        "onboard_time": 1660992628,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158761,
+        "num": 158761,
+        "word": "消防员拿着未吃完的面包睡着了",
+        "onboard_time": 1660996470,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157521,
+        "num": 157521,
+        "word": "他们偷走了我人生中第一个朋友",
+        "onboard_time": 1660986447,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146554,
+        "num": 146554,
+        "word": "上海暴雨",
+        "onboard_time": 1660989327,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145828,
+        "num": 145828,
+        "word": "这才是冰粉届的颜值天花板",
+        "onboard_time": 1660990048,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121765,
+        "num": 121765,
+        "word": "劳荣枝案二审休庭择期宣判",
+        "onboard_time": 1660994609,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117633,
+        "num": 117633,
+        "word": "众人楼下拉被子营救悬挂窗外老人",
+        "onboard_time": 1660992508,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110909,
+        "num": 110909,
+        "word": "男子哭诉当7年上门女婿经历",
+        "onboard_time": 1660975047,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92804,
+        "num": 110877,
+        "word": "天再热重庆人也要吃火锅",
+        "onboard_time": 1661000309,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660999036617,
+  "endTime": 1661000322305,
   "band_list": [
     {
       "raw_hot": 3792656,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2365649,
+      "num": 2365649,
+      "word": "EDG战胜RNG",
+      "onboard_time": 1660998572,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2337681,
       "num": 2337681,
       "word": "李兰娟 新冠是乙类传染病",
@@ -81,14 +89,6 @@
       "onboard_time": 1660917873,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2225111,
-      "num": 2225111,
-      "word": "EDG战胜RNG",
-      "onboard_time": 1660998572,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 2155069,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1261400,
+      "num": 693701,
+      "word": "苹果曝出严重安全漏洞",
+      "onboard_time": 1660998870,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1242153,
       "num": 1242153,
       "word": "男子5次偷1岁孩子存钱罐2000元",
@@ -257,6 +265,14 @@
       "onboard_time": 1660967428,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086411,
+      "num": 1086411,
+      "word": "原来教师资格证还能这样用",
+      "onboard_time": 1660996409,
+      "rank": 12,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 1034738,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709722,
+      "num": 709722,
+      "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+      "onboard_time": 1660997305,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707228,
       "num": 707228,
       "word": "男子酒后躺河面睡觉被当成浮尸",
@@ -539,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651607,
+      "num": 651607,
+      "word": "东方青苍大婚告白小兰花",
+      "onboard_time": 1660996409,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 623413,
       "num": 623413,
       "word": "杨洋请我的人间烟火剧组人员吃烧烤",
       "onboard_time": 1660965387,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 610497,
+      "num": 610497,
+      "word": "RNG 冒泡赛",
+      "onboard_time": 1660999108,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 605186,
@@ -569,14 +609,6 @@
       "onboard_time": 1660989327,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586731,
-      "num": 586731,
-      "word": "原来教师资格证还能这样用",
-      "onboard_time": 1660996409,
-      "rank": 12,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 586539,
@@ -675,14 +707,6 @@
       "category": "情感,社会议题"
     },
     {
-      "raw_hot": 529722,
-      "num": 529722,
-      "word": "东方青苍大婚告白小兰花",
-      "onboard_time": 1660996409,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 522133,
       "num": 402221,
       "word": "王一博刘雨昕韩庚李承铉街舞5作品战海报",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 513152,
-      "num": 308092,
+      "num": 501840,
       "word": "郑秀妍听到臭豆腐满脸拒绝",
       "onboard_time": 1660998031,
       "rank": 22,
@@ -772,11 +796,19 @@
     },
     {
       "raw_hot": 481665,
-      "num": 305287,
+      "num": 391639,
       "word": "刘浩存庐山电影周红毯生图",
       "onboard_time": 1660997609,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 470936,
+      "num": 470936,
+      "word": "阿姨脖长肿块未在意2年发展成癌",
+      "onboard_time": 1660997788,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460607,
@@ -817,6 +849,14 @@
       "onboard_time": 1660990229,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447745,
+      "num": 447745,
+      "word": "RNG BP",
+      "onboard_time": 1660998389,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 446365,
@@ -939,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386978,
+      "num": 200681,
+      "word": "小兰花大婚之夜哭了",
+      "onboard_time": 1660999529,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385658,
       "num": 288106,
       "word": "东方青苍的衣橱",
@@ -961,6 +1009,14 @@
       "onboard_time": 1660968927,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382059,
+      "num": 382059,
+      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+      "onboard_time": 1660998206,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378385,
@@ -1027,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361476,
+      "num": 199769,
+      "word": "SMTOWN威神V舞台",
+      "onboard_time": 1660999051,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 361085,
       "num": 296695,
       "word": "于文文脱5黑色西装造型",
@@ -1083,12 +1147,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 345509,
-      "num": 345509,
-      "word": "RNG BP",
-      "onboard_time": 1660998389,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 345496,
+      "num": 199260,
+      "word": "虞书欣兰花姐觉醒",
+      "onboard_time": 1661000131,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 344635,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1660968927,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340932,
+      "num": 340932,
+      "word": "山西多地发生输入性疫情",
+      "onboard_time": 1660998447,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339409,
@@ -1201,14 +1273,6 @@
       "onboard_time": 1660987407,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316006,
-      "num": 316006,
-      "word": "婆婆给媳妇做月子餐5菜1汤不重样",
-      "onboard_time": 1660997305,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307497,
@@ -1547,22 +1611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220083,
-      "num": 220083,
-      "word": "阿姨脖长肿块未在意2年发展成癌",
-      "onboard_time": 1660997788,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218853,
-      "num": 218853,
-      "word": "山西多地发生输入性疫情",
-      "onboard_time": 1660998447,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218784,
       "num": 218784,
       "word": "重庆再次承包全国高温排行榜前10",
@@ -1651,6 +1699,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200940,
+      "num": 200940,
+      "word": "新疆三道海子景区下雪了",
+      "onboard_time": 1660998928,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 198152,
+      "num": 198152,
+      "word": "正确坐姿改善乌龟颈",
+      "onboard_time": 1660996587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196027,
       "num": 196027,
       "word": "TheShy",
@@ -1705,14 +1769,6 @@
       "onboard_time": 1660978763,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 185984,
-      "num": 185984,
-      "word": "正确坐姿改善乌龟颈",
-      "onboard_time": 1660996587,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182794,
@@ -1801,14 +1857,6 @@
       "onboard_time": 1660954404,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 167193,
-      "num": 167193,
-      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
-      "onboard_time": 1660998206,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167189,
@@ -1939,12 +1987,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135769,
-      "num": 135769,
-      "word": "苹果曝出严重安全漏洞",
-      "onboard_time": 1660998870,
-      "rank": 47,
-      "category": "科技"
+      "raw_hot": 133448,
+      "num": 1567039,
+      "word": "我国后续将建造国际月球科研站",
+      "onboard_time": 1660997904,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132118,
@@ -2017,14 +2065,6 @@
       "onboard_time": 1660913728,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117536,
-      "num": 117536,
-      "word": "新疆三道海子景区下雪了",
-      "onboard_time": 1660998928,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 116728,
@@ -2115,11 +2155,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97829,
-      "num": 1567039,
-      "word": "我国后续将建造国际月球科研站",
-      "onboard_time": 1660997904,
-      "rank": 2,
+      "raw_hot": 92804,
+      "num": 110877,
+      "word": "天再热重庆人也要吃火锅",
+      "onboard_time": 1661000309,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2266,6 +2306,9 @@
     },
     {
       "word": "#中国长征系列火箭创下新纪录#"
+    },
+    {
+      "word": "#把平凡之事做到至臻卓越#"
     }
   ]
 }
