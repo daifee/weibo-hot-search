@@ -1,7 +1,15 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660952250390,
+  "endTime": 1660961529807,
   "band_list": [
+    {
+      "raw_hot": 2859951,
+      "num": 2859951,
+      "word": "大学生点海底捞外卖被炸伤眼睛",
+      "onboard_time": 1660955067,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2286920,
       "num": 2286920,
@@ -9,6 +17,30 @@
       "onboard_time": 1660917873,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1810919,
+      "num": 1810919,
+      "word": "阳光玫瑰葡萄价格跳水",
+      "onboard_time": 1660959685,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1533650,
+      "num": 1533650,
+      "word": "苏有朋女孩",
+      "onboard_time": 1660955968,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1206821,
+      "num": 563344,
+      "word": "司藤 小兰花",
+      "onboard_time": 1660954583,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1003816,
@@ -27,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 870436,
+      "num": 870436,
+      "word": "喝凉水真的伤胃吗",
+      "onboard_time": 1660957046,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834928,
       "num": 834928,
       "word": "重庆两姐妹江边耍水被冲走",
@@ -36,7 +76,7 @@
     },
     {
       "raw_hot": 832485,
-      "num": 340904,
+      "num": 557502,
       "word": "杭州一女子为买车砍伤母亲砍死小叔",
       "onboard_time": 1660926145,
       "rank": 28,
@@ -59,12 +99,52 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 692041,
+      "num": 692041,
+      "word": "文帝cp白嗑了",
+      "onboard_time": 1660955006,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 605186,
       "num": 605186,
       "word": "3兄弟顶撞奶奶姐姐出手罚跪",
       "onboard_time": 1660922310,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602596,
+      "num": 602596,
+      "word": "只有南方人才吃过的糖",
+      "onboard_time": 1660958968,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 582016,
+      "num": 582016,
+      "word": "上班的小狗略显憔悴",
+      "onboard_time": 1660954043,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 573779,
+      "num": 573779,
+      "word": "黑神话",
+      "onboard_time": 1660958246,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 548735,
+      "num": 548735,
+      "word": "殷桃剪辣椒时对喷嚏的控制力",
+      "onboard_time": 1660953503,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 543661,
@@ -107,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474750,
+      "num": 474750,
+      "word": "网传仙剑奇侠传五前传主演阵容",
+      "onboard_time": 1660960708,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458467,
       "num": 377683,
       "word": "黑话律师",
@@ -131,12 +219,44 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 432644,
+      "num": 432644,
+      "word": "男子约好友偷酒错把信息发给民警",
+      "onboard_time": 1660953443,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421994,
       "num": 375346,
       "word": "苍兰诀吻戏花絮",
       "onboard_time": 1660921532,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412042,
+      "num": 412042,
+      "word": "时代少年团演唱会合作歌单",
+      "onboard_time": 1660955968,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 406224,
+      "num": 295187,
+      "word": "披荆斩棘2观后感",
+      "onboard_time": 1660959749,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394058,
+      "num": 394058,
+      "word": "cpsp",
+      "onboard_time": 1660958126,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 385526,
@@ -153,6 +273,14 @@
       "onboard_time": 1660919192,
       "rank": 9,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 372662,
+      "num": 345183,
+      "word": "Jennie朴彩英小分队",
+      "onboard_time": 1660930458,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 369158,
@@ -179,14 +307,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 345183,
-      "num": 345183,
-      "word": "Jennie朴彩英小分队",
-      "onboard_time": 1660930458,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 342595,
       "num": 187715,
       "word": "Mike中文",
@@ -195,12 +315,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337076,
+      "num": 337076,
+      "word": "外卖小哥接催单电话不慎摔倒崩溃",
+      "onboard_time": 1660951340,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330711,
       "num": 212200,
       "word": "月升沧海大结局观后感",
       "onboard_time": 1660909950,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295887,
+      "num": 295887,
+      "word": "上海新增本土确诊1例无症状2例",
+      "onboard_time": 1660955666,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293642,
+      "num": 293642,
+      "word": "李兰娟",
+      "onboard_time": 1660960766,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292967,
+      "num": 292967,
+      "word": "詹姆斯将出战半职业联赛",
+      "onboard_time": 1660958848,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283133,
+      "num": 283133,
+      "word": "高温预报图被烫红了",
+      "onboard_time": 1660955247,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276563,
@@ -227,6 +387,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263330,
+      "num": 263330,
+      "word": "8月19日新增本土确诊578例",
+      "onboard_time": 1660958726,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262880,
+      "num": 262880,
+      "word": "西藏增本土无症状501例",
+      "onboard_time": 1660960108,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258015,
+      "num": 258015,
+      "word": "8月19日新增本土无症状1591例",
+      "onboard_time": 1660961127,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254892,
       "num": 129967,
       "word": "陈奕迅线上演唱会",
@@ -241,6 +425,22 @@
       "onboard_time": 1660910129,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235269,
+      "num": 235269,
+      "word": "三亚本轮疫情累计确诊5082例无症状7192例",
+      "onboard_time": 1660958369,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230225,
+      "num": 230225,
+      "word": "刘亦菲舒淇金九封面",
+      "onboard_time": 1660954525,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 224438,
@@ -259,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217554,
+      "num": 217554,
+      "word": "平遥全县非必要不外出",
+      "onboard_time": 1660956149,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217460,
       "num": 105359,
       "word": "敖子逸是不是拿了男二剧本",
@@ -273,6 +481,14 @@
       "onboard_time": 1660921289,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209408,
+      "num": 209408,
+      "word": "北京8月19日新增本土感染者5例",
+      "onboard_time": 1660955788,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209197,
@@ -291,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200080,
+      "num": 200080,
+      "word": "超35℃高温覆盖了我国450万平方公里",
+      "onboard_time": 1660960166,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196027,
       "num": 196027,
       "word": "TheShy",
       "onboard_time": 1660907006,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193560,
+      "num": 193560,
+      "word": "陕西核酸混检降至每人最高3元",
+      "onboard_time": 1660952240,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190263,
@@ -316,11 +548,19 @@
     },
     {
       "raw_hot": 182115,
-      "num": 156321,
+      "num": 181512,
       "word": "金珉奎确诊新冠",
       "onboard_time": 1660951578,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180805,
+      "num": 180805,
+      "word": "白鹿张凌赫宁安如梦双人对视海报",
+      "onboard_time": 1660952781,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 173883,
@@ -339,6 +579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 167414,
+      "num": 167414,
+      "word": "搞笑女结婚有多好玩",
+      "onboard_time": 1660954404,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167189,
       "num": 167189,
       "word": "爱你的人永远不会抛弃你",
@@ -347,12 +595,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160420,
+      "num": 160420,
+      "word": "山西平遥临时性全域静态管理",
+      "onboard_time": 1660954284,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157050,
+      "num": 157050,
+      "word": "重庆再次承包全国高温排行榜前10",
+      "onboard_time": 1660961008,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155295,
       "num": 155295,
       "word": "如何看待景区抬轿子的人",
       "onboard_time": 1660919672,
       "rank": 27,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 143231,
+      "num": 143231,
+      "word": "8月19日新增确诊病例639例",
+      "onboard_time": 1660960587,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141202,
@@ -379,12 +651,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 128535,
-      "num": 128535,
-      "word": "外卖小哥接催单电话不慎摔倒崩溃",
-      "onboard_time": 1660951340,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 128450,
+      "num": 128450,
+      "word": "赵丽颖沈璃镜头下的风景",
+      "onboard_time": 1660951218,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 127176,
@@ -499,14 +771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81503,
-      "num": 75873,
-      "word": "赵丽颖沈璃镜头下的风景",
-      "onboard_time": 1660951218,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 79897,
       "num": 79897,
       "word": "未央 宫本",
@@ -564,7 +828,7 @@
     },
     {
       "raw_hot": 61154,
-      "num": 831195,
+      "num": 1534042,
       "word": "这是真实的中国医生",
       "onboard_time": 1660893694,
       "rank": 2,
@@ -585,14 +849,6 @@
       "onboard_time": 1660950677,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 52883,
-      "num": 52883,
-      "word": "陕西核酸混检降至每人最高3元",
-      "onboard_time": 1660952240,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31780,
@@ -620,6 +876,9 @@
     },
     {
       "word": "#习近平在辽宁沈阳考察调研#"
+    },
+    {
+      "word": "#世界职业技术教育发展大会#"
     }
   ]
 }
