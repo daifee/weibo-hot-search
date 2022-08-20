@@ -1,0 +1,410 @@
+{
+  "runTime": 1661006149272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4132876,
+        "num": 4132876,
+        "word": "苹果曝出严重安全漏洞",
+        "onboard_time": 1660998870,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1702598,
+        "num": 1702598,
+        "word": "开麦",
+        "onboard_time": 1661002170,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145007,
+        "num": 1650840,
+        "word": "我国后续将建造国际月球科研站",
+        "onboard_time": 1660997904,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2566548,
+        "num": 1650574,
+        "word": "王鹤棣学凌不疑抱",
+        "onboard_time": 1661001030,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1649037,
+        "num": 1649037,
+        "word": "女子耳钉塞被晒化求助消防员",
+        "onboard_time": 1661001272,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1577731,
+        "num": 1577731,
+        "word": "刘恺威不敢看镜头",
+        "onboard_time": 1661004216,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819212,
+        "num": 819212,
+        "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+        "onboard_time": 1660997305,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672882,
+        "num": 672882,
+        "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+        "onboard_time": 1660992268,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 640246,
+        "num": 640246,
+        "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+        "onboard_time": 1660998206,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629376,
+        "num": 629376,
+        "word": "原来教师资格证还能这样用",
+        "onboard_time": 1660996409,
+        "rank": 9,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 1096223,
+        "num": 607424,
+        "word": "小说男主有了脸",
+        "onboard_time": 1660993409,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 836701,
+        "num": 604891,
+        "word": "少女时代",
+        "onboard_time": 1661002471,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1001791,
+        "num": 593593,
+        "word": "虞书欣兰花姐觉醒",
+        "onboard_time": 1661000131,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578247,
+        "num": 578247,
+        "word": "阿姨脖长肿块未在意2年发展成癌",
+        "onboard_time": 1660997788,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555405,
+        "num": 555405,
+        "word": "EDG五人组LPL胜场第一",
+        "onboard_time": 1661003432,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 509571,
+        "num": 509571,
+        "word": "黑龙江大庆发现3例阳性感染者",
+        "onboard_time": 1661001689,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430322,
+        "num": 430322,
+        "word": "老人走失3天被找到时口袋塞满钱",
+        "onboard_time": 1660987767,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 417992,
+        "num": 417992,
+        "word": "轻生男子跳楼瞬间民警飞身抱住",
+        "onboard_time": 1661002711,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377776,
+        "num": 377776,
+        "word": "灵隐寺暂停请购十八籽佛珠手串",
+        "onboard_time": 1660989569,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296465,
+        "num": 296465,
+        "word": "EDG战胜RNG",
+        "onboard_time": 1660998572,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 778890,
+        "num": 290853,
+        "word": "苍兰诀预告",
+        "onboard_time": 1661002471,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579010,
+        "num": 288472,
+        "word": "SuperJunior舞台状态",
+        "onboard_time": 1661003852,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 557056,
+        "num": 287073,
+        "word": "苍兰诀",
+        "onboard_time": 1661006072,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281382,
+        "num": 281382,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273090,
+        "num": 273090,
+        "word": "黑龙江疫情防控",
+        "onboard_time": 1661005053,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527054,
+        "num": 270208,
+        "word": "苏醒谁是卧底高级玩家",
+        "onboard_time": 1661006014,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243228,
+        "num": 243228,
+        "word": "山西多地发生输入性疫情",
+        "onboard_time": 1660998447,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240748,
+        "num": 240748,
+        "word": "山西Z22次列车落客中发现7名阳性",
+        "onboard_time": 1660996229,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234037,
+        "num": 234037,
+        "word": "RNG 冒泡赛",
+        "onboard_time": 1660999108,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217361,
+        "num": 217361,
+        "word": "这小猫咪怎么顺拐",
+        "onboard_time": 1661004032,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 499453,
+        "num": 217277,
+        "word": "王一博跳舞身体控制",
+        "onboard_time": 1661003613,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456447,
+        "num": 216698,
+        "word": "smtown家族演唱会EXO同台",
+        "onboard_time": 1661002170,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388082,
+        "num": 216148,
+        "word": "长珩支棱起来了",
+        "onboard_time": 1661004451,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382207,
+        "num": 215772,
+        "word": "肖战诛仙未公开造型设计图",
+        "onboard_time": 1660994547,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214536,
+        "num": 215530,
+        "word": "重庆沙坪坝划定疫情风险区域",
+        "onboard_time": 1661000490,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215212,
+        "num": 215212,
+        "word": "北京WB韧性好强",
+        "onboard_time": 1661004151,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213972,
+        "num": 213972,
+        "word": "天再热重庆人也要吃火锅",
+        "onboard_time": 1661000309,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197992,
+        "num": 197992,
+        "word": "把自己丢床上的小猫",
+        "onboard_time": 1660995569,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195292,
+        "num": 195292,
+        "word": "新东方向所有离开老师发出职位邀请",
+        "onboard_time": 1660984649,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187167,
+        "num": 187167,
+        "word": "和喜欢的人错过什么体验",
+        "onboard_time": 1660987407,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365732,
+        "num": 185308,
+        "word": "玉骨遥",
+        "onboard_time": 1661005473,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337447,
+        "num": 184261,
+        "word": "钟辰乐高音",
+        "onboard_time": 1661006014,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176867,
+        "num": 176867,
+        "word": "骚白表情包的正确打开方式",
+        "onboard_time": 1661004451,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175300,
+        "num": 175300,
+        "word": "正确坐姿改善乌龟颈",
+        "onboard_time": 1660996587,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172943,
+        "num": 172943,
+        "word": "为什么说钝感比敏感更重要",
+        "onboard_time": 1661005833,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169872,
+        "num": 169872,
+        "word": "新疆三道海子景区下雪了",
+        "onboard_time": 1660998928,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 158386,
+        "num": 158386,
+        "word": "俄黑海舰队司令部遭到无人机攻击",
+        "onboard_time": 1660988007,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 153587,
+        "num": 153587,
+        "word": "妈妈独自过马路3岁女儿被卷车底",
+        "onboard_time": 1660984166,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 152902,
+        "num": 152902,
+        "word": "男孩地铁小便吵闹母亲无视",
+        "onboard_time": 1660988788,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146715,
+        "num": 146715,
+        "word": "蚊子咬人是不挑血型的",
+        "onboard_time": 1660992508,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}

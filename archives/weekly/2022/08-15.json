@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661005151692,
+  "endTime": 1661006149272,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -1027,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1649037,
+      "num": 1649037,
+      "word": "女子耳钉塞被晒化求助消防员",
+      "onboard_time": 1661001272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1636256,
       "num": 1636256,
       "word": "年轻人为何不爱逛宜家了",
@@ -1131,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1577731,
+      "num": 1577731,
+      "word": "刘恺威不敢看镜头",
+      "onboard_time": 1661004216,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1559956,
       "num": 1559956,
       "word": "茶颜悦色回应雇人排队代购炒作",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1660879649,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1551185,
-      "num": 1551185,
-      "word": "女子耳钉塞被晒化求助消防员",
-      "onboard_time": 1661001272,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1545680,
@@ -3779,14 +3787,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 740751,
-      "num": 325683,
-      "word": "刘恺威不敢看镜头",
-      "onboard_time": 1661004216,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 737334,
       "num": 737334,
       "word": "95后清华学长做化学实验有多美",
@@ -4971,6 +4971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579010,
+      "num": 288472,
+      "word": "SuperJunior舞台状态",
+      "onboard_time": 1661003852,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 578488,
       "num": 552258,
       "word": "陈晓王一博冰雨火微博评分8.6",
@@ -5177,6 +5185,14 @@
       "onboard_time": 1660544550,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 555405,
+      "num": 555405,
+      "word": "EDG五人组LPL胜场第一",
+      "onboard_time": 1661003432,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 554719,
@@ -5499,14 +5515,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 533475,
-      "num": 533475,
-      "word": "EDG五人组LPL胜场第一",
-      "onboard_time": 1661003432,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 533330,
       "num": 482397,
       "word": "唐周 寸步不离",
@@ -5617,6 +5625,14 @@
       "onboard_time": 1660619011,
       "rank": 18,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 527054,
+      "num": 270208,
+      "word": "苏醒谁是卧底高级玩家",
+      "onboard_time": 1661006014,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 526833,
@@ -5931,6 +5947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509571,
+      "num": 509571,
+      "word": "黑龙江大庆发现3例阳性感染者",
+      "onboard_time": 1661001689,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509489,
       "num": 509489,
       "word": "能源大省四川为何缺电",
@@ -6187,14 +6211,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 490097,
-      "num": 490097,
-      "word": "黑龙江大庆发现3例阳性感染者",
-      "onboard_time": 1661001689,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489671,
       "num": 1744615,
       "word": "三星堆发现第一件带翅膀神兽",
@@ -6433,14 +6449,6 @@
       "onboard_time": 1660506912,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477491,
-      "num": 222524,
-      "word": "SuperJunior舞台状态",
-      "onboard_time": 1661003852,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 477387,
@@ -7419,6 +7427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417992,
+      "num": 417992,
+      "word": "轻生男子跳楼瞬间民警飞身抱住",
+      "onboard_time": 1661002711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417845,
       "num": 417845,
       "word": "河南下周二实质性降温",
@@ -7924,7 +7940,7 @@
     },
     {
       "raw_hot": 389150,
-      "num": 209255,
+      "num": 216148,
       "word": "长珩支棱起来了",
       "onboard_time": 1661004451,
       "rank": 34,
@@ -9339,6 +9355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337447,
+      "num": 184261,
+      "word": "钟辰乐高音",
+      "onboard_time": 1661006014,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 337076,
       "num": 337076,
       "word": "外卖小哥接催单电话不慎摔倒崩溃",
@@ -10713,14 +10737,6 @@
       "onboard_time": 1660902389,
       "rank": 35,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 286446,
-      "num": 286446,
-      "word": "轻生男子跳楼瞬间民警飞身抱住",
-      "onboard_time": 1661002711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286316,
@@ -12627,6 +12643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217361,
+      "num": 217361,
+      "word": "这小猫咪怎么顺拐",
+      "onboard_time": 1661004032,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217009,
       "num": 217009,
       "word": "李清照诗词照进现实了",
@@ -12697,6 +12721,14 @@
       "onboard_time": 1660634190,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215212,
+      "num": 215212,
+      "word": "北京WB韧性好强",
+      "onboard_time": 1661004151,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 214740,
@@ -13403,28 +13435,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 182680,
-      "num": 182680,
-      "word": "这小猫咪怎么顺拐",
-      "onboard_time": 1661004032,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182115,
       "num": 181512,
       "word": "金珉奎确诊新冠",
       "onboard_time": 1660951578,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181956,
-      "num": 181956,
-      "word": "北京WB韧性好强",
-      "onboard_time": 1661004151,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 181953,
@@ -13539,6 +13555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176867,
+      "num": 176867,
+      "word": "骚白表情包的正确打开方式",
+      "onboard_time": 1661004451,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176053,
       "num": 176053,
       "word": "LPL季后赛赛程",
@@ -13609,6 +13633,14 @@
       "onboard_time": 1660866144,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172943,
+      "num": 172943,
+      "word": "为什么说钝感比敏感更重要",
+      "onboard_time": 1661005833,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 172884,
@@ -14288,14 +14320,6 @@
       "word": "LGD终结RNG九连胜",
       "onboard_time": 1660488154,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 129363,
-      "num": 129363,
-      "word": "骚白表情包的正确打开方式",
-      "onboard_time": 1661004451,
-      "rank": 48,
       "category": "游戏"
     },
     {
