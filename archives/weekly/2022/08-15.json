@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661027860179,
+  "endTime": 1661030402571,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -14851,6 +14851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90824,
+      "num": 90824,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 89413,
       "num": 89413,
       "word": "中国男排亚洲杯夺冠",
@@ -15011,14 +15019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58299,
-      "num": 58299,
-      "word": "母女开门起静电引发煤气爆炸",
-      "onboard_time": 1661024592,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 54014,
       "num": 54014,
       "word": "北京中小学校幼儿园师生在京满7天后方可返校",
@@ -15107,6 +15107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32941,
+      "num": 32941,
+      "word": "RNG伤害",
+      "onboard_time": 1661024891,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31780,
       "num": 31780,
       "word": "披荆斩棘歌单",
@@ -15129,14 +15137,6 @@
       "onboard_time": 1660669760,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30247,
-      "num": 30247,
-      "word": "RNG伤害",
-      "onboard_time": 1661024891,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 28375,

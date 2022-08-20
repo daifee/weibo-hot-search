@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661027860179,
+  "endTime": 1661030402571,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -45531,6 +45531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90824,
+      "num": 90824,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 89802,
       "num": 89802,
       "word": "我要是有这睡眠就好了",
@@ -45905,14 +45913,6 @@
       "onboard_time": 1660929979,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58299,
-      "num": 58299,
-      "word": "母女开门起静电引发煤气爆炸",
-      "onboard_time": 1661024592,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 58224,
@@ -46307,6 +46307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32941,
+      "num": 32941,
+      "word": "RNG伤害",
+      "onboard_time": 1661024891,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 32598,
       "num": 32598,
       "word": "收到喜欢的礼物是一种什么体验",
@@ -46337,14 +46345,6 @@
       "onboard_time": 1660669760,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30247,
-      "num": 30247,
-      "word": "RNG伤害",
-      "onboard_time": 1661024891,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 28848,
