@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661009960790,
+  "endTime": 1661012917067,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -291,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2897465,
+      "num": 1732959,
+      "word": "11岁女孩痛经哭闹不止查出2个子宫",
+      "onboard_time": 1661009372,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2883607,
       "num": 2883607,
       "word": "日本7.2万余人被命令撤离",
       "onboard_time": 1660494443,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2875052,
+      "num": 2875052,
+      "word": "六公主认证星汉灿烂暑期爆剧",
+      "onboard_time": 1661010571,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2859951,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1660570652,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326042,
+      "num": 1326042,
+      "word": "王鹤棣也在追苍兰诀",
+      "onboard_time": 1661010152,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1325485,
@@ -4555,6 +4579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 630081,
+      "num": 488823,
+      "word": "赵露思清唱星汉灿烂主题曲",
+      "onboard_time": 1661009312,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 628557,
       "num": 628557,
       "word": "Rose回归造型",
@@ -4905,14 +4937,6 @@
       "onboard_time": 1660628256,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586839,
-      "num": 488823,
-      "word": "赵露思清唱星汉灿烂主题曲",
-      "onboard_time": 1661009312,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 586452,
@@ -5643,6 +5667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528839,
+      "num": 269473,
+      "word": "EDG全员诀人",
+      "onboard_time": 1661008832,
+      "rank": 40,
+      "category": "游戏,影视"
+    },
+    {
       "raw_hot": 527800,
       "num": 471177,
       "word": "陈小春的西装是浪姐剩下的吧",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1660968688,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516445,
+      "num": 269322,
+      "word": "任嘉伦爬墙好快",
+      "onboard_time": 1661010872,
+      "rank": 21,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 515755,
@@ -6721,6 +6761,14 @@
       "onboard_time": 1660568071,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459570,
+      "num": 459570,
+      "word": "你有睡眠拖延吗",
+      "onboard_time": 1661008832,
+      "rank": 47,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 459556,
@@ -7723,6 +7771,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 403464,
+      "num": 269185,
+      "word": "李赫宰跳舞",
+      "onboard_time": 1661010392,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 402811,
       "num": 402811,
       "word": "王俊凯黑到在镜头里找不到自己",
@@ -7793,14 +7849,6 @@
       "onboard_time": 1660832074,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401151,
-      "num": 267637,
-      "word": "EDG全员诀人",
-      "onboard_time": 1661008832,
-      "rank": 40,
-      "category": "游戏,影视"
     },
     {
       "raw_hot": 401013,
@@ -9467,6 +9515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336295,
+      "num": 336295,
+      "word": "保洁拖地摔倒骨折起诉雇主被驳回",
+      "onboard_time": 1661007933,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336165,
       "num": 336165,
       "word": "临沂舰夺国际军事比赛单项第一",
@@ -9763,6 +9819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326807,
+      "num": 326807,
+      "word": "2022年QQ飞车手游亚洲杯",
+      "onboard_time": 1661009792,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 326296,
       "num": 326296,
       "word": "水利部要求全力保饮水保灌溉",
@@ -10032,14 +10096,6 @@
       "word": "被董宇辉描述的西北打动到了",
       "onboard_time": 1660539096,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315468,
-      "num": 262486,
-      "word": "11岁女孩痛经哭闹不止查出2个子宫",
-      "onboard_time": 1661009372,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -11251,6 +11307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270182,
+      "num": 270182,
+      "word": "张嘉文首次露脸直播",
+      "onboard_time": 1661010751,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269824,
       "num": 260385,
       "word": "薛之谦张信哲新歌准备了四年",
@@ -11681,6 +11745,14 @@
       "onboard_time": 1660528769,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255871,
+      "num": 255871,
+      "word": "1500座阿尔卑斯冰川或半数在30年内消失",
+      "onboard_time": 1661011590,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 255723,
@@ -12507,6 +12579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226862,
+      "num": 226862,
+      "word": "真的很羡慕从小就幸福的人",
+      "onboard_time": 1661007513,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226699,
       "num": 226699,
       "word": "邻居冒雨帮男子抢收2千斤玉米",
@@ -12601,22 +12681,6 @@
       "onboard_time": 1660481973,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221488,
-      "num": 221488,
-      "word": "真的很羡慕从小就幸福的人",
-      "onboard_time": 1661007513,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 221433,
-      "num": 218340,
-      "word": "保洁拖地摔倒骨折起诉雇主被驳回",
-      "onboard_time": 1661007933,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220748,
@@ -12993,14 +13057,6 @@
       "onboard_time": 1660555109,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207189,
-      "num": 207189,
-      "word": "你有睡眠拖延吗",
-      "onboard_time": 1661008832,
-      "rank": 47,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 207001,
@@ -14139,14 +14195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151939,
-      "num": 151939,
-      "word": "2022年QQ飞车手游亚洲杯",
-      "onboard_time": 1661009792,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151350,
       "num": 1886768,
       "word": "空间站视角看地球转动好治愈",
@@ -14545,6 +14593,14 @@
       "onboard_time": 1660519281,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118810,
+      "num": 118810,
+      "word": "孔庆东",
+      "onboard_time": 1661011471,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118753,
