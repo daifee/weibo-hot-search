@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660995267276,
+  "endTime": 1660999036617,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -209,6 +209,14 @@
       "onboard_time": 1660989569,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3152268,
+      "num": 1560457,
+      "word": "小说男主有了脸",
+      "onboard_time": 1660993409,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 3137928,
@@ -569,6 +577,14 @@
       "onboard_time": 1660808373,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2225111,
+      "num": 2225111,
+      "word": "EDG战胜RNG",
+      "onboard_time": 1660998572,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 2216885,
@@ -1523,6 +1539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1332282,
+      "num": 1332282,
+      "word": "山西Z22次列车落客中发现7名阳性",
+      "onboard_time": 1660996229,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1327732,
       "num": 1327732,
       "word": "网购香猪不足一年长到140斤",
@@ -2200,14 +2224,6 @@
       "word": "凌不疑雨中崩溃",
       "onboard_time": 1660820493,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1090233,
-      "num": 1090233,
-      "word": "小说男主有了脸",
-      "onboard_time": 1660993409,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -3067,6 +3083,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 867566,
+      "num": 756606,
+      "word": "肖战诛仙未公开造型设计图",
+      "onboard_time": 1660994547,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 865879,
+      "num": 865879,
+      "word": "zoo 舞台",
+      "onboard_time": 1660996945,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 863139,
       "num": 812896,
       "word": "刘亦菲谈出道20年的变化",
@@ -3497,6 +3529,14 @@
       "onboard_time": 1660537773,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 770460,
+      "num": 770460,
+      "word": "RNG对战EDG",
+      "onboard_time": 1660988487,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 770298,
@@ -4451,14 +4491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616050,
-      "num": 616050,
-      "word": "RNG对战EDG",
-      "onboard_time": 1660988487,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 615516,
       "num": 615516,
       "word": "厦门集美实行人物同检",
@@ -4737,6 +4769,14 @@
       "onboard_time": 1660628256,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586731,
+      "num": 586731,
+      "word": "原来教师资格证还能这样用",
+      "onboard_time": 1660996409,
+      "rank": 12,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 586452,
@@ -5323,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536712,
+      "num": 536712,
+      "word": "SMTOWN2022",
+      "onboard_time": 1660997129,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 535943,
       "num": 535943,
       "word": "捡到无毛猫找领养算犯法吗",
@@ -5409,6 +5457,14 @@
       "onboard_time": 1660827691,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 529722,
+      "num": 529722,
+      "word": "东方青苍大婚告白小兰花",
+      "onboard_time": 1660996409,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 529395,
@@ -5675,6 +5731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513152,
+      "num": 308092,
+      "word": "郑秀妍听到臭豆腐满脸拒绝",
+      "onboard_time": 1660998031,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 512865,
       "num": 512865,
       "word": "武警战士训练被狗狗亲了一口",
@@ -5896,14 +5960,6 @@
       "word": "虞书欣王鹤棣苍兰诀双人直播",
       "onboard_time": 1660604959,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 498219,
-      "num": 342231,
-      "word": "肖战诛仙未公开造型设计图",
-      "onboard_time": 1660994547,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -6145,6 +6201,14 @@
       "onboard_time": 1660832314,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 481665,
+      "num": 305287,
+      "word": "刘浩存庐山电影周红毯生图",
+      "onboard_time": 1660997609,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 481478,
@@ -7699,6 +7763,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 388714,
+      "num": 388714,
+      "word": "蚊子咬人是不挑血型的",
+      "onboard_time": 1660992508,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388546,
       "num": 388546,
       "word": "科目三把大叔心都搞乱了",
@@ -8161,6 +8233,14 @@
       "onboard_time": 1660639833,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 367533,
+      "num": 367533,
+      "word": "把自己丢床上的小猫",
+      "onboard_time": 1660995569,
+      "rank": 17,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 367379,
@@ -8747,14 +8827,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 349443,
-      "num": 349443,
-      "word": "蚊子咬人是不挑血型的",
-      "onboard_time": 1660992508,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349318,
       "num": 349318,
       "word": "进返京人员返岗须持核酸阴性证明",
@@ -8827,6 +8899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345509,
+      "num": 345509,
+      "word": "RNG BP",
+      "onboard_time": 1660998389,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345036,
       "num": 261001,
       "word": "女明星时尚芭莎封面大赏",
@@ -8848,6 +8928,14 @@
       "word": "你心中的8月男友",
       "onboard_time": 1660665331,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344635,
+      "num": 219550,
+      "word": "梁爽梁家富女",
+      "onboard_time": 1660998148,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -9619,6 +9707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316006,
+      "num": 316006,
+      "word": "婆婆给媳妇做月子餐5菜1汤不重样",
+      "onboard_time": 1660997305,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315882,
       "num": 315882,
       "word": "张家口疫情防控",
@@ -10161,6 +10257,14 @@
       "onboard_time": 1660955666,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295809,
+      "num": 183816,
+      "word": "论叶蓁蓁对油条有多执着",
+      "onboard_time": 1660998148,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 295636,
@@ -12155,6 +12259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220083,
+      "num": 220083,
+      "word": "阿姨脖长肿块未在意2年发展成癌",
+      "onboard_time": 1660997788,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219994,
       "num": 219994,
       "word": "狗狗陪蓝朋友锻炼可爱又有点帅",
@@ -12216,6 +12328,14 @@
       "word": "有这3个突出症状要警惕热射病",
       "onboard_time": 1660796132,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218853,
+      "num": 218853,
+      "word": "山西多地发生输入性疫情",
+      "onboard_time": 1660998447,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -12537,6 +12657,14 @@
       "onboard_time": 1660842860,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204812,
+      "num": 204812,
+      "word": "众人楼下拉被子营救悬挂窗外老人",
+      "onboard_time": 1660992508,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 204646,
@@ -12971,6 +13099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 185984,
+      "num": 185984,
+      "word": "正确坐姿改善乌龟颈",
+      "onboard_time": 1660996587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185561,
       "num": 185561,
       "word": "羽生结弦职业首秀",
@@ -13096,6 +13232,14 @@
       "word": "地图上看苏轼一生行程轨迹",
       "onboard_time": 1660660356,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180204,
+      "num": 180204,
+      "word": "消防员拿着未吃完的面包睡着了",
+      "onboard_time": 1660996470,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -13347,6 +13491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167193,
+      "num": 167193,
+      "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
+      "onboard_time": 1660998206,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167189,
       "num": 167189,
       "word": "爱你的人永远不会抛弃你",
@@ -13473,14 +13625,6 @@
       "onboard_time": 1660609290,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159398,
-      "num": 159398,
-      "word": "众人楼下拉被子营救悬挂窗外老人",
-      "onboard_time": 1660992508,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 159045,
@@ -13835,6 +13979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135769,
+      "num": 135769,
+      "word": "苹果曝出严重安全漏洞",
+      "onboard_time": 1660998870,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 135595,
       "num": 1820081,
       "word": "中国这十年",
@@ -14001,6 +14153,14 @@
       "onboard_time": 1660758556,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117536,
+      "num": 117536,
+      "word": "新疆三道海子景区下雪了",
+      "onboard_time": 1660998928,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 117432,
@@ -14176,6 +14336,14 @@
       "word": "九寨沟的水为何踩不得",
       "onboard_time": 1660472670,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97829,
+      "num": 1567039,
+      "word": "我国后续将建造国际月球科研站",
+      "onboard_time": 1660997904,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
