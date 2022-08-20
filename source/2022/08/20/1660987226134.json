@@ -1,0 +1,410 @@
+{
+  "runTime": 1660987226134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2168170,
+        "num": 2168170,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1756808,
+        "num": 1756808,
+        "word": "台湾人的输入法有多麻烦",
+        "onboard_time": 1660982068,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39101,
+        "num": 1733698,
+        "word": "空间站视角看地球转动好治愈",
+        "onboard_time": 1660957705,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1714138,
+        "num": 1714138,
+        "word": "专家称取消公摊面积不可行",
+        "onboard_time": 1660980567,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271955,
+        "num": 1271955,
+        "word": "新东方向所有离开老师发出职位邀请",
+        "onboard_time": 1660984649,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950458,
+        "num": 950458,
+        "word": "苍兰诀 真的很高明",
+        "onboard_time": 1660984048,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854724,
+        "num": 854724,
+        "word": "妈妈独自过马路3岁女儿被卷车底",
+        "onboard_time": 1660984166,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 814444,
+        "num": 814444,
+        "word": "郭晓婷问今晚你们想坐哪桌",
+        "onboard_time": 1660982788,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369562,
+        "num": 369562,
+        "word": "捡到无毛猫找领养算犯法吗",
+        "onboard_time": 1660979007,
+        "rank": 8,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 333988,
+        "num": 333988,
+        "word": "晚上抱什么睡觉能睡得最香",
+        "onboard_time": 1660964607,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1076140,
+        "num": 332324,
+        "word": "钟南山称目前没有药能预防新冠",
+        "onboard_time": 1660978704,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681060,
+        "num": 329113,
+        "word": "王一博的手真的好大",
+        "onboard_time": 1660981164,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567547,
+        "num": 327848,
+        "word": "男子哭诉当7年上门女婿经历",
+        "onboard_time": 1660975047,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486059,
+        "num": 325593,
+        "word": "张楠退出中国羽毛球国家队",
+        "onboard_time": 1660983450,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404159,
+        "num": 322864,
+        "word": "网传玉骨遥定档0821",
+        "onboard_time": 1660980386,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375197,
+        "num": 320683,
+        "word": "关晓彤在梁爽直播间教瘦腿操",
+        "onboard_time": 1660982068,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318332,
+        "num": 318332,
+        "word": "锦州4人核酸检测结果呈阳性",
+        "onboard_time": 1660982846,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312823,
+        "num": 312823,
+        "word": "90后姑娘失业后每天假装上班",
+        "onboard_time": 1660963229,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 299995,
+        "num": 299995,
+        "word": "男子5次偷1岁孩子存钱罐2000元",
+        "onboard_time": 1660971688,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264913,
+        "num": 264913,
+        "word": "阳光玫瑰葡萄价格跳水",
+        "onboard_time": 1660959685,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1153018,
+        "num": 263727,
+        "word": "吴世勋因未能参加smtown向粉丝道歉",
+        "onboard_time": 1660986447,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520031,
+        "num": 253778,
+        "word": "百度网盘贴出受案回执和律师函",
+        "onboard_time": 1660983748,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 322715,
+        "num": 251657,
+        "word": "南太铉",
+        "onboard_time": 1660978827,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288906,
+        "num": 247203,
+        "word": "杨幂白宇新剧谢谢你医生集数变更",
+        "onboard_time": 1660980208,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242261,
+        "num": 242261,
+        "word": "乐山大佛三江汇流处水位极低",
+        "onboard_time": 1660985488,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 240742,
+        "num": 240742,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237978,
+        "num": 237978,
+        "word": "美术老师花5天用8万颗钉子拼出歼20",
+        "onboard_time": 1660981228,
+        "rank": 26,
+        "category": "教育,军事"
+      },
+      {
+        "raw_hot": 232590,
+        "num": 232590,
+        "word": "疯狂毒贩街头驾车冲撞警车",
+        "onboard_time": 1660979487,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231943,
+        "num": 231943,
+        "word": "重庆为啥这么热",
+        "onboard_time": 1660981828,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225697,
+        "num": 225697,
+        "word": "纳粹德国舰队因河流干旱重现天日",
+        "onboard_time": 1660976787,
+        "rank": 29,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 279026,
+        "num": 222337,
+        "word": "杨紫成毅沉香如屑豆瓣开分5.6分",
+        "onboard_time": 1660972529,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275872,
+        "num": 211034,
+        "word": "王大陆问张云龙结婚了没",
+        "onboard_time": 1660974387,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254159,
+        "num": 203528,
+        "word": "杨戬",
+        "onboard_time": 1660978165,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232805,
+        "num": 196094,
+        "word": "于文文脱5黑色西装造型",
+        "onboard_time": 1660981888,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195445,
+        "num": 195445,
+        "word": "它是怎么说服大狗载它的",
+        "onboard_time": 1660981164,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "6名港独组织成员认罪",
+        "onboard_time": 1660979367,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159824,
+        "num": 159824,
+        "word": "他们偷走了我人生中第一个朋友",
+        "onboard_time": 1660986447,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150866,
+        "num": 150866,
+        "word": "打火机锅中爆炸服务员被溅满脸油",
+        "onboard_time": 1660973429,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146457,
+        "num": 146457,
+        "word": "中国驻美使馆回应反华不法分子滋扰使馆",
+        "onboard_time": 1660972167,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 141849,
+        "num": 141849,
+        "word": "大妈欲靠风扇过夏天热成眼底出血",
+        "onboard_time": 1660973127,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217144,
+        "num": 141730,
+        "word": "东方青苍的衣橱",
+        "onboard_time": 1660982367,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197752,
+        "num": 139675,
+        "word": "张真源重庆湖广会馆拍摄古风写真",
+        "onboard_time": 1660979727,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134901,
+        "num": 134901,
+        "word": "十年前的国漫也太绝了吧",
+        "onboard_time": 1660968448,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133890,
+        "num": 133890,
+        "word": "水果为什么越来越贵",
+        "onboard_time": 1660970907,
+        "rank": 43,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 131933,
+        "num": 131933,
+        "word": "听我说谢谢你四六级",
+        "onboard_time": 1660964969,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126112,
+        "num": 126112,
+        "word": "人类的嘴瓢还有救吗",
+        "onboard_time": 1660983867,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107738,
+        "num": 107738,
+        "word": "今天江姐诞辰102周年",
+        "onboard_time": 1660986807,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137609,
+        "num": 105712,
+        "word": "新裤子演唱会",
+        "onboard_time": 1660987167,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102729,
+        "num": 102729,
+        "word": "锦州4名核酸异常人员曾自驾西藏",
+        "onboard_time": 1660983148,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90843,
+        "num": 90843,
+        "word": "济南交警摩友为癌症女童圆机车梦",
+        "onboard_time": 1660978763,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国长征系列火箭创下新纪录#"
+    }
+  }
+}
