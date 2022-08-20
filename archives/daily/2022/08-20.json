@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660972931533,
+  "endTime": 1660973828413,
   "band_list": [
     {
       "raw_hot": 3137928,
@@ -41,6 +41,14 @@
       "onboard_time": 1660971567,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1663278,
+      "num": 1663278,
+      "word": "李兰娟 新冠是乙类传染病",
+      "onboard_time": 1660970847,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1533650,
@@ -131,20 +139,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 990668,
-      "num": 656660,
-      "word": "李兰娟 新冠是乙类传染病",
-      "onboard_time": 1660970847,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 955470,
       "num": 955470,
       "word": "67岁保姆闪婚获赠房产后换锁失联",
       "onboard_time": 1660961609,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937443,
+      "num": 937443,
+      "word": "杨紫成毅沉香如屑豆瓣开分5.6分",
+      "onboard_time": 1660972529,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 933783,
@@ -171,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 890728,
+      "num": 890728,
+      "word": "男子5次偷1岁孩子存钱罐2000元",
+      "onboard_time": 1660971688,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870436,
       "num": 870436,
       "word": "喝凉水真的伤胃吗",
       "onboard_time": 1660957046,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840607,
+      "num": 672095,
+      "word": "王鹤棣回复霸总男友是什么体验",
+      "onboard_time": 1660973547,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 834928,
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523921,
+      "num": 523921,
+      "word": "中国驻美使馆回应反华不法分子滋扰使馆",
+      "onboard_time": 1660972167,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 522133,
       "num": 402221,
       "word": "王一博刘雨昕韩庚李承铉街舞5作品战海报",
@@ -371,22 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 464780,
-      "num": 464780,
-      "word": "男子5次偷1岁孩子存钱罐2000元",
-      "onboard_time": 1660971688,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463461,
-      "num": 463461,
-      "word": "杨紫成毅沉香如屑豆瓣开分5.6分",
-      "onboard_time": 1660972529,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 458467,
       "num": 377683,
       "word": "黑话律师",
@@ -419,6 +435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 434862,
+      "num": 387001,
+      "word": "杨和苏 无名",
+      "onboard_time": 1660972167,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432644,
       "num": 432644,
       "word": "男子约好友偷酒错把信息发给民警",
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419191,
+      "num": 379588,
+      "word": "SNH48",
+      "onboard_time": 1660972828,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412042,
       "num": 412042,
       "word": "时代少年团演唱会合作歌单",
@@ -457,6 +489,14 @@
       "onboard_time": 1660958126,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 388546,
+      "num": 388546,
+      "word": "科目三把大叔心都搞乱了",
+      "onboard_time": 1660969526,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 385526,
@@ -491,12 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 371357,
-      "num": 371357,
-      "word": "科目三把大叔心都搞乱了",
-      "onboard_time": 1660969526,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 369798,
+      "num": 369798,
+      "word": "我帮Crisp许个愿",
+      "onboard_time": 1660971567,
+      "rank": 23,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 369158,
@@ -515,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357162,
-      "num": 357162,
-      "word": "我帮Crisp许个愿",
-      "onboard_time": 1660971567,
-      "rank": 23,
-      "category": "游戏,游戏"
+      "raw_hot": 360568,
+      "num": 360568,
+      "word": "水果为什么越来越贵",
+      "onboard_time": 1660970907,
+      "rank": 45,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 349754,
@@ -529,14 +569,6 @@
       "onboard_time": 1660929680,
       "rank": 31,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 346758,
-      "num": 346758,
-      "word": "水果为什么越来越贵",
-      "onboard_time": 1660970907,
-      "rank": 45,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 344387,
@@ -595,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325396,
+      "num": 245993,
+      "word": "GAI朝天门舞台太帅咯",
+      "onboard_time": 1660973547,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307497,
       "num": 307497,
       "word": "高温天男子皮鞋底被烫化",
@@ -641,14 +681,6 @@
       "onboard_time": 1660960108,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288890,
-      "num": 256668,
-      "word": "杨和苏 无名",
-      "onboard_time": 1660972167,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 284351,
@@ -699,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268792,
+      "num": 268792,
+      "word": "山西新增本土确诊病例4例",
+      "onboard_time": 1660969767,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263824,
       "num": 263824,
       "word": "四川永丰村水稻开镰收割",
@@ -713,22 +753,6 @@
       "onboard_time": 1660958726,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260596,
-      "num": 260596,
-      "word": "中国驻美使馆回应反华不法分子滋扰使馆",
-      "onboard_time": 1660972167,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 260046,
-      "num": 190316,
-      "word": "SNH48",
-      "onboard_time": 1660972828,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 258015,
@@ -753,14 +777,6 @@
       "onboard_time": 1660910129,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246874,
-      "num": 246874,
-      "word": "山西新增本土确诊病例4例",
-      "onboard_time": 1660969767,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243613,
@@ -809,6 +825,14 @@
       "onboard_time": 1660954525,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 226699,
+      "num": 226699,
+      "word": "邻居冒雨帮男子抢收2千斤玉米",
+      "onboard_time": 1660971987,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 224494,
@@ -875,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211339,
+      "num": 211339,
+      "word": "听我说谢谢你四六级",
+      "onboard_time": 1660964969,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209408,
       "num": 209408,
       "word": "北京8月19日新增本土感染者5例",
@@ -897,14 +929,6 @@
       "onboard_time": 1660913552,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203535,
-      "num": 203535,
-      "word": "听我说谢谢你四六级",
-      "onboard_time": 1660964969,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 202004,
@@ -955,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180800,
-      "num": 180800,
-      "word": "邻居冒雨帮男子抢收2千斤玉米",
-      "onboard_time": 1660971987,
-      "rank": 43,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 179971,
       "num": 179971,
       "word": "重庆新增本土确诊5例无症状13例",
@@ -977,6 +993,14 @@
       "onboard_time": 1660922731,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173037,
+      "num": 173037,
+      "word": "大妈欲靠风扇过夏天热成眼底出血",
+      "onboard_time": 1660973127,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172318,
@@ -1059,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150687,
+      "num": 150687,
+      "word": "打火机锅中爆炸服务员被溅满脸油",
+      "onboard_time": 1660973429,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146323,
       "num": 146323,
       "word": "沙坪坝新增5例确诊10例无症状",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1660915169,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 130170,
+      "num": 130170,
+      "word": "雅思",
+      "onboard_time": 1660973787,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 128450,

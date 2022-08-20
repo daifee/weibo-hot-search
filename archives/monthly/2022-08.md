@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/20 13:22:11
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/20 13:37:08
 </p>
 </blockquote>
 <p>
@@ -3423,6 +3423,12 @@ Lisa和Jennie双rap（热度：1664486）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E5%A8%9F%20%E6%96%B0%E5%86%A0%E6%98%AF%E4%B9%99%E7%B1%BB%E4%BC%A0%E6%9F%93%E7%97%85%23" target="weibo">
+李兰娟 新冠是乙类传染病（热度：1663278）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BB%8A%E6%97%A5%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%9C%BA%23" target="weibo">
 网传偷偷藏不住今日正式开机（热度：1660946）
 </a>
@@ -6005,12 +6011,6 @@ iPhone支持Siri操作关机（热度：1135548）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF%E5%8F%A3%E4%B8%AD%E7%9A%84%E6%B0%91%E4%B8%BB%E6%98%AF%E7%88%AC%E6%BB%A1%E8%99%B1%E5%AD%90%E7%9A%84%E8%A2%8D%E5%AD%90%23" target="weibo">
 佩洛西口中的民主是爬满虱子的袍子（热度：1124645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%8B%A5%E5%BD%93%E9%80%89%E6%80%BB%E7%BB%9F%E6%88%96%E5%B0%86%E6%90%9C%E6%9F%A5%E6%8B%9C%E7%99%BB%E4%BD%8F%E5%AE%85%23" target="weibo">
-特朗普若当选总统或将搜查拜登住宅（热度：1123986）
 </a>
 </li>
 
