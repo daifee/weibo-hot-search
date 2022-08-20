@@ -1,0 +1,410 @@
+{
+  "runTime": 1660995267276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3134709,
+        "num": 3134709,
+        "word": "灵隐寺暂停请购十八籽佛珠手串",
+        "onboard_time": 1660989569,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679131,
+        "num": 1679131,
+        "word": "美国一大学生炒股1个月赚7亿",
+        "onboard_time": 1660991545,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24065,
+        "num": 1640971,
+        "word": "空间站视角看地球转动好治愈",
+        "onboard_time": 1660957705,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1622946,
+        "num": 1622946,
+        "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+        "onboard_time": 1660992268,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1166153,
+        "num": 1166153,
+        "word": "海底捞回应大学生被炸伤眼睛",
+        "onboard_time": 1660985667,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207372,
+        "num": 1137223,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1090233,
+        "num": 1090233,
+        "word": "小说男主有了脸",
+        "onboard_time": 1660993409,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 955456,
+        "num": 955456,
+        "word": "老人走失3天被找到时口袋塞满钱",
+        "onboard_time": 1660987767,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 949242,
+        "num": 949242,
+        "word": "苍兰诀集体婚礼",
+        "onboard_time": 1660988125,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 924843,
+        "num": 924843,
+        "word": "新东方向所有离开老师发出职位邀请",
+        "onboard_time": 1660984649,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596102,
+        "num": 596102,
+        "word": "虞书欣小兰花大婚造型花絮",
+        "onboard_time": 1660994427,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559860,
+        "num": 559860,
+        "word": "玉骨遥方辟谣定档0821",
+        "onboard_time": 1660990108,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526753,
+        "num": 526753,
+        "word": "苍兰诀导演",
+        "onboard_time": 1660988248,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453235,
+        "num": 453235,
+        "word": "上海暴雨",
+        "onboard_time": 1660989327,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444582,
+        "num": 444582,
+        "word": "RNG对战EDG",
+        "onboard_time": 1660988487,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423999,
+        "num": 423999,
+        "word": "钟南山称目前没有药能预防新冠",
+        "onboard_time": 1660978704,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420214,
+        "num": 420214,
+        "word": "男孩地铁小便吵闹母亲无视",
+        "onboard_time": 1660988788,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386517,
+        "num": 386517,
+        "word": "这才是冰粉届的颜值天花板",
+        "onboard_time": 1660990048,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356738,
+        "num": 356738,
+        "word": "妈妈独自过马路3岁女儿被卷车底",
+        "onboard_time": 1660984166,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 349443,
+        "num": 349443,
+        "word": "蚊子咬人是不挑血型的",
+        "onboard_time": 1660992508,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1781153,
+        "num": 344418,
+        "word": "王鹤棣吴磊王一博成毅暑期男神",
+        "onboard_time": 1660992150,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498219,
+        "num": 342231,
+        "word": "肖战诛仙未公开造型设计图",
+        "onboard_time": 1660994547,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414901,
+        "num": 340221,
+        "word": "玄夜烫发染发编发",
+        "onboard_time": 1660992628,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336705,
+        "num": 336705,
+        "word": "专家称取消公摊面积不可行",
+        "onboard_time": 1660980567,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320860,
+        "num": 320860,
+        "word": "俄黑海舰队司令部遭到无人机攻击",
+        "onboard_time": 1660988007,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 278447,
+        "num": 278447,
+        "word": "他们偷走了我人生中第一个朋友",
+        "onboard_time": 1660986447,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275606,
+        "num": 275606,
+        "word": "Viper",
+        "onboard_time": 1660990706,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272076,
+        "num": 272076,
+        "word": "男子哭诉当7年上门女婿经历",
+        "onboard_time": 1660975047,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240957,
+        "num": 240957,
+        "word": "和喜欢的人错过什么体验",
+        "onboard_time": 1660987407,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233884,
+        "num": 233884,
+        "word": "劳荣枝案二审休庭择期宣判",
+        "onboard_time": 1660994609,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380800,
+        "num": 233108,
+        "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
+        "onboard_time": 1660990229,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342777,
+        "num": 232104,
+        "word": "任嘉伦再次体验自制剧",
+        "onboard_time": 1660991368,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292979,
+        "num": 231373,
+        "word": "杨戬",
+        "onboard_time": 1660978165,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273080,
+        "num": 229847,
+        "word": "苍兰诀 真的很高明",
+        "onboard_time": 1660984048,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229109,
+        "num": 229109,
+        "word": "重庆涪陵区南川区山火明火已全部扑灭",
+        "onboard_time": 1660990586,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187037,
+        "num": 187037,
+        "word": "没竽充数的小朋友",
+        "onboard_time": 1660990409,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171264,
+        "num": 171264,
+        "word": "广州一高校4男生扛塔答谢室友",
+        "onboard_time": 1660988068,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 159398,
+        "num": 159398,
+        "word": "众人楼下拉被子营救悬挂窗外老人",
+        "onboard_time": 1660992508,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114610,
+        "num": 114610,
+        "word": "男子5次偷1岁孩子存钱罐2000元",
+        "onboard_time": 1660971688,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113034,
+        "num": 113034,
+        "word": "乐山大佛三江汇流处水位极低",
+        "onboard_time": 1660985488,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 162026,
+        "num": 111529,
+        "word": "断桥票房破2亿",
+        "onboard_time": 1660989389,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142066,
+        "num": 111083,
+        "word": "金泰妍音中舞台直拍",
+        "onboard_time": 1660991125,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106980,
+        "num": 106980,
+        "word": "美术老师花5天用8万颗钉子拼出歼20",
+        "onboard_time": 1660981228,
+        "rank": 42,
+        "category": "教育,军事"
+      },
+      {
+        "raw_hot": 104057,
+        "num": 104057,
+        "word": "张楠退出中国羽毛球国家队",
+        "onboard_time": 1660983450,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98276,
+        "num": 98276,
+        "word": "捡到无毛猫找领养算犯法吗",
+        "onboard_time": 1660979007,
+        "rank": 44,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 97970,
+        "num": 97970,
+        "word": "疯狂毒贩街头驾车冲撞警车",
+        "onboard_time": 1660979487,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97005,
+        "num": 97005,
+        "word": "重庆为啥这么热",
+        "onboard_time": 1660981828,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96828,
+        "num": 96828,
+        "word": "晚上抱什么睡觉能睡得最香",
+        "onboard_time": 1660964607,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 316265,
+        "num": 96408,
+        "word": "SNH48今日总选",
+        "onboard_time": 1660993768,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95714,
+        "num": 95714,
+        "word": "毕业后你会从事本专业工作吗",
+        "onboard_time": 1660988306,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国长征系列火箭创下新纪录#"
+    }
+  }
+}
