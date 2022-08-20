@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661023996304,
+  "endTime": 1661026939842,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -14971,6 +14971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65000,
+      "num": 37781,
+      "word": "顾客换菜被拒咒店主未出生孩子",
+      "onboard_time": 1661023753,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63989,
       "num": 63989,
       "word": "饭堂直播",
@@ -15025,6 +15033,14 @@
       "onboard_time": 1661021053,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 46849,
+      "num": 46849,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 37919,
@@ -15115,6 +15131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30247,
+      "num": 30247,
+      "word": "RNG伤害",
+      "onboard_time": 1661024891,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28375,
       "num": 497119,
       "word": "主播的门槛该不该这么低",
@@ -15203,14 +15227,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 16416,
-      "num": 16416,
-      "word": "顾客换菜被拒咒店主未出生孩子",
-      "onboard_time": 1661023753,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15631,
       "num": 15631,
       "word": "今晚看月升沧海",
@@ -15233,6 +15249,14 @@
       "onboard_time": 1660512131,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11454,
+      "num": 11454,
+      "word": "Scout的沙皇",
+      "onboard_time": 1661026331,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 10481,

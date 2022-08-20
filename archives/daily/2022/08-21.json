@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661023996304,
+  "endTime": 1661026939842,
   "band_list": [
     {
       "raw_hot": 2944449,
@@ -427,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65000,
+      "num": 37781,
+      "word": "顾客换菜被拒咒店主未出生孩子",
+      "onboard_time": 1661023753,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47113,
       "num": 47113,
       "word": "外交部驻港公署正告外部宵小",
       "onboard_time": 1661021053,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 46849,
+      "num": 46849,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 30247,
+      "num": 30247,
+      "word": "RNG伤害",
+      "onboard_time": 1661024891,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 24690,
@@ -443,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16416,
-      "num": 16416,
-      "word": "顾客换菜被拒咒店主未出生孩子",
-      "onboard_time": 1661023753,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 11454,
+      "num": 11454,
+      "word": "Scout的沙皇",
+      "onboard_time": 1661026331,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661023996304,
+  "endTime": 1661026939842,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -45835,6 +45835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65000,
+      "num": 37781,
+      "word": "顾客换菜被拒咒店主未出生孩子",
+      "onboard_time": 1661023753,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63989,
       "num": 63989,
       "word": "饭堂直播",
@@ -46057,6 +46065,14 @@
       "onboard_time": 1661021053,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 46849,
+      "num": 46849,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 46171,
@@ -46323,6 +46339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30247,
+      "num": 30247,
+      "word": "RNG伤害",
+      "onboard_time": 1661024891,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28848,
       "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
@@ -46571,14 +46595,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 16416,
-      "num": 16416,
-      "word": "顾客换菜被拒咒店主未出生孩子",
-      "onboard_time": 1661023753,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16097,
       "num": 16097,
       "word": "孟子义蹭饭体面人",
@@ -46665,6 +46681,14 @@
       "onboard_time": 1659904391,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11454,
+      "num": 11454,
+      "word": "Scout的沙皇",
+      "onboard_time": 1661026331,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11283,
