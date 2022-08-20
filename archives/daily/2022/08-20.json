@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1661008909923,
+  "endTime": 1661009960790,
   "band_list": [
     {
       "raw_hot": 5072729,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2420297,
+      "num": 2420297,
+      "word": "乐山大佛真身全部露出",
+      "onboard_time": 1661006432,
+      "rank": 1,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 2365649,
       "num": 2365649,
       "word": "EDG战胜RNG",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 2153821,
-      "num": 1577731,
+      "num": 1835052,
       "word": "刘恺威不敢看镜头",
       "onboard_time": 1661004216,
       "rank": 20,
@@ -147,12 +155,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1924208,
-      "num": 1924208,
-      "word": "乐山大佛真身全部露出",
-      "onboard_time": 1661006432,
-      "rank": 1,
-      "category": "旅游,社会新闻"
+      "raw_hot": 1856456,
+      "num": 1856456,
+      "word": "重庆一家11口溶洞避暑9人失联",
+      "onboard_time": 1661007574,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1756808,
@@ -305,14 +313,6 @@
       "onboard_time": 1660986447,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1136355,
-      "num": 522551,
-      "word": "重庆一家11口溶洞避暑9人失联",
-      "onboard_time": 1661007574,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1135401,
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 789273,
+      "num": 789273,
+      "word": "王一博剧透央视秋晚舞台",
+      "onboard_time": 1661008953,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782316,
       "num": 782316,
       "word": "辣椒酱爆炸似案发现场照片吓坏男友",
@@ -705,6 +713,14 @@
       "onboard_time": 1660989327,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586839,
+      "num": 488823,
+      "word": "赵露思清唱星汉灿烂主题曲",
+      "onboard_time": 1661009312,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 586539,
@@ -1115,6 +1131,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 401151,
+      "num": 267637,
+      "word": "EDG全员诀人",
+      "onboard_time": 1661008832,
+      "rank": 40,
+      "category": "游戏,影视"
+    },
+    {
       "raw_hot": 396439,
       "num": 396439,
       "word": "大妈欲靠风扇过夏天热成眼底出血",
@@ -1140,11 +1164,19 @@
     },
     {
       "raw_hot": 390774,
-      "num": 209951,
+      "num": 220888,
       "word": "SMTOWN大合唱",
       "onboard_time": 1661007390,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 389766,
+      "num": 389766,
+      "word": "为什么说钝感比敏感更重要",
+      "onboard_time": 1661005833,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 389150,
@@ -1195,20 +1227,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385272,
+      "num": 385272,
+      "word": "劳荣枝案受害人家属发声",
+      "onboard_time": 1661006971,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384003,
       "num": 384003,
       "word": "苍兰诀大婚剧照",
       "onboard_time": 1660968927,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379417,
-      "num": 379417,
-      "word": "为什么说钝感比敏感更重要",
-      "onboard_time": 1661005833,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 378385,
@@ -1475,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325198,
-      "num": 325198,
-      "word": "劳荣枝案受害人家属发声",
-      "onboard_time": 1661006971,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325020,
       "num": 325020,
       "word": "黑龙江疫情防控",
@@ -1507,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 315468,
+      "num": 262486,
+      "word": "11岁女孩痛经哭闹不止查出2个子宫",
+      "onboard_time": 1661009372,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307497,
       "num": 307497,
       "word": "高温天男子皮鞋底被烫化",
@@ -1521,14 +1553,6 @@
       "onboard_time": 1660973907,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303780,
-      "num": 139989,
-      "word": "EDG全员诀人",
-      "onboard_time": 1661008832,
-      "rank": 40,
-      "category": "游戏,影视"
     },
     {
       "raw_hot": 303677,
@@ -1891,6 +1915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221488,
+      "num": 221488,
+      "word": "真的很羡慕从小就幸福的人",
+      "onboard_time": 1661007513,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 221433,
+      "num": 218340,
+      "word": "保洁拖地摔倒骨折起诉雇主被驳回",
+      "onboard_time": 1661007933,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220748,
       "num": 220748,
       "word": "只有袁慎受伤的世界达成了",
@@ -1947,14 +1987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212878,
-      "num": 212878,
-      "word": "真的很羡慕从小就幸福的人",
-      "onboard_time": 1661007513,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212777,
       "num": 167407,
       "word": "明日方舟",
@@ -1979,12 +2011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207189,
+      "num": 207189,
+      "word": "你有睡眠拖延吗",
+      "onboard_time": 1661008832,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 205251,
       "num": 205251,
       "word": "西安4天新增54例阳性感染者",
       "onboard_time": 1660913552,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204862,
+      "num": 204862,
+      "word": "小胖的曜",
+      "onboard_time": 1661008711,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 204812,
@@ -2009,14 +2057,6 @@
       "onboard_time": 1660970429,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200657,
-      "num": 200657,
-      "word": "小胖的曜",
-      "onboard_time": 1661008711,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 196027,
@@ -2235,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151939,
+      "num": 151939,
+      "word": "2022年QQ飞车手游亚洲杯",
+      "onboard_time": 1661009792,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151350,
       "num": 1886768,
       "word": "空间站视角看地球转动好治愈",
@@ -2347,14 +2395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129638,
-      "num": 129638,
-      "word": "保洁拖地摔倒骨折起诉雇主被驳回",
-      "onboard_time": 1661007933,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128450,
       "num": 128450,
       "word": "赵丽颖沈璃镜头下的风景",
@@ -2369,14 +2409,6 @@
       "onboard_time": 1660951519,
       "rank": 25,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 124003,
-      "num": 124003,
-      "word": "你有睡眠拖延吗",
-      "onboard_time": 1661008832,
-      "rank": 47,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 123470,
