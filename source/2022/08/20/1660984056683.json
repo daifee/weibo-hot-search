@@ -1,0 +1,410 @@
+{
+  "runTime": 1660984056683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2608107,
+        "num": 2608107,
+        "word": "苏有朋的左耳刷掉了多少人",
+        "onboard_time": 1660975407,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2464320,
+        "num": 2464320,
+        "word": "专家称取消公摊面积不可行",
+        "onboard_time": 1660980567,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63302,
+        "num": 1332467,
+        "word": "空间站视角看地球转动好治愈",
+        "onboard_time": 1660957705,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062538,
+        "num": 1062538,
+        "word": "台湾人的输入法有多麻烦",
+        "onboard_time": 1660982068,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 887280,
+        "num": 887280,
+        "word": "王一博的手真的好大",
+        "onboard_time": 1660981164,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 882071,
+        "num": 882071,
+        "word": "郭晓婷问今晚你们想坐哪桌",
+        "onboard_time": 1660982788,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552323,
+        "num": 552323,
+        "word": "晚上抱什么睡觉能睡得最香",
+        "onboard_time": 1660964607,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 535943,
+        "num": 535943,
+        "word": "捡到无毛猫找领养算犯法吗",
+        "onboard_time": 1660979007,
+        "rank": 7,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 444134,
+        "num": 444134,
+        "word": "90后姑娘失业后每天假装上班",
+        "onboard_time": 1660963229,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 417565,
+        "num": 417565,
+        "word": "阳光玫瑰葡萄价格跳水",
+        "onboard_time": 1660959685,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1630545,
+        "num": 417409,
+        "word": "钟南山称目前没有药能预防新冠",
+        "onboard_time": 1660978704,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760859,
+        "num": 404970,
+        "word": "网传玉骨遥定档0821",
+        "onboard_time": 1660980386,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 741146,
+        "num": 398160,
+        "word": "男子哭诉当7年上门女婿经历",
+        "onboard_time": 1660975047,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710637,
+        "num": 397359,
+        "word": "南太铉",
+        "onboard_time": 1660978827,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569784,
+        "num": 387653,
+        "word": "杨幂白宇新剧谢谢你医生集数变更",
+        "onboard_time": 1660980208,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385213,
+        "num": 385213,
+        "word": "男子5次偷1岁孩子存钱罐2000元",
+        "onboard_time": 1660971688,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354969,
+        "num": 354969,
+        "word": "纳粹德国舰队因河流干旱重现天日",
+        "onboard_time": 1660976787,
+        "rank": 16,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 352417,
+        "num": 352417,
+        "word": "6名港独组织成员认罪",
+        "onboard_time": 1660979367,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 331209,
+        "num": 331209,
+        "word": "疯狂毒贩街头驾车冲撞警车",
+        "onboard_time": 1660979487,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275957,
+        "num": 275957,
+        "word": "重庆为啥这么热",
+        "onboard_time": 1660981828,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416301,
+        "num": 263695,
+        "word": "王大陆问张云龙结婚了没",
+        "onboard_time": 1660974387,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385658,
+        "num": 253410,
+        "word": "东方青苍的衣橱",
+        "onboard_time": 1660982367,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361085,
+        "num": 251539,
+        "word": "于文文脱5黑色西装造型",
+        "onboard_time": 1660981888,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242531,
+        "num": 242531,
+        "word": "锦州4人核酸检测结果呈阳性",
+        "onboard_time": 1660982846,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229223,
+        "num": 229223,
+        "word": "打火机锅中爆炸服务员被溅满脸油",
+        "onboard_time": 1660973429,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227579,
+        "num": 227579,
+        "word": "听我说谢谢你四六级",
+        "onboard_time": 1660964969,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222606,
+        "num": 222606,
+        "word": "大妈欲靠风扇过夏天热成眼底出血",
+        "onboard_time": 1660973127,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218866,
+        "num": 218866,
+        "word": "美术老师花5天用8万颗钉子拼出歼20",
+        "onboard_time": 1660981228,
+        "rank": 27,
+        "category": "教育,军事"
+      },
+      {
+        "raw_hot": 204186,
+        "num": 204186,
+        "word": "张楠退出中国羽毛球国家队",
+        "onboard_time": 1660983450,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191887,
+        "num": 191887,
+        "word": "十年前的国漫也太绝了吧",
+        "onboard_time": 1660968448,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 295636,
+        "num": 190996,
+        "word": "苍兰诀今晚吃席",
+        "onboard_time": 1660983269,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280921,
+        "num": 190593,
+        "word": "杨紫成毅沉香如屑豆瓣开分5.6分",
+        "onboard_time": 1660972529,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259049,
+        "num": 189302,
+        "word": "王鹤棣和妈妈的对话太好笑了",
+        "onboard_time": 1660978527,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256826,
+        "num": 187094,
+        "word": "张真源重庆湖广会馆拍摄古风写真",
+        "onboard_time": 1660979727,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186767,
+        "num": 186767,
+        "word": "济南交警摩友为癌症女童圆机车梦",
+        "onboard_time": 1660978763,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 252449,
+        "num": 185860,
+        "word": "杨戬",
+        "onboard_time": 1660978165,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179362,
+        "num": 179362,
+        "word": "中国驻美使馆回应反华不法分子滋扰使馆",
+        "onboard_time": 1660972167,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 158182,
+        "num": 158182,
+        "word": "大学生点海底捞外卖被炸伤眼睛",
+        "onboard_time": 1660955067,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153100,
+        "num": 153100,
+        "word": "水果为什么越来越贵",
+        "onboard_time": 1660970907,
+        "rank": 38,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 149111,
+        "num": 149111,
+        "word": "男子酒后躺河面睡觉被当成浮尸",
+        "onboard_time": 1660967548,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148998,
+        "num": 148998,
+        "word": "锦州4名核酸异常人员曾自驾西藏",
+        "onboard_time": 1660983148,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127330,
+        "num": 127330,
+        "word": "我帮Crisp许个愿",
+        "onboard_time": 1660971567,
+        "rank": 41,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 123913,
+        "word": "百度网盘贴出受案回执和律师函",
+        "onboard_time": 1660983748,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 118668,
+        "num": 118668,
+        "word": "67岁保姆闪婚获赠房产后换锁失联",
+        "onboard_time": 1660961609,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111110,
+        "num": 111110,
+        "word": "山西新增本土确诊病例4例",
+        "onboard_time": 1660969767,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108264,
+        "num": 108264,
+        "word": "哈士奇和边牧的区别有多大",
+        "onboard_time": 1660980688,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101421,
+        "num": 101421,
+        "word": "它是怎么说服大狗载它的",
+        "onboard_time": 1660981164,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269465,
+        "num": 99180,
+        "word": "苍兰诀 真的很高明",
+        "onboard_time": 1660984048,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96768,
+        "num": 96768,
+        "word": "人类的嘴瓢还有救吗",
+        "onboard_time": 1660983867,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95081,
+        "num": 95081,
+        "word": "科目三把大叔心都搞乱了",
+        "onboard_time": 1660969526,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界职业技术教育发展大会#"
+    }
+  }
+}
