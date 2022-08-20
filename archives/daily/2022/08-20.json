@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660991968809,
+  "endTime": 1660994278741,
   "band_list": [
     {
       "raw_hot": 3792656,
@@ -16,6 +16,14 @@
       "word": "女骑手怀孕6个月仍在送外卖",
       "onboard_time": 1660987527,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3154372,
+      "num": 3154372,
+      "word": "灵隐寺暂停请购十八籽佛珠手串",
+      "onboard_time": 1660989569,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1937695,
+      "num": 534316,
+      "word": "王鹤棣吴磊王一博成毅暑期男神",
+      "onboard_time": 1660992150,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1756808,
       "num": 1756808,
       "word": "台湾人的输入法有多麻烦",
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1265771,
+      "num": 1265771,
+      "word": "美国一大学生炒股1个月赚7亿",
+      "onboard_time": 1660991545,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1242153,
       "num": 1242153,
       "word": "男子5次偷1岁孩子存钱罐2000元",
@@ -187,6 +211,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1122235,
+      "num": 531893,
+      "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+      "onboard_time": 1660992268,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1112692,
       "num": 1112692,
       "word": "东方青苍小兰花今日大婚",
@@ -217,14 +249,6 @@
       "onboard_time": 1660958968,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1018738,
-      "num": 1018738,
-      "word": "灵隐寺暂停请购十八籽佛珠手串",
-      "onboard_time": 1660989569,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1003816,
@@ -337,6 +361,14 @@
       "onboard_time": 1660957046,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854490,
+      "num": 854490,
+      "word": "苍兰诀集体婚礼",
+      "onboard_time": 1660988125,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 842861,
@@ -457,14 +489,6 @@
       "onboard_time": 1660972828,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 624236,
-      "num": 624236,
-      "word": "苍兰诀集体婚礼",
-      "onboard_time": 1660988125,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 623413,
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452496,
+      "num": 452496,
+      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
+      "onboard_time": 1660990229,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446365,
       "num": 446365,
       "word": "打火机锅中爆炸服务员被溅满脸油",
@@ -739,11 +771,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 425808,
+      "num": 425808,
+      "word": "男孩地铁小便吵闹母亲无视",
+      "onboard_time": 1660988788,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421994,
       "num": 375346,
       "word": "苍兰诀吻戏花絮",
       "onboard_time": 1660921532,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 421205,
+      "num": 399566,
+      "word": "玄夜烫发染发编发",
+      "onboard_time": 1660992628,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -753,6 +801,14 @@
       "onboard_time": 1660955968,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 405826,
+      "num": 399277,
+      "word": "小说男主有了脸",
+      "onboard_time": 1660993409,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 402147,
@@ -769,6 +825,14 @@
       "onboard_time": 1660973127,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395110,
+      "num": 395110,
+      "word": "SNH48今日总选",
+      "onboard_time": 1660993768,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 394058,
@@ -843,6 +907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 365012,
+      "num": 337338,
+      "word": "任嘉伦再次体验自制剧",
+      "onboard_time": 1660991368,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364378,
       "num": 364378,
       "word": "水果为什么越来越贵",
@@ -857,14 +929,6 @@
       "onboard_time": 1660917632,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363122,
-      "num": 363122,
-      "word": "男孩地铁小便吵闹母亲无视",
-      "onboard_time": 1660988788,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361085,
@@ -905,6 +969,14 @@
       "onboard_time": 1660979367,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 350263,
+      "num": 350263,
+      "word": "Viper",
+      "onboard_time": 1660990706,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 349754,
@@ -953,14 +1025,6 @@
       "onboard_time": 1660982846,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337338,
-      "num": 337338,
-      "word": "任嘉伦再次体验自制剧",
-      "onboard_time": 1660991368,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 337076,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1660987407,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308235,
+      "num": 308235,
+      "word": "蚊子咬人是不挑血型的",
+      "onboard_time": 1660992508,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307497,
@@ -1123,14 +1195,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 285292,
-      "num": 285292,
-      "word": "Viper",
-      "onboard_time": 1660990706,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 284351,
       "num": 254273,
       "word": "刘宇宁3秒铲飞李诞",
@@ -1211,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263791,
-      "num": 189418,
-      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
-      "onboard_time": 1660990229,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263330,
       "num": 263330,
       "word": "8月19日新增本土确诊578例",
@@ -1272,6 +1328,14 @@
       "word": "超35℃高温覆盖了我国450万平方公里",
       "onboard_time": 1660960166,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240495,
+      "num": 240495,
+      "word": "重庆涪陵区南川区山火明火已全部扑灭",
+      "onboard_time": 1660990586,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1459,20 +1523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191090,
-      "num": 191090,
-      "word": "重庆涪陵区南川区山火明火已全部扑灭",
-      "onboard_time": 1660990586,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190263,
       "num": 190263,
       "word": "小黄猫发现火情又蹦又跳叫醒主人",
       "onboard_time": 1660910667,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189563,
+      "num": 120301,
+      "word": "东方青苍 奥特曼",
+      "onboard_time": 1660993708,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 186767,
@@ -1491,20 +1555,20 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 182657,
+      "num": 182657,
+      "word": "没竽充数的小朋友",
+      "onboard_time": 1660990409,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182115,
       "num": 181512,
       "word": "金珉奎确诊新冠",
       "onboard_time": 1660951578,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180948,
-      "num": 180948,
-      "word": "美国一大学生炒股1个月赚7亿",
-      "onboard_time": 1660991545,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 180805,
@@ -1667,6 +1731,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 143750,
+      "num": 143750,
+      "word": "众人楼下拉被子营救悬挂窗外老人",
+      "onboard_time": 1660992508,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 143231,
       "num": 143231,
       "word": "8月19日新增确诊病例639例",
@@ -1697,14 +1769,6 @@
       "onboard_time": 1660987167,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137554,
-      "num": 137554,
-      "word": "没竽充数的小朋友",
-      "onboard_time": 1660990409,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 132118,
@@ -1921,6 +1985,14 @@
       "onboard_time": 1660916552,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 77025,
+      "num": 77025,
+      "word": "逛商场逛出密室逃脱即视感",
+      "onboard_time": 1660994068,
+      "rank": 49,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 76328,

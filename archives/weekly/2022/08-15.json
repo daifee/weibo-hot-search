@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1660991968809,
+  "endTime": 1660994278741,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -201,6 +201,14 @@
       "onboard_time": 1660563630,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3154372,
+      "num": 3154372,
+      "word": "灵隐寺暂停请购十八籽佛珠手串",
+      "onboard_time": 1660989569,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3137928,
@@ -713,6 +721,14 @@
       "onboard_time": 1660727313,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1937695,
+      "num": 534316,
+      "word": "王鹤棣吴磊王一博成毅暑期男神",
+      "onboard_time": 1660992150,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1934616,
@@ -1659,6 +1675,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 1265771,
+      "num": 1265771,
+      "word": "美国一大学生炒股1个月赚7亿",
+      "onboard_time": 1660991545,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1261828,
       "num": 1261828,
       "word": "内衣和袜子可以一起洗吗",
@@ -2083,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122235,
+      "num": 531893,
+      "word": "俄气宣布仅剩的一台涡轮机将停机检修",
+      "onboard_time": 1660992268,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1121915,
       "num": 692909,
       "word": "劳荣枝称自己从未整容是个傻白甜",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1660958968,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1018738,
-      "num": 1018738,
-      "word": "灵隐寺暂停请购十八籽佛珠手串",
-      "onboard_time": 1660989569,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1018692,
@@ -3049,6 +3073,14 @@
       "onboard_time": 1660574073,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854490,
+      "num": 854490,
+      "word": "苍兰诀集体婚礼",
+      "onboard_time": 1660988125,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 852314,
@@ -4377,14 +4409,6 @@
       "onboard_time": 1660880190,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 624236,
-      "num": 624236,
-      "word": "苍兰诀集体婚礼",
-      "onboard_time": 1660988125,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 623413,
@@ -6515,6 +6539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 452496,
+      "num": 452496,
+      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
+      "onboard_time": 1660990229,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450891,
       "num": 369994,
       "word": "唐周醉酒表白",
@@ -7019,6 +7051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425808,
+      "num": 425808,
+      "word": "男孩地铁小便吵闹母亲无视",
+      "onboard_time": 1660988788,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425444,
       "num": 274812,
       "word": "唐周为了救颜淡自逐出门",
@@ -7065,6 +7105,14 @@
       "onboard_time": 1660734213,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421205,
+      "num": 399566,
+      "word": "玄夜烫发染发编发",
+      "onboard_time": 1660992628,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 420755,
@@ -7339,6 +7387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405826,
+      "num": 399277,
+      "word": "小说男主有了脸",
+      "onboard_time": 1660993409,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405344,
       "num": 405344,
       "word": "LGD亚军",
@@ -7513,6 +7569,14 @@
       "onboard_time": 1660583660,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395110,
+      "num": 395110,
+      "word": "SNH48今日总选",
+      "onboard_time": 1660993768,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 395043,
@@ -8163,6 +8227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365012,
+      "num": 337338,
+      "word": "任嘉伦再次体验自制剧",
+      "onboard_time": 1660991368,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364905,
       "num": 364905,
       "word": "12岁少年沉迷游戏从11楼跳下",
@@ -8209,14 +8281,6 @@
       "onboard_time": 1660837474,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 363122,
-      "num": 363122,
-      "word": "男孩地铁小便吵闹母亲无视",
-      "onboard_time": 1660988788,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363018,
@@ -8643,6 +8707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350263,
+      "num": 350263,
+      "word": "Viper",
+      "onboard_time": 1660990706,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350098,
       "num": 242017,
       "word": "黄晓明新剧刚转正就分手",
@@ -8953,14 +9025,6 @@
       "onboard_time": 1660649133,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337338,
-      "num": 337338,
-      "word": "任嘉伦再次体验自制剧",
-      "onboard_time": 1660991368,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 337076,
@@ -9739,6 +9803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308235,
+      "num": 308235,
+      "word": "蚊子咬人是不挑血型的",
+      "onboard_time": 1660992508,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307829,
       "num": 198507,
       "word": "央视秋晚镜头下的李易峰",
@@ -10387,14 +10459,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 285292,
-      "num": 285292,
-      "word": "Viper",
-      "onboard_time": 1660990706,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285231,
       "num": 185616,
       "word": "黄景瑜牵小蜗牛玩具的反差萌",
@@ -10953,14 +11017,6 @@
       "onboard_time": 1660966888,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263791,
-      "num": 189418,
-      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
-      "onboard_time": 1660990229,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 263416,
@@ -11545,6 +11601,14 @@
       "onboard_time": 1660647633,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240495,
+      "num": 240495,
+      "word": "重庆涪陵区南川区山火明火已全部扑灭",
+      "onboard_time": 1660990586,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240357,
@@ -12755,14 +12819,6 @@
       "category": "财经,国外要闻"
     },
     {
-      "raw_hot": 191090,
-      "num": 191090,
-      "word": "重庆涪陵区南川区山火明火已全部扑灭",
-      "onboard_time": 1660990586,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190920,
       "num": 190920,
       "word": "眉山持续高温居民到古墓纳凉",
@@ -12785,6 +12841,14 @@
       "onboard_time": 1660638213,
       "rank": 42,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 189563,
+      "num": 120301,
+      "word": "东方青苍 奥特曼",
+      "onboard_time": 1660993708,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 189501,
@@ -12939,6 +13003,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 182657,
+      "num": 182657,
+      "word": "没竽充数的小朋友",
+      "onboard_time": 1660990409,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182115,
       "num": 181512,
       "word": "金珉奎确诊新冠",
@@ -12969,14 +13041,6 @@
       "onboard_time": 1660739791,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 180948,
-      "num": 180948,
-      "word": "美国一大学生炒股1个月赚7亿",
-      "onboard_time": 1660991545,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 180869,
@@ -13651,6 +13715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143750,
+      "num": 143750,
+      "word": "众人楼下拉被子营救悬挂窗外老人",
+      "onboard_time": 1660992508,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 143703,
       "num": 143703,
       "word": "黑猫奇闻社",
@@ -13729,14 +13801,6 @@
       "onboard_time": 1660987167,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137554,
-      "num": 137554,
-      "word": "没竽充数的小朋友",
-      "onboard_time": 1660990409,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 136323,
@@ -14201,6 +14265,14 @@
       "onboard_time": 1660520005,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 77025,
+      "num": 77025,
+      "word": "逛商场逛出密室逃脱即视感",
+      "onboard_time": 1660994068,
+      "rank": 49,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 73327,
