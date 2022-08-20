@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1660988231014,
+  "endTime": 1660990985657,
   "band_list": [
     {
       "raw_hot": 3792656,
@@ -9,6 +9,14 @@
       "onboard_time": 1660975407,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3654538,
+      "num": 3654538,
+      "word": "女骑手怀孕6个月仍在送外卖",
+      "onboard_time": 1660987527,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3137928,
@@ -67,20 +75,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1804380,
+      "num": 1804380,
+      "word": "新东方向所有离开老师发出职位邀请",
+      "onboard_time": 1660984649,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1756808,
       "num": 1756808,
       "word": "台湾人的输入法有多麻烦",
       "onboard_time": 1660982068,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1731008,
-      "num": 1731008,
-      "word": "新东方向所有离开老师发出职位邀请",
-      "onboard_time": 1660984649,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1630545,
@@ -112,6 +120,14 @@
       "word": "男子哭诉当7年上门女婿经历",
       "onboard_time": 1660975047,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325485,
+      "num": 1325485,
+      "word": "海底捞回应大学生被炸伤眼睛",
+      "onboard_time": 1660985667,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 1153018,
-      "num": 278303,
+      "num": 370318,
       "word": "吴世勋因未能参加smtown向粉丝道歉",
       "onboard_time": 1660986447,
       "rank": 20,
@@ -219,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 965163,
+      "num": 965163,
+      "word": "老人走失3天被找到时口袋塞满钱",
+      "onboard_time": 1660987767,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 955470,
       "num": 955470,
       "word": "67岁保姆闪婚获赠房产后换锁失联",
@@ -232,6 +256,14 @@
       "word": "苍兰诀 真的很高明",
       "onboard_time": 1660984048,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 949016,
+      "num": 949016,
+      "word": "苍兰诀导演",
+      "onboard_time": 1660988248,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -289,6 +321,14 @@
       "onboard_time": 1660957046,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854490,
+      "num": 854490,
+      "word": "玉骨遥方辟谣定档0821",
+      "onboard_time": 1660990108,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 842861,
@@ -427,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596136,
-      "num": 456561,
-      "word": "海底捞回应大学生被炸伤眼睛",
-      "onboard_time": 1660985667,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586539,
       "num": 586539,
       "word": "四六级",
@@ -475,6 +507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563424,
+      "num": 554152,
+      "word": "苍兰诀集体婚礼",
+      "onboard_time": 1660988125,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 558287,
+      "num": 558287,
+      "word": "他们偷走了我人生中第一个朋友",
+      "onboard_time": 1660986447,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553260,
       "num": 553260,
       "word": "全国高温四大榜单出炉",
@@ -513,6 +561,14 @@
       "onboard_time": 1660979007,
       "rank": 19,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 524557,
+      "num": 524557,
+      "word": "上海暴雨",
+      "onboard_time": 1660989327,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522133,
@@ -587,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476521,
+      "num": 476521,
+      "word": "RNG对战EDG",
+      "onboard_time": 1660988487,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 460607,
       "num": 460607,
       "word": "杨和苏 无名",
@@ -659,6 +723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 427708,
+      "num": 427708,
+      "word": "灵隐寺暂停请购十八籽佛珠手串",
+      "onboard_time": 1660989569,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421994,
       "num": 375346,
       "word": "苍兰诀吻戏花絮",
@@ -680,14 +752,6 @@
       "word": "大妈欲靠风扇过夏天热成眼底出血",
       "onboard_time": 1660973127,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395253,
-      "num": 395253,
-      "word": "女骑手怀孕6个月仍在送外卖",
-      "onboard_time": 1660987527,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -729,6 +793,14 @@
       "onboard_time": 1660968927,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 381347,
+      "num": 381347,
+      "word": "俄黑海舰队司令部遭到无人机攻击",
+      "onboard_time": 1660988007,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 378385,
@@ -792,6 +864,22 @@
       "word": "王俊凯问答案之书有没有奥特曼",
       "onboard_time": 1660976309,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 357341,
+      "num": 357341,
+      "word": "断桥票房破2亿",
+      "onboard_time": 1660989389,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 352530,
+      "num": 352530,
+      "word": "谢谢你爱情保安刘宇宁",
+      "onboard_time": 1660988969,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -891,20 +979,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326289,
-      "num": 326289,
-      "word": "苍兰诀集体婚礼",
-      "onboard_time": 1660988125,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323882,
       "num": 323882,
       "word": "听我说谢谢你四六级",
       "onboard_time": 1660964969,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 323396,
+      "num": 323396,
+      "word": "这才是冰粉届的颜值天花板",
+      "onboard_time": 1660990048,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 320765,
+      "num": 320765,
+      "word": "和喜欢的人错过什么体验",
+      "onboard_time": 1660987407,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 319773,
+      "num": 211674,
+      "word": "杨戬",
+      "onboard_time": 1660898491,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 307497,
@@ -947,12 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297584,
+      "num": 297584,
+      "word": "男孩地铁小便吵闹母亲无视",
+      "onboard_time": 1660988788,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297482,
       "num": 297482,
       "word": "刘雨昕曾在天津驻唱",
       "onboard_time": 1660963229,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296209,
+      "num": 296209,
+      "word": "广州一高校4男生扛塔答谢室友",
+      "onboard_time": 1660988068,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 295916,
@@ -987,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288083,
-      "num": 288083,
-      "word": "他们偷走了我人生中第一个朋友",
-      "onboard_time": 1660986447,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285404,
       "num": 285404,
       "word": "乐山大佛三江汇流处水位极低",
@@ -1027,14 +1139,6 @@
       "category": "教育,军事"
     },
     {
-      "raw_hot": 276563,
-      "num": 211674,
-      "word": "杨戬",
-      "onboard_time": 1660898491,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 275957,
       "num": 275957,
       "word": "重庆为啥这么热",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1660917032,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273590,
+      "num": 193788,
+      "word": "南太铉方面回应吸毒传闻",
+      "onboard_time": 1660988788,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 268792,
@@ -1211,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218810,
+      "num": 189418,
+      "word": "李斯丹妮被杨幂的玩具蛇吓麻了",
+      "onboard_time": 1660990229,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218784,
       "num": 218784,
       "word": "重庆再次承包全国高温排行榜前10",
@@ -1331,14 +1451,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 186330,
-      "num": 186330,
-      "word": "和喜欢的人错过什么体验",
-      "onboard_time": 1660987407,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182794,
       "num": 182794,
       "word": "万吨大驱编队海训现场震撼原声",
@@ -1377,14 +1489,6 @@
       "onboard_time": 1660922731,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173719,
-      "num": 173719,
-      "word": "广州一高校4男生扛塔答谢室友",
-      "onboard_time": 1660988068,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172318,
@@ -1451,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155310,
+      "num": 155310,
+      "word": "毕业后你会从事本专业工作吗",
+      "onboard_time": 1660988306,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155295,
       "num": 155295,
       "word": "如何看待景区抬轿子的人",
@@ -1467,19 +1579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154044,
-      "num": 154044,
-      "word": "老人走失3天被找到时口袋塞满钱",
-      "onboard_time": 1660987767,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 151350,
       "num": 1886768,
       "word": "空间站视角看地球转动好治愈",
       "onboard_time": 1660957705,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148114,
+      "num": 121751,
+      "word": "最安全东单路口武警又救人了",
+      "onboard_time": 1660990947,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1513,6 +1625,14 @@
       "onboard_time": 1660963107,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 143660,
+      "num": 143660,
+      "word": "重庆涪陵区南川区山火明火已全部扑灭",
+      "onboard_time": 1660990586,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143231,
@@ -1563,6 +1683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129969,
+      "num": 129969,
+      "word": "Viper",
+      "onboard_time": 1660990706,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128450,
       "num": 128450,
       "word": "赵丽颖沈璃镜头下的风景",
@@ -1603,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120056,
-      "num": 120056,
-      "word": "俄黑海舰队司令部遭到无人机攻击",
-      "onboard_time": 1660988007,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 119979,
       "num": 119979,
       "word": "骆歆衣服穿反了",
@@ -1641,6 +1761,14 @@
       "onboard_time": 1660975526,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113083,
+      "num": 113083,
+      "word": "没竽充数的小朋友",
+      "onboard_time": 1660990409,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 112712,
