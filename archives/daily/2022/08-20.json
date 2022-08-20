@@ -1,6 +1,6 @@
 {
   "startTime": 1660926831298,
-  "endTime": 1661002992613,
+  "endTime": 1661005151692,
   "band_list": [
     {
       "raw_hot": 5072729,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1927211,
+      "num": 1927211,
+      "word": "开麦",
+      "onboard_time": 1661002170,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1756808,
       "num": 1756808,
       "word": "台湾人的输入法有多麻烦",
@@ -161,6 +169,14 @@
       "onboard_time": 1660992268,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1551185,
+      "num": 1551185,
+      "word": "女子耳钉塞被晒化求助消防员",
+      "onboard_time": 1661001272,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1533650,
@@ -235,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1190036,
+      "num": 1130724,
+      "word": "虞书欣兰花姐觉醒",
+      "onboard_time": 1661000131,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1189815,
       "num": 1189815,
       "word": "婆婆给媳妇做月子餐5菜1汤不重样",
@@ -275,14 +299,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1130724,
-      "num": 1130724,
-      "word": "虞书欣兰花姐觉醒",
-      "onboard_time": 1661000131,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1112692,
       "num": 1112692,
       "word": "东方青苍小兰花今日大婚",
@@ -305,6 +321,14 @@
       "onboard_time": 1660984166,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1024216,
+      "num": 837969,
+      "word": "少女时代",
+      "onboard_time": 1661002471,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1023810,
@@ -345,14 +369,6 @@
       "onboard_time": 1660988248,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 972305,
-      "num": 844236,
-      "word": "开麦",
-      "onboard_time": 1661002170,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 955470,
@@ -483,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 837969,
-      "num": 837969,
-      "word": "少女时代",
+      "raw_hot": 837563,
+      "num": 679919,
+      "word": "苍兰诀预告",
       "onboard_time": 1661002471,
-      "rank": 11,
-      "category": "音乐"
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 834928,
@@ -553,6 +569,14 @@
       "onboard_time": 1660980386,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 740751,
+      "num": 325683,
+      "word": "刘恺威不敢看镜头",
+      "onboard_time": 1661004216,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 719349,
@@ -755,6 +779,14 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 533475,
+      "num": 533475,
+      "word": "EDG五人组LPL胜场第一",
+      "onboard_time": 1661003432,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 522133,
       "num": 402221,
       "word": "王一博刘雨昕韩庚李承铉街舞5作品战海报",
@@ -777,6 +809,14 @@
       "onboard_time": 1660983748,
       "rank": 42,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 517769,
+      "num": 325379,
+      "word": "王一博跳舞身体控制",
+      "onboard_time": 1661003613,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 516558,
@@ -843,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490097,
+      "num": 490097,
+      "word": "黑龙江大庆发现3例阳性感染者",
+      "onboard_time": 1661001689,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486168,
       "num": 486168,
       "word": "这才是冰粉届的颜值天花板",
@@ -867,12 +915,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 469034,
-      "num": 469034,
-      "word": "女子耳钉塞被晒化求助消防员",
-      "onboard_time": 1661001272,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 477491,
+      "num": 222524,
+      "word": "SuperJunior舞台状态",
+      "onboard_time": 1661003852,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 460607,
@@ -963,14 +1011,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 429635,
-      "num": 199128,
-      "word": "苍兰诀预告",
-      "onboard_time": 1661002471,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 425808,
       "num": 425808,
       "word": "男孩地铁小便吵闹母亲无视",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1660958126,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 389150,
+      "num": 209255,
+      "word": "长珩支棱起来了",
+      "onboard_time": 1661004451,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 388714,
@@ -1195,12 +1243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356505,
-      "num": 356505,
-      "word": "黑龙江大庆发现3例阳性感染者",
-      "onboard_time": 1661001689,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 353170,
+      "num": 176976,
+      "word": "NCTDREAM开麦舞台",
+      "onboard_time": 1661004274,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 352530,
@@ -1347,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325020,
+      "num": 325020,
+      "word": "黑龙江疫情防控",
+      "onboard_time": 1661005053,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323882,
       "num": 323882,
       "word": "听我说谢谢你四六级",
@@ -1464,6 +1520,14 @@
       "word": "西藏增本土无症状501例",
       "onboard_time": 1660960108,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286446,
+      "num": 286446,
+      "word": "轻生男子跳楼瞬间民警飞身抱住",
+      "onboard_time": 1661002711,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1683,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228616,
+      "num": 228616,
+      "word": "天再热重庆人也要吃火锅",
+      "onboard_time": 1661000309,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228047,
       "num": 228047,
       "word": "重庆沙坪坝划定疫情风险区域",
@@ -1753,14 +1825,6 @@
       "onboard_time": 1660998928,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 214232,
-      "num": 214232,
-      "word": "天再热重庆人也要吃火锅",
-      "onboard_time": 1661000309,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213001,
@@ -1891,12 +1955,28 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 182680,
+      "num": 182680,
+      "word": "这小猫咪怎么顺拐",
+      "onboard_time": 1661004032,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182115,
       "num": 181512,
       "word": "金珉奎确诊新冠",
       "onboard_time": 1660951578,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181956,
+      "num": 181956,
+      "word": "北京WB韧性好强",
+      "onboard_time": 1661004151,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 180805,
@@ -2019,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152009,
+      "num": 2106921,
+      "word": "我国后续将建造国际月球科研站",
+      "onboard_time": 1660997904,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151350,
       "num": 1886768,
       "word": "空间站视角看地球转动好治愈",
@@ -2067,14 +2155,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 143352,
-      "num": 2106921,
-      "word": "我国后续将建造国际月球科研站",
-      "onboard_time": 1660997904,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143231,
       "num": 143231,
       "word": "8月19日新增确诊病例639例",
@@ -2107,6 +2187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133069,
+      "num": 133069,
+      "word": "梓墨马超偷家",
+      "onboard_time": 1661005111,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132118,
       "num": 132118,
       "word": "6岁女童吃瑞士卷头孢过敏全身红肿",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1660973787,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129363,
+      "num": 129363,
+      "word": "骚白表情包的正确打开方式",
+      "onboard_time": 1661004451,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 128450,
@@ -2257,14 +2353,6 @@
       "onboard_time": 1660902510,
       "rank": 42,
       "category": "军事"
-    },
-    {
-      "raw_hot": 102085,
-      "num": 118962,
-      "word": "轻生男子跳楼瞬间民警飞身抱住",
-      "onboard_time": 1661002711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98082,

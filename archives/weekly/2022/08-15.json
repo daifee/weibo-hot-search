@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661002992613,
+  "endTime": 1661005151692,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -771,6 +771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1927211,
+      "num": 1927211,
+      "word": "开麦",
+      "onboard_time": 1661002170,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1926658,
       "num": 1926658,
       "word": "网红50万卖微信号被判交易无效",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1660879649,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1551185,
+      "num": 1551185,
+      "word": "女子耳钉塞被晒化求助消防员",
+      "onboard_time": 1661001272,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1545680,
@@ -1907,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1190036,
+      "num": 1130724,
+      "word": "虞书欣兰花姐觉醒",
+      "onboard_time": 1661000131,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1189815,
       "num": 1189815,
       "word": "婆婆给媳妇做月子餐5菜1汤不重样",
@@ -2129,14 +2153,6 @@
       "onboard_time": 1660651409,
       "rank": 9,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1130724,
-      "num": 1130724,
-      "word": "虞书欣兰花姐觉醒",
-      "onboard_time": 1661000131,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 1128387,
@@ -2491,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1024216,
+      "num": 837969,
+      "word": "少女时代",
+      "onboard_time": 1661002471,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1023810,
       "num": 1023810,
       "word": "只有南方人才吃过的糖",
@@ -2681,14 +2705,6 @@
       "onboard_time": 1660988248,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 972305,
-      "num": 844236,
-      "word": "开麦",
-      "onboard_time": 1661002170,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 971176,
@@ -3283,12 +3299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 837969,
-      "num": 837969,
-      "word": "少女时代",
+      "raw_hot": 837563,
+      "num": 679919,
+      "word": "苍兰诀预告",
       "onboard_time": 1661002471,
-      "rank": 11,
-      "category": "音乐"
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 834928,
@@ -3761,6 +3777,14 @@
       "onboard_time": 1660576472,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 740751,
+      "num": 325683,
+      "word": "刘恺威不敢看镜头",
+      "onboard_time": 1661004216,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 737334,
@@ -5475,6 +5499,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 533475,
+      "num": 533475,
+      "word": "EDG五人组LPL胜场第一",
+      "onboard_time": 1661003432,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 533330,
       "num": 482397,
       "word": "唐周 寸步不离",
@@ -5704,6 +5736,14 @@
       "word": "快乐再出发",
       "onboard_time": 1660652552,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 517769,
+      "num": 325379,
+      "word": "王一博跳舞身体控制",
+      "onboard_time": 1661003613,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -6147,6 +6187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 490097,
+      "num": 490097,
+      "word": "黑龙江大庆发现3例阳性感染者",
+      "onboard_time": 1661001689,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489671,
       "num": 1744615,
       "word": "三星堆发现第一件带翅膀神兽",
@@ -6387,6 +6435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477491,
+      "num": 222524,
+      "word": "SuperJunior舞台状态",
+      "onboard_time": 1661003852,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 477387,
       "num": 477387,
       "word": "复活甲没了",
@@ -6473,14 +6529,6 @@
       "onboard_time": 1660472850,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 469034,
-      "num": 469034,
-      "word": "女子耳钉塞被晒化求助消防员",
-      "onboard_time": 1661001272,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468976,
@@ -7169,14 +7217,6 @@
       "onboard_time": 1660968448,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 429635,
-      "num": 199128,
-      "word": "苍兰诀预告",
-      "onboard_time": 1661002471,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 428767,
@@ -7881,6 +7921,14 @@
       "onboard_time": 1660774454,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389150,
+      "num": 209255,
+      "word": "长珩支棱起来了",
+      "onboard_time": 1661004451,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 388980,
@@ -8771,14 +8819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356505,
-      "num": 356505,
-      "word": "黑龙江大庆发现3例阳性感染者",
-      "onboard_time": 1661001689,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356040,
       "num": 356040,
       "word": "00后真的是职场小白吗",
@@ -8849,6 +8889,14 @@
       "onboard_time": 1660716931,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353170,
+      "num": 176976,
+      "word": "NCTDREAM开麦舞台",
+      "onboard_time": 1661004274,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 353030,
@@ -9640,6 +9688,14 @@
       "word": "乌鲁木齐本轮疫情毒株BA.5.2",
       "onboard_time": 1660490912,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325020,
+      "num": 325020,
+      "word": "黑龙江疫情防控",
+      "onboard_time": 1661005053,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -10657,6 +10713,14 @@
       "onboard_time": 1660902389,
       "rank": 35,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 286446,
+      "num": 286446,
+      "word": "轻生男子跳楼瞬间民警飞身抱住",
+      "onboard_time": 1661002711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286316,
@@ -12299,6 +12363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228616,
+      "num": 228616,
+      "word": "天再热重庆人也要吃火锅",
+      "onboard_time": 1661000309,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228476,
       "num": 228476,
       "word": "7月份国民经济延续恢复态势",
@@ -12633,14 +12705,6 @@
       "onboard_time": 1660572153,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 214232,
-      "num": 214232,
-      "word": "天再热重庆人也要吃火锅",
-      "onboard_time": 1661000309,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213886,
@@ -13339,12 +13403,28 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 182680,
+      "num": 182680,
+      "word": "这小猫咪怎么顺拐",
+      "onboard_time": 1661004032,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182115,
       "num": 181512,
       "word": "金珉奎确诊新冠",
       "onboard_time": 1660951578,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181956,
+      "num": 181956,
+      "word": "北京WB韧性好强",
+      "onboard_time": 1661004151,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 181953,
@@ -13899,6 +13979,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 152009,
+      "num": 2106921,
+      "word": "我国后续将建造国际月球科研站",
+      "onboard_time": 1660997904,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151350,
       "num": 1886768,
       "word": "空间站视角看地球转动好治愈",
@@ -14059,14 +14147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143352,
-      "num": 2106921,
-      "word": "我国后续将建造国际月球科研站",
-      "onboard_time": 1660997904,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143231,
       "num": 143231,
       "word": "8月19日新增确诊病例639例",
@@ -14171,6 +14251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133069,
+      "num": 133069,
+      "word": "梓墨马超偷家",
+      "onboard_time": 1661005111,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132898,
       "num": 132898,
       "word": "王俊凯说断桥给了自己很高的营养",
@@ -14200,6 +14288,14 @@
       "word": "LGD终结RNG九连胜",
       "onboard_time": 1660488154,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129363,
+      "num": 129363,
+      "word": "骚白表情包的正确打开方式",
+      "onboard_time": 1661004451,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -14457,14 +14553,6 @@
       "onboard_time": 1660472012,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102085,
-      "num": 118962,
-      "word": "轻生男子跳楼瞬间民警飞身抱住",
-      "onboard_time": 1661002711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100941,
