@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661030402571,
+  "endTime": 1661031597550,
   "band_list": [
     {
       "raw_hot": 2944449,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97278,
+      "num": 97278,
+      "word": "母女开门起静电引发煤气爆炸",
+      "onboard_time": 1661024592,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 96472,
       "num": 96472,
       "word": "小胖的曜",
@@ -409,14 +417,6 @@
       "onboard_time": 1660996587,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90824,
-      "num": 90824,
-      "word": "母女开门起静电引发煤气爆炸",
-      "onboard_time": 1661024592,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 86426,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 74154,
-      "num": 56405,
+      "num": 57684,
       "word": "顾客换菜被拒咒店主未出生孩子",
       "onboard_time": 1661023753,
       "rank": 47,
@@ -465,6 +465,14 @@
       "onboard_time": 1661023932,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21084,
+      "num": 21084,
+      "word": "于文文拿刺猬录制脱口秀5",
+      "onboard_time": 1661028672,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 14640,
