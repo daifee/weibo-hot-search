@@ -1,0 +1,410 @@
+{
+  "runTime": 1660963456081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3137928,
+        "num": 3137928,
+        "word": "阳光玫瑰葡萄价格跳水",
+        "onboard_time": 1660959685,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2273746,
+        "num": 2273746,
+        "word": "大学生点海底捞外卖被炸伤眼睛",
+        "onboard_time": 1660955067,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32890,
+        "num": 1407297,
+        "word": "这是真实的中国医生",
+        "onboard_time": 1660893694,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272244,
+        "num": 1272244,
+        "word": "李兰娟",
+        "onboard_time": 1660960766,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080629,
+        "num": 1080629,
+        "word": "苏有朋女孩",
+        "onboard_time": 1660955968,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1023810,
+        "num": 1023810,
+        "word": "只有南方人才吃过的糖",
+        "onboard_time": 1660958968,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 997043,
+        "num": 997043,
+        "word": "黑神话",
+        "onboard_time": 1660958246,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 905921,
+        "num": 905921,
+        "word": "67岁保姆闪婚获赠房产后换锁失联",
+        "onboard_time": 1660961609,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791356,
+        "num": 791356,
+        "word": "网传仙剑奇侠传五前传主演阵容",
+        "onboard_time": 1660960708,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 778520,
+        "num": 778520,
+        "word": "为什么你越来越没有耐心了",
+        "onboard_time": 1660917873,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 944517,
+        "num": 767189,
+        "word": "司藤 小兰花",
+        "onboard_time": 1660954583,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 752806,
+        "num": 752806,
+        "word": "喝凉水真的伤胃吗",
+        "onboard_time": 1660957046,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586539,
+        "num": 586539,
+        "word": "四六级",
+        "onboard_time": 1660961788,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 569493,
+        "num": 569493,
+        "word": "披荆斩棘2观后感",
+        "onboard_time": 1660959749,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553260,
+        "num": 553260,
+        "word": "全国高温四大榜单出炉",
+        "onboard_time": 1660928362,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533975,
+        "num": 533975,
+        "word": "文帝cp白嗑了",
+        "onboard_time": 1660955006,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521835,
+        "num": 521835,
+        "word": "杭州一女子为买车砍伤母亲砍死小叔",
+        "onboard_time": 1660926145,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 365113,
+        "num": 365113,
+        "word": "cpsp",
+        "onboard_time": 1660958126,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 353617,
+        "num": 353617,
+        "word": "殷桃剪辣椒时对喷嚏的控制力",
+        "onboard_time": 1660953503,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325690,
+        "num": 325690,
+        "word": "上班的小狗略显憔悴",
+        "onboard_time": 1660954043,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 359678,
+        "num": 325216,
+        "word": "特朗普暗示将对FBI搜查作出回应",
+        "onboard_time": 1660962508,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 322926,
+        "num": 322926,
+        "word": "时代少年团演唱会合作歌单",
+        "onboard_time": 1660955968,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298993,
+        "num": 298993,
+        "word": "媳妇和妈妈起矛盾男子崩溃要轻生",
+        "onboard_time": 1660962388,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297482,
+        "num": 297482,
+        "word": "刘雨昕曾在天津驻唱",
+        "onboard_time": 1660963229,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295916,
+        "num": 295916,
+        "word": "詹姆斯将出战半职业联赛",
+        "onboard_time": 1660958848,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293748,
+        "num": 293748,
+        "word": "西藏增本土无症状501例",
+        "onboard_time": 1660960108,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293185,
+        "num": 293185,
+        "word": "Jennie朴彩英小分队",
+        "onboard_time": 1660930458,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286195,
+        "num": 286195,
+        "word": "男子约好友偷酒错把信息发给民警",
+        "onboard_time": 1660953443,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252811,
+        "num": 252811,
+        "word": "外卖小哥接催单电话不慎摔倒崩溃",
+        "onboard_time": 1660951340,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243613,
+        "num": 243613,
+        "word": "超35℃高温覆盖了我国450万平方公里",
+        "onboard_time": 1660960166,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237761,
+        "num": 237761,
+        "word": "深圳疫情防控",
+        "onboard_time": 1660962207,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232438,
+        "num": 232438,
+        "word": "高温预报图被烫红了",
+        "onboard_time": 1660955247,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220171,
+        "num": 220171,
+        "word": "重庆两姐妹江边耍水被冲走",
+        "onboard_time": 1660927703,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218784,
+        "num": 218784,
+        "word": "重庆再次承包全国高温排行榜前10",
+        "onboard_time": 1660961008,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208517,
+        "num": 208517,
+        "word": "三亚本轮疫情累计确诊5082例无症状7192例",
+        "onboard_time": 1660958369,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202925,
+        "num": 202925,
+        "word": "赵露思月升沧海红衣好美",
+        "onboard_time": 1660925725,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202564,
+        "num": 202564,
+        "word": "刘亦菲舒淇金九封面",
+        "onboard_time": 1660954525,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187728,
+        "num": 187728,
+        "word": "90后姑娘失业后每天假装上班",
+        "onboard_time": 1660963229,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 186911,
+        "num": 186911,
+        "word": "家里除了蛋糕没一个是真的",
+        "onboard_time": 1660925128,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184818,
+        "num": 184818,
+        "word": "社恐症是影帝标配吧",
+        "onboard_time": 1660929680,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 171002,
+        "num": 171002,
+        "word": "3兄弟顶撞奶奶姐姐出手罚跪",
+        "onboard_time": 1660922310,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169902,
+        "num": 169902,
+        "word": "杨幂rua丁程鑫的脸",
+        "onboard_time": 1660920269,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169514,
+        "num": 169514,
+        "word": "与凤行",
+        "onboard_time": 1660963346,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159919,
+        "num": 159919,
+        "word": "金珉奎确诊新冠",
+        "onboard_time": 1660951578,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154752,
+        "num": 154752,
+        "word": "河南增本土确诊1例无症状4例",
+        "onboard_time": 1660963107,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152242,
+        "num": 152242,
+        "word": "8月19日新增本土确诊578例",
+        "onboard_time": 1660958726,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147039,
+        "num": 147039,
+        "word": "平遥全县非必要不外出",
+        "onboard_time": 1660956149,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145303,
+        "num": 145303,
+        "word": "货车侧翻路人从四面八方赶来救人",
+        "onboard_time": 1660963107,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144770,
+        "num": 144770,
+        "word": "河南成为全国第一个40℃大满贯省份",
+        "onboard_time": 1660915471,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142712,
+        "num": 142712,
+        "word": "上海新增本土确诊1例无症状2例",
+        "onboard_time": 1660955666,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代网络强国建设成就#"
+    }
+  }
+}
