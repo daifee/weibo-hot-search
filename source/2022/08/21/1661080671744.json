@@ -1,0 +1,410 @@
+{
+  "runTime": 1661080671744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2983729,
+        "num": 2983729,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2474949,
+        "num": 2474949,
+        "word": "日本东京发生随机砍人事件",
+        "onboard_time": 1661075490,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 17901,
+        "num": 1836358,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1326088,
+        "num": 1326088,
+        "word": "我的助理六十岁已过审",
+        "onboard_time": 1661078430,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 990421,
+        "num": 990421,
+        "word": "男子强行拿走顾客螺蛳粉和饮料",
+        "onboard_time": 1661073627,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873449,
+        "num": 873449,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851931,
+        "num": 851931,
+        "word": "杜德伟在娱乐圈究竟有多少好朋友",
+        "onboard_time": 1661076808,
+        "rank": 6,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 805882,
+        "num": 805882,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661845,
+        "num": 661845,
+        "word": "iPhone14系列或仍有mini",
+        "onboard_time": 1661075610,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 641231,
+        "num": 641231,
+        "word": "云中君 走地鸡",
+        "onboard_time": 1661068768,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584062,
+        "num": 584062,
+        "word": "浪姐3团综星星的约定大理录制路透",
+        "onboard_time": 1661080529,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557177,
+        "num": 557177,
+        "word": "王鹤棣叫虞书欣小兰发",
+        "onboard_time": 1661080350,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522687,
+        "num": 522687,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484552,
+        "num": 484552,
+        "word": "国家向重庆紧急调运抗旱物资",
+        "onboard_time": 1661073148,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441918,
+        "num": 441918,
+        "word": "9岁女孩暑假胖十几斤查出脂肪肝",
+        "onboard_time": 1661074468,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441514,
+        "num": 441514,
+        "word": "刘亦菲吴倩新剧演闺蜜",
+        "onboard_time": 1661067026,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373395,
+        "num": 373395,
+        "word": "科学家用猪皮恢复盲人视力",
+        "onboard_time": 1661074527,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 371417,
+        "num": 371417,
+        "word": "和平精英",
+        "onboard_time": 1661076449,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333803,
+        "num": 333803,
+        "word": "2名逃犯同一天落网还撞衫",
+        "onboard_time": 1661074947,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333546,
+        "num": 333546,
+        "word": "万达花两亿解除大连人转会禁令",
+        "onboard_time": 1661071107,
+        "rank": 19,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 525521,
+        "num": 333287,
+        "word": "华晨宇红发",
+        "onboard_time": 1661077949,
+        "rank": 20,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 348338,
+        "num": 332077,
+        "word": "嫋嫋要的是并肩同行",
+        "onboard_time": 1661070207,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330516,
+        "num": 330516,
+        "word": "特斯拉车主手背植入芯片变成车钥匙",
+        "onboard_time": 1661073448,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 315064,
+        "num": 315064,
+        "word": "计算器是不会算错的",
+        "onboard_time": 1661077349,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304599,
+        "num": 304599,
+        "word": "鄱阳湖的鱼被晒成鱼干",
+        "onboard_time": 1661073748,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272845,
+        "num": 272845,
+        "word": "杨和苏无名幕后vlog",
+        "onboard_time": 1661079809,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253023,
+        "num": 253023,
+        "word": "女子寄快递丢失4800元手镯",
+        "onboard_time": 1661065229,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252573,
+        "num": 252573,
+        "word": "成都今日最高气温43.4°C",
+        "onboard_time": 1661071286,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234184,
+        "num": 234184,
+        "word": "工作人员扮玩偶遭熊孩子围踢屁股",
+        "onboard_time": 1661078247,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225847,
+        "num": 225847,
+        "word": "狗狗的心情都写在了脸上",
+        "onboard_time": 1661077589,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254208,
+        "num": 225751,
+        "word": "苍兰诀编剧",
+        "onboard_time": 1661067927,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250794,
+        "num": 224995,
+        "word": "沈小婷KCON生图",
+        "onboard_time": 1661079870,
+        "rank": 31,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 244944,
+        "num": 224237,
+        "word": "宋茜海岛着火今晚见",
+        "onboard_time": 1661078550,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221863,
+        "num": 224043,
+        "word": "当地回应建议中华田园犬移除禁养目录",
+        "onboard_time": 1661072247,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232276,
+        "num": 223497,
+        "word": "时代少年团夏令营花絮6",
+        "onboard_time": 1661077708,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223105,
+        "num": 223105,
+        "word": "俄方称杜金之女身亡案系刺杀",
+        "onboard_time": 1661079088,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 175856,
+        "num": 175856,
+        "word": "日本首相岸田文雄感染新冠病毒",
+        "onboard_time": 1661072668,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173814,
+        "num": 173814,
+        "word": "6岁儿童溺水身亡7岁玩伴成被告",
+        "onboard_time": 1661060786,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170383,
+        "num": 170383,
+        "word": "郑州一公交司机开车时玩斗地主",
+        "onboard_time": 1661080287,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166287,
+        "num": 166287,
+        "word": "不晒点东西都辜负了高温",
+        "onboard_time": 1661074290,
+        "rank": 39,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 172353,
+        "num": 165845,
+        "word": "网传李现任敏主演群星闪耀时",
+        "onboard_time": 1661070090,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164714,
+        "num": 164714,
+        "word": "高铁动车被装进包裹什么样",
+        "onboard_time": 1661079328,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 159683,
+        "word": "王俊凯把感性都倾注在角色上",
+        "onboard_time": 1661076749,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156407,
+        "num": 156407,
+        "word": "插头带圆孔不适合国内用",
+        "onboard_time": 1661069129,
+        "rank": 43,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 149685,
+        "num": 149685,
+        "word": "美国餐厅一男子吸烟遭拒枪杀保安",
+        "onboard_time": 1661080049,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141721,
+        "num": 141721,
+        "word": "被小猫咪的智商折服了",
+        "onboard_time": 1661070749,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 121878,
+        "num": 121878,
+        "word": "青海大通山洪灾害已造成26人遇难",
+        "onboard_time": 1661078247,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118873,
+        "num": 118873,
+        "word": "高温包围圈终于要缩了",
+        "onboard_time": 1661072909,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118497,
+        "num": 118497,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 115059,
+        "word": "V5对战LNG",
+        "onboard_time": 1661075009,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}
