@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661064244914,
+  "endTime": 1661066386814,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2868730,
+      "num": 2868730,
+      "word": "谷江山",
+      "onboard_time": 1661054963,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2820156,
       "num": 2820156,
       "word": "水滴筹",
       "onboard_time": 1661039841,
       "rank": 0,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2681235,
-      "num": 2681235,
-      "word": "谷江山",
-      "onboard_time": 1661054963,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 2323506,
@@ -56,6 +56,14 @@
       "word": "男子冒死从缅北逃回讲述惨痛遭遇",
       "onboard_time": 1661057549,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1939138,
+      "num": 1939138,
+      "word": "全家染幽门螺杆菌父亲查出胃早癌",
+      "onboard_time": 1661064628,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -195,12 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 960384,
+      "num": 960384,
+      "word": "姜小果一句没提周寻句句是周寻",
+      "onboard_time": 1661063608,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792490,
       "num": 792490,
       "word": "冰雨火还有啥不敢拍的吗",
       "onboard_time": 1661062227,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 786280,
+      "num": 786280,
+      "word": "王鹤棣Gwalla练了一百遍",
+      "onboard_time": 1661062826,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 777477,
@@ -217,14 +241,6 @@
       "onboard_time": 1661058088,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664299,
-      "num": 450681,
-      "word": "王鹤棣Gwalla练了一百遍",
-      "onboard_time": 1661062826,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 660361,
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483384,
-      "num": 450556,
-      "word": "姜小果一句没提周寻句句是周寻",
-      "onboard_time": 1661063608,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 482857,
       "num": 482857,
       "word": "女子耳钉塞被晒化求助消防员",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454849,
+      "num": 454849,
+      "word": "重庆大足区山火燃烧一夜未灭",
+      "onboard_time": 1661061383,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450850,
       "num": 450850,
       "word": "母女开门起静电引发煤气爆炸",
@@ -443,20 +459,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 450260,
-      "num": 450260,
-      "word": "重庆大足区山火燃烧一夜未灭",
-      "onboard_time": 1661061383,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441119,
       "num": 441119,
       "word": "东方青苍好会亲",
       "onboard_time": 1661016257,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438027,
+      "num": 438027,
+      "word": "酒店回应顾客住宿被虱子咬伤溃烂",
+      "onboard_time": 1661060967,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433666,
@@ -481,6 +497,14 @@
       "onboard_time": 1661010392,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 401594,
+      "num": 401594,
+      "word": "中国女排横扫韩国女排",
+      "onboard_time": 1661063005,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 393173,
@@ -523,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371310,
-      "num": 371310,
-      "word": "酒店回应顾客住宿被虱子咬伤溃烂",
-      "onboard_time": 1661060967,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368984,
       "num": 368984,
       "word": "劳荣枝案受害人家属发声",
@@ -561,6 +577,14 @@
       "onboard_time": 1661043928,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 351311,
+      "num": 351311,
+      "word": "真实的境外电诈窝点是什么样子",
+      "onboard_time": 1661061805,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347217,
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334849,
+      "num": 322237,
+      "word": "刘芸说郑钧是反内卷第一名",
+      "onboard_time": 1661065407,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332247,
       "num": 248504,
       "word": "杨戬票房破亿",
@@ -649,6 +681,22 @@
       "onboard_time": 1661059468,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322376,
+      "num": 322376,
+      "word": "当她说不想谈恋爱的时候",
+      "onboard_time": 1661063844,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 322217,
+      "num": 322217,
+      "word": "女子寄快递丢失4800元手镯",
+      "onboard_time": 1661065229,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319696,
@@ -713,6 +761,14 @@
       "onboard_time": 1660992268,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 293180,
+      "num": 101965,
+      "word": "宋茜海岛着火彩排照",
+      "onboard_time": 1661066367,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 291909,
@@ -827,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266162,
-      "num": 266162,
-      "word": "中国女排横扫韩国女排",
-      "onboard_time": 1661063005,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265853,
       "num": 265853,
       "word": "见过最用心的喜糖清单",
@@ -871,14 +919,6 @@
       "num": 255059,
       "word": "多地商家立网红路牌涉违规被拆",
       "onboard_time": 1661046509,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253766,
-      "num": 253766,
-      "word": "真实的境外电诈窝点是什么样子",
-      "onboard_time": 1661061805,
       "rank": 33,
       "category": "社会新闻"
     },
@@ -963,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232300,
+      "num": 212412,
+      "word": "黄景瑜在高空吊桥上进化了",
+      "onboard_time": 1661064748,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232100,
       "num": 165495,
       "word": "SMTOWN大合唱",
@@ -977,6 +1025,14 @@
       "onboard_time": 1661002471,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230918,
+      "num": 212257,
+      "word": "陆虎催更苏醒催到嘴出血",
+      "onboard_time": 1661065167,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 226862,
@@ -1083,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202827,
+      "num": 202827,
+      "word": "彩云之南又现彩云",
+      "onboard_time": 1661064748,
+      "rank": 36,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 197857,
       "num": 197857,
       "word": "大连新增8例无症状",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1661050946,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 190379,
+      "num": 151792,
+      "word": "说唱巅峰第九期六季最佳",
+      "onboard_time": 1661066007,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 186938,
@@ -1155,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169125,
+      "num": 169125,
+      "word": "重庆赶紧下场雨吧",
+      "onboard_time": 1661063366,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162013,
       "num": 162013,
       "word": "银赫眼神",
@@ -1187,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154373,
+      "num": 154373,
+      "word": "大连疫情防控",
+      "onboard_time": 1661065587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153485,
       "num": 153485,
       "word": "8月20日新增本土确诊553例",
@@ -1209,14 +1297,6 @@
       "onboard_time": 1661002170,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143099,
-      "num": 143099,
-      "word": "当她说不想谈恋爱的时候",
-      "onboard_time": 1661063844,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 140432,
@@ -1265,14 +1345,6 @@
       "onboard_time": 1661003432,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124117,
-      "num": 124117,
-      "word": "重庆赶紧下场雨吧",
-      "onboard_time": 1661063366,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119927,
