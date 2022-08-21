@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661095282530,
+  "endTime": 1661096359861,
   "band_list": [
     {
       "raw_hot": 4259949,
@@ -19,8 +19,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3442537,
-      "num": 3442537,
+      "raw_hot": 3733597,
+      "num": 3733597,
       "word": "重庆山火",
       "onboard_time": 1661081731,
       "rank": 5,
@@ -155,6 +155,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1713237,
+      "num": 1713237,
+      "word": "王传君说王鹤棣是很稀缺的一类人",
+      "onboard_time": 1661093133,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1689258,
+      "num": 1689258,
+      "word": "川渝人民要哭了",
+      "onboard_time": 1661095112,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1670554,
       "num": 1670554,
       "word": "台湾同胞就是中国公民",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1469178,
-      "num": 458248,
+      "num": 467523,
       "word": "主持人叫肖战小朋友",
       "onboard_time": 1661091333,
       "rank": 20,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296712,
+      "num": 799666,
+      "word": "河南邓州后妈女儿殴打小婴儿",
+      "onboard_time": 1661093610,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1288786,
       "num": 1288786,
       "word": "网传李现任敏主演群星闪耀时",
@@ -289,14 +313,6 @@
       "onboard_time": 1661083410,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1231516,
-      "num": 1231516,
-      "word": "王传君说王鹤棣是很稀缺的一类人",
-      "onboard_time": 1661093133,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1226659,
@@ -347,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1050069,
+      "num": 1050069,
+      "word": "高中语文没有一篇课文是充数的",
+      "onboard_time": 1661092173,
+      "rank": 38,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 1023434,
       "num": 1023434,
       "word": "苍兰诀",
@@ -363,20 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1008636,
-      "num": 799666,
-      "word": "河南邓州后妈女儿殴打小婴儿",
-      "onboard_time": 1661093610,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 990421,
       "num": 990421,
       "word": "男子强行拿走顾客螺蛳粉和饮料",
       "onboard_time": 1661073627,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 969602,
+      "num": 969602,
+      "word": "苍兰诀制作人把口罩哭废了",
+      "onboard_time": 1661094393,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 967068,
@@ -507,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745816,
-      "num": 745816,
-      "word": "高中语文没有一篇课文是充数的",
-      "onboard_time": 1661092173,
-      "rank": 38,
-      "category": "教育,幽默"
+      "raw_hot": 766333,
+      "num": 671126,
+      "word": "神女爱世人",
+      "onboard_time": 1661094393,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 702318,
@@ -539,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 684741,
-      "num": 684741,
-      "word": "苍兰诀制作人把口罩哭废了",
-      "onboard_time": 1661094393,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 676801,
+      "num": 676801,
+      "word": "四川泸州突发山火",
+      "onboard_time": 1661092953,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 661845,
@@ -667,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 586960,
-      "num": 586960,
-      "word": "四川泸州突发山火",
-      "onboard_time": 1661092953,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 585530,
       "num": 585530,
       "word": "斗破苍穹小说十大名场面",
@@ -707,12 +723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568319,
+      "num": 568319,
+      "word": "人们为什么不爱买无印良品了",
+      "onboard_time": 1661093734,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 561978,
       "num": 352168,
       "word": "华晨宇红发",
       "onboard_time": 1661077949,
       "rank": 20,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 561774,
+      "num": 449681,
+      "word": "郑钧曾经把奖拿了个遍",
+      "onboard_time": 1661091812,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 557177,
@@ -827,14 +859,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 514127,
-      "num": 193568,
-      "word": "神女爱世人",
-      "onboard_time": 1661094393,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 510534,
       "num": 510534,
       "word": "新疆阿勒泰下雪了",
@@ -849,14 +873,6 @@
       "onboard_time": 1661045668,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501729,
-      "num": 449681,
-      "word": "郑钧曾经把奖拿了个遍",
-      "onboard_time": 1661091812,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 482857,
@@ -883,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471700,
+      "num": 471700,
+      "word": "东海海域实弹演习",
+      "onboard_time": 1661093373,
+      "rank": 19,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 471657,
       "num": 471657,
       "word": "岸田文雄感染新冠病毒",
       "onboard_time": 1661072668,
       "rank": 22,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 461619,
-      "num": 461619,
-      "word": "东海海域实弹演习",
-      "onboard_time": 1661093373,
-      "rank": 19,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 455074,
@@ -939,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 448069,
+      "num": 315576,
+      "word": "宋茜说小团团好甜",
+      "onboard_time": 1661095293,
+      "rank": 30,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 442613,
       "num": 442613,
       "word": "于文文花木兰造型",
@@ -953,6 +977,14 @@
       "onboard_time": 1661016257,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439474,
+      "num": 439474,
+      "word": "钎城哭了",
+      "onboard_time": 1661094574,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 438873,
@@ -1027,20 +1059,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419450,
+      "num": 366585,
+      "word": "今年让你真香的电视剧",
+      "onboard_time": 1661093911,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416410,
       "num": 416410,
       "word": "成都电力工人的高温日常",
       "onboard_time": 1661050946,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413593,
-      "num": 366585,
-      "word": "今年让你真香的电视剧",
-      "onboard_time": 1661093911,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 406560,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1661063005,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403579,
+      "num": 303410,
+      "word": "程潇演的洛神",
+      "onboard_time": 1661096192,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 403464,
@@ -1227,14 +1267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 366361,
-      "num": 366361,
-      "word": "钎城哭了",
-      "onboard_time": 1661094574,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 366231,
       "num": 366231,
       "word": "嗑到了一些不该嗑的cp",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1661090189,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356218,
-      "num": 367630,
-      "word": "人们为什么不爱买无印良品了",
-      "onboard_time": 1661093734,
-      "rank": 28,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 355609,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1661070749,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 301119,
+      "num": 301119,
+      "word": "新版红绿灯",
+      "onboard_time": 1661095713,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300396,
@@ -1859,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254234,
+      "num": 254234,
+      "word": "贵州赤水山火",
+      "onboard_time": 1661096130,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 252623,
       "num": 252623,
       "word": "安徽怀宁新增5例初筛阳性",
@@ -2019,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229171,
+      "num": 200661,
+      "word": "隐入尘烟",
+      "onboard_time": 1661095352,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "中国女排亚洲杯小组赛首胜",
@@ -2105,14 +2153,6 @@
       "onboard_time": 1661015241,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212418,
-      "num": 212418,
-      "word": "川渝人民要哭了",
-      "onboard_time": 1661095112,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211644,
