@@ -1,7 +1,15 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661121471745,
+  "endTime": 1661124063873,
   "band_list": [
+    {
+      "raw_hot": 3229953,
+      "num": 3229953,
+      "word": "新版红绿灯",
+      "onboard_time": 1661095713,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2930085,
       "num": 1093634,
@@ -17,14 +25,6 @@
       "onboard_time": 1661081731,
       "rank": 0,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2740064,
-      "num": 2740064,
-      "word": "新版红绿灯",
-      "onboard_time": 1661095713,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2367643,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 645816,
+      "num": 645816,
+      "word": "专家释疑京津冀现不明黑色昆虫",
+      "onboard_time": 1661097870,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548978,
       "num": 548978,
       "word": "江西29岁辅警不幸殉职",
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467925,
+      "num": 467925,
+      "word": "四川最大火力发电厂全力供电",
+      "onboard_time": 1661100442,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460417,
       "num": 460417,
       "word": "日本东京发生随机砍人事件",
@@ -131,8 +147,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 420952,
-      "num": 420952,
+      "raw_hot": 432419,
+      "num": 432419,
       "word": "没有一个年轻人能买到土豆",
       "onboard_time": 1661090732,
       "rank": 17,
@@ -155,12 +171,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 375682,
-      "num": 375682,
-      "word": "专家释疑京津冀现不明黑色昆虫",
-      "onboard_time": 1661097870,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 337595,
+      "num": 337595,
+      "word": "网传折腰主演暂定张晚意宋轶",
+      "onboard_time": 1661103617,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 336126,
@@ -169,14 +185,6 @@
       "onboard_time": 1661091333,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320141,
-      "num": 320141,
-      "word": "四川最大火力发电厂全力供电",
-      "onboard_time": 1661100442,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289621,
@@ -243,12 +251,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243755,
+      "num": 243755,
+      "word": "95后女教练带队拿下男篮全国冠军",
+      "onboard_time": 1661112073,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 237817,
       "num": 192006,
       "word": "郑钧曾经把奖拿了个遍",
       "onboard_time": 1661091812,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230742,
+      "num": 230742,
+      "word": "大连疫情防控",
+      "onboard_time": 1661118010,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222903,
+      "num": 222903,
+      "word": "重庆北碚区发生山火",
+      "onboard_time": 1661123840,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 219714,
@@ -267,20 +299,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214758,
-      "num": 214758,
-      "word": "网传折腰主演暂定张晚意宋轶",
-      "onboard_time": 1661103617,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210695,
       "num": 210695,
       "word": "成都疫情防控",
       "onboard_time": 1661086711,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195762,
+      "num": 195762,
+      "word": "岸田文雄原定于明日恢复工作",
+      "onboard_time": 1661114350,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 194715,
@@ -320,14 +352,6 @@
       "word": "官方辟谣重庆部分区域用电全停",
       "onboard_time": 1661087011,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178885,
-      "num": 178885,
-      "word": "大连疫情防控",
-      "onboard_time": 1661118010,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -419,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121956,
-      "num": 121956,
-      "word": "岸田文雄原定于明日恢复工作",
-      "onboard_time": 1661114350,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 117267,
       "num": 117267,
       "word": "适合成年人用的闹钟",
@@ -441,14 +457,6 @@
       "onboard_time": 1661089774,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113640,
-      "num": 113640,
-      "word": "95后女教练带队拿下男篮全国冠军",
-      "onboard_time": 1661112073,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 113092,
@@ -467,12 +475,36 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 66100,
-      "num": 66100,
+      "raw_hot": 98258,
+      "num": 98258,
       "word": "怎么让自己看起来不好惹",
       "onboard_time": 1661102420,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 78711,
+      "num": 78711,
+      "word": "浪姐3团综星星的约定大理录制路透",
+      "onboard_time": 1661080529,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77983,
+      "num": 77983,
+      "word": "102岁外婆害羞说泡泡吹大了",
+      "onboard_time": 1661123540,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70995,
+      "num": 59679,
+      "word": "四川绵阳市北川县3.2级地震",
+      "onboard_time": 1661124022,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46508,
@@ -489,14 +521,6 @@
       "onboard_time": 1661115012,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38409,
-      "num": 38409,
-      "word": "浪姐3团综星星的约定大理录制路透",
-      "onboard_time": 1661080529,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 13039,
