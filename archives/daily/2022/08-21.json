@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661089411909,
+  "endTime": 1661091526094,
   "band_list": [
     {
       "raw_hot": 4259949,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1417790,
+      "num": 1417790,
+      "word": "长生花真的be了",
+      "onboard_time": 1661087071,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1367616,
       "num": 1367616,
       "word": "重庆一家11口溶洞避暑9人失联",
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1288688,
+      "num": 405664,
+      "word": "主持人叫肖战小朋友",
+      "onboard_time": 1661091333,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1277812,
       "num": 1220608,
       "word": "巽风 毒唯",
@@ -257,14 +273,6 @@
       "onboard_time": 1661049509,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1253516,
-      "num": 1253516,
-      "word": "长生花真的be了",
-      "onboard_time": 1661087071,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1246455,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 991549,
+      "num": 991549,
+      "word": "Doinb",
+      "onboard_time": 1661089954,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 990421,
       "num": 990421,
       "word": "男子强行拿走顾客螺蛳粉和饮料",
@@ -345,6 +361,14 @@
       "onboard_time": 1661040384,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 967007,
+      "num": 967007,
+      "word": "男童被困车尾箱近2小时患热射病",
+      "onboard_time": 1661086711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 960384,
@@ -371,20 +395,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 919919,
-      "num": 919919,
-      "word": "男童被困车尾箱近2小时患热射病",
-      "onboard_time": 1661086711,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 897251,
       "num": 654632,
       "word": "王鹤棣虞书欣张凌赫cp叫王欣凌",
       "onboard_time": 1661074648,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 880957,
+      "num": 880957,
+      "word": "王一博我把那盘肉吃完我走",
+      "onboard_time": 1661090792,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 865122,
@@ -571,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 589373,
+      "num": 589373,
+      "word": "孟子义哭着说已经开始想念",
+      "onboard_time": 1661088815,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585530,
       "num": 585530,
       "word": "斗破苍穹小说十大名场面",
@@ -649,6 +681,14 @@
       "onboard_time": 1661008832,
       "rank": 9,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 538150,
+      "num": 538150,
+      "word": "成都疫情防控",
+      "onboard_time": 1661086711,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533459,
@@ -771,14 +811,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 450526,
-      "num": 450526,
-      "word": "成都疫情防控",
-      "onboard_time": 1661086711,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448822,
       "num": 448822,
       "word": "Karsa上场",
@@ -809,6 +841,14 @@
       "onboard_time": 1661085752,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438614,
+      "num": 438614,
+      "word": "界石",
+      "onboard_time": 1661088513,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 438189,
@@ -851,12 +891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417950,
+      "num": 417950,
+      "word": "苍兰诀站内热度第二",
+      "onboard_time": 1661091210,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416410,
       "num": 416410,
       "word": "成都电力工人的高温日常",
       "onboard_time": 1661050946,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411042,
+      "num": 405463,
+      "word": "造谣者手写信向余景天父母道歉",
+      "onboard_time": 1661091391,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 406560,
@@ -931,6 +987,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388115,
+      "num": 388115,
+      "word": "小兰花说苍盐海就是我的家",
+      "onboard_time": 1661089895,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387100,
+      "num": 387100,
+      "word": "官方辟谣重庆部分区域用电全停",
+      "onboard_time": 1661087011,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381905,
       "num": 381905,
       "word": "美国餐厅一男子吸烟遭拒枪杀保安",
@@ -955,6 +1027,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 377525,
+      "num": 377525,
+      "word": "第一次见会铺床的兔子",
+      "onboard_time": 1661090251,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 377418,
       "num": 377418,
       "word": "大妈横躺地铁座位吃馍垃圾扔地上",
@@ -977,6 +1057,14 @@
       "onboard_time": 1661074527,
       "rank": 48,
       "category": "其它"
+    },
+    {
+      "raw_hot": 372414,
+      "num": 372414,
+      "word": "LNG一穿三",
+      "onboard_time": 1661089774,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 372356,
@@ -1009,6 +1097,14 @@
       "onboard_time": 1661042907,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 357526,
+      "num": 230418,
+      "word": "小兰花的爱情观",
+      "onboard_time": 1661090189,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 355609,
@@ -1065,6 +1161,14 @@
       "onboard_time": 1661053767,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337019,
+      "num": 337019,
+      "word": "没有一个年轻人能买到土豆",
+      "onboard_time": 1661090732,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 336427,
@@ -1195,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323162,
-      "num": 323162,
-      "word": "孟子义哭着说已经开始想念",
-      "onboard_time": 1661088815,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322713,
       "num": 322713,
       "word": "长沙雨花区发现1例确诊病例",
@@ -1291,14 +1387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 297456,
-      "num": 297456,
-      "word": "界石",
-      "onboard_time": 1661088513,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 296436,
       "num": 296436,
       "word": "俄气宣布仅剩的一台涡轮机将停机检修",
@@ -1353,14 +1441,6 @@
       "onboard_time": 1661051725,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289098,
-      "num": 289098,
-      "word": "官方辟谣重庆部分区域用电全停",
-      "onboard_time": 1661087011,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287530,
@@ -1571,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257013,
+      "num": 257013,
+      "word": "清清蒙恬MVP",
+      "onboard_time": 1661091451,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255059,
       "num": 255059,
       "word": "多地商家立网红路牌涉违规被拆",
@@ -1683,6 +1771,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 238194,
+      "num": 224207,
+      "word": "董璇的温柔都在细节里",
+      "onboard_time": 1661089714,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238161,
       "num": 163110,
       "word": "打卡吧吃货团",
@@ -1755,6 +1851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 225894,
+      "num": 225894,
+      "word": "这瘦腿操是来报仇的吧",
+      "onboard_time": 1661091032,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225286,
       "num": 225286,
       "word": "已向长江下游补水7.6亿立方米",
@@ -1784,6 +1888,14 @@
       "word": "大连疫情防控",
       "onboard_time": 1661065587,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220892,
+      "num": 220892,
+      "word": "山西晋中发现2例初筛阳性人员",
+      "onboard_time": 1661089112,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1963,6 +2075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195026,
+      "num": 195026,
+      "word": "利兹联vs切尔西",
+      "onboard_time": 1661090612,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191693,
       "num": 191693,
       "word": "湖北新增本土1例确诊15例无症状",
@@ -2035,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183478,
+      "num": 183478,
+      "word": "杨某人回应",
+      "onboard_time": 1661091391,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183384,
       "num": 183384,
       "word": "多拉多撞倒马宁染红",
@@ -2096,14 +2224,6 @@
       "word": "高温包围圈终于要缩了",
       "onboard_time": 1661072909,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170946,
-      "num": 170946,
-      "word": "山西晋中发现2例初筛阳性人员",
-      "onboard_time": 1661089112,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
