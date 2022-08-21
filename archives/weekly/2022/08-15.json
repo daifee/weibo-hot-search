@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661091526094,
+  "endTime": 1661092545061,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -1507,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1469178,
+      "num": 410006,
+      "word": "主持人叫肖战小朋友",
+      "onboard_time": 1661091333,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1464240,
       "num": 1464240,
       "word": "云南书记要求反思游客为什么不来",
@@ -1939,14 +1947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1288688,
-      "num": 405664,
-      "word": "主持人叫肖战小朋友",
-      "onboard_time": 1661091333,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1284675,
       "num": 521264,
       "word": "BLACKPINK直播",
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1226659,
+      "num": 1226659,
+      "word": "Doinb",
+      "onboard_time": 1660743995,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1223783,
       "num": 1223783,
       "word": "警方将衣服鞋袜归还苏州穿和服女孩",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1660743037,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1222567,
+      "num": 1222567,
+      "word": "王一博我把那盘肉吃完我走",
+      "onboard_time": 1661090792,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1218381,
@@ -2979,14 +2995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 991549,
-      "num": 991549,
-      "word": "Doinb",
-      "onboard_time": 1660743995,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 991279,
       "num": 991279,
       "word": "红蜻蜓全场泪崩",
@@ -3483,14 +3491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 880957,
-      "num": 880957,
-      "word": "王一博我把那盘肉吃完我走",
-      "onboard_time": 1661090792,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 878122,
       "num": 878122,
       "word": "青海大通山洪16人死亡36人失联",
@@ -3897,6 +3897,14 @@
       "onboard_time": 1661008953,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 788214,
+      "num": 788214,
+      "word": "苍兰诀站内热度第二",
+      "onboard_time": 1661091210,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 787926,
@@ -4489,6 +4497,14 @@
       "onboard_time": 1661080287,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702188,
+      "num": 702188,
+      "word": "没有一个年轻人能买到土豆",
+      "onboard_time": 1661090732,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 702091,
@@ -6075,20 +6091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538858,
+      "num": 538858,
+      "word": "成都疫情防控",
+      "onboard_time": 1660616492,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538165,
       "num": 538165,
       "word": "南部战区战机深夜空战对抗训练",
       "onboard_time": 1660627776,
       "rank": 48,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 538150,
-      "num": 538150,
-      "word": "成都疫情防控",
-      "onboard_time": 1660616492,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537935,
@@ -6369,6 +6385,14 @@
       "onboard_time": 1660625202,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 522313,
+      "num": 522313,
+      "word": "第一次见会铺床的兔子",
+      "onboard_time": 1661090251,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 522133,
@@ -6881,6 +6905,14 @@
       "onboard_time": 1660566691,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493612,
+      "num": 493612,
+      "word": "重庆巴南区界石发生山火",
+      "onboard_time": 1661091572,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 492488,
@@ -8115,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426807,
+      "num": 405463,
+      "word": "造谣者手写信向余景天父母道歉",
+      "onboard_time": 1661091391,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426727,
       "num": 426727,
       "word": "FPX战胜OMG",
@@ -8291,14 +8331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417950,
-      "num": 417950,
-      "word": "苍兰诀站内热度第二",
-      "onboard_time": 1661091210,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 417845,
       "num": 417845,
       "word": "河南下周二实质性降温",
@@ -8393,14 +8425,6 @@
       "onboard_time": 1660549531,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 411042,
-      "num": 405463,
-      "word": "造谣者手写信向余景天父母道歉",
-      "onboard_time": 1661091391,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 410171,
@@ -8819,6 +8843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392569,
+      "num": 392569,
+      "word": "小兰花人设",
+      "onboard_time": 1661091931,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392242,
       "num": 392242,
       "word": "男孩用第一桶金给消防员买了雪糕",
@@ -9225,14 +9257,6 @@
       "onboard_time": 1660781728,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 377525,
-      "num": 377525,
-      "word": "第一次见会铺床的兔子",
-      "onboard_time": 1661090251,
-      "rank": 24,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 377418,
@@ -10243,6 +10267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345185,
+      "num": 290764,
+      "word": "郑钧曾经把奖拿了个遍",
+      "onboard_time": 1661091812,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345133,
       "num": 298308,
       "word": "王大陆披荆斩棘的镜头除了笑还是笑",
@@ -10505,14 +10537,6 @@
       "onboard_time": 1660951340,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337019,
-      "num": 337019,
-      "word": "没有一个年轻人能买到土豆",
-      "onboard_time": 1661090732,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 336899,
@@ -11883,6 +11907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293835,
+      "num": 293835,
+      "word": "这瘦腿操是来报仇的吧",
+      "onboard_time": 1661091032,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293748,
       "num": 293748,
       "word": "西藏增本土无症状501例",
@@ -12017,6 +12049,14 @@
       "onboard_time": 1660837654,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290521,
+      "num": 290521,
+      "word": "TES",
+      "onboard_time": 1661091752,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 290401,
@@ -12408,6 +12448,14 @@
       "word": "独行月球票房破25亿",
       "onboard_time": 1660646912,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278835,
+      "num": 187043,
+      "word": "王鹤棣看到虞书欣张凌赫拍照吃醋了",
+      "onboard_time": 1661091931,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -14163,14 +14211,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 225894,
-      "num": 225894,
-      "word": "这瘦腿操是来报仇的吧",
-      "onboard_time": 1661091032,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225842,
       "num": 225842,
       "word": "爱情里真正的遗憾是什么",
@@ -14201,6 +14241,14 @@
       "onboard_time": 1661047291,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225212,
+      "num": 225212,
+      "word": "高中语文没有一篇课文是充数的",
+      "onboard_time": 1661092173,
+      "rank": 38,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 224846,
@@ -15003,6 +15051,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 201070,
+      "num": 201070,
+      "word": "杨某人回应",
+      "onboard_time": 1661091391,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201053,
       "num": 201053,
       "word": "老北京的手抓羊肉",
@@ -15112,6 +15168,14 @@
       "word": "抖五值得",
       "onboard_time": 1661085689,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195753,
+      "num": 195753,
+      "word": "Doinb打拳庆祝",
+      "onboard_time": 1661091873,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -15449,14 +15513,6 @@
       "onboard_time": 1661061509,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183478,
-      "num": 183478,
-      "word": "杨某人回应",
-      "onboard_time": 1661091391,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 183384,
@@ -16009,6 +16065,14 @@
       "onboard_time": 1660609290,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159568,
+      "num": 159568,
+      "word": "广州队4比1深圳队",
+      "onboard_time": 1661092533,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 159045,

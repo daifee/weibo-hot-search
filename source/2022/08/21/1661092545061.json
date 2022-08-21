@@ -1,0 +1,410 @@
+{
+  "runTime": 1661092545061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2228026,
+        "num": 2228026,
+        "word": "苍兰诀破万",
+        "onboard_time": 1661087311,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1972454,
+        "num": 1972454,
+        "word": "杨某人四抓",
+        "onboard_time": 1661082209,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20468,
+        "num": 1622960,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1615021,
+        "num": 1615021,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274961,
+        "num": 1274961,
+        "word": "长生花真的be了",
+        "onboard_time": 1661087071,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1226659,
+        "num": 1226659,
+        "word": "Doinb",
+        "onboard_time": 1661089954,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1222567,
+        "num": 1222567,
+        "word": "王一博我把那盘肉吃完我走",
+        "onboard_time": 1661090792,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1131108,
+        "num": 1131108,
+        "word": "女子背3个月大孩子烈日下卖玉米",
+        "onboard_time": 1661083590,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011733,
+        "num": 1011733,
+        "word": "日本东京发生随机砍人事件",
+        "onboard_time": 1661075490,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 987217,
+        "num": 987217,
+        "word": "重庆山火",
+        "onboard_time": 1661081731,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 788214,
+        "num": 788214,
+        "word": "苍兰诀站内热度第二",
+        "onboard_time": 1661091210,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744895,
+        "num": 744895,
+        "word": "苍兰诀",
+        "onboard_time": 1661088692,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734399,
+        "num": 734399,
+        "word": "男童被困车尾箱近2小时患热射病",
+        "onboard_time": 1661086711,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702188,
+        "num": 702188,
+        "word": "没有一个年轻人能买到土豆",
+        "onboard_time": 1661090732,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 550635,
+        "num": 550635,
+        "word": "孟子义哭着说已经开始想念",
+        "onboard_time": 1661088815,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538858,
+        "num": 538858,
+        "word": "成都疫情防控",
+        "onboard_time": 1661086711,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522313,
+        "num": 522313,
+        "word": "第一次见会铺床的兔子",
+        "onboard_time": 1661090251,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 493612,
+        "num": 493612,
+        "word": "重庆巴南区界石发生山火",
+        "onboard_time": 1661091572,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 462220,
+        "num": 462220,
+        "word": "LNG战胜V5",
+        "onboard_time": 1661088875,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414746,
+        "num": 414746,
+        "word": "毕业后还问家里要钱是什么体验",
+        "onboard_time": 1661081248,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1469178,
+        "num": 410006,
+        "word": "主持人叫肖战小朋友",
+        "onboard_time": 1661091333,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426807,
+        "num": 402543,
+        "word": "造谣者手写信向余景天父母道歉",
+        "onboard_time": 1661091391,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392569,
+        "num": 392569,
+        "word": "小兰花人设",
+        "onboard_time": 1661091931,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380627,
+        "num": 380627,
+        "word": "官方辟谣重庆部分区域用电全停",
+        "onboard_time": 1661087011,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336452,
+        "num": 336452,
+        "word": "LNG一穿三",
+        "onboard_time": 1661089774,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327906,
+        "num": 327906,
+        "word": "渡劫 解说",
+        "onboard_time": 1661086890,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325605,
+        "num": 325605,
+        "word": "界石",
+        "onboard_time": 1661088513,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 317543,
+        "num": 317543,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293835,
+        "num": 293835,
+        "word": "这瘦腿操是来报仇的吧",
+        "onboard_time": 1661091032,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 290804,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345185,
+        "num": 290764,
+        "word": "郑钧曾经把奖拿了个遍",
+        "onboard_time": 1661091812,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290521,
+        "num": 290521,
+        "word": "TES",
+        "onboard_time": 1661091752,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337604,
+        "num": 290030,
+        "word": "杜德伟在娱乐圈究竟有多少好朋友",
+        "onboard_time": 1661076808,
+        "rank": 32,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 288123,
+        "num": 288123,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289001,
+        "num": 278710,
+        "word": "极限挑战",
+        "onboard_time": 1661086650,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357773,
+        "num": 276859,
+        "word": "小兰花说苍盐海就是我的家",
+        "onboard_time": 1661089895,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256613,
+        "num": 256613,
+        "word": "iPhone14系列或仍有mini",
+        "onboard_time": 1661075610,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 235866,
+        "num": 235866,
+        "word": "被闺蜜的婚礼致辞整破防了",
+        "onboard_time": 1661087011,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 225212,
+        "num": 225212,
+        "word": "高中语文没有一篇课文是充数的",
+        "onboard_time": 1661092173,
+        "rank": 38,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 221848,
+        "num": 221848,
+        "word": "9岁女孩暑假胖十几斤查出脂肪肝",
+        "onboard_time": 1661074468,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265764,
+        "num": 221176,
+        "word": "何悯鸿自以为是的行为好无语",
+        "onboard_time": 1661087251,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216340,
+        "num": 216340,
+        "word": "俄方称杜金之女身亡案系刺杀",
+        "onboard_time": 1661079088,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 201070,
+        "num": 201070,
+        "word": "杨某人回应",
+        "onboard_time": 1661091391,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198077,
+        "num": 198077,
+        "word": "和平精英",
+        "onboard_time": 1661076449,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195753,
+        "num": 195753,
+        "word": "Doinb打拳庆祝",
+        "onboard_time": 1661091873,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278835,
+        "num": 187043,
+        "word": "王鹤棣看到虞书欣张凌赫拍照吃醋了",
+        "onboard_time": 1661091931,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176847,
+        "num": 176847,
+        "word": "日本首相岸田文雄感染新冠病毒",
+        "onboard_time": 1661072668,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 171026,
+        "num": 171026,
+        "word": "山西晋中发现2例初筛阳性人员",
+        "onboard_time": 1661089112,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168061,
+        "num": 168061,
+        "word": "美国餐厅一男子吸烟遭拒枪杀保安",
+        "onboard_time": 1661080049,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 159568,
+        "num": 159568,
+        "word": "广州队4比1深圳队",
+        "onboard_time": 1661092533,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}
