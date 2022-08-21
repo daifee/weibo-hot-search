@@ -1,0 +1,410 @@
+{
+  "runTime": 1661050262933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3254572,
+        "num": 3254572,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1827006,
+        "num": 1827006,
+        "word": "水滴筹",
+        "onboard_time": 1661039841,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330712,
+        "num": 1821029,
+        "word": "暑假只剩10天了",
+        "onboard_time": 1661041048,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1820743,
+        "num": 1820743,
+        "word": "中国家长开始送孩子去泰国读书",
+        "onboard_time": 1661043807,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1670554,
+        "num": 1670554,
+        "word": "台湾同胞就是中国公民",
+        "onboard_time": 1661044949,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1445969,
+        "num": 1445969,
+        "word": "刘雨昕错用收款码付款",
+        "onboard_time": 1661047890,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1260515,
+        "num": 1260515,
+        "word": "乐山大佛真身全部露出",
+        "onboard_time": 1661006432,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 800829,
+        "num": 800829,
+        "word": "11岁女孩痛经哭闹不止查出2个子宫",
+        "onboard_time": 1661009372,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785977,
+        "num": 785977,
+        "word": "我买的房子终于发货了",
+        "onboard_time": 1661040384,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 714178,
+        "num": 714178,
+        "word": "看到苏有朋后突然就理解了",
+        "onboard_time": 1661040384,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865233,
+        "num": 707178,
+        "word": "劳荣枝最后陈述称想赎罪想回归社会",
+        "onboard_time": 1661042066,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664944,
+        "num": 664944,
+        "word": "中国驻柬埔寨大使馆发声",
+        "onboard_time": 1661042666,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 649221,
+        "num": 649221,
+        "word": "月升沧海意难平",
+        "onboard_time": 1661046927,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644852,
+        "num": 644852,
+        "word": "男子养来路不明鸟一家5口患鹦鹉热",
+        "onboard_time": 1661047472,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583370,
+        "num": 583370,
+        "word": "做上门女婿7年男子回应",
+        "onboard_time": 1661048489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527820,
+        "num": 527820,
+        "word": "苍兰夫妇大婚含血吻花絮",
+        "onboard_time": 1661039903,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483221,
+        "num": 483221,
+        "word": "西藏民警巡逻后从身上清出35条蚂蟥",
+        "onboard_time": 1661045668,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452351,
+        "num": 452351,
+        "word": "六公主认证星汉灿烂暑期爆剧",
+        "onboard_time": 1661010571,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433666,
+        "num": 433666,
+        "word": "俄社会学家杜金之女汽车爆炸中身亡",
+        "onboard_time": 1661047170,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397836,
+        "num": 397836,
+        "word": "四川启动突发事件能源供应保障一级应急响应",
+        "onboard_time": 1661049509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362326,
+        "num": 362326,
+        "word": "婚后拥有完全属于自己的空间能有多快乐",
+        "onboard_time": 1661039481,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340852,
+        "num": 340852,
+        "word": "男子睡前玩手机患睡眠障碍",
+        "onboard_time": 1661036716,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334273,
+        "num": 334273,
+        "word": "重庆一家11口溶洞避暑9人失联",
+        "onboard_time": 1661007574,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 327988,
+        "num": 327988,
+        "word": "陈宇有多拼王一博就有多狠",
+        "onboard_time": 1661050109,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311834,
+        "num": 311834,
+        "word": "苹果曝出严重安全漏洞",
+        "onboard_time": 1660998870,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 291909,
+        "num": 291909,
+        "word": "央视新闻直播里的谭维维",
+        "onboard_time": 1661048671,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280682,
+        "num": 280682,
+        "word": "嗑到了一些不该嗑的cp",
+        "onboard_time": 1661042907,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279348,
+        "num": 279348,
+        "word": "新疆阿勒泰下雪了",
+        "onboard_time": 1661049207,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278184,
+        "num": 278184,
+        "word": "冰雨火",
+        "onboard_time": 1661049030,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258369,
+        "num": 258369,
+        "word": "苍兰诀BGM",
+        "onboard_time": 1661045488,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255059,
+        "num": 255059,
+        "word": "多地商家立网红路牌涉违规被拆",
+        "onboard_time": 1661046509,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247804,
+        "num": 247804,
+        "word": "刘恺威不敢看镜头",
+        "onboard_time": 1661004216,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245911,
+        "num": 245911,
+        "word": "小兰花后面站着的是她的爸妈",
+        "onboard_time": 1661037860,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240118,
+        "num": 240118,
+        "word": "揭秘中国海军首支电磁蓝军部队",
+        "onboard_time": 1661043928,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 241680,
+        "num": 239058,
+        "word": "王鹤棣分享东方青苍大号换装",
+        "onboard_time": 1661050171,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237003,
+        "num": 237003,
+        "word": "顾客换菜被拒咒店主未出生孩子",
+        "onboard_time": 1661023753,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220450,
+        "num": 220450,
+        "word": "西安新增13个高风险区",
+        "onboard_time": 1661045727,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217513,
+        "num": 217513,
+        "word": "建议进返京后一周内减少外出频次",
+        "onboard_time": 1661048790,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207184,
+        "num": 207184,
+        "word": "爸爸的军功章摞起来比4岁儿子还高",
+        "onboard_time": 1661049509,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206214,
+        "num": 206214,
+        "word": "TF家族恭喜你发现了宝藏先导篇",
+        "onboard_time": 1661049807,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203142,
+        "num": 203142,
+        "word": "上海昨日增本土无症状2例",
+        "onboard_time": 1661044830,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197857,
+        "num": 197857,
+        "word": "大连新增8例无症状",
+        "onboard_time": 1661048129,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193711,
+        "num": 193711,
+        "word": "已向长江下游补水7.6亿立方米",
+        "onboard_time": 1661047291,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191693,
+        "num": 191693,
+        "word": "湖北新增本土1例确诊15例无症状",
+        "onboard_time": 1661048849,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191053,
+        "num": 191053,
+        "word": "西藏增本土无症状560例",
+        "onboard_time": 1661045548,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184414,
+        "num": 184414,
+        "word": "沉香重华",
+        "onboard_time": 1661037978,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182984,
+        "num": 182984,
+        "word": "恢复北溪2号不在德政府讨论范围内",
+        "onboard_time": 1661044227,
+        "rank": 46,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 180276,
+        "num": 180276,
+        "word": "母女开门起静电引发煤气爆炸",
+        "onboard_time": 1661024592,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170634,
+        "num": 170634,
+        "word": "苍兰诀",
+        "onboard_time": 1661006072,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165594,
+        "num": 165594,
+        "word": "B站引进莉可丽丝",
+        "onboard_time": 1661037016,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国长征系列火箭创下新纪录#"
+    }
+  }
+}
