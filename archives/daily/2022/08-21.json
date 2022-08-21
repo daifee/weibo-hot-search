@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661054282188,
+  "endTime": 1661054935959,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1219637,
-      "num": 1219637,
+      "raw_hot": 1266348,
+      "num": 1266348,
       "word": "四川启动突发事件能源供应保障一级应急响应",
       "onboard_time": 1661049509,
       "rank": 19,
@@ -147,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 744781,
-      "num": 744781,
+      "raw_hot": 777477,
+      "num": 777477,
       "word": "刘诗诗恭喜吴彦姝奶奶获奖",
       "onboard_time": 1661051967,
       "rank": 8,
@@ -259,6 +259,14 @@
       "category": "游戏,影视"
     },
     {
+      "raw_hot": 527429,
+      "num": 527429,
+      "word": "杜德伟年轻的时候有多帅",
+      "onboard_time": 1661052268,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516445,
       "num": 475486,
       "word": "任嘉伦爬墙好快",
@@ -273,14 +281,6 @@
       "onboard_time": 1661045668,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502213,
-      "num": 502213,
-      "word": "杜德伟年轻的时候有多帅",
-      "onboard_time": 1661052268,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 482857,
@@ -323,20 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416410,
+      "num": 416410,
+      "word": "成都电力工人的高温日常",
+      "onboard_time": 1661050946,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412798,
+      "num": 412798,
+      "word": "新疆阿勒泰下雪了",
+      "onboard_time": 1661049207,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403464,
       "num": 269185,
       "word": "李赫宰跳舞",
       "onboard_time": 1661010392,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 393113,
-      "num": 393113,
-      "word": "成都电力工人的高温日常",
-      "onboard_time": 1661050946,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393057,
@@ -377,6 +385,14 @@
       "onboard_time": 1661042907,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355007,
+      "num": 355007,
+      "word": "大妈横躺地铁座位吃馍垃圾扔地上",
+      "onboard_time": 1661051548,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354048,
@@ -451,20 +467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312659,
-      "num": 312659,
-      "word": "大妈横躺地铁座位吃馍垃圾扔地上",
-      "onboard_time": 1661051548,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309545,
       "num": 309545,
       "word": "建议进返京后一周内减少外出频次",
       "onboard_time": 1661048790,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307978,
+      "num": 307978,
+      "word": "那英说录脱5像回家了",
+      "onboard_time": 1661054189,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 300396,
@@ -507,20 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288912,
+      "num": 155254,
+      "word": "四川最高用电负荷已至6500万千瓦",
+      "onboard_time": 1661054908,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282738,
       "num": 168623,
       "word": "少女时代",
       "onboard_time": 1661002471,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 279348,
-      "num": 279348,
-      "word": "新疆阿勒泰下雪了",
-      "onboard_time": 1661049207,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278184,
@@ -555,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266629,
+      "num": 228027,
+      "word": "周笔畅晒姐姐聚会照",
+      "onboard_time": 1661053528,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262505,
       "num": 262505,
       "word": "苍兰诀BGM",
       "onboard_time": 1661045488,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257938,
+      "num": 257938,
+      "word": "陕西新增21例本土确诊45例本土无症状",
+      "onboard_time": 1661053106,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255059,
@@ -601,14 +633,6 @@
       "onboard_time": 1661030832,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238449,
-      "num": 238449,
-      "word": "陕西新增21例本土确诊45例本土无症状",
-      "onboard_time": 1661053106,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232100,
@@ -723,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200642,
+      "num": 200642,
+      "word": "蚊子喜欢咬爱出汗的人",
+      "onboard_time": 1661053767,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197857,
       "num": 197857,
       "word": "大连新增8例无症状",
@@ -739,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191975,
-      "num": 191975,
-      "word": "周笔畅晒姐姐聚会照",
-      "onboard_time": 1661053528,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191693,
       "num": 191693,
       "word": "湖北新增本土1例确诊15例无症状",
@@ -760,14 +784,6 @@
       "word": "灵隐寺暂停请购十八籽佛珠手串",
       "onboard_time": 1660989569,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182582,
-      "num": 182582,
-      "word": "蚊子喜欢咬爱出汗的人",
-      "onboard_time": 1661053767,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -787,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180455,
-      "num": 180455,
-      "word": "那英说录脱5像回家了",
-      "onboard_time": 1661054189,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173522,
       "num": 173522,
       "word": "老人走失3天被找到时口袋塞满钱",
@@ -811,12 +819,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168802,
+      "num": 168802,
+      "word": "苍兰诀弹幕",
+      "onboard_time": 1661054849,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 163510,
+      "num": 163510,
+      "word": "极星电动车被曝天价换电",
+      "onboard_time": 1661050946,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 162013,
       "num": 162013,
       "word": "银赫眼神",
       "onboard_time": 1661039841,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158325,
+      "num": 158325,
+      "word": "大连人官宣六名新援加盟",
+      "onboard_time": 1661053649,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 156180,
@@ -851,28 +883,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 149937,
-      "num": 149937,
-      "word": "大连人官宣六名新援加盟",
-      "onboard_time": 1661053649,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148662,
-      "num": 148662,
-      "word": "极星电动车被曝天价换电",
-      "onboard_time": 1661050946,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 148552,
       "num": 127649,
       "word": "开麦",
       "onboard_time": 1661002170,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141555,
+      "num": 141555,
+      "word": "河南新增1例本土确诊11例无症状",
+      "onboard_time": 1661054787,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140432,
