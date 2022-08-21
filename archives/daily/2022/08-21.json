@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661080671744,
+  "endTime": 1661081665045,
   "band_list": [
     {
       "raw_hot": 4259949,
@@ -163,19 +163,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1363397,
+      "num": 1363397,
+      "word": "我的助理六十岁已过审",
+      "onboard_time": 1661078430,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1327517,
       "num": 1327517,
       "word": "云中君 走地鸡",
       "onboard_time": 1661068768,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1326088,
-      "num": 1326088,
-      "word": "我的助理六十岁已过审",
-      "onboard_time": 1661078430,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -299,20 +299,20 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 942141,
+      "num": 942141,
+      "word": "杜德伟在娱乐圈究竟有多少好朋友",
+      "onboard_time": 1661076808,
+      "rank": 22,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 897251,
       "num": 654632,
       "word": "王鹤棣虞书欣张凌赫cp叫王欣凌",
       "onboard_time": 1661074648,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 851931,
-      "num": 851931,
-      "word": "杜德伟在娱乐圈究竟有多少好朋友",
-      "onboard_time": 1661076808,
-      "rank": 22,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 806037,
@@ -353,6 +353,14 @@
       "onboard_time": 1661073148,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694728,
+      "num": 584062,
+      "word": "浪姐3团综星星的约定大理录制路透",
+      "onboard_time": 1661080529,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 692783,
@@ -465,14 +473,6 @@
       "onboard_time": 1661057669,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 584062,
-      "num": 584062,
-      "word": "浪姐3团综星星的约定大理录制路透",
-      "onboard_time": 1661080529,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 581994,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452763,
+      "num": 452763,
+      "word": "和平精英",
+      "onboard_time": 1661076449,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 450850,
       "num": 450850,
       "word": "母女开门起静电引发煤气爆炸",
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378894,
+      "num": 378894,
+      "word": "俄方称杜金之女身亡案系刺杀",
+      "onboard_time": 1661079088,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 377418,
       "num": 377418,
       "word": "大妈横躺地铁座位吃馍垃圾扔地上",
@@ -793,14 +809,6 @@
       "onboard_time": 1661013684,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371417,
-      "num": 371417,
-      "word": "和平精英",
-      "onboard_time": 1661076449,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 368984,
@@ -1099,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291818,
+      "num": 291818,
+      "word": "TTG对战EDGM",
+      "onboard_time": 1661081071,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290806,
       "num": 290806,
       "word": "上海昨日增本土无症状2例",
@@ -1131,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283047,
+      "num": 283047,
+      "word": "毕业后还问家里要钱是什么体验",
+      "onboard_time": 1661081248,
+      "rank": 22,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 282738,
       "num": 168623,
       "word": "少女时代",
@@ -1147,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278717,
+      "num": 278717,
+      "word": "沈小婷KCON生图",
+      "onboard_time": 1661079870,
+      "rank": 31,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 278184,
       "num": 278184,
       "word": "冰雨火",
@@ -1159,6 +1191,14 @@
       "num": 277662,
       "word": "一条并蒂莲含量过高的视频",
       "onboard_time": 1661052569,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277425,
+      "num": 277425,
+      "word": "郑州一公交司机开车时玩斗地主",
+      "onboard_time": 1661080287,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -1243,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262823,
+      "num": 262823,
+      "word": "工作人员扮玩偶遭熊孩子围踢屁股",
+      "onboard_time": 1661078247,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262505,
       "num": 262505,
       "word": "苍兰诀BGM",
@@ -1299,20 +1347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250794,
-      "num": 224995,
-      "word": "沈小婷KCON生图",
-      "onboard_time": 1661079870,
-      "rank": 31,
-      "category": "音乐,时尚"
-    },
-    {
       "raw_hot": 249740,
       "num": 249740,
       "word": "小兰花后面站着的是她的爸妈",
       "onboard_time": 1661037860,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248306,
+      "num": 248306,
+      "word": "美国餐厅一男子吸烟遭拒枪杀保安",
+      "onboard_time": 1661080049,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 245861,
@@ -1371,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241644,
+      "num": 241644,
+      "word": "狗狗的心情都写在了脸上",
+      "onboard_time": 1661077589,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 238161,
       "num": 163110,
       "word": "打卡吧吃货团",
@@ -1385,14 +1441,6 @@
       "onboard_time": 1661057190,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234184,
-      "num": 234184,
-      "word": "工作人员扮玩偶遭熊孩子围踢屁股",
-      "onboard_time": 1661078247,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232300,
@@ -1451,14 +1499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 225847,
-      "num": 225847,
-      "word": "狗狗的心情都写在了脸上",
-      "onboard_time": 1661077589,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 225286,
       "num": 225286,
       "word": "已向长江下游补水7.6亿立方米",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1661051608,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223105,
-      "num": 223105,
-      "word": "俄方称杜金之女身亡案系刺杀",
-      "onboard_time": 1661079088,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 222894,
@@ -1627,6 +1659,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 200258,
+      "num": 200258,
+      "word": "高铁动车被装进包裹什么样",
+      "onboard_time": 1661079328,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197857,
       "num": 197857,
       "word": "大连新增8例无症状",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1660989569,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186932,
+      "num": 186932,
+      "word": "苍兰诀求婚助力大会",
+      "onboard_time": 1661081071,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 184667,
@@ -1747,27 +1795,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170383,
-      "num": 170383,
-      "word": "郑州一公交司机开车时玩斗地主",
-      "onboard_time": 1661080287,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166925,
       "num": 166925,
       "word": "成都最高气温再创历史新高",
       "onboard_time": 1661071529,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164714,
-      "num": 164714,
-      "word": "高铁动车被装进包裹什么样",
-      "onboard_time": 1661079328,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1833,14 +1865,6 @@
       "onboard_time": 1661037738,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 149685,
-      "num": 149685,
-      "word": "美国餐厅一男子吸烟遭拒枪杀保安",
-      "onboard_time": 1661080049,
-      "rank": 44,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 148552,
@@ -1928,6 +1952,14 @@
       "word": "黑龙江大庆发现3例阳性感染者",
       "onboard_time": 1661001689,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119698,
+      "num": 119698,
+      "word": "孩子躺地铁座上大叔提醒被家长怼",
+      "onboard_time": 1661081308,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
