@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661066386814,
+  "endTime": 1661067334157,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2518537,
+      "num": 2518537,
+      "word": "全家染幽门螺杆菌父亲查出胃早癌",
+      "onboard_time": 1661064628,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2323506,
       "num": 2323506,
       "word": "中国家长开始送孩子去泰国读书",
@@ -56,14 +64,6 @@
       "word": "男子冒死从缅北逃回讲述惨痛遭遇",
       "onboard_time": 1661057549,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1939138,
-      "num": 1939138,
-      "word": "全家染幽门螺杆菌父亲查出胃早癌",
-      "onboard_time": 1661064628,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 949971,
+      "num": 485263,
+      "word": "刘亦菲吴倩新剧演闺蜜",
+      "onboard_time": 1661067026,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 792490,
       "num": 792490,
       "word": "冰雨火还有啥不敢拍的吗",
@@ -233,6 +241,14 @@
       "onboard_time": 1661051967,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 758073,
+      "num": 758073,
+      "word": "女子寄快递丢失4800元手镯",
+      "onboard_time": 1661065229,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692783,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406414,
+      "num": 406414,
+      "word": "中国女排横扫韩国女排",
+      "onboard_time": 1661063005,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403464,
       "num": 269185,
       "word": "李赫宰跳舞",
@@ -499,12 +523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 401594,
-      "num": 401594,
-      "word": "中国女排横扫韩国女排",
-      "onboard_time": 1661063005,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 403206,
+      "num": 403206,
+      "word": "刘芸说郑钧是反内卷第一名",
+      "onboard_time": 1661065407,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 393173,
@@ -627,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335934,
+      "num": 335934,
+      "word": "当她说不想谈恋爱的时候",
+      "onboard_time": 1661063844,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 334961,
       "num": 334961,
       "word": "阿姨脖长肿块未在意2年发展成癌",
       "onboard_time": 1660997788,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334849,
-      "num": 322237,
-      "word": "刘芸说郑钧是反内卷第一名",
-      "onboard_time": 1661065407,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 332247,
@@ -681,22 +705,6 @@
       "onboard_time": 1661059468,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 322376,
-      "num": 322376,
-      "word": "当她说不想谈恋爱的时候",
-      "onboard_time": 1661063844,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 322217,
-      "num": 322217,
-      "word": "女子寄快递丢失4800元手镯",
-      "onboard_time": 1661065229,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319696,
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 293180,
-      "num": 101965,
+      "num": 213506,
       "word": "宋茜海岛着火彩排照",
       "onboard_time": 1661066367,
       "rank": 47,
@@ -849,6 +857,14 @@
       "onboard_time": 1661010751,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276388,
+      "num": 269542,
+      "word": "徐明浩好会扭",
+      "onboard_time": 1661066848,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 274860,
@@ -995,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237768,
+      "num": 237768,
+      "word": "iG冠军3C互评",
+      "onboard_time": 1661066428,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235209,
       "num": 232765,
       "word": "吴建豪和朱嘉琦宿舍合奏",
@@ -1033,6 +1057,22 @@
       "onboard_time": 1661065167,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229247,
+      "num": 229247,
+      "word": "南充疫情防控",
+      "onboard_time": 1661067026,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227748,
+      "num": 227748,
+      "word": "中国女排亚洲杯小组赛首胜",
+      "onboard_time": 1661066848,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 226862,
@@ -1179,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190202,
+      "num": 190202,
+      "word": "大连疫情防控",
+      "onboard_time": 1661065587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186938,
       "num": 186938,
       "word": "灵隐寺暂停请购十八籽佛珠手串",
@@ -1211,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176737,
+      "num": 176737,
+      "word": "重庆赶紧下场雨吧",
+      "onboard_time": 1661063366,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173522,
       "num": 173522,
       "word": "老人走失3天被找到时口袋塞满钱",
@@ -1224,14 +1280,6 @@
       "word": "山西Z22次列车落客中发现7名阳性",
       "onboard_time": 1660996229,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169125,
-      "num": 169125,
-      "word": "重庆赶紧下场雨吧",
-      "onboard_time": 1661063366,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1264,14 +1312,6 @@
       "word": "江津山火",
       "onboard_time": 1661040084,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154373,
-      "num": 154373,
-      "word": "大连疫情防控",
-      "onboard_time": 1661065587,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1395,11 +1435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100490,
+      "num": 100490,
+      "word": "严格遵守交通规则的小猫",
+      "onboard_time": 1661067089,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98864,
       "num": 98864,
       "word": "蚊子咬人是不挑血型的",
       "onboard_time": 1660992508,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98407,
+      "num": 98407,
+      "word": "昌吉疫情防控",
+      "onboard_time": 1661066848,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
