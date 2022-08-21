@@ -1,0 +1,410 @@
+{
+  "runTime": 1661056819675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2624150,
+        "num": 2624150,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067476,
+        "num": 1067476,
+        "word": "四川启动突发事件能源供应保障一级应急响应",
+        "onboard_time": 1661049509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266049,
+        "num": 1039080,
+        "word": "暑假只剩10天了",
+        "onboard_time": 1661041048,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277812,
+        "num": 1037160,
+        "word": "巽风 毒唯",
+        "onboard_time": 1661055387,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1025752,
+        "num": 1025752,
+        "word": "谷江山",
+        "onboard_time": 1661054963,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022964,
+        "num": 1022964,
+        "word": "刘雨昕错用收款码付款",
+        "onboard_time": 1661047890,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958851,
+        "num": 958851,
+        "word": "做上门女婿7年男子回应",
+        "onboard_time": 1661048489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810240,
+        "num": 810240,
+        "word": "中国家长开始送孩子去泰国读书",
+        "onboard_time": 1661043807,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 719538,
+        "num": 719538,
+        "word": "乐山大佛真身全部露出",
+        "onboard_time": 1661006432,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 668137,
+        "num": 668137,
+        "word": "台湾同胞就是中国公民",
+        "onboard_time": 1661044949,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 628659,
+        "num": 628659,
+        "word": "杜德伟年轻的时候有多帅",
+        "onboard_time": 1661052268,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608244,
+        "num": 608244,
+        "word": "刘诗诗恭喜吴彦姝奶奶获奖",
+        "onboard_time": 1661051967,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528428,
+        "num": 528428,
+        "word": "虞书欣要求郭晓婷真掐自己",
+        "onboard_time": 1661056167,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510534,
+        "num": 510534,
+        "word": "新疆阿勒泰下雪了",
+        "onboard_time": 1661049207,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476974,
+        "num": 476974,
+        "word": "四川最高用电负荷已至6500万千瓦",
+        "onboard_time": 1661054908,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468063,
+        "num": 468063,
+        "word": "11岁女孩痛经哭闹不止查出2个子宫",
+        "onboard_time": 1661009372,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393481,
+        "num": 393481,
+        "word": "我买的房子终于发货了",
+        "onboard_time": 1661040384,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377418,
+        "num": 377418,
+        "word": "大妈横躺地铁座位吃馍垃圾扔地上",
+        "onboard_time": 1661051548,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377027,
+        "num": 377027,
+        "word": "水滴筹",
+        "onboard_time": 1661039841,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 367945,
+        "num": 367945,
+        "word": "爸爸的军功章摞起来比4岁儿子还高",
+        "onboard_time": 1661049509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468274,
+        "num": 354890,
+        "word": "劳荣枝最后陈述称想赎罪想回归社会",
+        "onboard_time": 1661042066,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456580,
+        "num": 339514,
+        "word": "月升沧海意难平",
+        "onboard_time": 1661046927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370817,
+        "num": 330299,
+        "word": "王鹤棣分享东方青苍大号换装",
+        "onboard_time": 1661050171,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317475,
+        "num": 317475,
+        "word": "沉香重华明天见",
+        "onboard_time": 1661055629,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316067,
+        "num": 316067,
+        "word": "看到苏有朋后突然就理解了",
+        "onboard_time": 1661040384,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312824,
+        "num": 312824,
+        "word": "成都电力工人的高温日常",
+        "onboard_time": 1661050946,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298710,
+        "num": 298710,
+        "word": "男子养来路不明鸟一家5口患鹦鹉热",
+        "onboard_time": 1661047472,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283112,
+        "num": 283112,
+        "word": "水滴筹回应筹款中介抽成最高达70%",
+        "onboard_time": 1661055808,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277662,
+        "num": 277662,
+        "word": "一条并蒂莲含量过高的视频",
+        "onboard_time": 1661052569,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275785,
+        "num": 275785,
+        "word": "西藏民警巡逻后从身上清出35条蚂蟥",
+        "onboard_time": 1661045668,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312403,
+        "num": 275093,
+        "word": "苍兰诀弹幕",
+        "onboard_time": 1661054849,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283378,
+        "num": 274783,
+        "word": "宋亚轩王铮亮六年后再同框",
+        "onboard_time": 1661056708,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280980,
+        "num": 274697,
+        "word": "周笔畅晒姐姐聚会照",
+        "onboard_time": 1661053528,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273198,
+        "num": 273198,
+        "word": "俄社会学家杜金之女汽车爆炸中身亡",
+        "onboard_time": 1661047170,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271623,
+        "num": 271623,
+        "word": "大连人官宣六名新援加盟",
+        "onboard_time": 1661053649,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248493,
+        "num": 248493,
+        "word": "那英说录脱5像回家了",
+        "onboard_time": 1661054189,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245288,
+        "num": 245288,
+        "word": "再没谁能把你手牵这么紧了",
+        "onboard_time": 1661051967,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 239259,
+        "num": 239259,
+        "word": "蚊子喜欢咬爱出汗的人",
+        "onboard_time": 1661053767,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233718,
+        "num": 233718,
+        "word": "科学揭示为何会一见钟情",
+        "onboard_time": 1661055565,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 232873,
+        "num": 232873,
+        "word": "陕西新增21例本土确诊45例本土无症状",
+        "onboard_time": 1661053106,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217706,
+        "num": 217706,
+        "word": "河南新增1例本土确诊11例无症状",
+        "onboard_time": 1661054787,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191310,
+        "num": 191310,
+        "word": "极星电动车被曝天价换电",
+        "onboard_time": 1661050946,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179394,
+        "num": 179394,
+        "word": "建议进返京后一周内减少外出频次",
+        "onboard_time": 1661048790,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174086,
+        "num": 174086,
+        "word": "男子睡前玩手机患睡眠障碍",
+        "onboard_time": 1661036716,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163505,
+        "num": 163505,
+        "word": "爸爸带俩大学生女儿送儿子上浙大",
+        "onboard_time": 1661056589,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156588,
+        "num": 156588,
+        "word": "下厨房崩了",
+        "onboard_time": 1661056708,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154309,
+        "num": 154309,
+        "word": "中国驻柬埔寨大使馆发声",
+        "onboard_time": 1661042666,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 274950,
+        "num": 154172,
+        "word": "王大陆披荆斩棘的镜头除了笑还是笑",
+        "onboard_time": 1661056768,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152386,
+        "num": 152386,
+        "word": "理财算是被健身教练玩明白了",
+        "onboard_time": 1661051608,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149990,
+        "num": 149990,
+        "word": "婚后拥有完全属于自己的空间能有多快乐",
+        "onboard_time": 1661039481,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}
