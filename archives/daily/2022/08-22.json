@@ -1,10 +1,10 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661124063873,
+  "endTime": 1661125029733,
   "band_list": [
     {
-      "raw_hot": 3229953,
-      "num": 3229953,
+      "raw_hot": 4599892,
+      "num": 4599892,
       "word": "新版红绿灯",
       "onboard_time": 1661095713,
       "rank": 1,
@@ -35,8 +35,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1096059,
-      "num": 1096059,
+      "raw_hot": 1181532,
+      "num": 1181532,
       "word": "人们为什么不爱买无印良品了",
       "onboard_time": 1661093734,
       "rank": 4,
@@ -65,6 +65,14 @@
       "onboard_time": 1661092173,
       "rank": 7,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 754178,
+      "num": 754178,
+      "word": "专家释疑京津冀现不明黑色昆虫",
+      "onboard_time": 1661097870,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725304,
@@ -99,11 +107,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 645816,
-      "num": 645816,
-      "word": "专家释疑京津冀现不明黑色昆虫",
-      "onboard_time": 1661097870,
-      "rank": 25,
+      "raw_hot": 585383,
+      "num": 585383,
+      "word": "没有一个年轻人能买到土豆",
+      "onboard_time": 1661090732,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 550775,
+      "num": 550775,
+      "word": "四川最大火力发电厂全力供电",
+      "onboard_time": 1661100442,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -131,28 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 467925,
-      "num": 467925,
-      "word": "四川最大火力发电厂全力供电",
-      "onboard_time": 1661100442,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460417,
       "num": 460417,
       "word": "日本东京发生随机砍人事件",
       "onboard_time": 1661075490,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 432419,
-      "num": 432419,
-      "word": "没有一个年轻人能买到土豆",
-      "onboard_time": 1661090732,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 416711,
@@ -163,19 +163,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394189,
+      "num": 394189,
+      "word": "网传折腰主演暂定张晚意宋轶",
+      "onboard_time": 1661103617,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377247,
       "num": 282002,
       "word": "今年让你真香的电视剧",
       "onboard_time": 1661093911,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 337595,
-      "num": 337595,
-      "word": "网传折腰主演暂定张晚意宋轶",
-      "onboard_time": 1661103617,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -219,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277125,
+      "num": 277125,
+      "word": "95后女教练带队拿下男篮全国冠军",
+      "onboard_time": 1661112073,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 273700,
       "num": 249696,
       "word": "张真源分享弹钢琴照",
       "onboard_time": 1661100442,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273135,
+      "num": 273135,
+      "word": "重庆北碚区发生山火",
+      "onboard_time": 1661123840,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 271822,
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259246,
+      "num": 259246,
+      "word": "102岁外婆害羞说泡泡吹大了",
+      "onboard_time": 1661123540,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256754,
       "num": 192415,
       "word": "时代少年团中秋晚会舞台预告",
@@ -251,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243755,
-      "num": 243755,
-      "word": "95后女教练带队拿下男篮全国冠军",
-      "onboard_time": 1661112073,
-      "rank": 38,
-      "category": "体育,社会新闻"
+      "raw_hot": 254858,
+      "num": 254858,
+      "word": "四川的葡萄也有烦恼吧",
+      "onboard_time": 1661124201,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 237817,
@@ -273,14 +297,6 @@
       "onboard_time": 1661118010,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222903,
-      "num": 222903,
-      "word": "重庆北碚区发生山火",
-      "onboard_time": 1661123840,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 219714,
@@ -347,11 +363,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188355,
+      "num": 188355,
+      "word": "光与夜之恋",
+      "onboard_time": 1661124201,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
       "onboard_time": 1661087011,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175505,
+      "num": 175505,
+      "word": "四川绵阳市北川县3.2级地震",
+      "onboard_time": 1661124022,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -427,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134517,
+      "num": 134517,
+      "word": "Sunnee杨芸晴给33点了个赞",
+      "onboard_time": 1661104577,
+      "rank": 20,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 134451,
       "num": 134451,
       "word": "毕业后还问家里要钱是什么体验",
@@ -451,6 +491,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 114898,
+      "num": 114898,
+      "word": "怎么让自己看起来不好惹",
+      "onboard_time": 1661102420,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 114699,
       "num": 114699,
       "word": "LNG一穿三",
@@ -467,44 +515,28 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 111918,
-      "num": 99308,
-      "word": "Sunnee杨芸晴给33点了个赞",
-      "onboard_time": 1661104577,
-      "rank": 20,
-      "category": "艺人,游戏"
+      "raw_hot": 101752,
+      "num": 101752,
+      "word": "纽卡斯尔3比3曼城",
+      "onboard_time": 1661124744,
+      "rank": 39,
+      "category": "体育"
     },
     {
-      "raw_hot": 98258,
-      "num": 98258,
-      "word": "怎么让自己看起来不好惹",
-      "onboard_time": 1661102420,
-      "rank": 49,
-      "category": "幽默,情感"
+      "raw_hot": 99318,
+      "num": 99318,
+      "word": "三亚增187例确诊363例无症状",
+      "onboard_time": 1661124684,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 78711,
-      "num": 78711,
+      "raw_hot": 79322,
+      "num": 79322,
       "word": "浪姐3团综星星的约定大理录制路透",
       "onboard_time": 1661080529,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77983,
-      "num": 77983,
-      "word": "102岁外婆害羞说泡泡吹大了",
-      "onboard_time": 1661123540,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70995,
-      "num": 59679,
-      "word": "四川绵阳市北川县3.2级地震",
-      "onboard_time": 1661124022,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46508,
@@ -523,7 +555,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13039,
+      "raw_hot": 13831,
       "num": 1262655,
       "word": "重温方志敏可爱的中国",
       "onboard_time": 1661038882,

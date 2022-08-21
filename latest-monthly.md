@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/22 07:21:03
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/22 07:37:09
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%23" target="weibo">
 东部战区（热度：4603232）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E7%BA%A2%E7%BB%BF%E7%81%AF%23" target="weibo">
+新版红绿灯（热度：4599892）
 </a>
 </li>
 
@@ -1139,12 +1145,6 @@ PSY演唱会工作人员坠亡（热度：3319593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%B3%E6%9C%B5%E7%97%9B%E7%97%92%E9%9A%BE%E8%80%90%E6%8B%86%E5%BC%80%E6%9E%95%E5%A4%B4%E5%85%A8%E6%98%AF%E8%99%AB%23" target="weibo">
 女子耳朵痛痒难耐拆开枕头全是虫（热度：3236072）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E7%BA%A2%E7%BB%BF%E7%81%AF%23" target="weibo">
-新版红绿灯（热度：3229953）
 </a>
 </li>
 
