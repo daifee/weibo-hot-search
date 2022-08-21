@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661088668120,
+  "endTime": 1661089411909,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -3172,7 +3172,7 @@
     },
     {
       "raw_hot": 2174592,
-      "num": 319208,
+      "num": 338363,
       "word": "肖战直播",
       "onboard_time": 1661088212,
       "rank": 20,
@@ -7299,6 +7299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1253516,
+      "num": 1253516,
+      "word": "长生花真的be了",
+      "onboard_time": 1661087071,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1253288,
       "num": 1253288,
       "word": "美股三大指数连续两天集体收跌",
@@ -8376,14 +8384,6 @@
       "word": "吴磊演技",
       "onboard_time": 1660878327,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1133857,
-      "num": 1133857,
-      "word": "长生花真的be了",
-      "onboard_time": 1661087071,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -9651,6 +9651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1023434,
+      "num": 1023434,
+      "word": "苍兰诀",
+      "onboard_time": 1659579336,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1020462,
       "num": 1020462,
       "word": "杨紫沉香如屑经历8虐",
@@ -10041,14 +10049,6 @@
       "onboard_time": 1660867950,
       "rank": 5,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 988068,
-      "num": 988068,
-      "word": "苍兰诀",
-      "onboard_time": 1659579336,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 987384,
@@ -10929,6 +10929,14 @@
       "onboard_time": 1659668679,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 919919,
+      "num": 919919,
+      "word": "男童被困车尾箱近2小时患热射病",
+      "onboard_time": 1661086711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919610,
@@ -12361,6 +12369,14 @@
       "onboard_time": 1660034319,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 814877,
+      "num": 814877,
+      "word": "LNG战胜V5",
+      "onboard_time": 1661088875,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 814694,
@@ -14977,14 +14993,6 @@
       "onboard_time": 1660408945,
       "rank": 28,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 684638,
-      "num": 684638,
-      "word": "男童被困车尾箱近2小时患热射病",
-      "onboard_time": 1661086711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684568,
@@ -23515,6 +23523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450526,
+      "num": 450526,
+      "word": "成都疫情防控",
+      "onboard_time": 1660372406,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450190,
       "num": 450190,
       "word": "AG斩获首届世锦赛冠军",
@@ -25080,14 +25096,6 @@
       "word": "8月6日新增本土确诊337例",
       "onboard_time": 1659835830,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 426162,
-      "num": 426162,
-      "word": "成都疫情防控",
-      "onboard_time": 1660372406,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -27001,6 +27009,14 @@
       "onboard_time": 1660490613,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397028,
+      "num": 397028,
+      "word": "V5大翻盘",
+      "onboard_time": 1661085992,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 396975,
@@ -33427,6 +33443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323162,
+      "num": 323162,
+      "word": "孟子义哭着说已经开始想念",
+      "onboard_time": 1661088815,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323126,
       "num": 323126,
       "word": "詹姆斯2年9710万续约湖人",
@@ -33713,14 +33737,6 @@
       "onboard_time": 1659858030,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319250,
-      "num": 319250,
-      "word": "V5大翻盘",
-      "onboard_time": 1661085992,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 319153,
@@ -35307,6 +35323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297456,
+      "num": 297456,
+      "word": "界石",
+      "onboard_time": 1661088513,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 297372,
       "num": 297372,
       "word": "杨智渊由拘传转为指定居所监视居住",
@@ -36641,6 +36665,14 @@
       "onboard_time": 1660136193,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281179,
+      "num": 281179,
+      "word": "被闺蜜的婚礼致辞整破防了",
+      "onboard_time": 1661087011,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 280980,
@@ -39667,14 +39699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244454,
-      "num": 244454,
-      "word": "被闺蜜的婚礼致辞整破防了",
-      "onboard_time": 1661087011,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 244442,
       "num": 191291,
       "word": "被逛游乐园的爷爷奶奶甜到了",
@@ -41049,14 +41073,6 @@
       "onboard_time": 1659936822,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229664,
-      "num": 229664,
-      "word": "界石",
-      "onboard_time": 1661088513,
-      "rank": 39,
-      "category": "社会负面"
     },
     {
       "raw_hot": 229601,
@@ -44051,6 +44067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188145,
+      "num": 188145,
+      "word": "管泽元",
+      "onboard_time": 1661088993,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187852,
       "num": 187852,
       "word": "初级会计考试难度",
@@ -44779,6 +44803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173343,
+      "num": 173343,
+      "word": "广州队vs深圳队",
+      "onboard_time": 1661088272,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173242,
       "num": 173242,
       "word": "成都铲子哥等5人获见义勇为奖",
@@ -44913,6 +44945,14 @@
       "onboard_time": 1660148308,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170946,
+      "num": 170946,
+      "word": "山西晋中发现2例初筛阳性人员",
+      "onboard_time": 1661089112,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170908,
@@ -46273,14 +46313,6 @@
       "onboard_time": 1660052560,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138732,
-      "num": 138732,
-      "word": "广州队vs深圳队",
-      "onboard_time": 1661088272,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 138627,

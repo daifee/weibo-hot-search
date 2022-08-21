@@ -1,0 +1,410 @@
+{
+  "runTime": 1661089411909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2887503,
+        "num": 2887503,
+        "word": "杨某人四抓",
+        "onboard_time": 1661082209,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2671104,
+        "num": 2671104,
+        "word": "苍兰诀破万",
+        "onboard_time": 1661087311,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19366,
+        "num": 2025249,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1805647,
+        "num": 1805647,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394198,
+        "num": 1394198,
+        "word": "女子背3个月大孩子烈日下卖玉米",
+        "onboard_time": 1661083590,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253516,
+        "num": 1253516,
+        "word": "长生花真的be了",
+        "onboard_time": 1661087071,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1187910,
+        "num": 1187910,
+        "word": "日本东京发生随机砍人事件",
+        "onboard_time": 1661075490,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1023434,
+        "num": 1023434,
+        "word": "苍兰诀",
+        "onboard_time": 1661088692,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 928906,
+        "num": 928906,
+        "word": "重庆山火",
+        "onboard_time": 1661081731,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 919919,
+        "num": 919919,
+        "word": "男童被困车尾箱近2小时患热射病",
+        "onboard_time": 1661086711,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814877,
+        "num": 814877,
+        "word": "LNG战胜V5",
+        "onboard_time": 1661088875,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 518911,
+        "num": 518911,
+        "word": "毕业后还问家里要钱是什么体验",
+        "onboard_time": 1661081248,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 501240,
+        "num": 501240,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500615,
+        "num": 500615,
+        "word": "渡劫 解说",
+        "onboard_time": 1661086890,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459912,
+        "num": 459912,
+        "word": "何悯鸿自以为是的行为好无语",
+        "onboard_time": 1661087251,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450526,
+        "num": 450526,
+        "word": "成都疫情防控",
+        "onboard_time": 1661086711,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412217,
+        "num": 412217,
+        "word": "苍兰诀爱奇艺热度破9900",
+        "onboard_time": 1661083410,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397028,
+        "num": 397028,
+        "word": "V5大翻盘",
+        "onboard_time": 1661085992,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410500,
+        "num": 382652,
+        "word": "虞书欣直播",
+        "onboard_time": 1661081672,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347266,
+        "num": 347266,
+        "word": "郑州一公交司机开车时玩斗地主",
+        "onboard_time": 1661080287,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701970,
+        "num": 338363,
+        "word": "肖战直播",
+        "onboard_time": 1661088212,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413499,
+        "num": 332616,
+        "word": "杜德伟在娱乐圈究竟有多少好朋友",
+        "onboard_time": 1661076808,
+        "rank": 21,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 368531,
+        "num": 328472,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323162,
+        "num": 323162,
+        "word": "孟子义哭着说已经开始想念",
+        "onboard_time": 1661088815,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305367,
+        "num": 305367,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319533,
+        "num": 305264,
+        "word": "浪姐3团综星星的约定大理录制路透",
+        "onboard_time": 1661080529,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301599,
+        "num": 301599,
+        "word": "iPhone14系列或仍有mini",
+        "onboard_time": 1661075610,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297456,
+        "num": 297456,
+        "word": "界石",
+        "onboard_time": 1661088513,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 286095,
+        "num": 286095,
+        "word": "9岁女孩暑假胖十几斤查出脂肪肝",
+        "onboard_time": 1661074468,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281179,
+        "num": 281179,
+        "word": "被闺蜜的婚礼致辞整破防了",
+        "onboard_time": 1661087011,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 300759,
+        "num": 280837,
+        "word": "极限挑战",
+        "onboard_time": 1661086650,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285872,
+        "num": 279030,
+        "word": "王俊凯一口气夸了两遍葛优非常幽默",
+        "onboard_time": 1661084910,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276590,
+        "num": 276590,
+        "word": "男子强行拿走顾客螺蛳粉和饮料",
+        "onboard_time": 1661073627,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270980,
+        "num": 270980,
+        "word": "我的助理六十岁已过审",
+        "onboard_time": 1661078430,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268252,
+        "num": 268252,
+        "word": "官方辟谣重庆部分区域用电全停",
+        "onboard_time": 1661087011,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261617,
+        "num": 261617,
+        "word": "和平精英",
+        "onboard_time": 1661076449,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256915,
+        "num": 256915,
+        "word": "俄方称杜金之女身亡案系刺杀",
+        "onboard_time": 1661079088,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 222219,
+        "num": 222219,
+        "word": "美国餐厅一男子吸烟遭拒枪杀保安",
+        "onboard_time": 1661080049,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 214865,
+        "num": 214865,
+        "word": "日本首相岸田文雄感染新冠病毒",
+        "onboard_time": 1661072668,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 206480,
+        "num": 206480,
+        "word": "鄱阳湖的鱼被晒成鱼干",
+        "onboard_time": 1661073748,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264786,
+        "num": 206240,
+        "word": "于文文花木兰造型",
+        "onboard_time": 1661082029,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212581,
+        "num": 206213,
+        "word": "欢乐颂3",
+        "onboard_time": 1661086231,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205352,
+        "num": 205352,
+        "word": "Karsa上场",
+        "onboard_time": 1661084434,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199764,
+        "num": 199764,
+        "word": "高铁动车被装进包裹什么样",
+        "onboard_time": 1661079328,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188145,
+        "num": 188145,
+        "word": "管泽元",
+        "onboard_time": 1661088993,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176830,
+        "num": 176830,
+        "word": "国家向重庆紧急调运抗旱物资",
+        "onboard_time": 1661073148,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "广州队vs深圳队",
+        "onboard_time": 1661088272,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170946,
+        "num": 170946,
+        "word": "山西晋中发现2例初筛阳性人员",
+        "onboard_time": 1661089112,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155855,
+        "num": 155855,
+        "word": "KPL",
+        "onboard_time": 1661086890,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154376,
+        "num": 154376,
+        "word": "东玄哭了",
+        "onboard_time": 1661086473,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}
