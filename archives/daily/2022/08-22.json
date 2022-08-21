@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661117753084,
+  "endTime": 1661120460181,
   "band_list": [
     {
       "raw_hot": 2930085,
@@ -443,20 +443,36 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 96964,
+      "num": 96964,
+      "word": "大连疫情防控",
+      "onboard_time": 1661118010,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90522,
+      "num": 65134,
+      "word": "岸田文雄原定于明日恢复工作",
+      "onboard_time": 1661114350,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 85609,
+      "num": 85609,
+      "word": "95后女教练带队拿下男篮全国冠军",
+      "onboard_time": 1661112073,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 66100,
       "num": 66100,
       "word": "怎么让自己看起来不好惹",
       "onboard_time": 1661102420,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 54728,
-      "num": 54728,
-      "word": "95后女教练带队拿下男篮全国冠军",
-      "onboard_time": 1661112073,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 46508,
@@ -467,28 +483,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 22199,
-      "num": 22199,
-      "word": "浪姐3团综星星的约定大理录制路透",
-      "onboard_time": 1661080529,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19705,
-      "num": 19705,
-      "word": "岸田文雄原定于明日恢复工作",
-      "onboard_time": 1661114350,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 17363,
-      "num": 17363,
+      "raw_hot": 35541,
+      "num": 35541,
       "word": "你会怕让父母丢脸吗",
       "onboard_time": 1661115012,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28248,
+      "num": 28248,
+      "word": "浪姐3团综星星的约定大理录制路透",
+      "onboard_time": 1661080529,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13039,

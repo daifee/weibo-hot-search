@@ -1,0 +1,410 @@
+{
+  "runTime": 1661120460181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681045,
+        "num": 681045,
+        "word": "新版红绿灯",
+        "onboard_time": 1661095713,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266098,
+        "num": 266098,
+        "word": "贵州赤水山火",
+        "onboard_time": 1661096130,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 4118,
+        "num": 258414,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 530556,
+        "num": 257574,
+        "word": "王鹤棣 我们做到了",
+        "onboard_time": 1661097211,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291723,
+        "num": 257041,
+        "word": "重庆山火",
+        "onboard_time": 1661081731,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 255288,
+        "num": 255288,
+        "word": "人们为什么不爱买无印良品了",
+        "onboard_time": 1661093734,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 226547,
+        "num": 226547,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220503,
+        "num": 220503,
+        "word": "专家释疑京津冀现不明黑色昆虫",
+        "onboard_time": 1661097870,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160111,
+        "num": 160111,
+        "word": "四川最大火力发电厂全力供电",
+        "onboard_time": 1661100442,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151851,
+        "num": 151851,
+        "word": "苍兰诀破万",
+        "onboard_time": 1661087311,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171719,
+        "num": 143271,
+        "word": "川渝人民要哭了",
+        "onboard_time": 1661095112,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120759,
+        "num": 120759,
+        "word": "没有一个年轻人能买到土豆",
+        "onboard_time": 1661090732,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104830,
+        "num": 104830,
+        "word": "网传折腰主演暂定张晚意宋轶",
+        "onboard_time": 1661103617,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97251,
+        "num": 97251,
+        "word": "江西29岁辅警不幸殉职",
+        "onboard_time": 1661097150,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96964,
+        "num": 96964,
+        "word": "大连疫情防控",
+        "onboard_time": 1661118010,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89722,
+        "num": 89722,
+        "word": "重庆巴南山火当地紧急招募志愿者",
+        "onboard_time": 1661099425,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88992,
+        "num": 88992,
+        "word": "高中语文没有一篇课文是充数的",
+        "onboard_time": 1661092173,
+        "rank": 16,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 85609,
+        "num": 85609,
+        "word": "95后女教练带队拿下男篮全国冠军",
+        "onboard_time": 1661112073,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 72173,
+        "num": 72173,
+        "word": "男童被困车尾箱近2小时患热射病",
+        "onboard_time": 1661086711,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66085,
+        "num": 66085,
+        "word": "王一博我把那盘肉吃完我走",
+        "onboard_time": 1661090792,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91502,
+        "num": 65988,
+        "word": "主持人叫肖战小朋友",
+        "onboard_time": 1661091333,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90522,
+        "num": 65134,
+        "word": "岸田文雄原定于明日恢复工作",
+        "onboard_time": 1661114350,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 62218,
+        "num": 62218,
+        "word": "今年让你真香的电视剧",
+        "onboard_time": 1661093911,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61148,
+        "num": 61148,
+        "word": "日本东京发生随机砍人事件",
+        "onboard_time": 1661075490,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 53765,
+        "num": 53765,
+        "word": "苍兰诀制作人把口罩哭废了",
+        "onboard_time": 1661094393,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53411,
+        "num": 53411,
+        "word": "官方辟谣重庆部分区域用电全停",
+        "onboard_time": 1661087011,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46723,
+        "num": 46723,
+        "word": "Sunnee杨芸晴给33点了个赞",
+        "onboard_time": 1661104577,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 45533,
+        "num": 45533,
+        "word": "程潇演的洛神",
+        "onboard_time": 1661096192,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44566,
+        "num": 44566,
+        "word": "东海海域实弹演习",
+        "onboard_time": 1661093373,
+        "rank": 28,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 41906,
+        "num": 41906,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41492,
+        "num": 41492,
+        "word": "四川泸州突发山火",
+        "onboard_time": 1661092953,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 40344,
+        "num": 40344,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40326,
+        "num": 40326,
+        "word": "时代少年团中秋晚会舞台预告",
+        "onboard_time": 1661099246,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37310,
+        "num": 37310,
+        "word": "Doinb",
+        "onboard_time": 1661089954,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35541,
+        "num": 35541,
+        "word": "你会怕让父母丢脸吗",
+        "onboard_time": 1661115012,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32860,
+        "num": 32860,
+        "word": "怎么让自己看起来不好惹",
+        "onboard_time": 1661102420,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 32593,
+        "num": 32593,
+        "word": "张宸逍说只有巽风发疯的世界达成",
+        "onboard_time": 1661106792,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31895,
+        "num": 31895,
+        "word": "钎城哭了",
+        "onboard_time": 1661094574,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30496,
+        "num": 30496,
+        "word": "杨某人四抓",
+        "onboard_time": 1661082209,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29793,
+        "num": 29793,
+        "word": "苍兰诀",
+        "onboard_time": 1661088692,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28947,
+        "num": 28947,
+        "word": "TTG遗憾淘汰",
+        "onboard_time": 1661093911,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28248,
+        "num": 28248,
+        "word": "浪姐3团综星星的约定大理录制路透",
+        "onboard_time": 1661080529,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27124,
+        "num": 27124,
+        "word": "这瘦腿操是来报仇的吧",
+        "onboard_time": 1661091032,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26485,
+        "num": 26485,
+        "word": "毕业后还问家里要钱是什么体验",
+        "onboard_time": 1661081248,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 26299,
+        "num": 26299,
+        "word": "重庆巴南区界石发生山火",
+        "onboard_time": 1661091572,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 23454,
+        "num": 23454,
+        "word": "温江区重要提示如有重叠立即报备",
+        "onboard_time": 1661096671,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20227,
+        "num": 20227,
+        "word": "成都疫情防控",
+        "onboard_time": 1661086711,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19563,
+        "num": 19563,
+        "word": "真的很羡慕清醒的教育方式",
+        "onboard_time": 1661092591,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 19192,
+        "num": 19192,
+        "word": "岸田文雄出现低烧咳嗽等症状",
+        "onboard_time": 1661111172,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 17240,
+        "num": 17240,
+        "word": "IVE新专试听",
+        "onboard_time": 1661098109,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}
