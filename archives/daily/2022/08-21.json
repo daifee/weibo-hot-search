@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661081665045,
+  "endTime": 1661085416101,
   "band_list": [
     {
       "raw_hot": 4259949,
@@ -9,6 +9,14 @@
       "onboard_time": 1661072066,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4007223,
+      "num": 4007223,
+      "word": "杨某人四抓",
+      "onboard_time": 1661082209,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 3254572,
@@ -227,6 +235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1246455,
+      "num": 1246455,
+      "word": "苍兰诀爱奇艺热度破9900",
+      "onboard_time": 1661083410,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1244847,
+      "num": 1244847,
+      "word": "重庆山火",
+      "onboard_time": 1661081731,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1205878,
       "num": 1205878,
       "word": "6岁儿童溺水身亡7岁玩伴成被告",
@@ -315,6 +339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 865122,
+      "num": 678084,
+      "word": "虞书欣直播",
+      "onboard_time": 1661081672,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 833512,
+      "num": 833512,
+      "word": "女子背3个月大孩子烈日下卖玉米",
+      "onboard_time": 1661083590,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806037,
       "num": 806037,
       "word": "嫋嫋要的是并肩同行",
@@ -355,8 +395,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702318,
+      "num": 702318,
+      "word": "郑州一公交司机开车时玩斗地主",
+      "onboard_time": 1661080287,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694728,
-      "num": 584062,
+      "num": 608576,
       "word": "浪姐3团综星星的约定大理录制路透",
       "onboard_time": 1661080529,
       "rank": 10,
@@ -523,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556496,
+      "num": 556496,
+      "word": "毕业后还问家里要钱是什么体验",
+      "onboard_time": 1661081248,
+      "rank": 22,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 554571,
       "num": 554571,
       "word": "插头带圆孔不适合国内用",
@@ -659,6 +715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 442613,
+      "num": 442613,
+      "word": "于文文花木兰造型",
+      "onboard_time": 1661082029,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441119,
       "num": 441119,
       "word": "东方青苍好会亲",
@@ -777,6 +841,14 @@
       "onboard_time": 1661077708,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381905,
+      "num": 381905,
+      "word": "美国餐厅一男子吸烟遭拒枪杀保安",
+      "onboard_time": 1661080049,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 378894,
@@ -963,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330492,
+      "num": 330492,
+      "word": "DOU5夺冠",
+      "onboard_time": 1661083950,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329226,
       "num": 286505,
       "word": "少女时代末放",
@@ -1003,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323658,
+      "num": 323658,
+      "word": "高铁动车被装进包裹什么样",
+      "onboard_time": 1661079328,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322713,
       "num": 322713,
       "word": "长沙雨花区发现1例确诊病例",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1661077349,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311221,
+      "num": 311221,
+      "word": "心疼东玄",
+      "onboard_time": 1661083711,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 309545,
@@ -1131,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287563,
+      "num": 287563,
+      "word": "五十公里桃花坞第二季收官",
+      "onboard_time": 1661084910,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286537,
       "num": 286537,
       "word": "2022年女排亚洲杯",
@@ -1147,20 +1251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283047,
-      "num": 283047,
-      "word": "毕业后还问家里要钱是什么体验",
-      "onboard_time": 1661081248,
-      "rank": 22,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 282738,
       "num": 168623,
       "word": "少女时代",
       "onboard_time": 1661002471,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 281296,
+      "num": 281296,
+      "word": "2022LCK",
+      "onboard_time": 1661082029,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 280980,
@@ -1191,14 +1295,6 @@
       "num": 277662,
       "word": "一条并蒂莲含量过高的视频",
       "onboard_time": 1661052569,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277425,
-      "num": 277425,
-      "word": "郑州一公交司机开车时玩斗地主",
-      "onboard_time": 1661080287,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -1235,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273065,
+      "num": 273065,
+      "word": "Karsa上场",
+      "onboard_time": 1661084434,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272845,
       "num": 272845,
       "word": "杨和苏无名幕后vlog",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1661053946,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268973,
+      "num": 268973,
+      "word": "约瑟夫四杀",
+      "onboard_time": 1661085334,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 268736,
@@ -1347,20 +1459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249900,
+      "num": 249900,
+      "word": "王俊凯一口气夸了两遍葛优非常幽默",
+      "onboard_time": 1661084910,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249740,
       "num": 249740,
       "word": "小兰花后面站着的是她的爸妈",
       "onboard_time": 1661037860,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248306,
-      "num": 248306,
-      "word": "美国餐厅一男子吸烟遭拒枪杀保安",
-      "onboard_time": 1661080049,
-      "rank": 44,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 245861,
@@ -1571,6 +1683,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 208257,
+      "num": 208257,
+      "word": "SMG夏季赛总冠军",
+      "onboard_time": 1661084552,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208208,
       "num": 208208,
       "word": "V5对战LNG",
@@ -1651,20 +1771,28 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 202522,
+      "num": 202522,
+      "word": "日本首相岸田文雄感染新冠病毒",
+      "onboard_time": 1661072668,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 201160,
+      "num": 201160,
+      "word": "虚拟人为什么这么火",
+      "onboard_time": 1661084312,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 201015,
       "num": 201015,
       "word": "左邻右舍踹门扯布救6楼悬挂男孩",
       "onboard_time": 1661071349,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 200258,
-      "num": 200258,
-      "word": "高铁动车被装进包裹什么样",
-      "onboard_time": 1661079328,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197857,
@@ -1675,12 +1803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196713,
-      "num": 196713,
-      "word": "日本首相岸田文雄感染新冠病毒",
-      "onboard_time": 1661072668,
-      "rank": 36,
-      "category": "国外要闻"
+      "raw_hot": 195569,
+      "num": 195569,
+      "word": "投入全部的感情真的值得吗",
+      "onboard_time": 1661083171,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 191693,
@@ -1747,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183384,
+      "num": 183384,
+      "word": "多拉多撞倒马宁染红",
+      "onboard_time": 1661083171,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182316,
       "num": 182316,
       "word": "辽宁新增4例本土确诊",
@@ -1809,6 +1945,14 @@
       "onboard_time": 1661039841,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161687,
+      "num": 161687,
+      "word": "武汉长江vs河南嵩山龙门",
+      "onboard_time": 1661084253,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 159953,
@@ -2092,7 +2236,7 @@
     },
     {
       "raw_hot": 23254,
-      "num": 1871396,
+      "num": 1993095,
       "word": "重温方志敏可爱的中国",
       "onboard_time": 1661038882,
       "rank": 2,
