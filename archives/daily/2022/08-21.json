@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661086737570,
+  "endTime": 1661088668120,
   "band_list": [
     {
       "raw_hot": 4259949,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2876233,
+      "num": 2876233,
+      "word": "苍兰诀破万",
+      "onboard_time": 1661087311,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2868730,
       "num": 2868730,
       "word": "谷江山",
@@ -81,6 +89,14 @@
       "onboard_time": 1661043807,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2174592,
+      "num": 319208,
+      "word": "肖战直播",
+      "onboard_time": 1661088212,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2105051,
@@ -139,6 +155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1576366,
+      "num": 1576366,
+      "word": "女子背3个月大孩子烈日下卖玉米",
+      "onboard_time": 1661083590,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1539306,
       "num": 588147,
       "word": "刘亦菲吴倩新剧演闺蜜",
@@ -161,14 +185,6 @@
       "onboard_time": 1661047890,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1477795,
-      "num": 1477795,
-      "word": "女子背3个月大孩子烈日下卖玉米",
-      "onboard_time": 1661083590,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1367616,
@@ -273,6 +289,14 @@
       "onboard_time": 1661042066,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133857,
+      "num": 1133857,
+      "word": "长生花真的be了",
+      "onboard_time": 1661087071,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1120642,
@@ -419,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684638,
+      "num": 684638,
+      "word": "男童被困车尾箱近2小时患热射病",
+      "onboard_time": 1661086711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661845,
       "num": 661845,
       "word": "iPhone14系列或仍有mini",
@@ -513,6 +545,14 @@
       "onboard_time": 1661065407,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592987,
+      "num": 592987,
+      "word": "渡劫 解说",
+      "onboard_time": 1661086890,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 585530,
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475972,
+      "num": 475972,
+      "word": "何悯鸿自以为是的行为好无语",
+      "onboard_time": 1661087251,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474541,
       "num": 474541,
       "word": "宋亚轩王铮亮六年后再同框",
@@ -739,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438873,
+      "num": 438873,
+      "word": "苍兰夫妇互相为对方着想",
+      "onboard_time": 1661085752,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438189,
       "num": 404736,
       "word": "苍兰诀编剧",
@@ -768,6 +824,14 @@
       "word": "当地回应建议中华田园犬移除禁养目录",
       "onboard_time": 1661072247,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426162,
+      "num": 426162,
+      "word": "成都疫情防控",
+      "onboard_time": 1661086711,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -881,6 +945,14 @@
       "onboard_time": 1661051548,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376899,
+      "num": 314829,
+      "word": "极限挑战",
+      "onboard_time": 1661086650,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 373395,
@@ -1123,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319250,
+      "num": 319250,
+      "word": "V5大翻盘",
+      "onboard_time": 1661085992,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317961,
       "num": 317961,
       "word": "西安新增13个高风险区",
@@ -1251,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289098,
+      "num": 289098,
+      "word": "官方辟谣重庆部分区域用电全停",
+      "onboard_time": 1661087011,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287530,
       "num": 287530,
       "word": "欢乐颂3",
@@ -1371,6 +1459,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 271122,
+      "num": 271122,
+      "word": "KPL",
+      "onboard_time": 1661086890,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269988,
       "num": 235780,
       "word": "王俊凯说孟超的结局是他的重生",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1661060007,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265273,
+      "num": 265273,
+      "word": "日本首相岸田文雄感染新冠病毒",
+      "onboard_time": 1661072668,
+      "rank": 36,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 264633,
@@ -1443,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254693,
-      "num": 237994,
-      "word": "苍兰夫妇互相为对方着想",
-      "onboard_time": 1661085752,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254290,
       "num": 254290,
       "word": "2022PEL夏季赛总决赛",
@@ -1465,14 +1561,6 @@
       "onboard_time": 1661062467,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251854,
-      "num": 251854,
-      "word": "V5大翻盘",
-      "onboard_time": 1661085992,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 251791,
@@ -1497,14 +1585,6 @@
       "onboard_time": 1661037860,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246913,
-      "num": 246913,
-      "word": "日本首相岸田文雄感染新冠病毒",
-      "onboard_time": 1661072668,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 245861,
@@ -1563,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244454,
+      "num": 244454,
+      "word": "被闺蜜的婚礼致辞整破防了",
+      "onboard_time": 1661087011,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 241644,
       "num": 241644,
       "word": "狗狗的心情都写在了脸上",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1661065167,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229664,
+      "num": 229664,
+      "word": "界石",
+      "onboard_time": 1661088513,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 227748,
@@ -1689,6 +1785,14 @@
       "onboard_time": 1661015241,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211644,
+      "num": 211644,
+      "word": "东玄哭了",
+      "onboard_time": 1661086473,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 211168,
@@ -1875,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190081,
-      "num": 185847,
-      "word": "极限挑战",
-      "onboard_time": 1661086650,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186938,
       "num": 186938,
       "word": "灵隐寺暂停请购十八籽佛珠手串",
@@ -1905,14 +2001,6 @@
       "onboard_time": 1661076029,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184573,
-      "num": 184573,
-      "word": "东玄哭了",
-      "onboard_time": 1661086473,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 184261,
@@ -2011,22 +2099,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 159026,
-      "num": 159026,
-      "word": "成都疫情防控",
-      "onboard_time": 1661086711,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157960,
-      "num": 157960,
-      "word": "男童被困车尾箱近2小时患热射病",
-      "onboard_time": 1661086711,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156180,
       "num": 156180,
       "word": "海底捞回应大学生被炸伤眼睛",
@@ -2091,6 +2163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138732,
+      "num": 138732,
+      "word": "广州队vs深圳队",
+      "onboard_time": 1661088272,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138098,
       "num": 138098,
       "word": "轻生男子跳楼瞬间民警飞身抱住",
@@ -2144,6 +2224,14 @@
       "word": "EDG五人组LPL胜场第一",
       "onboard_time": 1661003432,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126611,
+      "num": 126611,
+      "word": "T1战胜DK",
+      "onboard_time": 1661088634,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -2300,7 +2388,7 @@
     },
     {
       "raw_hot": 23254,
-      "num": 1993095,
+      "num": 2369208,
       "word": "重温方志敏可爱的中国",
       "onboard_time": 1661038882,
       "rank": 2,

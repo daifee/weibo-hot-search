@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661086737570,
+  "endTime": 1661088668120,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -337,6 +337,14 @@
       "onboard_time": 1660494443,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2876233,
+      "num": 2876233,
+      "word": "苍兰诀破万",
+      "onboard_time": 1661087311,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2868730,
@@ -705,6 +713,14 @@
       "onboard_time": 1660621233,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2174592,
+      "num": 319208,
+      "word": "肖战直播",
+      "onboard_time": 1661088212,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2172865,
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1576366,
+      "num": 1576366,
+      "word": "女子背3个月大孩子烈日下卖玉米",
+      "onboard_time": 1661083590,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1559956,
       "num": 1559956,
       "word": "茶颜悦色回应雇人排队代购炒作",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1660964607,
       "rank": 9,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1477795,
-      "num": 1477795,
-      "word": "女子背3个月大孩子烈日下卖玉米",
-      "onboard_time": 1661083590,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1476308,
@@ -2416,6 +2432,14 @@
       "word": "吴磊演技",
       "onboard_time": 1660878327,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1133857,
+      "num": 1133857,
+      "word": "长生花真的be了",
+      "onboard_time": 1661087071,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -4619,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684638,
+      "num": 684638,
+      "word": "男童被困车尾箱近2小时患热射病",
+      "onboard_time": 1661086711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680766,
       "num": 680766,
       "word": "长沙发现1例新冠病毒肺炎确诊病例",
@@ -5337,6 +5369,14 @@
       "onboard_time": 1660989327,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592987,
+      "num": 592987,
+      "word": "渡劫 解说",
+      "onboard_time": 1661086890,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 592441,
@@ -7123,6 +7163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475972,
+      "num": 475972,
+      "word": "何悯鸿自以为是的行为好无语",
+      "onboard_time": 1661087251,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475834,
       "num": 475834,
       "word": "印度足协被全球禁赛",
@@ -7795,6 +7843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438873,
+      "num": 438873,
+      "word": "苍兰夫妇互相为对方着想",
+      "onboard_time": 1661085752,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438189,
       "num": 404736,
       "word": "苍兰诀编剧",
@@ -8025,6 +8081,14 @@
       "onboard_time": 1660532728,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426162,
+      "num": 426162,
+      "word": "成都疫情防控",
+      "onboard_time": 1660616492,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426099,
@@ -9097,6 +9161,14 @@
       "onboard_time": 1660653750,
       "rank": 36,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 376899,
+      "num": 314829,
+      "word": "极限挑战",
+      "onboard_time": 1661086650,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 376837,
@@ -10987,6 +11059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319250,
+      "num": 319250,
+      "word": "V5大翻盘",
+      "onboard_time": 1661085992,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319003,
       "num": 299322,
       "word": "王一博街舞5西装摩托花絮",
@@ -11891,6 +11971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289098,
+      "num": 289098,
+      "word": "官方辟谣重庆部分区域用电全停",
+      "onboard_time": 1661087011,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289092,
       "num": 289092,
       "word": "四川山洪事发河道为网红打卡地",
@@ -12691,6 +12779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265273,
+      "num": 265273,
+      "word": "日本首相岸田文雄感染新冠病毒",
+      "onboard_time": 1661072668,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 264973,
       "num": 264973,
       "word": "一句话怼死杠精",
@@ -12995,14 +13091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254693,
-      "num": 237994,
-      "word": "苍兰夫妇互相为对方着想",
-      "onboard_time": 1661085752,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254671,
       "num": 254671,
       "word": "男子被困礁石用摩斯密码求救",
@@ -13113,14 +13201,6 @@
       "onboard_time": 1660884513,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251854,
-      "num": 251854,
-      "word": "V5大翻盘",
-      "onboard_time": 1661085992,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 251799,
@@ -13267,14 +13347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246913,
-      "num": 246913,
-      "word": "日本首相岸田文雄感染新冠病毒",
-      "onboard_time": 1661072668,
-      "rank": 36,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 246531,
       "num": 246531,
       "word": "有趣的人是生活的良药",
@@ -13369,6 +13441,14 @@
       "onboard_time": 1661067026,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244454,
+      "num": 244454,
+      "word": "被闺蜜的婚礼致辞整破防了",
+      "onboard_time": 1661087011,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 243838,
@@ -13787,14 +13867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231882,
-      "num": 231882,
-      "word": "成都疫情防控",
-      "onboard_time": 1660616492,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231830,
       "num": 224159,
       "word": "voguefilm",
@@ -13881,6 +13953,14 @@
       "onboard_time": 1660794332,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229664,
+      "num": 229664,
+      "word": "界石",
+      "onboard_time": 1661088513,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 229601,
@@ -14409,6 +14489,14 @@
       "onboard_time": 1660814793,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 211644,
+      "num": 211644,
+      "word": "东玄哭了",
+      "onboard_time": 1661086473,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 211168,
@@ -15043,14 +15131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190081,
-      "num": 185847,
-      "word": "极限挑战",
-      "onboard_time": 1661086650,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189563,
       "num": 120301,
       "word": "东方青苍 奥特曼",
@@ -15209,14 +15289,6 @@
       "onboard_time": 1661076029,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184573,
-      "num": 184573,
-      "word": "东玄哭了",
-      "onboard_time": 1661086473,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 184521,
@@ -15835,14 +15907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157960,
-      "num": 157960,
-      "word": "男童被困车尾箱近2小时患热射病",
-      "onboard_time": 1661086711,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156285,
       "num": 156285,
       "word": "4招学会跳绳正确姿势",
@@ -16179,6 +16243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138732,
+      "num": 138732,
+      "word": "广州队vs深圳队",
+      "onboard_time": 1661088272,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138181,
       "num": 132055,
       "word": "东方青苍开大 BGM",
@@ -16321,6 +16393,14 @@
       "onboard_time": 1660951519,
       "rank": 25,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 126611,
+      "num": 126611,
+      "word": "T1战胜DK",
+      "onboard_time": 1661088634,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 125660,
@@ -17004,7 +17084,7 @@
     },
     {
       "raw_hot": 23254,
-      "num": 1993095,
+      "num": 2369208,
       "word": "重温方志敏可爱的中国",
       "onboard_time": 1661038882,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661088668120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3255736,
+        "num": 3255736,
+        "word": "杨某人四抓",
+        "onboard_time": 1661082209,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2876233,
+        "num": 2876233,
+        "word": "苍兰诀破万",
+        "onboard_time": 1661087311,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19293,
+        "num": 2369208,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1896633,
+        "num": 1896633,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576366,
+        "num": 1576366,
+        "word": "女子背3个月大孩子烈日下卖玉米",
+        "onboard_time": 1661083590,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260986,
+        "num": 1260986,
+        "word": "日本东京发生随机砍人事件",
+        "onboard_time": 1661075490,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1133857,
+        "num": 1133857,
+        "word": "长生花真的be了",
+        "onboard_time": 1661087071,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1010496,
+        "num": 1010496,
+        "word": "重庆山火",
+        "onboard_time": 1661081731,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 684638,
+        "num": 684638,
+        "word": "男童被困车尾箱近2小时患热射病",
+        "onboard_time": 1661086711,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648820,
+        "num": 648820,
+        "word": "苍兰诀爱奇艺热度破9900",
+        "onboard_time": 1661083410,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619381,
+        "num": 619381,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592987,
+        "num": 592987,
+        "word": "渡劫 解说",
+        "onboard_time": 1661086890,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 545551,
+        "num": 545551,
+        "word": "毕业后还问家里要钱是什么体验",
+        "onboard_time": 1661081248,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 488841,
+        "num": 488841,
+        "word": "虞书欣直播",
+        "onboard_time": 1661081672,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475972,
+        "num": 475972,
+        "word": "何悯鸿自以为是的行为好无语",
+        "onboard_time": 1661087251,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438873,
+        "num": 438873,
+        "word": "苍兰夫妇互相为对方着想",
+        "onboard_time": 1661085752,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426162,
+        "num": 426162,
+        "word": "成都疫情防控",
+        "onboard_time": 1661086711,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391375,
+        "num": 391375,
+        "word": "郑州一公交司机开车时玩斗地主",
+        "onboard_time": 1661080287,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339992,
+        "num": 339992,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319250,
+        "num": 319250,
+        "word": "V5大翻盘",
+        "onboard_time": 1661085992,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2174592,
+        "num": 319208,
+        "word": "肖战直播",
+        "onboard_time": 1661088212,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459592,
+        "num": 317541,
+        "word": "杜德伟在娱乐圈究竟有多少好朋友",
+        "onboard_time": 1661076808,
+        "rank": 21,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 396864,
+        "num": 316340,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376899,
+        "num": 314829,
+        "word": "极限挑战",
+        "onboard_time": 1661086650,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314647,
+        "num": 314647,
+        "word": "iPhone14系列或仍有mini",
+        "onboard_time": 1661075610,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 312074,
+        "num": 312074,
+        "word": "男子强行拿走顾客螺蛳粉和饮料",
+        "onboard_time": 1661073627,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301029,
+        "num": 301029,
+        "word": "9岁女孩暑假胖十几斤查出脂肪肝",
+        "onboard_time": 1661074468,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292940,
+        "num": 292940,
+        "word": "Karsa上场",
+        "onboard_time": 1661084434,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291739,
+        "num": 291739,
+        "word": "和平精英",
+        "onboard_time": 1661076449,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289098,
+        "num": 289098,
+        "word": "官方辟谣重庆部分区域用电全停",
+        "onboard_time": 1661087011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352735,
+        "num": 288991,
+        "word": "浪姐3团综星星的约定大理录制路透",
+        "onboard_time": 1661080529,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320641,
+        "num": 288471,
+        "word": "我的助理六十岁已过审",
+        "onboard_time": 1661078430,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303320,
+        "num": 288028,
+        "word": "王俊凯一口气夸了两遍葛优非常幽默",
+        "onboard_time": 1661084910,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295302,
+        "num": 287550,
+        "word": "于文文花木兰造型",
+        "onboard_time": 1661082029,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287340,
+        "num": 287340,
+        "word": "俄方称杜金之女身亡案系刺杀",
+        "onboard_time": 1661079088,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 271122,
+        "num": 271122,
+        "word": "KPL",
+        "onboard_time": 1661086890,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265273,
+        "num": 265273,
+        "word": "日本首相岸田文雄感染新冠病毒",
+        "onboard_time": 1661072668,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 244454,
+        "num": 244454,
+        "word": "被闺蜜的婚礼致辞整破防了",
+        "onboard_time": 1661087011,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 241288,
+        "num": 241288,
+        "word": "美国餐厅一男子吸烟遭拒枪杀保安",
+        "onboard_time": 1661080049,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 229664,
+        "num": 229664,
+        "word": "界石",
+        "onboard_time": 1661088513,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243832,
+        "num": 229508,
+        "word": "欢乐颂3",
+        "onboard_time": 1661086231,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227848,
+        "num": 227848,
+        "word": "高铁动车被装进包裹什么样",
+        "onboard_time": 1661079328,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217329,
+        "num": 217329,
+        "word": "刘亦菲吴倩新剧演闺蜜",
+        "onboard_time": 1661067026,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211644,
+        "num": 211644,
+        "word": "东玄哭了",
+        "onboard_time": 1661086473,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196974,
+        "num": 196974,
+        "word": "鄱阳湖的鱼被晒成鱼干",
+        "onboard_time": 1661073748,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175505,
+        "num": 175505,
+        "word": "国家向重庆紧急调运抗旱物资",
+        "onboard_time": 1661073148,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166080,
+        "num": 166080,
+        "word": "投入全部的感情真的值得吗",
+        "onboard_time": 1661083171,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153769,
+        "num": 153769,
+        "word": "虚拟人为什么这么火",
+        "onboard_time": 1661084312,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 138732,
+        "num": 138732,
+        "word": "广州队vs深圳队",
+        "onboard_time": 1661088272,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126611,
+        "num": 126611,
+        "word": "T1战胜DK",
+        "onboard_time": 1661088634,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}
