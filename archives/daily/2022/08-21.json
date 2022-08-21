@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661057734860,
+  "endTime": 1661059348452,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -57,6 +57,14 @@
       "onboard_time": 1661006432,
       "rank": 4,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1722624,
+      "num": 1722624,
+      "word": "虞书欣要求郭晓婷真掐自己",
+      "onboard_time": 1661056167,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1670554,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1114261,
-      "num": 994805,
-      "word": "虞书欣要求郭晓婷真掐自己",
-      "onboard_time": 1661056167,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1098622,
       "num": 1098622,
       "word": "我买的房子终于发货了",
@@ -163,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 988881,
+      "num": 988881,
+      "word": "爸爸带俩大学生女儿送儿子上浙大",
+      "onboard_time": 1661056589,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 967068,
       "num": 967068,
       "word": "看到苏有朋后突然就理解了",
       "onboard_time": 1661040384,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 849253,
+      "num": 849253,
+      "word": "男子冒死从缅北逃回讲述惨痛遭遇",
+      "onboard_time": 1661057549,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777477,
@@ -241,6 +257,22 @@
       "onboard_time": 1661011590,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 587574,
+      "num": 587574,
+      "word": "鹿晗毛不易养宠交流现场",
+      "onboard_time": 1661058088,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 569088,
+      "num": 569088,
+      "word": "水滴筹回应筹款中介抽成最高达70%",
+      "onboard_time": 1661055808,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558583,
@@ -331,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474541,
+      "num": 474541,
+      "word": "宋亚轩王铮亮六年后再同框",
+      "onboard_time": 1661056708,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455074,
       "num": 455074,
       "word": "爸爸的军功章摞起来比4岁儿子还高",
@@ -345,14 +385,6 @@
       "onboard_time": 1661024592,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 448613,
-      "num": 448613,
-      "word": "水滴筹回应筹款中介抽成最高达70%",
-      "onboard_time": 1661055808,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441119,
@@ -379,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407018,
-      "num": 339766,
-      "word": "宋亚轩王铮亮六年后再同框",
-      "onboard_time": 1661056708,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403464,
       "num": 269185,
       "word": "李赫宰跳舞",
       "onboard_time": 1661010392,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 393173,
+      "num": 304158,
+      "word": "登录圆鱼洲PD爆料好真实",
+      "onboard_time": 1661058985,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 393057,
@@ -443,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 356441,
-      "num": 356441,
-      "word": "爸爸带俩大学生女儿送儿子上浙大",
-      "onboard_time": 1661056589,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 355609,
       "num": 325143,
       "word": "苍兰诀弹幕",
@@ -489,6 +513,14 @@
       "onboard_time": 1660997788,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332947,
+      "num": 293889,
+      "word": "王大陆披荆斩棘的镜头除了笑还是笑",
+      "onboard_time": 1661056768,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 330742,
@@ -579,6 +611,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 293368,
+      "num": 293368,
+      "word": "没想到爷爷变装后这么潮",
+      "onboard_time": 1661058088,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291909,
       "num": 291909,
       "word": "央视新闻直播里的谭维维",
@@ -603,20 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 285182,
-      "num": 263544,
-      "word": "王大陆披荆斩棘的镜头除了笑还是笑",
-      "onboard_time": 1661056768,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 284318,
-      "num": 284318,
-      "word": "男子冒死从缅北逃回讲述惨痛遭遇",
-      "onboard_time": 1661057549,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 286417,
+      "num": 249450,
+      "word": "当我们全家一起看冰雨火",
+      "onboard_time": 1661058210,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 282738,
@@ -659,8 +691,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273907,
+      "num": 199752,
+      "word": "杨戬票房破亿",
+      "onboard_time": 1661058808,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272914,
-      "num": 272914,
+      "num": 1455836,
       "word": "蚊子喜欢咬爱出汗的人",
       "onboard_time": 1661053767,
       "rank": 41,
@@ -681,6 +721,14 @@
       "onboard_time": 1660997305,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263317,
+      "num": 263317,
+      "word": "下厨房崩了",
+      "onboard_time": 1661056708,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 262692,
@@ -851,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215520,
+      "num": 215520,
+      "word": "已婚女子装白富美网恋骗零花钱",
+      "onboard_time": 1661058386,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 209372,
       "num": 209372,
       "word": "三亚增370例确诊465例无症状",
       "onboard_time": 1661039662,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206482,
-      "num": 206482,
-      "word": "下厨房崩了",
-      "onboard_time": 1661056708,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 206214,
@@ -888,6 +936,14 @@
       "word": "11岁妹妹攒3300元零花钱给哥哥交学费",
       "onboard_time": 1660998206,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203975,
+      "num": 203975,
+      "word": "男子编故事逃单还骗老板40元",
+      "onboard_time": 1661056949,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -969,14 +1025,6 @@
       "onboard_time": 1661039841,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159171,
-      "num": 159171,
-      "word": "男子编故事逃单还骗老板40元",
-      "onboard_time": 1661056949,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156180,
