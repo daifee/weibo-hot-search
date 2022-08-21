@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661085416101,
+  "endTime": 1661086737570,
   "band_list": [
     {
       "raw_hot": 4259949,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4007223,
-      "num": 4007223,
+      "raw_hot": 4032813,
+      "num": 4032813,
       "word": "杨某人四抓",
       "onboard_time": 1661082209,
       "rank": 0,
@@ -161,6 +161,14 @@
       "onboard_time": 1661047890,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1477795,
+      "num": 1477795,
+      "word": "女子背3个月大孩子烈日下卖玉米",
+      "onboard_time": 1661083590,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1367616,
@@ -345,14 +353,6 @@
       "onboard_time": 1661081672,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 833512,
-      "num": 833512,
-      "word": "女子背3个月大孩子烈日下卖玉米",
-      "onboard_time": 1661083590,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806037,
@@ -715,6 +715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 448822,
+      "num": 448822,
+      "word": "Karsa上场",
+      "onboard_time": 1661084434,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 442613,
       "num": 442613,
       "word": "于文文花木兰造型",
@@ -849,6 +857,14 @@
       "onboard_time": 1661080049,
       "rank": 44,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 379534,
+      "num": 341883,
+      "word": "王俊凯一口气夸了两遍葛优非常幽默",
+      "onboard_time": 1661084910,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 378894,
@@ -1211,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290810,
+      "num": 290810,
+      "word": "五十公里桃花坞第二季收官",
+      "onboard_time": 1661084910,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290806,
       "num": 290806,
       "word": "上海昨日增本土无症状2例",
@@ -1227,12 +1251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287563,
-      "num": 287563,
-      "word": "五十公里桃花坞第二季收官",
-      "onboard_time": 1661084910,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 287530,
+      "num": 287530,
+      "word": "欢乐颂3",
+      "onboard_time": 1661086231,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 286537,
@@ -1331,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273065,
-      "num": 273065,
-      "word": "Karsa上场",
-      "onboard_time": 1661084434,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 272845,
       "num": 272845,
       "word": "杨和苏无名幕后vlog",
@@ -1427,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254693,
+      "num": 237994,
+      "word": "苍兰夫妇互相为对方着想",
+      "onboard_time": 1661085752,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254290,
       "num": 254290,
       "word": "2022PEL夏季赛总决赛",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1661062467,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251854,
+      "num": 251854,
+      "word": "V5大翻盘",
+      "onboard_time": 1661085992,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 251791,
@@ -1459,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249900,
-      "num": 249900,
-      "word": "王俊凯一口气夸了两遍葛优非常幽默",
-      "onboard_time": 1661084910,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249740,
       "num": 249740,
       "word": "小兰花后面站着的是她的爸妈",
       "onboard_time": 1661037860,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246913,
+      "num": 246913,
+      "word": "日本首相岸田文雄感染新冠病毒",
+      "onboard_time": 1661072668,
+      "rank": 36,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 245861,
@@ -1683,6 +1715,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 208679,
+      "num": 208679,
+      "word": "投入全部的感情真的值得吗",
+      "onboard_time": 1661083171,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208257,
       "num": 208257,
       "word": "SMG夏季赛总冠军",
@@ -1771,14 +1811,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 202522,
-      "num": 202522,
-      "word": "日本首相岸田文雄感染新冠病毒",
-      "onboard_time": 1661072668,
-      "rank": 36,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 201160,
       "num": 201160,
       "word": "虚拟人为什么这么火",
@@ -1803,12 +1835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195569,
-      "num": 195569,
-      "word": "投入全部的感情真的值得吗",
-      "onboard_time": 1661083171,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 196406,
+      "num": 196406,
+      "word": "抖五值得",
+      "onboard_time": 1661085689,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 191693,
@@ -1843,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190081,
+      "num": 185847,
+      "word": "极限挑战",
+      "onboard_time": 1661086650,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186938,
       "num": 186938,
       "word": "灵隐寺暂停请购十八籽佛珠手串",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1661076029,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184573,
+      "num": 184573,
+      "word": "东玄哭了",
+      "onboard_time": 1661086473,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184261,
@@ -1961,6 +2009,22 @@
       "onboard_time": 1661077708,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159026,
+      "num": 159026,
+      "word": "成都疫情防控",
+      "onboard_time": 1661086711,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157960,
+      "num": 157960,
+      "word": "男童被困车尾箱近2小时患热射病",
+      "onboard_time": 1661086711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156180,
