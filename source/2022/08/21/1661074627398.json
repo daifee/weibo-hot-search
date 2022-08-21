@@ -1,0 +1,410 @@
+{
+  "runTime": 1661074627398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3534107,
+        "num": 3534107,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1772447,
+        "num": 1772447,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15721,
+        "num": 1679498,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1667566,
+        "num": 1667566,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227275,
+        "num": 1227275,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190917,
+        "num": 1190917,
+        "word": "云中君 走地鸡",
+        "onboard_time": 1661068768,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1083220,
+        "num": 1083220,
+        "word": "网传李现任敏主演群星闪耀时",
+        "onboard_time": 1661070090,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 942772,
+        "num": 942772,
+        "word": "万达花两亿解除大连人转会禁令",
+        "onboard_time": 1661071107,
+        "rank": 7,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 682229,
+        "num": 682229,
+        "word": "嫋嫋要的是并肩同行",
+        "onboard_time": 1661070207,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591975,
+        "num": 591975,
+        "word": "女子寄快递丢失4800元手镯",
+        "onboard_time": 1661065229,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787083,
+        "num": 588147,
+        "word": "刘亦菲吴倩新剧演闺蜜",
+        "onboard_time": 1661067026,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569153,
+        "num": 569153,
+        "word": "张云龙知道MIKE中文名",
+        "onboard_time": 1661069968,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471657,
+        "num": 471657,
+        "word": "岸田文雄感染新冠病毒",
+        "onboard_time": 1661072668,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 470199,
+        "num": 470199,
+        "word": "插头带圆孔不适合国内用",
+        "onboard_time": 1661069129,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 458598,
+        "num": 458598,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427854,
+        "num": 427854,
+        "word": "冰雨火还有啥不敢拍的吗",
+        "onboard_time": 1661062227,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420444,
+        "num": 420444,
+        "word": "成都今日最高气温43.4°C",
+        "onboard_time": 1661071286,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385230,
+        "num": 385230,
+        "word": "6岁儿童溺水身亡7岁玩伴成被告",
+        "onboard_time": 1661060786,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 326387,
+        "num": 326387,
+        "word": "当地回应建议中华田园犬移除禁养目录",
+        "onboard_time": 1661072247,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290523,
+        "num": 290523,
+        "word": "男子冒死从缅北逃回讲述惨痛遭遇",
+        "onboard_time": 1661057549,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368856,
+        "num": 287471,
+        "word": "网友评选新生代歌坛五大天王",
+        "onboard_time": 1661072247,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349037,
+        "num": 287074,
+        "word": "苍兰诀编剧",
+        "onboard_time": 1661067927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329226,
+        "num": 286505,
+        "word": "少女时代末放",
+        "onboard_time": 1661072968,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283821,
+        "num": 283821,
+        "word": "被小猫咪的智商折服了",
+        "onboard_time": 1661070749,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 267376,
+        "num": 267376,
+        "word": "国家向重庆紧急调运抗旱物资",
+        "onboard_time": 1661073148,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259902,
+        "num": 259902,
+        "word": "长沙雨花区发现1例确诊病例",
+        "onboard_time": 1661070090,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254290,
+        "num": 254290,
+        "word": "2022PEL夏季赛总决赛",
+        "onboard_time": 1661074228,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237493,
+        "num": 237493,
+        "word": "特斯拉车主手背植入芯片变成车钥匙",
+        "onboard_time": 1661073448,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 206148,
+        "num": 206148,
+        "word": "男子强行拿走顾客螺蛳粉和饮料",
+        "onboard_time": 1661073627,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201015,
+        "num": 201015,
+        "word": "左邻右舍踹门扯布救6楼悬挂男孩",
+        "onboard_time": 1661071349,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 243183,
+        "num": 200973,
+        "word": "王一博的剧本上全是笔记",
+        "onboard_time": 1661059709,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200905,
+        "num": 200905,
+        "word": "街舞5队长火锅局剧照",
+        "onboard_time": 1661069786,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196215,
+        "num": 196215,
+        "word": "爸爸带俩大学生女儿送儿子上浙大",
+        "onboard_time": 1661056589,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194910,
+        "num": 194910,
+        "word": "少年扔书包飞奔一把拎起落水小孩",
+        "onboard_time": 1661070628,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194215,
+        "num": 194215,
+        "word": "刘芸说郑钧是反内卷第一名",
+        "onboard_time": 1661065407,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182070,
+        "num": 182070,
+        "word": "谷江山",
+        "onboard_time": 1661054963,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176600,
+        "num": 176600,
+        "word": "真实的境外电诈窝点是什么样子",
+        "onboard_time": 1661061805,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171242,
+        "num": 171242,
+        "word": "高温包围圈终于要缩了",
+        "onboard_time": 1661072909,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160229,
+        "num": 160229,
+        "word": "不晒点东西都辜负了高温",
+        "onboard_time": 1661074290,
+        "rank": 38,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 148093,
+        "num": 148093,
+        "word": "鄱阳湖的鱼被晒成鱼干",
+        "onboard_time": 1661073748,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177605,
+        "num": 148084,
+        "word": "姜小果一句没提周寻句句是周寻",
+        "onboard_time": 1661063608,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151540,
+        "num": 148080,
+        "word": "欢乐颂3好像我的答案之书",
+        "onboard_time": 1661074527,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 148053,
+        "num": 148053,
+        "word": "当她说不想谈恋爱的时候",
+        "onboard_time": 1661063844,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 143100,
+        "num": 143100,
+        "word": "iG冠军3C互评",
+        "onboard_time": 1661066428,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135490,
+        "num": 135490,
+        "word": "9岁女孩暑假胖十几斤查出脂肪肝",
+        "onboard_time": 1661074468,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132680,
+        "num": 132680,
+        "word": "成都最高气温再创历史新高",
+        "onboard_time": 1661071529,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131919,
+        "num": 131919,
+        "word": "南充疫情防控",
+        "onboard_time": 1661067026,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "水滴筹回应筹款中介抽成最高达70%",
+        "onboard_time": 1661055808,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118834,
+        "num": 118834,
+        "word": "科学家用猪皮恢复盲人视力",
+        "onboard_time": 1661074527,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 117465,
+        "num": 117465,
+        "word": "重庆大足区山火燃烧一夜未灭",
+        "onboard_time": 1661061383,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}
