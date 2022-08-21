@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/21 18:23:01
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/21 18:39:06
 </p>
 </blockquote>
 <p>
@@ -2301,6 +2301,12 @@ iPhone14新增紫色（热度：2303933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%8F%91%E7%94%9F%E9%9A%8F%E6%9C%BA%E7%A0%8D%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+日本东京发生随机砍人事件（热度：2225425）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23" target="weibo">
 披荆斩棘第二季官宣定档（热度：2216885）
 </a>
@@ -4385,12 +4391,6 @@ iPhone取消Siri语音关机（热度：1459842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E5%93%AD%E4%BA%86%23" target="weibo">
 久哲哭了（热度：1456643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%8F%91%E7%94%9F%E9%9A%8F%E6%9C%BA%E7%A0%8D%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-日本东京发生随机砍人事件（热度：1455786）
 </a>
 </li>
 

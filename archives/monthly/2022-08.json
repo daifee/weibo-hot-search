@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661077381228,
+  "endTime": 1661078346094,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -3051,6 +3051,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 2225425,
+      "num": 2225425,
+      "word": "日本东京发生随机砍人事件",
+      "onboard_time": 1661075490,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2216885,
       "num": 2216885,
       "word": "披荆斩棘第二季官宣定档",
@@ -5833,14 +5841,6 @@
       "onboard_time": 1660917032,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1455786,
-      "num": 1455786,
-      "word": "日本东京发生随机砍人事件",
-      "onboard_time": 1661075490,
-      "rank": 3,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1455248,
@@ -11076,7 +11076,7 @@
     },
     {
       "raw_hot": 897251,
-      "num": 644429,
+      "num": 654632,
       "word": "王鹤棣虞书欣张凌赫cp叫王欣凌",
       "onboard_time": 1661074648,
       "rank": 10,
@@ -11097,6 +11097,14 @@
       "onboard_time": 1659801513,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 896434,
+      "num": 896434,
+      "word": "男子强行拿走顾客螺蛳粉和饮料",
+      "onboard_time": 1661073627,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896023,
@@ -12859,6 +12867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 775243,
+      "num": 775243,
+      "word": "国家向重庆紧急调运抗旱物资",
+      "onboard_time": 1661073148,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775213,
       "num": 611454,
       "word": "杨紫首家文化传媒公司成立",
@@ -13361,14 +13377,6 @@
       "onboard_time": 1659830485,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 748791,
-      "num": 748791,
-      "word": "国家向重庆紧急调运抗旱物资",
-      "onboard_time": 1661073148,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 747500,
@@ -15595,6 +15603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 651599,
+      "num": 651599,
+      "word": "iPhone14系列或仍有mini",
+      "onboard_time": 1661075610,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 651487,
       "num": 651487,
       "word": "华为上半年营收3016亿元",
@@ -15649,14 +15665,6 @@
       "onboard_time": 1660075751,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 647765,
-      "num": 647765,
-      "word": "男子强行拿走顾客螺蛳粉和饮料",
-      "onboard_time": 1661073627,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647629,
@@ -15945,14 +15953,6 @@
       "onboard_time": 1660636472,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637247,
-      "num": 637247,
-      "word": "iPhone14系列或仍有mini",
-      "onboard_time": 1661075610,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 637180,
@@ -16857,6 +16857,14 @@
       "onboard_time": 1659757057,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 602822,
+      "num": 602822,
+      "word": "9岁女孩暑假胖十几斤查出脂肪肝",
+      "onboard_time": 1661074468,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601619,
@@ -18187,6 +18195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561978,
+      "num": 352168,
+      "word": "华晨宇红发",
+      "onboard_time": 1661077949,
+      "rank": 20,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 561542,
       "num": 561542,
       "word": "饿了么免单",
@@ -18241,14 +18257,6 @@
       "onboard_time": 1659588288,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 560353,
-      "num": 560353,
-      "word": "9岁女孩暑假胖十几斤查出脂肪肝",
-      "onboard_time": 1661074468,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560167,
@@ -18577,6 +18585,14 @@
       "onboard_time": 1660112552,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552091,
+      "num": 552091,
+      "word": "杜德伟在娱乐圈究竟有多少好朋友",
+      "onboard_time": 1661076808,
+      "rank": 22,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 552076,
@@ -26267,6 +26283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406560,
+      "num": 406560,
+      "word": "特斯拉车主手背植入芯片变成车钥匙",
+      "onboard_time": 1661073448,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 406552,
       "num": 234700,
       "word": "街舞5队长火锅局剧照",
@@ -26337,14 +26361,6 @@
       "onboard_time": 1659499394,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406086,
-      "num": 406086,
-      "word": "特斯拉车主手背植入芯片变成车钥匙",
-      "onboard_time": 1661073448,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 406067,
@@ -27481,6 +27497,14 @@
       "onboard_time": 1660969526,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388504,
+      "num": 351904,
+      "word": "时代少年团夏令营花絮6",
+      "onboard_time": 1661077708,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 388489,
@@ -30523,6 +30547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352320,
+      "num": 352320,
+      "word": "鄱阳湖的鱼被晒成鱼干",
+      "onboard_time": 1661073748,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352288,
       "num": 352288,
       "word": "会害羞的小浣熊有多可爱",
@@ -30609,6 +30641,14 @@
       "onboard_time": 1661061805,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351269,
+      "num": 351269,
+      "word": "科学家用猪皮恢复盲人视力",
+      "onboard_time": 1661074527,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 350968,
@@ -31617,14 +31657,6 @@
       "onboard_time": 1660374571,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339677,
-      "num": 339677,
-      "word": "鄱阳湖的鱼被晒成鱼干",
-      "onboard_time": 1661073748,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339588,
@@ -32673,6 +32705,14 @@
       "onboard_time": 1659869613,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 328674,
+      "num": 328674,
+      "word": "王一博冰雨火片场花絮照",
+      "onboard_time": 1661077768,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 328505,
@@ -34347,14 +34387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307136,
-      "num": 307136,
-      "word": "杜德伟在娱乐圈究竟有多少好朋友",
-      "onboard_time": 1661076808,
-      "rank": 22,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 307122,
       "num": 209802,
       "word": "BLACKPINK新歌MV身穿曼联球衣",
@@ -34737,6 +34769,14 @@
       "onboard_time": 1660553132,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 302265,
+      "num": 302265,
+      "word": "2名逃犯同一天落网还撞衫",
+      "onboard_time": 1661074947,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302207,
@@ -35857,14 +35897,6 @@
       "onboard_time": 1659950376,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288165,
-      "num": 288165,
-      "word": "科学家用猪皮恢复盲人视力",
-      "onboard_time": 1661074527,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 288118,
@@ -37241,6 +37273,14 @@
       "onboard_time": 1660727193,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270265,
+      "num": 270265,
+      "word": "和平精英",
+      "onboard_time": 1661076449,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 270248,
@@ -40563,14 +40603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231320,
-      "num": 231320,
-      "word": "2名逃犯同一天落网还撞衫",
-      "onboard_time": 1661074947,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231250,
       "num": 231250,
       "word": "这玩意儿竟然还会认人",
@@ -41073,14 +41105,6 @@
       "onboard_time": 1659597578,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226037,
-      "num": 226037,
-      "word": "和平精英",
-      "onboard_time": 1661076449,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 225949,
@@ -42283,6 +42307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 208940,
+      "num": 208940,
+      "word": "不晒点东西都辜负了高温",
+      "onboard_time": 1661074290,
+      "rank": 38,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 208500,
       "num": 208500,
       "word": "重庆新增本土确诊4例本土无症状3例",
@@ -42729,14 +42761,6 @@
       "onboard_time": 1660970429,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201936,
-      "num": 201936,
-      "word": "不晒点东西都辜负了高温",
-      "onboard_time": 1661074290,
-      "rank": 38,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 201845,
@@ -44083,6 +44107,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 180950,
+      "num": 180950,
+      "word": "计算器是不会算错的",
+      "onboard_time": 1661077349,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180869,
       "num": 180869,
       "word": "新疆疫情防控动态",
@@ -45067,6 +45099,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 159953,
+      "num": 159953,
+      "word": "夏日减脂餐的正确打开方式",
+      "onboard_time": 1661077708,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "全国一共有156173个王刚",
@@ -45763,6 +45803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142219,
+      "num": 142219,
+      "word": "狗狗的心情都写在了脸上",
+      "onboard_time": 1661077589,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 141961,
       "num": 141961,
       "word": "TES 下路",
@@ -45953,6 +46001,14 @@
       "onboard_time": 1661036234,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134533,
+      "num": 134533,
+      "word": "青海大通山洪灾害已造成26人遇难",
+      "onboard_time": 1661078247,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 134009,
@@ -46699,6 +46755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108312,
+      "num": 108312,
+      "word": "已经开始期待军训了",
+      "onboard_time": 1661076931,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 108264,
       "num": 108264,
       "word": "哈士奇和边牧的区别有多大",
@@ -46739,12 +46803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107675,
-      "num": 107675,
-      "word": "已经开始期待军训了",
-      "onboard_time": 1661076931,
-      "rank": 47,
-      "category": "情感,社会新闻"
+      "raw_hot": 107343,
+      "num": 107343,
+      "word": "工作人员扮玩偶遭熊孩子围踢屁股",
+      "onboard_time": 1661078247,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106768,
@@ -46913,14 +46977,6 @@
       "onboard_time": 1660579825,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95350,
-      "num": 95350,
-      "word": "计算器是不会算错的",
-      "onboard_time": 1661077349,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 94120,
