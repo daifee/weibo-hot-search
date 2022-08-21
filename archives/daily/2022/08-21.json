@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661067334157,
+  "endTime": 1661070351003,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -99,6 +99,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1539306,
+      "num": 485263,
+      "word": "刘亦菲吴倩新剧演闺蜜",
+      "onboard_time": 1661067026,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1539183,
       "num": 1539183,
       "word": "中国驻柬埔寨大使馆发声",
@@ -123,6 +131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1350728,
+      "num": 1350728,
+      "word": "上海暂停外滩等地景观照明",
+      "onboard_time": 1661068707,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1326042,
       "num": 1326042,
       "word": "王鹤棣也在追苍兰诀",
@@ -136,6 +152,14 @@
       "word": "做上门女婿7年男子回应",
       "onboard_time": 1661048489,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1306028,
+      "num": 1306028,
+      "word": "女子寄快递丢失4800元手镯",
+      "onboard_time": 1661065229,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -179,6 +203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1117976,
+      "num": 1117976,
+      "word": "云中君 走地鸡",
+      "onboard_time": 1661068768,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1098622,
       "num": 1098622,
       "word": "我买的房子终于发货了",
@@ -211,12 +243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 949971,
-      "num": 485263,
-      "word": "刘亦菲吴倩新剧演闺蜜",
-      "onboard_time": 1661067026,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 812276,
+      "num": 812276,
+      "word": "网传李现任敏主演群星闪耀时",
+      "onboard_time": 1661070090,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 792490,
@@ -241,14 +273,6 @@
       "onboard_time": 1661051967,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 758073,
-      "num": 758073,
-      "word": "女子寄快递丢失4800元手镯",
-      "onboard_time": 1661065229,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 692783,
@@ -329,6 +353,14 @@
       "onboard_time": 1661011590,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 595181,
+      "num": 595181,
+      "word": "刘芸说郑钧是反内卷第一名",
+      "onboard_time": 1661065407,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 585530,
@@ -483,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438189,
+      "num": 236384,
+      "word": "苍兰诀编剧",
+      "onboard_time": 1661067927,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438027,
       "num": 438027,
       "word": "酒店回应顾客住宿被虱子咬伤溃烂",
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406552,
+      "num": 234700,
+      "word": "街舞5队长火锅局剧照",
+      "onboard_time": 1661069786,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406414,
       "num": 406414,
       "word": "中国女排横扫韩国女排",
@@ -521,14 +569,6 @@
       "onboard_time": 1661010392,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 403206,
-      "num": 403206,
-      "word": "刘芸说郑钧是反内卷第一名",
-      "onboard_time": 1661065407,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 393173,
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347800,
+      "num": 216347,
+      "word": "嫋嫋要的是并肩同行",
+      "onboard_time": 1661070207,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347217,
       "num": 347217,
       "word": "没想到爷爷变装后这么潮",
@@ -657,6 +705,14 @@
       "onboard_time": 1661063844,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 335852,
+      "num": 335852,
+      "word": "iG冠军3C互评",
+      "onboard_time": 1661066428,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 334961,
@@ -817,6 +873,14 @@
       "onboard_time": 1661058210,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283691,
+      "num": 283691,
+      "word": "插头带圆孔不适合国内用",
+      "onboard_time": 1661069129,
+      "rank": 15,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 282738,
@@ -1003,20 +1067,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244679,
+      "num": 244679,
+      "word": "南充疫情防控",
+      "onboard_time": 1661067026,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240252,
+      "num": 128808,
+      "word": "张云龙知道MIKE中文名",
+      "onboard_time": 1661069968,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238161,
       "num": 163110,
       "word": "打卡吧吃货团",
       "onboard_time": 1661059768,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237768,
-      "num": 237768,
-      "word": "iG冠军3C互评",
-      "onboard_time": 1661066428,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 235209,
@@ -1057,14 +1129,6 @@
       "onboard_time": 1661065167,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229247,
-      "num": 229247,
-      "word": "南充疫情防控",
-      "onboard_time": 1661067026,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227748,
@@ -1115,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222894,
+      "num": 222894,
+      "word": "大连疫情防控",
+      "onboard_time": 1661065587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217706,
       "num": 217706,
       "word": "河南新增1例本土确诊11例无症状",
@@ -1128,6 +1200,14 @@
       "word": "刘雨昕做夹臂俯卧撑",
       "onboard_time": 1661015241,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211168,
+      "num": 128520,
+      "word": "张震岳撞脸",
+      "onboard_time": 1661068588,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1219,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190202,
-      "num": 190202,
-      "word": "大连疫情防控",
-      "onboard_time": 1661065587,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186938,
       "num": 186938,
       "word": "灵隐寺暂停请购十八籽佛珠手串",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1661052927,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177311,
+      "num": 177311,
+      "word": "00后舰载机飞行学员首次对地攻击训练",
+      "onboard_time": 1661067566,
+      "rank": 33,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 176737,
@@ -1339,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141753,
+      "num": 141753,
+      "word": "长沙雨花区发现1例确诊病例",
+      "onboard_time": 1661070090,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140432,
       "num": 140432,
       "word": "朴志晟C位舞蹈力度",
@@ -1387,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124919,
+      "num": 124919,
+      "word": "严格遵守交通规则的小猫",
+      "onboard_time": 1661067089,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119927,
       "num": 119927,
       "word": "黑龙江大庆发现3例阳性感染者",
@@ -1433,14 +1529,6 @@
       "onboard_time": 1661037439,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100490,
-      "num": 100490,
-      "word": "严格遵守交通规则的小猫",
-      "onboard_time": 1661067089,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 98864,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1661023932,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21545,
+      "num": 1319358,
+      "word": "重温方志敏可爱的中国",
+      "onboard_time": 1661038882,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 14640,

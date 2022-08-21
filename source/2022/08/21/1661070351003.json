@@ -1,0 +1,410 @@
+{
+  "runTime": 1661070351003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2332133,
+        "num": 2332133,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1350728,
+        "num": 1350728,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21545,
+        "num": 1319358,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1306028,
+        "num": 1306028,
+        "word": "女子寄快递丢失4800元手镯",
+        "onboard_time": 1661065229,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117976,
+        "num": 1117976,
+        "word": "云中君 走地鸡",
+        "onboard_time": 1661068768,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 812276,
+        "num": 812276,
+        "word": "网传李现任敏主演群星闪耀时",
+        "onboard_time": 1661070090,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 799787,
+        "num": 799787,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664165,
+        "num": 664165,
+        "word": "6岁儿童溺水身亡7岁玩伴成被告",
+        "onboard_time": 1661060786,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 595181,
+        "num": 595181,
+        "word": "刘芸说郑钧是反内卷第一名",
+        "onboard_time": 1661065407,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492844,
+        "num": 492844,
+        "word": "男子冒死从缅北逃回讲述惨痛遭遇",
+        "onboard_time": 1661057549,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1539306,
+        "num": 479432,
+        "word": "刘亦菲吴倩新剧演闺蜜",
+        "onboard_time": 1661067026,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 871828,
+        "num": 444823,
+        "word": "谷江山",
+        "onboard_time": 1661054963,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560245,
+        "num": 429643,
+        "word": "姜小果一句没提周寻句句是周寻",
+        "onboard_time": 1661063608,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368897,
+        "num": 368897,
+        "word": "爸爸带俩大学生女儿送儿子上浙大",
+        "onboard_time": 1661056589,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 335852,
+        "num": 335852,
+        "word": "iG冠军3C互评",
+        "onboard_time": 1661066428,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283691,
+        "num": 283691,
+        "word": "插头带圆孔不适合国内用",
+        "onboard_time": 1661069129,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 279760,
+        "num": 279760,
+        "word": "当她说不想谈恋爱的时候",
+        "onboard_time": 1661063844,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 275072,
+        "num": 275072,
+        "word": "酒店回应顾客住宿被虱子咬伤溃烂",
+        "onboard_time": 1661060967,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256021,
+        "num": 256021,
+        "word": "四川最高用电负荷已至6500万千瓦",
+        "onboard_time": 1661054908,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244679,
+        "num": 244679,
+        "word": "南充疫情防控",
+        "onboard_time": 1661067026,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550693,
+        "num": 240195,
+        "word": "冰雨火还有啥不敢拍的吗",
+        "onboard_time": 1661062227,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438189,
+        "num": 236384,
+        "word": "苍兰诀编剧",
+        "onboard_time": 1661067927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406552,
+        "num": 234700,
+        "word": "街舞5队长火锅局剧照",
+        "onboard_time": 1661069786,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230477,
+        "num": 230477,
+        "word": "真实的境外电诈窝点是什么样子",
+        "onboard_time": 1661061805,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222894,
+        "num": 222894,
+        "word": "大连疫情防控",
+        "onboard_time": 1661065587,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347800,
+        "num": 216347,
+        "word": "嫋嫋要的是并肩同行",
+        "onboard_time": 1661070207,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322144,
+        "num": 214856,
+        "word": "王鹤棣Gwalla练了一百遍",
+        "onboard_time": 1661062826,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208245,
+        "num": 208245,
+        "word": "水滴筹回应筹款中介抽成最高达70%",
+        "onboard_time": 1661055808,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207789,
+        "num": 207789,
+        "word": "中国女排横扫韩国女排",
+        "onboard_time": 1661063005,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195303,
+        "num": 195303,
+        "word": "已婚女子装白富美网恋骗零花钱",
+        "onboard_time": 1661058386,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 267693,
+        "num": 193194,
+        "word": "王一博的剧本上全是笔记",
+        "onboard_time": 1661059709,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240874,
+        "num": 191940,
+        "word": "徐明浩好会扭",
+        "onboard_time": 1661066848,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190129,
+        "num": 190129,
+        "word": "重庆大足区山火燃烧一夜未灭",
+        "onboard_time": 1661061383,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177311,
+        "num": 177311,
+        "word": "00后舰载机飞行学员首次对地攻击训练",
+        "onboard_time": 1661067566,
+        "rank": 33,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 172285,
+        "num": 172285,
+        "word": "做上门女婿7年男子回应",
+        "onboard_time": 1661048489,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163577,
+        "num": 163577,
+        "word": "斗破苍穹小说十大名场面",
+        "onboard_time": 1661057669,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159005,
+        "num": 159005,
+        "word": "彩云之南又现彩云",
+        "onboard_time": 1661064748,
+        "rank": 36,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 146875,
+        "num": 146875,
+        "word": "蚊子喜欢咬爱出汗的人",
+        "onboard_time": 1661053767,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141753,
+        "num": 141753,
+        "word": "长沙雨花区发现1例确诊病例",
+        "onboard_time": 1661070090,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129025,
+        "num": 129025,
+        "word": "见过最用心的喜糖清单",
+        "onboard_time": 1661060007,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240252,
+        "num": 128808,
+        "word": "张云龙知道MIKE中文名",
+        "onboard_time": 1661069968,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192263,
+        "num": 128621,
+        "word": "虞书欣要求郭晓婷真掐自己",
+        "onboard_time": 1661056167,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211168,
+        "num": 128520,
+        "word": "张震岳撞脸",
+        "onboard_time": 1661068588,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127122,
+        "num": 127122,
+        "word": "台湾同胞就是中国公民",
+        "onboard_time": 1661044949,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 124919,
+        "num": 124919,
+        "word": "严格遵守交通规则的小猫",
+        "onboard_time": 1661067089,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122115,
+        "num": 122115,
+        "word": "安徽怀宁新增5例初筛阳性",
+        "onboard_time": 1661062467,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121437,
+        "num": 121437,
+        "word": "重庆赶紧下场雨吧",
+        "onboard_time": 1661063366,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117850,
+        "num": 117850,
+        "word": "四川启动突发事件能源供应保障一级应急响应",
+        "onboard_time": 1661049509,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117574,
+        "num": 117574,
+        "word": "中国家长开始送孩子去泰国读书",
+        "onboard_time": 1661043807,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 114833,
+        "num": 114833,
+        "word": "劳荣枝最后陈述称想赎罪想回归社会",
+        "onboard_time": 1661042066,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平凡之事做到至臻卓越#"
+    }
+  }
+}
