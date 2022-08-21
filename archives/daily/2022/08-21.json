@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661059348452,
+  "endTime": 1661060252047,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -51,20 +51,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1792472,
+      "num": 1792472,
+      "word": "虞书欣要求郭晓婷真掐自己",
+      "onboard_time": 1661056167,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1775946,
       "num": 1775946,
       "word": "乐山大佛真身全部露出",
       "onboard_time": 1661006432,
       "rank": 4,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1722624,
-      "num": 1722624,
-      "word": "虞书欣要求郭晓婷真掐自己",
-      "onboard_time": 1661056167,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1670554,
@@ -97,6 +97,14 @@
       "onboard_time": 1661047890,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1460084,
+      "num": 1460084,
+      "word": "男子冒死从缅北逃回讲述惨痛遭遇",
+      "onboard_time": 1661057549,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1367616,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120642,
+      "num": 1120642,
+      "word": "爸爸带俩大学生女儿送儿子上浙大",
+      "onboard_time": 1661056589,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1098622,
       "num": 1098622,
       "word": "我买的房子终于发货了",
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 988881,
-      "num": 988881,
-      "word": "爸爸带俩大学生女儿送儿子上浙大",
-      "onboard_time": 1661056589,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 967068,
       "num": 967068,
       "word": "看到苏有朋后突然就理解了",
@@ -179,20 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 849253,
-      "num": 849253,
-      "word": "男子冒死从缅北逃回讲述惨痛遭遇",
-      "onboard_time": 1661057549,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 777477,
       "num": 777477,
       "word": "刘诗诗恭喜吴彦姝奶奶获奖",
       "onboard_time": 1661051967,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 692783,
+      "num": 589949,
+      "word": "鹿晗毛不易养宠交流现场",
+      "onboard_time": 1661058088,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 649221,
@@ -259,16 +267,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 587574,
-      "num": 587574,
-      "word": "鹿晗毛不易养宠交流现场",
-      "onboard_time": 1661058088,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 569088,
-      "num": 569088,
+      "raw_hot": 575485,
+      "num": 575485,
       "word": "水滴筹回应筹款中介抽成最高达70%",
       "onboard_time": 1661055808,
       "rank": 27,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432266,
+      "num": 432266,
+      "word": "斗破苍穹小说十大名场面",
+      "onboard_time": 1661057669,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 416410,
       "num": 416410,
       "word": "成都电力工人的高温日常",
@@ -491,6 +499,30 @@
       "category": "军事"
     },
     {
+      "raw_hot": 347217,
+      "num": 347217,
+      "word": "没想到爷爷变装后这么潮",
+      "onboard_time": 1661058088,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345133,
+      "num": 298308,
+      "word": "王大陆披荆斩棘的镜头除了笑还是笑",
+      "onboard_time": 1661056768,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344380,
+      "num": 1582090,
+      "word": "蚊子喜欢咬爱出汗的人",
+      "onboard_time": 1661053767,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336427,
       "num": 1821029,
       "word": "暑假只剩10天了",
@@ -515,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332947,
-      "num": 293889,
-      "word": "王大陆披荆斩棘的镜头除了笑还是笑",
-      "onboard_time": 1661056768,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 333444,
+      "num": 305525,
+      "word": "王一博的剧本上全是笔记",
+      "onboard_time": 1661059709,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332247,
+      "num": 248504,
+      "word": "杨戬票房破亿",
+      "onboard_time": 1661058808,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 330742,
@@ -547,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 323757,
+      "num": 297231,
+      "word": "kcon舞台",
+      "onboard_time": 1661059468,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 319696,
       "num": 317475,
       "word": "沉香重华明天见",
@@ -569,6 +617,14 @@
       "onboard_time": 1661005473,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314484,
+      "num": 314484,
+      "word": "已婚女子装白富美网恋骗零花钱",
+      "onboard_time": 1661058386,
+      "rank": 37,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 309545,
@@ -609,14 +665,6 @@
       "onboard_time": 1660992268,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 293368,
-      "num": 293368,
-      "word": "没想到爷爷变装后这么潮",
-      "onboard_time": 1661058088,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291909,
@@ -691,20 +739,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273907,
-      "num": 199752,
-      "word": "杨戬票房破亿",
-      "onboard_time": 1661058808,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 272914,
-      "num": 1455836,
-      "word": "蚊子喜欢咬爱出汗的人",
-      "onboard_time": 1661053767,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 274860,
+      "num": 274860,
+      "word": "下厨房崩了",
+      "onboard_time": 1661056708,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 269988,
@@ -721,22 +761,6 @@
       "onboard_time": 1660997305,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263317,
-      "num": 263317,
-      "word": "下厨房崩了",
-      "onboard_time": 1661056708,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 262692,
-      "num": 262692,
-      "word": "斗破苍穹小说十大名场面",
-      "onboard_time": 1661057669,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 262505,
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238161,
+      "num": 163110,
+      "word": "打卡吧吃货团",
+      "onboard_time": 1661059768,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235209,
       "num": 232765,
       "word": "吴建豪和朱嘉琦宿舍合奏",
@@ -897,14 +929,6 @@
       "onboard_time": 1661015241,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215520,
-      "num": 215520,
-      "word": "已婚女子装白富美网恋骗零花钱",
-      "onboard_time": 1661058386,
-      "rank": 37,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 209372,
@@ -1065,6 +1089,22 @@
       "onboard_time": 1661002170,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147543,
+      "num": 147543,
+      "word": "水上飞人不是所有人都能玩",
+      "onboard_time": 1661059346,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145197,
+      "num": 145197,
+      "word": "见过最用心的喜糖清单",
+      "onboard_time": 1661060007,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 140432,
