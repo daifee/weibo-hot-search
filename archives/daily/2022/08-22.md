@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/22 00:29:33 ~ 2022/08/22 02:25:58
+本榜单时间：2022/08/22 00:29:33 ~ 2022/08/22 02:42:38
 </p>
 </blockquote>
 <p>
@@ -179,6 +179,12 @@ Doinb（热度：279496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E5%9B%B0%E8%BD%A6%E5%B0%BE%E7%AE%B1%E8%BF%912%E5%B0%8F%E6%97%B6%E6%82%A3%E7%83%AD%E5%B0%84%E7%97%85%23" target="weibo">
 男童被困车尾箱近2小时患热射病（热度：271822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B8%E9%80%8D%E8%AF%B4%E5%8F%AA%E6%9C%89%E5%B7%BD%E9%A3%8E%E5%8F%91%E7%96%AF%E7%9A%84%E4%B8%96%E7%95%8C%E8%BE%BE%E6%88%90%23" target="weibo">
+张宸逍说只有巽风发疯的世界达成（热度：260970）
 </a>
 </li>
 
