@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661070351003,
+  "endTime": 1661071312767,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1817893,
+      "num": 1817893,
+      "word": "上海暂停外滩等地景观照明",
+      "onboard_time": 1661068707,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1792472,
       "num": 1792472,
       "word": "虞书欣要求郭晓婷真掐自己",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1539306,
-      "num": 485263,
+      "num": 488185,
       "word": "刘亦菲吴倩新剧演闺蜜",
       "onboard_time": 1661067026,
       "rank": 10,
@@ -131,14 +139,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1350728,
-      "num": 1350728,
-      "word": "上海暂停外滩等地景观照明",
-      "onboard_time": 1661068707,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1326042,
       "num": 1326042,
       "word": "王鹤棣也在追苍兰诀",
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1288786,
+      "num": 1288786,
+      "word": "网传李现任敏主演群星闪耀时",
+      "onboard_time": 1661070090,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1277812,
       "num": 1220608,
       "word": "巽风 毒唯",
@@ -177,6 +185,14 @@
       "onboard_time": 1661049509,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242595,
+      "num": 1242595,
+      "word": "云中君 走地鸡",
+      "onboard_time": 1661068768,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1205878,
@@ -201,14 +217,6 @@
       "onboard_time": 1661056589,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1117976,
-      "num": 1117976,
-      "word": "云中君 走地鸡",
-      "onboard_time": 1661068768,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1098622,
@@ -243,14 +251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 812276,
-      "num": 812276,
-      "word": "网传李现任敏主演群星闪耀时",
-      "onboard_time": 1661070090,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 792490,
       "num": 792490,
       "word": "冰雨火还有啥不敢拍的吗",
@@ -281,6 +281,14 @@
       "onboard_time": 1661058088,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691691,
+      "num": 691691,
+      "word": "嫋嫋要的是并肩同行",
+      "onboard_time": 1661070207,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 660361,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491766,
+      "num": 491766,
+      "word": "插头带圆孔不适合国内用",
+      "onboard_time": 1661069129,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 482857,
       "num": 482857,
       "word": "女子耳钉塞被晒化求助消防员",
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 438189,
-      "num": 236384,
+      "num": 240503,
       "word": "苍兰诀编剧",
       "onboard_time": 1661067927,
       "rank": 21,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347800,
-      "num": 216347,
-      "word": "嫋嫋要的是并肩同行",
-      "onboard_time": 1661070207,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347217,
       "num": 347217,
       "word": "没想到爷爷变装后这么潮",
@@ -761,6 +769,22 @@
       "onboard_time": 1661059468,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323118,
+      "num": 171028,
+      "word": "张云龙知道MIKE中文名",
+      "onboard_time": 1661069968,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322713,
+      "num": 322713,
+      "word": "长沙雨花区发现1例确诊病例",
+      "onboard_time": 1661070090,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319696,
@@ -875,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283691,
-      "num": 283691,
-      "word": "插头带圆孔不适合国内用",
-      "onboard_time": 1661069129,
-      "rank": 15,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 282738,
       "num": 168623,
       "word": "少女时代",
@@ -945,6 +961,14 @@
       "onboard_time": 1661060728,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271356,
+      "num": 162541,
+      "word": "黄明昊求表扬的小表情",
+      "onboard_time": 1661071169,
+      "rank": 32,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 269988,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1661067026,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240252,
-      "num": 128808,
-      "word": "张云龙知道MIKE中文名",
-      "onboard_time": 1661069968,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 238161,
@@ -1259,6 +1275,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203749,
+      "num": 203749,
+      "word": "00后舰载机飞行学员首次对地攻击训练",
+      "onboard_time": 1661067566,
+      "rank": 33,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 203178,
+      "num": 141412,
+      "word": "胆小鬼全员云打卡长沙",
+      "onboard_time": 1661070809,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202827,
       "num": 202827,
       "word": "彩云之南又现彩云",
@@ -1331,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177311,
-      "num": 177311,
-      "word": "00后舰载机飞行学员首次对地攻击训练",
-      "onboard_time": 1661067566,
-      "rank": 33,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 176737,
       "num": 176737,
       "word": "重庆赶紧下场雨吧",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1660987767,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 173063,
+      "num": 173063,
+      "word": "被小猫咪的智商折服了",
+      "onboard_time": 1661070749,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171315,
@@ -1419,12 +1451,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141753,
-      "num": 141753,
-      "word": "长沙雨花区发现1例确诊病例",
-      "onboard_time": 1661070090,
+      "raw_hot": 142119,
+      "num": 142119,
+      "word": "少年扔书包飞奔一把拎起落水小孩",
+      "onboard_time": 1661070628,
       "rank": 38,
-      "category": "社会新闻"
+      "category": "社会正能量"
     },
     {
       "raw_hot": 140432,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1661002711,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136123,
+      "num": 136123,
+      "word": "T1对战DK",
+      "onboard_time": 1661070389,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 135158,
@@ -1521,6 +1561,22 @@
       "onboard_time": 1661006674,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106460,
+      "num": 106460,
+      "word": "成都今日最高气温43.4°C",
+      "onboard_time": 1661071286,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105536,
+      "num": 105536,
+      "word": "万达花两亿解除大连人转会禁令",
+      "onboard_time": 1661071107,
+      "rank": 49,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 101554,
@@ -1611,8 +1667,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21545,
-      "num": 1319358,
+      "raw_hot": 23254,
+      "num": 1412617,
       "word": "重温方志敏可爱的中国",
       "onboard_time": 1661038882,
       "rank": 2,
