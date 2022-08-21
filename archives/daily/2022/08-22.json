@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661114275478,
+  "endTime": 1661116707795,
   "band_list": [
     {
       "raw_hot": 2930085,
@@ -451,16 +451,16 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 43336,
-      "num": 43336,
+      "raw_hot": 46508,
+      "num": 46508,
       "word": "岸田文雄出现低烧咳嗽等症状",
       "onboard_time": 1661111172,
       "rank": 26,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 25416,
-      "num": 25416,
+      "raw_hot": 39705,
+      "num": 39705,
       "word": "95后女教练带队拿下男篮全国冠军",
       "onboard_time": 1661112073,
       "rank": 38,
@@ -475,12 +475,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15939,
+      "num": 15939,
+      "word": "你会怕让父母丢脸吗",
+      "onboard_time": 1661115012,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13039,
       "num": 1262655,
       "word": "重温方志敏可爱的中国",
       "onboard_time": 1661038882,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10811,
+      "num": 10811,
+      "word": "岸田文雄原定于明日恢复工作",
+      "onboard_time": 1661114350,
+      "rank": 48,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
