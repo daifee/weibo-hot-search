@@ -1,0 +1,410 @@
+{
+  "runTime": 1661073613720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105051,
+        "num": 2105051,
+        "word": "上海暂停外滩等地景观照明",
+        "onboard_time": 1661068707,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1893445,
+        "num": 1893445,
+        "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
+        "onboard_time": 1661072066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15386,
+        "num": 1871396,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1860294,
+        "num": 1860294,
+        "word": "男子转账3万9求出租车司机闯红灯",
+        "onboard_time": 1661071409,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501291,
+        "num": 1501291,
+        "word": "全家染幽门螺杆菌父亲查出胃早癌",
+        "onboard_time": 1661064628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327517,
+        "num": 1327517,
+        "word": "云中君 走地鸡",
+        "onboard_time": 1661068768,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1129166,
+        "num": 1129166,
+        "word": "网传李现任敏主演群星闪耀时",
+        "onboard_time": 1661070090,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 806037,
+        "num": 806037,
+        "word": "嫋嫋要的是并肩同行",
+        "onboard_time": 1661070207,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734627,
+        "num": 734627,
+        "word": "女子寄快递丢失4800元手镯",
+        "onboard_time": 1661065229,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591721,
+        "num": 591721,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916256,
+        "num": 579294,
+        "word": "刘亦菲吴倩新剧演闺蜜",
+        "onboard_time": 1661067026,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 714397,
+        "num": 568962,
+        "word": "万达花两亿解除大连人转会禁令",
+        "onboard_time": 1661071107,
+        "rank": 11,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 554571,
+        "num": 554571,
+        "word": "插头带圆孔不适合国内用",
+        "onboard_time": 1661069129,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 450619,
+        "num": 450619,
+        "word": "张云龙知道MIKE中文名",
+        "onboard_time": 1661069968,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436751,
+        "num": 436751,
+        "word": "6岁儿童溺水身亡7岁玩伴成被告",
+        "onboard_time": 1661060786,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 404736,
+        "num": 404736,
+        "word": "苍兰诀编剧",
+        "onboard_time": 1661067927,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377285,
+        "num": 377285,
+        "word": "成都今日最高气温43.4°C",
+        "onboard_time": 1661071286,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316907,
+        "num": 316907,
+        "word": "男子冒死从缅北逃回讲述惨痛遭遇",
+        "onboard_time": 1661057549,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312087,
+        "num": 312087,
+        "word": "长沙雨花区发现1例确诊病例",
+        "onboard_time": 1661070090,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302135,
+        "num": 302135,
+        "word": "被小猫咪的智商折服了",
+        "onboard_time": 1661070749,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 399942,
+        "num": 298908,
+        "word": "冰雨火还有啥不敢拍的吗",
+        "onboard_time": 1661062227,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320590,
+        "num": 296493,
+        "word": "网友评选新生代歌坛五大天王",
+        "onboard_time": 1661072247,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284207,
+        "num": 284207,
+        "word": "岸田文雄感染新冠病毒",
+        "onboard_time": 1661072668,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270125,
+        "num": 270125,
+        "word": "刘芸说郑钧是反内卷第一名",
+        "onboard_time": 1661065407,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215561,
+        "num": 215561,
+        "word": "爸爸带俩大学生女儿送儿子上浙大",
+        "onboard_time": 1661056589,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 207957,
+        "num": 207957,
+        "word": "少年扔书包飞奔一把拎起落水小孩",
+        "onboard_time": 1661070628,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 196160,
+        "num": 196160,
+        "word": "左邻右舍踹门扯布救6楼悬挂男孩",
+        "onboard_time": 1661071349,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 184451,
+        "num": 184451,
+        "word": "真实的境外电诈窝点是什么样子",
+        "onboard_time": 1661061805,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177204,
+        "num": 177204,
+        "word": "当地回应建议中华田园犬移除禁养目录",
+        "onboard_time": 1661072247,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174897,
+        "num": 174897,
+        "word": "当她说不想谈恋爱的时候",
+        "onboard_time": 1661063844,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 249311,
+        "num": 174634,
+        "word": "王一博的剧本上全是笔记",
+        "onboard_time": 1661059709,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244907,
+        "num": 171578,
+        "word": "杨戬",
+        "onboard_time": 1661073211,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239351,
+        "num": 169177,
+        "word": "少女时代末放",
+        "onboard_time": 1661072968,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217360,
+        "num": 167070,
+        "word": "姜小果一句没提周寻句句是周寻",
+        "onboard_time": 1661063608,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166925,
+        "num": 166925,
+        "word": "成都最高气温再创历史新高",
+        "onboard_time": 1661071529,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158304,
+        "num": 158304,
+        "word": "南充疫情防控",
+        "onboard_time": 1661067026,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157579,
+        "num": 157579,
+        "word": "iG冠军3C互评",
+        "onboard_time": 1661066428,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154734,
+        "num": 154734,
+        "word": "水滴筹回应筹款中介抽成最高达70%",
+        "onboard_time": 1661055808,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146129,
+        "num": 146129,
+        "word": "四川最高用电负荷已至6500万千瓦",
+        "onboard_time": 1661054908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142873,
+        "num": 142873,
+        "word": "国家向重庆紧急调运抗旱物资",
+        "onboard_time": 1661073148,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217160,
+        "num": 142322,
+        "word": "谷江山",
+        "onboard_time": 1661054963,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208922,
+        "num": 141881,
+        "word": "街舞5队长火锅局剧照",
+        "onboard_time": 1661069786,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190753,
+        "num": 141605,
+        "word": "杨戬后遗症",
+        "onboard_time": 1661073271,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140919,
+        "num": 140919,
+        "word": "已婚女子装白富美网恋骗零花钱",
+        "onboard_time": 1661058386,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137378,
+        "num": 137378,
+        "word": "酒店回应顾客住宿被虱子咬伤溃烂",
+        "onboard_time": 1661060967,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124394,
+        "num": 124394,
+        "word": "重庆大足区山火燃烧一夜未灭",
+        "onboard_time": 1661061383,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123865,
+        "num": 123865,
+        "word": "高温包围圈终于要缩了",
+        "onboard_time": 1661072909,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115695,
+        "num": 115695,
+        "word": "彩云之南又现彩云",
+        "onboard_time": 1661064748,
+        "rank": 47,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 115081,
+        "num": 115081,
+        "word": "00后舰载机飞行学员首次对地攻击训练",
+        "onboard_time": 1661067566,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 114961,
+        "num": 114961,
+        "word": "特斯拉车主手背植入芯片变成车钥匙",
+        "onboard_time": 1661073448,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}
