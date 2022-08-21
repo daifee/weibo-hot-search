@@ -1,6 +1,6 @@
 {
   "startTime": 1660494510754,
-  "endTime": 1661092545061,
+  "endTime": 1661095282530,
   "band_list": [
     {
       "raw_hot": 11573709,
@@ -185,6 +185,14 @@
       "onboard_time": 1660699711,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3442537,
+      "num": 3442537,
+      "word": "重庆山火",
+      "onboard_time": 1661081731,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3382885,
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 1469178,
-      "num": 410006,
+      "num": 458248,
       "word": "主持人叫肖战小朋友",
       "onboard_time": 1661091333,
       "rank": 20,
@@ -2075,14 +2083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1244847,
-      "num": 1244847,
-      "word": "重庆山火",
-      "onboard_time": 1661081731,
-      "rank": 5,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1244727,
       "num": 581430,
       "word": "选秀男爱豆持刀威胁女友被判刑",
@@ -2129,6 +2129,14 @@
       "onboard_time": 1660610672,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1231516,
+      "num": 1231516,
+      "word": "王传君说王鹤棣是很稀缺的一类人",
+      "onboard_time": 1661093133,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1230659,
@@ -2931,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008636,
+      "num": 799666,
+      "word": "河南邓州后妈女儿殴打小婴儿",
+      "onboard_time": 1661093610,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1005801,
       "num": 1005801,
       "word": "1岁男童钥匙插充电桩脸被电黑",
@@ -3547,6 +3563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 869037,
+      "num": 869037,
+      "word": "TTG遗憾淘汰",
+      "onboard_time": 1661093911,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 867566,
       "num": 756606,
       "word": "肖战诛仙未公开造型设计图",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1660702711,
       "rank": 33,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 808918,
+      "num": 808918,
+      "word": "没有一个年轻人能买到土豆",
+      "onboard_time": 1661090732,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 808384,
@@ -4211,6 +4243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 745816,
+      "num": 745816,
+      "word": "高中语文没有一篇课文是充数的",
+      "onboard_time": 1661092173,
+      "rank": 38,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 745334,
       "num": 745334,
       "word": "今天解放军22架次军机6艘次军舰巡台",
@@ -4499,14 +4539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 702188,
-      "num": 702188,
-      "word": "没有一个年轻人能买到土豆",
-      "onboard_time": 1661090732,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 702091,
       "num": 514625,
       "word": "丁程鑫宋亚轩刘耀文戴猫耳",
@@ -4697,6 +4729,14 @@
       "onboard_time": 1660559372,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 684741,
+      "num": 684741,
+      "word": "苍兰诀制作人把口罩哭废了",
+      "onboard_time": 1661094393,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 680766,
@@ -5243,6 +5283,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 607511,
+      "num": 607511,
+      "word": "EDGM战胜TTG",
+      "onboard_time": 1661093853,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 606739,
       "num": 606739,
       "word": "水月洞天翻拍选角",
@@ -5481,6 +5529,14 @@
       "onboard_time": 1660628256,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586960,
+      "num": 586960,
+      "word": "四川泸州突发山火",
+      "onboard_time": 1661092953,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 586452,
@@ -6371,6 +6427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523492,
+      "num": 392569,
+      "word": "小兰花人设",
+      "onboard_time": 1661091931,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 522970,
       "num": 522970,
       "word": "鲨鱼小猫",
@@ -6449,6 +6513,14 @@
       "onboard_time": 1660729473,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 518601,
+      "num": 518601,
+      "word": "重庆巴南区界石发生山火",
+      "onboard_time": 1661091572,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 518199,
@@ -6561,6 +6633,14 @@
       "onboard_time": 1660798957,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514127,
+      "num": 193568,
+      "word": "神女爱世人",
+      "onboard_time": 1661094393,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 514028,
@@ -6763,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501729,
+      "num": 449681,
+      "word": "郑钧曾经把奖拿了个遍",
+      "onboard_time": 1661091812,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501715,
       "num": 501715,
       "word": "王一博红毯回眸",
@@ -6905,14 +6993,6 @@
       "onboard_time": 1660566691,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 493612,
-      "num": 493612,
-      "word": "重庆巴南区界石发生山火",
-      "onboard_time": 1661091572,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 492488,
@@ -7409,6 +7489,14 @@
       "onboard_time": 1660532908,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461619,
+      "num": 461619,
+      "word": "东海海域实弹演习",
+      "onboard_time": 1661093373,
+      "rank": 19,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 461464,
@@ -8179,6 +8267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 426057,
+      "num": 426057,
+      "word": "切尔西",
+      "onboard_time": 1661093610,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425889,
       "num": 425889,
       "word": "吴磊谈复仇戏拍摄心得",
@@ -8393,6 +8489,14 @@
       "onboard_time": 1661000250,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 413593,
+      "num": 366585,
+      "word": "今年让你真香的电视剧",
+      "onboard_time": 1661093911,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 412872,
@@ -8843,20 +8947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392569,
-      "num": 392569,
-      "word": "小兰花人设",
-      "onboard_time": 1661091931,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 392242,
       "num": 392242,
       "word": "男孩用第一桶金给消防员买了雪糕",
       "onboard_time": 1660907908,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 391908,
+      "num": 391908,
+      "word": "Roc C麻了",
+      "onboard_time": 1661093012,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 391841,
@@ -9387,6 +9491,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 373276,
+      "num": 373276,
+      "word": "TES",
+      "onboard_time": 1661091752,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373103,
       "num": 373103,
       "word": "严格禁止以罚款进行创收",
@@ -9577,6 +9689,14 @@
       "onboard_time": 1660803570,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366361,
+      "num": 366361,
+      "word": "钎城哭了",
+      "onboard_time": 1661094574,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 366231,
@@ -9931,6 +10051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356218,
+      "num": 367630,
+      "word": "人们为什么不爱买无印良品了",
+      "onboard_time": 1661093734,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 356040,
       "num": 356040,
       "word": "00后真的是职场小白吗",
@@ -10267,14 +10395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345185,
-      "num": 290764,
-      "word": "郑钧曾经把奖拿了个遍",
-      "onboard_time": 1661091812,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345133,
       "num": 298308,
       "word": "王大陆披荆斩棘的镜头除了笑还是笑",
@@ -10537,6 +10657,14 @@
       "onboard_time": 1660951340,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336963,
+      "num": 336963,
+      "word": "EDGM锁定第三轮及挑杯",
+      "onboard_time": 1661094631,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 336899,
@@ -12051,14 +12179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290521,
-      "num": 290521,
-      "word": "TES",
-      "onboard_time": 1661091752,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 290401,
       "num": 290401,
       "word": "七旬爷爷跑遍800个古村为老人拍照",
@@ -12307,6 +12427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284303,
+      "num": 284303,
+      "word": "二十不惑2网飞上线",
+      "onboard_time": 1661094933,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283133,
       "num": 283133,
       "word": "高温预报图被烫红了",
@@ -12508,7 +12636,7 @@
     },
     {
       "raw_hot": 277798,
-      "num": 253124,
+      "num": 255879,
       "word": "这就是街舞",
       "onboard_time": 1660541910,
       "rank": 40,
@@ -13619,6 +13747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243633,
+      "num": 243633,
+      "word": "真的很羡慕清醒的教育方式",
+      "onboard_time": 1661092591,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 243613,
       "num": 243613,
       "word": "超35℃高温覆盖了我国450万平方公里",
@@ -14243,12 +14379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225212,
-      "num": 225212,
-      "word": "高中语文没有一篇课文是充数的",
-      "onboard_time": 1661092173,
-      "rank": 38,
-      "category": "教育,幽默"
+      "raw_hot": 225270,
+      "num": 225270,
+      "word": "适合成年人用的闹钟",
+      "onboard_time": 1661092769,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 224846,
@@ -14633,6 +14769,14 @@
       "onboard_time": 1660646433,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 212418,
+      "num": 212418,
+      "word": "川渝人民要哭了",
+      "onboard_time": 1661095112,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212393,

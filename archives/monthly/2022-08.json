@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661092545061,
+  "endTime": 1661095282530,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1660471652,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3442537,
+      "num": 3442537,
+      "word": "重庆山火",
+      "onboard_time": 1661081731,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3438738,
@@ -5788,7 +5796,7 @@
     },
     {
       "raw_hot": 1469178,
-      "num": 410006,
+      "num": 458248,
       "word": "主持人叫肖战小朋友",
       "onboard_time": 1661091333,
       "rank": 20,
@@ -7419,14 +7427,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 1244847,
-      "num": 1244847,
-      "word": "重庆山火",
-      "onboard_time": 1661081731,
-      "rank": 5,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1244757,
       "num": 1244757,
       "word": "淘票票 断桥",
@@ -7513,6 +7513,14 @@
       "onboard_time": 1659537172,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1231516,
+      "num": 1231516,
+      "word": "王传君说王鹤棣是很稀缺的一类人",
+      "onboard_time": 1661093133,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1230659,
@@ -9803,6 +9811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008636,
+      "num": 799666,
+      "word": "河南邓州后妈女儿殴打小婴儿",
+      "onboard_time": 1661093610,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1007648,
       "num": 1007648,
       "word": "王嘉尔登Billboard中国首封",
@@ -11603,6 +11619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 869037,
+      "num": 869037,
+      "word": "TTG遗憾淘汰",
+      "onboard_time": 1661093911,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 867887,
       "num": 867887,
       "word": "上海一女子反送小哥奶茶",
@@ -12425,6 +12449,14 @@
       "onboard_time": 1660465409,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 808918,
+      "num": 808918,
+      "word": "没有一个年轻人能买到土豆",
+      "onboard_time": 1661090732,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 808694,
@@ -13523,6 +13555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745816,
+      "num": 745816,
+      "word": "高中语文没有一篇课文是充数的",
+      "onboard_time": 1661092173,
+      "rank": 38,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 745316,
       "num": 745316,
       "word": "安徽3年内就业率未达60%专业停招",
@@ -14515,14 +14555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 702188,
-      "num": 702188,
-      "word": "没有一个年轻人能买到土豆",
-      "onboard_time": 1661090732,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 702181,
       "num": 702181,
       "word": "唐周腹肌",
@@ -15025,6 +15057,14 @@
       "onboard_time": 1660408945,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 684741,
+      "num": 684741,
+      "word": "苍兰诀制作人把口罩哭废了",
+      "onboard_time": 1661094393,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 684568,
@@ -16867,6 +16907,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 607511,
+      "num": 607511,
+      "word": "EDGM战胜TTG",
+      "onboard_time": 1661093853,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 607499,
       "num": 607499,
       "word": "吴磊拍戏现场随时随地健身",
@@ -17489,6 +17537,14 @@
       "onboard_time": 1659431153,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586960,
+      "num": 586960,
+      "word": "四川泸州突发山火",
+      "onboard_time": 1661092953,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 586453,
@@ -19907,6 +19963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523492,
+      "num": 392569,
+      "word": "小兰花人设",
+      "onboard_time": 1660348405,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523302,
       "num": 523302,
       "word": "170多个国家和国际组织重申一个中国",
@@ -20123,6 +20187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518601,
+      "num": 518601,
+      "word": "重庆巴南区界石发生山火",
+      "onboard_time": 1661091572,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 518199,
       "num": 518199,
       "word": "苍兰诀又断更了",
@@ -20313,6 +20385,14 @@
       "onboard_time": 1659863669,
       "rank": 45,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 514127,
+      "num": 193568,
+      "word": "神女爱世人",
+      "onboard_time": 1661094393,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 514028,
@@ -20971,6 +21051,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 501729,
+      "num": 449681,
+      "word": "郑钧曾经把奖拿了个遍",
+      "onboard_time": 1661091812,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501715,
       "num": 501715,
       "word": "王一博红毯回眸",
@@ -21337,14 +21425,6 @@
       "onboard_time": 1659848551,
       "rank": 25,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 493612,
-      "num": 493612,
-      "word": "重庆巴南区界石发生山火",
-      "onboard_time": 1661091572,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 492721,
@@ -23017,6 +23097,14 @@
       "onboard_time": 1659767372,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461619,
+      "num": 461619,
+      "word": "东海海域实弹演习",
+      "onboard_time": 1661093373,
+      "rank": 19,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 461464,
@@ -25179,6 +25267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 426057,
+      "num": 426057,
+      "word": "切尔西",
+      "onboard_time": 1661093610,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425974,
       "num": 425974,
       "word": "意大利男子当街打死移民小贩",
@@ -26016,6 +26112,14 @@
       "word": "赵露思程少商",
       "onboard_time": 1660225599,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 413593,
+      "num": 366585,
+      "word": "今年让你真香的电视剧",
+      "onboard_time": 1661093911,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -27419,14 +27523,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 392569,
-      "num": 392569,
-      "word": "小兰花人设",
-      "onboard_time": 1660348405,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 392271,
       "num": 392271,
       "word": "IXFORM见面会饭拍",
@@ -27465,6 +27561,14 @@
       "onboard_time": 1659398920,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391908,
+      "num": 391908,
+      "word": "Roc C麻了",
+      "onboard_time": 1661093012,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 391841,
@@ -29059,6 +29163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 373276,
+      "num": 373276,
+      "word": "TES",
+      "onboard_time": 1659526366,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373203,
       "num": 1844766,
       "word": "眼妆卸不干净或导致干眼症",
@@ -29601,6 +29713,14 @@
       "onboard_time": 1660803570,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366361,
+      "num": 366361,
+      "word": "钎城哭了",
+      "onboard_time": 1661094574,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 366231,
@@ -30539,6 +30659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356218,
+      "num": 367630,
+      "word": "人们为什么不爱买无印良品了",
+      "onboard_time": 1661093734,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 356174,
       "num": 322980,
       "word": "宋亚轩看电影vlog",
@@ -31459,14 +31587,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 345185,
-      "num": 290764,
-      "word": "郑钧曾经把奖拿了个遍",
-      "onboard_time": 1661091812,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345133,
       "num": 298308,
       "word": "王大陆披荆斩棘的镜头除了笑还是笑",
@@ -32169,6 +32289,14 @@
       "onboard_time": 1660143577,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336963,
+      "num": 336963,
+      "word": "EDGM锁定第三轮及挑杯",
+      "onboard_time": 1661094631,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 336899,
@@ -36067,14 +36195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290521,
-      "num": 290521,
-      "word": "TES",
-      "onboard_time": 1659526366,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 290468,
       "num": 290468,
       "word": "京一假赛",
@@ -36529,6 +36649,14 @@
       "onboard_time": 1660965387,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284303,
+      "num": 284303,
+      "word": "二十不惑2网飞上线",
+      "onboard_time": 1661094933,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 284225,
@@ -39907,6 +40035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243633,
+      "num": 243633,
+      "word": "真的很羡慕清醒的教育方式",
+      "onboard_time": 1661092591,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 243613,
       "num": 243613,
       "word": "超35℃高温覆盖了我国450万平方公里",
@@ -41619,12 +41755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225212,
-      "num": 225212,
-      "word": "高中语文没有一篇课文是充数的",
-      "onboard_time": 1661092173,
-      "rank": 38,
-      "category": "教育,幽默"
+      "raw_hot": 225270,
+      "num": 225270,
+      "word": "适合成年人用的闹钟",
+      "onboard_time": 1661092769,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 225186,
@@ -42536,6 +42672,14 @@
       "word": "北京新增病例返京核酸采样后未外出",
       "onboard_time": 1659360217,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212418,
+      "num": 212418,
+      "word": "川渝人民要哭了",
+      "onboard_time": 1661095112,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
