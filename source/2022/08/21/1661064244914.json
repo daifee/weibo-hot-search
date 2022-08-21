@@ -1,0 +1,410 @@
+{
+  "runTime": 1661064244914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2681235,
+        "num": 2681235,
+        "word": "谷江山",
+        "onboard_time": 1661054963,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1882650,
+        "num": 1882650,
+        "word": "男子冒死从缅北逃回讲述惨痛遭遇",
+        "onboard_time": 1661057549,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323268,
+        "num": 1400051,
+        "word": "蚊子喜欢咬爱出汗的人",
+        "onboard_time": 1661053767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355026,
+        "num": 1355026,
+        "word": "爸爸趁4岁女儿熟睡外出宵夜",
+        "onboard_time": 1661046269,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205878,
+        "num": 1205878,
+        "word": "6岁儿童溺水身亡7岁玩伴成被告",
+        "onboard_time": 1661060786,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 818395,
+        "num": 818395,
+        "word": "虞书欣要求郭晓婷真掐自己",
+        "onboard_time": 1661056167,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 792490,
+        "num": 792490,
+        "word": "冰雨火还有啥不敢拍的吗",
+        "onboard_time": 1661062227,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689734,
+        "num": 689734,
+        "word": "爸爸带俩大学生女儿送儿子上浙大",
+        "onboard_time": 1661056589,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 581994,
+        "num": 581994,
+        "word": "已婚女子装白富美网恋骗零花钱",
+        "onboard_time": 1661058386,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 450825,
+        "num": 450825,
+        "word": "斗破苍穹小说十大名场面",
+        "onboard_time": 1661057669,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 664299,
+        "num": 450681,
+        "word": "王鹤棣Gwalla练了一百遍",
+        "onboard_time": 1661062826,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591638,
+        "num": 450647,
+        "word": "王一博的剧本上全是笔记",
+        "onboard_time": 1661059709,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483384,
+        "num": 450556,
+        "word": "姜小果一句没提周寻句句是周寻",
+        "onboard_time": 1661063608,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450260,
+        "num": 450260,
+        "word": "重庆大足区山火燃烧一夜未灭",
+        "onboard_time": 1661061383,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431286,
+        "num": 431286,
+        "word": "做上门女婿7年男子回应",
+        "onboard_time": 1661048489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379674,
+        "num": 379674,
+        "word": "四川启动突发事件能源供应保障一级应急响应",
+        "onboard_time": 1661049509,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371310,
+        "num": 371310,
+        "word": "酒店回应顾客住宿被虱子咬伤溃烂",
+        "onboard_time": 1661060967,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352993,
+        "num": 352993,
+        "word": "中国家长开始送孩子去泰国读书",
+        "onboard_time": 1661043807,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340561,
+        "num": 340561,
+        "word": "水滴筹回应筹款中介抽成最高达70%",
+        "onboard_time": 1661055808,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300761,
+        "num": 300761,
+        "word": "台湾同胞就是中国公民",
+        "onboard_time": 1661044949,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 440951,
+        "num": 300635,
+        "word": "鹿晗毛不易养宠交流现场",
+        "onboard_time": 1661058088,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346414,
+        "num": 297866,
+        "word": "巽风 毒唯",
+        "onboard_time": 1661055387,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290734,
+        "num": 290734,
+        "word": "四川最高用电负荷已至6500万千瓦",
+        "onboard_time": 1661054908,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288945,
+        "num": 288945,
+        "word": "宋亚轩王铮亮六年后再同框",
+        "onboard_time": 1661056708,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286537,
+        "num": 286537,
+        "word": "2022年女排亚洲杯",
+        "onboard_time": 1661064027,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266162,
+        "num": 266162,
+        "word": "中国女排横扫韩国女排",
+        "onboard_time": 1661063005,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265853,
+        "num": 265853,
+        "word": "见过最用心的喜糖清单",
+        "onboard_time": 1661060007,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265628,
+        "num": 265628,
+        "word": "劳荣枝最后陈述称想赎罪想回归社会",
+        "onboard_time": 1661042066,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253766,
+        "num": 253766,
+        "word": "真实的境外电诈窝点是什么样子",
+        "onboard_time": 1661061805,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252623,
+        "num": 252623,
+        "word": "安徽怀宁新增5例初筛阳性",
+        "onboard_time": 1661062467,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242793,
+        "num": 242793,
+        "word": "杨戬票房破亿",
+        "onboard_time": 1661058808,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237482,
+        "num": 237482,
+        "word": "林依轮差点把烧饼8块8卖了",
+        "onboard_time": 1661060728,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217197,
+        "num": 217197,
+        "word": "乐山大佛真身全部露出",
+        "onboard_time": 1661006432,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 212555,
+        "num": 212555,
+        "word": "刘诗诗恭喜吴彦姝奶奶获奖",
+        "onboard_time": 1661051967,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193633,
+        "num": 193633,
+        "word": "杜德伟年轻的时候有多帅",
+        "onboard_time": 1661052268,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171970,
+        "num": 171970,
+        "word": "下厨房崩了",
+        "onboard_time": 1661056708,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171888,
+        "num": 171888,
+        "word": "没想到爷爷变装后这么潮",
+        "onboard_time": 1661058088,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159528,
+        "num": 159528,
+        "word": "爸爸的军功章摞起来比4岁儿子还高",
+        "onboard_time": 1661049509,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159148,
+        "num": 159148,
+        "word": "新疆阿勒泰下雪了",
+        "onboard_time": 1661049207,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146800,
+        "num": 146800,
+        "word": "水上飞人不是所有人都能玩",
+        "onboard_time": 1661059346,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176824,
+        "num": 145953,
+        "word": "苍兰诀弹幕",
+        "onboard_time": 1661054849,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161049,
+        "num": 144851,
+        "word": "登录圆鱼洲PD爆料好真实",
+        "onboard_time": 1661058985,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143099,
+        "num": 143099,
+        "word": "当她说不想谈恋爱的时候",
+        "onboard_time": 1661063844,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142434,
+        "num": 142434,
+        "word": "科学揭示为何会一见钟情",
+        "onboard_time": 1661055565,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128177,
+        "num": 128177,
+        "word": "男子编故事逃单还骗老板40元",
+        "onboard_time": 1661056949,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124117,
+        "num": 124117,
+        "word": "重庆赶紧下场雨吧",
+        "onboard_time": 1661063366,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121490,
+        "num": 121490,
+        "word": "4个动作改善富贵包",
+        "onboard_time": 1661061509,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116397,
+        "num": 116397,
+        "word": "男子养来路不明鸟一家5口患鹦鹉热",
+        "onboard_time": 1661047472,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114287,
+        "num": 114287,
+        "word": "大妈横躺地铁座位吃馍垃圾扔地上",
+        "onboard_time": 1661051548,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244920,
+        "num": 114033,
+        "word": "中国女排vs韩国女排",
+        "onboard_time": 1661061027,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}

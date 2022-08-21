@@ -1,6 +1,6 @@
 {
   "startTime": 1661012917067,
-  "endTime": 1661063201166,
+  "endTime": 1661064244914,
   "band_list": [
     {
       "raw_hot": 3254572,
@@ -33,6 +33,14 @@
       "onboard_time": 1661039841,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2681235,
+      "num": 2681235,
+      "word": "谷江山",
+      "onboard_time": 1661054963,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2323506,
@@ -73,14 +81,6 @@
       "onboard_time": 1661006432,
       "rank": 4,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1761044,
-      "num": 1667777,
-      "word": "谷江山",
-      "onboard_time": 1661054963,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1670554,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1205878,
+      "num": 1205878,
+      "word": "6岁儿童溺水身亡7岁玩伴成被告",
+      "onboard_time": 1661060786,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1137437,
       "num": 904042,
       "word": "劳荣枝最后陈述称想赎罪想回归社会",
@@ -161,14 +169,6 @@
       "onboard_time": 1661056589,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1120218,
-      "num": 1120218,
-      "word": "6岁儿童溺水身亡7岁玩伴成被告",
-      "onboard_time": 1661060786,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1098622,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 792490,
+      "num": 792490,
+      "word": "冰雨火还有啥不敢拍的吗",
+      "onboard_time": 1661062227,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 777477,
       "num": 777477,
       "word": "刘诗诗恭喜吴彦姝奶奶获奖",
@@ -209,6 +217,14 @@
       "onboard_time": 1661058088,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 664299,
+      "num": 450681,
+      "word": "王鹤棣Gwalla练了一百遍",
+      "onboard_time": 1661062826,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 660361,
@@ -291,6 +307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 581994,
+      "num": 581994,
+      "word": "已婚女子装白富美网恋骗零花钱",
+      "onboard_time": 1661058386,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 575485,
       "num": 575485,
       "word": "水滴筹回应筹款中介抽成最高达70%",
@@ -315,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546337,
-      "num": 522713,
-      "word": "冰雨火还有啥不敢拍的吗",
-      "onboard_time": 1661062227,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 543514,
       "num": 543514,
       "word": "你有睡眠拖延吗",
@@ -345,14 +361,6 @@
       "onboard_time": 1661008953,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 529338,
-      "num": 529338,
-      "word": "已婚女子装白富美网恋骗零花钱",
-      "onboard_time": 1661058386,
-      "rank": 37,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 528839,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483384,
+      "num": 450556,
+      "word": "姜小果一句没提周寻句句是周寻",
+      "onboard_time": 1661063608,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482857,
       "num": 482857,
       "word": "女子耳钉塞被晒化求助消防员",
@@ -425,6 +441,14 @@
       "onboard_time": 1661024592,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 450260,
+      "num": 450260,
+      "word": "重庆大足区山火燃烧一夜未灭",
+      "onboard_time": 1661061383,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441119,
@@ -499,11 +523,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371823,
-      "num": 371823,
-      "word": "重庆大足区山火燃烧一夜未灭",
-      "onboard_time": 1661061383,
-      "rank": 17,
+      "raw_hot": 371310,
+      "num": 371310,
+      "word": "酒店回应顾客住宿被虱子咬伤溃烂",
+      "onboard_time": 1661060967,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -627,14 +651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 322369,
-      "num": 322369,
-      "word": "酒店回应顾客住宿被虱子咬伤溃烂",
-      "onboard_time": 1661060967,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319696,
       "num": 317475,
       "word": "沉香重华明天见",
@@ -691,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299509,
-      "num": 299509,
-      "word": "王鹤棣Gwalla练了一百遍",
-      "onboard_time": 1661062826,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 296436,
       "num": 296436,
       "word": "俄气宣布仅剩的一台涡轮机将停机检修",
@@ -729,6 +737,14 @@
       "onboard_time": 1661051725,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286537,
+      "num": 286537,
+      "word": "2022年女排亚洲杯",
+      "onboard_time": 1661064027,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 286417,
@@ -811,6 +827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266162,
+      "num": 266162,
+      "word": "中国女排横扫韩国女排",
+      "onboard_time": 1661063005,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265853,
+      "num": 265853,
+      "word": "见过最用心的喜糖清单",
+      "onboard_time": 1661060007,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264633,
       "num": 264633,
       "word": "中国女排vs韩国女排",
@@ -840,6 +872,22 @@
       "word": "多地商家立网红路牌涉违规被拆",
       "onboard_time": 1661046509,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253766,
+      "num": 253766,
+      "word": "真实的境外电诈窝点是什么样子",
+      "onboard_time": 1661061805,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252623,
+      "num": 252623,
+      "word": "安徽怀宁新增5例初筛阳性",
+      "onboard_time": 1661062467,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -971,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218560,
-      "num": 218560,
-      "word": "中国女排横扫韩国女排",
-      "onboard_time": 1661063005,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217706,
       "num": 217706,
       "word": "河南新增1例本土确诊11例无症状",
@@ -995,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216982,
-      "num": 216982,
-      "word": "见过最用心的喜糖清单",
-      "onboard_time": 1661060007,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209372,
       "num": 209372,
       "word": "三亚增370例确诊465例无症状",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1661049807,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205743,
-      "num": 205743,
-      "word": "真实的境外电诈窝点是什么样子",
-      "onboard_time": 1661061805,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205726,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1661050946,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 188267,
-      "num": 188267,
-      "word": "安徽怀宁新增5例初筛阳性",
-      "onboard_time": 1661062467,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186938,
@@ -1195,6 +1211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143099,
+      "num": 143099,
+      "word": "当她说不想谈恋爱的时候",
+      "onboard_time": 1661063844,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 140432,
       "num": 140432,
       "word": "朴志晟C位舞蹈力度",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1661003432,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 124117,
+      "word": "重庆赶紧下场雨吧",
+      "onboard_time": 1661063366,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119927,
