@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661200684679,
+  "endTime": 1661203153169,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108568,
+      "num": 55375,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108310,
       "num": 108310,
       "word": "男子改造公主房驾驶室带女儿跑车",
@@ -443,8 +451,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39199,
-      "num": 39199,
+      "raw_hot": 39561,
+      "num": 39561,
       "word": "英超双红会",
       "onboard_time": 1661196312,
       "rank": 20,
@@ -459,20 +467,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19355,
-      "num": 19355,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16539,
       "num": 1280302,
       "word": "2022夏天那些闪亮瞬间",
       "onboard_time": 1661158174,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 11749,
+      "num": 11749,
+      "word": "哈弗品牌新能源战略发布会",
+      "onboard_time": 1661201531,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 9662,
+      "num": 9662,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 9003,
