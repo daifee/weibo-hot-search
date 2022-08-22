@@ -1,0 +1,410 @@
+{
+  "runTime": 1661142237507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7368907,
+        "num": 7368907,
+        "word": "中秋节不调休",
+        "onboard_time": 1661127267,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3034750,
+        "num": 3034750,
+        "word": "不再聘请吴勇从事教材设计工作",
+        "onboard_time": 1661135429,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 14572,
+        "num": 2525009,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3324135,
+        "num": 2489847,
+        "word": "长期喝冰水的人后来都怎么样了",
+        "onboard_time": 1661135311,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 2311111,
+        "num": 2311111,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1661138971,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615425,
+        "num": 1615425,
+        "word": "100万元房贷30年少3.18万元",
+        "onboard_time": 1661137232,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1433443,
+        "num": 1433443,
+        "word": "新国标红绿灯取消读秒",
+        "onboard_time": 1661131408,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308824,
+        "num": 1308824,
+        "word": "警方通报上海中考泄题",
+        "onboard_time": 1661137291,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1239106,
+        "num": 1239106,
+        "word": "鹿晗好像疯狂给朋友安利的我",
+        "onboard_time": 1661138610,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1011524,
+        "num": 1011524,
+        "word": "新版红绿灯",
+        "onboard_time": 1661095713,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887522,
+        "num": 887522,
+        "word": "苍兰诀第28集封神",
+        "onboard_time": 1661134471,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 666720,
+        "num": 666720,
+        "word": "德塔文回应星汉灿烂苍兰诀数据问题",
+        "onboard_time": 1661141491,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631224,
+        "num": 631224,
+        "word": "杨洋微微一笑很倾城播出六周年",
+        "onboard_time": 1661129730,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630528,
+        "num": 630528,
+        "word": "病人接近脑死亡谁有权利放弃治疗",
+        "onboard_time": 1661137590,
+        "rank": 13,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 615276,
+        "num": 615276,
+        "word": "川渝人民要哭了",
+        "onboard_time": 1661095112,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517302,
+        "num": 517302,
+        "word": "太想去厦门吃席了",
+        "onboard_time": 1661140713,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 502929,
+        "num": 502929,
+        "word": "教育部通报教材插图问题调查结果",
+        "onboard_time": 1661134711,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 502499,
+        "num": 502499,
+        "word": "当代年轻人的审美趋势",
+        "onboard_time": 1661138371,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499683,
+        "num": 499683,
+        "word": "玲娜贝儿",
+        "onboard_time": 1661136452,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 454962,
+        "num": 454962,
+        "word": "夫妻化身保姆喂3只小燕子",
+        "onboard_time": 1661137471,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428270,
+        "num": 428270,
+        "word": "女子41度高温天玩漂流失温",
+        "onboard_time": 1661128590,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424748,
+        "num": 424748,
+        "word": "苍兰诀又要断更四天",
+        "onboard_time": 1661140413,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421366,
+        "num": 421366,
+        "word": "降息",
+        "onboard_time": 1661136329,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 406435,
+        "num": 406435,
+        "word": "网传时代少年团演唱会录播",
+        "onboard_time": 1661140713,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406173,
+        "num": 406173,
+        "word": "重庆洪崖洞暂停景观照明",
+        "onboard_time": 1661135970,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 531605,
+        "num": 403316,
+        "word": "杨超越为了赢狂吃21份早餐",
+        "onboard_time": 1661137710,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393074,
+        "num": 393074,
+        "word": "华为Mate50官宣发布时间",
+        "onboard_time": 1661132012,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 365589,
+        "num": 365589,
+        "word": "油价",
+        "onboard_time": 1661136030,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 360735,
+        "num": 360735,
+        "word": "25小时恋爱",
+        "onboard_time": 1661141913,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358647,
+        "num": 358647,
+        "word": "猫猫连续15天准点作案偷火腿肠",
+        "onboard_time": 1661140653,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 343629,
+        "num": 343629,
+        "word": "新版红绿灯设计者晒通行口诀",
+        "onboard_time": 1661135607,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333147,
+        "num": 333147,
+        "word": "人们为什么反感调休",
+        "onboard_time": 1661141071,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294206,
+        "num": 294206,
+        "word": "杨戬哭了",
+        "onboard_time": 1661140471,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284674,
+        "num": 284674,
+        "word": "桃花坞全员用坞学告别",
+        "onboard_time": 1661140413,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279758,
+        "num": 279758,
+        "word": "人教社小学数学教材插图重绘已完成",
+        "onboard_time": 1661135131,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274729,
+        "num": 274729,
+        "word": "上海事业单位",
+        "onboard_time": 1661140292,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274104,
+        "num": 274104,
+        "word": "人们为什么不爱买无印良品了",
+        "onboard_time": 1661093734,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261816,
+        "num": 261816,
+        "word": "王一博歌声里藏了多少温柔",
+        "onboard_time": 1661138430,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246726,
+        "num": 246726,
+        "word": "姐姐担心遇到人贩子抱弟弟大喊跑回家",
+        "onboard_time": 1661132848,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233372,
+        "num": 233372,
+        "word": "打压式教育有多窒息",
+        "onboard_time": 1661140951,
+        "rank": 39,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 224663,
+        "num": 224663,
+        "word": "人教版数学教材",
+        "onboard_time": 1661139391,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 221863,
+        "num": 221863,
+        "word": "阴阳师",
+        "onboard_time": 1661141613,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217699,
+        "num": 217699,
+        "word": "成年后还有纯粹的友情吗",
+        "onboard_time": 1661141313,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208899,
+        "num": 208899,
+        "word": "今年让你真香的电视剧",
+        "onboard_time": 1661093911,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202257,
+        "num": 202257,
+        "word": "7岁小女孩独自横渡钱塘江",
+        "onboard_time": 1661133506,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196596,
+        "num": 196596,
+        "word": "昆明一对夫妻刻意隐瞒行程被受案调查",
+        "onboard_time": 1661129011,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194750,
+        "num": 194750,
+        "word": "广西贺州一村庄500年古樟树被砍",
+        "onboard_time": 1661133751,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194334,
+        "num": 194334,
+        "word": "短腿猫打架能有多吃亏",
+        "onboard_time": 1661141553,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181909,
+        "num": 181909,
+        "word": "小妲己消失了",
+        "onboard_time": 1661142155,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180796,
+        "num": 180796,
+        "word": "未发现人教社人员与吴勇有利益输送",
+        "onboard_time": 1661141431,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}
