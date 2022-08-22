@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661196995293,
+  "endTime": 1661199738356,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -50228,7 +50228,7 @@
     },
     {
       "raw_hot": 83147,
-      "num": 67314,
+      "num": 67647,
       "word": "刘宪华和韩国女舞者合作POWER",
       "onboard_time": 1661192894,
       "rank": 27,
@@ -51347,6 +51347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 11329,
+      "num": 11329,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11283,
       "num": 11283,
       "word": "爱让狗狗无法呼吸",
@@ -51409,6 +51417,14 @@
       "onboard_time": 1660340172,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 9003,
+      "num": 9935,
+      "word": "EDG的卢娜",
+      "onboard_time": 1661199732,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 8697,
