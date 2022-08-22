@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661203153169,
+  "endTime": 1661204214383,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -2707,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135533,
+      "num": 135533,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134517,
       "num": 134517,
       "word": "Sunnee杨芸晴给33点了个赞",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1661092591,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 108568,
-      "num": 55375,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107319,
@@ -2913,6 +2913,14 @@
       "onboard_time": 1661201531,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 11268,
+      "num": 11268,
+      "word": "狗狗为抢出租车打起来了",
+      "onboard_time": 1661203931,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 9662,
