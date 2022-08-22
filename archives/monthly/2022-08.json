@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661193858228,
+  "endTime": 1661195881097,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -38508,7 +38508,7 @@
     },
     {
       "raw_hot": 280209,
-      "num": 107499,
+      "num": 156832,
       "word": "小兰花要死了",
       "onboard_time": 1661189836,
       "rank": 40,
@@ -50227,6 +50227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83147,
+      "num": 67314,
+      "word": "刘宪华和韩国女舞者合作POWER",
+      "onboard_time": 1661192894,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82022,
       "num": 82022,
       "word": "周洁琼宋灵灵",
@@ -50707,14 +50715,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 45757,
-      "num": 45757,
-      "word": "刘宪华和韩国女舞者合作POWER",
-      "onboard_time": 1661192894,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 45338,
       "num": 480116,
       "word": "共同致敬人民子弟兵",
@@ -51121,6 +51121,14 @@
       "onboard_time": 1661038882,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 22818,
+      "num": 22818,
+      "word": "可乐cp合体直播",
+      "onboard_time": 1661195114,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 21653,

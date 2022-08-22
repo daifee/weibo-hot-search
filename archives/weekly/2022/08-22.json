@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661193858228,
+  "endTime": 1661195881097,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 280209,
-      "num": 107499,
+      "num": 156832,
       "word": "小兰花要死了",
       "onboard_time": 1661189836,
       "rank": 40,
@@ -2827,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83147,
+      "num": 67314,
+      "word": "刘宪华和韩国女舞者合作POWER",
+      "onboard_time": 1661192894,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 79322,
       "num": 79322,
       "word": "浪姐3团综星星的约定大理录制路透",
@@ -2851,14 +2859,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 45757,
-      "num": 45757,
-      "word": "刘宪华和韩国女舞者合作POWER",
-      "onboard_time": 1661192894,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 45208,
       "num": 45208,
       "word": "林峯粤语新歌楼下有人",
@@ -2873,6 +2873,14 @@
       "onboard_time": 1661115012,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22818,
+      "num": 22818,
+      "word": "可乐cp合体直播",
+      "onboard_time": 1661195114,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 17625,
