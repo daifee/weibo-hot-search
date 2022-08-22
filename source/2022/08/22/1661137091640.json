@@ -1,0 +1,410 @@
+{
+  "runTime": 1661137091640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8198334,
+        "num": 8198334,
+        "word": "中秋节不调休",
+        "onboard_time": 1661127267,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2418465,
+        "num": 2418465,
+        "word": "长期喝冰水的人后来都怎么样了",
+        "onboard_time": 1661135311,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 16909,
+        "num": 2404947,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 5098918,
+        "num": 2404699,
+        "word": "新版红绿灯",
+        "onboard_time": 1661095713,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2404109,
+        "num": 2404109,
+        "word": "教育部通报教材插图问题调查结果",
+        "onboard_time": 1661134711,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1534672,
+        "num": 1534672,
+        "word": "不再聘请吴勇从事教材设计工作",
+        "onboard_time": 1661135429,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1297961,
+        "num": 1297961,
+        "word": "杨洋微微一笑很倾城播出六周年",
+        "onboard_time": 1661129730,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1141337,
+        "num": 1141337,
+        "word": "苍兰诀第28集封神",
+        "onboard_time": 1661134471,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 974299,
+        "num": 974299,
+        "word": "新国标红绿灯取消读秒",
+        "onboard_time": 1661131408,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833006,
+        "num": 833006,
+        "word": "华为Mate50官宣发布时间",
+        "onboard_time": 1661132012,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 775282,
+        "num": 775282,
+        "word": "女子41度高温天玩漂流失温",
+        "onboard_time": 1661128590,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678031,
+        "num": 678031,
+        "word": "人们为什么不爱买无印良品了",
+        "onboard_time": 1661093734,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 653800,
+        "num": 653800,
+        "word": "川渝人民要哭了",
+        "onboard_time": 1661095112,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539223,
+        "num": 539223,
+        "word": "姐姐担心遇到人贩子抱弟弟大喊跑回家",
+        "onboard_time": 1661132848,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64462,
+        "num": 487445,
+        "word": "67岁退伍军人患癌离世捐献眼角膜",
+        "onboard_time": 1661133627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461227,
+        "num": 461227,
+        "word": "徐志胜熬夜假发片都熬掉了",
+        "onboard_time": 1661130031,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432689,
+        "num": 432689,
+        "word": "重庆山火",
+        "onboard_time": 1661081731,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 419301,
+        "num": 419301,
+        "word": "刘雨昕送王一博香菜大礼包",
+        "onboard_time": 1661130152,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413848,
+        "num": 413848,
+        "word": "昆明一对夫妻刻意隐瞒行程被受案调查",
+        "onboard_time": 1661129011,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409739,
+        "num": 409739,
+        "word": "7岁小女孩独自横渡钱塘江",
+        "onboard_time": 1661133506,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385005,
+        "num": 385005,
+        "word": "今年让你真香的电视剧",
+        "onboard_time": 1661093911,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380059,
+        "num": 380059,
+        "word": "人教社小学数学教材插图重绘已完成",
+        "onboard_time": 1661135131,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 341529,
+        "num": 341529,
+        "word": "涉教材插图问题共27人被问责",
+        "onboard_time": 1661134711,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 323119,
+        "num": 323119,
+        "word": "新版红绿灯设计者晒通行口诀",
+        "onboard_time": 1661135607,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290560,
+        "num": 290560,
+        "word": "广西贺州一村庄500年古樟树被砍",
+        "onboard_time": 1661133751,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288202,
+        "num": 288202,
+        "word": "LPR",
+        "onboard_time": 1661130031,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281313,
+        "num": 281313,
+        "word": "女生回村花半年工资为奶奶修水泥路",
+        "onboard_time": 1661125586,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270954,
+        "num": 270954,
+        "word": "台风",
+        "onboard_time": 1661128948,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264765,
+        "num": 264765,
+        "word": "油价",
+        "onboard_time": 1661136030,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 262311,
+        "num": 262311,
+        "word": "降息",
+        "onboard_time": 1661136329,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261183,
+        "num": 261183,
+        "word": "西藏增55例确诊494例无症状",
+        "onboard_time": 1661132369,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254803,
+        "num": 254803,
+        "word": "高中语文没有一篇课文是充数的",
+        "onboard_time": 1661092173,
+        "rank": 31,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 253260,
+        "num": 253260,
+        "word": "没有一个年轻人能买到土豆",
+        "onboard_time": 1661090732,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251390,
+        "num": 251390,
+        "word": "四川新增本土确诊病例4例",
+        "onboard_time": 1661133930,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248945,
+        "num": 248945,
+        "word": "人教社发布新教材插图示例",
+        "onboard_time": 1661135429,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 247539,
+        "num": 247539,
+        "word": "印度番茄流感病例已超80例",
+        "onboard_time": 1661130572,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243972,
+        "num": 243972,
+        "word": "102岁外婆害羞说泡泡吹大了",
+        "onboard_time": 1661123540,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236344,
+        "num": 236344,
+        "word": "重庆洪崖洞暂停景观照明",
+        "onboard_time": 1661135970,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 235710,
+        "num": 235710,
+        "word": "广东本周将有台风登陆",
+        "onboard_time": 1661136568,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230206,
+        "num": 230206,
+        "word": "新能源汽车动力电池迎退役潮",
+        "onboard_time": 1661130990,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220361,
+        "num": 220361,
+        "word": "N1",
+        "onboard_time": 1661130811,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217540,
+        "num": 217540,
+        "word": "玲娜贝儿",
+        "onboard_time": 1661136452,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215123,
+        "num": 215123,
+        "word": "网传折腰主演暂定张晚意宋轶",
+        "onboard_time": 1661103617,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214639,
+        "num": 214639,
+        "word": "黄景瑜奇怪的个人技增加了",
+        "onboard_time": 1661134650,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212828,
+        "num": 212828,
+        "word": "重庆已组织1500余人扑救巴南山火",
+        "onboard_time": 1661127989,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210222,
+        "num": 210222,
+        "word": "高温包围圈肉眼可见要缩了",
+        "onboard_time": 1661133329,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209093,
+        "num": 209093,
+        "word": "苍兰诀",
+        "onboard_time": 1661088692,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298907,
+        "num": 208981,
+        "word": "8月21日新增本土确诊360例",
+        "onboard_time": 1661137049,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207723,
+        "num": 207723,
+        "word": "重庆高温把路都晒化了",
+        "onboard_time": 1661125283,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207279,
+        "num": 207279,
+        "word": "河北暴雨致多辆汽车被泡漂浮",
+        "onboard_time": 1661133991,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}
