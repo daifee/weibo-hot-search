@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661147618792,
+  "endTime": 1661149883247,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -17,6 +17,14 @@
       "onboard_time": 1661095713,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3552283,
+      "num": 508186,
+      "word": "韩佩泉",
+      "onboard_time": 1661148991,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3324135,
@@ -91,12 +99,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1744818,
-      "num": 1744818,
+      "raw_hot": 1797891,
+      "num": 1797891,
       "word": "新国标红绿灯取消读秒",
       "onboard_time": 1661131408,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1745932,
+      "num": 1218335,
+      "word": "吴磊赵露思婚服拍摄花絮",
+      "onboard_time": 1661146348,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1615425,
@@ -129,14 +145,6 @@
       "onboard_time": 1661128590,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1218335,
-      "num": 1218335,
-      "word": "吴磊赵露思婚服拍摄花絮",
-      "onboard_time": 1661146348,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1181532,
@@ -201,6 +209,14 @@
       "onboard_time": 1661132012,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 925111,
+      "num": 925111,
+      "word": "阿迪达斯为何败走中国",
+      "onboard_time": 1661147609,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 908911,
@@ -379,6 +395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520894,
+      "num": 520894,
+      "word": "老师我的暑假作业真的被偷了",
+      "onboard_time": 1661147310,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 509815,
+      "num": 509815,
+      "word": "BLACKPINK新专辑出单封了",
+      "onboard_time": 1661149710,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -483,6 +515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 417189,
+      "num": 417189,
+      "word": "大象高温下工作发狂用象牙刺死主人",
+      "onboard_time": 1661148570,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 416711,
       "num": 416711,
       "word": "重庆巴南山火当地紧急招募志愿者",
@@ -547,6 +587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 379677,
+      "num": 330470,
+      "word": "刘青松新发色",
+      "onboard_time": 1661148211,
+      "rank": 20,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 377910,
       "num": 377910,
       "word": "印度番茄流感病例已超80例",
@@ -579,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 361122,
+      "num": 361122,
+      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
+      "onboard_time": 1661146531,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 356977,
       "num": 356977,
       "word": "台风",
@@ -593,6 +649,14 @@
       "onboard_time": 1661135607,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343593,
+      "num": 329167,
+      "word": "王一博陈宇黑白剧照",
+      "onboard_time": 1661149710,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 341529,
@@ -739,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285428,
+      "num": 214326,
+      "word": "中本悠太日本福布斯封面",
+      "onboard_time": 1661149291,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284674,
       "num": 284674,
       "word": "桃花坞全员用坞学告别",
@@ -753,6 +825,14 @@
       "onboard_time": 1661091572,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 282745,
+      "num": 282745,
+      "word": "现在骑马都是自动挡了",
+      "onboard_time": 1661144610,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 279496,
@@ -875,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250349,
-      "num": 250349,
-      "word": "现在骑马都是自动挡了",
-      "onboard_time": 1661144610,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248945,
       "num": 248945,
       "word": "人教社发布新教材插图示例",
@@ -939,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228889,
+      "num": 228889,
+      "word": "三次救火的重庆娃儿是个大学生",
+      "onboard_time": 1661148152,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 225128,
       "num": 225128,
       "word": "未来三天成都最高气温可达44℃",
@@ -987,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213590,
-      "num": 213590,
-      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
-      "onboard_time": 1661146531,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 210695,
       "num": 210695,
       "word": "成都疫情防控",
@@ -1016,6 +1088,14 @@
       "word": "河北暴雨致多辆汽车被泡漂浮",
       "onboard_time": 1661133991,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204001,
+      "num": 204001,
+      "word": "熊猫真的有功夫在身上",
+      "onboard_time": 1661148269,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1057,14 +1137,6 @@
       "onboard_time": 1661093911,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193156,
-      "num": 193156,
-      "word": "老师我的暑假作业真的被偷了",
-      "onboard_time": 1661147310,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192747,
@@ -1203,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148438,
+      "num": 148438,
+      "word": "小米集团向3142人授予股权",
+      "onboard_time": 1661148991,
+      "rank": 44,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 147476,
       "num": 147476,
       "word": "EDGM战胜TTG",
@@ -1211,20 +1291,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143820,
+      "num": 143820,
+      "word": "研究称用小杯能减少饮酒量",
+      "onboard_time": 1661148090,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 143770,
       "num": 143770,
       "word": "宋茜说小团团好甜",
       "onboard_time": 1661095293,
       "rank": 42,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 143240,
-      "num": 143240,
-      "word": "阿迪达斯为何败走中国",
-      "onboard_time": 1661147609,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 141265,
@@ -1265,6 +1345,14 @@
       "onboard_time": 1661093610,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123303,
+      "num": 123303,
+      "word": "香飘飘半年赔上亿",
+      "onboard_time": 1661149591,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 117267,
