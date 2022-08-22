@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661207940571,
+  "endTime": 1661210521321,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -329,6 +329,14 @@
       "onboard_time": 1661134471,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1140553,
+      "num": 1140553,
+      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+      "onboard_time": 1661207476,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1129394,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 484641,
-      "num": 238538,
+      "num": 468440,
       "word": "滴滴高德曹操首汽等11家公司被约谈",
       "onboard_time": 1661183854,
       "rank": 25,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377661,
+      "num": 377661,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376757,
       "num": 305138,
       "word": "苍兰诀刀尖舔糖",
@@ -1499,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322910,
+      "num": 322910,
+      "word": "小兰花要死了",
+      "onboard_time": 1661189836,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316831,
       "num": 316831,
       "word": "原神",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1661175992,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280209,
-      "num": 217701,
-      "word": "小兰花要死了",
-      "onboard_time": 1661189836,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 279496,
@@ -2019,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243489,
+      "num": 243489,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
+    },
+    {
       "raw_hot": 242268,
       "num": 242268,
       "word": "新能源汽车动力电池迎退役潮",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1661148152,
       "rank": 28,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 239258,
+      "num": 239258,
+      "word": "刘宪华和韩国女舞者合作POWER",
+      "onboard_time": 1661192894,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 237817,
@@ -2179,14 +2211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218691,
-      "num": 218691,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218271,
       "num": 211110,
       "word": "叶蓁蓁陪朱喆深夜找骗钱在逃前男友",
@@ -2313,6 +2337,14 @@
       "onboard_time": 1661163870,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204615,
+      "num": 204615,
+      "word": "曼联2比1利物浦",
+      "onboard_time": 1661210302,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 204001,
@@ -2491,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183085,
+      "num": 183085,
+      "word": "处暑",
+      "onboard_time": 1661210367,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -2643,14 +2683,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 153507,
-      "num": 153507,
-      "word": "沙特阿拉伯批准微软收购暴雪",
-      "onboard_time": 1661203030,
-      "rank": 49,
-      "category": "科技,游戏"
-    },
-    {
       "raw_hot": 152055,
       "num": 152055,
       "word": "上海暂停外滩等地景观照明",
@@ -2683,6 +2715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146977,
+      "num": 146977,
+      "word": "北京各高校严格校门管理",
+      "onboard_time": 1661189179,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 144994,
       "num": 144994,
       "word": "卡塞米罗告别仪式",
@@ -2697,6 +2737,14 @@
       "onboard_time": 1661095293,
       "rank": 42,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 141629,
+      "num": 141629,
+      "word": "一个坏医生是否会带崩整个湘雅系",
+      "onboard_time": 1661210062,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141265,
@@ -2739,12 +2787,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 133637,
-      "num": 133637,
-      "word": "刘宪华和韩国女舞者合作POWER",
-      "onboard_time": 1661192894,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 133380,
+      "num": 133380,
+      "word": "如何判断自己是否处于疲劳状态",
+      "onboard_time": 1661209701,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131473,
@@ -2803,6 +2851,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 115163,
+      "num": 115163,
+      "word": "狗狗为抢出租车打起来了",
+      "onboard_time": 1661203931,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114898,
       "num": 114898,
       "word": "怎么让自己看起来不好惹",
@@ -2827,14 +2883,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 107319,
-      "num": 107319,
-      "word": "北京各高校严格校门管理",
-      "onboard_time": 1661189179,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
@@ -2851,6 +2899,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95558,
+      "num": 95558,
+      "word": "疫情结束后一起去秦皇岛吧",
+      "onboard_time": 1661208618,
+      "rank": 38,
+      "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 94250,
+      "num": 94250,
+      "word": "何悯鸿你为什么不听劝",
+      "onboard_time": 1661208676,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 93192,
+      "num": 93192,
+      "word": "恋爱里的松弛感有多重要",
+      "onboard_time": 1661206693,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80496,
+      "num": 80496,
+      "word": "王楠告别乒坛14周年",
+      "onboard_time": 1661205974,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79322,
       "num": 79322,
       "word": "浪姐3团综星星的约定大理录制路透",
@@ -2859,19 +2939,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78288,
+      "num": 78288,
+      "word": "苍兰诀片场的王鹤棣",
+      "onboard_time": 1661210121,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 64462,
       "num": 487445,
       "word": "67岁退伍军人患癌离世捐献眼角膜",
       "onboard_time": 1661133627,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59055,
-      "num": 59055,
-      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
-      "onboard_time": 1661207476,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2907,28 +2987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31329,
-      "num": 31329,
-      "word": "王楠告别乒坛14周年",
-      "onboard_time": 1661205974,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22818,
       "num": 22818,
       "word": "可乐cp合体直播",
       "onboard_time": 1661195114,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21404,
-      "num": 21404,
-      "word": "狗狗为抢出租车打起来了",
-      "onboard_time": 1661203931,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 17625,

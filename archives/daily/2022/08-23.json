@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661207940571,
+  "endTime": 1661210521321,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -24,6 +24,14 @@
       "word": "睡眠不足7小时的人胳膊大腿更粗",
       "onboard_time": 1661167709,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1140553,
+      "num": 1140553,
+      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+      "onboard_time": 1661207476,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 484641,
-      "num": 238538,
+      "num": 468440,
       "word": "滴滴高德曹操首汽等11家公司被约谈",
       "onboard_time": 1661183854,
       "rank": 25,
@@ -129,6 +137,14 @@
       "onboard_time": 1661178034,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377661,
+      "num": 377661,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372995,
@@ -179,8 +195,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 280209,
-      "num": 217701,
+      "raw_hot": 322910,
+      "num": 322910,
       "word": "小兰花要死了",
       "onboard_time": 1661189836,
       "rank": 40,
@@ -211,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243489,
+      "num": 243489,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 239258,
+      "num": 239258,
+      "word": "刘宪华和韩国女舞者合作POWER",
+      "onboard_time": 1661192894,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228714,
       "num": 228714,
       "word": "苍兰诀32集预告好虐",
@@ -219,20 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218691,
-      "num": 218691,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206238,
       "num": 189720,
       "word": "白漂亮消失了",
       "onboard_time": 1661174911,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204615,
+      "num": 204615,
+      "word": "曼联2比1利物浦",
+      "onboard_time": 1661210302,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 194795,
@@ -265,6 +297,14 @@
       "onboard_time": 1661183074,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183085,
+      "num": 183085,
+      "word": "处暑",
+      "onboard_time": 1661210367,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181033,
@@ -323,14 +363,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 153507,
-      "num": 153507,
-      "word": "沙特阿拉伯批准微软收购暴雪",
-      "onboard_time": 1661203030,
-      "rank": 49,
-      "category": "科技,游戏"
-    },
-    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -344,6 +376,22 @@
       "word": "麦趣尔被罚7315.1万",
       "onboard_time": 1661172151,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146977,
+      "num": 146977,
+      "word": "北京各高校严格校门管理",
+      "onboard_time": 1661189179,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 141629,
+      "num": 141629,
+      "word": "一个坏医生是否会带崩整个湘雅系",
+      "onboard_time": 1661210062,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -363,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133637,
-      "num": 133637,
-      "word": "刘宪华和韩国女舞者合作POWER",
-      "onboard_time": 1661192894,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 133380,
+      "num": 133380,
+      "word": "如何判断自己是否处于疲劳状态",
+      "onboard_time": 1661209701,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130241,
@@ -419,20 +467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108310,
-      "num": 108310,
+      "raw_hot": 115163,
+      "num": 115163,
+      "word": "狗狗为抢出租车打起来了",
+      "onboard_time": 1661203931,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111388,
+      "num": 111388,
       "word": "男子改造公主房驾驶室带女儿跑车",
       "onboard_time": 1661178454,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107319,
-      "num": 107319,
-      "word": "北京各高校严格校门管理",
-      "onboard_time": 1661189179,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 101405,
@@ -443,6 +491,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95558,
+      "num": 95558,
+      "word": "疫情结束后一起去秦皇岛吧",
+      "onboard_time": 1661208618,
+      "rank": 38,
+      "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 94250,
+      "num": 94250,
+      "word": "何悯鸿你为什么不听劝",
+      "onboard_time": 1661208676,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 93192,
+      "num": 93192,
+      "word": "恋爱里的松弛感有多重要",
+      "onboard_time": 1661206693,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90794,
       "num": 90794,
       "word": "鸡被偷走炖熟民警一锅端还给失主",
@@ -451,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59055,
-      "num": 59055,
-      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
-      "onboard_time": 1661207476,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 80496,
+      "num": 80496,
+      "word": "王楠告别乒坛14周年",
+      "onboard_time": 1661205974,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78288,
+      "num": 78288,
+      "word": "苍兰诀片场的王鹤棣",
+      "onboard_time": 1661210121,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 45208,
@@ -475,28 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31329,
-      "num": 31329,
-      "word": "王楠告别乒坛14周年",
-      "onboard_time": 1661205974,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22818,
       "num": 22818,
       "word": "可乐cp合体直播",
       "onboard_time": 1661195114,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21404,
-      "num": 21404,
-      "word": "狗狗为抢出租车打起来了",
-      "onboard_time": 1661203931,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 16539,
