@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/22 00:29:33 ~ 2022/08/23 03:18:01
+本榜单时间：2022/08/22 00:29:33 ~ 2022/08/23 03:36:35
 </p>
 </blockquote>
 <p>
@@ -2165,6 +2165,12 @@ KSG扳回一局（热度：107180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E6%80%95%E8%AE%A9%E7%88%B6%E6%AF%8D%E4%B8%A2%E8%84%B8%E5%90%97%23" target="weibo">
 你会怕让父母丢脸吗（热度：43827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A%23" target="weibo">
+英超双红会（热度：39199）
 </a>
 </li>
 
