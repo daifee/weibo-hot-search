@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661147087635,
+  "endTime": 1661147618792,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1891324,
+      "num": 679869,
+      "word": "抖音崩了",
+      "onboard_time": 1661144910,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1812763,
       "num": 1812763,
       "word": "杨洋微微一笑很倾城播出六周年",
       "onboard_time": 1661129730,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1773633,
-      "num": 679869,
-      "word": "抖音崩了",
-      "onboard_time": 1661144910,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 1744818,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218335,
+      "num": 1218335,
+      "word": "吴磊赵露思婚服拍摄花絮",
+      "onboard_time": 1661146348,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1181532,
       "num": 1181532,
       "word": "人们为什么不爱买无印良品了",
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1116021,
+      "num": 673677,
+      "word": "张凌赫经纪公司发声明",
+      "onboard_time": 1661145510,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104140,
       "num": 1104140,
       "word": "小妲己消失了",
@@ -161,14 +177,6 @@
       "onboard_time": 1661087311,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1023597,
-      "num": 673677,
-      "word": "张凌赫经纪公司发声明",
-      "onboard_time": 1661145510,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 998354,
@@ -211,6 +219,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 774809,
+      "num": 556203,
+      "word": "美容院拉踩鹿晗判赔近4万元",
+      "onboard_time": 1661147191,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 754178,
       "num": 754178,
       "word": "专家释疑京津冀现不明黑色昆虫",
@@ -225,14 +241,6 @@
       "onboard_time": 1661096192,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 714604,
-      "num": 714604,
-      "word": "吴磊赵露思婚服拍摄花絮",
-      "onboard_time": 1661146348,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 712285,
@@ -595,6 +603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 340609,
+      "num": 340609,
+      "word": "玉骨遥",
+      "onboard_time": 1661146468,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339787,
       "num": 339787,
       "word": "上海事业单位",
@@ -643,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302150,
+      "num": 302150,
+      "word": "把猪圈当做跨栏运动的猪",
+      "onboard_time": 1661145571,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298907,
       "num": 208981,
       "word": "8月21日新增本土确诊360例",
       "onboard_time": 1661137049,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295810,
-      "num": 295810,
-      "word": "玉骨遥",
-      "onboard_time": 1661146468,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 294206,
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290317,
-      "num": 290317,
-      "word": "把猪圈当做跨栏运动的猪",
-      "onboard_time": 1661145571,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 289621,
       "num": 289621,
       "word": "东海海域实弹演习",
@@ -721,6 +729,14 @@
       "onboard_time": 1661131890,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286119,
+      "num": 286119,
+      "word": "KCON李旻浩ending",
+      "onboard_time": 1661147431,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 284674,
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250349,
+      "num": 250349,
+      "word": "现在骑马都是自动挡了",
+      "onboard_time": 1661144610,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248945,
       "num": 248945,
       "word": "人教社发布新教材插图示例",
@@ -905,14 +929,6 @@
       "onboard_time": 1661136568,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233418,
-      "num": 233418,
-      "word": "现在骑马都是自动挡了",
-      "onboard_time": 1661144610,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 230742,
@@ -969,6 +985,14 @@
       "onboard_time": 1661134650,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213590,
+      "num": 213590,
+      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
+      "onboard_time": 1661146531,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 210695,
@@ -1035,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193156,
+      "num": 193156,
+      "word": "老师我的暑假作业真的被偷了",
+      "onboard_time": 1661147310,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 192747,
       "num": 192747,
       "word": "第一次见会铺床的兔子",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1661124201,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187690,
-      "num": 187690,
-      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
-      "onboard_time": 1661146531,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 182200,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1661095293,
       "rank": 42,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 143240,
+      "num": 143240,
+      "word": "阿迪达斯为何败走中国",
+      "onboard_time": 1661147609,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 141265,

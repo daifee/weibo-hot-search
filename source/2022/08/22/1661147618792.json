@@ -1,0 +1,410 @@
+{
+  "runTime": 1661147618792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1567947,
+        "num": 1567947,
+        "word": "中秋节不调休",
+        "onboard_time": 1661127267,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383070,
+        "num": 1383070,
+        "word": "新国标红绿灯取消读秒",
+        "onboard_time": 1661131408,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12356,
+        "num": 1229775,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2273204,
+        "num": 1228174,
+        "word": "长期喝冰水的人后来都怎么样了",
+        "onboard_time": 1661135311,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1218335,
+        "num": 1218335,
+        "word": "吴磊赵露思婚服拍摄花絮",
+        "onboard_time": 1661146348,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2130823,
+        "num": 1162718,
+        "word": "不再聘请吴勇从事教材设计工作",
+        "onboard_time": 1661135429,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1040028,
+        "num": 1040028,
+        "word": "小妲己消失了",
+        "onboard_time": 1661142155,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 993098,
+        "num": 993098,
+        "word": "待播古装剧存量",
+        "onboard_time": 1661144015,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 728542,
+        "num": 728542,
+        "word": "100万元房贷30年少3.18万元",
+        "onboard_time": 1661137232,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 561910,
+        "num": 561910,
+        "word": "德塔文回应星汉灿烂苍兰诀数据问题",
+        "onboard_time": 1661141491,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1891324,
+        "num": 561164,
+        "word": "抖音崩了",
+        "onboard_time": 1661144910,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1663516,
+        "num": 559993,
+        "word": "今年国庆休7天上7天",
+        "onboard_time": 1661138971,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116021,
+        "num": 557727,
+        "word": "张凌赫经纪公司发声明",
+        "onboard_time": 1661145510,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774809,
+        "num": 556203,
+        "word": "美容院拉踩鹿晗判赔近4万元",
+        "onboard_time": 1661147191,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579278,
+        "num": 554273,
+        "word": "川渝人民要哭了",
+        "onboard_time": 1661095112,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553621,
+        "num": 553621,
+        "word": "北京天堂超市酒吧被吊销执照",
+        "onboard_time": 1661142871,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 508814,
+        "num": 508814,
+        "word": "猫猫连续15天准点作案偷火腿肠",
+        "onboard_time": 1661140653,
+        "rank": 16,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 502282,
+        "num": 502282,
+        "word": "00后老板每月给员工发汉服基金",
+        "onboard_time": 1661143536,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450212,
+        "num": 450212,
+        "word": "继父日扛20吨饲料包救养女",
+        "onboard_time": 1661143114,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369033,
+        "num": 369033,
+        "word": "夫妻化身保姆喂3只小燕子",
+        "onboard_time": 1661137471,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366359,
+        "num": 366359,
+        "word": "苍兰诀第28集封神",
+        "onboard_time": 1661134471,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363742,
+        "num": 363742,
+        "word": "王者荣耀",
+        "onboard_time": 1661143774,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362407,
+        "num": 362407,
+        "word": "太想去厦门吃席了",
+        "onboard_time": 1661140713,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358131,
+        "num": 358131,
+        "word": "警方通报上海中考泄题",
+        "onboard_time": 1661137291,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 357543,
+        "num": 357543,
+        "word": "杨洋微微一笑很倾城播出六周年",
+        "onboard_time": 1661129730,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340609,
+        "num": 340609,
+        "word": "玉骨遥",
+        "onboard_time": 1661146468,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302150,
+        "num": 302150,
+        "word": "把猪圈当做跨栏运动的猪",
+        "onboard_time": 1661145571,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 667943,
+        "num": 298108,
+        "word": "人们为什么反感调休",
+        "onboard_time": 1661141071,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292512,
+        "num": 292512,
+        "word": "未定事件簿",
+        "onboard_time": 1661144253,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289084,
+        "num": 289084,
+        "word": "迪丽热巴VOGUEfilm电影感大片",
+        "onboard_time": 1661142935,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286119,
+        "num": 286119,
+        "word": "KCON李旻浩ending",
+        "onboard_time": 1661147431,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256407,
+        "num": 256407,
+        "word": "苍兰诀又要断更四天",
+        "onboard_time": 1661140413,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250349,
+        "num": 250349,
+        "word": "现在骑马都是自动挡了",
+        "onboard_time": 1661144610,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236548,
+        "num": 236548,
+        "word": "华为Mate50官宣发布时间",
+        "onboard_time": 1661132012,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234904,
+        "num": 234904,
+        "word": "病人接近脑死亡谁有权利放弃治疗",
+        "onboard_time": 1661137590,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 234465,
+        "num": 234465,
+        "word": "网传时代少年团演唱会录播",
+        "onboard_time": 1661140713,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222264,
+        "num": 222264,
+        "word": "上海事业单位",
+        "onboard_time": 1661140292,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221579,
+        "num": 221579,
+        "word": "女子41度高温天玩漂流失温",
+        "onboard_time": 1661128590,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213590,
+        "num": 213590,
+        "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
+        "onboard_time": 1661146531,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 210503,
+        "num": 210503,
+        "word": "25小时恋爱",
+        "onboard_time": 1661141913,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205436,
+        "num": 205436,
+        "word": "新版红绿灯",
+        "onboard_time": 1661095713,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204526,
+        "num": 204526,
+        "word": "成年后还有纯粹的友情吗",
+        "onboard_time": 1661141313,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198351,
+        "num": 198351,
+        "word": "卜冠今画的周寻和齐颂",
+        "onboard_time": 1661145451,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196892,
+        "num": 196892,
+        "word": "新版红绿灯设计者晒通行口诀",
+        "onboard_time": 1661135607,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193156,
+        "num": 193156,
+        "word": "老师我的暑假作业真的被偷了",
+        "onboard_time": 1661147310,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 174388,
+        "num": 174388,
+        "word": "林柏叡说觞阙脑子都用来谈恋爱了",
+        "onboard_time": 1661144972,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167140,
+        "num": 167140,
+        "word": "当代年轻人的审美趋势",
+        "onboard_time": 1661138371,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147689,
+        "num": 147689,
+        "word": "昆明一对夫妻刻意隐瞒行程被受案调查",
+        "onboard_time": 1661129011,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143240,
+        "num": 143240,
+        "word": "阿迪达斯为何败走中国",
+        "onboard_time": 1661147609,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141623,
+        "num": 141623,
+        "word": "短腿猫打架能有多吃亏",
+        "onboard_time": 1661141553,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}
