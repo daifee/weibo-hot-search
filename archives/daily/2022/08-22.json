@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661163908985,
+  "endTime": 1661164961579,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -171,20 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1550492,
+      "num": 1550492,
+      "word": "女子换肾34年打工赚药钱置房产",
+      "onboard_time": 1661160272,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1434430,
       "num": 1434430,
       "word": "IVE回归",
       "onboard_time": 1661160212,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1393065,
-      "num": 1393065,
-      "word": "女子换肾34年打工赚药钱置房产",
-      "onboard_time": 1661160272,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1308824,
@@ -371,6 +371,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 798247,
+      "num": 798247,
+      "word": "一个班31名同学考上了浙大",
+      "onboard_time": 1661160691,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 779848,
       "num": 779848,
       "word": "吴磊凌不疑定妆照",
@@ -385,6 +393,14 @@
       "onboard_time": 1661147191,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 771590,
+      "num": 771590,
+      "word": "共享充电宝涨至4元每小时",
+      "onboard_time": 1661162072,
+      "rank": 11,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 770216,
@@ -523,14 +539,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 565896,
-      "num": 565896,
-      "word": "一个班31名同学考上了浙大",
-      "onboard_time": 1661160691,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 562701,
       "num": 562701,
       "word": "徐志胜熬夜假发片都熬掉了",
@@ -569,14 +577,6 @@
       "onboard_time": 1661097150,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541397,
-      "num": 541397,
-      "word": "共享充电宝涨至4元每小时",
-      "onboard_time": 1661162072,
-      "rank": 11,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 539223,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397125,
+      "num": 397125,
+      "word": "川渝好像有高温结界",
+      "onboard_time": 1661162432,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395898,
       "num": 395898,
       "word": "张朝阳称睡四个小时完美",
@@ -939,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359441,
+      "num": 359441,
+      "word": "浙江龙游6名落水人员已不幸遇难",
+      "onboard_time": 1661163032,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 356977,
       "num": 356977,
       "word": "台风",
@@ -1031,14 +1047,6 @@
       "num": 327011,
       "word": "重庆已组织1500余人扑救巴南山火",
       "onboard_time": 1661127989,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325682,
-      "num": 325682,
-      "word": "川渝好像有高温结界",
-      "onboard_time": 1661162432,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -1187,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281051,
+      "num": 281051,
+      "word": "猫咪因主人出事后更加粘人",
+      "onboard_time": 1661163692,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279496,
       "num": 279496,
       "word": "Doinb",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1661127989,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265779,
+      "num": 246524,
+      "word": "JonyJ2022南京演唱会官宣了",
+      "onboard_time": 1661162612,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 265592,
@@ -1363,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255875,
+      "num": 143208,
+      "word": "毛雪汪重新定义毛血旺",
+      "onboard_time": 1661164951,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254858,
       "num": 254858,
       "word": "四川的葡萄也有烦恼吧",
@@ -1419,11 +1451,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246524,
-      "num": 246524,
-      "word": "JonyJ2022南京演唱会官宣了",
-      "onboard_time": 1661162612,
-      "rank": 33,
+      "raw_hot": 246251,
+      "num": 240364,
+      "word": "满堂音乐节阵容官宣",
+      "onboard_time": 1661164473,
+      "rank": 32,
       "category": "音乐"
     },
     {
@@ -1441,6 +1473,14 @@
       "onboard_time": 1661130990,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240162,
+      "num": 240162,
+      "word": "北京磨砂云",
+      "onboard_time": 1661163331,
+      "rank": 43,
+      "category": "自然"
     },
     {
       "raw_hot": 239734,
@@ -1569,14 +1609,6 @@
       "onboard_time": 1661157394,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211019,
-      "num": 211019,
-      "word": "浙江龙游6名落水人员已不幸遇难",
-      "onboard_time": 1661163032,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 210695,
@@ -1755,20 +1787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182192,
-      "num": 182192,
-      "word": "北京磨砂云",
-      "onboard_time": 1661163331,
-      "rank": 43,
-      "category": "自然"
-    },
-    {
       "raw_hot": 180796,
       "num": 180796,
       "word": "未发现人教社人员与吴勇有利益输送",
       "onboard_time": 1661141431,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180170,
+      "num": 180170,
+      "word": "你会在意现任心里装着前任吗",
+      "onboard_time": 1661163870,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 179511,
@@ -1825,14 +1857,6 @@
       "onboard_time": 1661082209,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165567,
-      "num": 165567,
-      "word": "猫咪因主人出事后更加粘人",
-      "onboard_time": 1661163692,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 159736,
@@ -1907,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144994,
+      "num": 144994,
+      "word": "卡塞米罗告别仪式",
+      "onboard_time": 1661164711,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143770,
       "num": 143770,
       "word": "宋茜说小团团好甜",
@@ -1915,20 +1947,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 143228,
-      "num": 143228,
-      "word": "你会在意现任心里装着前任吗",
-      "onboard_time": 1661163870,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141265,
       "num": 141265,
       "word": "这瘦腿操是来报仇的吧",
       "onboard_time": 1661091032,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141220,
+      "num": 141220,
+      "word": "好一个创意无价",
+      "onboard_time": 1661164829,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136451,
@@ -1956,7 +1988,7 @@
     },
     {
       "raw_hot": 130513,
-      "num": 2141351,
+      "num": 2332024,
       "word": "2022夏天那些闪亮瞬间",
       "onboard_time": 1661158174,
       "rank": 2,
