@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661160099844,
+  "endTime": 1661161123115,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -107,6 +107,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1990339,
+      "num": 1990339,
+      "word": "张朝阳建议大家少睡觉",
+      "onboard_time": 1661158411,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1891324,
       "num": 836619,
       "word": "抖音崩了",
@@ -161,6 +169,14 @@
       "onboard_time": 1661153251,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1434430,
+      "num": 1434430,
+      "word": "IVE回归",
+      "onboard_time": 1661160212,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1308824,
@@ -291,6 +307,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1014676,
+      "num": 1014676,
+      "word": "海南2030年全面禁止销售燃油汽车",
+      "onboard_time": 1661152470,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998354,
       "num": 998354,
       "word": "待播古装剧存量",
@@ -329,22 +353,6 @@
       "onboard_time": 1661096130,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 886487,
-      "num": 886487,
-      "word": "张朝阳建议大家少睡觉",
-      "onboard_time": 1661158411,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 879987,
-      "num": 879987,
-      "word": "海南2030年全面禁止销售燃油汽车",
-      "onboard_time": 1661152470,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 845524,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515432,
+      "num": 515432,
+      "word": "王一博陈晓冰雨火没有吻戏",
+      "onboard_time": 1661160872,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -675,8 +691,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 436135,
-      "num": 436135,
+      "raw_hot": 443358,
+      "num": 443358,
       "word": "孩子要气球大人扯走整个店家拱门",
       "onboard_time": 1661155534,
       "rank": 28,
@@ -689,6 +705,14 @@
       "onboard_time": 1661140413,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426844,
+      "num": 426844,
+      "word": "男子趁核酸采样员小憩偷走扫码手机",
+      "onboard_time": 1661156793,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421366,
@@ -704,14 +728,6 @@
       "word": "重庆巴南山火当地紧急招募志愿者",
       "onboard_time": 1661099425,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411716,
-      "num": 411716,
-      "word": "男子趁核酸采样员小憩偷走扫码手机",
-      "onboard_time": 1661156793,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -739,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 406217,
+      "num": 389536,
+      "word": "吴磊凌不疑定妆照",
+      "onboard_time": 1661160633,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406173,
       "num": 406173,
       "word": "重庆洪崖洞暂停景观照明",
@@ -760,6 +784,22 @@
       "word": "102岁外婆害羞说泡泡吹大了",
       "onboard_time": 1661123540,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400530,
+      "num": 347689,
+      "word": "清川元梦去世",
+      "onboard_time": 1661159614,
+      "rank": 30,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 395898,
+      "num": 395898,
+      "word": "张朝阳称睡四个小时完美",
+      "onboard_time": 1661158536,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -791,6 +831,14 @@
       "num": 382515,
       "word": "母亲机场狂奔接2年未见的女儿",
       "onboard_time": 1661152831,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381423,
+      "num": 381423,
+      "word": "8岁男童因父母过度训斥致抽动症",
+      "onboard_time": 1661157152,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -875,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344535,
-      "num": 344535,
-      "word": "8岁男童因父母过度训斥致抽动症",
-      "onboard_time": 1661157152,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343593,
       "num": 329167,
       "word": "王一博陈宇黑白剧照",
@@ -891,28 +931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342142,
-      "num": 342142,
-      "word": "张朝阳称睡四个小时完美",
-      "onboard_time": 1661158536,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341529,
       "num": 341529,
       "word": "涉教材插图问题共27人被问责",
       "onboard_time": 1661134711,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 340901,
-      "num": 264337,
-      "word": "清川元梦去世",
-      "onboard_time": 1661159614,
-      "rank": 30,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 340609,
@@ -945,6 +969,14 @@
       "onboard_time": 1661091333,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330129,
+      "num": 330129,
+      "word": "迪士尼回应游客录拍创极速光轮",
+      "onboard_time": 1661156313,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329701,
@@ -987,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306938,
-      "num": 306938,
-      "word": "迪士尼回应游客录拍创极速光轮",
-      "onboard_time": 1661156313,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 307842,
+      "num": 267822,
+      "word": "ive新单曲afterlike",
+      "onboard_time": 1661160393,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 302150,
@@ -1139,20 +1171,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 275051,
+      "num": 275051,
+      "word": "这是考的科目五吗",
+      "onboard_time": 1661155830,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274860,
       "num": 274860,
       "word": "多地回应未收到更换新国标红绿灯通知",
       "onboard_time": 1661150012,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274461,
-      "num": 274461,
-      "word": "这是考的科目五吗",
-      "onboard_time": 1661155830,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 273700,
@@ -1331,11 +1363,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245614,
+      "num": 211945,
+      "word": "杨紫成毅战损对视剧照",
+      "onboard_time": 1661160452,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242268,
       "num": 242268,
       "word": "新能源汽车动力电池迎退役潮",
       "onboard_time": 1661130990,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241748,
+      "num": 241748,
+      "word": "女子遇电诈脱身及时倒赚8000元",
+      "onboard_time": 1661159551,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1409,6 +1457,14 @@
       "onboard_time": 1661139391,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 222949,
+      "num": 222949,
+      "word": "女子换肾34年打工赚药钱置房产",
+      "onboard_time": 1661160272,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221863,
@@ -1603,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185043,
+      "num": 185043,
+      "word": "2号线杨家坪动物园站暂停服务",
+      "onboard_time": 1661160452,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -1675,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167061,
+      "num": 167061,
+      "word": "一个班31名同学考上了浙大",
+      "onboard_time": 1661160691,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "上海未启用网传新版红绿灯",
@@ -1703,14 +1775,6 @@
       "num": 157378,
       "word": "快速大量喝冰水或导致急性心衰",
       "onboard_time": 1661152291,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152079,
-      "num": 152079,
-      "word": "女子遇电诈脱身及时倒赚8000元",
-      "onboard_time": 1661159551,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -1787,6 +1851,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 130513,
+      "num": 1610632,
+      "word": "2022夏天那些闪亮瞬间",
+      "onboard_time": 1661158174,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 130291,
       "num": 130291,
       "word": "切尔西",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1661153610,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 123676,
-      "num": 1095435,
-      "word": "2022夏天那些闪亮瞬间",
-      "onboard_time": 1661158174,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 117267,
