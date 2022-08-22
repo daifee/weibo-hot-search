@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661204214383,
+  "endTime": 1661206963066,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 280209,
-      "num": 156832,
+      "num": 202534,
       "word": "小兰花要死了",
       "onboard_time": 1661189836,
       "rank": 40,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178041,
+      "num": 178041,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "一诺公孙离三杀",
@@ -328,14 +336,6 @@
       "word": "麦趣尔被罚7315.1万",
       "onboard_time": 1661172151,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135533,
-      "num": 135533,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -419,6 +419,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 107186,
+      "num": 107186,
+      "word": "刘宪华和韩国女舞者合作POWER",
+      "onboard_time": 1661192894,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 101405,
       "num": 101405,
       "word": "ive空降",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83147,
-      "num": 78632,
-      "word": "刘宪华和韩国女舞者合作POWER",
-      "onboard_time": 1661192894,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 74579,
+      "num": 74579,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 45208,
@@ -467,6 +475,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21404,
+      "num": 21404,
+      "word": "狗狗为抢出租车打起来了",
+      "onboard_time": 1661203931,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20098,
+      "num": 20098,
+      "word": "王楠告别乒坛14周年",
+      "onboard_time": 1661205974,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16539,
       "num": 1280302,
       "word": "2022夏天那些闪亮瞬间",
@@ -481,22 +505,6 @@
       "onboard_time": 1661201531,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 11268,
-      "num": 11268,
-      "word": "狗狗为抢出租车打起来了",
-      "onboard_time": 1661203931,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 9662,
-      "num": 9662,
-      "word": "沙特阿拉伯批准微软收购暴雪",
-      "onboard_time": 1661203030,
-      "rank": 49,
-      "category": "科技,游戏"
     },
     {
       "raw_hot": 9003,

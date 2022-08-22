@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661204214383,
+  "endTime": 1661206963066,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 280209,
-      "num": 156832,
+      "num": 202534,
       "word": "小兰花要死了",
       "onboard_time": 1661189836,
       "rank": 40,
@@ -2515,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178041,
+      "num": 178041,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175849,
       "num": 175849,
       "word": "微博拟上线个人主页展示评论功能",
@@ -2707,14 +2715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135533,
-      "num": 135533,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134517,
       "num": 134517,
       "word": "Sunnee杨芸晴给33点了个赞",
@@ -2819,6 +2819,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 107186,
+      "num": 107186,
+      "word": "刘宪华和韩国女舞者合作POWER",
+      "onboard_time": 1661192894,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
@@ -2835,20 +2843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83147,
-      "num": 78632,
-      "word": "刘宪华和韩国女舞者合作POWER",
-      "onboard_time": 1661192894,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 79322,
       "num": 79322,
       "word": "浪姐3团综星星的约定大理录制路透",
       "onboard_time": 1661080529,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 74579,
+      "num": 74579,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 64462,
@@ -2899,6 +2907,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21404,
+      "num": 21404,
+      "word": "狗狗为抢出租车打起来了",
+      "onboard_time": 1661203931,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20098,
+      "num": 20098,
+      "word": "王楠告别乒坛14周年",
+      "onboard_time": 1661205974,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17625,
       "num": 2525009,
       "word": "重温方志敏可爱的中国",
@@ -2913,22 +2937,6 @@
       "onboard_time": 1661201531,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 11268,
-      "num": 11268,
-      "word": "狗狗为抢出租车打起来了",
-      "onboard_time": 1661203931,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 9662,
-      "num": 9662,
-      "word": "沙特阿拉伯批准微软收购暴雪",
-      "onboard_time": 1661203030,
-      "rank": 49,
-      "category": "科技,游戏"
     },
     {
       "raw_hot": 9003,
