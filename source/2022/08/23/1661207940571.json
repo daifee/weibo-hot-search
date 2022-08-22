@@ -1,0 +1,410 @@
+{
+  "runTime": 1661207940571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212718,
+        "num": 1212718,
+        "word": "林志颖被曝现状不好",
+        "onboard_time": 1661179297,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534281,
+        "num": 534281,
+        "word": "睡眠不足7小时的人胳膊大腿更粗",
+        "onboard_time": 1661167709,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8276,
+        "num": 411881,
+        "word": "2022夏天那些闪亮瞬间",
+        "onboard_time": 1661158174,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 388066,
+        "num": 388066,
+        "word": "女孩江苏买房每天坐高铁去上海上班",
+        "onboard_time": 1661174852,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331011,
+        "num": 331011,
+        "word": "被狗狗离家去世前的监控整破防了",
+        "onboard_time": 1661183673,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304860,
+        "num": 304860,
+        "word": "张朝阳建议大家少睡觉",
+        "onboard_time": 1661158411,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239928,
+        "num": 239928,
+        "word": "不存在2022年红绿灯新国标",
+        "onboard_time": 1661180199,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238538,
+        "num": 238538,
+        "word": "滴滴高德曹操首汽等11家公司被约谈",
+        "onboard_time": 1661183854,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218691,
+        "num": 218691,
+        "word": "女孩吹空调加重鼻炎频繁流鼻血",
+        "onboard_time": 1661199251,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217701,
+        "num": 217701,
+        "word": "小兰花要死了",
+        "onboard_time": 1661189836,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166510,
+        "num": 166510,
+        "word": "男子偷价值10万自行车100元卖掉",
+        "onboard_time": 1661179473,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153507,
+        "num": 153507,
+        "word": "沙特阿拉伯批准微软收购暴雪",
+        "onboard_time": 1661203030,
+        "rank": 11,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 138999,
+        "num": 138999,
+        "word": "邓州警方回应小女孩连续击打婴儿",
+        "onboard_time": 1661175570,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133637,
+        "num": 133637,
+        "word": "刘宪华和韩国女舞者合作POWER",
+        "onboard_time": 1661192894,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116781,
+        "num": 116781,
+        "word": "东北盒饭真是过分实在了",
+        "onboard_time": 1661178034,
+        "rank": 14,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 111082,
+        "num": 111082,
+        "word": "欠钱的朋友把小狗送我了",
+        "onboard_time": 1661182717,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107173,
+        "num": 107173,
+        "word": "本座从未爱过你",
+        "onboard_time": 1661179357,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100389,
+        "num": 100389,
+        "word": "鹿晗的狗是邓超送的",
+        "onboard_time": 1661176052,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94997,
+        "num": 94997,
+        "word": "俄方称谋杀杜金娜凶手是乌克兰人",
+        "onboard_time": 1661173829,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 93634,
+        "num": 93634,
+        "word": "吴露可逃",
+        "onboard_time": 1661183912,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91076,
+        "num": 91076,
+        "word": "男生把洗面奶当牙膏用2个月",
+        "onboard_time": 1661172632,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90368,
+        "num": 90368,
+        "word": "如果蔡某抄对了题",
+        "onboard_time": 1661183196,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 85098,
+        "num": 85098,
+        "word": "北京各高校严格校门管理",
+        "onboard_time": 1661189179,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 72299,
+        "num": 72299,
+        "word": "大理一景点被喷涂鸦游客谴责遭威胁",
+        "onboard_time": 1661177015,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 69463,
+        "num": 69463,
+        "word": "贾浅浅",
+        "onboard_time": 1661174911,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67027,
+        "num": 67027,
+        "word": "男子开斗气车致1死3伤获刑10年4个月",
+        "onboard_time": 1661167950,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 63707,
+        "num": 63707,
+        "word": "赵露思说和吴磊都是搞笑人",
+        "onboard_time": 1661178034,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63543,
+        "num": 63543,
+        "word": "白漂亮消失了",
+        "onboard_time": 1661174911,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59055,
+        "num": 59055,
+        "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+        "onboard_time": 1661207476,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58599,
+        "num": 58599,
+        "word": "余生请多指教获得腾讯业务突破奖",
+        "onboard_time": 1661171730,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54282,
+        "num": 54282,
+        "word": "奉节山火",
+        "onboard_time": 1661182361,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52744,
+        "num": 52744,
+        "word": "男子改造公主房驾驶室带女儿跑车",
+        "onboard_time": 1661178454,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52647,
+        "num": 52647,
+        "word": "女子换肾34年打工赚药钱置房产",
+        "onboard_time": 1661160272,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49535,
+        "num": 49535,
+        "word": "麦趣尔被罚7315.1万",
+        "onboard_time": 1661172151,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49270,
+        "num": 49270,
+        "word": "漫威总部空降上海",
+        "onboard_time": 1661180917,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 47868,
+        "num": 47868,
+        "word": "王一博陈宇叉腰",
+        "onboard_time": 1661178214,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45159,
+        "num": 45159,
+        "word": "看给月主吓的",
+        "onboard_time": 1661179114,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40322,
+        "num": 40322,
+        "word": "AG遗憾淘汰",
+        "onboard_time": 1661181819,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37103,
+        "num": 37103,
+        "word": "嫁给会做饭的男人是种什么体验",
+        "onboard_time": 1661179717,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35823,
+        "num": 35823,
+        "word": "成毅沉香重华新娘妆",
+        "onboard_time": 1661165371,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35328,
+        "num": 35328,
+        "word": "英超双红会",
+        "onboard_time": 1661196312,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34825,
+        "num": 34825,
+        "word": "TES成为LPL首支晋级S12的队伍",
+        "onboard_time": 1661177555,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31329,
+        "num": 31329,
+        "word": "王楠告别乒坛14周年",
+        "onboard_time": 1661205974,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29363,
+        "num": 29363,
+        "word": "容昊 上帝视角",
+        "onboard_time": 1661180797,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27610,
+        "num": 27610,
+        "word": "姜广涛 绘旅人",
+        "onboard_time": 1661167350,
+        "rank": 44,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 27329,
+        "num": 27329,
+        "word": "东方青苍没有业火了",
+        "onboard_time": 1661176111,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26246,
+        "num": 26246,
+        "word": "一曲的不知火舞",
+        "onboard_time": 1661183074,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23532,
+        "num": 23532,
+        "word": "爱思嘲讽",
+        "onboard_time": 1661172693,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21170,
+        "num": 21170,
+        "word": "狗狗为抢出租车打起来了",
+        "onboard_time": 1661203931,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21047,
+        "num": 21047,
+        "word": "KSG锁定第三轮",
+        "onboard_time": 1661186124,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建人与自然生命共同体#"
+    }
+  }
+}
