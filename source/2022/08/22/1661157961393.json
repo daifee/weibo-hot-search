@@ -1,0 +1,410 @@
+{
+  "runTime": 1661157961393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10443173,
+        "num": 10443173,
+        "word": "机构鉴定戚薇直播间卖假货",
+        "onboard_time": 1661151629,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2028210,
+        "num": 2028210,
+        "word": "孕妇偷吃辣条被发现后狂炫",
+        "onboard_time": 1661152232,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 11806,
+        "num": 1120457,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1108734,
+        "num": 1108734,
+        "word": "刘奕君贡献了冰雨火里唯一的吻戏",
+        "onboard_time": 1661153071,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1104609,
+        "num": 1104609,
+        "word": "古偶男二人设天花板",
+        "onboard_time": 1661150492,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1036646,
+        "num": 1036646,
+        "word": "2岁宝宝果核卡气管10天后竟发芽",
+        "onboard_time": 1661152591,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932290,
+        "num": 932290,
+        "word": "长期喝冰水的人后来都怎么样了",
+        "onboard_time": 1661135311,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 810674,
+        "num": 810674,
+        "word": "男子疑因手机爆炸当街倒地",
+        "onboard_time": 1661150369,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784177,
+        "num": 784177,
+        "word": "海南2030年全面禁止销售燃油汽车",
+        "onboard_time": 1661152470,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748015,
+        "num": 748015,
+        "word": "香飘飘半年赔上亿",
+        "onboard_time": 1661149591,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 991043,
+        "num": 729684,
+        "word": "创造营2021下架又上架",
+        "onboard_time": 1661152533,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922336,
+        "num": 662883,
+        "word": "戚薇方已报警",
+        "onboard_time": 1661157514,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 919720,
+        "num": 645124,
+        "word": "张彬彬虞书欣录制你好星期六",
+        "onboard_time": 1661153251,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 870802,
+        "num": 589132,
+        "word": "抖音崩了",
+        "onboard_time": 1661144910,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 823921,
+        "num": 535624,
+        "word": "5岁男童被家中狼狗咬掉耳朵",
+        "onboard_time": 1661155112,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 511938,
+        "num": 511938,
+        "word": "首套房贷利率已比2009年低",
+        "onboard_time": 1661151991,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 485548,
+        "num": 485548,
+        "word": "大连海关将20吨洋垃圾退运出境",
+        "onboard_time": 1661153912,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432082,
+        "num": 432082,
+        "word": "四川高温农户30亩葡萄热成干",
+        "onboard_time": 1661151750,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377799,
+        "num": 377799,
+        "word": "大象高温下工作发狂用象牙刺死主人",
+        "onboard_time": 1661148570,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 377723,
+        "num": 377723,
+        "word": "母亲机场狂奔接2年未见的女儿",
+        "onboard_time": 1661152831,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676362,
+        "num": 377573,
+        "word": "程少商与星河叹的适配度",
+        "onboard_time": 1661152410,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544777,
+        "num": 376842,
+        "word": "颜淡眼里没有光了",
+        "onboard_time": 1661154511,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375383,
+        "num": 375383,
+        "word": "四川向全省人民发出节水倡议",
+        "onboard_time": 1661151092,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348619,
+        "num": 348619,
+        "word": "小狗被铁丝勒脖子跑进消防站求助",
+        "onboard_time": 1661153190,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335173,
+        "num": 335173,
+        "word": "孩子要气球大人扯走整个店家拱门",
+        "onboard_time": 1661155534,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334074,
+        "num": 334074,
+        "word": "阿迪达斯为何败走中国",
+        "onboard_time": 1661147609,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312371,
+        "num": 312371,
+        "word": "BLACKPINK新专辑出单封了",
+        "onboard_time": 1661149710,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299129,
+        "num": 299129,
+        "word": "老师我的暑假作业真的被偷了",
+        "onboard_time": 1661147310,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274461,
+        "num": 274461,
+        "word": "这是考的科目五吗",
+        "onboard_time": 1661155830,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261349,
+        "num": 261349,
+        "word": "重庆多处山火被有力压制",
+        "onboard_time": 1661156433,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292244,
+        "num": 261190,
+        "word": "吴磊赵露思婚服拍摄花絮",
+        "onboard_time": 1661146348,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259755,
+        "num": 259755,
+        "word": "刘雨昕把踢毽子编进舞蹈",
+        "onboard_time": 1661157813,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243882,
+        "num": 243882,
+        "word": "迪士尼回应游客录拍创极速光轮",
+        "onboard_time": 1661156313,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234162,
+        "num": 234162,
+        "word": "苍兰诀 双向奔赴",
+        "onboard_time": 1661156913,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "吴露可逃对视氛围感剧照",
+        "onboard_time": 1661154812,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220049,
+        "num": 220049,
+        "word": "史上最悲伤的纪录片",
+        "onboard_time": 1661150191,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219268,
+        "num": 219268,
+        "word": "罗渽民KCON造型",
+        "onboard_time": 1661156673,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216164,
+        "num": 216164,
+        "word": "TES对战EDG",
+        "onboard_time": 1661153251,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213571,
+        "num": 213571,
+        "word": "北京疫情发布会",
+        "onboard_time": 1661157394,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212476,
+        "num": 212476,
+        "word": "小米集团向3142人授予股权",
+        "onboard_time": 1661148991,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 209224,
+        "num": 209224,
+        "word": "果切价格高达整颗水果的5倍",
+        "onboard_time": 1661155291,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 207347,
+        "num": 207347,
+        "word": "王一博陈宇今天挨打了吗",
+        "onboard_time": 1661154091,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203941,
+        "num": 203941,
+        "word": "男子趁核酸采样员小憩偷走扫码手机",
+        "onboard_time": 1661156793,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200772,
+        "num": 200772,
+        "word": "8岁男童因父母过度训斥致抽动症",
+        "onboard_time": 1661157152,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192544,
+        "num": 192544,
+        "word": "全国高温退场日历",
+        "onboard_time": 1661153431,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179405,
+        "num": 179405,
+        "word": "小妲己消失了",
+        "onboard_time": 1661142155,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176092,
+        "num": 176092,
+        "word": "不再聘请吴勇从事教材设计工作",
+        "onboard_time": 1661135429,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194038,
+        "num": 172406,
+        "word": "北京中小学校如期正常开学",
+        "onboard_time": 1661157934,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 165669,
+        "num": 165669,
+        "word": "猫猫连续15天准点作案偷火腿肠",
+        "onboard_time": 1661140653,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 151622,
+        "num": 151622,
+        "word": "重庆调整部分商场营业时间",
+        "onboard_time": 1661153735,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}
