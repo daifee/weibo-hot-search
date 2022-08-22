@@ -1,0 +1,410 @@
+{
+  "runTime": 1661150962586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1365346,
+        "num": 1365346,
+        "word": "阿迪达斯为何败走中国",
+        "onboard_time": 1661147609,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 748735,
+        "num": 748735,
+        "word": "老师我的暑假作业真的被偷了",
+        "onboard_time": 1661147310,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 11484,
+        "num": 746269,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1561889,
+        "num": 725561,
+        "word": "吴磊赵露思婚服拍摄花絮",
+        "onboard_time": 1661146348,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1402458,
+        "num": 701502,
+        "word": "长期喝冰水的人后来都怎么样了",
+        "onboard_time": 1661135311,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 770216,
+        "num": 693191,
+        "word": "BLACKPINK新专辑出单封了",
+        "onboard_time": 1661149710,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 676868,
+        "num": 676868,
+        "word": "大象高温下工作发狂用象牙刺死主人",
+        "onboard_time": 1661148570,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 614592,
+        "num": 614592,
+        "word": "待播古装剧存量",
+        "onboard_time": 1661144015,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1636449,
+        "num": 593140,
+        "word": "新国标红绿灯取消读秒",
+        "onboard_time": 1661131408,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522462,
+        "num": 522462,
+        "word": "小妲己消失了",
+        "onboard_time": 1661142155,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1622212,
+        "num": 516275,
+        "word": "抖音崩了",
+        "onboard_time": 1661144910,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 832796,
+        "num": 514868,
+        "word": "不再聘请吴勇从事教材设计工作",
+        "onboard_time": 1661135429,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 727988,
+        "num": 514002,
+        "word": "张凌赫经纪公司发声明",
+        "onboard_time": 1661145510,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500824,
+        "num": 500824,
+        "word": "100万元房贷30年少3.18万元",
+        "onboard_time": 1661137232,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 400979,
+        "num": 400979,
+        "word": "秦俊杰首演金庸男主",
+        "onboard_time": 1661150730,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400760,
+        "num": 400760,
+        "word": "00后老板每月给员工发汉服基金",
+        "onboard_time": 1661143536,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374903,
+        "num": 374903,
+        "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
+        "onboard_time": 1661146531,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 355284,
+        "num": 355284,
+        "word": "小米集团向3142人授予股权",
+        "onboard_time": 1661148991,
+        "rank": 17,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 555733,
+        "num": 354516,
+        "word": "美容院拉踩鹿晗判赔近4万元",
+        "onboard_time": 1661147191,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340169,
+        "num": 340169,
+        "word": "香飘飘半年赔上亿",
+        "onboard_time": 1661149591,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 365472,
+        "num": 338434,
+        "word": "刘青松新发色",
+        "onboard_time": 1661148211,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 329341,
+        "num": 329341,
+        "word": "猫猫连续15天准点作案偷火腿肠",
+        "onboard_time": 1661140653,
+        "rank": 21,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 322952,
+        "num": 322952,
+        "word": "王一博陈宇黑白剧照",
+        "onboard_time": 1661149710,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302026,
+        "num": 302026,
+        "word": "玉骨遥",
+        "onboard_time": 1661146468,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293493,
+        "num": 293493,
+        "word": "夫妻化身保姆喂3只小燕子",
+        "onboard_time": 1661137471,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246532,
+        "num": 246532,
+        "word": "吴振峰陈宇雨林打戏",
+        "onboard_time": 1661150669,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246333,
+        "num": 246333,
+        "word": "继父日扛20吨饲料包救养女",
+        "onboard_time": 1661143114,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246168,
+        "num": 246168,
+        "word": "北京天堂超市酒吧被吊销执照",
+        "onboard_time": 1661142871,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235187,
+        "num": 235187,
+        "word": "多地回应未收到更换新国标红绿灯通知",
+        "onboard_time": 1661150012,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234391,
+        "num": 234391,
+        "word": "三次救火的重庆娃儿是个大学生",
+        "onboard_time": 1661148152,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 232374,
+        "num": 232374,
+        "word": "德塔文回应星汉灿烂苍兰诀数据问题",
+        "onboard_time": 1661141491,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230034,
+        "num": 230034,
+        "word": "中本悠太日本福布斯封面",
+        "onboard_time": 1661149291,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229113,
+        "num": 229113,
+        "word": "现在骑马都是自动挡了",
+        "onboard_time": 1661144610,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227273,
+        "num": 227273,
+        "word": "苍兰诀第28集封神",
+        "onboard_time": 1661134471,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226441,
+        "num": 226441,
+        "word": "杨洋微微一笑很倾城播出六周年",
+        "onboard_time": 1661129730,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224395,
+        "num": 224395,
+        "word": "史上最悲伤的纪录片",
+        "onboard_time": 1661150191,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224164,
+        "num": 224164,
+        "word": "男子疑因手机爆炸当街倒地",
+        "onboard_time": 1661150369,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196781,
+        "num": 196781,
+        "word": "王者荣耀",
+        "onboard_time": 1661143774,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191634,
+        "num": 191634,
+        "word": "警方通报上海中考泄题",
+        "onboard_time": 1661137291,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190837,
+        "num": 190837,
+        "word": "病人接近脑死亡谁有权利放弃治疗",
+        "onboard_time": 1661137590,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 207475,
+        "num": 190802,
+        "word": "古偶男二人设天花板",
+        "onboard_time": 1661150492,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190728,
+        "num": 190728,
+        "word": "太想去厦门吃席了",
+        "onboard_time": 1661140713,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186438,
+        "num": 186438,
+        "word": "未定事件簿",
+        "onboard_time": 1661144253,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174604,
+        "num": 174604,
+        "word": "把猪圈当做跨栏运动的猪",
+        "onboard_time": 1661145571,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168788,
+        "num": 168788,
+        "word": "华为Mate50官宣发布时间",
+        "onboard_time": 1661132012,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155687,
+        "num": 155687,
+        "word": "消防员偶遇老人顺手收完两块田",
+        "onboard_time": 1661150852,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152480,
+        "num": 152480,
+        "word": "研究称用小杯能减少饮酒量",
+        "onboard_time": 1661148090,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 265592,
+        "num": 150981,
+        "word": "颂乐玟星小分队",
+        "onboard_time": 1661150910,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149140,
+        "num": 149140,
+        "word": "女子41度高温天玩漂流失温",
+        "onboard_time": 1661128590,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "上海事业单位",
+        "onboard_time": 1661140292,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}

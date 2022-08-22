@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661149883247,
+  "endTime": 1661150962586,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -123,6 +123,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1365346,
+      "num": 1365346,
+      "word": "阿迪达斯为何败走中国",
+      "onboard_time": 1661147609,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1308824,
       "num": 1308824,
       "word": "警方通报上海中考泄题",
@@ -211,14 +219,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 925111,
-      "num": 925111,
-      "word": "阿迪达斯为何败走中国",
-      "onboard_time": 1661147609,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 908911,
       "num": 908911,
       "word": "贵州赤水山火",
@@ -243,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770216,
+      "num": 693191,
+      "word": "BLACKPINK新专辑出单封了",
+      "onboard_time": 1661149710,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 754178,
       "num": 754178,
       "word": "专家释疑京津冀现不明黑色昆虫",
       "onboard_time": 1661097870,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748735,
+      "num": 748735,
+      "word": "老师我的暑假作业真的被偷了",
+      "onboard_time": 1661147310,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 725304,
@@ -289,6 +305,14 @@
       "onboard_time": 1661094393,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 676868,
+      "num": 676868,
+      "word": "大象高温下工作发狂用象牙刺死主人",
+      "onboard_time": 1661148570,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 653870,
@@ -395,22 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520894,
-      "num": 520894,
-      "word": "老师我的暑假作业真的被偷了",
-      "onboard_time": 1661147310,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 509815,
-      "num": 509815,
-      "word": "BLACKPINK新专辑出单封了",
-      "onboard_time": 1661149710,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -515,14 +523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 417189,
-      "num": 417189,
-      "word": "大象高温下工作发狂用象牙刺死主人",
-      "onboard_time": 1661148570,
-      "rank": 16,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 416711,
       "num": 416711,
       "word": "重庆巴南山火当地紧急招募志愿者",
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400979,
+      "num": 400979,
+      "word": "秦俊杰首演金庸男主",
+      "onboard_time": 1661150730,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394189,
       "num": 394189,
       "word": "网传折腰主演暂定张晚意宋轶",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 379677,
-      "num": 330470,
+      "num": 338434,
       "word": "刘青松新发色",
       "onboard_time": 1661148211,
       "rank": 20,
@@ -601,6 +609,14 @@
       "onboard_time": 1661130572,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374903,
+      "num": 374903,
+      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
+      "onboard_time": 1661146531,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 369623,
@@ -627,20 +643,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 361122,
-      "num": 361122,
-      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
-      "onboard_time": 1661146531,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 356977,
       "num": 356977,
       "word": "台风",
       "onboard_time": 1661128948,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355284,
+      "num": 355284,
+      "word": "小米集团向3142人授予股权",
+      "onboard_time": 1661148991,
+      "rank": 44,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 352671,
@@ -673,6 +689,14 @@
       "onboard_time": 1661146468,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340169,
+      "num": 340169,
+      "word": "香飘飘半年赔上亿",
+      "onboard_time": 1661149591,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 339787,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 285428,
-      "num": 214326,
+      "num": 230034,
       "word": "中本悠太日本福布斯封面",
       "onboard_time": 1661149291,
       "rank": 31,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265592,
+      "num": 150981,
+      "word": "颂乐玟星小分队",
+      "onboard_time": 1661150910,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261816,
       "num": 261816,
       "word": "王一博歌声里藏了多少温柔",
@@ -971,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246532,
+      "num": 246532,
+      "word": "吴振峰陈宇雨林打戏",
+      "onboard_time": 1661150669,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242268,
       "num": 242268,
       "word": "新能源汽车动力电池迎退役潮",
@@ -1003,20 +1043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235187,
+      "num": 235187,
+      "word": "多地回应未收到更换新国标红绿灯通知",
+      "onboard_time": 1661150012,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234391,
+      "num": 234391,
+      "word": "三次救火的重庆娃儿是个大学生",
+      "onboard_time": 1661148152,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 230742,
       "num": 230742,
       "word": "大连疫情防控",
       "onboard_time": 1661118010,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228889,
-      "num": 228889,
-      "word": "三次救火的重庆娃儿是个大学生",
-      "onboard_time": 1661148152,
-      "rank": 28,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 225128,
@@ -1033,6 +1081,22 @@
       "onboard_time": 1661139391,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 224395,
+      "num": 224395,
+      "word": "史上最悲伤的纪录片",
+      "onboard_time": 1661150191,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 224164,
+      "num": 224164,
+      "word": "男子疑因手机爆炸当街倒地",
+      "onboard_time": 1661150369,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221863,
@@ -1079,6 +1143,14 @@
       "num": 207827,
       "word": "林柏叡说觞阙脑子都用来谈恋爱了",
       "onboard_time": 1661144972,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207475,
+      "num": 190802,
+      "word": "古偶男二人设天花板",
+      "onboard_time": 1661150492,
       "rank": 40,
       "category": "影视"
     },
@@ -1251,6 +1323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155687,
+      "num": 155687,
+      "word": "消防员偶遇老人顺手收完两块田",
+      "onboard_time": 1661150852,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152480,
+      "num": 152480,
+      "word": "研究称用小杯能减少饮酒量",
+      "onboard_time": 1661148090,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 152055,
       "num": 152055,
       "word": "上海暂停外滩等地景观照明",
@@ -1275,28 +1363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148438,
-      "num": 148438,
-      "word": "小米集团向3142人授予股权",
-      "onboard_time": 1661148991,
-      "rank": 44,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 147476,
       "num": 147476,
       "word": "EDGM战胜TTG",
       "onboard_time": 1661093853,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143820,
-      "num": 143820,
-      "word": "研究称用小杯能减少饮酒量",
-      "onboard_time": 1661148090,
-      "rank": 46,
-      "category": "其它"
     },
     {
       "raw_hot": 143770,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1661093610,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123303,
-      "num": 123303,
-      "word": "香飘飘半年赔上亿",
-      "onboard_time": 1661149591,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 117267,
