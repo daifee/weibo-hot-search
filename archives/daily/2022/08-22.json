@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661142237507,
+  "endTime": 1661143803610,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -51,6 +51,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2633703,
+      "num": 2311111,
+      "word": "今年国庆休7天上7天",
+      "onboard_time": 1661138971,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2404109,
       "num": 2404109,
       "word": "教育部通报教材插图问题调查结果",
@@ -67,20 +75,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2311111,
-      "num": 2311111,
-      "word": "今年国庆休7天上7天",
-      "onboard_time": 1661138971,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1812763,
       "num": 1812763,
       "word": "杨洋微微一笑很倾城播出六周年",
       "onboard_time": 1661129730,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1744818,
+      "num": 1744818,
+      "word": "新国标红绿灯取消读秒",
+      "onboard_time": 1661131408,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1615425,
@@ -91,14 +99,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1433443,
-      "num": 1433443,
-      "word": "新国标红绿灯取消读秒",
-      "onboard_time": 1661131408,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1308824,
       "num": 1308824,
       "word": "警方通报上海中考泄题",
@@ -107,20 +107,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1263992,
+      "num": 1263992,
+      "word": "鹿晗好像疯狂给朋友安利的我",
+      "onboard_time": 1661138610,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1261668,
       "num": 1261668,
       "word": "女子41度高温天玩漂流失温",
       "onboard_time": 1661128590,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1239106,
-      "num": 1239106,
-      "word": "鹿晗好像疯狂给朋友安利的我",
-      "onboard_time": 1661138610,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1181532,
@@ -144,6 +144,14 @@
       "word": "苍兰诀破万",
       "onboard_time": 1661087311,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 962500,
+      "num": 962500,
+      "word": "德塔文回应星汉灿烂苍兰诀数据问题",
+      "onboard_time": 1661141491,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695722,
+      "num": 695722,
+      "word": "人们为什么反感调休",
+      "onboard_time": 1661141071,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694579,
       "num": 694579,
       "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
@@ -211,14 +227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 666720,
-      "num": 666720,
-      "word": "德塔文回应星汉灿烂苍兰诀数据问题",
-      "onboard_time": 1661141491,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 653870,
       "num": 505541,
       "word": "苍兰诀制作人把口罩哭废了",
@@ -235,12 +243,36 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 627951,
+      "num": 627951,
+      "word": "小妲己消失了",
+      "onboard_time": 1661142155,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 611325,
       "num": 611325,
       "word": "刘雨昕送王一博香菜大礼包",
       "onboard_time": 1661130152,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602728,
+      "num": 602728,
+      "word": "猫猫连续15天准点作案偷火腿肠",
+      "onboard_time": 1661140653,
+      "rank": 29,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 595011,
+      "num": 595011,
+      "word": "太想去厦门吃席了",
+      "onboard_time": 1661140713,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 585383,
@@ -291,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517302,
-      "num": 517302,
-      "word": "太想去厦门吃席了",
-      "onboard_time": 1661140713,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -331,6 +355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 480602,
+      "num": 480602,
+      "word": "迪丽热巴VOGUEfilm电影感大片",
+      "onboard_time": 1661142935,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 478595,
       "num": 478595,
       "word": "苍兰诀",
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469568,
+      "num": 469568,
+      "word": "夫妻化身保姆喂3只小燕子",
+      "onboard_time": 1661137471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460417,
       "num": 460417,
       "word": "日本东京发生随机砍人事件",
@@ -363,16 +403,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 454962,
-      "num": 454962,
-      "word": "夫妻化身保姆喂3只小燕子",
-      "onboard_time": 1661137471,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424748,
-      "num": 424748,
+      "raw_hot": 434677,
+      "num": 434677,
       "word": "苍兰诀又要断更四天",
       "onboard_time": 1661140413,
       "rank": 21,
@@ -459,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369623,
+      "num": 369623,
+      "word": "25小时恋爱",
+      "onboard_time": 1661141913,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365589,
       "num": 365589,
       "word": "油价",
@@ -467,20 +507,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 360735,
-      "num": 360735,
-      "word": "25小时恋爱",
-      "onboard_time": 1661141913,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 358647,
-      "num": 358647,
-      "word": "猫猫连续15天准点作案偷火腿肠",
-      "onboard_time": 1661140653,
-      "rank": 29,
-      "category": "社会新闻,幽默"
+      "raw_hot": 357738,
+      "num": 357738,
+      "word": "北京天堂超市酒吧被吊销执照",
+      "onboard_time": 1661142871,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 356977,
@@ -491,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343629,
-      "num": 343629,
+      "raw_hot": 352671,
+      "num": 352671,
       "word": "新版红绿灯设计者晒通行口诀",
       "onboard_time": 1661135607,
       "rank": 23,
@@ -505,6 +537,14 @@
       "onboard_time": 1661134711,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 339787,
+      "num": 339787,
+      "word": "上海事业单位",
+      "onboard_time": 1661140292,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 339174,
@@ -521,14 +561,6 @@
       "onboard_time": 1661091333,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333147,
-      "num": 333147,
-      "word": "人们为什么反感调休",
-      "onboard_time": 1661141071,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327011,
@@ -561,6 +593,14 @@
       "onboard_time": 1661140471,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293969,
+      "num": 293969,
+      "word": "杨超越为了赢有多拼",
+      "onboard_time": 1661137710,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 292294,
@@ -627,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279306,
+      "num": 279306,
+      "word": "00后老板每月给员工发汉服基金",
+      "onboard_time": 1661143536,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278045,
       "num": 278045,
       "word": "王一博我把那盘肉吃完我走",
@@ -641,14 +689,6 @@
       "onboard_time": 1661112073,
       "rank": 38,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 274729,
-      "num": 274729,
-      "word": "上海事业单位",
-      "onboard_time": 1661140292,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 273700,
@@ -673,6 +713,22 @@
       "onboard_time": 1661086711,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271634,
+      "num": 271634,
+      "word": "成年后还有纯粹的友情吗",
+      "onboard_time": 1661141313,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 269888,
+      "num": 269888,
+      "word": "打压式教育有多窒息",
+      "onboard_time": 1661140951,
+      "rank": 39,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 266114,
@@ -705,6 +761,14 @@
       "onboard_time": 1661106792,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259424,
+      "num": 259424,
+      "word": "继父日扛20吨饲料包救养女",
+      "onboard_time": 1661143114,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256754,
@@ -763,20 +827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236663,
+      "num": 236663,
+      "word": "短腿猫打架能有多吃亏",
+      "onboard_time": 1661141553,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235710,
       "num": 235710,
       "word": "广东本周将有台风登陆",
       "onboard_time": 1661136568,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233372,
-      "num": 233372,
-      "word": "打压式教育有多窒息",
-      "onboard_time": 1661140951,
-      "rank": 39,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 230742,
@@ -827,14 +891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 217699,
-      "num": 217699,
-      "word": "成年后还有纯粹的友情吗",
-      "onboard_time": 1661141313,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214639,
       "num": 214639,
       "word": "黄景瑜奇怪的个人技增加了",
@@ -857,6 +913,14 @@
       "onboard_time": 1661133991,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199905,
+      "num": 199309,
+      "word": "王者荣耀",
+      "onboard_time": 1661143774,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 197894,
@@ -889,14 +953,6 @@
       "onboard_time": 1661093911,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194334,
-      "num": 194334,
-      "word": "短腿猫打架能有多吃亏",
-      "onboard_time": 1661141553,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 192747,
@@ -945,14 +1001,6 @@
       "onboard_time": 1661087011,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181909,
-      "num": 181909,
-      "word": "小妲己消失了",
-      "onboard_time": 1661142155,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 180796,
