@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661164961579,
+  "endTime": 1661167122295,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -235,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1185895,
+      "num": 1185895,
+      "word": "共享充电宝涨至4元每小时",
+      "onboard_time": 1661162072,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1181532,
       "num": 1181532,
       "word": "人们为什么不爱买无印良品了",
@@ -363,6 +371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 892560,
+      "num": 892560,
+      "word": "成毅沉香重华新娘妆",
+      "onboard_time": 1661165371,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845524,
       "num": 845524,
       "word": "高中语文没有一篇课文是充数的",
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 771590,
-      "num": 771590,
-      "word": "共享充电宝涨至4元每小时",
-      "onboard_time": 1661162072,
-      "rank": 11,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 770216,
       "num": 693191,
       "word": "BLACKPINK新专辑出单封了",
@@ -417,6 +425,14 @@
       "onboard_time": 1661097870,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741469,
+      "num": 741469,
+      "word": "鹿晗说三十岁最大差别是思考总结变多",
+      "onboard_time": 1661166209,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 725304,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544725,
+      "num": 544725,
+      "word": "浙江龙游6名落水人员已不幸遇难",
+      "onboard_time": 1661163032,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 539223,
       "num": 539223,
       "word": "姐姐担心遇到人贩子抱弟弟大喊跑回家",
@@ -609,6 +633,14 @@
       "onboard_time": 1661137710,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527051,
+      "num": 527051,
+      "word": "川渝好像有高温结界",
+      "onboard_time": 1661162432,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524288,
@@ -731,6 +763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 451833,
+      "num": 451833,
+      "word": "猫咪因主人出事后更加粘人",
+      "onboard_time": 1661163692,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443358,
       "num": 443358,
       "word": "孩子要气球大人扯走整个店家拱门",
@@ -769,6 +809,14 @@
       "onboard_time": 1661099425,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412343,
+      "num": 412343,
+      "word": "王嘉尔音乐节上喊自己是Chineseboy",
+      "onboard_time": 1661165371,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 409739,
@@ -824,14 +872,6 @@
       "word": "女子遇电诈脱身及时倒赚8000元",
       "onboard_time": 1661159551,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397125,
-      "num": 397125,
-      "word": "川渝好像有高温结界",
-      "onboard_time": 1661162432,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -947,20 +987,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359441,
-      "num": 359441,
-      "word": "浙江龙游6名落水人员已不幸遇难",
-      "onboard_time": 1661163032,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 356977,
       "num": 356977,
       "word": "台风",
       "onboard_time": 1661128948,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354755,
+      "num": 331289,
+      "word": "TNT训练集",
+      "onboard_time": 1661167050,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352671,
@@ -977,6 +1017,14 @@
       "onboard_time": 1661149710,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341977,
+      "num": 341977,
+      "word": "鸡被偷走炖熟民警一锅端还给失主",
+      "onboard_time": 1661165430,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341529,
@@ -1059,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 316831,
+      "num": 316831,
+      "word": "原神",
+      "onboard_time": 1661165012,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315499,
       "num": 315499,
       "word": "重庆高温把路都晒化了",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1661137710,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293696,
+      "num": 293696,
+      "word": "北京磨砂云",
+      "onboard_time": 1661163331,
+      "rank": 43,
+      "category": "自然"
     },
     {
       "raw_hot": 292294,
@@ -1195,14 +1259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281051,
-      "num": 281051,
-      "word": "猫咪因主人出事后更加粘人",
-      "onboard_time": 1661163692,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 279496,
       "num": 279496,
       "word": "Doinb",
@@ -1283,20 +1339,20 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 268806,
+      "num": 246524,
+      "word": "JonyJ2022南京演唱会官宣了",
+      "onboard_time": 1661162612,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266114,
       "num": 266114,
       "word": "没有红绿灯和交通标志的路口咋过",
       "onboard_time": 1661127989,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265779,
-      "num": 246524,
-      "word": "JonyJ2022南京演唱会官宣了",
-      "onboard_time": 1661162612,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 265592,
@@ -1419,6 +1475,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 250668,
+      "num": 250668,
+      "word": "云南特色凉卷粉有多绝",
+      "onboard_time": 1661166870,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248945,
       "num": 248945,
       "word": "人教社发布新教材插图示例",
@@ -1475,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240162,
-      "num": 240162,
-      "word": "北京磨砂云",
-      "onboard_time": 1661163331,
-      "rank": 43,
-      "category": "自然"
-    },
-    {
       "raw_hot": 239734,
       "num": 239734,
       "word": "三次救火的重庆娃儿是个大学生",
@@ -1523,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230802,
+      "num": 230802,
+      "word": "梁爽徒手掏下水道",
+      "onboard_time": 1661166092,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230742,
       "num": 230742,
       "word": "大连疫情防控",
@@ -1531,12 +1595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230563,
+      "num": 230563,
+      "word": "张睿哭戏梦回五阿哥",
+      "onboard_time": 1661166927,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227216,
       "num": 181093,
       "word": "李帝努送玫瑰",
       "onboard_time": 1661151092,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225602,
+      "num": 225602,
+      "word": "重庆火灾一线消防员睡姿让人心疼",
+      "onboard_time": 1661165851,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225128,
@@ -1643,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205624,
+      "num": 205624,
+      "word": "你会在意现任心里装着前任吗",
+      "onboard_time": 1661163870,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204001,
       "num": 204001,
       "word": "熊猫真的有功夫在身上",
@@ -1667,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199357,
+      "num": 199357,
+      "word": "江疏影说欢乐颂3今晚秒变悬疑剧",
+      "onboard_time": 1661165249,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197894,
       "num": 197894,
       "word": "石家庄多路段开车如行船",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1661158894,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196038,
+      "num": 196038,
+      "word": "ofo公众号发擦边推文",
+      "onboard_time": 1661166450,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 195762,
@@ -1779,6 +1883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184928,
+      "num": 184928,
+      "word": "成都将在8月26日退出高温行列",
+      "onboard_time": 1661166750,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184784,
+      "num": 184784,
+      "word": "作家称删除自己被盗版链接需30年",
+      "onboard_time": 1661166991,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -1793,14 +1913,6 @@
       "onboard_time": 1661141431,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180170,
-      "num": 180170,
-      "word": "你会在意现任心里装着前任吗",
-      "onboard_time": 1661163870,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 179511,
@@ -1859,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167183,
+      "num": 167183,
+      "word": "在南方生活真的需要点勇气",
+      "onboard_time": 1661166272,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "上海未启用网传新版红绿灯",
@@ -1889,6 +2009,14 @@
       "onboard_time": 1661152291,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156656,
+      "num": 156656,
+      "word": "KSG对战AG",
+      "onboard_time": 1661166750,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 156145,
