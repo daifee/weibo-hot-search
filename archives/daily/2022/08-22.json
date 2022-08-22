@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661143803610,
+  "endTime": 1661147087635,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1773633,
+      "num": 679869,
+      "word": "抖音崩了",
+      "onboard_time": 1661144910,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1744818,
       "num": 1744818,
       "word": "新国标红绿灯取消读秒",
@@ -139,10 +147,34 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104140,
+      "num": 1104140,
+      "word": "小妲己消失了",
+      "onboard_time": 1661142155,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1060558,
       "num": 1060558,
       "word": "苍兰诀破万",
       "onboard_time": 1661087311,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1023597,
+      "num": 673677,
+      "word": "张凌赫经纪公司发声明",
+      "onboard_time": 1661145510,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 998354,
+      "num": 998354,
+      "word": "待播古装剧存量",
+      "onboard_time": 1661144015,
       "rank": 6,
       "category": "影视"
     },
@@ -195,8 +227,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 695722,
-      "num": 695722,
+      "raw_hot": 714604,
+      "num": 714604,
+      "word": "吴磊赵露思婚服拍摄花絮",
+      "onboard_time": 1661146348,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 712285,
+      "num": 714485,
       "word": "人们为什么反感调休",
       "onboard_time": 1661141071,
       "rank": 31,
@@ -243,14 +283,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 627951,
-      "num": 627951,
-      "word": "小妲己消失了",
-      "onboard_time": 1661142155,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 611325,
       "num": 611325,
       "word": "刘雨昕送王一博香菜大礼包",
@@ -291,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562506,
+      "num": 562506,
+      "word": "北京天堂超市酒吧被吊销执照",
+      "onboard_time": 1661142871,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 550775,
       "num": 550775,
       "word": "四川最大火力发电厂全力供电",
@@ -323,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524288,
+      "num": 524288,
+      "word": "00后老板每月给员工发汉服基金",
+      "onboard_time": 1661143536,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -353,6 +401,14 @@
       "onboard_time": 1661092953,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 482489,
+      "num": 482489,
+      "word": "继父日扛20吨饲料包救养女",
+      "onboard_time": 1661143114,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480602,
@@ -507,12 +563,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 357738,
-      "num": 357738,
-      "word": "北京天堂超市酒吧被吊销执照",
-      "onboard_time": 1661142871,
-      "rank": 26,
-      "category": "社会新闻,财经"
+      "raw_hot": 365473,
+      "num": 365473,
+      "word": "王者荣耀",
+      "onboard_time": 1661143774,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 356977,
@@ -563,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329701,
+      "num": 329701,
+      "word": "未定事件簿",
+      "onboard_time": 1661144253,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327011,
       "num": 327011,
       "word": "重庆已组织1500余人扑救巴南山火",
@@ -585,6 +649,14 @@
       "onboard_time": 1661137049,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295810,
+      "num": 295810,
+      "word": "玉骨遥",
+      "onboard_time": 1661146468,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 294206,
@@ -627,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290317,
+      "num": 290317,
+      "word": "把猪圈当做跨栏运动的猪",
+      "onboard_time": 1661145571,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289621,
       "num": 289621,
       "word": "东海海域实弹演习",
@@ -665,14 +745,6 @@
       "onboard_time": 1661089954,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279306,
-      "num": 279306,
-      "word": "00后老板每月给员工发汉服基金",
-      "onboard_time": 1661143536,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278045,
@@ -763,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259424,
-      "num": 259424,
-      "word": "继父日扛20吨饲料包救养女",
-      "onboard_time": 1661143114,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256754,
       "num": 192415,
       "word": "时代少年团中秋晚会舞台预告",
@@ -843,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233418,
+      "num": 233418,
+      "word": "现在骑马都是自动挡了",
+      "onboard_time": 1661144610,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230742,
       "num": 230742,
       "word": "大连疫情防控",
@@ -907,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207827,
+      "num": 207827,
+      "word": "林柏叡说觞阙脑子都用来谈恋爱了",
+      "onboard_time": 1661144972,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207279,
       "num": 207279,
       "word": "河北暴雨致多辆汽车被泡漂浮",
@@ -915,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199905,
-      "num": 199309,
-      "word": "王者荣耀",
-      "onboard_time": 1661143774,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 202773,
+      "num": 202773,
+      "word": "卜冠今画的周寻和齐颂",
+      "onboard_time": 1661145451,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 197894,
@@ -995,6 +1075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187690,
+      "num": 187690,
+      "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
+      "onboard_time": 1661146531,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -1017,6 +1105,22 @@
       "onboard_time": 1661134050,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176470,
+      "num": 176470,
+      "word": "冰雨火",
+      "onboard_time": 1661146710,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175849,
+      "num": 175849,
+      "word": "微博拟上线个人主页展示评论功能",
+      "onboard_time": 1661145809,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 175505,
