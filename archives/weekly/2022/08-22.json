@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661176457013,
+  "endTime": 1661177939696,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -131,6 +131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1878327,
+      "num": 1878327,
+      "word": "TES战胜EDG",
+      "onboard_time": 1661176473,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1812763,
       "num": 1812763,
       "word": "杨洋微微一笑很倾城播出六周年",
@@ -184,6 +192,14 @@
       "word": "女子换肾34年打工赚药钱置房产",
       "onboard_time": 1661160272,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1544809,
+      "num": 455453,
+      "word": "女孩江苏买房每天坐高铁去上海上班",
+      "onboard_time": 1661174852,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1661147310,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1237813,
-      "num": 455453,
-      "word": "女孩江苏买房每天坐高铁去上海上班",
-      "onboard_time": 1661174852,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1191180,
@@ -371,8 +379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1053106,
-      "num": 1053106,
+      "raw_hot": 1058666,
+      "num": 1058666,
       "word": "白漂亮消失了",
       "onboard_time": 1661174911,
       "rank": 11,
@@ -408,6 +416,14 @@
       "word": "待播古装剧存量",
       "onboard_time": 1661144015,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 995115,
+      "num": 995115,
+      "word": "东方青苍没有业火了",
+      "onboard_time": 1661176111,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -499,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 765152,
+      "num": 455408,
+      "word": "俄方称谋杀杜金娜凶手是乌克兰人",
+      "onboard_time": 1661173829,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 754178,
       "num": 754178,
       "word": "专家释疑京津冀现不明黑色昆虫",
@@ -553,14 +577,6 @@
       "onboard_time": 1661129011,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 679721,
-      "num": 455408,
-      "word": "俄方称谋杀杜金娜凶手是乌克兰人",
-      "onboard_time": 1661173829,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 678828,
@@ -625,6 +641,14 @@
       "onboard_time": 1661140713,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 586285,
+      "num": 378862,
+      "word": "邓州警方回应小女孩连续击打婴儿",
+      "onboard_time": 1661175570,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585383,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 535206,
-      "num": 301504,
+      "num": 301552,
       "word": "麦趣尔被罚7315.1万",
       "onboard_time": 1661172151,
       "rank": 24,
@@ -931,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429839,
+      "num": 372989,
+      "word": "鹿晗的狗是邓超送的",
+      "onboard_time": 1661176052,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426844,
       "num": 426844,
       "word": "男子趁核酸采样员小憩偷走扫码手机",
@@ -945,6 +977,14 @@
       "onboard_time": 1661136329,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 419852,
+      "num": 306020,
+      "word": "时代少年团用家乡话送中秋祝福",
+      "onboard_time": 1661176533,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 416711,
@@ -993,14 +1033,6 @@
       "onboard_time": 1661135970,
       "rank": 37,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 404628,
-      "num": 279874,
-      "word": "东方青苍没有业火了",
-      "onboard_time": 1661176111,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 402327,
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376757,
+      "num": 305138,
+      "word": "苍兰诀刀尖舔糖",
+      "onboard_time": 1661176412,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374903,
       "num": 374903,
       "word": "瘫痪男子坐轮椅上炒菜照顾妻儿",
@@ -1163,12 +1203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351973,
-      "num": 278282,
-      "word": "鹿晗的狗是邓超送的",
-      "onboard_time": 1661176052,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 348636,
+      "num": 193641,
+      "word": "苍兰夫妇试戏也要手牵手",
+      "onboard_time": 1661176833,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 345382,
@@ -1275,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324249,
+      "num": 324249,
+      "word": "马斯克去年薪酬超100亿美元",
+      "onboard_time": 1661174371,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 316831,
       "num": 316831,
       "word": "原神",
@@ -1323,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300901,
+      "num": 300901,
+      "word": "TES成为LPL首支晋级S12的队伍",
+      "onboard_time": 1661177555,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298907,
       "num": 208981,
       "word": "8月21日新增本土确诊360例",
@@ -1360,6 +1416,14 @@
       "word": "四川新增本土确诊病例4例",
       "onboard_time": 1661133930,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291314,
+      "num": 291314,
+      "word": "贾浅浅",
+      "onboard_time": 1661174911,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1465,14 +1529,6 @@
       "onboard_time": 1661090792,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277295,
-      "num": 277295,
-      "word": "贾浅浅",
-      "onboard_time": 1661174911,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277125,
@@ -1635,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261738,
+      "num": 186777,
+      "word": "冰雨火",
+      "onboard_time": 1661146710,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261349,
       "num": 261349,
       "word": "重庆多处山火被有力压制",
@@ -1779,14 +1843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243832,
-      "num": 243832,
-      "word": "马斯克去年薪酬超100亿美元",
-      "onboard_time": 1661174371,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 242268,
       "num": 242268,
       "word": "新能源汽车动力电池迎退役潮",
@@ -1825,14 +1881,6 @@
       "onboard_time": 1661136568,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235170,
-      "num": 121398,
-      "word": "苍兰诀刀尖舔糖",
-      "onboard_time": 1661176412,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 234162,
@@ -1881,14 +1929,6 @@
       "onboard_time": 1661151092,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226695,
-      "num": 226695,
-      "word": "邓州警方回应小女孩连续击打婴儿",
-      "onboard_time": 1661175570,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225602,
@@ -2067,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200319,
-      "num": 176470,
-      "word": "冰雨火",
-      "onboard_time": 1661146710,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199490,
       "num": 192589,
       "word": "唐周情没断法环断了",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1661157934,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 193805,
+      "num": 193805,
+      "word": "摊得像个烤全羊的小猫咪",
+      "onboard_time": 1661176354,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 192747,
@@ -2203,6 +2243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181396,
+      "num": 181396,
+      "word": "讨好型人格应该会很累吧",
+      "onboard_time": 1661174971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 180834,
+      "num": 180834,
+      "word": "饿了么免单",
+      "onboard_time": 1661177437,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 180796,
       "num": 180796,
       "word": "未发现人教社人员与吴勇有利益输送",
@@ -2227,6 +2283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175892,
+      "num": 175892,
+      "word": "AG扳平比分",
+      "onboard_time": 1661176711,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175849,
       "num": 175849,
       "word": "微博拟上线个人主页展示评论功能",
@@ -2240,6 +2304,14 @@
       "word": "四川绵阳市北川县3.2级地震",
       "onboard_time": 1661124022,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171919,
+      "num": 171919,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1661177314,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2257,14 +2329,6 @@
       "onboard_time": 1661155291,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169173,
-      "num": 169173,
-      "word": "讨好型人格应该会很累吧",
-      "onboard_time": 1661174971,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 167807,
@@ -2289,6 +2353,14 @@
       "onboard_time": 1661071409,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159362,
+      "num": 159362,
+      "word": "原来被爱的人会越来越漂亮",
+      "onboard_time": 1661177555,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 157894,
@@ -2395,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135816,
+      "num": 135816,
+      "word": "大理一景点被喷涂鸦游客谴责遭威胁",
+      "onboard_time": 1661177015,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 134517,
       "num": 134517,
       "word": "Sunnee杨芸晴给33点了个赞",
@@ -2449,14 +2529,6 @@
       "onboard_time": 1661092769,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 115066,
-      "num": 115066,
-      "word": "摊得像个烤全羊的小猫咪",
-      "onboard_time": 1661176354,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 114898,
