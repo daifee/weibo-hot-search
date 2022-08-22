@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661181934316,
+  "endTime": 1661182964075,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6962069,
-      "num": 6962069,
+      "raw_hot": 9176135,
+      "num": 9176135,
       "word": "林志颖被曝现状不好",
       "onboard_time": 1661179297,
       "rank": 0,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1546920,
-      "num": 538717,
+      "num": 1296378,
       "word": "女孩江苏买房每天坐高铁去上海上班",
       "onboard_time": 1661174852,
       "rank": 12,
@@ -459,12 +459,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 918794,
+      "num": 918794,
+      "word": "一诺状态",
+      "onboard_time": 1661181879,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 908911,
       "num": 908911,
       "word": "贵州赤水山火",
       "onboard_time": 1661096130,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 897339,
+      "num": 897339,
+      "word": "KSG战胜AG",
+      "onboard_time": 1661181879,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 892560,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732061,
+      "num": 732061,
+      "word": "不存在2022年红绿灯新国标",
+      "onboard_time": 1661180199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725304,
       "num": 725304,
       "word": "程潇演的洛神",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 721429,
-      "num": 528988,
+      "num": 604807,
       "word": "赵露思说和吴磊都是搞笑人",
       "onboard_time": 1661178034,
       "rank": 20,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 564543,
-      "num": 314385,
+      "num": 509406,
       "word": "东北盒饭真是过分实在了",
       "onboard_time": 1661178034,
       "rank": 24,
@@ -753,14 +777,6 @@
       "onboard_time": 1661179114,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 553042,
-      "num": 553042,
-      "word": "不存在2022年红绿灯新国标",
-      "onboard_time": 1661180199,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 550775,
@@ -840,6 +856,14 @@
       "word": "00后老板每月给员工发汉服基金",
       "onboard_time": 1661143536,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520177,
+      "num": 323381,
+      "word": "男子偷价值10万自行车100元卖掉",
+      "onboard_time": 1661179473,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1123,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401903,
-      "num": 308766,
-      "word": "男子偷价值10万自行车100元卖掉",
-      "onboard_time": 1661179473,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401400,
       "num": 401400,
       "word": "102岁外婆害羞说泡泡吹大了",
@@ -1179,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389286,
+      "num": 389286,
+      "word": "AG遗憾淘汰",
+      "onboard_time": 1661181819,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384218,
       "num": 384218,
       "word": "小狗被铁丝勒脖子跑进消防站求助",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1661152831,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382038,
+      "num": 322862,
+      "word": "用完的酱油瓶千万不要扔",
+      "onboard_time": 1661179717,
+      "rank": 23,
+      "category": "其它"
     },
     {
       "raw_hot": 381423,
@@ -1339,14 +1371,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 340968,
-      "num": 307130,
-      "word": "用完的酱油瓶千万不要扔",
-      "onboard_time": 1661179717,
-      "rank": 23,
-      "category": "其它"
-    },
-    {
       "raw_hot": 340609,
       "num": 340609,
       "word": "玉骨遥",
@@ -1411,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326242,
-      "num": 139958,
-      "word": "KSG战胜AG",
-      "onboard_time": 1661181879,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 324396,
       "num": 243006,
       "word": "王嘉尔音乐节现场喝香槟",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1661125283,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315232,
+      "num": 315232,
+      "word": "容昊 上帝视角",
+      "onboard_time": 1661180797,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 315013,
@@ -1497,14 +1521,6 @@
       "onboard_time": 1661137710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292398,
-      "num": 276291,
-      "word": "容昊 上帝视角",
-      "onboard_time": 1661180797,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 292294,
@@ -2027,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229903,
+      "num": 229903,
+      "word": "公安部辟谣2022红绿灯新国标",
+      "onboard_time": 1661181518,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227216,
       "num": 181093,
       "word": "李帝努送玫瑰",
@@ -2163,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208624,
+      "num": 208624,
+      "word": "摊得像个烤全羊的小猫咪",
+      "onboard_time": 1661176354,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208023,
       "num": 208023,
       "word": "三星发布会",
@@ -2243,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200474,
+      "num": 200474,
+      "word": "本座从未爱过你",
+      "onboard_time": 1661179357,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199490,
       "num": 192589,
       "word": "唐周情没断法环断了",
@@ -2315,22 +2355,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 193805,
-      "num": 193805,
-      "word": "摊得像个烤全羊的小猫咪",
-      "onboard_time": 1661176354,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 193001,
-      "num": 193001,
-      "word": "公安部辟谣2022红绿灯新国标",
-      "onboard_time": 1661181518,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192747,
       "num": 192747,
       "word": "第一次见会铺床的兔子",
@@ -2385,6 +2409,14 @@
       "onboard_time": 1661124201,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185270,
+      "num": 185270,
+      "word": "奉节山火",
+      "onboard_time": 1661182361,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185043,
@@ -2507,6 +2539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157242,
+      "num": 157242,
+      "word": "欠钱的朋友把小狗送我了",
+      "onboard_time": 1661182717,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "嫁给会做饭的男人是种什么体验",
+      "onboard_time": 1661179717,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156656,
       "num": 156656,
       "word": "KSG对战AG",
@@ -2539,14 +2587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150771,
-      "num": 150771,
-      "word": "AG遗憾淘汰",
-      "onboard_time": 1661181819,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148560,
       "num": 148560,
       "word": "TES",
@@ -2561,14 +2601,6 @@
       "onboard_time": 1661093853,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147214,
-      "num": 147214,
-      "word": "嫁给会做饭的男人是种什么体验",
-      "onboard_time": 1661179717,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 144994,
@@ -2649,14 +2681,6 @@
       "onboard_time": 1661093610,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129762,
-      "num": 129762,
-      "word": "一诺状态",
-      "onboard_time": 1661181879,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 126921,
