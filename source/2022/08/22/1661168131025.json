@@ -1,0 +1,410 @@
+{
+  "runTime": 1661168131025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2487505,
+        "num": 2487505,
+        "word": "机构鉴定戚薇直播间卖假货",
+        "onboard_time": 1661151629,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1784215,
+        "num": 1784215,
+        "word": "张朝阳建议大家少睡觉",
+        "onboard_time": 1661158411,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94719,
+        "num": 1241253,
+        "word": "2022夏天那些闪亮瞬间",
+        "onboard_time": 1661158174,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1129394,
+        "num": 1129394,
+        "word": "鹿晗说三十岁最大差别是思考总结变多",
+        "onboard_time": 1661166209,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044109,
+        "num": 1044109,
+        "word": "共享充电宝涨至4元每小时",
+        "onboard_time": 1661162072,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 858172,
+        "num": 858172,
+        "word": "女子换肾34年打工赚药钱置房产",
+        "onboard_time": 1661160272,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848607,
+        "num": 848607,
+        "word": "海南2030年全面禁止销售燃油汽车",
+        "onboard_time": 1661152470,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816691,
+        "num": 816691,
+        "word": "成毅沉香重华新娘妆",
+        "onboard_time": 1661165371,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585052,
+        "num": 585052,
+        "word": "鸡被偷走炖熟民警一锅端还给失主",
+        "onboard_time": 1661165430,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537523,
+        "num": 537523,
+        "word": "一个班31名同学考上了浙大",
+        "onboard_time": 1661160691,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1191180,
+        "num": 532359,
+        "word": "姜广涛 绘旅人",
+        "onboard_time": 1661167350,
+        "rank": 10,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 502882,
+        "num": 502882,
+        "word": "孕妇偷吃辣条被发现后狂炫",
+        "onboard_time": 1661152232,
+        "rank": 11,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 500280,
+        "num": 500280,
+        "word": "浙江龙游6名落水人员已不幸遇难",
+        "onboard_time": 1661163032,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 483967,
+        "num": 483967,
+        "word": "吴磊凌不疑定妆照",
+        "onboard_time": 1661160633,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476833,
+        "num": 476833,
+        "word": "TNT训练集",
+        "onboard_time": 1661167050,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447920,
+        "num": 447920,
+        "word": "长期喝冰水的人后来都怎么样了",
+        "onboard_time": 1661135311,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 442331,
+        "num": 442331,
+        "word": "猫咪因主人出事后更加粘人",
+        "onboard_time": 1661163692,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403428,
+        "num": 403428,
+        "word": "ofo公众号发擦边推文",
+        "onboard_time": 1661166450,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 363151,
+        "num": 363151,
+        "word": "作家称删除自己被盗版链接需30年",
+        "onboard_time": 1661166991,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320470,
+        "num": 320470,
+        "word": "成都将在8月26日退出高温行列",
+        "onboard_time": 1661166750,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399285,
+        "num": 319517,
+        "word": "王嘉尔音乐节上喊自己是Chineseboy",
+        "onboard_time": 1661165371,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357489,
+        "num": 318421,
+        "word": "古偶男二人设天花板",
+        "onboard_time": 1661150492,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317147,
+        "num": 317147,
+        "word": "5岁男童被家中狼狗咬掉耳朵",
+        "onboard_time": 1661155112,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 306939,
+        "num": 306939,
+        "word": "北京磨砂云",
+        "onboard_time": 1661163331,
+        "rank": 23,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 298686,
+        "num": 298686,
+        "word": "香飘飘半年赔上亿",
+        "onboard_time": 1661149591,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 292200,
+        "num": 292200,
+        "word": "IVE回归",
+        "onboard_time": 1661160212,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268656,
+        "num": 268656,
+        "word": "睡眠不足7小时的人胳膊大腿更粗",
+        "onboard_time": 1661167709,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265774,
+        "num": 265774,
+        "word": "云南特色凉卷粉有多绝",
+        "onboard_time": 1661166870,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261154,
+        "num": 261154,
+        "word": "原神",
+        "onboard_time": 1661165012,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 493765,
+        "num": 260865,
+        "word": "川渝好像有高温结界",
+        "onboard_time": 1661162432,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290784,
+        "num": 260735,
+        "word": "张睿哭戏梦回五阿哥",
+        "onboard_time": 1661166927,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259724,
+        "num": 259724,
+        "word": "刘奕君贡献了冰雨火里唯一的吻戏",
+        "onboard_time": 1661153071,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239986,
+        "num": 239986,
+        "word": "2岁宝宝果核卡气管10天后竟发芽",
+        "onboard_time": 1661152591,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247358,
+        "num": 233729,
+        "word": "王一博陈晓冰雨火没有吻戏",
+        "onboard_time": 1661160872,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224478,
+        "num": 224478,
+        "word": "江疏影说欢乐颂3今晚秒变悬疑剧",
+        "onboard_time": 1661165249,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220017,
+        "num": 220017,
+        "word": "8岁男童因父母过度训斥致抽动症",
+        "onboard_time": 1661157152,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219524,
+        "num": 219524,
+        "word": "重庆火灾一线消防员睡姿让人心疼",
+        "onboard_time": 1661165851,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214740,
+        "num": 214740,
+        "word": "JonyJ2022南京演唱会官宣了",
+        "onboard_time": 1661162612,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194598,
+        "num": 194598,
+        "word": "女子遇电诈脱身及时倒赚8000元",
+        "onboard_time": 1661159551,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193627,
+        "num": 193627,
+        "word": "在南方生活真的需要点勇气",
+        "onboard_time": 1661166272,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203103,
+        "num": 192905,
+        "word": "张彬彬虞书欣录制你好星期六",
+        "onboard_time": 1661153251,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192070,
+        "num": 192070,
+        "word": "大连海关将20吨洋垃圾退运出境",
+        "onboard_time": 1661153912,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186560,
+        "num": 186560,
+        "word": "你会在意现任心里装着前任吗",
+        "onboard_time": 1661163870,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186107,
+        "num": 186107,
+        "word": "首套房贷利率已比2009年低",
+        "onboard_time": 1661151991,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 178285,
+        "num": 178285,
+        "word": "四川高温农户30亩葡萄热成干",
+        "onboard_time": 1661151750,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168389,
+        "num": 168389,
+        "word": "养了只黑猫有多难找",
+        "onboard_time": 1661162310,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163073,
+        "num": 163073,
+        "word": "TES对战EDG",
+        "onboard_time": 1661153251,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233233,
+        "num": 158871,
+        "word": "共享充电宝客服回应涨价",
+        "onboard_time": 1661168069,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148519,
+        "num": 148519,
+        "word": "男子开斗气车致1死3伤获刑10年4个月",
+        "onboard_time": 1661167950,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 132357,
+        "num": 132357,
+        "word": "河南多所高校通知暂缓返校",
+        "onboard_time": 1661167890,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}
