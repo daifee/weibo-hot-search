@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661189941551,
+  "endTime": 1661192814576,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -1675,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280209,
+      "num": 107499,
+      "word": "小兰花要死了",
+      "onboard_time": 1661189836,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279496,
       "num": 279496,
       "word": "Doinb",
@@ -2795,6 +2803,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 107319,
+      "num": 107319,
+      "word": "北京各高校严格校门管理",
+      "onboard_time": 1661189179,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
@@ -2827,28 +2843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54161,
-      "num": 54006,
-      "word": "小兰花要死了",
-      "onboard_time": 1661189836,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 49036,
-      "num": 49036,
-      "word": "北京各高校严格校门管理",
-      "onboard_time": 1661189179,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 46508,
       "num": 46508,
       "word": "岸田文雄出现低烧咳嗽等症状",
       "onboard_time": 1661111172,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 45208,
+      "num": 45208,
+      "word": "林峯粤语新歌楼下有人",
+      "onboard_time": 1661188938,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 43827,

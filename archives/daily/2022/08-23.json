@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661189941551,
+  "endTime": 1661192814576,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -177,6 +177,14 @@
       "onboard_time": 1661182717,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280209,
+      "num": 107499,
+      "word": "小兰花要死了",
+      "onboard_time": 1661189836,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 256843,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107319,
+      "num": 107319,
+      "word": "北京各高校严格校门管理",
+      "onboard_time": 1661189179,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 101405,
       "num": 101405,
       "word": "ive空降",
@@ -411,20 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54161,
-      "num": 54006,
-      "word": "小兰花要死了",
-      "onboard_time": 1661189836,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 49036,
-      "num": 49036,
-      "word": "北京各高校严格校门管理",
-      "onboard_time": 1661189179,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 45208,
+      "num": 45208,
+      "word": "林峯粤语新歌楼下有人",
+      "onboard_time": 1661188938,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 16539,
