@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661185758506,
+  "endTime": 1661187181450,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -227,8 +227,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1290327,
-      "num": 1290327,
+      "raw_hot": 1297540,
+      "num": 1297540,
       "word": "一诺状态",
       "onboard_time": 1661181879,
       "rank": 49,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1058887,
+      "num": 443783,
+      "word": "吴露可逃",
+      "onboard_time": 1661183912,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1058666,
       "num": 1058666,
       "word": "白漂亮消失了",
@@ -417,14 +425,6 @@
       "onboard_time": 1661149591,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1020303,
-      "num": 443783,
-      "word": "吴露可逃",
-      "onboard_time": 1661183912,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1014676,
@@ -497,6 +497,14 @@
       "onboard_time": 1661165371,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 857908,
+      "num": 857908,
+      "word": "被狗狗离家去世前的监控整破防了",
+      "onboard_time": 1661183673,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 845524,
@@ -875,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517609,
-      "num": 433118,
-      "word": "被狗狗离家去世前的监控整破防了",
-      "onboard_time": 1661183673,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 515432,
       "num": 515432,
       "word": "王一博陈晓冰雨火没有吻戏",
@@ -937,6 +937,14 @@
       "onboard_time": 1661092953,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 488568,
+      "num": 488568,
+      "word": "本座从未爱过你",
+      "onboard_time": 1661179357,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 485952,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1661169511,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466483,
-      "num": 447314,
-      "word": "本座从未爱过你",
-      "onboard_time": 1661179357,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 460417,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1661135970,
       "rank": 37,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 404894,
+      "num": 231724,
+      "word": "滴滴高德曹操首汽等11家公司被约谈",
+      "onboard_time": 1661183854,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402327,
@@ -1371,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345848,
+      "num": 320388,
+      "word": "如果蔡某抄对了题",
+      "onboard_time": 1661183196,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 345382,
       "num": 345382,
       "word": "河南多所高校通知暂缓返校",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1661152410,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 320388,
-      "num": 320388,
-      "word": "如果蔡某抄对了题",
-      "onboard_time": 1661183196,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 316831,
@@ -2067,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231724,
-      "num": 231724,
-      "word": "滴滴高德曹操首汽等11家公司被约谈",
-      "onboard_time": 1661183854,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231003,
       "num": 205486,
       "word": "王鹤润替叶勤勤道歉",
@@ -2555,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167497,
+      "num": 167497,
+      "word": "漫威总部空降上海",
+      "onboard_time": 1661180917,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "上海未启用网传新版红绿灯",
@@ -2731,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "KSG锁定第三轮",
+      "onboard_time": 1661186124,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126921,
       "num": 150251,
       "word": "炮兵野外考核车内温度高达50度",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1661124744,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100024,
-      "num": 100024,
-      "word": "漫威总部空降上海",
-      "onboard_time": 1661180917,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 79322,

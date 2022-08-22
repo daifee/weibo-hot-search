@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661185758506,
+  "endTime": 1661187181450,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1290327,
-      "num": 1290327,
+      "raw_hot": 1297540,
+      "num": 1297540,
       "word": "一诺状态",
       "onboard_time": 1661181879,
       "rank": 1,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1020303,
+      "raw_hot": 1058887,
       "num": 443783,
       "word": "吴露可逃",
       "onboard_time": 1661183912,
@@ -41,6 +41,14 @@
       "onboard_time": 1661174852,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857908,
+      "num": 857908,
+      "word": "被狗狗离家去世前的监控整破防了",
+      "onboard_time": 1661183673,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 776138,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517609,
-      "num": 433118,
-      "word": "被狗狗离家去世前的监控整破防了",
-      "onboard_time": 1661183673,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 488568,
+      "num": 488568,
+      "word": "本座从未爱过你",
+      "onboard_time": 1661179357,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 471464,
@@ -80,14 +88,6 @@
       "word": "看给月主吓的",
       "onboard_time": 1661179114,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 466483,
-      "num": 447314,
-      "word": "本座从未爱过你",
-      "onboard_time": 1661179357,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1661180797,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404894,
+      "num": 231724,
+      "word": "滴滴高德曹操首汽等11家公司被约谈",
+      "onboard_time": 1661183854,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403203,
@@ -155,20 +163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345848,
+      "num": 320388,
+      "word": "如果蔡某抄对了题",
+      "onboard_time": 1661183196,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 345030,
       "num": 345030,
       "word": "欠钱的朋友把小狗送我了",
       "onboard_time": 1661182717,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320388,
-      "num": 320388,
-      "word": "如果蔡某抄对了题",
-      "onboard_time": 1661183196,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 256843,
@@ -193,14 +201,6 @@
       "onboard_time": 1661176111,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231724,
-      "num": 231724,
-      "word": "滴滴高德曹操首汽等11家公司被约谈",
-      "onboard_time": 1661183854,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228714,
@@ -251,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181033,
+      "num": 160902,
+      "word": "苍兰诀",
+      "onboard_time": 1661186005,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "一诺公孙离三杀",
@@ -265,6 +273,14 @@
       "onboard_time": 1661177015,
       "rank": 33,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 167497,
+      "num": 167497,
+      "word": "漫威总部空降上海",
+      "onboard_time": 1661180917,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 163627,
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "KSG锁定第三轮",
+      "onboard_time": 1661186124,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125265,
       "num": 125265,
       "word": "王一博陈宇叉腰",
@@ -347,20 +371,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123705,
+      "num": 123705,
+      "word": "成都将在8月26日退出高温行列",
+      "onboard_time": 1661166750,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115884,
       "num": 115884,
       "word": "摊得像个烤全羊的小猫咪",
       "onboard_time": 1661176354,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113633,
-      "num": 113633,
-      "word": "成都将在8月26日退出高温行列",
-      "onboard_time": 1661166750,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108310,
@@ -377,14 +401,6 @@
       "onboard_time": 1661168311,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 100024,
-      "num": 100024,
-      "word": "漫威总部空降上海",
-      "onboard_time": 1661180917,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 90794,
