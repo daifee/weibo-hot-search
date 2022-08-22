@@ -1,0 +1,410 @@
+{
+  "runTime": 1661193858228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 607682,
+        "num": 607682,
+        "word": "林志颖被曝现状不好",
+        "onboard_time": 1661179297,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315746,
+        "num": 315746,
+        "word": "睡眠不足7小时的人胳膊大腿更粗",
+        "onboard_time": 1661167709,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5331,
+        "num": 303141,
+        "word": "2022夏天那些闪亮瞬间",
+        "onboard_time": 1661158174,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 302770,
+        "num": 302770,
+        "word": "被狗狗离家去世前的监控整破防了",
+        "onboard_time": 1661183673,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187680,
+        "num": 187680,
+        "word": "张朝阳建议大家少睡觉",
+        "onboard_time": 1661158411,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147448,
+        "num": 147448,
+        "word": "女孩江苏买房每天坐高铁去上海上班",
+        "onboard_time": 1661174852,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119029,
+        "num": 119029,
+        "word": "欠钱的朋友把小狗送我了",
+        "onboard_time": 1661182717,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112372,
+        "num": 112372,
+        "word": "本座从未爱过你",
+        "onboard_time": 1661179357,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95341,
+        "num": 95341,
+        "word": "男子偷价值10万自行车100元卖掉",
+        "onboard_time": 1661179473,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91117,
+        "num": 91117,
+        "word": "北京各高校严格校门管理",
+        "onboard_time": 1661189179,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 241615,
+        "num": 89803,
+        "word": "小兰花要死了",
+        "onboard_time": 1661189836,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121831,
+        "num": 87280,
+        "word": "滴滴高德曹操首汽等11家公司被约谈",
+        "onboard_time": 1661183854,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120099,
+        "num": 86728,
+        "word": "吴露可逃",
+        "onboard_time": 1661183912,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83142,
+        "num": 83142,
+        "word": "一诺状态",
+        "onboard_time": 1661181879,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80732,
+        "num": 80732,
+        "word": "漫威总部空降上海",
+        "onboard_time": 1661180917,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 76897,
+        "num": 76897,
+        "word": "邓州警方回应小女孩连续击打婴儿",
+        "onboard_time": 1661175570,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74725,
+        "num": 74725,
+        "word": "不存在2022年红绿灯新国标",
+        "onboard_time": 1661180199,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73319,
+        "num": 73319,
+        "word": "赵露思说和吴磊都是搞笑人",
+        "onboard_time": 1661178034,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71853,
+        "num": 71853,
+        "word": "如果蔡某抄对了题",
+        "onboard_time": 1661183196,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 69967,
+        "num": 69967,
+        "word": "男生把洗面奶当牙膏用2个月",
+        "onboard_time": 1661172632,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62377,
+        "num": 62377,
+        "word": "东北盒饭真是过分实在了",
+        "onboard_time": 1661178034,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 51383,
+        "num": 51383,
+        "word": "俄方称谋杀杜金娜凶手是乌克兰人",
+        "onboard_time": 1661173829,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 51183,
+        "num": 51183,
+        "word": "鹿晗的狗是邓超送的",
+        "onboard_time": 1661176052,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47720,
+        "num": 47720,
+        "word": "男子开斗气车致1死3伤获刑10年4个月",
+        "onboard_time": 1661167950,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 47428,
+        "num": 47428,
+        "word": "奉节山火",
+        "onboard_time": 1661182361,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46662,
+        "num": 46662,
+        "word": "姜广涛 绘旅人",
+        "onboard_time": 1661167350,
+        "rank": 25,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 45911,
+        "num": 45911,
+        "word": "容昊 上帝视角",
+        "onboard_time": 1661180797,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45757,
+        "num": 45757,
+        "word": "刘宪华和韩国女舞者合作POWER",
+        "onboard_time": 1661192894,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45089,
+        "num": 45089,
+        "word": "大理一景点被喷涂鸦游客谴责遭威胁",
+        "onboard_time": 1661177015,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 44743,
+        "num": 44743,
+        "word": "麦趣尔被罚7315.1万",
+        "onboard_time": 1661172151,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43335,
+        "num": 43335,
+        "word": "看给月主吓的",
+        "onboard_time": 1661179114,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40356,
+        "num": 40356,
+        "word": "TES成为LPL首支晋级S12的队伍",
+        "onboard_time": 1661177555,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38824,
+        "num": 38824,
+        "word": "爱思嘲讽",
+        "onboard_time": 1661172693,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38229,
+        "num": 38229,
+        "word": "白漂亮消失了",
+        "onboard_time": 1661174911,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35074,
+        "num": 35074,
+        "word": "成都将在8月26日退出高温行列",
+        "onboard_time": 1661166750,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34933,
+        "num": 34933,
+        "word": "女子换肾34年打工赚药钱置房产",
+        "onboard_time": 1661160272,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33399,
+        "num": 33399,
+        "word": "贾浅浅",
+        "onboard_time": 1661174911,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33304,
+        "num": 33304,
+        "word": "东方青苍没有业火了",
+        "onboard_time": 1661176111,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29128,
+        "num": 29128,
+        "word": "一曲的不知火舞",
+        "onboard_time": 1661183074,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29096,
+        "num": 29096,
+        "word": "林峯粤语新歌楼下有人",
+        "onboard_time": 1661188938,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29017,
+        "num": 29017,
+        "word": "嫁给会做饭的男人是种什么体验",
+        "onboard_time": 1661179717,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28310,
+        "num": 28310,
+        "word": "马斯克去年薪酬超100亿美元",
+        "onboard_time": 1661174371,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28162,
+        "num": 28162,
+        "word": "余生请多指教获得腾讯业务突破奖",
+        "onboard_time": 1661171730,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28137,
+        "num": 28137,
+        "word": "成毅沉香重华新娘妆",
+        "onboard_time": 1661165371,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27350,
+        "num": 27350,
+        "word": "男子改造公主房驾驶室带女儿跑车",
+        "onboard_time": 1661178454,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23906,
+        "num": 23906,
+        "word": "AG遗憾淘汰",
+        "onboard_time": 1661181819,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23575,
+        "num": 23575,
+        "word": "KSG战胜AG",
+        "onboard_time": 1661181879,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23061,
+        "num": 23061,
+        "word": "一诺公孙离三杀",
+        "onboard_time": 1661184274,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23037,
+        "num": 23037,
+        "word": "摊得像个烤全羊的小猫咪",
+        "onboard_time": 1661176354,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17052,
+        "num": 17052,
+        "word": "用完的酱油瓶千万不要扔",
+        "onboard_time": 1661179717,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些国际标准是中国造#"
+    }
+  }
+}
