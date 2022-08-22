@@ -1,0 +1,410 @@
+{
+  "runTime": 1661134245979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13159971,
+        "num": 13159971,
+        "word": "中秋节不调休",
+        "onboard_time": 1661127267,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9708066,
+        "num": 9708066,
+        "word": "新版红绿灯",
+        "onboard_time": 1661095713,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17625,
+        "num": 2011546,
+        "word": "重温方志敏可爱的中国",
+        "onboard_time": 1661038882,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1812763,
+        "num": 1812763,
+        "word": "杨洋微微一笑很倾城播出六周年",
+        "onboard_time": 1661129730,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1261668,
+        "num": 1261668,
+        "word": "女子41度高温天玩漂流失温",
+        "onboard_time": 1661128590,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971822,
+        "num": 971822,
+        "word": "新国标红绿灯取消读秒",
+        "onboard_time": 1661131408,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929232,
+        "num": 929232,
+        "word": "华为Mate50官宣发布时间",
+        "onboard_time": 1661132012,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 859566,
+        "num": 859566,
+        "word": "重庆山火",
+        "onboard_time": 1661081731,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 805393,
+        "num": 805393,
+        "word": "人们为什么不爱买无印良品了",
+        "onboard_time": 1661093734,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 688285,
+        "num": 688285,
+        "word": "昆明一对夫妻刻意隐瞒行程被受案调查",
+        "onboard_time": 1661129011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773484,
+        "num": 657108,
+        "word": "川渝人民要哭了",
+        "onboard_time": 1661095112,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611325,
+        "num": 611325,
+        "word": "刘雨昕送王一博香菜大礼包",
+        "onboard_time": 1661130152,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562701,
+        "num": 562701,
+        "word": "徐志胜熬夜假发片都熬掉了",
+        "onboard_time": 1661130031,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507905,
+        "num": 507905,
+        "word": "LPR",
+        "onboard_time": 1661130031,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38173,
+        "num": 479096,
+        "word": "67岁退伍军人患癌离世捐献眼角膜",
+        "onboard_time": 1661133627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476639,
+        "num": 476639,
+        "word": "今年让你真香的电视剧",
+        "onboard_time": 1661093911,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472096,
+        "num": 472096,
+        "word": "女生回村花半年工资为奶奶修水泥路",
+        "onboard_time": 1661125586,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401400,
+        "num": 401400,
+        "word": "102岁外婆害羞说泡泡吹大了",
+        "onboard_time": 1661123540,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392940,
+        "num": 392940,
+        "word": "格陵兰岛冰川融化大量稀有矿产显现",
+        "onboard_time": 1661125283,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380087,
+        "num": 380087,
+        "word": "没有一个年轻人能买到土豆",
+        "onboard_time": 1661090732,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379365,
+        "num": 379365,
+        "word": "姐姐担心遇到人贩子抱弟弟大喊跑回家",
+        "onboard_time": 1661132848,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377910,
+        "num": 377910,
+        "word": "印度番茄流感病例已超80例",
+        "onboard_time": 1661130572,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356977,
+        "num": 356977,
+        "word": "台风",
+        "onboard_time": 1661128948,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339174,
+        "num": 339174,
+        "word": "N1",
+        "onboard_time": 1661130811,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327011,
+        "num": 327011,
+        "word": "重庆已组织1500余人扑救巴南山火",
+        "onboard_time": 1661127989,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315499,
+        "num": 315499,
+        "word": "重庆高温把路都晒化了",
+        "onboard_time": 1661125283,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292294,
+        "num": 292294,
+        "word": "石家庄暴雨",
+        "onboard_time": 1661128170,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292277,
+        "num": 292277,
+        "word": "四川新增本土确诊病例4例",
+        "onboard_time": 1661133930,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290619,
+        "num": 290619,
+        "word": "苍兰诀",
+        "onboard_time": 1661088692,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288484,
+        "num": 288484,
+        "word": "重庆增本土确诊11例",
+        "onboard_time": 1661131890,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283591,
+        "num": 283591,
+        "word": "网传折腰主演暂定张晚意宋轶",
+        "onboard_time": 1661103617,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268775,
+        "num": 268775,
+        "word": "高中语文没有一篇课文是充数的",
+        "onboard_time": 1661092173,
+        "rank": 31,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 266114,
+        "num": 266114,
+        "word": "没有红绿灯和交通标志的路口咋过",
+        "onboard_time": 1661127989,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254123,
+        "num": 254123,
+        "word": "河南增本土确诊2例无症状16例",
+        "onboard_time": 1661133267,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248955,
+        "num": 248955,
+        "word": "西藏增55例确诊494例无症状",
+        "onboard_time": 1661132369,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248199,
+        "num": 248199,
+        "word": "高温包围圈肉眼可见要缩了",
+        "onboard_time": 1661133329,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242268,
+        "num": 242268,
+        "word": "新能源汽车动力电池迎退役潮",
+        "onboard_time": 1661130990,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238801,
+        "num": 238801,
+        "word": "四川的葡萄也有烦恼吧",
+        "onboard_time": 1661124201,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225128,
+        "num": 225128,
+        "word": "未来三天成都最高气温可达44℃",
+        "onboard_time": 1661125706,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214466,
+        "num": 214466,
+        "word": "程潇演的洛神",
+        "onboard_time": 1661096192,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197894,
+        "num": 197894,
+        "word": "石家庄多路段开车如行船",
+        "onboard_time": 1661130632,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195239,
+        "num": 195239,
+        "word": "缙云山",
+        "onboard_time": 1661128708,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194962,
+        "num": 194962,
+        "word": "苍兰诀制作人把口罩哭废了",
+        "onboard_time": 1661094393,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189237,
+        "num": 189237,
+        "word": "7岁小女孩独自横渡钱塘江",
+        "onboard_time": 1661133506,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 189148,
+        "word": "苍兰诀剧情",
+        "onboard_time": 1661126427,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187346,
+        "num": 187346,
+        "word": "河北暴雨致多辆汽车被泡漂浮",
+        "onboard_time": 1661133991,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186725,
+        "num": 186725,
+        "word": "广西贺州一村庄500年古樟树被砍",
+        "onboard_time": 1661133751,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179511,
+        "num": 179511,
+        "word": "于文文戎装花木兰好飒",
+        "onboard_time": 1661134050,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151451,
+        "num": 151451,
+        "word": "三亚增187例确诊363例无症状",
+        "onboard_time": 1661124684,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146676,
+        "num": 146676,
+        "word": "专家释疑京津冀现不明黑色昆虫",
+        "onboard_time": 1661097870,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗旱减灾渴不容缓#"
+    }
+  }
+}
