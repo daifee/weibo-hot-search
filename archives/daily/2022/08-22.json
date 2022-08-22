@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661177939696,
+  "endTime": 1661178956547,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1544809,
-      "num": 455453,
+      "raw_hot": 1546920,
+      "num": 467838,
       "word": "女孩江苏买房每天坐高铁去上海上班",
       "onboard_time": 1661174852,
       "rank": 12,
@@ -516,11 +516,19 @@
     },
     {
       "raw_hot": 765152,
-      "num": 455408,
+      "num": 467133,
       "word": "俄方称谋杀杜金娜凶手是乌克兰人",
       "onboard_time": 1661173829,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 762483,
+      "num": 762483,
+      "word": "TES成为LPL首支晋级S12的队伍",
+      "onboard_time": 1661177555,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 754178,
@@ -545,6 +553,14 @@
       "onboard_time": 1661096192,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721429,
+      "num": 290914,
+      "word": "赵露思说和吴磊都是搞笑人",
+      "onboard_time": 1661178034,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 712285,
@@ -603,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 634326,
+      "num": 452403,
+      "word": "邓州警方回应小女孩连续击打婴儿",
+      "onboard_time": 1661175570,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630528,
       "num": 630528,
       "word": "病人接近脑死亡谁有权利放弃治疗",
@@ -641,14 +665,6 @@
       "onboard_time": 1661140713,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 586285,
-      "num": 378862,
-      "word": "邓州警方回应小女孩连续击打婴儿",
-      "onboard_time": 1661175570,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585383,
@@ -795,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508764,
+      "num": 445489,
+      "word": "苍兰夫妇试戏也要手牵手",
+      "onboard_time": 1661176833,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -883,6 +907,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476098,
+      "num": 439020,
+      "word": "王一博陈宇叉腰",
+      "onboard_time": 1661178214,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 475346,
+      "num": 475346,
+      "word": "贾浅浅",
+      "onboard_time": 1661174911,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473279,
       "num": 473279,
       "word": "清川元梦去世",
@@ -947,20 +987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436770,
+      "num": 436770,
+      "word": "鹿晗的狗是邓超送的",
+      "onboard_time": 1661176052,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434677,
       "num": 434677,
       "word": "苍兰诀又要断更四天",
       "onboard_time": 1661140413,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429839,
-      "num": 372989,
-      "word": "鹿晗的狗是邓超送的",
-      "onboard_time": 1661176052,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 426844,
@@ -1155,6 +1195,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 373413,
+      "num": 373413,
+      "word": "马斯克去年薪酬超100亿美元",
+      "onboard_time": 1661174371,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 369623,
       "num": 369623,
       "word": "25小时恋爱",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1661135607,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348636,
-      "num": 193641,
-      "word": "苍兰夫妇试戏也要手牵手",
-      "onboard_time": 1661176833,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 345382,
@@ -1315,14 +1355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 324249,
-      "num": 324249,
-      "word": "马斯克去年薪酬超100亿美元",
-      "onboard_time": 1661174371,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 316831,
       "num": 316831,
       "word": "原神",
@@ -1371,14 +1403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300901,
-      "num": 300901,
-      "word": "TES成为LPL首支晋级S12的队伍",
-      "onboard_time": 1661177555,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 298907,
       "num": 208981,
       "word": "8月21日新增本土确诊360例",
@@ -1416,14 +1440,6 @@
       "word": "四川新增本土确诊病例4例",
       "onboard_time": 1661133930,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291314,
-      "num": 291314,
-      "word": "贾浅浅",
-      "onboard_time": 1661174911,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1739,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258949,
+      "num": 258949,
+      "word": "东北盒饭真是过分实在了",
+      "onboard_time": 1661178034,
+      "rank": 24,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 256754,
       "num": 192415,
       "word": "时代少年团中秋晚会舞台预告",
@@ -1883,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234968,
+      "num": 234968,
+      "word": "饿了么免单",
+      "onboard_time": 1661177437,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 234162,
       "num": 234162,
       "word": "苍兰诀 双向奔赴",
@@ -2011,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216129,
+      "num": 216129,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1661177314,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214639,
       "num": 214639,
       "word": "黄景瑜奇怪的个人技增加了",
@@ -2099,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203330,
+      "num": 203330,
+      "word": "AG扳平比分",
+      "onboard_time": 1661176711,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202773,
       "num": 202773,
       "word": "卜冠今画的周寻和齐颂",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1661161414,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198131,
+      "num": 198131,
+      "word": "讨好型人格应该会很累吧",
+      "onboard_time": 1661174971,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 197894,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1661163510,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194345,
+      "num": 194345,
+      "word": "大理一景点被喷涂鸦游客谴责遭威胁",
+      "onboard_time": 1661177015,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 194038,
@@ -2243,22 +2307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181396,
-      "num": 181396,
-      "word": "讨好型人格应该会很累吧",
-      "onboard_time": 1661174971,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 180834,
-      "num": 180834,
-      "word": "饿了么免单",
-      "onboard_time": 1661177437,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 180796,
       "num": 180796,
       "word": "未发现人教社人员与吴勇有利益输送",
@@ -2283,14 +2331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175892,
-      "num": 175892,
-      "word": "AG扳平比分",
-      "onboard_time": 1661176711,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175849,
       "num": 175849,
       "word": "微博拟上线个人主页展示评论功能",
@@ -2304,14 +2344,6 @@
       "word": "四川绵阳市北川县3.2级地震",
       "onboard_time": 1661124022,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171919,
-      "num": 171919,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1661177314,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2427,6 +2459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146066,
+      "num": 146066,
+      "word": "男子改造公主房驾驶室带女儿跑车",
+      "onboard_time": 1661178454,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144994,
       "num": 144994,
       "word": "卡塞米罗告别仪式",
@@ -2467,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135816,
-      "num": 135816,
-      "word": "大理一景点被喷涂鸦游客谴责遭威胁",
-      "onboard_time": 1661177015,
-      "rank": 49,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 134517,
       "num": 134517,
       "word": "Sunnee杨芸晴给33点了个赞",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1661081248,
       "rank": 44,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 131473,
+      "num": 131473,
+      "word": "张玉宁两度失点",
+      "onboard_time": 1661178394,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130513,
