@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661210521321,
+  "endTime": 1661211486189,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -9,6 +9,14 @@
       "onboard_time": 1661179297,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1526305,
+      "num": 1526305,
+      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+      "onboard_time": 1661207476,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1297540,
@@ -24,14 +32,6 @@
       "word": "睡眠不足7小时的人胳膊大腿更粗",
       "onboard_time": 1661167709,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140553,
-      "num": 1140553,
-      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
-      "onboard_time": 1661207476,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 560492,
-      "num": 438554,
+      "num": 449771,
       "word": "男子偷价值10万自行车100元卖掉",
       "onboard_time": 1661179473,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458828,
+      "num": 458828,
+      "word": "一个坏医生是否会带崩整个湘雅系",
+      "onboard_time": 1661210062,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451734,
       "num": 451734,
       "word": "男生把洗面奶当牙膏用2个月",
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428825,
+      "num": 428825,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403203,
       "num": 403203,
       "word": "东北盒饭真是过分实在了",
@@ -137,14 +153,6 @@
       "onboard_time": 1661178034,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 377661,
-      "num": 377661,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372995,
@@ -195,12 +203,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 322910,
-      "num": 322910,
+      "raw_hot": 334540,
+      "num": 334540,
       "word": "小兰花要死了",
       "onboard_time": 1661189836,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307565,
+      "num": 307565,
+      "word": "如何判断自己是否处于疲劳状态",
+      "onboard_time": 1661209701,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286868,
+      "num": 286868,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 264558,
+      "num": 264558,
+      "word": "处暑",
+      "onboard_time": 1661210367,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264489,
+      "num": 264489,
+      "word": "曼联2比1利物浦",
+      "onboard_time": 1661210302,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 256843,
@@ -219,20 +259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253365,
+      "num": 253365,
+      "word": "李立群发视频澄清网传截图",
+      "onboard_time": 1661210723,
+      "rank": 20,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 244099,
       "num": 244099,
       "word": "东方青苍没有业火了",
       "onboard_time": 1661176111,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243489,
-      "num": 243489,
-      "word": "沙特阿拉伯批准微软收购暴雪",
-      "onboard_time": 1661203030,
-      "rank": 49,
-      "category": "科技,游戏"
     },
     {
       "raw_hot": 239258,
@@ -259,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204615,
-      "num": 204615,
-      "word": "曼联2比1利物浦",
-      "onboard_time": 1661210302,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 200116,
+      "num": 200116,
+      "word": "漫威总部空降上海",
+      "onboard_time": 1661180917,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 194795,
@@ -299,20 +339,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183085,
-      "num": 183085,
-      "word": "处暑",
-      "onboard_time": 1661210367,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181033,
       "num": 160902,
       "word": "苍兰诀",
       "onboard_time": 1661186005,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179735,
+      "num": 179735,
+      "word": "处暑 节气",
+      "onboard_time": 1661210845,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173645,
@@ -331,12 +371,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 167497,
-      "num": 167497,
-      "word": "漫威总部空降上海",
-      "onboard_time": 1661180917,
-      "rank": 48,
-      "category": "旅游,社会新闻"
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "何悯鸿你为什么不听劝",
+      "onboard_time": 1661208676,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 163627,
@@ -345,6 +385,14 @@
       "onboard_time": 1661167350,
       "rank": 34,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 160508,
+      "num": 160508,
+      "word": "曾志伟确诊新冠",
+      "onboard_time": 1661211145,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 158971,
@@ -363,6 +411,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 157839,
+      "num": 157839,
+      "word": "北京各高校严格校门管理",
+      "onboard_time": 1661189179,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156732,
+      "num": 156732,
+      "word": "疫情结束后一起去秦皇岛吧",
+      "onboard_time": 1661208618,
+      "rank": 38,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -379,20 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146977,
-      "num": 146977,
-      "word": "北京各高校严格校门管理",
-      "onboard_time": 1661189179,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 141629,
-      "num": 141629,
-      "word": "一个坏医生是否会带崩整个湘雅系",
-      "onboard_time": 1661210062,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 140015,
+      "num": 140015,
+      "word": "恋爱里的松弛感有多重要",
+      "onboard_time": 1661206693,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 134868,
@@ -411,11 +467,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133380,
-      "num": 133380,
-      "word": "如何判断自己是否处于疲劳状态",
-      "onboard_time": 1661209701,
-      "rank": 29,
+      "raw_hot": 131376,
+      "num": 131376,
+      "word": "男子改造公主房驾驶室带女儿跑车",
+      "onboard_time": 1661178454,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -425,6 +481,14 @@
       "onboard_time": 1661174911,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129766,
+      "num": 129766,
+      "word": "北京远郊区新房成交量大涨",
+      "onboard_time": 1661210964,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129721,
@@ -459,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119168,
+      "num": 119168,
+      "word": "CCTV6将播普罗米亚",
+      "onboard_time": 1661211206,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115884,
       "num": 115884,
       "word": "摊得像个烤全羊的小猫咪",
@@ -475,12 +547,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111388,
-      "num": 111388,
-      "word": "男子改造公主房驾驶室带女儿跑车",
-      "onboard_time": 1661178454,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 110731,
+      "num": 110731,
+      "word": "苍兰诀片场的王鹤棣",
+      "onboard_time": 1661210121,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105902,
+      "num": 105902,
+      "word": "王楠告别乒坛14周年",
+      "onboard_time": 1661205974,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101405,
@@ -491,28 +571,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 95558,
-      "num": 95558,
-      "word": "疫情结束后一起去秦皇岛吧",
-      "onboard_time": 1661208618,
-      "rank": 38,
-      "category": "旅游,情感"
+      "raw_hot": 100440,
+      "num": 100440,
+      "word": "处暑意味着炎炎夏日即将结束",
+      "onboard_time": 1661210664,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 94250,
-      "num": 94250,
-      "word": "何悯鸿你为什么不听劝",
-      "onboard_time": 1661208676,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 93192,
-      "num": 93192,
-      "word": "恋爱里的松弛感有多重要",
-      "onboard_time": 1661206693,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "5旬大妈站吊桥上恶意摇晃半小时",
+      "onboard_time": 1661211385,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90794,
@@ -521,22 +593,6 @@
       "onboard_time": 1661165430,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80496,
-      "num": 80496,
-      "word": "王楠告别乒坛14周年",
-      "onboard_time": 1661205974,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 78288,
-      "num": 78288,
-      "word": "苍兰诀片场的王鹤棣",
-      "onboard_time": 1661210121,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 45208,
@@ -563,7 +619,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16539,
+      "raw_hot": 17759,
       "num": 1280302,
       "word": "2022夏天那些闪亮瞬间",
       "onboard_time": 1661158174,

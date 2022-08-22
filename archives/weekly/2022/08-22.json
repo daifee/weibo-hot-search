@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661210521321,
+  "endTime": 1661211486189,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1526305,
+      "num": 1526305,
+      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+      "onboard_time": 1661207476,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1434430,
       "num": 1434430,
       "word": "IVE回归",
@@ -329,14 +337,6 @@
       "onboard_time": 1661134471,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1140553,
-      "num": 1140553,
-      "word": "女子尿血1年取出20厘米蚯蚓状血丝",
-      "onboard_time": 1661207476,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1129394,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 560492,
-      "num": 438554,
+      "num": 449771,
       "word": "男子偷价值10万自行车100元卖掉",
       "onboard_time": 1661179473,
       "rank": 22,
@@ -1075,6 +1075,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 458828,
+      "num": 458828,
+      "word": "一个坏医生是否会带崩整个湘雅系",
+      "onboard_time": 1661210062,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451833,
       "num": 451833,
       "word": "猫咪因主人出事后更加粘人",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1661180797,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 428825,
+      "num": 428825,
+      "word": "女孩吹空调加重鼻炎频繁流鼻血",
+      "onboard_time": 1661199251,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426844,
@@ -1307,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377661,
-      "num": 377661,
-      "word": "女孩吹空调加重鼻炎频繁流鼻血",
-      "onboard_time": 1661199251,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376757,
       "num": 305138,
       "word": "苍兰诀刀尖舔糖",
@@ -1475,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334540,
+      "num": 334540,
+      "word": "小兰花要死了",
+      "onboard_time": 1661189836,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330129,
       "num": 330129,
       "word": "迪士尼回应游客录拍创极速光轮",
@@ -1515,14 +1531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 322910,
-      "num": 322910,
-      "word": "小兰花要死了",
-      "onboard_time": 1661189836,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 316831,
       "num": 316831,
       "word": "原神",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1661160393,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307565,
+      "num": 307565,
+      "word": "如何判断自己是否处于疲劳状态",
+      "onboard_time": 1661209701,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306939,
@@ -1641,6 +1657,14 @@
       "onboard_time": 1661131890,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286868,
+      "num": 286868,
+      "word": "沙特阿拉伯批准微软收购暴雪",
+      "onboard_time": 1661203030,
+      "rank": 49,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 286119,
@@ -1851,6 +1875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264558,
+      "num": 264558,
+      "word": "处暑",
+      "onboard_time": 1661210367,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264489,
+      "num": 264489,
+      "word": "曼联2比1利物浦",
+      "onboard_time": 1661210302,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262878,
       "num": 262878,
       "word": "果切价格高达整颗水果的5倍",
@@ -1979,6 +2019,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 253365,
+      "num": 253365,
+      "word": "李立群发视频澄清网传截图",
+      "onboard_time": 1661210723,
+      "rank": 20,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 248945,
       "num": 248945,
       "word": "人教社发布新教材插图示例",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1661160452,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243489,
-      "num": 243489,
-      "word": "沙特阿拉伯批准微软收购暴雪",
-      "onboard_time": 1661203030,
-      "rank": 49,
-      "category": "科技,游戏"
     },
     {
       "raw_hot": 242268,
@@ -2339,14 +2379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204615,
-      "num": 204615,
-      "word": "曼联2比1利物浦",
-      "onboard_time": 1661210302,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204001,
       "num": 204001,
       "word": "熊猫真的有功夫在身上",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1661145451,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200116,
+      "num": 200116,
+      "word": "漫威总部空降上海",
+      "onboard_time": 1661180917,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 199490,
@@ -2523,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183085,
-      "num": 183085,
-      "word": "处暑",
-      "onboard_time": 1661210367,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1661141431,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 179735,
+      "num": 179735,
+      "word": "处暑 节气",
+      "onboard_time": 1661210845,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179511,
@@ -2603,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "何悯鸿你为什么不听劝",
+      "onboard_time": 1661208676,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "杨某人四抓",
@@ -2611,12 +2659,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167497,
-      "num": 167497,
-      "word": "漫威总部空降上海",
-      "onboard_time": 1661180917,
-      "rank": 48,
-      "category": "旅游,社会新闻"
+      "raw_hot": 160508,
+      "num": 160508,
+      "word": "曾志伟确诊新冠",
+      "onboard_time": 1661211145,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 159736,
@@ -2651,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157839,
+      "num": 157839,
+      "word": "北京各高校严格校门管理",
+      "onboard_time": 1661189179,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 157378,
       "num": 157378,
       "word": "快速大量喝冰水或导致急性心衰",
@@ -2665,6 +2721,14 @@
       "onboard_time": 1661179717,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156732,
+      "num": 156732,
+      "word": "疫情结束后一起去秦皇岛吧",
+      "onboard_time": 1661208618,
+      "rank": 38,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 156656,
@@ -2715,14 +2779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146977,
-      "num": 146977,
-      "word": "北京各高校严格校门管理",
-      "onboard_time": 1661189179,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 144994,
       "num": 144994,
       "word": "卡塞米罗告别仪式",
@@ -2739,14 +2795,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 141629,
-      "num": 141629,
-      "word": "一个坏医生是否会带崩整个湘雅系",
-      "onboard_time": 1661210062,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141265,
       "num": 141265,
       "word": "这瘦腿操是来报仇的吧",
@@ -2761,6 +2809,14 @@
       "onboard_time": 1661164829,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140015,
+      "num": 140015,
+      "word": "恋爱里的松弛感有多重要",
+      "onboard_time": 1661206693,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 136451,
@@ -2787,14 +2843,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 133380,
-      "num": 133380,
-      "word": "如何判断自己是否处于疲劳状态",
-      "onboard_time": 1661209701,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131473,
       "num": 131473,
       "word": "张玉宁两度失点",
@@ -2819,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129766,
+      "num": 129766,
+      "word": "北京远郊区新房成交量大涨",
+      "onboard_time": 1661210964,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 127730,
       "num": 127730,
       "word": "KSG锁定第三轮",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1661170230,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119168,
+      "num": 119168,
+      "word": "CCTV6将播普罗米亚",
+      "onboard_time": 1661211206,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 117267,
@@ -2883,12 +2947,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 110731,
+      "num": 110731,
+      "word": "苍兰诀片场的王鹤棣",
+      "onboard_time": 1661210121,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
       "onboard_time": 1661173470,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105902,
+      "num": 105902,
+      "word": "王楠告别乒坛14周年",
+      "onboard_time": 1661205974,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101752,
@@ -2899,36 +2979,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95558,
-      "num": 95558,
-      "word": "疫情结束后一起去秦皇岛吧",
-      "onboard_time": 1661208618,
-      "rank": 38,
-      "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 94250,
-      "num": 94250,
-      "word": "何悯鸿你为什么不听劝",
-      "onboard_time": 1661208676,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 93192,
-      "num": 93192,
-      "word": "恋爱里的松弛感有多重要",
-      "onboard_time": 1661206693,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 80496,
-      "num": 80496,
-      "word": "王楠告别乒坛14周年",
-      "onboard_time": 1661205974,
+      "raw_hot": 100440,
+      "num": 100440,
+      "word": "处暑意味着炎炎夏日即将结束",
+      "onboard_time": 1661210664,
       "rank": 48,
-      "category": "体育"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "5旬大妈站吊桥上恶意摇晃半小时",
+      "onboard_time": 1661211385,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79322,
@@ -2937,14 +3001,6 @@
       "onboard_time": 1661080529,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78288,
-      "num": 78288,
-      "word": "苍兰诀片场的王鹤棣",
-      "onboard_time": 1661210121,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 64462,
