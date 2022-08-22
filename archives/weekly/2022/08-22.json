@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661172315830,
+  "endTime": 1661173888793,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -115,8 +115,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1935328,
-      "num": 1935328,
+      "raw_hot": 1995778,
+      "num": 1995778,
       "word": "睡眠不足7小时的人胳膊大腿更粗",
       "onboard_time": 1661167709,
       "rank": 26,
@@ -201,6 +201,14 @@
       "onboard_time": 1661137291,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1269661,
+      "num": 1269661,
+      "word": "余生请多指教获得腾讯业务突破奖",
+      "onboard_time": 1661171730,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1266230,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1005186,
-      "num": 1005186,
-      "word": "余生请多指教获得腾讯业务突破奖",
-      "onboard_time": 1661171730,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 998354,
       "num": 998354,
       "word": "待播古装剧存量",
@@ -425,6 +425,14 @@
       "onboard_time": 1661092173,
       "rank": 7,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 805851,
+      "num": 805851,
+      "word": "爱思嘲讽",
+      "onboard_time": 1661172693,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 798247,
@@ -547,6 +555,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 615737,
+      "num": 471646,
+      "word": "东方青苍假装喝药",
+      "onboard_time": 1661171851,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611325,
       "num": 611325,
       "word": "刘雨昕送王一博香菜大礼包",
@@ -656,6 +672,14 @@
       "word": "姐姐担心遇到人贩子抱弟弟大喊跑回家",
       "onboard_time": 1661132848,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535206,
+      "num": 301504,
+      "word": "麦趣尔被罚7315.1万",
+      "onboard_time": 1661172151,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1171,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325308,
+      "num": 325308,
+      "word": "男生把洗面奶当牙膏用2个月",
+      "onboard_time": 1661172632,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324396,
       "num": 243006,
       "word": "王嘉尔音乐节现场喝香槟",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1661170590,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314851,
+      "num": 292748,
+      "word": "西安辟谣将实行封闭式管理",
+      "onboard_time": 1661173052,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307842,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1661093373,
       "rank": 18,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 289382,
-      "num": 289382,
-      "word": "东方青苍假装喝药",
-      "onboard_time": 1661171851,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 288484,
@@ -1443,14 +1475,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 269428,
-      "num": 269428,
-      "word": "麦趣尔被罚7315.1万",
-      "onboard_time": 1661172151,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268806,
       "num": 246524,
       "word": "JonyJ2022南京演唱会官宣了",
@@ -1460,7 +1484,7 @@
     },
     {
       "raw_hot": 266327,
-      "num": 216218,
+      "num": 258880,
       "word": "欢乐颂3",
       "onboard_time": 1661171730,
       "rank": 32,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1661132369,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261125,
+      "num": 261125,
+      "word": "冰雨火饭桌定律",
+      "onboard_time": 1661172451,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 260970,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1661098109,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218271,
+      "num": 211110,
+      "word": "叶蓁蓁陪朱喆深夜找骗钱在逃前男友",
+      "onboard_time": 1661173470,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 217967,
@@ -2307,12 +2347,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 107180,
+      "num": 107180,
+      "word": "KSG扳回一局",
+      "onboard_time": 1661173470,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101752,
       "num": 101752,
       "word": "纽卡斯尔3比3曼城",
       "onboard_time": 1661124744,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93384,
+      "num": 93384,
+      "word": "俄方称谋杀杜金娜凶手是乌克兰人",
+      "onboard_time": 1661173829,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 79322,
