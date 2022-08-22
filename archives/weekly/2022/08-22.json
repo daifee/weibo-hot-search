@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661153756131,
+  "endTime": 1661156939493,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4763522,
-      "num": 4763522,
+      "raw_hot": 6979270,
+      "num": 6979270,
       "word": "机构鉴定戚薇直播间卖假货",
       "onboard_time": 1661151629,
       "rank": 0,
@@ -89,6 +89,14 @@
       "onboard_time": 1661097211,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2022217,
+      "num": 2022217,
+      "word": "孕妇偷吃辣条被发现后狂炫",
+      "onboard_time": 1661152232,
+      "rank": 36,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1891324,
@@ -195,6 +203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1151804,
+      "num": 1151804,
+      "word": "古偶男二人设天花板",
+      "onboard_time": 1661150492,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1141337,
       "num": 1141337,
       "word": "苍兰诀第28集封神",
@@ -251,6 +267,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 972177,
+      "num": 972177,
+      "word": "2岁宝宝果核卡气管10天后竟发芽",
+      "onboard_time": 1661152591,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 969768,
+      "num": 969768,
+      "word": "刘奕君贡献了冰雨火里唯一的吻戏",
+      "onboard_time": 1661153071,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 962500,
       "num": 962500,
       "word": "德塔文回应星汉灿烂苍兰诀数据问题",
@@ -259,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 953986,
-      "num": 953986,
-      "word": "古偶男二人设天花板",
-      "onboard_time": 1661150492,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 935379,
+      "num": 705306,
+      "word": "创造营2021下架又上架",
+      "onboard_time": 1661152533,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 929232,
@@ -291,14 +323,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 792821,
-      "num": 792821,
-      "word": "孕妇偷吃辣条被发现后狂炫",
-      "onboard_time": 1661152232,
-      "rank": 36,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 774809,
       "num": 556203,
       "word": "美容院拉踩鹿晗判赔近4万元",
@@ -313,6 +337,14 @@
       "onboard_time": 1661149710,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 755523,
+      "num": 755523,
+      "word": "海南2030年全面禁止销售燃油汽车",
+      "onboard_time": 1661152470,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 754178,
@@ -337,14 +369,6 @@
       "onboard_time": 1661141071,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 701149,
-      "num": 701149,
-      "word": "创造营2021下架又上架",
-      "onboard_time": 1661152533,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 694579,
@@ -379,12 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 666679,
-      "num": 666679,
+      "raw_hot": 676667,
+      "num": 676667,
       "word": "程少商与星河叹的适配度",
       "onboard_time": 1661152410,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 656325,
+      "num": 656325,
+      "word": "5岁男童被家中狼狗咬掉耳朵",
+      "onboard_time": 1661155112,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 653870,
@@ -443,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572383,
+      "num": 572383,
+      "word": "首套房贷利率已比2009年低",
+      "onboard_time": 1661151991,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 562701,
       "num": 562701,
       "word": "徐志胜熬夜假发片都熬掉了",
@@ -457,6 +497,14 @@
       "onboard_time": 1661142871,
       "rank": 26,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 561476,
+      "num": 440659,
+      "word": "颜淡眼里没有光了",
+      "onboard_time": 1661154511,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 550775,
@@ -611,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426721,
+      "num": 426721,
+      "word": "大连海关将20吨洋垃圾退运出境",
+      "onboard_time": 1661153912,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421366,
       "num": 421366,
       "word": "降息",
@@ -688,6 +744,22 @@
       "word": "格陵兰岛冰川融化大量稀有矿产显现",
       "onboard_time": 1661125283,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384218,
+      "num": 384218,
+      "word": "小狗被铁丝勒脖子跑进消防站求助",
+      "onboard_time": 1661153190,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382515,
+      "num": 382515,
+      "word": "母亲机场狂奔接2年未见的女儿",
+      "onboard_time": 1661152831,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -779,14 +851,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 341055,
-      "num": 250435,
-      "word": "刘奕君贡献了冰雨火里唯一的吻戏",
-      "onboard_time": 1661153071,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340609,
       "num": 340609,
       "word": "玉骨遥",
@@ -819,28 +883,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334947,
-      "num": 334947,
-      "word": "海南2030年全面禁止销售燃油汽车",
-      "onboard_time": 1661152470,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331549,
-      "num": 331549,
-      "word": "2岁宝宝果核卡气管10天后竟发芽",
-      "onboard_time": 1661152591,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329701,
       "num": 329701,
       "word": "未定事件簿",
       "onboard_time": 1661144253,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327443,
+      "num": 264599,
+      "word": "罗渽民KCON造型",
+      "onboard_time": 1661156673,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 327011,
@@ -955,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284946,
+      "num": 264506,
+      "word": "吴露可逃对视氛围感剧照",
+      "onboard_time": 1661154812,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284674,
       "num": 284674,
       "word": "桃花坞全员用坞学告别",
@@ -1027,6 +1091,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 272346,
+      "num": 272346,
+      "word": "孩子要气球大人扯走整个店家拱门",
+      "onboard_time": 1661155534,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271822,
       "num": 271822,
       "word": "男童被困车尾箱近2小时患热射病",
@@ -1067,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265583,
+      "num": 265583,
+      "word": "TES对战EDG",
+      "onboard_time": 1661153251,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264965,
       "num": 264965,
       "word": "消防员偶遇老人顺手收完两块田",
@@ -1081,14 +1161,6 @@
       "onboard_time": 1661138430,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261584,
-      "num": 261584,
-      "word": "首套房贷利率已比2009年低",
-      "onboard_time": 1661151991,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 261183,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1661135429,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 248268,
+      "num": 248268,
+      "word": "王一博陈宇今天挨打了吗",
+      "onboard_time": 1661154091,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 248199,
@@ -1203,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229259,
+      "num": 229259,
+      "word": "重庆多处山火被有力压制",
+      "onboard_time": 1661156433,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227216,
       "num": 181093,
       "word": "李帝努送玫瑰",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1661141613,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220686,
+      "num": 220686,
+      "word": "这是考的科目五吗",
+      "onboard_time": 1661155830,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 219714,
@@ -1299,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205881,
+      "num": 205881,
+      "word": "沉香重华",
+      "onboard_time": 1661154214,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204001,
       "num": 204001,
       "word": "熊猫真的有功夫在身上",
@@ -1312,6 +1416,14 @@
       "word": "卜冠今画的周寻和齐颂",
       "onboard_time": 1661145451,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201756,
+      "num": 171054,
+      "word": "苍兰诀 双向奔赴",
+      "onboard_time": 1661156913,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1345,6 +1457,14 @@
       "onboard_time": 1661093911,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194077,
+      "num": 194077,
+      "word": "迪士尼回应游客录拍创极速光轮",
+      "onboard_time": 1661156313,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192747,
@@ -1387,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182602,
+      "num": 182602,
+      "word": "果切价格高达整颗水果的5倍",
+      "onboard_time": 1661155291,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -1409,14 +1537,6 @@
       "onboard_time": 1661134050,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178770,
-      "num": 178770,
-      "word": "母亲机场狂奔接2年未见的女儿",
-      "onboard_time": 1661152831,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176470,
@@ -1443,12 +1563,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175378,
-      "num": 175378,
-      "word": "TES对战EDG",
-      "onboard_time": 1661153251,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 171915,
+      "num": 171915,
+      "word": "男子趁核酸采样员小憩偷走扫码手机",
+      "onboard_time": 1661156793,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171248,
+      "num": 171248,
+      "word": "重庆调整部分商场营业时间",
+      "onboard_time": 1661153735,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170337,
+      "num": 170337,
+      "word": "中国女排战胜越南女排",
+      "onboard_time": 1661155291,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 167807,
@@ -1457,6 +1593,14 @@
       "onboard_time": 1661082209,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159736,
+      "num": 159736,
+      "word": "上海未启用网传新版红绿灯",
+      "onboard_time": 1661154812,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159565,
@@ -1480,14 +1624,6 @@
       "word": "快速大量喝冰水或导致急性心衰",
       "onboard_time": 1661152291,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155943,
-      "num": 155943,
-      "word": "小狗被铁丝勒脖子跑进消防站求助",
-      "onboard_time": 1661153190,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1569,14 +1705,6 @@
       "onboard_time": 1661093610,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127264,
-      "num": 150421,
-      "word": "重庆调整部分商场营业时间",
-      "onboard_time": 1661153735,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126921,
