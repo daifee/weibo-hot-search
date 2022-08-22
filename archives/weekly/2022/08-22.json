@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661168131025,
+  "endTime": 1661172315830,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -113,6 +113,14 @@
       "onboard_time": 1661152232,
       "rank": 36,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1935328,
+      "num": 1935328,
+      "word": "睡眠不足7小时的人胳膊大腿更粗",
+      "onboard_time": 1661167709,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1891324,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 1191180,
-      "num": 532359,
+      "num": 547243,
       "word": "姜广涛 绘旅人",
       "onboard_time": 1661167350,
       "rank": 10,
@@ -315,6 +323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1078231,
+      "num": 1078231,
+      "word": "作家称删除自己被盗版链接需30年",
+      "onboard_time": 1661166991,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1060558,
       "num": 1060558,
       "word": "苍兰诀破万",
@@ -345,6 +361,14 @@
       "onboard_time": 1661152470,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1005186,
+      "num": 1005186,
+      "word": "余生请多指教获得腾讯业务突破奖",
+      "onboard_time": 1661171730,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 998354,
@@ -440,6 +464,14 @@
       "word": "专家释疑京津冀现不明黑色昆虫",
       "onboard_time": 1661097870,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747572,
+      "num": 747572,
+      "word": "鸡被偷走炖熟民警一锅端还给失主",
+      "onboard_time": 1661165430,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -547,20 +579,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 585052,
-      "num": 585052,
-      "word": "鸡被偷走炖熟民警一锅端还给失主",
-      "onboard_time": 1661165430,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 581305,
       "num": 581305,
       "word": "秦俊杰首演金庸男主",
       "onboard_time": 1661150730,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578528,
+      "num": 578528,
+      "word": "ofo公众号发擦边推文",
+      "onboard_time": 1661166450,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 572383,
@@ -699,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499163,
+      "num": 499163,
+      "word": "男子开斗气车致1死3伤获刑10年4个月",
+      "onboard_time": 1661167950,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 495345,
       "num": 495345,
       "word": "四川泸州突发山火",
@@ -779,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469081,
+      "num": 469081,
+      "word": "孙培青",
+      "onboard_time": 1661169511,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460417,
       "num": 460417,
       "word": "日本东京发生随机砍人事件",
@@ -793,6 +841,14 @@
       "onboard_time": 1661163692,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 449574,
+      "num": 449574,
+      "word": "成都将在8月26日退出高温行列",
+      "onboard_time": 1661166750,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443358,
@@ -873,14 +929,6 @@
       "onboard_time": 1661135970,
       "rank": 37,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 403428,
-      "num": 403428,
-      "word": "ofo公众号发擦边推文",
-      "onboard_time": 1661166450,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 402327,
@@ -1011,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363151,
-      "num": 363151,
-      "word": "作家称删除自己被盗版链接需30年",
-      "onboard_time": 1661166991,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360417,
       "num": 360417,
       "word": "罚罪定档0825",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1661135607,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345382,
+      "num": 345382,
+      "word": "河南多所高校通知暂缓返校",
+      "onboard_time": 1661167890,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 343593,
@@ -1131,14 +1179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320470,
-      "num": 320470,
-      "word": "成都将在8月26日退出高温行列",
-      "onboard_time": 1661166750,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316831,
       "num": 316831,
       "word": "原神",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1661125283,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315013,
+      "num": 315013,
+      "word": "毛雪汪",
+      "onboard_time": 1661170590,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 307842,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1661093373,
       "rank": 18,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 289382,
+      "num": 289382,
+      "word": "东方青苍假装喝药",
+      "onboard_time": 1661171851,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 288484,
@@ -1371,12 +1427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271497,
+      "num": 216604,
+      "word": "刘奕君王劲松在线争宠",
+      "onboard_time": 1661170349,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269888,
       "num": 269888,
       "word": "打压式教育有多窒息",
       "onboard_time": 1661140951,
       "rank": 39,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 269428,
+      "num": 269428,
+      "word": "麦趣尔被罚7315.1万",
+      "onboard_time": 1661172151,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268806,
@@ -1387,12 +1459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268656,
-      "num": 268656,
-      "word": "睡眠不足7小时的人胳膊大腿更粗",
-      "onboard_time": 1661167709,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 266327,
+      "num": 216218,
+      "word": "欢乐颂3",
+      "onboard_time": 1661171730,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 266114,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1661155291,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 262085,
+      "num": 215322,
+      "word": "ive空降",
+      "onboard_time": 1661168311,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 261816,
@@ -1553,6 +1633,14 @@
       "onboard_time": 1661133329,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246645,
+      "num": 246645,
+      "word": "在南方生活真的需要点勇气",
+      "onboard_time": 1661166272,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 246532,
@@ -1723,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217855,
+      "num": 217855,
+      "word": "绘旅人 叶瑄",
+      "onboard_time": 1661170290,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214639,
       "num": 214639,
       "word": "黄景瑜奇怪的个人技增加了",
@@ -1752,6 +1848,14 @@
       "word": "成都疫情防控",
       "onboard_time": 1661086711,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210146,
+      "num": 210146,
+      "word": "著名教育史学家孙培青先生辞世",
+      "onboard_time": 1661171490,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1867,14 +1971,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 193627,
-      "num": 193627,
-      "word": "在南方生活真的需要点勇气",
-      "onboard_time": 1661166272,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192747,
       "num": 192747,
       "word": "第一次见会铺床的兔子",
@@ -1953,6 +2049,14 @@
       "onboard_time": 1661134050,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178141,
+      "num": 178141,
+      "word": "Viper卢锡安",
+      "onboard_time": 1661171851,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 176470,
@@ -2075,14 +2179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148519,
-      "num": 148519,
-      "word": "男子开斗气车致1死3伤获刑10年4个月",
-      "onboard_time": 1661167950,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 147476,
       "num": 147476,
       "word": "EDGM战胜TTG",
@@ -2147,14 +2243,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 132357,
-      "num": 132357,
-      "word": "河南多所高校通知暂缓返校",
-      "onboard_time": 1661167890,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 130513,
       "num": 2332024,
       "word": "2022夏天那些闪亮瞬间",
@@ -2177,6 +2265,14 @@
       "onboard_time": 1661153610,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 121767,
+      "num": 121767,
+      "word": "赵爽结婚",
+      "onboard_time": 1661170230,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117267,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1661038882,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3844,
+      "num": 449733,
+      "word": "新能源SUV格局该变了么",
+      "onboard_time": 1661169631,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
