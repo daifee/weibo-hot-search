@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661262819921,
+  "endTime": 1661264425108,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -25,6 +25,14 @@
       "onboard_time": 1661249672,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4410228,
+      "num": 4410228,
+      "word": "夸克",
+      "onboard_time": 1661261794,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 4125536,
@@ -105,14 +113,6 @@
       "onboard_time": 1661255189,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1881034,
-      "num": 1881034,
-      "word": "夸克",
-      "onboard_time": 1661261794,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 1791387,
@@ -219,6 +219,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1298666,
+      "num": 1298666,
+      "word": "男子明知是骗子仍转账40万",
+      "onboard_time": 1661258735,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297540,
       "num": 1297540,
       "word": "一诺状态",
@@ -249,14 +257,6 @@
       "onboard_time": 1661239350,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1247169,
-      "num": 1247169,
-      "word": "男子明知是骗子仍转账40万",
-      "onboard_time": 1661258735,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1220418,
@@ -329,6 +329,14 @@
       "onboard_time": 1661223510,
       "rank": 41,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 987271,
+      "num": 987271,
+      "word": "原来不恋爱的人是最幸福的",
+      "onboard_time": 1661261374,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 965751,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765261,
+      "num": 619738,
+      "word": "张艺兴投资首家直播公司成立",
+      "onboard_time": 1661261915,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741270,
       "num": 741270,
       "word": "久哲",
@@ -579,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664625,
+      "num": 617501,
+      "word": "七度空间 刘浩存",
+      "onboard_time": 1661263656,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657508,
       "num": 657508,
       "word": "李立群发视频澄清网传截图",
       "onboard_time": 1661210723,
       "rank": 20,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 636525,
+      "num": 636525,
+      "word": "重庆山火",
+      "onboard_time": 1661260475,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635380,
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567613,
+      "num": 567613,
+      "word": "俞灏明王栎鑫再唱红日",
+      "onboard_time": 1661262997,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565797,
       "num": 565797,
       "word": "男子去世捐遗给儿子就读大学",
@@ -688,14 +728,6 @@
       "word": "男子偷价值10万自行车100元卖掉",
       "onboard_time": 1661179473,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556600,
-      "num": 556600,
-      "word": "重庆山火",
-      "onboard_time": 1661260475,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -753,14 +785,6 @@
       "onboard_time": 1661251231,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519102,
-      "num": 519102,
-      "word": "原来不恋爱的人是最幸福的",
-      "onboard_time": 1661261374,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 508531,
@@ -891,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468318,
+      "num": 468318,
+      "word": "坐地铁千万不要轻易戴耳机",
+      "onboard_time": 1661262453,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 465808,
       "num": 465808,
       "word": "上海打雷",
@@ -905,14 +937,6 @@
       "onboard_time": 1661242891,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461448,
-      "num": 461448,
-      "word": "张艺兴投资首家直播公司成立",
-      "onboard_time": 1661261915,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 458828,
@@ -1027,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388893,
+      "num": 310556,
+      "word": "成毅沉香重华一人分饰四角",
+      "onboard_time": 1661263536,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387817,
       "num": 387817,
       "word": "妈妈安排的相亲对象能有多离谱",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1661241149,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 360191,
+      "num": 279238,
+      "word": "舍不得牛骏峰演的赵优秀",
+      "onboard_time": 1661263536,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 360106,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1661182717,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343374,
+      "num": 233241,
+      "word": "陈楚生雨中唱思念一个荒废的名字",
+      "onboard_time": 1661264135,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 339693,
@@ -1411,6 +1459,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293366,
+      "num": 244029,
+      "word": "民国大侦探",
+      "onboard_time": 1661262092,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 293096,
+      "num": 230599,
+      "word": "唐周教科书级追妻",
+      "onboard_time": 1661263113,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289203,
       "num": 247196,
       "word": "毛雪汪鹿晗唱花海",
@@ -1472,14 +1536,6 @@
       "word": "简言的夏冬定档0824",
       "onboard_time": 1661259331,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 272487,
-      "num": 244029,
-      "word": "民国大侦探",
-      "onboard_time": 1661262092,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1883,6 +1939,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202994,
+      "num": 202994,
+      "word": "山火扑救现场的这一幕让人揪心",
+      "onboard_time": 1661263771,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202383,
+      "num": 202383,
+      "word": "在网络上好好说话有多重要",
+      "onboard_time": 1661263771,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 202278,
       "num": 186448,
       "word": "郑钧年轻时颜值",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1661214573,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197632,
+      "num": 197632,
+      "word": "这是小猫该有的坐姿吗",
+      "onboard_time": 1661263297,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 197460,
@@ -1947,6 +2027,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 193597,
+      "num": 193597,
+      "word": "男子boss直聘求职被骂长的像贼",
+      "onboard_time": 1661263595,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193232,
       "num": 193232,
       "word": "没有电的夏天有多煎熬",
@@ -1961,6 +2049,14 @@
       "onboard_time": 1661234432,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192209,
+      "num": 192209,
+      "word": "分手一定是因为不喜欢了吗",
+      "onboard_time": 1661263417,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 192157,
@@ -2235,14 +2331,6 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 156294,
-      "num": 156294,
-      "word": "坐地铁千万不要轻易戴耳机",
-      "onboard_time": 1661262453,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -2315,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139350,
+      "num": 139350,
+      "word": "贾浅浅的诗到底写得好不好",
+      "onboard_time": 1661260054,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138611,
       "num": 2382203,
       "word": "办好这件事中国有数",
@@ -2368,14 +2464,6 @@
       "word": "男子改造公主房驾驶室带女儿跑车",
       "onboard_time": 1661178454,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131181,
-      "num": 131181,
-      "word": "贾浅浅的诗到底写得好不好",
-      "onboard_time": 1661260054,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
