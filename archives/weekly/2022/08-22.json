@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661269251803,
+  "endTime": 1661272220373,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -187,11 +187,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2498456,
+      "num": 2498456,
+      "word": "院方称林志颖已返家休养",
+      "onboard_time": 1661269171,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2480604,
       "num": 2480604,
       "word": "长期晚睡可能出现睡眠障碍",
       "onboard_time": 1661217032,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2479616,
+      "num": 1153662,
+      "word": "四大精子杀手",
+      "onboard_time": 1661270491,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -763,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1004552,
+      "num": 602111,
+      "word": "女子看街舞综艺遭丈夫家暴",
+      "onboard_time": 1661267196,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 998354,
       "num": 998354,
       "word": "待播古装剧存量",
@@ -793,14 +817,6 @@
       "onboard_time": 1661152533,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 984973,
-      "num": 569503,
-      "word": "女子看街舞综艺遭丈夫家暴",
-      "onboard_time": 1661267196,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 965751,
@@ -929,6 +945,14 @@
       "onboard_time": 1661092173,
       "rank": 7,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 840716,
+      "num": 840716,
+      "word": "武汉疫情防控",
+      "onboard_time": 1661269530,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 840642,
@@ -1315,6 +1339,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 628101,
+      "num": 628101,
+      "word": "商场试衣间空顶从上往下一览无余",
+      "onboard_time": 1661266415,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619337,
       "num": 619337,
       "word": "井胧说不唱了不唱了别虐了",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1661140713,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 587403,
+      "num": 587403,
+      "word": "人真的不能多上班",
+      "onboard_time": 1661268813,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 585383,
@@ -2235,6 +2275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392756,
+      "num": 392756,
+      "word": "重庆电网最大负荷已达到历史极值",
+      "onboard_time": 1661267974,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391800,
+      "num": 391800,
+      "word": "杜兰特留守篮网",
+      "onboard_time": 1661268873,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389286,
       "num": 389286,
       "word": "AG遗憾淘汰",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1661157152,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380507,
+      "num": 380507,
+      "word": "mysta",
+      "onboard_time": 1661270968,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 380059,
@@ -2483,14 +2547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353897,
-      "num": 353897,
-      "word": "杜兰特留守篮网",
-      "onboard_time": 1661268873,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 352879,
       "num": 352879,
       "word": "谢谢你医生已过审",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1661183196,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 345500,
+      "num": 345500,
+      "word": "曝小鹏汽车无法申请上海绿牌",
+      "onboard_time": 1661268573,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345382,
@@ -2644,7 +2708,7 @@
     },
     {
       "raw_hot": 336963,
-      "num": 280283,
+      "num": 315488,
       "word": "被一部丧尸片治愈到了",
       "onboard_time": 1661266298,
       "rank": 33,
@@ -2673,6 +2737,14 @@
       "onboard_time": 1661091333,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335843,
+      "num": 335843,
+      "word": "姥姥改女儿10年前旧衣给外孙女穿",
+      "onboard_time": 1661268455,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334540,
@@ -2720,6 +2792,14 @@
       "word": "迪士尼回应游客录拍创极速光轮",
       "onboard_time": 1661156313,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329744,
+      "num": 329744,
+      "word": "顾客称裸身被困酒店淋浴房",
+      "onboard_time": 1661270968,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3035,6 +3115,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 289401,
+      "num": 289401,
+      "word": "官方回应女子曝老人组团偷南瓜",
+      "onboard_time": 1661271149,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289203,
       "num": 247196,
       "word": "毛雪汪鹿晗唱花海",
@@ -3113,14 +3201,6 @@
       "onboard_time": 1661140413,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283186,
-      "num": 283186,
-      "word": "重庆电网最大负荷已达到历史极值",
-      "onboard_time": 1661267974,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283100,
@@ -3651,20 +3731,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245369,
+      "num": 245369,
+      "word": "没有废话的电影有多爽",
+      "onboard_time": 1661269949,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242912,
       "num": 242912,
       "word": "退役军人古风变装有多帅",
       "onboard_time": 1661223811,
       "rank": 45,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 242679,
-      "num": 182062,
-      "word": "院方称林志颖已返家休养",
-      "onboard_time": 1661269171,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 242268,
@@ -3689,14 +3769,6 @@
       "onboard_time": 1661192894,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238569,
-      "num": 238569,
-      "word": "商场试衣间空顶从上往下一览无余",
-      "onboard_time": 1661266415,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237820,
@@ -3753,6 +3825,14 @@
       "onboard_time": 1661177437,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234919,
+      "num": 234919,
+      "word": "原来这些角色都是张佳宁演的",
+      "onboard_time": 1661268932,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 234162,
@@ -4139,14 +4219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206303,
-      "num": 206303,
-      "word": "人真的不能多上班",
-      "onboard_time": 1661268813,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 205881,
       "num": 205881,
       "word": "沉香重华",
@@ -4531,14 +4603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179435,
-      "num": 179435,
-      "word": "曝小鹏汽车无法申请上海绿牌",
-      "onboard_time": 1661268573,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "参与3次山火救援的大学生找到了",
@@ -4624,14 +4688,6 @@
       "word": "辽宁新增2例本土无症状",
       "onboard_time": 1661220691,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171532,
-      "num": 171532,
-      "word": "姥姥改女儿10年前旧衣给外孙女穿",
-      "onboard_time": 1661268455,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4817,6 +4873,14 @@
       "onboard_time": 1661161893,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 154568,
+      "num": 154568,
+      "word": "建发",
+      "onboard_time": 1661270368,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 152055,
@@ -5167,6 +5231,14 @@
       "num": 100440,
       "word": "处暑意味着炎炎夏日即将结束",
       "onboard_time": 1661210664,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94870,
+      "num": 94870,
+      "word": "四川一男子乱丢烟头引发火灾",
+      "onboard_time": 1661269353,
       "rank": 48,
       "category": "社会新闻"
     },
