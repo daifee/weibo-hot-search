@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661296937279,
+  "endTime": 1661297829373,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1613339,
-      "num": 1613339,
+      "raw_hot": 1617603,
+      "num": 1617603,
       "word": "官方回应女子曝老人组团偷南瓜",
       "onboard_time": 1661271149,
       "rank": 27,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 962990,
-      "num": 494027,
+      "num": 553110,
       "word": "顾客称裸身被困酒店淋浴房",
       "onboard_time": 1661270968,
       "rank": 23,
@@ -91,11 +91,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628101,
-      "num": 628101,
+      "raw_hot": 687516,
+      "num": 687516,
       "word": "商场试衣间空顶从上往下一览无余",
       "onboard_time": 1661266415,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651423,
+      "num": 651423,
+      "word": "人真的不能多上班",
+      "onboard_time": 1661268813,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 620515,
+      "num": 620515,
+      "word": "15岁少年公交旅行4天9城花153元",
+      "onboard_time": 1661294055,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -107,20 +123,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 587403,
-      "num": 587403,
-      "word": "人真的不能多上班",
-      "onboard_time": 1661268813,
-      "rank": 11,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 529691,
       "num": 529691,
       "word": "快乐再出发 第二季",
       "onboard_time": 1661267014,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454593,
+      "num": 454593,
+      "word": "特种兵室内突击演习处处都是繁体字",
+      "onboard_time": 1661267074,
+      "rank": 25,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 440799,
@@ -147,24 +163,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 413111,
-      "num": 413111,
-      "word": "15岁少年公交旅行4天9城花153元",
-      "onboard_time": 1661294055,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408655,
-      "num": 408655,
-      "word": "特种兵室内突击演习处处都是繁体字",
-      "onboard_time": 1661267074,
-      "rank": 25,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 396422,
-      "num": 396422,
+      "raw_hot": 426272,
+      "num": 426272,
       "word": "原来这些角色都是张佳宁演的",
       "onboard_time": 1661268932,
       "rank": 34,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373313,
+      "num": 373313,
+      "word": "16个外甥住舅舅家55天花掉6万",
+      "onboard_time": 1661255189,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370571,
       "num": 370571,
       "word": "刘宇宁说我录的综艺都没有剧本",
@@ -203,11 +211,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366711,
-      "num": 366711,
-      "word": "16个外甥住舅舅家55天花掉6万",
-      "onboard_time": 1661255189,
-      "rank": 18,
+      "raw_hot": 367053,
+      "num": 367053,
+      "word": "湘雅二院刘翔峰回应网传问题",
+      "onboard_time": 1661296640,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -233,6 +241,14 @@
       "onboard_time": 1661268455,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328436,
+      "num": 328436,
+      "word": "古偶女二人设天花板",
+      "onboard_time": 1661296160,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 315488,
@@ -291,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243374,
+      "num": 243374,
+      "word": "四川一男子乱丢烟头引发火灾",
+      "onboard_time": 1661269353,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235384,
       "num": 235384,
       "word": "闪亮的日子豆瓣开分9.1",
       "onboard_time": 1661272645,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231915,
+      "num": 231915,
+      "word": "乐山大佛真身一直都看得到",
+      "onboard_time": 1661297002,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228497,
@@ -313,22 +345,6 @@
       "onboard_time": 1661263536,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221389,
-      "num": 221389,
-      "word": "古偶女二人设天花板",
-      "onboard_time": 1661296160,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 214952,
-      "num": 214952,
-      "word": "四川一男子乱丢烟头引发火灾",
-      "onboard_time": 1661269353,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212992,
@@ -371,6 +387,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 169519,
+      "num": 169519,
+      "word": "吴振峰是卧底",
+      "onboard_time": 1661295558,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167664,
       "num": 167664,
       "word": "任贤齐苏有朋王大陆录制你好星期六",
@@ -387,12 +411,36 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 162816,
+      "num": 162816,
+      "word": "重庆辟谣渝康码变黄认证短信",
+      "onboard_time": 1661297364,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162675,
+      "num": 162675,
+      "word": "鹿晗谈要感受生活的重要性",
+      "onboard_time": 1661297243,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161150,
       "num": 161150,
       "word": "美驻乌使馆敦促美公民离开乌克兰",
       "onboard_time": 1661265099,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 159293,
+      "num": 159293,
+      "word": "200多名武警官兵驰援重庆大足火场",
+      "onboard_time": 1661281933,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 154568,
@@ -403,36 +451,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 151479,
+      "num": 151479,
+      "word": "三皇子求程少商",
+      "onboard_time": 1661256094,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151166,
       "num": 151166,
       "word": "冷空气已经在路上了",
       "onboard_time": 1661252669,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145718,
-      "num": 145718,
-      "word": "200多名武警官兵驰援重庆大足火场",
-      "onboard_time": 1661281933,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 137886,
-      "num": 137886,
-      "word": "吴振峰是卧底",
-      "onboard_time": 1661295558,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 124464,
-      "num": 124464,
-      "word": "三皇子求程少商",
-      "onboard_time": 1661256094,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 119940,
@@ -459,16 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113388,
-      "num": 113388,
-      "word": "湘雅二院刘翔峰回应网传问题",
-      "onboard_time": 1661296640,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95700,
-      "num": 95700,
+      "raw_hot": 107610,
+      "num": 107610,
       "word": "男子远隔千里被喷比榴莲还臭",
       "onboard_time": 1661258435,
       "rank": 49,
@@ -499,7 +523,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 20264,
+      "raw_hot": 23168,
       "num": 1159522,
       "word": "中国航天捷报频传",
       "onboard_time": 1661225730,
