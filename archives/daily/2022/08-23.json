@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661234167829,
+  "endTime": 1661234739210,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1945053,
+      "raw_hot": 2225711,
       "num": 917733,
       "word": "赵丽颖白色眼线脏辫造型",
       "onboard_time": 1661233410,
@@ -83,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1356039,
+      "raw_hot": 1482171,
       "num": 699828,
       "word": "徐海乔 西瓜是谁",
       "onboard_time": 1661232812,
@@ -113,6 +113,14 @@
       "onboard_time": 1661167709,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133270,
+      "num": 1133270,
+      "word": "微信个人二维码能换风格了",
+      "onboard_time": 1661231492,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1058887,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870375,
+      "num": 870375,
+      "word": "陕西累计向四川送电15亿度",
+      "onboard_time": 1661231433,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857908,
       "num": 857908,
       "word": "被狗狗离家去世前的监控整破防了",
@@ -179,28 +195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 827481,
-      "num": 827481,
-      "word": "微信个人二维码能换风格了",
-      "onboard_time": 1661231492,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 801476,
       "num": 801476,
       "word": "本座还要等四万年",
       "onboard_time": 1661229875,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 798734,
-      "num": 798734,
-      "word": "陕西累计向四川送电15亿度",
-      "onboard_time": 1661231433,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 783218,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567925,
+      "num": 567925,
+      "word": "高温停电女子拉绳吊外卖上25楼",
+      "onboard_time": 1661229574,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564913,
       "num": 564913,
       "word": "厦门首房贷款百万30年月供省89元",
@@ -393,14 +401,6 @@
       "onboard_time": 1661224529,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 541245,
-      "num": 541245,
-      "word": "高温停电女子拉绳吊外卖上25楼",
-      "onboard_time": 1661229574,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537580,
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476301,
+      "num": 476301,
+      "word": "微信新增视频通话悬浮窗",
+      "onboard_time": 1661233171,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 471464,
       "num": 471464,
       "word": "看给月主吓的",
@@ -507,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 405176,
+      "num": 405176,
+      "word": "密室大逃脱",
+      "onboard_time": 1661233290,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403203,
       "num": 403203,
       "word": "东北盒饭真是过分实在了",
@@ -521,6 +537,14 @@
       "onboard_time": 1661215709,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392760,
+      "num": 392760,
+      "word": "黄英放屁崩醒刘美含",
+      "onboard_time": 1661233951,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 387817,
@@ -691,14 +715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 303419,
-      "num": 303419,
-      "word": "密室大逃脱",
-      "onboard_time": 1661233290,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299357,
       "num": 299357,
       "word": "年轻人为何戒不掉报复性熬夜",
@@ -723,12 +739,12 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 276422,
-      "num": 276422,
-      "word": "微信新增视频通话悬浮窗",
-      "onboard_time": 1661233171,
-      "rank": 28,
-      "category": "科技"
+      "raw_hot": 276025,
+      "num": 243719,
+      "word": "恋爱的夏天定档0828",
+      "onboard_time": 1661234611,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 267255,
@@ -811,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245885,
-      "num": 245885,
-      "word": "黄英放屁崩醒刘美含",
-      "onboard_time": 1661233951,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244099,
       "num": 244099,
       "word": "东方青苍没有业火了",
@@ -851,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232506,
+      "num": 232506,
+      "word": "科比44岁了",
+      "onboard_time": 1661232752,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229162,
       "num": 229162,
       "word": "沈阳疫情防控",
@@ -873,14 +889,6 @@
       "onboard_time": 1661174011,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220015,
-      "num": 220015,
-      "word": "科比44岁了",
-      "onboard_time": 1661232752,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 216612,
@@ -913,6 +921,14 @@
       "onboard_time": 1661217869,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204662,
+      "num": 204662,
+      "word": "华为要把活下来作为主要纲领",
+      "onboard_time": 1661234311,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 200985,
@@ -1131,8 +1147,8 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 150792,
-      "num": 150792,
+      "raw_hot": 154768,
+      "num": 154768,
       "word": "妹妹患癌父母残疾18岁女孩撑起全家",
       "onboard_time": 1661233290,
       "rank": 43,
@@ -1251,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126301,
+      "num": 126301,
+      "word": "Fly采访像个语言鬼才",
+      "onboard_time": 1661234432,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125265,
       "num": 125265,
       "word": "王一博陈宇叉腰",
@@ -1267,8 +1291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117283,
-      "num": 117283,
+      "raw_hot": 118649,
+      "num": 118649,
       "word": "商铺起火邻居开叉车救一家四口",
       "onboard_time": 1661233890,
       "rank": 46,
