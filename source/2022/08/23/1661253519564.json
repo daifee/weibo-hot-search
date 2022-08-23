@@ -1,0 +1,410 @@
+{
+  "runTime": 1661253519564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5222023,
+        "num": 5222023,
+        "word": "福建精子库质量堪忧",
+        "onboard_time": 1661249672,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076481,
+        "num": 1076481,
+        "word": "前任为什么叫EX",
+        "onboard_time": 1661246010,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85117,
+        "num": 1043123,
+        "word": "办好这件事中国有数",
+        "onboard_time": 1661240909,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1039610,
+        "num": 1039610,
+        "word": "暑期档三部古装剧豆瓣评分",
+        "onboard_time": 1661248770,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1005322,
+        "num": 1005322,
+        "word": "月升沧海吴磊赵露思落泪剧照",
+        "onboard_time": 1661251829,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1219232,
+        "num": 988596,
+        "word": "四川 停电",
+        "onboard_time": 1661225066,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952475,
+        "num": 952475,
+        "word": "中国气象局调派人工增雨飞机抵达重庆",
+        "onboard_time": 1661250092,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900576,
+        "num": 900576,
+        "word": "中国最后一位女酋长去世",
+        "onboard_time": 1661240852,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842783,
+        "num": 842783,
+        "word": "当狗狗第一次被允许上床",
+        "onboard_time": 1661249850,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 790941,
+        "num": 790941,
+        "word": "抄家事件后特朗普党内支持率达70%左右",
+        "onboard_time": 1661249311,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 965751,
+        "num": 754419,
+        "word": "曾沛慈确诊新冠",
+        "onboard_time": 1661247991,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 688091,
+        "num": 688091,
+        "word": "章子怡婉拒教父导演新片",
+        "onboard_time": 1661252253,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516031,
+        "num": 516031,
+        "word": "特朗普在海湖庄园私藏300多份机密文件",
+        "onboard_time": 1661245349,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 468582,
+        "num": 468582,
+        "word": "唐周在墓前哭成泪人",
+        "onboard_time": 1661251290,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24621,
+        "num": 449244,
+        "word": "一台价值过亿的MPV",
+        "onboard_time": 1661252433,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 440679,
+        "num": 440679,
+        "word": "外交部回应日本国会议员窜台",
+        "onboard_time": 1661251892,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 438098,
+        "num": 438098,
+        "word": "警方通报男子半夜摸进合租女孩房间",
+        "onboard_time": 1661251231,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421517,
+        "num": 421517,
+        "word": "河北涿州发现8例初筛阳性人员",
+        "onboard_time": 1661251290,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411748,
+        "num": 411748,
+        "word": "微信个人二维码能换风格了",
+        "onboard_time": 1661231492,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 379363,
+        "num": 379363,
+        "word": "给妈妈买卫生巾的小男孩",
+        "onboard_time": 1661243072,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406304,
+        "num": 372103,
+        "word": "李易峰要给范丞丞新片包5场",
+        "onboard_time": 1661249912,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405154,
+        "num": 359665,
+        "word": "赵丽颖白色眼线脏辫造型",
+        "onboard_time": 1661233410,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 346773,
+        "num": 346773,
+        "word": "时代少年团蜕变三周年正片预告",
+        "onboard_time": 1661253211,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343104,
+        "num": 343104,
+        "word": "公共泳池水尿素超标最为普遍",
+        "onboard_time": 1661244754,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337100,
+        "num": 337100,
+        "word": "四川多条河流将明显涨水",
+        "onboard_time": 1661248411,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323526,
+        "num": 323526,
+        "word": "8岁男孩帮父亲卖宵夜娴熟杀鱼",
+        "onboard_time": 1661249069,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293870,
+        "num": 293870,
+        "word": "男子做透析躺病床偷护士手机",
+        "onboard_time": 1661250392,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272359,
+        "num": 272359,
+        "word": "四川省教育厅",
+        "onboard_time": 1661242290,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 271035,
+        "num": 271035,
+        "word": "小狗溺水好心男子按压救活",
+        "onboard_time": 1661247511,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 251038,
+        "num": 251038,
+        "word": "冷空气已经在路上了",
+        "onboard_time": 1661252669,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337533,
+        "num": 250558,
+        "word": "马嘉祺个人pb寻迹短片预告",
+        "onboard_time": 1661252009,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313658,
+        "num": 248762,
+        "word": "苍兰诀豆瓣开分7.7分",
+        "onboard_time": 1661245411,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289203,
+        "num": 247196,
+        "word": "毛雪汪鹿晗唱花海",
+        "onboard_time": 1661251952,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310830,
+        "num": 246268,
+        "word": "苍兰诀",
+        "onboard_time": 1661251650,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245845,
+        "num": 245845,
+        "word": "康师傅方便面净利暴跌39%",
+        "onboard_time": 1661241811,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304223,
+        "num": 243382,
+        "word": "苍兰诀 死局",
+        "onboard_time": 1661242592,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240394,
+        "num": 240394,
+        "word": "广州疫情防控",
+        "onboard_time": 1661247572,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215667,
+        "num": 215667,
+        "word": "重庆北碚山火小伙自发骑摩托支援",
+        "onboard_time": 1661251650,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 206094,
+        "num": 206094,
+        "word": "郭艾伦说转会不是为了名利",
+        "onboard_time": 1661247991,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196984,
+        "num": 196984,
+        "word": "不太普通的普通话",
+        "onboard_time": 1661251468,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250909,
+        "num": 196868,
+        "word": "歌红人不红是种什么体验",
+        "onboard_time": 1661253390,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187616,
+        "num": 187616,
+        "word": "谁能拒绝扭屁股的滚滚呢",
+        "onboard_time": 1661249972,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168870,
+        "num": 168870,
+        "word": "河北涿州市实行全域静默管理",
+        "onboard_time": 1661252850,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161447,
+        "num": 161447,
+        "word": "上海打雷",
+        "onboard_time": 1661244272,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158472,
+        "num": 158472,
+        "word": "怦然心动漫画",
+        "onboard_time": 1661229756,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 144104,
+        "word": "国内油价迎年内5连降",
+        "onboard_time": 1661253211,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 129354,
+        "num": 129354,
+        "word": "华为要把活下来作为主要纲领",
+        "onboard_time": 1661234311,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129114,
+        "num": 129114,
+        "word": "男子收集核酸贴纸做挂饰送女友",
+        "onboard_time": 1661253448,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118031,
+        "num": 118031,
+        "word": "北京八宝山天元殡仪被罚",
+        "onboard_time": 1661242891,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115957,
+        "num": 115957,
+        "word": "没想到大爷也是kpop人",
+        "onboard_time": 1661251712,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建人与自然生命共同体#"
+    }
+  }
+}
