@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661280241148,
+  "endTime": 1661282271432,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -53641,6 +53641,14 @@
       "onboard_time": 1659557532,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13490,
+      "num": 13490,
+      "word": "200多名武警官兵驰援重庆大足火场",
+      "onboard_time": 1661281933,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 13370,
