@@ -1,0 +1,410 @@
+{
+  "runTime": 1661262080558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9066823,
+        "num": 9066823,
+        "word": "猫耳 下架",
+        "onboard_time": 1661254830,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2859978,
+        "num": 2859978,
+        "word": "福建精子库质量堪忧",
+        "onboard_time": 1661249672,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32992,
+        "num": 2167046,
+        "word": "中国航天捷报频传",
+        "onboard_time": 1661225730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1661516,
+        "num": 1661516,
+        "word": "16个外甥住舅舅家55天花掉6万",
+        "onboard_time": 1661255189,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115759,
+        "num": 1115759,
+        "word": "男子明知是骗子仍转账40万",
+        "onboard_time": 1661258735,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083677,
+        "num": 1083677,
+        "word": "久酷",
+        "onboard_time": 1661257593,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1083460,
+        "num": 1083460,
+        "word": "网传仙剑七主演暂定孟子义邓为",
+        "onboard_time": 1661259572,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1011911,
+        "num": 1011911,
+        "word": "快乐再出发",
+        "onboard_time": 1661257473,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681639,
+        "num": 681639,
+        "word": "久哲",
+        "onboard_time": 1661260173,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 641516,
+        "num": 641516,
+        "word": "这居然是江西的零食",
+        "onboard_time": 1661257952,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 633477,
+        "num": 633477,
+        "word": "三皇子求程少商",
+        "onboard_time": 1661256094,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542427,
+        "num": 542427,
+        "word": "苍兰诀每晚更新4集花絮",
+        "onboard_time": 1661258853,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520637,
+        "num": 520637,
+        "word": "章子怡婉拒教父导演新片",
+        "onboard_time": 1661252253,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517810,
+        "num": 517810,
+        "word": "男子去世捐遗给儿子就读大学",
+        "onboard_time": 1661253991,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3455,
+        "num": 499437,
+        "word": "爱情债主陆林深",
+        "onboard_time": 1661259633,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 482961,
+        "num": 482961,
+        "word": "重庆山火",
+        "onboard_time": 1661260475,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475121,
+        "num": 475121,
+        "word": "四川 停电",
+        "onboard_time": 1661225066,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444696,
+        "num": 444696,
+        "word": "当狗狗第一次被允许上床",
+        "onboard_time": 1661249850,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422686,
+        "num": 422686,
+        "word": "外交部回应日本国会议员窜台",
+        "onboard_time": 1661251892,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 397944,
+        "num": 397944,
+        "word": "中国最后一位女酋长去世",
+        "onboard_time": 1661240852,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433091,
+        "num": 388579,
+        "word": "吴磊镜头下的办公版霍无伤",
+        "onboard_time": 1661255313,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336676,
+        "num": 336676,
+        "word": "作协回应贾浅浅拟入中国作协引争议",
+        "onboard_time": 1661257834,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322297,
+        "num": 322297,
+        "word": "男子远隔千里被喷比榴莲还臭",
+        "onboard_time": 1661258435,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321193,
+        "num": 321193,
+        "word": "警方通报男子半夜摸进合租女孩房间",
+        "onboard_time": 1661251231,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309942,
+        "num": 309942,
+        "word": "张艺兴投资首家直播公司成立",
+        "onboard_time": 1661261915,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297236,
+        "num": 297236,
+        "word": "曾沛慈确诊新冠",
+        "onboard_time": 1661247991,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 272715,
+        "num": 272715,
+        "word": "冷空气已经在路上了",
+        "onboard_time": 1661252669,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256376,
+        "num": 256376,
+        "word": "原来不恋爱的人是最幸福的",
+        "onboard_time": 1661261374,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243630,
+        "num": 243630,
+        "word": "中国气象局调派人工增雨飞机抵达重庆",
+        "onboard_time": 1661250092,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233935,
+        "num": 233935,
+        "word": "四川部分区域今日将有大雨",
+        "onboard_time": 1661254230,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231738,
+        "num": 231738,
+        "word": "前任为什么叫EX",
+        "onboard_time": 1661246010,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231212,
+        "num": 231212,
+        "word": "朱正廷为做好盛典主持人有多努力",
+        "onboard_time": 1661261915,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226106,
+        "num": 226106,
+        "word": "广州晚霞",
+        "onboard_time": 1661259392,
+        "rank": 32,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 217525,
+        "num": 217525,
+        "word": "刘恺华让姜磊协助警方",
+        "onboard_time": 1661255551,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212071,
+        "num": 212071,
+        "word": "男子做透析躺病床偷护士手机",
+        "onboard_time": 1661250392,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197460,
+        "num": 197460,
+        "word": "朱一龙人生大事网播倒计时",
+        "onboard_time": 1661261133,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189293,
+        "num": 189293,
+        "word": "夸克",
+        "onboard_time": 1661261794,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 183324,
+        "num": 183324,
+        "word": "JDG战胜LNG",
+        "onboard_time": 1661256334,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177943,
+        "num": 177943,
+        "word": "抄家事件后特朗普党内支持率达70%左右",
+        "onboard_time": 1661249311,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162206,
+        "num": 162206,
+        "word": "晚霞",
+        "onboard_time": 1661255851,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 193641,
+        "num": 161759,
+        "word": "刘宇宁直播",
+        "onboard_time": 1661257952,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185294,
+        "num": 161089,
+        "word": "欢乐颂3",
+        "onboard_time": 1661259872,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171613,
+        "num": 160798,
+        "word": "暑期档三部古装剧豆瓣评分",
+        "onboard_time": 1661248770,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159410,
+        "num": 159410,
+        "word": "中国女排战胜菲律宾女排",
+        "onboard_time": 1661260833,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147670,
+        "num": 147670,
+        "word": "男子收集核酸贴纸做挂饰送女友",
+        "onboard_time": 1661253448,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139609,
+        "num": 139609,
+        "word": "河北涿州发现8例初筛阳性人员",
+        "onboard_time": 1661251290,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136960,
+        "num": 136960,
+        "word": "四川省教育厅",
+        "onboard_time": 1661242290,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135017,
+        "num": 135017,
+        "word": "特朗普在海湖庄园私藏300多份机密文件",
+        "onboard_time": 1661245349,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 125437,
+        "num": 125437,
+        "word": "贾浅浅的诗到底写得好不好",
+        "onboard_time": 1661260054,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119503,
+        "num": 119503,
+        "word": "中国女排vs菲律宾女排",
+        "onboard_time": 1661260951,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}

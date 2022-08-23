@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661259976263,
+  "endTime": 1661262080558,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -259,6 +259,30 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1115759,
+      "num": 1115759,
+      "word": "男子明知是骗子仍转账40万",
+      "onboard_time": 1661258735,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1083677,
+      "num": 1083677,
+      "word": "久酷",
+      "onboard_time": 1661257593,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1083460,
+      "num": 1083460,
+      "word": "网传仙剑七主演暂定孟子义邓为",
+      "onboard_time": 1661259572,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1058887,
       "num": 443783,
       "word": "吴露可逃",
@@ -273,6 +297,14 @@
       "onboard_time": 1661248770,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1011911,
+      "num": 1011911,
+      "word": "快乐再出发",
+      "onboard_time": 1661257473,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1005322,
@@ -443,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742100,
-      "num": 742100,
-      "word": "久酷",
-      "onboard_time": 1661257593,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 734661,
       "num": 734661,
       "word": "爱情而已剧组回应素材泄露",
@@ -489,6 +513,14 @@
       "onboard_time": 1661227233,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 681639,
+      "num": 681639,
+      "word": "久哲",
+      "onboard_time": 1661260173,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 681238,
@@ -537,6 +569,14 @@
       "onboard_time": 1661210723,
       "rank": 20,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 641516,
+      "num": 641516,
+      "word": "这居然是江西的零食",
+      "onboard_time": 1661257952,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 635380,
@@ -667,12 +707,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 544333,
-      "num": 544333,
-      "word": "快乐再出发",
-      "onboard_time": 1661257473,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 542427,
+      "num": 542427,
+      "word": "苍兰诀每晚更新4集花絮",
+      "onboard_time": 1661258853,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 540726,
@@ -731,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491026,
-      "num": 491026,
-      "word": "网传仙剑七主演暂定孟子义邓为",
-      "onboard_time": 1661259572,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 488568,
       "num": 488568,
       "word": "本座从未爱过你",
@@ -769,6 +801,14 @@
       "onboard_time": 1661240190,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482961,
+      "num": 482961,
+      "word": "重庆山火",
+      "onboard_time": 1661260475,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479568,
@@ -816,14 +856,6 @@
       "word": "王鹤棣无实物表演对抗祟气",
       "onboard_time": 1661240550,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 472458,
-      "num": 299966,
-      "word": "苍兰诀每晚更新4集花絮",
-      "onboard_time": 1661258853,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -929,14 +961,6 @@
       "onboard_time": 1661251290,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418259,
-      "num": 418259,
-      "word": "这居然是江西的零食",
-      "onboard_time": 1661257952,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 405176,
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336676,
+      "num": 336676,
+      "word": "作协回应贾浅浅拟入中国作协引争议",
+      "onboard_time": 1661257834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336206,
       "num": 336206,
       "word": "重庆中心城区开展核酸筛查",
@@ -1235,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325630,
-      "num": 325630,
-      "word": "作协回应贾浅浅拟入中国作协引争议",
-      "onboard_time": 1661257834,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325109,
       "num": 325109,
       "word": "河南特岗",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1661249311,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322297,
+      "num": 322297,
+      "word": "男子远隔千里被喷比榴莲还臭",
+      "onboard_time": 1661258435,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316866,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1661211206,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 309942,
+      "num": 309942,
+      "word": "张艺兴投资首家直播公司成立",
+      "onboard_time": 1661261915,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 303041,
@@ -1443,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265164,
-      "num": 265164,
-      "word": "男子明知是骗子仍转账40万",
-      "onboard_time": 1661258735,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264558,
       "num": 264558,
       "word": "处暑",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1661236291,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256376,
+      "num": 256376,
+      "word": "原来不恋爱的人是最幸福的",
+      "onboard_time": 1661261374,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 256360,
@@ -1651,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231212,
+      "num": 231212,
+      "word": "朱正廷为做好盛典主持人有多努力",
+      "onboard_time": 1661261915,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229676,
       "num": 229676,
       "word": "格力电器回应停止河北经销商供货",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1661244511,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226106,
+      "num": 226106,
+      "word": "广州晚霞",
+      "onboard_time": 1661259392,
+      "rank": 42,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 224838,
@@ -1843,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197460,
+      "num": 197460,
+      "word": "朱一龙人生大事网播倒计时",
+      "onboard_time": 1661261133,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196984,
       "num": 196984,
       "word": "不太普通的普通话",
@@ -1923,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189293,
+      "num": 189293,
+      "word": "夸克",
+      "onboard_time": 1661261794,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 188271,
       "num": 188271,
       "word": "他们是离山火最近的人",
@@ -1937,14 +2009,6 @@
       "onboard_time": 1661249972,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185363,
-      "num": 185363,
-      "word": "男子远隔千里被喷比榴莲还臭",
-      "onboard_time": 1661258435,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181216,
@@ -2115,12 +2179,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 159118,
-      "num": 159118,
-      "word": "广州晚霞",
-      "onboard_time": 1661259392,
-      "rank": 42,
-      "category": "社会新闻,自然"
+      "raw_hot": 159410,
+      "num": 159410,
+      "word": "中国女排战胜菲律宾女排",
+      "onboard_time": 1661260833,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 158971,
@@ -2323,6 +2387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125437,
+      "num": 125437,
+      "word": "贾浅浅的诗到底写得好不好",
+      "onboard_time": 1661260054,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125265,
       "num": 125265,
       "word": "王一博陈宇叉腰",
@@ -2337,6 +2409,14 @@
       "onboard_time": 1661166750,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119503,
+      "num": 119503,
+      "word": "中国女排vs菲律宾女排",
+      "onboard_time": 1661260951,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118649,
@@ -2435,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32992,
+      "num": 2273939,
+      "word": "中国航天捷报频传",
+      "onboard_time": 1661225730,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 24621,
       "num": 491145,
       "word": "一台价值过亿的MPV",
@@ -2460,7 +2548,7 @@
     },
     {
       "raw_hot": 13208,
-      "num": 485990,
+      "num": 499437,
       "word": "爱情债主陆林深",
       "onboard_time": 1661259633,
       "rank": 14,
@@ -2473,14 +2561,6 @@
       "onboard_time": 1661201531,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 10704,
-      "num": 2273939,
-      "word": "中国航天捷报频传",
-      "onboard_time": 1661225730,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 9003,
