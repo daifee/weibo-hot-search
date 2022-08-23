@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661282271432,
+  "endTime": 1661283216154,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28160,
+      "num": 28160,
+      "word": "200多名武警官兵驰援重庆大足火场",
+      "onboard_time": 1661281933,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 28068,
       "num": 28068,
       "word": "网传仙剑七主演暂定孟子义邓为",
@@ -425,14 +433,6 @@
       "onboard_time": 1661225730,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 13490,
-      "num": 13490,
-      "word": "200多名武警官兵驰援重庆大足火场",
-      "onboard_time": 1661281933,
-      "rank": 49,
-      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
