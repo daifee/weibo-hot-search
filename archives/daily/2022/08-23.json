@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661253519564,
+  "endTime": 1661254524702,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -120,6 +120,14 @@
       "word": "小兰花的骨兰变小了",
       "onboard_time": 1661235270,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1571071,
+      "num": 1571071,
+      "word": "章子怡婉拒教父导演新片",
+      "onboard_time": 1661252253,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -331,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860193,
+      "num": 860193,
+      "word": "当狗狗第一次被允许上床",
+      "onboard_time": 1661249850,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 857908,
       "num": 857908,
       "word": "被狗狗离家去世前的监控整破防了",
       "onboard_time": 1661183673,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 842783,
-      "num": 842783,
-      "word": "当狗狗第一次被允许上床",
-      "onboard_time": 1661249850,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 801476,
@@ -419,19 +427,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 707387,
+      "num": 707387,
+      "word": "外交部回应日本国会议员窜台",
+      "onboard_time": 1661251892,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 696895,
       "num": 696895,
       "word": "苍兰诀 死局",
       "onboard_time": 1661242592,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 688091,
-      "num": 688091,
-      "word": "章子怡婉拒教父导演新片",
-      "onboard_time": 1661252253,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -627,6 +635,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 524621,
+      "num": 524621,
+      "word": "警方通报男子半夜摸进合租女孩房间",
+      "onboard_time": 1661251231,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508531,
       "num": 508531,
       "word": "冰雨火王一博角色热度周榜冠军",
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484368,
+      "num": 484368,
+      "word": "唐周在墓前哭成泪人",
+      "onboard_time": 1661251290,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484137,
       "num": 484137,
       "word": "凌不疑程少商拥抱名场面",
@@ -697,6 +721,14 @@
       "onboard_time": 1661221231,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 478751,
+      "num": 338847,
+      "word": "歌红人不红是种什么体验",
+      "onboard_time": 1661253390,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 478565,
@@ -736,14 +768,6 @@
       "word": "看给月主吓的",
       "onboard_time": 1661179114,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 468582,
-      "num": 468582,
-      "word": "唐周在墓前哭成泪人",
-      "onboard_time": 1661251290,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -787,20 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440679,
-      "num": 440679,
-      "word": "外交部回应日本国会议员窜台",
-      "onboard_time": 1661251892,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 438098,
-      "num": 438098,
-      "word": "警方通报男子半夜摸进合租女孩房间",
-      "onboard_time": 1661251231,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 445924,
+      "num": 410736,
+      "word": "李易峰要给范丞丞新片包5场",
+      "onboard_time": 1661249912,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 429024,
@@ -833,14 +849,6 @@
       "onboard_time": 1661251290,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410736,
-      "num": 410736,
-      "word": "李易峰要给范丞丞新片包5场",
-      "onboard_time": 1661249912,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 405176,
@@ -1075,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337488,
+      "num": 337488,
+      "word": "男子做透析躺病床偷护士手机",
+      "onboard_time": 1661250392,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336206,
       "num": 336206,
       "word": "重庆中心城区开展核酸筛查",
@@ -1115,8 +1131,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 325406,
-      "num": 325406,
+      "raw_hot": 327151,
+      "num": 327151,
       "word": "8岁男孩帮父亲卖宵夜娴熟杀鱼",
       "onboard_time": 1661249069,
       "rank": 25,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1661249311,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317911,
+      "num": 317911,
+      "word": "冷空气已经在路上了",
+      "onboard_time": 1661252669,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316866,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1661237249,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293870,
-      "num": 293870,
-      "word": "男子做透析躺病床偷护士手机",
-      "onboard_time": 1661250392,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289203,
@@ -1379,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252682,
+      "num": 225573,
+      "word": "冰雨火",
+      "onboard_time": 1661254170,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252581,
       "num": 252581,
       "word": "白鹿旗袍上的台绣文化",
@@ -1401,22 +1425,6 @@
       "onboard_time": 1661241872,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 251038,
-      "num": 251038,
-      "word": "冷空气已经在路上了",
-      "onboard_time": 1661252669,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250909,
-      "num": 196868,
-      "word": "歌红人不红是种什么体验",
-      "onboard_time": 1661253390,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 249865,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1661249010,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220629,
+      "num": 220629,
+      "word": "男子收集核酸贴纸做挂饰送女友",
+      "onboard_time": 1661253448,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217992,
@@ -2075,10 +2091,10 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129114,
-      "num": 129114,
-      "word": "男子收集核酸贴纸做挂饰送女友",
-      "onboard_time": 1661253448,
+      "raw_hot": 128259,
+      "num": 128259,
+      "word": "男子去世捐遗给儿子就读大学",
+      "onboard_time": 1661253991,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -2104,6 +2120,14 @@
       "word": "成都将在8月26日退出高温行列",
       "onboard_time": 1661166750,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120846,
+      "num": 120846,
+      "word": "四川部分区域今日将有大雨",
+      "onboard_time": 1661254230,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2204,7 +2228,7 @@
     },
     {
       "raw_hot": 24621,
-      "num": 449244,
+      "num": 491145,
       "word": "一台价值过亿的MPV",
       "onboard_time": 1661252433,
       "rank": 14,
