@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661264425108,
+  "endTime": 1661265410727,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -97,6 +97,14 @@
       "onboard_time": 1661217032,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2439525,
+      "num": 665121,
+      "word": "七度空间 刘浩存",
+      "onboard_time": 1661263656,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2225711,
@@ -243,12 +251,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1283558,
+      "num": 1283558,
+      "word": "快乐再出发",
+      "onboard_time": 1661257473,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1270380,
       "num": 1270380,
       "word": "睡眠不足7小时的人胳膊大腿更粗",
       "onboard_time": 1661167709,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1264581,
+      "num": 1264581,
+      "word": "原来不恋爱的人是最幸福的",
+      "onboard_time": 1661261374,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 1262212,
@@ -273,14 +297,6 @@
       "onboard_time": 1661234311,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1160623,
-      "num": 1160623,
-      "word": "快乐再出发",
-      "onboard_time": 1661257473,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1137173,
@@ -329,14 +345,6 @@
       "onboard_time": 1661223510,
       "rank": 41,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 987271,
-      "num": 987271,
-      "word": "原来不恋爱的人是最幸福的",
-      "onboard_time": 1661261374,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 965751,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 765261,
-      "num": 619738,
+      "num": 636193,
       "word": "张艺兴投资首家直播公司成立",
       "onboard_time": 1661261915,
       "rank": 24,
@@ -529,6 +537,22 @@
       "onboard_time": 1661216372,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 701156,
+      "num": 624877,
+      "word": "成毅沉香重华一人分饰四角",
+      "onboard_time": 1661263536,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 697777,
+      "num": 697777,
+      "word": "坐地铁千万不要轻易戴耳机",
+      "onboard_time": 1661262453,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 696895,
@@ -595,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664625,
-      "num": 617501,
-      "word": "七度空间 刘浩存",
-      "onboard_time": 1661263656,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 658861,
+      "num": 567613,
+      "word": "俞灏明王栎鑫再唱红日",
+      "onboard_time": 1661262997,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 657508,
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567613,
-      "num": 567613,
-      "word": "俞灏明王栎鑫再唱红日",
-      "onboard_time": 1661262997,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565797,
       "num": 565797,
       "word": "男子去世捐遗给儿子就读大学",
@@ -728,6 +744,14 @@
       "word": "男子偷价值10万自行车100元卖掉",
       "onboard_time": 1661179473,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554810,
+      "num": 554810,
+      "word": "男子boss直聘求职被骂长的像贼",
+      "onboard_time": 1661263595,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -793,6 +817,14 @@
       "onboard_time": 1661229094,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 498686,
+      "num": 329279,
+      "word": "vox",
+      "onboard_time": 1661264554,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 497316,
@@ -913,14 +945,6 @@
       "onboard_time": 1661179114,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 468318,
-      "num": 468318,
-      "word": "坐地铁千万不要轻易戴耳机",
-      "onboard_time": 1661262453,
-      "rank": 37,
-      "category": "其它"
     },
     {
       "raw_hot": 465808,
@@ -1051,11 +1075,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 388893,
-      "num": 310556,
-      "word": "成毅沉香重华一人分饰四角",
+      "raw_hot": 394083,
+      "num": 306302,
+      "word": "舍不得牛骏峰演的赵优秀",
       "onboard_time": 1661263536,
-      "rank": 22,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1131,14 +1155,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 360191,
-      "num": 279238,
-      "word": "舍不得牛骏峰演的赵优秀",
-      "onboard_time": 1661263536,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360106,
       "num": 291620,
       "word": "唐周 我带你走",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1661243911,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 347978,
+      "num": 231581,
+      "word": "张远王铮亮有生之年合作舞台",
+      "onboard_time": 1661265037,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 347478,
@@ -1323,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 331993,
+      "num": 331993,
+      "word": "分手一定是因为不喜欢了吗",
+      "onboard_time": 1661263417,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327151,
       "num": 327151,
       "word": "8岁男孩帮父亲卖宵夜娴熟杀鱼",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1661254230,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315061,
+      "num": 315061,
+      "word": "这是小猫该有的坐姿吗",
+      "onboard_time": 1661263297,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 313219,
@@ -1803,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228673,
+      "num": 228673,
+      "word": "在网络上好好说话有多重要",
+      "onboard_time": 1661263771,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 226194,
       "num": 172889,
       "word": "二十不惑2",
@@ -1947,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202383,
-      "num": 202383,
-      "word": "在网络上好好说话有多重要",
-      "onboard_time": 1661263771,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 202278,
       "num": 186448,
       "word": "郑钧年轻时颜值",
@@ -1985,14 +2025,6 @@
       "onboard_time": 1661214573,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197632,
-      "num": 197632,
-      "word": "这是小猫该有的坐姿吗",
-      "onboard_time": 1661263297,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 197460,
@@ -2027,14 +2059,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 193597,
-      "num": 193597,
-      "word": "男子boss直聘求职被骂长的像贼",
-      "onboard_time": 1661263595,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193232,
       "num": 193232,
       "word": "没有电的夏天有多煎熬",
@@ -2049,14 +2073,6 @@
       "onboard_time": 1661234432,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192209,
-      "num": 192209,
-      "word": "分手一定是因为不喜欢了吗",
-      "onboard_time": 1661263417,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 192157,
@@ -2259,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165489,
+      "num": 165489,
+      "word": "16位外甥组团到舅舅家过暑假",
+      "onboard_time": 1661264733,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 163627,
       "num": 163627,
       "word": "姜广涛 绘旅人",
@@ -2331,11 +2355,27 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 154942,
+      "num": 154942,
+      "word": "美驻乌使馆敦促美公民离开乌克兰",
+      "onboard_time": 1661265099,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
       "onboard_time": 1661160272,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149642,
+      "num": 149642,
+      "word": "贾浅浅的诗到底写得好不好",
+      "onboard_time": 1661260054,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2400,14 +2440,6 @@
       "word": "父母该替孩子的人生做决定吗",
       "onboard_time": 1661235869,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139350,
-      "num": 139350,
-      "word": "贾浅浅的诗到底写得好不好",
-      "onboard_time": 1661260054,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
