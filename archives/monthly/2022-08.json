@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661243248160,
+  "endTime": 1661244205348,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2259,6 +2259,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2717094,
+      "num": 2338117,
+      "word": "9%澳民众认为中国将很快攻打澳大利亚",
+      "onboard_time": 1661240670,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2697211,
       "num": 2697211,
       "word": "台媒称解放军台海军演区域扩大至7处",
@@ -2715,6 +2723,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2458628,
+      "num": 2458628,
+      "word": "中国最后一位女酋长去世",
+      "onboard_time": 1661240852,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2454452,
       "num": 2454452,
       "word": "康辉",
@@ -2929,14 +2945,6 @@
       "onboard_time": 1659916047,
       "rank": 0,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 2338117,
-      "num": 2338117,
-      "word": "9%澳民众认为中国将很快攻打澳大利亚",
-      "onboard_time": 1661240670,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2337681,
@@ -3559,14 +3567,6 @@
       "num": 2105051,
       "word": "上海暂停外滩等地景观照明",
       "onboard_time": 1661068707,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2101799,
-      "num": 2101799,
-      "word": "中国最后一位女酋长去世",
-      "onboard_time": 1661240852,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -9547,6 +9547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1083622,
+      "num": 1083622,
+      "word": "四川省教育厅",
+      "onboard_time": 1661242290,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1083507,
       "num": 1083507,
       "word": "四川电力供需紧张让电于民",
@@ -12169,6 +12177,14 @@
       "onboard_time": 1659882095,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 877090,
+      "num": 877090,
+      "word": "康师傅方便面净利暴跌39%",
+      "onboard_time": 1661241811,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 876593,
@@ -15561,6 +15577,14 @@
       "onboard_time": 1659436735,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696895,
+      "num": 696895,
+      "word": "苍兰诀 死局",
+      "onboard_time": 1661242592,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 696844,
@@ -23699,6 +23723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477621,
+      "num": 477621,
+      "word": "待播古装剧热度TOP10",
+      "onboard_time": 1661241510,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477582,
       "num": 368581,
       "word": "王俊凯说我并不搞笑",
@@ -25139,14 +25171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450281,
-      "num": 450281,
-      "word": "四川省教育厅",
-      "onboard_time": 1661242290,
-      "rank": 13,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 450190,
       "num": 450190,
       "word": "AG斩获首届世锦赛冠军",
@@ -25257,14 +25281,6 @@
       "onboard_time": 1661084434,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 448700,
-      "num": 448700,
-      "word": "康师傅方便面净利暴跌39%",
-      "onboard_time": 1661241811,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 448451,
@@ -27939,6 +27955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410765,
+      "num": 410765,
+      "word": "给妈妈买卫生巾的小男孩",
+      "onboard_time": 1661243072,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 410759,
       "num": 410759,
       "word": "王俊凯献唱断桥推广曲",
@@ -28771,14 +28795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397472,
-      "num": 317556,
-      "word": "苍兰诀 死局",
-      "onboard_time": 1661242592,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 397464,
       "num": 246310,
       "word": "丁程鑫杀鱼",
@@ -28889,14 +28905,6 @@
       "onboard_time": 1659351212,
       "rank": 25,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 396079,
-      "num": 311863,
-      "word": "待播古装剧热度TOP10",
-      "onboard_time": 1661241510,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 396005,
@@ -33371,6 +33379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345978,
+      "num": 345978,
+      "word": "武大给这些新生每人10000元资助金",
+      "onboard_time": 1661241149,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 345892,
       "num": 345892,
       "word": "冰雨火登剧集影响力榜榜首",
@@ -35179,14 +35195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327771,
-      "num": 327771,
-      "word": "武大给这些新生每人10000元资助金",
-      "onboard_time": 1661241149,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 327728,
       "num": 327728,
       "word": "猫等这一天很久了",
@@ -35345,6 +35353,14 @@
       "onboard_time": 1660653631,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326287,
+      "num": 326287,
+      "word": "水月洞天有多经典",
+      "onboard_time": 1661240068,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 326252,
@@ -37624,14 +37640,6 @@
       "word": "小兰花天界Tony",
       "onboard_time": 1659884553,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 297713,
-      "num": 220831,
-      "word": "水月洞天有多经典",
-      "onboard_time": 1661240068,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -41715,6 +41723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254229,
+      "num": 212659,
+      "word": "民国大侦探连环案好刺激",
+      "onboard_time": 1661243731,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254221,
       "num": 216720,
       "word": "ITZY演唱会饭拍",
@@ -41881,6 +41897,14 @@
       "onboard_time": 1660703367,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 252232,
+      "num": 252232,
+      "word": "重庆CPA",
+      "onboard_time": 1661241872,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 252029,
@@ -44915,14 +44939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219789,
-      "num": 219789,
-      "word": "重庆CPA",
-      "onboard_time": 1661241872,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 219690,
       "num": 219690,
       "word": "东部战区公布运油20空中加油画面",
@@ -45395,6 +45411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 214949,
+      "num": 214949,
+      "word": "北京八宝山天元殡仪被罚",
+      "onboard_time": 1661242891,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214794,
       "num": 214794,
       "word": "于文文新歌刺猬",
@@ -45763,6 +45787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209650,
+      "num": 209650,
+      "word": "微信新功能哪个更实用",
+      "onboard_time": 1661242951,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 209408,
       "num": 209408,
       "word": "北京8月19日新增本土感染者5例",
@@ -45825,6 +45857,14 @@
       "onboard_time": 1661083171,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208632,
+      "num": 208632,
+      "word": "白敬亭长风渡红衣官服路透",
+      "onboard_time": 1661243312,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 208624,
@@ -48547,12 +48587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170647,
-      "num": 170647,
-      "word": "微信新功能哪个更实用",
-      "onboard_time": 1661242951,
-      "rank": 44,
-      "category": "科技"
+      "raw_hot": 170356,
+      "num": 170356,
+      "word": "重庆中心城区核酸采样点最全信息",
+      "onboard_time": 1661243372,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170337,
@@ -48625,14 +48665,6 @@
       "onboard_time": 1659952716,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168576,
-      "num": 168576,
-      "word": "给妈妈买卫生巾的小男孩",
-      "onboard_time": 1661243072,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 168391,
@@ -48953,14 +48985,6 @@
       "onboard_time": 1661039841,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161955,
-      "num": 161955,
-      "word": "北京八宝山天元殡仪被罚",
-      "onboard_time": 1661242891,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161940,
@@ -49563,6 +49587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150999,
+      "num": 150999,
+      "word": "NASA发布木星高清图像",
+      "onboard_time": 1661243911,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 150464,
       "num": 150464,
       "word": "乘客翻入北京地铁2号线轨道身亡",
@@ -49657,6 +49689,14 @@
       "onboard_time": 1660086561,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148773,
+      "num": 148773,
+      "word": "黑猫奇闻社 电话",
+      "onboard_time": 1661244092,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 148114,
@@ -50081,6 +50121,14 @@
       "onboard_time": 1659290954,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 138611,
+      "num": 1896108,
+      "word": "办好这件事中国有数",
+      "onboard_time": 1661240909,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 138459,
@@ -51337,14 +51385,6 @@
       "onboard_time": 1660148966,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90904,
-      "num": 1896108,
-      "word": "办好这件事中国有数",
-      "onboard_time": 1661240909,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 89802,
