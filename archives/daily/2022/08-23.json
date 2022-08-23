@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661246503491,
+  "endTime": 1661247519952,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1537412,
+      "num": 1537412,
+      "word": "苍兰诀豆瓣开分7.7分",
+      "onboard_time": 1661245411,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1531514,
       "num": 1467617,
       "word": "四川省教育厅",
@@ -131,14 +139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1470776,
-      "num": 1470776,
-      "word": "苍兰诀豆瓣开分7.7分",
-      "onboard_time": 1661245411,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1458690,
       "num": 1458690,
       "word": "康师傅方便面净利暴跌39%",
@@ -153,6 +153,14 @@
       "onboard_time": 1661233171,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1363347,
+      "num": 1363347,
+      "word": "给妈妈买卫生巾的小男孩",
+      "onboard_time": 1661243072,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 1297540,
@@ -195,14 +203,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1077485,
-      "num": 1077485,
-      "word": "给妈妈买卫生巾的小男孩",
-      "onboard_time": 1661243072,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1058887,
       "num": 443783,
       "word": "吴露可逃",
@@ -225,6 +225,14 @@
       "onboard_time": 1661221470,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 935090,
+      "num": 935090,
+      "word": "前任为什么叫EX",
+      "onboard_time": 1661246010,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 897016,
@@ -281,6 +289,14 @@
       "onboard_time": 1661229875,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 787749,
+      "num": 787749,
+      "word": "公共泳池水尿素超标最为普遍",
+      "onboard_time": 1661244754,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 783218,
@@ -459,6 +475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 574930,
+      "num": 574930,
+      "word": "特朗普在海湖庄园私藏300多份机密文件",
+      "onboard_time": 1661245349,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 570430,
       "num": 570430,
       "word": "出租车司机摸醉酒女乘客腿被抓",
@@ -595,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479568,
+      "num": 479568,
+      "word": "成毅说今晚的月色真美",
+      "onboard_time": 1661246613,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 479352,
       "num": 479352,
       "word": "虞书欣王鹤棣月光吻花絮",
@@ -675,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446812,
-      "num": 446812,
-      "word": "公共泳池水尿素超标最为普遍",
-      "onboard_time": 1661244754,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429024,
       "num": 429024,
       "word": "容昊 上帝视角",
@@ -729,6 +753,14 @@
       "onboard_time": 1661215709,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397191,
+      "num": 292067,
+      "word": "你的专业在九嶷山能做什么",
+      "onboard_time": 1661247329,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 387817,
@@ -835,6 +867,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351095,
+      "num": 351095,
+      "word": "NASA发布木星高清图像",
+      "onboard_time": 1661243911,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 350746,
+      "num": 187904,
+      "word": "颜淡把唐周错认成应渊",
+      "onboard_time": 1661246251,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347478,
       "num": 347478,
       "word": "用完的酱油瓶千万不要扔",
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336206,
+      "num": 336206,
+      "word": "重庆中心城区开展核酸筛查",
+      "onboard_time": 1661245831,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334540,
       "num": 334540,
       "word": "小兰花要死了",
@@ -913,14 +969,6 @@
       "onboard_time": 1661230894,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 325115,
-      "num": 325115,
-      "word": "NASA发布木星高清图像",
-      "onboard_time": 1661243911,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 325109,
@@ -995,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287815,
-      "num": 287815,
-      "word": "重庆中心城区开展核酸筛查",
-      "onboard_time": 1661245831,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287457,
       "num": 287457,
       "word": "恋爱的夏天定档0828",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1661233290,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268139,
-      "num": 197527,
-      "word": "前任为什么叫EX",
-      "onboard_time": 1661246010,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 267255,
@@ -1163,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252543,
+      "num": 252543,
+      "word": "四川多所高校调整秋季开学时间",
+      "onboard_time": 1661246251,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 252232,
       "num": 252232,
       "word": "重庆CPA",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1661192894,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238768,
-      "num": 238768,
-      "word": "特朗普在海湖庄园私藏300多份机密文件",
-      "onboard_time": 1661245349,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 237820,
@@ -1419,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188271,
+      "num": 188271,
+      "word": "他们是离山火最近的人",
+      "onboard_time": 1661246613,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181216,
       "num": 181216,
       "word": "红辣椒将拍真人剧集",
@@ -1571,20 +1611,20 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 161706,
+      "num": 161706,
+      "word": "JDG对战LNG",
+      "onboard_time": 1661245771,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161528,
       "num": 161528,
       "word": "过路女子手机示警守护摔倒男子",
       "onboard_time": 1661223748,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 159405,
-      "num": 159405,
-      "word": "四川多所高校调整秋季开学时间",
-      "onboard_time": 1661246251,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 158971,
@@ -1627,6 +1667,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 155451,
+      "num": 155451,
+      "word": "参与3次山火救援的大学生找到了",
+      "onboard_time": 1661245114,
+      "rank": 45,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1661172151,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146490,
-      "num": 146490,
-      "word": "参与3次山火救援的大学生找到了",
-      "onboard_time": 1661245114,
-      "rank": 45,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 144955,
@@ -1763,14 +1803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129509,
-      "num": 129509,
-      "word": "JDG对战LNG",
-      "onboard_time": 1661245771,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127730,
       "num": 127730,
       "word": "KSG锁定第三轮",
@@ -1819,12 +1851,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111982,
+      "num": 111982,
+      "word": "想尝尝新口味的小猫",
+      "onboard_time": 1661246674,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 110731,
       "num": 110731,
       "word": "苍兰诀片场的王鹤棣",
       "onboard_time": 1661210121,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 106091,
+      "num": 106091,
+      "word": "小狗溺水好心男子按压救活",
+      "onboard_time": 1661247511,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 105902,
