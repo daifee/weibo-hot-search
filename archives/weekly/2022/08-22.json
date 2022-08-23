@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661272220373,
+  "endTime": 1661273620705,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -89,6 +89,14 @@
       "onboard_time": 1661135311,
       "rank": 1,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 3200406,
+      "num": 1153662,
+      "word": "四大精子杀手",
+      "onboard_time": 1661270491,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3171367,
@@ -200,14 +208,6 @@
       "word": "长期晚睡可能出现睡眠障碍",
       "onboard_time": 1661217032,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2479616,
-      "num": 1153662,
-      "word": "四大精子杀手",
-      "onboard_time": 1661270491,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -859,6 +859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 913880,
+      "num": 494027,
+      "word": "顾客称裸身被困酒店淋浴房",
+      "onboard_time": 1661270968,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908911,
       "num": 908911,
       "word": "贵州赤水山火",
@@ -1328,6 +1336,14 @@
       "word": "邓州警方回应小女孩连续击打婴儿",
       "onboard_time": 1661175570,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630923,
+      "num": 630923,
+      "word": "官方回应女子曝老人组团偷南瓜",
+      "onboard_time": 1661271149,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2059,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438190,
+      "num": 438190,
+      "word": "mysta",
+      "onboard_time": 1661270968,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 435177,
       "num": 435177,
       "word": "JDG战胜LNG",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1661157152,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380507,
-      "num": 380507,
-      "word": "mysta",
-      "onboard_time": 1661270968,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 380059,
@@ -2795,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329744,
-      "num": 329744,
-      "word": "顾客称裸身被困酒店淋浴房",
-      "onboard_time": 1661270968,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329701,
       "num": 329701,
       "word": "未定事件簿",
@@ -3113,14 +3121,6 @@
       "onboard_time": 1661093373,
       "rank": 18,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 289401,
-      "num": 289401,
-      "word": "官方回应女子曝老人组团偷南瓜",
-      "onboard_time": 1661271149,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289203,
@@ -3817,6 +3817,14 @@
       "onboard_time": 1661136568,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235384,
+      "num": 235384,
+      "word": "闪亮的日子豆瓣开分9.1",
+      "onboard_time": 1661272645,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 234968,
@@ -4907,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149412,
+      "num": 149412,
+      "word": "四川一男子乱丢烟头引发火灾",
+      "onboard_time": 1661269353,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148560,
       "num": 148560,
       "word": "TES",
@@ -5231,14 +5247,6 @@
       "num": 100440,
       "word": "处暑意味着炎炎夏日即将结束",
       "onboard_time": 1661210664,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94870,
-      "num": 94870,
-      "word": "四川一男子乱丢烟头引发火灾",
-      "onboard_time": 1661269353,
       "rank": 48,
       "category": "社会新闻"
     },

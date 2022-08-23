@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661272220373,
+  "endTime": 1661273620705,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1627,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3200406,
+      "num": 1153662,
+      "word": "四大精子杀手",
+      "onboard_time": 1661270491,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3200171,
       "num": 3200171,
       "word": "王鹤棣学凌不疑抱",
@@ -2720,14 +2728,6 @@
       "word": "长期晚睡可能出现睡眠障碍",
       "onboard_time": 1661217032,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2479616,
-      "num": 1153662,
-      "word": "四大精子杀手",
-      "onboard_time": 1661270491,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -11867,6 +11867,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 913880,
+      "num": 494027,
+      "word": "顾客称裸身被困酒店淋浴房",
+      "onboard_time": 1661270968,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 912583,
       "num": 912583,
       "word": "保剑锋成功催更月升沧海",
@@ -17520,6 +17528,14 @@
       "word": "女子疑因超时发语音辱骂外卖员",
       "onboard_time": 1659468376,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630923,
+      "num": 630923,
+      "word": "官方回应女子曝老人组团偷南瓜",
+      "onboard_time": 1661271149,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -26491,6 +26507,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 438190,
+      "num": 438190,
+      "word": "mysta",
+      "onboard_time": 1661270968,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 438189,
       "num": 404736,
       "word": "苍兰诀编剧",
@@ -30689,14 +30713,6 @@
       "onboard_time": 1660278457,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 380507,
-      "num": 380507,
-      "word": "mysta",
-      "onboard_time": 1661270968,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 380499,
@@ -35675,14 +35691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329744,
-      "num": 329744,
-      "word": "顾客称裸身被困酒店淋浴房",
-      "onboard_time": 1661270968,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329719,
       "num": 329719,
       "word": "临沭开展全员核酸检测大比武",
@@ -39177,14 +39185,6 @@
       "onboard_time": 1660642955,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289401,
-      "num": 289401,
-      "word": "官方回应女子曝老人组团偷南瓜",
-      "onboard_time": 1661271149,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289203,
@@ -44353,6 +44353,14 @@
       "onboard_time": 1659682177,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235384,
+      "num": 235384,
+      "word": "闪亮的日子豆瓣开分9.1",
+      "onboard_time": 1661272645,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 235294,
@@ -50699,6 +50707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149412,
+      "num": 149412,
+      "word": "四川一男子乱丢烟头引发火灾",
+      "onboard_time": 1661269353,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149188,
       "num": 149188,
       "word": "有些狗是真没把自己当成狗",
@@ -52401,14 +52417,6 @@
       "onboard_time": 1660579825,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94870,
-      "num": 94870,
-      "word": "四川一男子乱丢烟头引发火灾",
-      "onboard_time": 1661269353,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94120,
