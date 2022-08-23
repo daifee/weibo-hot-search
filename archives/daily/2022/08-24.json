@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661294304713,
+  "endTime": 1661296937279,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -17,6 +17,14 @@
       "onboard_time": 1661269171,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1613339,
+      "num": 1613339,
+      "word": "官方回应女子曝老人组团偷南瓜",
+      "onboard_time": 1661271149,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1237181,
@@ -57,14 +65,6 @@
       "onboard_time": 1661263656,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 977437,
-      "num": 977437,
-      "word": "官方回应女子曝老人组团偷南瓜",
-      "onboard_time": 1661271149,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 962990,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440799,
+      "num": 440799,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438190,
       "num": 438190,
       "word": "mysta",
@@ -137,6 +145,30 @@
       "onboard_time": 1661266357,
       "rank": 20,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 413111,
+      "num": 413111,
+      "word": "15岁少年公交旅行4天9城花153元",
+      "onboard_time": 1661294055,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408655,
+      "num": 408655,
+      "word": "特种兵室内突击演习处处都是繁体字",
+      "onboard_time": 1661267074,
+      "rank": 25,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 396422,
+      "num": 396422,
+      "word": "原来这些角色都是张佳宁演的",
+      "onboard_time": 1661268932,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 394255,
@@ -211,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308739,
-      "num": 308739,
-      "word": "特种兵室内突击演习处处都是繁体字",
-      "onboard_time": 1661267074,
-      "rank": 25,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 303778,
       "num": 303778,
       "word": "男子明知是骗子仍转账40万",
@@ -267,14 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237206,
-      "num": 237206,
-      "word": "原来这些角色都是张佳宁演的",
-      "onboard_time": 1661268932,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235384,
       "num": 235384,
       "word": "闪亮的日子豆瓣开分9.1",
@@ -299,28 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221389,
+      "num": 221389,
+      "word": "古偶女二人设天花板",
+      "onboard_time": 1661296160,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214952,
+      "num": 214952,
+      "word": "四川一男子乱丢烟头引发火灾",
+      "onboard_time": 1661269353,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212992,
       "num": 167483,
       "word": "金枝欲孽在邓萃雯心中封神",
       "onboard_time": 1661265514,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212805,
-      "num": 212805,
-      "word": "母女吃自制老坛泡菜住ICU20天",
-      "onboard_time": 1661275158,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205956,
-      "num": 205956,
-      "word": "四川一男子乱丢烟头引发火灾",
-      "onboard_time": 1661269353,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200896,
@@ -355,6 +371,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 167664,
+      "num": 167664,
+      "word": "任贤齐苏有朋王大陆录制你好星期六",
+      "onboard_time": 1661296461,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164820,
       "num": 164820,
       "word": "京东发布2022年第二季度财报",
@@ -387,6 +411,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145718,
+      "num": 145718,
+      "word": "200多名武警官兵驰援重庆大足火场",
+      "onboard_time": 1661281933,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 137886,
+      "num": 137886,
+      "word": "吴振峰是卧底",
+      "onboard_time": 1661295558,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124464,
+      "num": 124464,
+      "word": "三皇子求程少商",
+      "onboard_time": 1661256094,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119940,
       "num": 119940,
       "word": "最高检依法对王铭晖决定逮捕",
@@ -411,24 +459,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97565,
-      "num": 97565,
-      "word": "200多名武警官兵驰援重庆大足火场",
-      "onboard_time": 1661281933,
-      "rank": 49,
-      "category": "社会正能量"
+      "raw_hot": 113388,
+      "num": 113388,
+      "word": "湘雅二院刘翔峰回应网传问题",
+      "onboard_time": 1661296640,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 92397,
-      "num": 92397,
+      "raw_hot": 95700,
+      "num": 95700,
       "word": "男子远隔千里被喷比榴莲还臭",
       "onboard_time": 1661258435,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48284,
-      "num": 48284,
+      "raw_hot": 82821,
+      "num": 82821,
       "word": "网传仙剑七主演暂定孟子义邓为",
       "onboard_time": 1661259572,
       "rank": 45,
@@ -443,14 +491,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 29290,
-      "num": 29290,
-      "word": "15岁少年公交旅行4天9城花153元",
-      "onboard_time": 1661294055,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24452,
       "num": 24452,
       "word": "救援山火的重庆娃儿有多飒",
@@ -459,7 +499,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 18627,
+      "raw_hot": 20264,
       "num": 1159522,
       "word": "中国航天捷报频传",
       "onboard_time": 1661225730,
