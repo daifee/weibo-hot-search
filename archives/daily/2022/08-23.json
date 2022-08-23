@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661230723915,
+  "endTime": 1661234167829,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1945053,
+      "num": 917733,
+      "word": "赵丽颖白色眼线脏辫造型",
+      "onboard_time": 1661233410,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1791387,
       "num": 1791387,
       "word": "退休后的足疗鱼都去哪儿了",
@@ -73,6 +81,14 @@
       "onboard_time": 1661207476,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356039,
+      "num": 699828,
+      "word": "徐海乔 西瓜是谁",
+      "onboard_time": 1661232812,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1297540,
@@ -163,6 +179,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 827481,
+      "num": 827481,
+      "word": "微信个人二维码能换风格了",
+      "onboard_time": 1661231492,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 801476,
+      "num": 801476,
+      "word": "本座还要等四万年",
+      "onboard_time": 1661229875,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 798734,
+      "num": 798734,
+      "word": "陕西累计向四川送电15亿度",
+      "onboard_time": 1661231433,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783218,
       "num": 783218,
       "word": "曾志伟确诊新冠",
@@ -201,6 +241,22 @@
       "onboard_time": 1661216372,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 687315,
+      "num": 687315,
+      "word": "每个女生都逃不掉的童年爆款",
+      "onboard_time": 1661227233,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 681238,
+      "num": 681238,
+      "word": "怦然心动漫画",
+      "onboard_time": 1661229756,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 673052,
@@ -243,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 618249,
-      "num": 618249,
-      "word": "每个女生都逃不掉的童年爆款",
-      "onboard_time": 1661227233,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 615923,
+      "num": 615923,
+      "word": "江苏一小区惊现70厘米长鳄鱼",
+      "onboard_time": 1661229034,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615456,
@@ -337,6 +393,22 @@
       "onboard_time": 1661224529,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 541245,
+      "num": 541245,
+      "word": "高温停电女子拉绳吊外卖上25楼",
+      "onboard_time": 1661229574,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537580,
+      "num": 537580,
+      "word": "普京签署命令追授杜金娜英勇勋章",
+      "onboard_time": 1661228673,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 508531,
@@ -435,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 410926,
-      "num": 410926,
-      "word": "怦然心动漫画",
-      "onboard_time": 1661229756,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 403203,
       "num": 403203,
       "word": "东北盒饭真是过分实在了",
@@ -457,14 +521,6 @@
       "onboard_time": 1661215709,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400805,
-      "num": 327983,
-      "word": "本座还要等四万年",
-      "onboard_time": 1661229875,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 387817,
@@ -531,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352879,
+      "num": 352879,
+      "word": "谢谢你医生已过审",
+      "onboard_time": 1661232511,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347478,
       "num": 347478,
       "word": "用完的酱油瓶千万不要扔",
@@ -548,7 +612,7 @@
     },
     {
       "raw_hot": 346545,
-      "num": 163855,
+      "num": 255665,
       "word": "邓紫棋新专角色失去一条腿",
       "onboard_time": 1661230716,
       "rank": 47,
@@ -587,12 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327056,
-      "num": 327056,
-      "word": "普京签署命令追授杜金娜英勇勋章",
-      "onboard_time": 1661228673,
-      "rank": 38,
-      "category": "国外要闻"
+      "raw_hot": 332220,
+      "num": 332220,
+      "word": "四六级成绩8月25日查询",
+      "onboard_time": 1661230894,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 325109,
@@ -627,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 303419,
+      "num": 303419,
+      "word": "密室大逃脱",
+      "onboard_time": 1661233290,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299357,
       "num": 299357,
       "word": "年轻人为何戒不掉报复性熬夜",
@@ -651,12 +723,12 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 281547,
-      "num": 281547,
-      "word": "高温停电女子拉绳吊外卖上25楼",
-      "onboard_time": 1661229574,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 276422,
+      "num": 276422,
+      "word": "微信新增视频通话悬浮窗",
+      "onboard_time": 1661233171,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 267255,
@@ -672,14 +744,6 @@
       "word": "陕西新增本土确诊13例",
       "onboard_time": 1661220931,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264974,
-      "num": 264974,
-      "word": "江苏一小区惊现70厘米长鳄鱼",
-      "onboard_time": 1661229034,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -747,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245885,
+      "num": 245885,
+      "word": "黄英放屁崩醒刘美含",
+      "onboard_time": 1661233951,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244099,
       "num": 244099,
       "word": "东方青苍没有业火了",
@@ -803,12 +875,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220015,
+      "num": 220015,
+      "word": "科比44岁了",
+      "onboard_time": 1661232752,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216612,
       "num": 216612,
       "word": "王源天亮一起追太阳",
       "onboard_time": 1661221950,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207285,
+      "num": 162817,
+      "word": "章子怡嘉人金九封面",
+      "onboard_time": 1661232093,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206238,
@@ -1043,6 +1131,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 150792,
+      "num": 150792,
+      "word": "妹妹患癌父母残疾18岁女孩撑起全家",
+      "onboard_time": 1661233290,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1661166750,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117283,
+      "num": 117283,
+      "word": "商铺起火邻居开叉车救一家四口",
+      "onboard_time": 1661233890,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 115884,
