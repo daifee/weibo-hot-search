@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661290610485,
+  "endTime": 1661293295937,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -5155,6 +5155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118809,
+      "num": 118809,
+      "word": "最高检依法对王铭晖决定逮捕",
+      "onboard_time": 1661288111,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 118649,
       "num": 118649,
       "word": "商铺起火邻居开叉车救一家四口",
@@ -5259,8 +5267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83954,
-      "num": 53817,
+      "raw_hot": 94725,
+      "num": 94725,
       "word": "200多名武警官兵驰援重庆大足火场",
       "onboard_time": 1661281933,
       "rank": 49,
@@ -5323,12 +5331,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 31473,
-      "num": 31473,
-      "word": "最高检依法对王铭晖决定逮捕",
-      "onboard_time": 1661288111,
+      "raw_hot": 26377,
+      "num": 26377,
+      "word": "苏州天空七彩祥云",
+      "onboard_time": 1661290272,
       "rank": 49,
-      "category": "国内要闻"
+      "category": "自然"
     },
     {
       "raw_hot": 24621,
@@ -5377,14 +5385,6 @@
       "onboard_time": 1661201531,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 10902,
-      "num": 13803,
-      "word": "苏州天空七彩祥云",
-      "onboard_time": 1661290272,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 9542,
