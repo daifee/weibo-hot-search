@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661293295937,
+  "endTime": 1661294304713,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -3787,6 +3787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237206,
+      "num": 237206,
+      "word": "原来这些角色都是张佳宁演的",
+      "onboard_time": 1661268932,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236812,
       "num": 167746,
       "word": "凌不疑跳崖命悬一线",
@@ -3833,14 +3841,6 @@
       "onboard_time": 1661177437,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 234919,
-      "num": 234919,
-      "word": "原来这些角色都是张佳宁演的",
-      "onboard_time": 1661268932,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 234162,
@@ -4144,6 +4144,14 @@
       "word": "北京疫情发布会",
       "onboard_time": 1661157394,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212805,
+      "num": 212805,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4651,14 +4659,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 175516,
-      "num": 175516,
-      "word": "母女吃自制老坛泡菜住ICU20天",
-      "onboard_time": 1661275158,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175505,
       "num": 175505,
       "word": "四川绵阳市北川县3.2级地震",
@@ -5147,20 +5147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119940,
+      "num": 119940,
+      "word": "最高检依法对王铭晖决定逮捕",
+      "onboard_time": 1661288111,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 119503,
       "num": 119503,
       "word": "中国女排vs菲律宾女排",
       "onboard_time": 1661260951,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118809,
-      "num": 118809,
-      "word": "最高检依法对王铭晖决定逮捕",
-      "onboard_time": 1661288111,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 118649,
@@ -5267,8 +5267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94725,
-      "num": 94725,
+      "raw_hot": 97565,
+      "num": 97565,
       "word": "200多名武警官兵驰援重庆大足火场",
       "onboard_time": 1661281933,
       "rank": 49,
@@ -5315,6 +5315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40958,
+      "num": 40958,
+      "word": "苏州天空七彩祥云",
+      "onboard_time": 1661290272,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 39561,
       "num": 39561,
       "word": "英超双红会",
@@ -5331,12 +5339,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 26377,
-      "num": 26377,
-      "word": "苏州天空七彩祥云",
-      "onboard_time": 1661290272,
-      "rank": 49,
-      "category": "自然"
+      "raw_hot": 29290,
+      "num": 29290,
+      "word": "15岁少年公交旅行4天9城花153元",
+      "onboard_time": 1661294055,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24621,

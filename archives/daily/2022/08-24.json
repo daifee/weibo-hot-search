@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661293295937,
+  "endTime": 1661294304713,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -267,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237206,
+      "num": 237206,
+      "word": "原来这些角色都是张佳宁演的",
+      "onboard_time": 1661268932,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235384,
       "num": 235384,
       "word": "闪亮的日子豆瓣开分9.1",
       "onboard_time": 1661272645,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234919,
-      "num": 234919,
-      "word": "原来这些角色都是张佳宁演的",
-      "onboard_time": 1661268932,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 228497,
@@ -305,6 +305,14 @@
       "onboard_time": 1661265514,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212805,
+      "num": 212805,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205956,
@@ -337,14 +345,6 @@
       "onboard_time": 1661265456,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 175516,
-      "num": 175516,
-      "word": "母女吃自制老坛泡菜住ICU20天",
-      "onboard_time": 1661275158,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169979,
@@ -387,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119940,
+      "num": 119940,
+      "word": "最高检依法对王铭晖决定逮捕",
+      "onboard_time": 1661288111,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 119770,
       "num": 119770,
       "word": "四川部分区域今日将有大雨",
       "onboard_time": 1661254230,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118809,
-      "num": 118809,
-      "word": "最高检依法对王铭晖决定逮捕",
-      "onboard_time": 1661288111,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 114020,
@@ -411,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94725,
-      "num": 94725,
+      "raw_hot": 97565,
+      "num": 97565,
       "word": "200多名武警官兵驰援重庆大足火场",
       "onboard_time": 1661281933,
       "rank": 49,
@@ -427,20 +427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36845,
-      "num": 36845,
+      "raw_hot": 48284,
+      "num": 48284,
       "word": "网传仙剑七主演暂定孟子义邓为",
       "onboard_time": 1661259572,
       "rank": 45,
       "category": "影视"
     },
     {
-      "raw_hot": 26377,
-      "num": 26377,
+      "raw_hot": 40958,
+      "num": 40958,
       "word": "苏州天空七彩祥云",
       "onboard_time": 1661290272,
       "rank": 49,
       "category": "自然"
+    },
+    {
+      "raw_hot": 29290,
+      "num": 29290,
+      "word": "15岁少年公交旅行4天9城花153元",
+      "onboard_time": 1661294055,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24452,
