@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661265410727,
+  "endTime": 1661268176549,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -41,6 +41,14 @@
       "onboard_time": 1661225066,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3171367,
+      "num": 702590,
+      "word": "七度空间 刘浩存",
+      "onboard_time": 1661263656,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3036092,
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2439525,
-      "num": 665121,
-      "word": "七度空间 刘浩存",
-      "onboard_time": 1661263656,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2225711,
       "num": 917733,
       "word": "赵丽颖白色眼线脏辫造型",
@@ -121,6 +121,14 @@
       "onboard_time": 1661255189,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2127196,
+      "num": 2127196,
+      "word": "原来不恋爱的人是最幸福的",
+      "onboard_time": 1661261374,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 1791387,
@@ -153,6 +161,14 @@
       "onboard_time": 1661235270,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1651587,
+      "num": 1651587,
+      "word": "快乐再出发",
+      "onboard_time": 1661257473,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1571071,
@@ -203,6 +219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1431744,
+      "num": 1431744,
+      "word": "坐地铁千万不要轻易戴耳机",
+      "onboard_time": 1661262453,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1392254,
       "num": 1392254,
       "word": "微信新增视频通话悬浮窗",
@@ -251,28 +275,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1283558,
-      "num": 1283558,
-      "word": "快乐再出发",
-      "onboard_time": 1661257473,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1270380,
       "num": 1270380,
       "word": "睡眠不足7小时的人胳膊大腿更粗",
       "onboard_time": 1661167709,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1264581,
-      "num": 1264581,
-      "word": "原来不恋爱的人是最幸福的",
-      "onboard_time": 1661261374,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 1262212,
@@ -329,6 +337,14 @@
       "onboard_time": 1661248770,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1040050,
+      "num": 1040050,
+      "word": "男子boss直聘求职被骂长的像贼",
+      "onboard_time": 1661263595,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1005322,
@@ -443,6 +459,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 835384,
+      "num": 684293,
+      "word": "10岁男孩上游泳课感染HPV",
+      "onboard_time": 1661266536,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819033,
+      "num": 403193,
+      "word": "关于王鹤棣抓马又搞笑的一生",
+      "onboard_time": 1661266357,
+      "rank": 20,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 801476,
       "num": 801476,
       "word": "本座还要等四万年",
@@ -481,6 +513,14 @@
       "onboard_time": 1661180199,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769964,
+      "num": 769964,
+      "word": "快乐再出发 第二季",
+      "onboard_time": 1661267014,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 769595,
@@ -547,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 697777,
-      "num": 697777,
-      "word": "坐地铁千万不要轻易戴耳机",
-      "onboard_time": 1661262453,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
       "raw_hot": 696895,
       "num": 696895,
       "word": "苍兰诀 死局",
@@ -617,6 +649,14 @@
       "onboard_time": 1661158411,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668795,
+      "num": 668795,
+      "word": "分手一定是因为不喜欢了吗",
+      "onboard_time": 1661263417,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 658861,
@@ -747,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 554810,
-      "num": 554810,
-      "word": "男子boss直聘求职被骂长的像贼",
-      "onboard_time": 1661263595,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 550623,
       "num": 550623,
       "word": "光遇",
@@ -811,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521508,
+      "num": 389428,
+      "word": "vox",
+      "onboard_time": 1661264554,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 508531,
       "num": 508531,
       "word": "冰雨火王一博角色热度周榜冠军",
       "onboard_time": 1661229094,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 498686,
-      "num": 329279,
-      "word": "vox",
-      "onboard_time": 1661264554,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 497316,
@@ -849,6 +881,14 @@
       "onboard_time": 1661209701,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488805,
+      "num": 488805,
+      "word": "女子看街舞综艺遭丈夫家暴",
+      "onboard_time": 1661267196,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 488568,
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447462,
+      "num": 275193,
+      "word": "刘宇宁说我录的综艺都没有剧本",
+      "onboard_time": 1661266715,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445924,
       "num": 410736,
       "word": "李易峰要给范丞丞新片包5场",
@@ -1107,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378845,
+      "num": 259331,
+      "word": "金枝欲孽在邓萃雯心中封神",
+      "onboard_time": 1661265514,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378204,
       "num": 362880,
       "word": "王一博新片包揽7日想看新增前二",
@@ -1155,6 +1211,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 361384,
+      "num": 361384,
+      "word": "阿迪达斯CEO将于明年离职",
+      "onboard_time": 1661265456,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 360106,
       "num": 291620,
       "word": "唐周 我带你走",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1661175570,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356821,
+      "num": 356821,
+      "word": "美驻乌使馆敦促美公民离开乌克兰",
+      "onboard_time": 1661265099,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 355954,
@@ -1299,6 +1371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337354,
+      "num": 337354,
+      "word": "这是小猫该有的坐姿吗",
+      "onboard_time": 1661263297,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 336963,
+      "num": 233569,
+      "word": "被一部丧尸片治愈到了",
+      "onboard_time": 1661266298,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336676,
       "num": 336676,
       "word": "作协回应贾浅浅拟入中国作协引争议",
@@ -1331,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333928,
+      "num": 333928,
+      "word": "EDGM遗憾淘汰",
+      "onboard_time": 1661265999,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333586,
       "num": 295180,
       "word": "吴克群为你写诗是青春啊",
@@ -1345,14 +1441,6 @@
       "onboard_time": 1661230894,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 331993,
-      "num": 331993,
-      "word": "分手一定是因为不喜欢了吗",
-      "onboard_time": 1661263417,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 327151,
@@ -1411,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315061,
-      "num": 315061,
-      "word": "这是小猫该有的坐姿吗",
-      "onboard_time": 1661263297,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 313219,
       "num": 313219,
       "word": "黄明昊密逃4背带裤造型剧照",
@@ -1467,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302564,
+      "num": 302564,
+      "word": "华润置地原董事局主席唐勇被查",
+      "onboard_time": 1661265935,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 302270,
       "num": 222175,
       "word": "刘恺华让姜磊协助警方",
@@ -1499,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296704,
+      "num": 296704,
+      "word": "GK锁定季后赛四强",
+      "onboard_time": 1661267797,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293366,
       "num": 244029,
       "word": "民国大侦探",
@@ -1520,6 +1616,14 @@
       "word": "毛雪汪鹿晗唱花海",
       "onboard_time": 1661251952,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287708,
+      "num": 206677,
+      "word": "苏醒陆虎姚政再现小镇姑娘",
+      "onboard_time": 1661265756,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1851,6 +1955,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 226301,
+      "num": 226301,
+      "word": "特种兵室内突击演习处处都是繁体字",
+      "onboard_time": 1661267074,
+      "rank": 36,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 226194,
       "num": 172889,
       "word": "二十不惑2",
@@ -2083,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191409,
+      "num": 191409,
+      "word": "京东发布2022年第二季度财报",
+      "onboard_time": 1661266477,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 190494,
       "num": 190494,
       "word": "西藏增本土无症状518例",
@@ -2137,6 +2257,14 @@
       "onboard_time": 1661220389,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180947,
+      "num": 180947,
+      "word": "红伞伞白杆杆不能用来判断毒菇",
+      "onboard_time": 1661265697,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180614,
@@ -2307,6 +2435,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 161460,
+      "num": 161460,
+      "word": "重庆电网最大负荷已达到历史极值",
+      "onboard_time": 1661267974,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159410,
       "num": 159410,
       "word": "中国女排战胜菲律宾女排",
@@ -2355,14 +2491,6 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 154942,
-      "num": 154942,
-      "word": "美驻乌使馆敦促美公民离开乌克兰",
-      "onboard_time": 1661265099,
-      "rank": 44,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -2384,6 +2512,14 @@
       "word": "麦趣尔被罚7315.1万",
       "onboard_time": 1661172151,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146739,
+      "num": 146739,
+      "word": "商场试衣间空顶从上往下一览无余",
+      "onboard_time": 1661266415,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

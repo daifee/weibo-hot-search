@@ -1,0 +1,410 @@
+{
+  "runTime": 1661268176549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2127196,
+        "num": 2127196,
+        "word": "原来不恋爱的人是最幸福的",
+        "onboard_time": 1661261374,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1651587,
+        "num": 1651587,
+        "word": "快乐再出发",
+        "onboard_time": 1661257473,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29525,
+        "num": 1456774,
+        "word": "中国航天捷报频传",
+        "onboard_time": 1661225730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1431744,
+        "num": 1431744,
+        "word": "坐地铁千万不要轻易戴耳机",
+        "onboard_time": 1661262453,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1210536,
+        "num": 1210536,
+        "word": "福建精子库质量堪忧",
+        "onboard_time": 1661249672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180344,
+        "num": 1180344,
+        "word": "夸克",
+        "onboard_time": 1661261794,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1040050,
+        "num": 1040050,
+        "word": "男子boss直聘求职被骂长的像贼",
+        "onboard_time": 1661263595,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769964,
+        "num": 769964,
+        "word": "快乐再出发 第二季",
+        "onboard_time": 1661267014,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715294,
+        "num": 715294,
+        "word": "16个外甥住舅舅家55天花掉6万",
+        "onboard_time": 1661255189,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710532,
+        "num": 710532,
+        "word": "男子明知是骗子仍转账40万",
+        "onboard_time": 1661258735,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3171367,
+        "num": 702590,
+        "word": "七度空间 刘浩存",
+        "onboard_time": 1661263656,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2710201,
+        "num": 690018,
+        "word": "猫耳 下架",
+        "onboard_time": 1661254830,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835384,
+        "num": 684293,
+        "word": "10岁男孩上游泳课感染HPV",
+        "onboard_time": 1661266536,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668795,
+        "num": 668795,
+        "word": "分手一定是因为不喜欢了吗",
+        "onboard_time": 1661263417,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 594724,
+        "num": 594724,
+        "word": "成毅沉香重华一人分饰四角",
+        "onboard_time": 1661263536,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545177,
+        "num": 545177,
+        "word": "张艺兴投资首家直播公司成立",
+        "onboard_time": 1661261915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488805,
+        "num": 488805,
+        "word": "女子看街舞综艺遭丈夫家暴",
+        "onboard_time": 1661267196,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 461847,
+        "num": 461847,
+        "word": "重庆山火",
+        "onboard_time": 1661260475,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454105,
+        "num": 454105,
+        "word": "男子去世捐遗给儿子就读大学",
+        "onboard_time": 1661253991,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429331,
+        "num": 429331,
+        "word": "这居然是江西的零食",
+        "onboard_time": 1661257952,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 819033,
+        "num": 403193,
+        "word": "关于王鹤棣抓马又搞笑的一生",
+        "onboard_time": 1661266357,
+        "rank": 20,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 521508,
+        "num": 389428,
+        "word": "vox",
+        "onboard_time": 1661264554,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 469932,
+        "num": 389255,
+        "word": "俞灏明王栎鑫再唱红日",
+        "onboard_time": 1661262997,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361384,
+        "num": 361384,
+        "word": "阿迪达斯CEO将于明年离职",
+        "onboard_time": 1661265456,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356821,
+        "num": 356821,
+        "word": "美驻乌使馆敦促美公民离开乌克兰",
+        "onboard_time": 1661265099,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 337354,
+        "num": 337354,
+        "word": "这是小猫该有的坐姿吗",
+        "onboard_time": 1661263297,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 333928,
+        "num": 333928,
+        "word": "EDGM遗憾淘汰",
+        "onboard_time": 1661265999,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 302564,
+        "num": 302564,
+        "word": "华润置地原董事局主席唐勇被查",
+        "onboard_time": 1661265935,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 296704,
+        "num": 296704,
+        "word": "GK锁定季后赛四强",
+        "onboard_time": 1661267797,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277603,
+        "num": 277603,
+        "word": "冷空气已经在路上了",
+        "onboard_time": 1661252669,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447462,
+        "num": 275193,
+        "word": "刘宇宁说我录的综艺都没有剧本",
+        "onboard_time": 1661266715,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378845,
+        "num": 259331,
+        "word": "金枝欲孽在邓萃雯心中封神",
+        "onboard_time": 1661265514,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363209,
+        "num": 251882,
+        "word": "网传仙剑七主演暂定孟子义邓为",
+        "onboard_time": 1661259572,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336963,
+        "num": 233569,
+        "word": "被一部丧尸片治愈到了",
+        "onboard_time": 1661266298,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231709,
+        "num": 231709,
+        "word": "当狗狗第一次被允许上床",
+        "onboard_time": 1661249850,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329547,
+        "num": 229574,
+        "word": "舍不得牛骏峰演的赵优秀",
+        "onboard_time": 1661263536,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226301,
+        "num": 226301,
+        "word": "特种兵室内突击演习处处都是繁体字",
+        "onboard_time": 1661267074,
+        "rank": 36,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 219864,
+        "num": 219864,
+        "word": "四川部分区域今日将有大雨",
+        "onboard_time": 1661254230,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211564,
+        "num": 211564,
+        "word": "中国最后一位女酋长去世",
+        "onboard_time": 1661240852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211031,
+        "num": 211031,
+        "word": "男子远隔千里被喷比榴莲还臭",
+        "onboard_time": 1661258435,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287708,
+        "num": 206677,
+        "word": "苏醒陆虎姚政再现小镇姑娘",
+        "onboard_time": 1661265756,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196285,
+        "num": 196285,
+        "word": "警方通报男子半夜摸进合租女孩房间",
+        "onboard_time": 1661251231,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191409,
+        "num": 191409,
+        "word": "京东发布2022年第二季度财报",
+        "onboard_time": 1661266477,
+        "rank": 42,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 180947,
+        "num": 180947,
+        "word": "红伞伞白杆杆不能用来判断毒菇",
+        "onboard_time": 1661265697,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163376,
+        "num": 163376,
+        "word": "久酷",
+        "onboard_time": 1661257593,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161460,
+        "num": 161460,
+        "word": "重庆电网最大负荷已达到历史极值",
+        "onboard_time": 1661267974,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160328,
+        "num": 160328,
+        "word": "中国气象局调派人工增雨飞机抵达重庆",
+        "onboard_time": 1661250092,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146739,
+        "num": 146739,
+        "word": "商场试衣间空顶从上往下一览无余",
+        "onboard_time": 1661266415,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146380,
+        "num": 146380,
+        "word": "外交部回应日本国会议员窜台",
+        "onboard_time": 1661251892,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 144505,
+        "num": 144505,
+        "word": "广州晚霞",
+        "onboard_time": 1661259392,
+        "rank": 49,
+        "category": "社会新闻,自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}
