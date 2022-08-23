@@ -1,0 +1,410 @@
+{
+  "runTime": 1661230723915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3036092,
+        "num": 3036092,
+        "word": "格力电器停止对河北经销商供货",
+        "onboard_time": 1661226213,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2280915,
+        "num": 2280915,
+        "word": "长期晚睡可能出现睡眠障碍",
+        "onboard_time": 1661217032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405670,
+        "num": 1744264,
+        "word": "如何判断自己是否处于疲劳状态",
+        "onboard_time": 1661209701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3451718,
+        "num": 1724156,
+        "word": "四川 停电",
+        "onboard_time": 1661225066,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1689234,
+        "num": 1689234,
+        "word": "突然理解了美羊羊",
+        "onboard_time": 1661225791,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 958800,
+        "num": 958800,
+        "word": "退休后的足疗鱼都去哪儿了",
+        "onboard_time": 1661220330,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911225,
+        "num": 911225,
+        "word": "林志颖被曝现状不好",
+        "onboard_time": 1661179297,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897016,
+        "num": 897016,
+        "word": "重庆核酸",
+        "onboard_time": 1661228493,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768319,
+        "num": 768319,
+        "word": "玉骨遥",
+        "onboard_time": 1661225191,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 727177,
+        "num": 727177,
+        "word": "5岁娃撸串被烫后画提示送店家",
+        "onboard_time": 1661227171,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1576116,
+        "num": 700550,
+        "word": "15岁女孩乳房不对称查出10cm肿瘤",
+        "onboard_time": 1661218290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250190,
+        "num": 694566,
+        "word": "赵丽颖龚俊新封面",
+        "onboard_time": 1661228493,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 959626,
+        "num": 686079,
+        "word": "多名女子将另一女子按地上猛踹",
+        "onboard_time": 1661223510,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 672811,
+        "num": 672811,
+        "word": "苏醒说找工作太难了",
+        "onboard_time": 1661228795,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672793,
+        "num": 672793,
+        "word": "虞书欣王鹤棣想和你音源",
+        "onboard_time": 1661229574,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618249,
+        "num": 618249,
+        "word": "每个女生都逃不掉的童年爆款",
+        "onboard_time": 1661227233,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 598698,
+        "num": 598698,
+        "word": "美国本土50州均已发现猴痘确诊病例",
+        "onboard_time": 1661225430,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 530825,
+        "num": 530825,
+        "word": "曾志伟确诊新冠",
+        "onboard_time": 1661211145,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 529315,
+        "num": 529315,
+        "word": "iPhone14系列ProMax产量最高",
+        "onboard_time": 1661221470,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 431780,
+        "num": 431780,
+        "word": "96岁老人每天引体向上还写英语日记",
+        "onboard_time": 1661224050,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 525787,
+        "num": 430521,
+        "word": "玉骨遥入学考试",
+        "onboard_time": 1661226934,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475486,
+        "num": 429760,
+        "word": "程少商情绪戏幕后花絮",
+        "onboard_time": 1661227594,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428358,
+        "num": 428358,
+        "word": "张大大说女生穿得开心最重要",
+        "onboard_time": 1661216372,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 415254,
+        "num": 415254,
+        "word": "曝iPad10将在右边框配备横向摄像头",
+        "onboard_time": 1661224529,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 410926,
+        "num": 410926,
+        "word": "怦然心动漫画",
+        "onboard_time": 1661229756,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 425810,
+        "num": 409893,
+        "word": "冰雨火王一博角色热度周榜冠军",
+        "onboard_time": 1661229094,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397162,
+        "num": 397162,
+        "word": "出租车司机摸醉酒女乘客腿被抓",
+        "onboard_time": 1661222309,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382542,
+        "num": 382542,
+        "word": "民警在嫌疑人女儿面前收起手铐",
+        "onboard_time": 1661218769,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374588,
+        "num": 374588,
+        "word": "光遇",
+        "onboard_time": 1661228133,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328074,
+        "num": 328074,
+        "word": "院士谈年轻人如何避免精神内耗",
+        "onboard_time": 1661227594,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400805,
+        "num": 327983,
+        "word": "本座还要等四万年",
+        "onboard_time": 1661229875,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354815,
+        "num": 327937,
+        "word": "李宇春在秋晚学苏绣把针绣没了",
+        "onboard_time": 1661229996,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327719,
+        "num": 327719,
+        "word": "59岁研究员辟谣农业假消息走红",
+        "onboard_time": 1661225850,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327056,
+        "num": 327056,
+        "word": "普京签署命令追授杜金娜英勇勋章",
+        "onboard_time": 1661228673,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 313219,
+        "num": 313219,
+        "word": "黄明昊密逃4背带裤造型剧照",
+        "onboard_time": 1661230535,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312865,
+        "num": 312865,
+        "word": "脱口秀大会5艺人阵容官宣",
+        "onboard_time": 1661222910,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299200,
+        "num": 299200,
+        "word": "重庆增本土确诊23例无症状8例",
+        "onboard_time": 1661226091,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281547,
+        "num": 281547,
+        "word": "高温停电女子拉绳吊外卖上25楼",
+        "onboard_time": 1661229574,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270376,
+        "num": 270376,
+        "word": "年轻人为何戒不掉报复性熬夜",
+        "onboard_time": 1661222848,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264974,
+        "num": 264974,
+        "word": "江苏一小区惊现70厘米长鳄鱼",
+        "onboard_time": 1661229034,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253006,
+        "num": 253006,
+        "word": "女租客养3只猫不清理熏吐保洁",
+        "onboard_time": 1661213313,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235826,
+        "num": 235826,
+        "word": "混入一群柯基的小法斗",
+        "onboard_time": 1661229276,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220823,
+        "num": 220823,
+        "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+        "onboard_time": 1661207476,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214554,
+        "num": 214554,
+        "word": "退役军人古风变装有多帅",
+        "onboard_time": 1661223811,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 195762,
+        "num": 195762,
+        "word": "厦门首房贷款百万30年月供省89元",
+        "onboard_time": 1661216194,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 193804,
+        "num": 193804,
+        "word": "妈妈安排的相亲对象能有多离谱",
+        "onboard_time": 1661212648,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165480,
+        "num": 165480,
+        "word": "河南特岗",
+        "onboard_time": 1661217270,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346545,
+        "num": 163855,
+        "word": "邓紫棋新专角色失去一条腿",
+        "onboard_time": 1661230716,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162097,
+        "num": 162097,
+        "word": "为什么有时睡够8小时还是很困",
+        "onboard_time": 1661211866,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 143552,
+        "num": 143552,
+        "word": "5旬大妈站吊桥上恶意摇晃半小时",
+        "onboard_time": 1661211385,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}

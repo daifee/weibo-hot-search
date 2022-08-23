@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661229958870,
+  "endTime": 1661230723915,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 4125536,
-      "num": 1716917,
+      "num": 1724156,
       "word": "四川 停电",
       "onboard_time": 1661225066,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3036092,
+      "num": 3036092,
+      "word": "格力电器停止对河北经销商供货",
+      "onboard_time": 1661226213,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1661219371,
       "rank": 1,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 2662447,
-      "num": 2662447,
-      "word": "格力电器停止对河北经销商供货",
-      "onboard_time": 1661226213,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2480604,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1289364,
-      "num": 610749,
+      "num": 694566,
       "word": "赵丽颖龚俊新封面",
       "onboard_time": 1661228493,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 992514,
-      "num": 604784,
+      "num": 686079,
       "word": "多名女子将另一女子按地上猛踹",
       "onboard_time": 1661223510,
       "rank": 41,
@@ -121,6 +121,14 @@
       "onboard_time": 1661221470,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 897016,
+      "num": 897016,
+      "word": "重庆核酸",
+      "onboard_time": 1661228493,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895872,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727177,
+      "num": 727177,
+      "word": "5岁娃撸串被烫后画提示送店家",
+      "onboard_time": 1661227171,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 713486,
       "num": 713486,
       "word": "张大大说女生穿得开心最重要",
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 673052,
-      "num": 602329,
+      "num": 672811,
       "word": "苏醒说找工作太难了",
       "onboard_time": 1661228795,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 672793,
+      "num": 672793,
+      "word": "虞书欣王鹤棣想和你音源",
+      "onboard_time": 1661229574,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 670887,
@@ -200,14 +224,6 @@
       "word": "张朝阳建议大家少睡觉",
       "onboard_time": 1661158411,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668593,
-      "num": 668593,
-      "word": "重庆核酸",
-      "onboard_time": 1661228493,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618249,
+      "num": 618249,
+      "word": "每个女生都逃不掉的童年爆款",
+      "onboard_time": 1661227233,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 615456,
       "num": 615456,
       "word": "玉骨遥入学考试",
@@ -243,19 +267,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598698,
+      "num": 598698,
+      "word": "美国本土50州均已发现猴痘确诊病例",
+      "onboard_time": 1661225430,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 596466,
       "num": 596466,
       "word": "特朗普起诉美国司法部",
       "onboard_time": 1661215595,
       "rank": 11,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 584210,
-      "num": 584210,
-      "word": "美国本土50州均已发现猴痘确诊病例",
-      "onboard_time": 1661225430,
-      "rank": 16,
       "category": "国外要闻"
     },
     {
@@ -315,36 +339,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 532325,
-      "num": 597826,
-      "word": "5岁娃撸串被烫后画提示送店家",
-      "onboard_time": 1661227171,
-      "rank": 14,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 508531,
       "num": 508531,
       "word": "冰雨火王一博角色热度周榜冠军",
       "onboard_time": 1661229094,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 506304,
-      "num": 506304,
-      "word": "虞书欣王鹤棣想和你音源",
-      "onboard_time": 1661229574,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 502081,
-      "num": 502081,
-      "word": "每个女生都逃不掉的童年爆款",
-      "onboard_time": 1661227233,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 497316,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 491333,
-      "num": 1738770,
+      "num": 1744264,
       "word": "如何判断自己是否处于疲劳状态",
       "onboard_time": 1661209701,
       "rank": 29,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410926,
+      "num": 410926,
+      "word": "怦然心动漫画",
+      "onboard_time": 1661229756,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 403203,
       "num": 403203,
       "word": "东北盒饭真是过分实在了",
@@ -449,6 +457,14 @@
       "onboard_time": 1661215709,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400805,
+      "num": 327983,
+      "word": "本座还要等四万年",
+      "onboard_time": 1661229875,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 387817,
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354815,
+      "num": 327937,
+      "word": "李宇春在秋晚学苏绣把针绣没了",
+      "onboard_time": 1661229996,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347478,
       "num": 347478,
       "word": "用完的酱油瓶千万不要扔",
@@ -521,6 +545,14 @@
       "onboard_time": 1661176052,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346545,
+      "num": 163855,
+      "word": "邓紫棋新专角色失去一条腿",
+      "onboard_time": 1661230716,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 345848,
@@ -555,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327056,
+      "num": 327056,
+      "word": "普京签署命令追授杜金娜英勇勋章",
+      "onboard_time": 1661228673,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 325109,
       "num": 325109,
       "word": "河南特岗",
@@ -569,6 +609,14 @@
       "onboard_time": 1661228915,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313219,
+      "num": 313219,
+      "word": "黄明昊密逃4背带裤造型剧照",
+      "onboard_time": 1661230535,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 310426,
@@ -603,6 +651,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 281547,
+      "num": 281547,
+      "word": "高温停电女子拉绳吊外卖上25楼",
+      "onboard_time": 1661229574,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267255,
       "num": 222033,
       "word": "长安三万里官宣",
@@ -616,6 +672,14 @@
       "word": "陕西新增本土确诊13例",
       "onboard_time": 1661220931,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264974,
+      "num": 264974,
+      "word": "江苏一小区惊现70厘米长鳄鱼",
+      "onboard_time": 1661229034,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -641,14 +705,6 @@
       "onboard_time": 1661218948,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263170,
-      "num": 219451,
-      "word": "本座还要等四万年",
-      "onboard_time": 1661229875,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 258637,
@@ -715,12 +771,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 236078,
-      "num": 236078,
-      "word": "普京签署命令追授杜金娜英勇勋章",
-      "onboard_time": 1661228673,
-      "rank": 38,
-      "category": "国外要闻"
+      "raw_hot": 235826,
+      "num": 235826,
+      "word": "混入一群柯基的小法斗",
+      "onboard_time": 1661229276,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 229162,
@@ -745,14 +801,6 @@
       "onboard_time": 1661174011,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227128,
-      "num": 227128,
-      "word": "怦然心动漫画",
-      "onboard_time": 1661229756,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 216612,
@@ -795,28 +843,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 198913,
-      "num": 198913,
-      "word": "高温停电女子拉绳吊外卖上25楼",
-      "onboard_time": 1661229574,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198007,
       "num": 198007,
       "word": "重庆轨道交通23个站暂停运营服务",
       "onboard_time": 1661214573,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197640,
-      "num": 197640,
-      "word": "混入一群柯基的小法斗",
-      "onboard_time": 1661229276,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 194795,
