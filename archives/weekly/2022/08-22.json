@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661237709410,
+  "endTime": 1661239500892,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -427,6 +427,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1169773,
+      "num": 1169773,
+      "word": "华为要把活下来作为主要纲领",
+      "onboard_time": 1661234311,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1151804,
       "num": 1151804,
       "word": "古偶男二人设天花板",
@@ -537,14 +545,6 @@
       "onboard_time": 1661149591,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1028107,
-      "num": 1028107,
-      "word": "华为要把活下来作为主要纲领",
-      "onboard_time": 1661234311,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 1014676,
@@ -747,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 769595,
+      "num": 705857,
+      "word": "黄英放屁崩醒刘美含",
+      "onboard_time": 1661233951,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767203,
       "num": 767203,
       "word": "女租客养3只猫不清理熏吐保洁",
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 725188,
+      "num": 725188,
+      "word": "吴磊吻戏",
+      "onboard_time": 1661239350,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721429,
       "num": 604807,
       "word": "赵露思说和吴磊都是搞笑人",
@@ -825,14 +841,6 @@
       "onboard_time": 1661141071,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705857,
-      "num": 705857,
-      "word": "黄英放屁崩醒刘美含",
-      "onboard_time": 1661233951,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 694579,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559918,
+      "num": 559918,
+      "word": "华为边缘业务全线收缩和关闭",
+      "onboard_time": 1661235869,
+      "rank": 28,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 556347,
       "num": 556347,
       "word": "看给月主吓的",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1661163032,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 540726,
+      "num": 540726,
+      "word": "爱情而已",
+      "onboard_time": 1661236771,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 539223,
@@ -1499,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441630,
+      "num": 441630,
+      "word": "俄方公开杜金女儿遇害案细节",
+      "onboard_time": 1661235631,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 434677,
       "num": 434677,
       "word": "苍兰诀又要断更四天",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1661176533,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 417506,
-      "num": 417506,
-      "word": "爱情而已",
-      "onboard_time": 1661236771,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 416711,
@@ -1747,12 +1771,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 379284,
-      "num": 379284,
-      "word": "华为边缘业务全线收缩和关闭",
-      "onboard_time": 1661235869,
-      "rank": 28,
-      "category": "科技,财经"
+      "raw_hot": 378204,
+      "num": 362880,
+      "word": "王一博新片包揽7日想看新增前二",
+      "onboard_time": 1661238330,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 377910,
@@ -1819,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365833,
+      "num": 365833,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661238811,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365589,
       "num": 365589,
       "word": "油价",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1661229996,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352967,
+      "num": 352967,
+      "word": "一些人睡得少是基因发生变异",
+      "onboard_time": 1661235989,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352879,
@@ -2147,6 +2187,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298051,
+      "num": 298051,
+      "word": "白鹿张凌赫宁安如梦骑马对视",
+      "onboard_time": 1661237249,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295180,
+      "num": 295180,
+      "word": "吴克群为你写诗是青春啊",
+      "onboard_time": 1661236830,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294206,
       "num": 294206,
       "word": "杨戬哭了",
@@ -2227,14 +2283,6 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 286786,
-      "num": 286786,
-      "word": "白鹿张凌赫宁安如梦骑马对视",
-      "onboard_time": 1661237249,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286119,
       "num": 286119,
       "word": "KCON李旻浩ending",
@@ -2267,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283496,
-      "num": 283496,
-      "word": "一些人睡得少是基因发生变异",
-      "onboard_time": 1661235989,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283100,
       "num": 283100,
       "word": "重庆巴南区界石发生山火",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1661144610,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281055,
+      "num": 252232,
+      "word": "唐周追妻vs应渊追妻",
+      "onboard_time": 1661236350,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 280975,
@@ -2344,6 +2392,14 @@
       "word": "多地回应未收到更换新国标红绿灯通知",
       "onboard_time": 1661150012,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274626,
+      "num": 274626,
+      "word": "上海公安辟谣路上有枪战",
+      "onboard_time": 1661238452,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2585,14 +2641,6 @@
       "onboard_time": 1661157813,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259122,
-      "num": 271293,
-      "word": "俄方公开杜金女儿遇害案细节",
-      "onboard_time": 1661235631,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 258637,
@@ -2971,14 +3019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217200,
-      "num": 217200,
-      "word": "唐周追妻vs应渊追妻",
-      "onboard_time": 1661236350,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216612,
       "num": 216612,
       "word": "王源天亮一起追太阳",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1661133991,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206476,
-      "num": 206476,
-      "word": "吴克群为你写诗是青春啊",
-      "onboard_time": 1661236830,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 205881,
@@ -3371,6 +3403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180181,
+      "num": 180181,
+      "word": "小学生为环卫工设矿泉水阶梯",
+      "onboard_time": 1661237249,
+      "rank": 46,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 179735,
       "num": 179735,
       "word": "处暑 节气",
@@ -3417,6 +3457,14 @@
       "onboard_time": 1661124022,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175107,
+      "num": 175107,
+      "word": "AG处罚爱思",
+      "onboard_time": 1661234971,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 173645,
@@ -3480,14 +3528,6 @@
       "word": "杨某人四抓",
       "onboard_time": 1661082209,
       "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 164739,
-      "num": 164739,
-      "word": "AG处罚爱思",
-      "onboard_time": 1661234971,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -3587,6 +3627,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 152442,
+      "num": 152442,
+      "word": "司机跨车道停车救孩子交警说不罚",
+      "onboard_time": 1661238870,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 152055,
       "num": 152055,
       "word": "上海暂停外滩等地景观照明",
@@ -3609,14 +3657,6 @@
       "onboard_time": 1661091752,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147818,
-      "num": 147818,
-      "word": "小学生为环卫工设矿泉水阶梯",
-      "onboard_time": 1661237249,
-      "rank": 46,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 147476,

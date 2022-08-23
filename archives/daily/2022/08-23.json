@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661237709410,
+  "endTime": 1661239500892,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1169773,
+      "num": 1169773,
+      "word": "华为要把活下来作为主要纲领",
+      "onboard_time": 1661234311,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1058887,
       "num": 443783,
       "word": "吴露可逃",
       "onboard_time": 1661183912,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1028107,
-      "num": 1028107,
-      "word": "华为要把活下来作为主要纲领",
-      "onboard_time": 1661234311,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 992514,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769595,
+      "num": 705857,
+      "word": "黄英放屁崩醒刘美含",
+      "onboard_time": 1661233951,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767203,
       "num": 767203,
       "word": "女租客养3只猫不清理熏吐保洁",
@@ -259,20 +267,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 725188,
+      "num": 725188,
+      "word": "吴磊吻戏",
+      "onboard_time": 1661239350,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 713486,
       "num": 713486,
       "word": "张大大说女生穿得开心最重要",
       "onboard_time": 1661216372,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 705857,
-      "num": 705857,
-      "word": "黄英放屁崩醒刘美含",
-      "onboard_time": 1661233951,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 687315,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559918,
+      "num": 559918,
+      "word": "华为边缘业务全线收缩和关闭",
+      "onboard_time": 1661235869,
+      "rank": 28,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 550623,
       "num": 550623,
       "word": "光遇",
@@ -433,6 +449,14 @@
       "onboard_time": 1661224529,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 540726,
+      "num": 540726,
+      "word": "爱情而已",
+      "onboard_time": 1661236771,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 537580,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441630,
+      "num": 441630,
+      "word": "俄方公开杜金女儿遇害案细节",
+      "onboard_time": 1661235631,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 429024,
       "num": 429024,
       "word": "容昊 上帝视角",
@@ -537,14 +569,6 @@
       "onboard_time": 1661212288,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 417506,
-      "num": 417506,
-      "word": "爱情而已",
-      "onboard_time": 1661236771,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 405176,
@@ -587,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379284,
-      "num": 379284,
-      "word": "华为边缘业务全线收缩和关闭",
-      "onboard_time": 1661235869,
-      "rank": 28,
-      "category": "科技,财经"
+      "raw_hot": 378204,
+      "num": 362880,
+      "word": "王一博新片包揽7日想看新增前二",
+      "onboard_time": 1661238330,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 374826,
@@ -617,6 +641,14 @@
       "onboard_time": 1661181879,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 365833,
+      "num": 365833,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661238811,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360106,
@@ -649,6 +681,14 @@
       "onboard_time": 1661229996,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352967,
+      "num": 352967,
+      "word": "一些人睡得少是基因发生变异",
+      "onboard_time": 1661235989,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352879,
@@ -779,6 +819,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298051,
+      "num": 298051,
+      "word": "白鹿张凌赫宁安如梦骑马对视",
+      "onboard_time": 1661237249,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295180,
+      "num": 295180,
+      "word": "吴克群为你写诗是青春啊",
+      "onboard_time": 1661236830,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287457,
       "num": 287457,
       "word": "恋爱的夏天定档0828",
@@ -795,20 +851,12 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 286786,
-      "num": 286786,
-      "word": "白鹿张凌赫宁安如梦骑马对视",
-      "onboard_time": 1661237249,
-      "rank": 25,
+      "raw_hot": 281055,
+      "num": 252232,
+      "word": "唐周追妻vs应渊追妻",
+      "onboard_time": 1661236350,
+      "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 283496,
-      "num": 283496,
-      "word": "一些人睡得少是基因发生变异",
-      "onboard_time": 1661235989,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278226,
@@ -817,6 +865,14 @@
       "onboard_time": 1661236170,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274626,
+      "num": 274626,
+      "word": "上海公安辟谣路上有枪战",
+      "onboard_time": 1661238452,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268518,
@@ -873,14 +929,6 @@
       "onboard_time": 1661218948,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259122,
-      "num": 271293,
-      "word": "俄方公开杜金女儿遇害案细节",
-      "onboard_time": 1661235631,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 258637,
@@ -995,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217200,
-      "num": 217200,
-      "word": "唐周追妻vs应渊追妻",
-      "onboard_time": 1661236350,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216612,
       "num": 216612,
       "word": "王源天亮一起追太阳",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1661232093,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 206476,
-      "num": 206476,
-      "word": "吴克群为你写诗是青春啊",
-      "onboard_time": 1661236830,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 206238,
@@ -1155,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180181,
+      "num": 180181,
+      "word": "小学生为环卫工设矿泉水阶梯",
+      "onboard_time": 1661237249,
+      "rank": 46,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 179735,
       "num": 179735,
       "word": "处暑 节气",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1661212347,
       "rank": 38,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 175107,
+      "num": 175107,
+      "word": "AG处罚爱思",
+      "onboard_time": 1661234971,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 173645,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1661223447,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 164739,
-      "num": 164739,
-      "word": "AG处罚爱思",
-      "onboard_time": 1661234971,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 163627,
@@ -1283,6 +1323,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 152442,
+      "num": 152442,
+      "word": "司机跨车道停车救孩子交警说不罚",
+      "onboard_time": 1661238870,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "女子换肾34年打工赚药钱置房产",
@@ -1297,14 +1345,6 @@
       "onboard_time": 1661172151,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147818,
-      "num": 147818,
-      "word": "小学生为环卫工设矿泉水阶梯",
-      "onboard_time": 1661237249,
-      "rank": 46,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 144955,
