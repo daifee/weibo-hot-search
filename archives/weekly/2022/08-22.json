@@ -1,7 +1,15 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661254524702,
+  "endTime": 1661258608326,
   "band_list": [
+    {
+      "raw_hot": 13920150,
+      "num": 13920150,
+      "word": "猫耳 下架",
+      "onboard_time": 1661254830,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 13159971,
       "num": 13159971,
@@ -209,6 +217,14 @@
       "onboard_time": 1661152232,
       "rank": 36,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 2027058,
+      "num": 2027058,
+      "word": "16个外甥住舅舅家55天花掉6万",
+      "onboard_time": 1661255189,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1891324,
@@ -819,6 +835,22 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 840642,
+      "num": 840642,
+      "word": "吴磊镜头下的办公版霍无伤",
+      "onboard_time": 1661255313,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 837362,
+      "num": 560844,
+      "word": "三皇子求程少商",
+      "onboard_time": 1661256094,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 805851,
       "num": 805851,
       "word": "爱思嘲讽",
@@ -841,6 +873,14 @@
       "onboard_time": 1661160691,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 795396,
+      "num": 795396,
+      "word": "外交部回应日本国会议员窜台",
+      "onboard_time": 1661251892,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 790941,
@@ -985,14 +1025,6 @@
       "onboard_time": 1661141071,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707387,
-      "num": 707387,
-      "word": "外交部回应日本国会议员窜台",
-      "onboard_time": 1661251892,
-      "rank": 15,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 696895,
@@ -1371,6 +1403,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 544333,
+      "num": 544333,
+      "word": "快乐再出发",
+      "onboard_time": 1661257473,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 540977,
+      "num": 540977,
+      "word": "男子去世捐遗给儿子就读大学",
+      "onboard_time": 1661253991,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540726,
       "num": 540726,
       "word": "爱情而已",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1661143536,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522020,
+      "num": 522020,
+      "word": "久酷",
+      "onboard_time": 1661257593,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 515432,
@@ -1801,6 +1857,14 @@
       "onboard_time": 1661155534,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435177,
+      "num": 435177,
+      "word": "JDG战胜LNG",
+      "onboard_time": 1661256334,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 434677,
@@ -2443,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326455,
+      "num": 326455,
+      "word": "冷空气已经在路上了",
+      "onboard_time": 1661252669,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325109,
       "num": 325109,
       "word": "河南特岗",
@@ -2467,14 +2539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317911,
-      "num": 317911,
-      "word": "冷空气已经在路上了",
-      "onboard_time": 1661252669,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316866,
       "num": 287004,
       "word": "敖子逸花间酒人间月杀青plog",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1661165012,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 316154,
+      "num": 316154,
+      "word": "四川部分区域今日将有大雨",
+      "onboard_time": 1661254230,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315499,
@@ -2553,6 +2625,22 @@
       "onboard_time": 1661241569,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302995,
+      "num": 222660,
+      "word": "刘宇宁直播",
+      "onboard_time": 1661257952,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 302270,
+      "num": 222175,
+      "word": "刘恺华让姜磊协助警方",
+      "onboard_time": 1661255551,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 302150,
@@ -3163,6 +3251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 250745,
+      "num": 250745,
+      "word": "作协回应贾浅浅拟入中国作协引争议",
+      "onboard_time": 1661257834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249865,
       "num": 220682,
       "word": "胡一天说司徒颜今晚压力山大",
@@ -3192,6 +3288,14 @@
       "word": "高温包围圈肉眼可见要缩了",
       "onboard_time": 1661133329,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247324,
+      "num": 247324,
+      "word": "降温正在派送中",
+      "onboard_time": 1661257054,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3275,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236812,
+      "num": 167746,
+      "word": "凌不疑跳崖命悬一线",
+      "onboard_time": 1661254649,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236663,
       "num": 236663,
       "word": "短腿猫打架能有多吃亏",
@@ -3321,6 +3433,14 @@
       "onboard_time": 1661168069,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232231,
+      "num": 166808,
+      "word": "jj的咖啡调调",
+      "onboard_time": 1661257894,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 231003,
@@ -3411,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224838,
+      "num": 224838,
+      "word": "GK对战EDGM",
+      "onboard_time": 1661257952,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224663,
       "num": 224663,
       "word": "人教版数学教材",
@@ -3425,6 +3553,14 @@
       "onboard_time": 1661165249,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223528,
+      "num": 223528,
+      "word": "晚霞",
+      "onboard_time": 1661255851,
+      "rank": 29,
+      "category": "自然"
     },
     {
       "raw_hot": 222203,
@@ -3561,6 +3697,14 @@
       "onboard_time": 1661086711,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210312,
+      "num": 166434,
+      "word": "冰雨火燃起来了",
+      "onboard_time": 1661256757,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 210146,
@@ -3745,6 +3889,14 @@
       "onboard_time": 1661251468,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196413,
+      "num": 196413,
+      "word": "这居然是江西的零食",
+      "onboard_time": 1661257952,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 196255,
@@ -4356,7 +4508,7 @@
     },
     {
       "raw_hot": 138611,
-      "num": 1896108,
+      "num": 2382203,
       "word": "办好这件事中国有数",
       "onboard_time": 1661240909,
       "rank": 2,
@@ -4443,10 +4595,10 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 128259,
-      "num": 128259,
-      "word": "男子去世捐遗给儿子就读大学",
-      "onboard_time": 1661253991,
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "男子远隔千里被喷比榴莲还臭",
+      "onboard_time": 1661258435,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -4473,14 +4625,6 @@
       "onboard_time": 1661170230,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120846,
-      "num": 120846,
-      "word": "四川部分区域今日将有大雨",
-      "onboard_time": 1661254230,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118649,
@@ -4673,6 +4817,14 @@
       "onboard_time": 1661199732,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 4405,
+      "num": 477535,
+      "word": "如何看待新能源安全焦虑",
+      "onboard_time": 1661256032,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3844,

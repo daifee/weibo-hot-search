@@ -1,0 +1,410 @@
+{
+  "runTime": 1661258608326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13920150,
+        "num": 13920150,
+        "word": "猫耳 下架",
+        "onboard_time": 1661254830,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3535082,
+        "num": 3535082,
+        "word": "福建精子库质量堪忧",
+        "onboard_time": 1661249672,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90856,
+        "num": 2382203,
+        "word": "办好这件事中国有数",
+        "onboard_time": 1661240909,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2027058,
+        "num": 2027058,
+        "word": "16个外甥住舅舅家55天花掉6万",
+        "onboard_time": 1661255189,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222895,
+        "num": 1222895,
+        "word": "章子怡婉拒教父导演新片",
+        "onboard_time": 1661252253,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840642,
+        "num": 840642,
+        "word": "吴磊镜头下的办公版霍无伤",
+        "onboard_time": 1661255313,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 795396,
+        "num": 795396,
+        "word": "外交部回应日本国会议员窜台",
+        "onboard_time": 1661251892,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 721976,
+        "num": 721976,
+        "word": "四川 停电",
+        "onboard_time": 1661225066,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650988,
+        "num": 650988,
+        "word": "当狗狗第一次被允许上床",
+        "onboard_time": 1661249850,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 562795,
+        "num": 562795,
+        "word": "中国最后一位女酋长去世",
+        "onboard_time": 1661240852,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837362,
+        "num": 560844,
+        "word": "三皇子求程少商",
+        "onboard_time": 1661256094,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544333,
+        "num": 544333,
+        "word": "快乐再出发",
+        "onboard_time": 1661257473,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540977,
+        "num": 540977,
+        "word": "男子去世捐遗给儿子就读大学",
+        "onboard_time": 1661253991,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522020,
+        "num": 522020,
+        "word": "久酷",
+        "onboard_time": 1661257593,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 4405,
+        "num": 477535,
+        "word": "如何看待新能源安全焦虑",
+        "onboard_time": 1661256032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435177,
+        "num": 435177,
+        "word": "JDG战胜LNG",
+        "onboard_time": 1661256334,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415627,
+        "num": 415627,
+        "word": "警方通报男子半夜摸进合租女孩房间",
+        "onboard_time": 1661251231,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405213,
+        "num": 405213,
+        "word": "暑期档三部古装剧豆瓣评分",
+        "onboard_time": 1661248770,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384946,
+        "num": 384946,
+        "word": "中国气象局调派人工增雨飞机抵达重庆",
+        "onboard_time": 1661250092,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326455,
+        "num": 326455,
+        "word": "冷空气已经在路上了",
+        "onboard_time": 1661252669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395655,
+        "num": 321432,
+        "word": "前任为什么叫EX",
+        "onboard_time": 1661246010,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375960,
+        "num": 320458,
+        "word": "歌红人不红是种什么体验",
+        "onboard_time": 1661253390,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374995,
+        "num": 319685,
+        "word": "曾沛慈确诊新冠",
+        "onboard_time": 1661247991,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 316154,
+        "num": 316154,
+        "word": "四川部分区域今日将有大雨",
+        "onboard_time": 1661254230,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262066,
+        "num": 262066,
+        "word": "男子做透析躺病床偷护士手机",
+        "onboard_time": 1661250392,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250745,
+        "num": 250745,
+        "word": "作协回应贾浅浅拟入中国作协引争议",
+        "onboard_time": 1661257834,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247324,
+        "num": 247324,
+        "word": "降温正在派送中",
+        "onboard_time": 1661257054,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244506,
+        "num": 244506,
+        "word": "抄家事件后特朗普党内支持率达70%左右",
+        "onboard_time": 1661249311,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 224838,
+        "num": 224838,
+        "word": "GK对战EDGM",
+        "onboard_time": 1661257952,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223528,
+        "num": 223528,
+        "word": "晚霞",
+        "onboard_time": 1661255851,
+        "rank": 29,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 302995,
+        "num": 222660,
+        "word": "刘宇宁直播",
+        "onboard_time": 1661257952,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302270,
+        "num": 222175,
+        "word": "刘恺华让姜磊协助警方",
+        "onboard_time": 1661255551,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298225,
+        "num": 221539,
+        "word": "唐周在墓前哭成泪人",
+        "onboard_time": 1661251290,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281074,
+        "num": 220514,
+        "word": "赵丽颖白色眼线脏辫造型",
+        "onboard_time": 1661233410,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219899,
+        "num": 219899,
+        "word": "四川省教育厅",
+        "onboard_time": 1661242290,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 214490,
+        "num": 214490,
+        "word": "男子收集核酸贴纸做挂饰送女友",
+        "onboard_time": 1661253448,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196413,
+        "num": 196413,
+        "word": "这居然是江西的零食",
+        "onboard_time": 1661257952,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192497,
+        "num": 192497,
+        "word": "河北涿州发现8例初筛阳性人员",
+        "onboard_time": 1661251290,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192405,
+        "num": 192405,
+        "word": "给妈妈买卫生巾的小男孩",
+        "onboard_time": 1661243072,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168944,
+        "num": 168944,
+        "word": "特朗普在海湖庄园私藏300多份机密文件",
+        "onboard_time": 1661245349,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 236812,
+        "num": 167746,
+        "word": "凌不疑跳崖命悬一线",
+        "onboard_time": 1661254649,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232231,
+        "num": 166808,
+        "word": "jj的咖啡调调",
+        "onboard_time": 1661257894,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210312,
+        "num": 166434,
+        "word": "冰雨火燃起来了",
+        "onboard_time": 1661256757,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165506,
+        "num": 165506,
+        "word": "重庆北碚山火小伙自发骑摩托支援",
+        "onboard_time": 1661251650,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 157326,
+        "num": 157326,
+        "word": "8岁男孩帮父亲卖宵夜娴熟杀鱼",
+        "onboard_time": 1661249069,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134470,
+        "num": 134470,
+        "word": "小狗溺水好心男子按压救活",
+        "onboard_time": 1661247511,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129132,
+        "num": 129132,
+        "word": "微信个人二维码能换风格了",
+        "onboard_time": 1661231492,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 127844,
+        "word": "男子远隔千里被喷比榴莲还臭",
+        "onboard_time": 1661258435,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124030,
+        "num": 124030,
+        "word": "公共泳池水尿素超标最为普遍",
+        "onboard_time": 1661244754,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123099,
+        "num": 123099,
+        "word": "广州疫情防控",
+        "onboard_time": 1661247572,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年中国网络文明大会#"
+    }
+  }
+}

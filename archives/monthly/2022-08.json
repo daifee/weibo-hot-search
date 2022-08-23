@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661254524702,
+  "endTime": 1661258608326,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -145,6 +145,14 @@
       "onboard_time": 1659659974,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13920150,
+      "num": 13920150,
+      "word": "猫耳 下架",
+      "onboard_time": 1661254830,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 13883770,
@@ -3785,6 +3793,14 @@
       "onboard_time": 1659614500,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2027058,
+      "num": 2027058,
+      "word": "16个外甥住舅舅家55天花掉6万",
+      "onboard_time": 1661255189,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2025887,
@@ -12811,6 +12827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840642,
+      "num": 840642,
+      "word": "吴磊镜头下的办公版霍无伤",
+      "onboard_time": 1661255313,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 840607,
       "num": 672095,
       "word": "王鹤棣回复霸总男友是什么体验",
@@ -12856,6 +12880,14 @@
       "word": "苍兰诀预告",
       "onboard_time": 1660147769,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 837362,
+      "num": 560844,
+      "word": "三皇子求程少商",
+      "onboard_time": 1661256094,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -13489,6 +13521,14 @@
       "onboard_time": 1660631728,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 795396,
+      "num": 795396,
+      "word": "外交部回应日本国会议员窜台",
+      "onboard_time": 1661251892,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 794399,
@@ -15401,14 +15441,6 @@
       "onboard_time": 1660822171,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 707387,
-      "num": 707387,
-      "word": "外交部回应日本国会议员窜台",
-      "onboard_time": 1661251892,
-      "rank": 15,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 707228,
@@ -20339,6 +20371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 544333,
+      "num": 544333,
+      "word": "快乐再出发",
+      "onboard_time": 1660021721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544272,
       "num": 544272,
       "word": "看看美宣称和谁站一起后对方的下场",
@@ -20488,6 +20528,14 @@
       "word": "四川自贡一商场摆展板举办夏日祭",
       "onboard_time": 1659684758,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540977,
+      "num": 540977,
+      "word": "男子去世捐遗给儿子就读大学",
+      "onboard_time": 1661253991,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -21427,6 +21475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522020,
+      "num": 522020,
+      "word": "久酷",
+      "onboard_time": 1661257593,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 521913,
       "num": 474070,
       "word": "特朗普律师曾称所有机密材料已归还",
@@ -21585,14 +21641,6 @@
       "onboard_time": 1660696291,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 517830,
-      "num": 517830,
-      "word": "快乐再出发",
-      "onboard_time": 1660021721,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 517769,
@@ -26433,6 +26481,14 @@
       "onboard_time": 1660277496,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435177,
+      "num": 435177,
+      "word": "JDG战胜LNG",
+      "onboard_time": 1661256334,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 434735,
@@ -35611,6 +35667,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 326455,
+      "num": 326455,
+      "word": "冷空气已经在路上了",
+      "onboard_time": 1661252669,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326334,
       "num": 326334,
       "word": "87秒看东部战区演训第二天超燃现场",
@@ -36323,14 +36387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317911,
-      "num": 317911,
-      "word": "冷空气已经在路上了",
-      "onboard_time": 1661252669,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317829,
       "num": 240934,
       "word": "汪苏泷Amber新歌飞鸟",
@@ -36465,6 +36521,14 @@
       "onboard_time": 1660730314,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 316154,
+      "num": 316154,
+      "word": "四川部分区域今日将有大雨",
+      "onboard_time": 1661254230,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316150,
@@ -37601,6 +37665,14 @@
       "onboard_time": 1660553132,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 302270,
+      "num": 222175,
+      "word": "刘恺华让姜磊协助警方",
+      "onboard_time": 1661255551,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 302207,
@@ -42331,6 +42403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250745,
+      "num": 250745,
+      "word": "作协回应贾浅浅拟入中国作协引争议",
+      "onboard_time": 1661257834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250712,
       "num": 250712,
       "word": "房贷利率有望再度下调",
@@ -42593,6 +42673,14 @@
       "onboard_time": 1660899032,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247324,
+      "num": 247324,
+      "word": "降温正在派送中",
+      "onboard_time": 1661257054,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247322,
@@ -43683,6 +43771,14 @@
       "category": "幽默,旅游"
     },
     {
+      "raw_hot": 236812,
+      "num": 167746,
+      "word": "凌不疑跳崖命悬一线",
+      "onboard_time": 1661254649,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236782,
       "num": 236782,
       "word": "有的猫奋斗有的猫躺平",
@@ -44193,6 +44289,14 @@
       "onboard_time": 1660099472,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232231,
+      "num": 166808,
+      "word": "jj的咖啡调调",
+      "onboard_time": 1661257894,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 232188,
@@ -44923,6 +45027,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 224838,
+      "num": 224838,
+      "word": "GK对战EDGM",
+      "onboard_time": 1661257952,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224732,
       "num": 224732,
       "word": "EDG对战FPX",
@@ -45033,6 +45145,14 @@
       "onboard_time": 1660605020,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223528,
+      "num": 223528,
+      "word": "晚霞",
+      "onboard_time": 1661255851,
+      "rank": 29,
+      "category": "自然"
     },
     {
       "raw_hot": 223410,
@@ -46065,6 +46185,14 @@
       "onboard_time": 1659860610,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210312,
+      "num": 166434,
+      "word": "冰雨火燃起来了",
+      "onboard_time": 1661256757,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 210280,
@@ -47225,6 +47353,14 @@
       "onboard_time": 1659395246,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196413,
+      "num": 196413,
+      "word": "这居然是江西的零食",
+      "onboard_time": 1661257952,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 196406,
@@ -50532,7 +50668,7 @@
     },
     {
       "raw_hot": 138611,
-      "num": 1896108,
+      "num": 2382203,
       "word": "办好这件事中国有数",
       "onboard_time": 1661240909,
       "rank": 2,
@@ -50899,19 +51035,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128259,
-      "num": 128259,
-      "word": "男子去世捐遗给儿子就读大学",
-      "onboard_time": 1661253991,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128132,
       "num": 2818409,
       "word": "致敬青春最美的样子",
       "onboard_time": 1660280078,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "男子远隔千里被喷比榴莲还臭",
+      "onboard_time": 1661258435,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -51145,14 +51281,6 @@
       "onboard_time": 1660519281,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120846,
-      "num": 120846,
-      "word": "四川部分区域今日将有大雨",
-      "onboard_time": 1661254230,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120217,
@@ -53177,6 +53305,14 @@
       "onboard_time": 1660273231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4405,
+      "num": 477535,
+      "word": "如何看待新能源安全焦虑",
+      "onboard_time": 1661256032,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3844,
