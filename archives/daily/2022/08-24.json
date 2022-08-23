@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661275426733,
+  "endTime": 1661276406102,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -59,19 +59,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977437,
+      "num": 977437,
+      "word": "官方回应女子曝老人组团偷南瓜",
+      "onboard_time": 1661271149,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962990,
       "num": 494027,
       "word": "顾客称裸身被困酒店淋浴房",
       "onboard_time": 1661270968,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 932862,
-      "num": 932862,
-      "word": "官方回应女子曝老人组团偷南瓜",
-      "onboard_time": 1661271149,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -403,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34817,
-      "num": 34817,
+      "raw_hot": 71392,
+      "num": 71392,
       "word": "母女吃自制老坛泡菜住ICU20天",
       "onboard_time": 1661275158,
       "rank": 49,
