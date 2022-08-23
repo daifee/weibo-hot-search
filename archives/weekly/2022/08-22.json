@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661273620705,
+  "endTime": 1661275426733,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -827,6 +827,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 962990,
+      "num": 494027,
+      "word": "顾客称裸身被困酒店淋浴房",
+      "onboard_time": 1661270968,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962500,
       "num": 962500,
       "word": "德塔文回应星汉灿烂苍兰诀数据问题",
@@ -851,20 +859,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932862,
+      "num": 932862,
+      "word": "官方回应女子曝老人组团偷南瓜",
+      "onboard_time": 1661271149,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929232,
       "num": 929232,
       "word": "华为Mate50官宣发布时间",
       "onboard_time": 1661132012,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 913880,
-      "num": 494027,
-      "word": "顾客称裸身被困酒店淋浴房",
-      "onboard_time": 1661270968,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 908911,
@@ -1336,14 +1344,6 @@
       "word": "邓州警方回应小女孩连续击打婴儿",
       "onboard_time": 1661175570,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 630923,
-      "num": 630923,
-      "word": "官方回应女子曝老人组团偷南瓜",
-      "onboard_time": 1661271149,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -4227,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205956,
+      "num": 205956,
+      "word": "四川一男子乱丢烟头引发火灾",
+      "onboard_time": 1661269353,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205881,
       "num": 205881,
       "word": "沉香重华",
@@ -4915,14 +4923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149412,
-      "num": 149412,
-      "word": "四川一男子乱丢烟头引发火灾",
-      "onboard_time": 1661269353,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148560,
       "num": 148560,
       "word": "TES",
@@ -5297,6 +5297,14 @@
       "onboard_time": 1661196312,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34817,
+      "num": 34817,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33675,
