@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661239500892,
+  "endTime": 1661240376000,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -377,6 +377,14 @@
       "onboard_time": 1661138610,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1262212,
+      "num": 1014532,
+      "word": "吴磊吻戏",
+      "onboard_time": 1661239350,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1261668,
@@ -811,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 725188,
-      "num": 725188,
-      "word": "吴磊吻戏",
-      "onboard_time": 1661239350,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 721429,
       "num": 604807,
       "word": "赵露思说和吴磊都是搞笑人",
@@ -937,6 +937,14 @@
       "onboard_time": 1661179596,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 635380,
+      "num": 635380,
+      "word": "华为边缘业务全线收缩和关闭",
+      "onboard_time": 1661235869,
+      "rank": 28,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 634326,
@@ -1139,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559918,
-      "num": 559918,
-      "word": "华为边缘业务全线收缩和关闭",
-      "onboard_time": 1661235869,
-      "rank": 28,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 556347,
       "num": 556347,
       "word": "看给月主吓的",
@@ -1307,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 506679,
+      "num": 506679,
+      "word": "上海公安辟谣路上有枪战",
+      "onboard_time": 1661238452,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502499,
       "num": 502499,
       "word": "当代年轻人的审美趋势",
@@ -1347,6 +1355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 491839,
+      "num": 491839,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661238811,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491333,
       "num": 1744264,
       "word": "如何判断自己是否处于疲劳状态",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1661183854,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484137,
+      "num": 484137,
+      "word": "凌不疑程少商拥抱名场面",
+      "onboard_time": 1661240190,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 482489,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1661088692,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 478565,
+      "num": 525201,
+      "word": "俄方公开杜金女儿遇害案细节",
+      "onboard_time": 1661235631,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 476833,
@@ -1521,14 +1553,6 @@
       "onboard_time": 1661155534,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441630,
-      "num": 441630,
-      "word": "俄方公开杜金女儿遇害案细节",
-      "onboard_time": 1661235631,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 434677,
@@ -1795,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376514,
+      "num": 376514,
+      "word": "一些人睡得少是基因发生变异",
+      "onboard_time": 1661235989,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375364,
       "num": 375364,
       "word": "大理一景点被喷涂鸦游客谴责遭威胁",
@@ -1841,14 +1873,6 @@
       "onboard_time": 1661141913,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365833,
-      "num": 365833,
-      "word": "重庆疫情防控",
-      "onboard_time": 1661238811,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365589,
@@ -1905,14 +1929,6 @@
       "onboard_time": 1661229996,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352967,
-      "num": 352967,
-      "word": "一些人睡得少是基因发生变异",
-      "onboard_time": 1661235989,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352879,
@@ -2392,14 +2408,6 @@
       "word": "多地回应未收到更换新国标红绿灯通知",
       "onboard_time": 1661150012,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274626,
-      "num": 274626,
-      "word": "上海公安辟谣路上有枪战",
-      "onboard_time": 1661238452,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3179,6 +3187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202278,
+      "num": 186448,
+      "word": "郑钧年轻时颜值",
+      "onboard_time": 1661240250,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200116,
       "num": 200116,
       "word": "漫威总部空降上海",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1661157934,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 193232,
+      "num": 193232,
+      "word": "没有电的夏天有多煎熬",
+      "onboard_time": 1661240250,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 192747,
@@ -3483,6 +3507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173020,
+      "num": 173020,
+      "word": "司机跨车道停车救孩子交警说不罚",
+      "onboard_time": 1661238870,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 171566,
       "num": 171566,
       "word": "辽宁新增2例本土无症状",
@@ -3529,6 +3561,14 @@
       "onboard_time": 1661082209,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166653,
+      "num": 166653,
+      "word": "水月洞天有多经典",
+      "onboard_time": 1661240068,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 161528,
@@ -3627,14 +3667,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 152442,
-      "num": 152442,
-      "word": "司机跨车道停车救孩子交警说不罚",
-      "onboard_time": 1661238870,
-      "rank": 43,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 152055,
       "num": 152055,
       "word": "上海暂停外滩等地景观照明",
@@ -3665,6 +3697,14 @@
       "onboard_time": 1661093853,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145508,
+      "num": 145508,
+      "word": "女子洗空调滤网钻出一条蛇",
+      "onboard_time": 1661240311,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144994,
