@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661279201792,
+  "endTime": 1661280241148,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -339,20 +339,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175516,
+      "num": 175516,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169979,
       "num": 169979,
       "word": "华润置地原董事局主席唐勇被查",
       "onboard_time": 1661265935,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 167691,
-      "num": 167691,
-      "word": "母女吃自制老坛泡菜住ICU20天",
-      "onboard_time": 1661275158,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164820,
@@ -409,6 +409,14 @@
       "onboard_time": 1661258435,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25010,
+      "num": 25010,
+      "word": "网传仙剑七主演暂定孟子义邓为",
+      "onboard_time": 1661259572,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 18627,

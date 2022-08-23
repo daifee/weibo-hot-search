@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661279201792,
+  "endTime": 1661280241148,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -4651,6 +4651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 175516,
+      "num": 175516,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175505,
       "num": 175505,
       "word": "四川绵阳市北川县3.2级地震",
@@ -4761,14 +4769,6 @@
       "onboard_time": 1661082209,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167691,
-      "num": 167691,
-      "word": "母女吃自制老坛泡菜住ICU20天",
-      "onboard_time": 1661275158,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166590,
