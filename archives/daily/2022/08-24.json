@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661283216154,
+  "endTime": 1661286139700,
   "band_list": [
     {
       "raw_hot": 3200406,
@@ -411,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28160,
-      "num": 28160,
+      "raw_hot": 73033,
+      "num": 51184,
       "word": "200多名武警官兵驰援重庆大足火场",
       "onboard_time": 1661281933,
       "rank": 49,
@@ -433,6 +433,14 @@
       "onboard_time": 1661225730,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13951,
+      "num": 13951,
+      "word": "救援山火的重庆娃儿有多飒",
+      "onboard_time": 1661283913,
+      "rank": 47,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
