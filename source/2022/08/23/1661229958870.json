@@ -1,0 +1,410 @@
+{
+  "runTime": 1661229958870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2662447,
+        "num": 2662447,
+        "word": "格力电器停止对河北经销商供货",
+        "onboard_time": 1661226213,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2480604,
+        "num": 2480604,
+        "word": "长期晚睡可能出现睡眠障碍",
+        "onboard_time": 1661217032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414154,
+        "num": 1717331,
+        "word": "如何判断自己是否处于疲劳状态",
+        "onboard_time": 1661209701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4125536,
+        "num": 1716917,
+        "word": "四川 停电",
+        "onboard_time": 1661225066,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1702780,
+        "num": 1702780,
+        "word": "突然理解了美羊羊",
+        "onboard_time": 1661225791,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1031931,
+        "num": 1031931,
+        "word": "退休后的足疗鱼都去哪儿了",
+        "onboard_time": 1661220330,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966258,
+        "num": 966258,
+        "word": "林志颖被曝现状不好",
+        "onboard_time": 1661179297,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891444,
+        "num": 891444,
+        "word": "玉骨遥",
+        "onboard_time": 1661225191,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668593,
+        "num": 668593,
+        "word": "重庆核酸",
+        "onboard_time": 1661228493,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615456,
+        "num": 615456,
+        "word": "玉骨遥入学考试",
+        "onboard_time": 1661226934,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1707758,
+        "num": 615345,
+        "word": "15岁女孩乳房不对称查出10cm肿瘤",
+        "onboard_time": 1661218290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289364,
+        "num": 610749,
+        "word": "赵丽颖龚俊新封面",
+        "onboard_time": 1661228493,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 992514,
+        "num": 604784,
+        "word": "多名女子将另一女子按地上猛踹",
+        "onboard_time": 1661223510,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 673052,
+        "num": 602329,
+        "word": "苏醒说找工作太难了",
+        "onboard_time": 1661228795,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532325,
+        "num": 597826,
+        "word": "5岁娃撸串被烫后画提示送店家",
+        "onboard_time": 1661227171,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 597312,
+        "num": 597312,
+        "word": "iPhone14系列ProMax产量最高",
+        "onboard_time": 1661221470,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 584210,
+        "num": 584210,
+        "word": "美国本土50州均已发现猴痘确诊病例",
+        "onboard_time": 1661225430,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 583984,
+        "num": 583984,
+        "word": "曾志伟确诊新冠",
+        "onboard_time": 1661211145,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 550623,
+        "num": 550623,
+        "word": "光遇",
+        "onboard_time": 1661228133,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527029,
+        "num": 549413,
+        "word": "民警在嫌疑人女儿面前收起手铐",
+        "onboard_time": 1661218769,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564660,
+        "num": 549367,
+        "word": "程少商情绪戏幕后花絮",
+        "onboard_time": 1661227594,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 549104,
+        "num": 549104,
+        "word": "曝iPad10将在右边框配备横向摄像头",
+        "onboard_time": 1661224529,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 508531,
+        "num": 508531,
+        "word": "冰雨火王一博角色热度周榜冠军",
+        "onboard_time": 1661229094,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506304,
+        "num": 506304,
+        "word": "虞书欣王鹤棣想和你音源",
+        "onboard_time": 1661229574,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502081,
+        "num": 502081,
+        "word": "每个女生都逃不掉的童年爆款",
+        "onboard_time": 1661227233,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 497316,
+        "num": 497316,
+        "word": "96岁老人每天引体向上还写英语日记",
+        "onboard_time": 1661224050,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480008,
+        "num": 480008,
+        "word": "出租车司机摸醉酒女乘客腿被抓",
+        "onboard_time": 1661222309,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374826,
+        "num": 374826,
+        "word": "院士谈年轻人如何避免精神内耗",
+        "onboard_time": 1661227594,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339693,
+        "num": 339693,
+        "word": "59岁研究员辟谣农业假消息走红",
+        "onboard_time": 1661225850,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299357,
+        "num": 299357,
+        "word": "年轻人为何戒不掉报复性熬夜",
+        "onboard_time": 1661222848,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459589,
+        "num": 296418,
+        "word": "张大大说女生穿得开心最重要",
+        "onboard_time": 1661216372,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 384867,
+        "num": 292853,
+        "word": "脱口秀大会5艺人阵容官宣",
+        "onboard_time": 1661222910,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360106,
+        "num": 291620,
+        "word": "唐周 我带你走",
+        "onboard_time": 1661227594,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316866,
+        "num": 287004,
+        "word": "敖子逸花间酒人间月杀青plog",
+        "onboard_time": 1661228915,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285226,
+        "num": 285226,
+        "word": "重庆增本土确诊23例无症状8例",
+        "onboard_time": 1661226091,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280360,
+        "num": 280360,
+        "word": "女租客养3只猫不清理熏吐保洁",
+        "onboard_time": 1661213313,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243643,
+        "num": 243643,
+        "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+        "onboard_time": 1661207476,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242912,
+        "num": 242912,
+        "word": "退役军人古风变装有多帅",
+        "onboard_time": 1661223811,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 236078,
+        "num": 236078,
+        "word": "普京签署命令追授杜金娜英勇勋章",
+        "onboard_time": 1661228673,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 227128,
+        "num": 227128,
+        "word": "怦然心动漫画",
+        "onboard_time": 1661229756,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 267255,
+        "num": 222033,
+        "word": "长安三万里官宣",
+        "onboard_time": 1661228253,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263170,
+        "num": 219451,
+        "word": "本座还要等四万年",
+        "onboard_time": 1661229875,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215710,
+        "num": 215710,
+        "word": "厦门首房贷款百万30年月供省89元",
+        "onboard_time": 1661216194,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198913,
+        "num": 198913,
+        "word": "高温停电女子拉绳吊外卖上25楼",
+        "onboard_time": 1661229574,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197640,
+        "num": 197640,
+        "word": "混入一群柯基的小法斗",
+        "onboard_time": 1661229276,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194787,
+        "num": 194787,
+        "word": "妈妈安排的相亲对象能有多离谱",
+        "onboard_time": 1661212648,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176158,
+        "num": 176158,
+        "word": "为什么有时睡够8小时还是很困",
+        "onboard_time": 1661211866,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 168357,
+        "num": 168357,
+        "word": "河南特岗",
+        "onboard_time": 1661217270,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 167192,
+        "word": "5旬大妈站吊桥上恶意摇晃半小时",
+        "onboard_time": 1661211385,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161528,
+        "num": 161528,
+        "word": "过路女子手机示警守护摔倒男子",
+        "onboard_time": 1661223748,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
