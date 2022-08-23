@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661276406102,
+  "endTime": 1661279201792,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -4763,6 +4763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167691,
+      "num": 167691,
+      "word": "母女吃自制老坛泡菜住ICU20天",
+      "onboard_time": 1661275158,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166590,
       "num": 166590,
       "word": "汪曾祺的文字到底有多治愈",
@@ -5257,14 +5265,6 @@
       "onboard_time": 1661080529,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 71392,
-      "num": 71392,
-      "word": "母女吃自制老坛泡菜住ICU20天",
-      "onboard_time": 1661275158,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64462,
