@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661240376000,
+  "endTime": 1661243248160,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2338117,
+      "num": 2338117,
+      "word": "9%澳民众认为中国将很快攻打澳大利亚",
+      "onboard_time": 1661240670,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2225711,
       "num": 917733,
       "word": "赵丽颖白色眼线脏辫造型",
@@ -177,6 +185,14 @@
       "onboard_time": 1661157514,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2101799,
+      "num": 2101799,
+      "word": "中国最后一位女酋长去世",
+      "onboard_time": 1661240852,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2028210,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 1262212,
-      "num": 1014532,
+      "num": 1154294,
       "word": "吴磊吻戏",
       "onboard_time": 1661239350,
       "rank": 7,
@@ -803,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734661,
+      "num": 734661,
+      "word": "爱情而已剧组回应素材泄露",
+      "onboard_time": 1661241510,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727177,
       "num": 727177,
       "word": "5岁娃撸串被烫后画提示送店家",
@@ -881,6 +905,14 @@
       "onboard_time": 1661229756,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 678959,
+      "num": 678959,
+      "word": "上海公安辟谣路上有枪战",
+      "onboard_time": 1661238452,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678828,
@@ -1307,14 +1339,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 506679,
-      "num": 506679,
-      "word": "上海公安辟谣路上有枪战",
-      "onboard_time": 1661238452,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502499,
       "num": 502499,
       "word": "当代年轻人的审美趋势",
@@ -1491,6 +1515,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 472940,
+      "num": 472940,
+      "word": "王鹤棣无实物表演对抗祟气",
+      "onboard_time": 1661240550,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472096,
       "num": 472096,
       "word": "女生回村花半年工资为奶奶修水泥路",
@@ -1539,12 +1571,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 450281,
+      "num": 450281,
+      "word": "四川省教育厅",
+      "onboard_time": 1661242290,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 449574,
       "num": 449574,
       "word": "成都将在8月26日退出高温行列",
       "onboard_time": 1661166750,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448700,
+      "num": 448700,
+      "word": "康师傅方便面净利暴跌39%",
+      "onboard_time": 1661241811,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 443358,
@@ -1697,6 +1745,22 @@
       "onboard_time": 1661159551,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397472,
+      "num": 317556,
+      "word": "苍兰诀 死局",
+      "onboard_time": 1661242592,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396079,
+      "num": 311863,
+      "word": "待播古装剧热度TOP10",
+      "onboard_time": 1661241510,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 395898,
@@ -2043,6 +2107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333586,
+      "num": 295180,
+      "word": "吴克群为你写诗是青春啊",
+      "onboard_time": 1661236830,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332220,
       "num": 332220,
       "word": "四六级成绩8月25日查询",
@@ -2065,6 +2137,14 @@
       "onboard_time": 1661144253,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327771,
+      "num": 327771,
+      "word": "武大给这些新生每人10000元资助金",
+      "onboard_time": 1661241149,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 327443,
@@ -2171,6 +2251,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 303041,
+      "num": 303041,
+      "word": "广东新增本土确诊5例",
+      "onboard_time": 1661241569,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302150,
       "num": 302150,
       "word": "把猪圈当做跨栏运动的猪",
@@ -2211,12 +2299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295180,
-      "num": 295180,
-      "word": "吴克群为你写诗是青春啊",
-      "onboard_time": 1661236830,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 297713,
+      "num": 220831,
+      "word": "水月洞天有多经典",
+      "onboard_time": 1661240068,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 294206,
@@ -2923,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229676,
+      "num": 229676,
+      "word": "格力电器回应停止河北经销商供货",
+      "onboard_time": 1661237131,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 229162,
       "num": 229162,
       "word": "沈阳疫情防控",
@@ -2985,6 +3081,14 @@
       "onboard_time": 1661141613,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219789,
+      "num": 219789,
+      "word": "重庆CPA",
+      "onboard_time": 1661241872,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 219714,
@@ -3403,14 +3507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181034,
-      "num": 181034,
-      "word": "格力电器回应停止河北经销商供货",
-      "onboard_time": 1661237131,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 180796,
       "num": 180796,
       "word": "未发现人教社人员与吴勇有利益输送",
@@ -3515,6 +3611,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 172362,
+      "num": 172362,
+      "word": "女子洗空调滤网钻出一条蛇",
+      "onboard_time": 1661240311,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171566,
       "num": 171566,
       "word": "辽宁新增2例本土无症状",
@@ -3529,6 +3633,14 @@
       "onboard_time": 1661153735,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170647,
+      "num": 170647,
+      "word": "微信新功能哪个更实用",
+      "onboard_time": 1661242951,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 170337,
@@ -3547,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168576,
+      "num": 168576,
+      "word": "给妈妈买卫生巾的小男孩",
+      "onboard_time": 1661243072,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168105,
       "num": 168105,
       "word": "浪漫的不是鲜花而是我们",
@@ -3563,12 +3683,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166653,
-      "num": 166653,
-      "word": "水月洞天有多经典",
-      "onboard_time": 1661240068,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 166590,
+      "num": 166590,
+      "word": "汪曾祺的文字到底有多治愈",
+      "onboard_time": 1661242472,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161955,
+      "num": 161955,
+      "word": "北京八宝山天元殡仪被罚",
+      "onboard_time": 1661242891,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161528,
@@ -3697,14 +3825,6 @@
       "onboard_time": 1661093853,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145508,
-      "num": 145508,
-      "word": "女子洗空调滤网钻出一条蛇",
-      "onboard_time": 1661240311,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144994,
@@ -3961,6 +4081,14 @@
       "onboard_time": 1661210664,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90904,
+      "num": 1896108,
+      "word": "办好这件事中国有数",
+      "onboard_time": 1661240909,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 79322,
