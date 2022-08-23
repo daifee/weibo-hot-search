@@ -1,6 +1,6 @@
 {
   "startTime": 1661185758506,
-  "endTime": 1661221341758,
+  "endTime": 1661224036127,
   "band_list": [
     {
       "raw_hot": 5627732,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2273364,
+      "raw_hot": 2758500,
       "num": 2273364,
       "word": "15岁女孩乳房不对称查出10cm肿瘤",
       "onboard_time": 1661218290,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1865438,
-      "num": 1865438,
+      "raw_hot": 2676184,
+      "num": 2676184,
       "word": "苹果前员工承认跳槽小鹏前窃取机密",
       "onboard_time": 1661219371,
       "rank": 1,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1791387,
+      "num": 1791387,
+      "word": "退休后的足疗鱼都去哪儿了",
+      "onboard_time": 1661220330,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1621893,
+      "num": 1621893,
+      "word": "长期晚睡可能出现睡眠障碍",
+      "onboard_time": 1661217032,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1526305,
@@ -59,11 +75,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 962138,
+      "num": 962138,
+      "word": "iPhone14系列ProMax产量最高",
+      "onboard_time": 1661221470,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 895872,
       "num": 895872,
       "word": "女孩江苏买房每天坐高铁去上海上班",
       "onboard_time": 1661174852,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886922,
+      "num": 886922,
+      "word": "民警在嫌疑人女儿面前收起手铐",
+      "onboard_time": 1661218769,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -73,14 +105,6 @@
       "onboard_time": 1661183673,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 802720,
-      "num": 802720,
-      "word": "长期晚睡可能出现睡眠障碍",
-      "onboard_time": 1661217032,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 783218,
@@ -107,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713486,
+      "num": 713486,
+      "word": "张大大说女生穿得开心最重要",
+      "onboard_time": 1661216372,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 670887,
       "num": 670887,
       "word": "张朝阳建议大家少睡觉",
@@ -131,12 +163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600978,
+      "num": 600978,
+      "word": "脱口秀大会5艺人阵容官宣",
+      "onboard_time": 1661222910,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596466,
       "num": 596466,
       "word": "特朗普起诉美国司法部",
       "onboard_time": 1661215595,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 570430,
+      "num": 570430,
+      "word": "出租车司机摸醉酒女乘客腿被抓",
+      "onboard_time": 1661222309,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564913,
@@ -163,30 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535104,
-      "num": 535104,
-      "word": "退休后的足疗鱼都去哪儿了",
-      "onboard_time": 1661220330,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532280,
-      "num": 532280,
-      "word": "民警在嫌疑人女儿面前收起手铐",
-      "onboard_time": 1661218769,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512223,
-      "num": 512223,
-      "word": "张大大说女生穿得开心最重要",
-      "onboard_time": 1661216372,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 491333,
       "num": 1738770,
       "word": "如何判断自己是否处于疲劳状态",
@@ -209,6 +233,14 @@
       "onboard_time": 1661183854,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479352,
+      "num": 479352,
+      "word": "虞书欣王鹤棣月光吻花絮",
+      "onboard_time": 1661221231,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 471464,
@@ -291,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374242,
+      "num": 374242,
+      "word": "为什么有时睡够8小时还是很困",
+      "onboard_time": 1661211866,
+      "rank": 21,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 372995,
       "num": 372995,
       "word": "KSG战胜AG",
@@ -355,20 +395,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 318429,
-      "num": 318429,
-      "word": "为什么有时睡够8小时还是很困",
-      "onboard_time": 1661211866,
-      "rank": 21,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 310426,
       "num": 310426,
       "word": "CCTV6将播普罗米亚",
       "onboard_time": 1661211206,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 298160,
+      "num": 298160,
+      "word": "海的尽头是草原蒙古族造型",
+      "onboard_time": 1661223630,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292529,
+      "num": 292529,
+      "word": "年轻人为何戒不掉报复性熬夜",
+      "onboard_time": 1661222848,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286868,
@@ -401,6 +449,22 @@
       "onboard_time": 1661210302,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263171,
+      "num": 228503,
+      "word": "张震岳林峯吴克群闽南话群聊",
+      "onboard_time": 1661218948,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258637,
+      "num": 258637,
+      "word": "消防员面包都没吃完就累睡着了",
+      "onboard_time": 1661221651,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256843,
@@ -451,12 +515,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229162,
+      "num": 229162,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1661222070,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228905,
+      "num": 228905,
+      "word": "重庆宝妈背着宝宝搬物资支援救火",
+      "onboard_time": 1661219670,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 228714,
       "num": 228714,
       "word": "苍兰诀32集预告好虐",
       "onboard_time": 1661174011,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216612,
+      "num": 216612,
+      "word": "王源天亮一起追太阳",
+      "onboard_time": 1661221950,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 206238,
@@ -473,6 +561,14 @@
       "onboard_time": 1661217869,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200985,
+      "num": 200985,
+      "word": "沉香重华",
+      "onboard_time": 1661217212,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 200116,
@@ -507,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190494,
+      "num": 190494,
+      "word": "西藏增本土无症状518例",
+      "onboard_time": 1661218290,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189736,
       "num": 189736,
       "word": "俄方称谋杀杜金娜凶手是乌克兰人",
@@ -521,6 +625,14 @@
       "onboard_time": 1661183074,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189343,
+      "num": 189343,
+      "word": "九龙坡区调整临时管控区",
+      "onboard_time": 1661223088,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181216,
@@ -563,12 +675,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 174585,
-      "num": 174585,
-      "word": "西藏增本土无症状518例",
-      "onboard_time": 1661218290,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 176725,
+      "num": 176725,
+      "word": "多名女子将另一女子按地上猛踹",
+      "onboard_time": 1661223510,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 173645,
@@ -577,6 +689,14 @@
       "onboard_time": 1661184274,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173585,
+      "num": 173585,
+      "word": "与凤行",
+      "onboard_time": 1661222609,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 173088,
@@ -595,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170191,
-      "num": 170191,
-      "word": "沉香重华",
-      "onboard_time": 1661217212,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168658,
       "num": 168658,
       "word": "何悯鸿你为什么不听劝",
@@ -611,12 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166231,
-      "num": 166231,
-      "word": "重庆宝妈背着宝宝搬物资支援救火",
-      "onboard_time": 1661219670,
+      "raw_hot": 168105,
+      "num": 168105,
+      "word": "浪漫的不是鲜花而是我们",
+      "onboard_time": 1661223447,
       "rank": 43,
-      "category": "社会正能量"
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 163627,
@@ -633,6 +745,14 @@
       "onboard_time": 1661181819,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158603,
+      "num": 158603,
+      "word": "尖齿卫矛",
+      "onboard_time": 1661223447,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157911,
@@ -657,6 +777,14 @@
       "onboard_time": 1661208618,
       "rank": 38,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 152788,
+      "num": 152788,
+      "word": "退役军人古风变装有多帅",
+      "onboard_time": 1661223811,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 150372,
@@ -691,6 +819,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 143015,
+      "num": 143015,
+      "word": "过路女子手机示警守护摔倒男子",
+      "onboard_time": 1661223748,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 140015,
       "num": 140015,
       "word": "恋爱里的松弛感有多重要",
@@ -699,12 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139455,
-      "num": 139455,
-      "word": "虞书欣王鹤棣月光吻花絮",
-      "onboard_time": 1661221231,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 137565,
+      "num": 137565,
+      "word": "国际乒联第34周排名",
+      "onboard_time": 1661223208,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137418,

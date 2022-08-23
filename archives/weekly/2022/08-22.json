@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661221341758,
+  "endTime": 1661224036127,
   "band_list": [
     {
       "raw_hot": 13159971,
@@ -83,6 +83,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2758500,
+      "num": 2273364,
+      "word": "15岁女孩乳房不对称查出10cm肿瘤",
+      "onboard_time": 1661218290,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2676184,
+      "num": 2676184,
+      "word": "苹果前员工承认跳槽小鹏前窃取机密",
+      "onboard_time": 1661219371,
+      "rank": 1,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 2633703,
       "num": 2311111,
       "word": "今年国庆休7天上7天",
@@ -113,14 +129,6 @@
       "onboard_time": 1661097211,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2273364,
-      "num": 2273364,
-      "word": "15岁女孩乳房不对称查出10cm肿瘤",
-      "onboard_time": 1661218290,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2210113,
@@ -155,14 +163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1865438,
-      "num": 1865438,
-      "word": "苹果前员工承认跳槽小鹏前窃取机密",
-      "onboard_time": 1661219371,
-      "rank": 1,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 1812763,
       "num": 1812763,
       "word": "杨洋微微一笑很倾城播出六周年",
@@ -179,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1791387,
+      "num": 1791387,
+      "word": "退休后的足疗鱼都去哪儿了",
+      "onboard_time": 1661220330,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1745932,
       "num": 1218335,
       "word": "吴磊赵露思婚服拍摄花絮",
       "onboard_time": 1661146348,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1621893,
+      "num": 1621893,
+      "word": "长期晚睡可能出现睡眠障碍",
+      "onboard_time": 1661217032,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1615425,
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 962138,
+      "num": 962138,
+      "word": "iPhone14系列ProMax产量最高",
+      "onboard_time": 1661221470,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 929232,
       "num": 929232,
       "word": "华为Mate50官宣发布时间",
@@ -523,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 886922,
+      "num": 886922,
+      "word": "民警在嫌疑人女儿面前收起手铐",
+      "onboard_time": 1661218769,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857908,
       "num": 857908,
       "word": "被狗狗离家去世前的监控整破防了",
@@ -545,14 +577,6 @@
       "onboard_time": 1661172693,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 802720,
-      "num": 802720,
-      "word": "长期晚睡可能出现睡眠障碍",
-      "onboard_time": 1661217032,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 798247,
@@ -657,6 +681,14 @@
       "onboard_time": 1661178034,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 713486,
+      "num": 713486,
+      "word": "张大大说女生穿得开心最重要",
+      "onboard_time": 1661216372,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 712285,
@@ -779,6 +811,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 600978,
+      "num": 600978,
+      "word": "脱口秀大会5艺人阵容官宣",
+      "onboard_time": 1661222910,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596466,
       "num": 596466,
       "word": "特朗普起诉美国司法部",
@@ -825,6 +865,14 @@
       "onboard_time": 1661151991,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 570430,
+      "num": 570430,
+      "word": "出租车司机摸醉酒女乘客腿被抓",
+      "onboard_time": 1661222309,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564913,
@@ -931,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535104,
-      "num": 535104,
-      "word": "退休后的足疗鱼都去哪儿了",
-      "onboard_time": 1661220330,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534865,
       "num": 534865,
       "word": "大连海关将20吨洋垃圾退运出境",
@@ -952,14 +992,6 @@
       "word": "四川高温农户30亩葡萄热成干",
       "onboard_time": 1661151750,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532280,
-      "num": 532280,
-      "word": "民警在嫌疑人女儿面前收起手铐",
-      "onboard_time": 1661218769,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -993,14 +1025,6 @@
       "onboard_time": 1661160872,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512223,
-      "num": 512223,
-      "word": "张大大说女生穿得开心最重要",
-      "onboard_time": 1661216372,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 508764,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1661142935,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 479352,
+      "num": 479352,
+      "word": "虞书欣王鹤棣月光吻花絮",
+      "onboard_time": 1661221231,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 478595,
@@ -1483,6 +1515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 374242,
+      "num": 374242,
+      "word": "为什么有时睡够8小时还是很困",
+      "onboard_time": 1661211866,
+      "rank": 21,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 373413,
       "num": 373413,
       "word": "马斯克去年薪酬超100亿美元",
@@ -1675,14 +1715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 318429,
-      "num": 318429,
-      "word": "为什么有时睡够8小时还是很困",
-      "onboard_time": 1661211866,
-      "rank": 21,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 316831,
       "num": 316831,
       "word": "原神",
@@ -1747,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298160,
+      "num": 298160,
+      "word": "海的尽头是草原蒙古族造型",
+      "onboard_time": 1661223630,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294206,
       "num": 294206,
       "word": "杨戬哭了",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1661137710,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292529,
+      "num": 292529,
+      "word": "年轻人为何戒不掉报复性熬夜",
+      "onboard_time": 1661222848,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292294,
@@ -2051,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263171,
+      "num": 228503,
+      "word": "张震岳林峯吴克群闽南话群聊",
+      "onboard_time": 1661218948,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262878,
       "num": 262878,
       "word": "果切价格高达整颗水果的5倍",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1661157813,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258637,
+      "num": 258637,
+      "word": "消防员面包都没吃完就累睡着了",
+      "onboard_time": 1661221651,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256843,
@@ -2355,6 +2419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229162,
+      "num": 229162,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1661222070,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228905,
+      "num": 228905,
+      "word": "重庆宝妈背着宝宝搬物资支援救火",
+      "onboard_time": 1661219670,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 227216,
       "num": 181093,
       "word": "李帝努送玫瑰",
@@ -2441,6 +2521,14 @@
       "onboard_time": 1661170290,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216612,
+      "num": 216612,
+      "word": "王源天亮一起追太阳",
+      "onboard_time": 1661221950,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 216129,
@@ -2715,6 +2803,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 190494,
+      "num": 190494,
+      "word": "西藏增本土无症状518例",
+      "onboard_time": 1661218290,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189579,
       "num": 189579,
       "word": "一曲的不知火舞",
@@ -2729,6 +2825,14 @@
       "onboard_time": 1661097690,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189343,
+      "num": 189343,
+      "word": "九龙坡区调整临时管控区",
+      "onboard_time": 1661223088,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188355,
@@ -2811,6 +2915,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 176725,
+      "num": 176725,
+      "word": "多名女子将另一女子按地上猛踹",
+      "onboard_time": 1661223510,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 175849,
       "num": 175849,
       "word": "微博拟上线个人主页展示评论功能",
@@ -2827,20 +2939,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174585,
-      "num": 174585,
-      "word": "西藏增本土无症状518例",
-      "onboard_time": 1661218290,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "一诺公孙离三杀",
       "onboard_time": 1661184274,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173585,
+      "num": 173585,
+      "word": "与凤行",
+      "onboard_time": 1661222609,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 171566,
@@ -2875,20 +2987,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168105,
+      "num": 168105,
+      "word": "浪漫的不是鲜花而是我们",
+      "onboard_time": 1661223447,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "杨某人四抓",
       "onboard_time": 1661082209,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166231,
-      "num": 166231,
-      "word": "重庆宝妈背着宝宝搬物资支援救火",
-      "onboard_time": 1661219670,
-      "rank": 43,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 159736,
@@ -2913,6 +3025,14 @@
       "onboard_time": 1661177555,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158603,
+      "num": 158603,
+      "word": "尖齿卫矛",
+      "onboard_time": 1661223447,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157894,
@@ -2969,6 +3089,14 @@
       "onboard_time": 1661161893,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 152788,
+      "num": 152788,
+      "word": "退役军人古风变装有多帅",
+      "onboard_time": 1661223811,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 152055,
@@ -3035,6 +3163,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 143015,
+      "num": 143015,
+      "word": "过路女子手机示警守护摔倒男子",
+      "onboard_time": 1661223748,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 141265,
       "num": 141265,
       "word": "这瘦腿操是来报仇的吧",
@@ -3059,12 +3195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139455,
-      "num": 139455,
-      "word": "虞书欣王鹤棣月光吻花絮",
-      "onboard_time": 1661221231,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 137565,
+      "num": 137565,
+      "word": "国际乒联第34周排名",
+      "onboard_time": 1661223208,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137418,

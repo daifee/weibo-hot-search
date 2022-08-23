@@ -1,0 +1,410 @@
+{
+  "runTime": 1661224036127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2676184,
+        "num": 2676184,
+        "word": "苹果前员工承认跳槽小鹏前窃取机密",
+        "onboard_time": 1661219371,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1791387,
+        "num": 1791387,
+        "word": "退休后的足疗鱼都去哪儿了",
+        "onboard_time": 1661220330,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371819,
+        "num": 1626335,
+        "word": "如何判断自己是否处于疲劳状态",
+        "onboard_time": 1661209701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1621893,
+        "num": 1621893,
+        "word": "长期晚睡可能出现睡眠障碍",
+        "onboard_time": 1661217032,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214178,
+        "num": 1214178,
+        "word": "林志颖被曝现状不好",
+        "onboard_time": 1661179297,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962138,
+        "num": 962138,
+        "word": "iPhone14系列ProMax产量最高",
+        "onboard_time": 1661221470,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 886922,
+        "num": 886922,
+        "word": "民警在嫌疑人女儿面前收起手铐",
+        "onboard_time": 1661218769,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713486,
+        "num": 713486,
+        "word": "张大大说女生穿得开心最重要",
+        "onboard_time": 1661216372,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 688884,
+        "num": 688884,
+        "word": "女子尿血1年取出20厘米蚯蚓状血丝",
+        "onboard_time": 1661207476,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687394,
+        "num": 687394,
+        "word": "曾志伟确诊新冠",
+        "onboard_time": 1661211145,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2758500,
+        "num": 682018,
+        "word": "15岁女孩乳房不对称查出10cm肿瘤",
+        "onboard_time": 1661218290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600978,
+        "num": 600978,
+        "word": "脱口秀大会5艺人阵容官宣",
+        "onboard_time": 1661222910,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570430,
+        "num": 570430,
+        "word": "出租车司机摸醉酒女乘客腿被抓",
+        "onboard_time": 1661222309,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518076,
+        "num": 518076,
+        "word": "女租客养3只猫不清理熏吐保洁",
+        "onboard_time": 1661213313,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479352,
+        "num": 479352,
+        "word": "虞书欣王鹤棣月光吻花絮",
+        "onboard_time": 1661221231,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403805,
+        "num": 403805,
+        "word": "5旬大妈站吊桥上恶意摇晃半小时",
+        "onboard_time": 1661211385,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380354,
+        "num": 380354,
+        "word": "厦门首房贷款百万30年月供省89元",
+        "onboard_time": 1661216194,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 374242,
+        "num": 374242,
+        "word": "为什么有时睡够8小时还是很困",
+        "onboard_time": 1661211866,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 370043,
+        "num": 370043,
+        "word": "井胧说不唱了不唱了别虐了",
+        "onboard_time": 1661214394,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336053,
+        "num": 336053,
+        "word": "重庆增本土确诊23例无症状8例",
+        "onboard_time": 1661215709,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331849,
+        "num": 331849,
+        "word": "李立群发视频澄清网传截图",
+        "onboard_time": 1661210723,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326963,
+        "num": 326963,
+        "word": "棣欣引力",
+        "onboard_time": 1661212288,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325163,
+        "num": 325163,
+        "word": "一个坏医生是否会带崩整个湘雅系",
+        "onboard_time": 1661210062,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298160,
+        "num": 298160,
+        "word": "海的尽头是草原蒙古族造型",
+        "onboard_time": 1661223630,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292529,
+        "num": 292529,
+        "word": "年轻人为何戒不掉报复性熬夜",
+        "onboard_time": 1661222848,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292291,
+        "num": 292291,
+        "word": "妈妈安排的相亲对象能有多离谱",
+        "onboard_time": 1661212648,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288176,
+        "num": 288176,
+        "word": "河南特岗",
+        "onboard_time": 1661217270,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258637,
+        "num": 258637,
+        "word": "消防员面包都没吃完就累睡着了",
+        "onboard_time": 1661221651,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229162,
+        "num": 229162,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1661222070,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228905,
+        "num": 228905,
+        "word": "重庆宝妈背着宝宝搬物资支援救火",
+        "onboard_time": 1661219670,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 263171,
+        "num": 228503,
+        "word": "张震岳林峯吴克群闽南话群聊",
+        "onboard_time": 1661218948,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224300,
+        "num": 224300,
+        "word": "CCTV6将播普罗米亚",
+        "onboard_time": 1661211206,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216612,
+        "num": 216612,
+        "word": "王源天亮一起追太阳",
+        "onboard_time": 1661221950,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215130,
+        "num": 215130,
+        "word": "油价将迎五连跌",
+        "onboard_time": 1661215412,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 205492,
+        "num": 205492,
+        "word": "本座从未爱过你",
+        "onboard_time": 1661179357,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202454,
+        "num": 202454,
+        "word": "被狗狗离家去世前的监控整破防了",
+        "onboard_time": 1661183673,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200985,
+        "num": 200985,
+        "word": "沉香重华",
+        "onboard_time": 1661217212,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190494,
+        "num": 190494,
+        "word": "西藏增本土无症状518例",
+        "onboard_time": 1661218290,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189343,
+        "num": 189343,
+        "word": "九龙坡区调整临时管控区",
+        "onboard_time": 1661223088,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179136,
+        "num": 179136,
+        "word": "陕西新增本土确诊13例",
+        "onboard_time": 1661220931,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177312,
+        "num": 177312,
+        "word": "苏醒走秀耳朵红了",
+        "onboard_time": 1661212347,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 176725,
+        "num": 176725,
+        "word": "多名女子将另一女子按地上猛踹",
+        "onboard_time": 1661223510,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173585,
+        "num": 173585,
+        "word": "与凤行",
+        "onboard_time": 1661222609,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168105,
+        "num": 168105,
+        "word": "浪漫的不是鲜花而是我们",
+        "onboard_time": 1661223447,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 158603,
+        "num": 158603,
+        "word": "尖齿卫矛",
+        "onboard_time": 1661223447,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152788,
+        "num": 152788,
+        "word": "退役军人古风变装有多帅",
+        "onboard_time": 1661223811,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 150280,
+        "num": 150280,
+        "word": "男子偷价值10万自行车100元卖掉",
+        "onboard_time": 1661179473,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143015,
+        "num": 143015,
+        "word": "过路女子手机示警守护摔倒男子",
+        "onboard_time": 1661223748,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 137565,
+        "num": 137565,
+        "word": "国际乒联第34周排名",
+        "onboard_time": 1661223208,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129522,
+        "num": 129522,
+        "word": "睡眠不足7小时的人胳膊大腿更粗",
+        "onboard_time": 1661167709,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建人与自然生命共同体#"
+    }
+  }
+}
