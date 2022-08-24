@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661330653420,
+  "endTime": 1661332891737,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1574758,
-      "num": 566138,
+      "num": 649400,
       "word": "一诺",
       "onboard_time": 1661328031,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1377922,
-      "num": 562534,
+      "num": 632903,
       "word": "男孩吃半斤瓜子不吐壳肛门被堵",
       "onboard_time": 1661326472,
       "rank": 49,
@@ -193,6 +193,14 @@
       "onboard_time": 1661301212,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1032003,
+      "num": 1032003,
+      "word": "43.9度四川高温再次刷新纪录",
+      "onboard_time": 1661330312,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1004552,
@@ -339,20 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727468,
+      "num": 727468,
+      "word": "暧昧期怎么确认关系",
+      "onboard_time": 1661325873,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 709729,
+      "num": 709729,
+      "word": "美军不到1个月至少偷7次叙石油",
+      "onboard_time": 1661329953,
+      "rank": 43,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 701286,
       "num": 701286,
       "word": "福建精子库质量堪忧",
       "onboard_time": 1661249672,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 697744,
-      "num": 697744,
-      "word": "暧昧期怎么确认关系",
-      "onboard_time": 1661325873,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 696588,
@@ -379,12 +395,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 671450,
+      "num": 614346,
+      "word": "时代少年团演唱会预约",
+      "onboard_time": 1661330612,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 670790,
       "num": 525353,
       "word": "告白铅球和水牛戒烟",
       "onboard_time": 1661314412,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 657994,
+      "num": 657994,
+      "word": "中学否认湖南师大研究生将入住",
+      "onboard_time": 1661328631,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 651423,
@@ -427,6 +459,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 594364,
+      "num": 594364,
+      "word": "故宫研究员夸乾隆是个好设计师",
+      "onboard_time": 1661331272,
+      "rank": 15,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 585342,
       "num": 585342,
       "word": "成都下雨刷屏朋友圈",
@@ -457,22 +497,6 @@
       "onboard_time": 1661306249,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575360,
-      "num": 575360,
-      "word": "中学否认湖南师大研究生将入住",
-      "onboard_time": 1661328631,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 573476,
-      "num": 137915,
-      "word": "时代少年团演唱会预约",
-      "onboard_time": 1661330612,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 573379,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505510,
+      "num": 505510,
+      "word": "男童遭辗轧众人抬车30秒救出",
+      "onboard_time": 1661327131,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504470,
       "num": 504470,
       "word": "华为Mate50或将提振市场信心",
@@ -544,14 +576,6 @@
       "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
       "onboard_time": 1661312736,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495682,
-      "num": 495682,
-      "word": "男童遭辗轧众人抬车30秒救出",
-      "onboard_time": 1661327131,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -635,6 +659,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 430925,
+      "num": 430925,
+      "word": "大理寺少卿游官宣阵容",
+      "onboard_time": 1661330433,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429881,
       "num": 429881,
       "word": "倪光南称中国芯片走第三条路",
@@ -687,6 +719,14 @@
       "num": 417134,
       "word": "古偶女二人设天花板",
       "onboard_time": 1661296160,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 404469,
+      "num": 404469,
+      "word": "颜淡说我不会让你死的",
+      "onboard_time": 1661331512,
       "rank": 19,
       "category": "影视"
     },
@@ -907,12 +947,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317798,
+      "num": 317798,
+      "word": "AG菲菲发文",
+      "onboard_time": 1661331392,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 317239,
+      "num": 317239,
+      "word": "刘雨昕打乒乓球有两下子",
+      "onboard_time": 1661331033,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315488,
       "num": 315488,
       "word": "被一部丧尸片治愈到了",
       "onboard_time": 1661266298,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312426,
+      "num": 312426,
+      "word": "王栎鑫新歌",
+      "onboard_time": 1661330730,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 308110,
@@ -953,6 +1017,14 @@
       "onboard_time": 1661324251,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288806,
+      "num": 288806,
+      "word": "用王俊凯经典语录推荐断桥",
+      "onboard_time": 1661332651,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 287602,
@@ -1027,14 +1099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 268005,
-      "num": 268005,
-      "word": "大理寺少卿游官宣阵容",
-      "onboard_time": 1661330433,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267101,
       "num": 267101,
       "word": "未开封原版初代iPhone拍出约24万元",
@@ -1080,6 +1144,14 @@
       "word": "消防车出警被私家车堵住车库门",
       "onboard_time": 1661308291,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253314,
+      "num": 253314,
+      "word": "深圳台风",
+      "onboard_time": 1661330671,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1235,12 +1307,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 209236,
-      "num": 209236,
-      "word": "43.9度四川高温再次刷新纪录",
-      "onboard_time": 1661330312,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 203447,
+      "num": 203447,
+      "word": "电影节红毯上杀疯了的影后们",
+      "onboard_time": 1661328513,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200896,
@@ -1297,14 +1369,6 @@
       "onboard_time": 1661265456,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 188063,
-      "num": 188063,
-      "word": "电影节红毯上杀疯了的影后们",
-      "onboard_time": 1661328513,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 185234,
@@ -1403,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168739,
+      "num": 600382,
+      "word": "重庆有我们请放心",
+      "onboard_time": 1661331631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167664,
       "num": 167664,
       "word": "任贤齐苏有朋王大陆录制你好星期六",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1661266477,
       "rank": 42,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 163850,
+      "num": 163850,
+      "word": "小狗也会有打嗝的烦恼",
+      "onboard_time": 1661332411,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 162816,
@@ -1507,14 +1587,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 148485,
-      "num": 148485,
-      "word": "美军不到1个月至少偷7次叙石油",
-      "onboard_time": 1661329953,
-      "rank": 43,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "研究称面孔相似或具相似DNA",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1661330074,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132569,
+      "num": 132569,
+      "word": "公摊面积到底怎么算",
+      "onboard_time": 1661332711,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 125195,

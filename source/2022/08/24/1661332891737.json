@@ -1,0 +1,410 @@
+{
+  "runTime": 1661332891737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2138121,
+        "num": 2138121,
+        "word": "张庭林瑞阳转战马来西亚",
+        "onboard_time": 1661325632,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1641797,
+        "num": 1641797,
+        "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+        "onboard_time": 1661324731,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167053,
+        "num": 1268582,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1229420,
+        "num": 1229420,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1032003,
+        "num": 1032003,
+        "word": "43.9度四川高温再次刷新纪录",
+        "onboard_time": 1661330312,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727468,
+        "num": 727468,
+        "word": "暧昧期怎么确认关系",
+        "onboard_time": 1661325873,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 709729,
+        "num": 709729,
+        "word": "美军不到1个月至少偷7次叙石油",
+        "onboard_time": 1661329953,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 694834,
+        "num": 694834,
+        "word": "永远相信EDG",
+        "onboard_time": 1661327551,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 672925,
+        "num": 672925,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657994,
+        "num": 657994,
+        "word": "中学否认湖南师大研究生将入住",
+        "onboard_time": 1661328631,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1480901,
+        "num": 649400,
+        "word": "一诺",
+        "onboard_time": 1661328031,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1229869,
+        "num": 632903,
+        "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+        "onboard_time": 1661326472,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847034,
+        "num": 628659,
+        "word": "拜登下令美军空袭叙利亚",
+        "onboard_time": 1661318134,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 671450,
+        "num": 614346,
+        "word": "时代少年团演唱会预约",
+        "onboard_time": 1661330612,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168739,
+        "num": 600382,
+        "word": "重庆有我们请放心",
+        "onboard_time": 1661331631,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594364,
+        "num": 594364,
+        "word": "故宫研究员夸乾隆是个好设计师",
+        "onboard_time": 1661331272,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 505510,
+        "num": 505510,
+        "word": "男童遭辗轧众人抬车30秒救出",
+        "onboard_time": 1661327131,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430925,
+        "num": 430925,
+        "word": "大理寺少卿游官宣阵容",
+        "onboard_time": 1661330433,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407327,
+        "num": 407327,
+        "word": "女子用脚趾解开自家指纹锁",
+        "onboard_time": 1661322213,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 404469,
+        "num": 404469,
+        "word": "颜淡说我不会让你死的",
+        "onboard_time": 1661331512,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385040,
+        "num": 385040,
+        "word": "男子5万元网上买到高仿路虎",
+        "onboard_time": 1661321192,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334102,
+        "num": 334102,
+        "word": "百岁老人戒指卡手不愿摘",
+        "onboard_time": 1661325511,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325292,
+        "num": 325292,
+        "word": "常州全面取消二手房限售",
+        "onboard_time": 1661324251,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 317798,
+        "num": 317798,
+        "word": "AG菲菲发文",
+        "onboard_time": 1661331392,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317239,
+        "num": 317239,
+        "word": "刘雨昕打乒乓球有两下子",
+        "onboard_time": 1661331033,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312426,
+        "num": 312426,
+        "word": "王栎鑫新歌",
+        "onboard_time": 1661330730,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304545,
+        "num": 304545,
+        "word": "骗子诈骗300万买彩票中1450万",
+        "onboard_time": 1661314116,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289002,
+        "num": 289002,
+        "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+        "onboard_time": 1661313994,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288806,
+        "num": 288806,
+        "word": "用王俊凯经典语录推荐断桥",
+        "onboard_time": 1661332651,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268011,
+        "num": 268011,
+        "word": "四川高校学生退机票被收手续费",
+        "onboard_time": 1661322871,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253314,
+        "num": 253314,
+        "word": "深圳台风",
+        "onboard_time": 1661330671,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239483,
+        "num": 239483,
+        "word": "钟离",
+        "onboard_time": 1661317238,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237336,
+        "num": 237336,
+        "word": "当父母知道要开学了",
+        "onboard_time": 1661329173,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230576,
+        "num": 230576,
+        "word": "管晨辰浙江大学报到",
+        "onboard_time": 1661324071,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220858,
+        "num": 220858,
+        "word": "网传慧聪网发布停工待岗通知",
+        "onboard_time": 1661328031,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 209980,
+        "num": 209980,
+        "word": "意大利男子同时感染猴痘新冠艾滋",
+        "onboard_time": 1661317775,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203447,
+        "num": 203447,
+        "word": "电影节红毯上杀疯了的影后们",
+        "onboard_time": 1661328513,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202785,
+        "num": 202785,
+        "word": "朋友圈可以修改可见范围了",
+        "onboard_time": 1661300852,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194832,
+        "num": 194832,
+        "word": "颜淡唐周大婚彩排",
+        "onboard_time": 1661326409,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193696,
+        "num": 193696,
+        "word": "还好没在贵州考科目二",
+        "onboard_time": 1661324251,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172011,
+        "num": 172011,
+        "word": "97岁长津湖战役英雄走了",
+        "onboard_time": 1661327791,
+        "rank": 40,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 163850,
+        "num": 163850,
+        "word": "小狗也会有打嗝的烦恼",
+        "onboard_time": 1661332411,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 160727,
+        "num": 160727,
+        "word": "冰雨火 调休",
+        "onboard_time": 1661323713,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158959,
+        "num": 158959,
+        "word": "王俊凯易烊千玺支持王源新歌",
+        "onboard_time": 1661311654,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157886,
+        "num": 157886,
+        "word": "汪峰今天发歌",
+        "onboard_time": 1661309368,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155678,
+        "num": 155678,
+        "word": "空军发言人展示的课本封面是它",
+        "onboard_time": 1661324549,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 154711,
+        "num": 154711,
+        "word": "朴志效确诊新冠",
+        "onboard_time": 1661318913,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140412,
+        "num": 140412,
+        "word": "专家建议年轻人应提早规划养老投资",
+        "onboard_time": 1661314717,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132569,
+        "num": 132569,
+        "word": "公摊面积到底怎么算",
+        "onboard_time": 1661332711,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 128740,
+        "num": 128740,
+        "word": "台风马鞍",
+        "onboard_time": 1661325151,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让改革发展成果惠及更多群众#"
+    }
+  }
+}
