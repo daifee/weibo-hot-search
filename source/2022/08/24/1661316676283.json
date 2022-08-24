@@ -1,0 +1,410 @@
+{
+  "runTime": 1661316676283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2231151,
+        "num": 2231151,
+        "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+        "onboard_time": 1661313994,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1896225,
+        "num": 1896225,
+        "word": "朋友圈可以修改可见范围了",
+        "onboard_time": 1661300852,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 23961,
+        "num": 1549057,
+        "word": "中国航天捷报频传",
+        "onboard_time": 1661225730,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1530909,
+        "num": 1530909,
+        "word": "王俊凯易烊千玺支持王源新歌",
+        "onboard_time": 1661311654,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1400669,
+        "num": 1400669,
+        "word": "汪峰今天发歌",
+        "onboard_time": 1661309368,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1223350,
+        "num": 1223350,
+        "word": "骗子诈骗300万买彩票中1450万",
+        "onboard_time": 1661314116,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857867,
+        "num": 857867,
+        "word": "美国一公园发现恐龙足迹",
+        "onboard_time": 1661313095,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826269,
+        "num": 826269,
+        "word": "A股",
+        "onboard_time": 1661310391,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 662024,
+        "num": 662024,
+        "word": "专家建议年轻人应提早规划养老投资",
+        "onboard_time": 1661314717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576586,
+        "num": 576586,
+        "word": "苏州KSG人员处罚公告",
+        "onboard_time": 1661305712,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1102063,
+        "num": 567122,
+        "word": "男子离婚因收入低想要回18万彩礼",
+        "onboard_time": 1661308888,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830651,
+        "num": 560113,
+        "word": "杨紫还原颜淡讨厌啦表情包",
+        "onboard_time": 1661313575,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 701907,
+        "num": 540173,
+        "word": "四大精子杀手",
+        "onboard_time": 1661270491,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670790,
+        "num": 525353,
+        "word": "告白铅球和水牛戒烟",
+        "onboard_time": 1661314412,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3991,
+        "num": 508510,
+        "word": "原神3.0版本更新",
+        "onboard_time": 1661313636,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501848,
+        "num": 501848,
+        "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
+        "onboard_time": 1661312736,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470554,
+        "num": 470554,
+        "word": "女子收到4包湿巾被骗6万余元",
+        "onboard_time": 1661307749,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469651,
+        "num": 469651,
+        "word": "虞书欣纯白情绪大片",
+        "onboard_time": 1661314412,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 442533,
+        "num": 442533,
+        "word": "丁禹兮任敏新剧开机",
+        "onboard_time": 1661311172,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441109,
+        "num": 441109,
+        "word": "必胜客",
+        "onboard_time": 1661307930,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 405944,
+        "num": 405944,
+        "word": "运油20歼20歼16三机同框照",
+        "onboard_time": 1661309611,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 381847,
+        "num": 381847,
+        "word": "男性生育前检查很有必要",
+        "onboard_time": 1661300072,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379395,
+        "num": 379395,
+        "word": "四川一男子离家半月鱼池全晒干",
+        "onboard_time": 1661314655,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364580,
+        "num": 364580,
+        "word": "网传大奉打更人暂定张若昀田曦薇",
+        "onboard_time": 1661315378,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362071,
+        "num": 362071,
+        "word": "脱口秀大会5选手快乐官宣",
+        "onboard_time": 1661307869,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345840,
+        "num": 345840,
+        "word": "王鹤棣东方青苍受刑花絮",
+        "onboard_time": 1661310512,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318177,
+        "num": 318177,
+        "word": "苹果推迟发布iPadOS16‌",
+        "onboard_time": 1661310571,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 295028,
+        "num": 295028,
+        "word": "调查显示准备换iPhone14的用户比往年少",
+        "onboard_time": 1661315076,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 272175,
+        "num": 272175,
+        "word": "成都下雨",
+        "onboard_time": 1661300971,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261443,
+        "num": 261443,
+        "word": "江西疫情防控",
+        "onboard_time": 1661310272,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287602,
+        "num": 261260,
+        "word": "周杰伦 靠感觉写歌",
+        "onboard_time": 1661313274,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270638,
+        "num": 260325,
+        "word": "乐华香港上市全球发售",
+        "onboard_time": 1661316159,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264505,
+        "num": 260296,
+        "word": "网传凤来栖主演阵容",
+        "onboard_time": 1661309128,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253537,
+        "num": 253537,
+        "word": "席琳迪翁",
+        "onboard_time": 1661309431,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249483,
+        "num": 249483,
+        "word": "发现了自己朋友很少的原因",
+        "onboard_time": 1661303733,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247409,
+        "num": 247409,
+        "word": "10岁男孩上游泳课感染HPV",
+        "onboard_time": 1661266536,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228650,
+        "num": 228650,
+        "word": "基金",
+        "onboard_time": 1661311956,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218870,
+        "num": 218870,
+        "word": "研究称生日相同脑细胞更易协作",
+        "onboard_time": 1661315556,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211363,
+        "num": 211363,
+        "word": "华为Mate50或将提振市场信心",
+        "onboard_time": 1661307509,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208230,
+        "num": 208230,
+        "word": "耿爽说决不能让核事故惨剧重演",
+        "onboard_time": 1661308169,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223644,
+        "num": 202987,
+        "word": "民国大侦探全员否认X先生身份",
+        "onboard_time": 1661311116,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220345,
+        "num": 202234,
+        "word": "古偶女二人设天花板",
+        "onboard_time": 1661296160,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194655,
+        "num": 194655,
+        "word": "成都下雨刷屏朋友圈",
+        "onboard_time": 1661304269,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186695,
+        "num": 186695,
+        "word": "房地产央国企一日4名高管落马",
+        "onboard_time": 1661301811,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175183,
+        "num": 175183,
+        "word": "中国作协回应贾浅浅拟入争议",
+        "onboard_time": 1661304151,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171961,
+        "num": 171961,
+        "word": "消防车出警被私家车堵住车库门",
+        "onboard_time": 1661308291,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170649,
+        "num": 170649,
+        "word": "武汉发现2例无症状感染者",
+        "onboard_time": 1661306249,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167247,
+        "num": 167247,
+        "word": "人真的不能多上班",
+        "onboard_time": 1661268813,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166114,
+        "num": 166114,
+        "word": "官方回应女子曝老人组团偷南瓜",
+        "onboard_time": 1661271149,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148966,
+        "num": 148966,
+        "word": "必胜客回应APP崩溃",
+        "onboard_time": 1661316339,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}

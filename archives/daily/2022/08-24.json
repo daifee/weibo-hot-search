@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661315235133,
+  "endTime": 1661316676283,
   "band_list": [
     {
       "raw_hot": 4554975,
@@ -35,8 +35,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2231151,
+      "num": 2231151,
+      "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+      "onboard_time": 1661313994,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1869913,
-      "num": 692371,
+      "num": 1530909,
       "word": "王俊凯易烊千玺支持王源新歌",
       "onboard_time": 1661311654,
       "rank": 3,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1715852,
-      "num": 689320,
+      "num": 1400669,
       "word": "汪峰今天发歌",
       "onboard_time": 1661309368,
       "rank": 8,
@@ -81,6 +89,14 @@
       "onboard_time": 1661261374,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1223350,
+      "num": 1223350,
+      "word": "骗子诈骗300万买彩票中1450万",
+      "onboard_time": 1661314116,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1150502,
@@ -155,11 +171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 864809,
-      "num": 480339,
-      "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
-      "onboard_time": 1661313994,
-      "rank": 11,
+      "raw_hot": 857867,
+      "num": 857867,
+      "word": "美国一公园发现恐龙足迹",
+      "onboard_time": 1661313095,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 837076,
-      "num": 474506,
+      "num": 560113,
       "word": "杨紫还原颜淡讨厌啦表情包",
       "onboard_time": 1661313575,
       "rank": 12,
@@ -225,6 +241,22 @@
       "onboard_time": 1661304211,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 670790,
+      "num": 525353,
+      "word": "告白铅球和水牛戒烟",
+      "onboard_time": 1661314412,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662024,
+      "num": 662024,
+      "word": "专家建议年轻人应提早规划养老投资",
+      "onboard_time": 1661314717,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651423,
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 566447,
-      "num": 463406,
+      "num": 469651,
       "word": "虞书欣纯白情绪大片",
       "onboard_time": 1661314412,
       "rank": 15,
@@ -323,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 511375,
-      "num": 456627,
-      "word": "美国一公园发现恐龙足迹",
-      "onboard_time": 1661313095,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 504470,
       "num": 504470,
       "word": "华为Mate50或将提振市场信心",
       "onboard_time": 1661307509,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 501848,
+      "num": 501848,
+      "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
+      "onboard_time": 1661312736,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486975,
@@ -355,28 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455090,
-      "num": 455090,
-      "word": "骗子诈骗300万买彩票中1450万",
-      "onboard_time": 1661314116,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454593,
       "num": 454593,
       "word": "特种兵室内突击演习处处都是繁体字",
       "onboard_time": 1661267074,
       "rank": 25,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 452128,
-      "num": 452128,
-      "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
-      "onboard_time": 1661312736,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440799,
@@ -433,14 +449,6 @@
       "onboard_time": 1661307869,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422878,
-      "num": 422878,
-      "word": "告白铅球和水牛戒烟",
-      "onboard_time": 1661314412,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417134,
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 379395,
+      "num": 379395,
+      "word": "四川一男子离家半月鱼池全晒干",
+      "onboard_time": 1661314655,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373313,
       "num": 373313,
       "word": "16个外甥住舅舅家55天花掉6万",
@@ -529,6 +545,14 @@
       "onboard_time": 1661296640,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364580,
+      "num": 364580,
+      "word": "网传大奉打更人暂定张若昀田曦薇",
+      "onboard_time": 1661315378,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 345500,
@@ -643,6 +667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295028,
+      "num": 295028,
+      "word": "调查显示准备换iPhone14的用户比往年少",
+      "onboard_time": 1661315076,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 287602,
+      "num": 261260,
+      "word": "周杰伦 靠感觉写歌",
+      "onboard_time": 1661313274,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283424,
       "num": 283424,
       "word": "8月23日新增本土确诊380例",
@@ -673,6 +713,14 @@
       "onboard_time": 1661311116,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270638,
+      "num": 260325,
+      "word": "乐华香港上市全球发售",
+      "onboard_time": 1661316159,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 268605,
@@ -731,27 +779,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245249,
-      "num": 245249,
-      "word": "周杰伦 靠感觉写歌",
-      "onboard_time": 1661313274,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 243374,
       "num": 243374,
       "word": "四川一男子乱丢烟头引发火灾",
       "onboard_time": 1661269353,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242232,
-      "num": 242232,
-      "word": "专家建议年轻人应提早规划养老投资",
-      "onboard_time": 1661314717,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -811,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218870,
+      "num": 218870,
+      "word": "研究称生日相同脑细胞更易协作",
+      "onboard_time": 1661315556,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 212992,
       "num": 167483,
       "word": "金枝欲孽在邓萃雯心中封神",
@@ -865,14 +905,6 @@
       "onboard_time": 1661299650,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179543,
-      "num": 179543,
-      "word": "调查显示准备换iPhone14的用户比往年少",
-      "onboard_time": 1661315076,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 178863,
@@ -937,14 +969,6 @@
       "onboard_time": 1661266477,
       "rank": 42,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 164815,
-      "num": 164815,
-      "word": "四川一男子离家半月鱼池全晒干",
-      "onboard_time": 1661314655,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162816,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1661252669,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148966,
+      "num": 148966,
+      "word": "必胜客回应APP崩溃",
+      "onboard_time": 1661316339,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 119940,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 13670,
-      "num": 468632,
+      "num": 508510,
       "word": "原神3.0版本更新",
       "onboard_time": 1661313636,
       "rank": 14,
