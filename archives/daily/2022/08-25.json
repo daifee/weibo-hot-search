@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661367105101,
+  "endTime": 1661368688327,
   "band_list": [
     {
       "raw_hot": 1763191,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54735,
+      "num": 54735,
+      "word": "何悯鸿的妈妈是蔡根花",
+      "onboard_time": 1661365455,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 46373,
       "num": 46373,
       "word": "葛秋谷说他和白海川不算叛逆",
@@ -451,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35189,
-      "num": 35189,
-      "word": "何悯鸿的妈妈是蔡根花",
-      "onboard_time": 1661365455,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 16314,
+      "num": 16314,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661367105101,
+  "endTime": 1661368688327,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -7435,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54735,
+      "num": 54735,
+      "word": "何悯鸿的妈妈是蔡根花",
+      "onboard_time": 1661365455,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 46508,
       "num": 46508,
       "word": "岸田文雄出现低烧咳嗽等症状",
@@ -7483,14 +7491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35189,
-      "num": 35189,
-      "word": "何悯鸿的妈妈是蔡根花",
-      "onboard_time": 1661365455,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 33675,
       "num": 2273939,
       "word": "中国航天捷报频传",
@@ -7537,6 +7537,14 @@
       "onboard_time": 1661038882,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 16314,
+      "num": 16314,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13670,

@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661367105101,
+  "endTime": 1661368688327,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -55067,6 +55067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54735,
+      "num": 54735,
+      "word": "何悯鸿的妈妈是蔡根花",
+      "onboard_time": 1661365455,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54175,
       "num": 265965,
       "word": "直升机航拍震撼时刻",
@@ -55368,14 +55376,6 @@
       "word": "谢霆锋惠英红容祖儿电影之夜合照",
       "onboard_time": 1660676832,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 35189,
-      "num": 35189,
-      "word": "何悯鸿的妈妈是蔡根花",
-      "onboard_time": 1661365455,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -55769,6 +55769,14 @@
       "onboard_time": 1660615231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 16314,
+      "num": 16314,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16097,
