@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661316676283,
+  "endTime": 1661319942415,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -600,6 +600,14 @@
       "word": "部分广播剧下架",
       "onboard_time": 1660796132,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5079390,
+      "num": 1458932,
+      "word": "网传迪丽热巴王一博主演难哄",
+      "onboard_time": 1661318375,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -5843,6 +5851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1542419,
+      "num": 1542419,
+      "word": "专家建议年轻人应提早规划养老投资",
+      "onboard_time": 1661314717,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1542133,
       "num": 1542133,
       "word": "范丞丞自曝百度身高是假的",
@@ -6593,6 +6609,14 @@
       "onboard_time": 1660018121,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1430459,
+      "num": 1430459,
+      "word": "拜登下令美军空袭叙利亚",
+      "onboard_time": 1661318134,
+      "rank": 4,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1430346,
@@ -7356,7 +7380,7 @@
     },
     {
       "raw_hot": 1316101,
-      "num": 717670,
+      "num": 754814,
       "word": "男子离婚因收入低想要回18万彩礼",
       "onboard_time": 1661308888,
       "rank": 7,
@@ -12403,6 +12427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 883569,
+      "num": 883569,
+      "word": "钟离",
+      "onboard_time": 1661317238,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 882833,
       "num": 701764,
       "word": "严浩翔贺峻霖重新定义还珠格格",
@@ -16875,14 +16907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 662024,
-      "num": 662024,
-      "word": "专家建议年轻人应提早规划养老投资",
-      "onboard_time": 1661314717,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 661845,
       "num": 661845,
       "word": "iPhone14系列或仍有mini",
@@ -17368,6 +17392,14 @@
       "word": "时代少年团蜕变三周年",
       "onboard_time": 1660741294,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 643926,
+      "num": 643926,
+      "word": "朴志效确诊新冠",
+      "onboard_time": 1661318913,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -20473,6 +20505,14 @@
       "onboard_time": 1659651013,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552583,
+      "num": 552583,
+      "word": "意大利男子同时感染猴痘新冠艾滋",
+      "onboard_time": 1661317775,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552565,
@@ -25139,6 +25179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464424,
+      "num": 464424,
+      "word": "四川一男子离家半月鱼池全晒干",
+      "onboard_time": 1661314655,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464355,
       "num": 263518,
       "word": "凌不疑手刃仇人",
@@ -27963,6 +28011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421258,
+      "num": 421258,
+      "word": "大爷用一根唢呐养活四代人",
+      "onboard_time": 1661317238,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421249,
       "num": 421249,
       "word": "新学期人设",
@@ -29465,6 +29521,14 @@
       "onboard_time": 1660103077,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400568,
+      "num": 400568,
+      "word": "调查显示准备换iPhone14的用户比往年少",
+      "onboard_time": 1661315076,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 400562,
@@ -31153,14 +31217,6 @@
       "onboard_time": 1661084910,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379395,
-      "num": 379395,
-      "word": "四川一男子离家半月鱼池全晒干",
-      "onboard_time": 1661314655,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379392,
@@ -36363,6 +36419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326952,
+      "num": 326952,
+      "word": "研究称生日相同脑细胞更易协作",
+      "onboard_time": 1661315556,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 326864,
       "num": 326864,
       "word": "银行回应深圳多名储户账户被莫名冻结",
@@ -37208,6 +37272,14 @@
       "word": "快说谢谢90婚介所",
       "onboard_time": 1659583301,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316723,
+      "num": 316723,
+      "word": "许凯密逃度假风衬衫造型",
+      "onboard_time": 1661319274,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -39073,14 +39145,6 @@
       "onboard_time": 1659320067,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295028,
-      "num": 295028,
-      "word": "调查显示准备换iPhone14的用户比往年少",
-      "onboard_time": 1661315076,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 294872,
@@ -41457,6 +41521,14 @@
       "onboard_time": 1659874411,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269418,
+      "num": 269418,
+      "word": "看INTO1采访多少有点费耳朵",
+      "onboard_time": 1661319274,
+      "rank": 26,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 269368,
@@ -45331,6 +45403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230671,
+      "num": 230671,
+      "word": "意想不到的文化输出增加了",
+      "onboard_time": 1661318375,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230648,
       "num": 230648,
       "word": "一层三户分别住着海军陆军武警",
@@ -45907,6 +45987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225393,
+      "num": 225393,
+      "word": "苏醒老歌手的日常MV",
+      "onboard_time": 1661317955,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225352,
       "num": 225352,
       "word": "脱发到底怎么办",
@@ -46081,6 +46169,14 @@
       "onboard_time": 1660605020,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223575,
+      "num": 223575,
+      "word": "未开封原版初代iPhone拍出约24万元",
+      "onboard_time": 1661316697,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 223410,
@@ -46441,14 +46537,6 @@
       "onboard_time": 1660796132,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218870,
-      "num": 218870,
-      "word": "研究称生日相同脑细胞更易协作",
-      "onboard_time": 1661315556,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 218784,
@@ -49667,6 +49755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 177301,
+      "num": 177301,
+      "word": "面果大枣能有多真",
+      "onboard_time": 1661317056,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177197,
       "num": 177197,
       "word": "猫咪的爱意有多让人窒息",
@@ -50457,6 +50553,14 @@
       "onboard_time": 1660562910,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164152,
+      "num": 164152,
+      "word": "原神须弥",
+      "onboard_time": 1661319274,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 163876,
@@ -51873,6 +51977,14 @@
       "onboard_time": 1661070389,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135939,
+      "num": 135939,
+      "word": "河北新增无症状感染者10例",
+      "onboard_time": 1661319575,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135595,
@@ -54121,6 +54233,14 @@
       "onboard_time": 1661195114,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22675,
+      "num": 1482350,
+      "word": "机械臂第一视角下的地球",
+      "onboard_time": 1661319754,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 21653,
