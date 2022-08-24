@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661373518914,
+  "endTime": 1661375946066,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -55779,6 +55779,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 16297,
+      "num": 16297,
+      "word": "上海警方破获7亿养老金诈骗案",
+      "onboard_time": 1661375413,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16193,
+      "num": 16193,
+      "word": "因井水起纷争老人被邻居打骨折",
+      "onboard_time": 1661373249,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 16097,
       "num": 16097,
       "word": "孟子义蹭饭体面人",
@@ -56009,14 +56025,6 @@
       "onboard_time": 1660392029,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 8497,
-      "num": 8497,
-      "word": "因井水起纷争老人被邻居打骨折",
-      "onboard_time": 1661373249,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 8391,
