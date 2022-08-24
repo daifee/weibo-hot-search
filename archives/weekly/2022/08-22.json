@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661307612207,
+  "endTime": 1661310219149,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3200406,
-      "num": 1153662,
+      "num": 1298378,
       "word": "四大精子杀手",
       "onboard_time": 1661270491,
       "rank": 3,
@@ -201,6 +201,14 @@
       "onboard_time": 1661167709,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2593370,
+      "num": 2593370,
+      "word": "必胜客",
+      "onboard_time": 1661307930,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 2498456,
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892727,
+      "num": 892727,
+      "word": "中国作协回应贾浅浅拟入争议",
+      "onboard_time": 1661304151,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 892560,
       "num": 892560,
       "word": "成毅沉香重华新娘妆",
@@ -985,14 +1001,6 @@
       "onboard_time": 1661183673,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 853776,
-      "num": 853776,
-      "word": "中国作协回应贾浅浅拟入争议",
-      "onboard_time": 1661304151,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 845524,
@@ -1147,12 +1155,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 763409,
+      "num": 763409,
+      "word": "苏州KSG人员处罚公告",
+      "onboard_time": 1661305712,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 762483,
       "num": 762483,
       "word": "TES成为LPL首支晋级S12的队伍",
       "onboard_time": 1661177555,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 758199,
+      "num": 758199,
+      "word": "女子收到4包湿巾被骗6万余元",
+      "onboard_time": 1661307749,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 754178,
@@ -1211,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 717670,
+      "num": 717670,
+      "word": "男子离婚因收入低想要回18万彩礼",
+      "onboard_time": 1661308888,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713486,
       "num": 713486,
       "word": "张大大说女生穿得开心最重要",
@@ -1251,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695616,
-      "num": 695616,
-      "word": "苏州KSG人员处罚公告",
-      "onboard_time": 1661305712,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 694579,
       "num": 694579,
       "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1661151092,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689277,
+      "num": 689277,
+      "word": "汪峰今天发歌",
+      "onboard_time": 1661309368,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 688285,
@@ -1547,12 +1579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580265,
+      "num": 580265,
+      "word": "发现了自己朋友很少的原因",
+      "onboard_time": 1661303733,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 578528,
       "num": 578528,
       "word": "ofo公众号发擦边推文",
       "onboard_time": 1661166450,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 576097,
+      "num": 576097,
+      "word": "武汉发现2例无症状感染者",
+      "onboard_time": 1661306249,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573379,
@@ -1715,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 540768,
-      "num": 540768,
-      "word": "发现了自己朋友很少的原因",
-      "onboard_time": 1661303733,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 540726,
       "num": 540726,
       "word": "爱情而已",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1661228673,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 536666,
-      "num": 536666,
-      "word": "武汉发现2例无症状感染者",
-      "onboard_time": 1661306249,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535206,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1661130031,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 504470,
+      "num": 504470,
+      "word": "华为Mate50或将提振市场信心",
+      "onboard_time": 1661307509,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 502499,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1661148991,
       "rank": 44,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 481904,
+      "num": 481904,
+      "word": "网传凤来栖主演阵容",
+      "onboard_time": 1661309128,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 480602,
@@ -2267,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425357,
+      "num": 425357,
+      "word": "脱口秀大会5选手快乐官宣",
+      "onboard_time": 1661307869,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422480,
       "num": 422480,
       "word": "棣欣引力",
@@ -2513,6 +2569,14 @@
       "onboard_time": 1661265456,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 385057,
+      "num": 385057,
+      "word": "王源说又一次看海",
+      "onboard_time": 1661308589,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 384218,
@@ -2891,6 +2955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 337910,
+      "num": 337910,
+      "word": "耿爽说决不能让核事故惨剧重演",
+      "onboard_time": 1661308169,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 337533,
       "num": 250558,
       "word": "马嘉祺个人pb寻迹短片预告",
@@ -3155,6 +3227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 308110,
+      "num": 308110,
+      "word": "飞狐外传定档0831",
+      "onboard_time": 1661309311,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307842,
       "num": 267822,
       "word": "ive新单曲afterlike",
@@ -3169,6 +3249,14 @@
       "onboard_time": 1661163331,
       "rank": 43,
       "category": "自然"
+    },
+    {
+      "raw_hot": 304914,
+      "num": 304914,
+      "word": "男子抡板凳殴打前妻被行拘",
+      "onboard_time": 1661304630,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303041,
@@ -3395,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283424,
+      "num": 283424,
+      "word": "8月23日新增本土确诊380例",
+      "onboard_time": 1661309611,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283100,
       "num": 283100,
       "word": "重庆巴南区界石发生山火",
@@ -3513,6 +3609,14 @@
       "onboard_time": 1661174492,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272333,
+      "num": 272333,
+      "word": "席琳迪翁",
+      "onboard_time": 1661309431,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 271822,
@@ -3827,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254099,
+      "num": 254099,
+      "word": "消防车出警被私家车堵住车库门",
+      "onboard_time": 1661308291,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253822,
       "num": 253822,
       "word": "8月22日新增本土无症状1440例",
@@ -3921,14 +4033,6 @@
       "onboard_time": 1661150669,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246291,
-      "num": 246291,
-      "word": "男子抡板凳殴打前妻被行拘",
-      "onboard_time": 1661304630,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246251,
@@ -4083,6 +4187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231420,
+      "num": 231420,
+      "word": "广东新增本土确诊7例无症状5例",
+      "onboard_time": 1661310093,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231212,
       "num": 231212,
       "word": "朱正廷为做好盛典主持人有多努力",
@@ -4219,6 +4331,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 222241,
+      "num": 222241,
+      "word": "南方朋友们期待的降温就要来了",
+      "onboard_time": 1661308709,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222203,
       "num": 194398,
       "word": "龚俊VOGUEfilm解锁AI角色",
@@ -4353,6 +4473,14 @@
       "onboard_time": 1661157394,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213549,
+      "num": 213549,
+      "word": "运油20歼20歼16三机同框照",
+      "onboard_time": 1661309611,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 211480,
@@ -4937,14 +5065,6 @@
       "onboard_time": 1661307091,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170711,
-      "num": 170711,
-      "word": "华为Mate50或将提振市场信心",
-      "onboard_time": 1661307509,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 170605,
@@ -5609,6 +5729,14 @@
       "onboard_time": 1661225730,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 26667,
+      "num": 506710,
+      "word": "老板座驾的顶流之争",
+      "onboard_time": 1661310033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24621,
