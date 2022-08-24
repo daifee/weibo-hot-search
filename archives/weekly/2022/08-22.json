@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661369629615,
+  "endTime": 1661372572811,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -7443,6 +7443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52623,
+      "num": 52623,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46508,
       "num": 46508,
       "word": "岸田文雄出现低烧咳嗽等症状",
@@ -7507,14 +7515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25056,
-      "num": 25056,
-      "word": "直击台风马鞍来袭",
-      "onboard_time": 1661367853,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24621,
       "num": 491145,
       "word": "一台价值过亿的MPV",
@@ -7560,6 +7560,14 @@
       "word": "爱情债主陆林深",
       "onboard_time": 1661259633,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 12463,
+      "num": 12463,
+      "word": "WB零封ksg",
+      "onboard_time": 1661370852,
+      "rank": 48,
       "category": "游戏"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661369629615,
+  "endTime": 1661372572811,
   "band_list": [
     {
       "raw_hot": 1763191,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52623,
+      "num": 52623,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46373,
       "num": 46373,
       "word": "葛秋谷说他和白海川不算叛逆",
@@ -459,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 25056,
-      "num": 25056,
-      "word": "直击台风马鞍来袭",
-      "onboard_time": 1661367853,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 12463,
+      "num": 12463,
+      "word": "WB零封ksg",
+      "onboard_time": 1661370852,
+      "rank": 48,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
