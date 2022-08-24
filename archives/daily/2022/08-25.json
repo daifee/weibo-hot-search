@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661358644379,
+  "endTime": 1661359873311,
   "band_list": [
     {
       "raw_hot": 1763191,
@@ -17,6 +17,14 @@
       "onboard_time": 1661336970,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1087137,
+      "num": 1087137,
+      "word": "豆瓣评分在7分以上的古偶剧",
+      "onboard_time": 1661357907,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1000364,
@@ -59,14 +67,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 688823,
-      "num": 688823,
-      "word": "豆瓣评分在7分以上的古偶剧",
-      "onboard_time": 1661357907,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 613724,
       "num": 613724,
       "word": "音银涉嫌分数造假被立案",
@@ -107,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 364882,
+      "num": 364882,
+      "word": "济南集中供冷至9月15日",
+      "onboard_time": 1661356772,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359414,
       "num": 359414,
       "word": "为什么身体很累却还是失眠",
@@ -131,20 +139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295854,
-      "num": 295854,
-      "word": "济南集中供冷至9月15日",
-      "onboard_time": 1661356772,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289442,
       "num": 289442,
       "word": "解放军奋战山火休息时和衣而卧",
       "onboard_time": 1661351194,
       "rank": 16,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 278605,
+      "num": 278605,
+      "word": "还以为误入了哪个武侠大片",
+      "onboard_time": 1661357489,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 271531,
@@ -187,14 +195,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 226963,
-      "num": 226963,
-      "word": "还以为误入了哪个武侠大片",
-      "onboard_time": 1661357489,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "重庆疫情防控",
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 189959,
-      "num": 828167,
+      "num": 992535,
       "word": "英国乐手科普台湾是中国一部分",
       "onboard_time": 1661342855,
       "rank": 2,
@@ -307,12 +307,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143828,
+      "num": 143828,
+      "word": "14岁以下儿童不建议检查幽门螺杆菌",
+      "onboard_time": 1661359105,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138769,
+      "num": 138769,
+      "word": "保剑锋说文帝终究是个君王",
+      "onboard_time": 1661359223,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133909,
       "num": 126477,
       "word": "秦泽文",
       "onboard_time": 1661352819,
       "rank": 40,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 130390,
+      "num": 130390,
+      "word": "自尊心不允许我错这么多",
+      "onboard_time": 1661358985,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 129604,

@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661358644379,
+  "endTime": 1661359873311,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -955,6 +955,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1087137,
+      "num": 1087137,
+      "word": "豆瓣评分在7分以上的古偶剧",
+      "onboard_time": 1661357907,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1083677,
       "num": 1083677,
       "word": "久酷",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1661151092,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688823,
-      "num": 688823,
-      "word": "豆瓣评分在7分以上的古偶剧",
-      "onboard_time": 1661357907,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 688285,
@@ -3635,6 +3635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 364882,
+      "num": 364882,
+      "word": "济南集中供冷至9月15日",
+      "onboard_time": 1661356772,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364580,
       "num": 364580,
       "word": "网传大奉打更人暂定张若昀田曦薇",
@@ -4451,14 +4459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295854,
-      "num": 295854,
-      "word": "济南集中供冷至9月15日",
-      "onboard_time": 1661356772,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294206,
       "num": 294206,
       "word": "杨戬哭了",
@@ -4745,6 +4745,14 @@
       "onboard_time": 1661351914,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278605,
+      "num": 278605,
+      "word": "还以为误入了哪个武侠大片",
+      "onboard_time": 1661357489,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 278226,
@@ -5681,14 +5689,6 @@
       "onboard_time": 1661151092,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226963,
-      "num": 226963,
-      "word": "还以为误入了哪个武侠大片",
-      "onboard_time": 1661357489,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 226106,
@@ -7059,6 +7059,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 143828,
+      "num": 143828,
+      "word": "14岁以下儿童不建议检查幽门螺杆菌",
+      "onboard_time": 1661359105,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143770,
       "num": 143770,
       "word": "宋茜说小团团好甜",
@@ -7121,6 +7129,14 @@
       "onboard_time": 1661329049,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 138769,
+      "num": 138769,
+      "word": "保剑锋说文帝终究是个君王",
+      "onboard_time": 1661359223,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 138611,
@@ -7201,6 +7217,14 @@
       "onboard_time": 1661158174,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 130390,
+      "num": 130390,
+      "word": "自尊心不允许我错这么多",
+      "onboard_time": 1661358985,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 130291,
