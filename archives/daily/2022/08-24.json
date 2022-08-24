@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661340942599,
+  "endTime": 1661345013640,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1409916,
+      "num": 1409916,
+      "word": "玄夜终于上线了",
+      "onboard_time": 1661337090,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1377922,
       "num": 632903,
       "word": "男孩吃半斤瓜子不吐壳肛门被堵",
@@ -209,14 +217,6 @@
       "onboard_time": 1661266536,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106832,
-      "num": 1106832,
-      "word": "玄夜终于上线了",
-      "onboard_time": 1661337090,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 1106164,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958398,
+      "num": 958398,
+      "word": "传苹果已开始研发iPhone15",
+      "onboard_time": 1661339433,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 933629,
       "num": 933629,
       "word": "意大利男子同时感染猴痘新冠艾滋",
@@ -387,6 +395,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 791791,
+      "num": 268027,
+      "word": "肖战为重庆助力一起守护这座城",
+      "onboard_time": 1661343154,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 786430,
+      "num": 786430,
+      "word": "重庆小伙两天两夜送物资累到浇水",
+      "onboard_time": 1661339791,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763409,
       "num": 763409,
       "word": "苏州KSG人员处罚公告",
@@ -401,6 +425,14 @@
       "onboard_time": 1661307749,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729820,
+      "num": 729820,
+      "word": "鲸鱼的见证下我求婚了",
+      "onboard_time": 1661343035,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 727468,
@@ -499,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643468,
+      "num": 643468,
+      "word": "香川照之涉嫌猥亵女性",
+      "onboard_time": 1661338652,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 640005,
+      "num": 359444,
+      "word": "郑秀妍一分钟学会一支舞",
+      "onboard_time": 1661342076,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 625399,
       "num": 625399,
       "word": "王鹤棣虞书欣抱抱花絮",
@@ -595,12 +643,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 563354,
-      "num": 418589,
-      "word": "香川照之涉嫌猥亵女性",
-      "onboard_time": 1661338652,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 564012,
+      "num": 564012,
+      "word": "四川一镇突发大火多个居民楼被点燃",
+      "onboard_time": 1661343753,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562679,
@@ -656,6 +704,14 @@
       "word": "百岁老人戒指卡手不愿摘",
       "onboard_time": 1661325511,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508572,
+      "num": 508572,
+      "word": "半盒田咖啡被指歧视职场妈妈",
+      "onboard_time": 1661339012,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -731,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461794,
+      "num": 461794,
+      "word": "关晓彤徐梦洁扫楼生图",
+      "onboard_time": 1661342318,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454593,
       "num": 454593,
       "word": "特种兵室内突击演习处处都是繁体字",
       "onboard_time": 1661267074,
       "rank": 25,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 443618,
+      "num": 443618,
+      "word": "see",
+      "onboard_time": 1661343875,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 440799,
@@ -841,6 +913,22 @@
       "onboard_time": 1661307869,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422172,
+      "num": 422172,
+      "word": "感受到男人娶老婆的快乐了",
+      "onboard_time": 1661342734,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 421428,
+      "num": 421428,
+      "word": "青岛疫情防控",
+      "onboard_time": 1661341355,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419859,
@@ -1011,12 +1099,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 359264,
-      "num": 359264,
-      "word": "传苹果已开始研发iPhone15",
-      "onboard_time": 1661339433,
-      "rank": 46,
-      "category": "科技"
+      "raw_hot": 351182,
+      "num": 351182,
+      "word": "世界小姐",
+      "onboard_time": 1661340213,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 348122,
@@ -1067,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341239,
+      "num": 341239,
+      "word": "重庆山火扑救现场",
+      "onboard_time": 1661341717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341086,
       "num": 262869,
       "word": "唐周说可是颜淡我不是他",
@@ -1089,6 +1185,14 @@
       "onboard_time": 1661333791,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337390,
+      "num": 337390,
+      "word": "周翊然三部剧凑不齐一个好爹",
+      "onboard_time": 1661342794,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 336981,
@@ -1251,20 +1355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293952,
+      "num": 293952,
+      "word": "KSG对战WB",
+      "onboard_time": 1661341717,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289485,
       "num": 289485,
       "word": "还好没在贵州考科目二",
       "onboard_time": 1661324251,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 288890,
-      "num": 288890,
-      "word": "半盒田咖啡被指歧视职场妈妈",
-      "onboard_time": 1661339012,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288806,
@@ -1312,6 +1416,14 @@
       "word": "冰雨火导演特辑",
       "onboard_time": 1661315076,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279598,
+      "num": 155373,
+      "word": "颜淡唐周梦中的婚礼",
+      "onboard_time": 1661344952,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1403,12 +1515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262562,
-      "num": 262562,
-      "word": "重庆小伙两天两夜送物资累到浇水",
-      "onboard_time": 1661339791,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 260492,
+      "num": 260492,
+      "word": "AG官宣加盟向前冲",
+      "onboard_time": 1661341774,
+      "rank": 32,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 259380,
@@ -1584,6 +1696,14 @@
       "word": "南方朋友们期待的降温就要来了",
       "onboard_time": 1661308709,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219295,
+      "num": 219295,
+      "word": "英国乐手科普台湾是中国一部分",
+      "onboard_time": 1661342855,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1843,14 +1963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168076,
-      "num": 168076,
-      "word": "世界小姐",
-      "onboard_time": 1661340213,
-      "rank": 42,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 167664,
       "num": 167664,
       "word": "任贤齐苏有朋王大陆录制你好星期六",
@@ -1907,6 +2019,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 159044,
+      "num": 159044,
+      "word": "深圳科兴科学园疫情防控",
+      "onboard_time": 1661342617,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156488,
       "num": 156488,
       "word": "824科比日",
@@ -1915,12 +2035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156074,
+      "num": 156074,
+      "word": "大妈光脚踩高铁小桌板高声打电话",
+      "onboard_time": 1661344292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154568,
       "num": 154568,
       "word": "建发",
       "onboard_time": 1661270368,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 152113,
+      "num": 152113,
+      "word": "追光动画你最喜欢哪部",
+      "onboard_time": 1661344713,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 151479,

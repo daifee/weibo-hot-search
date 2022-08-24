@@ -1,0 +1,410 @@
+{
+  "runTime": 1661345013640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2914390,
+        "num": 2914390,
+        "word": "微信支持一次发99张图片",
+        "onboard_time": 1661336970,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1409916,
+        "num": 1409916,
+        "word": "玄夜终于上线了",
+        "onboard_time": 1661337090,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71211,
+        "num": 1174732,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 958398,
+        "num": 958398,
+        "word": "传苹果已开始研发iPhone15",
+        "onboard_time": 1661339433,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 786430,
+        "num": 786430,
+        "word": "重庆小伙两天两夜送物资累到浇水",
+        "onboard_time": 1661339791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774488,
+        "num": 774488,
+        "word": "上海宜家储物柜区禁拍网红照",
+        "onboard_time": 1661335951,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729820,
+        "num": 729820,
+        "word": "鲸鱼的见证下我求婚了",
+        "onboard_time": 1661343035,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 643468,
+        "num": 643468,
+        "word": "香川照之涉嫌猥亵女性",
+        "onboard_time": 1661338652,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564012,
+        "num": 564012,
+        "word": "四川一镇突发大火多个居民楼被点燃",
+        "onboard_time": 1661343753,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508572,
+        "num": 508572,
+        "word": "半盒田咖啡被指歧视职场妈妈",
+        "onboard_time": 1661339012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595140,
+        "num": 498565,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461794,
+        "num": 461794,
+        "word": "关晓彤徐梦洁扫楼生图",
+        "onboard_time": 1661342318,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446775,
+        "num": 446775,
+        "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+        "onboard_time": 1661326472,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443618,
+        "num": 443618,
+        "word": "see",
+        "onboard_time": 1661343875,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 422172,
+        "num": 422172,
+        "word": "感受到男人娶老婆的快乐了",
+        "onboard_time": 1661342734,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421428,
+        "num": 421428,
+        "word": "青岛疫情防控",
+        "onboard_time": 1661341355,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359918,
+        "num": 359918,
+        "word": "重庆一定赢",
+        "onboard_time": 1661335771,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640005,
+        "num": 359444,
+        "word": "郑秀妍一分钟学会一支舞",
+        "onboard_time": 1661342076,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351182,
+        "num": 351182,
+        "word": "世界小姐",
+        "onboard_time": 1661340213,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 341239,
+        "num": 341239,
+        "word": "重庆山火扑救现场",
+        "onboard_time": 1661341717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407825,
+        "num": 340378,
+        "word": "鞠婧祎洋娃娃造型",
+        "onboard_time": 1661334090,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339458,
+        "num": 339458,
+        "word": "一诺",
+        "onboard_time": 1661328031,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337390,
+        "num": 337390,
+        "word": "周翊然三部剧凑不齐一个好爹",
+        "onboard_time": 1661342794,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326692,
+        "num": 326692,
+        "word": "张庭林瑞阳转战马来西亚",
+        "onboard_time": 1661325632,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 322360,
+        "num": 322360,
+        "word": "美军不到1个月至少偷7次叙石油",
+        "onboard_time": 1661329953,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 311928,
+        "num": 311928,
+        "word": "冰雨火15集高能炸了",
+        "onboard_time": 1661339791,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309910,
+        "num": 309910,
+        "word": "颜淡捅了唐周",
+        "onboard_time": 1661338833,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293952,
+        "num": 293952,
+        "word": "KSG对战WB",
+        "onboard_time": 1661341717,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268970,
+        "num": 268970,
+        "word": "四川气象台发暴雨蓝色预警",
+        "onboard_time": 1661335171,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246343,
+        "num": 268201,
+        "word": "茶托女友一泡茶小1千2次约会花21万",
+        "onboard_time": 1661334272,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791791,
+        "num": 268027,
+        "word": "肖战为重庆助力一起守护这座城",
+        "onboard_time": 1661343154,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267666,
+        "num": 267666,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1661335112,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260492,
+        "num": 260492,
+        "word": "AG官宣加盟向前冲",
+        "onboard_time": 1661341774,
+        "rank": 32,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 233245,
+        "num": 233245,
+        "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+        "onboard_time": 1661324731,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219295,
+        "num": 219295,
+        "word": "英国乐手科普台湾是中国一部分",
+        "onboard_time": 1661342855,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216423,
+        "num": 216423,
+        "word": "时代少年团演唱会预约",
+        "onboard_time": 1661330612,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211140,
+        "num": 211140,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203243,
+        "num": 203243,
+        "word": "拜登下令美军空袭叙利亚",
+        "onboard_time": 1661318134,
+        "rank": 37,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 197885,
+        "num": 197885,
+        "word": "橘右京新皮肤",
+        "onboard_time": 1661335592,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190077,
+        "num": 190077,
+        "word": "广州台风",
+        "onboard_time": 1661336612,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174878,
+        "num": 174878,
+        "word": "重庆摩托车队",
+        "onboard_time": 1661338530,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 170333,
+        "num": 170333,
+        "word": "四川省防指再发紧急通知",
+        "onboard_time": 1661334632,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170019,
+        "num": 170019,
+        "word": "小玖给一诺道歉",
+        "onboard_time": 1661334390,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167020,
+        "num": 167020,
+        "word": "原来我的祖先是反派",
+        "onboard_time": 1661337331,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166833,
+        "num": 166833,
+        "word": "竟然和一只狗搭讪失败了",
+        "onboard_time": 1661335713,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159044,
+        "num": 159044,
+        "word": "深圳科兴科学园疫情防控",
+        "onboard_time": 1661342617,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156074,
+        "num": 156074,
+        "word": "大妈光脚踩高铁小桌板高声打电话",
+        "onboard_time": 1661344292,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279598,
+        "num": 155373,
+        "word": "颜淡唐周梦中的婚礼",
+        "onboard_time": 1661344952,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153083,
+        "num": 153083,
+        "word": "43.9度四川高温再次刷新纪录",
+        "onboard_time": 1661330312,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152113,
+        "num": 152113,
+        "word": "追光动画你最喜欢哪部",
+        "onboard_time": 1661344713,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}
