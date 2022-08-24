@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661368688327,
+  "endTime": 1661369629615,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -55579,6 +55579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25056,
+      "num": 25056,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25017,
       "num": 1101696,
       "word": "七夕礼物颜值天花板",
@@ -55769,14 +55777,6 @@
       "onboard_time": 1660615231,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 16314,
-      "num": 16314,
-      "word": "直击台风马鞍来袭",
-      "onboard_time": 1661367853,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16097,

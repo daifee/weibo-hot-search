@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661368688327,
+  "endTime": 1661369629615,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -7507,6 +7507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25056,
+      "num": 25056,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24621,
       "num": 491145,
       "word": "一台价值过亿的MPV",
@@ -7537,14 +7545,6 @@
       "onboard_time": 1661038882,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 16314,
-      "num": 16314,
-      "word": "直击台风马鞍来袭",
-      "onboard_time": 1661367853,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13670,
