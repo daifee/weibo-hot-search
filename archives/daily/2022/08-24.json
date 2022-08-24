@@ -1,10 +1,10 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661319942415,
+  "endTime": 1661320506164,
   "band_list": [
     {
       "raw_hot": 5079390,
-      "num": 1458932,
+      "num": 1492294,
       "word": "网传迪丽热巴王一博主演难哄",
       "onboard_time": 1661318375,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1818385,
+      "num": 1818385,
+      "word": "拜登下令美军空袭叙利亚",
+      "onboard_time": 1661318134,
+      "rank": 4,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1715852,
       "num": 1400669,
       "word": "汪峰今天发歌",
@@ -81,14 +89,6 @@
       "onboard_time": 1661314717,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1430459,
-      "num": 1430459,
-      "word": "拜登下令美军空袭叙利亚",
-      "onboard_time": 1661318134,
-      "rank": 4,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1316101,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918987,
+      "num": 918987,
+      "word": "钟离",
+      "onboard_time": 1661317238,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 906862,
       "num": 906862,
       "word": "成都下雨",
@@ -193,14 +201,6 @@
       "onboard_time": 1661304151,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883569,
-      "num": 883569,
-      "word": "钟离",
-      "onboard_time": 1661317238,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 857867,
@@ -315,6 +315,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 592704,
+      "num": 592704,
+      "word": "意大利男子同时感染猴痘新冠艾滋",
+      "onboard_time": 1661317775,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585342,
       "num": 585342,
       "word": "成都下雨刷屏朋友圈",
@@ -361,14 +369,6 @@
       "onboard_time": 1661309611,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 552583,
-      "num": 552583,
-      "word": "意大利男子同时感染猴痘新冠艾滋",
-      "onboard_time": 1661317775,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531192,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439630,
+      "num": 439630,
+      "word": "调查显示准备换iPhone14的用户比往年少",
+      "onboard_time": 1661315076,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 438190,
       "num": 438190,
       "word": "mysta",
@@ -491,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426025,
+      "num": 426025,
+      "word": "大爷用一根唢呐养活四代人",
+      "onboard_time": 1661317238,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425357,
       "num": 425357,
       "word": "脱口秀大会5选手快乐官宣",
@@ -499,28 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 421258,
-      "num": 421258,
-      "word": "大爷用一根唢呐养活四代人",
-      "onboard_time": 1661317238,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417134,
       "num": 417134,
       "word": "古偶女二人设天花板",
       "onboard_time": 1661296160,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400568,
-      "num": 400568,
-      "word": "调查显示准备换iPhone14的用户比往年少",
-      "onboard_time": 1661315076,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 396439,
@@ -675,8 +675,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326952,
-      "num": 326952,
+      "raw_hot": 330549,
+      "num": 330549,
+      "word": "许凯密逃度假风衬衫造型",
+      "onboard_time": 1661319274,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327026,
+      "num": 327026,
       "word": "研究称生日相同脑细胞更易协作",
       "onboard_time": 1661315556,
       "rank": 37,
@@ -689,14 +697,6 @@
       "onboard_time": 1661309431,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316723,
-      "num": 316723,
-      "word": "许凯密逃度假风衬衫造型",
-      "onboard_time": 1661319274,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 315488,
@@ -851,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244523,
+      "num": 244523,
+      "word": "未开封原版初代iPhone拍出约24万元",
+      "onboard_time": 1661316697,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 243374,
       "num": 243374,
       "word": "四川一男子乱丢烟头引发火灾",
@@ -923,14 +931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223575,
-      "num": 223575,
-      "word": "未开封原版初代iPhone拍出约24万元",
-      "onboard_time": 1661316697,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 222241,
       "num": 222241,
       "word": "南方朋友们期待的降温就要来了",
@@ -969,6 +969,14 @@
       "onboard_time": 1661263297,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "原神须弥",
+      "onboard_time": 1661319274,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 189463,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1661266477,
       "rank": 42,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 164152,
-      "num": 164152,
-      "word": "原神须弥",
-      "onboard_time": 1661319274,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 162816,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107912,
+      "num": 107912,
+      "word": "包机上同济是种什么体验",
+      "onboard_time": 1661320232,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107610,
       "num": 107610,
       "word": "男子远隔千里被喷比榴莲还臭",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1661259572,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64672,
+      "num": 1505872,
+      "word": "机械臂第一视角下的地球",
+      "onboard_time": 1661319754,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 40958,
@@ -1235,14 +1251,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 22675,
-      "num": 1482350,
-      "word": "机械臂第一视角下的地球",
-      "onboard_time": 1661319754,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 13670,
       "num": 508510,
       "word": "原神3.0版本更新",
@@ -1273,6 +1281,9 @@
     },
     {
       "word": "#聚焦中国网络文明大会#"
+    },
+    {
+      "word": "#让改革发展成果惠及更多群众#"
     }
   ]
 }

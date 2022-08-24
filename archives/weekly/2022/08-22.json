@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661319942415,
+  "endTime": 1661320506164,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 5079390,
-      "num": 1458932,
+      "num": 1492294,
       "word": "网传迪丽热巴王一博主演难哄",
       "onboard_time": 1661318375,
       "rank": 3,
@@ -323,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1818385,
+      "num": 1818385,
+      "word": "拜登下令美军空袭叙利亚",
+      "onboard_time": 1661318134,
+      "rank": 4,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1812763,
       "num": 1812763,
       "word": "杨洋微微一笑很倾城播出六周年",
@@ -513,14 +521,6 @@
       "onboard_time": 1661262453,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1430459,
-      "num": 1430459,
-      "word": "拜登下令美军空袭叙利亚",
-      "onboard_time": 1661318134,
-      "rank": 4,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1392254,
@@ -979,6 +979,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 918987,
+      "num": 918987,
+      "word": "钟离",
+      "onboard_time": 1661317238,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 908911,
       "num": 908911,
       "word": "贵州赤水山火",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1661218769,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883569,
-      "num": 883569,
-      "word": "钟离",
-      "onboard_time": 1661317238,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 870375,
@@ -1651,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 592704,
+      "num": 592704,
+      "word": "意大利男子同时感染猴痘新冠艾滋",
+      "onboard_time": 1661317775,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585383,
       "num": 585383,
       "word": "没有一个年轻人能买到土豆",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1661309611,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 552583,
-      "num": 552583,
-      "word": "意大利男子同时感染猴痘新冠艾滋",
-      "onboard_time": 1661317775,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 550775,
@@ -2403,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439630,
+      "num": 439630,
+      "word": "调查显示准备换iPhone14的用户比往年少",
+      "onboard_time": 1661315076,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 438190,
       "num": 438190,
       "word": "mysta",
@@ -2475,6 +2483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426025,
+      "num": 426025,
+      "word": "大爷用一根唢呐养活四代人",
+      "onboard_time": 1661317238,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425357,
       "num": 425357,
       "word": "脱口秀大会5选手快乐官宣",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1661136329,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 421258,
-      "num": 421258,
-      "word": "大爷用一根唢呐养活四代人",
-      "onboard_time": 1661317238,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419852,
@@ -2617,14 +2625,6 @@
       "onboard_time": 1661123540,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400568,
-      "num": 400568,
-      "word": "调查显示准备换iPhone14的用户比往年少",
-      "onboard_time": 1661315076,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 399627,
@@ -3267,6 +3267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 330549,
+      "num": 330549,
+      "word": "许凯密逃度假风衬衫造型",
+      "onboard_time": 1661319274,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330129,
       "num": 330129,
       "word": "迪士尼回应游客录拍创极速光轮",
@@ -3299,20 +3307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327026,
+      "num": 327026,
+      "word": "研究称生日相同脑细胞更易协作",
+      "onboard_time": 1661315556,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 327011,
       "num": 327011,
       "word": "重庆已组织1500余人扑救巴南山火",
       "onboard_time": 1661127989,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326952,
-      "num": 326952,
-      "word": "研究称生日相同脑细胞更易协作",
-      "onboard_time": 1661315556,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 326711,
@@ -3377,14 +3385,6 @@
       "onboard_time": 1661228915,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316723,
-      "num": 316723,
-      "word": "许凯密逃度假风衬衫造型",
-      "onboard_time": 1661319274,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 316154,
@@ -4307,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244523,
+      "num": 244523,
+      "word": "未开封原版初代iPhone拍出约24万元",
+      "onboard_time": 1661316697,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 243374,
       "num": 243374,
       "word": "四川一男子乱丢烟头引发火灾",
@@ -4609,14 +4617,6 @@
       "onboard_time": 1661255851,
       "rank": 29,
       "category": "自然"
-    },
-    {
-      "raw_hot": 223575,
-      "num": 223575,
-      "word": "未开封原版初代iPhone拍出约24万元",
-      "onboard_time": 1661316697,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 222241,
@@ -5051,6 +5051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "原神须弥",
+      "onboard_time": 1661319274,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192747,
       "num": 192747,
       "word": "第一次见会铺床的兔子",
@@ -5449,14 +5457,6 @@
       "onboard_time": 1661264733,
       "rank": 43,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 164152,
-      "num": 164152,
-      "word": "原神须弥",
-      "onboard_time": 1661319274,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 162816,
@@ -5963,6 +5963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107912,
+      "num": 107912,
+      "word": "包机上同济是种什么体验",
+      "onboard_time": 1661320232,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
@@ -6001,6 +6009,14 @@
       "onboard_time": 1661080529,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64672,
+      "num": 1505872,
+      "word": "机械臂第一视角下的地球",
+      "onboard_time": 1661319754,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 64462,
@@ -6089,14 +6105,6 @@
       "onboard_time": 1661195114,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22675,
-      "num": 1482350,
-      "word": "机械臂第一视角下的地球",
-      "onboard_time": 1661319754,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 17625,
@@ -6189,6 +6197,9 @@
     },
     {
       "word": "#聚焦中国网络文明大会#"
+    },
+    {
+      "word": "#让改革发展成果惠及更多群众#"
     }
   ]
 }
