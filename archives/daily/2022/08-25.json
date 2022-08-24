@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661379744276,
+  "endTime": 1661380736513,
   "band_list": [
     {
       "raw_hot": 1763191,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 388776,
+      "num": 388776,
+      "word": "上海警方破获7亿养老金诈骗案",
+      "onboard_time": 1661375413,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364882,
       "num": 364882,
       "word": "济南集中供冷至9月15日",
@@ -145,14 +153,6 @@
       "onboard_time": 1661337090,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292499,
-      "num": 292499,
-      "word": "上海警方破获7亿养老金诈骗案",
-      "onboard_time": 1661375413,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289442,
@@ -209,6 +209,14 @@
       "onboard_time": 1661339433,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 219319,
+      "num": 219319,
+      "word": "官方回应违反防疫规定参加葬礼被罚",
+      "onboard_time": 1661377391,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212310,
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109810,
-      "num": 109810,
-      "word": "官方回应违反防疫规定参加葬礼被罚",
-      "onboard_time": 1661377391,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107481,
       "num": 107481,
       "word": "汉堡狗狗太可爱了",
@@ -451,16 +451,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70018,
-      "num": 70018,
+      "raw_hot": 85513,
+      "num": 85513,
       "word": "因井水起纷争老人被邻居打骨折",
       "onboard_time": 1661373249,
       "rank": 49,
       "category": "社会负面"
     },
     {
-      "raw_hot": 67566,
-      "num": 67566,
+      "raw_hot": 83646,
+      "num": 83646,
       "word": "何悯鸿的妈妈是蔡根花",
       "onboard_time": 1661365455,
       "rank": 42,
@@ -491,20 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16576,
-      "num": 16576,
-      "word": "WB零封ksg",
-      "onboard_time": 1661370852,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 14923,
-      "num": 14923,
+      "raw_hot": 39032,
+      "num": 39032,
       "word": "洛阳汝阳县新增1例确诊2例无症状",
       "onboard_time": 1661378413,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17304,
+      "num": 17304,
+      "word": "WB零封ksg",
+      "onboard_time": 1661370852,
+      "rank": 48,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

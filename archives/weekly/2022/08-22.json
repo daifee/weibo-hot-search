@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661379744276,
+  "endTime": 1661380736513,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -3419,6 +3419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 388776,
+      "num": 388776,
+      "word": "上海警方破获7亿养老金诈骗案",
+      "onboard_time": 1661375413,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387817,
       "num": 387817,
       "word": "妈妈安排的相亲对象能有多离谱",
@@ -4497,14 +4505,6 @@
       "onboard_time": 1661345136,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292499,
-      "num": 292499,
-      "word": "上海警方破获7亿养老金诈骗案",
-      "onboard_time": 1661375413,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292294,
@@ -5841,6 +5841,14 @@
       "onboard_time": 1661098109,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219319,
+      "num": 219319,
+      "word": "官方回应违反防疫规定参加葬礼被罚",
+      "onboard_time": 1661377391,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219052,
@@ -7387,14 +7395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109810,
-      "num": 109810,
-      "word": "官方回应违反防疫规定参加葬礼被罚",
-      "onboard_time": 1661377391,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
@@ -7427,28 +7427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79322,
-      "num": 79322,
-      "word": "浪姐3团综星星的约定大理录制路透",
-      "onboard_time": 1661080529,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70018,
-      "num": 70018,
+      "raw_hot": 85513,
+      "num": 85513,
       "word": "因井水起纷争老人被邻居打骨折",
       "onboard_time": 1661373249,
       "rank": 49,
       "category": "社会负面"
     },
     {
-      "raw_hot": 67566,
-      "num": 67566,
+      "raw_hot": 83646,
+      "num": 83646,
       "word": "何悯鸿的妈妈是蔡根花",
       "onboard_time": 1661365455,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79322,
+      "num": 79322,
+      "word": "浪姐3团综星星的约定大理录制路透",
+      "onboard_time": 1661080529,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 64930,
@@ -7523,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39032,
+      "num": 39032,
+      "word": "洛阳汝阳县新增1例确诊2例无症状",
+      "onboard_time": 1661378413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33675,
       "num": 2273939,
       "word": "中国航天捷报频传",
@@ -7571,20 +7579,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 16576,
-      "num": 16576,
+      "raw_hot": 17304,
+      "num": 17304,
       "word": "WB零封ksg",
       "onboard_time": 1661370852,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14923,
-      "num": 14923,
-      "word": "洛阳汝阳县新增1例确诊2例无症状",
-      "onboard_time": 1661378413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13670,
