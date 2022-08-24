@@ -1,0 +1,410 @@
+{
+  "runTime": 1661367105101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327753,
+        "num": 327753,
+        "word": "豆瓣评分在7分以上的古偶剧",
+        "onboard_time": 1661357907,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260719,
+        "num": 260719,
+        "word": "微信支持一次发99张图片",
+        "onboard_time": 1661336970,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 37454,
+        "num": 191510,
+        "word": "英国乐手科普台湾是中国一部分",
+        "onboard_time": 1661342855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190595,
+        "num": 190595,
+        "word": "14岁以下儿童不建议检查幽门螺杆菌",
+        "onboard_time": 1661359105,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173132,
+        "num": 173132,
+        "word": "新娘穿自己设计全粉婚纱结婚引热议",
+        "onboard_time": 1661352153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137945,
+        "num": 137945,
+        "word": "头像决定聊天欲望是真的吗",
+        "onboard_time": 1661350412,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132028,
+        "num": 132028,
+        "word": "缙云山",
+        "onboard_time": 1661353772,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 109667,
+        "word": "自尊心不允许我错这么多",
+        "onboard_time": 1661358985,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109206,
+        "num": 109206,
+        "word": "为什么身体很累却还是失眠",
+        "onboard_time": 1661351373,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97069,
+        "num": 97069,
+        "word": "音银涉嫌分数造假被立案",
+        "onboard_time": 1661356290,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91801,
+        "num": 91801,
+        "word": "还以为误入了哪个武侠大片",
+        "onboard_time": 1661357489,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84346,
+        "num": 84346,
+        "word": "谢谢四六级站岗小狗",
+        "onboard_time": 1661350594,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83497,
+        "num": 83497,
+        "word": "王嘉尔吻戒指",
+        "onboard_time": 1661361020,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69167,
+        "num": 69167,
+        "word": "嗑过最甜的售后糖",
+        "onboard_time": 1661352395,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68875,
+        "num": 68875,
+        "word": "一曲 惨",
+        "onboard_time": 1661348013,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68049,
+        "num": 68049,
+        "word": "专家称取消公摊或影响购房者权利",
+        "onboard_time": 1661352637,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 66529,
+        "num": 66529,
+        "word": "济南集中供冷至9月15日",
+        "onboard_time": 1661356772,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61049,
+        "num": 61049,
+        "word": "传苹果已开始研发iPhone15",
+        "onboard_time": 1661339433,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 57822,
+        "num": 57822,
+        "word": "藿香正气冰中式走红网络",
+        "onboard_time": 1661349335,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 54321,
+        "num": 54321,
+        "word": "赵泳鑫直播",
+        "onboard_time": 1661364615,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55616,
+        "num": 54103,
+        "word": "张庭夫妇相关传销案听证会排期中",
+        "onboard_time": 1661351436,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 53478,
+        "num": 53478,
+        "word": "感受到男人娶老婆的快乐了",
+        "onboard_time": 1661342734,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53439,
+        "num": 53439,
+        "word": "江浙沪人民操心30度该穿什么",
+        "onboard_time": 1661346454,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 49452,
+        "num": 49452,
+        "word": "螺蛳粉何以持续火爆",
+        "onboard_time": 1661344713,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48632,
+        "num": 48632,
+        "word": "重庆山火扑救现场",
+        "onboard_time": 1661341717,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46916,
+        "num": 46916,
+        "word": "民国大侦探",
+        "onboard_time": 1661348376,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45672,
+        "num": 45672,
+        "word": "重庆疫情防控",
+        "onboard_time": 1661345432,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42402,
+        "num": 42402,
+        "word": "唐周在悄悄告别所有人",
+        "onboard_time": 1661350412,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41387,
+        "num": 41387,
+        "word": "差点毁了妈妈的一世英名",
+        "onboard_time": 1661346812,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41383,
+        "num": 41383,
+        "word": "上海宜家储物柜区禁拍网红照",
+        "onboard_time": 1661335951,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37169,
+        "num": 37169,
+        "word": "何悯鸿早C晚C",
+        "onboard_time": 1661354255,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37053,
+        "num": 37053,
+        "word": "玄夜终于上线了",
+        "onboard_time": 1661337090,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36187,
+        "num": 36187,
+        "word": "重庆小伙两天两夜送物资累到浇水",
+        "onboard_time": 1661339791,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36094,
+        "num": 36094,
+        "word": "苏醒说0713团综能红是因为够糊",
+        "onboard_time": 1661346573,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35754,
+        "num": 35754,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 34354,
+        "num": 34354,
+        "word": "四川一镇突发大火多个居民楼被点燃",
+        "onboard_time": 1661343753,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32445,
+        "num": 32445,
+        "word": "谢了四六级再谢四六鸡",
+        "onboard_time": 1661345314,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31949,
+        "num": 31949,
+        "word": "何悯鸿的妈妈是蔡根花",
+        "onboard_time": 1661365455,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31402,
+        "num": 31402,
+        "word": "四川气象台发暴雨蓝色预警",
+        "onboard_time": 1661335171,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30658,
+        "num": 30658,
+        "word": "胆小鬼",
+        "onboard_time": 1661350955,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30575,
+        "num": 30575,
+        "word": "北京WB",
+        "onboard_time": 1661348376,
+        "rank": 40,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 28542,
+        "num": 28542,
+        "word": "仿佛看见了我的外语水平",
+        "onboard_time": 1661353236,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27934,
+        "num": 27934,
+        "word": "修长小腿就靠它了",
+        "onboard_time": 1661354611,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25176,
+        "num": 25176,
+        "word": "贵溪疫情防控",
+        "onboard_time": 1661353772,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25030,
+        "num": 25030,
+        "word": "天津疫情防控",
+        "onboard_time": 1661350234,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24150,
+        "num": 24150,
+        "word": "葛秋谷说他和白海川不算叛逆",
+        "onboard_time": 1661363954,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23320,
+        "num": 23320,
+        "word": "秦泽文",
+        "onboard_time": 1661352819,
+        "rank": 46,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 21365,
+        "num": 21365,
+        "word": "初会",
+        "onboard_time": 1661352334,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20832,
+        "num": 20832,
+        "word": "为什么一定要珍惜遇见",
+        "onboard_time": 1661351254,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17619,
+        "num": 17619,
+        "word": "鲸鱼的见证下我求婚了",
+        "onboard_time": 1661343035,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
