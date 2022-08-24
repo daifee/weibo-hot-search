@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661350846430,
+  "endTime": 1661351833963,
   "band_list": [
     {
       "raw_hot": 8982919,
@@ -59,6 +59,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 2828582,
+      "num": 2828582,
+      "word": "一曲 惨",
+      "onboard_time": 1661348013,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2619773,
       "num": 2619773,
       "word": "张庭林瑞阳转战马来西亚",
@@ -97,14 +105,6 @@
       "onboard_time": 1661313994,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2169892,
-      "num": 2169892,
-      "word": "一曲 惨",
-      "onboard_time": 1661348013,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1869913,
@@ -203,6 +203,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1251254,
+      "num": 1251254,
+      "word": "江浙沪人民操心30度该穿什么",
+      "onboard_time": 1661346454,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1237181,
       "num": 1237181,
       "word": "原来不恋爱的人是最幸福的",
@@ -257,14 +265,6 @@
       "onboard_time": 1661266536,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106732,
-      "num": 1106732,
-      "word": "江浙沪人民操心30度该穿什么",
-      "onboard_time": 1661346454,
-      "rank": 16,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1106164,
@@ -667,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 598067,
+      "num": 598067,
+      "word": "唐周在悄悄告别所有人",
+      "onboard_time": 1661350412,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585342,
       "num": 585342,
       "word": "成都下雨刷屏朋友圈",
@@ -867,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474650,
+      "num": 474650,
+      "word": "差点毁了妈妈的一世英名",
+      "onboard_time": 1661346812,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 474639,
       "num": 474639,
       "word": "四川高校学生退机票被收手续费",
@@ -881,6 +897,14 @@
       "onboard_time": 1661334390,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 467040,
+      "num": 467040,
+      "word": "藿香正气冰中式走红网络",
+      "onboard_time": 1661349335,
+      "rank": 25,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 465311,
@@ -993,14 +1017,6 @@
       "onboard_time": 1661310571,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 428286,
-      "num": 428286,
-      "word": "差点毁了妈妈的一世英名",
-      "onboard_time": 1661346812,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 426531,
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351548,
+      "num": 351548,
+      "word": "谢谢四六级站岗小狗",
+      "onboard_time": 1661350594,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 351182,
       "num": 351182,
       "word": "世界小姐",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1661340213,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346640,
-      "num": 346640,
-      "word": "唐周在悄悄告别所有人",
-      "onboard_time": 1661350412,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 346578,
@@ -1507,14 +1523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307141,
-      "num": 307141,
-      "word": "藿香正气冰中式走红网络",
-      "onboard_time": 1661349335,
-      "rank": 25,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 304914,
       "num": 304914,
       "word": "男子抡板凳殴打前妻被行拘",
@@ -1619,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276686,
+      "num": 276686,
+      "word": "已经做好开学的准备了",
+      "onboard_time": 1661351254,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 274932,
       "num": 254262,
       "word": "张云龙一口气炫完一罐碳酸饮料",
@@ -1635,11 +1651,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273361,
+      "num": 273361,
+      "word": "天津疫情防控",
+      "onboard_time": 1661350234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271348,
       "num": 247604,
       "word": "民国大侦探全员否认X先生身份",
       "onboard_time": 1661311116,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270747,
+      "num": 270747,
+      "word": "紫麟看到唐周就想吐",
+      "onboard_time": 1661351617,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1657,6 +1689,14 @@
       "onboard_time": 1661329173,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269631,
+      "num": 269631,
+      "word": "头像决定聊天欲望是真的吗",
+      "onboard_time": 1661350412,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 269418,
@@ -1681,6 +1721,14 @@
       "onboard_time": 1661349037,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267889,
+      "num": 267889,
+      "word": "胆小鬼",
+      "onboard_time": 1661350955,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 267101,
@@ -1915,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226060,
+      "num": 226060,
+      "word": "为什么身体很累却还是失眠",
+      "onboard_time": 1661351373,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225393,
       "num": 225393,
       "word": "苏醒老歌手的日常MV",
@@ -1931,6 +1987,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 222718,
+      "num": 222718,
+      "word": "张庭夫妇相关传销案听证会排期中",
+      "onboard_time": 1661351436,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 222241,
       "num": 222241,
       "word": "南方朋友们期待的降温就要来了",
@@ -1945,14 +2009,6 @@
       "onboard_time": 1661322931,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218428,
-      "num": 218428,
-      "word": "谢谢四六级站岗小狗",
-      "onboard_time": 1661350594,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 212992,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1661328513,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199989,
+      "num": 199989,
+      "word": "为什么一定要珍惜遇见",
+      "onboard_time": 1661351254,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 199309,
@@ -2099,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183798,
+      "num": 183798,
+      "word": "ksg纪录片",
+      "onboard_time": 1661351074,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183533,
       "num": 1950284,
       "word": "机械臂第一视角下的地球",
@@ -2121,6 +2193,14 @@
       "onboard_time": 1661321252,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180153,
+      "num": 180153,
+      "word": "解放军奋战山火休息时和衣而卧",
+      "onboard_time": 1661351194,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 180065,
@@ -2185,14 +2265,6 @@
       "onboard_time": 1661350535,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 171665,
-      "num": 171665,
-      "word": "天津疫情防控",
-      "onboard_time": 1661350234,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171155,
