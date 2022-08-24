@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661326586521,
+  "endTime": 1661329698286,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -227,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2536787,
+      "num": 2536787,
+      "word": "张庭林瑞阳转战马来西亚",
+      "onboard_time": 1661325632,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2509859,
       "num": 2509859,
       "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
@@ -443,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1574758,
+      "num": 505307,
+      "word": "一诺",
+      "onboard_time": 1661328031,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1571071,
       "num": 1571071,
       "word": "章子怡婉拒教父导演新片",
@@ -616,6 +632,14 @@
       "word": "男生把洗面奶当牙膏用2个月",
       "onboard_time": 1661172632,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1285287,
+      "num": 493168,
+      "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+      "onboard_time": 1661326472,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -961,6 +985,14 @@
       "onboard_time": 1661323052,
       "rank": 5,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 973662,
+      "num": 973662,
+      "word": "常州全面取消二手房限售",
+      "onboard_time": 1661324251,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 970072,
@@ -1347,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747179,
+      "num": 747179,
+      "word": "永远相信EDG",
+      "onboard_time": 1661327551,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 741270,
       "num": 741270,
       "word": "久哲",
@@ -1547,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 662381,
-      "num": 491259,
-      "word": "常州全面取消二手房限售",
-      "onboard_time": 1661324251,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 658861,
       "num": 567613,
       "word": "俞灏明王栎鑫再唱红日",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1661137590,
       "rank": 13,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 627394,
+      "num": 627394,
+      "word": "暧昧期怎么确认关系",
+      "onboard_time": 1661325873,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 625399,
@@ -2387,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467640,
+      "num": 467640,
+      "word": "百岁老人戒指卡手不愿摘",
+      "onboard_time": 1661325511,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465808,
       "num": 465808,
       "word": "上海打雷",
@@ -2523,14 +2571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433384,
-      "num": 433384,
-      "word": "张庭林瑞阳转战马来西亚",
-      "onboard_time": 1661325632,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 429881,
       "num": 429881,
       "word": "倪光南称中国芯片走第三条路",
@@ -2635,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418672,
+      "num": 418672,
+      "word": "男童遭辗轧众人抬车30秒救出",
+      "onboard_time": 1661327131,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417134,
       "num": 417134,
       "word": "古偶女二人设天花板",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1661321551,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402584,
+      "num": 402584,
+      "word": "管晨辰浙江大学报到",
+      "onboard_time": 1661324071,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 402327,
@@ -3027,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365610,
+      "num": 365610,
+      "word": "空军发言人展示的课本封面是它",
+      "onboard_time": 1661324549,
+      "rank": 44,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 365589,
       "num": 365589,
       "word": "油价",
@@ -3049,6 +3113,22 @@
       "onboard_time": 1661315378,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363800,
+      "num": 363800,
+      "word": "中学否认湖南师大研究生将入住",
+      "onboard_time": 1661328631,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 360616,
+      "num": 360616,
+      "word": "众星给黄明昊新专辑打call",
+      "onboard_time": 1661325151,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 360417,
@@ -3395,20 +3475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329710,
-      "num": 329710,
-      "word": "众星给黄明昊新专辑打call",
-      "onboard_time": 1661325151,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 329701,
       "num": 329701,
       "word": "未定事件簿",
       "onboard_time": 1661144253,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328854,
+      "num": 328854,
+      "word": "颜淡唐周大婚彩排",
+      "onboard_time": 1661326409,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 327443,
@@ -3739,6 +3819,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 289485,
+      "num": 289485,
+      "word": "还好没在贵州考科目二",
+      "onboard_time": 1661324251,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289203,
       "num": 247196,
       "word": "毛雪汪鹿晗唱花海",
@@ -3924,7 +4012,7 @@
     },
     {
       "raw_hot": 274932,
-      "num": 219722,
+      "num": 254262,
       "word": "张云龙一口气炫完一罐碳酸饮料",
       "onboard_time": 1661325028,
       "rank": 31,
@@ -4009,14 +4097,6 @@
       "onboard_time": 1661316159,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270383,
-      "num": 270383,
-      "word": "管晨辰浙江大学报到",
-      "onboard_time": 1661324071,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 269888,
@@ -4251,14 +4331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258230,
-      "num": 258230,
-      "word": "还好没在贵州考科目二",
-      "onboard_time": 1661324251,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 256843,
       "num": 256843,
       "word": "奉节山火",
@@ -4488,6 +4560,14 @@
       "word": "新能源汽车动力电池迎退役潮",
       "onboard_time": 1661130990,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240890,
+      "num": 240890,
+      "word": "一起守护这座城",
+      "onboard_time": 1661327969,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5019,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205884,
+      "num": 205884,
+      "word": "当父母知道要开学了",
+      "onboard_time": 1661329173,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205881,
       "num": 205881,
       "word": "沉香重华",
@@ -5049,14 +5137,6 @@
       "onboard_time": 1661217869,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204773,
-      "num": 204773,
-      "word": "暧昧期怎么确认关系",
-      "onboard_time": 1661325873,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 204001,
@@ -5107,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201592,
+      "num": 201592,
+      "word": "网传慧聪网发布停工待岗通知",
+      "onboard_time": 1661328031,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 200116,
       "num": 200116,
       "word": "漫威总部空降上海",
@@ -5129,6 +5217,14 @@
       "onboard_time": 1661323590,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 198187,
+      "num": 198187,
+      "word": "97岁长津湖战役英雄走了",
+      "onboard_time": 1661327791,
+      "rank": 38,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 198131,
@@ -5291,14 +5387,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 191352,
-      "num": 174379,
-      "word": "颜淡唐周大婚彩排",
-      "onboard_time": 1661326409,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190856,
       "num": 190856,
       "word": "人类可以完全信任自动驾驶吗",
@@ -5347,14 +5435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188671,
-      "num": 188671,
-      "word": "百岁老人戒指卡手不愿摘",
-      "onboard_time": 1661325511,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "光与夜之恋",
@@ -5369,6 +5449,14 @@
       "onboard_time": 1661246613,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188063,
+      "num": 188063,
+      "word": "电影节红毯上杀疯了的影后们",
+      "onboard_time": 1661328513,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187616,
@@ -5409,14 +5497,6 @@
       "onboard_time": 1661220389,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181032,
-      "num": 181032,
-      "word": "空军发言人展示的课本封面是它",
-      "onboard_time": 1661324549,
-      "rank": 44,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 180947,
@@ -5915,14 +5995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146045,
-      "num": 146045,
-      "word": "男孩吃半斤瓜子不吐壳肛门被堵",
-      "onboard_time": 1661326472,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144994,
       "num": 144994,
       "word": "卡塞米罗告别仪式",
@@ -6009,6 +6081,14 @@
       "onboard_time": 1661235869,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139684,
+      "num": 139684,
+      "word": "研究称面孔相似或具相似DNA",
+      "onboard_time": 1661329049,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 138611,
@@ -6113,6 +6193,14 @@
       "onboard_time": 1661153610,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 125195,
+      "num": 125195,
+      "word": "自驾川藏北线注意什么",
+      "onboard_time": 1661328813,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 121767,
