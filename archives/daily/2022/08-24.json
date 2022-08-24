@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661329698286,
+  "endTime": 1661330653420,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -35,20 +35,20 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 2619773,
+      "num": 2619773,
+      "word": "张庭林瑞阳转战马来西亚",
+      "onboard_time": 1661325632,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2593370,
       "num": 2593370,
       "word": "必胜客",
       "onboard_time": 1661307930,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2536787,
-      "num": 2536787,
-      "word": "张庭林瑞阳转战马来西亚",
-      "onboard_time": 1661325632,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 2509859,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1574758,
-      "num": 505307,
+      "num": 566138,
       "word": "一诺",
       "onboard_time": 1661328031,
       "rank": 10,
@@ -123,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1377922,
+      "num": 562534,
+      "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+      "onboard_time": 1661326472,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1316101,
       "num": 754814,
       "word": "男子离婚因收入低想要回18万彩礼",
       "onboard_time": 1661308888,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1285287,
-      "num": 493168,
-      "word": "男孩吃半斤瓜子不吐壳肛门被堵",
-      "onboard_time": 1661326472,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 793646,
+      "num": 793646,
+      "word": "永远相信EDG",
+      "onboard_time": 1661327551,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 763409,
       "num": 763409,
       "word": "苏州KSG人员处罚公告",
@@ -331,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747179,
-      "num": 747179,
-      "word": "永远相信EDG",
-      "onboard_time": 1661327551,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 701286,
       "num": 701286,
       "word": "福建精子库质量堪忧",
       "onboard_time": 1661249672,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697744,
+      "num": 697744,
+      "word": "暧昧期怎么确认关系",
+      "onboard_time": 1661325873,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 696588,
@@ -393,14 +401,6 @@
       "onboard_time": 1661318913,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 627394,
-      "num": 627394,
-      "word": "暧昧期怎么确认关系",
-      "onboard_time": 1661325873,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 625399,
@@ -459,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575360,
+      "num": 575360,
+      "word": "中学否认湖南师大研究生将入住",
+      "onboard_time": 1661328631,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 573476,
+      "num": 137915,
+      "word": "时代少年团演唱会预约",
+      "onboard_time": 1661330612,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 573379,
       "num": 573379,
       "word": "乐山大佛真身一直都看得到",
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518279,
+      "num": 518279,
+      "word": "百岁老人戒指卡手不愿摘",
+      "onboard_time": 1661325511,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504470,
       "num": 504470,
       "word": "华为Mate50或将提振市场信心",
@@ -520,6 +544,14 @@
       "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
       "onboard_time": 1661312736,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495682,
+      "num": 495682,
+      "word": "男童遭辗轧众人抬车30秒救出",
+      "onboard_time": 1661327131,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -544,14 +576,6 @@
       "word": "四川高校学生退机票被收手续费",
       "onboard_time": 1661322871,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467640,
-      "num": 467640,
-      "word": "百岁老人戒指卡手不愿摘",
-      "onboard_time": 1661325511,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -657,14 +681,6 @@
       "onboard_time": 1661321310,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 418672,
-      "num": 418672,
-      "word": "男童遭辗轧众人抬车30秒救出",
-      "onboard_time": 1661327131,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417134,
@@ -785,14 +801,6 @@
       "onboard_time": 1661315378,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363800,
-      "num": 363800,
-      "word": "中学否认湖南师大研究生将入住",
-      "onboard_time": 1661328631,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 360616,
@@ -1019,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268005,
+      "num": 268005,
+      "word": "大理寺少卿游官宣阵容",
+      "onboard_time": 1661330433,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267101,
       "num": 267101,
       "word": "未开封原版初代iPhone拍出约24万元",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1661260475,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260264,
+      "num": 260264,
+      "word": "当父母知道要开学了",
+      "onboard_time": 1661329173,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 258697,
@@ -1171,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225174,
+      "num": 225174,
+      "word": "网传慧聪网发布停工待岗通知",
+      "onboard_time": 1661328031,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 222241,
       "num": 222241,
       "word": "南方朋友们期待的降温就要来了",
@@ -1203,20 +1235,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 205884,
-      "num": 205884,
-      "word": "当父母知道要开学了",
-      "onboard_time": 1661329173,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 201592,
-      "num": 201592,
-      "word": "网传慧聪网发布停工待岗通知",
-      "onboard_time": 1661328031,
-      "rank": 37,
-      "category": "科技,社会新闻"
+      "raw_hot": 209236,
+      "num": 209236,
+      "word": "43.9度四川高温再次刷新纪录",
+      "onboard_time": 1661330312,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200896,
@@ -1483,12 +1507,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148485,
+      "num": 148485,
+      "word": "美军不到1个月至少偷7次叙石油",
+      "onboard_time": 1661329953,
+      "rank": 43,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "研究称面孔相似或具相似DNA",
       "onboard_time": 1661329049,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 134792,
+      "num": 134792,
+      "word": "仿佛看到了小说里的大结局",
+      "onboard_time": 1661330074,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 125195,
