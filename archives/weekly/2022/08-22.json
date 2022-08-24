@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661322582782,
+  "endTime": 1661323662771,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -393,6 +393,14 @@
       "onboard_time": 1661235270,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1654937,
+      "num": 1654937,
+      "word": "男子染幽门螺杆菌致全家老小阳性",
+      "onboard_time": 1661320950,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1651587,
@@ -795,6 +803,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1084752,
+      "num": 1084752,
+      "word": "解放军无人机拍到金门岗哨照",
+      "onboard_time": 1661321730,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1083677,
       "num": 1083677,
       "word": "久酷",
@@ -841,14 +857,6 @@
       "onboard_time": 1661301212,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1044190,
-      "num": 1044190,
-      "word": "男子染幽门螺杆菌致全家老小阳性",
-      "onboard_time": 1661320950,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1041008,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1661218769,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881207,
+      "num": 881207,
+      "word": "王鹤棣告白铅球救火 张凌赫水牛戒烟救人",
+      "onboard_time": 1661323052,
+      "rank": 5,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 870375,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1661241510,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733993,
+      "num": 711609,
+      "word": "男子5万元网上买到高仿路虎",
+      "onboard_time": 1661321192,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727177,
@@ -2435,20 +2459,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 438011,
-      "num": 438011,
-      "word": "男子5万元网上买到高仿路虎",
-      "onboard_time": 1661321192,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435860,
       "num": 435860,
       "word": "王鹤棣东方青苍受刑花絮",
       "onboard_time": 1661310512,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435466,
+      "num": 435466,
+      "word": "女子用脚趾解开自家指纹锁",
+      "onboard_time": 1661322213,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 435177,
@@ -2585,14 +2609,6 @@
       "onboard_time": 1661133506,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407427,
-      "num": 407427,
-      "word": "解放军无人机拍到金门岗哨照",
-      "onboard_time": 1661321730,
-      "rank": 16,
-      "category": "军事"
     },
     {
       "raw_hot": 407014,
@@ -2929,6 +2945,14 @@
       "onboard_time": 1661174371,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 370132,
+      "num": 348787,
+      "word": "秦俊杰两部新剧同时播出",
+      "onboard_time": 1661321310,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 369623,
@@ -3297,14 +3321,6 @@
       "onboard_time": 1661236830,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333495,
-      "num": 333495,
-      "word": "秦俊杰两部新剧同时播出",
-      "onboard_time": 1661321310,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 332220,
@@ -4451,6 +4467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236647,
+      "num": 236647,
+      "word": "N1报名",
+      "onboard_time": 1661322931,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 235826,
       "num": 235826,
       "word": "混入一群柯基的小法斗",
@@ -4729,6 +4753,14 @@
       "onboard_time": 1661098109,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218706,
+      "num": 218706,
+      "word": "被遗忘的时光今晚收官",
+      "onboard_time": 1661322931,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 218271,
@@ -5235,14 +5267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182901,
-      "num": 182901,
-      "word": "女子用脚趾解开自家指纹锁",
-      "onboard_time": 1661322213,
-      "rank": 37,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 182200,
       "num": 182200,
       "word": "官方辟谣重庆部分区域用电全停",
@@ -5395,6 +5419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174351,
+      "num": 1505872,
+      "word": "机械臂第一视角下的地球",
+      "onboard_time": 1661319754,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "一诺公孙离三杀",
@@ -5505,14 +5537,6 @@
       "onboard_time": 1661223447,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 167899,
-      "num": 1505872,
-      "word": "机械臂第一视角下的地球",
-      "onboard_time": 1661319754,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 167807,
@@ -5632,6 +5656,14 @@
       "word": "尖齿卫矛",
       "onboard_time": 1661223447,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158185,
+      "num": 158185,
+      "word": "四川高校学生退机票被收手续费",
+      "onboard_time": 1661322871,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -5785,6 +5817,14 @@
       "onboard_time": 1661253211,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 144025,
+      "num": 144025,
+      "word": "倪光南称中国芯片走第三条路",
+      "onboard_time": 1661323412,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 143770,
@@ -5945,6 +5985,14 @@
       "onboard_time": 1661153610,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 125569,
+      "num": 125569,
+      "word": "熊猫宝宝扒拉自己",
+      "onboard_time": 1661323590,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 121767,
