@@ -1,7 +1,15 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661346357266,
+  "endTime": 1661348331163,
   "band_list": [
+    {
+      "raw_hot": 6845374,
+      "num": 578732,
+      "word": "赵露思 西太后",
+      "onboard_time": 1661348194,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5079390,
       "num": 1929149,
@@ -25,6 +33,14 @@
       "onboard_time": 1661336970,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4007816,
+      "num": 119129,
+      "word": "宝格丽 录播",
+      "onboard_time": 1661346393,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 3200406,
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1188527,
+      "num": 1188527,
+      "word": "感受到男人娶老婆的快乐了",
+      "onboard_time": 1661342734,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1173480,
       "num": 1173480,
       "word": "43.9度四川高温再次刷新纪录",
@@ -347,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 908364,
+      "num": 908364,
+      "word": "一曲 惨",
+      "onboard_time": 1661348013,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 906862,
       "num": 906862,
       "word": "成都下雨",
@@ -385,6 +417,14 @@
       "onboard_time": 1661331272,
       "rank": 15,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 848613,
+      "num": 848613,
+      "word": "谢了四六级再谢四六鸡",
+      "onboard_time": 1661345314,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 840716,
@@ -555,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 642097,
-      "num": 642097,
-      "word": "感受到男人娶老婆的快乐了",
-      "onboard_time": 1661342734,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 640005,
       "num": 359444,
       "word": "郑秀妍一分钟学会一支舞",
@@ -617,6 +649,14 @@
       "onboard_time": 1661304269,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585288,
+      "num": 585288,
+      "word": "苏醒说0713团综能红是因为够糊",
+      "onboard_time": 1661346573,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 580540,
@@ -715,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526713,
+      "num": 526713,
+      "word": "KSG对战WB",
+      "onboard_time": 1661341717,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 521945,
       "num": 521945,
       "word": "沉香如屑灯塔2022网剧正片播放第一",
@@ -803,6 +851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 464999,
+      "num": 464999,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661345432,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464424,
       "num": 464424,
       "word": "四川一男子离家半月鱼池全晒干",
@@ -857,14 +913,6 @@
       "onboard_time": 1661266357,
       "rank": 20,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 434949,
-      "num": 434949,
-      "word": "重庆疫情防控",
-      "onboard_time": 1661345432,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434114,
@@ -931,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424043,
+      "num": 424043,
+      "word": "江浙沪人民操心30度该穿什么",
+      "onboard_time": 1661346454,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 421428,
       "num": 421428,
       "word": "青岛疫情防控",
@@ -961,6 +1017,14 @@
       "onboard_time": 1661296160,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416669,
+      "num": 416669,
+      "word": "大妈光脚踩高铁小桌板高声打电话",
+      "onboard_time": 1661344292,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404469,
@@ -1179,12 +1243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340796,
-      "num": 340796,
-      "word": "谢了四六级再谢四六鸡",
-      "onboard_time": 1661345314,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 338897,
+      "num": 338897,
+      "word": "英国乐手科普台湾是中国一部分",
+      "onboard_time": 1661342855,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337910,
@@ -1208,6 +1272,14 @@
       "word": "周翊然三部剧凑不齐一个好爹",
       "onboard_time": 1661342794,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336990,
+      "num": 336990,
+      "word": "叶蓁蓁清醒发言",
+      "onboard_time": 1661346031,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1275,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325581,
-      "num": 325581,
-      "word": "KSG对战WB",
-      "onboard_time": 1661341717,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 322494,
       "num": 322494,
       "word": "王栎鑫新歌",
@@ -1331,20 +1395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314548,
-      "num": 314548,
-      "word": "英国乐手科普台湾是中国一部分",
-      "onboard_time": 1661342855,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312093,
       "num": 252988,
       "word": "意气风发的少年为爱低下了头",
       "onboard_time": 1661337031,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308450,
+      "num": 308450,
+      "word": "螺蛳粉何以持续火爆",
+      "onboard_time": 1661344713,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 308110,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1661310272,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297675,
+      "num": 297675,
+      "word": "怎么办脱口秀专场",
+      "onboard_time": 1661348013,
+      "rank": 25,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 292598,
@@ -1465,14 +1537,6 @@
       "onboard_time": 1661325028,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274626,
-      "num": 274626,
-      "word": "叶蓁蓁清醒发言",
-      "onboard_time": 1661346031,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 274186,
@@ -1579,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258315,
+      "num": 258315,
+      "word": "差点毁了妈妈的一世英名",
+      "onboard_time": 1661346812,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256682,
       "num": 256682,
       "word": "深圳台风",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1661308291,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251130,
+      "num": 251130,
+      "word": "严浩翔微光正片",
+      "onboard_time": 1661347655,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 250900,
@@ -1625,6 +1705,14 @@
       "onboard_time": 1661269949,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243573,
+      "num": 243573,
+      "word": "深圳科兴科学园疫情防控",
+      "onboard_time": 1661342617,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243374,
@@ -1667,14 +1755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 235888,
-      "num": 235888,
-      "word": "大妈光脚踩高铁小桌板高声打电话",
-      "onboard_time": 1661344292,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235384,
       "num": 235384,
       "word": "闪亮的日子豆瓣开分9.1",
@@ -1683,11 +1763,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233759,
-      "num": 233759,
-      "word": "深圳科兴科学园疫情防控",
-      "onboard_time": 1661342617,
-      "rank": 45,
+      "raw_hot": 233298,
+      "num": 233298,
+      "word": "马鞍",
+      "onboard_time": 1661346754,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1753,14 +1833,6 @@
       "onboard_time": 1661308709,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221530,
-      "num": 221530,
-      "word": "螺蛳粉何以持续火爆",
-      "onboard_time": 1661344713,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 218706,
@@ -1977,6 +2049,14 @@
       "onboard_time": 1661313455,
       "rank": 47,
       "category": "幽默,动漫"
+    },
+    {
+      "raw_hot": 173922,
+      "num": 132710,
+      "word": "九龙坡疫情防控",
+      "onboard_time": 1661348313,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171155,
