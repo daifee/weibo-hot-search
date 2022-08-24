@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661348331163,
+  "endTime": 1661349110131,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6845374,
-      "num": 578732,
+      "raw_hot": 8982919,
+      "num": 655680,
       "word": "赵露思 西太后",
       "onboard_time": 1661348194,
       "rank": 10,
@@ -321,6 +321,14 @@
       "onboard_time": 1661157514,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2169892,
+      "num": 2169892,
+      "word": "一曲 惨",
+      "onboard_time": 1661348013,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 2131102,
@@ -923,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1079833,
+      "num": 1079833,
+      "word": "谢了四六级再谢四六鸡",
+      "onboard_time": 1661345314,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1078231,
       "num": 1078231,
       "word": "作家称删除自己被盗版链接需30年",
@@ -1179,14 +1195,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 908364,
-      "num": 908364,
-      "word": "一曲 惨",
-      "onboard_time": 1661348013,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 906862,
       "num": 906862,
       "word": "成都下雨",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1661331272,
       "rank": 15,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 848613,
-      "num": 848613,
-      "word": "谢了四六级再谢四六鸡",
-      "onboard_time": 1661345314,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 845524,
@@ -1771,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658330,
+      "num": 658330,
+      "word": "江浙沪人民操心30度该穿什么",
+      "onboard_time": 1661346454,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 657994,
       "num": 657994,
       "word": "中学否认湖南师大研究生将入住",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1661268813,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 649790,
+      "num": 649790,
+      "word": "苏醒说0713团综能红是因为够糊",
+      "onboard_time": 1661346573,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 643926,
@@ -1993,14 +2009,6 @@
       "onboard_time": 1661304269,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585288,
-      "num": 585288,
-      "word": "苏醒说0713团综能红是因为够糊",
-      "onboard_time": 1661346573,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 581305,
@@ -2771,6 +2779,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 453323,
+      "num": 453323,
+      "word": "大妈光脚踩高铁小桌板高声打电话",
+      "onboard_time": 1661344292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452908,
       "num": 452908,
       "word": "杜德伟李承铉双向打call",
@@ -2947,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 424043,
-      "num": 424043,
-      "word": "江浙沪人民操心30度该穿什么",
-      "onboard_time": 1661346454,
-      "rank": 16,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 422480,
       "num": 422480,
       "word": "棣欣引力",
@@ -3024,14 +3032,6 @@
       "word": "重庆巴南山火当地紧急招募志愿者",
       "onboard_time": 1661099425,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416669,
-      "num": 416669,
-      "word": "大妈光脚踩高铁小桌板高声打电话",
-      "onboard_time": 1661344292,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3267,6 +3267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385090,
+      "num": 385090,
+      "word": "民国大侦探",
+      "onboard_time": 1661262092,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385057,
       "num": 385057,
       "word": "王源说又一次看海",
@@ -3475,6 +3483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 361672,
+      "num": 361672,
+      "word": "KSG遗憾淘汰",
+      "onboard_time": 1661348556,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 360616,
       "num": 360616,
       "word": "众星给黄明昊新专辑打call",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1661253211,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346578,
+      "num": 346578,
+      "word": "丰盛求婚失败了又没完全失败",
+      "onboard_time": 1661348916,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 346545,
@@ -3843,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335713,
+      "num": 335713,
+      "word": "螺蛳粉何以持续火爆",
+      "onboard_time": 1661344713,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 334583,
       "num": 261479,
       "word": "凌不疑忍泪说不悔",
@@ -4035,6 +4067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 318101,
+      "num": 318101,
+      "word": "怎么办脱口秀专场",
+      "onboard_time": 1661348013,
+      "rank": 25,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 317798,
       "num": 317798,
       "word": "AG菲菲发文",
@@ -4083,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314786,
+      "num": 314786,
+      "word": "WB战胜KSG",
+      "onboard_time": 1661348612,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313219,
       "num": 313219,
       "word": "黄明昊密逃4背带裤造型剧照",
@@ -4113,14 +4161,6 @@
       "onboard_time": 1661211206,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 308450,
-      "num": 308450,
-      "word": "螺蛳粉何以持续火爆",
-      "onboard_time": 1661344713,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 308110,
@@ -4235,14 +4275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297675,
-      "num": 297675,
-      "word": "怎么办脱口秀专场",
-      "onboard_time": 1661348013,
-      "rank": 25,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 296704,
       "num": 296704,
       "word": "GK锁定季后赛四强",
@@ -4265,14 +4297,6 @@
       "onboard_time": 1661137710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293366,
-      "num": 244029,
-      "word": "民国大侦探",
-      "onboard_time": 1661262092,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 293096,
@@ -4491,6 +4515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281208,
+      "num": 281208,
+      "word": "差点毁了妈妈的一世英名",
+      "onboard_time": 1661346812,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281055,
       "num": 252232,
       "word": "唐周追妻vs应渊追妻",
@@ -4681,6 +4713,14 @@
       "onboard_time": 1661298264,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268544,
+      "num": 268544,
+      "word": "王勉TT合作舞台超生气听爽了",
+      "onboard_time": 1661349037,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 268518,
@@ -4875,6 +4915,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 259932,
+      "num": 259932,
+      "word": "陈宇火海救吴振峰",
+      "onboard_time": 1661348438,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259755,
       "num": 259755,
       "word": "刘雨昕把踢毽子编进舞蹈",
@@ -4897,14 +4945,6 @@
       "onboard_time": 1661221651,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258315,
-      "num": 258315,
-      "word": "差点毁了妈妈的一世英名",
-      "onboard_time": 1661346812,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 256843,
@@ -5059,12 +5099,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249573,
+      "num": 237004,
+      "word": "二十不惑2",
+      "onboard_time": 1661244511,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248945,
       "num": 248945,
       "word": "人教社发布新教材插图示例",
       "onboard_time": 1661135429,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 248528,
+      "num": 248528,
+      "word": "北京WB",
+      "onboard_time": 1661348376,
+      "rank": 37,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 248268,
@@ -5401,14 +5457,6 @@
       "onboard_time": 1661151092,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226194,
-      "num": 172889,
-      "word": "二十不惑2",
-      "onboard_time": 1661244511,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 226106,
@@ -6308,7 +6356,7 @@
     },
     {
       "raw_hot": 173922,
-      "num": 132710,
+      "num": 141327,
       "word": "九龙坡疫情防控",
       "onboard_time": 1661348313,
       "rank": 47,

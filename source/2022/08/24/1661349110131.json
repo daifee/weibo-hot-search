@@ -1,0 +1,410 @@
+{
+  "runTime": 1661349110131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2699650,
+        "num": 2699650,
+        "word": "微信支持一次发99张图片",
+        "onboard_time": 1661336970,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2169892,
+        "num": 2169892,
+        "word": "一曲 惨",
+        "onboard_time": 1661348013,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26492,
+        "num": 1474586,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1234427,
+        "num": 1234427,
+        "word": "玄夜终于上线了",
+        "onboard_time": 1661337090,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1153750,
+        "num": 1153750,
+        "word": "四川一镇突发大火多个居民楼被点燃",
+        "onboard_time": 1661343753,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079833,
+        "num": 1079833,
+        "word": "谢了四六级再谢四六鸡",
+        "onboard_time": 1661345314,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1064967,
+        "num": 1064967,
+        "word": "感受到男人娶老婆的快乐了",
+        "onboard_time": 1661342734,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 942571,
+        "num": 942571,
+        "word": "鲸鱼的见证下我求婚了",
+        "onboard_time": 1661343035,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 681715,
+        "num": 681715,
+        "word": "see",
+        "onboard_time": 1661343875,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 658330,
+        "num": 658330,
+        "word": "江浙沪人民操心30度该穿什么",
+        "onboard_time": 1661346454,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 8982919,
+        "num": 655680,
+        "word": "赵露思 西太后",
+        "onboard_time": 1661348194,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649790,
+        "num": 649790,
+        "word": "苏醒说0713团综能红是因为够糊",
+        "onboard_time": 1661346573,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468758,
+        "num": 468758,
+        "word": "重庆疫情防控",
+        "onboard_time": 1661345432,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462513,
+        "num": 462513,
+        "word": "上海宜家储物柜区禁拍网红照",
+        "onboard_time": 1661335951,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453323,
+        "num": 453323,
+        "word": "大妈光脚踩高铁小桌板高声打电话",
+        "onboard_time": 1661344292,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418677,
+        "num": 418677,
+        "word": "传苹果已开始研发iPhone15",
+        "onboard_time": 1661339433,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385090,
+        "num": 385090,
+        "word": "民国大侦探",
+        "onboard_time": 1661348376,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375525,
+        "num": 375525,
+        "word": "KSG对战WB",
+        "onboard_time": 1661341717,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361672,
+        "num": 361672,
+        "word": "KSG遗憾淘汰",
+        "onboard_time": 1661348556,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346578,
+        "num": 346578,
+        "word": "丰盛求婚失败了又没完全失败",
+        "onboard_time": 1661348916,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342205,
+        "num": 342205,
+        "word": "关晓彤徐梦洁扫楼生图",
+        "onboard_time": 1661342318,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335713,
+        "num": 335713,
+        "word": "螺蛳粉何以持续火爆",
+        "onboard_time": 1661344713,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318101,
+        "num": 318101,
+        "word": "怎么办脱口秀专场",
+        "onboard_time": 1661348013,
+        "rank": 22,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 315121,
+        "num": 315121,
+        "word": "鞠婧祎洋娃娃造型",
+        "onboard_time": 1661334090,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314786,
+        "num": 314786,
+        "word": "WB战胜KSG",
+        "onboard_time": 1661348612,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311610,
+        "num": 311610,
+        "word": "英国乐手科普台湾是中国一部分",
+        "onboard_time": 1661342855,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308929,
+        "num": 308929,
+        "word": "重庆小伙两天两夜送物资累到浇水",
+        "onboard_time": 1661339791,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281208,
+        "num": 281208,
+        "word": "差点毁了妈妈的一世英名",
+        "onboard_time": 1661346812,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280437,
+        "num": 280437,
+        "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+        "onboard_time": 1661326472,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270015,
+        "num": 270015,
+        "word": "香川照之涉嫌猥亵女性",
+        "onboard_time": 1661338652,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268544,
+        "num": 268544,
+        "word": "王勉TT合作舞台超生气听爽了",
+        "onboard_time": 1661349037,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260939,
+        "num": 260939,
+        "word": "橘右京新皮肤",
+        "onboard_time": 1661335592,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259932,
+        "num": 259932,
+        "word": "陈宇火海救吴振峰",
+        "onboard_time": 1661348438,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259874,
+        "num": 259874,
+        "word": "重庆山火扑救现场",
+        "onboard_time": 1661341717,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258432,
+        "num": 258432,
+        "word": "叶蓁蓁清醒发言",
+        "onboard_time": 1661346031,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256138,
+        "num": 256138,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251283,
+        "num": 251283,
+        "word": "国乒公布成都世乒赛选拔办法",
+        "onboard_time": 1661345136,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248528,
+        "num": 248528,
+        "word": "北京WB",
+        "onboard_time": 1661348376,
+        "rank": 37,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 240018,
+        "num": 240018,
+        "word": "四川气象台发暴雨蓝色预警",
+        "onboard_time": 1661335171,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239985,
+        "num": 239985,
+        "word": "小玖给一诺道歉",
+        "onboard_time": 1661334390,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249573,
+        "num": 237004,
+        "word": "二十不惑2",
+        "onboard_time": 1661348675,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231152,
+        "num": 231152,
+        "word": "颜淡唐周梦中的婚礼",
+        "onboard_time": 1661344952,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228214,
+        "num": 228214,
+        "word": "时代少年团演唱会预约",
+        "onboard_time": 1661330612,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220692,
+        "num": 220692,
+        "word": "深圳科兴科学园疫情防控",
+        "onboard_time": 1661342617,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206292,
+        "num": 206292,
+        "word": "半盒田咖啡被指歧视职场妈妈",
+        "onboard_time": 1661339012,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189048,
+        "num": 189048,
+        "word": "美军不到1个月至少偷7次叙石油",
+        "onboard_time": 1661329953,
+        "rank": 45,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 180144,
+        "num": 180144,
+        "word": "马鞍",
+        "onboard_time": 1661346754,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157776,
+        "num": 157776,
+        "word": "青岛疫情防控",
+        "onboard_time": 1661341355,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157543,
+        "num": 157543,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141327,
+        "num": 141327,
+        "word": "九龙坡疫情防控",
+        "onboard_time": 1661348313,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让改革发展成果惠及更多群众#"
+    }
+  }
+}
