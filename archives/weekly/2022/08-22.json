@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661310219149,
+  "endTime": 1661315235133,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -299,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1869913,
+      "num": 692371,
+      "word": "王俊凯易烊千玺支持王源新歌",
+      "onboard_time": 1661311654,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1812763,
       "num": 1812763,
       "word": "杨洋微微一笑很倾城播出六周年",
@@ -337,6 +345,14 @@
       "onboard_time": 1661146348,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1715852,
+      "num": 689320,
+      "word": "汪峰今天发歌",
+      "onboard_time": 1661309368,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 1702780,
@@ -507,6 +523,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1316101,
+      "num": 717670,
+      "word": "男子离婚因收入低想要回18万彩礼",
+      "onboard_time": 1661308888,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1308824,
       "num": 1308824,
       "word": "警方通报上海中考泄题",
@@ -657,6 +681,14 @@
       "onboard_time": 1661150492,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1150502,
+      "num": 1150502,
+      "word": "A股",
+      "onboard_time": 1661310391,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1141337,
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864809,
+      "num": 480339,
+      "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+      "onboard_time": 1661313994,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860193,
       "num": 860193,
       "word": "当狗狗第一次被允许上床",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1661256094,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 837076,
+      "num": 474506,
+      "word": "杨紫还原颜淡讨厌啦表情包",
+      "onboard_time": 1661313575,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 819033,
@@ -1235,14 +1283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 717670,
-      "num": 717670,
-      "word": "男子离婚因收入低想要回18万彩礼",
-      "onboard_time": 1661308888,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 713486,
       "num": 713486,
       "word": "张大大说女生穿得开心最重要",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1661151092,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689277,
-      "num": 689277,
-      "word": "汪峰今天发歌",
-      "onboard_time": 1661309368,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 688285,
@@ -1635,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566447,
+      "num": 463406,
+      "word": "虞书欣纯白情绪大片",
+      "onboard_time": 1661314412,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 565797,
       "num": 565797,
       "word": "男子去世捐遗给儿子就读大学",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1661179114,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 554567,
+      "num": 554567,
+      "word": "运油20歼20歼16三机同框照",
+      "onboard_time": 1661309611,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 550775,
@@ -1875,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511375,
+      "num": 456627,
+      "word": "美国一公园发现恐龙足迹",
+      "onboard_time": 1661313095,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508764,
       "num": 445489,
       "word": "苍兰夫妇试戏也要手牵手",
@@ -1976,6 +2032,14 @@
       "word": "本座从未爱过你",
       "onboard_time": 1661179357,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486975,
+      "num": 486975,
+      "word": "丁禹兮任敏新剧开机",
+      "onboard_time": 1661311172,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -2203,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455090,
+      "num": 455090,
+      "word": "骗子诈骗300万买彩票中1450万",
+      "onboard_time": 1661314116,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454593,
       "num": 454593,
       "word": "特种兵室内突击演习处处都是繁体字",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1661244632,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452128,
+      "num": 452128,
+      "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
+      "onboard_time": 1661312736,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451833,
@@ -2267,6 +2347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 435860,
+      "num": 435860,
+      "word": "王鹤棣东方青苍受刑花絮",
+      "onboard_time": 1661310512,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435177,
       "num": 435177,
       "word": "JDG战胜LNG",
@@ -2289,6 +2377,14 @@
       "onboard_time": 1661180797,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 428860,
+      "num": 428860,
+      "word": "苹果推迟发布iPadOS16‌",
+      "onboard_time": 1661310571,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 428825,
@@ -2321,6 +2417,14 @@
       "onboard_time": 1661307869,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422878,
+      "num": 422878,
+      "word": "告白铅球和水牛戒烟",
+      "onboard_time": 1661314412,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422480,
@@ -3123,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326711,
+      "num": 326711,
+      "word": "席琳迪翁",
+      "onboard_time": 1661309431,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326455,
       "num": 326455,
       "word": "冷空气已经在路上了",
@@ -3289,6 +3401,14 @@
       "onboard_time": 1661145571,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301236,
+      "num": 301236,
+      "word": "江西疫情防控",
+      "onboard_time": 1661310272,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299357,
@@ -3507,6 +3627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282467,
+      "num": 249277,
+      "word": "冰雨火导演特辑",
+      "onboard_time": 1661315076,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281055,
       "num": 252232,
       "word": "唐周追妻vs应渊追妻",
@@ -3611,14 +3739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 272333,
-      "num": 272333,
-      "word": "席琳迪翁",
-      "onboard_time": 1661309431,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271822,
       "num": 271822,
       "word": "男童被困车尾箱近2小时患热射病",
@@ -3639,6 +3759,14 @@
       "num": 216604,
       "word": "刘奕君王劲松在线争宠",
       "onboard_time": 1661170349,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271348,
+      "num": 247604,
+      "word": "民国大侦探全员否认X先生身份",
+      "onboard_time": 1661311116,
       "rank": 31,
       "category": "影视"
     },
@@ -4059,6 +4187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245249,
+      "num": 245249,
+      "word": "周杰伦 靠感觉写歌",
+      "onboard_time": 1661313274,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243374,
       "num": 243374,
       "word": "四川一男子乱丢烟头引发火灾",
@@ -4081,6 +4217,22 @@
       "onboard_time": 1661130990,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242232,
+      "num": 242232,
+      "word": "专家建议年轻人应提早规划养老投资",
+      "onboard_time": 1661314717,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240351,
+      "num": 240351,
+      "word": "基金",
+      "onboard_time": 1661311956,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 239734,
@@ -4241,6 +4393,14 @@
       "onboard_time": 1661237131,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 229215,
+      "num": 197377,
+      "word": "林雨申武侠氛围感",
+      "onboard_time": 1661314898,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 228905,
@@ -4473,14 +4633,6 @@
       "onboard_time": 1661157394,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213549,
-      "num": 213549,
-      "word": "运油20歼20歼16三机同框照",
-      "onboard_time": 1661309611,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 211480,
@@ -4955,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179543,
+      "num": 179543,
+      "word": "调查显示准备换iPhone14的用户比往年少",
+      "onboard_time": 1661315076,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 179511,
       "num": 179511,
       "word": "于文文戎装花木兰好飒",
@@ -5001,6 +5161,14 @@
       "onboard_time": 1661124022,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175279,
+      "num": 175279,
+      "word": "卡卡西看了都摇头",
+      "onboard_time": 1661313455,
+      "rank": 47,
+      "category": "幽默,动漫"
     },
     {
       "raw_hot": 175107,
@@ -5155,6 +5323,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 164815,
+      "num": 164815,
+      "word": "四川一男子离家半月鱼池全晒干",
+      "onboard_time": 1661314655,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162816,
       "num": 162816,
       "word": "重庆辟谣渝康码变黄认证短信",
@@ -5289,6 +5465,14 @@
       "onboard_time": 1661166750,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156488,
+      "num": 156488,
+      "word": "824科比日",
+      "onboard_time": 1661314412,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 156145,
@@ -5769,6 +5953,14 @@
       "onboard_time": 1661038882,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13670,
+      "num": 468632,
+      "word": "原神3.0版本更新",
+      "onboard_time": 1661313636,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 13208,
