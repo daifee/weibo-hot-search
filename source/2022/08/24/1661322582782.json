@@ -1,0 +1,410 @@
+{
+  "runTime": 1661322582782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2921881,
+        "num": 2921881,
+        "word": "拜登下令美军空袭叙利亚",
+        "onboard_time": 1661318134,
+        "rank": 0,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1094992,
+        "num": 1094992,
+        "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+        "onboard_time": 1661313994,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167899,
+        "num": 1048514,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4447296,
+        "num": 1048117,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1044190,
+        "num": 1044190,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933629,
+        "num": 933629,
+        "word": "意大利男子同时感染猴痘新冠艾滋",
+        "onboard_time": 1661317775,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911040,
+        "num": 911040,
+        "word": "骗子诈骗300万买彩票中1450万",
+        "onboard_time": 1661314116,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903317,
+        "num": 903317,
+        "word": "钟离",
+        "onboard_time": 1661317238,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 855415,
+        "num": 855415,
+        "word": "朋友圈可以修改可见范围了",
+        "onboard_time": 1661300852,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 625399,
+        "num": 625399,
+        "word": "王鹤棣虞书欣抱抱花絮",
+        "onboard_time": 1661321131,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825488,
+        "num": 619247,
+        "word": "专家建议年轻人应提早规划养老投资",
+        "onboard_time": 1661314717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610291,
+        "num": 610291,
+        "word": "王俊凯易烊千玺支持王源新歌",
+        "onboard_time": 1661311654,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 566389,
+        "num": 566389,
+        "word": "男子离婚因收入低想要回18万彩礼",
+        "onboard_time": 1661308888,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478194,
+        "num": 478194,
+        "word": "汪峰今天发歌",
+        "onboard_time": 1661309368,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449715,
+        "num": 449715,
+        "word": "朴志效确诊新冠",
+        "onboard_time": 1661318913,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438011,
+        "num": 438011,
+        "word": "男子5万元网上买到高仿路虎",
+        "onboard_time": 1661321192,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407427,
+        "num": 407427,
+        "word": "解放军无人机拍到金门岗哨照",
+        "onboard_time": 1661321730,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 404354,
+        "num": 404354,
+        "word": "许凯彭昱畅弹兄弹弟",
+        "onboard_time": 1661321551,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390727,
+        "num": 390727,
+        "word": "大爷用一根唢呐养活四代人",
+        "onboard_time": 1661317238,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381267,
+        "num": 381267,
+        "word": "A股",
+        "onboard_time": 1661310391,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354034,
+        "num": 354034,
+        "word": "四川一男子离家半月鱼池全晒干",
+        "onboard_time": 1661314655,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333495,
+        "num": 333495,
+        "word": "秦俊杰两部新剧同时播出",
+        "onboard_time": 1661321310,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318855,
+        "num": 318855,
+        "word": "告白铅球和水牛戒烟",
+        "onboard_time": 1661314412,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312783,
+        "num": 312783,
+        "word": "杨紫还原颜淡讨厌啦表情包",
+        "onboard_time": 1661313575,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305890,
+        "num": 305890,
+        "word": "调查显示准备换iPhone14的用户比往年少",
+        "onboard_time": 1661315076,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 275875,
+        "num": 275875,
+        "word": "四大精子杀手",
+        "onboard_time": 1661270491,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267101,
+        "num": 267101,
+        "word": "未开封原版初代iPhone拍出约24万元",
+        "onboard_time": 1661316697,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266127,
+        "num": 266127,
+        "word": "美国一公园发现恐龙足迹",
+        "onboard_time": 1661313095,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250900,
+        "num": 250900,
+        "word": "意想不到的文化输出增加了",
+        "onboard_time": 1661318375,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247147,
+        "num": 247147,
+        "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
+        "onboard_time": 1661312736,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241823,
+        "num": 241823,
+        "word": "苏州KSG人员处罚公告",
+        "onboard_time": 1661305712,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213410,
+        "num": 213410,
+        "word": "乐华香港上市全球发售",
+        "onboard_time": 1661316159,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197810,
+        "num": 197810,
+        "word": "女子收到4包湿巾被骗6万余元",
+        "onboard_time": 1661307749,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191909,
+        "num": 191909,
+        "word": "研究称生日相同脑细胞更易协作",
+        "onboard_time": 1661315556,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 190547,
+        "num": 190547,
+        "word": "包机上同济是种什么体验",
+        "onboard_time": 1661320232,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188796,
+        "num": 188796,
+        "word": "基金",
+        "onboard_time": 1661311956,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184477,
+        "num": 184477,
+        "word": "丁禹兮任敏新剧开机",
+        "onboard_time": 1661311172,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182901,
+        "num": 182901,
+        "word": "女子用脚趾解开自家指纹锁",
+        "onboard_time": 1661322213,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 180905,
+        "num": 180905,
+        "word": "男子两进火场救八旬母亲和儿子",
+        "onboard_time": 1661321252,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 179038,
+        "num": 179038,
+        "word": "河北新增无症状感染者10例",
+        "onboard_time": 1661319575,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170868,
+        "num": 170868,
+        "word": "运油20歼20歼16三机同框照",
+        "onboard_time": 1661309611,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164935,
+        "num": 164935,
+        "word": "脱口秀大会5选手快乐官宣",
+        "onboard_time": 1661307869,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145304,
+        "num": 145304,
+        "word": "面果大枣能有多真",
+        "onboard_time": 1661317056,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138399,
+        "num": 138399,
+        "word": "男性生育前检查很有必要",
+        "onboard_time": 1661300072,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133632,
+        "num": 133632,
+        "word": "看INTO1采访多少有点费耳朵",
+        "onboard_time": 1661319274,
+        "rank": 44,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 128323,
+        "num": 128323,
+        "word": "网传大奉打更人暂定张若昀田曦薇",
+        "onboard_time": 1661315378,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123143,
+        "num": 123143,
+        "word": "成都下雨",
+        "onboard_time": 1661300971,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120122,
+        "num": 120122,
+        "word": "江西疫情防控",
+        "onboard_time": 1661310272,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116848,
+        "num": 116848,
+        "word": "网传凤来栖主演阵容",
+        "onboard_time": 1661309128,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114240,
+        "num": 114240,
+        "word": "发现了自己朋友很少的原因",
+        "onboard_time": 1661303733,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}
