@@ -1,0 +1,410 @@
+{
+  "runTime": 1661325616929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2287561,
+        "num": 2287561,
+        "word": "拜登下令美军空袭叙利亚",
+        "onboard_time": 1661318134,
+        "rank": 0,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1526290,
+        "num": 1526290,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178995,
+        "num": 1316486,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2424078,
+        "num": 1301551,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1272792,
+        "num": 1272792,
+        "word": "解放军无人机拍到金门岗哨照",
+        "onboard_time": 1661321730,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 989696,
+        "num": 989696,
+        "word": "王鹤棣告白铅球救火 张凌赫水牛戒烟救人",
+        "onboard_time": 1661323052,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 970072,
+        "num": 970072,
+        "word": "男子5万元网上买到高仿路虎",
+        "onboard_time": 1661321192,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919607,
+        "num": 919607,
+        "word": "女子用脚趾解开自家指纹锁",
+        "onboard_time": 1661322213,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 640473,
+        "num": 640473,
+        "word": "骗子诈骗300万买彩票中1450万",
+        "onboard_time": 1661314116,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582136,
+        "num": 582136,
+        "word": "朋友圈可以修改可见范围了",
+        "onboard_time": 1661300852,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1336251,
+        "num": 582074,
+        "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+        "onboard_time": 1661324731,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580540,
+        "num": 580540,
+        "word": "冰雨火 调休",
+        "onboard_time": 1661323713,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547218,
+        "num": 547218,
+        "word": "意大利男子同时感染猴痘新冠艾滋",
+        "onboard_time": 1661317775,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484050,
+        "num": 484050,
+        "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+        "onboard_time": 1661313994,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470533,
+        "num": 470533,
+        "word": "王俊凯易烊千玺支持王源新歌",
+        "onboard_time": 1661311654,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 464736,
+        "num": 464736,
+        "word": "四川高校学生退机票被收手续费",
+        "onboard_time": 1661322871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436875,
+        "num": 436875,
+        "word": "专家建议年轻人应提早规划养老投资",
+        "onboard_time": 1661314717,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419595,
+        "num": 419595,
+        "word": "秦俊杰两部新剧同时播出",
+        "onboard_time": 1661321310,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397874,
+        "num": 397874,
+        "word": "常州全面取消二手房限售",
+        "onboard_time": 1661324251,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 394651,
+        "num": 394651,
+        "word": "钟离",
+        "onboard_time": 1661317238,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365664,
+        "num": 365664,
+        "word": "倪光南称中国芯片走第三条路",
+        "onboard_time": 1661323412,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 352579,
+        "num": 352579,
+        "word": "男子离婚因收入低想要回18万彩礼",
+        "onboard_time": 1661308888,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325835,
+        "num": 325835,
+        "word": "汪峰今天发歌",
+        "onboard_time": 1661309368,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318387,
+        "num": 318387,
+        "word": "A股",
+        "onboard_time": 1661310391,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287018,
+        "num": 287018,
+        "word": "众星给黄明昊新专辑打call",
+        "onboard_time": 1661325151,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272394,
+        "num": 272394,
+        "word": "许凯彭昱畅弹兄弹弟",
+        "onboard_time": 1661321551,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241405,
+        "num": 241405,
+        "word": "未开封原版初代iPhone拍出约24万元",
+        "onboard_time": 1661316697,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222177,
+        "num": 222177,
+        "word": "四川一男子离家半月鱼池全晒干",
+        "onboard_time": 1661314655,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211395,
+        "num": 211395,
+        "word": "还好没在贵州考科目二",
+        "onboard_time": 1661324251,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207926,
+        "num": 207926,
+        "word": "管晨辰浙江大学报到",
+        "onboard_time": 1661324071,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258882,
+        "num": 206963,
+        "word": "朴志效确诊新冠",
+        "onboard_time": 1661318913,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225065,
+        "num": 206033,
+        "word": "张云龙一口气炫完一罐碳酸饮料",
+        "onboard_time": 1661325028,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214875,
+        "num": 205458,
+        "word": "杨紫还原颜淡讨厌啦表情包",
+        "onboard_time": 1661313575,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209158,
+        "num": 203909,
+        "word": "告白铅球和水牛戒烟",
+        "onboard_time": 1661314412,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203623,
+        "num": 203623,
+        "word": "意想不到的文化输出增加了",
+        "onboard_time": 1661318375,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199309,
+        "num": 199309,
+        "word": "熊猫宝宝扒拉自己",
+        "onboard_time": 1661323590,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 190967,
+        "num": 190967,
+        "word": "女子收到4包湿巾被骗6万余元",
+        "onboard_time": 1661307749,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190901,
+        "num": 190901,
+        "word": "调查显示准备换iPhone14的用户比往年少",
+        "onboard_time": 1661315076,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 186251,
+        "num": 188825,
+        "word": "台风马鞍",
+        "onboard_time": 1661325151,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187746,
+        "num": 187746,
+        "word": "基金",
+        "onboard_time": 1661311956,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182205,
+        "num": 182205,
+        "word": "苏州KSG人员处罚公告",
+        "onboard_time": 1661305712,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178381,
+        "num": 178381,
+        "word": "男子喝酒气跑妻子又载3娃醉驾找妈",
+        "onboard_time": 1661312736,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167233,
+        "num": 167233,
+        "word": "包机上同济是种什么体验",
+        "onboard_time": 1661320232,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165054,
+        "num": 165054,
+        "word": "丁禹兮任敏新剧开机",
+        "onboard_time": 1661311172,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162601,
+        "num": 162601,
+        "word": "空军发言人展示的课本封面是它",
+        "onboard_time": 1661324549,
+        "rank": 44,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 162059,
+        "num": 162059,
+        "word": "男子两进火场救八旬母亲和儿子",
+        "onboard_time": 1661321252,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143190,
+        "num": 143190,
+        "word": "未开封初代iPod售价约17万元",
+        "onboard_time": 1661324909,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 127785,
+        "word": "大爷用一根唢呐养活四代人",
+        "onboard_time": 1661317238,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120573,
+        "num": 120573,
+        "word": "百岁老人戒指卡手不愿摘",
+        "onboard_time": 1661325511,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120319,
+        "num": 120319,
+        "word": "河北新增无症状感染者10例",
+        "onboard_time": 1661319575,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让改革发展成果惠及更多群众#"
+    }
+  }
+}

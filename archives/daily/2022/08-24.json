@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661323662771,
+  "endTime": 1661325616929,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336251,
+      "num": 582074,
+      "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+      "onboard_time": 1661324731,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1316101,
       "num": 754814,
       "word": "男子离婚因收入低想要回18万彩礼",
@@ -113,6 +121,14 @@
       "onboard_time": 1661300072,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1272792,
+      "num": 1272792,
+      "word": "解放军无人机拍到金门岗哨照",
+      "onboard_time": 1661321730,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 1237181,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1084752,
-      "num": 1084752,
-      "word": "解放军无人机拍到金门岗哨照",
-      "onboard_time": 1661321730,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 1046620,
       "num": 1046620,
       "word": "佩洛西丈夫因酒驾被判囚5天",
@@ -179,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 989696,
+      "num": 989696,
+      "word": "王鹤棣告白铅球救火 张凌赫水牛戒烟救人",
+      "onboard_time": 1661323052,
+      "rank": 5,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 981852,
       "num": 331316,
       "word": "七度空间 刘浩存",
       "onboard_time": 1661263656,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970072,
+      "num": 970072,
+      "word": "男子5万元网上买到高仿路虎",
+      "onboard_time": 1661321192,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 962990,
@@ -201,6 +225,14 @@
       "onboard_time": 1661317775,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919607,
+      "num": 919607,
+      "word": "女子用脚趾解开自家指纹锁",
+      "onboard_time": 1661322213,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 918987,
@@ -225,14 +257,6 @@
       "onboard_time": 1661304151,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 881207,
-      "num": 881207,
-      "word": "王鹤棣告白铅球救火 张凌赫水牛戒烟救人",
-      "onboard_time": 1661323052,
-      "rank": 5,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 857867,
@@ -272,14 +296,6 @@
       "word": "女子收到4包湿巾被骗6万余元",
       "onboard_time": 1661307749,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733993,
-      "num": 711609,
-      "word": "男子5万元网上买到高仿路虎",
-      "onboard_time": 1661321192,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1661304269,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580540,
+      "num": 580540,
+      "word": "冰雨火 调休",
+      "onboard_time": 1661323713,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 580265,
@@ -467,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464736,
+      "num": 464736,
+      "word": "四川高校学生退机票被收手续费",
+      "onboard_time": 1661322871,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464424,
       "num": 464424,
       "word": "四川一男子离家半月鱼池全晒干",
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435466,
-      "num": 435466,
-      "word": "女子用脚趾解开自家指纹锁",
-      "onboard_time": 1661322213,
-      "rank": 37,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 435121,
       "num": 345443,
       "word": "关于王鹤棣抓马又搞笑的一生",
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419595,
+      "num": 419595,
+      "word": "秦俊杰两部新剧同时播出",
+      "onboard_time": 1661321310,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417134,
       "num": 417134,
       "word": "古偶女二人设天花板",
@@ -577,6 +609,14 @@
       "onboard_time": 1661321551,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397874,
+      "num": 397874,
+      "word": "常州全面取消二手房限售",
+      "onboard_time": 1661324251,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 396439,
@@ -651,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370132,
-      "num": 348787,
-      "word": "秦俊杰两部新剧同时播出",
-      "onboard_time": 1661321310,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 367053,
       "num": 367053,
       "word": "湘雅二院刘翔峰回应网传问题",
       "onboard_time": 1661296640,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365664,
+      "num": 365664,
+      "word": "倪光南称中国芯片走第三条路",
+      "onboard_time": 1661323412,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 364580,
@@ -808,6 +848,14 @@
       "word": "周杰伦 靠感觉写歌",
       "onboard_time": 1661313274,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 287018,
+      "num": 287018,
+      "word": "众星给黄明昊新专辑打call",
+      "onboard_time": 1661325151,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -1003,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225065,
+      "num": 206033,
+      "word": "张云龙一口气炫完一罐碳酸饮料",
+      "onboard_time": 1661325028,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222241,
       "num": 222241,
       "word": "南方朋友们期待的降温就要来了",
@@ -1035,12 +1091,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "还好没在贵州考科目二",
+      "onboard_time": 1661324251,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 207926,
+      "num": 207926,
+      "word": "管晨辰浙江大学报到",
+      "onboard_time": 1661324071,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200896,
       "num": 167006,
       "word": "沉香重华",
       "onboard_time": 1661271389,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199309,
+      "num": 199309,
+      "word": "熊猫宝宝扒拉自己",
+      "onboard_time": 1661323590,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 198976,
@@ -1075,6 +1155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186251,
+      "num": 188825,
+      "word": "台风马鞍",
+      "onboard_time": 1661325151,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185234,
       "num": 185234,
       "word": "玉骨遥入学考试",
@@ -1107,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178995,
+      "num": 1505872,
+      "word": "机械臂第一视角下的地球",
+      "onboard_time": 1661319754,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 178863,
       "num": 178863,
       "word": "台风",
@@ -1129,14 +1225,6 @@
       "onboard_time": 1661313455,
       "rank": 47,
       "category": "幽默,动漫"
-    },
-    {
-      "raw_hot": 174351,
-      "num": 1505872,
-      "word": "机械臂第一视角下的地球",
-      "onboard_time": 1661319754,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 171155,
@@ -1203,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162601,
+      "num": 162601,
+      "word": "空军发言人展示的课本封面是它",
+      "onboard_time": 1661324549,
+      "rank": 44,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 161150,
       "num": 161150,
       "word": "美驻乌使馆敦促美公民离开乌克兰",
@@ -1225,14 +1321,6 @@
       "onboard_time": 1661281933,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 158185,
-      "num": 158185,
-      "word": "四川高校学生退机票被收手续费",
-      "onboard_time": 1661322871,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156488,
@@ -1275,20 +1363,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 144025,
-      "num": 144025,
-      "word": "倪光南称中国芯片走第三条路",
-      "onboard_time": 1661323412,
-      "rank": 42,
-      "category": "科技,社会新闻"
+      "raw_hot": 143190,
+      "num": 143190,
+      "word": "未开封初代iPod售价约17万元",
+      "onboard_time": 1661324909,
+      "rank": 46,
+      "category": "科技"
     },
     {
-      "raw_hot": 125569,
-      "num": 125569,
-      "word": "熊猫宝宝扒拉自己",
-      "onboard_time": 1661323590,
-      "rank": 46,
-      "category": "其它"
+      "raw_hot": 120573,
+      "num": 120573,
+      "word": "百岁老人戒指卡手不愿摘",
+      "onboard_time": 1661325511,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119940,
