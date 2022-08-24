@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661351833963,
+  "endTime": 1661354607952,
   "band_list": [
     {
       "raw_hot": 8982919,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1653311,
+      "num": 613388,
+      "word": "赵露思仪态",
+      "onboard_time": 1661352819,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1617603,
       "num": 1617603,
       "word": "官方回应女子曝老人组团偷南瓜",
@@ -153,6 +161,14 @@
       "onboard_time": 1661328031,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1554322,
+      "num": 1554322,
+      "word": "新娘穿自己设计全粉婚纱结婚引热议",
+      "onboard_time": 1661352153,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1542419,
@@ -289,6 +305,14 @@
       "onboard_time": 1661301212,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1042323,
+      "num": 1042323,
+      "word": "头像决定聊天欲望是真的吗",
+      "onboard_time": 1661350412,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1007089,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 821561,
-      "num": 362617,
+      "num": 387450,
       "word": "郑秀妍王紫璇海边游玩随拍",
       "onboard_time": 1661349215,
       "rank": 20,
@@ -505,6 +529,14 @@
       "onboard_time": 1661307749,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748842,
+      "num": 748842,
+      "word": "唐周在悄悄告别所有人",
+      "onboard_time": 1661350412,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 727468,
@@ -627,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 635212,
+      "num": 635212,
+      "word": "藿香正气冰中式走红网络",
+      "onboard_time": 1661349335,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 625399,
       "num": 625399,
       "word": "王鹤棣虞书欣抱抱花絮",
@@ -641,6 +681,14 @@
       "onboard_time": 1661294055,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616983,
+      "num": 616983,
+      "word": "嗑过最甜的售后糖",
+      "onboard_time": 1661352395,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 615782,
@@ -667,12 +715,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 598067,
-      "num": 598067,
-      "word": "唐周在悄悄告别所有人",
-      "onboard_time": 1661350412,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 599643,
+      "num": 599643,
+      "word": "张庭夫妇相关传销案听证会排期中",
+      "onboard_time": 1661351436,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 585342,
@@ -859,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490095,
+      "num": 490095,
+      "word": "专家称取消公摊或影响购房者权利",
+      "onboard_time": 1661352637,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 486975,
       "num": 486975,
       "word": "丁禹兮任敏新剧开机",
@@ -899,14 +955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 467040,
-      "num": 467040,
-      "word": "藿香正气冰中式走红网络",
-      "onboard_time": 1661349335,
-      "rank": 25,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 465311,
       "num": 465311,
       "word": "北京WB",
@@ -937,6 +985,14 @@
       "onboard_time": 1661344292,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448819,
+      "num": 448819,
+      "word": "星汉灿烂微博图标上线",
+      "onboard_time": 1661352875,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 442985,
@@ -1107,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400197,
+      "num": 400197,
+      "word": "解放军奋战山火休息时和衣而卧",
+      "onboard_time": 1661351194,
+      "rank": 48,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 396439,
       "num": 396439,
       "word": "房屋面积缩水超3%购房人可退房退款",
@@ -1139,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393247,
+      "num": 393247,
+      "word": "为什么身体很累却还是失眠",
+      "onboard_time": 1661351373,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392756,
       "num": 392756,
       "word": "重庆电网最大负荷已达到历史极值",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1661268873,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388220,
+      "num": 388220,
+      "word": "谢谢四六级站岗小狗",
+      "onboard_time": 1661350594,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 386684,
@@ -1251,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351548,
-      "num": 351548,
-      "word": "谢谢四六级站岗小狗",
-      "onboard_time": 1661350594,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 351182,
       "num": 351182,
       "word": "世界小姐",
@@ -1332,7 +1404,7 @@
     },
     {
       "raw_hot": 338897,
-      "num": 1544553,
+      "num": 1591500,
       "word": "英国乐手科普台湾是中国一部分",
       "onboard_time": 1661342855,
       "rank": 34,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1661330730,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321228,
+      "num": 321228,
+      "word": "天津疫情防控",
+      "onboard_time": 1661350234,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319197,
@@ -1611,6 +1691,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 284098,
+      "num": 284098,
+      "word": "初会",
+      "onboard_time": 1661352334,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283424,
       "num": 283424,
       "word": "8月23日新增本土确诊380例",
@@ -1625,6 +1713,14 @@
       "onboard_time": 1661315076,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278679,
+      "num": 273064,
+      "word": "ive新歌舞台首秀",
+      "onboard_time": 1661351914,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 276686,
@@ -1649,14 +1745,6 @@
       "onboard_time": 1661261915,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273361,
-      "num": 273361,
-      "word": "天津疫情防控",
-      "onboard_time": 1661350234,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271348,
@@ -1689,14 +1777,6 @@
       "onboard_time": 1661329173,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269631,
-      "num": 269631,
-      "word": "头像决定聊天欲望是真的吗",
-      "onboard_time": 1661350412,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 269418,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1661316697,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 265215,
+      "num": 265215,
+      "word": "仿佛看见了我的外语水平",
+      "onboard_time": 1661353236,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 264801,
@@ -1963,14 +2051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226060,
-      "num": 226060,
-      "word": "为什么身体很累却还是失眠",
-      "onboard_time": 1661351373,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 225393,
       "num": 225393,
       "word": "苏醒老歌手的日常MV",
@@ -1987,14 +2067,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 222718,
-      "num": 222718,
-      "word": "张庭夫妇相关传销案听证会排期中",
-      "onboard_time": 1661351436,
-      "rank": 35,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 222241,
       "num": 222241,
       "word": "南方朋友们期待的降温就要来了",
@@ -2003,12 +2075,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219052,
+      "num": 219052,
+      "word": "秦泽文",
+      "onboard_time": 1661352819,
+      "rank": 35,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 218706,
       "num": 218706,
       "word": "被遗忘的时光今晚收官",
       "onboard_time": 1661322931,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218326,
+      "num": 218326,
+      "word": "为什么一定要珍惜遇见",
+      "onboard_time": 1661351254,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216083,
+      "num": 216083,
+      "word": "缙云山",
+      "onboard_time": 1661353772,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212992,
@@ -2059,20 +2155,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203901,
+      "num": 203901,
+      "word": "汉堡狗狗太可爱了",
+      "onboard_time": 1661354074,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203447,
       "num": 203447,
       "word": "电影节红毯上杀疯了的影后们",
       "onboard_time": 1661328513,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199989,
-      "num": 199989,
-      "word": "为什么一定要珍惜遇见",
-      "onboard_time": 1661351254,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 199309,
@@ -2155,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185688,
+      "num": 185688,
+      "word": "何悯鸿早C晚C",
+      "onboard_time": 1661354255,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185234,
       "num": 185234,
       "word": "玉骨遥入学考试",
@@ -2193,14 +2297,6 @@
       "onboard_time": 1661321252,
       "rank": 38,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 180153,
-      "num": 180153,
-      "word": "解放军奋战山火休息时和衣而卧",
-      "onboard_time": 1661351194,
-      "rank": 48,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 180065,
@@ -2328,6 +2424,14 @@
       "word": "重庆辟谣渝康码变黄认证短信",
       "onboard_time": 1661297364,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162800,
+      "num": 162800,
+      "word": "贵溪疫情防控",
+      "onboard_time": 1661353772,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
