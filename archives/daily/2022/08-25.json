@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661380736513,
+  "endTime": 1661383405168,
   "band_list": [
     {
       "raw_hot": 1763191,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 728345,
+      "num": 728345,
+      "word": "官方回应违反防疫规定参加葬礼被罚",
+      "onboard_time": 1661377391,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716857,
       "num": 716857,
       "word": "一曲 惨",
@@ -73,6 +81,14 @@
       "onboard_time": 1661356290,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 587873,
+      "num": 587873,
+      "word": "14岁以下儿童不建议检查幽门螺杆菌",
+      "onboard_time": 1661359105,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583757,
@@ -99,11 +115,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397799,
-      "num": 397799,
-      "word": "14岁以下儿童不建议检查幽门螺杆菌",
-      "onboard_time": 1661359105,
-      "rank": 29,
+      "raw_hot": 423910,
+      "num": 423910,
+      "word": "还以为误入了哪个武侠大片",
+      "onboard_time": 1661357489,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 404588,
+      "num": 404588,
+      "word": "上海警方破获7亿养老金诈骗案",
+      "onboard_time": 1661375413,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -113,14 +137,6 @@
       "onboard_time": 1661350594,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 388776,
-      "num": 388776,
-      "word": "上海警方破获7亿养老金诈骗案",
-      "onboard_time": 1661375413,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364882,
@@ -163,14 +179,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 287481,
-      "num": 287481,
-      "word": "还以为误入了哪个武侠大片",
-      "onboard_time": 1661357489,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "何悯鸿早C晚C",
@@ -211,14 +219,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 219319,
-      "num": 219319,
-      "word": "官方回应违反防疫规定参加葬礼被罚",
-      "onboard_time": 1661377391,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "重庆疫情防控",
@@ -249,6 +249,22 @@
       "onboard_time": 1661358985,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190833,
+      "num": 190833,
+      "word": "铁路客服回应学生退票被收手续费",
+      "onboard_time": 1661382379,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190180,
+      "num": 190180,
+      "word": "何悯鸿的妈妈是蔡根花",
+      "onboard_time": 1661365455,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 190084,
@@ -339,6 +355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148021,
+      "num": 148021,
+      "word": "因井水起纷争老人被邻居打骨折",
+      "onboard_time": 1661373249,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 140577,
+      "num": 140577,
+      "word": "上海宜家储物柜区禁拍网红照",
+      "onboard_time": 1661335951,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138769,
       "num": 138769,
       "word": "保剑锋说文帝终究是个君王",
@@ -353,6 +385,14 @@
       "onboard_time": 1661361020,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 134325,
+      "num": 134325,
+      "word": "天津疫情防控",
+      "onboard_time": 1661350234,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133909,
@@ -403,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116298,
-      "num": 116298,
-      "word": "天津疫情防控",
-      "onboard_time": 1661350234,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115940,
       "num": 115940,
       "word": "北京WB",
@@ -419,12 +451,12 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 113680,
-      "num": 113680,
-      "word": "上海宜家储物柜区禁拍网红照",
-      "onboard_time": 1661335951,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 113331,
+      "num": 113331,
+      "word": "笑点低真的不适合做老师",
+      "onboard_time": 1661382200,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 109950,
@@ -451,32 +483,32 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85513,
-      "num": 85513,
-      "word": "因井水起纷争老人被邻居打骨折",
-      "onboard_time": 1661373249,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 83646,
-      "num": 83646,
-      "word": "何悯鸿的妈妈是蔡根花",
-      "onboard_time": 1661365455,
-      "rank": 42,
+      "raw_hot": 103157,
+      "num": 103157,
+      "word": "蒋璐霞拍狼群眉骨开裂",
+      "onboard_time": 1661382862,
+      "rank": 36,
       "category": "影视"
     },
     {
-      "raw_hot": 64930,
-      "num": 64930,
+      "raw_hot": 91901,
+      "num": 91901,
       "word": "直击台风马鞍来袭",
       "onboard_time": 1661367853,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61701,
-      "num": 61701,
+      "raw_hot": 88499,
+      "num": 88499,
+      "word": "洛阳汝阳县新增1例确诊2例无症状",
+      "onboard_time": 1661378413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64193,
+      "num": 64193,
       "word": "赵泳鑫直播",
       "onboard_time": 1661364615,
       "rank": 21,
@@ -489,14 +521,6 @@
       "onboard_time": 1661363954,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39032,
-      "num": 39032,
-      "word": "洛阳汝阳县新增1例确诊2例无症状",
-      "onboard_time": 1661378413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17304,
