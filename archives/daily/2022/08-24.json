@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661333908386,
+  "endTime": 1661336762596,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862589,
+      "num": 361487,
+      "word": "鞠婧祎洋娃娃造型",
+      "onboard_time": 1661334090,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 857867,
       "num": 857867,
       "word": "美国一公园发现恐龙足迹",
@@ -393,6 +401,14 @@
       "onboard_time": 1661301811,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687937,
+      "num": 687937,
+      "word": "gemini直播",
+      "onboard_time": 1661333071,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 687516,
@@ -531,6 +547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 545015,
+      "num": 463591,
+      "word": "茶托女友一泡茶小1千2次约会花21万",
+      "onboard_time": 1661334272,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531192,
       "num": 531192,
       "word": "NASA发布来自黑洞的声音",
@@ -560,6 +584,14 @@
       "word": "百岁老人戒指卡手不愿摘",
       "onboard_time": 1661325511,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507702,
+      "num": 507702,
+      "word": "四川省防指再发紧急通知",
+      "onboard_time": 1661334632,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -617,6 +649,14 @@
       "onboard_time": 1661314655,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461025,
+      "num": 461025,
+      "word": "小玖给一诺道歉",
+      "onboard_time": 1661334390,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 454593,
@@ -731,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414557,
+      "num": 414557,
+      "word": "四川气象台发暴雨蓝色预警",
+      "onboard_time": 1661335171,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404469,
       "num": 404469,
       "word": "颜淡说我不会让你死的",
@@ -747,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403659,
+      "num": 403659,
+      "word": "橘右京新皮肤",
+      "onboard_time": 1661335592,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402584,
       "num": 402584,
       "word": "管晨辰浙江大学报到",
       "onboard_time": 1661324071,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399959,
+      "num": 399959,
+      "word": "萧元漪痛哭挽留程少商",
+      "onboard_time": 1661336010,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 396439,
@@ -851,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363080,
+      "num": 363080,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1661335112,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 360616,
       "num": 360616,
       "word": "众星给黄明昊新专辑打call",
@@ -897,6 +969,14 @@
       "onboard_time": 1661308169,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 337464,
+      "num": 337464,
+      "word": "关晓彤直播",
+      "onboard_time": 1661333791,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 336981,
@@ -955,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324642,
+      "num": 264325,
+      "word": "胡一天说辛苦了司徒颜",
+      "onboard_time": 1661336371,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322494,
       "num": 322494,
       "word": "王栎鑫新歌",
@@ -993,6 +1081,14 @@
       "onboard_time": 1661266298,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315476,
+      "num": 315476,
+      "word": "竟然和一只狗搭讪失败了",
+      "onboard_time": 1661335713,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 308110,
@@ -1131,12 +1227,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 264801,
+      "num": 264801,
+      "word": "悦鲜活回应专钓鲜女广告",
+      "onboard_time": 1661334512,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263335,
       "num": 263335,
       "word": "这居然是江西的零食",
       "onboard_time": 1661257952,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 262869,
+      "num": 262869,
+      "word": "唐周说可是颜淡我不是他",
+      "onboard_time": 1661336311,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 262723,
@@ -1179,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251943,
+      "num": 218388,
+      "word": "苍兰诀海外弹幕",
+      "onboard_time": 1661336010,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250900,
       "num": 250900,
       "word": "意想不到的文化输出增加了",
@@ -1195,6 +1315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 250734,
+      "num": 250734,
+      "word": "王者荣耀",
+      "onboard_time": 1661334390,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245369,
       "num": 245369,
       "word": "没有废话的电影有多爽",
@@ -1203,12 +1331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244595,
+      "num": 244595,
+      "word": "重庆一定赢",
+      "onboard_time": 1661335771,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243374,
       "num": 243374,
       "word": "四川一男子乱丢烟头引发火灾",
       "onboard_time": 1661269353,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241651,
+      "num": 241651,
+      "word": "公摊面积到底怎么算",
+      "onboard_time": 1661332711,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 240890,
@@ -1241,6 +1385,14 @@
       "onboard_time": 1661272645,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234180,
+      "num": 234180,
+      "word": "上海宜家储物柜区禁拍网红照",
+      "onboard_time": 1661335951,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231420,
@@ -1291,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 225270,
-      "num": 225270,
-      "word": "gemini直播",
-      "onboard_time": 1661333071,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225174,
       "num": 225174,
       "word": "网传慧聪网发布停工待岗通知",
@@ -1337,6 +1481,14 @@
       "onboard_time": 1661301089,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 209182,
+      "num": 209182,
+      "word": "秋日的第一首情歌",
+      "onboard_time": 1661335651,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 203447,
@@ -1403,6 +1555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 190195,
+      "num": 190195,
+      "word": "研究称长的像DNA或也像",
+      "onboard_time": 1661333610,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 189463,
       "num": 189463,
       "word": "阿迪达斯CEO将于明年离职",
@@ -1417,14 +1577,6 @@
       "onboard_time": 1661333431,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188820,
-      "num": 188820,
-      "word": "公摊面积到底怎么算",
-      "onboard_time": 1661332711,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 186202,
@@ -1491,6 +1643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176369,
+      "num": 176369,
+      "word": "广州台风",
+      "onboard_time": 1661336612,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175279,
       "num": 175279,
       "word": "卡卡西看了都摇头",
@@ -1547,14 +1707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167557,
-      "num": 167557,
-      "word": "关晓彤直播",
-      "onboard_time": 1661333791,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164820,
       "num": 164820,
       "word": "京东发布2022年第二季度财报",
@@ -1609,14 +1761,6 @@
       "onboard_time": 1661314412,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156235,
-      "num": 156235,
-      "word": "研究称长的像DNA或也像",
-      "onboard_time": 1661333610,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 154568,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661336762596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471435,
+        "num": 1471435,
+        "word": "张庭林瑞阳转战马来西亚",
+        "onboard_time": 1661325632,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1150888,
+        "num": 1150888,
+        "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+        "onboard_time": 1661324731,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125359,
+        "num": 1117658,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1098436,
+        "num": 1098436,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 859742,
+        "num": 859742,
+        "word": "美军不到1个月至少偷7次叙石油",
+        "onboard_time": 1661329953,
+        "rank": 4,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 823654,
+        "num": 823654,
+        "word": "43.9度四川高温再次刷新纪录",
+        "onboard_time": 1661330312,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822767,
+        "num": 822767,
+        "word": "故宫研究员夸乾隆是个好设计师",
+        "onboard_time": 1661331272,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 687937,
+        "num": 687937,
+        "word": "gemini直播",
+        "onboard_time": 1661333071,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 507702,
+        "num": 507702,
+        "word": "四川省防指再发紧急通知",
+        "onboard_time": 1661334632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472454,
+        "num": 472454,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861203,
+        "num": 471172,
+        "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+        "onboard_time": 1661326472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652237,
+        "num": 467578,
+        "word": "一诺",
+        "onboard_time": 1661328031,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640247,
+        "num": 464601,
+        "word": "拜登下令美军空袭叙利亚",
+        "onboard_time": 1661318134,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 545015,
+        "num": 463591,
+        "word": "茶托女友一泡茶小1千2次约会花21万",
+        "onboard_time": 1661334272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461025,
+        "num": 461025,
+        "word": "小玖给一诺道歉",
+        "onboard_time": 1661334390,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414557,
+        "num": 414557,
+        "word": "四川气象台发暴雨蓝色预警",
+        "onboard_time": 1661335171,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403659,
+        "num": 403659,
+        "word": "橘右京新皮肤",
+        "onboard_time": 1661335592,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399959,
+        "num": 399959,
+        "word": "萧元漪痛哭挽留程少商",
+        "onboard_time": 1661336010,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398415,
+        "num": 398415,
+        "word": "时代少年团演唱会预约",
+        "onboard_time": 1661330612,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363080,
+        "num": 363080,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1661335112,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 862589,
+        "num": 361487,
+        "word": "鞠婧祎洋娃娃造型",
+        "onboard_time": 1661334090,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358309,
+        "num": 358309,
+        "word": "大理寺少卿游官宣阵容",
+        "onboard_time": 1661330433,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343083,
+        "num": 343083,
+        "word": "中学否认湖南师大研究生将入住",
+        "onboard_time": 1661328631,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 338614,
+        "num": 338614,
+        "word": "永远相信EDG",
+        "onboard_time": 1661327551,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337464,
+        "num": 337464,
+        "word": "关晓彤直播",
+        "onboard_time": 1661333791,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315476,
+        "num": 315476,
+        "word": "竟然和一只狗搭讪失败了",
+        "onboard_time": 1661335713,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310328,
+        "num": 310328,
+        "word": "男子5万元网上买到高仿路虎",
+        "onboard_time": 1661321192,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308617,
+        "num": 308617,
+        "word": "暧昧期怎么确认关系",
+        "onboard_time": 1661325873,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282375,
+        "num": 282375,
+        "word": "小狗也会有打嗝的烦恼",
+        "onboard_time": 1661332411,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 264801,
+        "num": 264801,
+        "word": "悦鲜活回应专钓鲜女广告",
+        "onboard_time": 1661334512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324642,
+        "num": 264325,
+        "word": "胡一天说辛苦了司徒颜",
+        "onboard_time": 1661336371,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300953,
+        "num": 263744,
+        "word": "王鹤棣为黄明昊新专辑打call",
+        "onboard_time": 1661333252,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267714,
+        "num": 263416,
+        "word": "王栎鑫新歌",
+        "onboard_time": 1661330730,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262869,
+        "num": 262869,
+        "word": "唐周说可是颜淡我不是他",
+        "onboard_time": 1661336311,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250734,
+        "num": 250734,
+        "word": "王者荣耀",
+        "onboard_time": 1661334390,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244595,
+        "num": 244595,
+        "word": "重庆一定赢",
+        "onboard_time": 1661335771,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241651,
+        "num": 241651,
+        "word": "公摊面积到底怎么算",
+        "onboard_time": 1661332711,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 235861,
+        "num": 235861,
+        "word": "男童遭辗轧众人抬车30秒救出",
+        "onboard_time": 1661327131,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234180,
+        "num": 234180,
+        "word": "上海宜家储物柜区禁拍网红照",
+        "onboard_time": 1661335951,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218812,
+        "num": 218812,
+        "word": "深圳台风",
+        "onboard_time": 1661330671,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251943,
+        "num": 218388,
+        "word": "苍兰诀海外弹幕",
+        "onboard_time": 1661336010,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226884,
+        "num": 217928,
+        "word": "颜淡说我不会让你死的",
+        "onboard_time": 1661331512,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214743,
+        "num": 214743,
+        "word": "女子用脚趾解开自家指纹锁",
+        "onboard_time": 1661322213,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 209182,
+        "num": 209182,
+        "word": "秋日的第一首情歌",
+        "onboard_time": 1661335651,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190195,
+        "num": 190195,
+        "word": "研究称长的像DNA或也像",
+        "onboard_time": 1661333610,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 183345,
+        "num": 183345,
+        "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
+        "onboard_time": 1661313994,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176369,
+        "num": 176369,
+        "word": "广州台风",
+        "onboard_time": 1661336612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175970,
+        "num": 175970,
+        "word": "骗子诈骗300万买彩票中1450万",
+        "onboard_time": 1661314116,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175425,
+        "num": 175425,
+        "word": "百岁老人戒指卡手不愿摘",
+        "onboard_time": 1661325511,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169240,
+        "num": 169240,
+        "word": "钟离",
+        "onboard_time": 1661317238,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#让改革发展成果惠及更多群众#"
+    }
+  }
+}
