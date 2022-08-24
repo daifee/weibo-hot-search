@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661349110131,
+  "endTime": 1661350846430,
   "band_list": [
     {
       "raw_hot": 8982919,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1106732,
+      "num": 1106732,
+      "word": "江浙沪人民操心30度该穿什么",
+      "onboard_time": 1661346454,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1106164,
       "num": 925546,
       "word": "王鹤棣为黄明昊新专辑打call",
@@ -443,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 821561,
+      "num": 362617,
+      "word": "郑秀妍王紫璇海边游玩随拍",
+      "onboard_time": 1661349215,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816960,
       "num": 816960,
       "word": "see",
@@ -553,14 +569,6 @@
       "onboard_time": 1661314412,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 658330,
-      "num": 658330,
-      "word": "江浙沪人民操心30度该穿什么",
-      "onboard_time": 1661346454,
-      "rank": 16,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 657994,
@@ -683,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576543,
+      "num": 576543,
+      "word": "民国大侦探",
+      "onboard_time": 1661348376,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 576097,
       "num": 576097,
       "word": "武汉发现2例无症状感染者",
@@ -721,6 +737,14 @@
       "onboard_time": 1661336010,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 557871,
+      "num": 557871,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661345432,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554567,
@@ -851,20 +875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468758,
-      "num": 468758,
-      "word": "重庆疫情防控",
-      "onboard_time": 1661345432,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 467359,
       "num": 467359,
       "word": "小玖给一诺道歉",
       "onboard_time": 1661334390,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465311,
+      "num": 465311,
+      "word": "北京WB",
+      "onboard_time": 1661348376,
+      "rank": 37,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 464424,
@@ -889,6 +913,14 @@
       "onboard_time": 1661344292,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442985,
+      "num": 442985,
+      "word": "冰雨火站内热度值突破9500",
+      "onboard_time": 1661350776,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 440799,
@@ -961,6 +993,14 @@
       "onboard_time": 1661310571,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 428286,
+      "num": 428286,
+      "word": "差点毁了妈妈的一世英名",
+      "onboard_time": 1661346812,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 426531,
@@ -1107,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385090,
-      "num": 385090,
-      "word": "民国大侦探",
-      "onboard_time": 1661348376,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385057,
       "num": 385057,
       "word": "王源说又一次看海",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1661266715,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368762,
+      "num": 368762,
+      "word": "螺蛳粉何以持续火爆",
+      "onboard_time": 1661344713,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 367053,
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346640,
+      "num": 346640,
+      "word": "唐周在悄悄告别所有人",
+      "onboard_time": 1661350412,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346578,
       "num": 346578,
       "word": "丰盛求婚失败了又没完全失败",
@@ -1268,7 +1316,7 @@
     },
     {
       "raw_hot": 338897,
-      "num": 338897,
+      "num": 1544553,
       "word": "英国乐手科普台湾是中国一部分",
       "onboard_time": 1661342855,
       "rank": 34,
@@ -1329,14 +1377,6 @@
       "onboard_time": 1661268455,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335713,
-      "num": 335713,
-      "word": "螺蛳粉何以持续火爆",
-      "onboard_time": 1661344713,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 334583,
@@ -1467,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307141,
+      "num": 307141,
+      "word": "藿香正气冰中式走红网络",
+      "onboard_time": 1661349335,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 304914,
       "num": 304914,
       "word": "男子抡板凳殴打前妻被行拘",
@@ -1523,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288191,
+      "num": 288191,
+      "word": "陈宇出警是参加跑酷比赛吧",
+      "onboard_time": 1661349335,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287602,
       "num": 261260,
       "word": "周杰伦 靠感觉写歌",
@@ -1561,14 +1617,6 @@
       "onboard_time": 1661315076,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281208,
-      "num": 281208,
-      "word": "差点毁了妈妈的一世英名",
-      "onboard_time": 1661346812,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 274932,
@@ -1755,14 +1803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248528,
-      "num": 248528,
-      "word": "北京WB",
-      "onboard_time": 1661348376,
-      "rank": 37,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 245369,
       "num": 245369,
       "word": "没有废话的电影有多爽",
@@ -1907,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218428,
+      "num": 218428,
+      "word": "谢谢四六级站岗小狗",
+      "onboard_time": 1661350594,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 212992,
       "num": 167483,
       "word": "金枝欲孽在邓萃雯心中封神",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1661319274,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192372,
+      "num": 192372,
+      "word": "重庆增本土确诊23例无症状8例",
+      "onboard_time": 1661350475,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192060,
@@ -2120,6 +2176,22 @@
       "word": "九龙坡疫情防控",
       "onboard_time": 1661348313,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172366,
+      "num": 172366,
+      "word": "直击山东舰南海某海域实战化训练",
+      "onboard_time": 1661350535,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 171665,
+      "num": 171665,
+      "word": "天津疫情防控",
+      "onboard_time": 1661350234,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2412,6 +2484,9 @@
     },
     {
       "word": "#让改革发展成果惠及更多群众#"
+    },
+    {
+      "word": "#弘扬时代新风建设网络文明#"
     }
   ]
 }
