@@ -1,0 +1,410 @@
+{
+  "runTime": 1661340942599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4245505,
+        "num": 4245505,
+        "word": "微信支持一次发99张图片",
+        "onboard_time": 1661336970,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1506349,
+        "num": 1506349,
+        "word": "上海宜家储物柜区禁拍网红照",
+        "onboard_time": 1661335951,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105911,
+        "num": 1250089,
+        "word": "机械臂第一视角下的地球",
+        "onboard_time": 1661319754,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1106336,
+        "num": 1106336,
+        "word": "玄夜终于上线了",
+        "onboard_time": 1661337090,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730534,
+        "num": 730534,
+        "word": "张庭林瑞阳转战马来西亚",
+        "onboard_time": 1661325632,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 655835,
+        "num": 655835,
+        "word": "重庆一定赢",
+        "onboard_time": 1661335771,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594477,
+        "num": 594477,
+        "word": "四川气象台发暴雨蓝色预警",
+        "onboard_time": 1661335171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550909,
+        "num": 550909,
+        "word": "美军不到1个月至少偷7次叙石油",
+        "onboard_time": 1661329953,
+        "rank": 7,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 492420,
+        "num": 492420,
+        "word": "橘右京新皮肤",
+        "onboard_time": 1661335592,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 806850,
+        "num": 491743,
+        "word": "网传迪丽热巴王一博主演难哄",
+        "onboard_time": 1661318375,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663660,
+        "num": 470997,
+        "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+        "onboard_time": 1661326472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586300,
+        "num": 456595,
+        "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+        "onboard_time": 1661324731,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570564,
+        "num": 443209,
+        "word": "苍兰诀",
+        "onboard_time": 1661333431,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563354,
+        "num": 418589,
+        "word": "香川照之涉嫌猥亵女性",
+        "onboard_time": 1661338652,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554201,
+        "num": 399294,
+        "word": "一诺",
+        "onboard_time": 1661328031,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396929,
+        "num": 396929,
+        "word": "茶托女友一泡茶小1千2次约会花21万",
+        "onboard_time": 1661334272,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359264,
+        "num": 359264,
+        "word": "传苹果已开始研发iPhone15",
+        "onboard_time": 1661339433,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 340038,
+        "num": 340038,
+        "word": "四川省防指再发紧急通知",
+        "onboard_time": 1661334632,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320782,
+        "num": 320782,
+        "word": "竟然和一只狗搭讪失败了",
+        "onboard_time": 1661335713,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319197,
+        "num": 319197,
+        "word": "广州台风",
+        "onboard_time": 1661336612,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549480,
+        "num": 318577,
+        "word": "鞠婧祎洋娃娃造型",
+        "onboard_time": 1661334090,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434114,
+        "num": 318039,
+        "word": "冰雨火15集高能炸了",
+        "onboard_time": 1661339791,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426531,
+        "num": 317367,
+        "word": "颜淡捅了唐周",
+        "onboard_time": 1661338833,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316461,
+        "num": 316461,
+        "word": "小玖给一诺道歉",
+        "onboard_time": 1661334390,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311294,
+        "num": 311294,
+        "word": "拜登下令美军空袭叙利亚",
+        "onboard_time": 1661318134,
+        "rank": 24,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 298000,
+        "num": 298000,
+        "word": "43.9度四川高温再次刷新纪录",
+        "onboard_time": 1661330312,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288890,
+        "num": 288890,
+        "word": "半盒田咖啡被指歧视职场妈妈",
+        "onboard_time": 1661339012,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288714,
+        "num": 288714,
+        "word": "男子染幽门螺杆菌致全家老小阳性",
+        "onboard_time": 1661320950,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285225,
+        "num": 285225,
+        "word": "重庆摩托车队",
+        "onboard_time": 1661338530,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 262562,
+        "num": 262562,
+        "word": "重庆小伙两天两夜送物资累到浇水",
+        "onboard_time": 1661339791,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348122,
+        "num": 262012,
+        "word": "李顺圭确诊新冠",
+        "onboard_time": 1661340213,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332774,
+        "num": 261479,
+        "word": "凌不疑忍泪说不悔",
+        "onboard_time": 1661339371,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326280,
+        "num": 261454,
+        "word": "萧元漪痛哭挽留程少商",
+        "onboard_time": 1661336010,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260553,
+        "num": 260553,
+        "word": "gemini直播",
+        "onboard_time": 1661333071,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297047,
+        "num": 248557,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1661335112,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229960,
+        "num": 229960,
+        "word": "故宫研究员夸乾隆是个好设计师",
+        "onboard_time": 1661331272,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 211689,
+        "num": 211689,
+        "word": "原来我的祖先是反派",
+        "onboard_time": 1661337331,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208728,
+        "num": 208728,
+        "word": "永远相信EDG",
+        "onboard_time": 1661327551,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202155,
+        "num": 202155,
+        "word": "究竟是长大好还是小时候好",
+        "onboard_time": 1661338833,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183392,
+        "num": 183392,
+        "word": "悦鲜活回应专钓鲜女广告",
+        "onboard_time": 1661334512,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287017,
+        "num": 179928,
+        "word": "胡一天说辛苦了司徒颜",
+        "onboard_time": 1661336371,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176346,
+        "num": 176346,
+        "word": "悦鲜活发文致歉",
+        "onboard_time": 1661339851,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168076,
+        "num": 168076,
+        "word": "世界小姐",
+        "onboard_time": 1661340213,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 164170,
+        "num": 164170,
+        "word": "暧昧期怎么确认关系",
+        "onboard_time": 1661325873,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156040,
+        "num": 156040,
+        "word": "男童遭辗轧众人抬车30秒救出",
+        "onboard_time": 1661327131,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149945,
+        "num": 149945,
+        "word": "中学否认湖南师大研究生将入住",
+        "onboard_time": 1661328631,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148092,
+        "num": 148092,
+        "word": "深圳台风",
+        "onboard_time": 1661330671,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287338,
+        "num": 147916,
+        "word": "沉香重华",
+        "onboard_time": 1661340934,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210919,
+        "num": 147824,
+        "word": "怎么向前冲都卷到电竞圈了",
+        "onboard_time": 1661340934,
+        "rank": 48,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 147659,
+        "num": 147659,
+        "word": "男子5万元网上买到高仿路虎",
+        "onboard_time": 1661321192,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}
