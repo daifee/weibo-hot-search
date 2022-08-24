@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661336762596,
+  "endTime": 1661337723093,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 862589,
-      "num": 361487,
+      "num": 417350,
       "word": "鞠婧祎洋娃娃造型",
       "onboard_time": 1661334090,
       "rank": 20,
@@ -443,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 661711,
+      "num": 661711,
+      "word": "上海宜家储物柜区禁拍网红照",
+      "onboard_time": 1661335951,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657994,
       "num": 657994,
       "word": "中学否认湖南师大研究生将入住",
@@ -480,6 +488,14 @@
       "word": "15岁少年公交旅行4天9城花153元",
       "onboard_time": 1661294055,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615782,
+      "num": 615782,
+      "word": "四川气象台发暴雨蓝色预警",
+      "onboard_time": 1661335171,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -539,6 +555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 562679,
+      "num": 562679,
+      "word": "萧元漪痛哭挽留程少商",
+      "onboard_time": 1661336010,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 554567,
       "num": 554567,
       "word": "运油20歼20歼16三机同框照",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 545015,
-      "num": 463591,
+      "num": 509661,
       "word": "茶托女友一泡茶小1千2次约会花21万",
       "onboard_time": 1661334272,
       "rank": 13,
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526648,
+      "num": 526648,
+      "word": "橘右京新皮肤",
+      "onboard_time": 1661335592,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 521945,
       "num": 521945,
       "word": "沉香如屑灯塔2022网剧正片播放第一",
@@ -585,6 +617,14 @@
       "onboard_time": 1661325511,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508997,
+      "num": 508997,
+      "word": "玄夜终于上线了",
+      "onboard_time": 1661337090,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 507702,
@@ -643,20 +683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467359,
+      "num": 467359,
+      "word": "小玖给一诺道歉",
+      "onboard_time": 1661334390,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 464424,
       "num": 464424,
       "word": "四川一男子离家半月鱼池全晒干",
       "onboard_time": 1661314655,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461025,
-      "num": 461025,
-      "word": "小玖给一诺道歉",
-      "onboard_time": 1661334390,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 454593,
@@ -755,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419859,
+      "num": 419859,
+      "word": "竟然和一只狗搭讪失败了",
+      "onboard_time": 1661335713,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 419595,
       "num": 419595,
       "word": "秦俊杰两部新剧同时播出",
@@ -769,14 +817,6 @@
       "onboard_time": 1661296160,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 414557,
-      "num": 414557,
-      "word": "四川气象台发暴雨蓝色预警",
-      "onboard_time": 1661335171,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404469,
@@ -795,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403659,
-      "num": 403659,
-      "word": "橘右京新皮肤",
-      "onboard_time": 1661335592,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 402584,
       "num": 402584,
       "word": "管晨辰浙江大学报到",
@@ -811,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399959,
-      "num": 399959,
-      "word": "萧元漪痛哭挽留程少商",
-      "onboard_time": 1661336010,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 400033,
+      "num": 400033,
+      "word": "微信支持一次发99张图片",
+      "onboard_time": 1661336970,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 396439,
@@ -833,6 +865,14 @@
       "onboard_time": 1661300971,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394412,
+      "num": 394412,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1661336911,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 394255,
@@ -955,12 +995,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343546,
+      "num": 343546,
+      "word": "胡一天说辛苦了司徒颜",
+      "onboard_time": 1661336371,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342018,
       "num": 342018,
       "word": "玉骨遥",
       "onboard_time": 1661303433,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341086,
+      "num": 262869,
+      "word": "唐周说可是颜淡我不是他",
+      "onboard_time": 1661336311,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 339663,
+      "num": 339663,
+      "word": "重庆一定赢",
+      "onboard_time": 1661335771,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337910,
@@ -1035,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324642,
-      "num": 264325,
-      "word": "胡一天说辛苦了司徒颜",
-      "onboard_time": 1661336371,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 322494,
       "num": 322494,
       "word": "王栎鑫新歌",
@@ -1083,12 +1139,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315476,
-      "num": 315476,
-      "word": "竟然和一只狗搭讪失败了",
-      "onboard_time": 1661335713,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 312093,
+      "num": 252988,
+      "word": "意气风发的少年为爱低下了头",
+      "onboard_time": 1661337031,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 308110,
@@ -1096,6 +1152,14 @@
       "word": "飞狐外传定档0831",
       "onboard_time": 1661309311,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 307822,
+      "num": 251394,
+      "word": "苍兰诀海外弹幕",
+      "onboard_time": 1661336010,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1243,14 +1307,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 262869,
-      "num": 262869,
-      "word": "唐周说可是颜淡我不是他",
-      "onboard_time": 1661336311,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 262723,
       "num": 262723,
       "word": "重庆山火",
@@ -1283,20 +1339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255623,
+      "num": 255623,
+      "word": "广州台风",
+      "onboard_time": 1661336612,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254099,
       "num": 254099,
       "word": "消防车出警被私家车堵住车库门",
       "onboard_time": 1661308291,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251943,
-      "num": 218388,
-      "word": "苍兰诀海外弹幕",
-      "onboard_time": 1661336010,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 250900,
@@ -1329,14 +1385,6 @@
       "onboard_time": 1661269949,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244595,
-      "num": 244595,
-      "word": "重庆一定赢",
-      "onboard_time": 1661335771,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243374,
@@ -1385,14 +1433,6 @@
       "onboard_time": 1661272645,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234180,
-      "num": 234180,
-      "word": "上海宜家储物柜区禁拍网红照",
-      "onboard_time": 1661335951,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231420,
@@ -1603,6 +1643,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 182344,
+      "num": 182344,
+      "word": "研究称长得像DNA或也像",
+      "onboard_time": 1661333610,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 180905,
       "num": 180905,
       "word": "男子两进火场救八旬母亲和儿子",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1661317056,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 176369,
-      "num": 176369,
-      "word": "广州台风",
-      "onboard_time": 1661336612,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175279,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1661297243,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161628,
+      "num": 161628,
+      "word": "原来我的祖先是反派",
+      "onboard_time": 1661337331,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 161150,
