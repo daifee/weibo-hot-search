@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661355661324,
+  "endTime": 1661358644379,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1763191,
+      "num": 1763191,
+      "word": "新娘穿自己设计全粉婚纱结婚引热议",
+      "onboard_time": 1661352153,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1745932,
       "num": 1218335,
       "word": "吴磊赵露思婚服拍摄花絮",
@@ -481,14 +489,6 @@
       "onboard_time": 1661137232,
       "rank": 5,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1600011,
-      "num": 1600011,
-      "word": "新娘穿自己设计全粉婚纱结婚引热议",
-      "onboard_time": 1661352153,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1596298,
@@ -1075,6 +1075,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1000364,
+      "num": 197917,
+      "word": "老人街上疑故意蹭女生臀部",
+      "onboard_time": 1661356530,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998354,
       "num": 998354,
       "word": "待播古装剧存量",
@@ -1427,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 799271,
+      "num": 799271,
+      "word": "专家称取消公摊或影响购房者权利",
+      "onboard_time": 1661352637,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 798247,
       "num": 798247,
       "word": "一个班31名同学考上了浙大",
@@ -1619,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 730188,
-      "num": 730188,
-      "word": "专家称取消公摊或影响购房者权利",
-      "onboard_time": 1661352637,
-      "rank": 14,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 727468,
       "num": 727468,
       "word": "暧昧期怎么确认关系",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1661151092,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688823,
+      "num": 688823,
+      "word": "豆瓣评分在7分以上的古偶剧",
+      "onboard_time": 1661357907,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 688285,
@@ -2011,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613724,
+      "num": 613724,
+      "word": "音银涉嫌分数造假被立案",
+      "onboard_time": 1661356290,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 611325,
       "num": 611325,
       "word": "刘雨昕送王一博香菜大礼包",
@@ -2080,6 +2104,14 @@
       "word": "成都下雨刷屏朋友圈",
       "onboard_time": 1661304269,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583757,
+      "num": 583757,
+      "word": "缙云山",
+      "onboard_time": 1661128708,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4299,14 +4331,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 309372,
-      "num": 309372,
-      "word": "缙云山",
-      "onboard_time": 1661128708,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308110,
       "num": 308110,
       "word": "飞狐外传定档0831",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1661267797,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295854,
+      "num": 295854,
+      "word": "济南集中供冷至9月15日",
+      "onboard_time": 1661356772,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294206,
@@ -4817,6 +4849,14 @@
       "onboard_time": 1661141313,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271531,
+      "num": 271531,
+      "word": "何悯鸿早C晚C",
+      "onboard_time": 1661354255,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 271497,
@@ -5643,6 +5683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226963,
+      "num": 226963,
+      "word": "还以为误入了哪个武侠大片",
+      "onboard_time": 1661357489,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226106,
       "num": 226106,
       "word": "广州晚霞",
@@ -5905,14 +5953,6 @@
       "onboard_time": 1661340934,
       "rank": 48,
       "category": "游戏,幽默"
-    },
-    {
-      "raw_hot": 210919,
-      "num": 210919,
-      "word": "何悯鸿早C晚C",
-      "onboard_time": 1661354255,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 210695,
@@ -6329,6 +6369,14 @@
       "onboard_time": 1661183074,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189533,
+      "num": 182992,
+      "word": "宋亚轩个人短片乐园上线",
+      "onboard_time": 1661356772,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 189488,
@@ -6907,6 +6955,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 152990,
+      "num": 152990,
+      "word": "修长小腿就靠它了",
+      "onboard_time": 1661354611,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152113,
       "num": 152113,
       "word": "追光动画你最喜欢哪部",
@@ -6969,14 +7025,6 @@
       "onboard_time": 1661093853,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146644,
-      "num": 146644,
-      "word": "修长小腿就靠它了",
-      "onboard_time": 1661354611,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 144994,
