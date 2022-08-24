@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661337723093,
+  "endTime": 1661339939347,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -81,6 +81,14 @@
       "onboard_time": 1661225066,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3904408,
+      "num": 3904408,
+      "word": "微信支持一次发99张图片",
+      "onboard_time": 1661336970,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 3727200,
@@ -449,6 +457,14 @@
       "onboard_time": 1661147609,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1585273,
+      "num": 1585273,
+      "word": "上海宜家储物柜区禁拍网红照",
+      "onboard_time": 1661335951,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1574758,
@@ -832,6 +848,14 @@
       "word": "刘奕君贡献了冰雨火里唯一的吻戏",
       "onboard_time": 1661153071,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1106832,
+      "num": 1106832,
+      "word": "玄夜终于上线了",
+      "onboard_time": 1661337090,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -1651,14 +1675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 661711,
-      "num": 661711,
-      "word": "上海宜家储物柜区禁拍网红照",
-      "onboard_time": 1661335951,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 658861,
       "num": 567613,
       "word": "俞灏明王栎鑫再唱红日",
@@ -1817,6 +1833,14 @@
       "onboard_time": 1661222910,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600629,
+      "num": 600629,
+      "word": "橘右京新皮肤",
+      "onboard_time": 1661335592,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 598698,
@@ -2163,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526648,
-      "num": 526648,
-      "word": "橘右京新皮肤",
-      "onboard_time": 1661335592,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 524621,
       "num": 524621,
       "word": "警方通报男子半夜摸进合租女孩房间",
@@ -2216,14 +2232,6 @@
       "word": "王一博陈晓冰雨火没有吻戏",
       "onboard_time": 1661160872,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 508997,
-      "num": 508997,
-      "word": "玄夜终于上线了",
-      "onboard_time": 1661337090,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -2473,6 +2481,14 @@
       "onboard_time": 1661241510,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477570,
+      "num": 477570,
+      "word": "重庆一定赢",
+      "onboard_time": 1661335771,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476833,
@@ -2883,6 +2899,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 406129,
+      "num": 406129,
+      "word": "颜淡捅了唐周",
+      "onboard_time": 1661338833,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405176,
       "num": 405176,
       "word": "密室大逃脱",
@@ -2947,12 +2971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400033,
-      "num": 400033,
-      "word": "微信支持一次发99张图片",
-      "onboard_time": 1661336970,
+      "raw_hot": 399705,
+      "num": 364433,
+      "word": "香川照之涉嫌猥亵女性",
+      "onboard_time": 1661338652,
       "rank": 21,
-      "category": "科技"
+      "category": "艺人"
     },
     {
       "raw_hot": 399627,
@@ -3507,14 +3531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339663,
-      "num": 339663,
-      "word": "重庆一定赢",
-      "onboard_time": 1661335771,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339174,
       "num": 339174,
       "word": "N1",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1661268455,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334583,
+      "num": 230183,
+      "word": "凌不疑忍泪说不悔",
+      "onboard_time": 1661339371,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 334540,
@@ -3793,6 +3817,14 @@
       "onboard_time": 1661332411,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 318799,
+      "num": 227266,
+      "word": "冰雨火15集高能炸了",
+      "onboard_time": 1661339791,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 317798,
@@ -4025,6 +4057,14 @@
       "onboard_time": 1661263113,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292961,
+      "num": 292961,
+      "word": "广州台风",
+      "onboard_time": 1661336612,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292294,
@@ -4603,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257139,
+      "num": 257139,
+      "word": "重庆摩托车队",
+      "onboard_time": 1661338530,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 256843,
       "num": 256843,
       "word": "奉节山火",
@@ -4657,14 +4705,6 @@
       "onboard_time": 1661164951,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255623,
-      "num": 255623,
-      "word": "广州台风",
-      "onboard_time": 1661336612,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254858,
@@ -5203,6 +5243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220233,
+      "num": 220233,
+      "word": "半盒田咖啡被指歧视职场妈妈",
+      "onboard_time": 1661339012,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219714,
       "num": 219714,
       "word": "钎城哭了",
@@ -5411,6 +5459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206754,
+      "num": 206754,
+      "word": "究竟是长大好还是小时候好",
+      "onboard_time": 1661338833,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205881,
       "num": 205881,
       "word": "沉香重华",
@@ -5441,6 +5497,14 @@
       "onboard_time": 1661217869,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204928,
+      "num": 204928,
+      "word": "原来我的祖先是反派",
+      "onboard_time": 1661337331,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 204001,
@@ -6139,14 +6203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161628,
-      "num": 161628,
-      "word": "原来我的祖先是反派",
-      "onboard_time": 1661337331,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161528,
       "num": 161528,
       "word": "过路女子手机示警守护摔倒男子",
@@ -6281,6 +6337,14 @@
       "onboard_time": 1661270368,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 153625,
+      "num": 153625,
+      "word": "重庆小伙两天两夜送物资累到浇水",
+      "onboard_time": 1661339791,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152055,
@@ -6464,6 +6528,22 @@
       "word": "温江区重要提示如有重叠立即报备",
       "onboard_time": 1661096671,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136080,
+      "num": 136080,
+      "word": "传苹果已开始研发iPhone15",
+      "onboard_time": 1661339433,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 135186,
+      "num": 135186,
+      "word": "悦鲜活发文致歉",
+      "onboard_time": 1661339851,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
