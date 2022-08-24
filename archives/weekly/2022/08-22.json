@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661372572811,
+  "endTime": 1661373518914,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -7419,6 +7419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64930,
+      "num": 64930,
+      "word": "直击台风马鞍来袭",
+      "onboard_time": 1661367853,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64462,
       "num": 487445,
       "word": "67岁退伍军人患癌离世捐献眼角膜",
@@ -7441,14 +7449,6 @@
       "onboard_time": 1661365455,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 52623,
-      "num": 52623,
-      "word": "直击台风马鞍来袭",
-      "onboard_time": 1661367853,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46508,
@@ -7555,19 +7555,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13240,
+      "num": 13240,
+      "word": "WB零封ksg",
+      "onboard_time": 1661370852,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13208,
       "num": 508793,
       "word": "爱情债主陆林深",
       "onboard_time": 1661259633,
       "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 12463,
-      "num": 12463,
-      "word": "WB零封ksg",
-      "onboard_time": 1661370852,
-      "rank": 48,
       "category": "游戏"
     },
     {
@@ -7593,6 +7593,14 @@
       "onboard_time": 1661199732,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8497,
+      "num": 8497,
+      "word": "因井水起纷争老人被邻居打骨折",
+      "onboard_time": 1661373249,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 7438,
