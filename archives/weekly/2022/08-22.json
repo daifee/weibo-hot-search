@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661345013640,
+  "endTime": 1661346357266,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -795,6 +795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1157029,
+      "num": 1157029,
+      "word": "四川一镇突发大火多个居民楼被点燃",
+      "onboard_time": 1661343753,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1151804,
       "num": 1151804,
       "word": "古偶男二人设天花板",
@@ -969,6 +977,14 @@
       "onboard_time": 1661152470,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007089,
+      "num": 1007089,
+      "word": "鲸鱼的见证下我求婚了",
+      "onboard_time": 1661343035,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1005322,
@@ -1299,6 +1315,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 816960,
+      "num": 816960,
+      "word": "see",
+      "onboard_time": 1661343875,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 805851,
       "num": 805851,
       "word": "爱思嘲讽",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1661241510,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 729820,
-      "num": 729820,
-      "word": "鲸鱼的见证下我求婚了",
-      "onboard_time": 1661343035,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 727468,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1661338652,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 642097,
+      "num": 642097,
+      "word": "感受到男人娶老婆的快乐了",
+      "onboard_time": 1661342734,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 640005,
@@ -2059,14 +2083,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 564012,
-      "num": 564012,
-      "word": "四川一镇突发大火多个居民楼被点燃",
-      "onboard_time": 1661343753,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562701,
       "num": 562701,
       "word": "徐志胜熬夜假发片都熬掉了",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1661097150,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546710,
+      "num": 546710,
+      "word": "关晓彤徐梦洁扫楼生图",
+      "onboard_time": 1661342318,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 545015,
@@ -2675,14 +2699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461794,
-      "num": 461794,
-      "word": "关晓彤徐梦洁扫楼生图",
-      "onboard_time": 1661342318,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 460417,
       "num": 460417,
       "word": "日本东京发生随机砍人事件",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1661249912,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443618,
-      "num": 443618,
-      "word": "see",
-      "onboard_time": 1661343875,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 443358,
@@ -2897,14 +2905,6 @@
       "onboard_time": 1661212288,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 422172,
-      "num": 422172,
-      "word": "感受到男人娶老婆的快乐了",
-      "onboard_time": 1661342734,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 421517,
@@ -3475,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353910,
+      "num": 353910,
+      "word": "重庆山火扑救现场",
+      "onboard_time": 1661341717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352879,
       "num": 352879,
       "word": "谢谢你医生已过审",
@@ -3619,20 +3627,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 341239,
-      "num": 341239,
-      "word": "重庆山火扑救现场",
-      "onboard_time": 1661341717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341086,
       "num": 262869,
       "word": "唐周说可是颜淡我不是他",
       "onboard_time": 1661336311,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340796,
+      "num": 340796,
+      "word": "谢了四六级再谢四六鸡",
+      "onboard_time": 1661345314,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 339787,
@@ -3891,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325581,
+      "num": 325581,
+      "word": "KSG对战WB",
+      "onboard_time": 1661341717,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 325109,
       "num": 325109,
       "word": "河南特岗",
@@ -4001,6 +4017,14 @@
       "onboard_time": 1661170590,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314548,
+      "num": 314548,
+      "word": "英国乐手科普台湾是中国一部分",
+      "onboard_time": 1661342855,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313219,
@@ -4171,14 +4195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293952,
-      "num": 293952,
-      "word": "KSG对战WB",
-      "onboard_time": 1661341717,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 293366,
       "num": 244029,
       "word": "民国大侦探",
@@ -4193,6 +4209,14 @@
       "onboard_time": 1661263113,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292598,
+      "num": 292598,
+      "word": "国乒公布成都世乒赛选拔办法",
+      "onboard_time": 1661345136,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 292294,
@@ -4225,6 +4249,14 @@
       "onboard_time": 1661133751,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289633,
+      "num": 289633,
+      "word": "颜淡唐周梦中的婚礼",
+      "onboard_time": 1661344952,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 289621,
@@ -4403,14 +4435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279598,
-      "num": 155373,
-      "word": "颜淡唐周梦中的婚礼",
-      "onboard_time": 1661344952,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279496,
       "num": 279496,
       "word": "Doinb",
@@ -4473,6 +4497,14 @@
       "onboard_time": 1661150012,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274626,
+      "num": 274626,
+      "word": "叶蓁蓁清醒发言",
+      "onboard_time": 1661346031,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 274528,
@@ -5123,6 +5155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 235888,
+      "num": 235888,
+      "word": "大妈光脚踩高铁小桌板高声打电话",
+      "onboard_time": 1661344292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235826,
       "num": 235826,
       "word": "混入一群柯基的小法斗",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1661156913,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233759,
+      "num": 233759,
+      "word": "深圳科兴科学园疫情防控",
+      "onboard_time": 1661342617,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233233,
@@ -5379,6 +5427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221530,
+      "num": 221530,
+      "word": "螺蛳粉何以持续火爆",
+      "onboard_time": 1661344713,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 221149,
       "num": 183839,
       "word": "王源新歌涂鸦版海报",
@@ -5417,14 +5473,6 @@
       "onboard_time": 1661098109,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219295,
-      "num": 219295,
-      "word": "英国乐手科普台湾是中国一部分",
-      "onboard_time": 1661342855,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218706,
@@ -6419,14 +6467,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 159044,
-      "num": 159044,
-      "word": "深圳科兴科学园疫情防控",
-      "onboard_time": 1661342617,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158603,
       "num": 158603,
       "word": "尖齿卫矛",
@@ -6497,14 +6537,6 @@
       "onboard_time": 1661161893,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 156074,
-      "num": 156074,
-      "word": "大妈光脚踩高铁小桌板高声打电话",
-      "onboard_time": 1661344292,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154568,
@@ -6769,6 +6801,14 @@
       "onboard_time": 1661210964,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 129221,
+      "num": 129221,
+      "word": "广州队vs大连人",
+      "onboard_time": 1661345974,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127730,

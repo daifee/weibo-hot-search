@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661345013640,
+  "endTime": 1661346357266,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -8955,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157029,
+      "num": 1157029,
+      "word": "四川一镇突发大火多个居民楼被点燃",
+      "onboard_time": 1661343753,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1156590,
       "num": 983007,
       "word": "越妃你是我的神",
@@ -10777,6 +10785,14 @@
       "onboard_time": 1659876873,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1007089,
+      "num": 1007089,
+      "word": "鲸鱼的见证下我求婚了",
+      "onboard_time": 1661343035,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1006835,
@@ -13643,6 +13659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 816960,
+      "num": 816960,
+      "word": "see",
+      "onboard_time": 1661343875,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 816959,
       "num": 816959,
       "word": "王俊凯把自己交付给孟超",
@@ -15361,14 +15385,6 @@
       "onboard_time": 1659510418,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 729820,
-      "num": 729820,
-      "word": "鲸鱼的见证下我求婚了",
-      "onboard_time": 1661343035,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 729431,
@@ -17697,6 +17713,14 @@
       "onboard_time": 1659675341,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642097,
+      "num": 642097,
+      "word": "感受到男人娶老婆的快乐了",
+      "onboard_time": 1661342734,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 642083,
@@ -20259,14 +20283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 564012,
-      "num": 564012,
-      "word": "四川一镇突发大火多个居民楼被点燃",
-      "onboard_time": 1661343753,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 563956,
       "num": 563956,
       "word": "台湾地图上飘出山东味道",
@@ -21041,6 +21057,14 @@
       "onboard_time": 1660965506,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 546710,
+      "num": 546710,
+      "word": "关晓彤徐梦洁扫楼生图",
+      "onboard_time": 1661342318,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 546578,
@@ -25659,14 +25683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 461794,
-      "num": 461794,
-      "word": "关晓彤徐梦洁扫楼生图",
-      "onboard_time": 1661342318,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 461464,
       "num": 377625,
       "word": "赵露思月升沧海自白",
@@ -26745,14 +26761,6 @@
       "onboard_time": 1660649912,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 443618,
-      "num": 443618,
-      "word": "see",
-      "onboard_time": 1661343875,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 443442,
@@ -28345,14 +28353,6 @@
       "onboard_time": 1660559910,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422172,
-      "num": 422172,
-      "word": "感受到男人娶老婆的快乐了",
-      "onboard_time": 1661342734,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 422165,
@@ -34091,6 +34091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353910,
+      "num": 353910,
+      "word": "重庆山火扑救现场",
+      "onboard_time": 1661341717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353804,
       "num": 353804,
       "word": "每一个中国人都应铭记今天",
@@ -35395,14 +35403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341239,
-      "num": 341239,
-      "word": "重庆山火扑救现场",
-      "onboard_time": 1661341717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341226,
       "num": 251355,
       "word": "第二次拥抱姐姐们支持方原离婚",
@@ -35441,6 +35441,14 @@
       "onboard_time": 1659667176,
       "rank": 38,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 340796,
+      "num": 340796,
+      "word": "谢了四六级再谢四六鸡",
+      "onboard_time": 1661345314,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 340748,
@@ -37123,6 +37131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325581,
+      "num": 325581,
+      "word": "KSG对战WB",
+      "onboard_time": 1661341717,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 325515,
       "num": 325515,
       "word": "日本没有资格对台湾问题说三道四",
@@ -38081,6 +38097,14 @@
       "onboard_time": 1660274492,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314548,
+      "num": 314548,
+      "word": "英国乐手科普台湾是中国一部分",
+      "onboard_time": 1661342855,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314513,
@@ -39867,14 +39891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293952,
-      "num": 293952,
-      "word": "KSG对战WB",
-      "onboard_time": 1661341717,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 293835,
       "num": 293835,
       "word": "这瘦腿操是来报仇的吧",
@@ -40009,6 +40025,14 @@
       "onboard_time": 1660291052,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 292598,
+      "num": 292598,
+      "word": "国乒公布成都世乒赛选拔办法",
+      "onboard_time": 1661345136,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 292514,
@@ -40273,6 +40297,14 @@
       "onboard_time": 1659408701,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289633,
+      "num": 289633,
+      "word": "颜淡唐周梦中的婚礼",
+      "onboard_time": 1661344952,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 289485,
@@ -41219,14 +41251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279598,
-      "num": 155373,
-      "word": "颜淡唐周梦中的婚礼",
-      "onboard_time": 1661344952,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279433,
       "num": 279433,
       "word": "郭艾伦说转会不是为了名利",
@@ -41689,6 +41713,14 @@
       "onboard_time": 1659447340,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274626,
+      "num": 274626,
+      "word": "叶蓁蓁清醒发言",
+      "onboard_time": 1661346031,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 274580,
@@ -45611,6 +45643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235888,
+      "num": 235888,
+      "word": "大妈光脚踩高铁小桌板高声打电话",
+      "onboard_time": 1661344292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235862,
       "num": 235862,
       "word": "湛江新增本土确诊26例",
@@ -45825,6 +45865,14 @@
       "onboard_time": 1659275012,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233759,
+      "num": 233759,
+      "word": "深圳科兴科学园疫情防控",
+      "onboard_time": 1661342617,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233715,
@@ -47067,6 +47115,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 221530,
+      "num": 221530,
+      "word": "螺蛳粉何以持续火爆",
+      "onboard_time": 1661344713,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 221419,
       "num": 221419,
       "word": "证监会今日回应",
@@ -47233,14 +47289,6 @@
       "onboard_time": 1660282832,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219295,
-      "num": 219295,
-      "word": "英国乐手科普台湾是中国一部分",
-      "onboard_time": 1661342855,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219252,
@@ -51835,14 +51883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159044,
-      "num": 159044,
-      "word": "深圳科兴科学园疫情防控",
-      "onboard_time": 1661342617,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159022,
       "num": 159022,
       "word": "拉耳兔也太可爱了",
@@ -52008,14 +52048,6 @@
       "word": "71岁越野大爷2年内6次酒驾",
       "onboard_time": 1660026391,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156074,
-      "num": 156074,
-      "word": "大妈光脚踩高铁小桌板高声打电话",
-      "onboard_time": 1661344292,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -53121,6 +53153,14 @@
       "onboard_time": 1660656752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129221,
+      "num": 129221,
+      "word": "广州队vs大连人",
+      "onboard_time": 1661345974,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128898,

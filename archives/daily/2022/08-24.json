@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661345013640,
+  "endTime": 1661346357266,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157029,
+      "num": 1157029,
+      "word": "四川一镇突发大火多个居民楼被点燃",
+      "onboard_time": 1661343753,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1150502,
       "num": 1150502,
       "word": "A股",
@@ -233,6 +241,14 @@
       "onboard_time": 1661301212,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1007089,
+      "num": 1007089,
+      "word": "鲸鱼的见证下我求婚了",
+      "onboard_time": 1661343035,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1004552,
@@ -387,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 816960,
+      "num": 816960,
+      "word": "see",
+      "onboard_time": 1661343875,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 793646,
       "num": 793646,
       "word": "永远相信EDG",
@@ -425,14 +449,6 @@
       "onboard_time": 1661307749,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 729820,
-      "num": 729820,
-      "word": "鲸鱼的见证下我求婚了",
-      "onboard_time": 1661343035,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 727468,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642097,
+      "num": 642097,
+      "word": "感受到男人娶老婆的快乐了",
+      "onboard_time": 1661342734,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 640005,
       "num": 359444,
       "word": "郑秀妍一分钟学会一支舞",
@@ -643,14 +667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 564012,
-      "num": 564012,
-      "word": "四川一镇突发大火多个居民楼被点燃",
-      "onboard_time": 1661343753,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562679,
       "num": 562679,
       "word": "萧元漪痛哭挽留程少商",
@@ -665,6 +681,14 @@
       "onboard_time": 1661309611,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 546710,
+      "num": 546710,
+      "word": "关晓彤徐梦洁扫楼生图",
+      "onboard_time": 1661342318,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 545015,
@@ -787,28 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461794,
-      "num": 461794,
-      "word": "关晓彤徐梦洁扫楼生图",
-      "onboard_time": 1661342318,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 454593,
       "num": 454593,
       "word": "特种兵室内突击演习处处都是繁体字",
       "onboard_time": 1661267074,
       "rank": 25,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 443618,
-      "num": 443618,
-      "word": "see",
-      "onboard_time": 1661343875,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 440799,
@@ -849,6 +857,14 @@
       "onboard_time": 1661266357,
       "rank": 20,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 434949,
+      "num": 434949,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661345432,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434114,
@@ -913,14 +929,6 @@
       "onboard_time": 1661307869,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422172,
-      "num": 422172,
-      "word": "感受到男人娶老婆的快乐了",
-      "onboard_time": 1661342734,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 421428,
@@ -1099,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353910,
+      "num": 353910,
+      "word": "重庆山火扑救现场",
+      "onboard_time": 1661341717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351182,
       "num": 351182,
       "word": "世界小姐",
@@ -1155,20 +1171,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341239,
-      "num": 341239,
-      "word": "重庆山火扑救现场",
-      "onboard_time": 1661341717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341086,
       "num": 262869,
       "word": "唐周说可是颜淡我不是他",
       "onboard_time": 1661336311,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340796,
+      "num": 340796,
+      "word": "谢了四六级再谢四六鸡",
+      "onboard_time": 1661345314,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 337910,
@@ -1259,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325581,
+      "num": 325581,
+      "word": "KSG对战WB",
+      "onboard_time": 1661341717,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322494,
       "num": 322494,
       "word": "王栎鑫新歌",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1661266298,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314548,
+      "num": 314548,
+      "word": "英国乐手科普台湾是中国一部分",
+      "onboard_time": 1661342855,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312093,
@@ -1355,12 +1387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293952,
-      "num": 293952,
-      "word": "KSG对战WB",
-      "onboard_time": 1661341717,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 292598,
+      "num": 292598,
+      "word": "国乒公布成都世乒赛选拔办法",
+      "onboard_time": 1661345136,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289633,
+      "num": 289633,
+      "word": "颜淡唐周梦中的婚礼",
+      "onboard_time": 1661344952,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 289485,
@@ -1419,20 +1459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279598,
-      "num": 155373,
-      "word": "颜淡唐周梦中的婚礼",
-      "onboard_time": 1661344952,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274932,
       "num": 254262,
       "word": "张云龙一口气炫完一罐碳酸饮料",
       "onboard_time": 1661325028,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274626,
+      "num": 274626,
+      "word": "叶蓁蓁清醒发言",
+      "onboard_time": 1661346031,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 274186,
@@ -1627,12 +1667,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 235888,
+      "num": 235888,
+      "word": "大妈光脚踩高铁小桌板高声打电话",
+      "onboard_time": 1661344292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235384,
       "num": 235384,
       "word": "闪亮的日子豆瓣开分9.1",
       "onboard_time": 1661272645,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233759,
+      "num": 233759,
+      "word": "深圳科兴科学园疫情防控",
+      "onboard_time": 1661342617,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231420,
@@ -1699,12 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219295,
-      "num": 219295,
-      "word": "英国乐手科普台湾是中国一部分",
-      "onboard_time": 1661342855,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 221530,
+      "num": 221530,
+      "word": "螺蛳粉何以持续火爆",
+      "onboard_time": 1661344713,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 218706,
@@ -2019,28 +2075,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 159044,
-      "num": 159044,
-      "word": "深圳科兴科学园疫情防控",
-      "onboard_time": 1661342617,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156488,
       "num": 156488,
       "word": "824科比日",
       "onboard_time": 1661314412,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156074,
-      "num": 156074,
-      "word": "大妈光脚踩高铁小桌板高声打电话",
-      "onboard_time": 1661344292,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154568,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1661330074,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129221,
+      "num": 129221,
+      "word": "广州队vs大连人",
+      "onboard_time": 1661345974,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125195,
