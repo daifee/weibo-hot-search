@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661297829373,
+  "endTime": 1661307612207,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -49,6 +49,14 @@
       "onboard_time": 1661249672,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4554975,
+      "num": 4554975,
+      "word": "朋友圈可以修改可见范围了",
+      "onboard_time": 1661300852,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 4410228,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1282806,
+      "num": 1282806,
+      "word": "男性生育前检查很有必要",
+      "onboard_time": 1661300072,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269661,
       "num": 1269661,
       "word": "余生请多指教获得腾讯业务突破奖",
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1046620,
+      "num": 1046620,
+      "word": "佩洛西丈夫因酒驾被判囚5天",
+      "onboard_time": 1661301212,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1041008,
       "num": 1041008,
       "word": "暑期档三部古装剧豆瓣评分",
@@ -883,6 +907,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 906862,
+      "num": 906862,
+      "word": "成都下雨",
+      "onboard_time": 1661300971,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897339,
       "num": 897339,
       "word": "KSG战胜AG",
@@ -953,6 +985,14 @@
       "onboard_time": 1661183673,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 853776,
+      "num": 853776,
+      "word": "中国作协回应贾浅浅拟入争议",
+      "onboard_time": 1661304151,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 845524,
@@ -1203,6 +1243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696588,
+      "num": 696588,
+      "word": "房地产央国企一日4名高管落马",
+      "onboard_time": 1661301811,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695616,
+      "num": 695616,
+      "word": "苏州KSG人员处罚公告",
+      "onboard_time": 1661305712,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 694579,
       "num": 694579,
       "word": "台湾一高中生为赚36万把好友卖去柬埔寨",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1661227233,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 684363,
+      "num": 684363,
+      "word": "原神",
+      "onboard_time": 1661165012,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 681238,
@@ -1467,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 585342,
+      "num": 585342,
+      "word": "成都下雨刷屏朋友圈",
+      "onboard_time": 1661304269,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581305,
       "num": 581305,
       "word": "秦俊杰首演金庸男主",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1661166450,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 573379,
+      "num": 573379,
+      "word": "乐山大佛真身一直都看得到",
+      "onboard_time": 1661297002,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572383,
@@ -1635,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540768,
+      "num": 540768,
+      "word": "发现了自己朋友很少的原因",
+      "onboard_time": 1661303733,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540726,
       "num": 540726,
       "word": "爱情而已",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1661228673,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 536666,
+      "num": 536666,
+      "word": "武汉发现2例无症状感染者",
+      "onboard_time": 1661306249,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535206,
@@ -1691,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531192,
+      "num": 531192,
+      "word": "NASA发布来自黑洞的声音",
+      "onboard_time": 1661297964,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 527051,
       "num": 527051,
       "word": "川渝好像有高温结界",
@@ -1713,6 +1817,14 @@
       "onboard_time": 1661143536,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521945,
+      "num": 521945,
+      "word": "沉香如屑灯塔2022网剧正片播放第一",
+      "onboard_time": 1661301272,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 521508,
@@ -2187,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417134,
+      "num": 417134,
+      "word": "古偶女二人设天花板",
+      "onboard_time": 1661296160,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416711,
       "num": 416711,
       "word": "重庆巴南山火当地紧急招募志愿者",
@@ -2291,6 +2411,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396439,
+      "num": 396439,
+      "word": "房屋面积缩水超3%购房人可退房退款",
+      "onboard_time": 1661298264,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395947,
+      "num": 395947,
+      "word": "重庆新增本土确诊21例",
+      "onboard_time": 1661300971,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395898,
       "num": 395898,
       "word": "张朝阳称睡四个小时完美",
@@ -2361,6 +2497,14 @@
       "onboard_time": 1661212648,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386684,
+      "num": 386684,
+      "word": "冰雨火运毒手段好真实",
+      "onboard_time": 1661303489,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 386579,
@@ -2675,6 +2819,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 345349,
+      "num": 345349,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1661222070,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345030,
       "num": 345030,
       "word": "欠钱的朋友把小狗送我了",
@@ -2763,6 +2915,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 336981,
+      "num": 336981,
+      "word": "曾黎直播",
+      "onboard_time": 1661305409,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336963,
       "num": 315488,
       "word": "被一部丧尸片治愈到了",
@@ -2793,6 +2953,14 @@
       "onboard_time": 1661091333,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335988,
+      "num": 335988,
+      "word": "河南新增本土确诊3例无症状16例",
+      "onboard_time": 1661305470,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335843,
@@ -2857,14 +3025,6 @@
       "onboard_time": 1661144253,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328436,
-      "num": 328436,
-      "word": "古偶女二人设天花板",
-      "onboard_time": 1661296160,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 327443,
@@ -2945,14 +3105,6 @@
       "onboard_time": 1661228915,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316831,
-      "num": 316831,
-      "word": "原神",
-      "onboard_time": 1661165012,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 316154,
@@ -3403,6 +3555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268605,
+      "num": 268605,
+      "word": "二百二十斤的人跳蹦蹦床",
+      "onboard_time": 1661298264,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268518,
       "num": 268518,
       "word": "妹妹患癌父母残疾18岁女孩撑起全家",
@@ -3577,6 +3737,14 @@
       "onboard_time": 1661157813,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258697,
+      "num": 258697,
+      "word": "西藏增本土无症状543例",
+      "onboard_time": 1661307152,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258637,
@@ -3755,6 +3923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246291,
+      "num": 246291,
+      "word": "男子抡板凳殴打前妻被行拘",
+      "onboard_time": 1661304630,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246251,
       "num": 240364,
       "word": "满堂音乐节阵容官宣",
@@ -3907,14 +4083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231915,
-      "num": 231915,
-      "word": "乐山大佛真身一直都看得到",
-      "onboard_time": 1661297002,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231212,
       "num": 231212,
       "word": "朱正廷为做好盛典主持人有多努力",
@@ -3961,14 +4129,6 @@
       "onboard_time": 1661237131,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 229162,
-      "num": 229162,
-      "word": "沈阳疫情防控",
-      "onboard_time": 1661222070,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228905,
@@ -4193,6 +4353,14 @@
       "onboard_time": 1661157394,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211480,
+      "num": 211480,
+      "word": "佩洛西丈夫承认酒驾",
+      "onboard_time": 1661301089,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 210695,
@@ -4643,6 +4811,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 180065,
+      "num": 180065,
+      "word": "石家庄人民医院回应空调外机放大厅",
+      "onboard_time": 1661299650,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179735,
       "num": 179735,
       "word": "处暑 节气",
@@ -4752,6 +4928,30 @@
       "word": "重庆调整部分商场营业时间",
       "onboard_time": 1661153735,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171155,
+      "num": 171155,
+      "word": "南方降温时间表",
+      "onboard_time": 1661307091,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170711,
+      "num": 170711,
+      "word": "华为Mate50或将提振市场信心",
+      "onboard_time": 1661307509,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 170605,
+      "num": 170605,
+      "word": "武汉核酸",
+      "onboard_time": 1661301392,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4865,6 +5065,14 @@
       "onboard_time": 1661223748,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 159959,
+      "num": 159959,
+      "word": "五年级小朋友做的3D建模",
+      "onboard_time": 1661298025,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159736,
@@ -5465,6 +5673,14 @@
       "onboard_time": 1661199732,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7438,
+      "num": 540750,
+      "word": "奶爸用车如何选",
+      "onboard_time": 1661306431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4405,
