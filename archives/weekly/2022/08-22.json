@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661325616929,
+  "endTime": 1661326586521,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 5079390,
-      "num": 1492294,
+      "num": 1929149,
       "word": "网传迪丽热巴王一博主演难哄",
       "onboard_time": 1661318375,
       "rank": 3,
@@ -225,6 +225,14 @@
       "onboard_time": 1661307930,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2509859,
+      "num": 2509859,
+      "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
+      "onboard_time": 1661324731,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2498456,
@@ -553,14 +561,6 @@
       "onboard_time": 1661243072,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1336251,
-      "num": 582074,
-      "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
-      "onboard_time": 1661324731,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1325483,
@@ -979,6 +979,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 963202,
+      "num": 963202,
+      "word": "女子用脚趾解开自家指纹锁",
+      "onboard_time": 1661322213,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 962990,
       "num": 553110,
       "word": "顾客称裸身被困酒店淋浴房",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1661132012,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 919607,
-      "num": 919607,
-      "word": "女子用脚趾解开自家指纹锁",
-      "onboard_time": 1661322213,
-      "rank": 37,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 918987,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1661263417,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 662381,
+      "num": 491259,
+      "word": "常州全面取消二手房限售",
+      "onboard_time": 1661324251,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 658861,
@@ -2323,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474639,
+      "num": 474639,
+      "word": "四川高校学生退机票被收手续费",
+      "onboard_time": 1661322871,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473279,
       "num": 473279,
       "word": "清川元梦去世",
@@ -2384,14 +2400,6 @@
       "word": "北京八宝山天元殡仪被罚",
       "onboard_time": 1661242891,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464736,
-      "num": 464736,
-      "word": "四川高校学生退机票被收手续费",
-      "onboard_time": 1661322871,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2513,6 +2521,22 @@
       "onboard_time": 1661140413,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433384,
+      "num": 433384,
+      "word": "张庭林瑞阳转战马来西亚",
+      "onboard_time": 1661325632,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 429881,
+      "num": 429881,
+      "word": "倪光南称中国芯片走第三条路",
+      "onboard_time": 1661323412,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 429024,
@@ -2721,14 +2745,6 @@
       "onboard_time": 1661159551,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397874,
-      "num": 397874,
-      "word": "常州全面取消二手房限售",
-      "onboard_time": 1661324251,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 397191,
@@ -3009,14 +3025,6 @@
       "onboard_time": 1661296640,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365664,
-      "num": 365664,
-      "word": "倪光南称中国芯片走第三条路",
-      "onboard_time": 1661323412,
-      "rank": 42,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 365589,
@@ -3385,6 +3393,14 @@
       "onboard_time": 1661156313,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329710,
+      "num": 329710,
+      "word": "众星给黄明昊新专辑打call",
+      "onboard_time": 1661325151,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 329701,
@@ -3763,14 +3779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287018,
-      "num": 287018,
-      "word": "众星给黄明昊新专辑打call",
-      "onboard_time": 1661325151,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 286868,
       "num": 286868,
       "word": "沙特阿拉伯批准微软收购暴雪",
@@ -3915,6 +3923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274932,
+      "num": 219722,
+      "word": "张云龙一口气炫完一罐碳酸饮料",
+      "onboard_time": 1661325028,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274860,
       "num": 274860,
       "word": "多地回应未收到更换新国标红绿灯通知",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1661316159,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270383,
+      "num": 270383,
+      "word": "管晨辰浙江大学报到",
+      "onboard_time": 1661324071,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 269888,
@@ -4225,6 +4249,14 @@
       "onboard_time": 1661221651,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258230,
+      "num": 258230,
+      "word": "还好没在贵州考科目二",
+      "onboard_time": 1661324251,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 256843,
@@ -4619,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230413,
+      "num": 230413,
+      "word": "台风马鞍",
+      "onboard_time": 1661325151,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229903,
       "num": 229903,
       "word": "公安部辟谣2022红绿灯新国标",
@@ -4705,14 +4745,6 @@
       "onboard_time": 1661125706,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225065,
-      "num": 206033,
-      "word": "张云龙一口气炫完一罐碳酸饮料",
-      "onboard_time": 1661325028,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 224838,
@@ -4907,14 +4939,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 211395,
-      "num": 211395,
-      "word": "还好没在贵州考科目二",
-      "onboard_time": 1661324251,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210695,
       "num": 210695,
       "word": "成都疫情防控",
@@ -4971,14 +4995,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 207926,
-      "num": 207926,
-      "word": "管晨辰浙江大学报到",
-      "onboard_time": 1661324071,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207827,
       "num": 207827,
       "word": "林柏叡说觞阙脑子都用来谈恋爱了",
@@ -5033,6 +5049,14 @@
       "onboard_time": 1661217869,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204773,
+      "num": 204773,
+      "word": "暧昧期怎么确认关系",
+      "onboard_time": 1661325873,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 204001,
@@ -5267,6 +5291,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 191352,
+      "num": 174379,
+      "word": "颜淡唐周大婚彩排",
+      "onboard_time": 1661326409,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190856,
       "num": 190856,
       "word": "人类可以完全信任自动驾驶吗",
@@ -5315,6 +5347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188671,
+      "num": 188671,
+      "word": "百岁老人戒指卡手不愿摘",
+      "onboard_time": 1661325511,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "光与夜之恋",
@@ -5339,20 +5379,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186251,
-      "num": 188825,
-      "word": "台风马鞍",
-      "onboard_time": 1661325151,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185043,
       "num": 185043,
       "word": "2号线杨家坪动物园站暂停服务",
       "onboard_time": 1661160452,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183533,
+      "num": 1950284,
+      "word": "机械臂第一视角下的地球",
+      "onboard_time": 1661319754,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 182200,
@@ -5369,6 +5409,14 @@
       "onboard_time": 1661220389,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181032,
+      "num": 181032,
+      "word": "空军发言人展示的课本封面是它",
+      "onboard_time": 1661324549,
+      "rank": 44,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 180947,
@@ -5449,14 +5497,6 @@
       "onboard_time": 1661319575,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178995,
-      "num": 1505872,
-      "word": "机械臂第一视角下的地球",
-      "onboard_time": 1661319754,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 178141,
@@ -5675,14 +5715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162601,
-      "num": 162601,
-      "word": "空军发言人展示的课本封面是它",
-      "onboard_time": 1661324549,
-      "rank": 44,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 161706,
       "num": 161706,
       "word": "JDG对战LNG",
@@ -5859,6 +5891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148881,
+      "num": 148881,
+      "word": "未开封初代iPod售价约17万元",
+      "onboard_time": 1661324909,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 148560,
       "num": 148560,
       "word": "TES",
@@ -5873,6 +5913,14 @@
       "onboard_time": 1661093853,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146045,
+      "num": 146045,
+      "word": "男孩吃半斤瓜子不吐壳肛门被堵",
+      "onboard_time": 1661326472,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144994,
@@ -5913,14 +5961,6 @@
       "onboard_time": 1661095293,
       "rank": 42,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 143190,
-      "num": 143190,
-      "word": "未开封初代iPod售价约17万元",
-      "onboard_time": 1661324909,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 142720,
@@ -6081,14 +6121,6 @@
       "onboard_time": 1661170230,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120573,
-      "num": 120573,
-      "word": "百岁老人戒指卡手不愿摘",
-      "onboard_time": 1661325511,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119940,
