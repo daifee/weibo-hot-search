@@ -1,6 +1,6 @@
 {
   "startTime": 1661272220373,
-  "endTime": 1661332891737,
+  "endTime": 1661333908386,
   "band_list": [
     {
       "raw_hot": 5079390,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173480,
+      "num": 1173480,
+      "word": "43.9度四川高温再次刷新纪录",
+      "onboard_time": 1661330312,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1150502,
       "num": 1150502,
       "word": "A股",
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1106164,
+      "num": 925546,
+      "word": "王鹤棣为黄明昊新专辑打call",
+      "onboard_time": 1661333252,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1046620,
       "num": 1046620,
       "word": "佩洛西丈夫因酒驾被判囚5天",
       "onboard_time": 1661301212,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1032003,
-      "num": 1032003,
-      "word": "43.9度四川高温再次刷新纪录",
-      "onboard_time": 1661330312,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004552,
@@ -249,6 +257,14 @@
       "onboard_time": 1661321192,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967788,
+      "num": 967788,
+      "word": "美军不到1个月至少偷7次叙石油",
+      "onboard_time": 1661329953,
+      "rank": 43,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 963202,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857299,
+      "num": 857299,
+      "word": "故宫研究员夸乾隆是个好设计师",
+      "onboard_time": 1661331272,
+      "rank": 15,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 840716,
       "num": 840716,
       "word": "武汉疫情防控",
@@ -353,14 +377,6 @@
       "onboard_time": 1661325873,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 709729,
-      "num": 709729,
-      "word": "美军不到1个月至少偷7次叙石油",
-      "onboard_time": 1661329953,
-      "rank": 43,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 701286,
@@ -457,14 +473,6 @@
       "onboard_time": 1661262453,
       "rank": 9,
       "category": "其它"
-    },
-    {
-      "raw_hot": 594364,
-      "num": 594364,
-      "word": "故宫研究员夸乾隆是个好设计师",
-      "onboard_time": 1661331272,
-      "rank": 15,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 585342,
@@ -947,6 +955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322494,
+      "num": 322494,
+      "word": "王栎鑫新歌",
+      "onboard_time": 1661330730,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 318978,
+      "num": 318978,
+      "word": "小狗也会有打嗝的烦恼",
+      "onboard_time": 1661332411,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 317798,
       "num": 317798,
       "word": "AG菲菲发文",
@@ -969,14 +993,6 @@
       "onboard_time": 1661266298,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312426,
-      "num": 312426,
-      "word": "王栎鑫新歌",
-      "onboard_time": 1661330730,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 308110,
@@ -1083,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269807,
+      "num": 269807,
+      "word": "当父母知道要开学了",
+      "onboard_time": 1661329173,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269418,
       "num": 269418,
       "word": "看INTO1采访多少有点费耳朵",
@@ -1123,12 +1147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260264,
-      "num": 260264,
-      "word": "当父母知道要开学了",
-      "onboard_time": 1661329173,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 259380,
+      "num": 259380,
+      "word": "冰雨火",
+      "onboard_time": 1661333193,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 258697,
@@ -1139,19 +1163,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256682,
+      "num": 256682,
+      "word": "深圳台风",
+      "onboard_time": 1661330671,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254099,
       "num": 254099,
       "word": "消防车出警被私家车堵住车库门",
       "onboard_time": 1661308291,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253314,
-      "num": 253314,
-      "word": "深圳台风",
-      "onboard_time": 1661330671,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1267,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225270,
+      "num": 225270,
+      "word": "gemini直播",
+      "onboard_time": 1661333071,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225174,
       "num": 225174,
       "word": "网传慧聪网发布停工待岗通知",
@@ -1355,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192060,
+      "num": 192060,
+      "word": "校方回应湖南师大研究生住宿问题",
+      "onboard_time": 1661333132,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 190547,
       "num": 190547,
       "word": "包机上同济是种什么体验",
@@ -1369,6 +1409,30 @@
       "onboard_time": 1661265456,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 189005,
+      "num": 189005,
+      "word": "苍兰诀",
+      "onboard_time": 1661333431,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188820,
+      "num": 188820,
+      "word": "公摊面积到底怎么算",
+      "onboard_time": 1661332711,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 186202,
+      "num": 600382,
+      "word": "重庆有我们请放心",
+      "onboard_time": 1661331631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185234,
@@ -1451,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170218,
+      "num": 170218,
+      "word": "李东海宋昰昀将出演新剧",
+      "onboard_time": 1661333132,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169979,
       "num": 169979,
       "word": "华润置地原董事局主席唐勇被查",
@@ -1467,14 +1539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168739,
-      "num": 600382,
-      "word": "重庆有我们请放心",
-      "onboard_time": 1661331631,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167664,
       "num": 167664,
       "word": "任贤齐苏有朋王大陆录制你好星期六",
@@ -1483,20 +1547,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167557,
+      "num": 167557,
+      "word": "关晓彤直播",
+      "onboard_time": 1661333791,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164820,
       "num": 164820,
       "word": "京东发布2022年第二季度财报",
       "onboard_time": 1661266477,
       "rank": 42,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 163850,
-      "num": 163850,
-      "word": "小狗也会有打嗝的烦恼",
-      "onboard_time": 1661332411,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 162816,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1661314412,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156235,
+      "num": 156235,
+      "word": "研究称长的像DNA或也像",
+      "onboard_time": 1661333610,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 154568,
@@ -1601,14 +1673,6 @@
       "onboard_time": 1661330074,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132569,
-      "num": 132569,
-      "word": "公摊面积到底怎么算",
-      "onboard_time": 1661332711,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 125195,

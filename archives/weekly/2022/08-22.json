@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661332891737,
+  "endTime": 1661333908386,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -755,6 +755,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1173480,
+      "num": 1173480,
+      "word": "43.9度四川高温再次刷新纪录",
+      "onboard_time": 1661330312,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1169773,
       "num": 1169773,
       "word": "华为要把活下来作为主要纲领",
@@ -825,6 +833,14 @@
       "onboard_time": 1661153071,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1106164,
+      "num": 925546,
+      "word": "王鹤棣为黄明昊新专辑打call",
+      "onboard_time": 1661333252,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1104140,
@@ -915,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1032003,
-      "num": 1032003,
-      "word": "43.9度四川高温再次刷新纪录",
-      "onboard_time": 1661330312,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1029595,
       "num": 1029595,
       "word": "香飘飘半年赔上亿",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1661321192,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967788,
+      "num": 967788,
+      "word": "美军不到1个月至少偷7次叙石油",
+      "onboard_time": 1661329953,
+      "rank": 43,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 965751,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1661313095,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857299,
+      "num": 857299,
+      "word": "故宫研究员夸乾隆是个好设计师",
+      "onboard_time": 1661331272,
+      "rank": 15,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 845524,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1661141071,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709729,
-      "num": 709729,
-      "word": "美军不到1个月至少偷7次叙石油",
-      "onboard_time": 1661329953,
-      "rank": 43,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 701156,
@@ -1793,14 +1809,6 @@
       "onboard_time": 1661140713,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 594364,
-      "num": 594364,
-      "word": "故宫研究员夸乾隆是个好设计师",
-      "onboard_time": 1661331272,
-      "rank": 15,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 585383,
@@ -3611,6 +3619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322494,
+      "num": 322494,
+      "word": "王栎鑫新歌",
+      "onboard_time": 1661330730,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322297,
       "num": 322297,
       "word": "男子远隔千里被喷比榴莲还臭",
@@ -3625,6 +3641,14 @@
       "onboard_time": 1661265935,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 318978,
+      "num": 318978,
+      "word": "小狗也会有打嗝的烦恼",
+      "onboard_time": 1661332411,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 317798,
@@ -3681,14 +3705,6 @@
       "onboard_time": 1661230535,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312426,
-      "num": 312426,
-      "word": "王栎鑫新歌",
-      "onboard_time": 1661330730,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 310794,
@@ -4187,6 +4203,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 269807,
+      "num": 269807,
+      "word": "当父母知道要开学了",
+      "onboard_time": 1661329173,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269418,
       "num": 269418,
       "word": "看INTO1采访多少有点费耳朵",
@@ -4348,7 +4372,7 @@
     },
     {
       "raw_hot": 261738,
-      "num": 225573,
+      "num": 259380,
       "word": "冰雨火",
       "onboard_time": 1661146710,
       "rank": 44,
@@ -4385,14 +4409,6 @@
       "onboard_time": 1661106792,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260264,
-      "num": 260264,
-      "word": "当父母知道要开学了",
-      "onboard_time": 1661329173,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 259755,
@@ -4433,6 +4449,14 @@
       "onboard_time": 1661099246,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256682,
+      "num": 256682,
+      "word": "深圳台风",
+      "onboard_time": 1661330671,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256621,
@@ -4513,14 +4537,6 @@
       "onboard_time": 1661162013,
       "rank": 31,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 253314,
-      "num": 253314,
-      "word": "深圳台风",
-      "onboard_time": 1661330671,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252581,
@@ -4913,6 +4929,14 @@
       "onboard_time": 1661317955,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225270,
+      "num": 225270,
+      "word": "gemini直播",
+      "onboard_time": 1661333071,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 225174,
@@ -5467,6 +5491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192060,
+      "num": 192060,
+      "word": "校方回应湖南师大研究生住宿问题",
+      "onboard_time": 1661333132,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 191469,
       "num": 191469,
       "word": "隐入尘烟",
@@ -5531,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188820,
+      "num": 188820,
+      "word": "公摊面积到底怎么算",
+      "onboard_time": 1661332711,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "光与夜之恋",
@@ -5553,6 +5593,14 @@
       "onboard_time": 1661249972,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186202,
+      "num": 600382,
+      "word": "重庆有我们请放心",
+      "onboard_time": 1661331631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185043,
@@ -5803,6 +5851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170218,
+      "num": 170218,
+      "word": "李东海宋昰昀将出演新剧",
+      "onboard_time": 1661333132,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169519,
       "num": 169519,
       "word": "吴振峰是卧底",
@@ -5816,14 +5872,6 @@
       "word": "河北涿州市实行全域静默管理",
       "onboard_time": 1661252850,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168739,
-      "num": 600382,
-      "word": "重庆有我们请放心",
-      "onboard_time": 1661331631,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5859,6 +5907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167557,
+      "num": 167557,
+      "word": "关晓彤直播",
+      "onboard_time": 1661333791,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166590,
       "num": 166590,
       "word": "汪曾祺的文字到底有多治愈",
@@ -5873,14 +5929,6 @@
       "onboard_time": 1661264733,
       "rank": 43,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 163850,
-      "num": 163850,
-      "word": "小狗也会有打嗝的烦恼",
-      "onboard_time": 1661332411,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 162816,
@@ -6025,6 +6073,14 @@
       "onboard_time": 1661314412,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156235,
+      "num": 156235,
+      "word": "研究称长的像DNA或也像",
+      "onboard_time": 1661333610,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 156145,
@@ -6257,14 +6313,6 @@
       "onboard_time": 1661250871,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132569,
-      "num": 132569,
-      "word": "公摊面积到底怎么算",
-      "onboard_time": 1661332711,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 131473,
