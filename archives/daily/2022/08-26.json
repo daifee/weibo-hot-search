@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661448188462,
+  "endTime": 1661449181011,
   "band_list": [
     {
       "raw_hot": 2879250,
@@ -417,6 +417,14 @@
       "onboard_time": 1661402315,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 47447,
+      "num": 47447,
+      "word": "罚罪",
+      "onboard_time": 1661438509,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
