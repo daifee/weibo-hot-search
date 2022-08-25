@@ -1,0 +1,410 @@
+{
+  "runTime": 1661413235365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2285459,
+        "num": 2285459,
+        "word": "官方通报玉龙雪山雷击致人死亡事件",
+        "onboard_time": 1661405969,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1829162,
+        "num": 1829162,
+        "word": "齐司礼",
+        "onboard_time": 1661402497,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59288,
+        "num": 1729447,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1693124,
+        "num": 1693124,
+        "word": "成都免费取水冰柜里的水越取越多",
+        "onboard_time": 1661409808,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1113080,
+        "num": 1113080,
+        "word": "汝州 怪鱼",
+        "onboard_time": 1661409450,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906444,
+        "num": 906444,
+        "word": "苍兰诀将在网飞上线",
+        "onboard_time": 1661411608,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721747,
+        "num": 721747,
+        "word": "新郎雨天拍婚纱照疑遭雷击去世",
+        "onboard_time": 1661398472,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615473,
+        "num": 615473,
+        "word": "退休老人困在山东乳山海景房",
+        "onboard_time": 1661408789,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425606,
+        "num": 425606,
+        "word": "中央预备费拿出100亿元重点支持中稻抗旱",
+        "onboard_time": 1661392471,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 424537,
+        "num": 424537,
+        "word": "超七成观众愿接受付费直播大结局",
+        "onboard_time": 1661398774,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1855736,
+        "num": 424339,
+        "word": "浪莎向李易峰公开道歉",
+        "onboard_time": 1661409748,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854646,
+        "num": 419617,
+        "word": "王鹤棣回应去年古偶丑男今年美男",
+        "onboard_time": 1661404950,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 812423,
+        "num": 417851,
+        "word": "微信支付宝测试信用卡取现",
+        "onboard_time": 1661406869,
+        "rank": 12,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 763585,
+        "num": 414755,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117804,
+        "num": 411711,
+        "word": "重庆徒步大军接力运送救火物资",
+        "onboard_time": 1661410887,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408533,
+        "num": 408533,
+        "word": "老人凌晨被扔半路女子装顺路送回",
+        "onboard_time": 1661412210,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 405704,
+        "num": 405704,
+        "word": "3岁女童胸腔肿瘤如成人拳头大小",
+        "onboard_time": 1661408547,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401623,
+        "num": 401623,
+        "word": "iPhone手机15年拍照进化",
+        "onboard_time": 1661407466,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 396066,
+        "num": 396066,
+        "word": "ITZY成员签售会修命簿",
+        "onboard_time": 1661408070,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385915,
+        "num": 385915,
+        "word": "为什么漂亮女孩成长更不容易",
+        "onboard_time": 1661397031,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765083,
+        "num": 384428,
+        "word": "赵丽颖女团风红发",
+        "onboard_time": 1661408728,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 381049,
+        "num": 381049,
+        "word": "科比坠机遗体照遭泄露案判决结果",
+        "onboard_time": 1661388457,
+        "rank": 21,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 377794,
+        "num": 377794,
+        "word": "大妈合力推开核酸亭在广场跳舞",
+        "onboard_time": 1661405727,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364091,
+        "num": 364091,
+        "word": "王一博今年国内五大金九唯一男星",
+        "onboard_time": 1661403929,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340967,
+        "num": 340967,
+        "word": "郭俊辰说林妙妙口红色号是牛油红",
+        "onboard_time": 1661409929,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339047,
+        "num": 339047,
+        "word": "90后火锅夫妻店如何无声揽客",
+        "onboard_time": 1661409630,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324708,
+        "num": 324708,
+        "word": "成都疫情防控",
+        "onboard_time": 1661404411,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321088,
+        "num": 321088,
+        "word": "重庆巴南山火明火被扑灭",
+        "onboard_time": 1661412845,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311389,
+        "num": 311389,
+        "word": "李小龙女儿向真功夫快餐索赔2.1亿",
+        "onboard_time": 1661393911,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300797,
+        "num": 300797,
+        "word": "这猫咪怎么人模人样的",
+        "onboard_time": 1661409270,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288908,
+        "num": 288908,
+        "word": "甲状腺发病的4个主要原因",
+        "onboard_time": 1661411009,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284525,
+        "num": 284525,
+        "word": "城管回应收走商户4箱水",
+        "onboard_time": 1661411190,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266112,
+        "num": 266112,
+        "word": "警员玩游戏时分享科比坠机现场照",
+        "onboard_time": 1661410589,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256900,
+        "num": 256900,
+        "word": "中国篮球名人堂30人提名名单",
+        "onboard_time": 1661412272,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238375,
+        "num": 238375,
+        "word": "大学第一台电脑要怎么选",
+        "onboard_time": 1661411728,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232760,
+        "num": 232760,
+        "word": "佟大为说魏晨晨很好",
+        "onboard_time": 1661409450,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227687,
+        "num": 227687,
+        "word": "一个动作自测甲状腺问题",
+        "onboard_time": 1661411251,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226078,
+        "num": 226078,
+        "word": "舌头都要麻了还没学会弹舌",
+        "onboard_time": 1661407347,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222180,
+        "num": 222180,
+        "word": "西安博物院重现1000年前唐三彩",
+        "onboard_time": 1661407830,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218970,
+        "num": 218970,
+        "word": "被鼻烟壶内的国漫百年惊艳到了",
+        "onboard_time": 1661411488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218192,
+        "num": 218192,
+        "word": "女子发烧一周不在意昏迷2个月",
+        "onboard_time": 1661396493,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216817,
+        "num": 216817,
+        "word": "研究称睡眠不足会让人更自私",
+        "onboard_time": 1661405431,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203915,
+        "num": 203915,
+        "word": "张馨予千字长文告别周墨婉",
+        "onboard_time": 1661394214,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198103,
+        "num": 198103,
+        "word": "还好有人录下来了",
+        "onboard_time": 1661412930,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193954,
+        "num": 193954,
+        "word": "iPhone14或配备4800万像素",
+        "onboard_time": 1661395533,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193421,
+        "num": 193421,
+        "word": "人总不能一直工作吧",
+        "onboard_time": 1661399911,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189744,
+        "num": 189744,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661396914,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214212,
+        "num": 189035,
+        "word": "彭昱畅密逃开局就跪",
+        "onboard_time": 1661413229,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 188162,
+        "word": "王源微博更新自动回复",
+        "onboard_time": 1661405551,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187819,
+        "num": 187819,
+        "word": "体检报告上的常见异常",
+        "onboard_time": 1661412689,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
