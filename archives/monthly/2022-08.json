@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661445045946,
+  "endTime": 1661446477854,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1660494443,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2879250,
+      "num": 2879250,
+      "word": "心疼吴凡",
+      "onboard_time": 1661444314,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2877572,
@@ -10651,6 +10659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1058275,
+      "num": 543885,
+      "word": "加拿大直接向俄罗斯交还涡轮机",
+      "onboard_time": 1661443177,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1056839,
       "num": 1056839,
       "word": "年轻人不喜欢吃小龙虾了吗",
@@ -13553,14 +13569,6 @@
       "onboard_time": 1660574073,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 853569,
-      "num": 853569,
-      "word": "心疼吴凡",
-      "onboard_time": 1661444314,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 852314,
@@ -21315,14 +21323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 560762,
-      "num": 543885,
-      "word": "加拿大直接向俄罗斯交还涡轮机",
-      "onboard_time": 1661443177,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 560579,
       "num": 560579,
       "word": "青岛一6岁男童坠落古力井",
@@ -23192,6 +23192,14 @@
       "word": "吴宣仪陈哲远吻戏花絮",
       "onboard_time": 1659589783,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520926,
+      "num": 520926,
+      "word": "程少商与过去和解",
+      "onboard_time": 1661443479,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -26251,6 +26259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469082,
+      "num": 469082,
+      "word": "野球帝",
+      "onboard_time": 1661444192,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469081,
       "num": 469081,
       "word": "孙培青",
@@ -26817,14 +26833,6 @@
       "onboard_time": 1660282112,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 458869,
-      "num": 458869,
-      "word": "程少商与过去和解",
-      "onboard_time": 1661443479,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 458865,
@@ -46995,6 +47003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242235,
+      "num": 242235,
+      "word": "KPL回应",
+      "onboard_time": 1661444732,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242224,
       "num": 239502,
       "word": "顾念女儿失踪",
@@ -50419,14 +50435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208710,
-      "num": 208710,
-      "word": "野球帝",
-      "onboard_time": 1661444192,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208679,
       "num": 208679,
       "word": "投入全部的感情真的值得吗",
@@ -51345,6 +51353,14 @@
       "onboard_time": 1659855631,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 198846,
+      "num": 198846,
+      "word": "影院回应女子被孩家长踹成脑震荡",
+      "onboard_time": 1661442044,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198571,
@@ -53691,14 +53707,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 168894,
-      "num": 168894,
-      "word": "影院回应女子被孩家长踹成脑震荡",
-      "onboard_time": 1661442044,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168870,
       "num": 168870,
       "word": "河北涿州市实行全域静默管理",
@@ -54649,14 +54657,6 @@
       "onboard_time": 1660963107,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154709,
-      "num": 154709,
-      "word": "KPL回应",
-      "onboard_time": 1661444732,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 154568,
@@ -55755,6 +55755,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 129608,
+      "num": 129608,
+      "word": "中国男篮战胜哈萨克斯坦男篮",
+      "onboard_time": 1661445391,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129529,
       "num": 129529,
       "word": "V5战胜BLG",
@@ -56689,6 +56697,14 @@
       "onboard_time": 1660845976,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100635,
+      "num": 100635,
+      "word": "侠客岛评刘翔峰事件",
+      "onboard_time": 1661446466,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100440,

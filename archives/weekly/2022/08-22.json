@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661445045946,
+  "endTime": 1661446477854,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -209,6 +209,14 @@
       "onboard_time": 1661436650,
       "rank": 5,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 2879250,
+      "num": 2879250,
+      "word": "心疼吴凡",
+      "onboard_time": 1661444314,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2828582,
@@ -1331,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1058275,
+      "num": 543885,
+      "word": "加拿大直接向俄罗斯交还涡轮机",
+      "onboard_time": 1661443177,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1050976,
       "num": 1050976,
       "word": "女子做洗碗工月薪1600引宝妈共鸣",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1661331272,
       "rank": 15,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 853569,
-      "num": 853569,
-      "word": "心疼吴凡",
-      "onboard_time": 1661444314,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 846271,
@@ -2931,14 +2939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 560762,
-      "num": 543885,
-      "word": "加拿大直接向俄罗斯交还涡轮机",
-      "onboard_time": 1661443177,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 560579,
       "num": 560579,
       "word": "青岛一6岁男童坠落古力井",
@@ -3217,6 +3217,14 @@
       "onboard_time": 1661264554,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 520926,
+      "num": 520926,
+      "word": "程少商与过去和解",
+      "onboard_time": 1661443479,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 518279,
@@ -3659,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469082,
+      "num": 469082,
+      "word": "野球帝",
+      "onboard_time": 1661444192,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469081,
       "num": 469081,
       "word": "孙培青",
@@ -3761,14 +3777,6 @@
       "onboard_time": 1661395533,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 458869,
-      "num": 458869,
-      "word": "程少商与过去和解",
-      "onboard_time": 1661443479,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 458828,
@@ -7163,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242235,
+      "num": 242235,
+      "word": "KPL回应",
+      "onboard_time": 1661444732,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241668,
       "num": 241668,
       "word": "何悯鸿的妈妈是蔡根花",
@@ -7891,14 +7907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208710,
-      "num": 208710,
-      "word": "野球帝",
-      "onboard_time": 1661444192,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208632,
       "num": 208632,
       "word": "白敬亭长风渡红衣官服路透",
@@ -8105,6 +8113,14 @@
       "onboard_time": 1661323590,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 198846,
+      "num": 198846,
+      "word": "影院回应女子被孩家长踹成脑震荡",
+      "onboard_time": 1661442044,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198309,
@@ -8859,14 +8875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168894,
-      "num": 168894,
-      "word": "影院回应女子被孩家长踹成脑震荡",
-      "onboard_time": 1661442044,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168870,
       "num": 168870,
       "word": "河北涿州市实行全域静默管理",
@@ -9137,14 +9145,6 @@
       "onboard_time": 1661161893,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 154709,
-      "num": 154709,
-      "word": "KPL回应",
-      "onboard_time": 1661444732,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 154568,
@@ -9499,6 +9499,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 129608,
+      "num": 129608,
+      "word": "中国男篮战胜哈萨克斯坦男篮",
+      "onboard_time": 1661445391,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129221,
       "num": 129221,
       "word": "广州队vs大连人",
@@ -9689,6 +9697,14 @@
       "onboard_time": 1661124744,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100635,
+      "num": 100635,
+      "word": "侠客岛评刘翔峰事件",
+      "onboard_time": 1661446466,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100440,
