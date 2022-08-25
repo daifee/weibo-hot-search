@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661410704282,
+  "endTime": 1661412371895,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1877808,
+      "num": 581312,
+      "word": "浪莎向李易峰公开道歉",
+      "onboard_time": 1661409748,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1754277,
       "num": 1754277,
       "word": "为什么漂亮女孩成长更不容易",
@@ -105,6 +113,14 @@
       "onboard_time": 1661408728,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1301624,
+      "num": 1301624,
+      "word": "成都免费取水冰柜里的水越取越多",
+      "onboard_time": 1661409808,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1276231,
@@ -179,12 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1116967,
-      "num": 581312,
-      "word": "浪莎向李易峰公开道歉",
-      "onboard_time": 1661409748,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 1069672,
+      "num": 1069672,
+      "word": "汝州 怪鱼",
+      "onboard_time": 1661409450,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1050976,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539736,
+      "num": 539736,
+      "word": "苍兰诀将在网飞上线",
+      "onboard_time": 1661411608,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536503,
       "num": 536503,
       "word": "张小斐拯救嫌疑人眼神杀",
@@ -409,6 +433,14 @@
       "onboard_time": 1661400152,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493699,
+      "num": 493699,
+      "word": "退休老人困在山东乳山海景房",
+      "onboard_time": 1661408789,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491489,
@@ -481,14 +513,6 @@
       "onboard_time": 1661395533,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 454508,
-      "num": 454508,
-      "word": "退休老人困在山东乳山海景房",
-      "onboard_time": 1661408789,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445040,
@@ -587,14 +611,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 398578,
-      "num": 398578,
-      "word": "成都免费取水冰柜里的水越取越多",
-      "onboard_time": 1661409808,
-      "rank": 22,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 396950,
       "num": 396950,
       "word": "iPhone14或有拍月亮模式",
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384031,
+      "num": 384031,
+      "word": "郭俊辰说林妙妙口红色号是牛油红",
+      "onboard_time": 1661409929,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 381909,
       "num": 381909,
       "word": "世界小姐主办方将调查中国区候选人投诉",
@@ -641,14 +665,6 @@
       "onboard_time": 1661395051,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 374181,
-      "num": 374181,
-      "word": "汝州 怪鱼",
-      "onboard_time": 1661409450,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370275,
@@ -731,12 +747,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326246,
-      "num": 326246,
-      "word": "郭俊辰说林妙妙口红色号是牛油红",
-      "onboard_time": 1661409929,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 327335,
+      "num": 327335,
+      "word": "3岁女童胸腔肿瘤如成人拳头大小",
+      "onboard_time": 1661408547,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324936,
@@ -777,6 +793,14 @@
       "onboard_time": 1661385205,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 304790,
+      "num": 304790,
+      "word": "90后火锅夫妻店如何无声揽客",
+      "onboard_time": 1661409630,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304620,
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 289442,
-      "num": 1359680,
+      "num": 1678444,
       "word": "解放军奋战山火休息时和衣而卧",
       "onboard_time": 1661351194,
       "rank": 16,
@@ -915,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261181,
+      "num": 261181,
+      "word": "西安博物院重现1000年前唐三彩",
+      "onboard_time": 1661407830,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260258,
       "num": 260258,
       "word": "没有Led的陆家嘴",
@@ -955,28 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254928,
-      "num": 254928,
-      "word": "3岁女童胸腔肿瘤如成人拳头大小",
-      "onboard_time": 1661408547,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254140,
       "num": 254140,
       "word": "丁真说家乡就像被窝",
       "onboard_time": 1661400755,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251842,
-      "num": 251842,
-      "word": "西安博物院重现1000年前唐三彩",
-      "onboard_time": 1661407830,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248566,
@@ -1003,12 +1019,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246444,
+      "num": 246444,
+      "word": "佟大为说魏晨晨很好",
+      "onboard_time": 1661409450,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245015,
       "num": 245015,
       "word": "朴树23年后重编那些花儿",
       "onboard_time": 1661393853,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244438,
+      "num": 244438,
+      "word": "这猫咪怎么人模人样的",
+      "onboard_time": 1661409270,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241885,
+      "num": 241885,
+      "word": "甲状腺发病的4个主要原因",
+      "onboard_time": 1661411009,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241668,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1661402737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234586,
-      "num": 234586,
-      "word": "90后火锅夫妻店如何无声揽客",
-      "onboard_time": 1661409630,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231724,
@@ -1083,6 +1115,14 @@
       "category": "综艺,教育"
     },
     {
+      "raw_hot": 226257,
+      "num": 226257,
+      "word": "叶蓁蓁说动荡时期要收入稳定好真实",
+      "onboard_time": 1661410887,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223705,
       "num": 223705,
       "word": "街舞5队长对答案演我",
@@ -1091,20 +1131,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221497,
+      "num": 221497,
+      "word": "城管回应收走商户4箱水",
+      "onboard_time": 1661411190,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217442,
+      "num": 217442,
+      "word": "大学第一台电脑要怎么选",
+      "onboard_time": 1661411728,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213806,
+      "num": 213806,
+      "word": "老人凌晨被扔半路女子装顺路送回",
+      "onboard_time": 1661412210,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "重庆疫情防控",
       "onboard_time": 1661345432,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211749,
-      "num": 211749,
-      "word": "这猫咪怎么人模人样的",
-      "onboard_time": 1661409270,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 211478,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1661409450,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205655,
+      "num": 205655,
+      "word": "一个动作自测甲状腺问题",
+      "onboard_time": 1661411251,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204171,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1661386952,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180348,
+      "num": 180348,
+      "word": "中国篮球名人堂30人提名名单",
+      "onboard_time": 1661412272,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 178413,
@@ -1536,6 +1608,14 @@
       "word": "洛阳汝阳县新增1例确诊2例无症状",
       "onboard_time": 1661378413,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85930,
+      "num": 496399,
+      "word": "重庆徒步大军接力运送救火物资",
+      "onboard_time": 1661410887,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

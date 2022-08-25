@@ -1,0 +1,410 @@
+{
+  "runTime": 1661412371895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2631970,
+        "num": 2631970,
+        "word": "官方通报玉龙雪山雷击致人死亡事件",
+        "onboard_time": 1661405969,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2199559,
+        "num": 2199559,
+        "word": "齐司礼",
+        "onboard_time": 1661402497,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67294,
+        "num": 1678444,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1301624,
+        "num": 1301624,
+        "word": "成都免费取水冰柜里的水越取越多",
+        "onboard_time": 1661409808,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1069672,
+        "num": 1069672,
+        "word": "汝州 怪鱼",
+        "onboard_time": 1661409450,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821184,
+        "num": 821184,
+        "word": "新郎雨天拍婚纱照疑遭雷击去世",
+        "onboard_time": 1661398472,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565610,
+        "num": 565610,
+        "word": "中央预备费拿出100亿元重点支持中稻抗旱",
+        "onboard_time": 1661392471,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 539736,
+        "num": 539736,
+        "word": "苍兰诀将在网飞上线",
+        "onboard_time": 1661411608,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529465,
+        "num": 529465,
+        "word": "超七成观众愿接受付费直播大结局",
+        "onboard_time": 1661398774,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507462,
+        "num": 507462,
+        "word": "大妈合力推开核酸亭在广场跳舞",
+        "onboard_time": 1661405727,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1877808,
+        "num": 505027,
+        "word": "浪莎向李易峰公开道歉",
+        "onboard_time": 1661409748,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1053415,
+        "num": 504518,
+        "word": "微信支付宝测试信用卡取现",
+        "onboard_time": 1661406869,
+        "rank": 11,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1034878,
+        "num": 501880,
+        "word": "王鹤棣回应去年古偶丑男今年美男",
+        "onboard_time": 1661404950,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 791005,
+        "num": 498595,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85930,
+        "num": 496399,
+        "word": "重庆徒步大军接力运送救火物资",
+        "onboard_time": 1661410887,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493699,
+        "num": 493699,
+        "word": "退休老人困在山东乳山海景房",
+        "onboard_time": 1661408789,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468701,
+        "num": 468701,
+        "word": "科比坠机遗体照遭泄露案判决结果",
+        "onboard_time": 1661388457,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 435200,
+        "num": 435200,
+        "word": "ITZY成员签售会修命簿",
+        "onboard_time": 1661408070,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426429,
+        "num": 426429,
+        "word": "iPhone手机15年拍照进化",
+        "onboard_time": 1661407466,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 420493,
+        "num": 420493,
+        "word": "李小龙女儿向真功夫快餐索赔2.1亿",
+        "onboard_time": 1661393911,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841580,
+        "num": 417399,
+        "word": "赵丽颖女团风红发",
+        "onboard_time": 1661408728,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409591,
+        "num": 409591,
+        "word": "为什么漂亮女孩成长更不容易",
+        "onboard_time": 1661397031,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407147,
+        "num": 407147,
+        "word": "王一博今年国内五大金九唯一男星",
+        "onboard_time": 1661403929,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 397369,
+        "num": 397369,
+        "word": "成都疫情防控",
+        "onboard_time": 1661404411,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384031,
+        "num": 384031,
+        "word": "郭俊辰说林妙妙口红色号是牛油红",
+        "onboard_time": 1661409929,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327335,
+        "num": 327335,
+        "word": "3岁女童胸腔肿瘤如成人拳头大小",
+        "onboard_time": 1661408547,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304790,
+        "num": 304790,
+        "word": "90后火锅夫妻店如何无声揽客",
+        "onboard_time": 1661409630,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274255,
+        "num": 274255,
+        "word": "研究称睡眠不足会让人更自私",
+        "onboard_time": 1661405431,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261181,
+        "num": 261181,
+        "word": "西安博物院重现1000年前唐三彩",
+        "onboard_time": 1661407830,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254222,
+        "num": 254222,
+        "word": "女子发烧一周不在意昏迷2个月",
+        "onboard_time": 1661396493,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251455,
+        "num": 251455,
+        "word": "彭昱畅腿是软的嘴是硬的",
+        "onboard_time": 1661408789,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251027,
+        "num": 251027,
+        "word": "舌头都要麻了还没学会弹舌",
+        "onboard_time": 1661407347,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246444,
+        "num": 246444,
+        "word": "佟大为说魏晨晨很好",
+        "onboard_time": 1661409450,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244438,
+        "num": 244438,
+        "word": "这猫咪怎么人模人样的",
+        "onboard_time": 1661409270,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243107,
+        "num": 243107,
+        "word": "警员玩游戏时分享科比坠机现场照",
+        "onboard_time": 1661410589,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241885,
+        "num": 241885,
+        "word": "甲状腺发病的4个主要原因",
+        "onboard_time": 1661411009,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226257,
+        "num": 226257,
+        "word": "叶蓁蓁说动荡时期要收入稳定好真实",
+        "onboard_time": 1661410887,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223776,
+        "num": 223776,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661396914,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221497,
+        "num": 221497,
+        "word": "城管回应收走商户4箱水",
+        "onboard_time": 1661411190,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217442,
+        "num": 217442,
+        "word": "大学第一台电脑要怎么选",
+        "onboard_time": 1661411728,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215134,
+        "num": 215134,
+        "word": "iPhone14或配备4800万像素",
+        "onboard_time": 1661395533,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213806,
+        "num": 213806,
+        "word": "老人凌晨被扔半路女子装顺路送回",
+        "onboard_time": 1661412210,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 212037,
+        "num": 212037,
+        "word": "王源微博更新自动回复",
+        "onboard_time": 1661405551,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208915,
+        "num": 208915,
+        "word": "张馨予千字长文告别周墨婉",
+        "onboard_time": 1661394214,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205655,
+        "num": 205655,
+        "word": "一个动作自测甲状腺问题",
+        "onboard_time": 1661411251,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187060,
+        "num": 187060,
+        "word": "摩尔庄园",
+        "onboard_time": 1661409865,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187010,
+        "num": 187010,
+        "word": "人总不能一直工作吧",
+        "onboard_time": 1661399911,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181671,
+        "num": 181671,
+        "word": "Jennie跳舞",
+        "onboard_time": 1661390252,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180348,
+        "num": 180348,
+        "word": "中国篮球名人堂30人提名名单",
+        "onboard_time": 1661412272,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172572,
+        "num": 172572,
+        "word": "疯狂星期四",
+        "onboard_time": 1661386834,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#护苗2022#"
+    }
+  }
+}
