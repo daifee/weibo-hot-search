@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661394296124,
+  "endTime": 1661396848536,
   "band_list": [
     {
       "raw_hot": 2994906,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2168338,
+      "num": 2168338,
+      "word": "中央预备费拿出100亿元重点支持中稻抗旱",
+      "onboard_time": 1661392471,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2014227,
       "num": 2014227,
       "word": "新娘穿自己设计全粉婚纱结婚引热议",
@@ -27,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1636639,
+      "num": 1636639,
+      "word": "李小龙女儿向真功夫快餐索赔2.1亿",
+      "onboard_time": 1661393911,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1501310,
+      "num": 1501310,
+      "word": "易烊千玺说怀抱善与爱一起打败生活的难",
+      "onboard_time": 1661395352,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1276231,
-      "num": 719926,
+      "num": 773454,
       "word": "王鹤棣叫虞书欣欣欣姐姐",
       "onboard_time": 1661388755,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1228040,
-      "num": 1228040,
-      "word": "中央预备费拿出100亿元重点支持中稻抗旱",
-      "onboard_time": 1661392471,
-      "rank": 3,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1154612,
@@ -73,6 +89,22 @@
       "onboard_time": 1661390252,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1119917,
+      "num": 1119917,
+      "word": "张馨予千字长文告别周墨婉",
+      "onboard_time": 1661394214,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1050976,
+      "num": 1050976,
+      "word": "女子做洗碗工月薪1600引宝妈共鸣",
+      "onboard_time": 1661391871,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1000364,
@@ -129,14 +161,6 @@
       "onboard_time": 1661388335,
       "rank": 8,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 741251,
-      "num": 741251,
-      "word": "女子做洗碗工月薪1600引宝妈共鸣",
-      "onboard_time": 1661391871,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 737553,
@@ -203,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536503,
+      "num": 536503,
+      "word": "张小斐拯救嫌疑人眼神杀",
+      "onboard_time": 1661395769,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526263,
       "num": 526263,
       "word": "疯狂星期四",
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445040,
+      "num": 445040,
+      "word": "王一博时尚COSMO九月刊预告",
+      "onboard_time": 1661396373,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 443234,
       "num": 443234,
       "word": "为什么身体很累却还是失眠",
@@ -283,6 +323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 396950,
+      "num": 396950,
+      "word": "iPhone14或有拍月亮模式",
+      "onboard_time": 1661391215,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 391648,
       "num": 391648,
       "word": "谢谢四六级站岗小狗",
@@ -291,12 +339,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 384193,
-      "num": 384193,
-      "word": "iPhone14或有拍月亮模式",
-      "onboard_time": 1661391215,
-      "rank": 18,
-      "category": "科技"
+      "raw_hot": 381909,
+      "num": 381909,
+      "word": "世界小姐主办方将调查中国区候选人投诉",
+      "onboard_time": 1661391933,
+      "rank": 24,
+      "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 380196,
+      "num": 380196,
+      "word": "川渝人是有些英雄气在身上的",
+      "onboard_time": 1661392651,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377789,
+      "num": 377789,
+      "word": "罚罪开播",
+      "onboard_time": 1661395051,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 364882,
@@ -304,14 +368,6 @@
       "word": "济南集中供冷至9月15日",
       "onboard_time": 1661356772,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353919,
-      "num": 353919,
-      "word": "川渝人是有些英雄气在身上的",
-      "onboard_time": 1661392651,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -347,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326267,
-      "num": 326267,
-      "word": "世界小姐主办方将调查中国区候选人投诉",
-      "onboard_time": 1661391933,
-      "rank": 24,
-      "category": "时尚,社会新闻"
+      "raw_hot": 330270,
+      "num": 330270,
+      "word": "六级没过",
+      "onboard_time": 1661395711,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 307081,
@@ -364,7 +420,7 @@
     },
     {
       "raw_hot": 306591,
-      "num": 1285896,
+      "num": 1735191,
       "word": "三伏结束了",
       "onboard_time": 1661384363,
       "rank": 47,
@@ -403,6 +459,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 291894,
+      "num": 291894,
+      "word": "武汉新增无症状感染者8例",
+      "onboard_time": 1661393792,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289442,
       "num": 289442,
       "word": "解放军奋战山火休息时和衣而卧",
@@ -427,12 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262182,
-      "num": 262182,
-      "word": "武汉新增无症状感染者8例",
-      "onboard_time": 1661393792,
-      "rank": 28,
+      "raw_hot": 268661,
+      "num": 268661,
+      "word": "00后小伙用燃气灶改装电脑送姐姐",
+      "onboard_time": 1661396132,
+      "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260258,
+      "num": 260258,
+      "word": "没有Led的陆家嘴",
+      "onboard_time": 1661394452,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 258718,
@@ -451,20 +523,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251905,
-      "num": 251905,
+      "raw_hot": 254935,
+      "num": 254935,
       "word": "野猴4个月伤害近10人至今未抓获",
       "onboard_time": 1661390915,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249425,
-      "num": 249425,
-      "word": "张馨予千字长文告别周墨婉",
-      "onboard_time": 1661394214,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 245352,
+      "num": 245352,
+      "word": "开航母的她将重返北大",
+      "onboard_time": 1661394752,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 245015,
@@ -481,14 +553,6 @@
       "onboard_time": 1661365455,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237458,
-      "num": 237458,
-      "word": "李小龙女儿向真功夫快餐索赔2.1亿",
-      "onboard_time": 1661393911,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237405,
@@ -528,6 +592,22 @@
       "word": "重庆疫情防控",
       "onboard_time": 1661345432,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208445,
+      "num": 208445,
+      "word": "iPhone14或配备4800万像素",
+      "onboard_time": 1661395533,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 206868,
+      "num": 206868,
+      "word": "男子钓鱼反被鱼拉下水",
+      "onboard_time": 1661396373,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -587,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188695,
+      "num": 188695,
+      "word": "幽门螺旋杆菌为何如此特殊",
+      "onboard_time": 1661395950,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188106,
+      "num": 188106,
+      "word": "女子发烧一周不在意昏迷2个月",
+      "onboard_time": 1661396493,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187708,
       "num": 187708,
       "word": "螺蛳粉何以持续火爆",
@@ -617,6 +713,14 @@
       "onboard_time": 1661386952,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178413,
+      "num": 178413,
+      "word": "四六级查分我们都是过儿",
+      "onboard_time": 1661394932,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 177779,
@@ -696,6 +800,14 @@
       "word": "胆小鬼",
       "onboard_time": 1661350955,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159964,
+      "num": 159964,
+      "word": "电影世间有她",
+      "onboard_time": 1661394690,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -889,6 +1001,14 @@
       "onboard_time": 1661364615,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52234,
+      "num": 500923,
+      "word": "10万级混动来了",
+      "onboard_time": 1661396432,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46373,
