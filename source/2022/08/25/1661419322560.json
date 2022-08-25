@@ -1,0 +1,410 @@
+{
+  "runTime": 1661419322560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971089,
+        "num": 1971089,
+        "word": "老人凌晨被扔半路女子装顺路送回",
+        "onboard_time": 1661412210,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1445954,
+        "num": 1445954,
+        "word": "珠海防空警报",
+        "onboard_time": 1661414972,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61307,
+        "num": 1223455,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1030123,
+        "num": 1030123,
+        "word": "成都免费取水冰柜里的水越取越多",
+        "onboard_time": 1661409808,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 958846,
+        "num": 958846,
+        "word": "还好有人录下来了",
+        "onboard_time": 1661412930,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 742945,
+        "num": 742945,
+        "word": "官方通报玉龙雪山雷击致人死亡事件",
+        "onboard_time": 1661405969,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724256,
+        "num": 724256,
+        "word": "刚上大一有必要买电脑吗",
+        "onboard_time": 1661415750,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 699269,
+        "num": 699269,
+        "word": "甲状腺发病的4个主要原因",
+        "onboard_time": 1661411009,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687400,
+        "num": 687400,
+        "word": "齐司礼",
+        "onboard_time": 1661402497,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 619567,
+        "num": 619567,
+        "word": "体检报告上的常见异常",
+        "onboard_time": 1661412689,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734856,
+        "num": 598165,
+        "word": "浪莎向李易峰公开道歉",
+        "onboard_time": 1661409748,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520509,
+        "num": 520509,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453545,
+        "num": 453545,
+        "word": "苍兰诀将在网飞上线",
+        "onboard_time": 1661411608,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440468,
+        "num": 440468,
+        "word": "PS5涨价",
+        "onboard_time": 1661414069,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13086,
+        "num": 440167,
+        "word": "CSO居然是首席道歉官",
+        "onboard_time": 1661418031,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440115,
+        "num": 440115,
+        "word": "我们的歌",
+        "onboard_time": 1661417307,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434166,
+        "num": 434166,
+        "word": "日本警察厅长官宣布辞职",
+        "onboard_time": 1661417248,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 359602,
+        "num": 359602,
+        "word": "汝州 怪鱼",
+        "onboard_time": 1661409450,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357334,
+        "num": 357334,
+        "word": "退休老人困在山东乳山海景房",
+        "onboard_time": 1661408789,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354597,
+        "num": 354597,
+        "word": "王鹤棣单手抓住虞书欣",
+        "onboard_time": 1661417551,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514416,
+        "num": 352133,
+        "word": "赵丽颖女团风红发",
+        "onboard_time": 1661408728,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345302,
+        "num": 345302,
+        "word": "原来睡一觉就好了不是安慰",
+        "onboard_time": 1661418510,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 328431,
+        "num": 328431,
+        "word": "苍兰诀全员Q版头像",
+        "onboard_time": 1661417671,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309336,
+        "num": 309336,
+        "word": "你正在看哪本小说",
+        "onboard_time": 1661416472,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308498,
+        "num": 308498,
+        "word": "成都疫情防控",
+        "onboard_time": 1661414069,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302403,
+        "num": 302403,
+        "word": "冰雨火陈宇受伤不减速",
+        "onboard_time": 1661418510,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273890,
+        "num": 273890,
+        "word": "请君",
+        "onboard_time": 1661418629,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267233,
+        "num": 267233,
+        "word": "城管回应收走商户4箱水",
+        "onboard_time": 1661411190,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261644,
+        "num": 261644,
+        "word": "比亚迪准备推出起步价百万新能源汽车品牌",
+        "onboard_time": 1661418571,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251450,
+        "num": 251450,
+        "word": "南宁疫情防控",
+        "onboard_time": 1661415210,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251083,
+        "num": 251083,
+        "word": "重庆机车少年送云南消防员上前线",
+        "onboard_time": 1661415990,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 237224,
+        "num": 237224,
+        "word": "90后火锅夫妻店如何无声揽客",
+        "onboard_time": 1661409630,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234519,
+        "num": 234519,
+        "word": "中国女排vs伊朗女排",
+        "onboard_time": 1661418933,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233208,
+        "num": 233208,
+        "word": "微信支付宝测试信用卡取现",
+        "onboard_time": 1661406869,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 226952,
+        "num": 226952,
+        "word": "舞台上的衬衫有多懂事",
+        "onboard_time": 1661417791,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221633,
+        "num": 221633,
+        "word": "重庆巴南山火明火被扑灭",
+        "onboard_time": 1661412845,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217754,
+        "num": 217754,
+        "word": "有什么是你工作以后才明白的",
+        "onboard_time": 1661418151,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215867,
+        "num": 215867,
+        "word": "鬼手好惨",
+        "onboard_time": 1661417730,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207077,
+        "num": 207077,
+        "word": "王一博今年国内五大金九唯一男星",
+        "onboard_time": 1661403929,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206238,
+        "num": 206238,
+        "word": "3岁女童胸腔肿瘤如成人拳头大小",
+        "onboard_time": 1661408547,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198795,
+        "num": 198795,
+        "word": "EDG对战LNG",
+        "onboard_time": 1661416110,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188837,
+        "num": 188837,
+        "word": "大学第一台电脑要怎么选",
+        "onboard_time": 1661411728,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177473,
+        "num": 177473,
+        "word": "中国篮球名人堂30人提名名单",
+        "onboard_time": 1661412272,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172876,
+        "num": 172876,
+        "word": "杨戬票房破2亿",
+        "onboard_time": 1661413832,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167824,
+        "num": 167824,
+        "word": "警员玩游戏时分享科比坠机现场照",
+        "onboard_time": 1661410589,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167219,
+        "num": 167219,
+        "word": "这猫咪怎么人模人样的",
+        "onboard_time": 1661409270,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166821,
+        "num": 166821,
+        "word": "叶蓁蓁父母查岗",
+        "onboard_time": 1661416171,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148703,
+        "num": 148703,
+        "word": "ITZY成员签售会修命簿",
+        "onboard_time": 1661408070,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144994,
+        "num": 144994,
+        "word": "iPhone手机15年拍照进化",
+        "onboard_time": 1661407466,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120774,
+        "num": 120774,
+        "word": "一个动作自测甲状腺问题",
+        "onboard_time": 1661411251,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}

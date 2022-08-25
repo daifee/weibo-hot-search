@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661417122145,
+  "endTime": 1661419322560,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -1411,6 +1411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 958846,
+      "num": 958846,
+      "word": "还好有人录下来了",
+      "onboard_time": 1661412930,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 958398,
       "num": 958398,
       "word": "传苹果已开始研发iPhone15",
@@ -1931,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 724256,
+      "num": 724256,
+      "word": "刚上大一有必要买电脑吗",
+      "onboard_time": 1661415750,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 721429,
       "num": 604807,
       "word": "赵露思说和吴磊都是搞笑人",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1661263536,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 699269,
+      "num": 699269,
+      "word": "甲状腺发病的4个主要原因",
+      "onboard_time": 1661411009,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696895,
@@ -2163,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656119,
-      "num": 656119,
-      "word": "还好有人录下来了",
-      "onboard_time": 1661412930,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 655835,
       "num": 655835,
       "word": "重庆一定赢",
@@ -2267,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 633275,
-      "num": 633275,
-      "word": "甲状腺发病的4个主要原因",
-      "onboard_time": 1661411009,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630528,
       "num": 630528,
       "word": "病人接近脑死亡谁有权利放弃治疗",
@@ -2304,6 +2312,14 @@
       "word": "15岁少年公交旅行4天9城花153元",
       "onboard_time": 1661294055,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619567,
+      "num": 619567,
+      "word": "体检报告上的常见异常",
+      "onboard_time": 1661412689,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2769,14 +2785,6 @@
       "onboard_time": 1661228673,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 536754,
-      "num": 536754,
-      "word": "体检报告上的常见异常",
-      "onboard_time": 1661412689,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536503,
@@ -3483,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440115,
+      "num": 440115,
+      "word": "我们的歌",
+      "onboard_time": 1661417307,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439863,
       "num": 1729447,
       "word": "解放军奋战山火休息时和衣而卧",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1661140413,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434166,
+      "num": 434166,
+      "word": "日本警察厅长官宣布辞职",
+      "onboard_time": 1661417248,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 434114,
@@ -4387,6 +4411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354597,
+      "num": 354597,
+      "word": "王鹤棣单手抓住虞书欣",
+      "onboard_time": 1661417551,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353910,
       "num": 353910,
       "word": "重庆山火扑救现场",
@@ -4513,6 +4545,14 @@
       "onboard_time": 1661222070,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345302,
+      "num": 345302,
+      "word": "原来睡一觉就好了不是安慰",
+      "onboard_time": 1661418510,
+      "rank": 21,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 345030,
@@ -4827,6 +4867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328431,
+      "num": 328431,
+      "word": "苍兰诀全员Q版头像",
+      "onboard_time": 1661417671,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327443,
       "num": 264599,
       "word": "罗渽民KCON造型",
@@ -5059,6 +5107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 309336,
+      "num": 309336,
+      "word": "你正在看哪本小说",
+      "onboard_time": 1661416472,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309038,
       "num": 309038,
       "word": "快说谢谢初级会计证",
@@ -5107,14 +5163,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 306396,
-      "num": 306396,
-      "word": "刚上大一有必要买电脑吗",
-      "onboard_time": 1661415750,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 304914,
       "num": 304914,
       "word": "男子抡板凳殴打前妻被行拘",
@@ -5137,6 +5185,14 @@
       "onboard_time": 1661257952,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302403,
+      "num": 302403,
+      "word": "冰雨火陈宇受伤不减速",
+      "onboard_time": 1661418510,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 302270,
@@ -5651,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273890,
+      "num": 273890,
+      "word": "请君",
+      "onboard_time": 1661418629,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273700,
       "num": 249696,
       "word": "张真源分享弹钢琴照",
@@ -5995,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261644,
+      "num": 261644,
+      "word": "比亚迪准备推出起步价百万新能源汽车品牌",
+      "onboard_time": 1661418571,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261349,
       "num": 261349,
       "word": "重庆多处山火被有力压制",
@@ -6249,6 +6321,14 @@
       "onboard_time": 1661347655,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251083,
+      "num": 251083,
+      "word": "重庆机车少年送云南消防员上前线",
+      "onboard_time": 1661415990,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 250900,
@@ -6547,6 +6627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 234519,
+      "num": 234519,
+      "word": "中国女排vs伊朗女排",
+      "onboard_time": 1661418933,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234162,
       "num": 234162,
       "word": "苍兰诀 双向奔赴",
@@ -6712,6 +6800,14 @@
       "word": "李帝努送玫瑰",
       "onboard_time": 1661151092,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 226952,
+      "num": 226952,
+      "word": "舞台上的衬衫有多懂事",
+      "onboard_time": 1661417791,
+      "rank": 34,
       "category": "音乐"
     },
     {
@@ -6931,12 +7027,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217649,
-      "num": 217649,
-      "word": "重庆机车少年送云南消防员上前线",
-      "onboard_time": 1661415990,
-      "rank": 42,
-      "category": "社会正能量"
+      "raw_hot": 217754,
+      "num": 217754,
+      "word": "有什么是你工作以后才明白的",
+      "onboard_time": 1661418151,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 216612,
@@ -6953,6 +7049,14 @@
       "onboard_time": 1661177314,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215867,
+      "num": 215867,
+      "word": "鬼手好惨",
+      "onboard_time": 1661417730,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 215667,
@@ -7825,14 +7929,6 @@
       "onboard_time": 1661222609,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173055,
-      "num": 173055,
-      "word": "你正在看哪本小说",
-      "onboard_time": 1661416472,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 173020,
@@ -8849,6 +8945,14 @@
       "onboard_time": 1661259633,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13086,
+      "num": 440167,
+      "word": "CSO居然是首席道歉官",
+      "onboard_time": 1661418031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11749,
