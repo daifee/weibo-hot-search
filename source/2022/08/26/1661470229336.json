@@ -1,0 +1,410 @@
+{
+  "runTime": 1661470229336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2080460,
+        "num": 2080460,
+        "word": "重庆山火",
+        "onboard_time": 1661434191,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1485494,
+        "num": 1485494,
+        "word": "加拿大直接向俄罗斯交还涡轮机",
+        "onboard_time": 1661443177,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 57623,
+        "num": 1024959,
+        "word": "这些娃儿侠肝义胆",
+        "onboard_time": 1661402315,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1022052,
+        "num": 1022052,
+        "word": "熊孩子家长电影院踢人导致观众疑似脑震荡",
+        "onboard_time": 1661420370,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755845,
+        "num": 755845,
+        "word": "美人鱼原型在中国灭绝",
+        "onboard_time": 1661442163,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674809,
+        "num": 674809,
+        "word": "心疼吴凡",
+        "onboard_time": 1661444314,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608089,
+        "num": 608089,
+        "word": "1岁婴儿吞5枚电池10小时后取出",
+        "onboard_time": 1661439404,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490814,
+        "num": 490814,
+        "word": "小猫被困井下一年获救还是胖乎乎",
+        "onboard_time": 1661435630,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489722,
+        "num": 489722,
+        "word": "影院回应女子被孩家长踹成脑震荡",
+        "onboard_time": 1661442044,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450954,
+        "num": 450954,
+        "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
+        "onboard_time": 1661435331,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413569,
+        "num": 413569,
+        "word": "上海殡仪馆回应月薪4万8招扛尸工",
+        "onboard_time": 1661433597,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404081,
+        "num": 404081,
+        "word": "湘雅二院医生刘翔峰被查",
+        "onboard_time": 1661438866,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338190,
+        "num": 338190,
+        "word": "程少商与过去和解",
+        "onboard_time": 1661443479,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325860,
+        "num": 325860,
+        "word": "当事人回应从欧洲骑马回国",
+        "onboard_time": 1661467579,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304143,
+        "num": 304143,
+        "word": "辅警为办事聋哑夫妻写满一页纸",
+        "onboard_time": 1661464333,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 295038,
+        "num": 295038,
+        "word": "普京签令俄武装力量扩军",
+        "onboard_time": 1661438987,
+        "rank": 15,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 291661,
+        "num": 291661,
+        "word": "小伙缅北目睹诈骗团伙打死室友",
+        "onboard_time": 1661440125,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284858,
+        "num": 284858,
+        "word": "女子买不到囍字跑腿小哥现场帮剪",
+        "onboard_time": 1661434311,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277155,
+        "num": 277155,
+        "word": "张照洋",
+        "onboard_time": 1661468843,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249816,
+        "num": 249816,
+        "word": "父母保护越多小孩共情能力越差吗",
+        "onboard_time": 1661438987,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242810,
+        "num": 242810,
+        "word": "重庆上山救火的老外找到了",
+        "onboard_time": 1661437789,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240008,
+        "num": 240008,
+        "word": "野球帝",
+        "onboard_time": 1661444192,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235612,
+        "num": 235612,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661439708,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217524,
+        "num": 217524,
+        "word": "欧冠抽签",
+        "onboard_time": 1661469446,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215155,
+        "num": 215155,
+        "word": "王一博这就是街舞问鸭脖是我吗",
+        "onboard_time": 1661462772,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213307,
+        "num": 213307,
+        "word": "结婚会带给人怎样的改变",
+        "onboard_time": 1661452035,
+        "rank": 25,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 202625,
+        "num": 202625,
+        "word": "江西鹰潭方舱隔离条件堪忧",
+        "onboard_time": 1661432640,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186572,
+        "num": 186572,
+        "word": "取消对出入境人员核酸检测信息申报要求",
+        "onboard_time": 1661427599,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184078,
+        "num": 184078,
+        "word": "青岛6岁坠井男童已确认遇难",
+        "onboard_time": 1661423068,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183763,
+        "num": 183763,
+        "word": "警方回应女子影院被家长踹伤",
+        "onboard_time": 1661431194,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158849,
+        "num": 158849,
+        "word": "上海电影院",
+        "onboard_time": 1661437311,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150423,
+        "num": 150423,
+        "word": "野球帝张照洋高铁站遭到殴打",
+        "onboard_time": 1661470107,
+        "rank": 31,
+        "category": "社会负面,网红"
+      },
+      {
+        "raw_hot": 142630,
+        "num": 142630,
+        "word": "华西第二医院锦江院区发热门诊停诊通知",
+        "onboard_time": 1661440307,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131747,
+        "num": 131747,
+        "word": "大学生邮30多个包裹到校被在线催收",
+        "onboard_time": 1661469384,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131685,
+        "num": 131685,
+        "word": "猫咪坐顺风车6小时疑中暑死亡",
+        "onboard_time": 1661424090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131314,
+        "num": 131314,
+        "word": "CPA",
+        "onboard_time": 1661440125,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130557,
+        "num": 130557,
+        "word": "空气炸锅做出的食物更健康吗",
+        "onboard_time": 1661437009,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 128690,
+        "num": 128690,
+        "word": "重庆人等的雨终于来了",
+        "onboard_time": 1661437251,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126429,
+        "num": 126429,
+        "word": "吴磊霍不疑仰身下马",
+        "onboard_time": 1661437607,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 125796,
+        "word": "重庆狼队",
+        "onboard_time": 1661468724,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 117989,
+        "word": "张凌赫唱吻别",
+        "onboard_time": 1661469987,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105969,
+        "num": 105969,
+        "word": "欢乐颂3何悯鸿遭遇网络争议",
+        "onboard_time": 1661431860,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101806,
+        "num": 101806,
+        "word": "侠客岛评刘翔峰事件",
+        "onboard_time": 1661446466,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99686,
+        "num": 99686,
+        "word": "姿态",
+        "onboard_time": 1661436650,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 98860,
+        "num": 98860,
+        "word": "有翻译能力但不多",
+        "onboard_time": 1661442999,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95342,
+        "num": 95342,
+        "word": "成年人的失恋写满了克制",
+        "onboard_time": 1661425428,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94916,
+        "num": 94916,
+        "word": "KPL回应",
+        "onboard_time": 1661444732,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92207,
+        "num": 92207,
+        "word": "中国男篮战胜哈萨克斯坦男篮",
+        "onboard_time": 1661445391,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89719,
+        "num": 89719,
+        "word": "7岁娃花1个月作3米画不舍参赛大哭",
+        "onboard_time": 1661470167,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83686,
+        "num": 83686,
+        "word": "刺痛 橘子",
+        "onboard_time": 1661439466,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同构建全球发展共同体#"
+    }
+  }
+}
