@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661453049539,
+  "endTime": 1661455083311,
   "band_list": [
     {
       "raw_hot": 2879250,
@@ -371,6 +371,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 167546,
+      "num": 167546,
+      "word": "觞阙结黎 甜",
+      "onboard_time": 1661450897,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155852,
       "num": 155852,
       "word": "欢乐颂3何悯鸿遭遇网络争议",
@@ -379,11 +387,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147947,
-      "num": 147947,
-      "word": "觞阙结黎 甜",
-      "onboard_time": 1661450897,
-      "rank": 14,
+      "raw_hot": 154605,
+      "num": 154605,
+      "word": "葛秋谷新剧谈原生家庭对孩子成长的影响",
+      "onboard_time": 1661453953,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60531,
+      "num": 60531,
+      "word": "结婚会带给人怎样的改变",
+      "onboard_time": 1661452035,
+      "rank": 40,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 56978,
       "num": 1225128,
       "word": "这些娃儿侠肝义胆",
@@ -433,14 +449,6 @@
       "onboard_time": 1661438509,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35715,
-      "num": 35715,
-      "word": "结婚会带给人怎样的改变",
-      "onboard_time": 1661452035,
-      "rank": 40,
-      "category": "社会议题,情感"
     }
   ],
   "hotgov_list": [
