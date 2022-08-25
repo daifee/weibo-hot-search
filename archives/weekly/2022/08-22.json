@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661432932873,
+  "endTime": 1661435064520,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -537,6 +537,14 @@
       "onboard_time": 1661146348,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1736427,
+      "num": 1736427,
+      "word": "警方回应女子影院被家长踹伤",
+      "onboard_time": 1661431194,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1728731,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1661331272,
       "rank": 15,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 850899,
+      "num": 850899,
+      "word": "KPL 暂停",
+      "onboard_time": 1661434252,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 845524,
@@ -3075,6 +3091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509989,
+      "num": 509989,
+      "word": "为何35岁会成为中年的一道坎",
+      "onboard_time": 1661430473,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 508764,
       "num": 445489,
       "word": "苍兰夫妇试戏也要手牵手",
@@ -3307,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480643,
+      "num": 480643,
+      "word": "狼队eStar比赛太夸张了",
+      "onboard_time": 1661433237,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 480602,
       "num": 480602,
       "word": "迪丽热巴VOGUEfilm电影感大片",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1661428671,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 479925,
+      "num": 479925,
+      "word": "上海殡仪馆回应月薪4万8招扛尸工",
+      "onboard_time": 1661433597,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479568,
@@ -3355,6 +3395,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478247,
+      "num": 478247,
+      "word": "EDG战胜LNG",
+      "onboard_time": 1661433296,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 477621,
       "num": 477621,
       "word": "待播古装剧热度TOP10",
@@ -3377,14 +3425,6 @@
       "onboard_time": 1661093911,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 476524,
-      "num": 476524,
-      "word": "警方回应女子影院被家长踹伤",
-      "onboard_time": 1661431194,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476098,
@@ -3585,6 +3625,14 @@
       "onboard_time": 1661244632,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451834,
+      "num": 451834,
+      "word": "成都锦江区发布重要提示",
+      "onboard_time": 1661433182,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451833,
@@ -3800,6 +3848,14 @@
       "word": "女孩吹空调加重鼻炎频繁流鼻血",
       "onboard_time": 1661199251,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428033,
+      "num": 428033,
+      "word": "青岛6岁坠井男童已确认遇难",
+      "onboard_time": 1661423068,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4019,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405245,
+      "num": 405245,
+      "word": "江西鹰潭方舱隔离条件堪忧",
+      "onboard_time": 1661432640,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405176,
       "num": 405176,
       "word": "密室大逃脱",
@@ -4033,6 +4097,14 @@
       "onboard_time": 1661247572,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404536,
+      "num": 404536,
+      "word": "开学坐高铁一定要选B座",
+      "onboard_time": 1661433890,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 404469,
@@ -4691,14 +4763,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 351033,
-      "num": 351033,
-      "word": "为何35岁会成为中年的一道坎",
-      "onboard_time": 1661430473,
-      "rank": 26,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 350474,
       "num": 350474,
       "word": "唐周今晚下线",
@@ -5347,14 +5411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312295,
-      "num": 312295,
-      "word": "青岛6岁坠井男童已确认遇难",
-      "onboard_time": 1661423068,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312093,
       "num": 252988,
       "word": "意气风发的少年为爱低下了头",
@@ -5571,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295195,
+      "num": 295195,
+      "word": "上海消费券",
+      "onboard_time": 1661432582,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 294206,
       "num": 294206,
       "word": "杨戬哭了",
@@ -5673,6 +5737,14 @@
       "onboard_time": 1661324251,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289415,
+      "num": 289415,
+      "word": "欢乐颂3何悯鸿遭遇网络争议",
+      "onboard_time": 1661431860,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 289203,
@@ -5875,14 +5947,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 281810,
-      "num": 281810,
-      "word": "欢乐颂3何悯鸿遭遇网络争议",
-      "onboard_time": 1661431860,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281483,
       "num": 281483,
       "word": "中国篮球名人堂30人提名名单",
@@ -5904,6 +5968,14 @@
       "word": "今年或许是未来10年最凉爽的一年",
       "onboard_time": 1661175992,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280189,
+      "num": 280189,
+      "word": "女子买不到囍字跑腿小哥现场帮剪",
+      "onboard_time": 1661434311,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -5960,6 +6032,14 @@
       "word": "石家庄桥西区疫情防控",
       "onboard_time": 1661419470,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277447,
+      "num": 277447,
+      "word": "当扑救山火的消防员摘下头盔",
+      "onboard_time": 1661433713,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -6747,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247036,
+      "num": 247036,
+      "word": "你要说唐周就不能只说唐周",
+      "onboard_time": 1661432816,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246645,
       "num": 246645,
       "word": "在南方生活真的需要点勇气",
@@ -6859,10 +6947,10 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 241082,
-      "num": 205868,
-      "word": "你要说唐周就不能只说唐周",
-      "onboard_time": 1661432816,
+      "raw_hot": 241585,
+      "num": 241585,
+      "word": "无穷之路2去了可可西里",
+      "onboard_time": 1661434131,
       "rank": 31,
       "category": "影视"
     },
@@ -7505,6 +7593,14 @@
       "onboard_time": 1661256757,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210212,
+      "num": 210212,
+      "word": "Jiejie2000助攻",
+      "onboard_time": 1661434612,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 210146,
@@ -8219,14 +8315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178931,
-      "num": 178931,
-      "word": "江西鹰潭方舱隔离条件堪忧",
-      "onboard_time": 1661432640,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178413,
       "num": 178413,
       "word": "四六级查分我们都是过儿",
@@ -8345,6 +8433,14 @@
       "onboard_time": 1661402315,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 174607,
+      "num": 174607,
+      "word": "大型无人机在四川增雨",
+      "onboard_time": 1661433713,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173922,
@@ -8555,14 +8651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162937,
-      "num": 162937,
-      "word": "上海消费券",
-      "onboard_time": 1661432582,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 162816,
       "num": 162816,
       "word": "重庆辟谣渝康码变黄认证短信",
@@ -8761,6 +8849,14 @@
       "onboard_time": 1661068707,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151807,
+      "num": 151807,
+      "word": "星汉灿烂",
+      "onboard_time": 1661429273,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 151451,
