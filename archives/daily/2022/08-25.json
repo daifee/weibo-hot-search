@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661396848536,
+  "endTime": 1661402568851,
   "band_list": [
     {
       "raw_hot": 2994906,
@@ -9,6 +9,14 @@
       "onboard_time": 1661388457,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 2769051,
+      "num": 2769051,
+      "word": "新郎雨天拍婚纱照疑遭雷击去世",
+      "onboard_time": 1661398472,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2420541,
@@ -35,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1993899,
+      "num": 705440,
+      "word": "你有月经羞耻吗",
+      "onboard_time": 1661398472,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1754277,
+      "num": 1754277,
+      "word": "为什么漂亮女孩成长更不容易",
+      "onboard_time": 1661397031,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1636639,
       "num": 1636639,
       "word": "李小龙女儿向真功夫快餐索赔2.1亿",
@@ -57,6 +81,22 @@
       "onboard_time": 1661388755,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1174288,
+      "num": 1174288,
+      "word": "女子发烧一周不在意昏迷2个月",
+      "onboard_time": 1661396493,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159760,
+      "num": 1159760,
+      "word": "快乐再出发豆瓣升至9.7分",
+      "onboard_time": 1661396914,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1154612,
@@ -179,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 698450,
+      "num": 698450,
+      "word": "超七成观众愿接受付费直播大结局",
+      "onboard_time": 1661398774,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661594,
       "num": 661594,
       "word": "95年女孩打多份工买房住进毛坯房",
@@ -235,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531494,
+      "num": 531494,
+      "word": "湖人将交易得到贝弗利",
+      "onboard_time": 1661400215,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526263,
       "num": 526263,
       "word": "疯狂星期四",
@@ -267,6 +323,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475731,
+      "num": 475731,
+      "word": "王鹤棣跳yesok",
+      "onboard_time": 1661400152,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467586,
+      "num": 467586,
+      "word": "00后小伙用燃气灶改装电脑送姐姐",
+      "onboard_time": 1661396132,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465318,
       "num": 465318,
       "word": "湘雅二院医生刘翔峰本人发声",
@@ -283,12 +355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459504,
+      "num": 459504,
+      "word": "iPhone14或配备4800万像素",
+      "onboard_time": 1661395533,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 454795,
+      "num": 454795,
+      "word": "李斯丹妮演警察",
+      "onboard_time": 1661401597,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445040,
       "num": 445040,
       "word": "王一博时尚COSMO九月刊预告",
       "onboard_time": 1661396373,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 444073,
+      "num": 444073,
+      "word": "成毅推荐观众看花絮解压",
+      "onboard_time": 1661400333,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 443234,
@@ -307,11 +403,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 428558,
+      "num": 428558,
+      "word": "人总不能一直工作吧",
+      "onboard_time": 1661399911,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 416817,
       "num": 416817,
       "word": "重庆震感",
       "onboard_time": 1661386351,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414647,
+      "num": 414647,
+      "word": "北碚",
+      "onboard_time": 1661387374,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -331,6 +443,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 396550,
+      "num": 396550,
+      "word": "齐司礼",
+      "onboard_time": 1661402497,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 391648,
       "num": 391648,
       "word": "谢谢四六级站岗小狗",
@@ -345,6 +465,14 @@
       "onboard_time": 1661391933,
       "rank": 24,
       "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 380711,
+      "num": 380711,
+      "word": "陈雨菲",
+      "onboard_time": 1661399010,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 380196,
@@ -363,6 +491,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369073,
+      "num": 369073,
+      "word": "男子钓鱼反被鱼拉下水",
+      "onboard_time": 1661396373,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367839,
+      "num": 367839,
+      "word": "开航母的她将重返北大",
+      "onboard_time": 1661394752,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 364882,
       "num": 364882,
       "word": "济南集中供冷至9月15日",
@@ -379,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347375,
+      "num": 347375,
+      "word": "重庆北碚急招志愿者",
+      "onboard_time": 1661399793,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344186,
       "num": 344186,
       "word": "江浙沪人民操心30度该穿什么",
@@ -387,11 +539,11 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 342922,
-      "num": 342922,
-      "word": "北碚",
-      "onboard_time": 1661387374,
-      "rank": 22,
+      "raw_hot": 339871,
+      "num": 1827639,
+      "word": "三伏结束了",
+      "onboard_time": 1661384363,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -411,20 +563,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328630,
+      "num": 328630,
+      "word": "苍兰诀结黎的嘴骗人的鬼",
+      "onboard_time": 1661401836,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 324936,
+      "num": 324936,
+      "word": "沉香如屑弹幕优酷剧集历史第一",
+      "onboard_time": 1661397752,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309038,
+      "num": 309038,
+      "word": "快说谢谢初级会计证",
+      "onboard_time": 1661397934,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 307081,
       "num": 307081,
       "word": "阿迪达斯在中国到底错在哪",
       "onboard_time": 1661385205,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 306591,
-      "num": 1735191,
-      "word": "三伏结束了",
-      "onboard_time": 1661384363,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304620,
@@ -475,6 +643,22 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 283602,
+      "num": 283602,
+      "word": "哪吒问孙悟空杨戬谁厉害",
+      "onboard_time": 1661399372,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275608,
+      "num": 275608,
+      "word": "倪妮时装金九封面",
+      "onboard_time": 1661401114,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271531,
       "num": 271531,
       "word": "何悯鸿早C晚C",
@@ -491,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 268661,
-      "num": 268661,
-      "word": "00后小伙用燃气灶改装电脑送姐姐",
-      "onboard_time": 1661396132,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 266327,
+      "num": 266327,
+      "word": "BLACKPINK新专辑预售量突破200万张",
+      "onboard_time": 1661397153,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 260258,
@@ -531,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245352,
-      "num": 245352,
-      "word": "开航母的她将重返北大",
-      "onboard_time": 1661394752,
-      "rank": 35,
-      "category": "军事,社会新闻"
+      "raw_hot": 254140,
+      "num": 254140,
+      "word": "丁真说家乡就像被窝",
+      "onboard_time": 1661400755,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 245015,
@@ -587,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215831,
+      "num": 215831,
+      "word": "高德地图上线防晒导航功能",
+      "onboard_time": 1661401776,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "重庆疫情防控",
@@ -595,19 +787,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208445,
-      "num": 208445,
-      "word": "iPhone14或配备4800万像素",
-      "onboard_time": 1661395533,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 206868,
-      "num": 206868,
-      "word": "男子钓鱼反被鱼拉下水",
-      "onboard_time": 1661396373,
-      "rank": 40,
+      "raw_hot": 209661,
+      "num": 209661,
+      "word": "第八届鲁迅文学奖揭晓",
+      "onboard_time": 1661401953,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -675,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188106,
-      "num": 188106,
-      "word": "女子发烧一周不在意昏迷2个月",
-      "onboard_time": 1661396493,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187708,
       "num": 187708,
       "word": "螺蛳粉何以持续火爆",
@@ -737,6 +913,14 @@
       "onboard_time": 1661388096,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174959,
+      "num": 174959,
+      "word": "这些娃儿侠肝义胆",
+      "onboard_time": 1661402315,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174091,
@@ -1033,6 +1217,9 @@
     },
     {
       "word": "#让改革发展成果惠及更多群众#"
+    },
+    {
+      "word": "#护苗2022#"
     }
   ]
 }
