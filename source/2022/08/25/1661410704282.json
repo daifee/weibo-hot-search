@@ -1,0 +1,410 @@
+{
+  "runTime": 1661410704282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2711881,
+        "num": 2711881,
+        "word": "官方通报玉龙雪山雷击致人死亡事件",
+        "onboard_time": 1661405969,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2324098,
+        "num": 2324098,
+        "word": "齐司礼",
+        "onboard_time": 1661402497,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80996,
+        "num": 1359680,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1085485,
+        "num": 1085485,
+        "word": "新郎雨天拍婚纱照疑遭雷击去世",
+        "onboard_time": 1661398472,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743644,
+        "num": 743644,
+        "word": "超七成观众愿接受付费直播大结局",
+        "onboard_time": 1661398774,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716386,
+        "num": 716386,
+        "word": "中央预备费拿出100亿元重点支持中稻抗旱",
+        "onboard_time": 1661392471,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 651154,
+        "num": 651154,
+        "word": "科比坠机遗体照遭泄露案判决结果",
+        "onboard_time": 1661388457,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 625886,
+        "num": 625886,
+        "word": "李小龙女儿向真功夫快餐索赔2.1亿",
+        "onboard_time": 1661393911,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601743,
+        "num": 601743,
+        "word": "成都疫情防控",
+        "onboard_time": 1661404411,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594360,
+        "num": 594360,
+        "word": "大妈合力推开核酸亭在广场跳舞",
+        "onboard_time": 1661405727,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437425,
+        "num": 591603,
+        "word": "王鹤棣回应去年古偶丑男今年美男",
+        "onboard_time": 1661404950,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1121949,
+        "num": 583999,
+        "word": "微信支付宝测试信用卡取现",
+        "onboard_time": 1661406869,
+        "rank": 11,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1116967,
+        "num": 581312,
+        "word": "浪莎向李易峰公开道歉",
+        "onboard_time": 1661409748,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909385,
+        "num": 578463,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 920,
+        "num": 569699,
+        "word": "每个人的青春里都有一首那些花儿",
+        "onboard_time": 1661407229,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 568264,
+        "num": 568264,
+        "word": "王一博今年国内五大金九唯一男星",
+        "onboard_time": 1661403929,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 501372,
+        "num": 501372,
+        "word": "为什么漂亮女孩成长更不容易",
+        "onboard_time": 1661397031,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454875,
+        "num": 454875,
+        "word": "ITZY成员签售会修命簿",
+        "onboard_time": 1661408070,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454508,
+        "num": 454508,
+        "word": "退休老人困在山东乳山海景房",
+        "onboard_time": 1661408789,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442009,
+        "num": 442009,
+        "word": "iPhone手机15年拍照进化",
+        "onboard_time": 1661407466,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1027488,
+        "num": 441812,
+        "word": "赵丽颖女团风红发",
+        "onboard_time": 1661408728,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430920,
+        "num": 430920,
+        "word": "研究称睡眠不足会让人更自私",
+        "onboard_time": 1661405431,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398578,
+        "num": 398578,
+        "word": "成都免费取水冰柜里的水越取越多",
+        "onboard_time": 1661409808,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 374181,
+        "num": 374181,
+        "word": "汝州 怪鱼",
+        "onboard_time": 1661409450,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367660,
+        "num": 367660,
+        "word": "女子发烧一周不在意昏迷2个月",
+        "onboard_time": 1661396493,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326491,
+        "num": 326491,
+        "word": "彭昱畅腿是软的嘴是硬的",
+        "onboard_time": 1661408789,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326246,
+        "num": 326246,
+        "word": "郭俊辰说林妙妙口红色号是牛油红",
+        "onboard_time": 1661409929,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276355,
+        "num": 276355,
+        "word": "舌头都要麻了还没学会弹舌",
+        "onboard_time": 1661407347,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259295,
+        "num": 259295,
+        "word": "直击汝州捕捞鳄雀鳝现场",
+        "onboard_time": 1661404531,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254928,
+        "num": 254928,
+        "word": "3岁女童胸腔肿瘤如成人拳头大小",
+        "onboard_time": 1661408547,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305835,
+        "num": 254337,
+        "word": "王源微博更新自动回复",
+        "onboard_time": 1661405551,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270032,
+        "num": 253248,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661396914,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260727,
+        "num": 253126,
+        "word": "张馨予千字长文告别周墨婉",
+        "onboard_time": 1661394214,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251842,
+        "num": 251842,
+        "word": "西安博物院重现1000年前唐三彩",
+        "onboard_time": 1661407830,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248566,
+        "num": 248566,
+        "word": "摩尔庄园",
+        "onboard_time": 1661409865,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247260,
+        "num": 247260,
+        "word": "警员玩游戏时分享科比坠机现场照",
+        "onboard_time": 1661410589,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246369,
+        "num": 246369,
+        "word": "iPhone14或配备4800万像素",
+        "onboard_time": 1661395533,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243967,
+        "num": 243967,
+        "word": "贾宝玉欧阳奋强补求婚",
+        "onboard_time": 1661402914,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234586,
+        "num": 234586,
+        "word": "90后火锅夫妻店如何无声揽客",
+        "onboard_time": 1661409630,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229751,
+        "num": 229751,
+        "word": "人总不能一直工作吧",
+        "onboard_time": 1661399911,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228217,
+        "num": 228217,
+        "word": "Jennie跳舞",
+        "onboard_time": 1661390252,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223705,
+        "num": 223705,
+        "word": "街舞5队长对答案演我",
+        "onboard_time": 1661410529,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221754,
+        "num": 221754,
+        "word": "许凯密逃对NPC硬核撒娇",
+        "onboard_time": 1661408308,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214741,
+        "num": 214741,
+        "word": "疯狂星期四",
+        "onboard_time": 1661386834,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211749,
+        "num": 211749,
+        "word": "这猫咪怎么人模人样的",
+        "onboard_time": 1661409270,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188932,
+        "num": 188932,
+        "word": "女子做洗碗工月薪1600引宝妈共鸣",
+        "onboard_time": 1661391871,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185999,
+        "num": 185999,
+        "word": "元宇宙的中心有点东西",
+        "onboard_time": 1661409510,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 147793,
+        "num": 147793,
+        "word": "安信证券称秦泽文不能代表行业女性",
+        "onboard_time": 1661410288,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147018,
+        "num": 147018,
+        "word": "南部战区组织昼夜间空空导弹实射",
+        "onboard_time": 1661410410,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134096,
+        "num": 134096,
+        "word": "N2报名",
+        "onboard_time": 1661409450,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#护苗2022#"
+    }
+  }
+}
