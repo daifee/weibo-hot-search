@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661435064520,
+  "endTime": 1661435759677,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -59,6 +59,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2156248,
+      "num": 2156248,
+      "word": "警方回应女子影院被家长踹伤",
+      "onboard_time": 1661431194,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2103015,
       "num": 2103015,
       "word": "成都免费取水冰柜里的水越取越多",
@@ -115,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1736427,
-      "num": 1736427,
-      "word": "警方回应女子影院被家长踹伤",
-      "onboard_time": 1661431194,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 1740843,
+      "num": 1740843,
+      "word": "KPL 暂停",
+      "onboard_time": 1661434252,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1728731,
@@ -347,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 850899,
-      "num": 850899,
-      "word": "KPL 暂停",
-      "onboard_time": 1661434252,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 843352,
       "num": 843352,
       "word": "永辉超市三年关近400家店",
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734437,
+      "num": 734437,
+      "word": "上海殡仪馆回应月薪4万8招扛尸工",
+      "onboard_time": 1661433597,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716857,
       "num": 716857,
       "word": "一曲 惨",
@@ -465,6 +473,14 @@
       "onboard_time": 1661411009,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686361,
+      "num": 686361,
+      "word": "开学坐高铁一定要选B座",
+      "onboard_time": 1661433890,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 680605,
@@ -635,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540833,
+      "num": 540833,
+      "word": "为何35岁会成为中年的一道坎",
+      "onboard_time": 1661430473,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 536503,
       "num": 536503,
       "word": "张小斐拯救嫌疑人眼神杀",
@@ -665,14 +689,6 @@
       "onboard_time": 1661400152,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 509989,
-      "num": 509989,
-      "word": "为何35岁会成为中年的一道坎",
-      "onboard_time": 1661430473,
-      "rank": 26,
-      "category": "社会议题"
     },
     {
       "raw_hot": 501268,
@@ -731,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 479925,
-      "num": 479925,
-      "word": "上海殡仪馆回应月薪4万8招扛尸工",
-      "onboard_time": 1661433597,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478247,
       "num": 478247,
       "word": "EDG战胜LNG",
@@ -793,6 +801,22 @@
       "onboard_time": 1661395533,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 457125,
+      "num": 457125,
+      "word": "青岛6岁坠井男童已确认遇难",
+      "onboard_time": 1661423068,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454260,
+      "num": 454260,
+      "word": "江西鹰潭方舱隔离条件堪忧",
+      "onboard_time": 1661432640,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451834,
@@ -851,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 437530,
+      "num": 437530,
+      "word": "女子买不到囍字跑腿小哥现场帮剪",
+      "onboard_time": 1661434311,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433562,
       "num": 433562,
       "word": "中国女排全员戴口罩出战",
@@ -864,14 +896,6 @@
       "word": "城管回应收走商户4箱水",
       "onboard_time": 1661411190,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428033,
-      "num": 428033,
-      "word": "青岛6岁坠井男童已确认遇难",
-      "onboard_time": 1661423068,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -937,22 +961,6 @@
       "onboard_time": 1661408547,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405245,
-      "num": 405245,
-      "word": "江西鹰潭方舱隔离条件堪忧",
-      "onboard_time": 1661432640,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404536,
-      "num": 404536,
-      "word": "开学坐高铁一定要选B座",
-      "onboard_time": 1661433890,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 403864,
@@ -1032,6 +1040,14 @@
       "word": "川渝人是有些英雄气在身上的",
       "onboard_time": 1661392651,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378206,
+      "num": 378206,
+      "word": "重庆山火",
+      "onboard_time": 1661434191,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 329809,
+      "num": 329809,
+      "word": "欢乐颂3何悯鸿遭遇网络争议",
+      "onboard_time": 1661431860,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324936,
       "num": 324936,
       "word": "沉香如屑弹幕优酷剧集历史第一",
@@ -1307,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296354,
-      "num": 296354,
-      "word": "重庆山火",
-      "onboard_time": 1661434191,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295692,
       "num": 295692,
       "word": "猫咪私自开笼放狗寻玩伴被罚绝育",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1661351194,
       "rank": 16,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 289415,
-      "num": 289415,
-      "word": "欢乐颂3何悯鸿遭遇网络争议",
-      "onboard_time": 1661431860,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 288708,
@@ -1419,20 +1427,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 281573,
+      "num": 281573,
+      "word": "梁爽说要重新回到第一",
+      "onboard_time": 1661435390,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281483,
       "num": 281483,
       "word": "中国篮球名人堂30人提名名单",
       "onboard_time": 1661412272,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 280189,
-      "num": 280189,
-      "word": "女子买不到囍字跑腿小哥现场帮剪",
-      "onboard_time": 1661434311,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280000,
@@ -1827,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217993,
+      "num": 217993,
+      "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
+      "onboard_time": 1661435331,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215867,
       "num": 215867,
       "word": "鬼手好惨",
@@ -1971,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190955,
+      "num": 190955,
+      "word": "大型无人机在四川增雨",
+      "onboard_time": 1661433713,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190084,
       "num": 190084,
       "word": "苏醒说0713团综能红是因为够糊",
@@ -2051,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180439,
+      "num": 180439,
+      "word": "星汉灿烂",
+      "onboard_time": 1661429273,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178413,
       "num": 178413,
       "word": "四六级查分我们都是过儿",
@@ -2092,19 +2124,11 @@
     },
     {
       "raw_hot": 174959,
-      "num": 1188642,
+      "num": 1485086,
       "word": "这些娃儿侠肝义胆",
       "onboard_time": 1661402315,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 174607,
-      "num": 174607,
-      "word": "大型无人机在四川增雨",
-      "onboard_time": 1661433713,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174091,
@@ -2195,6 +2219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160199,
+      "num": 160199,
+      "word": "KPL",
+      "onboard_time": 1661435213,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159964,
       "num": 159964,
       "word": "电影世间有她",
@@ -2211,20 +2243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157886,
+      "num": 157886,
+      "word": "小猫被困井下一年获救还是胖乎乎",
+      "onboard_time": 1661435630,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152990,
       "num": 152990,
       "word": "修长小腿就靠它了",
       "onboard_time": 1661354611,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151807,
-      "num": 151807,
-      "word": "星汉灿烂",
-      "onboard_time": 1661429273,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 148597,
