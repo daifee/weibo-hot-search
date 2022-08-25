@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661419322560,
+  "endTime": 1661420363254,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1065235,
+      "num": 1065235,
+      "word": "刚上大一有必要买电脑吗",
+      "onboard_time": 1661415750,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1050976,
       "num": 1050976,
       "word": "女子做洗碗工月薪1600引宝妈共鸣",
@@ -331,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 724256,
-      "num": 724256,
-      "word": "刚上大一有必要买电脑吗",
-      "onboard_time": 1661415750,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 716857,
       "num": 716857,
       "word": "一曲 惨",
@@ -361,6 +361,14 @@
       "onboard_time": 1661411009,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684637,
+      "num": 684637,
+      "word": "原来睡一觉就好了不是安慰",
+      "onboard_time": 1661418510,
+      "rank": 21,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 661594,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585304,
+      "num": 585304,
+      "word": "网传长陵暂定刘亦菲王鹤棣",
+      "onboard_time": 1661420248,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 583873,
       "num": 583873,
       "word": "PS5涨价",
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563928,
+      "num": 563928,
+      "word": "日本警察厅长官宣布辞职",
+      "onboard_time": 1661417248,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 546595,
       "num": 546595,
       "word": "李斯丹妮演警察",
@@ -471,6 +495,14 @@
       "num": 536503,
       "word": "张小斐拯救嫌疑人眼神杀",
       "onboard_time": 1661395769,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 533101,
+      "num": 533101,
+      "word": "星汉灿烂弹幕总互动量破4.5亿",
+      "onboard_time": 1661419772,
       "rank": 13,
       "category": "影视"
     },
@@ -489,6 +521,14 @@
       "onboard_time": 1661386834,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 518495,
+      "num": 518495,
+      "word": "请君",
+      "onboard_time": 1661418629,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 517958,
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471109,
+      "num": 471109,
+      "word": "我们的歌",
+      "onboard_time": 1661417307,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467586,
       "num": 467586,
       "word": "00后小伙用燃气灶改装电脑送姐姐",
@@ -569,6 +617,14 @@
       "onboard_time": 1661395533,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 451554,
+      "num": 451554,
+      "word": "比亚迪准备推出起步价百万新能源汽车品牌",
+      "onboard_time": 1661418571,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445040,
@@ -609,22 +665,6 @@
       "onboard_time": 1661357489,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 440115,
-      "num": 440115,
-      "word": "我们的歌",
-      "onboard_time": 1661417307,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 434166,
-      "num": 434166,
-      "word": "日本警察厅长官宣布辞职",
-      "onboard_time": 1661417248,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 429477,
@@ -827,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345302,
-      "num": 345302,
-      "word": "原来睡一觉就好了不是安慰",
-      "onboard_time": 1661418510,
-      "rank": 21,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 344186,
       "num": 344186,
       "word": "江浙沪人民操心30度该穿什么",
@@ -1027,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283506,
+      "num": 283506,
+      "word": "沉香重华",
+      "onboard_time": 1661420188,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281483,
       "num": 281483,
       "word": "中国篮球名人堂30人提名名单",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1661407587,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279133,
+      "num": 263079,
+      "word": "有什么是你工作以后才明白的",
+      "onboard_time": 1661418151,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 275608,
@@ -1059,12 +1107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273890,
-      "num": 273890,
-      "word": "请君",
-      "onboard_time": 1661418629,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 273396,
+      "num": 273396,
+      "word": "中国女排vs伊朗女排",
+      "onboard_time": 1661418933,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 273159,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1661403276,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261644,
-      "num": 261644,
-      "word": "比亚迪准备推出起步价百万新能源汽车品牌",
-      "onboard_time": 1661418571,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261181,
@@ -1227,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245719,
+      "num": 245719,
+      "word": "李皓楠用嘴划船",
+      "onboard_time": 1661419589,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245015,
       "num": 245015,
       "word": "朴树23年后重编那些花儿",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1661402737,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234519,
-      "num": 234519,
-      "word": "中国女排vs伊朗女排",
-      "onboard_time": 1661418933,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 231724,
@@ -1347,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217754,
-      "num": 217754,
-      "word": "有什么是你工作以后才明白的",
-      "onboard_time": 1661418151,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215867,
       "num": 215867,
       "word": "鬼手好惨",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1661416110,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202316,
+      "num": 202316,
+      "word": "世间再无唐周",
+      "onboard_time": 1661419530,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 200282,
@@ -1515,6 +1555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 185144,
+      "num": 185144,
+      "word": "2022年女排亚洲杯",
+      "onboard_time": 1661419887,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182160,
       "num": 182160,
       "word": "台风",
@@ -1536,6 +1584,14 @@
       "word": "空调停电程序员集体去网吧上班",
       "onboard_time": 1661384604,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176130,
+      "num": 176130,
+      "word": "石家庄桥西区疫情防控",
+      "onboard_time": 1661419470,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173428,
+      "num": 173428,
+      "word": "宁波美籍男子故意杀人案二审宣判",
+      "onboard_time": 1661419772,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171823,
       "num": 171823,
       "word": "WBG粉丝聊天室",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1661349215,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169111,
+      "num": 169111,
+      "word": "重庆速度",
+      "onboard_time": 1661420067,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 168336,
@@ -1884,7 +1956,7 @@
     },
     {
       "raw_hot": 13086,
-      "num": 440167,
+      "num": 525782,
       "word": "CSO居然是首席道歉官",
       "onboard_time": 1661418031,
       "rank": 14,
