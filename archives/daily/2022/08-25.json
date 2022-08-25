@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661435759677,
+  "endTime": 1661437213091,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -9,6 +9,14 @@
       "onboard_time": 1661398472,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3124730,
+      "num": 3124730,
+      "word": "KPL 暂停",
+      "onboard_time": 1661434252,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 2994906,
@@ -123,14 +131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1740843,
-      "num": 1740843,
-      "word": "KPL 暂停",
-      "onboard_time": 1661434252,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1728731,
       "num": 1728731,
       "word": "任嘉伦李沁请君背后抱",
@@ -203,12 +203,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1318565,
+      "num": 1318565,
+      "word": "上海殡仪馆回应月薪4万8招扛尸工",
+      "onboard_time": 1661433597,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1276231,
       "num": 773454,
       "word": "王鹤棣叫虞书欣欣欣姐姐",
       "onboard_time": 1661388755,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1179155,
+      "num": 1179155,
+      "word": "开学坐高铁一定要选B座",
+      "onboard_time": 1661433890,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 1174288,
@@ -233,6 +249,14 @@
       "onboard_time": 1661390675,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1143086,
+      "num": 1143086,
+      "word": "姿态 求婚",
+      "onboard_time": 1661436650,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1126964,
@@ -419,8 +443,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 771160,
-      "num": 771160,
+      "raw_hot": 787990,
+      "num": 787990,
       "word": "沉香重华疯狂星期四",
       "onboard_time": 1661425981,
       "rank": 16,
@@ -441,14 +465,6 @@
       "onboard_time": 1661352395,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 734437,
-      "num": 734437,
-      "word": "上海殡仪馆回应月薪4万8招扛尸工",
-      "onboard_time": 1661433597,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 716857,
@@ -473,14 +489,6 @@
       "onboard_time": 1661411009,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686361,
-      "num": 686361,
-      "word": "开学坐高铁一定要选B座",
-      "onboard_time": 1661433890,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 680605,
@@ -563,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 612578,
+      "num": 581193,
+      "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
+      "onboard_time": 1661435331,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599732,
       "num": 599732,
       "word": "ITZY成员签售会修命簿",
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559874,
+      "num": 559874,
+      "word": "女子买不到囍字跑腿小哥现场帮剪",
+      "onboard_time": 1661434311,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550563,
       "num": 550563,
       "word": "算命大师称转账后走66步不回头可消灾",
@@ -667,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533727,
+      "num": 533727,
+      "word": "江西鹰潭方舱隔离条件堪忧",
+      "onboard_time": 1661432640,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531494,
       "num": 531494,
       "word": "湖人将交易得到贝弗利",
@@ -689,6 +721,14 @@
       "onboard_time": 1661400152,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 515786,
+      "num": 515786,
+      "word": "重庆山火",
+      "onboard_time": 1661434191,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501268,
@@ -728,6 +768,14 @@
       "word": "研究称睡眠不足会让人更自私",
       "onboard_time": 1661405431,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483465,
+      "num": 483465,
+      "word": "青岛6岁坠井男童已确认遇难",
+      "onboard_time": 1661423068,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -795,36 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460394,
+      "num": 460394,
+      "word": "成都锦江区发布重要提示",
+      "onboard_time": 1661433182,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459504,
       "num": 459504,
       "word": "iPhone14或配备4800万像素",
       "onboard_time": 1661395533,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 457125,
-      "num": 457125,
-      "word": "青岛6岁坠井男童已确认遇难",
-      "onboard_time": 1661423068,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454260,
-      "num": 454260,
-      "word": "江西鹰潭方舱隔离条件堪忧",
-      "onboard_time": 1661432640,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451834,
-      "num": 451834,
-      "word": "成都锦江区发布重要提示",
-      "onboard_time": 1661433182,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445377,
@@ -875,14 +907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 437530,
-      "num": 437530,
-      "word": "女子买不到囍字跑腿小哥现场帮剪",
-      "onboard_time": 1661434311,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433562,
       "num": 433562,
       "word": "中国女排全员戴口罩出战",
@@ -899,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423133,
+      "num": 423133,
+      "word": "小猫被困井下一年获救还是胖乎乎",
+      "onboard_time": 1661435630,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423049,
       "num": 423049,
       "word": "贾宝玉欧阳奋强补求婚",
       "onboard_time": 1661402914,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420794,
+      "num": 420794,
+      "word": "欢乐颂3何悯鸿遭遇网络争议",
+      "onboard_time": 1661431860,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 417687,
@@ -1040,14 +1080,6 @@
       "word": "川渝人是有些英雄气在身上的",
       "onboard_time": 1661392651,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378206,
-      "num": 378206,
-      "word": "重庆山火",
-      "onboard_time": 1661434191,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1211,14 +1243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 329809,
-      "num": 329809,
-      "word": "欢乐颂3何悯鸿遭遇网络争议",
-      "onboard_time": 1661431860,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 324936,
       "num": 324936,
       "word": "沉香如屑弹幕优酷剧集历史第一",
@@ -1323,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299748,
+      "num": 299748,
+      "word": "KPL",
+      "onboard_time": 1661435213,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299588,
       "num": 299588,
       "word": "南宁疫情防控",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1661349335,
       "rank": 19,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 294333,
+      "num": 294333,
+      "word": "梁爽说要重新回到第一",
+      "onboard_time": 1661435390,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 291894,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1661425310,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 281573,
-      "num": 281573,
-      "word": "梁爽说要重新回到第一",
-      "onboard_time": 1661435390,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 281483,
@@ -1835,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217993,
-      "num": 217993,
-      "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
-      "onboard_time": 1661435331,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215867,
       "num": 215867,
       "word": "鬼手好惨",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1661406089,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204007,
+      "num": 204007,
+      "word": "为什么道理都懂就是做不到",
+      "onboard_time": 1661436289,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 200282,
@@ -2187,6 +2219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166800,
+      "num": 166800,
+      "word": "冒泡赛",
+      "onboard_time": 1661436830,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165758,
       "num": 165758,
       "word": "因井水起纷争老人被邻居打骨折",
@@ -2219,14 +2259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160199,
-      "num": 160199,
-      "word": "KPL",
-      "onboard_time": 1661435213,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159964,
       "num": 159964,
       "word": "电影世间有她",
@@ -2241,14 +2273,6 @@
       "onboard_time": 1661422169,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157886,
-      "num": 157886,
-      "word": "小猫被困井下一年获救还是胖乎乎",
-      "onboard_time": 1661435630,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152990,
@@ -2267,12 +2291,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148339,
+      "num": 148339,
+      "word": "空气炸锅做出的食物更健康吗",
+      "onboard_time": 1661437009,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 148215,
       "num": 148215,
       "word": "上海辟谣做核酸会增加咽喉癌几率",
       "onboard_time": 1661386531,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147931,
+      "num": 147931,
+      "word": "旺得福鹅",
+      "onboard_time": 1661436289,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 147793,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1661359223,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "贝壳造的游乐园",
+      "onboard_time": 1661437129,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 135908,
@@ -2551,6 +2599,9 @@
     },
     {
       "word": "#人民空军同框照帅到飞起#"
+    },
+    {
+      "word": "#共同构建全球发展共同体#"
     }
   ]
 }
