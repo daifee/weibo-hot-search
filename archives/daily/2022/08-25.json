@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661413235365,
+  "endTime": 1661416162350,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -51,6 +51,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2103015,
+      "num": 2103015,
+      "word": "成都免费取水冰柜里的水越取越多",
+      "onboard_time": 1661409808,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 2014227,
       "num": 2014227,
       "word": "新娘穿自己设计全粉婚纱结婚引热议",
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1899310,
+      "num": 1899310,
+      "word": "老人凌晨被扔半路女子装顺路送回",
+      "onboard_time": 1661412210,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1877808,
       "num": 581312,
       "word": "浪莎向李易峰公开道歉",
@@ -81,14 +97,6 @@
       "onboard_time": 1661397031,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1693124,
-      "num": 1693124,
-      "word": "成都免费取水冰柜里的水越取越多",
-      "onboard_time": 1661409808,
-      "rank": 22,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 1662176,
@@ -113,6 +121,14 @@
       "onboard_time": 1661395352,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1353808,
+      "num": 1353808,
+      "word": "珠海防空警报",
+      "onboard_time": 1661414972,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1339101,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583873,
+      "num": 583873,
+      "word": "PS5涨价",
+      "onboard_time": 1661414069,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 583757,
       "num": 583757,
       "word": "缙云山",
@@ -419,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533510,
+      "num": 533510,
+      "word": "甲状腺发病的4个主要原因",
+      "onboard_time": 1661411009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531494,
       "num": 531494,
       "word": "湖人将交易得到贝弗利",
       "onboard_time": 1661400215,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 530516,
+      "num": 530516,
+      "word": "还好有人录下来了",
+      "onboard_time": 1661412930,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 526263,
@@ -555,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 429477,
+      "num": 429477,
+      "word": "城管回应收走商户4箱水",
+      "onboard_time": 1661411190,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423049,
       "num": 423049,
       "word": "贾宝玉欧阳奋强补求婚",
@@ -587,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408533,
-      "num": 408533,
-      "word": "老人凌晨被扔半路女子装顺路送回",
-      "onboard_time": 1661412210,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 407136,
       "num": 407136,
       "word": "重庆北碚急招志愿者",
@@ -616,6 +656,14 @@
       "word": "3岁女童胸腔肿瘤如成人拳头大小",
       "onboard_time": 1661408547,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405498,
+      "num": 405498,
+      "word": "体检报告上的常见异常",
+      "onboard_time": 1661412689,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -731,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348111,
+      "num": 348111,
+      "word": "重庆巴南山火明火被扑灭",
+      "onboard_time": 1661412845,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344186,
       "num": 344186,
       "word": "江浙沪人民操心30度该穿什么",
@@ -777,14 +833,6 @@
       "onboard_time": 1661397752,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321088,
-      "num": 321088,
-      "word": "重庆巴南山火明火被扑灭",
-      "onboard_time": 1661412845,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316910,
@@ -843,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299588,
+      "num": 299588,
+      "word": "南宁疫情防控",
+      "onboard_time": 1661415210,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295692,
       "num": 295692,
       "word": "猫咪私自开笼放狗寻玩伴被罚绝育",
@@ -867,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291257,
+      "num": 291257,
+      "word": "大学第一台电脑要怎么选",
+      "onboard_time": 1661411728,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289442,
       "num": 1729447,
       "word": "解放军奋战山火休息时和衣而卧",
@@ -875,28 +939,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 288908,
-      "num": 288908,
-      "word": "甲状腺发病的4个主要原因",
-      "onboard_time": 1661411009,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287297,
       "num": 267381,
       "word": "雀斑公主终极预告",
       "onboard_time": 1661406569,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284525,
-      "num": 284525,
-      "word": "城管回应收走商户4箱水",
-      "onboard_time": 1661411190,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284089,
@@ -913,6 +961,14 @@
       "onboard_time": 1661399372,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281483,
+      "num": 281483,
+      "word": "中国篮球名人堂30人提名名单",
+      "onboard_time": 1661412272,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 280000,
@@ -952,6 +1008,14 @@
       "word": "何悯鸿早C晚C",
       "onboard_time": 1661354255,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271082,
+      "num": 271082,
+      "word": "杨戬票房破2亿",
+      "onboard_time": 1661413832,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1019,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256900,
-      "num": 256900,
-      "word": "中国篮球名人堂30人提名名单",
-      "onboard_time": 1661412272,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256244,
       "num": 256244,
       "word": "感受到男人娶老婆的快乐了",
@@ -1089,14 +1145,6 @@
       "onboard_time": 1661365455,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238375,
-      "num": 238375,
-      "word": "大学第一台电脑要怎么选",
-      "onboard_time": 1661411728,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237405,
@@ -1243,14 +1291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 198103,
-      "num": 198103,
-      "word": "还好有人录下来了",
-      "onboard_time": 1661412930,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195242,
       "num": 195242,
       "word": "四川一镇突发大火多个居民楼被点燃",
@@ -1304,14 +1344,6 @@
       "word": "幽门螺旋杆菌为何如此特殊",
       "onboard_time": 1661395950,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187819,
-      "num": 187819,
-      "word": "体检报告上的常见异常",
-      "onboard_time": 1661412689,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1395,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172782,
+      "num": 172782,
+      "word": "刚上大一有必要买电脑吗",
+      "onboard_time": 1661415750,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171370,
       "num": 171370,
       "word": "谢了四六级再谢四六鸡",
@@ -1443,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164135,
+      "num": 164135,
+      "word": "苍兰诀",
+      "onboard_time": 1661413771,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161751,
       "num": 161751,
       "word": "胆小鬼",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1661394690,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159939,
+      "num": 159939,
+      "word": "重庆机车少年送云南消防员上前线",
+      "onboard_time": 1661415990,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 152990,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1661352819,
       "rank": 40,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 133342,
+      "num": 133342,
+      "word": "EDG对战LNG",
+      "onboard_time": 1661416110,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 130250,
