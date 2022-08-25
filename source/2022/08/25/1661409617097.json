@@ -1,0 +1,410 @@
+{
+  "runTime": 1661409617097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2113078,
+        "num": 2113078,
+        "word": "官方通报玉龙雪山雷击致人死亡事件",
+        "onboard_time": 1661405969,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1707830,
+        "num": 1707830,
+        "word": "新郎雨天拍婚纱照疑遭雷击去世",
+        "onboard_time": 1661398472,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85208,
+        "num": 1339044,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1279649,
+        "num": 1279649,
+        "word": "齐司礼",
+        "onboard_time": 1661402497,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 890803,
+        "num": 890803,
+        "word": "超七成观众愿接受付费直播大结局",
+        "onboard_time": 1661398774,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800113,
+        "num": 800113,
+        "word": "中央预备费拿出100亿元重点支持中稻抗旱",
+        "onboard_time": 1661392471,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 783122,
+        "num": 783122,
+        "word": "科比坠机遗体照遭泄露案判决结果",
+        "onboard_time": 1661388457,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 763396,
+        "num": 763396,
+        "word": "成都疫情防控",
+        "onboard_time": 1661404411,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677702,
+        "num": 677702,
+        "word": "李小龙女儿向真功夫快餐索赔2.1亿",
+        "onboard_time": 1661393911,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555563,
+        "num": 668386,
+        "word": "大妈合力推开核酸亭在广场跳舞",
+        "onboard_time": 1661405727,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1662176,
+        "num": 663617,
+        "word": "王鹤棣回应去年古偶丑男今年美男",
+        "onboard_time": 1661404950,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 994473,
+        "num": 639358,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 875185,
+        "num": 626656,
+        "word": "微信支付宝测试信用卡取现",
+        "onboard_time": 1661406869,
+        "rank": 12,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 725247,
+        "num": 617666,
+        "word": "王一博今年国内五大金九唯一男星",
+        "onboard_time": 1661403929,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2317,
+        "num": 611764,
+        "word": "每个人的青春里都有一首那些花儿",
+        "onboard_time": 1661407229,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 599732,
+        "num": 599732,
+        "word": "ITZY成员签售会修命簿",
+        "onboard_time": 1661408070,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583640,
+        "num": 583640,
+        "word": "为什么漂亮女孩成长更不容易",
+        "onboard_time": 1661397031,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488953,
+        "num": 488953,
+        "word": "研究称睡眠不足会让人更自私",
+        "onboard_time": 1661405431,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469362,
+        "num": 469362,
+        "word": "女子发烧一周不在意昏迷2个月",
+        "onboard_time": 1661396493,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405674,
+        "num": 405674,
+        "word": "iPhone手机15年拍照进化",
+        "onboard_time": 1661407466,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 703397,
+        "num": 403992,
+        "word": "国内甲状腺结节群体已超2亿",
+        "onboard_time": 1661404291,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339101,
+        "num": 394567,
+        "word": "赵丽颖女团风红发",
+        "onboard_time": 1661408728,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 383038,
+        "num": 383038,
+        "word": "王源微博更新自动回复",
+        "onboard_time": 1661405551,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370275,
+        "num": 370275,
+        "word": "彭昱畅腿是软的嘴是硬的",
+        "onboard_time": 1661408789,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357077,
+        "num": 357077,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661396914,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306905,
+        "num": 306905,
+        "word": "贾宝玉欧阳奋强补求婚",
+        "onboard_time": 1661402914,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284089,
+        "num": 284089,
+        "word": "舌头都要麻了还没学会弹舌",
+        "onboard_time": 1661407347,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283230,
+        "num": 283230,
+        "word": "人总不能一直工作吧",
+        "onboard_time": 1661399911,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 270600,
+        "num": 270600,
+        "word": "iPhone14或配备4800万像素",
+        "onboard_time": 1661395533,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258610,
+        "num": 258610,
+        "word": "女子做洗碗工月薪1600引宝妈共鸣",
+        "onboard_time": 1661391871,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282426,
+        "num": 257946,
+        "word": "匹诺曹新预告",
+        "onboard_time": 1661404355,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280000,
+        "num": 257719,
+        "word": "女士的品格杀青",
+        "onboard_time": 1661407587,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274346,
+        "num": 257113,
+        "word": "许凯密逃对NPC硬核撒娇",
+        "onboard_time": 1661408308,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271928,
+        "num": 255757,
+        "word": "张馨予千字长文告别周墨婉",
+        "onboard_time": 1661394214,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255666,
+        "num": 255666,
+        "word": "直击汝州捕捞鳄雀鳝现场",
+        "onboard_time": 1661404531,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250019,
+        "num": 250019,
+        "word": "退休老人困在山东乳山海景房",
+        "onboard_time": 1661408789,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226781,
+        "num": 226781,
+        "word": "疯狂星期四",
+        "onboard_time": 1661386834,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216054,
+        "num": 216054,
+        "word": "西安博物院重现1000年前唐三彩",
+        "onboard_time": 1661407830,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213475,
+        "num": 213475,
+        "word": "汝州 怪鱼",
+        "onboard_time": 1661409450,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208712,
+        "num": 208712,
+        "word": "N2报名",
+        "onboard_time": 1661409450,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227630,
+        "num": 203681,
+        "word": "沸腾校园20所高校舞社官宣",
+        "onboard_time": 1661408847,
+        "rank": 40,
+        "category": "综艺,教育"
+      },
+      {
+        "raw_hot": 267734,
+        "num": 202854,
+        "word": "Jennie跳舞",
+        "onboard_time": 1661390252,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248347,
+        "num": 193841,
+        "word": "林更新与凤行氛围感剧照",
+        "onboard_time": 1661409149,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180764,
+        "num": 180764,
+        "word": "3岁女童胸腔肿瘤如成人拳头大小",
+        "onboard_time": 1661408547,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171700,
+        "num": 171700,
+        "word": "北碚",
+        "onboard_time": 1661387374,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163459,
+        "num": 163459,
+        "word": "遭老人组团偷南瓜女子发声",
+        "onboard_time": 1661386232,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161493,
+        "num": 161493,
+        "word": "台军士兵向大陆无人机丢石头",
+        "onboard_time": 1661384965,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 156968,
+        "num": 156968,
+        "word": "郑州房东降价40%仍难租",
+        "onboard_time": 1661390675,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147582,
+        "num": 147582,
+        "word": "元宇宙的中心有点东西",
+        "onboard_time": 1661409510,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 145744,
+        "num": 145744,
+        "word": "这猫咪怎么人模人样的",
+        "onboard_time": 1661409270,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民空军同框照帅到飞起#"
+    }
+  }
+}
