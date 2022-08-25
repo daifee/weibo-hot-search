@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/25 18:25:45
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/25 19:20:19
 </p>
 </blockquote>
 <p>
@@ -3357,6 +3357,12 @@ JackeyLove送女友13000元玫瑰花（热度：1922447）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%AE%B6%E9%95%BF%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B8%A2%E4%BA%BA%E5%AF%BC%E8%87%B4%E8%A7%82%E4%BC%97%E7%96%91%E4%BC%BC%E8%84%91%E9%9C%87%E8%8D%A1%23" target="weibo">
+熊孩子家长电影院踢人导致观众疑似脑震荡（热度：1891307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%20%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B%23" target="weibo">
 王心凌 乘风破浪年度总冠军（热度：1888618）
 </a>
@@ -4649,12 +4655,6 @@ R1SE解散了但没完全解散（热度：1542791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%BF%E8%A1%801%E5%B9%B4%E5%8F%96%E5%87%BA20%E5%8E%98%E7%B1%B3%E8%9A%AF%E8%9A%93%E7%8A%B6%E8%A1%80%E4%B8%9D%23" target="weibo">
 女子尿血1年取出20厘米蚯蚓状血丝（热度：1526305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%AE%B6%E9%95%BF%E7%94%B5%E5%BD%B1%E9%99%A2%E8%B8%A2%E4%BA%BA%E5%AF%BC%E8%87%B4%E8%A7%82%E4%BC%97%E7%96%91%E4%BC%BC%E8%84%91%E9%9C%87%E8%8D%A1%23" target="weibo">
-熊孩子家长电影院踢人导致观众疑似脑震荡（热度：1525498）
 </a>
 </li>
 
