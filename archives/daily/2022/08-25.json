@@ -1,7 +1,15 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661402568851,
+  "endTime": 1661403544976,
   "band_list": [
+    {
+      "raw_hot": 3716195,
+      "num": 3716195,
+      "word": "新郎雨天拍婚纱照疑遭雷击去世",
+      "onboard_time": 1661398472,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2994906,
       "num": 2994906,
@@ -9,14 +17,6 @@
       "onboard_time": 1661388457,
       "rank": 0,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 2769051,
-      "num": 2769051,
-      "word": "新郎雨天拍婚纱照疑遭雷击去世",
-      "onboard_time": 1661398472,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2420541,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1993899,
-      "num": 705440,
+      "num": 801709,
       "word": "你有月经羞耻吗",
       "onboard_time": 1661398472,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 958335,
+      "num": 958335,
+      "word": "超七成观众愿接受付费直播大结局",
+      "onboard_time": 1661398774,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826844,
       "num": 826844,
       "word": "官方回应违反防疫规定参加葬礼被罚",
@@ -219,14 +227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 698450,
-      "num": 698450,
-      "word": "超七成观众愿接受付费直播大结局",
-      "onboard_time": 1661398774,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 661594,
       "num": 661594,
       "word": "95年女孩打多份工买房住进毛坯房",
@@ -251,6 +251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 629645,
+      "num": 629645,
+      "word": "人总不能一直工作吧",
+      "onboard_time": 1661399911,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 613724,
       "num": 613724,
       "word": "音银涉嫌分数造假被立案",
@@ -267,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583106,
+      "num": 583106,
+      "word": "齐司礼",
+      "onboard_time": 1661402497,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 579156,
       "num": 579156,
       "word": "铁路客服回应学生退票被收手续费",
       "onboard_time": 1661382379,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546595,
+      "num": 546595,
+      "word": "李斯丹妮演警察",
+      "onboard_time": 1661401597,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 536503,
@@ -299,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 517958,
+      "num": 517958,
+      "word": "王鹤棣跳yesok",
+      "onboard_time": 1661400152,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490760,
       "num": 249027,
       "word": "张庭夫妇相关传销案听证会排期中",
@@ -321,14 +353,6 @@
       "onboard_time": 1661350412,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 475731,
-      "num": 475731,
-      "word": "王鹤棣跳yesok",
-      "onboard_time": 1661400152,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 467586,
@@ -363,14 +387,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 454795,
-      "num": 454795,
-      "word": "李斯丹妮演警察",
-      "onboard_time": 1661401597,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 445040,
       "num": 445040,
       "word": "王一博时尚COSMO九月刊预告",
@@ -403,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 428558,
-      "num": 428558,
-      "word": "人总不能一直工作吧",
-      "onboard_time": 1661399911,
-      "rank": 22,
-      "category": "幽默,情感"
+      "raw_hot": 417687,
+      "num": 1827639,
+      "word": "三伏结束了",
+      "onboard_time": 1661384363,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416817,
@@ -424,6 +440,14 @@
       "word": "北碚",
       "onboard_time": 1661387374,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407136,
+      "num": 407136,
+      "word": "重庆北碚急招志愿者",
+      "onboard_time": 1661399793,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -443,14 +467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 396550,
-      "num": 396550,
-      "word": "齐司礼",
-      "onboard_time": 1661402497,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 391648,
       "num": 391648,
       "word": "谢谢四六级站岗小狗",
@@ -459,20 +475,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 390595,
+      "num": 390595,
+      "word": "陈雨菲",
+      "onboard_time": 1661399010,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381909,
       "num": 381909,
       "word": "世界小姐主办方将调查中国区候选人投诉",
       "onboard_time": 1661391933,
       "rank": 24,
       "category": "时尚,社会新闻"
-    },
-    {
-      "raw_hot": 380711,
-      "num": 380711,
-      "word": "陈雨菲",
-      "onboard_time": 1661399010,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 380196,
@@ -515,19 +531,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361401,
+      "num": 361401,
+      "word": "苍兰诀结黎的嘴骗人的鬼",
+      "onboard_time": 1661401836,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353535,
       "num": 353535,
       "word": "南京疫情防控",
       "onboard_time": 1661392053,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347375,
-      "num": 347375,
-      "word": "重庆北碚急招志愿者",
-      "onboard_time": 1661399793,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -539,12 +555,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 339871,
-      "num": 1827639,
-      "word": "三伏结束了",
-      "onboard_time": 1661384363,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 334360,
+      "num": 334360,
+      "word": "杨洋时装男士九月封面",
+      "onboard_time": 1661403215,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332478,
@@ -561,14 +577,6 @@
       "onboard_time": 1661395711,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 328630,
-      "num": 328630,
-      "word": "苍兰诀结黎的嘴骗人的鬼",
-      "onboard_time": 1661401836,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 324936,
@@ -651,12 +659,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279290,
+      "num": 279290,
+      "word": "贾宝玉欧阳奋强补求婚",
+      "onboard_time": 1661402914,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275608,
       "num": 275608,
       "word": "倪妮时装金九封面",
       "onboard_time": 1661401114,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273159,
+      "num": 273159,
+      "word": "高德地图上线防晒导航功能",
+      "onboard_time": 1661401776,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 271531,
@@ -681,6 +705,14 @@
       "onboard_time": 1661397153,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262742,
+      "num": 262742,
+      "word": "何冰娇错失4赛点遭逆转",
+      "onboard_time": 1661403276,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 260258,
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235899,
+      "num": 235899,
+      "word": "拿手好戏拿手官宣",
+      "onboard_time": 1661402737,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231384,
       "num": 231384,
       "word": "重庆新增27例本土确诊16例无症状",
@@ -771,20 +811,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215831,
-      "num": 215831,
-      "word": "高德地图上线防晒导航功能",
-      "onboard_time": 1661401776,
-      "rank": 46,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "重庆疫情防控",
       "onboard_time": 1661345432,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211478,
+      "num": 211478,
+      "word": "期待魏晨袁午",
+      "onboard_time": 1661403513,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 209661,
