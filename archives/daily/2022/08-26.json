@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661463441767,
+  "endTime": 1661466147259,
   "band_list": [
     {
       "raw_hot": 2879250,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79253,
+      "num": 79253,
+      "word": "王一博这就是街舞问鸭脖是我吗",
+      "onboard_time": 1661462772,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67189,
       "num": 67189,
       "word": "结婚会带给人怎样的改变",
@@ -451,20 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18216,
-      "num": 18216,
+      "raw_hot": 45788,
+      "num": 45788,
+      "word": "辅警为办事聋哑夫妻写满一页纸",
+      "onboard_time": 1661464333,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 27796,
+      "num": 27796,
       "word": "重庆群众自发背物资徒步上山",
       "onboard_time": 1661429871,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17147,
-      "num": 17147,
-      "word": "王一博这就是街舞问鸭脖是我吗",
-      "onboard_time": 1661462772,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 15105,

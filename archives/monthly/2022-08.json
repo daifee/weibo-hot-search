@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661463441767,
+  "endTime": 1661466147259,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -57027,6 +57027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 79253,
+      "num": 79253,
+      "word": "王一博这就是街舞问鸭脖是我吗",
+      "onboard_time": 1661462772,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79216,
       "num": 46647,
       "word": "江疏影看男明星腹肌视频reaction",
@@ -57473,6 +57481,14 @@
       "onboard_time": 1660073773,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 45788,
+      "num": 45788,
+      "word": "辅警为办事聋哑夫妻写满一页纸",
+      "onboard_time": 1661464333,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 45338,
@@ -58049,14 +58065,6 @@
       "onboard_time": 1661370852,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17147,
-      "num": 17147,
-      "word": "王一博这就是街舞问鸭脖是我吗",
-      "onboard_time": 1661462772,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 16972,
