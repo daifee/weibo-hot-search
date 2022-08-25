@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661441007945,
+  "endTime": 1661442078788,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -435,6 +435,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 2092675,
+      "num": 2092675,
+      "word": "湘雅二院医生刘翔峰被查",
+      "onboard_time": 1661438866,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2028210,
       "num": 2028210,
       "word": "孕妇偷吃辣条被发现后狂炫",
@@ -767,14 +775,6 @@
       "num": 1479461,
       "word": "珠海防空警报",
       "onboard_time": 1661414972,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1477109,
-      "num": 1477109,
-      "word": "湘雅二院医生刘翔峰被查",
-      "onboard_time": 1661438866,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -2331,6 +2331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 660676,
+      "num": 660676,
+      "word": "1岁婴儿吞5枚电池10小时后取出",
+      "onboard_time": 1661439404,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658861,
       "num": 567613,
       "word": "俞灏明王栎鑫再唱红日",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1661130152,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606630,
+      "num": 606630,
+      "word": "刺痛 橘子",
+      "onboard_time": 1661439466,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 602728,
@@ -2931,20 +2947,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555384,
+      "num": 555384,
+      "word": "重庆上山救火的老外找到了",
+      "onboard_time": 1661437789,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554567,
       "num": 554567,
       "word": "运油20歼20歼16三机同框照",
       "onboard_time": 1661309611,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 553328,
-      "num": 553328,
-      "word": "刺痛 橘子",
-      "onboard_time": 1661439466,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 550775,
@@ -3145,14 +3161,6 @@
       "onboard_time": 1661386834,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 525528,
-      "num": 525528,
-      "word": "重庆上山救火的老外找到了",
-      "onboard_time": 1661437789,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 524621,
@@ -3643,6 +3651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 466100,
+      "num": 466100,
+      "word": "中国男篮vs哈萨克斯坦男篮",
+      "onboard_time": 1661437607,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465808,
       "num": 465808,
       "word": "上海打雷",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1661210062,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457390,
+      "num": 457390,
+      "word": "普京签令俄武装力量扩军",
+      "onboard_time": 1661438987,
+      "rank": 27,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 454593,
@@ -4211,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404989,
+      "num": 404989,
+      "word": "晋城疫情防控",
+      "onboard_time": 1661437789,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404719,
       "num": 404719,
       "word": "广州疫情防控",
@@ -4371,14 +4403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393319,
-      "num": 393319,
-      "word": "晋城疫情防控",
-      "onboard_time": 1661437789,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392940,
       "num": 392940,
       "word": "格陵兰岛冰川融化大量稀有矿产显现",
@@ -4400,14 +4424,6 @@
       "word": "重庆电网最大负荷已达到历史极值",
       "onboard_time": 1661267974,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391934,
-      "num": 391934,
-      "word": "1岁婴儿吞5枚电池10小时后取出",
-      "onboard_time": 1661439404,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4563,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378493,
+      "num": 378493,
+      "word": "假如苍兰诀弹幕有声音",
+      "onboard_time": 1661438207,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378204,
       "num": 362880,
       "word": "王一博新片包揽7日想看新增前二",
@@ -4601,14 +4625,6 @@
       "onboard_time": 1661235989,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375891,
-      "num": 375891,
-      "word": "假如苍兰诀弹幕有声音",
-      "onboard_time": 1661438207,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 375364,
@@ -4737,14 +4753,6 @@
       "onboard_time": 1661143774,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 365271,
-      "num": 365271,
-      "word": "普京签令俄武装力量扩军",
-      "onboard_time": 1661438987,
-      "rank": 27,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 364882,
@@ -5739,14 +5747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300397,
-      "num": 300397,
-      "word": "中国男篮vs哈萨克斯坦男篮",
-      "onboard_time": 1661437607,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 299588,
       "num": 299588,
       "word": "南宁疫情防控",
@@ -6161,6 +6161,14 @@
       "onboard_time": 1661089954,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279470,
+      "num": 279470,
+      "word": "CPA",
+      "onboard_time": 1661440125,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 279433,
@@ -7155,6 +7163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 240116,
+      "num": 240116,
+      "word": "小伙缅北目睹诈骗团伙打死室友",
+      "onboard_time": 1661440125,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239734,
       "num": 239734,
       "word": "三次救火的重庆娃儿是个大学生",
@@ -7513,14 +7529,6 @@
       "onboard_time": 1661139391,
       "rank": 40,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 224519,
-      "num": 224519,
-      "word": "CPA",
-      "onboard_time": 1661440125,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 224478,
@@ -8059,14 +8067,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 198587,
-      "num": 198587,
-      "word": "小伙缅北目睹诈骗团伙打死室友",
-      "onboard_time": 1661440125,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198187,
       "num": 198187,
       "word": "97岁长津湖战役英雄走了",
@@ -8435,6 +8435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184651,
+      "num": 184651,
+      "word": "看完理解什么是隔代亲了",
+      "onboard_time": 1661441205,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 183798,
       "num": 183798,
       "word": "ksg纪录片",
@@ -8668,7 +8676,7 @@
     },
     {
       "raw_hot": 174959,
-      "num": 1616993,
+      "num": 1619131,
       "word": "这些娃儿侠肝义胆",
       "onboard_time": 1661402315,
       "rank": 49,
@@ -8929,6 +8937,14 @@
       "onboard_time": 1661223748,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 160411,
+      "num": 160411,
+      "word": "湘雅二院启动专项行动",
+      "onboard_time": 1661441085,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159964,
@@ -9473,6 +9489,14 @@
       "onboard_time": 1661383703,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 121962,
+      "num": 121962,
+      "word": "影院回应女子被孩家长踹成脑震荡",
+      "onboard_time": 1661442044,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121767,
