@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661420363254,
+  "endTime": 1661423145661,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1856241,
+      "num": 1856241,
+      "word": "网传长陵暂定刘亦菲王鹤棣",
+      "onboard_time": 1661420248,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1754277,
       "num": 1754277,
       "word": "为什么漂亮女孩成长更不容易",
@@ -112,6 +120,22 @@
       "word": "李小龙女儿向真功夫快餐索赔2.1亿",
       "onboard_time": 1661393911,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1525498,
+      "num": 1525498,
+      "word": "熊孩子家长电影院踢人导致观众疑似脑震荡",
+      "onboard_time": 1661420370,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1523345,
+      "num": 1523345,
+      "word": "宁波美籍男子故意杀人案二审宣判",
+      "onboard_time": 1661419772,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -259,6 +283,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 970317,
+      "num": 970317,
+      "word": "原来睡一觉就好了不是安慰",
+      "onboard_time": 1661418510,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 958846,
       "num": 958846,
       "word": "还好有人录下来了",
@@ -283,11 +315,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 840438,
+      "num": 840438,
+      "word": "海南107岁新冠患者治愈出院",
+      "onboard_time": 1661420546,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826844,
       "num": 826844,
       "word": "官方回应违反防疫规定参加葬礼被罚",
       "onboard_time": 1661377391,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819031,
+      "num": 819031,
+      "word": "女子给儿子改随母姓遭前夫起诉",
+      "onboard_time": 1661420729,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -363,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684637,
-      "num": 684637,
-      "word": "原来睡一觉就好了不是安慰",
-      "onboard_time": 1661418510,
-      "rank": 21,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 661594,
       "num": 661594,
       "word": "95年女孩打多份工买房住进毛坯房",
@@ -401,6 +441,14 @@
       "onboard_time": 1661399911,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 619713,
+      "num": 619713,
+      "word": "星汉灿烂弹幕总互动量破4.5亿",
+      "onboard_time": 1661419772,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 619567,
@@ -443,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585304,
-      "num": 585304,
-      "word": "网传长陵暂定刘亦菲王鹤棣",
-      "onboard_time": 1661420248,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 583873,
       "num": 583873,
       "word": "PS5涨价",
@@ -473,6 +513,14 @@
       "onboard_time": 1661382379,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573993,
+      "num": 573993,
+      "word": "请君",
+      "onboard_time": 1661418629,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 563928,
@@ -499,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 533101,
-      "num": 533101,
-      "word": "星汉灿烂弹幕总互动量破4.5亿",
-      "onboard_time": 1661419772,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 531494,
       "num": 531494,
       "word": "湖人将交易得到贝弗利",
@@ -523,20 +563,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 518495,
-      "num": 518495,
-      "word": "请君",
-      "onboard_time": 1661418629,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 517958,
       "num": 517958,
       "word": "王鹤棣跳yesok",
       "onboard_time": 1661400152,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 501268,
+      "num": 501268,
+      "word": "比亚迪准备推出起步价百万新能源汽车品牌",
+      "onboard_time": 1661418571,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491489,
@@ -619,11 +659,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 451554,
-      "num": 451554,
-      "word": "比亚迪准备推出起步价百万新能源汽车品牌",
-      "onboard_time": 1661418571,
-      "rank": 28,
+      "raw_hot": 456148,
+      "num": 456148,
+      "word": "孙子后座玩手机爷爷吃力推车前行",
+      "onboard_time": 1661421149,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -641,6 +681,14 @@
       "onboard_time": 1661400333,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444031,
+      "num": 444031,
+      "word": "青岛一6岁男童坠落古力井",
+      "onboard_time": 1661421988,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443234,
@@ -763,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384762,
+      "num": 384762,
+      "word": "世间再无唐周",
+      "onboard_time": 1661419530,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384031,
       "num": 384031,
       "word": "郭俊辰说林妙妙口红色号是牛油红",
@@ -833,6 +889,14 @@
       "onboard_time": 1661411728,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362476,
+      "num": 362476,
+      "word": "苍兰诀全员Q版头像",
+      "onboard_time": 1661417671,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 361401,
@@ -907,14 +971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 328431,
-      "num": 328431,
-      "word": "苍兰诀全员Q版头像",
-      "onboard_time": 1661417671,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 324936,
       "num": 324936,
       "word": "沉香如屑弹幕优酷剧集历史第一",
@@ -931,11 +987,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316134,
+      "num": 316134,
+      "word": "优先批准备战打仗所需人才入伍",
+      "onboard_time": 1661421572,
+      "rank": 24,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 315273,
       "num": 267556,
       "word": "黄明昊解题开了勿扰模式",
       "onboard_time": 1661404891,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314347,
+      "num": 314347,
+      "word": "有什么是你工作以后才明白的",
+      "onboard_time": 1661418151,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -953,6 +1025,14 @@
       "onboard_time": 1661397934,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 307876,
+      "num": 307876,
+      "word": "朱一龙人生大事明天上线",
+      "onboard_time": 1661421389,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 307081,
@@ -1083,12 +1163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279133,
-      "num": 263079,
-      "word": "有什么是你工作以后才明白的",
-      "onboard_time": 1661418151,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 277467,
+      "num": 277467,
+      "word": "石家庄桥西区疫情防控",
+      "onboard_time": 1661419470,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275608,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1661382200,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268315,
+      "num": 268315,
+      "word": "中国女排3比1伊朗女排",
+      "onboard_time": 1661422948,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 266327,
@@ -1211,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255912,
+      "num": 255912,
+      "word": "重庆速度",
+      "onboard_time": 1661420067,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 254935,
       "num": 254935,
       "word": "野猴4个月伤害近10人至今未抓获",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1661400755,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251543,
+      "num": 251543,
+      "word": "唐周永远不会认错颜淡",
+      "onboard_time": 1661422408,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 251083,
@@ -1379,12 +1483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219496,
+      "num": 219496,
+      "word": "黄景瑜罚罪开播剧照",
+      "onboard_time": 1661421448,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218970,
       "num": 218970,
       "word": "被鼻烟壶内的国漫百年惊艳到了",
       "onboard_time": 1661411488,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216733,
+      "num": 216733,
+      "word": "永辉超市三年关近400家店",
+      "onboard_time": 1661422526,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 215867,
@@ -1451,14 +1571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202316,
-      "num": 202316,
-      "word": "世间再无唐周",
-      "onboard_time": 1661419530,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200282,
       "num": 200282,
       "word": "初会",
@@ -1488,6 +1600,14 @@
       "word": "蒋璐霞拍狼群眉骨开裂",
       "onboard_time": 1661382862,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192239,
+      "num": 192239,
+      "word": "为什么女生总爱提分手",
+      "onboard_time": 1661421748,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1587,20 +1707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176130,
-      "num": 176130,
-      "word": "石家庄桥西区疫情防控",
-      "onboard_time": 1661419470,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175631,
       "num": 175631,
       "word": "三亚增确诊170例无症状250例",
       "onboard_time": 1661388096,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174979,
+      "num": 174979,
+      "word": "暑期档影剧综你最爱哪部",
+      "onboard_time": 1661422829,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 174959,
@@ -1617,14 +1737,6 @@
       "onboard_time": 1661348376,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173428,
-      "num": 173428,
-      "word": "宁波美籍男子故意杀人案二审宣判",
-      "onboard_time": 1661419772,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171823,
@@ -1649,14 +1761,6 @@
       "onboard_time": 1661349215,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169111,
-      "num": 169111,
-      "word": "重庆速度",
-      "onboard_time": 1661420067,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 168336,
@@ -1715,12 +1819,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158930,
+      "num": 158930,
+      "word": "2022年羽毛球世锦赛",
+      "onboard_time": 1661422169,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152990,
       "num": 152990,
       "word": "修长小腿就靠它了",
       "onboard_time": 1661354611,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150690,
+      "num": 150690,
+      "word": "青岛6岁坠井男童已确认遇难",
+      "onboard_time": 1661423068,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148597,
