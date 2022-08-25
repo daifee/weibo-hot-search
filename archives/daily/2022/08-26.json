@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661470229336,
+  "endTime": 1661471057619,
   "band_list": [
     {
       "raw_hot": 2879250,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1485494,
-      "num": 1485494,
+      "raw_hot": 1526461,
+      "num": 1526461,
       "word": "加拿大直接向俄罗斯交还涡轮机",
       "onboard_time": 1661443177,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1022052,
-      "num": 1022052,
+      "raw_hot": 1149621,
+      "num": 1149621,
       "word": "熊孩子家长电影院踢人导致观众疑似脑震荡",
       "onboard_time": 1661420370,
       "rank": 6,
@@ -83,20 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618523,
+      "num": 618523,
+      "word": "小猫被困井下一年获救还是胖乎乎",
+      "onboard_time": 1661435630,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548174,
+      "num": 548174,
+      "word": "当事人回应从欧洲骑马回国",
+      "onboard_time": 1661467579,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545068,
       "num": 545068,
       "word": "快乐再出发豆瓣升至9.7分",
       "onboard_time": 1661439708,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 529878,
-      "num": 529878,
-      "word": "小猫被困井下一年获救还是胖乎乎",
-      "onboard_time": 1661435630,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520926,
@@ -139,11 +147,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421569,
+      "num": 421569,
+      "word": "张照洋",
+      "onboard_time": 1661468843,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 414776,
       "num": 414776,
       "word": "小伙缅北目睹诈骗团伙打死室友",
       "onboard_time": 1661440125,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388407,
+      "num": 388407,
+      "word": "大学生邮30多个包裹到校被在线催收",
+      "onboard_time": 1661469384,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -195,11 +219,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 325860,
-      "num": 325860,
-      "word": "当事人回应从欧洲骑马回国",
-      "onboard_time": 1661467579,
-      "rank": 13,
+      "raw_hot": 320878,
+      "num": 320878,
+      "word": "野球帝张照洋高铁站遭到殴打",
+      "onboard_time": 1661470107,
+      "rank": 31,
+      "category": "社会负面,网红"
+    },
+    {
+      "raw_hot": 305469,
+      "num": 305469,
+      "word": "女子买不到囍字跑腿小哥现场帮剪",
+      "onboard_time": 1661434311,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -217,22 +249,6 @@
       "onboard_time": 1661437251,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284858,
-      "num": 284858,
-      "word": "女子买不到囍字跑腿小哥现场帮剪",
-      "onboard_time": 1661434311,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277155,
-      "num": 277155,
-      "word": "张照洋",
-      "onboard_time": 1661468843,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 263157,
@@ -283,6 +299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232105,
+      "num": 232105,
+      "word": "结婚会带给人怎样的改变",
+      "onboard_time": 1661452035,
+      "rank": 40,
+      "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 230907,
+      "num": 230907,
+      "word": "王一博这就是街舞问鸭脖是我吗",
+      "onboard_time": 1661462772,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222539,
       "num": 222539,
       "word": "吴磊霍不疑仰身下马",
@@ -323,22 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215155,
-      "num": 215155,
-      "word": "王一博这就是街舞问鸭脖是我吗",
-      "onboard_time": 1661462772,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 213307,
-      "num": 213307,
-      "word": "结婚会带给人怎样的改变",
-      "onboard_time": 1661452035,
-      "rank": 40,
-      "category": "社会议题,情感"
-    },
-    {
       "raw_hot": 210195,
       "num": 210195,
       "word": "CPA",
@@ -371,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194108,
+      "num": 194108,
+      "word": "取消对出入境人员核酸检测信息申报要求",
+      "onboard_time": 1661427599,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191717,
       "num": 191717,
       "word": "成都锦江区发布重要提示",
@@ -379,11 +403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186572,
-      "num": 186572,
-      "word": "取消对出入境人员核酸检测信息申报要求",
-      "onboard_time": 1661427599,
-      "rank": 40,
+      "raw_hot": 190967,
+      "num": 190967,
+      "word": "eStar晋级夏季赛总决赛",
+      "onboard_time": 1661470528,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188037,
+      "num": 188037,
+      "word": "7岁娃花1个月作3米画不舍参赛大哭",
+      "onboard_time": 1661470167,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -419,6 +451,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 170471,
+      "num": 170471,
+      "word": "重庆狼队",
+      "onboard_time": 1661468724,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167546,
       "num": 167546,
       "word": "觞阙结黎 甜",
@@ -443,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150423,
-      "num": 150423,
-      "word": "野球帝张照洋高铁站遭到殴打",
-      "onboard_time": 1661470107,
-      "rank": 31,
-      "category": "社会负面,网红"
+      "raw_hot": 150807,
+      "num": 150807,
+      "word": "张凌赫唱吻别",
+      "onboard_time": 1661469987,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132746,
@@ -459,28 +499,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 131747,
-      "num": 131747,
-      "word": "大学生邮30多个包裹到校被在线催收",
-      "onboard_time": 1661469384,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129608,
       "num": 129608,
       "word": "中国男篮战胜哈萨克斯坦男篮",
       "onboard_time": 1661445391,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125796,
-      "num": 125796,
-      "word": "重庆狼队",
-      "onboard_time": 1661468724,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 124848,
@@ -491,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117989,
-      "num": 117989,
-      "word": "张凌赫唱吻别",
-      "onboard_time": 1661469987,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101806,
       "num": 101806,
       "word": "侠客岛评刘翔峰事件",
@@ -507,15 +523,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89719,
-      "num": 89719,
-      "word": "7岁娃花1个月作3米画不舍参赛大哭",
-      "onboard_time": 1661470167,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57623,
+      "raw_hot": 68458,
       "num": 1225128,
       "word": "这些娃儿侠肝义胆",
       "onboard_time": 1661402315,
