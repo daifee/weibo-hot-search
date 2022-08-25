@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661446477854,
+  "endTime": 1661448188462,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -10147,6 +10147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100122,
+      "num": 1100122,
+      "word": "加拿大直接向俄罗斯交还涡轮机",
+      "onboard_time": 1661443177,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1099862,
       "num": 1099862,
       "word": "女生跟男友回老家睡沙发",
@@ -10657,14 +10665,6 @@
       "onboard_time": 1660312479,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1058275,
-      "num": 543885,
-      "word": "加拿大直接向俄罗斯交还涡轮机",
-      "onboard_time": 1661443177,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1056839,
@@ -18121,6 +18121,14 @@
       "onboard_time": 1660569931,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652480,
+      "num": 652480,
+      "word": "野球帝",
+      "onboard_time": 1661444192,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 652419,
@@ -26257,14 +26265,6 @@
       "onboard_time": 1660300595,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 469082,
-      "num": 469082,
-      "word": "野球帝",
-      "onboard_time": 1661444192,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 469081,
@@ -49595,6 +49595,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 217908,
+      "num": 217908,
+      "word": "影院回应女子被孩家长踹成脑震荡",
+      "onboard_time": 1661442044,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217855,
       "num": 217855,
       "word": "绘旅人 叶瑄",
@@ -51353,14 +51361,6 @@
       "onboard_time": 1659855631,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 198846,
-      "num": 198846,
-      "word": "影院回应女子被孩家长踹成脑震荡",
-      "onboard_time": 1661442044,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198571,
