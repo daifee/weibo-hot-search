@@ -1,0 +1,410 @@
+{
+  "runTime": 1661427427411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523218,
+        "num": 1523218,
+        "word": "网传长陵暂定刘亦菲王鹤棣",
+        "onboard_time": 1661420248,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1338717,
+        "num": 1338717,
+        "word": "猫咪坐顺风车6小时疑中暑死亡",
+        "onboard_time": 1661424090,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168309,
+        "num": 1137373,
+        "word": "中国女排亚洲杯4连胜",
+        "onboard_time": 1661425066,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1639495,
+        "num": 1136795,
+        "word": "熊孩子家长电影院踢人导致观众疑似脑震荡",
+        "onboard_time": 1661420370,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132349,
+        "num": 1132349,
+        "word": "任嘉伦李沁请君背后抱",
+        "onboard_time": 1661425854,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 843352,
+        "num": 843352,
+        "word": "永辉超市三年关近400家店",
+        "onboard_time": 1661422526,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 744231,
+        "num": 744231,
+        "word": "沉香重华疯狂星期四",
+        "onboard_time": 1661425981,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 620903,
+        "num": 620903,
+        "word": "宁波美籍男子故意杀人案二审宣判",
+        "onboard_time": 1661419772,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612694,
+        "num": 612694,
+        "word": "原来睡一觉就好了不是安慰",
+        "onboard_time": 1661418510,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 582882,
+        "num": 582882,
+        "word": "孙子后座玩手机爷爷吃力推车前行",
+        "onboard_time": 1661421149,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636278,
+        "num": 569923,
+        "word": "浪莎向李易峰公开道歉",
+        "onboard_time": 1661409748,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512166,
+        "num": 512166,
+        "word": "优先批准备战打仗所需人才入伍",
+        "onboard_time": 1661421572,
+        "rank": 11,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 499125,
+        "num": 499125,
+        "word": "青岛一6岁男童坠落古力井",
+        "onboard_time": 1661421988,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449237,
+        "num": 449237,
+        "word": "还好有人录下来了",
+        "onboard_time": 1661412930,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445377,
+        "num": 445377,
+        "word": "鼻子最先知道秋天来了",
+        "onboard_time": 1661424698,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433562,
+        "num": 433562,
+        "word": "中国女排全员戴口罩出战",
+        "onboard_time": 1661425672,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693995,
+        "num": 426715,
+        "word": "女子给儿子改随母姓遭前夫起诉",
+        "onboard_time": 1661420729,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416013,
+        "num": 416013,
+        "word": "成都免费取水冰柜里的水越取越多",
+        "onboard_time": 1661409808,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 414353,
+        "num": 414353,
+        "word": "全军统一制发军士警士证件",
+        "onboard_time": 1661423610,
+        "rank": 18,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 335711,
+        "num": 335711,
+        "word": "老人凌晨被扔半路女子装顺路送回",
+        "onboard_time": 1661412210,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 426515,
+        "num": 329601,
+        "word": "赵丽颖女团风红发",
+        "onboard_time": 1661408728,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322336,
+        "num": 322336,
+        "word": "唐周今晚下线",
+        "onboard_time": 1661425066,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316018,
+        "num": 316018,
+        "word": "海南107岁新冠患者治愈出院",
+        "onboard_time": 1661420546,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304591,
+        "num": 304591,
+        "word": "时代少年团火力全开无尽夏官宣",
+        "onboard_time": 1661423489,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301289,
+        "num": 301289,
+        "word": "青岛6岁坠井男童已确认遇难",
+        "onboard_time": 1661423068,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292430,
+        "num": 292430,
+        "word": "甲状腺发病的4个主要原因",
+        "onboard_time": 1661411009,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282362,
+        "num": 282362,
+        "word": "广东7岁小学生挑战清华女博士",
+        "onboard_time": 1661425310,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 278789,
+        "num": 278789,
+        "word": "请君",
+        "onboard_time": 1661418629,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269183,
+        "num": 269183,
+        "word": "凌不疑程少商命悬崖壁",
+        "onboard_time": 1661427242,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262628,
+        "num": 262628,
+        "word": "狼队对战eStar",
+        "onboard_time": 1661427000,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247652,
+        "num": 247652,
+        "word": "麦当劳招聘退休人员",
+        "onboard_time": 1661424941,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240183,
+        "num": 240183,
+        "word": "星汉灿烂弹幕总互动量破4.5亿",
+        "onboard_time": 1661419772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236151,
+        "num": 236151,
+        "word": "刚上大一有必要买电脑吗",
+        "onboard_time": 1661415750,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230474,
+        "num": 230474,
+        "word": "生腌拌饭是什么味",
+        "onboard_time": 1661426037,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228737,
+        "num": 228737,
+        "word": "成年人的失恋写满了克制",
+        "onboard_time": 1661425428,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225644,
+        "num": 225644,
+        "word": "EDG对战LNG",
+        "onboard_time": 1661426940,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225181,
+        "num": 225181,
+        "word": "张元英MCD直拍",
+        "onboard_time": 1661427301,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221207,
+        "num": 221207,
+        "word": "算命大师称转账后走66步不回头可消灾",
+        "onboard_time": 1661424638,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211811,
+        "num": 211811,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205072,
+        "num": 205072,
+        "word": "苍兰诀全员Q版头像",
+        "onboard_time": 1661417671,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202304,
+        "num": 202304,
+        "word": "朱一龙人生大事明天上线",
+        "onboard_time": 1661421389,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199079,
+        "num": 199079,
+        "word": "这是真把办公室当家了",
+        "onboard_time": 1661425003,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181875,
+        "num": 181875,
+        "word": "你正在看哪本小说",
+        "onboard_time": 1661416472,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180885,
+        "num": 180885,
+        "word": "珠海防空警报",
+        "onboard_time": 1661414972,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174583,
+        "num": 174583,
+        "word": "初代乖系爱豆",
+        "onboard_time": 1661425919,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168893,
+        "num": 168893,
+        "word": "唐周永远不会认错颜淡",
+        "onboard_time": 1661422408,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168454,
+        "num": 168454,
+        "word": "比亚迪准备推出起步价百万新能源汽车品牌",
+        "onboard_time": 1661418571,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167544,
+        "num": 167544,
+        "word": "重庆速度",
+        "onboard_time": 1661420067,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 161293,
+        "num": 161293,
+        "word": "成都疫情防控",
+        "onboard_time": 1661414069,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148626,
+        "num": 148626,
+        "word": "石家庄桥西区疫情防控",
+        "onboard_time": 1661419470,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
