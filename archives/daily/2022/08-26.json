@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661462378965,
+  "endTime": 1661463441767,
   "band_list": [
     {
       "raw_hot": 2879250,
@@ -451,12 +451,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15798,
-      "num": 15798,
+      "raw_hot": 18216,
+      "num": 18216,
       "word": "重庆群众自发背物资徒步上山",
       "onboard_time": 1661429871,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17147,
+      "num": 17147,
+      "word": "王一博这就是街舞问鸭脖是我吗",
+      "onboard_time": 1661462772,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15105,
+      "num": 15105,
+      "word": "每位志愿者都是城市英雄",
+      "onboard_time": 1661461453,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 13926,
@@ -465,14 +481,6 @@
       "onboard_time": 1661461872,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11657,
-      "num": 13684,
-      "word": "每位志愿者都是城市英雄",
-      "onboard_time": 1661461453,
-      "rank": 49,
-      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
