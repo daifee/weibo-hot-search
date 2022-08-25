@@ -1,0 +1,410 @@
+{
+  "runTime": 1661406952774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2262433,
+        "num": 2262433,
+        "word": "新郎雨天拍婚纱照疑遭雷击去世",
+        "onboard_time": 1661398472,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218042,
+        "num": 1218042,
+        "word": "科比坠机遗体照遭泄露案判决结果",
+        "onboard_time": 1661388457,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 63719,
+        "num": 1101479,
+        "word": "解放军奋战山火休息时和衣而卧",
+        "onboard_time": 1661351194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1009477,
+        "num": 1009477,
+        "word": "中央预备费拿出100亿元重点支持中稻抗旱",
+        "onboard_time": 1661392471,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 951721,
+        "num": 951721,
+        "word": "超七成观众愿接受付费直播大结局",
+        "onboard_time": 1661398774,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860572,
+        "num": 860572,
+        "word": "李小龙女儿向真功夫快餐索赔2.1亿",
+        "onboard_time": 1661393911,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831234,
+        "num": 831234,
+        "word": "女子发烧一周不在意昏迷2个月",
+        "onboard_time": 1661396493,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798754,
+        "num": 798754,
+        "word": "成都疫情防控",
+        "onboard_time": 1661404411,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704470,
+        "num": 704470,
+        "word": "齐司礼",
+        "onboard_time": 1661402497,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 663970,
+        "num": 663970,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661396914,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1212530,
+        "num": 655117,
+        "word": "王鹤棣回应去年古偶丑男今年美男",
+        "onboard_time": 1661404950,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1176566,
+        "num": 634681,
+        "word": "你有月经羞耻吗",
+        "onboard_time": 1661398472,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 940970,
+        "num": 607121,
+        "word": "王一博今年国内五大金九唯一男星",
+        "onboard_time": 1661403929,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 774724,
+        "num": 587887,
+        "word": "为什么漂亮女孩成长更不容易",
+        "onboard_time": 1661397031,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2939,
+        "num": 564399,
+        "word": "发展商业航天有哪些价值",
+        "onboard_time": 1661403632,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554709,
+        "num": 554709,
+        "word": "国内甲状腺结节群体已超2亿",
+        "onboard_time": 1661404291,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511516,
+        "num": 511516,
+        "word": "女子做洗碗工月薪1600引宝妈共鸣",
+        "onboard_time": 1661391871,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475544,
+        "num": 475544,
+        "word": "人总不能一直工作吧",
+        "onboard_time": 1661399911,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 420679,
+        "num": 420679,
+        "word": "贾宝玉欧阳奋强补求婚",
+        "onboard_time": 1661402914,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377513,
+        "num": 377513,
+        "word": "Jennie跳舞",
+        "onboard_time": 1661390252,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473667,
+        "num": 367592,
+        "word": "王源微博更新自动回复",
+        "onboard_time": 1661405551,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347597,
+        "num": 347597,
+        "word": "iPhone14或配备4800万像素",
+        "onboard_time": 1661395533,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329996,
+        "num": 329996,
+        "word": "李斯丹妮演警察",
+        "onboard_time": 1661401597,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322987,
+        "num": 322987,
+        "word": "官方通报玉龙雪山雷击致人死亡事件",
+        "onboard_time": 1661405969,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320145,
+        "num": 320145,
+        "word": "匹诺曹新预告",
+        "onboard_time": 1661404355,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316910,
+        "num": 316910,
+        "word": "密室大逃脱",
+        "onboard_time": 1661404173,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309947,
+        "num": 309947,
+        "word": "郑州房东降价40%仍难租",
+        "onboard_time": 1661390675,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 306336,
+        "num": 306336,
+        "word": "疯狂星期四",
+        "onboard_time": 1661386834,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273936,
+        "num": 273936,
+        "word": "重庆北碚急招志愿者",
+        "onboard_time": 1661399793,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267862,
+        "num": 267862,
+        "word": "研究称睡眠不足会让人更自私",
+        "onboard_time": 1661405431,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315273,
+        "num": 267556,
+        "word": "黄明昊解题开了勿扰模式",
+        "onboard_time": 1661404891,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308126,
+        "num": 267392,
+        "word": "张馨予千字长文告别周墨婉",
+        "onboard_time": 1661394214,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287297,
+        "num": 267381,
+        "word": "雀斑公主终极预告",
+        "onboard_time": 1661406569,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267051,
+        "num": 267051,
+        "word": "大妈合力推开核酸亭在广场跳舞",
+        "onboard_time": 1661405727,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261220,
+        "num": 261220,
+        "word": "高德地图上线防晒导航功能",
+        "onboard_time": 1661401776,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 259192,
+        "num": 259192,
+        "word": "台军士兵向大陆无人机丢石头",
+        "onboard_time": 1661384965,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 239561,
+        "num": 239561,
+        "word": "直击汝州捕捞鳄雀鳝现场",
+        "onboard_time": 1661404531,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235078,
+        "num": 235078,
+        "word": "北碚",
+        "onboard_time": 1661387374,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222970,
+        "num": 222970,
+        "word": "湖人将交易得到贝弗利",
+        "onboard_time": 1661400215,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219545,
+        "num": 219545,
+        "word": "转瞬杀死1000万人的蓝色光源",
+        "onboard_time": 1661385989,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 204171,
+        "num": 204171,
+        "word": "世间有她主题曲凝望我",
+        "onboard_time": 1661406089,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188135,
+        "num": 188135,
+        "word": "沉香如屑弹幕优酷剧集历史第一",
+        "onboard_time": 1661397752,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186576,
+        "num": 186576,
+        "word": "苍兰诀结黎的嘴骗人的鬼",
+        "onboard_time": 1661401836,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176689,
+        "num": 176689,
+        "word": "野猴4个月伤害近10人至今未抓获",
+        "onboard_time": 1661390915,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174166,
+        "num": 174166,
+        "word": "没有Led的陆家嘴",
+        "onboard_time": 1661394452,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156969,
+        "num": 156969,
+        "word": "遭老人组团偷南瓜女子发声",
+        "onboard_time": 1661386232,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150434,
+        "num": 150434,
+        "word": "开航母的她将重返北大",
+        "onboard_time": 1661394752,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 147362,
+        "num": 147362,
+        "word": "三伏结束了",
+        "onboard_time": 1661384363,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134244,
+        "num": 134244,
+        "word": "男子钓鱼反被鱼拉下水",
+        "onboard_time": 1661396373,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132563,
+        "num": 132563,
+        "word": "景区回应拍婚纱照新郎遭雷击",
+        "onboard_time": 1661406928,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
