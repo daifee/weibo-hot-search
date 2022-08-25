@@ -1,0 +1,410 @@
+{
+  "runTime": 1661441007945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2305658,
+        "num": 2305658,
+        "word": "KPL 暂停",
+        "onboard_time": 1661434252,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1701595,
+        "num": 1701595,
+        "word": "姿态",
+        "onboard_time": 1661436650,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 59374,
+        "num": 1564927,
+        "word": "这些娃儿侠肝义胆",
+        "onboard_time": 1661402315,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1477109,
+        "num": 1477109,
+        "word": "湘雅二院医生刘翔峰被查",
+        "onboard_time": 1661438866,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220079,
+        "num": 1220079,
+        "word": "上海殡仪馆回应月薪4万8招扛尸工",
+        "onboard_time": 1661433597,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179711,
+        "num": 1179711,
+        "word": "重庆山火",
+        "onboard_time": 1661434191,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158382,
+        "num": 1158382,
+        "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
+        "onboard_time": 1661435331,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047390,
+        "num": 1047390,
+        "word": "熊孩子家长电影院踢人导致观众疑似脑震荡",
+        "onboard_time": 1661420370,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873680,
+        "num": 873680,
+        "word": "小猫被困井下一年获救还是胖乎乎",
+        "onboard_time": 1661435630,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691237,
+        "num": 691237,
+        "word": "女子买不到囍字跑腿小哥现场帮剪",
+        "onboard_time": 1661434311,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632643,
+        "num": 632643,
+        "word": "警方回应女子影院被家长踹伤",
+        "onboard_time": 1661431194,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621541,
+        "num": 621541,
+        "word": "张颜齐命里无瓜",
+        "onboard_time": 1661437908,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571609,
+        "num": 571609,
+        "word": "吴磊霍不疑仰身下马",
+        "onboard_time": 1661437607,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571541,
+        "num": 571541,
+        "word": "重庆人等的雨终于来了",
+        "onboard_time": 1661437251,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553328,
+        "num": 553328,
+        "word": "刺痛 橘子",
+        "onboard_time": 1661439466,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 525528,
+        "num": 525528,
+        "word": "重庆上山救火的老外找到了",
+        "onboard_time": 1661437789,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518218,
+        "num": 518218,
+        "word": "沉香重华疯狂星期四",
+        "onboard_time": 1661425981,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451221,
+        "num": 451221,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661439708,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429617,
+        "num": 429617,
+        "word": "父母保护越多小孩共情能力越差吗",
+        "onboard_time": 1661438987,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408486,
+        "num": 408486,
+        "word": "猫咪坐顺风车6小时疑中暑死亡",
+        "onboard_time": 1661424090,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427150,
+        "num": 404492,
+        "word": "江西鹰潭方舱隔离条件堪忧",
+        "onboard_time": 1661432640,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398158,
+        "num": 398158,
+        "word": "青岛6岁坠井男童已确认遇难",
+        "onboard_time": 1661423068,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394305,
+        "num": 394305,
+        "word": "上海电影院",
+        "onboard_time": 1661437311,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393319,
+        "num": 393319,
+        "word": "晋城疫情防控",
+        "onboard_time": 1661437789,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391934,
+        "num": 391934,
+        "word": "1岁婴儿吞5枚电池10小时后取出",
+        "onboard_time": 1661439404,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375891,
+        "num": 375891,
+        "word": "假如苍兰诀弹幕有声音",
+        "onboard_time": 1661438207,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375859,
+        "num": 375859,
+        "word": "任嘉伦李沁请君背后抱",
+        "onboard_time": 1661425854,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365271,
+        "num": 365271,
+        "word": "普京签令俄武装力量扩军",
+        "onboard_time": 1661438987,
+        "rank": 27,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 360614,
+        "num": 360614,
+        "word": "2022热度破万的剧集",
+        "onboard_time": 1661439647,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320506,
+        "num": 320506,
+        "word": "成都锦江区发布重要提示",
+        "onboard_time": 1661433182,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309323,
+        "num": 309323,
+        "word": "欢乐颂3何悯鸿遭遇网络争议",
+        "onboard_time": 1661431860,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300397,
+        "num": 300397,
+        "word": "中国男篮vs哈萨克斯坦男篮",
+        "onboard_time": 1661437607,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291640,
+        "num": 291640,
+        "word": "永辉超市三年关近400家店",
+        "onboard_time": 1661422526,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 279867,
+        "num": 279867,
+        "word": "成年人的失恋写满了克制",
+        "onboard_time": 1661425428,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258044,
+        "num": 258044,
+        "word": "空气炸锅做出的食物更健康吗",
+        "onboard_time": 1661437009,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 247403,
+        "num": 247403,
+        "word": "华西第二医院锦江院区发热门诊停诊通知",
+        "onboard_time": 1661440307,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246912,
+        "num": 246912,
+        "word": "为何35岁会成为中年的一道坎",
+        "onboard_time": 1661430473,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 244106,
+        "num": 244106,
+        "word": "取消对出入境人员核酸检测信息申报要求",
+        "onboard_time": 1661427599,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241927,
+        "num": 241927,
+        "word": "颜淡把剩下的半颗心给了唐周",
+        "onboard_time": 1661428671,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233686,
+        "num": 233686,
+        "word": "冰雨火站内热度三榜第一",
+        "onboard_time": 1661437969,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224519,
+        "num": 224519,
+        "word": "CPA",
+        "onboard_time": 1661440125,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215433,
+        "num": 215433,
+        "word": "罚罪",
+        "onboard_time": 1661438509,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213693,
+        "num": 213693,
+        "word": "星汉灿烂",
+        "onboard_time": 1661429273,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198587,
+        "num": 198587,
+        "word": "小伙缅北目睹诈骗团伙打死室友",
+        "onboard_time": 1661440125,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191133,
+        "num": 191133,
+        "word": "KPL",
+        "onboard_time": 1661435213,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174555,
+        "num": 174555,
+        "word": "麦当劳招聘退休人员",
+        "onboard_time": 1661424941,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172529,
+        "num": 172529,
+        "word": "医护人员海拔5000米入户核酸采样",
+        "onboard_time": 1661439225,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168939,
+        "num": 168939,
+        "word": "狼队eStar比赛太夸张了",
+        "onboard_time": 1661433237,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167862,
+        "num": 167862,
+        "word": "EDG战胜LNG",
+        "onboard_time": 1661433296,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165639,
+        "num": 165639,
+        "word": "你要说唐周就不能只说唐周",
+        "onboard_time": 1661432816,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#护苗2022#"
+    }
+  }
+}

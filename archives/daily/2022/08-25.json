@@ -1,6 +1,6 @@
 {
   "startTime": 1661358644379,
-  "endTime": 1661438210638,
+  "endTime": 1661441007945,
   "band_list": [
     {
       "raw_hot": 3716195,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1701595,
+      "num": 1701595,
+      "word": "姿态",
+      "onboard_time": 1661436650,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1662176,
       "num": 663617,
       "word": "王鹤棣回应去年古偶丑男今年美男",
@@ -183,6 +191,14 @@
       "num": 1479461,
       "word": "珠海防空警报",
       "onboard_time": 1661414972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1477109,
+      "num": 1477109,
+      "word": "湘雅二院医生刘翔峰被查",
+      "onboard_time": 1661438866,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -235,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1179711,
+      "num": 1179711,
+      "word": "重庆山火",
+      "onboard_time": 1661434191,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174288,
       "num": 1174288,
       "word": "女子发烧一周不在意昏迷2个月",
@@ -249,6 +273,14 @@
       "onboard_time": 1661396914,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1158382,
+      "num": 1158382,
+      "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
+      "onboard_time": 1661435331,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1154612,
@@ -379,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 873680,
+      "num": 873680,
+      "word": "小猫被困井下一年获救还是胖乎乎",
+      "onboard_time": 1661435630,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843352,
       "num": 843352,
       "word": "永辉超市三年关近400家店",
@@ -392,14 +432,6 @@
       "word": "海南107岁新冠患者治愈出院",
       "onboard_time": 1661420546,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 837507,
-      "num": 837507,
-      "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
-      "onboard_time": 1661435331,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -555,12 +587,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 620995,
-      "num": 620995,
-      "word": "小猫被困井下一年获救还是胖乎乎",
-      "onboard_time": 1661435630,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 621541,
+      "num": 621541,
+      "word": "张颜齐命里无瓜",
+      "onboard_time": 1661437908,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 619713,
@@ -643,11 +675,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573094,
-      "num": 573094,
-      "word": "重庆山火",
-      "onboard_time": 1661434191,
-      "rank": 22,
+      "raw_hot": 571609,
+      "num": 571609,
+      "word": "吴磊霍不疑仰身下马",
+      "onboard_time": 1661437607,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 571541,
+      "num": 571541,
+      "word": "重庆人等的雨终于来了",
+      "onboard_time": 1661437251,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -681,6 +721,14 @@
       "onboard_time": 1661421988,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553328,
+      "num": 553328,
+      "word": "刺痛 橘子",
+      "onboard_time": 1661439466,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 550563,
@@ -729,6 +777,14 @@
       "onboard_time": 1661386834,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 525528,
+      "num": 525528,
+      "word": "重庆上山救火的老外找到了",
+      "onboard_time": 1661437789,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517958,
@@ -931,20 +987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429617,
+      "num": 429617,
+      "word": "父母保护越多小孩共情能力越差吗",
+      "onboard_time": 1661438987,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429477,
       "num": 429477,
       "word": "城管回应收走商户4箱水",
       "onboard_time": 1661411190,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429382,
-      "num": 429382,
-      "word": "吴磊霍不疑仰身下马",
-      "onboard_time": 1661437607,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 423049,
@@ -1043,12 +1099,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394305,
+      "num": 394305,
+      "word": "上海电影院",
+      "onboard_time": 1661437311,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393319,
+      "num": 393319,
+      "word": "晋城疫情防控",
+      "onboard_time": 1661437789,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392862,
       "num": 392862,
       "word": "EDG对战LNG",
       "onboard_time": 1661416110,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 391934,
+      "num": 391934,
+      "word": "1岁婴儿吞5枚电池10小时后取出",
+      "onboard_time": 1661439404,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391648,
@@ -1107,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375891,
+      "num": 375891,
+      "word": "假如苍兰诀弹幕有声音",
+      "onboard_time": 1661438207,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370275,
       "num": 370275,
       "word": "彭昱畅腿是软的嘴是硬的",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1661394752,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 365271,
+      "num": 365271,
+      "word": "普京签令俄武装力量扩军",
+      "onboard_time": 1661438987,
+      "rank": 27,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 364882,
@@ -1171,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360614,
+      "num": 360614,
+      "word": "2022热度破万的剧集",
+      "onboard_time": 1661439647,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354597,
       "num": 354597,
       "word": "王鹤棣单手抓住虞书欣",
@@ -1200,14 +1304,6 @@
       "word": "重庆巴南山火明火被扑灭",
       "onboard_time": 1661412845,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346205,
-      "num": 346205,
-      "word": "上海电影院",
-      "onboard_time": 1661437311,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300397,
+      "num": 300397,
+      "word": "中国男篮vs哈萨克斯坦男篮",
+      "onboard_time": 1661437607,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299588,
       "num": 299588,
       "word": "南宁疫情防控",
@@ -1459,14 +1563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287068,
-      "num": 287068,
-      "word": "中国男篮vs哈萨克斯坦男篮",
-      "onboard_time": 1661437607,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284089,
       "num": 284089,
       "word": "舌头都要麻了还没学会弹舌",
@@ -1497,14 +1593,6 @@
       "onboard_time": 1661425310,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 282082,
-      "num": 183241,
-      "word": "假如苍兰诀弹幕有声音",
-      "onboard_time": 1661438207,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 281483,
@@ -1587,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270973,
-      "num": 270973,
-      "word": "重庆上山救火的老外找到了",
-      "onboard_time": 1661437789,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270675,
       "num": 270675,
       "word": "笑点低真的不适合做老师",
@@ -1643,14 +1723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 261626,
-      "num": 261626,
-      "word": "重庆人等的雨终于来了",
-      "onboard_time": 1661437251,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261181,
       "num": 261181,
       "word": "西安博物院重现1000年前唐三彩",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1661352875,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258044,
+      "num": 258044,
+      "word": "空气炸锅做出的食物更健康吗",
+      "onboard_time": 1661437009,
+      "rank": 45,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 256244,
@@ -1761,6 +1841,14 @@
       "onboard_time": 1661409149,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247403,
+      "num": 247403,
+      "word": "华西第二医院锦江院区发热门诊停诊通知",
+      "onboard_time": 1661440307,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246444,
@@ -1899,6 +1987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224519,
+      "num": 224519,
+      "word": "CPA",
+      "onboard_time": 1661440125,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 223705,
       "num": 223705,
       "word": "街舞5队长对答案演我",
@@ -1923,19 +2019,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218316,
-      "num": 218316,
-      "word": "晋城疫情防控",
-      "onboard_time": 1661437789,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215867,
       "num": 215867,
       "word": "鬼手好惨",
       "onboard_time": 1661417730,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215433,
+      "num": 215433,
+      "word": "罚罪",
+      "onboard_time": 1661438509,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1945,6 +2041,14 @@
       "onboard_time": 1661413229,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213693,
+      "num": 213693,
+      "word": "星汉灿烂",
+      "onboard_time": 1661429273,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 212310,
@@ -2003,14 +2107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205187,
-      "num": 205187,
-      "word": "空气炸锅做出的食物更健康吗",
-      "onboard_time": 1661437009,
-      "rank": 45,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 204777,
       "num": 197879,
       "word": "叶蓁蓁反社死现场",
@@ -2041,6 +2137,14 @@
       "onboard_time": 1661352334,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198587,
+      "num": 198587,
+      "word": "小伙缅北目睹诈骗团伙打死室友",
+      "onboard_time": 1661440125,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196508,
@@ -2187,22 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181276,
-      "num": 181276,
-      "word": "张颜齐命里无瓜",
-      "onboard_time": 1661437908,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180439,
-      "num": 180439,
-      "word": "星汉灿烂",
-      "onboard_time": 1661429273,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 178413,
       "num": 178413,
       "word": "四六级查分我们都是过儿",
@@ -2257,6 +2345,14 @@
       "onboard_time": 1661348376,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172529,
+      "num": 172529,
+      "word": "医护人员海拔5000米入户核酸采样",
+      "onboard_time": 1661439225,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171823,
