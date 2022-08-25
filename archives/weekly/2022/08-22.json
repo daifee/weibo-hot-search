@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661416162350,
+  "endTime": 1661417122145,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -291,6 +291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2516508,
+      "num": 2516508,
+      "word": "老人凌晨被扔半路女子装顺路送回",
+      "onboard_time": 1661412210,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 2509859,
       "num": 2509859,
       "word": "王嘉尔正式加入世界顶级舞团Kinjaz",
@@ -427,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1899310,
-      "num": 1899310,
-      "word": "老人凌晨被扔半路女子装顺路送回",
-      "onboard_time": 1661412210,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 1891324,
       "num": 836619,
       "word": "抖音崩了",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 1877808,
-      "num": 581312,
+      "num": 610174,
       "word": "浪莎向李易峰公开道歉",
       "onboard_time": 1661409748,
       "rank": 12,
@@ -699,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1479461,
+      "num": 1479461,
+      "word": "珠海防空警报",
+      "onboard_time": 1661414972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1458690,
       "num": 1458690,
       "word": "康师傅方便面净利暴跌39%",
@@ -761,14 +769,6 @@
       "onboard_time": 1661243072,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1353808,
-      "num": 1353808,
-      "word": "珠海防空警报",
-      "onboard_time": 1661414972,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1339101,
@@ -2163,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656119,
+      "num": 656119,
+      "word": "还好有人录下来了",
+      "onboard_time": 1661412930,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 655835,
       "num": 655835,
       "word": "重庆一定赢",
@@ -2256,6 +2264,14 @@
       "word": "邓州警方回应小女孩连续击打婴儿",
       "onboard_time": 1661175570,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633275,
+      "num": 633275,
+      "word": "甲状腺发病的4个主要原因",
+      "onboard_time": 1661411009,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2755,6 +2771,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 536754,
+      "num": 536754,
+      "word": "体检报告上的常见异常",
+      "onboard_time": 1661412689,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536503,
       "num": 536503,
       "word": "张小斐拯救嫌疑人眼神杀",
@@ -2787,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533510,
-      "num": 533510,
-      "word": "甲状腺发病的4个主要原因",
-      "onboard_time": 1661411009,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531605,
       "num": 403316,
       "word": "杨超越为了赢狂吃21份早餐",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1661297964,
       "rank": 17,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 530516,
-      "num": 530516,
-      "word": "还好有人录下来了",
-      "onboard_time": 1661412930,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 527051,
@@ -3795,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405498,
-      "num": 405498,
-      "word": "体检报告上的常见异常",
-      "onboard_time": 1661412689,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405176,
       "num": 405176,
       "word": "密室大逃脱",
@@ -4289,6 +4289,14 @@
       "onboard_time": 1661315378,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363977,
+      "num": 363977,
+      "word": "大学第一台电脑要怎么选",
+      "onboard_time": 1661411728,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363080,
@@ -5099,6 +5107,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 306396,
+      "num": 306396,
+      "word": "刚上大一有必要买电脑吗",
+      "onboard_time": 1661415750,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 304914,
       "num": 304914,
       "word": "男子抡板凳殴打前妻被行拘",
@@ -5272,14 +5288,6 @@
       "word": "武汉新增无症状感染者8例",
       "onboard_time": 1661393792,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291257,
-      "num": 291257,
-      "word": "大学第一台电脑要怎么选",
-      "onboard_time": 1661411728,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6155,6 +6163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254280,
+      "num": 254280,
+      "word": "叶蓁蓁父母查岗",
+      "onboard_time": 1661416171,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254229,
       "num": 212659,
       "word": "民国大侦探连环案好刺激",
@@ -6915,6 +6931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217649,
+      "num": 217649,
+      "word": "重庆机车少年送云南消防员上前线",
+      "onboard_time": 1661415990,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 216612,
       "num": 216612,
       "word": "王源天亮一起追太阳",
@@ -7185,6 +7209,14 @@
       "onboard_time": 1661263771,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202933,
+      "num": 202933,
+      "word": "EDG对战LNG",
+      "onboard_time": 1661416110,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 202773,
@@ -7795,20 +7827,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173055,
+      "num": 173055,
+      "word": "你正在看哪本小说",
+      "onboard_time": 1661416472,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173020,
       "num": 173020,
       "word": "司机跨车道停车救孩子交警说不罚",
       "onboard_time": 1661238870,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 172782,
-      "num": 172782,
-      "word": "刚上大一有必要买电脑吗",
-      "onboard_time": 1661415750,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 172366,
@@ -7825,6 +7857,14 @@
       "onboard_time": 1661240311,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171823,
+      "num": 171823,
+      "word": "WBG粉丝聊天室",
+      "onboard_time": 1661416890,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 171566,
@@ -8017,14 +8057,6 @@
       "onboard_time": 1661298025,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159939,
-      "num": 159939,
-      "word": "重庆机车少年送云南消防员上前线",
-      "onboard_time": 1661415990,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 159736,
@@ -8417,14 +8449,6 @@
       "onboard_time": 1661250871,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133342,
-      "num": 133342,
-      "word": "EDG对战LNG",
-      "onboard_time": 1661416110,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 131473,
