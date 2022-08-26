@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661521862018,
+  "endTime": 1661523644702,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -91,8 +91,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2128723,
+      "num": 2128723,
+      "word": "4家核酸企业净利润增幅五成以上",
+      "onboard_time": 1661519732,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2113595,
-      "num": 271577,
+      "num": 321810,
       "word": "虾系明星",
       "onboard_time": 1661519372,
       "rank": 20,
@@ -155,6 +163,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1463272,
+      "num": 1463272,
+      "word": "这学能不能不开了",
+      "onboard_time": 1661519251,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1444570,
       "num": 1444570,
       "word": "流浪猫脖子被人绑四只幼崽",
@@ -201,14 +217,6 @@
       "onboard_time": 1661442163,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1255119,
-      "num": 1255119,
-      "word": "4家核酸企业净利润增幅五成以上",
-      "onboard_time": 1661519732,
-      "rank": 6,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1208957,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625084,
+      "num": 625084,
+      "word": "王者荣耀",
+      "onboard_time": 1661520513,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 624865,
       "num": 624865,
       "word": "上海殡仪馆回应月薪4万8招扛尸工",
@@ -593,14 +609,6 @@
       "onboard_time": 1661516011,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 604076,
-      "num": 604076,
-      "word": "这学能不能不开了",
-      "onboard_time": 1661519251,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 601818,
@@ -705,6 +713,14 @@
       "onboard_time": 1661509168,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 504382,
+      "num": 504382,
+      "word": "马丽主演票房破150亿",
+      "onboard_time": 1661523093,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 503245,
@@ -881,6 +897,14 @@
       "onboard_time": 1661491177,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 432275,
+      "num": 432275,
+      "word": "雀斑公主",
+      "onboard_time": 1661521170,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 429382,
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326341,
+      "num": 326341,
+      "word": "被王頔冯雪娇气死",
+      "onboard_time": 1661523032,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326058,
       "num": 326058,
       "word": "张照洋回应被打",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1661485172,
       "rank": 27,
       "category": "其它"
+    },
+    {
+      "raw_hot": 315970,
+      "num": 321822,
+      "word": "取消公摊面积购房者能否少花钱",
+      "onboard_time": 1661522493,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 315229,
@@ -1283,6 +1323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 303025,
+      "num": 303025,
+      "word": "消费券",
+      "onboard_time": 1661518769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300007,
       "num": 269317,
       "word": "玫瑰之战",
@@ -1313,22 +1361,6 @@
       "onboard_time": 1661504314,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294061,
-      "num": 294061,
-      "word": "王者荣耀",
-      "onboard_time": 1661520513,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 294014,
-      "num": 294014,
-      "word": "消费券",
-      "onboard_time": 1661518769,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292460,
@@ -1419,14 +1451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281309,
-      "num": 167829,
-      "word": "雀斑公主",
-      "onboard_time": 1661521170,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280665,
       "num": 280665,
       "word": "重庆多地降温降雨",
@@ -1476,7 +1500,7 @@
     },
     {
       "raw_hot": 274039,
-      "num": 183901,
+      "num": 207369,
       "word": "再见爱人",
       "onboard_time": 1661518290,
       "rank": 33,
@@ -1571,12 +1595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253223,
+      "num": 253223,
+      "word": "南京女大学生案主犯要求精神鉴定被驳回",
+      "onboard_time": 1661520697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251834,
       "num": 170132,
       "word": "魏大勋买菜买出了南北差异",
       "onboard_time": 1661502691,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250388,
+      "num": 250388,
+      "word": "女子高铁上给孩子投影无声版动画",
+      "onboard_time": 1661522790,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249816,
@@ -1651,8 +1691,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236933,
-      "num": 1106762,
+      "raw_hot": 237887,
+      "num": 1192363,
       "word": "这道防火长城坚不可摧",
       "onboard_time": 1661518647,
       "rank": 2,
@@ -1939,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185318,
+      "num": 185318,
+      "word": "卧龙赵云概念图公布",
+      "onboard_time": 1661523032,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184239,
       "num": 184239,
       "word": "三门峡新增本土无症状59例",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1661475877,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183054,
-      "num": 183054,
-      "word": "南京女大学生案主犯要求精神鉴定被驳回",
-      "onboard_time": 1661520697,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182933,
@@ -2155,12 +2195,28 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 146843,
+      "num": 146843,
+      "word": "重庆女摩友极力争取扑救山火",
+      "onboard_time": 1661523211,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 139270,
       "num": 139270,
       "word": "电竞经理",
       "onboard_time": 1661507190,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138307,
+      "num": 138307,
+      "word": "武汉疫情防控",
+      "onboard_time": 1661523211,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133508,
