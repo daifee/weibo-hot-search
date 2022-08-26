@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661513752455,
+  "endTime": 1661517808391,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382357,
+      "num": 605003,
+      "word": "千万不要把存款告诉别人",
+      "onboard_time": 1661511568,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1363034,
       "num": 1363034,
       "word": "重庆公安回应摩托志愿者送物资被罚",
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 997864,
+      "num": 997864,
+      "word": "东部战区在台岛周边实战化演练",
+      "onboard_time": 1661512169,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 941225,
       "num": 941225,
       "word": "龚俊乔欣沉睡花园开分7",
@@ -347,6 +363,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 820424,
+      "num": 396539,
+      "word": "消防员撤离时被重庆妹子强吻",
+      "onboard_time": 1661515472,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807624,
       "num": 807624,
       "word": "90天内苹果全网热搜达920个",
@@ -379,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 777854,
+      "num": 777854,
+      "word": "南京女大学生被害案凶手拒不认罪",
+      "onboard_time": 1661516072,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770251,
       "num": 522126,
       "word": "李汶翰说要打杜华",
@@ -387,28 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 769419,
-      "num": 769419,
-      "word": "东部战区在台岛周边实战化演练",
-      "onboard_time": 1661512169,
-      "rank": 23,
-      "category": "军事"
-    },
-    {
       "raw_hot": 759475,
       "num": 717442,
       "word": "南昌回应老人车站下跪事件",
       "onboard_time": 1661506831,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753935,
-      "num": 605003,
-      "word": "千万不要把存款告诉别人",
-      "onboard_time": 1661511568,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 743424,
@@ -617,6 +633,14 @@
       "onboard_time": 1661490217,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 513656,
+      "num": 513656,
+      "word": "关晓彤徐梦洁友情热恋期",
+      "onboard_time": 1661516011,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 503245,
@@ -851,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402503,
+      "num": 402503,
+      "word": "重庆巴南人民硬核投喂子弟兵",
+      "onboard_time": 1661515771,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397919,
       "num": 397919,
       "word": "学外语专业你后悔了吗",
@@ -921,6 +953,14 @@
       "onboard_time": 1661483130,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 375360,
+      "num": 361223,
+      "word": "世界小姐中国授权机构发表声明",
+      "onboard_time": 1661514869,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 369577,
@@ -1028,11 +1068,19 @@
     },
     {
       "raw_hot": 341596,
-      "num": 216512,
+      "num": 254879,
       "word": "刘耀文吃柠檬面不改色",
       "onboard_time": 1661513310,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338934,
+      "num": 338934,
+      "word": "世界首个龙眼与荔枝杂交新品种",
+      "onboard_time": 1661509168,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 336705,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1661507491,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331861,
+      "num": 331861,
+      "word": "阿水梦回S8",
+      "onboard_time": 1661513191,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 330952,
@@ -1203,12 +1259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290536,
+      "num": 290536,
+      "word": "重庆欢送消防员没端火锅是最后克制",
+      "onboard_time": 1661511630,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288389,
       "num": 288389,
       "word": "时代少年团夏日缤纷大片",
       "onboard_time": 1661488537,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288068,
+      "num": 179071,
+      "word": "甄嬛传和武林外传是电子榨菜",
+      "onboard_time": 1661513910,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 285259,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1661493392,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265412,
+      "num": 178556,
+      "word": "颖儿上一次演讨人厌角色还是夏冬春",
+      "onboard_time": 1661515532,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 263337,
@@ -1443,20 +1523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236786,
-      "num": 236786,
-      "word": "世界首个龙眼与荔枝杂交新品种",
-      "onboard_time": 1661509168,
-      "rank": 29,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 234721,
       "num": 234721,
       "word": "江西鹰潭方舱隔离条件堪忧",
       "onboard_time": 1661432640,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234280,
+      "num": 234280,
+      "word": "杭州消费券",
+      "onboard_time": 1661516612,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 233909,
@@ -1499,12 +1579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226071,
-      "num": 226071,
-      "word": "阿水梦回S8",
-      "onboard_time": 1661513191,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 227730,
+      "num": 227730,
+      "word": "中国与美国签署审计监管合作协议",
+      "onboard_time": 1661516972,
+      "rank": 25,
+      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 225680,
@@ -1515,20 +1595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224999,
+      "num": 125730,
+      "word": "苍兰夫妇推车合照花絮",
+      "onboard_time": 1661516732,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222539,
       "num": 222539,
       "word": "吴磊霍不疑仰身下马",
       "onboard_time": 1661437607,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221847,
-      "num": 221847,
-      "word": "重庆欢送消防员没端火锅是最后克制",
-      "onboard_time": 1661511630,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221456,
@@ -1707,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184563,
+      "num": 184563,
+      "word": "猫狗双全家庭的烦恼",
+      "onboard_time": 1661514929,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184239,
       "num": 184239,
       "word": "三门峡新增本土无症状59例",
@@ -1745,6 +1833,14 @@
       "onboard_time": 1661480550,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178251,
+      "num": 178251,
+      "word": "暖阳宫本五连绝世",
+      "onboard_time": 1661517390,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 177194,
@@ -1939,12 +2035,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 132366,
+      "num": 132366,
+      "word": "WB对战GK",
+      "onboard_time": 1661516311,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129608,
       "num": 129608,
       "word": "中国男篮战胜哈萨克斯坦男篮",
       "onboard_time": 1661445391,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126169,
+      "num": 126169,
+      "word": "没见过笑点这么密集的军训",
+      "onboard_time": 1661515232,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 124848,
@@ -1987,6 +2099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 104243,
+      "num": 104243,
+      "word": "女子吃霸王餐被拦下飞踢店员",
+      "onboard_time": 1661516911,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104225,
       "num": 104225,
       "word": "杨幂狐妖红衣造型侧颜路透",
@@ -1995,12 +2115,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101981,
+      "num": 101981,
+      "word": "南京女大学生遇害案二审开庭",
+      "onboard_time": 1661517631,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101806,
       "num": 101806,
       "word": "侠客岛评刘翔峰事件",
       "onboard_time": 1661446466,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93545,
+      "num": 93545,
+      "word": "乳状云的压迫感太强了",
+      "onboard_time": 1661517749,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 90753,
