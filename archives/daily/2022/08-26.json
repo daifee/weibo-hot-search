@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661497146438,
+  "endTime": 1661498747069,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2532586,
+      "num": 854733,
+      "word": "陈若仪 终于等到小志回家",
+      "onboard_time": 1661496032,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2308020,
+      "num": 373100,
+      "word": "林书豪道歉",
+      "onboard_time": 1661496450,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2244165,
       "num": 2244165,
       "word": "科比妻子捐出1600万赔偿金",
@@ -57,14 +73,6 @@
       "onboard_time": 1661479593,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2104350,
-      "num": 854733,
-      "word": "陈若仪 终于等到小志回家",
-      "onboard_time": 1661496032,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2048909,
@@ -113,6 +121,14 @@
       "onboard_time": 1661492912,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1208243,
+      "num": 1208243,
+      "word": "朋友圈没有了生活的痕迹",
+      "onboard_time": 1661496871,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1183729,
@@ -241,6 +257,22 @@
       "onboard_time": 1661487395,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 776960,
+      "num": 776960,
+      "word": "流浪猫脖子被人绑四只幼崽",
+      "onboard_time": 1661497351,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770251,
+      "num": 522126,
+      "word": "李汶翰说要打杜华",
+      "onboard_time": 1661497110,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 743424,
@@ -403,14 +435,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 517304,
-      "num": 330601,
-      "word": "林书豪道歉",
-      "onboard_time": 1661496450,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 489792,
       "num": 489792,
       "word": "他们用微光铸起防火长城",
@@ -475,12 +499,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 470697,
-      "num": 102563,
-      "word": "李汶翰说要打杜华",
-      "onboard_time": 1661497110,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 468238,
+      "num": 468238,
+      "word": "颜淡应渊28集不见了",
+      "onboard_time": 1661496392,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 465761,
@@ -555,14 +579,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 418963,
-      "num": 324465,
-      "word": "颜淡应渊28集不见了",
-      "onboard_time": 1661496392,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 414776,
       "num": 414776,
       "word": "小伙缅北目睹诈骗团伙打死室友",
@@ -593,6 +609,14 @@
       "onboard_time": 1661488476,
       "rank": 35,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 388396,
+      "num": 317301,
+      "word": "央视中秋晚会月下剪影预告",
+      "onboard_time": 1661497351,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 383400,
@@ -659,6 +683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 359567,
+      "num": 359567,
+      "word": "三星堆青铜神树上爬有壁虎",
+      "onboard_time": 1661494954,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356597,
       "num": 252935,
       "word": "中国排协回应女排戴口罩比赛",
@@ -697,14 +729,6 @@
       "onboard_time": 1661437607,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342334,
-      "num": 342334,
-      "word": "三星堆青铜神树上爬有壁虎",
-      "onboard_time": 1661494954,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336232,
@@ -811,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288323,
+      "num": 288323,
+      "word": "男子强行拖拽怀孕5个月妻子",
+      "onboard_time": 1661498491,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283211,
       "num": 283211,
       "word": "震撼航拍看重庆救援的人有多少",
@@ -827,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280665,
+      "num": 280665,
+      "word": "重庆多地降温降雨",
+      "onboard_time": 1661498132,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276418,
       "num": 276418,
       "word": "成都欢乐谷今起暂停开放",
@@ -835,12 +875,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 272437,
+      "num": 272437,
+      "word": "没想到开学最快乐的是父母",
+      "onboard_time": 1661498369,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270446,
       "num": 270446,
       "word": "世锦赛赵俊鹏逆转进四强",
       "onboard_time": 1661493392,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263337,
+      "num": 263337,
+      "word": "河北新增无症状感染者12例",
+      "onboard_time": 1661495730,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263157,
@@ -1051,12 +1107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198009,
-      "num": 198009,
-      "word": "河北新增无症状感染者12例",
-      "onboard_time": 1661495730,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 197793,
+      "num": 197793,
+      "word": "见过最可爱的笨蛋小猫",
+      "onboard_time": 1661495192,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 196531,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1661490276,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184781,
-      "num": 184781,
-      "word": "见过最可爱的笨蛋小猫",
-      "onboard_time": 1661495192,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 184239,
@@ -1243,6 +1291,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 151339,
+      "num": 151339,
+      "word": "面前是漫天山火身后是万家灯火",
+      "onboard_time": 1661498672,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150807,
       "num": 150807,
       "word": "张凌赫唱吻别",
@@ -1251,12 +1307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148313,
-      "num": 148313,
-      "word": "朋友圈没有了生活的痕迹",
-      "onboard_time": 1661496871,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 148292,
+      "num": 148292,
+      "word": "林书豪 成都",
+      "onboard_time": 1661497171,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133508,
@@ -1289,6 +1345,14 @@
       "onboard_time": 1661428671,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124611,
+      "num": 124611,
+      "word": "刘国梁加入世界乒联董事会",
+      "onboard_time": 1661498071,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107580,
@@ -1345,6 +1409,14 @@
       "onboard_time": 1661461453,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14875,
+      "num": 400285,
+      "word": "LGD大鹅XYG先锋对决",
+      "onboard_time": 1661497831,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 13926,
