@@ -1,0 +1,410 @@
+{
+  "runTime": 1661524621141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086524,
+        "num": 2086524,
+        "word": "这学能不能不开了",
+        "onboard_time": 1661519251,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2062937,
+        "num": 2062937,
+        "word": "4家核酸企业净利润增幅五成以上",
+        "onboard_time": 1661519732,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 298151,
+        "num": 1104272,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990031,
+        "num": 990031,
+        "word": "取消公摊面积购房者能否少花钱",
+        "onboard_time": 1661522493,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 923453,
+        "num": 923453,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 751736,
+        "num": 751736,
+        "word": "南京女大学生被害案凶手拒不认罪",
+        "onboard_time": 1661516072,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740619,
+        "num": 740619,
+        "word": "女子高铁上给孩子投影无声版动画",
+        "onboard_time": 1661522790,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693160,
+        "num": 693160,
+        "word": "马丽主演票房破150亿",
+        "onboard_time": 1661523093,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572845,
+        "num": 572845,
+        "word": "孙怡回归再见爱人2",
+        "onboard_time": 1661511568,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563391,
+        "num": 563391,
+        "word": "中国与美国签署审计监管合作协议",
+        "onboard_time": 1661516972,
+        "rank": 9,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 817836,
+        "num": 550857,
+        "word": "千万不要把存款告诉别人",
+        "onboard_time": 1661511568,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520034,
+        "num": 520034,
+        "word": "冰雨火禁毒所大夫也是毒贩",
+        "onboard_time": 1661517930,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510159,
+        "num": 510159,
+        "word": "王者荣耀",
+        "onboard_time": 1661520513,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 505326,
+        "num": 505326,
+        "word": "TES对战JDG",
+        "onboard_time": 1661504433,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 416833,
+        "num": 416833,
+        "word": "女子吃霸王餐被拦下飞踢店员",
+        "onboard_time": 1661516911,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388759,
+        "num": 388759,
+        "word": "雀斑公主",
+        "onboard_time": 1661521170,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368606,
+        "num": 368606,
+        "word": "颖儿上一次演讨人厌角色还是夏冬春",
+        "onboard_time": 1661515532,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347513,
+        "num": 347513,
+        "word": "世界首个龙眼与荔枝杂交新品种",
+        "onboard_time": 1661509168,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 343163,
+        "num": 343163,
+        "word": "林志颖最新治疗情况",
+        "onboard_time": 1661521230,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341410,
+        "num": 341410,
+        "word": "乳状云的压迫感太强了",
+        "onboard_time": 1661517749,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1880224,
+        "num": 340227,
+        "word": "虾系明星",
+        "onboard_time": 1661519372,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 558379,
+        "num": 338616,
+        "word": "消防员撤离时被重庆妹子强吻",
+        "onboard_time": 1661515472,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328824,
+        "num": 328824,
+        "word": "东部战区在台岛周边实战化演练",
+        "onboard_time": 1661512169,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 308738,
+        "num": 308738,
+        "word": "被王頔冯雪娇气死",
+        "onboard_time": 1661523032,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304041,
+        "num": 304041,
+        "word": "WB战胜GK",
+        "onboard_time": 1661524233,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301532,
+        "num": 301532,
+        "word": "RNG",
+        "onboard_time": 1661524175,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287329,
+        "num": 287329,
+        "word": "如何看待沉香如屑的爱情观",
+        "onboard_time": 1661520212,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279276,
+        "num": 279276,
+        "word": "重庆巴南人民硬核投喂子弟兵",
+        "onboard_time": 1661515771,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276750,
+        "num": 276750,
+        "word": "南京女大学生案主犯要求精神鉴定被驳回",
+        "onboard_time": 1661520697,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259772,
+        "num": 259772,
+        "word": "武汉疫情防控",
+        "onboard_time": 1661523211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285906,
+        "num": 259334,
+        "word": "王鹤棣回应脱衣服很丝滑",
+        "onboard_time": 1661508751,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287160,
+        "num": 259084,
+        "word": "丁程鑫体验高难度滑翔伞",
+        "onboard_time": 1661524534,
+        "rank": 31,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 258831,
+        "num": 258831,
+        "word": "玫瑰之战",
+        "onboard_time": 1661518892,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252809,
+        "num": 252809,
+        "word": "重庆女摩友极力争取扑救山火",
+        "onboard_time": 1661523211,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 249233,
+        "num": 249233,
+        "word": "龚俊乔欣沉睡花园开分7",
+        "onboard_time": 1661510970,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242061,
+        "num": 242061,
+        "word": "消费券",
+        "onboard_time": 1661518769,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208885,
+        "num": 208885,
+        "word": "校方回应西北大学研究生奖学金",
+        "onboard_time": 1661509469,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205897,
+        "num": 205897,
+        "word": "重庆欢送消防员没端火锅是最后克制",
+        "onboard_time": 1661511630,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185547,
+        "num": 185547,
+        "word": "青白蛇皮肤优化",
+        "onboard_time": 1661523993,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185428,
+        "num": 185428,
+        "word": "酸奶是如何让你变胖的",
+        "onboard_time": 1661506771,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223856,
+        "num": 177903,
+        "word": "关晓彤徐梦洁友情热恋期",
+        "onboard_time": 1661516011,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213571,
+        "num": 168338,
+        "word": "刘恺威洗澡洗一半没水了",
+        "onboard_time": 1661499452,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200005,
+        "num": 160145,
+        "word": "再见爱人",
+        "onboard_time": 1661518290,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151923,
+        "num": 151923,
+        "word": "公章千万不能随便用印泥",
+        "onboard_time": 1661523875,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 146761,
+        "num": 146761,
+        "word": "暖阳宫本五连绝世",
+        "onboard_time": 1661517390,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145621,
+        "num": 145621,
+        "word": "北京多所高校加强校门管理",
+        "onboard_time": 1661510789,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 144145,
+        "num": 144145,
+        "word": "流浪猫脖子被人绑四只幼崽",
+        "onboard_time": 1661497351,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142063,
+        "num": 142063,
+        "word": "重庆山火救援手绘指挥图曝光",
+        "onboard_time": 1661512591,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139469,
+        "num": 139469,
+        "word": "卧龙赵云概念图公布",
+        "onboard_time": 1661523032,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125580,
+        "num": 125580,
+        "word": "南昌回应老人车站下跪事件",
+        "onboard_time": 1661506831,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进县城看发展#"
+    }
+  }
+}

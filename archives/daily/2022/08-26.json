@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661523644702,
+  "endTime": 1661524621141,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2113595,
-      "num": 321810,
+      "num": 340227,
       "word": "虾系明星",
       "onboard_time": 1661519372,
       "rank": 20,
@@ -113,6 +113,14 @@
       "onboard_time": 1661507611,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2086524,
+      "num": 2086524,
+      "word": "这学能不能不开了",
+      "onboard_time": 1661519251,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 2048909,
@@ -161,14 +169,6 @@
       "onboard_time": 1661443177,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1463272,
-      "num": 1463272,
-      "word": "这学能不能不开了",
-      "onboard_time": 1661519251,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 1444570,
@@ -331,6 +331,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 990031,
+      "num": 990031,
+      "word": "取消公摊面积购房者能否少花钱",
+      "onboard_time": 1661522493,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 941225,
       "num": 941225,
       "word": "龚俊乔欣沉睡花园开分7",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740619,
+      "num": 740619,
+      "word": "女子高铁上给孩子投影无声版动画",
+      "onboard_time": 1661522790,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732357,
       "num": 732357,
       "word": "90后男子长期宅家久坐后肺梗",
@@ -505,6 +521,14 @@
       "onboard_time": 1661487935,
       "rank": 19,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 693160,
+      "num": 693160,
+      "word": "马丽主演票房破150亿",
+      "onboard_time": 1661523093,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 675904,
@@ -713,14 +737,6 @@
       "onboard_time": 1661509168,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 504382,
-      "num": 504382,
-      "word": "马丽主演票房破150亿",
-      "onboard_time": 1661523093,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 503245,
@@ -1171,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343163,
+      "num": 343163,
+      "word": "林志颖最新治疗情况",
+      "onboard_time": 1661521230,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341596,
       "num": 254879,
       "word": "刘耀文吃柠檬面不改色",
@@ -1283,14 +1307,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 315970,
-      "num": 321822,
-      "word": "取消公摊面积购房者能否少花钱",
-      "onboard_time": 1661522493,
-      "rank": 19,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 315229,
       "num": 315229,
       "word": "旗舰机你选苹果还是华为",
@@ -1323,12 +1339,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 304041,
+      "num": 304041,
+      "word": "WB战胜GK",
+      "onboard_time": 1661524233,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303025,
       "num": 303025,
       "word": "消费券",
       "onboard_time": 1661518769,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301532,
+      "num": 301532,
+      "word": "RNG",
+      "onboard_time": 1661524175,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 300007,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1661501733,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298151,
+      "num": 1192363,
+      "word": "这道防火长城坚不可摧",
+      "onboard_time": 1661518647,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295223,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1661488537,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287160,
+      "num": 259084,
+      "word": "丁程鑫体验高难度滑翔伞",
+      "onboard_time": 1661524534,
+      "rank": 31,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 285259,
@@ -1483,6 +1531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 276750,
+      "num": 276750,
+      "word": "南京女大学生案主犯要求精神鉴定被驳回",
+      "onboard_time": 1661520697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276418,
       "num": 276418,
       "word": "成都欢乐谷今起暂停开放",
@@ -1555,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259772,
+      "num": 259772,
+      "word": "武汉疫情防控",
+      "onboard_time": 1661523211,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257455,
       "num": 257455,
       "word": "证监会强制执行乐视网2.4亿罚款",
@@ -1595,12 +1659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253223,
-      "num": 253223,
-      "word": "南京女大学生案主犯要求精神鉴定被驳回",
-      "onboard_time": 1661520697,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 252809,
+      "num": 252809,
+      "word": "重庆女摩友极力争取扑救山火",
+      "onboard_time": 1661523211,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 251834,
@@ -1609,14 +1673,6 @@
       "onboard_time": 1661502691,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250388,
-      "num": 250388,
-      "word": "女子高铁上给孩子投影无声版动画",
-      "onboard_time": 1661522790,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249816,
@@ -1688,14 +1744,6 @@
       "word": "救火志愿者回家第一句问妻子帅不帅",
       "onboard_time": 1661490040,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237887,
-      "num": 1192363,
-      "word": "这道防火长城坚不可摧",
-      "onboard_time": 1661518647,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1859,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204178,
-      "num": 132996,
-      "word": "林志颖最新治疗情况",
-      "onboard_time": 1661521230,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201634,
       "num": 201634,
       "word": "华西第二医院锦江院区发热门诊停诊通知",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1661490276,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185547,
+      "num": 185547,
+      "word": "青白蛇皮肤优化",
+      "onboard_time": 1661523993,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 185318,
@@ -2179,6 +2227,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 151923,
+      "num": 151923,
+      "word": "公章千万不能随便用印泥",
+      "onboard_time": 1661523875,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
       "raw_hot": 150807,
       "num": 150807,
       "word": "张凌赫唱吻别",
@@ -2195,28 +2251,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 146843,
-      "num": 146843,
-      "word": "重庆女摩友极力争取扑救山火",
-      "onboard_time": 1661523211,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 139270,
       "num": 139270,
       "word": "电竞经理",
       "onboard_time": 1661507190,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138307,
-      "num": 138307,
-      "word": "武汉疫情防控",
-      "onboard_time": 1661523211,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133508,
