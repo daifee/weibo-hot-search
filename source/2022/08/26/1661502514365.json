@@ -1,0 +1,410 @@
+{
+  "runTime": 1661502514365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2228839,
+        "num": 2228839,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1444570,
+        "num": 1444570,
+        "word": "流浪猫脖子被人绑四只幼崽",
+        "onboard_time": 1661497351,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198974,
+        "num": 885803,
+        "word": "救火英雄自带中国人的精气神",
+        "onboard_time": 1661499872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2631369,
+        "num": 865839,
+        "word": "刘恺威洗澡洗一半没水了",
+        "onboard_time": 1661499452,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1870230,
+        "num": 846847,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820437,
+        "num": 820437,
+        "word": "重庆公安回应摩托志愿者送物资被罚",
+        "onboard_time": 1661500469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697631,
+        "num": 697631,
+        "word": "老太拦停科目三驾考车想搭便车",
+        "onboard_time": 1661500711,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488926,
+        "num": 488926,
+        "word": "twice空降",
+        "onboard_time": 1661492912,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 452489,
+        "num": 452489,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 408138,
+        "num": 408138,
+        "word": "刘国梁加入世界乒联董事会",
+        "onboard_time": 1661498071,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1478085,
+        "num": 397598,
+        "word": "杨洋王一博王鹤棣杂志封面",
+        "onboard_time": 1661500892,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1898215,
+        "num": 380499,
+        "word": "男子强行拖拽怀孕5个月妻子",
+        "onboard_time": 1661498491,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420828,
+        "num": 367701,
+        "word": "范世錡羡慕mike听不懂规则",
+        "onboard_time": 1661499932,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305779,
+        "num": 305779,
+        "word": "CPA税法",
+        "onboard_time": 1661498852,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30624,
+        "num": 279877,
+        "word": "42个瞬间串起深圳42年",
+        "onboard_time": 1661500892,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336705,
+        "num": 278276,
+        "word": "郑钧一求人就口头下跪",
+        "onboard_time": 1661498971,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264802,
+        "num": 264802,
+        "word": "异地恋男友三年存2460张照片送女友",
+        "onboard_time": 1661488240,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242515,
+        "num": 242515,
+        "word": "90后男子长期宅家久坐后肺梗",
+        "onboard_time": 1661491417,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241032,
+        "num": 241032,
+        "word": "三星堆青铜神树上爬有壁虎",
+        "onboard_time": 1661494954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238656,
+        "num": 238656,
+        "word": "苹果中国10年售出3.8亿台",
+        "onboard_time": 1661487935,
+        "rank": 19,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1186271,
+        "num": 238561,
+        "word": "林书豪道歉",
+        "onboard_time": 1661496450,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313354,
+        "num": 238467,
+        "word": "李汶翰说要打杜华",
+        "onboard_time": 1661497110,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296868,
+        "num": 238380,
+        "word": "颜淡应渊28集不见了",
+        "onboard_time": 1661496392,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281681,
+        "num": 238306,
+        "word": "赵丽颖千禧风造型花絮",
+        "onboard_time": 1661488595,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238257,
+        "num": 238257,
+        "word": "蔡澜",
+        "onboard_time": 1661501131,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206739,
+        "num": 206739,
+        "word": "专家称可以给00后增加工作强度",
+        "onboard_time": 1661478274,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196065,
+        "num": 196065,
+        "word": "南京网红猕猴归山受挫挨了一顿揍",
+        "onboard_time": 1661487157,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193534,
+        "num": 193534,
+        "word": "iPhone14Pro紫色机模",
+        "onboard_time": 1661479593,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193283,
+        "num": 193283,
+        "word": "90天内苹果全网热搜达920个",
+        "onboard_time": 1661501672,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185792,
+        "num": 185792,
+        "word": "河北新增无症状感染者12例",
+        "onboard_time": 1661495730,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324695,
+        "num": 185759,
+        "word": "陈若仪 终于等到小志回家",
+        "onboard_time": 1661496032,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799429,
+        "num": 185733,
+        "word": "贾浅浅是深是浅",
+        "onboard_time": 1661499392,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277181,
+        "num": 185689,
+        "word": "唐周要泡三天水了",
+        "onboard_time": 1661501733,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238266,
+        "num": 185647,
+        "word": "苏有朋说干掉初代哥哥组",
+        "onboard_time": 1661494891,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233080,
+        "num": 185622,
+        "word": "魏晨新剧状态",
+        "onboard_time": 1661500352,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185583,
+        "num": 185583,
+        "word": "歼20急转大仰角穿云画面",
+        "onboard_time": 1661491177,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 184650,
+        "num": 184650,
+        "word": "13岁女孩爱上太极闭关3年成拳师",
+        "onboard_time": 1661489256,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169765,
+        "num": 169765,
+        "word": "给朋友盘下一家烧烤店",
+        "onboard_time": 1661500531,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 167208,
+        "num": 167208,
+        "word": "重庆20个区县下雨",
+        "onboard_time": 1661493452,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159317,
+        "num": 159317,
+        "word": "乾隆题字50次的富春山居图为赝品",
+        "onboard_time": 1661487095,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227220,
+        "num": 158935,
+        "word": "林娜琏镜头",
+        "onboard_time": 1661495550,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209049,
+        "num": 157662,
+        "word": "张照洋回应被打",
+        "onboard_time": 1661501189,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 153653,
+        "num": 153653,
+        "word": "没想到开学最快乐的是父母",
+        "onboard_time": 1661498369,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153132,
+        "num": 153132,
+        "word": "震撼航拍看重庆救援的人有多少",
+        "onboard_time": 1661493093,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148271,
+        "num": 148271,
+        "word": "广东人已经摸清了台风的套路",
+        "onboard_time": 1661492195,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147885,
+        "num": 147885,
+        "word": "见过最可爱的笨蛋小猫",
+        "onboard_time": 1661495192,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147067,
+        "num": 147067,
+        "word": "运20与五星红旗惊艳同框",
+        "onboard_time": 1661502032,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 153552,
+        "num": 146390,
+        "word": "世锦赛陈雨菲进四强",
+        "onboard_time": 1661502452,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143635,
+        "num": 143635,
+        "word": "洗衣女子失足坠河机智躺平自救",
+        "onboard_time": 1661502214,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142796,
+        "num": 142796,
+        "word": "重庆是我们的家不能看着不管",
+        "onboard_time": 1661502452,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进县城看发展#"
+    }
+  }
+}
