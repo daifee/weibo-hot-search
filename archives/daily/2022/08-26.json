@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661498747069,
+  "endTime": 1661499586665,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2532586,
+      "raw_hot": 2560930,
       "num": 854733,
       "word": "陈若仪 终于等到小志回家",
       "onboard_time": 1661496032,
@@ -83,6 +83,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1811172,
+      "num": 1811172,
+      "word": "朋友圈没有了生活的痕迹",
+      "onboard_time": 1661496871,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1526461,
       "num": 1526461,
       "word": "加拿大直接向俄罗斯交还涡轮机",
@@ -115,20 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1242997,
+      "num": 1242997,
+      "word": "男子强行拖拽怀孕5个月妻子",
+      "onboard_time": 1661498491,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1209912,
+      "num": 1209912,
+      "word": "流浪猫脖子被人绑四只幼崽",
+      "onboard_time": 1661497351,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208957,
       "num": 1031180,
       "word": "twice空降",
       "onboard_time": 1661492912,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1208243,
-      "num": 1208243,
-      "word": "朋友圈没有了生活的痕迹",
-      "onboard_time": 1661496871,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 1183729,
@@ -259,14 +275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 776960,
-      "num": 776960,
-      "word": "流浪猫脖子被人绑四只幼崽",
-      "onboard_time": 1661497351,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 770251,
       "num": 522126,
       "word": "李汶翰说要打杜华",
@@ -385,6 +393,14 @@
       "onboard_time": 1661470107,
       "rank": 31,
       "category": "社会负面,网红"
+    },
+    {
+      "raw_hot": 573400,
+      "num": 131382,
+      "word": "虞书欣王鹤棣片场跳华尔兹",
+      "onboard_time": 1661499573,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 559576,
@@ -555,6 +571,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 429382,
+      "num": 429382,
+      "word": "苏有朋说干掉初代哥哥组",
+      "onboard_time": 1661494891,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427502,
       "num": 427502,
       "word": "KPL 暂停",
@@ -611,6 +635,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 395881,
+      "num": 395881,
+      "word": "CPA税法",
+      "onboard_time": 1661498852,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388396,
       "num": 317301,
       "word": "央视中秋晚会月下剪影预告",
@@ -627,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380774,
-      "num": 319421,
-      "word": "苏有朋说干掉初代哥哥组",
-      "onboard_time": 1661494891,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 381355,
+      "num": 381355,
+      "word": "三星堆青铜神树上爬有壁虎",
+      "onboard_time": 1661494954,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379376,
@@ -649,6 +681,14 @@
       "onboard_time": 1661483130,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 376266,
+      "num": 297733,
+      "word": "刘恺威洗澡洗一半没水了",
+      "onboard_time": 1661499452,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 369577,
@@ -681,14 +721,6 @@
       "onboard_time": 1661481153,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 359567,
-      "num": 359567,
-      "word": "三星堆青铜神树上爬有壁虎",
-      "onboard_time": 1661494954,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356597,
@@ -795,6 +827,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 296233,
+      "num": 259271,
+      "word": "郑钧一求人就口头下跪",
+      "onboard_time": 1661498971,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292460,
       "num": 292460,
       "word": "重庆人等的雨终于来了",
@@ -833,14 +873,6 @@
       "onboard_time": 1661488537,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 288323,
-      "num": 288323,
-      "word": "男子强行拖拽怀孕5个月妻子",
-      "onboard_time": 1661498491,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283211,
@@ -977,6 +1009,14 @@
       "onboard_time": 1661477494,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239565,
+      "num": 239565,
+      "word": "刘国梁加入世界乒联董事会",
+      "onboard_time": 1661498071,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 238761,
@@ -1195,6 +1235,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182933,
+      "num": 182933,
+      "word": "面前是漫天山火身后是万家灯火",
+      "onboard_time": 1661498672,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180182,
+      "num": 180182,
+      "word": "贾浅浅是深是浅",
+      "onboard_time": 1661499392,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180073,
       "num": 180073,
       "word": "这就是了不起的中国人",
@@ -1251,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169923,
+      "num": 169923,
+      "word": "林书豪 成都",
+      "onboard_time": 1661497171,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168834,
       "num": 168834,
       "word": "8月25日新增本土确诊262例",
@@ -1291,28 +1355,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 151339,
-      "num": 151339,
-      "word": "面前是漫天山火身后是万家灯火",
-      "onboard_time": 1661498672,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150807,
       "num": 150807,
       "word": "张凌赫唱吻别",
       "onboard_time": 1661469987,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148292,
-      "num": 148292,
-      "word": "林书豪 成都",
-      "onboard_time": 1661497171,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 133508,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1661428671,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124611,
-      "num": 124611,
-      "word": "刘国梁加入世界乒联董事会",
-      "onboard_time": 1661498071,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 107580,
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 14875,
-      "num": 400285,
+      "num": 400800,
       "word": "LGD大鹅XYG先锋对决",
       "onboard_time": 1661497831,
       "rank": 14,

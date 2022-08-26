@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661498747069,
+  "endTime": 1661499586665,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -331,7 +331,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2532586,
+      "raw_hot": 2560930,
       "num": 854733,
       "word": "陈若仪 终于等到小志回家",
       "onboard_time": 1661496032,
@@ -601,6 +601,14 @@
       "onboard_time": 1661129730,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1811172,
+      "num": 1811172,
+      "word": "朋友圈没有了生活的痕迹",
+      "onboard_time": 1661496871,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1797891,
@@ -1115,6 +1123,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1242997,
+      "num": 1242997,
+      "word": "男子强行拖拽怀孕5个月妻子",
+      "onboard_time": 1661498491,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1240201,
       "num": 1152081,
       "word": "男子疑因手机爆炸当街倒地",
@@ -1155,20 +1171,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1209912,
+      "num": 1209912,
+      "word": "流浪猫脖子被人绑四只幼崽",
+      "onboard_time": 1661497351,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208957,
       "num": 1031180,
       "word": "twice空降",
       "onboard_time": 1661492912,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1208243,
-      "num": 1208243,
-      "word": "朋友圈没有了生活的痕迹",
-      "onboard_time": 1661496871,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 1191180,
@@ -2187,14 +2203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 776960,
-      "num": 776960,
-      "word": "流浪猫脖子被人绑四只幼崽",
-      "onboard_time": 1661497351,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 776138,
       "num": 776138,
       "word": "不存在2022年红绿灯新国标",
@@ -3089,6 +3097,14 @@
       "onboard_time": 1661418629,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 573400,
+      "num": 131382,
+      "word": "虞书欣王鹤棣片场跳华尔兹",
+      "onboard_time": 1661499573,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 573379,
@@ -4451,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429382,
+      "num": 429382,
+      "word": "苏有朋说干掉初代哥哥组",
+      "onboard_time": 1661494891,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429024,
       "num": 429024,
       "word": "容昊 上帝视角",
@@ -4883,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395881,
+      "num": 395881,
+      "word": "CPA税法",
+      "onboard_time": 1661498852,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 394412,
       "num": 394412,
       "word": "太湖湾音乐节",
@@ -5075,12 +5107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380774,
-      "num": 319421,
-      "word": "苏有朋说干掉初代哥哥组",
-      "onboard_time": 1661494891,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 381355,
+      "num": 381355,
+      "word": "三星堆青铜神树上爬有壁虎",
+      "onboard_time": 1661494954,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380196,
@@ -5177,6 +5209,14 @@
       "onboard_time": 1661235989,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376266,
+      "num": 297733,
+      "word": "刘恺威洗澡洗一半没水了",
+      "onboard_time": 1661499452,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 375364,
@@ -5409,14 +5449,6 @@
       "onboard_time": 1661227594,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359567,
-      "num": 359567,
-      "word": "三星堆青铜神树上爬有壁虎",
-      "onboard_time": 1661494954,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356977,
@@ -6443,6 +6475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296233,
+      "num": 259271,
+      "word": "郑钧一求人就口头下跪",
+      "onboard_time": 1661498971,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295692,
       "num": 295692,
       "word": "猫咪私自开笼放狗寻玩伴被罚绝育",
@@ -6633,14 +6673,6 @@
       "onboard_time": 1661488537,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 288323,
-      "num": 288323,
-      "word": "男子强行拖拽怀孕5个月妻子",
-      "onboard_time": 1661498491,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288191,
@@ -7953,6 +7985,14 @@
       "onboard_time": 1661477494,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239565,
+      "num": 239565,
+      "word": "刘国梁加入世界乒联董事会",
+      "onboard_time": 1661498071,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 239258,
@@ -9363,6 +9403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182933,
+      "num": 182933,
+      "word": "面前是漫天山火身后是万家灯火",
+      "onboard_time": 1661498672,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182344,
       "num": 182344,
       "word": "研究称长得像DNA或也像",
@@ -9417,6 +9465,14 @@
       "onboard_time": 1661213251,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180182,
+      "num": 180182,
+      "word": "贾浅浅是深是浅",
+      "onboard_time": 1661499392,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180181,
@@ -9729,6 +9785,14 @@
       "onboard_time": 1661333132,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169923,
+      "num": 169923,
+      "word": "林书豪 成都",
+      "onboard_time": 1661497171,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 169519,
@@ -10083,14 +10147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151339,
-      "num": 151339,
-      "word": "面前是漫天山火身后是万家灯火",
-      "onboard_time": 1661498672,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150807,
       "num": 150807,
       "word": "张凌赫唱吻别",
@@ -10129,14 +10185,6 @@
       "onboard_time": 1661091752,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148292,
-      "num": 148292,
-      "word": "林书豪 成都",
-      "onboard_time": 1661497171,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 148215,
@@ -10483,14 +10531,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 124611,
-      "num": 124611,
-      "word": "刘国梁加入世界乒联董事会",
-      "onboard_time": 1661498071,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122277,
       "num": 122277,
       "word": "苹果超前瞻",
@@ -10828,7 +10868,7 @@
     },
     {
       "raw_hot": 14875,
-      "num": 400285,
+      "num": 400800,
       "word": "LGD大鹅XYG先锋对决",
       "onboard_time": 1661497831,
       "rank": 14,
