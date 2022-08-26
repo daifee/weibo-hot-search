@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661553516698,
+  "endTime": 1661556108338,
   "band_list": [
     {
       "raw_hot": 3946998,
@@ -113,6 +113,22 @@
       "onboard_time": 1661528494,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 457377,
+      "num": 457377,
+      "word": "女子吃牛排发现异物似尾巴",
+      "onboard_time": 1661543412,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414683,
+      "num": 414683,
+      "word": "丁程鑫说只有赵今麦一个妹妹",
+      "onboard_time": 1661554998,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 411606,
@@ -235,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299926,
+      "num": 299926,
+      "word": "今年的蚊子是被热死了吗",
+      "onboard_time": 1661539273,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298768,
       "num": 298768,
       "word": "老师一开口还以为电视开了",
@@ -275,14 +299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251882,
-      "num": 251882,
-      "word": "女子吃牛排发现异物似尾巴",
-      "onboard_time": 1661543412,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233417,
       "num": 233417,
       "word": "孙怡回归再见爱人2",
@@ -305,6 +321,14 @@
       "onboard_time": 1661530770,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223789,
+      "num": 223789,
+      "word": "儿子赌博不悔改母亲偷快递称想坐牢",
+      "onboard_time": 1661554577,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222608,
@@ -347,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197530,
+      "num": 197530,
+      "word": "FF百名员工请愿罢免执行董事长",
+      "onboard_time": 1661553494,
+      "rank": 49,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 192577,
       "num": 192577,
       "word": "洞洞鞋猫窝",
@@ -371,20 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178916,
+      "num": 178916,
+      "word": "杨幂花少里被认错三次",
+      "onboard_time": 1661536217,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175223,
+      "num": 175223,
+      "word": "网逃被抓大喊我的猫怎么办",
+      "onboard_time": 1661538135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166772,
       "num": 166772,
       "word": "JDG让二追三",
       "onboard_time": 1661525136,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164864,
-      "num": 164864,
-      "word": "今年的蚊子是被热死了吗",
-      "onboard_time": 1661539273,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162749,
@@ -467,20 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132428,
-      "num": 132428,
-      "word": "杨幂花少里被认错三次",
-      "onboard_time": 1661536217,
-      "rank": 14,
+      "raw_hot": 105761,
+      "num": 105761,
+      "word": "陈小春评论区初代哥哥团建",
+      "onboard_time": 1661537414,
+      "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96444,
-      "num": 96444,
-      "word": "网逃被抓大喊我的猫怎么办",
-      "onboard_time": 1661538135,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92774,
@@ -491,36 +523,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82936,
-      "num": 82936,
-      "word": "陈小春评论区初代哥哥团建",
-      "onboard_time": 1661537414,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 65891,
-      "num": 65891,
-      "word": "北京秋天的感觉",
-      "onboard_time": 1661548151,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 32226,
-      "num": 32226,
+      "raw_hot": 92538,
+      "num": 92538,
       "word": "辽宁本溪新增1例阳性",
       "onboard_time": 1661552352,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21407,
-      "num": 21407,
-      "word": "FF百名员工请愿罢免执行董事长",
-      "onboard_time": 1661553494,
+      "raw_hot": 82461,
+      "num": 82461,
+      "word": "北京秋天的感觉",
+      "onboard_time": 1661548151,
       "rank": 49,
-      "category": "财经,科技"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 73709,
+      "num": 73709,
+      "word": "吴易昺闯进美网男单正赛",
+      "onboard_time": 1661555839,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 13755,
