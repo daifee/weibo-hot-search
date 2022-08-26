@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661510457587,
+  "endTime": 1661512739326,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -91,6 +91,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2089255,
+      "num": 2089255,
+      "word": "韩国确认买入冰雨火版权",
+      "onboard_time": 1661507611,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2048909,
       "num": 1951145,
       "word": "转发这个那英",
@@ -113,14 +121,6 @@
       "onboard_time": 1661500892,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1626622,
-      "num": 1626622,
-      "word": "韩国确认买入冰雨火版权",
-      "onboard_time": 1661507611,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1526461,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237615,
+      "num": 1237615,
+      "word": "孙怡回归再见爱人2",
+      "onboard_time": 1661511568,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1208957,
       "num": 1031180,
       "word": "twice空降",
@@ -193,6 +201,14 @@
       "onboard_time": 1661420370,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109018,
+      "num": 1109018,
+      "word": "校方回应西北大学研究生奖学金",
+      "onboard_time": 1661509469,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1102660,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 1015687,
-      "num": 430375,
+      "num": 494227,
       "word": "王鹤棣回应脱衣服很丝滑",
       "onboard_time": 1661508751,
       "rank": 10,
@@ -256,6 +272,14 @@
       "word": "吴磊晒戍边版霍无伤视频",
       "onboard_time": 1661488778,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 941225,
+      "num": 941225,
+      "word": "龚俊乔欣沉睡花园开分7",
+      "onboard_time": 1661510970,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 759475,
-      "num": 420385,
+      "num": 717442,
       "word": "南昌回应老人车站下跪事件",
       "onboard_time": 1661506831,
       "rank": 11,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728466,
+      "num": 728466,
+      "word": "TES对战JDG",
+      "onboard_time": 1661504433,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 722936,
       "num": 722936,
       "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 675904,
-      "num": 246167,
+      "num": 289449,
       "word": "辰亦儒晒15年前飞轮海迪士尼合照",
       "onboard_time": 1661504433,
       "rank": 20,
@@ -491,6 +523,14 @@
       "category": "社会负面,网红"
     },
     {
+      "raw_hot": 580284,
+      "num": 290499,
+      "word": "乐华新男团首综",
+      "onboard_time": 1661512230,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573400,
       "num": 131382,
       "word": "虞书欣王鹤棣片场跳华尔兹",
@@ -569,6 +609,14 @@
       "onboard_time": 1661508571,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 498712,
+      "num": 103590,
+      "word": "觞阙结黎亲密写真大片",
+      "onboard_time": 1661512708,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 489792,
@@ -691,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457523,
+      "num": 457523,
+      "word": "两家村镇银行进入破产程序",
+      "onboard_time": 1661510010,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 456129,
       "num": 429839,
       "word": "沉香如屑网飞播出",
@@ -779,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404209,
+      "num": 404209,
+      "word": "千万不要把存款告诉别人",
+      "onboard_time": 1661511568,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 397919,
       "num": 397919,
       "word": "学外语专业你后悔了吗",
@@ -803,11 +867,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384365,
-      "num": 384365,
-      "word": "校方回应西北大学研究生奖学金",
-      "onboard_time": 1661509469,
-      "rank": 49,
+      "raw_hot": 384451,
+      "num": 384451,
+      "word": "北京多所高校加强校门管理",
+      "onboard_time": 1661510789,
+      "rank": 16,
       "category": "教育,社会新闻"
     },
     {
@@ -817,6 +881,14 @@
       "onboard_time": 1661495309,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382614,
+      "num": 221673,
+      "word": "马頔开会睡着了",
+      "onboard_time": 1661508211,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 381355,
@@ -915,20 +987,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 350786,
-      "num": 221673,
-      "word": "马頔开会睡着了",
-      "onboard_time": 1661508211,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350651,
       "num": 350651,
       "word": "系统升级能让手机变流畅吗",
       "onboard_time": 1661483674,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 347958,
+      "num": 347958,
+      "word": "原来人也会被吓到炸毛",
+      "onboard_time": 1661509887,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 345864,
@@ -972,7 +1044,7 @@
     },
     {
       "raw_hot": 331934,
-      "num": 156953,
+      "num": 202089,
       "word": "马嘉祺被酸出表情包",
       "onboard_time": 1661507491,
       "rank": 31,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1661501189,
       "rank": 41,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 324650,
+      "num": 324650,
+      "word": "Ning 解说",
+      "onboard_time": 1661509530,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 322852,
@@ -1147,12 +1227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277186,
+      "num": 1367210,
+      "word": "救火英雄自带中国人的精气神",
+      "onboard_time": 1661499872,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 276418,
       "num": 276418,
       "word": "成都欢乐谷今起暂停开放",
       "onboard_time": 1661490514,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 276380,
+      "num": 276380,
+      "word": "东部战区在台岛周边实战化演练",
+      "onboard_time": 1661512169,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 275362,
+      "num": 205524,
+      "word": "人生大事",
+      "onboard_time": 1661510191,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 272437,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1661491177,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 257244,
+      "num": 257244,
+      "word": "北师大附中校长谈双减",
+      "onboard_time": 1661509288,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 255281,
@@ -1315,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234502,
+      "num": 234502,
+      "word": "这才是四川小吃的扛把子",
+      "onboard_time": 1661511449,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233080,
       "num": 185622,
       "word": "魏晨新剧状态",
@@ -1331,27 +1451,19 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 231675,
-      "num": 231675,
-      "word": "Ning 解说",
-      "onboard_time": 1661509530,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 231501,
-      "num": 123805,
-      "word": "人生大事",
-      "onboard_time": 1661510191,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230907,
       "num": 230907,
       "word": "王一博这就是街舞问鸭脖是我吗",
       "onboard_time": 1661462772,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227926,
+      "num": 193787,
+      "word": "朝阳打歌中心录制上班路透",
+      "onboard_time": 1661511870,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1419,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211303,
-      "num": 1367210,
-      "word": "救火英雄自带中国人的精气神",
-      "onboard_time": 1661499872,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 210440,
       "num": 210440,
       "word": "注会",
@@ -1443,14 +1547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209400,
-      "num": 209400,
-      "word": "北师大附中校长谈双减",
-      "onboard_time": 1661509288,
-      "rank": 37,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 209194,
       "num": 209194,
       "word": "青岛6岁坠井男童已确认遇难",
@@ -1459,12 +1555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207114,
+      "num": 207114,
+      "word": "世界首个龙眼与荔枝杂交新品种",
+      "onboard_time": 1661509168,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 201634,
       "num": 201634,
       "word": "华西第二医院锦江院区发热门诊停诊通知",
       "onboard_time": 1661440307,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "中国到底还有多少条龙漕沟",
+      "onboard_time": 1661509948,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 200404,
@@ -1563,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183958,
+      "num": 183958,
+      "word": "重庆欢送消防员没端火锅是最后克制",
+      "onboard_time": 1661511630,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183144,
       "num": 183144,
       "word": "不必要的工作量增加了",
@@ -1601,14 +1721,6 @@
       "onboard_time": 1661502452,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176980,
-      "num": 176980,
-      "word": "TES对战JDG",
-      "onboard_time": 1661504433,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 176203,
@@ -1739,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152977,
-      "num": 152977,
-      "word": "两家村镇银行进入破产程序",
-      "onboard_time": 1661510010,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 152904,
       "num": 152904,
       "word": "重庆逆行志愿者有很多90后00后",
@@ -1771,16 +1875,16 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 143105,
-      "num": 143105,
-      "word": "原来人也会被吓到炸毛",
-      "onboard_time": 1661509887,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 146390,
+      "num": 146390,
+      "word": "重庆山火救援手绘指挥图曝光",
+      "onboard_time": 1661512591,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 137673,
-      "num": 137673,
+      "raw_hot": 139270,
+      "num": 139270,
       "word": "电竞经理",
       "onboard_time": 1661507190,
       "rank": 34,
@@ -1819,12 +1923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116120,
-      "num": 116120,
-      "word": "中国到底还有多少条龙漕沟",
-      "onboard_time": 1661509948,
-      "rank": 42,
-      "category": "旅游"
+      "raw_hot": 113787,
+      "num": 113787,
+      "word": "还没成年就出来打工了",
+      "onboard_time": 1661510970,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 107580,

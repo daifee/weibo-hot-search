@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661510457587,
+  "endTime": 1661512739326,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2089255,
+      "num": 2089255,
+      "word": "韩国确认买入冰雨火版权",
+      "onboard_time": 1661507611,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2048909,
       "num": 1951145,
       "word": "转发这个那英",
@@ -745,14 +753,6 @@
       "onboard_time": 1661393911,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1626622,
-      "num": 1626622,
-      "word": "韩国确认买入冰雨火版权",
-      "onboard_time": 1661507611,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1617603,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1237615,
+      "num": 1237615,
+      "word": "孙怡回归再见爱人2",
+      "onboard_time": 1661511568,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1223350,
       "num": 1223350,
       "word": "骗子诈骗300万买彩票中1450万",
@@ -1403,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109018,
+      "num": 1109018,
+      "word": "校方回应西北大学研究生奖学金",
+      "onboard_time": 1661509469,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1108734,
       "num": 1108734,
       "word": "刘奕君贡献了冰雨火里唯一的吻戏",
@@ -1596,7 +1612,7 @@
     },
     {
       "raw_hot": 1015687,
-      "num": 430375,
+      "num": 494227,
       "word": "王鹤棣回应脱衣服很丝滑",
       "onboard_time": 1661508751,
       "rank": 10,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1661250092,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941225,
+      "num": 941225,
+      "word": "龚俊乔欣沉睡花园开分7",
+      "onboard_time": 1661510970,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 933629,
@@ -2372,7 +2396,7 @@
     },
     {
       "raw_hot": 759475,
-      "num": 420385,
+      "num": 717442,
       "word": "南昌回应老人车站下跪事件",
       "onboard_time": 1661506831,
       "rank": 11,
@@ -2441,6 +2465,14 @@
       "onboard_time": 1661491417,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728466,
+      "num": 728466,
+      "word": "TES对战JDG",
+      "onboard_time": 1661504433,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 727468,
@@ -2644,7 +2676,7 @@
     },
     {
       "raw_hot": 675904,
-      "num": 246167,
+      "num": 289449,
       "word": "辰亦儒晒15年前飞轮海迪士尼合照",
       "onboard_time": 1661504433,
       "rank": 20,
@@ -3145,6 +3177,14 @@
       "onboard_time": 1661323713,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580284,
+      "num": 290499,
+      "word": "乐华新男团首综",
+      "onboard_time": 1661512230,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 580265,
@@ -3819,6 +3859,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 498712,
+      "num": 103590,
+      "word": "觞阙结黎亲密写真大片",
+      "onboard_time": 1661512708,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497316,
       "num": 497316,
       "word": "96岁老人每天引体向上还写英语日记",
@@ -4353,6 +4401,14 @@
       "onboard_time": 1661210062,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457523,
+      "num": 457523,
+      "word": "两家村镇银行进入破产程序",
+      "onboard_time": 1661510010,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 456129,
@@ -4955,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404209,
+      "num": 404209,
+      "word": "千万不要把存款告诉别人",
+      "onboard_time": 1661511568,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 403864,
       "num": 403864,
       "word": "苹果官宣秋季发布会时间",
@@ -5203,11 +5267,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 384365,
-      "num": 384365,
-      "word": "校方回应西北大学研究生奖学金",
-      "onboard_time": 1661509469,
-      "rank": 49,
+      "raw_hot": 384451,
+      "num": 384451,
+      "word": "北京多所高校加强校门管理",
+      "onboard_time": 1661510789,
+      "rank": 16,
       "category": "教育,社会新闻"
     },
     {
@@ -5233,6 +5297,14 @@
       "onboard_time": 1661495309,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382614,
+      "num": 221673,
+      "word": "马頔开会睡着了",
+      "onboard_time": 1661508211,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 382515,
@@ -5739,14 +5811,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 350786,
-      "num": 221673,
-      "word": "马頔开会睡着了",
-      "onboard_time": 1661508211,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350651,
       "num": 350651,
       "word": "系统升级能让手机变流畅吗",
@@ -5785,6 +5849,14 @@
       "onboard_time": 1661265037,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347958,
+      "num": 347958,
+      "word": "原来人也会被吓到炸毛",
+      "onboard_time": 1661509887,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 346773,
@@ -6156,7 +6228,7 @@
     },
     {
       "raw_hot": 331934,
-      "num": 156953,
+      "num": 202089,
       "word": "马嘉祺被酸出表情包",
       "onboard_time": 1661507491,
       "rank": 31,
@@ -6289,6 +6361,14 @@
       "onboard_time": 1661397752,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324650,
+      "num": 324650,
+      "word": "Ning 解说",
+      "onboard_time": 1661509530,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 324396,
@@ -7211,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277186,
+      "num": 1367210,
+      "word": "救火英雄自带中国人的精气神",
+      "onboard_time": 1661499872,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 277125,
       "num": 277125,
       "word": "95后女教练带队拿下男篮全国冠军",
@@ -7235,12 +7323,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 276380,
+      "num": 276380,
+      "word": "东部战区在台岛周边实战化演练",
+      "onboard_time": 1661512169,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 275608,
       "num": 275608,
       "word": "倪妮时装金九封面",
       "onboard_time": 1661401114,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275362,
+      "num": 205524,
+      "word": "人生大事",
+      "onboard_time": 1661510191,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 275051,
@@ -7777,6 +7881,14 @@
       "onboard_time": 1661491177,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 257244,
+      "num": 257244,
+      "word": "北师大附中校长谈双减",
+      "onboard_time": 1661509288,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 256843,
@@ -8371,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234502,
+      "num": 234502,
+      "word": "这才是四川小吃的扛把子",
+      "onboard_time": 1661511449,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234162,
       "num": 234162,
       "word": "苍兰诀 双向奔赴",
@@ -8425,22 +8545,6 @@
       "onboard_time": 1661406928,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231675,
-      "num": 231675,
-      "word": "Ning 解说",
-      "onboard_time": 1661509530,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 231501,
-      "num": 123805,
-      "word": "人生大事",
-      "onboard_time": 1661510191,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 231420,
@@ -8553,6 +8657,14 @@
       "onboard_time": 1661383404,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227926,
+      "num": 193787,
+      "word": "朝阳打歌中心录制上班路透",
+      "onboard_time": 1661511870,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 227687,
@@ -8963,14 +9075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211303,
-      "num": 1367210,
-      "word": "救火英雄自带中国人的精气神",
-      "onboard_time": 1661499872,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 210919,
       "num": 147824,
       "word": "怎么向前冲都卷到电竞圈了",
@@ -9025,14 +9129,6 @@
       "onboard_time": 1661242951,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 209400,
-      "num": 209400,
-      "word": "北师大附中校长谈双减",
-      "onboard_time": 1661509288,
-      "rank": 37,
-      "category": "社会议题"
     },
     {
       "raw_hot": 209182,
@@ -9097,6 +9193,14 @@
       "onboard_time": 1661133991,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207114,
+      "num": 207114,
+      "word": "世界首个龙眼与荔枝杂交新品种",
+      "onboard_time": 1661509168,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 207102,
@@ -9233,6 +9337,14 @@
       "onboard_time": 1661240250,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "中国到底还有多少条龙漕沟",
+      "onboard_time": 1661509948,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 200404,
@@ -9715,6 +9827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183958,
+      "num": 183958,
+      "word": "重庆欢送消防员没端火锅是最后克制",
+      "onboard_time": 1661511630,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183798,
       "num": 183798,
       "word": "ksg纪录片",
@@ -9913,14 +10033,6 @@
       "onboard_time": 1661502452,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176980,
-      "num": 176980,
-      "word": "TES对战JDG",
-      "onboard_time": 1661504433,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 176346,
@@ -10507,14 +10619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152977,
-      "num": 152977,
-      "word": "两家村镇银行进入破产程序",
-      "onboard_time": 1661510010,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 152904,
       "num": 152904,
       "word": "重庆逆行志愿者有很多90后00后",
@@ -10635,6 +10739,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 146390,
+      "num": 146390,
+      "word": "重庆山火救援手绘指挥图曝光",
+      "onboard_time": 1661512591,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145899,
       "num": 145899,
       "word": "花海宫本武藏抢龙",
@@ -10681,14 +10793,6 @@
       "onboard_time": 1661095293,
       "rank": 42,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 143105,
-      "num": 143105,
-      "word": "原来人也会被吓到炸毛",
-      "onboard_time": 1661509887,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 142720,
@@ -10755,6 +10859,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 139270,
+      "num": 139270,
+      "word": "电竞经理",
+      "onboard_time": 1661507190,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138769,
       "num": 138769,
       "word": "保剑锋说文帝终究是个君王",
@@ -10769,14 +10881,6 @@
       "onboard_time": 1661240909,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 137673,
-      "num": 137673,
-      "word": "电竞经理",
-      "onboard_time": 1661507190,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 137565,
@@ -11019,14 +11123,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 116120,
-      "num": 116120,
-      "word": "中国到底还有多少条龙漕沟",
-      "onboard_time": 1661509948,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 115957,
       "num": 115957,
       "word": "没想到大爷也是kpop人",
@@ -11057,6 +11153,14 @@
       "onboard_time": 1661089774,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113787,
+      "num": 113787,
+      "word": "还没成年就出来打工了",
+      "onboard_time": 1661510970,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 113092,
