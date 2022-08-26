@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661538418783,
+  "endTime": 1661539521098,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -59091,6 +59091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82936,
+      "num": 82936,
+      "word": "陈小春评论区初代哥哥团建",
+      "onboard_time": 1661537414,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82022,
       "num": 82022,
       "word": "周洁琼宋灵灵",
@@ -59265,14 +59273,6 @@
       "onboard_time": 1660683131,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69269,
-      "num": 69269,
-      "word": "陈小春评论区初代哥哥团建",
-      "onboard_time": 1661537414,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 68920,
@@ -59528,6 +59528,14 @@
       "word": "10万级混动来了",
       "onboard_time": 1661396432,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50925,
+      "num": 50925,
+      "word": "网逃被抓大喊我的猫怎么办",
+      "onboard_time": 1661538135,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -59907,14 +59915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30012,
-      "num": 30012,
-      "word": "网逃被抓大喊我的猫怎么办",
-      "onboard_time": 1661538135,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28848,
       "num": 28848,
       "word": "蓝盈莹新剧暧昧表白范丞丞",
@@ -59953,6 +59953,14 @@
       "onboard_time": 1660856051,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27860,
+      "num": 27860,
+      "word": "今年的蚊子是被热死了吗",
+      "onboard_time": 1661539273,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26849,
