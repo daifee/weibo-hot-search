@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661524621141,
+  "endTime": 1661527490002,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -427,6 +427,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 2234332,
+      "num": 2234332,
+      "word": "这学能不能不开了",
+      "onboard_time": 1661519251,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2231151,
       "num": 2231151,
       "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 2113595,
-      "num": 340227,
+      "num": 365733,
       "word": "虾系明星",
       "onboard_time": 1661519372,
       "rank": 20,
@@ -547,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2086524,
-      "num": 2086524,
-      "word": "这学能不能不开了",
-      "onboard_time": 1661519251,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 2064506,
+      "num": 2064506,
+      "word": "取消公摊面积购房者能否少花钱",
+      "onboard_time": 1661522493,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 2048909,
@@ -976,6 +984,14 @@
       "word": "上海殡仪馆回应月薪4万8招扛尸工",
       "onboard_time": 1661433597,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1416990,
+      "num": 1416990,
+      "word": "女子高铁上给孩子投影无声版动画",
+      "onboard_time": 1661522790,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1755,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 990031,
-      "num": 990031,
-      "word": "取消公摊面积购房者能否少花钱",
-      "onboard_time": 1661522493,
-      "rank": 19,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 989696,
       "num": 989696,
       "word": "王鹤棣告白铅球救火 张凌赫水牛戒烟救人",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1661132012,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 925166,
+      "num": 925166,
+      "word": "初级会计 成绩",
+      "onboard_time": 1661525555,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 918987,
@@ -2185,6 +2201,14 @@
       "onboard_time": 1661471973,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 821967,
+      "num": 821967,
+      "word": "马丽主演票房破150亿",
+      "onboard_time": 1661523093,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 821561,
@@ -2531,14 +2555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 740619,
-      "num": 740619,
-      "word": "女子高铁上给孩子投影无声版动画",
-      "onboard_time": 1661522790,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 734661,
       "num": 734661,
       "word": "爱情而已剧组回应素材泄露",
@@ -2611,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711307,
+      "num": 363678,
+      "word": "蔡徐坤为重庆捐赠救灾物资",
+      "onboard_time": 1661525854,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706187,
       "num": 706187,
       "word": "苹果中国10年售出3.8亿台",
@@ -2673,14 +2697,6 @@
       "onboard_time": 1661072066,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693160,
-      "num": 693160,
-      "word": "马丽主演票房破150亿",
-      "onboard_time": 1661523093,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 689714,
@@ -3083,6 +3099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619698,
+      "num": 619698,
+      "word": "JDG让二追三",
+      "onboard_time": 1661525136,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 619567,
       "num": 619567,
       "word": "体检报告上的常见异常",
@@ -3249,6 +3273,14 @@
       "onboard_time": 1661405727,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589027,
+      "num": 467952,
+      "word": "艾辰事件造谣者公开道歉",
+      "onboard_time": 1661526332,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 585383,
@@ -4107,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485876,
+      "num": 467361,
+      "word": "林志颖最新治疗情况",
+      "onboard_time": 1661521230,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484680,
       "num": 484680,
       "word": "酸奶是如何让你变胖的",
@@ -4224,6 +4264,14 @@
       "word": "虞书欣王鹤棣月光吻花絮",
       "onboard_time": 1661221231,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 478907,
+      "num": 466480,
+      "word": "白鹿张凌赫宁安如梦歪头对视",
+      "onboard_time": 1661526575,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -4427,6 +4475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 466342,
+      "num": 466342,
+      "word": "RNG",
+      "onboard_time": 1661524175,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 466100,
       "num": 466100,
       "word": "中国男篮vs哈萨克斯坦男篮",
@@ -4561,6 +4617,14 @@
       "onboard_time": 1661486674,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456030,
+      "num": 456030,
+      "word": "公章千万不能随便用印泥",
+      "onboard_time": 1661523875,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 454593,
@@ -5643,12 +5707,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 372099,
+      "num": 372099,
+      "word": "鲍威尔",
+      "onboard_time": 1661525076,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 370356,
+      "num": 356606,
+      "word": "一份好的工作能带给你什么",
+      "onboard_time": 1661525672,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370275,
       "num": 370275,
       "word": "彭昱畅腿是软的嘴是硬的",
       "onboard_time": 1661408789,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370000,
+      "num": 370000,
+      "word": "青白蛇皮肤优化",
+      "onboard_time": 1661523993,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 369623,
@@ -5923,6 +6011,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 353914,
+      "num": 281932,
+      "word": "蒲熠星丁若虚被队员开除",
+      "onboard_time": 1661527293,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353910,
       "num": 353910,
       "word": "重庆山火扑救现场",
@@ -5955,6 +6051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352246,
+      "num": 352246,
+      "word": "滔搏",
+      "onboard_time": 1661526214,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 351182,
       "num": 351182,
       "word": "世界小姐",
@@ -5985,6 +6089,14 @@
       "onboard_time": 1661425066,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348686,
+      "num": 1568014,
+      "word": "这道防火长城坚不可摧",
+      "onboard_time": 1661518647,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348122,
@@ -6113,14 +6225,6 @@
       "onboard_time": 1661264135,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343163,
-      "num": 343163,
-      "word": "林志颖最新治疗情况",
-      "onboard_time": 1661521230,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 342115,
@@ -6763,6 +6867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311691,
+      "num": 311691,
+      "word": "债务人欠钱未还12只猫被法院拍卖",
+      "onboard_time": 1661525854,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311533,
       "num": 311533,
       "word": "广西人才懂的六元自助餐",
@@ -6931,14 +7043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 301532,
-      "num": 301532,
-      "word": "RNG",
-      "onboard_time": 1661524175,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 301236,
       "num": 301236,
       "word": "江西疫情防控",
@@ -7001,14 +7105,6 @@
       "onboard_time": 1661223630,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298151,
-      "num": 1192363,
-      "word": "这道防火长城坚不可摧",
-      "onboard_time": 1661518647,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298051,
@@ -7227,6 +7323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288625,
+      "num": 276574,
+      "word": "黑话律师",
+      "onboard_time": 1661526992,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288484,
       "num": 288484,
       "word": "重庆增本土确诊11例",
@@ -7305,6 +7409,14 @@
       "onboard_time": 1661203030,
       "rank": 49,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 286315,
+      "num": 286315,
+      "word": "重庆女摩友极力争取扑救山火",
+      "onboard_time": 1661523211,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 286119,
@@ -8363,14 +8475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252809,
-      "num": 252809,
-      "word": "重庆女摩友极力争取扑救山火",
-      "onboard_time": 1661523211,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 252581,
       "num": 252581,
       "word": "白鹿旗袍上的台绣文化",
@@ -8673,6 +8777,14 @@
       "onboard_time": 1661311956,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240185,
+      "num": 240185,
+      "word": "重庆人太热情了",
+      "onboard_time": 1661524653,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 239734,
@@ -9025,6 +9137,14 @@
       "onboard_time": 1661417791,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226824,
+      "num": 226824,
+      "word": "老师一开口还以为电视开了",
+      "onboard_time": 1661526034,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 226257,
@@ -9707,6 +9827,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 198963,
+      "num": 198963,
+      "word": "WB锁定败者组决赛",
+      "onboard_time": 1661527293,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198309,
       "num": 198309,
       "word": "有翻译能力但不多",
@@ -10123,14 +10251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185547,
-      "num": 185547,
-      "word": "青白蛇皮肤优化",
-      "onboard_time": 1661523993,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185469,
       "num": 185469,
       "word": "开学倒计时5天家长心情实录",
@@ -10265,6 +10385,14 @@
       "onboard_time": 1661213251,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180209,
+      "num": 180209,
+      "word": "重庆志愿者排队报名上山清理垃圾",
+      "onboard_time": 1661526695,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 180181,
@@ -10691,6 +10819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167233,
+      "num": 167233,
+      "word": "西大研究生奖学金按原政策执行",
+      "onboard_time": 1661526034,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 167098,
       "num": 167098,
       "word": "用水浇头的重庆小伙能回家睡觉了",
@@ -10915,6 +11051,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 156679,
+      "num": 156679,
+      "word": "取快递收到死亡小老虎",
+      "onboard_time": 1661527410,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156656,
       "num": 156656,
       "word": "KSG对战AG",
@@ -10929,6 +11073,14 @@
       "onboard_time": 1661314412,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156196,
+      "num": 156196,
+      "word": "wayward",
+      "onboard_time": 1661526992,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 156145,
@@ -10993,14 +11145,6 @@
       "onboard_time": 1661068707,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151923,
-      "num": 151923,
-      "word": "公章千万不能随便用印泥",
-      "onboard_time": 1661523875,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 151451,
@@ -11097,6 +11241,14 @@
       "onboard_time": 1661410410,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 146434,
+      "num": 146434,
+      "word": "洞洞鞋猫窝",
+      "onboard_time": 1661526814,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 145899,
