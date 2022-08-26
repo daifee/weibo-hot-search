@@ -1,0 +1,410 @@
+{
+  "runTime": 1661509483485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1938174,
+        "num": 1938174,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1550055,
+        "num": 1550055,
+        "word": "韩国确认买入冰雨火版权",
+        "onboard_time": 1661507611,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211303,
+        "num": 1243456,
+        "word": "救火英雄自带中国人的精气神",
+        "onboard_time": 1661499872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1162523,
+        "num": 1162523,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1063763,
+        "num": 1063763,
+        "word": "刘恺威洗澡洗一半没水了",
+        "onboard_time": 1661499452,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860614,
+        "num": 860614,
+        "word": "老太拦停科目三驾考车想搭便车",
+        "onboard_time": 1661500711,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697194,
+        "num": 697194,
+        "word": "流浪猫脖子被人绑四只幼崽",
+        "onboard_time": 1661497351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546216,
+        "num": 546216,
+        "word": "青岛警方通报高铁站旅客打架",
+        "onboard_time": 1661504134,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 537420,
+        "num": 537420,
+        "word": "洗衣女子失足坠河机智躺平自救",
+        "onboard_time": 1661502214,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416009,
+        "num": 416009,
+        "word": "酸奶是如何让你变胖的",
+        "onboard_time": 1661506771,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1015687,
+        "num": 415215,
+        "word": "王鹤棣回应脱衣服很丝滑",
+        "onboard_time": 1661508751,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 703890,
+        "num": 413509,
+        "word": "南昌回应老人车站下跪事件",
+        "onboard_time": 1661506831,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778649,
+        "num": 411883,
+        "word": "苍兰诀豆瓣升至7.8分",
+        "onboard_time": 1661508751,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503245,
+        "num": 410773,
+        "word": "twice新歌音银初舞台",
+        "onboard_time": 1661508571,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410390,
+        "num": 410390,
+        "word": "重庆公安回应摩托志愿者送物资被罚",
+        "onboard_time": 1661500469,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393279,
+        "num": 393279,
+        "word": "90天内苹果全网热搜达920个",
+        "onboard_time": 1661501672,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 315229,
+        "num": 315229,
+        "word": "旗舰机你选苹果还是华为",
+        "onboard_time": 1661504553,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311030,
+        "num": 311030,
+        "word": "央视报道PS5涨价",
+        "onboard_time": 1661502691,
+        "rank": 17,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 241727,
+        "num": 241727,
+        "word": "蔡澜",
+        "onboard_time": 1661501131,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229890,
+        "num": 229890,
+        "word": "杭州疫情防控",
+        "onboard_time": 1661503654,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675904,
+        "num": 229042,
+        "word": "辰亦儒晒15年前飞轮海迪士尼合照",
+        "onboard_time": 1661504433,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475511,
+        "num": 228600,
+        "word": "张杰说相信一定会再见",
+        "onboard_time": 1661504494,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362868,
+        "num": 227652,
+        "word": "警方回应野球帝张照洋被打",
+        "onboard_time": 1661503473,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 225680,
+        "num": 225680,
+        "word": "中秋假期火车票明日开售",
+        "onboard_time": 1661508990,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213724,
+        "num": 213724,
+        "word": "重庆群众欢送武警官兵",
+        "onboard_time": 1661503775,
+        "rank": 24,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 203217,
+        "num": 203217,
+        "word": "受伤流浪猫赖消防队3个月大变样",
+        "onboard_time": 1661505632,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175937,
+        "num": 175937,
+        "word": "旅途才是吵架高峰期",
+        "onboard_time": 1661504792,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155437,
+        "num": 155437,
+        "word": "震撼航拍看重庆救援的人有多少",
+        "onboard_time": 1661493093,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149927,
+        "num": 149927,
+        "word": "TES对战JDG",
+        "onboard_time": 1661504433,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138526,
+        "num": 138526,
+        "word": "重庆是我们的家不能看着不管",
+        "onboard_time": 1661502452,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388098,
+        "num": 138418,
+        "word": "陈若仪 终于等到小志回家",
+        "onboard_time": 1661496032,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331934,
+        "num": 138260,
+        "word": "马嘉祺被酸出表情包",
+        "onboard_time": 1661507491,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323766,
+        "num": 137958,
+        "word": "披荆斩棘 好笑",
+        "onboard_time": 1661505814,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295037,
+        "num": 137728,
+        "word": "好的仙侠剧是啥样的",
+        "onboard_time": 1661504314,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137673,
+        "num": 137673,
+        "word": "电竞经理",
+        "onboard_time": 1661507190,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128428,
+        "num": 128428,
+        "word": "没想到被猫咪嘲笑了",
+        "onboard_time": 1661503893,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124052,
+        "num": 124052,
+        "word": "用水浇头的重庆小伙能回家睡觉了",
+        "onboard_time": 1661502810,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122275,
+        "num": 122275,
+        "word": "北师大附中校长谈双减",
+        "onboard_time": 1661509288,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 114442,
+        "num": 114442,
+        "word": "给朋友盘下一家烧烤店",
+        "onboard_time": 1661500531,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 111948,
+        "num": 111948,
+        "word": "90后男子长期宅家久坐后肺梗",
+        "onboard_time": 1661491417,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285259,
+        "num": 109655,
+        "word": "张艺凡盲盒变装",
+        "onboard_time": 1661509288,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257618,
+        "num": 108513,
+        "word": "马頔开会睡着了",
+        "onboard_time": 1661508211,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105407,
+        "num": 105407,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 167102,
+        "num": 105313,
+        "word": "范世錡羡慕mike听不懂规则",
+        "onboard_time": 1661499932,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104652,
+        "num": 104652,
+        "word": "歼20急转大仰角穿云画面",
+        "onboard_time": 1661491177,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 103633,
+        "num": 103633,
+        "word": "三星堆青铜神树上爬有壁虎",
+        "onboard_time": 1661494954,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96820,
+        "num": 96820,
+        "word": "CPA税法",
+        "onboard_time": 1661498852,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90753,
+        "num": 90753,
+        "word": "第九批在韩志愿军烈士遗骸将交接迎回安葬",
+        "onboard_time": 1661508692,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 84271,
+        "num": 84271,
+        "word": "河北新增无症状感染者12例",
+        "onboard_time": 1661495730,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83188,
+        "num": 83188,
+        "word": "校方回应西北大学研究生奖学金",
+        "onboard_time": 1661509469,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进县城看发展#"
+    }
+  }
+}
