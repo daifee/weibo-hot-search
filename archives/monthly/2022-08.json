@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661503449122,
+  "endTime": 1661505707330,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -5612,7 +5612,7 @@
     },
     {
       "raw_hot": 1651211,
-      "num": 431820,
+      "num": 539593,
       "word": "杨洋王一博王鹤棣杂志封面",
       "onboard_time": 1661500892,
       "rank": 10,
@@ -10275,6 +10275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1102660,
+      "num": 1102660,
+      "word": "老太拦停科目三驾考车想搭便车",
+      "onboard_time": 1661500711,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1102213,
       "num": 1102213,
       "word": "1株葡萄树结出1140串葡萄",
@@ -10993,14 +11001,6 @@
       "onboard_time": 1659949296,
       "rank": 22,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1043733,
-      "num": 1043733,
-      "word": "老太拦停科目三驾考车想搭便车",
-      "onboard_time": 1661500711,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1042834,
@@ -13673,6 +13673,14 @@
       "onboard_time": 1659850232,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 860292,
+      "num": 860292,
+      "word": "洗衣女子失足坠河机智躺平自救",
+      "onboard_time": 1661502214,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860193,
@@ -16441,6 +16449,14 @@
       "onboard_time": 1659533808,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 723161,
+      "num": 723161,
+      "word": "90天内苹果全网热搜达920个",
+      "onboard_time": 1661501672,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 722902,
@@ -21811,6 +21827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 558313,
+      "num": 246167,
+      "word": "辰亦儒晒15年前飞轮海迪士尼合照",
+      "onboard_time": 1661504433,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557899,
       "num": 557899,
       "word": "VaVa新歌",
@@ -22297,6 +22321,14 @@
       "onboard_time": 1661342318,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 546682,
+      "num": 546682,
+      "word": "蔡澜",
+      "onboard_time": 1661501131,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 546595,
@@ -28803,14 +28835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 438684,
-      "num": 438684,
-      "word": "蔡澜",
-      "onboard_time": 1661501131,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 438647,
       "num": 438647,
       "word": "少女时代完整体回归",
@@ -34611,14 +34635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369592,
-      "num": 369592,
-      "word": "90天内苹果全网热搜达920个",
-      "onboard_time": 1661501672,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 369535,
       "num": 211213,
       "word": "流浪地球2首支预告",
@@ -34745,6 +34761,14 @@
       "onboard_time": 1659616058,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 368093,
+      "num": 368093,
+      "word": "这就是街舞5队长录制vlog",
+      "onboard_time": 1661505214,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 367959,
@@ -37339,14 +37363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 342733,
-      "num": 342733,
-      "word": "洗衣女子失足坠河机智躺平自救",
-      "onboard_time": 1661502214,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342601,
       "num": 342601,
       "word": "南京茶颜悦色门外排长龙",
@@ -39283,6 +39299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326058,
+      "num": 326058,
+      "word": "张照洋回应被打",
+      "onboard_time": 1661501189,
+      "rank": 41,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 325815,
       "num": 325815,
       "word": "扬州大学回应教师游学倒欠7万",
@@ -39617,6 +39641,14 @@
       "onboard_time": 1660872507,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322950,
+      "num": 322950,
+      "word": "央视报道PS5涨价",
+      "onboard_time": 1661502691,
+      "rank": 39,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 322852,
@@ -40065,6 +40097,14 @@
       "onboard_time": 1660527268,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317312,
+      "num": 317312,
+      "word": "青岛警方通报高铁站旅客打架",
+      "onboard_time": 1661504134,
+      "rank": 15,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 317288,
@@ -41713,6 +41753,14 @@
       "onboard_time": 1659417886,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298924,
+      "num": 298924,
+      "word": "旗舰机你选苹果还是华为",
+      "onboard_time": 1661504553,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 298907,
@@ -44051,14 +44099,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 277100,
-      "num": 228712,
-      "word": "张照洋回应被打",
-      "onboard_time": 1661501189,
-      "rank": 41,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 277073,
       "num": 277073,
       "word": "北京新增9例境外输入确诊",
@@ -44643,6 +44683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271060,
+      "num": 245993,
+      "word": "张杰说相信一定会再见",
+      "onboard_time": 1661504494,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271036,
       "num": 209459,
       "word": "陈宇整顿职场",
@@ -44801,6 +44849,14 @@
       "onboard_time": 1659869429,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269861,
+      "num": 245625,
+      "word": "警方回应野球帝张照洋被打",
+      "onboard_time": 1661503473,
+      "rank": 22,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 269836,
@@ -46739,6 +46795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252346,
+      "num": 252346,
+      "word": "杭州疫情防控",
+      "onboard_time": 1660696173,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252268,
       "num": 252268,
       "word": "我国刷新这一领域保持23年的世界纪录",
@@ -47259,6 +47323,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 246615,
+      "num": 246615,
+      "word": "重庆群众欢送武警官兵",
+      "onboard_time": 1661503775,
+      "rank": 19,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 246532,
       "num": 246532,
       "word": "吴振峰陈宇雨林打戏",
@@ -47489,6 +47561,14 @@
       "onboard_time": 1659770072,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245046,
+      "num": 245046,
+      "word": "LOL手游灵能特工",
+      "onboard_time": 1661505153,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 245015,
@@ -48201,6 +48281,14 @@
       "onboard_time": 1659524682,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238861,
+      "num": 238861,
+      "word": "给朋友盘下一家烧烤店",
+      "onboard_time": 1661500531,
+      "rank": 37,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 238839,
@@ -49905,14 +49993,6 @@
       "onboard_time": 1660662213,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224364,
-      "num": 224364,
-      "word": "杭州疫情防控",
-      "onboard_time": 1660696173,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224275,
@@ -53379,6 +53459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186888,
+      "num": 169206,
+      "word": "好的仙侠剧是啥样的",
+      "onboard_time": 1661504314,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186785,
       "num": 186785,
       "word": "南京建邺区新增一核酸异常人员",
@@ -53665,14 +53753,6 @@
       "onboard_time": 1661083171,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183258,
-      "num": 183258,
-      "word": "给朋友盘下一家烧烤店",
-      "onboard_time": 1661500531,
-      "rank": 37,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 183160,
@@ -54115,6 +54195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 177194,
+      "num": 177194,
+      "word": "重庆是我们的家不能看着不管",
+      "onboard_time": 1661502452,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177177,
       "num": 177177,
       "word": "8月第一天",
@@ -54129,6 +54217,14 @@
       "onboard_time": 1659348032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176980,
+      "num": 176980,
+      "word": "TES对战JDG",
+      "onboard_time": 1661504433,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 176972,
@@ -54168,14 +54264,6 @@
       "word": "上海叫高峰的打车可免单",
       "onboard_time": 1659931260,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175996,
-      "num": 175996,
-      "word": "重庆是我们的家不能看着不管",
-      "onboard_time": 1661502452,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -54297,6 +54385,14 @@
       "onboard_time": 1660311458,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175017,
+      "num": 175017,
+      "word": "没想到被猫咪嘲笑了",
+      "onboard_time": 1661503893,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 174979,
@@ -55507,14 +55603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158659,
-      "num": 158659,
-      "word": "央视报道PS5涨价",
-      "onboard_time": 1661502691,
-      "rank": 39,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 158603,
       "num": 158603,
       "word": "尖齿卫矛",
@@ -55585,6 +55673,14 @@
       "onboard_time": 1660235842,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157029,
+      "num": 157029,
+      "word": "守护山城的不止重庆人",
+      "onboard_time": 1661504732,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156747,
@@ -56609,6 +56705,14 @@
       "onboard_time": 1661437129,
       "rank": 48,
       "category": "其它"
+    },
+    {
+      "raw_hot": 136670,
+      "num": 136670,
+      "word": "旅途才是吵架高峰期",
+      "onboard_time": 1661504792,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 136451,
@@ -57905,6 +58009,14 @@
       "onboard_time": 1660579825,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94438,
+      "num": 107590,
+      "word": "受伤流浪猫赖消防队3个月大变样",
+      "onboard_time": 1661505632,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94120,
