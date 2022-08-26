@@ -1,0 +1,410 @@
+{
+  "runTime": 1661534660535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1927046,
+        "num": 1927046,
+        "word": "取快递收到死亡小老虎",
+        "onboard_time": 1661527410,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1642263,
+        "num": 1642263,
+        "word": "警方通报一女子在烧烤店被砍伤",
+        "onboard_time": 1661531545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160877,
+        "num": 879130,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597329,
+        "num": 597329,
+        "word": "苍兰诀9月17日直播见面会",
+        "onboard_time": 1661531545,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591508,
+        "num": 591508,
+        "word": "卫健委通报刘翔峰有关问题",
+        "onboard_time": 1661528553,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537907,
+        "num": 537907,
+        "word": "这学能不能不开了",
+        "onboard_time": 1661519251,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483265,
+        "num": 483265,
+        "word": "中国首个男子MMA世界冠军",
+        "onboard_time": 1661528795,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 380722,
+        "num": 380722,
+        "word": "女子高铁上给孩子投影无声版动画",
+        "onboard_time": 1661522790,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369078,
+        "num": 369078,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354914,
+        "num": 354914,
+        "word": "艾辰事件造谣者公开道歉",
+        "onboard_time": 1661526332,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 329712,
+        "word": "这种舍友是真的存在吗",
+        "onboard_time": 1661528494,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 313831,
+        "num": 313831,
+        "word": "苹果目标是产品不用地球任何资源",
+        "onboard_time": 1661532504,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297101,
+        "num": 297101,
+        "word": "债务人欠钱未还12只猫被法院拍卖",
+        "onboard_time": 1661525854,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294090,
+        "num": 294090,
+        "word": "谢谢初级会计成绩",
+        "onboard_time": 1661529451,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 281181,
+        "num": 281181,
+        "word": "鹿晗梦寐之地",
+        "onboard_time": 1661532264,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217473,
+        "num": 217473,
+        "word": "取消公摊面积购房者能否少花钱",
+        "onboard_time": 1661522493,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 211545,
+        "num": 211545,
+        "word": "千万不要把存款告诉别人",
+        "onboard_time": 1661511568,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175072,
+        "num": 175072,
+        "word": "黑话律师",
+        "onboard_time": 1661526992,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172016,
+        "num": 172016,
+        "word": "wayward",
+        "onboard_time": 1661526992,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152277,
+        "num": 152277,
+        "word": "青白蛇皮肤优化",
+        "onboard_time": 1661523993,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 875421,
+        "num": 152140,
+        "word": "赵露思陈哲远对视饭拍",
+        "onboard_time": 1661529209,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309670,
+        "num": 152017,
+        "word": "虾系明星",
+        "onboard_time": 1661519372,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 217973,
+        "num": 151983,
+        "word": "消防员撤离时被重庆妹子强吻",
+        "onboard_time": 1661515472,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151859,
+        "num": 151859,
+        "word": "外溢的小肚腩有救了",
+        "onboard_time": 1661528014,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148900,
+        "num": 148900,
+        "word": "南京女大学生被害案凶手拒不认罪",
+        "onboard_time": 1661516072,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140894,
+        "num": 140894,
+        "word": "孙怡回归再见爱人2",
+        "onboard_time": 1661511568,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139117,
+        "num": 139117,
+        "word": "西大研究生奖学金按原政策执行",
+        "onboard_time": 1661526034,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136705,
+        "num": 136705,
+        "word": "蒲熠星丁若虚被队员开除",
+        "onboard_time": 1661527293,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134868,
+        "num": 134868,
+        "word": "老师一开口还以为电视开了",
+        "onboard_time": 1661526034,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133496,
+        "num": 133496,
+        "word": "蔡徐坤为重庆捐赠救灾物资",
+        "onboard_time": 1661525854,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118212,
+        "num": 118212,
+        "word": "重庆志愿者排队报名上山清理垃圾",
+        "onboard_time": 1661526695,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 113791,
+        "num": 113791,
+        "word": "世界首个龙眼与荔枝杂交新品种",
+        "onboard_time": 1661509168,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 111592,
+        "num": 111592,
+        "word": "马丽主演票房破150亿",
+        "onboard_time": 1661523093,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110414,
+        "num": 110414,
+        "word": "林志颖最新治疗情况",
+        "onboard_time": 1661521230,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103796,
+        "num": 103796,
+        "word": "滔搏",
+        "onboard_time": 1661526214,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103028,
+        "num": 103028,
+        "word": "公章千万不能随便用印泥",
+        "onboard_time": 1661523875,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 95988,
+        "num": 95988,
+        "word": "冰雨火禁毒所大夫也是毒贩",
+        "onboard_time": 1661517930,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95355,
+        "num": 95355,
+        "word": "乳状云的压迫感太强了",
+        "onboard_time": 1661517749,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 92015,
+        "num": 92015,
+        "word": "东部战区在台岛周边实战化演练",
+        "onboard_time": 1661512169,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 91642,
+        "num": 91642,
+        "word": "洞洞鞋猫窝",
+        "onboard_time": 1661526814,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91498,
+        "num": 91498,
+        "word": "医生建议勿跟风藿香正气冰中式",
+        "onboard_time": 1661533820,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91234,
+        "num": 91234,
+        "word": "玫瑰之战",
+        "onboard_time": 1661518892,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84180,
+        "num": 84180,
+        "word": "中国与美国签署审计监管合作协议",
+        "onboard_time": 1661516972,
+        "rank": 42,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 82078,
+        "num": 82078,
+        "word": "武汉疫情防控",
+        "onboard_time": 1661523211,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74865,
+        "num": 74865,
+        "word": "那些很耳熟但不知道原唱的歌",
+        "onboard_time": 1661530770,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74117,
+        "num": 74117,
+        "word": "白鹿张凌赫宁安如梦歪头对视",
+        "onboard_time": 1661526575,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71859,
+        "num": 71859,
+        "word": "初级会计 成绩",
+        "onboard_time": 1661525555,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 68599,
+        "num": 68599,
+        "word": "JDG让二追三",
+        "onboard_time": 1661525136,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68493,
+        "num": 68493,
+        "word": "重庆女摩友极力争取扑救山火",
+        "onboard_time": 1661523211,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 55024,
+        "num": 55024,
+        "word": "唐凯战胜丹勒夺冠",
+        "onboard_time": 1661527953,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络强国营造清朗空间#"
+    }
+  }
+}

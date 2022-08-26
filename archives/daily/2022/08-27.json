@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661532870984,
+  "endTime": 1661534660535,
   "band_list": [
     {
       "raw_hot": 3946998,
@@ -8,6 +8,14 @@
       "word": "取快递收到死亡小老虎",
       "onboard_time": 1661527410,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1642263,
+      "num": 1642263,
+      "word": "警方通报一女子在烧烤店被砍伤",
+      "onboard_time": 1661531545,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -32,14 +40,6 @@
       "word": "卫健委通报刘翔峰有关问题",
       "onboard_time": 1661528553,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 951041,
-      "num": 951041,
-      "word": "警方通报一女子在烧烤店被砍伤",
-      "onboard_time": 1661531545,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1661515472,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313831,
+      "num": 313831,
+      "word": "苹果目标是产品不用地球任何资源",
+      "onboard_time": 1661532504,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 311851,
@@ -427,20 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113754,
-      "num": 113754,
-      "word": "苹果目标是产品不用地球任何资源",
-      "onboard_time": 1661532504,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 92774,
       "num": 92774,
       "word": "唐凯战胜丹勒夺冠",
       "onboard_time": 1661527953,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91498,
+      "num": 91498,
+      "word": "医生建议勿跟风藿香正气冰中式",
+      "onboard_time": 1661533820,
+      "rank": 40,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

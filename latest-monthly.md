@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/27 00:54:30
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/27 01:24:20
 </p>
 </blockquote>
 <p>
@@ -4299,6 +4299,12 @@ iPhone14Pro约8999起（热度：1653064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E5%9C%A8%E7%83%A7%E7%83%A4%E5%BA%97%E8%A2%AB%E7%A0%8D%E4%BC%A4%23" target="weibo">
+警方通报一女子在烧烤店被砍伤（热度：1642263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F%E5%86%9B%E4%BA%8B%E8%AE%AD%E7%BB%83%E7%A6%81%E6%AD%A2%E9%A9%B6%E5%85%A5%23" target="weibo">
 南海部分海域军事训练禁止驶入（热度：1640520）
 </a>
@@ -6005,12 +6011,6 @@ TT失控舞台失控（热度：1322881）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E4%B8%AD%E8%80%83%E6%B3%84%E9%A2%98%23" target="weibo">
 警方通报上海中考泄题（热度：1308824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%86%B0%E9%9B%B9%23" target="weibo">
-上海冰雹（热度：1307484）
 </a>
 </li>
 
