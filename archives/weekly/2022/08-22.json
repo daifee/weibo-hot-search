@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661539521098,
+  "endTime": 1661541468072,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -11939,6 +11939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81311,
+      "num": 81311,
+      "word": "网逃被抓大喊我的猫怎么办",
+      "onboard_time": 1661538135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79322,
       "num": 79322,
       "word": "浪姐3团综星星的约定大理录制路透",
@@ -11971,19 +11979,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59111,
+      "num": 59111,
+      "word": "今年的蚊子是被热死了吗",
+      "onboard_time": 1661539273,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52234,
       "num": 500923,
       "word": "10万级混动来了",
       "onboard_time": 1661396432,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50925,
-      "num": 50925,
-      "word": "网逃被抓大喊我的猫怎么办",
-      "onboard_time": 1661538135,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -12049,14 +12057,6 @@
       "onboard_time": 1661225730,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 27860,
-      "num": 27860,
-      "word": "今年的蚊子是被热死了吗",
-      "onboard_time": 1661539273,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26667,
