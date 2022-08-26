@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661505707330,
+  "endTime": 1661506717599,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -307,6 +307,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 807624,
+      "num": 807624,
+      "word": "90天内苹果全网热搜达920个",
+      "onboard_time": 1661501672,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 799429,
       "num": 185733,
       "word": "贾浅浅是深是浅",
@@ -345,14 +353,6 @@
       "onboard_time": 1661491417,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723161,
-      "num": 723161,
-      "word": "90天内苹果全网热搜达920个",
-      "onboard_time": 1661501672,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 722936,
@@ -595,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468132,
+      "num": 468132,
+      "word": "青岛警方通报高铁站旅客打架",
+      "onboard_time": 1661504134,
+      "rank": 15,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 465761,
       "num": 465761,
       "word": "重庆20个区县下雨",
@@ -665,6 +673,14 @@
       "onboard_time": 1661434252,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 424364,
+      "num": 424364,
+      "word": "张杰说相信一定会再见",
+      "onboard_time": 1661504494,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 422287,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368738,
+      "num": 368738,
+      "word": "央视报道PS5涨价",
+      "onboard_time": 1661502691,
+      "rank": 39,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 368093,
       "num": 368093,
       "word": "这就是街舞5队长录制vlog",
@@ -891,14 +915,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 322950,
-      "num": 322950,
-      "word": "央视报道PS5涨价",
-      "onboard_time": 1661502691,
-      "rank": 39,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 322852,
       "num": 322852,
       "word": "沸腾校园阵容官宣",
@@ -907,20 +923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320177,
+      "num": 320177,
+      "word": "警方回应野球帝张照洋被打",
+      "onboard_time": 1661503473,
+      "rank": 22,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 317510,
       "num": 317510,
       "word": "海尔兄弟诚不欺我",
       "onboard_time": 1661485172,
       "rank": 27,
       "category": "其它"
-    },
-    {
-      "raw_hot": 317312,
-      "num": 317312,
-      "word": "青岛警方通报高铁站旅客打架",
-      "onboard_time": 1661504134,
-      "rank": 15,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 311533,
@@ -1027,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279395,
+      "num": 279395,
+      "word": "杭州疫情防控",
+      "onboard_time": 1661503654,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276418,
       "num": 276418,
       "word": "成都欢乐谷今起暂停开放",
@@ -1043,28 +1067,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271060,
-      "num": 245993,
-      "word": "张杰说相信一定会再见",
-      "onboard_time": 1661504494,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 270446,
       "num": 270446,
       "word": "世锦赛赵俊鹏逆转进四强",
       "onboard_time": 1661493392,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269861,
-      "num": 245625,
-      "word": "警方回应野球帝张照洋被打",
-      "onboard_time": 1661503473,
-      "rank": 22,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 263337,
@@ -1123,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252346,
-      "num": 252346,
-      "word": "杭州疫情防控",
-      "onboard_time": 1661503654,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251834,
       "num": 170132,
       "word": "魏大勋买菜买出了南北差异",
@@ -1153,6 +1153,14 @@
       "onboard_time": 1661480131,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247081,
+      "num": 203106,
+      "word": "好的仙侠剧是啥样的",
+      "onboard_time": 1661504314,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 246615,
@@ -1315,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208623,
+      "num": 152250,
+      "word": "披荆斩棘 好笑",
+      "onboard_time": 1661505814,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201634,
       "num": 201634,
       "word": "华西第二医院锦江院区发热门诊停诊通知",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1661476775,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186888,
-      "num": 169206,
-      "word": "好的仙侠剧是啥样的",
-      "onboard_time": 1661504314,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 185841,
@@ -1595,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153150,
+      "num": 153150,
+      "word": "旅途才是吵架高峰期",
+      "onboard_time": 1661504792,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152904,
       "num": 152904,
       "word": "重庆逆行志愿者有很多90后00后",
@@ -1619,14 +1635,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 136670,
-      "num": 136670,
-      "word": "旅途才是吵架高峰期",
-      "onboard_time": 1661504792,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133508,
       "num": 133508,
       "word": "洛阳市汝阳县新增1例无症状",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1661430473,
       "rank": 48,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 131950,
+      "num": 131950,
+      "word": "受伤流浪猫赖消防队3个月大变样",
+      "onboard_time": 1661505632,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129608,
@@ -1675,18 +1691,18 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 104225,
+      "num": 104225,
+      "word": "杨幂狐妖红衣造型侧颜路透",
+      "onboard_time": 1661506471,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101806,
       "num": 101806,
       "word": "侠客岛评刘翔峰事件",
       "onboard_time": 1661446466,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94438,
-      "num": 107590,
-      "word": "受伤流浪猫赖消防队3个月大变样",
-      "onboard_time": 1661505632,
       "rank": 49,
       "category": "社会新闻"
     },
