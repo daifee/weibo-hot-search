@@ -1,7 +1,15 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661490224438,
+  "endTime": 1661493612073,
   "band_list": [
+    {
+      "raw_hot": 5415910,
+      "num": 5415910,
+      "word": "林志颖车祸后首发文",
+      "onboard_time": 1661489917,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3332588,
       "num": 3332588,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047705,
+      "num": 548418,
+      "word": "虞书欣演唱会修命簿",
+      "onboard_time": 1661490217,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1046922,
       "num": 731903,
       "word": "TWICE今天回归",
@@ -131,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 977653,
-      "num": 415008,
-      "word": "林志颖车祸后首发文",
-      "onboard_time": 1661489917,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 974517,
+      "num": 974517,
+      "word": "异地恋男友三年存2460张照片送女友",
+      "onboard_time": 1661488240,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 918759,
@@ -144,6 +160,14 @@
       "word": "张杰演唱会延期",
       "onboard_time": 1661483674,
       "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 917621,
+      "num": 917621,
+      "word": "twice空降",
+      "onboard_time": 1661492912,
+      "rank": 4,
       "category": "音乐"
     },
     {
@@ -160,6 +184,14 @@
       "word": "外卖员碰坏蛋糕顾客暖心谢绝赔偿",
       "onboard_time": 1661474856,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863396,
+      "num": 863396,
+      "word": "13岁女孩爱上太极闭关3年成拳师",
+      "onboard_time": 1661489256,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -193,14 +225,6 @@
       "onboard_time": 1661471973,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 796031,
-      "num": 796031,
-      "word": "异地恋男友三年存2460张照片送女友",
-      "onboard_time": 1661488240,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 782710,
@@ -339,20 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520833,
+      "num": 363910,
+      "word": "小净",
+      "onboard_time": 1661490217,
+      "rank": 48,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 489792,
+      "num": 489792,
+      "word": "他们用微光铸起防火长城",
+      "onboard_time": 1661489137,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 489722,
       "num": 489722,
       "word": "影院回应女子被孩家长踹成脑震荡",
       "onboard_time": 1661442044,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488990,
-      "num": 149715,
-      "word": "虞书欣演唱会修命簿",
-      "onboard_time": 1661490217,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 483709,
@@ -411,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454655,
+      "num": 454655,
+      "word": "科学家发现系外水世界",
+      "onboard_time": 1661489441,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 446855,
       "num": 446855,
       "word": "四川新增本土确诊27例无症状39例",
       "onboard_time": 1661480373,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428400,
+      "num": 358878,
+      "word": "非正式会谈又有泰国人了",
+      "onboard_time": 1661492370,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 427502,
@@ -467,6 +515,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 379896,
+      "num": 224122,
+      "word": "唐九洲被魏大勋爸爸眼神制裁",
+      "onboard_time": 1661492793,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379376,
       "num": 379376,
       "word": "刺痛 橘子",
@@ -497,6 +553,14 @@
       "onboard_time": 1661475453,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 364743,
+      "num": 364743,
+      "word": "歼20急转大仰角穿云画面",
+      "onboard_time": 1661491177,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 363918,
@@ -539,6 +603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 348287,
+      "num": 348287,
+      "word": "90后男子长期宅家久坐后肺梗",
+      "onboard_time": 1661491417,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345864,
       "num": 345864,
       "word": "姿态",
@@ -569,22 +641,6 @@
       "onboard_time": 1661433237,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 335140,
-      "num": 149681,
-      "word": "小净",
-      "onboard_time": 1661490217,
-      "rank": 48,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 328159,
-      "num": 328159,
-      "word": "13岁女孩爱上太极闭关3年成拳师",
-      "onboard_time": 1661489256,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322852,
@@ -651,12 +707,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290734,
+      "num": 182177,
+      "word": "披荆斩棘",
+      "onboard_time": 1661491115,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288389,
       "num": 288389,
       "word": "时代少年团夏日缤纷大片",
       "onboard_time": 1661488537,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281454,
+      "num": 182096,
+      "word": "这就是拍冰雨火的意义吧",
+      "onboard_time": 1661492973,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270446,
+      "num": 270446,
+      "word": "世锦赛赵俊鹏逆转进四强",
+      "onboard_time": 1661493392,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 263157,
@@ -673,6 +753,14 @@
       "onboard_time": 1661437789,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256876,
+      "num": 256876,
+      "word": "成都欢乐谷今起暂停开放",
+      "onboard_time": 1661490514,
+      "rank": 28,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 255281,
@@ -731,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238761,
+      "num": 687550,
+      "word": "救火志愿者回家第一句问妻子帅不帅",
+      "onboard_time": 1661490040,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234721,
       "num": 234721,
       "word": "江西鹰潭方舱隔离条件堪忧",
@@ -753,22 +849,6 @@
       "onboard_time": 1661462772,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229996,
-      "num": 229996,
-      "word": "科学家发现系外水世界",
-      "onboard_time": 1661489441,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 223935,
-      "num": 223935,
-      "word": "他们用微光铸起防火长城",
-      "onboard_time": 1661489137,
-      "rank": 37,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 222539,
@@ -801,6 +881,14 @@
       "onboard_time": 1661425428,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218535,
+      "num": 218535,
+      "word": "广东人已经摸清了台风的套路",
+      "onboard_time": 1661492195,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217588,
@@ -915,6 +1003,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 188872,
+      "num": 188872,
+      "word": "震撼航拍看重庆救援的人有多少",
+      "onboard_time": 1661493093,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 186894,
       "num": 186894,
       "word": "上海增1例本土确诊1例本土无症状",
@@ -937,6 +1033,14 @@
       "onboard_time": 1661475877,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180073,
+      "num": 180073,
+      "word": "这就是了不起的中国人",
+      "onboard_time": 1661493032,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 179941,
@@ -1003,6 +1107,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162780,
+      "num": 162780,
+      "word": "证监会强制执行乐视网2.4亿罚款",
+      "onboard_time": 1661491177,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 159121,
+      "num": 159121,
+      "word": "重庆20个区县下雨",
+      "onboard_time": 1661493452,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155852,
       "num": 155852,
       "word": "欢乐颂3何悯鸿遭遇网络争议",
@@ -1025,6 +1145,14 @@
       "onboard_time": 1661469987,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141950,
+      "num": 141950,
+      "word": "重庆逆行志愿者有很多90后00后",
+      "onboard_time": 1661493273,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 133508,
@@ -1075,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75268,
+      "num": 182677,
+      "word": "张继科孩子气的解压方式",
+      "onboard_time": 1661490397,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47567,
       "num": 47567,
       "word": "罚罪",
@@ -1088,14 +1224,6 @@
       "word": "重庆群众自发背物资徒步上山",
       "onboard_time": 1661429871,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27328,
-      "num": 687550,
-      "word": "救火志愿者回家第一句问妻子帅不帅",
-      "onboard_time": 1661490040,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

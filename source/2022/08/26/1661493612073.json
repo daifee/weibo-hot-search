@@ -1,0 +1,410 @@
+{
+  "runTime": 1661493612073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5415910,
+        "num": 5415910,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974517,
+        "num": 974517,
+        "word": "异地恋男友三年存2460张照片送女友",
+        "onboard_time": 1661488240,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92072,
+        "num": 928449,
+        "word": "这些娃儿侠肝义胆",
+        "onboard_time": 1661402315,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2291683,
+        "num": 928399,
+        "word": "专家称可以给00后增加工作强度",
+        "onboard_time": 1661478274,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917621,
+        "num": 917621,
+        "word": "twice空降",
+        "onboard_time": 1661492912,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 873444,
+        "num": 873444,
+        "word": "南京网红猕猴归山受挫挨了一顿揍",
+        "onboard_time": 1661487157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863396,
+        "num": 863396,
+        "word": "13岁女孩爱上太极闭关3年成拳师",
+        "onboard_time": 1661489256,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757481,
+        "num": 757481,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 646820,
+        "num": 646820,
+        "word": "苹果中国10年售出3.8亿台",
+        "onboard_time": 1661487935,
+        "rank": 8,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 548428,
+        "num": 548428,
+        "word": "iPhone14Pro紫色机模",
+        "onboard_time": 1661479593,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1047705,
+        "num": 548418,
+        "word": "虞书欣演唱会修命簿",
+        "onboard_time": 1661490217,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1047438,
+        "num": 527369,
+        "word": "转发这个那英",
+        "onboard_time": 1661477372,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 819464,
+        "num": 514409,
+        "word": "赵丽颖千禧风造型花絮",
+        "onboard_time": 1661488595,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 571744,
+        "num": 502616,
+        "word": "吴磊晒戍边版霍无伤视频",
+        "onboard_time": 1661488778,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238761,
+        "num": 499441,
+        "word": "救火志愿者回家第一句问妻子帅不帅",
+        "onboard_time": 1661490040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489792,
+        "num": 489792,
+        "word": "他们用微光铸起防火长城",
+        "onboard_time": 1661489137,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 474331,
+        "num": 474331,
+        "word": "乾隆题字50次的富春山居图为赝品",
+        "onboard_time": 1661487095,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454655,
+        "num": 454655,
+        "word": "科学家发现系外水世界",
+        "onboard_time": 1661489441,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 397331,
+        "num": 397331,
+        "word": "这样放屁能静音",
+        "onboard_time": 1661481092,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364743,
+        "num": 364743,
+        "word": "歼20急转大仰角穿云画面",
+        "onboard_time": 1661491177,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 520833,
+        "num": 363910,
+        "word": "小净",
+        "onboard_time": 1661490217,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 428400,
+        "num": 358878,
+        "word": "非正式会谈又有泰国人了",
+        "onboard_time": 1661492370,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398112,
+        "num": 354766,
+        "word": "王鹤棣费加罗男士八月刊封面预告",
+        "onboard_time": 1661487395,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 348287,
+        "num": 348287,
+        "word": "90后男子长期宅家久坐后肺梗",
+        "onboard_time": 1661491417,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344699,
+        "num": 344699,
+        "word": "刘翔峰涉嫌严重违法接受监察调查",
+        "onboard_time": 1661474136,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316560,
+        "num": 316560,
+        "word": "学外语专业你后悔了吗",
+        "onboard_time": 1661488476,
+        "rank": 25,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 300511,
+        "num": 300511,
+        "word": "CPA会计",
+        "onboard_time": 1661485955,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270446,
+        "num": 270446,
+        "word": "世锦赛赵俊鹏逆转进四强",
+        "onboard_time": 1661493392,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256876,
+        "num": 256876,
+        "word": "成都欢乐谷今起暂停开放",
+        "onboard_time": 1661490514,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 225130,
+        "num": 225130,
+        "word": "遇到事00后是真能支棱起来",
+        "onboard_time": 1661471973,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 379896,
+        "num": 224122,
+        "word": "唐九洲被魏大勋爸爸眼神制裁",
+        "onboard_time": 1661492793,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362668,
+        "num": 223105,
+        "word": "张元英全身新闻生图",
+        "onboard_time": 1661485294,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327188,
+        "num": 220353,
+        "word": "苍兰诀连番外都拍了",
+        "onboard_time": 1661483071,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300464,
+        "num": 219895,
+        "word": "张杰演唱会延期",
+        "onboard_time": 1661483674,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218535,
+        "num": 218535,
+        "word": "广东人已经摸清了台风的套路",
+        "onboard_time": 1661492195,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217057,
+        "num": 217057,
+        "word": "什么是以火灭火",
+        "onboard_time": 1661478635,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203985,
+        "num": 203985,
+        "word": "地球上的石油到底还能用多少年",
+        "onboard_time": 1661482532,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201528,
+        "num": 201528,
+        "word": "四川新增本土确诊27例无症状39例",
+        "onboard_time": 1661480373,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188872,
+        "num": 188872,
+        "word": "震撼航拍看重庆救援的人有多少",
+        "onboard_time": 1661493093,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 75268,
+        "num": 182677,
+        "word": "张继科孩子气的解压方式",
+        "onboard_time": 1661490397,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290734,
+        "num": 182177,
+        "word": "披荆斩棘",
+        "onboard_time": 1661491115,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281454,
+        "num": 182096,
+        "word": "这就是拍冰雨火的意义吧",
+        "onboard_time": 1661492973,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180073,
+        "num": 180073,
+        "word": "这就是了不起的中国人",
+        "onboard_time": 1661493032,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 173971,
+        "num": 173971,
+        "word": "iPhone14手机膜开售",
+        "onboard_time": 1661483130,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162780,
+        "num": 162780,
+        "word": "证监会强制执行乐视网2.4亿罚款",
+        "onboard_time": 1661491177,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159121,
+        "num": 159121,
+        "word": "重庆20个区县下雨",
+        "onboard_time": 1661493452,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155155,
+        "num": 155155,
+        "word": "广西人才懂的六元自助餐",
+        "onboard_time": 1661477791,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145390,
+        "num": 145390,
+        "word": "海尔兄弟诚不欺我",
+        "onboard_time": 1661485172,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 141950,
+        "num": 141950,
+        "word": "重庆逆行志愿者有很多90后00后",
+        "onboard_time": 1661493273,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 137929,
+        "num": 137929,
+        "word": "司机得知重庆小伙去做志愿者后免单",
+        "onboard_time": 1661478390,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同构建全球发展共同体#"
+    }
+  }
+}
