@@ -1,0 +1,410 @@
+{
+  "runTime": 1661519084717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1624944,
+        "num": 1624944,
+        "word": "南京女大学生被害案凶手拒不认罪",
+        "onboard_time": 1661516072,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047217,
+        "num": 1047217,
+        "word": "孙怡回归再见爱人2",
+        "onboard_time": 1661511568,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78809,
+        "num": 914702,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904398,
+        "num": 904398,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 884994,
+        "num": 884994,
+        "word": "中国与美国签署审计监管合作协议",
+        "onboard_time": 1661516972,
+        "rank": 4,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 685315,
+        "num": 685315,
+        "word": "冰雨火禁毒所大夫也是毒贩",
+        "onboard_time": 1661517930,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667332,
+        "num": 667332,
+        "word": "东部战区在台岛周边实战化演练",
+        "onboard_time": 1661512169,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 610131,
+        "num": 610131,
+        "word": "关晓彤徐梦洁友情热恋期",
+        "onboard_time": 1661516011,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525320,
+        "num": 525320,
+        "word": "重庆巴南人民硬核投喂子弟兵",
+        "onboard_time": 1661515771,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442998,
+        "num": 442998,
+        "word": "世界首个龙眼与荔枝杂交新品种",
+        "onboard_time": 1661509168,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1102075,
+        "num": 429384,
+        "word": "千万不要把存款告诉别人",
+        "onboard_time": 1661511568,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443394,
+        "num": 424398,
+        "word": "王鹤棣回应脱衣服很丝滑",
+        "onboard_time": 1661508751,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415448,
+        "num": 415448,
+        "word": "龚俊乔欣沉睡花园开分7",
+        "onboard_time": 1661510970,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376052,
+        "num": 376052,
+        "word": "世界小姐中国授权机构发表声明",
+        "onboard_time": 1661514869,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 345197,
+        "num": 345197,
+        "word": "流浪猫脖子被人绑四只幼崽",
+        "onboard_time": 1661497351,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375865,
+        "num": 344621,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343086,
+        "num": 343086,
+        "word": "校方回应西北大学研究生奖学金",
+        "onboard_time": 1661509469,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 278141,
+        "num": 278141,
+        "word": "暖阳宫本五连绝世",
+        "onboard_time": 1661517390,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275177,
+        "num": 275177,
+        "word": "南昌回应老人车站下跪事件",
+        "onboard_time": 1661506831,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261831,
+        "num": 261831,
+        "word": "重庆欢送消防员没端火锅是最后克制",
+        "onboard_time": 1661511630,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785278,
+        "num": 261827,
+        "word": "消防员撤离时被重庆妹子强吻",
+        "onboard_time": 1661515472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324133,
+        "num": 261814,
+        "word": "甄嬛传和武林外传是电子榨菜",
+        "onboard_time": 1661513910,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301026,
+        "num": 261807,
+        "word": "辰亦儒晒15年前飞轮海迪士尼合照",
+        "onboard_time": 1661504433,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261790,
+        "num": 261790,
+        "word": "女子吃霸王餐被拦下飞踢店员",
+        "onboard_time": 1661516911,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215635,
+        "num": 215635,
+        "word": "北京多所高校加强校门管理",
+        "onboard_time": 1661510789,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 213152,
+        "num": 213152,
+        "word": "阿水梦回S8",
+        "onboard_time": 1661513191,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199975,
+        "num": 199975,
+        "word": "CPA 经济法",
+        "onboard_time": 1661513131,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198504,
+        "num": 198504,
+        "word": "乳状云的压迫感太强了",
+        "onboard_time": 1661517749,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 196222,
+        "num": 196222,
+        "word": "酸奶是如何让你变胖的",
+        "onboard_time": 1661506771,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190546,
+        "num": 190546,
+        "word": "猫狗双全家庭的烦恼",
+        "onboard_time": 1661514929,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295079,
+        "num": 189121,
+        "word": "韩国确认买入冰雨火版权",
+        "onboard_time": 1661507611,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294011,
+        "num": 187874,
+        "word": "颖儿上一次演讨人厌角色还是夏冬春",
+        "onboard_time": 1661515532,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289552,
+        "num": 186249,
+        "word": "玫瑰之战",
+        "onboard_time": 1661518892,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274039,
+        "num": 183901,
+        "word": "再见爱人",
+        "onboard_time": 1661518290,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183266,
+        "num": 183266,
+        "word": "原来人也会被吓到炸毛",
+        "onboard_time": 1661509887,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264102,
+        "num": 180382,
+        "word": "刘恺威洗澡洗一半没水了",
+        "onboard_time": 1661499452,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176477,
+        "num": 176477,
+        "word": "洗衣女子失足坠河机智躺平自救",
+        "onboard_time": 1661502214,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166138,
+        "num": 166138,
+        "word": "消费券",
+        "onboard_time": 1661518769,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151539,
+        "num": 151539,
+        "word": "杭州消费券",
+        "onboard_time": 1661516612,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 150069,
+        "num": 150069,
+        "word": "救火英雄自带中国人的精气神",
+        "onboard_time": 1661499872,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 253916,
+        "num": 141411,
+        "word": "刘耀文吃柠檬面不改色",
+        "onboard_time": 1661513310,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219119,
+        "num": 139928,
+        "word": "杨幂玩滑翔伞好紧张",
+        "onboard_time": 1661518707,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132252,
+        "num": 132252,
+        "word": "重庆山火救援手绘指挥图曝光",
+        "onboard_time": 1661512591,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130799,
+        "num": 130799,
+        "word": "这才是四川小吃的扛把子",
+        "onboard_time": 1661511449,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123480,
+        "num": 123480,
+        "word": "老太拦停科目三驾考车想搭便车",
+        "onboard_time": 1661500711,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120827,
+        "num": 120827,
+        "word": "没见过笑点这么密集的军训",
+        "onboard_time": 1661515232,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110712,
+        "num": 110712,
+        "word": "TES对战JDG",
+        "onboard_time": 1661504433,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109655,
+        "num": 109655,
+        "word": "旗舰机你选苹果还是华为",
+        "onboard_time": 1661504553,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94642,
+        "num": 94642,
+        "word": "中国到底还有多少条龙漕沟",
+        "onboard_time": 1661509948,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 93526,
+        "num": 93526,
+        "word": "JackeyLove泽丽",
+        "onboard_time": 1661513668,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络强国营造清朗空间#"
+    }
+  }
+}
