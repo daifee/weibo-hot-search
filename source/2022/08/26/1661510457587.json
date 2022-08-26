@@ -1,0 +1,410 @@
+{
+  "runTime": 1661510457587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2079480,
+        "num": 2079480,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1626622,
+        "num": 1626622,
+        "word": "韩国确认买入冰雨火版权",
+        "onboard_time": 1661507611,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200793,
+        "num": 1254948,
+        "word": "救火英雄自带中国人的精气神",
+        "onboard_time": 1661499872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1076184,
+        "num": 1076184,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003461,
+        "num": 1003461,
+        "word": "刘恺威洗澡洗一半没水了",
+        "onboard_time": 1661499452,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785568,
+        "num": 785568,
+        "word": "老太拦停科目三驾考车想搭便车",
+        "onboard_time": 1661500711,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644472,
+        "num": 644472,
+        "word": "流浪猫脖子被人绑四只幼崽",
+        "onboard_time": 1661497351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484680,
+        "num": 484680,
+        "word": "酸奶是如何让你变胖的",
+        "onboard_time": 1661506771,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 441667,
+        "num": 441667,
+        "word": "青岛警方通报高铁站旅客打架",
+        "onboard_time": 1661504134,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 441168,
+        "num": 441168,
+        "word": "洗衣女子失足坠河机智躺平自救",
+        "onboard_time": 1661502214,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949942,
+        "num": 430375,
+        "word": "王鹤棣回应脱衣服很丝滑",
+        "onboard_time": 1661508751,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 759475,
+        "num": 420385,
+        "word": "南昌回应老人车站下跪事件",
+        "onboard_time": 1661506831,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630828,
+        "num": 416514,
+        "word": "苍兰诀豆瓣升至7.8分",
+        "onboard_time": 1661508751,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409675,
+        "num": 409675,
+        "word": "张杰说相信一定会再见",
+        "onboard_time": 1661504494,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384365,
+        "num": 384365,
+        "word": "校方回应西北大学研究生奖学金",
+        "onboard_time": 1661509469,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 327082,
+        "num": 327082,
+        "word": "重庆公安回应摩托志愿者送物资被罚",
+        "onboard_time": 1661500469,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302858,
+        "num": 302858,
+        "word": "90天内苹果全网热搜达920个",
+        "onboard_time": 1661501672,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 287778,
+        "num": 287778,
+        "word": "旗舰机你选苹果还是华为",
+        "onboard_time": 1661504553,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253806,
+        "num": 253806,
+        "word": "央视报道PS5涨价",
+        "onboard_time": 1661502691,
+        "rank": 18,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 231675,
+        "num": 231675,
+        "word": "Ning 解说",
+        "onboard_time": 1661509530,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 589224,
+        "num": 227141,
+        "word": "辰亦儒晒15年前飞轮海迪士尼合照",
+        "onboard_time": 1661504433,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368821,
+        "num": 223163,
+        "word": "twice新歌音银初舞台",
+        "onboard_time": 1661508571,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350786,
+        "num": 221673,
+        "word": "马頔开会睡着了",
+        "onboard_time": 1661508211,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217664,
+        "num": 217664,
+        "word": "受伤流浪猫赖消防队3个月大变样",
+        "onboard_time": 1661505632,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209400,
+        "num": 209400,
+        "word": "北师大附中校长谈双减",
+        "onboard_time": 1661509288,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 196137,
+        "num": 196137,
+        "word": "蔡澜",
+        "onboard_time": 1661501131,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180732,
+        "num": 180732,
+        "word": "杭州疫情防控",
+        "onboard_time": 1661503654,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162388,
+        "num": 162388,
+        "word": "明日方舟",
+        "onboard_time": 1661510010,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159766,
+        "num": 159766,
+        "word": "旅途才是吵架高峰期",
+        "onboard_time": 1661504792,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156968,
+        "num": 156968,
+        "word": "TES对战JDG",
+        "onboard_time": 1661504433,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329026,
+        "num": 156967,
+        "word": "披荆斩棘 好笑",
+        "onboard_time": 1661505814,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307907,
+        "num": 156953,
+        "word": "马嘉祺被酸出表情包",
+        "onboard_time": 1661507491,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299221,
+        "num": 156937,
+        "word": "陈若仪 终于等到小志回家",
+        "onboard_time": 1661496032,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286693,
+        "num": 156925,
+        "word": "警方回应野球帝张照洋被打",
+        "onboard_time": 1661503473,
+        "rank": 33,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 156925,
+        "num": 156924,
+        "word": "重庆群众欢送武警官兵",
+        "onboard_time": 1661503775,
+        "rank": 34,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 152977,
+        "num": 152977,
+        "word": "两家村镇银行进入破产程序",
+        "onboard_time": 1661510010,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 143159,
+        "num": 143159,
+        "word": "震撼航拍看重庆救援的人有多少",
+        "onboard_time": 1661493093,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143105,
+        "num": 143105,
+        "word": "原来人也会被吓到炸毛",
+        "onboard_time": 1661509887,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128439,
+        "num": 128439,
+        "word": "电竞经理",
+        "onboard_time": 1661507190,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127980,
+        "num": 127980,
+        "word": "重庆是我们的家不能看着不管",
+        "onboard_time": 1661502452,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244084,
+        "num": 126873,
+        "word": "好的仙侠剧是啥样的",
+        "onboard_time": 1661504314,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231501,
+        "num": 123805,
+        "word": "人生大事",
+        "onboard_time": 1661510191,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 116120,
+        "word": "中国到底还有多少条龙漕沟",
+        "onboard_time": 1661509948,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112579,
+        "num": 112579,
+        "word": "用水浇头的重庆小伙能回家睡觉了",
+        "onboard_time": 1661502810,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111616,
+        "num": 111616,
+        "word": "90后男子长期宅家久坐后肺梗",
+        "onboard_time": 1661491417,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106386,
+        "num": 106386,
+        "word": "中秋假期火车票明日开售",
+        "onboard_time": 1661508990,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104611,
+        "num": 104611,
+        "word": "没想到被猫咪嘲笑了",
+        "onboard_time": 1661503893,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101118,
+        "num": 101118,
+        "word": "CPA税法",
+        "onboard_time": 1661498852,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89322,
+        "num": 89322,
+        "word": "歼20急转大仰角穿云画面",
+        "onboard_time": 1661491177,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 85867,
+        "num": 85867,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同构建全球发展共同体#"
+    }
+  }
+}
