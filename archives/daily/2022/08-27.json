@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661535628967,
+  "endTime": 1661538418783,
   "band_list": [
     {
       "raw_hot": 3946998,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 357996,
+      "num": 357996,
+      "word": "医生建议勿跟风藿香正气冰中式",
+      "onboard_time": 1661533820,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352270,
       "num": 352270,
       "word": "谢谢初级会计成绩",
@@ -296,14 +304,6 @@
       "word": "武汉疫情防控",
       "onboard_time": 1661523211,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206323,
-      "num": 206323,
-      "word": "医生建议勿跟风藿香正气冰中式",
-      "onboard_time": 1661533820,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -443,12 +443,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132428,
+      "num": 132428,
+      "word": "杨幂花少里被认错三次",
+      "onboard_time": 1661536217,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92774,
       "num": 92774,
       "word": "唐凯战胜丹勒夺冠",
       "onboard_time": 1661527953,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69269,
+      "num": 69269,
+      "word": "陈小春评论区初代哥哥团建",
+      "onboard_time": 1661537414,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30012,
+      "num": 30012,
+      "word": "网逃被抓大喊我的猫怎么办",
+      "onboard_time": 1661538135,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
