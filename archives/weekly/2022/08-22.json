@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661481026117,
+  "endTime": 1661483672156,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3332588,
+      "num": 3332588,
+      "word": "专家称可以给00后增加工作强度",
+      "onboard_time": 1661478274,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3324135,
       "num": 2489847,
       "word": "长期喝冰水的人后来都怎么样了",
@@ -273,14 +281,6 @@
       "onboard_time": 1661219371,
       "rank": 1,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 2642034,
-      "num": 2642034,
-      "word": "专家称可以给00后增加工作强度",
-      "onboard_time": 1661478274,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2637877,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2134849,
+      "num": 2134849,
+      "word": "iPhone14Pro紫色机模",
+      "onboard_time": 1661479593,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2131102,
       "num": 2131102,
       "word": "16个外甥住舅舅家55天花掉6万",
@@ -579,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1763608,
+      "num": 1763608,
+      "word": "科比妻子捐出1600万赔偿金",
+      "onboard_time": 1661482111,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1754277,
       "num": 1754277,
       "word": "为什么漂亮女孩成长更不容易",
@@ -697,14 +713,6 @@
       "onboard_time": 1661147609,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1593659,
-      "num": 1593659,
-      "word": "iPhone14Pro紫色机模",
-      "onboard_time": 1661479593,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 1585273,
@@ -1723,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 889662,
+      "num": 889662,
+      "word": "鞠婧祎澹台台",
+      "onboard_time": 1661480131,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 887832,
       "num": 887832,
       "word": "快乐再出发 第二季",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1661377391,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822656,
+      "num": 822656,
+      "word": "遇到事00后是真能支棱起来",
+      "onboard_time": 1661471973,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 821561,
@@ -2144,6 +2168,14 @@
       "word": "鸡被偷走炖熟民警一锅端还给失主",
       "onboard_time": 1661165430,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743424,
+      "num": 743424,
+      "word": "什么是以火灭火",
+      "onboard_time": 1661478635,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2699,6 +2731,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 601818,
+      "num": 601818,
+      "word": "这样放屁能静音",
+      "onboard_time": 1661481092,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600978,
       "num": 600978,
       "word": "脱口秀大会5艺人阵容官宣",
@@ -2753,14 +2793,6 @@
       "onboard_time": 1661405727,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591187,
-      "num": 591187,
-      "word": "遇到事00后是真能支棱起来",
-      "onboard_time": 1661471973,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 585383,
@@ -3033,6 +3065,14 @@
       "onboard_time": 1661179473,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559576,
+      "num": 559576,
+      "word": "蔡徐坤沸腾校园制作人官宣",
+      "onboard_time": 1661482651,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 557871,
@@ -3699,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474926,
+      "num": 474926,
+      "word": "王一博时尚COSMO金九封面",
+      "onboard_time": 1661482891,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 474650,
       "num": 474650,
       "word": "差点毁了妈妈的一世英名",
@@ -3753,6 +3801,14 @@
       "onboard_time": 1661125586,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471709,
+      "num": 471709,
+      "word": "司机得知重庆小伙去做志愿者后免单",
+      "onboard_time": 1661478390,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 471470,
@@ -3931,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446855,
+      "num": 446855,
+      "word": "四川新增本土确诊27例无症状39例",
+      "onboard_time": 1661480373,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445924,
       "num": 410736,
       "word": "李易峰要给范丞丞新片包5场",
@@ -4097,14 +4161,6 @@
       "onboard_time": 1661330433,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430700,
-      "num": 430700,
-      "word": "什么是以火灭火",
-      "onboard_time": 1661478635,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429881,
@@ -4337,6 +4393,14 @@
       "onboard_time": 1661165371,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 410751,
+      "num": 410751,
+      "word": "河北香河发现一例初筛阳性",
+      "onboard_time": 1661478154,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409739,
@@ -4835,14 +4899,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 371190,
-      "num": 371190,
-      "word": "鞠婧祎澹台台",
-      "onboard_time": 1661480131,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370275,
       "num": 370275,
       "word": "彭昱畅腿是软的嘴是硬的",
@@ -4993,6 +5049,14 @@
       "onboard_time": 1661401836,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361247,
+      "num": 361247,
+      "word": "饿了么免单",
+      "onboard_time": 1661177437,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 360616,
@@ -5283,14 +5347,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 341159,
-      "num": 341159,
-      "word": "河北香河发现一例初筛阳性",
-      "onboard_time": 1661478154,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341086,
       "num": 262869,
       "word": "唐周说可是颜淡我不是他",
@@ -5419,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336232,
+      "num": 336232,
+      "word": "工人划伤动脉路人送医垫钱抢救",
+      "onboard_time": 1661481394,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 336206,
       "num": 336206,
       "word": "重庆中心城区开展核酸筛查",
@@ -5448,6 +5512,22 @@
       "word": "姥姥改女儿10年前旧衣给外孙女穿",
       "onboard_time": 1661268455,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335638,
+      "num": 335638,
+      "word": "苍兰诀连番外都拍了",
+      "onboard_time": 1661483071,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335508,
+      "num": 335508,
+      "word": "地球上的石油到底还能用多少年",
+      "onboard_time": 1661482532,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5649,6 +5729,14 @@
       "onboard_time": 1661249311,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322852,
+      "num": 322852,
+      "word": "沸腾校园阵容官宣",
+      "onboard_time": 1661482174,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 322494,
@@ -6979,14 +7067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258482,
-      "num": 258482,
-      "word": "司机得知重庆小伙去做志愿者后免单",
-      "onboard_time": 1661478390,
-      "rank": 27,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 256843,
       "num": 256843,
       "word": "奉节山火",
@@ -7017,6 +7097,14 @@
       "onboard_time": 1661236291,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256507,
+      "num": 256507,
+      "word": "iPhone14手机膜开售",
+      "onboard_time": 1661483130,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 256423,
@@ -7275,14 +7363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247388,
-      "num": 247388,
-      "word": "四川新增本土确诊27例无症状39例",
-      "onboard_time": 1661480373,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247324,
       "num": 247324,
       "word": "降温正在派送中",
@@ -7537,14 +7617,6 @@
       "onboard_time": 1661272645,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234968,
-      "num": 234968,
-      "word": "饿了么免单",
-      "onboard_time": 1661177437,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 234162,
@@ -7977,6 +8049,14 @@
       "onboard_time": 1661170290,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217588,
+      "num": 217588,
+      "word": "重庆消防员灭火后让人心疼的样子",
+      "onboard_time": 1661482293,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217524,
@@ -8787,6 +8867,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 184239,
+      "num": 184239,
+      "word": "三门峡新增本土无症状59例",
+      "onboard_time": 1661482651,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183798,
       "num": 183798,
       "word": "ksg纪录片",
@@ -9371,6 +9459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159309,
+      "num": 159309,
+      "word": "月升沧海",
+      "onboard_time": 1661483554,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159293,
       "num": 159293,
       "word": "200多名武警官兵驰援重庆大足火场",
@@ -9473,6 +9569,14 @@
       "onboard_time": 1661270368,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 153087,
+      "num": 153087,
+      "word": "注会",
+      "onboard_time": 1661483436,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 152990,
@@ -9785,6 +9889,14 @@
       "onboard_time": 1661250871,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133508,
+      "num": 133508,
+      "word": "洛阳市汝阳县新增1例无症状",
+      "onboard_time": 1661482651,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131473,

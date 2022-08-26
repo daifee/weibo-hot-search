@@ -1,0 +1,410 @@
+{
+  "runTime": 1661483672156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3332588,
+        "num": 3332588,
+        "word": "专家称可以给00后增加工作强度",
+        "onboard_time": 1661478274,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2134849,
+        "num": 2134849,
+        "word": "iPhone14Pro紫色机模",
+        "onboard_time": 1661479593,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52577,
+        "num": 1787271,
+        "word": "这些娃儿侠肝义胆",
+        "onboard_time": 1661402315,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1763608,
+        "num": 1763608,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1605506,
+        "num": 1605506,
+        "word": "刘翔峰涉嫌严重违法接受监察调查",
+        "onboard_time": 1661474136,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534874,
+        "num": 1534874,
+        "word": "转发这个那英",
+        "onboard_time": 1661477372,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 889662,
+        "num": 889662,
+        "word": "鞠婧祎澹台台",
+        "onboard_time": 1661480131,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822656,
+        "num": 822656,
+        "word": "遇到事00后是真能支棱起来",
+        "onboard_time": 1661471973,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 743424,
+        "num": 743424,
+        "word": "什么是以火灭火",
+        "onboard_time": 1661478635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614329,
+        "num": 614329,
+        "word": "外卖员碰坏蛋糕顾客暖心谢绝赔偿",
+        "onboard_time": 1661474856,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601818,
+        "num": 601818,
+        "word": "这样放屁能静音",
+        "onboard_time": 1661481092,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559576,
+        "num": 559576,
+        "word": "蔡徐坤沸腾校园制作人官宣",
+        "onboard_time": 1661482651,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509167,
+        "num": 509167,
+        "word": "重庆山火",
+        "onboard_time": 1661434191,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474926,
+        "num": 474926,
+        "word": "王一博时尚COSMO金九封面",
+        "onboard_time": 1661482891,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 471709,
+        "num": 471709,
+        "word": "司机得知重庆小伙去做志愿者后免单",
+        "onboard_time": 1661478390,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 448224,
+        "num": 448224,
+        "word": "心疼吴凡",
+        "onboard_time": 1661444314,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446855,
+        "num": 446855,
+        "word": "四川新增本土确诊27例无症状39例",
+        "onboard_time": 1661480373,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410751,
+        "num": 410751,
+        "word": "河北香河发现一例初筛阳性",
+        "onboard_time": 1661478154,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382550,
+        "num": 382550,
+        "word": "大学生邮30多个包裹到校被在线催收",
+        "onboard_time": 1661469384,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373118,
+        "num": 373118,
+        "word": "美人鱼原型在中国灭绝",
+        "onboard_time": 1661442163,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361247,
+        "num": 361247,
+        "word": "饿了么免单",
+        "onboard_time": 1661481153,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 336232,
+        "num": 336232,
+        "word": "工人划伤动脉路人送医垫钱抢救",
+        "onboard_time": 1661481394,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 335638,
+        "num": 335638,
+        "word": "苍兰诀连番外都拍了",
+        "onboard_time": 1661483071,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335508,
+        "num": 335508,
+        "word": "地球上的石油到底还能用多少年",
+        "onboard_time": 1661482532,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322852,
+        "num": 322852,
+        "word": "沸腾校园阵容官宣",
+        "onboard_time": 1661482174,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406827,
+        "num": 314132,
+        "word": "野球帝张照洋高铁站遭到殴打",
+        "onboard_time": 1661470107,
+        "rank": 25,
+        "category": "社会负面,网红"
+      },
+      {
+        "raw_hot": 301989,
+        "num": 301989,
+        "word": "7岁娃花1个月作3米画不舍参赛大哭",
+        "onboard_time": 1661470167,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298366,
+        "num": 298366,
+        "word": "广西人才懂的六元自助餐",
+        "onboard_time": 1661477791,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278526,
+        "num": 278526,
+        "word": "周莹 抢功",
+        "onboard_time": 1661476174,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256507,
+        "num": 256507,
+        "word": "iPhone14手机膜开售",
+        "onboard_time": 1661483130,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266518,
+        "num": 247605,
+        "word": "中国排协回应女排戴口罩比赛",
+        "onboard_time": 1661472693,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231059,
+        "num": 231059,
+        "word": "河南新增1例本土确诊67例无症状",
+        "onboard_time": 1661480131,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229906,
+        "num": 229906,
+        "word": "野球帝",
+        "onboard_time": 1661444192,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224193,
+        "num": 224193,
+        "word": "加拿大直接向俄罗斯交还涡轮机",
+        "onboard_time": 1661443177,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 217967,
+        "num": 217967,
+        "word": "懒人减脂的正确打开方式",
+        "onboard_time": 1661477613,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217588,
+        "num": 217588,
+        "word": "重庆消防员灭火后让人心疼的样子",
+        "onboard_time": 1661482293,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217514,
+        "num": 217514,
+        "word": "程少商与过去和解",
+        "onboard_time": 1661443479,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186773,
+        "num": 186773,
+        "word": "快乐再出发豆瓣升至9.7分",
+        "onboard_time": 1661439708,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184239,
+        "num": 184239,
+        "word": "三门峡新增本土无症状59例",
+        "onboard_time": 1661482651,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181707,
+        "num": 181707,
+        "word": "A股似弱实固无需过度反应",
+        "onboard_time": 1661475453,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180823,
+        "num": 180823,
+        "word": "影院回应女子被孩家长踹成脑震荡",
+        "onboard_time": 1661442044,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175055,
+        "num": 175055,
+        "word": "西藏增本土无症状444例",
+        "onboard_time": 1661477494,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173771,
+        "num": 173771,
+        "word": "1岁婴儿吞5枚电池10小时后取出",
+        "onboard_time": 1661439404,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170639,
+        "num": 170639,
+        "word": "小猫被困井下一年获救还是胖乎乎",
+        "onboard_time": 1661435630,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164127,
+        "num": 164127,
+        "word": "请君",
+        "onboard_time": 1661480550,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159309,
+        "num": 159309,
+        "word": "月升沧海",
+        "onboard_time": 1661483554,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153087,
+        "num": 153087,
+        "word": "注会",
+        "onboard_time": 1661483436,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147883,
+        "num": 147883,
+        "word": "上海殡仪馆回应月薪4万8招扛尸工",
+        "onboard_time": 1661433597,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139703,
+        "num": 139703,
+        "word": "云南森林消防",
+        "onboard_time": 1661478993,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133508,
+        "num": 133508,
+        "word": "洛阳市汝阳县新增1例无症状",
+        "onboard_time": 1661482651,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同构建全球发展共同体#"
+    }
+  }
+}
