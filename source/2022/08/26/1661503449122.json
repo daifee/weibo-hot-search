@@ -1,0 +1,410 @@
+{
+  "runTime": 1661503449122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1885048,
+        "num": 1885048,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1394418,
+        "num": 1394418,
+        "word": "流浪猫脖子被人绑四只幼崽",
+        "onboard_time": 1661497351,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191100,
+        "num": 1367210,
+        "word": "救火英雄自带中国人的精气神",
+        "onboard_time": 1661499872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2161436,
+        "num": 1366483,
+        "word": "刘恺威洗澡洗一半没水了",
+        "onboard_time": 1661499452,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1679640,
+        "num": 1366389,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1363034,
+        "num": 1363034,
+        "word": "重庆公安回应摩托志愿者送物资被罚",
+        "onboard_time": 1661500469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043733,
+        "num": 1043733,
+        "word": "老太拦停科目三驾考车想搭便车",
+        "onboard_time": 1661500711,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461961,
+        "num": 461961,
+        "word": "范世錡羡慕mike听不懂规则",
+        "onboard_time": 1661499932,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438684,
+        "num": 438684,
+        "word": "蔡澜",
+        "onboard_time": 1661501131,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433909,
+        "num": 433909,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1651211,
+        "num": 431820,
+        "word": "杨洋王一博王鹤棣杂志封面",
+        "onboard_time": 1661500892,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 413443,
+        "num": 413443,
+        "word": "twice空降",
+        "onboard_time": 1661492912,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392963,
+        "num": 392963,
+        "word": "刘国梁加入世界乒联董事会",
+        "onboard_time": 1661498071,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369592,
+        "num": 369592,
+        "word": "90天内苹果全网热搜达920个",
+        "onboard_time": 1661501672,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 50265,
+        "num": 350628,
+        "word": "42个瞬间串起深圳42年",
+        "onboard_time": 1661500892,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342733,
+        "num": 342733,
+        "word": "洗衣女子失足坠河机智躺平自救",
+        "onboard_time": 1661502214,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299098,
+        "num": 299098,
+        "word": "唐周要泡三天水了",
+        "onboard_time": 1661501733,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261095,
+        "num": 261095,
+        "word": "CPA税法",
+        "onboard_time": 1661498852,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1535148,
+        "num": 252634,
+        "word": "男子强行拖拽怀孕5个月妻子",
+        "onboard_time": 1661498491,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230598,
+        "num": 230598,
+        "word": "90后男子长期宅家久坐后肺梗",
+        "onboard_time": 1661491417,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277100,
+        "num": 228712,
+        "word": "张照洋回应被打",
+        "onboard_time": 1661501189,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 267948,
+        "num": 227797,
+        "word": "赵丽颖千禧风造型花絮",
+        "onboard_time": 1661488595,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264338,
+        "num": 226459,
+        "word": "郑钧一求人就口头下跪",
+        "onboard_time": 1661498971,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224708,
+        "num": 224708,
+        "word": "异地恋男友三年存2460张照片送女友",
+        "onboard_time": 1661488240,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210632,
+        "num": 210632,
+        "word": "三星堆青铜神树上爬有壁虎",
+        "onboard_time": 1661494954,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200447,
+        "num": 200447,
+        "word": "苹果中国10年售出3.8亿台",
+        "onboard_time": 1661487935,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 187653,
+        "num": 187653,
+        "word": "歼20急转大仰角穿云画面",
+        "onboard_time": 1661491177,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 183258,
+        "num": 183258,
+        "word": "给朋友盘下一家烧烤店",
+        "onboard_time": 1661500531,
+        "rank": 27,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 175996,
+        "num": 175996,
+        "word": "重庆是我们的家不能看着不管",
+        "onboard_time": 1661502452,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172847,
+        "num": 172847,
+        "word": "专家称可以给00后增加工作强度",
+        "onboard_time": 1661478274,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076867,
+        "num": 172214,
+        "word": "陈若仪 终于等到小志回家",
+        "onboard_time": 1661496032,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255522,
+        "num": 171984,
+        "word": "李汶翰说要打杜华",
+        "onboard_time": 1661497110,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248481,
+        "num": 170573,
+        "word": "颜淡应渊28集不见了",
+        "onboard_time": 1661496392,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251834,
+        "num": 170132,
+        "word": "魏大勋买菜买出了南北差异",
+        "onboard_time": 1661502691,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169787,
+        "num": 169787,
+        "word": "河北新增无症状感染者12例",
+        "onboard_time": 1661495730,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196077,
+        "num": 168539,
+        "word": "苏有朋说干掉初代哥哥组",
+        "onboard_time": 1661494891,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167098,
+        "num": 167098,
+        "word": "用水浇头的重庆小伙能回家睡觉了",
+        "onboard_time": 1661502810,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161053,
+        "num": 161053,
+        "word": "南京网红猕猴归山受挫挨了一顿揍",
+        "onboard_time": 1661487157,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160063,
+        "num": 160063,
+        "word": "iPhone14Pro紫色机模",
+        "onboard_time": 1661479593,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158659,
+        "num": 158659,
+        "word": "央视报道PS5涨价",
+        "onboard_time": 1661502691,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 184802,
+        "num": 158466,
+        "word": "林娜琏镜头",
+        "onboard_time": 1661495550,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157091,
+        "num": 157091,
+        "word": "震撼航拍看重庆救援的人有多少",
+        "onboard_time": 1661493093,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148388,
+        "num": 148388,
+        "word": "世锦赛陈雨菲进四强",
+        "onboard_time": 1661502452,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146437,
+        "num": 146437,
+        "word": "13岁女孩爱上太极闭关3年成拳师",
+        "onboard_time": 1661489256,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143141,
+        "num": 143141,
+        "word": "广东人已经摸清了台风的套路",
+        "onboard_time": 1661492195,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141706,
+        "num": 141706,
+        "word": "重庆20个区县下雨",
+        "onboard_time": 1661493452,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135740,
+        "num": 135740,
+        "word": "没想到开学最快乐的是父母",
+        "onboard_time": 1661498369,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253405,
+        "num": 135586,
+        "word": "航拍缙云山隔离带",
+        "onboard_time": 1661503414,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135243,
+        "num": 135243,
+        "word": "见过最可爱的笨蛋小猫",
+        "onboard_time": 1661495192,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 133185,
+        "num": 133185,
+        "word": "乾隆题字50次的富春山居图为赝品",
+        "onboard_time": 1661487095,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同构建全球发展共同体#"
+    }
+  }
+}
