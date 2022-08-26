@@ -1,0 +1,410 @@
+{
+  "runTime": 1661546329601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 287247,
+        "num": 287247,
+        "word": "取快递收到死亡小老虎",
+        "onboard_time": 1661527410,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195947,
+        "num": 195947,
+        "word": "警方通报一女子在烧烤店被砍伤",
+        "onboard_time": 1661531545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37546,
+        "num": 107623,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83155,
+        "num": 83155,
+        "word": "今年的蚊子是被热死了吗",
+        "onboard_time": 1661539273,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77730,
+        "num": 77730,
+        "word": "医生建议勿跟风藿香正气冰中式",
+        "onboard_time": 1661533820,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69967,
+        "num": 69967,
+        "word": "苹果目标是产品不用地球任何资源",
+        "onboard_time": 1661532504,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 64113,
+        "num": 64113,
+        "word": "网逃被抓大喊我的猫怎么办",
+        "onboard_time": 1661538135,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63008,
+        "num": 63008,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58442,
+        "num": 58442,
+        "word": "女子高铁上给孩子投影无声版动画",
+        "onboard_time": 1661522790,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54935,
+        "num": 54935,
+        "word": "卫健委通报刘翔峰有关问题",
+        "onboard_time": 1661528553,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102945,
+        "num": 54791,
+        "word": "女子吃牛排发现异物似尾巴",
+        "onboard_time": 1661543412,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54055,
+        "num": 54055,
+        "word": "这学能不能不开了",
+        "onboard_time": 1661519251,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52711,
+        "num": 52711,
+        "word": "取消公摊面积购房者能否少花钱",
+        "onboard_time": 1661522493,
+        "rank": 12,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 45823,
+        "num": 45823,
+        "word": "苍兰诀9月17日直播见面会",
+        "onboard_time": 1661531545,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44136,
+        "num": 44136,
+        "word": "债务人欠钱未还12只猫被法院拍卖",
+        "onboard_time": 1661525854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42428,
+        "num": 42428,
+        "word": "中国首个男子MMA世界冠军",
+        "onboard_time": 1661528795,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 36726,
+        "num": 36726,
+        "word": "艾辰事件造谣者公开道歉",
+        "onboard_time": 1661526332,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 33808,
+        "num": 33808,
+        "word": "鹿晗梦寐之地",
+        "onboard_time": 1661532264,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31913,
+        "num": 31913,
+        "word": "杨幂花少里被认错三次",
+        "onboard_time": 1661536217,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31659,
+        "num": 31659,
+        "word": "陈小春评论区初代哥哥团建",
+        "onboard_time": 1661537414,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68607,
+        "num": 31633,
+        "word": "赵露思陈哲远对视饭拍",
+        "onboard_time": 1661529209,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45794,
+        "num": 31382,
+        "word": "虾系明星",
+        "onboard_time": 1661519372,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 37941,
+        "num": 30824,
+        "word": "消防员撤离时被重庆妹子强吻",
+        "onboard_time": 1661515472,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30229,
+        "num": 30229,
+        "word": "谢谢初级会计成绩",
+        "onboard_time": 1661529451,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 29956,
+        "num": 29956,
+        "word": "世界首个龙眼与荔枝杂交新品种",
+        "onboard_time": 1661509168,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 29698,
+        "num": 29698,
+        "word": "孙怡回归再见爱人2",
+        "onboard_time": 1661511568,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29052,
+        "num": 29052,
+        "word": "南京女大学生被害案凶手拒不认罪",
+        "onboard_time": 1661516072,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28831,
+        "num": 28831,
+        "word": "林志颖最新治疗情况",
+        "onboard_time": 1661521230,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26748,
+        "num": 26748,
+        "word": "中国与美国签署审计监管合作协议",
+        "onboard_time": 1661516972,
+        "rank": 28,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 26713,
+        "num": 26713,
+        "word": "这种舍友是真的存在吗",
+        "onboard_time": 1661528494,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 26699,
+        "num": 26699,
+        "word": "蔡徐坤为重庆捐赠救灾物资",
+        "onboard_time": 1661525854,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26669,
+        "num": 26669,
+        "word": "外溢的小肚腩有救了",
+        "onboard_time": 1661528014,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26167,
+        "num": 26167,
+        "word": "东部战区在台岛周边实战化演练",
+        "onboard_time": 1661512169,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 25028,
+        "num": 25028,
+        "word": "蒲熠星丁若虚被队员开除",
+        "onboard_time": 1661527293,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23317,
+        "num": 23317,
+        "word": "wayward",
+        "onboard_time": 1661526992,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21871,
+        "num": 21871,
+        "word": "青白蛇皮肤优化",
+        "onboard_time": 1661523993,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19558,
+        "num": 19558,
+        "word": "西大研究生奖学金按原政策执行",
+        "onboard_time": 1661526034,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 19297,
+        "num": 19297,
+        "word": "重庆志愿者排队报名上山清理垃圾",
+        "onboard_time": 1661526695,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 18849,
+        "num": 18849,
+        "word": "冰雨火禁毒所大夫也是毒贩",
+        "onboard_time": 1661517930,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18587,
+        "num": 18587,
+        "word": "马丽主演票房破150亿",
+        "onboard_time": 1661523093,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18188,
+        "num": 18188,
+        "word": "黑话律师",
+        "onboard_time": 1661526992,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18059,
+        "num": 18059,
+        "word": "初级会计 成绩",
+        "onboard_time": 1661525555,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17069,
+        "num": 17069,
+        "word": "重庆女摩友极力争取扑救山火",
+        "onboard_time": 1661523211,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 16266,
+        "num": 16266,
+        "word": "千万不要把存款告诉别人",
+        "onboard_time": 1661511568,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15987,
+        "num": 15987,
+        "word": "唐凯战胜丹勒夺冠",
+        "onboard_time": 1661527953,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15713,
+        "num": 15713,
+        "word": "JDG让二追三",
+        "onboard_time": 1661525136,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15699,
+        "num": 15699,
+        "word": "武汉疫情防控",
+        "onboard_time": 1661523211,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280303,
+        "num": 15493,
+        "word": "虚拟演员春草首亮相",
+        "onboard_time": 1661546291,
+        "rank": 47,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 13755,
+        "num": 13755,
+        "word": "致敬每一位逆火英雄",
+        "onboard_time": 1661536038,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9587,
+        "num": 9587,
+        "word": "滔搏",
+        "onboard_time": 1661526214,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络强国营造清朗空间#"
+    }
+  }
+}
