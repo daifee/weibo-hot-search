@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661512739326,
+  "endTime": 1661513752455,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1665921,
+      "num": 1665921,
+      "word": "孙怡回归再见爱人2",
+      "onboard_time": 1661511568,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1651211,
       "num": 539593,
       "word": "杨洋王一博王鹤棣杂志封面",
@@ -169,14 +177,6 @@
       "onboard_time": 1661442163,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1237615,
-      "num": 1237615,
-      "word": "孙怡回归再见爱人2",
-      "onboard_time": 1661511568,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1208957,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1015687,
-      "num": 494227,
+      "num": 594108,
       "word": "王鹤棣回应脱衣服很丝滑",
       "onboard_time": 1661508751,
       "rank": 10,
@@ -387,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 769419,
+      "num": 769419,
+      "word": "东部战区在台岛周边实战化演练",
+      "onboard_time": 1661512169,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 759475,
       "num": 717442,
       "word": "南昌回应老人车站下跪事件",
       "onboard_time": 1661506831,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753935,
+      "num": 605003,
+      "word": "千万不要把存款告诉别人",
+      "onboard_time": 1661511568,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 743424,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 675904,
-      "num": 289449,
+      "num": 312877,
       "word": "辰亦儒晒15年前飞轮海迪士尼合照",
       "onboard_time": 1661504433,
       "rank": 20,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 580284,
-      "num": 290499,
+      "num": 313270,
       "word": "乐华新男团首综",
       "onboard_time": 1661512230,
       "rank": 20,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 498712,
-      "num": 103590,
+      "num": 325913,
       "word": "觞阙结黎亲密写真大片",
       "onboard_time": 1661512708,
       "rank": 47,
@@ -835,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404209,
-      "num": 404209,
-      "word": "千万不要把存款告诉别人",
-      "onboard_time": 1661511568,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 397919,
       "num": 397919,
       "word": "学外语专业你后悔了吗",
@@ -1019,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341596,
+      "num": 216512,
+      "word": "刘耀文吃柠檬面不改色",
+      "onboard_time": 1661513310,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336705,
       "num": 278276,
       "word": "郑钧一求人就口头下跪",
@@ -1040,6 +1056,14 @@
       "word": "狼队eStar比赛太夸张了",
       "onboard_time": 1661433237,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 332308,
+      "num": 332308,
+      "word": "Ning 解说",
+      "onboard_time": 1661509530,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -1073,14 +1097,6 @@
       "onboard_time": 1661501189,
       "rank": 41,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 324650,
-      "num": 324650,
-      "word": "Ning 解说",
-      "onboard_time": 1661509530,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 322852,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1661501733,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295223,
+      "num": 295223,
+      "word": "这才是四川小吃的扛把子",
+      "onboard_time": 1661511449,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 295037,
@@ -1203,6 +1227,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 282861,
+      "num": 282861,
+      "word": "CPA 经济法",
+      "onboard_time": 1661513131,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 281454,
       "num": 257024,
       "word": "这就是拍冰雨火的意义吧",
@@ -1243,16 +1275,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 276380,
-      "num": 276380,
-      "word": "东部战区在台岛周边实战化演练",
-      "onboard_time": 1661512169,
-      "rank": 23,
-      "category": "军事"
-    },
-    {
       "raw_hot": 275362,
-      "num": 205524,
+      "num": 206551,
       "word": "人生大事",
       "onboard_time": 1661510191,
       "rank": 41,
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236786,
+      "num": 236786,
+      "word": "世界首个龙眼与荔枝杂交新品种",
+      "onboard_time": 1661509168,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 234721,
       "num": 234721,
       "word": "江西鹰潭方舱隔离条件堪忧",
@@ -1427,12 +1459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234502,
-      "num": 234502,
-      "word": "这才是四川小吃的扛把子",
-      "onboard_time": 1661511449,
-      "rank": 26,
-      "category": "美食"
+      "raw_hot": 233909,
+      "num": 141232,
+      "word": "第一季哥哥回应吴克群喊话",
+      "onboard_time": 1661512769,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 233080,
@@ -1467,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226071,
+      "num": 226071,
+      "word": "阿水梦回S8",
+      "onboard_time": 1661513191,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225680,
       "num": 225680,
       "word": "中秋假期火车票明日开售",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1661437607,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221847,
+      "num": 221847,
+      "word": "重庆欢送消防员没端火锅是最后克制",
+      "onboard_time": 1661511630,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221456,
@@ -1553,14 +1601,6 @@
       "onboard_time": 1661423068,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207114,
-      "num": 207114,
-      "word": "世界首个龙眼与荔枝杂交新品种",
-      "onboard_time": 1661509168,
-      "rank": 29,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 201634,
@@ -1672,14 +1712,6 @@
       "word": "三门峡新增本土无症状59例",
       "onboard_time": 1661482651,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183958,
-      "num": 183958,
-      "word": "重庆欢送消防员没端火锅是最后克制",
-      "onboard_time": 1661511630,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166697,
+      "num": 166697,
+      "word": "重庆山火救援手绘指挥图曝光",
+      "onboard_time": 1661512591,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162388,
       "num": 162388,
       "word": "明日方舟",
@@ -1875,14 +1915,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 146390,
-      "num": 146390,
-      "word": "重庆山火救援手绘指挥图曝光",
-      "onboard_time": 1661512591,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139270,
       "num": 139270,
       "word": "电竞经理",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1661428671,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118642,
+      "num": 118642,
+      "word": "JackeyLove泽丽",
+      "onboard_time": 1661513668,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 113787,
