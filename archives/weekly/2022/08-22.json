@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661483672156,
+  "endTime": 1661489407350,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -387,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2244165,
+      "num": 2244165,
+      "word": "科比妻子捐出1600万赔偿金",
+      "onboard_time": 1661482111,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 2231151,
       "num": 2231151,
       "word": "张亮麻辣烫碗有污垢被质疑不刷碗",
@@ -473,6 +481,14 @@
       "onboard_time": 1661438866,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2048909,
+      "num": 1723333,
+      "word": "转发这个那英",
+      "onboard_time": 1661477372,
+      "rank": 3,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 2028210,
@@ -587,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1763608,
-      "num": 1763608,
-      "word": "科比妻子捐出1600万赔偿金",
-      "onboard_time": 1661482111,
-      "rank": 3,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 1754277,
       "num": 1754277,
       "word": "为什么漂亮女孩成长更不容易",
@@ -617,14 +625,6 @@
       "onboard_time": 1661425854,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1723333,
-      "num": 1723333,
-      "word": "转发这个那英",
-      "onboard_time": 1661477372,
-      "rank": 3,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1715852,
@@ -1227,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1140882,
+      "num": 1140882,
+      "word": "南京网红猕猴归山受挫挨了一顿揍",
+      "onboard_time": 1661487157,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1137173,
       "num": 1137173,
       "word": "网传仙剑七主演暂定孟子义邓为",
@@ -1395,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046922,
+      "num": 720771,
+      "word": "TWICE今天回归",
+      "onboard_time": 1661487095,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1046620,
       "num": 1046620,
       "word": "佩洛西丈夫因酒驾被判囚5天",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1661149591,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1027707,
+      "num": 713812,
+      "word": "赵丽颖千禧风造型花絮",
+      "onboard_time": 1661488595,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1018843,
@@ -1667,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 918759,
+      "num": 918759,
+      "word": "张杰演唱会延期",
+      "onboard_time": 1661483674,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 908911,
       "num": 908911,
       "word": "贵州赤水山火",
@@ -1827,6 +1859,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 851018,
+      "num": 698452,
+      "word": "吴磊晒戍边版霍无伤视频",
+      "onboard_time": 1661488778,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 850622,
+      "num": 850622,
+      "word": "苍兰诀连番外都拍了",
+      "onboard_time": 1661483071,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 846271,
       "num": 846271,
       "word": "1岁婴儿吞5枚电池10小时后取出",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1661377391,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826267,
+      "num": 437054,
+      "word": "张元英全身新闻生图",
+      "onboard_time": 1661485294,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 822656,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1661211145,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782710,
+      "num": 431719,
+      "word": "王鹤棣费加罗男士八月刊封面预告",
+      "onboard_time": 1661487395,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 779848,
@@ -2627,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621422,
+      "num": 621422,
+      "word": "地球上的石油到底还能用多少年",
+      "onboard_time": 1661482532,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620515,
       "num": 620515,
       "word": "15岁少年公交旅行4天9城花153元",
@@ -2697,6 +2769,14 @@
       "onboard_time": 1661226934,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 614208,
+      "num": 614208,
+      "word": "乾隆题字50次的富春山居图为赝品",
+      "onboard_time": 1661487095,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613724,
@@ -3155,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548951,
+      "num": 548951,
+      "word": "CPA会计",
+      "onboard_time": 1661485955,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 548174,
       "num": 548174,
       "word": "当事人回应从欧洲骑马回国",
@@ -3489,6 +3577,14 @@
       "onboard_time": 1661092953,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 494247,
+      "num": 494247,
+      "word": "异地恋男友三年存2460张照片送女友",
+      "onboard_time": 1661488240,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493092,
@@ -3947,6 +4043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456129,
+      "num": 429839,
+      "word": "沉香如屑网飞播出",
+      "onboard_time": 1661486674,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454593,
       "num": 454593,
       "word": "特种兵室内突击演习处处都是繁体字",
@@ -3961,6 +4065,14 @@
       "onboard_time": 1661344292,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452929,
+      "num": 452929,
+      "word": "苹果中国10年售出3.8亿台",
+      "onboard_time": 1661487935,
+      "rank": 19,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 452908,
@@ -4475,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404867,
+      "num": 404867,
+      "word": "披荆斩棘一公分组名单",
+      "onboard_time": 1661486554,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404719,
       "num": 404719,
       "word": "广州疫情防控",
@@ -4825,6 +4945,14 @@
       "onboard_time": 1661238330,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378073,
+      "num": 378073,
+      "word": "iPhone14手机膜开售",
+      "onboard_time": 1661483130,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 377910,
@@ -5203,6 +5331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 350651,
+      "num": 350651,
+      "word": "系统升级能让手机变流畅吗",
+      "onboard_time": 1661483674,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 350474,
       "num": 350474,
       "word": "唐周今晚下线",
@@ -5515,22 +5651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335638,
-      "num": 335638,
-      "word": "苍兰诀连番外都拍了",
-      "onboard_time": 1661483071,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 335508,
-      "num": 335508,
-      "word": "地球上的石油到底还能用多少年",
-      "onboard_time": 1661482532,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334583,
       "num": 261479,
       "word": "凌不疑忍泪说不悔",
@@ -5801,6 +5921,14 @@
       "onboard_time": 1661331392,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317510,
+      "num": 317510,
+      "word": "海尔兄弟诚不欺我",
+      "onboard_time": 1661485172,
+      "rank": 27,
+      "category": "其它"
     },
     {
       "raw_hot": 317239,
@@ -6187,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291278,
+      "num": 291278,
+      "word": "月升沧海",
+      "onboard_time": 1661483554,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290994,
       "num": 290994,
       "word": "749局计划2022第四季度上映",
@@ -6273,6 +6409,14 @@
       "onboard_time": 1661131890,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288389,
+      "num": 288389,
+      "word": "时代少年团夏日缤纷大片",
+      "onboard_time": 1661488537,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288191,
@@ -6465,6 +6609,14 @@
       "onboard_time": 1661175992,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280103,
+      "num": 280103,
+      "word": "学外语专业你后悔了吗",
+      "onboard_time": 1661488476,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 280000,
@@ -7097,14 +7249,6 @@
       "onboard_time": 1661236291,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256507,
-      "num": 256507,
-      "word": "iPhone14手机膜开售",
-      "onboard_time": 1661483130,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 256423,
@@ -7899,6 +8043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223935,
+      "num": 223935,
+      "word": "他们用微光铸起防火长城",
+      "onboard_time": 1661489137,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 223795,
       "num": 223795,
       "word": "晚霞",
@@ -8177,6 +8329,14 @@
       "onboard_time": 1661340934,
       "rank": 48,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 210440,
+      "num": 210440,
+      "word": "注会",
+      "onboard_time": 1661483436,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 210312,
@@ -9227,6 +9387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170407,
+      "num": 170407,
+      "word": "仙剑四重制版立项",
+      "onboard_time": 1661485356,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170356,
       "num": 170356,
       "word": "重庆中心城区核酸采样点最全信息",
@@ -9241,6 +9409,14 @@
       "onboard_time": 1661155291,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170244,
+      "num": 170244,
+      "word": "13岁女孩爱上太极闭关3年成拳师",
+      "onboard_time": 1661489256,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170218,
@@ -9459,14 +9635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159309,
-      "num": 159309,
-      "word": "月升沧海",
-      "onboard_time": 1661483554,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159293,
       "num": 159293,
       "word": "200多名武警官兵驰援重庆大足火场",
@@ -9569,14 +9737,6 @@
       "onboard_time": 1661270368,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 153087,
-      "num": 153087,
-      "word": "注会",
-      "onboard_time": 1661483436,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 152990,
@@ -10399,6 +10559,14 @@
       "num": 449733,
       "word": "新能源SUV格局该变了么",
       "onboard_time": 1661169631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3138,
+      "num": 615896,
+      "word": "家用电车续航多少刚刚好",
+      "onboard_time": 1661486437,
       "rank": 14,
       "category": "社会新闻"
     },

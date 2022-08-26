@@ -1,0 +1,410 @@
+{
+  "runTime": 1661489407350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2244165,
+        "num": 2244165,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1965874,
+        "num": 1965874,
+        "word": "专家称可以给00后增加工作强度",
+        "onboard_time": 1661478274,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106559,
+        "num": 1305203,
+        "word": "这些娃儿侠肝义胆",
+        "onboard_time": 1661402315,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2048909,
+        "num": 1226026,
+        "word": "转发这个那英",
+        "onboard_time": 1661477372,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1140882,
+        "num": 1140882,
+        "word": "南京网红猕猴归山受挫挨了一顿揍",
+        "onboard_time": 1661487157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114704,
+        "num": 1114704,
+        "word": "刘翔峰涉嫌严重违法接受监察调查",
+        "onboard_time": 1661474136,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975852,
+        "num": 975852,
+        "word": "iPhone14Pro紫色机模",
+        "onboard_time": 1661479593,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 918759,
+        "num": 918759,
+        "word": "张杰演唱会延期",
+        "onboard_time": 1661483674,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 850622,
+        "num": 850622,
+        "word": "苍兰诀连番外都拍了",
+        "onboard_time": 1661483071,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739658,
+        "num": 739658,
+        "word": "遇到事00后是真能支棱起来",
+        "onboard_time": 1661471973,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1046922,
+        "num": 720771,
+        "word": "TWICE今天回归",
+        "onboard_time": 1661487095,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027707,
+        "num": 713812,
+        "word": "赵丽颖千禧风造型花絮",
+        "onboard_time": 1661488595,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 851018,
+        "num": 698452,
+        "word": "吴磊晒戍边版霍无伤视频",
+        "onboard_time": 1661488778,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621422,
+        "num": 621422,
+        "word": "地球上的石油到底还能用多少年",
+        "onboard_time": 1661482532,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3138,
+        "num": 615896,
+        "word": "家用电车续航多少刚刚好",
+        "onboard_time": 1661486437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614208,
+        "num": 614208,
+        "word": "乾隆题字50次的富春山居图为赝品",
+        "onboard_time": 1661487095,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548951,
+        "num": 548951,
+        "word": "CPA会计",
+        "onboard_time": 1661485955,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 499060,
+        "num": 499060,
+        "word": "这样放屁能静音",
+        "onboard_time": 1661481092,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494247,
+        "num": 494247,
+        "word": "异地恋男友三年存2460张照片送女友",
+        "onboard_time": 1661488240,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452929,
+        "num": 452929,
+        "word": "苹果中国10年售出3.8亿台",
+        "onboard_time": 1661487935,
+        "rank": 19,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 826267,
+        "num": 437054,
+        "word": "张元英全身新闻生图",
+        "onboard_time": 1661485294,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 782710,
+        "num": 431719,
+        "word": "王鹤棣费加罗男士八月刊封面预告",
+        "onboard_time": 1661487395,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 456129,
+        "num": 429839,
+        "word": "沉香如屑网飞播出",
+        "onboard_time": 1661486674,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404867,
+        "num": 404867,
+        "word": "披荆斩棘一公分组名单",
+        "onboard_time": 1661486554,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378073,
+        "num": 378073,
+        "word": "iPhone14手机膜开售",
+        "onboard_time": 1661483130,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 360743,
+        "num": 360743,
+        "word": "什么是以火灭火",
+        "onboard_time": 1661478635,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350651,
+        "num": 350651,
+        "word": "系统升级能让手机变流畅吗",
+        "onboard_time": 1661483674,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 317510,
+        "num": 317510,
+        "word": "海尔兄弟诚不欺我",
+        "onboard_time": 1661485172,
+        "rank": 27,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 311185,
+        "num": 311185,
+        "word": "广西人才懂的六元自助餐",
+        "onboard_time": 1661477791,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295889,
+        "num": 295889,
+        "word": "外卖员碰坏蛋糕顾客暖心谢绝赔偿",
+        "onboard_time": 1661474856,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360810,
+        "num": 295245,
+        "word": "鞠婧祎澹台台",
+        "onboard_time": 1661480131,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291278,
+        "num": 291278,
+        "word": "月升沧海",
+        "onboard_time": 1661483554,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288389,
+        "num": 288389,
+        "word": "时代少年团夏日缤纷大片",
+        "onboard_time": 1661488537,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288109,
+        "num": 288109,
+        "word": "四川新增本土确诊27例无症状39例",
+        "onboard_time": 1661480373,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283318,
+        "num": 283318,
+        "word": "工人划伤动脉路人送医垫钱抢救",
+        "onboard_time": 1661481394,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 280103,
+        "num": 280103,
+        "word": "学外语专业你后悔了吗",
+        "onboard_time": 1661488476,
+        "rank": 35,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 247017,
+        "num": 247017,
+        "word": "司机得知重庆小伙去做志愿者后免单",
+        "onboard_time": 1661478390,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 223935,
+        "num": 223935,
+        "word": "他们用微光铸起防火长城",
+        "onboard_time": 1661489137,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 210440,
+        "num": 210440,
+        "word": "注会",
+        "onboard_time": 1661483436,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191691,
+        "num": 191691,
+        "word": "7岁娃花1个月作3米画不舍参赛大哭",
+        "onboard_time": 1661470167,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241111,
+        "num": 189064,
+        "word": "野球帝张照洋高铁站遭到殴打",
+        "onboard_time": 1661470107,
+        "rank": 40,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 234668,
+        "num": 185131,
+        "word": "王一博时尚COSMO金九封面",
+        "onboard_time": 1661482891,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176088,
+        "num": 176088,
+        "word": "重庆消防员灭火后让人心疼的样子",
+        "onboard_time": 1661482293,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170407,
+        "num": 170407,
+        "word": "仙剑四重制版立项",
+        "onboard_time": 1661485356,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170244,
+        "num": 170244,
+        "word": "13岁女孩爱上太极闭关3年成拳师",
+        "onboard_time": 1661489256,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164867,
+        "num": 164867,
+        "word": "河北香河发现一例初筛阳性",
+        "onboard_time": 1661478154,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157993,
+        "num": 157993,
+        "word": "美人鱼原型在中国灭绝",
+        "onboard_time": 1661442163,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148478,
+        "num": 148478,
+        "word": "重庆山火",
+        "onboard_time": 1661434191,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142411,
+        "num": 142411,
+        "word": "河南新增1例本土确诊67例无症状",
+        "onboard_time": 1661480131,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138867,
+        "num": 138867,
+        "word": "大学生邮30多个包裹到校被在线催收",
+        "onboard_time": 1661469384,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民空军同框照帅到飞起#"
+    }
+  }
+}
