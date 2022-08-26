@@ -1,0 +1,410 @@
+{
+  "runTime": 1661497146438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3514657,
+        "num": 3514657,
+        "word": "林志颖车祸后首发文",
+        "onboard_time": 1661489917,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 882582,
+        "num": 882582,
+        "word": "13岁女孩爱上太极闭关3年成拳师",
+        "onboard_time": 1661489256,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74962,
+        "num": 856673,
+        "word": "这些娃儿侠肝义胆",
+        "onboard_time": 1661402315,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2104350,
+        "num": 854733,
+        "word": "陈若仪 终于等到小志回家",
+        "onboard_time": 1661496032,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846044,
+        "num": 846044,
+        "word": "twice空降",
+        "onboard_time": 1661492912,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 787994,
+        "num": 787994,
+        "word": "异地恋男友三年存2460张照片送女友",
+        "onboard_time": 1661488240,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732357,
+        "num": 732357,
+        "word": "90后男子长期宅家久坐后肺梗",
+        "onboard_time": 1661491417,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628945,
+        "num": 628945,
+        "word": "南京网红猕猴归山受挫挨了一顿揍",
+        "onboard_time": 1661487157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547977,
+        "num": 547977,
+        "word": "科比妻子捐出1600万赔偿金",
+        "onboard_time": 1661482111,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 465761,
+        "num": 465761,
+        "word": "重庆20个区县下雨",
+        "onboard_time": 1661493452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693786,
+        "num": 463604,
+        "word": "虞书欣演唱会修命簿",
+        "onboard_time": 1661490217,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622962,
+        "num": 452226,
+        "word": "林娜琏镜头",
+        "onboard_time": 1661495550,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 595369,
+        "num": 447690,
+        "word": "唐九洲被魏大勋爸爸眼神制裁",
+        "onboard_time": 1661492793,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564182,
+        "num": 431718,
+        "word": "专家称可以给00后增加工作强度",
+        "onboard_time": 1661478274,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107580,
+        "num": 423765,
+        "word": "这些人固若长城这座城气节铮铮",
+        "onboard_time": 1661493633,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422287,
+        "num": 422287,
+        "word": "广东人已经摸清了台风的套路",
+        "onboard_time": 1661492195,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396032,
+        "num": 396032,
+        "word": "歼20急转大仰角穿云画面",
+        "onboard_time": 1661491177,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 373944,
+        "num": 373944,
+        "word": "iPhone14Pro紫色机模",
+        "onboard_time": 1661479593,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 342334,
+        "num": 342334,
+        "word": "三星堆青铜神树上爬有壁虎",
+        "onboard_time": 1661494954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338908,
+        "num": 338908,
+        "word": "乾隆题字50次的富春山居图为赝品",
+        "onboard_time": 1661487095,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549934,
+        "num": 335354,
+        "word": "赵丽颖千禧风造型花絮",
+        "onboard_time": 1661488595,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 517304,
+        "num": 330601,
+        "word": "林书豪道歉",
+        "onboard_time": 1661496450,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418963,
+        "num": 324465,
+        "word": "颜淡应渊28集不见了",
+        "onboard_time": 1661496392,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355570,
+        "num": 319421,
+        "word": "苏有朋说干掉初代哥哥组",
+        "onboard_time": 1661494891,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318338,
+        "num": 318338,
+        "word": "苹果中国10年售出3.8亿台",
+        "onboard_time": 1661487935,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 283211,
+        "num": 283211,
+        "word": "震撼航拍看重庆救援的人有多少",
+        "onboard_time": 1661493093,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 236614,
+        "num": 236614,
+        "word": "科学家发现系外水世界",
+        "onboard_time": 1661489441,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227121,
+        "num": 227121,
+        "word": "证监会强制执行乐视网2.4亿罚款",
+        "onboard_time": 1661491177,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 217272,
+        "num": 217272,
+        "word": "这样放屁能静音",
+        "onboard_time": 1661481092,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216527,
+        "num": 216527,
+        "word": "CPA会计",
+        "onboard_time": 1661485955,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316201,
+        "num": 212316,
+        "word": "tangoz让姜小果齐颂支棱起来",
+        "onboard_time": 1661495309,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315116,
+        "num": 207798,
+        "word": "吴磊晒戍边版霍无伤视频",
+        "onboard_time": 1661488778,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300157,
+        "num": 207204,
+        "word": "转发这个那英",
+        "onboard_time": 1661477372,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 292777,
+        "num": 198604,
+        "word": "杨洋未来都市感皮衣造型",
+        "onboard_time": 1661495730,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198009,
+        "num": 198009,
+        "word": "河北新增无症状感染者12例",
+        "onboard_time": 1661495730,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184781,
+        "num": 184781,
+        "word": "见过最可爱的笨蛋小猫",
+        "onboard_time": 1661495192,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 184774,
+        "num": 184774,
+        "word": "学外语专业你后悔了吗",
+        "onboard_time": 1661488476,
+        "rank": 36,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 172089,
+        "num": 172089,
+        "word": "成都欢乐谷今起暂停开放",
+        "onboard_time": 1661490514,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 149138,
+        "num": 149138,
+        "word": "什么是以火灭火",
+        "onboard_time": 1661478635,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148313,
+        "num": 148313,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1661496871,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285487,
+        "num": 142731,
+        "word": "非正式会谈又有泰国人了",
+        "onboard_time": 1661492370,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136513,
+        "num": 136513,
+        "word": "iPhone14手机膜开售",
+        "onboard_time": 1661483130,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126957,
+        "num": 126957,
+        "word": "四川新增本土确诊27例无症状39例",
+        "onboard_time": 1661480373,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126023,
+        "num": 126023,
+        "word": "这就是了不起的中国人",
+        "onboard_time": 1661493032,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 125498,
+        "num": 125498,
+        "word": "地球上的石油到底还能用多少年",
+        "onboard_time": 1661482532,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110084,
+        "num": 110084,
+        "word": "救火志愿者回家第一句问妻子帅不帅",
+        "onboard_time": 1661490040,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107518,
+        "num": 107518,
+        "word": "刘翔峰涉嫌严重违法接受监察调查",
+        "onboard_time": 1661474136,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470697,
+        "num": 102563,
+        "word": "李汶翰说要打杜华",
+        "onboard_time": 1661497110,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93425,
+        "num": 93425,
+        "word": "遇到事00后是真能支棱起来",
+        "onboard_time": 1661471973,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 89580,
+        "num": 89580,
+        "word": "他们用微光铸起防火长城",
+        "onboard_time": 1661489137,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同构建全球发展共同体#"
+    }
+  }
+}

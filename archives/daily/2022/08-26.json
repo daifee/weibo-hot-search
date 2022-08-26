@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661496504870,
+  "endTime": 1661497146438,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -57,6 +57,14 @@
       "onboard_time": 1661479593,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2104350,
+      "num": 854733,
+      "word": "陈若仪 终于等到小志回家",
+      "onboard_time": 1661496032,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2048909,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 830550,
-      "num": 462367,
-      "word": "陈若仪 终于等到小志回家",
-      "onboard_time": 1661496032,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 826267,
       "num": 437054,
       "word": "张元英全身新闻生图",
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732357,
+      "num": 732357,
+      "word": "90后男子长期宅家久坐后肺梗",
+      "onboard_time": 1661491417,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722936,
       "num": 722936,
       "word": "男子华莱士汉堡中吃出2只炸熟蟑螂",
@@ -273,14 +281,6 @@
       "onboard_time": 1661492793,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 653185,
-      "num": 653185,
-      "word": "90后男子长期宅家久坐后肺梗",
-      "onboard_time": 1661491417,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652480,
@@ -313,6 +313,14 @@
       "onboard_time": 1661433597,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622962,
+      "num": 452226,
+      "word": "林娜琏镜头",
+      "onboard_time": 1661495550,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 621422,
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 538089,
-      "num": 322322,
-      "word": "林娜琏镜头",
-      "onboard_time": 1661495550,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 520926,
       "num": 520926,
       "word": "程少商与过去和解",
@@ -401,6 +401,14 @@
       "onboard_time": 1661490217,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 517304,
+      "num": 330601,
+      "word": "林书豪道歉",
+      "onboard_time": 1661496450,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 489792,
@@ -467,20 +475,28 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 470697,
+      "num": 102563,
+      "word": "李汶翰说要打杜华",
+      "onboard_time": 1661497110,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 465761,
+      "num": 465761,
+      "word": "重庆20个区县下雨",
+      "onboard_time": 1661493452,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464517,
       "num": 358878,
       "word": "非正式会谈又有泰国人了",
       "onboard_time": 1661492370,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 464227,
-      "num": 464227,
-      "word": "重庆20个区县下雨",
-      "onboard_time": 1661493452,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463230,
@@ -523,12 +539,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 422287,
+      "num": 422287,
+      "word": "广东人已经摸清了台风的套路",
+      "onboard_time": 1661492195,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421569,
       "num": 421569,
       "word": "张照洋",
       "onboard_time": 1661468843,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 418963,
+      "num": 324465,
+      "word": "颜淡应渊28集不见了",
+      "onboard_time": 1661496392,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 414776,
@@ -563,14 +595,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 396035,
-      "num": 396035,
-      "word": "广东人已经摸清了台风的套路",
-      "onboard_time": 1661492195,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383400,
       "num": 313626,
       "word": "tangoz让姜小果齐颂支棱起来",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 380774,
-      "num": 311393,
+      "num": 319421,
       "word": "苏有朋说干掉初代哥哥组",
       "onboard_time": 1661494891,
       "rank": 22,
@@ -673,6 +697,14 @@
       "onboard_time": 1661437607,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342334,
+      "num": 342334,
+      "word": "三星堆青铜神树上爬有壁虎",
+      "onboard_time": 1661494954,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336232,
@@ -779,20 +811,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 286273,
-      "num": 286273,
-      "word": "三星堆青铜神树上爬有壁虎",
-      "onboard_time": 1661494954,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283453,
-      "num": 145614,
-      "word": "颜淡应渊28集不见了",
-      "onboard_time": 1661496392,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 283211,
+      "num": 283211,
+      "word": "震撼航拍看重庆救援的人有多少",
+      "onboard_time": 1661493093,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 281454,
@@ -801,14 +825,6 @@
       "onboard_time": 1661492973,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279471,
-      "num": 279471,
-      "word": "震撼航拍看重庆救援的人有多少",
-      "onboard_time": 1661493093,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 276418,
@@ -1035,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198009,
+      "num": 198009,
+      "word": "河北新增无症状感染者12例",
+      "onboard_time": 1661495730,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196531,
       "num": 196531,
       "word": "央视镜头下的中国乡村有多美",
@@ -1099,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184781,
+      "num": 184781,
+      "word": "见过最可爱的笨蛋小猫",
+      "onboard_time": 1661495192,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 184239,
       "num": 184239,
       "word": "三门峡新增本土无症状59例",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1661425854,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174934,
-      "num": 174934,
-      "word": "见过最可爱的笨蛋小猫",
-      "onboard_time": 1661495192,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 173470,
@@ -1227,12 +1251,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147871,
-      "num": 147871,
-      "word": "河北新增无症状感染者12例",
-      "onboard_time": 1661495730,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 148313,
+      "num": 148313,
+      "word": "朋友圈没有了生活的痕迹",
+      "onboard_time": 1661496871,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 133508,
@@ -1267,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107580,
+      "num": 468608,
+      "word": "这些人固若长城这座城气节铮铮",
+      "onboard_time": 1661493633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106559,
       "num": 1963962,
       "word": "这些娃儿侠肝义胆",
@@ -1275,28 +1307,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 102596,
-      "num": 468608,
-      "word": "这些人固若长城这座城气节铮铮",
-      "onboard_time": 1661493633,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101806,
       "num": 101806,
       "word": "侠客岛评刘翔峰事件",
       "onboard_time": 1661446466,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98357,
-      "num": 98357,
-      "word": "林书豪道歉",
-      "onboard_time": 1661496450,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 75268,
