@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661519084717,
+  "endTime": 1661521170885,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -107,11 +107,27 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1924409,
+      "num": 269532,
+      "word": "虾系明星",
+      "onboard_time": 1661519372,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1898215,
       "num": 1242997,
       "word": "男子强行拖拽怀孕5个月妻子",
       "onboard_time": 1661498491,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1679727,
+      "num": 1679727,
+      "word": "南京女大学生被害案凶手拒不认罪",
+      "onboard_time": 1661516072,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -129,14 +145,6 @@
       "onboard_time": 1661500892,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1624944,
-      "num": 1624944,
-      "word": "南京女大学生被害案凶手拒不认罪",
-      "onboard_time": 1661516072,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1526461,
@@ -201,6 +209,14 @@
       "onboard_time": 1661492912,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1184995,
+      "num": 1184995,
+      "word": "中国与美国签署审计监管合作协议",
+      "onboard_time": 1661516972,
+      "rank": 25,
+      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 1183729,
@@ -323,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 884994,
-      "num": 884994,
-      "word": "中国与美国签署审计监管合作协议",
-      "onboard_time": 1661516972,
-      "rank": 25,
-      "category": "财经,国内要闻"
-    },
-    {
       "raw_hot": 883427,
       "num": 883427,
       "word": "外卖员碰坏蛋糕顾客暖心谢绝赔偿",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735971,
+      "num": 735971,
+      "word": "冰雨火禁毒所大夫也是毒贩",
+      "onboard_time": 1661517930,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732357,
       "num": 732357,
       "word": "90后男子长期宅家久坐后肺梗",
@@ -475,14 +491,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 685315,
-      "num": 685315,
-      "word": "冰雨火禁毒所大夫也是毒贩",
-      "onboard_time": 1661517930,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 675904,
       "num": 312877,
       "word": "辰亦儒晒15年前飞轮海迪士尼合照",
@@ -497,6 +505,14 @@
       "onboard_time": 1661492793,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 663714,
+      "num": 663714,
+      "word": "4家核酸企业净利润增幅五成以上",
+      "onboard_time": 1661519732,
+      "rank": 6,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 652480,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612589,
+      "num": 612589,
+      "word": "重庆巴南人民硬核投喂子弟兵",
+      "onboard_time": 1661515771,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610131,
       "num": 610131,
       "word": "关晓彤徐梦洁友情热恋期",
@@ -569,6 +593,14 @@
       "onboard_time": 1661481092,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 588182,
+      "num": 588182,
+      "word": "女子吃霸王餐被拦下飞踢店员",
+      "onboard_time": 1661516911,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581747,
@@ -643,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 525320,
-      "num": 525320,
-      "word": "重庆巴南人民硬核投喂子弟兵",
-      "onboard_time": 1661515771,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 520926,
       "num": 520926,
       "word": "程少商与过去和解",
@@ -665,6 +689,14 @@
       "onboard_time": 1661490217,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 519555,
+      "num": 519555,
+      "word": "世界首个龙眼与荔枝杂交新品种",
+      "onboard_time": 1661509168,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 503245,
@@ -835,14 +867,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 442998,
-      "num": 442998,
-      "word": "世界首个龙眼与荔枝杂交新品种",
-      "onboard_time": 1661509168,
-      "rank": 29,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 429382,
       "num": 429382,
       "word": "苏有朋说干掉初代哥哥组",
@@ -857,6 +881,14 @@
       "onboard_time": 1661434252,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 424969,
+      "num": 424969,
+      "word": "颖儿上一次演讨人厌角色还是夏冬春",
+      "onboard_time": 1661515532,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 422287,
@@ -905,6 +937,14 @@
       "onboard_time": 1661486554,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404792,
+      "num": 404792,
+      "word": "这学能不能不开了",
+      "onboard_time": 1661519251,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 397919,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1661481153,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 357006,
+      "num": 357006,
+      "word": "乳状云的压迫感太强了",
+      "onboard_time": 1661517749,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 356597,
@@ -1187,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318994,
+      "num": 268140,
+      "word": "如何看待沉香如屑的爱情观",
+      "onboard_time": 1661520212,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317510,
       "num": 317510,
       "word": "海尔兄弟诚不欺我",
@@ -1227,6 +1283,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 300007,
+      "num": 267492,
+      "word": "玫瑰之战",
+      "onboard_time": 1661518892,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299098,
       "num": 299098,
       "word": "唐周要泡三天水了",
@@ -1251,12 +1315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294011,
-      "num": 187874,
-      "word": "颖儿上一次演讨人厌角色还是夏冬春",
-      "onboard_time": 1661515532,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 294014,
+      "num": 294014,
+      "word": "消费券",
+      "onboard_time": 1661518769,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292460,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1661511630,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289552,
-      "num": 186249,
-      "word": "玫瑰之战",
-      "onboard_time": 1661518892,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 288389,
@@ -1419,6 +1475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270410,
+      "num": 270410,
+      "word": "重庆森林火灾各处明火已全部扑灭",
+      "onboard_time": 1661520812,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267205,
+      "num": 171089,
+      "word": "欧豪在胆小鬼里左耳被炸",
+      "onboard_time": 1661519610,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263337,
       "num": 263337,
       "word": "河北新增无症状感染者12例",
@@ -1433,14 +1505,6 @@
       "onboard_time": 1661438207,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261790,
-      "num": 261790,
-      "word": "女子吃霸王餐被拦下飞踢店员",
-      "onboard_time": 1661516911,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261562,
@@ -1507,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249691,
+      "num": 249691,
+      "word": "王者荣耀",
+      "onboard_time": 1661520513,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248575,
       "num": 248575,
       "word": "河南新增1例本土确诊67例无症状",
@@ -1568,6 +1640,14 @@
       "word": "救火志愿者回家第一句问妻子帅不帅",
       "onboard_time": 1661490040,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236643,
+      "num": 919695,
+      "word": "这道防火长城坚不可摧",
+      "onboard_time": 1661518647,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1753,14 +1833,6 @@
       "onboard_time": 1661479834,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198504,
-      "num": 198504,
-      "word": "乳状云的压迫感太强了",
-      "onboard_time": 1661517749,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 198309,
@@ -1995,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166138,
-      "num": 166138,
-      "word": "消费券",
-      "onboard_time": 1661518769,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162388,
       "num": 162388,
       "word": "明日方舟",
@@ -2123,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122440,
+      "num": 122440,
+      "word": "南京女大学生案主犯要求精神鉴定被驳回",
+      "onboard_time": 1661520697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118642,
       "num": 118642,
       "word": "JackeyLove泽丽",
@@ -2185,14 +2257,6 @@
       "onboard_time": 1661508692,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 78809,
-      "num": 914702,
-      "word": "这道防火长城坚不可摧",
-      "onboard_time": 1661518647,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75268,
