@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661531479051,
+  "endTime": 1661532870984,
   "band_list": [
     {
       "raw_hot": 3946998,
@@ -27,11 +27,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 899348,
-      "num": 406106,
+      "raw_hot": 1049021,
+      "num": 1049021,
       "word": "卫健委通报刘翔峰有关问题",
       "onboard_time": 1661528553,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951041,
+      "num": 951041,
+      "word": "警方通报一女子在烧烤店被砍伤",
+      "onboard_time": 1661531545,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1661522790,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670489,
+      "num": 670489,
+      "word": "苍兰诀9月17日直播见面会",
+      "onboard_time": 1661531545,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 625874,
@@ -91,6 +107,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 463823,
+      "num": 463823,
+      "word": "这种舍友是真的存在吗",
+      "onboard_time": 1661528494,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 411606,
       "num": 405618,
       "word": "千万不要把存款告诉别人",
@@ -115,20 +139,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 390113,
+      "num": 390113,
+      "word": "鹿晗梦寐之地",
+      "onboard_time": 1661532264,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387367,
       "num": 296879,
       "word": "蔡徐坤为重庆捐赠救灾物资",
       "onboard_time": 1661525854,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 387118,
-      "num": 387118,
-      "word": "这种舍友是真的存在吗",
-      "onboard_time": 1661528494,
-      "rank": 13,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 380816,
@@ -145,6 +169,14 @@
       "onboard_time": 1661525555,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 352270,
+      "num": 352270,
+      "word": "谢谢初级会计成绩",
+      "onboard_time": 1661529451,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 349799,
@@ -171,16 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322642,
-      "num": 322642,
-      "word": "谢谢初级会计成绩",
-      "onboard_time": 1661529451,
-      "rank": 17,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 311851,
-      "num": 928623,
+      "num": 964123,
       "word": "这道防火长城坚不可摧",
       "onboard_time": 1661518647,
       "rank": 2,
@@ -401,6 +425,22 @@
       "onboard_time": 1661521170,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113754,
+      "num": 113754,
+      "word": "苹果目标是产品不用地球任何资源",
+      "onboard_time": 1661532504,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 92774,
+      "num": 92774,
+      "word": "唐凯战胜丹勒夺冠",
+      "onboard_time": 1661527953,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

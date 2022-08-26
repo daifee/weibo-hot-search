@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661531479051,
+  "endTime": 1661532870984,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -1611,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1049021,
+      "num": 1049021,
+      "word": "卫健委通报刘翔峰有关问题",
+      "onboard_time": 1661528553,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047705,
       "num": 548418,
       "word": "虞书欣演唱会修命簿",
@@ -1907,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951041,
+      "num": 951041,
+      "word": "警方通报一女子在烧烤店被砍伤",
+      "onboard_time": 1661531545,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941225,
       "num": 941225,
       "word": "龚俊乔欣沉睡花园开分7",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1661411608,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 899348,
-      "num": 406106,
-      "word": "卫健委通报刘翔峰有关问题",
-      "onboard_time": 1661528553,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897339,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1661314412,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 670489,
+      "num": 670489,
+      "word": "苍兰诀9月17日直播见面会",
+      "onboard_time": 1661531545,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 668795,
@@ -4603,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463823,
+      "num": 463823,
+      "word": "这种舍友是真的存在吗",
+      "onboard_time": 1661528494,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 463230,
       "num": 463230,
       "word": "科学家发现系外水世界",
@@ -5499,6 +5523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390113,
+      "num": 390113,
+      "word": "鹿晗梦寐之地",
+      "onboard_time": 1661532264,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389286,
       "num": 389286,
       "word": "AG遗憾淘汰",
@@ -5521,14 +5553,6 @@
       "onboard_time": 1661212648,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 387118,
-      "num": 387118,
-      "word": "这种舍友是真的存在吗",
-      "onboard_time": 1661528494,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 386718,
@@ -6129,6 +6153,14 @@
       "onboard_time": 1661518647,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352270,
+      "num": 352270,
+      "word": "谢谢初级会计成绩",
+      "onboard_time": 1661529451,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 352246,
@@ -6777,14 +6809,6 @@
       "onboard_time": 1661482174,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322642,
-      "num": 322642,
-      "word": "谢谢初级会计成绩",
-      "onboard_time": 1661529451,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 322494,
@@ -11769,6 +11793,14 @@
       "onboard_time": 1661510970,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113754,
+      "num": 113754,
+      "word": "苹果目标是产品不用地球任何资源",
+      "onboard_time": 1661532504,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 113092,
