@@ -1,6 +1,6 @@
 {
   "startTime": 1661445045946,
-  "endTime": 1661527490002,
+  "endTime": 1661528538023,
   "band_list": [
     {
       "raw_hot": 5415910,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2113595,
-      "num": 365733,
+      "num": 367453,
       "word": "虾系明星",
       "onboard_time": 1661519372,
       "rank": 20,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1101682,
+      "num": 466720,
+      "word": "取快递收到死亡小老虎",
+      "onboard_time": 1661527410,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047705,
       "num": 548418,
       "word": "虞书欣演唱会修命簿",
@@ -353,6 +361,14 @@
       "onboard_time": 1661510970,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 925963,
+      "num": 925963,
+      "word": "艾辰事件造谣者公开道歉",
+      "onboard_time": 1661526332,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 925166,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 711307,
-      "num": 363678,
+      "num": 364712,
       "word": "蔡徐坤为重庆捐赠救灾物资",
       "onboard_time": 1661525854,
       "rank": 21,
@@ -667,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 589027,
-      "num": 467952,
-      "word": "艾辰事件造谣者公开道歉",
-      "onboard_time": 1661526332,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 581747,
       "num": 581747,
       "word": "野球帝张照洋高铁站遭到殴打",
@@ -744,6 +752,14 @@
       "word": "快乐再出发豆瓣升至9.7分",
       "onboard_time": 1661439708,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 540904,
+      "num": 540904,
+      "word": "蒲熠星丁若虚被队员开除",
+      "onboard_time": 1661527293,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468705,
+      "num": 468705,
+      "word": "公章千万不能随便用印泥",
+      "onboard_time": 1661523875,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
       "raw_hot": 468238,
       "num": 468238,
       "word": "颜淡应渊28集不见了",
@@ -961,14 +985,6 @@
       "onboard_time": 1661486674,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456030,
-      "num": 456030,
-      "word": "公章千万不能随便用印泥",
-      "onboard_time": 1661523875,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 446855,
@@ -1035,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411820,
+      "num": 411820,
+      "word": "黑话律师",
+      "onboard_time": 1661526992,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410751,
       "num": 410751,
       "word": "河北香河发现一例初筛阳性",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1661486554,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400958,
+      "num": 400958,
+      "word": "青白蛇皮肤优化",
+      "onboard_time": 1661523993,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 397919,
@@ -1091,6 +1123,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 385018,
+      "num": 385018,
+      "word": "wayward",
+      "onboard_time": 1661526992,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384451,
       "num": 384451,
       "word": "北京多所高校加强校门管理",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1661508211,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381977,
+      "num": 381977,
+      "word": "债务人欠钱未还12只猫被法院拍卖",
+      "onboard_time": 1661525854,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381355,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1661525672,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 370000,
-      "num": 370000,
-      "word": "青白蛇皮肤优化",
-      "onboard_time": 1661523993,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 369577,
@@ -1251,12 +1291,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 353914,
-      "num": 281932,
-      "word": "蒲熠星丁若虚被队员开除",
-      "onboard_time": 1661527293,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 352284,
+      "num": 1568014,
+      "word": "这道防火长城坚不可摧",
+      "onboard_time": 1661518647,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352246,
@@ -1273,14 +1313,6 @@
       "onboard_time": 1661483674,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 348686,
-      "num": 1568014,
-      "word": "这道防火长城坚不可摧",
-      "onboard_time": 1661518647,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347958,
@@ -1379,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329018,
+      "num": 329018,
+      "word": "唐凯战胜丹勒夺冠",
+      "onboard_time": 1661527953,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326341,
       "num": 326341,
       "word": "被王頔冯雪娇气死",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1661504553,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 311691,
-      "num": 311691,
-      "word": "债务人欠钱未还12只猫被法院拍卖",
-      "onboard_time": 1661525854,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311533,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1661511630,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288625,
-      "num": 276574,
-      "word": "黑话律师",
-      "onboard_time": 1661526992,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 288389,
@@ -1707,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265132,
+      "num": 265132,
+      "word": "老师一开口还以为电视开了",
+      "onboard_time": 1661526034,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263337,
       "num": 263337,
       "word": "河北新增无症状感染者12例",
@@ -1795,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247014,
+      "num": 247014,
+      "word": "重庆人太热情了",
+      "onboard_time": 1661524653,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 246615,
       "num": 246615,
       "word": "重庆群众欢送武警官兵",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1661444732,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240185,
-      "num": 240185,
-      "word": "重庆人太热情了",
-      "onboard_time": 1661524653,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 239696,
@@ -1907,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228359,
+      "num": 228359,
+      "word": "洞洞鞋猫窝",
+      "onboard_time": 1661526814,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227926,
       "num": 193787,
       "word": "朝阳打歌中心录制上班路透",
@@ -1915,12 +1955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226824,
-      "num": 226824,
-      "word": "老师一开口还以为电视开了",
+      "raw_hot": 227863,
+      "num": 227863,
+      "word": "中餐厅",
       "onboard_time": 1661526034,
-      "rank": 37,
-      "category": "幽默"
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 225680,
@@ -1937,6 +1977,22 @@
       "onboard_time": 1661516732,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223561,
+      "num": 223561,
+      "word": "重庆志愿者排队报名上山清理垃圾",
+      "onboard_time": 1661526695,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 223470,
+      "num": 223470,
+      "word": "西大研究生奖学金按原政策执行",
+      "onboard_time": 1661526034,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 222539,
@@ -2179,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180209,
-      "num": 180209,
-      "word": "重庆志愿者排队报名上山清理垃圾",
-      "onboard_time": 1661526695,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 180073,
       "num": 180073,
       "word": "这就是了不起的中国人",
@@ -2291,14 +2339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167233,
-      "num": 167233,
-      "word": "西大研究生奖学金按原政策执行",
-      "onboard_time": 1661526034,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 167098,
       "num": 167098,
       "word": "用水浇头的重庆小伙能回家睡觉了",
@@ -2315,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162848,
+      "num": 162848,
+      "word": "外溢的小肚腩有救了",
+      "onboard_time": 1661528014,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162388,
       "num": 162388,
       "word": "明日方舟",
@@ -2329,22 +2377,6 @@
       "onboard_time": 1661504732,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156679,
-      "num": 156679,
-      "word": "取快递收到死亡小老虎",
-      "onboard_time": 1661527410,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156196,
-      "num": 156196,
-      "word": "wayward",
-      "onboard_time": 1661526992,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 155852,
@@ -2393,14 +2425,6 @@
       "onboard_time": 1661502032,
       "rank": 46,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 146434,
-      "num": 146434,
-      "word": "洞洞鞋猫窝",
-      "onboard_time": 1661526814,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 139270,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1661493633,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106830,
+      "num": 116331,
+      "word": "这种舍友是真的存在吗",
+      "onboard_time": 1661528494,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 106559,
