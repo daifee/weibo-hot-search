@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661541468072,
+  "endTime": 1661542419981,
   "band_list": [
     {
       "raw_hot": 3946998,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96444,
+      "num": 96444,
+      "word": "网逃被抓大喊我的猫怎么办",
+      "onboard_time": 1661538135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92774,
       "num": 92774,
       "word": "唐凯战胜丹勒夺冠",
@@ -467,16 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81311,
-      "num": 81311,
-      "word": "网逃被抓大喊我的猫怎么办",
-      "onboard_time": 1661538135,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59111,
-      "num": 59111,
+      "raw_hot": 76865,
+      "num": 76865,
       "word": "今年的蚊子是被热死了吗",
       "onboard_time": 1661539273,
       "rank": 48,
