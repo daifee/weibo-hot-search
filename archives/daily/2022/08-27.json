@@ -1,7 +1,15 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661585738880,
+  "endTime": 1661588801453,
   "band_list": [
+    {
+      "raw_hot": 6090220,
+      "num": 6090220,
+      "word": "不要建议",
+      "onboard_time": 1661578710,
+      "rank": 25,
+      "category": "情感"
+    },
     {
       "raw_hot": 5909812,
       "num": 1699799,
@@ -9,14 +17,6 @@
       "onboard_time": 1661557645,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 4662683,
-      "num": 4662683,
-      "word": "不要建议",
-      "onboard_time": 1661578710,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 3946998,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1283372,
+      "num": 1283372,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1661584294,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1253957,
       "num": 575706,
       "word": "王鹤棣换到了李易峰的花衬衫",
       "onboard_time": 1661578649,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1210779,
+      "num": 1210779,
+      "word": "重庆人民被云南森林消防吓到了",
+      "onboard_time": 1661584409,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1193300,
@@ -152,6 +168,22 @@
       "word": "卫健委通报刘翔峰有关问题",
       "onboard_time": 1661528553,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1047297,
+      "num": 1047297,
+      "word": "苏有朋 下次会好好用脸",
+      "onboard_time": 1661584888,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1038363,
+      "num": 1038363,
+      "word": "石家庄18人初筛阳性",
+      "onboard_time": 1661585847,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -219,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770680,
+      "num": 640868,
+      "word": "程少商星汉灿烂和月升沧海对比",
+      "onboard_time": 1661584952,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 737243,
       "num": 657544,
       "word": "母亲拉架被醉酒儿子拳打脚踢",
@@ -257,6 +297,14 @@
       "onboard_time": 1661554998,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 646327,
+      "num": 646327,
+      "word": "69岁大爷携13万跨省寻女主播",
+      "onboard_time": 1661583449,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635504,
@@ -299,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587803,
-      "num": 278832,
-      "word": "苏有朋 下次会好好用脸",
-      "onboard_time": 1661584888,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 585709,
       "num": 585709,
       "word": "突然就跟好朋友渐行渐远了",
@@ -339,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573259,
+      "num": 573259,
+      "word": "拜托了甄嬛传",
+      "onboard_time": 1661583990,
+      "rank": 21,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 562847,
       "num": 562847,
       "word": "狐妖小红娘虚拟拍摄技术",
@@ -353,14 +401,6 @@
       "onboard_time": 1661543412,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555452,
-      "num": 277551,
-      "word": "程少商星汉灿烂和月升沧海对比",
-      "onboard_time": 1661584952,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 550196,
@@ -379,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 544365,
-      "num": 544365,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1661584294,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536537,
       "num": 536537,
       "word": "8岁女孩跟医生爸爸学习缝合手术",
@@ -401,14 +433,6 @@
       "onboard_time": 1661579251,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507430,
-      "num": 272156,
-      "word": "拜托了甄嬛传",
-      "onboard_time": 1661583990,
-      "rank": 21,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 498014,
@@ -465,6 +489,14 @@
       "onboard_time": 1661528494,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 458095,
+      "num": 250222,
+      "word": "小兰花王鹤棣合照",
+      "onboard_time": 1661586629,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 453345,
@@ -547,14 +579,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 398017,
-      "num": 398017,
-      "word": "重庆人民被云南森林消防吓到了",
-      "onboard_time": 1661584409,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 390113,
       "num": 390113,
       "word": "鹿晗梦寐之地",
@@ -593,14 +617,6 @@
       "onboard_time": 1661525555,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 368144,
-      "num": 368144,
-      "word": "69岁大爷携13万跨省寻女主播",
-      "onboard_time": 1661583449,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358660,
@@ -683,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330268,
+      "num": 330268,
+      "word": "为了用这个梗 连话都不会说了啊",
+      "onboard_time": 1661584829,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329573,
       "num": 329573,
       "word": "关晓彤梅花红桃杀青剧照",
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305765,
+      "num": 305765,
+      "word": "四川人的外套可以准备起来了",
+      "onboard_time": 1661586388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302841,
       "num": 196702,
       "word": "大张伟说年轻人少上网就没有焦虑",
@@ -744,6 +776,14 @@
       "word": "唐周20岁尝遍人生8苦",
       "onboard_time": 1661581288,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299036,
+      "num": 135404,
+      "word": "玫瑰之战 烂尾",
+      "onboard_time": 1661587234,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -761,6 +801,14 @@
       "onboard_time": 1661553494,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 296065,
+      "num": 133906,
+      "word": "颜淡唐周回忆杀",
+      "onboard_time": 1661587828,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 295018,
@@ -785,6 +833,14 @@
       "onboard_time": 1661584528,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283243,
+      "num": 131436,
+      "word": "欧豪10个角色凑不出一个he",
+      "onboard_time": 1661587888,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 280303,
@@ -849,6 +905,14 @@
       "onboard_time": 1661574510,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257374,
+      "num": 257374,
+      "word": "2岁影帝小萌娃吃棒棒糖秒变脸",
+      "onboard_time": 1661583630,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255105,
@@ -971,12 +1035,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 220916,
+      "num": 220916,
+      "word": "董藩",
+      "onboard_time": 1661578289,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218710,
       "num": 216149,
       "word": "于文文拳击变装女友力",
       "onboard_time": 1661577810,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217004,
+      "num": 217004,
+      "word": "重庆龙麻子喜提新车",
+      "onboard_time": 1661586448,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216969,
@@ -1027,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198600,
-      "num": 198600,
-      "word": "2岁影帝小萌娃吃棒棒糖秒变脸",
-      "onboard_time": 1661583630,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198102,
       "num": 198102,
       "word": "鲍威尔",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1661581468,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194629,
-      "num": 194629,
-      "word": "董藩",
-      "onboard_time": 1661578289,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193854,
@@ -1195,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160106,
-      "num": 160106,
-      "word": "为了用这个梗 连话都不会说了啊",
-      "onboard_time": 1661584829,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156721,
       "num": 156721,
       "word": "乳状云的压迫感太强了",
@@ -1331,19 +1387,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123792,
+      "num": 123792,
+      "word": "给立功警犬江小八加鸡腿",
+      "onboard_time": 1661584888,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120720,
       "num": 120720,
       "word": "重庆得行",
       "onboard_time": 1661556561,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114947,
-      "num": 114947,
-      "word": "给立功警犬江小八加鸡腿",
-      "onboard_time": 1661584888,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1377,6 +1433,30 @@
       "onboard_time": 1661527953,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91452,
+      "num": 91452,
+      "word": "赵俊鹏获世锦赛铜牌",
+      "onboard_time": 1661587112,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85064,
+      "num": 85064,
+      "word": "00后边防女兵勇闯原始森林",
+      "onboard_time": 1661588606,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 74953,
+      "num": 74953,
+      "word": "CPA战略",
+      "onboard_time": 1661588786,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 73709,
