@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661609950255,
+  "endTime": 1661610956142,
   "band_list": [
     {
       "raw_hot": 6090220,
@@ -19,18 +19,18 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3946998,
-      "num": 3946998,
-      "word": "取快递收到死亡小老虎",
-      "onboard_time": 1661527410,
+      "raw_hot": 4556522,
+      "num": 4556522,
+      "word": "被误诊艾滋病5年当事人发声",
+      "onboard_time": 1661607992,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3864249,
-      "num": 3864249,
-      "word": "被误诊艾滋病5年当事人发声",
-      "onboard_time": 1661607992,
+      "raw_hot": 3946998,
+      "num": 3946998,
+      "word": "取快递收到死亡小老虎",
+      "onboard_time": 1661527410,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1947368,
+      "num": 1947368,
+      "word": "羽生结弦",
+      "onboard_time": 1661602469,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1725442,
       "num": 1725442,
       "word": "东方青苍想给息山神女当侍从",
       "onboard_time": 1661605051,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1716450,
-      "num": 1716450,
-      "word": "羽生结弦",
-      "onboard_time": 1661602469,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1642263,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1060021,
-      "num": 656857,
+      "num": 666876,
       "word": "王鹤棣哭戏",
       "onboard_time": 1661606071,
       "rank": 12,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753712,
+      "num": 753712,
+      "word": "一看就是大学生坐的车",
+      "onboard_time": 1661606071,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 751614,
       "num": 597166,
       "word": "王宝强说李斯丹妮适合演张飞",
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 656026,
-      "num": 656026,
-      "word": "一看就是大学生坐的车",
-      "onboard_time": 1661606071,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 647792,
       "num": 338546,
       "word": "kyoka把王一博吓一哆嗦",
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 632140,
-      "num": 229159,
+      "num": 287207,
       "word": "140斤的魏大勋被纸巾吊起来了",
       "onboard_time": 1661608955,
       "rank": 30,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541724,
+      "num": 541724,
+      "word": "北京WB",
+      "onboard_time": 1661609014,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 536537,
       "num": 536537,
       "word": "8岁女孩跟医生爸爸学习缝合手术",
@@ -771,6 +779,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 485057,
+      "num": 485057,
+      "word": "求求了脚趾也是会累的",
+      "onboard_time": 1661605771,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 479935,
       "num": 479935,
       "word": "天津核酸",
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 454411,
-      "num": 224076,
+      "num": 236337,
       "word": "李承铉在街舞5打了两份工",
       "onboard_time": 1661608773,
       "rank": 31,
@@ -843,28 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450346,
-      "num": 450346,
-      "word": "求求了脚趾也是会累的",
-      "onboard_time": 1661605771,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 444279,
       "num": 444279,
       "word": "辅警发现路牌歪了救人一命",
       "onboard_time": 1661597551,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432250,
-      "num": 432250,
-      "word": "北京WB",
-      "onboard_time": 1661609014,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 432201,
@@ -1355,20 +1355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290698,
+      "num": 2048596,
+      "word": "山城的灯光战胜了火光",
+      "onboard_time": 1661606432,
+      "rank": 2,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 287674,
       "num": 287674,
       "word": "90后女孩教奶奶们织毛线比基尼",
       "onboard_time": 1661584528,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283799,
-      "num": 1899780,
-      "word": "山城的灯光战胜了火光",
-      "onboard_time": 1661606432,
-      "rank": 2,
-      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 280303,
@@ -1443,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264209,
+      "num": 264209,
+      "word": "长白山下雪了",
+      "onboard_time": 1661608112,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 263177,
       "num": 179240,
       "word": "苏新皓全开麦高音",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1661591789,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261028,
+      "num": 261028,
+      "word": "懒人为了做月饼有多拼",
+      "onboard_time": 1661608893,
+      "rank": 37,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 260146,
@@ -1483,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255784,
+      "num": 231699,
+      "word": "任嘉伦学会了编绳",
+      "onboard_time": 1661609852,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255105,
       "num": 255105,
       "word": "滔搏",
       "onboard_time": 1661526214,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253238,
-      "num": 182521,
-      "word": "任嘉伦学会了编绳",
-      "onboard_time": 1661609852,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 252794,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1661572349,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249207,
-      "num": 249207,
-      "word": "长白山下雪了",
-      "onboard_time": 1661608112,
-      "rank": 26,
-      "category": "旅游"
     },
     {
       "raw_hot": 248284,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1661567847,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246822,
+      "num": 182233,
+      "word": "阿那亚",
+      "onboard_time": 1661610696,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 245380,
@@ -1723,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199215,
-      "num": 199215,
-      "word": "懒人为了做月饼有多拼",
-      "onboard_time": 1661608893,
-      "rank": 37,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 198934,
       "num": 143155,
       "word": "严浩翔针织帽怼脸照",
@@ -1771,6 +1779,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 193416,
+      "num": 193416,
+      "word": "武汉6岁女童游泳课溺亡",
+      "onboard_time": 1661610696,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 192577,
       "num": 192577,
       "word": "洞洞鞋猫窝",
@@ -1792,6 +1808,22 @@
       "word": "网逃被抓大喊我的猫怎么办",
       "onboard_time": 1661538135,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189145,
+      "num": 189145,
+      "word": "原来还有猫用奶嘴",
+      "onboard_time": 1661610036,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 187482,
+      "num": 187482,
+      "word": "天津大筛",
+      "onboard_time": 1661609914,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2121,14 +2153,6 @@
       "onboard_time": 1661597848,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111092,
-      "num": 111092,
-      "word": "天津大筛",
-      "onboard_time": 1661609914,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108660,
