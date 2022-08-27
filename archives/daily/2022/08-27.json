@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661578298032,
+  "endTime": 1661579116727,
   "band_list": [
     {
       "raw_hot": 5909812,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2080488,
-      "num": 1101007,
+      "num": 1235830,
       "word": "李承铉婚后从未怀念过单身时光",
       "onboard_time": 1661574090,
       "rank": 6,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1555833,
-      "num": 1555833,
+      "raw_hot": 1626130,
+      "num": 1626130,
       "word": "这哪是开学的高铁啊",
       "onboard_time": 1661574930,
       "rank": 36,
@@ -91,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1253957,
+      "num": 575706,
+      "word": "王鹤棣换到了李易峰的花衬衫",
+      "onboard_time": 1661578649,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1193300,
       "num": 1193300,
       "word": "这学能不能不开了",
       "onboard_time": 1661519251,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1154950,
+      "num": 1154950,
+      "word": "00后偷玛莎拉蒂从长沙开到九江",
+      "onboard_time": 1661576730,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1069303,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 657544,
+      "num": 657544,
+      "word": "母亲拉架被醉酒儿子拳打脚踢",
+      "onboard_time": 1661576189,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 625874,
       "num": 625874,
       "word": "朋友圈没有了生活的痕迹",
@@ -192,14 +216,6 @@
       "word": "女大学生被害案凶手还计划杀5人",
       "onboard_time": 1661567068,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617586,
-      "num": 617586,
-      "word": "00后偷玛莎拉蒂从长沙开到九江",
-      "onboard_time": 1661576730,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 577073,
-      "num": 577073,
-      "word": "母亲拉架被醉酒儿子拳打脚踢",
-      "onboard_time": 1661576189,
+      "raw_hot": 562847,
+      "num": 562847,
+      "word": "狐妖小红娘虚拟拍摄技术",
+      "onboard_time": 1661578590,
       "rank": 11,
-      "category": "社会负面"
+      "category": "影视"
     },
     {
       "raw_hot": 558429,
@@ -321,6 +337,14 @@
       "onboard_time": 1661573429,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466381,
+      "num": 466381,
+      "word": "艾热王以太婚礼一条龙曲库",
+      "onboard_time": 1661578349,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 463823,
@@ -547,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305270,
+      "num": 228012,
+      "word": "郑秀妍晒与何炅合照",
+      "onboard_time": 1661578529,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298768,
       "num": 298768,
       "word": "老师一开口还以为电视开了",
@@ -699,6 +731,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 218710,
+      "num": 216149,
+      "word": "于文文拳击变装女友力",
+      "onboard_time": 1661577810,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216969,
       "num": 216969,
       "word": "武汉疫情防控",
@@ -707,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216149,
-      "num": 216149,
-      "word": "于文文拳击变装女友力",
-      "onboard_time": 1661577810,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 215049,
+      "num": 215049,
+      "word": "不要建议",
+      "onboard_time": 1661578710,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 214558,
@@ -761,6 +801,22 @@
       "onboard_time": 1661525076,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196139,
+      "num": 196139,
+      "word": "一条毛巾纠正不良体态",
+      "onboard_time": 1661577690,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194629,
+      "num": 194629,
+      "word": "董藩",
+      "onboard_time": 1661578289,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192577,
@@ -835,6 +891,14 @@
       "category": "教育,财经"
     },
     {
+      "raw_hot": 171160,
+      "num": 171160,
+      "word": "熊孩子恶作剧多次敲邻居家门",
+      "onboard_time": 1661576610,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170185,
       "num": 170185,
       "word": "神十四航天员在轨种菜",
@@ -883,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160442,
-      "num": 107263,
-      "word": "董藩",
-      "onboard_time": 1661578289,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160346,
       "num": 160346,
       "word": "玫瑰之战",
@@ -931,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147303,
-      "num": 147303,
-      "word": "熊孩子恶作剧多次敲邻居家门",
-      "onboard_time": 1661576610,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147206,
       "num": 147206,
       "word": "苍兰诀Q版人物创作大赛",
@@ -953,14 +1001,6 @@
       "onboard_time": 1661509168,
       "rank": 45,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 141897,
-      "num": 141897,
-      "word": "一条毛巾纠正不良体态",
-      "onboard_time": 1661577690,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 138708,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1661556561,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116017,
+      "num": 116017,
+      "word": "没想到鱼缸还能养猫",
+      "onboard_time": 1661579011,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 101091,
