@@ -1,0 +1,410 @@
+{
+  "runTime": 1661613735946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2233196,
+        "num": 2233196,
+        "word": "虞书欣镜头外还在哭",
+        "onboard_time": 1661604031,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1695760,
+        "num": 1695760,
+        "word": "羽生结弦",
+        "onboard_time": 1661602469,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315812,
+        "num": 1336273,
+        "word": "山城的灯光战胜了火光",
+        "onboard_time": 1661606432,
+        "rank": 2,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 3692772,
+        "num": 1290485,
+        "word": "被误诊艾滋病5年当事人发声",
+        "onboard_time": 1661607992,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120633,
+        "num": 1120633,
+        "word": "女子买西瓜撕开标签下面全烂洞",
+        "onboard_time": 1661611715,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901412,
+        "num": 901412,
+        "word": "多例病例在返京途中感染",
+        "onboard_time": 1661611173,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891598,
+        "num": 891598,
+        "word": "东方青苍想给息山神女当侍从",
+        "onboard_time": 1661605051,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825088,
+        "num": 825088,
+        "word": "北京WB",
+        "onboard_time": 1661609014,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 769073,
+        "num": 769073,
+        "word": "王一栩回应苍兰诀剧情争议",
+        "onboard_time": 1661612855,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602080,
+        "num": 602080,
+        "word": "一看就是大学生坐的车",
+        "onboard_time": 1661606071,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 748459,
+        "num": 594031,
+        "word": "苍兰诀",
+        "onboard_time": 1661601387,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 636687,
+        "num": 585574,
+        "word": "王一博被舞者出场吓到的反应",
+        "onboard_time": 1661612555,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564132,
+        "num": 564132,
+        "word": "王鹤棣哭戏",
+        "onboard_time": 1661606071,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519629,
+        "num": 519629,
+        "word": "140斤的魏大勋被纸巾吊起来了",
+        "onboard_time": 1661608955,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500296,
+        "num": 500296,
+        "word": "商贩卖芹菜收入20元被罚6万6",
+        "onboard_time": 1661596587,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 459359,
+        "num": 459359,
+        "word": "女子离婚老公和婆婆伪造260万债务",
+        "onboard_time": 1661599228,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349578,
+        "num": 349578,
+        "word": "求求了脚趾也是会累的",
+        "onboard_time": 1661605771,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332971,
+        "num": 332971,
+        "word": "曼城",
+        "onboard_time": 1661611654,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754823,
+        "num": 328019,
+        "word": "建议农民进城买房专家已被多平台禁言",
+        "onboard_time": 1661592809,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274146,
+        "num": 274146,
+        "word": "女护士用男友手背练习扎针",
+        "onboard_time": 1661599530,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 745397,
+        "num": 273899,
+        "word": "父母每月发5千留孩子在家结婚",
+        "onboard_time": 1661597305,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482860,
+        "num": 272918,
+        "word": "网传星汉灿烂下周庆功宴",
+        "onboard_time": 1661606250,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397904,
+        "num": 269083,
+        "word": "沉香如屑超过40万人评分",
+        "onboard_time": 1661607572,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260571,
+        "num": 260571,
+        "word": "长白山下雪了",
+        "onboard_time": 1661608112,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1350222,
+        "num": 259955,
+        "word": "武汉6岁女童游泳课溺亡",
+        "onboard_time": 1661610696,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 253625,
+        "num": 253625,
+        "word": "懒人为了做月饼有多拼",
+        "onboard_time": 1661608893,
+        "rank": 25,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 250762,
+        "num": 250762,
+        "word": "公司要求一旦怀孕自动离职",
+        "onboard_time": 1661613394,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249038,
+        "num": 249038,
+        "word": "英超",
+        "onboard_time": 1661613514,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248794,
+        "num": 248794,
+        "word": "再身材焦虑就过分了",
+        "onboard_time": 1661611893,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168396,
+        "num": 244908,
+        "word": "消防员说第一次在救火现场吃冰棍",
+        "onboard_time": 1661598809,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 558215,
+        "num": 241758,
+        "word": "不要建议",
+        "onboard_time": 1661578710,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377249,
+        "num": 239473,
+        "word": "李承铉在街舞5打了两份工",
+        "onboard_time": 1661608773,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340919,
+        "num": 232603,
+        "word": "气运联盟",
+        "onboard_time": 1661612793,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326255,
+        "num": 229356,
+        "word": "阿那亚",
+        "onboard_time": 1661610696,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227646,
+        "num": 227646,
+        "word": "你那么讨厌 我还是喜欢你",
+        "onboard_time": 1661613575,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183156,
+        "num": 183156,
+        "word": "原来还有猫用奶嘴",
+        "onboard_time": 1661610036,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213897,
+        "num": 182285,
+        "word": "荡平水云天",
+        "onboard_time": 1661613272,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176613,
+        "num": 176613,
+        "word": "绵阳疫情防控",
+        "onboard_time": 1661605353,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174327,
+        "num": 174327,
+        "word": "回击恶评还得是北京大妈",
+        "onboard_time": 1661604750,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172573,
+        "num": 172573,
+        "word": "大学生果然都是高铁楷模",
+        "onboard_time": 1661588849,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353128,
+        "num": 172374,
+        "word": "世界在坍塌 我们在相爱",
+        "onboard_time": 1661613032,
+        "rank": 40,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 258327,
+        "num": 172308,
+        "word": "董藩回应建议农民在县城买房住",
+        "onboard_time": 1661601507,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 171415,
+        "num": 171415,
+        "word": "刘雨昕考驾照拖延症是我本人",
+        "onboard_time": 1661604569,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169497,
+        "num": 169497,
+        "word": "F1",
+        "onboard_time": 1661612134,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168915,
+        "num": 168915,
+        "word": "WB狼队巅峰对决",
+        "onboard_time": 1661612014,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166842,
+        "num": 166842,
+        "word": "辅警发现路牌歪了救人一命",
+        "onboard_time": 1661597551,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162257,
+        "num": 162257,
+        "word": "人造胚胎成功培育出大脑和心脏",
+        "onboard_time": 1661595810,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 161075,
+        "num": 161075,
+        "word": "老师停课与学生共赏七彩祥云",
+        "onboard_time": 1661600309,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 154276,
+        "num": 154276,
+        "word": "被重庆5天4夜的微博评论戳到了",
+        "onboard_time": 1661600848,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 133716,
+        "word": "当新疆的老师有多难",
+        "onboard_time": 1661600009,
+        "rank": 49,
+        "category": "幽默,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年中国网络文明大会#"
+    }
+  }
+}
