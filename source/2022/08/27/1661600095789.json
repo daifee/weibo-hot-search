@@ -1,0 +1,410 @@
+{
+  "runTime": 1661600095789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3019409,
+        "num": 3019409,
+        "word": "不要建议",
+        "onboard_time": 1661578710,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2558453,
+        "num": 2558453,
+        "word": "父母每月发5千留孩子在家结婚",
+        "onboard_time": 1661597305,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194004,
+        "num": 1977938,
+        "word": "消防员说第一次在救火现场吃冰棍",
+        "onboard_time": 1661598809,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1617059,
+        "num": 1617059,
+        "word": "建议农民进城买房专家已被多平台禁言",
+        "onboard_time": 1661592809,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335502,
+        "num": 1335502,
+        "word": "延迟开学退票费该谁承担",
+        "onboard_time": 1661594729,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 957121,
+        "num": 957121,
+        "word": "商贩卖芹菜收入20元被罚6万6",
+        "onboard_time": 1661596587,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 888045,
+        "num": 888045,
+        "word": "小兰花在东方青苍怀中灰飞烟灭",
+        "onboard_time": 1661592266,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 770923,
+        "num": 770923,
+        "word": "大学生果然都是高铁楷模",
+        "onboard_time": 1661588849,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 722591,
+        "num": 722591,
+        "word": "全世界都在等你们分手开机",
+        "onboard_time": 1661593230,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 709751,
+        "num": 709751,
+        "word": "小兰花今晚自刎",
+        "onboard_time": 1661592568,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576287,
+        "num": 576287,
+        "word": "王鹤棣对男菩萨的理解",
+        "onboard_time": 1661599290,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467324,
+        "num": 467324,
+        "word": "赵丽颖与凤行怼脸路透",
+        "onboard_time": 1661599228,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444279,
+        "num": 444279,
+        "word": "辅警发现路牌歪了救人一命",
+        "onboard_time": 1661597551,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440513,
+        "num": 440513,
+        "word": "杨幂用计算机按迪丽热巴",
+        "onboard_time": 1661582489,
+        "rank": 13,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 420201,
+        "num": 420201,
+        "word": "北京增本土新冠感染者6例",
+        "onboard_time": 1661593767,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376242,
+        "num": 376242,
+        "word": "重庆人民被云南森林消防吓到了",
+        "onboard_time": 1661584409,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 346764,
+        "num": 346764,
+        "word": "黄平县通报事业单位招考11人作弊",
+        "onboard_time": 1661595449,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 326612,
+        "num": 326612,
+        "word": "石家庄18人初筛阳性",
+        "onboard_time": 1661598328,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316874,
+        "num": 316874,
+        "word": "纯电车真能续航1000km吗",
+        "onboard_time": 1661594669,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 271657,
+        "num": 271657,
+        "word": "人造胚胎成功培育出大脑和心脏",
+        "onboard_time": 1661595810,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 397987,
+        "num": 271578,
+        "word": "冰雨火编剧说王一博让陈宇立住了",
+        "onboard_time": 1661600009,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368985,
+        "num": 270316,
+        "word": "我们的歌",
+        "onboard_time": 1661595150,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361124,
+        "num": 270140,
+        "word": "smtown",
+        "onboard_time": 1661589629,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268719,
+        "num": 268719,
+        "word": "北语混采阳性复核结果为阴",
+        "onboard_time": 1661593409,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 267237,
+        "num": 267237,
+        "word": "女子离婚老公和婆婆伪造260万债务",
+        "onboard_time": 1661599228,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360137,
+        "num": 258121,
+        "word": "王宝强说李斯丹妮适合演张飞",
+        "onboard_time": 1661594010,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246187,
+        "num": 246187,
+        "word": "北京交警通报跑山骑手坠崖事故",
+        "onboard_time": 1661593166,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 225568,
+        "num": 225568,
+        "word": "日落是最高级的浪漫",
+        "onboard_time": 1661590827,
+        "rank": 27,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 217848,
+        "num": 217848,
+        "word": "点外卖发生过的有趣经历",
+        "onboard_time": 1661594551,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210579,
+        "num": 210579,
+        "word": "6人恶意阻挠隔离期满人员返家被拘",
+        "onboard_time": 1661590409,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291352,
+        "num": 210566,
+        "word": "拜托了甄嬛传",
+        "onboard_time": 1661583990,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 231914,
+        "num": 210460,
+        "word": "马嘉祺录制我们的歌4",
+        "onboard_time": 1661591489,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210262,
+        "num": 210262,
+        "word": "程少商星汉灿烂和月升沧海对比",
+        "onboard_time": 1661584952,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175480,
+        "num": 175480,
+        "word": "曼联",
+        "onboard_time": 1661597429,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165278,
+        "num": 165278,
+        "word": "指甲上的月牙和健康有关吗",
+        "onboard_time": 1661581468,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196836,
+        "num": 164656,
+        "word": "成毅沉香如屑宽衣疗伤花絮",
+        "onboard_time": 1661597551,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163449,
+        "num": 163449,
+        "word": "女护士用男友手背练习扎针",
+        "onboard_time": 1661599530,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 30066,
+        "num": 161689,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160152,
+        "num": 160152,
+        "word": "陈雨菲首进世锦赛决赛",
+        "onboard_time": 1661597608,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159863,
+        "num": 159863,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1661588429,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190551,
+        "num": 155016,
+        "word": "你追的第一个男子组合",
+        "onboard_time": 1661590769,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147233,
+        "num": 147233,
+        "word": "别拍了快去帮帮小猫吧",
+        "onboard_time": 1661591789,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142737,
+        "num": 142737,
+        "word": "四川人的外套可以准备起来了",
+        "onboard_time": 1661586388,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133119,
+        "num": 133119,
+        "word": "原来在顺德还能这样吃鱼",
+        "onboard_time": 1661592030,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125726,
+        "num": 125726,
+        "word": "69岁大爷携13万跨省寻女主播",
+        "onboard_time": 1661583449,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104477,
+        "num": 104477,
+        "word": "当新疆的老师有多难",
+        "onboard_time": 1661600009,
+        "rank": 45,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 100499,
+        "num": 100499,
+        "word": "高诗岩转会费高达2500万",
+        "onboard_time": 1661592389,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 98100,
+        "num": 98100,
+        "word": "注会综合",
+        "onboard_time": 1661596351,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 97077,
+        "num": 97077,
+        "word": "8岁女孩跟医生爸爸学习缝合手术",
+        "onboard_time": 1661579729,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94647,
+        "num": 94647,
+        "word": "董藩",
+        "onboard_time": 1661578289,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡影都寻美京彩#"
+    }
+  }
+}
