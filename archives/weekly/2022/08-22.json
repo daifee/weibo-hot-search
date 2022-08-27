@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661617736504,
+  "endTime": 1661619056249,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 728656,
-      "num": 591073,
+      "num": 598735,
       "word": "荡平水云天",
       "onboard_time": 1661613272,
       "rank": 36,
@@ -3811,6 +3811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 613505,
+      "num": 613505,
+      "word": "小胖哭了",
+      "onboard_time": 1661614892,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 612589,
       "num": 612589,
       "word": "重庆巴南人民硬核投喂子弟兵",
@@ -3849,14 +3857,6 @@
       "onboard_time": 1661583990,
       "rank": 21,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 607668,
-      "num": 607668,
-      "word": "小胖哭了",
-      "onboard_time": 1661614892,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 606630,
@@ -4545,6 +4545,14 @@
       "onboard_time": 1661395769,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 535289,
+      "num": 535289,
+      "word": "榆林官方承认芹菜案确实存在问题",
+      "onboard_time": 1661615434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535206,
@@ -5491,14 +5499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 457849,
-      "num": 457849,
-      "word": "榆林官方承认芹菜案确实存在问题",
-      "onboard_time": 1661615434,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457523,
       "num": 457523,
       "word": "两家村镇银行进入破产程序",
@@ -5689,6 +5689,14 @@
       "onboard_time": 1661351194,
       "rank": 48,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 439658,
+      "num": 439658,
+      "word": "9岁男孩因惧怕开学反复发烧",
+      "onboard_time": 1661616632,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 439630,
@@ -7179,6 +7187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 352057,
+      "num": 244061,
+      "word": "明星们的嘴巴是装了刹车吗",
+      "onboard_time": 1661615973,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351182,
       "num": 351182,
       "word": "世界小姐",
@@ -8273,14 +8289,6 @@
       "onboard_time": 1661304630,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304590,
-      "num": 244061,
-      "word": "明星们的嘴巴是装了刹车吗",
-      "onboard_time": 1661615973,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 304143,
@@ -10785,14 +10793,6 @@
       "onboard_time": 1661410887,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226149,
-      "num": 226149,
-      "word": "9岁男孩因惧怕开学反复发烧",
-      "onboard_time": 1661616632,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 226135,
@@ -13865,6 +13865,14 @@
       "onboard_time": 1661603550,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 77409,
+      "num": 77409,
+      "word": "它们必须要跟着我去上学",
+      "onboard_time": 1661618484,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 75268,
