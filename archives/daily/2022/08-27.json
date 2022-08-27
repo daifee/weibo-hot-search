@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661569304083,
+  "endTime": 1661573926179,
   "band_list": [
     {
       "raw_hot": 5909812,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1420556,
+      "num": 1420556,
+      "word": "你好星期六全员晒理想型",
+      "onboard_time": 1661569408,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1342127,
       "num": 1342127,
       "word": "女子朋友圈刷到头孢配酒跨省报警",
@@ -107,6 +115,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 777746,
+      "num": 777746,
+      "word": "四川一水下坐佛露真身",
+      "onboard_time": 1661567128,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735835,
       "num": 735835,
       "word": "女子高铁上给孩子投影无声版动画",
@@ -131,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665782,
+      "num": 665782,
+      "word": "鳄雀鳝有可能会攻击人类",
+      "onboard_time": 1661571148,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662038,
       "num": 662038,
       "word": "丁程鑫说只有赵今麦一个妹妹",
@@ -145,6 +169,14 @@
       "onboard_time": 1661496871,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 619523,
+      "num": 619523,
+      "word": "女大学生被害案凶手还计划杀5人",
+      "onboard_time": 1661567068,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603752,
@@ -211,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 500396,
-      "num": 500396,
-      "word": "四川一水下坐佛露真身",
-      "onboard_time": 1661567128,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 498014,
+      "num": 498014,
+      "word": "米卡晒长发旧照害羞住了",
+      "onboard_time": 1661569408,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 486620,
@@ -241,6 +273,14 @@
       "onboard_time": 1661519372,
       "rank": 21,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 471689,
+      "num": 471689,
+      "word": "阿乐",
+      "onboard_time": 1661569048,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 463823,
@@ -339,14 +379,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 358553,
-      "num": 358553,
-      "word": "女大学生被害案凶手还计划杀5人",
-      "onboard_time": 1661567068,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357996,
       "num": 357996,
       "word": "医生建议勿跟风藿香正气冰中式",
@@ -379,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347005,
+      "num": 347005,
+      "word": "黄景瑜拍罚罪好省妆发",
+      "onboard_time": 1661568089,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344972,
       "num": 344972,
       "word": "黑话律师",
       "onboard_time": 1661526992,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343622,
+      "num": 343622,
+      "word": "CPA审计",
+      "onboard_time": 1661569589,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 327043,
@@ -435,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298123,
+      "num": 298123,
+      "word": "人们为什么不爱看书学知识了",
+      "onboard_time": 1661572649,
+      "rank": 18,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 297192,
       "num": 297192,
       "word": "FF百名员工请愿罢免执行董事长",
@@ -467,12 +523,12 @@
       "category": "科技,影视"
     },
     {
-      "raw_hot": 278814,
-      "num": 278814,
-      "word": "黄景瑜拍罚罪好省妆发",
-      "onboard_time": 1661568089,
+      "raw_hot": 268018,
+      "num": 268018,
+      "word": "沸腾校园0828开学",
+      "onboard_time": 1661573068,
       "rank": 22,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 255105,
@@ -507,6 +563,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244375,
+      "num": 291934,
+      "word": "宁夏银川河中疑发现鳄雀鳝",
+      "onboard_time": 1661573429,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243908,
+      "num": 243908,
+      "word": "TF少年进化论第六期舞台上线",
+      "onboard_time": 1661571449,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240933,
+      "num": 240933,
+      "word": "山火刚扑灭志愿者上山捡垃圾",
+      "onboard_time": 1661571328,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 233417,
       "num": 233417,
       "word": "孙怡回归再见爱人2",
@@ -531,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228868,
+      "num": 228868,
+      "word": "任何理由都不是家暴的借口",
+      "onboard_time": 1661568028,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222608,
       "num": 222608,
       "word": "重庆志愿者排队报名上山清理垃圾",
@@ -552,6 +640,14 @@
       "word": "边境警犬巡逻嗅出毒品8公斤",
       "onboard_time": 1661565090,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201168,
+      "num": 201168,
+      "word": "不查字典不会读的地名",
+      "onboard_time": 1661568688,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -587,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192547,
+      "num": 192547,
+      "word": "武汉新增确诊1例新增无症状感染者11例",
+      "onboard_time": 1661572349,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189983,
       "num": 189983,
       "word": "网逃被抓大喊我的猫怎么办",
@@ -611,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175827,
-      "num": 175827,
-      "word": "任何理由都不是家暴的借口",
-      "onboard_time": 1661568028,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174175,
       "num": 174175,
       "word": "西藏增本土无症状419例",
@@ -627,12 +723,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171679,
+      "num": 171679,
+      "word": "CPA财管",
+      "onboard_time": 1661569645,
+      "rank": 37,
+      "category": "教育,财经"
+    },
+    {
       "raw_hot": 170185,
       "num": 170185,
       "word": "神十四航天员在轨种菜",
       "onboard_time": 1661559028,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 169954,
+      "num": 169954,
+      "word": "微博音乐盛典官宣",
+      "onboard_time": 1661569408,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 169828,
+      "num": 169828,
+      "word": "十种家暴证据形式",
+      "onboard_time": 1661568749,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166772,
@@ -683,14 +803,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 155759,
-      "num": 155759,
-      "word": "阿乐",
-      "onboard_time": 1661569048,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154581,
       "num": 154581,
       "word": "东部战区在台岛周边实战化演练",
@@ -699,20 +811,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 151726,
-      "num": 151726,
-      "word": "十种家暴证据形式",
-      "onboard_time": 1661568749,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 147206,
+      "num": 147206,
+      "word": "苍兰诀Q版人物创作大赛",
+      "onboard_time": 1661573310,
+      "rank": 43,
+      "category": "影视"
     },
     {
-      "raw_hot": 151169,
-      "num": 151169,
-      "word": "不查字典不会读的地名",
-      "onboard_time": 1661568688,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 145655,
+      "num": 133692,
+      "word": "CPA综合",
+      "onboard_time": 1661573909,
+      "rank": 47,
+      "category": "教育,财经"
     },
     {
       "raw_hot": 143553,
@@ -721,6 +833,14 @@
       "onboard_time": 1661509168,
       "rank": 45,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 138860,
+      "num": 138860,
+      "word": "河南汝州鳄雀鳝抓捕过程",
+      "onboard_time": 1661572887,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138708,
@@ -753,6 +873,14 @@
       "onboard_time": 1661521170,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133713,
+      "num": 133713,
+      "word": "传统文化有多可爱",
+      "onboard_time": 1661570010,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131159,
@@ -828,6 +956,9 @@
     },
     {
       "word": "#打卡影都寻美京彩#"
+    },
+    {
+      "word": "#2022年中国网络文明大会#"
     }
   ]
 }

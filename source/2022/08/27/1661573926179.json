@@ -1,0 +1,410 @@
+{
+  "runTime": 1661573926179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2078108,
+        "num": 2078108,
+        "word": "专家建议还房贷时间延至40年",
+        "onboard_time": 1661565989,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1420556,
+        "num": 1420556,
+        "word": "你好星期六全员晒理想型",
+        "onboard_time": 1661569408,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80380,
+        "num": 1284935,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3520130,
+        "num": 1270388,
+        "word": "王东 家暴",
+        "onboard_time": 1661557645,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1254668,
+        "num": 1254668,
+        "word": "取快递收到死亡小老虎",
+        "onboard_time": 1661527410,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910943,
+        "num": 910943,
+        "word": "女子朋友圈刷到头孢配酒跨省报警",
+        "onboard_time": 1661564789,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903368,
+        "num": 903368,
+        "word": "特朗普庄园搜出184份机密文件",
+        "onboard_time": 1661561670,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 878827,
+        "num": 878827,
+        "word": "专家建议农民在县城买房住",
+        "onboard_time": 1661562210,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777746,
+        "num": 777746,
+        "word": "四川一水下坐佛露真身",
+        "onboard_time": 1661567128,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665782,
+        "num": 665782,
+        "word": "鳄雀鳝有可能会攻击人类",
+        "onboard_time": 1661571148,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619523,
+        "num": 619523,
+        "word": "女大学生被害案凶手还计划杀5人",
+        "onboard_time": 1661567068,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498014,
+        "num": 498014,
+        "word": "米卡晒长发旧照害羞住了",
+        "onboard_time": 1661569408,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481496,
+        "num": 481496,
+        "word": "河南汝州湖中2条鳄雀鳝已被捕获",
+        "onboard_time": 1661562694,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471689,
+        "num": 471689,
+        "word": "阿乐",
+        "onboard_time": 1661569048,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 431258,
+        "num": 431258,
+        "word": "网传朝阳打歌中心被叫停",
+        "onboard_time": 1661567427,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351955,
+        "num": 351955,
+        "word": "安徽南陵一广场4人遭雷击",
+        "onboard_time": 1661562570,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347005,
+        "num": 347005,
+        "word": "黄景瑜拍罚罪好省妆发",
+        "onboard_time": 1661568089,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343622,
+        "num": 343622,
+        "word": "CPA审计",
+        "onboard_time": 1661569589,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298123,
+        "num": 298123,
+        "word": "人们为什么不爱看书学知识了",
+        "onboard_time": 1661572649,
+        "rank": 18,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 244375,
+        "num": 291934,
+        "word": "宁夏银川河中疑发现鳄雀鳝",
+        "onboard_time": 1661573429,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307630,
+        "num": 291559,
+        "word": "西华师范大学 研究生入学奖",
+        "onboard_time": 1661563231,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289604,
+        "num": 289604,
+        "word": "丁程鑫说只有赵今麦一个妹妹",
+        "onboard_time": 1661554998,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268018,
+        "num": 268018,
+        "word": "沸腾校园0828开学",
+        "onboard_time": 1661573068,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243908,
+        "num": 243908,
+        "word": "TF少年进化论第六期舞台上线",
+        "onboard_time": 1661571449,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240933,
+        "num": 240933,
+        "word": "山火刚扑灭志愿者上山捡垃圾",
+        "onboard_time": 1661571328,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 228868,
+        "num": 228868,
+        "word": "任何理由都不是家暴的借口",
+        "onboard_time": 1661568028,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227674,
+        "num": 227674,
+        "word": "女子吃牛排发现异物似尾巴",
+        "onboard_time": 1661543412,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223226,
+        "num": 223226,
+        "word": "警方通报一女子在烧烤店被砍伤",
+        "onboard_time": 1661531545,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219185,
+        "num": 219185,
+        "word": "上海增1例本土确诊7例本土无症状",
+        "onboard_time": 1661567847,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209291,
+        "num": 209291,
+        "word": "男子疑碰瓷公交被路人淡定拖走",
+        "onboard_time": 1661562029,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218108,
+        "num": 207728,
+        "word": "杨幂花少里被认错三次",
+        "onboard_time": 1661536217,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201168,
+        "num": 201168,
+        "word": "不查字典不会读的地名",
+        "onboard_time": 1661568688,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192547,
+        "num": 192547,
+        "word": "武汉新增确诊1例新增无症状感染者11例",
+        "onboard_time": 1661572349,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188930,
+        "num": 188930,
+        "word": "布瑞吉GAI王鹤棣张颜齐致敬重庆英雄",
+        "onboard_time": 1661559088,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186549,
+        "num": 186549,
+        "word": "赵露思陈哲远对视饭拍",
+        "onboard_time": 1661529209,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185033,
+        "num": 185033,
+        "word": "北京疫情防控",
+        "onboard_time": 1661565630,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178719,
+        "num": 178719,
+        "word": "西南政法大学 新生奖学金",
+        "onboard_time": 1661558304,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 171679,
+        "num": 171679,
+        "word": "CPA财管",
+        "onboard_time": 1661569645,
+        "rank": 37,
+        "category": "教育,财经"
+      },
+      {
+        "raw_hot": 169954,
+        "num": 169954,
+        "word": "微博音乐盛典官宣",
+        "onboard_time": 1661569408,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169828,
+        "num": 169828,
+        "word": "十种家暴证据形式",
+        "onboard_time": 1661568749,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161597,
+        "num": 161597,
+        "word": "突然就跟好朋友渐行渐远了",
+        "onboard_time": 1661560591,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 149394,
+        "num": 149394,
+        "word": "苹果目标是产品不用地球任何资源",
+        "onboard_time": 1661532504,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148515,
+        "num": 148515,
+        "word": "医生建议勿跟风藿香正气冰中式",
+        "onboard_time": 1661533820,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147206,
+        "num": 147206,
+        "word": "苍兰诀Q版人物创作大赛",
+        "onboard_time": 1661573310,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143233,
+        "num": 143233,
+        "word": "重庆这股英雄气为何引发共鸣",
+        "onboard_time": 1661566650,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 138860,
+        "num": 138860,
+        "word": "河南汝州鳄雀鳝抓捕过程",
+        "onboard_time": 1661572887,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133713,
+        "num": 133713,
+        "word": "传统文化有多可爱",
+        "onboard_time": 1661570010,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145655,
+        "num": 133692,
+        "word": "CPA综合",
+        "onboard_time": 1661573909,
+        "rank": 47,
+        "category": "教育,财经"
+      },
+      {
+        "raw_hot": 133345,
+        "num": 133345,
+        "word": "今年的蚊子是被热死了吗",
+        "onboard_time": 1661539273,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130085,
+        "num": 130085,
+        "word": "边境警犬巡逻嗅出毒品8公斤",
+        "onboard_time": 1661565090,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年中国网络文明大会#"
+    }
+  }
+}
