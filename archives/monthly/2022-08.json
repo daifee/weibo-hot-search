@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661620887797,
+  "endTime": 1661621869623,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -61291,6 +61291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 60312,
+      "num": 60312,
+      "word": "和猫猫的双向奔赴有多甜",
+      "onboard_time": 1661620521,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 60008,
       "num": 43526,
       "word": "谢霆锋说王俊凯对自己够狠",
@@ -61609,14 +61617,6 @@
       "onboard_time": 1659729372,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41037,
-      "num": 41037,
-      "word": "和猫猫的双向奔赴有多甜",
-      "onboard_time": 1661620521,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 40958,
@@ -61961,6 +61961,14 @@
       "onboard_time": 1659733633,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24193,
+      "num": 24193,
+      "word": "怎么会不爱狗狗呢",
+      "onboard_time": 1661621838,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 23910,
