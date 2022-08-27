@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661624783268,
+  "endTime": 1661625788917,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -10939,6 +10939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222217,
+      "num": 171338,
+      "word": "杨迪长在于文文的笑点上",
+      "onboard_time": 1661623096,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222203,
       "num": 194398,
       "word": "龚俊VOGUEfilm解锁AI角色",
@@ -13155,14 +13163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146154,
-      "num": 146154,
-      "word": "杨迪长在于文文的笑点上",
-      "onboard_time": 1661623096,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145899,
       "num": 145899,
       "word": "花海宫本武藏抢龙",
@@ -13979,20 +13979,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46110,
+      "num": 46110,
+      "word": "怎么会不爱狗狗呢",
+      "onboard_time": 1661621838,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 45208,
       "num": 45208,
       "word": "林峯粤语新歌楼下有人",
       "onboard_time": 1661188938,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 44990,
-      "num": 44990,
-      "word": "怎么会不爱狗狗呢",
-      "onboard_time": 1661621838,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 43827,
