@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661582654817,
+  "endTime": 1661584784856,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -107,20 +107,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 4157637,
+      "num": 4157637,
+      "word": "不要建议",
+      "onboard_time": 1661578710,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 4125536,
       "num": 1724156,
       "word": "四川 停电",
       "onboard_time": 1661225066,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4044772,
-      "num": 4044772,
-      "word": "不要建议",
-      "onboard_time": 1661578710,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 4007816,
@@ -313,6 +313,14 @@
       "onboard_time": 1661405969,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2680882,
+      "num": 2680882,
+      "word": "恶童",
+      "onboard_time": 1661580810,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 2676184,
@@ -755,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1750362,
-      "num": 1750362,
-      "word": "恶童",
-      "onboard_time": 1661580810,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1745932,
       "num": 1218335,
       "word": "吴磊赵露思婚服拍摄花絮",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1661337090,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1404292,
+      "num": 1404292,
+      "word": "杨幂用计算机按迪丽热巴",
+      "onboard_time": 1661582489,
+      "rank": 30,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1392254,
@@ -1995,6 +2003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 961423,
+      "num": 961423,
+      "word": "山西多校以是否购买平板电脑为分班标准",
+      "onboard_time": 1661580270,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 958846,
       "num": 958846,
       "word": "还好有人录下来了",
@@ -2315,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840096,
+      "num": 523074,
+      "word": "BLACKPINK新歌特别舞台",
+      "onboard_time": 1661583630,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 837362,
       "num": 796379,
       "word": "三皇子求程少商",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1661172693,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 803320,
+      "num": 516099,
+      "word": "郭晓婷说恭迎赤地复活",
+      "onboard_time": 1661582371,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 801476,
@@ -2833,14 +2865,6 @@
       "onboard_time": 1661404291,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702310,
-      "num": 702310,
-      "word": "山西多校以是否购买平板电脑为分班标准",
-      "onboard_time": 1661580270,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 701156,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1661130152,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610441,
+      "num": 610441,
+      "word": "指甲上的月牙和健康有关吗",
+      "onboard_time": 1661581468,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610131,
@@ -4059,6 +4091,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 536537,
+      "num": 536537,
+      "word": "8岁女孩跟医生爸爸学习缝合手术",
+      "onboard_time": 1661579729,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536503,
       "num": 536503,
       "word": "张小斐拯救嫌疑人眼神杀",
@@ -4243,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508513,
+      "num": 456522,
+      "word": "北语 疫情防控",
+      "onboard_time": 1661579251,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -4345,14 +4393,6 @@
       "onboard_time": 1661224050,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 497177,
-      "num": 497177,
-      "word": "8岁女孩跟医生爸爸学习缝合手术",
-      "onboard_time": 1661579729,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495345,
@@ -4971,14 +5011,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 456522,
-      "num": 456522,
-      "word": "北语 疫情防控",
-      "onboard_time": 1661579251,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456129,
       "num": 429839,
       "word": "沉香如屑网飞播出",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1661576489,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431654,
+      "num": 260870,
+      "word": "拜托了甄嬛传",
+      "onboard_time": 1661583990,
+      "rank": 21,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 430925,
@@ -6508,7 +6548,7 @@
     },
     {
       "raw_hot": 352284,
-      "num": 1706108,
+      "num": 1905301,
       "word": "这道防火长城坚不可摧",
       "onboard_time": 1661518647,
       "rank": 2,
@@ -6675,6 +6715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344564,
+      "num": 344564,
+      "word": "黄金不足称商家称是5G新工艺压缩的",
+      "onboard_time": 1661582371,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344492,
       "num": 277931,
       "word": "梁爽遭遇公司解约",
@@ -6713,6 +6761,14 @@
       "onboard_time": 1661264135,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342327,
+      "num": 199576,
+      "word": "虞书欣片场吊威亚花絮",
+      "onboard_time": 1661582431,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 342115,
@@ -7195,14 +7251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323086,
-      "num": 196873,
-      "word": "杨幂用计算机按迪丽热巴",
-      "onboard_time": 1661582489,
-      "rank": 30,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 322852,
       "num": 322852,
       "word": "沸腾校园阵容官宣",
@@ -7233,6 +7281,14 @@
       "onboard_time": 1661265935,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 322021,
+      "num": 322021,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1661584294,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321883,
@@ -7531,6 +7587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302841,
+      "num": 196702,
+      "word": "大张伟说年轻人少上网就没有焦虑",
+      "onboard_time": 1661583690,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302403,
       "num": 302403,
       "word": "冰雨火陈宇受伤不减速",
@@ -7803,28 +7867,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290765,
-      "num": 192397,
-      "word": "虞书欣片场吊威亚花絮",
-      "onboard_time": 1661582431,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290734,
       "num": 194057,
       "word": "披荆斩棘",
       "onboard_time": 1661491115,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290699,
-      "num": 186661,
-      "word": "郭晓婷说恭迎赤地复活",
-      "onboard_time": 1661582371,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 290560,
@@ -8851,6 +8899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 260146,
+      "num": 260146,
+      "word": "的哥不让救火归来的志愿者扫码付款",
+      "onboard_time": 1661580209,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 259932,
       "num": 259932,
       "word": "陈宇火海救吴振峰",
@@ -9081,6 +9137,14 @@
       "onboard_time": 1661503414,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252794,
+      "num": 186001,
+      "word": "GAI威远故事舞台现场落泪",
+      "onboard_time": 1661581889,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 252581,
@@ -9499,6 +9563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237066,
+      "num": 237066,
+      "word": "90后女孩教奶奶们织毛线比基尼",
+      "onboard_time": 1661584528,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236812,
       "num": 167746,
       "word": "凌不疑跳崖命悬一线",
@@ -9867,14 +9939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225479,
-      "num": 117171,
-      "word": "GAI威远故事舞台现场落泪",
-      "onboard_time": 1661581889,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225393,
       "num": 225393,
       "word": "苏醒老歌手的日常MV",
@@ -10008,6 +10072,14 @@
       "word": "男子收集核酸贴纸做挂饰送女友",
       "onboard_time": 1661253448,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219933,
+      "num": 219933,
+      "word": "69岁大爷携13万跨省寻女主播",
+      "onboard_time": 1661583449,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -10233,14 +10305,6 @@
       "onboard_time": 1661157394,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211885,
-      "num": 211885,
-      "word": "的哥不让救火归来的志愿者扫码付款",
-      "onboard_time": 1661580209,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 211689,
@@ -11011,14 +11075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186689,
-      "num": 186689,
-      "word": "指甲上的月牙和健康有关吗",
-      "onboard_time": 1661581468,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186202,
       "num": 600382,
       "word": "重庆有我们请放心",
@@ -11715,6 +11771,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 165137,
+      "num": 165137,
+      "word": "2岁影帝小萌娃吃棒棒糖秒变脸",
+      "onboard_time": 1661583630,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164710,
       "num": 164710,
       "word": "西安堂食",
@@ -11977,6 +12041,14 @@
       "onboard_time": 1661068707,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151621,
+      "num": 151621,
+      "word": "重庆人民被云南森林消防吓到了",
+      "onboard_time": 1661584409,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 151451,
@@ -12443,20 +12515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125705,
-      "num": 125705,
-      "word": "黄金不足称商家称是5G新工艺压缩的",
-      "onboard_time": 1661582371,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125195,
       "num": 125195,
       "word": "自驾川藏北线注意什么",
       "onboard_time": 1661328813,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 125044,
+      "num": 125044,
+      "word": "中国女排vs澳大利亚女排",
+      "onboard_time": 1661582790,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122277,
