@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661607140186,
+  "endTime": 1661607860955,
   "band_list": [
     {
       "raw_hot": 6090220,
@@ -51,8 +51,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2475964,
-      "num": 2475964,
+      "raw_hot": 2523076,
+      "num": 2523076,
       "word": "虞书欣镜头外还在哭",
       "onboard_time": 1661604031,
       "rank": 14,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1550121,
+      "num": 1550121,
+      "word": "网传星汉灿烂下周庆功宴",
+      "onboard_time": 1661606250,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1526198,
       "num": 1526198,
       "word": "重庆人民被云南森林消防吓到了",
@@ -187,20 +195,20 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 1342704,
+      "num": 651228,
+      "word": "业火",
+      "onboard_time": 1661603910,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1342127,
       "num": 1342127,
       "word": "女子朋友圈刷到头孢配酒跨省报警",
       "onboard_time": 1661564789,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1339217,
-      "num": 1339217,
-      "word": "网传星汉灿烂下周庆功宴",
-      "onboard_time": 1661606250,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1283372,
@@ -225,14 +233,6 @@
       "onboard_time": 1661599228,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1212357,
-      "num": 651228,
-      "word": "业火",
-      "onboard_time": 1661603910,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 1193300,
@@ -265,6 +265,14 @@
       "onboard_time": 1661562694,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060021,
+      "num": 604417,
+      "word": "王鹤棣哭戏",
+      "onboard_time": 1661606071,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1049021,
@@ -321,14 +329,6 @@
       "onboard_time": 1661571148,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 917188,
-      "num": 604417,
-      "word": "王鹤棣哭戏",
-      "onboard_time": 1661606071,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 888045,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647792,
+      "num": 338546,
+      "word": "kyoka把王一博吓一哆嗦",
+      "onboard_time": 1661606972,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646327,
       "num": 646327,
       "word": "69岁大爷携13万跨省寻女主播",
@@ -603,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 569074,
+      "num": 322650,
+      "word": "刘雨昕考驾照拖延症是我本人",
+      "onboard_time": 1661604569,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562847,
       "num": 562847,
       "word": "狐妖小红娘虚拟拍摄技术",
@@ -659,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526470,
+      "num": 315544,
+      "word": "关晓彤晒九宫格闺蜜合影",
+      "onboard_time": 1661603788,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523549,
       "num": 1977938,
       "word": "消防员说第一次在救火现场吃冰棍",
       "onboard_time": 1661598809,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519983,
-      "num": 315544,
-      "word": "关晓彤晒九宫格闺蜜合影",
-      "onboard_time": 1661603788,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 515021,
@@ -704,14 +720,6 @@
       "word": "米卡晒长发旧照害羞住了",
       "onboard_time": 1661569408,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 494694,
-      "num": 315042,
-      "word": "刘雨昕考驾照拖延症是我本人",
-      "onboard_time": 1661604569,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -771,14 +779,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 461341,
-      "num": 234511,
-      "word": "kyoka把王一博吓一哆嗦",
-      "onboard_time": 1661606972,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 458095,
       "num": 250222,
       "word": "小兰花王鹤棣合照",
@@ -817,6 +817,22 @@
       "onboard_time": 1661590769,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 418544,
+      "num": 213299,
+      "word": "沉香如屑超过40万人评分",
+      "onboard_time": 1661607572,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414603,
+      "num": 305372,
+      "word": "求求了脚趾也是会累的",
+      "onboard_time": 1661605771,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 412803,
@@ -979,6 +995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 359144,
+      "num": 211682,
+      "word": "长渊",
+      "onboard_time": 1661607693,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358660,
       "num": 358660,
       "word": "致谢锦旗已被重庆人送到了云南",
@@ -1043,12 +1067,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 345776,
+      "num": 345776,
+      "word": "一看就是大学生坐的车",
+      "onboard_time": 1661606071,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 344972,
       "num": 344972,
       "word": "黑话律师",
       "onboard_time": 1661526992,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344263,
+      "num": 233092,
+      "word": "郑秀妍于文文托脸",
+      "onboard_time": 1661606671,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 343635,
@@ -1155,20 +1195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318292,
+      "num": 231467,
+      "word": "丰盛有病吧",
+      "onboard_time": 1661603247,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315814,
       "num": 162514,
       "word": "欧豪10个角色凑不出一个he",
       "onboard_time": 1661587888,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314178,
-      "num": 233092,
-      "word": "郑秀妍于文文托脸",
-      "onboard_time": 1661606671,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 311851,
@@ -1193,22 +1233,6 @@
       "onboard_time": 1661523993,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305372,
-      "num": 305372,
-      "word": "求求了脚趾也是会累的",
-      "onboard_time": 1661605771,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 304311,
-      "num": 231467,
-      "word": "丰盛有病吧",
-      "onboard_time": 1661603247,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 302841,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1661526034,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297897,
+      "num": 297897,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1661605353,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297192,
@@ -1379,14 +1411,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 257822,
-      "num": 257822,
-      "word": "一看就是大学生坐的车",
-      "onboard_time": 1661606071,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257777,
       "num": 257777,
       "word": "Ale评论澄清与队伍无关",
@@ -1400,14 +1424,6 @@
       "word": "2岁影帝小萌娃吃棒棒糖秒变脸",
       "onboard_time": 1661583630,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255327,
-      "num": 255327,
-      "word": "绵阳疫情防控",
-      "onboard_time": 1661605353,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1603,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209361,
+      "num": 209361,
+      "word": "中国人在太空的办公室也有绿植",
+      "onboard_time": 1661603429,
+      "rank": 47,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 208755,
       "num": 208755,
       "word": "边境警犬巡逻嗅出毒品8公斤",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1661575170,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176320,
+      "num": 1779230,
+      "word": "山城的灯光战胜了火光",
+      "onboard_time": 1661606432,
+      "rank": 2,
+      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 174494,
@@ -1859,14 +1891,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 154895,
-      "num": 154895,
-      "word": "中国人在太空的办公室也有绿植",
-      "onboard_time": 1661603429,
-      "rank": 47,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 154581,
       "num": 154581,
       "word": "东部战区在台岛周边实战化演练",
@@ -1995,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129941,
+      "num": 129941,
+      "word": "回击恶评还得是北京大妈",
+      "onboard_time": 1661604750,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129787,
       "num": 129787,
       "word": "陈小春评论区初代哥哥团建",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1661597848,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111670,
-      "num": 111670,
-      "word": "回击恶评还得是北京大妈",
-      "onboard_time": 1661604750,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108660,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1661548151,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93180,
-      "num": 1779230,
-      "word": "山城的灯光战胜了火光",
-      "onboard_time": 1661606432,
-      "rank": 2,
-      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 92774,
