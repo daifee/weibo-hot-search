@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661639862613,
+  "endTime": 1661642497845,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -9947,6 +9947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254233,
+      "num": 254233,
+      "word": "上海交大校友名录未见秦泽文",
+      "onboard_time": 1661633591,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254229,
       "num": 212659,
       "word": "民国大侦探连环案好刺激",
@@ -10345,6 +10353,14 @@
       "onboard_time": 1661594551,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 241917,
+      "num": 241917,
+      "word": "重庆缙云山大火是怎么扑灭的",
+      "onboard_time": 1661638213,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241668,
@@ -11513,6 +11529,14 @@
       "onboard_time": 1661240250,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202240,
+      "num": 202240,
+      "word": "8岁男童头部被蜂群蜇伤40多处",
+      "onboard_time": 1661634552,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201335,
@@ -12867,6 +12891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159532,
+      "num": 159532,
+      "word": "当军训教官遇到3学生分不清左右",
+      "onboard_time": 1661632991,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 159410,
       "num": 159410,
       "word": "中国女排战胜菲律宾女排",
@@ -12985,14 +13017,6 @@
       "onboard_time": 1661566650,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 154903,
-      "num": 141012,
-      "word": "上海交大校友名录未见秦泽文",
-      "onboard_time": 1661633591,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154605,
@@ -13187,14 +13211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144978,
-      "num": 144978,
-      "word": "8岁男童头部被蜂群蜇伤40多处",
-      "onboard_time": 1661634552,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144955,
       "num": 144955,
       "word": "高温红色预警已连续发布12天",
@@ -13249,6 +13265,14 @@
       "onboard_time": 1661236050,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141680,
+      "num": 141680,
+      "word": "看雀斑公主稀里糊涂哭了",
+      "onboard_time": 1661622258,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 141623,
@@ -13819,14 +13843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101194,
-      "num": 101194,
-      "word": "当军训教官遇到3学生分不清左右",
-      "onboard_time": 1661632991,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 101091,
       "num": 101091,
       "word": "辽宁本溪新增1例阳性",
@@ -13891,6 +13907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85226,
+      "num": 85226,
+      "word": "盘点外国明星说中文名场面",
+      "onboard_time": 1661642416,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 79322,
       "num": 79322,
       "word": "浪姐3团综星星的约定大理录制路透",
@@ -13907,20 +13931,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 76859,
+      "num": 76859,
+      "word": "刘奕君说自己是杨玲唯一的霸霸",
+      "onboard_time": 1661635031,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 75268,
       "num": 182677,
       "word": "张继科孩子气的解压方式",
       "onboard_time": 1661490397,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75223,
-      "num": 75223,
-      "word": "看雀斑公主稀里糊涂哭了",
-      "onboard_time": 1661622258,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 73709,
@@ -13937,6 +13961,22 @@
       "onboard_time": 1661624355,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 70977,
+      "num": 70977,
+      "word": "玫瑰之战 编剧",
+      "onboard_time": 1661634791,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 65807,
+      "num": 65807,
+      "word": "和猫猫的双向奔赴有多甜",
+      "onboard_time": 1661620521,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 65668,
@@ -13963,22 +14003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62730,
-      "num": 62730,
-      "word": "和猫猫的双向奔赴有多甜",
-      "onboard_time": 1661620521,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 56742,
-      "num": 56742,
-      "word": "玫瑰之战 编剧",
-      "onboard_time": 1661634791,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 52234,
       "num": 500923,
       "word": "10万级混动来了",
@@ -13995,12 +14019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49418,
-      "num": 49418,
-      "word": "刘奕君说自己是杨玲唯一的霸霸",
-      "onboard_time": 1661635031,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 46834,
+      "num": 46834,
+      "word": "怎么会不爱狗狗呢",
+      "onboard_time": 1661621838,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 46508,
@@ -14017,14 +14041,6 @@
       "onboard_time": 1661363954,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 46110,
-      "num": 46110,
-      "word": "怎么会不爱狗狗呢",
-      "onboard_time": 1661621838,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 45208,
@@ -14049,14 +14065,6 @@
       "onboard_time": 1661290272,
       "rank": 49,
       "category": "自然"
-    },
-    {
-      "raw_hot": 40543,
-      "num": 40543,
-      "word": "重庆缙云山大火是怎么扑灭的",
-      "onboard_time": 1661638213,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39561,
