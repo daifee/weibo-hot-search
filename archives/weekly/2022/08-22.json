@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661579116727,
+  "endTime": 1661581598536,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -145,6 +145,14 @@
       "onboard_time": 1661398472,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3658943,
+      "num": 3658943,
+      "word": "不要建议",
+      "onboard_time": 1661578710,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 3614470,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 2080488,
-      "num": 1235830,
+      "num": 1342397,
       "word": "李承铉婚后从未怀念过单身时光",
       "onboard_time": 1661574090,
       "rank": 6,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1661241811,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1451749,
+      "num": 1451749,
+      "word": "00后偷玛莎拉蒂从长沙开到九江",
+      "onboard_time": 1661576730,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1444570,
@@ -1464,14 +1480,6 @@
       "word": "四川一镇突发大火多个居民楼被点燃",
       "onboard_time": 1661343753,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1154950,
-      "num": 1154950,
-      "word": "00后偷玛莎拉蒂从长沙开到九江",
-      "onboard_time": 1661576730,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 900688,
+      "num": 900688,
+      "word": "恶童",
+      "onboard_time": 1661580810,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 897339,
       "num": 897339,
       "word": "KSG战胜AG",
@@ -2707,6 +2723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 737243,
+      "num": 657544,
+      "word": "母亲拉架被醉酒儿子拳打脚踢",
+      "onboard_time": 1661576189,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 734661,
       "num": 734661,
       "word": "爱情而已剧组回应素材泄露",
@@ -3051,14 +3075,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 657544,
-      "num": 657544,
-      "word": "母亲拉架被醉酒儿子拳打脚踢",
-      "onboard_time": 1661576189,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 657508,
       "num": 657508,
       "word": "李立群发视频澄清网传截图",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1661179596,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 635504,
+      "num": 466381,
+      "word": "艾热王以太婚礼一条龙曲库",
+      "onboard_time": 1661578349,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 635380,
@@ -3601,6 +3625,14 @@
       "onboard_time": 1661306249,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575302,
+      "num": 393726,
+      "word": "骄阳伴我网传班底",
+      "onboard_time": 1661579430,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 573993,
@@ -4779,14 +4811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 466381,
-      "num": 466381,
-      "word": "艾热王以太婚礼一条龙曲库",
-      "onboard_time": 1661578349,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466342,
       "num": 466342,
       "word": "RNG",
@@ -5427,6 +5451,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 412803,
+      "num": 334304,
+      "word": "郑秀妍晒与何炅合照",
+      "onboard_time": 1661578529,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412343,
       "num": 412343,
       "word": "王嘉尔音乐节上喊自己是Chineseboy",
@@ -6035,6 +6067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377236,
+      "num": 377236,
+      "word": "8岁女孩跟医生爸爸学习缝合手术",
+      "onboard_time": 1661579729,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376757,
       "num": 305138,
       "word": "苍兰诀刀尖舔糖",
@@ -6129,6 +6169,14 @@
       "onboard_time": 1661141913,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369214,
+      "num": 369214,
+      "word": "山西多校以是否购买平板电脑为分班标准",
+      "onboard_time": 1661580270,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 369073,
@@ -6665,6 +6713,14 @@
       "onboard_time": 1661425428,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 341801,
+      "num": 341801,
+      "word": "北语 疫情防控",
+      "onboard_time": 1661579251,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341596,
@@ -7417,14 +7473,6 @@
       "onboard_time": 1661163331,
       "rank": 43,
       "category": "自然"
-    },
-    {
-      "raw_hot": 305270,
-      "num": 228012,
-      "word": "郑秀妍晒与何炅合照",
-      "onboard_time": 1661578529,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 304914,
@@ -8195,6 +8243,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 277079,
+      "num": 181686,
+      "word": "被刘聪万妮达两个世界戳到了",
+      "onboard_time": 1661580688,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276750,
       "num": 276750,
       "word": "南京女大学生案主犯要求精神鉴定被驳回",
@@ -8635,6 +8691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263177,
+      "num": 179240,
+      "word": "苏新皓全开麦高音",
+      "onboard_time": 1661580688,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263171,
       "num": 228503,
       "word": "张震岳林峯吴克群闽南话群聊",
@@ -8785,6 +8849,14 @@
       "onboard_time": 1661221651,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258395,
+      "num": 258395,
+      "word": "没想到鱼缸还能养猫",
+      "onboard_time": 1661579011,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 257777,
@@ -9499,6 +9571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232541,
+      "num": 232541,
+      "word": "一条毛巾纠正不良体态",
+      "onboard_time": 1661577690,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232231,
       "num": 166808,
       "word": "jj的咖啡调调",
@@ -9721,6 +9801,14 @@
       "onboard_time": 1661410887,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226135,
+      "num": 226135,
+      "word": "熊孩子恶作剧多次敲邻居家门",
+      "onboard_time": 1661576610,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226106,
@@ -10057,14 +10145,6 @@
       "onboard_time": 1661438509,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215049,
-      "num": 215049,
-      "word": "不要建议",
-      "onboard_time": 1661578710,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 214639,
@@ -10419,6 +10499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200734,
+      "num": 123625,
+      "word": "唐周20岁尝遍人生8苦",
+      "onboard_time": 1661581288,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200404,
       "num": 200404,
       "word": "749局正在后期制作阶段",
@@ -10547,14 +10635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196139,
-      "num": 196139,
-      "word": "一条毛巾纠正不良体态",
-      "onboard_time": 1661577690,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195762,
       "num": 195762,
       "word": "岸田文雄原定于明日恢复工作",
@@ -10584,6 +10664,14 @@
       "word": "冰雨火陈宇打拳泄愤",
       "onboard_time": 1661437549,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194772,
+      "num": 123367,
+      "word": "人生大事网播热度",
+      "onboard_time": 1661581468,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -11267,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173993,
+      "num": 173993,
+      "word": "的哥不让救火归来的志愿者扫码付款",
+      "onboard_time": 1661580209,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 173922,
       "num": 141327,
       "word": "九龙坡疫情防控",
@@ -11360,14 +11456,6 @@
       "word": "重庆调整部分商场营业时间",
       "onboard_time": 1661153735,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171160,
-      "num": 171160,
-      "word": "熊孩子恶作剧多次敲邻居家门",
-      "onboard_time": 1661576610,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -12403,14 +12491,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 116017,
-      "num": 116017,
-      "word": "没想到鱼缸还能养猫",
-      "onboard_time": 1661579011,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115957,
       "num": 115957,
       "word": "没想到大爷也是kpop人",
@@ -12601,6 +12681,14 @@
       "onboard_time": 1661555839,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73020,
+      "num": 73020,
+      "word": "指甲上的月牙和健康有关吗",
+      "onboard_time": 1661581468,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64462,
@@ -12833,6 +12921,14 @@
       "onboard_time": 1661306431,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7169,
+      "num": 377289,
+      "word": "跑过最具挑战的400米",
+      "onboard_time": 1661580031,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 4405,
