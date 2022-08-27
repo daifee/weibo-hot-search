@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661614772723,
+  "endTime": 1661617736504,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -233,6 +233,14 @@
       "onboard_time": 1661388457,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 2993419,
+      "num": 2993419,
+      "word": "公司要求一旦怀孕自动离职",
+      "onboard_time": 1661613394,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2930085,
@@ -1283,14 +1291,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1349398,
-      "num": 1349398,
-      "word": "公司要求一旦怀孕自动离职",
-      "onboard_time": 1661613394,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1345476,
       "num": 1345476,
       "word": "女子买西瓜撕开标签下面全烂洞",
@@ -2251,6 +2251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951755,
+      "num": 886933,
+      "word": "世界在坍塌 我们在相爱",
+      "onboard_time": 1661613032,
+      "rank": 40,
+      "category": "影视,情感"
+    },
+    {
+      "raw_hot": 950650,
+      "num": 950650,
+      "word": "建议不要和我这种人深交",
+      "onboard_time": 1661614112,
+      "rank": 25,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 941225,
       "num": 941225,
       "word": "龚俊乔欣沉睡花园开分7",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1661582371,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 830435,
-      "num": 830435,
-      "word": "世界在坍塌 我们在相爱",
-      "onboard_time": 1661613032,
-      "rank": 40,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 826844,
@@ -3083,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728656,
+      "num": 591073,
+      "word": "荡平水云天",
+      "onboard_time": 1661613272,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 728466,
       "num": 728466,
       "word": "TES对战JDG",
@@ -3191,6 +3207,14 @@
       "num": 699269,
       "word": "甲状腺发病的4个主要原因",
       "onboard_time": 1661411009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698752,
+      "num": 698752,
+      "word": "长安汽车董事长称中国初具停售燃油车条件",
+      "onboard_time": 1661613995,
       "rank": 35,
       "category": "社会新闻"
     },
@@ -3827,6 +3851,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 607668,
+      "num": 607668,
+      "word": "小胖哭了",
+      "onboard_time": 1661614892,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 606630,
       "num": 606630,
       "word": "刺痛 橘子",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1661238811,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557409,
+      "num": 557409,
+      "word": "你那么讨厌 我还是喜欢你",
+      "onboard_time": 1661613575,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 556347,
@@ -5449,6 +5489,14 @@
       "onboard_time": 1661586629,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457849,
+      "num": 457849,
+      "word": "榆林官方承认芹菜案确实存在问题",
+      "onboard_time": 1661615434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457523,
@@ -7443,6 +7491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337508,
+      "num": 254850,
+      "word": "朱正廷说吃完妈妈的菜进医院了",
+      "onboard_time": 1661616391,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337488,
       "num": 337488,
       "word": "男子做透析躺病床偷护士手机",
@@ -7828,7 +7884,7 @@
     },
     {
       "raw_hot": 326255,
-      "num": 229356,
+      "num": 239189,
       "word": "阿那亚",
       "onboard_time": 1661610696,
       "rank": 41,
@@ -8217,6 +8273,14 @@
       "onboard_time": 1661304630,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304590,
+      "num": 244061,
+      "word": "明星们的嘴巴是装了刹车吗",
+      "onboard_time": 1661615973,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304143,
@@ -10683,14 +10747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227646,
-      "num": 227646,
-      "word": "你那么讨厌 我还是喜欢你",
-      "onboard_time": 1661613575,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 227630,
       "num": 203681,
       "word": "沸腾校园20所高校舞社官宣",
@@ -10729,6 +10785,14 @@
       "onboard_time": 1661410887,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226149,
+      "num": 226149,
+      "word": "9岁男孩因惧怕开学反复发烧",
+      "onboard_time": 1661616632,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 226135,
@@ -11121,14 +11185,6 @@
       "onboard_time": 1661413229,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213897,
-      "num": 182285,
-      "word": "荡平水云天",
-      "onboard_time": 1661613272,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 213693,
@@ -11579,14 +11635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196853,
-      "num": 196853,
-      "word": "建议不要和我这种人深交",
-      "onboard_time": 1661614112,
-      "rank": 25,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 196531,
       "num": 196531,
       "word": "央视镜头下的中国乡村有多美",
@@ -11961,6 +12009,14 @@
       "onboard_time": 1661476775,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186829,
+      "num": 186829,
+      "word": "利物浦vs伯恩茅斯",
+      "onboard_time": 1661615732,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 186202,
@@ -12395,6 +12451,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 172777,
+      "num": 172777,
+      "word": "切尔西",
+      "onboard_time": 1661093610,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172529,
       "num": 172529,
       "word": "医护人员海拔5000米入户核酸采样",
@@ -12609,14 +12673,6 @@
       "onboard_time": 1661425066,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168288,
-      "num": 168288,
-      "word": "长安汽车董事长称中国初具停售燃油车条件",
-      "onboard_time": 1661613995,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168105,
@@ -13393,14 +13449,6 @@
       "onboard_time": 1661158174,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 130291,
-      "num": 130291,
-      "word": "切尔西",
-      "onboard_time": 1661093610,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 130250,
