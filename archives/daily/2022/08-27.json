@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661573926179,
+  "endTime": 1661575204442,
   "band_list": [
     {
       "raw_hot": 5909812,
@@ -83,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1101007,
+      "num": 1101007,
+      "word": "李承铉婚后从未怀念过单身时光",
+      "onboard_time": 1661574090,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1069303,
       "num": 1069303,
       "word": "河南汝州湖中2条鳄雀鳝已被捕获",
@@ -96,6 +104,14 @@
       "word": "卫健委通报刘翔峰有关问题",
       "onboard_time": 1661528553,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933152,
+      "num": 933152,
+      "word": "鳄雀鳝有可能会攻击人类",
+      "onboard_time": 1661571148,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -145,14 +161,6 @@
       "onboard_time": 1661531545,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 665782,
-      "num": 665782,
-      "word": "鳄雀鳝有可能会攻击人类",
-      "onboard_time": 1661571148,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662038,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379071,
+      "num": 379071,
+      "word": "人们为什么不爱看书学知识了",
+      "onboard_time": 1661572649,
+      "rank": 18,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 375722,
       "num": 375722,
       "word": "初级会计 成绩",
@@ -385,6 +401,14 @@
       "onboard_time": 1661533820,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356917,
+      "num": 356917,
+      "word": "山火刚扑灭志愿者上山捡垃圾",
+      "onboard_time": 1661571328,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 352270,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310340,
+      "num": 310340,
+      "word": "宁夏银川河中疑发现鳄雀鳝",
+      "onboard_time": 1661573429,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305802,
       "num": 305802,
       "word": "青白蛇皮肤优化",
@@ -481,14 +513,6 @@
       "onboard_time": 1661526034,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 298123,
-      "num": 298123,
-      "word": "人们为什么不爱看书学知识了",
-      "onboard_time": 1661572649,
-      "rank": 18,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 297192,
@@ -539,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250607,
+      "num": 250607,
+      "word": "武汉新增确诊1例新增无症状感染者11例",
+      "onboard_time": 1661572349,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248284,
       "num": 248284,
       "word": "重庆增本土无症状21例",
@@ -563,28 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244375,
-      "num": 291934,
-      "word": "宁夏银川河中疑发现鳄雀鳝",
-      "onboard_time": 1661573429,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243908,
       "num": 243908,
       "word": "TF少年进化论第六期舞台上线",
       "onboard_time": 1661571449,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240933,
-      "num": 240933,
-      "word": "山火刚扑灭志愿者上山捡垃圾",
-      "onboard_time": 1661571328,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 233417,
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214558,
+      "num": 214558,
+      "word": "登录圆鱼洲变射击游戏",
+      "onboard_time": 1661574090,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208755,
       "num": 208755,
       "word": "边境警犬巡逻嗅出毒品8公斤",
@@ -683,12 +707,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192547,
-      "num": 192547,
-      "word": "武汉新增确诊1例新增无症状感染者11例",
-      "onboard_time": 1661572349,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 190016,
+      "num": 190016,
+      "word": "CPA综合",
+      "onboard_time": 1661573909,
+      "rank": 47,
+      "category": "教育,财经"
     },
     {
       "raw_hot": 189983,
@@ -697,6 +721,14 @@
       "onboard_time": 1661538135,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 189425,
+      "word": "Ale评论澄清与队伍无关",
+      "onboard_time": 1661574510,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 185114,
@@ -763,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164476,
+      "num": 164476,
+      "word": "这哪是开学的高铁啊",
+      "onboard_time": 1661574930,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162749,
       "num": 162749,
       "word": "中国与美国签署审计监管合作协议",
@@ -819,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145655,
-      "num": 133692,
-      "word": "CPA综合",
-      "onboard_time": 1661573909,
-      "rank": 47,
-      "category": "教育,财经"
-    },
-    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "世界首个龙眼与荔枝杂交新品种",
@@ -835,8 +867,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 138860,
-      "num": 138860,
+      "raw_hot": 141570,
+      "num": 141570,
       "word": "河南汝州鳄雀鳝抓捕过程",
       "onboard_time": 1661572887,
       "rank": 45,
@@ -897,6 +929,14 @@
       "onboard_time": 1661537414,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120795,
+      "num": 120795,
+      "word": "警察蜀黍遇上人类幼崽一秒变脸",
+      "onboard_time": 1661575170,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120720,
