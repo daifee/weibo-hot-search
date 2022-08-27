@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661621869623,
+  "endTime": 1661624783268,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -13155,6 +13155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146154,
+      "num": 146154,
+      "word": "杨迪长在于文文的笑点上",
+      "onboard_time": 1661623096,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145899,
       "num": 145899,
       "word": "花海宫本武藏抢龙",
@@ -13891,6 +13899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71101,
+      "num": 71101,
+      "word": "山火与干旱报告",
+      "onboard_time": 1661624355,
+      "rank": 24,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 66550,
+      "num": 66550,
+      "word": "看雀斑公主稀里糊涂哭了",
+      "onboard_time": 1661622258,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65668,
       "num": 63228,
       "word": "黄景瑜演的常征怕鸡的原因",
@@ -13915,8 +13939,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60312,
-      "num": 60312,
+      "raw_hot": 62730,
+      "num": 62730,
       "word": "和猫猫的双向奔赴有多甜",
       "onboard_time": 1661620521,
       "rank": 48,
@@ -13961,6 +13985,14 @@
       "onboard_time": 1661188938,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 44990,
+      "num": 44990,
+      "word": "怎么会不爱狗狗呢",
+      "onboard_time": 1661621838,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 43827,
@@ -14017,14 +14049,6 @@
       "onboard_time": 1661283913,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 24193,
-      "num": 24193,
-      "word": "怎么会不爱狗狗呢",
-      "onboard_time": 1661621838,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 22818,
