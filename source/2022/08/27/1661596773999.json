@@ -1,0 +1,410 @@
+{
+  "runTime": 1661596773999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3644039,
+        "num": 3644039,
+        "word": "不要建议",
+        "onboard_time": 1661578710,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1801434,
+        "num": 1801434,
+        "word": "建议农民进城买房专家已被多平台禁言",
+        "onboard_time": 1661592809,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38968,
+        "num": 1503804,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1502707,
+        "num": 1502707,
+        "word": "大学生果然都是高铁楷模",
+        "onboard_time": 1661588849,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 854918,
+        "num": 854918,
+        "word": "小兰花今晚自刎",
+        "onboard_time": 1661592568,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 764618,
+        "num": 764618,
+        "word": "全世界都在等你们分手开机",
+        "onboard_time": 1661593230,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 743213,
+        "num": 743213,
+        "word": "延迟开学退票费该谁承担",
+        "onboard_time": 1661594729,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 656024,
+        "num": 656024,
+        "word": "杨幂用计算机按迪丽热巴",
+        "onboard_time": 1661582489,
+        "rank": 7,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 626894,
+        "num": 626894,
+        "word": "6人恶意阻挠隔离期满人员返家被拘",
+        "onboard_time": 1661590409,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619501,
+        "num": 619501,
+        "word": "北京增本土新冠感染者6例",
+        "onboard_time": 1661593767,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634588,
+        "num": 605774,
+        "word": "小兰花在东方青苍怀中灰飞烟灭",
+        "onboard_time": 1661592266,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580223,
+        "num": 580223,
+        "word": "重庆人民被云南森林消防吓到了",
+        "onboard_time": 1661584409,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 575631,
+        "num": 575631,
+        "word": "smtown",
+        "onboard_time": 1661589629,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 564605,
+        "num": 564605,
+        "word": "王宝强说李斯丹妮适合演张飞",
+        "onboard_time": 1661594010,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400449,
+        "num": 400449,
+        "word": "北语混采阳性复核结果为阴",
+        "onboard_time": 1661593409,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368358,
+        "num": 368358,
+        "word": "北京交警通报跑山骑手坠崖事故",
+        "onboard_time": 1661593166,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 362744,
+        "num": 362744,
+        "word": "纯电车真能续航1000km吗",
+        "onboard_time": 1661594669,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 294436,
+        "num": 294436,
+        "word": "日落是最高级的浪漫",
+        "onboard_time": 1661590827,
+        "rank": 17,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 268128,
+        "num": 268128,
+        "word": "指甲上的月牙和健康有关吗",
+        "onboard_time": 1661581468,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260923,
+        "num": 260923,
+        "word": "石家庄18人初筛阳性",
+        "onboard_time": 1661585847,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445135,
+        "num": 260914,
+        "word": "拜托了甄嬛传",
+        "onboard_time": 1661583990,
+        "rank": 20,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 409443,
+        "num": 258405,
+        "word": "马嘉祺录制我们的歌4",
+        "onboard_time": 1661591489,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252813,
+        "num": 252813,
+        "word": "别拍了快去帮帮小猫吧",
+        "onboard_time": 1661591789,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392903,
+        "num": 249665,
+        "word": "我们的歌",
+        "onboard_time": 1661595150,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242014,
+        "num": 242014,
+        "word": "迪士尼",
+        "onboard_time": 1661594551,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 217865,
+        "num": 217865,
+        "word": "原来在顺德还能这样吃鱼",
+        "onboard_time": 1661592030,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207197,
+        "num": 207197,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1661588429,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204440,
+        "num": 204440,
+        "word": "69岁大爷携13万跨省寻女主播",
+        "onboard_time": 1661583449,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196872,
+        "num": 196872,
+        "word": "四川人的外套可以准备起来了",
+        "onboard_time": 1661586388,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189527,
+        "num": 189527,
+        "word": "黄平县通报事业单位招考11人作弊",
+        "onboard_time": 1661595449,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 389354,
+        "num": 188425,
+        "word": "王鹤棣热血高校穿搭",
+        "onboard_time": 1661595810,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348052,
+        "num": 187439,
+        "word": "你追的第一个男子组合",
+        "onboard_time": 1661590769,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280869,
+        "num": 186312,
+        "word": "程少商星汉灿烂和月升沧海对比",
+        "onboard_time": 1661584952,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272633,
+        "num": 185225,
+        "word": "恶童",
+        "onboard_time": 1661580810,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184584,
+        "num": 184584,
+        "word": "高诗岩转会费高达2500万",
+        "onboard_time": 1661592389,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 182902,
+        "num": 182902,
+        "word": "点外卖发生过的有趣经历",
+        "onboard_time": 1661594551,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174113,
+        "num": 174113,
+        "word": "00后偷玛莎拉蒂从长沙开到九江",
+        "onboard_time": 1661576730,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150611,
+        "num": 150611,
+        "word": "董藩",
+        "onboard_time": 1661578289,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148615,
+        "num": 148615,
+        "word": "8岁女孩跟医生爸爸学习缝合手术",
+        "onboard_time": 1661579729,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147521,
+        "num": 147521,
+        "word": "人造胚胎成功培育出大脑和心脏",
+        "onboard_time": 1661595810,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 257213,
+        "num": 145207,
+        "word": "周生辰被剔骨一周年",
+        "onboard_time": 1661591489,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219511,
+        "num": 143396,
+        "word": "BLACKPINK新歌特别舞台",
+        "onboard_time": 1661583630,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198934,
+        "num": 143155,
+        "word": "严浩翔针织帽怼脸照",
+        "onboard_time": 1661596048,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141145,
+        "num": 141145,
+        "word": "商贩卖芹菜收入20元被罚6万6",
+        "onboard_time": 1661596587,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 140315,
+        "num": 140315,
+        "word": "这哪是开学的高铁啊",
+        "onboard_time": 1661574930,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138831,
+        "num": 138831,
+        "word": "注会综合",
+        "onboard_time": 1661596351,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133726,
+        "num": 133726,
+        "word": "母亲拉架被醉酒儿子拳打脚踢",
+        "onboard_time": 1661576189,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129230,
+        "num": 129230,
+        "word": "为了用这个梗 连话都不会说了啊",
+        "onboard_time": 1661584829,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127988,
+        "num": 127988,
+        "word": "云南森林消防员留下的便签太暖了",
+        "onboard_time": 1661595449,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113024,
+        "num": 113024,
+        "word": "山西多校以是否购买平板电脑为分班标准",
+        "onboard_time": 1661580270,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡影都寻美京彩#"
+    }
+  }
+}

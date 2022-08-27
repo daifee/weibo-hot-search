@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661595786088,
+  "endTime": 1661596773999,
   "band_list": [
     {
       "raw_hot": 6090220,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1801434,
+      "num": 1801434,
+      "word": "建议农民进城买房专家已被多平台禁言",
+      "onboard_time": 1661592809,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1642263,
       "num": 1642263,
       "word": "警方通报一女子在烧烤店被砍伤",
@@ -112,14 +120,6 @@
       "word": "00后偷玛莎拉蒂从长沙开到九江",
       "onboard_time": 1661576730,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1445420,
-      "num": 1445420,
-      "word": "建议农民进城买房专家已被多平台禁言",
-      "onboard_time": 1661592809,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743213,
+      "num": 743213,
+      "word": "延迟开学退票费该谁承担",
+      "onboard_time": 1661594729,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 737243,
       "num": 657544,
       "word": "母亲拉架被醉酒儿子拳打脚踢",
@@ -385,6 +393,14 @@
       "onboard_time": 1661578349,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634588,
+      "num": 605774,
+      "word": "小兰花在东方青苍怀中灰飞烟灭",
+      "onboard_time": 1661592266,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 625874,
@@ -505,14 +521,6 @@
       "onboard_time": 1661579729,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523234,
-      "num": 261792,
-      "word": "小兰花在东方青苍怀中灰飞烟灭",
-      "onboard_time": 1661592266,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 508513,
@@ -675,11 +683,35 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 400449,
+      "num": 400449,
+      "word": "北语混采阳性复核结果为阴",
+      "onboard_time": 1661593409,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 392903,
+      "num": 249665,
+      "word": "我们的歌",
+      "onboard_time": 1661595150,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390113,
       "num": 390113,
       "word": "鹿晗梦寐之地",
       "onboard_time": 1661532264,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389354,
+      "num": 188425,
+      "word": "王鹤棣热血高校穿搭",
+      "onboard_time": 1661595810,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -707,14 +739,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 377581,
-      "num": 183063,
-      "word": "我们的歌",
-      "onboard_time": 1661595150,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375722,
       "num": 375722,
       "word": "初级会计 成绩",
@@ -737,6 +761,22 @@
       "onboard_time": 1661586388,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368358,
+      "num": 368358,
+      "word": "北京交警通报跑山骑手坠崖事故",
+      "onboard_time": 1661593166,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 362744,
+      "num": 362744,
+      "word": "纯电车真能续航1000km吗",
+      "onboard_time": 1661594669,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 358660,
@@ -777,14 +817,6 @@
       "onboard_time": 1661523093,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348153,
-      "num": 348153,
-      "word": "北语混采阳性复核结果为阴",
-      "onboard_time": 1661593409,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 347345,
@@ -833,14 +865,6 @@
       "onboard_time": 1661582431,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330512,
-      "num": 330512,
-      "word": "延迟开学退票费该谁承担",
-      "onboard_time": 1661594729,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 330268,
@@ -1067,22 +1091,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 260074,
-      "num": 260074,
-      "word": "纯电车真能续航1000km吗",
-      "onboard_time": 1661594669,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 259408,
-      "num": 259408,
-      "word": "北京交警通报跑山骑手坠崖事故",
-      "onboard_time": 1661593166,
-      "rank": 24,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 257777,
       "num": 257777,
       "word": "Ale评论澄清与队伍无关",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1661571449,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242014,
+      "num": 242014,
+      "word": "迪士尼",
+      "onboard_time": 1661594551,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 233417,
@@ -1243,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217865,
+      "num": 217865,
+      "word": "原来在顺德还能这样吃鱼",
+      "onboard_time": 1661592030,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 216969,
       "num": 216969,
       "word": "武汉疫情防控",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1661526575,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198934,
+      "num": 143155,
+      "word": "严浩翔针织帽怼脸照",
+      "onboard_time": 1661596048,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 198734,
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189527,
+      "num": 189527,
+      "word": "黄平县通报事业单位招考11人作弊",
+      "onboard_time": 1661595449,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 185114,
       "num": 185114,
       "word": "熊孩子性格是否因溺爱导致",
@@ -1347,20 +1387,20 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 183154,
-      "num": 183154,
+      "raw_hot": 184584,
+      "num": 184584,
       "word": "高诗岩转会费高达2500万",
       "onboard_time": 1661592389,
       "rank": 39,
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 180947,
-      "num": 180947,
-      "word": "原来在顺德还能这样吃鱼",
-      "onboard_time": 1661592030,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 182902,
+      "num": 182902,
+      "word": "点外卖发生过的有趣经历",
+      "onboard_time": 1661594551,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 180371,
@@ -1459,14 +1499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163884,
-      "num": 163884,
-      "word": "点外卖发生过的有趣经历",
-      "onboard_time": 1661594551,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162749,
       "num": 162749,
       "word": "中国与美国签署审计监管合作协议",
@@ -1523,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147521,
+      "num": 147521,
+      "word": "人造胚胎成功培育出大脑和心脏",
+      "onboard_time": 1661595810,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 147206,
       "num": 147206,
       "word": "苍兰诀Q版人物创作大赛",
@@ -1555,12 +1595,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 141189,
-      "num": 141189,
-      "word": "黄平县通报事业单位招考11人作弊",
-      "onboard_time": 1661595449,
-      "rank": 46,
-      "category": "社会新闻,教育"
+      "raw_hot": 141145,
+      "num": 141145,
+      "word": "商贩卖芹菜收入20元被罚6万6",
+      "onboard_time": 1661596587,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 138831,
+      "num": 138831,
+      "word": "注会综合",
+      "onboard_time": 1661596351,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 138708,
@@ -1641,14 +1689,6 @@
       "onboard_time": 1661537414,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121843,
-      "num": 121843,
-      "word": "迪士尼",
-      "onboard_time": 1661594551,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 120720,
