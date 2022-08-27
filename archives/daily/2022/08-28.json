@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661642497845,
+  "endTime": 1661643521426,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389653,
+      "num": 389653,
+      "word": "重庆缙云山大火是怎么扑灭的",
+      "onboard_time": 1661638213,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388689,
       "num": 388689,
       "word": "商贩卖芹菜收入20元被罚6万6",
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288750,
+      "num": 288750,
+      "word": "上海交大校友名录未见秦泽文",
+      "onboard_time": 1661633591,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286607,
       "num": 286607,
       "word": "一看就是大学生坐的车",
@@ -203,22 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254233,
-      "num": 254233,
-      "word": "上海交大校友名录未见秦泽文",
-      "onboard_time": 1661633591,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241917,
-      "num": 241917,
-      "word": "重庆缙云山大火是怎么扑灭的",
-      "onboard_time": 1661638213,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241498,
       "num": 241498,
       "word": "曼城",
@@ -233,6 +233,14 @@
       "onboard_time": 1661610696,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238340,
+      "num": 238340,
+      "word": "8岁男童头部被蜂群蜇伤40多处",
+      "onboard_time": 1661634552,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230962,
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202240,
-      "num": 202240,
-      "word": "8岁男童头部被蜂群蜇伤40多处",
-      "onboard_time": 1661634552,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194241,
       "num": 194241,
       "word": "女护士用男友手背练习扎针",
@@ -315,6 +315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 174107,
+      "num": 174107,
+      "word": "当军训教官遇到3学生分不清左右",
+      "onboard_time": 1661632991,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 172777,
       "num": 172777,
       "word": "切尔西",
@@ -323,20 +331,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170276,
+      "num": 164295,
+      "word": "青岛一小区抓捕2条鳄雀鳝",
+      "onboard_time": 1661642959,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "看雀斑公主稀里糊涂哭了",
+      "onboard_time": 1661622258,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168583,
+      "num": 168583,
+      "word": "大连疫情防控",
+      "onboard_time": 1661640736,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165687,
       "num": 111010,
       "word": "140斤的魏大勋被纸巾吊起来了",
       "onboard_time": 1661608955,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159532,
-      "num": 159532,
-      "word": "当军训教官遇到3学生分不清左右",
-      "onboard_time": 1661632991,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158041,
@@ -353,14 +377,6 @@
       "onboard_time": 1661614652,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141680,
-      "num": 141680,
-      "word": "看雀斑公主稀里糊涂哭了",
-      "onboard_time": 1661622258,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 139341,
@@ -443,12 +459,12 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 103690,
-      "num": 103690,
-      "word": "大连疫情防控",
-      "onboard_time": 1661640736,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 103294,
+      "num": 103294,
+      "word": "盘点外国明星说中文名场面",
+      "onboard_time": 1661642416,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97299,
@@ -467,12 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85226,
-      "num": 85226,
-      "word": "盘点外国明星说中文名场面",
-      "onboard_time": 1661642416,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 88372,
+      "num": 88372,
+      "word": "大一新生携2米高盆栽开学",
+      "onboard_time": 1661643139,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 84088,
+      "num": 84088,
+      "word": "刘奕君说自己是杨玲唯一的霸霸",
+      "onboard_time": 1661635031,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 83064,
+      "num": 83064,
+      "word": "剑网3十三周年",
+      "onboard_time": 1661643379,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 81834,
@@ -483,12 +515,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76859,
-      "num": 76859,
-      "word": "刘奕君说自己是杨玲唯一的霸霸",
-      "onboard_time": 1661635031,
-      "rank": 26,
+      "raw_hot": 79107,
+      "num": 79107,
+      "word": "和猫猫的双向奔赴有多甜",
+      "onboard_time": 1661620521,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 74607,
+      "num": 74607,
+      "word": "玫瑰之战 编剧",
+      "onboard_time": 1661634791,
+      "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74106,
+      "num": 74106,
+      "word": "利物浦9比0伯恩茅斯",
+      "onboard_time": 1661642538,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 72767,
@@ -507,22 +555,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 70977,
-      "num": 70977,
-      "word": "玫瑰之战 编剧",
-      "onboard_time": 1661634791,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 65807,
-      "num": 65807,
-      "word": "和猫猫的双向奔赴有多甜",
-      "onboard_time": 1661620521,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 65668,
       "num": 63228,
       "word": "黄景瑜演的常征怕鸡的原因",
@@ -531,8 +563,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 46834,
-      "num": 46834,
+      "raw_hot": 60103,
+      "num": 60103,
       "word": "怎么会不爱狗狗呢",
       "onboard_time": 1661621838,
       "rank": 49,
@@ -547,20 +579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23008,
+      "num": 619062,
+      "word": "这道防火长城坚不可摧",
+      "onboard_time": 1661518647,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 7706,
       "num": 7706,
       "word": "歼20首飞试飞员说飞完还没过瘾",
       "onboard_time": 1661632691,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 6286,
-      "num": 544250,
-      "word": "这道防火长城坚不可摧",
-      "onboard_time": 1661518647,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
