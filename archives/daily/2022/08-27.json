@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661607860955,
+  "endTime": 1661609950255,
   "band_list": [
     {
       "raw_hot": 6090220,
@@ -23,6 +23,14 @@
       "num": 3946998,
       "word": "取快递收到死亡小老虎",
       "onboard_time": 1661527410,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3864249,
+      "num": 3864249,
+      "word": "被误诊艾滋病5年当事人发声",
+      "onboard_time": 1661607992,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1716450,
+      "num": 1716450,
+      "word": "羽生结弦",
+      "onboard_time": 1661602469,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1642263,
       "num": 1642263,
       "word": "警方通报一女子在烧烤店被砍伤",
@@ -163,14 +179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1465923,
-      "num": 1465923,
-      "word": "羽生结弦",
-      "onboard_time": 1661602469,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1451749,
       "num": 1451749,
       "word": "00后偷玛莎拉蒂从长沙开到九江",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1342704,
-      "num": 651228,
+      "num": 1196632,
       "word": "业火",
       "onboard_time": 1661603910,
       "rank": 31,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1060021,
-      "num": 604417,
+      "num": 656857,
       "word": "王鹤棣哭戏",
       "onboard_time": 1661606071,
       "rank": 12,
@@ -459,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726269,
+      "num": 376432,
+      "word": "沉香如屑超过40万人评分",
+      "onboard_time": 1661607572,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708312,
       "num": 708312,
       "word": "安徽南陵一广场4人遭雷击",
       "onboard_time": 1661562570,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681701,
+      "num": 349795,
+      "word": "刘雨昕考驾照拖延症是我本人",
+      "onboard_time": 1661604569,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 670489,
@@ -491,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656989,
+      "num": 348427,
+      "word": "王一博点评永远能抓住重点",
+      "onboard_time": 1661609433,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 656026,
+      "num": 656026,
+      "word": "一看就是大学生坐的车",
+      "onboard_time": 1661606071,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 647792,
       "num": 338546,
       "word": "kyoka把王一博吓一哆嗦",
@@ -512,6 +552,14 @@
       "word": "艾热王以太婚礼一条龙曲库",
       "onboard_time": 1661578349,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 632140,
+      "num": 229159,
+      "word": "140斤的魏大勋被纸巾吊起来了",
+      "onboard_time": 1661608955,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -609,14 +657,6 @@
       "onboard_time": 1661579430,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 569074,
-      "num": 322650,
-      "word": "刘雨昕考驾照拖延症是我本人",
-      "onboard_time": 1661604569,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 562847,
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454411,
+      "num": 224076,
+      "word": "李承铉在街舞5打了两份工",
+      "onboard_time": 1661608773,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453345,
       "num": 453345,
       "word": "男子疑碰瓷公交被路人淡定拖走",
@@ -795,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450346,
+      "num": 450346,
+      "word": "求求了脚趾也是会累的",
+      "onboard_time": 1661605771,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 444279,
       "num": 444279,
       "word": "辅警发现路牌歪了救人一命",
       "onboard_time": 1661597551,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432250,
+      "num": 432250,
+      "word": "北京WB",
+      "onboard_time": 1661609014,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 432201,
@@ -817,22 +881,6 @@
       "onboard_time": 1661590769,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 418544,
-      "num": 213299,
-      "word": "沉香如屑超过40万人评分",
-      "onboard_time": 1661607572,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 414603,
-      "num": 305372,
-      "word": "求求了脚趾也是会累的",
-      "onboard_time": 1661605771,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 412803,
@@ -929,6 +977,14 @@
       "onboard_time": 1661595810,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388410,
+      "num": 388410,
+      "word": "回击恶评还得是北京大妈",
+      "onboard_time": 1661604750,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387367,
@@ -1065,14 +1121,6 @@
       "onboard_time": 1661595449,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 345776,
-      "num": 345776,
-      "word": "一看就是大学生坐的车",
-      "onboard_time": 1661606071,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 344972,
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283799,
+      "num": 1899780,
+      "word": "山城的灯光战胜了火光",
+      "onboard_time": 1661606432,
+      "rank": 2,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 280303,
       "num": 104000,
       "word": "虚拟演员春草首亮相",
@@ -1435,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253238,
+      "num": 182521,
+      "word": "任嘉伦学会了编绳",
+      "onboard_time": 1661609852,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252794,
       "num": 186001,
       "word": "GAI威远故事舞台现场落泪",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1661572349,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249207,
+      "num": 249207,
+      "word": "长白山下雪了",
+      "onboard_time": 1661608112,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 248284,
@@ -1651,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199215,
+      "num": 199215,
+      "word": "懒人为了做月饼有多拼",
+      "onboard_time": 1661608893,
+      "rank": 37,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 198934,
       "num": 143155,
       "word": "严浩翔针织帽怼脸照",
@@ -1753,14 +1833,6 @@
       "onboard_time": 1661575170,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176320,
-      "num": 1779230,
-      "word": "山城的灯光战胜了火光",
-      "onboard_time": 1661606432,
-      "rank": 2,
-      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 174494,
@@ -2019,14 +2091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129941,
-      "num": 129941,
-      "word": "回击恶评还得是北京大妈",
-      "onboard_time": 1661604750,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129787,
       "num": 129787,
       "word": "陈小春评论区初代哥哥团建",
@@ -2059,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111092,
+      "num": 111092,
+      "word": "天津大筛",
+      "onboard_time": 1661609914,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108660,
       "num": 108660,
       "word": "CPA战略",
@@ -2073,6 +2145,14 @@
       "onboard_time": 1661585436,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106251,
+      "num": 106251,
+      "word": "花卷的不知火舞",
+      "onboard_time": 1661609914,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 104261,
