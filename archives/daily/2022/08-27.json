@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661593053117,
+  "endTime": 1661595786088,
   "band_list": [
     {
       "raw_hot": 6090220,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1445420,
+      "num": 1445420,
+      "word": "建议农民进城买房专家已被多平台禁言",
+      "onboard_time": 1661592809,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1420556,
       "num": 1420556,
       "word": "你好星期六全员晒理想型",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 998602,
+      "num": 998602,
+      "word": "小兰花今晚自刎",
+      "onboard_time": 1661592568,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 961423,
       "num": 961423,
       "word": "山西多校以是否购买平板电脑为分班标准",
@@ -225,6 +241,14 @@
       "onboard_time": 1661583630,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 837873,
+      "num": 837873,
+      "word": "6人恶意阻挠隔离期满人员返家被拘",
+      "onboard_time": 1661590409,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 832039,
@@ -259,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 781222,
+      "num": 781222,
+      "word": "全世界都在等你们分手开机",
+      "onboard_time": 1661593230,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778891,
       "num": 778891,
       "word": "指甲上的月牙和健康有关吗",
@@ -283,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 764655,
-      "num": 764655,
-      "word": "小兰花今晚自刎",
-      "onboard_time": 1661592568,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 751614,
+      "num": 597166,
+      "word": "王宝强说李斯丹妮适合演张飞",
+      "onboard_time": 1661594010,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 737243,
@@ -315,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 685032,
-      "num": 685032,
-      "word": "6人恶意阻挠隔离期满人员返家被拘",
-      "onboard_time": 1661590409,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670489,
       "num": 670489,
       "word": "苍兰诀9月17日直播见面会",
@@ -337,6 +361,14 @@
       "onboard_time": 1661554998,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 659258,
+      "num": 659258,
+      "word": "北京增本土新冠感染者6例",
+      "onboard_time": 1661593767,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646327,
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523234,
+      "num": 261792,
+      "word": "小兰花在东方青苍怀中灰飞烟灭",
+      "onboard_time": 1661592266,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508513,
       "num": 456522,
       "word": "北语 疫情防控",
@@ -561,6 +601,14 @@
       "onboard_time": 1661576489,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423943,
+      "num": 261218,
+      "word": "你追的第一个男子组合",
+      "onboard_time": 1661590769,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 415188,
@@ -659,6 +707,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 377581,
+      "num": 183063,
+      "word": "我们的歌",
+      "onboard_time": 1661595150,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375722,
       "num": 375722,
       "word": "初级会计 成绩",
@@ -681,14 +737,6 @@
       "onboard_time": 1661586388,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360723,
-      "num": 180323,
-      "word": "你追的第一个男子组合",
-      "onboard_time": 1661590769,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 358660,
@@ -731,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348153,
+      "num": 348153,
+      "word": "北语混采阳性复核结果为阴",
+      "onboard_time": 1661593409,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 347345,
       "num": 347345,
       "word": "北京疫情防控",
@@ -755,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343635,
+      "num": 343635,
+      "word": "日落是最高级的浪漫",
+      "onboard_time": 1661590827,
+      "rank": 18,
+      "category": "情感,旅游"
+    },
+    {
       "raw_hot": 343622,
       "num": 343622,
       "word": "CPA审计",
@@ -771,12 +835,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332246,
-      "num": 332246,
-      "word": "日落是最高级的浪漫",
-      "onboard_time": 1661590827,
-      "rank": 18,
-      "category": "情感,旅游"
+      "raw_hot": 330512,
+      "num": 330512,
+      "word": "延迟开学退票费该谁承担",
+      "onboard_time": 1661594729,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 330268,
@@ -836,7 +900,7 @@
     },
     {
       "raw_hot": 309003,
-      "num": 179539,
+      "num": 182022,
       "word": "周生辰被剔骨一周年",
       "onboard_time": 1661591489,
       "rank": 33,
@@ -987,12 +1051,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262536,
+      "num": 262536,
+      "word": "别拍了快去帮帮小猫吧",
+      "onboard_time": 1661591789,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260146,
       "num": 260146,
       "word": "的哥不让救火归来的志愿者扫码付款",
       "onboard_time": 1661580209,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 260074,
+      "num": 260074,
+      "word": "纯电车真能续航1000km吗",
+      "onboard_time": 1661594669,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 259408,
+      "num": 259408,
+      "word": "北京交警通报跑山骑手坠崖事故",
+      "onboard_time": 1661593166,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 257777,
@@ -1259,6 +1347,22 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 183154,
+      "num": 183154,
+      "word": "高诗岩转会费高达2500万",
+      "onboard_time": 1661592389,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 180947,
+      "num": 180947,
+      "word": "原来在顺德还能这样吃鱼",
+      "onboard_time": 1661592030,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180371,
       "num": 180371,
       "word": "北京疫情发布会",
@@ -1273,14 +1377,6 @@
       "onboard_time": 1661517930,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178780,
-      "num": 178780,
-      "word": "建议农民进城买房专家已被多平台禁言",
-      "onboard_time": 1661592809,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176587,
@@ -1347,12 +1443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167629,
+      "num": 167629,
+      "word": "中国男排vs土耳其男排",
+      "onboard_time": 1661593767,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166772,
       "num": 166772,
       "word": "JDG让二追三",
       "onboard_time": 1661525136,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163884,
+      "num": 163884,
+      "word": "点外卖发生过的有趣经历",
+      "onboard_time": 1661594551,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 162749,
@@ -1419,12 +1531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144466,
-      "num": 144466,
-      "word": "别拍了快去帮帮小猫吧",
-      "onboard_time": 1661591789,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 146666,
+      "num": 146666,
+      "word": "云南森林消防员留下的便签太暖了",
+      "onboard_time": 1661595449,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144319,
@@ -1441,6 +1553,14 @@
       "onboard_time": 1661509168,
       "rank": 45,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 141189,
+      "num": 141189,
+      "word": "黄平县通报事业单位招考11人作弊",
+      "onboard_time": 1661595449,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 138708,
@@ -1523,12 +1643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123831,
-      "num": 123831,
-      "word": "高诗岩转会费高达2500万",
-      "onboard_time": 1661592389,
-      "rank": 39,
-      "category": "体育,社会新闻"
+      "raw_hot": 121843,
+      "num": 121843,
+      "word": "迪士尼",
+      "onboard_time": 1661594551,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 120720,
@@ -1537,6 +1657,14 @@
       "onboard_time": 1661556561,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116621,
+      "num": 116621,
+      "word": "5男子冲入长江救起被困两人",
+      "onboard_time": 1661594190,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 108660,
@@ -1553,14 +1681,6 @@
       "onboard_time": 1661585436,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107726,
-      "num": 107726,
-      "word": "原来在顺德还能这样吃鱼",
-      "onboard_time": 1661592030,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 104261,
