@@ -1,10 +1,10 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661567132613,
+  "endTime": 1661569304083,
   "band_list": [
     {
       "raw_hot": 5909812,
-      "num": 1492708,
+      "num": 1699799,
       "word": "王东 家暴",
       "onboard_time": 1661557645,
       "rank": 3,
@@ -25,6 +25,14 @@
       "onboard_time": 1661561670,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2293395,
+      "num": 2293395,
+      "word": "专家建议还房贷时间延至40年",
+      "onboard_time": 1661565989,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1642263,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1342127,
+      "num": 1342127,
+      "word": "女子朋友圈刷到头孢配酒跨省报警",
+      "onboard_time": 1661564789,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1193300,
       "num": 1193300,
       "word": "这学能不能不开了",
@@ -72,14 +88,6 @@
       "word": "卫健委通报刘翔峰有关问题",
       "onboard_time": 1661528553,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854946,
-      "num": 854946,
-      "word": "女子朋友圈刷到头孢配酒跨省报警",
-      "onboard_time": 1661564789,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -187,12 +195,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506995,
-      "num": 506995,
+      "raw_hot": 550196,
+      "num": 550196,
       "word": "西华师范大学 研究生入学奖",
       "onboard_time": 1661563231,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 547116,
+      "num": 547116,
+      "word": "网传朝阳打歌中心被叫停",
+      "onboard_time": 1661567427,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 500396,
+      "num": 500396,
+      "word": "四川一水下坐佛露真身",
+      "onboard_time": 1661567128,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486620,
@@ -233,14 +257,6 @@
       "onboard_time": 1661562029,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449430,
-      "num": 449430,
-      "word": "专家建议还房贷时间延至40年",
-      "onboard_time": 1661565989,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 411606,
@@ -323,6 +339,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 358553,
+      "num": 358553,
+      "word": "女大学生被害案凶手还计划杀5人",
+      "onboard_time": 1661567068,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357996,
       "num": 357996,
       "word": "医生建议勿跟风藿香正气冰中式",
@@ -345,6 +369,14 @@
       "onboard_time": 1661523093,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347345,
+      "num": 347345,
+      "word": "北京疫情防控",
+      "onboard_time": 1661565630,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344972,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 311851,
-      "num": 1494271,
+      "num": 1706108,
       "word": "这道防火长城坚不可摧",
       "onboard_time": 1661518647,
       "rank": 2,
@@ -427,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290141,
-      "num": 290141,
-      "word": "北京疫情防控",
-      "onboard_time": 1661565630,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280303,
       "num": 104000,
       "word": "虚拟演员春草首亮相",
       "onboard_time": 1661546291,
       "rank": 47,
       "category": "科技,影视"
+    },
+    {
+      "raw_hot": 278814,
+      "num": 278814,
+      "word": "黄景瑜拍罚罪好省妆发",
+      "onboard_time": 1661568089,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 255105,
@@ -464,6 +496,14 @@
       "word": "8月26日新增本土确诊250例",
       "onboard_time": 1661563052,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247308,
+      "num": 247308,
+      "word": "上海增1例本土确诊7例本土无症状",
+      "onboard_time": 1661567847,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -504,6 +544,14 @@
       "word": "武汉疫情防控",
       "onboard_time": 1661523211,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208755,
+      "num": 208755,
+      "word": "边境警犬巡逻嗅出毒品8公斤",
+      "onboard_time": 1661565090,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -563,11 +611,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180267,
-      "num": 180267,
-      "word": "边境警犬巡逻嗅出毒品8公斤",
-      "onboard_time": 1661565090,
-      "rank": 36,
+      "raw_hot": 175827,
+      "num": 175827,
+      "word": "任何理由都不是家暴的借口",
+      "onboard_time": 1661568028,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -627,6 +675,22 @@
       "category": "自然"
     },
     {
+      "raw_hot": 156076,
+      "num": 156076,
+      "word": "重庆这股英雄气为何引发共鸣",
+      "onboard_time": 1661566650,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 155759,
+      "num": 155759,
+      "word": "阿乐",
+      "onboard_time": 1661569048,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154581,
       "num": 154581,
       "word": "东部战区在台岛周边实战化演练",
@@ -635,12 +699,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 147781,
-      "num": 147781,
-      "word": "重庆这股英雄气为何引发共鸣",
-      "onboard_time": 1661566650,
-      "rank": 42,
-      "category": "社会正能量"
+      "raw_hot": 151726,
+      "num": 151726,
+      "word": "十种家暴证据形式",
+      "onboard_time": 1661568749,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151169,
+      "num": 151169,
+      "word": "不查字典不会读的地名",
+      "onboard_time": 1661568688,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143553,
@@ -704,22 +776,6 @@
       "word": "重庆得行",
       "onboard_time": 1661556561,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112076,
-      "num": 112076,
-      "word": "四川一水下坐佛露真身",
-      "onboard_time": 1661567128,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111279,
-      "num": 111279,
-      "word": "女大学生被害案凶手还计划杀5人",
-      "onboard_time": 1661567068,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
