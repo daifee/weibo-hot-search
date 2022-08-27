@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661636190792,
+  "endTime": 1661638837970,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -339,6 +339,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 128228,
+      "num": 108942,
+      "word": "上海交大校友名录未见秦泽文",
+      "onboard_time": 1661633591,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126024,
+      "num": 126024,
+      "word": "天津疫情防控",
+      "onboard_time": 1661635271,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123317,
       "num": 123317,
       "word": "F1",
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104807,
+      "num": 104807,
+      "word": "8岁男童头部被蜂群蜇伤40多处",
+      "onboard_time": 1661634552,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104176,
       "num": 104176,
       "word": "当新疆的老师有多难",
@@ -409,6 +433,14 @@
       "onboard_time": 1661597551,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86233,
+      "num": 86233,
+      "word": "当军训教官遇到3学生分不清左右",
+      "onboard_time": 1661632991,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 81834,
@@ -467,20 +499,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 46097,
-      "num": 31107,
-      "word": "上海交大校友名录未见秦泽文",
-      "onboard_time": 1661633591,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 40508,
+      "num": 40508,
+      "word": "玫瑰之战 编剧",
+      "onboard_time": 1661634791,
+      "rank": 48,
+      "category": "影视"
     },
     {
-      "raw_hot": 35873,
-      "num": 35873,
-      "word": "当军训教官遇到3学生分不清左右",
-      "onboard_time": 1661632991,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 32365,
+      "num": 30801,
+      "word": "刘奕君说自己是杨玲唯一的霸霸",
+      "onboard_time": 1661635031,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 31309,
@@ -491,36 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28145,
-      "num": 28145,
-      "word": "天津疫情防控",
-      "onboard_time": 1661635271,
-      "rank": 24,
+      "raw_hot": 16347,
+      "num": 16347,
+      "word": "重庆缙云山大火是怎么扑灭的",
+      "onboard_time": 1661638213,
+      "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25455,
-      "num": 25455,
-      "word": "8岁男童头部被蜂群蜇伤40多处",
-      "onboard_time": 1661634552,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19987,
-      "num": 19987,
-      "word": "刘奕君说自己是杨玲唯一的霸霸",
-      "onboard_time": 1661635031,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 11166,
-      "num": 11166,
-      "word": "玫瑰之战 编剧",
-      "onboard_time": 1661634791,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 7706,

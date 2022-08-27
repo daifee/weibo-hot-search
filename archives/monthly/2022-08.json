@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661636190792,
+  "endTime": 1661638837970,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -59747,6 +59747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128228,
+      "num": 108942,
+      "word": "上海交大校友名录未见秦泽文",
+      "onboard_time": 1661633591,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128132,
       "num": 2818409,
       "word": "致敬青春最美的样子",
@@ -60627,6 +60635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104807,
+      "num": 104807,
+      "word": "8岁男童头部被蜂群蜇伤40多处",
+      "onboard_time": 1661634552,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104696,
       "num": 104696,
       "word": "流星雨心愿墙刷屏了",
@@ -60969,6 +60985,14 @@
       "onboard_time": 1659997754,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86233,
+      "num": 86233,
+      "word": "当军训教官遇到3学生分不清左右",
+      "onboard_time": 1661632991,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 85558,
@@ -61563,14 +61587,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 46097,
-      "num": 31107,
-      "word": "上海交大校友名录未见秦泽文",
-      "onboard_time": 1661633591,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46058,
       "num": 26403,
       "word": "Billboard首封预告是王嘉尔吧",
@@ -61665,6 +61681,14 @@
       "onboard_time": 1661290272,
       "rank": 49,
       "category": "自然"
+    },
+    {
+      "raw_hot": 40508,
+      "num": 40508,
+      "word": "玫瑰之战 编剧",
+      "onboard_time": 1661634791,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 39561,
@@ -61763,14 +61787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35873,
-      "num": 35873,
-      "word": "当军训教官遇到3学生分不清左右",
-      "onboard_time": 1661632991,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 35144,
       "num": 549034,
       "word": "张继科说今晚肯定不睡",
@@ -61849,6 +61865,14 @@
       "onboard_time": 1659463225,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 32365,
+      "num": 30801,
+      "word": "刘奕君说自己是杨玲唯一的霸霸",
+      "onboard_time": 1661635031,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 31780,
@@ -61969,14 +61993,6 @@
       "onboard_time": 1660333032,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25455,
-      "num": 25455,
-      "word": "8岁男童头部被蜂群蜇伤40多处",
-      "onboard_time": 1661634552,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25017,
@@ -62107,14 +62123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19987,
-      "num": 19987,
-      "word": "刘奕君说自己是杨玲唯一的霸霸",
-      "onboard_time": 1661635031,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 19637,
       "num": 19080,
       "word": "李光洁迷失在400多道菜的菜单里",
@@ -62185,6 +62193,14 @@
       "onboard_time": 1660615231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 16347,
+      "num": 16347,
+      "word": "重庆缙云山大火是怎么扑灭的",
+      "onboard_time": 1661638213,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16097,
@@ -62353,14 +62369,6 @@
       "onboard_time": 1659469515,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11166,
-      "num": 11166,
-      "word": "玫瑰之战 编剧",
-      "onboard_time": 1661634791,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 10481,
