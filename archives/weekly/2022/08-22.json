@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661588801453,
+  "endTime": 1661589774632,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1526198,
+      "num": 1526198,
+      "word": "重庆人民被云南森林消防吓到了",
+      "onboard_time": 1661584409,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1523345,
       "num": 1523345,
       "word": "宁波美籍男子故意杀人案二审宣判",
@@ -1411,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1210779,
-      "num": 1210779,
-      "word": "重庆人民被云南森林消防吓到了",
-      "onboard_time": 1661584409,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 1208957,
       "num": 1031180,
       "word": "twice空降",
@@ -1683,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1080359,
+      "num": 1080359,
+      "word": "石家庄18人初筛阳性",
+      "onboard_time": 1661585847,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1079833,
       "num": 1079833,
       "word": "谢了四六级再谢四六鸡",
@@ -1800,14 +1808,6 @@
       "word": "男子boss直聘求职被骂长的像贼",
       "onboard_time": 1661263595,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038363,
-      "num": 1038363,
-      "word": "石家庄18人初筛阳性",
-      "onboard_time": 1661585847,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2587,6 +2587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 786680,
+      "num": 640868,
+      "word": "程少商星汉灿烂和月升沧海对比",
+      "onboard_time": 1661584952,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 786430,
       "num": 786430,
       "word": "重庆小伙两天两夜送物资累到浇水",
@@ -2665,14 +2673,6 @@
       "onboard_time": 1661388335,
       "rank": 8,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 770680,
-      "num": 640868,
-      "word": "程少商星汉灿烂和月升沧海对比",
-      "onboard_time": 1661584952,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 770251,
@@ -3499,6 +3499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609664,
+      "num": 573259,
+      "word": "拜托了甄嬛传",
+      "onboard_time": 1661583990,
+      "rank": 21,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 606630,
       "num": 606630,
       "word": "刺痛 橘子",
@@ -3745,14 +3753,6 @@
       "onboard_time": 1661297002,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573259,
-      "num": 573259,
-      "word": "拜托了甄嬛传",
-      "onboard_time": 1661583990,
-      "rank": 21,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 572383,
@@ -4041,6 +4041,14 @@
       "onboard_time": 1661467579,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547213,
+      "num": 272065,
+      "word": "王鹤棣东方青苍共感受刑花絮",
+      "onboard_time": 1661589088,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 547116,
@@ -6259,6 +6267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 372974,
+      "num": 372974,
+      "word": "四川人的外套可以准备起来了",
+      "onboard_time": 1661586388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372099,
       "num": 372099,
       "word": "鲍威尔",
@@ -7435,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315814,
+      "num": 155152,
+      "word": "欧豪10个角色凑不出一个he",
+      "onboard_time": 1661587888,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315499,
       "num": 315499,
       "word": "重庆高温把路都晒化了",
@@ -7595,14 +7619,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 305765,
-      "num": 305765,
-      "word": "四川人的外套可以准备起来了",
-      "onboard_time": 1661586388,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304914,
       "num": 304914,
       "word": "男子抡板凳殴打前妻被行拘",
@@ -7748,7 +7764,7 @@
     },
     {
       "raw_hot": 299036,
-      "num": 135404,
+      "num": 146928,
       "word": "玫瑰之战 烂尾",
       "onboard_time": 1661587234,
       "rank": 31,
@@ -8211,14 +8227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283243,
-      "num": 131436,
-      "word": "欧豪10个角色凑不出一个he",
-      "onboard_time": 1661587888,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283211,
       "num": 283211,
       "word": "震撼航拍看重庆救援的人有多少",
@@ -8553,6 +8561,14 @@
       "onboard_time": 1661174492,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272762,
+      "num": 272762,
+      "word": "大学生果然都是高铁楷模",
+      "onboard_time": 1661588849,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 272437,
@@ -9595,6 +9611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241536,
+      "num": 241536,
+      "word": "重庆龙麻子喜提新车",
+      "onboard_time": 1661586448,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240890,
       "num": 240890,
       "word": "一起守护这座城",
@@ -10323,14 +10347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217004,
-      "num": 217004,
-      "word": "重庆龙麻子喜提新车",
-      "onboard_time": 1661586448,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216612,
       "num": 216612,
       "word": "王源天亮一起追太阳",
@@ -10633,6 +10649,14 @@
       "onboard_time": 1661406089,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204013,
+      "num": 99735,
+      "word": "smtown",
+      "onboard_time": 1661589629,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 204007,
@@ -12443,6 +12467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134533,
+      "num": 134533,
+      "word": "给立功警犬江小八加鸡腿",
+      "onboard_time": 1661584888,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134517,
       "num": 134517,
       "word": "Sunnee杨芸晴给33点了个赞",
@@ -12619,14 +12651,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 123792,
-      "num": 123792,
-      "word": "给立功警犬江小八加鸡腿",
-      "onboard_time": 1661584888,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122277,
       "num": 122277,
       "word": "苹果超前瞻",
@@ -12769,6 +12793,14 @@
       "onboard_time": 1661210121,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108660,
+      "num": 108660,
+      "word": "CPA战略",
+      "onboard_time": 1661588786,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 108479,
@@ -12915,12 +12947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74953,
-      "num": 74953,
-      "word": "CPA战略",
-      "onboard_time": 1661588786,
+      "raw_hot": 73778,
+      "num": 73778,
+      "word": "王威琪院士因病逝世",
+      "onboard_time": 1661589689,
       "rank": 49,
-      "category": "教育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73709,

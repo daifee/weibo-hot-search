@@ -1,6 +1,6 @@
 {
   "startTime": 1661531479051,
-  "endTime": 1661588801453,
+  "endTime": 1661589774632,
   "band_list": [
     {
       "raw_hot": 6090220,
@@ -83,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1526198,
+      "num": 1526198,
+      "word": "重庆人民被云南森林消防吓到了",
+      "onboard_time": 1661584409,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1472742,
       "num": 318449,
       "word": "赵露思陈哲远对视饭拍",
@@ -139,20 +147,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1210779,
-      "num": 1210779,
-      "word": "重庆人民被云南森林消防吓到了",
-      "onboard_time": 1661584409,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 1193300,
       "num": 1193300,
       "word": "这学能不能不开了",
       "onboard_time": 1661519251,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1080359,
+      "num": 1080359,
+      "word": "石家庄18人初筛阳性",
+      "onboard_time": 1661585847,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1069303,
@@ -177,14 +185,6 @@
       "onboard_time": 1661584888,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1038363,
-      "num": 1038363,
-      "word": "石家庄18人初筛阳性",
-      "onboard_time": 1661585847,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 961423,
@@ -235,6 +235,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 786680,
+      "num": 640868,
+      "word": "程少商星汉灿烂和月升沧海对比",
+      "onboard_time": 1661584952,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778891,
       "num": 778891,
       "word": "指甲上的月牙和健康有关吗",
@@ -249,14 +257,6 @@
       "onboard_time": 1661567128,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770680,
-      "num": 640868,
-      "word": "程少商星汉灿烂和月升沧海对比",
-      "onboard_time": 1661584952,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 737243,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609664,
+      "num": 573259,
+      "word": "拜托了甄嬛传",
+      "onboard_time": 1661583990,
+      "rank": 21,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 603752,
       "num": 603752,
       "word": "取消公摊面积购房者能否少花钱",
@@ -379,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573259,
-      "num": 573259,
-      "word": "拜托了甄嬛传",
-      "onboard_time": 1661583990,
-      "rank": 21,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 562847,
       "num": 562847,
       "word": "狐妖小红娘虚拟拍摄技术",
@@ -409,6 +409,14 @@
       "onboard_time": 1661563231,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 547213,
+      "num": 272065,
+      "word": "王鹤棣东方青苍共感受刑花絮",
+      "onboard_time": 1661589088,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 547116,
@@ -619,6 +627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 372974,
+      "num": 372974,
+      "word": "四川人的外套可以准备起来了",
+      "onboard_time": 1661586388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358660,
       "num": 358660,
       "word": "致谢锦旗已被重庆人送到了云南",
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315814,
+      "num": 155152,
+      "word": "欧豪10个角色凑不出一个he",
+      "onboard_time": 1661587888,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311851,
       "num": 1905301,
       "word": "这道防火长城坚不可摧",
@@ -753,14 +777,6 @@
       "onboard_time": 1661523993,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305765,
-      "num": 305765,
-      "word": "四川人的外套可以准备起来了",
-      "onboard_time": 1661586388,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302841,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 299036,
-      "num": 135404,
+      "num": 146928,
       "word": "玫瑰之战 烂尾",
       "onboard_time": 1661587234,
       "rank": 31,
@@ -835,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283243,
-      "num": 131436,
-      "word": "欧豪10个角色凑不出一个he",
-      "onboard_time": 1661587888,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280303,
       "num": 104000,
       "word": "虚拟演员春草首亮相",
@@ -857,6 +865,14 @@
       "onboard_time": 1661580688,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272762,
+      "num": 272762,
+      "word": "大学生果然都是高铁楷模",
+      "onboard_time": 1661588849,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 271356,
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241536,
+      "num": 241536,
+      "word": "重庆龙麻子喜提新车",
+      "onboard_time": 1661586448,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233417,
       "num": 233417,
       "word": "孙怡回归再见爱人2",
@@ -1051,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217004,
-      "num": 217004,
-      "word": "重庆龙麻子喜提新车",
-      "onboard_time": 1661586448,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216969,
       "num": 216969,
       "word": "武汉疫情防控",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1661565090,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204013,
+      "num": 99735,
+      "word": "smtown",
+      "onboard_time": 1661589629,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 201168,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134533,
+      "num": 134533,
+      "word": "给立功警犬江小八加鸡腿",
+      "onboard_time": 1661584888,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134308,
       "num": 134308,
       "word": "雀斑公主",
@@ -1387,20 +1419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123792,
-      "num": 123792,
-      "word": "给立功警犬江小八加鸡腿",
-      "onboard_time": 1661584888,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120720,
       "num": 120720,
       "word": "重庆得行",
       "onboard_time": 1661556561,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108660,
+      "num": 108660,
+      "word": "CPA战略",
+      "onboard_time": 1661588786,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 108479,
@@ -1451,12 +1483,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 74953,
-      "num": 74953,
-      "word": "CPA战略",
-      "onboard_time": 1661588786,
+      "raw_hot": 73778,
+      "num": 73778,
+      "word": "王威琪院士因病逝世",
+      "onboard_time": 1661589689,
       "rank": 49,
-      "category": "教育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73709,

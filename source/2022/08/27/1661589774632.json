@@ -1,0 +1,410 @@
+{
+  "runTime": 1661589774632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5727618,
+        "num": 5727618,
+        "word": "不要建议",
+        "onboard_time": 1661578710,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1526198,
+        "num": 1526198,
+        "word": "重庆人民被云南森林消防吓到了",
+        "onboard_time": 1661584409,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 54637,
+        "num": 1434153,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414850,
+        "num": 1414850,
+        "word": "恶童",
+        "onboard_time": 1661580810,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1251857,
+        "num": 1251857,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1661588429,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180932,
+        "num": 1180932,
+        "word": "杨幂用计算机按迪丽热巴",
+        "onboard_time": 1661582489,
+        "rank": 5,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1080359,
+        "num": 1080359,
+        "word": "石家庄18人初筛阳性",
+        "onboard_time": 1661585847,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987719,
+        "num": 987719,
+        "word": "苏有朋 下次会好好用脸",
+        "onboard_time": 1661584888,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617985,
+        "num": 617985,
+        "word": "指甲上的月牙和健康有关吗",
+        "onboard_time": 1661581468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543915,
+        "num": 543915,
+        "word": "69岁大爷携13万跨省寻女主播",
+        "onboard_time": 1661583449,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786680,
+        "num": 479237,
+        "word": "程少商星汉灿烂和月升沧海对比",
+        "onboard_time": 1661584952,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644857,
+        "num": 452751,
+        "word": "李承铉婚后从未怀念过单身时光",
+        "onboard_time": 1661574090,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609664,
+        "num": 426553,
+        "word": "拜托了甄嬛传",
+        "onboard_time": 1661583990,
+        "rank": 12,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 399134,
+        "num": 399134,
+        "word": "山西多校以是否购买平板电脑为分班标准",
+        "onboard_time": 1661580270,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 372974,
+        "num": 372974,
+        "word": "四川人的外套可以准备起来了",
+        "onboard_time": 1661586388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361561,
+        "num": 361561,
+        "word": "这哪是开学的高铁啊",
+        "onboard_time": 1661574930,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349298,
+        "num": 349298,
+        "word": "黄金不足称商家称是5G新工艺压缩的",
+        "onboard_time": 1661582371,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335655,
+        "num": 335655,
+        "word": "00后偷玛莎拉蒂从长沙开到九江",
+        "onboard_time": 1661576730,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289267,
+        "num": 289267,
+        "word": "为了用这个梗 连话都不会说了啊",
+        "onboard_time": 1661584829,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272762,
+        "num": 272762,
+        "word": "大学生果然都是高铁楷模",
+        "onboard_time": 1661588849,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 547213,
+        "num": 272065,
+        "word": "王鹤棣东方青苍共感受刑花絮",
+        "onboard_time": 1661589088,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412480,
+        "num": 266645,
+        "word": "BLACKPINK新歌特别舞台",
+        "onboard_time": 1661583630,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 437066,
+        "num": 265222,
+        "word": "郭晓婷说恭迎赤地复活",
+        "onboard_time": 1661582371,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241536,
+        "num": 241536,
+        "word": "重庆龙麻子喜提新车",
+        "onboard_time": 1661586448,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240112,
+        "num": 240112,
+        "word": "2岁影帝小萌娃吃棒棒糖秒变脸",
+        "onboard_time": 1661583630,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229707,
+        "num": 229707,
+        "word": "8岁女孩跟医生爸爸学习缝合手术",
+        "onboard_time": 1661579729,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222795,
+        "num": 222795,
+        "word": "母亲拉架被醉酒儿子拳打脚踢",
+        "onboard_time": 1661576189,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 195218,
+        "num": 195218,
+        "word": "董藩",
+        "onboard_time": 1661578289,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173841,
+        "num": 173841,
+        "word": "90后女孩教奶奶们织毛线比基尼",
+        "onboard_time": 1661584528,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157880,
+        "num": 157880,
+        "word": "专家建议还房贷时间延至40年",
+        "onboard_time": 1661565989,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 315814,
+        "num": 155152,
+        "word": "欧豪10个角色凑不出一个he",
+        "onboard_time": 1661587888,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290037,
+        "num": 146928,
+        "word": "玫瑰之战 烂尾",
+        "onboard_time": 1661587234,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276230,
+        "num": 143803,
+        "word": "王东 家暴",
+        "onboard_time": 1661557645,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227498,
+        "num": 137676,
+        "word": "GAI威远故事舞台现场落泪",
+        "onboard_time": 1661581889,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135075,
+        "num": 135075,
+        "word": "没想到鱼缸还能养猫",
+        "onboard_time": 1661579011,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134533,
+        "num": 134533,
+        "word": "给立功警犬江小八加鸡腿",
+        "onboard_time": 1661584888,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127366,
+        "num": 127366,
+        "word": "带蝴蝶结头盔运送物资的山城女骑士",
+        "onboard_time": 1661585009,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 108660,
+        "num": 108660,
+        "word": "CPA战略",
+        "onboard_time": 1661588786,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105177,
+        "num": 105177,
+        "word": "鳄雀鳝有可能会攻击人类",
+        "onboard_time": 1661571148,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100067,
+        "num": 100067,
+        "word": "特朗普庄园搜出184份机密文件",
+        "onboard_time": 1661561670,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204013,
+        "num": 99735,
+        "word": "smtown",
+        "onboard_time": 1661589629,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196891,
+        "num": 99673,
+        "word": "艾热王以太婚礼一条龙曲库",
+        "onboard_time": 1661578349,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99355,
+        "num": 99355,
+        "word": "熊孩子恶作剧多次敲邻居家门",
+        "onboard_time": 1661576610,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98775,
+        "num": 98775,
+        "word": "的哥不让救火归来的志愿者扫码付款",
+        "onboard_time": 1661580209,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 91443,
+        "num": 91443,
+        "word": "一条毛巾纠正不良体态",
+        "onboard_time": 1661577690,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87728,
+        "num": 87728,
+        "word": "专家建议农民在县城买房住",
+        "onboard_time": 1661562210,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82851,
+        "num": 82851,
+        "word": "中国女排vs澳大利亚女排",
+        "onboard_time": 1661582790,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81060,
+        "num": 81060,
+        "word": "00后边防女兵勇闯原始森林",
+        "onboard_time": 1661588606,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 78684,
+        "num": 78684,
+        "word": "宁夏银川河中疑发现鳄雀鳝",
+        "onboard_time": 1661573429,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73778,
+        "num": 73778,
+        "word": "王威琪院士因病逝世",
+        "onboard_time": 1661589689,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建网络强国营造清朗空间#"
+    }
+  }
+}
