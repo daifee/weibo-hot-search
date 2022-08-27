@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661632681679,
+  "endTime": 1661635163623,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -14027,6 +14027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 27167,
+      "num": 22858,
+      "word": "上海交大校友名录未见秦泽文",
+      "onboard_time": 1661633591,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26667,
       "num": 506710,
       "word": "老板座驾的顶流之争",
@@ -14051,11 +14059,27 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 24109,
+      "num": 24109,
+      "word": "当军训教官遇到3学生分不清左右",
+      "onboard_time": 1661632991,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 22818,
       "num": 22818,
       "word": "可乐cp合体直播",
       "onboard_time": 1661195114,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 19755,
+      "num": 19755,
+      "word": "刘奕君说自己是杨玲唯一的霸霸",
+      "onboard_time": 1661635031,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -14139,6 +14163,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 10278,
+      "num": 10278,
+      "word": "8岁男童头部被蜂群蜇伤40多处",
+      "onboard_time": 1661634552,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9542,
       "num": 9542,
       "word": "石家庄二中耐高夺冠将被拍成电影",
@@ -14161,6 +14193,14 @@
       "onboard_time": 1661199732,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8373,
+      "num": 8373,
+      "word": "玫瑰之战 编剧",
+      "onboard_time": 1661634791,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 7706,
