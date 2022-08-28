@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661665492647,
+  "endTime": 1661668002900,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -17,6 +17,14 @@
       "onboard_time": 1661651066,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2398689,
+      "num": 2398689,
+      "word": "彩票中奖1000万有资格辞职吗",
+      "onboard_time": 1661663069,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 2088576,
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1716278,
-      "num": 1716278,
-      "word": "彩票中奖1000万有资格辞职吗",
-      "onboard_time": 1661663069,
-      "rank": 4,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 1704929,
       "num": 1704929,
       "word": "首尔一高中因生源不足即将关闭",
       "onboard_time": 1661650469,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1449855,
+      "num": 413593,
+      "word": "男子离异后发现儿子变侄子",
+      "onboard_time": 1661664629,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1247776,
@@ -81,6 +89,14 @@
       "onboard_time": 1661604031,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1115266,
+      "num": 902682,
+      "word": "劳荣枝48次有罪供述后辩称被胁迫",
+      "onboard_time": 1661662770,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1052050,
@@ -115,6 +131,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 978788,
+      "num": 978788,
+      "word": "草丛露出一双脚竟拔出一位大爷",
+      "onboard_time": 1661662288,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978385,
       "num": 978385,
       "word": "王一栩回应苍兰诀剧情争议",
@@ -139,22 +163,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 902682,
-      "num": 902682,
-      "word": "劳荣枝48次有罪供述后辩称被胁迫",
-      "onboard_time": 1661662770,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846065,
-      "num": 846065,
-      "word": "草丛露出一双脚竟拔出一位大爷",
-      "onboard_time": 1661662288,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 841492,
       "num": 841492,
       "word": "大一新生携2米高盆栽开学",
@@ -169,6 +177,22 @@
       "onboard_time": 1661602469,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810370,
+      "num": 404445,
+      "word": "公厕里的洗手液有多脏",
+      "onboard_time": 1661666787,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760611,
+      "num": 760611,
+      "word": "凌不疑程少商雨中公主抱花絮",
+      "onboard_time": 1661666427,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 728656,
@@ -225,6 +249,14 @@
       "onboard_time": 1661616632,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 630228,
+      "num": 630228,
+      "word": "老外未戴口罩进公园被驱逐",
+      "onboard_time": 1661663611,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613505,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459697,
+      "num": 396499,
+      "word": "美舰过航台湾海峡东部战区回应",
+      "onboard_time": 1661667330,
+      "rank": 13,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 459495,
       "num": 459495,
       "word": "河南由夏入冬只用了一周",
@@ -409,6 +449,30 @@
       "onboard_time": 1661661566,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 395636,
+      "num": 395636,
+      "word": "消防员的皮卡都被山城人投喂了",
+      "onboard_time": 1661662106,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393393,
+      "num": 393393,
+      "word": "越来越多人不爱去5A景区",
+      "onboard_time": 1661663012,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 391768,
+      "num": 391768,
+      "word": "蔡徐坤单膝跪地握手",
+      "onboard_time": 1661664811,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 389653,
@@ -483,38 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358873,
-      "num": 358873,
-      "word": "越来越多人不爱去5A景区",
-      "onboard_time": 1661663012,
-      "rank": 25,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 354142,
-      "num": 354142,
-      "word": "蔡徐坤单膝跪地握手",
-      "onboard_time": 1661664811,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 343771,
-      "num": 343771,
-      "word": "男子离异后发现儿子变侄子",
-      "onboard_time": 1661664629,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339426,
-      "num": 339426,
-      "word": "消防员的皮卡都被山城人投喂了",
-      "onboard_time": 1661662106,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337508,
       "num": 254850,
       "word": "朱正廷说吃完妈妈的菜进医院了",
@@ -528,6 +560,14 @@
       "word": "蔡徐坤校园版hugme",
       "onboard_time": 1661659466,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328438,
+      "num": 328438,
+      "word": "檀健次曾掉进石灰池里两次",
+      "onboard_time": 1661666187,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -571,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309089,
-      "num": 309089,
-      "word": "老外未戴口罩进公园被驱逐",
-      "onboard_time": 1661663611,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 307375,
+      "num": 307375,
+      "word": "虞书欣一滴泪故事感",
+      "onboard_time": 1661665469,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 303889,
@@ -667,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272378,
+      "num": 131295,
+      "word": "饿了么",
+      "onboard_time": 1661667990,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 271078,
       "num": 271078,
       "word": "消防员住过的房间令保洁阿姨破防",
@@ -755,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233838,
+      "num": 211730,
+      "word": "李一桐爱的真谛",
+      "onboard_time": 1661666488,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230962,
       "num": 174023,
       "word": "李承铉在街舞5打了两份工",
@@ -769,6 +825,14 @@
       "onboard_time": 1661650047,
       "rank": 29,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 228676,
+      "num": 228676,
+      "word": "2022年河南省GDP将超过6万亿",
+      "onboard_time": 1661665829,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 222217,
@@ -795,6 +859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215540,
+      "num": 211723,
+      "word": "杨丞琳沸腾校园nextlevel翻跳舞台",
+      "onboard_time": 1661667268,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212368,
+      "num": 212368,
+      "word": "解放军随时做好挫败任何挑衅准备",
+      "onboard_time": 1661667864,
+      "rank": 28,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 212195,
       "num": 212195,
       "word": "高价文具值不值得买",
@@ -809,6 +889,14 @@
       "onboard_time": 1661606432,
       "rank": 2,
       "category": "社会新闻,国内要闻"
+    },
+    {
+      "raw_hot": 208288,
+      "num": 208288,
+      "word": "沈腾回去救金刚鼠好笑又好哭",
+      "onboard_time": 1661666610,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 204499,
@@ -875,12 +963,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184847,
+      "num": 146000,
+      "word": "用窝瓜特效打开冰雨火",
+      "onboard_time": 1661667567,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182496,
       "num": 173012,
       "word": "网传星汉灿烂下周庆功宴",
       "onboard_time": 1661606250,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181080,
+      "num": 145776,
+      "word": "王鹤棣东方青苍爬向小兰花花絮",
+      "onboard_time": 1661665408,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179953,
+      "num": 179953,
+      "word": "文具为什么越来越贵了",
+      "onboard_time": 1661665408,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175102,
@@ -1011,12 +1123,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 146117,
+      "num": 146117,
+      "word": "厦门疫情防控",
+      "onboard_time": 1661664446,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144503,
       "num": 144503,
       "word": "中国这十年看河南",
       "onboard_time": 1661659466,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143444,
+      "num": 143444,
+      "word": "LCK开幕式",
+      "onboard_time": 1661667149,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 141651,
@@ -1059,12 +1187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131255,
-      "num": 102986,
-      "word": "虞书欣一滴泪故事感",
-      "onboard_time": 1661665469,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 132814,
+      "num": 132814,
+      "word": "狗子看猫咪吵架都看呆了",
+      "onboard_time": 1661667087,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 128974,
@@ -1075,12 +1203,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 127597,
-      "num": 127597,
-      "word": "厦门疫情防控",
-      "onboard_time": 1661664446,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 128051,
+      "num": 128051,
+      "word": "闪耀暖暖",
+      "onboard_time": 1661667809,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 123317,
@@ -1129,14 +1257,6 @@
       "onboard_time": 1661610036,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105596,
-      "num": 105596,
-      "word": "文具为什么越来越贵了",
-      "onboard_time": 1661665408,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104176,
@@ -1292,6 +1412,9 @@
     },
     {
       "word": "#聚焦中国网络文明大会#"
+    },
+    {
+      "word": "#网络文明之光照亮未来#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661668002900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2398689,
+        "num": 2398689,
+        "word": "彩票中奖1000万有资格辞职吗",
+        "onboard_time": 1661663069,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 978788,
+        "num": 978788,
+        "word": "草丛露出一双脚竟拔出一位大爷",
+        "onboard_time": 1661662288,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65501,
+        "num": 825468,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760611,
+        "num": 760611,
+        "word": "凌不疑程少商雨中公主抱花絮",
+        "onboard_time": 1661666427,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 741463,
+        "num": 741463,
+        "word": "鳄雀鳝内脏尤其是卵有剧毒",
+        "onboard_time": 1661658927,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717515,
+        "num": 717515,
+        "word": "公司要求一旦怀孕自动离职",
+        "onboard_time": 1661613394,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631859,
+        "num": 631859,
+        "word": "priest是兼职作者",
+        "onboard_time": 1661654064,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 630228,
+        "num": 630228,
+        "word": "老外未戴口罩进公园被驱逐",
+        "onboard_time": 1661663611,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467255,
+        "num": 467255,
+        "word": "我的精神内耗突然就好了",
+        "onboard_time": 1661660908,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 415427,
+        "num": 415427,
+        "word": "王一博火锅局高端玩家",
+        "onboard_time": 1661664387,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1449855,
+        "num": 413593,
+        "word": "男子离异后发现儿子变侄子",
+        "onboard_time": 1661664629,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115266,
+        "num": 407064,
+        "word": "劳荣枝48次有罪供述后辩称被胁迫",
+        "onboard_time": 1661662770,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810370,
+        "num": 404445,
+        "word": "公厕里的洗手液有多脏",
+        "onboard_time": 1661666787,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459697,
+        "num": 396499,
+        "word": "美舰过航台湾海峡东部战区回应",
+        "onboard_time": 1661667330,
+        "rank": 13,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 395636,
+        "num": 395636,
+        "word": "消防员的皮卡都被山城人投喂了",
+        "onboard_time": 1661662106,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393393,
+        "num": 393393,
+        "word": "越来越多人不爱去5A景区",
+        "onboard_time": 1661663012,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1114632,
+        "num": 393293,
+        "word": "iPhone14ProMax或9999起",
+        "onboard_time": 1661661627,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 391768,
+        "num": 391768,
+        "word": "蔡徐坤单膝跪地握手",
+        "onboard_time": 1661664811,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366788,
+        "num": 366788,
+        "word": "应渊唐周随爹了但不多",
+        "onboard_time": 1661662229,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328438,
+        "num": 328438,
+        "word": "檀健次曾掉进石灰池里两次",
+        "onboard_time": 1661666187,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313845,
+        "num": 313845,
+        "word": "一支中性笔卖55元",
+        "onboard_time": 1661651066,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307375,
+        "num": 307375,
+        "word": "虞书欣一滴泪故事感",
+        "onboard_time": 1661665469,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305673,
+        "num": 305673,
+        "word": "无畏好一个五米大帅哥",
+        "onboard_time": 1661661566,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267204,
+        "num": 267204,
+        "word": "心动的信号",
+        "onboard_time": 1661664211,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243293,
+        "num": 243293,
+        "word": "魏晨你好星期六再唱少年游",
+        "onboard_time": 1661661627,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228676,
+        "num": 228676,
+        "word": "2022年河南省GDP将超过6万亿",
+        "onboard_time": 1661665829,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 227431,
+        "num": 227431,
+        "word": "9岁女童暑期承包妈妈一日三餐",
+        "onboard_time": 1661662169,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225058,
+        "num": 225058,
+        "word": "四川宜宾连天山深夜突发山火",
+        "onboard_time": 1661661446,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212368,
+        "num": 212368,
+        "word": "解放军随时做好挫败任何挑衅准备",
+        "onboard_time": 1661667864,
+        "rank": 28,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 205824,
+        "num": 211731,
+        "word": "夫妻俩卖20元芹菜被罚6万6",
+        "onboard_time": 1661644643,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233838,
+        "num": 211730,
+        "word": "李一桐爱的真谛",
+        "onboard_time": 1661666488,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215540,
+        "num": 211723,
+        "word": "杨丞琳沸腾校园nextlevel翻跳舞台",
+        "onboard_time": 1661667268,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211706,
+        "num": 211706,
+        "word": "林柏叡的名字怎么读",
+        "onboard_time": 1661659948,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208288,
+        "num": 208288,
+        "word": "沈腾回去救金刚鼠好笑又好哭",
+        "onboard_time": 1661666610,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195975,
+        "num": 195975,
+        "word": "刘翔峰或被终身禁业",
+        "onboard_time": 1661654309,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194108,
+        "num": 194108,
+        "word": "GEN对战T1",
+        "onboard_time": 1661659048,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179953,
+        "num": 179953,
+        "word": "文具为什么越来越贵了",
+        "onboard_time": 1661665408,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157528,
+        "num": 157528,
+        "word": "河南由夏入冬只用了一周",
+        "onboard_time": 1661656466,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157238,
+        "num": 157238,
+        "word": "首尔一高中因生源不足即将关闭",
+        "onboard_time": 1661650469,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146117,
+        "num": 146117,
+        "word": "厦门疫情防控",
+        "onboard_time": 1661664446,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184847,
+        "num": 146000,
+        "word": "用窝瓜特效打开冰雨火",
+        "onboard_time": 1661667567,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181080,
+        "num": 145776,
+        "word": "王鹤棣东方青苍爬向小兰花花絮",
+        "onboard_time": 1661665408,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145017,
+        "num": 145017,
+        "word": "成都疫情防控",
+        "onboard_time": 1661650946,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143444,
+        "num": 143444,
+        "word": "LCK开幕式",
+        "onboard_time": 1661667149,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139164,
+        "num": 139164,
+        "word": "收废品阿姨无偿照顾陌生老人16年",
+        "onboard_time": 1661658565,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132814,
+        "num": 132814,
+        "word": "狗子看猫咪吵架都看呆了",
+        "onboard_time": 1661667087,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132452,
+        "num": 132452,
+        "word": "德州新增本土无症状感染者4例",
+        "onboard_time": 1661660426,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272378,
+        "num": 131295,
+        "word": "饿了么",
+        "onboard_time": 1661667990,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129874,
+        "num": 129874,
+        "word": "研究表明第五种力或不存在",
+        "onboard_time": 1661660966,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 128051,
+        "num": 128051,
+        "word": "闪耀暖暖",
+        "onboard_time": 1661667809,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络文明之光照亮未来#"
+    }
+  }
+}
