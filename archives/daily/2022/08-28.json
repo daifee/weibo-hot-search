@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661676139009,
+  "endTime": 1661678446286,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201668,
+      "num": 469728,
+      "word": "zoo 舞台",
+      "onboard_time": 1661678064,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1187491,
       "num": 480832,
       "word": "赵露思陈哲远校服造型路透",
@@ -155,6 +163,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1093108,
+      "num": 769303,
+      "word": "男孩半夜醒来发现父母不见后报警",
+      "onboard_time": 1661673027,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052050,
       "num": 897404,
       "word": "夫妻俩卖20元芹菜被罚6万6",
@@ -177,6 +193,14 @@
       "onboard_time": 1661611715,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013018,
+      "num": 1013018,
+      "word": "心动的信号5素人嘉宾官宣",
+      "onboard_time": 1661676268,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 989105,
@@ -219,6 +243,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 882101,
+      "num": 576159,
+      "word": "BLACKPINK人歌初舞台",
+      "onboard_time": 1661675788,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860634,
       "num": 860634,
       "word": "凌不疑程少商雨中公主抱花絮",
@@ -259,12 +291,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 769303,
-      "num": 769303,
-      "word": "男孩半夜醒来发现父母不见后报警",
-      "onboard_time": 1661673027,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 747781,
+      "num": 455938,
+      "word": "张栋梁星星的约定路透",
+      "onboard_time": 1661676686,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 746513,
@@ -371,19 +403,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 576159,
-      "num": 576159,
-      "word": "BLACKPINK人歌初舞台",
-      "onboard_time": 1661675788,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 573145,
       "num": 573145,
       "word": "多例病例在返京途中感染",
       "onboard_time": 1661611173,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572021,
+      "num": 466179,
+      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+      "onboard_time": 1661676566,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -433,6 +465,14 @@
       "onboard_time": 1661658266,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 518173,
+      "num": 464610,
+      "word": "成都西岭雪山突发山洪",
+      "onboard_time": 1661674588,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512236,
@@ -489,6 +529,14 @@
       "onboard_time": 1661657786,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464144,
+      "num": 464144,
+      "word": "蛋糕可以冷门但不可以邪门",
+      "onboard_time": 1661675188,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 459495,
@@ -561,14 +609,6 @@
       "onboard_time": 1661664811,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396432,
-      "num": 396432,
-      "word": "成都西岭雪山突发山洪",
-      "onboard_time": 1661674588,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395636,
@@ -849,6 +889,14 @@
       "onboard_time": 1661662169,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280604,
+      "num": 112537,
+      "word": "蔡徐坤沸腾校园hugme舞台",
+      "onboard_time": 1661678427,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 280350,
@@ -1219,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175482,
-      "num": 175482,
-      "word": "蛋糕可以冷门但不可以邪门",
-      "onboard_time": 1661675188,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175102,
       "num": 175102,
       "word": "27日北京新增3例本土感染者",
@@ -1291,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "志愿者让人戴口罩被狂怼",
+      "onboard_time": 1661673507,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165687,
       "num": 111010,
       "word": "140斤的魏大勋被纸巾吊起来了",
@@ -1339,12 +1387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149945,
-      "num": 149945,
-      "word": "志愿者让人戴口罩被狂怼",
-      "onboard_time": 1661673507,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 152282,
+      "num": 152282,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1661677704,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 147609,
@@ -1467,12 +1515,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114155,
+      "num": 114155,
+      "word": "河南新增本土确诊2例无症状52例",
+      "onboard_time": 1661678306,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112523,
       "num": 112523,
       "word": "人造胚胎成功培育出大脑和心脏",
       "onboard_time": 1661595810,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 110012,
+      "num": 110012,
+      "word": "GEN拿到赛点",
+      "onboard_time": 1661677947,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 108086,
@@ -1513,6 +1577,14 @@
       "onboard_time": 1661642416,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103053,
+      "num": 103053,
+      "word": "闪耀暖暖三丽鸥联动",
+      "onboard_time": 1661678367,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97299,

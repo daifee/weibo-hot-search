@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661676139009,
+  "endTime": 1661678446286,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -9467,6 +9467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1201668,
+      "num": 865879,
+      "word": "zoo 舞台",
+      "onboard_time": 1660996945,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1199128,
       "num": 1199128,
       "word": "西南交大上百研究生新生需校外自费租房",
@@ -10891,6 +10899,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 1093108,
+      "num": 769303,
+      "word": "男孩半夜醒来发现父母不见后报警",
+      "onboard_time": 1661673027,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091777,
       "num": 1091777,
       "word": "秦岚把王子异送的饺子花煮了",
@@ -11929,6 +11945,14 @@
       "onboard_time": 1660342993,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013018,
+      "num": 1013018,
+      "word": "心动的信号5素人嘉宾官宣",
+      "onboard_time": 1661676268,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1012027,
@@ -13995,6 +14019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 882101,
+      "num": 576159,
+      "word": "BLACKPINK人歌初舞台",
+      "onboard_time": 1661675788,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 881752,
       "num": 881752,
       "word": "九尾的王昭君",
@@ -14233,14 +14265,6 @@
       "onboard_time": 1659610479,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 865879,
-      "num": 865879,
-      "word": "zoo 舞台",
-      "onboard_time": 1660996945,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 865782,
@@ -16267,14 +16291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 769303,
-      "num": 769303,
-      "word": "男孩半夜醒来发现父母不见后报警",
-      "onboard_time": 1661673027,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 769231,
       "num": 769231,
       "word": "美芯片股集体崩了",
@@ -16737,6 +16753,14 @@
       "onboard_time": 1661350412,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 747781,
+      "num": 455938,
+      "word": "张栋梁星星的约定路透",
+      "onboard_time": 1661676686,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 747572,
@@ -22195,14 +22219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 576159,
-      "num": 576159,
-      "word": "BLACKPINK人歌初舞台",
-      "onboard_time": 1661675788,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 576097,
       "num": 576097,
       "word": "武汉发现2例无症状感染者",
@@ -22393,6 +22409,14 @@
       "onboard_time": 1660812813,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 572021,
+      "num": 466179,
+      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+      "onboard_time": 1661676566,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571992,
@@ -25089,6 +25113,14 @@
       "onboard_time": 1660696291,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 518173,
+      "num": 464610,
+      "word": "成都西岭雪山突发山洪",
+      "onboard_time": 1661674588,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517958,
@@ -28601,6 +28633,14 @@
       "onboard_time": 1660698032,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 464144,
+      "num": 464144,
+      "word": "蛋糕可以冷门但不可以邪门",
+      "onboard_time": 1661675188,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 463823,
@@ -33760,14 +33800,6 @@
       "word": "房屋面积缩水超3%购房人可退房退款",
       "onboard_time": 1661298264,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396432,
-      "num": 396432,
-      "word": "成都西岭雪山突发山洪",
-      "onboard_time": 1661674588,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -46243,6 +46275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280604,
+      "num": 112537,
+      "word": "蔡徐坤沸腾校园hugme舞台",
+      "onboard_time": 1661678427,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280581,
       "num": 280581,
       "word": "程少商为凌不疑绣荷包",
@@ -57675,14 +57715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175482,
-      "num": 175482,
-      "word": "蛋糕可以冷门但不可以邪门",
-      "onboard_time": 1661675188,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175318,
       "num": 175318,
       "word": "十堰疫情防控",
@@ -58416,6 +58448,14 @@
       "word": "秒结冰的降温喷雾有多危险",
       "onboard_time": 1660901250,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "志愿者让人戴口罩被狂怼",
+      "onboard_time": 1661673507,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -59443,6 +59483,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 152282,
+      "num": 152282,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1661677704,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152113,
       "num": 152113,
       "word": "追光动画你最喜欢哪部",
@@ -59553,14 +59601,6 @@
       "onboard_time": 1660452391,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 149945,
-      "num": 149945,
-      "word": "志愿者让人戴口罩被狂怼",
-      "onboard_time": 1661673507,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149932,
@@ -61291,6 +61331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114155,
+      "num": 114155,
+      "word": "河南新增本土确诊2例无症状52例",
+      "onboard_time": 1661678306,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113958,
       "num": 113958,
       "word": "河北橘色晚霞点燃天空",
@@ -61433,6 +61481,14 @@
       "onboard_time": 1659274593,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110012,
+      "num": 110012,
+      "word": "GEN拿到赛点",
+      "onboard_time": 1661677947,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 109968,
@@ -61665,6 +61721,14 @@
       "onboard_time": 1661642416,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103053,
+      "num": 103053,
+      "word": "闪耀暖暖三丽鸥联动",
+      "onboard_time": 1661678367,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 101981,
