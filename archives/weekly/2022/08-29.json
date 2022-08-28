@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661721669519,
+  "endTime": 1661722649348,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -283,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158576,
+      "num": 158576,
+      "word": "女子腿脚没劲原是老年综合征",
+      "onboard_time": 1661716332,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "美登月火箭发射台遭雷击",
@@ -307,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135332,
-      "num": 135332,
-      "word": "女子腿脚没劲原是老年综合征",
-      "onboard_time": 1661716332,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132241,
       "num": 61480,
       "word": "第十七届中国长春电影节",
       "onboard_time": 1661707397,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128796,
+      "num": 52098,
+      "word": "家长当2孩子面偷拿他人物品",
+      "onboard_time": 1661717951,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125846,
@@ -361,14 +369,6 @@
       "onboard_time": 1661691331,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 99252,
-      "num": 44306,
-      "word": "家长当2孩子面偷拿他人物品",
-      "onboard_time": 1661717951,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98650,
@@ -507,18 +507,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12184,
-      "num": 12184,
+      "raw_hot": 15255,
+      "num": 15255,
       "word": "这场送别只有在中国才能看到",
       "onboard_time": 1661718310,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8095,
-      "num": 8905,
+      "raw_hot": 13444,
+      "num": 13444,
       "word": "大熊猫是一种流体动物",
       "onboard_time": 1661721310,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7604,
+      "num": 7604,
+      "word": "女子无视绿化工人劝阻采摘绿化带",
+      "onboard_time": 1661722631,
       "rank": 49,
       "category": "社会新闻"
     }
