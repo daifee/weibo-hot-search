@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661707305648,
+  "endTime": 1661708299489,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -275,8 +275,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 167604,
-      "num": 74383,
+      "raw_hot": 183378,
+      "num": 93058,
       "word": "梁静茹一开口青春就回来了",
       "onboard_time": 1661707218,
       "rank": 31,
@@ -305,6 +305,14 @@
       "onboard_time": 1661691331,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132241,
+      "num": 61480,
+      "word": "第十七届中国长春电影节",
+      "onboard_time": 1661707397,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 125846,
