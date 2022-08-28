@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/29 00:29:13 ~ 2022/08/29 02:26:28
+本榜单时间：2022/08/29 00:29:13 ~ 2022/08/29 02:43:09
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,18 @@ JDG锁定S12名额（热度：69622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23K%E7%94%B2%23" target="weibo">
 K甲（热度：38124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%85%83%E6%B0%94%E7%94%9C%E5%A6%B9%E6%B2%BB%E6%84%88%E4%BA%86%23" target="weibo">
+被元气甜妹治愈了（热度：37425）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%92%E6%B3%A1%E8%B5%9BRNG%E5%AF%B9%E6%88%98EDG%23" target="weibo">
+冒泡赛RNG对战EDG（热度：15608）
 </a>
 </li>
 
