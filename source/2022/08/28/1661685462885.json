@@ -1,0 +1,410 @@
+{
+  "runTime": 1661685462885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954068,
+        "num": 954068,
+        "word": "苍兰诀全员超话坦白局",
+        "onboard_time": 1661683289,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611426,
+        "num": 611426,
+        "word": "研究称人类在700万前直立行走",
+        "onboard_time": 1661679987,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10721,
+        "num": 589422,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273774,
+        "num": 588136,
+        "word": "大爷质问家长为何给孩子穿汉服",
+        "onboard_time": 1661683106,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682239,
+        "num": 587284,
+        "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+        "onboard_time": 1661676566,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584915,
+        "num": 584915,
+        "word": "Jennie新歌舞台直拍",
+        "onboard_time": 1661680286,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561512,
+        "num": 561512,
+        "word": "男孩半夜醒来发现父母不见后报警",
+        "onboard_time": 1661673027,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534977,
+        "num": 534977,
+        "word": "GEN夺冠",
+        "onboard_time": 1661678725,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527636,
+        "num": 527636,
+        "word": "待播古装剧的男主造型",
+        "onboard_time": 1661681245,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497104,
+        "num": 497104,
+        "word": "重庆人差点把妹子一起送了",
+        "onboard_time": 1661683767,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3029013,
+        "num": 494847,
+        "word": "男子在女友孕期出轨还想要回16万彩礼",
+        "onboard_time": 1661681546,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3026002,
+        "num": 494268,
+        "word": "莲花楼剧组 打人",
+        "onboard_time": 1661681245,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508237,
+        "num": 493434,
+        "word": "冰雨火孕妇吸毒",
+        "onboard_time": 1661684610,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491617,
+        "num": 491617,
+        "word": "于文文唐人街中的点点乡愁",
+        "onboard_time": 1661682627,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472952,
+        "num": 472952,
+        "word": "开学前录取通知书被狗狗咬碎",
+        "onboard_time": 1661682867,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 457610,
+        "num": 457610,
+        "word": "男子离异后发现儿子变侄子",
+        "onboard_time": 1661664629,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449203,
+        "num": 449203,
+        "word": "男子喝汉堡王可乐喝出带蛆苍蝇",
+        "onboard_time": 1661670810,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390652,
+        "num": 390652,
+        "word": "彩票中奖1000万有资格辞职吗",
+        "onboard_time": 1661663069,
+        "rank": 17,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 355627,
+        "num": 355627,
+        "word": "大连疫情防控",
+        "onboard_time": 1661684967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351174,
+        "num": 351174,
+        "word": "世锦赛陈雨菲获银牌",
+        "onboard_time": 1661685268,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1032279,
+        "num": 351044,
+        "word": "万萌萌怀孕后悔吸毒",
+        "onboard_time": 1661668286,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461487,
+        "num": 343820,
+        "word": "公厕里的洗手液有多脏",
+        "onboard_time": 1661666787,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396577,
+        "num": 337638,
+        "word": "刘宇宁究竟唱了多少影视剧OST",
+        "onboard_time": 1661682206,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374305,
+        "num": 328835,
+        "word": "王一博冰雨火战损妆剧照",
+        "onboard_time": 1661684007,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327964,
+        "num": 327964,
+        "word": "EDG对战TES",
+        "onboard_time": 1661678546,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333159,
+        "num": 327790,
+        "word": "成都环球中心疫情防控",
+        "onboard_time": 1661672249,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323801,
+        "num": 323801,
+        "word": "这猫丑就算了叫声还难听",
+        "onboard_time": 1661679026,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303481,
+        "num": 303481,
+        "word": "iPhone14ProMax或9999起",
+        "onboard_time": 1661661627,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260037,
+        "num": 260037,
+        "word": "美舰过航台湾海峡东部战区回应",
+        "onboard_time": 1661667330,
+        "rank": 28,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 258318,
+        "num": 258318,
+        "word": "Peanut获得FMVP",
+        "onboard_time": 1661681307,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355022,
+        "num": 257716,
+        "word": "敖子逸长春电影节闭幕式红毯",
+        "onboard_time": 1661683828,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354331,
+        "num": 254009,
+        "word": "苍兰诀",
+        "onboard_time": 1661680826,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339356,
+        "num": 252400,
+        "word": "傅菁长春电影节",
+        "onboard_time": 1661685387,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334428,
+        "num": 249935,
+        "word": "赵露思陈哲远校服造型路透",
+        "onboard_time": 1661672610,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248650,
+        "num": 248650,
+        "word": "中国女排3比2泰国女排",
+        "onboard_time": 1661683828,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318132,
+        "num": 245787,
+        "word": "心动的信号5素人嘉宾官宣",
+        "onboard_time": 1661676268,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300426,
+        "num": 244265,
+        "word": "许凯捏虞书欣脸路透",
+        "onboard_time": 1661673688,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242158,
+        "num": 242158,
+        "word": "这不是弟弟想要的礼物",
+        "onboard_time": 1661680888,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217293,
+        "num": 217293,
+        "word": "蛋糕可以冷门但不可以邪门",
+        "onboard_time": 1661675188,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205802,
+        "num": 205802,
+        "word": "重庆南岸区报告7例无症状感染者",
+        "onboard_time": 1661681187,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189224,
+        "num": 189224,
+        "word": "四川局地有大暴雨来袭",
+        "onboard_time": 1661678847,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187141,
+        "num": 187141,
+        "word": "4个集体被授予感动重庆特别奖",
+        "onboard_time": 1661682928,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170792,
+        "num": 170792,
+        "word": "他多看一眼路牌救下一条命",
+        "onboard_time": 1661684367,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 165984,
+        "num": 165984,
+        "word": "东部战区对美舰过航台湾海峡全程跟监警戒",
+        "onboard_time": 1661670689,
+        "rank": 43,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 141805,
+        "num": 141805,
+        "word": "成都西岭雪山突发山洪",
+        "onboard_time": 1661674588,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135856,
+        "num": 135856,
+        "word": "河南新增本土确诊2例无症状52例",
+        "onboard_time": 1661678306,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131577,
+        "num": 131577,
+        "word": "为什么新中式穿搭火了",
+        "onboard_time": 1661669548,
+        "rank": 46,
+        "category": "时尚,社会议题"
+      },
+      {
+        "raw_hot": 121561,
+        "num": 121561,
+        "word": "人们为什么衷于虚拟社交",
+        "onboard_time": 1661679387,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113399,
+        "num": 113399,
+        "word": "中国女排vs泰国女排",
+        "onboard_time": 1661677704,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110586,
+        "num": 110586,
+        "word": "中国女排晋级亚洲杯决赛",
+        "onboard_time": 1661683886,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}

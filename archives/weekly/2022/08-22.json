@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661683205066,
+  "endTime": 1661685462885,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 4098448,
-      "num": 445269,
+      "num": 494268,
       "word": "莲花楼剧组 打人",
       "onboard_time": 1661681245,
       "rank": 10,
@@ -233,6 +233,14 @@
       "onboard_time": 1661135429,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3029013,
+      "num": 494847,
+      "word": "男子在女友孕期出轨还想要回16万彩礼",
+      "onboard_time": 1661681546,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2994906,
@@ -537,14 +545,6 @@
       "onboard_time": 1661588849,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2257216,
-      "num": 444808,
-      "word": "男子在女友孕期出轨还想要回16万彩礼",
-      "onboard_time": 1661681546,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2244165,
@@ -1539,6 +1539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1273774,
+      "num": 588136,
+      "word": "大爷质问家长为何给孩子穿汉服",
+      "onboard_time": 1661683106,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272792,
       "num": 1272792,
       "word": "解放军无人机拍到金门岗哨照",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1661611173,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954068,
+      "num": 954068,
+      "word": "苍兰诀全员超话坦白局",
+      "onboard_time": 1661683289,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 952475,
@@ -4171,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611426,
+      "num": 611426,
+      "word": "研究称人类在700万前直立行走",
+      "onboard_time": 1661679987,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611325,
       "num": 611325,
       "word": "刘雨昕送王一博香菜大礼包",
@@ -4987,6 +5011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527636,
+      "num": 527636,
+      "word": "待播古装剧的男主造型",
+      "onboard_time": 1661681245,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 527051,
       "num": 527051,
       "word": "川渝好像有高温结界",
@@ -5171,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508237,
+      "num": 493434,
+      "word": "冰雨火孕妇吸毒",
+      "onboard_time": 1661684610,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507905,
       "num": 507905,
       "word": "LPR",
@@ -5275,6 +5315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 497104,
+      "num": 497104,
+      "word": "重庆人差点把妹子一起送了",
+      "onboard_time": 1661683767,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495345,
       "num": 495345,
       "word": "四川泸州突发山火",
@@ -5297,6 +5345,14 @@
       "onboard_time": 1661515532,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 491617,
+      "num": 491617,
+      "word": "于文文唐人街中的点点乡愁",
+      "onboard_time": 1661682627,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 491489,
@@ -5651,6 +5707,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 472952,
+      "num": 472952,
+      "word": "开学前录取通知书被狗狗咬碎",
+      "onboard_time": 1661682867,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 472940,
       "num": 472940,
       "word": "王鹤棣无实物表演对抗祟气",
@@ -6003,14 +6067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 450386,
-      "num": 430889,
-      "word": "于文文唐人街中的点点乡愁",
-      "onboard_time": 1661682627,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 449574,
       "num": 449574,
       "word": "成都将在8月26日退出高温行列",
@@ -6139,14 +6195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439953,
-      "num": 439953,
-      "word": "研究称人类在700万前直立行走",
-      "onboard_time": 1661679987,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439863,
       "num": 1729447,
       "word": "解放军奋战山火休息时和衣而卧",
@@ -6212,7 +6260,7 @@
     },
     {
       "raw_hot": 434590,
-      "num": 265867,
+      "num": 337638,
       "word": "刘宇宁究竟唱了多少影视剧OST",
       "onboard_time": 1661682206,
       "rank": 47,
@@ -6456,14 +6504,6 @@
       "word": "秦俊杰两部新剧同时播出",
       "onboard_time": 1661321310,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 418370,
-      "num": 220035,
-      "word": "待播古装剧的男主造型",
-      "onboard_time": 1661681245,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -7339,6 +7379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374305,
+      "num": 328835,
+      "word": "王一博冰雨火战损妆剧照",
+      "onboard_time": 1661684007,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374242,
       "num": 374242,
       "word": "为什么有时睡够8小时还是很困",
@@ -7723,12 +7771,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 355627,
+      "num": 355627,
+      "word": "大连疫情防控",
+      "onboard_time": 1661118010,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355424,
       "num": 355424,
       "word": "四川多条河流将明显涨水",
       "onboard_time": 1661248411,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355022,
+      "num": 257716,
+      "word": "敖子逸长春电影节闭幕式红毯",
+      "onboard_time": 1661683828,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 354815,
@@ -7817,6 +7881,14 @@
       "onboard_time": 1661340213,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 351174,
+      "num": 351174,
+      "word": "世锦赛陈雨菲获银牌",
+      "onboard_time": 1661685268,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 351095,
@@ -8089,6 +8161,14 @@
       "onboard_time": 1661225850,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339356,
+      "num": 252400,
+      "word": "傅菁长春电影节",
+      "onboard_time": 1661685387,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 339174,
@@ -8473,6 +8553,14 @@
       "onboard_time": 1661326409,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327964,
+      "num": 327964,
+      "word": "EDG对战TES",
+      "onboard_time": 1661678546,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 327443,
@@ -10123,14 +10211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271005,
-      "num": 271005,
-      "word": "EDG对战TES",
-      "onboard_time": 1661678546,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 270771,
       "num": 270771,
       "word": "还魂",
@@ -10651,6 +10731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258318,
+      "num": 258318,
+      "word": "Peanut获得FMVP",
+      "onboard_time": 1661681307,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257777,
       "num": 257777,
       "word": "Ale评论澄清与队伍无关",
@@ -10769,14 +10857,6 @@
       "onboard_time": 1661432816,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255147,
-      "num": 244922,
-      "word": "大爷质问家长为何给孩子穿汉服",
-      "onboard_time": 1661683106,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254935,
@@ -10993,6 +11073,14 @@
       "onboard_time": 1661135429,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 248650,
+      "num": 248650,
+      "word": "中国女排3比2泰国女排",
+      "onboard_time": 1661683828,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 248575,
@@ -11251,6 +11339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242158,
+      "num": 242158,
+      "word": "这不是弟弟想要的礼物",
+      "onboard_time": 1661680888,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242100,
       "num": 242100,
       "word": "开学焦虑在焦虑些什么",
@@ -11289,14 +11385,6 @@
       "onboard_time": 1661434131,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241034,
-      "num": 241034,
-      "word": "Peanut获得FMVP",
-      "onboard_time": 1661681307,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 241025,
@@ -11617,14 +11705,6 @@
       "onboard_time": 1661166092,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230742,
-      "num": 230742,
-      "word": "大连疫情防控",
-      "onboard_time": 1661118010,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230413,
@@ -12683,14 +12763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197846,
-      "num": 197846,
-      "word": "这不是弟弟想要的礼物",
-      "onboard_time": 1661680888,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197793,
       "num": 197793,
       "word": "见过最可爱的笨蛋小猫",
@@ -13121,6 +13193,14 @@
       "onboard_time": 1661383703,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187141,
+      "num": 187141,
+      "word": "4个集体被授予感动重庆特别奖",
+      "onboard_time": 1661682928,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187054,
@@ -13707,6 +13787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170792,
+      "num": 170792,
+      "word": "他多看一眼路牌救下一条命",
+      "onboard_time": 1661684367,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 170605,
       "num": 170605,
       "word": "武汉核酸",
@@ -14192,14 +14280,6 @@
       "word": "灾难片是逃跑但重庆人却向着山火跑",
       "onboard_time": 1661646625,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155208,
-      "num": 155208,
-      "word": "4个集体被授予感动重庆特别奖",
-      "onboard_time": 1661682928,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -14923,14 +15003,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 116598,
-      "num": 116598,
-      "word": "开学前录取通知书被狗狗咬碎",
-      "onboard_time": 1661682867,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 115957,
       "num": 115957,
       "word": "没想到大爷也是kpop人",
@@ -15017,6 +15089,14 @@
       "onboard_time": 1661210121,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110586,
+      "num": 110586,
+      "word": "中国女排晋级亚洲杯决赛",
+      "onboard_time": 1661683886,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110012,
