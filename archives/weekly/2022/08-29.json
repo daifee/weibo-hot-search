@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661722649348,
+  "endTime": 1661725255882,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259271,
+      "num": 259271,
+      "word": "女子腿脚没劲原是老年综合征",
+      "onboard_time": 1661716332,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249574,
       "num": 103742,
       "word": "newjeans新歌获人歌一位",
@@ -240,6 +248,14 @@
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
       "onboard_time": 1661686769,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223339,
+      "num": 163070,
+      "word": "家长当2孩子面偷拿他人物品",
+      "onboard_time": 1661717951,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -283,14 +299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158576,
-      "num": 158576,
-      "word": "女子腿脚没劲原是老年综合征",
-      "onboard_time": 1661716332,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "美登月火箭发射台遭雷击",
@@ -323,11 +331,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128796,
-      "num": 52098,
-      "word": "家长当2孩子面偷拿他人物品",
-      "onboard_time": 1661717951,
-      "rank": 23,
+      "raw_hot": 126730,
+      "num": 126730,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1661723171,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -435,12 +443,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63486,
+      "num": 63486,
+      "word": "女子无视绿化工人劝阻采摘绿化带",
+      "onboard_time": 1661722631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60143,
-      "num": 37298,
+      "num": 54957,
       "word": "王子文吴永恩考拉抱",
       "onboard_time": 1661689767,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57224,
+      "num": 57224,
+      "word": "不要擅自引进释放丢弃外来物种",
+      "onboard_time": 1661722390,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56606,
@@ -451,8 +475,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45982,
-      "num": 30788,
+      "raw_hot": 54241,
+      "num": 54241,
+      "word": "大熊猫是一种流体动物",
+      "onboard_time": 1661721310,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47891,
+      "num": 47891,
       "word": "如何评价朱一龙演技",
       "onboard_time": 1661704163,
       "rank": 40,
@@ -491,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 22962,
+      "num": 22962,
+      "word": "这场送别只有在中国才能看到",
+      "onboard_time": 1661718310,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16083,
       "num": 16083,
       "word": "50秒延时看重庆以火灭火全过程",
@@ -504,30 +544,6 @@
       "word": "八音盒变装下的守护者",
       "onboard_time": 1661657008,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15255,
-      "num": 15255,
-      "word": "这场送别只有在中国才能看到",
-      "onboard_time": 1661718310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13444,
-      "num": 13444,
-      "word": "大熊猫是一种流体动物",
-      "onboard_time": 1661721310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7604,
-      "num": 7604,
-      "word": "女子无视绿化工人劝阻采摘绿化带",
-      "onboard_time": 1661722631,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
