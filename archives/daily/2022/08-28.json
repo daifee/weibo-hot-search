@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661661422333,
+  "endTime": 1661664684379,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -35,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1768963,
+      "num": 1768963,
+      "word": "iPhone14ProMax或9999起",
+      "onboard_time": 1661661627,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1736759,
+      "num": 1736759,
+      "word": "鳄雀鳝内脏尤其是卵有剧毒",
+      "onboard_time": 1661658927,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1704929,
       "num": 1704929,
       "word": "首尔一高中因生源不足即将关闭",
       "onboard_time": 1661650469,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1683754,
-      "num": 1683754,
-      "word": "鳄雀鳝内脏尤其是卵有剧毒",
-      "onboard_time": 1661658927,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1247776,
@@ -65,6 +73,14 @@
       "onboard_time": 1661604031,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1119682,
+      "num": 1119682,
+      "word": "彩票中奖1000万有资格辞职吗",
+      "onboard_time": 1661663069,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1052050,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701979,
+      "num": 701979,
+      "word": "我的精神内耗突然就好了",
+      "onboard_time": 1661660908,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 698752,
       "num": 698752,
       "word": "长安汽车董事长称中国初具停售燃油车条件",
@@ -195,6 +219,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 601726,
+      "num": 601726,
+      "word": "草丛露出一双脚竟拔出一位大爷",
+      "onboard_time": 1661662288,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589603,
+      "num": 589603,
+      "word": "应渊唐周随爹了但不多",
+      "onboard_time": 1661662229,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573145,
       "num": 573145,
       "word": "多例病例在返京途中感染",
@@ -232,6 +272,14 @@
       "word": "2男子高铁车厢内因打电话互殴",
       "onboard_time": 1661653707,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545726,
+      "num": 545726,
+      "word": "劳荣枝48次有罪供述后辩称被胁迫",
+      "onboard_time": 1661662770,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -299,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463446,
+      "num": 463446,
+      "word": "王一博火锅局高端玩家",
+      "onboard_time": 1661664387,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459495,
       "num": 459495,
       "word": "河南由夏入冬只用了一周",
@@ -323,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425260,
+      "num": 425260,
+      "word": "四川宜宾连天山深夜突发山火",
+      "onboard_time": 1661661446,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414129,
       "num": 414129,
       "word": "容祖儿治好了我的社恐",
@@ -337,6 +401,14 @@
       "onboard_time": 1661645245,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405936,
+      "num": 405936,
+      "word": "无畏好一个五米大帅哥",
+      "onboard_time": 1661661566,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 389653,
@@ -384,6 +456,14 @@
       "word": "吴克群上厕所BGM是张震岳弹的",
       "onboard_time": 1661657786,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362995,
+      "num": 362995,
+      "word": "魏晨你好星期六再唱少年游",
+      "onboard_time": 1661661627,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -491,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284436,
+      "num": 284436,
+      "word": "收废品阿姨无偿照顾陌生老人16年",
+      "onboard_time": 1661658565,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 282723,
       "num": 282723,
       "word": "北京WB",
@@ -523,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273771,
+      "num": 273771,
+      "word": "9岁女童暑期承包妈妈一日三餐",
+      "onboard_time": 1661662169,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271078,
       "num": 271078,
       "word": "消防员住过的房间令保洁阿姨破防",
@@ -539,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268414,
-      "num": 268414,
-      "word": "收废品阿姨无偿照顾陌生老人16年",
-      "onboard_time": 1661658565,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 267172,
       "num": 212066,
       "word": "丁禹兮把杨贵妃猜成羊会飞",
@@ -561,6 +649,14 @@
       "onboard_time": 1661635271,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257517,
+      "num": 257517,
+      "word": "越来越多人不爱去5A景区",
+      "onboard_time": 1661663012,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 253825,
@@ -585,6 +681,14 @@
       "onboard_time": 1661659766,
       "rank": 28,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 241840,
+      "num": 241840,
+      "word": "消防员的皮卡都被山城人投喂了",
+      "onboard_time": 1661662106,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241498,
@@ -675,6 +779,22 @@
       "category": "社会新闻,国内要闻"
     },
     {
+      "raw_hot": 206060,
+      "num": 206060,
+      "word": "老外未戴口罩进公园被驱逐",
+      "onboard_time": 1661663611,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "心动的信号",
+      "onboard_time": 1661664211,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204499,
       "num": 173310,
       "word": "你好星期六下期赵今麦郭俊辰隔空同框",
@@ -683,12 +803,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195327,
+      "num": 195327,
+      "word": "姚译添输给嗨放派全员一套房",
+      "onboard_time": 1661663968,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194663,
+      "num": 194663,
+      "word": "研究表明第五种力或不存在",
+      "onboard_time": 1661660966,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 194241,
       "num": 194241,
       "word": "女护士用男友手背练习扎针",
       "onboard_time": 1661599530,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 187533,
+      "num": 187533,
+      "word": "德州新增本土无症状感染者4例",
+      "onboard_time": 1661660426,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187442,
@@ -755,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171571,
-      "num": 171571,
-      "word": "德州新增本土无症状感染者4例",
-      "onboard_time": 1661660426,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169538,
       "num": 169538,
       "word": "看雀斑公主稀里糊涂哭了",
@@ -779,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167248,
-      "num": 167248,
-      "word": "我的精神内耗突然就好了",
-      "onboard_time": 1661660908,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 165687,
       "num": 111010,
       "word": "140斤的魏大勋被纸巾吊起来了",
@@ -801,6 +929,14 @@
       "onboard_time": 1661612793,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155629,
+      "num": 155629,
+      "word": "向前冲赛道就是这样给你们玩的吗",
+      "onboard_time": 1661663069,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 155597,
@@ -825,14 +961,6 @@
       "onboard_time": 1661651129,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147669,
-      "num": 147669,
-      "word": "研究表明第五种力或不存在",
-      "onboard_time": 1661660966,
-      "rank": 42,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 147609,
@@ -937,6 +1065,22 @@
       "onboard_time": 1661595810,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 110462,
+      "num": 110462,
+      "word": "厦门疫情防控",
+      "onboard_time": 1661664446,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109114,
+      "num": 109114,
+      "word": "男子离异后发现儿子变侄子",
+      "onboard_time": 1661664629,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108086,
