@@ -1,0 +1,410 @@
+{
+  "runTime": 1661655853192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2964925,
+        "num": 2964925,
+        "word": "一支中性笔卖55元",
+        "onboard_time": 1661651066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2261037,
+        "num": 2261037,
+        "word": "公司要求一旦怀孕自动离职",
+        "onboard_time": 1661613394,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43212,
+        "num": 2164597,
+        "word": "这道防火长城坚不可摧",
+        "onboard_time": 1661518647,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2088576,
+        "num": 2088576,
+        "word": "priest是兼职作者",
+        "onboard_time": 1661654064,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1436392,
+        "num": 1436392,
+        "word": "首尔一高中因生源不足即将关闭",
+        "onboard_time": 1661650469,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1049685,
+        "num": 1049685,
+        "word": "沈腾主演票房破250亿",
+        "onboard_time": 1661653646,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 897404,
+        "num": 897404,
+        "word": "夫妻俩卖20元芹菜被罚6万6",
+        "onboard_time": 1661644643,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703283,
+        "num": 703283,
+        "word": "成都疫情防控",
+        "onboard_time": 1661650946,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665117,
+        "num": 665117,
+        "word": "东方青苍事业粉",
+        "onboard_time": 1661651487,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559457,
+        "num": 559457,
+        "word": "可以食用鳄雀鳝吗",
+        "onboard_time": 1661650709,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655334,
+        "num": 558585,
+        "word": "世界在坍塌 我们在相爱",
+        "onboard_time": 1661613032,
+        "rank": 10,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 556817,
+        "num": 556817,
+        "word": "大一新生携2米高盆栽开学",
+        "onboard_time": 1661643139,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 488490,
+        "num": 488490,
+        "word": "刘翔峰或被终身禁业",
+        "onboard_time": 1661654309,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454345,
+        "num": 454345,
+        "word": "女孩报警妈妈太凶爸爸解围反被吐槽",
+        "onboard_time": 1661646987,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445079,
+        "num": 445079,
+        "word": "2男子高铁车厢内因打电话互殴",
+        "onboard_time": 1661653707,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365393,
+        "num": 365393,
+        "word": "重庆女娃连续5天骑行送救火物资",
+        "onboard_time": 1661647887,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 353496,
+        "num": 353496,
+        "word": "青岛一小区抓捕2条鳄雀鳝",
+        "onboard_time": 1661642959,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328653,
+        "num": 328653,
+        "word": "江西鹰潭方舱隔离条件堪忧",
+        "onboard_time": 1661644946,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322478,
+        "num": 322478,
+        "word": "昆明一小区出现鳄雀鳝",
+        "onboard_time": 1661647348,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317564,
+        "num": 317564,
+        "word": "官兵借宿学校走前还帮忙刷了墙",
+        "onboard_time": 1661653288,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 800145,
+        "num": 312600,
+        "word": "被误诊艾滋病5年当事人发声",
+        "onboard_time": 1661607992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305519,
+        "num": 305519,
+        "word": "起底8800元平板电脑供应商",
+        "onboard_time": 1661646388,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 290370,
+        "num": 290370,
+        "word": "中纪委评刘翔峰事件",
+        "onboard_time": 1661653226,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280350,
+        "num": 280350,
+        "word": "重庆疫情防控",
+        "onboard_time": 1661654847,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271078,
+        "num": 271078,
+        "word": "消防员住过的房间令保洁阿姨破防",
+        "onboard_time": 1661652628,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266688,
+        "num": 266688,
+        "word": "明星们的嘴巴是装了刹车吗",
+        "onboard_time": 1661615973,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257979,
+        "num": 257979,
+        "word": "老人阻止家人将吊脚楼祖宅改别墅",
+        "onboard_time": 1661645245,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256421,
+        "num": 256421,
+        "word": "武汉新增本土无症状感染者10例",
+        "onboard_time": 1661648848,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242968,
+        "num": 242968,
+        "word": "许嵩谭维维合唱诗画中国主题曲",
+        "onboard_time": 1661654548,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225854,
+        "num": 225854,
+        "word": "女子买西瓜撕开标签下面全烂洞",
+        "onboard_time": 1661611715,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221064,
+        "num": 221064,
+        "word": "LCK",
+        "onboard_time": 1661655146,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218031,
+        "num": 218031,
+        "word": "三亚增50例确诊82例无症状",
+        "onboard_time": 1661645364,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215409,
+        "num": 215409,
+        "word": "重庆南坪疫情防控",
+        "onboard_time": 1661652569,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214973,
+        "num": 214973,
+        "word": "苍兰诀 预告",
+        "onboard_time": 1661648067,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202796,
+        "num": 202796,
+        "word": "还魂",
+        "onboard_time": 1661651309,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203360,
+        "num": 202242,
+        "word": "你那么讨厌 我还是喜欢你",
+        "onboard_time": 1661613575,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197393,
+        "num": 197393,
+        "word": "檀健次郑秀妍好默契",
+        "onboard_time": 1661645003,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196269,
+        "num": 196269,
+        "word": "王勉说自己吃林依轮做的饭长大的",
+        "onboard_time": 1661653468,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188161,
+        "num": 188161,
+        "word": "山火中全班体育生通宵巡山",
+        "onboard_time": 1661650047,
+        "rank": 38,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 185988,
+        "num": 185988,
+        "word": "荡平水云天",
+        "onboard_time": 1661613272,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185038,
+        "num": 185038,
+        "word": "建议不要和我这种人深交",
+        "onboard_time": 1661614112,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 173563,
+        "num": 173563,
+        "word": "王一博看选手跳舞哭了",
+        "onboard_time": 1661646567,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166230,
+        "num": 166230,
+        "word": "这小狗还练上瑜伽了",
+        "onboard_time": 1661655027,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159100,
+        "num": 159100,
+        "word": "9岁男孩因惧怕开学反复发烧",
+        "onboard_time": 1661616632,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 157039,
+        "num": 157039,
+        "word": "河北新增无症状感染者29例",
+        "onboard_time": 1661647348,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148531,
+        "num": 148531,
+        "word": "再身材焦虑就过分了",
+        "onboard_time": 1661611893,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139164,
+        "num": 139164,
+        "word": "近百头白唇鹿现身三江源",
+        "onboard_time": 1661654788,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 135699,
+        "num": 135699,
+        "word": "榆林官方承认芹菜案确实存在问题",
+        "onboard_time": 1661615434,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129518,
+        "num": 129518,
+        "word": "27日北京新增3例本土感染者",
+        "onboard_time": 1661647407,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123187,
+        "num": 123187,
+        "word": "上海交大校友名录未见秦泽文",
+        "onboard_time": 1661633591,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国这十年#"
+    }
+  }
+}

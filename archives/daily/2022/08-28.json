@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661653942411,
+  "endTime": 1661655853192,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2181850,
-      "num": 2181850,
+      "raw_hot": 2964925,
+      "num": 2964925,
       "word": "一支中性笔卖55元",
       "onboard_time": 1661651066,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2088576,
+      "num": 2088576,
+      "word": "priest是兼职作者",
+      "onboard_time": 1661654064,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1769751,
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 1052050,
-      "num": 831507,
+      "num": 897404,
       "word": "夫妻俩卖20元芹菜被罚6万6",
       "onboard_time": 1661644643,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1049685,
+      "num": 1049685,
+      "word": "沈腾主演票房破250亿",
+      "onboard_time": 1661653646,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1029559,
@@ -107,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703283,
+      "num": 703283,
+      "word": "成都疫情防控",
+      "onboard_time": 1661650946,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698752,
       "num": 698752,
       "word": "长安汽车董事长称中国初具停售燃油车条件",
@@ -123,20 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661918,
-      "num": 661918,
+      "raw_hot": 665117,
+      "num": 665117,
       "word": "东方青苍事业粉",
       "onboard_time": 1661651487,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 647870,
-      "num": 647870,
-      "word": "成都疫情防控",
-      "onboard_time": 1661650946,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 646391,
@@ -171,20 +187,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 559457,
+      "num": 559457,
+      "word": "可以食用鳄雀鳝吗",
+      "onboard_time": 1661650709,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557409,
       "num": 557409,
       "word": "你那么讨厌 我还是喜欢你",
       "onboard_time": 1661613575,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 552843,
-      "num": 552843,
-      "word": "可以食用鳄雀鳝吗",
-      "onboard_time": 1661650709,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535289,
@@ -211,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488490,
+      "num": 488490,
+      "word": "刘翔峰或被终身禁业",
+      "onboard_time": 1661654309,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482801,
       "num": 270817,
       "word": "父母每月发5千留孩子在家结婚",
       "onboard_time": 1661597305,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478251,
-      "num": 478251,
-      "word": "沈腾主演票房破250亿",
-      "onboard_time": 1661653646,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 475563,
@@ -240,6 +256,14 @@
       "word": "青岛一小区抓捕2条鳄雀鳝",
       "onboard_time": 1661642959,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445079,
+      "num": 445079,
+      "word": "2男子高铁车厢内因打电话互殴",
+      "onboard_time": 1661653707,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -315,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317564,
+      "num": 317564,
+      "word": "官兵借宿学校走前还帮忙刷了墙",
+      "onboard_time": 1661653288,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 313339,
       "num": 313339,
       "word": "重庆南坪疫情防控",
@@ -328,6 +360,14 @@
       "word": "女子离婚老公和婆婆伪造260万债务",
       "onboard_time": 1661599228,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290370,
+      "num": 290370,
+      "word": "中纪委评刘翔峰事件",
+      "onboard_time": 1661653226,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -355,12 +395,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280350,
+      "num": 280350,
+      "word": "重庆疫情防控",
+      "onboard_time": 1661654847,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277550,
       "num": 277550,
       "word": "檀健次郑秀妍好默契",
       "onboard_time": 1661645003,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271078,
+      "num": 271078,
+      "word": "消防员住过的房间令保洁阿姨破防",
+      "onboard_time": 1661652628,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270771,
@@ -384,6 +440,14 @@
       "word": "王勉说自己吃林依轮做的饭长大的",
       "onboard_time": 1661653468,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242968,
+      "num": 242968,
+      "word": "许嵩谭维维合唱诗画中国主题曲",
+      "onboard_time": 1661654548,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -451,19 +515,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221064,
+      "num": 221064,
+      "word": "LCK",
+      "onboard_time": 1661655146,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215868,
       "num": 215868,
       "word": "河北新增无症状感染者29例",
       "onboard_time": 1661647348,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215288,
-      "num": 215288,
-      "word": "消防员住过的房间令保洁阿姨破防",
-      "onboard_time": 1661652628,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -481,14 +545,6 @@
       "onboard_time": 1661613813,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199647,
-      "num": 199647,
-      "word": "官兵借宿学校走前还帮忙刷了墙",
-      "onboard_time": 1661653288,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 194241,
@@ -571,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166230,
+      "num": 166230,
+      "word": "这小狗还练上瑜伽了",
+      "onboard_time": 1661655027,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165687,
       "num": 111010,
       "word": "140斤的魏大勋被纸巾吊起来了",
@@ -619,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146900,
-      "num": 146900,
-      "word": "2男子高铁车厢内因打电话互殴",
-      "onboard_time": 1661653707,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141651,
       "num": 141651,
       "word": "语文老师的浪漫",
@@ -649,6 +705,14 @@
       "onboard_time": 1661600309,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 139164,
+      "num": 139164,
+      "word": "近百头白唇鹿现身三江源",
+      "onboard_time": 1661654788,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 133579,
@@ -828,7 +892,7 @@
     },
     {
       "raw_hot": 48127,
-      "num": 1716339,
+      "num": 2164597,
       "word": "这道防火长城坚不可摧",
       "onboard_time": 1661518647,
       "rank": 2,
