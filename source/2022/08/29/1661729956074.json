@@ -1,0 +1,410 @@
+{
+  "runTime": 1661729956074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091855,
+        "num": 1091855,
+        "word": "女子腿脚没劲原是老年综合征",
+        "onboard_time": 1661716332,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776241,
+        "num": 776241,
+        "word": "女子火锅配冰奶茶上吐下泻碱中毒",
+        "onboard_time": 1661699311,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13521,
+        "num": 761135,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760480,
+        "num": 760480,
+        "word": "家长当2孩子面偷拿他人物品",
+        "onboard_time": 1661717951,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604347,
+        "num": 604347,
+        "word": "录取通知书被毁能否进校门",
+        "onboard_time": 1661692472,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 573362,
+        "num": 573362,
+        "word": "骨兰变成了东方青苍",
+        "onboard_time": 1661695112,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492418,
+        "num": 492418,
+        "word": "成都疫情处于快速上升阶段",
+        "onboard_time": 1661692232,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483881,
+        "num": 483881,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1661723171,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412797,
+        "num": 412797,
+        "word": "蔡徐坤把拴Q说成了3Q",
+        "onboard_time": 1661689649,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360606,
+        "num": 360606,
+        "word": "父母过度干涉你的生活是什么体验",
+        "onboard_time": 1661727858,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 872318,
+        "num": 342678,
+        "word": "男子在女友孕期出轨还想要回16万彩礼",
+        "onboard_time": 1661681546,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417897,
+        "num": 334478,
+        "word": "贺峻霖两个月瘦了20斤",
+        "onboard_time": 1661699368,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323222,
+        "num": 323222,
+        "word": "吴倩说五年后是夏天赢了",
+        "onboard_time": 1661696972,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296654,
+        "num": 296654,
+        "word": "长期大量饮用碳酸饮料有哪些危害",
+        "onboard_time": 1661729062,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289692,
+        "num": 289692,
+        "word": "男子离婚两年后前妻告知儿子非亲生",
+        "onboard_time": 1661691510,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287010,
+        "num": 287010,
+        "word": "大爷质问家长为何给孩子穿汉服",
+        "onboard_time": 1661683106,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285140,
+        "num": 285140,
+        "word": "EXO 回归",
+        "onboard_time": 1661686827,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269327,
+        "num": 269327,
+        "word": "动物园灰鹦鹉被逗后说脏话骂游客",
+        "onboard_time": 1661699672,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262592,
+        "num": 262592,
+        "word": "成都一奢侈品销售改行卖冰粉",
+        "onboard_time": 1661727978,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238089,
+        "num": 238089,
+        "word": "95后小伙瞒着家人到重庆救火",
+        "onboard_time": 1661698832,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 275582,
+        "num": 237863,
+        "word": "法航机长副机长驾机途中打架斗殴",
+        "onboard_time": 1661729179,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244783,
+        "num": 237171,
+        "word": "冰雨火孕妇吸毒",
+        "onboard_time": 1661684610,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236354,
+        "num": 236354,
+        "word": "不要擅自引进释放丢弃外来物种",
+        "onboard_time": 1661722390,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204960,
+        "num": 204960,
+        "word": "女子无视绿化工人劝阻采摘绿化带",
+        "onboard_time": 1661722631,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199524,
+        "num": 199524,
+        "word": "陕西肉夹馍在台中夜市一馍难求",
+        "onboard_time": 1661703506,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 198550,
+        "num": 198550,
+        "word": "苍兰诀 智者不入爱河",
+        "onboard_time": 1661697273,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168394,
+        "num": 168394,
+        "word": "平台回应通缉犯的抓捕赏金仅4元",
+        "onboard_time": 1661691331,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178733,
+        "num": 163342,
+        "word": "苍兰诀 太岁",
+        "onboard_time": 1661697691,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154255,
+        "num": 154255,
+        "word": "成都市民进入公共场所须48小时核酸证明",
+        "onboard_time": 1661698773,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146899,
+        "num": 146899,
+        "word": "台州是糯叽叽的天堂",
+        "onboard_time": 1661700029,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156965,
+        "num": 146696,
+        "word": "秦霄贤画桃心告白高圆圆",
+        "onboard_time": 1661725334,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153506,
+        "num": 145114,
+        "word": "王子文吴永恩考拉抱",
+        "onboard_time": 1661689767,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142009,
+        "num": 142009,
+        "word": "大熊猫是一种流体动物",
+        "onboard_time": 1661721310,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141383,
+        "num": 141383,
+        "word": "苍兰诀 不要烂尾",
+        "onboard_time": 1661697932,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138649,
+        "num": 138649,
+        "word": "轰6K巡航台岛常态化",
+        "onboard_time": 1661694512,
+        "rank": 34,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 138452,
+        "num": 138452,
+        "word": "赵雷新专辑",
+        "onboard_time": 1661728640,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127112,
+        "num": 127112,
+        "word": "男子为证明自己的化学天赋自学制毒",
+        "onboard_time": 1661686286,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126843,
+        "num": 126843,
+        "word": "美登月火箭发射台遭雷击",
+        "onboard_time": 1661693972,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120062,
+        "num": 120062,
+        "word": "男子烤肠到嘴边退货遭拒辱骂店员",
+        "onboard_time": 1661686769,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115138,
+        "num": 115138,
+        "word": "重庆下雨",
+        "onboard_time": 1661695232,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124305,
+        "num": 112510,
+        "word": "苍兰诀编剧",
+        "onboard_time": 1661695893,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109680,
+        "num": 109680,
+        "word": "在重庆有一种感动叫双向奔赴",
+        "onboard_time": 1661696552,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 96546,
+        "num": 96546,
+        "word": "这场送别只有在中国才能看到",
+        "onboard_time": 1661718310,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90940,
+        "num": 90940,
+        "word": "EDG 冒泡赛",
+        "onboard_time": 1661690429,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87376,
+        "num": 87376,
+        "word": "如何评价朱一龙演技",
+        "onboard_time": 1661704163,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86038,
+        "num": 86038,
+        "word": "成都疫情防控",
+        "onboard_time": 1661688928,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75907,
+        "num": 75907,
+        "word": "川渝男人最后的倔强",
+        "onboard_time": 1661689407,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56737,
+        "num": 56737,
+        "word": "这麻婆豆腐也太费米饭了",
+        "onboard_time": 1661691331,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55258,
+        "num": 55258,
+        "word": "50秒延时看重庆以火灭火全过程",
+        "onboard_time": 1661713512,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49159,
+        "num": 49159,
+        "word": "开学前录取通知书被狗狗咬碎",
+        "onboard_time": 1661682867,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络文明之光照亮未来#"
+    }
+  }
+}

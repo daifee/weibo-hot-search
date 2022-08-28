@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661728896537,
+  "endTime": 1661729956074,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1091855,
+      "num": 1091855,
+      "word": "女子腿脚没劲原是老年综合征",
+      "onboard_time": 1661716332,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 947725,
       "num": 947725,
       "word": "苍兰诀 智者不入爱河",
       "onboard_time": 1661697273,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 939358,
-      "num": 939358,
-      "word": "女子腿脚没劲原是老年综合征",
-      "onboard_time": 1661716332,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 898090,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760480,
+      "num": 760480,
+      "word": "家长当2孩子面偷拿他人物品",
+      "onboard_time": 1661717951,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755247,
       "num": 755247,
       "word": "成都疫情处于快速上升阶段",
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 659803,
-      "num": 542807,
-      "word": "家长当2孩子面偷拿他人物品",
-      "onboard_time": 1661717951,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 604347,
+      "num": 604347,
+      "word": "录取通知书被毁能否进校门",
+      "onboard_time": 1661692472,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 561868,
@@ -115,16 +123,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 463794,
-      "num": 463794,
-      "word": "录取通知书被毁能否进校门",
-      "onboard_time": 1661692472,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 428049,
-      "num": 261052,
+      "num": 323222,
       "word": "吴倩说五年后是夏天赢了",
       "onboard_time": 1661696972,
       "rank": 21,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360606,
+      "num": 360606,
+      "word": "父母过度干涉你的生活是什么体验",
+      "onboard_time": 1661727858,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355304,
       "num": 355304,
       "word": "成都市民进入公共场所须48小时核酸证明",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 336696,
-      "num": 138979,
+      "num": 163342,
       "word": "苍兰诀 太岁",
       "onboard_time": 1661697691,
       "rank": 30,
@@ -193,6 +201,22 @@
       "onboard_time": 1661698471,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296654,
+      "num": 296654,
+      "word": "长期大量饮用碳酸饮料有哪些危害",
+      "onboard_time": 1661729062,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275582,
+      "num": 237863,
+      "word": "法航机长副机长驾机途中打架斗殴",
+      "onboard_time": 1661729179,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272831,
@@ -217,6 +241,14 @@
       "onboard_time": 1661703982,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262592,
+      "num": 262592,
+      "word": "成都一奢侈品销售改行卖冰粉",
+      "onboard_time": 1661727978,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260695,
@@ -244,18 +276,10 @@
     },
     {
       "raw_hot": 248520,
-      "num": 218692,
+      "num": 237171,
       "word": "冰雨火孕妇吸毒",
       "onboard_time": 1661684610,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246420,
-      "num": 246420,
-      "word": "父母过度干涉你的生活是什么体验",
-      "onboard_time": 1661727858,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -331,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168394,
+      "num": 168394,
+      "word": "平台回应通缉犯的抓捕赏金仅4元",
+      "onboard_time": 1661691331,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "美登月火箭发射台遭雷击",
@@ -339,28 +371,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146908,
-      "num": 118434,
-      "word": "轰6K巡航台岛常态化",
-      "onboard_time": 1661694512,
-      "rank": 34,
-      "category": "社会新闻,军事"
+      "raw_hot": 156965,
+      "num": 146696,
+      "word": "秦霄贤画桃心告白高圆圆",
+      "onboard_time": 1661725334,
+      "rank": 41,
+      "category": "综艺"
     },
     {
-      "raw_hot": 141803,
-      "num": 141803,
+      "raw_hot": 153506,
+      "num": 145114,
       "word": "王子文吴永恩考拉抱",
       "onboard_time": 1661689767,
       "rank": 32,
       "category": "综艺"
     },
     {
-      "raw_hot": 140187,
-      "num": 140187,
-      "word": "平台回应通缉犯的抓捕赏金仅4元",
-      "onboard_time": 1661691331,
-      "rank": 27,
+      "raw_hot": 146908,
+      "num": 138649,
+      "word": "轰6K巡航台岛常态化",
+      "onboard_time": 1661694512,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 142009,
+      "num": 142009,
+      "word": "大熊猫是一种流体动物",
+      "onboard_time": 1661721310,
+      "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138452,
+      "num": 138452,
+      "word": "赵雷新专辑",
+      "onboard_time": 1661728640,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 132241,
@@ -369,14 +417,6 @@
       "onboard_time": 1661707397,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130226,
-      "num": 130226,
-      "word": "大熊猫是一种流体动物",
-      "onboard_time": 1661721310,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125846,
@@ -411,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114126,
-      "num": 112603,
-      "word": "秦霄贤画桃心告白高圆圆",
-      "onboard_time": 1661725334,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110421,
       "num": 110421,
       "word": "这麻婆豆腐也太费米饭了",
@@ -427,19 +459,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 100122,
-      "num": 72021,
-      "word": "赵雷新专辑",
-      "onboard_time": 1661728640,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 98650,
       "num": 98650,
       "word": "上海昨日新增本土无症状8例",
       "onboard_time": 1661695054,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96546,
+      "num": 96546,
+      "word": "这场送别只有在中国才能看到",
+      "onboard_time": 1661718310,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -451,16 +483,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90063,
-      "num": 90063,
-      "word": "成都一奢侈品销售改行卖冰粉",
-      "onboard_time": 1661727978,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89526,
-      "num": 71741,
+      "num": 87376,
       "word": "如何评价朱一龙演技",
       "onboard_time": 1661704163,
       "rank": 40,
@@ -483,8 +507,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85284,
-      "num": 85284,
+      "raw_hot": 86038,
+      "num": 86038,
       "word": "成都疫情防控",
       "onboard_time": 1661688928,
       "rank": 45,
@@ -507,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72209,
-      "num": 72209,
-      "word": "这场送别只有在中国才能看到",
-      "onboard_time": 1661718310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69622,
       "num": 69622,
       "word": "JDG锁定S12名额",
@@ -531,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46485,
-      "num": 46485,
+      "raw_hot": 55258,
+      "num": 55258,
       "word": "50秒延时看重庆以火灭火全过程",
       "onboard_time": 1661713512,
       "rank": 48,
