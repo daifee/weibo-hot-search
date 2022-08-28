@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661726279158,
+  "endTime": 1661728896537,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 939358,
+      "num": 939358,
+      "word": "女子腿脚没劲原是老年综合征",
+      "onboard_time": 1661716332,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898090,
       "num": 342989,
       "word": "贺峻霖两个月瘦了20斤",
@@ -64,6 +72,22 @@
       "word": "成都疫情处于快速上升阶段",
       "onboard_time": 1661692232,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659803,
+      "num": 542807,
+      "word": "家长当2孩子面偷拿他人物品",
+      "onboard_time": 1661717951,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561868,
+      "num": 561868,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1661723171,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -91,8 +115,16 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 463794,
+      "num": 463794,
+      "word": "录取通知书被毁能否进校门",
+      "onboard_time": 1661692472,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 428049,
-      "num": 207812,
+      "num": 261052,
       "word": "吴倩说五年后是夏天赢了",
       "onboard_time": 1661696972,
       "rank": 21,
@@ -123,14 +155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377256,
-      "num": 377256,
-      "word": "女子腿脚没劲原是老年综合征",
-      "onboard_time": 1661716332,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369120,
       "num": 319758,
       "word": "男子离婚两年后前妻告知儿子非亲生",
@@ -148,19 +172,11 @@
     },
     {
       "raw_hot": 336696,
-      "num": 123499,
+      "num": 138979,
       "word": "苍兰诀 太岁",
       "onboard_time": 1661697691,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316394,
-      "num": 316394,
-      "word": "录取通知书被毁能否进校门",
-      "onboard_time": 1661692472,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 313497,
@@ -168,14 +184,6 @@
       "word": "动物园灰鹦鹉被逗后说脏话骂游客",
       "onboard_time": 1661699672,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311820,
-      "num": 230857,
-      "word": "家长当2孩子面偷拿他人物品",
-      "onboard_time": 1661717951,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -236,11 +244,27 @@
     },
     {
       "raw_hot": 248520,
-      "num": 130146,
+      "num": 218692,
       "word": "冰雨火孕妇吸毒",
       "onboard_time": 1661684610,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246420,
+      "num": 246420,
+      "word": "父母过度干涉你的生活是什么体验",
+      "onboard_time": 1661727858,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245823,
+      "num": 245823,
+      "word": "不要擅自引进释放丢弃外来物种",
+      "onboard_time": 1661722390,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236033,
@@ -249,14 +273,6 @@
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228653,
-      "num": 228653,
-      "word": "沈阳疫情防控",
-      "onboard_time": 1661723171,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224307,
@@ -273,6 +289,14 @@
       "onboard_time": 1661699131,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 207868,
+      "num": 207868,
+      "word": "女子无视绿化工人劝阻采摘绿化带",
+      "onboard_time": 1661722631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203861,
@@ -323,8 +347,16 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 135601,
-      "num": 135601,
+      "raw_hot": 141803,
+      "num": 141803,
+      "word": "王子文吴永恩考拉抱",
+      "onboard_time": 1661689767,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140187,
+      "num": 140187,
       "word": "平台回应通缉犯的抓捕赏金仅4元",
       "onboard_time": 1661691331,
       "rank": 27,
@@ -337,6 +369,14 @@
       "onboard_time": 1661707397,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130226,
+      "num": 130226,
+      "word": "大熊猫是一种流体动物",
+      "onboard_time": 1661721310,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125846,
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114126,
+      "num": 112603,
+      "word": "秦霄贤画桃心告白高圆圆",
+      "onboard_time": 1661725334,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110421,
       "num": 110421,
       "word": "这麻婆豆腐也太费米饭了",
@@ -379,20 +427,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 107065,
-      "num": 107065,
-      "word": "不要擅自引进释放丢弃外来物种",
-      "onboard_time": 1661722390,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103352,
-      "num": 103352,
-      "word": "女子无视绿化工人劝阻采摘绿化带",
-      "onboard_time": 1661722631,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 100122,
+      "num": 72021,
+      "word": "赵雷新专辑",
+      "onboard_time": 1661728640,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 98650,
@@ -409,6 +449,22 @@
       "onboard_time": 1661690729,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90063,
+      "num": 90063,
+      "word": "成都一奢侈品销售改行卖冰粉",
+      "onboard_time": 1661727978,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89526,
+      "num": 71741,
+      "word": "如何评价朱一龙演技",
+      "onboard_time": 1661704163,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 87920,
@@ -443,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81053,
-      "num": 73431,
-      "word": "王子文吴永恩考拉抱",
-      "onboard_time": 1661689767,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74619,
       "num": 74619,
       "word": "剑网三",
@@ -459,10 +507,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70638,
-      "num": 70638,
-      "word": "大熊猫是一种流体动物",
-      "onboard_time": 1661721310,
+      "raw_hot": 72209,
+      "num": 72209,
+      "word": "这场送别只有在中国才能看到",
+      "onboard_time": 1661718310,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -475,18 +523,18 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 62664,
-      "num": 50149,
-      "word": "如何评价朱一龙演技",
-      "onboard_time": 1661704163,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 56606,
       "num": 56606,
       "word": "公厕里的洗手液有多脏",
       "onboard_time": 1661666787,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46485,
+      "num": 46485,
+      "word": "50秒延时看重庆以火灭火全过程",
+      "onboard_time": 1661713512,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -515,36 +563,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31078,
-      "num": 29347,
-      "word": "秦霄贤画桃心告白高圆圆",
-      "onboard_time": 1661725334,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25333,
-      "num": 25333,
-      "word": "这场送别只有在中国才能看到",
-      "onboard_time": 1661718310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25220,
       "num": 20013,
       "word": "月升沧海吴磊赵露思单手抱花絮",
       "onboard_time": 1661693670,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23710,
-      "num": 23710,
-      "word": "50秒延时看重庆以火灭火全过程",
-      "onboard_time": 1661713512,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15485,
