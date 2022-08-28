@@ -1,7 +1,15 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661679453853,
+  "endTime": 1661682241138,
   "band_list": [
+    {
+      "raw_hot": 3831198,
+      "num": 445269,
+      "word": "莲花楼剧组 打人",
+      "onboard_time": 1661681245,
+      "rank": 10,
+      "category": "影视"
+    },
     {
       "raw_hot": 2993419,
       "num": 2993419,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1331991,
+      "num": 671699,
+      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+      "onboard_time": 1661676566,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1247776,
       "num": 1247776,
       "word": "刘翔峰或被终身禁业",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 1201668,
-      "num": 492883,
+      "num": 584121,
       "word": "zoo 舞台",
       "onboard_time": 1661678064,
       "rank": 3,
@@ -195,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1031959,
+      "num": 1031959,
+      "word": "GEN夺冠",
+      "onboard_time": 1661678725,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1029559,
       "num": 1029559,
       "word": "女子买西瓜撕开标签下面全烂洞",
@@ -241,14 +265,6 @@
       "onboard_time": 1661614112,
       "rank": 5,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 944273,
-      "num": 479688,
-      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
-      "onboard_time": 1661676566,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882101,
@@ -363,8 +379,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652679,
+      "num": 652679,
+      "word": "Jennie新歌舞台直拍",
+      "onboard_time": 1661680286,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648143,
-      "num": 464144,
+      "num": 511480,
       "word": "蛋糕可以冷门但不可以邪门",
       "onboard_time": 1661675188,
       "rank": 36,
@@ -449,6 +473,14 @@
       "onboard_time": 1661613575,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555720,
+      "num": 444808,
+      "word": "男子在女友孕期出轨还想要回16万彩礼",
+      "onboard_time": 1661681546,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546469,
@@ -553,6 +585,14 @@
       "onboard_time": 1661642959,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445322,
+      "num": 445322,
+      "word": "这猫丑就算了叫声还难听",
+      "onboard_time": 1661679026,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 441706,
@@ -699,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367985,
-      "num": 367985,
-      "word": "GEN夺冠",
-      "onboard_time": 1661678725,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 362995,
       "num": 362995,
       "word": "魏晨你好星期六再唱少年游",
@@ -737,6 +769,30 @@
       "onboard_time": 1661657427,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352056,
+      "num": 352056,
+      "word": "研究称人类在700万前直立行走",
+      "onboard_time": 1661679987,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349214,
+      "num": 349214,
+      "word": "四川局地有大暴雨来袭",
+      "onboard_time": 1661678847,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345208,
+      "num": 112787,
+      "word": "刘宇宁究竟唱了多少影视剧OST",
+      "onboard_time": 1661682206,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 337508,
@@ -785,6 +841,14 @@
       "onboard_time": 1661655146,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319295,
+      "num": 220035,
+      "word": "待播古装剧的男主造型",
+      "onboard_time": 1661681245,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 317564,
@@ -857,6 +921,14 @@
       "onboard_time": 1661633591,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286993,
+      "num": 219818,
+      "word": "林娜琏人歌ENDING",
+      "onboard_time": 1661680410,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 286607,
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271005,
+      "num": 271005,
+      "word": "EDG对战TES",
+      "onboard_time": 1661678546,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270771,
       "num": 270771,
       "word": "还魂",
@@ -976,6 +1056,14 @@
       "word": "天津疫情防控",
       "onboard_time": 1661635271,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263790,
+      "num": 263790,
+      "word": "河南新增本土确诊2例无症状52例",
+      "onboard_time": 1661678306,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214819,
+      "num": 214819,
+      "word": "孟鹤堂不愧是世界冠军教出来的",
+      "onboard_time": 1661681367,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212195,
       "num": 212195,
       "word": "高价文具值不值得买",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1661613813,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201562,
+      "num": 201562,
+      "word": "安赛龙",
+      "onboard_time": 1661679507,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 199450,
@@ -1251,6 +1355,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 191161,
+      "num": 191161,
+      "word": "重庆南岸区报告7例无症状感染者",
+      "onboard_time": 1661681187,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187533,
       "num": 187533,
       "word": "德州新增本土无症状感染者4例",
@@ -1291,14 +1403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182967,
-      "num": 182967,
-      "word": "EDG对战TES",
-      "onboard_time": 1661678546,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182496,
       "num": 173012,
       "word": "网传星汉灿烂下周庆功宴",
@@ -1315,20 +1419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178974,
-      "num": 178974,
-      "word": "河南新增本土确诊2例无症状52例",
-      "onboard_time": 1661678306,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175102,
       "num": 175102,
       "word": "27日北京新增3例本土感染者",
       "onboard_time": 1661647407,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174435,
+      "num": 162329,
+      "word": "唐九洲一家比心好温馨",
+      "onboard_time": 1661680165,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 174246,
@@ -1403,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162409,
+      "num": 162409,
+      "word": "这不是弟弟想要的礼物",
+      "onboard_time": 1661680888,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158041,
       "num": 110659,
       "word": "气运联盟",
@@ -1443,12 +1555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151316,
-      "num": 151316,
-      "word": "这猫丑就算了叫声还难听",
-      "onboard_time": 1661679026,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 151648,
+      "num": 151648,
+      "word": "Peanut获得FMVP",
+      "onboard_time": 1661681307,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 147609,
@@ -1537,14 +1649,6 @@
       "onboard_time": 1661601387,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132704,
-      "num": 132704,
-      "word": "四川局地有大暴雨来袭",
-      "onboard_time": 1661678847,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128974,
@@ -1641,6 +1745,14 @@
       "onboard_time": 1661678367,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102142,
+      "num": 102142,
+      "word": "胸腹3D呼吸法增加肺活量",
+      "onboard_time": 1661681785,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97299,
