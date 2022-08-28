@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661675179370,
+  "endTime": 1661676139009,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1402658,
-      "num": 709293,
+      "raw_hot": 1415492,
+      "num": 772905,
       "word": "男子喝汉堡王可乐喝出带蛆苍蝇",
       "onboard_time": 1661670810,
       "rank": 45,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 835247,
-      "num": 449833,
+      "num": 454276,
       "word": "许凯捏虞书欣脸路透",
       "onboard_time": 1661673688,
       "rank": 12,
@@ -249,6 +249,22 @@
       "onboard_time": 1661602469,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 812581,
+      "num": 812581,
+      "word": "东部战区对美舰过航台湾海峡全程跟监警戒",
+      "onboard_time": 1661670689,
+      "rank": 19,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 769303,
+      "num": 769303,
+      "word": "男孩半夜醒来发现父母不见后报警",
+      "onboard_time": 1661673027,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746513,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688839,
-      "num": 688839,
-      "word": "东部战区对美舰过航台湾海峡全程跟监警戒",
-      "onboard_time": 1661670689,
-      "rank": 19,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 665117,
       "num": 665117,
       "word": "东方青苍事业粉",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618746,
+      "num": 618746,
+      "word": "成都环球中心疫情防控",
+      "onboard_time": 1661672249,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613505,
       "num": 613505,
       "word": "小胖哭了",
@@ -347,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 594874,
-      "num": 594874,
-      "word": "成都环球中心疫情防控",
-      "onboard_time": 1661672249,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589603,
       "num": 589603,
       "word": "应渊唐周随爹了但不多",
       "onboard_time": 1661662229,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576159,
+      "num": 576159,
+      "word": "BLACKPINK人歌初舞台",
+      "onboard_time": 1661675788,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 573145,
@@ -393,14 +409,6 @@
       "onboard_time": 1661613575,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 546803,
-      "num": 546803,
-      "word": "男孩半夜醒来发现父母不见后报警",
-      "onboard_time": 1661673027,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 546469,
@@ -448,6 +456,14 @@
       "word": "父母每月发5千留孩子在家结婚",
       "onboard_time": 1661597305,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478705,
+      "num": 478705,
+      "word": "在云南千万不要轻易摘野生菌吃",
+      "onboard_time": 1661670989,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -507,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431768,
-      "num": 431768,
-      "word": "在云南千万不要轻易摘野生菌吃",
-      "onboard_time": 1661670989,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425260,
       "num": 425260,
       "word": "四川宜宾连天山深夜突发山火",
@@ -553,6 +561,14 @@
       "onboard_time": 1661664811,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396432,
+      "num": 396432,
+      "word": "成都西岭雪山突发山洪",
+      "onboard_time": 1661674588,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395636,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361945,
+      "num": 361945,
+      "word": "男子插队跳古井赤脚取水",
+      "onboard_time": 1661672610,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360822,
       "num": 360822,
       "word": "孟佳翻跳HEYmama",
@@ -729,14 +753,6 @@
       "onboard_time": 1661668348,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308466,
-      "num": 308466,
-      "word": "男子插队跳古井赤脚取水",
-      "onboard_time": 1661672610,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304869,
@@ -859,6 +875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 271930,
+      "num": 271930,
+      "word": "凡晨组合夺世锦赛第三冠",
+      "onboard_time": 1661676029,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271078,
       "num": 271078,
       "word": "消防员住过的房间令保洁阿姨破防",
@@ -891,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259569,
+      "num": 259569,
+      "word": "四川用电紧张缓解",
+      "onboard_time": 1661674588,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253865,
+      "num": 253865,
+      "word": "管泽元",
+      "onboard_time": 1661675369,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253825,
       "num": 227261,
       "word": "王勉说自己吃林依轮做的饭长大的",
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 245285,
-      "num": 210202,
+      "num": 216214,
       "word": "司命殿连锁殿",
       "onboard_time": 1661671949,
       "rank": 30,
@@ -1075,14 +1115,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 211037,
-      "num": 211037,
-      "word": "四川用电紧张缓解",
-      "onboard_time": 1661674588,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210544,
       "num": 1068210,
       "word": "山城的灯光战胜了火光",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1661599530,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 188844,
-      "num": 188844,
-      "word": "成都西岭雪山突发山洪",
-      "onboard_time": 1661674588,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187533,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1661665408,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175482,
+      "num": 175482,
+      "word": "蛋糕可以冷门但不可以邪门",
+      "onboard_time": 1661675188,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 175102,
@@ -1307,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149945,
+      "num": 149945,
+      "word": "志愿者让人戴口罩被狂怼",
+      "onboard_time": 1661673507,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147609,
       "num": 147609,
       "word": "曾鹏宇",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1661600309,
       "rank": 36,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 139336,
-      "num": 139336,
-      "word": "志愿者让人戴口罩被狂怼",
-      "onboard_time": 1661673507,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134945,

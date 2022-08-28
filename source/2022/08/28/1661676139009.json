@@ -1,0 +1,410 @@
+{
+  "runTime": 1661676139009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199772,
+        "num": 1199772,
+        "word": "美舰过航台湾海峡东部战区回应",
+        "onboard_time": 1661667330,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 812581,
+        "num": 812581,
+        "word": "东部战区对美舰过航台湾海峡全程跟监警戒",
+        "onboard_time": 1661670689,
+        "rank": 1,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 38992,
+        "num": 775046,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415492,
+        "num": 772905,
+        "word": "男子喝汉堡王可乐喝出带蛆苍蝇",
+        "onboard_time": 1661670810,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769303,
+        "num": 769303,
+        "word": "男孩半夜醒来发现父母不见后报警",
+        "onboard_time": 1661673027,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618746,
+        "num": 618746,
+        "word": "成都环球中心疫情防控",
+        "onboard_time": 1661672249,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594671,
+        "num": 594671,
+        "word": "解放军随时做好挫败任何挑衅准备",
+        "onboard_time": 1661667864,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 576159,
+        "num": 576159,
+        "word": "BLACKPINK人歌初舞台",
+        "onboard_time": 1661675788,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573786,
+        "num": 573786,
+        "word": "为什么新中式穿搭火了",
+        "onboard_time": 1661669548,
+        "rank": 8,
+        "category": "时尚,社会议题"
+      },
+      {
+        "raw_hot": 478705,
+        "num": 478705,
+        "word": "在云南千万不要轻易摘野生菌吃",
+        "onboard_time": 1661670989,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150551,
+        "num": 478390,
+        "word": "男子离异后发现儿子变侄子",
+        "onboard_time": 1661664629,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084525,
+        "num": 461508,
+        "word": "赵露思陈哲远校服造型路透",
+        "onboard_time": 1661672610,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 766120,
+        "num": 454276,
+        "word": "许凯捏虞书欣脸路透",
+        "onboard_time": 1661673688,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560610,
+        "num": 448286,
+        "word": "彩票中奖1000万有资格辞职吗",
+        "onboard_time": 1661663069,
+        "rank": 13,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 440466,
+        "num": 440466,
+        "word": "公司要求一旦怀孕自动离职",
+        "onboard_time": 1661613394,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396432,
+        "num": 396432,
+        "word": "成都西岭雪山突发山洪",
+        "onboard_time": 1661674588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361945,
+        "num": 361945,
+        "word": "男子插队跳古井赤脚取水",
+        "onboard_time": 1661672610,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358610,
+        "num": 358610,
+        "word": "限定团不限定感情",
+        "onboard_time": 1661671708,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350012,
+        "num": 350012,
+        "word": "鳄雀鳝内脏尤其是卵有剧毒",
+        "onboard_time": 1661658927,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343651,
+        "num": 343651,
+        "word": "草丛露出一双脚竟拔出一位大爷",
+        "onboard_time": 1661662288,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033010,
+        "num": 338458,
+        "word": "万萌萌怀孕后悔吸毒",
+        "onboard_time": 1661668286,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 936116,
+        "num": 323233,
+        "word": "公厕里的洗手液有多脏",
+        "onboard_time": 1661666787,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692834,
+        "num": 312234,
+        "word": "王一栩辟谣王鹤棣拍哭戏用眼药水",
+        "onboard_time": 1661670568,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539458,
+        "num": 296446,
+        "word": "iPhone14ProMax或9999起",
+        "onboard_time": 1661661627,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 282886,
+        "num": 282886,
+        "word": "今何在",
+        "onboard_time": 1661673808,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 275725,
+        "num": 275725,
+        "word": "凌不疑程少商雨中公主抱花絮",
+        "onboard_time": 1661666427,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271930,
+        "num": 271930,
+        "word": "凡晨组合夺世锦赛第三冠",
+        "onboard_time": 1661676029,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259569,
+        "num": 259569,
+        "word": "四川用电紧张缓解",
+        "onboard_time": 1661674588,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257571,
+        "num": 257571,
+        "word": "priest是兼职作者",
+        "onboard_time": 1661654064,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253865,
+        "num": 253865,
+        "word": "管泽元",
+        "onboard_time": 1661675369,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228979,
+        "num": 228979,
+        "word": "消防员的皮卡都被山城人投喂了",
+        "onboard_time": 1661662106,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216214,
+        "num": 216214,
+        "word": "司命殿连锁殿",
+        "onboard_time": 1661671949,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212953,
+        "num": 212953,
+        "word": "老外未戴口罩进公园被驱逐",
+        "onboard_time": 1661663611,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197317,
+        "num": 197317,
+        "word": "心动的信号",
+        "onboard_time": 1661664211,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194862,
+        "num": 194862,
+        "word": "应渊2.0明天见",
+        "onboard_time": 1661668348,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186279,
+        "num": 186279,
+        "word": "GEN对战T1",
+        "onboard_time": 1661659048,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175482,
+        "num": 175482,
+        "word": "蛋糕可以冷门但不可以邪门",
+        "onboard_time": 1661675188,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165170,
+        "num": 165170,
+        "word": "CPA税法",
+        "onboard_time": 1661672787,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 164925,
+        "word": "越来越多人不爱去5A景区",
+        "onboard_time": 1661663012,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163975,
+        "num": 163975,
+        "word": "狗子看猫咪吵架都看呆了",
+        "onboard_time": 1661667087,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153970,
+        "num": 153970,
+        "word": "2022年河南省GDP将超过6万亿",
+        "onboard_time": 1661665829,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 151688,
+        "num": 151688,
+        "word": "孟佳翻跳HEYmama",
+        "onboard_time": 1661668828,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150722,
+        "num": 150722,
+        "word": "无畏好一个五米大帅哥",
+        "onboard_time": 1661661566,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149945,
+        "num": 149945,
+        "word": "志愿者让人戴口罩被狂怼",
+        "onboard_time": 1661673507,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140076,
+        "num": 140076,
+        "word": "蔡徐坤单膝跪地握手",
+        "onboard_time": 1661664811,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "9岁女童暑期承包妈妈一日三餐",
+        "onboard_time": 1661662169,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134157,
+        "num": 134157,
+        "word": "我的精神内耗突然就好了",
+        "onboard_time": 1661660908,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111261,
+        "num": 111261,
+        "word": "文具为什么越来越贵了",
+        "onboard_time": 1661665408,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109240,
+        "num": 109240,
+        "word": "孟子义你敢问我就敢答",
+        "onboard_time": 1661671949,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106928,
+        "num": 106928,
+        "word": "一支中性笔卖55元",
+        "onboard_time": 1661651066,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国这十年#"
+    }
+  }
+}
