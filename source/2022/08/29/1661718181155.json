@@ -1,0 +1,410 @@
+{
+  "runTime": 1661718181155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117542,
+        "num": 117542,
+        "word": "不为什么",
+        "onboard_time": 1661701229,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89430,
+        "num": 89430,
+        "word": "骨兰变成了东方青苍",
+        "onboard_time": 1661695112,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2217,
+        "num": 84325,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80664,
+        "num": 80664,
+        "word": "蔡徐坤把拴Q说成了3Q",
+        "onboard_time": 1661689649,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74111,
+        "num": 74111,
+        "word": "女子火锅配冰奶茶上吐下泻碱中毒",
+        "onboard_time": 1661699311,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69684,
+        "num": 69684,
+        "word": "成都疫情处于快速上升阶段",
+        "onboard_time": 1661692232,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45093,
+        "num": 45093,
+        "word": "大爷质问家长为何给孩子穿汉服",
+        "onboard_time": 1661683106,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42677,
+        "num": 42677,
+        "word": "录取通知书被毁能否进校门",
+        "onboard_time": 1661692472,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 33520,
+        "num": 33520,
+        "word": "台州是糯叽叽的天堂",
+        "onboard_time": 1661700029,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28355,
+        "num": 28355,
+        "word": "动物园灰鹦鹉被逗后说脏话骂游客",
+        "onboard_time": 1661699672,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120287,
+        "num": 28278,
+        "word": "男子在女友孕期出轨还想要回16万彩礼",
+        "onboard_time": 1661681546,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52545,
+        "num": 27296,
+        "word": "冰雨火孕妇吸毒",
+        "onboard_time": 1661684610,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48689,
+        "num": 26519,
+        "word": "EXO 回归",
+        "onboard_time": 1661686827,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45343,
+        "num": 25893,
+        "word": "女子腿脚没劲原是老年综合征",
+        "onboard_time": 1661716332,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44307,
+        "num": 25214,
+        "word": "贺峻霖两个月瘦了20斤",
+        "onboard_time": 1661699368,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40013,
+        "num": 24980,
+        "word": "男子离婚两年后前妻告知儿子非亲生",
+        "onboard_time": 1661691510,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32630,
+        "num": 24073,
+        "word": "男子烤肠到嘴边退货遭拒辱骂店员",
+        "onboard_time": 1661686769,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23918,
+        "num": 23918,
+        "word": "平台回应通缉犯的抓捕赏金仅4元",
+        "onboard_time": 1661691331,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23722,
+        "num": 23722,
+        "word": "成都市民进入公共场所须48小时核酸证明",
+        "onboard_time": 1661698773,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22847,
+        "num": 22847,
+        "word": "男子为证明自己的化学天赋自学制毒",
+        "onboard_time": 1661686286,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42391,
+        "num": 22531,
+        "word": "苍兰诀 智者不入爱河",
+        "onboard_time": 1661697273,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26464,
+        "num": 22009,
+        "word": "如何评价朱一龙演技",
+        "onboard_time": 1661704163,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34408,
+        "num": 21654,
+        "word": "苍兰诀 不要烂尾",
+        "onboard_time": 1661697932,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21254,
+        "num": 21254,
+        "word": "成都疫情防控",
+        "onboard_time": 1661688928,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31371,
+        "num": 20441,
+        "word": "苍兰诀编剧",
+        "onboard_time": 1661695893,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19611,
+        "num": 19611,
+        "word": "冒泡赛RNG对战EDG",
+        "onboard_time": 1661711413,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19406,
+        "num": 19406,
+        "word": "川渝男人最后的倔强",
+        "onboard_time": 1661689407,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18764,
+        "num": 18764,
+        "word": "陕西肉夹馍在台中夜市一馍难求",
+        "onboard_time": 1661703506,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 18225,
+        "num": 18225,
+        "word": "美登月火箭发射台遭雷击",
+        "onboard_time": 1661693972,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17497,
+        "num": 17497,
+        "word": "重庆下雨",
+        "onboard_time": 1661695232,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25076,
+        "num": 17467,
+        "word": "苍兰诀 太岁",
+        "onboard_time": 1661697691,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24692,
+        "num": 17247,
+        "word": "莲花楼剧组 打人",
+        "onboard_time": 1661681245,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22832,
+        "num": 17218,
+        "word": "王子文吴永恩考拉抱",
+        "onboard_time": 1661689767,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19076,
+        "num": 17017,
+        "word": "轰6K巡航台岛常态化",
+        "onboard_time": 1661694512,
+        "rank": 33,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 16946,
+        "num": 16946,
+        "word": "剑网三",
+        "onboard_time": 1661700330,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16444,
+        "num": 16444,
+        "word": "95后小伙瞒着家人到重庆救火",
+        "onboard_time": 1661698832,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 15273,
+        "num": 15273,
+        "word": "50秒延时看重庆以火灭火全过程",
+        "onboard_time": 1661713512,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15040,
+        "num": 15040,
+        "word": "Viper",
+        "onboard_time": 1661692830,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14260,
+        "num": 14260,
+        "word": "在重庆有一种感动叫双向奔赴",
+        "onboard_time": 1661696552,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 13668,
+        "num": 13668,
+        "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+        "onboard_time": 1661676566,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19574,
+        "num": 13580,
+        "word": "吴倩说五年后是夏天赢了",
+        "onboard_time": 1661696972,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17617,
+        "num": 13577,
+        "word": "被元气甜妹治愈了",
+        "onboard_time": 1661711592,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15467,
+        "num": 13506,
+        "word": "月升沧海吴磊赵露思单手抱花絮",
+        "onboard_time": 1661693670,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13414,
+        "num": 13414,
+        "word": "间谍过家家第二季度海报",
+        "onboard_time": 1661699131,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13210,
+        "num": 13210,
+        "word": "EDG 冒泡赛",
+        "onboard_time": 1661690429,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12822,
+        "num": 12822,
+        "word": "这麻婆豆腐也太费米饭了",
+        "onboard_time": 1661691331,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12293,
+        "num": 12293,
+        "word": "JDG锁定S12名额",
+        "onboard_time": 1661688509,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11692,
+        "num": 11692,
+        "word": "这是什么百万转场",
+        "onboard_time": 1661697212,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11317,
+        "num": 11317,
+        "word": "开学前录取通知书被狗狗咬碎",
+        "onboard_time": 1661682867,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 7909,
+        "num": 7909,
+        "word": "上海昨日新增本土无症状8例",
+        "onboard_time": 1661695054,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络文明之光照亮未来#"
+    }
+  }
+}
