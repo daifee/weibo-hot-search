@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661678446286,
+  "endTime": 1661679453853,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -1660,7 +1660,7 @@
     },
     {
       "raw_hot": 1201668,
-      "num": 469728,
+      "num": 492883,
       "word": "zoo 舞台",
       "onboard_time": 1661678064,
       "rank": 3,
@@ -1889,6 +1889,14 @@
       "onboard_time": 1661153071,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1108698,
+      "num": 1108698,
+      "word": "心动的信号5素人嘉宾官宣",
+      "onboard_time": 1661676268,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1106164,
@@ -2179,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1013018,
-      "num": 1013018,
-      "word": "心动的信号5素人嘉宾官宣",
-      "onboard_time": 1661676268,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1011559,
       "num": 753420,
       "word": "吴磊晒戍边版霍无伤视频",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1661614112,
       "rank": 25,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 944273,
+      "num": 479688,
+      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+      "onboard_time": 1661676566,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 941225,
@@ -3803,6 +3811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 648143,
+      "num": 464144,
+      "word": "蛋糕可以冷门但不可以邪门",
+      "onboard_time": 1661675188,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 647792,
       "num": 338546,
       "word": "kyoka把王一博吓一哆嗦",
@@ -4433,14 +4449,6 @@
       "onboard_time": 1661151991,
       "rank": 37,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 572021,
-      "num": 466179,
-      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
-      "onboard_time": 1661676566,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571609,
@@ -5803,14 +5811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464144,
-      "num": 464144,
-      "word": "蛋糕可以冷门但不可以邪门",
-      "onboard_time": 1661675188,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 463823,
       "num": 463823,
       "word": "这种舍友是真的存在吗",
@@ -6425,6 +6425,14 @@
       "onboard_time": 1661099425,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416096,
+      "num": 416096,
+      "word": "管泽元",
+      "onboard_time": 1661675369,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 414776,
@@ -7377,6 +7385,14 @@
       "onboard_time": 1661505214,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367985,
+      "num": 367985,
+      "word": "GEN夺冠",
+      "onboard_time": 1661678725,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 367839,
@@ -9652,7 +9668,7 @@
     },
     {
       "raw_hot": 280604,
-      "num": 112537,
+      "num": 169957,
       "word": "蔡徐坤沸腾校园hugme舞台",
       "onboard_time": 1661678427,
       "rank": 47,
@@ -10707,14 +10723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253865,
-      "num": 253865,
-      "word": "管泽元",
-      "onboard_time": 1661675369,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253825,
       "num": 227261,
       "word": "王勉说自己吃林依轮做的饭长大的",
@@ -10953,6 +10961,14 @@
       "onboard_time": 1661524653,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 246981,
+      "num": 133417,
+      "word": "王鹤棣干饭人",
+      "onboard_time": 1661679448,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 246645,
@@ -11275,6 +11291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236096,
+      "num": 236096,
+      "word": "宝妈做直播真的能赚到钱吗",
+      "onboard_time": 1661679088,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235899,
       "num": 235899,
       "word": "拿手好戏拿手官宣",
@@ -11401,6 +11425,14 @@
       "onboard_time": 1661406928,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231706,
+      "num": 231706,
+      "word": "人们为什么衷于虚拟社交",
+      "onboard_time": 1661679387,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 231420,
@@ -12515,6 +12547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196788,
+      "num": 196788,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1661677704,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196531,
       "num": 196531,
       "word": "央视镜头下的中国乡村有多美",
@@ -13059,6 +13099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182967,
+      "num": 182967,
+      "word": "EDG对战TES",
+      "onboard_time": 1661678546,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182933,
       "num": 182933,
       "word": "面前是漫天山火身后是万家灯火",
@@ -13184,6 +13232,14 @@
       "word": "河北新增无症状感染者10例",
       "onboard_time": 1661319575,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178974,
+      "num": 178974,
+      "word": "河南新增本土确诊2例无症状52例",
+      "onboard_time": 1661678306,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -14035,14 +14091,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 152282,
-      "num": 152282,
-      "word": "中国女排vs泰国女排",
-      "onboard_time": 1661677704,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152113,
       "num": 152113,
       "word": "追光动画你最喜欢哪部",
@@ -14065,6 +14113,14 @@
       "onboard_time": 1661124684,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151316,
+      "num": 151316,
+      "word": "这猫丑就算了叫声还难听",
+      "onboard_time": 1661679026,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 150945,
@@ -14491,6 +14547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132704,
+      "num": 132704,
+      "word": "四川局地有大暴雨来袭",
+      "onboard_time": 1661678847,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132366,
       "num": 132366,
       "word": "WB对战GK",
@@ -14753,14 +14817,6 @@
       "onboard_time": 1661089774,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114155,
-      "num": 114155,
-      "word": "河南新增本土确诊2例无症状52例",
-      "onboard_time": 1661678306,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113787,

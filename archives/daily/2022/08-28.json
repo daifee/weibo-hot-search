@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661678446286,
+  "endTime": 1661679453853,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1201668,
-      "num": 469728,
+      "num": 492883,
       "word": "zoo 舞台",
       "onboard_time": 1661678064,
       "rank": 3,
@@ -153,6 +153,14 @@
       "onboard_time": 1661662770,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1108698,
+      "num": 1108698,
+      "word": "心动的信号5素人嘉宾官宣",
+      "onboard_time": 1661676268,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1094380,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1013018,
-      "num": 1013018,
-      "word": "心动的信号5素人嘉宾官宣",
-      "onboard_time": 1661676268,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 989105,
       "num": 989105,
       "word": "台媒称金门岗哨再次发现大陆无人机",
@@ -241,6 +241,14 @@
       "onboard_time": 1661614112,
       "rank": 5,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 944273,
+      "num": 479688,
+      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+      "onboard_time": 1661676566,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882101,
@@ -355,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648143,
+      "num": 464144,
+      "word": "蛋糕可以冷门但不可以邪门",
+      "onboard_time": 1661675188,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 646391,
       "num": 646391,
       "word": "9岁男孩因惧怕开学反复发烧",
@@ -408,14 +424,6 @@
       "word": "多例病例在返京途中感染",
       "onboard_time": 1661611173,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572021,
-      "num": 466179,
-      "word": "男子洗澡时淋浴房玻璃门突然爆裂",
-      "onboard_time": 1661676566,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -531,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464144,
-      "num": 464144,
-      "word": "蛋糕可以冷门但不可以邪门",
-      "onboard_time": 1661675188,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 459495,
       "num": 459495,
       "word": "河南由夏入冬只用了一周",
@@ -577,6 +577,14 @@
       "onboard_time": 1661661446,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416096,
+      "num": 416096,
+      "word": "管泽元",
+      "onboard_time": 1661675369,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 414129,
@@ -689,6 +697,14 @@
       "onboard_time": 1661671708,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367985,
+      "num": 367985,
+      "word": "GEN夺冠",
+      "onboard_time": 1661678725,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 362995,
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 280604,
-      "num": 112537,
+      "num": 169957,
       "word": "蔡徐坤沸腾校园hugme舞台",
       "onboard_time": 1661678427,
       "rank": 47,
@@ -971,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253865,
-      "num": 253865,
-      "word": "管泽元",
-      "onboard_time": 1661675369,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253825,
       "num": 227261,
       "word": "王勉说自己吃林依轮做的饭长大的",
@@ -993,6 +1001,14 @@
       "onboard_time": 1661666610,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246981,
+      "num": 133417,
+      "word": "王鹤棣干饭人",
+      "onboard_time": 1661679448,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 245285,
@@ -1067,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236096,
+      "num": 236096,
+      "word": "宝妈做直播真的能赚到钱吗",
+      "onboard_time": 1661679088,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233838,
       "num": 211730,
       "word": "李一桐爱的真谛",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1661671227,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231706,
+      "num": 231706,
+      "word": "人们为什么衷于虚拟社交",
+      "onboard_time": 1661679387,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 230962,
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196788,
+      "num": 196788,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1661677704,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195327,
       "num": 195327,
       "word": "姚译添输给嗨放派全员一套房",
@@ -1251,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182967,
+      "num": 182967,
+      "word": "EDG对战TES",
+      "onboard_time": 1661678546,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182496,
       "num": 173012,
       "word": "网传星汉灿烂下周庆功宴",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1661665408,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178974,
+      "num": 178974,
+      "word": "河南新增本土确诊2例无症状52例",
+      "onboard_time": 1661678306,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175102,
@@ -1387,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152282,
-      "num": 152282,
-      "word": "中国女排vs泰国女排",
-      "onboard_time": 1661677704,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 151316,
+      "num": 151316,
+      "word": "这猫丑就算了叫声还难听",
+      "onboard_time": 1661679026,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 147609,
@@ -1483,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132704,
+      "num": 132704,
+      "word": "四川局地有大暴雨来袭",
+      "onboard_time": 1661678847,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128974,
       "num": 128974,
       "word": "消防员说第一次在救火现场吃冰棍",
@@ -1513,14 +1577,6 @@
       "onboard_time": 1661618484,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114155,
-      "num": 114155,
-      "word": "河南新增本土确诊2例无症状52例",
-      "onboard_time": 1661678306,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112523,
