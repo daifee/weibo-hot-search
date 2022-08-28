@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661690287763,
+  "endTime": 1661691603558,
   "band_list": [
     {
       "raw_hot": 4098448,
@@ -67,6 +67,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2077893,
+      "num": 2077893,
+      "word": "苍兰诀",
+      "onboard_time": 1661601387,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1981668,
+      "num": 1326765,
+      "word": "蔡徐坤把拴Q说成了3Q",
+      "onboard_time": 1661689649,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1906800,
       "num": 1906800,
       "word": "iPhone14ProMax或9999起",
@@ -115,14 +131,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1619466,
-      "num": 1619466,
-      "word": "苍兰诀",
-      "onboard_time": 1661601387,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1553688,
       "num": 536095,
       "word": "男子离异后发现儿子变侄子",
@@ -161,6 +169,14 @@
       "onboard_time": 1661676566,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312412,
+      "num": 1312412,
+      "word": "王子文吴永恩考拉抱",
+      "onboard_time": 1661689767,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1273774,
@@ -275,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1044120,
+      "num": 473581,
+      "word": "东方青苍人设",
+      "onboard_time": 1661685985,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1031959,
       "num": 1031959,
       "word": "GEN夺冠",
@@ -289,14 +313,6 @@
       "onboard_time": 1661611715,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996885,
-      "num": 996885,
-      "word": "蔡徐坤把拴Q说成了3Q",
-      "onboard_time": 1661689649,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 989105,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 849745,
-      "num": 295731,
-      "word": "东方青苍人设",
-      "onboard_time": 1661685985,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 841492,
       "num": 841492,
       "word": "大一新生携2米高盆栽开学",
@@ -427,12 +435,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 765243,
-      "num": 285322,
-      "word": "王子文吴永恩考拉抱",
-      "onboard_time": 1661689767,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 758711,
+      "num": 350177,
+      "word": "苍兰诀大结局预告",
+      "onboard_time": 1661691090,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 747781,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626531,
+      "num": 341967,
+      "word": "马丽金鹿奖最佳女演员",
+      "onboard_time": 1661689649,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 618746,
       "num": 618746,
       "word": "成都环球中心疫情防控",
@@ -675,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 524921,
-      "num": 204411,
-      "word": "马丽金鹿奖最佳女演员",
-      "onboard_time": 1661689649,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 518173,
       "num": 464610,
       "word": "成都西岭雪山突发山洪",
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465262,
+      "num": 465262,
+      "word": "冒泡赛",
+      "onboard_time": 1661689109,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 459495,
       "num": 459495,
       "word": "河南由夏入冬只用了一周",
@@ -769,14 +785,6 @@
       "onboard_time": 1661642959,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457127,
-      "num": 457127,
-      "word": "冒泡赛",
-      "onboard_time": 1661689109,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 454677,
@@ -963,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365815,
+      "num": 197612,
+      "word": "大强养花",
+      "onboard_time": 1661690967,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362995,
       "num": 362995,
       "word": "魏晨你好星期六再唱少年游",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1661640736,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355547,
+      "num": 355547,
+      "word": "川渝男人最后的倔强",
+      "onboard_time": 1661689407,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 355022,
@@ -1379,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246139,
+      "num": 246139,
+      "word": "EDG 冒泡赛",
+      "onboard_time": 1661690429,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245285,
       "num": 216214,
       "word": "司命殿连锁殿",
@@ -1547,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "这麻婆豆腐也太费米饭了",
+      "onboard_time": 1661691331,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219864,
       "num": 219864,
       "word": "重庆南岸区报告7例无症状感染者",
@@ -1667,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195347,
-      "num": 195347,
-      "word": "川渝男人最后的倔强",
-      "onboard_time": 1661689407,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195327,
       "num": 195327,
       "word": "姚译添输给嗨放派全员一套房",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1661660426,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187460,
+      "num": 187460,
+      "word": "四川话完全恐怖不起来",
+      "onboard_time": 1661690729,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 187442,
@@ -1947,6 +1987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 140809,
+      "num": 140809,
+      "word": "张朝阳给大学生推荐碎片化学习法",
+      "onboard_time": 1661690967,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139390,
       "num": 139390,
       "word": "北京天空再现绝美朝霞",
@@ -2000,6 +2048,14 @@
       "word": "研究称人类在700万年前直立行走",
       "onboard_time": 1661679987,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118662,
+      "num": 118662,
+      "word": "平台回应通缉犯的抓捕赏金仅4元",
+      "onboard_time": 1661691331,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2065,6 +2121,14 @@
       "onboard_time": 1661610036,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105420,
+      "num": 105420,
+      "word": "男子离婚两年后前妻告知儿子非亲生",
+      "onboard_time": 1661691510,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104176,

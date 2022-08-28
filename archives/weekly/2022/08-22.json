@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661690287763,
+  "endTime": 1661691603558,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2077893,
+      "num": 2077893,
+      "word": "苍兰诀",
+      "onboard_time": 1661088692,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2064506,
       "num": 2064506,
       "word": "取消公摊面积购房者能否少花钱",
@@ -761,6 +769,14 @@
       "onboard_time": 1661398472,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1981668,
+      "num": 1326765,
+      "word": "蔡徐坤把拴Q说成了3Q",
+      "onboard_time": 1661689649,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1947368,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1661682867,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1619466,
-      "num": 1619466,
-      "word": "苍兰诀",
-      "onboard_time": 1661088692,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1617603,
@@ -1489,6 +1497,14 @@
       "onboard_time": 1661308888,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312412,
+      "num": 1312412,
+      "word": "王子文吴永恩考拉抱",
+      "onboard_time": 1661689767,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1308824,
@@ -2179,6 +2195,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1044120,
+      "num": 473581,
+      "word": "东方青苍人设",
+      "onboard_time": 1661685985,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1041008,
       "num": 1041008,
       "word": "暑期档三部古装剧豆瓣评分",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1661512169,
       "rank": 23,
       "category": "军事"
-    },
-    {
-      "raw_hot": 996885,
-      "num": 996885,
-      "word": "蔡徐坤把拴Q说成了3Q",
-      "onboard_time": 1661689649,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 995115,
@@ -2827,14 +2843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 849745,
-      "num": 295731,
-      "word": "东方青苍人设",
-      "onboard_time": 1661685985,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 846271,
       "num": 846271,
       "word": "1岁婴儿吞5枚电池10小时后取出",
@@ -3299,14 +3307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 765243,
-      "num": 285322,
-      "word": "王子文吴永恩考拉抱",
-      "onboard_time": 1661689767,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 765152,
       "num": 467133,
       "word": "俄方称谋杀杜金娜凶手是乌克兰人",
@@ -3337,6 +3337,14 @@
       "onboard_time": 1661506831,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758711,
+      "num": 350177,
+      "word": "苍兰诀大结局预告",
+      "onboard_time": 1661691090,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 758199,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1661469384,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626531,
+      "num": 341967,
+      "word": "马丽金鹿奖最佳女演员",
+      "onboard_time": 1661689649,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 625399,
@@ -5163,14 +5179,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 524921,
-      "num": 204411,
-      "word": "马丽金鹿奖最佳女演员",
-      "onboard_time": 1661689649,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 524621,
       "num": 524621,
       "word": "警方通报男子半夜摸进合租女孩房间",
@@ -5987,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465262,
+      "num": 465262,
+      "word": "冒泡赛",
+      "onboard_time": 1661436830,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 465165,
       "num": 465165,
       "word": "北京八宝山天元殡仪被罚",
@@ -6105,14 +6121,6 @@
       "onboard_time": 1661510010,
       "rank": 35,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 457127,
-      "num": 457127,
-      "word": "冒泡赛",
-      "onboard_time": 1661436830,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 456129,
@@ -7667,6 +7675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 365815,
+      "num": 197612,
+      "word": "大强养花",
+      "onboard_time": 1661690967,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365610,
       "num": 365610,
       "word": "空军发言人展示的课本封面是它",
@@ -7905,6 +7921,14 @@
       "onboard_time": 1661118010,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355547,
+      "num": 355547,
+      "word": "川渝男人最后的倔强",
+      "onboard_time": 1661689407,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 355424,
@@ -11363,6 +11387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246139,
+      "num": 246139,
+      "word": "EDG 冒泡赛",
+      "onboard_time": 1661690429,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245719,
       "num": 245719,
       "word": "李皓楠用嘴划船",
@@ -12187,6 +12219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "这麻婆豆腐也太费米饭了",
+      "onboard_time": 1661691331,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 221149,
       "num": 183839,
       "word": "王源新歌涂鸦版海报",
@@ -13003,14 +13043,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 195347,
-      "num": 195347,
-      "word": "川渝男人最后的倔强",
-      "onboard_time": 1661689407,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195327,
       "num": 195327,
       "word": "姚译添输给嗨放派全员一套房",
@@ -13369,6 +13401,14 @@
       "onboard_time": 1661609914,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187460,
+      "num": 187460,
+      "word": "四川话完全恐怖不起来",
+      "onboard_time": 1661690729,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 187442,
@@ -14795,6 +14835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140809,
+      "num": 140809,
+      "word": "张朝阳给大学生推荐碎片化学习法",
+      "onboard_time": 1661690967,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140015,
       "num": 140015,
       "word": "恋爱里的松弛感有多重要",
@@ -15147,6 +15195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118662,
+      "num": 118662,
+      "word": "平台回应通缉犯的抓捕赏金仅4元",
+      "onboard_time": 1661691331,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118649,
       "num": 118649,
       "word": "商铺起火邻居开叉车救一家四口",
@@ -15337,6 +15393,14 @@
       "onboard_time": 1661205974,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105420,
+      "num": 105420,
+      "word": "男子离婚两年后前妻告知儿子非亲生",
+      "onboard_time": 1661691510,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104261,
