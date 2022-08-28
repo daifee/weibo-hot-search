@@ -1,18 +1,26 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661686465625,
+  "endTime": 1661690287763,
   "band_list": [
     {
       "raw_hot": 4098448,
-      "num": 494268,
+      "num": 508003,
       "word": "莲花楼剧组 打人",
       "onboard_time": 1661681245,
       "rank": 10,
       "category": "影视"
     },
     {
+      "raw_hot": 3745341,
+      "num": 534493,
+      "word": "EXO 回归",
+      "onboard_time": 1661686827,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3029013,
-      "num": 494847,
+      "num": 523860,
       "word": "男子在女友孕期出轨还想要回16万彩礼",
       "onboard_time": 1661681546,
       "rank": 12,
@@ -99,6 +107,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1624155,
+      "num": 1624155,
+      "word": "开学前录取通知书被狗狗咬碎",
+      "onboard_time": 1661682867,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1619466,
+      "num": 1619466,
+      "word": "苍兰诀",
+      "onboard_time": 1661601387,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1553688,
       "num": 536095,
       "word": "男子离异后发现儿子变侄子",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 1273774,
-      "num": 678561,
+      "num": 888340,
       "word": "大爷质问家长为何给孩子穿汉服",
       "onboard_time": 1661683106,
       "rank": 25,
@@ -153,6 +177,14 @@
       "onboard_time": 1661654309,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1202052,
+      "num": 1202052,
+      "word": "TES战胜EDG",
+      "onboard_time": 1661688389,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1201668,
@@ -176,6 +208,14 @@
       "word": "虞书欣镜头外还在哭",
       "onboard_time": 1661604031,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1124375,
+      "num": 1124375,
+      "word": "冰雨火孕妇吸毒",
+      "onboard_time": 1661684610,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -211,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088213,
+      "num": 1039994,
+      "word": "重庆人差点把妹子一起送了",
+      "onboard_time": 1661683767,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052050,
       "num": 897404,
       "word": "夫妻俩卖20元芹菜被罚6万6",
@@ -227,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1039994,
-      "num": 1039994,
-      "word": "重庆人差点把妹子一起送了",
-      "onboard_time": 1661683767,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031959,
       "num": 1031959,
       "word": "GEN夺冠",
@@ -249,6 +289,14 @@
       "onboard_time": 1661611715,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996885,
+      "num": 996885,
+      "word": "蔡徐坤把拴Q说成了3Q",
+      "onboard_time": 1661689649,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 989105,
@@ -299,6 +347,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 949059,
+      "num": 528944,
+      "word": "莲花楼剧组致歉声明",
+      "onboard_time": 1661687067,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 888187,
+      "num": 888187,
+      "word": "成都疫情防控",
+      "onboard_time": 1661650946,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882101,
       "num": 576159,
       "word": "BLACKPINK人歌初舞台",
@@ -312,6 +376,22 @@
       "word": "凌不疑程少商雨中公主抱花絮",
       "onboard_time": 1661666427,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 851377,
+      "num": 504286,
+      "word": "男子烤肠到嘴边退货遭拒辱骂店员",
+      "onboard_time": 1661686769,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849745,
+      "num": 295731,
+      "word": "东方青苍人设",
+      "onboard_time": 1661685985,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -347,12 +427,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 754256,
-      "num": 675566,
-      "word": "冰雨火孕妇吸毒",
-      "onboard_time": 1661684610,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 765243,
+      "num": 285322,
+      "word": "王子文吴永恩考拉抱",
+      "onboard_time": 1661689767,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 747781,
@@ -387,12 +467,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 703283,
-      "num": 703283,
-      "word": "成都疫情防控",
-      "onboard_time": 1661650946,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 713862,
+      "num": 713862,
+      "word": "JDG锁定S12名额",
+      "onboard_time": 1661688509,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 705073,
+      "num": 419772,
+      "word": "杜淳王灿牵手照好甜",
+      "onboard_time": 1661685686,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 698752,
@@ -427,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 671584,
-      "num": 671584,
-      "word": "开学前录取通知书被狗狗咬碎",
-      "onboard_time": 1661682867,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 665117,
       "num": 665117,
       "word": "东方青苍事业粉",
@@ -457,6 +537,14 @@
       "onboard_time": 1661616632,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 633978,
+      "num": 204873,
+      "word": "时代少年团火力全开无尽夏舞台",
+      "onboard_time": 1661686647,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 630228,
@@ -515,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570828,
-      "num": 419772,
-      "word": "杜淳王灿牵手照好甜",
-      "onboard_time": 1661685686,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 563178,
       "num": 563178,
       "word": "起底8800元平板电脑供应商",
@@ -551,6 +631,14 @@
       "num": 501643,
       "word": "2男子高铁车厢内因打电话互殴",
       "onboard_time": 1661653707,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537378,
+      "num": 537378,
+      "word": "男子为证明自己的化学天赋自学制毒",
+      "onboard_time": 1661686286,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -584,6 +672,14 @@
       "word": "待播古装剧的男主造型",
       "onboard_time": 1661681245,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 524921,
+      "num": 204411,
+      "word": "马丽金鹿奖最佳女演员",
+      "onboard_time": 1661689649,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -675,6 +771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457127,
+      "num": 457127,
+      "word": "冒泡赛",
+      "onboard_time": 1661689109,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 454677,
+      "num": 202453,
+      "word": "朱一龙金鹿奖最佳男演员",
+      "onboard_time": 1661687187,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441706,
       "num": 441706,
       "word": "檀健次曾掉进石灰池里两次",
@@ -737,14 +849,6 @@
       "onboard_time": 1661645245,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407464,
-      "num": 244950,
-      "word": "东方青苍人设",
-      "onboard_time": 1661685985,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 405936,
@@ -899,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355090,
-      "num": 254009,
-      "word": "苍兰诀",
-      "onboard_time": 1661601387,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355022,
       "num": 257716,
       "word": "敖子逸长春电影节闭幕式红毯",
@@ -993,6 +1089,14 @@
       "onboard_time": 1661653288,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 315650,
+      "num": 199585,
+      "word": "沸腾校园",
+      "onboard_time": 1661689350,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 313339,
@@ -1251,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249738,
+      "num": 249738,
+      "word": "这车厢比考场都安静",
+      "onboard_time": 1661687608,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248650,
       "num": 248650,
       "word": "中国女排3比2泰国女排",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1661682867,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243118,
+      "num": 243118,
+      "word": "光与夜之恋 卢浮宫",
+      "onboard_time": 1661688569,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 242968,
@@ -1491,6 +1611,14 @@
       "category": "社会新闻,国内要闻"
     },
     {
+      "raw_hot": 206297,
+      "num": 206297,
+      "word": "雅思组合夺世锦赛第三冠",
+      "onboard_time": 1661689649,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204499,
       "num": 173310,
       "word": "你好星期六下期赵今麦郭俊辰隔空同框",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1661679507,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "刀宗",
+      "onboard_time": 1661687970,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 199450,
@@ -1529,6 +1665,14 @@
       "onboard_time": 1661677704,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195347,
+      "num": 195347,
+      "word": "川渝男人最后的倔强",
+      "onboard_time": 1661689407,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 195327,
@@ -1787,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141823,
+      "num": 132454,
+      "word": "世锦赛国羽2金1银2铜收官",
+      "onboard_time": 1661690248,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141651,
       "num": 141651,
       "word": "语文老师的浪漫",
@@ -1819,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133330,
+      "num": 133330,
+      "word": "2022LPL夏季赛季后赛",
+      "onboard_time": 1661689168,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128974,
       "num": 128974,
       "word": "消防员说第一次在救火现场吃冰棍",
@@ -1833,6 +1993,14 @@
       "onboard_time": 1661612134,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122153,
+      "num": 122153,
+      "word": "研究称人类在700万年前直立行走",
+      "onboard_time": 1661679987,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115408,
@@ -1857,14 +2025,6 @@
       "onboard_time": 1661595810,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 111839,
-      "num": 111839,
-      "word": "男子为证明自己的化学天赋自学制毒",
-      "onboard_time": 1661686286,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110586,
