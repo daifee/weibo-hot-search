@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661704153671,
+  "endTime": 1661705467692,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1242189,
+      "num": 1242189,
+      "word": "不为什么",
+      "onboard_time": 1661701229,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1138189,
       "num": 348550,
       "word": "男子在女友孕期出轨还想要回16万彩礼",
       "onboard_time": 1661681546,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1076297,
-      "num": 1076297,
-      "word": "不为什么",
-      "onboard_time": 1661701229,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 947725,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 832528,
-      "num": 334149,
+      "num": 684764,
       "word": "蔡徐坤把拴Q说成了3Q",
       "onboard_time": 1661689649,
       "rank": 12,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 260190,
-      "num": 87919,
+      "num": 107264,
       "word": "0713中秋晚会合体路透",
       "onboard_time": 1661703084,
       "rank": 40,
@@ -204,11 +204,19 @@
     },
     {
       "raw_hot": 249574,
-      "num": 87852,
+      "num": 103742,
       "word": "newjeans新歌获人歌一位",
       "onboard_time": 1661701708,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248520,
+      "num": 106192,
+      "word": "冰雨火孕妇吸毒",
+      "onboard_time": 1661684610,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 236033,
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220243,
-      "num": 87742,
-      "word": "冰雨火孕妇吸毒",
-      "onboard_time": 1661684610,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210382,
       "num": 210382,
       "word": "间谍过家家第二季度海报",
       "onboard_time": 1661699131,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 207391,
+      "num": 207391,
+      "word": "陕西肉夹馍在台中夜市一馍难求",
+      "onboard_time": 1661703506,
+      "rank": 46,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 203861,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83595,
-      "num": 83595,
-      "word": "陕西肉夹馍在台中夜市一馍难求",
-      "onboard_time": 1661703506,
-      "rank": 46,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 81174,
       "num": 81174,
       "word": "这是什么百万转场",
@@ -395,6 +395,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56606,
+      "num": 56606,
+      "word": "公厕里的洗手液有多脏",
+      "onboard_time": 1661666787,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38124,
+      "num": 38124,
+      "word": "K甲",
+      "onboard_time": 1661696972,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15485,
       "num": 1177402,
       "word": "八音盒变装下的守护者",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#网络文明之光照亮未来#"
+    },
+    {
+      "word": "#2022年中国网络文明大会#"
     }
   ]
 }
