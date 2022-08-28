@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/28 15:35:41
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/28 16:26:19
 </p>
 </blockquote>
 <p>
@@ -5649,6 +5649,12 @@ Angelababy为虞书欣新剧宣传（热度：1430346）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E6%B1%89%E5%A0%A1%E7%8E%8B%E5%8F%AF%E4%B9%90%E5%96%9D%E5%87%BA%E5%B8%A6%E8%9B%86%E8%8B%8D%E8%9D%87%23" target="weibo">
+男子喝汉堡王可乐喝出带蛆苍蝇（热度：1402658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BB%AA%E6%80%81%23" target="weibo">
 王鹤棣仪态（热度：1401190）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy为虞书欣新剧宣传（热度：1430346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E6%B8%A4%E6%B5%B7%E9%83%A8%E5%88%86%E6%B0%B4%E5%9F%9F%E7%A6%81%E6%AD%A2%E9%A9%B6%E5%85%A5%23" target="weibo">
 南海渤海部分水域禁止驶入（热度：1341461）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B5%B7%E5%86%9B%E6%BC%94%E4%BC%9A%E5%90%A6%E6%88%90%E4%B8%BA%E6%96%B0%E5%B8%B8%E6%80%81%23" target="weibo">
-外交部回应台海军演会否成为新常态（热度：1341160）
 </a>
 </li>
 
