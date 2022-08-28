@@ -1,0 +1,410 @@
+{
+  "runTime": 1661661422333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109412,
+        "num": 2109412,
+        "word": "公司要求一旦怀孕自动离职",
+        "onboard_time": 1661613394,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1751186,
+        "num": 1751186,
+        "word": "一支中性笔卖55元",
+        "onboard_time": 1661651066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96654,
+        "num": 1699093,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1683754,
+        "num": 1683754,
+        "word": "鳄雀鳝内脏尤其是卵有剧毒",
+        "onboard_time": 1661658927,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347015,
+        "num": 1347015,
+        "word": "priest是兼职作者",
+        "onboard_time": 1661654064,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 971816,
+        "num": 971816,
+        "word": "刘翔峰或被终身禁业",
+        "onboard_time": 1661654309,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946596,
+        "num": 946596,
+        "word": "台媒称金门岗哨再次发现大陆无人机",
+        "onboard_time": 1661657128,
+        "rank": 6,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 709077,
+        "num": 709077,
+        "word": "夫妻俩卖20元芹菜被罚6万6",
+        "onboard_time": 1661644643,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601849,
+        "num": 601849,
+        "word": "沈腾主演票房破250亿",
+        "onboard_time": 1661653646,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601269,
+        "num": 601269,
+        "word": "首尔一高中因生源不足即将关闭",
+        "onboard_time": 1661650469,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 473303,
+        "num": 473303,
+        "word": "林柏叡的名字怎么读",
+        "onboard_time": 1661659948,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467865,
+        "num": 467865,
+        "word": "逆行司机被北京公交警方行政拘留",
+        "onboard_time": 1661657786,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436433,
+        "num": 436433,
+        "word": "河南由夏入冬只用了一周",
+        "onboard_time": 1661656466,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383813,
+        "num": 383813,
+        "word": "2男子高铁车厢内因打电话互殴",
+        "onboard_time": 1661653707,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374900,
+        "num": 374900,
+        "word": "容祖儿治好了我的社恐",
+        "onboard_time": 1661656287,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373188,
+        "num": 373188,
+        "word": "CPA会计",
+        "onboard_time": 1661658266,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372278,
+        "num": 372278,
+        "word": "吴克群上厕所BGM是张震岳弹的",
+        "onboard_time": 1661657786,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331027,
+        "num": 331027,
+        "word": "世界在坍塌 我们在相爱",
+        "onboard_time": 1661613032,
+        "rank": 17,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 321106,
+        "num": 321106,
+        "word": "GEN对战T1",
+        "onboard_time": 1661659048,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314940,
+        "num": 314940,
+        "word": "成都疫情防控",
+        "onboard_time": 1661650946,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526003,
+        "num": 312864,
+        "word": "被误诊艾滋病5年当事人发声",
+        "onboard_time": 1661607992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326306,
+        "num": 306248,
+        "word": "蔡徐坤校园版hugme",
+        "onboard_time": 1661659466,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296121,
+        "num": 296121,
+        "word": "范丞丞闯祸后假装无事发生",
+        "onboard_time": 1661657427,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294491,
+        "num": 294491,
+        "word": "苍兰诀结黎觞阙甜不过两集",
+        "onboard_time": 1661657548,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268414,
+        "num": 268414,
+        "word": "收废品阿姨无偿照顾陌生老人16年",
+        "onboard_time": 1661658565,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 249557,
+        "num": 249557,
+        "word": "大一新生携2米高盆栽开学",
+        "onboard_time": 1661643139,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 232626,
+        "num": 232626,
+        "word": "开学焦虑在焦虑些什么",
+        "onboard_time": 1661659766,
+        "rank": 26,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 229322,
+        "num": 229322,
+        "word": "重庆女娃连续5天骑行送救火物资",
+        "onboard_time": 1661647887,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 211813,
+        "num": 211813,
+        "word": "LCK",
+        "onboard_time": 1661655146,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211115,
+        "num": 211115,
+        "word": "可以食用鳄雀鳝吗",
+        "onboard_time": 1661650709,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290653,
+        "num": 209744,
+        "word": "东方青苍事业粉",
+        "onboard_time": 1661651487,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237664,
+        "num": 209266,
+        "word": "丁禹兮把杨贵妃猜成羊会飞",
+        "onboard_time": 1661656827,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214786,
+        "num": 204772,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1661658385,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191877,
+        "num": 191877,
+        "word": "苍兰诀 预告",
+        "onboard_time": 1661648067,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185843,
+        "num": 185843,
+        "word": "官兵借宿学校走前还帮忙刷了墙",
+        "onboard_time": 1661653288,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175121,
+        "num": 175121,
+        "word": "女孩报警妈妈太凶爸爸解围反被吐槽",
+        "onboard_time": 1661646987,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171571,
+        "num": 171571,
+        "word": "德州新增本土无症状感染者4例",
+        "onboard_time": 1661660426,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167248,
+        "num": 167248,
+        "word": "我的精神内耗突然就好了",
+        "onboard_time": 1661660908,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166325,
+        "num": 166325,
+        "word": "昆明一小区出现鳄雀鳝",
+        "onboard_time": 1661647348,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165564,
+        "num": 165564,
+        "word": "重庆疫情防控",
+        "onboard_time": 1661654847,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157422,
+        "num": 157422,
+        "word": "这小狗还练上瑜伽了",
+        "onboard_time": 1661655027,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154631,
+        "num": 154631,
+        "word": "石家庄重点区域非必要不出小区",
+        "onboard_time": 1661661265,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147669,
+        "num": 147669,
+        "word": "研究表明第五种力或不存在",
+        "onboard_time": 1661660966,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 145494,
+        "num": 145494,
+        "word": "中纪委评刘翔峰事件",
+        "onboard_time": 1661653226,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 144300,
+        "word": "起底8800元平板电脑供应商",
+        "onboard_time": 1661646388,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 142131,
+        "num": 142131,
+        "word": "江西鹰潭方舱隔离条件堪忧",
+        "onboard_time": 1661644946,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141232,
+        "num": 141232,
+        "word": "中国这十年看河南",
+        "onboard_time": 1661659466,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139500,
+        "num": 139500,
+        "word": "消防员住过的房间令保洁阿姨破防",
+        "onboard_time": 1661652628,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134359,
+        "num": 134359,
+        "word": "青岛一小区抓捕2条鳄雀鳝",
+        "onboard_time": 1661642959,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126805,
+        "num": 126805,
+        "word": "武汉新增本土无症状感染者10例",
+        "onboard_time": 1661648848,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}
