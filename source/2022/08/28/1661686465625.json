@@ -1,0 +1,410 @@
+{
+  "runTime": 1661686465625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039994,
+        "num": 1039994,
+        "word": "重庆人差点把妹子一起送了",
+        "onboard_time": 1661683767,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726125,
+        "num": 726125,
+        "word": "苍兰诀全员超话坦白局",
+        "onboard_time": 1661683289,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9356,
+        "num": 682010,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248899,
+        "num": 678561,
+        "word": "大爷质问家长为何给孩子穿汉服",
+        "onboard_time": 1661683106,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754256,
+        "num": 675566,
+        "word": "冰雨火孕妇吸毒",
+        "onboard_time": 1661684610,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671584,
+        "num": 671584,
+        "word": "开学前录取通知书被狗狗咬碎",
+        "onboard_time": 1661682867,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 658330,
+        "num": 658330,
+        "word": "男子洗澡时淋浴房玻璃门突然爆裂",
+        "onboard_time": 1661676566,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578107,
+        "num": 578107,
+        "word": "研究称人类在700万前直立行走",
+        "onboard_time": 1661679987,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473487,
+        "num": 473487,
+        "word": "Jennie新歌舞台直拍",
+        "onboard_time": 1661680286,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436064,
+        "num": 436064,
+        "word": "男孩半夜醒来发现父母不见后报警",
+        "onboard_time": 1661673027,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2752473,
+        "num": 434712,
+        "word": "男子在女友孕期出轨还想要回16万彩礼",
+        "onboard_time": 1661681546,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2621193,
+        "num": 426046,
+        "word": "莲花楼剧组 打人",
+        "onboard_time": 1661681245,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570828,
+        "num": 419772,
+        "word": "杜淳王灿牵手照好甜",
+        "onboard_time": 1661685686,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689297,
+        "num": 410280,
+        "word": "莲花楼代拍鼻骨骨折",
+        "onboard_time": 1661685566,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459384,
+        "num": 399783,
+        "word": "男子离异后发现儿子变侄子",
+        "onboard_time": 1661664629,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399713,
+        "num": 399713,
+        "word": "成都环球中心疫情防控",
+        "onboard_time": 1661672249,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393629,
+        "num": 393629,
+        "word": "世锦赛陈雨菲获银牌",
+        "onboard_time": 1661685268,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370061,
+        "num": 370061,
+        "word": "男子喝汉堡王可乐喝出带蛆苍蝇",
+        "onboard_time": 1661670810,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345808,
+        "num": 345808,
+        "word": "大连疫情防控",
+        "onboard_time": 1661684967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321544,
+        "num": 321544,
+        "word": "GEN夺冠",
+        "onboard_time": 1661678725,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 837971,
+        "num": 319118,
+        "word": "万萌萌怀孕后悔吸毒",
+        "onboard_time": 1661668286,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440509,
+        "num": 318090,
+        "word": "待播古装剧的男主造型",
+        "onboard_time": 1661681245,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440192,
+        "num": 316340,
+        "word": "公厕里的洗手液有多脏",
+        "onboard_time": 1661666787,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432081,
+        "num": 313579,
+        "word": "蔡徐坤给国科大街舞社发S卡",
+        "onboard_time": 1661686348,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311437,
+        "num": 311437,
+        "word": "CPA经济法",
+        "onboard_time": 1661686105,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 417106,
+        "num": 310144,
+        "word": "于文文唐人街中的点点乡愁",
+        "onboard_time": 1661682627,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294159,
+        "num": 294159,
+        "word": "彩票中奖1000万有资格辞职吗",
+        "onboard_time": 1661663069,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 259701,
+        "num": 259701,
+        "word": "这猫丑就算了叫声还难听",
+        "onboard_time": 1661679026,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257177,
+        "num": 257177,
+        "word": "iPhone14ProMax或9999起",
+        "onboard_time": 1661661627,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 245438,
+        "num": 245438,
+        "word": "美舰过航台湾海峡东部战区回应",
+        "onboard_time": 1661667330,
+        "rank": 29,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 407464,
+        "num": 244950,
+        "word": "东方青苍人设",
+        "onboard_time": 1661685985,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376908,
+        "num": 242656,
+        "word": "刘宇宁究竟唱了多少影视剧OST",
+        "onboard_time": 1661682206,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355090,
+        "num": 241421,
+        "word": "苍兰诀",
+        "onboard_time": 1661680826,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231449,
+        "num": 231449,
+        "word": "EDG对战TES",
+        "onboard_time": 1661678546,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215528,
+        "num": 215528,
+        "word": "这不是弟弟想要的礼物",
+        "onboard_time": 1661680888,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305728,
+        "num": 215413,
+        "word": "王一博冰雨火战损妆剧照",
+        "onboard_time": 1661684007,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202557,
+        "num": 202557,
+        "word": "重庆南岸区报告7例无症状感染者",
+        "onboard_time": 1661681187,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201467,
+        "num": 201467,
+        "word": "中国女排3比2泰国女排",
+        "onboard_time": 1661683828,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197514,
+        "num": 197514,
+        "word": "他多看一眼路牌救下一条命",
+        "onboard_time": 1661684367,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 193786,
+        "num": 193786,
+        "word": "Peanut获得FMVP",
+        "onboard_time": 1661681307,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296743,
+        "num": 192332,
+        "word": "赵露思陈哲远校服造型路透",
+        "onboard_time": 1661672610,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187826,
+        "num": 187826,
+        "word": "4个集体被授予感动重庆特别奖",
+        "onboard_time": 1661682928,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162292,
+        "num": 162292,
+        "word": "东部战区对美舰过航台湾海峡全程跟监警戒",
+        "onboard_time": 1661670689,
+        "rank": 42,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 158170,
+        "num": 158170,
+        "word": "蛋糕可以冷门但不可以邪门",
+        "onboard_time": 1661675188,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144267,
+        "num": 144267,
+        "word": "成都西岭雪山突发山洪",
+        "onboard_time": 1661674588,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132574,
+        "num": 132574,
+        "word": "四川局地有大暴雨来袭",
+        "onboard_time": 1661678847,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111839,
+        "num": 111839,
+        "word": "男子为证明自己的化学天赋自学制毒",
+        "onboard_time": 1661686286,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109610,
+        "num": 109610,
+        "word": "河南新增本土确诊2例无症状52例",
+        "onboard_time": 1661678306,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105141,
+        "num": 105141,
+        "word": "为什么新中式穿搭火了",
+        "onboard_time": 1661669548,
+        "rank": 48,
+        "category": "时尚,社会议题"
+      },
+      {
+        "raw_hot": 101640,
+        "num": 101640,
+        "word": "人们为什么衷于虚拟社交",
+        "onboard_time": 1661679387,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国这十年#"
+    }
+  }
+}
