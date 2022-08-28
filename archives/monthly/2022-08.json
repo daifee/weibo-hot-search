@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661712189656,
+  "endTime": 1661714265933,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -63635,6 +63635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43849,
+      "num": 35466,
+      "word": "被元气甜妹治愈了",
+      "onboard_time": 1661711592,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43827,
       "num": 43827,
       "word": "你会怕让父母丢脸吗",
@@ -63729,14 +63737,6 @@
       "onboard_time": 1660498936,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 37425,
-      "num": 25274,
-      "word": "被元气甜妹治愈了",
-      "onboard_time": 1661711592,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 37271,
@@ -63857,6 +63857,14 @@
       "onboard_time": 1660342454,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 33371,
+      "num": 33371,
+      "word": "冒泡赛RNG对战EDG",
+      "onboard_time": 1661711413,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 33191,
@@ -64209,14 +64217,6 @@
       "onboard_time": 1660684450,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15608,
-      "num": 15608,
-      "word": "冒泡赛RNG对战EDG",
-      "onboard_time": 1661711413,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 15105,
