@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661668002900,
+  "endTime": 1661669064332,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1834499,
+      "num": 1834499,
+      "word": "公厕里的洗手液有多脏",
+      "onboard_time": 1661666787,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1769751,
       "num": 363419,
       "word": "被误诊艾滋病5年当事人发声",
@@ -67,12 +75,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1449855,
-      "num": 413593,
+      "raw_hot": 1553688,
+      "num": 536095,
       "word": "男子离异后发现儿子变侄子",
       "onboard_time": 1661664629,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1352998,
+      "num": 1352998,
+      "word": "美舰过航台湾海峡东部战区回应",
+      "onboard_time": 1661667330,
+      "rank": 13,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 1247776,
@@ -163,6 +179,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 860634,
+      "num": 860634,
+      "word": "凌不疑程少商雨中公主抱花絮",
+      "onboard_time": 1661666427,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 841492,
       "num": 841492,
       "word": "大一新生携2米高盆栽开学",
@@ -177,22 +201,6 @@
       "onboard_time": 1661602469,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 810370,
-      "num": 404445,
-      "word": "公厕里的洗手液有多脏",
-      "onboard_time": 1661666787,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760611,
-      "num": 760611,
-      "word": "凌不疑程少商雨中公主抱花絮",
-      "onboard_time": 1661666427,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 728656,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459697,
-      "num": 396499,
-      "word": "美舰过航台湾海峡东部战区回应",
-      "onboard_time": 1661667330,
-      "rank": 13,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 459495,
       "num": 459495,
       "word": "河南由夏入冬只用了一周",
@@ -417,6 +417,14 @@
       "onboard_time": 1661647348,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433729,
+      "num": 433729,
+      "word": "万萌萌怀孕后悔吸毒",
+      "onboard_time": 1661668286,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 425260,
@@ -451,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 397168,
+      "num": 397168,
+      "word": "蔡徐坤单膝跪地握手",
+      "onboard_time": 1661664811,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395636,
       "num": 395636,
       "word": "消防员的皮卡都被山城人投喂了",
@@ -465,14 +481,6 @@
       "onboard_time": 1661663012,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 391768,
-      "num": 391768,
-      "word": "蔡徐坤单膝跪地握手",
-      "onboard_time": 1661664811,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 389653,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345894,
+      "num": 345894,
+      "word": "檀健次曾掉进石灰池里两次",
+      "onboard_time": 1661666187,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337508,
       "num": 254850,
       "word": "朱正廷说吃完妈妈的菜进医院了",
@@ -563,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328438,
-      "num": 328438,
-      "word": "檀健次曾掉进石灰池里两次",
-      "onboard_time": 1661666187,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 324702,
+      "num": 307375,
+      "word": "虞书欣一滴泪故事感",
+      "onboard_time": 1661665469,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 321387,
@@ -609,14 +625,6 @@
       "onboard_time": 1661652569,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307375,
-      "num": 307375,
-      "word": "虞书欣一滴泪故事感",
-      "onboard_time": 1661665469,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 303889,
@@ -683,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281534,
+      "num": 281534,
+      "word": "2022年河南省GDP将超过6万亿",
+      "onboard_time": 1661665829,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 280902,
       "num": 280902,
       "word": "9岁女童暑期承包妈妈一日三餐",
@@ -707,8 +723,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274536,
+      "num": 274536,
+      "word": "解放军随时做好挫败任何挑衅准备",
+      "onboard_time": 1661667864,
+      "rank": 28,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 273068,
+      "num": 273068,
+      "word": "孟佳翻跳HEYmama",
+      "onboard_time": 1661668828,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272378,
-      "num": 131295,
+      "num": 171467,
       "word": "饿了么",
       "onboard_time": 1661667990,
       "rank": 47,
@@ -728,6 +760,14 @@
       "word": "还魂",
       "onboard_time": 1661651309,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 269367,
+      "num": 197284,
+      "word": "应渊2.0明天见",
+      "onboard_time": 1661668348,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -787,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239656,
+      "num": 196981,
+      "word": "月升沧海",
+      "onboard_time": 1661668468,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239189,
       "num": 239189,
       "word": "阿那亚",
@@ -827,14 +875,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 228676,
-      "num": 228676,
-      "word": "2022年河南省GDP将超过6万亿",
-      "onboard_time": 1661665829,
-      "rank": 25,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 222217,
       "num": 222011,
       "word": "杨迪长在于文文的笑点上",
@@ -867,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212368,
-      "num": 212368,
-      "word": "解放军随时做好挫败任何挑衅准备",
-      "onboard_time": 1661667864,
-      "rank": 28,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 212195,
       "num": 212195,
       "word": "高价文具值不值得买",
@@ -905,6 +937,22 @@
       "onboard_time": 1661613813,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202920,
+      "num": 202920,
+      "word": "狗子看猫咪吵架都看呆了",
+      "onboard_time": 1661667087,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 199886,
+      "num": 199886,
+      "word": "文具为什么越来越贵了",
+      "onboard_time": 1661665408,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195327,
@@ -987,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179953,
-      "num": 179953,
-      "word": "文具为什么越来越贵了",
-      "onboard_time": 1661665408,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175102,
       "num": 175102,
       "word": "27日北京新增3例本土感染者",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1661632991,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 173665,
+      "num": 173665,
+      "word": "LCK开幕式",
+      "onboard_time": 1661667149,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 172777,
@@ -1139,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143444,
-      "num": 143444,
-      "word": "LCK开幕式",
-      "onboard_time": 1661667149,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141651,
       "num": 141651,
       "word": "语文老师的浪漫",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1661601387,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132814,
-      "num": 132814,
-      "word": "狗子看猫咪吵架都看呆了",
-      "onboard_time": 1661667087,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 128974,
