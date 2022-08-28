@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661691603558,
+  "endTime": 1661693524121,
   "band_list": [
     {
       "raw_hot": 4098448,
@@ -59,6 +59,22 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 2343755,
+      "num": 1326765,
+      "word": "蔡徐坤把拴Q说成了3Q",
+      "onboard_time": 1661689649,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2110606,
+      "num": 2110606,
+      "word": "苍兰诀",
+      "onboard_time": 1661601387,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2088576,
       "num": 2088576,
       "word": "priest是兼职作者",
@@ -67,28 +83,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2077893,
-      "num": 2077893,
-      "word": "苍兰诀",
-      "onboard_time": 1661601387,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1981668,
-      "num": 1326765,
-      "word": "蔡徐坤把拴Q说成了3Q",
-      "onboard_time": 1661689649,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1906800,
       "num": 1906800,
       "word": "iPhone14ProMax或9999起",
       "onboard_time": 1661661627,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1881401,
+      "num": 906141,
+      "word": "苍兰诀大结局预告",
+      "onboard_time": 1661691090,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1873870,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 864012,
+      "num": 864012,
+      "word": "成都疫情处于快速上升阶段",
+      "onboard_time": 1661692232,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860634,
       "num": 860634,
       "word": "凌不疑程少商雨中公主抱花絮",
@@ -435,12 +451,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 758711,
-      "num": 350177,
-      "word": "苍兰诀大结局预告",
-      "onboard_time": 1661691090,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 748872,
+      "num": 408264,
+      "word": "男子离婚两年后前妻告知儿子非亲生",
+      "onboard_time": 1661691510,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 747781,
@@ -611,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585863,
+      "num": 339250,
+      "word": "严浩翔脸链造型",
+      "onboard_time": 1661692170,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 573145,
       "num": 573145,
       "word": "多例病例在返京途中感染",
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512867,
+      "num": 512867,
+      "word": "EDG 冒泡赛",
+      "onboard_time": 1661690429,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 512236,
       "num": 512236,
       "word": "重庆女娃连续5天骑行送救火物资",
@@ -769,6 +801,14 @@
       "onboard_time": 1661689109,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 462797,
+      "num": 239010,
+      "word": "大强养花",
+      "onboard_time": 1661690967,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 459495,
@@ -865,6 +905,14 @@
       "onboard_time": 1661661566,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 403405,
+      "num": 218412,
+      "word": "男儿歌",
+      "onboard_time": 1661692170,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 397168,
@@ -971,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365815,
-      "num": 197612,
-      "word": "大强养花",
-      "onboard_time": 1661690967,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 365062,
+      "num": 365062,
+      "word": "川渝男人最后的倔强",
+      "onboard_time": 1661689407,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 362995,
@@ -1017,14 +1065,6 @@
       "onboard_time": 1661640736,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355547,
-      "num": 355547,
-      "word": "川渝男人最后的倔强",
-      "onboard_time": 1661689407,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 355022,
@@ -1091,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321223,
+      "num": 321223,
+      "word": "平台回应通缉犯的抓捕赏金仅4元",
+      "onboard_time": 1661691331,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321106,
       "num": 321106,
       "word": "GEN对战T1",
@@ -1147,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308351,
+      "num": 144743,
+      "word": "文牧野金鹿奖最佳编剧",
+      "onboard_time": 1661693311,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304869,
       "num": 304869,
       "word": "今何在",
@@ -1171,12 +1227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303743,
+      "num": 303743,
+      "word": "这麻婆豆腐也太费米饭了",
+      "onboard_time": 1661691331,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 294491,
       "num": 294491,
       "word": "苍兰诀结黎觞阙甜不过两集",
       "onboard_time": 1661657548,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291333,
+      "num": 291333,
+      "word": "四川话完全恐怖不起来",
+      "onboard_time": 1661690729,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 290370,
@@ -1403,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246139,
-      "num": 246139,
-      "word": "EDG 冒泡赛",
-      "onboard_time": 1661690429,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 245285,
       "num": 216214,
       "word": "司命殿连锁殿",
@@ -1579,14 +1643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221506,
-      "num": 221506,
-      "word": "这麻婆豆腐也太费米饭了",
-      "onboard_time": 1661691331,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 219864,
       "num": 219864,
       "word": "重庆南岸区报告7例无症状感染者",
@@ -1731,6 +1787,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 190121,
+      "num": 190121,
+      "word": "Viper",
+      "onboard_time": 1661692830,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187826,
       "num": 187826,
       "word": "4个集体被授予感动重庆特别奖",
@@ -1745,14 +1809,6 @@
       "onboard_time": 1661660426,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187460,
-      "num": 187460,
-      "word": "四川话完全恐怖不起来",
-      "onboard_time": 1661690729,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 187442,
@@ -1955,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145024,
+      "num": 123275,
+      "word": "无畏有点艺术天份但不多",
+      "onboard_time": 1661693491,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144931,
       "num": 144931,
       "word": "闪耀暖暖",
@@ -1968,6 +2032,14 @@
       "word": "中国这十年看河南",
       "onboard_time": 1661659466,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144063,
+      "num": 144063,
+      "word": "张朝阳给大学生推荐碎片化学习法",
+      "onboard_time": 1661690967,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1985,14 +2057,6 @@
       "onboard_time": 1661648610,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 140809,
-      "num": 140809,
-      "word": "张朝阳给大学生推荐碎片化学习法",
-      "onboard_time": 1661690967,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139390,
@@ -2035,6 +2099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 123515,
+      "num": 123515,
+      "word": "录取通知书被毁能否进校门",
+      "onboard_time": 1661692472,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 123317,
       "num": 123317,
       "word": "F1",
@@ -2048,14 +2120,6 @@
       "word": "研究称人类在700万年前直立行走",
       "onboard_time": 1661679987,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118662,
-      "num": 118662,
-      "word": "平台回应通缉犯的抓捕赏金仅4元",
-      "onboard_time": 1661691331,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2121,14 +2185,6 @@
       "onboard_time": 1661610036,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105420,
-      "num": 105420,
-      "word": "男子离婚两年后前妻告知儿子非亲生",
-      "onboard_time": 1661691510,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104176,
@@ -2281,6 +2337,14 @@
       "onboard_time": 1661613514,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13547,
+      "num": 424808,
+      "word": "不放肆能叫热爱吗",
+      "onboard_time": 1661692350,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 7706,
