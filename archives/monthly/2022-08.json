@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661714265933,
+  "endTime": 1661715213965,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -64361,6 +64361,14 @@
       "onboard_time": 1659904391,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11835,
+      "num": 11835,
+      "word": "50秒延时看重庆以火灭火全过程",
+      "onboard_time": 1661713512,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11749,
