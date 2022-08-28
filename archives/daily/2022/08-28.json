@@ -1,9 +1,9 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661682241138,
+  "endTime": 1661683205066,
   "band_list": [
     {
-      "raw_hot": 3831198,
+      "raw_hot": 4098448,
       "num": 445269,
       "word": "莲花楼剧组 打人",
       "onboard_time": 1661681245,
@@ -41,6 +41,14 @@
       "onboard_time": 1661663069,
       "rank": 4,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2257216,
+      "num": 444808,
+      "word": "男子在女友孕期出轨还想要回16万彩礼",
+      "onboard_time": 1661681546,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2088576,
@@ -371,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685522,
+      "num": 652679,
+      "word": "Jennie新歌舞台直拍",
+      "onboard_time": 1661680286,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665117,
       "num": 665117,
       "word": "东方青苍事业粉",
       "onboard_time": 1661651487,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 652679,
-      "num": 652679,
-      "word": "Jennie新歌舞台直拍",
-      "onboard_time": 1661680286,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 648143,
@@ -475,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 555720,
-      "num": 444808,
-      "word": "男子在女友孕期出轨还想要回16万彩礼",
-      "onboard_time": 1661681546,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546469,
       "num": 501643,
       "word": "2男子高铁车厢内因打电话互殴",
@@ -505,6 +505,14 @@
       "onboard_time": 1661658266,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 527801,
+      "num": 527801,
+      "word": "这猫丑就算了叫声还难听",
+      "onboard_time": 1661679026,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 518173,
@@ -587,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445322,
-      "num": 445322,
-      "word": "这猫丑就算了叫声还难听",
-      "onboard_time": 1661679026,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 450386,
+      "num": 430889,
+      "word": "于文文唐人街中的点点乡愁",
+      "onboard_time": 1661682627,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 441706,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439953,
+      "num": 439953,
+      "word": "研究称人类在700万前直立行走",
+      "onboard_time": 1661679987,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436521,
       "num": 436521,
       "word": "昆明一小区出现鳄雀鳝",
@@ -611,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434590,
+      "num": 265867,
+      "word": "刘宇宁究竟唱了多少影视剧OST",
+      "onboard_time": 1661682206,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 425260,
       "num": 425260,
       "word": "四川宜宾连天山深夜突发山火",
       "onboard_time": 1661661446,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418370,
+      "num": 220035,
+      "word": "待播古装剧的男主造型",
+      "onboard_time": 1661681245,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 416096,
@@ -771,28 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352056,
-      "num": 352056,
-      "word": "研究称人类在700万前直立行走",
-      "onboard_time": 1661679987,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349214,
       "num": 349214,
       "word": "四川局地有大暴雨来袭",
       "onboard_time": 1661678847,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345208,
-      "num": 112787,
-      "word": "刘宇宁究竟唱了多少影视剧OST",
-      "onboard_time": 1661682206,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 337508,
@@ -841,14 +857,6 @@
       "onboard_time": 1661655146,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 319295,
-      "num": 220035,
-      "word": "待播古装剧的男主造型",
-      "onboard_time": 1661681245,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 317564,
@@ -1051,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265548,
+      "num": 206190,
+      "word": "蔡徐坤沸腾校园今晚见",
+      "onboard_time": 1661682566,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264388,
       "num": 264388,
       "word": "天津疫情防控",
@@ -1067,11 +1083,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261008,
+      "num": 180822,
+      "word": "Lisa人歌直拍",
+      "onboard_time": 1661682807,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259569,
       "num": 259569,
       "word": "四川用电紧张缓解",
       "onboard_time": 1661674588,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255147,
+      "num": 244922,
+      "word": "大爷质问家长为何给孩子穿汉服",
+      "onboard_time": 1661683106,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243574,
+      "num": 176095,
+      "word": "网剧罚罪",
+      "onboard_time": 1661682867,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242968,
       "num": 242968,
       "word": "许嵩谭维维合唱诗画中国主题曲",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1661611654,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241034,
+      "num": 241034,
+      "word": "Peanut获得FMVP",
+      "onboard_time": 1661681307,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 241025,
@@ -1243,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219864,
+      "num": 219864,
+      "word": "重庆南岸区报告7例无症状感染者",
+      "onboard_time": 1661681187,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216453,
       "num": 216453,
       "word": "重庆街头欢送消防员感人瞬间",
@@ -1323,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197846,
+      "num": 197846,
+      "word": "这不是弟弟想要的礼物",
+      "onboard_time": 1661680888,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196788,
       "num": 196788,
       "word": "中国女排vs泰国女排",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1661599530,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 191161,
-      "num": 191161,
-      "word": "重庆南岸区报告7例无症状感染者",
-      "onboard_time": 1661681187,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187533,
@@ -1507,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162409,
-      "num": 162409,
-      "word": "这不是弟弟想要的礼物",
-      "onboard_time": 1661680888,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158041,
       "num": 110659,
       "word": "气运联盟",
@@ -1539,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155208,
+      "num": 155208,
+      "word": "4个集体被授予感动重庆特别奖",
+      "onboard_time": 1661682928,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154631,
       "num": 154631,
       "word": "石家庄重点区域非必要不出小区",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1661651129,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151648,
-      "num": 151648,
-      "word": "Peanut获得FMVP",
-      "onboard_time": 1661681307,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 147609,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1661612134,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116598,
+      "num": 116598,
+      "word": "开学前录取通知书被狗狗咬碎",
+      "onboard_time": 1661682867,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115408,
