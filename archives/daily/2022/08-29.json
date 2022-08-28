@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661725255882,
+  "endTime": 1661726279158,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377256,
+      "num": 377256,
+      "word": "女子腿脚没劲原是老年综合征",
+      "onboard_time": 1661716332,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369120,
       "num": 319758,
       "word": "男子离婚两年后前妻告知儿子非亲生",
@@ -160,6 +168,14 @@
       "word": "动物园灰鹦鹉被逗后说脏话骂游客",
       "onboard_time": 1661699672,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311820,
+      "num": 230857,
+      "word": "家长当2孩子面偷拿他人物品",
+      "onboard_time": 1661717951,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -211,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259271,
-      "num": 259271,
-      "word": "女子腿脚没劲原是老年综合征",
-      "onboard_time": 1661716332,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249574,
       "num": 103742,
       "word": "newjeans新歌获人歌一位",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 248520,
-      "num": 106192,
+      "num": 130146,
       "word": "冰雨火孕妇吸毒",
       "onboard_time": 1661684610,
       "rank": 43,
@@ -243,19 +251,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228653,
+      "num": 228653,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1661723171,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
       "onboard_time": 1661686769,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223339,
-      "num": 163070,
-      "word": "家长当2孩子面偷拿他人物品",
-      "onboard_time": 1661717951,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -331,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126730,
-      "num": 126730,
-      "word": "沈阳疫情防控",
-      "onboard_time": 1661723171,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125846,
       "num": 125846,
       "word": "EDG 冒泡赛",
@@ -377,6 +377,22 @@
       "onboard_time": 1661691331,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107065,
+      "num": 107065,
+      "word": "不要擅自引进释放丢弃外来物种",
+      "onboard_time": 1661722390,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103352,
+      "num": 103352,
+      "word": "女子无视绿化工人劝阻采摘绿化带",
+      "onboard_time": 1661722631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98650,
@@ -427,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81053,
+      "num": 73431,
+      "word": "王子文吴永恩考拉抱",
+      "onboard_time": 1661689767,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74619,
       "num": 74619,
       "word": "剑网三",
       "onboard_time": 1661700330,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70638,
+      "num": 70638,
+      "word": "大熊猫是一种流体动物",
+      "onboard_time": 1661721310,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69622,
@@ -443,28 +475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 63486,
-      "num": 63486,
-      "word": "女子无视绿化工人劝阻采摘绿化带",
-      "onboard_time": 1661722631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60143,
-      "num": 54957,
-      "word": "王子文吴永恩考拉抱",
-      "onboard_time": 1661689767,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 57224,
-      "num": 57224,
-      "word": "不要擅自引进释放丢弃外来物种",
-      "onboard_time": 1661722390,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 62664,
+      "num": 50149,
+      "word": "如何评价朱一龙演技",
+      "onboard_time": 1661704163,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 56606,
@@ -473,22 +489,6 @@
       "onboard_time": 1661666787,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54241,
-      "num": 54241,
-      "word": "大熊猫是一种流体动物",
-      "onboard_time": 1661721310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47891,
-      "num": 47891,
-      "word": "如何评价朱一龙演技",
-      "onboard_time": 1661704163,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 43849,
@@ -515,6 +515,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31078,
+      "num": 29347,
+      "word": "秦霄贤画桃心告白高圆圆",
+      "onboard_time": 1661725334,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25333,
+      "num": 25333,
+      "word": "这场送别只有在中国才能看到",
+      "onboard_time": 1661718310,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25220,
       "num": 20013,
       "word": "月升沧海吴磊赵露思单手抱花絮",
@@ -523,16 +539,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 22962,
-      "num": 22962,
-      "word": "这场送别只有在中国才能看到",
-      "onboard_time": 1661718310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16083,
-      "num": 16083,
+      "raw_hot": 23710,
+      "num": 23710,
       "word": "50秒延时看重庆以火灭火全过程",
       "onboard_time": 1661713512,
       "rank": 48,
