@@ -1,6 +1,6 @@
 {
   "startTime": 1661099373460,
-  "endTime": 1661697360277,
+  "endTime": 1661700151715,
   "band_list": [
     {
       "raw_hot": 13920150,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2703816,
+      "num": 2703816,
+      "word": "骨兰变成了东方青苍",
+      "onboard_time": 1661695112,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2680882,
       "num": 2680882,
       "word": "恶童",
@@ -481,14 +489,6 @@
       "onboard_time": 1661217032,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2479814,
-      "num": 2479814,
-      "word": "骨兰变成了东方青苍",
-      "onboard_time": 1661695112,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 2442746,
@@ -969,6 +969,14 @@
       "onboard_time": 1661309368,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1710290,
+      "num": 912513,
+      "word": "苍兰诀 智者不入爱河",
+      "onboard_time": 1661697273,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1704929,
@@ -1571,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1292006,
+      "num": 366310,
+      "word": "贺峻霖两个月瘦了20斤",
+      "onboard_time": 1661699368,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1289364,
       "num": 694566,
       "word": "赵丽颖龚俊新封面",
@@ -1667,7 +1683,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1262276,
+      "raw_hot": 1263897,
       "num": 1262276,
       "word": "苍兰诀编剧",
       "onboard_time": 1661695893,
@@ -2707,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 904475,
+      "num": 904475,
+      "word": "重庆下雨",
+      "onboard_time": 1661695232,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897339,
       "num": 897339,
       "word": "KSG战胜AG",
@@ -3113,14 +3137,6 @@
       "onboard_time": 1661670689,
       "rank": 19,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 811576,
-      "num": 811576,
-      "word": "重庆下雨",
-      "onboard_time": 1661695232,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 809846,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1661404291,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701707,
+      "num": 307008,
+      "word": "苍兰诀 不要烂尾",
+      "onboard_time": 1661697932,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 701156,
@@ -4529,6 +4553,14 @@
       "onboard_time": 1661662229,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 588619,
+      "num": 296075,
+      "word": "任敏中国风水下舞蹈",
+      "onboard_time": 1661698471,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 587157,
@@ -5475,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505448,
+      "num": 202587,
+      "word": "刘耀文脸链",
+      "onboard_time": 1661699069,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504470,
       "num": 504470,
       "word": "华为Mate50或将提振市场信心",
@@ -5513,14 +5553,6 @@
       "onboard_time": 1661418571,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499791,
-      "num": 253966,
-      "word": "苍兰诀 智者不入爱河",
-      "onboard_time": 1661697273,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 499683,
@@ -6339,6 +6371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 450431,
+      "num": 252151,
+      "word": "吴倩说五年后是夏天赢了",
+      "onboard_time": 1661696972,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449574,
       "num": 449574,
       "word": "成都将在8月26日退出高温行列",
@@ -6359,14 +6399,6 @@
       "num": 410736,
       "word": "李易峰要给范丞丞新片包5场",
       "onboard_time": 1661249912,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 445505,
-      "num": 252151,
-      "word": "吴倩说五年后是夏天赢了",
-      "onboard_time": 1661696972,
       "rank": 32,
       "category": "影视"
     },
@@ -6912,6 +6944,14 @@
       "word": "7岁小女孩独自横渡钱塘江",
       "onboard_time": 1661133506,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409153,
+      "num": 341407,
+      "word": "成都市民进入公共场所须48小时核酸证明",
+      "onboard_time": 1661698773,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -7507,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382063,
+      "num": 382063,
+      "word": "录取通知书被毁能否进校门",
+      "onboard_time": 1661692472,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 382038,
       "num": 347478,
       "word": "用完的酱油瓶千万不要扔",
@@ -7713,6 +7761,14 @@
       "onboard_time": 1661211866,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 373714,
+      "num": 143143,
+      "word": "一起同过窗",
+      "onboard_time": 1661699430,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 373413,
@@ -8571,6 +8627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 337068,
+      "num": 142169,
+      "word": "二十年后还是被勇气感动了",
+      "onboard_time": 1661698171,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 336990,
       "num": 336990,
       "word": "叶蓁蓁清醒发言",
@@ -9027,12 +9091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323686,
+      "num": 323686,
+      "word": "上海昨日新增本土无症状8例",
+      "onboard_time": 1661695054,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323623,
       "num": 323623,
       "word": "颜淡唐周甜回来了",
       "onboard_time": 1661249311,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323584,
+      "num": 323584,
+      "word": "女子火锅配冰奶茶上吐下泻碱中毒",
+      "onboard_time": 1661699311,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323091,
@@ -9233,14 +9313,6 @@
       "onboard_time": 1661125283,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315398,
-      "num": 315398,
-      "word": "录取通知书被毁能否进校门",
-      "onboard_time": 1661692472,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 315273,
@@ -10139,6 +10211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 282799,
+      "num": 282799,
+      "word": "美登月火箭发射台遭雷击",
+      "onboard_time": 1661693972,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282745,
       "num": 282745,
       "word": "现在骑马都是自动挡了",
@@ -10265,6 +10345,14 @@
       "onboard_time": 1661503654,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279221,
+      "num": 279221,
+      "word": "在重庆有一种感动叫双向奔赴",
+      "onboard_time": 1661696552,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 278679,
@@ -10691,14 +10779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268722,
-      "num": 268722,
-      "word": "上海昨日新增本土无症状8例",
-      "onboard_time": 1661695054,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268605,
       "num": 268605,
       "word": "二百二十斤的人跳蹦蹦床",
@@ -10720,14 +10800,6 @@
       "word": "妹妹患癌父母残疾18岁女孩撑起全家",
       "onboard_time": 1661233290,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268458,
-      "num": 268458,
-      "word": "美登月火箭发射台遭雷击",
-      "onboard_time": 1661693972,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -13779,14 +13851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183591,
-      "num": 183591,
-      "word": "在重庆有一种感动叫双向奔赴",
-      "onboard_time": 1661696552,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 183533,
       "num": 1950284,
       "word": "机械臂第一视角下的地球",
@@ -13865,6 +13929,14 @@
       "onboard_time": 1661321252,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "这是什么百万转场",
+      "onboard_time": 1661697212,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 180796,
@@ -14177,6 +14249,14 @@
       "onboard_time": 1661093610,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172682,
+      "num": 172682,
+      "word": "95后小伙瞒着家人到重庆救火",
+      "onboard_time": 1661698832,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 172529,
@@ -15075,6 +15155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "间谍过家家第二季度海报",
+      "onboard_time": 1661699131,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 140015,
       "num": 140015,
       "word": "恋爱里的松弛感有多重要",
@@ -15515,19 +15603,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113874,
+      "num": 113874,
+      "word": "动物园灰鹦鹉被逗后说脏话骂游客",
+      "onboard_time": 1661699672,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113787,
       "num": 113787,
       "word": "还没成年就出来打工了",
       "onboard_time": 1661510970,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 113699,
-      "num": 113699,
-      "word": "这是什么百万转场",
-      "onboard_time": 1661697212,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -15593,6 +15681,14 @@
       "onboard_time": 1661585436,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107869,
+      "num": 107869,
+      "word": "台州是糯叽叽的天堂",
+      "onboard_time": 1661700029,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 107580,

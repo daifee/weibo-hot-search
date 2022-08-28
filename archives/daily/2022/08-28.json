@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661697360277,
+  "endTime": 1661700151715,
   "band_list": [
     {
       "raw_hot": 4098448,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2479814,
-      "num": 2479814,
+      "raw_hot": 2703816,
+      "num": 2703816,
       "word": "骨兰变成了东方青苍",
       "onboard_time": 1661695112,
       "rank": 4,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1710290,
+      "num": 912513,
+      "word": "苍兰诀 智者不入爱河",
+      "onboard_time": 1661697273,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1704929,
       "num": 1704929,
       "word": "首尔一高中因生源不足即将关闭",
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1292006,
+      "num": 366310,
+      "word": "贺峻霖两个月瘦了20斤",
+      "onboard_time": 1661699368,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1273774,
       "num": 888340,
       "word": "大爷质问家长为何给孩子穿汉服",
@@ -227,7 +243,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1262276,
+      "raw_hot": 1263897,
       "num": 1262276,
       "word": "苍兰诀编剧",
       "onboard_time": 1661695893,
@@ -427,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 904475,
+      "num": 904475,
+      "word": "重庆下雨",
+      "onboard_time": 1661695232,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888187,
       "num": 888187,
       "word": "成都疫情防控",
@@ -499,14 +523,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 811576,
-      "num": 811576,
-      "word": "重庆下雨",
-      "onboard_time": 1661695232,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 747781,
       "num": 455938,
       "word": "张栋梁星星的约定路透",
@@ -553,6 +569,14 @@
       "onboard_time": 1661685686,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 701707,
+      "num": 307008,
+      "word": "苍兰诀 不要烂尾",
+      "onboard_time": 1661697932,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 700560,
@@ -699,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588619,
+      "num": 296075,
+      "word": "任敏中国风水下舞蹈",
+      "onboard_time": 1661698471,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585863,
       "num": 339250,
       "word": "严浩翔脸链造型",
@@ -835,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 499791,
-      "num": 253966,
-      "word": "苍兰诀 智者不入爱河",
-      "onboard_time": 1661697273,
+      "raw_hot": 505448,
+      "num": 202587,
+      "word": "刘耀文脸链",
+      "onboard_time": 1661699069,
       "rank": 30,
-      "category": "影视"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491617,
@@ -947,7 +979,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 445505,
+      "raw_hot": 450431,
       "num": 252151,
       "word": "吴倩说五年后是夏天赢了",
       "onboard_time": 1661696972,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1661645245,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409153,
+      "num": 341407,
+      "word": "成都市民进入公共场所须48小时核酸证明",
+      "onboard_time": 1661698773,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405936,
@@ -1107,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382063,
+      "num": 382063,
+      "word": "录取通知书被毁能否进校门",
+      "onboard_time": 1661692472,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 381792,
       "num": 381792,
       "word": "明星们的嘴巴是装了刹车吗",
@@ -1136,6 +1184,14 @@
       "word": "王一博冰雨火战损妆剧照",
       "onboard_time": 1661684007,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373714,
+      "num": 143143,
+      "word": "一起同过窗",
+      "onboard_time": 1661699430,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1235,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337068,
+      "num": 142169,
+      "word": "二十年后还是被勇气感动了",
+      "onboard_time": 1661698171,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 335656,
       "num": 335656,
       "word": "这麻婆豆腐也太费米饭了",
@@ -1273,6 +1337,22 @@
       "onboard_time": 1661665469,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323686,
+      "num": 323686,
+      "word": "上海昨日新增本土无症状8例",
+      "onboard_time": 1661695054,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323584,
+      "num": 323584,
+      "word": "女子火锅配冰奶茶上吐下泻碱中毒",
+      "onboard_time": 1661699311,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323091,
@@ -1321,14 +1401,6 @@
       "onboard_time": 1661689350,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315398,
-      "num": 315398,
-      "word": "录取通知书被毁能否进校门",
-      "onboard_time": 1661692472,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 313339,
@@ -1443,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282799,
+      "num": 282799,
+      "word": "美登月火箭发射台遭雷击",
+      "onboard_time": 1661693972,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282723,
       "num": 282723,
       "word": "北京WB",
@@ -1483,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279221,
+      "num": 279221,
+      "word": "在重庆有一种感动叫双向奔赴",
+      "onboard_time": 1661696552,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 277550,
       "num": 277550,
       "word": "檀健次郑秀妍好默契",
@@ -1521,22 +1609,6 @@
       "onboard_time": 1661651309,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268722,
-      "num": 268722,
-      "word": "上海昨日新增本土无症状8例",
-      "onboard_time": 1661695054,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268458,
-      "num": 268458,
-      "word": "美登月火箭发射台遭雷击",
-      "onboard_time": 1661693972,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267172,
@@ -2019,14 +2091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183591,
-      "num": 183591,
-      "word": "在重庆有一种感动叫双向奔赴",
-      "onboard_time": 1661696552,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 182496,
       "num": 173012,
       "word": "网传星汉灿烂下周庆功宴",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1661665408,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "这是什么百万转场",
+      "onboard_time": 1661697212,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 175102,
@@ -2089,6 +2161,14 @@
       "onboard_time": 1661614774,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172682,
+      "num": 172682,
+      "word": "95后小伙瞒着家人到重庆救火",
+      "onboard_time": 1661698832,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 170316,
@@ -2227,6 +2307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "间谍过家家第二季度海报",
+      "onboard_time": 1661699131,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 139390,
       "num": 139390,
       "word": "北京天空再现绝美朝霞",
@@ -2299,12 +2387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113699,
-      "num": 113699,
-      "word": "这是什么百万转场",
-      "onboard_time": 1661697212,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 113874,
+      "num": 113874,
+      "word": "动物园灰鹦鹉被逗后说脏话骂游客",
+      "onboard_time": 1661699672,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112523,
@@ -2345,6 +2433,14 @@
       "onboard_time": 1661600848,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107869,
+      "num": 107869,
+      "word": "台州是糯叽叽的天堂",
+      "onboard_time": 1661700029,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 106935,
