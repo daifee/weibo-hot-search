@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661701210018,
+  "endTime": 1661704153671,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -5185,6 +5185,14 @@
       "onboard_time": 1660375768,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1798016,
+      "num": 1798016,
+      "word": "女子火锅配冰奶茶上吐下泻碱中毒",
+      "onboard_time": 1661699311,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1797891,
@@ -11235,6 +11243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1076297,
+      "num": 1076297,
+      "word": "不为什么",
+      "onboard_time": 1661701229,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1075516,
       "num": 1075516,
       "word": "官方辟谣上海前滩出现猴痘",
@@ -11913,14 +11929,6 @@
       "onboard_time": 1659842733,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1027424,
-      "num": 1027424,
-      "word": "女子火锅配冰奶茶上吐下泻碱中毒",
-      "onboard_time": 1661699311,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1026129,
@@ -27995,6 +28003,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478463,
+      "num": 478463,
+      "word": "95后小伙瞒着家人到重庆救火",
+      "onboard_time": 1661698832,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 478362,
       "num": 253754,
       "word": "披荆斩棘第二季开播",
@@ -33225,6 +33241,14 @@
       "onboard_time": 1659503645,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 409210,
+      "num": 409210,
+      "word": "台州是糯叽叽的天堂",
+      "onboard_time": 1661700029,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 409207,
@@ -43451,6 +43475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313497,
+      "num": 313497,
+      "word": "动物园灰鹦鹉被逗后说脏话骂游客",
+      "onboard_time": 1661699672,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313339,
       "num": 313339,
       "word": "重庆南坪疫情防控",
@@ -48635,6 +48667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266081,
+      "num": 119988,
+      "word": "张真源瑜舞台rap",
+      "onboard_time": 1661703982,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266019,
       "num": 266019,
       "word": "再吓就不礼貌了",
@@ -49353,6 +49393,14 @@
       "onboard_time": 1661394452,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 260190,
+      "num": 87919,
+      "word": "0713中秋晚会合体路透",
+      "onboard_time": 1661703084,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 260158,
@@ -50585,6 +50633,14 @@
       "onboard_time": 1661687608,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249574,
+      "num": 87852,
+      "word": "newjeans新歌获人歌一位",
+      "onboard_time": 1661701708,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 249547,
@@ -54163,14 +54219,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 219645,
-      "num": 219645,
-      "word": "台州是糯叽叽的天堂",
-      "onboard_time": 1661700029,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 219587,
       "num": 225950,
       "word": "原神须弥直播",
@@ -54995,14 +55043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212323,
-      "num": 212323,
-      "word": "95后小伙瞒着家人到重庆救火",
-      "onboard_time": 1661698832,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 212282,
       "num": 212282,
       "word": "这个世界不能没有傻狗",
@@ -55177,6 +55217,14 @@
       "onboard_time": 1661483436,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210382,
+      "num": 210382,
+      "word": "间谍过家家第二季度海报",
+      "onboard_time": 1661699131,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 210312,
@@ -55457,14 +55505,6 @@
       "onboard_time": 1660315117,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207608,
-      "num": 207608,
-      "word": "动物园灰鹦鹉被逗后说脏话骂游客",
-      "onboard_time": 1661699672,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207285,
@@ -58969,14 +59009,6 @@
       "onboard_time": 1660148308,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170913,
-      "num": 170913,
-      "word": "间谍过家家第二季度海报",
-      "onboard_time": 1661699131,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 170908,
@@ -62939,6 +62971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83595,
+      "num": 83595,
+      "word": "陕西肉夹馍在台中夜市一馍难求",
+      "onboard_time": 1661703506,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 83064,
       "num": 83064,
       "word": "剑网3十三周年",
@@ -63081,6 +63121,14 @@
       "onboard_time": 1661490397,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74619,
+      "num": 74619,
+      "word": "剑网三",
+      "onboard_time": 1661700330,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 74607,
