@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661694262191,
+  "endTime": 1661696364052,
   "band_list": [
     {
       "raw_hot": 4098448,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2442746,
+      "num": 2442746,
+      "word": "成都疫情处于快速上升阶段",
+      "onboard_time": 1661692232,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2437153,
       "num": 1834499,
       "word": "公厕里的洗手液有多脏",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2343755,
-      "num": 1326765,
+      "num": 1560537,
       "word": "蔡徐坤把拴Q说成了3Q",
       "onboard_time": 1661689649,
       "rank": 5,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1881401,
-      "num": 1071948,
+      "num": 1615179,
       "word": "苍兰诀大结局预告",
       "onboard_time": 1661691090,
       "rank": 20,
@@ -139,20 +147,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1609128,
-      "num": 1609128,
-      "word": "成都疫情处于快速上升阶段",
-      "onboard_time": 1661692232,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1553688,
       "num": 536095,
       "word": "男子离异后发现儿子变侄子",
       "onboard_time": 1661664629,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1541729,
+      "num": 1541729,
+      "word": "骨兰变成了东方青苍",
+      "onboard_time": 1661695112,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1415492,
@@ -193,6 +201,22 @@
       "onboard_time": 1661689767,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1312132,
+      "num": 511198,
+      "word": "男子离婚两年后前妻告知儿子非亲生",
+      "onboard_time": 1661691510,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310491,
+      "num": 508004,
+      "word": "丹音",
+      "onboard_time": 1661694390,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1273774,
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 989199,
-      "num": 434598,
-      "word": "男子离婚两年后前妻告知儿子非亲生",
-      "onboard_time": 1661691510,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 989105,
       "num": 989105,
       "word": "台媒称金门岗哨再次发现大陆无人机",
@@ -395,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 928818,
+      "num": 370251,
+      "word": "月升沧海吴磊赵露思单手抱花絮",
+      "onboard_time": 1661693670,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 888187,
       "num": 888187,
       "word": "成都疫情防控",
@@ -441,6 +465,14 @@
       "onboard_time": 1661673688,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 832836,
+      "num": 367163,
+      "word": "息山神女长珩大婚",
+      "onboard_time": 1661694570,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 819330,
@@ -579,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 633654,
-      "num": 367368,
-      "word": "月升沧海吴磊赵露思单手抱花絮",
-      "onboard_time": 1661693670,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 630228,
       "num": 630228,
       "word": "老外未戴口罩进公园被驱逐",
@@ -659,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 580455,
+      "num": 229333,
+      "word": "苍兰诀编剧",
+      "onboard_time": 1661695893,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573145,
       "num": 573145,
       "word": "多例病例在返京途中感染",
@@ -675,12 +707,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 561483,
+      "num": 561483,
+      "word": "男子为证明自己的化学天赋自学制毒",
+      "onboard_time": 1661686286,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559457,
       "num": 559457,
       "word": "可以食用鳄雀鳝吗",
       "onboard_time": 1661650709,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559156,
+      "num": 559156,
+      "word": "Viper",
+      "onboard_time": 1661692830,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 557409,
@@ -695,14 +743,6 @@
       "num": 501643,
       "word": "2男子高铁车厢内因打电话互殴",
       "onboard_time": 1661653707,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537378,
-      "num": 537378,
-      "word": "男子为证明自己的化学天赋自学制毒",
-      "onboard_time": 1661686286,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -747,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517867,
+      "num": 517867,
+      "word": "这excel算是被玩明白了",
+      "onboard_time": 1661693611,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 512867,
       "num": 512867,
       "word": "EDG 冒泡赛",
@@ -771,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498117,
+      "num": 498117,
+      "word": "重庆下雨",
+      "onboard_time": 1661695232,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491617,
       "num": 491617,
       "word": "于文文唐人街中的点点乡愁",
@@ -793,6 +849,14 @@
       "onboard_time": 1661670989,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476018,
+      "num": 226555,
+      "word": "洪知秀权顺荣二次感染新冠",
+      "onboard_time": 1661695531,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 475563,
@@ -947,12 +1011,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 400750,
-      "num": 400750,
-      "word": "Viper",
-      "onboard_time": 1661692830,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 401900,
+      "num": 169255,
+      "word": "刘耀文瑜镜头感",
+      "onboard_time": 1661694633,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 397805,
+      "num": 397805,
+      "word": "平台回应通缉犯的抓捕赏金仅4元",
+      "onboard_time": 1661691331,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397168,
@@ -961,14 +1033,6 @@
       "onboard_time": 1661664811,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395954,
-      "num": 395954,
-      "word": "平台回应通缉犯的抓捕赏金仅4元",
-      "onboard_time": 1661691331,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395636,
@@ -1147,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335656,
+      "num": 335656,
+      "word": "这麻婆豆腐也太费米饭了",
+      "onboard_time": 1661691331,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 335343,
       "num": 314682,
       "word": "蔡徐坤校园版hugme",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1661665469,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323091,
+      "num": 323091,
+      "word": "四川话完全恐怖不起来",
+      "onboard_time": 1661690729,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 321387,
@@ -1267,22 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303800,
-      "num": 303800,
-      "word": "四川话完全恐怖不起来",
-      "onboard_time": 1661690729,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 303743,
-      "num": 303743,
-      "word": "这麻婆豆腐也太费米饭了",
-      "onboard_time": 1661691331,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 294491,
       "num": 294491,
       "word": "苍兰诀结黎觞阙甜不过两集",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1661633591,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287113,
+      "num": 287113,
+      "word": "轰6K巡航台岛常态化",
+      "onboard_time": 1661694512,
+      "rank": 26,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 286993,
@@ -1635,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231850,
+      "num": 231850,
+      "word": "张朝阳给大学生推荐碎片化学习法",
+      "onboard_time": 1661690967,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231706,
       "num": 231706,
       "word": "人们为什么衷于虚拟社交",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1661623096,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221976,
+      "num": 221976,
+      "word": "美登月火箭发射台遭雷击",
+      "onboard_time": 1661693972,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221529,
@@ -1795,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198550,
+      "num": 198550,
+      "word": "录取通知书被毁能否进校门",
+      "onboard_time": 1661692472,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 197514,
       "num": 197514,
       "word": "他多看一眼路牌救下一条命",
@@ -1833,14 +1929,6 @@
       "onboard_time": 1661599530,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 191671,
-      "num": 191671,
-      "word": "这excel算是被玩明白了",
-      "onboard_time": 1661693611,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 187826,
@@ -1955,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172320,
+      "num": 172320,
+      "word": "上海昨日新增本土无症状8例",
+      "onboard_time": 1661695054,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170316,
       "num": 170316,
       "word": "当我们全家一起看沉香如屑",
@@ -1985,14 +2081,6 @@
       "onboard_time": 1661608955,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159810,
-      "num": 159810,
-      "word": "张朝阳给大学生推荐碎片化学习法",
-      "onboard_time": 1661690967,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158041,
@@ -2131,28 +2219,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129554,
-      "num": 129554,
-      "word": "美登月火箭发射台遭雷击",
-      "onboard_time": 1661693972,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128974,
       "num": 128974,
       "word": "消防员说第一次在救火现场吃冰棍",
       "onboard_time": 1661598809,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 123515,
-      "num": 123515,
-      "word": "录取通知书被毁能否进校门",
-      "onboard_time": 1661692472,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 123317,
@@ -2388,7 +2460,7 @@
     },
     {
       "raw_hot": 13547,
-      "num": 424808,
+      "num": 506327,
       "word": "不放肆能叫热爱吗",
       "onboard_time": 1661692350,
       "rank": 14,
