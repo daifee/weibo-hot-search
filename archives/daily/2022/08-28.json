@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661655853192,
+  "endTime": 1661660051564,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -43,6 +43,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1247776,
+      "num": 1247776,
+      "word": "刘翔峰或被终身禁业",
+      "onboard_time": 1661654309,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175748,
       "num": 1175748,
       "word": "虞书欣镜头外还在哭",
@@ -73,6 +81,14 @@
       "onboard_time": 1661611715,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 989105,
+      "num": 989105,
+      "word": "台媒称金门岗哨再次发现大陆无人机",
+      "onboard_time": 1661657128,
+      "rank": 5,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 978385,
@@ -203,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546469,
+      "num": 501643,
+      "word": "2男子高铁车厢内因打电话互殴",
+      "onboard_time": 1661653707,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535289,
       "num": 535289,
       "word": "榆林官方承认芹菜案确实存在问题",
       "onboard_time": 1661615434,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529241,
+      "num": 529241,
+      "word": "CPA会计",
+      "onboard_time": 1661658266,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 512236,
@@ -227,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488490,
-      "num": 488490,
-      "word": "刘翔峰或被终身禁业",
-      "onboard_time": 1661654309,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482801,
       "num": 270817,
       "word": "父母每月发5千留孩子在家结婚",
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459495,
+      "num": 459495,
+      "word": "河南由夏入冬只用了一周",
+      "onboard_time": 1661656466,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458644,
       "num": 458644,
       "word": "青岛一小区抓捕2条鳄雀鳝",
@@ -259,19 +291,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445079,
-      "num": 445079,
-      "word": "2男子高铁车厢内因打电话互殴",
-      "onboard_time": 1661653707,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436521,
       "num": 436521,
       "word": "昆明一小区出现鳄雀鳝",
       "onboard_time": 1661647348,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414129,
+      "num": 414129,
+      "word": "容祖儿治好了我的社恐",
+      "onboard_time": 1661656287,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 411728,
+      "num": 411728,
+      "word": "鳄雀鳝内脏尤其是卵有剧毒",
+      "onboard_time": 1661658927,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -307,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386859,
+      "num": 386859,
+      "word": "逆行司机被北京公交警方行政拘留",
+      "onboard_time": 1661657786,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381792,
       "num": 381792,
       "word": "明星们的嘴巴是装了刹车吗",
@@ -323,11 +371,27 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 359775,
+      "num": 359775,
+      "word": "范丞丞闯祸后假装无事发生",
+      "onboard_time": 1661657427,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337508,
       "num": 254850,
       "word": "朱正廷说吃完妈妈的菜进医院了",
       "onboard_time": 1661616391,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335343,
+      "num": 314682,
+      "word": "蔡徐坤校园版hugme",
+      "onboard_time": 1661659466,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -337,6 +401,14 @@
       "onboard_time": 1661648067,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319596,
+      "num": 319596,
+      "word": "LCK",
+      "onboard_time": 1661655146,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 317564,
@@ -353,6 +425,22 @@
       "onboard_time": 1661652569,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310937,
+      "num": 310937,
+      "word": "吴克群上厕所BGM是张震岳弹的",
+      "onboard_time": 1661657786,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304892,
+      "num": 304892,
+      "word": "林柏叡的名字怎么读",
+      "onboard_time": 1661659948,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 303889,
@@ -395,12 +483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282422,
+      "num": 282422,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1661658385,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280350,
       "num": 280350,
       "word": "重庆疫情防控",
       "onboard_time": 1661654847,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278669,
+      "num": 212086,
+      "word": "苍兰诀结黎觞阙甜不过两集",
+      "onboard_time": 1661657548,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 277550,
@@ -427,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267172,
+      "num": 212066,
+      "word": "丁禹兮把杨贵妃猜成羊会飞",
+      "onboard_time": 1661656827,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264388,
       "num": 264388,
       "word": "天津疫情防控",
@@ -449,6 +561,14 @@
       "onboard_time": 1661654548,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242100,
+      "num": 242100,
+      "word": "开学焦虑在焦虑些什么",
+      "onboard_time": 1661659766,
+      "rank": 28,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 241498,
@@ -515,20 +635,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221064,
-      "num": 221064,
-      "word": "LCK",
-      "onboard_time": 1661655146,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215868,
       "num": 215868,
       "word": "河北新增无症状感染者29例",
       "onboard_time": 1661647348,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212195,
+      "num": 212195,
+      "word": "高价文具值不值得买",
+      "onboard_time": 1661659646,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 210544,
@@ -547,12 +667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "GEN对战T1",
+      "onboard_time": 1661659048,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194241,
       "num": 194241,
       "word": "女护士用男友手背练习扎针",
       "onboard_time": 1661599530,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 187442,
+      "num": 187442,
+      "word": "这小狗还练上瑜伽了",
+      "onboard_time": 1661655027,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 187054,
@@ -585,6 +721,14 @@
       "onboard_time": 1661647407,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174901,
+      "num": 174901,
+      "word": "收废品阿姨无偿照顾陌生老人16年",
+      "onboard_time": 1661658565,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174246,
@@ -625,14 +769,6 @@
       "onboard_time": 1661640736,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166230,
-      "num": 166230,
-      "word": "这小狗还练上瑜伽了",
-      "onboard_time": 1661655027,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 165687,
@@ -683,6 +819,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147408,
+      "num": 147408,
+      "word": "近百头白唇鹿现身三江源",
+      "onboard_time": 1661654788,
+      "rank": 46,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 144503,
+      "num": 144503,
+      "word": "中国这十年看河南",
+      "onboard_time": 1661659466,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141651,
       "num": 141651,
       "word": "语文老师的浪漫",
@@ -707,12 +859,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 139164,
-      "num": 139164,
-      "word": "近百头白唇鹿现身三江源",
-      "onboard_time": 1661654788,
-      "rank": 46,
-      "category": "社会新闻,旅游"
+      "raw_hot": 134945,
+      "num": 134945,
+      "word": "刘翔峰涉嫌严重违法接受监察调查",
+      "onboard_time": 1661656107,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133579,
@@ -808,6 +960,14 @@
       "word": "辅警发现路牌歪了救人一命",
       "onboard_time": 1661597551,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84094,
+      "num": 1648674,
+      "word": "八音盒变装下的守护者",
+      "onboard_time": 1661657008,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -921,6 +1081,9 @@
     },
     {
       "word": "#网络强国这十年#"
+    },
+    {
+      "word": "#聚焦中国网络文明大会#"
     }
   ]
 }
