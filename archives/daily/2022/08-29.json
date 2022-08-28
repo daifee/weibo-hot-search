@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661708299489,
+  "endTime": 1661711188778,
   "band_list": [
     {
       "raw_hot": 1798016,
@@ -419,12 +419,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60143,
+      "num": 37298,
+      "word": "王子文吴永恩考拉抱",
+      "onboard_time": 1661689767,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56606,
       "num": 56606,
       "word": "公厕里的洗手液有多脏",
       "onboard_time": 1661666787,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45982,
+      "num": 30788,
+      "word": "如何评价朱一龙演技",
+      "onboard_time": 1661704163,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 38124,

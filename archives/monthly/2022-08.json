@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661708299489,
+  "endTime": 1661711188778,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -63593,6 +63593,14 @@
       "onboard_time": 1660073773,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 45982,
+      "num": 30788,
+      "word": "如何评价朱一龙演技",
+      "onboard_time": 1661704163,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 45338,
