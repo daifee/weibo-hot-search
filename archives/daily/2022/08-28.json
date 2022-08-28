@@ -1,6 +1,6 @@
 {
   "startTime": 1661617736504,
-  "endTime": 1661664684379,
+  "endTime": 1661665492647,
   "band_list": [
     {
       "raw_hot": 2993419,
@@ -27,6 +27,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1906800,
+      "num": 1906800,
+      "word": "iPhone14ProMax或9999起",
+      "onboard_time": 1661661627,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1769751,
       "num": 363419,
       "word": "被误诊艾滋病5年当事人发声",
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1768963,
-      "num": 1768963,
-      "word": "iPhone14ProMax或9999起",
-      "onboard_time": 1661661627,
-      "rank": 0,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1736759,
       "num": 1736759,
       "word": "鳄雀鳝内脏尤其是卵有剧毒",
       "onboard_time": 1661658927,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1716278,
+      "num": 1716278,
+      "word": "彩票中奖1000万有资格辞职吗",
+      "onboard_time": 1661663069,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1704929,
@@ -73,14 +81,6 @@
       "onboard_time": 1661604031,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1119682,
-      "num": 1119682,
-      "word": "彩票中奖1000万有资格辞职吗",
-      "onboard_time": 1661663069,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1052050,
@@ -139,6 +139,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 902682,
+      "num": 902682,
+      "word": "劳荣枝48次有罪供述后辩称被胁迫",
+      "onboard_time": 1661662770,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846065,
+      "num": 846065,
+      "word": "草丛露出一双脚竟拔出一位大爷",
+      "onboard_time": 1661662288,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841492,
       "num": 841492,
       "word": "大一新生携2米高盆栽开学",
@@ -163,20 +179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 717145,
+      "num": 717145,
+      "word": "我的精神内耗突然就好了",
+      "onboard_time": 1661660908,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 703283,
       "num": 703283,
       "word": "成都疫情防控",
       "onboard_time": 1661650946,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 701979,
-      "num": 701979,
-      "word": "我的精神内耗突然就好了",
-      "onboard_time": 1661660908,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 698752,
@@ -219,12 +235,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 601726,
-      "num": 601726,
-      "word": "草丛露出一双脚竟拔出一位大爷",
-      "onboard_time": 1661662288,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 612187,
+      "num": 612187,
+      "word": "王一博火锅局高端玩家",
+      "onboard_time": 1661664387,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 589603,
@@ -272,14 +288,6 @@
       "word": "2男子高铁车厢内因打电话互殴",
       "onboard_time": 1661653707,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545726,
-      "num": 545726,
-      "word": "劳荣枝48次有罪供述后辩称被胁迫",
-      "onboard_time": 1661662770,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1661657786,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463446,
-      "num": 463446,
-      "word": "王一博火锅局高端玩家",
-      "onboard_time": 1661664387,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 459495,
@@ -443,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 381549,
+      "num": 381549,
+      "word": "心动的信号",
+      "onboard_time": 1661664211,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375202,
       "num": 375202,
       "word": "再身材焦虑就过分了",
@@ -473,6 +481,38 @@
       "onboard_time": 1661657427,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358873,
+      "num": 358873,
+      "word": "越来越多人不爱去5A景区",
+      "onboard_time": 1661663012,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 354142,
+      "num": 354142,
+      "word": "蔡徐坤单膝跪地握手",
+      "onboard_time": 1661664811,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 343771,
+      "num": 343771,
+      "word": "男子离异后发现儿子变侄子",
+      "onboard_time": 1661664629,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339426,
+      "num": 339426,
+      "word": "消防员的皮卡都被山城人投喂了",
+      "onboard_time": 1661662106,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337508,
@@ -528,6 +568,14 @@
       "word": "重庆南坪疫情防控",
       "onboard_time": 1661652569,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309089,
+      "num": 309089,
+      "word": "老外未戴口罩进公园被驱逐",
+      "onboard_time": 1661663611,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -595,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280902,
+      "num": 280902,
+      "word": "9岁女童暑期承包妈妈一日三餐",
+      "onboard_time": 1661662169,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280350,
       "num": 280350,
       "word": "重庆疫情防控",
@@ -609,14 +665,6 @@
       "onboard_time": 1661645003,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273771,
-      "num": 273771,
-      "word": "9岁女童暑期承包妈妈一日三餐",
-      "onboard_time": 1661662169,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271078,
@@ -651,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257517,
-      "num": 257517,
-      "word": "越来越多人不爱去5A景区",
-      "onboard_time": 1661663012,
-      "rank": 25,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 253825,
       "num": 227261,
       "word": "王勉说自己吃林依轮做的饭长大的",
@@ -681,14 +721,6 @@
       "onboard_time": 1661659766,
       "rank": 28,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 241840,
-      "num": 241840,
-      "word": "消防员的皮卡都被山城人投喂了",
-      "onboard_time": 1661662106,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241498,
@@ -777,22 +809,6 @@
       "onboard_time": 1661606432,
       "rank": 2,
       "category": "社会新闻,国内要闻"
-    },
-    {
-      "raw_hot": 206060,
-      "num": 206060,
-      "word": "老外未戴口罩进公园被驱逐",
-      "onboard_time": 1661663611,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204680,
-      "num": 204680,
-      "word": "心动的信号",
-      "onboard_time": 1661664211,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 204499,
@@ -897,6 +913,14 @@
       "onboard_time": 1661614774,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170316,
+      "num": 170316,
+      "word": "当我们全家一起看沉香如屑",
+      "onboard_time": 1661665288,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 169538,
@@ -1035,12 +1059,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131255,
+      "num": 102986,
+      "word": "虞书欣一滴泪故事感",
+      "onboard_time": 1661665469,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128974,
       "num": 128974,
       "word": "消防员说第一次在救火现场吃冰棍",
       "onboard_time": 1661598809,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 127597,
+      "num": 127597,
+      "word": "厦门疫情防控",
+      "onboard_time": 1661664446,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123317,
@@ -1067,22 +1107,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 110462,
-      "num": 110462,
-      "word": "厦门疫情防控",
-      "onboard_time": 1661664446,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109114,
-      "num": 109114,
-      "word": "男子离异后发现儿子变侄子",
-      "onboard_time": 1661664629,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108086,
       "num": 108086,
       "word": "懒人为了做月饼有多拼",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1661610036,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105596,
+      "num": 105596,
+      "word": "文具为什么越来越贵了",
+      "onboard_time": 1661665408,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104176,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661665492647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1906800,
+        "num": 1906800,
+        "word": "iPhone14ProMax或9999起",
+        "onboard_time": 1661661627,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1716278,
+        "num": 1716278,
+        "word": "彩票中奖1000万有资格辞职吗",
+        "onboard_time": 1661663069,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 65064,
+        "num": 1495755,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297948,
+        "num": 1297948,
+        "word": "鳄雀鳝内脏尤其是卵有剧毒",
+        "onboard_time": 1661658927,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058596,
+        "num": 1058596,
+        "word": "公司要求一旦怀孕自动离职",
+        "onboard_time": 1661613394,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902682,
+        "num": 902682,
+        "word": "劳荣枝48次有罪供述后辩称被胁迫",
+        "onboard_time": 1661662770,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890034,
+        "num": 890034,
+        "word": "priest是兼职作者",
+        "onboard_time": 1661654064,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 846065,
+        "num": 846065,
+        "word": "草丛露出一双脚竟拔出一位大爷",
+        "onboard_time": 1661662288,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717145,
+        "num": 717145,
+        "word": "我的精神内耗突然就好了",
+        "onboard_time": 1661660908,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 612187,
+        "num": 612187,
+        "word": "王一博火锅局高端玩家",
+        "onboard_time": 1661664387,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550388,
+        "num": 550388,
+        "word": "一支中性笔卖55元",
+        "onboard_time": 1661651066,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506551,
+        "num": 506551,
+        "word": "应渊唐周随爹了但不多",
+        "onboard_time": 1661662229,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408868,
+        "num": 408868,
+        "word": "夫妻俩卖20元芹菜被罚6万6",
+        "onboard_time": 1661644643,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399791,
+        "num": 399791,
+        "word": "四川宜宾连天山深夜突发山火",
+        "onboard_time": 1661661446,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394333,
+        "num": 394333,
+        "word": "林柏叡的名字怎么读",
+        "onboard_time": 1661659948,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392691,
+        "num": 392691,
+        "word": "无畏好一个五米大帅哥",
+        "onboard_time": 1661661566,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388414,
+        "num": 388414,
+        "word": "刘翔峰或被终身禁业",
+        "onboard_time": 1661654309,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381549,
+        "num": 381549,
+        "word": "心动的信号",
+        "onboard_time": 1661664211,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358873,
+        "num": 358873,
+        "word": "越来越多人不爱去5A景区",
+        "onboard_time": 1661663012,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 356688,
+        "num": 356688,
+        "word": "魏晨你好星期六再唱少年游",
+        "onboard_time": 1661661627,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354142,
+        "num": 354142,
+        "word": "蔡徐坤单膝跪地握手",
+        "onboard_time": 1661664811,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343771,
+        "num": 343771,
+        "word": "男子离异后发现儿子变侄子",
+        "onboard_time": 1661664629,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339426,
+        "num": 339426,
+        "word": "消防员的皮卡都被山城人投喂了",
+        "onboard_time": 1661662106,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309089,
+        "num": 309089,
+        "word": "老外未戴口罩进公园被驱逐",
+        "onboard_time": 1661663611,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280902,
+        "num": 280902,
+        "word": "9岁女童暑期承包妈妈一日三餐",
+        "onboard_time": 1661662169,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278001,
+        "num": 278001,
+        "word": "首尔一高中因生源不足即将关闭",
+        "onboard_time": 1661650469,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 249425,
+        "num": 249425,
+        "word": "被误诊艾滋病5年当事人发声",
+        "onboard_time": 1661607992,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237416,
+        "num": 237416,
+        "word": "河南由夏入冬只用了一周",
+        "onboard_time": 1661656466,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226203,
+        "num": 226203,
+        "word": "逆行司机被北京公交警方行政拘留",
+        "onboard_time": 1661657786,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224501,
+        "num": 224501,
+        "word": "沈腾主演票房破250亿",
+        "onboard_time": 1661653646,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219278,
+        "num": 219278,
+        "word": "收废品阿姨无偿照顾陌生老人16年",
+        "onboard_time": 1661658565,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 210202,
+        "num": 210202,
+        "word": "GEN对战T1",
+        "onboard_time": 1661659048,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "姚译添输给嗨放派全员一套房",
+        "onboard_time": 1661663968,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188050,
+        "num": 188050,
+        "word": "研究表明第五种力或不存在",
+        "onboard_time": 1661660966,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 183386,
+        "num": 183386,
+        "word": "世界在坍塌 我们在相爱",
+        "onboard_time": 1661613032,
+        "rank": 34,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 176829,
+        "num": 176829,
+        "word": "德州新增本土无症状感染者4例",
+        "onboard_time": 1661660426,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179636,
+        "num": 175543,
+        "word": "东方青苍事业粉",
+        "onboard_time": 1661651487,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173107,
+        "num": 173107,
+        "word": "吴克群上厕所BGM是张震岳弹的",
+        "onboard_time": 1661657786,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171056,
+        "num": 171056,
+        "word": "2男子高铁车厢内因打电话互殴",
+        "onboard_time": 1661653707,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 170316,
+        "word": "当我们全家一起看沉香如屑",
+        "onboard_time": 1661665288,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170282,
+        "num": 170282,
+        "word": "成都疫情防控",
+        "onboard_time": 1661650946,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "重庆女娃连续5天骑行送救火物资",
+        "onboard_time": 1661647887,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "苍兰诀 预告",
+        "onboard_time": 1661648067,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129051,
+        "num": 129051,
+        "word": "CPA会计",
+        "onboard_time": 1661658266,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127597,
+        "num": 127597,
+        "word": "厦门疫情防控",
+        "onboard_time": 1661664446,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105596,
+        "num": 105596,
+        "word": "文具为什么越来越贵了",
+        "onboard_time": 1661665408,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103019,
+        "num": 103019,
+        "word": "大一新生携2米高盆栽开学",
+        "onboard_time": 1661643139,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 131255,
+        "num": 102986,
+        "word": "虞书欣一滴泪故事感",
+        "onboard_time": 1661665469,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100281,
+        "num": 100281,
+        "word": "女孩报警妈妈太凶爸爸解围反被吐槽",
+        "onboard_time": 1661646987,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99058,
+        "num": 99058,
+        "word": "官兵借宿学校走前还帮忙刷了墙",
+        "onboard_time": 1661653288,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦中国网络文明大会#"
+    }
+  }
+}
