@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661771992291,
+  "endTime": 1661772965628,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1361598,
+      "num": 1361598,
+      "word": "30岁未婚女生立遗嘱遗产给妈妈",
+      "onboard_time": 1661769751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1299926,
       "num": 1299926,
       "word": "河北纪委",
@@ -225,6 +233,14 @@
       "onboard_time": 1661742272,
       "rank": 22,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 1214845,
+      "num": 659844,
+      "word": "赵立坚称曾在微博发现中国公民求助",
+      "onboard_time": 1661770232,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1175436,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064000,
+      "num": 546774,
+      "word": "王祖蓝李亚男一家四口首封",
+      "onboard_time": 1661771309,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1054428,
       "num": 1054428,
       "word": "密室大逃脱",
@@ -297,14 +321,6 @@
       "onboard_time": 1661763389,
       "rank": 16,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1019917,
-      "num": 1019917,
-      "word": "30岁未婚女生立遗嘱遗产给妈妈",
-      "onboard_time": 1661769751,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1008297,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 777962,
+      "num": 777962,
+      "word": "梁爽直播口误",
+      "onboard_time": 1661770591,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 774292,
       "num": 774292,
       "word": "营养专家从来不吃的零食",
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695723,
-      "num": 695723,
-      "word": "梁爽直播口误",
-      "onboard_time": 1661770591,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 683554,
       "num": 683554,
       "word": "海清 隐入尘烟",
@@ -489,14 +505,6 @@
       "onboard_time": 1661752889,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 659844,
-      "num": 659844,
-      "word": "赵立坚称曾在微博发现中国公民求助",
-      "onboard_time": 1661770232,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 658272,
@@ -771,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461726,
-      "num": 327255,
-      "word": "王祖蓝李亚男一家四口首封",
-      "onboard_time": 1661771309,
-      "rank": 22,
-      "category": "作品衍生,时尚"
+      "raw_hot": 459486,
+      "num": 308776,
+      "word": "苍兰诀",
+      "onboard_time": 1661746593,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 459332,
@@ -843,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436195,
+      "num": 254572,
+      "word": "不舍得看苍兰诀大结局",
+      "onboard_time": 1661771430,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428049,
       "num": 323222,
       "word": "吴倩说五年后是夏天赢了",
@@ -881,14 +897,6 @@
       "onboard_time": 1661738973,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414552,
-      "num": 308776,
-      "word": "苍兰诀",
-      "onboard_time": 1661746593,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 411897,
@@ -1131,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334318,
+      "num": 253996,
+      "word": "王一博陈宇的汇报用词",
+      "onboard_time": 1661772690,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321589,
       "num": 321589,
       "word": "男子被网恋女网友爽约醉驾出车祸",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1661748811,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299933,
+      "num": 234762,
+      "word": "杨戬官博向原创者道歉",
+      "onboard_time": 1661772271,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 299203,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1661739213,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274169,
+      "num": 274169,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1661771430,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 272831,
@@ -1379,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254922,
+      "num": 254922,
+      "word": "男孩截胡爸爸的啤酒鸭当宠物养",
+      "onboard_time": 1661771489,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252824,
       "num": 252824,
       "word": "王嘉尔加盟中国说唱巅峰对决",
@@ -1435,12 +1475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 239995,
-      "num": 192195,
-      "word": "不舍得看苍兰诀大结局",
-      "onboard_time": 1661771430,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 238857,
+      "num": 238857,
+      "word": "如何看待华为PC逆势增长",
+      "onboard_time": 1661770711,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 236033,
@@ -1523,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205217,
+      "num": 205217,
+      "word": "丁彦雨航正式加盟上海男篮",
+      "onboard_time": 1661772031,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204041,
       "num": 204041,
       "word": "周一被迫上班的你",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1661735679,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197517,
-      "num": 197517,
-      "word": "中国女排vs日本女排",
-      "onboard_time": 1661771430,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 197333,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1661764349,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 181344,
-      "num": 181344,
-      "word": "如何看待华为PC逆势增长",
-      "onboard_time": 1661770711,
-      "rank": 43,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 179925,
@@ -1763,11 +1795,11 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 143060,
-      "num": 143060,
-      "word": "男孩截胡爸爸的啤酒鸭当宠物养",
-      "onboard_time": 1661771489,
-      "rank": 47,
+      "raw_hot": 144684,
+      "num": 144684,
+      "word": "4岁血癌女孩肝脾肿大腹胀如球",
+      "onboard_time": 1661772510,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1825,6 +1857,14 @@
       "onboard_time": 1661689407,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124116,
+      "num": 124116,
+      "word": "3D潮汐",
+      "onboard_time": 1661772632,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 121984,
