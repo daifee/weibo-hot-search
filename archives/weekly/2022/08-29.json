@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661768735367,
+  "endTime": 1661769821921,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735841,
+      "num": 735841,
+      "word": "河南村镇银行案已逮捕234人",
+      "onboard_time": 1661765251,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733216,
       "num": 733216,
       "word": "华为Mate50",
@@ -432,14 +440,6 @@
       "word": "陈某志10年参与刑事犯罪11起",
       "onboard_time": 1661736755,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709629,
-      "num": 709629,
-      "word": "河南村镇银行案已逮捕234人",
-      "onboard_time": 1661765251,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -587,6 +587,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 568997,
+      "num": 568997,
+      "word": "徐梦洁问到底算谁先表白的呀",
+      "onboard_time": 1661766572,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568967,
       "num": 568967,
       "word": "原神必胜客",
@@ -609,6 +617,14 @@
       "onboard_time": 1661723171,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560605,
+      "num": 560605,
+      "word": "仙侠剧最佳OST",
+      "onboard_time": 1661767291,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 558350,
@@ -641,14 +657,6 @@
       "onboard_time": 1661762007,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532602,
-      "num": 532602,
-      "word": "仙侠剧最佳OST",
-      "onboard_time": 1661767291,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 531455,
@@ -723,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 470784,
-      "num": 410079,
-      "word": "徐梦洁问到底算谁先表白的呀",
-      "onboard_time": 1661766572,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 464040,
       "num": 464040,
       "word": "大妈捡手机讹钱未果当街大闹",
@@ -801,6 +801,14 @@
       "onboard_time": 1661749353,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 431177,
+      "num": 362727,
+      "word": "INTO1组合回应",
+      "onboard_time": 1661768431,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 428049,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368045,
+      "num": 368045,
+      "word": "赵立坚说这事耸人听闻可以拍个电影",
+      "onboard_time": 1661764108,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 364200,
       "num": 290403,
       "word": "周杰伦隐藏新歌",
@@ -993,6 +1009,14 @@
       "onboard_time": 1661727858,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360514,
+      "num": 360514,
+      "word": "华中科技大学新生报到",
+      "onboard_time": 1661766993,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 359287,
@@ -1051,20 +1075,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345883,
+      "num": 280837,
+      "word": "应渊欠颜淡的拿什么还",
+      "onboard_time": 1661768792,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336696,
       "num": 163342,
       "word": "苍兰诀 太岁",
       "onboard_time": 1661697691,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 326043,
-      "num": 326043,
-      "word": "赵立坚说这事耸人听闻可以拍个电影",
-      "onboard_time": 1661764108,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 321589,
@@ -1107,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295935,
+      "num": 295935,
+      "word": "河南对村镇银行40万至50万客户开始垫付",
+      "onboard_time": 1661767891,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290422,
       "num": 290422,
       "word": "蜜雪冰城回应茶包喝出虫",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1661733269,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284856,
-      "num": 284856,
-      "word": "华中科技大学新生报到",
-      "onboard_time": 1661766993,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 282393,
@@ -1200,14 +1224,6 @@
       "word": "河南疫情防控",
       "onboard_time": 1661741370,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270585,
-      "num": 270585,
-      "word": "河南对村镇银行40万至50万客户开始垫付",
-      "onboard_time": 1661767891,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1345,14 +1361,6 @@
       "onboard_time": 1661733028,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243780,
-      "num": 196912,
-      "word": "INTO1组合回应",
-      "onboard_time": 1661768431,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 241381,
@@ -1571,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179396,
+      "num": 179396,
+      "word": "中国男排vs加拿大男排",
+      "onboard_time": 1661768612,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177984,
       "num": 177984,
       "word": "纪检机关将彻查唐山打人案保护伞",
@@ -1643,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149209,
+      "num": 149209,
+      "word": "当我妈问我养猫有啥用时",
+      "onboard_time": 1661769452,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148997,
       "num": 148997,
       "word": "腾讯会议官方回应崩了",
@@ -1699,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131618,
+      "num": 131618,
+      "word": "30岁未婚女生立遗嘱遗产给妈妈",
+      "onboard_time": 1661769751,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125846,
       "num": 125846,
       "word": "EDG 冒泡赛",
@@ -1729,14 +1761,6 @@
       "onboard_time": 1661676566,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112328,
-      "num": 112328,
-      "word": "中国男排vs加拿大男排",
-      "onboard_time": 1661768612,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 110421,
@@ -1899,7 +1923,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19657,
+      "raw_hot": 19884,
       "num": 1787957,
       "word": "英雄战士与英雄人民的双向奔赴",
       "onboard_time": 1661702785,
@@ -1919,6 +1943,9 @@
     },
     {
       "word": "#网络文明靠大家#"
+    },
+    {
+      "word": "#弘扬时代新风建设网络文明#"
     }
   ]
 }
