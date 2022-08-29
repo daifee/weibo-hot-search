@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661786638279,
+  "endTime": 1661787696972,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -1531,6 +1531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3455024,
+      "num": 3455024,
+      "word": "热带雨林",
+      "onboard_time": 1661784220,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3450965,
       "num": 3450965,
       "word": "约8万游客滞留三亚",
@@ -1673,14 +1681,6 @@
       "onboard_time": 1660705890,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3341025,
-      "num": 3341025,
-      "word": "热带雨林",
-      "onboard_time": 1661784220,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3332588,
@@ -4745,6 +4745,14 @@
       "onboard_time": 1661602469,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1940857,
+      "num": 1940857,
+      "word": "苍兰诀角色号全员告别苍兰诀",
+      "onboard_time": 1661785658,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1940724,
@@ -8835,6 +8843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1300058,
+      "num": 1300058,
+      "word": "觞阙",
+      "onboard_time": 1661783313,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1299926,
       "num": 1299926,
       "word": "河北纪委",
@@ -10305,14 +10321,6 @@
       "onboard_time": 1660491509,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1168815,
-      "num": 643908,
-      "word": "苍兰诀角色号全员告别苍兰诀",
-      "onboard_time": 1661785658,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1168770,
@@ -12488,14 +12496,6 @@
       "word": "导演看中王一博眼神里的清澈和拧劲儿",
       "onboard_time": 1660614691,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1017321,
-      "num": 643666,
-      "word": "觞阙",
-      "onboard_time": 1661783313,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -14905,6 +14905,14 @@
       "onboard_time": 1660998206,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871686,
+      "num": 871686,
+      "word": "这学一定得开吗",
+      "onboard_time": 1661783313,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 870436,
@@ -18060,7 +18068,7 @@
     },
     {
       "raw_hot": 725923,
-      "num": 315814,
+      "num": 688408,
       "word": "网传星汉灿烂明日庆功宴",
       "onboard_time": 1661785180,
       "rank": 21,
@@ -20641,14 +20649,6 @@
       "onboard_time": 1661338652,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 643446,
-      "num": 643446,
-      "word": "这学一定得开吗",
-      "onboard_time": 1661783313,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 643346,
@@ -25979,6 +25979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525652,
+      "num": 393841,
+      "word": "分手后发现更爱了是冤种吗",
+      "onboard_time": 1661786616,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525641,
       "num": 525641,
       "word": "东北酱香饼一看就好吃",
@@ -27633,6 +27641,14 @@
       "onboard_time": 1661224050,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 496861,
+      "num": 496861,
+      "word": "兴文地震",
+      "onboard_time": 1661785300,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496697,
@@ -36723,14 +36739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383869,
-      "num": 99048,
-      "word": "分手后发现更爱了是冤种吗",
-      "onboard_time": 1661786616,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 383830,
       "num": 247532,
       "word": "萌探收官是大型演唱会现场",
@@ -38073,14 +38081,6 @@
       "onboard_time": 1659791135,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371962,
-      "num": 315616,
-      "word": "兴文地震",
-      "onboard_time": 1661785300,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371899,
@@ -44915,6 +44915,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 313046,
+      "num": 207042,
+      "word": "柳青瑶",
+      "onboard_time": 1661786497,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 312950,
       "num": 312950,
       "word": "时代少年团谈想演角色",
@@ -49225,6 +49233,14 @@
       "onboard_time": 1661518290,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274018,
+      "num": 139329,
+      "word": "小辉 大琳",
+      "onboard_time": 1661784458,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 273985,
@@ -54939,6 +54955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228797,
+      "num": 228797,
+      "word": "霸王别姬优化",
+      "onboard_time": 1661782955,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228740,
       "num": 238466,
       "word": "清清的蒙恬",
@@ -57203,14 +57227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207790,
-      "num": 207790,
-      "word": "霸王别姬优化",
-      "onboard_time": 1661782955,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207758,
       "num": 207758,
       "word": "女排亚洲杯中国名单公布",
@@ -57441,6 +57457,14 @@
       "onboard_time": 1661772031,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205020,
+      "num": 205020,
+      "word": "好喜欢直球式的示爱",
+      "onboard_time": 1661786139,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 205018,
@@ -60747,6 +60771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172088,
+      "num": 172088,
+      "word": "我的敬酒嘴替",
+      "onboard_time": 1661784399,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172005,
       "num": 182925,
       "word": "劳荣枝案二审开庭审理画面",
@@ -60985,14 +61017,6 @@
       "onboard_time": 1660607363,
       "rank": 42,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 169655,
-      "num": 169655,
-      "word": "我的敬酒嘴替",
-      "onboard_time": 1661784399,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 169538,
@@ -63659,14 +63683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126251,
-      "num": 126251,
-      "word": "好喜欢直球式的示爱",
-      "onboard_time": 1661786139,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 126169,
       "num": 126169,
       "word": "没见过笑点这么密集的军训",
@@ -63753,6 +63769,14 @@
       "onboard_time": 1660865604,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124315,
+      "num": 124315,
+      "word": "今年冬天我们一个一个去吃",
+      "onboard_time": 1661787156,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 124116,
@@ -64553,6 +64577,14 @@
       "onboard_time": 1660322783,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103647,
+      "num": 103647,
+      "word": "西外研究生宿舍",
+      "onboard_time": 1661787573,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 103294,
