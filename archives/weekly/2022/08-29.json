@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661748519335,
+  "endTime": 1661749542595,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2894418,
-      "num": 2894418,
+      "raw_hot": 2897130,
+      "num": 2897130,
       "word": "刘宇 抄袭",
       "onboard_time": 1661735796,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285816,
+      "num": 1285816,
+      "word": "女子地铁上傻笑向乘客吐口水",
+      "onboard_time": 1661746835,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251430,
       "num": 1251430,
       "word": "一诺 落水",
@@ -131,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1015801,
-      "num": 829501,
+      "raw_hot": 1025937,
+      "num": 1025937,
       "word": "王鹤棣费加罗男士封面",
       "onboard_time": 1661745032,
       "rank": 10,
@@ -145,6 +153,14 @@
       "onboard_time": 1661740833,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998502,
+      "num": 741406,
+      "word": "虞书欣说从昨晚就开始伤心",
+      "onboard_time": 1661748991,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 947725,
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744982,
-      "num": 744982,
-      "word": "女子地铁上傻笑向乘客吐口水",
-      "onboard_time": 1661746835,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733216,
       "num": 733216,
       "word": "华为Mate50",
@@ -251,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646887,
+      "num": 646887,
+      "word": "为什么不建议低谷期谈恋爱",
+      "onboard_time": 1661748211,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 641242,
       "num": 641242,
       "word": "杭州西湖出现丁达尔效应",
       "onboard_time": 1661734535,
       "rank": 15,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 624461,
+      "num": 624461,
+      "word": "我国首次育出蝶中皇后雌蝶",
+      "onboard_time": 1661747075,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604347,
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568967,
+      "num": 568967,
+      "word": "原神必胜客",
+      "onboard_time": 1661744193,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 566294,
       "num": 566294,
       "word": "喝碳酸饮料后刷牙会加重损伤牙齿",
@@ -289,14 +321,6 @@
       "onboard_time": 1661723171,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555968,
-      "num": 555968,
-      "word": "原神必胜客",
-      "onboard_time": 1661744193,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 555321,
@@ -387,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 437580,
-      "num": 437580,
-      "word": "我国首次育出蝶中皇后雌蝶",
-      "onboard_time": 1661747075,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 436937,
+      "num": 334312,
+      "word": "宋亚轩记录舞台四宫格",
+      "onboard_time": 1661749353,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428049,
@@ -435,12 +459,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 407057,
+      "num": 333896,
+      "word": "刘珠恩",
+      "onboard_time": 1661748634,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400071,
       "num": 308394,
       "word": "大琳",
       "onboard_time": 1661747613,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 399615,
+      "num": 399615,
+      "word": "龙麻子称走红后心慌将继续送外卖",
+      "onboard_time": 1661746174,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388877,
@@ -459,19 +499,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386656,
+      "num": 328497,
+      "word": "月升沧海全员哭戏大赏",
+      "onboard_time": 1661748273,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385600,
       "num": 385600,
       "word": "76岁退休教师去世当大体老师",
       "onboard_time": 1661735077,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378963,
-      "num": 378963,
-      "word": "龙麻子称走红后心慌将继续送外卖",
-      "onboard_time": 1661746174,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -555,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311459,
+      "num": 311459,
+      "word": "20岁大学生玩剧本杀致重度成瘾",
+      "onboard_time": 1661748634,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304918,
+      "num": 304918,
+      "word": "央视梳理唐山打人案始末",
+      "onboard_time": 1661748811,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299203,
       "num": 299203,
       "word": "武汉疫情防控",
@@ -603,8 +659,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272941,
-      "num": 272941,
+      "raw_hot": 275423,
+      "num": 275423,
       "word": "8名公职人员与陈某志案有关被留置",
       "onboard_time": 1661739213,
       "rank": 46,
@@ -755,14 +811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231579,
-      "num": 231579,
-      "word": "为什么不建议低谷期谈恋爱",
-      "onboard_time": 1661748211,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226737,
       "num": 226737,
       "word": "开学记录手册",
@@ -801,6 +849,14 @@
       "onboard_time": 1661699131,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 209631,
+      "num": 209631,
+      "word": "唐山打人案被害人回应网络传言",
+      "onboard_time": 1661749477,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207868,
