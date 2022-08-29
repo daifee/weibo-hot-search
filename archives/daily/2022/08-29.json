@@ -1,7 +1,15 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661783875539,
+  "endTime": 1661786638279,
   "band_list": [
+    {
+      "raw_hot": 12749994,
+      "num": 12749994,
+      "word": "我承认我昨天声音大了点",
+      "onboard_time": 1661781634,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 9522377,
       "num": 9522377,
@@ -9,14 +17,6 @@
       "onboard_time": 1661733813,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8929290,
-      "num": 8929290,
-      "word": "我承认我昨天声音大了点",
-      "onboard_time": 1661781634,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 4009793,
@@ -41,6 +41,14 @@
       "onboard_time": 1661778454,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3341025,
+      "num": 3341025,
+      "word": "热带雨林",
+      "onboard_time": 1661784220,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3227009,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1357731,
+      "num": 1357731,
+      "word": "深圳本地首次发现BF.15变异株",
+      "onboard_time": 1661779658,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1299926,
       "num": 1299926,
       "word": "河北纪委",
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1168815,
+      "num": 643908,
+      "word": "苍兰诀角色号全员告别苍兰诀",
+      "onboard_time": 1661785658,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1157545,
       "num": 1157545,
       "word": "k4",
@@ -393,14 +417,6 @@
       "onboard_time": 1661759308,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1105891,
-      "num": 1105891,
-      "word": "深圳本地首次发现BF.15变异株",
-      "onboard_time": 1661779658,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1091855,
@@ -448,6 +464,14 @@
       "word": "苍兰诀HE",
       "onboard_time": 1661776950,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1017321,
+      "num": 643666,
+      "word": "觞阙",
+      "onboard_time": 1661783313,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 725923,
+      "num": 315814,
+      "word": "网传星汉灿烂明日庆功宴",
+      "onboard_time": 1661785180,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 725876,
       "num": 725876,
       "word": "曹芳为直播言论道歉",
@@ -689,6 +721,22 @@
       "onboard_time": 1661775871,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643940,
+      "num": 643940,
+      "word": "熊孩子打闹女生看一眼被骂脏话",
+      "onboard_time": 1661781634,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643446,
+      "num": 643446,
+      "word": "这学一定得开吗",
+      "onboard_time": 1661783313,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 642688,
@@ -1003,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 470519,
-      "num": 470519,
-      "word": "熊孩子打闹女生看一眼被骂脏话",
-      "onboard_time": 1661781634,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469906,
       "num": 362727,
       "word": "INTO1组合回应",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1661757569,
       "rank": 40,
       "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 451325,
+      "num": 232372,
+      "word": "答应本座一定要二刷苍兰诀",
+      "onboard_time": 1661786139,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 448699,
@@ -1267,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383869,
+      "num": 99048,
+      "word": "分手后发现更爱了是冤种吗",
+      "onboard_time": 1661786616,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380375,
       "num": 237880,
       "word": "周深的歌要么甜我要么刀我",
@@ -1297,6 +1353,22 @@
       "onboard_time": 1661745933,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373108,
+      "num": 234801,
+      "word": "董思怡收养流浪狗客串二十不惑2",
+      "onboard_time": 1661781335,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371962,
+      "num": 315616,
+      "word": "兴文地震",
+      "onboard_time": 1661785300,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371723,
@@ -1368,14 +1440,6 @@
       "word": "苍兰诀单日播放破亿",
       "onboard_time": 1661762789,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 356446,
-      "num": 234801,
-      "word": "董思怡收养流浪狗客串二十不惑2",
-      "onboard_time": 1661781335,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1515,12 +1579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320287,
-      "num": 206250,
-      "word": "觞阙",
-      "onboard_time": 1661783313,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 316161,
+      "num": 316161,
+      "word": "中国男篮vs巴林男篮",
+      "onboard_time": 1661782714,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 315457,
+      "num": 315457,
+      "word": "S12全新冠军奖杯公布",
+      "onboard_time": 1661783616,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 315290,
@@ -1560,6 +1632,14 @@
       "word": "央视梳理唐山打人案始末",
       "onboard_time": 1661748811,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300306,
+      "num": 300306,
+      "word": "武汉核酸检测调整为两天一检",
+      "onboard_time": 1661781095,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1619,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278631,
-      "num": 278631,
-      "word": "武汉核酸检测调整为两天一检",
-      "onboard_time": 1661781095,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277242,
       "num": 277242,
       "word": "西安核酸",
@@ -1641,14 +1713,6 @@
       "onboard_time": 1661782655,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276712,
-      "num": 276712,
-      "word": "中国男篮vs巴林男篮",
-      "onboard_time": 1661782714,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 275423,
@@ -1979,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207790,
+      "num": 207790,
+      "word": "霸王别姬优化",
+      "onboard_time": 1661782955,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205217,
       "num": 205217,
       "word": "丁彦雨航正式加盟上海男篮",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1661735679,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199287,
-      "num": 199287,
-      "word": "这学一定得开吗",
-      "onboard_time": 1661783313,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 197333,
@@ -2091,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192204,
-      "num": 192204,
-      "word": "S12全新冠军奖杯公布",
-      "onboard_time": 1661783616,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183378,
       "num": 93058,
       "word": "梁静茹一开口青春就回来了",
@@ -2147,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "我的敬酒嘴替",
+      "onboard_time": 1661784399,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168394,
       "num": 168394,
       "word": "平台回应通缉犯的抓捕赏金仅4元",
@@ -2193,14 +2257,6 @@
       "onboard_time": 1661759008,
       "rank": 46,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 156198,
-      "num": 156198,
-      "word": "霸王别姬优化",
-      "onboard_time": 1661782955,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 153506,
@@ -2275,6 +2331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126251,
+      "num": 126251,
+      "word": "好喜欢直球式的示爱",
+      "onboard_time": 1661786139,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 125846,
       "num": 125846,
       "word": "EDG 冒泡赛",
@@ -2321,6 +2385,14 @@
       "onboard_time": 1661691331,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 102228,
+      "num": 102228,
+      "word": "赵立坚说这不值得大惊小怪",
+      "onboard_time": 1661785899,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 98650,
@@ -2460,7 +2532,7 @@
     },
     {
       "raw_hot": 22936,
-      "num": 2148382,
+      "num": 2403237,
       "word": "英雄战士与英雄人民的双向奔赴",
       "onboard_time": 1661702785,
       "rank": 2,
