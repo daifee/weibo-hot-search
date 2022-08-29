@@ -1,0 +1,410 @@
+{
+  "runTime": 1661758030662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3326241,
+        "num": 3326241,
+        "word": "女生坐硬卧 下铺",
+        "onboard_time": 1661751387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2042645,
+        "num": 2042645,
+        "word": "被打女子遭陈某志等人威胁",
+        "onboard_time": 1661752588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11534,
+        "num": 1992133,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1987211,
+        "num": 1987211,
+        "word": "蜜雪冰城茶包被曝喝出多条虫子",
+        "onboard_time": 1661753369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1813024,
+        "num": 1813024,
+        "word": "我老公是外国人",
+        "onboard_time": 1661753369,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206760,
+        "num": 1206760,
+        "word": "唐山打人案主犯保护伞被查",
+        "onboard_time": 1661733993,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177583,
+        "num": 1177583,
+        "word": "刘宇 抄袭",
+        "onboard_time": 1661735796,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1054428,
+        "num": 1054428,
+        "word": "密室大逃脱",
+        "onboard_time": 1661754567,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836974,
+        "num": 836974,
+        "word": "警方讯问陈某志视频首次公开",
+        "onboard_time": 1661749893,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733506,
+        "num": 733506,
+        "word": "虞书欣说从昨晚就开始伤心",
+        "onboard_time": 1661748991,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 733050,
+        "num": 733050,
+        "word": "大连N95",
+        "onboard_time": 1661741312,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642688,
+        "num": 642688,
+        "word": "长期喝无糖饮料有哪些危害",
+        "onboard_time": 1661751750,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594029,
+        "num": 594029,
+        "word": "人民网评二十不惑2",
+        "onboard_time": 1661753549,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551722,
+        "num": 551722,
+        "word": "营养专家从来不吃的零食",
+        "onboard_time": 1661754749,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 492304,
+        "num": 492304,
+        "word": "姐姐们为于文文伸出圆手",
+        "onboard_time": 1661753067,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489290,
+        "num": 489290,
+        "word": "20岁大学生玩剧本杀致重度成瘾",
+        "onboard_time": 1661748634,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471032,
+        "num": 471032,
+        "word": "有股民称2900点买入3200点被套",
+        "onboard_time": 1661750969,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 433325,
+        "num": 433325,
+        "word": "为什么不建议低谷期谈恋爱",
+        "onboard_time": 1661748211,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415617,
+        "num": 415617,
+        "word": "大妈捡手机讹钱未果当街大闹",
+        "onboard_time": 1661754270,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410520,
+        "num": 410520,
+        "word": "波兰民众开始排队买煤",
+        "onboard_time": 1661755229,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 410361,
+        "num": 410361,
+        "word": "英雄联盟",
+        "onboard_time": 1661754030,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342074,
+        "num": 342074,
+        "word": "唐山烧烤店打人事件审查起诉情况",
+        "onboard_time": 1661733813,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339002,
+        "num": 339002,
+        "word": "妈妈送女儿跨省上学分别时哭成泪人",
+        "onboard_time": 1661753609,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 337235,
+        "num": 337235,
+        "word": "王一博街舞5音效鬼才",
+        "onboard_time": 1661757929,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301427,
+        "num": 301427,
+        "word": "警方指出陈某志犯罪团伙手段残忍",
+        "onboard_time": 1661751211,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296800,
+        "num": 296800,
+        "word": "唐山打人案被害人讲述监控死角经过",
+        "onboard_time": 1661751387,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291156,
+        "num": 291156,
+        "word": "一诺 落水",
+        "onboard_time": 1661742272,
+        "rank": 26,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 289853,
+        "num": 289853,
+        "word": "女子地铁上傻笑向乘客吐口水",
+        "onboard_time": 1661746835,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256786,
+        "num": 256786,
+        "word": "双胞胎姐妹差1分被同校同专业录取",
+        "onboard_time": 1661756609,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 252824,
+        "num": 252824,
+        "word": "王嘉尔加盟中国说唱巅峰对决",
+        "onboard_time": 1661754328,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238041,
+        "num": 238041,
+        "word": "范世錡海芋恋完整版上线",
+        "onboard_time": 1661752830,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229664,
+        "num": 229664,
+        "word": "一诺回应落水",
+        "onboard_time": 1661757328,
+        "rank": 31,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 224773,
+        "num": 224773,
+        "word": "BLACKPINK获VMA年度组合",
+        "onboard_time": 1661754929,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219680,
+        "num": 219680,
+        "word": "研究称专家的建议不一定更好",
+        "onboard_time": 1661749712,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211670,
+        "num": 211670,
+        "word": "成都一大妈捡手机后索要600元",
+        "onboard_time": 1661757690,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207184,
+        "num": 207184,
+        "word": "国际象棋棋手0.01秒绝杀夺冠",
+        "onboard_time": 1661749235,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202286,
+        "num": 202286,
+        "word": "石家庄一女子强行闯卡被行拘15天",
+        "onboard_time": 1661757508,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200918,
+        "num": 200918,
+        "word": "原神必胜客",
+        "onboard_time": 1661744193,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196840,
+        "num": 196840,
+        "word": "联盟表演嘉宾陈奕迅",
+        "onboard_time": 1661756668,
+        "rank": 38,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 22087,
+        "num": 193399,
+        "word": "张勇说阿里要创造商业之上的价值",
+        "onboard_time": 1661756668,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190198,
+        "num": 190198,
+        "word": "四川高校是否再次延期开学",
+        "onboard_time": 1661757569,
+        "rank": 40,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 189904,
+        "num": 189904,
+        "word": "高圆圆上班路透",
+        "onboard_time": 1661752289,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167429,
+        "num": 167429,
+        "word": "苍兰诀",
+        "onboard_time": 1661746593,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167221,
+        "num": 167221,
+        "word": "河北检察",
+        "onboard_time": 1661755588,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156967,
+        "num": 156967,
+        "word": "沉香如屑神器原型是历史文物",
+        "onboard_time": 1661746293,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153703,
+        "num": 153703,
+        "word": "唐山打人案被害人回应网络传言",
+        "onboard_time": 1661749477,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152428,
+        "num": 152428,
+        "word": "我国首次育出蝶中皇后雌蝶",
+        "onboard_time": 1661747075,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149383,
+        "num": 149383,
+        "word": "唐山打人案2受害女子已出院",
+        "onboard_time": 1661736514,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131092,
+        "num": 131092,
+        "word": "央视梳理唐山打人案始末",
+        "onboard_time": 1661748811,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128867,
+        "num": 128867,
+        "word": "重庆山火英雄图鉴",
+        "onboard_time": 1661757447,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国这十年#"
+    }
+  }
+}
