@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661761721605,
+  "endTime": 1661762768273,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -27,8 +27,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2989349,
-      "num": 2989349,
+      "raw_hot": 3092030,
+      "num": 3092030,
+      "word": "刘宇退出蒙面舞王总决赛",
+      "onboard_time": 1661761648,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3082465,
+      "num": 3082465,
       "word": "被打女子遭陈某志等人威胁",
       "onboard_time": 1661752588,
       "rank": 23,
@@ -57,6 +65,14 @@
       "onboard_time": 1661753369,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2325648,
+      "num": 2325648,
+      "word": "苍兰诀 仙人跳",
+      "onboard_time": 1661761290,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 2202312,
@@ -227,8 +243,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1007530,
-      "num": 1007530,
+      "raw_hot": 1008297,
+      "num": 1008297,
       "word": "双胞胎姐妹差1分被同校同专业录取",
       "onboard_time": 1661756609,
       "rank": 28,
@@ -243,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1000347,
-      "num": 1000347,
-      "word": "刘宇退出蒙面舞王总决赛",
-      "onboard_time": 1661761648,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 969102,
+      "num": 969102,
+      "word": "宿舍厕所没装门校方回应",
+      "onboard_time": 1661759308,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 947725,
@@ -256,14 +272,6 @@
       "word": "苍兰诀 智者不入爱河",
       "onboard_time": 1661697273,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 943315,
-      "num": 943315,
-      "word": "苍兰诀 仙人跳",
-      "onboard_time": 1661761290,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1661738555,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 732502,
-      "num": 732502,
-      "word": "宿舍厕所没装门校方回应",
-      "onboard_time": 1661759308,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 728781,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587579,
+      "num": 587579,
+      "word": "网传全员加速中将升级回归",
+      "onboard_time": 1661758770,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568967,
       "num": 568967,
       "word": "原神必胜客",
@@ -481,14 +489,6 @@
       "onboard_time": 1661742272,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 564472,
-      "num": 564472,
-      "word": "网传全员加速中将升级回归",
-      "onboard_time": 1661758770,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 561868,
@@ -515,12 +515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554738,
+      "num": 554738,
+      "word": "5岁女孩来沪探亲3天走丢3次",
+      "onboard_time": 1661760330,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554483,
       "num": 331288,
       "word": "EXO 回归",
       "onboard_time": 1661686827,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531455,
+      "num": 369099,
+      "word": "周翊然回应资源好",
+      "onboard_time": 1661760929,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521665,
@@ -595,20 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462068,
-      "num": 369099,
-      "word": "周翊然回应资源好",
-      "onboard_time": 1661760929,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 459332,
       "num": 459332,
       "word": "A股",
       "onboard_time": 1661739632,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 455774,
+      "num": 344508,
+      "word": "李泰容李永钦合作舞台",
+      "onboard_time": 1661762430,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 454506,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388588,
+      "num": 388588,
+      "word": "慕思床垫成本900元售价数万",
+      "onboard_time": 1661760809,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 387855,
       "num": 207517,
       "word": "苍兰诀 不要烂尾",
@@ -857,14 +881,6 @@
       "onboard_time": 1661757929,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338460,
-      "num": 338460,
-      "word": "5岁女孩来沪探亲3天走丢3次",
-      "onboard_time": 1661760330,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336696,
@@ -979,10 +995,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270841,
+      "num": 256867,
+      "word": "霉霉新专辑将于10月21日发行",
+      "onboard_time": 1661762370,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270826,
       "num": 270826,
       "word": "河南疫情防控",
       "onboard_time": 1661741370,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270562,
+      "num": 270562,
+      "word": "河南一地全域静态演练3天",
+      "onboard_time": 1661762549,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -1147,14 +1179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 225487,
-      "num": 225487,
-      "word": "慕思床垫成本900元售价数万",
-      "onboard_time": 1661760809,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 224773,
       "num": 224773,
       "word": "BLACKPINK获VMA年度组合",
@@ -1177,6 +1201,22 @@
       "onboard_time": 1661741792,
       "rank": 40,
       "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 217957,
+      "num": 217957,
+      "word": "哪些零食营养安全",
+      "onboard_time": 1661762430,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216307,
+      "num": 216307,
+      "word": "这些行为都是性骚扰",
+      "onboard_time": 1661762007,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213959,
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173893,
+      "num": 173893,
+      "word": "女生开学不舍与70岁独居爷爷分别",
+      "onboard_time": 1661761050,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 168394,
       "num": 168394,
       "word": "平台回应通缉犯的抓捕赏金仅4元",
@@ -1363,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "袖珍妈妈靠卖气球资助30名贫困学生",
+      "onboard_time": 1661759008,
+      "rank": 46,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 153506,
       "num": 145114,
       "word": "王子文吴永恩考拉抱",
@@ -1379,28 +1435,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 148762,
-      "num": 148762,
-      "word": "袖珍妈妈靠卖气球资助30名贫困学生",
-      "onboard_time": 1661759008,
-      "rank": 46,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 146908,
       "num": 138649,
       "word": "轰6K巡航台岛常态化",
       "onboard_time": 1661694512,
       "rank": 34,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 143383,
-      "num": 143383,
-      "word": "女生开学不舍与70岁独居爷爷分别",
-      "onboard_time": 1661761050,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142009,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1661728640,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134452,
+      "num": 134452,
+      "word": "成都一小区惊现鳄雀鳝",
+      "onboard_time": 1661762670,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132241,
@@ -1636,6 +1684,9 @@
     },
     {
       "word": "#网络强国这十年#"
+    },
+    {
+      "word": "#网络文明靠大家#"
     }
   ]
 }
