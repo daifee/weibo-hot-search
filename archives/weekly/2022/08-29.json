@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661753407320,
+  "endTime": 1661754688823,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -11,19 +11,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4009793,
+      "num": 4009793,
+      "word": "女生坐硬卧 下铺",
+      "onboard_time": 1661751387,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3227009,
       "num": 3227009,
       "word": "唐山打人案主犯保护伞被查",
       "onboard_time": 1661733993,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3000943,
-      "num": 1669697,
-      "word": "女生坐硬卧 下铺",
-      "onboard_time": 1661751387,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1606816,
+      "num": 1606816,
+      "word": "警方讯问陈某志视频首次公开",
+      "onboard_time": 1661749893,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1537214,
       "num": 1537214,
       "word": "不为什么",
@@ -81,14 +89,6 @@
       "onboard_time": 1661735319,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1459961,
-      "num": 1459961,
-      "word": "警方讯问陈某志视频首次公开",
-      "onboard_time": 1661749893,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1441742,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 812650,
+      "num": 812650,
+      "word": "我老公是外国人",
+      "onboard_time": 1661753369,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760480,
       "num": 760480,
       "word": "家长当2孩子面偷拿他人物品",
@@ -248,6 +256,14 @@
       "word": "成都疫情处于快速上升阶段",
       "onboard_time": 1661692232,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749389,
+      "num": 749389,
+      "word": "警方指出陈某志犯罪团伙手段残忍",
+      "onboard_time": 1661751211,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 678828,
+      "num": 678828,
+      "word": "有股民称2900点买入3200点被套",
+      "onboard_time": 1661750969,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 675466,
       "num": 675466,
       "word": "郭晓婷剧抛脸",
@@ -299,14 +323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 645600,
-      "num": 645600,
-      "word": "有股民称2900点买入3200点被套",
-      "onboard_time": 1661750969,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 641242,
       "num": 641242,
       "word": "杭州西湖出现丁达尔效应",
@@ -315,12 +331,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 637876,
+      "num": 637876,
+      "word": "被打女子遭陈某志等人威胁",
+      "onboard_time": 1661752588,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624461,
       "num": 624461,
       "word": "我国首次育出蝶中皇后雌蝶",
       "onboard_time": 1661747075,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618952,
+      "num": 618952,
+      "word": "姐姐们为于文文伸出圆手",
+      "onboard_time": 1661753067,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 604347,
@@ -411,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488799,
+      "num": 488799,
+      "word": "人民网评二十不惑2",
+      "onboard_time": 1661753549,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483217,
       "num": 441478,
       "word": "邢菲说831来看一部爽剧",
       "onboard_time": 1661747494,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481217,
+      "num": 481217,
+      "word": "长期喝无糖饮料有哪些危害",
+      "onboard_time": 1661751750,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478463,
@@ -443,12 +491,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 454506,
+      "num": 454506,
+      "word": "高圆圆上班路透",
+      "onboard_time": 1661752289,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448699,
       "num": 448699,
       "word": "BLACKPINK红毯新闻图",
       "onboard_time": 1661733390,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443203,
+      "num": 443203,
+      "word": "蜜雪冰城茶包被曝喝出多条虫子",
+      "onboard_time": 1661753369,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441882,
@@ -539,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389927,
-      "num": 389927,
+      "raw_hot": 395354,
+      "num": 395354,
       "word": "研究称专家的建议不一定更好",
       "onboard_time": 1661749712,
       "rank": 18,
@@ -603,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368959,
-      "num": 368959,
-      "word": "高圆圆上班路透",
-      "onboard_time": 1661752289,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360606,
       "num": 360606,
       "word": "父母过度干涉你的生活是什么体验",
@@ -657,22 +713,6 @@
       "onboard_time": 1661697691,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335277,
-      "num": 335277,
-      "word": "姐姐们为于文文伸出圆手",
-      "onboard_time": 1661753067,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 327155,
-      "num": 327155,
-      "word": "被打女子遭陈某志等人威胁",
-      "onboard_time": 1661752588,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321589,
@@ -739,20 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278017,
-      "num": 278017,
-      "word": "长期喝无糖饮料有哪些危害",
-      "onboard_time": 1661751750,
+      "raw_hot": 278014,
+      "num": 278014,
+      "word": "密室大逃脱",
+      "onboard_time": 1661754567,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277873,
-      "num": 277873,
-      "word": "警方指出陈某志犯罪团伙手段残忍",
-      "onboard_time": 1661751211,
-      "rank": 29,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 277242,
@@ -907,12 +939,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240181,
+      "num": 240181,
+      "word": "范世錡海芋恋完整版上线",
+      "onboard_time": 1661752830,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236033,
       "num": 87813,
       "word": "刘耀文脸链",
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234432,
+      "num": 234432,
+      "word": "英雄联盟",
+      "onboard_time": 1661754030,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 226737,
@@ -923,20 +971,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 226285,
-      "num": 226285,
-      "word": "范世錡海芋恋完整版上线",
-      "onboard_time": 1661752830,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
       "onboard_time": 1661686769,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224083,
+      "num": 224083,
+      "word": "王嘉尔加盟中国说唱巅峰对决",
+      "onboard_time": 1661754328,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 218855,
@@ -1107,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154752,
+      "num": 154752,
+      "word": "大妈捡手机讹钱未果当街大闹",
+      "onboard_time": 1661754270,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153506,
       "num": 145114,
       "word": "王子文吴永恩考拉抱",
@@ -1123,6 +1179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148455,
+      "num": 148455,
+      "word": "妈妈送女儿跨省上学分别时哭成泪人",
+      "onboard_time": 1661753609,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 146908,
       "num": 138649,
       "word": "轰6K巡航台岛常态化",
@@ -1135,22 +1199,6 @@
       "num": 142009,
       "word": "大熊猫是一种流体动物",
       "onboard_time": 1661721310,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141574,
-      "num": 141574,
-      "word": "蜜雪冰城茶包被曝喝出多条虫子",
-      "onboard_time": 1661753369,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140820,
-      "num": 140820,
-      "word": "我老公是外国人",
-      "onboard_time": 1661753369,
       "rank": 49,
       "category": "社会新闻"
     },
