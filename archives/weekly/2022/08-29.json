@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661758849015,
+  "endTime": 1661761721605,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -24,6 +24,14 @@
       "word": "唐山打人案主犯保护伞被查",
       "onboard_time": 1661733993,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2989349,
+      "num": 2989349,
+      "word": "被打女子遭陈某志等人威胁",
+      "onboard_time": 1661752588,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2042645,
-      "num": 2042645,
-      "word": "被打女子遭陈某志等人威胁",
-      "onboard_time": 1661752588,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 1993407,
+      "num": 773503,
+      "word": "王鹤棣密逃4走第一个",
+      "onboard_time": 1661760752,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1856007,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157545,
+      "num": 1157545,
+      "word": "k4",
+      "onboard_time": 1661759129,
+      "rank": 3,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 1138189,
       "num": 348550,
       "word": "男子在女友孕期出轨还想要回16万彩礼",
@@ -211,6 +227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1007530,
+      "num": 1007530,
+      "word": "双胞胎姐妹差1分被同校同专业录取",
+      "onboard_time": 1661756609,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1003228,
       "num": 1003228,
       "word": "霉霉看BLACKPINK表演时的反应",
@@ -219,11 +243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000347,
+      "num": 1000347,
+      "word": "刘宇退出蒙面舞王总决赛",
+      "onboard_time": 1661761648,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 947725,
       "num": 947725,
       "word": "苍兰诀 智者不入爱河",
       "onboard_time": 1661697273,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 943315,
+      "num": 943315,
+      "word": "苍兰诀 仙人跳",
+      "onboard_time": 1661761290,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -267,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 774292,
+      "num": 774292,
+      "word": "营养专家从来不吃的零食",
+      "onboard_time": 1661754749,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 760480,
       "num": 760480,
       "word": "家长当2孩子面偷拿他人物品",
@@ -299,12 +347,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 732502,
+      "num": 732502,
+      "word": "宿舍厕所没装门校方回应",
+      "onboard_time": 1661759308,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 728781,
       "num": 571573,
       "word": "苍兰诀会员收官海报",
       "onboard_time": 1661743770,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 725876,
+      "num": 725876,
+      "word": "曹芳为直播言论道歉",
+      "onboard_time": 1661760029,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 709831,
@@ -387,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 613966,
-      "num": 613966,
-      "word": "营养专家从来不吃的零食",
-      "onboard_time": 1661754749,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 604347,
       "num": 604347,
       "word": "录取通知书被毁能否进校门",
@@ -425,6 +481,14 @@
       "onboard_time": 1661742272,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564472,
+      "num": 564472,
+      "word": "网传全员加速中将升级回归",
+      "onboard_time": 1661758770,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 561868,
@@ -531,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462068,
+      "num": 369099,
+      "word": "周翊然回应资源好",
+      "onboard_time": 1661760929,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459332,
       "num": 459332,
       "word": "A股",
@@ -545,6 +617,14 @@
       "onboard_time": 1661752289,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451954,
+      "num": 451954,
+      "word": "四川高校是否再次延期开学",
+      "onboard_time": 1661757569,
+      "rank": 40,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 448699,
@@ -577,6 +657,14 @@
       "onboard_time": 1661696972,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423951,
+      "num": 423951,
+      "word": "石家庄一女子强行闯卡被行拘15天",
+      "onboard_time": 1661757508,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419403,
@@ -699,14 +787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 371364,
-      "num": 371364,
-      "word": "双胞胎姐妹差1分被同校同专业录取",
-      "onboard_time": 1661756609,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 370438,
       "num": 304578,
       "word": "久诚登顶",
@@ -755,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352400,
-      "num": 352400,
-      "word": "石家庄一女子强行闯卡被行拘15天",
-      "onboard_time": 1661757508,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352174,
       "num": 352174,
       "word": "国际象棋棋手0.01秒绝杀夺冠",
@@ -787,12 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345357,
-      "num": 345357,
-      "word": "四川高校是否再次延期开学",
-      "onboard_time": 1661757569,
-      "rank": 40,
-      "category": "教育,社会议题"
+      "raw_hot": 338460,
+      "num": 338460,
+      "word": "5岁女孩来沪探亲3天走丢3次",
+      "onboard_time": 1661760330,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336696,
@@ -849,14 +921,6 @@
       "onboard_time": 1661733269,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285048,
-      "num": 285048,
-      "word": "网传全员加速中将升级回归",
-      "onboard_time": 1661758770,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 282393,
@@ -945,6 +1009,14 @@
       "onboard_time": 1661742209,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266726,
+      "num": 266726,
+      "word": "河南三支一扶",
+      "onboard_time": 1661758950,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 266081,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1661748395,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225487,
+      "num": 225487,
+      "word": "慕思床垫成本900元售价数万",
+      "onboard_time": 1661760809,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 224773,
@@ -1259,6 +1339,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 160191,
+      "num": 160191,
+      "word": "微博上课了表情上线",
+      "onboard_time": 1661761589,
+      "rank": 43,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "美登月火箭发射台遭雷击",
@@ -1291,12 +1379,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148762,
+      "num": 148762,
+      "word": "袖珍妈妈靠卖气球资助30名贫困学生",
+      "onboard_time": 1661759008,
+      "rank": 46,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 146908,
       "num": 138649,
       "word": "轰6K巡航台岛常态化",
       "onboard_time": 1661694512,
       "rank": 34,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 143383,
+      "num": 143383,
+      "word": "女生开学不舍与70岁独居爷爷分别",
+      "onboard_time": 1661761050,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142009,
