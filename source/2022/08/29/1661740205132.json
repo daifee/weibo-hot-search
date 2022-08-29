@@ -1,0 +1,410 @@
+{
+  "runTime": 1661740205132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9522377,
+        "num": 9522377,
+        "word": "唐山烧烤店打人事件审查起诉情况",
+        "onboard_time": 1661733813,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3227009,
+        "num": 3227009,
+        "word": "唐山打人案主犯保护伞被查",
+        "onboard_time": 1661733993,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22018,
+        "num": 3036940,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2894418,
+        "num": 2894418,
+        "word": "刘宇 抄袭",
+        "onboard_time": 1661735796,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2202312,
+        "num": 2202312,
+        "word": "唐山打人案2受害女子已出院",
+        "onboard_time": 1661736514,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1856007,
+        "num": 1856007,
+        "word": "何炅网购滑板显示余额不足",
+        "onboard_time": 1661732668,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1487544,
+        "num": 1487544,
+        "word": "女儿延迟开学偷偷回家妈妈秒变脸",
+        "onboard_time": 1661735319,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1299926,
+        "num": 1299926,
+        "word": "河北纪委",
+        "onboard_time": 1661736814,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175436,
+        "num": 1175436,
+        "word": "成都新增本土确诊126例",
+        "onboard_time": 1661736634,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873031,
+        "num": 873031,
+        "word": "为什么咖啡喝多了心会突突跳",
+        "onboard_time": 1661731826,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441742,
+        "num": 853651,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1661738973,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 721074,
+        "num": 721074,
+        "word": "华为Mate50",
+        "onboard_time": 1661738555,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 683554,
+        "num": 683554,
+        "word": "海清 隐入尘烟",
+        "onboard_time": 1661732367,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651910,
+        "num": 651910,
+        "word": "陈某志10年参与刑事犯罪11起",
+        "onboard_time": 1661736755,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103607,
+        "num": 645901,
+        "word": "14岁师弟跑出苏炳添16岁时的成绩",
+        "onboard_time": 1661739452,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641242,
+        "num": 641242,
+        "word": "杭州西湖出现丁达尔效应",
+        "onboard_time": 1661734535,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 595884,
+        "num": 595884,
+        "word": "Lisa获VMA最佳kpop",
+        "onboard_time": 1661738314,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512999,
+        "num": 512999,
+        "word": "长期大量饮用碳酸饮料有哪些危害",
+        "onboard_time": 1661729062,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508075,
+        "num": 508075,
+        "word": "苍兰诀导演",
+        "onboard_time": 1661734052,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448699,
+        "num": 448699,
+        "word": "BLACKPINK红毯新闻图",
+        "onboard_time": 1661733390,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441882,
+        "num": 441882,
+        "word": "TF家族三代公开4周年",
+        "onboard_time": 1661739813,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388877,
+        "num": 388877,
+        "word": "四川增本土确诊161例无症状87例",
+        "onboard_time": 1661738014,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385600,
+        "num": 385600,
+        "word": "76岁退休教师去世当大体老师",
+        "onboard_time": 1661735077,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353357,
+        "num": 353357,
+        "word": "法航机长副机长驾机途中打架斗殴",
+        "onboard_time": 1661729179,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346130,
+        "num": 346130,
+        "word": "贺峻霖两个月瘦了20斤",
+        "onboard_time": 1661699368,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331120,
+        "num": 331120,
+        "word": "骨兰变成了东方青苍",
+        "onboard_time": 1661695112,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326857,
+        "num": 326857,
+        "word": "男子在女友孕期出轨还想要回16万彩礼",
+        "onboard_time": 1661681546,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322458,
+        "num": 322458,
+        "word": "00后噶羊少女回应走红",
+        "onboard_time": 1661738973,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299203,
+        "num": 299203,
+        "word": "武汉疫情防控",
+        "onboard_time": 1661735495,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282393,
+        "num": 282393,
+        "word": "男子领养狗后勒索主人3000元",
+        "onboard_time": 1661733450,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306171,
+        "num": 282204,
+        "word": "张彬彬换贾乃亮照片当头像",
+        "onboard_time": 1661739993,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281062,
+        "num": 281062,
+        "word": "SEVENTEEN获PUSH年度表演奖",
+        "onboard_time": 1661739632,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280412,
+        "num": 280412,
+        "word": "饮料是痛风年轻化的原因之一",
+        "onboard_time": 1661733269,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277242,
+        "num": 277242,
+        "word": "西安核酸",
+        "onboard_time": 1661732668,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274275,
+        "num": 274275,
+        "word": "A股",
+        "onboard_time": 1661739632,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268239,
+        "num": 268239,
+        "word": "8月28日新增确诊352例",
+        "onboard_time": 1661740052,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265429,
+        "num": 265429,
+        "word": "武汉新增本土无症状感染者26例",
+        "onboard_time": 1661738615,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256366,
+        "num": 256366,
+        "word": "蔡徐坤把拴Q说成了3Q",
+        "onboard_time": 1661689649,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244598,
+        "num": 244598,
+        "word": "秋天需要一条小猪毛毯",
+        "onboard_time": 1661733028,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201958,
+        "num": 201958,
+        "word": "深圳地铁",
+        "onboard_time": 1661731826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201208,
+        "num": 201208,
+        "word": "周一被迫上班的你",
+        "onboard_time": 1661739813,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 199487,
+        "num": 199487,
+        "word": "唐山打人案受害者遭性侵等为谣言",
+        "onboard_time": 1661735679,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197333,
+        "num": 197333,
+        "word": "沉香重华",
+        "onboard_time": 1661738370,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196908,
+        "num": 196908,
+        "word": "女子腿脚没劲原是老年综合征",
+        "onboard_time": 1661716332,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196161,
+        "num": 196161,
+        "word": "隐入尘烟票房破3000万",
+        "onboard_time": 1661738615,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192314,
+        "num": 192314,
+        "word": "重庆新增10例本土确诊",
+        "onboard_time": 1661734052,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187500,
+        "num": 187500,
+        "word": "8名公职人员与陈某志案有关被留置",
+        "onboard_time": 1661739213,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181358,
+        "num": 181358,
+        "word": "女子火锅配冰奶茶上吐下泻碱中毒",
+        "onboard_time": 1661699311,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177984,
+        "num": 177984,
+        "word": "纪检机关将彻查唐山打人案保护伞",
+        "onboard_time": 1661739213,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174041,
+        "num": 174041,
+        "word": "河北疫情防控",
+        "onboard_time": 1661737896,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国这十年#"
+    }
+  }
+}
