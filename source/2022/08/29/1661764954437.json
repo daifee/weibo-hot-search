@@ -1,0 +1,410 @@
+{
+  "runTime": 1661764954437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727862,
+        "num": 2727862,
+        "word": "刘宇退出蒙面舞王总决赛",
+        "onboard_time": 1661761648,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2337345,
+        "num": 2337345,
+        "word": "被打女子遭陈某志等人威胁",
+        "onboard_time": 1661752588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1922,
+        "num": 1787957,
+        "word": "英雄战士与英雄人民的双向奔赴",
+        "onboard_time": 1661702785,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2565595,
+        "num": 1778557,
+        "word": "苍兰诀 仙人跳",
+        "onboard_time": 1661761290,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1576111,
+        "num": 1576111,
+        "word": "泫雅离开PNATION",
+        "onboard_time": 1661763689,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1395999,
+        "num": 1395999,
+        "word": "蜜雪冰城茶包被曝喝出多条虫子",
+        "onboard_time": 1661753369,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112541,
+        "num": 1112541,
+        "word": "宿舍厕所没装门校方回应",
+        "onboard_time": 1661759308,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 12305,
+        "num": 1044912,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019574,
+        "num": 1019574,
+        "word": "河南一地全域静态演练3天",
+        "onboard_time": 1661762549,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842490,
+        "num": 842490,
+        "word": "双胞胎姐妹差1分被同校同专业录取",
+        "onboard_time": 1661756609,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1076753,
+        "num": 819724,
+        "word": "王鹤棣密逃4走第一个",
+        "onboard_time": 1661760752,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 744273,
+        "num": 744273,
+        "word": "老人偷肉被抓跪地磕头道歉",
+        "onboard_time": 1661763269,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740401,
+        "num": 740401,
+        "word": "我老公是外国人",
+        "onboard_time": 1661753369,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641039,
+        "num": 641039,
+        "word": "5岁女孩来沪探亲3天走丢3次",
+        "onboard_time": 1661760330,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 632947,
+        "word": "17岁少年紧跟辅警父亲冲进火场救人",
+        "onboard_time": 1661764650,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625144,
+        "num": 625144,
+        "word": "成都一小区惊现鳄雀鳝",
+        "onboard_time": 1661762670,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624643,
+        "num": 624643,
+        "word": "外交部回应大陆无人机到金门岛拍照",
+        "onboard_time": 1661763389,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 611463,
+        "num": 611463,
+        "word": "大连N95",
+        "onboard_time": 1661741312,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569569,
+        "num": 569569,
+        "word": "慕思床垫成本900元售价数万",
+        "onboard_time": 1661760809,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 520746,
+        "num": 520746,
+        "word": "曹芳为直播言论道歉",
+        "onboard_time": 1661760029,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740548,
+        "num": 519587,
+        "word": "女生坐硬卧 下铺",
+        "onboard_time": 1661751387,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508204,
+        "num": 508204,
+        "word": "这些行为都是性骚扰",
+        "onboard_time": 1661762007,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483813,
+        "num": 483813,
+        "word": "k4",
+        "onboard_time": 1661759129,
+        "rank": 22,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 483348,
+        "num": 483348,
+        "word": "中国无人机到中国领土飞一飞不值得大惊小怪",
+        "onboard_time": 1661763749,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 453198,
+        "num": 453198,
+        "word": "颜淡应渊重逢",
+        "onboard_time": 1661764589,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447874,
+        "num": 447874,
+        "word": "广州一公司招聘本科生需提供大专证",
+        "onboard_time": 1661763929,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415587,
+        "num": 415587,
+        "word": "周翊然回应资源好",
+        "onboard_time": 1661760929,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398655,
+        "num": 398655,
+        "word": "网传全员加速中将升级回归",
+        "onboard_time": 1661758770,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317014,
+        "num": 317014,
+        "word": "唐山打人案主犯保护伞被查",
+        "onboard_time": 1661733993,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311714,
+        "num": 311714,
+        "word": "成都锦江区疫情防控",
+        "onboard_time": 1661763631,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390677,
+        "num": 311466,
+        "word": "苍兰诀 前面28集",
+        "onboard_time": 1661764529,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311115,
+        "num": 311115,
+        "word": "营养专家从来不吃的零食",
+        "onboard_time": 1661754749,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 359287,
+        "num": 309351,
+        "word": "苍兰诀单日播放破亿",
+        "onboard_time": 1661762789,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296892,
+        "num": 296892,
+        "word": "长期喝无糖饮料有哪些危害",
+        "onboard_time": 1661751750,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290481,
+        "num": 290481,
+        "word": "虞书欣说从昨晚就开始伤心",
+        "onboard_time": 1661748991,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281771,
+        "num": 281771,
+        "word": "密室大逃脱",
+        "onboard_time": 1661754567,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273555,
+        "num": 273555,
+        "word": "20岁大学生玩剧本杀致重度成瘾",
+        "onboard_time": 1661748634,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251110,
+        "num": 251110,
+        "word": "有股民称2900点买入3200点被套",
+        "onboard_time": 1661750969,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226830,
+        "num": 226830,
+        "word": "四川高校是否再次延期开学",
+        "onboard_time": 1661757569,
+        "rank": 38,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 226814,
+        "num": 226814,
+        "word": "成都车祸",
+        "onboard_time": 1661764529,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273413,
+        "num": 225544,
+        "word": "人民网评二十不惑2",
+        "onboard_time": 1661753549,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249734,
+        "num": 224106,
+        "word": "周杰伦隐藏新歌",
+        "onboard_time": 1661764408,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245535,
+        "num": 223158,
+        "word": "姐姐们为于文文伸出圆手",
+        "onboard_time": 1661753067,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220422,
+        "num": 220422,
+        "word": "赵立坚说这事耸人听闻可以拍个电影",
+        "onboard_time": 1661764108,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 219540,
+        "num": 219540,
+        "word": "石家庄一女子强行闯卡被行拘15天",
+        "onboard_time": 1661757508,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186988,
+        "num": 186988,
+        "word": "女生开学不舍与70岁独居爷爷分别",
+        "onboard_time": 1661761050,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181707,
+        "num": 181707,
+        "word": "一点一线皆山河",
+        "onboard_time": 1661764349,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 176974,
+        "num": 176974,
+        "word": "大妈捡手机讹钱未果当街大闹",
+        "onboard_time": 1661754270,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160547,
+        "num": 160547,
+        "word": "成都一大妈捡手机后索要600元",
+        "onboard_time": 1661757690,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156243,
+        "num": 156243,
+        "word": "河南三支一扶",
+        "onboard_time": 1661758950,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年中国网络文明大会#"
+    }
+  }
+}
