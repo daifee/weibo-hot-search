@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661782896109,
+  "endTime": 1661783875539,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4908206,
-      "num": 4908206,
+      "raw_hot": 8929290,
+      "num": 8929290,
       "word": "我承认我昨天声音大了点",
       "onboard_time": 1661781634,
       "rank": 0,
@@ -123,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2263284,
-      "num": 2263284,
+      "raw_hot": 2286458,
+      "num": 2286458,
       "word": "成都疫情防控",
       "onboard_time": 1661688928,
       "rank": 45,
@@ -395,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1105891,
+      "num": 1105891,
+      "word": "深圳本地首次发现BF.15变异株",
+      "onboard_time": 1661779658,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091855,
       "num": 1091855,
       "word": "女子腿脚没劲原是老年综合征",
@@ -505,14 +513,6 @@
       "onboard_time": 1661742571,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 928076,
-      "num": 928076,
-      "word": "深圳本地首次发现BF.15变异株",
-      "onboard_time": 1661779658,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 898090,
@@ -667,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 663992,
+      "num": 663992,
+      "word": "拼多多发布第二季度财报",
+      "onboard_time": 1661778935,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 658272,
       "num": 658272,
       "word": "中国无人机到中国领土飞一飞不值得大惊小怪",
@@ -681,14 +689,6 @@
       "onboard_time": 1661775871,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645602,
-      "num": 645602,
-      "word": "拼多多发布第二季度财报",
-      "onboard_time": 1661778935,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 642688,
@@ -963,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495355,
+      "num": 495355,
+      "word": "大连静默",
+      "onboard_time": 1661778392,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483217,
       "num": 441478,
       "word": "邢菲说831来看一部爽剧",
@@ -993,6 +1001,14 @@
       "onboard_time": 1661739993,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470519,
+      "num": 470519,
+      "word": "熊孩子打闹女生看一眼被骂脏话",
+      "onboard_time": 1661781634,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469906,
@@ -1187,20 +1203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396499,
+      "num": 396499,
+      "word": "这是你见过最黑的大熊猫吗",
+      "onboard_time": 1661778032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395354,
       "num": 395354,
       "word": "研究称专家的建议不一定更好",
       "onboard_time": 1661749712,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 395092,
-      "num": 395092,
-      "word": "大连静默",
-      "onboard_time": 1661778392,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391085,
@@ -1259,14 +1275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380032,
-      "num": 380032,
-      "word": "这是你见过最黑的大熊猫吗",
-      "onboard_time": 1661778032,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379360,
       "num": 379360,
       "word": "成都锦江区疫情防控",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1661745933,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 371723,
+      "num": 148556,
+      "word": "再见了小兰花",
+      "onboard_time": 1661783855,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 370438,
@@ -1352,6 +1368,14 @@
       "word": "苍兰诀单日播放破亿",
       "onboard_time": 1661762789,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 356446,
+      "num": 234801,
+      "word": "董思怡收养流浪狗客串二十不惑2",
+      "onboard_time": 1661781335,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1459,11 +1483,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 329043,
-      "num": 234801,
-      "word": "董思怡收养流浪狗客串二十不惑2",
-      "onboard_time": 1661781335,
-      "rank": 33,
+      "raw_hot": 330294,
+      "num": 212299,
+      "word": "虞书欣发视频告别小兰花",
+      "onboard_time": 1661783497,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1491,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320287,
+      "num": 206250,
+      "word": "觞阙",
+      "onboard_time": 1661783313,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315290,
       "num": 315290,
       "word": "蜜雪冰城回应茶包喝出虫",
@@ -1512,14 +1544,6 @@
       "word": "原来高铁还有静音车厢",
       "onboard_time": 1661773229,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307015,
-      "num": 307015,
-      "word": "熊孩子打闹女生看一眼被骂脏话",
-      "onboard_time": 1661781634,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1617,6 +1641,14 @@
       "onboard_time": 1661782655,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276712,
+      "num": 276712,
+      "word": "中国男篮vs巴林男篮",
+      "onboard_time": 1661782714,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 275423,
@@ -1987,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199287,
+      "num": 199287,
+      "word": "这学一定得开吗",
+      "onboard_time": 1661783313,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197333,
       "num": 197333,
       "word": "沉香重华",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1661734052,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192204,
+      "num": 192204,
+      "word": "S12全新冠军奖杯公布",
+      "onboard_time": 1661783616,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 183378,
@@ -2147,6 +2195,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 156198,
+      "num": 156198,
+      "word": "霸王别姬优化",
+      "onboard_time": 1661782955,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153506,
       "num": 145114,
       "word": "王子文吴永恩考拉抱",
@@ -2209,14 +2265,6 @@
       "onboard_time": 1661728640,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136083,
-      "num": 136083,
-      "word": "中国男篮vs巴林男篮",
-      "onboard_time": 1661782714,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 132241,
