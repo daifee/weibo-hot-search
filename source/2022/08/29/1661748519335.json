@@ -1,0 +1,410 @@
+{
+  "runTime": 1661748519335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3568625,
+        "num": 3568625,
+        "word": "唐山烧烤店打人事件审查起诉情况",
+        "onboard_time": 1661733813,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3141708,
+        "num": 3141708,
+        "word": "唐山打人案主犯保护伞被查",
+        "onboard_time": 1661733993,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18306,
+        "num": 2795258,
+        "word": "八音盒变装下的守护者",
+        "onboard_time": 1661657008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2681617,
+        "num": 2681617,
+        "word": "刘宇 抄袭",
+        "onboard_time": 1661735796,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2593874,
+        "num": 2593874,
+        "word": "大连N95",
+        "onboard_time": 1661741312,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1502626,
+        "num": 1502626,
+        "word": "唐山打人案2受害女子已出院",
+        "onboard_time": 1661736514,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314312,
+        "num": 1314312,
+        "word": "何炅网购滑板显示余额不足",
+        "onboard_time": 1661732668,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1251430,
+        "num": 1251430,
+        "word": "一诺 落水",
+        "onboard_time": 1661742272,
+        "rank": 7,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 931611,
+        "num": 931611,
+        "word": "三桶油将分红850亿",
+        "onboard_time": 1661742571,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 849496,
+        "num": 849496,
+        "word": "女儿延迟开学偷偷回家妈妈秒变脸",
+        "onboard_time": 1661735319,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1015801,
+        "num": 829501,
+        "word": "王鹤棣费加罗男士封面",
+        "onboard_time": 1661745032,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 744982,
+        "num": 744982,
+        "word": "女子地铁上傻笑向乘客吐口水",
+        "onboard_time": 1661746835,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675466,
+        "num": 675466,
+        "word": "郭晓婷剧抛脸",
+        "onboard_time": 1661741910,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574149,
+        "num": 574149,
+        "word": "成都新增本土确诊126例",
+        "onboard_time": 1661736634,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728781,
+        "num": 571573,
+        "word": "苍兰诀会员收官海报",
+        "onboard_time": 1661743770,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 566294,
+        "num": 566294,
+        "word": "喝碳酸饮料后刷牙会加重损伤牙齿",
+        "onboard_time": 1661742272,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555968,
+        "num": 555968,
+        "word": "原神必胜客",
+        "onboard_time": 1661744193,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544539,
+        "num": 544539,
+        "word": "为什么咖啡喝多了心会突突跳",
+        "onboard_time": 1661731826,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450429,
+        "num": 450429,
+        "word": "华为Mate50",
+        "onboard_time": 1661738555,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 448944,
+        "num": 448944,
+        "word": "陈某志10年参与刑事犯罪11起",
+        "onboard_time": 1661736755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647280,
+        "num": 447652,
+        "word": "霉霉看BLACKPINK表演时的反应",
+        "onboard_time": 1661740833,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555321,
+        "num": 442992,
+        "word": "沉香如屑神器原型是历史文物",
+        "onboard_time": 1661746293,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483217,
+        "num": 441478,
+        "word": "邢菲说831来看一部爽剧",
+        "onboard_time": 1661747494,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437580,
+        "num": 437580,
+        "word": "我国首次育出蝶中皇后雌蝶",
+        "onboard_time": 1661747075,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409566,
+        "num": 409566,
+        "word": "杭州西湖出现丁达尔效应",
+        "onboard_time": 1661734535,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 407583,
+        "num": 407583,
+        "word": "A股",
+        "onboard_time": 1661739632,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 378963,
+        "num": 378963,
+        "word": "龙麻子称走红后心慌将继续送外卖",
+        "onboard_time": 1661746174,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334150,
+        "num": 334150,
+        "word": "00后噶羊少女回应走红",
+        "onboard_time": 1661738973,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321589,
+        "num": 321589,
+        "word": "男子被网恋女网友爽约醉驾出车祸",
+        "onboard_time": 1661740352,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309756,
+        "num": 309756,
+        "word": "河北纪委",
+        "onboard_time": 1661736814,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449287,
+        "num": 309415,
+        "word": "张彬彬换贾乃亮照片当头像",
+        "onboard_time": 1661739993,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414552,
+        "num": 308776,
+        "word": "苍兰诀",
+        "onboard_time": 1661746593,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400071,
+        "num": 308394,
+        "word": "大琳",
+        "onboard_time": 1661747613,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 377865,
+        "num": 307891,
+        "word": "时代少年团演唱会个人直拍播放量",
+        "onboard_time": 1661745933,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307712,
+        "num": 307712,
+        "word": "四川增本土确诊161例无症状87例",
+        "onboard_time": 1661738014,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370438,
+        "num": 304578,
+        "word": "久诚登顶",
+        "onboard_time": 1661742810,
+        "rank": 35,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 295702,
+        "num": 295702,
+        "word": "长期大量饮用碳酸饮料有哪些危害",
+        "onboard_time": 1661729062,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289340,
+        "num": 289340,
+        "word": "饮料是痛风年轻化的原因之一",
+        "onboard_time": 1661733269,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270854,
+        "num": 270854,
+        "word": "8名公职人员与陈某志案有关被留置",
+        "onboard_time": 1661739213,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269035,
+        "num": 269035,
+        "word": "它好像周一上班的我",
+        "onboard_time": 1661742629,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 354955,
+        "num": 268842,
+        "word": "Tablo加盟中国说唱巅峰对决",
+        "onboard_time": 1661745993,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267092,
+        "num": 267092,
+        "word": "男子被红火蚁咬伤中毒倒地休克",
+        "onboard_time": 1661742209,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248906,
+        "num": 248906,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1661738973,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 231579,
+        "num": 231579,
+        "word": "为什么不建议低谷期谈恋爱",
+        "onboard_time": 1661748211,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226737,
+        "num": 226737,
+        "word": "开学记录手册",
+        "onboard_time": 1661748395,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220128,
+        "num": 220128,
+        "word": "76岁退休教师去世当大体老师",
+        "onboard_time": 1661735077,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204041,
+        "num": 204041,
+        "word": "周一被迫上班的你",
+        "onboard_time": 1661739813,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 202147,
+        "num": 202147,
+        "word": "西安核酸",
+        "onboard_time": 1661732668,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197210,
+        "num": 197210,
+        "word": "回收后的旧手机都去了哪",
+        "onboard_time": 1661740772,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 165462,
+        "num": 165462,
+        "word": "阿里发布ESG报告",
+        "onboard_time": 1661744732,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国这十年#"
+    }
+  }
+}

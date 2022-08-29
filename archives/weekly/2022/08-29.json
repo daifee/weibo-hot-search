@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661742570162,
+  "endTime": 1661748519335,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -25,6 +25,14 @@
       "onboard_time": 1661735796,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2593874,
+      "num": 2593874,
+      "word": "大连N95",
+      "onboard_time": 1661741312,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2202312,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251430,
+      "num": 1251430,
+      "word": "一诺 落水",
+      "onboard_time": 1661742272,
+      "rank": 22,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 1175436,
       "num": 1175436,
       "word": "成都新增本土确诊126例",
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015801,
+      "num": 829501,
+      "word": "王鹤棣费加罗男士封面",
+      "onboard_time": 1661745032,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1003228,
       "num": 1003228,
       "word": "霉霉看BLACKPINK表演时的反应",
@@ -129,6 +153,14 @@
       "onboard_time": 1661697273,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 931611,
+      "num": 931611,
+      "word": "三桶油将分红850亿",
+      "onboard_time": 1661742571,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 898090,
@@ -155,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 798688,
-      "num": 798688,
-      "word": "大连N95",
-      "onboard_time": 1661741312,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760480,
       "num": 760480,
       "word": "家长当2孩子面偷拿他人物品",
@@ -179,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744982,
+      "num": 744982,
+      "word": "女子地铁上傻笑向乘客吐口水",
+      "onboard_time": 1661746835,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733216,
       "num": 733216,
       "word": "华为Mate50",
       "onboard_time": 1661738555,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 728781,
+      "num": 571573,
+      "word": "苍兰诀会员收官海报",
+      "onboard_time": 1661743770,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 709831,
@@ -200,6 +240,14 @@
       "word": "海清 隐入尘烟",
       "onboard_time": 1661732367,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 675466,
+      "num": 675466,
+      "word": "郭晓婷剧抛脸",
+      "onboard_time": 1661741910,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -227,12 +275,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566294,
+      "num": 566294,
+      "word": "喝碳酸饮料后刷牙会加重损伤牙齿",
+      "onboard_time": 1661742272,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561868,
       "num": 561868,
       "word": "沈阳疫情防控",
       "onboard_time": 1661723171,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555968,
+      "num": 555968,
+      "word": "原神必胜客",
+      "onboard_time": 1661744193,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 555321,
+      "num": 442992,
+      "word": "沉香如屑神器原型是历史文物",
+      "onboard_time": 1661746293,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 554483,
@@ -264,6 +336,14 @@
       "word": "苍兰诀导演",
       "onboard_time": 1661734052,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 483217,
+      "num": 441478,
+      "word": "邢菲说831来看一部爽剧",
+      "onboard_time": 1661747494,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -307,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437580,
+      "num": 437580,
+      "word": "我国首次育出蝶中皇后雌蝶",
+      "onboard_time": 1661747075,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428049,
       "num": 323222,
       "word": "吴倩说五年后是夏天赢了",
@@ -323,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414552,
+      "num": 308776,
+      "word": "苍兰诀",
+      "onboard_time": 1661746593,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411897,
       "num": 411897,
       "word": "大爷质问家长为何给孩子穿汉服",
@@ -337,6 +433,14 @@
       "onboard_time": 1661700029,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 400071,
+      "num": 308394,
+      "word": "大琳",
+      "onboard_time": 1661747613,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 388877,
@@ -363,11 +467,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370806,
-      "num": 370806,
-      "word": "一诺 落水",
-      "onboard_time": 1661742272,
-      "rank": 22,
+      "raw_hot": 378963,
+      "num": 378963,
+      "word": "龙麻子称走红后心慌将继续送外卖",
+      "onboard_time": 1661746174,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377865,
+      "num": 307891,
+      "word": "时代少年团演唱会个人直拍播放量",
+      "onboard_time": 1661745933,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 370438,
+      "num": 304578,
+      "word": "久诚登顶",
+      "onboard_time": 1661742810,
+      "rank": 35,
       "category": "综艺,游戏"
     },
     {
@@ -395,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354955,
+      "num": 268842,
+      "word": "Tablo加盟中国说唱巅峰对决",
+      "onboard_time": 1661745993,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353357,
       "num": 353357,
       "word": "法航机长副机长驾机途中打架斗殴",
@@ -403,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351356,
-      "num": 351356,
-      "word": "郭晓婷剧抛脸",
-      "onboard_time": 1661741910,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 336696,
       "num": 163342,
       "word": "苍兰诀 太岁",
       "onboard_time": 1661697691,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321589,
+      "num": 321589,
+      "word": "男子被网恋女网友爽约醉驾出车祸",
+      "onboard_time": 1661740352,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313497,
@@ -443,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289340,
+      "num": 289340,
+      "word": "饮料是痛风年轻化的原因之一",
+      "onboard_time": 1661733269,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282393,
       "num": 282393,
       "word": "男子领养狗后勒索主人3000元",
@@ -457,14 +593,6 @@
       "onboard_time": 1661739632,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280412,
-      "num": 280412,
-      "word": "饮料是痛风年轻化的原因之一",
-      "onboard_time": 1661733269,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277242,
@@ -507,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269035,
+      "num": 269035,
+      "word": "它好像周一上班的我",
+      "onboard_time": 1661742629,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 268239,
       "num": 268239,
       "word": "8月28日新增确诊352例",
@@ -515,11 +651,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268084,
-      "num": 268084,
-      "word": "男子被网恋女网友爽约醉驾出车祸",
-      "onboard_time": 1661740352,
-      "rank": 29,
+      "raw_hot": 267092,
+      "num": 267092,
+      "word": "男子被红火蚁咬伤中毒倒地休克",
+      "onboard_time": 1661742209,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -619,6 +755,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231579,
+      "num": 231579,
+      "word": "为什么不建议低谷期谈恋爱",
+      "onboard_time": 1661748211,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226737,
+      "num": 226737,
+      "word": "开学记录手册",
+      "onboard_time": 1661748395,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
@@ -659,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204041,
+      "num": 204041,
+      "word": "周一被迫上班的你",
+      "onboard_time": 1661739813,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 203861,
       "num": 203861,
       "word": "男子为证明自己的化学天赋自学制毒",
@@ -673,14 +833,6 @@
       "onboard_time": 1661731826,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201208,
-      "num": 201208,
-      "word": "周一被迫上班的你",
-      "onboard_time": 1661739813,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 199487,
@@ -707,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197210,
+      "num": 197210,
+      "word": "回收后的旧手机都去了哪",
+      "onboard_time": 1661740772,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 196161,
       "num": 196161,
       "word": "隐入尘烟票房破3000万",
@@ -723,36 +883,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 193144,
-      "num": 193144,
-      "word": "男子被红火蚁咬伤中毒倒地休克",
-      "onboard_time": 1661742209,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192314,
       "num": 192314,
       "word": "重庆新增10例本土确诊",
       "onboard_time": 1661734052,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190236,
-      "num": 190236,
-      "word": "喝碳酸饮料后刷牙会加重损伤牙齿",
-      "onboard_time": 1661742272,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186497,
-      "num": 186497,
-      "word": "回收后的旧手机都去了哪",
-      "onboard_time": 1661740772,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 183378,
@@ -785,6 +921,14 @@
       "onboard_time": 1661691331,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165462,
+      "num": 165462,
+      "word": "阿里发布ESG报告",
+      "onboard_time": 1661744732,
+      "rank": 49,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 157538,
