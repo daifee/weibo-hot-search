@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661778573307,
+  "endTime": 1661780548229,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -25,6 +25,14 @@
       "onboard_time": 1661764529,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3931213,
+      "num": 3931213,
+      "word": "苍兰诀 番外",
+      "onboard_time": 1661778454,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 3227009,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2297038,
+      "num": 1645708,
+      "word": "苍兰诀大结局亲了四次",
+      "onboard_time": 1661776471,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2202312,
       "num": 2202312,
       "word": "唐山打人案2受害女子已出院",
@@ -107,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2184140,
-      "num": 1645708,
-      "word": "苍兰诀大结局亲了四次",
-      "onboard_time": 1661776471,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 2193847,
+      "num": 2193847,
+      "word": "16岁少年上手术台发现少一块骨头",
+      "onboard_time": 1661776288,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1993407,
@@ -121,6 +137,14 @@
       "onboard_time": 1661760752,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1883726,
+      "num": 1576849,
+      "word": "P图造谣赵露思网友成老赖",
+      "onboard_time": 1661777193,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1856007,
@@ -153,14 +177,6 @@
       "onboard_time": 1661749893,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1576849,
-      "num": 1576849,
-      "word": "P图造谣赵露思网友成老赖",
-      "onboard_time": 1661777193,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1576111,
@@ -251,11 +267,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1334264,
-      "num": 1334264,
-      "word": "16岁少年上手术台发现少一块骨头",
-      "onboard_time": 1661776288,
-      "rank": 15,
+      "raw_hot": 1345322,
+      "num": 1345322,
+      "word": "成都疫情防控",
+      "onboard_time": 1661688928,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -328,6 +344,22 @@
       "word": "男子在女友孕期出轨还想要回16万彩礼",
       "onboard_time": 1661681546,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135563,
+      "num": 1105962,
+      "word": "苍兰诀站内热度值突破10500",
+      "onboard_time": 1661780313,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1128117,
+      "num": 1128117,
+      "word": "武汉48小时内未做核酸将赋灰码",
+      "onboard_time": 1661777491,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -425,6 +457,14 @@
       "onboard_time": 1661697273,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 935428,
+      "num": 935428,
+      "word": "研究生扩招高校真的准备好了吗",
+      "onboard_time": 1661778812,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 935107,
@@ -609,6 +649,14 @@
       "onboard_time": 1661763749,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 655906,
+      "num": 655906,
+      "word": "成都新增本土确诊134例",
+      "onboard_time": 1661775871,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642688,
@@ -819,12 +867,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 526644,
-      "num": 526644,
-      "word": "成都新增本土确诊134例",
-      "onboard_time": 1661775871,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 531263,
+      "num": 173359,
+      "word": "虞书欣演技",
+      "onboard_time": 1661780494,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 521665,
@@ -857,6 +905,14 @@
       "onboard_time": 1661734052,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 496862,
+      "num": 496862,
+      "word": "中国女排1比3不敌日本",
+      "onboard_time": 1661779235,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 483217,
@@ -1059,20 +1115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402736,
+      "num": 302177,
+      "word": "苍兰诀大结局好仓促",
+      "onboard_time": 1661780434,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402120,
       "num": 402120,
       "word": "应渊找颜淡求复合",
       "onboard_time": 1661766634,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400346,
-      "num": 400346,
-      "word": "武汉48小时内未做核酸将赋灰码",
-      "onboard_time": 1661777491,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400071,
@@ -1089,14 +1145,6 @@
       "onboard_time": 1661746174,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398363,
-      "num": 247021,
-      "word": "苍兰诀 番外",
-      "onboard_time": 1661778454,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 395354,
@@ -1243,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358911,
+      "num": 358911,
+      "word": "深圳本地首次发现BF.15变异株",
+      "onboard_time": 1661779658,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355304,
       "num": 355304,
       "word": "成都市民进入公共场所须48小时核酸证明",
@@ -1315,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 338081,
+      "num": 300799,
+      "word": "应渊无赖式追妻",
+      "onboard_time": 1661779837,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337311,
       "num": 282883,
       "word": "唐周亲眼看着自己变透明",
@@ -1337,6 +1401,30 @@
       "onboard_time": 1661772690,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332014,
+      "num": 300505,
+      "word": "罚罪",
+      "onboard_time": 1661780072,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327689,
+      "num": 327689,
+      "word": "这是你见过最黑的大熊猫吗",
+      "onboard_time": 1661778032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323090,
+      "num": 323090,
+      "word": "sls",
+      "onboard_time": 1661778214,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 321589,
@@ -1379,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305062,
+      "num": 305062,
+      "word": "拼多多发布第二季度财报",
+      "onboard_time": 1661778935,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 304918,
       "num": 304918,
       "word": "央视梳理唐山打人案始末",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1661698471,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296245,
+      "num": 296245,
+      "word": "妇女报评唐山打人事件保护伞被查",
+      "onboard_time": 1661777132,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295935,
@@ -1587,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258506,
+      "num": 258506,
+      "word": "大连静默",
+      "onboard_time": 1661778392,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257529,
       "num": 216492,
       "word": "叶蓁蓁好像和闺蜜闹别扭的我",
@@ -1643,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244585,
+      "num": 244585,
+      "word": "四川核酸",
+      "onboard_time": 1661777251,
+      "rank": 37,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 241381,
       "num": 241381,
       "word": "一诺回应落水",
@@ -1673,14 +1793,6 @@
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 231921,
-      "num": 231921,
-      "word": "妇女报评唐山打人事件保护伞被查",
-      "onboard_time": 1661777132,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226737,
@@ -1721,14 +1833,6 @@
       "onboard_time": 1661762430,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215790,
-      "num": 215790,
-      "word": "四川核酸",
-      "onboard_time": 1661777251,
-      "rank": 37,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 213959,
@@ -1931,28 +2035,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 163342,
-      "num": 163342,
-      "word": "sls",
-      "onboard_time": 1661778214,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 160191,
       "num": 160191,
       "word": "微博上课了表情上线",
       "onboard_time": 1661761589,
       "rank": 43,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 158172,
-      "num": 158172,
-      "word": "大连静默",
-      "onboard_time": 1661778392,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157538,
@@ -1985,14 +2073,6 @@
       "onboard_time": 1661689767,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152703,
-      "num": 152703,
-      "word": "这是你见过最黑的大熊猫吗",
-      "onboard_time": 1661778032,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151201,
@@ -2153,14 +2233,6 @@
       "onboard_time": 1661693611,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86038,
-      "num": 86038,
-      "word": "成都疫情防控",
-      "onboard_time": 1661688928,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81174,

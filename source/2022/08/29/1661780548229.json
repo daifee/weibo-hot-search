@@ -1,0 +1,410 @@
+{
+  "runTime": 1661780548229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3931213,
+        "num": 3931213,
+        "word": "苍兰诀 番外",
+        "onboard_time": 1661778454,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2193847,
+        "num": 2193847,
+        "word": "16岁少年上手术台发现少一块骨头",
+        "onboard_time": 1661776288,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18765,
+        "num": 1752291,
+        "word": "英雄战士与英雄人民的双向奔赴",
+        "onboard_time": 1661702785,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2476750,
+        "num": 1721810,
+        "word": "苍兰诀大结局",
+        "onboard_time": 1661773349,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1345322,
+        "num": 1345322,
+        "word": "成都疫情防控",
+        "onboard_time": 1661780313,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2297038,
+        "num": 1344450,
+        "word": "苍兰诀大结局亲了四次",
+        "onboard_time": 1661776471,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1334235,
+        "num": 1334235,
+        "word": "赵立坚称曾在微博发现中国公民求助",
+        "onboard_time": 1661770232,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1310515,
+        "num": 1310515,
+        "word": "成都核酸系统崩溃",
+        "onboard_time": 1661775450,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221453,
+        "num": 1221453,
+        "word": "成都车祸",
+        "onboard_time": 1661764529,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128117,
+        "num": 1128117,
+        "word": "武汉48小时内未做核酸将赋灰码",
+        "onboard_time": 1661777491,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1883726,
+        "num": 1112899,
+        "word": "P图造谣赵露思网友成老赖",
+        "onboard_time": 1661777193,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135563,
+        "num": 1105962,
+        "word": "苍兰诀站内热度值突破10500",
+        "onboard_time": 1661780313,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935428,
+        "num": 935428,
+        "word": "研究生扩招高校真的准备好了吗",
+        "onboard_time": 1661778812,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1079327,
+        "num": 919409,
+        "word": "苍兰诀 琉璃火",
+        "onboard_time": 1661773469,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705997,
+        "num": 705997,
+        "word": "30岁未婚女生立遗嘱遗产给妈妈",
+        "onboard_time": 1661769751,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655906,
+        "num": 655906,
+        "word": "成都新增本土确诊134例",
+        "onboard_time": 1661775871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496862,
+        "num": 496862,
+        "word": "中国女排1比3不敌日本",
+        "onboard_time": 1661779235,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434096,
+        "num": 434096,
+        "word": "4岁血癌女孩肝脾肿大腹胀如球",
+        "onboard_time": 1661772510,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416755,
+        "num": 416755,
+        "word": "NASA",
+        "onboard_time": 1661773711,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358911,
+        "num": 358911,
+        "word": "深圳本地首次发现BF.15变异株",
+        "onboard_time": 1661779658,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402993,
+        "num": 358276,
+        "word": "韩国演员刘珠恩自杀",
+        "onboard_time": 1661766993,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910983,
+        "num": 358054,
+        "word": "王祖蓝李亚男一家四口首封",
+        "onboard_time": 1661771309,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 768985,
+        "num": 356011,
+        "word": "肖战刘诗诗秋冬大片",
+        "onboard_time": 1661773050,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 351044,
+        "num": 351044,
+        "word": "老人偷肉被抓跪地磕头道歉",
+        "onboard_time": 1661763269,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350463,
+        "num": 350463,
+        "word": "广电重点扶持10部网络动画片",
+        "onboard_time": 1661773229,
+        "rank": 24,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 457467,
+        "num": 347737,
+        "word": "网传错撩主演暂定白鹿王鹤棣",
+        "onboard_time": 1661775689,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327689,
+        "num": 327689,
+        "word": "这是你见过最黑的大熊猫吗",
+        "onboard_time": 1661778032,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323090,
+        "num": 323090,
+        "word": "sls",
+        "onboard_time": 1661778214,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311445,
+        "num": 311445,
+        "word": "成都锦江区疫情防控",
+        "onboard_time": 1661763631,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305062,
+        "num": 305062,
+        "word": "拼多多发布第二季度财报",
+        "onboard_time": 1661778935,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 402736,
+        "num": 302177,
+        "word": "苍兰诀大结局好仓促",
+        "onboard_time": 1661780434,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338081,
+        "num": 300799,
+        "word": "应渊无赖式追妻",
+        "onboard_time": 1661779837,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332014,
+        "num": 300505,
+        "word": "罚罪",
+        "onboard_time": 1661780072,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296245,
+        "num": 296245,
+        "word": "妇女报评唐山打人事件保护伞被查",
+        "onboard_time": 1661777132,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295427,
+        "num": 295427,
+        "word": "这些行为都是性骚扰",
+        "onboard_time": 1661762007,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274005,
+        "num": 274005,
+        "word": "男孩截胡爸爸的啤酒鸭当宠物养",
+        "onboard_time": 1661771489,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258506,
+        "num": 258506,
+        "word": "大连静默",
+        "onboard_time": 1661778392,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255360,
+        "num": 255360,
+        "word": "蜜雪冰城茶包被曝喝出多条虫子",
+        "onboard_time": 1661753369,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244585,
+        "num": 244585,
+        "word": "四川核酸",
+        "onboard_time": 1661777251,
+        "rank": 38,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 234991,
+        "num": 234991,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1661771430,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234170,
+        "num": 234170,
+        "word": "久诚晒身材",
+        "onboard_time": 1661775390,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 728023,
+        "num": 231555,
+        "word": "我爱苍生 也爱一人",
+        "onboard_time": 1661777735,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227673,
+        "num": 227673,
+        "word": "成都核酸",
+        "onboard_time": 1661773771,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221843,
+        "num": 221843,
+        "word": "广州一公司招聘本科生需提供大专证",
+        "onboard_time": 1661763929,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189623,
+        "num": 189623,
+        "word": "原来高铁还有静音车厢",
+        "onboard_time": 1661773229,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188780,
+        "num": 188780,
+        "word": "中国无人机到中国领土飞一飞不值得大惊小怪",
+        "onboard_time": 1661763749,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174356,
+        "num": 174356,
+        "word": "被打女子遭陈某志等人威胁",
+        "onboard_time": 1661752588,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531263,
+        "num": 173359,
+        "word": "虞书欣演技",
+        "onboard_time": 1661780494,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169883,
+        "num": 169883,
+        "word": "外交部回应大陆无人机到金门岛拍照",
+        "onboard_time": 1661763389,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148279,
+        "num": 169839,
+        "word": "女生坐硬卧 下铺",
+        "onboard_time": 1661751387,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
