@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661740205132,
+  "endTime": 1661742570162,
   "band_list": [
     {
       "raw_hot": 9522377,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003228,
+      "num": 1003228,
+      "word": "霉霉看BLACKPINK表演时的反应",
+      "onboard_time": 1661740833,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 947725,
       "num": 947725,
       "word": "苍兰诀 智者不入爱河",
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 798688,
+      "num": 798688,
+      "word": "大连N95",
+      "onboard_time": 1661741312,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760480,
       "num": 760480,
       "word": "家长当2孩子面偷拿他人物品",
@@ -163,12 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721074,
-      "num": 721074,
+      "raw_hot": 733216,
+      "num": 733216,
       "word": "华为Mate50",
       "onboard_time": 1661738555,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 709831,
+      "num": 709831,
+      "word": "陈某志10年参与刑事犯罪11起",
+      "onboard_time": 1661736755,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683554,
@@ -177,14 +201,6 @@
       "onboard_time": 1661732367,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 651910,
-      "num": 651910,
-      "word": "陈某志10年参与刑事犯罪11起",
-      "onboard_time": 1661736755,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 641242,
@@ -259,6 +275,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 475284,
+      "num": 475284,
+      "word": "张彬彬换贾乃亮照片当头像",
+      "onboard_time": 1661739993,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 459332,
+      "num": 459332,
+      "word": "A股",
+      "onboard_time": 1661739632,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 448699,
       "num": 448699,
       "word": "BLACKPINK红毯新闻图",
@@ -281,6 +313,14 @@
       "onboard_time": 1661696972,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415853,
+      "num": 415853,
+      "word": "00后噶羊少女回应走红",
+      "onboard_time": 1661738973,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411897,
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370806,
+      "num": 370806,
+      "word": "一诺 落水",
+      "onboard_time": 1661742272,
+      "rank": 22,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 369120,
       "num": 319758,
       "word": "男子离婚两年后前妻告知儿子非亲生",
@@ -355,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351356,
+      "num": 351356,
+      "word": "郭晓婷剧抛脸",
+      "onboard_time": 1661741910,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336696,
       "num": 163342,
       "word": "苍兰诀 太岁",
@@ -363,28 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322458,
-      "num": 322458,
-      "word": "00后噶羊少女回应走红",
-      "onboard_time": 1661738973,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313497,
       "num": 313497,
       "word": "动物园灰鹦鹉被逗后说脏话骂游客",
       "onboard_time": 1661699672,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306171,
-      "num": 282204,
-      "word": "张彬彬换贾乃亮照片当头像",
-      "onboard_time": 1661739993,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 299203,
@@ -435,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274275,
-      "num": 274275,
-      "word": "A股",
-      "onboard_time": 1661739632,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 272941,
+      "num": 272941,
+      "word": "8名公职人员与陈某志案有关被留置",
+      "onboard_time": 1661739213,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272831,
@@ -459,11 +499,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270826,
+      "num": 270826,
+      "word": "河南疫情防控",
+      "onboard_time": 1661741370,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268239,
       "num": 268239,
       "word": "8月28日新增确诊352例",
       "onboard_time": 1661740052,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268084,
+      "num": 268084,
+      "word": "男子被网恋女网友爽约醉驾出车祸",
+      "onboard_time": 1661740352,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -481,6 +537,14 @@
       "onboard_time": 1661738615,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264111,
+      "num": 264111,
+      "word": "海的尽头是草原角色海报",
+      "onboard_time": 1661742149,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 262592,
@@ -505,6 +569,14 @@
       "onboard_time": 1661703084,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255150,
+      "num": 255150,
+      "word": "东八区的先生们定档0831",
+      "onboard_time": 1661741730,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 249574,
@@ -552,6 +624,22 @@
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
       "onboard_time": 1661686769,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218855,
+      "num": 194219,
+      "word": "极挑大魔王和罚罪常征的反差感",
+      "onboard_time": 1661741792,
+      "rank": 40,
+      "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 213959,
+      "num": 645901,
+      "word": "14岁师弟跑出苏炳添16岁时的成绩",
+      "onboard_time": 1661739452,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -635,6 +723,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 193144,
+      "num": 193144,
+      "word": "男子被红火蚁咬伤中毒倒地休克",
+      "onboard_time": 1661742209,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192314,
       "num": 192314,
       "word": "重庆新增10例本土确诊",
@@ -643,12 +739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187500,
-      "num": 187500,
-      "word": "8名公职人员与陈某志案有关被留置",
-      "onboard_time": 1661739213,
-      "rank": 46,
+      "raw_hot": 190236,
+      "num": 190236,
+      "word": "喝碳酸饮料后刷牙会加重损伤牙齿",
+      "onboard_time": 1661742272,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186497,
+      "num": 186497,
+      "word": "回收后的旧手机都去了哪",
+      "onboard_time": 1661740772,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 183378,
@@ -705,6 +809,14 @@
       "onboard_time": 1661689767,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148997,
+      "num": 148997,
+      "word": "腾讯会议官方回应崩了",
+      "onboard_time": 1661741910,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 146908,
@@ -777,14 +889,6 @@
       "onboard_time": 1661691331,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 103607,
-      "num": 645901,
-      "word": "14岁师弟跑出苏炳添16岁时的成绩",
-      "onboard_time": 1661739452,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98650,
