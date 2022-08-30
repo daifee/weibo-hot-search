@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661877224777,
+  "endTime": 1661878687742,
   "band_list": [
     {
       "raw_hot": 2429638,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 902458,
+      "raw_hot": 1074182,
       "num": 785500,
       "word": "安徽一殡仪馆群发温馨提示短信",
       "onboard_time": 1661874687,
@@ -67,19 +67,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639499,
+      "num": 639499,
+      "word": "周迅 忘记拍灯",
+      "onboard_time": 1661875049,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600181,
       "num": 452960,
       "word": "于正全员加速中第一季编剧",
       "onboard_time": 1661873130,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 587373,
-      "num": 437432,
-      "word": "周迅 忘记拍灯",
-      "onboard_time": 1661875049,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 502813,
-      "num": 245684,
+      "num": 324165,
       "word": "辛巴在抖音直播质问抖音",
       "onboard_time": 1661869055,
       "rank": 20,
@@ -171,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311847,
+      "num": 195898,
+      "word": "95生怼脸生图",
+      "onboard_time": 1661877865,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309410,
+      "num": 309410,
+      "word": "看一眼都觉得崩溃的程度",
+      "onboard_time": 1661875171,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291666,
       "num": 147103,
       "word": "脱口秀大会 小鹿",
@@ -193,14 +209,6 @@
       "onboard_time": 1661859209,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247307,
-      "num": 247307,
-      "word": "看一眼都觉得崩溃的程度",
-      "onboard_time": 1661875171,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 240633,
@@ -232,6 +240,14 @@
       "word": "欢乐颂4",
       "onboard_time": 1661863049,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187316,
+      "num": 108858,
+      "word": "今年超过40万人评分的影视剧",
+      "onboard_time": 1661875707,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -401,6 +417,14 @@
       "onboard_time": 1661853328,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 33321,
+      "num": 33321,
+      "word": "赵睿暗示留队",
+      "onboard_time": 1661868397,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
