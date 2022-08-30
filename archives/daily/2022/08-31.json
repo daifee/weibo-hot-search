@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661880428480,
+  "endTime": 1661881387701,
   "band_list": [
     {
       "raw_hot": 2429638,
@@ -147,20 +147,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380499,
+      "num": 195898,
+      "word": "95生怼脸生图",
+      "onboard_time": 1661877865,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374502,
       "num": 374502,
       "word": "亚洲人首次进入全球富豪前三",
       "onboard_time": 1661859806,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 358191,
-      "num": 195898,
-      "word": "95生怼脸生图",
-      "onboard_time": 1661877865,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 336956,
@@ -219,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226598,
+      "num": 214251,
+      "word": "今年超过40万人评分的影视剧",
+      "onboard_time": 1661875707,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223897,
       "num": 223897,
       "word": "女性多少岁打九价合适",
       "onboard_time": 1661866295,
       "rank": 24,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 221506,
-      "num": 119644,
-      "word": "今年超过40万人评分的影视剧",
-      "onboard_time": 1661875707,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 199113,
@@ -427,8 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28009,
-      "num": 28009,
+      "raw_hot": 28708,
+      "num": 28708,
       "word": "当你用摄像头找猫时",
       "onboard_time": 1661880018,
       "rank": 49,
