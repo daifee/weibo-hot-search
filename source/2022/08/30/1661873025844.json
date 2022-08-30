@@ -1,0 +1,410 @@
+{
+  "runTime": 1661873025844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639264,
+        "num": 1639264,
+        "word": "脱口秀大会 小鹿",
+        "onboard_time": 1661867797,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1157876,
+        "num": 1157876,
+        "word": "星汉灿烂 太子妃",
+        "onboard_time": 1661871159,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88341,
+        "num": 1156794,
+        "word": "我国太阳探测卫星科学数据全球共享",
+        "onboard_time": 1661864073,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7490602,
+        "num": 1155877,
+        "word": "辛巴发长文爆料刘畊宏夫妇卖假货",
+        "onboard_time": 1661865874,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1281625,
+        "num": 1153618,
+        "word": "我国结婚年龄越来越迟",
+        "onboard_time": 1661863469,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3258907,
+        "num": 1152591,
+        "word": "HPV九价疫苗扩龄至9-45岁",
+        "onboard_time": 1661863110,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151691,
+        "num": 1151691,
+        "word": "中俄将在日本海进行联合演习",
+        "onboard_time": 1661867132,
+        "rank": 6,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 984258,
+        "num": 984258,
+        "word": "离职一定要删的东西",
+        "onboard_time": 1661868755,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647728,
+        "num": 647728,
+        "word": "亚洲人首次进入全球富豪前三",
+        "onboard_time": 1661859806,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 601965,
+        "num": 601965,
+        "word": "23岁女子上班时突发脑出血",
+        "onboard_time": 1661860169,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189441,
+        "num": 595023,
+        "word": "网传章子怡赵丽颖合作双女主剧",
+        "onboard_time": 1661865692,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 928997,
+        "num": 591186,
+        "word": "辛巴在抖音直播质问抖音",
+        "onboard_time": 1661869055,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 875117,
+        "num": 588342,
+        "word": "没有了苍兰诀的第一天",
+        "onboard_time": 1661870801,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582493,
+        "num": 582493,
+        "word": "去年25至29岁结婚人数最多",
+        "onboard_time": 1661869599,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573853,
+        "num": 573853,
+        "word": "警方回应男子趴地学狗叫咬伤人",
+        "onboard_time": 1661868275,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471601,
+        "num": 471601,
+        "word": "女性多少岁打九价合适",
+        "onboard_time": 1661866295,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 450307,
+        "num": 450307,
+        "word": "石家庄新华区疫情防控",
+        "onboard_time": 1661869475,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442569,
+        "num": 442569,
+        "word": "结婚人数首次低于800万对",
+        "onboard_time": 1661859209,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433679,
+        "num": 433679,
+        "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
+        "onboard_time": 1661858309,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388123,
+        "num": 388123,
+        "word": "囤物资不要囤喜欢吃的",
+        "onboard_time": 1661869535,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 499967,
+        "num": 382841,
+        "word": "星汉灿烂",
+        "onboard_time": 1661849910,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495772,
+        "num": 378830,
+        "word": "欢乐颂4",
+        "onboard_time": 1661863049,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462474,
+        "num": 375931,
+        "word": "思文 回归",
+        "onboard_time": 1661865996,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370185,
+        "num": 370185,
+        "word": "作协回应贾浅浅是否入会",
+        "onboard_time": 1661865392,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293028,
+        "num": 293028,
+        "word": "九价",
+        "onboard_time": 1661862269,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286688,
+        "num": 286688,
+        "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+        "onboard_time": 1661853688,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271311,
+        "num": 271311,
+        "word": "业主几年没回家开门毛坯变精装",
+        "onboard_time": 1661857588,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266928,
+        "num": 266928,
+        "word": "教育部王登峰被查",
+        "onboard_time": 1661856687,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256535,
+        "num": 256535,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1661869716,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253856,
+        "num": 253856,
+        "word": "为什么一定要好好告别",
+        "onboard_time": 1661866955,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454299,
+        "num": 242280,
+        "word": "张翰新剧首演单身奶爸",
+        "onboard_time": 1661872773,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410125,
+        "num": 226655,
+        "word": "丁程鑫说成熟是好事",
+        "onboard_time": 1661872238,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324940,
+        "num": 214762,
+        "word": "拉宏桑脱口秀首秀满灯晋级",
+        "onboard_time": 1661872238,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318481,
+        "num": 211731,
+        "word": "江疏影欢乐颂4吻戏剧透",
+        "onboard_time": 1661870260,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199177,
+        "num": 199177,
+        "word": "陕西蓝田通报老人被群嘲事件",
+        "onboard_time": 1661872293,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185858,
+        "num": 185858,
+        "word": "九价疫苗该如何预约",
+        "onboard_time": 1661870199,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179406,
+        "num": 179406,
+        "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
+        "onboard_time": 1661862989,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163709,
+        "num": 163709,
+        "word": "东北早市才是碳水届扛把子",
+        "onboard_time": 1661863350,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160420,
+        "num": 160420,
+        "word": "赵睿暗示留队",
+        "onboard_time": 1661868397,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159414,
+        "num": 159414,
+        "word": "感觉大四的学费交得好亏",
+        "onboard_time": 1661853448,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244863,
+        "num": 158419,
+        "word": "脱口秀大会",
+        "onboard_time": 1661869957,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209703,
+        "num": 157142,
+        "word": "严浩翔看望江湖视频",
+        "onboard_time": 1661871699,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147476,
+        "num": 147476,
+        "word": "成都警方通报热带雨林寻衅滋事",
+        "onboard_time": 1661860049,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142165,
+        "num": 142165,
+        "word": "在海拔4800米体验放牛",
+        "onboard_time": 1661871518,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123795,
+        "num": 123795,
+        "word": "2022LPL夏决",
+        "onboard_time": 1661865571,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117689,
+        "num": 117689,
+        "word": "官方回应老人索要土地承包费被群嘲",
+        "onboard_time": 1661851171,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117122,
+        "num": 117122,
+        "word": "客运回应女子未给婴儿买票被拦",
+        "onboard_time": 1661872951,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112497,
+        "num": 112497,
+        "word": "iPhoneSE将取消Home键",
+        "onboard_time": 1661853328,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 110102,
+        "num": 110102,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102196,
+        "num": 102196,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}
