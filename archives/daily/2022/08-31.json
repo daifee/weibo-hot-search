@@ -1,7 +1,15 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661899126673,
+  "endTime": 1661901876761,
   "band_list": [
+    {
+      "raw_hot": 6372139,
+      "num": 6372139,
+      "word": "戈尔巴乔夫去世",
+      "onboard_time": 1661900660,
+      "rank": 0,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 2429638,
       "num": 818712,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687265,
+      "num": 687265,
+      "word": "200斤爸爸抱6斤女儿直犯难",
+      "onboard_time": 1661889551,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659062,
       "num": 659062,
       "word": "我国结婚年龄越来越迟",
@@ -83,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541964,
+      "num": 541964,
+      "word": "女孩猛推扭扭车致2岁宝宝摔落",
+      "onboard_time": 1661895672,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535603,
       "num": 437002,
       "word": "没有了苍兰诀的第一天",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 502813,
-      "num": 324165,
+      "num": 396546,
       "word": "辛巴在抖音直播质问抖音",
       "onboard_time": 1661869055,
       "rank": 20,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 390444,
-      "num": 147835,
+      "num": 288949,
       "word": "网传章子怡赵丽颖合作双女主剧",
       "onboard_time": 1661865692,
       "rank": 30,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 380499,
-      "num": 195898,
+      "num": 240226,
       "word": "95生怼脸生图",
       "onboard_time": 1661877865,
       "rank": 21,
@@ -171,11 +195,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334162,
-      "num": 334162,
-      "word": "200斤爸爸抱6斤女儿直犯难",
-      "onboard_time": 1661889551,
-      "rank": 45,
+      "raw_hot": 326385,
+      "num": 326385,
+      "word": "多抓鱼75元回收的衣服629元售卖",
+      "onboard_time": 1661886312,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278866,
+      "num": 278866,
+      "word": "男孩赶作业敲得比发电报还快",
+      "onboard_time": 1661894651,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257378,
       "num": 257378,
       "word": "结婚人数首次低于800万对",
@@ -225,6 +257,14 @@
       "onboard_time": 1661858309,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234873,
+      "num": 234873,
+      "word": "主人因喝多忘记把狗带回家",
+      "onboard_time": 1661895190,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 226598,
@@ -243,6 +283,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 223388,
+      "num": 223388,
+      "word": "月升沧海",
+      "onboard_time": 1661901745,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206623,
+      "num": 206623,
+      "word": "普京对戈尔巴乔夫去世表示哀悼",
+      "onboard_time": 1661901564,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 199113,
       "num": 144386,
       "word": "思文 回归",
@@ -256,6 +312,30 @@
       "word": "欢乐颂4",
       "onboard_time": 1661863049,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192807,
+      "num": 192807,
+      "word": "联合国秘书长悼念戈尔巴乔夫",
+      "onboard_time": 1661901625,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 189196,
+      "num": 189196,
+      "word": "四川果农400块一车买水抢救橘树",
+      "onboard_time": 1661891170,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185376,
+      "num": 185376,
+      "word": "玉骨遥",
+      "onboard_time": 1661897474,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -307,19 +387,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144501,
-      "num": 144501,
-      "word": "女孩猛推扭扭车致2岁宝宝摔落",
-      "onboard_time": 1661895672,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143501,
       "num": 143501,
       "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
       "onboard_time": 1661853688,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140495,
+      "num": 140495,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1661869716,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -339,10 +419,10 @@
       "category": "科技"
     },
     {
-      "raw_hot": 138156,
-      "num": 138156,
-      "word": "多抓鱼75元回收的衣服629元售卖",
-      "onboard_time": 1661886312,
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "无锡疫情防控",
+      "onboard_time": 1661883913,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -363,19 +443,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124272,
-      "num": 124272,
+      "raw_hot": 127986,
+      "num": 127986,
       "word": "教育部王登峰被查",
       "onboard_time": 1661856687,
       "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115206,
-      "num": 115206,
-      "word": "男孩赶作业敲得比发电报还快",
-      "onboard_time": 1661894651,
-      "rank": 46,
+      "raw_hot": 126280,
+      "num": 126280,
+      "word": "多抓鱼75元回收衣服翻8倍出售",
+      "onboard_time": 1661900963,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -385,14 +465,6 @@
       "onboard_time": 1661870199,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98504,
-      "num": 98504,
-      "word": "主人因喝多忘记把狗带回家",
-      "onboard_time": 1661895190,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 97672,
@@ -411,14 +483,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 86473,
-      "num": 86473,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1661869716,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85991,
       "num": 85991,
       "word": "成都警方通报热带雨林寻衅滋事",
@@ -427,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79195,
-      "num": 79195,
-      "word": "玉骨遥",
-      "onboard_time": 1661897474,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 76415,
+      "num": 842369,
+      "word": "我国太阳探测卫星科学数据全球共享",
+      "onboard_time": 1661864073,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 75349,
@@ -443,20 +507,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 75185,
-      "num": 75185,
-      "word": "四川果农400块一车买水抢救橘树",
-      "onboard_time": 1661891170,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73583,
       "num": 60543,
       "word": "张云龙这张吃不了亏的嘴",
       "onboard_time": 1661882056,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71510,
+      "num": 71510,
+      "word": "AI虚拟歌手入学上海音乐学院",
+      "onboard_time": 1661901323,
+      "rank": 47,
+      "category": "科技,教育"
     },
     {
       "raw_hot": 67032,
@@ -467,28 +531,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66604,
+      "num": 66604,
+      "word": "郑钦文晋级美网第二轮",
+      "onboard_time": 1661901745,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64736,
       "num": 64736,
       "word": "当你用摄像头找猫时",
       "onboard_time": 1661880018,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62138,
-      "num": 842369,
-      "word": "我国太阳探测卫星科学数据全球共享",
-      "onboard_time": 1661864073,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 60598,
-      "num": 60598,
-      "word": "无锡疫情防控",
-      "onboard_time": 1661883913,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50756,
