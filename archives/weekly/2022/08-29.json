@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661836152277,
+  "endTime": 1661840077626,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2153336,
+      "num": 2153336,
+      "word": "iPhone14Pro渐变紫",
+      "onboard_time": 1661834492,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2054192,
       "num": 2054192,
       "word": "武汉48小时内未做核酸将赋灰码",
@@ -280,6 +288,14 @@
       "word": "警方讯问陈某志视频首次公开",
       "onboard_time": 1661749893,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1593325,
+      "num": 1593325,
+      "word": "大连老人没戴N95被警方带下公交",
+      "onboard_time": 1661838328,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -440,6 +456,14 @@
       "word": "男子为女网友买衣服后报警要回399元",
       "onboard_time": 1661823869,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1283966,
+      "num": 1283966,
+      "word": "承德高新区道歉",
+      "onboard_time": 1661837728,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -635,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 961074,
-      "num": 961074,
-      "word": "iPhone14Pro渐变紫",
-      "onboard_time": 1661834492,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 956425,
       "num": 583161,
       "word": "肖战刘诗诗秋冬大片",
@@ -731,6 +747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 839653,
+      "num": 839653,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832528,
       "num": 684764,
       "word": "蔡徐坤把拴Q说成了3Q",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 799842,
-      "num": 638928,
+      "num": 719283,
       "word": "原来简历还可以这样写",
       "onboard_time": 1661833952,
       "rank": 13,
@@ -776,6 +800,14 @@
       "word": "网店月售鳄雀鳝2000余单",
       "onboard_time": 1661797571,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794695,
+      "num": 794695,
+      "word": "稻盛和夫去世",
+      "onboard_time": 1661839767,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -977,6 +1009,14 @@
       "onboard_time": 1661775871,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650085,
+      "num": 650085,
+      "word": "赵露思教吴磊如何牵手",
+      "onboard_time": 1661837848,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 644032,
@@ -1475,6 +1515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 437594,
+      "num": 437594,
+      "word": "我国首条跨海高铁全线铺轨贯通",
+      "onboard_time": 1661834311,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436937,
       "num": 334312,
       "word": "宋亚轩记录舞台四宫格",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1661826987,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428811,
+      "num": 428811,
+      "word": "心动的信号5里的男嘉宾",
+      "onboard_time": 1661835510,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 428049,
@@ -1667,12 +1723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382632,
+      "num": 382632,
+      "word": "前任回头意味着什么",
+      "onboard_time": 1661838806,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380375,
       "num": 237880,
       "word": "周深的歌要么甜我要么刀我",
       "onboard_time": 1661782412,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380252,
+      "num": 380252,
+      "word": "女子乘车未给婴儿买车票被拦",
+      "onboard_time": 1661838806,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379360,
@@ -1931,14 +2003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 335353,
-      "num": 297697,
-      "word": "心动的信号5里的男嘉宾",
-      "onboard_time": 1661835510,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
@@ -1987,12 +2051,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 321865,
+      "num": 321865,
+      "word": "老人深夜带孙女捡废品救患病孙子",
+      "onboard_time": 1661834370,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321589,
       "num": 321589,
       "word": "男子被网恋女网友爽约醉驾出车祸",
       "onboard_time": 1661740352,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318307,
+      "num": 318307,
+      "word": "冰雨火王一博蝉联角色热度周榜冠军",
+      "onboard_time": 1661838867,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 316161,
@@ -2163,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275566,
+      "num": 275566,
+      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+      "onboard_time": 1661834370,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275423,
       "num": 275423,
       "word": "8名公职人员与陈某志案有关被留置",
@@ -2171,20 +2259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274127,
+      "num": 274127,
+      "word": "想唱就唱的夏天",
+      "onboard_time": 1661839466,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274018,
       "num": 139329,
       "word": "小辉 大琳",
       "onboard_time": 1661784458,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 273902,
-      "num": 246201,
-      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
-      "onboard_time": 1661834370,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 272831,
@@ -2225,6 +2313,14 @@
       "onboard_time": 1661741370,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270561,
+      "num": 131835,
+      "word": "看INTO1体能对抗像看广场舞",
+      "onboard_time": 1661840068,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 270105,
@@ -2419,6 +2515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253974,
+      "num": 253974,
+      "word": "深圳新增35例阳性病例",
+      "onboard_time": 1661839406,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252824,
       "num": 252824,
       "word": "王嘉尔加盟中国说唱巅峰对决",
@@ -2587,6 +2691,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 218138,
+      "num": 218138,
+      "word": "女子酒驾肇事后淡定离开现场",
+      "onboard_time": 1661835329,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217957,
       "num": 217957,
       "word": "哪些零食营养安全",
@@ -2617,6 +2729,14 @@
       "onboard_time": 1661699131,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 210104,
+      "num": 210104,
+      "word": "无畏一诺有点搞笑DNA在身上",
+      "onboard_time": 1661837787,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 209467,
@@ -2747,14 +2867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194597,
-      "num": 194597,
-      "word": "我国首条跨海高铁全线铺轨贯通",
-      "onboard_time": 1661834311,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194101,
       "num": 194101,
       "word": "在重庆有一种感动叫双向奔赴",
@@ -2817,14 +2929,6 @@
       "onboard_time": 1661764349,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 180113,
-      "num": 180113,
-      "word": "老人深夜带孙女捡废品救患病孙子",
-      "onboard_time": 1661834370,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179925,
@@ -2947,14 +3051,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 155831,
-      "num": 155831,
-      "word": "女子酒驾肇事后淡定离开现场",
-      "onboard_time": 1661835329,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153506,
       "num": 145114,
       "word": "王子文吴永恩考拉抱",
@@ -2987,12 +3083,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148192,
+      "num": 148192,
+      "word": "兵哥哥的驾驶技术有多硬核",
+      "onboard_time": 1661837728,
+      "rank": 42,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 146908,
       "num": 138649,
       "word": "轰6K巡航台岛常态化",
       "onboard_time": 1661694512,
       "rank": 34,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 145038,
+      "num": 145038,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 142868,
@@ -3121,14 +3233,6 @@
       "onboard_time": 1661790745,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115014,
-      "num": 115014,
-      "word": "丈夫作证帮妻子讨回给第三者的7万元",
-      "onboard_time": 1661835810,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110421,

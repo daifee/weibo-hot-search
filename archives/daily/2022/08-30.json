@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661836152277,
+  "endTime": 1661840077626,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2153336,
+      "num": 2153336,
+      "word": "iPhone14Pro渐变紫",
+      "onboard_time": 1661834492,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2085637,
       "num": 2085637,
       "word": "热带雨林",
@@ -71,6 +79,14 @@
       "num": 1675895,
       "word": "成都疫情防控",
       "onboard_time": 1661780313,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1593325,
+      "num": 1593325,
+      "word": "大连老人没戴N95被警方带下公交",
+      "onboard_time": 1661838328,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -112,6 +128,14 @@
       "word": "男子为女网友买衣服后报警要回399元",
       "onboard_time": 1661823869,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1283966,
+      "num": 1283966,
+      "word": "承德高新区道歉",
+      "onboard_time": 1661837728,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -179,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 961074,
-      "num": 961074,
-      "word": "iPhone14Pro渐变紫",
-      "onboard_time": 1661834492,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 950804,
       "num": 950804,
       "word": "小兰花把骨兰养在她编的花环凤冠下",
@@ -208,6 +224,14 @@
       "word": "深圳本地首次发现BF.15变异株",
       "onboard_time": 1661779658,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839653,
+      "num": 839653,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 799842,
-      "num": 638928,
+      "num": 719283,
       "word": "原来简历还可以这样写",
       "onboard_time": 1661833952,
       "rank": 13,
@@ -248,6 +272,14 @@
       "word": "网店月售鳄雀鳝2000余单",
       "onboard_time": 1661797571,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794695,
+      "num": 794695,
+      "word": "稻盛和夫去世",
+      "onboard_time": 1661839767,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -313,6 +345,14 @@
       "onboard_time": 1661803930,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 650085,
+      "num": 650085,
+      "word": "赵露思教吴磊如何牵手",
+      "onboard_time": 1661837848,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 644032,
@@ -427,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437594,
+      "num": 437594,
+      "word": "我国首条跨海高铁全线铺轨贯通",
+      "onboard_time": 1661834311,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432475,
       "num": 432475,
       "word": "14岁男孩带9岁弟弟教科书式自救逃生",
       "onboard_time": 1661826987,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428811,
+      "num": 428811,
+      "word": "心动的信号5里的男嘉宾",
+      "onboard_time": 1661835510,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 416137,
@@ -456,6 +512,22 @@
       "word": "97年帅小伙拉二胡也太高级了",
       "onboard_time": 1661825788,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382632,
+      "num": 382632,
+      "word": "前任回头意味着什么",
+      "onboard_time": 1661838806,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 380252,
+      "num": 380252,
+      "word": "女子乘车未给婴儿买车票被拦",
+      "onboard_time": 1661838806,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -539,14 +611,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 335353,
-      "num": 297697,
-      "word": "心动的信号5里的男嘉宾",
-      "onboard_time": 1661835510,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327202,
       "num": 327202,
       "word": "东方员外",
@@ -555,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321865,
+      "num": 321865,
+      "word": "老人深夜带孙女捡废品救患病孙子",
+      "onboard_time": 1661834370,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320091,
       "num": 320091,
       "word": "大连静默",
       "onboard_time": 1661778392,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318307,
+      "num": 318307,
+      "word": "冰雨火王一博蝉联角色热度周榜冠军",
+      "onboard_time": 1661838867,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 309845,
@@ -595,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275566,
+      "num": 275566,
+      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+      "onboard_time": 1661834370,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274673,
       "num": 180790,
       "word": "柳青瑶",
@@ -603,12 +691,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 273902,
-      "num": 246201,
-      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
-      "onboard_time": 1661834370,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 274127,
+      "num": 274127,
+      "word": "想唱就唱的夏天",
+      "onboard_time": 1661839466,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270561,
+      "num": 131835,
+      "word": "看INTO1体能对抗像看广场舞",
+      "onboard_time": 1661840068,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 270105,
@@ -731,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253974,
+      "num": 253974,
+      "word": "深圳新增35例阳性病例",
+      "onboard_time": 1661839406,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249699,
       "num": 249699,
       "word": "30岁未婚女生立遗嘱遗产给妈妈",
@@ -787,12 +891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218138,
+      "num": 218138,
+      "word": "女子酒驾肇事后淡定离开现场",
+      "onboard_time": 1661835329,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217764,
       "num": 217764,
       "word": "美国驻伊拉克大使馆附近遭火箭弹袭击",
       "onboard_time": 1661819129,
       "rank": 39,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 210104,
+      "num": 210104,
+      "word": "无畏一诺有点搞笑DNA在身上",
+      "onboard_time": 1661837787,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 206485,
@@ -817,14 +937,6 @@
       "onboard_time": 1661814019,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194597,
-      "num": 194597,
-      "word": "我国首条跨海高铁全线铺轨贯通",
-      "onboard_time": 1661834311,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193243,
@@ -864,14 +976,6 @@
       "word": "重庆增11例本土确诊",
       "onboard_time": 1661823569,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180113,
-      "num": 180113,
-      "word": "老人深夜带孙女捡废品救患病孙子",
-      "onboard_time": 1661834370,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -923,14 +1027,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 155831,
-      "num": 155831,
-      "word": "女子酒驾肇事后淡定离开现场",
-      "onboard_time": 1661835329,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "沉香重华",
@@ -953,6 +1049,22 @@
       "onboard_time": 1661778032,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148192,
+      "num": 148192,
+      "word": "兵哥哥的驾驶技术有多硬核",
+      "onboard_time": 1661837728,
+      "rank": 42,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 145038,
+      "num": 145038,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 142868,
@@ -1041,14 +1153,6 @@
       "onboard_time": 1661790745,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115014,
-      "num": 115014,
-      "word": "丈夫作证帮妻子讨回给第三者的7万元",
-      "onboard_time": 1661835810,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110723,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661840077626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2302073,
+        "num": 2302073,
+        "word": "宝宝把镊子精准捅进电门",
+        "onboard_time": 1661831729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2153336,
+        "num": 2153336,
+        "word": "iPhone14Pro渐变紫",
+        "onboard_time": 1661834492,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 13745,
+        "num": 1618174,
+        "word": "英雄战士与英雄人民的双向奔赴",
+        "onboard_time": 1661702785,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593325,
+        "num": 1593325,
+        "word": "大连老人没戴N95被警方带下公交",
+        "onboard_time": 1661838328,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283966,
+        "num": 1283966,
+        "word": "承德高新区道歉",
+        "onboard_time": 1661837728,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839653,
+        "num": 839653,
+        "word": "丈夫作证帮妻子讨回给第三者的7万元",
+        "onboard_time": 1661835810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794695,
+        "num": 794695,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777184,
+        "num": 777184,
+        "word": "上海男子当街被捅系在玩角色扮演",
+        "onboard_time": 1661830828,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719283,
+        "num": 719283,
+        "word": "原来简历还可以这样写",
+        "onboard_time": 1661833952,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 696160,
+        "num": 696160,
+        "word": "江苏发现2例全球罕见黄金血型",
+        "onboard_time": 1661816545,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650085,
+        "num": 650085,
+        "word": "赵露思教吴磊如何牵手",
+        "onboard_time": 1661837848,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586966,
+        "num": 586966,
+        "word": "小兰花把骨兰养在她编的花环凤冠下",
+        "onboard_time": 1661832750,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437594,
+        "num": 437594,
+        "word": "我国首条跨海高铁全线铺轨贯通",
+        "onboard_time": 1661834311,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428811,
+        "num": 428811,
+        "word": "心动的信号5里的男嘉宾",
+        "onboard_time": 1661835510,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419396,
+        "num": 419396,
+        "word": "iPhone14Pro或支持30W充电器",
+        "onboard_time": 1661829510,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 404218,
+        "num": 404218,
+        "word": "星汉灿烂 庆功宴",
+        "onboard_time": 1661785180,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382632,
+        "num": 382632,
+        "word": "前任回头意味着什么",
+        "onboard_time": 1661838806,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380252,
+        "num": 380252,
+        "word": "女子乘车未给婴儿买车票被拦",
+        "onboard_time": 1661838806,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346290,
+        "num": 346290,
+        "word": "杨紫在线回应沉香热梗",
+        "onboard_time": 1661831790,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328771,
+        "num": 328771,
+        "word": "食用鳄雀鳝会对人造成危害",
+        "onboard_time": 1661830651,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325291,
+        "num": 325291,
+        "word": "原来我的易胖体质是这么来的",
+        "onboard_time": 1661830888,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 321865,
+        "num": 321865,
+        "word": "老人深夜带孙女捡废品救患病孙子",
+        "onboard_time": 1661834370,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318307,
+        "num": 318307,
+        "word": "冰雨火王一博蝉联角色热度周榜冠军",
+        "onboard_time": 1661838867,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278183,
+        "num": 278183,
+        "word": "美国一男子无暴力举动被警察8枪打死",
+        "onboard_time": 1661827226,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275566,
+        "num": 275566,
+        "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+        "onboard_time": 1661834370,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274127,
+        "num": 274127,
+        "word": "想唱就唱的夏天",
+        "onboard_time": 1661839466,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253974,
+        "num": 253974,
+        "word": "深圳新增35例阳性病例",
+        "onboard_time": 1661839406,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218138,
+        "num": 218138,
+        "word": "女子酒驾肇事后淡定离开现场",
+        "onboard_time": 1661835329,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210104,
+        "num": 210104,
+        "word": "无畏一诺有点搞笑DNA在身上",
+        "onboard_time": 1661837787,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198907,
+        "num": 198907,
+        "word": "新人携手坐地铁参加婚礼",
+        "onboard_time": 1661832811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1516085,
+        "num": 198632,
+        "word": "王悦伊",
+        "onboard_time": 1661823569,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227533,
+        "num": 198312,
+        "word": "网传罗一舟任敏将出演新射雕英雄传",
+        "onboard_time": 1661832329,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203884,
+        "num": 198147,
+        "word": "网传韩剧匹诺曹将翻拍",
+        "onboard_time": 1661829688,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197793,
+        "num": 197793,
+        "word": "成都倡导非必要不离蓉",
+        "onboard_time": 1661831130,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193093,
+        "num": 193093,
+        "word": "承德高新区防疫公告",
+        "onboard_time": 1661834252,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193075,
+        "num": 193075,
+        "word": "苍兰诀",
+        "onboard_time": 1661814921,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190873,
+        "num": 190873,
+        "word": "被说粤语的小朋友可爱到了",
+        "onboard_time": 1661832689,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178154,
+        "num": 178154,
+        "word": "苹果完成iPhone14卫星通信硬件测试",
+        "onboard_time": 1661830528,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178041,
+        "num": 178041,
+        "word": "兵马俑配色太绝了",
+        "onboard_time": 1661833048,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176183,
+        "num": 176183,
+        "word": "14岁男孩带9岁弟弟教科书式自救逃生",
+        "onboard_time": 1661826987,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180201,
+        "num": 175089,
+        "word": "星汉灿烂超40万人豆瓣评分",
+        "onboard_time": 1661829809,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159425,
+        "num": 159425,
+        "word": "老人坐公交不刷卡掌掴女司机",
+        "onboard_time": 1661828848,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148192,
+        "num": 148192,
+        "word": "兵哥哥的驾驶技术有多硬核",
+        "onboard_time": 1661837728,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 145038,
+        "num": 145038,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134967,
+        "num": 134967,
+        "word": "17岁男孩打破尘封35年的世界纪录",
+        "onboard_time": 1661824049,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 134497,
+        "num": 134497,
+        "word": "四川增本土确诊167例无症状109例",
+        "onboard_time": 1661822191,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133858,
+        "num": 133858,
+        "word": "武汉新增25例无症状感染者",
+        "onboard_time": 1661825910,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270561,
+        "num": 131835,
+        "word": "看INTO1体能对抗像看广场舞",
+        "onboard_time": 1661840068,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129809,
+        "num": 129809,
+        "word": "美团骑手送餐拍照后又拿走",
+        "onboard_time": 1661827286,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120077,
+        "num": 120077,
+        "word": "陕西回应卖20元芹菜被罚6万6",
+        "onboard_time": 1661823028,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
