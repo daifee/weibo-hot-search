@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661859375165,
+  "endTime": 1661863795151,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2243202,
+      "num": 2243202,
+      "word": "亚洲人首次进入全球富豪前三",
+      "onboard_time": 1661859806,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2153336,
       "num": 2153336,
       "word": "iPhone14Pro渐变紫",
@@ -89,6 +97,14 @@
       "onboard_time": 1661851771,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2096474,
+      "num": 1412266,
+      "word": "结婚人数首次低于800万对",
+      "onboard_time": 1661859209,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2085637,
@@ -177,6 +193,30 @@
       "onboard_time": 1661830828,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1447323,
+      "num": 1334381,
+      "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
+      "onboard_time": 1661858309,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1438219,
+      "num": 1438219,
+      "word": "九价",
+      "onboard_time": 1661862269,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1398915,
+      "num": 1398915,
+      "word": "星汉灿烂",
+      "onboard_time": 1661849910,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1360877,
@@ -291,6 +331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1156190,
+      "num": 1156190,
+      "word": "23岁女子上班时突发脑出血",
+      "onboard_time": 1661860169,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1148846,
       "num": 1148846,
       "word": "湖南大学回应教官打骂学生",
@@ -299,20 +347,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1130266,
+      "num": 1130266,
+      "word": "教育部王登峰被查",
+      "onboard_time": 1661856687,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105705,
       "num": 450455,
       "word": "特朗普呼吁立即重新进行大选",
       "onboard_time": 1661840309,
       "rank": 15,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1044655,
-      "num": 1044655,
-      "word": "教育部王登峰被查",
-      "onboard_time": 1661856687,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1007516,
@@ -401,6 +449,22 @@
       "onboard_time": 1661854470,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 866797,
+      "num": 866797,
+      "word": "这是苍兰诀的男三吧",
+      "onboard_time": 1661861247,
+      "rank": 8,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 861019,
+      "num": 861019,
+      "word": "HPV九价疫苗扩龄至9-45岁",
+      "onboard_time": 1661863110,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 842062,
@@ -547,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675908,
+      "num": 675908,
+      "word": "陈哲远偷偷藏不住黑衣造型",
+      "onboard_time": 1661862630,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 663687,
       "num": 663687,
       "word": "疫苗巨头业绩下滑近99%",
@@ -609,6 +681,30 @@
       "onboard_time": 1661824049,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 589005,
+      "num": 589005,
+      "word": "欢乐颂4",
+      "onboard_time": 1661863049,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 585018,
+      "num": 585018,
+      "word": "梁爽躺平直播意外走红",
+      "onboard_time": 1661862388,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 562119,
+      "num": 562119,
+      "word": "成都警方通报热带雨林寻衅滋事",
+      "onboard_time": 1661860049,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540467,
@@ -684,7 +780,7 @@
     },
     {
       "raw_hot": 498543,
-      "num": 154589,
+      "num": 397148,
       "word": "迪丽热巴MiniBAZAAR九月刊封面",
       "onboard_time": 1661859328,
       "rank": 47,
@@ -713,6 +809,14 @@
       "onboard_time": 1661850330,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 483334,
+      "num": 483334,
+      "word": "成毅新剧1000年没换腰带",
+      "onboard_time": 1661861128,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 468035,
@@ -835,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405781,
+      "num": 405781,
+      "word": "张凌赫卡上了王鹤棣的点",
+      "onboard_time": 1661863409,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 404821,
       "num": 404821,
       "word": "孟子义说杀了我给他俩助助兴",
@@ -859,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 390069,
-      "num": 390069,
-      "word": "星汉灿烂",
-      "onboard_time": 1661849910,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 389572,
       "num": 389572,
       "word": "中国市场三成iPhone用户或升级",
@@ -880,6 +984,14 @@
       "word": "97年帅小伙拉二胡也太高级了",
       "onboard_time": 1661825788,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384799,
+      "num": 384799,
+      "word": "热带雨林被行拘15日",
+      "onboard_time": 1661859270,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1083,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314207,
-      "num": 314207,
-      "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
-      "onboard_time": 1661858309,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309845,
       "num": 309845,
       "word": "新人携手坐地铁参加婚礼",
@@ -1163,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293501,
+      "num": 293501,
+      "word": "我国结婚年龄越来越迟",
+      "onboard_time": 1661863469,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289134,
       "num": 289134,
       "word": "必须通过独处来恢复精力",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1661839466,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273548,
+      "num": 273548,
+      "word": "业主几年没回家开门毛坯变精装",
+      "onboard_time": 1661857588,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270561,
@@ -1403,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248749,
+      "num": 179417,
+      "word": "王一博四部新片想看数均破10万",
+      "onboard_time": 1661861190,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243775,
       "num": 221003,
       "word": "网友合唱诀爱",
@@ -1425,14 +1553,6 @@
       "onboard_time": 1661817266,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231057,
-      "num": 231057,
-      "word": "业主几年没回家开门毛坯变精装",
-      "onboard_time": 1661857588,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230672,
@@ -1529,6 +1649,14 @@
       "onboard_time": 1661847931,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214236,
+      "num": 214236,
+      "word": "东北早市才是碳水届扛把子",
+      "onboard_time": 1661863350,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 210104,
@@ -1643,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191096,
+      "num": 191096,
+      "word": "武汉江夏区疫情防控",
+      "onboard_time": 1661861671,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190978,
       "num": 190978,
       "word": "成都新增本土确诊134例",
@@ -1699,20 +1835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176714,
+      "num": 176714,
+      "word": "黑龙江新增本土确诊8例本土无症状66例",
+      "onboard_time": 1661862868,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176484,
       "num": 176484,
       "word": "阿里云启动全球最大智算中心",
       "onboard_time": 1661850991,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 173646,
-      "num": 173646,
-      "word": "热带雨林被行拘15日",
-      "onboard_time": 1661859270,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173322,
@@ -1771,12 +1907,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 153608,
-      "num": 153608,
-      "word": "结婚人数首次低于800万对",
-      "onboard_time": 1661859209,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 156647,
+      "num": 156647,
+      "word": "成都世乒赛团体赛奖牌设计发布",
+      "onboard_time": 1661862868,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153495,
@@ -1809,6 +1945,14 @@
       "onboard_time": 1661837728,
       "rank": 42,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 143692,
+      "num": 143692,
+      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
+      "onboard_time": 1661862989,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 142868,
@@ -2028,6 +2172,9 @@
     },
     {
       "word": "#网络空间关乎人类命运#"
+    },
+    {
+      "word": "#二十大召开时间#"
     }
   ]
 }
