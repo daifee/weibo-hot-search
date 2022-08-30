@@ -1,0 +1,410 @@
+{
+  "runTime": 1661835150464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2318812,
+        "num": 2318812,
+        "word": "宝宝把镊子精准捅进电门",
+        "onboard_time": 1661831729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1930660,
+        "num": 1930660,
+        "word": "网传韩剧匹诺曹将翻拍",
+        "onboard_time": 1661829688,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14086,
+        "num": 1690560,
+        "word": "英雄战士与英雄人民的双向奔赴",
+        "onboard_time": 1661702785,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572662,
+        "num": 1572662,
+        "word": "上海男子当街被捅系在玩角色扮演",
+        "onboard_time": 1661830828,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497957,
+        "num": 1497957,
+        "word": "江苏发现2例全球罕见黄金血型",
+        "onboard_time": 1661816545,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950804,
+        "num": 950804,
+        "word": "小兰花把骨兰养在她编的花环凤冠下",
+        "onboard_time": 1661832750,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 842062,
+        "num": 842062,
+        "word": "iPhone14Pro或支持30W充电器",
+        "onboard_time": 1661829510,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 825968,
+        "num": 825968,
+        "word": "美国一男子无暴力举动被警察8枪打死",
+        "onboard_time": 1661827226,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816653,
+        "num": 816653,
+        "word": "杨紫在线回应沉香热梗",
+        "onboard_time": 1661831790,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 692102,
+        "num": 692102,
+        "word": "原来我的易胖体质是这么来的",
+        "onboard_time": 1661830888,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 753565,
+        "num": 672137,
+        "word": "星汉灿烂 庆功宴",
+        "onboard_time": 1661785180,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644032,
+        "num": 644032,
+        "word": "网传罗一舟任敏将出演新射雕英雄传",
+        "onboard_time": 1661832329,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626210,
+        "num": 626210,
+        "word": "王鹤棣评论导演伊峥一年前微博",
+        "onboard_time": 1661827407,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 601323,
+        "num": 601323,
+        "word": "原来简历还可以这样写",
+        "onboard_time": 1661833952,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 592924,
+        "num": 592924,
+        "word": "食用鳄雀鳝会对人造成危害",
+        "onboard_time": 1661830651,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516565,
+        "num": 516565,
+        "word": "成都倡导非必要不离蓉",
+        "onboard_time": 1661831130,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441779,
+        "num": 441779,
+        "word": "苹果完成iPhone14卫星通信硬件测试",
+        "onboard_time": 1661830528,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 391488,
+        "num": 391488,
+        "word": "男子为女网友买衣服后报警要回399元",
+        "onboard_time": 1661823869,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388308,
+        "num": 388308,
+        "word": "14岁男孩带9岁弟弟教科书式自救逃生",
+        "onboard_time": 1661826987,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343663,
+        "num": 343663,
+        "word": "陕西回应卖20元芹菜被罚6万6",
+        "onboard_time": 1661823028,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965262,
+        "num": 342524,
+        "word": "赵露思星汉灿烂庆功宴出发图",
+        "onboard_time": 1661833109,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591210,
+        "num": 337746,
+        "word": "老人坐公交不刷卡掌掴女司机",
+        "onboard_time": 1661828848,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514514,
+        "num": 329350,
+        "word": "星汉灿烂超40万人豆瓣评分",
+        "onboard_time": 1661829809,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349434,
+        "num": 324018,
+        "word": "苍兰诀",
+        "onboard_time": 1661814921,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321002,
+        "num": 321002,
+        "word": "无糖饮料为何会比有糖饮料危害更大",
+        "onboard_time": 1661813775,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313254,
+        "num": 313254,
+        "word": "iPhone14Pro渐变紫",
+        "onboard_time": 1661834492,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 295324,
+        "num": 295324,
+        "word": "四川增本土确诊167例无症状109例",
+        "onboard_time": 1661822191,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294814,
+        "num": 294814,
+        "word": "被说粤语的小朋友可爱到了",
+        "onboard_time": 1661832689,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287547,
+        "num": 287547,
+        "word": "美团骑手送餐拍照后又拿走",
+        "onboard_time": 1661827286,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277310,
+        "num": 277310,
+        "word": "新人携手坐地铁参加婚礼",
+        "onboard_time": 1661832811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2277669,
+        "num": 275190,
+        "word": "王悦伊",
+        "onboard_time": 1661823569,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269842,
+        "num": 269842,
+        "word": "武汉新增25例无症状感染者",
+        "onboard_time": 1661825910,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264245,
+        "num": 264245,
+        "word": "兵马俑配色太绝了",
+        "onboard_time": 1661833048,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260623,
+        "num": 260623,
+        "word": "周杰伦纽约地铁",
+        "onboard_time": 1661817327,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257682,
+        "num": 257682,
+        "word": "摄影师被重庆灭火后的欢呼弄哭",
+        "onboard_time": 1661830229,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252380,
+        "num": 252380,
+        "word": "17岁男孩打破尘封35年的世界纪录",
+        "onboard_time": 1661824049,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 246201,
+        "num": 246201,
+        "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+        "onboard_time": 1661834370,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221035,
+        "num": 221035,
+        "word": "承德高新区防疫公告",
+        "onboard_time": 1661834252,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243775,
+        "num": 221003,
+        "word": "网友合唱诀爱",
+        "onboard_time": 1661829628,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 220949,
+        "word": "什么是山腰青年",
+        "onboard_time": 1661832029,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220945,
+        "num": 220945,
+        "word": "心动的信号5开播",
+        "onboard_time": 1661825189,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214833,
+        "num": 214833,
+        "word": "男子称玉米遭老人组团偷摘",
+        "onboard_time": 1661821892,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208374,
+        "num": 208374,
+        "word": "山东冷成山冻了",
+        "onboard_time": 1661814439,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194597,
+        "num": 194597,
+        "word": "我国首条跨海高铁全线铺轨贯通",
+        "onboard_time": 1661834311,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192931,
+        "num": 192931,
+        "word": "披荆斩棘梦境旅行视频",
+        "onboard_time": 1661833414,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184936,
+        "num": 184936,
+        "word": "这猫当过兵吧",
+        "onboard_time": 1661825489,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180155,
+        "num": 180155,
+        "word": "卢浮宫 光与夜之恋",
+        "onboard_time": 1661820334,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180113,
+        "num": 180113,
+        "word": "老人深夜带孙女捡废品救患病孙子",
+        "onboard_time": 1661834370,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158437,
+        "num": 158437,
+        "word": "热带雨林",
+        "onboard_time": 1661784220,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155869,
+        "num": 155869,
+        "word": "成都高校推迟开学时间",
+        "onboard_time": 1661828848,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#给网络谣言打标签#"
+    }
+  }
+}
