@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661858386818,
+  "endTime": 1661859375165,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1628669,
+      "num": 1628669,
+      "word": "二十大召开时间",
+      "onboard_time": 1661857350,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1603366,
       "num": 1603366,
       "word": "中森明菜宣布复出",
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1259851,
-      "num": 1259851,
-      "word": "二十大召开时间",
-      "onboard_time": 1661857350,
-      "rank": 1,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1244031,
       "num": 1244031,
       "word": "大脑用6小时就会堆积毒素",
@@ -305,6 +305,14 @@
       "onboard_time": 1661840309,
       "rank": 15,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1044655,
+      "num": 1044655,
+      "word": "教育部王登峰被查",
+      "onboard_time": 1661856687,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1007516,
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 702477,
-      "num": 702477,
-      "word": "教育部王登峰被查",
-      "onboard_time": 1661856687,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 700719,
       "num": 493782,
       "word": "分手后发现更爱了是冤种吗",
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530900,
+      "num": 530900,
+      "word": "徐梦洁谢彬彬内地版恶作剧之吻",
+      "onboard_time": 1661858068,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525575,
       "num": 525575,
       "word": "男子称玉米遭老人组团偷摘",
@@ -673,6 +681,14 @@
       "onboard_time": 1661783313,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 498543,
+      "num": 154589,
+      "word": "迪丽热巴MiniBAZAAR九月刊封面",
+      "onboard_time": 1661859328,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 497298,
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444871,
+      "num": 444871,
+      "word": "LPL夏决媒体发布会",
+      "onboard_time": 1661857287,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 441779,
       "num": 441779,
       "word": "苹果完成iPhone14卫星通信硬件测试",
@@ -777,14 +801,6 @@
       "onboard_time": 1661835510,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419905,
-      "num": 419905,
-      "word": "LPL夏决媒体发布会",
-      "onboard_time": 1661857287,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 416492,
@@ -843,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390069,
+      "num": 390069,
+      "word": "星汉灿烂",
+      "onboard_time": 1661849910,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389572,
       "num": 389572,
       "word": "中国市场三成iPhone用户或升级",
@@ -872,14 +896,6 @@
       "word": "王一博哭戏有多投入",
       "onboard_time": 1661856330,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 380153,
-      "num": 380153,
-      "word": "星汉灿烂",
-      "onboard_time": 1661849910,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345170,
+      "num": 345170,
+      "word": "深圳新增17例阳性病例",
+      "onboard_time": 1661857708,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343392,
       "num": 309923,
       "word": "与凤行群像定妆照",
@@ -993,14 +1017,6 @@
       "onboard_time": 1661817449,
       "rank": 23,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 338891,
-      "num": 270370,
-      "word": "徐梦洁谢彬彬内地版恶作剧之吻",
-      "onboard_time": 1661858068,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 328788,
@@ -1067,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314207,
+      "num": 314207,
+      "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
+      "onboard_time": 1661858309,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309845,
       "num": 309845,
       "word": "新人携手坐地铁参加婚礼",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1661845290,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302766,
+      "num": 262296,
+      "word": "应渊追妻有玄夜内味了",
+      "onboard_time": 1661858607,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 297539,
@@ -1379,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241176,
-      "num": 241176,
-      "word": "深圳新增17例阳性病例",
-      "onboard_time": 1661857708,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237380,
       "num": 237380,
       "word": "好喜欢直球式的示爱",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1661817266,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231057,
+      "num": 231057,
+      "word": "业主几年没回家开门毛坯变精装",
+      "onboard_time": 1661857588,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230672,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1661842109,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222212,
+      "num": 222212,
+      "word": "马斯克终止购买推特",
+      "onboard_time": 1661856687,
+      "rank": 42,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 219577,
@@ -1523,14 +1563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202495,
-      "num": 202495,
-      "word": "马斯克终止购买推特",
-      "onboard_time": 1661856687,
-      "rank": 42,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 202393,
       "num": 157928,
       "word": "与凤行",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1661850929,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194592,
+      "num": 194592,
+      "word": "地铁跑酷回应崩了",
+      "onboard_time": 1661858791,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 193243,
@@ -1667,6 +1707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 173646,
+      "num": 173646,
+      "word": "热带雨林被行拘15日",
+      "onboard_time": 1661859270,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173322,
       "num": 173322,
       "word": "突然不害怕幽灵了",
@@ -1723,11 +1771,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 157340,
-      "num": 157340,
-      "word": "业主几年没回家开门毛坯变精装",
-      "onboard_time": 1661857588,
-      "rank": 46,
+      "raw_hot": 153608,
+      "num": 153608,
+      "word": "结婚人数首次低于800万对",
+      "onboard_time": 1661859209,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1793,14 +1841,6 @@
       "onboard_time": 1661792061,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137952,
-      "num": 137952,
-      "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
-      "onboard_time": 1661858309,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136711,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661859375165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2701407,
+        "num": 2701407,
+        "word": "感觉大四的学费交得好亏",
+        "onboard_time": 1661853448,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1628669,
+        "num": 1628669,
+        "word": "二十大召开时间",
+        "onboard_time": 1661857350,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99182,
+        "num": 1353941,
+        "word": "守住保障国家粮食安全底线",
+        "onboard_time": 1661850689,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1156342,
+        "num": 1156342,
+        "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+        "onboard_time": 1661853688,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044655,
+        "num": 1044655,
+        "word": "教育部王登峰被查",
+        "onboard_time": 1661856687,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962713,
+        "num": 962713,
+        "word": "iPhoneSE将取消Home键",
+        "onboard_time": 1661853328,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 855877,
+        "num": 855877,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 826771,
+        "num": 826771,
+        "word": "虞书欣张彬彬小森林对视氛围花絮",
+        "onboard_time": 1661854470,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818883,
+        "num": 818883,
+        "word": "地铁跑酷 崩了",
+        "onboard_time": 1661851771,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 801600,
+        "num": 801600,
+        "word": "官方回应老人索要土地承包费被群嘲",
+        "onboard_time": 1661851171,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775114,
+        "num": 775114,
+        "word": "王鹤棣回应被评哑巴帅哥",
+        "onboard_time": 1661854527,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 768291,
+        "num": 768291,
+        "word": "中森明菜宣布复出",
+        "onboard_time": 1661846250,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573746,
+        "num": 573746,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530900,
+        "num": 530900,
+        "word": "徐梦洁谢彬彬内地版恶作剧之吻",
+        "onboard_time": 1661858068,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486089,
+        "num": 486089,
+        "word": "辣目洋子与凤行定妆照",
+        "onboard_time": 1661853927,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455691,
+        "num": 455691,
+        "word": "女子求职被HR骚扰说要摸腿",
+        "onboard_time": 1661854287,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444871,
+        "num": 444871,
+        "word": "LPL夏决媒体发布会",
+        "onboard_time": 1661857287,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400127,
+        "num": 400127,
+        "word": "iPhone14Pro渐变紫",
+        "onboard_time": 1661834492,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 390069,
+        "num": 390069,
+        "word": "星汉灿烂",
+        "onboard_time": 1661849910,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385964,
+        "num": 385964,
+        "word": "中国市场三成iPhone用户或升级",
+        "onboard_time": 1661855247,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 650421,
+        "num": 385501,
+        "word": "原来宋亚轩早就玩过一枚梗",
+        "onboard_time": 1661858131,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384986,
+        "num": 384986,
+        "word": "海底捞猪肚鸡汤底系粉料冲泡",
+        "onboard_time": 1661846190,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382646,
+        "num": 382646,
+        "word": "赵露思星汉灿烂收官vlog",
+        "onboard_time": 1661849130,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361492,
+        "num": 361492,
+        "word": "大脑用6小时就会堆积毒素",
+        "onboard_time": 1661844810,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345720,
+        "num": 345720,
+        "word": "北京双彩虹",
+        "onboard_time": 1661856630,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 364883,
+        "num": 345641,
+        "word": "吴磊出发星汉灿烂庆功宴",
+        "onboard_time": 1661842348,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345170,
+        "num": 345170,
+        "word": "深圳新增17例阳性病例",
+        "onboard_time": 1661857708,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314207,
+        "num": 314207,
+        "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
+        "onboard_time": 1661858309,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267351,
+        "num": 267351,
+        "word": "当你得罪了一只记仇的猫咪",
+        "onboard_time": 1661855850,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 262613,
+        "num": 262613,
+        "word": "新疆沙漠雨后出现一张狐狸脸",
+        "onboard_time": 1661845231,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302766,
+        "num": 262296,
+        "word": "应渊追妻有玄夜内味了",
+        "onboard_time": 1661858607,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280114,
+        "num": 261697,
+        "word": "灵超与网约车司机吵架",
+        "onboard_time": 1661845108,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276803,
+        "num": 261462,
+        "word": "张凌赫 桑延",
+        "onboard_time": 1661840128,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275716,
+        "num": 260792,
+        "word": "王一博哭戏有多投入",
+        "onboard_time": 1661856330,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260590,
+        "num": 260590,
+        "word": "女子乘车未给婴儿买车票被拦",
+        "onboard_time": 1661838806,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231057,
+        "num": 231057,
+        "word": "业主几年没回家开门毛坯变精装",
+        "onboard_time": 1661857588,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227551,
+        "num": 227551,
+        "word": "跳水救人女生因病去世又捐角膜",
+        "onboard_time": 1661852247,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222212,
+        "num": 222212,
+        "word": "马斯克终止购买推特",
+        "onboard_time": 1661856687,
+        "rank": 37,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 208095,
+        "num": 208095,
+        "word": "被外婆第一次平板作画惊艳到了",
+        "onboard_time": 1661849251,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207712,
+        "num": 207712,
+        "word": "官方回应网传公司拖欠农民土地流转费",
+        "onboard_time": 1661852908,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265009,
+        "num": 207116,
+        "word": "脱口秀大会第五季今晚开播",
+        "onboard_time": 1661858189,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205126,
+        "num": 205126,
+        "word": "解放军在黄河上架设254米浮桥",
+        "onboard_time": 1661850090,
+        "rank": 41,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 194592,
+        "num": 194592,
+        "word": "地铁跑酷回应崩了",
+        "onboard_time": 1661858791,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192715,
+        "num": 192715,
+        "word": "必须通过独处来恢复精力",
+        "onboard_time": 1661851290,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186092,
+        "num": 186092,
+        "word": "别随便给猫咪剃毛",
+        "onboard_time": 1661857109,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173646,
+        "num": 173646,
+        "word": "热带雨林被行拘15日",
+        "onboard_time": 1661859270,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154633,
+        "num": 154633,
+        "word": "为什么人们舍不得扔掉旧物",
+        "onboard_time": 1661852607,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498543,
+        "num": 154589,
+        "word": "迪丽热巴MiniBAZAAR九月刊封面",
+        "onboard_time": 1661859328,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153608,
+        "num": 153608,
+        "word": "结婚人数首次低于800万对",
+        "onboard_time": 1661859209,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142831,
+        "num": 142831,
+        "word": "男子小区内咬伤两人被警方带走",
+        "onboard_time": 1661840971,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间关乎人类命运#"
+    }
+  }
+}
