@@ -1,0 +1,410 @@
+{
+  "runTime": 1661869284831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5378917,
+        "num": 5378917,
+        "word": "辛巴发长文爆料刘畊宏夫妇卖假货",
+        "onboard_time": 1661865874,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1313895,
+        "num": 1313895,
+        "word": "小鹿 淘汰",
+        "onboard_time": 1661867797,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 1281059,
+        "word": "我国太阳探测卫星科学数据全球共享",
+        "onboard_time": 1661864073,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1724533,
+        "num": 1277955,
+        "word": "我国结婚年龄越来越迟",
+        "onboard_time": 1661863469,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257348,
+        "num": 1257348,
+        "word": "中俄将在日本海进行联合演习",
+        "onboard_time": 1661867132,
+        "rank": 4,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 5164373,
+        "num": 1187786,
+        "word": "HPV九价疫苗扩龄至9-45岁",
+        "onboard_time": 1661863110,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113632,
+        "num": 1113632,
+        "word": "欢乐颂4",
+        "onboard_time": 1661863049,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 862601,
+        "num": 862601,
+        "word": "亚洲人首次进入全球富豪前三",
+        "onboard_time": 1661859806,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 849888,
+        "num": 849888,
+        "word": "23岁女子上班时突发脑出血",
+        "onboard_time": 1661860169,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784648,
+        "num": 784648,
+        "word": "结婚人数首次低于800万对",
+        "onboard_time": 1661859209,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5742367,
+        "num": 752580,
+        "word": "刘畊宏 哭了",
+        "onboard_time": 1661866955,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2213544,
+        "num": 746333,
+        "word": "网传章子怡赵丽颖合作双女主剧",
+        "onboard_time": 1661865692,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 851558,
+        "num": 743227,
+        "word": "吴磊希望子晟做个快乐好儿郎",
+        "onboard_time": 1661864433,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 719599,
+        "num": 719599,
+        "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
+        "onboard_time": 1661858309,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662642,
+        "num": 662642,
+        "word": "九价",
+        "onboard_time": 1661862269,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601484,
+        "num": 601484,
+        "word": "作协回应贾浅浅是否入会",
+        "onboard_time": 1661865392,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447113,
+        "num": 447113,
+        "word": "警方回应男子趴地学狗叫咬伤人",
+        "onboard_time": 1661868275,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437944,
+        "num": 437944,
+        "word": "女性多少岁打九价合适",
+        "onboard_time": 1661866295,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 409192,
+        "num": 409192,
+        "word": "教育部王登峰被查",
+        "onboard_time": 1661856687,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391738,
+        "num": 391738,
+        "word": "东北早市才是碳水届扛把子",
+        "onboard_time": 1661863350,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 789653,
+        "num": 389569,
+        "word": "思文 回归",
+        "onboard_time": 1661865996,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467033,
+        "num": 377213,
+        "word": "这是苍兰诀的男三吧",
+        "onboard_time": 1661861247,
+        "rank": 21,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 446602,
+        "num": 372784,
+        "word": "张骏 淘汰",
+        "onboard_time": 1661868937,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363301,
+        "num": 363301,
+        "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+        "onboard_time": 1661853688,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248721,
+        "num": 248721,
+        "word": "感觉大四的学费交得好亏",
+        "onboard_time": 1661853448,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248045,
+        "num": 248045,
+        "word": "业主几年没回家开门毛坯变精装",
+        "onboard_time": 1661857588,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224835,
+        "num": 224835,
+        "word": "离职一定要删的东西",
+        "onboard_time": 1661868755,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223129,
+        "num": 223129,
+        "word": "2022LPL夏决",
+        "onboard_time": 1661865571,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218477,
+        "num": 218477,
+        "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
+        "onboard_time": 1661862989,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213717,
+        "num": 213717,
+        "word": "为什么一定要好好告别",
+        "onboard_time": 1661866955,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418337,
+        "num": 213114,
+        "word": "李昀锐长文告别袁慎",
+        "onboard_time": 1661867974,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396161,
+        "num": 212842,
+        "word": "陈哲远偷偷藏不住黑衣造型",
+        "onboard_time": 1661862630,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380019,
+        "num": 212034,
+        "word": "辛巴在抖音直播质问抖音",
+        "onboard_time": 1661869055,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 364718,
+        "num": 211117,
+        "word": "星汉灿烂",
+        "onboard_time": 1661849910,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211052,
+        "num": 211052,
+        "word": "成都警方通报热带雨林寻衅滋事",
+        "onboard_time": 1661860049,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364063,
+        "num": 210409,
+        "word": "龚俊粉白衬衫造型",
+        "onboard_time": 1661868876,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201951,
+        "num": 201951,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194438,
+        "num": 194438,
+        "word": "赵睿暗示留队",
+        "onboard_time": 1661868397,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183884,
+        "num": 183884,
+        "word": "官方回应老人索要土地承包费被群嘲",
+        "onboard_time": 1661851171,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167187,
+        "num": 167187,
+        "word": "iPhoneSE将取消Home键",
+        "onboard_time": 1661853328,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329893,
+        "num": 164374,
+        "word": "成毅新剧1000年没换腰带",
+        "onboard_time": 1661861128,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157642,
+        "num": 157642,
+        "word": "黑龙江新增本土确诊8例本土无症状66例",
+        "onboard_time": 1661862868,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147884,
+        "num": 147884,
+        "word": "教你做一把古风小伞",
+        "onboard_time": 1661866295,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144099,
+        "num": 144099,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142237,
+        "num": 142237,
+        "word": "中国市场三成iPhone用户或升级",
+        "onboard_time": 1661855247,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126800,
+        "num": 126800,
+        "word": "TTG发布声明",
+        "onboard_time": 1661865513,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113436,
+        "num": 113436,
+        "word": "热带雨林被行拘15日",
+        "onboard_time": 1661859270,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113204,
+        "num": 113204,
+        "word": "女子求职被HR骚扰说要摸腿",
+        "onboard_time": 1661854287,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109556,
+        "num": 109556,
+        "word": "北京双彩虹",
+        "onboard_time": 1661856630,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 98745,
+        "num": 98745,
+        "word": "武汉江夏区疫情防控",
+        "onboard_time": 1661861671,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}

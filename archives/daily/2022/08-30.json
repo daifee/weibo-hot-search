@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661867802662,
+  "endTime": 1661869284831,
   "band_list": [
     {
       "raw_hot": 6336264,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 6118291,
-      "num": 623253,
+      "num": 752580,
       "word": "刘畊宏 哭了",
       "onboard_time": 1661866955,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5378917,
+      "num": 5378917,
+      "word": "辛巴发长文爆料刘畊宏夫妇卖假货",
+      "onboard_time": 1661865874,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 5336052,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 2617127,
-      "num": 610977,
+      "num": 746333,
       "word": "网传章子怡赵丽颖合作双女主剧",
       "onboard_time": 1661865692,
       "rank": 11,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1923171,
-      "num": 1248891,
+      "num": 1277955,
       "word": "我国结婚年龄越来越迟",
       "onboard_time": 1661863469,
       "rank": 24,
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1313895,
+      "num": 1313895,
+      "word": "小鹿 淘汰",
+      "onboard_time": 1661867797,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1295431,
       "num": 1295431,
       "word": "苍兰诀角色号全员告别苍兰诀",
@@ -329,6 +345,14 @@
       "onboard_time": 1661822191,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1257348,
+      "num": 1257348,
+      "word": "中俄将在日本海进行联合演习",
+      "onboard_time": 1661867132,
+      "rank": 34,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 1244031,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789653,
+      "num": 738360,
+      "word": "思文 回归",
+      "onboard_time": 1661865996,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783907,
       "num": 429647,
       "word": "觞阙",
@@ -601,14 +633,6 @@
       "onboard_time": 1661858131,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738360,
-      "num": 738360,
-      "word": "思文 回归",
-      "onboard_time": 1661865996,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 713850,
@@ -704,6 +728,14 @@
       "word": "新疆沙漠雨后出现一张狐狸脸",
       "onboard_time": 1661845231,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601484,
+      "num": 601484,
+      "word": "作协回应贾浅浅是否入会",
+      "onboard_time": 1661865392,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -915,6 +947,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 447113,
+      "num": 447113,
+      "word": "警方回应男子趴地学狗叫咬伤人",
+      "onboard_time": 1661868275,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446602,
+      "num": 372784,
+      "word": "张骏 淘汰",
+      "onboard_time": 1661868937,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444871,
       "num": 444871,
       "word": "LPL夏决媒体发布会",
@@ -939,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437944,
+      "num": 437944,
+      "word": "女性多少岁打九价合适",
+      "onboard_time": 1661866295,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 437594,
       "num": 437594,
       "word": "我国首条跨海高铁全线铺轨贯通",
@@ -955,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429964,
-      "num": 108672,
-      "word": "小鹿 淘汰",
-      "onboard_time": 1661867797,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 428811,
       "num": 428811,
       "word": "心动的信号5里的男嘉宾",
@@ -976,6 +1024,14 @@
       "word": "小兰花可爱图鉴",
       "onboard_time": 1661867015,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418337,
+      "num": 213114,
+      "word": "李昀锐长文告别袁慎",
+      "onboard_time": 1661867974,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1043,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391898,
-      "num": 391898,
-      "word": "作协回应贾浅浅是否入会",
-      "onboard_time": 1661865392,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389572,
       "num": 389572,
       "word": "中国市场三成iPhone用户或升级",
@@ -1091,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380019,
+      "num": 212034,
+      "word": "辛巴在抖音直播质问抖音",
+      "onboard_time": 1661869055,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 379379,
       "num": 379379,
       "word": "苍兰诀王鹤棣东方青苍特辑",
@@ -1123,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364063,
+      "num": 210409,
+      "word": "龚俊粉白衬衫造型",
+      "onboard_time": 1661868876,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 355232,
       "num": 355232,
       "word": "心动的信号5开播",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1661825189,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 346644,
-      "num": 346644,
-      "word": "中俄将在日本海进行联合演习",
-      "onboard_time": 1661867132,
-      "rank": 34,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 346524,
@@ -1699,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224835,
+      "num": 224835,
+      "word": "离职一定要删的东西",
+      "onboard_time": 1661868755,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222716,
       "num": 222716,
       "word": "海上坐高铁是什么体验",
@@ -1739,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218477,
+      "num": 218477,
+      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
+      "onboard_time": 1661862989,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 218138,
       "num": 218138,
       "word": "女子酒驾肇事后淡定离开现场",
@@ -1763,12 +1835,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214416,
-      "num": 214416,
-      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
-      "onboard_time": 1661862989,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 213717,
+      "num": 213717,
+      "word": "为什么一定要好好告别",
+      "onboard_time": 1661866955,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 210104,
@@ -1865,6 +1937,14 @@
       "onboard_time": 1661858791,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194438,
+      "num": 194438,
+      "word": "赵睿暗示留队",
+      "onboard_time": 1661868397,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 193243,
@@ -2099,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139506,
-      "num": 139506,
-      "word": "女性多少岁打九价合适",
-      "onboard_time": 1661866295,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 136711,
       "num": 136711,
       "word": "霸王别姬优化",
@@ -2155,6 +2227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128393,
+      "num": 2632691,
+      "word": "我国太阳探测卫星科学数据全球共享",
+      "onboard_time": 1661864073,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 125963,
       "num": 125963,
       "word": "中国男篮80比67巴林男篮",
@@ -2187,28 +2267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110276,
-      "num": 110276,
-      "word": "为什么一定要好好告别",
-      "onboard_time": 1661866955,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109683,
       "num": 109683,
       "word": "我的敬酒嘴替",
       "onboard_time": 1661784399,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108891,
-      "num": 2632691,
-      "word": "我国太阳探测卫星科学数据全球共享",
-      "onboard_time": 1661864073,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 106881,
