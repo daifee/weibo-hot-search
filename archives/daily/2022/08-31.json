@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661895373484,
+  "endTime": 1661898160942,
   "band_list": [
     {
       "raw_hot": 2429638,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234570,
+      "num": 234570,
+      "word": "200斤爸爸抱6斤女儿直犯难",
+      "onboard_time": 1661889551,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226598,
       "num": 214251,
       "word": "今年超过40万人评分的影视剧",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103542,
+      "num": 103542,
+      "word": "多抓鱼75元回收的衣服629元售卖",
+      "onboard_time": 1661886312,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97672,
       "num": 97672,
       "word": "感觉大四的学费交得好亏",
@@ -369,14 +385,6 @@
       "onboard_time": 1661871518,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 88823,
-      "num": 54324,
-      "word": "200斤爸爸抱6斤女儿直犯难",
-      "onboard_time": 1661889551,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86473,
@@ -395,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75878,
+      "num": 75878,
+      "word": "男孩赶作业敲得比发电报还快",
+      "onboard_time": 1661894651,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75349,
       "num": 75349,
       "word": "东北早市才是碳水届扛把子",
       "onboard_time": 1661863350,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 74518,
+      "num": 74518,
+      "word": "女孩猛推扭扭车致2岁宝宝摔落",
+      "onboard_time": 1661895672,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73583,
@@ -419,6 +443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66781,
+      "num": 66781,
+      "word": "主人因喝多忘记把狗带回家",
+      "onboard_time": 1661895190,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 66228,
+      "num": 66228,
+      "word": "四川果农400块一车买水抢救橘树",
+      "onboard_time": 1661891170,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64736,
       "num": 64736,
       "word": "当你用摄像头找猫时",
@@ -435,14 +475,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 61491,
-      "num": 61491,
-      "word": "多抓鱼75元回收的衣服629元售卖",
-      "onboard_time": 1661886312,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50756,
       "num": 50756,
       "word": "iPhoneSE将取消Home键",
@@ -451,12 +483,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41930,
-      "num": 41930,
-      "word": "四川果农400块一车买水抢救橘树",
-      "onboard_time": 1661891170,
+      "raw_hot": 47716,
+      "num": 47716,
+      "word": "无锡疫情防控",
+      "onboard_time": 1661883913,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41538,
+      "num": 41538,
+      "word": "玉骨遥",
+      "onboard_time": 1661897474,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 33321,
@@ -467,10 +507,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31475,
-      "num": 31475,
-      "word": "无锡疫情防控",
-      "onboard_time": 1661883913,
+      "raw_hot": 23717,
+      "num": 23717,
+      "word": "水下憋气睁眼跳舞一分钟是啥感受",
+      "onboard_time": 1661890091,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -491,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14382,
-      "num": 14382,
-      "word": "水下憋气睁眼跳舞一分钟是啥感受",
-      "onboard_time": 1661890091,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14249,
       "num": 13108,
       "word": "星汉灿烂",
@@ -507,28 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11576,
-      "num": 11576,
-      "word": "男孩赶作业敲得比发电报还快",
-      "onboard_time": 1661894651,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11331,
-      "num": 11331,
+      "raw_hot": 14010,
+      "num": 14010,
       "word": "稻盛和夫的哪本书最值得阅读",
       "onboard_time": 1661892251,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10398,
-      "num": 10398,
-      "word": "主人因喝多忘记把狗带回家",
-      "onboard_time": 1661895190,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 9449,
