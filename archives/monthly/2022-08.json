@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661865087045,
+  "endTime": 1661867444402,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6336264,
+      "num": 6336264,
+      "word": "HPV九价疫苗扩龄至9-45岁",
+      "onboard_time": 1661863110,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6228342,
       "num": 6228342,
       "word": "台海局势紧张升级美方须负全责",
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5682964,
+      "num": 623253,
+      "word": "刘畊宏 哭了",
+      "onboard_time": 1661866955,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5625584,
       "num": 5625584,
       "word": "台湾的事14亿中国人民说了算",
@@ -625,14 +641,6 @@
       "onboard_time": 1660719932,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5322423,
-      "num": 5322423,
-      "word": "HPV九价疫苗扩龄至9-45岁",
-      "onboard_time": 1661863110,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5283583,
@@ -2825,6 +2833,14 @@
       "onboard_time": 1661325632,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2617127,
+      "num": 610977,
+      "word": "网传章子怡赵丽颖合作双女主剧",
+      "onboard_time": 1661865692,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 2612518,
@@ -5499,6 +5515,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 1808487,
+      "num": 1152489,
+      "word": "我国结婚年龄越来越迟",
+      "onboard_time": 1661863469,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1805135,
       "num": 822344,
       "word": "王鹤棣用屁股撞虞书欣",
@@ -7915,6 +7939,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1428784,
+      "num": 1428784,
+      "word": "欢乐颂4",
+      "onboard_time": 1661863049,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1426579,
       "num": 1426579,
       "word": "赵立坚称曾在微博发现中国公民求助",
@@ -9281,14 +9313,6 @@
       "onboard_time": 1659929939,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1283369,
-      "num": 1283369,
-      "word": "欢乐颂4",
-      "onboard_time": 1661863049,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 1283171,
@@ -18083,14 +18107,6 @@
       "category": "时尚,社会议题"
     },
     {
-      "raw_hot": 745532,
-      "num": 745532,
-      "word": "我国结婚年龄越来越迟",
-      "onboard_time": 1661863469,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 745316,
       "num": 745316,
       "word": "安徽3年内就业率未达60%专业停招",
@@ -21225,6 +21241,14 @@
       "onboard_time": 1661318913,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643771,
+      "num": 643771,
+      "word": "思文 回归",
+      "onboard_time": 1661865996,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 643763,
@@ -25833,6 +25857,14 @@
       "onboard_time": 1659537111,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 539289,
+      "num": 539289,
+      "word": "东北早市才是碳水届扛把子",
+      "onboard_time": 1661863350,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 539223,
@@ -32091,14 +32123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 445113,
-      "num": 445113,
-      "word": "东北早市才是碳水届扛把子",
-      "onboard_time": 1661863350,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 445055,
       "num": 445055,
       "word": "黄铉辰撒娇",
@@ -33953,6 +33977,14 @@
       "onboard_time": 1660280314,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423537,
+      "num": 295350,
+      "word": "小兰花可爱图鉴",
+      "onboard_time": 1661867015,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 423509,
@@ -37633,6 +37665,14 @@
       "onboard_time": 1659588645,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 383732,
+      "num": 109935,
+      "word": "导演评价王一博在冰雨火中的演技",
+      "onboard_time": 1661867432,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 383622,
@@ -45785,6 +45825,14 @@
       "onboard_time": 1660122813,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314837,
+      "num": 314837,
+      "word": "作协回应贾浅浅是否入会",
+      "onboard_time": 1661865392,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314786,
@@ -55947,6 +55995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231600,
+      "num": 231600,
+      "word": "2022LPL夏决",
+      "onboard_time": 1661865571,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231420,
       "num": 231420,
       "word": "广东新增本土确诊7例无症状5例",
@@ -58739,6 +58795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
+      "onboard_time": 1661862989,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206754,
       "num": 206754,
       "word": "究竟是长大好还是小时候好",
@@ -60313,6 +60377,14 @@
       "onboard_time": 1661319274,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192586,
+      "num": 192586,
+      "word": "中俄将在日本海进行联合演习",
+      "onboard_time": 1661867132,
+      "rank": 34,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 192571,
@@ -63411,6 +63483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159614,
+      "num": 159614,
+      "word": "教你做一把古风小伞",
+      "onboard_time": 1661866295,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159568,
       "num": 159568,
       "word": "广州队4比1深圳队",
@@ -64147,6 +64227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148041,
+      "num": 148041,
+      "word": "TTG发布声明",
+      "onboard_time": 1661865513,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148000,
       "num": 148000,
       "word": "吐鲁番一串葡萄有手臂那么长",
@@ -64465,14 +64553,6 @@
       "onboard_time": 1660494866,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143692,
-      "num": 143692,
-      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
-      "onboard_time": 1661862989,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 143231,
@@ -66163,6 +66243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107446,
+      "num": 107446,
+      "word": "女性多少岁打九价合适",
+      "onboard_time": 1661866295,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 107180,
       "num": 107180,
       "word": "KSG扳回一局",
@@ -66241,6 +66329,14 @@
       "onboard_time": 1660051177,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 105381,
+      "num": 2632691,
+      "word": "我国太阳探测卫星科学数据全球共享",
+      "onboard_time": 1661864073,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 105100,
@@ -67057,14 +67153,6 @@
       "onboard_time": 1661853630,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62451,
-      "num": 2632691,
-      "word": "我国太阳探测卫星科学数据全球共享",
-      "onboard_time": 1661864073,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 62332,
