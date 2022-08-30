@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661852347246,
+  "endTime": 1661855054234,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -337,6 +337,14 @@
       "onboard_time": 1661780434,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1730298,
+      "num": 1730298,
+      "word": "地铁跑酷 崩了",
+      "onboard_time": 1661851771,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 1606816,
@@ -836,7 +844,7 @@
     },
     {
       "raw_hot": 877227,
-      "num": 300739,
+      "num": 346340,
       "word": "吴磊出发星汉灿烂庆功宴",
       "onboard_time": 1661842348,
       "rank": 20,
@@ -912,6 +920,14 @@
       "word": "网店月售鳄雀鳝2000余单",
       "onboard_time": 1661797571,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793685,
+      "num": 793685,
+      "word": "官方回应老人索要土地承包费被群嘲",
+      "onboard_time": 1661851171,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713850,
+      "num": 713850,
+      "word": "赵露思星汉灿烂收官vlog",
+      "onboard_time": 1661849130,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 711573,
       "num": 711573,
       "word": "殡葬店开在地铁口遭居民强烈抵制",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1661736755,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704447,
-      "num": 604514,
-      "word": "赵露思星汉灿烂收官vlog",
-      "onboard_time": 1661849130,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 700719,
@@ -1131,6 +1147,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 656640,
+      "num": 656640,
+      "word": "iPhoneSE将取消Home键",
+      "onboard_time": 1661853328,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 655906,
       "num": 655906,
       "word": "成都新增本土确诊134例",
@@ -1144,6 +1168,14 @@
       "word": "赵露思教吴磊如何牵手",
       "onboard_time": 1661837848,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 644773,
+      "num": 644773,
+      "word": "辣目洋子与凤行定妆照",
+      "onboard_time": 1661853927,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -1323,6 +1355,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 569393,
+      "num": 569393,
+      "word": "感觉大四的学费交得好亏",
+      "onboard_time": 1661853448,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 568997,
       "num": 568997,
       "word": "徐梦洁问到底算谁先表白的呀",
@@ -1451,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531189,
+      "num": 531189,
+      "word": "王鹤棣回应被评哑巴帅哥",
+      "onboard_time": 1661854527,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 525575,
       "num": 525575,
       "word": "男子称玉米遭老人组团偷摘",
@@ -1515,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497298,
+      "num": 497298,
+      "word": "被外婆第一次平板作画惊艳到了",
+      "onboard_time": 1661849251,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496861,
       "num": 496861,
       "word": "兴文地震",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1661778392,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494150,
+      "num": 494150,
+      "word": "腾讯申请微信输入法商标",
+      "onboard_time": 1661850330,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 483217,
@@ -1561,14 +1625,6 @@
       "onboard_time": 1661739993,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471484,
-      "num": 471484,
-      "word": "被外婆第一次平板作画惊艳到了",
-      "onboard_time": 1661849251,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469906,
@@ -1753,6 +1809,14 @@
       "onboard_time": 1661757508,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421435,
+      "num": 398686,
+      "word": "虞书欣张彬彬小森林对视氛围花絮",
+      "onboard_time": 1661854470,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 419403,
@@ -2251,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336669,
+      "num": 336669,
+      "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+      "onboard_time": 1661853688,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
@@ -2395,12 +2467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308641,
-      "num": 308641,
-      "word": "腾讯申请微信输入法商标",
-      "onboard_time": 1661850330,
-      "rank": 44,
-      "category": "科技"
+      "raw_hot": 307282,
+      "num": 253261,
+      "word": "七时吉祥预告里的长珩",
+      "onboard_time": 1661852430,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 305539,
@@ -2459,6 +2531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297539,
+      "num": 250647,
+      "word": "吴建豪重返街舞5录制现场",
+      "onboard_time": 1661854348,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297015,
       "num": 297015,
       "word": "脱口秀大会",
@@ -2512,6 +2592,14 @@
       "word": "美团骑手送餐拍照后又拿走",
       "onboard_time": 1661827286,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283116,
+      "num": 283116,
+      "word": "官方回应网传公司拖欠农民土地流转费",
+      "onboard_time": 1661852908,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2675,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267085,
+      "num": 267085,
+      "word": "为什么人们舍不得扔掉旧物",
+      "onboard_time": 1661852607,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266726,
       "num": 266726,
       "word": "河南三支一扶",
@@ -2713,6 +2809,14 @@
       "onboard_time": 1661787513,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 265133,
+      "num": 265133,
+      "word": "必须通过独处来恢复精力",
+      "onboard_time": 1661851290,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 264638,
@@ -2809,14 +2913,6 @@
       "onboard_time": 1661834252,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256612,
-      "num": 256612,
-      "word": "地铁跑酷 崩了",
-      "onboard_time": 1661851771,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 256121,
@@ -2961,6 +3057,14 @@
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234966,
+      "num": 234966,
+      "word": "跳水救人女生因病去世又捐角膜",
+      "onboard_time": 1661852247,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230672,
@@ -3171,14 +3275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202480,
-      "num": 202480,
-      "word": "官方回应老人索要土地承包费被群嘲",
-      "onboard_time": 1661851171,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202393,
       "num": 157928,
       "word": "与凤行",
@@ -3323,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189996,
+      "num": 189996,
+      "word": "这是在选美国队长吗",
+      "onboard_time": 1661850929,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189142,
       "num": 189142,
       "word": "白夜追凶开播5周年",
@@ -3419,14 +3523,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 175458,
-      "num": 175458,
-      "word": "这是在选美国队长吗",
-      "onboard_time": 1661850929,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174041,
       "num": 174041,
       "word": "河北疫情防控",
@@ -3499,14 +3595,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 165066,
-      "num": 165066,
-      "word": "必须通过独处来恢复精力",
-      "onboard_time": 1661851290,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160191,
       "num": 160191,
       "word": "微博上课了表情上线",
@@ -3537,6 +3625,14 @@
       "onboard_time": 1661759008,
       "rank": 46,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 155204,
+      "num": 155204,
+      "word": "女子求职被HR骚扰说要摸腿",
+      "onboard_time": 1661854287,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153506,
@@ -3635,12 +3731,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137183,
-      "num": 137183,
-      "word": "跳水救人女生因病去世又捐角膜",
-      "onboard_time": 1661852247,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 135408,
+      "num": 1787700,
+      "word": "守住保障国家粮食安全底线",
+      "onboard_time": 1661850689,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 134830,
@@ -3731,6 +3827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106881,
+      "num": 106881,
+      "word": "李梦雯加盟巴黎",
+      "onboard_time": 1661854769,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105920,
       "num": 105920,
       "word": "在家可以做的护肩动作",
@@ -3769,14 +3873,6 @@
       "onboard_time": 1661718310,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94814,
-      "num": 1787700,
-      "word": "守住保障国家粮食安全底线",
-      "onboard_time": 1661850689,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 94077,
@@ -3880,6 +3976,14 @@
       "word": "50秒延时看重庆以火灭火全过程",
       "onboard_time": 1661713512,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44371,
+      "num": 173273,
+      "word": "杭州一公交站现开学倒计时",
+      "onboard_time": 1661853630,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
