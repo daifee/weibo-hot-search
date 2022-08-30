@@ -1,0 +1,410 @@
+{
+  "runTime": 1661856038220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2128975,
+        "num": 2128975,
+        "word": "地铁跑酷 崩了",
+        "onboard_time": 1661851771,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1539450,
+        "num": 1539450,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119243,
+        "num": 1218982,
+        "word": "守住保障国家粮食安全底线",
+        "onboard_time": 1661850689,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1106607,
+        "num": 1106607,
+        "word": "中森明菜宣布复出",
+        "onboard_time": 1661846250,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1097080,
+        "num": 1097080,
+        "word": "感觉大四的学费交得好亏",
+        "onboard_time": 1661853448,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1052590,
+        "num": 1052590,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052267,
+        "num": 1052267,
+        "word": "iPhoneSE将取消Home键",
+        "onboard_time": 1661853328,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1007516,
+        "num": 1007516,
+        "word": "官方回应老人索要土地承包费被群嘲",
+        "onboard_time": 1661851171,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803731,
+        "num": 803731,
+        "word": "海底捞猪肚鸡汤底系粉料冲泡",
+        "onboard_time": 1661846190,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668134,
+        "num": 668134,
+        "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+        "onboard_time": 1661853688,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867047,
+        "num": 661989,
+        "word": "王鹤棣回应被评哑巴帅哥",
+        "onboard_time": 1661854527,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634885,
+        "num": 634885,
+        "word": "大脑用6小时就会堆积毒素",
+        "onboard_time": 1661844810,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622726,
+        "num": 622726,
+        "word": "虞书欣张彬彬小森林对视氛围花絮",
+        "onboard_time": 1661854470,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606165,
+        "num": 606165,
+        "word": "iPhone14Pro渐变紫",
+        "onboard_time": 1661834492,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 585362,
+        "num": 585362,
+        "word": "辣目洋子与凤行定妆照",
+        "onboard_time": 1661853927,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553867,
+        "num": 553867,
+        "word": "赵露思星汉灿烂收官vlog",
+        "onboard_time": 1661849130,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509503,
+        "num": 509503,
+        "word": "灵超与网约车司机吵架",
+        "onboard_time": 1661845108,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446067,
+        "num": 446067,
+        "word": "腾讯申请微信输入法商标",
+        "onboard_time": 1661850330,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 404070,
+        "num": 404070,
+        "word": "被外婆第一次平板作画惊艳到了",
+        "onboard_time": 1661849251,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368012,
+        "num": 368012,
+        "word": "女子乘车未给婴儿买车票被拦",
+        "onboard_time": 1661838806,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421596,
+        "num": 364494,
+        "word": "张凌赫 桑延",
+        "onboard_time": 1661840128,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369804,
+        "num": 364421,
+        "word": "吴磊出发星汉灿烂庆功宴",
+        "onboard_time": 1661842348,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359061,
+        "num": 359061,
+        "word": "新疆沙漠雨后出现一张狐狸脸",
+        "onboard_time": 1661845231,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344003,
+        "num": 344003,
+        "word": "网传刘亦菲主演玫瑰的故事",
+        "onboard_time": 1661848110,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328788,
+        "num": 328788,
+        "word": "官方回应网传公司拖欠农民土地流转费",
+        "onboard_time": 1661852908,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319368,
+        "num": 319368,
+        "word": "解放军在黄河上架设254米浮桥",
+        "onboard_time": 1661850090,
+        "rank": 25,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 289134,
+        "num": 289134,
+        "word": "必须通过独处来恢复精力",
+        "onboard_time": 1661851290,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278751,
+        "num": 278751,
+        "word": "男子小区内咬伤两人被警方带走",
+        "onboard_time": 1661840971,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254521,
+        "num": 254521,
+        "word": "女子求职被HR骚扰说要摸腿",
+        "onboard_time": 1661854287,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253166,
+        "num": 253166,
+        "word": "跳水救人女生因病去世又捐角膜",
+        "onboard_time": 1661852247,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290252,
+        "num": 251420,
+        "word": "七时吉祥预告里的长珩",
+        "onboard_time": 1661852430,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262663,
+        "num": 243159,
+        "word": "网友笑话保剑锋没吃上席",
+        "onboard_time": 1661850748,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262077,
+        "num": 239108,
+        "word": "吴建豪重返街舞5录制现场",
+        "onboard_time": 1661854348,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256745,
+        "num": 235609,
+        "word": "星汉灿烂",
+        "onboard_time": 1661849910,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232998,
+        "num": 232998,
+        "word": "为什么人们舍不得扔掉旧物",
+        "onboard_time": 1661852607,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216350,
+        "num": 216350,
+        "word": "川渝地区电力供应恢复正常",
+        "onboard_time": 1661848710,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199708,
+        "num": 199708,
+        "word": "深圳新增35例阳性病例",
+        "onboard_time": 1661839406,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197125,
+        "num": 197125,
+        "word": "这是在选美国队长吗",
+        "onboard_time": 1661850929,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179113,
+        "num": 179113,
+        "word": "中级会计",
+        "onboard_time": 1661848952,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63757,
+        "num": 175760,
+        "word": "杭州一公交站现开学倒计时",
+        "onboard_time": 1661853630,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240590,
+        "num": 175736,
+        "word": "沉香重华成毅一把抱杨紫入怀",
+        "onboard_time": 1661855430,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175696,
+        "num": 175696,
+        "word": "双胞胎早晨嬉笑唤醒沉睡中的妈妈",
+        "onboard_time": 1661847990,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217761,
+        "num": 172536,
+        "word": "颜淡重回天界",
+        "onboard_time": 1661851171,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156164,
+        "num": 156164,
+        "word": "特朗普呼吁立即重新进行大选",
+        "onboard_time": 1661840309,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 142679,
+        "num": 142679,
+        "word": "石家庄检出11例初筛阳性",
+        "onboard_time": 1661846132,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127487,
+        "num": 127487,
+        "word": "中国市场三成iPhone用户或升级",
+        "onboard_time": 1661855247,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120767,
+        "num": 120767,
+        "word": "iPhone14Pro超广角相机或升级到1.4微米",
+        "onboard_time": 1661846250,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118560,
+        "num": 118560,
+        "word": "当你得罪了一只记仇的猫咪",
+        "onboard_time": 1661855850,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104485,
+        "num": 104485,
+        "word": "宝宝把镊子精准捅进电门",
+        "onboard_time": 1661831729,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97550,
+        "num": 97550,
+        "word": "KPL鲜奶毒奶颁奖礼",
+        "onboard_time": 1661847931,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间关乎人类命运#"
+    }
+  }
+}

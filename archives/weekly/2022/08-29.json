@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661855054234,
+  "endTime": 1661856038220,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -219,6 +219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2128975,
+      "num": 2128975,
+      "word": "地铁跑酷 崩了",
+      "onboard_time": 1661851771,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2076970,
       "num": 208595,
       "word": "赵露思机场收到吴露可逃小卡",
@@ -337,14 +345,6 @@
       "onboard_time": 1661780434,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1730298,
-      "num": 1730298,
-      "word": "地铁跑酷 崩了",
-      "onboard_time": 1661851771,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 1606816,
@@ -667,6 +667,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1097080,
+      "num": 1097080,
+      "word": "感觉大四的学费交得好亏",
+      "onboard_time": 1661853448,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1091855,
       "num": 1091855,
       "word": "女子腿脚没劲原是老年综合征",
@@ -689,6 +697,14 @@
       "onboard_time": 1661754567,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1052267,
+      "num": 1052267,
+      "word": "iPhoneSE将取消Home键",
+      "onboard_time": 1661853328,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 1025937,
@@ -721,6 +737,14 @@
       "onboard_time": 1661756609,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1007516,
+      "num": 1007516,
+      "word": "官方回应老人索要土地承包费被群嘲",
+      "onboard_time": 1661851171,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003228,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 877227,
-      "num": 346340,
+      "num": 364421,
       "word": "吴磊出发星汉灿烂庆功宴",
       "onboard_time": 1661842348,
       "rank": 20,
@@ -865,6 +889,14 @@
       "onboard_time": 1661783313,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 867047,
+      "num": 661989,
+      "word": "王鹤棣回应被评哑巴帅哥",
+      "onboard_time": 1661854527,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 842062,
@@ -920,14 +952,6 @@
       "word": "网店月售鳄雀鳝2000余单",
       "onboard_time": 1661797571,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 793685,
-      "num": 793685,
-      "word": "官方回应老人索要土地承包费被群嘲",
-      "onboard_time": 1661851171,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668134,
+      "num": 668134,
+      "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+      "onboard_time": 1661853688,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663992,
       "num": 663992,
       "word": "拼多多发布第二季度财报",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1661763749,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 656640,
-      "num": 656640,
-      "word": "iPhoneSE将取消Home键",
-      "onboard_time": 1661853328,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 655906,
@@ -1275,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622726,
+      "num": 622726,
+      "word": "虞书欣张彬彬小森林对视氛围花絮",
+      "onboard_time": 1661854470,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 618952,
       "num": 618952,
       "word": "姐姐们为于文文伸出圆手",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1661760809,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 569393,
-      "num": 569393,
-      "word": "感觉大四的学费交得好亏",
-      "onboard_time": 1661853448,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 568997,
@@ -1489,14 +1513,6 @@
       "onboard_time": 1661780494,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 531189,
-      "num": 531189,
-      "word": "王鹤棣回应被评哑巴帅哥",
-      "onboard_time": 1661854527,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 525575,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1661757508,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421435,
-      "num": 398686,
-      "word": "虞书欣张彬彬小森林对视氛围花絮",
-      "onboard_time": 1661854470,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 419403,
@@ -2315,14 +2323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336669,
-      "num": 336669,
-      "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
-      "onboard_time": 1661853688,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
@@ -2345,6 +2345,14 @@
       "onboard_time": 1661783497,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328788,
+      "num": 328788,
+      "word": "官方回应网传公司拖欠农民土地流转费",
+      "onboard_time": 1661852908,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328176,
@@ -2587,19 +2595,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289134,
+      "num": 289134,
+      "word": "必须通过独处来恢复精力",
+      "onboard_time": 1661851290,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287547,
       "num": 287547,
       "word": "美团骑手送餐拍照后又拿走",
       "onboard_time": 1661827286,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283116,
-      "num": 283116,
-      "word": "官方回应网传公司拖欠农民土地流转费",
-      "onboard_time": 1661852908,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2811,14 +2819,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 265133,
-      "num": 265133,
-      "word": "必须通过独处来恢复精力",
-      "onboard_time": 1661851290,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264638,
       "num": 264638,
       "word": "月升沧海",
@@ -2939,6 +2939,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 254521,
+      "num": 254521,
+      "word": "女子求职被HR骚扰说要摸腿",
+      "onboard_time": 1661854287,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253166,
+      "num": 253166,
+      "word": "跳水救人女生因病去世又捐角膜",
+      "onboard_time": 1661852247,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252824,
       "num": 252824,
       "word": "王嘉尔加盟中国说唱巅峰对决",
@@ -3019,6 +3035,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 240590,
+      "num": 175736,
+      "word": "沉香重华成毅一把抱杨紫入怀",
+      "onboard_time": 1661855430,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240181,
       "num": 240181,
       "word": "范世錡海芋恋完整版上线",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234966,
-      "num": 234966,
-      "word": "跳水救人女生因病去世又捐角膜",
-      "onboard_time": 1661852247,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230672,
@@ -3363,6 +3379,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 197125,
+      "num": 197125,
+      "word": "这是在选美国队长吗",
+      "onboard_time": 1661850929,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196840,
       "num": 196840,
       "word": "联盟表演嘉宾陈奕迅",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1661734052,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189996,
-      "num": 189996,
-      "word": "这是在选美国队长吗",
-      "onboard_time": 1661850929,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 189142,
@@ -3627,14 +3643,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 155204,
-      "num": 155204,
-      "word": "女子求职被HR骚扰说要摸腿",
-      "onboard_time": 1661854287,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153506,
       "num": 145114,
       "word": "王子文吴永恩考拉抱",
@@ -3763,6 +3771,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 127487,
+      "num": 127487,
+      "word": "中国市场三成iPhone用户或升级",
+      "onboard_time": 1661855247,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 125963,
       "num": 125963,
       "word": "中国男篮80比67巴林男篮",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1661681245,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118560,
+      "num": 118560,
+      "word": "当你得罪了一只记仇的猫咪",
+      "onboard_time": 1661855850,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 118037,
@@ -3963,6 +3987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63757,
+      "num": 175760,
+      "word": "杭州一公交站现开学倒计时",
+      "onboard_time": 1661853630,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56606,
       "num": 56606,
       "word": "公厕里的洗手液有多脏",
@@ -3976,14 +4008,6 @@
       "word": "50秒延时看重庆以火灭火全过程",
       "onboard_time": 1661713512,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44371,
-      "num": 173273,
-      "word": "杭州一公交站现开学倒计时",
-      "onboard_time": 1661853630,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
