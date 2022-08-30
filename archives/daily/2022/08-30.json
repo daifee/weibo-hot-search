@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661848131048,
+  "endTime": 1661849075252,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2168270,
+      "num": 2168270,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2153336,
       "num": 2153336,
       "word": "iPhone14Pro渐变紫",
@@ -89,14 +97,6 @@
       "onboard_time": 1661845108,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1977689,
-      "num": 1977689,
-      "word": "频繁的聊天会出现恋爱错觉吗",
-      "onboard_time": 1661839529,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 1930660,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1603366,
+      "num": 1603366,
+      "word": "中森明菜宣布复出",
+      "onboard_time": 1661846250,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1572662,
       "num": 1572662,
       "word": "上海男子当街被捅系在玩角色扮演",
       "onboard_time": 1661830828,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1363703,
-      "num": 1363703,
-      "word": "中森明菜宣布复出",
-      "onboard_time": 1661846250,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1360877,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244031,
+      "num": 1244031,
+      "word": "大脑用6小时就会堆积毒素",
+      "onboard_time": 1661844810,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1229609,
       "num": 1229609,
       "word": "台湾是中国的一部分没有任何模糊空间",
@@ -251,6 +259,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1023235,
+      "num": 1023235,
+      "word": "海底捞猪肚鸡汤底系粉料冲泡",
+      "onboard_time": 1661846190,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994755,
+      "num": 994755,
+      "word": "网传刘亦菲主演玫瑰的故事",
+      "onboard_time": 1661848110,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 989191,
       "num": 439401,
       "word": "西外研究生宿舍",
@@ -289,14 +313,6 @@
       "onboard_time": 1661832750,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 934576,
-      "num": 934576,
-      "word": "大脑用6小时就会堆积毒素",
-      "onboard_time": 1661844810,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 895642,
@@ -467,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 613599,
-      "num": 119559,
-      "word": "网传刘亦菲主演玫瑰的故事",
-      "onboard_time": 1661848110,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 640733,
+      "num": 640733,
+      "word": "新疆沙漠雨后出现一张狐狸脸",
+      "onboard_time": 1661845231,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592924,
@@ -497,14 +513,6 @@
       "onboard_time": 1661824049,
       "rank": 11,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 586957,
-      "num": 586957,
-      "word": "新疆沙漠雨后出现一张狐狸脸",
-      "onboard_time": 1661845231,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 540467,
@@ -536,14 +544,6 @@
       "word": "男子称玉米遭老人组团偷摘",
       "onboard_time": 1661821892,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519199,
-      "num": 519199,
-      "word": "海底捞猪肚鸡汤底系粉料冲泡",
-      "onboard_time": 1661846190,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -699,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379379,
+      "num": 379379,
+      "word": "苍兰诀王鹤棣东方青苍特辑",
+      "onboard_time": 1661848533,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373978,
       "num": 373978,
       "word": "研究生扩招高校真的准备好了吗",
@@ -771,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342062,
+      "num": 342062,
+      "word": "iPhone14Pro超广角相机或升级到1.4微米",
+      "onboard_time": 1661846250,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 339765,
       "num": 339765,
       "word": "伊拉克",
@@ -835,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307907,
-      "num": 307907,
-      "word": "iPhone14Pro超广角相机或升级到1.4微米",
-      "onboard_time": 1661846250,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 303435,
       "num": 303435,
       "word": "原来500年前修长城就有项目经理",
@@ -889,6 +897,22 @@
       "onboard_time": 1661827286,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286453,
+      "num": 286453,
+      "word": "川渝地区电力供应恢复正常",
+      "onboard_time": 1661848710,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279934,
+      "num": 279934,
+      "word": "什么是游戏式友情",
+      "onboard_time": 1661847090,
+      "rank": 26,
+      "category": "情感,游戏"
     },
     {
       "raw_hot": 275566,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1661833048,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264244,
-      "num": 264244,
-      "word": "什么是游戏式友情",
-      "onboard_time": 1661847090,
-      "rank": 26,
-      "category": "情感,游戏"
     },
     {
       "raw_hot": 261057,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219372,
+      "num": 219372,
+      "word": "第一次见这么可爱的泰迪",
+      "onboard_time": 1661844988,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218138,
       "num": 218138,
       "word": "女子酒驾肇事后淡定离开现场",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1661819129,
       "rank": 39,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 215007,
+      "num": 215007,
+      "word": "KPL鲜奶毒奶颁奖礼",
+      "onboard_time": 1661847931,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 210104,
@@ -1267,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184388,
+      "num": 184388,
+      "word": "双胞胎早晨嬉笑唤醒沉睡中的妈妈",
+      "onboard_time": 1661847990,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182831,
       "num": 145072,
       "word": "唐周永远20岁",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1661844272,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170229,
-      "num": 170229,
-      "word": "第一次见这么可爱的泰迪",
-      "onboard_time": 1661844988,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 167304,
@@ -1395,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142134,
+      "num": 142134,
+      "word": "双胞胎兄弟同考639分入同校",
+      "onboard_time": 1661847750,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 141593,
       "num": 141593,
       "word": "武汉疫情防控",
@@ -1459,12 +1499,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 128123,
-      "num": 128123,
-      "word": "KPL鲜奶毒奶颁奖礼",
-      "onboard_time": 1661847931,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 129390,
+      "num": 129390,
+      "word": "中级会计",
+      "onboard_time": 1661848952,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 125963,
@@ -1475,28 +1515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122500,
-      "num": 122500,
-      "word": "双胞胎早晨嬉笑唤醒沉睡中的妈妈",
-      "onboard_time": 1661847990,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117990,
       "num": 98538,
       "word": "于文文首演悬疑剧",
       "onboard_time": 1661790745,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113269,
-      "num": 113269,
-      "word": "双胞胎兄弟同考639分入同校",
-      "onboard_time": 1661847750,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 110723,

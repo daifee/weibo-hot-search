@@ -1,0 +1,410 @@
+{
+  "runTime": 1661849075252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2283837,
+        "num": 2283837,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2168270,
+        "num": 2168270,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16969,
+        "num": 1611394,
+        "word": "英雄战士与英雄人民的双向奔赴",
+        "onboard_time": 1661702785,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1603366,
+        "num": 1603366,
+        "word": "中森明菜宣布复出",
+        "onboard_time": 1661846250,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1520185,
+        "num": 1520185,
+        "word": "灵超与网约车司机吵架",
+        "onboard_time": 1661845108,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1244031,
+        "num": 1244031,
+        "word": "大脑用6小时就会堆积毒素",
+        "onboard_time": 1661844810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023235,
+        "num": 1023235,
+        "word": "海底捞猪肚鸡汤底系粉料冲泡",
+        "onboard_time": 1661846190,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994755,
+        "num": 994755,
+        "word": "网传刘亦菲主演玫瑰的故事",
+        "onboard_time": 1661848110,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 858114,
+        "num": 858114,
+        "word": "iPhone14Pro渐变紫",
+        "onboard_time": 1661834492,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 843435,
+        "num": 843435,
+        "word": "湖南大学回应教官打骂学生",
+        "onboard_time": 1661842348,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 792436,
+        "num": 792436,
+        "word": "张凌赫 桑延",
+        "onboard_time": 1661840128,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 691004,
+        "num": 691004,
+        "word": "女子乘车未给婴儿买车票被拦",
+        "onboard_time": 1661838806,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640733,
+        "num": 640733,
+        "word": "新疆沙漠雨后出现一张狐狸脸",
+        "onboard_time": 1661845231,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489270,
+        "num": 489270,
+        "word": "石家庄检出11例初筛阳性",
+        "onboard_time": 1661846132,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450094,
+        "num": 450094,
+        "word": "男子小区内咬伤两人被警方带走",
+        "onboard_time": 1661840971,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441536,
+        "num": 441536,
+        "word": "宝宝把镊子精准捅进电门",
+        "onboard_time": 1661831729,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431129,
+        "num": 431129,
+        "word": "程璐说前六没来前妻来了",
+        "onboard_time": 1661843129,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379379,
+        "num": 379379,
+        "word": "苍兰诀王鹤棣东方青苍特辑",
+        "onboard_time": 1661848533,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342062,
+        "num": 342062,
+        "word": "iPhone14Pro超广角相机或升级到1.4微米",
+        "onboard_time": 1661846250,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 301132,
+        "num": 301132,
+        "word": "原来500年前修长城就有项目经理",
+        "onboard_time": 1661845290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493088,
+        "num": 298067,
+        "word": "吴磊出发星汉灿烂庆功宴",
+        "onboard_time": 1661842348,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348541,
+        "num": 296110,
+        "word": "特朗普呼吁立即重新进行大选",
+        "onboard_time": 1661840309,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 326672,
+        "num": 291863,
+        "word": "偷偷藏不住",
+        "onboard_time": 1661846490,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286453,
+        "num": 286453,
+        "word": "川渝地区电力供应恢复正常",
+        "onboard_time": 1661848710,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281805,
+        "num": 281805,
+        "word": "深圳新增35例阳性病例",
+        "onboard_time": 1661839406,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279934,
+        "num": 279934,
+        "word": "什么是游戏式友情",
+        "onboard_time": 1661847090,
+        "rank": 25,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 256474,
+        "num": 256474,
+        "word": "孟子义说杀了我给他俩助助兴",
+        "onboard_time": 1661841808,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245454,
+        "num": 245454,
+        "word": "美术老师5分钟在黑板上画一条龙",
+        "onboard_time": 1661844511,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 231109,
+        "num": 231109,
+        "word": "东方甄选三个月带货20亿",
+        "onboard_time": 1661840188,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219372,
+        "num": 219372,
+        "word": "第一次见这么可爱的泰迪",
+        "onboard_time": 1661844988,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287511,
+        "num": 218854,
+        "word": "王悦伊",
+        "onboard_time": 1661823569,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233076,
+        "num": 218151,
+        "word": "王一博王劲松双王组合",
+        "onboard_time": 1661841630,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220215,
+        "num": 218061,
+        "word": "李晟看老公眼神太好笑了",
+        "onboard_time": 1661842709,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215007,
+        "num": 215007,
+        "word": "KPL鲜奶毒奶颁奖礼",
+        "onboard_time": 1661847931,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213713,
+        "num": 213713,
+        "word": "原来简历还可以这样写",
+        "onboard_time": 1661833952,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 184388,
+        "num": 184388,
+        "word": "双胞胎早晨嬉笑唤醒沉睡中的妈妈",
+        "onboard_time": 1661847990,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179947,
+        "num": 179947,
+        "word": "丁程鑫马正元的蒙语名",
+        "onboard_time": 1661845769,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172275,
+        "num": 172275,
+        "word": "承德高新区道歉",
+        "onboard_time": 1661837728,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170919,
+        "num": 170919,
+        "word": "海上坐高铁是什么体验",
+        "onboard_time": 1661842109,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160755,
+        "num": 160755,
+        "word": "丈夫作证帮妻子讨回给第三者的7万元",
+        "onboard_time": 1661835810,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176006,
+        "num": 159552,
+        "word": "颜淡又拒绝应渊告白",
+        "onboard_time": 1661842948,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152408,
+        "num": 152408,
+        "word": "脱口秀大会",
+        "onboard_time": 1661840727,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142134,
+        "num": 142134,
+        "word": "双胞胎兄弟同考639分入同校",
+        "onboard_time": 1661847750,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132399,
+        "num": 132399,
+        "word": "四川多所高校延期开学",
+        "onboard_time": 1661842830,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 129390,
+        "num": 129390,
+        "word": "中级会计",
+        "onboard_time": 1661848952,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122665,
+        "num": 122665,
+        "word": "iPhone14Pro或支持30W充电器",
+        "onboard_time": 1661829510,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116547,
+        "num": 116547,
+        "word": "上海男子当街被捅系在玩角色扮演",
+        "onboard_time": 1661830828,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111986,
+        "num": 111986,
+        "word": "原来我的易胖体质是这么来的",
+        "onboard_time": 1661830888,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110855,
+        "num": 110855,
+        "word": "和边牧交流不一定要说人话",
+        "onboard_time": 1661842770,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 109647,
+        "num": 109647,
+        "word": "老人深夜带孙女捡废品救患病孙子",
+        "onboard_time": 1661834370,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬时代新风建设网络文明#"
+    }
+  }
+}
