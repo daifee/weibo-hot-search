@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661873025844,
+  "endTime": 1661874169639,
   "band_list": [
     {
       "raw_hot": 9218124,
@@ -57,6 +57,14 @@
       "onboard_time": 1661862269,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3030803,
+      "num": 3030803,
+      "word": "吴磊赵露思星汉灿烂庆功宴合照",
+      "onboard_time": 1661873072,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2913318,
@@ -451,6 +459,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1013633,
+      "num": 1013633,
+      "word": "离职一定要删的东西",
+      "onboard_time": 1661868755,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1007516,
       "num": 1007516,
       "word": "官方回应老人索要土地承包费被群嘲",
@@ -489,14 +505,6 @@
       "onboard_time": 1661823028,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 984258,
-      "num": 984258,
-      "word": "离职一定要删的东西",
-      "onboard_time": 1661868755,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 965262,
@@ -747,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672405,
+      "num": 365493,
+      "word": "张翰新剧首演单身奶爸",
+      "onboard_time": 1661872773,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 663687,
       "num": 663687,
       "word": "疫苗巨头业绩下滑近99%",
       "onboard_time": 1661803930,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 654525,
+      "num": 654525,
+      "word": "去年25至29岁结婚人数最多",
+      "onboard_time": 1661869599,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650085,
@@ -833,14 +857,6 @@
       "onboard_time": 1661862388,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 582493,
-      "num": 582493,
-      "word": "去年25至29岁结婚人数最多",
-      "onboard_time": 1661869599,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562119,
@@ -931,12 +947,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504631,
+      "num": 504631,
+      "word": "陕西蓝田通报老人被群嘲事件",
+      "onboard_time": 1661872293,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502584,
+      "num": 365377,
+      "word": "丁程鑫赵今麦互祝事业有成",
+      "onboard_time": 1661873673,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498543,
       "num": 397148,
       "word": "迪丽热巴MiniBAZAAR九月刊封面",
       "onboard_time": 1661859328,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 497926,
+      "num": 241840,
+      "word": "于正全员加速中第一季编剧",
+      "onboard_time": 1661873130,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 497298,
@@ -1003,12 +1043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454299,
-      "num": 242280,
-      "word": "张翰新剧首演单身奶爸",
-      "onboard_time": 1661872773,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 451636,
+      "num": 239125,
+      "word": "拉宏桑脱口秀首秀满灯晋级",
+      "onboard_time": 1661872238,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 450307,
@@ -1387,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324940,
-      "num": 214762,
-      "word": "拉宏桑脱口秀首秀满灯晋级",
-      "onboard_time": 1661872238,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324672,
       "num": 267925,
       "word": "脱口秀大会第五季今晚开播",
@@ -1595,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270659,
+      "num": 270659,
+      "word": "为什么一定要好好告别",
+      "onboard_time": 1661866955,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270561,
       "num": 131835,
       "word": "看INTO1体能对抗像看广场舞",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1661785300,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268124,
-      "num": 268124,
-      "word": "为什么一定要好好告别",
-      "onboard_time": 1661866955,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 267085,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1661855430,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255856,
+      "num": 255856,
+      "word": "客运回应女子未给婴儿买票被拦",
+      "onboard_time": 1661872951,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254778,
@@ -2009,14 +2049,6 @@
       "onboard_time": 1661847750,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 199177,
-      "num": 199177,
-      "word": "陕西蓝田通报老人被群嘲事件",
-      "onboard_time": 1661872293,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199162,
@@ -2377,14 +2409,6 @@
       "onboard_time": 1661790745,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117122,
-      "num": 117122,
-      "word": "客运回应女子未给婴儿买票被拦",
-      "onboard_time": 1661872951,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110723,
