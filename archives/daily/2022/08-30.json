@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661841364868,
+  "endTime": 1661844497813,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2810554,
-      "num": 2810554,
+      "raw_hot": 2816586,
+      "num": 2816586,
       "word": "稻盛和夫去世",
       "onboard_time": 1661839767,
       "rank": 6,
@@ -75,11 +75,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2076970,
+      "num": 208595,
+      "word": "赵露思机场收到吴露可逃小卡",
+      "onboard_time": 1661843068,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1930660,
       "num": 1930660,
       "word": "网传韩剧匹诺曹将翻拍",
       "onboard_time": 1661829688,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1828113,
+      "num": 1616775,
+      "word": "张凌赫 桑延",
+      "onboard_time": 1661840128,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -97,14 +113,6 @@
       "onboard_time": 1661780313,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1616775,
-      "num": 1616775,
-      "word": "张凌赫 桑延",
-      "onboard_time": 1661840128,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1572662,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1278920,
+      "num": 1278920,
+      "word": "女子乘车未给婴儿买车票被拦",
+      "onboard_time": 1661838806,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1265190,
       "num": 1265190,
       "word": "四川增本土确诊167例无症状109例",
@@ -185,6 +201,14 @@
       "onboard_time": 1661810292,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105705,
+      "num": 450455,
+      "word": "特朗普呼吁立即重新进行大选",
+      "onboard_time": 1661840309,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 989191,
@@ -227,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 909661,
+      "num": 909661,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 895642,
       "num": 895642,
       "word": "丈夫作证帮妻子讨回给第三者的7万元",
       "onboard_time": 1661835810,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877227,
+      "num": 296693,
+      "word": "吴磊出发星汉灿烂庆功宴",
+      "onboard_time": 1661842348,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 842062,
@@ -291,19 +331,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795683,
+      "num": 795683,
+      "word": "湖南大学回应教官打骂学生",
+      "onboard_time": 1661842348,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 791031,
       "num": 791031,
       "word": "无糖饮料为何会比有糖饮料危害更大",
       "onboard_time": 1661813775,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784216,
-      "num": 784216,
-      "word": "女子乘车未给婴儿买车票被拦",
-      "onboard_time": 1661838806,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -321,6 +361,14 @@
       "onboard_time": 1661807472,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722864,
+      "num": 722864,
+      "word": "湖南大学教官",
+      "onboard_time": 1661842529,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 711573,
@@ -352,6 +400,22 @@
       "word": "16岁少年上手术台发现少一块骨头",
       "onboard_time": 1661776288,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686761,
+      "num": 686761,
+      "word": "男子小区内咬伤两人被警方带走",
+      "onboard_time": 1661840971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679617,
+      "num": 679617,
+      "word": "深圳新增35例阳性病例",
+      "onboard_time": 1661839406,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -403,14 +467,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 553893,
-      "num": 553893,
-      "word": "深圳新增35例阳性病例",
-      "onboard_time": 1661839406,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538160,
       "num": 269329,
       "word": "网传星汉灿烂明日庆功宴",
@@ -459,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494586,
+      "num": 494586,
+      "word": "程璐说前六没来前妻来了",
+      "onboard_time": 1661843129,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464517,
       "num": 268968,
       "word": "P图造谣赵露思网友成老赖",
@@ -473,6 +537,22 @@
       "onboard_time": 1661817327,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 452461,
+      "num": 452461,
+      "word": "东方甄选三个月带货20亿",
+      "onboard_time": 1661840188,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 448241,
+      "num": 448241,
+      "word": "王一博王劲松双王组合",
+      "onboard_time": 1661841630,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 441779,
@@ -547,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377600,
-      "num": 377600,
-      "word": "特朗普呼吁立即重新进行大选",
-      "onboard_time": 1661840309,
-      "rank": 15,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 373978,
       "num": 373978,
       "word": "研究生扩招高校真的准备好了吗",
@@ -603,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349230,
+      "num": 349230,
+      "word": "孟子义说杀了我给他俩助助兴",
+      "onboard_time": 1661841808,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348545,
       "num": 342295,
       "word": "王俊凯天坑鹰猎开播4周年",
@@ -635,14 +715,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 329664,
-      "num": 329664,
-      "word": "频繁的聊天会出现恋爱错觉吗",
-      "onboard_time": 1661839529,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327202,
       "num": 327202,
       "word": "东方员外",
@@ -667,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319320,
+      "num": 319320,
+      "word": "欢乐颂3今日收官",
+      "onboard_time": 1661843610,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318307,
       "num": 318307,
       "word": "冰雨火王一博蝉联角色热度周榜冠军",
@@ -681,6 +761,22 @@
       "onboard_time": 1661832811,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297015,
+      "num": 297015,
+      "word": "脱口秀大会",
+      "onboard_time": 1661840727,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295845,
+      "num": 295845,
+      "word": "李晟看老公眼神太好笑了",
+      "onboard_time": 1661842709,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 294814,
@@ -859,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255983,
-      "num": 255983,
-      "word": "东方甄选三个月带货20亿",
-      "onboard_time": 1661840188,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 249699,
       "num": 249699,
       "word": "30岁未婚女生立遗嘱遗产给妈妈",
@@ -883,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240931,
-      "num": 240931,
-      "word": "脱口秀大会",
-      "onboard_time": 1661840727,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237380,
       "num": 237380,
       "word": "好喜欢直球式的示爱",
@@ -904,6 +984,14 @@
       "word": "玉骨遥",
       "onboard_time": 1661817266,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 232345,
+      "num": 210119,
+      "word": "颜淡又拒绝应渊告白",
+      "onboard_time": 1661842948,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -923,12 +1011,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 222555,
+      "raw_hot": 226924,
       "num": 222555,
       "word": "月升沧海疑商夫妇大婚花絮",
       "onboard_time": 1661840431,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225994,
+      "num": 225994,
+      "word": "陕西一码通场所码增加采样时间",
+      "onboard_time": 1661840605,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222716,
+      "num": 222716,
+      "word": "海上坐高铁是什么体验",
+      "onboard_time": 1661842109,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219577,
@@ -953,6 +1057,14 @@
       "onboard_time": 1661819129,
       "rank": 39,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 212102,
+      "num": 212102,
+      "word": "四川多所高校延期开学",
+      "onboard_time": 1661842830,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 210104,
@@ -984,6 +1096,14 @@
       "word": "蒋兰州梁爽的爱情从飞镖开始",
       "onboard_time": 1661814019,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198118,
+      "num": 144681,
+      "word": "冰雨火",
+      "onboard_time": 1661843610,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1075,20 +1195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170929,
+      "num": 139534,
+      "word": "冰雨火里的案件原型",
+      "onboard_time": 1661844272,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 165901,
+      "num": 165901,
+      "word": "和边牧交流不一定要说人话",
+      "onboard_time": 1661842770,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 163948,
       "num": 163948,
       "word": "S12全新冠军奖杯公布",
       "onboard_time": 1661783616,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162791,
-      "num": 162791,
-      "word": "陕西一码通场所码增加采样时间",
-      "onboard_time": 1661840605,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159748,
@@ -1105,14 +1233,6 @@
       "onboard_time": 1661815822,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152852,
-      "num": 152852,
-      "word": "男子小区内咬伤两人被警方带走",
-      "onboard_time": 1661840971,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151865,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1661784399,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105920,
+      "num": 105920,
+      "word": "在家可以做的护肩动作",
+      "onboard_time": 1661843912,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105066,
