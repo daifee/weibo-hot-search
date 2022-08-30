@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661835150464,
+  "endTime": 1661836152277,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2318812,
-      "num": 2318812,
+      "raw_hot": 2731927,
+      "num": 2731927,
       "word": "宝宝把镊子精准捅进电门",
       "onboard_time": 1661831729,
       "rank": 0,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 961074,
+      "num": 961074,
+      "word": "iPhone14Pro渐变紫",
+      "onboard_time": 1661834492,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 950804,
       "num": 950804,
       "word": "小兰花把骨兰养在她编的花环凤冠下",
@@ -225,6 +233,14 @@
       "onboard_time": 1661778454,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 799842,
+      "num": 638928,
+      "word": "原来简历还可以这样写",
+      "onboard_time": 1661833952,
+      "rank": 13,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 797917,
@@ -305,14 +321,6 @@
       "onboard_time": 1661832329,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 601323,
-      "num": 601323,
-      "word": "原来简历还可以这样写",
-      "onboard_time": 1661833952,
-      "rank": 13,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 592924,
@@ -531,6 +539,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 335353,
+      "num": 297697,
+      "word": "心动的信号5里的男嘉宾",
+      "onboard_time": 1661835510,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327202,
       "num": 327202,
       "word": "东方员外",
@@ -547,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313254,
-      "num": 313254,
-      "word": "iPhone14Pro渐变紫",
-      "onboard_time": 1661834492,
-      "rank": 25,
-      "category": "科技"
+      "raw_hot": 309845,
+      "num": 309845,
+      "word": "新人携手坐地铁参加婚礼",
+      "onboard_time": 1661832811,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294814,
@@ -579,20 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277310,
-      "num": 277310,
-      "word": "新人携手坐地铁参加婚礼",
-      "onboard_time": 1661832811,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274673,
       "num": 180790,
       "word": "柳青瑶",
       "onboard_time": 1661786497,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 273902,
+      "num": 246201,
+      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+      "onboard_time": 1661834370,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 270105,
@@ -707,20 +723,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256980,
+      "num": 256980,
+      "word": "承德高新区防疫公告",
+      "onboard_time": 1661834252,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249699,
       "num": 249699,
       "word": "30岁未婚女生立遗嘱遗产给妈妈",
       "onboard_time": 1661769751,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246201,
-      "num": 246201,
-      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
-      "onboard_time": 1661834370,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 243775,
@@ -761,14 +777,6 @@
       "onboard_time": 1661828848,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 221035,
-      "num": 221035,
-      "word": "承德高新区防疫公告",
-      "onboard_time": 1661834252,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219577,
@@ -915,6 +923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 155831,
+      "num": 155831,
+      "word": "女子酒驾肇事后淡定离开现场",
+      "onboard_time": 1661835329,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "沉香重华",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1661790745,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115014,
+      "num": 115014,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110723,

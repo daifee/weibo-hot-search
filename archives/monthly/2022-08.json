@@ -1,6 +1,6 @@
 {
   "startTime": 1659284890229,
-  "endTime": 1661835150464,
+  "endTime": 1661836152277,
   "band_list": [
     {
       "raw_hot": 39683636,
@@ -2587,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2731927,
+      "num": 2731927,
+      "word": "宝宝把镊子精准捅进电门",
+      "onboard_time": 1661831729,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2729710,
       "num": 1318386,
       "word": "日娃被打",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1660538974,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2318812,
-      "num": 2318812,
-      "word": "宝宝把镊子精准捅进电门",
-      "onboard_time": 1661831729,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2315415,
@@ -13523,6 +13523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 961074,
+      "num": 961074,
+      "word": "iPhone14Pro渐变紫",
+      "onboard_time": 1661834492,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 960384,
       "num": 960384,
       "word": "姜小果一句没提周寻句句是周寻",
@@ -16417,6 +16425,14 @@
       "onboard_time": 1659364246,
       "rank": 43,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 799842,
+      "num": 638928,
+      "word": "原来简历还可以这样写",
+      "onboard_time": 1661833952,
+      "rank": 13,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 799429,
@@ -22473,14 +22489,6 @@
       "onboard_time": 1660609413,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601323,
-      "num": 601323,
-      "word": "原来简历还可以这样写",
-      "onboard_time": 1661833952,
-      "rank": 13,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 600978,
@@ -42643,6 +42651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335353,
+      "num": 297697,
+      "word": "心动的信号5里的男嘉宾",
+      "onboard_time": 1661835510,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335343,
       "num": 314682,
       "word": "蔡徐坤校园版hugme",
@@ -45291,14 +45307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 313254,
-      "num": 313254,
-      "word": "iPhone14Pro渐变紫",
-      "onboard_time": 1661834492,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 313219,
       "num": 313219,
       "word": "黄明昊密逃4背带裤造型剧照",
@@ -45561,6 +45569,14 @@
       "onboard_time": 1659512752,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309845,
+      "num": 309845,
+      "word": "新人携手坐地铁参加婚礼",
+      "onboard_time": 1661832811,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309794,
@@ -49243,14 +49259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277310,
-      "num": 277310,
-      "word": "新人携手坐地铁参加婚礼",
-      "onboard_time": 1661832811,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277288,
       "num": 277288,
       "word": "张嘉文首次露脸直播",
@@ -49689,6 +49697,14 @@
       "onboard_time": 1659318867,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273902,
+      "num": 246201,
+      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+      "onboard_time": 1661834370,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 273781,
@@ -51891,6 +51907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256980,
+      "num": 256980,
+      "word": "承德高新区防疫公告",
+      "onboard_time": 1661834252,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256976,
       "num": 287298,
       "word": "新研究证明薛定谔错了",
@@ -53161,14 +53185,6 @@
       "onboard_time": 1661164473,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246201,
-      "num": 246201,
-      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
-      "onboard_time": 1661834370,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 246170,
@@ -56361,14 +56377,6 @@
       "onboard_time": 1661249010,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221035,
-      "num": 221035,
-      "word": "承德高新区防疫公告",
-      "onboard_time": 1661834252,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220892,
@@ -62723,6 +62731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155831,
+      "num": 155831,
+      "word": "女子酒驾肇事后淡定离开现场",
+      "onboard_time": 1661835329,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155650,
       "num": 155650,
       "word": "江疏影说越长大越要有阿Q精神",
@@ -64841,6 +64857,14 @@
       "onboard_time": 1661203931,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115014,
+      "num": 115014,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114939,

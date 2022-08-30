@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661835150464,
+  "endTime": 1661836152277,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2731927,
+      "num": 2731927,
+      "word": "宝宝把镊子精准捅进电门",
+      "onboard_time": 1661831729,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2593874,
       "num": 2593874,
       "word": "大连N95",
@@ -144,14 +152,6 @@
       "word": "蜜雪冰城茶包被曝喝出多条虫子",
       "onboard_time": 1661753369,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2318812,
-      "num": 2318812,
-      "word": "宝宝把镊子精准捅进电门",
-      "onboard_time": 1661831729,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 961074,
+      "num": 961074,
+      "word": "iPhone14Pro渐变紫",
+      "onboard_time": 1661834492,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 956425,
       "num": 583161,
       "word": "肖战刘诗诗秋冬大片",
@@ -753,6 +761,14 @@
       "onboard_time": 1661777735,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 799842,
+      "num": 638928,
+      "word": "原来简历还可以这样写",
+      "onboard_time": 1661833952,
+      "rank": 13,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 797917,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1661692472,
       "rank": 15,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 601323,
-      "num": 601323,
-      "word": "原来简历还可以这样写",
-      "onboard_time": 1661833952,
-      "rank": 13,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 595884,
@@ -1923,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335353,
+      "num": 297697,
+      "word": "心动的信号5里的男嘉宾",
+      "onboard_time": 1661835510,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
@@ -2011,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313254,
-      "num": 313254,
-      "word": "iPhone14Pro渐变紫",
-      "onboard_time": 1661834492,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 313046,
       "num": 207042,
       "word": "柳青瑶",
@@ -2031,6 +2039,14 @@
       "num": 311447,
       "word": "原来高铁还有静音车厢",
       "onboard_time": 1661773229,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309845,
+      "num": 309845,
+      "word": "新人携手坐地铁参加婚礼",
+      "onboard_time": 1661832811,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -2131,14 +2147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277310,
-      "num": 277310,
-      "word": "新人携手坐地铁参加婚礼",
-      "onboard_time": 1661832811,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277242,
       "num": 277242,
       "word": "西安核酸",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1661784458,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 273902,
+      "num": 246201,
+      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
+      "onboard_time": 1661834370,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 272831,
@@ -2379,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256980,
+      "num": 256980,
+      "word": "承德高新区防疫公告",
+      "onboard_time": 1661834252,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256121,
       "num": 237987,
       "word": "魏晨新剧为了一块砖拼命",
@@ -2424,14 +2448,6 @@
       "word": "冰雨火孕妇吸毒",
       "onboard_time": 1661684610,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246201,
-      "num": 246201,
-      "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
-      "onboard_time": 1661834370,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -2560,14 +2576,6 @@
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
       "onboard_time": 1661686769,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221035,
-      "num": 221035,
-      "word": "承德高新区防疫公告",
-      "onboard_time": 1661834252,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2939,6 +2947,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 155831,
+      "num": 155831,
+      "word": "女子酒驾肇事后淡定离开现场",
+      "onboard_time": 1661835329,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153506,
       "num": 145114,
       "word": "王子文吴永恩考拉抱",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1661790745,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115014,
+      "num": 115014,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110421,
