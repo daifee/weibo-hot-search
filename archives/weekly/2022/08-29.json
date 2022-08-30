@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661869284831,
+  "endTime": 1661870297132,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -19,15 +19,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6336264,
-      "num": 6336264,
-      "word": "HPV九价疫苗扩龄至9-45岁",
-      "onboard_time": 1661863110,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 9218124,
+      "num": 9218124,
+      "word": "辛巴发长文爆料刘畊宏夫妇卖假货",
+      "onboard_time": 1661865874,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 6118291,
+      "raw_hot": 7040418,
       "num": 752580,
       "word": "刘畊宏 哭了",
       "onboard_time": 1661866955,
@@ -35,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5378917,
-      "num": 5378917,
-      "word": "辛巴发长文爆料刘畊宏夫妇卖假货",
-      "onboard_time": 1661865874,
-      "rank": 0,
-      "category": "社会新闻,网红"
+      "raw_hot": 6336264,
+      "num": 6336264,
+      "word": "HPV九价疫苗扩龄至9-45岁",
+      "onboard_time": 1661863110,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4215926,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1923171,
-      "num": 1277955,
+      "num": 1621462,
       "word": "我国结婚年龄越来越迟",
       "onboard_time": 1661863469,
       "rank": 24,
@@ -377,6 +377,14 @@
       "onboard_time": 1661753369,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1800017,
+      "num": 1800017,
+      "word": "小鹿 淘汰",
+      "onboard_time": 1661867797,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 1798016,
@@ -593,14 +601,6 @@
       "onboard_time": 1661785180,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1313895,
-      "num": 1313895,
-      "word": "小鹿 淘汰",
-      "onboard_time": 1661867797,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 1300058,
@@ -904,6 +904,14 @@
       "word": "网传刘亦菲主演玫瑰的故事",
       "onboard_time": 1661848110,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 992545,
+      "num": 701835,
+      "word": "吴磊晒plog告别星汉灿烂",
+      "onboard_time": 1661869716,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -1275,6 +1283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 686896,
+      "num": 352774,
+      "word": "辛巴在抖音直播质问抖音",
+      "onboard_time": 1661869055,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 683554,
       "num": 683554,
       "word": "海清 隐入尘烟",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1661862630,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 675884,
+      "num": 675884,
+      "word": "警方回应男子趴地学狗叫咬伤人",
+      "onboard_time": 1661868275,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675855,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1661692472,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 603655,
+      "num": 603655,
+      "word": "女性多少岁打九价合适",
+      "onboard_time": 1661866295,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 601484,
@@ -1747,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516612,
+      "num": 516612,
+      "word": "离职一定要删的东西",
+      "onboard_time": 1661868755,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 516565,
       "num": 516565,
       "word": "成都倡导非必要不离蓉",
@@ -1995,14 +2035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 447113,
-      "num": 447113,
-      "word": "警方回应男子趴地学狗叫咬伤人",
-      "onboard_time": 1661868275,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446602,
       "num": 372784,
       "word": "张骏 淘汰",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1661830528,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 437944,
-      "num": 437944,
-      "word": "女性多少岁打九价合适",
-      "onboard_time": 1661866295,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 437594,
@@ -2124,7 +2148,7 @@
     },
     {
       "raw_hot": 418337,
-      "num": 213114,
+      "num": 230224,
       "word": "李昀锐长文告别袁慎",
       "onboard_time": 1661867974,
       "rank": 30,
@@ -2355,14 +2379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380019,
-      "num": 212034,
-      "word": "辛巴在抖音直播质问抖音",
-      "onboard_time": 1661869055,
-      "rank": 32,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 379379,
       "num": 379379,
       "word": "苍兰诀王鹤棣东方青苍特辑",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1661868876,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 362834,
+      "num": 297015,
+      "word": "脱口秀大会",
+      "onboard_time": 1661840727,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 360606,
@@ -2907,14 +2931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297015,
-      "num": 297015,
-      "word": "脱口秀大会",
-      "onboard_time": 1661840727,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295935,
       "num": 295935,
       "word": "河南对村镇银行40万至50万客户开始垫付",
@@ -2947,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293498,
+      "num": 139806,
+      "word": "江疏影欢乐颂4吻戏剧透",
+      "onboard_time": 1661870260,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289340,
       "num": 289340,
       "word": "饮料是痛风年轻化的原因之一",
@@ -2976,6 +3000,14 @@
       "word": "男子领养狗后勒索主人3000元",
       "onboard_time": 1661733450,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281070,
+      "num": 281070,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1661869716,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3019,6 +3051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276254,
+      "num": 276254,
+      "word": "业主几年没回家开门毛坯变精装",
+      "onboard_time": 1661857588,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275566,
       "num": 275566,
       "word": "苍兰诀虞书欣息芸相思桥哭戏花絮",
@@ -3049,14 +3089,6 @@
       "onboard_time": 1661784458,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 273548,
-      "num": 273548,
-      "word": "业主几年没回家开门毛坯变精装",
-      "onboard_time": 1661857588,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272831,
@@ -3137,6 +3169,14 @@
       "onboard_time": 1661740052,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268124,
+      "num": 268124,
+      "word": "为什么一定要好好告别",
+      "onboard_time": 1661866955,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 267092,
@@ -3387,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245040,
+      "num": 245040,
+      "word": "赵睿暗示留队",
+      "onboard_time": 1661868397,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244598,
       "num": 244598,
       "word": "秋天需要一条小猪毛毯",
@@ -3531,14 +3579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224835,
-      "num": 224835,
-      "word": "离职一定要删的东西",
-      "onboard_time": 1661868755,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224773,
       "num": 224773,
       "word": "BLACKPINK获VMA年度组合",
@@ -3569,6 +3609,14 @@
       "onboard_time": 1661856687,
       "rank": 42,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 221562,
+      "num": 221562,
+      "word": "石家庄新华区疫情防控",
+      "onboard_time": 1661869475,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221391,
@@ -3627,6 +3675,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 216317,
+      "num": 216317,
+      "word": "囤物资不要囤喜欢吃的",
+      "onboard_time": 1661869535,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215007,
       "num": 215007,
       "word": "KPL鲜奶毒奶颁奖礼",
@@ -3641,14 +3697,6 @@
       "onboard_time": 1661739452,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213717,
-      "num": 213717,
-      "word": "为什么一定要好好告别",
-      "onboard_time": 1661866955,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 210382,
@@ -3859,14 +3907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194438,
-      "num": 194438,
-      "word": "赵睿暗示留队",
-      "onboard_time": 1661868397,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194101,
       "num": 194101,
       "word": "在重庆有一种感动叫双向奔赴",
@@ -3928,6 +3968,14 @@
       "word": "重庆增11例本土确诊",
       "onboard_time": 1661823569,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184067,
+      "num": 184067,
+      "word": "去年25至29岁结婚人数最多",
+      "onboard_time": 1661869599,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4209,6 +4257,14 @@
       "onboard_time": 1661757447,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 141418,
+      "num": 141418,
+      "word": "九价疫苗该如何预约",
+      "onboard_time": 1661870199,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139944,
