@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661867444402,
+  "endTime": 1661867802662,
   "band_list": [
     {
       "raw_hot": 6336264,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5682964,
+      "raw_hot": 6118291,
       "num": 623253,
       "word": "刘畊宏 哭了",
       "onboard_time": 1661866955,
@@ -171,20 +171,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1923171,
+      "num": 1248891,
+      "word": "我国结婚年龄越来越迟",
+      "onboard_time": 1661863469,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1828113,
       "num": 1633651,
       "word": "张凌赫 桑延",
       "onboard_time": 1661840128,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1808487,
-      "num": 1152489,
-      "word": "我国结婚年龄越来越迟",
-      "onboard_time": 1661863469,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1791455,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1428784,
-      "num": 1428784,
+      "num": 1740491,
       "word": "欢乐颂4",
       "onboard_time": 1661863049,
       "rank": 14,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 738360,
+      "num": 738360,
+      "word": "思文 回归",
+      "onboard_time": 1661865996,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713850,
       "num": 713850,
       "word": "赵露思星汉灿烂收官vlog",
@@ -689,14 +697,6 @@
       "onboard_time": 1661832329,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 643771,
-      "num": 643771,
-      "word": "思文 回归",
-      "onboard_time": 1661865996,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 640733,
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429964,
+      "num": 108672,
+      "word": "小鹿 淘汰",
+      "onboard_time": 1661867797,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428811,
       "num": 428811,
       "word": "心动的信号5里的男嘉宾",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 423537,
-      "num": 295350,
+      "num": 316081,
       "word": "小兰花可爱图鉴",
       "onboard_time": 1661867015,
       "rank": 22,
@@ -1011,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400279,
+      "num": 197795,
+      "word": "导演评价王一博在冰雨火中的演技",
+      "onboard_time": 1661867432,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393168,
       "num": 377198,
       "word": "西安鑫龙门 拖欠农民工资",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1661850748,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 391898,
+      "num": 391898,
+      "word": "作协回应贾浅浅是否入会",
+      "onboard_time": 1661865392,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389572,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1661859270,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383732,
-      "num": 109935,
-      "word": "导演评价王一博在冰雨火中的演技",
-      "onboard_time": 1661867432,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 382632,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1661825189,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346644,
+      "num": 346644,
+      "word": "中俄将在日本海进行联合演习",
+      "onboard_time": 1661867132,
+      "rank": 34,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 346524,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1661838867,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314837,
-      "num": 314837,
-      "word": "作协回应贾浅浅是否入会",
-      "onboard_time": 1661865392,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309845,
@@ -1747,20 +1763,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214416,
+      "num": 214416,
+      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
+      "onboard_time": 1661862989,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 210104,
       "num": 210104,
       "word": "无畏一诺有点搞笑DNA在身上",
       "onboard_time": 1661837787,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206843,
-      "num": 206843,
-      "word": "iPhoneSE4外形尺寸与iPhoneXR相同",
-      "onboard_time": 1661862989,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 206485,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1661833414,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192586,
-      "num": 192586,
-      "word": "中俄将在日本海进行联合演习",
-      "onboard_time": 1661867132,
-      "rank": 34,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 191096,
@@ -2091,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139506,
+      "num": 139506,
+      "word": "女性多少岁打九价合适",
+      "onboard_time": 1661866295,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 136711,
       "num": 136711,
       "word": "霸王别姬优化",
@@ -2171,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110276,
+      "num": 110276,
+      "word": "为什么一定要好好告别",
+      "onboard_time": 1661866955,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109683,
       "num": 109683,
       "word": "我的敬酒嘴替",
@@ -2179,12 +2203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107446,
-      "num": 107446,
-      "word": "女性多少岁打九价合适",
-      "onboard_time": 1661866295,
-      "rank": 49,
-      "category": "社会新闻,财经"
+      "raw_hot": 108891,
+      "num": 2632691,
+      "word": "我国太阳探测卫星科学数据全球共享",
+      "onboard_time": 1661864073,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 106881,
@@ -2201,14 +2225,6 @@
       "onboard_time": 1661843912,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105381,
-      "num": 2632691,
-      "word": "我国太阳探测卫星科学数据全球共享",
-      "onboard_time": 1661864073,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 105066,
