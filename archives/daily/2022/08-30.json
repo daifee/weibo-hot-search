@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661844497813,
+  "endTime": 1661845321865,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1828113,
-      "num": 1616775,
+      "num": 1633651,
       "word": "张凌赫 桑延",
       "onboard_time": 1661840128,
       "rank": 3,
@@ -105,6 +105,14 @@
       "onboard_time": 1661827407,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1738208,
+      "num": 1738208,
+      "word": "灵超与网约车司机吵架",
+      "onboard_time": 1661845108,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1675895,
@@ -121,6 +129,14 @@
       "onboard_time": 1661830828,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1363280,
+      "num": 1363280,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 1360877,
@@ -147,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1289297,
+      "num": 1289297,
+      "word": "女子乘车未给婴儿买车票被拦",
+      "onboard_time": 1661838806,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285001,
       "num": 1285001,
       "word": "男子为女网友买衣服后报警要回399元",
@@ -168,14 +192,6 @@
       "word": "山东冷成山冻了",
       "onboard_time": 1661814439,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1278920,
-      "num": 1278920,
-      "word": "女子乘车未给婴儿买车票被拦",
-      "onboard_time": 1661838806,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -201,6 +217,22 @@
       "onboard_time": 1661810292,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163974,
+      "num": 1163974,
+      "word": "湖南大学教官",
+      "onboard_time": 1661842529,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1148846,
+      "num": 1148846,
+      "word": "湖南大学回应教官打骂学生",
+      "onboard_time": 1661842348,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1105705,
@@ -249,14 +281,6 @@
       "onboard_time": 1661832750,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 909661,
-      "num": 909661,
-      "word": "频繁的聊天会出现恋爱错觉吗",
-      "onboard_time": 1661839529,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 895642,
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795683,
-      "num": 795683,
-      "word": "湖南大学回应教官打骂学生",
-      "onboard_time": 1661842348,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 791031,
       "num": 791031,
       "word": "无糖饮料为何会比有糖饮料危害更大",
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722864,
-      "num": 722864,
-      "word": "湖南大学教官",
-      "onboard_time": 1661842529,
-      "rank": 8,
-      "category": "社会新闻,教育"
+      "raw_hot": 764576,
+      "num": 764576,
+      "word": "男子小区内咬伤两人被警方带走",
+      "onboard_time": 1661840971,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 711573,
@@ -400,14 +416,6 @@
       "word": "16岁少年上手术台发现少一块骨头",
       "onboard_time": 1661776288,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686761,
-      "num": 686761,
-      "word": "男子小区内咬伤两人被警方带走",
-      "onboard_time": 1661840971,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -467,6 +475,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 540467,
+      "num": 540467,
+      "word": "程璐说前六没来前妻来了",
+      "onboard_time": 1661843129,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538160,
       "num": 269329,
       "word": "网传星汉灿烂明日庆功宴",
@@ -515,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494586,
-      "num": 494586,
-      "word": "程璐说前六没来前妻来了",
-      "onboard_time": 1661843129,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 468035,
+      "num": 468035,
+      "word": "东方甄选三个月带货20亿",
+      "onboard_time": 1661840188,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 464517,
@@ -537,14 +553,6 @@
       "onboard_time": 1661817327,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 452461,
-      "num": 452461,
-      "word": "东方甄选三个月带货20亿",
-      "onboard_time": 1661840188,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 448241,
@@ -601,6 +609,14 @@
       "onboard_time": 1661771309,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 404821,
+      "num": 404821,
+      "word": "孟子义说杀了我给他俩助助兴",
+      "onboard_time": 1661841808,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 393168,
@@ -673,14 +689,6 @@
       "onboard_time": 1661814921,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349230,
-      "num": 349230,
-      "word": "孟子义说杀了我给他俩助助兴",
-      "onboard_time": 1661841808,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 348545,
@@ -955,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250887,
+      "num": 210119,
+      "word": "颜淡又拒绝应渊告白",
+      "onboard_time": 1661842948,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249699,
       "num": 249699,
       "word": "30岁未婚女生立遗嘱遗产给妈妈",
@@ -987,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232345,
-      "num": 210119,
-      "word": "颜淡又拒绝应渊告白",
-      "onboard_time": 1661842948,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230672,
       "num": 230672,
       "word": "湖北新增本土无症状32例",
@@ -1008,6 +1016,14 @@
       "word": "成都高校推迟开学时间",
       "onboard_time": 1661828848,
       "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 230027,
+      "num": 230027,
+      "word": "四川多所高校延期开学",
+      "onboard_time": 1661842830,
+      "rank": 29,
       "category": "教育,社会新闻"
     },
     {
@@ -1057,14 +1073,6 @@
       "onboard_time": 1661819129,
       "rank": 39,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 212102,
-      "num": 212102,
-      "word": "四川多所高校延期开学",
-      "onboard_time": 1661842830,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 210104,
@@ -1147,12 +1155,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188240,
+      "num": 188240,
+      "word": "美术老师5分钟在黑板上画一条龙",
+      "onboard_time": 1661844511,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 186818,
       "num": 186818,
       "word": "重庆增11例本土确诊",
       "onboard_time": 1661823569,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182831,
+      "num": 145072,
+      "word": "唐周永远20岁",
+      "onboard_time": 1661844689,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 182144,
@@ -1203,8 +1227,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165901,
-      "num": 165901,
+      "raw_hot": 167304,
+      "num": 167304,
       "word": "和边牧交流不一定要说人话",
       "onboard_time": 1661842770,
       "rank": 36,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1661784458,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 159248,
+      "num": 107081,
+      "word": "原来500年前修长城就有项目经理",
+      "onboard_time": 1661845290,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153495,
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133250,
+      "num": 133250,
+      "word": "大脑用6小时就会堆积毒素",
+      "onboard_time": 1661844810,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131393,
       "num": 131393,
       "word": "广电重点扶持10部网络动画片",
@@ -1369,6 +1409,22 @@
       "onboard_time": 1661784399,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108962,
+      "num": 108962,
+      "word": "新疆沙漠雨后出现一张狐狸脸",
+      "onboard_time": 1661845231,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107266,
+      "num": 107266,
+      "word": "第一次见这么可爱的泰迪",
+      "onboard_time": 1661844988,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 105920,
