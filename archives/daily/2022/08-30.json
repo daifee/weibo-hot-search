@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661826975910,
+  "endTime": 1661829369000,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4200387,
+      "num": 4200387,
+      "word": "王思聪不再担任万达集团董事",
+      "onboard_time": 1661826387,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2913318,
       "num": 260479,
       "word": "王悦伊",
@@ -33,6 +41,14 @@
       "onboard_time": 1661784220,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1756514,
+      "num": 570907,
+      "word": "王鹤棣评论导演伊峥一年前微博",
+      "onboard_time": 1661827407,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1675895,
@@ -51,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1315529,
-      "num": 1315529,
+      "raw_hot": 1341045,
+      "num": 1341045,
       "word": "星汉灿烂 庆功宴",
       "onboard_time": 1661785180,
       "rank": 3,
@@ -65,6 +81,14 @@
       "onboard_time": 1661785658,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1285001,
+      "num": 1285001,
+      "word": "男子为女网友买衣服后报警要回399元",
+      "onboard_time": 1661823869,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1279089,
@@ -123,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 865196,
-      "num": 865196,
-      "word": "男子为女网友买衣服后报警要回399元",
-      "onboard_time": 1661823869,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 841818,
       "num": 841818,
       "word": "深圳本地首次发现BF.15变异株",
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752964,
+      "num": 752964,
+      "word": "美国一男子无暴力举动被警察8枪打死",
+      "onboard_time": 1661827226,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711573,
       "num": 711573,
       "word": "殡葬店开在地铁口遭居民强烈抵制",
@@ -211,8 +235,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 567449,
-      "num": 567449,
+      "raw_hot": 590114,
+      "num": 590114,
       "word": "17岁男孩打破尘封35年的世界纪录",
       "onboard_time": 1661824049,
       "rank": 11,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432475,
+      "num": 432475,
+      "word": "14岁男孩带9岁弟弟教科书式自救逃生",
+      "onboard_time": 1661826987,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416137,
       "num": 416137,
       "word": "王祖蓝李亚男一家四口首封",
@@ -291,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386952,
+      "num": 386952,
+      "word": "97年帅小伙拉二胡也太高级了",
+      "onboard_time": 1661825788,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373978,
       "num": 373978,
       "word": "研究生扩招高校真的准备好了吗",
       "onboard_time": 1661778812,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 368970,
+      "num": 368970,
+      "word": "这猫当过兵吧",
+      "onboard_time": 1661825489,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 366648,
@@ -355,14 +403,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 339619,
-      "num": 339619,
-      "word": "王思聪不再担任万达集团董事",
-      "onboard_time": 1661826387,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 327202,
       "num": 327202,
       "word": "东方员外",
@@ -385,6 +425,14 @@
       "onboard_time": 1661770232,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 280398,
+      "num": 280398,
+      "word": "苍兰诀",
+      "onboard_time": 1661814921,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 274673,
@@ -467,19 +515,19 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 260614,
+      "num": 260614,
+      "word": "95后重新定义早C晚A",
+      "onboard_time": 1661828066,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257493,
       "num": 174245,
       "word": "应渊无赖式追妻",
       "onboard_time": 1661779837,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 251780,
-      "num": 251780,
-      "word": "苍兰诀",
-      "onboard_time": 1661814921,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -499,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241623,
-      "num": 241623,
-      "word": "这猫当过兵吧",
-      "onboard_time": 1661825489,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 243919,
+      "num": 243919,
+      "word": "美团骑手送餐拍照后又拿走",
+      "onboard_time": 1661827286,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237380,
@@ -531,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230320,
-      "num": 230320,
-      "word": "97年帅小伙拉二胡也太高级了",
-      "onboard_time": 1661825788,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 230635,
+      "num": 230635,
+      "word": "成都高校推迟开学时间",
+      "onboard_time": 1661828848,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 219577,
@@ -611,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185897,
+      "num": 185897,
+      "word": "老人坐公交不刷卡掌掴女司机",
+      "onboard_time": 1661828848,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177847,
       "num": 177847,
       "word": "中国男篮为何总是突然断电",
@@ -625,6 +681,14 @@
       "onboard_time": 1661822849,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171621,
+      "num": 171621,
+      "word": "8月29日新增本土确诊349例",
+      "onboard_time": 1661828431,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171017,
