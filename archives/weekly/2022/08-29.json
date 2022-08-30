@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661901876761,
+  "endTime": 1661902903186,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -9,6 +9,14 @@
       "onboard_time": 1661781634,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10934484,
+      "num": 10934484,
+      "word": "戈尔巴乔夫去世",
+      "onboard_time": 1661900660,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 9522377,
@@ -33,14 +41,6 @@
       "onboard_time": 1661866955,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6372139,
-      "num": 6372139,
-      "word": "戈尔巴乔夫去世",
-      "onboard_time": 1661900660,
-      "rank": 0,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 6336264,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823899,
+      "num": 823899,
+      "word": "陕西蓝田通报老人被群嘲事件",
+      "onboard_time": 1661872293,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816653,
       "num": 816653,
       "word": "杨紫在线回应沉香热梗",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1661865996,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 779214,
+      "num": 779214,
+      "word": "200斤爸爸抱6斤女儿直犯难",
+      "onboard_time": 1661889551,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777962,
@@ -1307,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725826,
-      "num": 725826,
-      "word": "陕西蓝田通报老人被群嘲事件",
-      "onboard_time": 1661872293,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 713850,
       "num": 713850,
       "word": "赵露思星汉灿烂收官vlog",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1661830888,
       "rank": 9,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 687265,
-      "num": 687265,
-      "word": "200斤爸爸抱6斤女儿直犯难",
-      "onboard_time": 1661889551,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683554,
@@ -1451,6 +1451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 658948,
+      "num": 658948,
+      "word": "女孩猛推扭扭车致2岁宝宝摔落",
+      "onboard_time": 1661895672,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658272,
       "num": 658272,
       "word": "中国无人机到中国领土飞一飞不值得大惊小怪",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1661869599,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654180,
+      "num": 470841,
+      "word": "普京对戈尔巴乔夫去世表示哀悼",
+      "onboard_time": 1661901564,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 650085,
@@ -1800,14 +1816,6 @@
       "word": "这些行为都是性骚扰",
       "onboard_time": 1661762007,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541964,
-      "num": 541964,
-      "word": "女孩猛推扭扭车致2岁宝宝摔落",
-      "onboard_time": 1661895672,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2355,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402786,
+      "num": 402786,
+      "word": "多抓鱼75元回收的衣服629元售卖",
+      "onboard_time": 1661886312,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402120,
       "num": 402120,
       "word": "应渊找颜淡求复合",
@@ -2483,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385322,
+      "num": 319726,
+      "word": "95生怼脸生图",
+      "onboard_time": 1661877865,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384799,
       "num": 384799,
       "word": "热带雨林被行拘15日",
@@ -2513,14 +2537,6 @@
       "onboard_time": 1661856330,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 380499,
-      "num": 240226,
-      "word": "95生怼脸生图",
-      "onboard_time": 1661877865,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 380375,
@@ -2899,11 +2915,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326385,
-      "num": 326385,
-      "word": "多抓鱼75元回收的衣服629元售卖",
-      "onboard_time": 1661886312,
-      "rank": 47,
+      "raw_hot": 326673,
+      "num": 326673,
+      "word": "男孩赶作业敲得比发电报还快",
+      "onboard_time": 1661894651,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3203,14 +3219,6 @@
       "category": "情感,游戏"
     },
     {
-      "raw_hot": 278866,
-      "num": 278866,
-      "word": "男孩赶作业敲得比发电报还快",
-      "onboard_time": 1661894651,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278653,
       "num": 278653,
       "word": "当你得罪了一只记仇的猫咪",
@@ -3451,6 +3459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262633,
+      "num": 262633,
+      "word": "主人因喝多忘记把狗带回家",
+      "onboard_time": 1661895190,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262592,
       "num": 262592,
       "word": "成都一奢侈品销售改行卖冰粉",
@@ -3587,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249438,
+      "num": 249438,
+      "word": "四川果农400块一车买水抢救橘树",
+      "onboard_time": 1661891170,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248749,
       "num": 179417,
       "word": "王一博四部新片想看数均破10万",
@@ -3697,14 +3721,6 @@
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234873,
-      "num": 234873,
-      "word": "主人因喝多忘记把狗带回家",
-      "onboard_time": 1661895190,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 231600,
@@ -3921,14 +3937,6 @@
       "onboard_time": 1661722631,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206623,
-      "num": 206623,
-      "word": "普京对戈尔巴乔夫去世表示哀悼",
-      "onboard_time": 1661901564,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 206485,
@@ -4155,14 +4163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189196,
-      "num": 189196,
-      "word": "四川果农400块一车买水抢救橘树",
-      "onboard_time": 1661891170,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189142,
       "num": 189142,
       "word": "白夜追凶开播5周年",
@@ -4265,6 +4265,22 @@
       "onboard_time": 1661850991,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 176252,
+      "num": 183715,
+      "word": "多抓鱼75元回收衣服翻8倍出售",
+      "onboard_time": 1661900963,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176161,
+      "num": 176161,
+      "word": "8月最后1天",
+      "onboard_time": 1661902467,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 174041,
@@ -4435,6 +4451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147853,
+      "num": 147853,
+      "word": "广州地铁",
+      "onboard_time": 1661902467,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146908,
       "num": 138649,
       "word": "轰6K巡航台岛常态化",
@@ -4491,6 +4515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138827,
+      "num": 138827,
+      "word": "无锡疫情防控",
+      "onboard_time": 1661883913,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138452,
       "num": 138452,
       "word": "赵雷新专辑",
@@ -4515,14 +4547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134814,
-      "num": 134814,
-      "word": "无锡疫情防控",
-      "onboard_time": 1661883913,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132241,
       "num": 61480,
       "word": "第十七届中国长春电影节",
@@ -4545,14 +4569,6 @@
       "onboard_time": 1661864073,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 126280,
-      "num": 126280,
-      "word": "多抓鱼75元回收衣服翻8倍出售",
-      "onboard_time": 1661900963,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125963,
@@ -4585,6 +4601,14 @@
       "onboard_time": 1661772632,
       "rank": 49,
       "category": "其它"
+    },
+    {
+      "raw_hot": 122457,
+      "num": 122457,
+      "word": "AI虚拟歌手入学上海音乐学院",
+      "onboard_time": 1661901323,
+      "rank": 47,
+      "category": "科技,教育"
     },
     {
       "raw_hot": 121984,
@@ -4755,6 +4779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74502,
+      "num": 74502,
+      "word": "郑钦文晋级美网第二轮",
+      "onboard_time": 1661901745,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73583,
       "num": 60543,
       "word": "张云龙这张吃不了亏的嘴",
@@ -4763,28 +4795,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 71510,
-      "num": 71510,
-      "word": "AI虚拟歌手入学上海音乐学院",
-      "onboard_time": 1661901323,
-      "rank": 47,
-      "category": "科技,教育"
-    },
-    {
       "raw_hot": 69622,
       "num": 69622,
       "word": "JDG锁定S12名额",
       "onboard_time": 1661688509,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 66604,
-      "num": 66604,
-      "word": "郑钦文晋级美网第二轮",
-      "onboard_time": 1661901745,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 64736,

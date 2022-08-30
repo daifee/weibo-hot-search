@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/01 00:28:10 ~ 2022/08/31 07:24:36
+本榜单时间：2022/08/01 00:28:10 ~ 2022/08/31 07:41:43
 </p>
 </blockquote>
 <p>
@@ -243,6 +243,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E5%8E%BB%E4%B8%96%23" target="weibo">
+戈尔巴乔夫去世（热度：10934484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E6%9E%84%E9%89%B4%E5%AE%9A%E6%88%9A%E8%96%87%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%81%87%E8%B4%A7%23" target="weibo">
 机构鉴定戚薇直播间卖假货（热度：10443173）
 </a>
@@ -383,12 +389,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%AE%A2%E6%9C%BA%E9%80%94%E7%BB%8F%E5%8F%B0%E6%B9%BE%E7%A9%BA%E5%9F%9F%E6%97%B6%E7%B4%A7%E6%80%A5%E8%BF%AB%E9%99%8D%23" target="weibo">
 韩国一客机途经台湾空域时紧急迫降（热度：6491539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E5%8E%BB%E4%B8%96%23" target="weibo">
-戈尔巴乔夫去世（热度：6372139）
 </a>
 </li>
 
