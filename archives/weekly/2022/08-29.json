@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661840077626,
+  "endTime": 1661841364868,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -115,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2855748,
+      "num": 2855748,
+      "word": "大连老人没戴N95被警方带下公交",
+      "onboard_time": 1661838328,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2815797,
       "num": 412409,
       "word": "韩国演员刘珠恩自杀",
       "onboard_time": 1661766993,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2810554,
+      "num": 2810554,
+      "word": "稻盛和夫去世",
+      "onboard_time": 1661839767,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2731927,
@@ -283,19 +299,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1616775,
+      "num": 1616775,
+      "word": "张凌赫 桑延",
+      "onboard_time": 1661840128,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1606816,
       "num": 1606816,
       "word": "警方讯问陈某志视频首次公开",
       "onboard_time": 1661749893,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1593325,
-      "num": 1593325,
-      "word": "大连老人没戴N95被警方带下公交",
-      "onboard_time": 1661838328,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -723,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 895642,
+      "num": 895642,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873031,
       "num": 873031,
       "word": "为什么咖啡喝多了心会突突跳",
@@ -745,14 +769,6 @@
       "onboard_time": 1661829510,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 839653,
-      "num": 839653,
-      "word": "丈夫作证帮妻子讨回给第三者的7万元",
-      "onboard_time": 1661835810,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 832528,
@@ -803,19 +819,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794695,
-      "num": 794695,
-      "word": "稻盛和夫去世",
-      "onboard_time": 1661839767,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 791031,
       "num": 791031,
       "word": "无糖饮料为何会比有糖饮料危害更大",
       "onboard_time": 1661813775,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784216,
+      "num": 784216,
+      "word": "女子乘车未给婴儿买车票被拦",
+      "onboard_time": 1661838806,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1281,14 @@
       "onboard_time": 1661686827,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553893,
+      "num": 553893,
+      "word": "深圳新增35例阳性病例",
+      "onboard_time": 1661839406,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545899,
@@ -1739,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380252,
-      "num": 380252,
-      "word": "女子乘车未给婴儿买车票被拦",
-      "onboard_time": 1661838806,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379360,
       "num": 379360,
       "word": "成都锦江区疫情防控",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1661745933,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377600,
+      "num": 377600,
+      "word": "特朗普呼吁立即重新进行大选",
+      "onboard_time": 1661840309,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 373108,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1661783497,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329664,
+      "num": 329664,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 327202,
@@ -2507,20 +2539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255983,
+      "num": 255983,
+      "word": "东方甄选三个月带货20亿",
+      "onboard_time": 1661840188,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255150,
       "num": 255150,
       "word": "东八区的先生们定档0831",
       "onboard_time": 1661741730,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253974,
-      "num": 253974,
-      "word": "深圳新增35例阳性病例",
-      "onboard_time": 1661839406,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252824,
@@ -2593,6 +2625,14 @@
       "onboard_time": 1661757328,
       "rank": 31,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 240931,
+      "num": 240931,
+      "word": "脱口秀大会",
+      "onboard_time": 1661840727,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 240181,
@@ -2681,6 +2721,14 @@
       "onboard_time": 1661686769,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222555,
+      "num": 222555,
+      "word": "月升沧海疑商夫妇大婚花絮",
+      "onboard_time": 1661840431,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 218855,
@@ -2899,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189142,
+      "num": 189142,
+      "word": "白夜追凶开播5周年",
+      "onboard_time": 1661840367,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188760,
       "num": 188760,
       "word": "今年冬天我们一个一个去吃",
@@ -2921,6 +2977,14 @@
       "onboard_time": 1661707218,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182144,
+      "num": 182144,
+      "word": "恋爱中你是先挂电话的那个人吗",
+      "onboard_time": 1661840849,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 181707,
@@ -3019,6 +3083,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 162791,
+      "num": 162791,
+      "word": "陕西一码通场所码增加采样时间",
+      "onboard_time": 1661840605,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160191,
       "num": 160191,
       "word": "微博上课了表情上线",
@@ -3059,6 +3131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152852,
+      "num": 152852,
+      "word": "男子小区内咬伤两人被警方带走",
+      "onboard_time": 1661840971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151865,
       "num": 151865,
       "word": "吴易昺创中国大陆男网历史",
@@ -3097,14 +3177,6 @@
       "onboard_time": 1661694512,
       "rank": 34,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 145038,
-      "num": 145038,
-      "word": "频繁的聊天会出现恋爱错觉吗",
-      "onboard_time": 1661839529,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 142868,

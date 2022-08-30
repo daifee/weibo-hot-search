@@ -1,6 +1,6 @@
 {
   "startTime": 1661790660604,
-  "endTime": 1661840077626,
+  "endTime": 1661841364868,
   "band_list": [
     {
       "raw_hot": 5336052,
@@ -33,6 +33,22 @@
       "onboard_time": 1661823569,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2855748,
+      "num": 2855748,
+      "word": "大连老人没戴N95被警方带下公交",
+      "onboard_time": 1661838328,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2810554,
+      "num": 2810554,
+      "word": "稻盛和夫去世",
+      "onboard_time": 1661839767,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2731927,
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1593325,
-      "num": 1593325,
-      "word": "大连老人没戴N95被警方带下公交",
-      "onboard_time": 1661838328,
+      "raw_hot": 1616775,
+      "num": 1616775,
+      "word": "张凌赫 桑延",
+      "onboard_time": 1661840128,
       "rank": 3,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 1572662,
@@ -211,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 895642,
+      "num": 895642,
+      "word": "丈夫作证帮妻子讨回给第三者的7万元",
+      "onboard_time": 1661835810,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842062,
       "num": 842062,
       "word": "iPhone14Pro或支持30W充电器",
@@ -224,14 +248,6 @@
       "word": "深圳本地首次发现BF.15变异株",
       "onboard_time": 1661779658,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839653,
-      "num": 839653,
-      "word": "丈夫作证帮妻子讨回给第三者的7万元",
-      "onboard_time": 1661835810,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -275,19 +291,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794695,
-      "num": 794695,
-      "word": "稻盛和夫去世",
-      "onboard_time": 1661839767,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 791031,
       "num": 791031,
       "word": "无糖饮料为何会比有糖饮料危害更大",
       "onboard_time": 1661813775,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784216,
+      "num": 784216,
+      "word": "女子乘车未给婴儿买车票被拦",
+      "onboard_time": 1661838806,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1661824049,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 553893,
+      "num": 553893,
+      "word": "深圳新增35例阳性病例",
+      "onboard_time": 1661839406,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538160,
@@ -523,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380252,
-      "num": 380252,
-      "word": "女子乘车未给婴儿买车票被拦",
-      "onboard_time": 1661838806,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 377600,
+      "num": 377600,
+      "word": "特朗普呼吁立即重新进行大选",
+      "onboard_time": 1661840309,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 373978,
@@ -609,6 +633,14 @@
       "onboard_time": 1661817449,
       "rank": 23,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 329664,
+      "num": 329664,
+      "word": "频繁的聊天会出现恋爱错觉吗",
+      "onboard_time": 1661839529,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 327202,
@@ -827,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253974,
-      "num": 253974,
-      "word": "深圳新增35例阳性病例",
-      "onboard_time": 1661839406,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 255983,
+      "num": 255983,
+      "word": "东方甄选三个月带货20亿",
+      "onboard_time": 1661840188,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 249699,
@@ -849,6 +881,14 @@
       "onboard_time": 1661829628,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240931,
+      "num": 240931,
+      "word": "脱口秀大会",
+      "onboard_time": 1661840727,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 237380,
@@ -881,6 +921,14 @@
       "onboard_time": 1661828848,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 222555,
+      "num": 222555,
+      "word": "月升沧海疑商夫妇大婚花絮",
+      "onboard_time": 1661840431,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 219577,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189142,
+      "num": 189142,
+      "word": "白夜追凶开播5周年",
+      "onboard_time": 1661840367,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188760,
       "num": 188760,
       "word": "今年冬天我们一个一个去吃",
@@ -977,6 +1033,14 @@
       "onboard_time": 1661823569,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182144,
+      "num": 182144,
+      "word": "恋爱中你是先挂电话的那个人吗",
+      "onboard_time": 1661840849,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 177847,
@@ -1019,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162791,
+      "num": 162791,
+      "word": "陕西一码通场所码增加采样时间",
+      "onboard_time": 1661840605,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159748,
       "num": 129021,
       "word": "小辉 大琳",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1661815822,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152852,
+      "num": 152852,
+      "word": "男子小区内咬伤两人被警方带走",
+      "onboard_time": 1661840971,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151865,
@@ -1057,14 +1137,6 @@
       "onboard_time": 1661837728,
       "rank": 42,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 145038,
-      "num": 145038,
-      "word": "频繁的聊天会出现恋爱错觉吗",
-      "onboard_time": 1661839529,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 142868,
@@ -1236,7 +1308,7 @@
     },
     {
       "raw_hot": 17496,
-      "num": 1866439,
+      "num": 1942645,
       "word": "英雄战士与英雄人民的双向奔赴",
       "onboard_time": 1661702785,
       "rank": 2,
