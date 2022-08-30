@@ -1,0 +1,410 @@
+{
+  "runTime": 1661826975910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4215926,
+        "num": 4215926,
+        "word": "江苏发现2例全球罕见黄金血型",
+        "onboard_time": 1661816545,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360877,
+        "num": 1360877,
+        "word": "王鹤棣 遇到东方青苍是我的救赎",
+        "onboard_time": 1661816966,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17496,
+        "num": 1330784,
+        "word": "英雄战士与英雄人民的双向奔赴",
+        "onboard_time": 1661702785,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315529,
+        "num": 1315529,
+        "word": "星汉灿烂 庆功宴",
+        "onboard_time": 1661785180,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1265190,
+        "num": 1265190,
+        "word": "四川增本土确诊167例无症状109例",
+        "onboard_time": 1661822191,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986426,
+        "num": 986426,
+        "word": "陕西回应卖20元芹菜被罚6万6",
+        "onboard_time": 1661823028,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869884,
+        "num": 869884,
+        "word": "我承认我昨天声音大了点",
+        "onboard_time": 1661781634,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 865196,
+        "num": 865196,
+        "word": "男子为女网友买衣服后报警要回399元",
+        "onboard_time": 1661823869,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791031,
+        "num": 791031,
+        "word": "无糖饮料为何会比有糖饮料危害更大",
+        "onboard_time": 1661813775,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787621,
+        "num": 787621,
+        "word": "山东冷成山冻了",
+        "onboard_time": 1661814439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570085,
+        "num": 570085,
+        "word": "殡葬店开在地铁口遭居民强烈抵制",
+        "onboard_time": 1661794936,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567449,
+        "num": 567449,
+        "word": "17岁男孩打破尘封35年的世界纪录",
+        "onboard_time": 1661824049,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 525575,
+        "num": 525575,
+        "word": "男子称玉米遭老人组团偷摘",
+        "onboard_time": 1661821892,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462792,
+        "num": 462792,
+        "word": "周杰伦纽约地铁",
+        "onboard_time": 1661817327,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88612,
+        "num": 399392,
+        "word": "用盲杖丈量大学需要多少步",
+        "onboard_time": 1661824889,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366648,
+        "num": 366648,
+        "word": "男子饭团引诱狗狗失败后将狗射杀",
+        "onboard_time": 1661819067,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359645,
+        "num": 359645,
+        "word": "网店月售鳄雀鳝2000余单",
+        "onboard_time": 1661797571,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355232,
+        "num": 355232,
+        "word": "心动的信号5开播",
+        "onboard_time": 1661825189,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349576,
+        "num": 349576,
+        "word": "苍兰诀首张海报和最后一张海报",
+        "onboard_time": 1661821415,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342313,
+        "num": 342313,
+        "word": "易中天",
+        "onboard_time": 1661824527,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 370409,
+        "num": 342312,
+        "word": "热带雨林",
+        "onboard_time": 1661784220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348545,
+        "num": 342295,
+        "word": "王俊凯天坑鹰猎开播4周年",
+        "onboard_time": 1661825189,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342259,
+        "num": 342259,
+        "word": "大连新增40例无症状",
+        "onboard_time": 1661820693,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339765,
+        "num": 339765,
+        "word": "伊拉克",
+        "onboard_time": 1661817449,
+        "rank": 23,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 339619,
+        "num": 339619,
+        "word": "王思聪不再担任万达集团董事",
+        "onboard_time": 1661826387,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 327202,
+        "num": 327202,
+        "word": "东方员外",
+        "onboard_time": 1661819612,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307475,
+        "num": 307475,
+        "word": "台湾是中国的一部分没有任何模糊空间",
+        "onboard_time": 1661788892,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 268734,
+        "num": 268734,
+        "word": "女子手脚五官变形竟是脑部长瘤",
+        "onboard_time": 1661807472,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264638,
+        "num": 264638,
+        "word": "月升沧海",
+        "onboard_time": 1661826627,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261057,
+        "num": 261057,
+        "word": "苏州百人桨板上冥想解压",
+        "onboard_time": 1661826328,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 2913318,
+        "num": 260479,
+        "word": "王悦伊",
+        "onboard_time": 1661823569,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251586,
+        "num": 251586,
+        "word": "分手后发现更爱了是冤种吗",
+        "onboard_time": 1661786616,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248876,
+        "num": 248876,
+        "word": "成都疫情防控",
+        "onboard_time": 1661820213,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248391,
+        "num": 248391,
+        "word": "武汉新增25例无症状感染者",
+        "onboard_time": 1661825910,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247577,
+        "num": 247577,
+        "word": "苍兰诀",
+        "onboard_time": 1661814921,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241623,
+        "num": 241623,
+        "word": "这猫当过兵吧",
+        "onboard_time": 1661825489,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236129,
+        "num": 236129,
+        "word": "玉骨遥",
+        "onboard_time": 1661817266,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230672,
+        "num": 230672,
+        "word": "湖北新增本土无症状32例",
+        "onboard_time": 1661824229,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230320,
+        "num": 230320,
+        "word": "97年帅小伙拉二胡也太高级了",
+        "onboard_time": 1661825788,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217764,
+        "num": 217764,
+        "word": "美国驻伊拉克大使馆附近遭火箭弹袭击",
+        "onboard_time": 1661819129,
+        "rank": 39,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 205697,
+        "num": 205697,
+        "word": "河北确诊病例2例新增无症状感染者33例",
+        "onboard_time": 1661820873,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193243,
+        "num": 193243,
+        "word": "卢浮宫 光与夜之恋",
+        "onboard_time": 1661820334,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186818,
+        "num": 186818,
+        "word": "重庆增11例本土确诊",
+        "onboard_time": 1661823569,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177847,
+        "num": 177847,
+        "word": "中国男篮为何总是突然断电",
+        "onboard_time": 1661818290,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173322,
+        "num": 173322,
+        "word": "突然不害怕幽灵了",
+        "onboard_time": 1661822849,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155884,
+        "num": 155884,
+        "word": "西外研究生宿舍",
+        "onboard_time": 1661787573,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152561,
+        "num": 152561,
+        "word": "美网",
+        "onboard_time": 1661815881,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141593,
+        "num": 141593,
+        "word": "武汉疫情防控",
+        "onboard_time": 1661823390,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134830,
+        "num": 134830,
+        "word": "刘珠恩遗书",
+        "onboard_time": 1661817146,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130519,
+        "num": 130519,
+        "word": "永远不要惯着插队的人",
+        "onboard_time": 1661826207,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#给网络谣言打标签#"
+    }
+  }
+}
