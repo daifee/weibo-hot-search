@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661894403368,
+  "endTime": 1661895373484,
   "band_list": [
     {
       "raw_hot": 2429638,
@@ -371,6 +371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 88823,
+      "num": 54324,
+      "word": "200斤爸爸抱6斤女儿直犯难",
+      "onboard_time": 1661889551,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86473,
       "num": 86473,
       "word": "石家庄疫情防控",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57151,
-      "num": 49231,
-      "word": "200斤爸爸抱6斤女儿直犯难",
-      "onboard_time": 1661889551,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50756,
       "num": 50756,
       "word": "iPhoneSE将取消Home键",
@@ -451,8 +451,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 34087,
-      "num": 34087,
+      "raw_hot": 41930,
+      "num": 41930,
       "word": "四川果农400块一车买水抢救橘树",
       "onboard_time": 1661891170,
       "rank": 47,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14382,
+      "num": 14382,
+      "word": "水下憋气睁眼跳舞一分钟是啥感受",
+      "onboard_time": 1661890091,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14249,
       "num": 13108,
       "word": "星汉灿烂",
@@ -499,20 +507,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11625,
-      "num": 11625,
-      "word": "水下憋气睁眼跳舞一分钟是啥感受",
-      "onboard_time": 1661890091,
-      "rank": 47,
+      "raw_hot": 11576,
+      "num": 11576,
+      "word": "男孩赶作业敲得比发电报还快",
+      "onboard_time": 1661894651,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10979,
-      "num": 10979,
+      "raw_hot": 11331,
+      "num": 11331,
       "word": "稻盛和夫的哪本书最值得阅读",
       "onboard_time": 1661892251,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10398,
+      "num": 10398,
+      "word": "主人因喝多忘记把狗带回家",
+      "onboard_time": 1661895190,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 9449,
