@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661856038220,
+  "endTime": 1661858386818,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -137,6 +137,14 @@
       "onboard_time": 1661766993,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2740378,
+      "num": 2740378,
+      "word": "感觉大四的学费交得好亏",
+      "onboard_time": 1661853448,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 2731927,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259851,
+      "num": 1259851,
+      "word": "二十大召开时间",
+      "onboard_time": 1661857350,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1259404,
       "num": 1259404,
       "word": "为什么不建议低谷期谈恋爱",
@@ -587,6 +603,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1228392,
+      "num": 1228392,
+      "word": "iPhoneSE将取消Home键",
+      "onboard_time": 1661853328,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1221839,
       "num": 1221839,
       "word": "督查组到来前江苏一企业被通知关门",
@@ -601,6 +625,14 @@
       "onboard_time": 1661778812,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1199733,
+      "num": 1199733,
+      "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
+      "onboard_time": 1661853688,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1175436,
@@ -667,14 +699,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1097080,
-      "num": 1097080,
-      "word": "感觉大四的学费交得好亏",
-      "onboard_time": 1661853448,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1091855,
       "num": 1091855,
       "word": "女子腿脚没劲原是老年综合征",
@@ -697,14 +721,6 @@
       "onboard_time": 1661754567,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1052267,
-      "num": 1052267,
-      "word": "iPhoneSE将取消Home键",
-      "onboard_time": 1661853328,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 1025937,
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886644,
+      "num": 848576,
+      "word": "王鹤棣回应被评哑巴帅哥",
+      "onboard_time": 1661854527,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 877227,
       "num": 364421,
       "word": "吴磊出发星汉灿烂庆功宴",
@@ -883,20 +907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872129,
+      "num": 872129,
+      "word": "虞书欣张彬彬小森林对视氛围花絮",
+      "onboard_time": 1661854470,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 871686,
       "num": 871686,
       "word": "这学一定得开吗",
       "onboard_time": 1661783313,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 867047,
-      "num": 661989,
-      "word": "王鹤棣回应被评哑巴帅哥",
-      "onboard_time": 1661854527,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 842062,
@@ -1003,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757064,
+      "num": 415690,
+      "word": "原来宋亚轩早就玩过一枚梗",
+      "onboard_time": 1661858131,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755247,
       "num": 755247,
       "word": "成都疫情处于快速上升阶段",
@@ -1083,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702477,
+      "num": 702477,
+      "word": "教育部王登峰被查",
+      "onboard_time": 1661856687,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700719,
       "num": 493782,
       "word": "分手后发现更爱了是冤种吗",
@@ -1145,14 +1185,6 @@
       "onboard_time": 1661752889,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 668134,
-      "num": 668134,
-      "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
-      "onboard_time": 1661853688,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 663992,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1661772510,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622726,
-      "num": 622726,
-      "word": "虞书欣张彬彬小森林对视氛围花絮",
-      "onboard_time": 1661854470,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 618952,
@@ -1691,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 456703,
+      "num": 456703,
+      "word": "女子求职被HR骚扰说要摸腿",
+      "onboard_time": 1661854287,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456627,
       "num": 456627,
       "word": "广电重点扶持10部网络动画片",
@@ -1827,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419905,
+      "num": 419905,
+      "word": "LPL夏决媒体发布会",
+      "onboard_time": 1661857287,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 419403,
       "num": 419403,
       "word": "英雄联盟",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1661850090,
       "rank": 27,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 415918,
+      "num": 415918,
+      "word": "北京双彩虹",
+      "onboard_time": 1661856630,
+      "rank": 19,
+      "category": "自然"
     },
     {
       "raw_hot": 415853,
@@ -1963,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389572,
+      "num": 389572,
+      "word": "中国市场三成iPhone用户或升级",
+      "onboard_time": 1661855247,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 388877,
       "num": 388877,
       "word": "四川增本土确诊161例无症状87例",
@@ -2016,6 +2072,14 @@
       "word": "前任回头意味着什么",
       "onboard_time": 1661838806,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382219,
+      "num": 382219,
+      "word": "王一博哭戏有多投入",
+      "onboard_time": 1661856330,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -2307,6 +2371,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 338891,
+      "num": 270370,
+      "word": "徐梦洁谢彬彬内地版恶作剧之吻",
+      "onboard_time": 1661858068,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337311,
       "num": 282883,
       "word": "唐周亲眼看着自己变透明",
@@ -2377,6 +2449,14 @@
       "onboard_time": 1661777132,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324672,
+      "num": 267925,
+      "word": "脱口秀大会第五季今晚开播",
+      "onboard_time": 1661858189,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 323090,
@@ -2633,6 +2713,14 @@
       "onboard_time": 1661847090,
       "rank": 26,
       "category": "情感,游戏"
+    },
+    {
+      "raw_hot": 278653,
+      "num": 278653,
+      "word": "当你得罪了一只记仇的猫咪",
+      "onboard_time": 1661855850,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 277242,
@@ -2915,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256539,
+      "num": 204400,
+      "word": "沉香重华成毅一把抱杨紫入怀",
+      "onboard_time": 1661855430,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256121,
       "num": 237987,
       "word": "魏晨新剧为了一块砖拼命",
@@ -2937,14 +3033,6 @@
       "onboard_time": 1661844511,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 254521,
-      "num": 254521,
-      "word": "女子求职被HR骚扰说要摸腿",
-      "onboard_time": 1661854287,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253166,
@@ -3035,12 +3123,12 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 240590,
-      "num": 175736,
-      "word": "沉香重华成毅一把抱杨紫入怀",
-      "onboard_time": 1661855430,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 241176,
+      "num": 241176,
+      "word": "深圳新增17例阳性病例",
+      "onboard_time": 1661857708,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240181,
@@ -3267,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205432,
+      "num": 205432,
+      "word": "别随便给猫咪剃毛",
+      "onboard_time": 1661857109,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205217,
       "num": 205217,
       "word": "丁彦雨航正式加盟上海男篮",
@@ -3289,6 +3385,14 @@
       "onboard_time": 1661686286,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202495,
+      "num": 202495,
+      "word": "马斯克终止购买推特",
+      "onboard_time": 1661856687,
+      "rank": 42,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 202393,
@@ -3627,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157340,
+      "num": 157340,
+      "word": "业主几年没回家开门毛坯变精装",
+      "onboard_time": 1661857588,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156965,
       "num": 146696,
       "word": "秦霄贤画桃心告白高圆圆",
@@ -3739,6 +3851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137952,
+      "num": 137952,
+      "word": "妻子车祸丈夫赶路悲痛到四肢抽搐",
+      "onboard_time": 1661858309,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135408,
       "num": 1787700,
       "word": "守住保障国家粮食安全底线",
@@ -3769,14 +3889,6 @@
       "onboard_time": 1661826207,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 127487,
-      "num": 127487,
-      "word": "中国市场三成iPhone用户或升级",
-      "onboard_time": 1661855247,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 125963,
@@ -3817,14 +3929,6 @@
       "onboard_time": 1661681245,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118560,
-      "num": 118560,
-      "word": "当你得罪了一只记仇的猫咪",
-      "onboard_time": 1661855850,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118037,
