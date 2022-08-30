@@ -1,0 +1,410 @@
+{
+  "runTime": 1661852347246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105258,
+        "num": 2105258,
+        "word": "频繁的聊天会出现恋爱错觉吗",
+        "onboard_time": 1661839529,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1707651,
+        "num": 1707651,
+        "word": "海底捞猪肚鸡汤底系粉料冲泡",
+        "onboard_time": 1661846190,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94814,
+        "num": 1503038,
+        "word": "守住保障国家粮食安全底线",
+        "onboard_time": 1661850689,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1415872,
+        "num": 1415872,
+        "word": "中森明菜宣布复出",
+        "onboard_time": 1661846250,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1351476,
+        "num": 1351476,
+        "word": "稻盛和夫去世",
+        "onboard_time": 1661839767,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965320,
+        "num": 965320,
+        "word": "大脑用6小时就会堆积毒素",
+        "onboard_time": 1661844810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839296,
+        "num": 839296,
+        "word": "灵超与网约车司机吵架",
+        "onboard_time": 1661845108,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794143,
+        "num": 794143,
+        "word": "网传刘亦菲主演玫瑰的故事",
+        "onboard_time": 1661848110,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668779,
+        "num": 668779,
+        "word": "iPhone14Pro渐变紫",
+        "onboard_time": 1661834492,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 565829,
+        "num": 565829,
+        "word": "新疆沙漠雨后出现一张狐狸脸",
+        "onboard_time": 1661845231,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704447,
+        "num": 559832,
+        "word": "赵露思星汉灿烂收官vlog",
+        "onboard_time": 1661849130,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550919,
+        "num": 550919,
+        "word": "张凌赫 桑延",
+        "onboard_time": 1661840128,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526778,
+        "num": 526778,
+        "word": "女子乘车未给婴儿买车票被拦",
+        "onboard_time": 1661838806,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471484,
+        "num": 471484,
+        "word": "被外婆第一次平板作画惊艳到了",
+        "onboard_time": 1661849251,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455494,
+        "num": 455494,
+        "word": "川渝地区电力供应恢复正常",
+        "onboard_time": 1661848710,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416492,
+        "num": 416492,
+        "word": "解放军在黄河上架设254米浮桥",
+        "onboard_time": 1661850090,
+        "rank": 15,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 392841,
+        "num": 392841,
+        "word": "网友笑话保剑锋没吃上席",
+        "onboard_time": 1661850748,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347675,
+        "num": 347675,
+        "word": "男子小区内咬伤两人被警方带走",
+        "onboard_time": 1661840971,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308701,
+        "num": 308701,
+        "word": "石家庄检出11例初筛阳性",
+        "onboard_time": 1661846132,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308641,
+        "num": 308641,
+        "word": "腾讯申请微信输入法商标",
+        "onboard_time": 1661850330,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 346524,
+        "num": 306049,
+        "word": "颜淡重回天界",
+        "onboard_time": 1661851171,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316380,
+        "num": 304745,
+        "word": "与凤行群像定妆照",
+        "onboard_time": 1661849969,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302882,
+        "num": 302882,
+        "word": "星汉灿烂",
+        "onboard_time": 1661849910,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295929,
+        "num": 295929,
+        "word": "双胞胎早晨嬉笑唤醒沉睡中的妈妈",
+        "onboard_time": 1661847990,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271297,
+        "num": 271297,
+        "word": "宝宝把镊子精准捅进电门",
+        "onboard_time": 1661831729,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261600,
+        "num": 261600,
+        "word": "特朗普呼吁立即重新进行大选",
+        "onboard_time": 1661840309,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256612,
+        "num": 256612,
+        "word": "地铁跑酷 崩了",
+        "onboard_time": 1661851771,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246364,
+        "num": 246364,
+        "word": "iPhone14Pro超广角相机或升级到1.4微米",
+        "onboard_time": 1661846250,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206231,
+        "num": 206231,
+        "word": "深圳新增35例阳性病例",
+        "onboard_time": 1661839406,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202480,
+        "num": 202480,
+        "word": "官方回应老人索要土地承包费被群嘲",
+        "onboard_time": 1661851171,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300379,
+        "num": 202352,
+        "word": "吴磊出发星汉灿烂庆功宴",
+        "onboard_time": 1661842348,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453706,
+        "num": 202126,
+        "word": "湖南大学回应教官打骂学生",
+        "onboard_time": 1661842348,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265847,
+        "num": 201788,
+        "word": "程璐说前六没来前妻来了",
+        "onboard_time": 1661843129,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259180,
+        "num": 201676,
+        "word": "苍兰诀王鹤棣东方青苍特辑",
+        "onboard_time": 1661848533,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201493,
+        "num": 201493,
+        "word": "孟子义说杀了我给他俩助助兴",
+        "onboard_time": 1661841808,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200195,
+        "num": 200195,
+        "word": "双胞胎兄弟同考639分入同校",
+        "onboard_time": 1661847750,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199162,
+        "num": 199162,
+        "word": "中级会计",
+        "onboard_time": 1661848952,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179287,
+        "num": 179287,
+        "word": "原来500年前修长城就有项目经理",
+        "onboard_time": 1661845290,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176484,
+        "num": 176484,
+        "word": "阿里云启动全球最大智算中心",
+        "onboard_time": 1661850991,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175458,
+        "num": 175458,
+        "word": "这是在选美国队长吗",
+        "onboard_time": 1661850929,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199829,
+        "num": 171601,
+        "word": "王悦伊",
+        "onboard_time": 1661823569,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167092,
+        "num": 167092,
+        "word": "KPL鲜奶毒奶颁奖礼",
+        "onboard_time": 1661847931,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 165066,
+        "word": "必须通过独处来恢复精力",
+        "onboard_time": 1661851290,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162699,
+        "num": 162699,
+        "word": "什么是游戏式友情",
+        "onboard_time": 1661847090,
+        "rank": 43,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 149787,
+        "num": 149787,
+        "word": "第一次见这么可爱的泰迪",
+        "onboard_time": 1661844988,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143946,
+        "num": 143946,
+        "word": "美术老师5分钟在黑板上画一条龙",
+        "onboard_time": 1661844511,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 139998,
+        "num": 139998,
+        "word": "东方甄选三个月带货20亿",
+        "onboard_time": 1661840188,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138358,
+        "num": 138358,
+        "word": "原来简历还可以这样写",
+        "onboard_time": 1661833952,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 137183,
+        "num": 137183,
+        "word": "跳水救人女生因病去世又捐角膜",
+        "onboard_time": 1661852247,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135289,
+        "num": 135289,
+        "word": "王一博王劲松双王组合",
+        "onboard_time": 1661841630,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#给网络谣言打标签#"
+    }
+  }
+}
