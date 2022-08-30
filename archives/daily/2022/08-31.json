@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661891948659,
+  "endTime": 1661894403368,
   "band_list": [
     {
       "raw_hot": 2429638,
@@ -435,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57151,
+      "num": 49231,
+      "word": "200斤爸爸抱6斤女儿直犯难",
+      "onboard_time": 1661889551,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50756,
       "num": 50756,
       "word": "iPhoneSE将取消Home键",
       "onboard_time": 1661853328,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 34087,
+      "word": "四川果农400块一车买水抢救橘树",
+      "onboard_time": 1661891170,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33321,
@@ -467,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17120,
-      "num": 17120,
-      "word": "200斤爸爸抱6斤女儿直犯难",
-      "onboard_time": 1661889551,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14761,
       "num": 14761,
       "word": "为什么30岁以后容易长胖",
@@ -491,19 +499,35 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10106,
-      "num": 10106,
+      "raw_hot": 11625,
+      "num": 11625,
       "word": "水下憋气睁眼跳舞一分钟是啥感受",
       "onboard_time": 1661890091,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9647,
-      "num": 9647,
-      "word": "四川果农400块一车买水抢救橘树",
-      "onboard_time": 1661891170,
-      "rank": 47,
+      "raw_hot": 10979,
+      "num": 10979,
+      "word": "稻盛和夫的哪本书最值得阅读",
+      "onboard_time": 1661892251,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9449,
+      "num": 9449,
+      "word": "失落的龙约11月30日停运",
+      "onboard_time": 1661892791,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 8861,
+      "num": 8861,
+      "word": "如何评价稻盛和夫的一生",
+      "onboard_time": 1661893509,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
