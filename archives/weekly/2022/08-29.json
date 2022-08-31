@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661988169901,
+  "endTime": 1661989257198,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -675,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1495104,
+      "num": 1495104,
+      "word": "刘畊宏带货假燕窝公司已被吊销",
+      "onboard_time": 1661970974,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1487544,
       "num": 1487544,
       "word": "女儿延迟开学偷偷回家妈妈秒变脸",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1661860169,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1214675,
-      "num": 1214675,
-      "word": "刘畊宏带货假燕窝公司已被吊销",
-      "onboard_time": 1661970974,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1211178,
@@ -1955,6 +1955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 675640,
+      "num": 675640,
+      "word": "亲爹报警男孩吃瓜吃到自己家",
+      "onboard_time": 1661973792,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675466,
       "num": 675466,
       "word": "郭晓婷剧抛脸",
@@ -2424,14 +2432,6 @@
       "word": "唐山打人案被害人回应网络传言",
       "onboard_time": 1661749477,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558113,
-      "num": 558113,
-      "word": "亲爹报警男孩吃瓜吃到自己家",
-      "onboard_time": 1661973792,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2931,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453597,
+      "num": 453597,
+      "word": "九月",
+      "onboard_time": 1661987600,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453198,
       "num": 453198,
       "word": "颜淡应渊重逢",
@@ -3049,6 +3057,14 @@
       "onboard_time": 1661933307,
       "rank": 27,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 439693,
+      "num": 439693,
+      "word": "宋轶晒于曼丽背影照问你好吗",
+      "onboard_time": 1661982912,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 437594,
@@ -3264,14 +3280,6 @@
       "word": "应渊找颜淡求复合",
       "onboard_time": 1661766634,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 401004,
-      "num": 355084,
-      "word": "宋轶晒于曼丽背影照问你好吗",
-      "onboard_time": 1661982912,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -4057,14 +4065,6 @@
       "onboard_time": 1661921491,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323701,
-      "num": 323701,
-      "word": "九月",
-      "onboard_time": 1661987600,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323090,
@@ -5115,6 +5115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235658,
+      "num": 235658,
+      "word": "日本医疗机构称新冠疫情已达灾害级别",
+      "onboard_time": 1661988382,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233214,
       "num": 233214,
       "word": "开学",
@@ -5875,6 +5883,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179072,
+      "num": 179072,
+      "word": "湖南女子学院迎来首届男生",
+      "onboard_time": 1661977091,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178783,
+      "num": 178783,
+      "word": "深圳疫情防控",
+      "onboard_time": 1661988682,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177984,
       "num": 177984,
       "word": "纪检机关将彻查唐山打人案保护伞",
@@ -6291,20 +6315,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 141500,
+      "num": 141500,
+      "word": "王曦雨首进大满贯32强",
+      "onboard_time": 1661988863,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140405,
       "num": 140405,
       "word": "趁水上乐园起浪拽走金项链",
       "onboard_time": 1661913208,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140193,
-      "num": 140193,
-      "word": "湖南女子学院迎来首届男生",
-      "onboard_time": 1661977091,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 139944,
@@ -6329,6 +6353,14 @@
       "onboard_time": 1661728640,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137660,
+      "num": 137660,
+      "word": "二十不惑2皓史成双上线",
+      "onboard_time": 1661986457,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 136627,
@@ -6369,6 +6401,14 @@
       "onboard_time": 1661921371,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 132613,
+      "num": 132613,
+      "word": "中超就河南球迷侮辱马宁批评赛区",
+      "onboard_time": 1661980390,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132241,
@@ -6417,6 +6457,14 @@
       "onboard_time": 1661864073,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 127136,
+      "num": 127136,
+      "word": "大熊猫宝宝突然汪了一声",
+      "onboard_time": 1661964501,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125963,
@@ -6491,14 +6539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114087,
-      "num": 114087,
-      "word": "中超就河南球迷侮辱马宁批评赛区",
-      "onboard_time": 1661980390,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110813,
       "num": 110813,
       "word": "滕哈格确认C罗留队",
@@ -6513,6 +6553,14 @@
       "onboard_time": 1661691331,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108288,
+      "num": 108288,
+      "word": "曼城6比0诺丁汉森林",
+      "onboard_time": 1661987959,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 106881,
@@ -6571,14 +6619,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 101670,
-      "num": 101670,
-      "word": "二十不惑2皓史成双上线",
-      "onboard_time": 1661986457,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 100909,
       "num": 100909,
       "word": "班主任给全班小学生发开学礼包",
@@ -6635,22 +6675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93471,
-      "num": 93471,
-      "word": "大熊猫宝宝突然汪了一声",
-      "onboard_time": 1661964501,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91184,
-      "num": 91184,
-      "word": "曼城6比0诺丁汉森林",
-      "onboard_time": 1661987959,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89526,
       "num": 87376,
       "word": "如何评价朱一龙演技",
@@ -6699,6 +6723,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83873,
+      "num": 83873,
+      "word": "离深须持48小时内2次核酸阴性证明",
+      "onboard_time": 1661977930,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81253,
+      "num": 81253,
+      "word": "林俊杰翻唱那女孩对我说",
+      "onboard_time": 1661987900,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 81174,
       "num": 81174,
       "word": "这是什么百万转场",
@@ -6721,14 +6761,6 @@
       "onboard_time": 1661788232,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78672,
-      "num": 78672,
-      "word": "林俊杰翻唱那女孩对我说",
-      "onboard_time": 1661987900,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 74619,
@@ -6769,14 +6801,6 @@
       "onboard_time": 1661880018,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63814,
-      "num": 63814,
-      "word": "离深须持48小时内2次核酸阴性证明",
-      "onboard_time": 1661977930,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63757,

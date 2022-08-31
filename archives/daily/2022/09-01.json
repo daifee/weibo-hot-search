@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1661988169901,
+  "endTime": 1661989257198,
   "band_list": [
     {
       "raw_hot": 1837434,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1495104,
+      "num": 1495104,
+      "word": "刘畊宏带货假燕窝公司已被吊销",
+      "onboard_time": 1661970974,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1436183,
       "num": 1436183,
       "word": "女子剪发被4部手机对着直播",
       "onboard_time": 1661958932,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1214675,
-      "num": 1214675,
-      "word": "刘畊宏带货假燕窝公司已被吊销",
-      "onboard_time": 1661970974,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 872837,
@@ -67,19 +67,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675640,
+      "num": 675640,
+      "word": "亲爹报警男孩吃瓜吃到自己家",
+      "onboard_time": 1661973792,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558976,
       "num": 558976,
       "word": "10岁男孩开灯睡觉骨龄发育慢4年",
       "onboard_time": 1661952630,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558113,
-      "num": 558113,
-      "word": "亲爹报警男孩吃瓜吃到自己家",
-      "onboard_time": 1661973792,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -115,8 +115,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401004,
-      "num": 355084,
+      "raw_hot": 453597,
+      "num": 453597,
+      "word": "九月",
+      "onboard_time": 1661987600,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439693,
+      "num": 439693,
       "word": "宋轶晒于曼丽背影照问你好吗",
       "onboard_time": 1661982912,
       "rank": 15,
@@ -155,14 +163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 323701,
-      "num": 323701,
-      "word": "九月",
-      "onboard_time": 1661987600,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319482,
       "num": 319482,
       "word": "超市售卖鳄雀鳝被责令现场扑杀",
@@ -185,6 +185,14 @@
       "onboard_time": 1661965578,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282487,
+      "num": 282487,
+      "word": "北京43岁女子冻龄般颜值",
+      "onboard_time": 1661948309,
+      "rank": 38,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 280645,
@@ -217,6 +225,14 @@
       "onboard_time": 1661948908,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235658,
+      "num": 235658,
+      "word": "日本医疗机构称新冠疫情已达灾害级别",
+      "onboard_time": 1661988382,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231311,
@@ -259,14 +275,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 208422,
-      "num": 208422,
-      "word": "北京43岁女子冻龄般颜值",
-      "onboard_time": 1661948309,
-      "rank": 38,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 205065,
       "num": 205065,
       "word": "恋爱前后的区别可以有多大",
@@ -305,6 +313,30 @@
       "onboard_time": 1661956652,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179072,
+      "num": 179072,
+      "word": "湖南女子学院迎来首届男生",
+      "onboard_time": 1661977091,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178783,
+      "num": 178783,
+      "word": "深圳疫情防控",
+      "onboard_time": 1661988682,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166944,
+      "num": 1446091,
+      "word": "这批新规9月起施行",
+      "onboard_time": 1661949867,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 163471,
@@ -355,20 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140193,
-      "num": 140193,
-      "word": "湖南女子学院迎来首届男生",
-      "onboard_time": 1661977091,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 141500,
+      "num": 141500,
+      "word": "王曦雨首进大满贯32强",
+      "onboard_time": 1661988863,
+      "rank": 32,
+      "category": "体育"
     },
     {
-      "raw_hot": 138536,
-      "num": 1446091,
-      "word": "这批新规9月起施行",
-      "onboard_time": 1661949867,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 137660,
+      "num": 137660,
+      "word": "二十不惑2皓史成双上线",
+      "onboard_time": 1661986457,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 136227,
@@ -377,6 +409,14 @@
       "onboard_time": 1661952867,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132613,
+      "num": 132613,
+      "word": "中超就河南球迷侮辱马宁批评赛区",
+      "onboard_time": 1661980390,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130316,
@@ -395,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127136,
+      "num": 127136,
+      "word": "大熊猫宝宝突然汪了一声",
+      "onboard_time": 1661964501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115956,
       "num": 115956,
       "word": "摆渡人",
       "onboard_time": 1661943329,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114087,
-      "num": 114087,
-      "word": "中超就河南球迷侮辱马宁批评赛区",
-      "onboard_time": 1661980390,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113229,
@@ -427,12 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101670,
-      "num": 101670,
-      "word": "二十不惑2皓史成双上线",
-      "onboard_time": 1661986457,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 108288,
+      "num": 108288,
+      "word": "曼城6比0诺丁汉森林",
+      "onboard_time": 1661987959,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108167,
+      "num": 108167,
+      "word": "原来年龄真的只是一个数字",
+      "onboard_time": 1661943687,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 99098,
@@ -451,30 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 93471,
-      "num": 93471,
-      "word": "大熊猫宝宝突然汪了一声",
-      "onboard_time": 1661964501,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91184,
-      "num": 91184,
-      "word": "曼城6比0诺丁汉森林",
-      "onboard_time": 1661987959,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88174,
-      "num": 88174,
-      "word": "原来年龄真的只是一个数字",
-      "onboard_time": 1661943687,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86361,
       "num": 86361,
       "word": "男子凌晨偷出租车拉活赚钱早上归还",
@@ -489,6 +513,22 @@
       "onboard_time": 1661968514,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83873,
+      "num": 83873,
+      "word": "离深须持48小时内2次核酸阴性证明",
+      "onboard_time": 1661977930,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81253,
+      "num": 81253,
+      "word": "林俊杰翻唱那女孩对我说",
+      "onboard_time": 1661987900,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 79164,
@@ -507,14 +547,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 78672,
-      "num": 78672,
-      "word": "林俊杰翻唱那女孩对我说",
-      "onboard_time": 1661987900,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 76225,
       "num": 76225,
       "word": "女子点外卖式报警接警员秒懂",
@@ -529,14 +561,6 @@
       "onboard_time": 1661951730,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 63814,
-      "num": 63814,
-      "word": "离深须持48小时内2次核酸阴性证明",
-      "onboard_time": 1661977930,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62529,
