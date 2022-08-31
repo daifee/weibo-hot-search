@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661985623248,
+  "endTime": 1661988169901,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1661860169,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1214675,
+      "num": 1214675,
+      "word": "刘畊宏带货假燕窝公司已被吊销",
+      "onboard_time": 1661970974,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1211178,
@@ -2155,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627257,
-      "num": 627257,
-      "word": "刘畊宏带货假燕窝公司已被吊销",
-      "onboard_time": 1661970974,
-      "rank": 8,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 625949,
       "num": 625949,
       "word": "成都高新区疫情防控",
@@ -2424,6 +2424,14 @@
       "word": "唐山打人案被害人回应网络传言",
       "onboard_time": 1661749477,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558113,
+      "num": 558113,
+      "word": "亲爹报警男孩吃瓜吃到自己家",
+      "onboard_time": 1661973792,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3259,6 +3267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401004,
+      "num": 355084,
+      "word": "宋轶晒于曼丽背影照问你好吗",
+      "onboard_time": 1661982912,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400279,
       "num": 197795,
       "word": "导演评价王一博在冰雨火中的演技",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1661838806,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382552,
+      "num": 382552,
+      "word": "研究称暴露于蓝光会加速衰老",
+      "onboard_time": 1661981589,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 382219,
@@ -4035,6 +4059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323701,
+      "num": 323701,
+      "word": "九月",
+      "onboard_time": 1661987600,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323090,
       "num": 323090,
       "word": "sls",
@@ -4427,14 +4459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280707,
-      "num": 280707,
-      "word": "研究称暴露于蓝光会加速衰老",
-      "onboard_time": 1661981589,
-      "rank": 47,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 279934,
       "num": 279934,
       "word": "什么是游戏式友情",
@@ -4624,14 +4648,6 @@
       "word": "武汉新增25例无症状感染者",
       "onboard_time": 1661825910,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269571,
-      "num": 269571,
-      "word": "亲爹报警男孩吃瓜吃到自己家",
-      "onboard_time": 1661973792,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6283,6 +6299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140193,
+      "num": 140193,
+      "word": "湖南女子学院迎来首届男生",
+      "onboard_time": 1661977091,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 139944,
       "num": 77247,
       "word": "李洛尔",
@@ -6337,14 +6361,6 @@
       "onboard_time": 1661907030,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133219,
-      "num": 133219,
-      "word": "宋轶晒于曼丽背影照问你好吗",
-      "onboard_time": 1661982912,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 132683,
@@ -6475,6 +6491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114087,
+      "num": 114087,
+      "word": "中超就河南球迷侮辱马宁批评赛区",
+      "onboard_time": 1661980390,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110813,
       "num": 110813,
       "word": "滕哈格确认C罗留队",
@@ -6547,6 +6571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 101670,
+      "num": 101670,
+      "word": "二十不惑2皓史成双上线",
+      "onboard_time": 1661986457,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 100909,
       "num": 100909,
       "word": "班主任给全班小学生发开学礼包",
@@ -6579,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95580,
+      "num": 95580,
+      "word": "这就是小兰花口中的东方青苍吧",
+      "onboard_time": 1661971093,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94786,
       "num": 94786,
       "word": "明日方舟",
@@ -6593,6 +6633,22 @@
       "onboard_time": 1661690729,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93471,
+      "num": 93471,
+      "word": "大熊猫宝宝突然汪了一声",
+      "onboard_time": 1661964501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91184,
+      "num": 91184,
+      "word": "曼城6比0诺丁汉森林",
+      "onboard_time": 1661987959,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 89526,
@@ -6667,6 +6723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78672,
+      "num": 78672,
+      "word": "林俊杰翻唱那女孩对我说",
+      "onboard_time": 1661987900,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 74619,
       "num": 74619,
       "word": "剑网三",
@@ -6681,14 +6745,6 @@
       "onboard_time": 1661901745,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74489,
-      "num": 74489,
-      "word": "大熊猫宝宝突然汪了一声",
-      "onboard_time": 1661964501,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73583,
@@ -6707,20 +6763,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65729,
-      "num": 65729,
-      "word": "中超就河南球迷侮辱马宁批评赛区",
-      "onboard_time": 1661980390,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64736,
       "num": 64736,
       "word": "当你用摄像头找猫时",
       "onboard_time": 1661880018,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63814,
+      "num": 63814,
+      "word": "离深须持48小时内2次核酸阴性证明",
+      "onboard_time": 1661977930,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63757,
@@ -6731,12 +6787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58675,
-      "num": 58675,
-      "word": "湖南女子学院迎来首届男生",
-      "onboard_time": 1661977091,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 60802,
+      "num": 60802,
+      "word": "张帅重返美网32强",
+      "onboard_time": 1661988022,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 56606,
@@ -6779,14 +6835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38429,
-      "num": 34579,
-      "word": "这就是小兰花口中的东方青苍吧",
-      "onboard_time": 1661971093,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 38124,
       "num": 38124,
       "word": "K甲",
@@ -6801,14 +6849,6 @@
       "onboard_time": 1661711413,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29297,
-      "num": 29297,
-      "word": "离深须持48小时内2次核酸阴性证明",
-      "onboard_time": 1661977930,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27794,
