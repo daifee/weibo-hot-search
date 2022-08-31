@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661942499117,
+  "endTime": 1661944741019,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1181822,
+      "num": 1181822,
+      "word": "摆渡人",
+      "onboard_time": 1661943329,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114436,
       "num": 1114436,
       "word": "多家九价HPV疫苗进入3期临床",
@@ -323,8 +331,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815907,
+      "num": 815907,
+      "word": "沉香他二舅也曾劈山救母",
+      "onboard_time": 1661940329,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 815606,
-      "num": 290783,
+      "num": 452892,
       "word": "苍兰诀剧粉买星星命名为东方青苍",
       "onboard_time": 1661941706,
       "rank": 20,
@@ -371,11 +387,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734236,
-      "num": 734236,
-      "word": "沉香他二舅也曾劈山救母",
-      "onboard_time": 1661940329,
-      "rank": 6,
+      "raw_hot": 731876,
+      "num": 731876,
+      "word": "张翰新剧是好朋友团建吧",
+      "onboard_time": 1661941406,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -448,6 +464,14 @@
       "word": "一定不要让孩子离开自己的视线",
       "onboard_time": 1661930071,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629576,
+      "num": 629576,
+      "word": "重庆一女子举报违建疑遭报复",
+      "onboard_time": 1661939971,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -651,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451424,
-      "num": 451424,
-      "word": "重庆一女子举报违建疑遭报复",
-      "onboard_time": 1661939971,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 450975,
+      "num": 450975,
+      "word": "新疆文化出版社回应教辅图书涉性暗示",
+      "onboard_time": 1661942608,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 448628,
@@ -683,6 +707,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 431793,
+      "num": 431793,
+      "word": "男子凌晨偷出租车拉活赚钱早上归还",
+      "onboard_time": 1661942367,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431053,
+      "num": 431053,
+      "word": "原来年龄真的只是一个数字",
+      "onboard_time": 1661943687,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424165,
       "num": 424165,
       "word": "亚洲人首次进入全球富豪前三",
@@ -697,14 +737,6 @@
       "onboard_time": 1661867132,
       "rank": 13,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 417810,
-      "num": 288077,
-      "word": "张翰新剧是好朋友团建吧",
-      "onboard_time": 1661941406,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 412145,
@@ -811,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367516,
+      "num": 267742,
+      "word": "颜淡应渊恋情发布会",
+      "onboard_time": 1661941109,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "王源南京演唱会三周年",
@@ -825,6 +865,14 @@
       "onboard_time": 1661932528,
       "rank": 18,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 358828,
+      "num": 258925,
+      "word": "成毅说应渊的修罗血脉藏不住了",
+      "onboard_time": 1661944168,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 353386,
@@ -881,14 +929,6 @@
       "onboard_time": 1661937749,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332807,
-      "num": 218419,
-      "word": "颜淡应渊恋情发布会",
-      "onboard_time": 1661941109,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 330450,
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300457,
+      "num": 206404,
+      "word": "王一博这就是街舞个人放松time",
+      "onboard_time": 1661943749,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298055,
       "num": 298055,
       "word": "妻子带失明丈夫跑步近30年",
@@ -1043,6 +1091,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 280317,
+      "num": 280317,
+      "word": "台风",
+      "onboard_time": 1661941649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276016,
       "num": 276016,
       "word": "8月30日增1326例本土无症状",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1661919870,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271952,
+      "num": 271952,
+      "word": "宝可梦盗版游戏公司被索赔5亿",
+      "onboard_time": 1661938409,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 271889,
@@ -1147,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259328,
-      "num": 259328,
-      "word": "宝可梦盗版游戏公司被索赔5亿",
-      "onboard_time": 1661938409,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 255743,
       "num": 237582,
       "word": "大润发出周边了",
@@ -1211,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231562,
+      "num": 206108,
+      "word": "迪丽热巴八月穿搭plog",
+      "onboard_time": 1661944107,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231464,
       "num": 176543,
       "word": "应渊2.0周里周气",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1661938168,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227618,
+      "num": 227618,
+      "word": "新疆男篮为周琦预注册",
+      "onboard_time": 1661942907,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 226598,
@@ -1379,12 +1451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184528,
-      "num": 184528,
-      "word": "台风",
-      "onboard_time": 1661941649,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 186754,
+      "num": 186754,
+      "word": "出版社回应含性暗示教辅书系盗版",
+      "onboard_time": 1661943507,
+      "rank": 34,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 181765,
@@ -1499,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162404,
+      "num": 162404,
+      "word": "赵睿与广东男篮续约1年",
+      "onboard_time": 1661943087,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161429,
       "num": 161429,
       "word": "AI虚拟歌手入学上海音乐学院",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1661856687,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159760,
+      "num": 159760,
+      "word": "辽宁男篮为郭艾伦预注册",
+      "onboard_time": 1661943267,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 157192,
@@ -1635,6 +1723,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 134719,
+      "num": 134719,
+      "word": "气氛突然变得好尴尬",
+      "onboard_time": 1661944346,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134676,
       "num": 134676,
       "word": "业主几年没回家开门毛坯变精装",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1661938350,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125508,
+      "num": 125508,
+      "word": "男子晒老婆结婚生娃前后对比",
+      "onboard_time": 1661944648,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 121448,
