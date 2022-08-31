@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661956674890,
+  "endTime": 1661959408217,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2254573,
+      "raw_hot": 2313494,
       "num": 2254573,
       "word": "杨红樱",
       "onboard_time": 1661953772,
@@ -192,6 +192,14 @@
       "word": "上海男子中1363万元彩票浑然不觉",
       "onboard_time": 1661952270,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1382243,
+      "num": 1382243,
+      "word": "南昌上空出现不明飞行物",
+      "onboard_time": 1661955815,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929473,
+      "num": 929473,
+      "word": "长沙人每7天要做一次核酸",
+      "onboard_time": 1661955930,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897727,
       "num": 897727,
       "word": "郭晓婷配音原著三生石片段",
@@ -443,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 814417,
+      "num": 814417,
+      "word": "威神V六人合体",
+      "onboard_time": 1661957372,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 814342,
       "num": 814342,
       "word": "北溪1号已暂停向欧洲供应天然气",
@@ -497,6 +521,14 @@
       "onboard_time": 1661947468,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 744504,
+      "num": 744504,
+      "word": "一诺新发色",
+      "onboard_time": 1661957130,
+      "rank": 7,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 731876,
@@ -648,6 +680,14 @@
       "word": "四川疫情防控",
       "onboard_time": 1661910029,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570610,
+      "num": 570610,
+      "word": "人事回应不聘用手机号倒数第五位是5的人",
+      "onboard_time": 1661954550,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469681,
+      "num": 469681,
+      "word": "邢菲覆流年演技",
+      "onboard_time": 1661957493,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460808,
       "num": 460808,
       "word": "张凌赫天天向上又唱歌了",
@@ -867,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447913,
+      "num": 447913,
+      "word": "黄大妈",
+      "onboard_time": 1661956175,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444929,
       "num": 444929,
       "word": "刘洋",
@@ -891,20 +947,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 430242,
-      "num": 430242,
-      "word": "人事回应不聘用手机号倒数第五位是5的人",
-      "onboard_time": 1661954550,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424165,
       "num": 424165,
       "word": "亚洲人首次进入全球富豪前三",
       "onboard_time": 1661859806,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 421859,
+      "num": 421859,
+      "word": "机票燃油附加费年内第二次下调",
+      "onboard_time": 1661954132,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418809,
@@ -1003,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385332,
-      "num": 385332,
-      "word": "机票燃油附加费年内第二次下调",
-      "onboard_time": 1661954132,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385322,
       "num": 319726,
       "word": "95生怼脸生图",
@@ -1075,6 +1123,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 364473,
+      "num": 364473,
+      "word": "家属辟谣巨石掉落奶奶叫猫咪离开",
+      "onboard_time": 1661956652,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358828,
       "num": 258925,
       "word": "成毅说应渊的修罗血脉藏不住了",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1661943749,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344514,
+      "num": 209750,
+      "word": "爱奇艺腾讯优酷芒果9月排播表",
+      "onboard_time": 1661959170,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 339069,
@@ -1147,6 +1211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 334862,
+      "num": 193047,
+      "word": "宁安如梦",
+      "onboard_time": 1661959112,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333062,
       "num": 333062,
       "word": "北京新增病例曾到餐馆游泳馆",
@@ -1185,14 +1257,6 @@
       "onboard_time": 1661894651,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325106,
-      "num": 232091,
-      "word": "黄大妈",
-      "onboard_time": 1661956175,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 323943,
@@ -1291,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296917,
+      "num": 130556,
+      "word": "林雨申打戏",
+      "onboard_time": 1661957435,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295591,
       "num": 295591,
       "word": "熊孩子踹高铁小桌板家长无动于衷",
       "onboard_time": 1661923770,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294511,
+      "num": 128129,
+      "word": "丁程鑫晒plog告别八月",
+      "onboard_time": 1661958932,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 291666,
@@ -1321,6 +1401,14 @@
       "onboard_time": 1661953170,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289413,
+      "num": 289413,
+      "word": "17岁女孩去纹身遭店老板怒斥",
+      "onboard_time": 1661957733,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287958,
@@ -1467,14 +1555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 259791,
-      "num": 259791,
-      "word": "长沙人每7天要做一次核酸",
-      "onboard_time": 1661955930,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259720,
       "num": 172100,
       "word": "徐明浩直播",
@@ -1499,11 +1579,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252207,
-      "num": 252207,
-      "word": "南昌上空出现不明飞行物",
-      "onboard_time": 1661955815,
-      "rank": 28,
+      "raw_hot": 252381,
+      "num": 252381,
+      "word": "超市售卖鳄雀鳝被责令现场扑杀",
+      "onboard_time": 1661957313,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1793,6 +1873,14 @@
       "onboard_time": 1661913208,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180020,
+      "num": 180020,
+      "word": "女子剪发被4部手机对着直播",
+      "onboard_time": 1661958932,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176779,
@@ -2211,12 +2299,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 94202,
-      "num": 94202,
-      "word": "家属辟谣巨石掉落奶奶叫猫咪离开",
-      "onboard_time": 1661956652,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 86395,
+      "num": 86395,
+      "word": "恋爱前后的区别可以有多大",
+      "onboard_time": 1661958574,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 85991,
