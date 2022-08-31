@@ -1,0 +1,410 @@
+{
+  "runTime": 1661922871179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2358064,
+        "num": 2358064,
+        "word": "二舅作者将发布澄清视频",
+        "onboard_time": 1661914529,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2185891,
+        "num": 2185891,
+        "word": "2021年我国离婚人数大幅下降",
+        "onboard_time": 1661918968,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14411,
+        "num": 1470357,
+        "word": "我国太阳探测卫星科学数据全球共享",
+        "onboard_time": 1661864073,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1453561,
+        "num": 1453561,
+        "word": "悲痛到抽搐男子妻子已离世",
+        "onboard_time": 1661921251,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234757,
+        "num": 1234757,
+        "word": "阳澄湖大闸蟹恐缺席中秋",
+        "onboard_time": 1661920529,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956036,
+        "num": 956036,
+        "word": "多家九价HPV疫苗进入3期临床",
+        "onboard_time": 1661914468,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823818,
+        "num": 823818,
+        "word": "郭晓婷配音原著三生石片段",
+        "onboard_time": 1661919691,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604914,
+        "num": 604914,
+        "word": "顾客买酸奶过期1分钟索赔1000元",
+        "onboard_time": 1661906011,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613279,
+        "num": 579338,
+        "word": "六公主评苍兰诀",
+        "onboard_time": 1661908111,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550179,
+        "num": 550179,
+        "word": "人民满意的公务员",
+        "onboard_time": 1661919030,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 899502,
+        "num": 532837,
+        "word": "超市员工脱袜子光脚踩冷藏牛奶",
+        "onboard_time": 1661912069,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509141,
+        "num": 509141,
+        "word": "三大航半年亏损近500亿",
+        "onboard_time": 1661919992,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 468018,
+        "num": 468018,
+        "word": "蔡依林泡面头封面",
+        "onboard_time": 1661916990,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 463146,
+        "num": 463146,
+        "word": "北京地铁站内男子向女乘客小便被刑拘",
+        "onboard_time": 1661914708,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460832,
+        "num": 460832,
+        "word": "胡一天陈钰琪的身高差",
+        "onboard_time": 1661920232,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443655,
+        "num": 443655,
+        "word": "范世錡说姜小果干得漂亮",
+        "onboard_time": 1661916029,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388599,
+        "num": 388599,
+        "word": "4岁女孩狂推旋转门滑倒被卡腿",
+        "onboard_time": 1661918189,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385579,
+        "num": 385579,
+        "word": "LV开卖乒乓球拍售价1.8万元",
+        "onboard_time": 1661909909,
+        "rank": 17,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 378415,
+        "num": 378415,
+        "word": "A股",
+        "onboard_time": 1661913388,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360038,
+        "num": 360038,
+        "word": "二舅",
+        "onboard_time": 1661920232,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256566,
+        "num": 360027,
+        "word": "戈尔巴乔夫去世",
+        "onboard_time": 1661900660,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1078368,
+        "num": 360019,
+        "word": "杨幂王鹤棣密逃4同框路透",
+        "onboard_time": 1661921432,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384411,
+        "num": 359998,
+        "word": "张远杂志发型",
+        "onboard_time": 1661920112,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375132,
+        "num": 359974,
+        "word": "Angelababy天鹅幻境氛围感大片",
+        "onboard_time": 1661915790,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359965,
+        "num": 359965,
+        "word": "9岁重病女孩央求爸爸替她去上课",
+        "onboard_time": 1661915487,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 370645,
+        "num": 356903,
+        "word": "思文 程璐",
+        "onboard_time": 1661907030,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329854,
+        "num": 329854,
+        "word": "比亚迪回应巴菲特减持133万股",
+        "onboard_time": 1661918071,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 328519,
+        "num": 328519,
+        "word": "北京疫情防控",
+        "onboard_time": 1661919870,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324282,
+        "num": 324282,
+        "word": "这些动物千万不能随便放生",
+        "onboard_time": 1661916391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273428,
+        "num": 273428,
+        "word": "比亚迪",
+        "onboard_time": 1661911408,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323943,
+        "num": 272808,
+        "word": "虞书欣片场拳打脚踢花絮",
+        "onboard_time": 1661921491,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272175,
+        "num": 272175,
+        "word": "成都消毒",
+        "onboard_time": 1661916990,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251146,
+        "num": 251146,
+        "word": "歼15首飞画面",
+        "onboard_time": 1661917710,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 233789,
+        "num": 233789,
+        "word": "郑钧中了刘芸的预言",
+        "onboard_time": 1661919870,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233785,
+        "num": 233785,
+        "word": "10岁姐姐西瓜藏水哄1岁妹妹喝",
+        "onboard_time": 1661912548,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225993,
+        "num": 225993,
+        "word": "济宁鱼台发现1例确诊病例",
+        "onboard_time": 1661916391,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221462,
+        "num": 221462,
+        "word": "星汉因所有人而灿烂 月升因所有人而圆满",
+        "onboard_time": 1661910389,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213354,
+        "num": 213354,
+        "word": "基金",
+        "onboard_time": 1661916806,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192445,
+        "num": 192445,
+        "word": "四川疫情防控",
+        "onboard_time": 1661910029,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179722,
+        "num": 179722,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1661905532,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213451,
+        "num": 179620,
+        "word": "于正晒第一次见朱一龙时的合照",
+        "onboard_time": 1661910631,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179368,
+        "num": 179368,
+        "word": "超2亿人点外卖选无需餐具",
+        "onboard_time": 1661922331,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175602,
+        "num": 175602,
+        "word": "女子坐高铁把娃装进手提袋",
+        "onboard_time": 1661903312,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164548,
+        "num": 164548,
+        "word": "上海疫情防控",
+        "onboard_time": 1661908829,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161271,
+        "num": 161271,
+        "word": "男方工资上交受不受公证保护",
+        "onboard_time": 1661922391,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 154381,
+        "num": 154381,
+        "word": "妻子带失明丈夫跑步近30年",
+        "onboard_time": 1661922212,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128262,
+        "num": 128262,
+        "word": "TES夏决加油",
+        "onboard_time": 1661916931,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236043,
+        "num": 127413,
+        "word": "徐明浩直播",
+        "onboard_time": 1661922811,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125834,
+        "num": 125834,
+        "word": "我国网民人均每周上网29.5小时",
+        "onboard_time": 1661911888,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 118358,
+        "num": 118358,
+        "word": "新人坐公交车载亲朋参加婚礼",
+        "onboard_time": 1661913988,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}
