@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661960498326,
+  "endTime": 1661963499184,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -451,6 +451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1837434,
+      "num": 1837434,
+      "word": "爱奇艺腾讯优酷芒果9月排播表",
+      "onboard_time": 1661959170,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1828113,
       "num": 1633651,
       "word": "张凌赫 桑延",
@@ -523,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1761663,
-      "num": 1761663,
-      "word": "爱奇艺腾讯优酷芒果9月排播表",
-      "onboard_time": 1661959170,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1756514,
       "num": 626210,
       "word": "王鹤棣评论导演伊峥一年前微博",
@@ -577,6 +577,14 @@
       "onboard_time": 1661955815,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1657254,
+      "num": 1657254,
+      "word": "赵晓卉退赛",
+      "onboard_time": 1661959892,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1639264,
@@ -705,6 +713,14 @@
       "onboard_time": 1661738973,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1436183,
+      "num": 1436183,
+      "word": "女子剪发被4部手机对着直播",
+      "onboard_time": 1661958932,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1432157,
@@ -1667,19 +1683,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 785269,
+      "num": 785269,
+      "word": "17岁女孩去纹身遭店老板怒斥",
+      "onboard_time": 1661957733,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779214,
       "num": 779214,
       "word": "200斤爸爸抱6斤女儿直犯难",
       "onboard_time": 1661889551,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 778053,
-      "num": 778053,
-      "word": "女子剪发被4部手机对着直播",
-      "onboard_time": 1661958932,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1689,6 +1705,14 @@
       "onboard_time": 1661770591,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 775318,
+      "num": 775318,
+      "word": "深圳非中高风险区人员到广州赋红码",
+      "onboard_time": 1661959469,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 774292,
@@ -2483,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533847,
-      "num": 533847,
-      "word": "17岁女孩去纹身遭店老板怒斥",
-      "onboard_time": 1661957733,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 533269,
       "num": 533269,
       "word": "新疆文化出版社回应教辅图书涉性暗示",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1661911888,
       "rank": 18,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 518131,
-      "num": 518131,
-      "word": "赵晓卉退赛",
-      "onboard_time": 1661959892,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 517982,
@@ -2793,6 +2801,14 @@
       "onboard_time": 1661739993,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474253,
+      "num": 474253,
+      "word": "女子抽中5899元手机福袋被寄模型机",
+      "onboard_time": 1661960249,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469906,
@@ -3489,14 +3505,6 @@
       "onboard_time": 1661745933,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376187,
-      "num": 376187,
-      "word": "深圳非中高风险区人员到广州赋红码",
-      "onboard_time": 1661959469,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373108,
@@ -5099,6 +5107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230705,
+      "num": 230705,
+      "word": "小猫好像需要法律援助",
+      "onboard_time": 1661959532,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 230672,
       "num": 230672,
       "word": "湖北新增本土无症状32例",
@@ -5291,6 +5307,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 217528,
+      "num": 217528,
+      "word": "对重力过敏是啥体验",
+      "onboard_time": 1661960129,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215007,
       "num": 215007,
       "word": "KPL鲜奶毒奶颁奖礼",
@@ -5425,6 +5449,14 @@
       "onboard_time": 1661772031,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205065,
+      "num": 205065,
+      "word": "恋爱前后的区别可以有多大",
+      "onboard_time": 1661958574,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 204700,
@@ -5691,6 +5723,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187929,
+      "num": 187929,
+      "word": "成都学生五天五检",
+      "onboard_time": 1661961987,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 187863,
+      "num": 187863,
+      "word": "国外也卖这东西啊",
+      "onboard_time": 1661959651,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186818,
       "num": 186818,
       "word": "重庆增11例本土确诊",
@@ -5841,14 +5889,6 @@
       "onboard_time": 1661939548,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172188,
-      "num": 172188,
-      "word": "小猫好像需要法律援助",
-      "onboard_time": 1661959532,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 172088,
@@ -6059,14 +6099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151576,
-      "num": 151576,
-      "word": "恋爱前后的区别可以有多大",
-      "onboard_time": 1661958574,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151201,
       "num": 151201,
       "word": "中国男排0比3加拿大男排",
@@ -6137,6 +6169,14 @@
       "onboard_time": 1661832029,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142498,
+      "num": 114614,
+      "word": "隐入尘烟 真实",
+      "onboard_time": 1661962644,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 142165,
@@ -6459,11 +6499,11 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 99573,
-      "num": 99573,
-      "word": "对重力过敏是啥体验",
-      "onboard_time": 1661960129,
-      "rank": 46,
+      "raw_hot": 99098,
+      "num": 99098,
+      "word": "90后女生为传承宝剑文化坚守家乡",
+      "onboard_time": 1661960668,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6472,14 +6512,6 @@
       "word": "上海昨日新增本土无症状8例",
       "onboard_time": 1661695054,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97042,
-      "num": 97042,
-      "word": "女子抽中5899元手机福袋被寄模型机",
-      "onboard_time": 1661960249,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6521,14 +6553,6 @@
       "onboard_time": 1661824889,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88540,
-      "num": 92836,
-      "word": "国外也卖这东西啊",
-      "onboard_time": 1661959651,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 87920,
