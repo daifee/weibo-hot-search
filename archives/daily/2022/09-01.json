@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1661967617399,
+  "endTime": 1661970396534,
   "band_list": [
     {
       "raw_hot": 1837434,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285524,
+      "num": 285524,
+      "word": "杨幂工作室回应长沙活动被取消",
+      "onboard_time": 1661965578,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280645,
       "num": 223493,
       "word": "一诺新发色",
@@ -169,14 +177,6 @@
       "onboard_time": 1661948908,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235657,
-      "num": 224371,
-      "word": "杨幂工作室回应长沙活动被取消",
-      "onboard_time": 1661965578,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 231311,
@@ -371,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92405,
+      "num": 92405,
+      "word": "理塘文旅回应丁真商标风波",
+      "onboard_time": 1661970014,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 86361,
       "num": 86361,
       "word": "男子凌晨偷出租车拉活赚钱早上归还",
       "onboard_time": 1661942367,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85671,
+      "num": 85671,
+      "word": "葛秋谷手写信告别白海川",
+      "onboard_time": 1661968514,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 79164,
