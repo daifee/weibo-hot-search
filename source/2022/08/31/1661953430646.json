@@ -1,0 +1,410 @@
+{
+  "runTime": 1661953430646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2980741,
+        "num": 2980741,
+        "word": "公司不聘用手机号倒数第五位是5的人",
+        "onboard_time": 1661946508,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2351466,
+        "num": 2351466,
+        "word": "易中天下架",
+        "onboard_time": 1661948969,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209901,
+        "num": 1262606,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1056849,
+        "num": 1056849,
+        "word": "顾客吐槽海底捞光锅底料碗就上百元",
+        "onboard_time": 1661947290,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844673,
+        "num": 844673,
+        "word": "江苏5岁女孩被大型犬咬伤致毁容",
+        "onboard_time": 1661951490,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 827781,
+        "num": 827781,
+        "word": "苍兰诀角色号还在更新",
+        "onboard_time": 1661948908,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628919,
+        "num": 628919,
+        "word": "广东一女生切月饼切出电线",
+        "onboard_time": 1661947527,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581555,
+        "num": 581555,
+        "word": "男子晒老婆结婚生娃前后对比",
+        "onboard_time": 1661944648,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 554138,
+        "num": 554138,
+        "word": "梁爽录音事件反转",
+        "onboard_time": 1661949749,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545183,
+        "num": 545183,
+        "word": "上海男子中1363万元彩票浑然不觉",
+        "onboard_time": 1661952270,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514021,
+        "num": 514021,
+        "word": "苏新皓中考",
+        "onboard_time": 1661947468,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507845,
+        "num": 507845,
+        "word": "杨幂赵丽颖刘诗诗在拍古装剧路透",
+        "onboard_time": 1661937630,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 490094,
+        "num": 490094,
+        "word": "LV回应乒乓球拍售价1.8万",
+        "onboard_time": 1661949811,
+        "rank": 12,
+        "category": "时尚,体育"
+      },
+      {
+        "raw_hot": 445046,
+        "num": 445046,
+        "word": "北京43岁女子冻龄般颜值",
+        "onboard_time": 1661948309,
+        "rank": 13,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 441701,
+        "num": 441701,
+        "word": "刘畊宏道歉",
+        "onboard_time": 1661923171,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 433725,
+        "num": 433725,
+        "word": "王一博八月份八种身份",
+        "onboard_time": 1661949211,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369568,
+        "num": 369568,
+        "word": "摆渡人",
+        "onboard_time": 1661943329,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344104,
+        "num": 344104,
+        "word": "原来年龄真的只是一个数字",
+        "onboard_time": 1661943687,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327082,
+        "num": 327082,
+        "word": "男子凌晨偷出租车拉活赚钱早上归还",
+        "onboard_time": 1661942367,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257881,
+        "num": 257881,
+        "word": "跟有松弛感的人恋爱有多甜",
+        "onboard_time": 1661950767,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 608782,
+        "num": 257369,
+        "word": "全都是李诞",
+        "onboard_time": 1661944946,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373964,
+        "num": 257048,
+        "word": "赵露思分享庆功宴合照四宫格",
+        "onboard_time": 1661946089,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302413,
+        "num": 256750,
+        "word": "余景天自导自演短片",
+        "onboard_time": 1661949568,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256040,
+        "num": 256040,
+        "word": "女子点外卖式报警接警员秒懂",
+        "onboard_time": 1661938049,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252307,
+        "num": 252307,
+        "word": "新疆文化出版社回应教辅图书涉性暗示",
+        "onboard_time": 1661942608,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 237736,
+        "num": 237736,
+        "word": "10岁男孩开灯睡觉骨龄发育慢4年",
+        "onboard_time": 1661952630,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177737,
+        "num": 177737,
+        "word": "有理有据的单身原因",
+        "onboard_time": 1661951730,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 174560,
+        "num": 174560,
+        "word": "北溪1号已暂停向欧洲供应天然气",
+        "onboard_time": 1661938168,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170661,
+        "num": 170661,
+        "word": "海珠疫情防控",
+        "onboard_time": 1661946688,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166167,
+        "num": 166167,
+        "word": "北京新增病例曾到餐馆游泳馆",
+        "onboard_time": 1661937749,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243359,
+        "num": 165664,
+        "word": "那英 帮别人拍灯",
+        "onboard_time": 1661952929,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227926,
+        "num": 165302,
+        "word": "成毅说应渊的修罗血脉藏不住了",
+        "onboard_time": 1661944168,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220501,
+        "num": 164942,
+        "word": "罚罪",
+        "onboard_time": 1661953170,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199175,
+        "num": 164393,
+        "word": "沉香他二舅也曾劈山救母",
+        "onboard_time": 1661940329,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163871,
+        "num": 163871,
+        "word": "要不还是说四川话吧",
+        "onboard_time": 1661952867,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141255,
+        "num": 141255,
+        "word": "重庆一女子举报违建疑遭报复",
+        "onboard_time": 1661939971,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135023,
+        "num": 135023,
+        "word": "深圳核酸",
+        "onboard_time": 1661934629,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129315,
+        "num": 129315,
+        "word": "男孩脚疼上网自查要截肢被吓哭",
+        "onboard_time": 1661937510,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123484,
+        "num": 123484,
+        "word": "一定不要让孩子离开自己的视线",
+        "onboard_time": 1661930071,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119613,
+        "num": 119613,
+        "word": "辽宁捕获4只金色蚊子",
+        "onboard_time": 1661927607,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197391,
+        "num": 119349,
+        "word": "覆流年",
+        "onboard_time": 1661949388,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189115,
+        "num": 116658,
+        "word": "张翰新剧是好朋友团建吧",
+        "onboard_time": 1661941406,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181250,
+        "num": 115202,
+        "word": "脱口秀大会",
+        "onboard_time": 1661948908,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112610,
+        "num": 112610,
+        "word": "北京海淀划定4个高风险区",
+        "onboard_time": 1661939007,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112240,
+        "num": 112240,
+        "word": "老人避开瞬间房子被巨石砸穿",
+        "onboard_time": 1661930668,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111492,
+        "num": 111492,
+        "word": "突然掌握了做饭好吃的秘诀",
+        "onboard_time": 1661937810,
+        "rank": 45,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 106863,
+        "num": 106863,
+        "word": "滕哈格确认C罗留队",
+        "onboard_time": 1661950110,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96963,
+        "num": 96963,
+        "word": "呷哺呷哺上半年关店37家",
+        "onboard_time": 1661937032,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 95452,
+        "word": "成都高新区疫情防控",
+        "onboard_time": 1661935829,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92466,
+        "num": 92466,
+        "word": "劣质美瞳或致角膜结膜染色",
+        "onboard_time": 1661953350,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上作表率当模范#"
+    }
+  }
+}
