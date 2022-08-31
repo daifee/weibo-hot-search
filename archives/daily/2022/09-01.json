@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1661977425919,
+  "endTime": 1661978363529,
   "band_list": [
     {
       "raw_hot": 1837434,
@@ -443,20 +443,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72272,
+      "num": 41973,
+      "word": "亲爹报警男孩吃瓜吃到自己家",
+      "onboard_time": 1661973792,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67728,
       "num": 67728,
       "word": "有理有据的单身原因",
       "onboard_time": 1661951730,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 66632,
-      "num": 41973,
-      "word": "亲爹报警男孩吃瓜吃到自己家",
-      "onboard_time": 1661973792,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62529,
@@ -475,8 +475,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 8094,
-      "num": 8094,
+      "raw_hot": 11465,
+      "num": 11465,
       "word": "湖南女子学院迎来首届男生",
       "onboard_time": 1661977091,
       "rank": 49,

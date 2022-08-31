@@ -1,0 +1,410 @@
+{
+  "runTime": 1661978363529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 133082,
+        "num": 133082,
+        "word": "刘畊宏带货假燕窝公司已被吊销",
+        "onboard_time": 1661970974,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 97801,
+        "num": 97801,
+        "word": "女子剪发被4部手机对着直播",
+        "onboard_time": 1661958932,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10263,
+        "num": 92107,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90827,
+        "num": 90827,
+        "word": "赵晓卉退赛",
+        "onboard_time": 1661959892,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65453,
+        "num": 65453,
+        "word": "爱奇艺腾讯优酷芒果9月排播表",
+        "onboard_time": 1661959170,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62084,
+        "num": 62084,
+        "word": "南昌上空出现不明飞行物",
+        "onboard_time": 1661955815,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58916,
+        "num": 58916,
+        "word": "17岁女孩去纹身遭店老板怒斥",
+        "onboard_time": 1661957733,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56340,
+        "num": 56340,
+        "word": "理塘文旅回应丁真商标风波",
+        "onboard_time": 1661970014,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 49761,
+        "num": 49761,
+        "word": "上海男子中1363万元彩票浑然不觉",
+        "onboard_time": 1661952270,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41577,
+        "num": 41577,
+        "word": "公司不聘用手机号倒数第五位是5的人",
+        "onboard_time": 1661946508,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72272,
+        "num": 40628,
+        "word": "亲爹报警男孩吃瓜吃到自己家",
+        "onboard_time": 1661973792,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39672,
+        "num": 39672,
+        "word": "长沙人每7天要做一次核酸",
+        "onboard_time": 1661955930,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34760,
+        "num": 34760,
+        "word": "10岁男孩开灯睡觉骨龄发育慢4年",
+        "onboard_time": 1661952630,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33463,
+        "num": 33463,
+        "word": "顾客吐槽海底捞光锅底料碗就上百元",
+        "onboard_time": 1661947290,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32779,
+        "num": 32779,
+        "word": "女子抽中5899元手机福袋被寄模型机",
+        "onboard_time": 1661960249,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27962,
+        "num": 27962,
+        "word": "杨幂工作室回应长沙活动被取消",
+        "onboard_time": 1661965578,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27686,
+        "num": 27686,
+        "word": "深圳非中高风险区人员到广州赋红码",
+        "onboard_time": 1661959469,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26380,
+        "num": 26380,
+        "word": "江苏5岁女孩被大型犬咬伤致毁容",
+        "onboard_time": 1661951490,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 26153,
+        "num": 26153,
+        "word": "对重力过敏是啥体验",
+        "onboard_time": 1661960129,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25303,
+        "num": 25303,
+        "word": "LV回应乒乓球拍售价1.8万",
+        "onboard_time": 1661949811,
+        "rank": 19,
+        "category": "时尚,体育"
+      },
+      {
+        "raw_hot": 25289,
+        "num": 25289,
+        "word": "全都是李诞",
+        "onboard_time": 1661944946,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24312,
+        "num": 24312,
+        "word": "周杰伦王俊凯Uzi厂长",
+        "onboard_time": 1661965160,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 22320,
+        "num": 22320,
+        "word": "颜怡颜悦脱口秀大会杀疯了",
+        "onboard_time": 1661953592,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21073,
+        "num": 21073,
+        "word": "威神V六人合体",
+        "onboard_time": 1661957372,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20979,
+        "num": 20979,
+        "word": "鹿晗赖冠霖王楚然直播截图状态",
+        "onboard_time": 1661954612,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20864,
+        "num": 20864,
+        "word": "人事回应不聘用手机号倒数第五位是5的人",
+        "onboard_time": 1661954550,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20075,
+        "num": 20075,
+        "word": "小猫好像需要法律援助",
+        "onboard_time": 1661959532,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 19628,
+        "num": 19628,
+        "word": "成都学生五天五检",
+        "onboard_time": 1661961987,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 19132,
+        "num": 19132,
+        "word": "北京43岁女子冻龄般颜值",
+        "onboard_time": 1661948309,
+        "rank": 28,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 19023,
+        "num": 19023,
+        "word": "超市售卖鳄雀鳝被责令现场扑杀",
+        "onboard_time": 1661957313,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18759,
+        "num": 18759,
+        "word": "跟有松弛感的人恋爱有多甜",
+        "onboard_time": 1661950767,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17704,
+        "num": 17704,
+        "word": "家属辟谣巨石掉落奶奶叫猫咪离开",
+        "onboard_time": 1661956652,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17377,
+        "num": 17377,
+        "word": "邢菲覆流年演技",
+        "onboard_time": 1661957493,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16940,
+        "num": 16940,
+        "word": "宁安如梦",
+        "onboard_time": 1661959112,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16489,
+        "num": 16489,
+        "word": "苍兰诀角色号还在更新",
+        "onboard_time": 1661948908,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16382,
+        "num": 16382,
+        "word": "男子凌晨偷出租车拉活赚钱早上归还",
+        "onboard_time": 1661942367,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16251,
+        "num": 16251,
+        "word": "机票燃油附加费年内第二次下调",
+        "onboard_time": 1661954132,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15001,
+        "num": 15001,
+        "word": "隐入尘烟 真实",
+        "onboard_time": 1661962644,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14524,
+        "num": 14524,
+        "word": "恋爱前后的区别可以有多大",
+        "onboard_time": 1661958574,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14366,
+        "num": 14366,
+        "word": "新疆文化出版社回应教辅图书涉性暗示",
+        "onboard_time": 1661942608,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 14493,
+        "num": 14352,
+        "word": "赵露思分享庆功宴合照四宫格",
+        "onboard_time": 1661946089,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14332,
+        "num": 14332,
+        "word": "原来年龄真的只是一个数字",
+        "onboard_time": 1661943687,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13779,
+        "num": 14215,
+        "word": "这就是小兰花口中的东方青苍吧",
+        "onboard_time": 1661971093,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14185,
+        "num": 14185,
+        "word": "男子晒老婆结婚生娃前后对比",
+        "onboard_time": 1661944648,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13317,
+        "num": 13317,
+        "word": "葛秋谷手写信告别白海川",
+        "onboard_time": 1661968514,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12604,
+        "num": 12604,
+        "word": "国外也卖这东西啊",
+        "onboard_time": 1661959651,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12588,
+        "num": 12588,
+        "word": "大熊猫宝宝突然汪了一声",
+        "onboard_time": 1661964501,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11465,
+        "num": 11465,
+        "word": "湖南女子学院迎来首届男生",
+        "onboard_time": 1661977091,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 10434,
+        "num": 10434,
+        "word": "摆渡人",
+        "onboard_time": 1661943329,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9470,
+        "num": 9470,
+        "word": "广东一女生切月饼切出电线",
+        "onboard_time": 1661947527,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上作表率当模范#"
+    }
+  }
+}
