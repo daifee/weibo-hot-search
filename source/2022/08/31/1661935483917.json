@@ -1,0 +1,410 @@
+{
+  "runTime": 1661935483917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1581941,
+        "num": 1581941,
+        "word": "辽宁捕获4只金色蚊子",
+        "onboard_time": 1661927607,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1393481,
+        "num": 1393481,
+        "word": "央视中秋晚会首波阵容官宣",
+        "onboard_time": 1661932768,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20091,
+        "num": 1068165,
+        "word": "100秒看服贸会亮点",
+        "onboard_time": 1661934991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064609,
+        "num": 1064609,
+        "word": "老人避开瞬间房子被巨石砸穿",
+        "onboard_time": 1661930668,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985764,
+        "num": 985764,
+        "word": "林志颖体重慢慢恢复中",
+        "onboard_time": 1661934509,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856861,
+        "num": 856861,
+        "word": "悲痛到抽搐男子妻子已离世",
+        "onboard_time": 1661921251,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689428,
+        "num": 689428,
+        "word": "宇宙少女雪娥EXY车祸",
+        "onboard_time": 1661927485,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612086,
+        "num": 612086,
+        "word": "一定不要让孩子离开自己的视线",
+        "onboard_time": 1661930071,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582628,
+        "num": 582628,
+        "word": "英雄联盟",
+        "onboard_time": 1661931207,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 572432,
+        "num": 572432,
+        "word": "深圳核酸",
+        "onboard_time": 1661934629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2016007,
+        "num": 543296,
+        "word": "刘畊宏道歉",
+        "onboard_time": 1661923171,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 603640,
+        "num": 533441,
+        "word": "陈晓谈再也不演吴振峰了",
+        "onboard_time": 1661926829,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505093,
+        "num": 505093,
+        "word": "校友聚会5人跳阳澄湖救起老人",
+        "onboard_time": 1661931329,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 466867,
+        "num": 466867,
+        "word": "官方回应涉疫理发店消杀被收1.6万元",
+        "onboard_time": 1661932709,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440756,
+        "num": 440756,
+        "word": "东方青苍配音念尊上告别信",
+        "onboard_time": 1661929109,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383643,
+        "num": 383643,
+        "word": "女孩入学第一天仪式感拉满了",
+        "onboard_time": 1661931388,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 364601,
+        "num": 364601,
+        "word": "00后的开学行李箱有多野",
+        "onboard_time": 1661932528,
+        "rank": 16,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 336821,
+        "num": 336821,
+        "word": "阳澄湖大闸蟹恐缺席中秋",
+        "onboard_time": 1661920529,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312571,
+        "num": 312571,
+        "word": "石家庄一大哥用铁锹拍晕鳄雀鳝",
+        "onboard_time": 1661933968,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303870,
+        "num": 303870,
+        "word": "多家九价HPV疫苗进入3期临床",
+        "onboard_time": 1661914468,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767388,
+        "num": 301986,
+        "word": "陈哲远踩掉赵露思鞋",
+        "onboard_time": 1661931207,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577821,
+        "num": 298477,
+        "word": "教辅",
+        "onboard_time": 1661928866,
+        "rank": 21,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 287719,
+        "num": 287719,
+        "word": "郭艾伦",
+        "onboard_time": 1661934149,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287150,
+        "num": 287150,
+        "word": "男方工资上交受不受公证保护",
+        "onboard_time": 1661922391,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 285561,
+        "num": 285561,
+        "word": "奶茶店员受伤顾客跑去买药帮止血",
+        "onboard_time": 1661933307,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 589698,
+        "num": 280716,
+        "word": "商户土豆涨价卖2元拟罚款30万",
+        "onboard_time": 1661928569,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272371,
+        "num": 272371,
+        "word": "隐入尘烟票房破4000万",
+        "onboard_time": 1661933307,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262043,
+        "num": 262043,
+        "word": "邢菲双剧同时开播",
+        "onboard_time": 1661932168,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247175,
+        "num": 247175,
+        "word": "戈尔巴乔夫去世",
+        "onboard_time": 1661900660,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 237942,
+        "num": 237942,
+        "word": "北京疫情防控",
+        "onboard_time": 1661919870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255743,
+        "num": 237582,
+        "word": "大润发出周边了",
+        "onboard_time": 1661934269,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259565,
+        "num": 234483,
+        "word": "九尾落水",
+        "onboard_time": 1661924728,
+        "rank": 31,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 228233,
+        "num": 228233,
+        "word": "超2亿人点外卖选无需餐具",
+        "onboard_time": 1661922331,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179574,
+        "num": 179574,
+        "word": "妻子带失明丈夫跑步近30年",
+        "onboard_time": 1661922212,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179484,
+        "num": 179484,
+        "word": "裴擒虎KPL皮肤返场",
+        "onboard_time": 1661930186,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176913,
+        "num": 176913,
+        "word": "杨幂王鹤棣密逃4同框路透",
+        "onboard_time": 1661921432,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173248,
+        "num": 173248,
+        "word": "三大航半年亏损近500亿",
+        "onboard_time": 1661919992,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 172948,
+        "num": 172948,
+        "word": "黑龙江新增本土确诊13例无症状69例",
+        "onboard_time": 1661931868,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171496,
+        "num": 171496,
+        "word": "12岁缉毒犬葬在边疆营区",
+        "onboard_time": 1661929349,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156154,
+        "num": 156154,
+        "word": "人民满意的公务员",
+        "onboard_time": 1661919030,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 155921,
+        "num": 155921,
+        "word": "狗狗比我会摆姿势",
+        "onboard_time": 1661928688,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147442,
+        "num": 147442,
+        "word": "超市员工脱袜子光脚踩冷藏牛奶",
+        "onboard_time": 1661912069,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146562,
+        "num": 146562,
+        "word": "陈宇摔文件王一博来捡",
+        "onboard_time": 1661925269,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "二舅",
+        "onboard_time": 1661920232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135627,
+        "num": 135627,
+        "word": "六公主评苍兰诀",
+        "onboard_time": 1661908111,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133762,
+        "num": 133762,
+        "word": "原来它们下了班也会放飞自我",
+        "onboard_time": 1661927067,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 120470,
+        "num": 120470,
+        "word": "plog这样发好有意思",
+        "onboard_time": 1661931627,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115142,
+        "num": 115142,
+        "word": "徐明浩直播",
+        "onboard_time": 1661922811,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105714,
+        "num": 105714,
+        "word": "爷孙同患癌父亲日扛20吨水泥救爷俩",
+        "onboard_time": 1661923530,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104163,
+        "num": 104163,
+        "word": "健康生活要做到三减三健",
+        "onboard_time": 1661933729,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}

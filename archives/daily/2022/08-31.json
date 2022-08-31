@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661934451508,
+  "endTime": 1661935483917,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064609,
+      "num": 1064609,
+      "word": "老人避开瞬间房子被巨石砸穿",
+      "onboard_time": 1661930668,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051752,
       "num": 1051752,
       "word": "A股",
@@ -203,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 985850,
-      "num": 985850,
-      "word": "老人避开瞬间房子被巨石砸穿",
-      "onboard_time": 1661930668,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 985764,
+      "num": 985764,
+      "word": "林志颖体重慢慢恢复中",
+      "onboard_time": 1661934509,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 979885,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572432,
+      "num": 572432,
+      "word": "深圳核酸",
+      "onboard_time": 1661934629,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550179,
       "num": 550179,
       "word": "人民满意的公务员",
@@ -451,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 505093,
+      "num": 505093,
+      "word": "校友聚会5人跳阳澄湖救起老人",
+      "onboard_time": 1661931329,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 493898,
       "num": 493898,
       "word": "超2亿人点外卖选无需餐具",
@@ -483,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 457373,
-      "num": 457373,
-      "word": "校友聚会5人跳阳澄湖救起老人",
-      "onboard_time": 1661931329,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 466867,
+      "num": 466867,
+      "word": "官方回应涉疫理发店消杀被收1.6万元",
+      "onboard_time": 1661932709,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454472,
@@ -619,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369187,
-      "num": 369187,
-      "word": "官方回应涉疫理发店消杀被收1.6万元",
-      "onboard_time": 1661932709,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 383643,
+      "num": 383643,
+      "word": "女孩入学第一天仪式感拉满了",
+      "onboard_time": 1661931388,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 364998,
@@ -635,20 +659,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364601,
+      "num": 364601,
+      "word": "00后的开学行李箱有多野",
+      "onboard_time": 1661932528,
+      "rank": 18,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 353386,
       "num": 353386,
       "word": "在杨紫的歌声中感受美好新时代",
       "onboard_time": 1661931388,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 342504,
-      "num": 342504,
-      "word": "女孩入学第一天仪式感拉满了",
-      "onboard_time": 1661931388,
-      "rank": 45,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 339069,
@@ -699,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325023,
-      "num": 325023,
-      "word": "00后的开学行李箱有多野",
-      "onboard_time": 1661932528,
-      "rank": 18,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 323943,
       "num": 281195,
       "word": "虞书欣片场拳打脚踢花絮",
@@ -745,6 +761,14 @@
       "onboard_time": 1661922991,
       "rank": 22,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 312571,
+      "num": 312571,
+      "word": "石家庄一大哥用铁锹拍晕鳄雀鳝",
+      "onboard_time": 1661933968,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312431,
@@ -795,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287719,
+      "num": 287719,
+      "word": "郭艾伦",
+      "onboard_time": 1661934149,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287348,
       "num": 287348,
       "word": "歼15首飞画面",
       "onboard_time": 1661917710,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 285561,
+      "num": 285561,
+      "word": "奶茶店员受伤顾客跑去买药帮止血",
+      "onboard_time": 1661933307,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 276016,
@@ -817,6 +857,14 @@
       "onboard_time": 1661919870,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272371,
+      "num": 272371,
+      "word": "隐入尘烟票房破4000万",
+      "onboard_time": 1661933307,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 271889,
@@ -905,6 +953,14 @@
       "onboard_time": 1661922811,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255743,
+      "num": 237582,
+      "word": "大润发出周边了",
+      "onboard_time": 1661934269,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 249680,
@@ -1035,14 +1091,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 204848,
-      "num": 204848,
-      "word": "奶茶店员受伤顾客跑去买药帮止血",
-      "onboard_time": 1661933307,
-      "rank": 27,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 202005,
       "num": 202005,
       "word": "戈尔巴乔夫个人生平",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1661931868,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200414,
-      "num": 200414,
-      "word": "隐入尘烟票房破4000万",
-      "onboard_time": 1661933307,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 199113,
@@ -1187,14 +1227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166606,
-      "num": 166606,
-      "word": "石家庄一大哥用铁锹拍晕鳄雀鳝",
-      "onboard_time": 1661933968,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166072,
       "num": 166072,
       "word": "石家庄疫情防控",
@@ -1299,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143381,
-      "num": 143381,
-      "word": "郭艾伦",
-      "onboard_time": 1661934149,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140405,
       "num": 140405,
       "word": "趁水上乐园起浪拽走金项链",
@@ -1371,14 +1395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 131359,
-      "num": 131359,
-      "word": "大润发出周边了",
-      "onboard_time": 1661934269,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128650,
       "num": 128650,
       "word": "2022年年度大戏开学",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1661929229,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 104163,
+      "num": 104163,
+      "word": "健康生活要做到三减三健",
+      "onboard_time": 1661933729,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 104095,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1661881755,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20091,
+      "num": 1068165,
+      "word": "100秒看服贸会亮点",
+      "onboard_time": 1661934991,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18357,
