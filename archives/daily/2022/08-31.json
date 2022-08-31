@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661916515344,
+  "endTime": 1661922145060,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -9,6 +9,14 @@
       "onboard_time": 1661900660,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2694006,
+      "num": 2694006,
+      "word": "二舅作者将发布澄清视频",
+      "onboard_time": 1661914529,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2429638,
@@ -43,12 +51,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1773249,
-      "num": 1773249,
-      "word": "二舅作者将发布澄清视频",
-      "onboard_time": 1661914529,
-      "rank": 0,
-      "category": "社会新闻,网红"
+      "raw_hot": 1758011,
+      "num": 1758011,
+      "word": "2021年我国离婚人数大幅下降",
+      "onboard_time": 1661918968,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1597723,
@@ -67,12 +75,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1372462,
+      "num": 447543,
+      "word": "杨幂王鹤棣密逃4同框路透",
+      "onboard_time": 1661921432,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1245619,
       "num": 1245619,
       "word": "LV开卖乒乓球拍售价1.8万元",
       "onboard_time": 1661909909,
       "rank": 3,
       "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 1114436,
+      "num": 1114436,
+      "word": "多家九价HPV疫苗进入3期临床",
+      "onboard_time": 1661914468,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074182,
@@ -107,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 897727,
+      "num": 897727,
+      "word": "郭晓婷配音原著三生石片段",
+      "onboard_time": 1661919691,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 874827,
       "num": 874827,
       "word": "离职一定要删的东西",
@@ -120,6 +152,14 @@
       "word": "陕西蓝田通报老人被群嘲事件",
       "onboard_time": 1661872293,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 812585,
+      "num": 812585,
+      "word": "阳澄湖大闸蟹恐缺席中秋",
+      "onboard_time": 1661920529,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -147,11 +187,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726704,
-      "num": 726704,
-      "word": "多家九价HPV疫苗进入3期临床",
-      "onboard_time": 1661914468,
-      "rank": 8,
+      "raw_hot": 697773,
+      "num": 493529,
+      "word": "悲痛到抽搐男子妻子已离世",
+      "onboard_time": 1661921251,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -227,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549965,
+      "num": 488173,
+      "word": "范世錡说姜小果干得漂亮",
+      "onboard_time": 1661916029,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 537009,
+      "num": 537009,
+      "word": "人民满意的公务员",
+      "onboard_time": 1661919030,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 535603,
       "num": 437002,
       "word": "没有了苍兰诀的第一天",
@@ -235,8 +291,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523421,
+      "num": 477168,
+      "word": "蔡依林泡面头封面",
+      "onboard_time": 1661916990,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 519759,
-      "num": 309213,
+      "num": 445956,
       "word": "Angelababy天鹅幻境氛围感大片",
       "onboard_time": 1661915790,
       "rank": 20,
@@ -275,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476071,
+      "num": 476071,
+      "word": "胡一天陈钰琪的身高差",
+      "onboard_time": 1661920232,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454472,
       "num": 244778,
       "word": "拉宏桑脱口秀首秀满灯晋级",
@@ -291,6 +363,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448651,
+      "num": 448651,
+      "word": "三大航半年亏损近500亿",
+      "onboard_time": 1661919992,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 448628,
+      "num": 448628,
+      "word": "二舅",
+      "onboard_time": 1661920232,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431801,
+      "num": 311938,
+      "word": "张远杂志发型",
+      "onboard_time": 1661920112,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 424165,
       "num": 424165,
       "word": "亚洲人首次进入全球富豪前三",
@@ -305,6 +401,14 @@
       "onboard_time": 1661867132,
       "rank": 13,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 412145,
+      "num": 412145,
+      "word": "9岁重病女孩央求爸爸替她去上课",
+      "onboard_time": 1661915487,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 403666,
@@ -355,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367609,
+      "num": 367609,
+      "word": "4岁女孩狂推旋转门滑倒被卡腿",
+      "onboard_time": 1661918189,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "王源南京演唱会三周年",
       "onboard_time": 1661908470,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339069,
+      "num": 339069,
+      "word": "北京疫情防控",
+      "onboard_time": 1661919870,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336956,
@@ -371,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334317,
-      "num": 334317,
-      "word": "范世錡说姜小果干得漂亮",
-      "onboard_time": 1661916029,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 336887,
+      "num": 336887,
+      "word": "这些动物千万不能随便放生",
+      "onboard_time": 1661916391,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335926,
+      "num": 335926,
+      "word": "比亚迪回应巴菲特减持133万股",
+      "onboard_time": 1661918071,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 326673,
@@ -411,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312431,
+      "num": 312431,
+      "word": "成都消毒",
+      "onboard_time": 1661916990,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309410,
       "num": 309410,
       "word": "看一眼都觉得崩溃的程度",
@@ -435,12 +571,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287348,
+      "num": 287348,
+      "word": "歼15首飞画面",
+      "onboard_time": 1661917710,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 281195,
+      "num": 281195,
+      "word": "虞书欣片场拳打脚踢花絮",
+      "onboard_time": 1661921491,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276016,
       "num": 276016,
       "word": "8月30日增1326例本土无症状",
       "onboard_time": 1661911707,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272512,
+      "num": 272512,
+      "word": "郑钧中了刘芸的预言",
+      "onboard_time": 1661919870,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 271889,
@@ -467,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264789,
+      "num": 264789,
+      "word": "济宁鱼台发现1例确诊病例",
+      "onboard_time": 1661916391,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262633,
       "num": 262633,
       "word": "主人因喝多忘记把狗带回家",
       "onboard_time": 1661895190,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259871,
+      "num": 259871,
+      "word": "基金",
+      "onboard_time": 1661916806,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 249680,
@@ -571,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198064,
-      "num": 198064,
-      "word": "济宁鱼台发现1例确诊病例",
-      "onboard_time": 1661916391,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 197214,
+      "num": 197214,
+      "word": "沉香重华逆光版海报",
+      "onboard_time": 1661919030,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 195630,
@@ -609,14 +785,6 @@
       "onboard_time": 1661903849,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188363,
-      "num": 188363,
-      "word": "9岁重病女孩央求爸爸替她去上课",
-      "onboard_time": 1661915487,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181765,
@@ -739,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152068,
+      "num": 152068,
+      "word": "TES夏决加油",
+      "onboard_time": 1661916931,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149473,
       "num": 149473,
       "word": "为什么一定要好好告别",
@@ -795,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137729,
-      "num": 137729,
-      "word": "这些动物千万不能随便放生",
-      "onboard_time": 1661916391,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136627,
       "num": 136627,
       "word": "一条plog告别八月",
@@ -825,6 +993,14 @@
       "onboard_time": 1661907030,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132683,
+      "num": 132683,
+      "word": "全国中小学生开学日",
+      "onboard_time": 1661921371,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 128570,

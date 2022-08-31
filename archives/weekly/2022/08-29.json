@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661916515344,
+  "endTime": 1661922145060,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -201,6 +201,14 @@
       "onboard_time": 1661831729,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2694006,
+      "num": 2694006,
+      "word": "二舅作者将发布澄清视频",
+      "onboard_time": 1661914529,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2617127,
@@ -443,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1773249,
-      "num": 1773249,
-      "word": "二舅作者将发布澄清视频",
-      "onboard_time": 1661914529,
-      "rank": 0,
-      "category": "社会新闻,网红"
+      "raw_hot": 1758011,
+      "num": 1758011,
+      "word": "2021年我国离婚人数大幅下降",
+      "onboard_time": 1661918968,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1756514,
@@ -625,6 +633,14 @@
       "onboard_time": 1661849910,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1372462,
+      "num": 447543,
+      "word": "杨幂王鹤棣密逃4同框路透",
+      "onboard_time": 1661921432,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1361598,
@@ -883,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1114436,
+      "num": 1114436,
+      "word": "多家九价HPV疫苗进入3期临床",
+      "onboard_time": 1661914468,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112541,
       "num": 1112541,
       "word": "宿舍厕所没装门校方回应",
@@ -1131,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 897727,
+      "num": 897727,
+      "word": "郭晓婷配音原著三生石片段",
+      "onboard_time": 1661919691,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 895642,
       "num": 895642,
       "word": "丈夫作证帮妻子讨回给第三者的7万元",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1661831790,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 812585,
+      "num": 812585,
+      "word": "阳澄湖大闸蟹恐缺席中秋",
+      "onboard_time": 1661920529,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 812189,
@@ -1387,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 726704,
-      "num": 726704,
-      "word": "多家九价HPV疫苗进入3期临床",
-      "onboard_time": 1661914468,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 725923,
       "num": 688408,
       "word": "网传星汉灿烂明日庆功宴",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1661786616,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 697773,
+      "num": 493529,
+      "word": "悲痛到抽搐男子妻子已离世",
+      "onboard_time": 1661921251,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692102,
@@ -1923,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549965,
+      "num": 488173,
+      "word": "范世錡说姜小果干得漂亮",
+      "onboard_time": 1661916029,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545899,
       "num": 545899,
       "word": "这些行为都是性骚扰",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1661863350,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 537009,
+      "num": 537009,
+      "word": "人民满意的公务员",
+      "onboard_time": 1661919030,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 534544,
@@ -1995,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523421,
+      "num": 477168,
+      "word": "蔡依林泡面头封面",
+      "onboard_time": 1661916990,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 521665,
       "num": 208632,
       "word": "苍兰诀编剧",
@@ -2004,7 +2068,7 @@
     },
     {
       "raw_hot": 519759,
-      "num": 309213,
+      "num": 445956,
       "word": "Angelababy天鹅幻境氛围感大片",
       "onboard_time": 1661915790,
       "rank": 20,
@@ -2155,6 +2219,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 476071,
+      "num": 476071,
+      "word": "胡一天陈钰琪的身高差",
+      "onboard_time": 1661920232,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475284,
       "num": 475284,
       "word": "张彬彬换贾乃亮照片当头像",
@@ -2283,6 +2355,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448651,
+      "num": 448651,
+      "word": "三大航半年亏损近500亿",
+      "onboard_time": 1661919992,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 448628,
+      "num": 448628,
+      "word": "二舅",
+      "onboard_time": 1661920232,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448241,
       "num": 448241,
       "word": "王一博王劲松双王组合",
@@ -2361,6 +2449,14 @@
       "onboard_time": 1661826987,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431801,
+      "num": 311938,
+      "word": "张远杂志发型",
+      "onboard_time": 1661920112,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 428811,
@@ -2449,6 +2545,14 @@
       "onboard_time": 1661846490,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412145,
+      "num": 412145,
+      "word": "9岁重病女孩央求爸爸替她去上课",
+      "onboard_time": 1661915487,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 411897,
@@ -2771,6 +2875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 367609,
+      "num": 367609,
+      "word": "4岁女孩狂推旋转门滑倒被卡腿",
+      "onboard_time": 1661918189,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367267,
       "num": 296025,
       "word": "刘昊然出演古籍里的古曲宣传片",
@@ -2995,6 +3107,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 339069,
+      "num": 339069,
+      "word": "北京疫情防控",
+      "onboard_time": 1661919870,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337311,
       "num": 282883,
       "word": "唐周亲眼看着自己变透明",
@@ -3011,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336887,
+      "num": 336887,
+      "word": "这些动物千万不能随便放生",
+      "onboard_time": 1661916391,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336696,
       "num": 163342,
       "word": "苍兰诀 太岁",
@@ -3019,19 +3147,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335926,
+      "num": 335926,
+      "word": "比亚迪回应巴菲特减持133万股",
+      "onboard_time": 1661918071,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
       "onboard_time": 1661772690,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 334317,
-      "num": 334317,
-      "word": "范世錡说姜小果干得漂亮",
-      "onboard_time": 1661916029,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -3195,6 +3323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 312431,
+      "num": 312431,
+      "word": "成都消毒",
+      "onboard_time": 1661916990,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311447,
       "num": 311447,
       "word": "原来高铁还有静音车厢",
@@ -3355,12 +3491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287348,
+      "num": 287348,
+      "word": "歼15首飞画面",
+      "onboard_time": 1661917710,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 282393,
       "num": 282393,
       "word": "男子领养狗后勒索主人3000元",
       "onboard_time": 1661733450,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281195,
+      "num": 281195,
+      "word": "虞书欣片场拳打脚踢花絮",
+      "onboard_time": 1661921491,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 281070,
@@ -3465,6 +3617,14 @@
       "onboard_time": 1661695232,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272512,
+      "num": 272512,
+      "word": "郑钧中了刘芸的预言",
+      "onboard_time": 1661919870,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 271889,
@@ -3627,6 +3787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 264789,
+      "num": 264789,
+      "word": "济宁鱼台发现1例确诊病例",
+      "onboard_time": 1661916391,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264638,
       "num": 264638,
       "word": "月升沧海",
@@ -3705,6 +3873,14 @@
       "onboard_time": 1661703084,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259871,
+      "num": 259871,
+      "word": "基金",
+      "onboard_time": 1661916806,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 257682,
@@ -4291,14 +4467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198064,
-      "num": 198064,
-      "word": "济宁鱼台发现1例确诊病例",
-      "onboard_time": 1661916391,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197333,
       "num": 197333,
       "word": "沉香重华",
@@ -4313,6 +4481,14 @@
       "onboard_time": 1661692830,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197214,
+      "num": 197214,
+      "word": "沉香重华逆光版海报",
+      "onboard_time": 1661919030,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 197210,
@@ -4441,14 +4617,6 @@
       "onboard_time": 1661787156,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188363,
-      "num": 188363,
-      "word": "9岁重病女孩央求爸爸替她去上课",
-      "onboard_time": 1661915487,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 186818,
@@ -4731,6 +4899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152068,
+      "num": 152068,
+      "word": "TES夏决加油",
+      "onboard_time": 1661916931,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151865,
       "num": 151865,
       "word": "吴易昺创中国大陆男网历史",
@@ -4859,14 +5035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137729,
-      "num": 137729,
-      "word": "这些动物千万不能随便放生",
-      "onboard_time": 1661916391,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136627,
       "num": 136627,
       "word": "一条plog告别八月",
@@ -4897,6 +5065,14 @@
       "onboard_time": 1661907030,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132683,
+      "num": 132683,
+      "word": "全国中小学生开学日",
+      "onboard_time": 1661921371,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 132241,
