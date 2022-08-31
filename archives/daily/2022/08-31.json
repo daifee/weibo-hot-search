@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661937820417,
+  "endTime": 1661938883484,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -89,6 +89,14 @@
       "onboard_time": 1661921251,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1703702,
+      "num": 572506,
+      "word": "杨幂赵丽颖刘诗诗在拍古装剧路透",
+      "onboard_time": 1661937630,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1597723,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822382,
+      "num": 822382,
+      "word": "北京海淀新增一本土确诊",
+      "onboard_time": 1661936431,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812189,
       "num": 649668,
       "word": "北京地铁站内男子向女乘客小便被刑拘",
@@ -304,14 +320,6 @@
       "word": "200斤爸爸抱6斤女儿直犯难",
       "onboard_time": 1661889551,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 727982,
-      "num": 727982,
-      "word": "北京海淀新增一本土确诊",
-      "onboard_time": 1661936431,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572506,
-      "num": 572506,
-      "word": "杨幂赵丽颖刘诗诗在拍古装剧路透",
-      "onboard_time": 1661937630,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 550179,
       "num": 550179,
       "word": "人民满意的公务员",
@@ -456,6 +456,14 @@
       "word": "范世錡说姜小果干得漂亮",
       "onboard_time": 1661916029,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 539948,
+      "num": 539948,
+      "word": "隐入尘烟票房破4000万",
+      "onboard_time": 1661933307,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510298,
-      "num": 510298,
-      "word": "隐入尘烟票房破4000万",
-      "onboard_time": 1661933307,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509141,
       "num": 509141,
       "word": "三大航半年亏损近500亿",
@@ -544,6 +544,14 @@
       "word": "女子坐高铁把娃装进手提袋",
       "onboard_time": 1661903312,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482794,
+      "num": 482794,
+      "word": "广州核酸",
+      "onboard_time": 1661936608,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -603,14 +611,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 425829,
-      "num": 425829,
-      "word": "广州核酸",
-      "onboard_time": 1661936608,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424165,
       "num": 424165,
       "word": "亚洲人首次进入全球富豪前三",
@@ -633,6 +633,14 @@
       "onboard_time": 1661915487,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 411054,
+      "num": 411054,
+      "word": "消失的孩子细思极恐",
+      "onboard_time": 1661935591,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 403666,
@@ -715,14 +723,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 375811,
-      "num": 375811,
-      "word": "消失的孩子细思极恐",
-      "onboard_time": 1661935591,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "王源南京演唱会三周年",
@@ -745,6 +745,14 @@
       "onboard_time": 1661931388,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 348514,
+      "num": 348514,
+      "word": "呷哺呷哺上半年关店37家",
+      "onboard_time": 1661937032,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 339069,
@@ -785,6 +793,22 @@
       "onboard_time": 1661918071,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 333062,
+      "num": 333062,
+      "word": "北京新增病例曾到餐馆游泳馆",
+      "onboard_time": 1661937749,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330450,
+      "num": 330450,
+      "word": "吴磊月升沧海收官视频",
+      "onboard_time": 1661937451,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 326713,
@@ -891,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289109,
+      "num": 289109,
+      "word": "男孩脚疼上网自查要截肢被吓哭",
+      "onboard_time": 1661937510,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287348,
       "num": 287348,
       "word": "歼15首飞画面",
       "onboard_time": 1661917710,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 286567,
+      "num": 286567,
+      "word": "腾讯索尼收购FS社部分股份",
+      "onboard_time": 1661935531,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 276016,
@@ -977,14 +1017,6 @@
       "onboard_time": 1661895190,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262488,
-      "num": 262488,
-      "word": "腾讯索尼收购FS社部分股份",
-      "onboard_time": 1661935531,
-      "rank": 27,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 260038,
@@ -1075,12 +1107,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229913,
+      "num": 229913,
+      "word": "阿娇粉紫色天空plog",
+      "onboard_time": 1661938168,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226598,
       "num": 214251,
       "word": "今年超过40万人评分的影视剧",
       "onboard_time": 1661875707,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225759,
+      "num": 225759,
+      "word": "女子点外卖式报警接警员秒懂",
+      "onboard_time": 1661938049,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225546,
+      "num": 225546,
+      "word": "突然掌握了做饭好吃的秘诀",
+      "onboard_time": 1661937810,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 223897,
@@ -1155,12 +1211,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 202818,
-      "num": 202818,
-      "word": "北京新增病例曾到餐馆游泳馆",
-      "onboard_time": 1661937749,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 205953,
+      "num": 205953,
+      "word": "宝可梦盗版游戏公司被索赔5亿",
+      "onboard_time": 1661938409,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 202005,
@@ -1224,22 +1280,6 @@
       "word": "舍不得吴露可逃",
       "onboard_time": 1661903849,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 189462,
-      "num": 189462,
-      "word": "呷哺呷哺上半年关店37家",
-      "onboard_time": 1661937032,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 186016,
-      "num": 158731,
-      "word": "吴磊月升沧海收官视频",
-      "onboard_time": 1661937451,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1337,6 +1377,14 @@
       "onboard_time": 1661901323,
       "rank": 47,
       "category": "科技,教育"
+    },
+    {
+      "raw_hot": 160567,
+      "num": 160567,
+      "word": "北溪1号已暂停向欧洲供应天然气",
+      "onboard_time": 1661938168,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 160098,
@@ -1499,19 +1547,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125879,
-      "num": 122182,
-      "word": "突然掌握了做饭好吃的秘诀",
-      "onboard_time": 1661937810,
-      "rank": 47,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 122464,
-      "num": 122464,
-      "word": "男孩脚疼上网自查要截肢被吓哭",
-      "onboard_time": 1661937510,
-      "rank": 46,
+      "raw_hot": 128508,
+      "num": 128508,
+      "word": "济宁疫情防控",
+      "onboard_time": 1661938350,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1661938883484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229004,
+        "num": 1229004,
+        "word": "央视中秋晚会首波阵容官宣",
+        "onboard_time": 1661932768,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934782,
+        "num": 934782,
+        "word": "辽宁捕获4只金色蚊子",
+        "onboard_time": 1661927607,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50550,
+        "num": 852935,
+        "word": "100秒看服贸会亮点",
+        "onboard_time": 1661934991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822382,
+        "num": 822382,
+        "word": "北京海淀新增一本土确诊",
+        "onboard_time": 1661936431,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656975,
+        "num": 656975,
+        "word": "官方回应涉疫理发店消杀被收1.6万元",
+        "onboard_time": 1661932709,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656148,
+        "num": 656148,
+        "word": "老人避开瞬间房子被巨石砸穿",
+        "onboard_time": 1661930668,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617900,
+        "num": 617900,
+        "word": "悲痛到抽搐男子妻子已离世",
+        "onboard_time": 1661921251,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653259,
+        "num": 607323,
+        "word": "深圳核酸",
+        "onboard_time": 1661934629,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539948,
+        "num": 539948,
+        "word": "隐入尘烟票房破4000万",
+        "onboard_time": 1661933307,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529938,
+        "num": 529938,
+        "word": "宇宙少女雪娥EXY车祸",
+        "onboard_time": 1661927485,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1703702,
+        "num": 517739,
+        "word": "杨幂赵丽颖刘诗诗在拍古装剧路透",
+        "onboard_time": 1661937630,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1501113,
+        "num": 514740,
+        "word": "刘畊宏道歉",
+        "onboard_time": 1661923171,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 504972,
+        "num": 504972,
+        "word": "郭艾伦",
+        "onboard_time": 1661934149,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490432,
+        "num": 490432,
+        "word": "成都高新区疫情防控",
+        "onboard_time": 1661935829,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482794,
+        "num": 482794,
+        "word": "广州核酸",
+        "onboard_time": 1661936608,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476400,
+        "num": 476400,
+        "word": "石家庄一大哥用铁锹拍晕鳄雀鳝",
+        "onboard_time": 1661933968,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411054,
+        "num": 411054,
+        "word": "消失的孩子细思极恐",
+        "onboard_time": 1661935591,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387975,
+        "num": 387975,
+        "word": "奶茶店员受伤顾客跑去买药帮止血",
+        "onboard_time": 1661933307,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 348514,
+        "num": 348514,
+        "word": "呷哺呷哺上半年关店37家",
+        "onboard_time": 1661937032,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 333062,
+        "num": 333062,
+        "word": "北京新增病例曾到餐馆游泳馆",
+        "onboard_time": 1661937749,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421645,
+        "num": 332155,
+        "word": "陈哲远踩掉赵露思鞋",
+        "onboard_time": 1661931207,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330450,
+        "num": 330450,
+        "word": "吴磊月升沧海收官视频",
+        "onboard_time": 1661937451,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318774,
+        "num": 318774,
+        "word": "校友聚会5人跳阳澄湖救起老人",
+        "onboard_time": 1661931329,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 300008,
+        "num": 300008,
+        "word": "林志颖体重慢慢恢复中",
+        "onboard_time": 1661934509,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289109,
+        "num": 289109,
+        "word": "男孩脚疼上网自查要截肢被吓哭",
+        "onboard_time": 1661937510,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286567,
+        "num": 286567,
+        "word": "腾讯索尼收购FS社部分股份",
+        "onboard_time": 1661935531,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 286045,
+        "num": 286045,
+        "word": "女孩入学第一天仪式感拉满了",
+        "onboard_time": 1661931388,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 279333,
+        "num": 279333,
+        "word": "一定不要让孩子离开自己的视线",
+        "onboard_time": 1661930071,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277614,
+        "num": 277614,
+        "word": "英雄联盟",
+        "onboard_time": 1661931207,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258500,
+        "num": 258500,
+        "word": "00后的开学行李箱有多野",
+        "onboard_time": 1661932528,
+        "rank": 29,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 270294,
+        "num": 252575,
+        "word": "陈晓谈再也不演吴振峰了",
+        "onboard_time": 1661926829,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245429,
+        "num": 245429,
+        "word": "邢菲双剧同时开播",
+        "onboard_time": 1661932168,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242926,
+        "num": 242926,
+        "word": "网易收购底特律变人开发商",
+        "onboard_time": 1661935893,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237317,
+        "num": 237317,
+        "word": "张极张泽禹参加高中开学典礼",
+        "onboard_time": 1661936488,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236254,
+        "num": 236254,
+        "word": "东方青苍配音念尊上告别信",
+        "onboard_time": 1661929109,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229913,
+        "num": 229913,
+        "word": "阿娇粉紫色天空plog",
+        "onboard_time": 1661938168,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225759,
+        "num": 225759,
+        "word": "女子点外卖式报警接警员秒懂",
+        "onboard_time": 1661938049,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225546,
+        "num": 225546,
+        "word": "突然掌握了做饭好吃的秘诀",
+        "onboard_time": 1661937810,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 222270,
+        "num": 222270,
+        "word": "教辅",
+        "onboard_time": 1661928866,
+        "rank": 38,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 205953,
+        "num": 205953,
+        "word": "宝可梦盗版游戏公司被索赔5亿",
+        "onboard_time": 1661938409,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204565,
+        "num": 204565,
+        "word": "男方工资上交受不受公证保护",
+        "onboard_time": 1661922391,
+        "rank": 40,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 195723,
+        "num": 195723,
+        "word": "多家九价HPV疫苗进入3期临床",
+        "onboard_time": 1661914468,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179970,
+        "num": 179970,
+        "word": "九尾落水",
+        "onboard_time": 1661924728,
+        "rank": 42,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 160567,
+        "num": 160567,
+        "word": "北溪1号已暂停向欧洲供应天然气",
+        "onboard_time": 1661938168,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 154470,
+        "num": 154470,
+        "word": "阳澄湖大闸蟹恐缺席中秋",
+        "onboard_time": 1661920529,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142542,
+        "num": 142542,
+        "word": "超2亿人点外卖选无需餐具",
+        "onboard_time": 1661922331,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133245,
+        "num": 133245,
+        "word": "北京疫情防控",
+        "onboard_time": 1661936130,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130630,
+        "num": 130630,
+        "word": "戈尔巴乔夫去世",
+        "onboard_time": 1661900660,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128508,
+        "num": 128508,
+        "word": "济宁疫情防控",
+        "onboard_time": 1661938350,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 127844,
+        "word": "妻子带失明丈夫跑步近30年",
+        "onboard_time": 1661922212,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}
