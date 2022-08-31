@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661932298950,
+  "endTime": 1661934451508,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1412905,
+      "num": 1412905,
+      "word": "央视中秋晚会首波阵容官宣",
+      "onboard_time": 1661932768,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1372462,
       "num": 447543,
       "word": "杨幂王鹤棣密逃4同框路透",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1112321,
-      "num": 251958,
+      "num": 314029,
       "word": "陈哲远踩掉赵露思鞋",
       "onboard_time": 1661931207,
       "rank": 20,
@@ -193,6 +201,14 @@
       "onboard_time": 1661907030,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 985850,
+      "num": 985850,
+      "word": "老人避开瞬间房子被巨石砸穿",
+      "onboard_time": 1661930668,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979885,
@@ -331,12 +347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634422,
+      "num": 634422,
+      "word": "一定不要让孩子离开自己的视线",
+      "onboard_time": 1661930071,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600181,
       "num": 452960,
       "word": "于正全员加速中第一季编剧",
       "onboard_time": 1661873130,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592250,
+      "num": 592250,
+      "word": "英雄联盟",
+      "onboard_time": 1661931207,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 581878,
@@ -449,6 +481,14 @@
       "onboard_time": 1661920232,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457373,
+      "num": 457373,
+      "word": "校友聚会5人跳阳澄湖救起老人",
+      "onboard_time": 1661931329,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 454472,
@@ -579,11 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384125,
-      "num": 384125,
-      "word": "一定不要让孩子离开自己的视线",
-      "onboard_time": 1661930071,
-      "rank": 17,
+      "raw_hot": 369187,
+      "num": 369187,
+      "word": "官方回应涉疫理发店消杀被收1.6万元",
+      "onboard_time": 1661932709,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -595,20 +635,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 362238,
-      "num": 362238,
-      "word": "老人避开瞬间房子被巨石砸穿",
-      "onboard_time": 1661930668,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353386,
       "num": 353386,
       "word": "在杨紫的歌声中感受美好新时代",
       "onboard_time": 1661931388,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342504,
+      "num": 342504,
+      "word": "女孩入学第一天仪式感拉满了",
+      "onboard_time": 1661931388,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 339069,
@@ -643,12 +683,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 326713,
+      "num": 326713,
+      "word": "邢菲双剧同时开播",
+      "onboard_time": 1661932168,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326673,
       "num": 326673,
       "word": "男孩赶作业敲得比发电报还快",
       "onboard_time": 1661894651,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325023,
+      "num": 325023,
+      "word": "00后的开学行李箱有多野",
+      "onboard_time": 1661932528,
+      "rank": 18,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 323943,
@@ -851,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258047,
-      "num": 258047,
-      "word": "英雄联盟",
-      "onboard_time": 1661931207,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 249680,
       "num": 249680,
       "word": "家中老人",
@@ -987,12 +1035,36 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 204848,
+      "num": 204848,
+      "word": "奶茶店员受伤顾客跑去买药帮止血",
+      "onboard_time": 1661933307,
+      "rank": 27,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 202005,
       "num": 202005,
       "word": "戈尔巴乔夫个人生平",
       "onboard_time": 1661926409,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 201523,
+      "num": 201523,
+      "word": "黑龙江新增本土确诊13例无症状69例",
+      "onboard_time": 1661931868,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200414,
+      "num": 200414,
+      "word": "隐入尘烟票房破4000万",
+      "onboard_time": 1661933307,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 199113,
@@ -1041,22 +1113,6 @@
       "onboard_time": 1661903849,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190956,
-      "num": 190956,
-      "word": "校友聚会5人跳阳澄湖救起老人",
-      "onboard_time": 1661931329,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 183739,
-      "num": 183739,
-      "word": "女孩入学第一天仪式感拉满了",
-      "onboard_time": 1661931388,
-      "rank": 45,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 181765,
@@ -1131,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166606,
+      "num": 166606,
+      "word": "石家庄一大哥用铁锹拍晕鳄雀鳝",
+      "onboard_time": 1661933968,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166072,
       "num": 166072,
       "word": "石家庄疫情防控",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1661869535,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162101,
-      "num": 162101,
-      "word": "黑龙江新增本土确诊13例无症状69例",
-      "onboard_time": 1661931868,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161429,
@@ -1235,20 +1291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146225,
-      "num": 146225,
-      "word": "邢菲双剧同时开播",
-      "onboard_time": 1661932168,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143501,
       "num": 143501,
       "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
       "onboard_time": 1661853688,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143381,
+      "num": 143381,
+      "word": "郭艾伦",
+      "onboard_time": 1661934149,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 140405,
@@ -1315,6 +1371,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131359,
+      "num": 131359,
+      "word": "大润发出周边了",
+      "onboard_time": 1661934269,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128650,
+      "num": 128650,
+      "word": "2022年年度大戏开学",
+      "onboard_time": 1661932949,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128570,
       "num": 128570,
       "word": "2022LPL夏决",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1661910449,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119620,
+      "num": 119620,
+      "word": "高三新生奥赛夺金被保送北大",
+      "onboard_time": 1661934390,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 105495,
