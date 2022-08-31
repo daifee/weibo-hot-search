@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661922871179,
+  "endTime": 1661928051494,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -9,6 +9,14 @@
       "onboard_time": 1661900660,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 4587556,
+      "num": 4587556,
+      "word": "刘畊宏道歉",
+      "onboard_time": 1661923171,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2694006,
@@ -59,19 +67,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1738149,
+      "num": 1738149,
+      "word": "悲痛到抽搐男子妻子已离世",
+      "onboard_time": 1661921251,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1597723,
       "num": 995046,
       "word": "HPV九价疫苗扩龄至9-45岁",
       "onboard_time": 1661863110,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1453561,
-      "num": 1453561,
-      "word": "悲痛到抽搐男子妻子已离世",
-      "onboard_time": 1661921251,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211178,
+      "num": 1211178,
+      "word": "男方工资上交受不受公证保护",
+      "onboard_time": 1661922391,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1114436,
       "num": 1114436,
       "word": "多家九价HPV疫苗进入3期临床",
@@ -139,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 983428,
+      "num": 983428,
+      "word": "后妈抚养继子20年后被拒绝赡养",
+      "onboard_time": 1661925928,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 979885,
       "num": 979885,
       "word": "比亚迪",
@@ -153,6 +177,22 @@
       "onboard_time": 1661919691,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 889869,
+      "num": 889869,
+      "word": "九尾落水",
+      "onboard_time": 1661924728,
+      "rank": 6,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 885793,
+      "num": 885793,
+      "word": "陈晓谈再也不演吴振峰了",
+      "onboard_time": 1661926829,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 874827,
@@ -243,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603745,
+      "num": 492555,
+      "word": "宇宙少女雪娥EXY车祸",
+      "onboard_time": 1661927485,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600181,
       "num": 452960,
       "word": "于正全员加速中第一季编剧",
@@ -329,6 +377,14 @@
       "onboard_time": 1661919992,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 493898,
+      "num": 493898,
+      "word": "超2亿人点外卖选无需餐具",
+      "onboard_time": 1661922331,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486687,
@@ -443,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391414,
+      "num": 391414,
+      "word": "陈宇摔文件王一博来捡",
+      "onboard_time": 1661925269,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390444,
       "num": 347799,
       "word": "网传章子怡赵丽颖合作双女主剧",
@@ -465,6 +529,14 @@
       "onboard_time": 1661877865,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382771,
+      "num": 382771,
+      "word": "爷孙同患癌父亲日扛20吨水泥救爷俩",
+      "onboard_time": 1661923530,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364998,
@@ -547,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316078,
+      "num": 233906,
+      "word": "清清落水",
+      "onboard_time": 1661922991,
+      "rank": 22,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 312431,
       "num": 312431,
       "word": "成都消毒",
@@ -561,6 +641,14 @@
       "onboard_time": 1661875171,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298055,
+      "num": 298055,
+      "word": "妻子带失明丈夫跑步近30年",
+      "onboard_time": 1661922212,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291666,
@@ -627,11 +715,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267583,
+      "num": 227641,
+      "word": "苍兰诀泰语配音版预告",
+      "onboard_time": 1661923591,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264789,
       "num": 264789,
       "word": "济宁鱼台发现1例确诊病例",
       "onboard_time": 1661916391,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264357,
+      "num": 264357,
+      "word": "熊孩子踹高铁小桌板家长无动于衷",
+      "onboard_time": 1661923770,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -649,6 +753,14 @@
       "onboard_time": 1661916806,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 259720,
+      "num": 170149,
+      "word": "徐明浩直播",
+      "onboard_time": 1661922811,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 249680,
@@ -673,14 +785,6 @@
       "onboard_time": 1661858309,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236043,
-      "num": 127413,
-      "word": "徐明浩直播",
-      "onboard_time": 1661922811,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 233214,
@@ -723,6 +827,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221780,
+      "num": 146877,
+      "word": "心疼敖子逸演的陈暮光",
+      "onboard_time": 1661927787,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221039,
+      "num": 221039,
+      "word": "辽宁捕获4只金色蚊子",
+      "onboard_time": 1661927607,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220682,
       "num": 220682,
       "word": "玉骨遥",
@@ -745,6 +865,14 @@
       "onboard_time": 1661915069,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202629,
+      "num": 145878,
+      "word": "应渊2.0周里周气",
+      "onboard_time": 1661927907,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 199113,
@@ -809,14 +937,6 @@
       "onboard_time": 1661913208,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 179368,
-      "num": 179368,
-      "word": "超2亿人点外卖选无需餐具",
-      "onboard_time": 1661922331,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176779,
@@ -899,20 +1019,20 @@
       "category": "科技,教育"
     },
     {
-      "raw_hot": 161271,
-      "num": 161271,
-      "word": "男方工资上交受不受公证保护",
-      "onboard_time": 1661922391,
-      "rank": 44,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 160098,
       "num": 160098,
       "word": "教育部王登峰被查",
       "onboard_time": 1661856687,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157498,
+      "num": 157498,
+      "word": "原来它们下了班也会放飞自我",
+      "onboard_time": 1661927067,
+      "rank": 36,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 157192,
@@ -931,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154381,
-      "num": 154381,
-      "word": "妻子带失明丈夫跑步近30年",
-      "onboard_time": 1661922212,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 154473,
+      "num": 154473,
+      "word": "微博新表情收到",
+      "onboard_time": 1661924909,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 152068,
@@ -969,6 +1089,14 @@
       "onboard_time": 1661853688,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141093,
+      "num": 141093,
+      "word": "戈尔巴乔夫个人生平",
+      "onboard_time": 1661926409,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 140405,
@@ -1041,6 +1169,14 @@
       "onboard_time": 1661865571,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123321,
+      "num": 123321,
+      "word": "云南消防吃上重庆火锅",
+      "onboard_time": 1661927485,
+      "rank": 47,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 121448,
