@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1661971453543,
+  "endTime": 1661973536105,
   "band_list": [
     {
       "raw_hot": 1837434,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213968,
+      "num": 213968,
+      "word": "理塘文旅回应丁真商标风波",
+      "onboard_time": 1661970014,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 209980,
       "num": 209980,
       "word": "成都学生五天五检",
@@ -289,14 +297,6 @@
       "onboard_time": 1661949811,
       "rank": 35,
       "category": "时尚,体育"
-    },
-    {
-      "raw_hot": 142734,
-      "num": 97536,
-      "word": "理塘文旅回应丁真商标风波",
-      "onboard_time": 1661970014,
-      "rank": 13,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 142498,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75881,
+      "num": 75881,
+      "word": "刘畊宏带货假燕窝公司已被吊销",
+      "onboard_time": 1661970974,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 74489,
       "num": 74489,
       "word": "大熊猫宝宝突然汪了一声",
@@ -457,6 +465,14 @@
       "onboard_time": 1661971093,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7281,
+      "num": 14675,
+      "word": "智能识图式聊天",
+      "onboard_time": 1661973492,
+      "rank": 49,
+      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [
