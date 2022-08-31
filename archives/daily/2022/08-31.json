@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661945756229,
+  "endTime": 1661950137419,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -17,6 +17,14 @@
       "onboard_time": 1661923171,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3519172,
+      "num": 3519172,
+      "word": "公司不聘用手机号倒数第五位是5的人",
+      "onboard_time": 1661946508,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2694006,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280709,
+      "num": 1280709,
+      "word": "男子晒老婆结婚生娃前后对比",
+      "onboard_time": 1661944648,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1245619,
       "num": 1245619,
       "word": "LV开卖乒乓球拍售价1.8万元",
@@ -193,6 +209,14 @@
       "onboard_time": 1661926829,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1132724,
+      "num": 1132724,
+      "word": "苍兰诀角色号还在更新",
+      "onboard_time": 1661948908,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1114436,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 982299,
+      "num": 982299,
+      "word": "原来年龄真的只是一个数字",
+      "onboard_time": 1661943687,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 979885,
       "num": 979885,
       "word": "比亚迪",
@@ -281,6 +313,14 @@
       "onboard_time": 1661927485,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 916778,
+      "num": 916778,
+      "word": "顾客吐槽海底捞光锅底料碗就上百元",
+      "onboard_time": 1661947290,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 897727,
@@ -379,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806771,
+      "num": 806771,
+      "word": "易中天下架",
+      "onboard_time": 1661948969,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786474,
       "num": 308954,
       "word": "于正晒第一次见朱一龙时的合照",
@@ -393,6 +441,14 @@
       "onboard_time": 1661889551,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766964,
+      "num": 391966,
+      "word": "苏新皓中考",
+      "onboard_time": 1661947468,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 731876,
@@ -419,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 719032,
-      "num": 719032,
-      "word": "原来年龄真的只是一个数字",
-      "onboard_time": 1661943687,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 696582,
+      "num": 382327,
+      "word": "王一博八月份八种身份",
+      "onboard_time": 1661949211,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 669229,
@@ -555,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541921,
+      "num": 541921,
+      "word": "广东一女生切月饼切出电线",
+      "onboard_time": 1661947527,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539948,
       "num": 539948,
       "word": "隐入尘烟票房破4000万",
       "onboard_time": 1661933307,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 536422,
+      "num": 223840,
+      "word": "赵露思分享庆功宴合照四宫格",
+      "onboard_time": 1661946089,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 535603,
@@ -1107,6 +1179,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 285268,
+      "num": 156072,
+      "word": "脱口秀大会",
+      "onboard_time": 1661948908,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283671,
+      "num": 156788,
+      "word": "余景天自导自演短片",
+      "onboard_time": 1661949568,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276016,
       "num": 276016,
       "word": "8月30日增1326例本土无症状",
@@ -1171,14 +1259,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 265577,
-      "num": 265577,
-      "word": "男子晒老婆结婚生娃前后对比",
-      "onboard_time": 1661944648,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264789,
       "num": 264789,
       "word": "济宁鱼台发现1例确诊病例",
@@ -1235,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252929,
+      "num": 153326,
+      "word": "覆流年",
+      "onboard_time": 1661949388,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249680,
       "num": 249680,
       "word": "家中老人",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1661935893,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248001,
+      "num": 133543,
+      "word": "梁爽录音事件反转",
+      "onboard_time": 1661949749,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 240633,
@@ -1289,6 +1385,14 @@
       "onboard_time": 1661944107,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231469,
+      "num": 231469,
+      "word": "北京43岁女子冻龄般颜值",
+      "onboard_time": 1661948309,
+      "rank": 18,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 231464,
@@ -1771,6 +1875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129887,
+      "num": 129887,
+      "word": "海珠疫情防控",
+      "onboard_time": 1661946688,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128650,
       "num": 128650,
       "word": "2022年年度大戏开学",
@@ -1809,6 +1921,14 @@
       "onboard_time": 1661934390,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 105603,
+      "num": 105603,
+      "word": "LV回应乒乓球拍售价1.8万",
+      "onboard_time": 1661949811,
+      "rank": 47,
+      "category": "时尚,体育"
     },
     {
       "raw_hot": 105495,
@@ -1873,6 +1993,14 @@
       "onboard_time": 1661871518,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 92742,
+      "num": 92742,
+      "word": "滕哈格确认C罗留队",
+      "onboard_time": 1661950110,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85991,
@@ -1945,6 +2073,14 @@
       "onboard_time": 1661868397,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30457,
+      "num": 1167613,
+      "word": "这批新规9月起施行",
+      "onboard_time": 1661949867,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 26466,
