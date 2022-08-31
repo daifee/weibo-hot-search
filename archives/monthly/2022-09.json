@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1661966707219,
+  "endTime": 1661967617399,
   "band_list": [
     {
       "raw_hot": 1837434,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235657,
+      "num": 224371,
+      "word": "杨幂工作室回应长沙活动被取消",
+      "onboard_time": 1661965578,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231311,
       "num": 231311,
       "word": "邢菲覆流年演技",
@@ -209,14 +217,6 @@
       "onboard_time": 1661958574,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199508,
-      "num": 199508,
-      "word": "杨幂工作室回应长沙活动被取消",
-      "onboard_time": 1661965578,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 187863,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74489,
+      "num": 74489,
+      "word": "大熊猫宝宝突然汪了一声",
+      "onboard_time": 1661964501,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73086,
       "num": 73086,
       "word": "原来年龄真的只是一个数字",
@@ -425,14 +433,6 @@
       "onboard_time": 1661954369,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59219,
-      "num": 59219,
-      "word": "大熊猫宝宝突然汪了一声",
-      "onboard_time": 1661964501,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
