@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661928051494,
+  "endTime": 1661929070996,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -107,6 +107,14 @@
       "category": "时尚,社会新闻"
     },
     {
+      "raw_hot": 1242235,
+      "num": 1242235,
+      "word": "后妈抚养继子20年后被拒绝赡养",
+      "onboard_time": 1661925928,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234757,
       "num": 1234757,
       "word": "阳澄湖大闸蟹恐缺席中秋",
@@ -121,6 +129,14 @@
       "onboard_time": 1661922391,
       "rank": 44,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1166450,
+      "num": 1166450,
+      "word": "陈晓谈再也不演吴振峰了",
+      "onboard_time": 1661926829,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1114436,
@@ -155,20 +171,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 983428,
-      "num": 983428,
-      "word": "后妈抚养继子20年后被拒绝赡养",
-      "onboard_time": 1661925928,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 979885,
       "num": 979885,
       "word": "比亚迪",
       "onboard_time": 1661911408,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 967637,
+      "num": 967637,
+      "word": "辽宁捕获4只金色蚊子",
+      "onboard_time": 1661927607,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907192,
+      "num": 525265,
+      "word": "宇宙少女雪娥EXY车祸",
+      "onboard_time": 1661927485,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 897727,
@@ -185,14 +209,6 @@
       "onboard_time": 1661924728,
       "rank": 6,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 885793,
-      "num": 885793,
-      "word": "陈晓谈再也不演吴振峰了",
-      "onboard_time": 1661926829,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 874827,
@@ -281,14 +297,6 @@
       "onboard_time": 1661875049,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 603745,
-      "num": 492555,
-      "word": "宇宙少女雪娥EXY车祸",
-      "onboard_time": 1661927485,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 600181,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398452,
+      "num": 398452,
+      "word": "爷孙同患癌父亲日扛20吨水泥救爷俩",
+      "onboard_time": 1661923530,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392056,
       "num": 392056,
       "word": "披荆斩棘一公梦境列车大片",
@@ -529,14 +545,6 @@
       "onboard_time": 1661877865,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382771,
-      "num": 382771,
-      "word": "爷孙同患癌父亲日扛20吨水泥救爷俩",
-      "onboard_time": 1661923530,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364998,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 316078,
-      "num": 233906,
+      "num": 261310,
       "word": "清清落水",
       "onboard_time": 1661922991,
       "rank": 22,
@@ -648,6 +656,14 @@
       "word": "妻子带失明丈夫跑步近30年",
       "onboard_time": 1661922212,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295591,
+      "num": 295591,
+      "word": "熊孩子踹高铁小桌板家长无动于衷",
+      "onboard_time": 1661923770,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275705,
+      "num": 275705,
+      "word": "教辅",
+      "onboard_time": 1661928866,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 272512,
       "num": 272512,
       "word": "郑钧中了刘芸的预言",
@@ -697,6 +721,14 @@
       "onboard_time": 1661908949,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271177,
+      "num": 271177,
+      "word": "苍兰诀泰语配音版预告",
+      "onboard_time": 1661923591,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 269892,
@@ -715,27 +747,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267583,
-      "num": 227641,
-      "word": "苍兰诀泰语配音版预告",
-      "onboard_time": 1661923591,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264789,
       "num": 264789,
       "word": "济宁鱼台发现1例确诊病例",
       "onboard_time": 1661916391,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264357,
-      "num": 264357,
-      "word": "熊孩子踹高铁小桌板家长无动于衷",
-      "onboard_time": 1661923770,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -747,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260038,
+      "num": 172435,
+      "word": "王源新歌海风吹好浪漫",
+      "onboard_time": 1661928269,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259871,
       "num": 259871,
       "word": "基金",
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 259720,
-      "num": 170149,
+      "num": 172100,
       "word": "徐明浩直播",
       "onboard_time": 1661922811,
       "rank": 47,
@@ -803,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231464,
+      "num": 171377,
+      "word": "应渊2.0周里周气",
+      "onboard_time": 1661927907,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226598,
       "num": 214251,
       "word": "今年超过40万人评分的影视剧",
       "onboard_time": 1661875707,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224738,
+      "num": 224738,
+      "word": "原来它们下了班也会放飞自我",
+      "onboard_time": 1661927067,
+      "rank": 36,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 223897,
@@ -828,19 +868,11 @@
     },
     {
       "raw_hot": 221780,
-      "num": 146877,
+      "num": 148906,
       "word": "心疼敖子逸演的陈暮光",
       "onboard_time": 1661927787,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221039,
-      "num": 221039,
-      "word": "辽宁捕获4只金色蚊子",
-      "onboard_time": 1661927607,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220682,
@@ -865,14 +897,6 @@
       "onboard_time": 1661915069,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202629,
-      "num": 145878,
-      "word": "应渊2.0周里周气",
-      "onboard_time": 1661927907,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 199113,
@@ -979,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169563,
+      "num": 169563,
+      "word": "云南消防吃上重庆火锅",
+      "onboard_time": 1661927485,
+      "rank": 47,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 169054,
       "num": 96975,
       "word": "江疏影欢乐颂4吻戏剧透",
@@ -1019,20 +1051,20 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 160162,
+      "num": 160162,
+      "word": "商户土豆涨价卖2元拟罚款30万",
+      "onboard_time": 1661928569,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160098,
       "num": 160098,
       "word": "教育部王登峰被查",
       "onboard_time": 1661856687,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157498,
-      "num": 157498,
-      "word": "原来它们下了班也会放飞自我",
-      "onboard_time": 1661927067,
-      "rank": 36,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 157192,
@@ -1155,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133502,
+      "num": 133502,
+      "word": "狗狗比我会摆姿势",
+      "onboard_time": 1661928688,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 132683,
       "num": 132683,
       "word": "全国中小学生开学日",
@@ -1171,14 +1211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123321,
-      "num": 123321,
-      "word": "云南消防吃上重庆火锅",
-      "onboard_time": 1661927485,
-      "rank": 47,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 121448,
       "num": 121448,
       "word": "重庆新增本土确诊7例",
@@ -1192,6 +1224,14 @@
       "word": "九价疫苗该如何预约",
       "onboard_time": 1661870199,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104095,
+      "num": 126856,
+      "word": "甘肃武威古浪县3.8级地震",
+      "onboard_time": 1661929049,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
