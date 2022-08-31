@@ -1,0 +1,410 @@
+{
+  "runTime": 1661916515344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773249,
+        "num": 1773249,
+        "word": "二舅作者将发布澄清视频",
+        "onboard_time": 1661914529,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1298879,
+        "num": 1298879,
+        "word": "顾客买酸奶过期1分钟索赔1000元",
+        "onboard_time": 1661906011,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22441,
+        "num": 1143635,
+        "word": "我国太阳探测卫星科学数据全球共享",
+        "onboard_time": 1661864073,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1051752,
+        "num": 1051752,
+        "word": "A股",
+        "onboard_time": 1661913388,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 999846,
+        "num": 999846,
+        "word": "六公主评苍兰诀",
+        "onboard_time": 1661908111,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2050831,
+        "num": 957222,
+        "word": "戈尔巴乔夫去世",
+        "onboard_time": 1661900660,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 841532,
+        "num": 841532,
+        "word": "LV开卖乒乓球拍售价1.8万元",
+        "onboard_time": 1661909909,
+        "rank": 6,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 831934,
+        "num": 831934,
+        "word": "HPV九价疫苗扩龄至9-45岁",
+        "onboard_time": 1661863110,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726704,
+        "num": 726704,
+        "word": "多家九价HPV疫苗进入3期临床",
+        "onboard_time": 1661914468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653088,
+        "num": 653088,
+        "word": "比亚迪",
+        "onboard_time": 1661911408,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1815951,
+        "num": 650092,
+        "word": "超市员工脱袜子光脚踩冷藏牛奶",
+        "onboard_time": 1661912069,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812189,
+        "num": 649668,
+        "word": "北京地铁站内男子向女乘客小便被刑拘",
+        "onboard_time": 1661914708,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638475,
+        "num": 638475,
+        "word": "思文 程璐",
+        "onboard_time": 1661907030,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581878,
+        "num": 581878,
+        "word": "10岁姐姐西瓜藏水哄1岁妹妹喝",
+        "onboard_time": 1661912548,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519561,
+        "num": 519561,
+        "word": "我国网民人均每周上网29.5小时",
+        "onboard_time": 1661911888,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 455626,
+        "num": 455626,
+        "word": "星汉因所有人而灿烂 月升因所有人而圆满",
+        "onboard_time": 1661910389,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392056,
+        "num": 392056,
+        "word": "披荆斩棘一公梦境列车大片",
+        "onboard_time": 1661915430,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379523,
+        "num": 379523,
+        "word": "四川疫情防控",
+        "onboard_time": 1661910029,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334317,
+        "num": 334317,
+        "word": "范世錡说姜小果干得漂亮",
+        "onboard_time": 1661916029,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318225,
+        "num": 318225,
+        "word": "新人坐公交车载亲朋参加婚礼",
+        "onboard_time": 1661913988,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519759,
+        "num": 309213,
+        "word": "Angelababy天鹅幻境氛围感大片",
+        "onboard_time": 1661915790,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510149,
+        "num": 308954,
+        "word": "于正晒第一次见朱一龙时的合照",
+        "onboard_time": 1661910631,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294061,
+        "num": 294061,
+        "word": "女子坐高铁把娃装进手提袋",
+        "onboard_time": 1661903312,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286479,
+        "num": 286479,
+        "word": "离职一定要删的东西",
+        "onboard_time": 1661868755,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276016,
+        "num": 276016,
+        "word": "8月30日增1326例本土无症状",
+        "onboard_time": 1661911707,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257575,
+        "num": 257575,
+        "word": "200斤爸爸抱6斤女儿直犯难",
+        "onboard_time": 1661889551,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253159,
+        "num": 253159,
+        "word": "苍兰诀 细节",
+        "onboard_time": 1661909970,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249680,
+        "num": 249680,
+        "word": "家中老人",
+        "onboard_time": 1661914589,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 232276,
+        "num": 232276,
+        "word": "上海疫情防控",
+        "onboard_time": 1661908829,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209838,
+        "num": 209838,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1661905532,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249466,
+        "num": 209213,
+        "word": "95生怼脸生图",
+        "onboard_time": 1661877865,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208525,
+        "num": 208525,
+        "word": "周笔畅密逃4收官路透",
+        "onboard_time": 1661915069,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198064,
+        "num": 198064,
+        "word": "济宁鱼台发现1例确诊病例",
+        "onboard_time": 1661916391,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188363,
+        "num": 188363,
+        "word": "9岁重病女孩央求爸爸替她去上课",
+        "onboard_time": 1661915487,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181140,
+        "num": 181140,
+        "word": "小学生开学典礼上围观兵校长满眼崇拜",
+        "onboard_time": 1661913208,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170260,
+        "num": 170260,
+        "word": "纳达尔",
+        "onboard_time": 1661913448,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168836,
+        "num": 168836,
+        "word": "超时空罗曼史官宣定档",
+        "onboard_time": 1661914048,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159989,
+        "num": 159989,
+        "word": "姜文你以为你最后不是一个人吗",
+        "onboard_time": 1661908949,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157838,
+        "num": 157838,
+        "word": "去年25至29岁结婚人数最多",
+        "onboard_time": 1661869599,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150143,
+        "num": 150143,
+        "word": "女孩猛推扭扭车致2岁宝宝摔落",
+        "onboard_time": 1661895672,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159717,
+        "num": 149908,
+        "word": "王源南京演唱会三周年",
+        "onboard_time": 1661908470,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148863,
+        "num": 148863,
+        "word": "周迅 忘记拍灯",
+        "onboard_time": 1661875049,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146873,
+        "num": 146873,
+        "word": "9月新规",
+        "onboard_time": 1661911769,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "男孩赶作业敲得比发电报还快",
+        "onboard_time": 1661894651,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137729,
+        "num": 137729,
+        "word": "这些动物千万不能随便放生",
+        "onboard_time": 1661916391,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137200,
+        "num": 137200,
+        "word": "趁水上乐园起浪拽走金项链",
+        "onboard_time": 1661913208,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137002,
+        "num": 137002,
+        "word": "专家解读九价接种年龄为何放宽",
+        "onboard_time": 1661906673,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136627,
+        "num": 136627,
+        "word": "一条plog告别八月",
+        "onboard_time": 1661915909,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 134638,
+        "num": 134638,
+        "word": "陕西蓝田通报老人被群嘲事件",
+        "onboard_time": 1661872293,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132257,
+        "num": 132257,
+        "word": "舍不得吴露可逃",
+        "onboard_time": 1661903849,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}

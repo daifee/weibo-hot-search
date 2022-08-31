@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661913638405,
+  "endTime": 1661916515344,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -19,6 +19,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1815951,
+      "num": 650092,
+      "word": "超市员工脱袜子光脚踩冷藏牛奶",
+      "onboard_time": 1661912069,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1799499,
       "num": 1799499,
       "word": "顾客买酸奶过期1分钟索赔1000元",
@@ -35,12 +43,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1635606,
-      "num": 580822,
-      "word": "超市员工脱袜子光脚踩冷藏牛奶",
-      "onboard_time": 1661912069,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1773249,
+      "num": 1773249,
+      "word": "二舅作者将发布澄清视频",
+      "onboard_time": 1661914529,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1597723,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051752,
+      "num": 1051752,
+      "word": "A股",
+      "onboard_time": 1661913388,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1008596,
       "num": 1008596,
       "word": "思文 程璐",
@@ -107,8 +123,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812189,
+      "num": 649668,
+      "word": "北京地铁站内男子向女乘客小便被刑拘",
+      "onboard_time": 1661914708,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786474,
-      "num": 271774,
+      "num": 308954,
       "word": "于正晒第一次见朱一龙时的合照",
       "onboard_time": 1661910631,
       "rank": 20,
@@ -120,6 +144,14 @@
       "word": "200斤爸爸抱6斤女儿直犯难",
       "onboard_time": 1661889551,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726704,
+      "num": 726704,
+      "word": "多家九价HPV疫苗进入3期临床",
+      "onboard_time": 1661914468,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -179,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581878,
+      "num": 581878,
+      "word": "10岁姐姐西瓜藏水哄1岁妹妹喝",
+      "onboard_time": 1661912548,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572758,
       "num": 572758,
       "word": "四川疫情防控",
@@ -193,6 +233,22 @@
       "onboard_time": 1661870801,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 519759,
+      "num": 309213,
+      "word": "Angelababy天鹅幻境氛围感大片",
+      "onboard_time": 1661915790,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519561,
+      "num": 519561,
+      "word": "我国网民人均每周上网29.5小时",
+      "onboard_time": 1661911888,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 514250,
@@ -275,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392056,
+      "num": 392056,
+      "word": "披荆斩棘一公梦境列车大片",
+      "onboard_time": 1661915430,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390444,
       "num": 347799,
       "word": "网传章子怡赵丽颖合作双女主剧",
@@ -291,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365743,
-      "num": 365743,
-      "word": "10岁姐姐西瓜藏水哄1岁妹妹喝",
-      "onboard_time": 1661912548,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "王源南京演唱会三周年",
@@ -313,6 +369,14 @@
       "onboard_time": 1661872951,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334317,
+      "num": 334317,
+      "word": "范世錡说姜小果干得漂亮",
+      "onboard_time": 1661916029,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 326673,
@@ -336,6 +400,14 @@
       "word": "23岁女子上班时突发脑出血",
       "onboard_time": 1661860169,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318225,
+      "num": 318225,
+      "word": "新人坐公交车载亲朋参加婚礼",
+      "onboard_time": 1661913988,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -363,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273058,
-      "num": 273058,
-      "word": "我国网民人均每周上网29.5小时",
-      "onboard_time": 1661911888,
-      "rank": 18,
-      "category": "科技,社会新闻"
+      "raw_hot": 276016,
+      "num": 276016,
+      "word": "8月30日增1326例本土无症状",
+      "onboard_time": 1661911707,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271889,
@@ -403,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249680,
+      "num": 249680,
+      "word": "家中老人",
+      "onboard_time": 1661914589,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 249438,
       "num": 249438,
       "word": "四川果农400块一车买水抢救橘树",
@@ -433,14 +513,6 @@
       "onboard_time": 1661907211,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231321,
-      "num": 231321,
-      "word": "A股",
-      "onboard_time": 1661913388,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 226598,
@@ -483,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208525,
+      "num": 208525,
+      "word": "周笔畅密逃4收官路透",
+      "onboard_time": 1661915069,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199113,
       "num": 144386,
       "word": "思文 回归",
       "onboard_time": 1661865996,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198064,
+      "num": 198064,
+      "word": "济宁鱼台发现1例确诊病例",
+      "onboard_time": 1661916391,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195630,
@@ -523,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188363,
+      "num": 188363,
+      "word": "9岁重病女孩央求爸爸替她去上课",
+      "onboard_time": 1661915487,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 181765,
       "num": 181765,
       "word": "石家庄新华区疫情防控",
       "onboard_time": 1661869475,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181140,
+      "num": 181140,
+      "word": "小学生开学典礼上围观兵校长满眼崇拜",
+      "onboard_time": 1661913208,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176779,
@@ -563,11 +667,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170260,
+      "num": 170260,
+      "word": "纳达尔",
+      "onboard_time": 1661913448,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169054,
       "num": 96975,
       "word": "江疏影欢乐颂4吻戏剧透",
       "onboard_time": 1661870260,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168836,
+      "num": 168836,
+      "word": "超时空罗曼史官宣定档",
+      "onboard_time": 1661914048,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -619,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151731,
-      "num": 151731,
-      "word": "8月30日增1326例本土无症状",
-      "onboard_time": 1661911707,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149473,
       "num": 149473,
       "word": "为什么一定要好好告别",
@@ -641,14 +753,6 @@
       "onboard_time": 1661902467,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144877,
-      "num": 144877,
-      "word": "小学生开学典礼上围观兵校长满眼崇拜",
-      "onboard_time": 1661913208,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143501,
@@ -683,20 +787,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 138904,
-      "num": 138904,
-      "word": "纳达尔",
-      "onboard_time": 1661913448,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138827,
       "num": 138827,
       "word": "无锡疫情防控",
       "onboard_time": 1661883913,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137729,
+      "num": 137729,
+      "word": "这些动物千万不能随便放生",
+      "onboard_time": 1661916391,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136627,
+      "num": 136627,
+      "word": "一条plog告别八月",
+      "onboard_time": 1661915909,
+      "rank": 47,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 134676,
