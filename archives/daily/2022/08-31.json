@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661902903186,
+  "endTime": 1661913638405,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -19,6 +19,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1799499,
+      "num": 1799499,
+      "word": "顾客买酸奶过期1分钟索赔1000元",
+      "onboard_time": 1661906011,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1779761,
       "num": 1779761,
       "word": "吴磊赵露思星汉灿烂庆功宴合照",
@@ -27,12 +35,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1635606,
+      "num": 580822,
+      "word": "超市员工脱袜子光脚踩冷藏牛奶",
+      "onboard_time": 1661912069,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1597723,
-      "num": 808376,
+      "num": 995046,
       "word": "HPV九价疫苗扩龄至9-45岁",
       "onboard_time": 1661863110,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1443989,
+      "num": 1443989,
+      "word": "六公主评苍兰诀",
+      "onboard_time": 1661908111,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1245619,
+      "num": 1245619,
+      "word": "LV开卖乒乓球拍售价1.8万元",
+      "onboard_time": 1661909909,
+      "rank": 3,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1074182,
@@ -41,6 +73,22 @@
       "onboard_time": 1661874687,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1008596,
+      "num": 1008596,
+      "word": "思文 程璐",
+      "onboard_time": 1661907030,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 979885,
+      "num": 979885,
+      "word": "比亚迪",
+      "onboard_time": 1661911408,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 874827,
@@ -59,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786474,
+      "num": 271774,
+      "word": "于正晒第一次见朱一龙时的合照",
+      "onboard_time": 1661910631,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 779214,
       "num": 779214,
       "word": "200斤爸爸抱6斤女儿直犯难",
       "onboard_time": 1661889551,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669229,
+      "num": 669229,
+      "word": "星汉因所有人而灿烂 月升因所有人而圆满",
+      "onboard_time": 1661910389,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 659062,
@@ -115,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572758,
+      "num": 572758,
+      "word": "四川疫情防控",
+      "onboard_time": 1661910029,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535603,
       "num": 437002,
       "word": "没有了苍兰诀的第一天",
@@ -129,6 +201,14 @@
       "onboard_time": 1661869055,
       "rank": 20,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 486687,
+      "num": 486687,
+      "word": "女子坐高铁把娃装进手提袋",
+      "onboard_time": 1661903312,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476922,
@@ -171,6 +251,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 403666,
+      "num": 403666,
+      "word": "上海疫情防控",
+      "onboard_time": 1661908829,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402786,
       "num": 402786,
       "word": "多抓鱼75元回收的衣服629元售卖",
@@ -201,6 +289,22 @@
       "onboard_time": 1661877865,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365743,
+      "num": 365743,
+      "word": "10岁姐姐西瓜藏水哄1岁妹妹喝",
+      "onboard_time": 1661912548,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364998,
+      "num": 364998,
+      "word": "王源南京演唱会三周年",
+      "onboard_time": 1661908470,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 336956,
@@ -259,6 +363,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273058,
+      "num": 273058,
+      "word": "我国网民人均每周上网29.5小时",
+      "onboard_time": 1661911888,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 271889,
+      "num": 271889,
+      "word": "姜文你以为你最后不是一个人吗",
+      "onboard_time": 1661908949,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269892,
+      "num": 269892,
+      "word": "苍兰诀 细节",
+      "onboard_time": 1661909970,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 269481,
+      "num": 269481,
+      "word": "广州海珠区疫情防控",
+      "onboard_time": 1661905532,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262633,
       "num": 262633,
       "word": "主人因喝多忘记把狗带回家",
@@ -281,6 +417,30 @@
       "onboard_time": 1661858309,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233214,
+      "num": 233214,
+      "word": "开学",
+      "onboard_time": 1661907695,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 232680,
+      "num": 232680,
+      "word": "河北省新增新型冠状病毒肺炎确诊病例1例",
+      "onboard_time": 1661907211,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231321,
+      "num": 231321,
+      "word": "A股",
+      "onboard_time": 1661913388,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 226598,
@@ -315,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208719,
+      "num": 208719,
+      "word": "9月新规",
+      "onboard_time": 1661911769,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199113,
       "num": 144386,
       "word": "思文 回归",
@@ -339,11 +507,35 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 192140,
+      "num": 192140,
+      "word": "律师现场演示为什么流行歌都那么像",
+      "onboard_time": 1661907331,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 191744,
+      "num": 191744,
+      "word": "舍不得吴露可逃",
+      "onboard_time": 1661903849,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181765,
       "num": 181765,
       "word": "石家庄新华区疫情防控",
       "onboard_time": 1661869475,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176779,
+      "num": 176779,
+      "word": "北京8月30日新增1例本土确诊",
+      "onboard_time": 1661905650,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -361,6 +553,14 @@
       "onboard_time": 1661902467,
       "rank": 32,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 171038,
+      "num": 171038,
+      "word": "专家解读九价接种年龄为何放宽",
+      "onboard_time": 1661906673,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169054,
@@ -387,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161429,
+      "num": 161429,
+      "word": "AI虚拟歌手入学上海音乐学院",
+      "onboard_time": 1661901323,
+      "rank": 47,
+      "category": "科技,教育"
+    },
+    {
       "raw_hot": 160098,
       "num": 160098,
       "word": "教育部王登峰被查",
@@ -411,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151731,
+      "num": 151731,
+      "word": "8月30日增1326例本土无症状",
+      "onboard_time": 1661911707,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149473,
       "num": 149473,
       "word": "为什么一定要好好告别",
@@ -427,11 +643,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144877,
+      "num": 144877,
+      "word": "小学生开学典礼上围观兵校长满眼崇拜",
+      "onboard_time": 1661913208,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 143501,
       "num": 143501,
       "word": "20岁女孩打耳洞长出腰果型肉疙瘩",
       "onboard_time": 1661853688,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140405,
+      "num": 140405,
+      "word": "趁水上乐园起浪拽走金项链",
+      "onboard_time": 1661913208,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -451,6 +683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 138904,
+      "num": 138904,
+      "word": "纳达尔",
+      "onboard_time": 1661913448,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138827,
       "num": 138827,
       "word": "无锡疫情防控",
@@ -467,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134540,
+      "num": 134540,
+      "word": "辽宁增本土确诊5例无症状71例",
+      "onboard_time": 1661907030,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128570,
       "num": 128570,
       "word": "2022LPL夏决",
@@ -475,12 +723,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122457,
-      "num": 122457,
-      "word": "AI虚拟歌手入学上海音乐学院",
-      "onboard_time": 1661901323,
-      "rank": 47,
-      "category": "科技,教育"
+      "raw_hot": 121448,
+      "num": 121448,
+      "word": "重庆新增本土确诊7例",
+      "onboard_time": 1661910449,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105495,
@@ -492,7 +740,7 @@
     },
     {
       "raw_hot": 100277,
-      "num": 842369,
+      "num": 1336260,
       "word": "我国太阳探测卫星科学数据全球共享",
       "onboard_time": 1661864073,
       "rank": 2,
