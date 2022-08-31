@@ -1,6 +1,6 @@
 {
   "startTime": 1661877224777,
-  "endTime": 1661938883484,
+  "endTime": 1661941516198,
   "band_list": [
     {
       "raw_hot": 10934484,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280201,
+      "num": 1280201,
+      "word": "男孩脚疼上网自查要截肢被吓哭",
+      "onboard_time": 1661937510,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1245619,
       "num": 1245619,
       "word": "LV开卖乒乓球拍售价1.8万元",
@@ -211,6 +219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1030310,
+      "num": 419731,
+      "word": "赵露思四宫格合照告别星汉灿烂",
+      "onboard_time": 1661939308,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1008596,
       "num": 1008596,
       "word": "思文 程璐",
@@ -267,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 866485,
+      "num": 866485,
+      "word": "呷哺呷哺上半年关店37家",
+      "onboard_time": 1661937032,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 850206,
       "num": 850206,
       "word": "深圳核酸",
@@ -288,6 +312,14 @@
       "word": "北京海淀新增一本土确诊",
       "onboard_time": 1661936431,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820826,
+      "num": 820826,
+      "word": "女子点外卖式报警接警员秒懂",
+      "onboard_time": 1661938049,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597152,
+      "num": 597152,
+      "word": "沉香他二舅也曾劈山救母",
+      "onboard_time": 1661940329,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 592250,
       "num": 592250,
       "word": "英雄联盟",
@@ -441,6 +481,14 @@
       "onboard_time": 1661910029,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560780,
+      "num": 560780,
+      "word": "北溪1号已暂停向欧洲供应天然气",
+      "onboard_time": 1661938168,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 550179,
@@ -747,12 +795,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 348514,
-      "num": 348514,
-      "word": "呷哺呷哺上半年关店37家",
-      "onboard_time": 1661937032,
-      "rank": 38,
-      "category": "财经,社会新闻"
+      "raw_hot": 349769,
+      "num": 318302,
+      "word": "二十不惑2豆瓣开分8.1",
+      "onboard_time": 1661940567,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 339069,
@@ -867,6 +915,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 315919,
+      "num": 222602,
+      "word": "SEVENTEEN海外巡演从演出到幕后",
+      "onboard_time": 1661940030,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312431,
       "num": 312431,
       "word": "成都消毒",
@@ -881,6 +937,30 @@
       "onboard_time": 1661875171,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302276,
+      "num": 302276,
+      "word": "北京海淀划定4个高风险区",
+      "onboard_time": 1661939007,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299121,
+      "num": 299121,
+      "word": "重庆一女子举报违建疑遭报复",
+      "onboard_time": 1661939971,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298523,
+      "num": 298523,
+      "word": "突然掌握了做饭好吃的秘诀",
+      "onboard_time": 1661937810,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 298055,
@@ -912,14 +992,6 @@
       "word": "警方回应男子趴地学狗叫咬伤人",
       "onboard_time": 1661868275,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289109,
-      "num": 289109,
-      "word": "男孩脚疼上网自查要截肢被吓哭",
-      "onboard_time": 1661937510,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1043,12 +1115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257361,
+      "num": 219892,
+      "word": "张翰新剧是好朋友团建吧",
+      "onboard_time": 1661941406,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255743,
       "num": 237582,
       "word": "大润发出周边了",
       "onboard_time": 1661934269,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254227,
+      "num": 254227,
+      "word": "宝可梦盗版游戏公司被索赔5亿",
+      "onboard_time": 1661938409,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 249680,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1661858309,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239793,
+      "num": 218419,
+      "word": "颜淡应渊恋情发布会",
+      "onboard_time": 1661941109,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 233214,
@@ -1121,22 +1217,6 @@
       "onboard_time": 1661875707,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225759,
-      "num": 225759,
-      "word": "女子点外卖式报警接警员秒懂",
-      "onboard_time": 1661938049,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225546,
-      "num": 225546,
-      "word": "突然掌握了做饭好吃的秘诀",
-      "onboard_time": 1661937810,
-      "rank": 47,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 223897,
@@ -1211,12 +1291,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 205953,
-      "num": 205953,
-      "word": "宝可梦盗版游戏公司被索赔5亿",
-      "onboard_time": 1661938409,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 204700,
+      "num": 175256,
+      "word": "沉香重华",
+      "onboard_time": 1661940449,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 202005,
@@ -1323,6 +1403,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 172603,
+      "num": 172603,
+      "word": "怎么做到又节俭又浪漫的",
+      "onboard_time": 1661939007,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172448,
+      "num": 172448,
+      "word": "狗狗有点警惕在身上",
+      "onboard_time": 1661939548,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171038,
       "num": 171038,
       "word": "专家解读九价接种年龄为何放宽",
@@ -1355,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167455,
+      "num": 167455,
+      "word": "谁的童年还没有一辆敞篷车",
+      "onboard_time": 1661941050,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166072,
       "num": 166072,
       "word": "石家庄疫情防控",
@@ -1377,14 +1481,6 @@
       "onboard_time": 1661901323,
       "rank": 47,
       "category": "科技,教育"
-    },
-    {
-      "raw_hot": 160567,
-      "num": 160567,
-      "word": "北溪1号已暂停向欧洲供应天然气",
-      "onboard_time": 1661938168,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 160098,
@@ -1675,7 +1771,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51257,
+      "raw_hot": 54405,
       "num": 1068165,
       "word": "100秒看服贸会亮点",
       "onboard_time": 1661934991,
