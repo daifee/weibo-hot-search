@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662028911814,
+  "endTime": 1662031153316,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2094297,
+      "num": 2094297,
+      "word": "国外网友或发现南京大屠杀彩照",
+      "onboard_time": 1662020008,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2076970,
       "num": 208595,
       "word": "赵露思机场收到吴露可逃小卡",
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1596369,
+      "num": 1596369,
+      "word": "成都核酸系统崩了",
+      "onboard_time": 1662025169,
+      "rank": 47,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1578391,
       "num": 365661,
       "word": "全都是李诞",
@@ -785,14 +801,6 @@
       "onboard_time": 1661701229,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1514260,
-      "num": 1514260,
-      "word": "成都核酸系统崩了",
-      "onboard_time": 1662025169,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1495104,
@@ -953,14 +961,6 @@
       "onboard_time": 1661785180,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1305681,
-      "num": 1305681,
-      "word": "国外网友或发现南京大屠杀彩照",
-      "onboard_time": 1662020008,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1300058,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1080953,
+      "num": 1080953,
+      "word": "成都疫情传入链条超过20条",
+      "onboard_time": 1662025468,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076640,
       "num": 1076640,
       "word": "河南一地全域静态演练3天",
@@ -1627,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934814,
+      "num": 934814,
+      "word": "虞书欣片场倒地哭泣花絮",
+      "onboard_time": 1662026789,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 933067,
       "num": 933067,
       "word": "20岁大学生玩剧本杀致重度成瘾",
@@ -1683,14 +1699,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 902538,
-      "num": 902538,
-      "word": "虞书欣片场倒地哭泣花絮",
-      "onboard_time": 1662026789,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 898090,
       "num": 346130,
       "word": "贺峻霖两个月瘦了20斤",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1661870801,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 874786,
+      "num": 874786,
+      "word": "原神喜茶",
+      "onboard_time": 1662025888,
+      "rank": 9,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 873031,
@@ -1825,14 +1841,6 @@
       "onboard_time": 1661829510,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 837524,
-      "num": 837524,
-      "word": "原神喜茶",
-      "onboard_time": 1662025888,
-      "rank": 9,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 832528,
@@ -2099,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757479,
-      "num": 757479,
-      "word": "成都疫情传入链条超过20条",
-      "onboard_time": 1662025468,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 757064,
       "num": 415690,
       "word": "原来宋亚轩早就玩过一枚梗",
@@ -2193,6 +2193,14 @@
       "onboard_time": 1661929109,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 720465,
+      "num": 720465,
+      "word": "重庆家长为灭山火耽误儿子迁户入学",
+      "onboard_time": 1662027149,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719895,
@@ -2915,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550983,
+      "num": 550983,
+      "word": "3岁女孩弄坏电视屏幕用黑笔补救",
+      "onboard_time": 1662026726,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550179,
       "num": 550179,
       "word": "人民满意的公务员",
@@ -3280,14 +3296,6 @@
       "word": "女子坐高铁把娃装进手提袋",
       "onboard_time": 1661903312,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484607,
-      "num": 484607,
-      "word": "重庆家长为灭山火耽误儿子迁户入学",
-      "onboard_time": 1662027149,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3705,6 +3713,14 @@
       "onboard_time": 1662008015,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424713,
+      "num": 424713,
+      "word": "文俊辉撒娇",
+      "onboard_time": 1662030326,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 423951,
@@ -4387,14 +4403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361847,
-      "num": 361847,
-      "word": "3岁女孩弄坏电视屏幕用黑笔补救",
-      "onboard_time": 1662026726,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360606,
       "num": 360606,
       "word": "父母过度干涉你的生活是什么体验",
@@ -4481,6 +4489,14 @@
       "onboard_time": 1661729179,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353119,
+      "num": 353119,
+      "word": "玄夜人设疯的好带感",
+      "onboard_time": 1662028947,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 352174,
@@ -4739,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333677,
+      "num": 333677,
+      "word": "男生补作业过度紧张进急救室",
+      "onboard_time": 1662024988,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333062,
       "num": 333062,
       "word": "北京新增病例曾到餐馆游泳馆",
@@ -4883,6 +4907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323259,
+      "num": 323259,
+      "word": "LPL开幕式选手pose",
+      "onboard_time": 1662026310,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323090,
       "num": 323090,
       "word": "sls",
@@ -4939,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318190,
+      "num": 318190,
+      "word": "玄夜疯心锁爱",
+      "onboard_time": 1662029908,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316161,
       "num": 316161,
       "word": "中国男篮vs巴林男篮",
@@ -4953,14 +4993,6 @@
       "onboard_time": 1661922991,
       "rank": 22,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 316054,
-      "num": 316054,
-      "word": "男生补作业过度紧张进急救室",
-      "onboard_time": 1662024988,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315919,
@@ -5113,6 +5145,14 @@
       "onboard_time": 1661748811,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304528,
+      "num": 304528,
+      "word": "管泽元",
+      "onboard_time": 1662030688,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 304375,
@@ -5273,6 +5313,14 @@
       "onboard_time": 1661958932,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293226,
+      "num": 293226,
+      "word": "朝阳区多地划定为高中风险区",
+      "onboard_time": 1662026490,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292799,
@@ -5851,14 +5899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258386,
-      "num": 258386,
-      "word": "朝阳区多地划定为高中风险区",
-      "onboard_time": 1662026490,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258167,
       "num": 258167,
       "word": "国家将开展美瞳专项整治行动",
@@ -5880,6 +5920,14 @@
       "word": "叶蓁蓁好像和闺蜜闹别扭的我",
       "onboard_time": 1661775931,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257149,
+      "num": 257149,
+      "word": "胆小鬼15集意难平",
+      "onboard_time": 1662030808,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -6043,14 +6091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245966,
-      "num": 245966,
-      "word": "LPL开幕式选手pose",
-      "onboard_time": 1662026310,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 245823,
       "num": 245823,
       "word": "不要擅自引进释放丢弃外来物种",
@@ -6065,6 +6105,14 @@
       "onboard_time": 1661868397,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244824,
+      "num": 244824,
+      "word": "无畏晒黑了",
+      "onboard_time": 1662029488,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 244598,
@@ -6555,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209583,
+      "num": 209583,
+      "word": "总台秋晚承诺的黄房子建好啦",
+      "onboard_time": 1662028767,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209467,
       "num": 209467,
       "word": "女生开学不舍与70岁独居爷爷分别",
@@ -6721,6 +6777,14 @@
       "onboard_time": 1661931868,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200704,
+      "num": 200704,
+      "word": "陈冬刘洋出舱",
+      "onboard_time": 1662029067,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 200692,
@@ -6953,14 +7017,6 @@
       "onboard_time": 1662017309,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189574,
-      "num": 189574,
-      "word": "总台秋晚承诺的黄房子建好啦",
-      "onboard_time": 1662028767,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 189555,
@@ -7411,6 +7467,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 154753,
+      "num": 154753,
+      "word": "JDG团灭TES",
+      "onboard_time": 1662030631,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154473,
       "num": 154473,
       "word": "微博新表情收到",
@@ -7769,6 +7833,14 @@
       "onboard_time": 1661864073,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 126584,
+      "num": 126584,
+      "word": "客服做成了间谍的样子",
+      "onboard_time": 1662031106,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 125963,
