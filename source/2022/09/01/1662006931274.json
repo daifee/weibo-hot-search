@@ -1,0 +1,410 @@
+{
+  "runTime": 1662006931274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5121210,
+        "num": 5121210,
+        "word": "成都今日18时起全体居民原则居家",
+        "onboard_time": 1662003868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1909822,
+        "num": 1909822,
+        "word": "玲娜贝儿说话了",
+        "onboard_time": 1662001885,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76444,
+        "num": 1676816,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1648377,
+        "num": 1648377,
+        "word": "武林外传入驻微博",
+        "onboard_time": 1662003688,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1569619,
+        "num": 1569619,
+        "word": "6岁女孩因长得像爸爸委屈大哭",
+        "onboard_time": 1662001407,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1115336,
+        "num": 1115336,
+        "word": "成都疫情防控",
+        "onboard_time": 1662004169,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037437,
+        "num": 1037437,
+        "word": "学员考科目二把考试大厅撞穿",
+        "onboard_time": 1662000746,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873271,
+        "num": 873271,
+        "word": "阿根廷出现不明原因肺炎已致2人死亡",
+        "onboard_time": 1661993728,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828807,
+        "num": 828807,
+        "word": "英伟达",
+        "onboard_time": 1662003028,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 753166,
+        "num": 753166,
+        "word": "周迅王一博隔空对坐饮茶",
+        "onboard_time": 1662005792,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3935761,
+        "num": 752815,
+        "word": "辣目洋子恢复本名",
+        "onboard_time": 1662005851,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701838,
+        "num": 701838,
+        "word": "男子刷视频刷到自家竟是同事偷拍",
+        "onboard_time": 1662002188,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644800,
+        "num": 644800,
+        "word": "中国人寿原董事长王滨被双开",
+        "onboard_time": 1662005132,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626518,
+        "num": 626518,
+        "word": "成都核酸",
+        "onboard_time": 1662002428,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608246,
+        "num": 608246,
+        "word": "iPhone14涨价或低于预期",
+        "onboard_time": 1661998828,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 581317,
+        "num": 581317,
+        "word": "我发现上班摸鱼才是最痛苦的",
+        "onboard_time": 1662005492,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 540037,
+        "num": 540037,
+        "word": "夫妻看新房发现已被人装修入住",
+        "onboard_time": 1661992831,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532288,
+        "num": 532288,
+        "word": "迪丽热巴林间听瀑芭莎大片",
+        "onboard_time": 1662000206,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 499808,
+        "num": 499808,
+        "word": "谢谢玖月奇迹",
+        "onboard_time": 1661994090,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 424134,
+        "num": 472879,
+        "word": "iPhone14Pro叹号孔可显示为药丸形",
+        "onboard_time": 1661994268,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 447313,
+        "num": 447313,
+        "word": "鬼吹灯之精绝古城上线",
+        "onboard_time": 1662003868,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435607,
+        "num": 435607,
+        "word": "脱口秀大会 领笑员",
+        "onboard_time": 1662002908,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360971,
+        "num": 360971,
+        "word": "外卖小哥边抖腿边按亮整部电梯",
+        "onboard_time": 1662005492,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342888,
+        "num": 342888,
+        "word": "成都发布",
+        "onboard_time": 1662005192,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334993,
+        "num": 334993,
+        "word": "迟来的道歉值得被原谅吗",
+        "onboard_time": 1662004587,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333880,
+        "num": 333880,
+        "word": "向前冲抢冰箱的人又增加了",
+        "onboard_time": 1662000686,
+        "rank": 25,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 328328,
+        "num": 328328,
+        "word": "iPhone14Pro可选35W充电器",
+        "onboard_time": 1662000446,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297906,
+        "num": 297906,
+        "word": "教官在狙击手身边剥洋葱",
+        "onboard_time": 1662004948,
+        "rank": 27,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 297723,
+        "num": 297723,
+        "word": "成都官方说不必盲目囤积生活物资",
+        "onboard_time": 1661989825,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274436,
+        "num": 274436,
+        "word": "女子剪发被4部手机对着直播",
+        "onboard_time": 1661958932,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313186,
+        "num": 269811,
+        "word": "丁程鑫新学期最想做同桌的艺人",
+        "onboard_time": 1662001586,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264473,
+        "num": 264473,
+        "word": "刘畊宏带货假燕窝公司已被吊销",
+        "onboard_time": 1661970974,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 261448,
+        "num": 261448,
+        "word": "刘彦平被双开",
+        "onboard_time": 1662005609,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252890,
+        "num": 252890,
+        "word": "深圳福田区华星舞蹈艺术中心被立案调查",
+        "onboard_time": 1661997747,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250184,
+        "num": 250184,
+        "word": "西安疫情防控",
+        "onboard_time": 1661999784,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243005,
+        "num": 243005,
+        "word": "家长开学日的统一姿势",
+        "onboard_time": 1661999546,
+        "rank": 35,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 239871,
+        "num": 239871,
+        "word": "浙江一高校快递堆满体育馆",
+        "onboard_time": 1662006334,
+        "rank": 36,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 231412,
+        "num": 231412,
+        "word": "甜美的咬痕动画开播",
+        "onboard_time": 1662006031,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 222523,
+        "num": 222523,
+        "word": "房产销售私自出租客户新房被抓",
+        "onboard_time": 1662006515,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 221731,
+        "num": 221731,
+        "word": "大连增101例本土无症状",
+        "onboard_time": 1661992890,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211263,
+        "num": 211263,
+        "word": "男子10秒内死里逃生2次",
+        "onboard_time": 1662006575,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211050,
+        "num": 211050,
+        "word": "三体",
+        "onboard_time": 1661989524,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210581,
+        "num": 210581,
+        "word": "山寨iPhone14ProMax已上市",
+        "onboard_time": 1661995881,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199366,
+        "num": 199366,
+        "word": "父亲阻拦复读后孩子考上北大",
+        "onboard_time": 1662006755,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194419,
+        "num": 194419,
+        "word": "郝春荣被双开",
+        "onboard_time": 1662006031,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186941,
+        "num": 186941,
+        "word": "赵晓卉退赛",
+        "onboard_time": 1661959892,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946443,
+        "num": 185125,
+        "word": "疯狂星期四",
+        "onboard_time": 1662001108,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182609,
+        "num": 182609,
+        "word": "外卖员偷餐被举报连续2天报复顾客",
+        "onboard_time": 1661990124,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178170,
+        "num": 178170,
+        "word": "内蒙古住建厅回应取消公摊",
+        "onboard_time": 1662006210,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177589,
+        "num": 177589,
+        "word": "三亚居民拍到猴子潜水画面",
+        "onboard_time": 1661989584,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}
