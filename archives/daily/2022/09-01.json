@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662025175293,
+  "endTime": 1662027896646,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -171,6 +171,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1177480,
+      "num": 1177480,
+      "word": "成都核酸系统崩了",
+      "onboard_time": 1662025169,
+      "rank": 47,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1144916,
       "num": 1144916,
       "word": "boss直聘公示涉性骚扰违规账号",
@@ -217,6 +225,14 @@
       "onboard_time": 1662018446,
       "rank": 7,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 998510,
+      "num": 998510,
+      "word": "2岁宝宝沉迷于包快递令妈妈发愁",
+      "onboard_time": 1662023850,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 985589,
@@ -435,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652868,
+      "num": 652868,
+      "word": "原神喜茶",
+      "onboard_time": 1662025888,
+      "rank": 9,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 634398,
       "num": 634398,
       "word": "虞书欣王鹤棣双人快问快答完整版",
       "onboard_time": 1662014970,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 628071,
+      "num": 628071,
+      "word": "成都疫情传入链条超过20条",
+      "onboard_time": 1662025468,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626518,
@@ -459,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618636,
+      "num": 618636,
+      "word": "虞书欣片场倒地哭泣花絮",
+      "onboard_time": 1662026789,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 612637,
       "num": 612637,
       "word": "成都地铁",
@@ -467,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 591360,
-      "num": 591360,
+      "raw_hot": 606234,
+      "num": 606234,
       "word": "成都两机场航班大面积取消",
       "onboard_time": 1662022768,
       "rank": 15,
@@ -481,6 +521,14 @@
       "onboard_time": 1661992890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571215,
+      "num": 571215,
+      "word": "男孩暑假送外卖挣17350元交学费",
+      "onboard_time": 1662022949,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 562577,
@@ -651,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441282,
-      "num": 441282,
-      "word": "男孩暑假送外卖挣17350元交学费",
-      "onboard_time": 1662022949,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 439693,
       "num": 439693,
       "word": "宋轶晒于曼丽背影照问你好吗",
@@ -673,6 +713,14 @@
       "onboard_time": 1662002908,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426796,
+      "num": 426796,
+      "word": "21岁医学生开学日去世捐出角膜遗体",
+      "onboard_time": 1662024032,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 426322,
@@ -707,12 +755,12 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 412229,
-      "num": 412229,
-      "word": "2岁宝宝沉迷于包快递令妈妈发愁",
-      "onboard_time": 1662023850,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 410877,
+      "num": 335443,
+      "word": "何洛洛北电报到照",
+      "onboard_time": 1662025710,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 410826,
@@ -867,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336371,
+      "num": 336371,
+      "word": "JDG对战TES",
+      "onboard_time": 1662026008,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335891,
       "num": 335891,
       "word": "密室大逃脱",
@@ -897,6 +953,14 @@
       "onboard_time": 1662012449,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329661,
+      "num": 329661,
+      "word": "浙江省运会女足惊现44比0巨大比分",
+      "onboard_time": 1662024268,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 328902,
@@ -979,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309556,
+      "num": 309556,
+      "word": "时代少年团夏令营预告08",
+      "onboard_time": 1662026966,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308272,
       "num": 303199,
       "word": "武林外传官微否认翻拍",
@@ -993,6 +1065,14 @@
       "onboard_time": 1661999546,
       "rank": 24,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 299630,
+      "num": 299630,
+      "word": "美方做法是典型科技霸权主义",
+      "onboard_time": 1662023367,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 293561,
@@ -1017,14 +1097,6 @@
       "onboard_time": 1661988682,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290406,
-      "num": 141772,
-      "word": "成都核酸系统崩了",
-      "onboard_time": 1662025169,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 289371,
@@ -1123,12 +1195,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 270033,
+      "num": 270033,
+      "word": "男生补作业过度紧张进急救室",
+      "onboard_time": 1662024988,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262802,
       "num": 221872,
       "word": "全都是李诞",
       "onboard_time": 1661944946,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260220,
+      "num": 260220,
+      "word": "重庆家长为灭山火耽误儿子迁户入学",
+      "onboard_time": 1662027149,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258167,
@@ -1179,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245966,
+      "num": 245966,
+      "word": "LPL开幕式选手pose",
+      "onboard_time": 1662026310,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242199,
       "num": 242199,
       "word": "内蒙古住建厅回应取消公摊",
@@ -1187,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235869,
-      "num": 235869,
-      "word": "21岁医学生开学日去世捐出角膜遗体",
-      "onboard_time": 1662024032,
-      "rank": 48,
-      "category": "社会正能量"
+      "raw_hot": 236175,
+      "num": 236175,
+      "word": "女装口袋",
+      "onboard_time": 1662026726,
+      "rank": 33,
+      "category": "综艺,情感"
     },
     {
       "raw_hot": 235592,
@@ -1227,20 +1323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224664,
+      "num": 224664,
+      "word": "朝阳区多地划定为高中风险区",
+      "onboard_time": 1662026490,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223742,
       "num": 223742,
       "word": "吴易昺",
       "onboard_time": 1661989883,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223517,
-      "num": 223517,
-      "word": "美方做法是典型科技霸权主义",
-      "onboard_time": 1662023367,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 222778,
@@ -1279,6 +1375,14 @@
       "num": 220735,
       "word": "南通疫情防控",
       "onboard_time": 1661996002,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217111,
+      "num": 217111,
+      "word": "3岁女孩弄坏电视屏幕用黑笔补救",
+      "onboard_time": 1662026726,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -1347,12 +1451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195084,
-      "num": 195084,
-      "word": "浙江省运会女足惊现44比0巨大比分",
-      "onboard_time": 1662024268,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 194085,
+      "num": 194085,
+      "word": "藏在村里的广州烧味有多绝",
+      "onboard_time": 1662027328,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 192148,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1662021207,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171770,
+      "num": 171770,
+      "word": "Kanavi 猴子",
+      "onboard_time": 1662027268,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 167615,
@@ -1635,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132469,
-      "num": 132469,
-      "word": "男生补作业过度紧张进急救室",
-      "onboard_time": 1662024988,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131509,
       "num": 131509,
       "word": "西藏巴松湖彩虹",
@@ -1787,7 +1891,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47538,
+      "raw_hot": 59655,
       "num": 1484365,
       "word": "开学第一课",
       "onboard_time": 1661942188,

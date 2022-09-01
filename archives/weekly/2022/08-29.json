@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662025175293,
+  "endTime": 1662027896646,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177480,
+      "num": 1177480,
+      "word": "成都核酸系统崩了",
+      "onboard_time": 1662025169,
+      "rank": 47,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1175436,
       "num": 1175436,
       "word": "成都新增本土确诊126例",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1661740833,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998510,
+      "num": 998510,
+      "word": "2岁宝宝沉迷于包快递令妈妈发愁",
+      "onboard_time": 1662023850,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 994755,
@@ -2403,6 +2419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 652868,
+      "num": 652868,
+      "word": "原神喜茶",
+      "onboard_time": 1662025888,
+      "rank": 9,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 650085,
       "num": 650085,
       "word": "赵露思教吴磊如何牵手",
@@ -2523,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628071,
+      "num": 628071,
+      "word": "成都疫情传入链条超过20条",
+      "onboard_time": 1662025468,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625949,
       "num": 625949,
       "word": "成都高新区疫情防控",
@@ -2571,6 +2603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618636,
+      "num": 618636,
+      "word": "虞书欣片场倒地哭泣花絮",
+      "onboard_time": 1662026789,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617610,
       "num": 617610,
       "word": "中国女排1比3不敌日本",
@@ -2584,6 +2624,14 @@
       "word": "成都地铁",
       "onboard_time": 1662020188,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606234,
+      "num": 606234,
+      "word": "成都两机场航班大面积取消",
+      "onboard_time": 1662022768,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2641,14 +2689,6 @@
       "onboard_time": 1661754030,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 591360,
-      "num": 591360,
-      "word": "成都两机场航班大面积取消",
-      "onboard_time": 1662022768,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591210,
@@ -2713,6 +2753,14 @@
       "onboard_time": 1661992890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571215,
+      "num": 571215,
+      "word": "男孩暑假送外卖挣17350元交学费",
+      "onboard_time": 1662022949,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 570610,
@@ -3555,14 +3603,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 441282,
-      "num": 441282,
-      "word": "男孩暑假送外卖挣17350元交学费",
-      "onboard_time": 1662022949,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 441051,
       "num": 441051,
       "word": "奶茶店员受伤顾客跑去买药帮止血",
@@ -3641,6 +3681,14 @@
       "onboard_time": 1661696972,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426796,
+      "num": 426796,
+      "word": "21岁医学生开学日去世捐出角膜遗体",
+      "onboard_time": 1662024032,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 426322,
@@ -3755,14 +3803,6 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 412229,
-      "num": 412229,
-      "word": "2岁宝宝沉迷于包快递令妈妈发愁",
-      "onboard_time": 1662023850,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412145,
       "num": 412145,
       "word": "9岁重病女孩央求爸爸替她去上课",
@@ -3785,6 +3825,14 @@
       "onboard_time": 1661935591,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410877,
+      "num": 335443,
+      "word": "何洛洛北电报到照",
+      "onboard_time": 1662025710,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 410826,
@@ -4643,6 +4691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336371,
+      "num": 336371,
+      "word": "JDG对战TES",
+      "onboard_time": 1662026008,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335926,
       "num": 335926,
       "word": "比亚迪回应巴菲特减持133万股",
@@ -4705,6 +4761,14 @@
       "onboard_time": 1661783497,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329661,
+      "num": 329661,
+      "word": "浙江省运会女足惊现44比0巨大比分",
+      "onboard_time": 1662024268,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 328902,
@@ -4979,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309556,
+      "num": 309556,
+      "word": "时代少年团夏令营预告08",
+      "onboard_time": 1662026966,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309410,
       "num": 309410,
       "word": "看一眼都觉得崩溃的程度",
@@ -5073,6 +5145,14 @@
       "onboard_time": 1661781095,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299630,
+      "num": 299630,
+      "word": "美方做法是典型科技霸权主义",
+      "onboard_time": 1662023367,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 299203,
@@ -5185,14 +5265,6 @@
       "onboard_time": 1661988682,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290406,
-      "num": 141772,
-      "word": "成都核酸系统崩了",
-      "onboard_time": 1662025169,
-      "rank": 47,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 289371,
@@ -5523,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270033,
+      "num": 270033,
+      "word": "男生补作业过度紧张进急救室",
+      "onboard_time": 1662024988,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269892,
       "num": 269892,
       "word": "苍兰诀 细节",
@@ -5721,6 +5801,14 @@
       "onboard_time": 1661955213,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260220,
+      "num": 260220,
+      "word": "重庆家长为灭山火耽误儿子迁户入学",
+      "onboard_time": 1662027149,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260190,
@@ -5931,6 +6019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245966,
+      "num": 245966,
+      "word": "LPL开幕式选手pose",
+      "onboard_time": 1662026310,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245823,
       "num": 245823,
       "word": "不要擅自引进释放丢弃外来物种",
@@ -6019,6 +6115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 236175,
+      "num": 236175,
+      "word": "女装口袋",
+      "onboard_time": 1662026726,
+      "rank": 33,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 236129,
       "num": 236129,
       "word": "玉骨遥",
@@ -6033,14 +6137,6 @@
       "onboard_time": 1661699069,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 235869,
-      "num": 235869,
-      "word": "21岁医学生开学日去世捐出角膜遗体",
-      "onboard_time": 1662024032,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 235592,
@@ -6211,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224664,
+      "num": 224664,
+      "word": "朝阳区多地划定为高中风险区",
+      "onboard_time": 1662026490,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子烤肠到嘴边退货遭拒辱骂店员",
@@ -6225,14 +6329,6 @@
       "onboard_time": 1661989883,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223517,
-      "num": 223517,
-      "word": "美方做法是典型科技霸权主义",
-      "onboard_time": 1662023367,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 222778,
@@ -6361,6 +6457,14 @@
       "onboard_time": 1661928688,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 217111,
+      "num": 217111,
+      "word": "3岁女孩弄坏电视屏幕用黑笔补救",
+      "onboard_time": 1662026726,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215007,
@@ -6731,14 +6835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195084,
-      "num": 195084,
-      "word": "浙江省运会女足惊现44比0巨大比分",
-      "onboard_time": 1662024268,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194592,
       "num": 194592,
       "word": "地铁跑酷回应崩了",
@@ -6761,6 +6857,14 @@
       "onboard_time": 1661696552,
       "rank": 25,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 194085,
+      "num": 194085,
+      "word": "藏在村里的广州烧味有多绝",
+      "onboard_time": 1662027328,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 193243,
@@ -7097,6 +7201,14 @@
       "onboard_time": 1661784399,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171770,
+      "num": 171770,
+      "word": "Kanavi 猴子",
+      "onboard_time": 1662027268,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 171621,
@@ -7577,14 +7689,6 @@
       "onboard_time": 1661980390,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132469,
-      "num": 132469,
-      "word": "男生补作业过度紧张进急救室",
-      "onboard_time": 1662024988,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132241,
