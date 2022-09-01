@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662006931274,
+  "endTime": 1662007899129,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6261105,
+      "num": 831180,
+      "word": "辣目洋子恢复本名",
+      "onboard_time": 1662005851,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5121210,
       "num": 5121210,
       "word": "成都今日18时起全体居民原则居家",
@@ -97,14 +105,6 @@
       "onboard_time": 1661764529,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3935761,
-      "num": 752815,
-      "word": "辣目洋子恢复本名",
-      "onboard_time": 1662005851,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3931213,
@@ -1539,6 +1539,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 927812,
+      "num": 927812,
+      "word": "中国人寿原董事长王滨被双开",
+      "onboard_time": 1662005132,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898090,
       "num": 346130,
       "word": "贺峻霖两个月瘦了20斤",
@@ -1643,6 +1651,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 858161,
+      "num": 858161,
+      "word": "英伟达",
+      "onboard_time": 1662003028,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 850206,
       "num": 850206,
       "word": "深圳核酸",
@@ -1659,20 +1675,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 836500,
+      "num": 836500,
+      "word": "我发现上班摸鱼才是最痛苦的",
+      "onboard_time": 1662005492,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 832528,
       "num": 684764,
       "word": "蔡徐坤把拴Q说成了3Q",
       "onboard_time": 1661689649,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 828807,
-      "num": 828807,
-      "word": "英伟达",
-      "onboard_time": 1662003028,
-      "rank": 8,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 825968,
@@ -1827,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778764,
+      "num": 778764,
+      "word": "周迅王一博隔空对坐饮茶",
+      "onboard_time": 1662005792,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 778543,
       "num": 778543,
       "word": "四川增本土确诊132例",
@@ -1905,14 +1929,6 @@
       "onboard_time": 1661692232,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753166,
-      "num": 753166,
-      "word": "周迅王一博隔空对坐饮茶",
-      "onboard_time": 1662005792,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 749389,
@@ -2147,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 666188,
+      "num": 666188,
+      "word": "迪丽热巴谈安乐传",
+      "onboard_time": 1662007594,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 663992,
       "num": 663992,
       "word": "拼多多发布第二季度财报",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1661837848,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 644800,
-      "num": 644800,
-      "word": "中国人寿原董事长王滨被双开",
-      "onboard_time": 1662005132,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 644773,
@@ -2483,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581317,
-      "num": 581317,
-      "word": "我发现上班摸鱼才是最痛苦的",
-      "onboard_time": 1662005492,
-      "rank": 15,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 572758,
       "num": 572758,
       "word": "四川疫情防控",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1661953592,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562577,
+      "num": 562577,
+      "word": "外卖小哥边抖腿边按亮整部电梯",
+      "onboard_time": 1662005492,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562119,
@@ -2881,6 +2897,22 @@
       "onboard_time": 1661734052,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506855,
+      "num": 506855,
+      "word": "父亲阻拦复读后孩子考上北大",
+      "onboard_time": 1662006755,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 506812,
+      "num": 506812,
+      "word": "男子10秒内死里逃生2次",
+      "onboard_time": 1662006575,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505093,
@@ -3331,6 +3363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 431696,
+      "num": 431696,
+      "word": "姐姐这是可以说的吗",
+      "onboard_time": 1662007472,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428811,
       "num": 428811,
       "word": "心动的信号5里的男嘉宾",
@@ -3424,6 +3464,14 @@
       "word": "偷偷藏不住",
       "onboard_time": 1661846490,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412904,
+      "num": 412904,
+      "word": "武林外传",
+      "onboard_time": 1662007415,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -3617,6 +3665,14 @@
       "onboard_time": 1661771489,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389978,
+      "num": 389978,
+      "word": "甜美的咬痕动画开播",
+      "onboard_time": 1662006031,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 389572,
@@ -3827,12 +3883,28 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 370434,
+      "num": 370434,
+      "word": "张角离开AG",
+      "onboard_time": 1662007235,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369120,
       "num": 319758,
       "word": "男子离婚两年后前妻告知儿子非亲生",
       "onboard_time": 1661691510,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369044,
+      "num": 343328,
+      "word": "迟来的道歉值得被原谅吗",
+      "onboard_time": 1662004587,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 368970,
@@ -3929,14 +4001,6 @@
       "onboard_time": 1661840727,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360971,
-      "num": 360971,
-      "word": "外卖小哥边抖腿边按亮整部电梯",
-      "onboard_time": 1662005492,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360606,
@@ -4083,6 +4147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346014,
+      "num": 346014,
+      "word": "成都官方说不必盲目囤积生活物资",
+      "onboard_time": 1661989825,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345883,
       "num": 280837,
       "word": "应渊欠颜淡的拿什么还",
@@ -4171,6 +4243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338552,
+      "num": 338552,
+      "word": "教官在狙击手身边剥洋葱",
+      "onboard_time": 1662004948,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 337322,
+      "num": 337322,
+      "word": "沉香如屑超45万人豆瓣打分",
+      "onboard_time": 1662007054,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337311,
       "num": 282883,
       "word": "唐周亲眼看着自己变透明",
@@ -4225,14 +4313,6 @@
       "onboard_time": 1661997388,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 334993,
-      "num": 334993,
-      "word": "迟来的道歉值得被原谅吗",
-      "onboard_time": 1662004587,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 334318,
@@ -4635,28 +4715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297906,
-      "num": 297906,
-      "word": "教官在狙击手身边剥洋葱",
-      "onboard_time": 1662004948,
-      "rank": 27,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 297890,
       "num": 192495,
       "word": "小兰花东方青苍双向养成系",
       "onboard_time": 1661782775,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297723,
-      "num": 297723,
-      "word": "成都官方说不必盲目囤积生活物资",
-      "onboard_time": 1661989825,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297539,
@@ -4835,6 +4899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 278010,
+      "num": 278010,
+      "word": "为什么越来越多人想当老师",
+      "onboard_time": 1662007415,
+      "rank": 36,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 277242,
       "num": 277242,
       "word": "西安核酸",
@@ -4968,6 +5040,14 @@
       "word": "河南疫情防控",
       "onboard_time": 1661741370,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270717,
+      "num": 270717,
+      "word": "刘彦平被双开",
+      "onboard_time": 1662005609,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5163,14 +5243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261448,
-      "num": 261448,
-      "word": "刘彦平被双开",
-      "onboard_time": 1662005609,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261057,
       "num": 261057,
       "word": "苏州百人桨板上冥想解压",
@@ -5305,6 +5377,14 @@
       "onboard_time": 1661844511,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 254193,
+      "num": 254193,
+      "word": "浙江一高校快递堆满体育馆",
+      "onboard_time": 1662006334,
+      "rank": 36,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 253166,
@@ -5459,14 +5539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 239871,
-      "num": 239871,
-      "word": "浙江一高校快递堆满体育馆",
-      "onboard_time": 1662006334,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 238857,
       "num": 238857,
       "word": "如何看待华为PC逆势增长",
@@ -5555,14 +5627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231412,
-      "num": 231412,
-      "word": "甜美的咬痕动画开播",
-      "onboard_time": 1662006031,
-      "rank": 37,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 230705,
       "num": 230705,
       "word": "小猫好像需要法律援助",
@@ -5601,6 +5665,14 @@
       "onboard_time": 1661842830,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 229988,
+      "num": 229988,
+      "word": "内蒙古住建厅回应取消公摊",
+      "onboard_time": 1662006210,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229913,
@@ -5763,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220068,
+      "num": 220068,
+      "word": "95后铁路姑娘帮接生后激动大哭",
+      "onboard_time": 1662007356,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 219372,
       "num": 219372,
       "word": "第一次见这么可爱的泰迪",
@@ -5843,20 +5923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213525,
+      "num": 213525,
+      "word": "郝春荣被双开",
+      "onboard_time": 1662006031,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213411,
       "num": 213411,
       "word": "申花",
       "onboard_time": 1661954612,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211263,
-      "num": 211263,
-      "word": "男子10秒内死里逃生2次",
-      "onboard_time": 1662006575,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210813,
@@ -6075,20 +6155,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 200056,
+      "num": 200056,
+      "word": "取消公摊面积或给消费者埋下暗坑",
+      "onboard_time": 1662007835,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 199487,
       "num": 199487,
       "word": "唐山打人案受害者遭性侵等为谣言",
       "onboard_time": 1661735679,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199366,
-      "num": 199366,
-      "word": "父亲阻拦复读后孩子考上北大",
-      "onboard_time": 1662006755,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 199162,
@@ -6185,14 +6265,6 @@
       "onboard_time": 1661858791,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194419,
-      "num": 194419,
-      "word": "郝春荣被双开",
-      "onboard_time": 1662006031,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194347,
@@ -6416,14 +6488,6 @@
       "word": "深圳疫情防控",
       "onboard_time": 1661988682,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178170,
-      "num": 178170,
-      "word": "内蒙古住建厅回应取消公摊",
-      "onboard_time": 1662006210,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -7542,6 +7606,9 @@
     },
     {
       "word": "#在新征程上作表率当模范#"
+    },
+    {
+      "word": "#关注2022服贸会#"
     }
   ]
 }

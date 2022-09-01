@@ -1,7 +1,15 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662006931274,
+  "endTime": 1662007899129,
   "band_list": [
+    {
+      "raw_hot": 6261105,
+      "num": 831180,
+      "word": "辣目洋子恢复本名",
+      "onboard_time": 1662005851,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5121210,
       "num": 5121210,
@@ -9,14 +17,6 @@
       "onboard_time": 1662003868,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3935761,
-      "num": 752815,
-      "word": "辣目洋子恢复本名",
-      "onboard_time": 1662005851,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2048268,
@@ -147,6 +147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 927812,
+      "num": 927812,
+      "word": "中国人寿原董事长王滨被双开",
+      "onboard_time": 1662005132,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872837,
       "num": 872837,
       "word": "南昌上空出现不明飞行物",
@@ -163,12 +171,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 828807,
-      "num": 828807,
+      "raw_hot": 858161,
+      "num": 858161,
       "word": "英伟达",
       "onboard_time": 1662003028,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 836500,
+      "num": 836500,
+      "word": "我发现上班摸鱼才是最痛苦的",
+      "onboard_time": 1662005492,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 785269,
@@ -177,6 +193,14 @@
       "onboard_time": 1661957733,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778764,
+      "num": 778764,
+      "word": "周迅王一博隔空对坐饮茶",
+      "onboard_time": 1662005792,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 778543,
@@ -203,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 753166,
-      "num": 753166,
-      "word": "周迅王一博隔空对坐饮茶",
-      "onboard_time": 1662005792,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 701838,
       "num": 701838,
       "word": "男子刷视频刷到自家竟是同事偷拍",
@@ -227,19 +243,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666188,
+      "num": 666188,
+      "word": "迪丽热巴谈安乐传",
+      "onboard_time": 1662007594,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 655117,
       "num": 655117,
       "word": "三亚居民拍到猴子潜水画面",
       "onboard_time": 1661989584,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 644800,
-      "num": 644800,
-      "word": "中国人寿原董事长王滨被双开",
-      "onboard_time": 1662005132,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -251,19 +267,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581317,
-      "num": 581317,
-      "word": "我发现上班摸鱼才是最痛苦的",
-      "onboard_time": 1662005492,
-      "rank": 15,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 571944,
       "num": 571944,
       "word": "大连增101例本土无症状",
       "onboard_time": 1661992890,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562577,
+      "num": 562577,
+      "word": "外卖小哥边抖腿边按亮整部电梯",
+      "onboard_time": 1662005492,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -304,6 +320,22 @@
       "word": "女子抽中5899元手机福袋被寄模型机",
       "onboard_time": 1661960249,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506855,
+      "num": 506855,
+      "word": "父亲阻拦复读后孩子考上北大",
+      "onboard_time": 1662006755,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 506812,
+      "num": 506812,
+      "word": "男子10秒内死里逃生2次",
+      "onboard_time": 1662006575,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -371,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431696,
+      "num": 431696,
+      "word": "姐姐这是可以说的吗",
+      "onboard_time": 1662007472,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 412904,
+      "num": 412904,
+      "word": "武林外传",
+      "onboard_time": 1662007415,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410826,
       "num": 410826,
       "word": "网传大宋少年志2九月下旬开机",
@@ -395,6 +443,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 389978,
+      "num": 389978,
+      "word": "甜美的咬痕动画开播",
+      "onboard_time": 1662006031,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 382552,
       "num": 382552,
       "word": "研究称暴露于蓝光会加速衰老",
@@ -403,12 +459,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 360971,
-      "num": 360971,
-      "word": "外卖小哥边抖腿边按亮整部电梯",
-      "onboard_time": 1662005492,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 370434,
+      "num": 370434,
+      "word": "张角离开AG",
+      "onboard_time": 1662007235,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 369044,
+      "num": 343328,
+      "word": "迟来的道歉值得被原谅吗",
+      "onboard_time": 1662004587,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 346625,
@@ -416,6 +480,14 @@
       "word": "长春疫情防控",
       "onboard_time": 1661997207,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346014,
+      "num": 346014,
+      "word": "成都官方说不必盲目囤积生活物资",
+      "onboard_time": 1661989825,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -427,20 +499,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338552,
+      "num": 338552,
+      "word": "教官在狙击手身边剥洋葱",
+      "onboard_time": 1662004948,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 337322,
+      "num": 337322,
+      "word": "沉香如屑超45万人豆瓣打分",
+      "onboard_time": 1662007054,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335891,
+      "num": 335891,
+      "word": "密室大逃脱",
+      "onboard_time": 1662007116,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335671,
       "num": 335671,
       "word": "iPhone14手机壳或与上一代通用",
       "onboard_time": 1661997388,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 334993,
-      "num": 334993,
-      "word": "迟来的道歉值得被原谅吗",
-      "onboard_time": 1662004587,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 333629,
@@ -515,22 +603,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 297906,
-      "num": 297906,
-      "word": "教官在狙击手身边剥洋葱",
-      "onboard_time": 1662004948,
-      "rank": 27,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 297723,
-      "num": 297723,
-      "word": "成都官方说不必盲目囤积生活物资",
-      "onboard_time": 1661989825,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -579,6 +651,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 278010,
+      "num": 278010,
+      "word": "为什么越来越多人想当老师",
+      "onboard_time": 1662007415,
+      "rank": 36,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 270717,
+      "num": 270717,
+      "word": "刘彦平被双开",
+      "onboard_time": 1662005609,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262802,
       "num": 221872,
       "word": "全都是李诞",
@@ -587,20 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261448,
-      "num": 261448,
-      "word": "刘彦平被双开",
-      "onboard_time": 1662005609,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258167,
       "num": 258167,
       "word": "国家将开展美瞳专项整治行动",
       "onboard_time": 1661992232,
       "rank": 23,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 254193,
+      "num": 254193,
+      "word": "浙江一高校快递堆满体育馆",
+      "onboard_time": 1662006334,
+      "rank": 36,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 252769,
@@ -619,28 +707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239871,
-      "num": 239871,
-      "word": "浙江一高校快递堆满体育馆",
-      "onboard_time": 1662006334,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
       "onboard_time": 1661998525,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231412,
-      "num": 231412,
-      "word": "甜美的咬痕动画开播",
-      "onboard_time": 1662006031,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 231311,
@@ -657,6 +729,14 @@
       "onboard_time": 1661959532,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229988,
+      "num": 229988,
+      "word": "内蒙古住建厅回应取消公摊",
+      "onboard_time": 1662006210,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224713,
@@ -715,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220068,
+      "num": 220068,
+      "word": "95后铁路姑娘帮接生后激动大哭",
+      "onboard_time": 1662007356,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 213968,
       "num": 213968,
       "word": "理塘文旅回应丁真商标风波",
@@ -723,11 +811,11 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 211263,
-      "num": 211263,
-      "word": "男子10秒内死里逃生2次",
-      "onboard_time": 1662006575,
-      "rank": 40,
+      "raw_hot": 213525,
+      "num": 213525,
+      "word": "郝春荣被双开",
+      "onboard_time": 1662006031,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -763,20 +851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199366,
-      "num": 199366,
-      "word": "父亲阻拦复读后孩子考上北大",
-      "onboard_time": 1662006755,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 194419,
-      "num": 194419,
-      "word": "郝春荣被双开",
-      "onboard_time": 1662006031,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 200056,
+      "num": 200056,
+      "word": "取消公摊面积或给消费者埋下暗坑",
+      "onboard_time": 1662007835,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190087,
@@ -864,14 +944,6 @@
       "word": "深圳疫情防控",
       "onboard_time": 1661988682,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178170,
-      "num": 178170,
-      "word": "内蒙古住建厅回应取消公摊",
-      "onboard_time": 1662006210,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1169,6 +1241,9 @@
     },
     {
       "word": "#在新征程上作表率当模范#"
+    },
+    {
+      "word": "#关注2022服贸会#"
     }
   ]
 }
