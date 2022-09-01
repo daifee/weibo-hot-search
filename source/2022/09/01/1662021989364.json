@@ -1,0 +1,410 @@
+{
+  "runTime": 1662021989364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2017085,
+        "num": 2017085,
+        "word": "一女子五脏六腑全部反着长",
+        "onboard_time": 1662018507,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703950,
+        "num": 1703950,
+        "word": "成都今日18时起全体居民原则居家",
+        "onboard_time": 1662003868,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25847,
+        "num": 1359700,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1034898,
+        "num": 1034898,
+        "word": "疫情时的大一新生大四了",
+        "onboard_time": 1662018446,
+        "rank": 3,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 933313,
+        "num": 933313,
+        "word": "boss直聘公示涉性骚扰违规账号",
+        "onboard_time": 1662014669,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843201,
+        "num": 843201,
+        "word": "男子失恋喝1斤白酒吃18袋头孢",
+        "onboard_time": 1662020787,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793992,
+        "num": 793992,
+        "word": "有妖气漫画关停",
+        "onboard_time": 1662017309,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 747420,
+        "num": 747420,
+        "word": "婴儿服装礼盒拆出40多根针",
+        "onboard_time": 1662015927,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737408,
+        "num": 737408,
+        "word": "icon登顶",
+        "onboard_time": 1662018329,
+        "rank": 8,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 664231,
+        "num": 664231,
+        "word": "取消公摊面积或给消费者埋下暗坑",
+        "onboard_time": 1662007835,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1977790,
+        "num": 661727,
+        "word": "辣目洋子恢复本名",
+        "onboard_time": 1662005851,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1122975,
+        "num": 654044,
+        "word": "赵露思偷偷藏不住上班饭拍",
+        "onboard_time": 1662020729,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612637,
+        "num": 612637,
+        "word": "成都地铁",
+        "onboard_time": 1662020188,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554745,
+        "num": 554745,
+        "word": "jojo更新",
+        "onboard_time": 1662020069,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 471805,
+        "num": 471805,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404577,
+        "num": 404577,
+        "word": "爱丽落水",
+        "onboard_time": 1662021569,
+        "rank": 15,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 401571,
+        "num": 401571,
+        "word": "深圳南山区全域实行管控措施",
+        "onboard_time": 1662018749,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401184,
+        "num": 401184,
+        "word": "南山疫情防控",
+        "onboard_time": 1662018090,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398802,
+        "num": 398802,
+        "word": "父亲阻拦复读后孩子考上北大",
+        "onboard_time": 1662006755,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 396382,
+        "num": 396382,
+        "word": "北电2022新生报到",
+        "onboard_time": 1662019228,
+        "rank": 19,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 359599,
+        "num": 359599,
+        "word": "点外卖能看到饭做好了没",
+        "onboard_time": 1662019228,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355561,
+        "num": 355561,
+        "word": "为什么越来越多人想当老师",
+        "onboard_time": 1662007415,
+        "rank": 21,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 353990,
+        "num": 353990,
+        "word": "收费员一句话救了四个人",
+        "onboard_time": 1662008255,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 348988,
+        "num": 348988,
+        "word": "虞书欣王鹤棣双人快问快答完整版",
+        "onboard_time": 1662014970,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328760,
+        "num": 328760,
+        "word": "关晓彤也爱在横店找明星",
+        "onboard_time": 1662014129,
+        "rank": 24,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 324379,
+        "num": 324379,
+        "word": "电影消失的她不会改名",
+        "onboard_time": 1662020667,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308890,
+        "num": 308890,
+        "word": "纪念馆正在核实网传南京大屠杀照片",
+        "onboard_time": 1662020849,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289371,
+        "num": 289371,
+        "word": "老师为了公平煞费苦心了",
+        "onboard_time": 1662017908,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 284885,
+        "num": 284885,
+        "word": "乐华新男团官宣",
+        "onboard_time": 1662014547,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283288,
+        "num": 283288,
+        "word": "长春市传染病医院发现5例阳性",
+        "onboard_time": 1662008495,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617964,
+        "num": 278758,
+        "word": "热带雨林",
+        "onboard_time": 1662008374,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261543,
+        "num": 261543,
+        "word": "武林外传入驻微博",
+        "onboard_time": 1662003688,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259134,
+        "num": 259134,
+        "word": "杜德伟第八号当铺造型",
+        "onboard_time": 1662011669,
+        "rank": 32,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 258424,
+        "num": 258424,
+        "word": "男子10秒内死里逃生2次",
+        "onboard_time": 1662006575,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233604,
+        "num": 233604,
+        "word": "我发现上班摸鱼才是最痛苦的",
+        "onboard_time": 1662005492,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 227929,
+        "num": 227929,
+        "word": "当中国地名有了立体感",
+        "onboard_time": 1662016169,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220553,
+        "num": 220553,
+        "word": "迪丽热巴说龚俊很容易害羞",
+        "onboard_time": 1662010530,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212941,
+        "num": 212941,
+        "word": "玲娜贝儿说话了",
+        "onboard_time": 1662001885,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204698,
+        "num": 204698,
+        "word": "生孩子后痛经能缓解吗",
+        "onboard_time": 1662021569,
+        "rank": 38,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 204370,
+        "num": 204370,
+        "word": "6岁女孩因长得像爸爸委屈大哭",
+        "onboard_time": 1662001407,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 196826,
+        "num": 196826,
+        "word": "北京市租房需进行合同网签",
+        "onboard_time": 1662014064,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175164,
+        "num": 175164,
+        "word": "黄景瑜打戏自带柔术外挂",
+        "onboard_time": 1662021207,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174013,
+        "num": 174013,
+        "word": "陈晓怀念不用涂粉的日子",
+        "onboard_time": 1662015028,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165075,
+        "num": 165075,
+        "word": "中学回应学生被军训教官强行剪发",
+        "onboard_time": 1662012929,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162512,
+        "num": 162512,
+        "word": "外卖小哥边抖腿边按亮整部电梯",
+        "onboard_time": 1662005492,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157450,
+        "num": 157450,
+        "word": "久哲九尾做客总决赛",
+        "onboard_time": 1662016889,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152125,
+        "num": 152125,
+        "word": "中国人寿原董事长王滨被双开",
+        "onboard_time": 1662005132,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151570,
+        "num": 151570,
+        "word": "JDG与TES决战银龙",
+        "onboard_time": 1662015388,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145500,
+        "num": 145500,
+        "word": "泰坦尼克号残骸8K画面公布",
+        "onboard_time": 1662010349,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126107,
+        "num": 126107,
+        "word": "留学生为种好一颗梨花光800万积蓄",
+        "onboard_time": 1662008015,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2022服贸会#"
+    }
+  }
+}
