@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662067218069,
+  "endTime": 1662068283014,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -8331,6 +8331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138309,
+      "num": 138309,
+      "word": "主播应聘被要求对口型卖产品",
+      "onboard_time": 1662063071,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137660,
       "num": 137660,
       "word": "二十不惑2皓史成双上线",
@@ -8675,14 +8683,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 99597,
-      "num": 99597,
-      "word": "主播应聘被要求对口型卖产品",
-      "onboard_time": 1662063071,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99098,
       "num": 99098,
       "word": "90后女生为传承宝剑文化坚守家乡",
@@ -8915,6 +8915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40757,
+      "num": 40757,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38124,
       "num": 38124,
       "word": "K甲",
@@ -8987,12 +8995,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20899,
-      "num": 20899,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 21745,
+      "num": 21745,
+      "word": "披荆斩棘第一次公演歌单",
+      "onboard_time": 1662067991,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18374,
+      "num": 18374,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 18357,
@@ -9027,12 +9043,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11545,
-      "num": 11545,
+      "raw_hot": 13578,
+      "num": 13578,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12757,
+      "num": 12757,
       "word": "成长有态度",
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10181,
+      "num": 10181,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9449,
@@ -9043,28 +9075,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 9237,
-      "num": 9237,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 8861,
       "num": 8861,
       "word": "如何评价稻盛和夫的一生",
       "onboard_time": 1661893509,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8517,
-      "num": 8517,
-      "word": "跳不出手掌心的小猫一枚",
-      "onboard_time": 1662067030,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 7281,
