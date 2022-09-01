@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662042046012,
+  "endTime": 1662043064594,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2673558,
+      "num": 2673558,
+      "word": "jkl",
+      "onboard_time": 1662042273,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2574419,
       "num": 2574419,
       "word": "男子失恋喝1斤白酒吃18袋头孢",
       "onboard_time": 1662020787,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2394767,
+      "num": 2394767,
+      "word": "JDG夺冠",
+      "onboard_time": 1662041973,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 2048268,
@@ -113,6 +129,14 @@
       "onboard_time": 1661992831,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1719216,
+      "num": 1719216,
+      "word": "JDG与TES决胜局",
+      "onboard_time": 1662039331,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 1717208,
@@ -227,14 +251,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1183950,
-      "num": 1183950,
-      "word": "JDG与TES决胜局",
-      "onboard_time": 1662039331,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1144916,
       "num": 1144916,
       "word": "boss直聘公示涉性骚扰违规账号",
@@ -265,6 +281,14 @@
       "onboard_time": 1662004169,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1091241,
+      "num": 1091241,
+      "word": "369",
+      "onboard_time": 1662033327,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1080953,
@@ -329,14 +353,6 @@
       "onboard_time": 1662035190,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 958485,
-      "num": 958485,
-      "word": "369",
-      "onboard_time": 1662033327,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 948976,
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824730,
+      "num": 824730,
+      "word": "当代年轻人离婚成本有多高",
+      "onboard_time": 1662040472,
+      "rank": 15,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 815327,
       "num": 815327,
       "word": "icon登顶",
@@ -529,6 +553,14 @@
       "onboard_time": 1662014129,
       "rank": 12,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 703905,
+      "num": 344945,
+      "word": "多国感谢中国在安理会主席月出色工作",
+      "onboard_time": 1662041190,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 701838,
@@ -699,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549686,
+      "num": 549686,
+      "word": "心疼小天",
+      "onboard_time": 1662042812,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 540629,
       "num": 540629,
       "word": "管泽元",
@@ -745,6 +785,14 @@
       "onboard_time": 1661960249,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508644,
+      "num": 508644,
+      "word": "姜小果承认喜欢齐颂",
+      "onboard_time": 1662041793,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 508309,
@@ -851,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452647,
-      "num": 286461,
-      "word": "JDG夺冠",
-      "onboard_time": 1662041973,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 450608,
       "num": 375604,
       "word": "披荆斩棘",
@@ -921,14 +961,6 @@
       "onboard_time": 1662030326,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423227,
-      "num": 423227,
-      "word": "当代年轻人离婚成本有多高",
-      "onboard_time": 1662040472,
-      "rank": 15,
-      "category": "情感,社会议题"
     },
     {
       "raw_hot": 415357,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1661965160,
       "rank": 4,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 390136,
+      "num": 390136,
+      "word": "教资报名",
+      "onboard_time": 1662040589,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 389978,
@@ -1123,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340710,
+      "num": 340710,
+      "word": "沉香重华渣爹线太蛊了",
+      "onboard_time": 1662042573,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "教官在狙击手身边剥洋葱",
@@ -1132,7 +1180,7 @@
     },
     {
       "raw_hot": 338347,
-      "num": 284264,
+      "num": 319365,
       "word": "陈宇是反派眼里的反派",
       "onboard_time": 1662041308,
       "rank": 22,
@@ -1331,14 +1379,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 303703,
-      "num": 281815,
-      "word": "多国感谢中国在安理会主席月出色工作",
-      "onboard_time": 1662041190,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 302650,
       "num": 302650,
       "word": "成都商超农贸市场正常营业",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1662023367,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 296748,
+      "num": 296748,
+      "word": "巴黎贝甜疫情期间无证生产被罚58万",
+      "onboard_time": 1662041793,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 293561,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1662017908,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 288925,
+      "num": 288925,
+      "word": "JackeyLove泽丽",
+      "onboard_time": 1662042573,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 285524,
@@ -1513,14 +1569,6 @@
       "onboard_time": 1662005609,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270219,
-      "num": 270219,
-      "word": "教资报名",
-      "onboard_time": 1662040589,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 270118,
@@ -1811,14 +1859,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 210159,
-      "num": 210159,
-      "word": "姜小果承认喜欢齐颂",
-      "onboard_time": 1662041793,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209980,
       "num": 209980,
       "word": "成都学生五天五检",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1662028767,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209254,
+      "num": 209254,
+      "word": "宋亚轩吃瓜演我",
+      "onboard_time": 1662042514,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 207127,
@@ -1937,14 +1985,6 @@
       "onboard_time": 1661959651,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187139,
-      "num": 187139,
-      "word": "巴黎贝甜疫情期间无证生产被罚58万",
-      "onboard_time": 1662041793,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 186614,
@@ -2139,6 +2179,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150325,
+      "num": 150325,
+      "word": "LPL一号种子JDG",
+      "onboard_time": 1662042754,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 150274,
+      "num": 150274,
+      "word": "移动公厕一次收费10元还倒计时",
+      "onboard_time": 1662042934,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148790,
       "num": 148790,
       "word": "火星制氧实验成功",
@@ -2244,7 +2300,7 @@
     },
     {
       "raw_hot": 130968,
-      "num": 1484365,
+      "num": 2462986,
       "word": "开学第一课",
       "onboard_time": 1661942188,
       "rank": 2,
@@ -2265,6 +2321,14 @@
       "onboard_time": 1661954132,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129547,
+      "num": 129547,
+      "word": "刘洋探出身说我先回去一会见",
+      "onboard_time": 1662043052,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 119119,
