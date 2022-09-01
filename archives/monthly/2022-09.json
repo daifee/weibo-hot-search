@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662012129873,
+  "endTime": 1662014114176,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -57,6 +57,14 @@
       "onboard_time": 1661992831,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1717208,
+      "num": 1717208,
+      "word": "取消公摊面积或给消费者埋下暗坑",
+      "onboard_time": 1662007835,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1709135,
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384768,
-      "num": 1384768,
-      "word": "取消公摊面积或给消费者埋下暗坑",
-      "onboard_time": 1662007835,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1260006,
       "num": 1260006,
       "word": "父亲阻拦复读后孩子考上北大",
       "onboard_time": 1662006755,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1115775,
+      "num": 1115775,
+      "word": "长春市传染病医院发现5例阳性",
+      "onboard_time": 1662008495,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1115336,
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 920264,
-      "num": 920264,
-      "word": "长春市传染病医院发现5例阳性",
-      "onboard_time": 1662008495,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 916049,
       "num": 916049,
       "word": "我发现上班摸鱼才是最痛苦的",
       "onboard_time": 1662005492,
       "rank": 15,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 898023,
+      "num": 898023,
+      "word": "杜德伟第八号当铺造型",
+      "onboard_time": 1662011669,
+      "rank": 31,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 872837,
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 665615,
+      "num": 665615,
+      "word": "收费员一句话救了四个人",
+      "onboard_time": 1662008255,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 655117,
       "num": 655117,
       "word": "三亚居民拍到猴子潜水画面",
@@ -321,14 +337,6 @@
       "onboard_time": 1662002428,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614355,
-      "num": 614355,
-      "word": "收费员一句话救了四个人",
-      "onboard_time": 1662008255,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 571944,
@@ -425,6 +433,14 @@
       "onboard_time": 1662007472,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455179,
+      "num": 455179,
+      "word": "泰坦尼克号残骸8K画面公布",
+      "onboard_time": 1662010349,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453597,
@@ -627,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333191,
-      "num": 259824,
-      "word": "杜德伟第八号当铺造型",
-      "onboard_time": 1662011669,
-      "rank": 31,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 328902,
       "num": 267645,
       "word": "沉香重华杨紫成毅受情罚花絮",
@@ -699,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308272,
+      "num": 303199,
+      "word": "武林外传官微否认翻拍",
+      "onboard_time": 1662012090,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304375,
       "num": 304375,
       "word": "家长开学日的统一姿势",
@@ -707,12 +723,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 298409,
+      "num": 298409,
+      "word": "玄夜的媚唐周的笑应渊的泪",
+      "onboard_time": 1662013289,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
       "onboard_time": 1661947290,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292799,
+      "num": 292799,
+      "word": "杨紫成毅原声台词爆发力",
+      "onboard_time": 1662013529,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 292433,
@@ -771,12 +803,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 275814,
+      "num": 275814,
+      "word": "樊振东上海交大报到",
+      "onboard_time": 1662011188,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270717,
       "num": 270717,
       "word": "刘彦平被双开",
       "onboard_time": 1662005609,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270118,
+      "num": 135500,
+      "word": "王俊凯六登时尚先生金九封面",
+      "onboard_time": 1662014064,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262802,
@@ -835,12 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241389,
-      "num": 130488,
-      "word": "武林外传官微否认翻拍",
-      "onboard_time": 1662012090,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 242181,
+      "num": 242181,
+      "word": "被HR追问试用期离职原因",
+      "onboard_time": 1662012449,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 235592,
@@ -848,22 +896,6 @@
       "word": "吴易昺晋级美网32强",
       "onboard_time": 1661998525,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 234607,
-      "num": 234607,
-      "word": "泰坦尼克号残骸8K画面公布",
-      "onboard_time": 1662010349,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231365,
-      "num": 231365,
-      "word": "樊振东上海交大报到",
-      "onboard_time": 1662011188,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -1003,12 +1035,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 188596,
+      "num": 188596,
+      "word": "中学回应学生被军训教官强行剪发",
+      "onboard_time": 1662012929,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 187863,
       "num": 187863,
       "word": "国外也卖这东西啊",
       "onboard_time": 1661959651,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186853,
+      "num": 130517,
+      "word": "北京市租房需进行合同网签",
+      "onboard_time": 1662014064,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186614,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1661988022,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22280,
+      "num": 187050,
+      "word": "高考复读值不值得",
+      "onboard_time": 1662013829,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 7281,
