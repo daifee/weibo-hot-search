@@ -1,0 +1,410 @@
+{
+  "runTime": 1661998857526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2048268,
+        "num": 2048268,
+        "word": "阿根廷出现不明原因肺炎已致2人死亡",
+        "onboard_time": 1661993728,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1720401,
+        "num": 1720401,
+        "word": "夫妻看新房发现已被人装修入住",
+        "onboard_time": 1661992831,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129135,
+        "num": 1219652,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1885662,
+        "num": 1155568,
+        "word": "iPhone14Pro叹号孔可显示为药丸形",
+        "onboard_time": 1661994268,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 997973,
+        "num": 997973,
+        "word": "刘畊宏带货假燕窝公司已被吊销",
+        "onboard_time": 1661970974,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 870844,
+        "num": 870844,
+        "word": "山寨iPhone14ProMax已上市",
+        "onboard_time": 1661995881,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 778543,
+        "num": 778543,
+        "word": "四川增本土确诊132例",
+        "onboard_time": 1661996248,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655117,
+        "num": 655117,
+        "word": "三亚居民拍到猴子潜水画面",
+        "onboard_time": 1661989584,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619114,
+        "num": 619114,
+        "word": "女子剪发被4部手机对着直播",
+        "onboard_time": 1661958932,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571944,
+        "num": 571944,
+        "word": "大连增101例本土无症状",
+        "onboard_time": 1661992890,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1709135,
+        "num": 564128,
+        "word": "谢谢玖月奇迹",
+        "onboard_time": 1661994090,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 540474,
+        "num": 540474,
+        "word": "三体",
+        "onboard_time": 1661989524,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452733,
+        "num": 452733,
+        "word": "外卖员偷餐被举报连续2天报复顾客",
+        "onboard_time": 1661990124,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438009,
+        "num": 438009,
+        "word": "爱奇艺腾讯优酷芒果9月排播表",
+        "onboard_time": 1661959170,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410826,
+        "num": 410826,
+        "word": "网传大宋少年志2九月下旬开机",
+        "onboard_time": 1661996668,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408423,
+        "num": 408423,
+        "word": "日本医疗机构称新冠疫情已达灾害级别",
+        "onboard_time": 1661988382,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375351,
+        "num": 375351,
+        "word": "17岁女孩去纹身遭店老板怒斥",
+        "onboard_time": 1661957733,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370860,
+        "num": 370860,
+        "word": "赵晓卉退赛",
+        "onboard_time": 1661959892,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331827,
+        "num": 331827,
+        "word": "iPhone14手机壳或与上一代通用",
+        "onboard_time": 1661997388,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313255,
+        "num": 313255,
+        "word": "杨蒙恩说买钻戒是感情里最刺激的时候",
+        "onboard_time": 1661993312,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296986,
+        "num": 296986,
+        "word": "成都官方说不必盲目囤积生活物资",
+        "onboard_time": 1661989825,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284518,
+        "num": 284518,
+        "word": "河北省新增无症状感染者45例",
+        "onboard_time": 1661996187,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283368,
+        "num": 283368,
+        "word": "深圳福田区华星舞蹈艺术中心被立案调查",
+        "onboard_time": 1661997747,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258167,
+        "num": 258167,
+        "word": "国家将开展美瞳专项整治行动",
+        "onboard_time": 1661992232,
+        "rank": 23,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 251578,
+        "num": 251578,
+        "word": "宋轶晒于曼丽背影照问你好吗",
+        "onboard_time": 1661982912,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245163,
+        "num": 245163,
+        "word": "10岁男孩开灯睡觉骨龄发育慢4年",
+        "onboard_time": 1661952630,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238159,
+        "num": 238159,
+        "word": "周杰伦王俊凯Uzi厂长",
+        "onboard_time": 1661965160,
+        "rank": 26,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 235592,
+        "num": 235592,
+        "word": "吴易昺晋级美网32强",
+        "onboard_time": 1661998525,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233306,
+        "num": 233306,
+        "word": "亲爹报警男孩吃瓜吃到自己家",
+        "onboard_time": 1661973792,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227562,
+        "num": 227562,
+        "word": "长春疫情防控",
+        "onboard_time": 1661997207,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224713,
+        "num": 224713,
+        "word": "河南增本土确诊1例无症状59例",
+        "onboard_time": 1661996426,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223742,
+        "num": 223742,
+        "word": "吴易昺",
+        "onboard_time": 1661989883,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210813,
+        "num": 210813,
+        "word": "济南疫情防控",
+        "onboard_time": 1661991551,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210290,
+        "num": 210290,
+        "word": "民警百米冲刺为突发哮喘男子买药",
+        "onboard_time": 1661997027,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194595,
+        "num": 194595,
+        "word": "九月",
+        "onboard_time": 1661987600,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183248,
+        "num": 183248,
+        "word": "江苏5岁女孩被大型犬咬伤致毁容",
+        "onboard_time": 1661951490,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181493,
+        "num": 181493,
+        "word": "女子抽中5899元手机福袋被寄模型机",
+        "onboard_time": 1661960249,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180270,
+        "num": 180270,
+        "word": "宁安如梦",
+        "onboard_time": 1661959112,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170523,
+        "num": 170523,
+        "word": "南通疫情防控",
+        "onboard_time": 1661996002,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170052,
+        "num": 170052,
+        "word": "南昌上空出现不明飞行物",
+        "onboard_time": 1661955815,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167615,
+        "num": 167615,
+        "word": "北京8月31日新增3例本土确诊",
+        "onboard_time": 1661991089,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157904,
+        "num": 157904,
+        "word": "大熊猫宝宝突然汪了一声",
+        "onboard_time": 1661964501,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149330,
+        "num": 149330,
+        "word": "彭于晏工作室打假被代言",
+        "onboard_time": 1661998525,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146469,
+        "num": 146469,
+        "word": "林俊杰翻唱那女孩对我说",
+        "onboard_time": 1661987900,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141879,
+        "num": 141879,
+        "word": "深圳疫情防控",
+        "onboard_time": 1661988682,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135884,
+        "num": 135884,
+        "word": "杨幂工作室回应长沙活动被取消",
+        "onboard_time": 1661965578,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 133745,
+        "word": "超市售卖鳄雀鳝被责令现场扑杀",
+        "onboard_time": 1661957313,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190087,
+        "num": 132989,
+        "word": "小威晋级美网女单32强",
+        "onboard_time": 1661998828,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 131509,
+        "num": 131509,
+        "word": "西藏巴松湖彩虹",
+        "onboard_time": 1661998287,
+        "rank": 48,
+        "category": "旅游,自然"
+      },
+      {
+        "raw_hot": 127076,
+        "num": 127076,
+        "word": "iPhone14涨价或低于预期",
+        "onboard_time": 1661998828,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大召开时间#"
+    }
+  }
+}
