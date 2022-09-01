@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662064727459,
+  "endTime": 1662067218069,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99597,
+      "num": 99597,
+      "word": "主播应聘被要求对口型卖产品",
+      "onboard_time": 1662063071,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96544,
       "num": 96544,
       "word": "覆流年",
@@ -435,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23868,
-      "num": 23868,
-      "word": "主播应聘被要求对口型卖产品",
-      "onboard_time": 1662063071,
-      "rank": 44,
+      "raw_hot": 20899,
+      "num": 20899,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16349,
+      "num": 16349,
+      "word": "吴振峰又带货失败了",
+      "onboard_time": 1662062891,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 14785,
@@ -451,20 +467,28 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 11153,
-      "num": 11153,
-      "word": "吴振峰又带货失败了",
-      "onboard_time": 1662062891,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 10942,
-      "num": 10942,
+      "raw_hot": 11545,
+      "num": 11545,
       "word": "成长有态度",
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9237,
+      "num": 9237,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 8517,
+      "num": 8517,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
