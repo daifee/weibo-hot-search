@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662007899129,
+  "endTime": 1662011571863,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1616060,
+      "num": 1616060,
+      "word": "男子10秒内死里逃生2次",
+      "onboard_time": 1662006575,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1569619,
       "num": 1569619,
       "word": "6岁女孩因长得像爸爸委屈大哭",
@@ -99,12 +107,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1463605,
+      "num": 276393,
+      "word": "热带雨林",
+      "onboard_time": 1662008374,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1436183,
       "num": 1436183,
       "word": "女子剪发被4部手机对着直播",
       "onboard_time": 1661958932,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260006,
+      "num": 1260006,
+      "word": "父亲阻拦复读后孩子考上北大",
+      "onboard_time": 1662006755,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1199789,
+      "num": 1199789,
+      "word": "取消公摊面积或给消费者埋下暗坑",
+      "onboard_time": 1662007835,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1115336,
@@ -155,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916049,
+      "num": 916049,
+      "word": "我发现上班摸鱼才是最痛苦的",
+      "onboard_time": 1662005492,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 872837,
       "num": 872837,
       "word": "南昌上空出现不明飞行物",
@@ -179,12 +219,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 836500,
-      "num": 836500,
-      "word": "我发现上班摸鱼才是最痛苦的",
-      "onboard_time": 1662005492,
-      "rank": 15,
-      "category": "幽默,情感"
+      "raw_hot": 841054,
+      "num": 841054,
+      "word": "长春市传染病医院发现5例阳性",
+      "onboard_time": 1662008495,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785269,
@@ -225,6 +265,22 @@
       "onboard_time": 1661946508,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760258,
+      "num": 760258,
+      "word": "为什么越来越多人想当老师",
+      "onboard_time": 1662007415,
+      "rank": 36,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 723325,
+      "num": 723325,
+      "word": "迪丽热巴说龚俊很容易害羞",
+      "onboard_time": 1662010530,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 701838,
@@ -307,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533278,
+      "num": 533278,
+      "word": "收费员一句话救了四个人",
+      "onboard_time": 1662008255,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 522674,
       "num": 229161,
       "word": "鹿晗赖冠霖王楚然直播截图状态",
@@ -323,20 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506855,
-      "num": 506855,
-      "word": "父亲阻拦复读后孩子考上北大",
-      "onboard_time": 1662006755,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 506812,
-      "num": 506812,
-      "word": "男子10秒内死里逃生2次",
-      "onboard_time": 1662006575,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 508309,
+      "num": 508309,
+      "word": "长珩仙君配音念长珩的告别信",
+      "onboard_time": 1662011308,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 499502,
@@ -363,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459004,
+      "num": 459004,
+      "word": "姐姐这是可以说的吗",
+      "onboard_time": 1662007472,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453597,
       "num": 453597,
       "word": "九月",
@@ -377,6 +441,14 @@
       "onboard_time": 1661990124,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450608,
+      "num": 374267,
+      "word": "披荆斩棘",
+      "onboard_time": 1662009751,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 447313,
@@ -400,14 +472,6 @@
       "word": "脱口秀大会 领笑员",
       "onboard_time": 1662002908,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 431696,
-      "num": 431696,
-      "word": "姐姐这是可以说的吗",
-      "onboard_time": 1662007472,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -451,12 +515,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 388566,
+      "num": 369820,
+      "word": "今晚就做玄夜的帝后",
+      "onboard_time": 1662008433,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382552,
       "num": 382552,
       "word": "研究称暴露于蓝光会加速衰老",
       "onboard_time": 1661981589,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 379615,
+      "num": 379615,
+      "word": "留学生为种好一颗梨花光800万积蓄",
+      "onboard_time": 1662008015,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370434,
@@ -507,6 +587,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 338012,
+      "num": 270111,
+      "word": "苏有朋戏腔",
+      "onboard_time": 1662010410,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337322,
       "num": 337322,
       "word": "沉香如屑超45万人豆瓣打分",
@@ -536,6 +624,14 @@
       "word": "宁安如梦",
       "onboard_time": 1661959112,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 328902,
+      "num": 267645,
+      "word": "沉香重华杨紫成毅受情罚花絮",
+      "onboard_time": 1662009512,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -611,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292433,
+      "num": 292433,
+      "word": "深圳疫情防控",
+      "onboard_time": 1661988682,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285524,
       "num": 285524,
       "word": "杨幂工作室回应长沙活动被取消",
@@ -651,12 +755,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 278010,
-      "num": 278010,
-      "word": "为什么越来越多人想当老师",
-      "onboard_time": 1662007415,
-      "rank": 36,
-      "category": "情感,教育"
+      "raw_hot": 277265,
+      "num": 277265,
+      "word": "95后铁路姑娘帮接生后激动大哭",
+      "onboard_time": 1662007356,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 270717,
@@ -707,6 +811,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247648,
+      "num": 247648,
+      "word": "摆渡人",
+      "onboard_time": 1661943329,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242199,
+      "num": 242199,
+      "word": "内蒙古住建厅回应取消公摊",
+      "onboard_time": 1662006210,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -729,14 +849,6 @@
       "onboard_time": 1661959532,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 229988,
-      "num": 229988,
-      "word": "内蒙古住建厅回应取消公摊",
-      "onboard_time": 1662006210,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224713,
@@ -795,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220068,
-      "num": 220068,
-      "word": "95后铁路姑娘帮接生后激动大哭",
-      "onboard_time": 1662007356,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 213968,
       "num": 213968,
       "word": "理塘文旅回应丁真商标风波",
@@ -843,20 +947,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 206311,
+      "num": 206311,
+      "word": "泰坦尼克号残骸8K画面公布",
+      "onboard_time": 1662010349,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205065,
       "num": 205065,
       "word": "恋爱前后的区别可以有多大",
       "onboard_time": 1661958574,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200056,
-      "num": 200056,
-      "word": "取消公摊面积或给消费者埋下暗坑",
-      "onboard_time": 1662007835,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190087,
@@ -939,12 +1043,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 178783,
-      "num": 178783,
-      "word": "深圳疫情防控",
-      "onboard_time": 1661988682,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "樊振东上海交大报到",
+      "onboard_time": 1662011188,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 167615,
@@ -953,6 +1057,14 @@
       "onboard_time": 1661991089,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167241,
+      "num": 167241,
+      "word": "专家称取消公摊会导致房价上涨",
+      "onboard_time": 1662010293,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 166944,
@@ -1096,14 +1208,6 @@
       "word": "机票燃油附加费年内第二次下调",
       "onboard_time": 1661954132,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115956,
-      "num": 115956,
-      "word": "摆渡人",
-      "onboard_time": 1661943329,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
