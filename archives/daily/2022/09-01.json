@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662031153316,
+  "endTime": 1662032178586,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2094297,
-      "num": 2094297,
+      "raw_hot": 2278889,
+      "num": 2278889,
       "word": "国外网友或发现南京大屠杀彩照",
       "onboard_time": 1662020008,
       "rank": 38,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922766,
+      "num": 922766,
+      "word": "舍不得赵露思演的程少商",
+      "onboard_time": 1662031349,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 916088,
       "num": 916088,
       "word": "婴儿服装礼盒拆出40多根针",
@@ -353,6 +361,14 @@
       "onboard_time": 1662017309,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 832820,
+      "num": 832820,
+      "word": "重庆家长为灭山火耽误儿子迁户入学",
+      "onboard_time": 1662027149,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815327,
@@ -427,14 +443,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 720465,
-      "num": 720465,
-      "word": "重庆家长为灭山火耽误儿子迁户入学",
-      "onboard_time": 1662027149,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 701838,
       "num": 701838,
       "word": "男子刷视频刷到自家竟是同事偷拍",
@@ -480,6 +488,14 @@
       "word": "三亚居民拍到猴子潜水画面",
       "onboard_time": 1661989584,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638868,
+      "num": 638868,
+      "word": "3岁女孩弄坏电视屏幕用黑笔补救",
+      "onboard_time": 1662026726,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -579,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550983,
-      "num": 550983,
-      "word": "3岁女孩弄坏电视屏幕用黑笔补救",
-      "onboard_time": 1662026726,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 540629,
+      "num": 540629,
+      "word": "管泽元",
+      "onboard_time": 1662030688,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 540474,
@@ -760,6 +776,14 @@
       "word": "沉香如屑优酷首个灯塔破百万剧集",
       "onboard_time": 1662024868,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 415060,
+      "num": 415060,
+      "word": "玄夜疯心锁爱",
+      "onboard_time": 1662029908,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1051,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318190,
-      "num": 318190,
-      "word": "玄夜疯心锁爱",
-      "onboard_time": 1662029908,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "杨蒙恩说买钻戒是感情里最刺激的时候",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1662012090,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304528,
-      "num": 304528,
-      "word": "管泽元",
-      "onboard_time": 1662030688,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 304375,
@@ -1259,12 +1267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270253,
+      "num": 270253,
+      "word": "新规明确处方药可通过网络销售",
+      "onboard_time": 1662031469,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270118,
       "num": 135500,
       "word": "王俊凯六登时尚先生金九封面",
       "onboard_time": 1662014064,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 269211,
+      "num": 269211,
+      "word": "客服做成了间谍的样子",
+      "onboard_time": 1662031106,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 262802,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1662016889,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253345,
+      "num": 253345,
+      "word": "陈冬说已出舱感觉良好",
+      "onboard_time": 1662031587,
+      "rank": 27,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 252769,
@@ -1435,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220673,
+      "num": 220673,
+      "word": "苍兰诀",
+      "onboard_time": 1662031469,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213968,
       "num": 213968,
       "word": "理塘文旅回应丁真商标风波",
@@ -1448,6 +1488,14 @@
       "word": "郝春荣被双开",
       "onboard_time": 1662006031,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212580,
+      "num": 212580,
+      "word": "河南残疾夫妻靠线上卖菜撑起全家",
+      "onboard_time": 1662031526,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1545,6 +1593,14 @@
       "onboard_time": 1662027928,
       "rank": 38,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 191581,
+      "num": 191581,
+      "word": "TES扳回一城",
+      "onboard_time": 1662031709,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 190087,
@@ -1673,6 +1729,22 @@
       "onboard_time": 1662027268,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171321,
+      "num": 171321,
+      "word": "为什么会反复爱上同一个人",
+      "onboard_time": 1662031885,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169288,
+      "num": 169288,
+      "word": "北大数学天才柳智宇下山还俗",
+      "onboard_time": 1662031948,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167615,
@@ -1867,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126584,
-      "num": 126584,
-      "word": "客服做成了间谍的样子",
-      "onboard_time": 1662031106,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113229,
       "num": 113229,
       "word": "男子晒老婆结婚生娃前后对比",
@@ -1947,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82805,
+      "num": 1484365,
+      "word": "开学第一课",
+      "onboard_time": 1661942188,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79164,
       "num": 79164,
       "word": "王一博八月份八种身份",
@@ -1961,14 +2033,6 @@
       "onboard_time": 1661942608,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 77784,
-      "num": 1484365,
-      "word": "开学第一课",
-      "onboard_time": 1661942188,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76225,
