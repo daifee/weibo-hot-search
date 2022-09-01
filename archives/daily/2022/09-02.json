@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662068283014,
+  "endTime": 1662070895846,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -259,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194316,
+      "num": 194316,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187943,
       "num": 187943,
       "word": "巴黎贝甜疫情期间无证生产被罚58万",
       "onboard_time": 1662041793,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 184861,
+      "num": 184861,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179027,
@@ -307,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "主播应聘被要求对口型卖产品",
+      "onboard_time": 1662063071,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144785,
       "num": 144785,
       "word": "范丞丞的嘴从不让人失望",
@@ -331,12 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138309,
-      "num": 138309,
-      "word": "主播应聘被要求对口型卖产品",
-      "onboard_time": 1662063071,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 137700,
+      "num": 137700,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 126196,
@@ -345,6 +369,14 @@
       "onboard_time": 1662045267,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122765,
+      "num": 122765,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118695,
@@ -387,14 +419,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 105535,
-      "num": 105535,
-      "word": "34岁老马去世2匹小马将送葬车拦停",
-      "onboard_time": 1662060491,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101775,
       "num": 101775,
       "word": "JackeyLove泽丽",
@@ -435,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40757,
-      "num": 40757,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40546,
       "num": 851921,
       "word": "开学第一课",
@@ -451,28 +467,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21745,
-      "num": 21745,
+      "raw_hot": 38434,
+      "num": 38434,
+      "word": "吴振峰又带货失败了",
+      "onboard_time": 1662062891,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36104,
+      "num": 36104,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28567,
+      "num": 28567,
       "word": "披荆斩棘第一次公演歌单",
       "onboard_time": 1662067991,
       "rank": 27,
       "category": "综艺"
     },
     {
-      "raw_hot": 18374,
-      "num": 18374,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 16349,
-      "num": 16349,
-      "word": "吴振峰又带货失败了",
-      "onboard_time": 1662062891,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 15506,
+      "num": 15506,
+      "word": "世界人工智能大会",
+      "onboard_time": 1662069733,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 14785,
@@ -483,28 +507,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 13578,
-      "num": 13578,
-      "word": "跳不出手掌心的小猫一枚",
-      "onboard_time": 1662067030,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12757,
       "num": 12757,
       "word": "成长有态度",
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10181,
-      "num": 10181,
-      "word": "福建渔民用泥巴击落无人机",
-      "onboard_time": 1662067931,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

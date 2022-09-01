@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662068283014,
+  "endTime": 1662070895846,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -2083,6 +2083,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194316,
+      "num": 194316,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194085,
       "num": 194085,
       "word": "藏在村里的广州烧味有多绝",
@@ -2184,6 +2192,14 @@
       "word": "武汉新增确诊1例无症状17例",
       "onboard_time": 1661999366,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184861,
+      "num": 184861,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2371,6 +2387,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 152906,
+      "num": 152906,
+      "word": "主播应聘被要求对口型卖产品",
+      "onboard_time": 1662063071,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150325,
       "num": 150325,
       "word": "LPL一号种子JDG",
@@ -2451,12 +2475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138309,
-      "num": 138309,
-      "word": "主播应聘被要求对口型卖产品",
-      "onboard_time": 1662063071,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 137700,
+      "num": 137700,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 137660,
@@ -2547,6 +2571,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 122765,
+      "num": 122765,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119374,
       "num": 119374,
       "word": "能拼着吃的饼干",
@@ -2608,14 +2640,6 @@
       "word": "82岁育种院士让人泪目的手",
       "onboard_time": 1662038671,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105535,
-      "num": 105535,
-      "word": "34岁老马去世2匹小马将送葬车拦停",
-      "onboard_time": 1662060491,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2715,12 +2739,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40757,
-      "num": 40757,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 38434,
+      "num": 38434,
+      "word": "吴振峰又带货失败了",
+      "onboard_time": 1662062891,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36104,
+      "num": 36104,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28567,
+      "num": 28567,
+      "word": "披荆斩棘第一次公演歌单",
+      "onboard_time": 1662067991,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 27800,
@@ -2731,28 +2771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21745,
-      "num": 21745,
-      "word": "披荆斩棘第一次公演歌单",
-      "onboard_time": 1662067991,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18374,
-      "num": 18374,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 16349,
-      "num": 16349,
-      "word": "吴振峰又带货失败了",
-      "onboard_time": 1662062891,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 15506,
+      "num": 15506,
+      "word": "世界人工智能大会",
+      "onboard_time": 1662069733,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 14785,
@@ -2763,28 +2787,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 13578,
-      "num": 13578,
-      "word": "跳不出手掌心的小猫一枚",
-      "onboard_time": 1662067030,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12757,
       "num": 12757,
       "word": "成长有态度",
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10181,
-      "num": 10181,
-      "word": "福建渔民用泥巴击落无人机",
-      "onboard_time": 1662067931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7281,
