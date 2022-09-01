@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662021989364,
+  "endTime": 1662024135990,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -265,6 +265,14 @@
       "onboard_time": 1661761290,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2542563,
+      "num": 2542563,
+      "word": "男子失恋喝1斤白酒吃18袋头孢",
+      "onboard_time": 1662020787,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2456606,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1238918,
+      "num": 1238918,
+      "word": "生孩子后痛经能缓解吗",
+      "onboard_time": 1662021569,
+      "rank": 38,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1234757,
       "num": 1234757,
       "word": "阳澄湖大闸蟹恐缺席中秋",
@@ -1240,6 +1256,14 @@
       "word": "长沙人每7天要做一次核酸",
       "onboard_time": 1661955930,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1120085,
+      "num": 1120085,
+      "word": "国外网友或发现南京大屠杀彩照",
+      "onboard_time": 1662020008,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1763,14 +1787,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 843201,
-      "num": 843201,
-      "word": "男子失恋喝1斤白酒吃18袋头孢",
-      "onboard_time": 1662020787,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 842062,
       "num": 842062,
       "word": "iPhone14Pro或支持30W充电器",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1661957733,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784511,
+      "num": 784511,
+      "word": "成毅新剧结了5次婚",
+      "onboard_time": 1662022230,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 779214,
@@ -2265,6 +2289,14 @@
       "onboard_time": 1661947527,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672588,
+      "num": 672588,
+      "word": "jojo更新",
+      "onboard_time": 1662020069,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 672405,
@@ -2787,11 +2819,27 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 559265,
+      "num": 559265,
+      "word": "深圳南山区全域实行管控措施",
+      "onboard_time": 1662018749,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558350,
       "num": 558350,
       "word": "唐山打人案被害人回应网络传言",
       "onboard_time": 1661749477,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555979,
+      "num": 555979,
+      "word": "纪念馆正在核实网传南京大屠杀照片",
+      "onboard_time": 1662020849,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2803,20 +2851,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554745,
-      "num": 554745,
-      "word": "jojo更新",
-      "onboard_time": 1662020069,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 554483,
       "num": 331288,
       "word": "EXO 回归",
       "onboard_time": 1661686827,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550743,
+      "num": 550743,
+      "word": "成都两机场航班大面积取消",
+      "onboard_time": 1662022768,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550179,
@@ -3243,14 +3291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471805,
-      "num": 471805,
-      "word": "国外网友或发现南京大屠杀彩照",
-      "onboard_time": 1662020008,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469906,
       "num": 362727,
       "word": "INTO1组合回应",
@@ -3273,6 +3313,14 @@
       "onboard_time": 1661840188,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 467893,
+      "num": 413748,
+      "word": "爱丽落水",
+      "onboard_time": 1662021569,
+      "rank": 15,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 464040,
@@ -3763,14 +3811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404577,
-      "num": 404577,
-      "word": "爱丽落水",
-      "onboard_time": 1662021569,
-      "rank": 15,
-      "category": "游戏,综艺"
-    },
-    {
       "raw_hot": 403666,
       "num": 403666,
       "word": "上海疫情防控",
@@ -3793,14 +3833,6 @@
       "onboard_time": 1661766634,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401571,
-      "num": 401571,
-      "word": "深圳南山区全域实行管控措施",
-      "onboard_time": 1662018749,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401184,
@@ -4915,14 +4947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 308890,
-      "num": 308890,
-      "word": "纪念馆正在核实网传南京大屠杀照片",
-      "onboard_time": 1662020849,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308272,
       "num": 303199,
       "word": "武林外传官微否认翻拍",
@@ -4937,6 +4961,14 @@
       "onboard_time": 1661852430,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306930,
+      "num": 306930,
+      "word": "张峻宁17年颜值变化",
+      "onboard_time": 1662023007,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305539,
@@ -5329,6 +5361,14 @@
       "onboard_time": 1661695232,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272516,
+      "num": 272516,
+      "word": "赖美云KPL夏决评论席嘉宾",
+      "onboard_time": 1662022169,
+      "rank": 24,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 272512,
@@ -6107,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224799,
+      "num": 224799,
+      "word": "男孩暑假送外卖挣17350元交学费",
+      "onboard_time": 1662022949,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 224773,
       "num": 224773,
       "word": "BLACKPINK获VMA年度组合",
@@ -6185,6 +6233,14 @@
       "onboard_time": 1661927787,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221550,
+      "num": 221550,
+      "word": "美方做法是典型科技霸权主义",
+      "onboard_time": 1662023367,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 221391,
@@ -6403,6 +6459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207085,
+      "num": 207085,
+      "word": "相遇的夏天开播",
+      "onboard_time": 1662022169,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206719,
       "num": 206719,
       "word": "云南消防吃上重庆火锅",
@@ -6465,14 +6529,6 @@
       "onboard_time": 1661738370,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204698,
-      "num": 204698,
-      "word": "生孩子后痛经能缓解吗",
-      "onboard_time": 1662021569,
-      "rank": 38,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 204041,
@@ -7091,6 +7147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "2岁宝宝沉迷于包快递令妈妈发愁",
+      "onboard_time": 1662023850,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161429,
       "num": 161429,
       "word": "AI虚拟歌手入学上海音乐学院",
@@ -7236,7 +7300,7 @@
     },
     {
       "raw_hot": 148339,
-      "num": 148339,
+      "num": 1368576,
       "word": "开学第一课",
       "onboard_time": 1661942188,
       "rank": 47,
@@ -7281,6 +7345,14 @@
       "onboard_time": 1661987900,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143172,
+      "num": 143172,
+      "word": "大哥拍下300场日出日落鼓励陌生人",
+      "onboard_time": 1662023730,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 142868,
@@ -7409,6 +7481,14 @@
       "onboard_time": 1661915909,
       "rank": 47,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 136548,
+      "num": 136548,
+      "word": "21岁医学生开学日去世捐出角膜遗体",
+      "onboard_time": 1662024032,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 136389,
@@ -7915,6 +7995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27800,
+      "num": 553073,
+      "word": "如何看待餐饮界的巴奴现象",
+      "onboard_time": 1662022829,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27794,
       "num": 193399,
       "word": "张勇说阿里要创造商业之上的价值",
@@ -8033,6 +8121,9 @@
     },
     {
       "word": "#关注2022服贸会#"
+    },
+    {
+      "word": "#第十三届中国艺术节#"
     }
   ]
 }

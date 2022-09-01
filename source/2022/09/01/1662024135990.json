@@ -1,0 +1,410 @@
+{
+  "runTime": 1662024135990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2542563,
+        "num": 2542563,
+        "word": "男子失恋喝1斤白酒吃18袋头孢",
+        "onboard_time": 1662020787,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1774071,
+        "num": 1774071,
+        "word": "一女子五脏六腑全部反着长",
+        "onboard_time": 1662018507,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45123,
+        "num": 1368576,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349372,
+        "num": 1349372,
+        "word": "成都今日18时起全体居民原则居家",
+        "onboard_time": 1662003868,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238918,
+        "num": 1238918,
+        "word": "生孩子后痛经能缓解吗",
+        "onboard_time": 1662021569,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1120085,
+        "num": 1120085,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017760,
+        "num": 1017760,
+        "word": "疫情时的大一新生大四了",
+        "onboard_time": 1662018446,
+        "rank": 6,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 784511,
+        "num": 784511,
+        "word": "成毅新剧结了5次婚",
+        "onboard_time": 1662022230,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700115,
+        "num": 700115,
+        "word": "boss直聘公示涉性骚扰违规账号",
+        "onboard_time": 1662014669,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672588,
+        "num": 672588,
+        "word": "jojo更新",
+        "onboard_time": 1662020069,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 946520,
+        "num": 647338,
+        "word": "赵露思偷偷藏不住上班饭拍",
+        "onboard_time": 1662020729,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572070,
+        "num": 572070,
+        "word": "婴儿服装礼盒拆出40多根针",
+        "onboard_time": 1662015927,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559265,
+        "num": 559265,
+        "word": "深圳南山区全域实行管控措施",
+        "onboard_time": 1662018749,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555979,
+        "num": 555979,
+        "word": "纪念馆正在核实网传南京大屠杀照片",
+        "onboard_time": 1662020849,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27800,
+        "num": 553073,
+        "word": "如何看待餐饮界的巴奴现象",
+        "onboard_time": 1662022829,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550743,
+        "num": 550743,
+        "word": "成都两机场航班大面积取消",
+        "onboard_time": 1662022768,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507474,
+        "num": 507474,
+        "word": "成都地铁",
+        "onboard_time": 1662020188,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494626,
+        "num": 494626,
+        "word": "有妖气漫画关停",
+        "onboard_time": 1662017309,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 480099,
+        "num": 480099,
+        "word": "icon登顶",
+        "onboard_time": 1662018329,
+        "rank": 18,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 424649,
+        "num": 424649,
+        "word": "取消公摊面积或给消费者埋下暗坑",
+        "onboard_time": 1662007835,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 467893,
+        "num": 413748,
+        "word": "爱丽落水",
+        "onboard_time": 1662021569,
+        "rank": 20,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 376178,
+        "num": 376178,
+        "word": "北电2022新生报到",
+        "onboard_time": 1662019228,
+        "rank": 21,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 318226,
+        "num": 318226,
+        "word": "点外卖能看到饭做好了没",
+        "onboard_time": 1662019228,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306930,
+        "num": 306930,
+        "word": "张峻宁17年颜值变化",
+        "onboard_time": 1662023007,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272516,
+        "num": 272516,
+        "word": "赖美云KPL夏决评论席嘉宾",
+        "onboard_time": 1662022169,
+        "rank": 24,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1734074,
+        "num": 272278,
+        "word": "辣目洋子恢复本名",
+        "onboard_time": 1662005851,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262662,
+        "num": 262662,
+        "word": "收费员一句话救了四个人",
+        "onboard_time": 1662008255,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 255443,
+        "num": 255443,
+        "word": "为什么越来越多人想当老师",
+        "onboard_time": 1662007415,
+        "rank": 27,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 243739,
+        "num": 243739,
+        "word": "虞书欣王鹤棣双人快问快答完整版",
+        "onboard_time": 1662014970,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239876,
+        "num": 239876,
+        "word": "电影消失的她不会改名",
+        "onboard_time": 1662020667,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231370,
+        "num": 231370,
+        "word": "老师为了公平煞费苦心了",
+        "onboard_time": 1662017908,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 224799,
+        "num": 224799,
+        "word": "男孩暑假送外卖挣17350元交学费",
+        "onboard_time": 1662022949,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 221841,
+        "num": 221841,
+        "word": "父亲阻拦复读后孩子考上北大",
+        "onboard_time": 1662006755,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 221550,
+        "num": 221550,
+        "word": "美方做法是典型科技霸权主义",
+        "onboard_time": 1662023367,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 221216,
+        "num": 221216,
+        "word": "杜德伟第八号当铺造型",
+        "onboard_time": 1662011669,
+        "rank": 34,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 547114,
+        "num": 220056,
+        "word": "热带雨林",
+        "onboard_time": 1662008374,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217817,
+        "num": 217817,
+        "word": "武林外传入驻微博",
+        "onboard_time": 1662003688,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207085,
+        "num": 207085,
+        "word": "相遇的夏天开播",
+        "onboard_time": 1662022169,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203356,
+        "num": 203356,
+        "word": "迪丽热巴说龚俊很容易害羞",
+        "onboard_time": 1662010530,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200918,
+        "num": 200918,
+        "word": "长春市传染病医院发现5例阳性",
+        "onboard_time": 1662008495,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188134,
+        "num": 188134,
+        "word": "男子10秒内死里逃生2次",
+        "onboard_time": 1662006575,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 187272,
+        "word": "南山疫情防控",
+        "onboard_time": 1662018090,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179985,
+        "num": 179985,
+        "word": "关晓彤也爱在横店找明星",
+        "onboard_time": 1662014129,
+        "rank": 42,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 172511,
+        "num": 172511,
+        "word": "我发现上班摸鱼才是最痛苦的",
+        "onboard_time": 1662005492,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172296,
+        "num": 172296,
+        "word": "乐华新男团官宣",
+        "onboard_time": 1662014547,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161630,
+        "num": 161630,
+        "word": "2岁宝宝沉迷于包快递令妈妈发愁",
+        "onboard_time": 1662023850,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149852,
+        "num": 149852,
+        "word": "6岁女孩因长得像爸爸委屈大哭",
+        "onboard_time": 1662001407,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 143172,
+        "num": 143172,
+        "word": "大哥拍下300场日出日落鼓励陌生人",
+        "onboard_time": 1662023730,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136548,
+        "num": 136548,
+        "word": "21岁医学生开学日去世捐出角膜遗体",
+        "onboard_time": 1662024032,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127702,
+        "num": 127702,
+        "word": "当中国地名有了立体感",
+        "onboard_time": 1662016169,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十三届中国艺术节#"
+    }
+  }
+}
