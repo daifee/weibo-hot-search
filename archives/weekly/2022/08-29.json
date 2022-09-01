@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662045947765,
+  "endTime": 1662046978758,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -1683,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 956639,
+      "num": 956639,
+      "word": "移动公厕一次收费10元还倒计时",
+      "onboard_time": 1662042934,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956425,
       "num": 583161,
       "word": "肖战刘诗诗秋冬大片",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1662005492,
       "rank": 15,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 905476,
-      "num": 905476,
-      "word": "移动公厕一次收费10元还倒计时",
-      "onboard_time": 1662042934,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 898090,
@@ -2267,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756869,
+      "num": 756869,
+      "word": "姜小果承认喜欢齐颂",
+      "onboard_time": 1662041793,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 755247,
       "num": 755247,
       "word": "成都疫情处于快速上升阶段",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1661765251,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733960,
+      "num": 733960,
+      "word": "波兰要求德国赔偿二战损失",
+      "onboard_time": 1662043173,
+      "rank": 9,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 733216,
@@ -2771,14 +2787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 619890,
-      "num": 619890,
-      "word": "姜小果承认喜欢齐颂",
-      "onboard_time": 1662041793,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 618952,
       "num": 618952,
       "word": "姐姐们为于文文伸出圆手",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1661779235,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 615897,
-      "num": 615897,
-      "word": "波兰要求德国赔偿二战损失",
-      "onboard_time": 1662043173,
-      "rank": 9,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 612637,
@@ -3531,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482134,
+      "num": 482134,
+      "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
+      "onboard_time": 1662043112,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480726,
       "num": 480726,
       "word": "波兰民众开始排队买煤",
@@ -3929,14 +3937,6 @@
       "onboard_time": 1661920112,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 429547,
-      "num": 429547,
-      "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
-      "onboard_time": 1662043112,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428811,
@@ -5659,6 +5659,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 289432,
+      "num": 289432,
+      "word": "开国少将杨永松逝世",
+      "onboard_time": 1662043770,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289371,
       "num": 289371,
       "word": "老师为了公平煞费苦心了",
@@ -5803,6 +5811,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 278007,
+      "num": 278007,
+      "word": "汪涵保剑锋70后的共鸣",
+      "onboard_time": 1662043893,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277242,
       "num": 277242,
       "word": "西安核酸",
@@ -5905,14 +5921,6 @@
       "onboard_time": 1661919870,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272005,
-      "num": 272005,
-      "word": "开国少将杨永松逝世",
-      "onboard_time": 1662043770,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271952,
@@ -6371,6 +6379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 254401,
+      "num": 254401,
+      "word": "TES超话",
+      "onboard_time": 1662044972,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254193,
       "num": 254193,
       "word": "浙江一高校快递堆满体育馆",
@@ -6404,7 +6420,7 @@
     },
     {
       "raw_hot": 252929,
-      "num": 153326,
+      "num": 169794,
       "word": "覆流年",
       "onboard_time": 1661949388,
       "rank": 35,
@@ -6731,6 +6747,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 227017,
+      "num": 227017,
+      "word": "网传专家铺地毯下地为不实消息",
+      "onboard_time": 1662045628,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226924,
       "num": 222555,
       "word": "月升沧海疑商夫妇大婚花絮",
@@ -6801,6 +6825,14 @@
       "onboard_time": 1661989883,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223599,
+      "num": 223599,
+      "word": "Tian连续四个亚军",
+      "onboard_time": 1662045210,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 222778,
@@ -7315,14 +7347,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 196770,
-      "num": 196770,
-      "word": "TES超话",
-      "onboard_time": 1662044972,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196161,
       "num": 196161,
       "word": "隐入尘烟票房破3000万",
@@ -7433,14 +7457,6 @@
       "onboard_time": 1661903849,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191634,
-      "num": 191634,
-      "word": "Tian连续四个亚军",
-      "onboard_time": 1662045210,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 191581,
@@ -7811,14 +7827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168820,
-      "num": 168820,
-      "word": "汪涵保剑锋70后的共鸣",
-      "onboard_time": 1662043893,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168394,
       "num": 168394,
       "word": "平台回应通缉犯的抓捕赏金仅4元",
@@ -7963,6 +7971,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 155420,
+      "num": 155420,
+      "word": "阴阳师",
+      "onboard_time": 1662045267,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154753,
       "num": 154753,
       "word": "JDG团灭TES",
@@ -8091,6 +8107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147015,
+      "num": 147015,
+      "word": "LPL第三个春夏双冠JDG",
+      "onboard_time": 1662046409,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146908,
       "num": 138649,
       "word": "轰6K巡航台岛常态化",
@@ -8105,14 +8129,6 @@
       "onboard_time": 1661987900,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145836,
-      "num": 145836,
-      "word": "阴阳师",
-      "onboard_time": 1662045267,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 142868,
@@ -8185,6 +8201,14 @@
       "onboard_time": 1661988863,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140705,
+      "num": 140705,
+      "word": "这石头挺有素质",
+      "onboard_time": 1662045931,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 140405,
@@ -8288,14 +8312,6 @@
       "word": "辽宁增本土确诊5例无症状71例",
       "onboard_time": 1661907030,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133100,
-      "num": 133100,
-      "word": "网传专家铺地毯下地为不实消息",
-      "onboard_time": 1662045628,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -8427,20 +8443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120286,
-      "num": 120286,
-      "word": "这石头挺有素质",
-      "onboard_time": 1662045931,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119620,
       "num": 119620,
       "word": "高三新生奥赛夺金被保送北大",
       "onboard_time": 1661934390,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 119374,
+      "num": 119374,
+      "word": "能拼着吃的饼干",
+      "onboard_time": 1662044790,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 119119,
@@ -8481,6 +8497,14 @@
       "onboard_time": 1661950110,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110478,
+      "num": 110478,
+      "word": "萍乡第一中单",
+      "onboard_time": 1662046889,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 110421,
