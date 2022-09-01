@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662036318102,
+  "endTime": 1662037710477,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1793658,
-      "num": 519540,
+      "num": 937256,
       "word": "EXO将2023年完整体回归",
       "onboard_time": 1662032248,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 934555,
+      "num": 934555,
+      "word": "桂纶镁新冠感染",
+      "onboard_time": 1662034109,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932859,
       "num": 932859,
       "word": "iPhone14涨价或低于预期",
@@ -475,20 +483,20 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 748675,
-      "num": 748675,
-      "word": "桂纶镁新冠感染",
-      "onboard_time": 1662034109,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 701838,
       "num": 701838,
       "word": "男子刷视频刷到自家竟是同事偷拍",
       "onboard_time": 1662002188,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684343,
+      "num": 459882,
+      "word": "终于有一部优质东方玄幻了",
+      "onboard_time": 1662035190,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 675640,
@@ -723,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488873,
+      "num": 478063,
+      "word": "陆安然妹妹陆欣然替嫁",
+      "onboard_time": 1662034889,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479492,
       "num": 479492,
       "word": "上海男子中1363万元彩票浑然不觉",
       "onboard_time": 1661952270,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478063,
-      "num": 478063,
-      "word": "陆安然妹妹陆欣然替嫁",
-      "onboard_time": 1662034889,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 467893,
@@ -825,6 +833,14 @@
       "onboard_time": 1662030326,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417392,
+      "num": 417392,
+      "word": "今晚多少孩子会创造奇迹",
+      "onboard_time": 1662035311,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 415357,
@@ -1235,14 +1251,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 298437,
-      "num": 227153,
-      "word": "终于有一部优质东方玄幻了",
-      "onboard_time": 1662035190,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1662011188,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272657,
+      "num": 207926,
+      "word": "郭俊辰16岁校服照好青涩",
+      "onboard_time": 1662035607,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 272516,
@@ -1595,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216929,
+      "num": 216929,
+      "word": "成都商超农贸市场正常营业",
+      "onboard_time": 1662036387,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213968,
       "num": 213968,
       "word": "理塘文旅回应丁真商标风波",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1662031526,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211763,
-      "num": 207926,
-      "word": "郭俊辰16岁校服照好青涩",
-      "onboard_time": 1662035607,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 210813,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1662029067,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 199862,
-      "num": 199862,
-      "word": "今晚多少孩子会创造奇迹",
-      "onboard_time": 1662035311,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194085,
@@ -1891,6 +1899,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 166383,
+      "num": 166383,
+      "word": "男孩得知延迟开学忍不住嘴角上扬",
+      "onboard_time": 1662036689,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 163471,
       "num": 163471,
       "word": "黄大妈",
@@ -2072,6 +2088,22 @@
       "word": "机票燃油附加费年内第二次下调",
       "onboard_time": 1661954132,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123774,
+      "num": 123774,
+      "word": "山西太原推出醋味月饼",
+      "onboard_time": 1662037108,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 123703,
+      "num": 123703,
+      "word": "爸爸将一年级女儿送错学校",
+      "onboard_time": 1662037351,
+      "rank": 43,
       "category": "社会新闻"
     },
     {

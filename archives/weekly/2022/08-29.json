@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662036318102,
+  "endTime": 1662037710477,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 1793658,
-      "num": 519540,
+      "num": 937256,
       "word": "EXO将2023年完整体回归",
       "onboard_time": 1662032248,
       "rank": 10,
@@ -1667,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 934555,
+      "num": 934555,
+      "word": "桂纶镁新冠感染",
+      "onboard_time": 1662034109,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 933067,
       "num": 933067,
       "word": "20岁大学生玩剧本杀致重度成瘾",
@@ -2179,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 748675,
-      "num": 748675,
-      "word": "桂纶镁新冠感染",
-      "onboard_time": 1662034109,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 744504,
       "num": 744504,
       "word": "一诺新发色",
@@ -2313,6 +2313,14 @@
       "onboard_time": 1661830888,
       "rank": 9,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 684343,
+      "num": 459882,
+      "word": "终于有一部优质东方玄幻了",
+      "onboard_time": 1662035190,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 683554,
@@ -3355,6 +3363,14 @@
       "category": "时尚,体育"
     },
     {
+      "raw_hot": 488873,
+      "num": 478063,
+      "word": "陆安然妹妹陆欣然替嫁",
+      "onboard_time": 1662034889,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486687,
       "num": 486687,
       "word": "女子坐高铁把娃装进手提袋",
@@ -3401,14 +3417,6 @@
       "onboard_time": 1661698832,
       "rank": 6,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 478063,
-      "num": 478063,
-      "word": "陆安然妹妹陆欣然替嫁",
-      "onboard_time": 1662034889,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 476071,
@@ -3833,6 +3841,14 @@
       "onboard_time": 1661867974,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417392,
+      "num": 417392,
+      "word": "今晚多少孩子会创造奇迹",
+      "onboard_time": 1662035311,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 416492,
@@ -5331,14 +5347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298437,
-      "num": 227153,
-      "word": "终于有一部优质东方玄幻了",
-      "onboard_time": 1662035190,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298055,
       "num": 298055,
       "word": "妻子带失明丈夫跑步近30年",
@@ -5657,6 +5665,14 @@
       "onboard_time": 1661695232,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272657,
+      "num": 207926,
+      "word": "郭俊辰16岁校服照好青涩",
+      "onboard_time": 1662035607,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 272516,
@@ -6667,6 +6683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 216929,
+      "num": 216929,
+      "word": "成都商超农贸市场正常营业",
+      "onboard_time": 1662036387,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215007,
       "num": 215007,
       "word": "KPL鲜奶毒奶颁奖礼",
@@ -6713,14 +6737,6 @@
       "onboard_time": 1662031526,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211763,
-      "num": 207926,
-      "word": "郭俊辰16岁校服照好青涩",
-      "onboard_time": 1662035607,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 210813,
@@ -6969,14 +6985,6 @@
       "onboard_time": 1661847750,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 199862,
-      "num": 199862,
-      "word": "今晚多少孩子会创造奇迹",
-      "onboard_time": 1662035311,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 199487,
@@ -7563,6 +7571,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 166383,
+      "num": 166383,
+      "word": "男孩得知延迟开学忍不住嘴角上扬",
+      "onboard_time": 1662036689,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 165462,
       "num": 165462,
       "word": "阿里发布ESG报告",
@@ -8057,6 +8073,22 @@
       "onboard_time": 1661772632,
       "rank": 49,
       "category": "其它"
+    },
+    {
+      "raw_hot": 123774,
+      "num": 123774,
+      "word": "山西太原推出醋味月饼",
+      "onboard_time": 1662037108,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 123703,
+      "num": 123703,
+      "word": "爸爸将一年级女儿送错学校",
+      "onboard_time": 1662037351,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121984,
