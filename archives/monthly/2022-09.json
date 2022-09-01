@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662074633554,
+  "endTime": 1662075685292,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1645916,
+      "num": 1645916,
+      "word": "房车情侣回应被叫停车场乞丐",
+      "onboard_time": 1662073819,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1616060,
       "num": 1616060,
       "word": "男子10秒内死里逃生2次",
@@ -251,6 +259,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1313804,
+      "num": 440128,
+      "word": "台湾是中国的一个省没有什么国防部",
+      "onboard_time": 1662052395,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1260006,
       "num": 1260006,
       "word": "父亲阻拦复读后孩子考上北大",
@@ -305,14 +321,6 @@
       "onboard_time": 1662033327,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1090370,
-      "num": 335601,
-      "word": "台湾是中国的一个省没有什么国防部",
-      "onboard_time": 1662052395,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1080953,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648200,
+      "num": 648200,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645541,
       "num": 645541,
       "word": "虞书欣唱出世间珍贵爱意",
@@ -691,19 +707,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 616671,
+      "num": 616671,
+      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+      "onboard_time": 1662047188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612637,
       "num": 612637,
       "word": "成都地铁",
       "onboard_time": 1662020188,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609984,
-      "num": 609984,
-      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
-      "onboard_time": 1662047188,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -737,14 +753,6 @@
       "onboard_time": 1662022949,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 578272,
-      "num": 578272,
-      "word": "34岁老马去世2匹小马将送葬车拦停",
-      "onboard_time": 1662060491,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571944,
@@ -795,6 +803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554351,
+      "num": 554351,
+      "word": "赵晓卉发文回应退赛",
+      "onboard_time": 1662073699,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 545625,
+      "num": 545625,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540629,
       "num": 540629,
       "word": "管泽元",
@@ -816,14 +840,6 @@
       "word": "泰坦尼克号残骸8K画面公布",
       "onboard_time": 1662010349,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531393,
-      "num": 531393,
-      "word": "福建渔民用泥巴击落无人机",
-      "onboard_time": 1662067931,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 500654,
-      "num": 335317,
+      "num": 377671,
       "word": "谁是你心中的Bking天花板",
       "onboard_time": 1662048685,
       "rank": 20,
@@ -937,6 +953,14 @@
       "onboard_time": 1661952270,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477853,
+      "num": 477853,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 467893,
@@ -1059,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 417528,
-      "num": 417528,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
+      "raw_hot": 423975,
+      "num": 423975,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415357,
@@ -1128,14 +1152,6 @@
       "word": "日本医疗机构称新冠疫情已达灾害级别",
       "onboard_time": 1661988382,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401370,
-      "num": 401370,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1257,14 +1273,6 @@
       "onboard_time": 1662046409,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360741,
-      "num": 360741,
-      "word": "赵晓卉发文回应退赛",
-      "onboard_time": 1662073699,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 359599,
@@ -1467,19 +1475,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320879,
+      "num": 320879,
+      "word": "米切尔加盟骑士",
+      "onboard_time": 1662073941,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319482,
       "num": 319482,
       "word": "超市售卖鳄雀鳝被责令现场扑杀",
       "onboard_time": 1661957313,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316530,
-      "num": 316530,
-      "word": "房车情侣回应被叫停车场乞丐",
-      "onboard_time": 1662073819,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1947,6 +1955,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 226815,
+      "num": 226815,
+      "word": "郑钦文",
+      "onboard_time": 1662073998,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225992,
       "num": 225992,
       "word": "成毅演的玄夜好会钓",
@@ -2123,14 +2139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202579,
-      "num": 202579,
-      "word": "米切尔加盟骑士",
-      "onboard_time": 1662073941,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "2022LPL夏决",
@@ -2283,12 +2291,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 181114,
+      "num": 181114,
+      "word": "覆流年 上头",
+      "onboard_time": 1662073639,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179072,
       "num": 179072,
       "word": "湖南女子学院迎来首届男生",
       "onboard_time": 1661977091,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178439,
+      "num": 178439,
+      "word": "贵阳疫情防控",
+      "onboard_time": 1662074359,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175164,
@@ -2635,14 +2659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118930,
-      "num": 118930,
-      "word": "覆流年 上头",
-      "onboard_time": 1662073639,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113250,
       "num": 113250,
       "word": "王亚平说恢复地球人模式很开心",
@@ -2665,14 +2681,6 @@
       "onboard_time": 1661947468,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110244,
-      "num": 110244,
-      "word": "郑钦文",
-      "onboard_time": 1662073998,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 108288,
@@ -2699,6 +2707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106702,
+      "num": 106702,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99181,
+      "num": 99181,
+      "word": "贵阳花溪区新增1例无症状感染者",
+      "onboard_time": 1662075262,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99098,
       "num": 99098,
       "word": "90后女生为传承宝剑文化坚守家乡",
@@ -2715,19 +2739,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91132,
-      "num": 91132,
+      "raw_hot": 91921,
+      "num": 91921,
       "word": "吴振峰又带货失败了",
       "onboard_time": 1662062891,
       "rank": 48,
       "category": "影视"
     },
     {
-      "raw_hot": 89327,
-      "num": 89327,
-      "word": "成都静下来齐心抗疫",
-      "onboard_time": 1662057674,
-      "rank": 48,
+      "raw_hot": 86930,
+      "num": 86930,
+      "word": "安徽警方通报六安女子失踪案告破",
+      "onboard_time": 1662075502,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2755,12 +2779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80570,
-      "num": 80570,
-      "word": "贵阳疫情防控",
-      "onboard_time": 1662074359,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 83203,
+      "num": 83203,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79164,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1661951730,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 66928,
-      "num": 66928,
-      "word": "跳不出手掌心的小猫一枚",
-      "onboard_time": 1662067030,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 62529,
