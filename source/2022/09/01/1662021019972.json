@@ -1,0 +1,410 @@
+{
+  "runTime": 1662021019972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1934943,
+        "num": 1934943,
+        "word": "成都今日18时起全体居民原则居家",
+        "onboard_time": 1662003868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544672,
+        "num": 1544672,
+        "word": "一女子五脏六腑全部反着长",
+        "onboard_time": 1662018507,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27148,
+        "num": 1261200,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1144916,
+        "num": 1144916,
+        "word": "boss直聘公示涉性骚扰违规账号",
+        "onboard_time": 1662014669,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916088,
+        "num": 916088,
+        "word": "婴儿服装礼盒拆出40多根针",
+        "onboard_time": 1662015927,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846972,
+        "num": 846972,
+        "word": "有妖气漫画关停",
+        "onboard_time": 1662017309,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 815327,
+        "num": 815327,
+        "word": "icon登顶",
+        "onboard_time": 1662018329,
+        "rank": 6,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 783898,
+        "num": 783898,
+        "word": "疫情时的大一新生大四了",
+        "onboard_time": 1662018446,
+        "rank": 7,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 783836,
+        "num": 783836,
+        "word": "取消公摊面积或给消费者埋下暗坑",
+        "onboard_time": 1662007835,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 468432,
+        "num": 468432,
+        "word": "父亲阻拦复读后孩子考上北大",
+        "onboard_time": 1662006755,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2151682,
+        "num": 453773,
+        "word": "辣目洋子恢复本名",
+        "onboard_time": 1662005851,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995684,
+        "num": 448793,
+        "word": "赵露思偷偷藏不住上班饭拍",
+        "onboard_time": 1662020729,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 432636,
+        "num": 432636,
+        "word": "关晓彤也爱在横店找明星",
+        "onboard_time": 1662014129,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 431550,
+        "num": 431550,
+        "word": "虞书欣王鹤棣双人快问快答完整版",
+        "onboard_time": 1662014970,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416532,
+        "num": 416532,
+        "word": "为什么越来越多人想当老师",
+        "onboard_time": 1662007415,
+        "rank": 14,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 412718,
+        "num": 412718,
+        "word": "北电2022新生报到",
+        "onboard_time": 1662019228,
+        "rank": 15,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 400404,
+        "num": 400404,
+        "word": "南山疫情防控",
+        "onboard_time": 1662018090,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384329,
+        "num": 384329,
+        "word": "收费员一句话救了四个人",
+        "onboard_time": 1662008255,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 357922,
+        "num": 357922,
+        "word": "长春市传染病医院发现5例阳性",
+        "onboard_time": 1662008495,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325012,
+        "num": 325012,
+        "word": "点外卖能看到饭做好了没",
+        "onboard_time": 1662019228,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375406,
+        "num": 317929,
+        "word": "乐华新男团官宣",
+        "onboard_time": 1662014547,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368206,
+        "num": 316480,
+        "word": "电影消失的她不会改名",
+        "onboard_time": 1662020667,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325470,
+        "num": 312670,
+        "word": "武林外传入驻微博",
+        "onboard_time": 1662003688,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304979,
+        "num": 304979,
+        "word": "jojo更新",
+        "onboard_time": 1662020069,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 303153,
+        "num": 303153,
+        "word": "成都地铁",
+        "onboard_time": 1662020188,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301115,
+        "num": 301115,
+        "word": "深圳南山区全域实行管控措施",
+        "onboard_time": 1662018749,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284329,
+        "num": 284329,
+        "word": "男子10秒内死里逃生2次",
+        "onboard_time": 1662006575,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265872,
+        "num": 265872,
+        "word": "我发现上班摸鱼才是最痛苦的",
+        "onboard_time": 1662005492,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 262956,
+        "num": 262956,
+        "word": "当中国地名有了立体感",
+        "onboard_time": 1662016169,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259575,
+        "num": 259575,
+        "word": "北京市租房需进行合同网签",
+        "onboard_time": 1662014064,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640268,
+        "num": 258123,
+        "word": "热带雨林",
+        "onboard_time": 1662008374,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316967,
+        "num": 252194,
+        "word": "杜德伟第八号当铺造型",
+        "onboard_time": 1662011669,
+        "rank": 31,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 246064,
+        "num": 246064,
+        "word": "老师为了公平煞费苦心了",
+        "onboard_time": 1662017908,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 242146,
+        "num": 242146,
+        "word": "玲娜贝儿说话了",
+        "onboard_time": 1662001885,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238865,
+        "num": 238865,
+        "word": "迪丽热巴说龚俊很容易害羞",
+        "onboard_time": 1662010530,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236766,
+        "num": 236766,
+        "word": "中学回应学生被军训教官强行剪发",
+        "onboard_time": 1662012929,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234204,
+        "num": 234204,
+        "word": "6岁女孩因长得像爸爸委屈大哭",
+        "onboard_time": 1662001407,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 220242,
+        "num": 220242,
+        "word": "陈晓怀念不用涂粉的日子",
+        "onboard_time": 1662015028,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213635,
+        "num": 213635,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188329,
+        "num": 188329,
+        "word": "外卖小哥边抖腿边按亮整部电梯",
+        "onboard_time": 1662005492,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187562,
+        "num": 187562,
+        "word": "男子失恋喝1斤白酒吃18袋头孢",
+        "onboard_time": 1662020787,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181861,
+        "num": 181861,
+        "word": "纪念馆正在核实网传南京大屠杀照片",
+        "onboard_time": 1662020849,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170501,
+        "num": 170501,
+        "word": "久哲九尾做客总决赛",
+        "onboard_time": 1662016889,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168351,
+        "num": 168351,
+        "word": "泰坦尼克号残骸8K画面公布",
+        "onboard_time": 1662010349,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156070,
+        "num": 156070,
+        "word": "中国人寿原董事长王滨被双开",
+        "onboard_time": 1662005132,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155519,
+        "num": 155519,
+        "word": "留学生为种好一颗梨花光800万积蓄",
+        "onboard_time": 1662008015,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155118,
+        "num": 155118,
+        "word": "摆渡人",
+        "onboard_time": 1662011129,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155005,
+        "num": 155005,
+        "word": "JDG与TES决战银龙",
+        "onboard_time": 1662015388,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150616,
+        "num": 150616,
+        "word": "深圳疫情防控",
+        "onboard_time": 1662008015,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148790,
+        "num": 148790,
+        "word": "火星制氧实验成功",
+        "onboard_time": 1662020607,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上作表率当模范#"
+    }
+  }
+}
