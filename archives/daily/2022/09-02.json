@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662059877796,
+  "endTime": 1662060837193,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47270,
+      "num": 47270,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40546,
       "num": 851921,
       "word": "开学第一课",
@@ -419,12 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36467,
-      "num": 36467,
-      "word": "成都静下来齐心抗疫",
-      "onboard_time": 1662057674,
-      "rank": 48,
+      "raw_hot": 14417,
+      "num": 14417,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10942,
+      "num": 10942,
+      "word": "成长有态度",
+      "onboard_time": 1662060791,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

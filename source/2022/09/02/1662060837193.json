@@ -1,0 +1,410 @@
+{
+  "runTime": 1662060837193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 199488,
+        "num": 199488,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 128164,
+        "word": "男子抓155只壁虎后自己被抓了",
+        "onboard_time": 1662049703,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4422,
+        "num": 103607,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86306,
+        "num": 86306,
+        "word": "EXO将2023年完整体回归",
+        "onboard_time": 1662032248,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72204,
+        "num": 72204,
+        "word": "jkl",
+        "onboard_time": 1662042273,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66873,
+        "num": 66873,
+        "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+        "onboard_time": 1662047188,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65107,
+        "num": 65107,
+        "word": "网传专家铺地毯下地为不实消息",
+        "onboard_time": 1662045628,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54178,
+        "num": 54178,
+        "word": "移动公厕一次收费10元还倒计时",
+        "onboard_time": 1662042934,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48140,
+        "num": 48140,
+        "word": "男子失恋喝1斤白酒吃18袋头孢",
+        "onboard_time": 1662020787,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28522,
+        "num": 47555,
+        "word": "爸爸将一年级女儿送错学校",
+        "onboard_time": 1662037351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 47546,
+        "word": "台湾是中国的一个省没有什么国防部",
+        "onboard_time": 1662052395,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 85537,
+        "num": 47536,
+        "word": "谁是你心中的Bking天花板",
+        "onboard_time": 1662048685,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47270,
+        "num": 47270,
+        "word": "成都静下来齐心抗疫",
+        "onboard_time": 1662057674,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45594,
+        "num": 45594,
+        "word": "终于有一部优质东方玄幻了",
+        "onboard_time": 1662035190,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42011,
+        "num": 42011,
+        "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
+        "onboard_time": 1662043112,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41123,
+        "num": 41123,
+        "word": "你心中的校园剧TOP1",
+        "onboard_time": 1662035909,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38718,
+        "num": 38718,
+        "word": "波兰要求德国赔偿二战损失",
+        "onboard_time": 1662043173,
+        "rank": 16,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 36531,
+        "num": 36531,
+        "word": "LPL第三个春夏双冠JDG",
+        "onboard_time": 1662046409,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34607,
+        "num": 34607,
+        "word": "巴黎贝甜疫情期间无证生产被罚58万",
+        "onboard_time": 1662041793,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 33844,
+        "num": 33844,
+        "word": "北大数学天才柳智宇下山还俗",
+        "onboard_time": 1662031948,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31094,
+        "num": 31094,
+        "word": "多国感谢中国在安理会主席月出色工作",
+        "onboard_time": 1662041190,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 30630,
+        "num": 30630,
+        "word": "成都快递",
+        "onboard_time": 1662034048,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29609,
+        "num": 29609,
+        "word": "当代年轻人离婚成本有多高",
+        "onboard_time": 1662040472,
+        "rank": 22,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 28501,
+        "num": 28501,
+        "word": "萍乡第一中单",
+        "onboard_time": 1662046889,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27598,
+        "num": 27598,
+        "word": "成都疫情传入链条超过20条",
+        "onboard_time": 1662025468,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25962,
+        "num": 25962,
+        "word": "成都核酸系统崩了",
+        "onboard_time": 1662025169,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 22843,
+        "num": 22843,
+        "word": "覆流年",
+        "onboard_time": 1662032488,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22753,
+        "num": 22753,
+        "word": "今晚多少孩子会创造奇迹",
+        "onboard_time": 1662035311,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 21106,
+        "num": 21106,
+        "word": "教资报名",
+        "onboard_time": 1662040589,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20752,
+        "num": 20752,
+        "word": "客服做成了间谍的样子",
+        "onboard_time": 1662031106,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19963,
+        "num": 19963,
+        "word": "朱一龙的手法很专业",
+        "onboard_time": 1662049522,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19075,
+        "num": 19075,
+        "word": "369",
+        "onboard_time": 1662033327,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18953,
+        "num": 18953,
+        "word": "开国少将杨永松逝世",
+        "onboard_time": 1662043770,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18935,
+        "num": 18935,
+        "word": "Tian连续四个亚军",
+        "onboard_time": 1662045210,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18716,
+        "num": 18716,
+        "word": "沉香重华渣爹线太蛊了",
+        "onboard_time": 1662042573,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18087,
+        "num": 18087,
+        "word": "刘诗诗一念关山造型路透",
+        "onboard_time": 1662048565,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17497,
+        "num": 17497,
+        "word": "一女子五脏六腑全部反着长",
+        "onboard_time": 1662018507,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15998,
+        "num": 15998,
+        "word": "虞书欣唱出世间珍贵爱意",
+        "onboard_time": 1662040350,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15612,
+        "num": 15612,
+        "word": "通州俩小区临时封控",
+        "onboard_time": 1662045450,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15521,
+        "num": 15521,
+        "word": "徐梦洁谢彬彬晋江在逃cp",
+        "onboard_time": 1662037769,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 15379,
+        "word": "东方青苍导航语音包",
+        "onboard_time": 1662047607,
+        "rank": 40,
+        "category": "作品衍生,科技"
+      },
+      {
+        "raw_hot": 15307,
+        "num": 15307,
+        "word": "这石头挺有素质",
+        "onboard_time": 1662045931,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15149,
+        "num": 15149,
+        "word": "曾舜晞恋综首秀",
+        "onboard_time": 1662049404,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14666,
+        "num": 14666,
+        "word": "JackeyLove泽丽",
+        "onboard_time": 1662042573,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14417,
+        "num": 14417,
+        "word": "34岁老马去世2匹小马将送葬车拦停",
+        "onboard_time": 1662060491,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14322,
+        "num": 14322,
+        "word": "JDG夺冠",
+        "onboard_time": 1662041973,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12632,
+        "num": 12632,
+        "word": "心疼小天",
+        "onboard_time": 1662042812,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12489,
+        "num": 12489,
+        "word": "张翰王晓晨和解太费杜淳",
+        "onboard_time": 1662049404,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11178,
+        "num": 11178,
+        "word": "阴阳师",
+        "onboard_time": 1662045267,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10942,
+        "num": 10942,
+        "word": "成长有态度",
+        "onboard_time": 1662060791,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2022服贸会#"
+    }
+  }
+}
