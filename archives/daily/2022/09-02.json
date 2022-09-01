@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662070895846,
+  "endTime": 1662071985302,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -75,6 +75,14 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 395448,
+      "num": 395448,
+      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+      "onboard_time": 1662047188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385798,
       "num": 385798,
       "word": "曾舜晞恋综首秀",
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292054,
+      "num": 292054,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291442,
       "num": 146882,
       "word": "台湾是中国的一个省没有什么国防部",
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274975,
-      "num": 274975,
-      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
-      "onboard_time": 1662047188,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265889,
       "num": 265889,
       "word": "萍乡第一中单",
@@ -185,6 +193,22 @@
       "onboard_time": 1662040589,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263695,
+      "num": 263695,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 258455,
+      "num": 258455,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252664,
@@ -217,6 +241,14 @@
       "onboard_time": 1662035311,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 234993,
+      "num": 234993,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229024,
@@ -259,28 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194316,
-      "num": 194316,
-      "word": "34岁老马去世2匹小马将送葬车拦停",
-      "onboard_time": 1662060491,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187943,
       "num": 187943,
       "word": "巴黎贝甜疫情期间无证生产被罚58万",
       "onboard_time": 1662041793,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 184861,
-      "num": 184861,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179027,
@@ -323,8 +339,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152906,
-      "num": 152906,
+      "raw_hot": 156081,
+      "num": 156081,
       "word": "主播应聘被要求对口型卖产品",
       "onboard_time": 1662063071,
       "rank": 44,
@@ -355,28 +371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137700,
-      "num": 137700,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 126196,
       "num": 126196,
       "word": "阴阳师",
       "onboard_time": 1662045267,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122765,
-      "num": 122765,
-      "word": "福建渔民用泥巴击落无人机",
-      "onboard_time": 1662067931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118695,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45449,
+      "num": 45449,
+      "word": "吴振峰又带货失败了",
+      "onboard_time": 1662062891,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 40546,
       "num": 851921,
       "word": "开学第一课",
@@ -467,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38434,
-      "num": 38434,
-      "word": "吴振峰又带货失败了",
-      "onboard_time": 1662062891,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 37444,
+      "num": 37444,
+      "word": "披荆斩棘第一次公演歌单",
+      "onboard_time": 1662067991,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 36104,
@@ -483,16 +491,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28567,
-      "num": 28567,
-      "word": "披荆斩棘第一次公演歌单",
-      "onboard_time": 1662067991,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15506,
-      "num": 15506,
+      "raw_hot": 22357,
+      "num": 22357,
       "word": "世界人工智能大会",
       "onboard_time": 1662069733,
       "rank": 49,
