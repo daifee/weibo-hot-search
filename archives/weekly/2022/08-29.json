@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662032178586,
+  "endTime": 1662036318102,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3270726,
+      "num": 241283,
+      "word": "辛巴公司继续爆料近20名明星主播",
+      "onboard_time": 1662034109,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 3227009,
       "num": 3227009,
       "word": "唐山打人案主犯保护伞被查",
@@ -185,6 +193,14 @@
       "onboard_time": 1661823569,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2909181,
+      "num": 2909181,
+      "word": "国外网友或发现南京大屠杀彩照",
+      "onboard_time": 1662020008,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2897130,
@@ -320,14 +336,6 @@
       "word": "成都疫情防控",
       "onboard_time": 1661688928,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2278889,
-      "num": 2278889,
-      "word": "国外网友或发现南京大屠杀彩照",
-      "onboard_time": 1662020008,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1793658,
+      "num": 519540,
+      "word": "EXO将2023年完整体回归",
+      "onboard_time": 1662032248,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1791455,
       "num": 1791455,
       "word": "海底捞猪肚鸡汤底系粉料冲泡",
@@ -672,6 +688,14 @@
       "word": "南昌上空出现不明飞行物",
       "onboard_time": 1661955815,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1664567,
+      "num": 1664567,
+      "word": "北大数学天才柳智宇下山还俗",
+      "onboard_time": 1662031948,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1995,6 +2019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 799298,
+      "num": 799298,
+      "word": "369",
+      "onboard_time": 1662033327,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 797917,
       "num": 797917,
       "word": "网店月售鳄雀鳝2000余单",
@@ -2145,6 +2177,14 @@
       "onboard_time": 1661751211,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748675,
+      "num": 748675,
+      "word": "桂纶镁新冠感染",
+      "onboard_time": 1662034109,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 744504,
@@ -3227,6 +3267,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 504711,
+      "num": 504711,
+      "word": "客服做成了间谍的样子",
+      "onboard_time": 1662031106,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 502584,
       "num": 365377,
       "word": "丁程鑫赵今麦互祝事业有成",
@@ -3353,6 +3401,14 @@
       "onboard_time": 1661698832,
       "rank": 6,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 478063,
+      "num": 478063,
+      "word": "陆安然妹妹陆欣然替嫁",
+      "onboard_time": 1662034889,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 476071,
@@ -3841,6 +3897,14 @@
       "onboard_time": 1662007415,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412881,
+      "num": 412881,
+      "word": "成都快递",
+      "onboard_time": 1662034048,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412718,
@@ -4547,6 +4611,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 349052,
+      "num": 284526,
+      "word": "冰雨火K集团就地解散",
+      "onboard_time": 1662035249,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348545,
       "num": 342295,
       "word": "王俊凯天坑鹰猎开播4周年",
@@ -4712,6 +4784,14 @@
       "word": "唐周亲眼看着自己变透明",
       "onboard_time": 1661770232,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337078,
+      "num": 283150,
+      "word": "你心中的校园剧TOP1",
+      "onboard_time": 1662035909,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4905,6 +4985,14 @@
       "onboard_time": 1661894651,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326260,
+      "num": 282415,
+      "word": "你认为应该规范明星艺名吗",
+      "onboard_time": 1662035668,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 325925,
@@ -5243,6 +5331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298437,
+      "num": 227153,
+      "word": "终于有一部优质东方玄幻了",
+      "onboard_time": 1662035190,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298055,
       "num": 298055,
       "word": "妻子带失明丈夫跑步近30年",
@@ -5449,6 +5545,14 @@
       "onboard_time": 1661739632,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280811,
+      "num": 280811,
+      "word": "新规明确处方药可通过网络销售",
+      "onboard_time": 1662031469,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279934,
@@ -5659,14 +5763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270253,
-      "num": 270253,
-      "word": "新规明确处方药可通过网络销售",
-      "onboard_time": 1662031469,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270118,
       "num": 135500,
       "word": "王俊凯六登时尚先生金九封面",
@@ -5705,14 +5801,6 @@
       "onboard_time": 1661905532,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269211,
-      "num": 269211,
-      "word": "客服做成了间谍的样子",
-      "onboard_time": 1662031106,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 269035,
@@ -5907,6 +5995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259882,
+      "num": 226784,
+      "word": "梁爽创意被抄袭",
+      "onboard_time": 1662036209,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259871,
       "num": 259871,
       "word": "基金",
@@ -5969,6 +6065,14 @@
       "onboard_time": 1662026726,
       "rank": 33,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 256574,
+      "num": 226631,
+      "word": "朴志效MCD舞台直拍",
+      "onboard_time": 1662033567,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 256539,
@@ -6355,6 +6459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227218,
+      "num": 227218,
+      "word": "神十四2名航天员已成功出舱",
+      "onboard_time": 1662034290,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 226924,
       "num": 222555,
       "word": "月升沧海疑商夫妇大婚花絮",
@@ -6385,6 +6497,14 @@
       "onboard_time": 1661840605,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225992,
+      "num": 225992,
+      "word": "成毅演的玄夜好会钓",
+      "onboard_time": 1662034170,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 224773,
@@ -6593,6 +6713,14 @@
       "onboard_time": 1662031526,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211763,
+      "num": 207926,
+      "word": "郭俊辰16岁校服照好青涩",
+      "onboard_time": 1662035607,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 210813,
@@ -6841,6 +6969,14 @@
       "onboard_time": 1661847750,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 199862,
+      "num": 199862,
+      "word": "今晚多少孩子会创造奇迹",
+      "onboard_time": 1662035311,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 199487,
@@ -7385,14 +7521,6 @@
       "onboard_time": 1661913448,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169288,
-      "num": 169288,
-      "word": "北大数学天才柳智宇下山还俗",
-      "onboard_time": 1662031948,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168836,
@@ -7953,6 +8081,14 @@
       "onboard_time": 1661934390,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 119119,
+      "num": 119119,
+      "word": "JDG拿到赛点",
+      "onboard_time": 1662034889,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 118037,

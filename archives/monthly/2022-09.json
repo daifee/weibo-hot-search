@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662032178586,
+  "endTime": 1662036318102,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -19,19 +19,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3270726,
+      "num": 241283,
+      "word": "辛巴公司继续爆料近20名明星主播",
+      "onboard_time": 1662034109,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2909181,
+      "num": 2909181,
+      "word": "国外网友或发现南京大屠杀彩照",
+      "onboard_time": 1662020008,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2574419,
       "num": 2574419,
       "word": "男子失恋喝1斤白酒吃18袋头孢",
       "onboard_time": 1662020787,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2278889,
-      "num": 2278889,
-      "word": "国外网友或发现南京大屠杀彩照",
-      "onboard_time": 1662020008,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1793658,
+      "num": 519540,
+      "word": "EXO将2023年完整体回归",
+      "onboard_time": 1662032248,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1720401,
       "num": 1720401,
       "word": "夫妻看新房发现已被人装修入住",
@@ -105,6 +121,14 @@
       "onboard_time": 1661994090,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1664567,
+      "num": 1664567,
+      "word": "北大数学天才柳智宇下山还俗",
+      "onboard_time": 1662031948,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1657254,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 799298,
+      "num": 799298,
+      "word": "369",
+      "onboard_time": 1662033327,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 785269,
       "num": 785269,
       "word": "17岁女孩去纹身遭店老板怒斥",
@@ -441,6 +473,14 @@
       "onboard_time": 1662014129,
       "rank": 12,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 748675,
+      "num": 748675,
+      "word": "桂纶镁新冠感染",
+      "onboard_time": 1662034109,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 701838,
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 504711,
+      "num": 504711,
+      "word": "客服做成了间谍的样子",
+      "onboard_time": 1662031106,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 499749,
       "num": 499749,
       "word": "中学回应学生被军训教官强行剪发",
@@ -681,6 +729,14 @@
       "onboard_time": 1661952270,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478063,
+      "num": 478063,
+      "word": "陆安然妹妹陆欣然替嫁",
+      "onboard_time": 1662034889,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 467893,
@@ -793,6 +849,14 @@
       "onboard_time": 1662007415,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412881,
+      "num": 412881,
+      "word": "成都快递",
+      "onboard_time": 1662034048,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412718,
@@ -923,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349052,
+      "num": 284526,
+      "word": "冰雨火K集团就地解散",
+      "onboard_time": 1662035249,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346625,
       "num": 346625,
       "word": "长春疫情防控",
@@ -968,6 +1040,14 @@
       "word": "沉香如屑超45万人豆瓣打分",
       "onboard_time": 1662007054,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337078,
+      "num": 283150,
+      "word": "你心中的校园剧TOP1",
+      "onboard_time": 1662035909,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1059,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326260,
+      "num": 282415,
+      "word": "你认为应该规范明星艺名吗",
+      "onboard_time": 1662035668,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323259,
       "num": 323259,
       "word": "LPL开幕式选手pose",
@@ -1147,6 +1235,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 298437,
+      "num": 227153,
+      "word": "终于有一部优质东方玄幻了",
+      "onboard_time": 1662035190,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -1219,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280811,
+      "num": 280811,
+      "word": "新规明确处方药可通过网络销售",
+      "onboard_time": 1662031469,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280645,
       "num": 223493,
       "word": "一诺新发色",
@@ -1267,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270253,
-      "num": 270253,
-      "word": "新规明确处方药可通过网络销售",
-      "onboard_time": 1662031469,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270118,
       "num": 135500,
       "word": "王俊凯六登时尚先生金九封面",
@@ -1283,20 +1379,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 269211,
-      "num": 269211,
-      "word": "客服做成了间谍的样子",
-      "onboard_time": 1662031106,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 262802,
       "num": 221872,
       "word": "全都是李诞",
       "onboard_time": 1661944946,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259882,
+      "num": 226784,
+      "word": "梁爽创意被抄袭",
+      "onboard_time": 1662036209,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 258167,
@@ -1321,6 +1417,14 @@
       "onboard_time": 1662026726,
       "rank": 33,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 256574,
+      "num": 226631,
+      "word": "朴志效MCD舞台直拍",
+      "onboard_time": 1662033567,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 254514,
@@ -1411,6 +1515,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 227218,
+      "num": 227218,
+      "word": "神十四2名航天员已成功出舱",
+      "onboard_time": 1662034290,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 225992,
+      "num": 225992,
+      "word": "成毅演的玄夜好会钓",
+      "onboard_time": 1662034170,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224713,
       "num": 224713,
       "word": "河南增本土确诊1例无症状59例",
@@ -1499,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211763,
+      "num": 207926,
+      "word": "郭俊辰16岁校服照好青涩",
+      "onboard_time": 1662035607,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210813,
       "num": 210813,
       "word": "济南疫情防控",
@@ -1569,6 +1697,14 @@
       "onboard_time": 1662029067,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 199862,
+      "num": 199862,
+      "word": "今晚多少孩子会创造奇迹",
+      "onboard_time": 1662035311,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 194085,
@@ -1737,14 +1873,6 @@
       "onboard_time": 1662031885,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169288,
-      "num": 169288,
-      "word": "北大数学天才柳智宇下山还俗",
-      "onboard_time": 1662031948,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167615,
@@ -1923,6 +2051,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 130968,
+      "num": 1484365,
+      "word": "开学第一课",
+      "onboard_time": 1661942188,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130316,
       "num": 130316,
       "word": "跟有松弛感的人恋爱有多甜",
@@ -1937,6 +2073,14 @@
       "onboard_time": 1661954132,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119119,
+      "num": 119119,
+      "word": "JDG拿到赛点",
+      "onboard_time": 1662034889,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 113229,
@@ -2008,14 +2152,6 @@
       "word": "离深须持48小时内2次核酸阴性证明",
       "onboard_time": 1661977930,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82805,
-      "num": 1484365,
-      "word": "开学第一课",
-      "onboard_time": 1661942188,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
