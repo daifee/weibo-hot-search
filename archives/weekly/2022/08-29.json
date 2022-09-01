@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662056956967,
+  "endTime": 1662057980138,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -8968,6 +8968,14 @@
       "word": "稻盛和夫的哪本书最值得阅读",
       "onboard_time": 1661892251,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15899,
+      "num": 15899,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

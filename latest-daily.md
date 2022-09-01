@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/02 00:31:42 ~ 2022/09/02 02:29:16
+本榜单时间：2022/09/02 00:31:42 ~ 2022/09/02 02:46:20
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ JDG夺冠（热度：48747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23" target="weibo">
 开学第一课（热度：40546）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9D%99%E4%B8%8B%E6%9D%A5%E9%BD%90%E5%BF%83%E6%8A%97%E7%96%AB%23" target="weibo">
+成都静下来齐心抗疫（热度：15899）
 </a>
 </li>
 

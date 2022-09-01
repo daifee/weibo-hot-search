@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662056956967,
+  "endTime": 1662057980138,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -416,6 +416,14 @@
       "word": "开学第一课",
       "onboard_time": 1661942188,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15899,
+      "num": 15899,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],
