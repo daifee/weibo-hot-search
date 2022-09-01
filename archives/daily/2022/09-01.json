@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662037710477,
+  "endTime": 1662039567705,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1793658,
-      "num": 937256,
+      "num": 1145005,
       "word": "EXO将2023年完整体回归",
       "onboard_time": 1662032248,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1492981,
+      "num": 518235,
+      "word": "韩素希新闻图",
+      "onboard_time": 1662039451,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1463605,
       "num": 278758,
       "word": "热带雨林",
@@ -201,6 +209,14 @@
       "onboard_time": 1662006755,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1145721,
+      "num": 1145721,
+      "word": "今晚多少孩子会创造奇迹",
+      "onboard_time": 1662035311,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1144916,
@@ -259,6 +275,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 1019774,
+      "num": 1019774,
+      "word": "桂纶镁新冠感染",
+      "onboard_time": 1662034109,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1016545,
       "num": 1016545,
       "word": "2岁宝宝沉迷于包快递令妈妈发愁",
@@ -273,6 +297,14 @@
       "onboard_time": 1662000206,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 958485,
+      "num": 958485,
+      "word": "369",
+      "onboard_time": 1662033327,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 948976,
@@ -291,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 938078,
+      "num": 491558,
+      "word": "终于有一部优质东方玄幻了",
+      "onboard_time": 1662035190,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936174,
       "num": 936174,
       "word": "成毅新剧结了5次婚",
@@ -305,14 +345,6 @@
       "onboard_time": 1662026789,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 934555,
-      "num": 934555,
-      "word": "桂纶镁新冠感染",
-      "onboard_time": 1662034109,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 932859,
@@ -427,14 +459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 799298,
-      "num": 799298,
-      "word": "369",
-      "onboard_time": 1662033327,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 785269,
       "num": 785269,
       "word": "17岁女孩去纹身遭店老板怒斥",
@@ -483,20 +507,20 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 764416,
+      "num": 764416,
+      "word": "爸爸将一年级女儿送错学校",
+      "onboard_time": 1662037351,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701838,
       "num": 701838,
       "word": "男子刷视频刷到自家竟是同事偷拍",
       "onboard_time": 1662002188,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 684343,
-      "num": 459882,
-      "word": "终于有一部优质东方玄幻了",
-      "onboard_time": 1662035190,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 675640,
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634675,
+      "num": 464264,
+      "word": "普京与戈尔巴乔夫遗体告别",
+      "onboard_time": 1662037951,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 634398,
       "num": 634398,
       "word": "虞书欣王鹤棣双人快问快答完整版",
@@ -585,6 +617,14 @@
       "onboard_time": 1662022768,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601513,
+      "num": 432442,
+      "word": "徐梦洁谢彬彬晋江在逃cp",
+      "onboard_time": 1662037769,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 584258,
@@ -835,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 417392,
-      "num": 417392,
-      "word": "今晚多少孩子会创造奇迹",
-      "onboard_time": 1662035311,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 415357,
       "num": 415357,
       "word": "沉香如屑优酷首个灯塔破百万剧集",
@@ -1011,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347340,
+      "num": 285684,
+      "word": "你心中的校园剧TOP1",
+      "onboard_time": 1662035909,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346625,
       "num": 346625,
       "word": "长春疫情防控",
@@ -1056,14 +1096,6 @@
       "word": "沉香如屑超45万人豆瓣打分",
       "onboard_time": 1662007054,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 337078,
-      "num": 283150,
-      "word": "你心中的校园剧TOP1",
-      "onboard_time": 1662035909,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -1155,7 +1187,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326260,
+      "raw_hot": 326514,
       "num": 282415,
       "word": "你认为应该规范明星艺名吗",
       "onboard_time": 1662035668,
@@ -1283,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291276,
+      "num": 291276,
+      "word": "看见千万种生活",
+      "onboard_time": 1662039269,
+      "rank": 18,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 289371,
       "num": 289371,
       "word": "老师为了公平煞费苦心了",
@@ -1304,6 +1344,14 @@
       "word": "河北省新增无症状感染者45例",
       "onboard_time": 1661996187,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283477,
+      "num": 283477,
+      "word": "成都商超农贸市场正常营业",
+      "onboard_time": 1662036387,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1356,7 +1404,7 @@
     },
     {
       "raw_hot": 272657,
-      "num": 207926,
+      "num": 226951,
       "word": "郭俊辰16岁校服照好青涩",
       "onboard_time": 1662035607,
       "rank": 35,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1662036209,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259223,
+      "num": 259223,
+      "word": "男孩得知延迟开学忍不住嘴角上扬",
+      "onboard_time": 1662036689,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258167,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1662006210,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242113,
+      "num": 242113,
+      "word": "山西太原推出醋味月饼",
+      "onboard_time": 1662037108,
+      "rank": 42,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 235592,
@@ -1611,12 +1675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216929,
-      "num": 216929,
-      "word": "成都商超农贸市场正常营业",
-      "onboard_time": 1662036387,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 214205,
+      "num": 121521,
+      "word": "玉骨遥",
+      "onboard_time": 1662039571,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 213968,
@@ -1699,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203224,
+      "num": 203224,
+      "word": "张超牺牲前还在问自己能不能飞",
+      "onboard_time": 1662037830,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "2022LPL夏决",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1662029067,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 199673,
+      "num": 199673,
+      "word": "JDG与TES决胜局",
+      "onboard_time": 1662039331,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 194085,
@@ -1899,14 +1979,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 166383,
-      "num": 166383,
-      "word": "男孩得知延迟开学忍不住嘴角上扬",
-      "onboard_time": 1662036689,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 163471,
       "num": 163471,
       "word": "黄大妈",
@@ -2091,22 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123774,
-      "num": 123774,
-      "word": "山西太原推出醋味月饼",
-      "onboard_time": 1662037108,
-      "rank": 42,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 123703,
-      "num": 123703,
-      "word": "爸爸将一年级女儿送错学校",
-      "onboard_time": 1662037351,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119119,
       "num": 119119,
       "word": "JDG拿到赛点",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1661943687,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106833,
+      "num": 106833,
+      "word": "82岁育种院士让人泪目的手",
+      "onboard_time": 1662038671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99098,
