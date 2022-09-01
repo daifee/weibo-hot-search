@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662057980138,
+  "endTime": 1662059877796,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -2691,19 +2691,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36467,
+      "num": 36467,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27800,
       "num": 553073,
       "word": "如何看待餐饮界的巴奴现象",
       "onboard_time": 1662022829,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15899,
-      "num": 15899,
-      "word": "成都静下来齐心抗疫",
-      "onboard_time": 1662057674,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
