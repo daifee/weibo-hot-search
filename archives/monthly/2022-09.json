@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662043064594,
+  "endTime": 1662045947765,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -27,20 +27,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 3228817,
+      "num": 3228817,
+      "word": "jkl",
+      "onboard_time": 1662042273,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2909181,
       "num": 2909181,
       "word": "国外网友或发现南京大屠杀彩照",
       "onboard_time": 1662020008,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2673558,
-      "num": 2673558,
-      "word": "jkl",
-      "onboard_time": 1662042273,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 2574419,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1453215,
+      "num": 1453215,
+      "word": "当代年轻人离婚成本有多高",
+      "onboard_time": 1662040472,
+      "rank": 15,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 1436183,
       "num": 1436183,
       "word": "女子剪发被4部手机对着直播",
@@ -249,6 +257,14 @@
       "onboard_time": 1662006755,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1217652,
+      "num": 1217652,
+      "word": "心疼小天",
+      "onboard_time": 1662042812,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 1144916,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924438,
+      "num": 615480,
+      "word": "多国感谢中国在安理会主席月出色工作",
+      "onboard_time": 1662041190,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 922766,
       "num": 922766,
       "word": "舍不得赵露思演的程少商",
@@ -425,6 +449,14 @@
       "onboard_time": 1662005492,
       "rank": 15,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 905476,
+      "num": 905476,
+      "word": "移动公厕一次收费10元还倒计时",
+      "onboard_time": 1662042934,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874786,
@@ -473,14 +505,6 @@
       "onboard_time": 1662027149,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824730,
-      "num": 824730,
-      "word": "当代年轻人离婚成本有多高",
-      "onboard_time": 1662040472,
-      "rank": 15,
-      "category": "情感,社会议题"
     },
     {
       "raw_hot": 815327,
@@ -553,14 +577,6 @@
       "onboard_time": 1662014129,
       "rank": 12,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 703905,
-      "num": 344945,
-      "word": "多国感谢中国在安理会主席月出色工作",
-      "onboard_time": 1662041190,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 701838,
@@ -651,6 +667,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619890,
+      "num": 619890,
+      "word": "姜小果承认喜欢齐颂",
+      "onboard_time": 1662041793,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 615897,
+      "num": 615897,
+      "word": "波兰要求德国赔偿二战损失",
+      "onboard_time": 1662043173,
+      "rank": 9,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 612637,
       "num": 612637,
       "word": "成都地铁",
@@ -731,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549686,
-      "num": 549686,
-      "word": "心疼小天",
-      "onboard_time": 1662042812,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 540629,
       "num": 540629,
       "word": "管泽元",
@@ -787,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508644,
-      "num": 508644,
-      "word": "姜小果承认喜欢齐颂",
-      "onboard_time": 1662041793,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 508309,
       "num": 508309,
       "word": "长珩仙君配音念长珩的告别信",
@@ -841,6 +857,14 @@
       "onboard_time": 1662034889,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482874,
+      "num": 482874,
+      "word": "教资报名",
+      "onboard_time": 1662040589,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 480545,
@@ -907,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447317,
+      "num": 447317,
+      "word": "巴黎贝甜疫情期间无证生产被罚58万",
+      "onboard_time": 1662041793,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 447313,
       "num": 447313,
       "word": "鬼吹灯之精绝古城上线",
@@ -931,12 +963,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437606,
+      "num": 437606,
+      "word": "JackeyLove泽丽",
+      "onboard_time": 1662042573,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435607,
       "num": 435607,
       "word": "脱口秀大会 领笑员",
       "onboard_time": 1662002908,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429547,
+      "num": 429547,
+      "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
+      "onboard_time": 1662043112,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426796,
@@ -1043,12 +1091,20 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 390136,
-      "num": 390136,
-      "word": "教资报名",
-      "onboard_time": 1662040589,
-      "rank": 27,
-      "category": "教育"
+      "raw_hot": 395354,
+      "num": 394067,
+      "word": "赵露思分享海边随拍",
+      "onboard_time": 1662044731,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 392528,
+      "num": 392528,
+      "word": "沉香重华渣爹线太蛊了",
+      "onboard_time": 1662042573,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 389978,
@@ -1163,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340710,
-      "num": 340710,
-      "word": "沉香重华渣爹线太蛊了",
-      "onboard_time": 1662042573,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "教官在狙击手身边剥洋葱",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1662012449,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329725,
+      "num": 329725,
+      "word": "范丞丞的嘴从不让人失望",
+      "onboard_time": 1662043412,
+      "rank": 25,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 329661,
@@ -1395,14 +1451,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 296748,
-      "num": 296748,
-      "word": "巴黎贝甜疫情期间无证生产被罚58万",
-      "onboard_time": 1662041793,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1662017908,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 288925,
-      "num": 288925,
-      "word": "JackeyLove泽丽",
-      "onboard_time": 1662042573,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 285524,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1662022169,
       "rank": 24,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 272005,
+      "num": 272005,
+      "word": "开国少将杨永松逝世",
+      "onboard_time": 1662043770,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271921,
@@ -1923,6 +1971,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 196770,
+      "num": 196770,
+      "word": "TES超话",
+      "onboard_time": 1662044972,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194085,
       "num": 194085,
       "word": "藏在村里的广州烧味有多绝",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1662027928,
       "rank": 38,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 191634,
+      "num": 191634,
+      "word": "Tian连续四个亚军",
+      "onboard_time": 1662045210,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 191581,
@@ -2075,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174265,
+      "num": 174265,
+      "word": "通州俩小区临时封控",
+      "onboard_time": 1662045450,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171770,
       "num": 171770,
       "word": "Kanavi 猴子",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1662031885,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168820,
+      "num": 168820,
+      "word": "汪涵保剑锋70后的共鸣",
+      "onboard_time": 1662043893,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 167615,
@@ -2179,20 +2259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154395,
+      "num": 154395,
+      "word": "消除双下巴试试这3个动作",
+      "onboard_time": 1662045032,
+      "rank": 40,
+      "category": "其它"
+    },
+    {
       "raw_hot": 150325,
       "num": 150325,
       "word": "LPL一号种子JDG",
       "onboard_time": 1662042754,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150274,
-      "num": 150274,
-      "word": "移动公厕一次收费10元还倒计时",
-      "onboard_time": 1662042934,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148790,
@@ -2227,6 +2307,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145836,
+      "num": 145836,
+      "word": "阴阳师",
+      "onboard_time": 1662045267,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143763,
+      "num": 143763,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142498,
       "num": 139703,
       "word": "隐入尘烟 真实",
@@ -2241,6 +2337,14 @@
       "onboard_time": 1661988863,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138812,
+      "num": 138812,
+      "word": "Yagao获得FMVP",
+      "onboard_time": 1662043893,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 137660,
@@ -2281,6 +2385,14 @@
       "onboard_time": 1661952867,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133100,
+      "num": 133100,
+      "word": "网传专家铺地毯下地为不实消息",
+      "onboard_time": 1662045628,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132613,
@@ -2329,6 +2441,14 @@
       "onboard_time": 1662043052,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 120286,
+      "num": 120286,
+      "word": "这石头挺有素质",
+      "onboard_time": 1662045931,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119119,
