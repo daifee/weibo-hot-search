@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1661998857526,
+  "endTime": 1662001543691,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -1363,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985589,
+      "num": 521703,
+      "word": "迪丽热巴林间听瀑芭莎大片",
+      "onboard_time": 1662000206,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 982299,
       "num": 982299,
       "word": "原来年龄真的只是一个数字",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1661748634,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 932859,
+      "num": 932859,
+      "word": "iPhone14涨价或低于预期",
+      "onboard_time": 1661998828,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 931611,
@@ -2491,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559597,
+      "num": 559597,
+      "word": "向前冲抢冰箱的人又增加了",
+      "onboard_time": 1662000686,
+      "rank": 8,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 558350,
       "num": 558350,
       "word": "唐山打人案被害人回应网络传言",
@@ -2808,6 +2832,14 @@
       "word": "大连静默",
       "onboard_time": 1661778392,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494726,
+      "num": 494726,
+      "word": "深圳福田区华星舞蹈艺术中心被立案调查",
+      "onboard_time": 1661997747,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3851,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353576,
+      "num": 353576,
+      "word": "学员考科目二把考试大厅撞穿",
+      "onboard_time": 1662000746,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353386,
       "num": 353386,
       "word": "在杨紫的歌声中感受美好新时代",
@@ -3905,6 +3945,14 @@
       "onboard_time": 1661943749,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346625,
+      "num": 346625,
+      "word": "长春疫情防控",
+      "onboard_time": 1661997207,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346545,
@@ -4051,6 +4099,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 335671,
+      "num": 335671,
+      "word": "iPhone14手机壳或与上一代通用",
+      "onboard_time": 1661997388,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
@@ -4073,14 +4129,6 @@
       "onboard_time": 1661780072,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331827,
-      "num": 331827,
-      "word": "iPhone14手机壳或与上一代通用",
-      "onboard_time": 1661997388,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 330450,
@@ -4121,6 +4169,14 @@
       "onboard_time": 1661937810,
       "rank": 47,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 327792,
+      "num": 327792,
+      "word": "彭于晏工作室打假被代言",
+      "onboard_time": 1661998525,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 327202,
@@ -4299,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312162,
+      "num": 312162,
+      "word": "披荆斩棘全员寄语追梦新生",
+      "onboard_time": 1661999007,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311447,
       "num": 311447,
       "word": "原来高铁还有静音车厢",
@@ -4345,6 +4409,14 @@
       "onboard_time": 1661748811,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304375,
+      "num": 304375,
+      "word": "家长开学日的统一姿势",
+      "onboard_time": 1661999546,
+      "rank": 24,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 303435,
@@ -4475,6 +4547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295738,
+      "num": 295738,
+      "word": "疯狂星期四",
+      "onboard_time": 1662001108,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 295591,
       "num": 295591,
       "word": "熊孩子踹高铁小桌板家长无动于衷",
@@ -4563,19 +4643,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283368,
-      "num": 283368,
-      "word": "深圳福田区华星舞蹈艺术中心被立案调查",
-      "onboard_time": 1661997747,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282393,
       "num": 282393,
       "word": "男子领养狗后勒索主人3000元",
       "onboard_time": 1661733450,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281679,
+      "num": 281679,
+      "word": "西安疫情防控",
+      "onboard_time": 1661999784,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -5315,6 +5395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231098,
+      "num": 231098,
+      "word": "iPhone14Pro可选35W充电器",
+      "onboard_time": 1662000446,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 230705,
       "num": 230705,
       "word": "小猫好像需要法律援助",
@@ -5377,14 +5465,6 @@
       "onboard_time": 1661942907,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227562,
-      "num": 227562,
-      "word": "长春疫情防控",
-      "onboard_time": 1661997207,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226924,
@@ -5467,6 +5547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222509,
+      "num": 222509,
+      "word": "秦海璐新剧演了个bqueen",
+      "onboard_time": 1661999307,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222212,
       "num": 222212,
       "word": "马斯克终止购买推特",
@@ -5488,6 +5576,22 @@
       "word": "黑龙江新增本土确诊8例本土无症状66例",
       "onboard_time": 1661862868,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221207,
+      "num": 221207,
+      "word": "闪耀暖暖",
+      "onboard_time": 1661999245,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 220735,
+      "num": 220735,
+      "word": "南通疫情防控",
+      "onboard_time": 1661996002,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -5979,6 +6083,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 189555,
+      "num": 189555,
+      "word": "西南联大百岁大师集体送开学寄语",
+      "onboard_time": 1662000927,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 189142,
       "num": 189142,
       "word": "白夜追凶开播5周年",
@@ -6011,11 +6123,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186614,
+      "num": 186614,
+      "word": "济南新增感染者详情",
+      "onboard_time": 1662001045,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185858,
       "num": 185858,
       "word": "九价疫苗该如何预约",
       "onboard_time": 1661870199,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185074,
+      "num": 185074,
+      "word": "武汉新增确诊1例无症状17例",
+      "onboard_time": 1661999366,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6033,6 +6161,14 @@
       "onboard_time": 1661844689,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182425,
+      "num": 182425,
+      "word": "吴易昺创中国大陆男网历史",
+      "onboard_time": 1661815643,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 182144,
@@ -6171,6 +6307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172229,
+      "num": 172229,
+      "word": "6岁女孩因长得像爸爸委屈大哭",
+      "onboard_time": 1662001407,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 172088,
       "num": 172088,
       "word": "我的敬酒嘴替",
@@ -6216,14 +6360,6 @@
       "word": "海珠疫情防控",
       "onboard_time": 1661946688,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170523,
-      "num": 170523,
-      "word": "南通疫情防控",
-      "onboard_time": 1661996002,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6395,14 +6531,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 151865,
-      "num": 151865,
-      "word": "吴易昺创中国大陆男网历史",
-      "onboard_time": 1661815643,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151201,
       "num": 151201,
       "word": "中国男排0比3加拿大男排",
@@ -6411,20 +6539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149330,
-      "num": 149330,
-      "word": "彭于晏工作室打假被代言",
-      "onboard_time": 1661998525,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148997,
       "num": 148997,
       "word": "腾讯会议官方回应崩了",
       "onboard_time": 1661741910,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 148376,
+      "num": 148376,
+      "word": "开学第一天",
+      "onboard_time": 1662001407,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148353,
@@ -6603,6 +6731,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "北体健身房里什么样",
+      "onboard_time": 1662001468,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 135408,
       "num": 1787700,
       "word": "守住保障国家粮食安全底线",
@@ -6697,14 +6833,6 @@
       "onboard_time": 1661864073,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 127076,
-      "num": 127076,
-      "word": "iPhone14涨价或低于预期",
-      "onboard_time": 1661998828,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 125963,

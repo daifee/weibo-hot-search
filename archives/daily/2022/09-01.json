@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1661998857526,
+  "endTime": 1662001543691,
   "band_list": [
     {
       "raw_hot": 2048268,
@@ -65,6 +65,22 @@
       "onboard_time": 1661958932,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 985589,
+      "num": 521703,
+      "word": "迪丽热巴林间听瀑芭莎大片",
+      "onboard_time": 1662000206,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 932859,
+      "num": 932859,
+      "word": "iPhone14涨价或低于预期",
+      "onboard_time": 1661998828,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 872837,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559597,
+      "num": 559597,
+      "word": "向前冲抢冰箱的人又增加了",
+      "onboard_time": 1662000686,
+      "rank": 8,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 558976,
       "num": 558976,
       "word": "10岁男孩开灯睡觉骨龄发育慢4年",
@@ -176,6 +200,14 @@
       "word": "长沙人每7天要做一次核酸",
       "onboard_time": 1661955930,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494726,
+      "num": 494726,
+      "word": "深圳福田区华星舞蹈艺术中心被立案调查",
+      "onboard_time": 1661997747,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -243,6 +275,30 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 353576,
+      "num": 353576,
+      "word": "学员考科目二把考试大厅撞穿",
+      "onboard_time": 1662000746,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346625,
+      "num": 346625,
+      "word": "长春疫情防控",
+      "onboard_time": 1661997207,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335671,
+      "num": 335671,
+      "word": "iPhone14手机壳或与上一代通用",
+      "onboard_time": 1661997388,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 333629,
       "num": 333629,
       "word": "宁安如梦",
@@ -251,20 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331827,
-      "num": 331827,
-      "word": "iPhone14手机壳或与上一代通用",
-      "onboard_time": 1661997388,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 327823,
       "num": 327823,
       "word": "威神V六人合体",
       "onboard_time": 1661957372,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327792,
+      "num": 327792,
+      "word": "彭于晏工作室打假被代言",
+      "onboard_time": 1661998525,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 319482,
@@ -283,12 +339,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312162,
+      "num": 312162,
+      "word": "披荆斩棘全员寄语追梦新生",
+      "onboard_time": 1661999007,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304375,
+      "num": 304375,
+      "word": "家长开学日的统一姿势",
+      "onboard_time": 1661999546,
+      "rank": 24,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 296986,
       "num": 296986,
       "word": "成都官方说不必盲目囤积生活物资",
       "onboard_time": 1661989825,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295738,
+      "num": 295738,
+      "word": "疯狂星期四",
+      "onboard_time": 1662001108,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 293561,
@@ -315,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283368,
-      "num": 283368,
-      "word": "深圳福田区华星舞蹈艺术中心被立案调查",
-      "onboard_time": 1661997747,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282487,
       "num": 282487,
       "word": "北京43岁女子冻龄般颜值",
       "onboard_time": 1661948309,
       "rank": 38,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 281679,
+      "num": 281679,
+      "word": "西安疫情防控",
+      "onboard_time": 1661999784,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280645,
@@ -387,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231098,
+      "num": 231098,
+      "word": "iPhone14Pro可选35W充电器",
+      "onboard_time": 1662000446,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 230705,
       "num": 230705,
       "word": "小猫好像需要法律援助",
       "onboard_time": 1661959532,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 227562,
-      "num": 227562,
-      "word": "长春疫情防控",
-      "onboard_time": 1661997207,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224713,
@@ -424,6 +504,30 @@
       "word": "对重力过敏是啥体验",
       "onboard_time": 1661960129,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222509,
+      "num": 222509,
+      "word": "秦海璐新剧演了个bqueen",
+      "onboard_time": 1661999307,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221207,
+      "num": 221207,
+      "word": "闪耀暖暖",
+      "onboard_time": 1661999245,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 220735,
+      "num": 220735,
+      "word": "南通疫情防控",
+      "onboard_time": 1661996002,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -475,12 +579,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 189555,
+      "num": 189555,
+      "word": "西南联大百岁大师集体送开学寄语",
+      "onboard_time": 1662000927,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 187863,
       "num": 187863,
       "word": "国外也卖这东西啊",
       "onboard_time": 1661959651,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186614,
+      "num": 186614,
+      "word": "济南新增感染者详情",
+      "onboard_time": 1662001045,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185405,
@@ -499,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185074,
+      "num": 185074,
+      "word": "武汉新增确诊1例无症状17例",
+      "onboard_time": 1661999366,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184558,
       "num": 184558,
       "word": "家属辟谣巨石掉落奶奶叫猫咪离开",
       "onboard_time": 1661956652,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182425,
+      "num": 182425,
+      "word": "吴易昺创中国大陆男网历史",
+      "onboard_time": 1662000746,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 179072,
@@ -523,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170523,
-      "num": 170523,
-      "word": "南通疫情防控",
-      "onboard_time": 1661996002,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 172229,
+      "num": 172229,
+      "word": "6岁女孩因长得像爸爸委屈大哭",
+      "onboard_time": 1662001407,
+      "rank": 42,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 167615,
@@ -587,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149330,
-      "num": 149330,
-      "word": "彭于晏工作室打假被代言",
-      "onboard_time": 1661998525,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 148376,
+      "num": 148376,
+      "word": "开学第一天",
+      "onboard_time": 1662001407,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 146848,
@@ -635,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "北体健身房里什么样",
+      "onboard_time": 1662001468,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 136227,
       "num": 136227,
       "word": "要不还是说四川话吧",
@@ -673,14 +817,6 @@
       "onboard_time": 1661954132,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127076,
-      "num": 127076,
-      "word": "iPhone14涨价或低于预期",
-      "onboard_time": 1661998828,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 115956,
