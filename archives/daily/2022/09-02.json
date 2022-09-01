@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662049902600,
+  "endTime": 1662051382320,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500654,
+      "num": 316074,
+      "word": "谁是你心中的Bking天花板",
+      "onboard_time": 1662048685,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491995,
       "num": 491995,
       "word": "波兰要求德国赔偿二战损失",
@@ -59,20 +67,28 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 385798,
+      "num": 385798,
+      "word": "曾舜晞恋综首秀",
+      "onboard_time": 1662049404,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 365616,
+      "num": 365616,
+      "word": "网传专家铺地毯下地为不实消息",
+      "onboard_time": 1662045628,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364338,
       "num": 364338,
       "word": "LPL第三个春夏双冠JDG",
       "onboard_time": 1662046409,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 350160,
-      "num": 350160,
-      "word": "网传专家铺地毯下地为不实消息",
-      "onboard_time": 1662045628,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339653,
@@ -99,6 +115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 301915,
+      "num": 301915,
+      "word": "男子抓155只壁虎后自己被抓了",
+      "onboard_time": 1662049703,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299460,
       "num": 299460,
       "word": "姜小果承认喜欢齐颂",
@@ -115,28 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282454,
-      "num": 282454,
-      "word": "曾舜晞恋综首秀",
-      "onboard_time": 1662049404,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281711,
       "num": 281711,
       "word": "东方青苍导航语音包",
       "onboard_time": 1662047607,
       "rank": 17,
       "category": "作品衍生,科技"
-    },
-    {
-      "raw_hot": 280433,
-      "num": 261734,
-      "word": "谁是你心中的Bking天花板",
-      "onboard_time": 1662048685,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 280052,
@@ -147,12 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268144,
-      "num": 268144,
+      "raw_hot": 274975,
+      "num": 274975,
       "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
       "onboard_time": 1662047188,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265889,
+      "num": 265889,
+      "word": "萍乡第一中单",
+      "onboard_time": 1662046889,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 264642,
@@ -201,14 +217,6 @@
       "onboard_time": 1662035909,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227095,
-      "num": 227095,
-      "word": "萍乡第一中单",
-      "onboard_time": 1662046889,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 214011,
@@ -347,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109641,
-      "num": 109641,
-      "word": "男子抓155只壁虎后自己被抓了",
-      "onboard_time": 1662049703,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109256,
       "num": 109256,
       "word": "虞书欣唱出世间珍贵爱意",
@@ -393,6 +393,14 @@
       "onboard_time": 1662032488,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 48747,
+      "num": 48747,
+      "word": "JDG夺冠",
+      "onboard_time": 1662041973,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 40546,
