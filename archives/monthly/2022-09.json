@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662039567705,
+  "endTime": 1662040281208,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -57,6 +57,14 @@
       "onboard_time": 1662018507,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1974695,
+      "num": 518235,
+      "word": "韩素希新闻图",
+      "onboard_time": 1662039451,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1909822,
@@ -179,14 +187,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1492981,
-      "num": 518235,
-      "word": "韩素希新闻图",
-      "onboard_time": 1662039451,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1463605,
       "num": 278758,
       "word": "热带雨林",
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1377318,
+      "num": 1377318,
+      "word": "今晚多少孩子会创造奇迹",
+      "onboard_time": 1662035311,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1260006,
       "num": 1260006,
       "word": "父亲阻拦复读后孩子考上北大",
       "onboard_time": 1662006755,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1145721,
-      "num": 1145721,
-      "word": "今晚多少孩子会创造奇迹",
-      "onboard_time": 1662035311,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1144916,
@@ -256,6 +256,14 @@
       "word": "成都疫情传入链条超过20条",
       "onboard_time": 1662025468,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060019,
+      "num": 1060019,
+      "word": "爸爸将一年级女儿送错学校",
+      "onboard_time": 1662037351,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 968391,
+      "num": 968391,
+      "word": "终于有一部优质东方玄幻了",
+      "onboard_time": 1662035190,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958485,
       "num": 958485,
       "word": "369",
@@ -321,14 +337,6 @@
       "onboard_time": 1662001108,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 938078,
-      "num": 491558,
-      "word": "终于有一部优质东方玄幻了",
-      "onboard_time": 1662035190,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 936174,
@@ -507,12 +515,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 764416,
-      "num": 764416,
-      "word": "爸爸将一年级女儿送错学校",
-      "onboard_time": 1662037351,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 721593,
+      "num": 721593,
+      "word": "普京与戈尔巴乔夫遗体告别",
+      "onboard_time": 1662037951,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 701838,
@@ -571,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634675,
-      "num": 464264,
-      "word": "普京与戈尔巴乔夫遗体告别",
-      "onboard_time": 1662037951,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 634398,
       "num": 634398,
       "word": "虞书欣王鹤棣双人快问快答完整版",
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 601513,
-      "num": 432442,
+      "num": 543912,
       "word": "徐梦洁谢彬彬晋江在逃cp",
       "onboard_time": 1662037769,
       "rank": 13,
@@ -776,6 +776,14 @@
       "word": "陆安然妹妹陆欣然替嫁",
       "onboard_time": 1662034889,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 480545,
+      "num": 480545,
+      "word": "玉骨遥",
+      "onboard_time": 1662039571,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -995,6 +1003,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 379410,
+      "num": 379410,
+      "word": "你心中的校园剧TOP1",
+      "onboard_time": 1662035909,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370434,
       "num": 370434,
       "word": "张角离开AG",
@@ -1040,14 +1056,6 @@
       "word": "冰雨火K集团就地解散",
       "onboard_time": 1662035249,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 347340,
-      "num": 285684,
-      "word": "你心中的校园剧TOP1",
-      "onboard_time": 1662035909,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -1211,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318423,
+      "num": 318423,
+      "word": "男孩得知延迟开学忍不住嘴角上扬",
+      "onboard_time": 1662036689,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "杨蒙恩说买钻戒是感情里最刺激的时候",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1661999546,
       "rank": 24,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 302650,
+      "num": 302650,
+      "word": "成都商超农贸市场正常营业",
+      "onboard_time": 1662036387,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299630,
@@ -1344,14 +1368,6 @@
       "word": "河北省新增无症状感染者45例",
       "onboard_time": 1661996187,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283477,
-      "num": 283477,
-      "word": "成都商超农贸市场正常营业",
-      "onboard_time": 1662036387,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264041,
+      "num": 264041,
+      "word": "JDG与TES决胜局",
+      "onboard_time": 1662039331,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262802,
       "num": 221872,
       "word": "全都是李诞",
@@ -1451,20 +1475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261697,
+      "num": 261697,
+      "word": "山西太原推出醋味月饼",
+      "onboard_time": 1662037108,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 259882,
       "num": 226784,
       "word": "梁爽创意被抄袭",
       "onboard_time": 1662036209,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259223,
-      "num": 259223,
-      "word": "男孩得知延迟开学忍不住嘴角上扬",
-      "onboard_time": 1662036689,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258167,
@@ -1563,12 +1587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242113,
-      "num": 242113,
-      "word": "山西太原推出醋味月饼",
-      "onboard_time": 1662037108,
-      "rank": 42,
-      "category": "美食,社会新闻"
+      "raw_hot": 237970,
+      "num": 237970,
+      "word": "无臂女孩谈互联网对残障人士的意义",
+      "onboard_time": 1662039809,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 235592,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1661959532,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229756,
+      "num": 229756,
+      "word": "开学第一课观后感",
+      "onboard_time": 1662039687,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227218,
@@ -1672,14 +1704,6 @@
       "word": "苍兰诀",
       "onboard_time": 1662031469,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 214205,
-      "num": 121521,
-      "word": "玉骨遥",
-      "onboard_time": 1662039571,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -1785,14 +1809,6 @@
       "onboard_time": 1662029067,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 199673,
-      "num": 199673,
-      "word": "JDG与TES决胜局",
-      "onboard_time": 1662039331,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 194085,
@@ -2011,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160817,
+      "num": 160817,
+      "word": "丁程鑫说每一刻都是大家的高光时刻",
+      "onboard_time": 1662038010,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160302,
       "num": 160302,
       "word": "人事回应不聘用手机号倒数第五位是5的人",
@@ -2163,12 +2187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121327,
+      "num": 121327,
+      "word": "邢菲新剧红衣造型",
+      "onboard_time": 1662040230,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119119,
       "num": 119119,
       "word": "JDG拿到赛点",
       "onboard_time": 1662034889,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113250,
+      "num": 113250,
+      "word": "王亚平说恢复地球人模式很开心",
+      "onboard_time": 1662040108,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113229,

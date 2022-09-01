@@ -1,0 +1,410 @@
+{
+  "runTime": 1662040281208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2591817,
+        "num": 2591817,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1377318,
+        "num": 1377318,
+        "word": "今晚多少孩子会创造奇迹",
+        "onboard_time": 1662035311,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 96936,
+        "num": 1187903,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 1101733,
+        "num": 1101733,
+        "word": "EXO将2023年完整体回归",
+        "onboard_time": 1662032248,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1060019,
+        "num": 1060019,
+        "word": "爸爸将一年级女儿送错学校",
+        "onboard_time": 1662037351,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968391,
+        "num": 968391,
+        "word": "终于有一部优质东方玄幻了",
+        "onboard_time": 1662035190,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 905295,
+        "num": 905295,
+        "word": "北大数学天才柳智宇下山还俗",
+        "onboard_time": 1662031948,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721593,
+        "num": 721593,
+        "word": "普京与戈尔巴乔夫遗体告别",
+        "onboard_time": 1662037951,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 720560,
+        "num": 720560,
+        "word": "369",
+        "onboard_time": 1662033327,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 651320,
+        "num": 651320,
+        "word": "男子失恋喝1斤白酒吃18袋头孢",
+        "onboard_time": 1662020787,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543912,
+        "num": 543912,
+        "word": "徐梦洁谢彬彬晋江在逃cp",
+        "onboard_time": 1662037769,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480545,
+        "num": 480545,
+        "word": "玉骨遥",
+        "onboard_time": 1662039571,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437213,
+        "num": 437213,
+        "word": "成都今日18时起全体居民原则居家",
+        "onboard_time": 1662003868,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424253,
+        "num": 424253,
+        "word": "成都疫情传入链条超过20条",
+        "onboard_time": 1662025468,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379410,
+        "num": 379410,
+        "word": "你心中的校园剧TOP1",
+        "onboard_time": 1662035909,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357284,
+        "num": 357284,
+        "word": "成都快递",
+        "onboard_time": 1662034048,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325358,
+        "num": 325358,
+        "word": "成都核酸系统崩了",
+        "onboard_time": 1662025169,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 318423,
+        "num": 318423,
+        "word": "男孩得知延迟开学忍不住嘴角上扬",
+        "onboard_time": 1662036689,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302650,
+        "num": 302650,
+        "word": "成都商超农贸市场正常营业",
+        "onboard_time": 1662036387,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878434,
+        "num": 302392,
+        "word": "桂纶镁新冠感染",
+        "onboard_time": 1662034109,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1974695,
+        "num": 302142,
+        "word": "韩素希新闻图",
+        "onboard_time": 1662039451,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343036,
+        "num": 302092,
+        "word": "陆安然妹妹陆欣然替嫁",
+        "onboard_time": 1662034889,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301462,
+        "num": 301462,
+        "word": "一女子五脏六腑全部反着长",
+        "onboard_time": 1662018507,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300267,
+        "num": 300267,
+        "word": "2岁宝宝沉迷于包快递令妈妈发愁",
+        "onboard_time": 1662023850,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270076,
+        "num": 270076,
+        "word": "玄夜疯心锁爱",
+        "onboard_time": 1662029908,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264041,
+        "num": 264041,
+        "word": "JDG与TES决胜局",
+        "onboard_time": 1662039331,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261697,
+        "num": 261697,
+        "word": "山西太原推出醋味月饼",
+        "onboard_time": 1662037108,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 240688,
+        "num": 240688,
+        "word": "原神喜茶",
+        "onboard_time": 1662025888,
+        "rank": 27,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 240523,
+        "num": 240523,
+        "word": "客服做成了间谍的样子",
+        "onboard_time": 1662031106,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237970,
+        "num": 237970,
+        "word": "无臂女孩谈互联网对残障人士的意义",
+        "onboard_time": 1662039809,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 253680,
+        "num": 237553,
+        "word": "舍不得赵露思演的程少商",
+        "onboard_time": 1662031349,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229756,
+        "num": 229756,
+        "word": "开学第一课观后感",
+        "onboard_time": 1662039687,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228726,
+        "num": 228726,
+        "word": "重庆家长为灭山火耽误儿子迁户入学",
+        "onboard_time": 1662027149,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219427,
+        "num": 219427,
+        "word": "3岁女孩弄坏电视屏幕用黑笔补救",
+        "onboard_time": 1662026726,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218250,
+        "num": 218250,
+        "word": "疫情时的大一新生大四了",
+        "onboard_time": 1662018446,
+        "rank": 34,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 218001,
+        "num": 218001,
+        "word": "郭俊辰16岁校服照好青涩",
+        "onboard_time": 1662035607,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199210,
+        "num": 199210,
+        "word": "张超牺牲前还在问自己能不能飞",
+        "onboard_time": 1662037830,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194191,
+        "num": 194191,
+        "word": "生孩子后痛经能缓解吗",
+        "onboard_time": 1662021569,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 184497,
+        "num": 184497,
+        "word": "21岁医学生开学日去世捐出角膜遗体",
+        "onboard_time": 1662024032,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 172990,
+        "num": 172990,
+        "word": "冰雨火K集团就地解散",
+        "onboard_time": 1662035249,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171160,
+        "num": 171160,
+        "word": "看见千万种生活",
+        "onboard_time": 1662039269,
+        "rank": 40,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 169150,
+        "num": 169150,
+        "word": "成毅演的玄夜好会钓",
+        "onboard_time": 1662034170,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "男孩暑假送外卖挣17350元交学费",
+        "onboard_time": 1662022949,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160817,
+        "num": 160817,
+        "word": "丁程鑫说每一刻都是大家的高光时刻",
+        "onboard_time": 1662038010,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155858,
+        "num": 155858,
+        "word": "神十四2名航天员已成功出舱",
+        "onboard_time": 1662034290,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 150618,
+        "num": 150618,
+        "word": "男生补作业过度紧张进急救室",
+        "onboard_time": 1662024988,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142881,
+        "num": 142881,
+        "word": "新规明确处方药可通过网络销售",
+        "onboard_time": 1662031469,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 130144,
+        "word": "jojo更新",
+        "onboard_time": 1662020069,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121327,
+        "num": 121327,
+        "word": "邢菲新剧红衣造型",
+        "onboard_time": 1662040230,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113250,
+        "num": 113250,
+        "word": "王亚平说恢复地球人模式很开心",
+        "onboard_time": 1662040108,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2022服贸会#"
+    }
+  }
+}
