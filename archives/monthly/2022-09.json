@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662051382320,
+  "endTime": 1662053165590,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -705,6 +705,14 @@
       "onboard_time": 1662037769,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 593252,
+      "num": 593252,
+      "word": "男子抓155只壁虎后自己被抓了",
+      "onboard_time": 1662049703,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584258,
@@ -1472,14 +1480,6 @@
       "word": "成都商超农贸市场正常营业",
       "onboard_time": 1662036387,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301915,
-      "num": 301915,
-      "word": "男子抓155只壁虎后自己被抓了",
-      "onboard_time": 1662049703,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2633,6 +2633,14 @@
       "onboard_time": 1661977930,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83679,
+      "num": 83679,
+      "word": "台湾是中国的一个省没有什么国防部",
+      "onboard_time": 1662052395,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 79164,

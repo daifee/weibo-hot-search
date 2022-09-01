@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662051382320,
+  "endTime": 1662053165590,
   "band_list": [
     {
       "raw_hot": 1549571,
@@ -25,6 +25,14 @@
       "onboard_time": 1662032248,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593252,
+      "num": 593252,
+      "word": "男子抓155只壁虎后自己被抓了",
+      "onboard_time": 1662049703,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581762,
@@ -113,14 +121,6 @@
       "onboard_time": 1662041190,
       "rank": 13,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 301915,
-      "num": 301915,
-      "word": "男子抓155只壁虎后自己被抓了",
-      "onboard_time": 1662049703,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299460,
@@ -393,6 +393,14 @@
       "onboard_time": 1662032488,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83679,
+      "num": 83679,
+      "word": "台湾是中国的一个省没有什么国防部",
+      "onboard_time": 1662052395,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 48747,
