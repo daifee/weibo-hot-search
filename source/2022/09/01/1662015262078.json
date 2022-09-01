@@ -1,0 +1,410 @@
+{
+  "runTime": 1662015262078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2708782,
+        "num": 2708782,
+        "word": "成都今日18时起全体居民原则居家",
+        "onboard_time": 1662003868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1478089,
+        "num": 1478089,
+        "word": "取消公摊面积或给消费者埋下暗坑",
+        "onboard_time": 1662007835,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 27393,
+        "num": 1075673,
+        "word": "这批新规9月起施行",
+        "onboard_time": 1661949867,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 948976,
+        "num": 948976,
+        "word": "杜德伟第八号当铺造型",
+        "onboard_time": 1662011669,
+        "rank": 3,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 848094,
+        "num": 848094,
+        "word": "长春市传染病医院发现5例阳性",
+        "onboard_time": 1662008495,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741763,
+        "num": 741763,
+        "word": "父亲阻拦复读后孩子考上北大",
+        "onboard_time": 1662006755,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 669717,
+        "num": 669717,
+        "word": "为什么越来越多人想当老师",
+        "onboard_time": 1662007415,
+        "rank": 6,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 663304,
+        "num": 663304,
+        "word": "男子10秒内死里逃生2次",
+        "onboard_time": 1662006575,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628093,
+        "num": 628093,
+        "word": "收费员一句话救了四个人",
+        "onboard_time": 1662008255,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 618933,
+        "num": 618933,
+        "word": "迪丽热巴说龚俊很容易害羞",
+        "onboard_time": 1662010530,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3243656,
+        "num": 618628,
+        "word": "辣目洋子恢复本名",
+        "onboard_time": 1662005851,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614914,
+        "num": 614914,
+        "word": "我发现上班摸鱼才是最痛苦的",
+        "onboard_time": 1662005492,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 578452,
+        "num": 578452,
+        "word": "关晓彤也爱在横店找明星",
+        "onboard_time": 1662014129,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 534066,
+        "num": 534066,
+        "word": "武林外传入驻微博",
+        "onboard_time": 1662003688,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532790,
+        "num": 532790,
+        "word": "泰坦尼克号残骸8K画面公布",
+        "onboard_time": 1662010349,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437606,
+        "num": 437606,
+        "word": "陈晓怀念不用涂粉的日子",
+        "onboard_time": 1662015028,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372408,
+        "num": 372408,
+        "word": "6岁女孩因长得像爸爸委屈大哭",
+        "onboard_time": 1662001407,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 312755,
+        "num": 312755,
+        "word": "北京市租房需进行合同网签",
+        "onboard_time": 1662014064,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312322,
+        "num": 312322,
+        "word": "留学生为种好一颗梨花光800万积蓄",
+        "onboard_time": 1662008015,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310478,
+        "num": 310478,
+        "word": "中学回应学生被军训教官强行剪发",
+        "onboard_time": 1662012929,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 390791,
+        "num": 310476,
+        "word": "玲娜贝儿说话了",
+        "onboard_time": 1662001885,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353408,
+        "num": 310474,
+        "word": "乐华新男团官宣",
+        "onboard_time": 1662014547,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310463,
+        "num": 310463,
+        "word": "玄夜的媚唐周的笑应渊的泪",
+        "onboard_time": 1662013289,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285205,
+        "num": 285205,
+        "word": "被HR追问试用期离职原因",
+        "onboard_time": 1662012449,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271442,
+        "num": 271442,
+        "word": "学员考科目二把考试大厅撞穿",
+        "onboard_time": 1662000746,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257814,
+        "num": 257814,
+        "word": "外卖小哥边抖腿边按亮整部电梯",
+        "onboard_time": 1662005492,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246787,
+        "num": 246787,
+        "word": "iPhone14涨价或低于预期",
+        "onboard_time": 1661998828,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243556,
+        "num": 243556,
+        "word": "樊振东上海交大报到",
+        "onboard_time": 1662011188,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237670,
+        "num": 237670,
+        "word": "中国人寿原董事长王滨被双开",
+        "onboard_time": 1662005132,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206631,
+        "num": 206631,
+        "word": "深圳疫情防控",
+        "onboard_time": 1662008015,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287071,
+        "num": 206384,
+        "word": "武林外传官微否认翻拍",
+        "onboard_time": 1662012090,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 980223,
+        "num": 204059,
+        "word": "热带雨林",
+        "onboard_time": 1662008374,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296360,
+        "num": 202519,
+        "word": "虞书欣王鹤棣双人快问快答完整版",
+        "onboard_time": 1662014970,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244980,
+        "num": 200815,
+        "word": "姐姐这是可以说的吗",
+        "onboard_time": 1662007472,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280917,
+        "num": 198329,
+        "word": "长珩仙君配音念长珩的告别信",
+        "onboard_time": 1662011308,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197344,
+        "num": 197344,
+        "word": "iPhone14Pro可选35W充电器",
+        "onboard_time": 1662000446,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196018,
+        "num": 196018,
+        "word": "95后铁路姑娘帮接生后激动大哭",
+        "onboard_time": 1662007356,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 185789,
+        "num": 185789,
+        "word": "摆渡人",
+        "onboard_time": 1662011129,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182480,
+        "num": 182480,
+        "word": "成都疫情防控",
+        "onboard_time": 1662004169,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171236,
+        "num": 171236,
+        "word": "夫妻看新房发现已被人装修入住",
+        "onboard_time": 1661992831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237867,
+        "num": 169348,
+        "word": "苏有朋戏腔",
+        "onboard_time": 1662010410,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198550,
+        "num": 168547,
+        "word": "周迅王一博隔空对坐饮茶",
+        "onboard_time": 1662005792,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211685,
+        "num": 167564,
+        "word": "披荆斩棘",
+        "onboard_time": 1662009751,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165757,
+        "num": 165757,
+        "word": "boss直聘公示涉性骚扰违规账号",
+        "onboard_time": 1662014669,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160187,
+        "num": 160187,
+        "word": "张角离开AG",
+        "onboard_time": 1662007235,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146236,
+        "num": 146236,
+        "word": "男子刷视频刷到自家竟是同事偷拍",
+        "onboard_time": 1662002188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137476,
+        "num": 137476,
+        "word": "高考复读值不值得",
+        "onboard_time": 1662013829,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137093,
+        "num": 137093,
+        "word": "甜美的咬痕动画开播",
+        "onboard_time": 1662006031,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126564,
+        "num": 126564,
+        "word": "iPhone14Pro叹号孔可显示为药丸形",
+        "onboard_time": 1661994268,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113730,
+        "num": 113730,
+        "word": "内蒙古住建厅回应取消公摊",
+        "onboard_time": 1662006210,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2022服贸会#"
+    }
+  }
+}
