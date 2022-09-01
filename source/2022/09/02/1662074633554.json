@@ -1,0 +1,410 @@
+{
+  "runTime": 1662074633554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 984966,
+        "num": 984966,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609984,
+        "num": 609984,
+        "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+        "onboard_time": 1662047188,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35230,
+        "num": 590844,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578272,
+        "num": 578272,
+        "word": "34岁老马去世2匹小马将送葬车拦停",
+        "onboard_time": 1662060491,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531393,
+        "num": 531393,
+        "word": "福建渔民用泥巴击落无人机",
+        "onboard_time": 1662067931,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494290,
+        "num": 494290,
+        "word": "男子抓155只壁虎后自己被抓了",
+        "onboard_time": 1662049703,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417528,
+        "num": 417528,
+        "word": "空巢大学生",
+        "onboard_time": 1662066790,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 401370,
+        "num": 401370,
+        "word": "大妈骑车被车门碰倒坐地索要1万5",
+        "onboard_time": 1662065291,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360741,
+        "num": 360741,
+        "word": "赵晓卉发文回应退赛",
+        "onboard_time": 1662073699,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179052,
+        "num": 336124,
+        "word": "爸爸将一年级女儿送错学校",
+        "onboard_time": 1662037351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090370,
+        "num": 335601,
+        "word": "台湾是中国的一个省没有什么国防部",
+        "onboard_time": 1662052395,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 394635,
+        "num": 335317,
+        "word": "谁是你心中的Bking天花板",
+        "onboard_time": 1662048685,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334968,
+        "num": 334968,
+        "word": "主播应聘被要求对口型卖产品",
+        "onboard_time": 1662063071,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316530,
+        "num": 316530,
+        "word": "房车情侣回应被叫停车场乞丐",
+        "onboard_time": 1662073819,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273683,
+        "num": 273683,
+        "word": "EXO将2023年完整体回归",
+        "onboard_time": 1662032248,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272760,
+        "num": 272760,
+        "word": "北大数学天才柳智宇下山还俗",
+        "onboard_time": 1662031948,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251487,
+        "num": 251487,
+        "word": "移动公厕一次收费10元还倒计时",
+        "onboard_time": 1662042934,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202579,
+        "num": 202579,
+        "word": "米切尔加盟骑士",
+        "onboard_time": 1662073941,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198553,
+        "num": 198553,
+        "word": "波兰要求德国赔偿二战损失",
+        "onboard_time": 1662043173,
+        "rank": 18,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 195562,
+        "num": 195562,
+        "word": "当代年轻人离婚成本有多高",
+        "onboard_time": 1662040472,
+        "rank": 19,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 185640,
+        "num": 185640,
+        "word": "男子失恋喝1斤白酒吃18袋头孢",
+        "onboard_time": 1662020787,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165742,
+        "num": 165742,
+        "word": "袁悦晋级美网32强",
+        "onboard_time": 1662074121,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163412,
+        "num": 163412,
+        "word": "网传专家铺地毯下地为不实消息",
+        "onboard_time": 1662045628,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159936,
+        "num": 159936,
+        "word": "终于有一部优质东方玄幻了",
+        "onboard_time": 1662035190,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157313,
+        "num": 157313,
+        "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
+        "onboard_time": 1662043112,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152427,
+        "num": 152427,
+        "word": "多国感谢中国在安理会主席月出色工作",
+        "onboard_time": 1662041190,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 141846,
+        "num": 141846,
+        "word": "你心中的校园剧TOP1",
+        "onboard_time": 1662035909,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136304,
+        "num": 136304,
+        "word": "张翰王晓晨和解太费杜淳",
+        "onboard_time": 1662049404,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131450,
+        "num": 131450,
+        "word": "莱斯特城0比1曼联",
+        "onboard_time": 1662074541,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129977,
+        "num": 129977,
+        "word": "jkl",
+        "onboard_time": 1662042273,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129761,
+        "num": 129761,
+        "word": "成都疫情传入链条超过20条",
+        "onboard_time": 1662025468,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126222,
+        "num": 126222,
+        "word": "成都核酸系统崩了",
+        "onboard_time": 1662025169,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 119095,
+        "num": 119095,
+        "word": "LPL第三个春夏双冠JDG",
+        "onboard_time": 1662046409,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "覆流年 上头",
+        "onboard_time": 1662073639,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117367,
+        "num": 117367,
+        "word": "巴黎贝甜疫情期间无证生产被罚58万",
+        "onboard_time": 1662041793,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 110244,
+        "num": 110244,
+        "word": "郑钦文",
+        "onboard_time": 1662073998,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108968,
+        "num": 108968,
+        "word": "沉香重华渣爹线太蛊了",
+        "onboard_time": 1662042573,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93355,
+        "num": 93355,
+        "word": "朱一龙的手法很专业",
+        "onboard_time": 1662049522,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91455,
+        "num": 91455,
+        "word": "刘诗诗一念关山造型路透",
+        "onboard_time": 1662048565,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91132,
+        "num": 91132,
+        "word": "吴振峰又带货失败了",
+        "onboard_time": 1662062891,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89327,
+        "num": 89327,
+        "word": "成都静下来齐心抗疫",
+        "onboard_time": 1662057674,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88062,
+        "num": 88062,
+        "word": "通州俩小区临时封控",
+        "onboard_time": 1662045450,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86620,
+        "num": 86620,
+        "word": "一女子五脏六腑全部反着长",
+        "onboard_time": 1662018507,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80570,
+        "num": 80570,
+        "word": "贵阳疫情防控",
+        "onboard_time": 1662074359,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80227,
+        "num": 80227,
+        "word": "曾舜晞恋综首秀",
+        "onboard_time": 1662049404,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79112,
+        "num": 79112,
+        "word": "客服做成了间谍的样子",
+        "onboard_time": 1662031106,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77227,
+        "num": 77227,
+        "word": "披荆斩棘第一次公演歌单",
+        "onboard_time": 1662067991,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75627,
+        "num": 75627,
+        "word": "开国少将杨永松逝世",
+        "onboard_time": 1662043770,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66928,
+        "num": 66928,
+        "word": "跳不出手掌心的小猫一枚",
+        "onboard_time": 1662067030,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62623,
+        "num": 62623,
+        "word": "Tian连续四个亚军",
+        "onboard_time": 1662045210,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2022服贸会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662071985302,
+  "endTime": 1662074633554,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -305,6 +305,14 @@
       "onboard_time": 1662033327,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1090370,
+      "num": 335601,
+      "word": "台湾是中国的一个省没有什么国防部",
+      "onboard_time": 1662052395,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1080953,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609984,
+      "num": 609984,
+      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+      "onboard_time": 1662047188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606234,
       "num": 606234,
       "word": "成都两机场航班大面积取消",
@@ -721,6 +737,14 @@
       "onboard_time": 1662022949,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 578272,
+      "num": 578272,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571944,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531393,
+      "num": 531393,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526649,
       "num": 526649,
       "word": "乐华新男团官宣",
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 500654,
-      "num": 316074,
+      "num": 335317,
       "word": "谁是你心中的Bking天花板",
       "onboard_time": 1662048685,
       "rank": 20,
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417528,
+      "num": 417528,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 415357,
       "num": 415357,
       "word": "沉香如屑优酷首个灯塔破百万剧集",
@@ -1091,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401370,
+      "num": 401370,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401184,
       "num": 401184,
       "word": "南山疫情防控",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1661965160,
       "rank": 4,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 395448,
-      "num": 395448,
-      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
-      "onboard_time": 1662047188,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395354,
@@ -1219,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 360741,
+      "num": 360741,
+      "word": "赵晓卉发文回应退赛",
+      "onboard_time": 1662073699,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359599,
       "num": 359599,
       "word": "点外卖能看到饭做好了没",
@@ -1323,6 +1371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 334968,
+      "num": 334968,
+      "word": "主播应聘被要求对口型卖产品",
+      "onboard_time": 1662063071,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333677,
       "num": 333677,
       "word": "男生补作业过度紧张进急救室",
@@ -1416,6 +1472,14 @@
       "word": "超市售卖鳄雀鳝被责令现场扑杀",
       "onboard_time": 1661957313,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316530,
+      "num": 316530,
+      "word": "房车情侣回应被叫停车场乞丐",
+      "onboard_time": 1662073819,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1529,22 +1593,6 @@
       "onboard_time": 1661988682,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292054,
-      "num": 292054,
-      "word": "34岁老马去世2匹小马将送葬车拦停",
-      "onboard_time": 1662060491,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291442,
-      "num": 146882,
-      "word": "台湾是中国的一个省没有什么国防部",
-      "onboard_time": 1662052395,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 291276,
@@ -1715,14 +1763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263695,
-      "num": 263695,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 262802,
       "num": 221872,
       "word": "全都是李诞",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1662036209,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258455,
-      "num": 258455,
-      "word": "福建渔民用泥巴击落无人机",
-      "onboard_time": 1662067931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258167,
@@ -1881,14 +1913,6 @@
       "onboard_time": 1661998525,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234993,
-      "num": 234993,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231311,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1661958574,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202579,
+      "num": 202579,
+      "word": "米切尔加盟骑士",
+      "onboard_time": 1662073941,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 201174,
@@ -2315,6 +2347,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 165742,
+      "num": 165742,
+      "word": "袁悦晋级美网32强",
+      "onboard_time": 1662074121,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163471,
       "num": 163471,
       "word": "黄大妈",
@@ -2376,14 +2416,6 @@
       "word": "大熊猫宝宝突然汪了一声",
       "onboard_time": 1661964501,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156081,
-      "num": 156081,
-      "word": "主播应聘被要求对口型卖产品",
-      "onboard_time": 1662063071,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2547,6 +2579,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 131450,
+      "num": 131450,
+      "word": "莱斯特城0比1曼联",
+      "onboard_time": 1662074541,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130968,
       "num": 2462986,
       "word": "开学第一课",
@@ -2595,6 +2635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118930,
+      "num": 118930,
+      "word": "覆流年 上头",
+      "onboard_time": 1662073639,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113250,
       "num": 113250,
       "word": "王亚平说恢复地球人模式很开心",
@@ -2617,6 +2665,14 @@
       "onboard_time": 1661947468,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110244,
+      "num": 110244,
+      "word": "郑钦文",
+      "onboard_time": 1662073998,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 108288,
@@ -2659,6 +2715,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91132,
+      "num": 91132,
+      "word": "吴振峰又带货失败了",
+      "onboard_time": 1662062891,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 89327,
+      "num": 89327,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86361,
       "num": 86361,
       "word": "男子凌晨偷出租车拉活赚钱早上归还",
@@ -2683,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80570,
+      "num": 80570,
+      "word": "贵阳疫情防控",
+      "onboard_time": 1662074359,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79164,
       "num": 79164,
       "word": "王一博八月份八种身份",
@@ -2697,6 +2777,14 @@
       "onboard_time": 1661942608,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 77227,
+      "num": 77227,
+      "word": "披荆斩棘第一次公演歌单",
+      "onboard_time": 1662067991,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 76225,
@@ -2715,6 +2803,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 66928,
+      "num": 66928,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62529,
       "num": 62529,
       "word": "刘洋",
@@ -2729,38 +2825,6 @@
       "onboard_time": 1661988022,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47270,
-      "num": 47270,
-      "word": "成都静下来齐心抗疫",
-      "onboard_time": 1662057674,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45449,
-      "num": 45449,
-      "word": "吴振峰又带货失败了",
-      "onboard_time": 1662062891,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 37444,
-      "num": 37444,
-      "word": "披荆斩棘第一次公演歌单",
-      "onboard_time": 1662067991,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36104,
-      "num": 36104,
-      "word": "跳不出手掌心的小猫一枚",
-      "onboard_time": 1662067030,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 27800,

@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662071985302,
+  "endTime": 1662074633554,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -1419,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1090370,
+      "num": 335601,
+      "word": "台湾是中国的一个省没有什么国防部",
+      "onboard_time": 1662052395,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1080953,
       "num": 1080953,
       "word": "成都疫情传入链条超过20条",
@@ -2811,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609984,
+      "num": 609984,
+      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+      "onboard_time": 1662047188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606234,
       "num": 606234,
       "word": "成都两机场航班大面积取消",
@@ -2944,6 +2960,14 @@
       "word": "10岁姐姐西瓜藏水哄1岁妹妹喝",
       "onboard_time": 1661912548,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578272,
+      "num": 578272,
+      "word": "34岁老马去世2匹小马将送葬车拦停",
+      "onboard_time": 1662060491,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3235,6 +3259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 531393,
+      "num": 531393,
+      "word": "福建渔民用泥巴击落无人机",
+      "onboard_time": 1662067931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531263,
       "num": 173359,
       "word": "虞书欣演技",
@@ -3420,7 +3452,7 @@
     },
     {
       "raw_hot": 500654,
-      "num": 316074,
+      "num": 335317,
       "word": "谁是你心中的Bking天花板",
       "onboard_time": 1662048685,
       "rank": 20,
@@ -4035,6 +4067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417528,
+      "num": 417528,
+      "word": "空巢大学生",
+      "onboard_time": 1662066790,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 416492,
       "num": 416492,
       "word": "解放军在黄河上架设254米浮桥",
@@ -4219,6 +4259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401370,
+      "num": 401370,
+      "word": "大妈骑车被车门碰倒坐地索要1万5",
+      "onboard_time": 1662065291,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401184,
       "num": 401184,
       "word": "南山疫情防控",
@@ -4272,14 +4320,6 @@
       "word": "这是你见过最黑的大熊猫吗",
       "onboard_time": 1661778032,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395448,
-      "num": 395448,
-      "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
-      "onboard_time": 1662047188,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4739,6 +4779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360741,
+      "num": 360741,
+      "word": "赵晓卉发文回应退赛",
+      "onboard_time": 1662073699,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360606,
       "num": 360606,
       "word": "父母过度干涉你的生活是什么体验",
@@ -5099,6 +5147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 334968,
+      "num": 334968,
+      "word": "主播应聘被要求对口型卖产品",
+      "onboard_time": 1662063071,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334318,
       "num": 253996,
       "word": "王一博陈宇的汇报用词",
@@ -5336,6 +5392,14 @@
       "word": "新人坐公交车载亲朋参加婚礼",
       "onboard_time": 1661913988,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316530,
+      "num": 316530,
+      "word": "房车情侣回应被叫停车场乞丐",
+      "onboard_time": 1662073819,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5697,22 +5761,6 @@
       "onboard_time": 1661988682,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292054,
-      "num": 292054,
-      "word": "34岁老马去世2匹小马将送葬车拦停",
-      "onboard_time": 1662060491,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291442,
-      "num": 146882,
-      "word": "台湾是中国的一个省没有什么国防部",
-      "onboard_time": 1662052395,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 291276,
@@ -6251,14 +6299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263695,
-      "num": 263695,
-      "word": "空巢大学生",
-      "onboard_time": 1662066790,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 263666,
       "num": 263666,
       "word": "洪潇发全员丑照告别苍兰诀",
@@ -6361,14 +6401,6 @@
       "onboard_time": 1661922811,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258455,
-      "num": 258455,
-      "word": "福建渔民用泥巴击落无人机",
-      "onboard_time": 1662067931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258167,
@@ -6721,14 +6753,6 @@
       "onboard_time": 1661998525,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234993,
-      "num": 234993,
-      "word": "大妈骑车被车门碰倒坐地索要1万5",
-      "onboard_time": 1662065291,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233214,
@@ -7321,6 +7345,14 @@
       "onboard_time": 1661686286,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202579,
+      "num": 202579,
+      "word": "米切尔加盟骑士",
+      "onboard_time": 1662073941,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 202393,
@@ -7971,6 +8003,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 165742,
+      "num": 165742,
+      "word": "袁悦晋级美网32强",
+      "onboard_time": 1662074121,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165462,
       "num": 165462,
       "word": "阿里发布ESG报告",
@@ -8081,14 +8121,6 @@
       "onboard_time": 1661759008,
       "rank": 46,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 156081,
-      "num": 156081,
-      "word": "主播应聘被要求对口型卖产品",
-      "onboard_time": 1662063071,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155420,
@@ -8467,6 +8499,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 131450,
+      "num": 131450,
+      "word": "莱斯特城0比1曼联",
+      "onboard_time": 1662074541,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130519,
       "num": 130519,
       "word": "永远不要惯着插队的人",
@@ -8587,6 +8627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118930,
+      "num": 118930,
+      "word": "覆流年 上头",
+      "onboard_time": 1662073639,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118037,
       "num": 118037,
       "word": "男子洗澡时淋浴房玻璃门突然爆裂",
@@ -8625,6 +8673,14 @@
       "onboard_time": 1661691331,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110244,
+      "num": 110244,
+      "word": "郑钦文",
+      "onboard_time": 1662073998,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 108288,
@@ -8755,12 +8811,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91132,
+      "num": 91132,
+      "word": "吴振峰又带货失败了",
+      "onboard_time": 1662062891,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89526,
       "num": 87376,
       "word": "如何评价朱一龙演技",
       "onboard_time": 1661704163,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89327,
+      "num": 89327,
+      "word": "成都静下来齐心抗疫",
+      "onboard_time": 1662057674,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88612,
@@ -8827,12 +8899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80570,
+      "num": 80570,
+      "word": "贵阳疫情防控",
+      "onboard_time": 1662074359,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79978,
       "num": 79978,
       "word": "中国男篮半场领先9分",
       "onboard_time": 1661788232,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77227,
+      "num": 77227,
+      "word": "披荆斩棘第一次公演歌单",
+      "onboard_time": 1662067991,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 74619,
@@ -8865,6 +8953,14 @@
       "onboard_time": 1661688509,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66928,
+      "num": 66928,
+      "word": "跳不出手掌心的小猫一枚",
+      "onboard_time": 1662067030,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 64736,
@@ -8915,22 +9011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47270,
-      "num": 47270,
-      "word": "成都静下来齐心抗疫",
-      "onboard_time": 1662057674,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45449,
-      "num": 45449,
-      "word": "吴振峰又带货失败了",
-      "onboard_time": 1662062891,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 44137,
       "num": 43049,
       "word": "王鹤棣密逃4路透",
@@ -8953,22 +9033,6 @@
       "onboard_time": 1661696972,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 37444,
-      "num": 37444,
-      "word": "披荆斩棘第一次公演歌单",
-      "onboard_time": 1662067991,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36104,
-      "num": 36104,
-      "word": "跳不出手掌心的小猫一枚",
-      "onboard_time": 1662067030,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 33371,
