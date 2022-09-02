@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662158368306,
+  "endTime": 1662160959727,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 574460,
+      "num": 574460,
+      "word": "妈妈打开电视发现看啥都要VIP",
+      "onboard_time": 1662137065,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571002,
       "num": 571002,
       "word": "李莎旻子文科生的高光时刻",
@@ -99,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502606,
+      "num": 502606,
+      "word": "眼球突出并非因为长期戴眼镜",
+      "onboard_time": 1662143893,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488084,
       "num": 488084,
       "word": "网传甜美的咬痕将影视化",
       "onboard_time": 1662138799,
       "rank": 13,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 463555,
+      "num": 463555,
+      "word": "海大教师不配合核酸威胁他人被撤教师资格",
+      "onboard_time": 1662133588,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453476,
@@ -139,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415747,
-      "num": 415747,
-      "word": "海大教师不配合核酸威胁他人被撤教师资格",
-      "onboard_time": 1662133588,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 421128,
+      "num": 421128,
+      "word": "3胞胎中2人考同所大学笑成复制粘贴",
+      "onboard_time": 1662152650,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 378456,
@@ -153,14 +177,6 @@
       "onboard_time": 1662130950,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 375519,
-      "num": 375519,
-      "word": "妈妈打开电视发现看啥都要VIP",
-      "onboard_time": 1662137065,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358046,
@@ -227,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280511,
-      "num": 280511,
-      "word": "3胞胎中2人考同所大学笑成复制粘贴",
-      "onboard_time": 1662152650,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 275509,
       "num": 275509,
       "word": "教练你怎么不喝茶啊",
@@ -259,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253609,
-      "num": 253609,
-      "word": "眼球突出并非因为长期戴眼镜",
-      "onboard_time": 1662143893,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251188,
       "num": 251188,
       "word": "北京海淀增高中风险区各1个",
@@ -289,6 +289,14 @@
       "onboard_time": 1662135266,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239384,
+      "num": 239384,
+      "word": "刘芸听到郑钧穿私服上台的反应",
+      "onboard_time": 1662137480,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 231548,
@@ -336,14 +344,6 @@
       "word": "蒲熠星逆风翻盘好燃",
       "onboard_time": 1662134609,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200943,
-      "num": 150416,
-      "word": "刘芸听到郑钧穿私服上台的反应",
-      "onboard_time": 1662137480,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149311,
+      "num": 149311,
+      "word": "怎么当了老师还逃不过社死",
+      "onboard_time": 1662139758,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144812,
       "num": 144812,
       "word": "gala状态",
@@ -419,12 +427,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135424,
+      "num": 135424,
+      "word": "狗子头顶杀马特造型为理发店看门",
+      "onboard_time": 1662153490,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 128605,
       "num": 128605,
       "word": "员工因想报销50元话费被辞退",
       "onboard_time": 1662112167,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118139,
+      "num": 118139,
+      "word": "马克龙称法国不做任何大国的附庸",
+      "onboard_time": 1662160517,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 114230,
@@ -443,12 +467,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 101681,
-      "num": 101681,
-      "word": "怎么当了老师还逃不过社死",
-      "onboard_time": 1662139758,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 111005,
+      "num": 111005,
+      "word": "济宁疫情防控",
+      "onboard_time": 1662154391,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103959,
+      "num": 103959,
+      "word": "张帅生涯首进美网16强",
+      "onboard_time": 1662160878,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 98494,
@@ -459,20 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86085,
-      "num": 86085,
-      "word": "济宁疫情防控",
-      "onboard_time": 1662154391,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75181,
-      "num": 75181,
-      "word": "狗子头顶杀马特造型为理发店看门",
-      "onboard_time": 1662153490,
-      "rank": 48,
-      "category": "社会新闻,幽默"
+      "raw_hot": 72978,
+      "num": 72978,
+      "word": "铭记77年前的伟大胜利",
+      "onboard_time": 1662160459,
+      "rank": 40,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 62728,
@@ -483,8 +507,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 44444,
-      "num": 44444,
+      "raw_hot": 60851,
+      "num": 60851,
       "word": "沉香夫妇情感立意高级",
       "onboard_time": 1662132088,
       "rank": 36,
