@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662133285455,
+  "endTime": 1662136351891,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -65,6 +65,14 @@
       "onboard_time": 1662127289,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2585830,
+      "num": 2585830,
+      "word": "zzr",
+      "onboard_time": 1662132569,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 2574419,
@@ -345,6 +353,14 @@
       "onboard_time": 1662103046,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1531932,
+      "num": 1531932,
+      "word": "女子连吃数顿火锅血成牛奶色",
+      "onboard_time": 1662132865,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1528464,
@@ -859,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 882087,
+      "num": 522719,
+      "word": "出道战",
+      "onboard_time": 1662134188,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 874786,
       "num": 874786,
       "word": "原神喜茶",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1661957733,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784099,
+      "num": 495605,
+      "word": "赵露思直播",
+      "onboard_time": 1662133229,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 778764,
@@ -2051,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414382,
+      "num": 414382,
+      "word": "海大教师不配合核酸威胁他人被撤教师资格",
+      "onboard_time": 1662133588,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413356,
       "num": 413356,
       "word": "gala状态",
@@ -2160,6 +2200,14 @@
       "word": "北京9月1日新增1例本土确诊",
       "onboard_time": 1662080125,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398449,
+      "num": 398449,
+      "word": "杭州一列车长初筛阳性",
+      "onboard_time": 1662135207,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2275,6 +2323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 378456,
+      "num": 378456,
+      "word": "深圳中级",
+      "onboard_time": 1662130950,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 376493,
       "num": 342073,
       "word": "丁程鑫和小学班主任合影",
@@ -2289,14 +2345,6 @@
       "onboard_time": 1662087985,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 372390,
-      "num": 372390,
-      "word": "zzr",
-      "onboard_time": 1662132569,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 370760,
@@ -2483,6 +2531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 344389,
+      "num": 283021,
+      "word": "陈立农中餐厅卖烧烤爆单了",
+      "onboard_time": 1662135567,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342888,
       "num": 342888,
       "word": "成都发布",
@@ -2619,6 +2675,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 332311,
+      "num": 193357,
+      "word": "管泽元采访周杰伦",
+      "onboard_time": 1662135207,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 330619,
       "num": 330619,
       "word": "被HR追问试用期离职原因",
@@ -2641,6 +2705,14 @@
       "onboard_time": 1662024268,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329186,
+      "num": 200633,
+      "word": "杨幂叫自己幂姐",
+      "onboard_time": 1662135987,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 328902,
@@ -2881,14 +2953,6 @@
       "onboard_time": 1662036387,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300801,
-      "num": 300801,
-      "word": "深圳中级",
-      "onboard_time": 1662130950,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299630,
@@ -3219,6 +3283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272531,
+      "num": 272531,
+      "word": "白发老人穿衬衫西裤削土豆火了",
+      "onboard_time": 1662132330,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272516,
       "num": 272516,
       "word": "赖美云KPL夏决评论席嘉宾",
@@ -3459,6 +3531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251188,
+      "num": 251188,
+      "word": "北京海淀增高中风险区各1个",
+      "onboard_time": 1662133288,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250956,
       "num": 250956,
       "word": "非农",
@@ -3689,14 +3769,6 @@
       "onboard_time": 1662120926,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222871,
-      "num": 148906,
-      "word": "赵露思直播",
-      "onboard_time": 1662133229,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 222778,
@@ -3947,14 +4019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203357,
-      "num": 203357,
-      "word": "白发老人穿衬衫西裤削土豆火了",
-      "onboard_time": 1662132330,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202185,
       "num": 202185,
       "word": "河南增本土确诊4例无症状46例",
@@ -3971,12 +4035,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201391,
+      "num": 201391,
+      "word": "扁头的痛只有扁头懂",
+      "onboard_time": 1662133888,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "2022LPL夏决",
       "onboard_time": 1662028169,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201008,
+      "num": 163344,
+      "word": "蒲熠星逆风翻盘好燃",
+      "onboard_time": 1662134609,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 200704,
@@ -4129,14 +4209,6 @@
       "onboard_time": 1661959651,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186703,
-      "num": 186703,
-      "word": "女子连吃数顿火锅血成牛奶色",
-      "onboard_time": 1662132865,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186614,
@@ -4681,6 +4753,14 @@
       "onboard_time": 1661952867,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135665,
+      "num": 135665,
+      "word": "男子酒驾进了自己建的拘留所",
+      "onboard_time": 1662135266,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132613,

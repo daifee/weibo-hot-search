@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662133285455,
+  "endTime": 1662136351891,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -305,6 +305,14 @@
       "onboard_time": 1661741312,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2585830,
+      "num": 2585830,
+      "word": "zzr",
+      "onboard_time": 1662132569,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 2574419,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1661701229,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1531932,
+      "num": 1531932,
+      "word": "女子连吃数顿火锅血成牛奶色",
+      "onboard_time": 1662132865,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1528464,
@@ -2283,6 +2299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 882087,
+      "num": 522719,
+      "word": "出道战",
+      "onboard_time": 1662134188,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 877227,
       "num": 364421,
       "word": "吴磊出发星汉灿烂庆功宴",
@@ -2657,6 +2681,14 @@
       "onboard_time": 1661957733,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784099,
+      "num": 495605,
+      "word": "赵露思直播",
+      "onboard_time": 1662133229,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 779214,
@@ -5099,6 +5131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414382,
+      "num": 414382,
+      "word": "海大教师不配合核酸威胁他人被撤教师资格",
+      "onboard_time": 1662133588,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413356,
       "num": 413356,
       "word": "gala状态",
@@ -5320,6 +5360,14 @@
       "word": "爷孙同患癌父亲日扛20吨水泥救爷俩",
       "onboard_time": 1661923530,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398449,
+      "num": 398449,
+      "word": "杭州一列车长初筛阳性",
+      "onboard_time": 1662135207,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -5643,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378456,
+      "num": 378456,
+      "word": "深圳中级",
+      "onboard_time": 1662130950,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 377998,
       "num": 377998,
       "word": "蔡徐坤当制作人好温柔",
@@ -5681,14 +5737,6 @@
       "onboard_time": 1661781335,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372390,
-      "num": 372390,
-      "word": "zzr",
-      "onboard_time": 1662132569,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 371723,
@@ -6155,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344389,
+      "num": 283021,
+      "word": "陈立农中餐厅卖烧烤爆单了",
+      "onboard_time": 1662135567,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343392,
       "num": 309923,
       "word": "与凤行群像定妆照",
@@ -6403,6 +6459,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 332311,
+      "num": 193357,
+      "word": "管泽元采访周杰伦",
+      "onboard_time": 1662135207,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 332014,
       "num": 300505,
       "word": "罚罪",
@@ -6449,6 +6513,14 @@
       "onboard_time": 1662024268,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329186,
+      "num": 200633,
+      "word": "杨幂叫自己幂姐",
+      "onboard_time": 1662135987,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 328902,
@@ -6953,14 +7025,6 @@
       "onboard_time": 1661939007,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300801,
-      "num": 300801,
-      "word": "深圳中级",
-      "onboard_time": 1662130950,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 300306,
@@ -7521,6 +7585,14 @@
       "onboard_time": 1662035607,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272531,
+      "num": 272531,
+      "word": "白发老人穿衬衫西裤削土豆火了",
+      "onboard_time": 1662132330,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272516,
@@ -8147,6 +8219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251188,
+      "num": 251188,
+      "word": "北京海淀增高中风险区各1个",
+      "onboard_time": 1662133288,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250956,
       "num": 250956,
       "word": "非农",
@@ -8659,14 +8739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222871,
-      "num": 148906,
-      "word": "赵露思直播",
-      "onboard_time": 1662133229,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222778,
       "num": 222778,
       "word": "对重力过敏是啥体验",
@@ -9155,14 +9227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203357,
-      "num": 203357,
-      "word": "白发老人穿衬衫西裤削土豆火了",
-      "onboard_time": 1662132330,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202393,
       "num": 157928,
       "word": "与凤行",
@@ -9201,6 +9265,22 @@
       "onboard_time": 1661931868,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201391,
+      "num": 201391,
+      "word": "扁头的痛只有扁头懂",
+      "onboard_time": 1662133888,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201008,
+      "num": 163344,
+      "word": "蒲熠星逆风翻盘好燃",
+      "onboard_time": 1662134609,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 200704,
@@ -9560,14 +9640,6 @@
       "word": "重庆增11例本土确诊",
       "onboard_time": 1661823569,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186703,
-      "num": 186703,
-      "word": "女子连吃数顿火锅血成牛奶色",
-      "onboard_time": 1662132865,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -10521,6 +10593,14 @@
       "onboard_time": 1662001468,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 135665,
+      "num": 135665,
+      "word": "男子酒驾进了自己建的拘留所",
+      "onboard_time": 1662135266,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135408,
