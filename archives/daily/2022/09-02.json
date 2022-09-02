@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662124167971,
+  "endTime": 1662126099975,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -25,6 +25,14 @@
       "onboard_time": 1662088765,
       "rank": 0,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 2082083,
+      "num": 2082083,
+      "word": "EDG让二追三RNG",
+      "onboard_time": 1662124170,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 2053007,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1083100,
+      "num": 1083100,
+      "word": "9岁女孩得糖尿病血液似冻猪油",
+      "onboard_time": 1662124049,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1072985,
       "num": 1072985,
       "word": "男生网购117卷卫生纸25元包邮",
@@ -265,6 +281,14 @@
       "onboard_time": 1662119487,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 926061,
+      "num": 926061,
+      "word": "LPL三号种子EDG",
+      "onboard_time": 1662124170,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 925131,
@@ -355,6 +379,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 830699,
+      "num": 830699,
+      "word": "北京天通苑一小区出现刺猬",
+      "onboard_time": 1662123809,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806674,
       "num": 806674,
       "word": "印度首艘国产航母正式服役",
@@ -385,6 +417,14 @@
       "onboard_time": 1662093087,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 785937,
+      "num": 785937,
+      "word": "华为回应将发布向上捅破天技术",
+      "onboard_time": 1662120867,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 760302,
@@ -425,14 +465,6 @@
       "onboard_time": 1662096749,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 680204,
-      "num": 680204,
-      "word": "华为回应将发布向上捅破天技术",
-      "onboard_time": 1662120867,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 657511,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623125,
+      "num": 623125,
+      "word": "管泽元",
+      "onboard_time": 1662124588,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 621443,
       "num": 565753,
       "word": "沉香如屑直播",
@@ -512,6 +552,14 @@
       "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
       "onboard_time": 1662047188,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611151,
+      "num": 611151,
+      "word": "三只松鼠采万吨新疆核桃",
+      "onboard_time": 1662123326,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -643,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536244,
+      "num": 536244,
+      "word": "李健线上演唱会",
+      "onboard_time": 1662121587,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 528802,
       "num": 528802,
       "word": "医院每个规定都是教训换来的",
@@ -715,6 +771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 484931,
+      "num": 484931,
+      "word": "幼儿园小朋友跳皮筋馋哭80后",
+      "onboard_time": 1662122125,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484790,
       "num": 484790,
       "word": "RNG对战EDG",
@@ -745,6 +809,14 @@
       "onboard_time": 1662094950,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463675,
+      "num": 421510,
+      "word": "迪丽热巴龚俊设计的月饼",
+      "onboard_time": 1662125788,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 461287,
@@ -779,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449130,
+      "num": 449130,
+      "word": "处处不提爱处处都是爱",
+      "onboard_time": 1662124707,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449105,
       "num": 449105,
       "word": "贾浅浅未入选作协新会员名单",
@@ -787,12 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448653,
-      "num": 448653,
-      "word": "李健线上演唱会",
-      "onboard_time": 1662121587,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 444297,
+      "num": 444297,
+      "word": "胆小鬼大结局",
+      "onboard_time": 1662125009,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 440951,
@@ -1019,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360712,
+      "num": 360712,
+      "word": "胆小鬼",
+      "onboard_time": 1662125788,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359661,
       "num": 359661,
       "word": "考教资有什么用",
@@ -1089,14 +1177,6 @@
       "onboard_time": 1662081087,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 341805,
-      "num": 341805,
-      "word": "幼儿园小朋友跳皮筋馋哭80后",
-      "onboard_time": 1662122125,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340377,
@@ -1435,19 +1515,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 268949,
+      "num": 268949,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267351,
       "num": 267351,
       "word": "秦理黄姝哭死我了",
       "onboard_time": 1662123930,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 266405,
-      "num": 257697,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -1481,6 +1561,14 @@
       "onboard_time": 1662040589,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 264259,
+      "num": 264259,
+      "word": "张睿余墨扇始扇终",
+      "onboard_time": 1662125729,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 257585,
@@ -1739,14 +1827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209114,
-      "num": 209114,
-      "word": "北京天通苑一小区出现刺猬",
-      "onboard_time": 1662123809,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208188,
       "num": 192756,
       "word": "刘诗诗一念关山造型路透",
@@ -1883,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181660,
-      "num": 181660,
-      "word": "三只松鼠采万吨新疆核桃",
-      "onboard_time": 1662123326,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181219,
       "num": 181219,
       "word": "军哥哥变菌哥哥带村民4年挣1亿",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1662110547,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179667,
+      "num": 179667,
+      "word": "后羿与三星堆有什么关系",
+      "onboard_time": 1662124950,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179027,
@@ -2091,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152136,
+      "num": 152136,
+      "word": "圣枪哥鳄鱼",
+      "onboard_time": 1662125248,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151145,
       "num": 151145,
       "word": "这是为狗狗设计的陷阱吧",
@@ -2139,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142949,
+      "num": 142949,
+      "word": "大学生暑假送外卖赚1万7妈妈发声",
+      "onboard_time": 1662125788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131450,
       "num": 131450,
       "word": "莱斯特城0比1曼联",
@@ -2153,14 +2249,6 @@
       "onboard_time": 1662025169,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 127195,
-      "num": 127195,
-      "word": "9岁女孩得糖尿病血液似冻猪油",
-      "onboard_time": 1662124049,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126196,
