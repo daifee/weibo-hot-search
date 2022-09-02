@@ -1,7 +1,15 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662093997589,
+  "endTime": 1662094969848,
   "band_list": [
+    {
+      "raw_hot": 2737304,
+      "num": 2737304,
+      "word": "防窥膜 伤眼睛",
+      "onboard_time": 1662091829,
+      "rank": 1,
+      "category": "其它"
+    },
     {
       "raw_hot": 2383437,
       "num": 2383437,
@@ -9,14 +17,6 @@
       "onboard_time": 1662088765,
       "rank": 0,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 2134094,
-      "num": 2134094,
-      "word": "防窥膜 伤眼睛",
-      "onboard_time": 1662091829,
-      "rank": 1,
-      "category": "其它"
     },
     {
       "raw_hot": 1876187,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1340458,
-      "num": 1340458,
+      "raw_hot": 1483042,
+      "num": 1483042,
       "word": "女子小店吃面挑出80多只蚂蚁",
       "onboard_time": 1662091167,
       "rank": 4,
@@ -139,6 +139,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 787499,
+      "num": 787499,
+      "word": "金世佳吻戏捏手好苏",
+      "onboard_time": 1662093087,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 738416,
       "num": 738416,
       "word": "EXO将2023年完整体回归",
@@ -169,6 +177,14 @@
       "onboard_time": 1662078147,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 619822,
+      "num": 619822,
+      "word": "乐华娱乐撤回IPO计划",
+      "onboard_time": 1662092788,
+      "rank": 16,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 616671,
@@ -211,12 +227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572249,
+      "num": 572249,
+      "word": "高架生猪掉落撞上奔驰",
+      "onboard_time": 1662091948,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572182,
+      "num": 572182,
+      "word": "成毅沉香如屑暑期档最热角色",
+      "onboard_time": 1662094111,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569527,
       "num": 569527,
       "word": "吉林卫健委",
       "onboard_time": 1662086067,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567580,
+      "num": 567580,
+      "word": "苍兰诀宇宙",
+      "onboard_time": 1662094830,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 565851,
@@ -241,14 +281,6 @@
       "onboard_time": 1662067931,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 527760,
-      "num": 527760,
-      "word": "金世佳吻戏捏手好苏",
-      "onboard_time": 1662093087,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 523473,
@@ -291,12 +323,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 488182,
-      "num": 488182,
-      "word": "乐华娱乐撤回IPO计划",
-      "onboard_time": 1662092788,
-      "rank": 16,
-      "category": "财经,艺人"
+      "raw_hot": 490448,
+      "num": 490448,
+      "word": "余承东爆料全新通信技术",
+      "onboard_time": 1662090926,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 477853,
@@ -323,28 +355,28 @@
       "category": "情感,社会议题"
     },
     {
-      "raw_hot": 440478,
-      "num": 440478,
-      "word": "余承东爆料全新通信技术",
-      "onboard_time": 1662090926,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 430307,
-      "num": 430307,
-      "word": "高架生猪掉落撞上奔驰",
-      "onboard_time": 1662091948,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423975,
       "num": 423975,
       "word": "大妈骑车被车门碰倒坐地索要1万5",
       "onboard_time": 1662065291,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423779,
+      "num": 404416,
+      "word": "金莎一句我是蓝菲琳爷青回",
+      "onboard_time": 1662092909,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404521,
+      "num": 404521,
+      "word": "女子用扶梯传送行李砸伤路人",
+      "onboard_time": 1662091588,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 402483,
@@ -427,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 353383,
+      "num": 353383,
+      "word": "15岁中国飞车女孩将冲世界纪录",
+      "onboard_time": 1662090146,
+      "rank": 25,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 352757,
       "num": 352757,
       "word": "张艺兴续约街舞大使",
@@ -435,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349791,
-      "num": 349791,
-      "word": "金莎一句我是蓝菲琳爷青回",
-      "onboard_time": 1662092909,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349464,
       "num": 314840,
       "word": "杨洋援军明日到达开机仪式路透",
       "onboard_time": 1662083906,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349410,
+      "num": 349410,
+      "word": "阿里女员工案二审维持原判",
+      "onboard_time": 1662091707,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345217,
@@ -475,22 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339323,
-      "num": 339323,
-      "word": "女子用扶梯传送行李砸伤路人",
-      "onboard_time": 1662091588,
-      "rank": 24,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 338520,
-      "num": 338520,
-      "word": "15岁中国飞车女孩将冲世界纪录",
-      "onboard_time": 1662090146,
-      "rank": 25,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 334968,
       "num": 334968,
       "word": "主播应聘被要求对口型卖产品",
@@ -505,6 +529,14 @@
       "onboard_time": 1662078748,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332474,
+      "num": 332474,
+      "word": "计算机专业很容易单身吗",
+      "onboard_time": 1662093210,
+      "rank": 36,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 332062,
@@ -603,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284600,
+      "num": 284600,
+      "word": "典当店老板称不会将照片交给日本政府",
+      "onboard_time": 1662093748,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282205,
       "num": 282205,
       "word": "大连增112例本土无症状",
@@ -657,14 +697,6 @@
       "onboard_time": 1662093389,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 270889,
-      "num": 270889,
-      "word": "阿里女员工案二审维持原判",
-      "onboard_time": 1662091707,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265889,
@@ -729,14 +761,6 @@
       "onboard_time": 1662087564,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236176,
-      "num": 236176,
-      "word": "计算机专业很容易单身吗",
-      "onboard_time": 1662093210,
-      "rank": 36,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 235026,
@@ -835,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202904,
-      "num": 202904,
-      "word": "典当店老板称不会将照片交给日本政府",
-      "onboard_time": 1662093748,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202185,
       "num": 202185,
       "word": "河南增本土确诊4例无症状46例",
@@ -880,6 +896,14 @@
       "word": "9月1日新增确诊373例",
       "onboard_time": 1662084627,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198935,
+      "num": 198935,
+      "word": "美国典当行老板最新回应",
+      "onboard_time": 1662094230,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160396,
+      "num": 160396,
+      "word": "原来熊猫宝宝也爱八卦呀",
+      "onboard_time": 1662094710,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "TES超话",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1662092788,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156454,
+      "num": 156454,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1662094950,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 154953,
@@ -1195,7 +1235,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40546,
+      "raw_hot": 46729,
       "num": 1631092,
       "word": "开学第一课",
       "onboard_time": 1661942188,
@@ -1233,6 +1273,9 @@
     },
     {
       "word": "#直击中国国际服贸会#"
+    },
+    {
+      "word": "#抗战胜利77周年#"
     }
   ]
 }
