@@ -1,7 +1,15 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662132218537,
+  "endTime": 1662133285455,
   "band_list": [
+    {
+      "raw_hot": 3569396,
+      "num": 3569396,
+      "word": "东软",
+      "onboard_time": 1662131249,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
     {
       "raw_hot": 2737304,
       "num": 2737304,
@@ -33,14 +41,6 @@
       "onboard_time": 1662088765,
       "rank": 0,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 2095384,
-      "num": 2095384,
-      "word": "东软",
-      "onboard_time": 1662131249,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2082083,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1347179,
+      "num": 1347179,
+      "word": "王俊凯 塞拉斯",
+      "onboard_time": 1662130769,
+      "rank": 7,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1313804,
       "num": 459079,
       "word": "台湾是中国的一个省没有什么国防部",
@@ -217,6 +225,14 @@
       "onboard_time": 1662123809,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1243983,
+      "num": 1243983,
+      "word": "34岁独子住院1个月花费54万病亡",
+      "onboard_time": 1662131071,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1220946,
@@ -387,28 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 909206,
+      "num": 909206,
+      "word": "李莎旻子文科生的高光时刻",
+      "onboard_time": 1662130470,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 905119,
       "num": 905119,
       "word": "EDG让二追二",
       "onboard_time": 1662121467,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 889059,
-      "num": 889059,
-      "word": "王俊凯 塞拉斯",
-      "onboard_time": 1662130769,
-      "rank": 7,
-      "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 889054,
-      "num": 682965,
-      "word": "李莎旻子文科生的高光时刻",
-      "onboard_time": 1662130470,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 885288,
@@ -641,14 +649,6 @@
       "onboard_time": 1662102086,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 626413,
-      "num": 626413,
-      "word": "34岁独子住院1个月花费54万病亡",
-      "onboard_time": 1662131071,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 621443,
@@ -939,12 +939,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 476846,
+      "num": 476846,
+      "word": "教练你怎么不喝茶啊",
+      "onboard_time": 1662129209,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472725,
       "num": 472725,
       "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
       "onboard_time": 1662043112,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471195,
+      "num": 355268,
+      "word": "黑话律师",
+      "onboard_time": 1662131908,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 470341,
@@ -961,14 +977,6 @@
       "onboard_time": 1662094950,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 464147,
-      "num": 464147,
-      "word": "教练你怎么不喝茶啊",
-      "onboard_time": 1662129209,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 461287,
@@ -1019,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443716,
+      "num": 443716,
+      "word": "9月9日前重庆将分区分批开展核酸筛查",
+      "onboard_time": 1662130168,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440951,
       "num": 440951,
       "word": "成毅扫楼唱沉香如屑主题曲",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1662116965,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 424177,
-      "num": 424177,
-      "word": "9月9日前重庆将分区分批开展核酸筛查",
-      "onboard_time": 1662130168,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423975,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1662087985,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372390,
+      "num": 372390,
+      "word": "zzr",
+      "onboard_time": 1662132569,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 370760,
@@ -1427,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321222,
+      "num": 321222,
+      "word": "成毅新剧一人演两个人对打",
+      "onboard_time": 1662131790,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321033,
       "num": 321033,
       "word": "东莞一废弃厂房发生火灾致7死",
@@ -1441,14 +1465,6 @@
       "onboard_time": 1662073941,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320405,
-      "num": 226211,
-      "word": "成毅新剧一人演两个人对打",
-      "onboard_time": 1662131790,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 319759,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1662031948,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300801,
+      "num": 300801,
+      "word": "深圳中级",
+      "onboard_time": 1662130950,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299460,
@@ -1681,14 +1705,6 @@
       "onboard_time": 1662114686,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281072,
-      "num": 184864,
-      "word": "黑话律师",
-      "onboard_time": 1662131908,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 280052,
@@ -1955,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229443,
+      "num": 229443,
+      "word": "小羊肖恩杯子",
+      "onboard_time": 1662130232,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229099,
       "num": 229099,
       "word": "杨洋演的井启第",
@@ -2003,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222871,
+      "num": 148906,
+      "word": "赵露思直播",
+      "onboard_time": 1662133229,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216760,
       "num": 216760,
       "word": "冰雨火和广播剧的适配度",
@@ -2049,14 +2081,6 @@
       "onboard_time": 1662088163,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214651,
-      "num": 214651,
-      "word": "小羊肖恩杯子",
-      "onboard_time": 1662130232,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 214342,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1662100765,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203357,
+      "num": 203357,
+      "word": "白发老人穿衬衫西裤削土豆火了",
+      "onboard_time": 1662132330,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202185,
@@ -2243,20 +2275,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 186703,
+      "num": 186703,
+      "word": "女子连吃数顿火锅血成牛奶色",
+      "onboard_time": 1662132865,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182698,
       "num": 182698,
       "word": "吉林省新增本地确诊1例无症状40例",
       "onboard_time": 1662102266,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182672,
-      "num": 182672,
-      "word": "深圳中级",
-      "onboard_time": 1662130950,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181219,
