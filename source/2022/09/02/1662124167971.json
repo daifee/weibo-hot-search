@@ -1,0 +1,410 @@
+{
+  "runTime": 1662124167971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1823892,
+        "num": 1823892,
+        "word": "我国1400万人忍受极端通勤",
+        "onboard_time": 1662112765,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1619991,
+        "num": 1619991,
+        "word": "为什么不上jiejie",
+        "onboard_time": 1662117685,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63430,
+        "num": 1096824,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1003808,
+        "num": 1003808,
+        "word": "w两个世界翻拍版开机照",
+        "onboard_time": 1662115768,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 977749,
+        "num": 977749,
+        "word": "杨幂晒羊幂表情包告别花少",
+        "onboard_time": 1662121047,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 905119,
+        "num": 905119,
+        "word": "EDG让二追二",
+        "onboard_time": 1662121467,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 828236,
+        "num": 828236,
+        "word": "0713男团合体录制密逃4",
+        "onboard_time": 1662119487,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787838,
+        "num": 787838,
+        "word": "孟晚舟回母校都匀一中演讲",
+        "onboard_time": 1662116604,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781067,
+        "num": 781067,
+        "word": "男子家中被盗2只小狗被杀害",
+        "onboard_time": 1662115886,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 680204,
+        "num": 680204,
+        "word": "华为回应将发布向上捅破天技术",
+        "onboard_time": 1662120867,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 589188,
+        "num": 589188,
+        "word": "徐福记卷心酥食用时发现活虫",
+        "onboard_time": 1662118765,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565753,
+        "num": 565753,
+        "word": "沉香如屑直播",
+        "onboard_time": 1662119305,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556220,
+        "num": 556220,
+        "word": "24名工科专业女生23个被分到一个班",
+        "onboard_time": 1662117685,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 522688,
+        "num": 522688,
+        "word": "常斌 w两个世界",
+        "onboard_time": 1662120207,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9963,
+        "num": 510862,
+        "word": "原来1500年前就有交响乐",
+        "onboard_time": 1662123628,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509513,
+        "num": 509513,
+        "word": "RNG与EDG决胜局",
+        "onboard_time": 1662122066,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448653,
+        "num": 448653,
+        "word": "李健线上演唱会",
+        "onboard_time": 1662121587,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 439175,
+        "num": 439175,
+        "word": "员工因想报销50元话费被辞退",
+        "onboard_time": 1662112167,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389816,
+        "num": 389816,
+        "word": "没有一个人能拒绝周五",
+        "onboard_time": 1662119187,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363868,
+        "num": 363868,
+        "word": "原来英雄联盟是一款音游",
+        "onboard_time": 1662120027,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 717730,
+        "num": 361378,
+        "word": "乘客衣着暴露在地铁上劈叉摆拍",
+        "onboard_time": 1662113187,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341805,
+        "num": 341805,
+        "word": "幼儿园小朋友跳皮筋馋哭80后",
+        "onboard_time": 1662122125,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326386,
+        "num": 326386,
+        "word": "日本曾将台湾和大连纳入日本领土",
+        "onboard_time": 1662107906,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319636,
+        "num": 319636,
+        "word": "再就业男团线上音乐会",
+        "onboard_time": 1662123869,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307146,
+        "num": 307146,
+        "word": "李易峰直播",
+        "onboard_time": 1662115948,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298689,
+        "num": 298689,
+        "word": "广州疫情防控",
+        "onboard_time": 1662113244,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295640,
+        "num": 295640,
+        "word": "成毅听到粉丝要做帝后的反应",
+        "onboard_time": 1662118828,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281462,
+        "num": 281462,
+        "word": "台风",
+        "onboard_time": 1662114686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275405,
+        "num": 275405,
+        "word": "2022年第二批涉嫌非法社会组织名单",
+        "onboard_time": 1662120207,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271204,
+        "num": 271204,
+        "word": "女子切开西瓜发现黄豆芽",
+        "onboard_time": 1662103346,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267351,
+        "num": 267351,
+        "word": "秦理黄姝哭死我了",
+        "onboard_time": 1662123930,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263003,
+        "num": 263003,
+        "word": "央视中秋晚会第二波阵容官宣",
+        "onboard_time": 1662106166,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257697,
+        "num": 257697,
+        "word": "覆流年",
+        "onboard_time": 1662114686,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242728,
+        "num": 242728,
+        "word": "姜sir变成姜siri",
+        "onboard_time": 1662108867,
+        "rank": 33,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 235615,
+        "num": 235615,
+        "word": "医院每个规定都是教训换来的",
+        "onboard_time": 1662110486,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220968,
+        "num": 220968,
+        "word": "成都快递可接单正常配送",
+        "onboard_time": 1662117926,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209114,
+        "num": 209114,
+        "word": "北京天通苑一小区出现刺猬",
+        "onboard_time": 1662123809,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199582,
+        "num": 199582,
+        "word": "其实猪也会有烦恼吧",
+        "onboard_time": 1662120988,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186034,
+        "num": 186034,
+        "word": "女生极限通勤每天来回6.5小时",
+        "onboard_time": 1662099567,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181660,
+        "num": 181660,
+        "word": "三只松鼠采万吨新疆核桃",
+        "onboard_time": 1662123326,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195541,
+        "num": 177913,
+        "word": "苍兰诀弹幕互动量突破4亿",
+        "onboard_time": 1662118407,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 176149,
+        "word": "常远被马丽魏翔喂狗粮",
+        "onboard_time": 1662120926,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173375,
+        "num": 173375,
+        "word": "研究发现大脑能与脂肪直接对话",
+        "onboard_time": 1662110787,
+        "rank": 42,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 150242,
+        "num": 150242,
+        "word": "减肥狗子出走狂炫10根火腿肠",
+        "onboard_time": 1662107605,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140896,
+        "num": 140896,
+        "word": "国内首例婚内监护权案胜诉",
+        "onboard_time": 1662114448,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127195,
+        "num": 127195,
+        "word": "9岁女孩得糖尿病血液似冻猪油",
+        "onboard_time": 1662124049,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125916,
+        "num": 125916,
+        "word": "印度首艘国产航母正式服役",
+        "onboard_time": 1662106464,
+        "rank": 46,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 124548,
+        "num": 124548,
+        "word": "上海台风",
+        "onboard_time": 1662112285,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121361,
+        "num": 121361,
+        "word": "4500岁的打工人如何挣到1万个亿",
+        "onboard_time": 1662109885,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120996,
+        "num": 120996,
+        "word": "达辉",
+        "onboard_time": 1662117029,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

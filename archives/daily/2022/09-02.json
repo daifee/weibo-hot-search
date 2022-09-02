@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662122642484,
+  "endTime": 1662124167971,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1619991,
+      "num": 1619991,
+      "word": "为什么不上jiejie",
+      "onboard_time": 1662117685,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1557130,
       "num": 1058681,
       "word": "河南一医院院长当街用皮带抽打女子",
@@ -113,14 +121,6 @@
       "onboard_time": 1662091167,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1475150,
-      "num": 1475150,
-      "word": "为什么不上jiejie",
-      "onboard_time": 1662117685,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 1471500,
@@ -251,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 977749,
+      "num": 977749,
+      "word": "杨幂晒羊幂表情包告别花少",
+      "onboard_time": 1662121047,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 971951,
       "num": 971951,
       "word": "0713男团合体录制密逃4",
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 905119,
+      "num": 905119,
+      "word": "EDG让二追二",
+      "onboard_time": 1662121467,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 885288,
       "num": 885288,
       "word": "杨紫成毅新剧吻11次虐11次",
@@ -305,14 +321,6 @@
       "onboard_time": 1662080247,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 863539,
-      "num": 863539,
-      "word": "杨幂晒羊幂表情包告别花少",
-      "onboard_time": 1662121047,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 854742,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680204,
+      "num": 680204,
+      "word": "华为回应将发布向上捅破天技术",
+      "onboard_time": 1662120867,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 657511,
       "num": 613844,
       "word": "虞书欣王鹤棣苍兰诀逆光吻",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 621443,
-      "num": 562891,
+      "num": 565753,
       "word": "沉香如屑直播",
       "onboard_time": 1662119305,
       "rank": 10,
@@ -520,6 +536,14 @@
       "word": "典当店老板称不会将照片交给日本政府",
       "onboard_time": 1662093748,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589188,
+      "num": 589188,
+      "word": "徐福记卷心酥食用时发现活虫",
+      "onboard_time": 1662118765,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529354,
-      "num": 529354,
-      "word": "徐福记卷心酥食用时发现活虫",
-      "onboard_time": 1662118765,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 528802,
       "num": 528802,
       "word": "医院每个规定都是教训换来的",
@@ -643,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522688,
+      "num": 522688,
+      "word": "常斌 w两个世界",
+      "onboard_time": 1662120207,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 509513,
+      "num": 509513,
+      "word": "RNG与EDG决胜局",
+      "onboard_time": 1662122066,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 509292,
       "num": 509292,
       "word": "长春疫情防控",
@@ -651,28 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508612,
-      "num": 508612,
-      "word": "华为回应将发布向上捅破天技术",
-      "onboard_time": 1662120867,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 500654,
       "num": 377671,
       "word": "谁是你心中的Bking天花板",
       "onboard_time": 1662048685,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 494760,
-      "num": 494760,
-      "word": "常斌 w两个世界",
-      "onboard_time": 1662120207,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 491995,
@@ -769,6 +785,14 @@
       "onboard_time": 1662105685,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448653,
+      "num": 448653,
+      "word": "李健线上演唱会",
+      "onboard_time": 1662121587,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 440951,
@@ -891,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389816,
+      "num": 389816,
+      "word": "没有一个人能拒绝周五",
+      "onboard_time": 1662119187,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385798,
       "num": 385798,
       "word": "曾舜晞恋综首秀",
@@ -971,20 +1003,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 363868,
+      "num": 363868,
+      "word": "原来英雄联盟是一款音游",
+      "onboard_time": 1662120027,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 363597,
       "num": 363597,
       "word": "四川将启动政府猪肉储备投放",
       "onboard_time": 1662111926,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362331,
-      "num": 362331,
-      "word": "没有一个人能拒绝周五",
-      "onboard_time": 1662119187,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 359661,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1662106405,
       "rank": 43,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 354018,
-      "num": 284856,
-      "word": "李健线上演唱会",
-      "onboard_time": 1662121587,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 353383,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1662081087,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 341805,
+      "num": 341805,
+      "word": "幼儿园小朋友跳皮筋馋哭80后",
+      "onboard_time": 1662122125,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340377,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1662090506,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319636,
+      "num": 319636,
+      "word": "再就业男团线上音乐会",
+      "onboard_time": 1662123869,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 316419,
@@ -1275,12 +1315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295216,
-      "num": 295216,
-      "word": "RNG与EDG决胜局",
-      "onboard_time": 1662122066,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 295640,
+      "num": 295640,
+      "word": "成毅听到粉丝要做帝后的反应",
+      "onboard_time": 1662118828,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 290664,
@@ -1331,6 +1371,14 @@
       "category": "作品衍生,科技"
     },
     {
+      "raw_hot": 281462,
+      "num": 281462,
+      "word": "台风",
+      "onboard_time": 1662114686,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280052,
       "num": 441493,
       "word": "爸爸将一年级女儿送错学校",
@@ -1363,11 +1411,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 274838,
-      "num": 274838,
-      "word": "台风",
-      "onboard_time": 1662114686,
-      "rank": 22,
+      "raw_hot": 275405,
+      "num": 275405,
+      "word": "2022年第二批涉嫌非法社会组织名单",
+      "onboard_time": 1662120207,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1387,8 +1435,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 267351,
+      "num": 267351,
+      "word": "秦理黄姝哭死我了",
+      "onboard_time": 1662123930,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266405,
-      "num": 214751,
+      "num": 257697,
       "word": "覆流年",
       "onboard_time": 1662032488,
       "rank": 49,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1662046889,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265420,
-      "num": 213428,
-      "word": "成毅听到粉丝要做帝后的反应",
-      "onboard_time": 1662118828,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 265320,
@@ -1659,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211319,
-      "num": 211319,
-      "word": "2022年第二批涉嫌非法社会组织名单",
-      "onboard_time": 1662120207,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211275,
       "num": 215545,
       "word": "S12资格赛",
@@ -1699,12 +1739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209258,
-      "num": 209258,
-      "word": "EDG让二追二",
-      "onboard_time": 1662121467,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 209114,
+      "num": 209114,
+      "word": "北京天通苑一小区出现刺猬",
+      "onboard_time": 1662123809,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208188,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1662048565,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207475,
-      "num": 207475,
-      "word": "原来英雄联盟是一款音游",
-      "onboard_time": 1662120027,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 207105,
@@ -1848,6 +1880,14 @@
       "word": "吉林省新增本地确诊1例无症状40例",
       "onboard_time": 1662102266,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181660,
+      "num": 181660,
+      "word": "三只松鼠采万吨新疆核桃",
+      "onboard_time": 1662123326,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2075,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144828,
-      "num": 144828,
-      "word": "幼儿园小朋友跳皮筋馋哭80后",
-      "onboard_time": 1662122125,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144785,
       "num": 144785,
       "word": "范丞丞的嘴从不让人失望",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1662025169,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 127195,
+      "num": 127195,
+      "word": "9岁女孩得糖尿病血液似冻猪油",
+      "onboard_time": 1662124049,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126196,
@@ -2275,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63430,
+      "num": 1200806,
+      "word": "打卡2022服贸会",
+      "onboard_time": 1662121408,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 48747,
       "num": 48747,
       "word": "JDG夺冠",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1661942188,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42584,
-      "num": 1200806,
-      "word": "打卡2022服贸会",
-      "onboard_time": 1662121408,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 22357,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9963,
+      "num": 510862,
+      "word": "原来1500年前就有交响乐",
+      "onboard_time": 1662123628,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
